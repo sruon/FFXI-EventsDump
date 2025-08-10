@@ -1,0 +1,27 @@
+# 17883926
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Cirdas Caverns (ID: 270) |
+| Block Size       | 64 bytes                 |
+| Total Events     | 3                        |
+| References Count | 4                        |
+
+## Events
+
+| Event ID                | Offset   |   Size |   Instructions |
+|-------------------------|----------|--------|----------------|
+| [65535](./65535.md)     | 0x0000   |      1 |              1 |
+| [15](./15.md)           | 0x0001   |      1 |              1 |
+| [65535.1](./65535.1.md) | 0x0002   |     18 |              4 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x6FFE0     |      458720 |
+|       1 | 0x18C0B     |      101387 |
+|       2 | 0x283C      |       10300 |
+|       3 | 0x0000      |           0 |

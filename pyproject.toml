@@ -1,0 +1,81 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FFXI-EventsDump"
+version = "1.0.0"
+description = "FFXI Event Bytecode Parser and Analyzer"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    {name = "sruon", email = "sruon@users.noreply.github.com"}
+]
+
+dependencies = [
+    "construct>=2.10",
+    "networkx>=3.0",
+    "loguru>=0.7",
+    "tabulate>=0.9",
+    "jinja2>=3.1",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "black>=23.0",
+    "ruff>=0.1",
+    "mypy>=1.0",
+    "pre-commit>=3.0",
+]
+
+[project.scripts]
+xievents-parse = "dump_opcodes:main"
+
+[tool.setuptools]
+packages = ["parser", "models", "parser.opcodes"]
+
+[tool.black]
+line-length = 144
+target-version = ['py310']
+include = '\.pyi?$'
+extend-exclude = '''
+(
+  \.md$
+  | dumps/
+)
+'''
+
+[tool.ruff]
+line-length = 144
+target-version = "py310"
+
+[tool.ruff.lint]
+select = [
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "F",  # pyflakes
+    "I",  # isort
+    "B",  # flake8-bugbear
+    "C4", # flake8-comprehensions
+    "UP", # pyupgrade
+]
+ignore = [
+    "E501",  # line too long (handled by black)
+    "B008",  # do not perform function calls in argument defaults
+    "W191",  # indentation contains tabs
+]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-v --cov=parser --cov=models --cov-report=term-missing"

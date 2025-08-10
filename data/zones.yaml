@@ -1,0 +1,2406 @@
+zones:
+  - id: 0
+    name: "unknown"
+    files:
+      entities: "ROM3/2/110.DAT"
+      events: "ROM3/0/66.DAT"
+      strings_jp: "ROM3/1/38.DAT"
+      strings_na: "ROM3/2/10.DAT"
+
+  - id: 1
+    name: "Phanauet Channel"
+    files:
+      entities: "ROM3/2/111.DAT"
+      events: "ROM3/0/67.DAT"
+      strings_jp: "ROM3/1/39.DAT"
+      strings_na: "ROM3/2/11.DAT"
+
+  - id: 2
+    name: "Carpenters' Landing"
+    files:
+      entities: "ROM3/2/112.DAT"
+      events: "ROM3/0/68.DAT"
+      strings_jp: "ROM3/1/40.DAT"
+      strings_na: "ROM3/2/12.DAT"
+
+  - id: 3
+    name: "Manaclipper"
+    files:
+      entities: "ROM3/2/113.DAT"
+      events: "ROM3/0/69.DAT"
+      strings_jp: "ROM3/1/41.DAT"
+      strings_na: "ROM3/2/13.DAT"
+
+  - id: 4
+    name: "Bibiki Bay"
+    files:
+      entities: "ROM3/2/114.DAT"
+      events: "ROM3/0/70.DAT"
+      strings_jp: "ROM3/1/42.DAT"
+      strings_na: "ROM3/2/14.DAT"
+
+  - id: 5
+    name: "Uleguerand Range"
+    files:
+      entities: "ROM3/2/115.DAT"
+      events: "ROM3/0/71.DAT"
+      strings_jp: "ROM3/1/43.DAT"
+      strings_na: "ROM3/2/15.DAT"
+
+  - id: 6
+    name: "Bearclaw Pinnacle"
+    files:
+      entities: "ROM3/2/116.DAT"
+      events: "ROM3/0/72.DAT"
+      strings_jp: "ROM3/1/44.DAT"
+      strings_na: "ROM3/2/16.DAT"
+
+  - id: 7
+    name: "Attohwa Chasm"
+    files:
+      entities: "ROM3/2/117.DAT"
+      events: "ROM3/0/73.DAT"
+      strings_jp: "ROM3/1/45.DAT"
+      strings_na: "ROM3/2/17.DAT"
+
+  - id: 8
+    name: "Boneyard Gully"
+    files:
+      entities: "ROM3/2/118.DAT"
+      events: "ROM3/0/74.DAT"
+      strings_jp: "ROM3/1/46.DAT"
+      strings_na: "ROM3/2/18.DAT"
+
+  - id: 9
+    name: "Pso'Xja"
+    files:
+      entities: "ROM3/2/119.DAT"
+      events: "ROM3/0/75.DAT"
+      strings_jp: "ROM3/1/47.DAT"
+      strings_na: "ROM3/2/19.DAT"
+
+  - id: 10
+    name: "The Shrouded Maw"
+    files:
+      entities: "ROM3/2/120.DAT"
+      events: "ROM3/0/76.DAT"
+      strings_jp: "ROM3/1/48.DAT"
+      strings_na: "ROM3/2/20.DAT"
+
+  - id: 11
+    name: "Oldton Movalpolos"
+    files:
+      entities: "ROM3/2/121.DAT"
+      events: "ROM3/0/77.DAT"
+      strings_jp: "ROM3/1/49.DAT"
+      strings_na: "ROM3/2/21.DAT"
+
+  - id: 12
+    name: "Newton Movalpolos"
+    files:
+      entities: "ROM3/2/122.DAT"
+      events: "ROM3/0/78.DAT"
+      strings_jp: "ROM3/1/50.DAT"
+      strings_na: "ROM3/2/22.DAT"
+
+  - id: 13
+    name: "Mine Shaft #2716"
+    files:
+      entities: "ROM3/2/123.DAT"
+      events: "ROM3/0/79.DAT"
+      strings_jp: "ROM3/1/51.DAT"
+      strings_na: "ROM3/2/23.DAT"
+
+  - id: 14
+    name: "Hall of Transference"
+    files:
+      entities: "ROM3/2/124.DAT"
+      events: "ROM3/0/80.DAT"
+      strings_jp: "ROM3/1/52.DAT"
+      strings_na: "ROM3/2/24.DAT"
+
+  - id: 15
+    name: "Abyssea - Konschtat"
+    files:
+      entities: "ROM/25/80.DAT"
+      events: "ROM/19/80.DAT"
+      strings_jp: "ROM/21/80.DAT"
+      strings_na: "ROM/23/80.DAT"
+
+  - id: 16
+    name: "Promyvion - Holla"
+    files:
+      entities: "ROM3/2/126.DAT"
+      events: "ROM3/0/82.DAT"
+      strings_jp: "ROM3/1/54.DAT"
+      strings_na: "ROM3/2/26.DAT"
+
+  - id: 17
+    name: "Spire of Holla"
+    files:
+      entities: "ROM3/2/127.DAT"
+      events: "ROM3/0/83.DAT"
+      strings_jp: "ROM3/1/55.DAT"
+      strings_na: "ROM3/2/27.DAT"
+
+  - id: 18
+    name: "Promyvion - Dem"
+    files:
+      entities: "ROM3/3/0.DAT"
+      events: "ROM3/0/84.DAT"
+      strings_jp: "ROM3/1/56.DAT"
+      strings_na: "ROM3/2/28.DAT"
+
+  - id: 19
+    name: "Spire of Dem"
+    files:
+      entities: "ROM3/3/1.DAT"
+      events: "ROM3/0/85.DAT"
+      strings_jp: "ROM3/1/57.DAT"
+      strings_na: "ROM3/2/29.DAT"
+
+  - id: 20
+    name: "Promyvion - Mea"
+    files:
+      entities: "ROM3/3/2.DAT"
+      events: "ROM3/0/86.DAT"
+      strings_jp: "ROM3/1/58.DAT"
+      strings_na: "ROM3/2/30.DAT"
+
+  - id: 21
+    name: "Spire of Mea"
+    files:
+      entities: "ROM3/3/3.DAT"
+      events: "ROM3/0/87.DAT"
+      strings_jp: "ROM3/1/59.DAT"
+      strings_na: "ROM3/2/31.DAT"
+
+  - id: 22
+    name: "Promyvion - Vahzl"
+    files:
+      entities: "ROM3/3/4.DAT"
+      events: "ROM3/0/88.DAT"
+      strings_jp: "ROM3/1/60.DAT"
+      strings_na: "ROM3/2/32.DAT"
+
+  - id: 23
+    name: "Spire of Vahzl"
+    files:
+      entities: "ROM3/3/5.DAT"
+      events: "ROM3/0/89.DAT"
+      strings_jp: "ROM3/1/61.DAT"
+      strings_na: "ROM3/2/33.DAT"
+
+  - id: 24
+    name: "Lufaise Meadows"
+    files:
+      entities: "ROM3/3/6.DAT"
+      events: "ROM3/0/90.DAT"
+      strings_jp: "ROM3/1/62.DAT"
+      strings_na: "ROM3/2/34.DAT"
+
+  - id: 25
+    name: "Misareaux Coast"
+    files:
+      entities: "ROM3/3/7.DAT"
+      events: "ROM3/0/91.DAT"
+      strings_jp: "ROM3/1/63.DAT"
+      strings_na: "ROM3/2/35.DAT"
+
+  - id: 26
+    name: "Tavnazian Safehold"
+    files:
+      entities: "ROM3/3/8.DAT"
+      events: "ROM3/0/92.DAT"
+      strings_jp: "ROM3/1/64.DAT"
+      strings_na: "ROM3/2/36.DAT"
+
+  - id: 27
+    name: "Phomiuna Aqueducts"
+    files:
+      entities: "ROM3/3/9.DAT"
+      events: "ROM3/0/93.DAT"
+      strings_jp: "ROM3/1/65.DAT"
+      strings_na: "ROM3/2/37.DAT"
+
+  - id: 28
+    name: "Sacrarium"
+    files:
+      entities: "ROM3/3/10.DAT"
+      events: "ROM3/0/94.DAT"
+      strings_jp: "ROM3/1/66.DAT"
+      strings_na: "ROM3/2/38.DAT"
+
+  - id: 29
+    name: "Riverne - Site #B01"
+    files:
+      entities: "ROM3/3/11.DAT"
+      events: "ROM3/0/95.DAT"
+      strings_jp: "ROM3/1/67.DAT"
+      strings_na: "ROM3/2/39.DAT"
+
+  - id: 30
+    name: "Riverne - Site #A01"
+    files:
+      entities: "ROM3/3/12.DAT"
+      events: "ROM3/0/96.DAT"
+      strings_jp: "ROM3/1/68.DAT"
+      strings_na: "ROM3/2/40.DAT"
+
+  - id: 31
+    name: "Monarch Linn"
+    files:
+      entities: "ROM3/3/13.DAT"
+      events: "ROM3/0/97.DAT"
+      strings_jp: "ROM3/1/69.DAT"
+      strings_na: "ROM3/2/41.DAT"
+
+  - id: 32
+    name: "Sealion's Den"
+    files:
+      entities: "ROM3/3/14.DAT"
+      events: "ROM3/0/98.DAT"
+      strings_jp: "ROM3/1/70.DAT"
+      strings_na: "ROM3/2/42.DAT"
+
+  - id: 33
+    name: "Al'Taieu"
+    files:
+      entities: "ROM3/3/15.DAT"
+      events: "ROM3/0/99.DAT"
+      strings_jp: "ROM3/1/71.DAT"
+      strings_na: "ROM3/2/43.DAT"
+
+  - id: 34
+    name: "Grand Palace of Hu'Xzoi"
+    files:
+      entities: "ROM3/3/16.DAT"
+      events: "ROM3/0/100.DAT"
+      strings_jp: "ROM3/1/72.DAT"
+      strings_na: "ROM3/2/44.DAT"
+
+  - id: 35
+    name: "The Garden of Ru'Hmet"
+    files:
+      entities: "ROM3/3/17.DAT"
+      events: "ROM3/0/101.DAT"
+      strings_jp: "ROM3/1/73.DAT"
+      strings_na: "ROM3/2/45.DAT"
+
+  - id: 36
+    name: "Empyreal Paradox"
+    files:
+      entities: "ROM3/3/18.DAT"
+      events: "ROM3/0/102.DAT"
+      strings_jp: "ROM3/1/74.DAT"
+      strings_na: "ROM3/2/46.DAT"
+
+  - id: 37
+    name: "Temenos"
+    files:
+      entities: "ROM3/3/19.DAT"
+      events: "ROM3/0/103.DAT"
+      strings_jp: "ROM3/1/75.DAT"
+      strings_na: "ROM3/2/47.DAT"
+
+  - id: 38
+    name: "Apollyon"
+    files:
+      entities: "ROM3/3/20.DAT"
+      events: "ROM3/0/104.DAT"
+      strings_jp: "ROM3/1/76.DAT"
+      strings_na: "ROM3/2/48.DAT"
+
+  - id: 39
+    name: "Dynamis - Valkurm"
+    files:
+      entities: "ROM3/3/21.DAT"
+      events: "ROM3/0/105.DAT"
+      strings_jp: "ROM3/1/77.DAT"
+      strings_na: "ROM3/2/49.DAT"
+
+  - id: 40
+    name: "Dynamis - Buburimu"
+    files:
+      entities: "ROM3/3/22.DAT"
+      events: "ROM3/0/106.DAT"
+      strings_jp: "ROM3/1/78.DAT"
+      strings_na: "ROM3/2/50.DAT"
+
+  - id: 41
+    name: "Dynamis - Qufim"
+    files:
+      entities: "ROM3/3/23.DAT"
+      events: "ROM3/0/107.DAT"
+      strings_jp: "ROM3/1/79.DAT"
+      strings_na: "ROM3/2/51.DAT"
+
+  - id: 42
+    name: "Dynamis - Tavnazia"
+    files:
+      entities: "ROM3/3/24.DAT"
+      events: "ROM3/0/108.DAT"
+      strings_jp: "ROM3/1/80.DAT"
+      strings_na: "ROM3/2/52.DAT"
+
+  - id: 43
+    name: "Diorama Abdhaljs-Ghelsba"
+    files:
+      entities: "ROM3/3/25.DAT"
+      events: "ROM3/0/109.DAT"
+      strings_jp: "ROM3/1/81.DAT"
+      strings_na: "ROM3/2/53.DAT"
+
+  - id: 44
+    name: "Abdhaljs Isle-Purgonorgo"
+    files:
+      entities: "ROM3/3/26.DAT"
+      events: "ROM3/0/110.DAT"
+      strings_jp: "ROM3/1/82.DAT"
+      strings_na: "ROM3/2/54.DAT"
+
+  - id: 45
+    name: "Abyssea - Tahrongi"
+    files:
+      entities: "ROM/25/110.DAT"
+      events: "ROM/19/110.DAT"
+      strings_jp: "ROM/21/110.DAT"
+      strings_na: "ROM/23/110.DAT"
+
+  - id: 46
+    name: "Open sea route to Al Zahbi"
+    files:
+      entities: "ROM4/1/45.DAT"
+      events: "ROM4/0/51.DAT"
+      strings_jp: "ROM4/0/85.DAT"
+      strings_na: "ROM4/0/119.DAT"
+
+  - id: 47
+    name: "Open sea route to Mhaura"
+    files:
+      entities: "ROM4/1/46.DAT"
+      events: "ROM4/0/52.DAT"
+      strings_jp: "ROM4/0/86.DAT"
+      strings_na: "ROM4/0/120.DAT"
+
+  - id: 48
+    name: "Al Zahbi"
+    files:
+      entities: "ROM4/1/47.DAT"
+      events: "ROM4/0/53.DAT"
+      strings_jp: "ROM4/0/87.DAT"
+      strings_na: "ROM4/0/121.DAT"
+
+  - id: 49
+    name: "Test"
+    files:
+      entities: "ROM4/1/48.DAT"
+      events: "ROM4/0/54.DAT"
+      strings_jp: "ROM4/0/88.DAT"
+      strings_na: "ROM4/0/122.DAT"
+
+  - id: 50
+    name: "Aht Urhgan Whitegate"
+    files:
+      entities: "ROM4/1/49.DAT"
+      events: "ROM4/0/55.DAT"
+      strings_jp: "ROM4/0/89.DAT"
+      strings_na: "ROM4/0/123.DAT"
+  - id: 50
+    name: "Aht Urhgan Whitegate2"
+    files:
+      entities: "ROM4/1/49.DAT"
+      events: "ROM/186/95.DAT"
+      strings_jp: "ROM/186/97.DAT"
+      strings_na: "ROM/186/97.DAT"
+  - id: 51
+    name: "Wajaom Woodlands"
+    files:
+      entities: "ROM4/1/50.DAT"
+      events: "ROM4/0/56.DAT"
+      strings_jp: "ROM4/0/90.DAT"
+      strings_na: "ROM4/0/124.DAT"
+
+  - id: 52
+    name: "Bhaflau Thickets"
+    files:
+      entities: "ROM4/1/51.DAT"
+      events: "ROM4/0/57.DAT"
+      strings_jp: "ROM4/0/91.DAT"
+      strings_na: "ROM4/0/125.DAT"
+
+  - id: 53
+    name: "Nashmau"
+    files:
+      entities: "ROM4/1/52.DAT"
+      events: "ROM4/0/58.DAT"
+      strings_jp: "ROM4/0/92.DAT"
+      strings_na: "ROM4/0/126.DAT"
+
+  - id: 54
+    name: "Arrapago Reef"
+    files:
+      entities: "ROM4/1/53.DAT"
+      events: "ROM4/0/59.DAT"
+      strings_jp: "ROM4/0/93.DAT"
+      strings_na: "ROM4/0/127.DAT"
+
+  - id: 55
+    name: "Ilrusi Atoll"
+    files:
+      entities: "ROM4/1/54.DAT"
+      events: "ROM4/0/60.DAT"
+      strings_jp: "ROM4/0/94.DAT"
+      strings_na: "ROM4/1/0.DAT"
+
+  - id: 56
+    name: "Periqia"
+    files:
+      entities: "ROM4/1/55.DAT"
+      events: "ROM4/0/61.DAT"
+      strings_jp: "ROM4/0/95.DAT"
+      strings_na: "ROM4/1/1.DAT"
+
+  - id: 57
+    name: "Talacca Cove"
+    files:
+      entities: "ROM4/1/56.DAT"
+      events: "ROM4/0/62.DAT"
+      strings_jp: "ROM4/0/96.DAT"
+      strings_na: "ROM4/1/2.DAT"
+
+  - id: 58
+    name: "Silver Sea route to Nashmau"
+    files:
+      entities: "ROM4/1/57.DAT"
+      events: "ROM4/0/63.DAT"
+      strings_jp: "ROM4/0/97.DAT"
+      strings_na: "ROM4/1/3.DAT"
+
+  - id: 59
+    name: "Silver Sea route to Al Zahbi"
+    files:
+      entities: "ROM4/1/58.DAT"
+      events: "ROM4/0/64.DAT"
+      strings_jp: "ROM4/0/98.DAT"
+      strings_na: "ROM4/1/4.DAT"
+
+  - id: 60
+    name: "The Ashu Talif"
+    files:
+      entities: "ROM4/1/59.DAT"
+      events: "ROM4/0/65.DAT"
+      strings_jp: "ROM4/0/99.DAT"
+      strings_na: "ROM4/1/5.DAT"
+
+  - id: 61
+    name: "Mount Zhayolm"
+    files:
+      entities: "ROM4/1/60.DAT"
+      events: "ROM4/0/66.DAT"
+      strings_jp: "ROM4/0/100.DAT"
+      strings_na: "ROM4/1/6.DAT"
+
+  - id: 62
+    name: "Halvung"
+    files:
+      entities: "ROM4/1/61.DAT"
+      events: "ROM4/0/67.DAT"
+      strings_jp: "ROM4/0/101.DAT"
+      strings_na: "ROM4/1/7.DAT"
+
+  - id: 63
+    name: "Lebros Cavern"
+    files:
+      entities: "ROM4/1/62.DAT"
+      events: "ROM4/0/68.DAT"
+      strings_jp: "ROM4/0/102.DAT"
+      strings_na: "ROM4/1/8.DAT"
+
+  - id: 64
+    name: "Navukgo Execution Chamber"
+    files:
+      entities: "ROM4/1/63.DAT"
+      events: "ROM4/0/69.DAT"
+      strings_jp: "ROM4/0/103.DAT"
+      strings_na: "ROM4/1/9.DAT"
+
+  - id: 65
+    name: "Mamook"
+    files:
+      entities: "ROM4/1/64.DAT"
+      events: "ROM4/0/70.DAT"
+      strings_jp: "ROM4/0/104.DAT"
+      strings_na: "ROM4/1/10.DAT"
+
+  - id: 66
+    name: "Mamool Ja Training Grounds"
+    files:
+      entities: "ROM4/1/65.DAT"
+      events: "ROM4/0/71.DAT"
+      strings_jp: "ROM4/0/105.DAT"
+      strings_na: "ROM4/1/11.DAT"
+
+  - id: 67
+    name: "Jade Sepulcher"
+    files:
+      entities: "ROM4/1/66.DAT"
+      events: "ROM4/0/72.DAT"
+      strings_jp: "ROM4/0/106.DAT"
+      strings_na: "ROM4/1/12.DAT"
+
+  - id: 68
+    name: "Aydeewa Subterrane"
+    files:
+      entities: "ROM4/1/67.DAT"
+      events: "ROM4/0/73.DAT"
+      strings_jp: "ROM4/0/107.DAT"
+      strings_na: "ROM4/1/13.DAT"
+
+  - id: 69
+    name: "Leujaoam Sanctum"
+    files:
+      entities: "ROM4/1/68.DAT"
+      events: "ROM4/0/74.DAT"
+      strings_jp: "ROM4/0/108.DAT"
+      strings_na: "ROM4/1/14.DAT"
+
+  - id: 70
+    name: "Chocobo Circuit"
+    files:
+      entities: "ROM4/1/69.DAT"
+      events: "ROM4/0/75.DAT"
+      strings_jp: "ROM4/0/109.DAT"
+      strings_na: "ROM4/1/15.DAT"
+
+  - id: 71
+    name: "The Colosseum"
+    files:
+      entities: "ROM4/1/70.DAT"
+      events: "ROM4/0/76.DAT"
+      strings_jp: "ROM4/0/110.DAT"
+      strings_na: "ROM4/1/16.DAT"
+
+  - id: 72
+    name: "Alzadaal Undersea Ruins"
+    files:
+      entities: "ROM4/1/71.DAT"
+      events: "ROM4/0/77.DAT"
+      strings_jp: "ROM4/0/111.DAT"
+      strings_na: "ROM4/1/17.DAT"
+
+  - id: 73
+    name: "Zhayolm Remnants"
+    files:
+      entities: "ROM4/1/72.DAT"
+      events: "ROM4/0/78.DAT"
+      strings_jp: "ROM4/0/112.DAT"
+      strings_na: "ROM4/1/18.DAT"
+
+  - id: 74
+    name: "Arrapago Remnants"
+    files:
+      entities: "ROM4/1/73.DAT"
+      events: "ROM4/0/79.DAT"
+      strings_jp: "ROM4/0/113.DAT"
+      strings_na: "ROM4/1/19.DAT"
+
+  - id: 75
+    name: "Bhaflau Remnants"
+    files:
+      entities: "ROM4/1/74.DAT"
+      events: "ROM4/0/80.DAT"
+      strings_jp: "ROM4/0/114.DAT"
+      strings_na: "ROM4/1/20.DAT"
+
+  - id: 76
+    name: "Silver Sea Remnants"
+    files:
+      entities: "ROM4/1/75.DAT"
+      events: "ROM4/0/81.DAT"
+      strings_jp: "ROM4/0/115.DAT"
+      strings_na: "ROM4/1/21.DAT"
+
+  - id: 77
+    name: "Nyzul Isle"
+    files:
+      entities: "ROM4/1/76.DAT"
+      events: "ROM4/0/82.DAT"
+      strings_jp: "ROM4/0/116.DAT"
+      strings_na: "ROM4/1/22.DAT"
+
+  - id: 78
+    name: "Hazhalm Testing Grounds"
+    files:
+      entities: "ROM4/1/77.DAT"
+      events: "ROM4/0/83.DAT"
+      strings_jp: "ROM4/0/117.DAT"
+      strings_na: "ROM4/1/23.DAT"
+
+  - id: 79
+    name: "Caedarva Mire"
+    files:
+      entities: "ROM4/1/78.DAT"
+      events: "ROM4/0/84.DAT"
+      strings_jp: "ROM4/0/118.DAT"
+      strings_na: "ROM4/1/24.DAT"
+
+  - id: 80
+    name: "Southern San d'Oria [S]"
+    files:
+      entities: "ROM/26/17.DAT"
+      events: "ROM/20/17.DAT"
+      strings_jp: "ROM/22/17.DAT"
+      strings_na: "ROM/24/17.DAT"
+
+  - id: 81
+    name: "East Ronfaure [S]"
+    files:
+      entities: "ROM/26/18.DAT"
+      events: "ROM/20/18.DAT"
+      strings_jp: "ROM/22/18.DAT"
+      strings_na: "ROM/24/18.DAT"
+
+  - id: 82
+    name: "Jugner Forest [S]"
+    files:
+      entities: "ROM/26/19.DAT"
+      events: "ROM/20/19.DAT"
+      strings_jp: "ROM/22/19.DAT"
+      strings_na: "ROM/24/19.DAT"
+
+  - id: 83
+    name: "Vunkerl Inlet [S]"
+    files:
+      entities: "ROM/26/20.DAT"
+      events: "ROM/20/20.DAT"
+      strings_jp: "ROM/22/20.DAT"
+      strings_na: "ROM/24/20.DAT"
+
+  - id: 84
+    name: "Batallia Downs [S]"
+    files:
+      entities: "ROM/26/21.DAT"
+      events: "ROM/20/21.DAT"
+      strings_jp: "ROM/22/21.DAT"
+      strings_na: "ROM/24/21.DAT"
+
+  - id: 85
+    name: "La Vaule [S]"
+    files:
+      entities: "ROM/26/22.DAT"
+      events: "ROM/20/22.DAT"
+      strings_jp: "ROM/22/22.DAT"
+      strings_na: "ROM/24/22.DAT"
+
+  - id: 86
+    name: "Everbloom Hollow"
+    files:
+      entities: "ROM/26/23.DAT"
+      events: "ROM/20/23.DAT"
+      strings_jp: "ROM/22/23.DAT"
+      strings_na: "ROM/24/23.DAT"
+
+  - id: 87
+    name: "Bastok Markets [S]"
+    files:
+      entities: "ROM/26/24.DAT"
+      events: "ROM/20/24.DAT"
+      strings_jp: "ROM/22/24.DAT"
+      strings_na: "ROM/24/24.DAT"
+
+  - id: 88
+    name: "North Gustaberg [S]"
+    files:
+      entities: "ROM/26/25.DAT"
+      events: "ROM/20/25.DAT"
+      strings_jp: "ROM/22/25.DAT"
+      strings_na: "ROM/24/25.DAT"
+
+  - id: 89
+    name: "Grauberg [S]"
+    files:
+      entities: "ROM/26/26.DAT"
+      events: "ROM/20/26.DAT"
+      strings_jp: "ROM/22/26.DAT"
+      strings_na: "ROM/24/26.DAT"
+
+  - id: 90
+    name: "Pashhow Marshlands [S]"
+    files:
+      entities: "ROM/26/27.DAT"
+      events: "ROM/20/27.DAT"
+      strings_jp: "ROM/22/27.DAT"
+      strings_na: "ROM/24/27.DAT"
+
+  - id: 91
+    name: "Rolanberry Fields [S]"
+    files:
+      entities: "ROM/26/28.DAT"
+      events: "ROM/20/28.DAT"
+      strings_jp: "ROM/22/28.DAT"
+      strings_na: "ROM/24/28.DAT"
+
+  - id: 92
+    name: "Beadeaux [S]"
+    files:
+      entities: "ROM/26/29.DAT"
+      events: "ROM/20/29.DAT"
+      strings_jp: "ROM/22/29.DAT"
+      strings_na: "ROM/24/29.DAT"
+
+  - id: 93
+    name: "Ruhotz Silvermines"
+    files:
+      entities: "ROM/26/30.DAT"
+      events: "ROM/20/30.DAT"
+      strings_jp: "ROM/22/30.DAT"
+      strings_na: "ROM/24/30.DAT"
+
+  - id: 94
+    name: "Windurst Waters [S]"
+    files:
+      entities: "ROM/26/31.DAT"
+      events: "ROM/20/31.DAT"
+      strings_jp: "ROM/22/31.DAT"
+      strings_na: "ROM/24/31.DAT"
+
+  - id: 95
+    name: "West Sarutabaruta [S]"
+    files:
+      entities: "ROM/26/32.DAT"
+      events: "ROM/20/32.DAT"
+      strings_jp: "ROM/22/32.DAT"
+      strings_na: "ROM/24/32.DAT"
+
+  - id: 96
+    name: "Fort Karugo-Narugo [S]"
+    files:
+      entities: "ROM/26/33.DAT"
+      events: "ROM/20/33.DAT"
+      strings_jp: "ROM/22/33.DAT"
+      strings_na: "ROM/24/33.DAT"
+
+  - id: 97
+    name: "Meriphataud Mountains [S]"
+    files:
+      entities: "ROM/26/34.DAT"
+      events: "ROM/20/34.DAT"
+      strings_jp: "ROM/22/34.DAT"
+      strings_na: "ROM/24/34.DAT"
+
+  - id: 98
+    name: "Sauromugue Champaign [S]"
+    files:
+      entities: "ROM/26/35.DAT"
+      events: "ROM/20/35.DAT"
+      strings_jp: "ROM/22/35.DAT"
+      strings_na: "ROM/24/35.DAT"
+
+  - id: 99
+    name: "Castle Oztroja [S]"
+    files:
+      entities: "ROM/26/36.DAT"
+      events: "ROM/20/36.DAT"
+      strings_jp: "ROM/22/36.DAT"
+      strings_na: "ROM/24/36.DAT"
+
+  - id: 100
+    name: "West Ronfaure"
+    files:
+      entities: "ROM/26/37.DAT"
+      events: "ROM/20/37.DAT"
+      strings_jp: "ROM/22/37.DAT"
+      strings_na: "ROM/24/37.DAT"
+
+  - id: 101
+    name: "East Ronfaure"
+    files:
+      entities: "ROM/26/38.DAT"
+      events: "ROM/20/38.DAT"
+      strings_jp: "ROM/22/38.DAT"
+      strings_na: "ROM/24/38.DAT"
+
+  - id: 102
+    name: "La Theine Plateau"
+    files:
+      entities: "ROM/26/39.DAT"
+      events: "ROM/20/39.DAT"
+      strings_jp: "ROM/22/39.DAT"
+      strings_na: "ROM/24/39.DAT"
+
+  - id: 103
+    name: "Valkurm Dunes"
+    files:
+      entities: "ROM/26/40.DAT"
+      events: "ROM/20/40.DAT"
+      strings_jp: "ROM/22/40.DAT"
+      strings_na: "ROM/24/40.DAT"
+
+  - id: 104
+    name: "Jugner Forest"
+    files:
+      entities: "ROM/26/41.DAT"
+      events: "ROM/20/41.DAT"
+      strings_jp: "ROM/22/41.DAT"
+      strings_na: "ROM/24/41.DAT"
+
+  - id: 105
+    name: "Batallia Downs"
+    files:
+      entities: "ROM/26/42.DAT"
+      events: "ROM/20/42.DAT"
+      strings_jp: "ROM/22/42.DAT"
+      strings_na: "ROM/24/42.DAT"
+
+  - id: 106
+    name: "North Gustaberg"
+    files:
+      entities: "ROM/26/43.DAT"
+      events: "ROM/20/43.DAT"
+      strings_jp: "ROM/22/43.DAT"
+      strings_na: "ROM/24/43.DAT"
+
+  - id: 107
+    name: "South Gustaberg"
+    files:
+      entities: "ROM/26/44.DAT"
+      events: "ROM/20/44.DAT"
+      strings_jp: "ROM/22/44.DAT"
+      strings_na: "ROM/24/44.DAT"
+
+  - id: 108
+    name: "Konschtat Highlands"
+    files:
+      entities: "ROM/26/45.DAT"
+      events: "ROM/20/45.DAT"
+      strings_jp: "ROM/22/45.DAT"
+      strings_na: "ROM/24/45.DAT"
+
+  - id: 109
+    name: "Pashhow Marshlands"
+    files:
+      entities: "ROM/26/46.DAT"
+      events: "ROM/20/46.DAT"
+      strings_jp: "ROM/22/46.DAT"
+      strings_na: "ROM/24/46.DAT"
+
+  - id: 110
+    name: "Rolanberry Fields"
+    files:
+      entities: "ROM/26/47.DAT"
+      events: "ROM/20/47.DAT"
+      strings_jp: "ROM/22/47.DAT"
+      strings_na: "ROM/24/47.DAT"
+
+  - id: 111
+    name: "Beaucedine Glacier"
+    files:
+      entities: "ROM/26/48.DAT"
+      events: "ROM/20/48.DAT"
+      strings_jp: "ROM/22/48.DAT"
+      strings_na: "ROM/24/48.DAT"
+
+  - id: 112
+    name: "Xarcabard"
+    files:
+      entities: "ROM/26/49.DAT"
+      events: "ROM/20/49.DAT"
+      strings_jp: "ROM/22/49.DAT"
+      strings_na: "ROM/24/49.DAT"
+
+  - id: 113
+    name: "Cape Teriggan"
+    files:
+      entities: "ROM2/13/95.DAT"
+      events: "ROM2/13/5.DAT"
+      strings_jp: "ROM2/13/50.DAT"
+      strings_na: "ROM2/17/46.DAT"
+
+  - id: 114
+    name: "Eastern Altepa Desert"
+    files:
+      entities: "ROM2/13/96.DAT"
+      events: "ROM2/13/6.DAT"
+      strings_jp: "ROM2/13/51.DAT"
+      strings_na: "ROM2/17/47.DAT"
+
+  - id: 115
+    name: "West Sarutabaruta"
+    files:
+      entities: "ROM/26/52.DAT"
+      events: "ROM/20/52.DAT"
+      strings_jp: "ROM/22/52.DAT"
+      strings_na: "ROM/24/52.DAT"
+
+  - id: 116
+    name: "East Sarutabaruta"
+    files:
+      entities: "ROM/26/53.DAT"
+      events: "ROM/20/53.DAT"
+      strings_jp: "ROM/22/53.DAT"
+      strings_na: "ROM/24/53.DAT"
+
+  - id: 117
+    name: "Tahrongi Canyon"
+    files:
+      entities: "ROM/26/54.DAT"
+      events: "ROM/20/54.DAT"
+      strings_jp: "ROM/22/54.DAT"
+      strings_na: "ROM/24/54.DAT"
+
+  - id: 118
+    name: "Buburimu Peninsula"
+    files:
+      entities: "ROM/26/55.DAT"
+      events: "ROM/20/55.DAT"
+      strings_jp: "ROM/22/55.DAT"
+      strings_na: "ROM/24/55.DAT"
+
+  - id: 119
+    name: "Meriphataud Mountains"
+    files:
+      entities: "ROM/26/56.DAT"
+      events: "ROM/20/56.DAT"
+      strings_jp: "ROM/22/56.DAT"
+      strings_na: "ROM/24/56.DAT"
+
+  - id: 120
+    name: "Sauromugue Champaign"
+    files:
+      entities: "ROM/26/57.DAT"
+      events: "ROM/20/57.DAT"
+      strings_jp: "ROM/22/57.DAT"
+      strings_na: "ROM/24/57.DAT"
+
+  - id: 121
+    name: "The Sanctuary of Zi'Tah"
+    files:
+      entities: "ROM2/13/97.DAT"
+      events: "ROM2/13/7.DAT"
+      strings_jp: "ROM2/13/52.DAT"
+      strings_na: "ROM2/17/54.DAT"
+
+  - id: 122
+    name: "Ro'Maeve"
+    files:
+      entities: "ROM2/13/98.DAT"
+      events: "ROM2/13/8.DAT"
+      strings_jp: "ROM2/13/53.DAT"
+      strings_na: "ROM2/17/55.DAT"
+
+  - id: 123
+    name: "Yuhtunga Jungle"
+    files:
+      entities: "ROM2/13/99.DAT"
+      events: "ROM2/13/9.DAT"
+      strings_jp: "ROM2/13/54.DAT"
+      strings_na: "ROM2/17/56.DAT"
+
+  - id: 124
+    name: "Yhoator Jungle"
+    files:
+      entities: "ROM2/13/100.DAT"
+      events: "ROM2/13/10.DAT"
+      strings_jp: "ROM2/13/55.DAT"
+      strings_na: "ROM2/17/57.DAT"
+
+  - id: 125
+    name: "Western Altepa Desert"
+    files:
+      entities: "ROM2/13/101.DAT"
+      events: "ROM2/13/11.DAT"
+      strings_jp: "ROM2/13/56.DAT"
+      strings_na: "ROM2/17/58.DAT"
+
+  - id: 126
+    name: "Qufim Island"
+    files:
+      entities: "ROM/26/63.DAT"
+      events: "ROM/20/63.DAT"
+      strings_jp: "ROM/22/63.DAT"
+      strings_na: "ROM/24/63.DAT"
+
+  - id: 127
+    name: "Behemoth's Dominion"
+    files:
+      entities: "ROM/26/64.DAT"
+      events: "ROM/20/64.DAT"
+      strings_jp: "ROM/22/64.DAT"
+      strings_na: "ROM/24/64.DAT"
+
+  - id: 128
+    name: "Valley of Sorrows"
+    files:
+      entities: "ROM2/13/102.DAT"
+      events: "ROM2/13/12.DAT"
+      strings_jp: "ROM2/13/57.DAT"
+      strings_na: "ROM2/17/61.DAT"
+
+  - id: 129
+    name: "Ghoyu's Reverie"
+    files:
+      entities: "ROM/26/66.DAT"
+      events: "ROM/20/66.DAT"
+      strings_jp: "ROM/22/66.DAT"
+      strings_na: "ROM/24/66.DAT"
+
+  - id: 130
+    name: "Ru'Aun Gardens"
+    files:
+      entities: "ROM2/13/103.DAT"
+      events: "ROM2/13/13.DAT"
+      strings_jp: "ROM2/13/58.DAT"
+      strings_na: "ROM2/17/63.DAT"
+
+  - id: 131
+    name: "Mordion Gaol"
+    files:
+      entities: "ROM/26/68.DAT"
+      events: "ROM/20/68.DAT"
+      strings_jp: "ROM/22/68.DAT"
+      strings_na: "ROM/24/68.DAT"
+
+  - id: 132
+    name: "Abyssea - La Theine"
+    files:
+      entities: "ROM/26/69.DAT"
+      events: "ROM/20/69.DAT"
+      strings_jp: "ROM/22/69.DAT"
+      strings_na: "ROM/24/69.DAT"
+
+  - id: 133
+    name: "Outer Ra'Kaznar [U2]"
+    files:
+      entities: "ROM9/8/71.DAT"
+      events: "ROM9/8/68.DAT"
+      strings_jp: "ROM9/8/69.DAT"
+      strings_na: "ROM9/8/70.DAT"
+
+  - id: 134
+    name: "Dynamis - Beaucedine"
+    files:
+      entities: "ROM2/13/104.DAT"
+      events: "ROM2/13/14.DAT"
+      strings_jp: "ROM2/13/59.DAT"
+      strings_na: "ROM2/17/67.DAT"
+
+  - id: 135
+    name: "Dynamis - Xarcabard"
+    files:
+      entities: "ROM2/13/105.DAT"
+      events: "ROM2/13/15.DAT"
+      strings_jp: "ROM2/13/60.DAT"
+      strings_na: "ROM2/17/68.DAT"
+
+  - id: 136
+    name: "Beaucedine Glacier [S]"
+    files:
+      entities: "ROM/26/73.DAT"
+      events: "ROM/20/73.DAT"
+      strings_jp: "ROM/22/73.DAT"
+      strings_na: "ROM/24/73.DAT"
+
+  - id: 137
+    name: "Xarcabard [S]"
+    files:
+      entities: "ROM/26/74.DAT"
+      events: "ROM/20/74.DAT"
+      strings_jp: "ROM/22/74.DAT"
+      strings_na: "ROM/24/74.DAT"
+
+  - id: 138
+    name: "Castle Zvahl Baileys [S]"
+    files:
+      entities: "ROM/26/75.DAT"
+      events: "ROM/20/75.DAT"
+      strings_jp: "ROM/22/75.DAT"
+      strings_na: "ROM/24/75.DAT"
+
+  - id: 139
+    name: "Horlais Peak"
+    files:
+      entities: "ROM/26/76.DAT"
+      events: "ROM/20/76.DAT"
+      strings_jp: "ROM/22/76.DAT"
+      strings_na: "ROM/24/76.DAT"
+
+  - id: 140
+    name: "Ghelsba Outpost"
+    files:
+      entities: "ROM/26/77.DAT"
+      events: "ROM/20/77.DAT"
+      strings_jp: "ROM/22/77.DAT"
+      strings_na: "ROM/24/77.DAT"
+
+  - id: 141
+    name: "Fort Ghelsba"
+    files:
+      entities: "ROM/26/78.DAT"
+      events: "ROM/20/78.DAT"
+      strings_jp: "ROM/22/78.DAT"
+      strings_na: "ROM/24/78.DAT"
+
+  - id: 142
+    name: "Yughott Grotto"
+    files:
+      entities: "ROM/26/79.DAT"
+      events: "ROM/20/79.DAT"
+      strings_jp: "ROM/22/79.DAT"
+      strings_na: "ROM/24/79.DAT"
+
+  - id: 143
+    name: "Palborough Mines"
+    files:
+      entities: "ROM/26/80.DAT"
+      events: "ROM/20/80.DAT"
+      strings_jp: "ROM/22/80.DAT"
+      strings_na: "ROM/24/80.DAT"
+
+  - id: 144
+    name: "Waughroon Shrine"
+    files:
+      entities: "ROM/26/81.DAT"
+      events: "ROM/20/81.DAT"
+      strings_jp: "ROM/22/81.DAT"
+      strings_na: "ROM/24/81.DAT"
+
+  - id: 145
+    name: "Giddeus"
+    files:
+      entities: "ROM/26/82.DAT"
+      events: "ROM/20/82.DAT"
+      strings_jp: "ROM/22/82.DAT"
+      strings_na: "ROM/24/82.DAT"
+
+  - id: 146
+    name: "Balga's Dais"
+    files:
+      entities: "ROM/26/83.DAT"
+      events: "ROM/20/83.DAT"
+      strings_jp: "ROM/22/83.DAT"
+      strings_na: "ROM/24/83.DAT"
+
+  - id: 147
+    name: "Beadeaux"
+    files:
+      entities: "ROM/26/84.DAT"
+      events: "ROM/20/84.DAT"
+      strings_jp: "ROM/22/84.DAT"
+      strings_na: "ROM/24/84.DAT"
+
+  - id: 148
+    name: "Qulun Dome"
+    files:
+      entities: "ROM/26/85.DAT"
+      events: "ROM/20/85.DAT"
+      strings_jp: "ROM/22/85.DAT"
+      strings_na: "ROM/24/85.DAT"
+
+  - id: 149
+    name: "Davoi"
+    files:
+      entities: "ROM/26/86.DAT"
+      events: "ROM/20/86.DAT"
+      strings_jp: "ROM/22/86.DAT"
+      strings_na: "ROM/24/86.DAT"
+
+  - id: 150
+    name: "Monastic Cavern"
+    files:
+      entities: "ROM/26/87.DAT"
+      events: "ROM/20/87.DAT"
+      strings_jp: "ROM/22/87.DAT"
+      strings_na: "ROM/24/87.DAT"
+
+  - id: 151
+    name: "Castle Oztroja"
+    files:
+      entities: "ROM/26/88.DAT"
+      events: "ROM/20/88.DAT"
+      strings_jp: "ROM/22/88.DAT"
+      strings_na: "ROM/24/88.DAT"
+
+  - id: 152
+    name: "Altar Room"
+    files:
+      entities: "ROM/26/89.DAT"
+      events: "ROM/20/89.DAT"
+      strings_jp: "ROM/22/89.DAT"
+      strings_na: "ROM/24/89.DAT"
+
+  - id: 153
+    name: "The Boyahda Tree"
+    files:
+      entities: "ROM2/13/106.DAT"
+      events: "ROM2/13/16.DAT"
+      strings_jp: "ROM2/13/61.DAT"
+      strings_na: "ROM2/17/86.DAT"
+
+  - id: 154
+    name: "Dragon's Aery"
+    files:
+      entities: "ROM2/13/107.DAT"
+      events: "ROM2/13/17.DAT"
+      strings_jp: "ROM2/13/62.DAT"
+      strings_na: "ROM2/17/87.DAT"
+
+  - id: 155
+    name: "Castle Zvahl Keep [S]"
+    files:
+      entities: "ROM/26/92.DAT"
+      events: "ROM/20/92.DAT"
+      strings_jp: "ROM/22/92.DAT"
+      strings_na: "ROM/24/92.DAT"
+
+  - id: 156
+    name: "Throne Room [S]"
+    files:
+      entities: "ROM/26/93.DAT"
+      events: "ROM/20/93.DAT"
+      strings_jp: "ROM/22/93.DAT"
+      strings_na: "ROM/24/93.DAT"
+
+  - id: 157
+    name: "Middle Delkfutt's Tower"
+    files:
+      entities: "ROM/26/94.DAT"
+      events: "ROM/20/94.DAT"
+      strings_jp: "ROM/22/94.DAT"
+      strings_na: "ROM/24/94.DAT"
+
+  - id: 158
+    name: "Upper Delkfutt's Tower"
+    files:
+      entities: "ROM/26/95.DAT"
+      events: "ROM/20/95.DAT"
+      strings_jp: "ROM/22/95.DAT"
+      strings_na: "ROM/24/95.DAT"
+
+  - id: 159
+    name: "Temple of Uggalepih"
+    files:
+      entities: "ROM2/13/108.DAT"
+      events: "ROM2/13/18.DAT"
+      strings_jp: "ROM2/13/63.DAT"
+      strings_na: "ROM2/17/92.DAT"
+
+  - id: 160
+    name: "Den of Rancor"
+    files:
+      entities: "ROM2/13/109.DAT"
+      events: "ROM2/13/19.DAT"
+      strings_jp: "ROM2/13/64.DAT"
+      strings_na: "ROM2/17/93.DAT"
+
+  - id: 161
+    name: "Castle Zvahl Baileys"
+    files:
+      entities: "ROM/26/98.DAT"
+      events: "ROM/20/98.DAT"
+      strings_jp: "ROM/22/98.DAT"
+      strings_na: "ROM/24/98.DAT"
+
+  - id: 162
+    name: "Castle Zvahl Keep"
+    files:
+      entities: "ROM/26/99.DAT"
+      events: "ROM/20/99.DAT"
+      strings_jp: "ROM/22/99.DAT"
+      strings_na: "ROM/24/99.DAT"
+
+  - id: 163
+    name: "Sacrificial Chamber"
+    files:
+      entities: "ROM2/13/110.DAT"
+      events: "ROM2/13/20.DAT"
+      strings_jp: "ROM2/13/65.DAT"
+      strings_na: "ROM2/17/96.DAT"
+
+  - id: 164
+    name: "Garlaige Citadel [S]"
+    files:
+      entities: "ROM/26/101.DAT"
+      events: "ROM/20/101.DAT"
+      strings_jp: "ROM/22/101.DAT"
+      strings_na: "ROM/24/101.DAT"
+
+  - id: 165
+    name: "Throne Room"
+    files:
+      entities: "ROM/26/102.DAT"
+      events: "ROM/20/102.DAT"
+      strings_jp: "ROM/22/102.DAT"
+      strings_na: "ROM/24/102.DAT"
+
+  - id: 166
+    name: "Ranguemont Pass"
+    files:
+      entities: "ROM/26/103.DAT"
+      events: "ROM/20/103.DAT"
+      strings_jp: "ROM/22/103.DAT"
+      strings_na: "ROM/24/103.DAT"
+
+  - id: 167
+    name: "Bostaunieux Oubliette"
+    files:
+      entities: "ROM/26/104.DAT"
+      events: "ROM/20/104.DAT"
+      strings_jp: "ROM/22/104.DAT"
+      strings_na: "ROM/24/104.DAT"
+
+  - id: 168
+    name: "Chamber of Oracles"
+    files:
+      entities: "ROM2/13/111.DAT"
+      events: "ROM2/13/21.DAT"
+      strings_jp: "ROM2/13/66.DAT"
+      strings_na: "ROM2/17/101.DAT"
+
+  - id: 169
+    name: "Toraimarai Canal"
+    files:
+      entities: "ROM/26/106.DAT"
+      events: "ROM/20/106.DAT"
+      strings_jp: "ROM/22/106.DAT"
+      strings_na: "ROM/24/106.DAT"
+
+  - id: 170
+    name: "Full Moon Fountain"
+    files:
+      entities: "ROM2/13/112.DAT"
+      events: "ROM2/13/22.DAT"
+      strings_jp: "ROM2/13/67.DAT"
+      strings_na: "ROM2/17/103.DAT"
+
+  - id: 171
+    name: "Crawlers' Nest [S]"
+    files:
+      entities: "ROM/26/108.DAT"
+      events: "ROM/20/108.DAT"
+      strings_jp: "ROM/22/108.DAT"
+      strings_na: "ROM/24/108.DAT"
+
+  - id: 172
+    name: "Zeruhn Mines"
+    files:
+      entities: "ROM/26/109.DAT"
+      events: "ROM/20/109.DAT"
+      strings_jp: "ROM/22/109.DAT"
+      strings_na: "ROM/24/109.DAT"
+
+  - id: 173
+    name: "Korroloka Tunnel"
+    files:
+      entities: "ROM2/13/113.DAT"
+      events: "ROM2/13/23.DAT"
+      strings_jp: "ROM2/13/68.DAT"
+      strings_na: "ROM2/17/106.DAT"
+
+  - id: 174
+    name: "Kuftal Tunnel"
+    files:
+      entities: "ROM2/13/114.DAT"
+      events: "ROM2/13/24.DAT"
+      strings_jp: "ROM2/13/69.DAT"
+      strings_na: "ROM2/17/107.DAT"
+
+  - id: 175
+    name: "The Eldieme Necropolis [S]"
+    files:
+      entities: "ROM/26/112.DAT"
+      events: "ROM/20/112.DAT"
+      strings_jp: "ROM/22/112.DAT"
+      strings_na: "ROM/24/112.DAT"
+
+  - id: 176
+    name: "Sea Serpent Grotto"
+    files:
+      entities: "ROM2/13/115.DAT"
+      events: "ROM2/13/25.DAT"
+      strings_jp: "ROM2/13/70.DAT"
+      strings_na: "ROM2/17/109.DAT"
+
+  - id: 177
+    name: "Ve'Lugannon Palace"
+    files:
+      entities: "ROM2/13/116.DAT"
+      events: "ROM2/13/26.DAT"
+      strings_jp: "ROM2/13/71.DAT"
+      strings_na: "ROM2/17/110.DAT"
+
+  - id: 178
+    name: "The Shrine of Ru'Avitau"
+    files:
+      entities: "ROM2/13/117.DAT"
+      events: "ROM2/13/27.DAT"
+      strings_jp: "ROM2/13/72.DAT"
+      strings_na: "ROM2/17/111.DAT"
+
+  - id: 179
+    name: "Stellar Fulcrum"
+    files:
+      entities: "ROM2/13/118.DAT"
+      events: "ROM2/13/28.DAT"
+      strings_jp: "ROM2/13/73.DAT"
+      strings_na: "ROM2/17/112.DAT"
+
+  - id: 180
+    name: "La'Loff Amphitheater"
+    files:
+      entities: "ROM2/13/119.DAT"
+      events: "ROM2/13/29.DAT"
+      strings_jp: "ROM2/13/74.DAT"
+      strings_na: "ROM2/17/113.DAT"
+
+  - id: 181
+    name: "The Celestial Nexus"
+    files:
+      entities: "ROM2/13/120.DAT"
+      events: "ROM2/13/30.DAT"
+      strings_jp: "ROM2/13/75.DAT"
+      strings_na: "ROM2/17/114.DAT"
+
+  - id: 182
+    name: "Walk of Echoes"
+    files:
+      entities: "ROM/26/119.DAT"
+      events: "ROM/20/119.DAT"
+      strings_jp: "ROM/22/119.DAT"
+      strings_na: "ROM/24/119.DAT"
+
+  - id: 183
+    name: "Maquette Abdhaljs-LegionA"
+    files:
+      entities: "ROM/26/120.DAT"
+      events: "ROM/20/120.DAT"
+      strings_jp: "ROM/22/120.DAT"
+      strings_na: "ROM/24/120.DAT"
+
+  - id: 184
+    name: "Lower Delkfutt's Tower"
+    files:
+      entities: "ROM/26/121.DAT"
+      events: "ROM/20/121.DAT"
+      strings_jp: "ROM/22/121.DAT"
+      strings_na: "ROM/24/121.DAT"
+
+  - id: 185
+    name: "Dynamis - San d'Oria"
+    files:
+      entities: "ROM2/13/121.DAT"
+      events: "ROM2/13/31.DAT"
+      strings_jp: "ROM2/13/76.DAT"
+      strings_na: "ROM2/17/118.DAT"
+
+  - id: 186
+    name: "Dynamis - Bastok"
+    files:
+      entities: "ROM2/13/122.DAT"
+      events: "ROM2/13/32.DAT"
+      strings_jp: "ROM2/13/77.DAT"
+      strings_na: "ROM2/17/119.DAT"
+
+  - id: 187
+    name: "Dynamis - Windurst"
+    files:
+      entities: "ROM2/13/123.DAT"
+      events: "ROM2/13/33.DAT"
+      strings_jp: "ROM2/13/78.DAT"
+      strings_na: "ROM2/17/120.DAT"
+
+  - id: 188
+    name: "Dynamis - Jeuno"
+    files:
+      entities: "ROM2/13/124.DAT"
+      events: "ROM2/13/34.DAT"
+      strings_jp: "ROM2/13/79.DAT"
+      strings_na: "ROM2/17/121.DAT"
+
+  - id: 189
+    name: "Outer Ra'Kaznar [U3]"
+    files:
+      entities: "ROM/26/126.DAT"
+      events: "ROM/20/126.DAT"
+      strings_jp: "ROM/22/126.DAT"
+      strings_na: "ROM/24/126.DAT"
+
+  - id: 190
+    name: "King Ranperre's Tomb"
+    files:
+      entities: "ROM/26/127.DAT"
+      events: "ROM/20/127.DAT"
+      strings_jp: "ROM/22/127.DAT"
+      strings_na: "ROM/24/127.DAT"
+
+  - id: 191
+    name: "Dangruf Wadi"
+    files:
+      entities: "ROM/27/0.DAT"
+      events: "ROM/21/0.DAT"
+      strings_jp: "ROM/23/0.DAT"
+      strings_na: "ROM/25/0.DAT"
+
+  - id: 192
+    name: "Inner Horutoto Ruins"
+    files:
+      entities: "ROM/27/1.DAT"
+      events: "ROM/21/1.DAT"
+      strings_jp: "ROM/23/1.DAT"
+      strings_na: "ROM/25/1.DAT"
+
+  - id: 193
+    name: "Ordelle's Caves"
+    files:
+      entities: "ROM/27/2.DAT"
+      events: "ROM/21/2.DAT"
+      strings_jp: "ROM/23/2.DAT"
+      strings_na: "ROM/25/2.DAT"
+
+  - id: 194
+    name: "Outer Horutoto Ruins"
+    files:
+      entities: "ROM/27/3.DAT"
+      events: "ROM/21/3.DAT"
+      strings_jp: "ROM/23/3.DAT"
+      strings_na: "ROM/25/3.DAT"
+
+  - id: 195
+    name: "The Eldieme Necropolis"
+    files:
+      entities: "ROM/27/4.DAT"
+      events: "ROM/21/4.DAT"
+      strings_jp: "ROM/23/4.DAT"
+      strings_na: "ROM/25/4.DAT"
+
+  - id: 196
+    name: "Gusgen Mines"
+    files:
+      entities: "ROM/27/5.DAT"
+      events: "ROM/21/5.DAT"
+      strings_jp: "ROM/23/5.DAT"
+      strings_na: "ROM/25/5.DAT"
+
+  - id: 197
+    name: "Crawlers' Nest"
+    files:
+      entities: "ROM/27/6.DAT"
+      events: "ROM/21/6.DAT"
+      strings_jp: "ROM/23/6.DAT"
+      strings_na: "ROM/25/6.DAT"
+
+  - id: 198
+    name: "Maze of Shakhrami"
+    files:
+      entities: "ROM/27/7.DAT"
+      events: "ROM/21/7.DAT"
+      strings_jp: "ROM/23/7.DAT"
+      strings_na: "ROM/25/7.DAT"
+
+  - id: 199
+    name: "unnamed"
+    files:
+      entities: "ROM/27/8.DAT"
+      events: "ROM/21/8.DAT"
+      strings_jp: "ROM/23/8.DAT"
+      strings_na: "ROM/25/8.DAT"
+
+  - id: 200
+    name: "Garlaige Citadel"
+    files:
+      entities: "ROM/27/9.DAT"
+      events: "ROM/21/9.DAT"
+      strings_jp: "ROM/23/9.DAT"
+      strings_na: "ROM/25/9.DAT"
+
+  - id: 201
+    name: "Cloister of Gales"
+    files:
+      entities: "ROM2/13/125.DAT"
+      events: "ROM2/13/35.DAT"
+      strings_jp: "ROM2/13/80.DAT"
+      strings_na: "ROM2/18/6.DAT"
+
+  - id: 202
+    name: "Cloister of Storms"
+    files:
+      entities: "ROM2/13/126.DAT"
+      events: "ROM2/13/36.DAT"
+      strings_jp: "ROM2/13/81.DAT"
+      strings_na: "ROM2/18/7.DAT"
+
+  - id: 203
+    name: "Cloister of Frost"
+    files:
+      entities: "ROM2/13/127.DAT"
+      events: "ROM2/13/37.DAT"
+      strings_jp: "ROM2/13/82.DAT"
+      strings_na: "ROM2/18/8.DAT"
+
+  - id: 204
+    name: "Fei'Yin"
+    files:
+      entities: "ROM/27/13.DAT"
+      events: "ROM/21/13.DAT"
+      strings_jp: "ROM/23/13.DAT"
+      strings_na: "ROM/25/13.DAT"
+
+  - id: 205
+    name: "Ifrit's Cauldron"
+    files:
+      entities: "ROM2/14/0.DAT"
+      events: "ROM2/13/38.DAT"
+      strings_jp: "ROM2/13/83.DAT"
+      strings_na: "ROM2/18/10.DAT"
+
+  - id: 206
+    name: "Qu'Bia Arena"
+    files:
+      entities: "ROM/27/15.DAT"
+      events: "ROM/21/15.DAT"
+      strings_jp: "ROM/23/15.DAT"
+      strings_na: "ROM/25/15.DAT"
+
+  - id: 207
+    name: "Cloister of Flames"
+    files:
+      entities: "ROM2/14/1.DAT"
+      events: "ROM2/13/39.DAT"
+      strings_jp: "ROM2/13/84.DAT"
+      strings_na: "ROM2/18/12.DAT"
+
+  - id: 208
+    name: "Quicksand Caves"
+    files:
+      entities: "ROM2/14/2.DAT"
+      events: "ROM2/13/40.DAT"
+      strings_jp: "ROM2/13/85.DAT"
+      strings_na: "ROM2/18/13.DAT"
+
+  - id: 209
+    name: "Cloister of Tremors"
+    files:
+      entities: "ROM2/14/3.DAT"
+      events: "ROM2/13/41.DAT"
+      strings_jp: "ROM2/13/86.DAT"
+      strings_na: "ROM2/18/14.DAT"
+
+  - id: 210
+    name: "unnamed"
+    files:
+      entities: "ROM/27/19.DAT"
+      events: "ROM/21/19.DAT"
+      strings_jp: "ROM/23/19.DAT"
+      strings_na: "ROM/25/19.DAT"
+
+  - id: 211
+    name: "Cloister of Tides"
+    files:
+      entities: "ROM2/14/4.DAT"
+      events: "ROM2/13/42.DAT"
+      strings_jp: "ROM2/13/87.DAT"
+      strings_na: "ROM2/18/16.DAT"
+
+  - id: 212
+    name: "Gustav Tunnel"
+    files:
+      entities: "ROM2/14/5.DAT"
+      events: "ROM2/13/43.DAT"
+      strings_jp: "ROM2/13/88.DAT"
+      strings_na: "ROM2/18/17.DAT"
+
+  - id: 213
+    name: "Labyrinth of Onzozo"
+    files:
+      entities: "ROM2/14/6.DAT"
+      events: "ROM2/13/44.DAT"
+      strings_jp: "ROM2/13/89.DAT"
+      strings_na: "ROM2/18/18.DAT"
+
+  - id: 214
+    name: "unnamed"
+    files:
+      entities: "ROM/27/23.DAT"
+      events: "ROM/21/23.DAT"
+      strings_jp: "ROM/23/23.DAT"
+      strings_na: "ROM/25/23.DAT"
+
+  - id: 215
+    name: "Abyssea - Attohwa"
+    files:
+      entities: "ROM/27/24.DAT"
+      events: "ROM/21/24.DAT"
+      strings_jp: "ROM/23/24.DAT"
+      strings_na: "ROM/25/24.DAT"
+
+  - id: 216
+    name: "Abyssea - Misareaux"
+    files:
+      entities: "ROM/27/25.DAT"
+      events: "ROM/21/25.DAT"
+      strings_jp: "ROM/23/25.DAT"
+      strings_na: "ROM/25/25.DAT"
+
+  - id: 217
+    name: "Abyssea - Vunkerl"
+    files:
+      entities: "ROM/27/26.DAT"
+      events: "ROM/21/26.DAT"
+      strings_jp: "ROM/23/26.DAT"
+      strings_na: "ROM/25/26.DAT"
+
+  - id: 218
+    name: "Abyssea - Altepa"
+    files:
+      entities: "ROM/27/27.DAT"
+      events: "ROM/21/27.DAT"
+      strings_jp: "ROM/23/27.DAT"
+      strings_na: "ROM/25/27.DAT"
+
+  - id: 219
+    name: "unnamed"
+    files:
+      entities: "ROM/27/28.DAT"
+      events: "ROM/21/28.DAT"
+      strings_jp: "ROM/23/28.DAT"
+      strings_na: "ROM/25/28.DAT"
+
+  - id: 220
+    name: "Ship bound for Selbina"
+    files:
+      entities: "ROM/27/29.DAT"
+      events: "ROM/21/29.DAT"
+      strings_jp: "ROM/23/29.DAT"
+      strings_na: "ROM/25/29.DAT"
+
+  - id: 221
+    name: "Ship bound for Mhaura"
+    files:
+      entities: "ROM/27/30.DAT"
+      events: "ROM/21/30.DAT"
+      strings_jp: "ROM/23/30.DAT"
+      strings_na: "ROM/25/30.DAT"
+
+  - id: 222
+    name: "Provenance"
+    files:
+      entities: "ROM/27/31.DAT"
+      events: "ROM/21/31.DAT"
+      strings_jp: "ROM/23/31.DAT"
+      strings_na: "ROM/25/31.DAT"
+
+  - id: 223
+    name: "San d'Oria-Jeuno Airship"
+    files:
+      entities: "ROM/27/32.DAT"
+      events: "ROM/21/32.DAT"
+      strings_jp: "ROM/23/32.DAT"
+      strings_na: "ROM/25/32.DAT"
+
+  - id: 224
+    name: "Bastok-Jeuno Airship"
+    files:
+      entities: "ROM/27/33.DAT"
+      events: "ROM/21/33.DAT"
+      strings_jp: "ROM/23/33.DAT"
+      strings_na: "ROM/25/33.DAT"
+
+  - id: 225
+    name: "Windurst-Jeuno Airship"
+    files:
+      entities: "ROM/27/34.DAT"
+      events: "ROM/21/34.DAT"
+      strings_jp: "ROM/23/34.DAT"
+      strings_na: "ROM/25/34.DAT"
+
+  - id: 226
+    name: "Kazham-Jeuno Airship"
+    files:
+      entities: "ROM2/14/7.DAT"
+      events: "ROM2/13/45.DAT"
+      strings_jp: "ROM2/13/90.DAT"
+      strings_na: "ROM2/18/31.DAT"
+
+  - id: 227
+    name: "Ship bound for Selbina"
+    files:
+      entities: "ROM/27/36.DAT"
+      events: "ROM/21/36.DAT"
+      strings_jp: "ROM/23/36.DAT"
+      strings_na: "ROM/25/36.DAT"
+
+  - id: 228
+    name: "Ship bound for Mhaura"
+    files:
+      entities: "ROM/27/37.DAT"
+      events: "ROM/21/37.DAT"
+      strings_jp: "ROM/23/37.DAT"
+      strings_na: "ROM/25/37.DAT"
+
+  - id: 229
+    name: "Throne Room [V]"
+    files:
+      entities: "ROM/27/38.DAT"
+      events: "ROM/21/38.DAT"
+      strings_jp: "ROM/23/38.DAT"
+      strings_na: "ROM/25/38.DAT"
+
+  - id: 230
+    name: "Southern San d'Oria"
+    files:
+      entities: "ROM/27/39.DAT"
+      events: "ROM/21/39.DAT"
+      strings_jp: "ROM/23/39.DAT"
+      strings_na: "ROM/25/39.DAT"
+
+  - id: 231
+    name: "Northern San d'Oria"
+    files:
+      entities: "ROM/27/40.DAT"
+      events: "ROM/21/40.DAT"
+      strings_jp: "ROM/23/40.DAT"
+      strings_na: "ROM/25/40.DAT"
+
+  - id: 232
+    name: "Port San d'Oria"
+    files:
+      entities: "ROM/27/41.DAT"
+      events: "ROM/21/41.DAT"
+      strings_jp: "ROM/23/41.DAT"
+      strings_na: "ROM/25/41.DAT"
+
+  - id: 233
+    name: "Chateau d'Oraguille"
+    files:
+      entities: "ROM/27/42.DAT"
+      events: "ROM/21/42.DAT"
+      strings_jp: "ROM/23/42.DAT"
+      strings_na: "ROM/25/42.DAT"
+
+  - id: 234
+    name: "Bastok Mines"
+    files:
+      entities: "ROM/27/43.DAT"
+      events: "ROM/21/43.DAT"
+      strings_jp: "ROM/23/43.DAT"
+      strings_na: "ROM/25/43.DAT"
+
+  - id: 235
+    name: "Bastok Markets"
+    files:
+      entities: "ROM/27/44.DAT"
+      events: "ROM/21/44.DAT"
+      strings_jp: "ROM/23/44.DAT"
+      strings_na: "ROM/25/44.DAT"
+
+  - id: 236
+    name: "Port Bastok"
+    files:
+      entities: "ROM/27/45.DAT"
+      events: "ROM/21/45.DAT"
+      strings_jp: "ROM/23/45.DAT"
+      strings_na: "ROM/25/45.DAT"
+
+  - id: 237
+    name: "Metalworks"
+    files:
+      entities: "ROM/27/46.DAT"
+      events: "ROM/21/46.DAT"
+      strings_jp: "ROM/23/46.DAT"
+      strings_na: "ROM/25/46.DAT"
+
+  - id: 238
+    name: "Windurst Waters"
+    files:
+      entities: "ROM/27/47.DAT"
+      events: "ROM/21/47.DAT"
+      strings_jp: "ROM/23/47.DAT"
+      strings_na: "ROM/25/47.DAT"
+
+  - id: 239
+    name: "Windurst Walls"
+    files:
+      entities: "ROM/27/48.DAT"
+      events: "ROM/21/48.DAT"
+      strings_jp: "ROM/23/48.DAT"
+      strings_na: "ROM/25/48.DAT"
+
+  - id: 240
+    name: "Port Windurst"
+    files:
+      entities: "ROM/27/49.DAT"
+      events: "ROM/21/49.DAT"
+      strings_jp: "ROM/23/49.DAT"
+      strings_na: "ROM/25/49.DAT"
+
+  - id: 241
+    name: "Windurst Woods"
+    files:
+      entities: "ROM/27/50.DAT"
+      events: "ROM/21/50.DAT"
+      strings_jp: "ROM/23/50.DAT"
+      strings_na: "ROM/25/50.DAT"
+
+  - id: 242
+    name: "Heavens Tower"
+    files:
+      entities: "ROM/27/51.DAT"
+      events: "ROM/21/51.DAT"
+      strings_jp: "ROM/23/51.DAT"
+      strings_na: "ROM/25/51.DAT"
+
+  - id: 243
+    name: "Ru'Lude Gardens"
+    files:
+      entities: "ROM/27/52.DAT"
+      events: "ROM/21/52.DAT"
+      strings_jp: "ROM/23/52.DAT"
+      strings_na: "ROM/25/52.DAT"
+
+  - id: 244
+    name: "Upper Jeuno"
+    files:
+      entities: "ROM/27/53.DAT"
+      events: "ROM/21/53.DAT"
+      strings_jp: "ROM/23/53.DAT"
+      strings_na: "ROM/25/53.DAT"
+
+  - id: 245
+    name: "Lower Jeuno"
+    files:
+      entities: "ROM/27/54.DAT"
+      events: "ROM/21/54.DAT"
+      strings_jp: "ROM/23/54.DAT"
+      strings_na: "ROM/25/54.DAT"
+
+  - id: 246
+    name: "Port Jeuno"
+    files:
+      entities: "ROM/27/55.DAT"
+      events: "ROM/21/55.DAT"
+      strings_jp: "ROM/23/55.DAT"
+      strings_na: "ROM/25/55.DAT"
+
+  - id: 247
+    name: "Rabao"
+    files:
+      entities: "ROM2/14/8.DAT"
+      events: "ROM2/13/46.DAT"
+      strings_jp: "ROM2/13/91.DAT"
+      strings_na: "ROM2/18/52.DAT"
+
+  - id: 248
+    name: "Selbina"
+    files:
+      entities: "ROM/27/57.DAT"
+      events: "ROM/21/57.DAT"
+      strings_jp: "ROM/23/57.DAT"
+      strings_na: "ROM/25/57.DAT"
+
+  - id: 249
+    name: "Mhaura"
+    files:
+      entities: "ROM/27/58.DAT"
+      events: "ROM/21/58.DAT"
+      strings_jp: "ROM/23/58.DAT"
+      strings_na: "ROM/25/58.DAT"
+
+  - id: 250
+    name: "Kazham"
+    files:
+      entities: "ROM2/14/9.DAT"
+      events: "ROM2/13/47.DAT"
+      strings_jp: "ROM2/13/92.DAT"
+      strings_na: "ROM2/18/55.DAT"
+
+  - id: 251
+    name: "Hall of the Gods"
+    files:
+      entities: "ROM2/14/10.DAT"
+      events: "ROM2/13/48.DAT"
+      strings_jp: "ROM2/13/93.DAT"
+      strings_na: "ROM2/18/56.DAT"
+
+  - id: 252
+    name: "Norg"
+    files:
+      entities: "ROM2/14/11.DAT"
+      events: "ROM2/13/49.DAT"
+      strings_jp: "ROM2/13/94.DAT"
+      strings_na: "ROM2/18/57.DAT"
+
+  - id: 253
+    name: "Abyssea - Uleguerand"
+    files:
+      entities: "ROM/27/62.DAT"
+      events: "ROM/21/62.DAT"
+      strings_jp: "ROM/23/62.DAT"
+      strings_na: "ROM/25/62.DAT"
+
+  - id: 254
+    name: "Abyssea - Grauberg"
+    files:
+      entities: "ROM/27/63.DAT"
+      events: "ROM/21/63.DAT"
+      strings_jp: "ROM/23/63.DAT"
+      strings_na: "ROM/25/63.DAT"
+
+  - id: 255
+    name: "Abyssea - Empyreal Paradox"
+    files:
+      entities: "ROM/27/64.DAT"
+      events: "ROM/21/64.DAT"
+      strings_jp: "ROM/23/64.DAT"
+      strings_na: "ROM/25/64.DAT"
+
+  - id: 256
+    name: "Western Adoulin"
+    files:
+      entities: "ROM9/6/45.DAT"
+      events: "ROM9/5/53.DAT"
+      strings_jp: "ROM9/5/77.DAT"
+      strings_na: "ROM9/5/101.DAT"
+
+  - id: 257
+    name: "Eastern Adoulin"
+    files:
+      entities: "ROM9/6/46.DAT"
+      events: "ROM9/5/54.DAT"
+      strings_jp: "ROM9/5/78.DAT"
+      strings_na: "ROM9/5/102.DAT"
+
+  - id: 258
+    name: "Rala Waterways"
+    files:
+      entities: "ROM9/6/47.DAT"
+      events: "ROM9/5/55.DAT"
+      strings_jp: "ROM9/5/79.DAT"
+      strings_na: "ROM9/5/103.DAT"
+
+  - id: 259
+    name: "Rala Waterways [U]"
+    files:
+      entities: "ROM9/6/48.DAT"
+      events: "ROM9/5/56.DAT"
+      strings_jp: "ROM9/5/80.DAT"
+      strings_na: "ROM9/5/104.DAT"
+
+  - id: 260
+    name: "Yahse Hunting Grounds"
+    files:
+      entities: "ROM9/6/49.DAT"
+      events: "ROM9/5/57.DAT"
+      strings_jp: "ROM9/5/81.DAT"
+      strings_na: "ROM9/5/105.DAT"
+
+  - id: 261
+    name: "Ceizak Battlegrounds"
+    files:
+      entities: "ROM9/6/50.DAT"
+      events: "ROM9/5/58.DAT"
+      strings_jp: "ROM9/5/82.DAT"
+      strings_na: "ROM9/5/106.DAT"
+
+  - id: 262
+    name: "Foret de Hennetiel"
+    files:
+      entities: "ROM9/6/51.DAT"
+      events: "ROM9/5/59.DAT"
+      strings_jp: "ROM9/5/83.DAT"
+      strings_na: "ROM9/5/107.DAT"
+
+  - id: 263
+    name: "Yorcia Weald"
+    files:
+      entities: "ROM9/6/52.DAT"
+      events: "ROM9/5/60.DAT"
+      strings_jp: "ROM9/5/84.DAT"
+      strings_na: "ROM9/5/108.DAT"
+
+  - id: 264
+    name: "Yorcia Weald [U]"
+    files:
+      entities: "ROM9/6/53.DAT"
+      events: "ROM9/5/61.DAT"
+      strings_jp: "ROM9/5/85.DAT"
+      strings_na: "ROM9/5/109.DAT"
+
+  - id: 265
+    name: "Morimar Basalt Fields"
+    files:
+      entities: "ROM9/6/54.DAT"
+      events: "ROM9/5/62.DAT"
+      strings_jp: "ROM9/5/86.DAT"
+      strings_na: "ROM9/5/110.DAT"
+
+  - id: 266
+    name: "Marjami Ravine"
+    files:
+      entities: "ROM9/6/55.DAT"
+      events: "ROM9/5/63.DAT"
+      strings_jp: "ROM9/5/87.DAT"
+      strings_na: "ROM9/5/111.DAT"
+
+  - id: 267
+    name: "Kamihr Drifts"
+    files:
+      entities: "ROM9/6/56.DAT"
+      events: "ROM9/5/64.DAT"
+      strings_jp: "ROM9/5/88.DAT"
+      strings_na: "ROM9/5/112.DAT"
+
+  - id: 268
+    name: "Sih Gates"
+    files:
+      entities: "ROM9/6/57.DAT"
+      events: "ROM9/5/65.DAT"
+      strings_jp: "ROM9/5/89.DAT"
+      strings_na: "ROM9/5/113.DAT"
+
+  - id: 269
+    name: "Moh Gates"
+    files:
+      entities: "ROM9/6/58.DAT"
+      events: "ROM9/5/66.DAT"
+      strings_jp: "ROM9/5/90.DAT"
+      strings_na: "ROM9/5/114.DAT"
+
+  - id: 270
+    name: "Cirdas Caverns"
+    files:
+      entities: "ROM9/6/59.DAT"
+      events: "ROM9/5/67.DAT"
+      strings_jp: "ROM9/5/91.DAT"
+      strings_na: "ROM9/5/115.DAT"
+
+  - id: 271
+    name: "Cirdas Caverns [U]"
+    files:
+      entities: "ROM9/6/60.DAT"
+      events: "ROM9/5/68.DAT"
+      strings_jp: "ROM9/5/92.DAT"
+      strings_na: "ROM9/5/116.DAT"
+
+  - id: 272
+    name: "Dho Gates"
+    files:
+      entities: "ROM9/6/61.DAT"
+      events: "ROM9/5/69.DAT"
+      strings_jp: "ROM9/5/93.DAT"
+      strings_na: "ROM9/5/117.DAT"
+
+  - id: 273
+    name: "Woh Gates"
+    files:
+      entities: "ROM9/6/62.DAT"
+      events: "ROM9/5/70.DAT"
+      strings_jp: "ROM9/5/94.DAT"
+      strings_na: "ROM9/5/118.DAT"
+
+  - id: 274
+    name: "Outer Ra'Kaznar"
+    files:
+      entities: "ROM9/6/63.DAT"
+      events: "ROM9/5/71.DAT"
+      strings_jp: "ROM9/5/95.DAT"
+      strings_na: "ROM9/5/119.DAT"
+
+  - id: 275
+    name: "Outer Ra'Kaznar [U1]"
+    files:
+      entities: "ROM9/6/64.DAT"
+      events: "ROM9/5/72.DAT"
+      strings_jp: "ROM9/5/96.DAT"
+      strings_na: "ROM9/5/120.DAT"
+
+  - id: 276
+    name: "Ra'Kaznar Inner Court"
+    files:
+      entities: "ROM9/6/65.DAT"
+      events: "ROM9/5/73.DAT"
+      strings_jp: "ROM9/5/97.DAT"
+      strings_na: "ROM9/5/121.DAT"
+
+  - id: 277
+    name: "Ra'Kaznar Turris"
+    files:
+      entities: "ROM9/6/66.DAT"
+      events: "ROM9/5/74.DAT"
+      strings_jp: "ROM9/5/98.DAT"
+      strings_na: "ROM9/5/122.DAT"
+
+  - id: 278
+    name: "Gwora - Corridor"
+    files:
+      entities: "ROM/376/2.DAT"
+      events: "ROM/375/125.DAT"
+      strings_jp: "ROM/375/126.DAT"
+      strings_na: "ROM/375/127.DAT"
+
+  - id: 279
+    name: "Walk of Echoes [P2]"
+    files:
+      entities: "ROM9/6/68.DAT"
+      events: "ROM9/5/76.DAT"
+      strings_jp: "ROM9/5/100.DAT"
+      strings_na: "ROM9/5/124.DAT"
+
+  - id: 280
+    name: "Mog Garden"
+    files:
+      entities: "ROM/303/36.DAT"
+      events: "ROM/303/28.DAT"
+      strings_jp: "ROM/303/30.DAT"
+      strings_na: "ROM/303/32.DAT"
+
+  - id: 281
+    name: "Leafallia"
+    files:
+      entities: "ROM/315/114.DAT"
+      events: "ROM/315/104.DAT"
+      strings_jp: "ROM/315/106.DAT"
+      strings_na: "ROM/315/108.DAT"
+
+  - id: 282
+    name: "Mount Kamihr"
+    files:
+      entities: "ROM/315/115.DAT"
+      events: "ROM/315/105.DAT"
+      strings_jp: "ROM/315/107.DAT"
+      strings_na: "ROM/315/109.DAT"
+
+  - id: 283
+    name: "Silver Knife"
+    files:
+      entities: "ROM/374/101.DAT"
+      events: "ROM/374/96.DAT"
+      strings_jp: "ROM/374/97.DAT"
+      strings_na: "ROM/374/98.DAT"
+
+  - id: 284
+    name: "Celennia Memorial Library"
+    files:
+      entities: "ROM/303/37.DAT"
+      events: "ROM/303/29.DAT"
+      strings_jp: "ROM/303/31.DAT"
+      strings_na: "ROM/303/33.DAT"
+
+  - id: 285
+    name: "Feretory"
+    files:
+      entities: "ROM/306/61.DAT"
+      events: "ROM/306/56.DAT"
+      strings_jp: "ROM/306/57.DAT"
+      strings_na: "ROM/306/58.DAT"
+
+  - id: 286
+    name: "unnamed"
+    files:
+      entities: null
+      events: null
+      strings_jp: null
+      strings_na: null
+
+  - id: 287
+    name: "Maquette Abdhaljs-LegionB"
+    files:
+      entities: "ROM/362/25.DAT"
+      events: "ROM/362/20.DAT"
+      strings_jp: "ROM/362/21.DAT"
+      strings_na: "ROM/362/22.DAT"
+
+  - id: 288
+    name: "Escha - Zi'Tah"
+    files:
+      entities: "ROM/332/109.DAT"
+      events: "ROM/332/104.DAT"
+      strings_jp: "ROM/332/105.DAT"
+      strings_na: "ROM/332/106.DAT"
+
+  - id: 289
+    name: "Escha - Ru'Aun"
+    files:
+      entities: "ROM/337/66.DAT"
+      events: "ROM/337/61.DAT"
+      strings_jp: "ROM/337/62.DAT"
+      strings_na: "ROM/337/63.DAT"
+
+  - id: 290
+    name: "Desuetia - Empyreal Paradox"
+    files:
+      entities: "ROM/342/93.DAT"
+      events: "ROM/342/78.DAT"
+      strings_jp: "ROM/342/81.DAT"
+      strings_na: "ROM/342/84.DAT"
+
+  - id: 291
+    name: "Reisenjima"
+    files:
+      entities: "ROM/342/94.DAT"
+      events: "ROM/342/79.DAT"
+      strings_jp: "ROM/342/82.DAT"
+      strings_na: "ROM/342/85.DAT"
+
+  - id: 292
+    name: "Reisenjima Henge"
+    files:
+      entities: "ROM/353/61.DAT"
+      events: "ROM/353/56.DAT"
+      strings_jp: "ROM/353/57.DAT"
+      strings_na: "ROM/353/58.DAT"
+
+  - id: 293
+    name: "Reisenjima Sanctorium"
+    files:
+      entities: "ROM/342/95.DAT"
+      events: "ROM/342/80.DAT"
+      strings_jp: "ROM/342/83.DAT"
+      strings_na: "ROM/342/86.DAT"
+
+  - id: 294
+    name: "Dynamis - San d'Oria [D]"
+    files:
+      entities: "ROM/354/116.DAT"
+      events: "ROM/354/111.DAT"
+      strings_jp: "ROM/354/112.DAT"
+      strings_na: "ROM/354/113.DAT"
+
+  - id: 295
+    name: "Dynamis - Bastok [D]"
+    files:
+      entities: "ROM/355/5.DAT"
+      events: "ROM/355/6.DAT"
+      strings_jp: "ROM/355/7.DAT"
+      strings_na: "ROM/355/8.DAT"
+
+  - id: 296
+    name: "Dynamis - Windurst [D]"
+    files:
+      entities: "ROM/355/39.DAT"
+      events: "ROM/355/34.DAT"
+      strings_jp: "ROM/355/35.DAT"
+      strings_na: "ROM/355/36.DAT"
+
+  - id: 297
+    name: "Dynamis - Jeuno [D]"
+    files:
+      entities: "ROM/355/54.DAT"
+      events: "ROM/355/49.DAT"
+      strings_jp: "ROM/355/50.DAT"
+      strings_na: "ROM/355/51.DAT"
+
+  - id: 298
+    name: "Walk of Echoes [P1]"
+    files:
+      entities: "ROM/361/92.DAT"
+      events: "ROM/361/87.DAT"
+      strings_jp: "ROM/361/88.DAT"
+      strings_na: "ROM/361/89.DAT"
+
+  - id: 299
+    name: "Gwora - Throne Room"
+    files:
+      entities: "ROM/378/106.DAT"
+      events: "ROM/378/101.DAT"
+      strings_jp: "ROM/378/102.DAT"
+      strings_na: "ROM/378/103.DAT"

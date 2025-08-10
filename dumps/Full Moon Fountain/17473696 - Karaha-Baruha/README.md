@@ -1,0 +1,24 @@
+# 17473696 - Karaha-Baruha
+
+## Common Data
+
+| Field            | Value                        |
+|------------------|------------------------------|
+| Zone             | Full Moon Fountain (ID: 170) |
+| Block Size       | 64 bytes                     |
+| Total Events     | 3                            |
+| References Count | 1                            |
+
+## Events
+
+| Event ID                | Offset   |   Size |   Instructions |
+|-------------------------|----------|--------|----------------|
+| [65535](./65535.md)     | 0x0000   |      1 |              1 |
+| [65535.1](./65535.1.md) | 0x0001   |     16 |              2 |
+| [65535.2](./65535.2.md) | 0x0011   |     14 |              2 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x025C      |         604 |

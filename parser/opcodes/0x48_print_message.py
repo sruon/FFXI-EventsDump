@@ -1,0 +1,36 @@
+from .base import ArgType, BaseOpcode, OpcodeArg
+
+
+class PrintMessageOpcode(BaseOpcode):
+
+    opcode = 0x48
+    name = "PRINT_MESSAGE"
+
+    def get_args(self):
+        return [OpcodeArg("message_id", ArgType.MESSAGE_ID, 2, "Message ID to display")]
+
+    def get_legible_representation(self, raw_bytes: bytes, args=None, context=None):
+
+        message_id = args["message_id"]
+        message_str = self.format_work_area_value(message_id, context=context)
+
+        result = f"[System] [{message_str}]:"
+
+        actual_message_id = message_id
+        if 0x8000 <= message_id <= 0x8FFF:
+            ref_index = message_id & 0x7FFF
+            if context and context.imed_data and ref_index < len(context.imed_data):
+                actual_message_id = context.imed_data[ref_index]
+
+        if context and context.zone_strings and hasattr(context.zone_strings, "strings"):
+            found_string = None
+            for string_entry in context.zone_strings.strings:
+                if string_entry.index == actual_message_id:
+                    found_string = string_entry
+                    break
+
+            if found_string:
+                escaped_text = self.escape_unprintable_chars(found_string.text)
+                result += f'\n    → "{escaped_text}"'
+
+        return result

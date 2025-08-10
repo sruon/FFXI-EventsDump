@@ -1,0 +1,19 @@
+# 17744177 - Moogle
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Port Bastok (ID: 236) |
+| Block Size       | 44 bytes              |
+| Total Events     | 4                     |
+| References Count | 0                     |
+
+## Events
+
+| Event ID                | Offset   |   Size |   Instructions |
+|-------------------------|----------|--------|----------------|
+| [65535](./65535.md)     | 0x0000   |      1 |              1 |
+| [443](./443.md)         | 0x0001   |      1 |              1 |
+| [444](./444.md)         | 0x0002   |      1 |              1 |
+| [65535.1](./65535.1.md) | 0x0003   |      9 |              3 |

@@ -1,0 +1,38 @@
+# Event {{ event_id }}
+
+## Metadata
+
+{{ metadata_table }}
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+{% for line in hex_dump %}
+{{ line }}
+{% endfor %}
+```
+
+## Opcodes
+
+```
+{% for inst in regular_instructions -%}
+{% if inst.needs_subroutine_header %}
+{% if not inst.prev_has_gap %}
+
+{% endif -%}
+SUBROUTINE_{{ '%04X' | format(inst.address) }}:
+{% endif -%}
+{{ '%3d' | format(inst.num) }}: 0x{{ '%04X' | format(inst.address) }} [0x{{ '%02X' | format(inst.opcode) }}] {{ inst.description }}
+{% if inst.add_gap %}
+
+{% endif -%}
+{% endfor -%}
+```
+{% if data_or_dead_code %}
+
+## Data or dead code:
+
+```
+{{ data_or_dead_code }}
+```
+{%- endif %}

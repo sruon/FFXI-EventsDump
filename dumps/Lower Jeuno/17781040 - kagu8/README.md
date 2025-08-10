@@ -1,0 +1,29 @@
+# 17781040 - kagu8
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Lower Jeuno (ID: 245) |
+| Block Size       | 72 bytes              |
+| Total Events     | 3                     |
+| References Count | 6                     |
+
+## Events
+
+| Event ID                | Offset   |   Size |   Instructions |
+|-------------------------|----------|--------|----------------|
+| [65535](./65535.md)     | 0x0000   |      1 |              1 |
+| [20089](./20089.md)     | 0x0001   |     14 |              3 |
+| [65535.1](./65535.1.md) | 0x000F   |      5 |              2 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x009A      |         154 |
+|       1 | 0xFFFED5C2  |  4294890946 |
+|       2 | 0xFFFD53C8  |  4294792136 |
+|       3 | 0xFFFFE37C  |  4294959996 |
+|       4 | 0x0960      |        2400 |
+|       5 | 0x0000      |           0 |
