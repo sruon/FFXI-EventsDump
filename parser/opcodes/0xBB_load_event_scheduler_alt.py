@@ -31,4 +31,4 @@ class LoadEventSchedulerAltOpcode(SchedulerBase):
         work2 = args["work_offset2"]
         work2_str = self.format_work_area_value(work2, context=context)
 
-        return f"LOAD_EVENT_SCHEDULER_ALT: Load scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work=[{work1_str}, {work2_str}]"
+        return f"{self.name}: Load scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work=[{work1_str}, {work2_str}]"

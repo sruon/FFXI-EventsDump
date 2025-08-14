@@ -16,11 +16,9 @@ class LoadExtSchedulerOpcode(SchedulerBase):
         ]
 
     def get_legible_representation(self, raw_bytes: bytes, args=None, context=None):
-
         work_str = self.format_work_area_value(args["scheduler_work_offset"], context=context)
         entity1_str = self.format_entity_id(args["entity1_id"], context=context)
         entity2_str = self.format_entity_id(args["entity2_id"], context=context)
-
         action_id_str = self.format_scheduler_id(args["action_id"])
-
-        return f"{self.name}(work_offset={work_str}, entity1={entity1_str}, entity2={entity2_str}, action={action_id_str})"
+        
+        return f"{self.name}: Load scheduler {action_id_str} with entities [{entity1_str}, {entity2_str}], work={work_str}"

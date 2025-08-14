@@ -33,4 +33,4 @@ class WaitLoadSchedulerOpcode(SchedulerBase):
         scheduler_id = args["scheduler_id"]
         scheduler_id_str = self.format_scheduler_id(scheduler_id)
 
-        return f"{self.name}(work_offset={work_str}, entity1={entity1_str}, entity2={entity2_str}, scheduler_id={scheduler_id_str})"
+        return f"{self.name}: Wait for scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work={work_str}"

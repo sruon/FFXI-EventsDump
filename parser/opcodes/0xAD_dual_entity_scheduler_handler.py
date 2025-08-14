@@ -30,4 +30,4 @@ class DualEntitySchedulerHandlerOpcode(SchedulerBase):
         # Sub-case descriptions (based on lower 4 bits according to docs)
         sub_case_val = sub_case & 0x0F
 
-        return f"DUAL_ENTITY_SCHEDULER: Execute sub-case {sub_case_val} with entities [{entity1_str}, {entity2_str}], param={param_str}"
+        return f"{self.name}: Execute sub-case {sub_case_val} with entities [{entity1_str}, {entity2_str}], work={param_str}"

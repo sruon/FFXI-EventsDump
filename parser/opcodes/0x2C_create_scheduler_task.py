@@ -17,4 +17,4 @@ class CreateSchedulerTaskOpcode(SchedulerBase):
         entity1_str = self.format_entity_id(args["entity1_id"], context=context)
         entity2_str = self.format_entity_id(args["entity2_id"], context=context)
         scheduler_display = self.format_scheduler_id(args["scheduler_id"])
-        return f"{self.name}: Create scheduler {scheduler_display} for entities [{entity1_str}, {entity2_str}]"
+        return f"{self.name}: Create scheduler {scheduler_display} with entities [{entity1_str}, {entity2_str}]"

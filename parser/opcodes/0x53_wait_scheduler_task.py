@@ -15,10 +15,8 @@ class WaitSchedulerTaskOpcode(SchedulerBase):
         ]
 
     def get_legible_representation(self, raw_bytes: bytes, args=None, context=None):
-
         entity1_str = self.format_entity_id(args["entity1"], context=context)
         entity2_str = self.format_entity_id(args["entity2"], context=context)
-
         action_id_str = self.format_scheduler_id(args["action_id"])
-
-        return f"{self.name}(entity1={entity1_str}, entity2={entity2_str}, action_id={action_id_str})"
+        
+        return f"{self.name}: Wait for scheduler {action_id_str} with entities [{entity1_str}, {entity2_str}]"

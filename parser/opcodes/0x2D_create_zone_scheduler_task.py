@@ -24,4 +24,4 @@ class CreateZoneSchedulerTaskOpcode(SchedulerBase):
 
         zone_action_display = self.format_scheduler_id(zone_action)
 
-        return f"{self.name}(entity1={entity1_str}, entity2={entity2_str}, zone_action={zone_action_display})"
+        return f"{self.name}: Create scheduler {zone_action_display} with entities [{entity1_str}, {entity2_str}]"

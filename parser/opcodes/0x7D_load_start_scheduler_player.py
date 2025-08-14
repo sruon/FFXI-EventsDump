@@ -12,4 +12,4 @@ class LoadStartSchedulerPlayerOpcode(SchedulerBase):
         ]
 
     def get_legible_representation(self, raw_bytes: bytes, args=None, context=None):
-        return f"{self.name}(animation_id={args['animation_id']})"
+        return f"{self.name}: Load scheduler with animation_id {args['animation_id']}"

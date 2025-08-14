@@ -17,14 +17,10 @@ class LoadScheduledTaskOpcode(SchedulerBase):
         ]
 
     def get_legible_representation(self, raw_bytes: bytes, args=None, context=None):
-
         work1_str = self.format_work_area_value(args["first_work_offset"], context=context)
         entity1_str = self.format_entity_id(args["entity1"], context=context)
         entity2_str = self.format_entity_id(args["entity2"], context=context)
-
-        scheduler_id = args["scheduler_id"]
-        scheduler_id_str = self.format_scheduler_id(scheduler_id)
-
+        scheduler_id_str = self.format_scheduler_id(args["scheduler_id"])
         work2_str = self.format_work_area_value(args["second_work_offset"], context=context)
-
-        return f"{self.name}(work_offset1={work1_str}, entity1={entity1_str}, entity2={entity2_str}, scheduler_id={scheduler_id_str}, work_offset2={work2_str})"
+        
+        return f"{self.name}: Load scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work=[{work1_str}, {work2_str}]"

@@ -614,5 +614,3 @@ class EventInstruction:
 
     def __str__(self) -> str:
         return self.get_legible_representation()
-
-

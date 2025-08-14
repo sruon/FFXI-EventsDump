@@ -33,4 +33,4 @@ class LoadScheduledTaskAltOpcode(SchedulerBase):
         # Format scheduler_id using the base class method
         scheduler_id_str = self.format_scheduler_id(scheduler_id)
 
-        return f"LOAD_SCHEDULED_TASK_ALT: Load scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work=[{work1_str}, {work2_str}]"
+        return f"{self.name}: Load scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work=[{work1_str}, {work2_str}]"
