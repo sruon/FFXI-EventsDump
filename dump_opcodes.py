@@ -92,6 +92,9 @@ class EventDumper:
     def _parse_event_data(self, zone: Zone):
         """Parse event data file."""
         try:
+            if not zone.files or not zone.files.events:
+                logger.warning(f"Zone {zone.name} has no event data file defined")
+                return None
             path = self.ffxi_path / zone.files.events
             event_dat = EventDatParser.parse_file(path)
             logger.info(f"Zone {zone.name}: Found {event_dat.get_total_events()} events across {len(event_dat.blocks)} actors")
@@ -103,6 +106,9 @@ class EventDumper:
     def _parse_entity_data(self, zone: Zone):
         """Parse entity data file."""
         try:
+            if not zone.files or not zone.files.entities:
+                logger.debug(f"Zone {zone.name} has no entity data file defined")
+                return None
             path = self.ffxi_path / zone.files.entities
             entities = EntityDatParser.parse_file(path, zone.id, zone.name)
             logger.info(f"Zone {zone.name}: Found {len(entities.entities)} entities")
