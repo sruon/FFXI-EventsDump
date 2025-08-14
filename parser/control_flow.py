@@ -209,14 +209,23 @@ class ControlFlowAnalyzer:
                         block = self.graph.nodes[desc]["block"]
                         reachable.update(block.instructions)
 
-        # Handle END_EVENT -> END_REQSTACK special case
+        # Handle terminal -> END_REQSTACK special cases
         reachable_copy = list(reachable)
         for offset in reachable_copy:
-            if offset < len(event_data) and event_data[offset] == 0x21:  # END_EVENT
-                _, length, _ = self._get_instruction_info(event_data, offset)
-                next_offset = offset + length
-                if next_offset < len(event_data) and event_data[next_offset] == 0x00:  # END_REQSTACK
-                    reachable.add(next_offset)
+            if offset < len(event_data):
+                opcode = event_data[offset]
+                # END_EVENT (0x21) or RETURN (0x1B) can be followed by END_REQSTACK
+                if opcode in [0x21, 0x1B]:
+                    _, length, _ = self._get_instruction_info(event_data, offset)
+                    next_offset = offset + length
+                    if next_offset < len(event_data) and event_data[next_offset] == 0x00:  # END_REQSTACK
+                        reachable.add(next_offset)
+                        # Also add the entire block containing END_REQSTACK
+                        for block_start in self.blocks_by_offset:
+                            block = self.blocks_by_offset[block_start]
+                            if block.start_offset <= next_offset < block.end_offset:
+                                reachable.update(block.instructions)
+                                break
 
         return reachable
 

@@ -1,4 +1,4 @@
-import multiprocessing.dummy as mp
+import multiprocessing as mp
 import os
 import urllib.parse
 from pathlib import Path
@@ -162,7 +162,7 @@ class EventDumper:
 
             try:
                 # Parse and write event
-                instructions = self.opcode_parser.parse_event_data(event_data, offset)
+                instructions, control_flow_data = self.opcode_parser.parse_event_data(event_data, offset)
                 context = OpcodeContext(imed_data=block.imed_data, zone_entities=zone_entities, zone_strings=zone_strings)
 
                 # Handle duplicate event IDs
@@ -197,6 +197,7 @@ class EventDumper:
                     calculated_size,
                     instructions,
                     context,
+                    control_flow_data,
                 )
 
                 event_summaries.append(
@@ -228,7 +229,7 @@ class EventDumper:
             "event_count": len(event_summaries),
         }
 
-    def _write_event_file(self, filepath, event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context):
+    def _write_event_file(self, filepath, event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context, control_flow_data):
         """Write a single event file."""
         # Build metadata table
         metadata_table = tabulate(
@@ -244,7 +245,6 @@ class EventDumper:
         )
 
         # Process instructions
-        control_flow_data = getattr(self.opcode_parser, "control_flow_data", None)
         reachable = control_flow_data["reachable_offsets"] if control_flow_data else None
         jump_targets = control_flow_data["jump_targets"] if control_flow_data else set()
 
@@ -425,6 +425,12 @@ class EventDumper:
             logger.warning(f"Failed to dump strings for zone {zone.name}: {e}")
 
 
+def _dump_zone_worker(zone):
+    """Worker function for multiprocessing."""
+    dumper = EventDumper()
+    dumper.dump_zone(zone)
+
+
 def dump_all_zones():
     """Dump all zones."""
     logger.info("Starting opcode dump for all zones...")
@@ -432,17 +438,13 @@ def dump_all_zones():
     logger.info(f"Found {len(zones)} zones to process")
 
     Path("dumps").mkdir(parents=True, exist_ok=True)
-    dumper = EventDumper()
 
     cpu_count = os.cpu_count() or 4
     logger.info(f"Using {cpu_count} worker processes")
-    pool = mp.Pool(cpu_count)
-    try:
-        pool.map(lambda z: dumper.dump_zone(z), zones)
-    finally:
-        pool.close()
-        pool.join()
-
+    
+    with mp.Pool(cpu_count) as pool:
+        pool.map(_dump_zone_worker, zones)
+    
     logger.info("Completed opcode dump for all zones!")
 
 

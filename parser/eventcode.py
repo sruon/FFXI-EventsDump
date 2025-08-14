@@ -39,14 +39,15 @@ class EventCodeParser:
         self.control_flow_data: dict[str, Any] | None = None
         self._data_section_impl = DataSection()
 
-    def parse_event_data(self, event_data: bytes, entry_offset: int = 0) -> list[EventInstruction]:
-        """Parse event bytecode into instructions."""
+    def parse_event_data(self, event_data: bytes, entry_offset: int = 0) -> tuple[list[EventInstruction], dict[str, Any] | None]:
+        """Parse event bytecode into instructions. Returns (instructions, control_flow_data)."""
         # Analyze control flow if enabled
         data_sections = []
+        control_flow_data = None
         if self.use_control_flow:
             analyzer = ControlFlowAnalyzer()
-            self.control_flow_data = analyzer.analyze(event_data, entry_offset)
-            data_sections = self.control_flow_data["data_sections"]
+            control_flow_data = analyzer.analyze(event_data, entry_offset)
+            data_sections = control_flow_data["data_sections"]
 
         instructions = []
         offset = 0
@@ -71,7 +72,7 @@ class EventCodeParser:
             else:
                 offset += 1  # Skip unknown byte
 
-        return instructions
+        return instructions, control_flow_data
 
     def _parse_instruction(self, data: bytes, offset: int) -> tuple[EventInstruction | None, int]:
         """Parse a single instruction at the given offset."""
