@@ -151,6 +151,7 @@ class ArgType(Enum):
     BYTE = "byte"
     WORD = "word"
     DWORD = "dword"
+    STRING = "string"  # Fixed-size string (size specified in OpcodeArg)
     ENTITY_ID = "entity_id"
     MESSAGE_ID = "message_id"
     TASK_ID = "task_id"
@@ -224,14 +225,15 @@ class BaseOpcode(ABC):
 
             raw_value = raw_bytes[offset : offset + arg_def.size]
 
-            if arg_def.size == 1:
+            if arg_def.arg_type == ArgType.STRING:
+                value = raw_value
+            elif arg_def.size == 1:
                 value = raw_value[0]
             elif arg_def.size == 2:
                 value = int.from_bytes(raw_value, "little")
             elif arg_def.size == 4:
                 value = int.from_bytes(raw_value, "little")
             else:
-                # For larger args, keep as bytes
                 value = raw_value
 
             args[arg_def.name] = value
@@ -334,6 +336,33 @@ class BaseOpcode(ABC):
             return (value, False)
         # Not a reference
         return (value, False)
+
+    def format_string_value(self, value: bytes, replace_underscores: bool = False) -> str:
+        """
+        Format a bytes value as a string for display.
+
+        Args:
+            value: The bytes value to format
+            replace_underscores: Whether to replace underscores with spaces
+
+        Returns:
+            Formatted string representation
+        """
+        if not value or value == b"\x00" * len(value):
+            return '""'
+
+        try:
+            # Try to decode as ASCII, strip null bytes
+            ascii_str = value.rstrip(b"\x00").decode("ascii")
+            if replace_underscores:
+                ascii_str = ascii_str.replace("_", " ")
+            # Check if it's printable
+            if ascii_str and all(32 <= ord(c) <= 126 or c == " " for c in ascii_str):
+                return f'"{ascii_str}"'
+            else:
+                return f"0x{value.hex()}"
+        except (UnicodeDecodeError, ValueError):
+            return f"0x{value.hex()}"
 
     def format_work_area_value(self, value: int, arg_name: str = None, context: "OpcodeContext" = None) -> str:
         """
@@ -498,6 +527,26 @@ class BaseOpcode(ABC):
 
         return "".join(result)
 
+    def _is_entity_value(self, name: str, value: int) -> bool:
+        """Check if a parameter is likely an entity ID."""
+        name_lower = name.lower()
+        return (
+            "entity" in name_lower
+            or "actor" in name_lower
+            or name_lower.endswith("_id")
+            or (0x7FFFFFC0 <= value <= 0x7FFFFFFA)  # Special entity IDs
+            or (0x01000000 <= value <= 0x01FFFFFF)  # Regular entity IDs
+        )
+
+    def _is_special_entity(self, decoded: str) -> bool:
+        """Check if an entity should not show its ID."""
+        return (
+            decoded in ["EventEntity", "LocalPlayer"]
+            or decoded.startswith("PartyMember")
+            or decoded.startswith("AllianceMember")
+            or decoded.startswith("PartyRef")
+        )
+
     def get_legible_representation(self, raw_bytes: bytes, args: dict[str, Any] = None, context: OpcodeContext = None) -> str:
         """
         Return a human-readable representation of this opcode instruction.
@@ -525,36 +574,18 @@ class BaseOpcode(ABC):
                 value = args[name]
 
                 # Auto-detect entity IDs based on name patterns or value ranges
-                if isinstance(value, int):
-                    # Check if this is an entity ID based on name or value
-                    if (
-                        "entity" in name.lower()
-                        or "actor" in name.lower()
-                        or name.lower().endswith("_id")
-                        or
-                        # Check for special entity ID values
-                        (0x7FFFFFC0 <= value <= 0x7FFFFFFA)
-                        or
-                        # Check for regular entity IDs in common range
-                        (0x01000000 <= value <= 0x01FFFFFF)
-                    ):
-
-                        decoded = decode_entity_id(value)
-                        if not decoded.startswith("0x"):
-                            # Special entities like EventEntity, LocalPlayer should not show ID
-                            if (
-                                decoded in ["EventEntity", "LocalPlayer"]
-                                or decoded.startswith("PartyMember")
-                                or decoded.startswith("AllianceMember")
-                                or decoded.startswith("PartyRef")
-                            ):
-                                formatted_args.append(f"{name}={decoded}")
-                            else:
-                                formatted_args.append(f"{name}={decoded} (0x{value:08X})")
-                        else:
+                if isinstance(value, int) and self._is_entity_value(name, value):
+                    decoded = decode_entity_id(value)
+                    if not decoded.startswith("0x"):
+                        if self._is_special_entity(decoded):
                             formatted_args.append(f"{name}={decoded}")
+                        else:
+                            formatted_args.append(f"{name}={decoded} (0x{value:08X})")
+                    else:
+                        formatted_args.append(f"{name}={decoded}")
+                elif isinstance(value, int):
                     # Default formatting for other integers
-                    elif value < 256:
+                    if value < 256:
                         formatted_args.append(f"{name}=0x{value:02X}")
                     elif value < 65536:
                         formatted_args.append(f"{name}=0x{value:04X}")

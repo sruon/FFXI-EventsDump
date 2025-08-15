@@ -5,6 +5,3 @@ class ShowHudElementsOpcode(BaseOpcode):
 
     opcode = 0x68
     name = "SHOW_HUD_ELEMENTS"
-
-    def get_args(self):
-        return []  # No arguments

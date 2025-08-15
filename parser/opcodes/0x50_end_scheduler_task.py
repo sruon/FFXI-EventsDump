@@ -21,5 +21,5 @@ class EndSchedulerTaskOpcode(SchedulerBase):
         first_entity_str = self.format_work_area_value(args["first_entity"], context=context)
         second_entity_str = self.format_work_area_value(args["second_entity"], context=context)
         action_id_str = self.format_scheduler_id(args["action_id"])
-        
+
         return f"{self.name}: End scheduler {action_id_str} with entities [{first_entity_str}, {second_entity_str}], work=[{args['first_param']}, {args['second_param']}]"

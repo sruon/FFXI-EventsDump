@@ -25,7 +25,6 @@ class UpdateEntityYawOpcode(BaseOpcode):
             ref_index = yaw & 0x7FFF
             if context and context.imed_data and ref_index < len(context.imed_data):
                 ref_value = context.imed_data[ref_index]
-                # According to Atomos, rotation is calculated as: (value / 65536.0) * 360.0
                 rotation = (ref_value / 65536.0) * 360.0
                 yaw_str = f"{rotation:.2f}°*"
             else:

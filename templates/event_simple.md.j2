@@ -15,24 +15,32 @@
 ## Opcodes
 
 ```
-{% for inst in regular_instructions -%}
-{% if inst.needs_subroutine_header %}
-{% if not inst.prev_has_gap %}
+{% for subroutine in event_code.subroutines -%}
+{% if subroutine.label -%}
+{% if loop.index > 1 %}
 
 {% endif -%}
-SUBROUTINE_{{ '%04X' | format(inst.address) }}:
+{{ subroutine.label }}:
 {% endif -%}
-{{ '%3d' | format(inst.num) }}: 0x{{ '%04X' | format(inst.address) }} [0x{{ '%02X' | format(inst.opcode) }}] {{ inst.description }}
-{% if inst.add_gap %}
-
-{% endif -%}
+{% for inst in subroutine.instructions -%}
+{{ '%3d' | format(inst.num) }}: 0x{{ '%04X' | format(inst.offset) }} [0x{{ '%02X' | format(inst.opcode) }}] {{ inst.description }}
+{% endfor -%}
 {% endfor -%}
 ```
-{% if data_or_dead_code %}
+{% if event_code.data_sections or event_code.dead_code_sections %}
 
 ## Data or dead code:
 
 ```
-{{ data_or_dead_code }}
+{% for data_section in event_code.data_sections -%}
+{% for line in data_section.format_hex_dump() -%}
+{{ line }}
+{% endfor -%}
+{% endfor -%}
+{% for dead_section in event_code.dead_code_sections -%}
+{% for line in dead_section.format_lines() -%}
+{{ line }}
+{% endfor -%}
+{% endfor -%}
 ```
 {%- endif %}

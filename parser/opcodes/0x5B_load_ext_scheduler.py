@@ -20,5 +20,5 @@ class LoadExtSchedulerOpcode(SchedulerBase):
         entity1_str = self.format_entity_id(args["entity1_id"], context=context)
         entity2_str = self.format_entity_id(args["entity2_id"], context=context)
         action_id_str = self.format_scheduler_id(args["action_id"])
-        
+
         return f"{self.name}: Load scheduler {action_id_str} with entities [{entity1_str}, {entity2_str}], work={work_str}"

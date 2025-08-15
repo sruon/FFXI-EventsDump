@@ -5,9 +5,6 @@ class BattlefieldServerResponseWaitOpcode(BaseOpcode):
     opcode = 0xA7
     name = "BATTLEFIELD_SERVER_RESPONSE_WAIT"
 
-    def get_args(self):
-        return []
-
     def calculate_length(self, data: bytes, offset: int) -> int:
         """Calculate variable length based on pseudocode - 2 or 4 bytes."""
         if offset + 1 >= len(data):

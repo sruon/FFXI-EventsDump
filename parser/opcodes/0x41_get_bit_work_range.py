@@ -22,11 +22,11 @@ class GetBitWorkRangeOpcode(BaseOpcode):
                 else:
                     return f"References[{ref_index}]"
             else:
-                return f"0x{value:02X}"
+                return str(value)
 
         start_bit_str = format_value(args["start_bit"])
         end_bit_str = format_value(args["end_bit"])
         source_str = self.format_work_area_value(args["source"], context=context)
         result_str = self.format_work_area_value(args["result"], context=context)
 
-        return f"{self.name}(start_bit={start_bit_str}, end_bit={end_bit_str}, source={source_str}, result={result_str})"
+        return f"{result_str} = {source_str} (bits {start_bit_str}-{end_bit_str})"

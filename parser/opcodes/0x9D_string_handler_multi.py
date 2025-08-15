@@ -391,8 +391,6 @@ class StringHandlerMultiOpcode(BaseOpcode):
         subcase = args.get("subcase", 0)
 
         if subcase == 0x07:
-            # CALL - but this is more like a computed jump
-            # The actual target is computed from jump table
             return []  # Can't determine statically
         elif subcase == 0x08:
             # String compare with jump

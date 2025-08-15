@@ -52,7 +52,6 @@ class EventCodeParser:
         instructions = []
         offset = 0
 
-        # Convert data sections to dict for O(1) lookup
         data_section_map = dict(data_sections)
 
         while offset < len(event_data):
@@ -91,5 +90,3 @@ class EventCodeParser:
 
         # Unknown opcode - create minimal instruction
         return EventInstruction(opcode_value, data[offset : offset + 1], None), 1
-
-

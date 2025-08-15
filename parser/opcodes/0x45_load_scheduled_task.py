@@ -22,5 +22,5 @@ class LoadScheduledTaskOpcode(SchedulerBase):
         entity2_str = self.format_entity_id(args["entity2"], context=context)
         scheduler_id_str = self.format_scheduler_id(args["scheduler_id"])
         work2_str = self.format_work_area_value(args["second_work_offset"], context=context)
-        
+
         return f"{self.name}: Load scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work=[{work1_str}, {work2_str}]"

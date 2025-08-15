@@ -12,6 +12,7 @@ from parser.entitydat import EntityDatParser
 from parser.eventcode import EventCodeParser
 from parser.eventdat import EventDatParser
 from parser.opcodes.base import OpcodeContext
+from parser.subroutine import EventCode, Subroutine, Instruction, DataSection, DeadCode
 
 
 class EventDumper:
@@ -74,7 +75,6 @@ class EventDumper:
 
         actor_info = []
 
-        # Process each actor
         for block_index, block in enumerate(event_dat.blocks):
             actor_data = self._process_actor(zone, block, block_index, event_dat, zone_entities, zone_strings, zone_path)
             if actor_data:
@@ -155,7 +155,6 @@ class EventDumper:
         event_id_counts = {}
         actor_has_events = False
 
-        # Process events
         for event_index, (event_id, offset, event_data) in enumerate(block.get_all_events()):
             if len(event_data) < 1:
                 continue
@@ -165,7 +164,6 @@ class EventDumper:
                 instructions, control_flow_data = self.opcode_parser.parse_event_data(event_data, offset)
                 context = OpcodeContext(imed_data=block.imed_data, zone_entities=zone_entities, zone_strings=zone_strings)
 
-                # Handle duplicate event IDs
                 if event_id in event_id_counts:
                     event_id_counts[event_id] += 1
                     filename = f"{event_id}.{event_id_counts[event_id]}.md"
@@ -231,99 +229,188 @@ class EventDumper:
 
     def _write_event_file(self, filepath, event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context, control_flow_data):
         """Write a single event file."""
+        # Build the EventCode structure
+        event_code = self._build_event_code(
+            event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context, control_flow_data
+        )
+        
         # Build metadata table
         metadata_table = tabulate(
             [
-                ["Event Index", f"{event_index + 1}/{total_events}"],
-                ["Offset", f"0x{offset:04X}"],
-                ["Data Size", f"{len(event_data)} bytes"],
-                ["Calculated Size", f"{calculated_size} bytes"],
-                ["Instructions", str(len(instructions))],
+                ["Event Index", f"{event_code.event_index + 1}/{event_code.total_events}"],
+                ["Offset", f"0x{event_code.offset:04X}"],
+                ["Data Size", f"{event_code.data_size} bytes"],
+                ["Calculated Size", f"{event_code.calculated_size} bytes"],
+                ["Instructions", str(event_code.total_instructions)],
             ],
             headers=["Field", "Value"],
             tablefmt="github",
         )
 
-        # Process instructions
-        reachable = control_flow_data["reachable_offsets"] if control_flow_data else None
-        jump_targets = control_flow_data["jump_targets"] if control_flow_data else set()
-
-        regular_instructions = []
-        data_or_dead = []
-        current_offset = 0
-        instruction_num = 0
-
-        for i, inst in enumerate(instructions):
-            # Skip data sections
-            if inst.opcode == 0xFF and hasattr(inst.opcode_impl, "name") and inst.opcode_impl.name == "DATA_SECTION":
-                # Format as data section
-                data_bytes = inst.raw_bytes
-                data_or_dead.append(f"# Data Section: 0x{offset + current_offset:04X} ({len(data_bytes)} bytes)")
-                for j in range(0, len(data_bytes), 16):
-                    chunk = data_bytes[j : j + 16]
-                    hex_str = " ".join(f"{b:02X}" for b in chunk)
-                    data_or_dead.append(f"     0x{offset + current_offset + j:04X}: {hex_str}")
-            elif reachable is None or current_offset in reachable:
-                # Regular instruction
-                desc = inst.get_legible_representation(context) if inst.opcode_impl else f"UNKNOWN_OPCODE_0x{inst.opcode:02X}"
-
-                # Check for subroutine header
-                # Add header if:
-                # 1. Previous instruction was terminal (except END_EVENT->END_REQSTACK)
-                # 2. Current instruction is a jump target AND previous was terminal/unconditional jump
-                is_jump_target = current_offset in jump_targets
-                prev_was_terminal_or_jump = i > 0 and instructions[i - 1].opcode in [0x1B, 0x00, 0x21, 0x01]
-                needs_header = i > 0 and (
-                    (instructions[i - 1].opcode in [0x1B, 0x00, 0x21] and not (instructions[i - 1].opcode == 0x21 and inst.opcode == 0x00))
-                    or (is_jump_target and prev_was_terminal_or_jump)
-                )
-
-                # Check if previous instruction already has a gap
-                prev_has_gap = i > 0 and regular_instructions and regular_instructions[-1].get("add_gap", False)
-
-                # Check for gap after (but not for the last instruction)
-                add_gap = False
-                if i + 1 < len(instructions):
-                    if inst.opcode == 0x21 and instructions[i + 1].opcode != 0x00:
-                        add_gap = True
-                    elif inst.opcode in [0x1B, 0x00]:
-                        # Only add gap if this is not the second-to-last instruction
-                        # or if the next instruction has a subroutine header
-                        if i + 2 < len(instructions):
-                            add_gap = True
-
-                regular_instructions.append(
-                    {
-                        "num": instruction_num,
-                        "address": offset + current_offset,
-                        "opcode": inst.opcode,
-                        "description": desc,
-                        "needs_subroutine_header": needs_header,
-                        "prev_has_gap": prev_has_gap,
-                        "add_gap": add_gap,
-                    }
-                )
-                instruction_num += 1
-            else:
-                # Dead code
-                if not data_or_dead or not data_or_dead[-1].startswith("# Dead code"):
-                    data_or_dead.append("# Dead code (unreachable instructions):")
-                desc = inst.get_legible_representation(context) if inst.opcode_impl else f"UNKNOWN_0x{inst.opcode:02X}"
-                data_or_dead.append(f"     0x{offset + current_offset:04X} [0x{inst.opcode:02X}] {desc}")
-
-            current_offset += len(inst.raw_bytes)
-
-        # Render template
+        # Render template with the cleaner structure
         template = self.env.get_template("event_simple.md.j2")
         content = template.render(
-            event_id=event_id,
+            event_id=event_code.event_id,
             metadata_table=metadata_table,
             hex_dump=self.format_hex_dump(event_data, offset),
-            regular_instructions=regular_instructions,
-            data_or_dead_code="\n".join(data_or_dead) if data_or_dead else None,
+            event_code=event_code,
         )
 
         filepath.write_text(content, encoding="utf-8")
+    
+    def _build_event_code(self, event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context, control_flow_data):
+        event_code = EventCode(
+            event_id=event_id,
+            event_index=event_index,
+            total_events=total_events,
+            offset=offset,
+            data_size=len(event_data),
+            calculated_size=calculated_size,
+        )
+        
+        reachable = control_flow_data.get("reachable_offsets") if control_flow_data else None
+        jump_targets = control_flow_data.get("jump_targets", set()) if control_flow_data else set()
+        subroutine_starts = self._find_subroutine_starts(instructions, reachable, jump_targets, offset)
+        
+        current_offset = 0
+        instruction_num = 0
+        current_subroutine = None
+        current_dead_code = None
+        
+        for i, inst in enumerate(instructions):
+            is_data_section = inst.opcode == 0xFF and hasattr(inst.opcode_impl, "name") and inst.opcode_impl.name == "DATA_SECTION"
+            is_reachable = reachable is None or current_offset in reachable
+            
+            if is_data_section:
+                self._finalize_sections(event_code, current_subroutine, current_dead_code)
+                current_subroutine = None
+                current_dead_code = None
+                event_code.data_sections.append(
+                    DataSection(
+                        offset=offset + current_offset,
+                        size=len(inst.raw_bytes),
+                        data=inst.raw_bytes,
+                    )
+                )
+                
+            elif is_reachable:
+                desc = inst.get_legible_representation(context) if inst.opcode_impl else f"UNKNOWN_OPCODE_0x{inst.opcode:02X}"
+                
+                if current_offset in subroutine_starts:
+                    if current_subroutine and current_subroutine.instructions:
+                        current_subroutine.end_offset = offset + current_offset
+                        event_code.subroutines.append(current_subroutine)
+                    
+                    if current_dead_code and current_dead_code.instructions:
+                        event_code.dead_code_sections.append(current_dead_code)
+                        current_dead_code = None
+                    
+                    current_subroutine = Subroutine(
+                        start_offset=offset + current_offset,
+                        end_offset=-1,
+                        is_entry_point=(i == 0),
+                    )
+                
+                if current_subroutine:
+                    current_subroutine.instructions.append(
+                        Instruction(
+                            num=instruction_num,
+                            offset=offset + current_offset,
+                            opcode=inst.opcode,
+                            description=desc,
+                            raw_bytes=inst.raw_bytes,
+                        )
+                    )
+                    instruction_num += 1
+                    
+            else:
+                if current_subroutine and current_subroutine.instructions:
+                    current_subroutine.end_offset = offset + current_offset
+                    event_code.subroutines.append(current_subroutine)
+                    current_subroutine = None
+                
+                if not current_dead_code:
+                    current_dead_code = DeadCode()
+                    
+                desc = inst.get_legible_representation(context) if inst.opcode_impl else f"UNKNOWN_0x{inst.opcode:02X}"
+                current_dead_code.instructions.append(
+                    Instruction(
+                        num=-1,
+                        offset=offset + current_offset,
+                        opcode=inst.opcode,
+                        description=desc,
+                        raw_bytes=inst.raw_bytes,
+                    )
+                )
+            
+            current_offset += len(inst.raw_bytes)
+        
+        self._finalize_sections(event_code, current_subroutine, current_dead_code, offset + current_offset)
+        return event_code
+    
+    def _finalize_sections(self, event_code, current_subroutine, current_dead_code, end_offset=None):
+        """Helper to finalize and append current sections."""
+        if current_subroutine and current_subroutine.instructions:
+            if end_offset:
+                current_subroutine.end_offset = end_offset
+            event_code.subroutines.append(current_subroutine)
+            
+        if current_dead_code and current_dead_code.instructions:
+            event_code.dead_code_sections.append(current_dead_code)
+    
+    def _find_subroutine_starts(self, instructions, reachable, jump_targets, entry_offset=0):
+        subroutine_starts = {0}
+        
+        if not jump_targets:
+            return subroutine_starts
+            
+        goto_targets = set()
+        call_targets = set()
+        
+        current_offset = 0
+        for i, inst in enumerate(instructions):
+            target = self._extract_jump_target(inst, entry_offset)
+            if target is None:
+                current_offset += len(inst.raw_bytes) if hasattr(inst, 'raw_bytes') else 1
+                continue
+                
+            if 0 <= target < len(instructions) * 100:
+                if inst.opcode == 0x1A:  # CALL
+                    call_targets.add(target)
+                    subroutine_starts.add(target)
+                elif inst.opcode == 0x01:  # GOTO
+                    goto_targets.add(target)
+            
+            current_offset += len(inst.raw_bytes)
+        
+        terminal_offsets = set()
+        current_offset = 0
+        for inst in instructions:
+            if inst.opcode in [0x1B, 0x21, 0x01]:
+                terminal_offsets.add(current_offset)
+            current_offset += len(inst.raw_bytes)
+        for target in goto_targets:
+            if target in reachable:
+                for term_offset in terminal_offsets:
+                    if term_offset < target:
+                        subroutine_starts.add(target)
+                        break
+                
+        return subroutine_starts
+    
+    def _extract_jump_target(self, inst, entry_offset):
+        """Extract jump target from instruction if it's a jump/call opcode."""
+        if not (inst.opcode_impl and hasattr(inst, 'raw_bytes')):
+            return None
+            
+        if inst.opcode not in [0x01, 0x1A]:  # GOTO, CALL
+            return None
+            
+        args = inst.opcode_impl.parse_args(inst.raw_bytes)
+        target = args.get('address', args.get('offset'))
+        if target is not None:
+            return target - entry_offset
+        return None
 
     def _write_actor_readme(self, actor_path, actor_number, display_name, zone, block, block_index, event_dat, event_summaries):
         """Write actor README."""

@@ -22,5 +22,5 @@ class EndLoadSchedulerMainAlt7Opcode(SchedulerBase):
         entity2_str = self.format_entity_id(args["entity2_id"], context=context)
         scheduler_param_str = self.format_scheduler_id(args["scheduler_param"])
         work_str = self.format_work_area_value(args["work_offset"], context=context)
-        
+
         return f"{self.name}: End scheduler {scheduler_param_str} with entities [{entity1_str}, {entity2_str}], work={work_str}"
