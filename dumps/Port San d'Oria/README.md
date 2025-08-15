@@ -5,8 +5,8 @@
 | Field        |   Value |
 |--------------|---------|
 | Zone ID      |     232 |
-| Total Actors |     162 |
-| Total Events |    1267 |
+| Total Actors |     161 |
+| Total Events |    1264 |
 
 ## Source Files
 
@@ -125,60 +125,59 @@
 | 0x010E8082       |         17727618 | [(unnamed)](./17727618/)                                           |        2 |
 | 0x010E8083       |         17727619 | [(unnamed)](./17727619/)                                           |        4 |
 | 0x010E8084       |         17727620 | [Perdiouvilet](./17727620%20-%20Perdiouvilet/)                     |        5 |
-| 0x010E8085       |         17727621 | [Festive Moogle](./17727621%20-%20Festive%20Moogle/)               |        3 |
-| 0x010E8086       |         17727622 | [Raqtibahl](./17727622%20-%20Raqtibahl/)                           |       12 |
-| 0x010E8087       |         17727623 | [Festive Moogle](./17727623%20-%20Festive%20Moogle/)               |        4 |
-| 0x010E8088       |         17727624 | [Bonanza Moogle](./17727624%20-%20Bonanza%20Moogle/)               |        5 |
-| 0x010E8089       |         17727625 | [Bonanza Moogle](./17727625%20-%20Bonanza%20Moogle/)               |        4 |
+| 0x010E8085       |         17727621 | [Raqtibahl](./17727621%20-%20Raqtibahl/)                           |       12 |
+| 0x010E8086       |         17727622 | [Festive Moogle](./17727622%20-%20Festive%20Moogle/)               |        4 |
+| 0x010E8087       |         17727623 | [Bonanza Moogle](./17727623%20-%20Bonanza%20Moogle/)               |        5 |
+| 0x010E8088       |         17727624 | [Bonanza Moogle](./17727624%20-%20Bonanza%20Moogle/)               |        4 |
+| 0x010E8089       |         17727625 | [Dealer Moogle](./17727625%20-%20Dealer%20Moogle/)                 |        3 |
 | 0x010E808A       |         17727626 | [Dealer Moogle](./17727626%20-%20Dealer%20Moogle/)                 |        3 |
-| 0x010E808B       |         17727627 | [Dealer Moogle](./17727627%20-%20Dealer%20Moogle/)                 |        3 |
-| 0x010E808C       |         17727628 | [Synergy Engineer](./17727628%20-%20Synergy%20Engineer/)           |        2 |
-| 0x010E808D       |         17727629 | [Synergy Engineer](./17727629%20-%20Synergy%20Engineer/)           |        3 |
+| 0x010E808B       |         17727627 | [Synergy Engineer](./17727627%20-%20Synergy%20Engineer/)           |        2 |
+| 0x010E808C       |         17727628 | [Synergy Engineer](./17727628%20-%20Synergy%20Engineer/)           |        3 |
+| 0x010E808D       |         17727629 | [Synergy Furnace](./17727629%20-%20Synergy%20Furnace/)             |       10 |
 | 0x010E808E       |         17727630 | [Synergy Furnace](./17727630%20-%20Synergy%20Furnace/)             |       10 |
-| 0x010E808F       |         17727631 | [Synergy Furnace](./17727631%20-%20Synergy%20Furnace/)             |       10 |
+| 0x010E808F       |         17727631 | [Synergy Furnace](./17727631%20-%20Synergy%20Furnace/)             |       11 |
 | 0x010E8090       |         17727632 | [Synergy Furnace](./17727632%20-%20Synergy%20Furnace/)             |       11 |
-| 0x010E8091       |         17727633 | [Synergy Furnace](./17727633%20-%20Synergy%20Furnace/)             |       11 |
-| 0x010E8092       |         17727634 | [Synergy Enthusiast](./17727634%20-%20Synergy%20Enthusiast/)       |        2 |
-| 0x010E8093       |         17727635 | [Habitox](./17727635%20-%20Habitox/)                               |       15 |
-| 0x010E8094       |         17727636 | [Treasure Coffer](./17727636%20-%20Treasure%20Coffer/)             |        5 |
-| 0x010E8095       |         17727637 | [Moogle](./17727637%20-%20Moogle/)                                 |        4 |
-| 0x010E80A0       |         17727648 | [(unnamed)](./17727648/)                                           |        4 |
-| 0x010E80A1       |         17727649 | [Lilisette](./17727649%20-%20Lilisette/)                           |        6 |
-| 0x010E80A2       |         17727650 | [Thierride](./17727650%20-%20Thierride/)                           |        7 |
-| 0x010E80A3       |         17727651 | [(unnamed)](./17727651/)                                           |        3 |
+| 0x010E8091       |         17727633 | [Synergy Enthusiast](./17727633%20-%20Synergy%20Enthusiast/)       |        2 |
+| 0x010E8092       |         17727634 | [Habitox](./17727634%20-%20Habitox/)                               |       15 |
+| 0x010E8093       |         17727635 | [Treasure Coffer](./17727635%20-%20Treasure%20Coffer/)             |        5 |
+| 0x010E8094       |         17727636 | [Moogle](./17727636%20-%20Moogle/)                                 |        4 |
+| 0x010E809F       |         17727647 | [(unnamed)](./17727647/)                                           |        4 |
+| 0x010E80A0       |         17727648 | [Lilisette](./17727648%20-%20Lilisette/)                           |        6 |
+| 0x010E80A1       |         17727649 | [Thierride](./17727649%20-%20Thierride/)                           |        7 |
+| 0x010E80A2       |         17727650 | [(unnamed)](./17727650/)                                           |        3 |
+| 0x010E80A3       |         17727651 | [(unnamed)](./17727651/)                                           |        1 |
 | 0x010E80A4       |         17727652 | [(unnamed)](./17727652/)                                           |        1 |
-| 0x010E80A5       |         17727653 | [(unnamed)](./17727653/)                                           |        1 |
-| 0x010E80A6       |         17727654 | [Gilburt](./17727654%20-%20Gilburt/)                               |        2 |
-| 0x010E80A7       |         17727655 | [Ivan](./17727655%20-%20Ivan/)                                     |        2 |
-| 0x010E80A8       |         17727656 | [Greeter Moogle](./17727656%20-%20Greeter%20Moogle/)               |        2 |
-| 0x010E80A9       |         17727657 | [Mog Dinghy](./17727657%20-%20Mog%20Dinghy/)                       |        2 |
-| 0x010E80AA       |         17727658 | [Skipper Moogle](./17727658%20-%20Skipper%20Moogle/)               |        2 |
-| 0x010E80AE       |         17727662 | [(unnamed)](./17727662/)                                           |       12 |
-| 0x010E80AF       |         17727663 | [Iroha](./17727663%20-%20Iroha/)                                   |       35 |
-| 0x010E80B0       |         17727664 | [Lion](./17727664%20-%20Lion/)                                     |       14 |
-| 0x010E80B1       |         17727665 | [Zeid](./17727665%20-%20Zeid/)                                     |       11 |
-| 0x010E80B2       |         17727666 | [(unnamed)](./17727666/)                                           |       20 |
-| 0x010E80B3       |         17727667 | [Selhteus](./17727667%20-%20Selhteus/)                             |       10 |
-| 0x010E80B4       |         17727668 | [Selhteus](./17727668%20-%20Selhteus/)                             |        6 |
-| 0x010E80B5       |         17727669 | [Selhteus](./17727669%20-%20Selhteus/)                             |        5 |
-| 0x010E80B6       |         17727670 | [Balamor](./17727670%20-%20Balamor/)                               |        2 |
-| 0x010E80B7       |         17727671 | [(unnamed)](./17727671/)                                           |        4 |
-| 0x010E80B8       |         17727672 | [(unnamed)](./17727672/)                                           |        3 |
-| 0x010E80B9       |         17727673 | [(unnamed)](./17727673/)                                           |        4 |
-| 0x010E80BA       |         17727674 | [Disjoined One](./17727674%20-%20Disjoined%20One/)                 |       11 |
+| 0x010E80A5       |         17727653 | [Gilburt](./17727653%20-%20Gilburt/)                               |        2 |
+| 0x010E80A6       |         17727654 | [Ivan](./17727654%20-%20Ivan/)                                     |        2 |
+| 0x010E80A7       |         17727655 | [Greeter Moogle](./17727655%20-%20Greeter%20Moogle/)               |        2 |
+| 0x010E80A8       |         17727656 | [Mog Dinghy](./17727656%20-%20Mog%20Dinghy/)                       |        2 |
+| 0x010E80A9       |         17727657 | [Skipper Moogle](./17727657%20-%20Skipper%20Moogle/)               |        2 |
+| 0x010E80AD       |         17727661 | [(unnamed)](./17727661/)                                           |       12 |
+| 0x010E80AE       |         17727662 | [Iroha](./17727662%20-%20Iroha/)                                   |       35 |
+| 0x010E80AF       |         17727663 | [Lion](./17727663%20-%20Lion/)                                     |       14 |
+| 0x010E80B0       |         17727664 | [Zeid](./17727664%20-%20Zeid/)                                     |       11 |
+| 0x010E80B1       |         17727665 | [(unnamed)](./17727665/)                                           |       20 |
+| 0x010E80B2       |         17727666 | [Selhteus](./17727666%20-%20Selhteus/)                             |       10 |
+| 0x010E80B3       |         17727667 | [Selhteus](./17727667%20-%20Selhteus/)                             |        6 |
+| 0x010E80B4       |         17727668 | [Selhteus](./17727668%20-%20Selhteus/)                             |        5 |
+| 0x010E80B5       |         17727669 | [Balamor](./17727669%20-%20Balamor/)                               |        2 |
+| 0x010E80B6       |         17727670 | [(unnamed)](./17727670/)                                           |        4 |
+| 0x010E80B7       |         17727671 | [(unnamed)](./17727671/)                                           |        3 |
+| 0x010E80B8       |         17727672 | [(unnamed)](./17727672/)                                           |        4 |
+| 0x010E80B9       |         17727673 | [Disjoined One](./17727673%20-%20Disjoined%20One/)                 |       11 |
+| 0x010E80BA       |         17727674 | [Disjoined One](./17727674%20-%20Disjoined%20One/)                 |       12 |
 | 0x010E80BB       |         17727675 | [Disjoined One](./17727675%20-%20Disjoined%20One/)                 |       12 |
 | 0x010E80BC       |         17727676 | [Disjoined One](./17727676%20-%20Disjoined%20One/)                 |       12 |
 | 0x010E80BD       |         17727677 | [Disjoined One](./17727677%20-%20Disjoined%20One/)                 |       12 |
 | 0x010E80BE       |         17727678 | [Disjoined One](./17727678%20-%20Disjoined%20One/)                 |       12 |
 | 0x010E80BF       |         17727679 | [Disjoined One](./17727679%20-%20Disjoined%20One/)                 |       12 |
 | 0x010E80C0       |         17727680 | [Disjoined One](./17727680%20-%20Disjoined%20One/)                 |       12 |
-| 0x010E80C1       |         17727681 | [Disjoined One](./17727681%20-%20Disjoined%20One/)                 |       12 |
-| 0x010E80C2       |         17727682 | [(unnamed)](./17727682/)                                           |       15 |
-| 0x010E80C3       |         17727683 | [(unnamed)](./17727683/)                                           |       14 |
-| 0x010E80C4       |         17727684 | [Curio Vendor Moogle](./17727684%20-%20Curio%20Vendor%20Moogle/)   |        3 |
-| 0x010E80C5       |         17727685 | [AMAN Liaison](./17727685%20-%20AMAN%20Liaison/)                   |        4 |
-| 0x010E80C7       |         17727687 | [Tales Beginning](./17727687%20-%20Tales%20Beginning/)             |        2 |
-| 0x010E80C8       |         17727688 | [Ancestry Moogle](./17727688%20-%20Ancestry%20Moogle/)             |        3 |
-| 0x010E80C9       |         17727689 | [(unnamed)](./17727689/)                                           |        2 |
-| 0x010E80CA       |         17727690 | [Previous Race](./17727690%20-%20Previous%20Race/)                 |        3 |
+| 0x010E80C1       |         17727681 | [(unnamed)](./17727681/)                                           |       15 |
+| 0x010E80C2       |         17727682 | [(unnamed)](./17727682/)                                           |       14 |
+| 0x010E80C3       |         17727683 | [Curio Vendor Moogle](./17727683%20-%20Curio%20Vendor%20Moogle/)   |        3 |
+| 0x010E80C4       |         17727684 | [AMAN Liaison](./17727684%20-%20AMAN%20Liaison/)                   |        4 |
+| 0x010E80C6       |         17727686 | [Tales Beginning](./17727686%20-%20Tales%20Beginning/)             |        2 |
+| 0x010E80C7       |         17727687 | [Ancestry Moogle](./17727687%20-%20Ancestry%20Moogle/)             |        3 |
+| 0x010E80C8       |         17727688 | [(unnamed)](./17727688/)                                           |        2 |
+| 0x010E80C9       |         17727689 | [Previous Race](./17727689%20-%20Previous%20Race/)                 |        3 |
 | 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/)                                    |       84 |

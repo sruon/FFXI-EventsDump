@@ -20,9 +20,9 @@
 
 | Actor ID (Hex)   |   Actor ID (Dec) | Name                                                   |   Events |
 |------------------|------------------|--------------------------------------------------------|----------|
-| 0x0111F079       |         17952889 | [(unnamed)](./17952889/)                               |       14 |
-| 0x0111F07C       |         17952892 | [Legion Portal](./17952892%20-%20Legion%20Portal/)     |        2 |
-| 0x0111F07D       |         17952893 | [Legion Portal](./17952893%20-%20Legion%20Portal/)     |        2 |
-| 0x0111F07E       |         17952894 | [Legion Tome](./17952894%20-%20Legion%20Tome/)         |        2 |
-| 0x0111F07F       |         17952895 | [Legion Libretto](./17952895%20-%20Legion%20Libretto/) |        2 |
+| 0x0111F07C       |         17952892 | [(unnamed)](./17952892/)                               |       14 |
+| 0x0111F07F       |         17952895 | [Legion Portal](./17952895%20-%20Legion%20Portal/)     |        2 |
+| 0x0111F080       |         17952896 | [Legion Portal](./17952896%20-%20Legion%20Portal/)     |        2 |
+| 0x0111F081       |         17952897 | [Legion Tome](./17952897%20-%20Legion%20Tome/)         |        2 |
+| 0x0111F082       |         17952898 | [Legion Libretto](./17952898%20-%20Legion%20Libretto/) |        2 |
 | 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/)                        |        4 |

@@ -5,7 +5,7 @@
 | Field            | Value            |
 |------------------|------------------|
 | Zone             | Temenos (ID: 37) |
-| Block Size       | 592 bytes        |
+| Block Size       | 600 bytes        |
 | Total Events     | 2                |
 | References Count | 33               |
 
@@ -14,7 +14,7 @@
 | Event ID            | Offset   |   Size |   Instructions |
 |---------------------|----------|--------|----------------|
 | [65535](./65535.md) | 0x0000   |      1 |              1 |
-| [1011](./1011.md)   | 0x0001   |    434 |             84 |
+| [1011](./1011.md)   | 0x0001   |    442 |             86 |
 
 ## DAT References (imed_data)
 

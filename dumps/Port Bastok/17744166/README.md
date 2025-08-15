@@ -5,9 +5,9 @@
 | Field            | Value                 |
 |------------------|-----------------------|
 | Zone             | Port Bastok (ID: 236) |
-| Block Size       | 148 bytes             |
+| Block Size       | 156 bytes             |
 | Total Events     | 4                     |
-| References Count | 10                    |
+| References Count | 12                    |
 
 ## Events
 
@@ -23,12 +23,14 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFEC780  |  4294887296 |
-|       1 | 0xC15C      |       49500 |
+|       1 | 0xBD74      |       48500 |
 |       2 | 0x1324      |        4900 |
 |       3 | 0x07FF      |        2047 |
-|       4 | 0x001E      |          30 |
+|       4 | 0x0028      |          40 |
 |       5 | 0xFFFE7960  |  4294867296 |
-|       6 | 0xFFFECF50  |  4294889296 |
-|       7 | 0xFFFEB3F8  |  4294882296 |
-|       8 | 0x03FF      |        1023 |
-|       9 | 0x002B      |          43 |
+|       6 | 0xFFFE90D0  |  4294873296 |
+|       7 | 0xC15C      |       49500 |
+|       8 | 0xFFFFF801  |  4294965249 |
+|       9 | 0xFFFEA99E  |  4294879646 |
+|      10 | 0x03FF      |        1023 |
+|      11 | 0x002B      |          43 |

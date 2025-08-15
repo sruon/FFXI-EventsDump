@@ -5,16 +5,17 @@
 | Field            | Value                 |
 |------------------|-----------------------|
 | Zone             | Port Bastok (ID: 236) |
-| Block Size       | 7980 bytes            |
-| Total Events     | 2                     |
+| Block Size       | 7992 bytes            |
+| Total Events     | 3                     |
 | References Count | 234                   |
 
 ## Events
 
-| Event ID            | Offset   |   Size |   Instructions |
-|---------------------|----------|--------|----------------|
-| [65535](./65535.md) | 0x0000   |      1 |              1 |
-| [11001](./11001.md) | 0x0001   |   7019 |           1489 |
+| Event ID                | Offset   |   Size |   Instructions |
+|-------------------------|----------|--------|----------------|
+| [65535](./65535.md)     | 0x0000   |      1 |              1 |
+| [11002](./11002.md)     | 0x0001   |   7019 |           1489 |
+| [65535.1](./65535.1.md) | 0x1B6C   |      7 |              2 |
 
 ## DAT References (imed_data)
 

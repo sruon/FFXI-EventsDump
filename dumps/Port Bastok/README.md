@@ -5,8 +5,8 @@
 | Field        |   Value |
 |--------------|---------|
 | Zone ID      |     236 |
-| Total Actors |     245 |
-| Total Events |    1736 |
+| Total Actors |     244 |
+| Total Events |    1733 |
 
 ## Source Files
 
@@ -145,29 +145,29 @@
 | 0x010EC0A5       |         17744037 | [(unnamed)](./17744037/)                                           |       15 |
 | 0x010EC0A6       |         17744038 | [Gallagher](./17744038%20-%20Gallagher/)                           |        3 |
 | 0x010EC0A7       |         17744039 | [Alib-Mufalib](./17744039%20-%20Alib-Mufalib/)                     |        9 |
-| 0x010EC0A8       |         17744040 | [Festive Moogle](./17744040%20-%20Festive%20Moogle/)               |        3 |
-| 0x010EC0A9       |         17744041 | [Gwinar](./17744041%20-%20Gwinar/)                                 |        3 |
+| 0x010EC0A8       |         17744040 | [Gwinar](./17744040%20-%20Gwinar/)                                 |        3 |
+| 0x010EC0A9       |         17744041 | [Game Table](./17744041%20-%20Game%20Table/)                       |        2 |
 | 0x010EC0AA       |         17744042 | [Game Table](./17744042%20-%20Game%20Table/)                       |        2 |
-| 0x010EC0AB       |         17744043 | [Game Table](./17744043%20-%20Game%20Table/)                       |        2 |
-| 0x010EC0AC       |         17744044 | [Festive Moogle](./17744044%20-%20Festive%20Moogle/)               |        4 |
-| 0x010EC0AD       |         17744045 | [Bonanza Moogle](./17744045%20-%20Bonanza%20Moogle/)               |        5 |
-| 0x010EC0AE       |         17744046 | [Bonanza Moogle](./17744046%20-%20Bonanza%20Moogle/)               |        4 |
+| 0x010EC0AB       |         17744043 | [Festive Moogle](./17744043%20-%20Festive%20Moogle/)               |        4 |
+| 0x010EC0AC       |         17744044 | [Bonanza Moogle](./17744044%20-%20Bonanza%20Moogle/)               |        5 |
+| 0x010EC0AD       |         17744045 | [Bonanza Moogle](./17744045%20-%20Bonanza%20Moogle/)               |        4 |
+| 0x010EC0AE       |         17744046 | [Dealer Moogle](./17744046%20-%20Dealer%20Moogle/)                 |        3 |
 | 0x010EC0AF       |         17744047 | [Dealer Moogle](./17744047%20-%20Dealer%20Moogle/)                 |        3 |
-| 0x010EC0B0       |         17744048 | [Dealer Moogle](./17744048%20-%20Dealer%20Moogle/)                 |        3 |
-| 0x010EC0B1       |         17744049 | [Synergy Engineer](./17744049%20-%20Synergy%20Engineer/)           |        2 |
-| 0x010EC0B2       |         17744050 | [Synergy Engineer](./17744050%20-%20Synergy%20Engineer/)           |        3 |
+| 0x010EC0B0       |         17744048 | [Synergy Engineer](./17744048%20-%20Synergy%20Engineer/)           |        2 |
+| 0x010EC0B1       |         17744049 | [Synergy Engineer](./17744049%20-%20Synergy%20Engineer/)           |        3 |
+| 0x010EC0B2       |         17744050 | [Synergy Furnace](./17744050%20-%20Synergy%20Furnace/)             |       10 |
 | 0x010EC0B3       |         17744051 | [Synergy Furnace](./17744051%20-%20Synergy%20Furnace/)             |       10 |
-| 0x010EC0B4       |         17744052 | [Synergy Furnace](./17744052%20-%20Synergy%20Furnace/)             |       10 |
+| 0x010EC0B4       |         17744052 | [Synergy Furnace](./17744052%20-%20Synergy%20Furnace/)             |       11 |
 | 0x010EC0B5       |         17744053 | [Synergy Furnace](./17744053%20-%20Synergy%20Furnace/)             |       11 |
-| 0x010EC0B6       |         17744054 | [Synergy Furnace](./17744054%20-%20Synergy%20Furnace/)             |       11 |
-| 0x010EC0B7       |         17744055 | [Synergy Enthusiast](./17744055%20-%20Synergy%20Enthusiast/)       |        2 |
-| 0x010EC0B8       |         17744056 | [Erich](./17744056%20-%20Erich/)                                   |        2 |
-| 0x010EC0B9       |         17744057 | [Ernst](./17744057%20-%20Ernst/)                                   |        2 |
-| 0x010EC0BA       |         17744058 | [Voidwatch Purveyor](./17744058%20-%20Voidwatch%20Purveyor/)       |        3 |
-| 0x010EC0BB       |         17744059 | [Moogle](./17744059%20-%20Moogle/)                                 |        4 |
-| 0x010EC0BC       |         17744060 | [Ake](./17744060%20-%20Ake/)                                       |        2 |
-| 0x010EC0BD       |         17744061 | [Ome](./17744061%20-%20Ome/)                                       |        2 |
-| 0x010EC0EF       |         17744111 | [Klaas](./17744111%20-%20Klaas/)                                   |        2 |
+| 0x010EC0B6       |         17744054 | [Synergy Enthusiast](./17744054%20-%20Synergy%20Enthusiast/)       |        2 |
+| 0x010EC0B7       |         17744055 | [Erich](./17744055%20-%20Erich/)                                   |        2 |
+| 0x010EC0B8       |         17744056 | [Ernst](./17744056%20-%20Ernst/)                                   |        2 |
+| 0x010EC0B9       |         17744057 | [Voidwatch Purveyor](./17744057%20-%20Voidwatch%20Purveyor/)       |        3 |
+| 0x010EC0BA       |         17744058 | [Moogle](./17744058%20-%20Moogle/)                                 |        4 |
+| 0x010EC0BB       |         17744059 | [Ake](./17744059%20-%20Ake/)                                       |        2 |
+| 0x010EC0BC       |         17744060 | [Ome](./17744060%20-%20Ome/)                                       |        2 |
+| 0x010EC0EE       |         17744110 | [Klaas](./17744110%20-%20Klaas/)                                   |        2 |
+| 0x010EC0EF       |         17744111 | [(unnamed)](./17744111/)                                           |        3 |
 | 0x010EC0F0       |         17744112 | [(unnamed)](./17744112/)                                           |        3 |
 | 0x010EC0F1       |         17744113 | [(unnamed)](./17744113/)                                           |        3 |
 | 0x010EC0F2       |         17744114 | [(unnamed)](./17744114/)                                           |        3 |
@@ -181,87 +181,86 @@
 | 0x010EC0FA       |         17744122 | [(unnamed)](./17744122/)                                           |        3 |
 | 0x010EC0FB       |         17744123 | [(unnamed)](./17744123/)                                           |        3 |
 | 0x010EC0FC       |         17744124 | [(unnamed)](./17744124/)                                           |        3 |
-| 0x010EC0FD       |         17744125 | [(unnamed)](./17744125/)                                           |        3 |
-| 0x010EC0FE       |         17744126 | [Moogle](./17744126%20-%20Moogle/)                                 |        3 |
-| 0x010EC11C       |         17744156 | [Klaas](./17744156%20-%20Klaas/)                                   |        2 |
-| 0x010EC11D       |         17744157 | [(unnamed)](./17744157/)                                           |        3 |
+| 0x010EC0FD       |         17744125 | [Moogle](./17744125%20-%20Moogle/)                                 |        3 |
+| 0x010EC11B       |         17744155 | [Klaas](./17744155%20-%20Klaas/)                                   |        2 |
+| 0x010EC11C       |         17744156 | [(unnamed)](./17744156/)                                           |        3 |
+| 0x010EC11D       |         17744157 | [(unnamed)](./17744157/)                                           |        4 |
 | 0x010EC11E       |         17744158 | [(unnamed)](./17744158/)                                           |        4 |
 | 0x010EC11F       |         17744159 | [(unnamed)](./17744159/)                                           |        4 |
 | 0x010EC120       |         17744160 | [(unnamed)](./17744160/)                                           |        4 |
 | 0x010EC121       |         17744161 | [(unnamed)](./17744161/)                                           |        4 |
 | 0x010EC122       |         17744162 | [(unnamed)](./17744162/)                                           |        4 |
-| 0x010EC123       |         17744163 | [(unnamed)](./17744163/)                                           |        4 |
-| 0x010EC124       |         17744164 | [(unnamed)](./17744164/)                                           |        3 |
+| 0x010EC123       |         17744163 | [(unnamed)](./17744163/)                                           |        3 |
+| 0x010EC124       |         17744164 | [(unnamed)](./17744164/)                                           |        4 |
 | 0x010EC125       |         17744165 | [(unnamed)](./17744165/)                                           |        4 |
 | 0x010EC126       |         17744166 | [(unnamed)](./17744166/)                                           |        4 |
 | 0x010EC127       |         17744167 | [(unnamed)](./17744167/)                                           |        4 |
-| 0x010EC128       |         17744168 | [(unnamed)](./17744168/)                                           |        4 |
+| 0x010EC128       |         17744168 | [(unnamed)](./17744168/)                                           |        3 |
 | 0x010EC129       |         17744169 | [(unnamed)](./17744169/)                                           |        3 |
 | 0x010EC12A       |         17744170 | [(unnamed)](./17744170/)                                           |        3 |
 | 0x010EC12B       |         17744171 | [(unnamed)](./17744171/)                                           |        3 |
 | 0x010EC12C       |         17744172 | [(unnamed)](./17744172/)                                           |        3 |
 | 0x010EC12D       |         17744173 | [(unnamed)](./17744173/)                                           |        3 |
 | 0x010EC12E       |         17744174 | [(unnamed)](./17744174/)                                           |        3 |
-| 0x010EC12F       |         17744175 | [(unnamed)](./17744175/)                                           |        3 |
-| 0x010EC130       |         17744176 | [(unnamed)](./17744176/)                                           |        9 |
-| 0x010EC131       |         17744177 | [Moogle](./17744177%20-%20Moogle/)                                 |        4 |
-| 0x010EC132       |         17744178 | [Spriggan Sifter](./17744178%20-%20Spriggan%20Sifter/)             |        6 |
-| 0x010EC133       |         17744179 | [Spriggan Crier](./17744179%20-%20Spriggan%20Crier/)               |        6 |
-| 0x010EC134       |         17744180 | [Spriggan Graverobber](./17744180%20-%20Spriggan%20Graverobber/)   |        6 |
+| 0x010EC12F       |         17744175 | [(unnamed)](./17744175/)                                           |        9 |
+| 0x010EC130       |         17744176 | [Moogle](./17744176%20-%20Moogle/)                                 |        4 |
+| 0x010EC131       |         17744177 | [Spriggan Sifter](./17744177%20-%20Spriggan%20Sifter/)             |        6 |
+| 0x010EC132       |         17744178 | [Spriggan Crier](./17744178%20-%20Spriggan%20Crier/)               |        6 |
+| 0x010EC133       |         17744179 | [Spriggan Graverobber](./17744179%20-%20Spriggan%20Graverobber/)   |        6 |
+| 0x010EC134       |         17744180 | [(unnamed)](./17744180/)                                           |        2 |
 | 0x010EC135       |         17744181 | [(unnamed)](./17744181/)                                           |        2 |
-| 0x010EC136       |         17744182 | [(unnamed)](./17744182/)                                           |        2 |
-| 0x010EC137       |         17744183 | [Suspicious Galka](./17744183%20-%20Suspicious%20Galka/)           |       11 |
-| 0x010EC138       |         17744184 | [Odyssean Passage](./17744184%20-%20Odyssean%20Passage/)           |        3 |
-| 0x010EC139       |         17744185 | [Raving Opossum](./17744185%20-%20Raving%20Opossum/)               |        2 |
-| 0x010EC13A       |         17744186 | [Greeter Moogle](./17744186%20-%20Greeter%20Moogle/)               |        2 |
-| 0x010EC13B       |         17744187 | [Mog Dinghy](./17744187%20-%20Mog%20Dinghy/)                       |        2 |
-| 0x010EC13C       |         17744188 | [Skipper Moogle](./17744188%20-%20Skipper%20Moogle/)               |        2 |
-| 0x010EC13D       |         17744189 | [Clarion Star](./17744189%20-%20Clarion%20Star/)                   |       32 |
-| 0x010EC142       |         17744194 | [(unnamed)](./17744194/)                                           |       12 |
-| 0x010EC143       |         17744195 | [Iroha](./17744195%20-%20Iroha/)                                   |       35 |
-| 0x010EC144       |         17744196 | [Lion](./17744196%20-%20Lion/)                                     |       14 |
-| 0x010EC145       |         17744197 | [Zeid](./17744197%20-%20Zeid/)                                     |       11 |
-| 0x010EC146       |         17744198 | [(unnamed)](./17744198/)                                           |       20 |
-| 0x010EC147       |         17744199 | [Selhteus](./17744199%20-%20Selhteus/)                             |       10 |
-| 0x010EC148       |         17744200 | [Selhteus](./17744200%20-%20Selhteus/)                             |        6 |
-| 0x010EC149       |         17744201 | [Selhteus](./17744201%20-%20Selhteus/)                             |        5 |
-| 0x010EC14A       |         17744202 | [Balamor](./17744202%20-%20Balamor/)                               |        2 |
-| 0x010EC14B       |         17744203 | [(unnamed)](./17744203/)                                           |        4 |
-| 0x010EC14C       |         17744204 | [(unnamed)](./17744204/)                                           |        3 |
-| 0x010EC14D       |         17744205 | [(unnamed)](./17744205/)                                           |        4 |
-| 0x010EC14E       |         17744206 | [Disjoined One](./17744206%20-%20Disjoined%20One/)                 |       11 |
+| 0x010EC136       |         17744182 | [Suspicious Galka](./17744182%20-%20Suspicious%20Galka/)           |       11 |
+| 0x010EC137       |         17744183 | [Odyssean Passage](./17744183%20-%20Odyssean%20Passage/)           |        3 |
+| 0x010EC138       |         17744184 | [Raving Opossum](./17744184%20-%20Raving%20Opossum/)               |        2 |
+| 0x010EC139       |         17744185 | [Greeter Moogle](./17744185%20-%20Greeter%20Moogle/)               |        2 |
+| 0x010EC13A       |         17744186 | [Mog Dinghy](./17744186%20-%20Mog%20Dinghy/)                       |        2 |
+| 0x010EC13B       |         17744187 | [Skipper Moogle](./17744187%20-%20Skipper%20Moogle/)               |        2 |
+| 0x010EC13C       |         17744188 | [Clarion Star](./17744188%20-%20Clarion%20Star/)                   |       32 |
+| 0x010EC141       |         17744193 | [(unnamed)](./17744193/)                                           |       12 |
+| 0x010EC142       |         17744194 | [Iroha](./17744194%20-%20Iroha/)                                   |       35 |
+| 0x010EC143       |         17744195 | [Lion](./17744195%20-%20Lion/)                                     |       14 |
+| 0x010EC144       |         17744196 | [Zeid](./17744196%20-%20Zeid/)                                     |       11 |
+| 0x010EC145       |         17744197 | [(unnamed)](./17744197/)                                           |       20 |
+| 0x010EC146       |         17744198 | [Selhteus](./17744198%20-%20Selhteus/)                             |       10 |
+| 0x010EC147       |         17744199 | [Selhteus](./17744199%20-%20Selhteus/)                             |        6 |
+| 0x010EC148       |         17744200 | [Selhteus](./17744200%20-%20Selhteus/)                             |        5 |
+| 0x010EC149       |         17744201 | [Balamor](./17744201%20-%20Balamor/)                               |        2 |
+| 0x010EC14A       |         17744202 | [(unnamed)](./17744202/)                                           |        4 |
+| 0x010EC14B       |         17744203 | [(unnamed)](./17744203/)                                           |        3 |
+| 0x010EC14C       |         17744204 | [(unnamed)](./17744204/)                                           |        4 |
+| 0x010EC14D       |         17744205 | [Disjoined One](./17744205%20-%20Disjoined%20One/)                 |       11 |
+| 0x010EC14E       |         17744206 | [Disjoined One](./17744206%20-%20Disjoined%20One/)                 |       12 |
 | 0x010EC14F       |         17744207 | [Disjoined One](./17744207%20-%20Disjoined%20One/)                 |       12 |
 | 0x010EC150       |         17744208 | [Disjoined One](./17744208%20-%20Disjoined%20One/)                 |       12 |
 | 0x010EC151       |         17744209 | [Disjoined One](./17744209%20-%20Disjoined%20One/)                 |       12 |
 | 0x010EC152       |         17744210 | [Disjoined One](./17744210%20-%20Disjoined%20One/)                 |       12 |
 | 0x010EC153       |         17744211 | [Disjoined One](./17744211%20-%20Disjoined%20One/)                 |       12 |
 | 0x010EC154       |         17744212 | [Disjoined One](./17744212%20-%20Disjoined%20One/)                 |       12 |
-| 0x010EC155       |         17744213 | [Disjoined One](./17744213%20-%20Disjoined%20One/)                 |       12 |
-| 0x010EC156       |         17744214 | [(unnamed)](./17744214/)                                           |       15 |
-| 0x010EC157       |         17744215 | [(unnamed)](./17744215/)                                           |       14 |
-| 0x010EC158       |         17744216 | [Curio Vendor Moogle](./17744216%20-%20Curio%20Vendor%20Moogle/)   |        3 |
-| 0x010EC159       |         17744217 | [(unnamed)](./17744217/)                                           |        6 |
-| 0x010EC15A       |         17744218 | [(unnamed)](./17744218/)                                           |        5 |
+| 0x010EC155       |         17744213 | [(unnamed)](./17744213/)                                           |       15 |
+| 0x010EC156       |         17744214 | [(unnamed)](./17744214/)                                           |       14 |
+| 0x010EC157       |         17744215 | [Curio Vendor Moogle](./17744215%20-%20Curio%20Vendor%20Moogle/)   |        3 |
+| 0x010EC158       |         17744216 | [(unnamed)](./17744216/)                                           |        6 |
+| 0x010EC159       |         17744217 | [(unnamed)](./17744217/)                                           |        5 |
+| 0x010EC15A       |         17744218 | [(unnamed)](./17744218/)                                           |        4 |
 | 0x010EC15B       |         17744219 | [(unnamed)](./17744219/)                                           |        4 |
-| 0x010EC15C       |         17744220 | [(unnamed)](./17744220/)                                           |        4 |
-| 0x010EC15D       |         17744221 | [(unnamed)](./17744221/)                                           |       14 |
-| 0x010EC15E       |         17744222 | [(unnamed)](./17744222/)                                           |        6 |
-| 0x010EC15F       |         17744223 | [(unnamed)](./17744223/)                                           |        5 |
-| 0x010EC160       |         17744224 | [Ruenda](./17744224%20-%20Ruenda/)                                 |        3 |
-| 0x010EC161       |         17744225 | [Marin](./17744225%20-%20Marin/)                                   |        4 |
-| 0x010EC162       |         17744226 | [Ken](./17744226%20-%20Ken/)                                       |        4 |
-| 0x010EC163       |         17744227 | [Azima](./17744227%20-%20Azima/)                                   |        3 |
-| 0x010EC164       |         17744228 | [Zeid](./17744228%20-%20Zeid/)                                     |        4 |
+| 0x010EC15C       |         17744220 | [(unnamed)](./17744220/)                                           |       14 |
+| 0x010EC15D       |         17744221 | [(unnamed)](./17744221/)                                           |        6 |
+| 0x010EC15E       |         17744222 | [(unnamed)](./17744222/)                                           |        5 |
+| 0x010EC15F       |         17744223 | [Ruenda](./17744223%20-%20Ruenda/)                                 |        3 |
+| 0x010EC160       |         17744224 | [Marin](./17744224%20-%20Marin/)                                   |        4 |
+| 0x010EC161       |         17744225 | [Ken](./17744225%20-%20Ken/)                                       |        4 |
+| 0x010EC162       |         17744226 | [Azima](./17744226%20-%20Azima/)                                   |        3 |
+| 0x010EC163       |         17744227 | [Zeid](./17744227%20-%20Zeid/)                                     |        4 |
+| 0x010EC164       |         17744228 | [(unnamed)](./17744228/)                                           |        2 |
 | 0x010EC165       |         17744229 | [(unnamed)](./17744229/)                                           |        2 |
 | 0x010EC166       |         17744230 | [(unnamed)](./17744230/)                                           |        2 |
 | 0x010EC167       |         17744231 | [(unnamed)](./17744231/)                                           |        2 |
 | 0x010EC168       |         17744232 | [(unnamed)](./17744232/)                                           |        2 |
 | 0x010EC169       |         17744233 | [(unnamed)](./17744233/)                                           |        2 |
 | 0x010EC16A       |         17744234 | [(unnamed)](./17744234/)                                           |        2 |
-| 0x010EC16B       |         17744235 | [(unnamed)](./17744235/)                                           |        2 |
-| 0x010EC16C       |         17744236 | [AMAN Liaison](./17744236%20-%20AMAN%20Liaison/)                   |        4 |
-| 0x010EC16E       |         17744238 | [Tales Beginning](./17744238%20-%20Tales%20Beginning/)             |        2 |
-| 0x010EC16F       |         17744239 | [Ancestry Moogle](./17744239%20-%20Ancestry%20Moogle/)             |        3 |
-| 0x010EC170       |         17744240 | [(unnamed)](./17744240/)                                           |        2 |
-| 0x010EC171       |         17744241 | [Previous Race](./17744241%20-%20Previous%20Race/)                 |        3 |
+| 0x010EC16B       |         17744235 | [AMAN Liaison](./17744235%20-%20AMAN%20Liaison/)                   |        4 |
+| 0x010EC16D       |         17744237 | [Tales Beginning](./17744237%20-%20Tales%20Beginning/)             |        2 |
+| 0x010EC16E       |         17744238 | [Ancestry Moogle](./17744238%20-%20Ancestry%20Moogle/)             |        3 |
+| 0x010EC16F       |         17744239 | [(unnamed)](./17744239/)                                           |        2 |
+| 0x010EC170       |         17744240 | [Previous Race](./17744240%20-%20Previous%20Race/)                 |        3 |
 | 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/)                                    |       81 |

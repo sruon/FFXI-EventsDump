@@ -5,7 +5,7 @@
 | Field            | Value             |
 |------------------|-------------------|
 | Zone             | Apollyon (ID: 38) |
-| Block Size       | 664 bytes         |
+| Block Size       | 672 bytes         |
 | Total Events     | 2                 |
 | References Count | 38                |
 
@@ -14,7 +14,7 @@
 | Event ID            | Offset   |   Size |   Instructions |
 |---------------------|----------|--------|----------------|
 | [65535](./65535.md) | 0x0000   |      1 |              1 |
-| [113](./113.md)     | 0x0001   |    486 |             91 |
+| [113](./113.md)     | 0x0001   |    494 |             93 |
 
 ## DAT References (imed_data)
 
