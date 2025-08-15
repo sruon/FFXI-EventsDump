@@ -119,22 +119,11 @@ class EntityAppearanceHandlerOpcode(BaseOpcode):
 
         case_desc = case_descriptions.get(case_type, f"Unknown 0x{case_type:02X}")
 
-        # Helper function to format values with reference resolution
-        def format_value(value):
-            if 0x8000 <= value <= 0x8FFF:
-                ref_index = value & 0x7FFF
-                if context and context.imed_data and ref_index < len(context.imed_data):
-                    return f"{context.imed_data[ref_index]}*"
-                else:
-                    return f"References[{ref_index}]"
-            else:
-                return str(value)
-
         # Handle different case types
         if case_type in range(0x00, 0x0B) or case_type == 0x0F:
             # Single value cases
             if "value" in args:
-                return f"{self.name}(case={case_desc}, value={format_value(args['value'])})"
+                return f"{self.name}(case={case_desc}, value={self.format_work_area_value(args['value'], context=context)})"
             else:
                 return f"{self.name}(case={case_desc})"
 
@@ -142,21 +131,21 @@ class EntityAppearanceHandlerOpcode(BaseOpcode):
             # Full entity look
             return (
                 f"{self.name}(case={case_desc}, "
-                f"race={format_value(args['race'])}, "
-                f"hair={format_value(args['hair'])}, "
-                f"head={format_value(args['head'])}, "
-                f"body={format_value(args['body'])}, "
-                f"hands={format_value(args['hands'])}, "
-                f"legs={format_value(args['legs'])}, "
-                f"feet={format_value(args['feet'])}, "
-                f"main={format_value(args['main'])}, "
-                f"sub={format_value(args['sub'])})"
+                f"race={self.format_work_area_value(args['race'], context=context)}, "
+                f"hair={self.format_work_area_value(args['hair'], context=context)}, "
+                f"head={self.format_work_area_value(args['head'], context=context)}, "
+                f"body={self.format_work_area_value(args['body'], context=context)}, "
+                f"hands={self.format_work_area_value(args['hands'], context=context)}, "
+                f"legs={self.format_work_area_value(args['legs'], context=context)}, "
+                f"feet={self.format_work_area_value(args['feet'], context=context)}, "
+                f"main={self.format_work_area_value(args['main'], context=context)}, "
+                f"sub={self.format_work_area_value(args['sub'], context=context)})"
             )
 
         elif case_type == 0x0C:
             # Type/Hair/Unknown
             if "type" in args:
-                return f"{self.name}(case={case_desc}, type={format_value(args['type'])}, hair={args['hair']}, unknown={args['unknown']})"
+                return f"{self.name}(case={case_desc}, type={self.format_work_area_value(args['type'], context=context)}, hair={args['hair']}, unknown={args['unknown']})"
             else:
                 return f"{self.name}(case={case_desc})"
 
@@ -165,11 +154,11 @@ class EntityAppearanceHandlerOpcode(BaseOpcode):
             if "race" in args:
                 return (
                     f"{self.name}(case={case_desc}, "
-                    f"race={format_value(args['race'])}, "
-                    f"face={format_value(args['face'])}, "
-                    f"head={format_value(args['head'])}, "
-                    f"body={format_value(args['body'])}, "
-                    f"hands={format_value(args['hands'])}, "
+                    f"race={self.format_work_area_value(args['race'], context=context)}, "
+                    f"face={self.format_work_area_value(args['face'], context=context)}, "
+                    f"head={self.format_work_area_value(args['head'], context=context)}, "
+                    f"body={self.format_work_area_value(args['body'], context=context)}, "
+                    f"hands={self.format_work_area_value(args['hands'], context=context)}, "
                     f"render_flags=0x{args['render_flags']:04X})"
                 )
             else:

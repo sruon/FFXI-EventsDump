@@ -52,7 +52,7 @@ class MultiHandlerComplexOpcode(BaseOpcode):
             entity2_id = int.from_bytes(raw_bytes[8:12], byteorder="little")
             string_val = int.from_bytes(raw_bytes[12:16], byteorder="little")
 
-            ref_str = self.format_work_area_value(ref_val, context) if 0x8000 <= ref_val <= 0x8FFF else f"0x{ref_val:04X}"
+            ref_str = self.format_work_area_value(ref_val, context=context)
 
             entity1_str = self.format_entity_id(entity1_id, context=context)
             entity2_str = self.format_entity_id(entity2_id, context=context)
@@ -76,7 +76,7 @@ class MultiHandlerComplexOpcode(BaseOpcode):
             string_val = int.from_bytes(raw_bytes[12:16], byteorder="little")
             extra_val = int.from_bytes(raw_bytes[16:18], byteorder="little")
 
-            ref_str = self.format_work_area_value(ref_val, context) if 0x8000 <= ref_val <= 0x8FFF else f"0x{ref_val:04X}"
+            ref_str = self.format_work_area_value(ref_val, context=context)
 
             entity1_str = self.format_entity_id(entity1_id, context=context)
             entity2_str = self.format_entity_id(entity2_id, context=context)
@@ -91,7 +91,7 @@ class MultiHandlerComplexOpcode(BaseOpcode):
             except (UnicodeDecodeError, ValueError):
                 string_display = f"0x{string_val:08X}"
 
-            extra_str = self.format_work_area_value(extra_val, context) if 0x8000 <= extra_val <= 0x8FFF else f"0x{extra_val:04X}"
+            extra_str = self.format_work_area_value(extra_val, context=context)
 
             return f"{self.name}(mode=0x{mode:02X} - {description}, ref={ref_str}, entity1={entity1_str}, entity2={entity2_str}, string={string_display}, extra={extra_str})"
 

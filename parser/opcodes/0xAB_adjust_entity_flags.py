@@ -69,34 +69,14 @@ class AdjustEntityFlagsOpcode(BaseOpcode):
         elif sub_case == 0x10:
             return "EventEntity->CalibrationFlag = 0 // Clear calibration flag"
         elif sub_case == 0x11:
-            param = args["parameter"]
-            # Check if it's a reference
-            if 0x8000 <= param <= 0x8FFF:
-                ref_index = param & 0x7FFF
-                if context and context.imed_data and ref_index < len(context.imed_data):
-                    ref_value = context.imed_data[ref_index]
-                    param_str = f"{ref_value}*"
-                else:
-                    param_str = f"References[{ref_index}]"
-            else:
-                param_str = f"0x{param:04X}"
+            param_str = self.format_work_area_value(args["parameter"], context=context)
             return f"EventEntity->DespawnValue = {param_str} // Set despawn value"
         elif sub_case == 0x12:
             return "EventEntity->Render.Flags2 |= 0x04 // Set bit 2"
         elif sub_case == 0x13:
             return "EventEntity->Render.Flags2 &= ~0x04 // Clear bit 2"
         elif 0x14 <= sub_case <= 0x18:
-            param = args["parameter"]
-            # Check if it's a reference
-            if 0x8000 <= param <= 0x8FFF:
-                ref_index = param & 0x7FFF
-                if context and context.imed_data and ref_index < len(context.imed_data):
-                    ref_value = context.imed_data[ref_index]
-                    param_str = f"{ref_value}*"
-                else:
-                    param_str = f"References[{ref_index}]"
-            else:
-                param_str = f"0x{param:04X}"
+            param_str = self.format_work_area_value(args["parameter"], context=context)
             helper_num = sub_case - 0x13
             return f"CallHelperFunction{helper_num}({param_str}) // Helper function {helper_num}"
         elif sub_case == 0x19:

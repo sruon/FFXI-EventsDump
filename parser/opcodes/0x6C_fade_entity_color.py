@@ -19,26 +19,7 @@ class FadeEntityColorOpcode(BaseOpcode):
         end_alpha = args["end_alpha"]
         fade_time = args["fade_time"]
 
-        # Check if end_alpha is a reference (0x8000-0x8FFF range)
-        if 0x8000 <= end_alpha <= 0x8FFF:
-            ref_index = end_alpha & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                end_alpha_str = f"{ref_value}*"
-            else:
-                end_alpha_str = f"References[{ref_index}]"
-        else:
-            end_alpha_str = f"0x{end_alpha:04X}"
-
-        # Check if fade_time is a reference (0x8000-0x8FFF range)
-        if 0x8000 <= fade_time <= 0x8FFF:
-            ref_index = fade_time & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                fade_time_str = f"{ref_value}*"
-            else:
-                fade_time_str = f"References[{ref_index}]"
-        else:
-            fade_time_str = f"0x{fade_time:04X}"
+        end_alpha_str = self.format_work_area_value(end_alpha, context=context)
+        fade_time_str = self.format_work_area_value(fade_time, context=context)
 
         return f"{self.name}(entity_id={entity_id_str}, end_alpha={end_alpha_str}, fade_time={fade_time_str})"

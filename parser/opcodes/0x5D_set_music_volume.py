@@ -17,24 +17,7 @@ class SetMusicVolumeOpcode(BaseOpcode):
         volume = args["volume"]
         fade_time = args["fade_time"]
 
-        if 0x8000 <= volume <= 0x8FFF:
-            ref_index = volume & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                volume_str = f"{ref_value}*"
-            else:
-                volume_str = f"References[{ref_index}]"
-        else:
-            volume_str = str(volume)
-
-        if 0x8000 <= fade_time <= 0x8FFF:
-            ref_index = fade_time & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                fade_time_str = f"{ref_value}*"
-            else:
-                fade_time_str = f"References[{ref_index}]"
-        else:
-            fade_time_str = str(fade_time)
+        volume_str = self.format_work_area_value(volume, context=context)
+        fade_time_str = self.format_work_area_value(fade_time, context=context)
 
         return f"{self.name}(volume={volume_str}, fade_time={fade_time_str})"

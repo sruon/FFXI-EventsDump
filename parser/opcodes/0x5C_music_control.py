@@ -29,15 +29,8 @@ class MusicControlOpcode(BaseOpcode):
         control_type = args["control_type"]
         song_id = args["song_id"]
 
-        if 0x8000 <= song_id <= 0x8FFF:
-            ref_index = song_id & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                song_id_str = f"song {ref_value}*"
-            else:
-                song_id_str = f"References[{ref_index}]"
-        else:
-            song_id_str = f"song {song_id}"
+        song_work_area = self.format_work_area_value(song_id, context=context)
+        song_id_str = f"song {song_work_area}"
 
         music_slots = {
             0x00: "Idle (Day)",

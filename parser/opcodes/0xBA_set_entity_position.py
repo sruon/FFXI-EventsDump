@@ -16,35 +16,8 @@ class SetEntityPositionOpcode(BaseOpcode):
 
     def get_legible_representation(self, raw_bytes: bytes, args: dict = None, context=None) -> str:
         entity_id = args["entity_id"]
-        if entity_id == 0x7FFFFFF0:
-            entity_repr = "LocalPlayer"
-        elif entity_id == 0x7FFFFFF8:
-            entity_repr = "EventEntity"
-        elif entity_id & 0x8000:
-            # Reference
-            ref_index = entity_id - 0x8000
-            if context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                # Try to get entity name if available
-                if context.zone_entities:
-                    entity_name = context.zone_entities.get_entity_display_name(ref_value)
-                    if not entity_name.startswith("Unknown NPC"):
-                        entity_repr = f"{entity_name}*"
-                    else:
-                        entity_repr = f"{ref_value}/0x{ref_value:08X}*"
-                else:
-                    entity_repr = f"{ref_value}/0x{ref_value:08X}*"
-            else:
-                entity_repr = f"References[{ref_index}]"
-        else:
-            # Try to get entity name if available
-            if context.zone_entities:
-                entity_name = context.zone_entities.get_entity_display_name(entity_id)
-                entity_repr = entity_name
-            else:
-                entity_repr = f"0x{entity_id:08X}"
+        entity_repr = self.format_entity_id(entity_id, context=context)
 
-        # Handle position coordinates using standardized methods
         position_reprs = {
             "pos_x": self.format_coordinate_value(args["pos_x"], context),
             "pos_z": self.format_coordinate_value(args["pos_z"], context),

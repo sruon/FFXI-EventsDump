@@ -16,21 +16,9 @@ class WaitLoadSchedulerOpcode(SchedulerBase):
         ]
 
     def get_legible_representation(self, raw_bytes: bytes, args=None, context=None):
-
-        work = args["scheduler_work_offset"]
-        if 0x8000 <= work <= 0x8FFF:
-            ref_index = work & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                work_str = f"{context.imed_data[ref_index]}*"
-            else:
-                work_str = f"References[{ref_index}]"
-        else:
-            work_str = self.format_work_area_value(work)
-
+        work_str = self.format_work_area_value(args["scheduler_work_offset"], context=context)
         entity1_str = self.format_entity_id(args["entity1"], context=context)
         entity2_str = self.format_entity_id(args["entity2"], context=context)
-
-        scheduler_id = args["scheduler_id"]
-        scheduler_id_str = self.format_scheduler_id(scheduler_id)
+        scheduler_id_str = self.format_scheduler_id(args["scheduler_id"])
 
         return f"{self.name}: Wait for scheduler {scheduler_id_str} with entities [{entity1_str}, {entity2_str}], work={work_str}"

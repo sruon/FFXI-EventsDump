@@ -15,26 +15,7 @@ class SetEventTimeWeatherOpcode(BaseOpcode):
         hour = args["hour"]
         weather = args["weather"]
 
-        # Check if hour is a reference (0x8000-0x8FFF range)
-        if 0x8000 <= hour <= 0x8FFF:
-            ref_index = hour & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                hour_str = f"{ref_value}*"
-            else:
-                hour_str = f"References[{ref_index}]"
-        else:
-            hour_str = str(hour)
-
-        # Check if weather is a reference (0x8000-0x8FFF range)
-        if 0x8000 <= weather <= 0x8FFF:
-            ref_index = weather & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                weather_str = f"{ref_value}*"
-            else:
-                weather_str = f"References[{ref_index}]"
-        else:
-            weather_str = str(weather)
+        hour_str = self.format_work_area_value(hour, context=context)
+        weather_str = self.format_work_area_value(weather, context=context)
 
         return f"{self.name}(hour={hour_str}, weather={weather_str})"

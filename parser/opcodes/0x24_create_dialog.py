@@ -18,43 +18,17 @@ class CreateDialogOpcode(BaseOpcode):
         default_option = args["default_option"]
         option_flags = args["option_flags"]
 
-        if 0x8000 <= message_id <= 0x8FFF:
-            ref_index = message_id & 0x7FFF
-            if context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                message_id_str = f"{ref_value}*"
-            else:
-                message_id_str = f"References[{ref_index}]"
-        else:
-            message_id_str = f"0x{message_id:08X}"
-
-        if 0x8000 <= default_option <= 0x8FFF:
-            ref_index = default_option & 0x7FFF
-            if context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                default_option_str = f"{ref_value}*"
-            else:
-                default_option_str = f"References[{ref_index}]"
-        else:
-            default_option_str = f"0x{default_option:04X}"
-
-        if 0x8000 <= option_flags <= 0x8FFF:
-            ref_index = option_flags & 0x7FFF
-            if context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                option_flags_str = f"{ref_value}*"
-            else:
-                option_flags_str = f"References[{ref_index}]"
-        else:
-            option_flags_str = f"0x{option_flags:02X}"
+        message_id_str = self.format_work_area_value(message_id, context=context)
+        default_option_str = self.format_work_area_value(default_option, context=context)
+        option_flags_str = self.format_work_area_value(option_flags, context=context)
 
         result = f"{self.name}(message_id={message_id_str}, default_option={default_option_str}, option_flags={option_flags_str})"
 
-        if message_id_str.endswith("*") and context.zone_strings:
-            string_id = int(message_id_str.rstrip("*"))
+        resolved_id, was_ref = self.resolve_reference_value(message_id, context)
+        if was_ref and context.zone_strings:
             found_string = None
             for parsed_string in context.zone_strings.strings:
-                if parsed_string.index == string_id:
+                if parsed_string.index == resolved_id:
                     found_string = parsed_string
                     break
 
@@ -62,15 +36,6 @@ class CreateDialogOpcode(BaseOpcode):
                 escaped_text = self.escape_unprintable_chars(found_string.text)
                 result += f'\n    → "{escaped_text}"'
             else:
-                nearby_strings = []
-                if context.zone_strings and context.zone_strings.strings:
-                    for parsed_string in context.zone_strings.strings:
-                        if abs(parsed_string.index - string_id) <= 5:
-                            nearby_strings.append(f"{parsed_string.index}")
-
-                if nearby_strings:
-                    result += f"\n    → [String ID {string_id} not found, nearby: {', '.join(nearby_strings)}]"
-                else:
-                    result += f"\n    → [String ID {string_id} not found]"
+                result += f"\n    → [String ID {resolved_id} not found]"
 
         return result

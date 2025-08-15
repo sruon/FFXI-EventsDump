@@ -41,38 +41,9 @@ class SetEventMarkOpcode(BaseOpcode):
         # Format point index
         point_index_str = self.format_work_area_value(point_index, context=context)
 
-        # Format coordinates (scale by 0.001 for map coordinates)
-        if 0x8000 <= pos_x <= 0x8FFF:
-            ref_index = pos_x & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                actual_x = context.imed_data[ref_index]
-                # For large values, interpret as signed int32
-                import struct
-
-                if actual_x > 0x80000000:
-                    actual_x = struct.unpack("<i", struct.pack("<I", actual_x))[0]
-                x_str = f"{actual_x * 0.001:.1f}*"
-            else:
-                x_str = f"References[{ref_index}]"
-        else:
-            # Scale the coordinate value
-            x_str = f"{pos_x * 0.001:.1f}"
-
-        if 0x8000 <= pos_y <= 0x8FFF:
-            ref_index = pos_y & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                actual_y = context.imed_data[ref_index]
-                # For large values, interpret as signed int32
-                import struct
-
-                if actual_y > 0x80000000:
-                    actual_y = struct.unpack("<i", struct.pack("<I", actual_y))[0]
-                y_str = f"{actual_y * 0.001:.1f}*"
-            else:
-                y_str = f"References[{ref_index}]"
-        else:
-            # Scale the coordinate value
-            y_str = f"{pos_y * 0.001:.1f}"
+        # Format coordinates using base class method
+        x_str = self.format_coordinate_value(pos_x, context=context)
+        y_str = self.format_coordinate_value(pos_y, context=context)
 
         # Try to interpret marker name as ASCII string
         try:

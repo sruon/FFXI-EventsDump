@@ -17,18 +17,7 @@ class ScheduleMagicCastingOpcode(BaseOpcode):
         caster_entity = args["caster_entity"]
         target_entity = args["target_entity"]
 
-        # Handle magic_id reference resolution
-        if 0x8000 <= magic_id <= 0x8FFF:
-            ref_index = magic_id & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                ref_value = context.imed_data[ref_index]
-                magic_id_str = f"{ref_value}*"
-            else:
-                magic_id_str = f"References[{ref_index}]"
-        else:
-            magic_id_str = f"0x{magic_id:04X}"
-
-        # Format entity IDs
+        magic_id_str = self.format_work_area_value(magic_id, context=context)
         caster_entity_str = self.format_entity_id(caster_entity, context=context)
         target_entity_str = self.format_entity_id(target_entity, context=context)
 

@@ -485,6 +485,8 @@ class BaseOpcode(ABC):
             ref_index = value & 0x7FFF
             if context.imed_data and ref_index < len(context.imed_data):
                 actual_value = context.imed_data[ref_index]
+                # Mask to 16-bit range for yaw calculation
+                actual_value = actual_value & 0xFFFF
                 # Yaw uses simple scaling: / 65536.0 * 360.0
                 degrees = (actual_value / 65536.0) * 360.0
                 return f"{degrees:.1f}°*"

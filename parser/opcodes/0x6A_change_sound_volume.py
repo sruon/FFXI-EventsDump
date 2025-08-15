@@ -15,24 +15,15 @@ class ChangeSoundVolumeOpcode(BaseOpcode):
         ]
 
     def get_legible_representation(self, raw_bytes: bytes, args: dict = None, context=None) -> str:
-        volume = args["volume"]
-        fade_time = args["fade_time"]
-        sound_types = args["sound_types"]
-
-        volume_str = self.format_work_area_value(volume, context=context)
-        fade_time_str = self.format_work_area_value(fade_time, context=context)
-        if 0x8000 <= sound_types <= 0x8FFF:
-            ref_index = sound_types & 0x7FFF
-            if context and context.imed_data and ref_index < len(context.imed_data):
-                sound_types_val = context.imed_data[ref_index]
-            else:
-                sound_types_val = sound_types
-        else:
-            sound_types_val = sound_types
-
-        # Parse sound type flags
+        volume_str = self.format_work_area_value(args["volume"], context=context)
+        fade_time_str = self.format_work_area_value(args["fade_time"], context=context)
+        
+        # Resolve reference for sound_types to parse flags
+        sound_types_val, was_ref = self.resolve_reference_value(args["sound_types"], context=context)
+        
+        # Parse sound type flags if we have a resolved value
         types = []
-        if isinstance(sound_types_val, int):
+        if isinstance(sound_types_val, int) and sound_types_val < 0x8000:
             if sound_types_val & 0x01:
                 types.append("Effects")
             if sound_types_val & 0x02:
@@ -44,6 +35,11 @@ class ChangeSoundVolumeOpcode(BaseOpcode):
             if sound_types_val & 0x10:
                 types.append("SpecialChat")
 
-        types_str = "/".join(types) if types else self.format_work_area_value(sound_types, context=context)
+        if types:
+            types_str = "/".join(types)
+            if was_ref:
+                types_str = f"({types_str})*"
+        else:
+            types_str = self.format_work_area_value(args["sound_types"], context=context)
 
         return f"CHANGE_SOUND_VOLUME: Set {types_str} volume to {volume_str}, fade_time={fade_time_str}"

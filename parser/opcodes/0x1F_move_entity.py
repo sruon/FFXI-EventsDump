@@ -56,24 +56,10 @@ class MoveEntityOpcode(BaseOpcode):
             z_raw = args["z_coord"]
             y_raw = args["y_coord"]
 
-            coord_reprs = {}
-            for name, raw_value in [
-                ("x_coord", x_raw),
-                ("z_coord", z_raw),
-                ("y_coord", y_raw),
-            ]:
-                if 0x8000 <= raw_value <= 0x8FFF:
-                    ref_index = raw_value & 0x7FFF
-                    if context and context.imed_data and ref_index < len(context.imed_data):
-                        ref_value = context.imed_data[ref_index]
-                        float_val = self.convert_coordinate_to_float(ref_value)
-                        coord_reprs[name] = f"{float_val:.3f}*"
-                    else:
-                        coord_reprs[name] = f"References[{ref_index}]"
-                else:
-                    float_val = self.convert_coordinate_to_float(raw_value)
-                    coord_reprs[name] = f"{float_val:.3f}"
+            x_str = self.format_coordinate_value(x_raw, context=context)
+            z_str = self.format_coordinate_value(z_raw, context=context)
+            y_str = self.format_coordinate_value(y_raw, context=context)
 
-            return f"MOVE_ENTITY: EventEntity moves to X={coord_reprs['x_coord']}, Z={coord_reprs['z_coord']}, Y={coord_reprs['y_coord']}"
+            return f"MOVE_ENTITY: EventEntity moves to X={x_str}, Z={z_str}, Y={y_str}"
         else:
             return f"MOVE_ENTITY: Update entity position (mode={mode})"

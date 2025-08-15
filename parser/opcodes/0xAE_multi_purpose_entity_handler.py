@@ -64,44 +64,32 @@ class MultiPurposeEntityHandlerOpcode(BaseOpcode):
 
         if case_type == 0x00:
             # Weather related
-            param1 = args["param1"]
-            param2 = args["param2"]
-            # Check if values are references
-            param1_str = self.format_work_area_value(param1, context) if 0x8000 <= param1 <= 0x8FFF else f"0x{param1:04X}"
-            param2_str = self.format_work_area_value(param2, context) if 0x8000 <= param2 <= 0x8FFF else f"0x{param2:04X}"
+            param1_str = self.format_work_area_value(args["param1"], context=context)
+            param2_str = self.format_work_area_value(args["param2"], context=context)
             return f"{self.name}(case_type=0x{case_type:02X} - Weather, param1={param1_str}, param2={param2_str})"
         elif case_type in [0x01, 0x02]:
             # Entity name color
-            entity_id = args["entity_id"]
-            value = args["value"]
-            entity_str = self.format_entity_id(entity_id, context)
-            value_str = self.format_work_area_value(value, context) if 0x8000 <= value <= 0x8FFF else str(value)
+            entity_str = self.format_entity_id(args["entity_id"], context=context)
+            value_str = self.format_work_area_value(args["value"], context=context)
             return f"{self.name}(case_type=0x{case_type:02X} - Name color, entity={entity_str}, color={value_str})"
         elif case_type in [0x03, 0x04]:
             # Mou4 value
-            entity_id = args["entity_id"]
-            value = args["value"]
-            entity_str = self.format_entity_id(entity_id, context)
-            value_str = self.format_work_area_value(value, context) if 0x8000 <= value <= 0x8FFF else str(value)
+            entity_str = self.format_entity_id(args["entity_id"], context=context)
+            value_str = self.format_work_area_value(args["value"], context=context)
             return f"{self.name}(case_type=0x{case_type:02X} - Mou4, entity={entity_str}, index={value_str})"
         elif case_type == 0x05:
             # ActorPointer link
-            entity1_id = args["entity1_id"]
-            entity2_id = args["entity2_id"]
-            entity1_str = self.format_entity_id(entity1_id, context)
-            entity2_str = self.format_entity_id(entity2_id, context)
+            entity1_str = self.format_entity_id(args["entity1_id"], context=context)
+            entity2_str = self.format_entity_id(args["entity2_id"], context=context)
             return f"{self.name}(case_type=0x{case_type:02X} - Link ActorPointer, entity1={entity1_str}, entity2={entity2_str})"
         elif case_type == 0x06:
             # Unset ActorPointer
-            entity_id = args["entity_id"]
-            entity_str = self.format_entity_id(entity_id, context)
+            entity_str = self.format_entity_id(args["entity_id"], context=context)
             return f"{self.name}(case_type=0x{case_type:02X} - Unset ActorPointer, entity={entity_str})"
         elif case_type == 0x07:
             # EnvironmentAreaId
-            entity_id = args["entity1_id"]
-            area_id = args["entity2_id"]  # Actually area ID, not entity
-            entity_str = self.format_entity_id(entity_id, context)
-            area_str = self.format_work_area_value(area_id, context) if 0x8000 <= area_id <= 0x8FFF else str(area_id)
+            entity_str = self.format_entity_id(args["entity1_id"], context=context)
+            area_str = self.format_work_area_value(args["entity2_id"], context=context)
             return f"{self.name}(case_type=0x{case_type:02X} - Set EnvironmentAreaId, entity={entity_str}, area_id={area_str})"
         elif case_type == 0x08:
             # EnvironmentAreaId to 0
