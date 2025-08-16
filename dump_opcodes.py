@@ -1,5 +1,6 @@
 import multiprocessing as mp
 import os
+import shutil
 import urllib.parse
 from pathlib import Path
 
@@ -63,6 +64,12 @@ class EventDumper:
         logger.info(f"Processing zone {zone.name} (ID: {zone.id})")
 
         zone_path = Path("dumps") / zone.name
+        
+        # Clean up existing zone folder if it exists
+        if zone_path.exists():
+            logger.debug(f"Cleaning up existing folder for {zone.name}")
+            shutil.rmtree(zone_path)
+        
         zone_path.mkdir(parents=True, exist_ok=True)
 
         # Parse data files
