@@ -1,0 +1,125 @@
+# 17784919 - DoorArrivals Entrance
+
+## Common Data
+
+| Field            | Value                |
+|------------------|----------------------|
+| Zone             | Port Jeuno (ID: 246) |
+| Block Size       | 228 bytes            |
+| Total Events     | 2                    |
+| References Count | 10                   |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [53](#event-53)       | 0x0001       |    162 |             29 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0xE28E      |       57998 |
+|       1 | 0x1BB3      |        7091 |
+|       2 | 0x1BB4      |        7092 |
+|       3 | 0x1BB5      |        7093 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x0000      |           0 |
+|       6 | 0x0092      |         146 |
+|       7 | 0x003C      |          60 |
+|       8 | 0x00C8      |         200 |
+|       9 | 0x001E      |          30 |
+
+## String References
+
+- **7093**: Proceed to the air travel agency? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 53
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 162 bytes |
+| Instructions | 29        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    06 01 10 3B F0 FF FF  7F 01 00 02 00 03 00 02   ...;...........
+0010: 02 00 00 80 03 2B 00 4A  2C 60 0F 01 F0 FF FF 7F  .....+.J,`......
+0020: 2B 2C 60 0F 01 01 80 23  01 A1 00 4A 2B 60 0F 01  +,`....#...J+`..
+0030: F0 FF FF 7F 2B 2B 60 0F  01 02 80 23 24 03 80 04  ....++`....#$...
+0040: 80 05 80 25 02 00 10 05  80 00 A1 00 03 01 10 04  ...%............
+0050: 80 42 27 0A F0 FF FF 7F  1A 46 01 4C 45 06 80 F0  .B'......F.LE...
+0060: FF FF 7F F0 FF FF 7F 6B  7A 30 31 05 80 2A 0A F0  .......kz01..*..
+0070: FF FF 7F 4D 1C 07 80 45  08 80 F0 FF FF 7F F0 FF  ...M...E........
+0080: FF 7F 66 64 6F 30 05 80  1C 09 80 46 00 45 08 80  ..fdo0.....F.E..
+0090: F0 FF FF 7F F0 FF FF 7F  66 64 69 30 05 80 01 A1  ........fdi0....
+00A0: 00 21 00                                          .!.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x06] Work_Zone[1] = 0
+  1: 0x0004 [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
+  2: 0x000F [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57998*) GOTO 0x002B
+  3: 0x0017 [0x4A] Daju (ID: 17784876/0x010F602C) looks at LocalPlayer
+  4: 0x0020 [0x2B] Daju (ID: 17784876/0x010F602C) [7091*]:
+    → "This is the arrivals exit. The entrance to departures is next door."
+  5: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0028 [0x01] GOTO 0x00A1
+  7: 0x002B [0x4A] Jhuo Halmanzoh (ID: 17784875/0x010F602B) looks at LocalPlayer
+  8: 0x0034 [0x2B] Jhuo Halmanzoh (ID: 17784875/0x010F602B) [7092*]:
+    → "Once you go through customs, you'll have to pay to come back on board. Is that all right?"
+  9: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x003C [0x24] CREATE_DIALOG(message_id=7093*, default_option=1*, option_flags=0*)
+    → "Proceed to the air travel agency? [Yes./No.]"
+ 11: 0x0043 [0x25] WAIT_DIALOG_SELECT()
+ 12: 0x0044 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A1
+ 13: 0x004C [0x03] Work_Zone[1] = 1*
+ 14: 0x0051 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 15: 0x0052 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x1A)
+ 16: 0x0059 [0x46] CAMERA_CONTROL: Disable user control
+ 17: 0x005B [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 18: 0x005C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "kz01" with entities [LocalPlayer, LocalPlayer], work=[146*, 0*]
+ 19: 0x006D [0x2A] GET_REQ_LEVEL(level=10, entity_id=LocalPlayer)
+ 20: 0x0073 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 21: 0x0074 [0x1C] WAIT(60* ticks)
+ 22: 0x0077 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 23: 0x0088 [0x1C] WAIT(30* ticks)
+ 24: 0x008B [0x46] CAMERA_CONTROL: Restore default settings
+ 25: 0x008D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 26: 0x009E [0x01] GOTO 0x00A1
+
+SUBROUTINE_00A1:
+ 27: 0x00A1 [0x21] END_EVENT
+ 28: 0x00A2 [0x00] END_REQSTACK()
+```

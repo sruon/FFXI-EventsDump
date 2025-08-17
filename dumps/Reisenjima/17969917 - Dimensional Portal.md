@@ -1,0 +1,169 @@
+# 17969917 - Dimensional Portal
+
+## Common Data
+
+| Field            | Value                |
+|------------------|----------------------|
+| Zone             | Reisenjima (ID: 291) |
+| Block Size       | 208 bytes            |
+| Total Events     | 4                    |
+| References Count | 10                   |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [14](#event-14)       | 0x0001       |    132 |             23 |
+| [1](#event-1)         | 0x0085       |      1 |              1 |
+| [9](#event-9)         | 0x0086       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CE1      |        7393 |
+|       1 | 0x1CE2      |        7394 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x40000000  |  1073741824 |
+|       5 | 0x004B      |          75 |
+|       6 | 0x00B4      |         180 |
+|       7 | 0x00C9      |         201 |
+|       8 | 0x00C8      |         200 |
+|       9 | 0x001E      |          30 |
+
+## String References
+
+- **7393**: You should be able to teleport to the Crag of [Holla/Dem/Mea] from here.
+- **7394**: Ready to teleport? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 14
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 132 bytes |
+| Instructions | 22        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    48 00 80 23 24 01 80  02 80 03 80 25 02 00 10   H..#$......%...
+0010: 02 80 00 1F 00 03 01 10  04 80 21 00 01 1F 00 42  ..........!....B
+0020: 43 00 43 01 03 01 10 02  80 9F 05 80 F0 FF FF 7F  C.C.............
+0030: F0 FF FF 7F 6D 61 69 6E  03 80 1C 06 80 45 07 80  ....main.....E..
+0040: F8 FF FF 7F F8 FF FF 7F  77 68 6F 31 03 80 55 07  ........who1..U.
+0050: 80 F8 FF FF 7F F8 FF FF  7F 77 68 6F 31 45 08 80  .........who1E..
+0060: F8 FF FF 7F F8 FF FF 7F  66 64 6F 30 03 80 1C 09  ........fdo0....
+0070: 80 30 45 07 80 F8 FF FF  7F F8 FF FF 7F 77 68 69  .0E..........whi
+0080: 31 03 80 21 00                                    1..!.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x48] [System] [7393*]:
+    → "You should be able to teleport to the Crag of [Holla/Dem/Mea] from here."
+  1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7394*, default_option=1*, option_flags=0*)
+    → "Ready to teleport? [Yes./No.]"
+  3: 0x000C [0x25] WAIT_DIALOG_SELECT()
+  4: 0x000D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x001F
+  5: 0x0015 [0x03] Work_Zone[1] = 1073741824*
+  6: 0x001A [0x21] END_EVENT
+  7: 0x001B [0x00] END_REQSTACK()
+
+SUBROUTINE_001F:
+  8: 0x001F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  9: 0x0020 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 10: 0x0022 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 11: 0x0024 [0x03] Work_Zone[1] = 1*
+ 12: 0x0029 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[75*, 0*]
+ 13: 0x003A [0x1C] WAIT(180* ticks)
+ 14: 0x003D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [EventEntity, EventEntity], work=[201*, 0*]
+ 15: 0x004E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [EventEntity, EventEntity], work=201*
+ 16: 0x005D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 17: 0x006E [0x1C] WAIT(30* ticks)
+ 18: 0x0071 [0x30] SET_UCOFF_CONTINUE_ZERO()
+ 19: 0x0072 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [EventEntity, EventEntity], work=[201*, 0*]
+ 20: 0x0083 [0x21] END_EVENT
+ 21: 0x0084 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x001C [0x01] GOTO 0x001F
+```
+
+### Event 1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0085  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0080:                00                                      .          
+```
+
+#### Opcodes
+
+```
+  0: 0x0085 [0x00] END_REQSTACK()
+```
+
+### Event 9
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0086  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0080:                   00                                    .         
+```
+
+#### Opcodes
+
+```
+  0: 0x0086 [0x00] END_REQSTACK()
+```

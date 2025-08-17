@@ -18,10 +18,10 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                     |   Events |
-|------------------|------------------|------------------------------------------|----------|
-| 0x010DC019       |         17678361 | [Bhagirath](./17678361%20-%20Bhagirath/) |        1 |
-| 0x010DC01A       |         17678362 | [Maera](./17678362%20-%20Maera/)         |        1 |
-| 0x010DC01B       |         17678363 | [Rajmonda](./17678363%20-%20Rajmonda/)   |        1 |
-| 0x010DC01D       |         17678365 | [Map](./17678365%20-%20Map/)             |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/)          |        5 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                   |   Events |
+|------------------|------------------|----------------------------------------|----------|
+| 0x010DC019       |         17678361 | [Bhagirath](./17678361 - Bhagirath.md) |        1 |
+| 0x010DC01A       |         17678362 | [Maera](./17678362 - Maera.md)         |        1 |
+| 0x010DC01B       |         17678363 | [Rajmonda](./17678363 - Rajmonda.md)   |        1 |
+| 0x010DC01D       |         17678365 | [Map](./17678365 - Map.md)             |        2 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)        |        5 |

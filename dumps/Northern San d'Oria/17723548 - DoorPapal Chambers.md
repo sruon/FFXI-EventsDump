@@ -1,0 +1,583 @@
+# 17723548 - DoorPapal Chambers
+
+## Common Data
+
+| Field            | Value                         |
+|------------------|-------------------------------|
+| Zone             | Northern San d'Oria (ID: 231) |
+| Block Size       | 1664 bytes                    |
+| Total Events     | 10                            |
+| References Count | 33                            |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [50](#event-50)          | 0x0001       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0002       |      2 |              2 |
+| [65535.2](#event-655352) | 0x0004       |      5 |              3 |
+| [65535.3](#event-655353) | 0x0009       |      2 |              2 |
+| [7](#event-7)            | 0x000B       |      1 |              1 |
+| [9](#event-9)            | 0x000C       |      1 |              1 |
+| [8](#event-8)            | 0x000D       |      1 |              1 |
+| [65535.4](#event-655354) | 0x000E       |    175 |             35 |
+| [695](#event-695)        | 0x00BD       |   1285 |            158 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00F0      |         240 |
+|       1 | 0x0003      |           3 |
+|       2 | 0x0200      |         512 |
+|       3 | 0x0A00      |        2560 |
+|       4 | 0x0083      |         131 |
+|       5 | 0x0000      |           0 |
+|       6 | 0x003C      |          60 |
+|       7 | 0x1F708     |      128776 |
+|       8 | 0x1D72A     |      120618 |
+|       9 | 0xFFFFD505  |  4294956293 |
+|      10 | 0x0614      |        1556 |
+|      11 | 0x005A      |          90 |
+|      12 | 0x2048E     |      132238 |
+|      13 | 0x1E5C9     |      124361 |
+|      14 | 0xFFFFD508  |  4294956296 |
+|      15 | 0x0E1E      |        3614 |
+|      16 | 0x00C8      |         200 |
+|      17 | 0x0096      |         150 |
+|      18 | 0x0013      |          19 |
+|      19 | 0x0169      |         361 |
+|      20 | 0x007F      |         127 |
+|      21 | 0x0001      |           1 |
+|      22 | 0x0029      |          41 |
+|      23 | 0x3124      |       12580 |
+|      24 | 0x3127      |       12583 |
+|      25 | 0x0005      |           5 |
+|      26 | 0x0006      |           6 |
+|      27 | 0x0008      |           8 |
+|      28 | 0x3128      |       12584 |
+|      29 | 0x0064      |         100 |
+|      30 | 0x006B      |         107 |
+|      31 | 0x012C      |         300 |
+|      32 | 0x00C9      |         201 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 50
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0002  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       4C 00                                         L.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x4C] EventEntity->StatusEvent = 8 // Open door
+  1: 0x0003 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0004  |
+| Data Size    | 5 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:             1C 00 80 4D  00                           ...M.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0004 [0x1C] WAIT(240* ticks)
+  1: 0x0007 [0x4D] EventEntity->StatusEvent = 9 // Close door
+  2: 0x0008 [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0009  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                             4D 00                          M.     
+```
+
+#### Opcodes
+
+```
+  0: 0x0009 [0x4D] EventEntity->StatusEvent = 9 // Close door
+  1: 0x000A [0x00] END_REQSTACK()
+```
+
+### Event 7
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000B  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                   00                         .    
+```
+
+#### Opcodes
+
+```
+  0: 0x000B [0x00] END_REQSTACK()
+```
+
+### Event 9
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000C  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                      00                       .   
+```
+
+#### Opcodes
+
+```
+  0: 0x000C [0x00] END_REQSTACK()
+```
+
+### Event 8
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000D  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                         00                     .  
+```
+
+#### Opcodes
+
+```
+  0: 0x000D [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x000E    |
+| Data Size    | 175 bytes |
+| Instructions | 35        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                            42 46                BF
+0010: 01 27 64 F0 FF FF 7F 2E  2A 64 F0 FF FF 7F 3A F0  .'d.....*d....:.
+0020: FF FF 7F 00 00 38 01 80  02 00 00 02 80 02 7A 00  .....8........z.
+0030: 02 00 00 03 80 03 7A 00  45 04 80 F0 FF FF 7F F0  ......z.E.......
+0040: FF FF 7F 73 30 35 38 05  80 27 64 F0 FF FF 7F 11  ...s058..'d.....
+0050: 2A 64 F0 FF FF 7F 4C 1C  06 80 27 64 F0 FF FF 7F  *d....L...'d....
+0060: 13 2A 64 F0 FF FF 7F 47  00 07 80 08 80 09 80 0A  .*d....G........
+0070: 80 47 01 4D 1C 0B 80 46  00 21 45 04 80 F0 FF FF  .G.M...F.!E.....
+0080: 7F F0 FF FF 7F 73 30 35  39 05 80 27 64 F0 FF FF  .....s059..'d...
+0090: 7F 12 2A 64 F0 FF FF 7F  4C 1C 06 80 27 64 F0 FF  ..*d....L...'d..
+00A0: FF 7F 14 2A 64 F0 FF FF  7F 47 00 0C 80 0D 80 0E  ...*d....G......
+00B0: 80 0F 80 47 01 4D 1C 0B  80 46 00 21 00           ...G.M...F.!.   
+```
+
+#### Opcodes
+
+```
+  0: 0x000E [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x000F [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x0011 [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x2E)
+  3: 0x0018 [0x2A] GET_REQ_LEVEL(level=100, entity_id=LocalPlayer)
+  4: 0x001E [0x3A] CONVERT_YAW_TO_BYTE(entity=LocalPlayer, result_destination=ExtData[1]->WorkLocal[0])
+  5: 0x0025 [0x38] SET_CLIENT_EVENT_MODE(mode=3*)
+  6: 0x0028 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 512*) GOTO 0x007A
+  7: 0x0030 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 2560*) GOTO 0x007A
+  8: 0x0038 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
+  9: 0x0049 [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x11)
+ 10: 0x0050 [0x2A] GET_REQ_LEVEL(level=100, entity_id=LocalPlayer)
+ 11: 0x0056 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 12: 0x0057 [0x1C] WAIT(60* ticks)
+ 13: 0x005A [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x13)
+ 14: 0x0061 [0x2A] GET_REQ_LEVEL(level=100, entity_id=LocalPlayer)
+ 15: 0x0067 [0x47] UPDATE_PLAYER_POS(128.776*, 120.618*, -11.003*, yaw=136.8°*)
+ 16: 0x0071 [0x47] WAIT_PLAYER_POS_UPDATE
+ 17: 0x0073 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 18: 0x0074 [0x1C] WAIT(90* ticks)
+ 19: 0x0077 [0x46] CAMERA_CONTROL: Restore default settings
+ 20: 0x0079 [0x21] END_EVENT
+ 21: 0x007A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
+ 22: 0x008B [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x12)
+ 23: 0x0092 [0x2A] GET_REQ_LEVEL(level=100, entity_id=LocalPlayer)
+ 24: 0x0098 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 25: 0x0099 [0x1C] WAIT(60* ticks)
+ 26: 0x009C [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x14)
+ 27: 0x00A3 [0x2A] GET_REQ_LEVEL(level=100, entity_id=LocalPlayer)
+ 28: 0x00A9 [0x47] UPDATE_PLAYER_POS(132.238*, 124.361*, -11.000*, yaw=317.6°*)
+ 29: 0x00B3 [0x47] WAIT_PLAYER_POS_UPDATE
+ 30: 0x00B5 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 31: 0x00B6 [0x1C] WAIT(90* ticks)
+ 32: 0x00B9 [0x46] CAMERA_CONTROL: Restore default settings
+ 33: 0x00BB [0x21] END_EVENT
+ 34: 0x00BC [0x00] END_REQSTACK()
+```
+
+### Event 695
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x00BD     |
+| Data Size    | 1285 bytes |
+| Instructions | 158        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00B0:                                         42 46 01               BF.
+00C0: 5D 05 80 10 80 45 10 80  F8 FF FF 7F F8 FF FF 7F  ]....E..........
+00D0: 66 64 6F 31 05 80 1C 11  80 38 12 80 75 00 13 80  fdo1.....8..u...
+00E0: 75 01 29 08 F0 FF FF 7F  35 29 08 F0 FF FF 7F 33  u.).....5).....3
+00F0: 29 0B F0 FF FF 7F 41 29  0B 03 70 0E 01 4D 29 0B  ).....A)..p..M).
+0100: 10 70 0E 01 3B 4E 00 10  70 0E 01 4E 00 03 70 0E  .p..;N..p..N..p.
+0110: 01 80 10 70 0E 01 80 03  70 0E 01 5C 00 14 80 5C  ...p....p..\...\
+0120: 01 14 80 5D 14 80 15 80  1C 10 80 45 16 80 F8 FF  ...].......E....
+0130: FF 7F F8 FF FF 7F 73 30  33 39 05 80 45 10 80 F8  ......s039..E...
+0140: FF FF 7F F8 FF FF 7F 66  64 69 31 05 80 1C 11 80  .......fdi1.....
+0150: 52 16 80 F8 FF FF 7F F8  FF FF 7F 73 30 33 39 45  R..........s039E
+0160: 10 80 F0 FF FF 7F F0 FF  FF 7F 6F 76 6C 31 05 80  ..........ovl1..
+0170: 45 16 80 F8 FF FF 7F F8  FF FF 7F 73 30 34 31 05  E..........s041.
+0180: 80 1C 0B 80 29 08 03 70  0E 01 2E 29 0B 03 70 0E  ....)..p...)..p.
+0190: 01 51 29 08 03 70 0E 01  2F 29 08 03 70 0E 01 30  .Q)..p../)..p..0
+01A0: 29 08 03 70 0E 01 31 27  0B 03 70 0E 01 50 29 08  )..p..1'..p..P).
+01B0: 10 70 0E 01 1D 29 0B 10  70 0E 01 3D 2A 0B 03 70  .p...)..p..=*..p
+01C0: 0E 01 52 16 80 F8 FF FF  7F F8 FF FF 7F 73 30 34  ..R..........s04
+01D0: 31 45 10 80 F0 FF FF 7F  F0 FF FF 7F 6F 76 6C 31  1E..........ovl1
+01E0: 05 80 45 16 80 F8 FF FF  7F F8 FF FF 7F 73 30 34  ..E..........s04
+01F0: 30 05 80 29 08 03 70 0E  01 3A 29 0B 10 70 0E 01  0..)..p..:)..p..
+0200: 3E 29 08 10 70 0E 01 1E  29 08 10 70 0E 01 1F 29  >)..p...)..p...)
+0210: 08 03 70 0E 01 3B 29 08  03 70 0E 01 3C 29 08 10  ..p..;)..p..<)..
+0220: 70 0E 01 20 4A 03 70 0E  01 10 70 0E 01 6F 76 03  p.. J.p...p..ov.
+0230: 70 0E 01 29 0B 03 70 0E  01 52 29 08 03 70 0E 01  p..)..p..R)..p..
+0240: 3D 45 16 80 F8 FF FF 7F  F8 FF FF 7F 73 30 34 32  =E..........s042
+0250: 05 80 27 0B 10 70 0E 01  3C 27 0B 03 70 0E 01 4E  ..'..p..<'..p..N
+0260: 2B 03 70 0E 01 17 80 23  2A 0B 03 70 0E 01 2A 0B  +.p....#*..p..*.
+0270: 10 70 0E 01 52 16 80 F8  FF FF 7F F8 FF FF 7F 73  .p..R..........s
+0280: 30 34 32 45 16 80 F8 FF  FF 7F F8 FF FF 7F 73 30  042E..........s0
+0290: 34 33 05 80 4C 27 0B F0  FF FF 7F 42 4A 03 70 0E  43..L'.....BJ.p.
+02A0: 01 F0 FF FF 7F 6F 76 03  70 0E 01 4A 10 70 0E 01  .....ov.p..J.p..
+02B0: F0 FF FF 7F 29 0B 03 70  0E 01 53 2A 0B F0 FF FF  ....)..p..S*....
+02C0: 7F 52 16 80 F8 FF FF 7F  F8 FF FF 7F 73 30 34 33  .R..........s043
+02D0: 45 16 80 F8 FF FF 7F F8  FF FF 7F 73 30 34 34 05  E..........s044.
+02E0: 80 4D 79 00 F0 FF FF 7F  10 70 0E 01 29 08 10 70  .My......p..)..p
+02F0: 0E 01 21 29 0B 10 70 0E  01 3F 29 08 10 70 0E 01  ..!)..p..?)..p..
+0300: 22 29 08 10 70 0E 01 23  79 00 10 70 0E 01 03 70  ")..p..#y..p...p
+0310: 0E 01 79 00 03 70 0E 01  10 70 0E 01 2B 03 70 0E  ..y..p...p..+.p.
+0320: 01 18 80 23 29 08 10 70  0E 01 24 52 16 80 F8 FF  ...#)..p..$R....
+0330: FF 7F F8 FF FF 7F 73 30  34 34 02 09 10 19 80 00  ......s044......
+0340: 56 03 45 16 80 F8 FF FF  7F F8 FF FF 7F 73 30 35  V.E..........s05
+0350: 30 05 80 01 9F 03 02 09  10 1A 80 00 72 03 45 16  0...........r.E.
+0360: 80 F8 FF FF 7F F8 FF FF  7F 73 30 35 30 05 80 01  .........s050...
+0370: 9F 03 02 09 10 1B 80 00  8E 03 45 16 80 F8 FF FF  ..........E.....
+0380: 7F F8 FF FF 7F 73 30 34  38 05 80 01 9F 03 45 16  .....s048.....E.
+0390: 80 F8 FF FF 7F F8 FF FF  7F 73 30 34 35 05 80 79  .........s045..y
+03A0: 00 03 70 0E 01 F0 FF FF  7F 79 00 F0 FF FF 7F 03  ..p......y......
+03B0: 70 0E 01 27 0B 03 70 0E  01 4F 2B 03 70 0E 01 1C  p..'..p..O+.p...
+03C0: 80 23 2A 0B 03 70 0E 01  45 10 80 F8 FF FF 7F F8  .#*..p..E.......
+03D0: FF FF 7F 66 64 6F 31 05  80 1C 1D 80 02 09 10 19  ...fdo1.........
+03E0: 80 00 F6 03 52 16 80 F8  FF FF 7F F8 FF FF 7F 73  ....R..........s
+03F0: 30 35 30 01 39 04 02 09  10 1A 80 00 10 04 52 16  050.9.........R.
+0400: 80 F8 FF FF 7F F8 FF FF  7F 73 30 35 30 01 39 04  .........s050.9.
+0410: 02 09 10 1B 80 00 2A 04  52 16 80 F8 FF FF 7F F8  ......*.R.......
+0420: FF FF 7F 73 30 34 38 01  39 04 52 16 80 F8 FF FF  ...s048.9.R.....
+0430: 7F F8 FF FF 7F 73 30 34  35 7B 03 70 0E 01 29 08  .....s045{.p..).
+0440: 03 70 0E 01 3E 29 08 03  70 0E 01 3F 4A 10 70 0E  .p..>)..p..?J.p.
+0450: 01 03 70 0E 01 6F 76 10  70 0E 01 45 16 80 F8 FF  ..p..ov.p..E....
+0460: FF 7F F8 FF FF 7F 73 30  34 36 05 80 45 10 80 F8  ......s046..E...
+0470: FF FF 7F F8 FF FF 7F 66  64 69 31 05 80 29 0B 03  .......fdi1..)..
+0480: 70 0E 01 55 29 0B 10 70  0E 01 40 52 16 80 F8 FF  p..U)..p..@R....
+0490: FF 7F F8 FF FF 7F 73 30  34 36 02 09 10 19 80 00  ......s046......
+04A0: B6 04 45 16 80 F8 FF FF  7F F8 FF FF 7F 73 30 35  ..E..........s05
+04B0: 31 05 80 01 FF 04 02 09  10 1A 80 00 D2 04 45 16  1.............E.
+04C0: 80 F8 FF FF 7F F8 FF FF  7F 73 30 35 31 05 80 01  .........s051...
+04D0: FF 04 02 09 10 1B 80 00  EE 04 45 16 80 F8 FF FF  ..........E.....
+04E0: 7F F8 FF FF 7F 73 30 34  39 05 80 01 FF 04 45 16  .....s049.....E.
+04F0: 80 F8 FF FF 7F F8 FF FF  7F 73 30 34 37 05 80 29  .........s047..)
+0500: 08 03 70 0E 01 40 29 0B  03 70 0E 01 56 29 08 03  ..p..@)..p..V)..
+0510: 70 0E 01 41 5D 05 80 10  80 45 10 80 F8 FF FF 7F  p..A]....E......
+0520: F8 FF FF 7F 66 64 6F 31  05 80 1C 1D 80 5C 00 1E  ....fdo1.....\..
+0530: 80 5C 01 1E 80 5D 14 80  15 80 02 09 10 19 80 00  .\...]..........
+0540: 54 05 52 16 80 F8 FF FF  7F F8 FF FF 7F 73 30 35  T.R..........s05
+0550: 31 01 97 05 02 09 10 1A  80 00 6E 05 52 16 80 F8  1.........n.R...
+0560: FF FF 7F F8 FF FF 7F 73  30 35 31 01 97 05 02 09  .......s051.....
+0570: 10 1B 80 00 88 05 52 16  80 F8 FF FF 7F F8 FF FF  ......R.........
+0580: 7F 73 30 34 39 01 97 05  52 16 80 F8 FF FF 7F F8  .s049...R.......
+0590: FF FF 7F 73 30 34 37 46  00 1C 1F 80 45 10 80 F8  ...s047F....E...
+05A0: FF FF 7F F8 FF FF 7F 66  64 69 31 05 80 45 20 80  .......fdi1..E .
+05B0: F0 FF FF 7F F0 FF FF 7F  71 73 74 63 05 80 20 00  ........qstc.. .
+05C0: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x00BD [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x00BE [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x00C0 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
+  3: 0x00C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+  4: 0x00D6 [0x1C] WAIT(150* ticks)
+  5: 0x00D9 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+  6: 0x00DC [0x75] LOAD_ROOM(Load indoor room, room=361*)
+  7: 0x00E0 [0x75] LOAD_ROOM(No action)
+  8: 0x00E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x35)
+  9: 0x00E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x33)
+ 10: 0x00F0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x41)
+ 11: 0x00F7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x4D)
+ 12: 0x00FE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x3B)
+ 13: 0x0105 [0x4E] SET_ENTITY_HIDE_FLAG: Show Shamonde (ID: 17723408/0x010E7010)
+ 14: 0x010B [0x4E] SET_ENTITY_HIDE_FLAG: Show Pieuje (ID: 17723395/0x010E7003)
+ 15: 0x0111 [0x80] LOAD_WAIT(entity=Shamonde (ID: 17723408/0x010E7010))
+ 16: 0x0116 [0x80] LOAD_WAIT(entity=Pieuje (ID: 17723395/0x010E7003))
+ 17: 0x011B [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
+ 18: 0x011F [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
+ 19: 0x0123 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
+ 20: 0x0128 [0x1C] WAIT(200* ticks)
+ 21: 0x012B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 22: 0x013C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 23: 0x014D [0x1C] WAIT(150* ticks)
+ 24: 0x0150 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=41*
+ 25: 0x015F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 26: 0x0170 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 27: 0x0181 [0x1C] WAIT(90* ticks)
+ 28: 0x0184 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x2E)
+ 29: 0x018B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x51)
+ 30: 0x0192 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x2F)
+ 31: 0x0199 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x30)
+ 32: 0x01A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x31)
+ 33: 0x01A7 [0x27] REQ_SET(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x50)
+ 34: 0x01AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x1D)
+ 35: 0x01B5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x3D)
+ 36: 0x01BC [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pieuje (ID: 17723395/0x010E7003))
+ 37: 0x01C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [EventEntity, EventEntity], work=41*
+ 38: 0x01D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 39: 0x01E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 40: 0x01F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x3A)
+ 41: 0x01FA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x3E)
+ 42: 0x0201 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x1E)
+ 43: 0x0208 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x1F)
+ 44: 0x020F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x3B)
+ 45: 0x0216 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x3C)
+ 46: 0x021D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x20)
+ 47: 0x0224 [0x4A] Pieuje (ID: 17723395/0x010E7003) looks at Shamonde (ID: 17723408/0x010E7010)
+ 48: 0x022D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 49: 0x022E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Pieuje (ID: 17723395/0x010E7003) Render.Flags0 and Render.Flags3 conditions are met
+ 50: 0x0233 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x52)
+ 51: 0x023A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x3D)
+ 52: 0x0241 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 53: 0x0252 [0x27] REQ_SET(priority=0x0B, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x3C)
+ 54: 0x0259 [0x27] REQ_SET(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x4E)
+ 55: 0x0260 [0x2B] Pieuje (ID: 17723395/0x010E7003) [12580*]:
+    → "Bold have they become of late. Some say their arm has reached as far as the Tomb of King Ranperre and Ordelle's Caves."
+ 56: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 57: 0x0268 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pieuje (ID: 17723395/0x010E7003))
+ 58: 0x026E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shamonde (ID: 17723408/0x010E7010))
+ 59: 0x0274 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=41*
+ 60: 0x0283 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 61: 0x0294 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 62: 0x0295 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x42)
+ 63: 0x029C [0x4A] Pieuje (ID: 17723395/0x010E7003) looks at LocalPlayer
+ 64: 0x02A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 65: 0x02A6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Pieuje (ID: 17723395/0x010E7003) Render.Flags0 and Render.Flags3 conditions are met
+ 66: 0x02AB [0x4A] Shamonde (ID: 17723408/0x010E7010) looks at LocalPlayer
+ 67: 0x02B4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x53)
+ 68: 0x02BB [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
+ 69: 0x02C1 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=41*
+ 70: 0x02D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 71: 0x02E1 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 72: 0x02E2 [0x79] LocalPlayer looks at Shamonde (ID: 17723408/0x010E7010) (Basic look)
+ 73: 0x02EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x21)
+ 74: 0x02F3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x3F)
+ 75: 0x02FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x22)
+ 76: 0x0301 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x23)
+ 77: 0x0308 [0x79] Shamonde (ID: 17723408/0x010E7010) looks at Pieuje (ID: 17723395/0x010E7003) (Basic look)
+ 78: 0x0312 [0x79] Pieuje (ID: 17723395/0x010E7003) looks at Shamonde (ID: 17723408/0x010E7010) (Basic look)
+ 79: 0x031C [0x2B] Pieuje (ID: 17723395/0x010E7003) [12583*]:
+    → "No, it is all right, Your Holiness."
+ 80: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 81: 0x0324 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x24)
+ 82: 0x032B [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=41*
+ 83: 0x033A [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0356
+ 84: 0x0342 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 85: 0x0353 [0x01] GOTO 0x039F
+ 86: 0x0356 [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x0372
+ 87: 0x035E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 88: 0x036F [0x01] GOTO 0x039F
+ 89: 0x0372 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x038E
+ 90: 0x037A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [EventEntity, EventEntity], work=[41*, 0*]
+ 91: 0x038B [0x01] GOTO 0x039F
+ 92: 0x038E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[41*, 0*]
+
+SUBROUTINE_039F:
+ 93: 0x039F [0x79] Pieuje (ID: 17723395/0x010E7003) looks at LocalPlayer (Basic look)
+ 94: 0x03A9 [0x79] LocalPlayer looks at Pieuje (ID: 17723395/0x010E7003) (Basic look)
+ 95: 0x03B3 [0x27] REQ_SET(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x4F)
+ 96: 0x03BA [0x2B] Pieuje (ID: 17723395/0x010E7003) [12584*]:
+    → "You came to deliver the report, yes? Well, let us see it."
+ 97: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 98: 0x03C2 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pieuje (ID: 17723395/0x010E7003))
+ 99: 0x03C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+100: 0x03D9 [0x1C] WAIT(100* ticks)
+101: 0x03DC [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x03F6
+102: 0x03E4 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=41*
+103: 0x03F3 [0x01] GOTO 0x0439
+104: 0x03F6 [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x0410
+105: 0x03FE [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=41*
+106: 0x040D [0x01] GOTO 0x0439
+107: 0x0410 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x042A
+108: 0x0418 [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [EventEntity, EventEntity], work=41*
+109: 0x0427 [0x01] GOTO 0x0439
+110: 0x042A [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=41*
+
+SUBROUTINE_0439:
+111: 0x0439 [0x7B] Pieuje (ID: 17723395/0x010E7003) stops talking
+112: 0x043E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x3E)
+113: 0x0445 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x3F)
+114: 0x044C [0x4A] Shamonde (ID: 17723408/0x010E7010) looks at Pieuje (ID: 17723395/0x010E7003)
+115: 0x0455 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+116: 0x0456 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shamonde (ID: 17723408/0x010E7010) Render.Flags0 and Render.Flags3 conditions are met
+117: 0x045B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[41*, 0*]
+118: 0x046C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+119: 0x047D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x55)
+120: 0x0484 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x40)
+121: 0x048B [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=41*
+122: 0x049A [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x04B6
+123: 0x04A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[41*, 0*]
+124: 0x04B3 [0x01] GOTO 0x04FF
+125: 0x04B6 [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x04D2
+126: 0x04BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[41*, 0*]
+127: 0x04CF [0x01] GOTO 0x04FF
+128: 0x04D2 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x04EE
+129: 0x04DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [EventEntity, EventEntity], work=[41*, 0*]
+130: 0x04EB [0x01] GOTO 0x04FF
+131: 0x04EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[41*, 0*]
+
+SUBROUTINE_04FF:
+132: 0x04FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x40)
+133: 0x0506 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x56)
+134: 0x050D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x41)
+135: 0x0514 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
+136: 0x0519 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+137: 0x052A [0x1C] WAIT(100* ticks)
+138: 0x052D [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 107*
+139: 0x0531 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 107*
+140: 0x0535 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
+141: 0x053A [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0554
+142: 0x0542 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=41*
+143: 0x0551 [0x01] GOTO 0x0597
+144: 0x0554 [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x056E
+145: 0x055C [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=41*
+146: 0x056B [0x01] GOTO 0x0597
+147: 0x056E [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x0588
+148: 0x0576 [0x52] END_LOAD_SCHEDULER: End scheduler "s049" with entities [EventEntity, EventEntity], work=41*
+149: 0x0585 [0x01] GOTO 0x0597
+150: 0x0588 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=41*
+
+SUBROUTINE_0597:
+151: 0x0597 [0x46] CAMERA_CONTROL: Restore default settings
+152: 0x0599 [0x1C] WAIT(300* ticks)
+153: 0x059C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+154: 0x05AD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+155: 0x05BE [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+156: 0x05C0 [0x21] END_EVENT
+157: 0x05C1 [0x00] END_REQSTACK()
+```

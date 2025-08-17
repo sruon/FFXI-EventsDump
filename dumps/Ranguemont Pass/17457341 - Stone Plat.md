@@ -1,0 +1,139 @@
+# 17457341 - Stone Plat
+
+## Common Data
+
+| Field            | Value                     |
+|------------------|---------------------------|
+| Zone             | Ranguemont Pass (ID: 166) |
+| Block Size       | 196 bytes                 |
+| Total Events     | 3                         |
+| References Count | 4                         |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [0](#event-0)            | 0x0001       |     96 |             20 |
+| [65535.1](#event-655351) | 0x0061       |     54 |             10 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CA6      |        7334 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x003C      |          60 |
+|       3 | 0x0001      |           1 |
+
+## String References
+
+- **7334**: $3A$3C$3e$3 00p$3Z$3b$3g5\\7)$2228813 ""&
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 0
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 96 bytes |
+| Instructions | 20       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    24 00 80 01 80 01 80  25 02 00 10 01 80 00 54   $......%......T
+0010: 00 43 00 43 01 27 00 BE  60 0A 01 04 1C 02 80 27  .C.C.'..`......'
+0020: 00 BF 60 0A 01 04 1C 02  80 27 00 C0 60 0A 01 04  ..`......'..`...
+0030: 1C 02 80 29 00 C1 60 0A  01 04 2D BD 60 0A 01 BD  ...)..`...-.`...
+0040: 60 0A 01 66 75 65 64 1C  02 80 29 00 BB 60 0A 01  `..fued...)..`..
+0050: 02 01 5F 00 02 00 10 03  80 00 5F 00 01 5F 00 21  .._......._.._.!
+0060: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7334*, default_option=0*, option_flags=0*)
+    → "$3A$3C$3e$3 00p$3Z$3b$3g5\7)$2228813 ""&"
+  1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
+  2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0054
+  3: 0x0011 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  4: 0x0013 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  5: 0x0015 [0x27] REQ_SET(priority=0x00, entity_id=Unnamed NPC (ID: 17457342/0x010A60BE), tag_num=0x04)
+  6: 0x001C [0x1C] WAIT(60* ticks)
+  7: 0x001F [0x27] REQ_SET(priority=0x00, entity_id=Unnamed NPC (ID: 17457343/0x010A60BF), tag_num=0x04)
+  8: 0x0026 [0x1C] WAIT(60* ticks)
+  9: 0x0029 [0x27] REQ_SET(priority=0x00, entity_id=Unnamed NPC (ID: 17457344/0x010A60C0), tag_num=0x04)
+ 10: 0x0030 [0x1C] WAIT(60* ticks)
+ 11: 0x0033 [0x29] REQ_SET_WAIT(priority=0x00, entity_id=Unnamed NPC (ID: 17457345/0x010A60C1), tag_num=0x04)
+ 12: 0x003A [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "fued" with entities [Stone Plat (ID: 17457341/0x010A60BD), Stone Plat (ID: 17457341/0x010A60BD)]
+ 13: 0x0047 [0x1C] WAIT(60* ticks)
+ 14: 0x004A [0x29] REQ_SET_WAIT(priority=0x00, entity_id=Granite Door (ID: 17457339/0x010A60BB), tag_num=0x02)
+ 15: 0x0051 [0x01] GOTO 0x005F
+ 16: 0x0054 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x005F
+ 17: 0x005C [0x01] GOTO 0x005F
+
+SUBROUTINE_005F:
+ 18: 0x005F [0x21] END_EVENT
+ 19: 0x0060 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0061   |
+| Data Size    | 54 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0060:    27 00 BE 60 0A 01 04  1C 02 80 27 00 BF 60 0A   '..`......'..`.
+0070: 01 04 1C 02 80 27 00 C0  60 0A 01 04 1C 02 80 29  .....'..`......)
+0080: 00 C1 60 0A 01 04 2D BD  60 0A 01 BD 60 0A 01 66  ..`...-.`...`..f
+0090: 75 65 64 1C 02 80 00                              ued....         
+```
+
+#### Opcodes
+
+```
+  0: 0x0061 [0x27] REQ_SET(priority=0x00, entity_id=Unnamed NPC (ID: 17457342/0x010A60BE), tag_num=0x04)
+  1: 0x0068 [0x1C] WAIT(60* ticks)
+  2: 0x006B [0x27] REQ_SET(priority=0x00, entity_id=Unnamed NPC (ID: 17457343/0x010A60BF), tag_num=0x04)
+  3: 0x0072 [0x1C] WAIT(60* ticks)
+  4: 0x0075 [0x27] REQ_SET(priority=0x00, entity_id=Unnamed NPC (ID: 17457344/0x010A60C0), tag_num=0x04)
+  5: 0x007C [0x1C] WAIT(60* ticks)
+  6: 0x007F [0x29] REQ_SET_WAIT(priority=0x00, entity_id=Unnamed NPC (ID: 17457345/0x010A60C1), tag_num=0x04)
+  7: 0x0086 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "fued" with entities [Stone Plat (ID: 17457341/0x010A60BD), Stone Plat (ID: 17457341/0x010A60BD)]
+  8: 0x0093 [0x1C] WAIT(60* ticks)
+  9: 0x0096 [0x00] END_REQSTACK()
+```

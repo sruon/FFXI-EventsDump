@@ -1,0 +1,153 @@
+# 17780918 - Tosuka-Porika
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Lower Jeuno (ID: 245) |
+| Block Size       | 112 bytes             |
+| Total Events     | 5                     |
+| References Count | 8                     |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [10049](#event-10049)    | 0x0001       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0002       |     10 |              2 |
+| [65535.2](#event-655352) | 0x000C       |     14 |              4 |
+| [65535.3](#event-655353) | 0x001A       |     15 |              3 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0xFFFF9009  |  4294938633 |
+|       1 | 0x197EA     |      104426 |
+|       2 | 0xFFFFEB7E  |  4294962046 |
+|       3 | 0x074E      |        1870 |
+|       4 | 0x000D      |          13 |
+|       5 | 0xFFFF916F  |  4294938991 |
+|       6 | 0x1933E     |      103230 |
+|       7 | 0xFFFFEB7F  |  4294962047 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 10049
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0002   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       37 00 80 01 80 02  80 03 80 00                7.........    
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-28.663*, z=104.426*, y=-5.250*, direction=164.4°*
+  1: 0x000B [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x000C   |
+| Data Size    | 14 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                      32 04 80 1F              2...
+0010: 00 05 80 06 80 07 80 1F  01 00                    ..........      
+```
+
+#### Opcodes
+
+```
+  0: 0x000C [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x000F [0x1F] MOVE_ENTITY: EventEntity moves to X=-28.305*, Z=103.230*, Y=-5.249*
+  2: 0x0017 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0019 [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x001A   |
+| Data Size    | 15 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                                37 00 80 01 80 02            7.....
+0020: 80 03 80 1E B3 50 0F 01  00                       .....P...       
+```
+
+#### Opcodes
+
+```
+  0: 0x001A [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-28.663*, z=104.426*, y=-5.250*, direction=164.4°*
+  1: 0x0023 [0x1E] EventEntity looks at Luto Mewrilah (ID: 17780915/0x010F50B3) and starts talking
+  2: 0x0028 [0x00] END_REQSTACK()
+```

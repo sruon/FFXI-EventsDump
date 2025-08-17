@@ -11,12 +11,12 @@
 
 ## List of Events
 
-| Event ID                  | Entrypoint   |   Size |   Instructions |
-|---------------------------|--------------|--------|----------------|
-| [65535](#event-65535)     | 0x0000       |      1 |              1 |
-| [65535.1](#event-65535-1) | 0x0001       |     15 |              7 |
-| [65535.2](#event-65535-2) | 0x0010       |   3081 |            741 |
-| [269](#event-269)         | 0x0C19       |      1 |              1 |
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0001       |     15 |              7 |
+| [65535.2](#event-655352) | 0x0010       |   3081 |            741 |
+| [269](#event-269)        | 0x0C19       |      1 |              1 |
 
 ## DAT References (imed_data)
 
@@ -142,6 +142,64 @@
 |     117 | 0x30BC      |       12476 |
 |     118 | 0x30BD      |       12477 |
 
+## String References
+
+- **12384**: Persons who have not completed mercenary registration are ineligible to sign up for Assault missions.
+- **12385**: How may I help you today?
+- **12387**: Here is the list of available Assault missions.
+- **12388**: View a mission. [$10./$11./$12./$13./$14./$15./$16./$17./$18./$19.]
+- **12439**: Nyzul Isle Investigation Objective: Complete on-site objectives Recruitment: Lv.75, 1-6 mercenaries
+- **12440**: Nyzul Isle Uncharted Area Survey Objective: Complete on-site objectives Recruitment: Lv.99, 1-6 mercenaries
+- **12441**: 
+- **12442**: 
+- **12443**: 
+- **12444**: 
+- **12445**: 
+- **12446**: 
+- **12447**: 
+- **12448**: 
+- **12450**: Sign up for this mission? [Yes./Return to list.]
+- **12451**: I'm sorry, but you cannot sign up for Assault missions without $6.
+- **12452**: I'm sorry, but only mercenaries of level 50 or above can sign up for Assault missions.
+- **12453**: I'm sorry, but you cannot sign up for a new Assault mission until you have completed your current mission, or canceled your Assault application at the main counter.
+- **12454**: You have signed up for $9.
+- **12455**: Please make your way to the staging point and have a member of your party receive command verification from an Immortal. Good luck.
+- **12466**: Allow me to explain the mission list notations.
+- **12467**: Selecting "View mission list" will display a list of mission titles.
+- **12468**: Once a mission has been selected, you will see the following notations under the mission title: "Objective" and "Recruitment."
+- **12469**: "Objective" refers to the condition that must be fulfilled in order for the mission to succeed.
+- **12471**: "Recruitment" refers to the level and number of mercenaries being recruited for the mission. The level displayed is a suggestion only, and any mission can be undertaken by a mercenary of level 50 or above.
+- **12473**: The number range displayed represents the minimum and maximum number of mercenaries allowed for the mission.
+- **12474**: You must meet the minimum number requirement in order to begin an Assault mission.
+- **12475**: This concludes the explanation of mission list notations.
+- **12476**: Is there anything else I can help you with?
+- **12477**: Thank you for visiting the Commissions Agency.
+- **12883**: This is the reception counter for Assault missions within the Nyzul Isle remnants.
+- **12884**: However, Nyzul Isle has yet to be recognized as an official Assault area by the Imperial army.
+- **12885**: As a result, missions completed on Nyzul Isle will not earn you Assault Points. Please be aware of this fact before signing up.
+- **12886**: How may I help you? [View mission list./Vending box explanation./Confirm tokens./Confirm completed floors./Mission list explanation./I'm fine, thanks.]
+- **12887**: Investigators are frequently coming across artifacts within the remnants we are simply calling Nyzul "tokens." As a way of gauging your progress, the Commissions Agency will keep track of the number of tokens you have obtained.
+- **12888**: You currently possess $2 [token/tokens].
+- **12890**: You have currently investigated up to Floor $4 of the Nyzul Isle remnants as part of the Nyzul Isle Investigation.
+- **12891**: Furthermore, you have investigated up to Floor $5 of the Nyzul Isle uncharted region.
+- **12892**: However, mission objectives within the Nyzul Isle remnants are handled with the utmost confidentiality. Your mission orders will all be received from the on-site Assault commander.
+- **12893**: The remnants on Nyzul Isle are divided into multiple floors. Once you have completed the objective received on a particular floor, the Assault commander will activate the Rune of Transfer.
+- **12894**: Once the Rune of Transfer has been activated, you will have the choice of proceeding to the next floor, or suspending the mission and leaving the Assault area.
+- **12895**: Do not be concerned; your mission will automatically be considered a success as long as the Rune of Transfer is used to exit the Assault area, no matter the floor.
+- **12896**: Lastly, the objective for each floor will be relayed to you by the Assault commander via the Rune of Transfer.
+- **12897**: However, since it is not possible to impose level restrictions within the Nyzul Isle Assault area, it is best to recruit members of the suggested level.
+- **12901**: Vending boxes, you say? How may I help you?
+- **12902**: How may I help you? [Set preferences./Vending box overview./Never mind.]
+- **12903**: No doubt you have noticed the curious caskets scattered throughout the Nyzul Isle remnants. Our operatives have come to refer to these as "vending boxes."
+- **12904**: Depositing Nyzul tokens into them will yield artifacts usable only in the immediate environs. By what ancient technology or magic they operate, we do not know.
+- **12905**: And yet our research has not proved entirely fruitless.
+- **12906**: Specifically, we have developed a means to manipulate these boxes so that your preferred items may be extracted with greater ease.
+- **12907**: I would explain further, but the inner workings of this are beyond a layman like me. Simply convey to me your preferences, and enjoy the newfound convenience on your next expedition.
+- **12908**: Select a category. [Low-grade items./Medium-grade items./High-grade items./Exit.]
+- **12909**: Set your preferences. [$9: [o*/o)]/$10: [o*/o)]/$11: [o*/o)]/$12: [o*/o)]/$13: [o*/o)]/$14: [o*/o)]/$15: [o*/o)]/$16: [o*/o)]/$17: [o*/o)]/$18: [o*/o)]/$19: [o*/o)]/$20: [o*/o)]/Select another category.]
+- **12910**: The following item has been &[added to/removed from] your list of preferences: $39.
+- **12911**: Though your enthusiasm is admirable, I fear we cannot accept your application for $9 until (Earth time). We await your return.
+
 ## Events
 
 ### Event 65535
@@ -187,10 +245,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=12883*)
-    → "This is the reception counter for Assault missions within the Nyzul Isle remnants.\u007F1\u0000\u0007"
+    → "This is the reception counter for Assault missions within the Nyzul Isle remnants."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=12384*)
-    → "Persons who have not completed mercenary registration are ineligible to sign up for Assault missions.\u007F1\u0000\u0007"
+    → "Persons who have not completed mercenary registration are ineligible to sign up for Assault missions."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
   6: 0x000F [0x00] END_REQSTACK()
@@ -411,23 +469,23 @@
   1: 0x0015 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[8]
   2: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=12883*)
-    → "This is the reception counter for Assault missions within the Nyzul Isle remnants.\u007F1\u0000\u0007"
+    → "This is the reception counter for Assault missions within the Nyzul Isle remnants."
   4: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=12884*)
-    → "However, Nyzul Isle has yet to be recognized as an official Assault area by the Imperial army.\u007F1\u0000\u0007"
+    → "However, Nyzul Isle has yet to be recognized as an official Assault area by the Imperial army."
   6: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=12885*)
-    → "As a result, missions completed on Nyzul Isle will not earn you Assault Points.\u0007Please be aware of this fact before signing up.\u007F1\u0000\u0007"
+    → "As a result, missions completed on Nyzul Isle will not earn you Assault Points. Please be aware of this fact before signing up."
   8: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=12385*)
-    → "How may I help you today?\u007F1\u0000\u0007"
+    → "How may I help you today?"
  10: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002F [0x24] CREATE_DIALOG(message_id=12886*, default_option=0*, option_flags=0*)
-    → "How may I help you?\u0007\u000BView mission list.\u0007Vending box explanation.\u0007Confirm tokens.\u0007Confirm completed floors.\u0007Mission list explanation.\u0007I'm fine, thanks.\u007F1\u0000\u0007"
+    → "How may I help you? [View mission list./Vending box explanation./Confirm tokens./Confirm completed floors./Mission list explanation./I'm fine, thanks.]"
  12: 0x0036 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0037 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0209
  14: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=12387*)
-    → "Here is the list of available Assault missions.\u007F1\u0000\u0007"
+    → "Here is the list of available Assault missions."
  15: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0043 [0x03] ExtData[1]->WorkLocal[1] = 4294967295*
  17: 0x0048 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -443,66 +501,65 @@
  27: 0x007E [0x03] Work_Zone_1700[10] = 59*
  28: 0x0083 [0x03] Work_Zone_1700[11] = 60*
  29: 0x0088 [0x24] CREATE_DIALOG(message_id=12388*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
-    → "View a mission.\u0007\u000B\u0001\u0008\u0003\u0001\u0005\u0000\u0002
-\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u000B\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u000C\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u000E\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u000F\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u0010\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u0011\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u0012\u0000\u0000.\u0007\u0001\u0008\u0003\u0001\u0005\u0000\u0002\u0013\u0000\u0000.\u007F1\u0000\u0007"
+    → "View a mission. [$10./$11./$12./$13./$14./$15./$16./$17./$18./$19.]"
  30: 0x008F [0x25] WAIT_DIALOG_SELECT()
  31: 0x0090 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A4
  32: 0x0098 [0x48] [System] [12439*]:
-    → "Nyzul Isle Investigation\u0007Objective: Complete on-site objectives\u0007Recruitment: Lv.75, 1-6 mercenaries\u007F1\u0000\u0007"
+    → "Nyzul Isle Investigation Objective: Complete on-site objectives Recruitment: Lv.75, 1-6 mercenaries"
  33: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x009C [0x03] Work_Zone_1700[1] = Work_Zone_1700[2]
  35: 0x00A1 [0x01] GOTO 0x0158
  36: 0x00A4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B8
  37: 0x00AC [0x48] [System] [12440*]:
-    → "Nyzul Isle Uncharted Area Survey\u0007Objective: Complete on-site objectives\u0007Recruitment: Lv.99, 1-6 mercenaries\u007F1\u0000\u0007"
+    → "Nyzul Isle Uncharted Area Survey Objective: Complete on-site objectives Recruitment: Lv.99, 1-6 mercenaries"
  38: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00B0 [0x03] Work_Zone_1700[1] = Work_Zone_1700[3]
  40: 0x00B5 [0x01] GOTO 0x0158
  41: 0x00B8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00CC
  42: 0x00C0 [0x48] [System] [12441*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  43: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00C4 [0x03] Work_Zone_1700[1] = Work_Zone_1700[4]
  45: 0x00C9 [0x01] GOTO 0x0158
  46: 0x00CC [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00E0
  47: 0x00D4 [0x48] [System] [12442*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  48: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x00D8 [0x03] Work_Zone_1700[1] = Work_Zone_1700[5]
  50: 0x00DD [0x01] GOTO 0x0158
  51: 0x00E0 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00F4
  52: 0x00E8 [0x48] [System] [12443*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  53: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00EC [0x03] Work_Zone_1700[1] = Work_Zone_1700[6]
  55: 0x00F1 [0x01] GOTO 0x0158
  56: 0x00F4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0108
  57: 0x00FC [0x48] [System] [12444*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  58: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0100 [0x03] Work_Zone_1700[1] = Work_Zone_1700[7]
  60: 0x0105 [0x01] GOTO 0x0158
  61: 0x0108 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x011C
  62: 0x0110 [0x48] [System] [12445*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  63: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0114 [0x03] Work_Zone_1700[1] = Work_Zone_1700[8]
  65: 0x0119 [0x01] GOTO 0x0158
  66: 0x011C [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0130
  67: 0x0124 [0x48] [System] [12446*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  68: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0128 [0x03] Work_Zone_1700[1] = Work_Zone_1700[9]
  70: 0x012D [0x01] GOTO 0x0158
  71: 0x0130 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0144
  72: 0x0138 [0x48] [System] [12447*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  73: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x013C [0x03] Work_Zone_1700[1] = Work_Zone_1700[10]
  75: 0x0141 [0x01] GOTO 0x0158
  76: 0x0144 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0158
  77: 0x014C [0x48] [System] [12448*]:
-    → "\u007F1\u0000\u0007"
+    → ""
  78: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0150 [0x03] Work_Zone_1700[1] = Work_Zone_1700[11]
  80: 0x0155 [0x01] GOTO 0x0158
@@ -511,32 +568,32 @@ SUBROUTINE_0158:
  81: 0x0158 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[0]
  82: 0x015D [0x0B] ExtData[1]->WorkLocal[0]++
  83: 0x0160 [0x24] CREATE_DIALOG(message_id=12450*, default_option=1*, option_flags=0*)
-    → "Sign up for this mission?\u0007\u000BYes.\u0007Return to list.\u007F1\u0000\u0007"
+    → "Sign up for this mission? [Yes./Return to list.]"
  84: 0x0167 [0x25] WAIT_DIALOG_SELECT()
  85: 0x0168 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F8
  86: 0x0170 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x017F
  87: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=12453*)
-    → "I'm sorry, but you cannot sign up for a new Assault mission until you have completed your current mission, or canceled your Assault application at the main counter.\u007F1\u0000\u0007"
+    → "I'm sorry, but you cannot sign up for a new Assault mission until you have completed your current mission, or canceled your Assault application at the main counter."
  88: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x017C [0x01] GOTO 0x01F5
  90: 0x017F [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0193
  91: 0x0187 [0x03] Work_Zone_1700[0] = 787*
  92: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=12451*)
-    → "I'm sorry, but you cannot sign up for Assault missions without \u0001\u00056\u0002\u0008\u0000\u0000.\u007F1\u0000\u0007"
+    → "I'm sorry, but you cannot sign up for Assault missions without $6."
  93: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0190 [0x01] GOTO 0x01F5
  95: 0x0193 [0x02] IF !(LocalPlayer->JobLevel >= 50*) GOTO 0x01A2
  96: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=12452*)
-    → "I'm sorry, but only mercenaries of level 50 or above can sign up for Assault missions.\u007F1\u0000\u0007"
+    → "I'm sorry, but only mercenaries of level 50 or above can sign up for Assault missions."
  97: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x019F [0x01] GOTO 0x01F5
  99: 0x01A2 [0x02] IF !(Work_Zone_1700[1] == 52*) GOTO 0x01C8
 100: 0x01AA [0x42] SET_CLI_EVENT_CANCEL_DATA()
 101: 0x01AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12454*)
-    → "You have signed up for \u0001\u0008\u0003\u0001\u0005\u0000\u0002	\u0000\u0000.\u007F1\u0000\u0007"
+    → "You have signed up for $9."
 102: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12455*)
-    → "Please make your way to the staging point and have a member of your party receive command verification from an Immortal.\u0007Good luck.\u007F1\u0000\u0007"
+    → "Please make your way to the staging point and have a member of your party receive command verification from an Immortal. Good luck."
 104: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x01B3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
 106: 0x01BC [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=13*, target=Work_Zone[1], source=Work_Zone_1700[1])
@@ -544,15 +601,15 @@ SUBROUTINE_0158:
 108: 0x01C8 [0x83] ExtData[1]->WorkLocal[0] = GetGameTime()
 109: 0x01CB [0x02] IF !(ExtData[1]->WorkLocal[0] >= Work_Zone[9]) GOTO 0x01DA
 110: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12911*)
-    → "Though your enthusiasm is admirable, I fear we cannot accept your application for \u0001\u0008\u0003\u0001\u0005\u0000\u0002	\u0000\u0000 until \u007F+\u0007 (Earth time).\u0007We await your return.\u007F1\u0000\u0007"
+    → "Though your enthusiasm is admirable, I fear we cannot accept your application for $9 until (Earth time). We await your return."
 111: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x01D7 [0x01] GOTO 0x01F5
 113: 0x01DA [0x42] SET_CLI_EVENT_CANCEL_DATA()
 114: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12454*)
-    → "You have signed up for \u0001\u0008\u0003\u0001\u0005\u0000\u0002	\u0000\u0000.\u007F1\u0000\u0007"
+    → "You have signed up for $9."
 115: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12455*)
-    → "Please make your way to the staging point and have a member of your party receive command verification from an Immortal.\u0007Good luck.\u007F1\u0000\u0007"
+    → "Please make your way to the staging point and have a member of your party receive command verification from an Immortal. Good luck."
 117: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x01E3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
 119: 0x01EC [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=13*, target=Work_Zone[1], source=Work_Zone_1700[1])
@@ -566,18 +623,18 @@ SUBROUTINE_0206:
 123: 0x0206 [0x01] GOTO 0x0BB4
 124: 0x0209 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B2F
 125: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=12901*)
-    → "Vending boxes, you say?\u0007How may I help you?\u007F1\u0000\u0007"
+    → "Vending boxes, you say? How may I help you?"
 126: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0215:
 127: 0x0215 [0x24] CREATE_DIALOG(message_id=12902*, default_option=0*, option_flags=0*)
-    → "How may I help you?\u0007\u000BSet preferences.\u0007Vending box overview.\u0007Never mind.\u007F1\u0000\u0007"
+    → "How may I help you? [Set preferences./Vending box overview./Never mind.]"
 128: 0x021C [0x25] WAIT_DIALOG_SELECT()
 129: 0x021D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AFC
 
 SUBROUTINE_0225:
 130: 0x0225 [0x24] CREATE_DIALOG(message_id=12908*, default_option=0*, option_flags=0*)
-    → "Select a category.\u0007\u000BLow-grade items.\u0007Medium-grade items.\u0007High-grade items.\u0007Exit.\u007F1\u0000\u0007"
+    → "Select a category. [Low-grade items./Medium-grade items./High-grade items./Exit.]"
 131: 0x022C [0x25] WAIT_DIALOG_SELECT()
 132: 0x022D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x062B
 133: 0x0235 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -668,8 +725,7 @@ SUBROUTINE_034D:
 
 SUBROUTINE_0366:
 194: 0x0366 [0x24] CREATE_DIALOG(message_id=12909*, default_option=ExtData[1]->WorkLocal[0], option_flags=0*)
-    → "Set your preferences.\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002	\u0000\u0000: \u000C\u0015[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002
-\u0000\u0000: \u000C\u0016[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000B\u0000\u0000: \u000C\u0017[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000C\u0000\u0000: \u000C\u0018[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000: \u000C\u0019[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000E\u0000\u0000: \u000C\u001A[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000F\u0000\u0000: \u000C\u001B[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0010\u0000\u0000: \u000C\u001C[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0011\u0000\u0000: \u000C\u001D[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0012\u0000\u0000: \u000C\u001E[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0013\u0000\u0000: \u000C\u001F[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0014\u0000\u0000: \u000C [o*/o)]\u0007Select another category.\u007F1\u0000\u0007"
+    → "Set your preferences. [$9: [o*/o)]/$10: [o*/o)]/$11: [o*/o)]/$12: [o*/o)]/$13: [o*/o)]/$14: [o*/o)]/$15: [o*/o)]/$16: [o*/o)]/$17: [o*/o)]/$18: [o*/o)]/$19: [o*/o)]/$20: [o*/o)]/Select another category.]"
 195: 0x036D [0x25] WAIT_DIALOG_SELECT()
 196: 0x036E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A7
 197: 0x0376 [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -683,84 +739,84 @@ SUBROUTINE_0366:
 
 SUBROUTINE_039A:
 205: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 206: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x039E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 208: 0x03A1 [0x01] GOTO 0x023A
 
 SUBROUTINE_03D3:
 209: 0x03D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 210: 0x03D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x03D7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 212: 0x03DA [0x01] GOTO 0x023A
 
 SUBROUTINE_040C:
 213: 0x040C [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 214: 0x040F [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x0410 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 216: 0x0413 [0x01] GOTO 0x023A
 
 SUBROUTINE_0445:
 217: 0x0445 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 218: 0x0448 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x0449 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 220: 0x044C [0x01] GOTO 0x023A
 
 SUBROUTINE_047E:
 221: 0x047E [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 222: 0x0481 [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x0482 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 224: 0x0485 [0x01] GOTO 0x023A
 
 SUBROUTINE_04B7:
 225: 0x04B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 226: 0x04BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x04BB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 228: 0x04BE [0x01] GOTO 0x023A
 
 SUBROUTINE_04F0:
 229: 0x04F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 230: 0x04F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x04F4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 232: 0x04F7 [0x01] GOTO 0x023A
 
 SUBROUTINE_0529:
 233: 0x0529 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 234: 0x052C [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x052D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 236: 0x0530 [0x01] GOTO 0x023A
 
 SUBROUTINE_0562:
 237: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 238: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x0566 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 240: 0x0569 [0x01] GOTO 0x023A
 
 SUBROUTINE_059B:
 241: 0x059B [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 242: 0x059E [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x059F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 244: 0x05A2 [0x01] GOTO 0x023A
 
 SUBROUTINE_05D4:
 245: 0x05D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 246: 0x05D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x05D8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 248: 0x05DB [0x01] GOTO 0x023A
 
 SUBROUTINE_060D:
 249: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 250: 0x0610 [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x0611 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 252: 0x0614 [0x01] GOTO 0x023A
@@ -856,8 +912,7 @@ SUBROUTINE_074B:
 
 SUBROUTINE_0764:
 316: 0x0764 [0x24] CREATE_DIALOG(message_id=12909*, default_option=ExtData[1]->WorkLocal[0], option_flags=0*)
-    → "Set your preferences.\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002	\u0000\u0000: \u000C\u0015[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002
-\u0000\u0000: \u000C\u0016[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000B\u0000\u0000: \u000C\u0017[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000C\u0000\u0000: \u000C\u0018[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000: \u000C\u0019[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000E\u0000\u0000: \u000C\u001A[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000F\u0000\u0000: \u000C\u001B[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0010\u0000\u0000: \u000C\u001C[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0011\u0000\u0000: \u000C\u001D[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0012\u0000\u0000: \u000C\u001E[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0013\u0000\u0000: \u000C\u001F[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0014\u0000\u0000: \u000C [o*/o)]\u0007Select another category.\u007F1\u0000\u0007"
+    → "Set your preferences. [$9: [o*/o)]/$10: [o*/o)]/$11: [o*/o)]/$12: [o*/o)]/$13: [o*/o)]/$14: [o*/o)]/$15: [o*/o)]/$16: [o*/o)]/$17: [o*/o)]/$18: [o*/o)]/$19: [o*/o)]/$20: [o*/o)]/Select another category.]"
 317: 0x076B [0x25] WAIT_DIALOG_SELECT()
 318: 0x076C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A5
 319: 0x0774 [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -871,84 +926,84 @@ SUBROUTINE_0764:
 
 SUBROUTINE_0798:
 327: 0x0798 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 328: 0x079B [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x079C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 330: 0x079F [0x01] GOTO 0x0638
 
 SUBROUTINE_07D1:
 331: 0x07D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 332: 0x07D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x07D5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 334: 0x07D8 [0x01] GOTO 0x0638
 
 SUBROUTINE_080A:
 335: 0x080A [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 336: 0x080D [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x080E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 338: 0x0811 [0x01] GOTO 0x0638
 
 SUBROUTINE_0843:
 339: 0x0843 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 340: 0x0846 [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x0847 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 342: 0x084A [0x01] GOTO 0x0638
 
 SUBROUTINE_087C:
 343: 0x087C [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 344: 0x087F [0x23] WAIT_FOR_DIALOG_INTERACTION
 345: 0x0880 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 346: 0x0883 [0x01] GOTO 0x0638
 
 SUBROUTINE_08B5:
 347: 0x08B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 348: 0x08B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0x08B9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 350: 0x08BC [0x01] GOTO 0x0638
 
 SUBROUTINE_08EE:
 351: 0x08EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 352: 0x08F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x08F2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 354: 0x08F5 [0x01] GOTO 0x0638
 
 SUBROUTINE_0927:
 355: 0x0927 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 356: 0x092A [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x092B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 358: 0x092E [0x01] GOTO 0x0638
 
 SUBROUTINE_0960:
 359: 0x0960 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 360: 0x0963 [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x0964 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 362: 0x0967 [0x01] GOTO 0x0638
 
 SUBROUTINE_0999:
 363: 0x0999 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 364: 0x099C [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x099D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 366: 0x09A0 [0x01] GOTO 0x0638
 
 SUBROUTINE_09D2:
 367: 0x09D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 368: 0x09D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x09D6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 370: 0x09D9 [0x01] GOTO 0x0638
 
 SUBROUTINE_0A0B:
 371: 0x0A0B [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 372: 0x0A0E [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x0A0F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 374: 0x0A12 [0x01] GOTO 0x0638
@@ -981,8 +1036,7 @@ SUBROUTINE_0A36:
 
 SUBROUTINE_0A99:
 397: 0x0A99 [0x24] CREATE_DIALOG(message_id=12909*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
-    → "Set your preferences.\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002	\u0000\u0000: \u000C\u0015[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002
-\u0000\u0000: \u000C\u0016[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000B\u0000\u0000: \u000C\u0017[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000C\u0000\u0000: \u000C\u0018[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000: \u000C\u0019[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000E\u0000\u0000: \u000C\u001A[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u000F\u0000\u0000: \u000C\u001B[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0010\u0000\u0000: \u000C\u001C[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0011\u0000\u0000: \u000C\u001D[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0012\u0000\u0000: \u000C\u001E[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0013\u0000\u0000: \u000C\u001F[o*/o)]\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0014\u0000\u0000: \u000C [o*/o)]\u0007Select another category.\u007F1\u0000\u0007"
+    → "Set your preferences. [$9: [o*/o)]/$10: [o*/o)]/$11: [o*/o)]/$12: [o*/o)]/$13: [o*/o)]/$14: [o*/o)]/$15: [o*/o)]/$16: [o*/o)]/$17: [o*/o)]/$18: [o*/o)]/$19: [o*/o)]/$20: [o*/o)]/Select another category.]"
 398: 0x0AA0 [0x25] WAIT_DIALOG_SELECT()
 399: 0x0AA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ADA
 400: 0x0AA9 [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -996,7 +1050,7 @@ SUBROUTINE_0A99:
 
 SUBROUTINE_0ACD:
 408: 0x0ACD [0x1D] PRINT_EVENT_MESSAGE(message_id=12910*)
-    → "The following item has been \u000C&[added to/removed from] your list of preferences: \u0001\u0005#\u0002'\u0000\u0000.\u007F1\u0000\u0007"
+    → "The following item has been &[added to/removed from] your list of preferences: $39."
 409: 0x0AD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 410: 0x0AD1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 411: 0x0AD4 [0x01] GOTO 0x0A36
@@ -1010,19 +1064,19 @@ SUBROUTINE_0AF9:
 415: 0x0AF9 [0x01] GOTO 0x0B2C
 416: 0x0AFC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B1E
 417: 0x0B04 [0x1D] PRINT_EVENT_MESSAGE(message_id=12903*)
-    → "No doubt you have noticed the curious caskets scattered throughout the Nyzul Isle remnants.\u0007Our operatives have come to refer to these as \u00072vending boxes.\u00073\u007F1\u0000\u0007"
+    → "No doubt you have noticed the curious caskets scattered throughout the Nyzul Isle remnants. Our operatives have come to refer to these as "vending boxes.""
 418: 0x0B07 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x0B08 [0x1D] PRINT_EVENT_MESSAGE(message_id=12904*)
-    → "Depositing Nyzul tokens into them will yield artifacts usable only in the immediate environs.\u0007By what ancient technology or magic they operate, we do not know.\u007F1\u0000\u0007"
+    → "Depositing Nyzul tokens into them will yield artifacts usable only in the immediate environs. By what ancient technology or magic they operate, we do not know."
 420: 0x0B0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x0B0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12905*)
-    → "And yet our research has not proved entirely fruitless.\u007F1\u0000\u0007"
+    → "And yet our research has not proved entirely fruitless."
 422: 0x0B0F [0x23] WAIT_FOR_DIALOG_INTERACTION
 423: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=12906*)
-    → "Specifically, we have developed a means to manipulate these boxes so that your preferred items may be extracted with greater ease.\u007F1\u0000\u0007"
+    → "Specifically, we have developed a means to manipulate these boxes so that your preferred items may be extracted with greater ease."
 424: 0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x0B14 [0x1D] PRINT_EVENT_MESSAGE(message_id=12907*)
-    → "I would explain further, but the inner workings of this are beyond a layman like me.\u0007Simply convey to me your preferences, and enjoy the newfound convenience on your next expedition.\u007F1\u0000\u0007"
+    → "I would explain further, but the inner workings of this are beyond a layman like me. Simply convey to me your preferences, and enjoy the newfound convenience on your next expedition."
 426: 0x0B17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 427: 0x0B18 [0x01] GOTO 0x0215
 
@@ -1030,11 +1084,10 @@ SUBROUTINE_0B2C:
 428: 0x0B2C [0x01] GOTO 0x0BB4
 429: 0x0B2F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0B45
 430: 0x0B37 [0x1D] PRINT_EVENT_MESSAGE(message_id=12887*)
-    → "Investigators are frequently coming across artifacts within the remnants we are simply calling Nyzul \u00072tokens.\u00073\u0007As a way of gauging your progress, the Commissions Agency will keep track of the number of tokens you have obtained.\u007F1\u0000\u0007"
+    → "Investigators are frequently coming across artifacts within the remnants we are simply calling Nyzul "tokens." As a way of gauging your progress, the Commissions Agency will keep track of the number of tokens you have obtained."
 431: 0x0B3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 432: 0x0B3B [0x1D] PRINT_EVENT_MESSAGE(message_id=12888*)
-    → "You currently possess 
-\u0002 \u007F\u0012\u0002[token/tokens].\u007F1\u0000\u0007"
+    → "You currently possess $2 [token/tokens]."
 433: 0x0B3E [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x0B3F [0x01] GOTO 0x002F
 

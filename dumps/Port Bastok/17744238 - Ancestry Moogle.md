@@ -1,0 +1,1548 @@
+# 17744238 - Ancestry Moogle
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Port Bastok (ID: 236) |
+| Block Size       | 5412 bytes            |
+| Total Events     | 3                     |
+| References Count | 86                    |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [480](#event-480)     | 0x0001       |     65 |             22 |
+| [479](#event-479)     | 0x0042       |   4974 |            934 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x374D      |       14157 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x374E      |       14158 |
+|       3 | 0x0003      |           3 |
+|       4 | 0x262C      |        9772 |
+|       5 | 0x3755      |       14165 |
+|       6 | 0x0002      |           2 |
+|       7 | 0x374F      |       14159 |
+|       8 | 0x3750      |       14160 |
+|       9 | 0x3756      |       14166 |
+|      10 | 0x3757      |       14167 |
+|      11 | 0xFFFFFFFF  |  4294967295 |
+|      12 | 0x0007      |           7 |
+|      13 | 0x0078      |         120 |
+|      14 | 0x0013      |          19 |
+|      15 | 0x00A9      |         169 |
+|      16 | 0x02E8      |         744 |
+|      17 | 0x001E      |          30 |
+|      18 | 0x000B      |          11 |
+|      19 | 0x0001      |           1 |
+|      20 | 0x05DC      |        1500 |
+|      21 | 0x00C0      |         192 |
+|      22 | 0x003C      |          60 |
+|      23 | 0x0098      |         152 |
+|      24 | 0x00EC      |         236 |
+|      25 | 0x40000000  |  1073741824 |
+|      26 | 0x00C8      |         200 |
+|      27 | 0x00C9      |         201 |
+|      28 | 0x3758      |       14168 |
+|      29 | 0x0004      |           4 |
+|      30 | 0x3759      |       14169 |
+|      31 | 0x0FA0      |        4000 |
+|      32 | 0xFFFFFB50  |  4294966096 |
+|      33 | 0x0005      |           5 |
+|      34 | 0x0006      |           6 |
+|      35 | 0x3762      |       14178 |
+|      36 | 0x3763      |       14179 |
+|      37 | 0x3764      |       14180 |
+|      38 | 0x3765      |       14181 |
+|      39 | 0x3767      |       14183 |
+|      40 | 0x3768      |       14184 |
+|      41 | 0x3769      |       14185 |
+|      42 | 0x001A      |          26 |
+|      43 | 0x0008      |           8 |
+|      44 | 0x000D      |          13 |
+|      45 | 0x000F      |          15 |
+|      46 | 0x000C      |          12 |
+|      47 | 0x0010      |          16 |
+|      48 | 0x0011      |          17 |
+|      49 | 0x3761      |       14177 |
+|      50 | 0x03E7      |         999 |
+|      51 | 0x375C      |       14172 |
+|      52 | 0x375D      |       14173 |
+|      53 | 0x375E      |       14174 |
+|      54 | 0x375F      |       14175 |
+|      55 | 0x3760      |       14176 |
+|      56 | 0x0080      |         128 |
+|      57 | 0x0030      |          48 |
+|      58 | 0x15180     |       86400 |
+|      59 | 0x3751      |       14161 |
+|      60 | 0x0E10      |        3600 |
+|      61 | 0x3752      |       14162 |
+|      62 | 0x3753      |       14163 |
+|      63 | 0x3754      |       14164 |
+|      64 | 0x375A      |       14170 |
+|      65 | 0x375B      |       14171 |
+|      66 | 0x0085      |         133 |
+|      67 | 0x00A8      |         168 |
+|      68 | 0x0084      |         132 |
+|      69 | 0x0083      |         131 |
+|      70 | 0x00A7      |         167 |
+|      71 | 0x0082      |         130 |
+|      72 | 0x00A6      |         166 |
+|      73 | 0x00A5      |         165 |
+|      74 | 0x1000      |        4096 |
+|      75 | 0x005F      |          95 |
+|      76 | 0x0064      |         100 |
+|      77 | 0x0069      |         105 |
+|      78 | 0x0052      |          82 |
+|      79 | 0x0057      |          87 |
+|      80 | 0x005C      |          92 |
+|      81 | 0x0059      |          89 |
+|      82 | 0x005D      |          93 |
+|      83 | 0x0061      |          97 |
+|      84 | 0x0060      |          96 |
+|      85 | 0x0335      |         821 |
+
+## String References
+
+- **14157**: Welcome to the Race Change service, kupo!
+- **14158**: Please check the official website for more details regarding our service.
+- **14159**: Thank you for using the Race Change service, adventurer!
+- **14160**: If you have any dancer gender-specific armor, I can exchange them for ones that better suit your new form, kupo!
+- **14161**: You have $0 more day[/s] to use this service, kupo.
+- **14162**: You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+- **14163**: You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+- **14164**: You have $2 second[/s] remaining to use this service, kupo.
+- **14165**: Please make sure to exchange your $3 while it is still valid, kupo.
+- **14166**: Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!
+- **14167**: Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!
+- **14168**: Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]
+- **14169**: You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera.
+- **14170**: You will lose your character's current appearance. Are you sure you want to exit the process?
+- **14171**: Are you finished making changes? [Yes./No.]
+- **14172**: Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]
+- **14173**: Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]
+- **14174**: Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]
+- **14175**: Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]
+- **14176**: Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]
+- **14177**: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
+- **14178**: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
+- **14179**: You can trade any gender-specific dancer armor to the % to receive a version that better suits your new form.
+- **14180**: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
+- **14181**: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
+- **14183**: Change your character to this appearance? [Yes./No.]
+- **14184**: Are you absolutely sure? [Yes./No.]
+- **14185**: May Altana bless you as you begin your new life, kupo!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 480
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 65 bytes |
+| Instructions | 22       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    1E F0 FF FF 7F 6F 70  1D 00 80 23 02 07 10 01   .....op...#....
+0010: 80 00 1B 00 1D 02 80 23  01 40 00 3E 07 10 03 80  .......#.@.>....
+0020: 31 00 1A F4 0A 03 05 10  04 80 1D 05 80 23 01 40  1............#.@
+0030: 00 3E 07 10 06 80 3C 00  1D 07 80 23 1D 08 80 23  .>....<....#...#
+0040: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=14157*)
+    → "Welcome to the Race Change service, kupo!"
+  4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x000C [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x001B
+  6: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=14158*)
+    → "Please check the official website for more details regarding our service."
+  7: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0018 [0x01] GOTO 0x0040
+  9: 0x001B [0x3E] IF !(Work_Zone[7] bit 3*) GOTO 0x0031
+ 10: 0x0022 [0x1A] CALL_SUBROUTINE(address=0x0AF4)
+ 11: 0x0025 [0x03] Work_Zone[5] = 9772*
+ 12: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=14165*)
+    → "Please make sure to exchange your $3 while it is still valid, kupo."
+ 13: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 14: 0x002E [0x01] GOTO 0x0040
+ 15: 0x0031 [0x3E] IF !(Work_Zone[7] bit 2*) GOTO 0x003C
+ 16: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=14159*)
+    → "Thank you for using the Race Change service, adventurer!"
+ 17: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 18: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=14160*)
+    → "If you have any dancer gender-specific armor, I can exchange them for ones that better suit your new form, kupo!"
+ 19: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0040:
+ 20: 0x0040 [0x21] END_EVENT
+ 21: 0x0041 [0x00] END_REQSTACK()
+```
+
+### Event 479
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0042     |
+| Data Size    | 4974 bytes |
+| Instructions | 630        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040:       42 03 00 00 02 10  03 01 00 03 10 03 03 00    B.............
+0050: 04 10 03 02 00 05 10 03  04 00 00 00 03 05 00 01  ................
+0060: 00 03 06 00 02 00 03 07  00 03 00 03 5B 10 00 00  ............[...
+0070: 03 5C 10 01 00 03 5E 10  03 00 03 5D 10 02 00 03  .\....^....]....
+0080: 0B 00 07 10 1E F0 FF FF  7F 6F 70 1D 00 80 23 02  .........op...#.
+0090: 06 10 01 80 02 A5 00 1A  F4 0A 1D 09 80 23 1D 0A  .............#..
+00A0: 80 23 01 C3 00 02 06 10  0B 80 00 B0 00 01 C3 00  .#..............
+00B0: 3E 0B 00 01 80 BE 00 1D  08 80 23 01 C2 00 1D 02  >.........#.....
+00C0: 80 23 21 1A AD 0F 03 01  10 01 80 40 01 80 0C 80  .#!........@....
+00D0: 01 10 06 80 43 00 43 01  03 0C 00 02 10 03 0D 00  ....C.C.........
+00E0: 03 10 03 0E 00 04 10 03  0F 00 05 10 03 10 00 06  ................
+00F0: 10 03 11 00 07 10 03 12  00 08 10 03 13 00 09 10  ................
+0100: 4E 01 63 C0 0E 01 46 01  1C 0D 80 38 0E 80 03 5A  N.c...F....8...Z
+0110: 10 0F 80 34 10 80 1C 11  80 77 12 80 13 80 4E 01  ...4.....w....N.
+0120: F8 FF FF 7F BA F0 FF FF  7F 01 80 01 80 01 80 01  ................
+0130: 80 4E 00 F0 FF FF 7F 03  15 00 14 80 03 14 00 15  .N..............
+0140: 80 2F 00 70 C1 0E 01 29  10 70 C1 0E 01 02 BA 70  ./.p...).p.....p
+0150: C1 0E 01 01 80 15 00 01  80 14 00 80 70 C1 0E 01  ............p...
+0160: 03 17 00 06 80 4E 01 70  C1 0E 01 1C 16 80 2F 00  .....N.p....../.
+0170: 6F C1 0E 01 1C 16 80 03  18 00 01 80 1A 46 0C 1A  o............F..
+0180: 02 0D 03 19 00 01 80 03  1A 00 01 80 1A 61 0D 1A  .............a..
+0190: 81 0E 1A 8C 0F 1A F4 01  1A AD 0F 1C 0D 80 1A 99  ................
+01A0: 0C 46 00 5C 00 17 80 5C  01 17 80 35 18 80 B6 10  .F.\...\...5....
+01B0: 4E 00 63 C0 0E 01 AB 11  01 80 AB 0A 78 1C 16 80  N.c.........x...
+01C0: 02 01 10 19 80 00 DF 01  1C 16 80 45 1A 80 F0 FF  ...........E....
+01D0: FF 7F F0 FF FF 7F 66 64  69 32 01 80 01 F0 01 45  ......fdi2.....E
+01E0: 1B 80 F0 FF FF 7F F0 FF  FF 7F 77 68 69 31 01 80  ..........whi1..
+01F0: 46 00 21 00 05 1E 00 02  1E 00 01 80 01 CF 04 03  F.!.............
+0200: 20 00 01 80 02 04 00 00  00 00 14 02 03 02 17 01   ...............
+0210: 80 01 20 02 03 02 17 13  80 3C 20 00 01 80 13 80  .. ......< .....
+0220: 02 05 00 01 00 00 30 02  03 03 17 01 80 01 3C 02  ......0.......<.
+0230: 03 03 17 13 80 3C 20 00  13 80 13 80 02 06 00 02  .....< .........
+0240: 00 00 4C 02 03 04 17 01  80 01 58 02 03 04 17 13  ..L.......X.....
+0250: 80 3C 20 00 06 80 13 80  02 07 00 03 00 00 68 02  .< ...........h.
+0260: 03 05 17 01 80 01 74 02  03 05 17 13 80 3C 20 00  ......t......< .
+0270: 03 80 13 80 02 19 00 0B  80 00 84 02 03 06 17 13  ................
+0280: 80 01 89 02 03 06 17 01  80 24 1C 80 1F 00 01 80  .........$......
+0290: 25 02 00 10 01 80 00 B7  02 03 1F 00 01 80 02 19  %...............
+02A0: 00 0B 80 01 AE 02 03 19  00 01 80 1A 61 0D 1A 61  ............a..a
+02B0: 0D 1A D0 04 01 CC 04 02  00 10 13 80 00 DA 02 03  ................
+02C0: 1F 00 13 80 02 19 00 0B  80 01 D4 02 03 19 00 13  ................
+02D0: 80 1A 61 0D 1A B8 06 01  CC 04 02 00 10 06 80 00  ..a.............
+02E0: 00 03 03 1F 00 06 80 02  19 00 0B 80 01 F7 02 03  ................
+02F0: 19 00 13 80 1A 61 0D 1A  61 0D 1A A0 08 01 CC 04  .....a..a.......
+0300: 02 00 10 03 80 00 23 03  03 1F 00 03 80 02 19 00  ......#.........
+0310: 0B 80 01 1D 03 03 19 00  01 80 1A 61 0D 1A 38 09  ...........a..8.
+0320: 01 CC 04 02 00 10 1D 80  00 6A 03 03 1F 00 1D 80  .........j......
+0330: 1A AD 0F 02 19 00 0B 80  01 54 03 48 1E 80 23 1C  .........T.H..#.
+0340: 16 80 46 00 46 03 1F 80  20 80 01 80 03 19 00 0B  ..F.F... .......
+0350: 80 01 64 03 1C 16 80 46  01 03 19 00 01 80 1A 61  ..d....F.......a
+0360: 0D 1A 81 0E 1A 8C 0F 01  CC 04 02 00 10 21 80 00  .............!..
+0370: 7D 03 03 1F 00 21 80 1A  08 0A 01 CC 04 02 00 10  }....!..........
+0380: 22 80 00 9A 04 03 1F 00  22 80 02 20 00 01 80 01  ".......".. ....
+0390: 93 04 02 19 00 0B 80 01  A5 03 03 19 00 01 80 1A  ................
+03A0: 61 0D 1A 81 0E 03 5A 10  0F 80 02 04 00 00 00 01  a.....Z.........
+03B0: BE 03 48 23 80 23 48 24  80 23 48 25 80 23 03 02  ..H#.#H$.#H%.#..
+03C0: 17 04 00 03 03 17 05 00  0B 03 17 03 04 17 06 00  ................
+03D0: 03 05 17 07 00 48 26 80  23 24 27 80 13 80 01 80  .....H&.#$'.....
+03E0: 25 02 00 10 01 80 00 90  04 1C 16 80 24 28 80 13  %...........$(..
+03F0: 80 01 80 25 02 00 10 01  80 00 8D 04 1D 29 80 23  ...%.........).#
+0400: 6E F0 FF FF 7F 12 80 99  F0 FF FF 7F 99 F0 FF FF  n...............
+0410: 7F 45 1B 80 F0 FF FF 7F  F0 FF FF 7F 77 68 6F 31  .E..........who1
+0420: 01 80 55 1B 80 F0 FF FF  7F F0 FF FF 7F 77 68 6F  ..U..........who
+0430: 31 1C 16 80 62 2A 80 F0  FF FF 7F F0 FF FF 7F 6D  1...b*.........m
+0440: 61 69 6E 01 80 A0 2A 80  F0 FF FF 7F F0 FF FF 7F  ain...*.........
+0450: 6D 61 69 6E 06 1E 00 03  01 10 01 80 40 01 80 0C  main........@...
+0460: 80 01 10 13 80 40 2B 80  12 80 01 10 04 00 40 2C  .....@+.......@,
+0470: 80 2D 80 01 10 05 00 40  2E 80 2E 80 01 10 06 00  .-.....@........
+0480: 40 2F 80 30 80 01 10 07  00 1B 01 8D 04 01 90 04  @/.0............
+0490: 01 97 04 48 31 80 23 01  CC 04 02 00 10 32 80 00  ...H1.#......2..
+04A0: A5 04 01 CC 04 03 1F 00  00 10 1A 52 0B 02 1C 00  ...........R....
+04B0: 01 80 01 CC 04 1A AD 0F  1C 0D 80 03 5A 10 01 80  ............Z...
+04C0: 1C 16 80 06 1E 00 03 01  10 19 80 1B 01 F7 01 1B  ................
+04D0: 05 21 00 02 21 00 01 80  01 B7 06 1A AD 0B 03 03  .!..!...........
+04E0: 17 01 80 03 04 17 01 80  03 05 17 01 80 03 06 17  ................
+04F0: 01 80 03 07 17 01 80 03  08 17 01 80 03 09 17 01  ................
+0500: 80 03 0A 17 01 80 02 00  00 13 80 80 16 05 03 03  ................
+0510: 17 06 80 01 86 05 02 00  00 06 80 80 26 05 03 04  ............&...
+0520: 17 06 80 01 86 05 02 00  00 03 80 80 36 05 03 05  ............6...
+0530: 17 06 80 01 86 05 02 00  00 1D 80 80 46 05 03 06  ............F...
+0540: 17 06 80 01 86 05 02 00  00 21 80 80 56 05 03 07  .........!..V...
+0550: 17 06 80 01 86 05 02 00  00 22 80 80 66 05 03 08  ........."..f...
+0560: 17 06 80 01 86 05 02 00  00 0C 80 80 76 05 03 09  ............v...
+0570: 17 06 80 01 86 05 02 00  00 2B 80 80 86 05 03 0A  .........+......
+0580: 17 06 80 01 86 05 02 04  00 00 00 01 0E 06 02 04  ................
+0590: 00 13 80 80 9E 05 03 03  17 13 80 01 0E 06 02 04  ................
+05A0: 00 06 80 80 AE 05 03 04  17 13 80 01 0E 06 02 04  ................
+05B0: 00 03 80 80 BE 05 03 05  17 13 80 01 0E 06 02 04  ................
+05C0: 00 1D 80 80 CE 05 03 06  17 13 80 01 0E 06 02 04  ................
+05D0: 00 21 80 80 DE 05 03 07  17 13 80 01 0E 06 02 04  .!..............
+05E0: 00 22 80 80 EE 05 03 08  17 13 80 01 0E 06 02 04  ."..............
+05F0: 00 0C 80 80 FE 05 03 09  17 13 80 01 0E 06 02 04  ................
+0600: 00 2B 80 80 0E 06 03 0A  17 13 80 01 0E 06 24 33  .+............$3
+0610: 80 22 00 01 80 25 02 00  10 01 80 00 29 06 03 04  ."...%......)...
+0620: 00 13 80 1A 33 0C 01 AF  06 02 00 10 13 80 00 3C  ....3..........<
+0630: 06 03 04 00 06 80 1A 33  0C 01 AF 06 02 00 10 06  .......3........
+0640: 80 00 4F 06 03 04 00 03  80 1A 33 0C 01 AF 06 02  ..O.......3.....
+0650: 00 10 03 80 00 62 06 03  04 00 1D 80 1A 33 0C 01  .....b.......3..
+0660: AF 06 02 00 10 1D 80 00  75 06 03 04 00 21 80 1A  ........u....!..
+0670: 33 0C 01 AF 06 02 00 10  21 80 00 88 06 03 04 00  3.......!.......
+0680: 22 80 1A 33 0C 01 AF 06  02 00 10 22 80 00 9B 06  "..3......."....
+0690: 03 04 00 0C 80 1A 33 0C  01 AF 06 02 00 10 0C 80  ......3.........
+06A0: 00 AE 06 03 04 00 2B 80  1A 33 0C 01 AF 06 1B 03  ......+..3......
+06B0: 22 00 00 10 01 D3 04 1B  05 23 00 02 23 00 01 80  "........#..#...
+06C0: 01 9F 08 1A AD 0B 03 03  17 01 80 03 04 17 01 80  ................
+06D0: 03 05 17 01 80 03 06 17  01 80 03 07 17 01 80 03  ................
+06E0: 08 17 01 80 03 09 17 01  80 03 0A 17 01 80 02 01  ................
+06F0: 00 01 80 80 FE 06 03 03  17 06 80 01 6E 07 02 01  ............n...
+0700: 00 13 80 80 0E 07 03 04  17 06 80 01 6E 07 02 01  ............n...
+0710: 00 06 80 80 1E 07 03 05  17 06 80 01 6E 07 02 01  ............n...
+0720: 00 03 80 80 2E 07 03 06  17 06 80 01 6E 07 02 01  ............n...
+0730: 00 1D 80 80 3E 07 03 07  17 06 80 01 6E 07 02 01  ....>.......n...
+0740: 00 21 80 80 4E 07 03 08  17 06 80 01 6E 07 02 01  .!..N.......n...
+0750: 00 22 80 80 5E 07 03 09  17 06 80 01 6E 07 02 01  ."..^.......n...
+0760: 00 0C 80 80 6E 07 03 0A  17 06 80 01 6E 07 02 05  ....n.......n...
+0770: 00 01 00 01 F6 07 02 05  00 01 80 80 86 07 03 03  ................
+0780: 17 13 80 01 F6 07 02 05  00 13 80 80 96 07 03 04  ................
+0790: 17 13 80 01 F6 07 02 05  00 06 80 80 A6 07 03 05  ................
+07A0: 17 13 80 01 F6 07 02 05  00 03 80 80 B6 07 03 06  ................
+07B0: 17 13 80 01 F6 07 02 05  00 1D 80 80 C6 07 03 07  ................
+07C0: 17 13 80 01 F6 07 02 05  00 21 80 80 D6 07 03 08  .........!......
+07D0: 17 13 80 01 F6 07 02 05  00 22 80 80 E6 07 03 09  ........."......
+07E0: 17 13 80 01 F6 07 02 05  00 0C 80 80 F6 07 03 0A  ................
+07F0: 17 13 80 01 F6 07 24 34  80 24 00 01 80 25 02 00  ......$4.$...%..
+0800: 10 01 80 00 11 08 03 05  00 01 80 1A 46 0C 01 97  ............F...
+0810: 08 02 00 10 13 80 00 24  08 03 05 00 13 80 1A 46  .......$.......F
+0820: 0C 01 97 08 02 00 10 06  80 00 37 08 03 05 00 06  ..........7.....
+0830: 80 1A 46 0C 01 97 08 02  00 10 03 80 00 4A 08 03  ..F..........J..
+0840: 05 00 03 80 1A 46 0C 01  97 08 02 00 10 1D 80 00  .....F..........
+0850: 5D 08 03 05 00 1D 80 1A  46 0C 01 97 08 02 00 10  ].......F.......
+0860: 21 80 00 70 08 03 05 00  21 80 1A 46 0C 01 97 08  !..p....!..F....
+0870: 02 00 10 22 80 00 83 08  03 05 00 22 80 1A 46 0C  ..."......."..F.
+0880: 01 97 08 02 00 10 0C 80  00 96 08 03 05 00 0C 80  ................
+0890: 1A 46 0C 01 97 08 1B 03  24 00 00 10 01 BB 06 1B  .F......$.......
+08A0: 05 25 00 02 25 00 01 80  01 37 09 1A AD 0B 03 03  .%..%....7......
+08B0: 17 01 80 03 04 17 01 80  02 02 00 01 80 80 C8 08  ................
+08C0: 03 03 17 06 80 01 D8 08  02 02 00 13 80 80 D8 08  ................
+08D0: 03 04 17 06 80 01 D8 08  02 06 00 02 00 01 00 09  ................
+08E0: 02 06 00 01 80 80 F0 08  03 03 17 13 80 01 00 09  ................
+08F0: 02 06 00 13 80 80 00 09  03 04 17 13 80 01 00 09  ................
+0900: 24 35 80 26 00 01 80 25  02 00 10 01 80 00 1B 09  $5.&...%........
+0910: 03 06 00 01 80 1A 46 0C  01 2F 09 02 00 10 13 80  ......F../......
+0920: 00 2E 09 03 06 00 13 80  1A 46 0C 01 2F 09 1B 03  .........F../...
+0930: 26 00 00 10 01 A3 08 1B  05 27 00 02 27 00 01 80  &........'..'...
+0940: 01 07 0A 1A AD 0B 03 03  17 01 80 03 04 17 01 80  ................
+0950: 03 05 17 01 80 02 03 00  01 80 80 65 09 03 03 17  ...........e....
+0960: 06 80 01 85 09 02 03 00  13 80 80 75 09 03 04 17  ...........u....
+0970: 06 80 01 85 09 02 03 00  06 80 80 85 09 03 05 17  ................
+0980: 06 80 01 85 09 02 07 00  03 00 01 BD 09 02 07 00  ................
+0990: 01 80 80 9D 09 03 03 17  13 80 01 BD 09 02 07 00  ................
+09A0: 13 80 80 AD 09 03 04 17  13 80 01 BD 09 02 07 00  ................
+09B0: 06 80 80 BD 09 03 05 17  13 80 01 BD 09 24 36 80  .............$6.
+09C0: 28 00 01 80 25 02 00 10  01 80 00 D8 09 03 07 00  (...%...........
+09D0: 01 80 1A 02 0D 01 FF 09  02 00 10 13 80 00 EB 09  ................
+09E0: 03 07 00 13 80 1A 02 0D  01 FF 09 02 00 10 06 80  ................
+09F0: 00 FE 09 03 07 00 06 80  1A 02 0D 01 FF 09 1B 03  ................
+0A00: 28 00 00 10 01 3B 09 1B  05 29 00 02 29 00 01 80  (....;...)..)...
+0A10: 01 F3 0A 03 03 17 16 00  03 04 17 17 00 03 05 17  ................
+0A20: 18 00 24 37 80 2A 00 01  80 25 02 00 10 01 80 00  ..$7.*...%......
+0A30: 43 0A 03 18 00 01 80 6C  F0 FF FF 7F 38 80 11 80  C......l....8...
+0A40: 01 EB 0A 02 00 10 13 80  00 5C 0A 03 18 00 13 80  .........\......
+0A50: 6C F0 FF FF 7F 39 80 11  80 01 EB 0A 02 00 10 06  l....9..........
+0A60: 80 00 72 0A 03 17 00 06  80 4E 01 70 C1 0E 01 01  ..r......N.p....
+0A70: EB 0A 02 00 10 03 80 00  91 0A 03 17 00 01 80 4E  ...............N
+0A80: 00 70 C1 0E 01 6C 70 C1  0E 01 38 80 11 80 01 EB  .p...lp...8.....
+0A90: 0A 02 00 10 1D 80 00 B0  0A 03 17 00 13 80 4E 00  ..............N.
+0AA0: 70 C1 0E 01 6C 70 C1 0E  01 39 80 11 80 01 EB 0A  p...lp...9......
+0AB0: 02 00 10 21 80 00 CD 0A  03 16 00 13 80 BA 70 C1  ...!..........p.
+0AC0: 0E 01 01 80 01 80 01 80  01 80 01 EB 0A 02 00 10  ................
+0AD0: 22 80 00 EA 0A 03 16 00  01 80 BA 70 C1 0E 01 01  "..........p....
+0AE0: 80 15 00 01 80 14 00 01  EB 0A 1B 03 2A 00 00 10  ............*...
+0AF0: 01 0B 0A 1B 03 1D 00 06  10 15 1D 00 3A 80 02 1D  ............:...
+0B00: 00 13 80 04 12 0B 03 02  10 1D 00 1D 3B 80 23 01  ............;.#.
+0B10: 51 0B 03 02 10 06 10 15  02 10 3C 80 3F 03 10 06  Q.........<.?...
+0B20: 10 3C 80 15 03 10 16 80  3F 04 10 06 10 16 80 02  .<......?.......
+0B30: 02 10 13 80 04 3E 0B 1D  3D 80 23 01 51 0B 02 03  .....>..=.#.Q...
+0B40: 10 13 80 04 4D 0B 1D 3E  80 23 01 51 0B 1D 3F 80  ....M..>.#.Q..?.
+0B50: 23 1B 06 2B 00 02 04 00  00 00 01 60 0B 05 2B 00  #..+.......`..+.
+0B60: 02 05 00 01 00 01 6B 0B  05 2B 00 02 06 00 02 00  ......k..+......
+0B70: 01 76 0B 05 2B 00 02 07  00 03 00 01 81 0B 05 2B  .v..+..........+
+0B80: 00 02 2B 00 01 80 01 A9  0B 48 40 80 23 24 41 80  ..+......H@.#$A.
+0B90: 13 80 01 80 25 02 00 10  01 80 00 A3 0B 05 1C 00  ....%...........
+0BA0: 01 A6 0B 06 1C 00 01 AC  0B 05 1C 00 1B 02 04 00  ................
+0BB0: 13 80 80 BD 0B 03 5A 10  42 80 01 32 0C 02 04 00  ......Z.B..2....
+0BC0: 06 80 80 CD 0B 03 5A 10  43 80 01 32 0C 02 04 00  ......Z.C..2....
+0BD0: 03 80 80 DD 0B 03 5A 10  44 80 01 32 0C 02 04 00  ......Z.D..2....
+0BE0: 1D 80 80 ED 0B 03 5A 10  45 80 01 32 0C 02 04 00  ......Z.E..2....
+0BF0: 21 80 80 FD 0B 03 5A 10  46 80 01 32 0C 02 04 00  !.....Z.F..2....
+0C00: 22 80 80 0D 0C 03 5A 10  47 80 01 32 0C 02 04 00  ".....Z.G..2....
+0C10: 0C 80 80 1D 0C 03 5A 10  48 80 01 32 0C 02 04 00  ......Z.H..2....
+0C20: 2B 80 80 2D 0C 03 5A 10  49 80 01 32 0C 03 5A 10  +..-..Z.I..2..Z.
+0C30: 01 80 1B 1A 46 0C 1A 02  0D 1A 61 0D 1A AD 0B 1C  ....F.....a.....
+0C40: 11 80 1A 81 0E 1B 03 08  00 05 00 14 08 00 06 80  ................
+0C50: 07 08 00 06 00 B6 16 04  00 08 00 2B 80 2B 80 2B  ...........+.+.+
+0C60: 80 2B 80 2B 80 01 80 01  80 01 80 80 F0 FF FF 7F  .+.+............
+0C70: 03 02 17 04 00 03 03 17  05 00 0B 03 17 03 04 17  ................
+0C80: 06 00 03 05 17 07 00 02  18 00 13 80 00 98 0C 6C  ...............l
+0C90: F0 FF FF 7F 39 80 11 80  1B 03 08 00 01 00 14 08  ....9...........
+0CA0: 00 06 80 07 08 00 02 00  3E 0B 00 13 80 C8 0C B6  ........>.......
+0CB0: 16 00 00 08 00 4A 80 0D  00 0E 00 0F 00 10 00 11  .....J..........
+0CC0: 00 12 00 13 00 01 DE 0C  B6 16 00 00 08 00 0C 00  ................
+0CD0: 0D 00 0E 00 0F 00 10 00  11 00 12 00 13 00 80 F0  ................
+0CE0: FF FF 7F 03 09 00 00 00  0C 09 00 14 09 00 1D 80  ................
+0CF0: 07 09 00 03 00 9D 00 21  0D 0A 00 09 00 B6 17 0A  .......!........
+0D00: 00 1B 03 09 00 04 00 0C  09 00 14 09 00 1D 80 07  ................
+0D10: 09 00 07 00 9D 00 21 0D  0A 00 09 00 B6 17 0A 00  ......!.........
+0D20: 1B 4B 80 4C 80 4D 80 01  80 4B 80 4C 80 4D 80 01  .K.L.M...K.L.M..
+0D30: 80 4B 80 4C 80 4D 80 01  80 4B 80 4C 80 4D 80 01  .K.L.M...K.L.M..
+0D40: 80 4E 80 4F 80 50 80 01  80 4E 80 4F 80 50 80 01  .N.O.P...N.O.P..
+0D50: 80 51 80 52 80 53 80 01  80 50 80 54 80 4C 80 01  .Q.R.S...P.T.L..
+0D60: 80 03 02 10 19 00 03 03  10 1A 00 03 04 10 04 00  ................
+0D70: 03 05 10 01 80 02 19 00  01 80 80 60 0E 02 04 00  ...........`....
+0D80: 13 80 80 99 0D 45 55 80  F0 FF FF 7F F0 FF FF 7F  .....EU.........
+0D90: 73 68 6D 30 1A 00 01 5D  0E 02 04 00 06 80 80 B5  shm0...]........
+0DA0: 0D 45 55 80 F0 FF FF 7F  F0 FF FF 7F 73 68 66 30  .EU.........shf0
+0DB0: 1A 00 01 5D 0E 02 04 00  03 80 80 D1 0D 45 55 80  ...].........EU.
+0DC0: F0 FF FF 7F F0 FF FF 7F  73 65 6D 30 1A 00 01 5D  ........sem0...]
+0DD0: 0E 02 04 00 1D 80 80 ED  0D 45 55 80 F0 FF FF 7F  .........EU.....
+0DE0: F0 FF FF 7F 73 65 66 30  1A 00 01 5D 0E 02 04 00  ....sef0...]....
+0DF0: 21 80 80 09 0E 45 55 80  F0 FF FF 7F F0 FF FF 7F  !....EU.........
+0E00: 73 74 6D 30 1A 00 01 5D  0E 02 04 00 22 80 80 25  stm0...]...."..%
+0E10: 0E 45 55 80 F0 FF FF 7F  F0 FF FF 7F 73 74 6D 30  .EU.........stm0
+0E20: 1A 00 01 5D 0E 02 04 00  0C 80 80 41 0E 45 55 80  ...].......A.EU.
+0E30: F0 FF FF 7F F0 FF FF 7F  73 6D 66 30 1A 00 01 5D  ........smf0...]
+0E40: 0E 02 04 00 2B 80 80 5D  0E 45 55 80 F0 FF FF 7F  ....+..].EU.....
+0E50: F0 FF FF 7F 73 67 6D 30  1A 00 01 5D 0E 01 80 0E  ....sgm0...]....
+0E60: 02 19 00 13 80 80 80 0E  03 1B 00 04 00 14 1B 00  ................
+0E70: 1D 80 07 1B 00 07 00 9D  07 CE 0F 1B 00 01 80 0E  ................
+0E80: 1B 02 19 00 01 80 80 5C  0F 02 04 00 13 80 80 A3  .......\........
+0E90: 0E 55 55 80 F0 FF FF 7F  F0 FF FF 7F 73 68 6D 30  .UU.........shm0
+0EA0: 01 59 0F 02 04 00 06 80  80 BD 0E 55 55 80 F0 FF  .Y.........UU...
+0EB0: FF 7F F0 FF FF 7F 73 68  66 30 01 59 0F 02 04 00  ......shf0.Y....
+0EC0: 03 80 80 D7 0E 55 55 80  F0 FF FF 7F F0 FF FF 7F  .....UU.........
+0ED0: 73 65 6D 30 01 59 0F 02  04 00 1D 80 80 F1 0E 55  sem0.Y.........U
+0EE0: 55 80 F0 FF FF 7F F0 FF  FF 7F 73 65 66 30 01 59  U.........sef0.Y
+0EF0: 0F 02 04 00 21 80 80 0B  0F 55 55 80 F0 FF FF 7F  ....!....UU.....
+0F00: F0 FF FF 7F 73 74 6D 30  01 59 0F 02 04 00 22 80  ....stm0.Y....".
+0F10: 80 25 0F 55 55 80 F0 FF  FF 7F F0 FF FF 7F 73 74  .%.UU.........st
+0F20: 6D 30 01 59 0F 02 04 00  0C 80 80 3F 0F 55 55 80  m0.Y.......?.UU.
+0F30: F0 FF FF 7F F0 FF FF 7F  73 6D 66 30 01 59 0F 02  ........smf0.Y..
+0F40: 04 00 2B 80 80 59 0F 55  55 80 F0 FF FF 7F F0 FF  ..+..Y.UU.......
+0F50: FF 7F 73 67 6D 30 01 59  0F 01 7C 0F 02 19 00 13  ..sgm0.Y..|.....
+0F60: 80 80 7C 0F 03 1B 00 04  00 14 1B 00 1D 80 07 1B  ..|.............
+0F70: 00 07 00 9D 07 1E 10 1B  00 01 7C 0F 1B 02 5F 10  ..........|..._.
+0F80: 01 80 00 8B 0F 1C 13 80  01 7D 0F 1B 45 1A 80 F8  .........}..E...
+0F90: FF FF 7F F8 FF FF 7F 66  64 69 31 01 80 55 1A 80  .......fdi1..U..
+0FA0: F8 FF FF 7F F8 FF FF 7F  66 64 69 31 1B 45 1A 80  ........fdi1.E..
+0FB0: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 01 80 55 1A  ........fdo1..U.
+0FC0: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 1B 6E 10  .........fdo1.n.
+0FD0: 6E 10 6E 10 6E 10 80 10  92 10 A4 10 6E 10 B6 10  n.n.n.......n...
+0FE0: C8 10 DA 10 6E 10 EC 10  FE 10 10 11 6E 10 22 11  ....n.......n.".
+0FF0: 34 11 46 11 6E 10 58 11  6A 11 7C 11 6E 10 8E 11  4.F.n.X.j.|.n...
+1000: A0 11 B2 11 6E 10 C4 11  D6 11 E8 11 6E 10 FA 11  ....n.......n...
+1010: 0C 12 1E 12 6E 10 6E 10  6E 10 6E 10 6E 10 6E 10  ....n.n.n.n.n.n.
+1020: 6E 10 6E 10 6E 10 30 12  40 12 50 12 6E 10 60 12  n.n.n.0.@.P.n.`.
+1030: 70 12 80 12 6E 10 90 12  A0 12 B0 12 6E 10 C0 12  p...n.......n...
+1040: D0 12 E0 12 6E 10 F0 12  00 13 10 13 6E 10 20 13  ....n.......n. .
+1050: 30 13 40 13 6E 10 50 13  60 13 70 13 6E 10 80 13  0.@.n.P.`.p.n...
+1060: 90 13 A0 13 6E 10 6E 10  6E 10 6E 10 6E 10 45 1A  ....n.n.n.n.n.E.
+1070: 80 F0 FF FF 7F F0 FF FF  7F 63 30 36 69 1A 00 1B  .........c06i...
+1080: 45 55 80 F0 FF FF 7F F0  FF FF 7F 73 68 6D 31 1A  EU.........shm1.
+1090: 00 1B 45 55 80 F0 FF FF  7F F0 FF FF 7F 73 68 6D  ..EU.........shm
+10A0: 32 1A 00 1B 45 55 80 F0  FF FF 7F F0 FF FF 7F 73  2...EU.........s
+10B0: 68 6D 33 1A 00 1B 45 55  80 F0 FF FF 7F F0 FF FF  hm3...EU........
+10C0: 7F 73 68 66 31 1A 00 1B  45 55 80 F0 FF FF 7F F0  .shf1...EU......
+10D0: FF FF 7F 73 68 66 32 1A  00 1B 45 55 80 F0 FF FF  ...shf2...EU....
+10E0: 7F F0 FF FF 7F 73 68 66  33 1A 00 1B 45 55 80 F0  .....shf3...EU..
+10F0: FF FF 7F F0 FF FF 7F 73  65 6D 31 1A 00 1B 45 55  .......sem1...EU
+1100: 80 F0 FF FF 7F F0 FF FF  7F 73 65 6D 32 1A 00 1B  .........sem2...
+1110: 45 55 80 F0 FF FF 7F F0  FF FF 7F 73 65 6D 33 1A  EU.........sem3.
+1120: 00 1B 45 55 80 F0 FF FF  7F F0 FF FF 7F 73 65 66  ..EU.........sef
+1130: 31 1A 00 1B 45 55 80 F0  FF FF 7F F0 FF FF 7F 73  1...EU.........s
+1140: 65 66 32 1A 00 1B 45 55  80 F0 FF FF 7F F0 FF FF  ef2...EU........
+1150: 7F 73 65 66 33 1A 00 1B  45 55 80 F0 FF FF 7F F0  .sef3...EU......
+1160: FF FF 7F 73 74 6D 31 1A  00 1B 45 55 80 F0 FF FF  ...stm1...EU....
+1170: 7F F0 FF FF 7F 73 74 6D  32 1A 00 1B 45 55 80 F0  .....stm2...EU..
+1180: FF FF 7F F0 FF FF 7F 73  74 6D 33 1A 00 1B 45 55  .......stm3...EU
+1190: 80 F0 FF FF 7F F0 FF FF  7F 73 74 6D 31 1A 00 1B  .........stm1...
+11A0: 45 55 80 F0 FF FF 7F F0  FF FF 7F 73 74 6D 32 1A  EU.........stm2.
+11B0: 00 1B 45 55 80 F0 FF FF  7F F0 FF FF 7F 73 74 6D  ..EU.........stm
+11C0: 33 1A 00 1B 45 55 80 F0  FF FF 7F F0 FF FF 7F 73  3...EU.........s
+11D0: 6D 66 31 1A 00 1B 45 55  80 F0 FF FF 7F F0 FF FF  mf1...EU........
+11E0: 7F 73 6D 66 32 1A 00 1B  45 55 80 F0 FF FF 7F F0  .smf2...EU......
+11F0: FF FF 7F 73 6D 66 33 1A  00 1B 45 55 80 F0 FF FF  ...smf3...EU....
+1200: 7F F0 FF FF 7F 73 67 6D  31 1A 00 1B 45 55 80 F0  .....sgm1...EU..
+1210: FF FF 7F F0 FF FF 7F 73  67 6D 32 1A 00 1B 45 55  .......sgm2...EU
+1220: 80 F0 FF FF 7F F0 FF FF  7F 73 67 6D 33 1A 00 1B  .........sgm3...
+1230: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 68 6D 31 1B  UU.........shm1.
+1240: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 68 6D 32 1B  UU.........shm2.
+1250: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 68 6D 33 1B  UU.........shm3.
+1260: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 68 66 31 1B  UU.........shf1.
+1270: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 68 66 32 1B  UU.........shf2.
+1280: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 68 66 33 1B  UU.........shf3.
+1290: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 65 6D 31 1B  UU.........sem1.
+12A0: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 65 6D 32 1B  UU.........sem2.
+12B0: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 65 6D 33 1B  UU.........sem3.
+12C0: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 65 66 31 1B  UU.........sef1.
+12D0: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 65 66 32 1B  UU.........sef2.
+12E0: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 65 66 33 1B  UU.........sef3.
+12F0: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 74 6D 31 1B  UU.........stm1.
+1300: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 74 6D 32 1B  UU.........stm2.
+1310: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 74 6D 33 1B  UU.........stm3.
+1320: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 74 6D 31 1B  UU.........stm1.
+1330: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 74 6D 32 1B  UU.........stm2.
+1340: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 74 6D 33 1B  UU.........stm3.
+1350: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 6D 66 31 1B  UU.........smf1.
+1360: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 6D 66 32 1B  UU.........smf2.
+1370: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 6D 66 33 1B  UU.........smf3.
+1380: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 67 6D 31 1B  UU.........sgm1.
+1390: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 67 6D 32 1B  UU.........sgm2.
+13A0: 55 55 80 F0 FF FF 7F F0  FF FF 7F 73 67 6D 33 1B  UU.........sgm3.
+```
+
+#### Opcodes
+
+```
+  0: 0x0042 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0043 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  2: 0x0048 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
+  3: 0x004D [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[4]
+  4: 0x0052 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[5]
+  5: 0x0057 [0x03] ExtData[1]->WorkLocal[4] = ExtData[1]->WorkLocal[0]
+  6: 0x005C [0x03] ExtData[1]->WorkLocal[5] = ExtData[1]->WorkLocal[1]
+  7: 0x0061 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[2]
+  8: 0x0066 [0x03] ExtData[1]->WorkLocal[7] = ExtData[1]->WorkLocal[3]
+  9: 0x006B [0x03] Work_Zone[91] = ExtData[1]->WorkLocal[0]
+ 10: 0x0070 [0x03] Work_Zone[92] = ExtData[1]->WorkLocal[1]
+ 11: 0x0075 [0x03] Work_Zone[94] = ExtData[1]->WorkLocal[3]
+ 12: 0x007A [0x03] Work_Zone[93] = ExtData[1]->WorkLocal[2]
+ 13: 0x007F [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[7]
+ 14: 0x0084 [0x1E] EventEntity looks at LocalPlayer and starts talking
+ 15: 0x0089 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 16: 0x008A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+ 17: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=14157*)
+    → "Welcome to the Race Change service, kupo!"
+ 18: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 19: 0x008F [0x02] IF !(Work_Zone[6] <= 0*) GOTO 0x00A5
+ 20: 0x0097 [0x1A] CALL_SUBROUTINE(address=0x0AF4)
+ 21: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=14166*)
+    → "Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!"
+ 22: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 23: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=14167*)
+    → "Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!"
+ 24: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 25: 0x00A2 [0x01] GOTO 0x00C3
+ 26: 0x00A5 [0x02] IF !(Work_Zone[6] == 4294967295*) GOTO 0x00B0
+ 27: 0x00AD [0x01] GOTO 0x00C3
+ 28: 0x00B0 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 0*) GOTO 0x00BE
+ 29: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14160*)
+    → "If you have any dancer gender-specific armor, I can exchange them for ones that better suit your new form, kupo!"
+ 30: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 31: 0x00BB [0x01] GOTO 0x00C2
+ 32: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=14158*)
+    → "Please check the official website for more details regarding our service."
+ 33: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_00C2:
+ 34: 0x00C2 [0x21] END_EVENT
+
+SUBROUTINE_00C3:
+ 35: 0x00C3 [0x1A] CALL_SUBROUTINE(address=0x0FAD)
+ 36: 0x00C6 [0x03] Work_Zone[1] = 0*
+ 37: 0x00CB [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=2*)
+ 38: 0x00D4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 39: 0x00D6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 40: 0x00D8 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[2]
+ 41: 0x00DD [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[3]
+ 42: 0x00E2 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[4]
+ 43: 0x00E7 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[5]
+ 44: 0x00EC [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[6]
+ 45: 0x00F1 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[7]
+ 46: 0x00F6 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[8]
+ 47: 0x00FB [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[9]
+ 48: 0x0100 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17743971/0x010EC063)
+ 49: 0x0106 [0x46] CAMERA_CONTROL: Disable user control
+ 50: 0x0108 [0x1C] WAIT(120* ticks)
+ 51: 0x010B [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 52: 0x010E [0x03] Work_Zone[90] = 169*
+ 53: 0x0113 [0x34] LOAD_UNLOAD_ZONE(zone_id=744*)
+ 54: 0x0116 [0x1C] WAIT(30* ticks)
+ 55: 0x0119 [0x77] SET_EVENT_TIME_WEATHER(hour=11*, weather=1*)
+ 56: 0x011E [0x4E] SET_ENTITY_HIDE_FLAG: Hide EventEntity
+ 57: 0x0124 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=0.000*, pos_z=0.000*, pos_y=0.000*, direction=0.0°*)
+ 58: 0x0131 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+ 59: 0x0137 [0x03] ExtData[1]->WorkLocal[21] = 1500*
+ 60: 0x013C [0x03] ExtData[1]->WorkLocal[20] = 192*
+ 61: 0x0141 [0x2F] Previous Race (ID: 17744240/0x010EC170)->Render.Flags0 &= ~0x80000 // Bit 19
+ 62: 0x0147 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Previous Race (ID: 17744240/0x010EC170), tag_num=0x02)
+ 63: 0x014E [0xBA] SET_ENTITY_POSITION(entity_id=Previous Race (ID: 17744240/0x010EC170), pos_x=0.000*, pos_z=ExtData[1]->WorkLocal[21], pos_y=0.000*, direction=ExtData[1]->WorkLocal[20])
+ 64: 0x015B [0x80] LOAD_WAIT(entity=Previous Race (ID: 17744240/0x010EC170))
+ 65: 0x0160 [0x03] ExtData[1]->WorkLocal[23] = 2*
+ 66: 0x0165 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Previous Race (ID: 17744240/0x010EC170)
+ 67: 0x016B [0x1C] WAIT(60* ticks)
+ 68: 0x016E [0x2F] Unknown NPC (ID: 17744239/0x010EC16F)->Render.Flags0 &= ~0x80000 // Bit 19
+ 69: 0x0174 [0x1C] WAIT(60* ticks)
+ 70: 0x0177 [0x03] ExtData[1]->WorkLocal[24] = 0*
+ 71: 0x017C [0x1A] CALL_SUBROUTINE(address=0x0C46)
+ 72: 0x017F [0x1A] CALL_SUBROUTINE(address=0x0D02)
+ 73: 0x0182 [0x03] ExtData[1]->WorkLocal[25] = 0*
+ 74: 0x0187 [0x03] ExtData[1]->WorkLocal[26] = 0*
+ 75: 0x018C [0x1A] CALL_SUBROUTINE(address=0x0D61)
+ 76: 0x018F [0x1A] CALL_SUBROUTINE(address=0x0E81)
+ 77: 0x0192 [0x1A] CALL_SUBROUTINE(address=0x0F8C)
+ 78: 0x0195 [0x1A] CALL_SUBROUTINE(address=0x01F4)
+ 79: 0x0198 [0x1A] CALL_SUBROUTINE(address=0x0FAD)
+ 80: 0x019B [0x1C] WAIT(120* ticks)
+ 81: 0x019E [0x1A] CALL_SUBROUTINE(address=0x0C99)
+ 82: 0x01A1 [0x46] CAMERA_CONTROL: Restore default settings
+ 83: 0x01A3 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 152*
+ 84: 0x01A7 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 152*
+ 85: 0x01AB [0x35] LOAD_ZONE_NO_CLOSE(zone_id=236*)
+ 86: 0x01AE [0xB6] ENTITY_APPEARANCE_HANDLER(case=Test validity)
+ 87: 0x01B0 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17743971/0x010EC063)
+ 88: 0x01B6 [0xAB] EventEntity->DespawnValue = 0* // Set despawn value
+ 89: 0x01BA [0xAB] EventEntity->UnknownFlag = 0 // Disable unknown flag
+ 90: 0x01BC [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+ 91: 0x01BD [0x1C] WAIT(60* ticks)
+ 92: 0x01C0 [0x02] IF !(Work_Zone[1] == 1073741824*) GOTO 0x01DF
+ 93: 0x01C8 [0x1C] WAIT(60* ticks)
+ 94: 0x01CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 95: 0x01DC [0x01] GOTO 0x01F0
+ 96: 0x01DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+
+SUBROUTINE_01F0:
+ 97: 0x01F0 [0x46] CAMERA_CONTROL: Restore default settings
+ 98: 0x01F2 [0x21] END_EVENT
+ 99: 0x01F3 [0x00] END_REQSTACK()
+
+SUBROUTINE_01F4:
+100: 0x01F4 [0x05] ExtData[1]->WorkLocal[30] = 1
+
+SUBROUTINE_01F7:
+101: 0x01F7 [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x04CF
+102: 0x01FF [0x03] ExtData[1]->WorkLocal[32] = 0*
+103: 0x0204 [0x02] IF !(ExtData[1]->WorkLocal[4] == ExtData[1]->WorkLocal[0]) GOTO 0x0214
+104: 0x020C [0x03] Work_Zone_1700[2] = 0*
+105: 0x0211 [0x01] GOTO 0x0220
+106: 0x0214 [0x03] Work_Zone_1700[2] = 1*
+107: 0x0219 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[32], bit_index_work_offset=0*, condition_work_offset=1*)
+
+SUBROUTINE_0220:
+108: 0x0220 [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[1]) GOTO 0x0230
+109: 0x0228 [0x03] Work_Zone_1700[3] = 0*
+110: 0x022D [0x01] GOTO 0x023C
+111: 0x0230 [0x03] Work_Zone_1700[3] = 1*
+112: 0x0235 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[32], bit_index_work_offset=1*, condition_work_offset=1*)
+
+SUBROUTINE_023C:
+113: 0x023C [0x02] IF !(ExtData[1]->WorkLocal[6] == ExtData[1]->WorkLocal[2]) GOTO 0x024C
+114: 0x0244 [0x03] Work_Zone_1700[4] = 0*
+115: 0x0249 [0x01] GOTO 0x0258
+116: 0x024C [0x03] Work_Zone_1700[4] = 1*
+117: 0x0251 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[32], bit_index_work_offset=2*, condition_work_offset=1*)
+
+SUBROUTINE_0258:
+118: 0x0258 [0x02] IF !(ExtData[1]->WorkLocal[7] == ExtData[1]->WorkLocal[3]) GOTO 0x0268
+119: 0x0260 [0x03] Work_Zone_1700[5] = 0*
+120: 0x0265 [0x01] GOTO 0x0274
+121: 0x0268 [0x03] Work_Zone_1700[5] = 1*
+122: 0x026D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[32], bit_index_work_offset=3*, condition_work_offset=1*)
+
+SUBROUTINE_0274:
+123: 0x0274 [0x02] IF !(ExtData[1]->WorkLocal[25] == 4294967295*) GOTO 0x0284
+124: 0x027C [0x03] Work_Zone_1700[6] = 1*
+125: 0x0281 [0x01] GOTO 0x0289
+126: 0x0284 [0x03] Work_Zone_1700[6] = 0*
+
+SUBROUTINE_0289:
+127: 0x0289 [0x24] CREATE_DIALOG(message_id=14168*, default_option=ExtData[1]->WorkLocal[31], option_flags=0*)
+    → "Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]"
+128: 0x0290 [0x25] WAIT_DIALOG_SELECT()
+129: 0x0291 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B7
+130: 0x0299 [0x03] ExtData[1]->WorkLocal[31] = 0*
+131: 0x029E [0x02] IF !(ExtData[1]->WorkLocal[25] == 4294967295*) GOTO 0x02AE
+132: 0x02A6 [0x03] ExtData[1]->WorkLocal[25] = 0*
+133: 0x02AB [0x1A] CALL_SUBROUTINE(address=0x0D61)
+134: 0x02AE [0x1A] CALL_SUBROUTINE(address=0x0D61)
+135: 0x02B1 [0x1A] CALL_SUBROUTINE(address=0x04D0)
+136: 0x02B4 [0x01] GOTO 0x04CC
+137: 0x02B7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02DA
+138: 0x02BF [0x03] ExtData[1]->WorkLocal[31] = 1*
+139: 0x02C4 [0x02] IF !(ExtData[1]->WorkLocal[25] == 4294967295*) GOTO 0x02D4
+140: 0x02CC [0x03] ExtData[1]->WorkLocal[25] = 1*
+141: 0x02D1 [0x1A] CALL_SUBROUTINE(address=0x0D61)
+142: 0x02D4 [0x1A] CALL_SUBROUTINE(address=0x06B8)
+143: 0x02D7 [0x01] GOTO 0x04CC
+144: 0x02DA [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0300
+145: 0x02E2 [0x03] ExtData[1]->WorkLocal[31] = 2*
+146: 0x02E7 [0x02] IF !(ExtData[1]->WorkLocal[25] == 4294967295*) GOTO 0x02F7
+147: 0x02EF [0x03] ExtData[1]->WorkLocal[25] = 1*
+148: 0x02F4 [0x1A] CALL_SUBROUTINE(address=0x0D61)
+149: 0x02F7 [0x1A] CALL_SUBROUTINE(address=0x0D61)
+150: 0x02FA [0x1A] CALL_SUBROUTINE(address=0x08A0)
+151: 0x02FD [0x01] GOTO 0x04CC
+152: 0x0300 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0323
+153: 0x0308 [0x03] ExtData[1]->WorkLocal[31] = 3*
+154: 0x030D [0x02] IF !(ExtData[1]->WorkLocal[25] == 4294967295*) GOTO 0x031D
+155: 0x0315 [0x03] ExtData[1]->WorkLocal[25] = 0*
+156: 0x031A [0x1A] CALL_SUBROUTINE(address=0x0D61)
+157: 0x031D [0x1A] CALL_SUBROUTINE(address=0x0938)
+158: 0x0320 [0x01] GOTO 0x04CC
+159: 0x0323 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x036A
+160: 0x032B [0x03] ExtData[1]->WorkLocal[31] = 4*
+161: 0x0330 [0x1A] CALL_SUBROUTINE(address=0x0FAD)
+162: 0x0333 [0x02] IF !(ExtData[1]->WorkLocal[25] == 4294967295*) GOTO 0x0354
+163: 0x033B [0x48] [System] [14169*]:
+    → "You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera."
+164: 0x033E [0x23] WAIT_FOR_DIALOG_INTERACTION
+165: 0x033F [0x1C] WAIT(60* ticks)
+166: 0x0342 [0x46] CAMERA_CONTROL: Restore default settings
+167: 0x0344 [0x46] CAMERA_CONTROL: Unknown mode 0x3
+168: 0x0346 [0x1F] MOVE_ENTITY: Update entity position (mode=128)
+169: 0x0348 [0x20] SET_CLI_EVENT_UC_FLAG: Unknown flag value 0x80
+170: 0x034A [0x01] GOTO 0x0380
+
+SUBROUTINE_048D:
+171: 0x048D [0x01] GOTO 0x0490
+
+SUBROUTINE_0490:
+172: 0x0490 [0x01] GOTO 0x0497
+173: 0x0493 [0x48] [System] [14177*]:
+    → "You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes."
+174: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0497:
+175: 0x0497 [0x01] GOTO 0x04CC
+176: 0x049A [0x02] IF !(Work_Zone[0] == 999*) GOTO 0x04A5
+177: 0x04A2 [0x01] GOTO 0x04CC
+178: 0x04A5 [0x03] ExtData[1]->WorkLocal[31] = Work_Zone[0]
+179: 0x04AA [0x1A] CALL_SUBROUTINE(address=0x0B52)
+180: 0x04AD [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x04CC
+181: 0x04B5 [0x1A] CALL_SUBROUTINE(address=0x0FAD)
+182: 0x04B8 [0x1C] WAIT(120* ticks)
+183: 0x04BB [0x03] Work_Zone[90] = 0*
+184: 0x04C0 [0x1C] WAIT(60* ticks)
+185: 0x04C3 [0x06] ExtData[1]->WorkLocal[30] = 0
+186: 0x04C6 [0x03] Work_Zone[1] = 1073741824*
+187: 0x04CB [0x1B] RETURN
+
+SUBROUTINE_04CC:
+188: 0x04CC [0x01] GOTO 0x01F7
+189: 0x04CF [0x1B] RETURN
+
+SUBROUTINE_04D0:
+190: 0x04D0 [0x05] ExtData[1]->WorkLocal[33] = 1
+
+SUBROUTINE_04D3:
+191: 0x04D3 [0x02] IF !(ExtData[1]->WorkLocal[33] == 0*) GOTO 0x06B7
+192: 0x04DB [0x1A] CALL_SUBROUTINE(address=0x0BAD)
+193: 0x04DE [0x03] Work_Zone_1700[3] = 0*
+194: 0x04E3 [0x03] Work_Zone_1700[4] = 0*
+195: 0x04E8 [0x03] Work_Zone_1700[5] = 0*
+196: 0x04ED [0x03] Work_Zone_1700[6] = 0*
+197: 0x04F2 [0x03] Work_Zone_1700[7] = 0*
+198: 0x04F7 [0x03] Work_Zone_1700[8] = 0*
+199: 0x04FC [0x03] Work_Zone_1700[9] = 0*
+200: 0x0501 [0x03] Work_Zone_1700[10] = 0*
+201: 0x0506 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0516
+202: 0x050E [0x03] Work_Zone_1700[3] = 2*
+203: 0x0513 [0x01] GOTO 0x0586
+204: 0x0516 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0526
+205: 0x051E [0x03] Work_Zone_1700[4] = 2*
+206: 0x0523 [0x01] GOTO 0x0586
+207: 0x0526 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0536
+208: 0x052E [0x03] Work_Zone_1700[5] = 2*
+209: 0x0533 [0x01] GOTO 0x0586
+210: 0x0536 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0546
+211: 0x053E [0x03] Work_Zone_1700[6] = 2*
+212: 0x0543 [0x01] GOTO 0x0586
+213: 0x0546 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0556
+214: 0x054E [0x03] Work_Zone_1700[7] = 2*
+215: 0x0553 [0x01] GOTO 0x0586
+216: 0x0556 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0566
+217: 0x055E [0x03] Work_Zone_1700[8] = 2*
+218: 0x0563 [0x01] GOTO 0x0586
+219: 0x0566 [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x0576
+220: 0x056E [0x03] Work_Zone_1700[9] = 2*
+221: 0x0573 [0x01] GOTO 0x0586
+222: 0x0576 [0x02] IF !(ExtData[1]->WorkLocal[0] == 8*) GOTO 0x0586
+223: 0x057E [0x03] Work_Zone_1700[10] = 2*
+224: 0x0583 [0x01] GOTO 0x0586
+
+SUBROUTINE_0586:
+225: 0x0586 [0x02] IF !(ExtData[1]->WorkLocal[4] == ExtData[1]->WorkLocal[0]) GOTO 0x060E
+226: 0x058E [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x059E
+227: 0x0596 [0x03] Work_Zone_1700[3] = 1*
+228: 0x059B [0x01] GOTO 0x060E
+229: 0x059E [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x05AE
+230: 0x05A6 [0x03] Work_Zone_1700[4] = 1*
+231: 0x05AB [0x01] GOTO 0x060E
+232: 0x05AE [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x05BE
+233: 0x05B6 [0x03] Work_Zone_1700[5] = 1*
+234: 0x05BB [0x01] GOTO 0x060E
+235: 0x05BE [0x02] IF !(ExtData[1]->WorkLocal[4] == 4*) GOTO 0x05CE
+236: 0x05C6 [0x03] Work_Zone_1700[6] = 1*
+237: 0x05CB [0x01] GOTO 0x060E
+238: 0x05CE [0x02] IF !(ExtData[1]->WorkLocal[4] == 5*) GOTO 0x05DE
+239: 0x05D6 [0x03] Work_Zone_1700[7] = 1*
+240: 0x05DB [0x01] GOTO 0x060E
+241: 0x05DE [0x02] IF !(ExtData[1]->WorkLocal[4] == 6*) GOTO 0x05EE
+242: 0x05E6 [0x03] Work_Zone_1700[8] = 1*
+243: 0x05EB [0x01] GOTO 0x060E
+244: 0x05EE [0x02] IF !(ExtData[1]->WorkLocal[4] == 7*) GOTO 0x05FE
+245: 0x05F6 [0x03] Work_Zone_1700[9] = 1*
+246: 0x05FB [0x01] GOTO 0x060E
+247: 0x05FE [0x02] IF !(ExtData[1]->WorkLocal[4] == 8*) GOTO 0x060E
+248: 0x0606 [0x03] Work_Zone_1700[10] = 1*
+249: 0x060B [0x01] GOTO 0x060E
+
+SUBROUTINE_060E:
+250: 0x060E [0x24] CREATE_DIALOG(message_id=14172*, default_option=ExtData[1]->WorkLocal[34], option_flags=0*)
+    → "Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]"
+251: 0x0615 [0x25] WAIT_DIALOG_SELECT()
+252: 0x0616 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0629
+253: 0x061E [0x03] ExtData[1]->WorkLocal[4] = 1*
+254: 0x0623 [0x1A] CALL_SUBROUTINE(address=0x0C33)
+255: 0x0626 [0x01] GOTO 0x06AF
+256: 0x0629 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x063C
+257: 0x0631 [0x03] ExtData[1]->WorkLocal[4] = 2*
+258: 0x0636 [0x1A] CALL_SUBROUTINE(address=0x0C33)
+259: 0x0639 [0x01] GOTO 0x06AF
+260: 0x063C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x064F
+261: 0x0644 [0x03] ExtData[1]->WorkLocal[4] = 3*
+262: 0x0649 [0x1A] CALL_SUBROUTINE(address=0x0C33)
+263: 0x064C [0x01] GOTO 0x06AF
+264: 0x064F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0662
+265: 0x0657 [0x03] ExtData[1]->WorkLocal[4] = 4*
+266: 0x065C [0x1A] CALL_SUBROUTINE(address=0x0C33)
+267: 0x065F [0x01] GOTO 0x06AF
+268: 0x0662 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0675
+269: 0x066A [0x03] ExtData[1]->WorkLocal[4] = 5*
+270: 0x066F [0x1A] CALL_SUBROUTINE(address=0x0C33)
+271: 0x0672 [0x01] GOTO 0x06AF
+272: 0x0675 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0688
+273: 0x067D [0x03] ExtData[1]->WorkLocal[4] = 6*
+274: 0x0682 [0x1A] CALL_SUBROUTINE(address=0x0C33)
+275: 0x0685 [0x01] GOTO 0x06AF
+276: 0x0688 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x069B
+277: 0x0690 [0x03] ExtData[1]->WorkLocal[4] = 7*
+278: 0x0695 [0x1A] CALL_SUBROUTINE(address=0x0C33)
+279: 0x0698 [0x01] GOTO 0x06AF
+280: 0x069B [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x06AE
+281: 0x06A3 [0x03] ExtData[1]->WorkLocal[4] = 8*
+282: 0x06A8 [0x1A] CALL_SUBROUTINE(address=0x0C33)
+283: 0x06AB [0x01] GOTO 0x06AF
+284: 0x06AE [0x1B] RETURN
+
+SUBROUTINE_06AF:
+285: 0x06AF [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[0]
+286: 0x06B4 [0x01] GOTO 0x04D3
+287: 0x06B7 [0x1B] RETURN
+
+SUBROUTINE_06B8:
+288: 0x06B8 [0x05] ExtData[1]->WorkLocal[35] = 1
+
+SUBROUTINE_06BB:
+289: 0x06BB [0x02] IF !(ExtData[1]->WorkLocal[35] == 0*) GOTO 0x089F
+290: 0x06C3 [0x1A] CALL_SUBROUTINE(address=0x0BAD)
+291: 0x06C6 [0x03] Work_Zone_1700[3] = 0*
+292: 0x06CB [0x03] Work_Zone_1700[4] = 0*
+293: 0x06D0 [0x03] Work_Zone_1700[5] = 0*
+294: 0x06D5 [0x03] Work_Zone_1700[6] = 0*
+295: 0x06DA [0x03] Work_Zone_1700[7] = 0*
+296: 0x06DF [0x03] Work_Zone_1700[8] = 0*
+297: 0x06E4 [0x03] Work_Zone_1700[9] = 0*
+298: 0x06E9 [0x03] Work_Zone_1700[10] = 0*
+299: 0x06EE [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x06FE
+300: 0x06F6 [0x03] Work_Zone_1700[3] = 2*
+301: 0x06FB [0x01] GOTO 0x076E
+302: 0x06FE [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x070E
+303: 0x0706 [0x03] Work_Zone_1700[4] = 2*
+304: 0x070B [0x01] GOTO 0x076E
+305: 0x070E [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x071E
+306: 0x0716 [0x03] Work_Zone_1700[5] = 2*
+307: 0x071B [0x01] GOTO 0x076E
+308: 0x071E [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x072E
+309: 0x0726 [0x03] Work_Zone_1700[6] = 2*
+310: 0x072B [0x01] GOTO 0x076E
+311: 0x072E [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x073E
+312: 0x0736 [0x03] Work_Zone_1700[7] = 2*
+313: 0x073B [0x01] GOTO 0x076E
+314: 0x073E [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x074E
+315: 0x0746 [0x03] Work_Zone_1700[8] = 2*
+316: 0x074B [0x01] GOTO 0x076E
+317: 0x074E [0x02] IF !(ExtData[1]->WorkLocal[1] == 6*) GOTO 0x075E
+318: 0x0756 [0x03] Work_Zone_1700[9] = 2*
+319: 0x075B [0x01] GOTO 0x076E
+320: 0x075E [0x02] IF !(ExtData[1]->WorkLocal[1] == 7*) GOTO 0x076E
+321: 0x0766 [0x03] Work_Zone_1700[10] = 2*
+322: 0x076B [0x01] GOTO 0x076E
+
+SUBROUTINE_076E:
+323: 0x076E [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[1]) GOTO 0x07F6
+324: 0x0776 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0786
+325: 0x077E [0x03] Work_Zone_1700[3] = 1*
+326: 0x0783 [0x01] GOTO 0x07F6
+327: 0x0786 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0796
+328: 0x078E [0x03] Work_Zone_1700[4] = 1*
+329: 0x0793 [0x01] GOTO 0x07F6
+330: 0x0796 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x07A6
+331: 0x079E [0x03] Work_Zone_1700[5] = 1*
+332: 0x07A3 [0x01] GOTO 0x07F6
+333: 0x07A6 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x07B6
+334: 0x07AE [0x03] Work_Zone_1700[6] = 1*
+335: 0x07B3 [0x01] GOTO 0x07F6
+336: 0x07B6 [0x02] IF !(ExtData[1]->WorkLocal[5] == 4*) GOTO 0x07C6
+337: 0x07BE [0x03] Work_Zone_1700[7] = 1*
+338: 0x07C3 [0x01] GOTO 0x07F6
+339: 0x07C6 [0x02] IF !(ExtData[1]->WorkLocal[5] == 5*) GOTO 0x07D6
+340: 0x07CE [0x03] Work_Zone_1700[8] = 1*
+341: 0x07D3 [0x01] GOTO 0x07F6
+342: 0x07D6 [0x02] IF !(ExtData[1]->WorkLocal[5] == 6*) GOTO 0x07E6
+343: 0x07DE [0x03] Work_Zone_1700[9] = 1*
+344: 0x07E3 [0x01] GOTO 0x07F6
+345: 0x07E6 [0x02] IF !(ExtData[1]->WorkLocal[5] == 7*) GOTO 0x07F6
+346: 0x07EE [0x03] Work_Zone_1700[10] = 1*
+347: 0x07F3 [0x01] GOTO 0x07F6
+
+SUBROUTINE_07F6:
+348: 0x07F6 [0x24] CREATE_DIALOG(message_id=14173*, default_option=ExtData[1]->WorkLocal[36], option_flags=0*)
+    → "Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]"
+349: 0x07FD [0x25] WAIT_DIALOG_SELECT()
+350: 0x07FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0811
+351: 0x0806 [0x03] ExtData[1]->WorkLocal[5] = 0*
+352: 0x080B [0x1A] CALL_SUBROUTINE(address=0x0C46)
+353: 0x080E [0x01] GOTO 0x0897
+354: 0x0811 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0824
+355: 0x0819 [0x03] ExtData[1]->WorkLocal[5] = 1*
+356: 0x081E [0x1A] CALL_SUBROUTINE(address=0x0C46)
+357: 0x0821 [0x01] GOTO 0x0897
+358: 0x0824 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0837
+359: 0x082C [0x03] ExtData[1]->WorkLocal[5] = 2*
+360: 0x0831 [0x1A] CALL_SUBROUTINE(address=0x0C46)
+361: 0x0834 [0x01] GOTO 0x0897
+362: 0x0837 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x084A
+363: 0x083F [0x03] ExtData[1]->WorkLocal[5] = 3*
+364: 0x0844 [0x1A] CALL_SUBROUTINE(address=0x0C46)
+365: 0x0847 [0x01] GOTO 0x0897
+366: 0x084A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x085D
+367: 0x0852 [0x03] ExtData[1]->WorkLocal[5] = 4*
+368: 0x0857 [0x1A] CALL_SUBROUTINE(address=0x0C46)
+369: 0x085A [0x01] GOTO 0x0897
+370: 0x085D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0870
+371: 0x0865 [0x03] ExtData[1]->WorkLocal[5] = 5*
+372: 0x086A [0x1A] CALL_SUBROUTINE(address=0x0C46)
+373: 0x086D [0x01] GOTO 0x0897
+374: 0x0870 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0883
+375: 0x0878 [0x03] ExtData[1]->WorkLocal[5] = 6*
+376: 0x087D [0x1A] CALL_SUBROUTINE(address=0x0C46)
+377: 0x0880 [0x01] GOTO 0x0897
+378: 0x0883 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0896
+379: 0x088B [0x03] ExtData[1]->WorkLocal[5] = 7*
+380: 0x0890 [0x1A] CALL_SUBROUTINE(address=0x0C46)
+381: 0x0893 [0x01] GOTO 0x0897
+382: 0x0896 [0x1B] RETURN
+
+SUBROUTINE_0897:
+383: 0x0897 [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[0]
+384: 0x089C [0x01] GOTO 0x06BB
+385: 0x089F [0x1B] RETURN
+
+SUBROUTINE_08A0:
+386: 0x08A0 [0x05] ExtData[1]->WorkLocal[37] = 1
+
+SUBROUTINE_08A3:
+387: 0x08A3 [0x02] IF !(ExtData[1]->WorkLocal[37] == 0*) GOTO 0x0937
+388: 0x08AB [0x1A] CALL_SUBROUTINE(address=0x0BAD)
+389: 0x08AE [0x03] Work_Zone_1700[3] = 0*
+390: 0x08B3 [0x03] Work_Zone_1700[4] = 0*
+391: 0x08B8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x08C8
+392: 0x08C0 [0x03] Work_Zone_1700[3] = 2*
+393: 0x08C5 [0x01] GOTO 0x08D8
+394: 0x08C8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x08D8
+395: 0x08D0 [0x03] Work_Zone_1700[4] = 2*
+396: 0x08D5 [0x01] GOTO 0x08D8
+
+SUBROUTINE_08D8:
+397: 0x08D8 [0x02] IF !(ExtData[1]->WorkLocal[6] == ExtData[1]->WorkLocal[2]) GOTO 0x0900
+398: 0x08E0 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x08F0
+399: 0x08E8 [0x03] Work_Zone_1700[3] = 1*
+400: 0x08ED [0x01] GOTO 0x0900
+401: 0x08F0 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0900
+402: 0x08F8 [0x03] Work_Zone_1700[4] = 1*
+403: 0x08FD [0x01] GOTO 0x0900
+
+SUBROUTINE_0900:
+404: 0x0900 [0x24] CREATE_DIALOG(message_id=14174*, default_option=ExtData[1]->WorkLocal[38], option_flags=0*)
+    → "Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]"
+405: 0x0907 [0x25] WAIT_DIALOG_SELECT()
+406: 0x0908 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x091B
+407: 0x0910 [0x03] ExtData[1]->WorkLocal[6] = 0*
+408: 0x0915 [0x1A] CALL_SUBROUTINE(address=0x0C46)
+409: 0x0918 [0x01] GOTO 0x092F
+410: 0x091B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x092E
+411: 0x0923 [0x03] ExtData[1]->WorkLocal[6] = 1*
+412: 0x0928 [0x1A] CALL_SUBROUTINE(address=0x0C46)
+413: 0x092B [0x01] GOTO 0x092F
+414: 0x092E [0x1B] RETURN
+
+SUBROUTINE_092F:
+415: 0x092F [0x03] ExtData[1]->WorkLocal[38] = Work_Zone[0]
+416: 0x0934 [0x01] GOTO 0x08A3
+417: 0x0937 [0x1B] RETURN
+
+SUBROUTINE_0938:
+418: 0x0938 [0x05] ExtData[1]->WorkLocal[39] = 1
+
+SUBROUTINE_093B:
+419: 0x093B [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x0A07
+420: 0x0943 [0x1A] CALL_SUBROUTINE(address=0x0BAD)
+421: 0x0946 [0x03] Work_Zone_1700[3] = 0*
+422: 0x094B [0x03] Work_Zone_1700[4] = 0*
+423: 0x0950 [0x03] Work_Zone_1700[5] = 0*
+424: 0x0955 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0965
+425: 0x095D [0x03] Work_Zone_1700[3] = 2*
+426: 0x0962 [0x01] GOTO 0x0985
+427: 0x0965 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0975
+428: 0x096D [0x03] Work_Zone_1700[4] = 2*
+429: 0x0972 [0x01] GOTO 0x0985
+430: 0x0975 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0985
+431: 0x097D [0x03] Work_Zone_1700[5] = 2*
+432: 0x0982 [0x01] GOTO 0x0985
+
+SUBROUTINE_0985:
+433: 0x0985 [0x02] IF !(ExtData[1]->WorkLocal[7] == ExtData[1]->WorkLocal[3]) GOTO 0x09BD
+434: 0x098D [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x099D
+435: 0x0995 [0x03] Work_Zone_1700[3] = 1*
+436: 0x099A [0x01] GOTO 0x09BD
+437: 0x099D [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x09AD
+438: 0x09A5 [0x03] Work_Zone_1700[4] = 1*
+439: 0x09AA [0x01] GOTO 0x09BD
+440: 0x09AD [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x09BD
+441: 0x09B5 [0x03] Work_Zone_1700[5] = 1*
+442: 0x09BA [0x01] GOTO 0x09BD
+
+SUBROUTINE_09BD:
+443: 0x09BD [0x24] CREATE_DIALOG(message_id=14175*, default_option=ExtData[1]->WorkLocal[40], option_flags=0*)
+    → "Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]"
+444: 0x09C4 [0x25] WAIT_DIALOG_SELECT()
+445: 0x09C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09D8
+446: 0x09CD [0x03] ExtData[1]->WorkLocal[7] = 0*
+447: 0x09D2 [0x1A] CALL_SUBROUTINE(address=0x0D02)
+448: 0x09D5 [0x01] GOTO 0x09FF
+449: 0x09D8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09EB
+450: 0x09E0 [0x03] ExtData[1]->WorkLocal[7] = 1*
+451: 0x09E5 [0x1A] CALL_SUBROUTINE(address=0x0D02)
+452: 0x09E8 [0x01] GOTO 0x09FF
+453: 0x09EB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x09FE
+454: 0x09F3 [0x03] ExtData[1]->WorkLocal[7] = 2*
+455: 0x09F8 [0x1A] CALL_SUBROUTINE(address=0x0D02)
+456: 0x09FB [0x01] GOTO 0x09FF
+457: 0x09FE [0x1B] RETURN
+
+SUBROUTINE_09FF:
+458: 0x09FF [0x03] ExtData[1]->WorkLocal[40] = Work_Zone[0]
+459: 0x0A04 [0x01] GOTO 0x093B
+460: 0x0A07 [0x1B] RETURN
+461: 0x0A08 [0x05] ExtData[1]->WorkLocal[41] = 1
+
+SUBROUTINE_0A0B:
+462: 0x0A0B [0x02] IF !(ExtData[1]->WorkLocal[41] == 0*) GOTO 0x0AF3
+463: 0x0A13 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[22]
+464: 0x0A18 [0x03] Work_Zone_1700[4] = ExtData[1]->WorkLocal[23]
+465: 0x0A1D [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[24]
+466: 0x0A22 [0x24] CREATE_DIALOG(message_id=14176*, default_option=ExtData[1]->WorkLocal[42], option_flags=0*)
+    → "Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]"
+467: 0x0A29 [0x25] WAIT_DIALOG_SELECT()
+468: 0x0A2A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A43
+469: 0x0A32 [0x03] ExtData[1]->WorkLocal[24] = 0*
+470: 0x0A37 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=128*, fade_time=30*)
+471: 0x0A40 [0x01] GOTO 0x0AEB
+472: 0x0A43 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A5C
+473: 0x0A4B [0x03] ExtData[1]->WorkLocal[24] = 1*
+474: 0x0A50 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=48*, fade_time=30*)
+475: 0x0A59 [0x01] GOTO 0x0AEB
+476: 0x0A5C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0A72
+477: 0x0A64 [0x03] ExtData[1]->WorkLocal[23] = 2*
+478: 0x0A69 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Previous Race (ID: 17744240/0x010EC170)
+479: 0x0A6F [0x01] GOTO 0x0AEB
+480: 0x0A72 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0A91
+481: 0x0A7A [0x03] ExtData[1]->WorkLocal[23] = 0*
+482: 0x0A7F [0x4E] SET_ENTITY_HIDE_FLAG: Show Previous Race (ID: 17744240/0x010EC170)
+483: 0x0A85 [0x6C] FADE_ENTITY_COLOR(entity_id=Previous Race (ID: 17744240/0x010EC170), end_alpha=128*, fade_time=30*)
+484: 0x0A8E [0x01] GOTO 0x0AEB
+485: 0x0A91 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0AB0
+486: 0x0A99 [0x03] ExtData[1]->WorkLocal[23] = 1*
+487: 0x0A9E [0x4E] SET_ENTITY_HIDE_FLAG: Show Previous Race (ID: 17744240/0x010EC170)
+488: 0x0AA4 [0x6C] FADE_ENTITY_COLOR(entity_id=Previous Race (ID: 17744240/0x010EC170), end_alpha=48*, fade_time=30*)
+489: 0x0AAD [0x01] GOTO 0x0AEB
+490: 0x0AB0 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0ACD
+491: 0x0AB8 [0x03] ExtData[1]->WorkLocal[22] = 1*
+492: 0x0ABD [0xBA] SET_ENTITY_POSITION(entity_id=Previous Race (ID: 17744240/0x010EC170), pos_x=0.000*, pos_z=0.000*, pos_y=0.000*, direction=0.0°*)
+493: 0x0ACA [0x01] GOTO 0x0AEB
+494: 0x0ACD [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0AEA
+495: 0x0AD5 [0x03] ExtData[1]->WorkLocal[22] = 0*
+496: 0x0ADA [0xBA] SET_ENTITY_POSITION(entity_id=Previous Race (ID: 17744240/0x010EC170), pos_x=0.000*, pos_z=ExtData[1]->WorkLocal[21], pos_y=0.000*, direction=ExtData[1]->WorkLocal[20])
+497: 0x0AE7 [0x01] GOTO 0x0AEB
+498: 0x0AEA [0x1B] RETURN
+
+SUBROUTINE_0AEB:
+499: 0x0AEB [0x03] ExtData[1]->WorkLocal[42] = Work_Zone[0]
+500: 0x0AF0 [0x01] GOTO 0x0A0B
+501: 0x0AF3 [0x1B] RETURN
+
+SUBROUTINE_0AF4:
+502: 0x0AF4 [0x03] ExtData[1]->WorkLocal[29] = Work_Zone[6]
+503: 0x0AF9 [0x15] ExtData[1]->WorkLocal[29] /= 86400*
+504: 0x0AFE [0x02] IF !(ExtData[1]->WorkLocal[29] < 1*) GOTO 0x0B12
+505: 0x0B06 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
+506: 0x0B0B [0x1D] PRINT_EVENT_MESSAGE(message_id=14161*)
+    → "You have $0 more day[/s] to use this service, kupo."
+507: 0x0B0E [0x23] WAIT_FOR_DIALOG_INTERACTION
+508: 0x0B0F [0x01] GOTO 0x0B51
+509: 0x0B12 [0x03] Work_Zone[2] = Work_Zone[6]
+510: 0x0B17 [0x15] Work_Zone[2] /= 3600*
+511: 0x0B1C [0x3F] Work_Zone[3] = Work_Zone[6] % 3600*
+512: 0x0B23 [0x15] Work_Zone[3] /= 60*
+513: 0x0B28 [0x3F] Work_Zone[4] = Work_Zone[6] % 60*
+514: 0x0B2F [0x02] IF !(Work_Zone[2] < 1*) GOTO 0x0B3E
+515: 0x0B37 [0x1D] PRINT_EVENT_MESSAGE(message_id=14162*)
+    → "You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo."
+516: 0x0B3A [0x23] WAIT_FOR_DIALOG_INTERACTION
+517: 0x0B3B [0x01] GOTO 0x0B51
+518: 0x0B3E [0x02] IF !(Work_Zone[3] < 1*) GOTO 0x0B4D
+519: 0x0B46 [0x1D] PRINT_EVENT_MESSAGE(message_id=14163*)
+    → "You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo."
+520: 0x0B49 [0x23] WAIT_FOR_DIALOG_INTERACTION
+521: 0x0B4A [0x01] GOTO 0x0B51
+522: 0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=14164*)
+    → "You have $2 second[/s] remaining to use this service, kupo."
+523: 0x0B50 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0B51:
+524: 0x0B51 [0x1B] RETURN
+
+SUBROUTINE_0B52:
+525: 0x0B52 [0x06] ExtData[1]->WorkLocal[43] = 0
+526: 0x0B55 [0x02] IF !(ExtData[1]->WorkLocal[4] == ExtData[1]->WorkLocal[0]) GOTO 0x0B60
+527: 0x0B5D [0x05] ExtData[1]->WorkLocal[43] = 1
+528: 0x0B60 [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[1]) GOTO 0x0B6B
+529: 0x0B68 [0x05] ExtData[1]->WorkLocal[43] = 1
+530: 0x0B6B [0x02] IF !(ExtData[1]->WorkLocal[6] == ExtData[1]->WorkLocal[2]) GOTO 0x0B76
+531: 0x0B73 [0x05] ExtData[1]->WorkLocal[43] = 1
+532: 0x0B76 [0x02] IF !(ExtData[1]->WorkLocal[7] == ExtData[1]->WorkLocal[3]) GOTO 0x0B81
+533: 0x0B7E [0x05] ExtData[1]->WorkLocal[43] = 1
+534: 0x0B81 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x0BA9
+535: 0x0B89 [0x48] [System] [14170*]:
+    → "You will lose your character's current appearance. Are you sure you want to exit the process?"
+536: 0x0B8C [0x23] WAIT_FOR_DIALOG_INTERACTION
+537: 0x0B8D [0x24] CREATE_DIALOG(message_id=14171*, default_option=1*, option_flags=0*)
+    → "Are you finished making changes? [Yes./No.]"
+538: 0x0B94 [0x25] WAIT_DIALOG_SELECT()
+539: 0x0B95 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BA3
+540: 0x0B9D [0x05] ExtData[1]->WorkLocal[28] = 1
+541: 0x0BA0 [0x01] GOTO 0x0BA6
+542: 0x0BA3 [0x06] ExtData[1]->WorkLocal[28] = 0
+
+SUBROUTINE_0BA6:
+543: 0x0BA6 [0x01] GOTO 0x0BAC
+544: 0x0BA9 [0x05] ExtData[1]->WorkLocal[28] = 1
+
+SUBROUTINE_0BAC:
+545: 0x0BAC [0x1B] RETURN
+
+SUBROUTINE_0BAD:
+546: 0x0BAD [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0BBD
+547: 0x0BB5 [0x03] Work_Zone[90] = 133*
+548: 0x0BBA [0x01] GOTO 0x0C32
+549: 0x0BBD [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x0BCD
+550: 0x0BC5 [0x03] Work_Zone[90] = 168*
+551: 0x0BCA [0x01] GOTO 0x0C32
+552: 0x0BCD [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x0BDD
+553: 0x0BD5 [0x03] Work_Zone[90] = 132*
+554: 0x0BDA [0x01] GOTO 0x0C32
+555: 0x0BDD [0x02] IF !(ExtData[1]->WorkLocal[4] == 4*) GOTO 0x0BED
+556: 0x0BE5 [0x03] Work_Zone[90] = 131*
+557: 0x0BEA [0x01] GOTO 0x0C32
+558: 0x0BED [0x02] IF !(ExtData[1]->WorkLocal[4] == 5*) GOTO 0x0BFD
+559: 0x0BF5 [0x03] Work_Zone[90] = 167*
+560: 0x0BFA [0x01] GOTO 0x0C32
+561: 0x0BFD [0x02] IF !(ExtData[1]->WorkLocal[4] == 6*) GOTO 0x0C0D
+562: 0x0C05 [0x03] Work_Zone[90] = 130*
+563: 0x0C0A [0x01] GOTO 0x0C32
+564: 0x0C0D [0x02] IF !(ExtData[1]->WorkLocal[4] == 7*) GOTO 0x0C1D
+565: 0x0C15 [0x03] Work_Zone[90] = 166*
+566: 0x0C1A [0x01] GOTO 0x0C32
+567: 0x0C1D [0x02] IF !(ExtData[1]->WorkLocal[4] == 8*) GOTO 0x0C2D
+568: 0x0C25 [0x03] Work_Zone[90] = 165*
+569: 0x0C2A [0x01] GOTO 0x0C32
+570: 0x0C2D [0x03] Work_Zone[90] = 0*
+
+SUBROUTINE_0C32:
+571: 0x0C32 [0x1B] RETURN
+
+SUBROUTINE_0C33:
+572: 0x0C33 [0x1A] CALL_SUBROUTINE(address=0x0C46)
+573: 0x0C36 [0x1A] CALL_SUBROUTINE(address=0x0D02)
+574: 0x0C39 [0x1A] CALL_SUBROUTINE(address=0x0D61)
+575: 0x0C3C [0x1A] CALL_SUBROUTINE(address=0x0BAD)
+576: 0x0C3F [0x1C] WAIT(30* ticks)
+577: 0x0C42 [0x1A] CALL_SUBROUTINE(address=0x0E81)
+578: 0x0C45 [0x1B] RETURN
+
+SUBROUTINE_0C46:
+579: 0x0C46 [0x03] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[5]
+580: 0x0C4B [0x14] ExtData[1]->WorkLocal[8] *= 2*
+581: 0x0C50 [0x07] ExtData[1]->WorkLocal[8] += ExtData[1]->WorkLocal[6]
+582: 0x0C55 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Unknown 0x16)
+583: 0x0C57 [0x04] DEPRECATED_NOP(unused=0x0800)
+584: 0x0C5A [0x00] END_REQSTACK()
+
+SUBROUTINE_0C99:
+585: 0x0C99 [0x03] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[1]
+586: 0x0C9E [0x14] ExtData[1]->WorkLocal[8] *= 2*
+587: 0x0CA3 [0x07] ExtData[1]->WorkLocal[8] += ExtData[1]->WorkLocal[2]
+588: 0x0CA8 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 1*) GOTO 0x0CC8
+589: 0x0CAF [0xB6] ENTITY_APPEARANCE_HANDLER(case=Unknown 0x16)
+590: 0x0CB1 [0x00] END_REQSTACK()
+
+SUBROUTINE_0E81:
+591: 0x0E81 [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x0F5C
+592: 0x0E89 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0EA3
+593: 0x0E91 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shm0" with entities [LocalPlayer, LocalPlayer], work=821*
+594: 0x0EA0 [0x01] GOTO 0x0F59
+595: 0x0EA3 [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x0EBD
+596: 0x0EAB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shf0" with entities [LocalPlayer, LocalPlayer], work=821*
+597: 0x0EBA [0x01] GOTO 0x0F59
+598: 0x0EBD [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x0ED7
+599: 0x0EC5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sem0" with entities [LocalPlayer, LocalPlayer], work=821*
+600: 0x0ED4 [0x01] GOTO 0x0F59
+601: 0x0ED7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 4*) GOTO 0x0EF1
+602: 0x0EDF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sef0" with entities [LocalPlayer, LocalPlayer], work=821*
+603: 0x0EEE [0x01] GOTO 0x0F59
+604: 0x0EF1 [0x02] IF !(ExtData[1]->WorkLocal[4] == 5*) GOTO 0x0F0B
+605: 0x0EF9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm0" with entities [LocalPlayer, LocalPlayer], work=821*
+606: 0x0F08 [0x01] GOTO 0x0F59
+607: 0x0F0B [0x02] IF !(ExtData[1]->WorkLocal[4] == 6*) GOTO 0x0F25
+608: 0x0F13 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm0" with entities [LocalPlayer, LocalPlayer], work=821*
+609: 0x0F22 [0x01] GOTO 0x0F59
+610: 0x0F25 [0x02] IF !(ExtData[1]->WorkLocal[4] == 7*) GOTO 0x0F3F
+611: 0x0F2D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "smf0" with entities [LocalPlayer, LocalPlayer], work=821*
+612: 0x0F3C [0x01] GOTO 0x0F59
+613: 0x0F3F [0x02] IF !(ExtData[1]->WorkLocal[4] == 8*) GOTO 0x0F59
+614: 0x0F47 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sgm0" with entities [LocalPlayer, LocalPlayer], work=821*
+615: 0x0F56 [0x01] GOTO 0x0F59
+
+SUBROUTINE_0F59:
+616: 0x0F59 [0x01] GOTO 0x0F7C
+617: 0x0F5C [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x0F7C
+618: 0x0F64 [0x03] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[4]
+619: 0x0F69 [0x14] ExtData[1]->WorkLocal[27] *= 4*
+620: 0x0F6E [0x07] ExtData[1]->WorkLocal[27] += ExtData[1]->WorkLocal[7]
+621: 0x0F73 [0x9D] CALL 0x101E[ExtData[1]->WorkLocal[27]] // Jump table
+622: 0x0F79 [0x01] GOTO 0x0F7C
+
+SUBROUTINE_0F7C:
+623: 0x0F7C [0x1B] RETURN
+
+SUBROUTINE_0F8C:
+624: 0x0F8C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+625: 0x0F9D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
+626: 0x0FAC [0x1B] RETURN
+
+SUBROUTINE_0FAD:
+627: 0x0FAD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+628: 0x0FBE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+629: 0x0FCD [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x034D [0x19] SWAP(0x0B00, 0x0180)
+     0x0352 [0x64] CALCULATE_DISTANCE: 0x1C03 = distance between point1(60*, 0x0146) and point2(0x1903, 0x0100)
+     0x048A [0x01] GOTO 0x048D
+# Dead code (unreachable instructions):
+     0x0C5B [0x2B] Unknown NPC (ID: 729820032/0x2B802B80) [0x2B80]:
+     0x0C62 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581995/0x8001802B))
+     0x0C67 [0x01] GOTO 0x0180
+     0x0C6A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 4294963328/0xFFFFF080))
+     0x0C6F [0x7F] WAIT_DIALOG_SELECT_ALT()
+     0x0C70 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[4]
+     0x0C75 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[5]
+     0x0C7A [0x0B] Work_Zone_1700[3]++
+     0x0C7D [0x03] Work_Zone_1700[4] = ExtData[1]->WorkLocal[6]
+     0x0C82 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[7]
+     0x0C87 [0x02] IF !(ExtData[1]->WorkLocal[24] == 1*) GOTO 0x0C98
+     0x0C8F [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=48*, fade_time=30*)
+     0x0C98 [0x1B] RETURN
+# Dead code (unreachable instructions):
+     0x0CB2 [0x00] END_REQSTACK()
+     0x0CB3 [0x08] 0x4A00 -= 0x0D80
+     0x0CB8 [0x00] END_REQSTACK()
+     0x0CB9 [0x0E] 0x0F00 |= Work_Zone[0]
+     0x0CBE [0x00] END_REQSTACK()
+     0x0CBF [0x11] 0x1200 >>= 0x1300
+     0x0CC4 [0x00] END_REQSTACK()
+     0x0CC5 [0x01] GOTO 0x0CDE
+     0x0CCB [0x00] END_REQSTACK()
+     0x0CCC [0x08] 0x0C00 -= 0x0D00
+     0x0CD1 [0x00] END_REQSTACK()
+     0x0CD2 [0x0E] 0x0F00 |= Work_Zone[0]
+     0x0CD7 [0x00] END_REQSTACK()
+     0x0CD8 [0x11] 0x1200 >>= 0x1300
+     0x0CDD [0x00] END_REQSTACK()
+     0x0CDE [0x80] LOAD_WAIT(entity=LocalPlayer)
+     0x0CE3 [0x03] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[0]
+     0x0CE8 [0x0C] ExtData[1]->WorkLocal[9]--
+     0x0CEB [0x14] ExtData[1]->WorkLocal[9] *= 4*
+     0x0CF0 [0x07] ExtData[1]->WorkLocal[9] += ExtData[1]->WorkLocal[3]
+     0x0CF5 [0x9D] ExtData[1]->WorkLocal[10] = 0x0D21[ExtData[1]->WorkLocal[9]] // Read WORD
+     0x0CFD [0xB6] ENTITY_APPEARANCE_HANDLER(case=Unknown 0x17)
+     0x0CFF [0x0A] 0x1B00 &= ~(1 << 0x0903)
+     0x0D16 [0x21] END_EVENT
+     0x0D17 [0x0D] ExtData[1]->WorkLocal[10] &= ExtData[1]->WorkLocal[9]
+     0x0D1C [0xB6] ENTITY_APPEARANCE_HANDLER(case=Unknown 0x17)
+     0x0D1E [0x0A] 0x1B00 &= ~(1 << 95*)
+     0x0D23 [0x4C] EventEntity->StatusEvent = 8 // Open door
+     0x0D24 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147582029/0x8001804D))
+     0x0D29 [0x4B] UPDATE_ENTITY_YAW(entity=Unknown NPC (ID: 1300253824/0x4D804C80), yaw=0x0180)
+     0x0D30 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152497227/0x804C804B))
+     0x0D35 [0x4D] EventEntity->StatusEvent = 9 // Close door
+     0x0D36 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152431617/0x804B8001))
+     0x0D3B [0x4C] EventEntity->StatusEvent = 8 // Open door
+     0x0D3C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147582029/0x8001804D))
+     0x0D41 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unknown NPC (ID: 2152759375/0x8050804F)
+     0x0D47 [0x01] GOTO 0x4E80
+     0x0D4A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152759375/0x8050804F))
+     0x0D4F [0x01] GOTO 0x5180
+     0x0D52 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152955986/0x80538052))
+     0x0D57 [0x01] GOTO 0x5080
+     0x0D5A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152497236/0x804C8054))
+     0x0D5F [0x01] GOTO 0x0380
+     0x0D6B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
+     0x0D70 [0x03] Work_Zone[5] = 0*
+     0x0D75 [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x0E60
+     0x0D7D [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0D99
+     0x0D85 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shm0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0D96 [0x01] GOTO 0x0E5D
+     0x0D99 [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x0DB5
+     0x0DA1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shf0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0DB2 [0x01] GOTO 0x0E5D
+     0x0DB5 [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x0DD1
+     0x0DBD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sem0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0DCE [0x01] GOTO 0x0E5D
+     0x0DD1 [0x02] IF !(ExtData[1]->WorkLocal[4] == 4*) GOTO 0x0DED
+     0x0DD9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sef0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0DEA [0x01] GOTO 0x0E5D
+     0x0DED [0x02] IF !(ExtData[1]->WorkLocal[4] == 5*) GOTO 0x0E09
+     0x0DF5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0E06 [0x01] GOTO 0x0E5D
+     0x0E09 [0x02] IF !(ExtData[1]->WorkLocal[4] == 6*) GOTO 0x0E25
+     0x0E11 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0E22 [0x01] GOTO 0x0E5D
+     0x0E25 [0x02] IF !(ExtData[1]->WorkLocal[4] == 7*) GOTO 0x0E41
+     0x0E2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "smf0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0E3E [0x01] GOTO 0x0E5D
+     0x0E41 [0x02] IF !(ExtData[1]->WorkLocal[4] == 8*) GOTO 0x0E5D
+     0x0E49 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sgm0" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x0E5A [0x01] GOTO 0x0E5D
+     0x0E5D [0x01] GOTO 0x0E80
+     0x0E60 [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x0E80
+     0x0E68 [0x03] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[4]
+     0x0E6D [0x14] ExtData[1]->WorkLocal[27] *= 4*
+     0x0E72 [0x07] ExtData[1]->WorkLocal[27] += ExtData[1]->WorkLocal[7]
+     0x0E77 [0x9D] CALL 0x0FCE[ExtData[1]->WorkLocal[27]] // Jump table
+     0x0E7D [0x01] GOTO 0x0E80
+     0x0E80 [0x1B] RETURN
+# Dead code (unreachable instructions):
+     0x0F7D [0x02] IF !(Work_Zone[95] == 0*) GOTO 0x0F8B
+     0x0F85 [0x1C] WAIT(1* ticks)
+     0x0F88 [0x01] GOTO 0x0F7D
+     0x0F8B [0x1B] RETURN
+# Dead code (unreachable instructions):
+     0x0FCE [0x6E] Unknown NPC (ID: 1846570512/0x6E106E10) uses emote 0x6E10
+     0x0FD5 [0x10] 0x1080 <<= 0x1092
+     0x0FDA [0xA4] EventEntity->Flags3.unknown_3_2 = 0
+     0x0FDC [0x6E] Unknown NPC (ID: 3356538384/0xC810B610) uses emote 0xDA10
+     0x0FE3 [0x10] 0x106E <<= 0x10EC
+     0x0FE8 [0xFE] UNKNOWN_0xFE
+     0x0FE9 [0x10] Work_Zone_Memorize[16] <<= 0x106E
+     0x0FEE [0x22] ENTITY_HIDE_FLAG(enabled=0x11)
+     0x0FF0 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x4611)
+     0x0FF3 [0x11] 0x106E >>= Work_Zone_Memorize[88]
+     0x0FF8 [0x6A] CHANGE_SOUND_VOLUME: Set References[3600] volume to 0x7C11, fade_time=0x6E11
+     0x0FFF [0x11] 0x11A0 >>= 0x11B2
+     0x1004 [0x6E] Unknown NPC (ID: 3591488528/0xD611C410) uses emote 0xE811
+     0x100B [0x11] 0x106E >>= 0x11FA
+     0x1010 [0x0C] 0x1E12--
+     0x1013 [0x12] 0x106E = rand()
+     0x1016 [0x6E] Unknown NPC (ID: 1846570512/0x6E106E10) uses emote 0x6E10
+     0x101D [0x10] 0x106E <<= 0x106E
+     0x1022 [0x6E] Unknown NPC (ID: 806383120/0x30106E10) uses emote 0x4012
+     0x1029 [0x12] 0x1250 = rand()
+     0x102C [0x6E] Unknown NPC (ID: 1880252432/0x70126010) uses emote 11*
+     0x1033 [0x12] 0x106E = rand()
+     0x1036 [0x90] EventEntity->Render.Flags0 |= 0x04; EventEntity->Render.Flags1 |= 0x08
+     0x1037 [0x12] 0x12A0 = rand()
+     0x103A [0xB0] PRINT_EVENT_MESSAGE(unknown1=0x12, speaker_id=0x12C0106E, listener_id=0x12E012D0, message_offset=0x106E)
+     0x1046 [0xF0] UNKNOWN_0xF0
+     0x1047 [0x12] 0x1300 = rand()
+     0x104A [0x10] 0x6E13 <<= 0x2010
+     0x104F [0x13] 0x1330 = rand() % 0x1340
+     0x1054 [0x6E] Unknown NPC (ID: 1611878416/0x60135010) uses emote 0x7013
+     0x105B [0x13] 0x106E = rand() % 0x1380
+     0x1060 [0x90] EventEntity->Render.Flags0 |= 0x04; EventEntity->Render.Flags1 |= 0x08
+     0x1061 [0x13] 0x13A0 = rand() % 0x106E
+     0x1066 [0x6E] Unknown NPC (ID: 1846570512/0x6E106E10) uses emote 0x6E10
+     0x106D [0x10] 0x1A45 <<= 0xF080
+     0x1072 [0xFF] UNKNOWN_0xFF
+     0x1073 [0xFF] UNKNOWN_0xFF
+     0x1074 [0x7F] WAIT_DIALOG_SELECT_ALT()
+     0x1075 [0xF0] UNKNOWN_0xF0
+     0x1076 [0xFF] UNKNOWN_0xFF
+     0x1077 [0xFF] UNKNOWN_0xFF
+     0x1078 [0x7F] WAIT_DIALOG_SELECT_ALT()
+     0x1079 [0x63] PLAY_ANIMATION_WAIT(animation=13872)
+     0x107C [0x69] SET_SOUND_VOLUME: Mute flags=0x1B00
+     0x1080 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shm1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x1091 [0x1B] RETURN
+     0x1092 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shm2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x10A3 [0x1B] RETURN
+     0x10A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shm3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x10B5 [0x1B] RETURN
+     0x10B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shf1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x10C7 [0x1B] RETURN
+     0x10C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shf2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x10D9 [0x1B] RETURN
+     0x10DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shf3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x10EB [0x1B] RETURN
+     0x10EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sem1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x10FD [0x1B] RETURN
+     0x10FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sem2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x110F [0x1B] RETURN
+     0x1110 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sem3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x1121 [0x1B] RETURN
+     0x1122 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sef1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x1133 [0x1B] RETURN
+     0x1134 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sef2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x1145 [0x1B] RETURN
+     0x1146 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sef3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x1157 [0x1B] RETURN
+     0x1158 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x1169 [0x1B] RETURN
+     0x116A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x117B [0x1B] RETURN
+     0x117C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x118D [0x1B] RETURN
+     0x118E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x119F [0x1B] RETURN
+     0x11A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x11B1 [0x1B] RETURN
+     0x11B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "stm3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x11C3 [0x1B] RETURN
+     0x11C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "smf1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x11D5 [0x1B] RETURN
+     0x11D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "smf2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x11E7 [0x1B] RETURN
+     0x11E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "smf3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x11F9 [0x1B] RETURN
+     0x11FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sgm1" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x120B [0x1B] RETURN
+     0x120C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sgm2" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x121D [0x1B] RETURN
+     0x121E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sgm3" with entities [LocalPlayer, LocalPlayer], work=[821*, ExtData[1]->WorkLocal[26]]
+     0x122F [0x1B] RETURN
+     0x1230 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shm1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x123F [0x1B] RETURN
+     0x1240 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shm2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x124F [0x1B] RETURN
+     0x1250 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shm3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x125F [0x1B] RETURN
+     0x1260 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shf1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x126F [0x1B] RETURN
+     0x1270 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shf2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x127F [0x1B] RETURN
+     0x1280 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "shf3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x128F [0x1B] RETURN
+     0x1290 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sem1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x129F [0x1B] RETURN
+     0x12A0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sem2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x12AF [0x1B] RETURN
+     0x12B0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sem3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x12BF [0x1B] RETURN
+     0x12C0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sef1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x12CF [0x1B] RETURN
+     0x12D0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sef2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x12DF [0x1B] RETURN
+     0x12E0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sef3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x12EF [0x1B] RETURN
+     0x12F0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x12FF [0x1B] RETURN
+     0x1300 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x130F [0x1B] RETURN
+     0x1310 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x131F [0x1B] RETURN
+     0x1320 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x132F [0x1B] RETURN
+     0x1330 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x133F [0x1B] RETURN
+     0x1340 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "stm3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x134F [0x1B] RETURN
+     0x1350 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "smf1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x135F [0x1B] RETURN
+     0x1360 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "smf2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x136F [0x1B] RETURN
+     0x1370 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "smf3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x137F [0x1B] RETURN
+     0x1380 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sgm1" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x138F [0x1B] RETURN
+     0x1390 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sgm2" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x139F [0x1B] RETURN
+     0x13A0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sgm3" with entities [LocalPlayer, LocalPlayer], work=821*
+     0x13AF [0x1B] RETURN
+```

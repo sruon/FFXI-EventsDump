@@ -18,8 +18,8 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                     |   Events |
-|------------------|------------------|----------------------------------------------------------|----------|
-| 0x0103F0D7       |         17035479 | [Rune of Release](./17035479%20-%20Rune%20of%20Release/) |        2 |
-| 0x0103F0E5       |         17035493 | [(unnamed)](./17035493/)                                 |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/)                          |        8 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                               |   Events |
+|------------------|------------------|----------------------------------------------------|----------|
+| 0x0103F0D7       |         17035479 | [Rune of Release](./17035479 - Rune of Release.md) |        2 |
+| 0x0103F0E5       |         17035493 | [(unnamed)](./17035493.md)                         |        2 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)                    |        8 |

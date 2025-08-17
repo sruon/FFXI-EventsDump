@@ -1,0 +1,309 @@
+# 17318648 - Jagged Cliff
+
+## Common Data
+
+| Field            | Value                         |
+|------------------|-------------------------------|
+| Zone             | Abyssea - La Theine (ID: 132) |
+| Block Size       | 968 bytes                     |
+| Total Events     | 2                             |
+| References Count | 38                            |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [152](#event-152)     | 0x0001       |    791 |            121 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0003      |           3 |
+|       1 | 0x00C8      |         200 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x003C      |          60 |
+|       4 | 0x0013      |          19 |
+|       5 | 0x5965D     |      366173 |
+|       6 | 0x369CC     |      223692 |
+|       7 | 0xA8F8      |       43256 |
+|       8 | 0x0398      |         920 |
+|       9 | 0x59390     |      365456 |
+|      10 | 0x37599     |      226713 |
+|      11 | 0xA7FB      |       43003 |
+|      12 | 0x01C9      |         457 |
+|      13 | 0x1ED0      |        7888 |
+|      14 | 0x1ED1      |        7889 |
+|      15 | 0x1ED2      |        7890 |
+|      16 | 0x062B      |        1579 |
+|      17 | 0x1ED3      |        7891 |
+|      18 | 0x1ED4      |        7892 |
+|      19 | 0x1ED5      |        7893 |
+|      20 | 0x0001      |           1 |
+|      21 | 0x1EDF      |        7903 |
+|      22 | 0x0002      |           2 |
+|      23 | 0x0088      |         136 |
+|      24 | 0x1ED6      |        7894 |
+|      25 | 0x1ED9      |        7897 |
+|      26 | 0x1ED8      |        7896 |
+|      27 | 0x1ED7      |        7895 |
+|      28 | 0x00C9      |         201 |
+|      29 | 0x1EDA      |        7898 |
+|      30 | 0x1EDB      |        7899 |
+|      31 | 0x00FA      |         250 |
+|      32 | 0x012C      |         300 |
+|      33 | 0x01FB      |         507 |
+|      34 | 0x1EDC      |        7900 |
+|      35 | 0x1EDD      |        7901 |
+|      36 | 0x1EDE      |        7902 |
+|      37 | 0x0033      |          51 |
+
+## String References
+
+- **7892**: Are you ready? [Ready to the extreme!/I hear my kettle whistling...]
+- **7899**: Grab the $3... (Tries left: $1) [Now!]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 152
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 791 bytes |
+| Instructions | 120       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    06 00 00 03 01 00 00  80 20 01 42 45 01 80 F0   ........ .BE...
+0010: FF FF 7F F0 FF FF 7F 66  64 6F 31 02 80 1C 03 80  .......fdo1.....
+0020: 38 04 80 BA F0 FF FF 7F  05 80 06 80 07 80 08 80  8...............
+0030: 80 F0 FF FF 7F 92 01 F9  42 08 01 4E 00 F9 42 08  ........B..N..B.
+0040: 01 80 F9 42 08 01 2F 00  F7 42 08 01 4E 00 F7 42  ...B../..B..N..B
+0050: 08 01 BA F7 42 08 01 09  80 0A 80 0B 80 08 80 80  ....B...........
+0060: F7 42 08 01 92 01 F7 42  08 01 4A F7 42 08 01 F0  .B.....B..J.B...
+0070: FF FF 7F 46 01 45 0C 80  F0 FF FF 7F F0 FF FF 7F  ...F.E..........
+0080: 62 67 30 30 02 80 45 01  80 F0 FF FF 7F F0 FF FF  bg00..E.........
+0090: 7F 66 64 69 31 02 80 1C  03 80 4A F0 FF FF 7F F7  .fdi1.....J.....
+00A0: 42 08 01 2B F7 42 08 01  0D 80 23 2B F7 42 08 01  B..+.B....#+.B..
+00B0: 0E 80 23 2B F7 42 08 01  0F 80 23 03 02 10 10 80  ..#+.B....#.....
+00C0: 2B F7 42 08 01 11 80 23  08 01 00 00 00 03 03 10  +.B....#........
+00D0: 01 00 24 12 80 02 80 02  80 25 02 00 10 02 80 00  ..$......%......
+00E0: ED 00 2B F7 42 08 01 13  80 23 01 10 01 02 00 10  ..+.B....#......
+00F0: 14 80 00 10 01 02 00 00  02 80 01 0A 01 2B F7 42  .............+.B
+0100: 08 01 15 80 23 03 01 10  16 80 01 D5 02 01 10 01  ....#...........
+0110: 45 01 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 31 02  E..........fdo1.
+0120: 80 1C 03 80 5C 00 17 80  5C 01 17 80 9A 4B F0 FF  ....\...\....K..
+0130: FF 7F 08 80 52 0C 80 F0  FF FF 7F F0 FF FF 7F 62  ....R..........b
+0140: 67 30 30 45 0C 80 F0 FF  FF 7F F0 FF FF 7F 62 67  g00E..........bg
+0150: 30 31 02 80 45 01 80 F0  FF FF 7F F0 FF FF 7F 66  01..E..........f
+0160: 64 69 31 02 80 1C 03 80  03 02 10 10 80 2B F7 42  di1..........+.B
+0170: 08 01 18 80 23 55 0C 80  F0 FF FF 7F F0 FF FF 7F  ....#U..........
+0180: 62 67 30 31 2B F7 42 08  01 19 80 23 2B F7 42 08  bg01+.B....#+.B.
+0190: 01 1A 80 23 2B F7 42 08  01 1B 80 23 45 1C 80 F0  ...#+.B....#E...
+01A0: FF FF 7F F0 FF FF 7F 77  68 6F 31 02 80 1C 03 80  .......who1.....
+01B0: 4E 01 F0 FF FF 7F 2B F7  42 08 01 1D 80 45 1C 80  N.....+.B....E..
+01C0: F0 FF FF 7F F0 FF FF 7F  77 68 69 31 02 80 45 0C  ........whi1..E.
+01D0: 80 F0 FF FF 7F F0 FF FF  7F 62 67 30 32 02 80 06  .........bg02...
+01E0: 20 10 27 00 F9 42 08 01  02 03 02 10 10 80 24 1E   .'..B........$.
+01F0: 80 02 80 02 80 25 02 00  10 02 80 00 01 02 01 01  .....%..........
+0200: 02 03 02 00 20 10 02 02  00 1F 80 04 21 02 02 02  .... .......!...
+0210: 00 20 80 05 21 02 73 21  80 F9 42 08 01 F9 42 08  . ..!.s!..B...B.
+0220: 01 55 0C 80 F0 FF FF 7F  F0 FF FF 7F 62 67 30 32  .U..........bg02
+0230: 45 01 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 31 02  E..........fdo1.
+0240: 80 1C 03 80 4E 00 F0 FF  FF 7F 4A F0 FF FF 7F F7  ....N.....J.....
+0250: 42 08 01 52 0C 80 F0 FF  FF 7F F0 FF FF 7F 62 67  B..R..........bg
+0260: 30 32 45 0C 80 F0 FF FF  7F F0 FF FF 7F 62 67 30  02E..........bg0
+0270: 33 02 80 45 01 80 F0 FF  FF 7F F0 FF FF 7F 66 64  3..E..........fd
+0280: 69 31 02 80 1C 03 80 02  02 00 1F 80 04 AF 02 02  i1..............
+0290: 02 00 20 80 05 AF 02 2B  F7 42 08 01 22 80 23 2B  .. ....+.B..".#+
+02A0: F7 42 08 01 23 80 23 03  01 10 14 80 01 D5 02 02  .B..#.#.........
+02B0: 00 00 16 80 04 C7 02 2B  F7 42 08 01 15 80 23 03  .......+.B....#.
+02C0: 01 10 16 80 01 D5 02 2B  F7 42 08 01 24 80 23 0B  .......+.B..$.#.
+02D0: 00 00 01 C8 00 45 01 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
+02E0: 66 64 6F 31 02 80 1C 03  80 52 0C 80 F0 FF FF 7F  fdo1.....R......
+02F0: F0 FF FF 7F 62 67 30 33  5C 00 25 80 5C 01 25 80  ....bg03\.%.\.%.
+0300: 9A 46 00 45 01 80 F0 FF  FF 7F F0 FF FF 7F 66 64  .F.E..........fd
+0310: 69 31 02 80 20 00 21 00                           i1.. .!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x06] ExtData[1]->WorkLocal[0] = 0
+  1: 0x0004 [0x03] ExtData[1]->WorkLocal[1] = 3*
+  2: 0x0009 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  3: 0x000B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  4: 0x000C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  5: 0x001D [0x1C] WAIT(60* ticks)
+  6: 0x0020 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+  7: 0x0023 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=366.173*, pos_z=223.692*, pos_y=43.256*, direction=80.9°*)
+  8: 0x0030 [0x80] LOAD_WAIT(entity=LocalPlayer)
+  9: 0x0035 [0x92] ??? (ID: 17318649/0x010842F9)->Render.Flags3 ^= 0x01
+ 10: 0x003B [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17318649/0x010842F9)
+ 11: 0x0041 [0x80] LOAD_WAIT(entity=??? (ID: 17318649/0x010842F9))
+ 12: 0x0046 [0x2F] Raminel (ID: 17318647/0x010842F7)->Render.Flags0 &= ~0x80000 // Bit 19
+ 13: 0x004C [0x4E] SET_ENTITY_HIDE_FLAG: Show Raminel (ID: 17318647/0x010842F7)
+ 14: 0x0052 [0xBA] SET_ENTITY_POSITION(entity_id=Raminel (ID: 17318647/0x010842F7), pos_x=365.456*, pos_z=226.713*, pos_y=43.003*, direction=80.9°*)
+ 15: 0x005F [0x80] LOAD_WAIT(entity=Raminel (ID: 17318647/0x010842F7))
+ 16: 0x0064 [0x92] Raminel (ID: 17318647/0x010842F7)->Render.Flags3 ^= 0x01
+ 17: 0x006A [0x4A] Raminel (ID: 17318647/0x010842F7) looks at LocalPlayer
+ 18: 0x0073 [0x46] CAMERA_CONTROL: Disable user control
+ 19: 0x0075 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg00" with entities [LocalPlayer, LocalPlayer], work=[457*, 0*]
+ 20: 0x0086 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 21: 0x0097 [0x1C] WAIT(60* ticks)
+ 22: 0x009A [0x4A] LocalPlayer looks at Raminel (ID: 17318647/0x010842F7)
+ 23: 0x00A3 [0x2B] Raminel (ID: 17318647/0x010842F7) [7888*]:
+    → "Ah, Amaura sent you, I'll wager. Raminel is my name, and I thank you for your aid."
+ 24: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 25: 0x00AB [0x2B] Raminel (ID: 17318647/0x010842F7) [7889*]:
+    → "Without ado, I shall explain the process."
+ 26: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x00B3 [0x2B] Raminel (ID: 17318647/0x010842F7) [7890*]:
+    → "I have with me a rope, magicked to be elastic yet durable. One end of it I shall tie to the tree yonder, and the other to your ankles."
+ 28: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 29: 0x00BB [0x03] Work_Zone[2] = 1579*
+ 30: 0x00C0 [0x2B] Raminel (ID: 17318647/0x010842F7) [7891*]:
+    → "After that, all that's required of you is to dive into the ravine and grab the $3. It's as simple as running parcels. Just give the word and we'll get started."
+ 31: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x00C8 [0x08] ExtData[1]->WorkLocal[1] -= ExtData[1]->WorkLocal[0]
+ 33: 0x00CD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
+ 34: 0x00D2 [0x24] CREATE_DIALOG(message_id=7892*, default_option=0*, option_flags=0*)
+    → "Are you ready? [Ready to the extreme!/I hear my kettle whistling...]"
+ 35: 0x00D9 [0x25] WAIT_DIALOG_SELECT()
+ 36: 0x00DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00ED
+ 37: 0x00E2 [0x2B] Raminel (ID: 17318647/0x010842F7) [7893*]:
+    → "Ah yes, that's the spirit."
+ 38: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 39: 0x00EA [0x01] GOTO 0x0110
+ 40: 0x00ED [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0110
+ 41: 0x00F5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x010A
+ 42: 0x00FD [0x2B] Raminel (ID: 17318647/0x010842F7) [7903*]:
+    → "Hmmm...perhaps we can do without rosy cheeks for a day or two. And I would sooner not dive for your broken corpse."
+ 43: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 44: 0x0105 [0x03] Work_Zone[1] = 2*
+ 45: 0x010A [0x01] GOTO 0x02D5
+
+SUBROUTINE_0110:
+ 46: 0x0110 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 47: 0x0121 [0x1C] WAIT(60* ticks)
+ 48: 0x0124 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 136*
+ 49: 0x0128 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 136*
+ 50: 0x012C [0x9A] WAIT_MUSIC_SERVER()
+ 51: 0x012D [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=5.1°*)
+ 52: 0x0134 [0x52] END_LOAD_SCHEDULER: End scheduler "bg00" with entities [LocalPlayer, LocalPlayer], work=457*
+ 53: 0x0143 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg01" with entities [LocalPlayer, LocalPlayer], work=[457*, 0*]
+ 54: 0x0154 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 55: 0x0165 [0x1C] WAIT(60* ticks)
+ 56: 0x0168 [0x03] Work_Zone[2] = 1579*
+ 57: 0x016D [0x2B] Raminel (ID: 17318647/0x010842F7) [7894*]:
+    → "Simply dive down and grab hold of the $3 when it's within reach. Let us commence!"
+ 58: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 59: 0x0175 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "bg01" with entities [LocalPlayer, LocalPlayer], work=457*
+ 60: 0x0184 [0x2B] Raminel (ID: 17318647/0x010842F7) [7897*]:
+    → "Three!"
+ 61: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 62: 0x018C [0x2B] Raminel (ID: 17318647/0x010842F7) [7896*]:
+    → "Two!"
+ 63: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 64: 0x0194 [0x2B] Raminel (ID: 17318647/0x010842F7) [7895*]:
+    → "One!"
+ 65: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 66: 0x019C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 67: 0x01AD [0x1C] WAIT(60* ticks)
+ 68: 0x01B0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
+ 69: 0x01B6 [0x2B] Raminel (ID: 17318647/0x010842F7) [7898*]:
+    → "Descend!"
+ 70: 0x01BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 71: 0x01CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg02" with entities [LocalPlayer, LocalPlayer], work=[457*, 0*]
+ 72: 0x01DF [0x06] Work_Zone[32] = 0
+ 73: 0x01E2 [0x27] REQ_SET(priority=0x00, entity_id=??? (ID: 17318649/0x010842F9), tag_num=0x02)
+ 74: 0x01E9 [0x03] Work_Zone[2] = 1579*
+ 75: 0x01EE [0x24] CREATE_DIALOG(message_id=7899*, default_option=0*, option_flags=0*)
+    → "Grab the $3... (Tries left: $1) [Now!]"
+ 76: 0x01F5 [0x25] WAIT_DIALOG_SELECT()
+ 77: 0x01F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0201
+ 78: 0x01FE [0x01] GOTO 0x0201
+
+SUBROUTINE_0201:
+ 79: 0x0201 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[32]
+ 80: 0x0206 [0x02] IF !(ExtData[1]->WorkLocal[2] < 250*) GOTO 0x0221
+ 81: 0x020E [0x02] IF !(ExtData[1]->WorkLocal[2] > 300*) GOTO 0x0221
+ 82: 0x0216 [0x73] ??? (ID: 17318649/0x010842F9) casts magic 507* on ??? (ID: 17318649/0x010842F9)
+ 83: 0x0221 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "bg02" with entities [LocalPlayer, LocalPlayer], work=457*
+ 84: 0x0230 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 85: 0x0241 [0x1C] WAIT(60* ticks)
+ 86: 0x0244 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+ 87: 0x024A [0x4A] LocalPlayer looks at Raminel (ID: 17318647/0x010842F7)
+ 88: 0x0253 [0x52] END_LOAD_SCHEDULER: End scheduler "bg02" with entities [LocalPlayer, LocalPlayer], work=457*
+ 89: 0x0262 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg03" with entities [LocalPlayer, LocalPlayer], work=[457*, 0*]
+ 90: 0x0273 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 91: 0x0284 [0x1C] WAIT(60* ticks)
+ 92: 0x0287 [0x02] IF !(ExtData[1]->WorkLocal[2] < 250*) GOTO 0x02AF
+ 93: 0x028F [0x02] IF !(ExtData[1]->WorkLocal[2] > 300*) GOTO 0x02AF
+ 94: 0x0297 [0x2B] Raminel (ID: 17318647/0x010842F7) [7900*]:
+    → "Beautifully done! I had every confidence that you would succeed!"
+ 95: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 96: 0x029F [0x2B] Raminel (ID: 17318647/0x010842F7) [7901*]:
+    → "Amaura awaits you at the encampment. Please hurry back."
+ 97: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 98: 0x02A7 [0x03] Work_Zone[1] = 1*
+ 99: 0x02AC [0x01] GOTO 0x02D5
+100: 0x02AF [0x02] IF !(ExtData[1]->WorkLocal[0] < 2*) GOTO 0x02C7
+101: 0x02B7 [0x2B] Raminel (ID: 17318647/0x010842F7) [7903*]:
+    → "Hmmm...perhaps we can do without rosy cheeks for a day or two. And I would sooner not dive for your broken corpse."
+102: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
+103: 0x02BF [0x03] Work_Zone[1] = 2*
+104: 0x02C4 [0x01] GOTO 0x02D5
+105: 0x02C7 [0x2B] Raminel (ID: 17318647/0x010842F7) [7902*]:
+    → "Oh, that was so awfully close! Would you care for another attempt?"
+106: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
+107: 0x02CF [0x0B] ExtData[1]->WorkLocal[0]++
+108: 0x02D2 [0x01] GOTO 0x00C8
+
+SUBROUTINE_02D5:
+109: 0x02D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+110: 0x02E6 [0x1C] WAIT(60* ticks)
+111: 0x02E9 [0x52] END_LOAD_SCHEDULER: End scheduler "bg03" with entities [LocalPlayer, LocalPlayer], work=457*
+112: 0x02F8 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 51*
+113: 0x02FC [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 51*
+114: 0x0300 [0x9A] WAIT_MUSIC_SERVER()
+115: 0x0301 [0x46] CAMERA_CONTROL: Restore default settings
+116: 0x0303 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+117: 0x0314 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+118: 0x0316 [0x21] END_EVENT
+119: 0x0317 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x010D [0x01] GOTO 0x0110
+```

@@ -11,19 +11,19 @@
 
 ## List of Events
 
-| Event ID                  | Entrypoint   |   Size |   Instructions |
-|---------------------------|--------------|--------|----------------|
-| [65535](#event-65535)     | 0x0000       |      1 |              1 |
-| [4527](#event-4527)       | 0x0001       |      3 |              1 |
-| [4528](#event-4528)       | 0x0004       |      3 |              1 |
-| [4529](#event-4529)       | 0x0007       |      3 |              1 |
-| [4530](#event-4530)       | 0x000A       |      3 |              1 |
-| [4531](#event-4531)       | 0x000D       |      3 |              1 |
-| [4532](#event-4532)       | 0x0010       |      3 |              1 |
-| [4533](#event-4533)       | 0x0013       |      3 |              1 |
-| [4534](#event-4534)       | 0x0016       |      3 |              1 |
-| [4535](#event-4535)       | 0x0019       |   7641 |           1693 |
-| [65535.1](#event-65535-1) | 0x1DF2       |      7 |              2 |
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [4527](#event-4527)      | 0x0001       |      3 |              1 |
+| [4528](#event-4528)      | 0x0004       |      3 |              1 |
+| [4529](#event-4529)      | 0x0007       |      3 |              1 |
+| [4530](#event-4530)      | 0x000A       |      3 |              1 |
+| [4531](#event-4531)      | 0x000D       |      3 |              1 |
+| [4532](#event-4532)      | 0x0010       |      3 |              1 |
+| [4533](#event-4533)      | 0x0013       |      3 |              1 |
+| [4534](#event-4534)      | 0x0016       |      3 |              1 |
+| [4535](#event-4535)      | 0x0019       |   7641 |           1693 |
+| [65535.1](#event-655351) | 0x1DF2       |      7 |              2 |
 
 ## DAT References (imed_data)
 
@@ -177,6 +177,68 @@
 |     145 | 0x00D1      |         209 |
 |     146 | 0x40000000  |  1073741824 |
 |     147 | 0x00D0      |         208 |
+
+## String References
+
+- **46**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: N/A
+- **47**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3
+- **48**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5
+- **49**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7
+- **50**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9
+- **51**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11
+- **52**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13
+- **53**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15
+- **54**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17
+- **55**: $8 will be used to etch an aperture on the $3.
+- **56**: Select elemental alignment. [oo /o!/o"/o#/o$/o%/o&/Cancel.]
+- **57**: Confirm: $8[oo /o!/o"/o#/o$/o%/o&] [Yes./Redo.]
+- **58**: This item cannot house any more apertures.
+- **59**: The $8 will be embedded in the $3.
+- **60**: Select target aperture. [$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./Cancel.]
+- **63**: There are no compatible apertures on this item.
+- **64**: $3 will be used to remove all apertures from the $8.
+- **65**: Remove all apertures? [Yes./No.]
+- **66**: There are no removable apertures on this item.
+- **67**: $3 will be used to remove the most recently etched aperture from the $8.
+- **68**: Commence synergy? [Yes./No.]
+- **70**: Internal elemental balance: o$0 o o! o" o# o$ o% o&
+- **71**: o$0 o o! o" o# o$ o% o&
+- **74**: Internal pressure: $1 Pz/Im Impurity ratio: $0%
+- **83**: Select an action. [Lv.$0: Feed fewell./Operate furnace./View furnace readings./End synergy./Review objective./Toggle command confirmation [off/on]./Close menu.]
+- **85**: Select an action/skill. [Lv.$0: Thwack furnace./Lv.$1: Operate pressure handle./Lv.$2: Operate safety lever./Lv.$3: Repair furnace./Lv.$4: Recycle strewn fewell./Fishing: Lunar Smarts./Fishing: Precision Thwack./Woodworking: Cyclical Smarts./Woodworking: Earth Affinity./Smithing: Combustive Smarts./Smithing: Fire Affinity./Goldsmithing: Engraver's Touch./Goldsmithing: Wind Affinity./Clothcraft: Restorer's Touch./Clothcraft: Lightning Affinity./Leathercraft: Pressurization Smarts./Leathercraft: Ice Affinity./Bonecraft: Carbonization Smarts./Bonecraft: Dark Affinity./Alchemy: Alchemical Smarts./Alchemy: Light Affinity./Cooking: Heating Smarts./Cooking: Water Affinity./DEBUGFForced perfection./DEBUGFSet level (Requires $39)./DEBUG: Set pressure/impurities./DEBUG: Something good./Cancel.]
+- **86**: Feed which fewell? (current stock) [ofewell ($0)./o fewell ($1)./o! fewell ($2)./o" fewell ($3)./o# fewell ($4)./o$ fewell ($5)./o% fewell ($6)./o& fewell ($7)./Cancel.]
+- **89**: You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **90**: Your furnace lost a small amount of durability.
+- **91**: There was no impact on fewell reserves or furnace durability.
+- **92**: Apply a measured thwack to the furnace to prevent explosion. Cost: Reduction in furnace durability.
+- **93**: Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **94**: Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **95**: Restore the furnace's durability. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **96**: Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product. Cost: Nothing.
+- **97**: Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **98**: Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack. Cost: Slight reduction in furnace durability.
+- **99**: Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **100**: Keenly observe the flow of elements to prevent o"-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **101**: Temporarily improve fewell combustion rate. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **102**: Keenly observe the flow of elements to prevent obased explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **103**: Evenly disperse the furnace's internal stress to delay a looming explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **104**: Keenly observe the flow of elements to prevent o!-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **105**: Temporarily suppress fluctuations in internal pressure. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **106**: Keenly observe the flow of elements to prevent o -based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **107**: Temporarily increase the likelihood of an elemental surge. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **108**: Keenly observe the flow of elements to prevent o&-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **109**: Restore furnace durability by a significant amount. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **110**: Keenly observe the flow of elements to prevent o#-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **111**: Temporarily suppress the force of explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **112**: Keenly observe the flow of elements to prevent o%-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **113**: Gradually purge the furnace of impurities. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **114**: Keenly observe the flow of elements to prevent o$-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **115**: Perform action? [Yes./No.]
+- **175**: Your $3 will be removed, and your claim to the synergy furnace, relinquished.
+- **206**: New augments will not take effect until the item is removed from the synergy furnace.
+- **207**: Remove the item? [Yes, with new augment(s)./Yes, with existing augment(s)./No.]
+- **208**: Your item's attributes [will be/are] as follows with its [new/current] set of augments:
+- **209**: Proceed with these attributes? [Yes./On second thought...]
 
 ## Events
 
@@ -879,18 +941,18 @@
 
 SUBROUTINE_1C7C:
   1: 0x1C7C [0x48] [System] [206*]:
-    → "New augments will not take effect until the item is removed from the synergy furnace.\u007F1\u0000\u0007"
+    → "New augments will not take effect until the item is removed from the synergy furnace."
   2: 0x1C7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_1C80:
   3: 0x1C80 [0x02] IF !(1* == 1*) GOTO 0x1D0E
   4: 0x1C88 [0x1A] CALL_SUBROUTINE(address=0x1D10)
   5: 0x1C8B [0x24] CREATE_DIALOG(message_id=207*, default_option=0*, option_flags=0*)
-    → "Remove the item?\u0007\u000BYes, with new augment(s).\u0007Yes, with existing augment(s).\u0007No.\u007F1\u0000\u0007"
+    → "Remove the item? [Yes, with new augment(s)./Yes, with existing augment(s)./No.]"
   6: 0x1C92 [0x25] WAIT_DIALOG_SELECT()
   7: 0x1C93 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CC6
   8: 0x1C9B [0x24] CREATE_DIALOG(message_id=209*, default_option=1*, option_flags=0*)
-    → "Proceed with these attributes?\u0007\u000BYes.\u0007On second thought...\u007F1\u0000\u0007"
+    → "Proceed with these attributes? [Yes./On second thought...]"
   9: 0x1CA2 [0x25] WAIT_DIALOG_SELECT()
  10: 0x1CA3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CB3
  11: 0x1CAB [0x03] Work_Zone[1] = 1*
@@ -904,7 +966,7 @@ SUBROUTINE_1CC3:
  17: 0x1CC6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1CFC
  18: 0x1CCE [0x1A] CALL_SUBROUTINE(address=0x1D81)
  19: 0x1CD1 [0x24] CREATE_DIALOG(message_id=209*, default_option=1*, option_flags=0*)
-    → "Proceed with these attributes?\u0007\u000BYes.\u0007On second thought...\u007F1\u0000\u0007"
+    → "Proceed with these attributes? [Yes./On second thought...]"
  20: 0x1CD8 [0x25] WAIT_DIALOG_SELECT()
  21: 0x1CD9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CE9
  22: 0x1CE1 [0x03] Work_Zone[1] = 2*
@@ -946,7 +1008,7 @@ SUBROUTINE_1D4F:
 SUBROUTINE_1D5C:
  47: 0x1D5C [0x03] Work_Zone_1700[0] = 0*
  48: 0x1D61 [0x48] [System] [208*]:
-    → "Your item's attributes \u000C\u0008[will be/are] as follows with its \u000C\u0008[new/current] set of augments:\u007F1\u0000\u0007"
+    → "Your item's attributes [will be/are] as follows with its [new/current] set of augments:"
  49: 0x1D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x1D65 [0x02] IF !(Work_Zone_1700[1] == 0*) GOTO 0x1D7A
  51: 0x1D6D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -978,7 +1040,7 @@ SUBROUTINE_1DC0:
 SUBROUTINE_1DCD:
  68: 0x1DCD [0x03] Work_Zone_1700[0] = 1*
  69: 0x1DD2 [0x48] [System] [208*]:
-    → "Your item's attributes \u000C\u0008[will be/are] as follows with its \u000C\u0008[new/current] set of augments:\u007F1\u0000\u0007"
+    → "Your item's attributes [will be/are] as follows with its [new/current] set of augments:"
  70: 0x1DD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x1DD6 [0x02] IF !(Work_Zone_1700[1] == 0*) GOTO 0x1DEB
  72: 0x1DDE [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
@@ -1009,8 +1071,7 @@ SUBROUTINE_1DEE:
      0x0052 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[24]
      0x0057 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[57] (bits 0*-0*)
      0x0060 [0x24] CREATE_DIALOG(message_id=83*, default_option=ExtData[1]->WorkLocal[54], option_flags=ExtData[1]->WorkLocal[44])
-    → "Select an action.\u0007\u000BLv.
-\u0000: Feed fewell.\u0007Operate furnace.\u0007View furnace readings.\u0007End synergy.\u0007Review objective.\u0007Toggle command confirmation \u000C\u0001[off/on].\u0007Close menu.\u007F1\u0000\u0007"
+    → "Select an action. [Lv.$0: Feed fewell./Operate furnace./View furnace readings./End synergy./Review objective./Toggle command confirmation [off/on]./Close menu.]"
      0x0067 [0x25] WAIT_DIALOG_SELECT()
      0x0068 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007B
      0x0070 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
@@ -1103,89 +1164,42 @@ SUBROUTINE_1DEE:
      0x0212 [0x01] GOTO 0x01FD
      0x0215 [0x02] IF !(ExtData[1]->WorkLocal[35] == 1*) GOTO 0x0224
      0x021D [0x48] [System] [47*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
      0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0221 [0x01] GOTO 0x028D
      0x0224 [0x02] IF !(ExtData[1]->WorkLocal[35] == 2*) GOTO 0x0233
      0x022C [0x48] [System] [48*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
      0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0230 [0x01] GOTO 0x028D
      0x0233 [0x02] IF !(ExtData[1]->WorkLocal[35] == 3*) GOTO 0x0242
      0x023B [0x48] [System] [49*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
      0x023E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x023F [0x01] GOTO 0x028D
      0x0242 [0x02] IF !(ExtData[1]->WorkLocal[35] == 4*) GOTO 0x0251
      0x024A [0x48] [System] [50*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
      0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x024E [0x01] GOTO 0x028D
      0x0251 [0x02] IF !(ExtData[1]->WorkLocal[35] == 5*) GOTO 0x0260
      0x0259 [0x48] [System] [51*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
      0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x025D [0x01] GOTO 0x028D
      0x0260 [0x02] IF !(ExtData[1]->WorkLocal[35] == 6*) GOTO 0x026F
      0x0268 [0x48] [System] [52*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
      0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x026C [0x01] GOTO 0x028D
      0x026F [0x02] IF !(ExtData[1]->WorkLocal[35] == 7*) GOTO 0x027E
      0x0277 [0x48] [System] [53*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
- \u000C\u000E[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000F\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
      0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x027B [0x01] GOTO 0x028D
      0x027E [0x02] IF !(ExtData[1]->WorkLocal[35] == 8*) GOTO 0x028D
      0x0286 [0x48] [System] [54*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: o\u001F
-\u0003 o 
-\u0005 o!
-\u0007 o"
-	\u0007            o#
-\u000B o$
- o%
-\u000F o&
-\u0011\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
      0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x028A [0x01] GOTO 0x028D
      0x028D [0x02] IF !(ExtData[1]->WorkLocal[51] == 0*) GOTO 0x02C5
@@ -1205,15 +1219,7 @@ SUBROUTINE_1DEE:
      0x02D9 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x02E2
      0x02E1 [0x1B] RETURN
      0x02E2 [0x24] CREATE_DIALOG(message_id=86*, default_option=ExtData[1]->WorkLocal[55], option_flags=0*)
-    → "Feed which fewell? (current stock)\u0007\u000Bo\u001F fewell (
-\u0000).\u0007o  fewell (
-\u0001).\u0007o! fewell (
-\u0002).\u0007o" fewell (
-\u0003).\u0007o# fewell (
-\u0004).\u0007o$ fewell (
-\u0005).\u0007o% fewell (
-\u0006).\u0007o& fewell (
-\u0007).\u0007Cancel.\u007F1\u0000\u0007"
+    → "Feed which fewell? (current stock) [ofewell ($0)./o fewell ($1)./o! fewell ($2)./o" fewell ($3)./o# fewell ($4)./o$ fewell ($5)./o% fewell ($6)./o& fewell ($7)./Cancel.]"
      0x02E9 [0x25] WAIT_DIALOG_SELECT()
      0x02EA [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x02F6
      0x02F2 [0x1B] RETURN
@@ -1236,9 +1242,7 @@ SUBROUTINE_1DEE:
      0x032D [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0336
      0x0335 [0x1B] RETURN
      0x0336 [0x48] [System] [74*]:
-    → "Internal pressure: 
-\u0001 Pz/Im\u0007Impurity ratio: 
-\u0000%\u0000\u0007"
+    → "Internal pressure: $1 Pz/Im Impurity ratio: $0%"
      0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x033A [0x1B] RETURN
      0x033B [0x03] Work_Zone[1] = 111*
@@ -1264,7 +1268,7 @@ SUBROUTINE_1DEE:
      0x0396 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[7]
      0x039B [0x08] Work_Zone[9] -= 100*
      0x03A0 [0x48] [System] [70*]:
-    → "Internal elemental balance:\u0007o\u001F\u007F\u0014\u0000 o \u007F\u0014\u0001 o!\u007F\u0014\u0002 o"\u007F\u0014\u0003 o#\u007F\u0014\u0004 o$\u007F\u0014\u0005 o%\u007F\u0014\u0006 o&\u007F\u0014\u0007\u0000\u0007"
+    → "Internal elemental balance: o$0 o o! o" o# o$ o% o&"
      0x03A3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
      0x03A8 [0x08] Work_Zone[2] -= 100*
      0x03AD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
@@ -1282,7 +1286,7 @@ SUBROUTINE_1DEE:
      0x03E9 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[15]
      0x03EE [0x08] Work_Zone[9] -= 100*
      0x03F3 [0x48] [System] [71*]:
-    → "\u001Fo\u001F\u007F\u0014\u0000 o \u007F\u0014\u0001 o!\u007F\u0014\u0002 o"\u007F\u0014\u0003 o#\u007F\u0014\u0004 o$\u007F\u0014\u0005 o%\u007F\u0014\u0006 o&\u007F\u0014\u0007\u0000\u0007"
+    → "o$0 o o! o" o# o$ o% o&"
      0x03F6 [0x1B] RETURN
      0x03F7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
      0x03FC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
@@ -1292,12 +1296,7 @@ SUBROUTINE_1DEE:
      0x0410 [0x03] Work_Zone_1700[31] = 17326*
      0x0415 [0x06] ExtData[1]->WorkLocal[43] = 0
      0x0418 [0x24] CREATE_DIALOG(message_id=85*, default_option=ExtData[1]->WorkLocal[56], option_flags=ExtData[1]->WorkLocal[45])
-    → "Select an action/skill.\u0007\u000BLv.
-\u0000: Thwack furnace.\u0007Lv.
-\u0001: Operate pressure handle.\u0007Lv.
-\u0002: Operate safety lever.\u0007Lv.
-\u0003: Repair furnace.\u0007Lv.
-\u0004: Recycle strewn fewell.\u0007Fishing: Lunar Smarts.\u0007Fishing: Precision Thwack.\u0007Woodworking: Cyclical Smarts.\u0007Woodworking: Earth Affinity.\u0007Smithing: Combustive Smarts.\u0007Smithing: Fire Affinity.\u0007Goldsmithing: Engraver's Touch.\u0007Goldsmithing: Wind Affinity.\u0007Clothcraft: Restorer's Touch.\u0007Clothcraft: Lightning Affinity.\u0007Leathercraft: Pressurization Smarts.\u0007Leathercraft: Ice Affinity.\u0007Bonecraft: Carbonization Smarts.\u0007Bonecraft: Dark Affinity.\u0007Alchemy: Alchemical Smarts.\u0007Alchemy: Light Affinity.\u0007Cooking: Heating Smarts.\u0007Cooking: Water Affinity.\u0007DEBUG\u0001FForced perfection.\u0007DEBUG\u0001FSet level (Requires \u0001\u0001\u0001 \u0001\u0005$\u0002'\u0000\u0000).\u0007DEBUG: Set pressure/impurities.\u0007DEBUG: Something good.\u0007Cancel.\u007F1\u0000\u0007"
+    → "Select an action/skill. [Lv.$0: Thwack furnace./Lv.$1: Operate pressure handle./Lv.$2: Operate safety lever./Lv.$3: Repair furnace./Lv.$4: Recycle strewn fewell./Fishing: Lunar Smarts./Fishing: Precision Thwack./Woodworking: Cyclical Smarts./Woodworking: Earth Affinity./Smithing: Combustive Smarts./Smithing: Fire Affinity./Goldsmithing: Engraver's Touch./Goldsmithing: Wind Affinity./Clothcraft: Restorer's Touch./Clothcraft: Lightning Affinity./Leathercraft: Pressurization Smarts./Leathercraft: Ice Affinity./Bonecraft: Carbonization Smarts./Bonecraft: Dark Affinity./Alchemy: Alchemical Smarts./Alchemy: Light Affinity./Cooking: Heating Smarts./Cooking: Water Affinity./DEBUGFForced perfection./DEBUGFSet level (Requires $39)./DEBUG: Set pressure/impurities./DEBUG: Something good./Cancel.]"
      0x041F [0x25] WAIT_DIALOG_SELECT()
      0x0420 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0433
      0x0428 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
@@ -1433,16 +1432,16 @@ SUBROUTINE_1DEE:
      0x0681 [0x1B] RETURN
      0x0682 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0698
      0x0689 [0x48] [System] [90*]:
-    → "Your furnace lost a small amount of durability.\u0000\u0007"
+    → "Your furnace lost a small amount of durability."
      0x068C [0x03] Work_Zone[1] = 120*
      0x0691 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0693 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0695 [0x01] GOTO 0x06C6
      0x0698 [0x48] [System] [92*]:
-    → "Apply a measured thwack to the furnace to prevent explosion.\u0007Cost: Reduction in furnace durability.\u0000\u0007"
+    → "Apply a measured thwack to the furnace to prevent explosion. Cost: Reduction in furnace durability."
      0x069B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x069C [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x06A3 [0x25] WAIT_DIALOG_SELECT()
      0x06A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C3
      0x06AC [0x03] Work_Zone[1] = 120*
@@ -1458,9 +1457,7 @@ SUBROUTINE_1DEE:
      0x06D1 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x06D9 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x06FA
      0x06E0 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x06E3 [0x03] Work_Zone[1] = 121*
      0x06E8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x06EA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1468,12 +1465,10 @@ SUBROUTINE_1DEE:
      0x06F4 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x06F7 [0x01] GOTO 0x0728
      0x06FA [0x48] [System] [93*]:
-    → "Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x06FD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06FE [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0705 [0x25] WAIT_DIALOG_SELECT()
      0x0706 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0725
      0x070E [0x03] Work_Zone[1] = 121*
@@ -1489,9 +1484,7 @@ SUBROUTINE_1DEE:
      0x0733 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x073B [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x075C
      0x0742 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0745 [0x03] Work_Zone[1] = 123*
      0x074A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x074C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1499,12 +1492,10 @@ SUBROUTINE_1DEE:
      0x0756 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0759 [0x01] GOTO 0x078A
      0x075C [0x48] [System] [94*]:
-    → "Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0760 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0767 [0x25] WAIT_DIALOG_SELECT()
      0x0768 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0787
      0x0770 [0x03] Work_Zone[1] = 123*
@@ -1520,9 +1511,7 @@ SUBROUTINE_1DEE:
      0x0795 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x079D [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x07BE
      0x07A4 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x07A7 [0x03] Work_Zone[1] = 122*
      0x07AC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x07AE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1530,12 +1519,10 @@ SUBROUTINE_1DEE:
      0x07B8 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x07BB [0x01] GOTO 0x07EC
      0x07BE [0x48] [System] [95*]:
-    → "Restore the furnace's durability.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Restore the furnace's durability. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x07C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x07C2 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x07C9 [0x25] WAIT_DIALOG_SELECT()
      0x07CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07E9
      0x07D2 [0x03] Work_Zone[1] = 122*
@@ -1548,7 +1535,7 @@ SUBROUTINE_1DEE:
      0x07EC [0x1B] RETURN
      0x07ED [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x080E
      0x07F4 [0x48] [System] [91*]:
-    → "There was no impact on fewell reserves or furnace durability.\u0000\u0007"
+    → "There was no impact on fewell reserves or furnace durability."
      0x07F7 [0x03] Work_Zone[1] = 124*
      0x07FC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x07FE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1556,10 +1543,10 @@ SUBROUTINE_1DEE:
      0x0808 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x080B [0x01] GOTO 0x083C
      0x080E [0x48] [System] [96*]:
-    → "Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product.\u0007Cost: Nothing.\u0000\u0007"
+    → "Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product. Cost: Nothing."
      0x0811 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0812 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0819 [0x25] WAIT_DIALOG_SELECT()
      0x081A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0839
      0x0822 [0x03] Work_Zone[1] = 124*
@@ -1577,9 +1564,7 @@ SUBROUTINE_1DEE:
      0x085E [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0866 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0887
      0x086D [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0870 [0x03] Work_Zone[1] = 125*
      0x0875 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0877 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1587,12 +1572,10 @@ SUBROUTINE_1DEE:
      0x0881 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0884 [0x01] GOTO 0x08B5
      0x0887 [0x48] [System] [97*]:
-    → "Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x088A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x088B [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0892 [0x25] WAIT_DIALOG_SELECT()
      0x0893 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08B2
      0x089B [0x03] Work_Zone[1] = 125*
@@ -1615,10 +1598,10 @@ SUBROUTINE_1DEE:
      0x08E1 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x08E4 [0x01] GOTO 0x0915
      0x08E7 [0x48] [System] [98*]:
-    → "Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack.\u0007Cost: Slight reduction in furnace durability.\u0000\u0007"
+    → "Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack. Cost: Slight reduction in furnace durability."
      0x08EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08EB [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x08F2 [0x25] WAIT_DIALOG_SELECT()
      0x08F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0912
      0x08FB [0x03] Work_Zone[1] = 126*
@@ -1634,9 +1617,7 @@ SUBROUTINE_1DEE:
      0x0920 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0928 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0949
      0x092F [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0932 [0x03] Work_Zone[1] = 127*
      0x0937 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0939 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1644,12 +1625,10 @@ SUBROUTINE_1DEE:
      0x0943 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0946 [0x01] GOTO 0x0977
      0x0949 [0x48] [System] [99*]:
-    → "Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x094C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x094D [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0954 [0x25] WAIT_DIALOG_SELECT()
      0x0955 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0974
      0x095D [0x03] Work_Zone[1] = 127*
@@ -1665,9 +1644,7 @@ SUBROUTINE_1DEE:
      0x0982 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x098A [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x09AB
      0x0991 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0994 [0x03] Work_Zone[1] = 128*
      0x0999 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x099B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1675,12 +1652,10 @@ SUBROUTINE_1DEE:
      0x09A5 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x09A8 [0x01] GOTO 0x09D9
      0x09AB [0x48] [System] [100*]:
-    → "Keenly observe the flow of elements to prevent o"-based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent o"-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x09AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09AF [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x09B6 [0x25] WAIT_DIALOG_SELECT()
      0x09B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09D6
      0x09BF [0x03] Work_Zone[1] = 128*
@@ -1696,9 +1671,7 @@ SUBROUTINE_1DEE:
      0x09E4 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x09EC [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0A0D
      0x09F3 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x09F6 [0x03] Work_Zone[1] = 129*
      0x09FB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x09FD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1706,12 +1679,10 @@ SUBROUTINE_1DEE:
      0x0A07 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0A0A [0x01] GOTO 0x0A3B
      0x0A0D [0x48] [System] [101*]:
-    → "Temporarily improve fewell combustion rate.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Temporarily improve fewell combustion rate. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0A10 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A11 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0A18 [0x25] WAIT_DIALOG_SELECT()
      0x0A19 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A38
      0x0A21 [0x03] Work_Zone[1] = 129*
@@ -1727,9 +1698,7 @@ SUBROUTINE_1DEE:
      0x0A46 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0A4E [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0A6F
      0x0A55 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0A58 [0x03] Work_Zone[1] = 130*
      0x0A5D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0A5F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1737,12 +1706,10 @@ SUBROUTINE_1DEE:
      0x0A69 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0A6C [0x01] GOTO 0x0A9D
      0x0A6F [0x48] [System] [102*]:
-    → "Keenly observe the flow of elements to prevent o\u001F-based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent obased explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A73 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0A7A [0x25] WAIT_DIALOG_SELECT()
      0x0A7B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A9A
      0x0A83 [0x03] Work_Zone[1] = 130*
@@ -1758,9 +1725,7 @@ SUBROUTINE_1DEE:
      0x0AA8 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0AB0 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0AD1
      0x0AB7 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0ABA [0x03] Work_Zone[1] = 131*
      0x0ABF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0AC1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1768,12 +1733,10 @@ SUBROUTINE_1DEE:
      0x0ACB [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0ACE [0x01] GOTO 0x0AFF
      0x0AD1 [0x48] [System] [103*]:
-    → "Evenly disperse the furnace's internal stress to delay a looming explosion.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Evenly disperse the furnace's internal stress to delay a looming explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0AD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AD5 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0ADC [0x25] WAIT_DIALOG_SELECT()
      0x0ADD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AFC
      0x0AE5 [0x03] Work_Zone[1] = 131*
@@ -1789,9 +1752,7 @@ SUBROUTINE_1DEE:
      0x0B0A [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0B12 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0B33
      0x0B19 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0B1C [0x03] Work_Zone[1] = 132*
      0x0B21 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0B23 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1799,12 +1760,10 @@ SUBROUTINE_1DEE:
      0x0B2D [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0B30 [0x01] GOTO 0x0B61
      0x0B33 [0x48] [System] [104*]:
-    → "Keenly observe the flow of elements to prevent o!-based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent o!-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0B36 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B37 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0B3E [0x25] WAIT_DIALOG_SELECT()
      0x0B3F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B5E
      0x0B47 [0x03] Work_Zone[1] = 132*
@@ -1820,9 +1779,7 @@ SUBROUTINE_1DEE:
      0x0B6C [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0B74 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0B95
      0x0B7B [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0B7E [0x03] Work_Zone[1] = 133*
      0x0B83 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0B85 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1830,12 +1787,10 @@ SUBROUTINE_1DEE:
      0x0B8F [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0B92 [0x01] GOTO 0x0BC3
      0x0B95 [0x48] [System] [109*]:
-    → "Restore furnace durability by a significant amount.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Restore furnace durability by a significant amount. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0B98 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B99 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0BA0 [0x25] WAIT_DIALOG_SELECT()
      0x0BA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BC0
      0x0BA9 [0x03] Work_Zone[1] = 133*
@@ -1851,9 +1806,7 @@ SUBROUTINE_1DEE:
      0x0BCE [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0BD6 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0BF7
      0x0BDD [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0BE0 [0x03] Work_Zone[1] = 134*
      0x0BE5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0BE7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1861,12 +1814,10 @@ SUBROUTINE_1DEE:
      0x0BF1 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0BF4 [0x01] GOTO 0x0C25
      0x0BF7 [0x48] [System] [110*]:
-    → "Keenly observe the flow of elements to prevent o#-based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent o#-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0BFA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BFB [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0C02 [0x25] WAIT_DIALOG_SELECT()
      0x0C03 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C22
      0x0C0B [0x03] Work_Zone[1] = 134*
@@ -1882,9 +1833,7 @@ SUBROUTINE_1DEE:
      0x0C30 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0C38 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0C59
      0x0C3F [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0C42 [0x03] Work_Zone[1] = 135*
      0x0C47 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0C49 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1892,12 +1841,10 @@ SUBROUTINE_1DEE:
      0x0C53 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0C56 [0x01] GOTO 0x0C87
      0x0C59 [0x48] [System] [105*]:
-    → "Temporarily suppress fluctuations in internal pressure.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Temporarily suppress fluctuations in internal pressure. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0C5C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C5D [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0C64 [0x25] WAIT_DIALOG_SELECT()
      0x0C65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C84
      0x0C6D [0x03] Work_Zone[1] = 135*
@@ -1913,9 +1860,7 @@ SUBROUTINE_1DEE:
      0x0C92 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0C9A [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0CBB
      0x0CA1 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0CA4 [0x03] Work_Zone[1] = 136*
      0x0CA9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0CAB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1923,12 +1868,10 @@ SUBROUTINE_1DEE:
      0x0CB5 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0CB8 [0x01] GOTO 0x0CE9
      0x0CBB [0x48] [System] [106*]:
-    → "Keenly observe the flow of elements to prevent o -based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent o -based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0CBE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CBF [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0CC6 [0x25] WAIT_DIALOG_SELECT()
      0x0CC7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CE6
      0x0CCF [0x03] Work_Zone[1] = 136*
@@ -1944,9 +1887,7 @@ SUBROUTINE_1DEE:
      0x0CF4 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0CFC [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0D1D
      0x0D03 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0D06 [0x03] Work_Zone[1] = 137*
      0x0D0B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0D0D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1954,12 +1895,10 @@ SUBROUTINE_1DEE:
      0x0D17 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0D1A [0x01] GOTO 0x0D4B
      0x0D1D [0x48] [System] [107*]:
-    → "Temporarily increase the likelihood of an elemental surge.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Temporarily increase the likelihood of an elemental surge. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0D20 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D21 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0D28 [0x25] WAIT_DIALOG_SELECT()
      0x0D29 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D48
      0x0D31 [0x03] Work_Zone[1] = 137*
@@ -1975,9 +1914,7 @@ SUBROUTINE_1DEE:
      0x0D56 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0D5E [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0D7F
      0x0D65 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0D68 [0x03] Work_Zone[1] = 138*
      0x0D6D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0D6F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -1985,12 +1922,10 @@ SUBROUTINE_1DEE:
      0x0D79 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0D7C [0x01] GOTO 0x0DAD
      0x0D7F [0x48] [System] [108*]:
-    → "Keenly observe the flow of elements to prevent o&-based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent o&-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0D82 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D83 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0D8A [0x25] WAIT_DIALOG_SELECT()
      0x0D8B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DAA
      0x0D93 [0x03] Work_Zone[1] = 138*
@@ -2006,9 +1941,7 @@ SUBROUTINE_1DEE:
      0x0DB8 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0DC0 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0DE1
      0x0DC7 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0DCA [0x03] Work_Zone[1] = 139*
      0x0DCF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0DD1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -2016,12 +1949,10 @@ SUBROUTINE_1DEE:
      0x0DDB [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0DDE [0x01] GOTO 0x0E0F
      0x0DE1 [0x48] [System] [111*]:
-    → "Temporarily suppress the force of explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Temporarily suppress the force of explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0DE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DE5 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0DEC [0x25] WAIT_DIALOG_SELECT()
      0x0DED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E0C
      0x0DF5 [0x03] Work_Zone[1] = 139*
@@ -2037,9 +1968,7 @@ SUBROUTINE_1DEE:
      0x0E1A [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0E22 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0E43
      0x0E29 [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0E2C [0x03] Work_Zone[1] = 140*
      0x0E31 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0E33 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -2047,12 +1976,10 @@ SUBROUTINE_1DEE:
      0x0E3D [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0E40 [0x01] GOTO 0x0E71
      0x0E43 [0x48] [System] [112*]:
-    → "Keenly observe the flow of elements to prevent o%-based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent o%-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0E46 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E47 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0E4E [0x25] WAIT_DIALOG_SELECT()
      0x0E4F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E6E
      0x0E57 [0x03] Work_Zone[1] = 140*
@@ -2068,9 +1995,7 @@ SUBROUTINE_1DEE:
      0x0E7C [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0E84 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0EA5
      0x0E8B [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0E8E [0x03] Work_Zone[1] = 141*
      0x0E93 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0E95 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -2078,12 +2003,10 @@ SUBROUTINE_1DEE:
      0x0E9F [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0EA2 [0x01] GOTO 0x0ED3
      0x0EA5 [0x48] [System] [113*]:
-    → "Gradually purge the furnace of impurities.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Gradually purge the furnace of impurities. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0EA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EA9 [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0EB0 [0x25] WAIT_DIALOG_SELECT()
      0x0EB1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ED0
      0x0EB9 [0x03] Work_Zone[1] = 141*
@@ -2099,9 +2022,7 @@ SUBROUTINE_1DEE:
      0x0EDE [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
      0x0EE6 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0F07
      0x0EED [0x48] [System] [89*]:
-    → "You expended 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0EF0 [0x03] Work_Zone[1] = 142*
      0x0EF5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0EF7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
@@ -2109,12 +2030,10 @@ SUBROUTINE_1DEE:
      0x0F01 [0x1A] CALL_SUBROUTINE(address=0x1055)
      0x0F04 [0x01] GOTO 0x0F35
      0x0F07 [0x48] [System] [114*]:
-    → "Keenly observe the flow of elements to prevent o$-based explosions.\u0007Cost: 
-\u0001 \u007F\u0012\u0001[portion/portions] of \u000C\u0000[o\u001F/o /o!/o"/o#/o$/o%/o&] fewell (
-\u0002 \u007F\u0012\u0002[portion/portions] remaining).\u0000\u0007"
+    → "Keenly observe the flow of elements to prevent o$-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
      0x0F0A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F0B [0x24] CREATE_DIALOG(message_id=115*, default_option=0*, option_flags=0*)
-    → "Perform action?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Perform action? [Yes./No.]"
      0x0F12 [0x25] WAIT_DIALOG_SELECT()
      0x0F13 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F32
      0x0F1B [0x03] Work_Zone[1] = 142*
@@ -2189,7 +2108,7 @@ SUBROUTINE_1DEE:
      0x10A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10BB
      0x10AB [0x03] Work_Zone[2] = 1234*
      0x10B0 [0x48] [System] [175*]:
-    → "Your \u0001\u00053\u0002\u0000\u0000\u0000 will be removed, and your claim to the synergy furnace, relinquished.\u0000\u0007"
+    → "Your $3 will be removed, and your claim to the synergy furnace, relinquished."
      0x10B3 [0x03] Work_Zone[1] = 146*
      0x10B8 [0x01] GOTO 0x10BB
      0x10BB [0x21] END_EVENT
@@ -2224,99 +2143,51 @@ SUBROUTINE_1DEE:
      0x1146 [0x01] GOTO 0x1131
      0x1149 [0x02] IF !(ExtData[1]->WorkLocal[35] == 0*) GOTO 0x1158
      0x1151 [0x48] [System] [46*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: N/A\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: N/A"
      0x1154 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1155 [0x01] GOTO 0x11D0
      0x1158 [0x02] IF !(ExtData[1]->WorkLocal[35] == 1*) GOTO 0x1167
      0x1160 [0x48] [System] [47*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
      0x1163 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1164 [0x01] GOTO 0x11D0
      0x1167 [0x02] IF !(ExtData[1]->WorkLocal[35] == 2*) GOTO 0x1176
      0x116F [0x48] [System] [48*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
      0x1172 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1173 [0x01] GOTO 0x11D0
      0x1176 [0x02] IF !(ExtData[1]->WorkLocal[35] == 3*) GOTO 0x1185
      0x117E [0x48] [System] [49*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
      0x1181 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1182 [0x01] GOTO 0x11D0
      0x1185 [0x02] IF !(ExtData[1]->WorkLocal[35] == 4*) GOTO 0x1194
      0x118D [0x48] [System] [50*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
      0x1190 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1191 [0x01] GOTO 0x11D0
      0x1194 [0x02] IF !(ExtData[1]->WorkLocal[35] == 5*) GOTO 0x11A3
      0x119C [0x48] [System] [51*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
      0x119F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11A0 [0x01] GOTO 0x11D0
      0x11A3 [0x02] IF !(ExtData[1]->WorkLocal[35] == 6*) GOTO 0x11B2
      0x11AB [0x48] [System] [52*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
      0x11AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11AF [0x01] GOTO 0x11D0
      0x11B2 [0x02] IF !(ExtData[1]->WorkLocal[35] == 7*) GOTO 0x11C1
      0x11BA [0x48] [System] [53*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
- \u000C\u000E[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000F\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
      0x11BD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11BE [0x01] GOTO 0x11D0
      0x11C1 [0x02] IF !(ExtData[1]->WorkLocal[35] == 8*) GOTO 0x11D0
      0x11C9 [0x48] [System] [54*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: o\u001F
-\u0003 o 
-\u0005 o!
-\u0007 o"
-	\u0007            o#
-\u000B o$
- o%
-\u000F o&
-\u0011\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
      0x11CC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11CD [0x01] GOTO 0x11D0
      0x11D0 [0x24] CREATE_DIALOG(message_id=68*, default_option=0*, option_flags=0*)
-    → "Commence synergy?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Commence synergy? [Yes./No.]"
      0x11D7 [0x25] WAIT_DIALOG_SELECT()
      0x11D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11E8
      0x11E0 [0x03] Work_Zone[1] = 150*
@@ -2391,7 +2262,7 @@ SUBROUTINE_1DEE:
      0x133D [0x41] Work_Zone_1700[0] = ExtData[1]->WorkLocal[60] (bits 0*-3*)
      0x1346 [0x02] IF !(Work_Zone_1700[0] == 0*) GOTO 0x1359
      0x134E [0x48] [System] [58*]:
-    → "This item cannot house any more apertures.\u007F1\u0000\u0007"
+    → "This item cannot house any more apertures."
      0x1351 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1352 [0x03] Work_Zone[1] = 153*
      0x1357 [0x21] END_EVENT
@@ -2412,7 +2283,7 @@ SUBROUTINE_1DEE:
      0x13AB [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
      0x13B5 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[34]
      0x13BA [0x48] [System] [55*]:
-    → "\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0008\u0000\u0000 will be used to etch an aperture on the \u0001\u0005#\u0002\u0003\u0000\u0000.\u007F1\u0000\u0007"
+    → "$8 will be used to etch an aperture on the $3."
      0x13BD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13BE [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x13F6
      0x13C6 [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x13E9
@@ -2426,7 +2297,7 @@ SUBROUTINE_1DEE:
      0x13F6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
      0x1400 [0x02] IF !(1* == 1*) GOTO 0x1464
      0x1408 [0x24] CREATE_DIALOG(message_id=56*, default_option=0*, option_flags=Work_Zone_1700[3])
-    → "Select elemental alignment.\u0007\u000Bo\u001F\u0007o \u0007o!\u0007o"\u0007o#\u0007o$\u0007o%\u0007o&\u0007Cancel.\u007F1\u0000\u0007"
+    → "Select elemental alignment. [oo /o!/o"/o#/o$/o%/o&/Cancel.]"
      0x140F [0x25] WAIT_DIALOG_SELECT()
      0x1410 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1422
      0x1418 [0x03] Work_Zone[1] = 153*
@@ -2435,7 +2306,7 @@ SUBROUTINE_1DEE:
      0x141F [0x01] GOTO 0x1427
      0x1422 [0x03] Work_Zone_1700[1] = Work_Zone[0]
      0x1427 [0x24] CREATE_DIALOG(message_id=57*, default_option=0*, option_flags=0*)
-    → "Confirm: \u007F\u0000\u0001\u0001\u0005#\u0002\u0008\u0000\u0000\u000C	[o\u001F/o /o!/o"/o#/o$/o%/o&]\u0007\u000BYes.\u0007Redo.\u007F1\u0000\u0007"
+    → "Confirm: $8[oo /o!/o"/o#/o$/o%/o&] [Yes./Redo.]"
      0x142E [0x25] WAIT_DIALOG_SELECT()
      0x142F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1461
      0x1437 [0x03] Work_Zone[1] = Work_Zone_1700[1]
@@ -2474,93 +2345,46 @@ SUBROUTINE_1DEE:
      0x14C9 [0x01] GOTO 0x14B4
      0x14CC [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x14DB
      0x14D4 [0x48] [System] [47*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
      0x14D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14D8 [0x01] GOTO 0x1544
      0x14DB [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x14EA
      0x14E3 [0x48] [System] [48*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
      0x14E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14E7 [0x01] GOTO 0x1544
      0x14EA [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x14F9
      0x14F2 [0x48] [System] [49*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
      0x14F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14F6 [0x01] GOTO 0x1544
      0x14F9 [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x1508
      0x1501 [0x48] [System] [50*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
      0x1504 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1505 [0x01] GOTO 0x1544
      0x1508 [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x1517
      0x1510 [0x48] [System] [51*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
      0x1513 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1514 [0x01] GOTO 0x1544
      0x1517 [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x1526
      0x151F [0x48] [System] [52*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
      0x1522 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1523 [0x01] GOTO 0x1544
      0x1526 [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x1535
      0x152E [0x48] [System] [53*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
- \u000C\u000E[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000F\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
      0x1531 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1532 [0x01] GOTO 0x1544
      0x1535 [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x1544
      0x153D [0x48] [System] [54*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: o\u001F
-\u0003 o 
-\u0005 o!
-\u0007 o"
-	\u0007            o#
-\u000B o$
- o%
-\u000F o&
-\u0011\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
      0x1540 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1541 [0x01] GOTO 0x1544
      0x1544 [0x24] CREATE_DIALOG(message_id=68*, default_option=0*, option_flags=0*)
-    → "Commence synergy?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Commence synergy? [Yes./No.]"
      0x154B [0x25] WAIT_DIALOG_SELECT()
      0x154C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x155C
      0x1554 [0x03] Work_Zone[1] = 154*
@@ -2616,7 +2440,7 @@ SUBROUTINE_1DEE:
      0x16B1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=5*, condition_work_offset=1*)
      0x16B8 [0x02] IF !(ExtData[1]->WorkLocal[42] == 0*) GOTO 0x16CB
      0x16C0 [0x48] [System] [63*]:
-    → "There are no compatible apertures on this item.\u007F1\u0000\u0007"
+    → "There are no compatible apertures on this item."
      0x16C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16C4 [0x03] Work_Zone[1] = 157*
      0x16C9 [0x21] END_EVENT
@@ -2625,7 +2449,7 @@ SUBROUTINE_1DEE:
      0x16D0 [0x03] Work_Zone_1700[0] = 2783*
      0x16D5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
      0x16DF [0x48] [System] [59*]:
-    → "The \u0001\u0005#\u0002\u0008\u0000\u0000 will be embedded in the \u0001\u0005#\u0002\u0003\u0000\u0000.\u007F1\u0000\u0007"
+    → "The $8 will be embedded in the $3."
      0x16E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16E3 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
      0x16ED [0x02] IF !(1* == 1*) GOTO 0x17D9
@@ -2650,8 +2474,7 @@ SUBROUTINE_1DEE:
      0x174D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[20], bit_index_work_offset=3*, condition_work_offset=1*)
      0x1754 [0x0F] Work_Zone_1700[20] ^= 4294967295*
      0x1759 [0x24] CREATE_DIALOG(message_id=60*, default_option=0*, option_flags=Work_Zone_1700[20])
-    → "Select target aperture.\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0008\u0000\u0000\u000C	[o\u001F/o /o!/o"/o#/o$/o%/o&] \u000C\u000C[(Unused)/(Used)].\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0008\u0000\u0000\u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&] \u000C[(Unused)/(Used)].\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0008\u0000\u0000\u000C\u000B[o\u001F/o /o!/o"/o#/o$/o%/o&] \u000C\u000E[(Unused)/(Used)].\u0007Cancel.\u007F1\u0000\u0007"
+    → "Select target aperture. [$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./Cancel.]"
      0x1760 [0x25] WAIT_DIALOG_SELECT()
      0x1761 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x176C
      0x1769 [0x01] GOTO 0x1793
@@ -2666,7 +2489,7 @@ SUBROUTINE_1DEE:
      0x1792 [0x00] END_REQSTACK()
      0x1793 [0x03] Work_Zone_1700[2] = Work_Zone[0]
      0x1798 [0x24] CREATE_DIALOG(message_id=57*, default_option=1*, option_flags=0*)
-    → "Confirm: \u007F\u0000\u0001\u0001\u0005#\u0002\u0008\u0000\u0000\u000C	[o\u001F/o /o!/o"/o#/o$/o%/o&]\u0007\u000BYes.\u0007Redo.\u007F1\u0000\u0007"
+    → "Confirm: $8[oo /o!/o"/o#/o$/o%/o&] [Yes./Redo.]"
      0x179F [0x25] WAIT_DIALOG_SELECT()
      0x17A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17D6
      0x17A8 [0x03] Work_Zone[1] = Work_Zone_1700[2]
@@ -2677,7 +2500,7 @@ SUBROUTINE_1DEE:
      0x17C2 [0x01] GOTO 0x17DB
      0x17C5 [0x01] GOTO 0x17D3
      0x17C8 [0x48] [System] [63*]:
-    → "There are no compatible apertures on this item.\u007F1\u0000\u0007"
+    → "There are no compatible apertures on this item."
      0x17CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17CC [0x03] Work_Zone[1] = 157*
      0x17D1 [0x21] END_EVENT
@@ -2708,93 +2531,46 @@ SUBROUTINE_1DEE:
      0x183E [0x01] GOTO 0x1829
      0x1841 [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x1850
      0x1849 [0x48] [System] [47*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
      0x184C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x184D [0x01] GOTO 0x18B9
      0x1850 [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x185F
      0x1858 [0x48] [System] [48*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
      0x185B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x185C [0x01] GOTO 0x18B9
      0x185F [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x186E
      0x1867 [0x48] [System] [49*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
      0x186A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x186B [0x01] GOTO 0x18B9
      0x186E [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x187D
      0x1876 [0x48] [System] [50*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
      0x1879 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x187A [0x01] GOTO 0x18B9
      0x187D [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x188C
      0x1885 [0x48] [System] [51*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
      0x1888 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1889 [0x01] GOTO 0x18B9
      0x188C [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x189B
      0x1894 [0x48] [System] [52*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
      0x1897 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1898 [0x01] GOTO 0x18B9
      0x189B [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x18AA
      0x18A3 [0x48] [System] [53*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
- \u000C\u000E[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000F\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
      0x18A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18A7 [0x01] GOTO 0x18B9
      0x18AA [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x18B9
      0x18B2 [0x48] [System] [54*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: o\u001F
-\u0003 o 
-\u0005 o!
-\u0007 o"
-	\u0007            o#
-\u000B o$
- o%
-\u000F o&
-\u0011\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
      0x18B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18B6 [0x01] GOTO 0x18B9
      0x18B9 [0x24] CREATE_DIALOG(message_id=68*, default_option=0*, option_flags=0*)
-    → "Commence synergy?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Commence synergy? [Yes./No.]"
      0x18C0 [0x25] WAIT_DIALOG_SELECT()
      0x18C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18D1
      0x18C9 [0x03] Work_Zone[1] = 154*
@@ -2811,10 +2587,10 @@ SUBROUTINE_1DEE:
      0x18F2 [0x03] Work_Zone[5] = 2800*
      0x18F7 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
      0x1901 [0x48] [System] [64*]:
-    → "\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0003\u0000\u0000 will be used to remove all apertures from the \u0001\u0005#\u0002\u0008\u0000\u0000.\u007F1\u0000\u0007"
+    → "$3 will be used to remove all apertures from the $8."
      0x1904 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1905 [0x24] CREATE_DIALOG(message_id=65*, default_option=1*, option_flags=0*)
-    → "Remove all apertures?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Remove all apertures? [Yes./No.]"
      0x190C [0x25] WAIT_DIALOG_SELECT()
      0x190D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A20
      0x1915 [0x03] Work_Zone[1] = Work_Zone_1700[1]
@@ -2840,93 +2616,46 @@ SUBROUTINE_1DEE:
      0x197B [0x01] GOTO 0x1966
      0x197E [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x198D
      0x1986 [0x48] [System] [47*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
      0x1989 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x198A [0x01] GOTO 0x19F6
      0x198D [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x199C
      0x1995 [0x48] [System] [48*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
      0x1998 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1999 [0x01] GOTO 0x19F6
      0x199C [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x19AB
      0x19A4 [0x48] [System] [49*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
      0x19A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19A8 [0x01] GOTO 0x19F6
      0x19AB [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x19BA
      0x19B3 [0x48] [System] [50*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
      0x19B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19B7 [0x01] GOTO 0x19F6
      0x19BA [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x19C9
      0x19C2 [0x48] [System] [51*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
      0x19C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19C6 [0x01] GOTO 0x19F6
      0x19C9 [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x19D8
      0x19D1 [0x48] [System] [52*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
      0x19D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19D5 [0x01] GOTO 0x19F6
      0x19D8 [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x19E7
      0x19E0 [0x48] [System] [53*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
- \u000C\u000E[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000F\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
      0x19E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19E4 [0x01] GOTO 0x19F6
      0x19E7 [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x19F6
      0x19EF [0x48] [System] [54*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: o\u001F
-\u0003 o 
-\u0005 o!
-\u0007 o"
-	\u0007            o#
-\u000B o$
- o%
-\u000F o&
-\u0011\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
      0x19F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19F3 [0x01] GOTO 0x19F6
      0x19F6 [0x24] CREATE_DIALOG(message_id=68*, default_option=0*, option_flags=0*)
-    → "Commence synergy?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Commence synergy? [Yes./No.]"
      0x19FD [0x25] WAIT_DIALOG_SELECT()
      0x19FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A0E
      0x1A06 [0x03] Work_Zone[1] = 161*
@@ -2958,7 +2687,7 @@ SUBROUTINE_1DEE:
      0x1A70 [0x03] ExtData[1]->WorkLocal[60] = ExtData[1]->WorkLocal[35]
      0x1A75 [0x01] GOTO 0x1A83
      0x1A78 [0x48] [System] [66*]:
-    → "There are no removable apertures on this item.\u0000\u0007"
+    → "There are no removable apertures on this item."
      0x1A7B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A7C [0x03] Work_Zone[1] = 169*
      0x1A81 [0x21] END_EVENT
@@ -2966,7 +2695,7 @@ SUBROUTINE_1DEE:
      0x1A83 [0x41] Work_Zone_1700[0] = ExtData[1]->WorkLocal[60] (bits 0*-3*)
      0x1A8C [0x02] IF !(Work_Zone_1700[0] == 0*) GOTO 0x1A9F
      0x1A94 [0x48] [System] [66*]:
-    → "There are no removable apertures on this item.\u0000\u0007"
+    → "There are no removable apertures on this item."
      0x1A97 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A98 [0x03] Work_Zone[1] = 169*
      0x1A9D [0x21] END_EVENT
@@ -2984,7 +2713,7 @@ SUBROUTINE_1DEE:
      0x1ADC [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
      0x1AE6 [0x03] Work_Zone[5] = 2768*
      0x1AEB [0x48] [System] [67*]:
-    → "\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0003\u0000\u0000 will be used to remove the most recently etched aperture from the \u0001\u0005#\u0002\u0008\u0000\u0000.\u007F1\u0000\u0007"
+    → "$3 will be used to remove the most recently etched aperture from the $8."
      0x1AEE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1AEF [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x1B27
      0x1AF7 [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x1B1A
@@ -2998,7 +2727,7 @@ SUBROUTINE_1DEE:
      0x1B27 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
      0x1B31 [0x02] IF !(1* == 1*) GOTO 0x1B7D
      0x1B39 [0x24] CREATE_DIALOG(message_id=65*, default_option=0*, option_flags=0*)
-    → "Remove all apertures?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Remove all apertures? [Yes./No.]"
      0x1B40 [0x25] WAIT_DIALOG_SELECT()
      0x1B41 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B73
      0x1B49 [0x03] Work_Zone[1] = Work_Zone_1700[1]
@@ -3040,93 +2769,46 @@ SUBROUTINE_1DEE:
      0x1BE2 [0x01] GOTO 0x1BCD
      0x1BE5 [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x1BF4
      0x1BED [0x48] [System] [47*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
      0x1BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BF1 [0x01] GOTO 0x1C5D
      0x1BF4 [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x1C03
      0x1BFC [0x48] [System] [48*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
      0x1BFF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C00 [0x01] GOTO 0x1C5D
      0x1C03 [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x1C12
      0x1C0B [0x48] [System] [49*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
      0x1C0E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C0F [0x01] GOTO 0x1C5D
      0x1C12 [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x1C21
      0x1C1A [0x48] [System] [50*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
      0x1C1D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C1E [0x01] GOTO 0x1C5D
      0x1C21 [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x1C30
      0x1C29 [0x48] [System] [51*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
      0x1C2C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C2D [0x01] GOTO 0x1C5D
      0x1C30 [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x1C3F
      0x1C38 [0x48] [System] [52*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&] 
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
      0x1C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C3C [0x01] GOTO 0x1C5D
      0x1C3F [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x1C4E
      0x1C47 [0x48] [System] [53*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: \u000C\u0002[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0003 \u000C\u0004[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0005 \u000C\u0006[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u0007 \u000C\u0008[o\u001F/o /o!/o"/o#/o$/o%/o&]
-	\u0007            \u000C
-[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000B \u000C\u000C[o\u001F/o /o!/o"/o#/o$/o%/o&]
- \u000C\u000E[o\u001F/o /o!/o"/o#/o$/o%/o&]
-\u000F\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
      0x1C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C4B [0x01] GOTO 0x1C5D
      0x1C4E [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x1C5D
      0x1C56 [0x48] [System] [54*]:
-    → "Synergy rank: \u000C\u001D[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000\u0007Difficulty: o\u001F
-\u0003 o 
-\u0005 o!
-\u0007 o"
-	\u0007            o#
-\u000B o$
- o%
-\u000F o&
-\u0011\u007F1\u0000\u0007"
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
      0x1C59 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C5A [0x01] GOTO 0x1C5D
      0x1C5D [0x24] CREATE_DIALOG(message_id=68*, default_option=0*, option_flags=0*)
-    → "Commence synergy?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Commence synergy? [Yes./No.]"
      0x1C64 [0x25] WAIT_DIALOG_SELECT()
      0x1C65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C75
      0x1C6D [0x03] Work_Zone[1] = 170*

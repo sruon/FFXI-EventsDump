@@ -1,0 +1,122 @@
+# 17801250 - Majjih Bakrhamab
+
+## Common Data
+
+| Field            | Value            |
+|------------------|------------------|
+| Zone             | Kazham (ID: 250) |
+| Block Size       | 184 bytes        |
+| Total Events     | 2                |
+| References Count | 10               |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [261](#event-261)     | 0x0001       |    118 |             27 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0360      |         864 |
+|       1 | 0x0101      |         257 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x0184      |         388 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x0461      |        1121 |
+|       6 | 0x0090      |         144 |
+|       7 | 0x003C      |          60 |
+|       8 | 0x26DD      |        9949 |
+|       9 | 0x26DC      |        9948 |
+
+## String References
+
+- **9948**: The next flight will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time).
+- **9949**: The next flight is now [arriving/departing].
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 261
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 118 bytes |
+| Instructions | 27        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    1E F0 FF FF 7F 83 02  10 3F 02 10 02 10 00 80   ........?......
+0010: 02 02 10 01 80 03 2A 00  03 03 10 01 80 08 03 10  ......*.........
+0020: 02 10 03 04 10 02 80 01  53 00 02 02 10 03 80 03  ........S.......
+0030: 44 00 03 03 10 03 80 08  03 10 02 10 03 04 10 04  D...............
+0040: 80 01 53 00 03 03 10 05  80 08 03 10 02 10 03 04  ..S.............
+0050: 10 02 80 03 05 10 03 10  15 05 10 06 80 15 03 10  ................
+0060: 07 80 02 03 10 02 80 00  71 00 1D 08 80 23 01 75  ........q....#.u
+0070: 00 1D 09 80 23 21 00                              ....#!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0006 [0x83] Work_Zone[2] = GetGameTime()
+  2: 0x0009 [0x3F] Work_Zone[2] = Work_Zone[2] % 864*
+  3: 0x0010 [0x02] IF !(Work_Zone[2] >= 257*) GOTO 0x002A
+  4: 0x0018 [0x03] Work_Zone[3] = 257*
+  5: 0x001D [0x08] Work_Zone[3] -= Work_Zone[2]
+  6: 0x0022 [0x03] Work_Zone[4] = 0*
+  7: 0x0027 [0x01] GOTO 0x0053
+  8: 0x002A [0x02] IF !(Work_Zone[2] >= 388*) GOTO 0x0044
+  9: 0x0032 [0x03] Work_Zone[3] = 388*
+ 10: 0x0037 [0x08] Work_Zone[3] -= Work_Zone[2]
+ 11: 0x003C [0x03] Work_Zone[4] = 1*
+ 12: 0x0041 [0x01] GOTO 0x0053
+ 13: 0x0044 [0x03] Work_Zone[3] = 1121*
+ 14: 0x0049 [0x08] Work_Zone[3] -= Work_Zone[2]
+ 15: 0x004E [0x03] Work_Zone[4] = 0*
+
+SUBROUTINE_0053:
+ 16: 0x0053 [0x03] Work_Zone[5] = Work_Zone[3]
+ 17: 0x0058 [0x15] Work_Zone[5] /= 144*
+ 18: 0x005D [0x15] Work_Zone[3] /= 60*
+ 19: 0x0062 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0071
+ 20: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=9949*)
+    → "The next flight is now [arriving/departing]."
+ 21: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 22: 0x006E [0x01] GOTO 0x0075
+ 23: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=9948*)
+    → "The next flight will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time)."
+ 24: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0075:
+ 25: 0x0075 [0x21] END_EVENT
+ 26: 0x0076 [0x00] END_REQSTACK()
+```

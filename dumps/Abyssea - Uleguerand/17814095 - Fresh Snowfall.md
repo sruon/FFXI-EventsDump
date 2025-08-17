@@ -1,0 +1,196 @@
+# 17814095 - Fresh Snowfall
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | Abyssea - Uleguerand (ID: 253) |
+| Block Size       | 364 bytes                      |
+| Total Events     | 3                              |
+| References Count | 13                             |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [268](#event-268)     | 0x0001       |    279 |             67 |
+| [269](#event-269)     | 0x0118       |      2 |              2 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0009      |           9 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0013      |          19 |
+|       3 | 0x0001      |           1 |
+|       4 | 0x001D      |          29 |
+|       5 | 0x0002      |           2 |
+|       6 | 0x0027      |          39 |
+|       7 | 0x0003      |           3 |
+|       8 | 0x0004      |           4 |
+|       9 | 0x1EE0      |        7904 |
+|      10 | 0x06B5      |        1717 |
+|      11 | 0x1EE4      |        7908 |
+|      12 | 0x1EE1      |        7905 |
+
+## String References
+
+- **7904**: [Only the thinnest layer of snow covers the ground here/A fair quantity of snow has accumulated here/The large deposits of snow here seem ready to give way at any moment]...
+- **7905**: What will you do? [Nothing./Load firesand./Remove firesand./Set the $5.]
+- **7908**: The chamber of the $5 [contains only a pinch of firesand/contains a small lump of firesand/is filled halfway with firesand/is filled to the brim with firesand/is overflowing with firesand]...
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 268
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 279 bytes |
+| Instructions | 46        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    06 01 00 42 02 09 10  00 80 05 15 00 03 04 10   ...B...........
+0010: 01 80 01 4A 00 02 09 10  02 80 05 25 00 03 04 10  ...J.......%....
+0020: 03 80 01 4A 00 02 09 10  04 80 05 35 00 03 04 10  ...J.......5....
+0030: 05 80 01 4A 00 02 09 10  06 80 05 45 00 03 04 10  ...J.......E....
+0040: 07 80 01 4A 00 03 04 10  08 80 48 09 80 23 1C 03  ...J......H..#..
+0050: 80 03 02 10 0A 80 03 03  10 0A 80 1C 03 80 48 0B  ..............H.
+0060: 80 23 24 0C 80 01 80 01  80 25 02 00 10 01 80 00  .#$......%......
+0070: 7B 00 03 01 10 01 80 21  01 C2 00 02 00 10 03 80  {......!........
+0080: 00 8F 00 03 01 10 03 80  43 00 43 01 01 C2 00 02  ........C.C.....
+0090: 00 10 05 80 00 A3 00 03  01 10 05 80 43 00 43 01  ............C.C.
+00A0: 01 C2 00 02 00 10 07 80  00 C2 00 03 01 10 07 80  ................
+00B0: 43 00 43 01 03 03 10 0A  80 03 01 10 03 80 21 01  C.C...........!.
+00C0: C2 00 02 09 10 00 80 05  D2 00 03 04 10 01 80 01  ................
+00D0: 07 01 02 09 10 02 80 05  E2 00 03 04 10 03 80 01  ................
+00E0: 07 01 02 09 10 04 80 05  F2 00 03 04 10 05 80 01  ................
+00F0: 07 01 02 09 10 06 80 05  02 01 03 04 10 07 80 01  ................
+0100: 07 01 03 04 10 08 80 48  0B 80 23 06 01 00 03 02  .......H..#.....
+0110: 10 0A 80 01 62 00 21 00                           ....b.!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x06] ExtData[1]->WorkLocal[1] = 0
+  1: 0x0004 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0005 [0x02] IF !(Work_Zone[9] > 9*) GOTO 0x0015
+  3: 0x000D [0x03] Work_Zone[4] = 0*
+  4: 0x0012 [0x01] GOTO 0x004A
+  5: 0x0015 [0x02] IF !(Work_Zone[9] > 19*) GOTO 0x0025
+  6: 0x001D [0x03] Work_Zone[4] = 1*
+  7: 0x0022 [0x01] GOTO 0x004A
+  8: 0x0025 [0x02] IF !(Work_Zone[9] > 29*) GOTO 0x0035
+  9: 0x002D [0x03] Work_Zone[4] = 2*
+ 10: 0x0032 [0x01] GOTO 0x004A
+ 11: 0x0035 [0x02] IF !(Work_Zone[9] > 39*) GOTO 0x0045
+ 12: 0x003D [0x03] Work_Zone[4] = 3*
+ 13: 0x0042 [0x01] GOTO 0x004A
+ 14: 0x0045 [0x03] Work_Zone[4] = 4*
+
+SUBROUTINE_004A:
+ 15: 0x004A [0x48] [System] [7904*]:
+    → "[Only the thinnest layer of snow covers the ground here/A fair quantity of snow has accumulated here/The large deposits of snow here seem ready to give way at any moment]..."
+ 16: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 17: 0x004E [0x1C] WAIT(1* ticks)
+ 18: 0x0051 [0x03] Work_Zone[2] = 1717*
+ 19: 0x0056 [0x03] Work_Zone[3] = 1717*
+ 20: 0x005B [0x1C] WAIT(1* ticks)
+ 21: 0x005E [0x48] [System] [7908*]:
+    → "The chamber of the $5 [contains only a pinch of firesand/contains a small lump of firesand/is filled halfway with firesand/is filled to the brim with firesand/is overflowing with firesand]..."
+ 22: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0062:
+ 23: 0x0062 [0x24] CREATE_DIALOG(message_id=7905*, default_option=0*, option_flags=0*)
+    → "What will you do? [Nothing./Load firesand./Remove firesand./Set the $5.]"
+ 24: 0x0069 [0x25] WAIT_DIALOG_SELECT()
+ 25: 0x006A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007B
+ 26: 0x0072 [0x03] Work_Zone[1] = 0*
+ 27: 0x0077 [0x21] END_EVENT
+
+SUBROUTINE_00C2:
+ 28: 0x00C2 [0x02] IF !(Work_Zone[9] > 9*) GOTO 0x00D2
+ 29: 0x00CA [0x03] Work_Zone[4] = 0*
+ 30: 0x00CF [0x01] GOTO 0x0107
+ 31: 0x00D2 [0x02] IF !(Work_Zone[9] > 19*) GOTO 0x00E2
+ 32: 0x00DA [0x03] Work_Zone[4] = 1*
+ 33: 0x00DF [0x01] GOTO 0x0107
+ 34: 0x00E2 [0x02] IF !(Work_Zone[9] > 29*) GOTO 0x00F2
+ 35: 0x00EA [0x03] Work_Zone[4] = 2*
+ 36: 0x00EF [0x01] GOTO 0x0107
+ 37: 0x00F2 [0x02] IF !(Work_Zone[9] > 39*) GOTO 0x0102
+ 38: 0x00FA [0x03] Work_Zone[4] = 3*
+ 39: 0x00FF [0x01] GOTO 0x0107
+ 40: 0x0102 [0x03] Work_Zone[4] = 4*
+
+SUBROUTINE_0107:
+ 41: 0x0107 [0x48] [System] [7908*]:
+    → "The chamber of the $5 [contains only a pinch of firesand/contains a small lump of firesand/is filled halfway with firesand/is filled to the brim with firesand/is overflowing with firesand]..."
+ 42: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 43: 0x010B [0x06] ExtData[1]->WorkLocal[1] = 0
+ 44: 0x010E [0x03] Work_Zone[2] = 1717*
+ 45: 0x0113 [0x01] GOTO 0x0062
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0078 [0x01] GOTO 0x00C2
+     0x00BF [0x01] GOTO 0x00C2
+# Dead code (unreachable instructions):
+     0x0116 [0x21] END_EVENT
+     0x0117 [0x00] END_REQSTACK()
+```
+
+### Event 269
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0118  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0110:                          21 00                            !.      
+```
+
+#### Opcodes
+
+```
+  0: 0x0118 [0x21] END_EVENT
+  1: 0x0119 [0x00] END_REQSTACK()
+```

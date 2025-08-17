@@ -1,0 +1,182 @@
+# 17883919 - Castoff Point
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Cirdas Caverns (ID: 270) |
+| Block Size       | 536 bytes                |
+| Total Events     | 2                        |
+| References Count | 23                       |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [11](#event-11)       | 0x0001       |    419 |             53 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0001      |           1 |
+|       1 | 0x0877      |        2167 |
+|       2 | 0x089D      |        2205 |
+|       3 | 0x1E5C      |        7772 |
+|       4 | 0x1E5F      |        7775 |
+|       5 | 0x0000      |           0 |
+|       6 | 0x0004      |           4 |
+|       7 | 0x00C8      |         200 |
+|       8 | 0x2F5D0     |      194000 |
+|       9 | 0x36330     |      222000 |
+|      10 | 0x28C2      |       10434 |
+|      11 | 0x281F8     |      164344 |
+|      12 | 0x3579D     |      219037 |
+|      13 | 0x28D3      |       10451 |
+|      14 | 0x0837      |        2103 |
+|      15 | 0x0013      |          19 |
+|      16 | 0x2EFAC     |      192428 |
+|      17 | 0x35FBC     |      221116 |
+|      18 | 0x299E      |       10654 |
+|      19 | 0x07E8      |        2024 |
+|      20 | 0x0017      |          23 |
+|      21 | 0x001E      |          30 |
+|      22 | 0x005A      |          90 |
+
+## String References
+
+- **7772**: You should be able to head [to the other side/over there] if you have the $3 and $3.
+- **7775**: Head [for the other side/over there]? [Yes./No./Dive right in.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 11
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 419 bytes |
+| Instructions | 53        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 04 10 00 80 03 06  10 01 80 03 05 10 02 80   ...............
+0010: 48 03 80 23 03 04 10 00  80 24 04 80 05 80 06 80  H..#.....$......
+0020: 25 02 00 10 05 80 00 97  00 42 43 00 43 01 1A 99  %........BC.C...
+0030: 00 45 07 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E..........fdo1
+0040: 05 80 55 07 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..U..........fdo
+0050: 31 02 02 10 05 80 00 68  00 47 00 08 80 09 80 0A  1......h.G......
+0060: 80 05 80 47 01 01 74 00  47 00 0B 80 0C 80 0D 80  ...G..t.G.......
+0070: 0E 80 47 01 45 07 80 F0  FF FF 7F F0 FF FF 7F 66  ..G.E..........f
+0080: 64 69 31 05 80 55 07 80  F0 FF FF 7F F0 FF FF 7F  di1..U..........
+0090: 66 64 69 31 01 97 00 21  00 45 07 80 F0 FF FF 7F  fdi1...!.E......
+00A0: F0 FF FF 7F 66 64 6F 31  05 80 55 07 80 F0 FF FF  ....fdo1..U.....
+00B0: 7F F0 FF FF 7F 66 64 6F  31 46 01 38 0F 80 BA F0  .....fdo1F.8....
+00C0: FF FF 7F 10 80 11 80 12  80 13 80 45 14 80 F0 FF  ...........E....
+00D0: FF 7F F0 FF FF 7F 73 34  30 33 05 80 45 07 80 F0  ......s403..E...
+00E0: FF FF 7F F0 FF FF 7F 66  64 69 32 05 80 1C 15 80  .......fdi2.....
+00F0: 27 10 F0 FF FF 7F 04 1C  16 80 45 07 80 F0 FF FF  '.........E.....
+0100: 7F F0 FF FF 7F 66 64 6F  31 05 80 55 07 80 F0 FF  .....fdo1..U....
+0110: FF 7F F0 FF FF 7F 66 64  6F 31 2A 10 F0 FF FF 7F  ......fdo1*.....
+0120: 29 10 11 E3 10 01 02 52  14 80 F0 FF FF 7F F0 FF  )......R........
+0130: FF 7F 73 34 30 33 45 14  80 F0 FF FF 7F F0 FF FF  ..s403E.........
+0140: 7F 73 34 30 34 05 80 45  07 80 F0 FF FF 7F F0 FF  .s404..E........
+0150: FF 7F 66 64 69 32 05 80  1C 15 80 27 10 F0 FF FF  ..fdi2.....'....
+0160: 7F 05 1C 16 80 45 07 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
+0170: 66 64 6F 31 05 80 55 07  80 F0 FF FF 7F F0 FF FF  fdo1..U.........
+0180: 7F 66 64 6F 31 2A 10 F0  FF FF 7F 52 14 80 F0 FF  .fdo1*.....R....
+0190: FF 7F F0 FF FF 7F 73 34  30 34 29 10 11 E3 10 01  ......s404).....
+01A0: 03 46 00 1B                                       .F..            
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] Work_Zone[4] = 1*
+  1: 0x0006 [0x03] Work_Zone[6] = 2167*
+  2: 0x000B [0x03] Work_Zone[5] = 2205*
+  3: 0x0010 [0x48] [System] [7772*]:
+    → "You should be able to head [to the other side/over there] if you have the $3 and $3."
+  4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0014 [0x03] Work_Zone[4] = 1*
+  6: 0x0019 [0x24] CREATE_DIALOG(message_id=7775*, default_option=0*, option_flags=4*)
+    → "Head [for the other side/over there]? [Yes./No./Dive right in.]"
+  7: 0x0020 [0x25] WAIT_DIALOG_SELECT()
+  8: 0x0021 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0097
+  9: 0x0029 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 10: 0x002A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 11: 0x002C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 12: 0x002E [0x1A] CALL_SUBROUTINE(address=0x0099)
+ 13: 0x0031 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 14: 0x0042 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 15: 0x0051 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0068
+ 16: 0x0059 [0x47] UPDATE_PLAYER_POS(194.000*, 222.000*, 10.434*, yaw=0.0°*)
+ 17: 0x0063 [0x47] WAIT_PLAYER_POS_UPDATE
+ 18: 0x0065 [0x01] GOTO 0x0074
+ 19: 0x0068 [0x47] UPDATE_PLAYER_POS(164.344*, 219.037*, 10.451*, yaw=184.8°*)
+ 20: 0x0072 [0x47] WAIT_PLAYER_POS_UPDATE
+
+SUBROUTINE_0074:
+ 21: 0x0074 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 22: 0x0085 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 23: 0x0094 [0x01] GOTO 0x0097
+
+SUBROUTINE_0097:
+ 24: 0x0097 [0x21] END_EVENT
+ 25: 0x0098 [0x00] END_REQSTACK()
+
+SUBROUTINE_0099:
+ 26: 0x0099 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 27: 0x00AA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 28: 0x00B9 [0x46] CAMERA_CONTROL: Disable user control
+ 29: 0x00BB [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 30: 0x00BE [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=192.428*, pos_z=221.116*, pos_y=10.654*, direction=177.9°*)
+ 31: 0x00CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s403" with entities [LocalPlayer, LocalPlayer], work=[23*, 0*]
+ 32: 0x00DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 33: 0x00ED [0x1C] WAIT(30* ticks)
+ 34: 0x00F0 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x04)
+ 35: 0x00F7 [0x1C] WAIT(90* ticks)
+ 36: 0x00FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 37: 0x010B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 38: 0x011A [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
+ 39: 0x0120 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17883921/0x0110E311), tag_num=0x02)
+ 40: 0x0127 [0x52] END_LOAD_SCHEDULER: End scheduler "s403" with entities [LocalPlayer, LocalPlayer], work=23*
+ 41: 0x0136 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s404" with entities [LocalPlayer, LocalPlayer], work=[23*, 0*]
+ 42: 0x0147 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 43: 0x0158 [0x1C] WAIT(30* ticks)
+ 44: 0x015B [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x05)
+ 45: 0x0162 [0x1C] WAIT(90* ticks)
+ 46: 0x0165 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 47: 0x0176 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 48: 0x0185 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
+ 49: 0x018B [0x52] END_LOAD_SCHEDULER: End scheduler "s404" with entities [LocalPlayer, LocalPlayer], work=23*
+ 50: 0x019A [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17883921/0x0110E311), tag_num=0x03)
+ 51: 0x01A1 [0x46] CAMERA_CONTROL: Restore default settings
+ 52: 0x01A3 [0x1B] RETURN
+```

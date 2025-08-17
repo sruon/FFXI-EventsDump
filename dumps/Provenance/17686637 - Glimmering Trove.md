@@ -1,0 +1,306 @@
+# 17686637 - Glimmering Trove
+
+## Common Data
+
+| Field            | Value                |
+|------------------|----------------------|
+| Zone             | Provenance (ID: 222) |
+| Block Size       | 808 bytes            |
+| Total Events     | 2                    |
+| References Count | 22                   |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [16](#event-16)       | 0x0001       |    694 |            137 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x000F      |          15 |
+|       2 | 0x0010      |          16 |
+|       3 | 0x001F      |          31 |
+|       4 | 0x1CB3      |        7347 |
+|       5 | 0x0001      |           1 |
+|       6 | 0x000A      |          10 |
+|       7 | 0x1CB4      |        7348 |
+|       8 | 0x1CB5      |        7349 |
+|       9 | 0x0002      |           2 |
+|      10 | 0x000B      |          11 |
+|      11 | 0x1D2F      |        7471 |
+|      12 | 0x1D30      |        7472 |
+|      13 | 0x000C      |          12 |
+|      14 | 0x0003      |           3 |
+|      15 | 0x0004      |           4 |
+|      16 | 0x0005      |           5 |
+|      17 | 0x0006      |           6 |
+|      18 | 0x0007      |           7 |
+|      19 | 0x0008      |           8 |
+|      20 | 0x0009      |           9 |
+|      21 | 0x0078      |         120 |
+
+## String References
+
+- **7347**: Which item will you obtain? [None of them./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Relinquish all./Obtain all.]
+- **7348**: Obtain this item?
+- **7349**: Obtain the $0? [Yes./No.]
+- **7471**: Relinquish all reward items? [Yes, relinquish./On second thought...]
+- **7472**: All reward items have been relinquished.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 16
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 694 bytes |
+| Instructions | 100       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 0A 00 00 80 41 00  80 01 80 03 10 00 00 41   .....A........A
+0010: 02 80 03 80 03 10 01 00  41 00 80 01 80 04 10 02  ........A.......
+0020: 00 41 02 80 03 80 04 10  03 00 41 00 80 01 80 05  .A........A.....
+0030: 10 04 00 41 02 80 03 80  05 10 05 00 41 00 80 01  ...A........A...
+0040: 80 06 10 06 00 41 02 80  03 80 06 10 07 00 41 00  .....A........A.
+0050: 80 01 80 07 10 08 00 41  02 80 03 80 07 10 09 00  .......A........
+0060: 03 0B 00 08 10 05 0A 00  03 0E 00 00 80 42 1A 63  .............B.c
+0070: 02 02 0A 00 00 80 02 BF  01 03 03 10 00 00 03 04  ................
+0080: 10 01 00 03 05 10 02 00  03 06 10 03 00 03 07 10  ................
+0090: 04 00 03 08 10 05 00 03  09 10 06 00 03 00 17 07  ................
+00A0: 00 03 01 17 08 00 03 02  17 09 00 24 04 80 00 80  ...........$....
+00B0: 0B 00 25 02 00 10 00 80  00 C6 00 06 0A 00 03 0C  ..%.............
+00C0: 00 00 80 01 CB 00 03 0C  00 00 10 02 0C 00 05 80  ................
+00D0: 04 BC 01 02 0C 00 06 80  05 47 01 9D 00 97 02 0D  .........G......
+00E0: 00 0C 00 93 0D 00 48 07  80 23 93 00 80 03 02 10  ......H..#......
+00F0: 0D 00 24 08 80 05 80 00  80 25 02 00 10 00 80 00  ..$......%......
+0100: 44 01 03 01 10 0C 00 43  00 43 01 03 0B 00 08 10  D......C.C......
+0110: 02 09 10 00 80 80 1B 01  01 41 01 02 09 10 05 80  .........A......
+0120: 80 2E 01 03 01 10 0C 00  06 0A 00 01 41 01 02 09  ............A...
+0130: 10 09 80 80 41 01 03 01  10 0C 00 06 0A 00 01 41  ....A..........A
+0140: 01 01 44 01 01 BC 01 02  0C 00 0A 80 00 8D 01 24  ..D............$
+0150: 0B 80 05 80 00 80 25 02  00 10 00 80 00 7F 01 03  ......%.........
+0160: 01 10 0C 00 43 00 43 01  02 09 10 00 80 01 7C 01  ....C.C.......|.
+0170: 48 0C 80 23 03 01 10 0C  00 06 0A 00 01 8A 01 02  H..#............
+0180: 00 10 05 80 00 8A 01 01  8A 01 01 BC 01 02 0C 00  ................
+0190: 0D 80 00 BC 01 03 01 10  0C 00 43 00 43 01 02 09  ..........C.C...
+01A0: 10 05 80 80 A9 01 01 B4  01 02 09 10 09 80 80 B4  ................
+01B0: 01 01 B4 01 03 01 10 0C  00 06 0A 00 01 71 00 1A  .............q..
+01C0: 79 02 21 00 06 0D 00 3E  0B 00 05 80 D1 01 01 D4  y.!....>........
+01D0: 01 0B 0D 00 3E 0B 00 09  80 DE 01 01 E1 01 0B 0D  ....>...........
+01E0: 00 3E 0B 00 0E 80 EB 01  01 EE 01 0B 0D 00 3E 0B  .>............>.
+01F0: 00 0F 80 F8 01 01 FB 01  0B 0D 00 3E 0B 00 10 80  ...........>....
+0200: 05 02 01 08 02 0B 0D 00  3E 0B 00 11 80 12 02 01  ........>.......
+0210: 15 02 0B 0D 00 3E 0B 00  12 80 1F 02 01 22 02 0B  .....>......."..
+0220: 0D 00 3E 0B 00 13 80 2C  02 01 2F 02 0B 0D 00 3E  ..>....,../....>
+0230: 0B 00 14 80 39 02 01 3C  02 0B 0D 00 3E 0B 00 06  ....9..<....>...
+0240: 80 46 02 01 49 02 0B 0D  00 02 0D 00 05 80 00 5B  .F..I..........[
+0250: 02 3C 0B 00 0D 80 05 80  01 62 02 3D 0B 00 0D 80  .<.......b.=....
+0260: 05 80 1B 2C F8 FF FF 7F  F8 FF FF 7F 6F 70 65 6E  ...,........open
+0270: 1C 15 80 03 0E 00 05 80  1B 02 0E 00 05 80 00 96  ................
+0280: 02 2C F8 FF FF 7F F8 FF  FF 7F 63 6C 6F 73 1C 15  .,........clos..
+0290: 80 03 0E 00 00 80 1B 00  80 00 00 01 00 02 00 03  ................
+02A0: 00 04 00 05 00 06 00 07  00 08 00 09 00 00 80 00  ................
+02B0: 80 00 80 00 80 00 80                              .......         
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[10] = 0*
+  1: 0x0006 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 0*-15*)
+  2: 0x000F [0x41] ExtData[1]->WorkLocal[1] = Work_Zone[3] (bits 16*-31*)
+  3: 0x0018 [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[4] (bits 0*-15*)
+  4: 0x0021 [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[4] (bits 16*-31*)
+  5: 0x002A [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[5] (bits 0*-15*)
+  6: 0x0033 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[5] (bits 16*-31*)
+  7: 0x003C [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[6] (bits 0*-15*)
+  8: 0x0045 [0x41] ExtData[1]->WorkLocal[7] = Work_Zone[6] (bits 16*-31*)
+  9: 0x004E [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[7] (bits 0*-15*)
+ 10: 0x0057 [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[7] (bits 16*-31*)
+ 11: 0x0060 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[8]
+ 12: 0x0065 [0x05] ExtData[1]->WorkLocal[10] = 1
+ 13: 0x0068 [0x03] ExtData[1]->WorkLocal[14] = 0*
+ 14: 0x006D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 15: 0x006E [0x1A] CALL_SUBROUTINE(address=0x0263)
+ 16: 0x0071 [0x02] IF !(ExtData[1]->WorkLocal[10] <= 0*) GOTO 0x01BF
+ 17: 0x0079 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
+ 18: 0x007E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
+ 19: 0x0083 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[2]
+ 20: 0x0088 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[3]
+ 21: 0x008D [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[4]
+ 22: 0x0092 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[5]
+ 23: 0x0097 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[6]
+ 24: 0x009C [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[7]
+ 25: 0x00A1 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[8]
+ 26: 0x00A6 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[9]
+ 27: 0x00AB [0x24] CREATE_DIALOG(message_id=7347*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
+    → "Which item will you obtain? [None of them./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Relinquish all./Obtain all.]"
+ 28: 0x00B2 [0x25] WAIT_DIALOG_SELECT()
+ 29: 0x00B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C6
+ 30: 0x00BB [0x06] ExtData[1]->WorkLocal[10] = 0
+ 31: 0x00BE [0x03] ExtData[1]->WorkLocal[12] = 0*
+ 32: 0x00C3 [0x01] GOTO 0x00CB
+ 33: 0x00C6 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[0]
+
+SUBROUTINE_00CB:
+ 34: 0x00CB [0x02] IF !(ExtData[1]->WorkLocal[12] < 1*) GOTO 0x01BC
+ 35: 0x00D3 [0x02] IF !(ExtData[1]->WorkLocal[12] > 10*) GOTO 0x0147
+ 36: 0x00DB [0x9D] ExtData[1]->WorkLocal[13] = 0x0297[ExtData[1]->WorkLocal[12]] // Read WORD
+ 37: 0x00E3 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[13])
+ 38: 0x00E6 [0x48] [System] [7348*]:
+    → "Obtain this item?"
+ 39: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 40: 0x00EA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+ 41: 0x00ED [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
+ 42: 0x00F2 [0x24] CREATE_DIALOG(message_id=7349*, default_option=1*, option_flags=0*)
+    → "Obtain the $0? [Yes./No.]"
+ 43: 0x00F9 [0x25] WAIT_DIALOG_SELECT()
+ 44: 0x00FA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0144
+ 45: 0x0102 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+ 46: 0x0107 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 47: 0x0109 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 48: 0x010B [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[8]
+ 49: 0x0110 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x011B
+ 50: 0x0118 [0x01] GOTO 0x0141
+ 51: 0x011B [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x012E
+ 52: 0x0123 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+ 53: 0x0128 [0x06] ExtData[1]->WorkLocal[10] = 0
+ 54: 0x012B [0x01] GOTO 0x0141
+ 55: 0x012E [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x0141
+ 56: 0x0136 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+ 57: 0x013B [0x06] ExtData[1]->WorkLocal[10] = 0
+ 58: 0x013E [0x01] GOTO 0x0141
+
+SUBROUTINE_0141:
+ 59: 0x0141 [0x01] GOTO 0x0144
+
+SUBROUTINE_0144:
+ 60: 0x0144 [0x01] GOTO 0x01BC
+ 61: 0x0147 [0x02] IF !(ExtData[1]->WorkLocal[12] == 11*) GOTO 0x018D
+ 62: 0x014F [0x24] CREATE_DIALOG(message_id=7471*, default_option=1*, option_flags=0*)
+    → "Relinquish all reward items? [Yes, relinquish./On second thought...]"
+ 63: 0x0156 [0x25] WAIT_DIALOG_SELECT()
+ 64: 0x0157 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017F
+ 65: 0x015F [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+ 66: 0x0164 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 67: 0x0166 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 68: 0x0168 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x017C
+ 69: 0x0170 [0x48] [System] [7472*]:
+    → "All reward items have been relinquished."
+ 70: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 71: 0x0174 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+ 72: 0x0179 [0x06] ExtData[1]->WorkLocal[10] = 0
+ 73: 0x017C [0x01] GOTO 0x018A
+ 74: 0x017F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x018A
+ 75: 0x0187 [0x01] GOTO 0x018A
+
+SUBROUTINE_018A:
+ 76: 0x018A [0x01] GOTO 0x01BC
+ 77: 0x018D [0x02] IF !(ExtData[1]->WorkLocal[12] == 12*) GOTO 0x01BC
+ 78: 0x0195 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+ 79: 0x019A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 80: 0x019C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 81: 0x019E [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x01A9
+ 82: 0x01A6 [0x01] GOTO 0x01B4
+ 83: 0x01A9 [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x01B4
+ 84: 0x01B1 [0x01] GOTO 0x01B4
+
+SUBROUTINE_01B4:
+ 85: 0x01B4 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+ 86: 0x01B9 [0x06] ExtData[1]->WorkLocal[10] = 0
+
+SUBROUTINE_01BC:
+ 87: 0x01BC [0x01] GOTO 0x0071
+ 88: 0x01BF [0x1A] CALL_SUBROUTINE(address=0x0279)
+ 89: 0x01C2 [0x21] END_EVENT
+ 90: 0x01C3 [0x00] END_REQSTACK()
+
+SUBROUTINE_0263:
+ 91: 0x0263 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [EventEntity, EventEntity]
+ 92: 0x0270 [0x1C] WAIT(120* ticks)
+ 93: 0x0273 [0x03] ExtData[1]->WorkLocal[14] = 1*
+ 94: 0x0278 [0x1B] RETURN
+
+SUBROUTINE_0279:
+ 95: 0x0279 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0296
+ 96: 0x0281 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [EventEntity, EventEntity]
+ 97: 0x028E [0x1C] WAIT(120* ticks)
+ 98: 0x0291 [0x03] ExtData[1]->WorkLocal[14] = 0*
+ 99: 0x0296 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Data Section: 0x0297 (32 bytes)
+     0x0297: 00 80 00 00 01 00 02 00 03 00 04 00 05 00 06 00
+     0x02A7: 07 00 08 00 09 00 00 80 00 80 00 80 00 80 00 80
+# Dead code (unreachable instructions):
+     0x01C4 [0x06] ExtData[1]->WorkLocal[13] = 0
+     0x01C7 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 1*) GOTO 0x01D1
+     0x01CE [0x01] GOTO 0x01D4
+     0x01D1 [0x0B] ExtData[1]->WorkLocal[13]++
+     0x01D4 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 2*) GOTO 0x01DE
+     0x01DB [0x01] GOTO 0x01E1
+     0x01DE [0x0B] ExtData[1]->WorkLocal[13]++
+     0x01E1 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 3*) GOTO 0x01EB
+     0x01E8 [0x01] GOTO 0x01EE
+     0x01EB [0x0B] ExtData[1]->WorkLocal[13]++
+     0x01EE [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 4*) GOTO 0x01F8
+     0x01F5 [0x01] GOTO 0x01FB
+     0x01F8 [0x0B] ExtData[1]->WorkLocal[13]++
+     0x01FB [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 5*) GOTO 0x0205
+     0x0202 [0x01] GOTO 0x0208
+     0x0205 [0x0B] ExtData[1]->WorkLocal[13]++
+     0x0208 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 6*) GOTO 0x0212
+     0x020F [0x01] GOTO 0x0215
+     0x0212 [0x0B] ExtData[1]->WorkLocal[13]++
+     0x0215 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 7*) GOTO 0x021F
+     0x021C [0x01] GOTO 0x0222
+     0x021F [0x0B] ExtData[1]->WorkLocal[13]++
+     0x0222 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 8*) GOTO 0x022C
+     0x0229 [0x01] GOTO 0x022F
+     0x022C [0x0B] ExtData[1]->WorkLocal[13]++
+     0x022F [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 9*) GOTO 0x0239
+     0x0236 [0x01] GOTO 0x023C
+     0x0239 [0x0B] ExtData[1]->WorkLocal[13]++
+     0x023C [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 10*) GOTO 0x0246
+     0x0243 [0x01] GOTO 0x0249
+     0x0246 [0x0B] ExtData[1]->WorkLocal[13]++
+     0x0249 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x025B
+     0x0251 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x0258 [0x01] GOTO 0x0262
+     0x025B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x0262 [0x1B] RETURN
+```

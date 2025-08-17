@@ -1,0 +1,677 @@
+# 17162879 - Pukori-Totokori
+
+## Common Data
+
+| Field            | Value                        |
+|------------------|------------------------------|
+| Zone             | Windurst Waters [S] (ID: 94) |
+| Block Size       | 1864 bytes                   |
+| Total Events     | 2                            |
+| References Count | 64                           |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [329](#event-329)     | 0x0001       |   1582 |            328 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0004      |           4 |
+|       2 | 0x0005      |           5 |
+|       3 | 0x0009      |           9 |
+|       4 | 0x000A      |          10 |
+|       5 | 0x000E      |          14 |
+|       6 | 0x000F      |          15 |
+|       7 | 0x0013      |          19 |
+|       8 | 0x0014      |          20 |
+|       9 | 0x0018      |          24 |
+|      10 | 0x0019      |          25 |
+|      11 | 0x001D      |          29 |
+|      12 | 0x0001      |           1 |
+|      13 | 0x31D1      |       12753 |
+|      14 | 0x31D2      |       12754 |
+|      15 | 0x31D4      |       12756 |
+|      16 | 0x31D5      |       12757 |
+|      17 | 0x0011      |          17 |
+|      18 | 0x31D7      |       12759 |
+|      19 | 0x31D8      |       12760 |
+|      20 | 0x0002      |           2 |
+|      21 | 0x31D9      |       12761 |
+|      22 | 0x31DA      |       12762 |
+|      23 | 0x31DB      |       12763 |
+|      24 | 0x31D6      |       12758 |
+|      25 | 0x31DC      |       12764 |
+|      26 | 0x31DD      |       12765 |
+|      27 | 0x1FFFC     |      131068 |
+|      28 | 0xFFFFFFFF  |  4294967295 |
+|      29 | 0x31DE      |       12766 |
+|      30 | 0x0003      |           3 |
+|      31 | 0x0006      |           6 |
+|      32 | 0x0007      |           7 |
+|      33 | 0x0008      |           8 |
+|      34 | 0x000B      |          11 |
+|      35 | 0x000C      |          12 |
+|      36 | 0x000D      |          13 |
+|      37 | 0x0010      |          16 |
+|      38 | 0x31DF      |       12767 |
+|      39 | 0x31E0      |       12768 |
+|      40 | 0x3A98      |       15000 |
+|      41 | 0x7530      |       30000 |
+|      42 | 0x31E1      |       12769 |
+|      43 | 0x31E2      |       12770 |
+|      44 | 0x31E3      |       12771 |
+|      45 | 0x31E4      |       12772 |
+|      46 | 0x31E5      |       12773 |
+|      47 | 0x31E6      |       12774 |
+|      48 | 0x31E7      |       12775 |
+|      49 | 0x31E8      |       12776 |
+|      50 | 0x31E9      |       12777 |
+|      51 | 0x31EA      |       12778 |
+|      52 | 0x31EB      |       12779 |
+|      53 | 0x31EC      |       12780 |
+|      54 | 0x001F      |          31 |
+|      55 | 0x31D3      |       12755 |
+|      56 | 0x31ED      |       12781 |
+|      57 | 0x307D      |       12413 |
+|      58 | 0x307E      |       12414 |
+|      59 | 0x307F      |       12415 |
+|      60 | 0x307A      |       12410 |
+|      61 | 0x307B      |       12411 |
+|      62 | 0x307C      |       12412 |
+|      63 | 0x3079      |       12409 |
+
+## String References
+
+- **12409**: I am far too busy to speak with you now. Perhaps I'll have a little time later.
+- **12410**: Good show on your last operation. Now go make an official report to Sir Rasdinice.
+- **12411**: Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!
+- **12412**: Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!
+- **12413**: It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you.
+- **12414**: Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier.
+- **12415**: Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first.
+- **12753**: Oh, hello there! Word on the street is that there is an adventurer with some novel notions to help our troops in the struggle-wuggle to transport supplies. That wouldn't happen to be you now, would it?
+- **12754**: Do you have any brightaru ideas? [Leave it to me./Not a one.]
+- **12755**: My mistake. I apologize for troubling you.
+- **12756**: Most fortuitous! You've come to the right place! I'll share with you all of the intel we have on pertinentaru topics such as lay of the land and supply routes. I leave the rest in your very capable-wapable hands!
+- **12757**: The latest intel reports indicate the following.
+- **12758**: Actually, I have nothing of signifi-wificance to tell you. Our intel has broughtaru in no new information.
+- **12759**: The latest weather reportaru indicates that the weather in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta] will not hold up.
+- **12760**: The latest weather reportaru indi-windicates that storms can be expected in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12761**: We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12762**: We have received unconfirmed reportarus that a small-sized Dark Kindred force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12763**: We have received unconfirmed reportarus that a Beastman supply convoy-wonvoy has been spotted in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12764**: Well, that's all we have for now. Now comes the part where you hatch a masterful strategy-wategy!
+- **12765**: To which area do you think we should dispatch the supply convoy?
+- **12766**: Where would you send the supply convoy? [Xarcabard./Beaucedine Glacier./The Eldieme Necropolis./Crawlers' Nest./Garlaige Citadel./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Jugner Forest./Pashhow Marshlands./Meriphataud Mountains./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./East Ronfaure./North Gustaberg./West Sarutabaruta.]
+- **12767**: Check! And how about cargo-wargo? How much should we load up?
+- **12768**: I needn't remind you that the more supplies there are, the more elated the receiving unitaru will be.
+- **12769**: What amount do you reco-wecommend? [A large amountaru./A moderate amountaru./A small amountaru.]
+- **12770**: Consider it done! And which type of route do you think the convoy-wonvoy should take?
+- **12771**: Which route do you endorse? [The quickest, shortest route possible./The normal route used in peacetime./The safest detouring route.]
+- **12772**: Interesting! That leaves the matter of the convoy's escortaru. What size escort do you believe most appropriataru?
+- **12773**: What size escort do you suggest? [A medium-sized force./A small-sized force./A minimum-sized force.]
+- **12774**: One lastaru question! In a worst-case scenario-wenario, should our convoy encounter the enemy, what course of action should they take?
+- **12775**: Fight or flight? [Engage in open battle./Avoid conflict at all cost.]
+- **12776**: Alrightaru, I do believe that covers it! Do you have any amendment-wendments to make before your official submission?
+- **12777**: Edit your submission? [No, it's solid./On second thought, yes.]
+- **12778**: Magnificentaru! You have this Tarutaru's word! I'll do everything in my power to make sure your suggestions are taken under consider-wideration for tomorrow's operations.
+- **12779**: As the strategistaru, it is considered customary-wustomary for you to be in attendance at said stronghold. After all, how else could you oversee the execution of your plans?
+- **12780**: I think we're all done here! May the Goddess-woddess go with you.
+- **12781**: Is something wrong? As planner of the adopted strategy, I strongly urge you to travel to the stronghold in question-westion to observe eventarus.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 329
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1582 bytes |
+| Instructions | 328        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 42 1E F0 FF FF  7F 03 00 00 02 10 03 07    .B............
+0010: 00 03 10 03 01 00 04 10  41 00 80 01 80 05 10 09  ........A.......
+0020: 00 41 02 80 03 80 05 10  0A 00 41 04 80 05 80 05  .A........A.....
+0030: 10 0B 00 41 00 80 01 80  06 10 0C 00 41 02 80 03  ...A........A...
+0040: 80 06 10 0D 00 41 04 80  05 80 06 10 0E 00 41 06  .....A........A.
+0050: 80 07 80 06 10 0F 00 41  08 80 09 80 06 10 10 00  .......A........
+0060: 41 0A 80 0B 80 06 10 11  00 03 08 00 07 10 03 12  A...............
+0070: 00 08 10 03 13 00 09 10  03 15 00 0C 80 03 02 00  ................
+0080: 00 80 03 03 00 00 80 03  04 00 00 80 03 05 00 00  ................
+0090: 80 03 06 00 00 80 03 18  00 00 80 6F 70 02 01 00  ...........op...
+00A0: 00 80 00 AA 00 03 00 00  00 80 02 00 00 0C 80 80  ................
+00B0: 08 06 02 07 00 00 80 80  86 05 1D 0D 80 23 24 0E  .............#$.
+00C0: 80 00 80 00 80 25 02 00  10 00 80 00 D6 00 03 15  .....%..........
+00D0: 00 0C 80 01 E6 00 02 00  10 0C 80 00 E6 00 03 15  ................
+00E0: 00 00 80 01 E6 00 02 15  00 0C 80 00 7F 05 43 00  ..............C.
+00F0: 43 01 03 16 00 00 80 1D  0F 80 23 1D 10 80 23 02  C.........#...#.
+0100: 12 00 0C 80 02 42 01 02  09 00 11 80 03 1D 01 03  .....B..........
+0110: 02 10 09 00 1D 12 80 23  03 16 00 0C 80 02 0A 00  .......#........
+0120: 11 80 03 42 01 03 02 10  0A 00 02 12 00 01 80 02  ...B............
+0130: 39 01 1D 13 80 23 01 3D  01 1D 12 80 23 03 16 00  9....#.=....#...
+0140: 0C 80 02 12 00 14 80 02  11 02 02 0B 00 11 80 03  ................
+0150: 60 01 03 02 10 0B 00 1D  15 80 23 03 16 00 0C 80  `.........#.....
+0160: 02 0C 00 11 80 03 85 01  03 02 10 0C 00 02 12 00  ................
+0170: 02 80 02 7C 01 1D 16 80  23 01 80 01 1D 15 80 23  ...|....#......#
+0180: 03 16 00 0C 80 02 0D 00  11 80 03 AA 01 03 02 10  ................
+0190: 0D 00 02 12 00 02 80 02  A1 01 1D 17 80 23 01 A5  .............#..
+01A0: 01 1D 15 80 23 03 16 00  0C 80 02 0E 00 11 80 03  ....#...........
+01B0: C0 01 03 02 10 0E 00 1D  15 80 23 03 16 00 0C 80  ..........#.....
+01C0: 02 0F 00 11 80 03 D6 01  03 02 10 0F 00 1D 15 80  ................
+01D0: 23 03 16 00 0C 80 02 10  00 11 80 03 EC 01 03 02  #...............
+01E0: 10 10 00 1D 15 80 23 03  16 00 0C 80 02 11 00 11  ......#.........
+01F0: 80 03 11 02 03 02 10 11  00 02 12 00 02 80 02 08  ................
+0200: 02 1D 17 80 23 01 0C 02  1D 15 80 23 03 16 00 0C  ....#......#....
+0210: 80 02 16 00 00 80 00 1D  02 1D 18 80 23 1D 19 80  ............#...
+0220: 23 02 15 00 0C 80 00 A1  04 1D 1A 80 23 03 14 00  #...........#...
+0230: 01 00 0D 14 00 1B 80 0F  14 00 1C 80 24 1D 80 00  ............$...
+0240: 80 14 00 25 02 00 10 00  80 00 54 02 03 02 00 00  ...%......T.....
+0250: 80 01 64 03 02 00 10 0C  80 00 64 02 03 02 00 0C  ..d.......d.....
+0260: 80 01 64 03 02 00 10 14  80 00 74 02 03 02 00 14  ..d.......t.....
+0270: 80 01 64 03 02 00 10 1E  80 00 84 02 03 02 00 1E  ..d.............
+0280: 80 01 64 03 02 00 10 01  80 00 94 02 03 02 00 01  ..d.............
+0290: 80 01 64 03 02 00 10 02  80 00 A4 02 03 02 00 02  ..d.............
+02A0: 80 01 64 03 02 00 10 1F  80 00 B4 02 03 02 00 1F  ..d.............
+02B0: 80 01 64 03 02 00 10 20  80 00 C4 02 03 02 00 20  ..d.... ....... 
+02C0: 80 01 64 03 02 00 10 21  80 00 D4 02 03 02 00 21  ..d....!.......!
+02D0: 80 01 64 03 02 00 10 03  80 00 E4 02 03 02 00 03  ..d.............
+02E0: 80 01 64 03 02 00 10 04  80 00 F4 02 03 02 00 04  ..d.............
+02F0: 80 01 64 03 02 00 10 22  80 00 04 03 03 02 00 22  ..d...."......."
+0300: 80 01 64 03 02 00 10 23  80 00 14 03 03 02 00 23  ..d....#.......#
+0310: 80 01 64 03 02 00 10 24  80 00 24 03 03 02 00 24  ..d....$..$....$
+0320: 80 01 64 03 02 00 10 05  80 00 34 03 03 02 00 05  ..d.......4.....
+0330: 80 01 64 03 02 00 10 06  80 00 44 03 03 02 00 06  ..d.......D.....
+0340: 80 01 64 03 02 00 10 25  80 00 54 03 03 02 00 25  ..d....%..T....%
+0350: 80 01 64 03 02 00 10 11  80 00 64 03 03 02 00 11  ..d.......d.....
+0360: 80 01 64 03 1D 26 80 23  1D 27 80 23 03 14 00 00  ..d..&.#.'.#....
+0370: 80 02 13 00 28 80 03 81  03 03 14 00 1E 80 01 96  ....(...........
+0380: 03 02 13 00 29 80 03 91  03 03 14 00 0C 80 01 96  ....)...........
+0390: 03 03 14 00 00 80 24 2A  80 00 80 14 00 25 02 00  ......$*.....%..
+03A0: 10 00 80 00 AE 03 03 03  00 00 80 01 CE 03 02 00  ................
+03B0: 10 0C 80 00 BE 03 03 03  00 0C 80 01 CE 03 02 00  ................
+03C0: 10 14 80 00 CE 03 03 03  00 14 80 01 CE 03 1D 2B  ...............+
+03D0: 80 23 24 2C 80 00 80 00  80 25 02 00 10 00 80 00  .#$,.....%......
+03E0: EA 03 03 04 00 00 80 01  0A 04 02 00 10 0C 80 00  ................
+03F0: FA 03 03 04 00 0C 80 01  0A 04 02 00 10 14 80 00  ................
+0400: 0A 04 03 04 00 14 80 01  0A 04 1D 2D 80 23 24 2E  ...........-.#$.
+0410: 80 00 80 00 80 25 02 00  10 00 80 00 26 04 03 06  .....%......&...
+0420: 00 00 80 01 46 04 02 00  10 0C 80 00 36 04 03 06  ....F.......6...
+0430: 00 0C 80 01 46 04 02 00  10 14 80 00 46 04 03 06  ....F.......F...
+0440: 00 14 80 01 46 04 1D 2F  80 23 24 30 80 00 80 00  ....F../.#$0....
+0450: 80 25 02 00 10 00 80 00  62 04 03 05 00 00 80 01  .%......b.......
+0460: 72 04 02 00 10 0C 80 00  72 04 03 05 00 0C 80 01  r.......r.......
+0470: 72 04 1D 31 80 23 24 32  80 00 80 00 80 25 02 00  r..1.#$2.....%..
+0480: 10 00 80 00 8E 04 03 15  00 00 80 01 9E 04 02 00  ................
+0490: 10 0C 80 00 9E 04 03 15  00 0C 80 01 9E 04 01 21  ...............!
+04A0: 02 1D 33 80 23 1D 34 80  23 1D 35 80 23 40 36 80  ..3.#.4.#.5.#@6.
+04B0: 36 80 18 00 0C 80 40 00  80 01 80 18 00 02 00 40  6.....@........@
+04C0: 02 80 1F 80 18 00 03 00  40 20 80 21 80 18 00 04  ........@ .!....
+04D0: 00 40 03 80 03 80 18 00  05 00 40 04 80 22 80 18  .@........@.."..
+04E0: 00 06 00 02 02 00 09 00  00 F4 04 40 23 80 24 80  ...........@#.$.
+04F0: 18 00 0C 80 02 02 00 0A  00 00 05 05 40 23 80 24  ............@#.$
+0500: 80 18 00 14 80 02 02 00  0B 00 00 16 05 40 05 80  .............@..
+0510: 25 80 18 00 0C 80 02 02  00 0C 00 00 27 05 40 05  %...........'.@.
+0520: 80 25 80 18 00 14 80 02  02 00 0D 00 00 38 05 40  .%...........8.@
+0530: 05 80 25 80 18 00 1E 80  02 02 00 0E 00 00 49 05  ..%...........I.
+0540: 40 05 80 25 80 18 00 01  80 02 02 00 0F 00 00 5A  @..%...........Z
+0550: 05 40 05 80 25 80 18 00  02 80 02 02 00 10 00 00  .@..%...........
+0560: 6B 05 40 05 80 25 80 18  00 1F 80 02 02 00 11 00  k.@..%..........
+0570: 00 7C 05 40 05 80 25 80  18 00 20 80 01 83 05 1D  .|.@..%... .....
+0580: 37 80 23 01 05 06 02 07  00 0C 80 80 95 05 1D 38  7.#............8
+0590: 80 23 01 05 06 02 07 00  14 80 80 CD 05 02 08 00  .#..............
+05A0: 0C 80 80 AC 05 1D 39 80  23 01 CA 05 02 08 00 14  ......9.#.......
+05B0: 80 80 BB 05 1D 3A 80 23  01 CA 05 02 08 00 1E 80  .....:.#........
+05C0: 80 CA 05 1D 3B 80 23 01  CA 05 01 05 06 02 07 00  ....;.#.........
+05D0: 1E 80 80 05 06 02 08 00  0C 80 80 E4 05 1D 3C 80  ..............<.
+05E0: 23 01 02 06 02 08 00 14  80 80 F3 05 1D 3D 80 23  #............=.#
+05F0: 01 02 06 02 08 00 1E 80  80 02 06 1D 3E 80 23 01  ............>.#.
+0600: 02 06 01 05 06 01 26 06  02 00 00 14 80 80 13 06  ......&.........
+0610: 01 26 06 02 00 00 00 80  80 22 06 1D 3F 80 23 01  .&......."..?.#.
+0620: 26 06 1D 3F 80 23 03 01  10 18 00 20 00 21 00     &..?.#..... .!. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x0009 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  4: 0x000E [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[3]
+  5: 0x0013 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[4]
+  6: 0x0018 [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[5] (bits 0*-4*)
+  7: 0x0021 [0x41] ExtData[1]->WorkLocal[10] = Work_Zone[5] (bits 5*-9*)
+  8: 0x002A [0x41] ExtData[1]->WorkLocal[11] = Work_Zone[5] (bits 10*-14*)
+  9: 0x0033 [0x41] ExtData[1]->WorkLocal[12] = Work_Zone[6] (bits 0*-4*)
+ 10: 0x003C [0x41] ExtData[1]->WorkLocal[13] = Work_Zone[6] (bits 5*-9*)
+ 11: 0x0045 [0x41] ExtData[1]->WorkLocal[14] = Work_Zone[6] (bits 10*-14*)
+ 12: 0x004E [0x41] ExtData[1]->WorkLocal[15] = Work_Zone[6] (bits 15*-19*)
+ 13: 0x0057 [0x41] ExtData[1]->WorkLocal[16] = Work_Zone[6] (bits 20*-24*)
+ 14: 0x0060 [0x41] ExtData[1]->WorkLocal[17] = Work_Zone[6] (bits 25*-29*)
+ 15: 0x0069 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[7]
+ 16: 0x006E [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[8]
+ 17: 0x0073 [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[9]
+ 18: 0x0078 [0x03] ExtData[1]->WorkLocal[21] = 1*
+ 19: 0x007D [0x03] ExtData[1]->WorkLocal[2] = 0*
+ 20: 0x0082 [0x03] ExtData[1]->WorkLocal[3] = 0*
+ 21: 0x0087 [0x03] ExtData[1]->WorkLocal[4] = 0*
+ 22: 0x008C [0x03] ExtData[1]->WorkLocal[5] = 0*
+ 23: 0x0091 [0x03] ExtData[1]->WorkLocal[6] = 0*
+ 24: 0x0096 [0x03] ExtData[1]->WorkLocal[24] = 0*
+ 25: 0x009B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 26: 0x009C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+ 27: 0x009D [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x00AA
+ 28: 0x00A5 [0x03] ExtData[1]->WorkLocal[0] = 0*
+ 29: 0x00AA [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0608
+ 30: 0x00B2 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0586
+ 31: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12753*)
+    → "Oh, hello there! Word on the street is that there is an adventurer with some novel notions to help our troops in the struggle-wuggle to transport supplies. That wouldn't happen to be you now, would it?"
+ 32: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 33: 0x00BE [0x24] CREATE_DIALOG(message_id=12754*, default_option=0*, option_flags=0*)
+    → "Do you have any brightaru ideas? [Leave it to me./Not a one.]"
+ 34: 0x00C5 [0x25] WAIT_DIALOG_SELECT()
+ 35: 0x00C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D6
+ 36: 0x00CE [0x03] ExtData[1]->WorkLocal[21] = 1*
+ 37: 0x00D3 [0x01] GOTO 0x00E6
+ 38: 0x00D6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00E6
+ 39: 0x00DE [0x03] ExtData[1]->WorkLocal[21] = 0*
+ 40: 0x00E3 [0x01] GOTO 0x00E6
+
+SUBROUTINE_00E6:
+ 41: 0x00E6 [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x057F
+ 42: 0x00EE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 43: 0x00F0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 44: 0x00F2 [0x03] ExtData[1]->WorkLocal[22] = 0*
+ 45: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12756*)
+    → "Most fortuitous! You've come to the right place! I'll share with you all of the intel we have on pertinentaru topics such as lay of the land and supply routes. I leave the rest in your very capable-wapable hands!"
+ 46: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 47: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=12757*)
+    → "The latest intel reports indicate the following."
+ 48: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 49: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[18] <= 1*) GOTO 0x0142
+ 50: 0x0107 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 17*) GOTO 0x011D
+ 51: 0x010F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
+ 52: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+    → "The latest weather reportaru indicates that the weather in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta] will not hold up."
+ 53: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 54: 0x0118 [0x03] ExtData[1]->WorkLocal[22] = 1*
+ 55: 0x011D [0x02] IF !(ExtData[1]->WorkLocal[10] >= 17*) GOTO 0x0142
+ 56: 0x0125 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
+ 57: 0x012A [0x02] IF !(ExtData[1]->WorkLocal[18] <= 4*) GOTO 0x0139
+ 58: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
+    → "The latest weather reportaru indi-windicates that storms can be expected in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 59: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 60: 0x0136 [0x01] GOTO 0x013D
+ 61: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+    → "The latest weather reportaru indicates that the weather in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta] will not hold up."
+ 62: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_013D:
+ 63: 0x013D [0x03] ExtData[1]->WorkLocal[22] = 1*
+ 64: 0x0142 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 2*) GOTO 0x0211
+ 65: 0x014A [0x02] IF !(ExtData[1]->WorkLocal[11] >= 17*) GOTO 0x0160
+ 66: 0x0152 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
+ 67: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+    → "We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 68: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 69: 0x015B [0x03] ExtData[1]->WorkLocal[22] = 1*
+ 70: 0x0160 [0x02] IF !(ExtData[1]->WorkLocal[12] >= 17*) GOTO 0x0185
+ 71: 0x0168 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
+ 72: 0x016D [0x02] IF !(ExtData[1]->WorkLocal[18] <= 5*) GOTO 0x017C
+ 73: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=12762*)
+    → "We have received unconfirmed reportarus that a small-sized Dark Kindred force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 74: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 75: 0x0179 [0x01] GOTO 0x0180
+ 76: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+    → "We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 77: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0180:
+ 78: 0x0180 [0x03] ExtData[1]->WorkLocal[22] = 1*
+ 79: 0x0185 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 17*) GOTO 0x01AA
+ 80: 0x018D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
+ 81: 0x0192 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 5*) GOTO 0x01A1
+ 82: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=12763*)
+    → "We have received unconfirmed reportarus that a Beastman supply convoy-wonvoy has been spotted in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 83: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 84: 0x019E [0x01] GOTO 0x01A5
+ 85: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+    → "We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 86: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_01A5:
+ 87: 0x01A5 [0x03] ExtData[1]->WorkLocal[22] = 1*
+ 88: 0x01AA [0x02] IF !(ExtData[1]->WorkLocal[14] >= 17*) GOTO 0x01C0
+ 89: 0x01B2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
+ 90: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+    → "We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 91: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 92: 0x01BB [0x03] ExtData[1]->WorkLocal[22] = 1*
+ 93: 0x01C0 [0x02] IF !(ExtData[1]->WorkLocal[15] >= 17*) GOTO 0x01D6
+ 94: 0x01C8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
+ 95: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+    → "We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+ 96: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 97: 0x01D1 [0x03] ExtData[1]->WorkLocal[22] = 1*
+ 98: 0x01D6 [0x02] IF !(ExtData[1]->WorkLocal[16] >= 17*) GOTO 0x01EC
+ 99: 0x01DE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
+100: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+    → "We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+101: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+102: 0x01E7 [0x03] ExtData[1]->WorkLocal[22] = 1*
+103: 0x01EC [0x02] IF !(ExtData[1]->WorkLocal[17] >= 17*) GOTO 0x0211
+104: 0x01F4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
+105: 0x01F9 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 5*) GOTO 0x0208
+106: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=12763*)
+    → "We have received unconfirmed reportarus that a Beastman supply convoy-wonvoy has been spotted in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+107: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
+108: 0x0205 [0x01] GOTO 0x020C
+109: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=12761*)
+    → "We have received unconfirmed reportarus that a medium-sized Beastman force is station-wationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
+110: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_020C:
+111: 0x020C [0x03] ExtData[1]->WorkLocal[22] = 1*
+112: 0x0211 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x021D
+113: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=12758*)
+    → "Actually, I have nothing of signifi-wificance to tell you. Our intel has broughtaru in no new information."
+114: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
+115: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=12764*)
+    → "Well, that's all we have for now. Now comes the part where you hatch a masterful strategy-wategy!"
+116: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0221:
+117: 0x0221 [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x04A1
+118: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=12765*)
+    → "To which area do you think we should dispatch the supply convoy?"
+119: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
+120: 0x022D [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[1]
+121: 0x0232 [0x0D] ExtData[1]->WorkLocal[20] &= 131068*
+122: 0x0237 [0x0F] ExtData[1]->WorkLocal[20] ^= 4294967295*
+123: 0x023C [0x24] CREATE_DIALOG(message_id=12766*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
+    → "Where would you send the supply convoy? [Xarcabard./Beaucedine Glacier./The Eldieme Necropolis./Crawlers' Nest./Garlaige Citadel./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Jugner Forest./Pashhow Marshlands./Meriphataud Mountains./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./East Ronfaure./North Gustaberg./West Sarutabaruta.]"
+124: 0x0243 [0x25] WAIT_DIALOG_SELECT()
+125: 0x0244 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0254
+126: 0x024C [0x03] ExtData[1]->WorkLocal[2] = 0*
+127: 0x0251 [0x01] GOTO 0x0364
+128: 0x0254 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0264
+129: 0x025C [0x03] ExtData[1]->WorkLocal[2] = 1*
+130: 0x0261 [0x01] GOTO 0x0364
+131: 0x0264 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0274
+132: 0x026C [0x03] ExtData[1]->WorkLocal[2] = 2*
+133: 0x0271 [0x01] GOTO 0x0364
+134: 0x0274 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0284
+135: 0x027C [0x03] ExtData[1]->WorkLocal[2] = 3*
+136: 0x0281 [0x01] GOTO 0x0364
+137: 0x0284 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0294
+138: 0x028C [0x03] ExtData[1]->WorkLocal[2] = 4*
+139: 0x0291 [0x01] GOTO 0x0364
+140: 0x0294 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x02A4
+141: 0x029C [0x03] ExtData[1]->WorkLocal[2] = 5*
+142: 0x02A1 [0x01] GOTO 0x0364
+143: 0x02A4 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x02B4
+144: 0x02AC [0x03] ExtData[1]->WorkLocal[2] = 6*
+145: 0x02B1 [0x01] GOTO 0x0364
+146: 0x02B4 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x02C4
+147: 0x02BC [0x03] ExtData[1]->WorkLocal[2] = 7*
+148: 0x02C1 [0x01] GOTO 0x0364
+149: 0x02C4 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x02D4
+150: 0x02CC [0x03] ExtData[1]->WorkLocal[2] = 8*
+151: 0x02D1 [0x01] GOTO 0x0364
+152: 0x02D4 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x02E4
+153: 0x02DC [0x03] ExtData[1]->WorkLocal[2] = 9*
+154: 0x02E1 [0x01] GOTO 0x0364
+155: 0x02E4 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x02F4
+156: 0x02EC [0x03] ExtData[1]->WorkLocal[2] = 10*
+157: 0x02F1 [0x01] GOTO 0x0364
+158: 0x02F4 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0304
+159: 0x02FC [0x03] ExtData[1]->WorkLocal[2] = 11*
+160: 0x0301 [0x01] GOTO 0x0364
+161: 0x0304 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0314
+162: 0x030C [0x03] ExtData[1]->WorkLocal[2] = 12*
+163: 0x0311 [0x01] GOTO 0x0364
+164: 0x0314 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0324
+165: 0x031C [0x03] ExtData[1]->WorkLocal[2] = 13*
+166: 0x0321 [0x01] GOTO 0x0364
+167: 0x0324 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0334
+168: 0x032C [0x03] ExtData[1]->WorkLocal[2] = 14*
+169: 0x0331 [0x01] GOTO 0x0364
+170: 0x0334 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0344
+171: 0x033C [0x03] ExtData[1]->WorkLocal[2] = 15*
+172: 0x0341 [0x01] GOTO 0x0364
+173: 0x0344 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0354
+174: 0x034C [0x03] ExtData[1]->WorkLocal[2] = 16*
+175: 0x0351 [0x01] GOTO 0x0364
+176: 0x0354 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0364
+177: 0x035C [0x03] ExtData[1]->WorkLocal[2] = 17*
+178: 0x0361 [0x01] GOTO 0x0364
+
+SUBROUTINE_0364:
+179: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=12767*)
+    → "Check! And how about cargo-wargo? How much should we load up?"
+180: 0x0367 [0x23] WAIT_FOR_DIALOG_INTERACTION
+181: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=12768*)
+    → "I needn't remind you that the more supplies there are, the more elated the receiving unitaru will be."
+182: 0x036B [0x23] WAIT_FOR_DIALOG_INTERACTION
+183: 0x036C [0x03] ExtData[1]->WorkLocal[20] = 0*
+184: 0x0371 [0x02] IF !(ExtData[1]->WorkLocal[19] >= 15000*) GOTO 0x0381
+185: 0x0379 [0x03] ExtData[1]->WorkLocal[20] = 3*
+186: 0x037E [0x01] GOTO 0x0396
+187: 0x0381 [0x02] IF !(ExtData[1]->WorkLocal[19] >= 30000*) GOTO 0x0391
+188: 0x0389 [0x03] ExtData[1]->WorkLocal[20] = 1*
+189: 0x038E [0x01] GOTO 0x0396
+190: 0x0391 [0x03] ExtData[1]->WorkLocal[20] = 0*
+
+SUBROUTINE_0396:
+191: 0x0396 [0x24] CREATE_DIALOG(message_id=12769*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
+    → "What amount do you reco-wecommend? [A large amountaru./A moderate amountaru./A small amountaru.]"
+192: 0x039D [0x25] WAIT_DIALOG_SELECT()
+193: 0x039E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AE
+194: 0x03A6 [0x03] ExtData[1]->WorkLocal[3] = 0*
+195: 0x03AB [0x01] GOTO 0x03CE
+196: 0x03AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03BE
+197: 0x03B6 [0x03] ExtData[1]->WorkLocal[3] = 1*
+198: 0x03BB [0x01] GOTO 0x03CE
+199: 0x03BE [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03CE
+200: 0x03C6 [0x03] ExtData[1]->WorkLocal[3] = 2*
+201: 0x03CB [0x01] GOTO 0x03CE
+
+SUBROUTINE_03CE:
+202: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=12770*)
+    → "Consider it done! And which type of route do you think the convoy-wonvoy should take?"
+203: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+204: 0x03D2 [0x24] CREATE_DIALOG(message_id=12771*, default_option=0*, option_flags=0*)
+    → "Which route do you endorse? [The quickest, shortest route possible./The normal route used in peacetime./The safest detouring route.]"
+205: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
+206: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03EA
+207: 0x03E2 [0x03] ExtData[1]->WorkLocal[4] = 0*
+208: 0x03E7 [0x01] GOTO 0x040A
+209: 0x03EA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03FA
+210: 0x03F2 [0x03] ExtData[1]->WorkLocal[4] = 1*
+211: 0x03F7 [0x01] GOTO 0x040A
+212: 0x03FA [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x040A
+213: 0x0402 [0x03] ExtData[1]->WorkLocal[4] = 2*
+214: 0x0407 [0x01] GOTO 0x040A
+
+SUBROUTINE_040A:
+215: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
+    → "Interesting! That leaves the matter of the convoy's escortaru. What size escort do you believe most appropriataru?"
+216: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
+217: 0x040E [0x24] CREATE_DIALOG(message_id=12773*, default_option=0*, option_flags=0*)
+    → "What size escort do you suggest? [A medium-sized force./A small-sized force./A minimum-sized force.]"
+218: 0x0415 [0x25] WAIT_DIALOG_SELECT()
+219: 0x0416 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0426
+220: 0x041E [0x03] ExtData[1]->WorkLocal[6] = 0*
+221: 0x0423 [0x01] GOTO 0x0446
+222: 0x0426 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0436
+223: 0x042E [0x03] ExtData[1]->WorkLocal[6] = 1*
+224: 0x0433 [0x01] GOTO 0x0446
+225: 0x0436 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0446
+226: 0x043E [0x03] ExtData[1]->WorkLocal[6] = 2*
+227: 0x0443 [0x01] GOTO 0x0446
+
+SUBROUTINE_0446:
+228: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+    → "One lastaru question! In a worst-case scenario-wenario, should our convoy encounter the enemy, what course of action should they take?"
+229: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
+230: 0x044A [0x24] CREATE_DIALOG(message_id=12775*, default_option=0*, option_flags=0*)
+    → "Fight or flight? [Engage in open battle./Avoid conflict at all cost.]"
+231: 0x0451 [0x25] WAIT_DIALOG_SELECT()
+232: 0x0452 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0462
+233: 0x045A [0x03] ExtData[1]->WorkLocal[5] = 0*
+234: 0x045F [0x01] GOTO 0x0472
+235: 0x0462 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0472
+236: 0x046A [0x03] ExtData[1]->WorkLocal[5] = 1*
+237: 0x046F [0x01] GOTO 0x0472
+
+SUBROUTINE_0472:
+238: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+    → "Alrightaru, I do believe that covers it! Do you have any amendment-wendments to make before your official submission?"
+239: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
+240: 0x0476 [0x24] CREATE_DIALOG(message_id=12777*, default_option=0*, option_flags=0*)
+    → "Edit your submission? [No, it's solid./On second thought, yes.]"
+241: 0x047D [0x25] WAIT_DIALOG_SELECT()
+242: 0x047E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x048E
+243: 0x0486 [0x03] ExtData[1]->WorkLocal[21] = 0*
+244: 0x048B [0x01] GOTO 0x049E
+245: 0x048E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x049E
+246: 0x0496 [0x03] ExtData[1]->WorkLocal[21] = 1*
+247: 0x049B [0x01] GOTO 0x049E
+
+SUBROUTINE_049E:
+248: 0x049E [0x01] GOTO 0x0221
+249: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+    → "Magnificentaru! You have this Tarutaru's word! I'll do everything in my power to make sure your suggestions are taken under consider-wideration for tomorrow's operations."
+250: 0x04A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+251: 0x04A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
+    → "As the strategistaru, it is considered customary-wustomary for you to be in attendance at said stronghold. After all, how else could you oversee the execution of your plans?"
+252: 0x04A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+253: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12780*)
+    → "I think we're all done here! May the Goddess-woddess go with you."
+254: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
+255: 0x04AD [0x40] SET_BIT_WORK_RANGE(start_bit=31*, end_bit=31*, target=ExtData[1]->WorkLocal[24], source=1*)
+256: 0x04B6 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=ExtData[1]->WorkLocal[24], source=ExtData[1]->WorkLocal[2])
+257: 0x04BF [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=6*, target=ExtData[1]->WorkLocal[24], source=ExtData[1]->WorkLocal[3])
+258: 0x04C8 [0x40] SET_BIT_WORK_RANGE(start_bit=7*, end_bit=8*, target=ExtData[1]->WorkLocal[24], source=ExtData[1]->WorkLocal[4])
+259: 0x04D1 [0x40] SET_BIT_WORK_RANGE(start_bit=9*, end_bit=9*, target=ExtData[1]->WorkLocal[24], source=ExtData[1]->WorkLocal[5])
+260: 0x04DA [0x40] SET_BIT_WORK_RANGE(start_bit=10*, end_bit=11*, target=ExtData[1]->WorkLocal[24], source=ExtData[1]->WorkLocal[6])
+261: 0x04E3 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[9]) GOTO 0x04F4
+262: 0x04EB [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=13*, target=ExtData[1]->WorkLocal[24], source=1*)
+263: 0x04F4 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[10]) GOTO 0x0505
+264: 0x04FC [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=13*, target=ExtData[1]->WorkLocal[24], source=2*)
+265: 0x0505 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[11]) GOTO 0x0516
+266: 0x050D [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=1*)
+267: 0x0516 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[12]) GOTO 0x0527
+268: 0x051E [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=2*)
+269: 0x0527 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[13]) GOTO 0x0538
+270: 0x052F [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=3*)
+271: 0x0538 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[14]) GOTO 0x0549
+272: 0x0540 [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=4*)
+273: 0x0549 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[15]) GOTO 0x055A
+274: 0x0551 [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=5*)
+275: 0x055A [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[16]) GOTO 0x056B
+276: 0x0562 [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=6*)
+277: 0x056B [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[17]) GOTO 0x057C
+278: 0x0573 [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=7*)
+279: 0x057C [0x01] GOTO 0x0583
+280: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=12755*)
+    → "My mistake. I apologize for troubling you."
+281: 0x0582 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0583:
+282: 0x0583 [0x01] GOTO 0x0605
+283: 0x0586 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0595
+284: 0x058E [0x1D] PRINT_EVENT_MESSAGE(message_id=12781*)
+    → "Is something wrong? As planner of the adopted strategy, I strongly urge you to travel to the stronghold in question-westion to observe eventarus."
+285: 0x0591 [0x23] WAIT_FOR_DIALOG_INTERACTION
+286: 0x0592 [0x01] GOTO 0x0605
+287: 0x0595 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x05CD
+288: 0x059D [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x05AC
+289: 0x05A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12413*)
+    → "It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you."
+290: 0x05A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+291: 0x05A9 [0x01] GOTO 0x05CA
+292: 0x05AC [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x05BB
+293: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12414*)
+    → "Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier."
+294: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+295: 0x05B8 [0x01] GOTO 0x05CA
+296: 0x05BB [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x05CA
+297: 0x05C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12415*)
+    → "Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first."
+298: 0x05C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+299: 0x05C7 [0x01] GOTO 0x05CA
+
+SUBROUTINE_05CA:
+300: 0x05CA [0x01] GOTO 0x0605
+301: 0x05CD [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0605
+302: 0x05D5 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x05E4
+303: 0x05DD [0x1D] PRINT_EVENT_MESSAGE(message_id=12410*)
+    → "Good show on your last operation. Now go make an official report to Sir Rasdinice."
+304: 0x05E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+305: 0x05E1 [0x01] GOTO 0x0602
+306: 0x05E4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x05F3
+307: 0x05EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12411*)
+    → "Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!"
+308: 0x05EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+309: 0x05F0 [0x01] GOTO 0x0602
+310: 0x05F3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0602
+311: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=12412*)
+    → "Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!"
+312: 0x05FE [0x23] WAIT_FOR_DIALOG_INTERACTION
+313: 0x05FF [0x01] GOTO 0x0602
+
+SUBROUTINE_0602:
+314: 0x0602 [0x01] GOTO 0x0605
+
+SUBROUTINE_0605:
+315: 0x0605 [0x01] GOTO 0x0626
+316: 0x0608 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0613
+317: 0x0610 [0x01] GOTO 0x0626
+318: 0x0613 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0622
+319: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=12409*)
+    → "I am far too busy to speak with you now. Perhaps I'll have a little time later."
+320: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
+321: 0x061F [0x01] GOTO 0x0626
+322: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=12409*)
+    → "I am far too busy to speak with you now. Perhaps I'll have a little time later."
+323: 0x0625 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0626:
+324: 0x0626 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[24]
+325: 0x062B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+326: 0x062D [0x21] END_EVENT
+327: 0x062E [0x00] END_REQSTACK()
+```

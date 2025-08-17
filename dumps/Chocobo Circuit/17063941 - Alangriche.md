@@ -1,0 +1,3865 @@
+# 17063941 - Alangriche
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Chocobo Circuit (ID: 70) |
+| Block Size       | 11260 bytes              |
+| Total Events     | 14                       |
+| References Count | 320                      |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [420](#event-420)        | 0x0001       |    339 |            115 |
+| [421](#event-421)        | 0x0154       |     26 |             10 |
+| [422](#event-422)        | 0x016E       |     57 |             20 |
+| [423](#event-423)        | 0x01A7       |    189 |             51 |
+| [424](#event-424)        | 0x0264       |    163 |             46 |
+| [425](#event-425)        | 0x0307       |     72 |             21 |
+| [426](#event-426)        | 0x034F       |     25 |             11 |
+| [427](#event-427)        | 0x0368       |    666 |            135 |
+| [428](#event-428)        | 0x0602       |     23 |              9 |
+| [429](#event-429)        | 0x0619       |      5 |              1 |
+| [65535.1](#event-655351) | 0x061E       |      5 |              3 |
+| [450](#event-450)        | 0x0623       |      5 |              1 |
+| [65535.2](#event-655352) | 0x0628       |   8330 |           1736 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x22D0      |        8912 |
+|       2 | 0x0909      |        2313 |
+|       3 | 0x22D2      |        8914 |
+|       4 | 0x22D3      |        8915 |
+|       5 | 0x22D4      |        8916 |
+|       6 | 0x22D5      |        8917 |
+|       7 | 0x22D8      |        8920 |
+|       8 | 0x22D9      |        8921 |
+|       9 | 0x22DA      |        8922 |
+|      10 | 0x22DB      |        8923 |
+|      11 | 0x22DC      |        8924 |
+|      12 | 0x22DD      |        8925 |
+|      13 | 0x22DE      |        8926 |
+|      14 | 0x0001      |           1 |
+|      15 | 0x0962      |        2402 |
+|      16 | 0x22DF      |        8927 |
+|      17 | 0x22E0      |        8928 |
+|      18 | 0x22E1      |        8929 |
+|      19 | 0x22E2      |        8930 |
+|      20 | 0x0002      |           2 |
+|      21 | 0x22E3      |        8931 |
+|      22 | 0x22E4      |        8932 |
+|      23 | 0x22E5      |        8933 |
+|      24 | 0x22E6      |        8934 |
+|      25 | 0x0003      |           3 |
+|      26 | 0x22E7      |        8935 |
+|      27 | 0x22E8      |        8936 |
+|      28 | 0x22E9      |        8937 |
+|      29 | 0x0004      |           4 |
+|      30 | 0x22EA      |        8938 |
+|      31 | 0x22EB      |        8939 |
+|      32 | 0x22EC      |        8940 |
+|      33 | 0x22ED      |        8941 |
+|      34 | 0x22EE      |        8942 |
+|      35 | 0x22EF      |        8943 |
+|      36 | 0x22F0      |        8944 |
+|      37 | 0x0005      |           5 |
+|      38 | 0x22F1      |        8945 |
+|      39 | 0x22F2      |        8946 |
+|      40 | 0x22F3      |        8947 |
+|      41 | 0x22F4      |        8948 |
+|      42 | 0x22F5      |        8949 |
+|      43 | 0x22F6      |        8950 |
+|      44 | 0x0006      |           6 |
+|      45 | 0x22D6      |        8918 |
+|      46 | 0x22D7      |        8919 |
+|      47 | 0x2493      |        9363 |
+|      48 | 0x22F7      |        8951 |
+|      49 | 0x22F8      |        8952 |
+|      50 | 0x22F9      |        8953 |
+|      51 | 0x22FA      |        8954 |
+|      52 | 0x22FB      |        8955 |
+|      53 | 0x22FC      |        8956 |
+|      54 | 0x22FD      |        8957 |
+|      55 | 0x22FE      |        8958 |
+|      56 | 0x001E      |          30 |
+|      57 | 0x22FF      |        8959 |
+|      58 | 0x2300      |        8960 |
+|      59 | 0x2301      |        8961 |
+|      60 | 0x2302      |        8962 |
+|      61 | 0x2303      |        8963 |
+|      62 | 0x2348      |        9032 |
+|      63 | 0x2349      |        9033 |
+|      64 | 0x234A      |        9034 |
+|      65 | 0x234E      |        9038 |
+|      66 | 0x234B      |        9035 |
+|      67 | 0x234C      |        9036 |
+|      68 | 0x234D      |        9037 |
+|      69 | 0x2355      |        9045 |
+|      70 | 0x0134      |         308 |
+|      71 | 0x235A      |        9050 |
+|      72 | 0x2356      |        9046 |
+|      73 | 0x235B      |        9051 |
+|      74 | 0x2357      |        9047 |
+|      75 | 0x2358      |        9048 |
+|      76 | 0x2359      |        9049 |
+|      77 | 0x00C8      |         200 |
+|      78 | 0x001B      |          27 |
+|      79 | 0x000F      |          15 |
+|      80 | 0x003C      |          60 |
+|      81 | 0x2304      |        8964 |
+|      82 | 0x000E      |          14 |
+|      83 | 0x0040      |          64 |
+|      84 | 0x186A0     |      100000 |
+|      85 | 0x2305      |        8965 |
+|      86 | 0x2308      |        8968 |
+|      87 | 0x2309      |        8969 |
+|      88 | 0x2307      |        8967 |
+|      89 | 0x0010      |          16 |
+|      90 | 0x0008      |           8 |
+|      91 | 0x001F      |          31 |
+|      92 | 0x2341      |        9025 |
+|      93 | 0x2340      |        9024 |
+|      94 | 0x22D1      |        8913 |
+|      95 | 0xFFFFE815  |  4294961173 |
+|      96 | 0xFFFEF13B  |  4294897979 |
+|      97 | 0xFFFFF060  |  4294963296 |
+|      98 | 0x03E8      |        1000 |
+|      99 | 0x00F6      |         246 |
+|     100 | 0x0012      |          18 |
+|     101 | 0x0013      |          19 |
+|     102 | 0x0017      |          23 |
+|     103 | 0x0018      |          24 |
+|     104 | 0x0019      |          25 |
+|     105 | 0x001D      |          29 |
+|     106 | 0x0009      |           9 |
+|     107 | 0x000A      |          10 |
+|     108 | 0x230B      |        8971 |
+|     109 | 0x230C      |        8972 |
+|     110 | 0xFFFFFFFF  |  4294967295 |
+|     111 | 0x230D      |        8973 |
+|     112 | 0x0074      |         116 |
+|     113 | 0x000C      |          12 |
+|     114 | 0x001C      |          28 |
+|     115 | 0x0011      |          17 |
+|     116 | 0x03E7      |         999 |
+|     117 | 0x2327      |        8999 |
+|     118 | 0x2328      |        9000 |
+|     119 | 0x0007      |           7 |
+|     120 | 0x0020      |          32 |
+|     121 | 0x232A      |        9002 |
+|     122 | 0x0014      |          20 |
+|     123 | 0x000D      |          13 |
+|     124 | 0x232B      |        9003 |
+|     125 | 0x230A      |        8970 |
+|     126 | 0x000B      |          11 |
+|     127 | 0x0015      |          21 |
+|     128 | 0x0016      |          22 |
+|     129 | 0x001A      |          26 |
+|     130 | 0x2332      |        9010 |
+|     131 | 0x2333      |        9011 |
+|     132 | 0x2334      |        9012 |
+|     133 | 0x2335      |        9013 |
+|     134 | 0x2336      |        9014 |
+|     135 | 0x2337      |        9015 |
+|     136 | 0x2338      |        9016 |
+|     137 | 0x2339      |        9017 |
+|     138 | 0x233A      |        9018 |
+|     139 | 0x233B      |        9019 |
+|     140 | 0x233C      |        9020 |
+|     141 | 0x233D      |        9021 |
+|     142 | 0x233E      |        9022 |
+|     143 | 0x230E      |        8974 |
+|     144 | 0x2310      |        8976 |
+|     145 | 0x2311      |        8977 |
+|     146 | 0x2312      |        8978 |
+|     147 | 0x2313      |        8979 |
+|     148 | 0x0102      |         258 |
+|     149 | 0xFFFFFFFB  |  4294967291 |
+|     150 | 0x2200      |        8704 |
+|     151 | 0x24D9      |        9433 |
+|     152 | 0x24DA      |        9434 |
+|     153 | 0xFFFFFFFC  |  4294967292 |
+|     154 | 0x234F      |        9039 |
+|     155 | 0xFFFFFFFA  |  4294967290 |
+|     156 | 0x230F      |        8975 |
+|     157 | 0x0202      |         514 |
+|     158 | 0xFFFFFFFE  |  4294967294 |
+|     159 | 0xFFFFFFF9  |  4294967289 |
+|     160 | 0xFFFFFFFD  |  4294967293 |
+|     161 | 0x2350      |        9040 |
+|     162 | 0x2351      |        9041 |
+|     163 | 0x2314      |        8980 |
+|     164 | 0x2325      |        8997 |
+|     165 | 0x2315      |        8981 |
+|     166 | 0x2316      |        8982 |
+|     167 | 0x2317      |        8983 |
+|     168 | 0x2318      |        8984 |
+|     169 | 0x2319      |        8985 |
+|     170 | 0x231A      |        8986 |
+|     171 | 0x231B      |        8987 |
+|     172 | 0x231C      |        8988 |
+|     173 | 0x231D      |        8989 |
+|     174 | 0x231E      |        8990 |
+|     175 | 0x231F      |        8991 |
+|     176 | 0x2320      |        8992 |
+|     177 | 0x2321      |        8993 |
+|     178 | 0x2322      |        8994 |
+|     179 | 0x2323      |        8995 |
+|     180 | 0x2324      |        8996 |
+|     181 | 0x2326      |        8998 |
+|     182 | 0x2329      |        9001 |
+|     183 | 0x0046      |          70 |
+|     184 | 0xFFF86B89  |  4294470537 |
+|     185 | 0xFFFA5E61  |  4294598241 |
+|     186 | 0xFFFFFFF1  |  4294967281 |
+|     187 | 0x0816      |        2070 |
+|     188 | 0x0214      |         532 |
+|     189 | 0xFFF8561A  |  4294465050 |
+|     190 | 0xFFF7E072  |  4294434930 |
+|     191 | 0x01B1      |         433 |
+|     192 | 0xFFFDE467  |  4294829159 |
+|     193 | 0xFFF7D404  |  4294431748 |
+|     194 | 0xFFFFFFEF  |  4294967279 |
+|     195 | 0x03D9      |         985 |
+|     196 | 0xFFF86078  |  4294467704 |
+|     197 | 0xFFFA682A  |  4294600746 |
+|     198 | 0xFFF86B25  |  4294470437 |
+|     199 | 0xFFFA68B0  |  4294600880 |
+|     200 | 0xFFFFFFF4  |  4294967284 |
+|     201 | 0x07A3      |        1955 |
+|     202 | 0xFFF863C6  |  4294468550 |
+|     203 | 0xFFF7DECA  |  4294434506 |
+|     204 | 0x0A00      |        2560 |
+|     205 | 0xFFF85CED  |  4294466797 |
+|     206 | 0xFFF7E648  |  4294436424 |
+|     207 | 0xFFFFFFF6  |  4294967286 |
+|     208 | 0x01D6      |         470 |
+|     209 | 0xFFFDDC02  |  4294827010 |
+|     210 | 0xFFF7CC7C  |  4294429820 |
+|     211 | 0xFFFFFC22  |  4294966306 |
+|     212 | 0x0C00      |        3072 |
+|     213 | 0xFFFDDC0D  |  4294827021 |
+|     214 | 0xFFF7D394  |  4294431636 |
+|     215 | 0xFFFFFFF0  |  4294967280 |
+|     216 | 0x03DC      |         988 |
+|     217 | 0x232C      |        9004 |
+|     218 | 0x232D      |        9005 |
+|     219 | 0x2330      |        9008 |
+|     220 | 0x232E      |        9006 |
+|     221 | 0x232F      |        9007 |
+|     222 | 0x2331      |        9009 |
+|     223 | 0x2371      |        9073 |
+|     224 | 0x2372      |        9074 |
+|     225 | 0x2373      |        9075 |
+|     226 | 0x2374      |        9076 |
+|     227 | 0x2207      |        8711 |
+|     228 | 0x2375      |        9077 |
+|     229 | 0x2376      |        9078 |
+|     230 | 0x2377      |        9079 |
+|     231 | 0x00B0      |         176 |
+|     232 | 0x2378      |        9080 |
+|     233 | 0x2345      |        9029 |
+|     234 | 0x2346      |        9030 |
+|     235 | 0x2347      |        9031 |
+|     236 | 0x2342      |        9026 |
+|     237 | 0x2344      |        9028 |
+|     238 | 0x0023      |          35 |
+|     239 | 0x0028      |          40 |
+|     240 | 0x002D      |          45 |
+|     241 | 0x0032      |          50 |
+|     242 | 0x0064      |         100 |
+|     243 | 0x01F4      |         500 |
+|     244 | 0x05DC      |        1500 |
+|     245 | 0x0BB8      |        3000 |
+|     246 | 0x1388      |        5000 |
+|     247 | 0x157C      |        5500 |
+|     248 | 0x1770      |        6000 |
+|     249 | 0x1964      |        6500 |
+|     250 | 0x1B58      |        7000 |
+|     251 | 0x1D4C      |        7500 |
+|     252 | 0x1F40      |        8000 |
+|     253 | 0x2134      |        8500 |
+|     254 | 0x2710      |       10000 |
+|     255 | 0x0037      |          55 |
+|     256 | 0x0041      |          65 |
+|     257 | 0x004B      |          75 |
+|     258 | 0x0050      |          80 |
+|     259 | 0x0055      |          85 |
+|     260 | 0x005A      |          90 |
+|     261 | 0x0096      |         150 |
+|     262 | 0x012C      |         300 |
+|     263 | 0x0190      |         400 |
+|     264 | 0x0258      |         600 |
+|     265 | 0x0320      |         800 |
+|     266 | 0x07D0      |        2000 |
+|     267 | 0x09C4      |        2500 |
+|     268 | 0x0DAC      |        3500 |
+|     269 | 0x0FA0      |        4000 |
+|     270 | 0x1194      |        4500 |
+|     271 | 0x251C      |        9500 |
+|     272 | 0x2AF8      |       11000 |
+|     273 | 0x2EE0      |       12000 |
+|     274 | 0x32C8      |       13000 |
+|     275 | 0x36B0      |       14000 |
+|     276 | 0x3A98      |       15000 |
+|     277 | 0x3E80      |       16000 |
+|     278 | 0x4268      |       17000 |
+|     279 | 0x4650      |       18000 |
+|     280 | 0x4A38      |       19000 |
+|     281 | 0x4E20      |       20000 |
+|     282 | 0x55F0      |       22000 |
+|     283 | 0x5DC0      |       24000 |
+|     284 | 0x6590      |       26000 |
+|     285 | 0x6D60      |       28000 |
+|     286 | 0x7530      |       30000 |
+|     287 | 0x7D00      |       32000 |
+|     288 | 0x84D0      |       34000 |
+|     289 | 0x8CA0      |       36000 |
+|     290 | 0x9470      |       38000 |
+|     291 | 0x9C40      |       40000 |
+|     292 | 0xA410      |       42000 |
+|     293 | 0xABE0      |       44000 |
+|     294 | 0xB3B0      |       46000 |
+|     295 | 0xBB80      |       48000 |
+|     296 | 0xC350      |       50000 |
+|     297 | 0xD6D8      |       55000 |
+|     298 | 0xEA60      |       60000 |
+|     299 | 0xFDE8      |       65000 |
+|     300 | 0x11170     |       70000 |
+|     301 | 0x124F8     |       75000 |
+|     302 | 0x13880     |       80000 |
+|     303 | 0x14C08     |       85000 |
+|     304 | 0x15F90     |       90000 |
+|     305 | 0x17318     |       95000 |
+|     306 | 0x0955      |        2389 |
+|     307 | 0x0956      |        2390 |
+|     308 | 0x0957      |        2391 |
+|     309 | 0x0958      |        2392 |
+|     310 | 0x0959      |        2393 |
+|     311 | 0x095A      |        2394 |
+|     312 | 0x095B      |        2395 |
+|     313 | 0x095C      |        2396 |
+|     314 | 0x095D      |        2397 |
+|     315 | 0x095E      |        2398 |
+|     316 | 0x095F      |        2399 |
+|     317 | 0x0960      |        2400 |
+|     318 | 0x0961      |        2401 |
+|     319 | 0x00FF      |         255 |
+
+## String References
+
+- **8704**: $0
+- **8711**: Recreating race from points $0\`$1.
+- **8912**: Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers.
+- **8913**: I am sorry, but there are no races scheduled at the moment.
+- **8914**: Participation in our organization's races requires that you either possess $0 or currently have your own full-grown chocobo.
+- **8915**: How about you, [sir/ma'am]?
+- **8916**: If possible, we would like you to join us, and help show those trainers in [Bastok and Windurst/San d'Oria and Windurst/San d'Oria and Bastok] which racing team is truly the best in Vana'diel.
+- **8917**: What do you say? [Tell me more./Sign me up!/Not today.]
+- **8918**: Congratulations, <Player>! You are now an official member of the CRA's [San d'Oria/Bastok/Windurst] racing team.
+- **8919**: I see. Please come back if you ever change your mind!
+- **8920**: What would you like to know? [Why race chocobos, anyway?/How do I register for a race?/How do I prepare for a race?/What are chocobucks?/What kind of races are there?/What are "racing teams"?/Quit./Return.]
+- **8921**: Why not!? Our original plan was to establish locations across Vana'diel where people could test their birds' skills.
+- **8922**: We felt that this would help us maintain breeder motivation, which in turn would ensure healthier, happier chocobos. A "win-win situation," as we like to call it in the business.
+- **8923**: However, as rumors of these new facilities began to leak out into the world, people began speculating about the possibility of officially sanctioned chocobo races...
+- **8924**: The VCS could not ignore the voice of the masses, and it was not long before a meeting was held, a vote was taken, and the CRA was formed.
+- **8925**: And that's why I'm here, trying to enlist you and other top breeders into our noble ranks.
+- **8926**: Oh, and for our more seasoned veterans who feel there are no challenges left for them here at the track, the CRA has finished preparing a new race. And rumor has that it's a doozie!
+- **8927**: First of all, your chocobo must be fully grown. It doesn't matter if you are still tending to it, or if it has been sent to pasture, as long as it is large enough to ride.
+- **8928**: Next, you must bring me either $0 or $1. This is all I will require. There are no hidden fees.
+- **8929**: As your chocobo develops, be sure to re-register it. This will ensure that your steed is provided with the equipment that most suits its current condition.
+- **8930**: Finally, you may only register one chocobo at a time, but are free to register a new bird whenever you wish. You need only speak with me to make any necessary changes.
+- **8931**: Once you have registered your chocobo and entered it in a competition, the CRA will proceed in assigning it a licensed jockey.
+- **8932**: Before each race you will be given the opportunity to give the jockey specific orders on his or her riding style.
+- **8933**: In addition to these orders, you can also provide the jockey with items to use while riding, as well as equipment to improve your chocobo's performance.
+- **8934**: Before a race, you can also check the strengths and weaknesses of the other participating chocobos. It is recommended that you use this data when deciding on what orders to give, or which items to equip.
+- **8935**: Depending on your chocobo's performance in select CRA-sanctioned races, you may or may not receive a prize consisting of VCS-mint chocobucks.
+- **8936**: Chocobucks can be used to purchase items, as well as upgrade your mount. Chocobucks are also required to participate in official races.
+- **8937**: Currently, players can earn up to, but no more than, 1000 chocobucks. However, this may change without notice.
+- **8938**: There are two main types of races.
+- **8939**: The first type is called an official race. To participate in one of these, you will require chocobucks.
+- **8940**: Placing in an official race will earn you gil. The more races you complete, the more respected you will become in the breeder community.
+- **8941**: You may also take part in an official race as often as needed to complete the specified objectives.
+- **8942**: However, after some of the more grueling races, you may be required to wait before entering the next. This is to give your chocobo, as well as the others, an opportunity to rest before running again.
+- **8943**: The second type of race is called a free run. Unlike the official races, these can be run at any time, regardless of the results of a previous match.
+- **8944**: You must pay a fee in gil to participate in free runs, but you will have the opportunity to earn chocobucks depending on your chocobo's performance. You can join as many free runs as you wish in a single day (Earth time), but extra fees may be required for each additional race. (Stable hands have to make a living, too!)
+- **8945**: The CRA is split up into three racing teams representing Bastok, Windurst, and San d'Oria.
+- **8946**: Each team has its own skilled jockeys, and offers unique services that cannot be obtained at the other two.
+- **8947**: Breeders are allowed to register with any team they like, and may change their affiliation at any time.
+- **8948**: In the event that you wish to leave a racing team, all official race results, as well as earned chocobucks, will be saved.
+- **8949**: You never have to worry that your past accomplishments may be deleted and lost forever. You only need rejoin the team to restore all your old data.
+- **8950**: Anyway, there is no harm in visiting all three racing teams to find which one suits you best (though I know you'll choose this one).
+- **8951**: Ah, it says here that you are a member of the [San d'Oria/Bastok/Windurst] racing team.
+- **8952**: Have you come today to change your affiliation?
+- **8953**: Remember, you will not be able to use any chocobucks earned in [San d'Oria/Bastok/Windurst] here, and you will also lose any Solo Victory Points that you may have. Are you sure you want to go through with this?
+- **8954**: Join this team? [Yes./No.]
+- **8955**: Congratulations! You are the newest member of the CRA's [San d'Oria/Bastok/Windurst] racing team!
+- **8956**: Understood. But remember, we are always looking for great racers like you to join our team. If you ever change your mind, I'll be right here waiting.
+- **8957**: Ah, so you have brought items for your chocobo.
+- **8958**: What do we have here...
+- **8959**: #:
+- **8960**: Alright, <Player>, I will store this in our safe.
+- **8961**: Alright, <Player>, I will store these in our safe.
+- **8962**: I am sorry, but you have already brought me one of those.
+- **8963**: I am sorry, but you have already brought me these items.
+- **8964**: Hello! What might I interest you in today?
+- **8965**: (You have $3 [chocobuck/chocobucks].) [Chocobo [registration/confirmation]./Item confirmation./Free run ($1 gil)./Official race ($2 [chocobuck/chocobucks])./Re-run./Rule confirmation./Nothing.]
+- **8967**: You cannot access this menu until you have registered a chocobo to race.
+- **8968**: To register your chocobo, you must first bring me either $0 or $1.
+- **8969**: You can only register one chocobo at a time, but you may always register a new one whenever you wish.
+- **8970**: We currently hold for you: [/$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]
+- **8971**: With newly developed CRA technology, you can now relive the excitement of a previously cleared official race!
+- **8972**: You may participate in these "re-runs" as many times as you wish, but just remember--the race may be the same, but the prizes for placing won't!
+- **8973**: Re-run which race? [Novice Race I./Novice Race II./Novice Race III./Challenge Race I./International Race I./International Race II./Challenge Race II./CRA Classic./Quit./Return.]
+- **8974**: ***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: $1./Start race./Quit./Return.]
+- **8975**: ***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: None./Start race./Quit./Return.]
+- **8976**: Here is the information on the next race:
+- **8977**: ----------------------------------------
+- **8978**: $26Free Run$26 Chocobos: 8 Objective: None
+- **8979**: While free runs usually have no specific objectives, the higher your chocobo places, the better the prize you will receive. We suggest you use these races to improve your skills before embarking on the more difficult official races.
+- **8980**: Here is the information on the next race:
+- **8981**: $26Novice Race I$26 Chocobos: 4 Objective: Place 3rd or higher
+- **8982**: Use this race to learn the ropes. Try not to worry too much about the other chocobos, and concentrate on discovering your bird's strengths and weaknesses.
+- **8983**: $26Novice Race II$26 Chocobos: 6 Objective: Place 3rd or higher
+- **8984**: This time, your chocobo will be pitted against five opponents. Use your knowledge of your bird's strengths to provide the jockey with the most appropriate orders.
+- **8985**: $26Novice Race III$26 Chocobos: 8 Objective: Place 3rd or higher
+- **8986**: This race is quite similar to a free run in that there will be seven other chocobos racing against you. If you have one available, try equipping an item to improve your bird's performance.
+- **8987**: $26Challenge Race I$26 Chocobos: 2 Objective: Place 1st
+- **8988**: Three of our most revered breeders have heard of your success and wish to challenge you in a head-to-head match.
+- **8989**: $26International Race I$26 Chocobos: 8 Objective: Place 3rd or higher
+- **8990**: The [Bastok/Windurst/San d'Oria] racing team has requested your participation in a nationally sponsored match. The pride of our branch is at stake, <Player>!
+- **8991**: $26International Race II$26 Chocobos: 8 Objective: Place 3rd or higher
+- **8992**: The [Windurst/San d'Oria/Bastok] racing team has requested your participation in a nationally sponsored match. You represented us well last time, <Player>. We're counting on you again!
+- **8993**: $26Challenge Race II$26 Chocobos: 3 Objective: Place 1st
+- **8994**: The challengers you defeated previously have requested a rematch. Also, [Hantileon/Zopago/Pulonono] has expressed interest in this race, and would like to participate as well.
+- **8995**: $26CRA Classic$26 Chocobos: 8 Objective: Place 1st
+- **8996**: The title of "fastest chocobo in the [Kingdom/Republic/Federation]" is up for grabs at the [d'Oraguille Victory Malm/Gustaberg Derby/Rakapopo Cup] sponsored by [the king himself/the president himself/Manustery minister Apururu herself]!
+- **8997**: Participation fee: $0 [chocobuck/chocobucks].
+- **8998**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
+- **8999**: $0 \` Owner: %7Affiliation: [None/San d'Oria Branch/Bastok Branch/Windurst Branch] Gender: [Male/Female]
+- **9000**: Entry No. $3 $0 \` Owner: %7Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female]
+- **9001**: Entry No. $3 $1 \` Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep pace/Final spurt]
+- **9002**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **9003**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
+- **9004**: Change orders to: [Sprint./Keep pace./Final spurt./Quit./Return.]
+- **9005**: Sprint: Have the jockey push your chocobo to its limits from the get go.
+- **9006**: Keep pace: Have the jockey maintain a consistent pace throughout the whole race.
+- **9007**: Final spurt: Have the jockey save your chocobo's energy until the end of the race.
+- **9008**: Is this what you want? [Definitely./Not at all.]
+- **9009**: Equip which item? [Nothing./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]
+- **9010**: These are used during a race to temporarily boost the speed of your chocobo.
+- **9011**: These are used during a race to temporarily regenerate your chocobo's stamina.
+- **9012**: These are used during a race to temporarily resist the effects of any detrimental items aimed at your chocobo.
+- **9013**: These are used during a race to greatly reduce the speed of an opponent chocobo.
+- **9014**: These are used during a race to greatly reduce the stamina of an opponent chocobo.
+- **9015**: These are used during a race to temporarily reduce the speed of all surrounding opponent chocobos.
+- **9016**: These are used during a race to reduce the discernment of all surrounding opponent chocobos.
+- **9017**: These are used during a race to temporarily clear up the weather.
+- **9018**: These are used during a race to temporarily call upon a rainstorm.
+- **9019**: When equipped during a race, this item will slightly increase the strength of your chocobo.
+- **9020**: When equipped during a race, this item will slightly increase the stamina of your chocobo.
+- **9021**: When equipped during a race, this item will slightly increase the discernment of your chocobo.
+- **9022**: When equipped during a race, this item will slightly increase the receptivity of your chocobo.
+- **9024**: I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race.
+- **9025**: I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race.
+- **9026**: Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!
+- **9028**: Don't worry too much about the results of that last race. You must learn from your experience and prepare yourself for the next challenge.
+- **9029**: Congratulations! That final victory has put you in leagues with [San d'Oria's/Bastok's/Windurst's] finest riders!
+- **9030**: All of us here are eager to see what accomplishments you will achieve next!
+- **9031**: Oh, and do be careful with your $0. If you happen to accidentally dispose of it, you will never be able to receive one again.
+- **9032**: So you wish to register a chocobo.
+- **9033**: Let me see... $1 has already been registered.
+- **9034**: Do you wish to cancel $1's registration and sign up $0?
+- **9035**: Register $0? [Yes./No.]
+- **9036**: Excellent! $0 has been successfully registered.
+- **9037**: Very well.
+- **9038**: I'm sorry. You have already registered that chocobo. You may race it at any time.
+- **9039**: I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you.
+- **9040**: I'm sorry. The other chocobos have not finished resting. Please come back a little later.
+- **9041**: One moment please while entries are confirmed with CRA headquarters.
+- **9045**: Ah, <Player>. We have been holding on to the prize from your last race until you had room enough in your gobbiebag to carry it back to your Mog House.
+- **9046**: Might you be <Player>? Excellent. VCS headquarters was informed that you would be stopping by our branch, and sent this package containing the prize from your last race.
+- **9047**: <Player>, thank you for waiting.
+- **9048**: Much to the VCS and the CRA's delight, the recent efforts of chocobo breeders across Vana'diel has helped to generate an unprecedented amount of interest in our endeavor. More people than ever have begun to express an interest in raising their own chocobo.
+- **9049**: As a means of expressing our gratitude, we have therefore decided to confer upon the victors of CRA Classics rewards befitting a champion. We congratulate you on your impressive achievement, <Player>. You are a true inspiration for breeders everywhere!
+- **9050**: Hello there, <Player>. Why yes, we are holding your $0. Here you are.
+- **9051**: Good day to you, <Player>. Indeed, we are currently holding your $0 from the CRA for safekeeping. Here you are.
+- **9073**: Select goodness: [Race portion ($0/$1)./Cut Scene ([Yes/No])./Opening ([Yes/No])./On screen text ([On/Off])./Cancel Race./Start Race.]
+- **9074**: Select race portion? [Yes./No.]
+- **9075**: Select starting node. (0-31)
+- **9076**: Select ending node. (1-32)
+- **9077**: Play Cut Scene? [Yessir./No way.]
+- **9078**: Play Opening? [Yep./Nope.]
+- **9079**: Display Condition? [Yes./No. (Default)]
+- **9080**: $0/$1/$2/$3 $4/$5/$6/$7
+- **9363**: My apologies, [sir/ma'am], but it appears that you have yet to conduct all of the necessary processing at the service area for advanced and veteran racers. Please speak to the attendants there for further assistance.
+- **9433**: Skip the racing scene? [Yes, please./No. I've got front-row seats!]
+- **9434**: You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 420
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 339 bytes |
+| Instructions | 113       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 41 10 00 80 42 1E  F0 FF FF 7F 03 1D 00 02   .A...B.........
+0010: 10 1D 01 80 23 03 03 10  02 10 03 02 10 02 80 1D  ....#...........
+0020: 03 80 23 03 02 10 1D 00  1D 04 80 23 1D 05 80 23  ..#........#...#
+0030: 24 06 80 00 80 00 80 25  02 00 10 00 80 00 32 01  $......%......2.
+0040: 06 17 00 02 17 00 00 80  00 2F 01 24 07 80 00 80  ........./.$....
+0050: 00 80 25 02 00 10 00 80  00 76 00 1D 08 80 23 1D  ..%......v....#.
+0060: 09 80 23 1D 0A 80 23 1D  0B 80 23 1D 0C 80 23 1D  ..#...#...#...#.
+0070: 0D 80 23 01 2C 01 02 00  10 0E 80 00 9B 00 03 02  ..#.,...........
+0080: 10 02 80 03 03 10 0F 80  1D 10 80 23 1D 11 80 23  ...........#...#
+0090: 1D 12 80 23 1D 13 80 23  01 2C 01 02 00 10 14 80  ...#...#.,......
+00A0: 00 B6 00 1D 15 80 23 1D  16 80 23 1D 17 80 23 1D  ......#...#...#.
+00B0: 18 80 23 01 2C 01 02 00  10 19 80 00 CD 00 1D 1A  ..#.,...........
+00C0: 80 23 1D 1B 80 23 1D 1C  80 23 01 2C 01 02 00 10  .#...#...#.,....
+00D0: 1D 80 00 F4 00 1D 1E 80  23 1D 1F 80 23 1D 20 80  ........#...#. .
+00E0: 23 1D 21 80 23 1D 22 80  23 1D 23 80 23 1D 24 80  #.!.#.".#.#.#.$.
+00F0: 23 01 2C 01 02 00 10 25  80 00 1C 01 1D 26 80 23  #.,....%.....&.#
+0100: 1D 27 80 23 1D 28 80 23  1D 29 80 23 1D 2A 80 23  .'.#.(.#.).#.*.#
+0110: 03 02 10 1D 00 1D 2B 80  23 01 2C 01 02 00 10 2C  ......+.#.,....,
+0120: 80 00 29 01 21 00 01 2C  01 01 30 00 01 43 00 01  ..).!..,..0..C..
+0130: 52 01 02 00 10 0E 80 00  4B 01 03 03 10 1D 00 1D  R.......K.......
+0140: 2D 80 23 03 01 10 0E 80  01 52 01 1D 2E 80 23 06  -.#......R....#.
+0150: 01 10 21 00                                       ..!.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] Work_Zone[65] = 0*
+  1: 0x0006 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x000C [0x03] ExtData[1]->WorkLocal[29] = Work_Zone[2]
+  4: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+    → "Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers."
+  5: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0015 [0x03] Work_Zone[3] = Work_Zone[2]
+  7: 0x001A [0x03] Work_Zone[2] = 2313*
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
+    → "Participation in our organization's races requires that you either possess $0 or currently have your own full-grown chocobo."
+  9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x0023 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
+ 11: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
+    → "How about you, [sir/ma'am]?"
+ 12: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
+    → "If possible, we would like you to join us, and help show those trainers in [Bastok and Windurst/San d'Oria and Windurst/San d'Oria and Bastok] which racing team is truly the best in Vana'diel."
+ 14: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x0030 [0x24] CREATE_DIALOG(message_id=8917*, default_option=0*, option_flags=0*)
+    → "What do you say? [Tell me more./Sign me up!/Not today.]"
+ 16: 0x0037 [0x25] WAIT_DIALOG_SELECT()
+ 17: 0x0038 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
+ 18: 0x0040 [0x06] ExtData[1]->WorkLocal[23] = 0
+ 19: 0x0043 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x012F
+ 20: 0x004B [0x24] CREATE_DIALOG(message_id=8920*, default_option=0*, option_flags=0*)
+    → "What would you like to know? [Why race chocobos, anyway?/How do I register for a race?/How do I prepare for a race?/What are chocobucks?/What kind of races are there?/What are "racing teams"?/Quit./Return.]"
+ 21: 0x0052 [0x25] WAIT_DIALOG_SELECT()
+ 22: 0x0053 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0076
+ 23: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8921*)
+    → "Why not!? Our original plan was to establish locations across Vana'diel where people could test their birds' skills."
+ 24: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 25: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
+    → "We felt that this would help us maintain breeder motivation, which in turn would ensure healthier, happier chocobos. A "win-win situation," as we like to call it in the business."
+ 26: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8923*)
+    → "However, as rumors of these new facilities began to leak out into the world, people began speculating about the possibility of officially sanctioned chocobo races..."
+ 28: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 29: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8924*)
+    → "The VCS could not ignore the voice of the masses, and it was not long before a meeting was held, a vote was taken, and the CRA was formed."
+ 30: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 31: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
+    → "And that's why I'm here, trying to enlist you and other top breeders into our noble ranks."
+ 32: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 33: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+    → "Oh, and for our more seasoned veterans who feel there are no challenges left for them here at the track, the CRA has finished preparing a new race. And rumor has that it's a doozie!"
+ 34: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 35: 0x0073 [0x01] GOTO 0x012C
+ 36: 0x0076 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x009B
+ 37: 0x007E [0x03] Work_Zone[2] = 2313*
+ 38: 0x0083 [0x03] Work_Zone[3] = 2402*
+ 39: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
+    → "First of all, your chocobo must be fully grown. It doesn't matter if you are still tending to it, or if it has been sent to pasture, as long as it is large enough to ride."
+ 40: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 41: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
+    → "Next, you must bring me either $0 or $1. This is all I will require. There are no hidden fees."
+ 42: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 43: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
+    → "As your chocobo develops, be sure to re-register it. This will ensure that your steed is provided with the equipment that most suits its current condition."
+ 44: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 45: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
+    → "Finally, you may only register one chocobo at a time, but are free to register a new bird whenever you wish. You need only speak with me to make any necessary changes."
+ 46: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 47: 0x0098 [0x01] GOTO 0x012C
+ 48: 0x009B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00B6
+ 49: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
+    → "Once you have registered your chocobo and entered it in a competition, the CRA will proceed in assigning it a licensed jockey."
+ 50: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 51: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
+    → "Before each race you will be given the opportunity to give the jockey specific orders on his or her riding style."
+ 52: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 53: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
+    → "In addition to these orders, you can also provide the jockey with items to use while riding, as well as equipment to improve your chocobo's performance."
+ 54: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 55: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
+    → "Before a race, you can also check the strengths and weaknesses of the other participating chocobos. It is recommended that you use this data when deciding on what orders to give, or which items to equip."
+ 56: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 57: 0x00B3 [0x01] GOTO 0x012C
+ 58: 0x00B6 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00CD
+ 59: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
+    → "Depending on your chocobo's performance in select CRA-sanctioned races, you may or may not receive a prize consisting of VCS-mint chocobucks."
+ 60: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 61: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
+    → "Chocobucks can be used to purchase items, as well as upgrade your mount. Chocobucks are also required to participate in official races."
+ 62: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 63: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
+    → "Currently, players can earn up to, but no more than, 1000 chocobucks. However, this may change without notice."
+ 64: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 65: 0x00CA [0x01] GOTO 0x012C
+ 66: 0x00CD [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00F4
+ 67: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
+    → "There are two main types of races."
+ 68: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 69: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
+    → "The first type is called an official race. To participate in one of these, you will require chocobucks."
+ 70: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 71: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
+    → "Placing in an official race will earn you gil. The more races you complete, the more respected you will become in the breeder community."
+ 72: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 73: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
+    → "You may also take part in an official race as often as needed to complete the specified objectives."
+ 74: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 75: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
+    → "However, after some of the more grueling races, you may be required to wait before entering the next. This is to give your chocobo, as well as the others, an opportunity to rest before running again."
+ 76: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 77: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
+    → "The second type of race is called a free run. Unlike the official races, these can be run at any time, regardless of the results of a previous match."
+ 78: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 79: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
+    → "You must pay a fee in gil to participate in free runs, but you will have the opportunity to earn chocobucks depending on your chocobo's performance. You can join as many free runs as you wish in a single day (Earth time), but extra fees may be required for each additional race. (Stable hands have to make a living, too!)"
+ 80: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 81: 0x00F1 [0x01] GOTO 0x012C
+ 82: 0x00F4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x011C
+ 83: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
+    → "The CRA is split up into three racing teams representing Bastok, Windurst, and San d'Oria."
+ 84: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 85: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
+    → "Each team has its own skilled jockeys, and offers unique services that cannot be obtained at the other two."
+ 86: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 87: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8947*)
+    → "Breeders are allowed to register with any team they like, and may change their affiliation at any time."
+ 88: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 89: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
+    → "In the event that you wish to leave a racing team, all official race results, as well as earned chocobucks, will be saved."
+ 90: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 91: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
+    → "You never have to worry that your past accomplishments may be deleted and lost forever. You only need rejoin the team to restore all your old data."
+ 92: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 93: 0x0110 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
+ 94: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
+    → "Anyway, there is no harm in visiting all three racing teams to find which one suits you best (though I know you'll choose this one)."
+ 95: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 96: 0x0119 [0x01] GOTO 0x012C
+ 97: 0x011C [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0129
+ 98: 0x0124 [0x21] END_EVENT
+ 99: 0x0125 [0x00] END_REQSTACK()
+
+SUBROUTINE_012C:
+100: 0x012C [0x01] GOTO 0x0043
+101: 0x012F [0x01] GOTO 0x0152
+102: 0x0132 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x014B
+103: 0x013A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
+104: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=8918*)
+    → "Congratulations, <Player>! You are now an official member of the CRA's [San d'Oria/Bastok/Windurst] racing team."
+105: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
+106: 0x0143 [0x03] Work_Zone[1] = 1*
+107: 0x0148 [0x01] GOTO 0x0152
+108: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=8919*)
+    → "I see. Please come back if you ever change your mind!"
+109: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
+110: 0x014F [0x06] Work_Zone[1] = 0
+
+SUBROUTINE_0152:
+111: 0x0152 [0x21] END_EVENT
+112: 0x0153 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0126 [0x01] GOTO 0x012C
+```
+
+### Event 421
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0154   |
+| Data Size    | 26 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0150:             03 41 10 00  80 42 1E F0 FF FF 7F 03      .A...B......
+0160: 1D 00 02 10 1D 01 80 23  1D 2F 80 23 21 00        .......#./.#!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0154 [0x03] Work_Zone[65] = 0*
+  1: 0x0159 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x015A [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x015F [0x03] ExtData[1]->WorkLocal[29] = Work_Zone[2]
+  4: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+    → "Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers."
+  5: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
+    → "My apologies, [sir/ma'am], but it appears that you have yet to conduct all of the necessary processing at the service area for advanced and veteran racers. Please speak to the attendants there for further assistance."
+  7: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x016C [0x21] END_EVENT
+  9: 0x016D [0x00] END_REQSTACK()
+```
+
+### Event 422
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x016E   |
+| Data Size    | 57 bytes |
+| Instructions | 20       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0160:                                            03 41                .A
+0170: 10 00 80 42 1E F0 FF FF  7F 1D 30 80 23 1D 31 80  ...B......0.#.1.
+0180: 23 1D 32 80 23 24 33 80  0E 80 00 80 25 02 00 10  #.2.#$3.....%...
+0190: 00 80 00 A1 01 1D 34 80  23 03 01 10 0E 80 01 A5  ......4.#.......
+01A0: 01 1D 35 80 23 21 00                              ..5.#!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x016E [0x03] Work_Zone[65] = 0*
+  1: 0x0173 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0174 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=8951*)
+    → "Ah, it says here that you are a member of the [San d'Oria/Bastok/Windurst] racing team."
+  4: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
+    → "Have you come today to change your affiliation?"
+  6: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
+    → "Remember, you will not be able to use any chocobucks earned in [San d'Oria/Bastok/Windurst] here, and you will also lose any Solo Victory Points that you may have. Are you sure you want to go through with this?"
+  8: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0185 [0x24] CREATE_DIALOG(message_id=8954*, default_option=1*, option_flags=0*)
+    → "Join this team? [Yes./No.]"
+ 10: 0x018C [0x25] WAIT_DIALOG_SELECT()
+ 11: 0x018D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A1
+ 12: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=8955*)
+    → "Congratulations! You are the newest member of the CRA's [San d'Oria/Bastok/Windurst] racing team!"
+ 13: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 14: 0x0199 [0x03] Work_Zone[1] = 1*
+ 15: 0x019E [0x01] GOTO 0x01A5
+ 16: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8956*)
+    → "Understood. But remember, we are always looking for great racers like you to join our team. If you ever change your mind, I'll be right here waiting."
+ 17: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_01A5:
+ 18: 0x01A5 [0x21] END_EVENT
+ 19: 0x01A6 [0x00] END_REQSTACK()
+```
+
+### Event 423
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x01A7    |
+| Data Size    | 189 bytes |
+| Instructions | 51        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01A0:                      03  41 10 00 80 42 1E F0 FF         .A...B...
+01B0: FF 7F 1D 36 80 23 02 02  10 00 80 00 5E 02 1D 37  ...6.#......^..7
+01C0: 80 23 03 17 00 0E 80 06  02 10 06 00 17 02 17 00  .#..............
+01D0: 38 80 05 FE 01 3E 03 10  17 00 F6 01 9D 00 71 25  8....>........q%
+01E0: 02 10 17 00 93 02 10 1D  39 80 23 03 1D 17 17 00  ........9.#.....
+01F0: 1A B4 0C 0B 00 17 07 17  00 0E 80 01 CD 01 93 00  ................
+0200: 80 02 00 17 0E 80 00 10  02 1D 3A 80 23 01 14 02  ..........:.#...
+0210: 1D 3B 80 23 06 17 00 06  00 17 02 17 00 38 80 05  .;.#.........8..
+0220: 40 02 3E 05 10 17 00 38  02 9D 00 71 25 02 10 17  @.>....8...q%...
+0230: 00 1D 39 80 23 0B 00 17  07 17 00 0E 80 01 1A 02  ..9.#...........
+0240: 02 00 17 00 80 02 5B 02  02 00 17 0E 80 00 57 02  ......[.......W.
+0250: 1D 3C 80 23 01 5B 02 1D  3D 80 23 01 62 02 1D 3C  .<.#.[..=.#.b..<
+0260: 80 23 21 00                                       .#!.            
+```
+
+#### Opcodes
+
+```
+  0: 0x01A7 [0x03] Work_Zone[65] = 0*
+  1: 0x01AC [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x01AD [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8957*)
+    → "Ah, so you have brought items for your chocobo."
+  4: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x01B6 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x025E
+  6: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8958*)
+    → "What do we have here..."
+  7: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x01C2 [0x03] ExtData[1]->WorkLocal[23] = 1*
+  9: 0x01C7 [0x06] Work_Zone[2] = 0
+ 10: 0x01CA [0x06] Work_Zone_1700[0] = 0
+ 11: 0x01CD [0x02] IF !(ExtData[1]->WorkLocal[23] > 30*) GOTO 0x01FE
+ 12: 0x01D5 [0x3E] IF !(Work_Zone[3] bit ExtData[1]->WorkLocal[23]) GOTO 0x01F6
+ 13: 0x01DC [0x9D] Work_Zone[2] = 0x2571[ExtData[1]->WorkLocal[23]] // Read WORD
+ 14: 0x01E4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
+ 15: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8959*)
+    → "#:"
+ 16: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 17: 0x01EB [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[23]
+ 18: 0x01F0 [0x1A] CALL_SUBROUTINE(address=0x0CB4)
+ 19: 0x01F3 [0x0B] Work_Zone_1700[0]++
+ 20: 0x01F6 [0x07] ExtData[1]->WorkLocal[23] += 1*
+ 21: 0x01FB [0x01] GOTO 0x01CD
+ 22: 0x01FE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+ 23: 0x0201 [0x02] IF !(Work_Zone_1700[0] == 1*) GOTO 0x0210
+ 24: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=8960*)
+    → "Alright, <Player>, I will store this in our safe."
+ 25: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 26: 0x020D [0x01] GOTO 0x0214
+ 27: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=8961*)
+    → "Alright, <Player>, I will store these in our safe."
+ 28: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0214:
+ 29: 0x0214 [0x06] ExtData[1]->WorkLocal[23] = 0
+ 30: 0x0217 [0x06] Work_Zone_1700[0] = 0
+
+SUBROUTINE_021A:
+ 31: 0x021A [0x02] IF !(ExtData[1]->WorkLocal[23] > 30*) GOTO 0x0240
+ 32: 0x0222 [0x3E] IF !(Work_Zone[5] bit ExtData[1]->WorkLocal[23]) GOTO 0x0238
+ 33: 0x0229 [0x9D] Work_Zone[2] = 0x2571[ExtData[1]->WorkLocal[23]] // Read WORD
+ 34: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8959*)
+    → "#:"
+ 35: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 36: 0x0235 [0x0B] Work_Zone_1700[0]++
+ 37: 0x0238 [0x07] ExtData[1]->WorkLocal[23] += 1*
+ 38: 0x023D [0x01] GOTO 0x021A
+ 39: 0x0240 [0x02] IF !(Work_Zone_1700[0] <= 0*) GOTO 0x025B
+ 40: 0x0248 [0x02] IF !(Work_Zone_1700[0] == 1*) GOTO 0x0257
+ 41: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8962*)
+    → "I am sorry, but you have already brought me one of those."
+ 42: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 43: 0x0254 [0x01] GOTO 0x025B
+ 44: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8963*)
+    → "I am sorry, but you have already brought me these items."
+ 45: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_025B:
+ 46: 0x025B [0x01] GOTO 0x0262
+ 47: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8962*)
+    → "I am sorry, but you have already brought me one of those."
+ 48: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0262:
+ 49: 0x0262 [0x21] END_EVENT
+ 50: 0x0263 [0x00] END_REQSTACK()
+```
+
+### Event 424
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0264    |
+| Data Size    | 163 bytes |
+| Instructions | 46        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0260:             03 41 10 00  80 42 1E F0 FF FF 7F 1D      .A...B......
+0270: 3E 80 23 B4 01 3C 10 00  80 03 40 10 03 10 C3 00  >.#..<....@.....
+0280: 80 3C 10 40 10 02 02 10  00 80 00 90 02 01 DD 02  .<.@............
+0290: B4 01 3C 10 0E 80 03 40  10 04 10 C3 0E 80 3C 10  ..<....@......<.
+02A0: 40 10 02 02 10 0E 80 00  C5 02 1A 6D 08 03 03 10  @..........m....
+02B0: 0E 80 1D 3F 80 23 03 02  10 00 80 1D 40 80 23 1A  ...?.#......@.#.
+02C0: 6E 08 01 DD 02 1A 6D 08  03 03 10 0E 80 1D 3F 80  n.....m.......?.
+02D0: 23 1A 6E 08 1D 41 80 23  06 01 10 21 00 03 02 10  #.n..A.#...!....
+02E0: 00 80 24 42 80 0E 80 00  80 25 02 00 10 00 80 00  ..$B.....%......
+02F0: FE 02 1D 43 80 23 03 01  10 0E 80 01 05 03 1D 44  ...C.#.........D
+0300: 80 23 06 01 10 21 00                              .#...!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0264 [0x03] Work_Zone[65] = 0*
+  1: 0x0269 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x026A [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
+    → "So you wish to register a chocobo."
+  4: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0273 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[60], string_index=0*)
+  6: 0x0279 [0x03] Work_Zone[64] = Work_Zone[3]
+  7: 0x027E [0xC3] COPY_STRING_TO_ARRAY(array_index=0x8000, string_value=0x103C, additional_value=0x1040)
+  8: 0x0285 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0290
+  9: 0x028D [0x01] GOTO 0x02DD
+ 10: 0x0290 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[60], string_index=1*)
+ 11: 0x0296 [0x03] Work_Zone[64] = Work_Zone[4]
+ 12: 0x029B [0xC3] COPY_STRING_TO_ARRAY(array_index=0x800E, string_value=0x103C, additional_value=0x1040)
+ 13: 0x02A2 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x02C5
+ 14: 0x02AA [0x1A] CALL_SUBROUTINE(address=0x086D)
+ 15: 0x02AD [0x03] Work_Zone[3] = 1*
+ 16: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9033*)
+    → "Let me see... $1 has already been registered."
+ 17: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 18: 0x02B6 [0x03] Work_Zone[2] = 0*
+ 19: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
+    → "Do you wish to cancel $1's registration and sign up $0?"
+ 20: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 21: 0x02BF [0x1A] CALL_SUBROUTINE(address=0x086E)
+ 22: 0x02C2 [0x01] GOTO 0x02DD
+ 23: 0x02C5 [0x1A] CALL_SUBROUTINE(address=0x086D)
+ 24: 0x02C8 [0x03] Work_Zone[3] = 1*
+ 25: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9033*)
+    → "Let me see... $1 has already been registered."
+ 26: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x02D1 [0x1A] CALL_SUBROUTINE(address=0x086E)
+ 28: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
+    → "I'm sorry. You have already registered that chocobo. You may race it at any time."
+ 29: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 30: 0x02D8 [0x06] Work_Zone[1] = 0
+ 31: 0x02DB [0x21] END_EVENT
+ 32: 0x02DC [0x00] END_REQSTACK()
+
+SUBROUTINE_02DD:
+ 33: 0x02DD [0x03] Work_Zone[2] = 0*
+ 34: 0x02E2 [0x24] CREATE_DIALOG(message_id=9035*, default_option=1*, option_flags=0*)
+    → "Register $0? [Yes./No.]"
+ 35: 0x02E9 [0x25] WAIT_DIALOG_SELECT()
+ 36: 0x02EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FE
+ 37: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
+    → "Excellent! $0 has been successfully registered."
+ 38: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 39: 0x02F6 [0x03] Work_Zone[1] = 1*
+ 40: 0x02FB [0x01] GOTO 0x0305
+ 41: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9037*)
+    → "Very well."
+ 42: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 43: 0x0302 [0x06] Work_Zone[1] = 0
+
+SUBROUTINE_0305:
+ 44: 0x0305 [0x21] END_EVENT
+ 45: 0x0306 [0x00] END_REQSTACK()
+```
+
+### Event 425
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0307   |
+| Data Size    | 72 bytes |
+| Instructions | 21       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                      03  41 10 00 80 42 1E F0 FF         .A...B...
+0310: FF 7F 02 02 10 03 10 00  35 03 02 04 10 00 80 00  ........5.......
+0320: 29 03 1D 45 80 23 01 32  03 03 02 10 46 80 1D 47  )..E.#.2....F..G
+0330: 80 23 01 4D 03 02 04 10  00 80 00 44 03 1D 48 80  .#.M.......D..H.
+0340: 23 01 4D 03 03 02 10 46  80 1D 49 80 23 21 00     #.M....F..I.#!. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0307 [0x03] Work_Zone[65] = 0*
+  1: 0x030C [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x030D [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x0312 [0x02] IF !(Work_Zone[2] == Work_Zone[3]) GOTO 0x0335
+  4: 0x031A [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0329
+  5: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=9045*)
+    → "Ah, <Player>. We have been holding on to the prize from your last race until you had room enough in your gobbiebag to carry it back to your Mog House."
+  6: 0x0325 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0326 [0x01] GOTO 0x0332
+  8: 0x0329 [0x03] Work_Zone[2] = 308*
+  9: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
+    → "Hello there, <Player>. Why yes, we are holding your $0. Here you are."
+ 10: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0332:
+ 11: 0x0332 [0x01] GOTO 0x034D
+ 12: 0x0335 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0344
+ 13: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=9046*)
+    → "Might you be <Player>? Excellent. VCS headquarters was informed that you would be stopping by our branch, and sent this package containing the prize from your last race."
+ 14: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x0341 [0x01] GOTO 0x034D
+ 16: 0x0344 [0x03] Work_Zone[2] = 308*
+ 17: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
+    → "Good day to you, <Player>. Indeed, we are currently holding your $0 from the CRA for safekeeping. Here you are."
+ 18: 0x034C [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_034D:
+ 19: 0x034D [0x21] END_EVENT
+ 20: 0x034E [0x00] END_REQSTACK()
+```
+
+### Event 426
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x034F   |
+| Data Size    | 25 bytes |
+| Instructions | 11       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0340:                                               03                 .
+0350: 41 10 00 80 42 1E F0 FF  FF 7F 1D 4A 80 23 1D 4B  A...B......J.#.K
+0360: 80 23 1D 4C 80 23 21 00                           .#.L.#!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x034F [0x03] Work_Zone[65] = 0*
+  1: 0x0354 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0355 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=9047*)
+    → "<Player>, thank you for waiting."
+  4: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
+    → "Much to the VCS and the CRA's delight, the recent efforts of chocobo breeders across Vana'diel has helped to generate an unprecedented amount of interest in our endeavor. More people than ever have begun to express an interest in raising their own chocobo."
+  6: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
+    → "As a means of expressing our gratitude, we have therefore decided to confer upon the victors of CRA Classics rewards befitting a champion. We congratulate you on your impressive achievement, <Player>. You are a true inspiration for breeders everywhere!"
+  8: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0366 [0x21] END_EVENT
+ 10: 0x0367 [0x00] END_REQSTACK()
+```
+
+### Event 427
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0368    |
+| Data Size    | 666 bytes |
+| Instructions | 135       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0360:                          03 41 10 00 80 42 45 4D          .A...BEM
+0370: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 00 80 55  .........fdo1..U
+0380: 4D 80 F8 FF FF 7F F8 FF  FF 7F 66 64 6F 31 46 01  M.........fdo1F.
+0390: 38 4E 80 92 01 F8 FF FF  7F 80 F8 FF FF 7F 1A 54  8N.............T
+03A0: 1B 1C 4F 80 45 4D 80 F8  FF FF 7F F8 FF FF 7F 66  ..O.EM.........f
+03B0: 64 69 30 00 80 1C 50 80  1A 34 06 02 1B 00 00 80  di0...P..4......
+03C0: 00 C7 03 1D 51 80 23 06  17 00 02 17 00 00 80 00  ....Q.#.........
+03D0: 00 06 1A 34 06 02 1B 00  00 80 01 1A 04 03 01 10  ...4............
+03E0: 52 80 43 00 43 01 03 0D  00 02 10 03 0E 00 03 10  R.C.C...........
+03F0: 02 0E 00 0E 80 00 FE 03  1A 9F 0D 01 17 04 02 0E  ................
+0400: 00 00 80 00 0C 04 1A 8B  11 01 17 04 02 0E 00 14  ................
+0410: 80 00 17 04 01 1A 04 01  FD 05 03 02 10 09 00 02  ................
+0420: 0A 00 53 80 03 32 04 9D  00 E1 24 15 00 0A 00 01  ..S..2....$.....
+0430: 37 04 03 15 00 54 80 03  03 10 15 00 03 0D 00 02  7....T..........
+0440: 00 0C 0D 00 9D 00 71 23  16 00 0D 00 03 04 10 16  ......q#........
+0450: 00 03 05 10 01 00 24 55  80 00 80 18 00 25 02 00  ......$U.....%..
+0460: 10 00 80 00 F4 04 02 09  00 00 80 00 89 04 03 02  ................
+0470: 10 02 80 03 03 10 0F 80  1A 6D 08 1D 56 80 23 1D  .........m..V.#.
+0480: 57 80 23 1A 6E 08 01 F1  04 03 20 00 00 80 03 1C  W.#.n..... .....
+0490: 00 00 80 03 1E 00 00 80  1A 26 09 45 4D 80 F8 FF  .........&.EM...
+04A0: FF 7F F8 FF FF 7F 66 64  6F 31 00 80 55 4D 80 F8  ......fdo1..UM..
+04B0: FF FF 7F F8 FF FF 7F 66  64 6F 31 7A 00 27 60 04  .......fdo1z.'`.
+04C0: 01 4E 01 27 60 04 01 2F  01 27 60 04 01 7A 00 28  .N.'`../.'`..z.(
+04D0: 60 04 01 27 05 28 60 04  01 08 1A 49 1B 1C 4F 80  `..'.(`....I..O.
+04E0: 45 4D 80 F8 FF FF 7F F8  FF FF 7F 66 64 69 32 00  EM.........fdi2.
+04F0: 80 01 FD 05 02 00 10 0E  80 00 02 05 1A EB 0A 01  ................
+0500: FD 05 02 00 10 14 80 00  4C 05 02 09 00 00 80 00  ........L.......
+0510: 1F 05 1A 6D 08 1D 58 80  23 1A 6E 08 01 49 05 03  ...m..X.#.n..I..
+0520: 01 10 59 80 40 5A 80 5B  80 01 10 15 00 43 00 43  ..Y.@Z.[.....C.C
+0530: 01 02 02 10 00 80 00 3F  05 1A 9F 0D 01 49 05 1A  .......?.....I..
+0540: 6D 08 1D 5C 80 23 1A 6E  08 01 FD 05 02 00 10 19  m..\.#.n........
+0550: 80 00 91 05 02 09 00 00  80 00 69 05 1A 6D 08 1D  ..........i..m..
+0560: 58 80 23 1A 6E 08 01 8E  05 02 16 00 01 00 05 84  X.#.n...........
+0570: 05 02 08 00 5A 80 03 81  05 03 19 00 02 00 1A 8B  ....Z...........
+0580: 11 01 8E 05 1A 6D 08 1D  5D 80 23 1A 6E 08 01 FD  .....m..].#.n...
+0590: 05 02 00 10 1D 80 00 B4  05 02 09 00 00 80 00 AE  ................
+05A0: 05 1A 6D 08 1D 58 80 23  1A 6E 08 01 B1 05 1A 6F  ..m..X.#.n.....o
+05B0: 08 01 FD 05 02 00 10 25  80 00 C2 05 1A 22 07 01  .......%....."..
+05C0: FD 05 45 4D 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  ..EM.........fdo
+05D0: 31 00 80 55 4D 80 F8 FF  FF 7F F8 FF FF 7F 66 64  1..UM.........fd
+05E0: 6F 31 1A 6A 1D 46 00 1C  50 80 45 4D 80 F8 FF FF  o1.j.F..P.EM....
+05F0: 7F F8 FF FF 7F 66 64 69  32 00 80 21 00 01 CA 03  .....fdi2..!....
+0600: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0368 [0x03] Work_Zone[65] = 0*
+  1: 0x036D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x036E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+  3: 0x037F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+  4: 0x038E [0x46] CAMERA_CONTROL: Disable user control
+  5: 0x0390 [0x38] SET_CLIENT_EVENT_MODE(mode=27*)
+  6: 0x0393 [0x92] EventEntity->Render.Flags3 ^= 0x01
+  7: 0x0399 [0x80] LOAD_WAIT(entity=EventEntity)
+  8: 0x039E [0x1A] CALL_SUBROUTINE(address=0x1B54)
+  9: 0x03A1 [0x1C] WAIT(15* ticks)
+ 10: 0x03A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 11: 0x03B5 [0x1C] WAIT(60* ticks)
+ 12: 0x03B8 [0x1A] CALL_SUBROUTINE(address=0x0634)
+ 13: 0x03BB [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x03C7
+ 14: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8964*)
+    → "Hello! What might I interest you in today?"
+ 15: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x03C7 [0x06] ExtData[1]->WorkLocal[23] = 0
+ 17: 0x03CA [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x0600
+ 18: 0x03D2 [0x1A] CALL_SUBROUTINE(address=0x0634)
+ 19: 0x03D5 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x041A
+ 20: 0x03DD [0x03] Work_Zone[1] = 14*
+ 21: 0x03E2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 22: 0x03E4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 23: 0x03E6 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
+ 24: 0x03EB [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[3]
+ 25: 0x03F0 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x03FE
+ 26: 0x03F8 [0x1A] CALL_SUBROUTINE(address=0x0D9F)
+ 27: 0x03FB [0x01] GOTO 0x0417
+ 28: 0x03FE [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x040C
+ 29: 0x0406 [0x1A] CALL_SUBROUTINE(address=0x118B)
+ 30: 0x0409 [0x01] GOTO 0x0417
+ 31: 0x040C [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0417
+ 32: 0x0414 [0x01] GOTO 0x041A
+
+SUBROUTINE_0417:
+ 33: 0x0417 [0x01] GOTO 0x05FD
+
+SUBROUTINE_041A:
+ 34: 0x041A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
+ 35: 0x041F [0x02] IF !(ExtData[1]->WorkLocal[10] >= 64*) GOTO 0x0432
+ 36: 0x0427 [0x9D] ExtData[1]->WorkLocal[21] = 0x24E1[ExtData[1]->WorkLocal[10]] // Read WORD
+ 37: 0x042F [0x01] GOTO 0x0437
+ 38: 0x0432 [0x03] ExtData[1]->WorkLocal[21] = 100000*
+
+SUBROUTINE_0437:
+ 39: 0x0437 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[21]
+ 40: 0x043C [0x03] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[2]
+ 41: 0x0441 [0x0C] ExtData[1]->WorkLocal[13]--
+ 42: 0x0444 [0x9D] ExtData[1]->WorkLocal[22] = 0x2371[ExtData[1]->WorkLocal[13]] // Read WORD
+ 43: 0x044C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[22]
+ 44: 0x0451 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
+ 45: 0x0456 [0x24] CREATE_DIALOG(message_id=8965*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
+    → "(You have $3 [chocobuck/chocobucks].) [Chocobo [registration/confirmation]./Item confirmation./Free run ($1 gil)./Official race ($2 [chocobuck/chocobucks])./Re-run./Rule confirmation./Nothing.]"
+ 46: 0x045D [0x25] WAIT_DIALOG_SELECT()
+ 47: 0x045E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04F4
+ 48: 0x0466 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0489
+ 49: 0x046E [0x03] Work_Zone[2] = 2313*
+ 50: 0x0473 [0x03] Work_Zone[3] = 2402*
+ 51: 0x0478 [0x1A] CALL_SUBROUTINE(address=0x086D)
+ 52: 0x047B [0x1D] PRINT_EVENT_MESSAGE(message_id=8968*)
+    → "To register your chocobo, you must first bring me either $0 or $1."
+ 53: 0x047E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 54: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=8969*)
+    → "You can only register one chocobo at a time, but you may always register a new one whenever you wish."
+ 55: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 56: 0x0483 [0x1A] CALL_SUBROUTINE(address=0x086E)
+ 57: 0x0486 [0x01] GOTO 0x04F1
+ 58: 0x0489 [0x03] ExtData[1]->WorkLocal[32] = 0*
+ 59: 0x048E [0x03] ExtData[1]->WorkLocal[28] = 0*
+ 60: 0x0493 [0x03] ExtData[1]->WorkLocal[30] = 0*
+ 61: 0x0498 [0x1A] CALL_SUBROUTINE(address=0x0926)
+ 62: 0x049B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 63: 0x04AC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 64: 0x04BB [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17063975/0x01046027)
+ 65: 0x04C1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17063975/0x01046027)
+ 66: 0x04C7 [0x2F] Unnamed NPC (ID: 17063975/0x01046027)->Render.Flags0 |= 0x80000 // Bit 19
+ 67: 0x04CD [0x7A] VM_CONTROL: Reset VM for cameraA (ID: 17063976/0x01046028)
+ 68: 0x04D3 [0x27] REQ_SET(priority=0x05, entity_id=cameraA (ID: 17063976/0x01046028), tag_num=0x08)
+ 69: 0x04DA [0x1A] CALL_SUBROUTINE(address=0x1B49)
+ 70: 0x04DD [0x1C] WAIT(15* ticks)
+ 71: 0x04E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+
+SUBROUTINE_04F1:
+ 72: 0x04F1 [0x01] GOTO 0x05FD
+ 73: 0x04F4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0502
+ 74: 0x04FC [0x1A] CALL_SUBROUTINE(address=0x0AEB)
+ 75: 0x04FF [0x01] GOTO 0x05FD
+ 76: 0x0502 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x054C
+ 77: 0x050A [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x051F
+ 78: 0x0512 [0x1A] CALL_SUBROUTINE(address=0x086D)
+ 79: 0x0515 [0x1D] PRINT_EVENT_MESSAGE(message_id=8967*)
+    → "You cannot access this menu until you have registered a chocobo to race."
+ 80: 0x0518 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 81: 0x0519 [0x1A] CALL_SUBROUTINE(address=0x086E)
+ 82: 0x051C [0x01] GOTO 0x0549
+ 83: 0x051F [0x03] Work_Zone[1] = 16*
+ 84: 0x0524 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[21])
+ 85: 0x052D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 86: 0x052F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 87: 0x0531 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x053F
+ 88: 0x0539 [0x1A] CALL_SUBROUTINE(address=0x0D9F)
+ 89: 0x053C [0x01] GOTO 0x0549
+ 90: 0x053F [0x1A] CALL_SUBROUTINE(address=0x086D)
+ 91: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
+    → "I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race."
+ 92: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 93: 0x0546 [0x1A] CALL_SUBROUTINE(address=0x086E)
+
+SUBROUTINE_0549:
+ 94: 0x0549 [0x01] GOTO 0x05FD
+ 95: 0x054C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0591
+ 96: 0x0554 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0569
+ 97: 0x055C [0x1A] CALL_SUBROUTINE(address=0x086D)
+ 98: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=8967*)
+    → "You cannot access this menu until you have registered a chocobo to race."
+ 99: 0x0562 [0x23] WAIT_FOR_DIALOG_INTERACTION
+100: 0x0563 [0x1A] CALL_SUBROUTINE(address=0x086E)
+101: 0x0566 [0x01] GOTO 0x058E
+102: 0x0569 [0x02] IF !(ExtData[1]->WorkLocal[22] > ExtData[1]->WorkLocal[1]) GOTO 0x0584
+103: 0x0571 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 8*) GOTO 0x0581
+104: 0x0579 [0x03] ExtData[1]->WorkLocal[25] = ExtData[1]->WorkLocal[2]
+105: 0x057E [0x1A] CALL_SUBROUTINE(address=0x118B)
+106: 0x0581 [0x01] GOTO 0x058E
+107: 0x0584 [0x1A] CALL_SUBROUTINE(address=0x086D)
+108: 0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+    → "I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race."
+109: 0x058A [0x23] WAIT_FOR_DIALOG_INTERACTION
+110: 0x058B [0x1A] CALL_SUBROUTINE(address=0x086E)
+
+SUBROUTINE_058E:
+111: 0x058E [0x01] GOTO 0x05FD
+112: 0x0591 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x05B4
+113: 0x0599 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x05AE
+114: 0x05A1 [0x1A] CALL_SUBROUTINE(address=0x086D)
+115: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8967*)
+    → "You cannot access this menu until you have registered a chocobo to race."
+116: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+117: 0x05A8 [0x1A] CALL_SUBROUTINE(address=0x086E)
+118: 0x05AB [0x01] GOTO 0x05B1
+119: 0x05AE [0x1A] CALL_SUBROUTINE(address=0x086F)
+
+SUBROUTINE_05B1:
+120: 0x05B1 [0x01] GOTO 0x05FD
+121: 0x05B4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x05C2
+122: 0x05BC [0x1A] CALL_SUBROUTINE(address=0x0722)
+123: 0x05BF [0x01] GOTO 0x05FD
+124: 0x05C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+125: 0x05D3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+126: 0x05E2 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+127: 0x05E5 [0x46] CAMERA_CONTROL: Restore default settings
+128: 0x05E7 [0x1C] WAIT(60* ticks)
+129: 0x05EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+130: 0x05FB [0x21] END_EVENT
+131: 0x05FC [0x00] END_REQSTACK()
+
+SUBROUTINE_05FD:
+132: 0x05FD [0x01] GOTO 0x03CA
+133: 0x0600 [0x21] END_EVENT
+134: 0x0601 [0x00] END_REQSTACK()
+```
+
+### Event 428
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0602   |
+| Data Size    | 23 bytes |
+| Instructions | 9        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0600:       03 41 10 00 80 1E  F0 FF FF 7F 1C 38 80 1D    .A.........8..
+0610: 01 80 23 1D 5E 80 23 21  00                       ..#.^.#!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0602 [0x03] Work_Zone[65] = 0*
+  1: 0x0607 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x060C [0x1C] WAIT(30* ticks)
+  3: 0x060F [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+    → "Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers."
+  4: 0x0612 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0613 [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
+    → "I am sorry, but there are no races scheduled at the moment."
+  6: 0x0616 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0617 [0x21] END_EVENT
+  8: 0x0618 [0x00] END_REQSTACK()
+```
+
+### Event 429
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0619  |
+| Data Size    | 5 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0610:                             03 41 10 00 80                 .A...  
+```
+
+#### Opcodes
+
+```
+  0: 0x0619 [0x03] Work_Zone[65] = 0*
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x061E  |
+| Data Size    | 5 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0610:                                            43 00                C.
+0620: 43 01 00                                          C..             
+```
+
+#### Opcodes
+
+```
+  0: 0x061E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  1: 0x0620 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  2: 0x0622 [0x00] END_REQSTACK()
+```
+
+### Event 450
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0623  |
+| Data Size    | 5 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0620:          03 41 10 00 80                              .A...        
+```
+
+#### Opcodes
+
+```
+  0: 0x0623 [0x03] Work_Zone[65] = 0*
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0628     |
+| Data Size    | 8330 bytes |
+| Instructions | 3          |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0620:                          33 01 37 5F 80 60 80 61          3.7_.`.a
+0630: 80 62 80 00 03 01 10 63  80 43 00 43 01 06 01 00  .b.....c.C.C....
+0640: 06 00 00 06 02 00 06 08  00 06 03 00 06 0A 00 06  ................
+0650: 04 00 06 05 00 06 06 00  06 07 00 06 09 00 06 32  ...............2
+0660: 10 06 1A 00 06 1B 00 41  00 80 4F 80 02 10 01 00  .......A..O.....
+0670: 41 59 80 64 80 02 10 00  00 41 65 80 66 80 02 10  AY.d.....Ae.f...
+0680: 08 00 41 67 80 67 80 02  10 03 00 41 68 80 68 80  ..Ag.g.....Ah.h.
+0690: 02 10 09 00 41 69 80 69  80 02 10 1A 00 41 38 80  ....Ai.i.....A8.
+06A0: 38 80 02 10 1B 00 03 04  00 03 10 03 0A 00 07 10  8...............
+06B0: 41 00 80 19 80 04 10 05  00 41 1D 80 6A 80 04 10  A........A..j...
+06C0: 06 00 03 07 00 06 00 9D  00 71 25 07 00 07 00 41  .........q%....A
+06D0: 6B 80 6B 80 04 10 32 10  06 18 00 03 02 00 08 00  k.k...2.........
+06E0: 07 02 00 0E 80 02 03 00  00 80 01 F4 06 3C 18 00  .............<..
+06F0: 19 80 0E 80 02 08 00 19  80 03 03 07 3C 18 00 14  ............<...
+0700: 80 0E 80 02 08 00 0E 80  03 12 07 3C 18 00 1D 80  ...........<....
+0710: 0E 80 02 08 00 5A 80 04  21 07 3C 18 00 19 80 0E  .....Z..!.<.....
+0720: 80 1B 06 17 00 02 17 00  00 80 00 6C 08 24 07 80  ...........l.$..
+0730: 00 80 00 80 25 02 00 10  00 80 00 5E 07 1A 6D 08  ....%......^..m.
+0740: 1D 08 80 23 1D 09 80 23  1D 0A 80 23 1D 0B 80 23  ...#...#...#...#
+0750: 1D 0C 80 23 1D 0D 80 23  1A 6E 08 01 69 08 02 00  ...#...#.n..i...
+0760: 10 0E 80 00 89 07 1A 6D  08 03 02 10 02 80 03 03  .......m........
+0770: 10 0F 80 1D 10 80 23 1D  11 80 23 1D 12 80 23 1D  ......#...#...#.
+0780: 13 80 23 1A 6E 08 01 69  08 02 00 10 14 80 00 AA  ..#.n..i........
+0790: 07 1A 6D 08 1D 15 80 23  1D 16 80 23 1D 17 80 23  ..m....#...#...#
+07A0: 1D 18 80 23 1A 6E 08 01  69 08 02 00 10 19 80 00  ...#.n..i.......
+07B0: C7 07 1A 6D 08 1D 1A 80  23 1D 1B 80 23 1D 1C 80  ...m....#...#...
+07C0: 23 1A 6E 08 01 69 08 02  00 10 1D 80 00 F4 07 1A  #.n..i..........
+07D0: 6D 08 1D 1E 80 23 1D 1F  80 23 1D 20 80 23 1D 21  m....#...#. .#.!
+07E0: 80 23 1D 22 80 23 1D 23  80 23 1D 24 80 23 1A 6E  .#.".#.#.#.$.#.n
+07F0: 08 01 69 08 02 00 10 25  80 00 22 08 1A 6D 08 1D  ..i....%.."..m..
+0800: 26 80 23 1D 27 80 23 1D  28 80 23 1D 29 80 23 1D  &.#.'.#.(.#.).#.
+0810: 2A 80 23 03 02 10 00 80  1D 2B 80 23 1A 6E 08 01  *.#......+.#.n..
+0820: 69 08 02 00 10 2C 80 00  68 08 45 4D 80 F8 FF FF  i....,..h.EM....
+0830: 7F F8 FF FF 7F 66 64 6F  31 00 80 55 4D 80 F8 FF  .....fdo1..UM...
+0840: FF 7F F8 FF FF 7F 66 64  6F 31 1A 6A 1D 46 00 1C  ......fdo1.j.F..
+0850: 50 80 45 4D 80 F8 FF FF  7F F8 FF FF 7F 66 64 69  P.EM.........fdi
+0860: 32 00 80 21 1B 01 69 08  1B 01 25 07 1B 1B 1B 1A  2..!..i...%.....
+0870: 6D 08 1D 6C 80 23 1D 6D  80 23 1A 6E 08 02 0E 80  m..l.#.m.#.n....
+0880: 0E 80 00 25 09 06 00 17  03 01 17 6E 80 02 00 17  ...%.......n....
+0890: 08 00 03 A2 08 3D 01 17  00 17 0E 80 0B 00 17 01  .....=..........
+08A0: 8D 08 3D 01 17 5A 80 0E  80 3D 01 17 6A 80 0E 80  ..=..Z...=..j...
+08B0: 24 6F 80 00 80 01 17 25  02 00 10 5A 80 00 FE 08  $o.....%...Z....
+08C0: 45 4D 80 F8 FF FF 7F F8  FF FF 7F 66 64 6F 31 00  EM.........fdo1.
+08D0: 80 55 4D 80 F8 FF FF 7F  F8 FF FF 7F 66 64 6F 31  .UM.........fdo1
+08E0: 1A 6A 1D 46 00 1C 50 80  45 4D 80 F8 FF FF 7F F8  .j.F..P.EM......
+08F0: FF FF 7F 66 64 69 32 00  80 21 1B 01 0A 09 02 00  ...fdi2..!......
+0900: 10 6A 80 00 0A 09 1B 01  0A 09 03 19 00 00 10 07  .j..............
+0910: 19 00 0E 80 1A 76 16 02  02 10 00 80 00 22 09 1A  .....v......."..
+0920: 8B 11 01 7D 08 1B 6A 00  80 38 80 4F 80 45 4D 80  ...}..j..8.O.EM.
+0930: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 00 80 55 4D  ........fdo1..UM
+0940: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 1A 6A 1D  .........fdo1.j.
+0950: 4E 01 F0 FF FF 7F 4E 01  05 60 04 01 4E 01 07 60  N.....N..`..N..`
+0960: 04 01 4E 01 09 60 04 01  2F 00 2A 60 04 01 4E 00  ..N..`../.*`..N.
+0970: 2A 60 04 01 02 20 00 00  80 00 89 09 03 20 00 0E  *`... ....... ..
+0980: 80 34 70 80 77 71 80 00  80 03 01 10 2C 80 43 00  .4p.wq......,.C.
+0990: 43 01 03 0D 00 02 10 03  0E 00 03 10 41 72 80 38  C...........Ar.8
+09A0: 80 0E 00 02 10 41 68 80  4E 80 0E 00 03 10 3E 0D  .....Ah.N.....>.
+09B0: 00 59 80 BD 09 03 04 10  0E 80 01 C0 09 06 04 10  .Y..............
+09C0: 3E 0D 00 00 80 CF 09 03  05 10 0E 80 01 D2 09 06  >...............
+09D0: 05 10 3E 0D 00 5A 80 E1  09 03 06 10 0E 80 01 E4  ..>..Z..........
+09E0: 09 06 06 10 27 05 2A 60  04 01 05 2A 05 2A 60 04  ....'.*`...*.*`.
+09F0: 01 03 03 10 00 00 41 67  80 67 80 0E 00 04 10 41  ......Ag.g.....A
+0A00: 73 80 65 80 0E 00 05 10  B4 01 3C 10 00 80 03 40  s.e.......<....@
+0A10: 10 04 10 C3 00 80 3C 10  40 10 03 39 10 00 80 7A  ......<.@..9...z
+0A20: 00 2A 60 04 01 03 38 10  05 10 03 39 10 0E 80 29  .*`...8....9...)
+0A30: 80 2A 60 04 01 07 80 2A  60 04 01 27 80 2A 60 04  .*`....*`..'.*`.
+0A40: 01 08 1C 4F 80 45 4D 80  F8 FF FF 7F F8 FF FF 7F  ...O.EM.........
+0A50: 66 64 69 32 00 80 1C 50  80 6A 74 80 4F 80 4F 80  fdi2...P.jt.O.O.
+0A60: 02 1E 00 00 80 00 75 0A  1A A1 26 48 75 80 23 1A  ......u...&Hu.#.
+0A70: AC 26 01 84 0A 03 05 10  0E 80 1A A1 26 48 76 80  .&..........&Hv.
+0A80: 23 1A AC 26 41 00 80 77  80 0D 00 02 10 15 02 10  #..&A..w........
+0A90: 78 80 41 5A 80 4F 80 0D  00 03 10 15 03 10 78 80  x.AZ.O........x.
+0AA0: 41 59 80 66 80 0D 00 04  10 15 04 10 78 80 41 67  AY.f........x.Ag
+0AB0: 80 5B 80 0D 00 05 10 15  05 10 78 80 48 79 80 23  .[........x.Hy.#
+0AC0: 41 7A 80 66 80 0E 00 02  10 41 6A 80 71 80 0E 00  Az.f.....Aj.q...
+0AD0: 03 10 41 7B 80 59 80 0E  00 04 10 48 7C 80 23 03  ..A{.Y.....H|.#.
+0AE0: 39 10 00 80 2A 80 2A 60  04 01 1B 1A 7F 0B 02 0E  9...*.*`........
+0AF0: 80 0E 80 00 7E 0B 24 7D  80 0E 80 0D 00 25 02 00  ....~.$}.....%..
+0B00: 10 00 80 00 09 0B 01 5B  0B 02 00 10 5B 80 00 4F  .......[....[..O
+0B10: 0B 45 4D 80 F8 FF FF 7F  F8 FF FF 7F 66 64 6F 31  .EM.........fdo1
+0B20: 00 80 55 4D 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  ..UM.........fdo
+0B30: 31 1A 6A 1D 46 00 1C 50  80 45 4D 80 F8 FF FF 7F  1.j.F..P.EM.....
+0B40: F8 FF FF 7F 66 64 69 32  00 80 21 1B 01 5B 0B 02  ....fdi2..!..[..
+0B50: 00 10 78 80 00 5B 0B 1B  01 5B 0B 03 0E 00 00 10  ..x..[...[......
+0B60: 9D 00 71 25 1E 17 0E 00  03 1D 17 0E 00 93 1E 17  ..q%............
+0B70: 03 02 10 1E 17 1A B4 0C  93 00 80 01 EE 0A 1B 9D  ................
+0B80: 00 71 25 02 10 00 80 9D  00 71 25 03 10 0E 80 9D  .q%......q%.....
+0B90: 00 71 25 04 10 14 80 9D  00 71 25 05 10 19 80 9D  .q%......q%.....
+0BA0: 00 71 25 06 10 1D 80 9D  00 71 25 07 10 25 80 9D  .q%......q%..%..
+0BB0: 00 71 25 08 10 2C 80 9D  00 71 25 09 10 77 80 9D  .q%..,...q%..w..
+0BC0: 00 71 25 00 17 5A 80 9D  00 71 25 01 17 6A 80 9D  .q%..Z...q%..j..
+0BD0: 00 71 25 02 17 6B 80 9D  00 71 25 03 17 7E 80 9D  .q%..k...q%..~..
+0BE0: 00 71 25 04 17 71 80 9D  00 71 25 05 17 7B 80 9D  .q%..q...q%..{..
+0BF0: 00 71 25 06 17 52 80 9D  00 71 25 07 17 4F 80 9D  .q%..R...q%..O..
+0C00: 00 71 25 08 17 59 80 9D  00 71 25 09 17 73 80 9D  .q%..Y...q%..s..
+0C10: 00 71 25 0A 17 64 80 9D  00 71 25 0B 17 65 80 9D  .q%..d...q%..e..
+0C20: 00 71 25 0C 17 7A 80 9D  00 71 25 0D 17 7F 80 9D  .q%..z...q%.....
+0C30: 00 71 25 0E 17 80 80 9D  00 71 25 0F 17 66 80 9D  .q%......q%..f..
+0C40: 00 71 25 10 17 67 80 9D  00 71 25 11 17 68 80 9D  .q%..g...q%..h..
+0C50: 00 71 25 12 17 81 80 9D  00 71 25 13 17 4E 80 9D  .q%......q%..N..
+0C60: 00 71 25 14 17 72 80 9D  00 71 25 15 17 69 80 9D  .q%..r...q%..i..
+0C70: 00 71 25 16 17 38 80 06  0D 00 03 0E 00 0E 80 02  .q%..8..........
+0C80: 0E 00 78 80 03 A5 0C 3E  04 00 0E 00 98 0C 3D 0D  ..x....>......=.
+0C90: 00 0E 00 0E 80 01 9F 0C  3C 0D 00 0E 00 0E 80 0B  ........<.......
+0CA0: 0E 00 01 7F 0C 3C 0D 00  00 80 0E 80 3D 0D 00 5B  .....<......=..[
+0CB0: 80 0E 80 1B 02 1D 17 0E  80 00 C6 0C 1A 6D 08 1D  .............m..
+0CC0: 82 80 23 1A 6E 08 02 1D  17 14 80 00 D8 0C 1A 6D  ..#.n..........m
+0CD0: 08 1D 83 80 23 1A 6E 08  02 1D 17 19 80 00 EA 0C  ....#.n.........
+0CE0: 1A 6D 08 1D 84 80 23 1A  6E 08 02 1D 17 1D 80 00  .m....#.n.......
+0CF0: FC 0C 1A 6D 08 1D 85 80  23 1A 6E 08 02 1D 17 25  ...m....#.n....%
+0D00: 80 00 0E 0D 1A 6D 08 1D  86 80 23 1A 6E 08 02 1D  .....m....#.n...
+0D10: 17 2C 80 00 20 0D 1A 6D  08 1D 87 80 23 1A 6E 08  .,.. ..m....#.n.
+0D20: 02 1D 17 77 80 00 32 0D  1A 6D 08 1D 88 80 23 1A  ...w..2..m....#.
+0D30: 6E 08 02 1D 17 5A 80 00  44 0D 1A 6D 08 1D 89 80  n....Z..D..m....
+0D40: 23 1A 6E 08 02 1D 17 6A  80 00 56 0D 1A 6D 08 1D  #.n....j..V..m..
+0D50: 8A 80 23 1A 6E 08 02 1D  17 4E 80 00 68 0D 1A 6D  ..#.n....N..h..m
+0D60: 08 1D 8B 80 23 1A 6E 08  02 1D 17 72 80 00 7A 0D  ....#.n....r..z.
+0D70: 1A 6D 08 1D 8C 80 23 1A  6E 08 02 1D 17 69 80 00  .m....#.n....i..
+0D80: 8C 0D 1A 6D 08 1D 8D 80  23 1A 6E 08 02 1D 17 38  ...m....#.n....8
+0D90: 80 00 9E 0D 1A 6D 08 1D  8E 80 23 1A 6E 08 1B 02  .....m....#.n...
+0DA0: 1B 00 00 80 01 AA 0D 01  26 0E 02 17 00 00 80 00  ........&.......
+0DB0: 8A 11 1A 34 06 02 06 00  00 80 01 AD 0F 03 02 10  ...4............
+0DC0: 05 00 03 03 10 07 00 24  8F 80 00 80 00 80 25 02  .......$......%.
+0DD0: 00 10 00 80 00 F4 0D 1D  90 80 23 48 91 80 23 48  ..........#H..#H
+0DE0: 92 80 23 1A 6D 08 48 93  80 23 1A 6E 08 48 91 80  ..#.m.H..#.n.H..
+0DF0: 23 01 AA 0F 02 00 10 0E  80 00 02 0E 1A 66 18 01  #............f..
+0E00: AA 0F 02 00 10 14 80 00  10 0E 1A C5 1D 01 AA 0F  ................
+0E10: 02 00 10 19 80 00 1E 0E  1A E0 1E 01 AA 0F 02 00  ................
+0E20: 10 1D 80 00 5D 0F 03 01  10 94 80 43 00 43 01 02  ....]......C.C..
+0E30: 09 10 00 80 00 57 0F 03  19 00 6E 80 03 37 10 0E  .....W....n..7..
+0E40: 80 1A D8 15 02 09 10 95  80 00 33 0F 03 25 10 06  ..........3..%..
+0E50: 10 03 0B 00 07 10 03 0C  00 08 10 02 32 10 00 80  ............2...
+0E60: 01 86 0E 03 02 10 06 10  BF 60 00 80 00 80 02 10  .........`......
+0E70: 48 96 80 23 03 02 10 07  10 48 96 80 23 03 02 10  H..#.....H..#...
+0E80: 08 10 48 96 80 23 24 97  80 00 80 00 80 25 02 00  ..H..#$......%..
+0E90: 10 00 80 00 BF 0E 03 1F  00 0E 80 45 4D 80 F8 FF  ...........EM...
+0EA0: FF 7F F8 FF FF 7F 66 64  6F 31 00 80 1C 50 80 41  ......fdo1...P.A
+0EB0: 00 80 19 80 25 10 02 10  48 98 80 23 01 D8 0E 02  ....%...H..#....
+0EC0: 00 10 0E 80 00 D8 0E 03  1F 00 00 80 1A B7 1F 1A  ................
+0ED0: 4D 1B 1C 50 80 01 D8 0E  45 4D 80 F8 FF FF 7F F8  M..P....EM......
+0EE0: FF FF 7F 66 64 69 31 00  80 1C 50 80 1A D7 21 45  ...fdi1...P...!E
+0EF0: 4D 80 F8 FF FF 7F F8 FF  FF 7F 66 64 6F 31 00 80  M.........fdo1..
+0F00: 55 4D 80 F8 FF FF 7F F8  FF FF 7F 66 64 6F 31 1A  UM.........fdo1.
+0F10: 6A 1D 46 00 AE 00 14 80  0E 80 1C 50 80 45 4D 80  j.F........P.EM.
+0F20: F8 FF FF 7F F8 FF FF 7F  66 64 69 32 00 80 21 00  ........fdi2..!.
+0F30: 01 54 0F 02 09 10 99 80  00 48 0F 1A 6D 08 1D 9A  .T.......H..m...
+0F40: 80 23 1A 6E 08 01 54 0F  02 09 10 9B 80 00 54 0F  .#.n..T.......T.
+0F50: 1D 9A 80 23 01 5A 0F 1A  8F 15 01 AA 0F 02 00 10  ...#.Z..........
+0F60: 25 80 00 A9 0F 45 4D 80  F8 FF FF 7F F8 FF FF 7F  %....EM.........
+0F70: 66 64 6F 31 00 80 55 4D  80 F8 FF FF 7F F8 FF FF  fdo1..UM........
+0F80: 7F 66 64 6F 31 1A 6A 1D  46 00 AE 00 14 80 0E 80  .fdo1.j.F.......
+0F90: 1C 50 80 45 4D 80 F8 FF  FF 7F F8 FF FF 7F 66 64  .P.EM.........fd
+0FA0: 69 32 00 80 21 1B 01 AA  0F 1B 01 87 11 03 02 10  i2..!...........
+0FB0: 05 00 24 9C 80 00 80 00  80 25 02 00 10 00 80 00  ..$......%......
+0FC0: DF 0F 1D 90 80 23 48 91  80 23 48 92 80 23 1A 6D  .....#H..#H..#.m
+0FD0: 08 48 93 80 23 1A 6E 08  48 91 80 23 01 87 11 02  .H..#.n.H..#....
+0FE0: 00 10 0E 80 00 ED 0F 1A  66 18 01 87 11 02 00 10  ........f.......
+0FF0: 14 80 00 FB 0F 1A C5 1D  01 87 11 02 00 10 19 80  ................
+1000: 00 09 10 1A E0 1E 01 87  11 02 00 10 1D 80 00 3A  ...............:
+1010: 11 03 01 10 94 80 43 00  43 01 02 09 10 00 80 00  ......C.C.......
+1020: 34 11 03 19 00 6E 80 03  37 10 0E 80 1A D8 15 02  4....n..7.......
+1030: 09 10 95 80 00 16 11 03  25 10 06 10 03 0B 00 07  ........%.......
+1040: 10 03 0C 00 08 10 02 32  10 00 80 01 69 10 03 02  .......2....i...
+1050: 10 06 10 48 96 80 23 03  02 10 07 10 48 96 80 23  ...H..#.....H..#
+1060: 03 02 10 08 10 48 96 80  23 24 97 80 00 80 00 80  .....H..#$......
+1070: 25 02 00 10 00 80 00 A2  10 03 1F 00 0E 80 45 4D  %.............EM
+1080: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 00 80 1C  .........fdo1...
+1090: 50 80 41 00 80 19 80 25  10 02 10 48 98 80 23 01  P.A....%...H..#.
+10A0: BB 10 02 00 10 0E 80 00  BB 10 03 1F 00 00 80 1A  ................
+10B0: B7 1F 1A 4D 1B 1C 50 80  01 BB 10 45 4D 80 F8 FF  ...M..P....EM...
+10C0: FF 7F F8 FF FF 7F 66 64  69 31 00 80 1C 50 80 1A  ......fdi1...P..
+10D0: D7 21 45 4D 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  .!EM.........fdo
+10E0: 31 00 80 55 4D 80 F8 FF  FF 7F F8 FF FF 7F 66 64  1..UM.........fd
+10F0: 6F 31 1A 6A 1D 46 00 AE  00 14 80 0E 80 1C 50 80  o1.j.F........P.
+1100: 45 4D 80 F8 FF FF 7F F8  FF FF 7F 66 64 69 32 00  EM.........fdi2.
+1110: 80 21 00 01 31 11 02 09  10 99 80 00 25 11 1D 9A  .!..1.......%...
+1120: 80 23 01 31 11 02 09 10  9B 80 00 31 11 1D 9A 80  .#.1.......1....
+1130: 23 01 37 11 1A 8F 15 01  87 11 02 00 10 25 80 00  #.7..........%..
+1140: 86 11 45 4D 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  ..EM.........fdo
+1150: 31 00 80 55 4D 80 F8 FF  FF 7F F8 FF FF 7F 66 64  1..UM.........fd
+1160: 6F 31 1A 6A 1D 46 00 AE  00 14 80 0E 80 1C 50 80  o1.j.F........P.
+1170: 45 4D 80 F8 FF FF 7F F8  FF FF 7F 66 64 69 32 00  EM.........fdi2.
+1180: 80 21 1B 01 87 11 1B 01  AA 0D 1B 02 1B 00 00 80  .!..............
+1190: 01 96 11 01 00 12 02 17  00 00 80 00 8E 15 1A 34  ...............4
+11A0: 06 02 06 00 00 80 01 9E  13 03 02 10 05 00 03 03  ................
+11B0: 10 07 00 24 8F 80 00 80  00 80 25 02 00 10 00 80  ...$......%.....
+11C0: 00 C9 11 1A 4C 16 01 9B  13 02 00 10 0E 80 00 DC  ....L...........
+11D0: 11 03 1C 00 00 80 1A 36  17 01 9B 13 02 00 10 14  .......6........
+11E0: 80 00 EA 11 1A C5 1D 01  9B 13 02 00 10 19 80 00  ................
+11F0: F8 11 1A E0 1E 01 9B 13  02 00 10 1D 80 00 54 13  ..............T.
+1200: 03 01 10 9D 80 40 59 80  5B 80 01 10 19 00 43 00  .....@Y.[.....C.
+1210: 43 01 02 09 10 00 80 00  4E 13 03 37 10 00 80 1A  C.......N..7....
+1220: D8 15 02 09 10 95 80 00  30 13 03 25 10 06 10 03  ........0..%....
+1230: 0B 00 07 10 03 0C 00 08  10 02 32 10 00 80 01 5C  ..........2....\
+1240: 12 03 02 10 06 10 48 96  80 23 03 02 10 07 10 48  ......H..#.....H
+1250: 96 80 23 03 02 10 08 10  48 96 80 23 02 19 00 08  ..#.....H..#....
+1260: 00 05 CD 12 24 97 80 00  80 00 80 25 02 00 10 00  ....$......%....
+1270: 80 00 9D 12 03 1F 00 0E  80 45 4D 80 F8 FF FF 7F  .........EM.....
+1280: F8 FF FF 7F 66 64 6F 31  00 80 1C 50 80 41 00 80  ....fdo1...P.A..
+1290: 19 80 25 10 02 10 48 98  80 23 01 B6 12 02 00 10  ..%...H..#......
+12A0: 0E 80 00 B6 12 03 1F 00  00 80 1A B7 1F 1A 4D 1B  ..............M.
+12B0: 1C 50 80 01 B6 12 45 4D  80 F8 FF FF 7F F8 FF FF  .P....EM........
+12C0: 7F 66 64 69 31 00 80 1C  50 80 01 EF 12 03 1F 00  .fdi1...P.......
+12D0: 00 80 1A B7 1F 1A 4D 1B  1C 50 80 45 4D 80 F8 FF  ......M..P.EM...
+12E0: FF 7F F8 FF FF 7F 66 64  69 31 00 80 1C 50 80 1A  ......fdi1...P..
+12F0: D7 21 45 4D 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  .!EM.........fdo
+1300: 31 00 80 55 4D 80 F8 FF  FF 7F F8 FF FF 7F 66 64  1..UM.........fd
+1310: 6F 31 1A 6A 1D 46 00 1C  50 80 45 4D 80 F8 FF FF  o1.j.F..P.EM....
+1320: 7F F8 FF FF 7F 66 64 69  32 00 80 21 00 01 4B 13  .....fdi2..!..K.
+1330: 02 09 10 99 80 00 3F 13  1D 9A 80 23 01 4B 13 02  ......?....#.K..
+1340: 09 10 9B 80 00 4B 13 1D  9A 80 23 01 51 13 1A 8F  .....K....#.Q...
+1350: 15 01 9B 13 02 00 10 25  80 00 9A 13 45 4D 80 F8  .......%....EM..
+1360: FF FF 7F F8 FF FF 7F 66  64 6F 31 00 80 55 4D 80  .......fdo1..UM.
+1370: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 1A 6A 1D 46  ........fdo1.j.F
+1380: 00 1C 50 80 45 4D 80 F8  FF FF 7F F8 FF FF 7F 66  ..P.EM.........f
+1390: 64 69 32 00 80 21 1B 01  9B 13 1B 01 8B 15 03 02  di2..!..........
+13A0: 10 05 00 24 9C 80 00 80  00 80 25 02 00 10 00 80  ...$......%.....
+13B0: 00 B9 13 1A 4C 16 01 8B  15 02 00 10 0E 80 00 CC  ....L...........
+13C0: 13 03 1C 00 00 80 1A 36  17 01 8B 15 02 00 10 14  .......6........
+13D0: 80 00 DA 13 1A C5 1D 01  8B 15 02 00 10 19 80 00  ................
+13E0: E8 13 1A E0 1E 01 8B 15  02 00 10 1D 80 00 44 15  ..............D.
+13F0: 03 01 10 9D 80 40 59 80  5B 80 01 10 19 00 43 00  .....@Y.[.....C.
+1400: 43 01 02 09 10 00 80 00  3E 15 03 37 10 00 80 1A  C.......>..7....
+1410: D8 15 02 09 10 95 80 00  20 15 03 25 10 06 10 03  ........ ..%....
+1420: 0B 00 07 10 03 0C 00 08  10 02 32 10 00 80 01 4C  ..........2....L
+1430: 14 03 02 10 06 10 48 96  80 23 03 02 10 07 10 48  ......H..#.....H
+1440: 96 80 23 03 02 10 08 10  48 96 80 23 02 19 00 08  ..#.....H..#....
+1450: 00 05 BD 14 24 97 80 00  80 00 80 25 02 00 10 00  ....$......%....
+1460: 80 00 8D 14 03 1F 00 0E  80 45 4D 80 F8 FF FF 7F  .........EM.....
+1470: F8 FF FF 7F 66 64 6F 31  00 80 1C 50 80 41 00 80  ....fdo1...P.A..
+1480: 19 80 25 10 02 10 48 98  80 23 01 A6 14 02 00 10  ..%...H..#......
+1490: 0E 80 00 A6 14 03 1F 00  00 80 1A B7 1F 1A 4D 1B  ..............M.
+14A0: 1C 50 80 01 A6 14 45 4D  80 F8 FF FF 7F F8 FF FF  .P....EM........
+14B0: 7F 66 64 69 31 00 80 1C  50 80 01 DF 14 03 1F 00  .fdi1...P.......
+14C0: 00 80 1A B7 1F 1A 4D 1B  1C 50 80 45 4D 80 F8 FF  ......M..P.EM...
+14D0: FF 7F F8 FF FF 7F 66 64  69 31 00 80 1C 50 80 1A  ......fdi1...P..
+14E0: D7 21 45 4D 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  .!EM.........fdo
+14F0: 31 00 80 55 4D 80 F8 FF  FF 7F F8 FF FF 7F 66 64  1..UM.........fd
+1500: 6F 31 1A 6A 1D 46 00 1C  50 80 45 4D 80 F8 FF FF  o1.j.F..P.EM....
+1510: 7F F8 FF FF 7F 66 64 69  32 00 80 21 00 01 3B 15  .....fdi2..!..;.
+1520: 02 09 10 99 80 00 2F 15  1D 9A 80 23 01 3B 15 02  ....../....#.;..
+1530: 09 10 9B 80 00 3B 15 1D  9A 80 23 01 41 15 1A 8F  .....;....#.A...
+1540: 15 01 8B 15 02 00 10 25  80 00 8A 15 45 4D 80 F8  .......%....EM..
+1550: FF FF 7F F8 FF FF 7F 66  64 6F 31 00 80 55 4D 80  .......fdo1..UM.
+1560: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 1A 6A 1D 46  ........fdo1.j.F
+1570: 00 1C 50 80 45 4D 80 F8  FF FF 7F F8 FF FF 7F 66  ..P.EM.........f
+1580: 64 69 32 00 80 21 1B 01  8B 15 1B 01 96 11 1B 02  di2..!..........
+1590: 09 10 6E 80 00 A1 15 1A  6D 08 1D 9A 80 23 1A 6E  ..n.....m....#.n
+15A0: 08 02 09 10 9E 80 00 B3  15 1A 6D 08 1D 5C 80 23  ..........m..\.#
+15B0: 1A 6E 08 02 09 10 9F 80  00 C5 15 1A 6D 08 1D 5D  .n..........m..]
+15C0: 80 23 1A 6E 08 02 09 10  A0 80 00 D7 15 1A 6D 08  .#.n..........m.
+15D0: 1D A1 80 23 1A 6E 08 1B  1D A2 80 06 17 00 03 09  ...#.n..........
+15E0: 10 99 80 02 17 00 38 80  05 1F 16 1C 50 80 03 01  ......8.....P...
+15F0: 10 25 80 43 00 43 01 02  09 10 99 80 00 02 16 0B  .%.C.C..........
+1600: 17 00 02 09 10 9B 80 00  0F 16 03 17 00 5B 80 02  .............[..
+1610: 09 10 95 80 00 1C 16 03  17 00 5B 80 01 E3 15 02  ..........[.....
+1620: 32 10 00 80 01 4B 16 03  02 10 06 10 48 96 80 23  2....K......H..#
+1630: 03 02 10 07 10 48 96 80  23 03 02 10 08 10 48 96  .....H..#.....H.
+1640: 80 23 03 02 10 09 10 48  96 80 23 1B 1D A3 80 23  .#.....H..#....#
+1650: 48 91 80 23 03 02 10 00  00 08 02 10 0E 80 1A B5  H..#............
+1660: 16 03 0D 00 19 00 0C 0D  00 9D 00 71 23 02 10 0D  ...........q#...
+1670: 00 48 91 80 23 1B 48 91  80 23 03 02 10 00 00 08  .H..#.H..#......
+1680: 02 10 0E 80 1A B5 16 03  0D 00 19 00 0C 0D 00 9D  ................
+1690: 00 B1 23 02 10 0D 00 48  A4 80 23 48 91 80 23 02  ..#....H..#H..#.
+16A0: 02 10 01 00 05 AD 16 06  02 10 01 B4 16 1D 5D 80  ..............].
+16B0: 23 05 02 10 1B 02 19 00  0E 80 00 C5 16 48 A5 80  #............H..
+16C0: 23 48 A6 80 23 02 19 00  14 80 00 D5 16 48 A7 80  #H..#........H..
+16D0: 23 48 A8 80 23 02 19 00  19 80 00 E5 16 48 A9 80  #H..#........H..
+16E0: 23 48 AA 80 23 02 19 00  1D 80 00 F5 16 48 AB 80  #H..#........H..
+16F0: 23 48 AC 80 23 02 19 00  25 80 00 05 17 48 AD 80  #H..#...%....H..
+1700: 23 48 AE 80 23 02 19 00  2C 80 00 15 17 48 AF 80  #H..#...,....H..
+1710: 23 48 B0 80 23 02 19 00  77 80 00 25 17 48 B1 80  #H..#...w..%.H..
+1720: 23 48 B2 80 23 02 19 00  5A 80 00 35 17 48 B3 80  #H..#...Z..5.H..
+1730: 23 48 B4 80 23 1B 03 20  00 00 80 03 1C 00 00 80  #H..#.. ........
+1740: 03 02 10 19 00 08 02 10  0E 80 9D 00 B1 25 02 10  .............%..
+1750: 02 10 03 18 00 6E 80 06  03 10 02 03 10 02 10 03  .....n..........
+1760: 6F 17 3D 18 00 03 10 0E  80 0B 03 10 01 5A 17 3D  o.=..........Z.=
+1770: 18 00 5A 80 0E 80 3D 18  00 6A 80 0E 80 06 17 00  ..Z...=..j......
+1780: 02 17 00 00 80 00 65 18  24 B5 80 00 80 18 00 25  ......e.$......%
+1790: 02 00 10 00 80 00 A3 17  03 1E 00 0E 80 1A 26 09  ..............&.
+17A0: 01 62 18 02 00 10 5A 80  00 F6 17 45 4D 80 F8 FF  .b....Z....EM...
+17B0: FF 7F F8 FF FF 7F 66 64  6F 31 00 80 55 4D 80 F8  ......fdo1..UM..
+17C0: FF FF 7F F8 FF FF 7F 66  64 6F 31 7A 00 28 60 04  .......fdo1z.(`.
+17D0: 01 27 05 28 60 04 01 08  1A 49 1B 46 00 1C 50 80  .'.(`....I.F..P.
+17E0: 45 4D 80 F8 FF FF 7F F8  FF FF 7F 66 64 69 32 00  EM.........fdi2.
+17F0: 80 21 1B 01 62 18 02 00  10 6A 80 00 5A 18 02 20  .!..b....j..Z.. 
+1800: 00 0E 80 00 56 18 45 4D  80 F8 FF FF 7F F8 FF FF  ....V.EM........
+1810: 7F 66 64 6F 31 00 80 55  4D 80 F8 FF FF 7F F8 FF  .fdo1..UM.......
+1820: FF 7F 66 64 6F 31 4E 01  2A 60 04 01 2F 01 2A 60  ..fdo1N.*`../.*`
+1830: 04 01 7A 00 28 60 04 01  27 05 28 60 04 01 08 1A  ..z.(`..'.(`....
+1840: 49 1B 1C 4F 80 45 4D 80  F8 FF FF 7F F8 FF FF 7F  I..O.EM.........
+1850: 66 64 69 32 00 80 1B 01  62 18 03 0D 00 00 10 1A  fdi2....b.......
+1860: 61 19 01 80 17 1B 03 1C  00 00 80 03 20 00 00 80  a........... ...
+1870: 06 17 00 02 17 00 00 80  00 58 19 24 B5 80 00 80  .........X.$....
+1880: 00 80 25 02 00 10 00 80  00 96 18 03 1E 00 0E 80  ..%.............
+1890: 1A 26 09 01 55 19 02 00  10 5A 80 00 E9 18 45 4D  .&..U....Z....EM
+18A0: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 00 80 55  .........fdo1..U
+18B0: 4D 80 F8 FF FF 7F F8 FF  FF 7F 66 64 6F 31 7A 00  M.........fdo1z.
+18C0: 28 60 04 01 27 05 28 60  04 01 08 1A 49 1B 46 00  (`..'.(`....I.F.
+18D0: 1C 50 80 45 4D 80 F8 FF  FF 7F F8 FF FF 7F 66 64  .P.EM.........fd
+18E0: 69 32 00 80 21 1B 01 55  19 02 00 10 6A 80 00 4D  i2..!..U....j..M
+18F0: 19 02 20 00 0E 80 00 49  19 45 4D 80 F8 FF FF 7F  .. ....I.EM.....
+1900: F8 FF FF 7F 66 64 6F 31  00 80 55 4D 80 F8 FF FF  ....fdo1..UM....
+1910: 7F F8 FF FF 7F 66 64 6F  31 4E 01 2A 60 04 01 2F  .....fdo1N.*`../
+1920: 01 2A 60 04 01 7A 00 28  60 04 01 27 05 28 60 04  .*`..z.(`..'.(`.
+1930: 01 08 1A 49 1B 1C 4F 80  45 4D 80 F8 FF FF 7F F8  ...I..O.EM......
+1940: FF FF 7F 66 64 69 32 00  80 1B 01 55 19 03 0D 00  ...fdi2....U....
+1950: 00 10 1A 59 19 01 73 18  1B 03 0E 00 77 80 01 66  ...Y..s.....w..f
+1960: 19 03 0E 00 5A 80 6A 00  80 38 80 4F 80 02 1C 00  ....Z.j..8.O....
+1970: 00 80 00 75 19 45 4D 80  F8 FF FF 7F F8 FF FF 7F  ...u.EM.........
+1980: 66 64 6F 31 00 80 55 4D  80 F8 FF FF 7F F8 FF FF  fdo1..UM........
+1990: 7F 66 64 6F 31 1A 6A 1D  4E 01 F0 FF FF 7F 2F 00  .fdo1.j.N...../.
+19A0: 2A 60 04 01 4E 00 2A 60  04 01 02 20 00 00 80 00  *`..N.*`... ....
+19B0: BF 19 03 20 00 0E 80 34  70 80 77 71 80 00 80 0C  ... ...4p.wq....
+19C0: 0D 00 03 14 00 0D 00 03  01 10 0E 00 40 59 80 66  ............@Y.f
+19D0: 80 01 10 0D 00 03 0D 00  19 00 0C 0D 00 40 67 80  .............@g.
+19E0: 5B 80 01 10 0D 00 43 00  43 01 03 0D 00 02 10 03  [.....C.C.......
+19F0: 0E 00 03 10 03 0F 00 04  10 03 10 00 05 10 03 11  ................
+1A00: 00 06 10 41 72 80 38 80  0E 00 02 10 41 68 80 4E  ...Ar.8.....Ah.N
+1A10: 80 0E 00 03 10 3E 0D 00  59 80 24 1A 03 04 10 0E  .....>..Y.$.....
+1A20: 80 01 27 1A 06 04 10 3E  0D 00 00 80 36 1A 03 05  ..'....>....6...
+1A30: 10 0E 80 01 39 1A 06 05  10 3E 0D 00 5A 80 48 1A  ....9....>..Z.H.
+1A40: 03 06 10 0E 80 01 4B 1A  06 06 10 27 05 2A 60 04  ......K....'.*`.
+1A50: 01 05 2A 05 2A 60 04 01  03 02 10 11 00 41 67 80  ..*.*`.......Ag.
+1A60: 67 80 0E 00 04 10 41 73  80 65 80 0E 00 05 10 03  g.....As.e......
+1A70: 06 10 0F 00 B4 01 3C 10  0E 80 03 40 10 04 10 C3  ......<....@....
+1A80: 0E 80 3C 10 40 10 03 39  10 00 80 7A 00 2A 60 04  ..<.@..9...z.*`.
+1A90: 01 03 38 10 05 10 03 39  10 0E 80 29 80 2A 60 04  ..8....9...).*`.
+1AA0: 01 07 80 2A 60 04 01 27  80 2A 60 04 01 08 1C 4F  ...*`..'.*`....O
+1AB0: 80 45 4D 80 F8 FF FF 7F  F8 FF FF 7F 66 64 69 32  .EM.........fdi2
+1AC0: 00 80 1C 50 80 6A 74 80  4F 80 4F 80 03 05 10 14  ...P.jt.O.O.....
+1AD0: 00 07 05 10 14 80 03 03  10 0E 80 48 B6 80 23 41  ...........H..#A
+1AE0: 00 80 77 80 0D 00 02 10  15 02 10 78 80 41 5A 80  ..w........x.AZ.
+1AF0: 4F 80 0D 00 03 10 15 03  10 78 80 41 59 80 66 80  O........x.AY.f.
+1B00: 0D 00 04 10 15 04 10 78  80 41 67 80 5B 80 0D 00  .......x.Ag.[...
+1B10: 05 10 15 05 10 78 80 48  79 80 23 41 7A 80 66 80  .....x.Hy.#Az.f.
+1B20: 0E 00 02 10 41 6A 80 71  80 0E 00 03 10 41 7B 80  ....Aj.q.....A{.
+1B30: 59 80 0E 00 04 10 48 7C  80 23 03 39 10 00 80 2A  Y.....H|.#.9...*
+1B40: 80 2A 60 04 01 06 17 00  1B 1A 4D 1B 1B 35 B7 80  .*`.......M..5..
+1B50: 78 1C 0E 80 02 00 80 00  80 00 A5 1B 4E 00 05 60  x...........N..`
+1B60: 04 01 80 05 60 04 01 4E  00 F0 FF FF 7F BA F0 FF  ....`..N........
+1B70: FF 7F B8 80 B9 80 BA 80  BB 80 80 F0 FF FF 7F 4A  ...............J
+1B80: F0 FF FF 7F 05 60 04 01  4A 05 60 04 01 F0 FF FF  .....`..J.`.....
+1B90: 7F 45 BC 80 F0 FF FF 7F  F0 FF FF 7F 73 30 36 34  .E..........s064
+1BA0: 00 80 01 47 1C 02 00 80  0E 80 00 F6 1B 4E 00 07  ...G.........N..
+1BB0: 60 04 01 80 07 60 04 01  4E 00 F0 FF FF 7F BA F0  `....`..N.......
+1BC0: FF FF 7F BD 80 BE 80 BA  80 BF 80 80 F0 FF FF 7F  ................
+1BD0: 4A F0 FF FF 7F 07 60 04  01 4A 07 60 04 01 F0 FF  J.....`..J.`....
+1BE0: FF 7F 45 BC 80 F0 FF FF  7F F0 FF FF 7F 73 30 36  ..E..........s06
+1BF0: 35 00 80 01 47 1C 02 00  80 14 80 00 47 1C 4E 00  5...G.......G.N.
+1C00: 09 60 04 01 80 09 60 04  01 4E 00 F0 FF FF 7F BA  .`....`..N......
+1C10: F0 FF FF 7F C0 80 C1 80  C2 80 C3 80 80 F0 FF FF  ................
+1C20: 7F 4A F0 FF FF 7F 09 60  04 01 4A 09 60 04 01 F0  .J.....`..J.`...
+1C30: FF FF 7F 45 BC 80 F0 FF  FF 7F F0 FF FF 7F 73 30  ...E..........s0
+1C40: 36 36 00 80 01 47 1C 1B  35 B7 80 78 1C 0E 80 02  66...G..5..x....
+1C50: 00 80 00 80 00 AD 1C BA  06 60 04 01 C4 80 C5 80  .........`......
+1C60: 00 80 00 80 4E 00 06 60  04 01 80 06 60 04 01 4E  ....N..`....`..N
+1C70: 00 F0 FF FF 7F BA F0 FF  FF 7F C6 80 C7 80 C8 80  ................
+1C80: C9 80 80 F0 FF FF 7F 4A  F0 FF FF 7F 06 60 04 01  .......J.....`..
+1C90: 4A 06 60 04 01 F0 FF FF  7F 45 BC 80 F0 FF FF 7F  J.`......E......
+1CA0: F0 FF FF 7F 73 30 36 37  00 80 01 69 1D 02 00 80  ....s067...i....
+1CB0: 0E 80 00 0B 1D BA 08 60  04 01 CA 80 CB 80 00 80  .......`........
+1CC0: CC 80 4E 00 08 60 04 01  80 08 60 04 01 4E 00 F0  ..N..`....`..N..
+1CD0: FF FF 7F BA F0 FF FF 7F  CD 80 CE 80 CF 80 D0 80  ................
+1CE0: 80 F0 FF FF 7F 4A F0 FF  FF 7F 08 60 04 01 4A 08  .....J.....`..J.
+1CF0: 60 04 01 F0 FF FF 7F 45  BC 80 F0 FF FF 7F F0 FF  `......E........
+1D00: FF 7F 73 30 36 38 00 80  01 69 1D 02 00 80 14 80  ..s068...i......
+1D10: 00 69 1D BA 0A 60 04 01  D1 80 D2 80 D3 80 D4 80  .i...`..........
+1D20: 4E 00 0A 60 04 01 80 0A  60 04 01 4E 00 F0 FF FF  N..`....`..N....
+1D30: 7F BA F0 FF FF 7F D5 80  D6 80 D7 80 D8 80 80 F0  ................
+1D40: FF FF 7F 4A F0 FF FF 7F  0A 60 04 01 4A 0A 60 04  ...J.....`..J.`.
+1D50: 01 F0 FF FF 7F 45 BC 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
+1D60: 73 30 36 39 00 80 01 69  1D 1B 52 BC 80 F0 FF FF  s069...i..R.....
+1D70: 7F F0 FF FF 7F 73 30 36  34 52 BC 80 F0 FF FF 7F  .....s064R......
+1D80: F0 FF FF 7F 73 30 36 35  52 BC 80 F0 FF FF 7F F0  ....s065R.......
+1D90: FF FF 7F 73 30 36 36 52  BC 80 F0 FF FF 7F F0 FF  ...s066R........
+1DA0: FF 7F 73 30 36 37 52 BC  80 F0 FF FF 7F F0 FF FF  ..s067R.........
+1DB0: 7F 73 30 36 38 52 BC 80  F0 FF FF 7F F0 FF FF 7F  .s068R..........
+1DC0: 73 30 36 39 1B 02 17 00  00 80 00 DF 1E 24 D9 80  s069.........$..
+1DD0: 00 80 00 80 25 02 00 10  00 80 00 15 1E 1A 6D 08  ....%.........m.
+1DE0: 1D DA 80 23 1A 6E 08 24  DB 80 0E 80 00 80 25 02  ...#.n.$......%.
+1DF0: 00 10 00 80 00 12 1E 03  05 00 00 80 03 01 10 1D  ................
+1E00: 80 40 59 80 5B 80 01 10  05 00 43 00 43 01 1B 01  .@Y.[.....C.C...
+1E10: 12 1E 01 DC 1E 02 00 10  0E 80 00 55 1E 1A 6D 08  ...........U..m.
+1E20: 1D DC 80 23 1A 6E 08 24  DB 80 0E 80 00 80 25 02  ...#.n.$......%.
+1E30: 00 10 00 80 00 52 1E 03  05 00 0E 80 03 01 10 1D  .....R..........
+1E40: 80 40 59 80 5B 80 01 10  05 00 43 00 43 01 1B 01  .@Y.[.....C.C...
+1E50: 52 1E 01 DC 1E 02 00 10  14 80 00 95 1E 1A 6D 08  R.............m.
+1E60: 1D DD 80 23 1A 6E 08 24  DB 80 0E 80 00 80 25 02  ...#.n.$......%.
+1E70: 00 10 00 80 00 92 1E 03  05 00 14 80 03 01 10 1D  ................
+1E80: 80 40 59 80 5B 80 01 10  05 00 43 00 43 01 1B 01  .@Y.[.....C.C...
+1E90: 92 1E 01 DC 1E 02 00 10  19 80 00 DB 1E 45 4D 80  .............EM.
+1EA0: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 00 80 55 4D  ........fdo1..UM
+1EB0: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 1A 6A 1D  .........fdo1.j.
+1EC0: 46 00 1C 50 80 45 4D 80  F8 FF FF 7F F8 FF FF 7F  F..P.EM.........
+1ED0: 66 64 69 32 00 80 21 1B  01 DC 1E 1B 01 C5 1D 1B  fdi2..!.........
+1EE0: 1A 7F 0B 3D 0D 00 00 80  0E 80 02 0E 80 0E 80 00  ...=............
+1EF0: B3 1F 24 DE 80 00 80 0D  00 25 02 00 10 00 80 00  ..$......%......
+1F00: 0B 1F 06 1D 17 01 7B 1F  01 63 1F 02 00 10 5B 80  ......{..c....[.
+1F10: 00 54 1F 93 00 80 45 4D  80 F8 FF FF 7F F8 FF FF  .T....EM........
+1F20: 7F 66 64 6F 31 00 80 55  4D 80 F8 FF FF 7F F8 FF  .fdo1..UM.......
+1F30: FF 7F 66 64 6F 31 1A 6A  1D 46 00 1C 50 80 45 4D  ..fdo1.j.F..P.EM
+1F40: 80 F8 FF FF 7F F8 FF FF  7F 66 64 69 32 00 80 21  .........fdi2..!
+1F50: 1B 01 63 1F 02 00 10 78  80 00 63 1F 93 00 80 1B  ..c....x..c.....
+1F60: 01 63 1F 9D 00 71 25 1E  17 00 10 03 1D 17 00 10  .c...q%.........
+1F70: 93 1E 17 03 02 10 1E 17  1A B4 0C 93 00 80 24 DB  ..............$.
+1F80: 80 0E 80 00 80 25 02 00  10 00 80 00 B0 1F 06 01  .....%..........
+1F90: 10 40 00 80 4F 80 01 10  19 80 03 06 00 1D 17 40  .@..O..........@
+1FA0: 59 80 5B 80 01 10 06 00  43 00 43 01 1B 01 B0 1F  Y.[.....C.C.....
+1FB0: 01 EA 1E 93 00 80 1B 06  2E 10 03 2F 10 5B 80 02  .........../.[..
+1FC0: 32 10 00 80 01 09 21 02  0E 80 0E 80 00 09 21 03  2.....!.......!.
+1FD0: 02 10 2E 10 03 03 10 2F  10 41 0E 80 0E 80 32 10  ......./.A....2.
+1FE0: 04 10 41 14 80 14 80 32  10 05 10 41 19 80 19 80  ..A....2...A....
+1FF0: 32 10 06 10 24 DF 80 00  80 00 80 25 02 00 10 00  2...$......%....
+2000: 80 00 7D 20 24 E0 80 0E  80 00 80 25 02 00 10 00  ..} $......%....
+2010: 80 00 6C 20 48 E1 80 23  1A C9 21 02 02 10 00 80  ..l H..#..!.....
+2020: 03 26 20 01 14 20 02 02  10 38 80 02 33 20 03 02  .& .. ...8..3 ..
+2030: 10 38 80 03 2E 10 02 10  48 E2 80 23 1A C9 21 02  .8......H..#..!.
+2040: 02 10 6E 80 00 4A 20 01  38 20 02 02 10 0E 80 03  ..n..J .8 ......
+2050: 57 20 03 02 10 0E 80 02  02 10 5B 80 02 64 20 03  W ........[..d .
+2060: 02 10 5B 80 03 2F 10 02  10 01 6C 20 03 02 10 2E  ..[../....l ....
+2070: 10 03 03 10 2F 10 48 E3  80 23 01 06 21 02 00 10  ..../.H..#..!...
+2080: 0E 80 00 A2 20 24 E4 80  00 80 00 80 25 02 00 10  .... $......%...
+2090: 0E 80 00 9F 20 3C 32 10  0E 80 0E 80 01 9F 20 01  .... <2....... .
+20A0: 06 21 02 00 10 14 80 00  C7 20 24 E5 80 00 80 00  .!....... $.....
+20B0: 80 25 02 00 10 0E 80 00  C4 20 3C 32 10 14 80 0E  .%....... <2....
+20C0: 80 01 C4 20 01 06 21 02  00 10 19 80 00 EC 20 24  ... ..!....... $
+20D0: E6 80 0E 80 00 80 25 02  00 10 00 80 00 E9 20 3C  ......%....... <
+20E0: 32 10 19 80 0E 80 01 E9  20 01 06 21 02 00 10 1D  2....... ..!....
+20F0: 80 00 F8 20 1B 01 06 21  02 00 10 25 80 00 06 21  ... ...!...%...!
+2100: 01 09 21 01 06 21 01 C7  1F 46 01 2F 00 0B 60 04  ..!..!...F./..`.
+2110: 01 2F 00 0C 60 04 01 2F  00 0D 60 04 01 2F 00 0E  ./..`../..`../..
+2120: 60 04 01 2F 00 10 60 04  01 2F 00 28 60 04 01 2F  `../..`../.(`../
+2130: 00 29 60 04 01 4E 00 28  60 04 01 4E 00 29 60 04  .)`..N.(`..N.)`.
+2140: 01 29 80 0C 60 04 01 07  29 80 0D 60 04 01 07 29  .)..`...)..`...)
+2150: 80 0E 60 04 01 07 02 1B  00 00 80 01 A8 21 03 01  ..`..........!..
+2160: 10 52 80 43 00 43 01 03  37 10 03 10 02 03 10 00  .R.C.C..7.......
+2170: 80 80 88 21 03 01 10 7B  80 43 00 43 01 03 19 00  ...!...{.C.C....
+2180: 02 10 0B 19 00 01 A8 21  02 03 10 0E 80 80 98 21  .......!.......!
+2190: 03 19 00 6E 80 01 A8 21  02 03 10 14 80 80 A8 21  ...n...!.......!
+21A0: 03 19 00 9E 80 01 A8 21  03 20 10 00 00 03 23 10  .......!. ....#.
+21B0: 19 00 03 21 10 05 00 03  22 10 06 00 03 24 10 08  ...!...."....$..
+21C0: 00 29 80 0B 60 04 01 04  1B 06 02 10 71 12 0E 80  .)..`.......q...
+21D0: 14 80 71 13 02 10 1B 02  1F 00 00 80 00 F8 21 6A  ..q...........!j
+21E0: 74 80 38 80 4F 80 5C 00  00 80 5C 01 00 80 9A 5C  t.8.O.\...\....\
+21F0: 00 E7 80 5C 01 E7 80 9A  03 01 10 7E 80 43 00 43  ...\.......~.C.C
+2200: 01 02 32 10 00 80 01 0C  22 48 E8 80 03 0D 00 02  ..2....."H......
+2210: 10 03 0E 00 03 10 03 0F  00 04 10 03 10 00 05 10  ................
+2220: 03 11 00 06 10 03 12 00  07 10 03 02 10 0E 00 07  ................
+2230: 02 10 0F 00 02 02 10 00  80 02 66 23 02 10 00 00  ..........f#....
+2240: 80 00 33 23 02 11 00 5A  80 00 00 23 02 02 00 5A  ..3#...Z...#...Z
+2250: 80 00 CD 22 03 02 10 20  10 08 02 10 0E 80 1A 6D  ..."... .......m
+2260: 08 1D E9 80 23 1D EA 80  23 1A 6E 08 03 01 10 71  ....#...#.n....q
+2270: 80 02 41 10 00 80 80 89  22 27 01 05 60 04 01 0B  ..A....."'..`...
+2280: 2A 01 05 60 04 01 01 B9  22 02 41 10 0E 80 80 A1  *..`....".A.....
+2290: 22 27 01 07 60 04 01 0B  2A 01 07 60 04 01 01 B9  "'..`...*..`....
+22A0: 22 02 41 10 14 80 80 B9  22 27 01 09 60 04 01 0B  ".A....."'..`...
+22B0: 2A 01 09 60 04 01 01 B9  22 02 03 10 0E 80 00 CA  *..`....".......
+22C0: 22 03 02 10 46 80 1D EB  80 23 01 FD 22 BF 60 00  "...F....#..".`.
+22D0: 80 00 80 0D 00 41 00 80  19 80 0D 00 0D 00 02 0D  .....A..........
+22E0: 00 00 80 00 EE 22 03 02  10 00 80 01 F3 22 03 02  ....."......."..
+22F0: 10 0E 80 1A 6D 08 1D EC  80 23 1A 6E 08 01 30 23  ....m....#.n..0#
+2300: BF 60 00 80 00 80 0D 00  41 00 80 19 80 0D 00 0D  .`......A.......
+2310: 00 02 0D 00 00 80 00 21  23 03 02 10 00 80 01 26  .......!#......&
+2320: 23 03 02 10 0E 80 1A 6D  08 1D EC 80 23 1A 6E 08  #......m....#.n.
+2330: 01 63 23 BF 60 00 80 00  80 0D 00 41 00 80 19 80  .c#.`......A....
+2340: 0D 00 0D 00 02 0D 00 00  80 00 54 23 03 02 10 00  ..........T#....
+2350: 80 01 59 23 03 02 10 0E  80 1A 6D 08 1D EC 80 23  ..Y#......m....#
+2360: 1A 6E 08 01 70 23 1A 6D  08 1D ED 80 23 1A 6E 08  .n..p#.m....#.n.
+2370: 1B 00 80 00 80 00 80 19  80 25 80 6B 80 4F 80 7A  .........%.k.O.z
+2380: 80 68 80 38 80 EE 80 EF  80 F0 80 F1 80 F2 80 F2  .h.8............
+2390: 80 F2 80 F2 80 F2 80 F2  80 F2 80 F2 80 F2 80 F2  ................
+23A0: 80 F2 80 F2 80 F2 80 F2  80 F2 80 F2 80 F2 80 F2  ................
+23B0: 80 00 80 00 80 00 80 0E  80 0E 80 0E 80 0E 80 0E  ................
+23C0: 80 14 80 19 80 19 80 1D  80 1D 80 25 80 F2 80 F2  ...........%....
+23D0: 80 F2 80 F2 80 F2 80 F2  80 F2 80 F2 80 F2 80 F2  ................
+23E0: 80 F2 80 F2 80 F2 80 F2  80 F2 80 F2 80 F2 80 F2  ................
+23F0: 80 F3 80 62 80 F4 80 F5  80 F6 80 F7 80 F8 80 F9  ...b............
+2400: 80 FA 80 FB 80 FC 80 FD  80 76 80 FE 80 00 80 00  .........v......
+2410: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2420: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2430: 80 0E 80 0E 80 0E 80 38  80 F1 80 FF 80 50 80 00  .......8.....P..
+2440: 81 B7 80 01 81 02 81 03  81 04 81 F2 80 00 80 00  ................
+2450: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2460: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2470: 80 00 80 00 80 19 80 00  80 00 80 00 80 00 80 6B  ...............k
+2480: 80 4F 80 4F 80 7A 80 7A  80 38 80 38 80 00 80 00  .O.O.z.z.8.8....
+2490: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+24A0: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+24B0: 80 0E 80 0E 80 0E 80 0E  80 0E 80 0E 80 0E 80 0E  ................
+24C0: 80 14 80 2C 80 2C 80 52  80 0E 80 2C 80 0E 80 0E  ...,.,.R...,....
+24D0: 80 0E 80 0E 80 0E 80 0E  80 0E 80 0E 80 0E 80 0E  ................
+24E0: 80 F2 80 05 81 4D 80 06  81 07 81 08 81 09 81 62  .....M.........b
+24F0: 80 F4 80 0A 81 0B 81 F5  80 0C 81 0D 81 0E 81 F6  ................
+2500: 80 F7 80 F8 80 F9 80 FA  80 FB 80 FC 80 FD 80 76  ...............v
+2510: 80 0F 81 FE 80 10 81 11  81 12 81 13 81 14 81 15  ................
+2520: 81 16 81 17 81 18 81 19  81 1A 81 1B 81 1C 81 1D  ................
+2530: 81 1E 81 1F 81 20 81 21  81 22 81 23 81 24 81 25  ..... .!.".#.$.%
+2540: 81 26 81 27 81 28 81 29  81 2A 81 2B 81 2C 81 2D  .&.'.(.).*.+.,.-
+2550: 81 2E 81 2F 81 30 81 31  81 54 80 54 80 54 80 54  .../.0.1.T.T.T.T
+2560: 80 25 80 19 80 0E 80 0E  80 0E 80 0E 80 0E 80 00  .%..............
+2570: 80 00 80 32 81 33 81 34  81 35 81 36 81 37 81 38  ...2.3.4.5.6.7.8
+2580: 81 39 81 3A 81 00 80 00  80 00 80 00 80 00 80 00  .9.:............
+2590: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+25A0: 80 00 80 00 80 00 80 3B  81 3C 81 3D 81 3E 81 3F  .......;.<.=.>.?
+25B0: 81 1D 80 2C 80 5A 80 14  80 5A 80 5A 80 19 80 5A  ...,.Z...Z.Z...Z
+25C0: 80 14 80 5A 80 5A 80 5A  80 5A 80 5A 80 5A 80 5A  ...Z.Z.Z.Z.Z.Z.Z
+25D0: 80 00 80 00 80 00 80 00  80 14 80 19 80 00 80 0E  ................
+25E0: 80 00 80 00 80 00 80 00  80 19 80 0E 80 00 80 14  ................
+25F0: 80 00 80 00 80 00 80 00  80 0E 80 14 80 00 80 19  ................
+2600: 80 1D 80 1D 80 1D 80 1D  80 1D 80 1D 80 00 80 00  ................
+2610: 80 1D 80 1D 80 1D 80 1D  80 1D 80 1D 80 00 80 00  ................
+2620: 80 1D 80 1D 80 1D 80 1D  80 1D 80 1D 80 00 80 00  ................
+2630: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2640: 80 00 80 00 80 00 80 25  80 1D 80 00 80 00 80 00  .......%........
+2650: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2660: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2670: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2680: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+2690: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+26A0: 80 03 45 10 02 10 03 02  10 00 80 1B 03 02 10 45  ..E............E
+26B0: 10 1B                                             ..              
+```
+
+#### Opcodes
+
+```
+  0: 0x0628 [0x33] EventEntity->Render.Flags0 |= 0x200000 // Bit 21 (flag=0x01)
+  1: 0x062A [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-6.123*, z=-69.317*, y=-4.000*, direction=87.9°*
+  2: 0x0633 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0634 [0x03] Work_Zone[1] = 246*
+     0x0639 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x063B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x063D [0x06] ExtData[1]->WorkLocal[1] = 0
+     0x0640 [0x06] ExtData[1]->WorkLocal[0] = 0
+     0x0643 [0x06] ExtData[1]->WorkLocal[2] = 0
+     0x0646 [0x06] ExtData[1]->WorkLocal[8] = 0
+     0x0649 [0x06] ExtData[1]->WorkLocal[3] = 0
+     0x064C [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x064F [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x0652 [0x06] ExtData[1]->WorkLocal[5] = 0
+     0x0655 [0x06] ExtData[1]->WorkLocal[6] = 0
+     0x0658 [0x06] ExtData[1]->WorkLocal[7] = 0
+     0x065B [0x06] ExtData[1]->WorkLocal[9] = 0
+     0x065E [0x06] Work_Zone[50] = 0
+     0x0661 [0x06] ExtData[1]->WorkLocal[26] = 0
+     0x0664 [0x06] ExtData[1]->WorkLocal[27] = 0
+     0x0667 [0x41] ExtData[1]->WorkLocal[1] = Work_Zone[2] (bits 0*-15*)
+     0x0670 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[2] (bits 16*-18*)
+     0x0679 [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[2] (bits 19*-23*)
+     0x0682 [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[2] (bits 24*-24*)
+     0x068B [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[2] (bits 25*-25*)
+     0x0694 [0x41] ExtData[1]->WorkLocal[26] = Work_Zone[2] (bits 29*-29*)
+     0x069D [0x41] ExtData[1]->WorkLocal[27] = Work_Zone[2] (bits 30*-30*)
+     0x06A6 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
+     0x06AB [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[7]
+     0x06B0 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[4] (bits 0*-3*)
+     0x06B9 [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[4] (bits 4*-9*)
+     0x06C2 [0x03] ExtData[1]->WorkLocal[7] = ExtData[1]->WorkLocal[6]
+     0x06C7 [0x9D] ExtData[1]->WorkLocal[7] = 0x2571[ExtData[1]->WorkLocal[7]] // Read WORD
+     0x06CF [0x41] Work_Zone[50] = Work_Zone[4] (bits 10*-10*)
+     0x06D8 [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x06DB [0x03] ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[8]
+     0x06E0 [0x07] ExtData[1]->WorkLocal[2] += 1*
+     0x06E5 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x06F4
+     0x06ED [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x06F4 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 3*) GOTO 0x0703
+     0x06FC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x0703 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 1*) GOTO 0x0712
+     0x070B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x0712 [0x02] IF !(ExtData[1]->WorkLocal[8] < 8*) GOTO 0x0721
+     0x071A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x0721 [0x1B] RETURN
+     0x0722 [0x06] ExtData[1]->WorkLocal[23] = 0
+     0x0725 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x086C
+     0x072D [0x24] CREATE_DIALOG(message_id=8920*, default_option=0*, option_flags=0*)
+    → "What would you like to know? [Why race chocobos, anyway?/How do I register for a race?/How do I prepare for a race?/What are chocobucks?/What kind of races are there?/What are "racing teams"?/Quit./Return.]"
+     0x0734 [0x25] WAIT_DIALOG_SELECT()
+     0x0735 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x075E
+     0x073D [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0740 [0x1D] PRINT_EVENT_MESSAGE(message_id=8921*)
+    → "Why not!? Our original plan was to establish locations across Vana'diel where people could test their birds' skills."
+     0x0743 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0744 [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
+    → "We felt that this would help us maintain breeder motivation, which in turn would ensure healthier, happier chocobos. A "win-win situation," as we like to call it in the business."
+     0x0747 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=8923*)
+    → "However, as rumors of these new facilities began to leak out into the world, people began speculating about the possibility of officially sanctioned chocobo races..."
+     0x074B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=8924*)
+    → "The VCS could not ignore the voice of the masses, and it was not long before a meeting was held, a vote was taken, and the CRA was formed."
+     0x074F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
+    → "And that's why I'm here, trying to enlist you and other top breeders into our noble ranks."
+     0x0753 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0754 [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+    → "Oh, and for our more seasoned veterans who feel there are no challenges left for them here at the track, the CRA has finished preparing a new race. And rumor has that it's a doozie!"
+     0x0757 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0758 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x075B [0x01] GOTO 0x0869
+     0x075E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0789
+     0x0766 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0769 [0x03] Work_Zone[2] = 2313*
+     0x076E [0x03] Work_Zone[3] = 2402*
+     0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
+    → "First of all, your chocobo must be fully grown. It doesn't matter if you are still tending to it, or if it has been sent to pasture, as long as it is large enough to ride."
+     0x0776 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0777 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
+    → "Next, you must bring me either $0 or $1. This is all I will require. There are no hidden fees."
+     0x077A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x077B [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
+    → "As your chocobo develops, be sure to re-register it. This will ensure that your steed is provided with the equipment that most suits its current condition."
+     0x077E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
+    → "Finally, you may only register one chocobo at a time, but are free to register a new bird whenever you wish. You need only speak with me to make any necessary changes."
+     0x0782 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0783 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0786 [0x01] GOTO 0x0869
+     0x0789 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x07AA
+     0x0791 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0794 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
+    → "Once you have registered your chocobo and entered it in a competition, the CRA will proceed in assigning it a licensed jockey."
+     0x0797 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0798 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
+    → "Before each race you will be given the opportunity to give the jockey specific orders on his or her riding style."
+     0x079B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x079C [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
+    → "In addition to these orders, you can also provide the jockey with items to use while riding, as well as equipment to improve your chocobo's performance."
+     0x079F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
+    → "Before a race, you can also check the strengths and weaknesses of the other participating chocobos. It is recommended that you use this data when deciding on what orders to give, or which items to equip."
+     0x07A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07A4 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x07A7 [0x01] GOTO 0x0869
+     0x07AA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x07C7
+     0x07B2 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x07B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
+    → "Depending on your chocobo's performance in select CRA-sanctioned races, you may or may not receive a prize consisting of VCS-mint chocobucks."
+     0x07B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
+    → "Chocobucks can be used to purchase items, as well as upgrade your mount. Chocobucks are also required to participate in official races."
+     0x07BC [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
+    → "Currently, players can earn up to, but no more than, 1000 chocobucks. However, this may change without notice."
+     0x07C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07C1 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x07C4 [0x01] GOTO 0x0869
+     0x07C7 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x07F4
+     0x07CF [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x07D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
+    → "There are two main types of races."
+     0x07D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
+    → "The first type is called an official race. To participate in one of these, you will require chocobucks."
+     0x07D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
+    → "Placing in an official race will earn you gil. The more races you complete, the more respected you will become in the breeder community."
+     0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
+    → "You may also take part in an official race as often as needed to complete the specified objectives."
+     0x07E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
+    → "However, after some of the more grueling races, you may be required to wait before entering the next. This is to give your chocobo, as well as the others, an opportunity to rest before running again."
+     0x07E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
+    → "The second type of race is called a free run. Unlike the official races, these can be run at any time, regardless of the results of a previous match."
+     0x07E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
+    → "You must pay a fee in gil to participate in free runs, but you will have the opportunity to earn chocobucks depending on your chocobo's performance. You can join as many free runs as you wish in a single day (Earth time), but extra fees may be required for each additional race. (Stable hands have to make a living, too!)"
+     0x07ED [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07EE [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x07F1 [0x01] GOTO 0x0869
+     0x07F4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0822
+     0x07FC [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x07FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
+    → "The CRA is split up into three racing teams representing Bastok, Windurst, and San d'Oria."
+     0x0802 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0803 [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
+    → "Each team has its own skilled jockeys, and offers unique services that cannot be obtained at the other two."
+     0x0806 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0807 [0x1D] PRINT_EVENT_MESSAGE(message_id=8947*)
+    → "Breeders are allowed to register with any team they like, and may change their affiliation at any time."
+     0x080A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x080B [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
+    → "In the event that you wish to leave a racing team, all official race results, as well as earned chocobucks, will be saved."
+     0x080E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x080F [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
+    → "You never have to worry that your past accomplishments may be deleted and lost forever. You only need rejoin the team to restore all your old data."
+     0x0812 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0813 [0x03] Work_Zone[2] = 0*
+     0x0818 [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
+    → "Anyway, there is no harm in visiting all three racing teams to find which one suits you best (though I know you'll choose this one)."
+     0x081B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x081C [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x081F [0x01] GOTO 0x0869
+     0x0822 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0868
+     0x082A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x083B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x084A [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x084D [0x46] CAMERA_CONTROL: Restore default settings
+     0x084F [0x1C] WAIT(60* ticks)
+     0x0852 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0863 [0x21] END_EVENT
+     0x0864 [0x1B] RETURN
+     0x0865 [0x01] GOTO 0x0869
+     0x0868 [0x1B] RETURN
+     0x0869 [0x01] GOTO 0x0725
+     0x086C [0x1B] RETURN
+     0x086D [0x1B] RETURN
+     0x086E [0x1B] RETURN
+     0x086F [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=8971*)
+    → "With newly developed CRA technology, you can now relive the excitement of a previously cleared official race!"
+     0x0875 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0876 [0x1D] PRINT_EVENT_MESSAGE(message_id=8972*)
+    → "You may participate in these "re-runs" as many times as you wish, but just remember--the race may be the same, but the prizes for placing won't!"
+     0x0879 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x087A [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x087D [0x02] IF !(1* == 1*) GOTO 0x0925
+     0x0885 [0x06] Work_Zone_1700[0] = 0
+     0x0888 [0x03] Work_Zone_1700[1] = 4294967295*
+     0x088D [0x02] IF !(Work_Zone_1700[0] >= ExtData[1]->WorkLocal[8]) GOTO 0x08A2
+     0x0895 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[1], bit_index_work_offset=Work_Zone_1700[0], condition_work_offset=1*)
+     0x089C [0x0B] Work_Zone_1700[0]++
+     0x089F [0x01] GOTO 0x088D
+     0x08A2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[1], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x08A9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[1], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x08B0 [0x24] CREATE_DIALOG(message_id=8973*, default_option=0*, option_flags=Work_Zone_1700[1])
+    → "Re-run which race? [Novice Race I./Novice Race II./Novice Race III./Challenge Race I./International Race I./International Race II./Challenge Race II./CRA Classic./Quit./Return.]"
+     0x08B7 [0x25] WAIT_DIALOG_SELECT()
+     0x08B8 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x08FE
+     0x08C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x08D1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x08E0 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x08E3 [0x46] CAMERA_CONTROL: Restore default settings
+     0x08E5 [0x1C] WAIT(60* ticks)
+     0x08E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x08F9 [0x21] END_EVENT
+     0x08FA [0x1B] RETURN
+     0x08FB [0x01] GOTO 0x090A
+     0x08FE [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x090A
+     0x0906 [0x1B] RETURN
+     0x0907 [0x01] GOTO 0x090A
+     0x090A [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[0]
+     0x090F [0x07] ExtData[1]->WorkLocal[25] += 1*
+     0x0914 [0x1A] CALL_SUBROUTINE(address=0x1676)
+     0x0917 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0922
+     0x091F [0x1A] CALL_SUBROUTINE(address=0x118B)
+     0x0922 [0x01] GOTO 0x087D
+     0x0925 [0x1B] RETURN
+     0x0926 [0x6A] CHANGE_SOUND_VOLUME: Set (Effects/System/Zone/Master)* volume to 0*, fade_time=30*
+     0x092D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x093E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x094D [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x0950 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
+     0x0956 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Alangriche (ID: 17063941/0x01046005)
+     0x095C [0x4E] SET_ENTITY_HIDE_FLAG: Hide Jazgeh (ID: 17063943/0x01046007)
+     0x0962 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Rungaga (ID: 17063945/0x01046009)
+     0x0968 [0x2F] Unnamed NPC (ID: 17063978/0x0104602A)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x096E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17063978/0x0104602A)
+     0x0974 [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x0989
+     0x097C [0x03] ExtData[1]->WorkLocal[32] = 1*
+     0x0981 [0x34] LOAD_UNLOAD_ZONE(zone_id=116*)
+     0x0984 [0x77] SET_EVENT_TIME_WEATHER(hour=12*, weather=0*)
+     0x0989 [0x03] Work_Zone[1] = 6*
+     0x098E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0990 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0992 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
+     0x0997 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[3]
+     0x099C [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[14] (bits 28*-30*)
+     0x09A5 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[14] (bits 25*-27*)
+     0x09AE [0x3E] IF !(ExtData[1]->WorkLocal[13] bit 16*) GOTO 0x09BD
+     0x09B5 [0x03] Work_Zone[4] = 1*
+     0x09BA [0x01] GOTO 0x09C0
+     0x09BD [0x06] Work_Zone[4] = 0
+     0x09C0 [0x3E] IF !(ExtData[1]->WorkLocal[13] bit 0*) GOTO 0x09CF
+     0x09C7 [0x03] Work_Zone[5] = 1*
+     0x09CC [0x01] GOTO 0x09D2
+     0x09CF [0x06] Work_Zone[5] = 0
+     0x09D2 [0x3E] IF !(ExtData[1]->WorkLocal[13] bit 8*) GOTO 0x09E1
+     0x09D9 [0x03] Work_Zone[6] = 1*
+     0x09DE [0x01] GOTO 0x09E4
+     0x09E1 [0x06] Work_Zone[6] = 0
+     0x09E4 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17063978/0x0104602A), tag_num=0x05)
+     0x09EB [0x2A] GET_REQ_LEVEL(level=5, entity_id=Unnamed NPC (ID: 17063978/0x0104602A))
+     0x09F1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
+     0x09F6 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[14] (bits 24*-24*)
+     0x09FF [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[14] (bits 17*-19*)
+     0x0A08 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[60], string_index=0*)
+     0x0A0E [0x03] Work_Zone[64] = Work_Zone[4]
+     0x0A13 [0xC3] COPY_STRING_TO_ARRAY(array_index=0x8000, string_value=0x103C, additional_value=0x1040)
+     0x0A1A [0x03] Work_Zone[57] = 0*
+     0x0A1F [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17063978/0x0104602A)
+     0x0A25 [0x03] Work_Zone[56] = Work_Zone[5]
+     0x0A2A [0x03] Work_Zone[57] = 1*
+     0x0A2F [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17063978/0x0104602A), tag_num=0x07)
+     0x0A36 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17063978/0x0104602A))
+     0x0A3B [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17063978/0x0104602A), tag_num=0x08)
+     0x0A42 [0x1C] WAIT(15* ticks)
+     0x0A45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0A56 [0x1C] WAIT(60* ticks)
+     0x0A59 [0x6A] CHANGE_SOUND_VOLUME: Set (Effects/System/Zone/Master)* volume to 999*, fade_time=15*
+     0x0A60 [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x0A75
+     0x0A68 [0x1A] CALL_SUBROUTINE(address=0x26A1)
+     0x0A6B [0x48] [System] [8999*]:
+    → "$0 ` Owner: %7Affiliation: [None/San d'Oria Branch/Bastok Branch/Windurst Branch] Gender: [Male/Female]"
+     0x0A6E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0A6F [0x1A] CALL_SUBROUTINE(address=0x26AC)
+     0x0A72 [0x01] GOTO 0x0A84
+     0x0A75 [0x03] Work_Zone[5] = 1*
+     0x0A7A [0x1A] CALL_SUBROUTINE(address=0x26A1)
+     0x0A7D [0x48] [System] [9000*]:
+    → "Entry No. $3 $0 ` Owner: %7Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female]"
+     0x0A80 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0A81 [0x1A] CALL_SUBROUTINE(address=0x26AC)
+     0x0A84 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[13] (bits 0*-7*)
+     0x0A8D [0x15] Work_Zone[2] /= 32*
+     0x0A92 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[13] (bits 8*-15*)
+     0x0A9B [0x15] Work_Zone[3] /= 32*
+     0x0AA0 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[13] (bits 16*-23*)
+     0x0AA9 [0x15] Work_Zone[4] /= 32*
+     0x0AAE [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[13] (bits 24*-31*)
+     0x0AB7 [0x15] Work_Zone[5] /= 32*
+     0x0ABC [0x48] [System] [9002*]:
+    → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
+     0x0ABF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0AC0 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[14] (bits 20*-23*)
+     0x0AC9 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[14] (bits 9*-12*)
+     0x0AD2 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[14] (bits 13*-16*)
+     0x0ADB [0x48] [System] [9003*]:
+    → "Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]"
+     0x0ADE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0ADF [0x03] Work_Zone[57] = 0*
+     0x0AE4 [0x2A] GET_REQ_LEVEL(level=128, entity_id=Unnamed NPC (ID: 17063978/0x0104602A))
+     0x0AEA [0x1B] RETURN
+     0x0AEB [0x1A] CALL_SUBROUTINE(address=0x0B7F)
+     0x0AEE [0x02] IF !(1* == 1*) GOTO 0x0B7E
+     0x0AF6 [0x24] CREATE_DIALOG(message_id=8970*, default_option=1*, option_flags=ExtData[1]->WorkLocal[13])
+    → "We currently hold for you: [/$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]"
+     0x0AFD [0x25] WAIT_DIALOG_SELECT()
+     0x0AFE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B09
+     0x0B06 [0x01] GOTO 0x0B5B
+     0x0B09 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0B4F
+     0x0B11 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0B22 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x0B31 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x0B34 [0x46] CAMERA_CONTROL: Restore default settings
+     0x0B36 [0x1C] WAIT(60* ticks)
+     0x0B39 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0B4A [0x21] END_EVENT
+     0x0B4B [0x1B] RETURN
+     0x0B4C [0x01] GOTO 0x0B5B
+     0x0B4F [0x02] IF !(Work_Zone[0] == 32*) GOTO 0x0B5B
+     0x0B57 [0x1B] RETURN
+     0x0B58 [0x01] GOTO 0x0B5B
+     0x0B5B [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[0]
+     0x0B60 [0x9D] Work_Zone_1700[30] = 0x2571[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x0B68 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[14]
+     0x0B6D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
+     0x0B70 [0x03] Work_Zone[2] = Work_Zone_1700[30]
+     0x0B75 [0x1A] CALL_SUBROUTINE(address=0x0CB4)
+     0x0B78 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x0B7B [0x01] GOTO 0x0AEE
+     0x0B7E [0x1B] RETURN
+     0x0B7F [0x9D] Work_Zone[2] = 0x2571[0*] // Read WORD
+     0x0B87 [0x9D] Work_Zone[3] = 0x2571[1*] // Read WORD
+     0x0B8F [0x9D] Work_Zone[4] = 0x2571[2*] // Read WORD
+     0x0B97 [0x9D] Work_Zone[5] = 0x2571[3*] // Read WORD
+     0x0B9F [0x9D] Work_Zone[6] = 0x2571[4*] // Read WORD
+     0x0BA7 [0x9D] Work_Zone[7] = 0x2571[5*] // Read WORD
+     0x0BAF [0x9D] Work_Zone[8] = 0x2571[6*] // Read WORD
+     0x0BB7 [0x9D] Work_Zone[9] = 0x2571[7*] // Read WORD
+     0x0BBF [0x9D] Work_Zone_1700[0] = 0x2571[8*] // Read WORD
+     0x0BC7 [0x9D] Work_Zone_1700[1] = 0x2571[9*] // Read WORD
+     0x0BCF [0x9D] Work_Zone_1700[2] = 0x2571[10*] // Read WORD
+     0x0BD7 [0x9D] Work_Zone_1700[3] = 0x2571[11*] // Read WORD
+     0x0BDF [0x9D] Work_Zone_1700[4] = 0x2571[12*] // Read WORD
+     0x0BE7 [0x9D] Work_Zone_1700[5] = 0x2571[13*] // Read WORD
+     0x0BEF [0x9D] Work_Zone_1700[6] = 0x2571[14*] // Read WORD
+     0x0BF7 [0x9D] Work_Zone_1700[7] = 0x2571[15*] // Read WORD
+     0x0BFF [0x9D] Work_Zone_1700[8] = 0x2571[16*] // Read WORD
+     0x0C07 [0x9D] Work_Zone_1700[9] = 0x2571[17*] // Read WORD
+     0x0C0F [0x9D] Work_Zone_1700[10] = 0x2571[18*] // Read WORD
+     0x0C17 [0x9D] Work_Zone_1700[11] = 0x2571[19*] // Read WORD
+     0x0C1F [0x9D] Work_Zone_1700[12] = 0x2571[20*] // Read WORD
+     0x0C27 [0x9D] Work_Zone_1700[13] = 0x2571[21*] // Read WORD
+     0x0C2F [0x9D] Work_Zone_1700[14] = 0x2571[22*] // Read WORD
+     0x0C37 [0x9D] Work_Zone_1700[15] = 0x2571[23*] // Read WORD
+     0x0C3F [0x9D] Work_Zone_1700[16] = 0x2571[24*] // Read WORD
+     0x0C47 [0x9D] Work_Zone_1700[17] = 0x2571[25*] // Read WORD
+     0x0C4F [0x9D] Work_Zone_1700[18] = 0x2571[26*] // Read WORD
+     0x0C57 [0x9D] Work_Zone_1700[19] = 0x2571[27*] // Read WORD
+     0x0C5F [0x9D] Work_Zone_1700[20] = 0x2571[28*] // Read WORD
+     0x0C67 [0x9D] Work_Zone_1700[21] = 0x2571[29*] // Read WORD
+     0x0C6F [0x9D] Work_Zone_1700[22] = 0x2571[30*] // Read WORD
+     0x0C77 [0x06] ExtData[1]->WorkLocal[13] = 0
+     0x0C7A [0x03] ExtData[1]->WorkLocal[14] = 1*
+     0x0C7F [0x02] IF !(ExtData[1]->WorkLocal[14] >= 32*) GOTO 0x0CA5
+     0x0C87 [0x3E] IF !(ExtData[1]->WorkLocal[4] bit ExtData[1]->WorkLocal[14]) GOTO 0x0C98
+     0x0C8E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
+     0x0C95 [0x01] GOTO 0x0C9F
+     0x0C98 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
+     0x0C9F [0x0B] ExtData[1]->WorkLocal[14]++
+     0x0CA2 [0x01] GOTO 0x0C7F
+     0x0CA5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x0CAC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=31*, condition_work_offset=1*)
+     0x0CB3 [0x1B] RETURN
+     0x0CB4 [0x02] IF !(Work_Zone_1700[29] == 1*) GOTO 0x0CC6
+     0x0CBC [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=9010*)
+    → "These are used during a race to temporarily boost the speed of your chocobo."
+     0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CC3 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0CC6 [0x02] IF !(Work_Zone_1700[29] == 2*) GOTO 0x0CD8
+     0x0CCE [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0CD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
+    → "These are used during a race to temporarily regenerate your chocobo's stamina."
+     0x0CD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CD5 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0CD8 [0x02] IF !(Work_Zone_1700[29] == 3*) GOTO 0x0CEA
+     0x0CE0 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0CE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9012*)
+    → "These are used during a race to temporarily resist the effects of any detrimental items aimed at your chocobo."
+     0x0CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CE7 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0CEA [0x02] IF !(Work_Zone_1700[29] == 4*) GOTO 0x0CFC
+     0x0CF2 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0CF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9013*)
+    → "These are used during a race to greatly reduce the speed of an opponent chocobo."
+     0x0CF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CF9 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0CFC [0x02] IF !(Work_Zone_1700[29] == 5*) GOTO 0x0D0E
+     0x0D04 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=9014*)
+    → "These are used during a race to greatly reduce the stamina of an opponent chocobo."
+     0x0D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D0B [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D0E [0x02] IF !(Work_Zone_1700[29] == 6*) GOTO 0x0D20
+     0x0D16 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9015*)
+    → "These are used during a race to temporarily reduce the speed of all surrounding opponent chocobos."
+     0x0D1C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D1D [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D20 [0x02] IF !(Work_Zone_1700[29] == 7*) GOTO 0x0D32
+     0x0D28 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D2B [0x1D] PRINT_EVENT_MESSAGE(message_id=9016*)
+    → "These are used during a race to reduce the discernment of all surrounding opponent chocobos."
+     0x0D2E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D2F [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D32 [0x02] IF !(Work_Zone_1700[29] == 8*) GOTO 0x0D44
+     0x0D3A [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D3D [0x1D] PRINT_EVENT_MESSAGE(message_id=9017*)
+    → "These are used during a race to temporarily clear up the weather."
+     0x0D40 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D41 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D44 [0x02] IF !(Work_Zone_1700[29] == 9*) GOTO 0x0D56
+     0x0D4C [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D4F [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+    → "These are used during a race to temporarily call upon a rainstorm."
+     0x0D52 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D53 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D56 [0x02] IF !(Work_Zone_1700[29] == 27*) GOTO 0x0D68
+     0x0D5E [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+    → "When equipped during a race, this item will slightly increase the strength of your chocobo."
+     0x0D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D65 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D68 [0x02] IF !(Work_Zone_1700[29] == 28*) GOTO 0x0D7A
+     0x0D70 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+    → "When equipped during a race, this item will slightly increase the stamina of your chocobo."
+     0x0D76 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D77 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D7A [0x02] IF !(Work_Zone_1700[29] == 29*) GOTO 0x0D8C
+     0x0D82 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+    → "When equipped during a race, this item will slightly increase the discernment of your chocobo."
+     0x0D88 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D89 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D8C [0x02] IF !(Work_Zone_1700[29] == 30*) GOTO 0x0D9E
+     0x0D94 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0D97 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
+    → "When equipped during a race, this item will slightly increase the receptivity of your chocobo."
+     0x0D9A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D9B [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0D9E [0x1B] RETURN
+     0x0D9F [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x0DAA
+     0x0DA7 [0x01] GOTO 0x0E26
+     0x0DAA [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x118A
+     0x0DB2 [0x1A] CALL_SUBROUTINE(address=0x0634)
+     0x0DB5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0FAD
+     0x0DBD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
+     0x0DC2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
+     0x0DC7 [0x24] CREATE_DIALOG(message_id=8974*, default_option=0*, option_flags=0*)
+    → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: $1./Start race./Quit./Return.]"
+     0x0DCE [0x25] WAIT_DIALOG_SELECT()
+     0x0DCF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DF4
+     0x0DD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8976*)
+    → "Here is the information on the next race:"
+     0x0DDA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DDB [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x0DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DDF [0x48] [System] [8978*]:
+    → "$26Free Run$26 Chocobos: 8 Objective: None"
+     0x0DE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DE3 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0DE6 [0x48] [System] [8979*]:
+    → "While free runs usually have no specific objectives, the higher your chocobo places, the better the prize you will receive. We suggest you use these races to improve your skills before embarking on the more difficult official races."
+     0x0DE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DEA [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0DED [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x0DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DF1 [0x01] GOTO 0x0FAA
+     0x0DF4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0E02
+     0x0DFC [0x1A] CALL_SUBROUTINE(address=0x1866)
+     0x0DFF [0x01] GOTO 0x0FAA
+     0x0E02 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0E10
+     0x0E0A [0x1A] CALL_SUBROUTINE(address=0x1DC5)
+     0x0E0D [0x01] GOTO 0x0FAA
+     0x0E10 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0E1E
+     0x0E18 [0x1A] CALL_SUBROUTINE(address=0x1EE0)
+     0x0E1B [0x01] GOTO 0x0FAA
+     0x0E1E [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0F5D
+     0x0E26 [0x03] Work_Zone[1] = 258*
+     0x0E2B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0E2D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0E2F [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0F57
+     0x0E37 [0x03] ExtData[1]->WorkLocal[25] = 4294967295*
+     0x0E3C [0x03] Work_Zone[55] = 1*
+     0x0E41 [0x1A] CALL_SUBROUTINE(address=0x15D8)
+     0x0E44 [0x02] IF !(Work_Zone[9] == 4294967291*) GOTO 0x0F33
+     0x0E4C [0x03] Work_Zone[37] = Work_Zone[6]
+     0x0E51 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[7]
+     0x0E56 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
+     0x0E5B [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x0E86
+     0x0E63 [0x03] Work_Zone[2] = Work_Zone[6]
+     0x0E68 [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x60)
+     0x0E6A [0x00] END_REQSTACK()
+     0x0E6B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 268599296/0x10028000))
+     0x0E70 [0x48] [System] [8704*]:
+    → "$0"
+     0x0E73 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E74 [0x03] Work_Zone[2] = Work_Zone[7]
+     0x0E79 [0x48] [System] [8704*]:
+    → "$0"
+     0x0E7C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E7D [0x03] Work_Zone[2] = Work_Zone[8]
+     0x0E82 [0x48] [System] [8704*]:
+    → "$0"
+     0x0E85 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E86 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+    → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
+     0x0E8D [0x25] WAIT_DIALOG_SELECT()
+     0x0E8E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EBF
+     0x0E96 [0x03] ExtData[1]->WorkLocal[31] = 1*
+     0x0E9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0EAC [0x1C] WAIT(60* ticks)
+     0x0EAF [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
+     0x0EB8 [0x48] [System] [9434*]:
+    → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
+     0x0EBB [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0EBC [0x01] GOTO 0x0ED8
+     0x0EBF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0ED8
+     0x0EC7 [0x03] ExtData[1]->WorkLocal[31] = 0*
+     0x0ECC [0x1A] CALL_SUBROUTINE(address=0x1FB7)
+     0x0ECF [0x1A] CALL_SUBROUTINE(address=0x1B4D)
+     0x0ED2 [0x1C] WAIT(60* ticks)
+     0x0ED5 [0x01] GOTO 0x0ED8
+     0x0ED8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0EE9 [0x1C] WAIT(60* ticks)
+     0x0EEC [0x1A] CALL_SUBROUTINE(address=0x21D7)
+     0x0EEF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0F00 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x0F0F [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x0F12 [0x46] CAMERA_CONTROL: Restore default settings
+     0x0F14 [0xAE] MULTI_PURPOSE_ENTITY_HANDLER(case_type=0x00 - Weather, param1=2*, param2=1*)
+     0x0F1A [0x1C] WAIT(60* ticks)
+     0x0F1D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0F2E [0x21] END_EVENT
+     0x0F2F [0x00] END_REQSTACK()
+     0x0F30 [0x01] GOTO 0x0F54
+     0x0F33 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x0F48
+     0x0F3B [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x0F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0F42 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0F45 [0x01] GOTO 0x0F54
+     0x0F48 [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x0F54
+     0x0F50 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x0F53 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0F54 [0x01] GOTO 0x0F5A
+     0x0F57 [0x1A] CALL_SUBROUTINE(address=0x158F)
+     0x0F5A [0x01] GOTO 0x0FAA
+     0x0F5D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0FA9
+     0x0F65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0F76 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x0F85 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x0F88 [0x46] CAMERA_CONTROL: Restore default settings
+     0x0F8A [0xAE] MULTI_PURPOSE_ENTITY_HANDLER(case_type=0x00 - Weather, param1=2*, param2=1*)
+     0x0F90 [0x1C] WAIT(60* ticks)
+     0x0F93 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x0FA4 [0x21] END_EVENT
+     0x0FA5 [0x1B] RETURN
+     0x0FA6 [0x01] GOTO 0x0FAA
+     0x0FA9 [0x1B] RETURN
+     0x0FAA [0x01] GOTO 0x1187
+     0x0FAD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
+     0x0FB2 [0x24] CREATE_DIALOG(message_id=8975*, default_option=0*, option_flags=0*)
+    → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: None./Start race./Quit./Return.]"
+     0x0FB9 [0x25] WAIT_DIALOG_SELECT()
+     0x0FBA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FDF
+     0x0FC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8976*)
+    → "Here is the information on the next race:"
+     0x0FC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0FC6 [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x0FC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0FCA [0x48] [System] [8978*]:
+    → "$26Free Run$26 Chocobos: 8 Objective: None"
+     0x0FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0FCE [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x0FD1 [0x48] [System] [8979*]:
+    → "While free runs usually have no specific objectives, the higher your chocobo places, the better the prize you will receive. We suggest you use these races to improve your skills before embarking on the more difficult official races."
+     0x0FD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0FD5 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x0FD8 [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x0FDB [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0FDC [0x01] GOTO 0x1187
+     0x0FDF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0FED
+     0x0FE7 [0x1A] CALL_SUBROUTINE(address=0x1866)
+     0x0FEA [0x01] GOTO 0x1187
+     0x0FED [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0FFB
+     0x0FF5 [0x1A] CALL_SUBROUTINE(address=0x1DC5)
+     0x0FF8 [0x01] GOTO 0x1187
+     0x0FFB [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1009
+     0x1003 [0x1A] CALL_SUBROUTINE(address=0x1EE0)
+     0x1006 [0x01] GOTO 0x1187
+     0x1009 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x113A
+     0x1011 [0x03] Work_Zone[1] = 258*
+     0x1016 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1018 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x101A [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1134
+     0x1022 [0x03] ExtData[1]->WorkLocal[25] = 4294967295*
+     0x1027 [0x03] Work_Zone[55] = 1*
+     0x102C [0x1A] CALL_SUBROUTINE(address=0x15D8)
+     0x102F [0x02] IF !(Work_Zone[9] == 4294967291*) GOTO 0x1116
+     0x1037 [0x03] Work_Zone[37] = Work_Zone[6]
+     0x103C [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[7]
+     0x1041 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
+     0x1046 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x1069
+     0x104E [0x03] Work_Zone[2] = Work_Zone[6]
+     0x1053 [0x48] [System] [8704*]:
+    → "$0"
+     0x1056 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1057 [0x03] Work_Zone[2] = Work_Zone[7]
+     0x105C [0x48] [System] [8704*]:
+    → "$0"
+     0x105F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1060 [0x03] Work_Zone[2] = Work_Zone[8]
+     0x1065 [0x48] [System] [8704*]:
+    → "$0"
+     0x1068 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1069 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+    → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
+     0x1070 [0x25] WAIT_DIALOG_SELECT()
+     0x1071 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10A2
+     0x1079 [0x03] ExtData[1]->WorkLocal[31] = 1*
+     0x107E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x108F [0x1C] WAIT(60* ticks)
+     0x1092 [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
+     0x109B [0x48] [System] [9434*]:
+    → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
+     0x109E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x109F [0x01] GOTO 0x10BB
+     0x10A2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x10BB
+     0x10AA [0x03] ExtData[1]->WorkLocal[31] = 0*
+     0x10AF [0x1A] CALL_SUBROUTINE(address=0x1FB7)
+     0x10B2 [0x1A] CALL_SUBROUTINE(address=0x1B4D)
+     0x10B5 [0x1C] WAIT(60* ticks)
+     0x10B8 [0x01] GOTO 0x10BB
+     0x10BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x10CC [0x1C] WAIT(60* ticks)
+     0x10CF [0x1A] CALL_SUBROUTINE(address=0x21D7)
+     0x10D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x10E3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x10F2 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x10F5 [0x46] CAMERA_CONTROL: Restore default settings
+     0x10F7 [0xAE] MULTI_PURPOSE_ENTITY_HANDLER(case_type=0x00 - Weather, param1=2*, param2=1*)
+     0x10FD [0x1C] WAIT(60* ticks)
+     0x1100 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1111 [0x21] END_EVENT
+     0x1112 [0x00] END_REQSTACK()
+     0x1113 [0x01] GOTO 0x1131
+     0x1116 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x1125
+     0x111E [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x1121 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1122 [0x01] GOTO 0x1131
+     0x1125 [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x1131
+     0x112D [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x1130 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1131 [0x01] GOTO 0x1137
+     0x1134 [0x1A] CALL_SUBROUTINE(address=0x158F)
+     0x1137 [0x01] GOTO 0x1187
+     0x113A [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1186
+     0x1142 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1153 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1162 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x1165 [0x46] CAMERA_CONTROL: Restore default settings
+     0x1167 [0xAE] MULTI_PURPOSE_ENTITY_HANDLER(case_type=0x00 - Weather, param1=2*, param2=1*)
+     0x116D [0x1C] WAIT(60* ticks)
+     0x1170 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1181 [0x21] END_EVENT
+     0x1182 [0x1B] RETURN
+     0x1183 [0x01] GOTO 0x1187
+     0x1186 [0x1B] RETURN
+     0x1187 [0x01] GOTO 0x0DAA
+     0x118A [0x1B] RETURN
+     0x118B [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1196
+     0x1193 [0x01] GOTO 0x1200
+     0x1196 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x158E
+     0x119E [0x1A] CALL_SUBROUTINE(address=0x0634)
+     0x11A1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x139E
+     0x11A9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
+     0x11AE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
+     0x11B3 [0x24] CREATE_DIALOG(message_id=8974*, default_option=0*, option_flags=0*)
+    → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: $1./Start race./Quit./Return.]"
+     0x11BA [0x25] WAIT_DIALOG_SELECT()
+     0x11BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11C9
+     0x11C3 [0x1A] CALL_SUBROUTINE(address=0x164C)
+     0x11C6 [0x01] GOTO 0x139B
+     0x11C9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x11DC
+     0x11D1 [0x03] ExtData[1]->WorkLocal[28] = 0*
+     0x11D6 [0x1A] CALL_SUBROUTINE(address=0x1736)
+     0x11D9 [0x01] GOTO 0x139B
+     0x11DC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x11EA
+     0x11E4 [0x1A] CALL_SUBROUTINE(address=0x1DC5)
+     0x11E7 [0x01] GOTO 0x139B
+     0x11EA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x11F8
+     0x11F2 [0x1A] CALL_SUBROUTINE(address=0x1EE0)
+     0x11F5 [0x01] GOTO 0x139B
+     0x11F8 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1354
+     0x1200 [0x03] Work_Zone[1] = 514*
+     0x1205 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[25])
+     0x120E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1210 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1212 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x134E
+     0x121A [0x03] Work_Zone[55] = 0*
+     0x121F [0x1A] CALL_SUBROUTINE(address=0x15D8)
+     0x1222 [0x02] IF !(Work_Zone[9] == 4294967291*) GOTO 0x1330
+     0x122A [0x03] Work_Zone[37] = Work_Zone[6]
+     0x122F [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[7]
+     0x1234 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
+     0x1239 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x125C
+     0x1241 [0x03] Work_Zone[2] = Work_Zone[6]
+     0x1246 [0x48] [System] [8704*]:
+    → "$0"
+     0x1249 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x124A [0x03] Work_Zone[2] = Work_Zone[7]
+     0x124F [0x48] [System] [8704*]:
+    → "$0"
+     0x1252 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1253 [0x03] Work_Zone[2] = Work_Zone[8]
+     0x1258 [0x48] [System] [8704*]:
+    → "$0"
+     0x125B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x125C [0x02] IF !(ExtData[1]->WorkLocal[25] > ExtData[1]->WorkLocal[8]) GOTO 0x12CD
+     0x1264 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+    → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
+     0x126B [0x25] WAIT_DIALOG_SELECT()
+     0x126C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x129D
+     0x1274 [0x03] ExtData[1]->WorkLocal[31] = 1*
+     0x1279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x128A [0x1C] WAIT(60* ticks)
+     0x128D [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
+     0x1296 [0x48] [System] [9434*]:
+    → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
+     0x1299 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x129A [0x01] GOTO 0x12B6
+     0x129D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x12B6
+     0x12A5 [0x03] ExtData[1]->WorkLocal[31] = 0*
+     0x12AA [0x1A] CALL_SUBROUTINE(address=0x1FB7)
+     0x12AD [0x1A] CALL_SUBROUTINE(address=0x1B4D)
+     0x12B0 [0x1C] WAIT(60* ticks)
+     0x12B3 [0x01] GOTO 0x12B6
+     0x12B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x12C7 [0x1C] WAIT(60* ticks)
+     0x12CA [0x01] GOTO 0x12EF
+     0x12CD [0x03] ExtData[1]->WorkLocal[31] = 0*
+     0x12D2 [0x1A] CALL_SUBROUTINE(address=0x1FB7)
+     0x12D5 [0x1A] CALL_SUBROUTINE(address=0x1B4D)
+     0x12D8 [0x1C] WAIT(60* ticks)
+     0x12DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x12EC [0x1C] WAIT(60* ticks)
+     0x12EF [0x1A] CALL_SUBROUTINE(address=0x21D7)
+     0x12F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1303 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1312 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x1315 [0x46] CAMERA_CONTROL: Restore default settings
+     0x1317 [0x1C] WAIT(60* ticks)
+     0x131A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x132B [0x21] END_EVENT
+     0x132C [0x00] END_REQSTACK()
+     0x132D [0x01] GOTO 0x134B
+     0x1330 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x133F
+     0x1338 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x133B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x133C [0x01] GOTO 0x134B
+     0x133F [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x134B
+     0x1347 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x134A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x134B [0x01] GOTO 0x1351
+     0x134E [0x1A] CALL_SUBROUTINE(address=0x158F)
+     0x1351 [0x01] GOTO 0x139B
+     0x1354 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x139A
+     0x135C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x136D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x137C [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x137F [0x46] CAMERA_CONTROL: Restore default settings
+     0x1381 [0x1C] WAIT(60* ticks)
+     0x1384 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1395 [0x21] END_EVENT
+     0x1396 [0x1B] RETURN
+     0x1397 [0x01] GOTO 0x139B
+     0x139A [0x1B] RETURN
+     0x139B [0x01] GOTO 0x158B
+     0x139E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
+     0x13A3 [0x24] CREATE_DIALOG(message_id=8975*, default_option=0*, option_flags=0*)
+    → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: None./Start race./Quit./Return.]"
+     0x13AA [0x25] WAIT_DIALOG_SELECT()
+     0x13AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13B9
+     0x13B3 [0x1A] CALL_SUBROUTINE(address=0x164C)
+     0x13B6 [0x01] GOTO 0x158B
+     0x13B9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x13CC
+     0x13C1 [0x03] ExtData[1]->WorkLocal[28] = 0*
+     0x13C6 [0x1A] CALL_SUBROUTINE(address=0x1736)
+     0x13C9 [0x01] GOTO 0x158B
+     0x13CC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x13DA
+     0x13D4 [0x1A] CALL_SUBROUTINE(address=0x1DC5)
+     0x13D7 [0x01] GOTO 0x158B
+     0x13DA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x13E8
+     0x13E2 [0x1A] CALL_SUBROUTINE(address=0x1EE0)
+     0x13E5 [0x01] GOTO 0x158B
+     0x13E8 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1544
+     0x13F0 [0x03] Work_Zone[1] = 514*
+     0x13F5 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[25])
+     0x13FE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1400 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1402 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x153E
+     0x140A [0x03] Work_Zone[55] = 0*
+     0x140F [0x1A] CALL_SUBROUTINE(address=0x15D8)
+     0x1412 [0x02] IF !(Work_Zone[9] == 4294967291*) GOTO 0x1520
+     0x141A [0x03] Work_Zone[37] = Work_Zone[6]
+     0x141F [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[7]
+     0x1424 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
+     0x1429 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x144C
+     0x1431 [0x03] Work_Zone[2] = Work_Zone[6]
+     0x1436 [0x48] [System] [8704*]:
+    → "$0"
+     0x1439 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x143A [0x03] Work_Zone[2] = Work_Zone[7]
+     0x143F [0x48] [System] [8704*]:
+    → "$0"
+     0x1442 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1443 [0x03] Work_Zone[2] = Work_Zone[8]
+     0x1448 [0x48] [System] [8704*]:
+    → "$0"
+     0x144B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x144C [0x02] IF !(ExtData[1]->WorkLocal[25] > ExtData[1]->WorkLocal[8]) GOTO 0x14BD
+     0x1454 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+    → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
+     0x145B [0x25] WAIT_DIALOG_SELECT()
+     0x145C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x148D
+     0x1464 [0x03] ExtData[1]->WorkLocal[31] = 1*
+     0x1469 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x147A [0x1C] WAIT(60* ticks)
+     0x147D [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
+     0x1486 [0x48] [System] [9434*]:
+    → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
+     0x1489 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x148A [0x01] GOTO 0x14A6
+     0x148D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x14A6
+     0x1495 [0x03] ExtData[1]->WorkLocal[31] = 0*
+     0x149A [0x1A] CALL_SUBROUTINE(address=0x1FB7)
+     0x149D [0x1A] CALL_SUBROUTINE(address=0x1B4D)
+     0x14A0 [0x1C] WAIT(60* ticks)
+     0x14A3 [0x01] GOTO 0x14A6
+     0x14A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x14B7 [0x1C] WAIT(60* ticks)
+     0x14BA [0x01] GOTO 0x14DF
+     0x14BD [0x03] ExtData[1]->WorkLocal[31] = 0*
+     0x14C2 [0x1A] CALL_SUBROUTINE(address=0x1FB7)
+     0x14C5 [0x1A] CALL_SUBROUTINE(address=0x1B4D)
+     0x14C8 [0x1C] WAIT(60* ticks)
+     0x14CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x14DC [0x1C] WAIT(60* ticks)
+     0x14DF [0x1A] CALL_SUBROUTINE(address=0x21D7)
+     0x14E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x14F3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1502 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x1505 [0x46] CAMERA_CONTROL: Restore default settings
+     0x1507 [0x1C] WAIT(60* ticks)
+     0x150A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x151B [0x21] END_EVENT
+     0x151C [0x00] END_REQSTACK()
+     0x151D [0x01] GOTO 0x153B
+     0x1520 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x152F
+     0x1528 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x152B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x152C [0x01] GOTO 0x153B
+     0x152F [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x153B
+     0x1537 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x153A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x153B [0x01] GOTO 0x1541
+     0x153E [0x1A] CALL_SUBROUTINE(address=0x158F)
+     0x1541 [0x01] GOTO 0x158B
+     0x1544 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x158A
+     0x154C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x155D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x156C [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x156F [0x46] CAMERA_CONTROL: Restore default settings
+     0x1571 [0x1C] WAIT(60* ticks)
+     0x1574 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1585 [0x21] END_EVENT
+     0x1586 [0x1B] RETURN
+     0x1587 [0x01] GOTO 0x158B
+     0x158A [0x1B] RETURN
+     0x158B [0x01] GOTO 0x1196
+     0x158E [0x1B] RETURN
+     0x158F [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x15A1
+     0x1597 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x159A [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+    → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
+     0x159D [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x159E [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x15A1 [0x02] IF !(Work_Zone[9] == 4294967294*) GOTO 0x15B3
+     0x15A9 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x15AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
+    → "I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race."
+     0x15AF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x15B0 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x15B3 [0x02] IF !(Work_Zone[9] == 4294967289*) GOTO 0x15C5
+     0x15BB [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x15BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+    → "I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race."
+     0x15C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x15C2 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x15C5 [0x02] IF !(Work_Zone[9] == 4294967293*) GOTO 0x15D7
+     0x15CD [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x15D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+    → "I'm sorry. The other chocobos have not finished resting. Please come back a little later."
+     0x15D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x15D4 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x15D7 [0x1B] RETURN
+     0x15D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
+    → "One moment please while entries are confirmed with CRA headquarters."
+     0x15DB [0x06] ExtData[1]->WorkLocal[23] = 0
+     0x15DE [0x03] Work_Zone[9] = 4294967292*
+     0x15E3 [0x02] IF !(ExtData[1]->WorkLocal[23] > 30*) GOTO 0x161F
+     0x15EB [0x1C] WAIT(60* ticks)
+     0x15EE [0x03] Work_Zone[1] = 5*
+     0x15F3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x15F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x15F7 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x1602
+     0x15FF [0x0B] ExtData[1]->WorkLocal[23]++
+     0x1602 [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x160F
+     0x160A [0x03] ExtData[1]->WorkLocal[23] = 31*
+     0x160F [0x02] IF !(Work_Zone[9] == 4294967291*) GOTO 0x161C
+     0x1617 [0x03] ExtData[1]->WorkLocal[23] = 31*
+     0x161C [0x01] GOTO 0x15E3
+     0x161F [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x164B
+     0x1627 [0x03] Work_Zone[2] = Work_Zone[6]
+     0x162C [0x48] [System] [8704*]:
+    → "$0"
+     0x162F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1630 [0x03] Work_Zone[2] = Work_Zone[7]
+     0x1635 [0x48] [System] [8704*]:
+    → "$0"
+     0x1638 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1639 [0x03] Work_Zone[2] = Work_Zone[8]
+     0x163E [0x48] [System] [8704*]:
+    → "$0"
+     0x1641 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1642 [0x03] Work_Zone[2] = Work_Zone[9]
+     0x1647 [0x48] [System] [8704*]:
+    → "$0"
+     0x164A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x164B [0x1B] RETURN
+     0x164C [0x1D] PRINT_EVENT_MESSAGE(message_id=8980*)
+    → "Here is the information on the next race:"
+     0x164F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1650 [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x1653 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1654 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+     0x1659 [0x08] Work_Zone[2] -= 1*
+     0x165E [0x1A] CALL_SUBROUTINE(address=0x16B5)
+     0x1661 [0x03] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[25]
+     0x1666 [0x0C] ExtData[1]->WorkLocal[13]--
+     0x1669 [0x9D] Work_Zone[2] = 0x2371[ExtData[1]->WorkLocal[13]] // Read WORD
+     0x1671 [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x1674 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1675 [0x1B] RETURN
+     0x1676 [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x1679 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x167A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+     0x167F [0x08] Work_Zone[2] -= 1*
+     0x1684 [0x1A] CALL_SUBROUTINE(address=0x16B5)
+     0x1687 [0x03] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[25]
+     0x168C [0x0C] ExtData[1]->WorkLocal[13]--
+     0x168F [0x9D] Work_Zone[2] = 0x23B1[ExtData[1]->WorkLocal[13]] // Read WORD
+     0x1697 [0x48] [System] [8997*]:
+    → "Participation fee: $0 [chocobuck/chocobucks]."
+     0x169A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x169B [0x48] [System] [8977*]:
+    → "----------------------------------------"
+     0x169E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x169F [0x02] IF !(Work_Zone[2] > ExtData[1]->WorkLocal[1]) GOTO 0x16AD
+     0x16A7 [0x06] Work_Zone[2] = 0
+     0x16AA [0x01] GOTO 0x16B4
+     0x16AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+    → "I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race."
+     0x16B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16B1 [0x05] Work_Zone[2] = 1
+     0x16B4 [0x1B] RETURN
+     0x16B5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x16C5
+     0x16BD [0x48] [System] [8981*]:
+    → "$26Novice Race I$26 Chocobos: 4 Objective: Place 3rd or higher"
+     0x16C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16C1 [0x48] [System] [8982*]:
+    → "Use this race to learn the ropes. Try not to worry too much about the other chocobos, and concentrate on discovering your bird's strengths and weaknesses."
+     0x16C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16C5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 2*) GOTO 0x16D5
+     0x16CD [0x48] [System] [8983*]:
+    → "$26Novice Race II$26 Chocobos: 6 Objective: Place 3rd or higher"
+     0x16D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16D1 [0x48] [System] [8984*]:
+    → "This time, your chocobo will be pitted against five opponents. Use your knowledge of your bird's strengths to provide the jockey with the most appropriate orders."
+     0x16D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16D5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 3*) GOTO 0x16E5
+     0x16DD [0x48] [System] [8985*]:
+    → "$26Novice Race III$26 Chocobos: 8 Objective: Place 3rd or higher"
+     0x16E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16E1 [0x48] [System] [8986*]:
+    → "This race is quite similar to a free run in that there will be seven other chocobos racing against you. If you have one available, try equipping an item to improve your bird's performance."
+     0x16E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16E5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 4*) GOTO 0x16F5
+     0x16ED [0x48] [System] [8987*]:
+    → "$26Challenge Race I$26 Chocobos: 2 Objective: Place 1st"
+     0x16F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16F1 [0x48] [System] [8988*]:
+    → "Three of our most revered breeders have heard of your success and wish to challenge you in a head-to-head match."
+     0x16F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16F5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 5*) GOTO 0x1705
+     0x16FD [0x48] [System] [8989*]:
+    → "$26International Race I$26 Chocobos: 8 Objective: Place 3rd or higher"
+     0x1700 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1701 [0x48] [System] [8990*]:
+    → "The [Bastok/Windurst/San d'Oria] racing team has requested your participation in a nationally sponsored match. The pride of our branch is at stake, <Player>!"
+     0x1704 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1705 [0x02] IF !(ExtData[1]->WorkLocal[25] == 6*) GOTO 0x1715
+     0x170D [0x48] [System] [8991*]:
+    → "$26International Race II$26 Chocobos: 8 Objective: Place 3rd or higher"
+     0x1710 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1711 [0x48] [System] [8992*]:
+    → "The [Windurst/San d'Oria/Bastok] racing team has requested your participation in a nationally sponsored match. You represented us well last time, <Player>. We're counting on you again!"
+     0x1714 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1715 [0x02] IF !(ExtData[1]->WorkLocal[25] == 7*) GOTO 0x1725
+     0x171D [0x48] [System] [8993*]:
+    → "$26Challenge Race II$26 Chocobos: 3 Objective: Place 1st"
+     0x1720 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1721 [0x48] [System] [8994*]:
+    → "The challengers you defeated previously have requested a rematch. Also, [Hantileon/Zopago/Pulonono] has expressed interest in this race, and would like to participate as well."
+     0x1724 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1725 [0x02] IF !(ExtData[1]->WorkLocal[25] == 8*) GOTO 0x1735
+     0x172D [0x48] [System] [8995*]:
+    → "$26CRA Classic$26 Chocobos: 8 Objective: Place 1st"
+     0x1730 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1731 [0x48] [System] [8996*]:
+    → "The title of "fastest chocobo in the [Kingdom/Republic/Federation]" is up for grabs at the [d'Oraguille Victory Malm/Gustaberg Derby/Rakapopo Cup] sponsored by [the king himself/the president himself/Manustery minister Apururu herself]!"
+     0x1734 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1735 [0x1B] RETURN
+     0x1736 [0x03] ExtData[1]->WorkLocal[32] = 0*
+     0x173B [0x03] ExtData[1]->WorkLocal[28] = 0*
+     0x1740 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
+     0x1745 [0x08] Work_Zone[2] -= 1*
+     0x174A [0x9D] Work_Zone[2] = 0x25B1[Work_Zone[2]] // Read WORD
+     0x1752 [0x03] ExtData[1]->WorkLocal[24] = 4294967295*
+     0x1757 [0x06] Work_Zone[3] = 0
+     0x175A [0x02] IF !(Work_Zone[3] >= Work_Zone[2]) GOTO 0x176F
+     0x1762 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=Work_Zone[3], condition_work_offset=1*)
+     0x1769 [0x0B] Work_Zone[3]++
+     0x176C [0x01] GOTO 0x175A
+     0x176F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1776 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x177D [0x06] ExtData[1]->WorkLocal[23] = 0
+     0x1780 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x1865
+     0x1788 [0x24] CREATE_DIALOG(message_id=8998*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
+    → "Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
+     0x178F [0x25] WAIT_DIALOG_SELECT()
+     0x1790 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17A3
+     0x1798 [0x03] ExtData[1]->WorkLocal[30] = 1*
+     0x179D [0x1A] CALL_SUBROUTINE(address=0x0926)
+     0x17A0 [0x01] GOTO 0x1862
+     0x17A3 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x17F6
+     0x17AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x17BC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x17CB [0x7A] VM_CONTROL: Reset VM for cameraA (ID: 17063976/0x01046028)
+     0x17D1 [0x27] REQ_SET(priority=0x05, entity_id=cameraA (ID: 17063976/0x01046028), tag_num=0x08)
+     0x17D8 [0x1A] CALL_SUBROUTINE(address=0x1B49)
+     0x17DB [0x46] CAMERA_CONTROL: Restore default settings
+     0x17DD [0x1C] WAIT(60* ticks)
+     0x17E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x17F1 [0x21] END_EVENT
+     0x17F2 [0x1B] RETURN
+     0x17F3 [0x01] GOTO 0x1862
+     0x17F6 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x185A
+     0x17FE [0x02] IF !(ExtData[1]->WorkLocal[32] == 1*) GOTO 0x1856
+     0x1806 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1817 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1826 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17063978/0x0104602A)
+     0x182C [0x2F] Unnamed NPC (ID: 17063978/0x0104602A)->Render.Flags0 |= 0x80000 // Bit 19
+     0x1832 [0x7A] VM_CONTROL: Reset VM for cameraA (ID: 17063976/0x01046028)
+     0x1838 [0x27] REQ_SET(priority=0x05, entity_id=cameraA (ID: 17063976/0x01046028), tag_num=0x08)
+     0x183F [0x1A] CALL_SUBROUTINE(address=0x1B49)
+     0x1842 [0x1C] WAIT(15* ticks)
+     0x1845 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1856 [0x1B] RETURN
+     0x1857 [0x01] GOTO 0x1862
+     0x185A [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[0]
+     0x185F [0x1A] CALL_SUBROUTINE(address=0x1961)
+     0x1862 [0x01] GOTO 0x1780
+     0x1865 [0x1B] RETURN
+     0x1866 [0x03] ExtData[1]->WorkLocal[28] = 0*
+     0x186B [0x03] ExtData[1]->WorkLocal[32] = 0*
+     0x1870 [0x06] ExtData[1]->WorkLocal[23] = 0
+     0x1873 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x1958
+     0x187B [0x24] CREATE_DIALOG(message_id=8998*, default_option=0*, option_flags=0*)
+    → "Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
+     0x1882 [0x25] WAIT_DIALOG_SELECT()
+     0x1883 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1896
+     0x188B [0x03] ExtData[1]->WorkLocal[30] = 1*
+     0x1890 [0x1A] CALL_SUBROUTINE(address=0x0926)
+     0x1893 [0x01] GOTO 0x1955
+     0x1896 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x18E9
+     0x189E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x18AF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x18BE [0x7A] VM_CONTROL: Reset VM for cameraA (ID: 17063976/0x01046028)
+     0x18C4 [0x27] REQ_SET(priority=0x05, entity_id=cameraA (ID: 17063976/0x01046028), tag_num=0x08)
+     0x18CB [0x1A] CALL_SUBROUTINE(address=0x1B49)
+     0x18CE [0x46] CAMERA_CONTROL: Restore default settings
+     0x18D0 [0x1C] WAIT(60* ticks)
+     0x18D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x18E4 [0x21] END_EVENT
+     0x18E5 [0x1B] RETURN
+     0x18E6 [0x01] GOTO 0x1955
+     0x18E9 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x194D
+     0x18F1 [0x02] IF !(ExtData[1]->WorkLocal[32] == 1*) GOTO 0x1949
+     0x18F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x190A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1919 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17063978/0x0104602A)
+     0x191F [0x2F] Unnamed NPC (ID: 17063978/0x0104602A)->Render.Flags0 |= 0x80000 // Bit 19
+     0x1925 [0x7A] VM_CONTROL: Reset VM for cameraA (ID: 17063976/0x01046028)
+     0x192B [0x27] REQ_SET(priority=0x05, entity_id=cameraA (ID: 17063976/0x01046028), tag_num=0x08)
+     0x1932 [0x1A] CALL_SUBROUTINE(address=0x1B49)
+     0x1935 [0x1C] WAIT(15* ticks)
+     0x1938 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1949 [0x1B] RETURN
+     0x194A [0x01] GOTO 0x1955
+     0x194D [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[0]
+     0x1952 [0x1A] CALL_SUBROUTINE(address=0x1959)
+     0x1955 [0x01] GOTO 0x1873
+     0x1958 [0x1B] RETURN
+     0x1959 [0x03] ExtData[1]->WorkLocal[14] = 7*
+     0x195E [0x01] GOTO 0x1966
+     0x1961 [0x03] ExtData[1]->WorkLocal[14] = 8*
+     0x1966 [0x6A] CHANGE_SOUND_VOLUME: Set (Effects/System/Zone/Master)* volume to 0*, fade_time=30*
+     0x196D [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x1975
+     0x1975 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1986 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1995 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x1998 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
+     0x199E [0x2F] Unnamed NPC (ID: 17063978/0x0104602A)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x19A4 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17063978/0x0104602A)
+     0x19AA [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x19BF
+     0x19B2 [0x03] ExtData[1]->WorkLocal[32] = 1*
+     0x19B7 [0x34] LOAD_UNLOAD_ZONE(zone_id=116*)
+     0x19BA [0x77] SET_EVENT_TIME_WEATHER(hour=12*, weather=0*)
+     0x19BF [0x0C] ExtData[1]->WorkLocal[13]--
+     0x19C2 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[13]
+     0x19C7 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[14]
+     0x19CC [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[13])
+     0x19D5 [0x03] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[25]
+     0x19DA [0x0C] ExtData[1]->WorkLocal[13]--
+     0x19DD [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[13])
+     0x19E6 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x19E8 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x19EA [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
+     0x19EF [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[3]
+     0x19F4 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[4]
+     0x19F9 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[5]
+     0x19FE [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[6]
+     0x1A03 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[14] (bits 28*-30*)
+     0x1A0C [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[14] (bits 25*-27*)
+     0x1A15 [0x3E] IF !(ExtData[1]->WorkLocal[13] bit 16*) GOTO 0x1A24
+     0x1A1C [0x03] Work_Zone[4] = 1*
+     0x1A21 [0x01] GOTO 0x1A27
+     0x1A24 [0x06] Work_Zone[4] = 0
+     0x1A27 [0x3E] IF !(ExtData[1]->WorkLocal[13] bit 0*) GOTO 0x1A36
+     0x1A2E [0x03] Work_Zone[5] = 1*
+     0x1A33 [0x01] GOTO 0x1A39
+     0x1A36 [0x06] Work_Zone[5] = 0
+     0x1A39 [0x3E] IF !(ExtData[1]->WorkLocal[13] bit 8*) GOTO 0x1A48
+     0x1A40 [0x03] Work_Zone[6] = 1*
+     0x1A45 [0x01] GOTO 0x1A4B
+     0x1A48 [0x06] Work_Zone[6] = 0
+     0x1A4B [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17063978/0x0104602A), tag_num=0x05)
+     0x1A52 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Unnamed NPC (ID: 17063978/0x0104602A))
+     0x1A58 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
+     0x1A5D [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[14] (bits 24*-24*)
+     0x1A66 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[14] (bits 17*-19*)
+     0x1A6F [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[15]
+     0x1A74 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[60], string_index=1*)
+     0x1A7A [0x03] Work_Zone[64] = Work_Zone[4]
+     0x1A7F [0xC3] COPY_STRING_TO_ARRAY(array_index=0x800E, string_value=0x103C, additional_value=0x1040)
+     0x1A86 [0x03] Work_Zone[57] = 0*
+     0x1A8B [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17063978/0x0104602A)
+     0x1A91 [0x03] Work_Zone[56] = Work_Zone[5]
+     0x1A96 [0x03] Work_Zone[57] = 1*
+     0x1A9B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17063978/0x0104602A), tag_num=0x07)
+     0x1AA2 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17063978/0x0104602A))
+     0x1AA7 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17063978/0x0104602A), tag_num=0x08)
+     0x1AAE [0x1C] WAIT(15* ticks)
+     0x1AB1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1AC2 [0x1C] WAIT(60* ticks)
+     0x1AC5 [0x6A] CHANGE_SOUND_VOLUME: Set (Effects/System/Zone/Master)* volume to 999*, fade_time=15*
+     0x1ACC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[20]
+     0x1AD1 [0x07] Work_Zone[5] += 2*
+     0x1AD6 [0x03] Work_Zone[3] = 1*
+     0x1ADB [0x48] [System] [9001*]:
+    → "Entry No. $3 $1 ` Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep pace/Final spurt]"
+     0x1ADE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1ADF [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[13] (bits 0*-7*)
+     0x1AE8 [0x15] Work_Zone[2] /= 32*
+     0x1AED [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[13] (bits 8*-15*)
+     0x1AF6 [0x15] Work_Zone[3] /= 32*
+     0x1AFB [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[13] (bits 16*-23*)
+     0x1B04 [0x15] Work_Zone[4] /= 32*
+     0x1B09 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[13] (bits 24*-31*)
+     0x1B12 [0x15] Work_Zone[5] /= 32*
+     0x1B17 [0x48] [System] [9002*]:
+    → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
+     0x1B1A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1B1B [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[14] (bits 20*-23*)
+     0x1B24 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[14] (bits 9*-12*)
+     0x1B2D [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[14] (bits 13*-16*)
+     0x1B36 [0x48] [System] [9003*]:
+    → "Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]"
+     0x1B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1B3A [0x03] Work_Zone[57] = 0*
+     0x1B3F [0x2A] GET_REQ_LEVEL(level=128, entity_id=Unnamed NPC (ID: 17063978/0x0104602A))
+     0x1B45 [0x06] ExtData[1]->WorkLocal[23] = 0
+     0x1B48 [0x1B] RETURN
+     0x1B49 [0x1A] CALL_SUBROUTINE(address=0x1B4D)
+     0x1B4C [0x1B] RETURN
+     0x1B4D [0x35] LOAD_ZONE_NO_CLOSE(zone_id=70*)
+     0x1B50 [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+     0x1B51 [0x1C] WAIT(1* ticks)
+     0x1B54 [0x02] IF !(0* == 0*) GOTO 0x1BA5
+     0x1B5C [0x4E] SET_ENTITY_HIDE_FLAG: Show Alangriche (ID: 17063941/0x01046005)
+     0x1B62 [0x80] LOAD_WAIT(entity=Alangriche (ID: 17063941/0x01046005))
+     0x1B67 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+     0x1B6D [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-496.759*, pos_z=-369.055*, pos_y=-0.015*, direction=181.9°*)
+     0x1B7A [0x80] LOAD_WAIT(entity=LocalPlayer)
+     0x1B7F [0x4A] LocalPlayer looks at Alangriche (ID: 17063941/0x01046005)
+     0x1B88 [0x4A] Alangriche (ID: 17063941/0x01046005) looks at LocalPlayer
+     0x1B91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[532*, 0*]
+     0x1BA2 [0x01] GOTO 0x1C47
+     0x1BA5 [0x02] IF !(0* == 1*) GOTO 0x1BF6
+     0x1BAD [0x4E] SET_ENTITY_HIDE_FLAG: Show Jazgeh (ID: 17063943/0x01046007)
+     0x1BB3 [0x80] LOAD_WAIT(entity=Jazgeh (ID: 17063943/0x01046007))
+     0x1BB8 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+     0x1BBE [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-502.246*, pos_z=-532.366*, pos_y=-0.015*, direction=38.1°*)
+     0x1BCB [0x80] LOAD_WAIT(entity=LocalPlayer)
+     0x1BD0 [0x4A] LocalPlayer looks at Jazgeh (ID: 17063943/0x01046007)
+     0x1BD9 [0x4A] Jazgeh (ID: 17063943/0x01046007) looks at LocalPlayer
+     0x1BE2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[532*, 0*]
+     0x1BF3 [0x01] GOTO 0x1C47
+     0x1BF6 [0x02] IF !(0* == 2*) GOTO 0x1C47
+     0x1BFE [0x4E] SET_ENTITY_HIDE_FLAG: Show Rungaga (ID: 17063945/0x01046009)
+     0x1C04 [0x80] LOAD_WAIT(entity=Rungaga (ID: 17063945/0x01046009))
+     0x1C09 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+     0x1C0F [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-138.137*, pos_z=-535.548*, pos_y=-0.017*, direction=86.6°*)
+     0x1C1C [0x80] LOAD_WAIT(entity=LocalPlayer)
+     0x1C21 [0x4A] LocalPlayer looks at Rungaga (ID: 17063945/0x01046009)
+     0x1C2A [0x4A] Rungaga (ID: 17063945/0x01046009) looks at LocalPlayer
+     0x1C33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=[532*, 0*]
+     0x1C44 [0x01] GOTO 0x1C47
+     0x1C47 [0x1B] RETURN
+     0x1C48 [0x35] LOAD_ZONE_NO_CLOSE(zone_id=70*)
+     0x1C4B [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+     0x1C4C [0x1C] WAIT(1* ticks)
+     0x1C4F [0x02] IF !(0* == 0*) GOTO 0x1CAD
+     0x1C57 [0xBA] SET_ENTITY_POSITION(entity_id=Lafaurelle (ID: 17063942/0x01046006), pos_x=-499.592*, pos_z=-366.550*, pos_y=0.000*, direction=0.0°*)
+     0x1C64 [0x4E] SET_ENTITY_HIDE_FLAG: Show Lafaurelle (ID: 17063942/0x01046006)
+     0x1C6A [0x80] LOAD_WAIT(entity=Lafaurelle (ID: 17063942/0x01046006))
+     0x1C6F [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+     0x1C75 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-496.859*, pos_z=-366.416*, pos_y=-0.012*, direction=171.8°*)
+     0x1C82 [0x80] LOAD_WAIT(entity=LocalPlayer)
+     0x1C87 [0x4A] LocalPlayer looks at Lafaurelle (ID: 17063942/0x01046006)
+     0x1C90 [0x4A] Lafaurelle (ID: 17063942/0x01046006) looks at LocalPlayer
+     0x1C99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=[532*, 0*]
+     0x1CAA [0x01] GOTO 0x1D69
+     0x1CAD [0x02] IF !(0* == 1*) GOTO 0x1D0B
+     0x1CB5 [0xBA] SET_ENTITY_POSITION(entity_id=Zagied (ID: 17063944/0x01046008), pos_x=-498.746*, pos_z=-532.790*, pos_y=0.000*, direction=225.0°*)
+     0x1CC2 [0x4E] SET_ENTITY_HIDE_FLAG: Show Zagied (ID: 17063944/0x01046008)
+     0x1CC8 [0x80] LOAD_WAIT(entity=Zagied (ID: 17063944/0x01046008))
+     0x1CCD [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+     0x1CD3 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-500.499*, pos_z=-530.872*, pos_y=-0.010*, direction=41.3°*)
+     0x1CE0 [0x80] LOAD_WAIT(entity=LocalPlayer)
+     0x1CE5 [0x4A] LocalPlayer looks at Zagied (ID: 17063944/0x01046008)
+     0x1CEE [0x4A] Zagied (ID: 17063944/0x01046008) looks at LocalPlayer
+     0x1CF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[532*, 0*]
+     0x1D08 [0x01] GOTO 0x1D69
+     0x1D0B [0x02] IF !(0* == 2*) GOTO 0x1D69
+     0x1D13 [0xBA] SET_ENTITY_POSITION(entity_id=Chualulu (ID: 17063946/0x0104600A), pos_x=-140.286*, pos_z=-537.476*, pos_y=-0.990*, direction=270.0°*)
+     0x1D20 [0x4E] SET_ENTITY_HIDE_FLAG: Show Chualulu (ID: 17063946/0x0104600A)
+     0x1D26 [0x80] LOAD_WAIT(entity=Chualulu (ID: 17063946/0x0104600A))
+     0x1D2B [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+     0x1D31 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-140.275*, pos_z=-535.660*, pos_y=-0.016*, direction=86.8°*)
+     0x1D3E [0x80] LOAD_WAIT(entity=LocalPlayer)
+     0x1D43 [0x4A] LocalPlayer looks at Chualulu (ID: 17063946/0x0104600A)
+     0x1D4C [0x4A] Chualulu (ID: 17063946/0x0104600A) looks at LocalPlayer
+     0x1D55 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=[532*, 0*]
+     0x1D66 [0x01] GOTO 0x1D69
+     0x1D69 [0x1B] RETURN
+     0x1D6A [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=532*
+     0x1D79 [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=532*
+     0x1D88 [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=532*
+     0x1D97 [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=532*
+     0x1DA6 [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=532*
+     0x1DB5 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=532*
+     0x1DC4 [0x1B] RETURN
+     0x1DC5 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x1EDF
+     0x1DCD [0x24] CREATE_DIALOG(message_id=9004*, default_option=0*, option_flags=0*)
+    → "Change orders to: [Sprint./Keep pace./Final spurt./Quit./Return.]"
+     0x1DD4 [0x25] WAIT_DIALOG_SELECT()
+     0x1DD5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E15
+     0x1DDD [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x1DE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9005*)
+    → "Sprint: Have the jockey push your chocobo to its limits from the get go."
+     0x1DE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1DE4 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x1DE7 [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+    → "Is this what you want? [Definitely./Not at all.]"
+     0x1DEE [0x25] WAIT_DIALOG_SELECT()
+     0x1DEF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E12
+     0x1DF7 [0x03] ExtData[1]->WorkLocal[5] = 0*
+     0x1DFC [0x03] Work_Zone[1] = 4*
+     0x1E01 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[5])
+     0x1E0A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1E0C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1E0E [0x1B] RETURN
+     0x1E0F [0x01] GOTO 0x1E12
+     0x1E12 [0x01] GOTO 0x1EDC
+     0x1E15 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1E55
+     0x1E1D [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x1E20 [0x1D] PRINT_EVENT_MESSAGE(message_id=9006*)
+    → "Keep pace: Have the jockey maintain a consistent pace throughout the whole race."
+     0x1E23 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1E24 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x1E27 [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+    → "Is this what you want? [Definitely./Not at all.]"
+     0x1E2E [0x25] WAIT_DIALOG_SELECT()
+     0x1E2F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E52
+     0x1E37 [0x03] ExtData[1]->WorkLocal[5] = 1*
+     0x1E3C [0x03] Work_Zone[1] = 4*
+     0x1E41 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[5])
+     0x1E4A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1E4C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1E4E [0x1B] RETURN
+     0x1E4F [0x01] GOTO 0x1E52
+     0x1E52 [0x01] GOTO 0x1EDC
+     0x1E55 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1E95
+     0x1E5D [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x1E60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9007*)
+    → "Final spurt: Have the jockey save your chocobo's energy until the end of the race."
+     0x1E63 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1E64 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x1E67 [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+    → "Is this what you want? [Definitely./Not at all.]"
+     0x1E6E [0x25] WAIT_DIALOG_SELECT()
+     0x1E6F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E92
+     0x1E77 [0x03] ExtData[1]->WorkLocal[5] = 2*
+     0x1E7C [0x03] Work_Zone[1] = 4*
+     0x1E81 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[5])
+     0x1E8A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1E8C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1E8E [0x1B] RETURN
+     0x1E8F [0x01] GOTO 0x1E92
+     0x1E92 [0x01] GOTO 0x1EDC
+     0x1E95 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1EDB
+     0x1E9D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1EAE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1EBD [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x1EC0 [0x46] CAMERA_CONTROL: Restore default settings
+     0x1EC2 [0x1C] WAIT(60* ticks)
+     0x1EC5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1ED6 [0x21] END_EVENT
+     0x1ED7 [0x1B] RETURN
+     0x1ED8 [0x01] GOTO 0x1EDC
+     0x1EDB [0x1B] RETURN
+     0x1EDC [0x01] GOTO 0x1DC5
+     0x1EDF [0x1B] RETURN
+     0x1EE0 [0x1A] CALL_SUBROUTINE(address=0x0B7F)
+     0x1EE3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1EEA [0x02] IF !(1* == 1*) GOTO 0x1FB3
+     0x1EF2 [0x24] CREATE_DIALOG(message_id=9009*, default_option=0*, option_flags=ExtData[1]->WorkLocal[13])
+    → "Equip which item? [Nothing./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]"
+     0x1EF9 [0x25] WAIT_DIALOG_SELECT()
+     0x1EFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F0B
+     0x1F02 [0x06] Work_Zone_1700[29] = 0
+     0x1F05 [0x01] GOTO 0x1F7B
+     0x1F08 [0x01] GOTO 0x1F63
+     0x1F0B [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x1F54
+     0x1F13 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x1F16 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1F27 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+     0x1F36 [0x1A] CALL_SUBROUTINE(address=0x1D6A)
+     0x1F39 [0x46] CAMERA_CONTROL: Restore default settings
+     0x1F3B [0x1C] WAIT(60* ticks)
+     0x1F3E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+     0x1F4F [0x21] END_EVENT
+     0x1F50 [0x1B] RETURN
+     0x1F51 [0x01] GOTO 0x1F63
+     0x1F54 [0x02] IF !(Work_Zone[0] == 32*) GOTO 0x1F63
+     0x1F5C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x1F5F [0x1B] RETURN
+     0x1F60 [0x01] GOTO 0x1F63
+     0x1F63 [0x9D] Work_Zone_1700[30] = 0x2571[Work_Zone[0]] // Read WORD
+     0x1F6B [0x03] Work_Zone_1700[29] = Work_Zone[0]
+     0x1F70 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[30])
+     0x1F73 [0x03] Work_Zone[2] = Work_Zone_1700[30]
+     0x1F78 [0x1A] CALL_SUBROUTINE(address=0x0CB4)
+     0x1F7B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x1F7E [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+    → "Is this what you want? [Definitely./Not at all.]"
+     0x1F85 [0x25] WAIT_DIALOG_SELECT()
+     0x1F86 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1FB0
+     0x1F8E [0x06] Work_Zone[1] = 0
+     0x1F91 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=3*)
+     0x1F9A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone_1700[29]
+     0x1F9F [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[6])
+     0x1FA8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1FAA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1FAC [0x1B] RETURN
+     0x1FAD [0x01] GOTO 0x1FB0
+     0x1FB0 [0x01] GOTO 0x1EEA
+     0x1FB3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x1FB6 [0x1B] RETURN
+     0x1FB7 [0x06] Work_Zone[46] = 0
+     0x1FBA [0x03] Work_Zone[47] = 31*
+     0x1FBF [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x2109
+     0x1FC7 [0x02] IF !(1* == 1*) GOTO 0x2109
+     0x1FCF [0x03] Work_Zone[2] = Work_Zone[46]
+     0x1FD4 [0x03] Work_Zone[3] = Work_Zone[47]
+     0x1FD9 [0x41] Work_Zone[4] = Work_Zone[50] (bits 1*-1*)
+     0x1FE2 [0x41] Work_Zone[5] = Work_Zone[50] (bits 2*-2*)
+     0x1FEB [0x41] Work_Zone[6] = Work_Zone[50] (bits 3*-3*)
+     0x1FF4 [0x24] CREATE_DIALOG(message_id=9073*, default_option=0*, option_flags=0*)
+    → "Select goodness: [Race portion ($0/$1)./Cut Scene ([Yes/No])./Opening ([Yes/No])./On screen text ([On/Off])./Cancel Race./Start Race.]"
+     0x1FFB [0x25] WAIT_DIALOG_SELECT()
+     0x1FFC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x207D
+     0x2004 [0x24] CREATE_DIALOG(message_id=9074*, default_option=1*, option_flags=0*)
+    → "Select race portion? [Yes./No.]"
+     0x200B [0x25] WAIT_DIALOG_SELECT()
+     0x200C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x206C
+     0x2014 [0x48] [System] [9075*]:
+    → "Select starting node. (0-31)"
+     0x2017 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x2018 [0x1A] CALL_SUBROUTINE(address=0x21C9)
+     0x201B [0x02] IF !(Work_Zone[2] >= 0*) GOTO 0x2026
+     0x2023 [0x01] GOTO 0x2014
+     0x2026 [0x02] IF !(Work_Zone[2] <= 30*) GOTO 0x2033
+     0x202E [0x03] Work_Zone[2] = 30*
+     0x2033 [0x03] Work_Zone[46] = Work_Zone[2]
+     0x2038 [0x48] [System] [9076*]:
+    → "Select ending node. (1-32)"
+     0x203B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x203C [0x1A] CALL_SUBROUTINE(address=0x21C9)
+     0x203F [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x204A
+     0x2047 [0x01] GOTO 0x2038
+     0x204A [0x02] IF !(Work_Zone[2] >= 1*) GOTO 0x2057
+     0x2052 [0x03] Work_Zone[2] = 1*
+     0x2057 [0x02] IF !(Work_Zone[2] <= 31*) GOTO 0x2064
+     0x205F [0x03] Work_Zone[2] = 31*
+     0x2064 [0x03] Work_Zone[47] = Work_Zone[2]
+     0x2069 [0x01] GOTO 0x206C
+     0x206C [0x03] Work_Zone[2] = Work_Zone[46]
+     0x2071 [0x03] Work_Zone[3] = Work_Zone[47]
+     0x2076 [0x48] [System] [8711*]:
+    → "Recreating race from points $0`$1."
+     0x2079 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x207A [0x01] GOTO 0x2106
+     0x207D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x20A2
+     0x2085 [0x24] CREATE_DIALOG(message_id=9077*, default_option=0*, option_flags=0*)
+    → "Play Cut Scene? [Yessir./No way.]"
+     0x208C [0x25] WAIT_DIALOG_SELECT()
+     0x208D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x209F
+     0x2095 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[50], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x209C [0x01] GOTO 0x209F
+     0x209F [0x01] GOTO 0x2106
+     0x20A2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x20C7
+     0x20AA [0x24] CREATE_DIALOG(message_id=9078*, default_option=0*, option_flags=0*)
+    → "Play Opening? [Yep./Nope.]"
+     0x20B1 [0x25] WAIT_DIALOG_SELECT()
+     0x20B2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x20C4
+     0x20BA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[50], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x20C1 [0x01] GOTO 0x20C4
+     0x20C4 [0x01] GOTO 0x2106
+     0x20C7 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x20EC
+     0x20CF [0x24] CREATE_DIALOG(message_id=9079*, default_option=1*, option_flags=0*)
+    → "Display Condition? [Yes./No. (Default)]"
+     0x20D6 [0x25] WAIT_DIALOG_SELECT()
+     0x20D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20E9
+     0x20DF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[50], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x20E6 [0x01] GOTO 0x20E9
+     0x20E9 [0x01] GOTO 0x2106
+     0x20EC [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x20F8
+     0x20F4 [0x1B] RETURN
+     0x20F5 [0x01] GOTO 0x2106
+     0x20F8 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x2106
+     0x2100 [0x01] GOTO 0x2109
+     0x2103 [0x01] GOTO 0x2106
+     0x2106 [0x01] GOTO 0x1FC7
+     0x2109 [0x46] CAMERA_CONTROL: Disable user control
+     0x210B [0x2F] Unnamed NPC (ID: 17063947/0x0104600B)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2111 [0x2F] Unnamed NPC (ID: 17063948/0x0104600C)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2117 [0x2F] Unnamed NPC (ID: 17063949/0x0104600D)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x211D [0x2F] Unnamed NPC (ID: 17063950/0x0104600E)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2123 [0x2F] Unnamed NPC (ID: 17063952/0x01046010)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2129 [0x2F] cameraA (ID: 17063976/0x01046028)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x212F [0x2F] cameraB (ID: 17063977/0x01046029)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2135 [0x4E] SET_ENTITY_HIDE_FLAG: Show cameraA (ID: 17063976/0x01046028)
+     0x213B [0x4E] SET_ENTITY_HIDE_FLAG: Show cameraB (ID: 17063977/0x01046029)
+     0x2141 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17063948/0x0104600C), tag_num=0x07)
+     0x2148 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17063949/0x0104600D), tag_num=0x07)
+     0x214F [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17063950/0x0104600E), tag_num=0x07)
+     0x2156 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x21A8
+     0x215E [0x03] Work_Zone[1] = 14*
+     0x2163 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x2165 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x2167 [0x03] Work_Zone[55] = Work_Zone[3]
+     0x216C [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x2188
+     0x2174 [0x03] Work_Zone[1] = 13*
+     0x2179 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x217B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x217D [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[2]
+     0x2182 [0x0B] ExtData[1]->WorkLocal[25]++
+     0x2185 [0x01] GOTO 0x21A8
+     0x2188 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x2198
+     0x2190 [0x03] ExtData[1]->WorkLocal[25] = 4294967295*
+     0x2195 [0x01] GOTO 0x21A8
+     0x2198 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x21A8
+     0x21A0 [0x03] ExtData[1]->WorkLocal[25] = 4294967294*
+     0x21A5 [0x01] GOTO 0x21A8
+     0x21A8 [0x03] Work_Zone[32] = ExtData[1]->WorkLocal[0]
+     0x21AD [0x03] Work_Zone[35] = ExtData[1]->WorkLocal[25]
+     0x21B2 [0x03] Work_Zone[33] = ExtData[1]->WorkLocal[5]
+     0x21B7 [0x03] Work_Zone[34] = ExtData[1]->WorkLocal[6]
+     0x21BC [0x03] Work_Zone[36] = ExtData[1]->WorkLocal[8]
+     0x21C1 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17063947/0x0104600B), tag_num=0x04)
+     0x21C8 [0x1B] RETURN
+     0x21C9 [0x06] Work_Zone[2] = 0
+     0x21CC [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
+     0x21D2 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[2])
+     0x21D6 [0x1B] RETURN
+     0x21D7 [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x21F8
+     0x21DF [0x6A] CHANGE_SOUND_VOLUME: Set (Effects/System/Zone/Master)* volume to 999*, fade_time=30*
+     0x21E6 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
+     0x21EA [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
+     0x21EE [0x9A] WAIT_MUSIC_SERVER()
+     0x21EF [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 176*
+     0x21F3 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 176*
+     0x21F7 [0x9A] WAIT_MUSIC_SERVER()
+     0x21F8 [0x03] Work_Zone[1] = 11*
+     0x21FD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x21FF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x2201 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x220C
+     0x2209 [0x48] [System] [9080*]:
+    → "$0/$1/$2/$3 $4/$5/$6/$7"
+     0x220C [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
+     0x2211 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[3]
+     0x2216 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[4]
+     0x221B [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[5]
+     0x2220 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[6]
+     0x2225 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[7]
+     0x222A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
+     0x222F [0x07] Work_Zone[2] += ExtData[1]->WorkLocal[15]
+     0x2234 [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x2366
+     0x223C [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x2333
+     0x2244 [0x02] IF !(ExtData[1]->WorkLocal[17] == 8*) GOTO 0x2300
+     0x224C [0x02] IF !(ExtData[1]->WorkLocal[2] == 8*) GOTO 0x22CD
+     0x2254 [0x03] Work_Zone[2] = Work_Zone[32]
+     0x2259 [0x08] Work_Zone[2] -= 1*
+     0x225E [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x2261 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+    → "Congratulations! That final victory has put you in leagues with [San d'Oria's/Bastok's/Windurst's] finest riders!"
+     0x2264 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x2265 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+    → "All of us here are eager to see what accomplishments you will achieve next!"
+     0x2268 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x2269 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x226C [0x03] Work_Zone[1] = 12*
+     0x2271 [0x02] IF !(Work_Zone[65] == 0*) GOTO 0x2289
+     0x2279 [0x27] REQ_SET(priority=0x01, entity_id=Alangriche (ID: 17063941/0x01046005), tag_num=0x0B)
+     0x2280 [0x2A] GET_REQ_LEVEL(level=1, entity_id=Alangriche (ID: 17063941/0x01046005))
+     0x2286 [0x01] GOTO 0x22B9
+     0x2289 [0x02] IF !(Work_Zone[65] == 1*) GOTO 0x22A1
+     0x2291 [0x27] REQ_SET(priority=0x01, entity_id=Jazgeh (ID: 17063943/0x01046007), tag_num=0x0B)
+     0x2298 [0x2A] GET_REQ_LEVEL(level=1, entity_id=Jazgeh (ID: 17063943/0x01046007))
+     0x229E [0x01] GOTO 0x22B9
+     0x22A1 [0x02] IF !(Work_Zone[65] == 2*) GOTO 0x22B9
+     0x22A9 [0x27] REQ_SET(priority=0x01, entity_id=Rungaga (ID: 17063945/0x01046009), tag_num=0x0B)
+     0x22B0 [0x2A] GET_REQ_LEVEL(level=1, entity_id=Rungaga (ID: 17063945/0x01046009))
+     0x22B6 [0x01] GOTO 0x22B9
+     0x22B9 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x22CA
+     0x22C1 [0x03] Work_Zone[2] = 308*
+     0x22C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+    → "Oh, and do be careful with your $0. If you happen to accidentally dispose of it, you will never be able to receive one again."
+     0x22C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x22CA [0x01] GOTO 0x22FD
+     0x22CD [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x60)
+     0x22CF [0x00] END_REQSTACK()
+     0x22D0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 884736/0x000D8000))
+     0x22D5 [0x41] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[13] (bits 0*-3*)
+     0x22DE [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x22EE
+     0x22E6 [0x03] Work_Zone[2] = 0*
+     0x22EB [0x01] GOTO 0x22F3
+     0x22EE [0x03] Work_Zone[2] = 1*
+     0x22F3 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x22F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+    → "Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!"
+     0x22F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x22FA [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x22FD [0x01] GOTO 0x2330
+     0x2300 [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x60)
+     0x2302 [0x00] END_REQSTACK()
+     0x2303 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 884736/0x000D8000))
+     0x2308 [0x41] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[13] (bits 0*-3*)
+     0x2311 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x2321
+     0x2319 [0x03] Work_Zone[2] = 0*
+     0x231E [0x01] GOTO 0x2326
+     0x2321 [0x03] Work_Zone[2] = 1*
+     0x2326 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x2329 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+    → "Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!"
+     0x232C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x232D [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x2330 [0x01] GOTO 0x2363
+     0x2333 [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x60)
+     0x2335 [0x00] END_REQSTACK()
+     0x2336 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 884736/0x000D8000))
+     0x233B [0x41] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[13] (bits 0*-3*)
+     0x2344 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x2354
+     0x234C [0x03] Work_Zone[2] = 0*
+     0x2351 [0x01] GOTO 0x2359
+     0x2354 [0x03] Work_Zone[2] = 1*
+     0x2359 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x235C [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+    → "Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!"
+     0x235F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x2360 [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x2363 [0x01] GOTO 0x2370
+     0x2366 [0x1A] CALL_SUBROUTINE(address=0x086D)
+     0x2369 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+    → "Don't worry too much about the results of that last race. You must learn from your experience and prepare yourself for the next challenge."
+     0x236C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x236D [0x1A] CALL_SUBROUTINE(address=0x086E)
+     0x2370 [0x1B] RETURN
+     0x2371 [0x00] END_REQSTACK()
+     0x2372 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2377 [0x19] SWAP(0x2580, 0x6B80)
+     0x237C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2155511887/0x807A804F))
+     0x2381 [0x68] SHOW_HUD_ELEMENTS()
+     0x2382 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163114040/0x80EE8038))
+     0x2387 [0xEF] UNKNOWN_0xEF
+     0x2388 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163310832/0x80F180F0))
+     0x238D [0xF2] UNKNOWN_0xF2
+     0x238E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x2393 [0xF2] UNKNOWN_0xF2
+     0x2394 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x2399 [0xF2] UNKNOWN_0xF2
+     0x239A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x239F [0xF2] UNKNOWN_0xF2
+     0x23A0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23A5 [0xF2] UNKNOWN_0xF2
+     0x23A6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23AB [0xF2] UNKNOWN_0xF2
+     0x23AC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23B1 [0x00] END_REQSTACK()
+     0x23B2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x23B7 [0x0E] 0x0E80 |= 0x0E80
+     0x23BC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148433934/0x800E800E))
+     0x23C1 [0x14] 0x1980 *= 0x1980
+     0x23C6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416989/0x801D801D))
+     0x23CB [0x25] WAIT_DIALOG_SELECT()
+     0x23CC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23D1 [0xF2] UNKNOWN_0xF2
+     0x23D2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23D7 [0xF2] UNKNOWN_0xF2
+     0x23D8 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23DD [0xF2] UNKNOWN_0xF2
+     0x23DE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23E3 [0xF2] UNKNOWN_0xF2
+     0x23E4 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23E9 [0xF2] UNKNOWN_0xF2
+     0x23EA [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163376370/0x80F280F2))
+     0x23EF [0xF2] UNKNOWN_0xF2
+     0x23F0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153939187/0x806280F3))
+     0x23F5 [0xF4] UNKNOWN_0xF4
+     0x23F6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163638517/0x80F680F5))
+     0x23FB [0xF7] UNKNOWN_0xF7
+     0x23FC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163835128/0x80F980F8))
+     0x2401 [0xFA] UNKNOWN_0xFA
+     0x2402 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164031739/0x80FC80FB))
+     0x2407 [0xFD] UNKNOWN_0xFD
+     0x2408 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164162678/0x80FE8076))
+     0x240D [0x00] END_REQSTACK()
+     0x240E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2413 [0x00] END_REQSTACK()
+     0x2414 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2419 [0x00] END_REQSTACK()
+     0x241A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x241F [0x00] END_REQSTACK()
+     0x2420 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2425 [0x00] END_REQSTACK()
+     0x2426 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x242B [0x00] END_REQSTACK()
+     0x242C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2431 [0x0E] 0x0E80 |= 0x0E80
+     0x2436 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163310648/0x80F18038))
+     0x243B [0xFF] UNKNOWN_0xFF
+     0x243C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164293712/0x81008050))
+     0x2441 [0xB7] ENTITY_DATA_HANDLER: Unknown case 0x80 for Unknown NPC (ID: 2164424961/0x81028101)
+     0x2449 [0x04] DEPRECATED_NOP(unused=0xF281)
+     0x244C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2451 [0x00] END_REQSTACK()
+     0x2452 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2457 [0x00] END_REQSTACK()
+     0x2458 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x245D [0x00] END_REQSTACK()
+     0x245E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2463 [0x00] END_REQSTACK()
+     0x2464 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2469 [0x00] END_REQSTACK()
+     0x246A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x246F [0x00] END_REQSTACK()
+     0x2470 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2475 [0x19] SWAP(0x80, 0x80)
+     0x247A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x247F [0x6B] STOP_AND_IDLE: Unknown NPC (ID: 2055240320/0x7A807A80) stops current action and resets to idle (animation="OO")
+     0x2488 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151186488/0x80388038))
+     0x248D [0x00] END_REQSTACK()
+     0x248E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2493 [0x00] END_REQSTACK()
+     0x2494 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2499 [0x00] END_REQSTACK()
+     0x249A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x249F [0x00] END_REQSTACK()
+     0x24A0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x24A5 [0x00] END_REQSTACK()
+     0x24A6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x24AB [0x00] END_REQSTACK()
+     0x24AC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x24B1 [0x0E] 0x0E80 |= 0x0E80
+     0x24B6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148433934/0x800E800E))
+     0x24BB [0x0E] 0x0E80 |= 0x0E80
+     0x24C0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150400020/0x802C8014))
+     0x24C5 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler 0x0E800E80 with entities [Unknown NPC (ID: 243290752/0x0E805280), Unknown NPC (ID: 243281024/0x0E802C80)]
+     0x24D2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148433934/0x800E800E))
+     0x24D7 [0x0E] 0x0E80 |= 0x0E80
+     0x24DC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148433934/0x800E800E))
+     0x24E1 [0xF2] UNKNOWN_0xF2
+     0x24E2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152562949/0x804D8105))
+     0x24E7 [0x06] 0x0781 = 0
+     0x24EA [0x81] SET_ENTITY_BLINKING(blink_flag=0x08, entity=Unknown NPC (ID: 1652623745/0x62810981))
+     0x24F0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164949236/0x810A80F4))
+     0x24F5 [0x0B] 0xF581++
+     0x24F8 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165145868/0x810D810C))
+     0x24FD [0x0E] 0xF681 |= 0xF780
+     0x2502 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163835128/0x80F980F8))
+     0x2507 [0xFA] UNKNOWN_0xFA
+     0x2508 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164031739/0x80FC80FB))
+     0x250D [0xFD] UNKNOWN_0xFD
+     0x250E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165276790/0x810F8076))
+     0x2513 [0xFE] UNKNOWN_0xFE
+     0x2514 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165408016/0x81118110))
+     0x2519 [0x12] 0x1381 = rand()
+     0x251C [0x81] SET_ENTITY_BLINKING(blink_flag=0x14, entity=Unknown NPC (ID: 377558401/0x16811581))
+     0x2522 [0x81] SET_ENTITY_BLINKING(blink_flag=0x17, entity=Unknown NPC (ID: 427890817/0x19811881))
+     0x2528 [0x81] SET_ENTITY_BLINKING(blink_flag=0x1A, entity=Unknown NPC (ID: 478223233/0x1C811B81))
+     0x252E [0x81] SET_ENTITY_BLINKING(blink_flag=0x1D, entity=Unknown NPC (ID: 528555649/0x1F811E81))
+     0x2534 [0x81] SET_ENTITY_BLINKING(blink_flag=0x20, entity=Unknown NPC (ID: 578888065/0x22812181))
+     0x253A [0x81] SET_ENTITY_BLINKING(blink_flag=0x23, entity=Unknown NPC (ID: 629220481/0x25812481))
+     0x2540 [0x81] SET_ENTITY_BLINKING(blink_flag=0x26, entity=Unknown NPC (ID: 679552897/0x28812781))
+     0x2546 [0x81] SET_ENTITY_BLINKING(blink_flag=0x29, entity=Unknown NPC (ID: 729885313/0x2B812A81))
+     0x254C [0x81] SET_ENTITY_BLINKING(blink_flag=0x2C, entity=Unknown NPC (ID: 780217729/0x2E812D81))
+     0x2552 [0x81] SET_ENTITY_BLINKING(blink_flag=0x2F, entity=Unknown NPC (ID: 830550145/0x31813081))
+     0x2558 [0x81] SET_ENTITY_BLINKING(blink_flag=0x54, entity=Unknown NPC (ID: 1417696384/0x54805480))
+     0x255E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149941332/0x80258054))
+     0x2563 [0x19] SWAP(0x0E80, 0x0E80)
+     0x2568 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148433934/0x800E800E))
+     0x256D [0x0E] 0x80 |= 0x80
+     0x2572 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2167636274/0x81338132))
+     0x2577 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3581)
+     0x257A [0x81] SET_ENTITY_BLINKING(blink_flag=0x36, entity=Unknown NPC (ID: 947992449/0x38813781))
+     0x2580 [0x81] SET_ENTITY_BLINKING(blink_flag=0x39, entity=Unknown NPC (ID: 8469121/0x00813A81))
+     0x2586 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x258B [0x00] END_REQSTACK()
+     0x258C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2591 [0x00] END_REQSTACK()
+     0x2592 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2597 [0x00] END_REQSTACK()
+     0x2598 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x259D [0x00] END_REQSTACK()
+     0x259E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x25A3 [0x00] END_REQSTACK()
+     0x25A4 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2168160256/0x813B8000))
+     0x25A9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=0x3D81, bit_index_work_offset=0x3E81, condition_work_offset=0x3F81)
+     0x25B0 [0x81] SET_ENTITY_BLINKING(blink_flag=0x1D, entity=Unknown NPC (ID: 1518349440/0x5A802C80))
+     0x25B6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153414676/0x805A8014))
+     0x25BB [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+     0x25BD [0x19] SWAP(0x5A80, 0x1480)
+     0x25C2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153414746/0x805A805A))
+     0x25C7 [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+     0x25C9 [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+     0x25CB [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+     0x25CD [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+     0x25CF [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+     0x25D1 [0x00] END_REQSTACK()
+     0x25D2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x25D7 [0x00] END_REQSTACK()
+     0x25D8 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149154836/0x80198014))
+     0x25DD [0x00] END_REQSTACK()
+     0x25DE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516430/0x8000800E))
+     0x25E3 [0x00] END_REQSTACK()
+     0x25E4 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x25E9 [0x19] SWAP(0x0E80, 0x80)
+     0x25EE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516436/0x80008014))
+     0x25F3 [0x00] END_REQSTACK()
+     0x25F4 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x25F9 [0x0E] 0x1480 |= 0x80
+     0x25FE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416985/0x801D8019))
+     0x2603 [0x1D] PRINT_EVENT_MESSAGE(message_id=0x1D80)
+     0x2606 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416989/0x801D801D))
+     0x260B [0x1D] PRINT_EVENT_MESSAGE(message_id=0x80)
+     0x260E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416960/0x801D8000))
+     0x2613 [0x1D] PRINT_EVENT_MESSAGE(message_id=0x1D80)
+     0x2616 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416989/0x801D801D))
+     0x261B [0x1D] PRINT_EVENT_MESSAGE(message_id=0x80)
+     0x261E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416960/0x801D8000))
+     0x2623 [0x1D] PRINT_EVENT_MESSAGE(message_id=0x1D80)
+     0x2626 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416989/0x801D801D))
+     0x262B [0x1D] PRINT_EVENT_MESSAGE(message_id=0x80)
+     0x262E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2633 [0x00] END_REQSTACK()
+     0x2634 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2639 [0x00] END_REQSTACK()
+     0x263A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x263F [0x00] END_REQSTACK()
+     0x2640 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2645 [0x00] END_REQSTACK()
+     0x2646 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416997/0x801D8025))
+     0x264B [0x00] END_REQSTACK()
+     0x264C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2651 [0x00] END_REQSTACK()
+     0x2652 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2657 [0x00] END_REQSTACK()
+     0x2658 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x265D [0x00] END_REQSTACK()
+     0x265E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2663 [0x00] END_REQSTACK()
+     0x2664 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2669 [0x00] END_REQSTACK()
+     0x266A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x266F [0x00] END_REQSTACK()
+     0x2670 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2675 [0x00] END_REQSTACK()
+     0x2676 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x267B [0x00] END_REQSTACK()
+     0x267C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2681 [0x00] END_REQSTACK()
+     0x2682 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2687 [0x00] END_REQSTACK()
+     0x2688 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x268D [0x00] END_REQSTACK()
+     0x268E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2693 [0x00] END_REQSTACK()
+     0x2694 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x2699 [0x00] END_REQSTACK()
+     0x269A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x269F [0x00] END_REQSTACK()
+     0x26A0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 34620675/0x02104503))
+     0x26A5 [0x10] 0x0203 <<= ExtData[1]->WorkLocal[16]
+     0x26AA [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 268567323/0x1002031B))
+     0x26AF [0x1B] RETURN
+```

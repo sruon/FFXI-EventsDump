@@ -1,0 +1,294 @@
+# 17531166 - Heimji-Keimji
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Lower Delkfutt's Tower (ID: 184) |
+| Block Size       | 272 bytes                        |
+| Total Events     | 10                               |
+| References Count | 12                               |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |     12 |              3 |
+| [2](#event-2)            | 0x000C       |      1 |              1 |
+| [65535.1](#event-655351) | 0x000D       |     31 |              7 |
+| [65535.2](#event-655352) | 0x002C       |     19 |              3 |
+| [65535.3](#event-655353) | 0x003F       |     19 |              3 |
+| [65535.4](#event-655354) | 0x0052       |     29 |              3 |
+| [65535.5](#event-655355) | 0x006F       |     14 |              2 |
+| [65535.6](#event-655356) | 0x007D       |     32 |              4 |
+| [65535.7](#event-655357) | 0x009D       |      9 |              3 |
+| [65535.8](#event-655358) | 0x00A6       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x9D2F0     |      643824 |
+|       1 | 0xFA30      |       64048 |
+|       2 | 0x3E7F      |       15999 |
+|       3 | 0x0423      |        1059 |
+|       4 | 0x9CB24     |      641828 |
+|       5 | 0xF679      |       63097 |
+|       6 | 0x9C998     |      641432 |
+|       7 | 0xF0C5      |       61637 |
+|       8 | 0x998CD     |      628941 |
+|       9 | 0xF220      |       61984 |
+|      10 | 0x0031      |          49 |
+|      11 | 0x003C      |          60 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0000   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 22 01 37 00 80 01 80 02  80 03 80 00              ".7.........    
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
+  1: 0x0002 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=643.824*, z=64.048*, y=15.999*, direction=93.1°*
+  2: 0x000B [0x00] END_REQSTACK()
+```
+
+### Event 2
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000C  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                      00                       .   
+```
+
+#### Opcodes
+
+```
+  0: 0x000C [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x000D   |
+| Data Size    | 31 bytes |
+| Instructions | 7        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                         1F 00 04               ...
+0010: 80 05 80 02 80 1F 01 1F  00 06 80 07 80 02 80 1F  ................
+0020: 01 1F 00 08 80 09 80 02  80 1F 01 00              ............    
+```
+
+#### Opcodes
+
+```
+  0: 0x000D [0x1F] MOVE_ENTITY: EventEntity moves to X=641.828*, Z=63.097*, Y=15.999*
+  1: 0x0015 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  2: 0x0017 [0x1F] MOVE_ENTITY: EventEntity moves to X=641.432*, Z=61.637*, Y=15.999*
+  3: 0x001F [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  4: 0x0021 [0x1F] MOVE_ENTITY: EventEntity moves to X=628.941*, Z=61.984*, Y=15.999*
+  5: 0x0029 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  6: 0x002B [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x002C   |
+| Data Size    | 19 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                                      66 0A 80 F8              f...
+0030: FF FF 7F F8 FF FF 7F 74  6C 6B 30 1C 0B 80 00     .......tlk0.... 
+```
+
+#### Opcodes
+
+```
+  0: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
+  1: 0x003B [0x1C] WAIT(60* ticks)
+  2: 0x003E [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x003F   |
+| Data Size    | 19 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:                                               66                 f
+0040: 0A 80 F8 FF FF 7F F8 FF  FF 7F 74 68 6B 31 1C 0B  ..........thk1..
+0050: 80 00                                             ..              
+```
+
+#### Opcodes
+
+```
+  0: 0x003F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=49*
+  1: 0x004E [0x1C] WAIT(60* ticks)
+  2: 0x0051 [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0052   |
+| Data Size    | 29 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:       66 0A 80 F8 FF FF  7F F8 FF FF 7F 74 68 6B    f..........thk
+0060: 32 53 F8 FF FF 7F F8 FF  FF 7F 74 68 6B 32 00     2S........thk2. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0052 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=49*
+  1: 0x0061 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
+  2: 0x006E [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x006F   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0060:                                               2C                 ,
+0070: F8 FF FF 7F F8 FF FF 7F  72 65 73 31 00           ........res1.   
+```
+
+#### Opcodes
+
+```
+  0: 0x006F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res1" with entities [EventEntity, EventEntity]
+  1: 0x007C [0x00] END_REQSTACK()
+```
+
+### Event 65535.6
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x007D   |
+| Data Size    | 32 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0070:                                         2C F8 FF               ,..
+0080: FF 7F F8 FF FF 7F 72 65  73 32 53 F8 FF FF 7F F8  ......res2S.....
+0090: FF FF 7F 72 65 73 32 1E  F0 FF FF 7F 00           ...res2......   
+```
+
+#### Opcodes
+
+```
+  0: 0x007D [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res2" with entities [EventEntity, EventEntity]
+  1: 0x008A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res2" with entities [EventEntity, EventEntity]
+  2: 0x0097 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x009C [0x00] END_REQSTACK()
+```
+
+### Event 65535.7
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x009D  |
+| Data Size    | 9 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0090:                                         5E 69 64               ^id
+00A0: 6C 30 1C 0B 80 00                                 l0....          
+```
+
+#### Opcodes
+
+```
+  0: 0x009D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+  1: 0x00A2 [0x1C] WAIT(60* ticks)
+  2: 0x00A5 [0x00] END_REQSTACK()
+```
+
+### Event 65535.8
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x00A6  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00A0:                   00                                    .         
+```
+
+#### Opcodes
+
+```
+  0: 0x00A6 [0x00] END_REQSTACK()
+```

@@ -11,30 +11,30 @@
 
 ## List of Events
 
-| Event ID                    | Entrypoint   |   Size |   Instructions |
-|-----------------------------|--------------|--------|----------------|
-| [65535](#event-65535)       | 0x0000       |      1 |              1 |
-| [663](#event-663)           | 0x0001       |    153 |             27 |
-| [810](#event-810)           | 0x009A       |      1 |              1 |
-| [65535.1](#event-65535-1)   | 0x009B       |     10 |              2 |
-| [65535.2](#event-65535-2)   | 0x00A5       |     23 |              5 |
-| [65535.3](#event-65535-3)   | 0x00BC       |     23 |              5 |
-| [65535.4](#event-65535-4)   | 0x00D3       |     23 |              5 |
-| [65535.5](#event-65535-5)   | 0x00EA       |     23 |              5 |
-| [65535.6](#event-65535-6)   | 0x0101       |      4 |              2 |
-| [65535.7](#event-65535-7)   | 0x0105       |      4 |              2 |
-| [65535.8](#event-65535-8)   | 0x0109       |      2 |              2 |
-| [836](#event-836)           | 0x010B       |      1 |              1 |
-| [838](#event-838)           | 0x010C       |      1 |              1 |
-| [845](#event-845)           | 0x010D       |      1 |              1 |
-| [5071](#event-5071)         | 0x010E       |      1 |              1 |
-| [5073](#event-5073)         | 0x010F       |      1 |              1 |
-| [5075](#event-5075)         | 0x0110       |      1 |              1 |
-| [5076](#event-5076)         | 0x0111       |      1 |              1 |
-| [5077](#event-5077)         | 0x0112       |      1 |              1 |
-| [5078](#event-5078)         | 0x0113       |      1 |              1 |
-| [65535.9](#event-65535-9)   | 0x0114       |     14 |              4 |
-| [65535.10](#event-65535-10) | 0x0122       |     15 |              5 |
+| Event ID                   | Entrypoint   |   Size |   Instructions |
+|----------------------------|--------------|--------|----------------|
+| [65535](#event-65535)      | 0x0000       |      1 |              1 |
+| [663](#event-663)          | 0x0001       |    153 |             27 |
+| [810](#event-810)          | 0x009A       |      1 |              1 |
+| [65535.1](#event-655351)   | 0x009B       |     10 |              2 |
+| [65535.2](#event-655352)   | 0x00A5       |     23 |              5 |
+| [65535.3](#event-655353)   | 0x00BC       |     23 |              5 |
+| [65535.4](#event-655354)   | 0x00D3       |     23 |              5 |
+| [65535.5](#event-655355)   | 0x00EA       |     23 |              5 |
+| [65535.6](#event-655356)   | 0x0101       |      4 |              2 |
+| [65535.7](#event-655357)   | 0x0105       |      4 |              2 |
+| [65535.8](#event-655358)   | 0x0109       |      2 |              2 |
+| [836](#event-836)          | 0x010B       |      1 |              1 |
+| [838](#event-838)          | 0x010C       |      1 |              1 |
+| [845](#event-845)          | 0x010D       |      1 |              1 |
+| [5071](#event-5071)        | 0x010E       |      1 |              1 |
+| [5073](#event-5073)        | 0x010F       |      1 |              1 |
+| [5075](#event-5075)        | 0x0110       |      1 |              1 |
+| [5076](#event-5076)        | 0x0111       |      1 |              1 |
+| [5077](#event-5077)        | 0x0112       |      1 |              1 |
+| [5078](#event-5078)        | 0x0113       |      1 |              1 |
+| [65535.9](#event-655359)   | 0x0114       |     14 |              4 |
+| [65535.10](#event-6553510) | 0x0122       |     15 |              5 |
 
 ## DAT References (imed_data)
 
@@ -69,6 +69,15 @@
 |      26 | 0x07CF      |        1999 |
 |      27 | 0xFFF754EB  |  4294399211 |
 |      28 | 0x7E28      |       32296 |
+
+## String References
+
+- **6355**: You wouldn't happen to want to hear a juicy secrrret about Naja Salaheem, would you? Well?
+- **6356**: Ask her about Naja's secret? [Fill me in!/How childish...]
+- **6357**: Naja's famous for her money-grrrubbing tendencies. They say she refused to go in debt, even a single bronze piece, when founding Salaheem's Sentinels.
+- **6358**: Everrryone's whispering about how she managed to raise so much capital at such a young age...
+- **6359**: Personally, I think there's something to that giant club she carries arrround with her, but there's got to be more to it than that...
+- **6360**: Are you surrre? Fine. Your loss.
 
 ## Events
 
@@ -126,29 +135,29 @@
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=53*
   3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6355*)
-    → "You wouldn't happen to want to hear a juicy secrrret about Naja Salaheem, would you? Well?\u007F1\u0000\u0007"
+    → "You wouldn't happen to want to hear a juicy secrrret about Naja Salaheem, would you? Well?"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb2" with entities [EventEntity, EventEntity], work=53*
   6: 0x002B [0x24] CREATE_DIALOG(message_id=6356*, default_option=0*, option_flags=0*)
-    → "Ask her about Naja's secret?\u0007\u000BFill me in!\u0007How childish...\u007F1\u0000\u0007"
+    → "Ask her about Naja's secret? [Fill me in!/How childish...]"
   7: 0x0032 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0068
   9: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=52*
  10: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=6357*)
-    → "Naja's famous for her money-grrrubbing tendencies. They say she refused to go in debt, even a single bronze piece, when founding Salaheem's Sentinels.\u007F1\u0000\u0007"
+    → "Naja's famous for her money-grrrubbing tendencies. They say she refused to go in debt, even a single bronze piece, when founding Salaheem's Sentinels."
  11: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=6358*)
-    → "Everrryone's whispering about how she managed to raise so much capital at such a young age...\u007F1\u0000\u0007"
+    → "Everrryone's whispering about how she managed to raise so much capital at such a young age..."
  13: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=6359*)
-    → "Personally, I think there's something to that giant club she carries arrround with her, but there's got to be more to it than that...\u007F1\u0000\u0007"
+    → "Personally, I think there's something to that giant club she carries arrround with her, but there's got to be more to it than that..."
  15: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0056 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc1" with entities [EventEntity, EventEntity], work=52*
  17: 0x0065 [0x01] GOTO 0x0095
  18: 0x0068 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0095
  19: 0x0070 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
  20: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=6360*)
-    → "Are you surrre? Fine. Your loss.\u007F1\u0000\u0007"
+    → "Are you surrre? Fine. Your loss."
  21: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0083 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
  23: 0x0092 [0x01] GOTO 0x0095

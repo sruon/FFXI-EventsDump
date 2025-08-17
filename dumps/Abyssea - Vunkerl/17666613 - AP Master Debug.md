@@ -1,0 +1,371 @@
+# 17666613 - AP Master Debug
+
+## Common Data
+
+| Field            | Value                       |
+|------------------|-----------------------------|
+| Zone             | Abyssea - Vunkerl (ID: 217) |
+| Block Size       | 1016 bytes                  |
+| Total Events     | 2                           |
+| References Count | 44                          |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [2181](#event-2181)   | 0x0001       |    815 |            165 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x1E56      |        7766 |
+|       2 | 0x40000000  |  1073741824 |
+|       3 | 0x0001      |           1 |
+|       4 | 0x0005      |           5 |
+|       5 | 0x34BC0     |      216000 |
+|       6 | 0x0E10      |        3600 |
+|       7 | 0x1E57      |        7767 |
+|       8 | 0x0002      |           2 |
+|       9 | 0x000A      |          10 |
+|      10 | 0x1E58      |        7768 |
+|      11 | 0x0003      |           3 |
+|      12 | 0x2710      |       10000 |
+|      13 | 0x1E59      |        7769 |
+|      14 | 0x0004      |           4 |
+|      15 | 0x07D0      |        2000 |
+|      16 | 0x1E5A      |        7770 |
+|      17 | 0x1E5B      |        7771 |
+|      18 | 0x0006      |           6 |
+|      19 | 0x1E5C      |        7772 |
+|      20 | 0x0007      |           7 |
+|      21 | 0x1E5D      |        7773 |
+|      22 | 0x0008      |           8 |
+|      23 | 0x1E5E      |        7774 |
+|      24 | 0x0009      |           9 |
+|      25 | 0x1E62      |        7778 |
+|      26 | 0x1E63      |        7779 |
+|      27 | 0x1E64      |        7780 |
+|      28 | 0x1E65      |        7781 |
+|      29 | 0x1E60      |        7776 |
+|      30 | 0x001F      |          31 |
+|      31 | 0x012C      |         300 |
+|      32 | 0x001E      |          30 |
+|      33 | 0x0708      |        1800 |
+|      34 | 0x002D      |          45 |
+|      35 | 0x0A8C      |        2700 |
+|      36 | 0x003C      |          60 |
+|      37 | 0x0078      |         120 |
+|      38 | 0x1C20      |        7200 |
+|      39 | 0x1E61      |        7777 |
+|      40 | 0x0039      |          57 |
+|      41 | 0x005A      |          90 |
+|      42 | 0x1E5F      |        7775 |
+|      43 | 0xFFFFFFFF  |  4294967295 |
+
+## String References
+
+- **7766**: AP Debug: Do what? [Nuttin'./AP: Adjust elapsed time./AP: Adjust number of quests cleared for all PCs./AP: Adjust amount of XP obtained for all PCs./AP: Adjust amount of cruor for all PCs./AP: Adjust number of NMs defeated for all PCs./AP: Adjust number of HNMs defeated for all PCs./AP: Adjust pollution levels for this area./AP: Adjust number of defenses for this area./OT: Acquire info pertaining to "Order Trophy."]
+- **7767**: Elapsed time: $0P (1P = $1 min)
+- **7768**: XP: $0P (1P = $1 QUEST)
+- **7769**: XP: $0P (1P = $1 XP)
+- **7770**: Cruor: $0P (1P = $1 cruor)
+- **7771**: NMs defeated: $0P (1P = $1 NM)
+- **7772**: HNMs defeated: $0P (1P = $1 HNM)
+- **7773**: Pollution level: $0 P
+- **7774**: Number of defenses: $0 P
+- **7775**: Change value? [No thanks./Increase./Decrease.]
+- **7776**: All clear to receive the effect of "Flee"? [ Oh Goddess, no!/ Bring it on!]
+- **7777**: Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with $1 minute(s) of "Flee."
+- **7778**: OT Debug: Do what? [Nothing for now./OT: Obtainment bonus./OT: Fortune rate./OT: Externimation record.]
+- **7779**: Obtained bonus work. XP added: $0. Cruor added: $1. NMs defeated: $2.
+- **7780**: Fortune rate work. Spawn rate added value: $0 Blue casket spawn rate: $1 Red casket spawn rate: $2 Gold casket spawn rate: $3
+- **7781**: Extermination record work. Previous monster defeated: $0. No. of same ID defeated: $1. No. of diff. ID defeated: $2.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 2181
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 815 bytes |
+| Instructions | 165       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 03 01 00 00 80  03 0A 00 00 80 03 02 00    ..............
+0010: 02 10 03 03 00 03 10 03  04 00 04 10 03 05 00 05  ................
+0020: 10 03 06 00 06 10 03 07  00 07 10 03 08 00 08 10  ................
+0030: 03 09 00 09 10 24 01 80  00 80 00 80 25 02 00 10  .....$......%...
+0040: 00 80 00 4D 00 03 01 10  02 80 01 C0 02 02 00 10  ...M............
+0050: 03 80 00 7E 00 03 01 00  03 80 40 00 80 04 80 01  ...~......@.....
+0060: 10 03 80 03 00 00 05 80  15 00 00 06 80 03 02 10  ................
+0070: 02 00 03 03 10 00 00 1D  07 80 23 01 C0 02 02 00  ..........#.....
+0080: 10 08 80 00 A5 00 03 01  00 03 80 40 00 80 04 80  ...........@....
+0090: 01 10 08 80 03 02 10 03  00 03 03 10 09 80 1D 0A  ................
+00A0: 80 23 01 C0 02 02 00 10  0B 80 00 CC 00 03 01 00  .#..............
+00B0: 03 80 40 00 80 04 80 01  10 0B 80 03 02 10 04 00  ..@.............
+00C0: 03 03 10 0C 80 1D 0D 80  23 01 C0 02 02 00 10 0E  ........#.......
+00D0: 80 00 F3 00 03 01 00 03  80 40 00 80 04 80 01 10  .........@......
+00E0: 0E 80 03 02 10 05 00 03  03 10 0F 80 1D 10 80 23  ...............#
+00F0: 01 C0 02 02 00 10 04 80  00 1A 01 03 01 00 03 80  ................
+0100: 40 00 80 04 80 01 10 04  80 03 02 10 06 00 03 03  @...............
+0110: 10 09 80 1D 11 80 23 01  C0 02 02 00 10 12 80 00  ......#.........
+0120: 41 01 03 01 00 03 80 40  00 80 04 80 01 10 12 80  A......@........
+0130: 03 02 10 07 00 03 03 10  03 80 1D 13 80 23 01 C0  .............#..
+0140: 02 02 00 10 14 80 00 63  01 03 01 00 03 80 40 00  .......c......@.
+0150: 80 04 80 01 10 14 80 03  02 10 08 00 1D 15 80 23  ...............#
+0160: 01 C0 02 02 00 10 16 80  00 85 01 03 01 00 03 80  ................
+0170: 40 00 80 04 80 01 10 16  80 03 02 10 09 00 1D 17  @...............
+0180: 80 23 01 C0 02 02 00 10  18 80 00 F0 01 24 19 80  .#...........$..
+0190: 00 80 00 80 25 02 00 10  00 80 00 A0 01 01 E8 01  ....%...........
+01A0: 02 00 10 03 80 00 B8 01  03 01 10 03 80 43 00 43  .............C.C
+01B0: 01 48 1A 80 23 01 E8 01  02 00 10 08 80 00 D0 01  .H..#...........
+01C0: 03 01 10 08 80 43 00 43  01 48 1B 80 23 01 E8 01  .....C.C.H..#...
+01D0: 02 00 10 0B 80 00 E8 01  03 01 10 0B 80 43 00 43  .............C.C
+01E0: 01 48 1C 80 23 01 E8 01  03 01 10 02 80 01 C0 02  .H..#...........
+01F0: 02 00 10 09 80 00 C0 02  24 1D 80 00 80 00 80 25  ........$......%
+0200: 02 00 10 00 80 00 10 02  03 01 10 02 80 01 BD 02  ................
+0210: 02 00 10 03 80 00 BD 02  40 00 80 04 80 01 10 18  ........@.......
+0220: 80 13 00 00 0E 80 02 00  00 00 80 80 3F 02 03 03  ............?...
+0230: 10 04 80 40 12 80 1E 80  01 10 1F 80 01 A3 02 02  ...@............
+0240: 00 00 03 80 80 58 02 03  03 10 20 80 40 12 80 1E  .....X.... .@...
+0250: 80 01 10 21 80 01 A3 02  02 00 00 08 80 80 71 02  ...!..........q.
+0260: 03 03 10 22 80 40 12 80  1E 80 01 10 23 80 01 A3  ...".@......#...
+0270: 02 02 00 00 0B 80 80 8A  02 03 03 10 24 80 40 12  ............$.@.
+0280: 80 1E 80 01 10 06 80 01  A3 02 02 00 00 0E 80 80  ................
+0290: A3 02 03 03 10 25 80 40  12 80 1E 80 01 10 26 80  .....%.@......&.
+02A0: 01 A3 02 03 02 10 00 00  1D 27 80 23 73 28 80 F8  .........'.#s(..
+02B0: FF FF 7F F0 FF FF 7F 1C  29 80 01 BD 02 01 C0 02  ........).......
+02C0: 02 01 00 03 80 00 2D 03  24 2A 80 00 80 00 80 25  ......-.$*.....%
+02D0: 02 00 10 00 80 00 E0 02  03 01 10 02 80 01 12 03  ................
+02E0: 02 00 10 03 80 00 F9 02  40 1E 80 1E 80 01 10 00  ........@.......
+02F0: 80 03 0A 00 03 80 01 12  03 02 00 10 08 80 00 12  ................
+0300: 03 40 1E 80 1E 80 01 10  03 80 03 0A 00 2B 80 01  .@...........+..
+0310: 12 03 02 0A 00 00 80 01  2D 03 71 12 03 80 04 80  ........-.q.....
+0320: 71 13 00 00 40 12 80 20  80 01 10 00 00 42 21 00  q...@.. .....B!.
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x03] ExtData[1]->WorkLocal[1] = 0*
+  2: 0x0008 [0x03] ExtData[1]->WorkLocal[10] = 0*
+  3: 0x000D [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
+  4: 0x0012 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[3]
+  5: 0x0017 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[4]
+  6: 0x001C [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[5]
+  7: 0x0021 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[6]
+  8: 0x0026 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[7]
+  9: 0x002B [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[8]
+ 10: 0x0030 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[9]
+ 11: 0x0035 [0x24] CREATE_DIALOG(message_id=7766*, default_option=0*, option_flags=0*)
+    → "AP Debug: Do what? [Nuttin'./AP: Adjust elapsed time./AP: Adjust number of quests cleared for all PCs./AP: Adjust amount of XP obtained for all PCs./AP: Adjust amount of cruor for all PCs./AP: Adjust number of NMs defeated for all PCs./AP: Adjust number of HNMs defeated for all PCs./AP: Adjust pollution levels for this area./AP: Adjust number of defenses for this area./OT: Acquire info pertaining to "Order Trophy."]"
+ 12: 0x003C [0x25] WAIT_DIALOG_SELECT()
+ 13: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004D
+ 14: 0x0045 [0x03] Work_Zone[1] = 1073741824*
+ 15: 0x004A [0x01] GOTO 0x02C0
+ 16: 0x004D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007E
+ 17: 0x0055 [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 18: 0x005A [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=1*)
+ 19: 0x0063 [0x03] ExtData[1]->WorkLocal[0] = 216000*
+ 20: 0x0068 [0x15] ExtData[1]->WorkLocal[0] /= 3600*
+ 21: 0x006D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
+ 22: 0x0072 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
+ 23: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7767*)
+    → "Elapsed time: $0P (1P = $1 min)"
+ 24: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 25: 0x007B [0x01] GOTO 0x02C0
+ 26: 0x007E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00A5
+ 27: 0x0086 [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 28: 0x008B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=2*)
+ 29: 0x0094 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
+ 30: 0x0099 [0x03] Work_Zone[3] = 10*
+ 31: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7768*)
+    → "XP: $0P (1P = $1 QUEST)"
+ 32: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 33: 0x00A2 [0x01] GOTO 0x02C0
+ 34: 0x00A5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00CC
+ 35: 0x00AD [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 36: 0x00B2 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=3*)
+ 37: 0x00BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
+ 38: 0x00C0 [0x03] Work_Zone[3] = 10000*
+ 39: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7769*)
+    → "XP: $0P (1P = $1 XP)"
+ 40: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 41: 0x00C9 [0x01] GOTO 0x02C0
+ 42: 0x00CC [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00F3
+ 43: 0x00D4 [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 44: 0x00D9 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=4*)
+ 45: 0x00E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
+ 46: 0x00E7 [0x03] Work_Zone[3] = 2000*
+ 47: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
+    → "Cruor: $0P (1P = $1 cruor)"
+ 48: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 49: 0x00F0 [0x01] GOTO 0x02C0
+ 50: 0x00F3 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x011A
+ 51: 0x00FB [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 52: 0x0100 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=5*)
+ 53: 0x0109 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+ 54: 0x010E [0x03] Work_Zone[3] = 10*
+ 55: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
+    → "NMs defeated: $0P (1P = $1 NM)"
+ 56: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 57: 0x0117 [0x01] GOTO 0x02C0
+ 58: 0x011A [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0141
+ 59: 0x0122 [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 60: 0x0127 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=6*)
+ 61: 0x0130 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+ 62: 0x0135 [0x03] Work_Zone[3] = 1*
+ 63: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
+    → "HNMs defeated: $0P (1P = $1 HNM)"
+ 64: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 65: 0x013E [0x01] GOTO 0x02C0
+ 66: 0x0141 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0163
+ 67: 0x0149 [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 68: 0x014E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=7*)
+ 69: 0x0157 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
+ 70: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
+    → "Pollution level: $0 P"
+ 71: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 72: 0x0160 [0x01] GOTO 0x02C0
+ 73: 0x0163 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0185
+ 74: 0x016B [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 75: 0x0170 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=8*)
+ 76: 0x0179 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
+ 77: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
+    → "Number of defenses: $0 P"
+ 78: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 79: 0x0182 [0x01] GOTO 0x02C0
+ 80: 0x0185 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x01F0
+ 81: 0x018D [0x24] CREATE_DIALOG(message_id=7778*, default_option=0*, option_flags=0*)
+    → "OT Debug: Do what? [Nothing for now./OT: Obtainment bonus./OT: Fortune rate./OT: Externimation record.]"
+ 82: 0x0194 [0x25] WAIT_DIALOG_SELECT()
+ 83: 0x0195 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A0
+ 84: 0x019D [0x01] GOTO 0x01E8
+ 85: 0x01A0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01B8
+ 86: 0x01A8 [0x03] Work_Zone[1] = 1*
+ 87: 0x01AD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 88: 0x01AF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 89: 0x01B1 [0x48] [System] [7779*]:
+    → "Obtained bonus work. XP added: $0. Cruor added: $1. NMs defeated: $2."
+ 90: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 91: 0x01B5 [0x01] GOTO 0x01E8
+ 92: 0x01B8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01D0
+ 93: 0x01C0 [0x03] Work_Zone[1] = 2*
+ 94: 0x01C5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 95: 0x01C7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 96: 0x01C9 [0x48] [System] [7780*]:
+    → "Fortune rate work. Spawn rate added value: $0 Blue casket spawn rate: $1 Red casket spawn rate: $2 Gold casket spawn rate: $3"
+ 97: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 98: 0x01CD [0x01] GOTO 0x01E8
+ 99: 0x01D0 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x01E8
+100: 0x01D8 [0x03] Work_Zone[1] = 3*
+101: 0x01DD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+102: 0x01DF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+103: 0x01E1 [0x48] [System] [7781*]:
+    → "Extermination record work. Previous monster defeated: $0. No. of same ID defeated: $1. No. of diff. ID defeated: $2."
+104: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+105: 0x01E5 [0x01] GOTO 0x01E8
+
+SUBROUTINE_01E8:
+106: 0x01E8 [0x03] Work_Zone[1] = 1073741824*
+107: 0x01ED [0x01] GOTO 0x02C0
+108: 0x01F0 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x02C0
+109: 0x01F8 [0x24] CREATE_DIALOG(message_id=7776*, default_option=0*, option_flags=0*)
+    → "All clear to receive the effect of "Flee"? [ Oh Goddess, no!/ Bring it on!]"
+110: 0x01FF [0x25] WAIT_DIALOG_SELECT()
+111: 0x0200 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0210
+112: 0x0208 [0x03] Work_Zone[1] = 1073741824*
+113: 0x020D [0x01] GOTO 0x02BD
+114: 0x0210 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02BD
+115: 0x0218 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=9*)
+116: 0x0221 [0x13] ExtData[1]->WorkLocal[0] = rand() % 4*
+117: 0x0226 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x023F
+118: 0x022E [0x03] Work_Zone[3] = 5*
+119: 0x0233 [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=31*, target=Work_Zone[1], source=300*)
+120: 0x023C [0x01] GOTO 0x02A3
+121: 0x023F [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0258
+122: 0x0247 [0x03] Work_Zone[3] = 30*
+123: 0x024C [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=31*, target=Work_Zone[1], source=1800*)
+124: 0x0255 [0x01] GOTO 0x02A3
+125: 0x0258 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0271
+126: 0x0260 [0x03] Work_Zone[3] = 45*
+127: 0x0265 [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=31*, target=Work_Zone[1], source=2700*)
+128: 0x026E [0x01] GOTO 0x02A3
+129: 0x0271 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x028A
+130: 0x0279 [0x03] Work_Zone[3] = 60*
+131: 0x027E [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=31*, target=Work_Zone[1], source=3600*)
+132: 0x0287 [0x01] GOTO 0x02A3
+133: 0x028A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x02A3
+134: 0x0292 [0x03] Work_Zone[3] = 120*
+135: 0x0297 [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=31*, target=Work_Zone[1], source=7200*)
+136: 0x02A0 [0x01] GOTO 0x02A3
+
+SUBROUTINE_02A3:
+137: 0x02A3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+138: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
+    → "Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with $1 minute(s) of "Flee.""
+139: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
+140: 0x02AC [0x73] EventEntity casts magic 57* on LocalPlayer
+141: 0x02B7 [0x1C] WAIT(90* ticks)
+142: 0x02BA [0x01] GOTO 0x02BD
+
+SUBROUTINE_02BD:
+143: 0x02BD [0x01] GOTO 0x02C0
+
+SUBROUTINE_02C0:
+144: 0x02C0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x032D
+145: 0x02C8 [0x24] CREATE_DIALOG(message_id=7775*, default_option=0*, option_flags=0*)
+    → "Change value? [No thanks./Increase./Decrease.]"
+146: 0x02CF [0x25] WAIT_DIALOG_SELECT()
+147: 0x02D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E0
+148: 0x02D8 [0x03] Work_Zone[1] = 1073741824*
+149: 0x02DD [0x01] GOTO 0x0312
+150: 0x02E0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02F9
+151: 0x02E8 [0x40] SET_BIT_WORK_RANGE(start_bit=31*, end_bit=31*, target=Work_Zone[1], source=0*)
+152: 0x02F1 [0x03] ExtData[1]->WorkLocal[10] = 1*
+153: 0x02F6 [0x01] GOTO 0x0312
+154: 0x02F9 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0312
+155: 0x0301 [0x40] SET_BIT_WORK_RANGE(start_bit=31*, end_bit=31*, target=Work_Zone[1], source=1*)
+156: 0x030A [0x03] ExtData[1]->WorkLocal[10] = 4294967295*
+157: 0x030F [0x01] GOTO 0x0312
+
+SUBROUTINE_0312:
+158: 0x0312 [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x032D
+159: 0x031A [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 5*])
+160: 0x0320 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
+161: 0x0324 [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=30*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[0])
+162: 0x032D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+163: 0x032E [0x21] END_EVENT
+164: 0x032F [0x00] END_REQSTACK()
+```

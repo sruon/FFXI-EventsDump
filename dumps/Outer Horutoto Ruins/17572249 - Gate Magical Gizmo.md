@@ -1,0 +1,180 @@
+# 17572249 - Gate Magical Gizmo
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | Outer Horutoto Ruins (ID: 194) |
+| Block Size       | 712 bytes                      |
+| Total Events     | 2                              |
+| References Count | 8                              |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [44](#event-44)       | 0x0001       |    655 |             65 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00C8      |         200 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0078      |         120 |
+|       3 | 0x0003      |           3 |
+|       4 | 0x005C      |          92 |
+|       5 | 0x003C      |          60 |
+|       6 | 0x005A      |          90 |
+|       7 | 0x0028      |          40 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 44
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 655 bytes |
+| Instructions | 65        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    46 01 42 4C 1C 00 80  45 00 80 F8 FF FF 7F F8   F.BL...E.......
+0010: FF FF 7F 66 64 6F 31 01  80 1C 02 80 4D 1C 00 80  ...fdo1.....M...
+0020: 38 03 80 29 0B F0 FF FF  7F 08 27 0B F0 FF FF 7F  8..)......'.....
+0030: 09 45 04 80 F0 FF FF 7F  F0 FF FF 7F 73 30 35 30  .E..........s050
+0040: 01 80 45 00 80 F8 FF FF  7F F8 FF FF 7F 66 64 69  ..E..........fdi
+0050: 31 01 80 2A 0B F0 FF FF  7F 45 00 80 F8 FF FF 7F  1..*.....E......
+0060: F8 FF FF 7F 66 64 6F 31  01 80 1C 05 80 45 04 80  ....fdo1.....E..
+0070: F0 FF FF 7F F0 FF FF 7F  73 30 31 33 01 80 45 00  ........s013..E.
+0080: 80 F8 FF FF 7F F8 FF FF  7F 66 64 69 31 01 80 29  .........fdi1..)
+0090: 0B F0 FF FF 7F 0A 2D F8  FF FF 7F F8 FF FF 7F 62  ......-........b
+00A0: 65 61 6D 1C 05 80 2D F8  FF FF 7F F8 FF FF 7F 6D  eam...-........m
+00B0: 64 63 37 2D F8 FF FF 7F  F8 FF FF 7F 6D 64 63 38  dc7-........mdc8
+00C0: 2D F8 FF FF 7F F8 FF FF  7F 6D 64 63 39 2D F8 FF  -........mdc9-..
+00D0: FF 7F F8 FF FF 7F 6D 64  63 61 2D F8 FF FF 7F F8  ......mdca-.....
+00E0: FF FF 7F 6D 64 63 62 2D  F8 FF FF 7F F8 FF FF 7F  ...mdcb-........
+00F0: 6D 64 63 63 1C 06 80 2D  F8 FF FF 7F F8 FF FF 7F  mdcc...-........
+0100: 6D 64 63 37 2D F8 FF FF  7F F8 FF FF 7F 6D 64 63  mdc7-........mdc
+0110: 38 2D F8 FF FF 7F F8 FF  FF 7F 6D 64 63 39 2D F8  8-........mdc9-.
+0120: FF FF 7F F8 FF FF 7F 6D  64 63 61 2D F8 FF FF 7F  .......mdca-....
+0130: F8 FF FF 7F 6D 64 63 62  2D F8 FF FF 7F F8 FF FF  ....mdcb-.......
+0140: 7F 6D 64 63 63 1C 06 80  2D F8 FF FF 7F F8 FF FF  .mdcc...-.......
+0150: 7F 6D 64 63 37 2D F8 FF  FF 7F F8 FF FF 7F 6D 64  .mdc7-........md
+0160: 63 38 2D F8 FF FF 7F F8  FF FF 7F 6D 64 63 39 2D  c8-........mdc9-
+0170: F8 FF FF 7F F8 FF FF 7F  6D 64 63 61 2D F8 FF FF  ........mdca-...
+0180: 7F F8 FF FF 7F 6D 64 63  62 2D F8 FF FF 7F F8 FF  .....mdcb-......
+0190: FF 7F 6D 64 63 63 55 04  80 F0 FF FF 7F F0 FF FF  ..mdccU.........
+01A0: 7F 73 30 31 33 45 00 80  F0 FF FF 7F F0 FF FF 7F  .s013E..........
+01B0: 66 64 6F 30 01 80 1C 05  80 45 04 80 F0 FF FF 7F  fdo0.....E......
+01C0: F0 FF FF 7F 73 30 31 34  01 80 45 00 80 F0 FF FF  ....s014..E.....
+01D0: 7F F0 FF FF 7F 66 64 69  30 01 80 1C 07 80 2D F8  .....fdi0.....-.
+01E0: FF FF 7F F8 FF FF 7F 6D  64 63 33 2D F8 FF FF 7F  .......mdc3-....
+01F0: F8 FF FF 7F 6D 64 63 34  2D F8 FF FF 7F F8 FF FF  ....mdc4-.......
+0200: 7F 6D 64 63 33 2D F8 FF  FF 7F F8 FF FF 7F 6D 64  .mdc3-........md
+0210: 63 34 1C 06 80 2D F8 FF  FF 7F F8 FF FF 7F 6D 64  c4...-........md
+0220: 63 33 2D F8 FF FF 7F F8  FF FF 7F 6D 64 63 34 2D  c3-........mdc4-
+0230: F8 FF FF 7F F8 FF FF 7F  6D 64 63 33 2D F8 FF FF  ........mdc3-...
+0240: 7F F8 FF FF 7F 6D 64 63  34 55 04 80 F0 FF FF 7F  .....mdc4U......
+0250: F0 FF FF 7F 73 30 31 34  2C F8 FF FF 7F F8 FF FF  ....s014,.......
+0260: 7F 6B 6C 62 6D 45 00 80  F0 FF FF 7F F0 FF FF 7F  .klbmE..........
+0270: 66 64 6F 30 01 80 1C 05  80 46 00 45 00 80 F0 FF  fdo0.....F.E....
+0280: FF 7F F0 FF FF 7F 66 64  69 30 01 80 20 00 21 00  ......fdi0.. .!.
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x46] CAMERA_CONTROL: Disable user control
+  1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0004 [0x4C] EventEntity->StatusEvent = 8 // Open door
+  3: 0x0005 [0x1C] WAIT(200* ticks)
+  4: 0x0008 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+  5: 0x0019 [0x1C] WAIT(120* ticks)
+  6: 0x001C [0x4D] EventEntity->StatusEvent = 9 // Close door
+  7: 0x001D [0x1C] WAIT(200* ticks)
+  8: 0x0020 [0x38] SET_CLIENT_EVENT_MODE(mode=3*)
+  9: 0x0023 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x08)
+ 10: 0x002A [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x09)
+ 11: 0x0031 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 12: 0x0042 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 13: 0x0053 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
+ 14: 0x0059 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 15: 0x006A [0x1C] WAIT(60* ticks)
+ 16: 0x006D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 17: 0x007E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 18: 0x008F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x0A)
+ 19: 0x0096 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "beam" with entities [EventEntity, EventEntity]
+ 20: 0x00A3 [0x1C] WAIT(60* ticks)
+ 21: 0x00A6 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc7" with entities [EventEntity, EventEntity]
+ 22: 0x00B3 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc8" with entities [EventEntity, EventEntity]
+ 23: 0x00C0 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc9" with entities [EventEntity, EventEntity]
+ 24: 0x00CD [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdca" with entities [EventEntity, EventEntity]
+ 25: 0x00DA [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdcb" with entities [EventEntity, EventEntity]
+ 26: 0x00E7 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdcc" with entities [EventEntity, EventEntity]
+ 27: 0x00F4 [0x1C] WAIT(90* ticks)
+ 28: 0x00F7 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc7" with entities [EventEntity, EventEntity]
+ 29: 0x0104 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc8" with entities [EventEntity, EventEntity]
+ 30: 0x0111 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc9" with entities [EventEntity, EventEntity]
+ 31: 0x011E [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdca" with entities [EventEntity, EventEntity]
+ 32: 0x012B [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdcb" with entities [EventEntity, EventEntity]
+ 33: 0x0138 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdcc" with entities [EventEntity, EventEntity]
+ 34: 0x0145 [0x1C] WAIT(90* ticks)
+ 35: 0x0148 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc7" with entities [EventEntity, EventEntity]
+ 36: 0x0155 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc8" with entities [EventEntity, EventEntity]
+ 37: 0x0162 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc9" with entities [EventEntity, EventEntity]
+ 38: 0x016F [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdca" with entities [EventEntity, EventEntity]
+ 39: 0x017C [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdcb" with entities [EventEntity, EventEntity]
+ 40: 0x0189 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdcc" with entities [EventEntity, EventEntity]
+ 41: 0x0196 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=92*
+ 42: 0x01A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 43: 0x01B6 [0x1C] WAIT(60* ticks)
+ 44: 0x01B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 45: 0x01CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 46: 0x01DB [0x1C] WAIT(40* ticks)
+ 47: 0x01DE [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc3" with entities [EventEntity, EventEntity]
+ 48: 0x01EB [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc4" with entities [EventEntity, EventEntity]
+ 49: 0x01F8 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc3" with entities [EventEntity, EventEntity]
+ 50: 0x0205 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc4" with entities [EventEntity, EventEntity]
+ 51: 0x0212 [0x1C] WAIT(90* ticks)
+ 52: 0x0215 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc3" with entities [EventEntity, EventEntity]
+ 53: 0x0222 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc4" with entities [EventEntity, EventEntity]
+ 54: 0x022F [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc3" with entities [EventEntity, EventEntity]
+ 55: 0x023C [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mdc4" with entities [EventEntity, EventEntity]
+ 56: 0x0249 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=92*
+ 57: 0x0258 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "klbm" with entities [EventEntity, EventEntity]
+ 58: 0x0265 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 59: 0x0276 [0x1C] WAIT(60* ticks)
+ 60: 0x0279 [0x46] CAMERA_CONTROL: Restore default settings
+ 61: 0x027B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 62: 0x028C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 63: 0x028E [0x21] END_EVENT
+ 64: 0x028F [0x00] END_REQSTACK()
+```

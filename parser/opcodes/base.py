@@ -1,7 +1,7 @@
 from abc import ABC
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, NamedTuple, Optional
+from typing import Any, Optional
 
 
 @dataclass

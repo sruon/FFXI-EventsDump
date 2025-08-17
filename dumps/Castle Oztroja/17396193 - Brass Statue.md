@@ -1,0 +1,122 @@
+# 17396193 - Brass Statue
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Castle Oztroja (ID: 151) |
+| Block Size       | 140 bytes                |
+| Total Events     | 2                        |
+| References Count | 7                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [13](#event-13)       | 0x0001       |     87 |             30 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0007      |           7 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0008      |           8 |
+|       3 | 0x0001      |           1 |
+|       4 | 0x0009      |           9 |
+|       5 | 0x0002      |           2 |
+|       6 | 0x000A      |          10 |
+
+## String References
+
+- **7**: Say the vow. [All right./Not right now.]
+- **8**: Say the first word.
+- **9**: Speak the second word.
+- **10**: Utter the third word.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 13
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 87 bytes |
+| Instructions | 30       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 20 01 24 00 80 01  80 01 80 25 02 00 10 01   B .$......%....
+0010: 80 00 4B 00 06 02 10 42  20 01 48 02 80 23 71 00  ..K....B .H..#q.
+0020: 71 01 71 02 02 02 10 03  80 00 36 00 48 04 80 23  q.q.......6.H..#
+0030: 71 00 71 01 71 02 02 02  10 05 80 00 48 00 48 06  q.q.q.......H.H.
+0040: 80 23 71 00 71 01 71 02  01 56 00 02 00 10 03 80  .#q.q.q..V......
+0050: 00 56 00 01 56 00 21 00                           .V..V.!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  2: 0x0004 [0x24] CREATE_DIALOG(message_id=7*, default_option=0*, option_flags=0*)
+    → "Say the vow. [All right./Not right now.]"
+  3: 0x000B [0x25] WAIT_DIALOG_SELECT()
+  4: 0x000C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004B
+  5: 0x0014 [0x06] Work_Zone[2] = 0
+  6: 0x0017 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  7: 0x0018 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  8: 0x001A [0x48] [System] [8*]:
+    → "Say the first word."
+  9: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x001E [0x71] USER_INPUT_HANDLER: Open password input dialog (sends packet 0x60)
+ 11: 0x0020 [0x71] USER_INPUT_HANDLER: Check if player has input or exited
+ 12: 0x0022 [0x71] USER_INPUT_HANDLER: Check if server responded
+ 13: 0x0024 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0036
+ 14: 0x002C [0x48] [System] [9*]:
+    → "Speak the second word."
+ 15: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x0030 [0x71] USER_INPUT_HANDLER: Open password input dialog (sends packet 0x60)
+ 17: 0x0032 [0x71] USER_INPUT_HANDLER: Check if player has input or exited
+ 18: 0x0034 [0x71] USER_INPUT_HANDLER: Check if server responded
+ 19: 0x0036 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0048
+ 20: 0x003E [0x48] [System] [10*]:
+    → "Utter the third word."
+ 21: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 22: 0x0042 [0x71] USER_INPUT_HANDLER: Open password input dialog (sends packet 0x60)
+ 23: 0x0044 [0x71] USER_INPUT_HANDLER: Check if player has input or exited
+ 24: 0x0046 [0x71] USER_INPUT_HANDLER: Check if server responded
+ 25: 0x0048 [0x01] GOTO 0x0056
+ 26: 0x004B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0056
+ 27: 0x0053 [0x01] GOTO 0x0056
+
+SUBROUTINE_0056:
+ 28: 0x0056 [0x21] END_EVENT
+ 29: 0x0057 [0x00] END_REQSTACK()
+```

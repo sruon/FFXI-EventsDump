@@ -11,17 +11,17 @@
 
 ## List of Events
 
-| Event ID                  | Entrypoint   |   Size |   Instructions |
-|---------------------------|--------------|--------|----------------|
-| [65535](#event-65535)     | 0x0000       |      6 |              2 |
-| [70](#event-70)           | 0x0006       |      1 |              1 |
-| [65535.1](#event-65535-1) | 0x0007       |     20 |              3 |
-| [65535.2](#event-65535-2) | 0x001B       |     56 |             12 |
-| [72](#event-72)           | 0x0053       |      1 |              1 |
-| [65535.3](#event-65535-3) | 0x0054       |     20 |              3 |
-| [65535.4](#event-65535-4) | 0x0068       |     56 |             12 |
-| [81](#event-81)           | 0x00A0       |   3770 |            942 |
-| [65535.5](#event-65535-5) | 0x0F5A       |   2138 |            210 |
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      6 |              2 |
+| [70](#event-70)          | 0x0006       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0007       |     20 |              3 |
+| [65535.2](#event-655352) | 0x001B       |     56 |             12 |
+| [72](#event-72)          | 0x0053       |      1 |              1 |
+| [65535.3](#event-655353) | 0x0054       |     20 |              3 |
+| [65535.4](#event-655354) | 0x0068       |     56 |             12 |
+| [81](#event-81)          | 0x00A0       |   3770 |            942 |
+| [65535.5](#event-655355) | 0x0F5A       |   2138 |            210 |
 
 ## DAT References (imed_data)
 
@@ -224,6 +224,25 @@
 |     194 | 0x0077      |         119 |
 |     195 | 0x008F      |         143 |
 
+## String References
+
+- **9716**: Welcome to the Kokba Hostel!
+- **9738**: Thank you for your patronage! We hope you visit again soon!
+- **9740**: How may I help you? [I'm fine./I need more party items./Digestive magic./Attendant location.]
+- **9741**: I'm terribly sorry, but there are no items available to you at this time.
+- **9742**: Which item do you ask for? [None./Back./$0./$1./$2./$3./$4./$5./$6./$7./Next.]
+- **9743**: I can offer you $0 for $1 gil. Please be aware that all items purchased in the hostel are temporary and will disappear upon leaving the premises.
+- **9744**: Purchase $0? [Yes./No.]
+- **9746**: My apologies, there seems to have been some problem with the transaction.
+- **9747**: A certain Tarutaru has developed a new spell that will magically remove any lingering food effects.
+- **9748**: However, you do not appear to require this service at this time.
+- **9749**: Have your current food effects removed? [Yes, please!/No, thanks!]
+- **9750**: Flabby...? Uh, fla-whatsit... (How did this go again?) FLUSH!!!
+- **9751**: If you would like me to stand somewhere else, please review the locations displayed on the map, then select a location number from the list.
+- **9752**: Where shall I stand? [Here is fine./1."."./4./5./6.]
+- **9753**: Here are the available locations.
+- **9754**: Location $8 is your choice? [Yes./No.]
+
 ## Events
 
 ### Event 65535
@@ -329,7 +348,7 @@
   7: 0x0046 [0x99] Wait for Attendant (ID: 16982453/0x010321B5) animation to complete
   8: 0x004B [0x1C] WAIT(60* ticks)
   9: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
-    → "Welcome to the Kokba Hostel!\u0000\u0007"
+    → "Welcome to the Kokba Hostel!"
  10: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0052 [0x00] END_REQSTACK()
 ```
@@ -413,7 +432,7 @@
   7: 0x0093 [0x99] Wait for Attendant (ID: 16982453/0x010321B5) animation to complete
   8: 0x0098 [0x1C] WAIT(60* ticks)
   9: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=9738*)
-    → "Thank you for your patronage!\u0007We hope you visit again soon!\u0000\u0007"
+    → "Thank you for your patronage! We hope you visit again soon!"
  10: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x009F [0x00] END_REQSTACK()
 ```
@@ -685,7 +704,7 @@
  10: 0x00CD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
  11: 0x00D4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=3*, condition_work_offset=1*)
  12: 0x00DB [0x24] CREATE_DIALOG(message_id=9740*, default_option=ExtData[1]->WorkLocal[12], option_flags=ExtData[1]->WorkLocal[11])
-    → "How may I help you?\u0007\u000BI'm fine.\u0007I need more party items.\u0007Digestive magic.\u0007Attendant location.\u007F1\u0000\u0007"
+    → "How may I help you? [I'm fine./I need more party items./Digestive magic./Attendant location.]"
  13: 0x00E2 [0x25] WAIT_DIALOG_SELECT()
  14: 0x00E3 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[0]
  15: 0x00E8 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=Work_Zone[0])
@@ -971,7 +990,7 @@ SUBROUTINE_067A:
 287: 0x0680 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x06A5
 288: 0x0688 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x069A
 289: 0x0690 [0x1D] PRINT_EVENT_MESSAGE(message_id=9741*)
-    → "I'm terribly sorry, but there are no items available to you at this time.\u007F1\u0000\u0007"
+    → "I'm terribly sorry, but there are no items available to you at this time."
 290: 0x0693 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x0694 [0x01] GOTO 0x00C1
 
@@ -983,7 +1002,7 @@ SUBROUTINE_06A5:
 296: 0x06BC [0x02] IF !(ExtData[1]->WorkLocal[9] > ExtData[1]->WorkLocal[5]) GOTO 0x06CB
 297: 0x06C4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=10*, condition_work_offset=1*)
 298: 0x06CB [0x24] CREATE_DIALOG(message_id=9742*, default_option=ExtData[1]->WorkLocal[13], option_flags=ExtData[1]->WorkLocal[11])
-    → "Which item do you ask for?\u0007\u000BNone.\u0007Back.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0004\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0005\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0006\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0001\u0001 \u0001\u0005$\u0002\u0007\u0000\u0000.\u0007Next.\u007F1\u0000\u0007"
+    → "Which item do you ask for? [None./Back./$0./$1./$2./$3./$4./$5./$6./$7./Next.]"
 299: 0x06D2 [0x25] WAIT_DIALOG_SELECT()
 300: 0x06D3 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[0]
 301: 0x06D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06E6
@@ -1188,11 +1207,10 @@ SUBROUTINE_0B91:
 496: 0x0B91 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
 497: 0x0B96 [0x03] Work_Zone[3] = 100*
 498: 0x0B9B [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
-    → "I can offer you \u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000 for 
-\u0001 gil.\u0007Please be aware that all items purchased in the hostel are temporary and will disappear upon leaving the premises.\u007F1\u0000\u0007"
+    → "I can offer you $0 for $1 gil. Please be aware that all items purchased in the hostel are temporary and will disappear upon leaving the premises."
 499: 0x0B9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 500: 0x0B9F [0x24] CREATE_DIALOG(message_id=9744*, default_option=1*, option_flags=0*)
-    → "Purchase \u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Purchase $0? [Yes./No.]"
 501: 0x0BA6 [0x25] WAIT_DIALOG_SELECT()
 502: 0x0BA7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BD9
 503: 0x0BAF [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -1203,7 +1221,7 @@ SUBROUTINE_0B91:
 508: 0x0BC2 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
 509: 0x0BC7 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0BD6
 510: 0x0BCF [0x1D] PRINT_EVENT_MESSAGE(message_id=9746*)
-    → "My apologies, there seems to have been some problem with the transaction.\u007F1\u0000\u0007"
+    → "My apologies, there seems to have been some problem with the transaction."
 511: 0x0BD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 512: 0x0BD3 [0x01] GOTO 0x0F58
 513: 0x0BD6 [0x01] GOTO 0x0BD9
@@ -1215,7 +1233,7 @@ SUBROUTINE_0C2E:
 515: 0x0C2E [0x01] GOTO 0x0F58
 516: 0x0C31 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0F58
 517: 0x0C39 [0x1D] PRINT_EVENT_MESSAGE(message_id=9751*)
-    → "If you would like me to stand somewhere else, please review the locations displayed on the map, then select a location number from the list.\u007F1\u0000\u0007"
+    → "If you would like me to stand somewhere else, please review the locations displayed on the map, then select a location number from the list."
 518: 0x0C3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x0C3D [0x42] SET_CLI_EVENT_CANCEL_DATA()
 520: 0x0C3E [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=50*, properties=1*)
@@ -1227,7 +1245,7 @@ SUBROUTINE_0C2E:
 SUBROUTINE_0EC7:
 525: 0x0EC7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
 526: 0x0ECC [0x1D] PRINT_EVENT_MESSAGE(message_id=9753*)
-    → "Here are the available locations.\u007F1\u0000\u0007"
+    → "Here are the available locations."
 527: 0x0ECF [0x23] WAIT_FOR_DIALOG_INTERACTION
 528: 0x0ED0 [0x8A] CLOSE_MAP()
 529: 0x0ED1 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=50*, marker=0*
@@ -1242,7 +1260,7 @@ SUBROUTINE_0EC7:
 SUBROUTINE_0EFD:
 537: 0x0EFD [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
 538: 0x0EFE [0x24] CREATE_DIALOG(message_id=9752*, default_option=ExtData[1]->WorkLocal[13], option_flags=0*)
-    → "Where shall I stand?\u0007\u000BHere is fine.\u00071.\u00072.\u00073.\u00074.\u00075.\u00076.\u007F1\u0000\u0007"
+    → "Where shall I stand? [Here is fine./1."."./4./5./6.]"
 539: 0x0F05 [0x25] WAIT_DIALOG_SELECT()
 540: 0x0F06 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F14
 541: 0x0F0E [0x01] GOTO 0x00C1

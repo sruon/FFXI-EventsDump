@@ -18,12 +18,12 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                 |   Events |
-|------------------|------------------|------------------------------------------------------|----------|
-| 0x0108D0EF       |         17354991 | [(unnamed)](./17354991/)                             |        2 |
-| 0x0108D0F1       |         17354993 | [(unnamed)](./17354993/)                             |        2 |
-| 0x0108D0F7       |         17354999 | [Elevator Lever](./17354999%20-%20Elevator%20Lever/) |        3 |
-| 0x0108D0F8       |         17355000 | [Elevator Lever](./17355000%20-%20Elevator%20Lever/) |        3 |
-| 0x0108D105       |         17355013 | [Treasure Chest](./17355013%20-%20Treasure%20Chest/) |        1 |
-| 0x0108D106       |         17355014 | [Survival Guide](./17355014%20-%20Survival%20Guide/) |        3 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/)                      |        2 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                             |   Events |
+|------------------|------------------|--------------------------------------------------|----------|
+| 0x0108D0EF       |         17354991 | [(unnamed)](./17354991.md)                       |        2 |
+| 0x0108D0F1       |         17354993 | [(unnamed)](./17354993.md)                       |        2 |
+| 0x0108D0F7       |         17354999 | [Elevator Lever](./17354999 - Elevator Lever.md) |        3 |
+| 0x0108D0F8       |         17355000 | [Elevator Lever](./17355000 - Elevator Lever.md) |        3 |
+| 0x0108D105       |         17355013 | [Treasure Chest](./17355013 - Treasure Chest.md) |        1 |
+| 0x0108D106       |         17355014 | [Survival Guide](./17355014 - Survival Guide.md) |        3 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)                  |        2 |

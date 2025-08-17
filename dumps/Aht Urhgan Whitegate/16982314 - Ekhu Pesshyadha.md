@@ -11,34 +11,34 @@
 
 ## List of Events
 
-| Event ID                    | Entrypoint   |   Size |   Instructions |
-|-----------------------------|--------------|--------|----------------|
-| [65535](#event-65535)       | 0x0000       |      1 |              1 |
-| [513](#event-513)           | 0x0001       |     56 |             14 |
-| [520](#event-520)           | 0x0039       |      1 |              1 |
-| [522](#event-522)           | 0x003A       |      1 |              1 |
-| [536](#event-536)           | 0x003B       |      6 |              4 |
-| [524](#event-524)           | 0x0041       |      1 |              1 |
-| [65535.1](#event-65535-1)   | 0x0042       |     14 |              4 |
-| [537](#event-537)           | 0x0050       |      6 |              4 |
-| [525](#event-525)           | 0x0056       |      1 |              1 |
-| [65535.2](#event-65535-2)   | 0x0057       |     15 |              3 |
-| [65535.3](#event-65535-3)   | 0x0066       |     14 |              4 |
-| [65535.4](#event-65535-4)   | 0x0074       |     14 |              4 |
-| [526](#event-526)           | 0x0082       |      1 |              1 |
-| [65535.5](#event-65535-5)   | 0x0083       |     15 |              3 |
-| [65535.6](#event-65535-6)   | 0x0092       |     37 |              9 |
-| [527](#event-527)           | 0x00B7       |      1 |              1 |
-| [65535.7](#event-65535-7)   | 0x00B8       |     15 |              3 |
-| [65535.8](#event-65535-8)   | 0x00C7       |     14 |              4 |
-| [531](#event-531)           | 0x00D5       |     32 |              8 |
-| [528](#event-528)           | 0x00F5       |      1 |              1 |
-| [65535.9](#event-65535-9)   | 0x00F6       |     15 |              3 |
-| [65535.10](#event-65535-10) | 0x0105       |     45 |              9 |
-| [532](#event-532)           | 0x0132       |      6 |              4 |
-| [592](#event-592)           | 0x0138       |      1 |              1 |
-| [65535.11](#event-65535-11) | 0x0139       |     16 |              2 |
-| [843](#event-843)           | 0x0149       |      1 |              1 |
+| Event ID                   | Entrypoint   |   Size |   Instructions |
+|----------------------------|--------------|--------|----------------|
+| [65535](#event-65535)      | 0x0000       |      1 |              1 |
+| [513](#event-513)          | 0x0001       |     56 |             14 |
+| [520](#event-520)          | 0x0039       |      1 |              1 |
+| [522](#event-522)          | 0x003A       |      1 |              1 |
+| [536](#event-536)          | 0x003B       |      6 |              4 |
+| [524](#event-524)          | 0x0041       |      1 |              1 |
+| [65535.1](#event-655351)   | 0x0042       |     14 |              4 |
+| [537](#event-537)          | 0x0050       |      6 |              4 |
+| [525](#event-525)          | 0x0056       |      1 |              1 |
+| [65535.2](#event-655352)   | 0x0057       |     15 |              3 |
+| [65535.3](#event-655353)   | 0x0066       |     14 |              4 |
+| [65535.4](#event-655354)   | 0x0074       |     14 |              4 |
+| [526](#event-526)          | 0x0082       |      1 |              1 |
+| [65535.5](#event-655355)   | 0x0083       |     15 |              3 |
+| [65535.6](#event-655356)   | 0x0092       |     37 |              9 |
+| [527](#event-527)          | 0x00B7       |      1 |              1 |
+| [65535.7](#event-655357)   | 0x00B8       |     15 |              3 |
+| [65535.8](#event-655358)   | 0x00C7       |     14 |              4 |
+| [531](#event-531)          | 0x00D5       |     32 |              8 |
+| [528](#event-528)          | 0x00F5       |      1 |              1 |
+| [65535.9](#event-655359)   | 0x00F6       |     15 |              3 |
+| [65535.10](#event-6553510) | 0x0105       |     45 |              9 |
+| [532](#event-532)          | 0x0132       |      6 |              4 |
+| [592](#event-592)          | 0x0138       |      1 |              1 |
+| [65535.11](#event-6553511) | 0x0139       |     16 |              2 |
+| [843](#event-843)          | 0x0149       |      1 |              1 |
 
 ## DAT References (imed_data)
 
@@ -91,6 +91,17 @@
 |      44 | 0x13F5      |        5109 |
 |      45 | 0x0034      |          52 |
 
+## String References
+
+- **4950**: <Sigh>... Fernan doesn't seem nearly as drrreamy as he did in his older work...
+- **4951**: ...What? You just want a scrap of paper?
+- **4952**: Well, I guess I'm finished rrreading this anyway. I don't think it would hurt to tear one letter out of it, so do your worst.
+- **4953**: <Player> rips a letter "A" out of Ekhu Pesshyadha's book!
+- **5016**: I can't stop thinking about that handsome Elvaan in his brilliantly embroidered clothing... I wish I could find out more about him...
+- **5022**: To think I'd become more obsessed with Zabahf than Fernan... What's gotten into me?
+- **5109**: <Sigh>... I wish I could meet a guy like Fernan...
+- **5110**: Yeah, go ahead and laugh. I thought maybe Zabahf and I had something there, but...nah. Fernan is the only guy for me!
+
 ## Events
 
 ### Event 65535
@@ -139,20 +150,20 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=4950*)
-    → "<Sigh>...\u0007Fernan doesn't seem nearly as drrreamy as he did in his older work...\u007F1\u0000\u0007"
+    → "<Sigh>... Fernan doesn't seem nearly as drrreamy as he did in his older work..."
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x000B [0x1C] WAIT(30* ticks)
   5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=4951*)
-    → "...What?\u0007You just want a scrap of paper?\u007F1\u0000\u0007"
+    → "...What? You just want a scrap of paper?"
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0012 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
   8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=4952*)
-    → "Well, I guess I'm finished rrreading this anyway.\u0007I don't think it would hurt to tear one letter out of it, so do your worst.\u007F1\u0000\u0007"
+    → "Well, I guess I'm finished rrreading this anyway. I don't think it would hurt to tear one letter out of it, so do your worst."
   9: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0025 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
  11: 0x0034 [0x48] [System] [4953*]:
-    → "\u001F\u000F\u0008 rips a letter \u00072A\u00073 out of Ekhu Pesshyadha's book!\u007F1\u0000\u0007"
+    → "<Player> rips a letter "A" out of Ekhu Pesshyadha's book!"
  12: 0x0037 [0x21] END_EVENT
  13: 0x0038 [0x00] END_REQSTACK()
 ```
@@ -222,7 +233,7 @@
 
 ```
   0: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=5016*)
-    → "I can't stop thinking about that handsome Elvaan in his brilliantly embroidered clothing... I wish I could find out more about him...\u007F1\u0000\u0007"
+    → "I can't stop thinking about that handsome Elvaan in his brilliantly embroidered clothing... I wish I could find out more about him..."
   1: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003F [0x21] END_EVENT
   3: 0x0040 [0x00] END_REQSTACK()
@@ -295,7 +306,7 @@
 
 ```
   0: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=5022*)
-    → "To think I'd become more obsessed with Zabahf than Fernan... What's gotten into me?\u007F1\u0000\u0007"
+    → "To think I'd become more obsessed with Zabahf than Fernan... What's gotten into me?"
   1: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0054 [0x21] END_EVENT
   3: 0x0055 [0x00] END_REQSTACK()
@@ -576,7 +587,7 @@
   0: 0x00D5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00DA [0x1C] WAIT(30* ticks)
   2: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=5110*)
-    → "Yeah, go ahead and laugh. I thought maybe Zabahf and I had something there, but...nah. Fernan is the only guy for me!\u007F1\u0000\u0007"
+    → "Yeah, go ahead and laugh. I thought maybe Zabahf and I had something there, but...nah. Fernan is the only guy for me!"
   3: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00E1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
   5: 0x00F0 [0x1C] WAIT(180* ticks)
@@ -684,7 +695,7 @@
 
 ```
   0: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=5109*)
-    → "<Sigh>...\u0007I wish I could meet a guy like Fernan...\u007F1\u0000\u0007"
+    → "<Sigh>... I wish I could meet a guy like Fernan..."
   1: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0136 [0x21] END_EVENT
   3: 0x0137 [0x00] END_REQSTACK()

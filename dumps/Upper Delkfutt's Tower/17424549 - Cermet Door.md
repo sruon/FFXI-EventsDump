@@ -1,0 +1,97 @@
+# 17424549 - Cermet Door
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Upper Delkfutt's Tower (ID: 158) |
+| Block Size       | 212 bytes                        |
+| Total Events     | 2                                |
+| References Count | 8                                |
+
+## List of Events
+
+| Event ID      | Entrypoint   |   Size |   Instructions |
+|---------------|--------------|--------|----------------|
+| [2](#event-2) | 0x0000       |    153 |             29 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0017      |          23 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x00C8      |         200 |
+|       4 | 0x003C      |          60 |
+|       5 | 0x0013      |          19 |
+|       6 | 0x005E      |          94 |
+|       7 | 0x00B4      |         180 |
+
+## String References
+
+- **23**: Open door? [Yes./No.]
+
+## Events
+
+### Event 2
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0000    |
+| Data Size    | 153 bytes |
+| Instructions | 29        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 24 00 80 01 80 02 80 25  02 00 10 02 80 00 87 00  $......%........
+0010: 43 00 43 01 46 01 42 45  03 80 F0 FF FF 7F F0 FF  C.C.F.BE........
+0020: FF 7F 66 64 6F 31 02 80  1C 04 80 38 05 80 29 01  ..fdo1.....8..).
+0030: F0 FF FF 7F 0C 45 06 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
+0040: 64 6C 30 32 02 80 45 03  80 F0 FF FF 7F F0 FF FF  dl02..E.........
+0050: 7F 66 64 69 31 02 80 1C  04 80 4C 1C 04 80 27 01  .fdi1.....L...'.
+0060: F0 FF FF 7F 0D 1C 07 80  4D 45 03 80 F0 FF FF 7F  ........ME......
+0070: F0 FF FF 7F 66 64 6F 31  02 80 1C 04 80 03 01 10  ....fdo1........
+0080: 01 80 46 00 01 97 00 02  00 10 01 80 00 97 00 03  ..F.............
+0090: 01 10 02 80 01 97 00 21  00                       .......!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x24] CREATE_DIALOG(message_id=23*, default_option=1*, option_flags=0*)
+    → "Open door? [Yes./No.]"
+  1: 0x0007 [0x25] WAIT_DIALOG_SELECT()
+  2: 0x0008 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0087
+  3: 0x0010 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  4: 0x0012 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  5: 0x0014 [0x46] CAMERA_CONTROL: Disable user control
+  6: 0x0016 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  7: 0x0017 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  8: 0x0028 [0x1C] WAIT(60* ticks)
+  9: 0x002B [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 10: 0x002E [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x0C)
+ 11: 0x0035 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dl02" with entities [LocalPlayer, LocalPlayer], work=[94*, 0*]
+ 12: 0x0046 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 13: 0x0057 [0x1C] WAIT(60* ticks)
+ 14: 0x005A [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 15: 0x005B [0x1C] WAIT(60* ticks)
+ 16: 0x005E [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x0D)
+ 17: 0x0065 [0x1C] WAIT(180* ticks)
+ 18: 0x0068 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 19: 0x0069 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 20: 0x007A [0x1C] WAIT(60* ticks)
+ 21: 0x007D [0x03] Work_Zone[1] = 1*
+ 22: 0x0082 [0x46] CAMERA_CONTROL: Restore default settings
+ 23: 0x0084 [0x01] GOTO 0x0097
+ 24: 0x0087 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0097
+ 25: 0x008F [0x03] Work_Zone[1] = 0*
+ 26: 0x0094 [0x01] GOTO 0x0097
+
+SUBROUTINE_0097:
+ 27: 0x0097 [0x21] END_EVENT
+ 28: 0x0098 [0x00] END_REQSTACK()
+```

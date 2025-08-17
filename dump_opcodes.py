@@ -1,7 +1,6 @@
 import multiprocessing as mp
 import os
 import shutil
-import urllib.parse
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
@@ -13,6 +12,7 @@ from parser.entitydat import EntityDatParser
 from parser.eventcode import EventCodeParser
 from parser.eventdat import EventDatParser
 from parser.opcodes.base import OpcodeContext
+from parser.string_formatter import format_string
 from parser.subroutine import EventCode, Subroutine, Instruction, DataSection, DeadCode
 
 
@@ -159,6 +159,7 @@ class EventDumper:
         
         events_data = []
         event_id_counts = {}
+        string_references = set()  # Collect unique string IDs
 
         for event_index, (event_id, offset, event_data) in enumerate(block.get_all_events()):
             if len(event_data) < 1:
@@ -186,6 +187,10 @@ class EventDumper:
                     calculated_size, instructions, context, control_flow_data
                 )
                 
+                # Collect string references from this event
+                event_strings = self._extract_string_references(instructions, context)
+                string_references.update(event_strings)
+                
                 events_data.append({
                     "id": event_id,
                     "display_id": display_id,
@@ -204,7 +209,7 @@ class EventDumper:
             return None
 
         # Write single actor file
-        self._write_actor_file(zone_path, actor_number, display_name, zone, block, block_index, event_dat, events_data, folder_name)
+        self._write_actor_file(zone_path, actor_number, display_name, zone, block, block_index, event_dat, events_data, folder_name, string_references, zone_strings)
 
         return {
             "id": actor_number,
@@ -213,7 +218,36 @@ class EventDumper:
             "event_count": len(events_data),
         }
 
-    def _write_actor_file(self, zone_path, actor_number, display_name, zone, block, block_index, event_dat, events_data, folder_name):
+    def _extract_string_references(self, instructions, context):
+        """Extract string IDs from instructions that reference strings."""
+        string_ids = set()
+        
+        # Opcodes that use string IDs
+        STRING_OPCODES = {
+            0x1D,  # PRINT_EVENT_MESSAGE
+            0x24,  # CREATE_DIALOG
+            0x2B,  # PRINT_ENTITY_MESSAGE  
+            0x48,  # PRINT_MESSAGE
+            0x49,  # PRINT_EVENT_MESSAGE_NO_SPEAKER
+        }
+        
+        for inst in instructions:
+            if inst.opcode in STRING_OPCODES and inst.opcode_impl:
+                try:
+                    args = inst.opcode_impl.parse_args(inst.raw_bytes)
+                    if 'message_id' in args:
+                        # Resolve the reference to get the actual string ID
+                        from parser.opcodes.base import BaseOpcode
+                        opcode_instance = BaseOpcode()
+                        resolved_id, was_ref = opcode_instance.resolve_reference_value(args['message_id'], context)
+                        if was_ref and resolved_id is not None:
+                            string_ids.add(resolved_id)
+                except:
+                    pass  # Skip if we can't parse the args
+        
+        return string_ids
+    
+    def _write_actor_file(self, zone_path, actor_number, display_name, zone, block, block_index, event_dat, events_data, folder_name, string_references, zone_strings):
         """Write single actor file with all events."""
         actor_file = zone_path / f"{folder_name}.md"
         
@@ -240,8 +274,9 @@ class EventDumper:
         # Events summary table with anchor links
         events_summary = []
         for evt in events_data:
-            # Create anchor that matches markdown auto-generated anchors (lowercase, dashes for spaces/dots)
-            anchor = f"event-{evt['display_id'].replace('.', '-').lower()}"
+            # Create anchor that matches markdown auto-generated anchors
+            # Markdown converts dots to hyphens and makes everything lowercase
+            anchor = f"event-{evt['display_id'].replace('.', '').lower()}"
             event_link = f"[{evt['display_id']}](#{anchor})"
             events_summary.append([event_link, f"0x{evt['offset']:04X}", str(evt["size"]), str(evt["instructions"])])
         events_table = tabulate(events_summary, headers=["Event ID", "Entrypoint", "Size", "Instructions"], tablefmt="github")
@@ -262,6 +297,29 @@ class EventDumper:
         if references_table:
             content.append("## DAT References (imed_data)\n\n")
             content.append(references_table + "\n\n")
+        
+        # Add string references section if we have any
+        if string_references and zone_strings:
+            content.append("## String References\n\n")
+            
+            for string_id in sorted(string_references):
+                # Find the string in zone_strings
+                found_string = None
+                for parsed_string in zone_strings.strings:
+                    if parsed_string.index == string_id:
+                        found_string = parsed_string
+                        break
+                
+                if found_string:
+                    # Format the string using the aligned FFXI formatter
+                    formatted_text = format_string(found_string.text)
+                    # Escape backslashes and backticks for markdown
+                    formatted_text = formatted_text.replace('\\', '\\\\').replace('`', '\\`')
+                    content.append(f"- **{string_id}**: {formatted_text}\n")
+                else:
+                    content.append(f"- **{string_id}**: [String not found]\n")
+            
+            content.append("\n")
         
         # Add events section
         content.append("## Events\n")
@@ -531,8 +589,9 @@ class EventDumper:
                 f.write(f"# Strings for {zone.name}\n")
                 f.write(f"# Total: {len(zone_strings.strings)} strings\n\n")
                 for entry in zone_strings.strings:
-                    text = entry.text.replace("\n", "\\n").replace("\r", "\\r").replace("\t", "\\t")
-                    f.write(f"{entry.index:5d}: {text}\n")
+                    # Format using the aligned formatter
+                    formatted_text = format_string(entry.text)
+                    f.write(f"{entry.index:5d}: {formatted_text}\n")
         except Exception as e:
             logger.warning(f"Failed to dump strings for zone {zone.name}: {e}")
 

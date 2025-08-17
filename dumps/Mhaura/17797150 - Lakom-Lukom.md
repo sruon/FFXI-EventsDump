@@ -1,0 +1,215 @@
+# 17797150 - Lakom-Lukom
+
+## Common Data
+
+| Field            | Value            |
+|------------------|------------------|
+| Zone             | Mhaura (ID: 249) |
+| Block Size       | 636 bytes        |
+| Total Events     | 2                |
+| References Count | 20               |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [600](#event-600)     | 0x0001       |    530 |             72 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0003      |           3 |
+|       1 | 0x0055      |          85 |
+|       2 | 0x1BF1      |        7153 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x1BF2      |        7154 |
+|       5 | 0x1BF3      |        7155 |
+|       6 | 0x0050      |          80 |
+|       7 | 0x1BF4      |        7156 |
+|       8 | 0x0001      |           1 |
+|       9 | 0x1BF5      |        7157 |
+|      10 | 0x1BF6      |        7158 |
+|      11 | 0x0051      |          81 |
+|      12 | 0x1BF7      |        7159 |
+|      13 | 0x0002      |           2 |
+|      14 | 0x1BF8      |        7160 |
+|      15 | 0x1BF9      |        7161 |
+|      16 | 0x1BFA      |        7162 |
+|      17 | 0x1BFB      |        7163 |
+|      18 | 0x1BFC      |        7164 |
+|      19 | 0x1BFD      |        7165 |
+
+## String References
+
+- **7153**: Say, did you know?
+- **7154**: I heard there's a job where you can control monsters and make them do anything you want!
+- **7157**: I heard there's a job where all you have to do is sing!
+- **7160**: I heard there's a job with long-rains whippings and trakking and deetection!
+- **7163**: I heard knights wear the bestest armor-warmor!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 600
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 530 bytes |
+| Instructions | 72        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    13 00 00 00 80 5B 01  80 F8 FF FF 7F F8 FF FF   .....[.........
+0010: 7F 65 68 65 30 1D 02 80  23 53 F8 FF FF 7F F8 FF  .ehe0...#S......
+0020: FF 7F 65 68 65 30 5B 01  80 F8 FF FF 7F F8 FF FF  ..ehe0[.........
+0030: 7F 74 6C 6B 31 02 00 00  03 80 80 84 00 1D 04 80  .tlk1...........
+0040: 23 53 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 31 5E 69  #S........tlk1^i
+0050: 64 6C 30 5B 01 80 1F 90  0F 01 1F 90 0F 01 6B 6F  dl0[..........ko
+0060: 75 30 2B 1F 90 0F 01 05  80 23 5B 06 80 20 90 0F  u0+......#[.. ..
+0070: 01 20 90 0F 01 74 68 6B  31 2B 20 90 0F 01 07 80  . ...thk1+ .....
+0080: 23 01 11 02 02 00 00 08  80 80 29 01 1D 09 80 23  #.........)....#
+0090: 53 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 31 5E 69 64  S........tlk1^id
+00A0: 6C 30 2B 20 90 0F 01 0A  80 5B 0B 80 20 90 0F 01  l0+ .....[.. ...
+00B0: 20 90 0F 01 68 61 69 30  53 20 90 0F 01 20 90 0F   ...hai0S ... ..
+00C0: 01 68 61 69 30 5B 06 80  20 90 0F 01 20 90 0F 01  .hai0[.. ... ...
+00D0: 74 6C 6B 30 23 53 20 90  0F 01 20 90 0F 01 74 6C  tlk0#S ... ...tl
+00E0: 6B 30 4A F8 FF FF 7F 20  90 0F 01 4A 1F 90 0F 01  k0J.... ...J....
+00F0: 20 90 0F 01 6F 76 F8 FF  FF 7F 6F 76 1F 90 0F 01   ...ov....ov....
+0100: 5B 01 80 F8 FF FF 7F F8  FF FF 7F 6B 6F 77 30 5B  [..........kow0[
+0110: 01 80 1F 90 0F 01 1F 90  0F 01 6B 6F 77 30 2B 1F  ..........kow0+.
+0120: 90 0F 01 0C 80 23 01 11  02 02 00 00 0D 80 80 C2  .....#..........
+0130: 01 1D 0E 80 23 53 F8 FF  FF 7F F8 FF FF 7F 74 6C  ....#S........tl
+0140: 6B 31 5E 69 64 6C 30 5B  01 80 1F 90 0F 01 1F 90  k1^idl0[........
+0150: 0F 01 74 68 6B 31 2B 1F  90 0F 01 0F 80 23 2B 20  ..thk1+......#+ 
+0160: 90 0F 01 10 80 5B 0B 80  20 90 0F 01 20 90 0F 01  .....[.. ... ...
+0170: 68 61 69 30 53 20 90 0F  01 20 90 0F 01 68 61 69  hai0S ... ...hai
+0180: 30 5B 06 80 20 90 0F 01  20 90 0F 01 74 6C 6B 30  0[.. ... ...tlk0
+0190: 4A F8 FF FF 7F 20 90 0F  01 5B 01 80 1F 90 0F 01  J.... ...[......
+01A0: 1F 90 0F 01 74 68 6B 32  53 1F 90 0F 01 1F 90 0F  ....thk2S.......
+01B0: 01 74 68 6B 32 4A 1F 90  0F 01 20 90 0F 01 23 01  .thk2J.... ...#.
+01C0: 11 02 02 00 00 00 80 80  11 02 1D 11 80 23 53 F8  .............#S.
+01D0: FF FF 7F F8 FF FF 7F 74  6C 6B 31 5E 69 64 6C 30  .......tlk1^idl0
+01E0: 5B 01 80 1F 90 0F 01 1F  90 0F 01 6B 6F 75 30 2B  [..........kou0+
+01F0: 1F 90 0F 01 12 80 23 5B  06 80 20 90 0F 01 20 90  ......#[.. ... .
+0200: 0F 01 74 68 6B 31 2B 20  90 0F 01 13 80 23 01 11  ..thk1+ .....#..
+0210: 02 21 00                                          .!.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x13] ExtData[1]->WorkLocal[0] = rand() % 3*
+  1: 0x0006 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ehe0" with entities [EventEntity, EventEntity], work=85*
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7153*)
+    → "Say, did you know?"
+  3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  4: 0x0019 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ehe0" with entities [EventEntity, EventEntity]
+  5: 0x0026 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=85*
+  6: 0x0035 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0084
+  7: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7154*)
+    → "I heard there's a job where you can control monsters and make them do anything you want!"
+  8: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0041 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
+ 10: 0x004E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 11: 0x0053 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kou0" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
+ 12: 0x0062 [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7155*]:
+    → "Wow! That sounds like fun! I wanna do that job-wob!"
+ 13: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 14: 0x006A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=80*
+ 15: 0x0079 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7156*]:
+    → "Didn't you say you were going to do some otherrr job before?"
+ 16: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 17: 0x0081 [0x01] GOTO 0x0211
+ 18: 0x0084 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0129
+ 19: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7157*)
+    → "I heard there's a job where all you have to do is sing!"
+ 20: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 21: 0x0090 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
+ 22: 0x009D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 23: 0x00A2 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7158*]:
+    → "Oooh! I'll do that job! It's purrrfect for me! I love singing!"
+ 24: 0x00A9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=81*
+ 25: 0x00B8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)]
+ 26: 0x00C5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=80*
+ 27: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 28: 0x00D5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)]
+ 29: 0x00E2 [0x4A] EventEntity looks at Itzha Delavhitta (ID: 17797152/0x010F9020)
+ 30: 0x00EB [0x4A] Jikka-Abukka (ID: 17797151/0x010F901F) looks at Itzha Delavhitta (ID: 17797152/0x010F9020)
+ 31: 0x00F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 32: 0x00F5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
+ 33: 0x00FA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 34: 0x00FB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Jikka-Abukka (ID: 17797151/0x010F901F) Render.Flags0 and Render.Flags3 conditions are met
+ 35: 0x0100 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kow0" with entities [EventEntity, EventEntity], work=85*
+ 36: 0x010F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kow0" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
+ 37: 0x011E [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7159*]:
+    → "Uh... Liking it and being good at it are two different thing-wings..."
+ 38: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 39: 0x0126 [0x01] GOTO 0x0211
+ 40: 0x0129 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x01C2
+ 41: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=7160*)
+    → "I heard there's a job with long-rains whippings and trakking and deetection!"
+ 42: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 43: 0x0135 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
+ 44: 0x0142 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 45: 0x0147 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
+ 46: 0x0156 [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7161*]:
+    → "Long-rains...what? What kind of job is that!?"
+ 47: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 48: 0x015E [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7162*]:
+    → "Oh, I know! You're talking about rangers! My mom said the famousest ranger is a Mithra, like me!"
+ 49: 0x0165 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=81*
+ 50: 0x0174 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)]
+ 51: 0x0181 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=80*
+ 52: 0x0190 [0x4A] EventEntity looks at Itzha Delavhitta (ID: 17797152/0x010F9020)
+ 53: 0x0199 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
+ 54: 0x01A8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)]
+ 55: 0x01B5 [0x4A] Jikka-Abukka (ID: 17797151/0x010F901F) looks at Itzha Delavhitta (ID: 17797152/0x010F9020)
+ 56: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 57: 0x01BF [0x01] GOTO 0x0211
+ 58: 0x01C2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0211
+ 59: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7163*)
+    → "I heard knights wear the bestest armor-warmor!"
+ 60: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 61: 0x01CE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
+ 62: 0x01DB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 63: 0x01E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kou0" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
+ 64: 0x01EF [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7164*]:
+    → "I know! I'm gonna-wanna be a knight someday!"
+ 65: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 66: 0x01F7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=80*
+ 67: 0x0206 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7165*]:
+    → "... That'll neverrr happen..."
+ 68: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 69: 0x020E [0x01] GOTO 0x0211
+
+SUBROUTINE_0211:
+ 70: 0x0211 [0x21] END_EVENT
+ 71: 0x0212 [0x00] END_REQSTACK()
+```

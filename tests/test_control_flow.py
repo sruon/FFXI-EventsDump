@@ -2,11 +2,10 @@
 Tests for control flow analysis in FFXI event bytecode.
 """
 
-import pytest
+from dump_opcodes import EventDumper
 from parser.control_flow import ControlFlowAnalyzer
 from parser.eventcode import EventCodeParser
 from parser.opcodes.base import OpcodeContext
-from dump_opcodes import EventDumper
 
 
 class TestControlFlow:

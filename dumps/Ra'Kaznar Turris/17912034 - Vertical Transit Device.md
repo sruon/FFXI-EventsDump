@@ -1,0 +1,150 @@
+# 17912034 - Vertical Transit Device
+
+## Common Data
+
+| Field            | Value                      |
+|------------------|----------------------------|
+| Zone             | Ra'Kaznar Turris (ID: 277) |
+| Block Size       | 352 bytes                  |
+| Total Events     | 2                          |
+| References Count | 16                         |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [82](#event-82)       | 0x0001       |    260 |             40 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x20FD      |        8445 |
+|       1 | 0x20FE      |        8446 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x0001      |           1 |
+|       4 | 0x00C8      |         200 |
+|       5 | 0x0013      |          19 |
+|       6 | 0xE290      |       58000 |
+|       7 | 0x4E20      |       20000 |
+|       8 | 0xFFFF8AD0  |  4294937296 |
+|       9 | 0x0800      |        2048 |
+|      10 | 0x02B4      |         692 |
+|      11 | 0x003C      |          60 |
+|      12 | 0x0078      |         120 |
+|      13 | 0x0004      |           4 |
+|      14 | 0x001E      |          30 |
+|      15 | 0x40000000  |  1073741824 |
+
+## String References
+
+- **8445**: This baffling gadget seems to serve as transport to the [lower/higher] floors.
+- **8446**: Head to a [lower/higher] floor? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 82
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 260 bytes |
+| Instructions | 40        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    48 00 80 23 24 01 80  02 80 02 80 25 02 00 10   H..#$......%...
+0010: 02 80 00 F3 00 42 03 01  10 03 80 43 00 43 01 45  .....B.....C.C.E
+0020: 04 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 02 80  ..........fdo1..
+0030: 55 04 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 31 46  U..........fdo1F
+0040: 01 38 05 80 7B F0 FF FF  7F BA F0 FF FF 7F 06 80  .8..{...........
+0050: 07 80 08 80 09 80 45 0A  80 F0 FF FF 7F F0 FF FF  ......E.........
+0060: 7F 73 30 30 35 02 80 45  04 80 F0 FF FF 7F F0 FF  .s005..E........
+0070: FF 7F 66 64 69 31 02 80  55 04 80 F0 FF FF 7F F0  ..fdi1..U.......
+0080: FF FF 7F 66 64 69 31 1C  0B 80 27 08 BD 50 11 01  ...fdi1...'..P..
+0090: 04 1C 0C 80 27 08 F0 FF  FF 7F 32 45 04 80 F0 FF  ....'.....2E....
+00A0: FF 7F F0 FF FF 7F 66 64  6F 31 02 80 55 04 80 F0  ......fdo1..U...
+00B0: FF FF 7F F0 FF FF 7F 66  64 6F 31 2A 08 F0 FF FF  .......fdo1*....
+00C0: 7F 52 0A 80 F0 FF FF 7F  F0 FF FF 7F 73 30 30 35  .R..........s005
+00D0: 29 08 F0 FF FF 7F 33 02  07 10 0D 80 80 EB 00 43  ).....3........C
+00E0: 00 43 01 03 01 10 0D 80  01 EB 00 46 00 1C 0E 80  .C.........F....
+00F0: 01 03 01 02 00 10 03 80  00 03 01 03 01 10 0F 80  ................
+0100: 01 03 01 21 00                                    ...!.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x48] [System] [8445*]:
+    → "This baffling gadget seems to serve as transport to the [lower/higher] floors."
+  1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=8446*, default_option=0*, option_flags=0*)
+    → "Head to a [lower/higher] floor? [Yes./No.]"
+  3: 0x000C [0x25] WAIT_DIALOG_SELECT()
+  4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F3
+  5: 0x0015 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  6: 0x0016 [0x03] Work_Zone[1] = 1*
+  7: 0x001B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  8: 0x001D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  9: 0x001F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 10: 0x0030 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 11: 0x003F [0x46] CAMERA_CONTROL: Disable user control
+ 12: 0x0041 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 13: 0x0044 [0x7B] LocalPlayer stops talking
+ 14: 0x0049 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=58.000*, pos_z=20.000*, pos_y=-30.000*, direction=180.0°*)
+ 15: 0x0056 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[692*, 0*]
+ 16: 0x0067 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 17: 0x0078 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 18: 0x0087 [0x1C] WAIT(60* ticks)
+ 19: 0x008A [0x27] REQ_SET(priority=0x08, entity_id=Unknown NPC (ID: 17911997/0x011150BD), tag_num=0x04)
+ 20: 0x0091 [0x1C] WAIT(120* ticks)
+ 21: 0x0094 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x32)
+ 22: 0x009B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 23: 0x00AC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 24: 0x00BB [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
+ 25: 0x00C1 [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=692*
+ 26: 0x00D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x33)
+ 27: 0x00D7 [0x02] IF !(Work_Zone[7] == 4*) GOTO 0x00EB
+ 28: 0x00DF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 29: 0x00E1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 30: 0x00E3 [0x03] Work_Zone[1] = 4*
+ 31: 0x00E8 [0x01] GOTO 0x00EB
+
+SUBROUTINE_00EB:
+ 32: 0x00EB [0x46] CAMERA_CONTROL: Restore default settings
+ 33: 0x00ED [0x1C] WAIT(30* ticks)
+ 34: 0x00F0 [0x01] GOTO 0x0103
+ 35: 0x00F3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0103
+ 36: 0x00FB [0x03] Work_Zone[1] = 1073741824*
+ 37: 0x0100 [0x01] GOTO 0x0103
+
+SUBROUTINE_0103:
+ 38: 0x0103 [0x21] END_EVENT
+ 39: 0x0104 [0x00] END_REQSTACK()
+```

@@ -1,0 +1,110 @@
+# 17744022 - Ominous Cloud
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Port Bastok (ID: 236) |
+| Block Size       | 108 bytes             |
+| Total Events     | 2                     |
+| References Count | 8                     |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [345](#event-345)     | 0x0001       |     48 |             17 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x2428      |        9256 |
+|       1 | 0x2429      |        9257 |
+|       2 | 0x242A      |        9258 |
+|       3 | 0x03B7      |         951 |
+|       4 | 0x242B      |        9259 |
+|       5 | 0x242C      |        9260 |
+|       6 | 0x242D      |        9261 |
+|       7 | 0x001E      |          30 |
+
+## String References
+
+- **9256**: ...
+- **9257**: ...Outta my face, [buddy/lady].
+- **9258**: I told you to scram! Or would you like a piece of me, huh? If I didn't have to waste my time bundlin' together ninja tools for sissy adventurers like you, I'd fill your ugly mug with bloody bolts faster than you could say Galkan sausage.
+- **9259**: Eh? You're here to get your ninja tools bundled? Curse Altana! And people ask me why I hate this stinkin' job!
+- **9260**: Well, don't just stand there like an idiot! I can't do any bundlin' until you fork over a set of 99 tools and $0! And I ain't doin' no more than seven sets at one time, so don't even try it!
+- **9261**: % looks like he's ready to bite off the head of a baby coeurl...
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 345
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 48 bytes |
+| Instructions | 17       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    79 00 F8 FF FF 7F F0  FF FF 7F 1D 00 80 23 1D   y............#.
+0010: 01 80 23 1D 02 80 23 03  02 10 03 80 1D 04 80 23  ..#...#........#
+0020: 1D 05 80 23 48 06 80 1C  07 80 7B F8 FF FF 7F 21  ...#H.....{....!
+0030: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x79] EventEntity looks at LocalPlayer (Basic look)
+  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=9256*)
+    → "..."
+  2: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=9257*)
+    → "...Outta my face, [buddy/lady]."
+  4: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=9258*)
+    → "I told you to scram! Or would you like a piece of me, huh? If I didn't have to waste my time bundlin' together ninja tools for sissy adventurers like you, I'd fill your ugly mug with bloody bolts faster than you could say Galkan sausage."
+  6: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0017 [0x03] Work_Zone[2] = 951*
+  8: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=9259*)
+    → "Eh? You're here to get your ninja tools bundled? Curse Altana! And people ask me why I hate this stinkin' job!"
+  9: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=9260*)
+    → "Well, don't just stand there like an idiot! I can't do any bundlin' until you fork over a set of 99 tools and $0! And I ain't doin' no more than seven sets at one time, so don't even try it!"
+ 11: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 12: 0x0024 [0x48] [System] [9261*]:
+    → "% looks like he's ready to bite off the head of a baby coeurl..."
+ 13: 0x0027 [0x1C] WAIT(30* ticks)
+ 14: 0x002A [0x7B] EventEntity stops talking
+ 15: 0x002F [0x21] END_EVENT
+ 16: 0x0030 [0x00] END_REQSTACK()
+```

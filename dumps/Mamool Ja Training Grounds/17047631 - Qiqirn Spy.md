@@ -1,0 +1,108 @@
+# 17047631 - Qiqirn Spy
+
+## Common Data
+
+| Field            | Value                               |
+|------------------|-------------------------------------|
+| Zone             | Mamool Ja Training Grounds (ID: 66) |
+| Block Size       | 124 bytes                           |
+| Total Events     | 2                                   |
+| References Count | 5                                   |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [110](#event-110)     | 0x0001       |     76 |             23 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1DA7      |        7591 |
+|       1 | 0x1DA8      |        7592 |
+|       2 | 0x0002      |           2 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x0001      |           1 |
+
+## String References
+
+- **7591**: What yooo want?
+- **7592**: Want yooo want? [To capture yooo./To question yooo./Nooothing at all.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 110
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 76 bytes |
+| Instructions | 23       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 1E F0 FF FF 7F  1D 00 80 23 24 01 80 02    .........#$...
+0010: 80 03 80 25 02 00 10 03  80 00 29 00 43 00 43 01  ...%......).C.C.
+0020: 42 03 01 10 04 80 01 49  00 02 00 10 04 80 00 3E  B......I.......>
+0030: 00 43 00 43 01 42 03 01  10 02 80 01 49 00 02 00  .C.C.B......I...
+0040: 10 02 80 00 49 00 01 49  00 20 00 21 00           ....I..I. .!.   
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7591*)
+    → "What yooo want?"
+  3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7592*, default_option=2*, option_flags=0*)
+    → "Want yooo want? [To capture yooo./To question yooo./Nooothing at all.]"
+  5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
+  6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0029
+  7: 0x001C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  8: 0x001E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  9: 0x0020 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 10: 0x0021 [0x03] Work_Zone[1] = 1*
+ 11: 0x0026 [0x01] GOTO 0x0049
+ 12: 0x0029 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x003E
+ 13: 0x0031 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 14: 0x0033 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 15: 0x0035 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 16: 0x0036 [0x03] Work_Zone[1] = 2*
+ 17: 0x003B [0x01] GOTO 0x0049
+ 18: 0x003E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0049
+ 19: 0x0046 [0x01] GOTO 0x0049
+
+SUBROUTINE_0049:
+ 20: 0x0049 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 21: 0x004B [0x21] END_EVENT
+ 22: 0x004C [0x00] END_REQSTACK()
+```

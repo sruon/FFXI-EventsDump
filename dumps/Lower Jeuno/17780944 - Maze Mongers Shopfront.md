@@ -1,0 +1,182 @@
+# 17780944 - Maze Mongers Shopfront
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Lower Jeuno (ID: 245) |
+| Block Size       | 420 bytes             |
+| Total Events     | 2                     |
+| References Count | 22                    |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [20001](#event-20001) | 0x0001       |    307 |             51 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0018      |          24 |
+|       2 | 0x001F      |          31 |
+|       3 | 0x0010      |          16 |
+|       4 | 0x0017      |          23 |
+|       5 | 0x000F      |          15 |
+|       6 | 0x000A      |          10 |
+|       7 | 0x2621      |        9761 |
+|       8 | 0x2622      |        9762 |
+|       9 | 0x0001      |           1 |
+|      10 | 0x2623      |        9763 |
+|      11 | 0x40000000  |  1073741824 |
+|      12 | 0x262F      |        9775 |
+|      13 | 0x262A      |        9770 |
+|      14 | 0x0003      |           3 |
+|      15 | 0x0004      |           4 |
+|      16 | 0x2624      |        9764 |
+|      17 | 0x005A      |          90 |
+|      18 | 0x00C9      |         201 |
+|      19 | 0x002D      |          45 |
+|      20 | 0x00C8      |         200 |
+|      21 | 0x2625      |        9765 |
+
+## String References
+
+- **9761**: You are about to order a maze with your specified settings. Proceed? (You have accumulated $8 C.C. [point/points].)
+- **9762**: Order this maze? [Yes./No.]
+- **9763**: This transaction will require $6 gil. [Proceed./Cancel.]
+- **9764**: Now entering the maze.
+- **9765**: You have canceled your maze order.
+- **9770**: Your request for entry is being considered...
+- **9775**: You lack the gil necessary to order this maze.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 20001
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 307 bytes |
+| Instructions | 51        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 03 01 10 00 80 41  01 80 02 80 02 10 02 00   B.....A........
+0010: 41 03 80 04 80 02 10 01  00 41 00 80 05 80 02 10  A........A......
+0020: 02 10 14 01 00 06 80 71  20 02 10 03 10 04 10 05  .......q .......
+0030: 10 06 10 07 10 08 10 03  00 17 02 00 48 07 80 23  ............H..#
+0040: 71 21 24 08 80 09 80 00  80 25 02 00 10 00 80 00  q!$......%......
+0050: 22 01 03 08 10 01 00 24  0A 80 09 80 00 80 25 02  "......$......%.
+0060: 00 10 00 80 00 0C 01 02  09 10 01 00 03 7A 00 03  .............z..
+0070: 01 10 0B 80 48 0C 80 01  09 01 48 0D 80 A7 00 A7  ....H.....H.....
+0080: 01 00 00 03 01 10 00 80  40 00 80 0E 80 01 10 00  ........@.......
+0090: 00 02 00 00 0F 80 00 09  01 48 10 80 23 62 09 80  .........H..#b..
+00A0: F0 FF FF 7F F0 FF FF 7F  6D 61 69 6E 00 80 1C 11  ........main....
+00B0: 80 45 12 80 F0 FF FF 7F  F0 FF FF 7F 77 68 6F 31  .E..........who1
+00C0: 00 80 55 12 80 F0 FF FF  7F F0 FF FF 7F 77 68 6F  ..U..........who
+00D0: 31 1C 13 80 45 14 80 F0  FF FF 7F F0 FF FF 7F 66  1...E..........f
+00E0: 64 6F 31 00 80 55 14 80  F0 FF FF 7F F0 FF FF 7F  do1..U..........
+00F0: 66 64 6F 31 45 12 80 F0  FF FF 7F F0 FF FF 7F 77  fdo1E..........w
+0100: 68 69 31 00 80 1C 05 80  30 01 1F 01 02 00 10 09  hi1.....0.......
+0110: 80 00 1F 01 03 01 10 0B  80 48 15 80 01 1F 01 01  .........H......
+0120: 32 01 02 00 10 09 80 00  32 01 03 01 10 0B 80 01  2.......2.......
+0130: 32 01 21 00                                       2.!.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x03] Work_Zone[1] = 0*
+  2: 0x0007 [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[2] (bits 24*-31*)
+  3: 0x0010 [0x41] ExtData[1]->WorkLocal[1] = Work_Zone[2] (bits 16*-23*)
+  4: 0x0019 [0x41] Work_Zone[2] = Work_Zone[2] (bits 0*-15*)
+  5: 0x0022 [0x14] ExtData[1]->WorkLocal[1] *= 10*
+  6: 0x0027 [0x71] USER_INPUT_HANDLER: Moblin Maze Mongers menu (sends packet 0x60) (params=[0x1002, 0x1003, 0x1004, 0x1005, 0x1006, 0x1007, 0x1008])
+  7: 0x0037 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[2]
+  8: 0x003C [0x48] [System] [9761*]:
+    → "You are about to order a maze with your specified settings. Proceed? (You have accumulated $8 C.C. [point/points].)"
+  9: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x0040 [0x71] USER_INPUT_HANDLER: MMM menu check
+ 11: 0x0042 [0x24] CREATE_DIALOG(message_id=9762*, default_option=1*, option_flags=0*)
+    → "Order this maze? [Yes./No.]"
+ 12: 0x0049 [0x25] WAIT_DIALOG_SELECT()
+ 13: 0x004A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0122
+ 14: 0x0052 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[1]
+ 15: 0x0057 [0x24] CREATE_DIALOG(message_id=9763*, default_option=1*, option_flags=0*)
+    → "This transaction will require $6 gil. [Proceed./Cancel.]"
+ 16: 0x005E [0x25] WAIT_DIALOG_SELECT()
+ 17: 0x005F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010C
+ 18: 0x0067 [0x02] IF !(Work_Zone[9] >= ExtData[1]->WorkLocal[1]) GOTO 0x007A
+ 19: 0x006F [0x03] Work_Zone[1] = 1073741824*
+ 20: 0x0074 [0x48] [System] [9775*]:
+    → "You lack the gil necessary to order this maze."
+ 21: 0x0077 [0x01] GOTO 0x0109
+ 22: 0x007A [0x48] [System] [9770*]:
+    → "Your request for entry is being considered..."
+ 23: 0x007D [0xA7] BATTLEFIELD_RESPONSE_WAIT: Wait for server response (Dynamis/MMM/Salvage), mode=0x00
+ 24: 0x007F [0xA7] BATTLEFIELD_RESPONSE_WAIT: Wait for server response with parameter (Dynamis/MMM/Salvage), param=ExtData[1]->WorkLocal[0]
+ 25: 0x0083 [0x03] Work_Zone[1] = 0*
+ 26: 0x0088 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[0])
+ 27: 0x0091 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0109
+ 28: 0x0099 [0x48] [System] [9764*]:
+    → "Now entering the maze."
+ 29: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 30: 0x009D [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
+ 31: 0x00AE [0x1C] WAIT(90* ticks)
+ 32: 0x00B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 33: 0x00C2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
+ 34: 0x00D1 [0x1C] WAIT(45* ticks)
+ 35: 0x00D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 36: 0x00E5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 37: 0x00F4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 38: 0x0105 [0x1C] WAIT(15* ticks)
+ 39: 0x0108 [0x30] SET_UCOFF_CONTINUE_ZERO()
+
+SUBROUTINE_0109:
+ 40: 0x0109 [0x01] GOTO 0x011F
+ 41: 0x010C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x011F
+ 42: 0x0114 [0x03] Work_Zone[1] = 1073741824*
+ 43: 0x0119 [0x48] [System] [9765*]:
+    → "You have canceled your maze order."
+ 44: 0x011C [0x01] GOTO 0x011F
+
+SUBROUTINE_011F:
+ 45: 0x011F [0x01] GOTO 0x0132
+ 46: 0x0122 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0132
+ 47: 0x012A [0x03] Work_Zone[1] = 1073741824*
+ 48: 0x012F [0x01] GOTO 0x0132
+
+SUBROUTINE_0132:
+ 49: 0x0132 [0x21] END_EVENT
+ 50: 0x0133 [0x00] END_REQSTACK()
+```

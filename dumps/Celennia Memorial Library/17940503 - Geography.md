@@ -1,0 +1,878 @@
+# 17940503 - Geography
+
+## Common Data
+
+| Field            | Value                               |
+|------------------|-------------------------------------|
+| Zone             | Celennia Memorial Library (ID: 284) |
+| Block Size       | 1932 bytes                          |
+| Total Events     | 2                                   |
+| References Count | 94                                  |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [1002](#event-1002)   | 0x0001       |   1531 |            413 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CB1      |        7345 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0004      |           4 |
+|       3 | 0x1CB2      |        7346 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x0002      |           2 |
+|       6 | 0x0003      |           3 |
+|       7 | 0x0008      |           8 |
+|       8 | 0x0010      |          16 |
+|       9 | 0x0005      |           5 |
+|      10 | 0x0020      |          32 |
+|      11 | 0x0006      |           6 |
+|      12 | 0x0040      |          64 |
+|      13 | 0x0007      |           7 |
+|      14 | 0x0080      |         128 |
+|      15 | 0x0100      |         256 |
+|      16 | 0x0009      |           9 |
+|      17 | 0x0200      |         512 |
+|      18 | 0x000A      |          10 |
+|      19 | 0x0400      |        1024 |
+|      20 | 0x000B      |          11 |
+|      21 | 0x0800      |        2048 |
+|      22 | 0x000C      |          12 |
+|      23 | 0x1000      |        4096 |
+|      24 | 0x000D      |          13 |
+|      25 | 0x2000      |        8192 |
+|      26 | 0x000E      |          14 |
+|      27 | 0x4000      |       16384 |
+|      28 | 0x1CB3      |        7347 |
+|      29 | 0x1C60      |        7264 |
+|      30 | 0x1D1E      |        7454 |
+|      31 | 0x1D1F      |        7455 |
+|      32 | 0x1D20      |        7456 |
+|      33 | 0x1D21      |        7457 |
+|      34 | 0x1D22      |        7458 |
+|      35 | 0x1D23      |        7459 |
+|      36 | 0x1D24      |        7460 |
+|      37 | 0x1D25      |        7461 |
+|      38 | 0x1D26      |        7462 |
+|      39 | 0x1D27      |        7463 |
+|      40 | 0x1D28      |        7464 |
+|      41 | 0x1D29      |        7465 |
+|      42 | 0x1D32      |        7474 |
+|      43 | 0x1D33      |        7475 |
+|      44 | 0x1D2A      |        7466 |
+|      45 | 0x1D2B      |        7467 |
+|      46 | 0x1D2C      |        7468 |
+|      47 | 0x1D2D      |        7469 |
+|      48 | 0x1D2E      |        7470 |
+|      49 | 0x1D2F      |        7471 |
+|      50 | 0x1D30      |        7472 |
+|      51 | 0x1D31      |        7473 |
+|      52 | 0x1D34      |        7476 |
+|      53 | 0x1D35      |        7477 |
+|      54 | 0x1D36      |        7478 |
+|      55 | 0x1D37      |        7479 |
+|      56 | 0x1D3A      |        7482 |
+|      57 | 0x1D3B      |        7483 |
+|      58 | 0x1D38      |        7480 |
+|      59 | 0x1D39      |        7481 |
+|      60 | 0x000F      |          15 |
+|      61 | 0x80000     |      524288 |
+|      62 | 0x1CB4      |        7348 |
+|      63 | 0x1D19      |        7449 |
+|      64 | 0x1D1A      |        7450 |
+|      65 | 0x1D1B      |        7451 |
+|      66 | 0x1D1C      |        7452 |
+|      67 | 0x1D1D      |        7453 |
+|      68 | 0x1D3C      |        7484 |
+|      69 | 0x1D3D      |        7485 |
+|      70 | 0x1D3E      |        7486 |
+|      71 | 0x1D3F      |        7487 |
+|      72 | 0x1D40      |        7488 |
+|      73 | 0x1D41      |        7489 |
+|      74 | 0x1D42      |        7490 |
+|      75 | 0x1D43      |        7491 |
+|      76 | 0x1D44      |        7492 |
+|      77 | 0x1D45      |        7493 |
+|      78 | 0x1D46      |        7494 |
+|      79 | 0x1D47      |        7495 |
+|      80 | 0x1D48      |        7496 |
+|      81 | 0x1D49      |        7497 |
+|      82 | 0x1D4A      |        7498 |
+|      83 | 0x1D4B      |        7499 |
+|      84 | 0x1D4C      |        7500 |
+|      85 | 0x0011      |          17 |
+|      86 | 0x1D4D      |        7501 |
+|      87 | 0x0012      |          18 |
+|      88 | 0x1D4E      |        7502 |
+|      89 | 0x1D4F      |        7503 |
+|      90 | 0x0013      |          19 |
+|      91 | 0x1D50      |        7504 |
+|      92 | 0x1D51      |        7505 |
+|      93 | 0x0014      |          20 |
+
+## String References
+
+- **7264**: @@
+- **7345**: This shelf is stacked with tomes delineating the geography of Eastern Ulbuka.
+- **7346**: What region will you research? [East Ulbuka Territory./Adoulin Islands./Miscellaneous./Nothing.]
+- **7347**: What place will you research? [Ceizak Battlegrounds./Yahse Hunting Grounds./Foret de Hennetiel./Morimar Basalt Fields./Yorcia Weald./Marjami Ravine./Kamihr Drifts./Sih Gates./Moh Gates./Cirdas Caverns./Dho Gates./Woh Gates./Outer Ra'Kaznar./Ra'Kaznar Inner Court./Leafallia./None.]
+- **7348**: What place shall you research? [Adoulin./Rala Waterways./Platea Triumphus./Fontis Xanira./Jorius Yett./Airship Docks./Adoulin Waterfront./Senroh Sea./Big Bridge./Castle Adoulin./Celennia Memorial Library./Goddess Promenade./Caf<Player>i des Larmes./Coronal Esplanade./Sverdhried Hillock./Silver Knife./Exorcist Priory./Mog Gardens./Civic Arboretum./Watergarden Coliseum./None.]
+- **7449**: Adoulin: The most densely populated city in Ulbuka, it is also the heart of the alliance that binds all the continent's settlements together.
+- **7450**: Situated on the very precipice of Ulbuka's eastern seaboard, the geographically rent metropolis is sewn together by Big Bridge, which connects the Adoulin archipelago to the east and the mainland to the west.
+- **7451**: The eastern district fans out from Castle Adoulin, acting as both the administrative center of the city and a residential haven for the nobility. Spacious manses line the streets and the who's who of Adoulin can be seen leisurely strolling by, taking in the sights and sounds. In contrast, the western district serves as the hub of the colonization movement, with its most striking feature being the hustle and bustle of pioneers hailing from lands far away.
+- **7452**: Rala Waterways: Spanning both Eastern and Western Adoulin, this underground series of gargantuan tunnels directs the flow of water throughout the city through the use of heavy wooden sluice gates.
+- **7453**: Built when the city was first established, it finally underwent renovation approximately two hundred years ago, when architects greatly improved upon the original design. No one was able to completely annihilate the ferocious beasts that lurk deep within, however, and certain sections of the waterways remain sealed off to prevent these hellions from wreaking havoc on the public.
+- **7454**: Ceizak Battlegrounds: Beyond the guarding gaze of Jorius Yett lie the Ceizak Battlegrounds, a dense stretch of jungle serving as the symbol of Western Adoulin.
+- **7455**: Species of vermin never before seen in the Middle Lands call the battlegrounds home and, together with enormous trees impeding any sense of progress, pose an obstacle for intrepid pioneers to overcome. No colonization effort has any hope of succeeding without first breaking the land free from the stranglehold of its twisted grasp.
+- **7456**: Yahse Hunting Grounds: Partly exposed to the thrashing waves of the desolate Senroh Sea, the hunting grounds are a second expanse of jungle located adjacent to the Ceizak Battlegrounds and can be accessed via boat from Eastern Adoulin.
+- **7457**: Perhaps in part due to the similar topography, flora, and fauna, many pioneers have lost their way when traversing between the two. Enormous trees dominate the landscape, their twisted roots serving as a grim reminder that humanity is not welcome within.
+- **7458**: Foret de Hennetiel: The Foret de Hennetiel--the lowest-lying area in all of Eastern Ulbuka--is known throughout all Adoulin as a harsh, punishing environment where neither people nor animals had been able to tread for hundreds of years due to the contamination of the Zoldeff River that flows through it.
+- **7459**: Yet nature herself eventually reclaims all that has been sullied, which has led to a blossoming of all manner of fascinating plant life hitherto unseen. Settling this wilderness poses yet another issue the Adoulinians must overcome.
+- **7460**: Morimar Basalt Fields: Pioneers who brave the dank and treacherous Moh Gates are greeted with a sight just as grisly as that in the basalt fields. Crusted magma vomited from the mouths of the region's countless volcanoes covers the ground in wrinkled, sludge-gray masses.
+- **7461**: Despite the gelid climate, the scalding water that spews forth from the area's myriad springs makes it almost impossible for more than a single ilm of snow to accumulate. Thus, though vegetation is scarce, the snow barely provides any respite for the eyes. About the only living creatures in this glacial clime are the lizards that stalk adventurers with a starved determination.
+- **7462**: Yorcia Weald: Situated above the Cirdas Caverns, Yorcia Weald flourishes with a cornucopia of ancient vegetation that remains fundamentally unchanged since before the time of the founder king. While the battlegrounds and hunting grounds each contain dense groves of verdant trees, those of Yorcia Weald grow so close together that their collective canopy keeps the forest floor shrouded in darkness.
+- **7463**: This atmosphere proves to be an ideal breeding ground for a vast array of menacing wildlife, perverted by the poisons that endlessly seep from the caverns below. This climate is particularly kind to plantoids, as they can be seen swishing through breaks in the trees throughout the weald.
+- **7464**: Marjami Ravine: Many ridges meander back and forth across this natural terrace adjoining the Dho Gates, but the swift-flowing river that runs from north to south cleaves the land the deepest by far.
+- **7465**: A veritable aviary, the ravine serves as the habitat for birds of all types of plumage. Though there may be few natural impediments in the area, filthy Velkk encampments sully the leafy green color emitted by the grasses, shrubs, and even the occasional tree that brightens the rocky ridges there.
+- **7466**: Sih Gates: The gates are famous as home to all types of grisly foes around its large rocks and within its limestone caves. The roots of the gigantic arbors found in the hunting grounds and battlegrounds protrude from the rocks, choking what remains of the treaded paths and preventing easy passage.
+- **7467**: Many species of fungi line the walls and floor of the caves, but they are not fit for consumption, and as such can provide little succor. The population of the vile acuexes within has been multiplying, and with pioneers forced to fight in such close quarters, antitoxins are a must for survival.
+- **7468**: Moh Gates: The Moh Gates are a dungeon connecting Ceizak Battlegrounds with Morimar Basalt Fields. Serving as a stark contrast to the frigid fields, waves of red-hot magma churn in the depths below--a chilling testament to the destructive force that nature can be.
+- **7469**: In some places, sizzling hot springs bubble just above the surface, to which many pioneers pay regular visits to recover from their weary days. Yet with the vicious matamata lying in wait just along the outskirts, any respite is short-lived.
+- **7470**: Cirdas Caverns: This labyrinthine subterranean expanse connects the Sih and Moh Gates below Yorcia Weald, though entering it provides little sense of joy for pioneers, as traversing the gigantic gnarled tree roots makes crossing even the widest passageway an exercise in patience and stamina.
+- **7471**: The caverns are home to funguars and mosses as poisonous as they are vibrant, and they eventually corrupt all life-forms that desperately cling to their cursed walls. Its tenebrous atmosphere also enables umbrils to skulk about the caverns' vast rocky interior at all times, instead of appearing only during the witching hours--as they do in front of Adoulinians venturing out into the city's surroundings.
+- **7472**: Dho Gates: Being connected to Cirdas Caverns as well as Marjami Ravine and Foret de Hennetiel, it is surprising that the Dho Gates do not cause a larger number of pioneers to lose their way and eventually perish than is currently reported.
+- **7473**: The saving grace of this harsh underground passage is its abundance of water. Rainwater from Marjami Ravine gathers to form rivers and plummets from sheer cliffs, creating stunning waterfalls. Water from the Senroh Sea even finds its way into the Dho Gates, giving birth to a subterranean lake. The Gates are also home to hordes of Velkk, who have scattered both outposts and tunnels throughout the area.
+- **7474**: Kamihr Drifts: The Kamihr Drifts are a snow-covered land at the base of Mt. Kamihr, located beyond the dreary walls of the Woh Gates. Its harsh conditions have long prevented entry into its chilling embrace.
+- **7475**: Beasts of all kinds have adapted to the atmosphere, which serves as yet another barrier to the progress of colonization.
+- **7476**: Woh Gates: The Woh Gates run from north to south, linking Marjami Ravine, Morimar Basalt Fields, and Kamihr Drifts.
+- **7477**: From the warm area in the south that serves as home to Velkk tribes to the ice-covered walls of the north, the caves are notable for remarkable differences in temperature. What's more, unexplored ruins have stood within the deepest recesses of the cave for countless generations.
+- **7478**: Outer Ra'Kaznar: Little is known about this bewildering edifice that stands amongst the recesses of Kamihr Drifts: not the materials used to erect its sturdy walls, not the identity of the sorcery that adds an uncanny sheen to the building's door, and certainly not why it was constructed.
+- **7479**: What has been empirically proven is that treading upon its interior is an invitation to death. Phantoms that need not their heads to disembowel trespassers account for but a tiny portion of the grotesqueries that lurk within its subterranean chambers. As may be self-evident at this juncture, not a soul has yet to fully detail the floor plans of this structure.
+- **7480**: Leafallia: Nestled beyond a craggy passageway situated within Kamihr Drifts, this cozy little village is an oasis of verdure amidst the expanse of cold, whitewashed snowbanks that composes the surrounding area. One glance at the vivid foliage and the bright moss laid out upon the forest floor there should soothe one's spirit, no matter how weary.
+- **7481**: As the name implies, it also serves as the home of those rascally leafkin. Countless academics the continent over have been searching for this secluded copse in hopes of understanding how these bushy bulbs interact with each other.
+- **7482**: Ra'Kaznar Inner Court: Accessible by vertical transit devices, this section lies deep within the bowels of Ra'Kaznar and holds even more mysteries than the outer portion. How its hallways are able to remain afloat above impenetrable darkness is anyone's guess.
+- **7483**: Though nary a survey has been conducted here as of the time of this writing, this much is clear: exercise extreme caution upon entering its perimeter.
+- **7484**: Platea Triumphus: Multiple roads emanate from all angles of this plaza that lies at the center of Western Adoulin. The origin of this peculiar moniker dates back to a time before Jorius Yett was erected. Prior to when the city was heavily walled from all sides and a thick gate was needed to protect the citizenry from the terrors of Eastern Ulbuka, processions of soldiers returning home from a triumphant battle would be greeted by thankful settlers here.
+- **7485**: Fontis Xanira: Named after Xanira, the stalwart Hume who was the first knight in what came to be the Order of Janniston, this fountain in Platea Triumphus gushes water that would be--were it not liquid--clean enough to eat off.
+- **7486**: Jorius Yett: Erected two centuries ago when the city expanded onto the mainland, this steadfast gate that towers above the streets repels any invaders who dare attack Western Adoulin via Ceizak Battlegrounds. Its eponymous knight, Jorius, proved himself in the eyes of the founder king and became the first knight in what gestated into the Order of Weatherspoon.
+- **7487**: Airship Docks: Of little interest to civilians since no passenger airships alight there, this terminal is used exclusively for the transport of freight. There is little else to mention about this rotunda, except that it lies in the north of Western Adoulin.
+- **7488**: Adoulin Waterfront: This humble port situated in the northwest of Western Adoulin was integral to turning an isolated settlement into a thriving maritime center of trade. Freight ships may have had the largest impact on the development of the sacred city, but fishing boats also patron its waters, with the heavy traffic of smaller vessels forming momentary patterns upon the bay in their wake.
+- **7489**: Senroh Sea: Invaluable to couriers and merchants who wish to fatten their coinpurses abroad, the Senroh Sea contains the archipelago many Ulbukan inhabitants refer to as the Adoulin Islands. To the east of this raging ocean lies the Sea of Zafmlug, the ebb and flow of whose currents creates the perfect conditions for raising the most succulent of seafare.
+- **7490**: The currents are a double-edged sword, however, and many a ship has left port only to capsize in the sea's turbulent waters or be heaved in directions unknown.
+- **7491**: Big Bridge: This colossal structure is a monument to mankind's ingenuity. Spanning the Senroh Sea to connect Eastern and Western Adoulin, the fact that historical accounts attest to its existence before even the founder king only adds to the bridge's mystique.
+- **7492**: Castle Adoulin: Providing a beacon to all who enter Eastern Adoulin, Castle Adoulin stands on the fringe of the city's more opulent district. It was the obvious home of the Adoulin family when the king still held absolute power, but even after the king abdicated and the alliance was approved, the Adoulins retain control over their historical manse.
+- **7493**: Celennia Memorial Library: The entirety of the Scouts' Coalition's archives is on display here and can be viewed by anyone who meets the proper requirements. The building's name comes from the time of the founder king, when an envoy from Rhazowa calling herself Celennia Wexworth visited these lands and imparted stores of knowledge upon the people of this realm.
+- **7494**: Goddess Promenade: A statue of Altana stands prominently in the center of this grassy mall, arms open wide in a welcoming gesture. Two canals flank this popular spot to indulge in reverie, and a caf<Player>i run by a rather eccentric individual borders the commons to the north.
+- **7495**: Legend states that the Goddess herself once appeared before an Adoulinian sculptor on his visit to the Middle Lands. After viewing her holy visage in an ancient tomb deep within the forest, divine inspiration took hold of his hands and never relinquished its grip. He spent the remainder of his life meticulously chiseling the majestic statue that graces us now.
+- **7496**: Caf<Player>i des Larmes: Never in want of customers, pioneers and civilians alike populate the tables of this quaint establishment day in and day out. The owner, renowned for his peculiar speech patterns and mannerisms, decided the caf<Player>i would take an open-terrace approach to dining, meaning there are no indoor seats of which to speak.
+- **7497**: Coronal Esplanade: The open area that rests atop Sverdhried Hillock is named Coronal Esplanade after the piece of art containing dual circles that adorns the gates to Castle Adoulin. Some speculate the reason it has such a pompous name as opposed to a more commonplace one such as "Sun Plaza" is that the grand estates that line the courtyard all belong to the nobility, but these claims are naught but rumors.
+- **7498**: Sverdhried Hillock: Its name taken from the grandfather of the runic arts, this lofty hill bisects Eastern Adoulin. Sverdhried's contributions are of incontrovertible importance to the prosperity of Adoulin, but records suggest the hillock was named after him not for his good deeds, but because he climbed it multiple times each day to increase his endurance.
+- **7499**: Silver Knife: This peculiar auction house in Eastern Adoulin services only a certain clientele, but what exactly makes one part of that clientele is a tightly guarded secret.
+- **7500**: Exorcist Priory: Exorcists call this sanctum home, and when they are not sojourning in the Middle Lands to force Pyracmon back from whence he came, they can be found seeking guidance from the Goddess, honing their techniques, and training both their minds and bodies here. The priory was constructed next to the Order of Weatherspoon so that the minister of judication and the order itself could exert their authority over its occupants all the easier.
+- **7501**: Mog Gardens: Little slices of pastoral paradise, mog gardens are parcels of land apportioned to pioneers for their service to Adoulin. They sit upon the various tiny islets that dot the Senroh Sea, but do not be deceived by their size. They have all the resources a seasoned explorer could ever need--provided he is willing to reap what he sows.
+- **7502**: Civic Arboretum: All produce sold at the farmers' market aboveground is grown in this subterranean greenhouse within the Rala Waterways. Owned and operated by the city, all its profits are used for improving the quality of the vegetables the staff there grows.
+- **7503**: This task has proven to be a mighty one indeed, for the lack of direct sunlight severely impairs the development of plants. The Inventors' Coalition has been kind enough to provide stimulating agents that drastically enhance seasonal yields, thereby taking the first step toward solving the city's food shortage.
+- **7504**: Watergarden Coliseum: Should an irreconcilable dispute arise between two parties, or should one's gladiatorial prowess need be proven upon a fellow man, this is the spot where the duel shall be held. Combatants cannot simply waltz into the stadium, however, as the proper paperwork must be officially notarized before any sparring can take place.
+- **7505**: It is debatable as to whether this policy is responsible for the rapid decline in human combatants, but either way, the only applications the coliseum has received of late come from the Mummers' Coalition. Noble and plebeian alike are welcome to attend their raptor fights, and these tests of raw, bestial skill have garnered quite the following as of this writing.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 1002
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1531 bytes |
+| Instructions | 412        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 00 00 02 10 03 01  00 03 10 03 02 00 04 10   ...............
+0010: 03 03 00 05 10 03 04 00  06 10 03 05 00 07 10 03  ................
+0020: 06 00 08 10 03 07 00 09  10 4A F0 FF FF 7F F8 FF  .........J......
+0030: FF 7F 48 00 80 23 03 08  00 01 80 03 0A 00 01 80  ..H..#..........
+0040: 02 08 00 01 80 00 FA 05  03 09 00 01 80 03 0B 00  ................
+0050: 01 80 06 0C 00 03 0E 00  02 80 0E 0C 00 0E 00 24  ...............$
+0060: 03 80 0A 00 0C 00 25 02  00 10 01 80 00 6D 03 03  ......%......m..
+0070: 0A 00 00 10 02 09 00 01  80 00 6A 03 06 0D 00 3E  ..........j....>
+0080: 00 00 01 80 89 00 01 93  00 03 0E 00 04 80 0E 0D  ................
+0090: 00 0E 00 3E 00 00 04 80  9D 00 01 A7 00 03 0E 00  ...>............
+00A0: 05 80 0E 0D 00 0E 00 3E  00 00 05 80 B1 00 01 BB  .......>........
+00B0: 00 03 0E 00 02 80 0E 0D  00 0E 00 3E 00 00 06 80  ...........>....
+00C0: C5 00 01 CF 00 03 0E 00  07 80 0E 0D 00 0E 00 3E  ...............>
+00D0: 00 00 02 80 D9 00 01 E3  00 03 0E 00 08 80 0E 0D  ................
+00E0: 00 0E 00 3E 00 00 09 80  ED 00 01 F7 00 03 0E 00  ...>............
+00F0: 0A 80 0E 0D 00 0E 00 3E  00 00 0B 80 01 01 01 0B  .......>........
+0100: 01 03 0E 00 0C 80 0E 0D  00 0E 00 3E 00 00 0D 80  ...........>....
+0110: 15 01 01 1F 01 03 0E 00  0E 80 0E 0D 00 0E 00 3E  ...............>
+0120: 00 00 07 80 29 01 01 33  01 03 0E 00 0F 80 0E 0D  ....)..3........
+0130: 00 0E 00 3E 00 00 10 80  3D 01 01 47 01 03 0E 00  ...>....=..G....
+0140: 11 80 0E 0D 00 0E 00 3E  00 00 12 80 51 01 01 5B  .......>....Q..[
+0150: 01 03 0E 00 13 80 0E 0D  00 0E 00 3E 00 00 14 80  ...........>....
+0160: 65 01 01 6F 01 03 0E 00  15 80 0E 0D 00 0E 00 3E  e..o...........>
+0170: 00 00 16 80 79 01 01 83  01 03 0E 00 17 80 0E 0D  ....y...........
+0180: 00 0E 00 3E 00 00 18 80  8D 01 01 97 01 03 0E 00  ...>............
+0190: 19 80 0E 0D 00 0E 00 3E  00 00 1A 80 A1 01 01 AB  .......>........
+01A0: 01 03 0E 00 1B 80 0E 0D  00 0E 00 24 1C 80 0B 00  ...........$....
+01B0: 0D 00 25 02 00 10 01 80  00 CF 01 03 0B 00 00 10  ..%.............
+01C0: 48 1D 80 23 48 1E 80 23  48 1F 80 23 01 67 03 02  H..#H..#H..#.g..
+01D0: 00 10 04 80 00 EB 01 03  0B 00 00 10 48 1D 80 23  ............H..#
+01E0: 48 20 80 23 48 21 80 23  01 67 03 02 00 10 05 80  H .#H!.#.g......
+01F0: 00 07 02 03 0B 00 00 10  48 1D 80 23 48 22 80 23  ........H..#H".#
+0200: 48 23 80 23 01 67 03 02  00 10 06 80 00 23 02 03  H#.#.g.......#..
+0210: 0B 00 00 10 48 1D 80 23  48 24 80 23 48 25 80 23  ....H..#H$.#H%.#
+0220: 01 67 03 02 00 10 02 80  00 3F 02 03 0B 00 00 10  .g.......?......
+0230: 48 1D 80 23 48 26 80 23  48 27 80 23 01 67 03 02  H..#H&.#H'.#.g..
+0240: 00 10 09 80 00 5B 02 03  0B 00 00 10 48 1D 80 23  .....[......H..#
+0250: 48 28 80 23 48 29 80 23  01 67 03 02 00 10 0B 80  H(.#H).#.g......
+0260: 00 77 02 03 0B 00 00 10  48 1D 80 23 48 2A 80 23  .w......H..#H*.#
+0270: 48 2B 80 23 01 67 03 02  00 10 0D 80 00 93 02 03  H+.#.g..........
+0280: 0B 00 00 10 48 1D 80 23  48 2C 80 23 48 2D 80 23  ....H..#H,.#H-.#
+0290: 01 67 03 02 00 10 07 80  00 AF 02 03 0B 00 00 10  .g..............
+02A0: 48 1D 80 23 48 2E 80 23  48 2F 80 23 01 67 03 02  H..#H..#H/.#.g..
+02B0: 00 10 10 80 00 CB 02 03  0B 00 00 10 48 1D 80 23  ............H..#
+02C0: 48 30 80 23 48 31 80 23  01 67 03 02 00 10 12 80  H0.#H1.#.g......
+02D0: 00 E7 02 03 0B 00 00 10  48 1D 80 23 48 32 80 23  ........H..#H2.#
+02E0: 48 33 80 23 01 67 03 02  00 10 14 80 00 03 03 03  H3.#.g..........
+02F0: 0B 00 00 10 48 1D 80 23  48 34 80 23 48 35 80 23  ....H..#H4.#H5.#
+0300: 01 67 03 02 00 10 16 80  00 1F 03 03 0B 00 00 10  .g..............
+0310: 48 1D 80 23 48 36 80 23  48 37 80 23 01 67 03 02  H..#H6.#H7.#.g..
+0320: 00 10 18 80 00 3B 03 03  0B 00 00 10 48 1D 80 23  .....;......H..#
+0330: 48 38 80 23 48 39 80 23  01 67 03 02 00 10 1A 80  H8.#H9.#.g......
+0340: 00 57 03 03 0B 00 00 10  48 1D 80 23 48 3A 80 23  .W......H..#H:.#
+0350: 48 3B 80 23 01 67 03 02  00 10 3C 80 00 67 03 03  H;.#.g....<..g..
+0360: 09 00 04 80 01 67 03 01  74 00 01 F7 05 02 00 10  .....g..t.......
+0370: 04 80 00 D5 05 03 0A 00  00 10 02 09 00 01 80 00  ................
+0380: D2 05 06 0D 00 3E 01 00  01 80 8F 03 01 99 03 03  .....>..........
+0390: 0E 00 05 80 0E 0D 00 0E  00 3E 01 00 05 80 A3 03  .........>......
+03A0: 01 AD 03 03 0E 00 3D 80  0E 0D 00 0E 00 24 3E 80  ......=......$>.
+03B0: 0B 00 0D 00 25 02 00 10  01 80 00 D5 03 03 0B 00  ....%...........
+03C0: 00 10 48 1D 80 23 48 3F  80 23 48 40 80 23 48 41  ..H..#H?.#H@.#HA
+03D0: 80 23 01 CF 05 02 00 10  04 80 00 F1 03 03 0B 00  .#..............
+03E0: 00 10 48 1D 80 23 48 42  80 23 48 43 80 23 01 CF  ..H..#HB.#HC.#..
+03F0: 05 02 00 10 05 80 00 09  04 03 0B 00 00 10 48 1D  ..............H.
+0400: 80 23 48 44 80 23 01 CF  05 02 00 10 06 80 00 21  .#HD.#.........!
+0410: 04 03 0B 00 00 10 48 1D  80 23 48 45 80 23 01 CF  ......H..#HE.#..
+0420: 05 02 00 10 02 80 00 39  04 03 0B 00 00 10 48 1D  .......9......H.
+0430: 80 23 48 46 80 23 01 CF  05 02 00 10 09 80 00 51  .#HF.#.........Q
+0440: 04 03 0B 00 00 10 48 1D  80 23 48 47 80 23 01 CF  ......H..#HG.#..
+0450: 05 02 00 10 0B 80 00 69  04 03 0B 00 00 10 48 1D  .......i......H.
+0460: 80 23 48 48 80 23 01 CF  05 02 00 10 0D 80 00 85  .#HH.#..........
+0470: 04 03 0B 00 00 10 48 1D  80 23 48 49 80 23 48 4A  ......H..#HI.#HJ
+0480: 80 23 01 CF 05 02 00 10  07 80 00 9D 04 03 0B 00  .#..............
+0490: 00 10 48 1D 80 23 48 4B  80 23 01 CF 05 02 00 10  ..H..#HK.#......
+04A0: 10 80 00 B5 04 03 0B 00  00 10 48 1D 80 23 48 4C  ..........H..#HL
+04B0: 80 23 01 CF 05 02 00 10  12 80 00 CD 04 03 0B 00  .#..............
+04C0: 00 10 48 1D 80 23 48 4D  80 23 01 CF 05 02 00 10  ..H..#HM.#......
+04D0: 14 80 00 E9 04 03 0B 00  00 10 48 1D 80 23 48 4E  ..........H..#HN
+04E0: 80 23 48 4F 80 23 01 CF  05 02 00 10 16 80 00 01  .#HO.#..........
+04F0: 05 03 0B 00 00 10 48 1D  80 23 48 50 80 23 01 CF  ......H..#HP.#..
+0500: 05 02 00 10 18 80 00 19  05 03 0B 00 00 10 48 1D  ..............H.
+0510: 80 23 48 51 80 23 01 CF  05 02 00 10 1A 80 00 31  .#HQ.#.........1
+0520: 05 03 0B 00 00 10 48 1D  80 23 48 52 80 23 01 CF  ......H..#HR.#..
+0530: 05 02 00 10 3C 80 00 49  05 03 0B 00 00 10 48 1D  ....<..I......H.
+0540: 80 23 48 53 80 23 01 CF  05 02 00 10 08 80 00 61  .#HS.#.........a
+0550: 05 03 0B 00 00 10 48 1D  80 23 48 54 80 23 01 CF  ......H..#HT.#..
+0560: 05 02 00 10 55 80 00 79  05 03 0B 00 00 10 48 1D  ....U..y......H.
+0570: 80 23 48 56 80 23 01 CF  05 02 00 10 57 80 00 9C  .#HV.#......W...
+0580: 05 03 0B 00 00 10 48 1D  80 23 48 58 80 23 3E 01  ......H..#HX.#>.
+0590: 00 04 80 99 05 48 59 80  23 01 CF 05 02 00 10 5A  .....HY.#......Z
+05A0: 80 00 BF 05 03 0B 00 00  10 48 1D 80 23 48 5B 80  .........H..#H[.
+05B0: 23 3E 01 00 06 80 BC 05  48 5C 80 23 01 CF 05 02  #>......H\.#....
+05C0: 00 10 5D 80 00 CF 05 03  09 00 04 80 01 CF 05 01  ..].............
+05D0: 7A 03 01 F7 05 02 00 10  05 80 00 E5 05 03 0A 00  z...............
+05E0: 00 10 01 F7 05 02 00 10  06 80 00 F7 05 03 01 10  ................
+05F0: 01 80 21 00 01 F7 05 01  40 00 21 00              ..!.....@.!.    
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  1: 0x0006 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
+  2: 0x000B [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
+  3: 0x0010 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
+  4: 0x0015 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[6]
+  5: 0x001A [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[7]
+  6: 0x001F [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
+  7: 0x0024 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[9]
+  8: 0x0029 [0x4A] LocalPlayer looks at EventEntity
+  9: 0x0032 [0x48] [System] [7345*]:
+    → "This shelf is stacked with tomes delineating the geography of Eastern Ulbuka."
+ 10: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 11: 0x0036 [0x03] ExtData[1]->WorkLocal[8] = 0*
+ 12: 0x003B [0x03] ExtData[1]->WorkLocal[10] = 0*
+ 13: 0x0040 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x05FA
+ 14: 0x0048 [0x03] ExtData[1]->WorkLocal[9] = 0*
+ 15: 0x004D [0x03] ExtData[1]->WorkLocal[11] = 0*
+ 16: 0x0052 [0x06] ExtData[1]->WorkLocal[12] = 0
+ 17: 0x0055 [0x03] ExtData[1]->WorkLocal[14] = 4*
+ 18: 0x005A [0x0E] ExtData[1]->WorkLocal[12] |= ExtData[1]->WorkLocal[14]
+ 19: 0x005F [0x24] CREATE_DIALOG(message_id=7346*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[12])
+    → "What region will you research? [East Ulbuka Territory./Adoulin Islands./Miscellaneous./Nothing.]"
+ 20: 0x0066 [0x25] WAIT_DIALOG_SELECT()
+ 21: 0x0067 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x036D
+ 22: 0x006F [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[0]
+ 23: 0x0074 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x036A
+ 24: 0x007C [0x06] ExtData[1]->WorkLocal[13] = 0
+ 25: 0x007F [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x0089
+ 26: 0x0086 [0x01] GOTO 0x0093
+ 27: 0x0089 [0x03] ExtData[1]->WorkLocal[14] = 1*
+ 28: 0x008E [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_0093:
+ 29: 0x0093 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x009D
+ 30: 0x009A [0x01] GOTO 0x00A7
+ 31: 0x009D [0x03] ExtData[1]->WorkLocal[14] = 2*
+ 32: 0x00A2 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_00A7:
+ 33: 0x00A7 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 2*) GOTO 0x00B1
+ 34: 0x00AE [0x01] GOTO 0x00BB
+ 35: 0x00B1 [0x03] ExtData[1]->WorkLocal[14] = 4*
+ 36: 0x00B6 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_00BB:
+ 37: 0x00BB [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 3*) GOTO 0x00C5
+ 38: 0x00C2 [0x01] GOTO 0x00CF
+ 39: 0x00C5 [0x03] ExtData[1]->WorkLocal[14] = 8*
+ 40: 0x00CA [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_00CF:
+ 41: 0x00CF [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 4*) GOTO 0x00D9
+ 42: 0x00D6 [0x01] GOTO 0x00E3
+ 43: 0x00D9 [0x03] ExtData[1]->WorkLocal[14] = 16*
+ 44: 0x00DE [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_00E3:
+ 45: 0x00E3 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x00ED
+ 46: 0x00EA [0x01] GOTO 0x00F7
+ 47: 0x00ED [0x03] ExtData[1]->WorkLocal[14] = 32*
+ 48: 0x00F2 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_00F7:
+ 49: 0x00F7 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 6*) GOTO 0x0101
+ 50: 0x00FE [0x01] GOTO 0x010B
+ 51: 0x0101 [0x03] ExtData[1]->WorkLocal[14] = 64*
+ 52: 0x0106 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_010B:
+ 53: 0x010B [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 7*) GOTO 0x0115
+ 54: 0x0112 [0x01] GOTO 0x011F
+ 55: 0x0115 [0x03] ExtData[1]->WorkLocal[14] = 128*
+ 56: 0x011A [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_011F:
+ 57: 0x011F [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 8*) GOTO 0x0129
+ 58: 0x0126 [0x01] GOTO 0x0133
+ 59: 0x0129 [0x03] ExtData[1]->WorkLocal[14] = 256*
+ 60: 0x012E [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_0133:
+ 61: 0x0133 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 9*) GOTO 0x013D
+ 62: 0x013A [0x01] GOTO 0x0147
+ 63: 0x013D [0x03] ExtData[1]->WorkLocal[14] = 512*
+ 64: 0x0142 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_0147:
+ 65: 0x0147 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 10*) GOTO 0x0151
+ 66: 0x014E [0x01] GOTO 0x015B
+ 67: 0x0151 [0x03] ExtData[1]->WorkLocal[14] = 1024*
+ 68: 0x0156 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_015B:
+ 69: 0x015B [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 11*) GOTO 0x0165
+ 70: 0x0162 [0x01] GOTO 0x016F
+ 71: 0x0165 [0x03] ExtData[1]->WorkLocal[14] = 2048*
+ 72: 0x016A [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_016F:
+ 73: 0x016F [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 12*) GOTO 0x0179
+ 74: 0x0176 [0x01] GOTO 0x0183
+ 75: 0x0179 [0x03] ExtData[1]->WorkLocal[14] = 4096*
+ 76: 0x017E [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_0183:
+ 77: 0x0183 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 13*) GOTO 0x018D
+ 78: 0x018A [0x01] GOTO 0x0197
+ 79: 0x018D [0x03] ExtData[1]->WorkLocal[14] = 8192*
+ 80: 0x0192 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_0197:
+ 81: 0x0197 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 14*) GOTO 0x01A1
+ 82: 0x019E [0x01] GOTO 0x01AB
+ 83: 0x01A1 [0x03] ExtData[1]->WorkLocal[14] = 16384*
+ 84: 0x01A6 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_01AB:
+ 85: 0x01AB [0x24] CREATE_DIALOG(message_id=7347*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+    → "What place will you research? [Ceizak Battlegrounds./Yahse Hunting Grounds./Foret de Hennetiel./Morimar Basalt Fields./Yorcia Weald./Marjami Ravine./Kamihr Drifts./Sih Gates./Moh Gates./Cirdas Caverns./Dho Gates./Woh Gates./Outer Ra'Kaznar./Ra'Kaznar Inner Court./Leafallia./None.]"
+ 86: 0x01B2 [0x25] WAIT_DIALOG_SELECT()
+ 87: 0x01B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01CF
+ 88: 0x01BB [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+ 89: 0x01C0 [0x48] [System] [7264*]:
+    → "@@"
+ 90: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 91: 0x01C4 [0x48] [System] [7454*]:
+    → "Ceizak Battlegrounds: Beyond the guarding gaze of Jorius Yett lie the Ceizak Battlegrounds, a dense stretch of jungle serving as the symbol of Western Adoulin."
+ 92: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 93: 0x01C8 [0x48] [System] [7455*]:
+    → "Species of vermin never before seen in the Middle Lands call the battlegrounds home and, together with enormous trees impeding any sense of progress, pose an obstacle for intrepid pioneers to overcome. No colonization effort has any hope of succeeding without first breaking the land free from the stranglehold of its twisted grasp."
+ 94: 0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 95: 0x01CC [0x01] GOTO 0x0367
+ 96: 0x01CF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01EB
+ 97: 0x01D7 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+ 98: 0x01DC [0x48] [System] [7264*]:
+    → "@@"
+ 99: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
+100: 0x01E0 [0x48] [System] [7456*]:
+    → "Yahse Hunting Grounds: Partly exposed to the thrashing waves of the desolate Senroh Sea, the hunting grounds are a second expanse of jungle located adjacent to the Ceizak Battlegrounds and can be accessed via boat from Eastern Adoulin."
+101: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+102: 0x01E4 [0x48] [System] [7457*]:
+    → "Perhaps in part due to the similar topography, flora, and fauna, many pioneers have lost their way when traversing between the two. Enormous trees dominate the landscape, their twisted roots serving as a grim reminder that humanity is not welcome within."
+103: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+104: 0x01E8 [0x01] GOTO 0x0367
+105: 0x01EB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0207
+106: 0x01F3 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+107: 0x01F8 [0x48] [System] [7264*]:
+    → "@@"
+108: 0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
+109: 0x01FC [0x48] [System] [7458*]:
+    → "Foret de Hennetiel: The Foret de Hennetiel--the lowest-lying area in all of Eastern Ulbuka--is known throughout all Adoulin as a harsh, punishing environment where neither people nor animals had been able to tread for hundreds of years due to the contamination of the Zoldeff River that flows through it."
+110: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
+111: 0x0200 [0x48] [System] [7459*]:
+    → "Yet nature herself eventually reclaims all that has been sullied, which has led to a blossoming of all manner of fascinating plant life hitherto unseen. Settling this wilderness poses yet another issue the Adoulinians must overcome."
+112: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
+113: 0x0204 [0x01] GOTO 0x0367
+114: 0x0207 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0223
+115: 0x020F [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+116: 0x0214 [0x48] [System] [7264*]:
+    → "@@"
+117: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
+118: 0x0218 [0x48] [System] [7460*]:
+    → "Morimar Basalt Fields: Pioneers who brave the dank and treacherous Moh Gates are greeted with a sight just as grisly as that in the basalt fields. Crusted magma vomited from the mouths of the region's countless volcanoes covers the ground in wrinkled, sludge-gray masses."
+119: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
+120: 0x021C [0x48] [System] [7461*]:
+    → "Despite the gelid climate, the scalding water that spews forth from the area's myriad springs makes it almost impossible for more than a single ilm of snow to accumulate. Thus, though vegetation is scarce, the snow barely provides any respite for the eyes. About the only living creatures in this glacial clime are the lizards that stalk adventurers with a starved determination."
+121: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
+122: 0x0220 [0x01] GOTO 0x0367
+123: 0x0223 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x023F
+124: 0x022B [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+125: 0x0230 [0x48] [System] [7264*]:
+    → "@@"
+126: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
+127: 0x0234 [0x48] [System] [7462*]:
+    → "Yorcia Weald: Situated above the Cirdas Caverns, Yorcia Weald flourishes with a cornucopia of ancient vegetation that remains fundamentally unchanged since before the time of the founder king. While the battlegrounds and hunting grounds each contain dense groves of verdant trees, those of Yorcia Weald grow so close together that their collective canopy keeps the forest floor shrouded in darkness."
+128: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
+129: 0x0238 [0x48] [System] [7463*]:
+    → "This atmosphere proves to be an ideal breeding ground for a vast array of menacing wildlife, perverted by the poisons that endlessly seep from the caverns below. This climate is particularly kind to plantoids, as they can be seen swishing through breaks in the trees throughout the weald."
+130: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
+131: 0x023C [0x01] GOTO 0x0367
+132: 0x023F [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x025B
+133: 0x0247 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+134: 0x024C [0x48] [System] [7264*]:
+    → "@@"
+135: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
+136: 0x0250 [0x48] [System] [7464*]:
+    → "Marjami Ravine: Many ridges meander back and forth across this natural terrace adjoining the Dho Gates, but the swift-flowing river that runs from north to south cleaves the land the deepest by far."
+137: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
+138: 0x0254 [0x48] [System] [7465*]:
+    → "A veritable aviary, the ravine serves as the habitat for birds of all types of plumage. Though there may be few natural impediments in the area, filthy Velkk encampments sully the leafy green color emitted by the grasses, shrubs, and even the occasional tree that brightens the rocky ridges there."
+139: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
+140: 0x0258 [0x01] GOTO 0x0367
+141: 0x025B [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0277
+142: 0x0263 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+143: 0x0268 [0x48] [System] [7264*]:
+    → "@@"
+144: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
+145: 0x026C [0x48] [System] [7474*]:
+    → "Kamihr Drifts: The Kamihr Drifts are a snow-covered land at the base of Mt. Kamihr, located beyond the dreary walls of the Woh Gates. Its harsh conditions have long prevented entry into its chilling embrace."
+146: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
+147: 0x0270 [0x48] [System] [7475*]:
+    → "Beasts of all kinds have adapted to the atmosphere, which serves as yet another barrier to the progress of colonization."
+148: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
+149: 0x0274 [0x01] GOTO 0x0367
+150: 0x0277 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0293
+151: 0x027F [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+152: 0x0284 [0x48] [System] [7264*]:
+    → "@@"
+153: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
+154: 0x0288 [0x48] [System] [7466*]:
+    → "Sih Gates: The gates are famous as home to all types of grisly foes around its large rocks and within its limestone caves. The roots of the gigantic arbors found in the hunting grounds and battlegrounds protrude from the rocks, choking what remains of the treaded paths and preventing easy passage."
+155: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
+156: 0x028C [0x48] [System] [7467*]:
+    → "Many species of fungi line the walls and floor of the caves, but they are not fit for consumption, and as such can provide little succor. The population of the vile acuexes within has been multiplying, and with pioneers forced to fight in such close quarters, antitoxins are a must for survival."
+157: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
+158: 0x0290 [0x01] GOTO 0x0367
+159: 0x0293 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x02AF
+160: 0x029B [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+161: 0x02A0 [0x48] [System] [7264*]:
+    → "@@"
+162: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+163: 0x02A4 [0x48] [System] [7468*]:
+    → "Moh Gates: The Moh Gates are a dungeon connecting Ceizak Battlegrounds with Morimar Basalt Fields. Serving as a stark contrast to the frigid fields, waves of red-hot magma churn in the depths below--a chilling testament to the destructive force that nature can be."
+164: 0x02A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+165: 0x02A8 [0x48] [System] [7469*]:
+    → "In some places, sizzling hot springs bubble just above the surface, to which many pioneers pay regular visits to recover from their weary days. Yet with the vicious matamata lying in wait just along the outskirts, any respite is short-lived."
+166: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
+167: 0x02AC [0x01] GOTO 0x0367
+168: 0x02AF [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x02CB
+169: 0x02B7 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+170: 0x02BC [0x48] [System] [7264*]:
+    → "@@"
+171: 0x02BF [0x23] WAIT_FOR_DIALOG_INTERACTION
+172: 0x02C0 [0x48] [System] [7470*]:
+    → "Cirdas Caverns: This labyrinthine subterranean expanse connects the Sih and Moh Gates below Yorcia Weald, though entering it provides little sense of joy for pioneers, as traversing the gigantic gnarled tree roots makes crossing even the widest passageway an exercise in patience and stamina."
+173: 0x02C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+174: 0x02C4 [0x48] [System] [7471*]:
+    → "The caverns are home to funguars and mosses as poisonous as they are vibrant, and they eventually corrupt all life-forms that desperately cling to their cursed walls. Its tenebrous atmosphere also enables umbrils to skulk about the caverns' vast rocky interior at all times, instead of appearing only during the witching hours--as they do in front of Adoulinians venturing out into the city's surroundings."
+175: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+176: 0x02C8 [0x01] GOTO 0x0367
+177: 0x02CB [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x02E7
+178: 0x02D3 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+179: 0x02D8 [0x48] [System] [7264*]:
+    → "@@"
+180: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
+181: 0x02DC [0x48] [System] [7472*]:
+    → "Dho Gates: Being connected to Cirdas Caverns as well as Marjami Ravine and Foret de Hennetiel, it is surprising that the Dho Gates do not cause a larger number of pioneers to lose their way and eventually perish than is currently reported."
+182: 0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
+183: 0x02E0 [0x48] [System] [7473*]:
+    → "The saving grace of this harsh underground passage is its abundance of water. Rainwater from Marjami Ravine gathers to form rivers and plummets from sheer cliffs, creating stunning waterfalls. Water from the Senroh Sea even finds its way into the Dho Gates, giving birth to a subterranean lake. The Gates are also home to hordes of Velkk, who have scattered both outposts and tunnels throughout the area."
+184: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+185: 0x02E4 [0x01] GOTO 0x0367
+186: 0x02E7 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0303
+187: 0x02EF [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+188: 0x02F4 [0x48] [System] [7264*]:
+    → "@@"
+189: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+190: 0x02F8 [0x48] [System] [7476*]:
+    → "Woh Gates: The Woh Gates run from north to south, linking Marjami Ravine, Morimar Basalt Fields, and Kamihr Drifts."
+191: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
+192: 0x02FC [0x48] [System] [7477*]:
+    → "From the warm area in the south that serves as home to Velkk tribes to the ice-covered walls of the north, the caves are notable for remarkable differences in temperature. What's more, unexplored ruins have stood within the deepest recesses of the cave for countless generations."
+193: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
+194: 0x0300 [0x01] GOTO 0x0367
+195: 0x0303 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x031F
+196: 0x030B [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+197: 0x0310 [0x48] [System] [7264*]:
+    → "@@"
+198: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
+199: 0x0314 [0x48] [System] [7478*]:
+    → "Outer Ra'Kaznar: Little is known about this bewildering edifice that stands amongst the recesses of Kamihr Drifts: not the materials used to erect its sturdy walls, not the identity of the sorcery that adds an uncanny sheen to the building's door, and certainly not why it was constructed."
+200: 0x0317 [0x23] WAIT_FOR_DIALOG_INTERACTION
+201: 0x0318 [0x48] [System] [7479*]:
+    → "What has been empirically proven is that treading upon its interior is an invitation to death. Phantoms that need not their heads to disembowel trespassers account for but a tiny portion of the grotesqueries that lurk within its subterranean chambers. As may be self-evident at this juncture, not a soul has yet to fully detail the floor plans of this structure."
+202: 0x031B [0x23] WAIT_FOR_DIALOG_INTERACTION
+203: 0x031C [0x01] GOTO 0x0367
+204: 0x031F [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x033B
+205: 0x0327 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+206: 0x032C [0x48] [System] [7264*]:
+    → "@@"
+207: 0x032F [0x23] WAIT_FOR_DIALOG_INTERACTION
+208: 0x0330 [0x48] [System] [7482*]:
+    → "Ra'Kaznar Inner Court: Accessible by vertical transit devices, this section lies deep within the bowels of Ra'Kaznar and holds even more mysteries than the outer portion. How its hallways are able to remain afloat above impenetrable darkness is anyone's guess."
+209: 0x0333 [0x23] WAIT_FOR_DIALOG_INTERACTION
+210: 0x0334 [0x48] [System] [7483*]:
+    → "Though nary a survey has been conducted here as of the time of this writing, this much is clear: exercise extreme caution upon entering its perimeter."
+211: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
+212: 0x0338 [0x01] GOTO 0x0367
+213: 0x033B [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0357
+214: 0x0343 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+215: 0x0348 [0x48] [System] [7264*]:
+    → "@@"
+216: 0x034B [0x23] WAIT_FOR_DIALOG_INTERACTION
+217: 0x034C [0x48] [System] [7480*]:
+    → "Leafallia: Nestled beyond a craggy passageway situated within Kamihr Drifts, this cozy little village is an oasis of verdure amidst the expanse of cold, whitewashed snowbanks that composes the surrounding area. One glance at the vivid foliage and the bright moss laid out upon the forest floor there should soothe one's spirit, no matter how weary."
+218: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
+219: 0x0350 [0x48] [System] [7481*]:
+    → "As the name implies, it also serves as the home of those rascally leafkin. Countless academics the continent over have been searching for this secluded copse in hopes of understanding how these bushy bulbs interact with each other."
+220: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
+221: 0x0354 [0x01] GOTO 0x0367
+222: 0x0357 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0367
+223: 0x035F [0x03] ExtData[1]->WorkLocal[9] = 1*
+224: 0x0364 [0x01] GOTO 0x0367
+
+SUBROUTINE_0367:
+225: 0x0367 [0x01] GOTO 0x0074
+226: 0x036A [0x01] GOTO 0x05F7
+227: 0x036D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05D5
+228: 0x0375 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[0]
+
+SUBROUTINE_037A:
+229: 0x037A [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x05D2
+230: 0x0382 [0x06] ExtData[1]->WorkLocal[13] = 0
+231: 0x0385 [0x3E] IF !(ExtData[1]->WorkLocal[1] bit 0*) GOTO 0x038F
+232: 0x038C [0x01] GOTO 0x0399
+233: 0x038F [0x03] ExtData[1]->WorkLocal[14] = 2*
+234: 0x0394 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_0399:
+235: 0x0399 [0x3E] IF !(ExtData[1]->WorkLocal[1] bit 2*) GOTO 0x03A3
+236: 0x03A0 [0x01] GOTO 0x03AD
+237: 0x03A3 [0x03] ExtData[1]->WorkLocal[14] = 524288*
+238: 0x03A8 [0x0E] ExtData[1]->WorkLocal[13] |= ExtData[1]->WorkLocal[14]
+
+SUBROUTINE_03AD:
+239: 0x03AD [0x24] CREATE_DIALOG(message_id=7348*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+    → "What place shall you research? [Adoulin./Rala Waterways./Platea Triumphus./Fontis Xanira./Jorius Yett./Airship Docks./Adoulin Waterfront./Senroh Sea./Big Bridge./Castle Adoulin./Celennia Memorial Library./Goddess Promenade./Caf<Player>i des Larmes./Coronal Esplanade./Sverdhried Hillock./Silver Knife./Exorcist Priory./Mog Gardens./Civic Arboretum./Watergarden Coliseum./None.]"
+240: 0x03B4 [0x25] WAIT_DIALOG_SELECT()
+241: 0x03B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D5
+242: 0x03BD [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+243: 0x03C2 [0x48] [System] [7264*]:
+    → "@@"
+244: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+245: 0x03C6 [0x48] [System] [7449*]:
+    → "Adoulin: The most densely populated city in Ulbuka, it is also the heart of the alliance that binds all the continent's settlements together."
+246: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+247: 0x03CA [0x48] [System] [7450*]:
+    → "Situated on the very precipice of Ulbuka's eastern seaboard, the geographically rent metropolis is sewn together by Big Bridge, which connects the Adoulin archipelago to the east and the mainland to the west."
+248: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
+249: 0x03CE [0x48] [System] [7451*]:
+    → "The eastern district fans out from Castle Adoulin, acting as both the administrative center of the city and a residential haven for the nobility. Spacious manses line the streets and the who's who of Adoulin can be seen leisurely strolling by, taking in the sights and sounds. In contrast, the western district serves as the hub of the colonization movement, with its most striking feature being the hustle and bustle of pioneers hailing from lands far away."
+250: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+251: 0x03D2 [0x01] GOTO 0x05CF
+252: 0x03D5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03F1
+253: 0x03DD [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+254: 0x03E2 [0x48] [System] [7264*]:
+    → "@@"
+255: 0x03E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+256: 0x03E6 [0x48] [System] [7452*]:
+    → "Rala Waterways: Spanning both Eastern and Western Adoulin, this underground series of gargantuan tunnels directs the flow of water throughout the city through the use of heavy wooden sluice gates."
+257: 0x03E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+258: 0x03EA [0x48] [System] [7453*]:
+    → "Built when the city was first established, it finally underwent renovation approximately two hundred years ago, when architects greatly improved upon the original design. No one was able to completely annihilate the ferocious beasts that lurk deep within, however, and certain sections of the waterways remain sealed off to prevent these hellions from wreaking havoc on the public."
+259: 0x03ED [0x23] WAIT_FOR_DIALOG_INTERACTION
+260: 0x03EE [0x01] GOTO 0x05CF
+261: 0x03F1 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0409
+262: 0x03F9 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+263: 0x03FE [0x48] [System] [7264*]:
+    → "@@"
+264: 0x0401 [0x23] WAIT_FOR_DIALOG_INTERACTION
+265: 0x0402 [0x48] [System] [7484*]:
+    → "Platea Triumphus: Multiple roads emanate from all angles of this plaza that lies at the center of Western Adoulin. The origin of this peculiar moniker dates back to a time before Jorius Yett was erected. Prior to when the city was heavily walled from all sides and a thick gate was needed to protect the citizenry from the terrors of Eastern Ulbuka, processions of soldiers returning home from a triumphant battle would be greeted by thankful settlers here."
+266: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
+267: 0x0406 [0x01] GOTO 0x05CF
+268: 0x0409 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0421
+269: 0x0411 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+270: 0x0416 [0x48] [System] [7264*]:
+    → "@@"
+271: 0x0419 [0x23] WAIT_FOR_DIALOG_INTERACTION
+272: 0x041A [0x48] [System] [7485*]:
+    → "Fontis Xanira: Named after Xanira, the stalwart Hume who was the first knight in what came to be the Order of Janniston, this fountain in Platea Triumphus gushes water that would be--were it not liquid--clean enough to eat off."
+273: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
+274: 0x041E [0x01] GOTO 0x05CF
+275: 0x0421 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0439
+276: 0x0429 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+277: 0x042E [0x48] [System] [7264*]:
+    → "@@"
+278: 0x0431 [0x23] WAIT_FOR_DIALOG_INTERACTION
+279: 0x0432 [0x48] [System] [7486*]:
+    → "Jorius Yett: Erected two centuries ago when the city expanded onto the mainland, this steadfast gate that towers above the streets repels any invaders who dare attack Western Adoulin via Ceizak Battlegrounds. Its eponymous knight, Jorius, proved himself in the eyes of the founder king and became the first knight in what gestated into the Order of Weatherspoon."
+280: 0x0435 [0x23] WAIT_FOR_DIALOG_INTERACTION
+281: 0x0436 [0x01] GOTO 0x05CF
+282: 0x0439 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0451
+283: 0x0441 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+284: 0x0446 [0x48] [System] [7264*]:
+    → "@@"
+285: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
+286: 0x044A [0x48] [System] [7487*]:
+    → "Airship Docks: Of little interest to civilians since no passenger airships alight there, this terminal is used exclusively for the transport of freight. There is little else to mention about this rotunda, except that it lies in the north of Western Adoulin."
+287: 0x044D [0x23] WAIT_FOR_DIALOG_INTERACTION
+288: 0x044E [0x01] GOTO 0x05CF
+289: 0x0451 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0469
+290: 0x0459 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+291: 0x045E [0x48] [System] [7264*]:
+    → "@@"
+292: 0x0461 [0x23] WAIT_FOR_DIALOG_INTERACTION
+293: 0x0462 [0x48] [System] [7488*]:
+    → "Adoulin Waterfront: This humble port situated in the northwest of Western Adoulin was integral to turning an isolated settlement into a thriving maritime center of trade. Freight ships may have had the largest impact on the development of the sacred city, but fishing boats also patron its waters, with the heavy traffic of smaller vessels forming momentary patterns upon the bay in their wake."
+294: 0x0465 [0x23] WAIT_FOR_DIALOG_INTERACTION
+295: 0x0466 [0x01] GOTO 0x05CF
+296: 0x0469 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0485
+297: 0x0471 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+298: 0x0476 [0x48] [System] [7264*]:
+    → "@@"
+299: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
+300: 0x047A [0x48] [System] [7489*]:
+    → "Senroh Sea: Invaluable to couriers and merchants who wish to fatten their coinpurses abroad, the Senroh Sea contains the archipelago many Ulbukan inhabitants refer to as the Adoulin Islands. To the east of this raging ocean lies the Sea of Zafmlug, the ebb and flow of whose currents creates the perfect conditions for raising the most succulent of seafare."
+301: 0x047D [0x23] WAIT_FOR_DIALOG_INTERACTION
+302: 0x047E [0x48] [System] [7490*]:
+    → "The currents are a double-edged sword, however, and many a ship has left port only to capsize in the sea's turbulent waters or be heaved in directions unknown."
+303: 0x0481 [0x23] WAIT_FOR_DIALOG_INTERACTION
+304: 0x0482 [0x01] GOTO 0x05CF
+305: 0x0485 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x049D
+306: 0x048D [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+307: 0x0492 [0x48] [System] [7264*]:
+    → "@@"
+308: 0x0495 [0x23] WAIT_FOR_DIALOG_INTERACTION
+309: 0x0496 [0x48] [System] [7491*]:
+    → "Big Bridge: This colossal structure is a monument to mankind's ingenuity. Spanning the Senroh Sea to connect Eastern and Western Adoulin, the fact that historical accounts attest to its existence before even the founder king only adds to the bridge's mystique."
+310: 0x0499 [0x23] WAIT_FOR_DIALOG_INTERACTION
+311: 0x049A [0x01] GOTO 0x05CF
+312: 0x049D [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x04B5
+313: 0x04A5 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+314: 0x04AA [0x48] [System] [7264*]:
+    → "@@"
+315: 0x04AD [0x23] WAIT_FOR_DIALOG_INTERACTION
+316: 0x04AE [0x48] [System] [7492*]:
+    → "Castle Adoulin: Providing a beacon to all who enter Eastern Adoulin, Castle Adoulin stands on the fringe of the city's more opulent district. It was the obvious home of the Adoulin family when the king still held absolute power, but even after the king abdicated and the alliance was approved, the Adoulins retain control over their historical manse."
+317: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+318: 0x04B2 [0x01] GOTO 0x05CF
+319: 0x04B5 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x04CD
+320: 0x04BD [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+321: 0x04C2 [0x48] [System] [7264*]:
+    → "@@"
+322: 0x04C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+323: 0x04C6 [0x48] [System] [7493*]:
+    → "Celennia Memorial Library: The entirety of the Scouts' Coalition's archives is on display here and can be viewed by anyone who meets the proper requirements. The building's name comes from the time of the founder king, when an envoy from Rhazowa calling herself Celennia Wexworth visited these lands and imparted stores of knowledge upon the people of this realm."
+324: 0x04C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+325: 0x04CA [0x01] GOTO 0x05CF
+326: 0x04CD [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x04E9
+327: 0x04D5 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+328: 0x04DA [0x48] [System] [7264*]:
+    → "@@"
+329: 0x04DD [0x23] WAIT_FOR_DIALOG_INTERACTION
+330: 0x04DE [0x48] [System] [7494*]:
+    → "Goddess Promenade: A statue of Altana stands prominently in the center of this grassy mall, arms open wide in a welcoming gesture. Two canals flank this popular spot to indulge in reverie, and a caf<Player>i run by a rather eccentric individual borders the commons to the north."
+331: 0x04E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+332: 0x04E2 [0x48] [System] [7495*]:
+    → "Legend states that the Goddess herself once appeared before an Adoulinian sculptor on his visit to the Middle Lands. After viewing her holy visage in an ancient tomb deep within the forest, divine inspiration took hold of his hands and never relinquished its grip. He spent the remainder of his life meticulously chiseling the majestic statue that graces us now."
+333: 0x04E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+334: 0x04E6 [0x01] GOTO 0x05CF
+335: 0x04E9 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0501
+336: 0x04F1 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+337: 0x04F6 [0x48] [System] [7264*]:
+    → "@@"
+338: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+339: 0x04FA [0x48] [System] [7496*]:
+    → "Caf<Player>i des Larmes: Never in want of customers, pioneers and civilians alike populate the tables of this quaint establishment day in and day out. The owner, renowned for his peculiar speech patterns and mannerisms, decided the caf<Player>i would take an open-terrace approach to dining, meaning there are no indoor seats of which to speak."
+340: 0x04FD [0x23] WAIT_FOR_DIALOG_INTERACTION
+341: 0x04FE [0x01] GOTO 0x05CF
+342: 0x0501 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0519
+343: 0x0509 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+344: 0x050E [0x48] [System] [7264*]:
+    → "@@"
+345: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
+346: 0x0512 [0x48] [System] [7497*]:
+    → "Coronal Esplanade: The open area that rests atop Sverdhried Hillock is named Coronal Esplanade after the piece of art containing dual circles that adorns the gates to Castle Adoulin. Some speculate the reason it has such a pompous name as opposed to a more commonplace one such as "Sun Plaza" is that the grand estates that line the courtyard all belong to the nobility, but these claims are naught but rumors."
+347: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
+348: 0x0516 [0x01] GOTO 0x05CF
+349: 0x0519 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0531
+350: 0x0521 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+351: 0x0526 [0x48] [System] [7264*]:
+    → "@@"
+352: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
+353: 0x052A [0x48] [System] [7498*]:
+    → "Sverdhried Hillock: Its name taken from the grandfather of the runic arts, this lofty hill bisects Eastern Adoulin. Sverdhried's contributions are of incontrovertible importance to the prosperity of Adoulin, but records suggest the hillock was named after him not for his good deeds, but because he climbed it multiple times each day to increase his endurance."
+354: 0x052D [0x23] WAIT_FOR_DIALOG_INTERACTION
+355: 0x052E [0x01] GOTO 0x05CF
+356: 0x0531 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0549
+357: 0x0539 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+358: 0x053E [0x48] [System] [7264*]:
+    → "@@"
+359: 0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
+360: 0x0542 [0x48] [System] [7499*]:
+    → "Silver Knife: This peculiar auction house in Eastern Adoulin services only a certain clientele, but what exactly makes one part of that clientele is a tightly guarded secret."
+361: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
+362: 0x0546 [0x01] GOTO 0x05CF
+363: 0x0549 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0561
+364: 0x0551 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+365: 0x0556 [0x48] [System] [7264*]:
+    → "@@"
+366: 0x0559 [0x23] WAIT_FOR_DIALOG_INTERACTION
+367: 0x055A [0x48] [System] [7500*]:
+    → "Exorcist Priory: Exorcists call this sanctum home, and when they are not sojourning in the Middle Lands to force Pyracmon back from whence he came, they can be found seeking guidance from the Goddess, honing their techniques, and training both their minds and bodies here. The priory was constructed next to the Order of Weatherspoon so that the minister of judication and the order itself could exert their authority over its occupants all the easier."
+368: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
+369: 0x055E [0x01] GOTO 0x05CF
+370: 0x0561 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0579
+371: 0x0569 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+372: 0x056E [0x48] [System] [7264*]:
+    → "@@"
+373: 0x0571 [0x23] WAIT_FOR_DIALOG_INTERACTION
+374: 0x0572 [0x48] [System] [7501*]:
+    → "Mog Gardens: Little slices of pastoral paradise, mog gardens are parcels of land apportioned to pioneers for their service to Adoulin. They sit upon the various tiny islets that dot the Senroh Sea, but do not be deceived by their size. They have all the resources a seasoned explorer could ever need--provided he is willing to reap what he sows."
+375: 0x0575 [0x23] WAIT_FOR_DIALOG_INTERACTION
+376: 0x0576 [0x01] GOTO 0x05CF
+377: 0x0579 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x059C
+378: 0x0581 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+379: 0x0586 [0x48] [System] [7264*]:
+    → "@@"
+380: 0x0589 [0x23] WAIT_FOR_DIALOG_INTERACTION
+381: 0x058A [0x48] [System] [7502*]:
+    → "Civic Arboretum: All produce sold at the farmers' market aboveground is grown in this subterranean greenhouse within the Rala Waterways. Owned and operated by the city, all its profits are used for improving the quality of the vegetables the staff there grows."
+382: 0x058D [0x23] WAIT_FOR_DIALOG_INTERACTION
+383: 0x058E [0x3E] IF !(ExtData[1]->WorkLocal[1] bit 1*) GOTO 0x0599
+384: 0x0595 [0x48] [System] [7503*]:
+    → "This task has proven to be a mighty one indeed, for the lack of direct sunlight severely impairs the development of plants. The Inventors' Coalition has been kind enough to provide stimulating agents that drastically enhance seasonal yields, thereby taking the first step toward solving the city's food shortage."
+385: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
+386: 0x0599 [0x01] GOTO 0x05CF
+387: 0x059C [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x05BF
+388: 0x05A4 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
+389: 0x05A9 [0x48] [System] [7264*]:
+    → "@@"
+390: 0x05AC [0x23] WAIT_FOR_DIALOG_INTERACTION
+391: 0x05AD [0x48] [System] [7504*]:
+    → "Watergarden Coliseum: Should an irreconcilable dispute arise between two parties, or should one's gladiatorial prowess need be proven upon a fellow man, this is the spot where the duel shall be held. Combatants cannot simply waltz into the stadium, however, as the proper paperwork must be officially notarized before any sparring can take place."
+392: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+393: 0x05B1 [0x3E] IF !(ExtData[1]->WorkLocal[1] bit 3*) GOTO 0x05BC
+394: 0x05B8 [0x48] [System] [7505*]:
+    → "It is debatable as to whether this policy is responsible for the rapid decline in human combatants, but either way, the only applications the coliseum has received of late come from the Mummers' Coalition. Noble and plebeian alike are welcome to attend their raptor fights, and these tests of raw, bestial skill have garnered quite the following as of this writing."
+395: 0x05BB [0x23] WAIT_FOR_DIALOG_INTERACTION
+396: 0x05BC [0x01] GOTO 0x05CF
+397: 0x05BF [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x05CF
+398: 0x05C7 [0x03] ExtData[1]->WorkLocal[9] = 1*
+399: 0x05CC [0x01] GOTO 0x05CF
+
+SUBROUTINE_05CF:
+400: 0x05CF [0x01] GOTO 0x037A
+401: 0x05D2 [0x01] GOTO 0x05F7
+402: 0x05D5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x05E5
+403: 0x05DD [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[0]
+404: 0x05E2 [0x01] GOTO 0x05F7
+405: 0x05E5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x05F7
+406: 0x05ED [0x03] Work_Zone[1] = 0*
+407: 0x05F2 [0x21] END_EVENT
+408: 0x05F3 [0x00] END_REQSTACK()
+
+SUBROUTINE_05F7:
+409: 0x05F7 [0x01] GOTO 0x0040
+410: 0x05FA [0x21] END_EVENT
+411: 0x05FB [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x05F4 [0x01] GOTO 0x05F7
+```

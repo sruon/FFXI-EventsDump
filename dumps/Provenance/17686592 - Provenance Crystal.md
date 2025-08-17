@@ -1,0 +1,138 @@
+# 17686592 - Provenance Crystal
+
+## Common Data
+
+| Field            | Value                |
+|------------------|----------------------|
+| Zone             | Provenance (ID: 222) |
+| Block Size       | 288 bytes            |
+| Total Events     | 2                    |
+| References Count | 18                   |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [6](#event-6)         | 0x0001       |    191 |             33 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CAC      |        7340 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x00FF      |         255 |
+|       4 | 0x007C      |         124 |
+|       5 | 0x00B4      |         180 |
+|       6 | 0x00C8      |         200 |
+|       7 | 0x003C      |          60 |
+|       8 | 0x0FFF      |        4095 |
+|       9 | 0xFFF63A0C  |  4294326796 |
+|      10 | 0xFFF7EF8C  |  4294438796 |
+|      11 | 0xFFFFB276  |  4294947446 |
+|      12 | 0x0C00      |        3072 |
+|      13 | 0xFFF612FC  |  4294316796 |
+|      14 | 0x0014      |          20 |
+|      15 | 0x007D      |         125 |
+|      16 | 0x0078      |         120 |
+|      17 | 0x40000000  |  1073741824 |
+
+## String References
+
+- **7340**: Leave the battlefield? [Run away./Stay.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 6
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 191 bytes |
+| Instructions | 33        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 00 00 02 10 24 00  80 01 80 02 80 25 02 00   .....$......%..
+0010: 10 02 80 00 AE 00 42 03  01 10 03 80 43 00 43 01  ......B.....C.C.
+0020: CD 04 80 F0 FF FF 7F F0  FF FF 7F 6D 61 69 6E 02  ...........main.
+0030: 80 1C 05 80 45 06 80 F0  FF FF 7F F0 FF FF 7F 66  ....E..........f
+0040: 64 6F 31 02 80 1C 07 80  03 01 10 08 80 02 00 00  do1.............
+0050: 02 80 80 64 00 47 00 09  80 0A 80 0B 80 0C 80 47  ...d.G.........G
+0060: 01 01 7B 00 02 00 00 01  80 80 7B 00 47 00 0D 80  ..{.......{.G...
+0070: 0A 80 0B 80 0C 80 47 01  01 7B 00 1C 0E 80 45 06  ......G..{....E.
+0080: 80 F0 FF FF 7F F0 FF FF  7F 66 64 69 31 02 80 1C  .........fdi1...
+0090: 07 80 CD 0F 80 F0 FF FF  7F F0 FF FF 7F 6D 61 69  .............mai
+00A0: 6E 02 80 1C 10 80 03 01  10 01 80 01 BE 00 02 00  n...............
+00B0: 10 01 80 00 BE 00 03 01  10 11 80 01 BE 00 21 00  ..............!.
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7340*, default_option=1*, option_flags=0*)
+    → "Leave the battlefield? [Run away./Stay.]"
+  2: 0x000D [0x25] WAIT_DIALOG_SELECT()
+  3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AE
+  4: 0x0016 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  5: 0x0017 [0x03] Work_Zone[1] = 255*
+  6: 0x001C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  7: 0x001E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  8: 0x0020 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[124*, 0*]
+  9: 0x0031 [0x1C] WAIT(180* ticks)
+ 10: 0x0034 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 11: 0x0045 [0x1C] WAIT(60* ticks)
+ 12: 0x0048 [0x03] Work_Zone[1] = 4095*
+ 13: 0x004D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0064
+ 14: 0x0055 [0x47] UPDATE_PLAYER_POS(-640.500*, -528.500*, -19.850*, yaw=270.0°*)
+ 15: 0x005F [0x47] WAIT_PLAYER_POS_UPDATE
+ 16: 0x0061 [0x01] GOTO 0x007B
+ 17: 0x0064 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x007B
+ 18: 0x006C [0x47] UPDATE_PLAYER_POS(-650.500*, -528.500*, -19.850*, yaw=270.0°*)
+ 19: 0x0076 [0x47] WAIT_PLAYER_POS_UPDATE
+ 20: 0x0078 [0x01] GOTO 0x007B
+
+SUBROUTINE_007B:
+ 21: 0x007B [0x1C] WAIT(20* ticks)
+ 22: 0x007E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 23: 0x008F [0x1C] WAIT(60* ticks)
+ 24: 0x0092 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[125*, 0*]
+ 25: 0x00A3 [0x1C] WAIT(120* ticks)
+ 26: 0x00A6 [0x03] Work_Zone[1] = 1*
+ 27: 0x00AB [0x01] GOTO 0x00BE
+ 28: 0x00AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00BE
+ 29: 0x00B6 [0x03] Work_Zone[1] = 1073741824*
+ 30: 0x00BB [0x01] GOTO 0x00BE
+
+SUBROUTINE_00BE:
+ 31: 0x00BE [0x21] END_EVENT
+ 32: 0x00BF [0x00] END_REQSTACK()
+```

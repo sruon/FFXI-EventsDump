@@ -1,0 +1,90 @@
+# 16814520 - Crystal Receptor
+
+## Common Data
+
+| Field            | Value           |
+|------------------|-----------------|
+| Zone             | Pso'Xja (ID: 9) |
+| Block Size       | 124 bytes       |
+| Total Events     | 2               |
+| References Count | 4               |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [58](#event-58)       | 0x0001       |     80 |             14 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00C8      |         200 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x00A0      |         160 |
+|       3 | 0x0078      |         120 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 58
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 80 bytes |
+| Instructions | 14       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 42 46 01 27 01  B9 91 00 01 02 45 00 80    .BF.'......E..
+0010: F0 FF FF 7F F0 FF FF 7F  6F 76 6C 31 01 80 45 02  ........ovl1..E.
+0020: 80 F0 FF FF 7F F0 FF FF  7F 39 73 77 74 01 80 1C  .........9swt...
+0030: 03 80 27 01 B9 91 00 01  03 1C 03 80 55 02 80 F0  ..'.........U...
+0040: FF FF 7F F0 FF FF 7F 39  73 77 74 46 00 20 00 21  .......9swtF. .!
+0050: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0004 [0x46] CAMERA_CONTROL: Disable user control
+  3: 0x0006 [0x27] REQ_SET(priority=0x01, entity_id=TOWER_D_PANEL (ID: 16814521/0x010091B9), tag_num=0x02)
+  4: 0x000D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  5: 0x001E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9swt" with entities [LocalPlayer, LocalPlayer], work=[160*, 0*]
+  6: 0x002F [0x1C] WAIT(120* ticks)
+  7: 0x0032 [0x27] REQ_SET(priority=0x01, entity_id=TOWER_D_PANEL (ID: 16814521/0x010091B9), tag_num=0x03)
+  8: 0x0039 [0x1C] WAIT(120* ticks)
+  9: 0x003C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "9swt" with entities [LocalPlayer, LocalPlayer], work=160*
+ 10: 0x004B [0x46] CAMERA_CONTROL: Restore default settings
+ 11: 0x004D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 12: 0x004F [0x21] END_EVENT
+ 13: 0x0050 [0x00] END_REQSTACK()
+```

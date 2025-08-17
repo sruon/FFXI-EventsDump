@@ -1,0 +1,319 @@
+# 17105596 - Kiokudama
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Southern San d'Oria [S] (ID: 80) |
+| Block Size       | 160 bytes                        |
+| Total Events     | 12                               |
+| References Count | 3                                |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [146](#event-146)        | 0x0001       |      4 |              2 |
+| [149](#event-149)        | 0x0005       |      4 |              2 |
+| [170](#event-170)        | 0x0009       |      4 |              2 |
+| [172](#event-172)        | 0x000D       |      4 |              2 |
+| [65535.1](#event-655351) | 0x0011       |      1 |              1 |
+| [65535.2](#event-655352) | 0x0012       |     18 |              4 |
+| [65535.3](#event-655353) | 0x0024       |     10 |              2 |
+| [65535.4](#event-655354) | 0x002E       |      9 |              3 |
+| [65535.5](#event-655355) | 0x0037       |      9 |              3 |
+| [65535.6](#event-655356) | 0x0040       |     10 |              2 |
+| [65535.7](#event-655357) | 0x004A       |     10 |              2 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0001      |           1 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0080      |         128 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 146
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    C0 00 80 00                                     ....           
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0xC0] EventEntity->Render.Flags3 |= 0x1000 // Set bit 12 (from 1*)
+  1: 0x0004 [0x00] END_REQSTACK()
+```
+
+### Event 149
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0005  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                C0 00 80  00                            ....       
+```
+
+#### Opcodes
+
+```
+  0: 0x0005 [0xC0] EventEntity->Render.Flags3 |= 0x1000 // Set bit 12 (from 1*)
+  1: 0x0008 [0x00] END_REQSTACK()
+```
+
+### Event 170
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0009  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                             C0 00 80 00                    ....   
+```
+
+#### Opcodes
+
+```
+  0: 0x0009 [0xC0] EventEntity->Render.Flags3 |= 0x1000 // Set bit 12 (from 1*)
+  1: 0x000C [0x00] END_REQSTACK()
+```
+
+### Event 172
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000D  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                         C0 00 80               ...
+0010: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x000D [0xC0] EventEntity->Render.Flags3 |= 0x1000 // Set bit 12 (from 1*)
+  1: 0x0010 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0011  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0011 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0012   |
+| Data Size    | 18 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:       22 00 2F 00 F8 FF  FF 7F 6C F8 FF FF 7F 01    "./.....l.....
+0020: 80 00 80 00                                       ....            
+```
+
+#### Opcodes
+
+```
+  0: 0x0012 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+  1: 0x0014 [0x2F] EventEntity->Render.Flags0 &= ~0x80000 // Bit 19
+  2: 0x001A [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=0*, fade_time=1*)
+  3: 0x0023 [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0024   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:             6C F8 FF FF  7F 02 80 00 80 00            l.........  
+```
+
+#### Opcodes
+
+```
+  0: 0x0024 [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=128*, fade_time=1*)
+  1: 0x002D [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x002E  |
+| Data Size    | 9 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                                            22 00                ".
+0030: 2F 00 F8 FF FF 7F 00                              /......         
+```
+
+#### Opcodes
+
+```
+  0: 0x002E [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+  1: 0x0030 [0x2F] EventEntity->Render.Flags0 &= ~0x80000 // Bit 19
+  2: 0x0036 [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0037  |
+| Data Size    | 9 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:                      22  01 2F 01 F8 FF FF 7F 00         "./......
+```
+
+#### Opcodes
+
+```
+  0: 0x0037 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
+  1: 0x0039 [0x2F] EventEntity->Render.Flags0 |= 0x80000 // Bit 19
+  2: 0x003F [0x00] END_REQSTACK()
+```
+
+### Event 65535.6
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0040   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040: 6C F8 FF FF 7F 01 80 00  80 00                    l.........      
+```
+
+#### Opcodes
+
+```
+  0: 0x0040 [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=0*, fade_time=1*)
+  1: 0x0049 [0x00] END_REQSTACK()
+```
+
+### Event 65535.7
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x004A   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040:                                6C F8 FF FF 7F 02            l.....
+0050: 80 00 80 00                                       ....            
+```
+
+#### Opcodes
+
+```
+  0: 0x004A [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=128*, fade_time=1*)
+  1: 0x0053 [0x00] END_REQSTACK()
+```

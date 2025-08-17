@@ -1,0 +1,304 @@
+# 17563884 - Gate of Light
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | Inner Horutoto Ruins (ID: 192) |
+| Block Size       | 1196 bytes                     |
+| Total Events     | 2                              |
+| References Count | 20                             |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [41](#event-41)       | 0x0001       |   1088 |            133 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1C9D      |        7325 |
+|       1 | 0x00C8      |         200 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x003C      |          60 |
+|       4 | 0x0013      |          19 |
+|       5 | 0x00A2      |         162 |
+|       6 | 0x0064      |         100 |
+|       7 | 0x005C      |          92 |
+|       8 | 0x00C9      |         201 |
+|       9 | 0x000F      |          15 |
+|      10 | 0x0190      |         400 |
+|      11 | 0x0003      |           3 |
+|      12 | 0x012C      |         300 |
+|      13 | 0x0008      |           8 |
+|      14 | 0x007F      |         127 |
+|      15 | 0x1CA4      |        7332 |
+|      16 | 0x001E      |          30 |
+|      17 | 0x03E8      |        1000 |
+|      18 | 0x0032      |          50 |
+|      19 | 0x0001      |           1 |
+
+## String References
+
+- **7325**: Your $3 disappears in a flash of light.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 41
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1088 bytes |
+| Instructions | 133        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 46 01 42 4E 01  E2 00 0C 01 4A F0 FF FF    .F.BN.....J...
+0010: 7F F8 FF FF 7F 48 00 80  23 4C 45 01 80 F8 FF FF  .....H..#LE.....
+0020: 7F F8 FF FF 7F 66 64 6F  31 02 80 1C 03 80 38 04  .....fdo1.....8.
+0030: 80 29 08 F0 FF FF 7F 05  29 0B F0 FF FF 7F 27 1C  .)......).....'.
+0040: 03 80 5C 00 05 80 5C 01  05 80 1C 06 80 4D 1C 01  ..\...\......M..
+0050: 80 27 0B F0 FF FF 7F 29  45 07 80 F0 FF FF 7F F0  .'.....)E.......
+0060: FF FF 7F 73 30 33 39 02  80 45 01 80 F8 FF FF 7F  ...s039..E......
+0070: F8 FF FF 7F 66 64 69 31  02 80 2A 0B F0 FF FF 7F  ....fdi1..*.....
+0080: 1C 06 80 55 07 80 F0 FF  FF 7F F0 FF FF 7F 73 30  ...U..........s0
+0090: 33 39 45 07 80 F0 FF FF  7F F0 FF FF 7F 73 30 35  39E..........s05
+00A0: 37 02 80 29 0B F0 FF FF  7F 2A 79 00 F0 FF FF 7F  7..).....*y.....
+00B0: EF 00 0C 01 29 08 EF 00  0C 01 01 29 0B EF 00 0C  ....)......)....
+00C0: 01 07 29 08 EF 00 0C 01  02 45 07 80 F0 FF FF 7F  ..)......E......
+00D0: F0 FF FF 7F 73 30 34 30  02 80 79 00 F0 FF FF 7F  ....s040..y.....
+00E0: EE 00 0C 01 29 08 EE 00  0C 01 01 29 0B EE 00 0C  ....)......)....
+00F0: 01 07 29 08 EE 00 0C 01  02 45 07 80 F0 FF FF 7F  ..)......E......
+0100: F0 FF FF 7F 73 30 34 32  02 80 45 01 80 F8 FF FF  ....s042..E.....
+0110: 7F F8 FF FF 7F 62 6C 6F  6E 02 80 45 08 80 F8 FF  .....blon..E....
+0120: FF 7F F8 FF FF 7F 62 6C  6F 6E 02 80 7B F0 FF FF  ......blon..{...
+0130: 7F 5D 02 80 01 80 62 09  80 F0 FF FF 7F F0 FF FF  .]....b.........
+0140: 7F 6D 61 69 6E 02 80 27  0B F0 FF FF 7F 2B 1C 03  .main..'.....+..
+0150: 80 45 01 80 F8 FF FF 7F  F8 FF FF 7F 62 6C 6F 66  .E..........blof
+0160: 02 80 2A 0B F0 FF FF 7F  45 01 80 F8 FF FF 7F F8  ..*.....E.......
+0170: FF FF 7F 66 64 6F 31 02  80 1C 0A 80 4E 00 E2 00  ...fdo1.....N...
+0180: 0C 01 29 08 EF 00 0C 01  03 29 08 EE 00 0C 01 03  ..)......)......
+0190: 29 08 EF 00 0C 01 04 29  08 EE 00 0C 01 04 29 0B  )......)......).
+01A0: E2 00 0C 01 52 29 0B F0  FF FF 7F 28 55 07 80 F0  ....R).....(U...
+01B0: FF FF 7F F0 FF FF 7F 73  30 34 32 73 0B 80 E2 00  .......s042s....
+01C0: 0C 01 F0 FF FF 7F 1C 0C  80 29 0B E2 00 0C 01 56  .........).....V
+01D0: 02 09 10 0D 80 00 EC 01  45 07 80 F0 FF FF 7F F0  ........E.......
+01E0: FF FF 7F 73 30 35 39 02  80 01 FD 01 45 07 80 F0  ...s059.....E...
+01F0: FF FF 7F F0 FF FF 7F 73  30 34 31 02 80 45 01 80  .......s041..E..
+0200: F8 FF FF 7F F8 FF FF 7F  66 64 69 31 02 80 5D 0E  ........fdi1..].
+0210: 80 01 80 1C 06 80 27 0B  F0 FF FF 7F 2C 1C 06 80  ......'.....,...
+0220: 29 0B E2 00 0C 01 57 02  09 10 0D 80 00 41 02 52  ).....W......A.R
+0230: 07 80 F0 FF FF 7F F0 FF  FF 7F 73 30 35 39 01 50  ..........s059.P
+0240: 02 52 07 80 F0 FF FF 7F  F0 FF FF 7F 73 30 34 31  .R..........s041
+0250: 45 07 80 F0 FF FF 7F F0  FF FF 7F 73 30 35 36 02  E..........s056.
+0260: 80 79 00 E2 00 0C 01 EF  00 0C 01 29 0B E2 00 0C  .y.........)....
+0270: 01 58 2A 0B F0 FF FF 7F  45 07 80 F0 FF FF 7F F0  .X*.....E.......
+0280: FF FF 7F 73 30 34 34 02  80 27 0B E2 00 0C 01 54  ...s044..'.....T
+0290: 2B E2 00 0C 01 0F 80 23  2A 0B E2 00 0C 01 55 07  +......#*.....U.
+02A0: 80 F0 FF FF 7F F0 FF FF  7F 73 30 34 34 4A F0 FF  .........s044J..
+02B0: FF 7F E2 00 0C 01 29 0B  E2 00 0C 01 5A 02 09 10  ......).....Z...
+02C0: 0D 80 00 D9 02 45 07 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
+02D0: 73 30 36 30 02 80 01 EA  02 45 07 80 F0 FF FF 7F  s060.....E......
+02E0: F0 FF FF 7F 73 30 34 35  02 80 4A E2 00 0C 01 F0  ....s045..J.....
+02F0: FF FF 7F 29 0B E2 00 0C  01 5B 79 00 E2 00 0C 01  ...).....[y.....
+0300: EF 00 0C 01 29 0B E2 00  0C 01 5C 4A E2 00 0C 01  ....).....\J....
+0310: F0 FF FF 7F 45 01 80 F8  FF FF 7F F8 FF FF 7F 66  ....E..........f
+0320: 64 6F 31 02 80 1C 0C 80  02 09 10 0D 80 00 44 03  do1...........D.
+0330: 45 07 80 F0 FF FF 7F F0  FF FF 7F 73 30 36 31 02  E..........s061.
+0340: 80 01 55 03 45 07 80 F0  FF FF 7F F0 FF FF 7F 73  ..U.E..........s
+0350: 30 34 33 02 80 1C 10 80  45 01 80 F8 FF FF 7F F8  043.....E.......
+0360: FF FF 7F 66 64 69 31 02  80 1C 06 80 29 0B E2 00  ...fdi1.....)...
+0370: 0C 01 5D 02 09 10 0D 80  00 8D 03 52 07 80 F0 FF  ..]........R....
+0380: FF 7F F0 FF FF 7F 73 30  36 31 01 9C 03 52 07 80  ......s061...R..
+0390: F0 FF FF 7F F0 FF FF 7F  73 30 34 33 45 07 80 F0  ........s043E...
+03A0: FF FF 7F F0 FF FF 7F 73  30 34 37 02 80 4B E2 00  .......s047..K..
+03B0: 0C 01 11 80 29 0B E2 00  0C 01 5E 52 07 80 F0 FF  ....).....^R....
+03C0: FF 7F F0 FF FF 7F 73 30  34 37 5D 02 80 0C 80 45  ......s047]....E
+03D0: 07 80 F0 FF FF 7F F0 FF  FF 7F 73 30 34 34 02 80  ..........s044..
+03E0: 27 0B E2 00 0C 01 55 1C  12 80 45 01 80 F8 FF FF  '.....U...E.....
+03F0: 7F F8 FF FF 7F 66 64 6F  31 02 80 4C 1C 06 80 55  .....fdo1..L...U
+0400: 07 80 F0 FF FF 7F F0 FF  FF 7F 73 30 34 34 2A 0B  ..........s044*.
+0410: E2 00 0C 01 22 01 5C 00  02 80 5C 01 02 80 5D 0E  ....".\...\...].
+0420: 80 13 80 1C 01 80 4D 1C  01 80 46 00 45 01 80 F8  ......M...F.E...
+0430: FF FF 7F F8 FF FF 7F 66  64 69 31 02 80 20 00 21  .......fdi1.. .!
+0440: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x0005 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  3: 0x0006 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Ajido-Marujido (ID: 17563874/0x010C00E2)
+  4: 0x000C [0x4A] LocalPlayer looks at EventEntity
+  5: 0x0015 [0x48] [System] [7325*]:
+    → "Your $3 disappears in a flash of light."
+  6: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0019 [0x4C] EventEntity->StatusEvent = 8 // Open door
+  8: 0x001A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+  9: 0x002B [0x1C] WAIT(60* ticks)
+ 10: 0x002E [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 11: 0x0031 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x05)
+ 12: 0x0038 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x27)
+ 13: 0x003F [0x1C] WAIT(60* ticks)
+ 14: 0x0042 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 162*
+ 15: 0x0046 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 162*
+ 16: 0x004A [0x1C] WAIT(100* ticks)
+ 17: 0x004D [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 18: 0x004E [0x1C] WAIT(200* ticks)
+ 19: 0x0051 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x29)
+ 20: 0x0058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 21: 0x0069 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 22: 0x007A [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
+ 23: 0x0080 [0x1C] WAIT(100* ticks)
+ 24: 0x0083 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=92*
+ 25: 0x0092 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 26: 0x00A3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x2A)
+ 27: 0x00AA [0x79] LocalPlayer looks at King of Batons (ID: 17563887/0x010C00EF) (Basic look)
+ 28: 0x00B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Batons (ID: 17563887/0x010C00EF), tag_num=0x01)
+ 29: 0x00BB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=King of Batons (ID: 17563887/0x010C00EF), tag_num=0x07)
+ 30: 0x00C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Batons (ID: 17563887/0x010C00EF), tag_num=0x02)
+ 31: 0x00C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 32: 0x00DA [0x79] LocalPlayer looks at King of Wands (ID: 17563886/0x010C00EE) (Basic look)
+ 33: 0x00E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Wands (ID: 17563886/0x010C00EE), tag_num=0x01)
+ 34: 0x00EB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=King of Wands (ID: 17563886/0x010C00EE), tag_num=0x07)
+ 35: 0x00F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Wands (ID: 17563886/0x010C00EE), tag_num=0x02)
+ 36: 0x00F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 37: 0x010A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 38: 0x011B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [EventEntity, EventEntity], work=[201*, 0*]
+ 39: 0x012C [0x7B] LocalPlayer stops talking
+ 40: 0x0131 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
+ 41: 0x0136 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[15*, 0*]
+ 42: 0x0147 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x2B)
+ 43: 0x014E [0x1C] WAIT(60* ticks)
+ 44: 0x0151 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 45: 0x0162 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
+ 46: 0x0168 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 47: 0x0179 [0x1C] WAIT(400* ticks)
+ 48: 0x017C [0x4E] SET_ENTITY_HIDE_FLAG: Show Ajido-Marujido (ID: 17563874/0x010C00E2)
+ 49: 0x0182 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Batons (ID: 17563887/0x010C00EF), tag_num=0x03)
+ 50: 0x0189 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Wands (ID: 17563886/0x010C00EE), tag_num=0x03)
+ 51: 0x0190 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Batons (ID: 17563887/0x010C00EF), tag_num=0x04)
+ 52: 0x0197 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=King of Wands (ID: 17563886/0x010C00EE), tag_num=0x04)
+ 53: 0x019E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x52)
+ 54: 0x01A5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x28)
+ 55: 0x01AC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=92*
+ 56: 0x01BB [0x73] Ajido-Marujido (ID: 17563874/0x010C00E2) casts magic 3* on LocalPlayer
+ 57: 0x01C6 [0x1C] WAIT(300* ticks)
+ 58: 0x01C9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x56)
+ 59: 0x01D0 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x01EC
+ 60: 0x01D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 61: 0x01E9 [0x01] GOTO 0x01FD
+ 62: 0x01EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+
+SUBROUTINE_01FD:
+ 63: 0x01FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 64: 0x020E [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=200*)
+ 65: 0x0213 [0x1C] WAIT(100* ticks)
+ 66: 0x0216 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x2C)
+ 67: 0x021D [0x1C] WAIT(100* ticks)
+ 68: 0x0220 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x57)
+ 69: 0x0227 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x0241
+ 70: 0x022F [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=92*
+ 71: 0x023E [0x01] GOTO 0x0250
+ 72: 0x0241 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=92*
+
+SUBROUTINE_0250:
+ 73: 0x0250 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 74: 0x0261 [0x79] Ajido-Marujido (ID: 17563874/0x010C00E2) looks at King of Batons (ID: 17563887/0x010C00EF) (Basic look)
+ 75: 0x026B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x58)
+ 76: 0x0272 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
+ 77: 0x0278 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 78: 0x0289 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x54)
+ 79: 0x0290 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7332*]:
+    → "You see, these are my old man's most powerful creations. The ones he practically worked himself to death over."
+ 80: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 81: 0x0298 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2))
+ 82: 0x029E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=92*
+ 83: 0x02AD [0x4A] LocalPlayer looks at Ajido-Marujido (ID: 17563874/0x010C00E2)
+ 84: 0x02B6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x5A)
+ 85: 0x02BD [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x02D9
+ 86: 0x02C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 87: 0x02D6 [0x01] GOTO 0x02EA
+ 88: 0x02D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+
+SUBROUTINE_02EA:
+ 89: 0x02EA [0x4A] Ajido-Marujido (ID: 17563874/0x010C00E2) looks at LocalPlayer
+ 90: 0x02F3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x5B)
+ 91: 0x02FA [0x79] Ajido-Marujido (ID: 17563874/0x010C00E2) looks at King of Batons (ID: 17563887/0x010C00EF) (Basic look)
+ 92: 0x0304 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x5C)
+ 93: 0x030B [0x4A] Ajido-Marujido (ID: 17563874/0x010C00E2) looks at LocalPlayer
+ 94: 0x0314 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 95: 0x0325 [0x1C] WAIT(300* ticks)
+ 96: 0x0328 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x0344
+ 97: 0x0330 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+ 98: 0x0341 [0x01] GOTO 0x0355
+ 99: 0x0344 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+
+SUBROUTINE_0355:
+100: 0x0355 [0x1C] WAIT(30* ticks)
+101: 0x0358 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+102: 0x0369 [0x1C] WAIT(100* ticks)
+103: 0x036C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x5D)
+104: 0x0373 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x038D
+105: 0x037B [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=92*
+106: 0x038A [0x01] GOTO 0x039C
+107: 0x038D [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=92*
+
+SUBROUTINE_039C:
+108: 0x039C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+109: 0x03AD [0x4B] UPDATE_ENTITY_YAW(entity=Ajido-Marujido (ID: 17563874/0x010C00E2), yaw=5.5°*)
+110: 0x03B4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x5E)
+111: 0x03BB [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=92*
+112: 0x03CA [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
+113: 0x03CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
+114: 0x03E0 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x55)
+115: 0x03E7 [0x1C] WAIT(50* ticks)
+116: 0x03EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+117: 0x03FB [0x4C] EventEntity->StatusEvent = 8 // Open door
+118: 0x03FC [0x1C] WAIT(100* ticks)
+119: 0x03FF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=92*
+120: 0x040E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2))
+121: 0x0414 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
+122: 0x0416 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
+123: 0x041A [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
+124: 0x041E [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
+125: 0x0423 [0x1C] WAIT(200* ticks)
+126: 0x0426 [0x4D] EventEntity->StatusEvent = 9 // Close door
+127: 0x0427 [0x1C] WAIT(200* ticks)
+128: 0x042A [0x46] CAMERA_CONTROL: Restore default settings
+129: 0x042C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+130: 0x043D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+131: 0x043F [0x21] END_EVENT
+132: 0x0440 [0x00] END_REQSTACK()
+```

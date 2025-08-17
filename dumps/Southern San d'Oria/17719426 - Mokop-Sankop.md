@@ -1,0 +1,165 @@
+# 17719426 - Mokop-Sankop
+
+## Common Data
+
+| Field            | Value                         |
+|------------------|-------------------------------|
+| Zone             | Southern San d'Oria (ID: 230) |
+| Block Size       | 64 bytes                      |
+| Total Events     | 6                             |
+| References Count | 2                             |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [827](#event-827)        | 0x0001       |      1 |              1 |
+| [823](#event-823)        | 0x0002       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0003       |      4 |              2 |
+| [65535.2](#event-655352) | 0x0007       |      4 |              2 |
+| [65535.3](#event-655353) | 0x000B       |      2 |              2 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0003      |           3 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 827
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 823
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0002  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       00                                            .             
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0003  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:          95 00 80 00                                 ....         
+```
+
+#### Opcodes
+
+```
+  0: 0x0003 [0x95] SETUP_EVENT_NPC: Prepare NPC for event (Render.Flags3 = 0*)
+  1: 0x0006 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0007  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                      95  01 80 00                        ....     
+```
+
+#### Opcodes
+
+```
+  0: 0x0007 [0x95] SETUP_EVENT_NPC: Prepare NPC for event (Render.Flags3 = 3*)
+  1: 0x000A [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000B  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                   96 00                      ..   
+```
+
+#### Opcodes
+
+```
+  0: 0x000B [0x96] UNSET_EVENT_NPC: Restore NPC after event (removes event NPC status)
+  1: 0x000C [0x00] END_REQSTACK()
+```

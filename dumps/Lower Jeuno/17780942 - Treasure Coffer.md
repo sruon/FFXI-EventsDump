@@ -1,0 +1,985 @@
+# 17780942 - Treasure Coffer
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Lower Jeuno (ID: 245) |
+| Block Size       | 2852 bytes            |
+| Total Events     | 3                     |
+| References Count | 75                    |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [10099](#event-10099) | 0x0001       |   2520 |            514 |
+| [10125](#event-10125) | 0x09D9       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x26C6      |        9926 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0002      |           2 |
+|       4 | 0x0003      |           3 |
+|       5 | 0x0004      |           4 |
+|       6 | 0x0018      |          24 |
+|       7 | 0x0005      |           5 |
+|       8 | 0x0019      |          25 |
+|       9 | 0xFFFFFFFE  |  4294967294 |
+|      10 | 0x26C7      |        9927 |
+|      11 | 0x0451      |        1105 |
+|      12 | 0x0452      |        1106 |
+|      13 | 0x0453      |        1107 |
+|      14 | 0x0454      |        1108 |
+|      15 | 0x0455      |        1109 |
+|      16 | 0x0456      |        1110 |
+|      17 | 0x0467      |        1127 |
+|      18 | 0x001E      |          30 |
+|      19 | 0x0028      |          40 |
+|      20 | 0x0032      |          50 |
+|      21 | 0x003C      |          60 |
+|      22 | 0x0046      |          70 |
+|      23 | 0x004B      |          75 |
+|      24 | 0x26C5      |        9925 |
+|      25 | 0x0006      |           6 |
+|      26 | 0x0007      |           7 |
+|      27 | 0x0078      |         120 |
+|      28 | 0x0469      |        1129 |
+|      29 | 0x046A      |        1130 |
+|      30 | 0x046B      |        1131 |
+|      31 | 0x046C      |        1132 |
+|      32 | 0x046D      |        1133 |
+|      33 | 0x046E      |        1134 |
+|      34 | 0x046F      |        1135 |
+|      35 | 0x0008      |           8 |
+|      36 | 0x0009      |           9 |
+|      37 | 0x000A      |          10 |
+|      38 | 0x000B      |          11 |
+|      39 | 0x000C      |          12 |
+|      40 | 0x000D      |          13 |
+|      41 | 0x04A0      |        1184 |
+|      42 | 0x04A1      |        1185 |
+|      43 | 0x04A2      |        1186 |
+|      44 | 0x04A3      |        1187 |
+|      45 | 0x04A4      |        1188 |
+|      46 | 0x04A5      |        1189 |
+|      47 | 0x04A6      |        1190 |
+|      48 | 0x000F      |          15 |
+|      49 | 0x0010      |          16 |
+|      50 | 0x0011      |          17 |
+|      51 | 0x0012      |          18 |
+|      52 | 0x0013      |          19 |
+|      53 | 0x0014      |          20 |
+|      54 | 0x26CF      |        9935 |
+|      55 | 0x0017      |          23 |
+|      56 | 0x2C31      |       11313 |
+|      57 | 0x2C32      |       11314 |
+|      58 | 0x2C33      |       11315 |
+|      59 | 0x26C8      |        9928 |
+|      60 | 0x26CA      |        9930 |
+|      61 | 0x26C9      |        9929 |
+|      62 | 0x26CB      |        9931 |
+|      63 | 0x26CC      |        9932 |
+|      64 | 0x26CE      |        9934 |
+|      65 | 0x000E      |          14 |
+|      66 | 0x2CDF      |       11487 |
+|      67 | 0x2CE0      |       11488 |
+|      68 | 0x2CE1      |       11489 |
+|      69 | 0x26D0      |        9936 |
+|      70 | 0x0015      |          21 |
+|      71 | 0x3FF1      |       16369 |
+|      72 | 0x3FF2      |       16370 |
+|      73 | 0x3FF3      |       16371 |
+|      74 | 0x26D1      |        9937 |
+
+## String References
+
+- **9925**: Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]
+- **9926**: What would you like to do? [Cancel./Use "A Crystalline Prophecy" key./Use "A Moogle Kupo d'Etat" key./Use "A Shantotto Ascension" key./Receive Add-on Trilogy Bonus Gift./Have Trilogy Bonus Gift reissued.]
+- **9927**: You do not have a usable key in your possession.
+- **9928**: Obtain which item? [Cancel./$0./$1./$2.]
+- **9929**: Are you certain you want this item? [Yes./No.]
+- **9930**: You may customize this item by selecting two augments from the following list.
+- **9931**: Your $3 has been augmented with the attributes of your choice. It pulsates with arcane energy!
+- **9932**: Are these really the augments you want? [Yes./On second thought...]
+- **9934**: Select your [first/second] augment: [Return./Accuracy+10./Attack+10./Ranged Accuracy+10./Ranged Attack+10./Evasion+10./Magic Accuracy+4./"Magic Atk. Bonus"+4./"Double Attack"+2./Critical hit rate +3./"Store TP"+4 "Subtle Blow"+4./Enmity+5./Enmity-5./Enhances "Fast Cast" effect +5./"Call Beast" ability delay -15./"Snapshot"+5./Enhances "Dual Wield" effect +3./"Blood Pact" ability delay -4./Avatar perpetuation cost -2./"Quick Draw" ability delay -5./Pet: Accuracy+15 Ranged Accuracy+15./Pet: Attack+15 Ranged Attack+15./Pet: Magic Acc.+7 "Magic Atk. Bonus"+7./Pet: "Double Attack"+2 Crit. hit rate +2.]
+- **9935**: You cannot select the same augment twice.
+- **9936**: [Return./Haste+3 "Snapshot"+3./STR+4 Weapon Skill Accuracy+15./DEX+4 Critical hit damage +2%./VIT+4 Shield Skill +5./AGI+4 Weapon skill damage +2%./INT+4 Magic Accuracy+2./MND+4 "Cure" potency +3%./CHR+4 "Waltz" ability delay -2%./Accuracy+10 Attack+5./Ranged Accuracy+10 Ranged Attack+5./Evasion+10 Store TP +4./Mag. Accuracy+3 Healing MP recovery+3./Mag.Atk.Bonus+2 Healing HP recovery+3./Magic damage taken -2% Enmity+4./Magic critical hit rate +10 Enmity-4./Fast Cast+3 Blood Pact abi. delay-3./STR+2 Haste+2./DEX+2 Haste+2./VIT+2 Haste+2./AGI+2 Haste+2./INT+2 "Fast Cast"+2./MND+2 "Fast Cast"+2./CHR+2 "Fast Cast"+2./Accuracy+3 Pet: Haste+5./Accuracy+3 Pet: Critical hit rate +3./Attack+3 Pet: Adds "Regen" effect./Attack+3 Pet: Damage taken -10%.]
+- **9937**: Select [first/second] augment: [Return./HP+25 Enmity+4./MP+25 Enmity-4./Accuracy+7./Attack+7./Ranged Accuracy+7./Ranged Attack+7./Evasion+7./Magic Accuracy+4./"Magic Atk. Bonus"+4./Haste+3./"Double Attack"+2./Critical hit damage +3%./Skillchain damage +5%./"Conserve TP"+5./Physical damage taken -4%./Magic critical hit damage +10%./Magic burst damage +10%./"Kick Attacks"+5./"Cure" potency +5%./"Sic" and "Ready" ability delay -5./Song recast delay -3./"Barrage"+1./"Elemental Siphon"+20./"Phantom Roll" ability delay -5./"Repair" potency +10%./"Waltz" TP cost -50./Pet: Accuracy+7 Ranged Accuracy+7./Pet: Attack+7 Ranged Attack+7./Pet: "Store TP"+8 "Subtle Blow"+8./Pet: Magic Accuracy+7./Movement speed +8%.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 10099
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 2520 bytes |
+| Instructions | 514        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 06 00 02 10 03 07  00 03 10 03 08 00 04 10   ...............
+0010: 03 0C 00 05 10 03 01 00  00 80 1A 24 00 03 01 10  ...........$....
+0020: 01 00 21 00 42 24 01 80  00 80 0C 00 25 02 00 10  ..!.B$......%...
+0030: 00 80 00 38 00 01 8C 00  02 00 10 02 80 00 46 00  ...8..........F.
+0040: 1A 90 00 01 8C 00 02 00  10 03 80 00 54 00 1A C8  ............T...
+0050: 01 01 8C 00 02 00 10 04  80 00 62 00 1A CC 02 01  ..........b.....
+0060: 8C 00 02 00 10 05 80 00  77 00 1A 94 01 3C 01 00  ........w....<..
+0070: 06 80 02 80 01 8C 00 02  00 10 07 80 00 8C 00 1A  ................
+0080: 94 01 3C 01 00 08 80 02  80 01 8C 00 1A AA 01 1B  ..<.............
+0090: 02 06 00 09 80 00 9F 00  48 0A 80 23 01 93 01 03  ........H..#....
+00A0: 02 10 0B 80 03 03 10 0C  80 03 04 10 0D 80 03 05  ................
+00B0: 10 0E 80 03 06 10 0F 80  03 07 10 10 80 03 08 10  ................
+00C0: 11 80 03 09 10 12 80 03  00 17 13 80 03 01 17 14  ................
+00D0: 80 03 02 17 15 80 03 03  17 16 80 03 04 17 17 80  ................
+00E0: 03 0A 00 00 80 24 18 80  0A 00 06 00 25 02 00 10  .....$......%...
+00F0: 00 80 00 F8 00 01 93 01  02 00 10 02 80 00 0F 01  ................
+0100: 40 00 80 07 80 01 00 02  80 1A 94 01 01 93 01 02  @...............
+0110: 00 10 03 80 00 26 01 40  00 80 07 80 01 00 03 80  .....&.@........
+0120: 1A 94 01 01 93 01 02 00  10 04 80 00 3D 01 40 00  ............=.@.
+0130: 80 07 80 01 00 04 80 1A  94 01 01 93 01 02 00 10  ................
+0140: 05 80 00 54 01 40 00 80  07 80 01 00 05 80 1A 94  ...T.@..........
+0150: 01 01 93 01 02 00 10 07  80 00 6B 01 40 00 80 07  ..........k.@...
+0160: 80 01 00 07 80 1A 94 01  01 93 01 02 00 10 19 80  ................
+0170: 00 82 01 40 00 80 07 80  01 00 19 80 1A 94 01 01  ...@............
+0180: 93 01 02 00 10 1A 80 00  93 01 1A 94 01 1A D0 03  ................
+0190: 01 93 01 1B 2C F8 FF FF  7F F8 FF FF 7F 6F 70 65  ....,........ope
+01A0: 6E 1C 1B 80 03 09 00 02  80 1B 02 09 00 02 80 00  n...............
+01B0: C7 01 2C F8 FF FF 7F F8  FF FF 7F 63 6C 6F 73 1C  ..,........clos.
+01C0: 1B 80 03 09 00 00 80 1B  02 07 00 09 80 00 D7 01  ................
+01D0: 48 0A 80 23 01 CB 02 03  02 10 1C 80 03 03 10 1D  H..#............
+01E0: 80 03 04 10 1E 80 03 05  10 1F 80 03 06 10 20 80  .............. .
+01F0: 03 07 10 21 80 03 08 10  22 80 03 09 10 12 80 03  ...!....".......
+0200: 00 17 13 80 03 01 17 14  80 03 02 17 15 80 03 03  ................
+0210: 17 16 80 03 04 17 17 80  03 0A 00 00 80 24 18 80  .............$..
+0220: 0A 00 07 00 25 02 00 10  00 80 00 30 02 01 CB 02  ....%......0....
+0230: 02 00 10 02 80 00 47 02  40 00 80 07 80 01 00 23  ......G.@......#
+0240: 80 1A 94 01 01 CB 02 02  00 10 03 80 00 5E 02 40  .............^.@
+0250: 00 80 07 80 01 00 24 80  1A 94 01 01 CB 02 02 00  ......$.........
+0260: 10 04 80 00 75 02 40 00  80 07 80 01 00 25 80 1A  ....u.@......%..
+0270: 94 01 01 CB 02 02 00 10  05 80 00 8C 02 40 00 80  .............@..
+0280: 07 80 01 00 26 80 1A 94  01 01 CB 02 02 00 10 07  ....&...........
+0290: 80 00 A3 02 40 00 80 07  80 01 00 27 80 1A 94 01  ....@......'....
+02A0: 01 CB 02 02 00 10 19 80  00 BA 02 40 00 80 07 80  ...........@....
+02B0: 01 00 28 80 1A 94 01 01  CB 02 02 00 10 1A 80 00  ..(.............
+02C0: CB 02 1A 94 01 1A 75 06  01 CB 02 1B 02 08 00 09  ......u.........
+02D0: 80 00 DB 02 48 0A 80 23  01 CF 03 03 02 10 29 80  ....H..#......).
+02E0: 03 03 10 2A 80 03 04 10  2B 80 03 05 10 2C 80 03  ...*....+....,..
+02F0: 06 10 2D 80 03 07 10 2E  80 03 08 10 2F 80 03 09  ..-........./...
+0300: 10 12 80 03 00 17 13 80  03 01 17 14 80 03 02 17  ................
+0310: 15 80 03 03 17 16 80 03  04 17 17 80 03 0A 00 00  ................
+0320: 80 24 18 80 0A 00 08 00  25 02 00 10 00 80 00 34  .$......%......4
+0330: 03 01 CF 03 02 00 10 02  80 00 4B 03 40 00 80 07  ..........K.@...
+0340: 80 01 00 30 80 1A 94 01  01 CF 03 02 00 10 03 80  ...0............
+0350: 00 62 03 40 00 80 07 80  01 00 31 80 1A 94 01 01  .b.@......1.....
+0360: CF 03 02 00 10 04 80 00  79 03 40 00 80 07 80 01  ........y.@.....
+0370: 00 32 80 1A 94 01 01 CF  03 02 00 10 05 80 00 90  .2..............
+0380: 03 40 00 80 07 80 01 00  33 80 1A 94 01 01 CF 03  .@......3.......
+0390: 02 00 10 07 80 00 A7 03  40 00 80 07 80 01 00 34  ........@......4
+03A0: 80 1A 94 01 01 CF 03 02  00 10 19 80 00 BE 03 40  ...............@
+03B0: 00 80 07 80 01 00 35 80  1A 94 01 01 CF 03 02 00  ......5.........
+03C0: 10 1A 80 00 CF 03 1A 94  01 1A 27 08 01 CF 03 1B  ..........'.....
+03D0: 03 0D 00 02 80 02 0D 00  00 80 01 C1 04 02 0D 00  ................
+03E0: 02 80 80 11 04 06 01 00  1A C2 04 02 00 00 00 80  ................
+03F0: 01 09 04 03 02 10 03 00  40 19 80 25 80 01 00 03  ........@..%....
+0400: 00 03 0D 00 03 80 01 0E  04 03 0D 00 00 80 01 BE  ................
+0410: 04 02 0D 00 03 80 80 42  04 03 00 17 00 80 1A 13  .......B........
+0420: 06 02 00 00 00 80 01 3A  04 40 26 80 30 80 01 00  .......:.@&.0...
+0430: 00 00 03 0D 00 04 80 01  3F 04 03 0D 00 02 80 01  ........?.......
+0440: BE 04 02 0D 00 04 80 80  8B 04 03 00 17 02 80 1A  ................
+0450: 13 06 02 00 00 00 80 01  83 04 41 26 80 30 80 01  ..........A&.0..
+0460: 00 05 00 02 05 00 00 00  01 7C 04 40 31 80 35 80  .........|.@1.5.
+0470: 01 00 00 00 03 0D 00 05  80 01 80 04 48 36 80 23  ............H6.#
+0480: 01 88 04 03 0D 00 03 80  01 BE 04 02 0D 00 05 80  ................
+0490: 80 BE 04 1A CB 05 02 00  00 00 80 01 B6 04 03 0D  ................
+04A0: 00 00 80 3C 01 00 37 80  02 80 40 00 80 07 80 01  ...<..7...@.....
+04B0: 00 1A 80 01 BB 04 03 0D  00 03 80 01 BE 04 01 D5  ................
+04C0: 03 1B 03 02 10 38 80 03  03 10 39 80 03 04 10 3A  .....8....9....:
+04D0: 80 03 02 00 00 80 02 02  00 00 80 00 55 05 24 3B  ............U.$;
+04E0: 80 00 80 00 80 25 02 00  10 00 80 00 FB 04 03 02  .....%..........
+04F0: 00 02 80 03 00 00 00 80  01 52 05 02 00 10 02 80  .........R......
+0500: 00 18 05 03 03 00 02 80  03 04 00 38 80 03 0B 00  ...........8....
+0510: 07 80 1A 65 05 01 52 05  02 00 10 03 80 00 35 05  ...e..R.......5.
+0520: 03 03 00 03 80 03 04 00  39 80 03 0B 00 07 80 1A  ........9.......
+0530: 65 05 01 52 05 02 00 10  04 80 00 52 05 03 03 00  e..R.......R....
+0540: 04 80 03 04 00 3A 80 03  0B 00 07 80 1A 65 05 01  .....:.......e..
+0550: 52 05 01 D6 04 03 02 10  00 80 03 03 10 00 80 03  R...............
+0560: 04 10 00 80 1B 93 04 00  02 0B 00 07 80 80 78 05  ..............x.
+0570: 03 05 10 00 80 01 98 05  02 0B 00 19 80 80 88 05  ................
+0580: 03 05 10 02 80 01 98 05  02 0B 00 1A 80 80 98 05  ................
+0590: 03 05 10 03 80 01 98 05  48 3C 80 23 93 00 80 24  ........H<.#...$
+05A0: 3D 80 02 80 00 80 25 02  00 10 00 80 00 BC 05 03  =.....%.........
+05B0: 00 00 02 80 03 02 00 02  80 01 C7 05 02 00 10 02  ................
+05C0: 80 00 C7 05 01 C7 05 93  00 80 1B 03 01 10 01 00  ................
+05D0: 43 00 43 01 03 05 10 04  00 CC 01 04 00 02 10 03  C.C.............
+05E0: 10 04 10 48 3E 80 23 93  00 80 24 3F 80 02 80 00  ...H>.#...$?....
+05F0: 80 25 02 00 10 00 80 00  02 06 03 00 00 02 80 01  .%..............
+0600: 12 06 02 00 10 02 80 00  12 06 03 00 00 00 80 01  ................
+0610: 12 06 1B 06 0E 00 02 0E  00 00 80 00 4B 06 02 0B  ............K...
+0620: 00 07 80 80 2C 06 1A 51  06 01 48 06 02 0B 00 19  ....,..Q..H.....
+0630: 80 80 3A 06 1A 03 08 01  48 06 02 0B 00 1A 80 80  ..:.....H.......
+0640: 48 06 1A B5 09 01 48 06  01 16 06 03 00 00 0F 00  H.....H.........
+0650: 1B 24 40 80 00 80 00 80  25 02 00 10 00 80 00 6C  .$@.....%......l
+0660: 06 03 0F 00 00 80 05 0E  00 01 74 06 03 0F 00 00  ..........t.....
+0670: 10 05 0E 00 1B 03 0D 00  02 80 02 0D 00 00 80 01  ................
+0680: 5F 07 02 0D 00 02 80 80  B6 06 06 01 00 1A 60 07  _.............`.
+0690: 02 00 00 00 80 01 AE 06  03 02 10 03 00 40 19 80  .............@..
+06A0: 25 80 01 00 03 00 03 0D  00 03 80 01 B3 06 03 0D  %...............
+06B0: 00 00 80 01 5C 07 02 0D  00 03 80 80 E7 06 03 00  ....\...........
+06C0: 17 00 80 1A 13 06 02 00  00 00 80 01 DF 06 40 26  ..............@&
+06D0: 80 30 80 01 00 00 00 03  0D 00 04 80 01 E4 06 03  .0..............
+06E0: 0D 00 02 80 01 5C 07 02  0D 00 04 80 80 30 07 03  .....\.......0..
+06F0: 00 17 02 80 1A 13 06 02  00 00 00 80 01 28 07 41  .............(.A
+0700: 26 80 30 80 01 00 05 00  02 05 00 00 00 01 21 07  &.0...........!.
+0710: 40 31 80 35 80 01 00 00  00 03 0D 00 05 80 01 25  @1.5...........%
+0720: 07 48 36 80 23 01 2D 07  03 0D 00 03 80 01 5C 07  .H6.#.-.......\.
+0730: 02 0D 00 05 80 80 5C 07  1A CB 05 02 00 00 00 80  ......\.........
+0740: 01 54 07 03 0D 00 00 80  40 00 80 07 80 01 00 41  .T......@......A
+0750: 80 01 59 07 03 0D 00 03  80 01 5C 07 01 7A 06 1B  ..Y.......\..z..
+0760: 03 02 10 42 80 03 03 10  43 80 03 04 10 44 80 03  ...B....C....D..
+0770: 02 00 00 80 02 02 00 00  80 00 F3 07 24 3B 80 00  ............$;..
+0780: 80 00 80 25 02 00 10 00  80 00 99 07 03 02 00 02  ...%............
+0790: 80 03 00 00 00 80 01 F0  07 02 00 10 02 80 00 B6  ................
+07A0: 07 03 03 00 05 80 03 04  00 42 80 03 0B 00 19 80  .........B......
+07B0: 1A 65 05 01 F0 07 02 00  10 03 80 00 D3 07 03 03  .e..............
+07C0: 00 07 80 03 04 00 43 80  03 0B 00 19 80 1A 65 05  ......C.......e.
+07D0: 01 F0 07 02 00 10 04 80  00 F0 07 03 03 00 19 80  ................
+07E0: 03 04 00 44 80 03 0B 00  19 80 1A 65 05 01 F0 07  ...D.......e....
+07F0: 01 74 07 03 02 10 00 80  03 03 10 00 80 03 04 10  .t..............
+0800: 00 80 1B 24 45 80 00 80  00 80 25 02 00 10 00 80  ...$E.....%.....
+0810: 00 1E 08 03 0F 00 00 80  05 0E 00 01 26 08 03 0F  ............&...
+0820: 00 00 10 05 0E 00 1B 03  0D 00 02 80 02 0D 00 00  ................
+0830: 80 01 11 09 02 0D 00 02  80 80 68 08 06 01 00 1A  ..........h.....
+0840: 12 09 02 00 00 00 80 01  60 08 03 02 10 03 00 40  ........`......@
+0850: 19 80 25 80 01 00 03 00  03 0D 00 03 80 01 65 08  ..%...........e.
+0860: 03 0D 00 00 80 01 0E 09  02 0D 00 03 80 80 99 08  ................
+0870: 03 00 17 00 80 1A 13 06  02 00 00 00 80 01 91 08  ................
+0880: 40 26 80 30 80 01 00 00  00 03 0D 00 04 80 01 96  @&.0............
+0890: 08 03 0D 00 02 80 01 0E  09 02 0D 00 04 80 80 E2  ................
+08A0: 08 03 00 17 02 80 1A 13  06 02 00 00 00 80 01 DA  ................
+08B0: 08 41 26 80 30 80 01 00  05 00 02 05 00 00 00 01  .A&.0...........
+08C0: D3 08 40 31 80 35 80 01  00 00 00 03 0D 00 05 80  ..@1.5..........
+08D0: 01 D7 08 48 36 80 23 01  DF 08 03 0D 00 03 80 01  ...H6.#.........
+08E0: 0E 09 02 0D 00 05 80 80  0E 09 1A CB 05 02 00 00  ................
+08F0: 00 80 01 06 09 03 0D 00  00 80 40 00 80 07 80 01  ..........@.....
+0900: 00 46 80 01 0B 09 03 0D  00 03 80 01 0E 09 01 2C  .F.............,
+0910: 08 1B 03 02 10 47 80 03  03 10 48 80 03 04 10 49  .....G....H....I
+0920: 80 03 02 00 00 80 02 02  00 00 80 00 A5 09 24 3B  ..............$;
+0930: 80 00 80 00 80 25 02 00  10 00 80 00 4B 09 03 02  .....%......K...
+0940: 00 02 80 03 00 00 00 80  01 A2 09 02 00 10 02 80  ................
+0950: 00 68 09 03 03 00 1A 80  03 04 00 47 80 03 0B 00  .h.........G....
+0960: 1A 80 1A 65 05 01 A2 09  02 00 10 03 80 00 85 09  ...e............
+0970: 03 03 00 23 80 03 04 00  48 80 03 0B 00 1A 80 1A  ...#....H.......
+0980: 65 05 01 A2 09 02 00 10  04 80 00 A2 09 03 03 00  e...............
+0990: 24 80 03 04 00 49 80 03  0B 00 1A 80 1A 65 05 01  $....I.......e..
+09A0: A2 09 01 26 09 03 02 10  00 80 03 03 10 00 80 03  ...&............
+09B0: 04 10 00 80 1B 24 4A 80  00 80 00 80 25 02 00 10  .....$J.....%...
+09C0: 00 80 00 D0 09 03 0F 00  00 80 05 0E 00 01 D8 09  ................
+09D0: 03 0F 00 00 10 05 0E 00  1B                       .........       
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[2]
+  1: 0x0006 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[3]
+  2: 0x000B [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[4]
+  3: 0x0010 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[5]
+  4: 0x0015 [0x03] ExtData[1]->WorkLocal[1] = 0*
+  5: 0x001A [0x1A] CALL_SUBROUTINE(address=0x0024)
+  6: 0x001D [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[1]
+  7: 0x0022 [0x21] END_EVENT
+  8: 0x0023 [0x00] END_REQSTACK()
+
+SUBROUTINE_0024:
+  9: 0x0024 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 10: 0x0025 [0x24] CREATE_DIALOG(message_id=9926*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+    → "What would you like to do? [Cancel./Use "A Crystalline Prophecy" key./Use "A Moogle Kupo d'Etat" key./Use "A Shantotto Ascension" key./Receive Add-on Trilogy Bonus Gift./Have Trilogy Bonus Gift reissued.]"
+ 11: 0x002C [0x25] WAIT_DIALOG_SELECT()
+ 12: 0x002D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0038
+ 13: 0x0035 [0x01] GOTO 0x008C
+ 14: 0x0038 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0046
+ 15: 0x0040 [0x1A] CALL_SUBROUTINE(address=0x0090)
+ 16: 0x0043 [0x01] GOTO 0x008C
+ 17: 0x0046 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0054
+ 18: 0x004E [0x1A] CALL_SUBROUTINE(address=0x01C8)
+ 19: 0x0051 [0x01] GOTO 0x008C
+ 20: 0x0054 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0062
+ 21: 0x005C [0x1A] CALL_SUBROUTINE(address=0x02CC)
+ 22: 0x005F [0x01] GOTO 0x008C
+ 23: 0x0062 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0077
+ 24: 0x006A [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 25: 0x006D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=24*, condition_work_offset=1*)
+ 26: 0x0074 [0x01] GOTO 0x008C
+ 27: 0x0077 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x008C
+ 28: 0x007F [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 29: 0x0082 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=25*, condition_work_offset=1*)
+ 30: 0x0089 [0x01] GOTO 0x008C
+
+SUBROUTINE_008C:
+ 31: 0x008C [0x1A] CALL_SUBROUTINE(address=0x01AA)
+ 32: 0x008F [0x1B] RETURN
+
+SUBROUTINE_0090:
+ 33: 0x0090 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4294967294*) GOTO 0x009F
+ 34: 0x0098 [0x48] [System] [9927*]:
+    → "You do not have a usable key in your possession."
+ 35: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 36: 0x009C [0x01] GOTO 0x0193
+ 37: 0x009F [0x03] Work_Zone[2] = 1105*
+ 38: 0x00A4 [0x03] Work_Zone[3] = 1106*
+ 39: 0x00A9 [0x03] Work_Zone[4] = 1107*
+ 40: 0x00AE [0x03] Work_Zone[5] = 1108*
+ 41: 0x00B3 [0x03] Work_Zone[6] = 1109*
+ 42: 0x00B8 [0x03] Work_Zone[7] = 1110*
+ 43: 0x00BD [0x03] Work_Zone[8] = 1127*
+ 44: 0x00C2 [0x03] Work_Zone[9] = 30*
+ 45: 0x00C7 [0x03] Work_Zone_1700[0] = 40*
+ 46: 0x00CC [0x03] Work_Zone_1700[1] = 50*
+ 47: 0x00D1 [0x03] Work_Zone_1700[2] = 60*
+ 48: 0x00D6 [0x03] Work_Zone_1700[3] = 70*
+ 49: 0x00DB [0x03] Work_Zone_1700[4] = 75*
+ 50: 0x00E0 [0x03] ExtData[1]->WorkLocal[10] = 0*
+ 51: 0x00E5 [0x24] CREATE_DIALOG(message_id=9925*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[6])
+    → "Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]"
+ 52: 0x00EC [0x25] WAIT_DIALOG_SELECT()
+ 53: 0x00ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F8
+ 54: 0x00F5 [0x01] GOTO 0x0193
+ 55: 0x00F8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010F
+ 56: 0x0100 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=1*)
+ 57: 0x0109 [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 58: 0x010C [0x01] GOTO 0x0193
+ 59: 0x010F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0126
+ 60: 0x0117 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=2*)
+ 61: 0x0120 [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 62: 0x0123 [0x01] GOTO 0x0193
+ 63: 0x0126 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x013D
+ 64: 0x012E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=3*)
+ 65: 0x0137 [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 66: 0x013A [0x01] GOTO 0x0193
+ 67: 0x013D [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0154
+ 68: 0x0145 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=4*)
+ 69: 0x014E [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 70: 0x0151 [0x01] GOTO 0x0193
+ 71: 0x0154 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x016B
+ 72: 0x015C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=5*)
+ 73: 0x0165 [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 74: 0x0168 [0x01] GOTO 0x0193
+ 75: 0x016B [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0182
+ 76: 0x0173 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=6*)
+ 77: 0x017C [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 78: 0x017F [0x01] GOTO 0x0193
+ 79: 0x0182 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0193
+ 80: 0x018A [0x1A] CALL_SUBROUTINE(address=0x0194)
+ 81: 0x018D [0x1A] CALL_SUBROUTINE(address=0x03D0)
+ 82: 0x0190 [0x01] GOTO 0x0193
+
+SUBROUTINE_0193:
+ 83: 0x0193 [0x1B] RETURN
+
+SUBROUTINE_0194:
+ 84: 0x0194 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [EventEntity, EventEntity]
+ 85: 0x01A1 [0x1C] WAIT(120* ticks)
+ 86: 0x01A4 [0x03] ExtData[1]->WorkLocal[9] = 1*
+ 87: 0x01A9 [0x1B] RETURN
+
+SUBROUTINE_01AA:
+ 88: 0x01AA [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x01C7
+ 89: 0x01B2 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [EventEntity, EventEntity]
+ 90: 0x01BF [0x1C] WAIT(120* ticks)
+ 91: 0x01C2 [0x03] ExtData[1]->WorkLocal[9] = 0*
+ 92: 0x01C7 [0x1B] RETURN
+
+SUBROUTINE_01C8:
+ 93: 0x01C8 [0x02] IF !(ExtData[1]->WorkLocal[7] == 4294967294*) GOTO 0x01D7
+ 94: 0x01D0 [0x48] [System] [9927*]:
+    → "You do not have a usable key in your possession."
+ 95: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 96: 0x01D4 [0x01] GOTO 0x02CB
+ 97: 0x01D7 [0x03] Work_Zone[2] = 1129*
+ 98: 0x01DC [0x03] Work_Zone[3] = 1130*
+ 99: 0x01E1 [0x03] Work_Zone[4] = 1131*
+100: 0x01E6 [0x03] Work_Zone[5] = 1132*
+101: 0x01EB [0x03] Work_Zone[6] = 1133*
+102: 0x01F0 [0x03] Work_Zone[7] = 1134*
+103: 0x01F5 [0x03] Work_Zone[8] = 1135*
+104: 0x01FA [0x03] Work_Zone[9] = 30*
+105: 0x01FF [0x03] Work_Zone_1700[0] = 40*
+106: 0x0204 [0x03] Work_Zone_1700[1] = 50*
+107: 0x0209 [0x03] Work_Zone_1700[2] = 60*
+108: 0x020E [0x03] Work_Zone_1700[3] = 70*
+109: 0x0213 [0x03] Work_Zone_1700[4] = 75*
+110: 0x0218 [0x03] ExtData[1]->WorkLocal[10] = 0*
+111: 0x021D [0x24] CREATE_DIALOG(message_id=9925*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[7])
+    → "Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]"
+112: 0x0224 [0x25] WAIT_DIALOG_SELECT()
+113: 0x0225 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0230
+114: 0x022D [0x01] GOTO 0x02CB
+115: 0x0230 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0247
+116: 0x0238 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=8*)
+117: 0x0241 [0x1A] CALL_SUBROUTINE(address=0x0194)
+118: 0x0244 [0x01] GOTO 0x02CB
+119: 0x0247 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x025E
+120: 0x024F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=9*)
+121: 0x0258 [0x1A] CALL_SUBROUTINE(address=0x0194)
+122: 0x025B [0x01] GOTO 0x02CB
+123: 0x025E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0275
+124: 0x0266 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=10*)
+125: 0x026F [0x1A] CALL_SUBROUTINE(address=0x0194)
+126: 0x0272 [0x01] GOTO 0x02CB
+127: 0x0275 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x028C
+128: 0x027D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=11*)
+129: 0x0286 [0x1A] CALL_SUBROUTINE(address=0x0194)
+130: 0x0289 [0x01] GOTO 0x02CB
+131: 0x028C [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x02A3
+132: 0x0294 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=12*)
+133: 0x029D [0x1A] CALL_SUBROUTINE(address=0x0194)
+134: 0x02A0 [0x01] GOTO 0x02CB
+135: 0x02A3 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x02BA
+136: 0x02AB [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=13*)
+137: 0x02B4 [0x1A] CALL_SUBROUTINE(address=0x0194)
+138: 0x02B7 [0x01] GOTO 0x02CB
+139: 0x02BA [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x02CB
+140: 0x02C2 [0x1A] CALL_SUBROUTINE(address=0x0194)
+141: 0x02C5 [0x1A] CALL_SUBROUTINE(address=0x0675)
+142: 0x02C8 [0x01] GOTO 0x02CB
+
+SUBROUTINE_02CB:
+143: 0x02CB [0x1B] RETURN
+
+SUBROUTINE_02CC:
+144: 0x02CC [0x02] IF !(ExtData[1]->WorkLocal[8] == 4294967294*) GOTO 0x02DB
+145: 0x02D4 [0x48] [System] [9927*]:
+    → "You do not have a usable key in your possession."
+146: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+147: 0x02D8 [0x01] GOTO 0x03CF
+148: 0x02DB [0x03] Work_Zone[2] = 1184*
+149: 0x02E0 [0x03] Work_Zone[3] = 1185*
+150: 0x02E5 [0x03] Work_Zone[4] = 1186*
+151: 0x02EA [0x03] Work_Zone[5] = 1187*
+152: 0x02EF [0x03] Work_Zone[6] = 1188*
+153: 0x02F4 [0x03] Work_Zone[7] = 1189*
+154: 0x02F9 [0x03] Work_Zone[8] = 1190*
+155: 0x02FE [0x03] Work_Zone[9] = 30*
+156: 0x0303 [0x03] Work_Zone_1700[0] = 40*
+157: 0x0308 [0x03] Work_Zone_1700[1] = 50*
+158: 0x030D [0x03] Work_Zone_1700[2] = 60*
+159: 0x0312 [0x03] Work_Zone_1700[3] = 70*
+160: 0x0317 [0x03] Work_Zone_1700[4] = 75*
+161: 0x031C [0x03] ExtData[1]->WorkLocal[10] = 0*
+162: 0x0321 [0x24] CREATE_DIALOG(message_id=9925*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[8])
+    → "Which key will you use? [None of them./6 (Level $7)./$6 (Level $8)./$6 (Level $9)./$6 (Level $10)./$6 (Level $11)./$6 (Level $12)./$6 (Scenario completed).]"
+163: 0x0328 [0x25] WAIT_DIALOG_SELECT()
+164: 0x0329 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0334
+165: 0x0331 [0x01] GOTO 0x03CF
+166: 0x0334 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x034B
+167: 0x033C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=15*)
+168: 0x0345 [0x1A] CALL_SUBROUTINE(address=0x0194)
+169: 0x0348 [0x01] GOTO 0x03CF
+170: 0x034B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0362
+171: 0x0353 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=16*)
+172: 0x035C [0x1A] CALL_SUBROUTINE(address=0x0194)
+173: 0x035F [0x01] GOTO 0x03CF
+174: 0x0362 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0379
+175: 0x036A [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=17*)
+176: 0x0373 [0x1A] CALL_SUBROUTINE(address=0x0194)
+177: 0x0376 [0x01] GOTO 0x03CF
+178: 0x0379 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0390
+179: 0x0381 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=18*)
+180: 0x038A [0x1A] CALL_SUBROUTINE(address=0x0194)
+181: 0x038D [0x01] GOTO 0x03CF
+182: 0x0390 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x03A7
+183: 0x0398 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=19*)
+184: 0x03A1 [0x1A] CALL_SUBROUTINE(address=0x0194)
+185: 0x03A4 [0x01] GOTO 0x03CF
+186: 0x03A7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x03BE
+187: 0x03AF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=20*)
+188: 0x03B8 [0x1A] CALL_SUBROUTINE(address=0x0194)
+189: 0x03BB [0x01] GOTO 0x03CF
+190: 0x03BE [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x03CF
+191: 0x03C6 [0x1A] CALL_SUBROUTINE(address=0x0194)
+192: 0x03C9 [0x1A] CALL_SUBROUTINE(address=0x0827)
+193: 0x03CC [0x01] GOTO 0x03CF
+
+SUBROUTINE_03CF:
+194: 0x03CF [0x1B] RETURN
+
+SUBROUTINE_03D0:
+195: 0x03D0 [0x03] ExtData[1]->WorkLocal[13] = 1*
+
+SUBROUTINE_03D5:
+196: 0x03D5 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x04C1
+197: 0x03DD [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0411
+198: 0x03E5 [0x06] ExtData[1]->WorkLocal[1] = 0
+199: 0x03E8 [0x1A] CALL_SUBROUTINE(address=0x04C2)
+200: 0x03EB [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0409
+201: 0x03F3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
+202: 0x03F8 [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=10*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[3])
+203: 0x0401 [0x03] ExtData[1]->WorkLocal[13] = 2*
+204: 0x0406 [0x01] GOTO 0x040E
+205: 0x0409 [0x03] ExtData[1]->WorkLocal[13] = 0*
+
+SUBROUTINE_040E:
+206: 0x040E [0x01] GOTO 0x04BE
+207: 0x0411 [0x02] IF !(ExtData[1]->WorkLocal[13] == 2*) GOTO 0x0442
+208: 0x0419 [0x03] Work_Zone_1700[0] = 0*
+209: 0x041E [0x1A] CALL_SUBROUTINE(address=0x0613)
+210: 0x0421 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x043A
+211: 0x0429 [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=15*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
+212: 0x0432 [0x03] ExtData[1]->WorkLocal[13] = 3*
+213: 0x0437 [0x01] GOTO 0x043F
+214: 0x043A [0x03] ExtData[1]->WorkLocal[13] = 1*
+
+SUBROUTINE_043F:
+215: 0x043F [0x01] GOTO 0x04BE
+216: 0x0442 [0x02] IF !(ExtData[1]->WorkLocal[13] == 3*) GOTO 0x048B
+217: 0x044A [0x03] Work_Zone_1700[0] = 1*
+218: 0x044F [0x1A] CALL_SUBROUTINE(address=0x0613)
+219: 0x0452 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0483
+220: 0x045A [0x41] ExtData[1]->WorkLocal[5] = ExtData[1]->WorkLocal[1] (bits 11*-15*)
+221: 0x0463 [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[0]) GOTO 0x047C
+222: 0x046B [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
+223: 0x0474 [0x03] ExtData[1]->WorkLocal[13] = 4*
+224: 0x0479 [0x01] GOTO 0x0480
+225: 0x047C [0x48] [System] [9935*]:
+    → "You cannot select the same augment twice."
+226: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0480:
+227: 0x0480 [0x01] GOTO 0x0488
+228: 0x0483 [0x03] ExtData[1]->WorkLocal[13] = 2*
+
+SUBROUTINE_0488:
+229: 0x0488 [0x01] GOTO 0x04BE
+230: 0x048B [0x02] IF !(ExtData[1]->WorkLocal[13] == 4*) GOTO 0x04BE
+231: 0x0493 [0x1A] CALL_SUBROUTINE(address=0x05CB)
+232: 0x0496 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x04B6
+233: 0x049E [0x03] ExtData[1]->WorkLocal[13] = 0*
+234: 0x04A3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=23*, condition_work_offset=1*)
+235: 0x04AA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=7*)
+236: 0x04B3 [0x01] GOTO 0x04BB
+237: 0x04B6 [0x03] ExtData[1]->WorkLocal[13] = 2*
+
+SUBROUTINE_04BB:
+238: 0x04BB [0x01] GOTO 0x04BE
+
+SUBROUTINE_04BE:
+239: 0x04BE [0x01] GOTO 0x03D5
+240: 0x04C1 [0x1B] RETURN
+
+SUBROUTINE_04C2:
+241: 0x04C2 [0x03] Work_Zone[2] = 11313*
+242: 0x04C7 [0x03] Work_Zone[3] = 11314*
+243: 0x04CC [0x03] Work_Zone[4] = 11315*
+244: 0x04D1 [0x03] ExtData[1]->WorkLocal[2] = 0*
+
+SUBROUTINE_04D6:
+245: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0555
+246: 0x04DE [0x24] CREATE_DIALOG(message_id=9928*, default_option=0*, option_flags=0*)
+    → "Obtain which item? [Cancel./$0./$1./$2.]"
+247: 0x04E5 [0x25] WAIT_DIALOG_SELECT()
+248: 0x04E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04FB
+249: 0x04EE [0x03] ExtData[1]->WorkLocal[2] = 1*
+250: 0x04F3 [0x03] ExtData[1]->WorkLocal[0] = 0*
+251: 0x04F8 [0x01] GOTO 0x0552
+252: 0x04FB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0518
+253: 0x0503 [0x03] ExtData[1]->WorkLocal[3] = 1*
+254: 0x0508 [0x03] ExtData[1]->WorkLocal[4] = 11313*
+255: 0x050D [0x03] ExtData[1]->WorkLocal[11] = 5*
+256: 0x0512 [0x1A] CALL_SUBROUTINE(address=0x0565)
+257: 0x0515 [0x01] GOTO 0x0552
+258: 0x0518 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0535
+259: 0x0520 [0x03] ExtData[1]->WorkLocal[3] = 2*
+260: 0x0525 [0x03] ExtData[1]->WorkLocal[4] = 11314*
+261: 0x052A [0x03] ExtData[1]->WorkLocal[11] = 5*
+262: 0x052F [0x1A] CALL_SUBROUTINE(address=0x0565)
+263: 0x0532 [0x01] GOTO 0x0552
+264: 0x0535 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0552
+265: 0x053D [0x03] ExtData[1]->WorkLocal[3] = 3*
+266: 0x0542 [0x03] ExtData[1]->WorkLocal[4] = 11315*
+267: 0x0547 [0x03] ExtData[1]->WorkLocal[11] = 5*
+268: 0x054C [0x1A] CALL_SUBROUTINE(address=0x0565)
+269: 0x054F [0x01] GOTO 0x0552
+
+SUBROUTINE_0552:
+270: 0x0552 [0x01] GOTO 0x04D6
+271: 0x0555 [0x03] Work_Zone[2] = 0*
+272: 0x055A [0x03] Work_Zone[3] = 0*
+273: 0x055F [0x03] Work_Zone[4] = 0*
+274: 0x0564 [0x1B] RETURN
+
+SUBROUTINE_0565:
+275: 0x0565 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[4])
+276: 0x0568 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x0578
+277: 0x0570 [0x03] Work_Zone[5] = 0*
+278: 0x0575 [0x01] GOTO 0x0598
+279: 0x0578 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x0588
+280: 0x0580 [0x03] Work_Zone[5] = 1*
+281: 0x0585 [0x01] GOTO 0x0598
+282: 0x0588 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x0598
+283: 0x0590 [0x03] Work_Zone[5] = 2*
+284: 0x0595 [0x01] GOTO 0x0598
+
+SUBROUTINE_0598:
+285: 0x0598 [0x48] [System] [9930*]:
+    → "You may customize this item by selecting two augments from the following list."
+286: 0x059B [0x23] WAIT_FOR_DIALOG_INTERACTION
+287: 0x059C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+288: 0x059F [0x24] CREATE_DIALOG(message_id=9929*, default_option=1*, option_flags=0*)
+    → "Are you certain you want this item? [Yes./No.]"
+289: 0x05A6 [0x25] WAIT_DIALOG_SELECT()
+290: 0x05A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05BC
+291: 0x05AF [0x03] ExtData[1]->WorkLocal[0] = 1*
+292: 0x05B4 [0x03] ExtData[1]->WorkLocal[2] = 1*
+293: 0x05B9 [0x01] GOTO 0x05C7
+294: 0x05BC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05C7
+295: 0x05C4 [0x01] GOTO 0x05C7
+
+SUBROUTINE_05C7:
+296: 0x05C7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+297: 0x05CA [0x1B] RETURN
+
+SUBROUTINE_05CB:
+298: 0x05CB [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[1]
+299: 0x05D0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+300: 0x05D2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+301: 0x05D4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[4]
+302: 0x05D9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[4], buffer1=Work_Zone[2], buffer2=Work_Zone[3], buffer3=Work_Zone[4])
+303: 0x05E3 [0x48] [System] [9931*]:
+    → "Your $3 has been augmented with the attributes of your choice. It pulsates with arcane energy!"
+304: 0x05E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+305: 0x05E7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+306: 0x05EA [0x24] CREATE_DIALOG(message_id=9932*, default_option=1*, option_flags=0*)
+    → "Are these really the augments you want? [Yes./On second thought...]"
+307: 0x05F1 [0x25] WAIT_DIALOG_SELECT()
+308: 0x05F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0602
+309: 0x05FA [0x03] ExtData[1]->WorkLocal[0] = 1*
+310: 0x05FF [0x01] GOTO 0x0612
+311: 0x0602 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0612
+312: 0x060A [0x03] ExtData[1]->WorkLocal[0] = 0*
+313: 0x060F [0x01] GOTO 0x0612
+
+SUBROUTINE_0612:
+314: 0x0612 [0x1B] RETURN
+
+SUBROUTINE_0613:
+315: 0x0613 [0x06] ExtData[1]->WorkLocal[14] = 0
+
+SUBROUTINE_0616:
+316: 0x0616 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x064B
+317: 0x061E [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x062C
+318: 0x0626 [0x1A] CALL_SUBROUTINE(address=0x0651)
+319: 0x0629 [0x01] GOTO 0x0648
+320: 0x062C [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x063A
+321: 0x0634 [0x1A] CALL_SUBROUTINE(address=0x0803)
+322: 0x0637 [0x01] GOTO 0x0648
+323: 0x063A [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x0648
+324: 0x0642 [0x1A] CALL_SUBROUTINE(address=0x09B5)
+325: 0x0645 [0x01] GOTO 0x0648
+
+SUBROUTINE_0648:
+326: 0x0648 [0x01] GOTO 0x0616
+327: 0x064B [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[15]
+328: 0x0650 [0x1B] RETURN
+
+SUBROUTINE_0651:
+329: 0x0651 [0x24] CREATE_DIALOG(message_id=9934*, default_option=0*, option_flags=0*)
+    → "Select your [first/second] augment: [Return./Accuracy+10./Attack+10./Ranged Accuracy+10./Ranged Attack+10./Evasion+10./Magic Accuracy+4./"Magic Atk. Bonus"+4./"Double Attack"+2./Critical hit rate +3./"Store TP"+4 "Subtle Blow"+4./Enmity+5./Enmity-5./Enhances "Fast Cast" effect +5./"Call Beast" ability delay -15./"Snapshot"+5./Enhances "Dual Wield" effect +3./"Blood Pact" ability delay -4./Avatar perpetuation cost -2./"Quick Draw" ability delay -5./Pet: Accuracy+15 Ranged Accuracy+15./Pet: Attack+15 Ranged Attack+15./Pet: Magic Acc.+7 "Magic Atk. Bonus"+7./Pet: "Double Attack"+2 Crit. hit rate +2.]"
+330: 0x0658 [0x25] WAIT_DIALOG_SELECT()
+331: 0x0659 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x066C
+332: 0x0661 [0x03] ExtData[1]->WorkLocal[15] = 0*
+333: 0x0666 [0x05] ExtData[1]->WorkLocal[14] = 1
+334: 0x0669 [0x01] GOTO 0x0674
+335: 0x066C [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[0]
+336: 0x0671 [0x05] ExtData[1]->WorkLocal[14] = 1
+
+SUBROUTINE_0674:
+337: 0x0674 [0x1B] RETURN
+
+SUBROUTINE_0675:
+338: 0x0675 [0x03] ExtData[1]->WorkLocal[13] = 1*
+
+SUBROUTINE_067A:
+339: 0x067A [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x075F
+340: 0x0682 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x06B6
+341: 0x068A [0x06] ExtData[1]->WorkLocal[1] = 0
+342: 0x068D [0x1A] CALL_SUBROUTINE(address=0x0760)
+343: 0x0690 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x06AE
+344: 0x0698 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
+345: 0x069D [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=10*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[3])
+346: 0x06A6 [0x03] ExtData[1]->WorkLocal[13] = 2*
+347: 0x06AB [0x01] GOTO 0x06B3
+348: 0x06AE [0x03] ExtData[1]->WorkLocal[13] = 0*
+
+SUBROUTINE_06B3:
+349: 0x06B3 [0x01] GOTO 0x075C
+350: 0x06B6 [0x02] IF !(ExtData[1]->WorkLocal[13] == 2*) GOTO 0x06E7
+351: 0x06BE [0x03] Work_Zone_1700[0] = 0*
+352: 0x06C3 [0x1A] CALL_SUBROUTINE(address=0x0613)
+353: 0x06C6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x06DF
+354: 0x06CE [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=15*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
+355: 0x06D7 [0x03] ExtData[1]->WorkLocal[13] = 3*
+356: 0x06DC [0x01] GOTO 0x06E4
+357: 0x06DF [0x03] ExtData[1]->WorkLocal[13] = 1*
+
+SUBROUTINE_06E4:
+358: 0x06E4 [0x01] GOTO 0x075C
+359: 0x06E7 [0x02] IF !(ExtData[1]->WorkLocal[13] == 3*) GOTO 0x0730
+360: 0x06EF [0x03] Work_Zone_1700[0] = 1*
+361: 0x06F4 [0x1A] CALL_SUBROUTINE(address=0x0613)
+362: 0x06F7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0728
+363: 0x06FF [0x41] ExtData[1]->WorkLocal[5] = ExtData[1]->WorkLocal[1] (bits 11*-15*)
+364: 0x0708 [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[0]) GOTO 0x0721
+365: 0x0710 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
+366: 0x0719 [0x03] ExtData[1]->WorkLocal[13] = 4*
+367: 0x071E [0x01] GOTO 0x0725
+368: 0x0721 [0x48] [System] [9935*]:
+    → "You cannot select the same augment twice."
+369: 0x0724 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0725:
+370: 0x0725 [0x01] GOTO 0x072D
+371: 0x0728 [0x03] ExtData[1]->WorkLocal[13] = 2*
+
+SUBROUTINE_072D:
+372: 0x072D [0x01] GOTO 0x075C
+373: 0x0730 [0x02] IF !(ExtData[1]->WorkLocal[13] == 4*) GOTO 0x075C
+374: 0x0738 [0x1A] CALL_SUBROUTINE(address=0x05CB)
+375: 0x073B [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0754
+376: 0x0743 [0x03] ExtData[1]->WorkLocal[13] = 0*
+377: 0x0748 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=14*)
+378: 0x0751 [0x01] GOTO 0x0759
+379: 0x0754 [0x03] ExtData[1]->WorkLocal[13] = 2*
+
+SUBROUTINE_0759:
+380: 0x0759 [0x01] GOTO 0x075C
+
+SUBROUTINE_075C:
+381: 0x075C [0x01] GOTO 0x067A
+382: 0x075F [0x1B] RETURN
+
+SUBROUTINE_0760:
+383: 0x0760 [0x03] Work_Zone[2] = 11487*
+384: 0x0765 [0x03] Work_Zone[3] = 11488*
+385: 0x076A [0x03] Work_Zone[4] = 11489*
+386: 0x076F [0x03] ExtData[1]->WorkLocal[2] = 0*
+
+SUBROUTINE_0774:
+387: 0x0774 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x07F3
+388: 0x077C [0x24] CREATE_DIALOG(message_id=9928*, default_option=0*, option_flags=0*)
+    → "Obtain which item? [Cancel./$0./$1./$2.]"
+389: 0x0783 [0x25] WAIT_DIALOG_SELECT()
+390: 0x0784 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0799
+391: 0x078C [0x03] ExtData[1]->WorkLocal[2] = 1*
+392: 0x0791 [0x03] ExtData[1]->WorkLocal[0] = 0*
+393: 0x0796 [0x01] GOTO 0x07F0
+394: 0x0799 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x07B6
+395: 0x07A1 [0x03] ExtData[1]->WorkLocal[3] = 4*
+396: 0x07A6 [0x03] ExtData[1]->WorkLocal[4] = 11487*
+397: 0x07AB [0x03] ExtData[1]->WorkLocal[11] = 6*
+398: 0x07B0 [0x1A] CALL_SUBROUTINE(address=0x0565)
+399: 0x07B3 [0x01] GOTO 0x07F0
+400: 0x07B6 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x07D3
+401: 0x07BE [0x03] ExtData[1]->WorkLocal[3] = 5*
+402: 0x07C3 [0x03] ExtData[1]->WorkLocal[4] = 11488*
+403: 0x07C8 [0x03] ExtData[1]->WorkLocal[11] = 6*
+404: 0x07CD [0x1A] CALL_SUBROUTINE(address=0x0565)
+405: 0x07D0 [0x01] GOTO 0x07F0
+406: 0x07D3 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x07F0
+407: 0x07DB [0x03] ExtData[1]->WorkLocal[3] = 6*
+408: 0x07E0 [0x03] ExtData[1]->WorkLocal[4] = 11489*
+409: 0x07E5 [0x03] ExtData[1]->WorkLocal[11] = 6*
+410: 0x07EA [0x1A] CALL_SUBROUTINE(address=0x0565)
+411: 0x07ED [0x01] GOTO 0x07F0
+
+SUBROUTINE_07F0:
+412: 0x07F0 [0x01] GOTO 0x0774
+413: 0x07F3 [0x03] Work_Zone[2] = 0*
+414: 0x07F8 [0x03] Work_Zone[3] = 0*
+415: 0x07FD [0x03] Work_Zone[4] = 0*
+416: 0x0802 [0x1B] RETURN
+
+SUBROUTINE_0803:
+417: 0x0803 [0x24] CREATE_DIALOG(message_id=9936*, default_option=0*, option_flags=0*)
+    → "[Return./Haste+3 "Snapshot"+3./STR+4 Weapon Skill Accuracy+15./DEX+4 Critical hit damage +2%./VIT+4 Shield Skill +5./AGI+4 Weapon skill damage +2%./INT+4 Magic Accuracy+2./MND+4 "Cure" potency +3%./CHR+4 "Waltz" ability delay -2%./Accuracy+10 Attack+5./Ranged Accuracy+10 Ranged Attack+5./Evasion+10 Store TP +4./Mag. Accuracy+3 Healing MP recovery+3./Mag.Atk.Bonus+2 Healing HP recovery+3./Magic damage taken -2% Enmity+4./Magic critical hit rate +10 Enmity-4./Fast Cast+3 Blood Pact abi. delay-3./STR+2 Haste+2./DEX+2 Haste+2./VIT+2 Haste+2./AGI+2 Haste+2./INT+2 "Fast Cast"+2./MND+2 "Fast Cast"+2./CHR+2 "Fast Cast"+2./Accuracy+3 Pet: Haste+5./Accuracy+3 Pet: Critical hit rate +3./Attack+3 Pet: Adds "Regen" effect./Attack+3 Pet: Damage taken -10%.]"
+418: 0x080A [0x25] WAIT_DIALOG_SELECT()
+419: 0x080B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x081E
+420: 0x0813 [0x03] ExtData[1]->WorkLocal[15] = 0*
+421: 0x0818 [0x05] ExtData[1]->WorkLocal[14] = 1
+422: 0x081B [0x01] GOTO 0x0826
+423: 0x081E [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[0]
+424: 0x0823 [0x05] ExtData[1]->WorkLocal[14] = 1
+
+SUBROUTINE_0826:
+425: 0x0826 [0x1B] RETURN
+
+SUBROUTINE_0827:
+426: 0x0827 [0x03] ExtData[1]->WorkLocal[13] = 1*
+
+SUBROUTINE_082C:
+427: 0x082C [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0911
+428: 0x0834 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0868
+429: 0x083C [0x06] ExtData[1]->WorkLocal[1] = 0
+430: 0x083F [0x1A] CALL_SUBROUTINE(address=0x0912)
+431: 0x0842 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0860
+432: 0x084A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
+433: 0x084F [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=10*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[3])
+434: 0x0858 [0x03] ExtData[1]->WorkLocal[13] = 2*
+435: 0x085D [0x01] GOTO 0x0865
+436: 0x0860 [0x03] ExtData[1]->WorkLocal[13] = 0*
+
+SUBROUTINE_0865:
+437: 0x0865 [0x01] GOTO 0x090E
+438: 0x0868 [0x02] IF !(ExtData[1]->WorkLocal[13] == 2*) GOTO 0x0899
+439: 0x0870 [0x03] Work_Zone_1700[0] = 0*
+440: 0x0875 [0x1A] CALL_SUBROUTINE(address=0x0613)
+441: 0x0878 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0891
+442: 0x0880 [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=15*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
+443: 0x0889 [0x03] ExtData[1]->WorkLocal[13] = 3*
+444: 0x088E [0x01] GOTO 0x0896
+445: 0x0891 [0x03] ExtData[1]->WorkLocal[13] = 1*
+
+SUBROUTINE_0896:
+446: 0x0896 [0x01] GOTO 0x090E
+447: 0x0899 [0x02] IF !(ExtData[1]->WorkLocal[13] == 3*) GOTO 0x08E2
+448: 0x08A1 [0x03] Work_Zone_1700[0] = 1*
+449: 0x08A6 [0x1A] CALL_SUBROUTINE(address=0x0613)
+450: 0x08A9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x08DA
+451: 0x08B1 [0x41] ExtData[1]->WorkLocal[5] = ExtData[1]->WorkLocal[1] (bits 11*-15*)
+452: 0x08BA [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[0]) GOTO 0x08D3
+453: 0x08C2 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=ExtData[1]->WorkLocal[1], source=ExtData[1]->WorkLocal[0])
+454: 0x08CB [0x03] ExtData[1]->WorkLocal[13] = 4*
+455: 0x08D0 [0x01] GOTO 0x08D7
+456: 0x08D3 [0x48] [System] [9935*]:
+    → "You cannot select the same augment twice."
+457: 0x08D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_08D7:
+458: 0x08D7 [0x01] GOTO 0x08DF
+459: 0x08DA [0x03] ExtData[1]->WorkLocal[13] = 2*
+
+SUBROUTINE_08DF:
+460: 0x08DF [0x01] GOTO 0x090E
+461: 0x08E2 [0x02] IF !(ExtData[1]->WorkLocal[13] == 4*) GOTO 0x090E
+462: 0x08EA [0x1A] CALL_SUBROUTINE(address=0x05CB)
+463: 0x08ED [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0906
+464: 0x08F5 [0x03] ExtData[1]->WorkLocal[13] = 0*
+465: 0x08FA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[1], source=21*)
+466: 0x0903 [0x01] GOTO 0x090B
+467: 0x0906 [0x03] ExtData[1]->WorkLocal[13] = 2*
+
+SUBROUTINE_090B:
+468: 0x090B [0x01] GOTO 0x090E
+
+SUBROUTINE_090E:
+469: 0x090E [0x01] GOTO 0x082C
+470: 0x0911 [0x1B] RETURN
+
+SUBROUTINE_0912:
+471: 0x0912 [0x03] Work_Zone[2] = 16369*
+472: 0x0917 [0x03] Work_Zone[3] = 16370*
+473: 0x091C [0x03] Work_Zone[4] = 16371*
+474: 0x0921 [0x03] ExtData[1]->WorkLocal[2] = 0*
+
+SUBROUTINE_0926:
+475: 0x0926 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x09A5
+476: 0x092E [0x24] CREATE_DIALOG(message_id=9928*, default_option=0*, option_flags=0*)
+    → "Obtain which item? [Cancel./$0./$1./$2.]"
+477: 0x0935 [0x25] WAIT_DIALOG_SELECT()
+478: 0x0936 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x094B
+479: 0x093E [0x03] ExtData[1]->WorkLocal[2] = 1*
+480: 0x0943 [0x03] ExtData[1]->WorkLocal[0] = 0*
+481: 0x0948 [0x01] GOTO 0x09A2
+482: 0x094B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0968
+483: 0x0953 [0x03] ExtData[1]->WorkLocal[3] = 7*
+484: 0x0958 [0x03] ExtData[1]->WorkLocal[4] = 16369*
+485: 0x095D [0x03] ExtData[1]->WorkLocal[11] = 7*
+486: 0x0962 [0x1A] CALL_SUBROUTINE(address=0x0565)
+487: 0x0965 [0x01] GOTO 0x09A2
+488: 0x0968 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0985
+489: 0x0970 [0x03] ExtData[1]->WorkLocal[3] = 8*
+490: 0x0975 [0x03] ExtData[1]->WorkLocal[4] = 16370*
+491: 0x097A [0x03] ExtData[1]->WorkLocal[11] = 7*
+492: 0x097F [0x1A] CALL_SUBROUTINE(address=0x0565)
+493: 0x0982 [0x01] GOTO 0x09A2
+494: 0x0985 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x09A2
+495: 0x098D [0x03] ExtData[1]->WorkLocal[3] = 9*
+496: 0x0992 [0x03] ExtData[1]->WorkLocal[4] = 16371*
+497: 0x0997 [0x03] ExtData[1]->WorkLocal[11] = 7*
+498: 0x099C [0x1A] CALL_SUBROUTINE(address=0x0565)
+499: 0x099F [0x01] GOTO 0x09A2
+
+SUBROUTINE_09A2:
+500: 0x09A2 [0x01] GOTO 0x0926
+501: 0x09A5 [0x03] Work_Zone[2] = 0*
+502: 0x09AA [0x03] Work_Zone[3] = 0*
+503: 0x09AF [0x03] Work_Zone[4] = 0*
+504: 0x09B4 [0x1B] RETURN
+
+SUBROUTINE_09B5:
+505: 0x09B5 [0x24] CREATE_DIALOG(message_id=9937*, default_option=0*, option_flags=0*)
+    → "Select [first/second] augment: [Return./HP+25 Enmity+4./MP+25 Enmity-4./Accuracy+7./Attack+7./Ranged Accuracy+7./Ranged Attack+7./Evasion+7./Magic Accuracy+4./"Magic Atk. Bonus"+4./Haste+3./"Double Attack"+2./Critical hit damage +3%./Skillchain damage +5%./"Conserve TP"+5./Physical damage taken -4%./Magic critical hit damage +10%./Magic burst damage +10%./"Kick Attacks"+5./"Cure" potency +5%./"Sic" and "Ready" ability delay -5./Song recast delay -3./"Barrage"+1./"Elemental Siphon"+20./"Phantom Roll" ability delay -5./"Repair" potency +10%./"Waltz" TP cost -50./Pet: Accuracy+7 Ranged Accuracy+7./Pet: Attack+7 Ranged Attack+7./Pet: "Store TP"+8 "Subtle Blow"+8./Pet: Magic Accuracy+7./Movement speed +8%.]"
+506: 0x09BC [0x25] WAIT_DIALOG_SELECT()
+507: 0x09BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09D0
+508: 0x09C5 [0x03] ExtData[1]->WorkLocal[15] = 0*
+509: 0x09CA [0x05] ExtData[1]->WorkLocal[14] = 1
+510: 0x09CD [0x01] GOTO 0x09D8
+511: 0x09D0 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[0]
+512: 0x09D5 [0x05] ExtData[1]->WorkLocal[14] = 1
+
+SUBROUTINE_09D8:
+513: 0x09D8 [0x1B] RETURN
+```
+
+### Event 10125
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x09D9  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+09D0:                             00                             .      
+```
+
+#### Opcodes
+
+```
+  0: 0x09D9 [0x00] END_REQSTACK()
+```

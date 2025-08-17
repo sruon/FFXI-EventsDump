@@ -1,0 +1,117 @@
+# 16859496 - Memory Flux
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Promyvion - Mea (ID: 20) |
+| Block Size       | 236 bytes                |
+| Total Events     | 2                        |
+| References Count | 6                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [12](#event-12)       | 0x0001       |    184 |             28 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00C8      |         200 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x003C      |          60 |
+|       3 | 0x00B4      |         180 |
+|       4 | 0x012C      |         300 |
+|       5 | 0x1C43      |        7235 |
+
+## String References
+
+- **7235**: DEBUG:$3{$3^$3$2p$317F$P10i]\\7B
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 12
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 184 bytes |
+| Instructions | 28        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 46 01 42 45 00  80 F0 FF FF 7F F0 FF FF    .F.BE.........
+0010: 7F 66 64 6F 31 01 80 1C  02 80 45 00 80 F0 FF FF  .fdo1.....E.....
+0020: 7F F0 FF FF 7F 66 64 69  31 01 80 1C 02 80 2D F8  .....fdi1.....-.
+0030: FF FF 7F F8 FF FF 7F 73  31 34 31 2D F8 FF FF 7F  .......s141-....
+0040: F8 FF FF 7F 73 74 63 31  1C 03 80 2D F8 FF FF 7F  ....stc1...-....
+0050: F8 FF FF 7F 73 74 63 32  1C 04 80 2D F8 FF FF 7F  ....stc2...-....
+0060: F8 FF FF 7F 73 74 63 33  54 F8 FF FF 7F F8 FF FF  ....stc3T.......
+0070: 7F 73 74 63 33 4C 1D 05  80 23 45 00 80 F0 FF FF  .stc3L...#E.....
+0080: 7F F0 FF FF 7F 66 64 6F  31 01 80 1C 03 80 4D 2D  .....fdo1.....M-
+0090: F8 FF FF 7F F8 FF FF 7F  73 74 63 34 1C 02 80 45  ........stc4...E
+00A0: 00 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 31 01 80  ..........fdi1..
+00B0: 1C 02 80 46 00 20 00 21  00                       ...F. .!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x0005 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  3: 0x0006 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  4: 0x0017 [0x1C] WAIT(60* ticks)
+  5: 0x001A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  6: 0x002B [0x1C] WAIT(60* ticks)
+  7: 0x002E [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "s141" with entities [EventEntity, EventEntity]
+  8: 0x003B [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "stc1" with entities [EventEntity, EventEntity]
+  9: 0x0048 [0x1C] WAIT(180* ticks)
+ 10: 0x004B [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "stc2" with entities [EventEntity, EventEntity]
+ 11: 0x0058 [0x1C] WAIT(300* ticks)
+ 12: 0x005B [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "stc3" with entities [EventEntity, EventEntity]
+ 13: 0x0068 [0x54] WAIT_MAP_SCHEDULER: Wait for scheduler "stc3" with entities [EventEntity, EventEntity]
+ 14: 0x0075 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 15: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7235*)
+    → "DEBUG:$3{$3^$3$2p$317F$P10i]\7B"
+ 16: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 17: 0x007A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 18: 0x008B [0x1C] WAIT(180* ticks)
+ 19: 0x008E [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 20: 0x008F [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "stc4" with entities [EventEntity, EventEntity]
+ 21: 0x009C [0x1C] WAIT(60* ticks)
+ 22: 0x009F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 23: 0x00B0 [0x1C] WAIT(60* ticks)
+ 24: 0x00B3 [0x46] CAMERA_CONTROL: Restore default settings
+ 25: 0x00B5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 26: 0x00B7 [0x21] END_EVENT
+ 27: 0x00B8 [0x00] END_REQSTACK()
+```

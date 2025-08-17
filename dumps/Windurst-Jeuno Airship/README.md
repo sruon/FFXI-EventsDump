@@ -18,15 +18,15 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                       |   Events |
-|------------------|------------------|--------------------------------------------|----------|
-| 0x010E1004       |         17698820 | [Passenger](./17698820%20-%20Passenger/)   |        3 |
-| 0x010E1005       |         17698821 | [Passenger](./17698821%20-%20Passenger/)   |        3 |
-| 0x010E1006       |         17698822 | [Passenger](./17698822%20-%20Passenger/)   |        3 |
-| 0x010E1007       |         17698823 | [Passenger](./17698823%20-%20Passenger/)   |        3 |
-| 0x010E1008       |         17698824 | [Passenger](./17698824%20-%20Passenger/)   |        3 |
-| 0x010E1009       |         17698825 | [Passenger](./17698825%20-%20Passenger/)   |        3 |
-| 0x010E100A       |         17698826 | [Passenger](./17698826%20-%20Passenger/)   |        3 |
-| 0x010E100B       |         17698827 | [Passenger](./17698827%20-%20Passenger/)   |        3 |
-| 0x010E1015       |         17698837 | [Dilauriome](./17698837%20-%20Dilauriome/) |        3 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/)            |        3 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                     |   Events |
+|------------------|------------------|------------------------------------------|----------|
+| 0x010E1004       |         17698820 | [Passenger](./17698820 - Passenger.md)   |        3 |
+| 0x010E1005       |         17698821 | [Passenger](./17698821 - Passenger.md)   |        3 |
+| 0x010E1006       |         17698822 | [Passenger](./17698822 - Passenger.md)   |        3 |
+| 0x010E1007       |         17698823 | [Passenger](./17698823 - Passenger.md)   |        3 |
+| 0x010E1008       |         17698824 | [Passenger](./17698824 - Passenger.md)   |        3 |
+| 0x010E1009       |         17698825 | [Passenger](./17698825 - Passenger.md)   |        3 |
+| 0x010E100A       |         17698826 | [Passenger](./17698826 - Passenger.md)   |        3 |
+| 0x010E100B       |         17698827 | [Passenger](./17698827 - Passenger.md)   |        3 |
+| 0x010E1015       |         17698837 | [Dilauriome](./17698837 - Dilauriome.md) |        3 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)          |        3 |

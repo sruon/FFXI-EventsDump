@@ -1,0 +1,137 @@
+# 17539322 - Somnial Threshold
+
+## Common Data
+
+| Field            | Value                      |
+|------------------|----------------------------|
+| Zone             | Dynamis - Bastok (ID: 186) |
+| Block Size       | 204 bytes                  |
+| Total Events     | 2                          |
+| References Count | 8                          |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [101](#event-101)     | 0x0001       |    144 |             36 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0xFFFFFFFF  |  4294967295 |
+|       1 | 0x1CAB      |        7339 |
+|       2 | 0x1CAC      |        7340 |
+|       3 | 0x0002      |           2 |
+|       4 | 0x0000      |           0 |
+|       5 | 0x1CAD      |        7341 |
+|       6 | 0x0001      |           1 |
+|       7 | 0x1CAE      |        7342 |
+
+## String References
+
+- **7339**: You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
+- **7340**: What will you do? [Leave Dynamis./Unlock support jobs./Nothing.]
+- **7341**: Proceed out of Dynamis? [Yes, leave./No, remain.]
+- **7342**: Proceed in unlocking support jobs? [Yes, unlock./No, retain.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 101
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 144 bytes |
+| Instructions | 36        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 01 00 04 10 03 02  00 00 80 0F 02 00 01 00   ...............
+0010: 48 01 80 23 24 02 80 03  80 02 00 25 02 00 10 04  H..#$......%....
+0020: 80 00 4F 00 24 05 80 06  80 04 80 25 02 00 10 04  ..O.$......%....
+0030: 80 00 41 00 43 00 43 01  42 03 01 10 06 80 01 4C  ..A.C.C.B......L
+0040: 00 02 00 10 06 80 00 4C  00 01 4C 00 01 8D 00 02  .......L..L.....
+0050: 00 10 06 80 00 82 00 24  07 80 06 80 04 80 25 02  .......$......%.
+0060: 00 10 04 80 00 74 00 43  00 43 01 42 03 01 10 03  .....t.C.C.B....
+0070: 80 01 7F 00 02 00 10 06  80 00 7F 00 01 7F 00 01  ................
+0080: 8D 00 02 00 10 03 80 00  8D 00 01 8D 00 20 00 21  ............. .!
+0090: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[4]
+  1: 0x0006 [0x03] ExtData[1]->WorkLocal[2] = 4294967295*
+  2: 0x000B [0x0F] ExtData[1]->WorkLocal[2] ^= ExtData[1]->WorkLocal[1]
+  3: 0x0010 [0x48] [System] [7339*]:
+    → "You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]"
+  4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0014 [0x24] CREATE_DIALOG(message_id=7340*, default_option=2*, option_flags=ExtData[1]->WorkLocal[2])
+    → "What will you do? [Leave Dynamis./Unlock support jobs./Nothing.]"
+  6: 0x001B [0x25] WAIT_DIALOG_SELECT()
+  7: 0x001C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004F
+  8: 0x0024 [0x24] CREATE_DIALOG(message_id=7341*, default_option=1*, option_flags=0*)
+    → "Proceed out of Dynamis? [Yes, leave./No, remain.]"
+  9: 0x002B [0x25] WAIT_DIALOG_SELECT()
+ 10: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0041
+ 11: 0x0034 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 12: 0x0036 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 13: 0x0038 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 14: 0x0039 [0x03] Work_Zone[1] = 1*
+ 15: 0x003E [0x01] GOTO 0x004C
+ 16: 0x0041 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x004C
+ 17: 0x0049 [0x01] GOTO 0x004C
+
+SUBROUTINE_004C:
+ 18: 0x004C [0x01] GOTO 0x008D
+ 19: 0x004F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0082
+ 20: 0x0057 [0x24] CREATE_DIALOG(message_id=7342*, default_option=1*, option_flags=0*)
+    → "Proceed in unlocking support jobs? [Yes, unlock./No, retain.]"
+ 21: 0x005E [0x25] WAIT_DIALOG_SELECT()
+ 22: 0x005F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0074
+ 23: 0x0067 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 24: 0x0069 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 25: 0x006B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 26: 0x006C [0x03] Work_Zone[1] = 2*
+ 27: 0x0071 [0x01] GOTO 0x007F
+ 28: 0x0074 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007F
+ 29: 0x007C [0x01] GOTO 0x007F
+
+SUBROUTINE_007F:
+ 30: 0x007F [0x01] GOTO 0x008D
+ 31: 0x0082 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x008D
+ 32: 0x008A [0x01] GOTO 0x008D
+
+SUBROUTINE_008D:
+ 33: 0x008D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 34: 0x008F [0x21] END_EVENT
+ 35: 0x0090 [0x00] END_REQSTACK()
+```

@@ -1,0 +1,372 @@
+# 17818275 - Event Master
+
+## Common Data
+
+| Field            | Value                        |
+|------------------|------------------------------|
+| Zone             | Abyssea - Grauberg (ID: 254) |
+| Block Size       | 1176 bytes                   |
+| Total Events     | 2                            |
+| References Count | 19                           |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [283](#event-283)     | 0x0001       |   1072 |            182 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x28FD      |       10493 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0032      |          50 |
+|       4 | 0x0017      |          23 |
+|       5 | 0x0018      |          24 |
+|       6 | 0x001F      |          31 |
+|       7 | 0x0012      |          18 |
+|       8 | 0x0002      |           2 |
+|       9 | 0x28FE      |       10494 |
+|      10 | 0x0003      |           3 |
+|      11 | 0x0004      |           4 |
+|      12 | 0x0005      |           5 |
+|      13 | 0x0006      |           6 |
+|      14 | 0x0007      |           7 |
+|      15 | 0x0008      |           8 |
+|      16 | 0x0009      |           9 |
+|      17 | 0x000A      |          10 |
+|      18 | 0x000B      |          11 |
+
+## String References
+
+- **10493**: Choose wisely! [Set fame./Quest 1./Quest 2./Quest 3./Quest 4./Quest 5./Quest 6./Quest 7./Quest 8./Quest 9./Quest 10./Cancel.]
+- **10494**: Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 283
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1072 bytes |
+| Instructions | 20         |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    24 00 80 01 80 01 80  25 02 00 10 01 80 00 51   $......%......Q
+0010: 00 71 10 02 80 71 11 02  10 02 02 10 01 80 03 29  .q...q.........)
+0020: 00 03 02 10 01 80 01 36  00 02 02 10 03 80 02 36  .......6.......6
+0030: 00 03 02 10 03 80 40 01  80 04 80 01 10 02 10 40  ......@........@
+0040: 05 80 06 80 01 10 02 80  43 00 43 01 21 00 01 61  ........C.C.!..a
+0050: 00 02 00 10 07 80 00 61  00 06 01 10 21 00 01 61  .......a....!..a
+0060: 00 03 02 10 00 10 9D 07  6E 00 02 10 21 00 8E 00  ........n...!...
+0070: 8F 00 EC 00 49 01 A6 01  03 02 60 02 BD 02 1A 03  ....I.....`.....
+0080: 77 03 D4 03 8E 00 8E 00  8E 00 8E 00 8E 00 1B 06  w...............
+0090: 01 10 40 05 80 06 80 01  10 08 80 43 00 43 01 02  ..@........C.C..
+00A0: 02 80 02 80 00 EB 00 06  01 10 40 05 80 06 80 01  ..........@.....
+00B0: 10 08 80 24 09 80 01 80  01 80 25 02 00 10 01 80  ...$......%.....
+00C0: 00 CF 00 40 01 80 04 80  01 10 02 80 01 E4 00 02  ...@............
+00D0: 00 10 02 80 00 E3 00 40  01 80 04 80 01 10 08 80  .......@........
+00E0: 01 E4 00 1B 43 00 43 01  01 9F 00 1B 06 01 10 40  ....C.C........@
+00F0: 05 80 06 80 01 10 0A 80  43 00 43 01 02 02 80 02  ........C.C.....
+0100: 80 00 48 01 06 01 10 40  05 80 06 80 01 10 0A 80  ..H....@........
+0110: 24 09 80 01 80 01 80 25  02 00 10 01 80 00 2C 01  $......%......,.
+0120: 40 01 80 04 80 01 10 02  80 01 41 01 02 00 10 02  @.........A.....
+0130: 80 00 40 01 40 01 80 04  80 01 10 08 80 01 41 01  ..@.@.........A.
+0140: 1B 43 00 43 01 01 FC 00  1B 06 01 10 40 05 80 06  .C.C........@...
+0150: 80 01 10 0B 80 43 00 43  01 02 02 80 02 80 00 A5  .....C.C........
+0160: 01 06 01 10 40 05 80 06  80 01 10 0B 80 24 09 80  ....@........$..
+0170: 01 80 01 80 25 02 00 10  01 80 00 89 01 40 01 80  ....%........@..
+0180: 04 80 01 10 02 80 01 9E  01 02 00 10 02 80 00 9D  ................
+0190: 01 40 01 80 04 80 01 10  08 80 01 9E 01 1B 43 00  .@............C.
+01A0: 43 01 01 59 01 1B 06 01  10 40 05 80 06 80 01 10  C..Y.....@......
+01B0: 0C 80 43 00 43 01 02 02  80 02 80 00 02 02 06 01  ..C.C...........
+01C0: 10 40 05 80 06 80 01 10  0C 80 24 09 80 01 80 01  .@........$.....
+01D0: 80 25 02 00 10 01 80 00  E6 01 40 01 80 04 80 01  .%........@.....
+01E0: 10 02 80 01 FB 01 02 00  10 02 80 00 FA 01 40 01  ..............@.
+01F0: 80 04 80 01 10 08 80 01  FB 01 1B 43 00 43 01 01  ...........C.C..
+0200: B6 01 1B 06 01 10 40 05  80 06 80 01 10 0D 80 43  ......@........C
+0210: 00 43 01 02 02 80 02 80  00 5F 02 06 01 10 40 05  .C......._....@.
+0220: 80 06 80 01 10 0D 80 24  09 80 01 80 01 80 25 02  .......$......%.
+0230: 00 10 01 80 00 43 02 40  01 80 04 80 01 10 02 80  .....C.@........
+0240: 01 58 02 02 00 10 02 80  00 57 02 40 01 80 04 80  .X.......W.@....
+0250: 01 10 08 80 01 58 02 1B  43 00 43 01 01 13 02 1B  .....X..C.C.....
+0260: 06 01 10 40 05 80 06 80  01 10 0E 80 43 00 43 01  ...@........C.C.
+0270: 02 02 80 02 80 00 BC 02  06 01 10 40 05 80 06 80  ...........@....
+0280: 01 10 0E 80 24 09 80 01  80 01 80 25 02 00 10 01  ....$......%....
+0290: 80 00 A0 02 40 01 80 04  80 01 10 02 80 01 B5 02  ....@...........
+02A0: 02 00 10 02 80 00 B4 02  40 01 80 04 80 01 10 08  ........@.......
+02B0: 80 01 B5 02 1B 43 00 43  01 01 70 02 1B 06 01 10  .....C.C..p.....
+02C0: 40 05 80 06 80 01 10 0F  80 43 00 43 01 02 02 80  @........C.C....
+02D0: 02 80 00 19 03 06 01 10  40 05 80 06 80 01 10 0F  ........@.......
+02E0: 80 24 09 80 01 80 01 80  25 02 00 10 01 80 00 FD  .$......%.......
+02F0: 02 40 01 80 04 80 01 10  02 80 01 12 03 02 00 10  .@..............
+0300: 02 80 00 11 03 40 01 80  04 80 01 10 08 80 01 12  .....@..........
+0310: 03 1B 43 00 43 01 01 CD  02 1B 06 01 10 40 05 80  ..C.C........@..
+0320: 06 80 01 10 10 80 43 00  43 01 02 02 80 02 80 00  ......C.C.......
+0330: 76 03 06 01 10 40 05 80  06 80 01 10 10 80 24 09  v....@........$.
+0340: 80 01 80 01 80 25 02 00  10 01 80 00 5A 03 40 01  .....%......Z.@.
+0350: 80 04 80 01 10 02 80 01  6F 03 02 00 10 02 80 00  ........o.......
+0360: 6E 03 40 01 80 04 80 01  10 08 80 01 6F 03 1B 43  n.@.........o..C
+0370: 00 43 01 01 2A 03 1B 06  01 10 40 05 80 06 80 01  .C..*.....@.....
+0380: 10 11 80 43 00 43 01 02  02 80 02 80 00 D3 03 06  ...C.C..........
+0390: 01 10 40 05 80 06 80 01  10 11 80 24 09 80 01 80  ..@........$....
+03A0: 01 80 25 02 00 10 01 80  00 B7 03 40 01 80 04 80  ..%........@....
+03B0: 01 10 02 80 01 CC 03 02  00 10 02 80 00 CB 03 40  ...............@
+03C0: 01 80 04 80 01 10 08 80  01 CC 03 1B 43 00 43 01  ............C.C.
+03D0: 01 87 03 1B 06 01 10 40  05 80 06 80 01 10 12 80  .......@........
+03E0: 43 00 43 01 02 02 80 02  80 00 30 04 06 01 10 40  C.C.......0....@
+03F0: 05 80 06 80 01 10 12 80  24 09 80 01 80 01 80 25  ........$......%
+0400: 02 00 10 01 80 00 14 04  40 01 80 04 80 01 10 02  ........@.......
+0410: 80 01 29 04 02 00 10 02  80 00 28 04 40 01 80 04  ..).......(.@...
+0420: 80 01 10 08 80 01 29 04  1B 43 00 43 01 01 E4 03  ......)..C.C....
+0430: 1B                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=10493*, default_option=0*, option_flags=0*)
+    → "Choose wisely! [Set fame./Quest 1./Quest 2./Quest 3./Quest 4./Quest 5./Quest 6./Quest 7./Quest 8./Quest 9./Quest 10./Cancel.]"
+  1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
+  2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0051
+  3: 0x0011 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+  4: 0x0015 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
+  5: 0x0019 [0x02] IF !(Work_Zone[2] >= 0*) GOTO 0x0029
+  6: 0x0021 [0x03] Work_Zone[2] = 0*
+  7: 0x0026 [0x01] GOTO 0x0036
+  8: 0x0029 [0x02] IF !(Work_Zone[2] <= 50*) GOTO 0x0036
+  9: 0x0031 [0x03] Work_Zone[2] = 50*
+
+SUBROUTINE_0036:
+ 10: 0x0036 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=Work_Zone[2])
+ 11: 0x003F [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=1*)
+ 12: 0x0048 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 13: 0x004A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 14: 0x004C [0x21] END_EVENT
+ 15: 0x004D [0x00] END_REQSTACK()
+
+SUBROUTINE_0061:
+ 16: 0x0061 [0x03] Work_Zone[2] = Work_Zone[0]
+ 17: 0x0066 [0x9D] CALL 0x006E[Work_Zone[2]] // Jump table
+ 18: 0x006C [0x21] END_EVENT
+ 19: 0x006D [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Data Section: 0x006E (258 bytes)
+     0x006E: 8E 00 8F 00 EC 00 49 01 A6 01 03 02 60 02 BD 02
+     0x007E: 1A 03 77 03 D4 03 8E 00 8E 00 8E 00 8E 00 8E 00
+     0x008E: 1B 06 01 10 40 05 80 06 80 01 10 08 80 43 00 43
+     0x009E: 01 02 02 80 02 80 00 EB 00 06 01 10 40 05 80 06
+     0x00AE: 80 01 10 08 80 24 09 80 01 80 01 80 25 02 00 10
+     0x00BE: 01 80 00 CF 00 40 01 80 04 80 01 10 02 80 01 E4
+     0x00CE: 00 02 00 10 02 80 00 E3 00 40 01 80 04 80 01 10
+     0x00DE: 08 80 01 E4 00 1B 43 00 43 01 01 9F 00 1B 06 01
+     0x00EE: 10 40 05 80 06 80 01 10 0A 80 43 00 43 01 02 02
+     0x00FE: 80 02 80 00 48 01 06 01 10 40 05 80 06 80 01 10
+     0x010E: 0A 80 24 09 80 01 80 01 80 25 02 00 10 01 80 00
+     0x011E: 2C 01 40 01 80 04 80 01 10 02 80 01 41 01 02 00
+     0x012E: 10 02 80 00 40 01 40 01 80 04 80 01 10 08 80 01
+     0x013E: 41 01 1B 43 00 43 01 01 FC 00 1B 06 01 10 40 05
+     0x014E: 80 06 80 01 10 0B 80 43 00 43 01 02 02 80 02 80
+     0x015E: 00 A5 01 06 01 10 40 05 80 06 80 01 10 0B 80 24
+     0x016E: 09 80
+# Dead code (unreachable instructions):
+     0x004E [0x01] GOTO 0x0061
+     0x005E [0x01] GOTO 0x0061
+# Dead code (unreachable instructions):
+     0x0170 [0x01] GOTO 0x0180
+     0x0173 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 268436005/0x10000225))
+     0x0178 [0x01] GOTO 0x0080
+     0x017B [0x89] OPEN_MAP(map_id=0x00004001)
+     0x017E [0x01] GOTO 0x0480
+     0x0181 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147618817/0x80021001))
+     0x0186 [0x01] GOTO 0x019E
+     0x0189 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x019D
+     0x0191 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x019A [0x01] GOTO 0x019E
+     0x019D [0x1B] RETURN
+     0x019E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x01A0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x01A2 [0x01] GOTO 0x0159
+     0x01A5 [0x1B] RETURN
+     0x01A6 [0x06] Work_Zone[1] = 0
+     0x01A9 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=5*)
+     0x01B2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x01B4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x01B6 [0x02] IF !(1* == 1*) GOTO 0x0202
+     0x01BE [0x06] Work_Zone[1] = 0
+     0x01C1 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=5*)
+     0x01CA [0x24] CREATE_DIALOG(message_id=10494*, default_option=0*, option_flags=0*)
+    → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
+     0x01D1 [0x25] WAIT_DIALOG_SELECT()
+     0x01D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E6
+     0x01DA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=1*)
+     0x01E3 [0x01] GOTO 0x01FB
+     0x01E6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01FA
+     0x01EE [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x01F7 [0x01] GOTO 0x01FB
+     0x01FA [0x1B] RETURN
+     0x01FB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x01FD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x01FF [0x01] GOTO 0x01B6
+     0x0202 [0x1B] RETURN
+     0x0203 [0x06] Work_Zone[1] = 0
+     0x0206 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=6*)
+     0x020F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0211 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0213 [0x02] IF !(1* == 1*) GOTO 0x025F
+     0x021B [0x06] Work_Zone[1] = 0
+     0x021E [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=6*)
+     0x0227 [0x24] CREATE_DIALOG(message_id=10494*, default_option=0*, option_flags=0*)
+    → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
+     0x022E [0x25] WAIT_DIALOG_SELECT()
+     0x022F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0243
+     0x0237 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=1*)
+     0x0240 [0x01] GOTO 0x0258
+     0x0243 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0257
+     0x024B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x0254 [0x01] GOTO 0x0258
+     0x0257 [0x1B] RETURN
+     0x0258 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x025A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x025C [0x01] GOTO 0x0213
+     0x025F [0x1B] RETURN
+     0x0260 [0x06] Work_Zone[1] = 0
+     0x0263 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=7*)
+     0x026C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x026E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0270 [0x02] IF !(1* == 1*) GOTO 0x02BC
+     0x0278 [0x06] Work_Zone[1] = 0
+     0x027B [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=7*)
+     0x0284 [0x24] CREATE_DIALOG(message_id=10494*, default_option=0*, option_flags=0*)
+    → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
+     0x028B [0x25] WAIT_DIALOG_SELECT()
+     0x028C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A0
+     0x0294 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=1*)
+     0x029D [0x01] GOTO 0x02B5
+     0x02A0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02B4
+     0x02A8 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x02B1 [0x01] GOTO 0x02B5
+     0x02B4 [0x1B] RETURN
+     0x02B5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x02B7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x02B9 [0x01] GOTO 0x0270
+     0x02BC [0x1B] RETURN
+     0x02BD [0x06] Work_Zone[1] = 0
+     0x02C0 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=8*)
+     0x02C9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x02CB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x02CD [0x02] IF !(1* == 1*) GOTO 0x0319
+     0x02D5 [0x06] Work_Zone[1] = 0
+     0x02D8 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=8*)
+     0x02E1 [0x24] CREATE_DIALOG(message_id=10494*, default_option=0*, option_flags=0*)
+    → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
+     0x02E8 [0x25] WAIT_DIALOG_SELECT()
+     0x02E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FD
+     0x02F1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=1*)
+     0x02FA [0x01] GOTO 0x0312
+     0x02FD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0311
+     0x0305 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x030E [0x01] GOTO 0x0312
+     0x0311 [0x1B] RETURN
+     0x0312 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0314 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0316 [0x01] GOTO 0x02CD
+     0x0319 [0x1B] RETURN
+     0x031A [0x06] Work_Zone[1] = 0
+     0x031D [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=9*)
+     0x0326 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0328 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x032A [0x02] IF !(1* == 1*) GOTO 0x0376
+     0x0332 [0x06] Work_Zone[1] = 0
+     0x0335 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=9*)
+     0x033E [0x24] CREATE_DIALOG(message_id=10494*, default_option=0*, option_flags=0*)
+    → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
+     0x0345 [0x25] WAIT_DIALOG_SELECT()
+     0x0346 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035A
+     0x034E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=1*)
+     0x0357 [0x01] GOTO 0x036F
+     0x035A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x036E
+     0x0362 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x036B [0x01] GOTO 0x036F
+     0x036E [0x1B] RETURN
+     0x036F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0371 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0373 [0x01] GOTO 0x032A
+     0x0376 [0x1B] RETURN
+     0x0377 [0x06] Work_Zone[1] = 0
+     0x037A [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=10*)
+     0x0383 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0385 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0387 [0x02] IF !(1* == 1*) GOTO 0x03D3
+     0x038F [0x06] Work_Zone[1] = 0
+     0x0392 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=10*)
+     0x039B [0x24] CREATE_DIALOG(message_id=10494*, default_option=0*, option_flags=0*)
+    → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
+     0x03A2 [0x25] WAIT_DIALOG_SELECT()
+     0x03A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B7
+     0x03AB [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=1*)
+     0x03B4 [0x01] GOTO 0x03CC
+     0x03B7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03CB
+     0x03BF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x03C8 [0x01] GOTO 0x03CC
+     0x03CB [0x1B] RETURN
+     0x03CC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x03CE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x03D0 [0x01] GOTO 0x0387
+     0x03D3 [0x1B] RETURN
+     0x03D4 [0x06] Work_Zone[1] = 0
+     0x03D7 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=11*)
+     0x03E0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x03E2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x03E4 [0x02] IF !(1* == 1*) GOTO 0x0430
+     0x03EC [0x06] Work_Zone[1] = 0
+     0x03EF [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=11*)
+     0x03F8 [0x24] CREATE_DIALOG(message_id=10494*, default_option=0*, option_flags=0*)
+    → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
+     0x03FF [0x25] WAIT_DIALOG_SELECT()
+     0x0400 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0414
+     0x0408 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=1*)
+     0x0411 [0x01] GOTO 0x0429
+     0x0414 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0428
+     0x041C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=23*, target=Work_Zone[1], source=2*)
+     0x0425 [0x01] GOTO 0x0429
+     0x0428 [0x1B] RETURN
+     0x0429 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x042B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x042D [0x01] GOTO 0x03E4
+     0x0430 [0x1B] RETURN
+```

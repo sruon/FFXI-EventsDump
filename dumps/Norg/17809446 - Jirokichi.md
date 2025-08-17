@@ -1,0 +1,168 @@
+# 17809446 - Jirokichi
+
+## Common Data
+
+| Field            | Value          |
+|------------------|----------------|
+| Zone             | Norg (ID: 252) |
+| Block Size       | 104 bytes      |
+| Total Events     | 6              |
+| References Count | 0              |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [250](#event-250)     | 0x0001       |     12 |              3 |
+| [252](#event-252)     | 0x000D       |     12 |              3 |
+| [254](#event-254)     | 0x0019       |     12 |              3 |
+| [258](#event-258)     | 0x0025       |     12 |              3 |
+| [260](#event-260)     | 0x0031       |     12 |              3 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 250
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    92 01 F8 FF FF 7F 80  F8 FF FF 7F 00            ............   
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x92] EventEntity->Render.Flags3 ^= 0x01
+  1: 0x0007 [0x80] LOAD_WAIT(entity=EventEntity)
+  2: 0x000C [0x00] END_REQSTACK()
+```
+
+### Event 252
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x000D   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                         92 01 F8               ...
+0010: FF FF 7F 80 F8 FF FF 7F  00                       .........       
+```
+
+#### Opcodes
+
+```
+  0: 0x000D [0x92] EventEntity->Render.Flags3 ^= 0x01
+  1: 0x0013 [0x80] LOAD_WAIT(entity=EventEntity)
+  2: 0x0018 [0x00] END_REQSTACK()
+```
+
+### Event 254
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0019   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                             92 01 F8 FF FF 7F 80           .......
+0020: F8 FF FF 7F 00                                    .....           
+```
+
+#### Opcodes
+
+```
+  0: 0x0019 [0x92] EventEntity->Render.Flags3 ^= 0x01
+  1: 0x001F [0x80] LOAD_WAIT(entity=EventEntity)
+  2: 0x0024 [0x00] END_REQSTACK()
+```
+
+### Event 258
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0025   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                92 01 F8  FF FF 7F 80 F8 FF FF 7F       ...........
+0030: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0025 [0x92] EventEntity->Render.Flags3 ^= 0x01
+  1: 0x002B [0x80] LOAD_WAIT(entity=EventEntity)
+  2: 0x0030 [0x00] END_REQSTACK()
+```
+
+### Event 260
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0031   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:    92 01 F8 FF FF 7F 80  F8 FF FF 7F 00            ............   
+```
+
+#### Opcodes
+
+```
+  0: 0x0031 [0x92] EventEntity->Render.Flags3 ^= 0x01
+  1: 0x0037 [0x80] LOAD_WAIT(entity=EventEntity)
+  2: 0x003C [0x00] END_REQSTACK()
+```

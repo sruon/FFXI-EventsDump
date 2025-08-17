@@ -1,0 +1,123 @@
+# 17396263 - Rolandienne
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Castle Oztroja (ID: 151) |
+| Block Size       | 64 bytes                 |
+| Total Events     | 4                        |
+| References Count | 3                        |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [99](#event-99)          | 0x0001       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0002       |      7 |              3 |
+| [65535.2](#event-655352) | 0x0009       |     10 |              4 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0001      |           1 |
+|       1 | 0x001E      |          30 |
+|       2 | 0x0000      |           0 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 99
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0002  |
+| Data Size    | 7 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       AB 03 AC 01 00 80  00                         .......       
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0xAB] EventEntity->Render.Flags0 ^= 0x20000 // Toggle bit 17
+  1: 0x0004 [0xAC] EventEntity->StatusEvent = 1*
+  2: 0x0008 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0009   |
+| Data Size    | 10 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                             1C 01 80 AC 01 02 80           .......
+0010: AB 04 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x0009 [0x1C] WAIT(30* ticks)
+  1: 0x000C [0xAC] EventEntity->StatusEvent = 0*
+  2: 0x0010 [0xAB] EventEntity->Render.Flags0 |= 0x40000 // Set bit 18
+  3: 0x0012 [0x00] END_REQSTACK()
+```

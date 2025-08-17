@@ -1,0 +1,114 @@
+# 17809457 - Nomad Moogle
+
+## Common Data
+
+| Field            | Value          |
+|------------------|----------------|
+| Zone             | Norg (ID: 252) |
+| Block Size       | 140 bytes      |
+| Total Events     | 2              |
+| References Count | 8              |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [121](#event-121)     | 0x0001       |     81 |             19 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x2943      |       10563 |
+|       1 | 0x2944      |       10564 |
+|       2 | 0x2945      |       10565 |
+|       3 | 0x2946      |       10566 |
+|       4 | 0x2947      |       10567 |
+|       5 | 0x0001      |           1 |
+|       6 | 0x0000      |           0 |
+|       7 | 0x40000000  |  1073741824 |
+
+## String References
+
+- **10563**: I'm a traveling moogle, kupo. I help adventurers in the Outlands access items they have stored in a Mog House elsewhere, kupo.
+- **10564**: This isn't a Mog House, so you can only use the "Mog Safe," "Change Jobs," and "Delivery Box" commands, kupo.
+- **10565**: You have to pay fee of $0 gil to transfer your items to the Outlands, kupo. Why? Because the world is a cold place for rogue moogles, kupo.
+- **10566**: Of course, you can move your items back to your Mog House in town, but if you want to transfer them to the Outlands again, you'll have to pay another fee, kupo. I've got to make a living too, kupo.
+- **10567**: Transfer items? (Current gil:$1) [Pay $0 gil./Don't transfer items.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 121
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 81 bytes |
+| Instructions | 19       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    02 04 10 0A 7F 00 51  00 1E F0 FF FF 7F 1D 00   ......Q........
+0010: 80 23 2C F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 1D  .#,........tlk0.
+0020: 01 80 23 1D 02 80 23 2C  F8 FF FF 7F F8 FF FF 7F  ..#...#,........
+0030: 74 6C 6B 31 1D 03 80 23  24 04 80 05 80 06 80 25  tlk1...#$......%
+0040: 02 00 10 05 80 00 50 00  03 01 10 07 80 01 50 00  ......P.......P.
+0050: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x02] IF !(Work_Zone[4] == Entity->ServerId) GOTO 0x0051
+  1: 0x0009 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=10563*)
+    → "I'm a traveling moogle, kupo. I help adventurers in the Outlands access items they have stored in a Mog House elsewhere, kupo."
+  3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  4: 0x0012 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
+  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10564*)
+    → "This isn't a Mog House, so you can only use the "Mog Safe," "Change Jobs," and "Delivery Box" commands, kupo."
+  6: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=10565*)
+    → "You have to pay fee of $0 gil to transfer your items to the Outlands, kupo. Why? Because the world is a cold place for rogue moogles, kupo."
+  8: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0027 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
+ 10: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10566*)
+    → "Of course, you can move your items back to your Mog House in town, but if you want to transfer them to the Outlands again, you'll have to pay another fee, kupo. I've got to make a living too, kupo."
+ 11: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 12: 0x0038 [0x24] CREATE_DIALOG(message_id=10567*, default_option=1*, option_flags=0*)
+    → "Transfer items? (Current gil:$1) [Pay $0 gil./Don't transfer items.]"
+ 13: 0x003F [0x25] WAIT_DIALOG_SELECT()
+ 14: 0x0040 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0050
+ 15: 0x0048 [0x03] Work_Zone[1] = 1073741824*
+ 16: 0x004D [0x01] GOTO 0x0050
+
+SUBROUTINE_0050:
+ 17: 0x0050 [0x21] END_EVENT
+ 18: 0x0051 [0x00] END_REQSTACK()
+```

@@ -17,10 +17,10 @@ class ChangeSoundVolumeOpcode(BaseOpcode):
     def get_legible_representation(self, raw_bytes: bytes, args: dict = None, context=None) -> str:
         volume_str = self.format_work_area_value(args["volume"], context=context)
         fade_time_str = self.format_work_area_value(args["fade_time"], context=context)
-        
+
         # Resolve reference for sound_types to parse flags
         sound_types_val, was_ref = self.resolve_reference_value(args["sound_types"], context=context)
-        
+
         # Parse sound type flags if we have a resolved value
         types = []
         if isinstance(sound_types_val, int) and sound_types_val < 0x8000:

@@ -1,4 +1,5 @@
 from .base import ArgType, BaseOpcode, OpcodeArg
+from ..string_formatter import format_string
 
 
 class CreateDialogOpcode(BaseOpcode):
@@ -33,8 +34,8 @@ class CreateDialogOpcode(BaseOpcode):
                     break
 
             if found_string:
-                escaped_text = self.escape_unprintable_chars(found_string.text)
-                result += f'\n    → "{escaped_text}"'
+                formatted_text = format_string(found_string.text)
+                result += f'\n    → "{formatted_text}"'
             else:
                 result += f"\n    → [String ID {resolved_id} not found]"
 

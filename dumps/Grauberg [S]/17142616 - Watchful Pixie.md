@@ -1,0 +1,437 @@
+# 17142616 - Watchful Pixie
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Grauberg [S] (ID: 89) |
+| Block Size       | 1320 bytes            |
+| Total Events     | 2                     |
+| References Count | 62                    |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [4002](#event-4002)   | 0x0001       |   1045 |            203 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0005      |           5 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0006      |           6 |
+|       4 | 0x0007      |           7 |
+|       5 | 0x0009      |           9 |
+|       6 | 0x0002      |           2 |
+|       7 | 0x0003      |           3 |
+|       8 | 0x0008      |           8 |
+|       9 | 0x000B      |          11 |
+|      10 | 0x000C      |          12 |
+|      11 | 0x000E      |          14 |
+|      12 | 0x000F      |          15 |
+|      13 | 0x0011      |          17 |
+|      14 | 0x0012      |          18 |
+|      15 | 0x0014      |          20 |
+|      16 | 0x0015      |          21 |
+|      17 | 0x0017      |          23 |
+|      18 | 0x0018      |          24 |
+|      19 | 0x001A      |          26 |
+|      20 | 0x001B      |          27 |
+|      21 | 0x001D      |          29 |
+|      22 | 0x000A      |          10 |
+|      23 | 0x1FE3      |        8163 |
+|      24 | 0x1FE4      |        8164 |
+|      25 | 0x03E7      |         999 |
+|      26 | 0x00C9      |         201 |
+|      27 | 0x1FE5      |        8165 |
+|      28 | 0x0065      |         101 |
+|      29 | 0x00CA      |         202 |
+|      30 | 0x0004      |           4 |
+|      31 | 0x000D      |          13 |
+|      32 | 0x1FE6      |        8166 |
+|      33 | 0x1FE7      |        8167 |
+|      34 | 0x1FE8      |        8168 |
+|      35 | 0x1FE9      |        8169 |
+|      36 | 0x1FEA      |        8170 |
+|      37 | 0x1FEB      |        8171 |
+|      38 | 0x00CB      |         203 |
+|      39 | 0x4849      |       18505 |
+|      40 | 0x494C      |       18764 |
+|      41 | 0x49B6      |       18870 |
+|      42 | 0x4A0A      |       18954 |
+|      43 | 0x4561      |       17761 |
+|      44 | 0x4AAB      |       19115 |
+|      45 | 0x4562      |       17762 |
+|      46 | 0x4A0B      |       18955 |
+|      47 | 0x462E      |       17966 |
+|      48 | 0x4AAC      |       19116 |
+|      49 | 0x4930      |       18736 |
+|      50 | 0x4814      |       18452 |
+|      51 | 0x4B4B      |       19275 |
+|      52 | 0x4B67      |       19303 |
+|      53 | 0x48A9      |       18601 |
+|      54 | 0x0010      |          16 |
+|      55 | 0x4563      |       17763 |
+|      56 | 0x4931      |       18737 |
+|      57 | 0x494D      |       18765 |
+|      58 | 0x0013      |          19 |
+|      59 | 0x4AAD      |       19117 |
+|      60 | 0x48AA      |       18602 |
+|      61 | 0x1FEC      |        8172 |
+
+## String References
+
+- **8163**: Hark! Our foe lurks thither. How wouldst thou proceed?
+- **8164**: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+- **8165**: Our foe advances...may thine aim be true!
+- **8166**: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+- **8167**: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+- **8168**: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8169**: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8170**: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8171**: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8172**: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 4002
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1045 bytes |
+| Instructions | 199        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 00 00 00 80 41 01  80 01 80 02 10 01 00 41   .....A........A
+0010: 02 80 03 80 02 10 02 00  41 04 80 05 80 02 10 03  ........A.......
+0020: 00 41 01 80 06 80 03 10  04 00 41 07 80 00 80 03  .A........A.....
+0030: 10 06 00 41 03 80 08 80  03 10 05 00 41 05 80 09  ...A........A...
+0040: 80 03 10 07 00 41 0A 80  0B 80 03 10 08 00 41 0C  .....A........A.
+0050: 80 0D 80 03 10 09 00 41  0E 80 0F 80 03 10 0A 00  .......A........
+0060: 41 10 80 11 80 03 10 0B  00 41 12 80 13 80 03 10  A........A......
+0070: 0C 00 41 14 80 15 80 03  10 0D 00 41 01 80 06 80  ..A........A....
+0080: 04 10 0E 00 41 07 80 00  80 04 10 0F 00 41 03 80  ....A........A..
+0090: 08 80 04 10 10 00 41 05  80 09 80 04 10 11 00 41  ......A........A
+00A0: 0A 80 0B 80 04 10 12 00  41 0C 80 0D 80 04 10 13  ........A.......
+00B0: 00 41 0E 80 0F 80 04 10  14 00 41 10 80 11 80 04  .A........A.....
+00C0: 10 15 00 41 12 80 13 80  04 10 16 00 41 14 80 15  ...A........A...
+00D0: 80 04 10 17 00 20 01 1C  16 80 1E F0 FF FF 7F 6F  ..... .........o
+00E0: 70 1D 17 80 23 24 18 80  01 80 01 80 25 02 00 10  p...#$......%...
+00F0: 01 80 00 FD 00 03 01 10  19 80 01 13 04 02 00 10  ................
+0100: 02 80 00 2F 01 03 01 10  1A 80 43 00 43 01 03 19  .../......C.C...
+0110: 00 02 10 02 19 00 01 80  00 27 01 1D 1B 80 23 03  .........'....#.
+0120: 01 10 1C 80 01 2C 01 03  01 10 19 80 01 13 04 02  .....,..........
+0130: 00 10 06 80 00 99 02 03  01 10 1D 80 43 00 43 01  ............C.C.
+0140: 03 19 00 02 10 02 19 00  01 80 00 91 02 02 00 00  ................
+0150: 01 80 80 5D 01 03 02 10  04 00 01 2D 02 02 00 00  ...].......-....
+0160: 02 80 80 6D 01 03 02 10  06 00 01 2D 02 02 00 00  ...m.......-....
+0170: 06 80 80 7D 01 03 02 10  05 00 01 2D 02 02 00 00  ...}.......-....
+0180: 07 80 80 8D 01 03 02 10  07 00 01 2D 02 02 00 00  ...........-....
+0190: 1E 80 80 9D 01 03 02 10  08 00 01 2D 02 02 00 00  ...........-....
+01A0: 00 80 80 AD 01 03 02 10  09 00 01 2D 02 02 00 00  ...........-....
+01B0: 03 80 80 BD 01 03 02 10  0A 00 01 2D 02 02 00 00  ...........-....
+01C0: 04 80 80 CD 01 03 02 10  0B 00 01 2D 02 02 00 00  ...........-....
+01D0: 08 80 80 DD 01 03 02 10  0C 00 01 2D 02 02 00 00  ...........-....
+01E0: 05 80 80 ED 01 03 02 10  0D 00 01 2D 02 02 00 00  ...........-....
+01F0: 16 80 80 FD 01 03 02 10  0E 00 01 2D 02 02 00 00  ...........-....
+0200: 09 80 80 0D 02 03 02 10  0F 00 01 2D 02 02 00 00  ...........-....
+0210: 0A 80 80 1D 02 03 02 10  10 00 01 2D 02 02 00 00  ...........-....
+0220: 1F 80 80 2D 02 03 02 10  11 00 01 2D 02 1D 20 80  ...-.......-.. .
+0230: 23 1D 21 80 23 03 02 10  04 00 03 03 10 05 00 03  #.!.#...........
+0240: 04 10 06 00 03 05 10 07  00 48 22 80 23 03 02 10  .........H".#...
+0250: 08 00 03 03 10 09 00 03  04 10 0A 00 03 05 10 0B  ................
+0260: 00 48 23 80 23 03 02 10  0C 00 03 03 10 0D 00 03  .H#.#...........
+0270: 04 10 0E 00 03 05 10 0F  00 48 24 80 23 03 02 10  .........H$.#...
+0280: 10 00 03 03 10 11 00 48  25 80 23 01 E5 00 01 96  .......H%.#.....
+0290: 02 03 01 10 19 80 01 13  04 02 00 10 07 80 00 13  ................
+02A0: 04 03 01 10 26 80 43 00  43 01 03 19 00 02 10 02  ....&.C.C.......
+02B0: 19 00 01 80 00 0B 04 02  02 00 02 80 80 C7 02 03  ................
+02C0: 03 10 27 80 01 F7 03 02  02 00 06 80 80 D7 02 03  ..'.............
+02D0: 03 10 28 80 01 F7 03 02  02 00 07 80 80 E7 02 03  ..(.............
+02E0: 03 10 29 80 01 F7 03 02  02 00 1E 80 80 F7 02 03  ..).............
+02F0: 03 10 2A 80 01 F7 03 02  02 00 00 80 80 07 03 03  ..*.............
+0300: 03 10 2B 80 01 F7 03 02  02 00 03 80 80 17 03 03  ..+.............
+0310: 03 10 2C 80 01 F7 03 02  02 00 04 80 80 27 03 03  ..,..........'..
+0320: 03 10 2D 80 01 F7 03 02  02 00 08 80 80 37 03 03  ..-..........7..
+0330: 03 10 2E 80 01 F7 03 02  02 00 05 80 80 47 03 03  .............G..
+0340: 03 10 2F 80 01 F7 03 02  02 00 16 80 80 57 03 03  ../..........W..
+0350: 03 10 30 80 01 F7 03 02  02 00 09 80 80 67 03 03  ..0..........g..
+0360: 03 10 31 80 01 F7 03 02  02 00 0A 80 80 77 03 03  ..1..........w..
+0370: 03 10 32 80 01 F7 03 02  02 00 1F 80 80 87 03 03  ..2.............
+0380: 03 10 33 80 01 F7 03 02  02 00 0B 80 80 97 03 03  ..3.............
+0390: 03 10 34 80 01 F7 03 02  02 00 0C 80 80 A7 03 03  ..4.............
+03A0: 03 10 35 80 01 F7 03 02  02 00 36 80 80 B7 03 03  ..5.......6.....
+03B0: 03 10 37 80 01 F7 03 02  02 00 0D 80 80 C7 03 03  ..7.............
+03C0: 03 10 38 80 01 F7 03 02  02 00 0E 80 80 D7 03 03  ..8.............
+03D0: 03 10 39 80 01 F7 03 02  02 00 3A 80 80 E7 03 03  ..9.......:.....
+03E0: 03 10 3B 80 01 F7 03 02  02 00 0F 80 80 F7 03 03  ..;.............
+03F0: 03 10 3C 80 01 F7 03 03  02 10 00 80 08 02 10 03  ..<.............
+0400: 00 1D 3D 80 23 01 E5 00  01 10 04 03 01 10 19 80  ..=.#...........
+0410: 01 13 04 42 21 00                                 ...B!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = 5*
+  1: 0x0006 [0x41] ExtData[1]->WorkLocal[1] = Work_Zone[2] (bits 0*-0*)
+  2: 0x000F [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[2] (bits 1*-6*)
+  3: 0x0018 [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[2] (bits 7*-9*)
+  4: 0x0021 [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[3] (bits 0*-2*)
+  5: 0x002A [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[3] (bits 3*-5*)
+  6: 0x0033 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[3] (bits 6*-8*)
+  7: 0x003C [0x41] ExtData[1]->WorkLocal[7] = Work_Zone[3] (bits 9*-11*)
+  8: 0x0045 [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[3] (bits 12*-14*)
+  9: 0x004E [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[3] (bits 15*-17*)
+ 10: 0x0057 [0x41] ExtData[1]->WorkLocal[10] = Work_Zone[3] (bits 18*-20*)
+ 11: 0x0060 [0x41] ExtData[1]->WorkLocal[11] = Work_Zone[3] (bits 21*-23*)
+ 12: 0x0069 [0x41] ExtData[1]->WorkLocal[12] = Work_Zone[3] (bits 24*-26*)
+ 13: 0x0072 [0x41] ExtData[1]->WorkLocal[13] = Work_Zone[3] (bits 27*-29*)
+ 14: 0x007B [0x41] ExtData[1]->WorkLocal[14] = Work_Zone[4] (bits 0*-2*)
+ 15: 0x0084 [0x41] ExtData[1]->WorkLocal[15] = Work_Zone[4] (bits 3*-5*)
+ 16: 0x008D [0x41] ExtData[1]->WorkLocal[16] = Work_Zone[4] (bits 6*-8*)
+ 17: 0x0096 [0x41] ExtData[1]->WorkLocal[17] = Work_Zone[4] (bits 9*-11*)
+ 18: 0x009F [0x41] ExtData[1]->WorkLocal[18] = Work_Zone[4] (bits 12*-14*)
+ 19: 0x00A8 [0x41] ExtData[1]->WorkLocal[19] = Work_Zone[4] (bits 15*-17*)
+ 20: 0x00B1 [0x41] ExtData[1]->WorkLocal[20] = Work_Zone[4] (bits 18*-20*)
+ 21: 0x00BA [0x41] ExtData[1]->WorkLocal[21] = Work_Zone[4] (bits 21*-23*)
+ 22: 0x00C3 [0x41] ExtData[1]->WorkLocal[22] = Work_Zone[4] (bits 24*-26*)
+ 23: 0x00CC [0x41] ExtData[1]->WorkLocal[23] = Work_Zone[4] (bits 27*-29*)
+ 24: 0x00D5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+ 25: 0x00D7 [0x1C] WAIT(10* ticks)
+ 26: 0x00DA [0x1E] EventEntity looks at LocalPlayer and starts talking
+ 27: 0x00DF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 28: 0x00E0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+ 29: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8163*)
+    → "Hark! Our foe lurks thither. How wouldst thou proceed?"
+ 30: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 31: 0x00E5 [0x24] CREATE_DIALOG(message_id=8164*, default_option=0*, option_flags=0*)
+    → "How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]"
+ 32: 0x00EC [0x25] WAIT_DIALOG_SELECT()
+ 33: 0x00ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FD
+ 34: 0x00F5 [0x03] Work_Zone[1] = 999*
+ 35: 0x00FA [0x01] GOTO 0x0413
+ 36: 0x00FD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x012F
+ 37: 0x0105 [0x03] Work_Zone[1] = 201*
+ 38: 0x010A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 39: 0x010C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 40: 0x010E [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[2]
+ 41: 0x0113 [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x0127
+ 42: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=8165*)
+    → "Our foe advances...may thine aim be true!"
+ 43: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 44: 0x011F [0x03] Work_Zone[1] = 101*
+ 45: 0x0124 [0x01] GOTO 0x012C
+ 46: 0x0127 [0x03] Work_Zone[1] = 999*
+
+SUBROUTINE_012C:
+ 47: 0x012C [0x01] GOTO 0x0413
+ 48: 0x012F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0299
+ 49: 0x0137 [0x03] Work_Zone[1] = 202*
+ 50: 0x013C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 51: 0x013E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 52: 0x0140 [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[2]
+ 53: 0x0145 [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x0291
+ 54: 0x014D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x015D
+ 55: 0x0155 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
+ 56: 0x015A [0x01] GOTO 0x022D
+ 57: 0x015D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x016D
+ 58: 0x0165 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+ 59: 0x016A [0x01] GOTO 0x022D
+ 60: 0x016D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x017D
+ 61: 0x0175 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
+ 62: 0x017A [0x01] GOTO 0x022D
+ 63: 0x017D [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x018D
+ 64: 0x0185 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+ 65: 0x018A [0x01] GOTO 0x022D
+ 66: 0x018D [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x019D
+ 67: 0x0195 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
+ 68: 0x019A [0x01] GOTO 0x022D
+ 69: 0x019D [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x01AD
+ 70: 0x01A5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
+ 71: 0x01AA [0x01] GOTO 0x022D
+ 72: 0x01AD [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x01BD
+ 73: 0x01B5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
+ 74: 0x01BA [0x01] GOTO 0x022D
+ 75: 0x01BD [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x01CD
+ 76: 0x01C5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
+ 77: 0x01CA [0x01] GOTO 0x022D
+ 78: 0x01CD [0x02] IF !(ExtData[1]->WorkLocal[0] == 8*) GOTO 0x01DD
+ 79: 0x01D5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
+ 80: 0x01DA [0x01] GOTO 0x022D
+ 81: 0x01DD [0x02] IF !(ExtData[1]->WorkLocal[0] == 9*) GOTO 0x01ED
+ 82: 0x01E5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
+ 83: 0x01EA [0x01] GOTO 0x022D
+ 84: 0x01ED [0x02] IF !(ExtData[1]->WorkLocal[0] == 10*) GOTO 0x01FD
+ 85: 0x01F5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
+ 86: 0x01FA [0x01] GOTO 0x022D
+ 87: 0x01FD [0x02] IF !(ExtData[1]->WorkLocal[0] == 11*) GOTO 0x020D
+ 88: 0x0205 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
+ 89: 0x020A [0x01] GOTO 0x022D
+ 90: 0x020D [0x02] IF !(ExtData[1]->WorkLocal[0] == 12*) GOTO 0x021D
+ 91: 0x0215 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
+ 92: 0x021A [0x01] GOTO 0x022D
+ 93: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 13*) GOTO 0x022D
+ 94: 0x0225 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
+ 95: 0x022A [0x01] GOTO 0x022D
+
+SUBROUTINE_022D:
+ 96: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8166*)
+    → "I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]"
+ 97: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 98: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8167*)
+    → "My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings."
+ 99: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
+100: 0x0235 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
+101: 0x023A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
+102: 0x023F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[6]
+103: 0x0244 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[7]
+104: 0x0249 [0x48] [System] [8168*]:
+    → "East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
+105: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
+106: 0x024D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
+107: 0x0252 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
+108: 0x0257 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
+109: 0x025C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[11]
+110: 0x0261 [0x48] [System] [8169*]:
+    → "North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
+111: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
+112: 0x0265 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
+113: 0x026A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
+114: 0x026F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
+115: 0x0274 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
+116: 0x0279 [0x48] [System] [8170*]:
+    → "West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
+117: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
+118: 0x027D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
+119: 0x0282 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
+120: 0x0287 [0x48] [System] [8171*]:
+    → "Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
+121: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
+122: 0x028B [0x01] GOTO 0x00E5
+
+SUBROUTINE_0296:
+123: 0x0296 [0x01] GOTO 0x0413
+124: 0x0299 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0413
+125: 0x02A1 [0x03] Work_Zone[1] = 203*
+126: 0x02A6 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+127: 0x02A8 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+128: 0x02AA [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[2]
+129: 0x02AF [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x040B
+130: 0x02B7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x02C7
+131: 0x02BF [0x03] Work_Zone[3] = 18505*
+132: 0x02C4 [0x01] GOTO 0x03F7
+133: 0x02C7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x02D7
+134: 0x02CF [0x03] Work_Zone[3] = 18764*
+135: 0x02D4 [0x01] GOTO 0x03F7
+136: 0x02D7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x02E7
+137: 0x02DF [0x03] Work_Zone[3] = 18870*
+138: 0x02E4 [0x01] GOTO 0x03F7
+139: 0x02E7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x02F7
+140: 0x02EF [0x03] Work_Zone[3] = 18954*
+141: 0x02F4 [0x01] GOTO 0x03F7
+142: 0x02F7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 5*) GOTO 0x0307
+143: 0x02FF [0x03] Work_Zone[3] = 17761*
+144: 0x0304 [0x01] GOTO 0x03F7
+145: 0x0307 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x0317
+146: 0x030F [0x03] Work_Zone[3] = 19115*
+147: 0x0314 [0x01] GOTO 0x03F7
+148: 0x0317 [0x02] IF !(ExtData[1]->WorkLocal[2] == 7*) GOTO 0x0327
+149: 0x031F [0x03] Work_Zone[3] = 17762*
+150: 0x0324 [0x01] GOTO 0x03F7
+151: 0x0327 [0x02] IF !(ExtData[1]->WorkLocal[2] == 8*) GOTO 0x0337
+152: 0x032F [0x03] Work_Zone[3] = 18955*
+153: 0x0334 [0x01] GOTO 0x03F7
+154: 0x0337 [0x02] IF !(ExtData[1]->WorkLocal[2] == 9*) GOTO 0x0347
+155: 0x033F [0x03] Work_Zone[3] = 17966*
+156: 0x0344 [0x01] GOTO 0x03F7
+157: 0x0347 [0x02] IF !(ExtData[1]->WorkLocal[2] == 10*) GOTO 0x0357
+158: 0x034F [0x03] Work_Zone[3] = 19116*
+159: 0x0354 [0x01] GOTO 0x03F7
+160: 0x0357 [0x02] IF !(ExtData[1]->WorkLocal[2] == 11*) GOTO 0x0367
+161: 0x035F [0x03] Work_Zone[3] = 18736*
+162: 0x0364 [0x01] GOTO 0x03F7
+163: 0x0367 [0x02] IF !(ExtData[1]->WorkLocal[2] == 12*) GOTO 0x0377
+164: 0x036F [0x03] Work_Zone[3] = 18452*
+165: 0x0374 [0x01] GOTO 0x03F7
+166: 0x0377 [0x02] IF !(ExtData[1]->WorkLocal[2] == 13*) GOTO 0x0387
+167: 0x037F [0x03] Work_Zone[3] = 19275*
+168: 0x0384 [0x01] GOTO 0x03F7
+169: 0x0387 [0x02] IF !(ExtData[1]->WorkLocal[2] == 14*) GOTO 0x0397
+170: 0x038F [0x03] Work_Zone[3] = 19303*
+171: 0x0394 [0x01] GOTO 0x03F7
+172: 0x0397 [0x02] IF !(ExtData[1]->WorkLocal[2] == 15*) GOTO 0x03A7
+173: 0x039F [0x03] Work_Zone[3] = 18601*
+174: 0x03A4 [0x01] GOTO 0x03F7
+175: 0x03A7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 16*) GOTO 0x03B7
+176: 0x03AF [0x03] Work_Zone[3] = 17763*
+177: 0x03B4 [0x01] GOTO 0x03F7
+178: 0x03B7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 17*) GOTO 0x03C7
+179: 0x03BF [0x03] Work_Zone[3] = 18737*
+180: 0x03C4 [0x01] GOTO 0x03F7
+181: 0x03C7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 18*) GOTO 0x03D7
+182: 0x03CF [0x03] Work_Zone[3] = 18765*
+183: 0x03D4 [0x01] GOTO 0x03F7
+184: 0x03D7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 19*) GOTO 0x03E7
+185: 0x03DF [0x03] Work_Zone[3] = 19117*
+186: 0x03E4 [0x01] GOTO 0x03F7
+187: 0x03E7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 20*) GOTO 0x03F7
+188: 0x03EF [0x03] Work_Zone[3] = 18602*
+189: 0x03F4 [0x01] GOTO 0x03F7
+
+SUBROUTINE_03F7:
+190: 0x03F7 [0x03] Work_Zone[2] = 5*
+191: 0x03FC [0x08] Work_Zone[2] -= ExtData[1]->WorkLocal[3]
+192: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+    → "The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!"
+193: 0x0404 [0x23] WAIT_FOR_DIALOG_INTERACTION
+194: 0x0405 [0x01] GOTO 0x00E5
+
+SUBROUTINE_0410:
+195: 0x0410 [0x01] GOTO 0x0413
+
+SUBROUTINE_0413:
+196: 0x0413 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+197: 0x0414 [0x21] END_EVENT
+198: 0x0415 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x028E [0x01] GOTO 0x0296
+# Dead code (unreachable instructions):
+     0x0408 [0x01] GOTO 0x0410
+```

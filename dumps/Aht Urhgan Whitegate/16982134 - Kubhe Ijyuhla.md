@@ -11,34 +11,34 @@
 
 ## List of Events
 
-| Event ID                    | Entrypoint   |   Size |   Instructions |
-|-----------------------------|--------------|--------|----------------|
-| [65535](#event-65535)       | 0x0000       |      1 |              1 |
-| [662](#event-662)           | 0x0001       |     69 |             13 |
-| [810](#event-810)           | 0x0046       |      1 |              1 |
-| [65535.1](#event-65535-1)   | 0x0047       |     10 |              2 |
-| [65535.2](#event-65535-2)   | 0x0051       |     14 |              4 |
-| [65535.3](#event-65535-3)   | 0x005F       |     32 |              6 |
-| [65535.4](#event-65535-4)   | 0x007F       |     26 |              4 |
-| [65535.5](#event-65535-5)   | 0x0099       |     23 |              5 |
-| [65535.6](#event-65535-6)   | 0x00B0       |     14 |              4 |
-| [65535.7](#event-65535-7)   | 0x00BE       |      4 |              2 |
-| [65535.8](#event-65535-8)   | 0x00C2       |      4 |              2 |
-| [65535.9](#event-65535-9)   | 0x00C6       |      2 |              2 |
-| [836](#event-836)           | 0x00C8       |      1 |              1 |
-| [837](#event-837)           | 0x00C9       |     29 |              7 |
-| [838](#event-838)           | 0x00E6       |      1 |              1 |
-| [839](#event-839)           | 0x00E7       |     29 |              7 |
-| [842](#event-842)           | 0x0104       |     46 |             10 |
-| [845](#event-845)           | 0x0132       |      1 |              1 |
-| [846](#event-846)           | 0x0133       |     33 |              7 |
-| [5071](#event-5071)         | 0x0154       |      1 |              1 |
-| [5073](#event-5073)         | 0x0155       |      1 |              1 |
-| [5075](#event-5075)         | 0x0156       |      1 |              1 |
-| [5076](#event-5076)         | 0x0157       |      1 |              1 |
-| [5077](#event-5077)         | 0x0158       |      1 |              1 |
-| [5078](#event-5078)         | 0x0159       |      1 |              1 |
-| [65535.10](#event-65535-10) | 0x015A       |     15 |              5 |
+| Event ID                   | Entrypoint   |   Size |   Instructions |
+|----------------------------|--------------|--------|----------------|
+| [65535](#event-65535)      | 0x0000       |      1 |              1 |
+| [662](#event-662)          | 0x0001       |     69 |             13 |
+| [810](#event-810)          | 0x0046       |      1 |              1 |
+| [65535.1](#event-655351)   | 0x0047       |     10 |              2 |
+| [65535.2](#event-655352)   | 0x0051       |     14 |              4 |
+| [65535.3](#event-655353)   | 0x005F       |     32 |              6 |
+| [65535.4](#event-655354)   | 0x007F       |     26 |              4 |
+| [65535.5](#event-655355)   | 0x0099       |     23 |              5 |
+| [65535.6](#event-655356)   | 0x00B0       |     14 |              4 |
+| [65535.7](#event-655357)   | 0x00BE       |      4 |              2 |
+| [65535.8](#event-655358)   | 0x00C2       |      4 |              2 |
+| [65535.9](#event-655359)   | 0x00C6       |      2 |              2 |
+| [836](#event-836)          | 0x00C8       |      1 |              1 |
+| [837](#event-837)          | 0x00C9       |     29 |              7 |
+| [838](#event-838)          | 0x00E6       |      1 |              1 |
+| [839](#event-839)          | 0x00E7       |     29 |              7 |
+| [842](#event-842)          | 0x0104       |     46 |             10 |
+| [845](#event-845)          | 0x0132       |      1 |              1 |
+| [846](#event-846)          | 0x0133       |     33 |              7 |
+| [5071](#event-5071)        | 0x0154       |      1 |              1 |
+| [5073](#event-5073)        | 0x0155       |      1 |              1 |
+| [5075](#event-5075)        | 0x0156       |      1 |              1 |
+| [5076](#event-5076)        | 0x0157       |      1 |              1 |
+| [5077](#event-5077)        | 0x0158       |      1 |              1 |
+| [5078](#event-5078)        | 0x0159       |      1 |              1 |
+| [65535.10](#event-6553510) | 0x015A       |     15 |              5 |
 
 ## DAT References (imed_data)
 
@@ -71,6 +71,15 @@
 |      24 | 0xFFF756B8  |  4294399672 |
 |      25 | 0x7F81      |       32641 |
 |      26 | 0x07CF      |        1999 |
+
+## String References
+
+- **6353**: Grrr, that girl really makes the furrr on my tail stand on end! I can't believe I came all this way to be a mercenary in her rrridiculous company!
+- **6354**: I'm gonna quit! I'm rrreally gonna quit!
+- **7138**: Foudeel should be waiting rrright outside the secret passage to the Wajaom Woodlands. Do this for me and I promise I'll make it up to you.
+- **7154**: I'm positive that you'll find Foudeel wallowing away at the Shararat Teahouse. Ask arrround for him when you get there.
+- **7175**: Foudeel is still at the Shararat Teahouse? Wow... Whateverrr has him down must be really serious.
+- **7176**: Hm? Have I been over therrre to check up on him? Hah! I haven't moved a muscle since we last talked. Just ask anybody.
 
 ## Events
 
@@ -123,13 +132,13 @@
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
   3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6353*)
-    → "Grrr, that girl really makes the furrr on my tail stand on end! I can't believe I came all this way to be a mercenary in her rrridiculous company!\u007F1\u0000\u0007"
+    → "Grrr, that girl really makes the furrr on my tail stand on end! I can't believe I came all this way to be a mercenary in her rrridiculous company!"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
   6: 0x002B [0x1C] WAIT(30* ticks)
   7: 0x002E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=54*
   8: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=6354*)
-    → "I'm gonna quit! I'm rrreally gonna quit!\u007F1\u0000\u0007"
+    → "I'm gonna quit! I'm rrreally gonna quit!"
   9: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0041 [0x1C] WAIT(30* ticks)
  11: 0x0044 [0x21] END_EVENT
@@ -432,7 +441,7 @@
   1: 0x00CE [0x1C] WAIT(30* ticks)
   2: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   3: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
-    → "Foudeel should be waiting rrright outside the secret passage to the Wajaom Woodlands. Do this for me and I promise I'll make it up to you.\u007F1\u0000\u0007"
+    → "Foudeel should be waiting rrright outside the secret passage to the Wajaom Woodlands. Do this for me and I promise I'll make it up to you."
   4: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E4 [0x21] END_EVENT
   6: 0x00E5 [0x00] END_REQSTACK()
@@ -485,7 +494,7 @@
   1: 0x00EC [0x1C] WAIT(30* ticks)
   2: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   3: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7154*)
-    → "I'm positive that you'll find Foudeel wallowing away at the Shararat Teahouse. Ask arrround for him when you get there.\u007F1\u0000\u0007"
+    → "I'm positive that you'll find Foudeel wallowing away at the Shararat Teahouse. Ask arrround for him when you get there."
   4: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0102 [0x21] END_EVENT
   6: 0x0103 [0x00] END_REQSTACK()
@@ -517,11 +526,11 @@
   1: 0x0109 [0x1C] WAIT(30* ticks)
   2: 0x010C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=52*
   3: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7175*)
-    → "Foudeel is still at the Shararat Teahouse? Wow... Whateverrr has him down must be really serious.\u007F1\u0000\u0007"
+    → "Foudeel is still at the Shararat Teahouse? Wow... Whateverrr has him down must be really serious."
   4: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x011F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
   6: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7176*)
-    → "Hm? Have I been over therrre to check up on him? Hah! I haven't moved a muscle since we last talked. Just ask anybody.\u007F1\u0000\u0007"
+    → "Hm? Have I been over therrre to check up on him? Hah! I haven't moved a muscle since we last talked. Just ask anybody."
   7: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0130 [0x21] END_EVENT
   9: 0x0131 [0x00] END_REQSTACK()
@@ -574,7 +583,7 @@
   1: 0x0138 [0x1C] WAIT(30* ticks)
   2: 0x013B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kubhe Ijyuhla (ID: 16982134/0x01032076), Kubhe Ijyuhla (ID: 16982134/0x01032076)], work=50*
   3: 0x014A [0x2B] Kubhe Ijyuhla (ID: 16982134/0x01032076) [7257*]:
-    → "Anyway, I'm sorry you had to get involved in all that.\u007F1\u0000\u0007"
+    → "Anyway, I'm sorry you had to get involved in all that."
   4: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0152 [0x21] END_EVENT
   6: 0x0153 [0x00] END_REQSTACK()

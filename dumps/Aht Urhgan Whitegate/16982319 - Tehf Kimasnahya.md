@@ -11,43 +11,43 @@
 
 ## List of Events
 
-| Event ID                    | Entrypoint   |   Size |   Instructions |
-|-----------------------------|--------------|--------|----------------|
-| [65535](#event-65535)       | 0x0000       |      1 |              1 |
-| [520](#event-520)           | 0x0001       |      1 |              1 |
-| [65535.1](#event-65535-1)   | 0x0002       |     25 |              7 |
-| [65535.2](#event-65535-2)   | 0x001B       |     22 |              6 |
-| [65535.3](#event-65535-3)   | 0x0031       |     21 |              5 |
-| [521](#event-521)           | 0x0046       |     37 |              9 |
-| [525](#event-525)           | 0x006B       |      1 |              1 |
-| [65535.4](#event-65535-4)   | 0x006C       |     19 |              5 |
-| [65535.5](#event-65535-5)   | 0x007F       |     22 |              6 |
-| [65535.6](#event-65535-6)   | 0x0095       |     22 |              6 |
-| [65535.7](#event-65535-7)   | 0x00AB       |     15 |              3 |
-| [65535.8](#event-65535-8)   | 0x00BA       |     15 |              3 |
-| [534](#event-534)           | 0x00C9       |     14 |              6 |
-| [526](#event-526)           | 0x00D7       |      1 |              1 |
-| [65535.9](#event-65535-9)   | 0x00D8       |     20 |              4 |
-| [65535.10](#event-65535-10) | 0x00EC       |     38 |              8 |
-| [65535.11](#event-65535-11) | 0x0112       |     22 |              6 |
-| [65535.12](#event-65535-12) | 0x0128       |     14 |              4 |
-| [527](#event-527)           | 0x0136       |      1 |              1 |
-| [539](#event-539)           | 0x0137       |     14 |              6 |
-| [528](#event-528)           | 0x0145       |      1 |              1 |
-| [65535.13](#event-65535-13) | 0x0146       |    115 |             15 |
-| [65535.14](#event-65535-14) | 0x01B9       |     24 |              6 |
-| [529](#event-529)           | 0x01D1       |     29 |              7 |
-| [594](#event-594)           | 0x01EE       |      1 |              1 |
-| [774](#event-774)           | 0x01EF       |      7 |              2 |
-| [836](#event-836)           | 0x01F6       |      1 |              1 |
-| [65535.15](#event-65535-15) | 0x01F7       |     14 |              4 |
-| [65535.16](#event-65535-16) | 0x0205       |     24 |              6 |
-| [840](#event-840)           | 0x021D       |      1 |              1 |
-| [65535.17](#event-65535-17) | 0x021E       |     14 |              4 |
-| [843](#event-843)           | 0x022C       |      1 |              1 |
-| [844](#event-844)           | 0x022D       |      6 |              4 |
-| [845](#event-845)           | 0x0233       |      1 |              1 |
-| [867](#event-867)           | 0x0234       |      7 |              2 |
+| Event ID                   | Entrypoint   |   Size |   Instructions |
+|----------------------------|--------------|--------|----------------|
+| [65535](#event-65535)      | 0x0000       |      1 |              1 |
+| [520](#event-520)          | 0x0001       |      1 |              1 |
+| [65535.1](#event-655351)   | 0x0002       |     25 |              7 |
+| [65535.2](#event-655352)   | 0x001B       |     22 |              6 |
+| [65535.3](#event-655353)   | 0x0031       |     21 |              5 |
+| [521](#event-521)          | 0x0046       |     37 |              9 |
+| [525](#event-525)          | 0x006B       |      1 |              1 |
+| [65535.4](#event-655354)   | 0x006C       |     19 |              5 |
+| [65535.5](#event-655355)   | 0x007F       |     22 |              6 |
+| [65535.6](#event-655356)   | 0x0095       |     22 |              6 |
+| [65535.7](#event-655357)   | 0x00AB       |     15 |              3 |
+| [65535.8](#event-655358)   | 0x00BA       |     15 |              3 |
+| [534](#event-534)          | 0x00C9       |     14 |              6 |
+| [526](#event-526)          | 0x00D7       |      1 |              1 |
+| [65535.9](#event-655359)   | 0x00D8       |     20 |              4 |
+| [65535.10](#event-6553510) | 0x00EC       |     38 |              8 |
+| [65535.11](#event-6553511) | 0x0112       |     22 |              6 |
+| [65535.12](#event-6553512) | 0x0128       |     14 |              4 |
+| [527](#event-527)          | 0x0136       |      1 |              1 |
+| [539](#event-539)          | 0x0137       |     14 |              6 |
+| [528](#event-528)          | 0x0145       |      1 |              1 |
+| [65535.13](#event-6553513) | 0x0146       |    115 |             15 |
+| [65535.14](#event-6553514) | 0x01B9       |     24 |              6 |
+| [529](#event-529)          | 0x01D1       |     29 |              7 |
+| [594](#event-594)          | 0x01EE       |      1 |              1 |
+| [774](#event-774)          | 0x01EF       |      7 |              2 |
+| [836](#event-836)          | 0x01F6       |      1 |              1 |
+| [65535.15](#event-6553515) | 0x01F7       |     14 |              4 |
+| [65535.16](#event-6553516) | 0x0205       |     24 |              6 |
+| [840](#event-840)          | 0x021D       |      1 |              1 |
+| [65535.17](#event-6553517) | 0x021E       |     14 |              4 |
+| [843](#event-843)          | 0x022C       |      1 |              1 |
+| [844](#event-844)          | 0x022D       |      6 |              4 |
+| [845](#event-845)          | 0x0233       |      1 |              1 |
+| [867](#event-867)          | 0x0234       |      7 |              2 |
 
 ## DAT References (imed_data)
 
@@ -112,6 +112,14 @@
 |      56 | 0xFFFE2BCD  |  4294847437 |
 |      57 | 0xFFFFE890  |  4294961296 |
 |      58 | 0x1C22      |        7202 |
+
+## String References
+
+- **5009**: Ekhu Pesshyadha has the $3. I have faith in you!t Go get 'em, [tiger/girl]!
+- **5055**: I wonder if the old lady's having any luck with the potion...
+- **5100**: Weird. I can't think of anything I want you to get for me! This is a first!
+- **5107**: That Zabahf guy is always hanging around herrre, so I might ask him to be my bodyguard again someday.
+- **7202**: I already told you! It was all an accident. If I could go back and change everything, I would, but I can't, so I won't!
 
 ## Events
 
@@ -269,7 +277,7 @@
   1: 0x004B [0x1C] WAIT(30* ticks)
   2: 0x004E [0x03] Work_Zone[2] = 772*
   3: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=5009*)
-    → "Ekhu Pesshyadha has the \u0001\u00053\u0002\u0000\u0000\u0000.\u0007I have faith in you!\u0001t Go get 'em, \u007F\u0005[tiger/girl]!\u007F1\u0000\u0007"
+    → "Ekhu Pesshyadha has the $3. I have faith in you!t Go get 'em, [tiger/girl]!"
   4: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0057 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
   6: 0x0066 [0x1C] WAIT(180* ticks)
@@ -456,7 +464,7 @@
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CE [0x1C] WAIT(30* ticks)
   2: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=5055*)
-    → "I wonder if the old lady's having any luck with the potion...\u007F1\u0000\u0007"
+    → "I wonder if the old lady's having any luck with the potion..."
   3: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00D5 [0x21] END_EVENT
   5: 0x00D6 [0x00] END_REQSTACK()
@@ -641,7 +649,7 @@
   0: 0x0137 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x013C [0x1C] WAIT(30* ticks)
   2: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=5100*)
-    → "Weird. I can't think of anything I want you to get for me! This is a first!\u007F1\u0000\u0007"
+    → "Weird. I can't think of anything I want you to get for me! This is a first!"
   3: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0143 [0x21] END_EVENT
   5: 0x0144 [0x00] END_REQSTACK()
@@ -765,7 +773,7 @@
   1: 0x01D6 [0x1C] WAIT(30* ticks)
   2: 0x01D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   3: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5107*)
-    → "That Zabahf guy is always hanging around herrre, so I might ask him to be my bodyguard again someday.\u007F1\u0000\u0007"
+    → "That Zabahf guy is always hanging around herrre, so I might ask him to be my bodyguard again someday."
   4: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01EC [0x21] END_EVENT
   6: 0x01ED [0x00] END_REQSTACK()
@@ -984,7 +992,7 @@
 
 ```
   0: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7202*)
-    → "I already told you! It was all an accident. If I could go back and change everything, I would, but I can't, so I won't!\u007F1\u0000\u0007"
+    → "I already told you! It was all an accident. If I could go back and change everything, I would, but I can't, so I won't!"
   1: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0231 [0x21] END_EVENT
   3: 0x0232 [0x00] END_REQSTACK()

@@ -1,0 +1,135 @@
+# 17977509 - Etched Rock
+
+## Common Data
+
+| Field            | Value                           |
+|------------------|---------------------------------|
+| Zone             | Reisenjima Sanctorium (ID: 293) |
+| Block Size       | 344 bytes                       |
+| Total Events     | 2                               |
+| References Count | 16                              |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [16](#event-16)       | 0x0001       |    254 |             30 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x1E27      |        7719 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x00C8      |         200 |
+|       4 | 0x001B      |          27 |
+|       5 | 0x3E32      |       15922 |
+|       6 | 0xFFFEA40C  |  4294878220 |
+|       7 | 0xFFFFE4A9  |  4294960297 |
+|       8 | 0x0413      |        1043 |
+|       9 | 0x0301      |         769 |
+|      10 | 0x000F      |          15 |
+|      11 | 0x00B0      |         176 |
+|      12 | 0x00B4      |         180 |
+|      13 | 0x00AD      |         173 |
+|      14 | 0x0046      |          70 |
+|      15 | 0x0014      |          20 |
+
+## String References
+
+- **7719**: Head outside? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 16
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 254 bytes |
+| Instructions | 30        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 01 10 00 80 24 01  80 02 80 00 80 25 02 00   .....$......%..
+0010: 10 00 80 00 FD 00 42 45  03 80 F0 FF FF 7F F0 FF  ......BE........
+0020: FF 7F 66 64 6F 31 00 80  55 03 80 F0 FF FF 7F F0  ..fdo1..U.......
+0030: FF FF 7F 66 64 6F 31 46  01 38 04 80 BA F0 FF FF  ...fdo1F.8......
+0040: 7F 05 80 06 80 07 80 08  80 80 F0 FF FF 7F 45 09  ..............E.
+0050: 80 F8 FF FF 7F F8 FF FF  7F 73 30 38 33 00 80 1C  .........s083...
+0060: 0A 80 45 03 80 F0 FF FF  7F F0 FF FF 7F 66 64 69  ..E..........fdi
+0070: 31 00 80 D0 0B 80 F8 FF  FF 7F F8 FF FF 7F 6D 61  1.............ma
+0080: 69 6E 00 80 1C 0C 80 52  09 80 F8 FF FF 7F F8 FF  in.....R........
+0090: FF 7F 73 30 38 33 45 09  80 F8 FF FF 7F F8 FF FF  ..s083E.........
+00A0: 7F 73 30 38 34 00 80 D0  0D 80 F0 FF FF 7F F0 FF  .s084...........
+00B0: FF 7F 73 30 30 30 00 80  1C 0E 80 92 01 F0 FF FF  ..s000..........
+00C0: 7F 1C 0F 80 45 03 80 F0  FF FF 7F F0 FF FF 7F 66  ....E..........f
+00D0: 64 6F 31 00 80 55 03 80  F0 FF FF 7F F0 FF FF 7F  do1..U..........
+00E0: 66 64 6F 31 52 09 80 F8  FF FF 7F F8 FF FF 7F 73  fdo1R..........s
+00F0: 30 38 34 46 00 03 01 10  02 80 01 FD 00 21 00     084F.........!. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] Work_Zone[1] = 0*
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7719*, default_option=1*, option_flags=0*)
+    → "Head outside? [Yes./No.]"
+  2: 0x000D [0x25] WAIT_DIALOG_SELECT()
+  3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FD
+  4: 0x0016 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  5: 0x0017 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  6: 0x0028 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+  7: 0x0037 [0x46] CAMERA_CONTROL: Disable user control
+  8: 0x0039 [0x38] SET_CLIENT_EVENT_MODE(mode=27*)
+  9: 0x003C [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=15.922*, pos_z=-89.076*, pos_y=-6.999*, direction=91.7°*)
+ 10: 0x0049 [0x80] LOAD_WAIT(entity=LocalPlayer)
+ 11: 0x004E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[769*, 0*]
+ 12: 0x005F [0x1C] WAIT(15* ticks)
+ 13: 0x0062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 14: 0x0073 [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "main" with entities [EventEntity, EventEntity], work=[176*, 0*]
+ 15: 0x0084 [0x1C] WAIT(180* ticks)
+ 16: 0x0087 [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=769*
+ 17: 0x0096 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[769*, 0*]
+ 18: 0x00A7 [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[173*, 0*]
+ 19: 0x00B8 [0x1C] WAIT(70* ticks)
+ 20: 0x00BB [0x92] LocalPlayer->Render.Flags3 ^= 0x01
+ 21: 0x00C1 [0x1C] WAIT(20* ticks)
+ 22: 0x00C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 23: 0x00D5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 24: 0x00E4 [0x52] END_LOAD_SCHEDULER: End scheduler "s084" with entities [EventEntity, EventEntity], work=769*
+ 25: 0x00F3 [0x46] CAMERA_CONTROL: Restore default settings
+ 26: 0x00F5 [0x03] Work_Zone[1] = 1*
+ 27: 0x00FA [0x01] GOTO 0x00FD
+
+SUBROUTINE_00FD:
+ 28: 0x00FD [0x21] END_EVENT
+ 29: 0x00FE [0x00] END_REQSTACK()
+```

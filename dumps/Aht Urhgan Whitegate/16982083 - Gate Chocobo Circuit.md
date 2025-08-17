@@ -28,6 +28,10 @@
 |       5 | 0x010C      |         268 |
 |       6 | 0x00B4      |         180 |
 
+## String References
+
+- **4602**: Visit the Chocobo Circuit? [Off to the races!/Not right now.]
+
 ## Events
 
 ### Event 65535
@@ -78,7 +82,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x24] CREATE_DIALOG(message_id=4602*, default_option=1*, option_flags=0*)
-    → "Visit the Chocobo Circuit?\u0007\u000BOff to the races!\u0007Not right now.\u007F1\u0000\u0007"
+    → "Visit the Chocobo Circuit? [Off to the races!/Not right now.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0044
   4: 0x0013 [0x42] SET_CLI_EVENT_CANCEL_DATA()

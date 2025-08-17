@@ -1,0 +1,168 @@
+# 17162707 - Ajen-Myoojen
+
+## Common Data
+
+| Field            | Value                        |
+|------------------|------------------------------|
+| Zone             | Windurst Waters [S] (ID: 94) |
+| Block Size       | 300 bytes                    |
+| Total Events     | 3                            |
+| References Count | 13                           |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [41](#event-41)       | 0x0001       |      1 |              1 |
+| [200](#event-200)     | 0x0002       |    217 |             41 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0031      |          49 |
+|       1 | 0x2A74      |       10868 |
+|       2 | 0x2A75      |       10869 |
+|       3 | 0x2A76      |       10870 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x0000      |           0 |
+|       6 | 0x00C8      |         200 |
+|       7 | 0x003C      |          60 |
+|       8 | 0x0013      |          19 |
+|       9 | 0x0317      |         791 |
+|      10 | 0x00D9      |         217 |
+|      11 | 0x005A      |          90 |
+|      12 | 0x00B4      |         180 |
+
+## String References
+
+- **10868**: Hold on there, [mister-wister/missie-wissie]! Do you know what's waiting on the other side of this gate for tenderific morsels like you, huh?
+- **10869**: Oh, you do now, do you? Well, it's your funeral...
+- **10870**: Exit to West Sarutabaruta? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 41
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 200
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0002    |
+| Data Size    | 217 bytes |
+| Instructions | 41        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       20 01 1E F0 FF FF  7F 6F 70 66 00 80 F8 FF     ......opf....
+0010: FF 7F F8 FF FF 7F 74 6C  6B 30 1D 01 80 23 1D 02  ......tlk0...#..
+0020: 80 23 53 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 5E  .#S........tlk0^
+0030: 69 64 6C 30 24 03 80 04  80 05 80 25 02 00 10 05  idl0$......%....
+0040: 80 00 C7 00 43 00 43 01  46 01 42 45 06 80 F0 FF  ....C.C.F.BE....
+0050: FF 7F F0 FF FF 7F 66 64  6F 31 05 80 1C 07 80 38  ......fdo1.....8
+0060: 08 80 4B F8 FF FF 7F 09  80 45 0A 80 F0 FF FF 7F  ..K......E......
+0070: F0 FF FF 7F 7A 39 34 61  05 80 29 01 F0 FF FF 7F  ....z94a..).....
+0080: 07 45 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 69 31  .E..........fdi1
+0090: 05 80 1C 07 80 27 01 D2  E1 05 01 02 1C 0B 80 27  .....'.........'
+00A0: 01 F0 FF FF 7F 08 1C 0C  80 45 06 80 F0 FF FF 7F  .........E......
+00B0: F0 FF FF 7F 66 64 6F 31  05 80 1C 07 80 03 01 10  ....fdo1........
+00C0: 04 80 46 00 01 D7 00 02  00 10 04 80 00 D7 00 03  ..F.............
+00D0: 01 10 05 80 01 D7 00 20  00 21 00                 ....... .!.     
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x000B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
+  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
+    → "Hold on there, [mister-wister/missie-wissie]! Do you know what's waiting on the other side of this gate for tenderific morsels like you, huh?"
+  6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
+    → "Oh, you do now, do you? Well, it's your funeral..."
+  8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0022 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
+ 10: 0x002F [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 11: 0x0034 [0x24] CREATE_DIALOG(message_id=10870*, default_option=1*, option_flags=0*)
+    → "Exit to West Sarutabaruta? [Yes./No.]"
+ 12: 0x003B [0x25] WAIT_DIALOG_SELECT()
+ 13: 0x003C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C7
+ 14: 0x0044 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 15: 0x0046 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 16: 0x0048 [0x46] CAMERA_CONTROL: Disable user control
+ 17: 0x004A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 18: 0x004B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 19: 0x005C [0x1C] WAIT(60* ticks)
+ 20: 0x005F [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 21: 0x0062 [0x4B] UPDATE_ENTITY_YAW(entity=EventEntity, yaw=4.3°*)
+ 22: 0x0069 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z94a" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
+ 23: 0x007A [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x07)
+ 24: 0x0081 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 25: 0x0092 [0x1C] WAIT(60* ticks)
+ 26: 0x0095 [0x27] REQ_SET(priority=0x01, entity_id=_2m2 (ID: 17162706/0x0105E1D2), tag_num=0x02)
+ 27: 0x009C [0x1C] WAIT(90* ticks)
+ 28: 0x009F [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x08)
+ 29: 0x00A6 [0x1C] WAIT(180* ticks)
+ 30: 0x00A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 31: 0x00BA [0x1C] WAIT(60* ticks)
+ 32: 0x00BD [0x03] Work_Zone[1] = 1*
+ 33: 0x00C2 [0x46] CAMERA_CONTROL: Restore default settings
+ 34: 0x00C4 [0x01] GOTO 0x00D7
+ 35: 0x00C7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D7
+ 36: 0x00CF [0x03] Work_Zone[1] = 0*
+ 37: 0x00D4 [0x01] GOTO 0x00D7
+
+SUBROUTINE_00D7:
+ 38: 0x00D7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 39: 0x00D9 [0x21] END_EVENT
+ 40: 0x00DA [0x00] END_REQSTACK()
+```

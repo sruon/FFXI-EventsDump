@@ -1,0 +1,597 @@
+# 17752276 - DoorAcolyte Hostel
+
+## Common Data
+
+| Field            | Value                     |
+|------------------|---------------------------|
+| Zone             | Windurst Waters (ID: 238) |
+| Block Size       | 1576 bytes                |
+| Total Events     | 2                         |
+| References Count | 30                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [805](#event-805)     | 0x0001       |   1428 |            294 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x2729      |       10025 |
+|       1 | 0x0008      |           8 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x0002      |           2 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x26EF      |        9967 |
+|       6 | 0x26F0      |        9968 |
+|       7 | 0x26F1      |        9969 |
+|       8 | 0x0003      |           3 |
+|       9 | 0x26F2      |        9970 |
+|      10 | 0x0004      |           4 |
+|      11 | 0x26F3      |        9971 |
+|      12 | 0x0005      |           5 |
+|      13 | 0x26F4      |        9972 |
+|      14 | 0x0006      |           6 |
+|      15 | 0x26F5      |        9973 |
+|      16 | 0x0007      |           7 |
+|      17 | 0x26F6      |        9974 |
+|      18 | 0x26F7      |        9975 |
+|      19 | 0x0009      |           9 |
+|      20 | 0x272B      |       10027 |
+|      21 | 0x00C8      |         200 |
+|      22 | 0x003C      |          60 |
+|      23 | 0x00D3      |         211 |
+|      24 | 0x272C      |       10028 |
+|      25 | 0x0096      |         150 |
+|      26 | 0x272D      |       10029 |
+|      27 | 0x272E      |       10030 |
+|      28 | 0x0064      |         100 |
+|      29 | 0x272A      |       10026 |
+
+## String References
+
+- **9967**: The San d'Orian Royal Knight general is... [Louverance./Curilla./Rahal.]
+- **9968**: The kid in N. San d'Oria is looking for... [Quemaricond./Exoroche./Ruillont.]
+- **9969**: The San d'Orian papsque is... [Shamonde D Grauche./Shamonde I Grauche./Shamonde P Grauche.]
+- **9970**: San d'Oria's younger prince is... [Pieuje./Peijue./Pueije.]
+- **9971**: Curilla's hair is covering... [her right eye./her left eye./both of her eyes.]
+- **9972**: The quarry of the great autumn hunt was... [a giant sheep./a giant boar./a giant chocobo.]
+- **9973**: The lost kid in San d'Oria wants... [$2./$3./$4.]
+- **9974**: The San d'Orian delivery boy's mom has... [Ghelsba-fever./Davoi-fever./Ronfaure-fever.]
+- **9975**: Prince Trion lost... [an entire army./an entire company./a San d'Orian ring.]
+- **10025**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
+- **10026**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10027**: YOU ARE RIGHT!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 805
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1428 bytes |
+| Instructions | 294        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 48 00 80 23 13 03  00 01 80 02 03 00 02 80   BH..#..........
+0010: 80 81 00 03 02 00 03 80  03 00 00 02 80 03 01 00  ................
+0020: 04 80 24 05 80 02 80 02  80 25 02 00 10 02 80 00  ..$......%......
+0030: 46 00 02 02 00 02 80 00  40 00 1A AB 04 01 43 00  F.......@.....C.
+0040: 1A 8B 05 01 7E 00 02 00  10 04 80 00 62 00 02 02  ....~.......b...
+0050: 00 04 80 00 5C 00 1A AB  04 01 5F 00 1A 8B 05 01  ....\....._.....
+0060: 7E 00 02 00 10 03 80 00  7E 00 02 02 00 03 80 00  ~.......~.......
+0070: 78 00 1A AB 04 01 7B 00  1A 8B 05 01 7E 00 01 A7  x.....{.....~...
+0080: 04 02 03 00 04 80 80 F7  00 03 02 00 04 80 03 00  ................
+0090: 00 02 80 03 01 00 03 80  24 06 80 02 80 02 80 25  ........$......%
+00A0: 02 00 10 02 80 00 BC 00  02 02 00 02 80 00 B6 00  ................
+00B0: 1A AB 04 01 B9 00 1A 8B  05 01 F4 00 02 00 10 04  ................
+00C0: 80 00 D8 00 02 02 00 04  80 00 D2 00 1A AB 04 01  ................
+00D0: D5 00 1A 8B 05 01 F4 00  02 00 10 03 80 00 F4 00  ................
+00E0: 02 02 00 03 80 00 EE 00  1A AB 04 01 F1 00 1A 8B  ................
+00F0: 05 01 F4 00 01 A7 04 02  03 00 03 80 80 6D 01 03  .............m..
+0100: 02 00 03 80 03 00 00 02  80 03 01 00 04 80 24 07  ..............$.
+0110: 80 02 80 02 80 25 02 00  10 02 80 00 32 01 02 02  .....%......2...
+0120: 00 02 80 00 2C 01 1A AB  04 01 2F 01 1A 8B 05 01  ....,...../.....
+0130: 6A 01 02 00 10 04 80 00  4E 01 02 02 00 04 80 00  j.......N.......
+0140: 48 01 1A AB 04 01 4B 01  1A 8B 05 01 6A 01 02 00  H.....K.....j...
+0150: 10 03 80 00 6A 01 02 02  00 03 80 00 64 01 1A AB  ....j.......d...
+0160: 04 01 67 01 1A 8B 05 01  6A 01 01 A7 04 02 03 00  ..g.....j.......
+0170: 08 80 80 E3 01 03 02 00  02 80 03 00 00 04 80 03  ................
+0180: 01 00 03 80 24 09 80 02  80 02 80 25 02 00 10 02  ....$......%....
+0190: 80 00 A8 01 02 02 00 02  80 00 A2 01 1A AB 04 01  ................
+01A0: A5 01 1A 8B 05 01 E0 01  02 00 10 04 80 00 C4 01  ................
+01B0: 02 02 00 04 80 00 BE 01  1A AB 04 01 C1 01 1A 8B  ................
+01C0: 05 01 E0 01 02 00 10 03  80 00 E0 01 02 02 00 03  ................
+01D0: 80 00 DA 01 1A AB 04 01  DD 01 1A 8B 05 01 E0 01  ................
+01E0: 01 A7 04 02 03 00 0A 80  80 59 02 03 02 00 04 80  .........Y......
+01F0: 03 00 00 02 80 03 01 00  03 80 24 0B 80 02 80 02  ..........$.....
+0200: 80 25 02 00 10 02 80 00  1E 02 02 02 00 02 80 00  .%..............
+0210: 18 02 1A AB 04 01 1B 02  1A 8B 05 01 56 02 02 00  ............V...
+0220: 10 04 80 00 3A 02 02 02  00 04 80 00 34 02 1A AB  ....:.......4...
+0230: 04 01 37 02 1A 8B 05 01  56 02 02 00 10 03 80 00  ..7.....V.......
+0240: 56 02 02 02 00 03 80 00  50 02 1A AB 04 01 53 02  V.......P.....S.
+0250: 1A 8B 05 01 56 02 01 A7  04 02 03 00 0C 80 80 CF  ....V...........
+0260: 02 03 02 00 02 80 03 00  00 04 80 03 01 00 03 80  ................
+0270: 24 0D 80 02 80 02 80 25  02 00 10 02 80 00 94 02  $......%........
+0280: 02 02 00 02 80 00 8E 02  1A AB 04 01 91 02 1A 8B  ................
+0290: 05 01 CC 02 02 00 10 04  80 00 B0 02 02 02 00 04  ................
+02A0: 80 00 AA 02 1A AB 04 01  AD 02 1A 8B 05 01 CC 02  ................
+02B0: 02 00 10 03 80 00 CC 02  02 02 00 03 80 00 C6 02  ................
+02C0: 1A AB 04 01 C9 02 1A 8B  05 01 CC 02 01 A7 04 02  ................
+02D0: 03 00 0E 80 80 45 03 03  02 00 04 80 03 00 00 02  .....E..........
+02E0: 80 03 01 00 03 80 24 0F  80 02 80 02 80 25 02 00  ......$......%..
+02F0: 10 02 80 00 0A 03 02 02  00 02 80 00 04 03 1A AB  ................
+0300: 04 01 07 03 1A 8B 05 01  42 03 02 00 10 04 80 00  ........B.......
+0310: 26 03 02 02 00 04 80 00  20 03 1A AB 04 01 23 03  &....... .....#.
+0320: 1A 8B 05 01 42 03 02 00  10 03 80 00 42 03 02 02  ....B.......B...
+0330: 00 03 80 00 3C 03 1A AB  04 01 3F 03 1A 8B 05 01  ....<.....?.....
+0340: 42 03 01 A7 04 02 03 00  10 80 80 BB 03 03 02 00  B...............
+0350: 04 80 03 00 00 02 80 03  01 00 03 80 24 11 80 02  ............$...
+0360: 80 02 80 25 02 00 10 02  80 00 80 03 02 02 00 02  ...%............
+0370: 80 00 7A 03 1A AB 04 01  7D 03 1A 8B 05 01 B8 03  ..z.....}.......
+0380: 02 00 10 04 80 00 9C 03  02 02 00 04 80 00 96 03  ................
+0390: 1A AB 04 01 99 03 1A 8B  05 01 B8 03 02 00 10 03  ................
+03A0: 80 00 B8 03 02 02 00 03  80 00 B2 03 1A AB 04 01  ................
+03B0: B5 03 1A 8B 05 01 B8 03  01 A7 04 02 03 00 01 80  ................
+03C0: 80 31 04 03 02 00 04 80  03 00 00 02 80 03 01 00  .1..............
+03D0: 03 80 24 12 80 02 80 02  80 25 02 00 10 02 80 00  ..$......%......
+03E0: F6 03 02 02 00 02 80 00  F0 03 1A AB 04 01 F3 03  ................
+03F0: 1A 8B 05 01 2E 04 02 00  10 04 80 00 12 04 02 02  ................
+0400: 00 04 80 00 0C 04 1A AB  04 01 0F 04 1A 8B 05 01  ................
+0410: 2E 04 02 00 10 03 80 00  2E 04 02 02 00 03 80 00  ................
+0420: 28 04 1A AB 04 01 2B 04  1A 8B 05 01 2E 04 01 A7  (.....+.........
+0430: 04 02 03 00 13 80 80 A7  04 03 02 00 03 80 03 00  ................
+0440: 00 02 80 03 01 00 04 80  24 05 80 02 80 02 80 25  ........$......%
+0450: 02 00 10 02 80 00 6C 04  02 02 00 02 80 00 66 04  ......l.......f.
+0460: 1A AB 04 01 69 04 1A 8B  05 01 A4 04 02 00 10 04  ....i...........
+0470: 80 00 88 04 02 02 00 04  80 00 82 04 1A AB 04 01  ................
+0480: 85 04 1A 8B 05 01 A4 04  02 00 10 03 80 00 A4 04  ................
+0490: 02 02 00 03 80 00 9E 04  1A AB 04 01 A1 04 1A 8B  ................
+04A0: 05 01 A4 04 01 A7 04 20  00 21 00 42 46 01 48 14  ....... .!.BF.H.
+04B0: 80 23 45 15 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  .#E..........fdo
+04C0: 31 02 80 1C 16 80 38 08  80 29 0B F0 FF FF 7F 49  1.....8..).....I
+04D0: 4E 00 DF E0 0E 01 80 DF  E0 0E 01 4A F0 FF FF 7F  N..........J....
+04E0: DF E0 0E 01 6F 76 F0 FF  FF 7F 45 17 80 F0 FF FF  ....ov....E.....
+04F0: 7F F0 FF FF 7F 73 30 38  38 02 80 45 15 80 F8 FF  .....s088..E....
+0500: FF 7F F8 FF FF 7F 66 64  69 31 02 80 2B DF E0 0E  ......fdi1..+...
+0510: 01 18 80 23 45 15 80 F8  FF FF 7F F8 FF FF 7F 66  ...#E..........f
+0520: 64 6F 31 02 80 1C 19 80  2B DF E0 0E 01 1A 80 23  do1.....+......#
+0530: 1C 19 80 55 17 80 F0 FF  FF 7F F0 FF FF 7F 73 30  ...U..........s0
+0540: 38 38 45 15 80 F8 FF FF  7F F8 FF FF 7F 66 64 69  88E..........fdi
+0550: 31 02 80 1C 16 80 2B DF  E0 0E 01 1B 80 23 45 15  1.....+......#E.
+0560: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 02 80 1C  .........fdo1...
+0570: 16 80 03 01 10 1C 80 46  00 45 15 80 F8 FF FF 7F  .......F.E......
+0580: F8 FF FF 7F 66 64 69 31  02 80 1B 03 01 10 02 80  ....fdi1........
+0590: 48 1D 80 23 1B                                    H..#.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x48] [System] [10025*]:
+    → "ARE YOU READY FOR THE QUIZ DE VANA'DIEL?"
+  2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x0006 [0x13] ExtData[1]->WorkLocal[3] = rand() % 8*
+  4: 0x000B [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0081
+  5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = 2*
+  6: 0x0018 [0x03] ExtData[1]->WorkLocal[0] = 0*
+  7: 0x001D [0x03] ExtData[1]->WorkLocal[1] = 1*
+  8: 0x0022 [0x24] CREATE_DIALOG(message_id=9967*, default_option=0*, option_flags=0*)
+    → "The San d'Orian Royal Knight general is... [Louverance./Curilla./Rahal.]"
+  9: 0x0029 [0x25] WAIT_DIALOG_SELECT()
+ 10: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
+ 11: 0x0032 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0040
+ 12: 0x003A [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 13: 0x003D [0x01] GOTO 0x0043
+ 14: 0x0040 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0043:
+ 15: 0x0043 [0x01] GOTO 0x007E
+ 16: 0x0046 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0062
+ 17: 0x004E [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x005C
+ 18: 0x0056 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 19: 0x0059 [0x01] GOTO 0x005F
+ 20: 0x005C [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_005F:
+ 21: 0x005F [0x01] GOTO 0x007E
+ 22: 0x0062 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x007E
+ 23: 0x006A [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0078
+ 24: 0x0072 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 25: 0x0075 [0x01] GOTO 0x007B
+ 26: 0x0078 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_007B:
+ 27: 0x007B [0x01] GOTO 0x007E
+
+SUBROUTINE_007E:
+ 28: 0x007E [0x01] GOTO 0x04A7
+ 29: 0x0081 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x00F7
+ 30: 0x0089 [0x03] ExtData[1]->WorkLocal[2] = 1*
+ 31: 0x008E [0x03] ExtData[1]->WorkLocal[0] = 0*
+ 32: 0x0093 [0x03] ExtData[1]->WorkLocal[1] = 2*
+ 33: 0x0098 [0x24] CREATE_DIALOG(message_id=9968*, default_option=0*, option_flags=0*)
+    → "The kid in N. San d'Oria is looking for... [Quemaricond./Exoroche./Ruillont.]"
+ 34: 0x009F [0x25] WAIT_DIALOG_SELECT()
+ 35: 0x00A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
+ 36: 0x00A8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00B6
+ 37: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 38: 0x00B3 [0x01] GOTO 0x00B9
+ 39: 0x00B6 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_00B9:
+ 40: 0x00B9 [0x01] GOTO 0x00F4
+ 41: 0x00BC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D8
+ 42: 0x00C4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x00D2
+ 43: 0x00CC [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 44: 0x00CF [0x01] GOTO 0x00D5
+ 45: 0x00D2 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_00D5:
+ 46: 0x00D5 [0x01] GOTO 0x00F4
+ 47: 0x00D8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00F4
+ 48: 0x00E0 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x00EE
+ 49: 0x00E8 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 50: 0x00EB [0x01] GOTO 0x00F1
+ 51: 0x00EE [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_00F1:
+ 52: 0x00F1 [0x01] GOTO 0x00F4
+
+SUBROUTINE_00F4:
+ 53: 0x00F4 [0x01] GOTO 0x04A7
+ 54: 0x00F7 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x016D
+ 55: 0x00FF [0x03] ExtData[1]->WorkLocal[2] = 2*
+ 56: 0x0104 [0x03] ExtData[1]->WorkLocal[0] = 0*
+ 57: 0x0109 [0x03] ExtData[1]->WorkLocal[1] = 1*
+ 58: 0x010E [0x24] CREATE_DIALOG(message_id=9969*, default_option=0*, option_flags=0*)
+    → "The San d'Orian papsque is... [Shamonde D Grauche./Shamonde I Grauche./Shamonde P Grauche.]"
+ 59: 0x0115 [0x25] WAIT_DIALOG_SELECT()
+ 60: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
+ 61: 0x011E [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x012C
+ 62: 0x0126 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 63: 0x0129 [0x01] GOTO 0x012F
+ 64: 0x012C [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_012F:
+ 65: 0x012F [0x01] GOTO 0x016A
+ 66: 0x0132 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x014E
+ 67: 0x013A [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0148
+ 68: 0x0142 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 69: 0x0145 [0x01] GOTO 0x014B
+ 70: 0x0148 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_014B:
+ 71: 0x014B [0x01] GOTO 0x016A
+ 72: 0x014E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x016A
+ 73: 0x0156 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0164
+ 74: 0x015E [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 75: 0x0161 [0x01] GOTO 0x0167
+ 76: 0x0164 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0167:
+ 77: 0x0167 [0x01] GOTO 0x016A
+
+SUBROUTINE_016A:
+ 78: 0x016A [0x01] GOTO 0x04A7
+ 79: 0x016D [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x01E3
+ 80: 0x0175 [0x03] ExtData[1]->WorkLocal[2] = 0*
+ 81: 0x017A [0x03] ExtData[1]->WorkLocal[0] = 1*
+ 82: 0x017F [0x03] ExtData[1]->WorkLocal[1] = 2*
+ 83: 0x0184 [0x24] CREATE_DIALOG(message_id=9970*, default_option=0*, option_flags=0*)
+    → "San d'Oria's younger prince is... [Pieuje./Peijue./Pueije.]"
+ 84: 0x018B [0x25] WAIT_DIALOG_SELECT()
+ 85: 0x018C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A8
+ 86: 0x0194 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x01A2
+ 87: 0x019C [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 88: 0x019F [0x01] GOTO 0x01A5
+ 89: 0x01A2 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_01A5:
+ 90: 0x01A5 [0x01] GOTO 0x01E0
+ 91: 0x01A8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01C4
+ 92: 0x01B0 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x01BE
+ 93: 0x01B8 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+ 94: 0x01BB [0x01] GOTO 0x01C1
+ 95: 0x01BE [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_01C1:
+ 96: 0x01C1 [0x01] GOTO 0x01E0
+ 97: 0x01C4 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01E0
+ 98: 0x01CC [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x01DA
+ 99: 0x01D4 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+100: 0x01D7 [0x01] GOTO 0x01DD
+101: 0x01DA [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_01DD:
+102: 0x01DD [0x01] GOTO 0x01E0
+
+SUBROUTINE_01E0:
+103: 0x01E0 [0x01] GOTO 0x04A7
+104: 0x01E3 [0x02] IF !(ExtData[1]->WorkLocal[3] == 4*) GOTO 0x0259
+105: 0x01EB [0x03] ExtData[1]->WorkLocal[2] = 1*
+106: 0x01F0 [0x03] ExtData[1]->WorkLocal[0] = 0*
+107: 0x01F5 [0x03] ExtData[1]->WorkLocal[1] = 2*
+108: 0x01FA [0x24] CREATE_DIALOG(message_id=9971*, default_option=0*, option_flags=0*)
+    → "Curilla's hair is covering... [her right eye./her left eye./both of her eyes.]"
+109: 0x0201 [0x25] WAIT_DIALOG_SELECT()
+110: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021E
+111: 0x020A [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0218
+112: 0x0212 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+113: 0x0215 [0x01] GOTO 0x021B
+114: 0x0218 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_021B:
+115: 0x021B [0x01] GOTO 0x0256
+116: 0x021E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x023A
+117: 0x0226 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0234
+118: 0x022E [0x1A] CALL_SUBROUTINE(address=0x04AB)
+119: 0x0231 [0x01] GOTO 0x0237
+120: 0x0234 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0237:
+121: 0x0237 [0x01] GOTO 0x0256
+122: 0x023A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0256
+123: 0x0242 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0250
+124: 0x024A [0x1A] CALL_SUBROUTINE(address=0x04AB)
+125: 0x024D [0x01] GOTO 0x0253
+126: 0x0250 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0253:
+127: 0x0253 [0x01] GOTO 0x0256
+
+SUBROUTINE_0256:
+128: 0x0256 [0x01] GOTO 0x04A7
+129: 0x0259 [0x02] IF !(ExtData[1]->WorkLocal[3] == 5*) GOTO 0x02CF
+130: 0x0261 [0x03] ExtData[1]->WorkLocal[2] = 0*
+131: 0x0266 [0x03] ExtData[1]->WorkLocal[0] = 1*
+132: 0x026B [0x03] ExtData[1]->WorkLocal[1] = 2*
+133: 0x0270 [0x24] CREATE_DIALOG(message_id=9972*, default_option=0*, option_flags=0*)
+    → "The quarry of the great autumn hunt was... [a giant sheep./a giant boar./a giant chocobo.]"
+134: 0x0277 [0x25] WAIT_DIALOG_SELECT()
+135: 0x0278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0294
+136: 0x0280 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x028E
+137: 0x0288 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+138: 0x028B [0x01] GOTO 0x0291
+139: 0x028E [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0291:
+140: 0x0291 [0x01] GOTO 0x02CC
+141: 0x0294 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02B0
+142: 0x029C [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x02AA
+143: 0x02A4 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+144: 0x02A7 [0x01] GOTO 0x02AD
+145: 0x02AA [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_02AD:
+146: 0x02AD [0x01] GOTO 0x02CC
+147: 0x02B0 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02CC
+148: 0x02B8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x02C6
+149: 0x02C0 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+150: 0x02C3 [0x01] GOTO 0x02C9
+151: 0x02C6 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_02C9:
+152: 0x02C9 [0x01] GOTO 0x02CC
+
+SUBROUTINE_02CC:
+153: 0x02CC [0x01] GOTO 0x04A7
+154: 0x02CF [0x02] IF !(ExtData[1]->WorkLocal[3] == 6*) GOTO 0x0345
+155: 0x02D7 [0x03] ExtData[1]->WorkLocal[2] = 1*
+156: 0x02DC [0x03] ExtData[1]->WorkLocal[0] = 0*
+157: 0x02E1 [0x03] ExtData[1]->WorkLocal[1] = 2*
+158: 0x02E6 [0x24] CREATE_DIALOG(message_id=9973*, default_option=0*, option_flags=0*)
+    → "The lost kid in San d'Oria wants... [$2./$3./$4.]"
+159: 0x02ED [0x25] WAIT_DIALOG_SELECT()
+160: 0x02EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x030A
+161: 0x02F6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0304
+162: 0x02FE [0x1A] CALL_SUBROUTINE(address=0x04AB)
+163: 0x0301 [0x01] GOTO 0x0307
+164: 0x0304 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0307:
+165: 0x0307 [0x01] GOTO 0x0342
+166: 0x030A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0326
+167: 0x0312 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0320
+168: 0x031A [0x1A] CALL_SUBROUTINE(address=0x04AB)
+169: 0x031D [0x01] GOTO 0x0323
+170: 0x0320 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0323:
+171: 0x0323 [0x01] GOTO 0x0342
+172: 0x0326 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0342
+173: 0x032E [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x033C
+174: 0x0336 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+175: 0x0339 [0x01] GOTO 0x033F
+176: 0x033C [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_033F:
+177: 0x033F [0x01] GOTO 0x0342
+
+SUBROUTINE_0342:
+178: 0x0342 [0x01] GOTO 0x04A7
+179: 0x0345 [0x02] IF !(ExtData[1]->WorkLocal[3] == 7*) GOTO 0x03BB
+180: 0x034D [0x03] ExtData[1]->WorkLocal[2] = 1*
+181: 0x0352 [0x03] ExtData[1]->WorkLocal[0] = 0*
+182: 0x0357 [0x03] ExtData[1]->WorkLocal[1] = 2*
+183: 0x035C [0x24] CREATE_DIALOG(message_id=9974*, default_option=0*, option_flags=0*)
+    → "The San d'Orian delivery boy's mom has... [Ghelsba-fever./Davoi-fever./Ronfaure-fever.]"
+184: 0x0363 [0x25] WAIT_DIALOG_SELECT()
+185: 0x0364 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0380
+186: 0x036C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x037A
+187: 0x0374 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+188: 0x0377 [0x01] GOTO 0x037D
+189: 0x037A [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_037D:
+190: 0x037D [0x01] GOTO 0x03B8
+191: 0x0380 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x039C
+192: 0x0388 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0396
+193: 0x0390 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+194: 0x0393 [0x01] GOTO 0x0399
+195: 0x0396 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0399:
+196: 0x0399 [0x01] GOTO 0x03B8
+197: 0x039C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03B8
+198: 0x03A4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x03B2
+199: 0x03AC [0x1A] CALL_SUBROUTINE(address=0x04AB)
+200: 0x03AF [0x01] GOTO 0x03B5
+201: 0x03B2 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_03B5:
+202: 0x03B5 [0x01] GOTO 0x03B8
+
+SUBROUTINE_03B8:
+203: 0x03B8 [0x01] GOTO 0x04A7
+204: 0x03BB [0x02] IF !(ExtData[1]->WorkLocal[3] == 8*) GOTO 0x0431
+205: 0x03C3 [0x03] ExtData[1]->WorkLocal[2] = 1*
+206: 0x03C8 [0x03] ExtData[1]->WorkLocal[0] = 0*
+207: 0x03CD [0x03] ExtData[1]->WorkLocal[1] = 2*
+208: 0x03D2 [0x24] CREATE_DIALOG(message_id=9975*, default_option=0*, option_flags=0*)
+    → "Prince Trion lost... [an entire army./an entire company./a San d'Orian ring.]"
+209: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
+210: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
+211: 0x03E2 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x03F0
+212: 0x03EA [0x1A] CALL_SUBROUTINE(address=0x04AB)
+213: 0x03ED [0x01] GOTO 0x03F3
+214: 0x03F0 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_03F3:
+215: 0x03F3 [0x01] GOTO 0x042E
+216: 0x03F6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0412
+217: 0x03FE [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x040C
+218: 0x0406 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+219: 0x0409 [0x01] GOTO 0x040F
+220: 0x040C [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_040F:
+221: 0x040F [0x01] GOTO 0x042E
+222: 0x0412 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x042E
+223: 0x041A [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0428
+224: 0x0422 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+225: 0x0425 [0x01] GOTO 0x042B
+226: 0x0428 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_042B:
+227: 0x042B [0x01] GOTO 0x042E
+
+SUBROUTINE_042E:
+228: 0x042E [0x01] GOTO 0x04A7
+229: 0x0431 [0x02] IF !(ExtData[1]->WorkLocal[3] == 9*) GOTO 0x04A7
+230: 0x0439 [0x03] ExtData[1]->WorkLocal[2] = 2*
+231: 0x043E [0x03] ExtData[1]->WorkLocal[0] = 0*
+232: 0x0443 [0x03] ExtData[1]->WorkLocal[1] = 1*
+233: 0x0448 [0x24] CREATE_DIALOG(message_id=9967*, default_option=0*, option_flags=0*)
+    → "The San d'Orian Royal Knight general is... [Louverance./Curilla./Rahal.]"
+234: 0x044F [0x25] WAIT_DIALOG_SELECT()
+235: 0x0450 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046C
+236: 0x0458 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0466
+237: 0x0460 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+238: 0x0463 [0x01] GOTO 0x0469
+239: 0x0466 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0469:
+240: 0x0469 [0x01] GOTO 0x04A4
+241: 0x046C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0488
+242: 0x0474 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0482
+243: 0x047C [0x1A] CALL_SUBROUTINE(address=0x04AB)
+244: 0x047F [0x01] GOTO 0x0485
+245: 0x0482 [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_0485:
+246: 0x0485 [0x01] GOTO 0x04A4
+247: 0x0488 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x04A4
+248: 0x0490 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x049E
+249: 0x0498 [0x1A] CALL_SUBROUTINE(address=0x04AB)
+250: 0x049B [0x01] GOTO 0x04A1
+251: 0x049E [0x1A] CALL_SUBROUTINE(address=0x058B)
+
+SUBROUTINE_04A1:
+252: 0x04A1 [0x01] GOTO 0x04A4
+
+SUBROUTINE_04A4:
+253: 0x04A4 [0x01] GOTO 0x04A7
+
+SUBROUTINE_04A7:
+254: 0x04A7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+255: 0x04A9 [0x21] END_EVENT
+256: 0x04AA [0x00] END_REQSTACK()
+
+SUBROUTINE_04AB:
+257: 0x04AB [0x42] SET_CLI_EVENT_CANCEL_DATA()
+258: 0x04AC [0x46] CAMERA_CONTROL: Disable user control
+259: 0x04AE [0x48] [System] [10027*]:
+    → "YOU ARE RIGHT!"
+260: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+261: 0x04B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+262: 0x04C3 [0x1C] WAIT(60* ticks)
+263: 0x04C6 [0x38] SET_CLIENT_EVENT_MODE(mode=3*)
+264: 0x04C9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x49)
+265: 0x04D0 [0x4E] SET_ENTITY_HIDE_FLAG: Show Talking Doll (ID: 17752287/0x010EE0DF)
+266: 0x04D6 [0x80] LOAD_WAIT(entity=Talking Doll (ID: 17752287/0x010EE0DF))
+267: 0x04DB [0x4A] LocalPlayer looks at Talking Doll (ID: 17752287/0x010EE0DF)
+268: 0x04E4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+269: 0x04E5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
+270: 0x04EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
+271: 0x04FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+272: 0x050C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10028*]:
+    → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
+273: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
+274: 0x0514 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+275: 0x0525 [0x1C] WAIT(150* ticks)
+276: 0x0528 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10029*]:
+    → "SEARCHING FOR $6... SEARCHING FOR $6..."
+277: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
+278: 0x0530 [0x1C] WAIT(150* ticks)
+279: 0x0533 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
+280: 0x0542 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+281: 0x0553 [0x1C] WAIT(60* ticks)
+282: 0x0556 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10030*]:
+    → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
+283: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
+284: 0x055E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+285: 0x056F [0x1C] WAIT(60* ticks)
+286: 0x0572 [0x03] Work_Zone[1] = 100*
+287: 0x0577 [0x46] CAMERA_CONTROL: Restore default settings
+288: 0x0579 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+289: 0x058A [0x1B] RETURN
+
+SUBROUTINE_058B:
+290: 0x058B [0x03] Work_Zone[1] = 0*
+291: 0x0590 [0x48] [System] [10026*]:
+    → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
+292: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
+293: 0x0594 [0x1B] RETURN
+```

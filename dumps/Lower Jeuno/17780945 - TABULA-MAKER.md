@@ -1,0 +1,193 @@
+# 17780945 - TABULA-MAKER
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Lower Jeuno (ID: 245) |
+| Block Size       | 348 bytes             |
+| Total Events     | 2                     |
+| References Count | 15                    |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [20003](#event-20003) | 0x0001       |    262 |             62 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x40000000  |  1073741824 |
+|       1 | 0x2636      |        9782 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x2637      |        9783 |
+|       5 | 0x2638      |        9784 |
+|       6 | 0x0020      |          32 |
+|       7 | 0x2639      |        9785 |
+|       8 | 0x263A      |        9786 |
+|       9 | 0x0040      |          64 |
+|      10 | 0x263B      |        9787 |
+|      11 | 0x0007      |           7 |
+|      12 | 0x0008      |           8 |
+|      13 | 0x000F      |          15 |
+|      14 | 0x0010      |          16 |
+
+## String References
+
+- **9782**: One spiffy Maze Tabula for you, comin' right up! So do ya wants an original or a copy? (Original=0, Copy=1)
+- **9783**: So ya wants [an original/a copy], right? [That's what I said./No, you idiot.]
+- **9784**: Enter the pattern number for your desired tabula. (0-31)
+- **9785**: So you want pattern number $0? [You betcha./Ehhhhh...no.]
+- **9786**: Now choose a theme for your maze. (0-64)
+- **9787**: You really want theme number $0? [Damn straight./Changed my mind.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 20003
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 262 bytes |
+| Instructions | 62        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 01 10 00 80 1D 01  80 23 06 02 10 71 10 02   ........#...q..
+0010: 80 71 11 02 10 02 02 10  03 80 04 2E 00 02 02 10  .q..............
+0020: 02 80 05 28 00 01 2B 00  01 06 00 01 31 00 01 06  ...(..+.....1...
+0030: 00 24 04 80 02 80 03 80  25 02 00 10 03 80 00 4C  .$......%......L
+0040: 00 03 00 00 02 10 06 02  10 01 4F 00 01 06 00 1D  ..........O.....
+0050: 05 80 23 06 02 10 71 10  02 80 71 11 02 10 02 02  ..#...q...q.....
+0060: 10 03 80 04 77 00 02 02  10 06 80 03 71 00 01 74  ....w.......q..t
+0070: 00 01 4F 00 01 7A 00 01  4F 00 24 07 80 02 80 03  ..O..z..O.$.....
+0080: 80 25 02 00 10 03 80 00  95 00 03 01 00 02 10 06  .%..............
+0090: 02 10 01 98 00 01 4F 00  1D 08 80 23 06 02 10 71  ......O....#...q
+00A0: 10 02 80 71 11 02 10 02  02 10 03 80 04 C0 00 02  ...q............
+00B0: 02 10 09 80 05 BA 00 01  BD 00 01 98 00 01 C3 00  ................
+00C0: 01 98 00 24 0A 80 02 80  03 80 25 02 00 10 03 80  ...$......%.....
+00D0: 00 DE 00 03 02 00 02 10  06 02 10 01 E1 00 01 98  ................
+00E0: 00 06 01 10 40 03 80 0B  80 01 10 01 00 40 0C 80  ....@........@..
+00F0: 0D 80 01 10 02 00 02 00  00 03 80 01 05 01 3C 01  ..............<.
+0100: 10 0E 80 02 80 21 00                              .....!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] Work_Zone[1] = 1073741824*
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=9782*)
+    → "One spiffy Maze Tabula for you, comin' right up! So do ya wants an original or a copy? (Original=0, Copy=1)"
+  2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x000A [0x06] Work_Zone[2] = 0
+  4: 0x000D [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+  5: 0x0011 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
+  6: 0x0015 [0x02] IF !(Work_Zone[2] < 0*) GOTO 0x002E
+  7: 0x001D [0x02] IF !(Work_Zone[2] > 1*) GOTO 0x0028
+  8: 0x0025 [0x01] GOTO 0x002B
+  9: 0x0028 [0x01] GOTO 0x0006
+
+SUBROUTINE_002B:
+ 10: 0x002B [0x01] GOTO 0x0031
+ 11: 0x002E [0x01] GOTO 0x0006
+
+SUBROUTINE_0031:
+ 12: 0x0031 [0x24] CREATE_DIALOG(message_id=9783*, default_option=1*, option_flags=0*)
+    → "So ya wants [an original/a copy], right? [That's what I said./No, you idiot.]"
+ 13: 0x0038 [0x25] WAIT_DIALOG_SELECT()
+ 14: 0x0039 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004C
+ 15: 0x0041 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+ 16: 0x0046 [0x06] Work_Zone[2] = 0
+ 17: 0x0049 [0x01] GOTO 0x004F
+ 18: 0x004C [0x01] GOTO 0x0006
+
+SUBROUTINE_004F:
+ 19: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
+    → "Enter the pattern number for your desired tabula. (0-31)"
+ 20: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 21: 0x0053 [0x06] Work_Zone[2] = 0
+ 22: 0x0056 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+ 23: 0x005A [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
+ 24: 0x005E [0x02] IF !(Work_Zone[2] < 0*) GOTO 0x0077
+ 25: 0x0066 [0x02] IF !(Work_Zone[2] >= 32*) GOTO 0x0071
+ 26: 0x006E [0x01] GOTO 0x0074
+ 27: 0x0071 [0x01] GOTO 0x004F
+
+SUBROUTINE_0074:
+ 28: 0x0074 [0x01] GOTO 0x007A
+ 29: 0x0077 [0x01] GOTO 0x004F
+
+SUBROUTINE_007A:
+ 30: 0x007A [0x24] CREATE_DIALOG(message_id=9785*, default_option=1*, option_flags=0*)
+    → "So you want pattern number $0? [You betcha./Ehhhhh...no.]"
+ 31: 0x0081 [0x25] WAIT_DIALOG_SELECT()
+ 32: 0x0082 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0095
+ 33: 0x008A [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
+ 34: 0x008F [0x06] Work_Zone[2] = 0
+ 35: 0x0092 [0x01] GOTO 0x0098
+ 36: 0x0095 [0x01] GOTO 0x004F
+
+SUBROUTINE_0098:
+ 37: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
+    → "Now choose a theme for your maze. (0-64)"
+ 38: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 39: 0x009C [0x06] Work_Zone[2] = 0
+ 40: 0x009F [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+ 41: 0x00A3 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
+ 42: 0x00A7 [0x02] IF !(Work_Zone[2] < 0*) GOTO 0x00C0
+ 43: 0x00AF [0x02] IF !(Work_Zone[2] > 64*) GOTO 0x00BA
+ 44: 0x00B7 [0x01] GOTO 0x00BD
+ 45: 0x00BA [0x01] GOTO 0x0098
+
+SUBROUTINE_00BD:
+ 46: 0x00BD [0x01] GOTO 0x00C3
+ 47: 0x00C0 [0x01] GOTO 0x0098
+
+SUBROUTINE_00C3:
+ 48: 0x00C3 [0x24] CREATE_DIALOG(message_id=9787*, default_option=1*, option_flags=0*)
+    → "You really want theme number $0? [Damn straight./Changed my mind.]"
+ 49: 0x00CA [0x25] WAIT_DIALOG_SELECT()
+ 50: 0x00CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DE
+ 51: 0x00D3 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
+ 52: 0x00D8 [0x06] Work_Zone[2] = 0
+ 53: 0x00DB [0x01] GOTO 0x00E1
+ 54: 0x00DE [0x01] GOTO 0x0098
+
+SUBROUTINE_00E1:
+ 55: 0x00E1 [0x06] Work_Zone[1] = 0
+ 56: 0x00E4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[1])
+ 57: 0x00ED [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+ 58: 0x00F6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0105
+ 59: 0x00FE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=16*, condition_work_offset=1*)
+ 60: 0x0105 [0x21] END_EVENT
+ 61: 0x0106 [0x00] END_REQSTACK()
+```

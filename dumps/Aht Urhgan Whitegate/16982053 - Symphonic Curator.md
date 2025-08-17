@@ -136,6 +136,18 @@
 |     113 | 0x0045      |          69 |
 |     114 | 0x0047      |          71 |
 
+## String References
+
+- **1316**: You may use one of the instruments in your Mog House to play a different tune.
+- **1317**: Play music from which instrument?
+- **1318**: Select an instrument. [None for now./#./$1./$2./$3.]
+- **1319**: Change to what song? [Don't change at all./Track: [???/Mog House/Awakening/Echoes of a Zephyr/Bustle of the Capital]./Track: [???/Vana'diel March/Belief/The Cosmic Wheel/Jeweled Boughs]./Track: [???/The Kingdom of San d'Oria/A Realm of Emptiness/The Destiny Destroyers/Bandits' Market]./Track: [???/Chateau d'Oraguille/Distant Worlds/Hume Male/Illusions in the Mist]./Track: [???/Ronfaure/Forever Today/Hume Female/Fighters of the Crystal]./Track: [???/The Republic of Bastok/Rhapsodies of Vana'diel/Elvaan Male/Selbina]./Track: [???/Metalworks/Awakening (FFRK Ver.)/Elvaan Female/Mhaura]./Track: [???/Gustaberg/Full Speed Ahead!/Tarutaru Male/#56]./Track: [???/The Federation of Windurst/The Celestial Capital - Al'Taieu/Tarutaru Female/#57]./Track: [???/Heavens Tower/The Grand Duchy of Jeuno/Mithra/#58]./Track: [???/Sarutabaruta/Ru'Lude Gardens/Galka/#59]./Track: [???/The Sacred City of Adoulin/Devils' Delight/Jeuno - Starlight Celebration -/#60]./Track: [???/The Pioneers/Griffons Never Die/Dash de Chocobo/#61]./Track: [???/Kazham/Thunder of the March/Circuit de Chocobo/#62]./Track: [???/The Sanctuary of Zi'Tah/Stargazing/Run Chocobo Run!/#63]./Track: [???/Tu'Lia/Autumn Footfalls/Choc-a-bye Baby/#64]./Previous page./Next page.]
+- **1320**: Change music? [Not now./Track: Selbina./Track: Fighters of the Crystal./Track: A New Horizon./Track: Ragnarok./Track: Clash of Standards./Track: Echoes of Creation./Track: Luck of the Mog./Track: Feast of the Ladies./Track: Abyssea./Track: Melodies Errant./Track: Ronfaure./Track: Autumn Footfalls./Track: Main Theme./Track: Mog House.]
+- **1321**: Change music? [Not now./Mog House./Distant Worlds.]
+- **1322**: Change music? [Not now./Mog House./The Pioneers.]
+- **1323**: Select this song? [Yes, this sounds splendid!/No, I've changed my tune.]
+- **1324**: This song cannot yet be played.
+
 ## Events
 
 ### Event 65535
@@ -321,7 +333,7 @@
   6: 0x0017 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[6]
   7: 0x001C [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[7]
   8: 0x0021 [0x48] [System] [1316*]:
-    → "You may use one of the instruments in your Mog House to play a different tune.\u007F1\u0000\u0007"
+    → "You may use one of the instruments in your Mog House to play a different tune."
   9: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0025 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 4*) GOTO 0x005C
  11: 0x002C [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 0*) GOTO 0x0036
@@ -347,7 +359,7 @@ SUBROUTINE_004A:
 SUBROUTINE_0059:
  26: 0x0059 [0x01] GOTO 0x010E
  27: 0x005C [0x48] [System] [1317*]:
-    → "Play music from which instrument?\u0000\u0007"
+    → "Play music from which instrument?"
  28: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0060 [0x06] ExtData[1]->WorkLocal[5] = 0
  30: 0x0063 [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -361,7 +373,7 @@ SUBROUTINE_0066:
  36: 0x0082 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[8]
  37: 0x0087 [0x10] ExtData[1]->WorkLocal[6] <<= 1*
  38: 0x008C [0x24] CREATE_DIALOG(message_id=1318*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[6])
-    → "Select an instrument.\u0007\u000BNone for now.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u007F1\u0000\u0007"
+    → "Select an instrument. [None for now./#./$1./$2./$3.]"
  39: 0x0093 [0x25] WAIT_DIALOG_SELECT()
  40: 0x0094 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C6
  41: 0x009C [0x05] ExtData[1]->WorkLocal[5] = 1
@@ -404,8 +416,7 @@ SUBROUTINE_0119:
  68: 0x0121 [0x06] ExtData[1]->WorkLocal[2] = 0
  69: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0474)
  70: 0x0127 [0x24] CREATE_DIALOG(message_id=1319*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[6])
-    → "Change to what song?\u0007\u000BDon't change at all.\u0007Track: \u000C\u0001[???/Mog House/Awakening/Echoes of a Zephyr/Bustle of the Capital].\u0007Track: \u000C\u0002[???/Vana'diel March/Belief/The Cosmic Wheel/Jeweled Boughs].\u0007Track: \u000C\u0003[???/The Kingdom of San d'Oria/A Realm of Emptiness/The Destiny Destroyers/Bandits' Market].\u0007Track: \u000C\u0004[???/Chateau d'Oraguille/Distant Worlds/Hume Male/Illusions in the Mist].\u0007Track: \u000C\u0005[???/Ronfaure/Forever Today/Hume Female/Fighters of the Crystal].\u0007Track: \u000C\u0006[???/The Republic of Bastok/Rhapsodies of Vana'diel/Elvaan Male/Selbina].\u0007Track: \u000C\u0007[???/Metalworks/Awakening (FFRK Ver.)/Elvaan Female/Mhaura].\u0007Track: \u000C\u0008[???/Gustaberg/Full Speed Ahead!/Tarutaru Male/#56].\u0007Track: \u000C	[???/The Federation of Windurst/The Celestial Capital - Al'Taieu/Tarutaru Female/#57].\u0007Track: \u000C
-[???/Heavens Tower/The Grand Duchy of Jeuno/Mithra/#58].\u0007Track: \u000C\u000B[???/Sarutabaruta/Ru'Lude Gardens/Galka/#59].\u0007Track: \u000C\u000C[???/The Sacred City of Adoulin/Devils' Delight/Jeuno - Starlight Celebration -/#60].\u0007Track: \u000C[???/The Pioneers/Griffons Never Die/Dash de Chocobo/#61].\u0007Track: \u000C\u000E[???/Kazham/Thunder of the March/Circuit de Chocobo/#62].\u0007Track: \u000C\u000F[???/The Sanctuary of Zi'Tah/Stargazing/Run Chocobo Run!/#63].\u0007Track: \u000C\u0010[???/Tu'Lia/Autumn Footfalls/Choc-a-bye Baby/#64].\u0007Previous page.\u0007Next page.\u007F1\u0000\u0007"
+    → "Change to what song? [Don't change at all./Track: [???/Mog House/Awakening/Echoes of a Zephyr/Bustle of the Capital]./Track: [???/Vana'diel March/Belief/The Cosmic Wheel/Jeweled Boughs]./Track: [???/The Kingdom of San d'Oria/A Realm of Emptiness/The Destiny Destroyers/Bandits' Market]./Track: [???/Chateau d'Oraguille/Distant Worlds/Hume Male/Illusions in the Mist]./Track: [???/Ronfaure/Forever Today/Hume Female/Fighters of the Crystal]./Track: [???/The Republic of Bastok/Rhapsodies of Vana'diel/Elvaan Male/Selbina]./Track: [???/Metalworks/Awakening (FFRK Ver.)/Elvaan Female/Mhaura]./Track: [???/Gustaberg/Full Speed Ahead!/Tarutaru Male/#56]./Track: [???/The Federation of Windurst/The Celestial Capital - Al'Taieu/Tarutaru Female/#57]./Track: [???/Heavens Tower/The Grand Duchy of Jeuno/Mithra/#58]./Track: [???/Sarutabaruta/Ru'Lude Gardens/Galka/#59]./Track: [???/The Sacred City of Adoulin/Devils' Delight/Jeuno - Starlight Celebration -/#60]./Track: [???/The Pioneers/Griffons Never Die/Dash de Chocobo/#61]./Track: [???/Kazham/Thunder of the March/Circuit de Chocobo/#62]./Track: [???/The Sanctuary of Zi'Tah/Stargazing/Run Chocobo Run!/#63]./Track: [???/Tu'Lia/Autumn Footfalls/Choc-a-bye Baby/#64]./Previous page./Next page.]"
  71: 0x012E [0x25] WAIT_DIALOG_SELECT()
  72: 0x012F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0164
  73: 0x0137 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=0*)
@@ -444,7 +455,7 @@ SUBROUTINE_01A4:
 104: 0x01DB [0x05] ExtData[1]->WorkLocal[12] = 1
 105: 0x01DE [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x01ED
 106: 0x01E6 [0x48] [System] [1324*]:
-    → "This song cannot yet be played.\u0000\u0007"
+    → "This song cannot yet be played."
 107: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x01EA [0x01] GOTO 0x023C
 109: 0x01ED [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
@@ -453,7 +464,7 @@ SUBROUTINE_01A4:
 112: 0x0201 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 113: 0x0203 [0x06] Work_Zone[1] = 0
 114: 0x0206 [0x24] CREATE_DIALOG(message_id=1323*, default_option=1*, option_flags=0*)
-    → "Select this song?\u0007\u000BYes, this sounds splendid!\u0007No, I've changed my tune.\u007F1\u0000\u0007"
+    → "Select this song? [Yes, this sounds splendid!/No, I've changed my tune.]"
 115: 0x020D [0x25] WAIT_DIALOG_SELECT()
 116: 0x020E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0231
 117: 0x0216 [0x05] ExtData[1]->WorkLocal[4] = 1
@@ -478,7 +489,7 @@ SUBROUTINE_0249:
 130: 0x0251 [0x06] ExtData[1]->WorkLocal[2] = 0
 131: 0x0254 [0x1A] CALL_SUBROUTINE(address=0x055D)
 132: 0x0257 [0x24] CREATE_DIALOG(message_id=1320*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[6])
-    → "Change music?\u0007\u000BNot now.\u0007Track: Selbina.\u0007Track: Fighters of the Crystal.\u0007Track: A New Horizon.\u0007Track: Ragnarok.\u0007Track: Clash of Standards.\u0007Track: Echoes of Creation.\u0007Track: Luck of the Mog.\u0007Track: Feast of the Ladies.\u0007Track: Abyssea.\u0007Track: Melodies Errant.\u0007Track: Ronfaure.\u0007Track: Autumn Footfalls.\u0007Track: Main Theme.\u0007Track: Mog House.\u007F1\u0000\u0007"
+    → "Change music? [Not now./Track: Selbina./Track: Fighters of the Crystal./Track: A New Horizon./Track: Ragnarok./Track: Clash of Standards./Track: Echoes of Creation./Track: Luck of the Mog./Track: Feast of the Ladies./Track: Abyssea./Track: Melodies Errant./Track: Ronfaure./Track: Autumn Footfalls./Track: Main Theme./Track: Mog House.]"
 133: 0x025E [0x25] WAIT_DIALOG_SELECT()
 134: 0x025F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0294
 135: 0x0267 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=0*)
@@ -500,7 +511,7 @@ SUBROUTINE_0294:
 149: 0x02BD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 150: 0x02BF [0x06] Work_Zone[1] = 0
 151: 0x02C2 [0x24] CREATE_DIALOG(message_id=1323*, default_option=1*, option_flags=0*)
-    → "Select this song?\u0007\u000BYes, this sounds splendid!\u0007No, I've changed my tune.\u007F1\u0000\u0007"
+    → "Select this song? [Yes, this sounds splendid!/No, I've changed my tune.]"
 152: 0x02C9 [0x25] WAIT_DIALOG_SELECT()
 153: 0x02CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02ED
 154: 0x02D2 [0x05] ExtData[1]->WorkLocal[4] = 1
@@ -525,7 +536,7 @@ SUBROUTINE_0305:
 167: 0x030D [0x06] ExtData[1]->WorkLocal[2] = 0
 168: 0x0310 [0x1A] CALL_SUBROUTINE(address=0x05B4)
 169: 0x0313 [0x24] CREATE_DIALOG(message_id=1321*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[6])
-    → "Change music?\u0007\u000BNot now.\u0007Mog House.\u0007Distant Worlds.\u007F1\u0000\u0007"
+    → "Change music? [Not now./Mog House./Distant Worlds.]"
 170: 0x031A [0x25] WAIT_DIALOG_SELECT()
 171: 0x031B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0350
 172: 0x0323 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=0*)
@@ -547,7 +558,7 @@ SUBROUTINE_0350:
 186: 0x0379 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 187: 0x037B [0x06] Work_Zone[1] = 0
 188: 0x037E [0x24] CREATE_DIALOG(message_id=1323*, default_option=1*, option_flags=0*)
-    → "Select this song?\u0007\u000BYes, this sounds splendid!\u0007No, I've changed my tune.\u007F1\u0000\u0007"
+    → "Select this song? [Yes, this sounds splendid!/No, I've changed my tune.]"
 189: 0x0385 [0x25] WAIT_DIALOG_SELECT()
 190: 0x0386 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A9
 191: 0x038E [0x05] ExtData[1]->WorkLocal[4] = 1
@@ -572,7 +583,7 @@ SUBROUTINE_03C1:
 204: 0x03C9 [0x06] ExtData[1]->WorkLocal[2] = 0
 205: 0x03CC [0x1A] CALL_SUBROUTINE(address=0x060B)
 206: 0x03CF [0x24] CREATE_DIALOG(message_id=1322*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[6])
-    → "Change music?\u0007\u000BNot now.\u0007Mog House.\u0007The Pioneers.\u007F1\u0000\u0007"
+    → "Change music? [Not now./Mog House./The Pioneers.]"
 207: 0x03D6 [0x25] WAIT_DIALOG_SELECT()
 208: 0x03D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x040C
 209: 0x03DF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=0*)
@@ -594,7 +605,7 @@ SUBROUTINE_040C:
 223: 0x0435 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 224: 0x0437 [0x06] Work_Zone[1] = 0
 225: 0x043A [0x24] CREATE_DIALOG(message_id=1323*, default_option=1*, option_flags=0*)
-    → "Select this song?\u0007\u000BYes, this sounds splendid!\u0007No, I've changed my tune.\u007F1\u0000\u0007"
+    → "Select this song? [Yes, this sounds splendid!/No, I've changed my tune.]"
 226: 0x0441 [0x25] WAIT_DIALOG_SELECT()
 227: 0x0442 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0465
 228: 0x044A [0x05] ExtData[1]->WorkLocal[4] = 1

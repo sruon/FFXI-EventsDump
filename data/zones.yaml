@@ -1,6 +1,6 @@
 zones:
   - id: 0
-    name: "unknown"
+    name: "Beta"
     files:
       entities: "ROM3/2/110.DAT"
       events: "ROM3/0/66.DAT"
@@ -392,7 +392,7 @@ zones:
       strings_na: "ROM4/0/121.DAT"
 
   - id: 49
-    name: "Test"
+    name: "Test Grid"
     files:
       entities: "ROM4/1/48.DAT"
       events: "ROM4/0/54.DAT"
@@ -1598,7 +1598,7 @@ zones:
       strings_na: "ROM/25/7.DAT"
 
   - id: 199
-    name: "unnamed"
+    name: "Residential Area - WoTG"
     files:
       entities: "ROM/27/8.DAT"
       events: "ROM/21/8.DAT"
@@ -1686,7 +1686,7 @@ zones:
       strings_na: "ROM2/18/14.DAT"
 
   - id: 210
-    name: "unnamed"
+    name: "GM_Home"
     files:
       entities: "ROM/27/19.DAT"
       events: "ROM/21/19.DAT"
@@ -1718,7 +1718,7 @@ zones:
       strings_na: "ROM2/18/18.DAT"
 
   - id: 214
-    name: "unnamed"
+    name: "Residential Area - ToAU"
     files:
       entities: "ROM/27/23.DAT"
       events: "ROM/21/23.DAT"
@@ -1758,7 +1758,7 @@ zones:
       strings_na: "ROM/25/27.DAT"
 
   - id: 219
-    name: "unnamed"
+    name: "Residential Area - SOA"
     files:
       entities: "ROM/27/28.DAT"
       events: "ROM/21/28.DAT"
@@ -2292,14 +2292,6 @@ zones:
       events: "ROM/306/56.DAT"
       strings_jp: "ROM/306/57.DAT"
       strings_na: "ROM/306/58.DAT"
-
-  - id: 286
-    name: "unnamed"
-    files:
-      entities: null
-      events: null
-      strings_jp: null
-      strings_na: null
 
   - id: 287
     name: "Maquette Abdhaljs-LegionB"

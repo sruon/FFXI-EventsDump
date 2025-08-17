@@ -1,0 +1,194 @@
+# 17175315 - Iron Portcullis
+
+## Common Data
+
+| Field            | Value                              |
+|------------------|------------------------------------|
+| Zone             | Meriphataud Mountains [S] (ID: 97) |
+| Block Size       | 232 bytes                          |
+| Total Events     | 5                                  |
+| References Count | 7                                  |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [104](#event-104)        | 0x0001       |    156 |             30 |
+| [4](#event-4)            | 0x009D       |      1 |              1 |
+| [65535.1](#event-655351) | 0x009E       |      5 |              3 |
+| [65535.2](#event-655352) | 0x00A3       |      5 |              3 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1E2F      |        7727 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x00C8      |         200 |
+|       4 | 0x003C      |          60 |
+|       5 | 0x0013      |          19 |
+|       6 | 0x00D9      |         217 |
+
+## String References
+
+- **7727**: Enter Castle Oztroja? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 104
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 156 bytes |
+| Instructions | 30        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 24 00 80 01 80  02 80 25 02 00 10 02 80    .$......%.....
+0010: 00 89 00 43 00 43 01 42  46 01 45 03 80 F0 FF FF  ...C.C.BF.E.....
+0020: 7F F0 FF FF 7F 66 64 6F  31 02 80 1C 04 80 38 05  .....fdo1.....8.
+0030: 80 45 06 80 F0 FF FF 7F  F0 FF FF 7F 7A 39 37 61  .E..........z97a
+0040: 02 80 29 01 F0 FF FF 7F  05 45 03 80 F0 FF FF 7F  ..)......E......
+0050: F0 FF FF 7F 66 64 69 31  02 80 1C 04 80 4C 1C 04  ....fdi1.....L..
+0060: 80 27 01 F0 FF FF 7F 06  1C 04 80 45 03 80 F0 FF  .'.........E....
+0070: FF 7F F0 FF FF 7F 66 64  6F 31 02 80 1C 04 80 03  ......fdo1......
+0080: 01 10 01 80 46 00 01 99  00 02 00 10 01 80 00 99  ....F...........
+0090: 00 03 01 10 02 80 01 99  00 20 00 21 00           ......... .!.   
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7727*, default_option=1*, option_flags=0*)
+    → "Enter Castle Oztroja? [Yes./No.]"
+  2: 0x000A [0x25] WAIT_DIALOG_SELECT()
+  3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0089
+  4: 0x0013 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  5: 0x0015 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  6: 0x0017 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  7: 0x0018 [0x46] CAMERA_CONTROL: Disable user control
+  8: 0x001A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  9: 0x002B [0x1C] WAIT(60* ticks)
+ 10: 0x002E [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 11: 0x0031 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z97a" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
+ 12: 0x0042 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x05)
+ 13: 0x0049 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 14: 0x005A [0x1C] WAIT(60* ticks)
+ 15: 0x005D [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 16: 0x005E [0x1C] WAIT(60* ticks)
+ 17: 0x0061 [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x06)
+ 18: 0x0068 [0x1C] WAIT(60* ticks)
+ 19: 0x006B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 20: 0x007C [0x1C] WAIT(60* ticks)
+ 21: 0x007F [0x03] Work_Zone[1] = 1*
+ 22: 0x0084 [0x46] CAMERA_CONTROL: Restore default settings
+ 23: 0x0086 [0x01] GOTO 0x0099
+ 24: 0x0089 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0099
+ 25: 0x0091 [0x03] Work_Zone[1] = 0*
+ 26: 0x0096 [0x01] GOTO 0x0099
+
+SUBROUTINE_0099:
+ 27: 0x0099 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 28: 0x009B [0x21] END_EVENT
+ 29: 0x009C [0x00] END_REQSTACK()
+```
+
+### Event 4
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x009D  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0090:                                         00                     .  
+```
+
+#### Opcodes
+
+```
+  0: 0x009D [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x009E  |
+| Data Size    | 5 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0090:                                            4C 1C                L.
+00A0: 04 80 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x009E [0x4C] EventEntity->StatusEvent = 8 // Open door
+  1: 0x009F [0x1C] WAIT(60* ticks)
+  2: 0x00A2 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x00A3  |
+| Data Size    | 5 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00A0:          4D 1C 04 80 00                              M....        
+```
+
+#### Opcodes
+
+```
+  0: 0x00A3 [0x4D] EventEntity->StatusEvent = 9 // Close door
+  1: 0x00A4 [0x1C] WAIT(60* ticks)
+  2: 0x00A7 [0x00] END_REQSTACK()
+```

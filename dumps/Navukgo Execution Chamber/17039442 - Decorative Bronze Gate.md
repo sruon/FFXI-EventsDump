@@ -1,0 +1,145 @@
+# 17039442 - Decorative Bronze Gate
+
+## Common Data
+
+| Field            | Value                              |
+|------------------|------------------------------------|
+| Zone             | Navukgo Execution Chamber (ID: 64) |
+| Block Size       | 76 bytes                           |
+| Total Events     | 5                                  |
+| References Count | 3                                  |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [32000](#event-32000)    | 0x0001       |      1 |              1 |
+| [100](#event-100)        | 0x0002       |      2 |              2 |
+| [101](#event-101)        | 0x0004       |      2 |              2 |
+| [65535.1](#event-655351) | 0x0006       |     21 |              3 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00B4      |         180 |
+|       1 | 0x00C8      |         200 |
+|       2 | 0x0000      |           0 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 32000
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 100
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0002  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       4C 00                                         L.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x4C] EventEntity->StatusEvent = 8 // Open door
+  1: 0x0003 [0x00] END_REQSTACK()
+```
+
+### Event 101
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0004  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:             4D 00                                     M.          
+```
+
+#### Opcodes
+
+```
+  0: 0x0004 [0x4D] EventEntity->StatusEvent = 9 // Close door
+  1: 0x0005 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0006   |
+| Data Size    | 21 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                   1C 00  80 45 01 80 F0 FF FF 7F        ...E......
+0010: F0 FF FF 7F 66 64 6F 31  02 80 00                 ....fdo1...     
+```
+
+#### Opcodes
+
+```
+  0: 0x0006 [0x1C] WAIT(180* ticks)
+  1: 0x0009 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  2: 0x001A [0x00] END_REQSTACK()
+```

@@ -1,0 +1,94 @@
+# 17105266 - Lurouillat
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Southern San d'Oria [S] (ID: 80) |
+| Block Size       | 64 bytes                         |
+| Total Events     | 2                                |
+| References Count | 4                                |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [350](#event-350)     | 0x0001       |     23 |             11 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x3560      |       13664 |
+|       1 | 0x3561      |       13665 |
+|       2 | 0x3562      |       13666 |
+|       3 | 0x3563      |       13667 |
+
+## String References
+
+- **13664**: You, there. Have you happened to come into possession of any sealed containers in your crossings with the beastmen?
+- **13665**: Some of our bravest soldiers have recently been bringing back a number of such containers following successful invasions of beastman strongholds. Our hope was that within they would contain some sensitive intel we could exploit. Only, upon returning, all those who came in contact with these containers began to die off inexplicably, one after the other.
+- **13666**: At present, the Allied Forces are treating these as cases of assassination by the Beastman Confederate elite. It would seem they are willing to go to any length to prevent the contents of these containers from being made known.
+- **13667**: Should you happen to get your hands on any such container, it is imperative that you bring it back here with all haste and turn it in to an agent.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 350
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 23 bytes |
+| Instructions | 11       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    1E F0 FF FF 7F 1D 00  80 23 1D 01 80 23 1D 02   ........#...#..
+0010: 80 23 1D 03 80 23 21 00                           .#...#!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=13664*)
+    → "You, there. Have you happened to come into possession of any sealed containers in your crossings with the beastmen?"
+  2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=13665*)
+    → "Some of our bravest soldiers have recently been bringing back a number of such containers following successful invasions of beastman strongholds. Our hope was that within they would contain some sensitive intel we could exploit. Only, upon returning, all those who came in contact with these containers began to die off inexplicably, one after the other."
+  4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=13666*)
+    → "At present, the Allied Forces are treating these as cases of assassination by the Beastman Confederate elite. It would seem they are willing to go to any length to prevent the contents of these containers from being made known."
+  6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=13667*)
+    → "Should you happen to get your hands on any such container, it is imperative that you bring it back here with all haste and turn it in to an agent."
+  8: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0016 [0x21] END_EVENT
+ 10: 0x0017 [0x00] END_REQSTACK()
+```

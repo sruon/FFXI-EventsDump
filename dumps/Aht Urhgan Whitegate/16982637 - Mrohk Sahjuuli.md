@@ -160,6 +160,55 @@
 |     130 | 0x007B      |         123 |
 |     131 | 0x007C      |         124 |
 
+## String References
+
+- **14239**: Hi there, [tomcat/pussycat].
+- **14240**: You look trrrustworthy enough. Got a minute to spare?
+- **14241**: %bp$P157+\\7)H Listen to her? [I like where this is going./Get me away from her!]
+- **14242**: Did I rrrub you the wrong way? Oh well, come back when you set your fur straight.
+- **14243**: Want me to whispurrr some sweet nothings in your ear?
+- **14244**: That's the arrrdor I was looking for!
+- **14245**: Then it's time to talk about the undersea rrruins of Alzadaal that lie at the western edge of the Arrradjiah Continent. In other words, around here. Stop me if you've already heard about it and the rrremnants that dot the landscapes within.
+- **14246**: Do you know of the remnants? [Yes, so stop right there./No, please tell me more.]
+- **14247**: That's exactly what I wanted to hear! (My eyes, they're grrreat at picking out capable adventurers.)
+- **14248**: No...? Have you been living under a rrrock all these years!? (I can't believe my eyes would fail me for this fool.)
+- **14249**: Let's get you up to speed before you become a cat's paw. There are four remnants within the Ruins of Alzadaal: Zhayolm, Arrapago, Bhaflau, and Silver Sea.
+- **14250**: Some fat cats thought they collected all they could long ago and abandoned the rrremnants, but there's still lots more to salvage down there.
+- **14251**: Here's an example of what you can dig up in the rrruins. I'd been searrrching all over the realm for it!
+- **14252**: I like your face, [loverboy/pretty girl], so I'll let you in on a little secret. People have found certain pieces of equipment that rrresonate with these artifacts. If you find any, show them to me and I'll sweeten your kitty.
+- **14253**: Oh...but let's keep this a secrrret from Ghanraam, shall we? Otherwise I'll tear your throat out and leave it on my master's doorstep!
+- **14254**: You brrrought one! I always knew you had a killer instinct. Now, how about I keep it warm for you?
+- **14255**: Hand it over? [Might as well./I'd rather not.]
+- **14256**: Thanks! I'll make sure to keep it in purrrfect condition for you!
+- **14257**: Fine, I rrrespect that you don't want to live under the cat's foot...but see if I ever take anything you bring me again!
+- **14258**: $1 more $0 for me--er, you? Alrrright then.
+- **14260**: My, my, my, look what the cat dragged in. I'd be happy to rrreconstruct this for you...under one condition.
+- **14261**: I prrromise I won't leave any marks...so what do you say?
+- **14262**: Agree to her terms? [I've no other choice./Never!]
+- **14263**: Good kitty! Now, I'll need a few $0 to get this prrrocess started.
+- **14264**: To rrrestore $1, you'll need to bring me $2 $0 . Oh, and I'll also be taking $4 $0$3 as compensation for my suffering. Got it?
+- **14265**: Also...you didn't happen to rrreceive anything from that scumbag Ghanraam, did you? Well, there's more than one way to skin a cat--if you did, things are going to get a little prrricey.
+- **14266**: Don't go down without a fight! Oh, and can I have all your materrrials if you die?
+- **14269**: It's prrrobably not the cat's meow, but it's good enough, right?
+- **14270**: Exchange items? [Yes./No.]
+- **14271**: Thanks!
+- **14272**: Here's your rrreward, sugarpelt. I didn't want to keep you waiting, so I prrrepared one in advance.
+- **14273**: Brrring some more when you have the time!
+- **14274**: Brrring some more when you have the time! (And don't you dare breathe a word of this to Ghanrrraam!)
+- **14276**: They say that knowledge is power, so how about I overrrpower you with some knowledge, precious paws?
+- **14277**: About what do you wish to know? [Plan stock numbers./Ker armor./Sigyn armor./Omodaka armor./Nabu armor./Fea armor./Ares +1 armor./Skadi +1 armor./Usukane +1 armor./Marduk +1 armor./Morrigan +1 armor./Nothing.]
+- **14278**: Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]
+- **14279**: What do you want to check? [%./$1./$2./$3./$4./None of these./None, I'm done.]
+- **14280**: I've got my paws on $1 $0 .
+- **14281**: For this, I rrrequire...$0 and $2 $0$0 . Also, I'll need $4 $0$3 as compensation for my suffering.
+- **14282**: For this, I rrrequire...$0, $1, and $3 $0 . Also, I'll need $5 $0$4 as compensation for my suffering.
+- **14283**: Don't keep me waiting for too long, lover[boy/girl]. And I know my precious <Player> would never betrrray me, but don't go to Ghanraam if you like your head attached to your neck!
+- **14284**: What do you want frrrom me?
+- **14285**: What do you want from her? [Show me what can be salvaged!/Nothing whatsoever.]
+- **14286**: You can find these thrrroughout the four remnants. Don't forrrget about the equipment they can modify, either.
+- **14287**: Can't you count!? I said brrring me $1 $0! All the money and equipment in the world won't matter if you don't have the prrroper amount of $0!
+- **14288**: These plans are all grrreat and all, but where's the equipment with which to synthesize them?
+
 ## Events
 
 ### Event 65535
@@ -249,45 +298,45 @@
   4: 0x0011 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0060
   5: 0x0019 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
   6: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=14239*)
-    → "Hi there, \u007F\u0005[tomcat/pussycat].\u007F1\u0000\u0007"
+    → "Hi there, [tomcat/pussycat]."
   7: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
   9: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  10: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=14240*)
-    → "You look trrrustworthy enough. Got a minute to spare?\u007F1\u0000\u0007"
+    → "You look trrrustworthy enough. Got a minute to spare?"
  11: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x004E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  13: 0x005D [0x01] GOTO 0x0082
  14: 0x0060 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  15: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=14243*)
-    → "Want me to whispurrr some sweet nothings in your ear?\u007F1\u0000\u0007"
+    → "Want me to whispurrr some sweet nothings in your ear?"
  16: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0073 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 
 SUBROUTINE_0082:
  18: 0x0082 [0x24] CREATE_DIALOG(message_id=14241*, default_option=0*, option_flags=0*)
-    → "\u0018b\u0002p\u00157\u0002+\u0002\\u00027\u0002)\u0001H\u0007Listen to her?\u0007\u000BI like where this is going.\u0007Get me away from her!\u007F1\u0000\u0007"
+    → "%bp$P157+\7)H Listen to her? [I like where this is going./Get me away from her!]"
  19: 0x0089 [0x25] WAIT_DIALOG_SELECT()
  20: 0x008A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0253
  21: 0x0092 [0x6E] EventEntity uses emote 11*
  22: 0x0099 [0x99] Wait for EventEntity animation to complete
  23: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=14244*)
-    → "That's the arrrdor I was looking for!\u007F1\u0000\u0007"
+    → "That's the arrrdor I was looking for!"
  24: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00A2 [0x99] Wait for EventEntity animation to complete
  26: 0x00A7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  27: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14245*)
-    → "Then it's time to talk about the undersea rrruins of Alzadaal that lie at the western edge of the Arrradjiah Continent. In other words, around here.\u0007Stop me if you've already heard about it and the rrremnants that dot the landscapes within.\u007F1\u0000\u0007"
+    → "Then it's time to talk about the undersea rrruins of Alzadaal that lie at the western edge of the Arrradjiah Continent. In other words, around here. Stop me if you've already heard about it and the rrremnants that dot the landscapes within."
  28: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  30: 0x00C9 [0x24] CREATE_DIALOG(message_id=14246*, default_option=0*, option_flags=0*)
-    → "Do you know of the remnants?\u0007\u000BYes, so stop right there.\u0007No, please tell me more.\u007F1\u0000\u0007"
+    → "Do you know of the remnants? [Yes, so stop right there./No, please tell me more.]"
  31: 0x00D0 [0x25] WAIT_DIALOG_SELECT()
  32: 0x00D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0177
  33: 0x00D9 [0x6E] EventEntity uses emote 7*
  34: 0x00E0 [0x99] Wait for EventEntity animation to complete
  35: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14247*)
-    → "That's exactly what I wanted to hear!\u0007(My eyes, they're grrreat at picking out capable adventurers.)\u007F1\u0000\u0007"
+    → "That's exactly what I wanted to hear! (My eyes, they're grrreat at picking out capable adventurers.)"
  36: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00E9 [0x99] Wait for EventEntity animation to complete
  38: 0x00EE [0x03] Work_Zone[2] = 1*
@@ -311,16 +360,16 @@ SUBROUTINE_0082:
 SUBROUTINE_013E:
  55: 0x013E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
  56: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=14251*)
-    → "Here's an example of what you can dig up in the rrruins. I'd been searrrching all over the realm for it!\u007F1\u0000\u0007"
+    → "Here's an example of what you can dig up in the rrruins. I'd been searrrching all over the realm for it!"
  57: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0151 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  59: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=14252*)
-    → "I like your face, \u007F\u0005[loverboy/pretty girl], so I'll let you in on a little secret.\u0007People have found certain pieces of equipment that rrresonate with these artifacts. If you find any, show them to me and I'll sweeten your kitty.\u007F1\u0000\u0007"
+    → "I like your face, [loverboy/pretty girl], so I'll let you in on a little secret. People have found certain pieces of equipment that rrresonate with these artifacts. If you find any, show them to me and I'll sweeten your kitty."
  60: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0158 [0x6E] EventEntity uses emote 8*
  62: 0x015F [0x99] Wait for EventEntity animation to complete
  63: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=14253*)
-    → "Oh...but let's keep this a secrrret from Ghanraam, shall we? Otherwise I'll tear your throat out and leave it on my master's doorstep!\u007F1\u0000\u0007"
+    → "Oh...but let's keep this a secrrret from Ghanraam, shall we? Otherwise I'll tear your throat out and leave it on my master's doorstep!"
  64: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0168 [0x99] Wait for EventEntity animation to complete
  66: 0x016D [0x03] Work_Zone[1] = 2*
@@ -330,16 +379,16 @@ SUBROUTINE_013E:
 SUBROUTINE_0217:
  69: 0x0217 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
  70: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=14251*)
-    → "Here's an example of what you can dig up in the rrruins. I'd been searrrching all over the realm for it!\u007F1\u0000\u0007"
+    → "Here's an example of what you can dig up in the rrruins. I'd been searrrching all over the realm for it!"
  71: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x022A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  73: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=14252*)
-    → "I like your face, \u007F\u0005[loverboy/pretty girl], so I'll let you in on a little secret.\u0007People have found certain pieces of equipment that rrresonate with these artifacts. If you find any, show them to me and I'll sweeten your kitty.\u007F1\u0000\u0007"
+    → "I like your face, [loverboy/pretty girl], so I'll let you in on a little secret. People have found certain pieces of equipment that rrresonate with these artifacts. If you find any, show them to me and I'll sweeten your kitty."
  74: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0231 [0x6E] EventEntity uses emote 8*
  76: 0x0238 [0x99] Wait for EventEntity animation to complete
  77: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=14253*)
-    → "Oh...but let's keep this a secrrret from Ghanraam, shall we? Otherwise I'll tear your throat out and leave it on my master's doorstep!\u007F1\u0000\u0007"
+    → "Oh...but let's keep this a secrrret from Ghanraam, shall we? Otherwise I'll tear your throat out and leave it on my master's doorstep!"
  78: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0241 [0x99] Wait for EventEntity animation to complete
  80: 0x0246 [0x03] Work_Zone[1] = 2*
@@ -352,7 +401,7 @@ SUBROUTINE_0250:
  85: 0x025B [0x6E] EventEntity uses emote 19*
  86: 0x0262 [0x99] Wait for EventEntity animation to complete
  87: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=14242*)
-    → "Did I rrrub you the wrong way? Oh well, come back when you set your fur straight.\u007F1\u0000\u0007"
+    → "Did I rrrub you the wrong way? Oh well, come back when you set your fur straight."
  88: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x026B [0x99] Wait for EventEntity animation to complete
  90: 0x0270 [0x03] Work_Zone[1] = 1*
@@ -411,10 +460,10 @@ SUBROUTINE_027A:
   2: 0x0282 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0287 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   4: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=14284*)
-    → "What do you want frrrom me?\u007F1\u0000\u0007"
+    → "What do you want frrrom me?"
   5: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x029A [0x24] CREATE_DIALOG(message_id=14285*, default_option=1*, option_flags=0*)
-    → "What do you want from her?\u0007\u000BShow me what can be salvaged!\u0007Nothing whatsoever.\u007F1\u0000\u0007"
+    → "What do you want from her? [Show me what can be salvaged!/Nothing whatsoever.]"
   7: 0x02A1 [0x25] WAIT_DIALOG_SELECT()
   8: 0x02A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x031D
   9: 0x02AA [0x13] ExtData[1]->WorkLocal[0] = rand() % 4*
@@ -438,7 +487,7 @@ SUBROUTINE_02F5:
  25: 0x02F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  26: 0x0304 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
  27: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=14286*)
-    → "You can find these thrrroughout the four remnants.\u0007Don't forrrget about the equipment they can modify, either.\u007F1\u0000\u0007"
+    → "You can find these thrrroughout the four remnants. Don't forrrget about the equipment they can modify, either."
  28: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0317 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  30: 0x031A [0x01] GOTO 0x031D
@@ -447,7 +496,7 @@ SUBROUTINE_031D:
  31: 0x031D [0x6E] EventEntity uses emote 8*
  32: 0x0324 [0x99] Wait for EventEntity animation to complete
  33: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=14283*)
-    → "Don't keep me waiting for too long, lover\u007F\u0005[boy/girl].\u0007And I know my precious \u0008 would never betrrray me, but don't go to Ghanraam if you like your head attached to your neck!\u007F1\u0000\u0007"
+    → "Don't keep me waiting for too long, lover[boy/girl]. And I know my precious <Player> would never betrrray me, but don't go to Ghanraam if you like your head attached to your neck!"
  34: 0x032C [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x032D [0x99] Wait for EventEntity animation to complete
  36: 0x0332 [0x03] Work_Zone[1] = 0*
@@ -488,18 +537,18 @@ SUBROUTINE_031D:
   3: 0x0344 [0x6E] EventEntity uses emote 11*
   4: 0x034B [0x99] Wait for EventEntity animation to complete
   5: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=14254*)
-    → "You brrrought one! I always knew you had a killer instinct.\u0007Now, how about I keep it warm for you?\u007F1\u0000\u0007"
+    → "You brrrought one! I always knew you had a killer instinct. Now, how about I keep it warm for you?"
   6: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0354 [0x99] Wait for EventEntity animation to complete
   8: 0x0359 [0x24] CREATE_DIALOG(message_id=14255*, default_option=0*, option_flags=0*)
-    → "Hand it over?\u0007\u000BMight as well.\u0007I'd rather not.\u007F1\u0000\u0007"
+    → "Hand it over? [Might as well./I'd rather not.]"
   9: 0x0360 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0361 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0389
  11: 0x0369 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  12: 0x036A [0x6E] EventEntity uses emote 11*
  13: 0x0371 [0x99] Wait for EventEntity animation to complete
  14: 0x0376 [0x1D] PRINT_EVENT_MESSAGE(message_id=14256*)
-    → "Thanks! I'll make sure to keep it in purrrfect condition for you!\u007F1\u0000\u0007"
+    → "Thanks! I'll make sure to keep it in purrrfect condition for you!"
  15: 0x0379 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x037A [0x99] Wait for EventEntity animation to complete
  17: 0x037F [0x03] Work_Zone[1] = 10*
@@ -545,8 +594,7 @@ SUBROUTINE_03B0:
   3: 0x03BD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x03BE [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   5: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14258*)
-    → "
-\u0001 more \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000 for me--er, you? Alrrright then.\u007F1\u0000\u0007"
+    → "$1 more $0 for me--er, you? Alrrright then."
   6: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03C7 [0x03] Work_Zone[1] = 0*
   8: 0x03CC [0x21] END_EVENT
@@ -592,19 +640,19 @@ SUBROUTINE_03B0:
   3: 0x03D9 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0406
   4: 0x03E1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   5: 0x03F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14260*)
-    → "My, my, my, look what the cat dragged in. I'd be happy to rrreconstruct this for you...under one condition.\u007F1\u0000\u0007"
+    → "My, my, my, look what the cat dragged in. I'd be happy to rrreconstruct this for you...under one condition."
   6: 0x03F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
   8: 0x0403 [0x01] GOTO 0x0428
   9: 0x0406 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  10: 0x0415 [0x1D] PRINT_EVENT_MESSAGE(message_id=14261*)
-    → "I prrromise I won't leave any marks...so what do you say?\u007F1\u0000\u0007"
+    → "I prrromise I won't leave any marks...so what do you say?"
  11: 0x0418 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0419 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 
 SUBROUTINE_0428:
  13: 0x0428 [0x24] CREATE_DIALOG(message_id=14262*, default_option=0*, option_flags=0*)
-    → "Agree to her terms?\u0007\u000BI've no other choice.\u0007Never!\u007F1\u0000\u0007"
+    → "Agree to her terms? [I've no other choice./Never!]"
  14: 0x042F [0x25] WAIT_DIALOG_SELECT()
  15: 0x0430 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0484
  16: 0x0438 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -612,21 +660,19 @@ SUBROUTINE_0428:
  18: 0x0440 [0x99] Wait for EventEntity animation to complete
  19: 0x0445 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  20: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=14263*)
-    → "Good kitty!\u0007Now, I'll need a few \u0001\u0005%\u0002\u0000\u0000\u0000 to get this prrrocess started.\u007F1\u0000\u0007"
+    → "Good kitty! Now, I'll need a few $0 to get this prrrocess started."
  21: 0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0458 [0x99] Wait for EventEntity animation to complete
  23: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=14264*)
-    → "To rrrestore \u0001\u0001\u0001 \u0001\u0005$\u0002\u0001\u0000\u0000, you'll need to bring me 
-\u0002 \u0001	)\u0002\u0002\u0000\u0000\u0002\u0000\u0000\u0000.\u0007Oh, and I'll also be taking 
-\u0004 \u0001	)\u0002\u0004\u0000\u0000\u0002\u0003\u0000\u0000 as compensation for my suffering. Got it?\u007F1\u0000\u0007"
+    → "To rrrestore $1, you'll need to bring me $2 $0 . Oh, and I'll also be taking $4 $0$3 as compensation for my suffering. Got it?"
  24: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=14265*)
-    → "Also...you didn't happen to rrreceive anything from that scumbag Ghanraam, did you?\u0007Well, there's more than one way to skin a cat--if you did, things are going to get a little prrricey.\u007F1\u0000\u0007"
+    → "Also...you didn't happen to rrreceive anything from that scumbag Ghanraam, did you? Well, there's more than one way to skin a cat--if you did, things are going to get a little prrricey."
  26: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0465 [0x6E] EventEntity uses emote 8*
  28: 0x046C [0x99] Wait for EventEntity animation to complete
  29: 0x0471 [0x1D] PRINT_EVENT_MESSAGE(message_id=14266*)
-    → "Don't go down without a fight!\u0007Oh, and can I have all your materrrials if you die?\u007F1\u0000\u0007"
+    → "Don't go down without a fight! Oh, and can I have all your materrrials if you die?"
  30: 0x0474 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0475 [0x99] Wait for EventEntity animation to complete
  32: 0x047A [0x03] Work_Zone[1] = 5*
@@ -681,31 +727,31 @@ SUBROUTINE_04AB:
   3: 0x04B8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   4: 0x04BD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
   5: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14269*)
-    → "It's prrrobably not the cat's meow, but it's good enough, right?\u007F1\u0000\u0007"
+    → "It's prrrobably not the cat's meow, but it's good enough, right?"
   6: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x04C4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
   8: 0x04C7 [0x24] CREATE_DIALOG(message_id=14270*, default_option=1*, option_flags=0*)
-    → "Exchange items?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Exchange items? [Yes./No.]"
   9: 0x04CE [0x25] WAIT_DIALOG_SELECT()
  10: 0x04CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x051D
  11: 0x04D7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  12: 0x04D8 [0x6E] EventEntity uses emote 11*
  13: 0x04DF [0x99] Wait for EventEntity animation to complete
  14: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14271*)
-    → "Thanks!\u007F1\u0000\u0007"
+    → "Thanks!"
  15: 0x04E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x04E8 [0x99] Wait for EventEntity animation to complete
  17: 0x04ED [0x1D] PRINT_EVENT_MESSAGE(message_id=14272*)
-    → "Here's your rrreward, sugarpelt. I didn't want to keep you waiting, so I prrrepared one in advance.\u007F1\u0000\u0007"
+    → "Here's your rrreward, sugarpelt. I didn't want to keep you waiting, so I prrrepared one in advance."
  18: 0x04F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x04F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  20: 0x0500 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x050F
  21: 0x0508 [0x1D] PRINT_EVENT_MESSAGE(message_id=14273*)
-    → "Brrring some more when you have the time!\u007F1\u0000\u0007"
+    → "Brrring some more when you have the time!"
  22: 0x050B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x050C [0x01] GOTO 0x0513
  24: 0x050F [0x1D] PRINT_EVENT_MESSAGE(message_id=14274*)
-    → "Brrring some more when you have the time!\u0007(And don't you dare breathe a word of this to Ghanrrraam!)\u007F1\u0000\u0007"
+    → "Brrring some more when you have the time! (And don't you dare breathe a word of this to Ghanrrraam!)"
  25: 0x0512 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0513:
@@ -753,8 +799,7 @@ SUBROUTINE_0544:
   3: 0x0551 [0x6E] EventEntity uses emote 32*
   4: 0x0558 [0x99] Wait for EventEntity animation to complete
   5: 0x055D [0x1D] PRINT_EVENT_MESSAGE(message_id=14287*)
-    → "Can't you count!? I said brrring me 
-\u0001 \u0001\u0005%\u0002\u0000\u0000\u0000!\u0007All the money and equipment in the world won't matter if you don't have the prrroper amount of \u0001\u0005%\u0002\u0000\u0000\u0000!\u007F1\u0000\u0007"
+    → "Can't you count!? I said brrring me $1 $0! All the money and equipment in the world won't matter if you don't have the prrroper amount of $0!"
   6: 0x0560 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0561 [0x99] Wait for EventEntity animation to complete
   8: 0x0566 [0x03] Work_Zone[1] = 7*
@@ -1080,7 +1125,7 @@ SUBROUTINE_0544:
   2: 0x0573 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0578 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   4: 0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=14276*)
-    → "They say that knowledge is power, so how about I overrrpower you with some knowledge, precious paws?\u007F1\u0000\u0007"
+    → "They say that knowledge is power, so how about I overrrpower you with some knowledge, precious paws?"
   5: 0x058A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x058B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
   7: 0x059A [0x03] ExtData[1]->WorkLocal[8] = 0*
@@ -1098,7 +1143,7 @@ SUBROUTINE_0544:
 
 SUBROUTINE_05D9:
  19: 0x05D9 [0x24] CREATE_DIALOG(message_id=14277*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[8])
-    → "About what do you wish to know?\u0007\u000BPlan stock numbers.\u0007Ker armor.\u0007Sigyn armor.\u0007Omodaka armor.\u0007Nabu armor.\u0007Fea armor.\u0007Ares +1 armor.\u0007Skadi +1 armor.\u0007Usukane +1 armor.\u0007Marduk +1 armor.\u0007Morrigan +1 armor.\u0007Nothing.\u007F1\u0000\u0007"
+    → "About what do you wish to know? [Plan stock numbers./Ker armor./Sigyn armor./Omodaka armor./Nabu armor./Fea armor./Ares +1 armor./Skadi +1 armor./Usukane +1 armor./Marduk +1 armor./Morrigan +1 armor./Nothing.]"
  20: 0x05E0 [0x25] WAIT_DIALOG_SELECT()
  21: 0x05E1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0773
  22: 0x05E9 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -1109,7 +1154,7 @@ SUBROUTINE_05EE:
  25: 0x05F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  26: 0x05F7 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[8]
  27: 0x05FC [0x24] CREATE_DIALOG(message_id=14279*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[8])
-    → "What do you want to check?\u0007\u000B\u007F\u0000\u0001\u0001\u0005%\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005%\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005%\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005%\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005%\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "What do you want to check? [%./$1./$2./$3./$4./None of these./None, I'm done.]"
  28: 0x0603 [0x25] WAIT_DIALOG_SELECT()
  29: 0x0604 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0642
  30: 0x060C [0x03] Work_Zone[1] = 20*
@@ -1117,8 +1162,7 @@ SUBROUTINE_05EE:
  32: 0x0613 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  33: 0x0615 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  34: 0x0624 [0x1D] PRINT_EVENT_MESSAGE(message_id=14280*)
-    → "I've got my paws on 
-\u0001 \u0001	)\u0002\u0001\u0000\u0000\u0002\u0000\u0000\u0000.\u007F1\u0000\u0007"
+    → "I've got my paws on $1 $0 ."
  35: 0x0627 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0628 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  37: 0x0637 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -1134,7 +1178,7 @@ SUBROUTINE_0780:
  43: 0x0785 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  44: 0x0787 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  45: 0x0789 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
  46: 0x0790 [0x25] WAIT_DIALOG_SELECT()
  47: 0x0791 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07D5
  48: 0x0799 [0x03] Work_Zone[1] = 125*
@@ -1143,9 +1187,7 @@ SUBROUTINE_0780:
  51: 0x07A2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
  52: 0x07A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  53: 0x07B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14281*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000 and 
-\u0002 \u0001	)\u0002\u0002\u0000\u0000\u0002\u0001\u0000\u0000. Also, I'll need 
-\u0004 \u0001	)\u0002\u0004\u0000\u0000\u0002\u0003\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0 and $2 $0$0 . Also, I'll need $4 $0$3 as compensation for my suffering."
  54: 0x07B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x07B8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  56: 0x07C7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1162,7 +1204,7 @@ SUBROUTINE_091F:
  63: 0x0924 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  64: 0x0926 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  65: 0x0928 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
  66: 0x092F [0x25] WAIT_DIALOG_SELECT()
  67: 0x0930 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0974
  68: 0x0938 [0x03] Work_Zone[1] = 130*
@@ -1171,9 +1213,7 @@ SUBROUTINE_091F:
  71: 0x0941 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
  72: 0x0944 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  73: 0x0953 [0x1D] PRINT_EVENT_MESSAGE(message_id=14281*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000 and 
-\u0002 \u0001	)\u0002\u0002\u0000\u0000\u0002\u0001\u0000\u0000. Also, I'll need 
-\u0004 \u0001	)\u0002\u0004\u0000\u0000\u0002\u0003\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0 and $2 $0$0 . Also, I'll need $4 $0$3 as compensation for my suffering."
  74: 0x0956 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0957 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  76: 0x0966 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1190,7 +1230,7 @@ SUBROUTINE_0ABE:
  83: 0x0AC3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  84: 0x0AC5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  85: 0x0AC7 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
  86: 0x0ACE [0x25] WAIT_DIALOG_SELECT()
  87: 0x0ACF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B13
  88: 0x0AD7 [0x03] Work_Zone[1] = 135*
@@ -1199,9 +1239,7 @@ SUBROUTINE_0ABE:
  91: 0x0AE0 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
  92: 0x0AE3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  93: 0x0AF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14281*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000 and 
-\u0002 \u0001	)\u0002\u0002\u0000\u0000\u0002\u0001\u0000\u0000. Also, I'll need 
-\u0004 \u0001	)\u0002\u0004\u0000\u0000\u0002\u0003\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0 and $2 $0$0 . Also, I'll need $4 $0$3 as compensation for my suffering."
  94: 0x0AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0AF6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  96: 0x0B05 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1218,7 +1256,7 @@ SUBROUTINE_0C5D:
 103: 0x0C62 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 104: 0x0C64 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 105: 0x0C66 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
 106: 0x0C6D [0x25] WAIT_DIALOG_SELECT()
 107: 0x0C6E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CB2
 108: 0x0C76 [0x03] Work_Zone[1] = 140*
@@ -1227,9 +1265,7 @@ SUBROUTINE_0C5D:
 111: 0x0C7F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
 112: 0x0C82 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
 113: 0x0C91 [0x1D] PRINT_EVENT_MESSAGE(message_id=14281*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000 and 
-\u0002 \u0001	)\u0002\u0002\u0000\u0000\u0002\u0001\u0000\u0000. Also, I'll need 
-\u0004 \u0001	)\u0002\u0004\u0000\u0000\u0002\u0003\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0 and $2 $0$0 . Also, I'll need $4 $0$3 as compensation for my suffering."
 114: 0x0C94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x0C95 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 116: 0x0CA4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1246,7 +1282,7 @@ SUBROUTINE_0DFC:
 123: 0x0E01 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 124: 0x0E03 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 125: 0x0E05 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
 126: 0x0E0C [0x25] WAIT_DIALOG_SELECT()
 127: 0x0E0D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E51
 128: 0x0E15 [0x03] Work_Zone[1] = 145*
@@ -1255,9 +1291,7 @@ SUBROUTINE_0DFC:
 131: 0x0E1E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
 132: 0x0E21 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
 133: 0x0E30 [0x1D] PRINT_EVENT_MESSAGE(message_id=14281*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000 and 
-\u0002 \u0001	)\u0002\u0002\u0000\u0000\u0002\u0001\u0000\u0000. Also, I'll need 
-\u0004 \u0001	)\u0002\u0004\u0000\u0000\u0002\u0003\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0 and $2 $0$0 . Also, I'll need $4 $0$3 as compensation for my suffering."
 134: 0x0E33 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0E34 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 136: 0x0E43 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1274,7 +1308,7 @@ SUBROUTINE_0F9B:
 143: 0x0FA0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 144: 0x0FA2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 145: 0x0FA4 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
 146: 0x0FAB [0x25] WAIT_DIALOG_SELECT()
 147: 0x0FAC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FF0
 148: 0x0FB4 [0x03] Work_Zone[1] = 100*
@@ -1283,9 +1317,7 @@ SUBROUTINE_0F9B:
 151: 0x0FBD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
 152: 0x0FC0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
 153: 0x0FCF [0x1D] PRINT_EVENT_MESSAGE(message_id=14282*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000, \u0001\u0001\u0001 \u0001\u0005$\u0002\u0001\u0000\u0000, and 
-\u0003 \u0001	)\u0002\u0003\u0000\u0000\u0002\u0002\u0000\u0000. Also, I'll need 
-\u0005 \u0001	)\u0002\u0005\u0000\u0000\u0002\u0004\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0, $1, and $3 $0 . Also, I'll need $5 $0$4 as compensation for my suffering."
 154: 0x0FD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0FD3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 156: 0x0FE2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1302,7 +1334,7 @@ SUBROUTINE_113A:
 163: 0x113F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 164: 0x1141 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 165: 0x1143 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
 166: 0x114A [0x25] WAIT_DIALOG_SELECT()
 167: 0x114B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x118F
 168: 0x1153 [0x03] Work_Zone[1] = 105*
@@ -1311,9 +1343,7 @@ SUBROUTINE_113A:
 171: 0x115C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
 172: 0x115F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
 173: 0x116E [0x1D] PRINT_EVENT_MESSAGE(message_id=14282*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000, \u0001\u0001\u0001 \u0001\u0005$\u0002\u0001\u0000\u0000, and 
-\u0003 \u0001	)\u0002\u0003\u0000\u0000\u0002\u0002\u0000\u0000. Also, I'll need 
-\u0005 \u0001	)\u0002\u0005\u0000\u0000\u0002\u0004\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0, $1, and $3 $0 . Also, I'll need $5 $0$4 as compensation for my suffering."
 174: 0x1171 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x1172 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 176: 0x1181 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1330,7 +1360,7 @@ SUBROUTINE_12D9:
 183: 0x12DE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 184: 0x12E0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 185: 0x12E2 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
 186: 0x12E9 [0x25] WAIT_DIALOG_SELECT()
 187: 0x12EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x132E
 188: 0x12F2 [0x03] Work_Zone[1] = 110*
@@ -1339,9 +1369,7 @@ SUBROUTINE_12D9:
 191: 0x12FB [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
 192: 0x12FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
 193: 0x130D [0x1D] PRINT_EVENT_MESSAGE(message_id=14282*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000, \u0001\u0001\u0001 \u0001\u0005$\u0002\u0001\u0000\u0000, and 
-\u0003 \u0001	)\u0002\u0003\u0000\u0000\u0002\u0002\u0000\u0000. Also, I'll need 
-\u0005 \u0001	)\u0002\u0005\u0000\u0000\u0002\u0004\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0, $1, and $3 $0 . Also, I'll need $5 $0$4 as compensation for my suffering."
 194: 0x1310 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x1311 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 196: 0x1320 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1358,7 +1386,7 @@ SUBROUTINE_1478:
 203: 0x147D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 204: 0x147F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 205: 0x1481 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
 206: 0x1488 [0x25] WAIT_DIALOG_SELECT()
 207: 0x1489 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14CD
 208: 0x1491 [0x03] Work_Zone[1] = 115*
@@ -1367,9 +1395,7 @@ SUBROUTINE_1478:
 211: 0x149A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
 212: 0x149D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
 213: 0x14AC [0x1D] PRINT_EVENT_MESSAGE(message_id=14282*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000, \u0001\u0001\u0001 \u0001\u0005$\u0002\u0001\u0000\u0000, and 
-\u0003 \u0001	)\u0002\u0003\u0000\u0000\u0002\u0002\u0000\u0000. Also, I'll need 
-\u0005 \u0001	)\u0002\u0005\u0000\u0000\u0002\u0004\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0, $1, and $3 $0 . Also, I'll need $5 $0$4 as compensation for my suffering."
 214: 0x14AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x14B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 216: 0x14BF [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1386,7 +1412,7 @@ SUBROUTINE_1617:
 223: 0x161C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 224: 0x161E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 225: 0x1620 [0x24] CREATE_DIALOG(message_id=14278*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
-    → "Which parts?\u0007\u000B\u007F\u0000\u0001\u0001\u0005#\u0002\u0000\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0001\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0002\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0003\u0000\u0000.\u0007\u007F\u0000\u0001\u0001\u0005#\u0002\u0004\u0000\u0000.\u0007None of these.\u0007None, I'm done.\u007F1\u0000\u0007"
+    → "Which parts? [#./$1./$2./$3./$4./None of these./None, I'm done.]"
 226: 0x1627 [0x25] WAIT_DIALOG_SELECT()
 227: 0x1628 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x166C
 228: 0x1630 [0x03] Work_Zone[1] = 120*
@@ -1395,9 +1421,7 @@ SUBROUTINE_1617:
 231: 0x1639 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[9])
 232: 0x163C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
 233: 0x164B [0x1D] PRINT_EVENT_MESSAGE(message_id=14282*)
-    → "For this, I rrrequire...\u0001\u0001\u0001 \u0001\u0005$\u0002\u0000\u0000\u0000, \u0001\u0001\u0001 \u0001\u0005$\u0002\u0001\u0000\u0000, and 
-\u0003 \u0001	)\u0002\u0003\u0000\u0000\u0002\u0002\u0000\u0000. Also, I'll need 
-\u0005 \u0001	)\u0002\u0005\u0000\u0000\u0002\u0004\u0000\u0000 as compensation for my suffering.\u007F1\u0000\u0007"
+    → "For this, I rrrequire...$0, $1, and $3 $0 . Also, I'll need $5 $0$4 as compensation for my suffering."
 234: 0x164E [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x164F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
 236: 0x165E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1409,7 +1433,7 @@ SUBROUTINE_17A6:
 240: 0x17A9 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x17C7
 241: 0x17B1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x17BD
 242: 0x17B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14288*)
-    → "These plans are all grrreat and all, but where's the equipment with which to synthesize them?\u007F1\u0000\u0007"
+    → "These plans are all grrreat and all, but where's the equipment with which to synthesize them?"
 243: 0x17BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x17BD [0x03] Work_Zone[1] = 0*
 245: 0x17C2 [0x21] END_EVENT

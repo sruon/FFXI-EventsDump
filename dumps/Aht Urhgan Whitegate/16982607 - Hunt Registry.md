@@ -83,6 +83,34 @@
 |      60 | 0x05F0      |        1520 |
 |      61 | 0x05F3      |        1523 |
 
+## String References
+
+- **1479**: A hunt registry has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Its pages are laden with the names of spine-chilling monsters.
+- **1480**: A hunt registry has been placed here by the Servicemen's Mutual Aid Network (S.M.A.N.). Its pages are laden with the names of spine-chilling monsters.
+- **1481**: What will you do? [Nothing./Undertake a hunt./Read explanation./Record completion of hunt./View current hunt./Cancel current hunt./View scyld balance.]
+- **1482**: You must cancel your current hunt if you wish to undertake another.
+- **1483**: Little time has passed since your last hunt. It is recommended that you take some time to recuperate before undertaking another.
+- **1484**: You cannot undertake a hunt while a training regime is active.
+- **1485**: Cancel your training regime? [Yes./No.]
+- **1487**: You must either notify the completion of, or cancel your current hunt in order to undertake another.
+- **1500**: Which page? [I've changed my mind./Hunt #1./Hunt #2./Hunt #3./Hunt #4./Hunt #5./Hunt #6./Hunt #7./Hunt #8./Hunt #9./Hunt #10./Hunt #11./Hunt #12./Hunt #13./Hunt #14./Hunt #15./Hunt #16./Hunt #17./Hunt #18./Hunt #19./Hunt #20./Hunt #21./Hunt #22./Hunt #23./Hunt #24./Hunt #25./Hunt #26./Hunt #27./Hunt #28./Hunt #29./Hunt #30.]
+- **1501**: The information on this page instructs you to defeat the following:
+- **1502**: Scylds required: $0 (Balance: $1) Elusiveness: [$25$25$25$25$25$25$25$25$25$25/$26$25$25$25$25$25$25$25$25$25/$26$26$25$25$25$25$25$25$25$25/$26$26$26$25$25$25$25$25$25$25/$26$26$26$26$25$25$25$25$25$25/$26$26$26$26$26$25$25$25$25$25/$26$26$26$26$26$26$25$25$25$25/$26$26$26$26$26$26$26$25$25$25/$26$26$26$26$26$26$26$26$25$25/$26$26$26$26$26$26$26$26$26$25/$26$26$26$26$26$26$26$26$26$26] Ferocity: [$25$25$25$25$25$25$25$25$25$25/$26$25$25$25$25$25$25$25$25$25/$26$26$25$25$25$25$25$25$25$25/$26$26$26$25$25$25$25$25$25$25/$26$26$26$26$25$25$25$25$25$25/$26$26$26$26$26$25$25$25$25$25/$26$26$26$26$26$26$25$25$25$25/$26$26$26$26$26$26$26$25$25$25/$26$26$26$26$26$26$26$26$25$25/$26$26$26$26$26$26$26$26$26$25/$26$26$26$26$26$26$26$26$26$26] Reward: $4 [scyld/scylds]
+- **1503**: Accept hunt? (Current scylds: $0) [Yes./No.]
+- **1506**: You do not have enough scylds.
+- **1507**: The hunt registry is a tome through which seasoned adventurers can undertake assignments to eliminate monsters deemed to be impediments to A.M.A.N. activities.
+- **1508**: The hunt registry is a tome through which veteran soldiers can undertake assignments to eliminate monsters deemed to be impediments to S.M.A.N. activities.
+- **1509**: Assignments, or "hunts," can be undertaken simply by selecting the name of a monster listed in the registry.
+- **1510**: Pertinent information such as monster elusiveness and ferocity has been recorded for your reference. As safety cannot be guaranteed, we ask that you hunt within your ability.
+- **1511**: Hunts pit you against creatures of extreme ferocity, and are not intended for training. For this reason, you cannot undertake a hunt while a training regime is active.
+- **1512**: Should party members undertaking a common hunt defeat the objective, the kill will be considered valid for all.
+- **1513**: Upon the completion of a hunt, record your success in a hunt registry. Doing so will earn you rewards corresponding to difficulty as well as "scylds"--tokens of your valor.
+- **1514**: More scylds will grant you access to increasingly difficult and rewarding assignments. Be warned, however, that once expended, scylds will not be refunded for any reason.
+- **1515**: Lastly, please note that a mandatory cool-down period will be imposed upon all hunters following the completion of a hunt. Until this time has elapsed, you will not be permitted to undertake another hunt.
+- **1520**: Cancel hunt? [Yes./No.]
+- **1521**: Are you certain? [Yes./No.]
+- **1523**: You currently possess $0 [scyld/scylds].
+
 ## Events
 
 ### Event 65535
@@ -301,12 +329,12 @@ SUBROUTINE_010F:
 SUBROUTINE_013D:
  65: 0x013D [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x014C
  66: 0x0145 [0x48] [System] [1479*]:
-    → "A hunt registry has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Its pages are laden with the names of spine-chilling monsters.\u007F1\u0000\u0007"
+    → "A hunt registry has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Its pages are laden with the names of spine-chilling monsters."
  67: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0149 [0x01] GOTO 0x015B
  69: 0x014C [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x015B
  70: 0x0154 [0x48] [System] [1480*]:
-    → "A hunt registry has been placed here by the Servicemen's Mutual Aid Network (S.M.A.N.). Its pages are laden with the names of spine-chilling monsters.\u007F1\u0000\u0007"
+    → "A hunt registry has been placed here by the Servicemen's Mutual Aid Network (S.M.A.N.). Its pages are laden with the names of spine-chilling monsters."
  71: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0158 [0x01] GOTO 0x015B
 
@@ -354,7 +382,7 @@ SUBROUTINE_021B:
 SUBROUTINE_021E:
 110: 0x021E [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x05D1
 111: 0x0226 [0x24] CREATE_DIALOG(message_id=1481*, default_option=0*, option_flags=ExtData[1]->WorkLocal[27])
-    → "What will you do?\u0007\u000BNothing.\u0007Undertake a hunt.\u0007Read explanation.\u0007Record completion of hunt.\u0007View current hunt.\u0007Cancel current hunt.\u0007View scyld balance.\u007F1\u0000\u0007"
+    → "What will you do? [Nothing./Undertake a hunt./Read explanation./Record completion of hunt./View current hunt./Cancel current hunt./View scyld balance.]"
 112: 0x022D [0x25] WAIT_DIALOG_SELECT()
 113: 0x022E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0245
 114: 0x0236 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=0*)
@@ -386,7 +414,7 @@ SUBROUTINE_027E:
 SUBROUTINE_02A9:
 135: 0x02A9 [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x03E1
 136: 0x02B1 [0x24] CREATE_DIALOG(message_id=1500*, default_option=0*, option_flags=ExtData[1]->WorkLocal[29])
-    → "Which page?\u0007\u000BI've changed my mind.\u0007Hunt #1.\u0007Hunt #2.\u0007Hunt #3.\u0007Hunt #4.\u0007Hunt #5.\u0007Hunt #6.\u0007Hunt #7.\u0007Hunt #8.\u0007Hunt #9.\u0007Hunt #10.\u0007Hunt #11.\u0007Hunt #12.\u0007Hunt #13.\u0007Hunt #14.\u0007Hunt #15.\u0007Hunt #16.\u0007Hunt #17.\u0007Hunt #18.\u0007Hunt #19.\u0007Hunt #20.\u0007Hunt #21.\u0007Hunt #22.\u0007Hunt #23.\u0007Hunt #24.\u0007Hunt #25.\u0007Hunt #26.\u0007Hunt #27.\u0007Hunt #28.\u0007Hunt #29.\u0007Hunt #30.\u007F1\u0000\u0007"
+    → "Which page? [I've changed my mind./Hunt #1./Hunt #2./Hunt #3./Hunt #4./Hunt #5./Hunt #6./Hunt #7./Hunt #8./Hunt #9./Hunt #10./Hunt #11./Hunt #12./Hunt #13./Hunt #14./Hunt #15./Hunt #16./Hunt #17./Hunt #18./Hunt #19./Hunt #20./Hunt #21./Hunt #22./Hunt #23./Hunt #24./Hunt #25./Hunt #26./Hunt #27./Hunt #28./Hunt #29./Hunt #30.]"
 137: 0x02B8 [0x25] WAIT_DIALOG_SELECT()
 138: 0x02B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C7
 139: 0x02C1 [0x06] ExtData[1]->WorkLocal[32] = 0
@@ -412,7 +440,7 @@ SUBROUTINE_02C7:
 157: 0x033C [0x41] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[4] (bits 16*-23*)
 158: 0x0345 [0x41] ExtData[1]->WorkLocal[14] = ExtData[1]->WorkLocal[4] (bits 24*-31*)
 159: 0x034E [0x48] [System] [1501*]:
-    → "The information on this page instructs you to defeat the following:\u007F1\u0000\u0007"
+    → "The information on this page instructs you to defeat the following:"
 160: 0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0352 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 162: 0x0357 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
@@ -421,7 +449,7 @@ SUBROUTINE_02C7:
 165: 0x0366 [0x03] ExtData[1]->WorkLocal[26] = 1524*
 166: 0x036B [0x07] ExtData[1]->WorkLocal[26] += ExtData[1]->WorkLocal[6]
 167: 0x0370 [0x48] [System] [ExtData[1]->WorkLocal[26]]:
-    → "The synergy furnace is currently in use by \u0018\u0005.\u007F1\u0000\u0007"
+    → "The synergy furnace is currently in use by %5."
 168: 0x0373 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0374 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
 170: 0x0379 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[21]
@@ -429,15 +457,11 @@ SUBROUTINE_02C7:
 172: 0x0383 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
 173: 0x0388 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[10]
 174: 0x038D [0x48] [System] [1502*]:
-    → "Scylds required: 
-\u0000 (Balance: 
-\u0001)\u0007Elusiveness: \u000C\u0002[\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A]\u0007Ferocity: \u000C\u0003[\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u0019/\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A\u0001\u001A]\u0007Reward: 
-\u0004 \u007F\u0012\u0004[scyld/scylds]\u007F1\u0000\u0007"
+    → "Scylds required: $0 (Balance: $1) Elusiveness: [$25$25$25$25$25$25$25$25$25$25/$26$25$25$25$25$25$25$25$25$25/$26$26$25$25$25$25$25$25$25$25/$26$26$26$25$25$25$25$25$25$25/$26$26$26$26$25$25$25$25$25$25/$26$26$26$26$26$25$25$25$25$25/$26$26$26$26$26$26$25$25$25$25/$26$26$26$26$26$26$26$25$25$25/$26$26$26$26$26$26$26$26$25$25/$26$26$26$26$26$26$26$26$26$25/$26$26$26$26$26$26$26$26$26$26] Ferocity: [$25$25$25$25$25$25$25$25$25$25/$26$25$25$25$25$25$25$25$25$25/$26$26$25$25$25$25$25$25$25$25/$26$26$26$25$25$25$25$25$25$25/$26$26$26$26$25$25$25$25$25$25/$26$26$26$26$26$25$25$25$25$25/$26$26$26$26$26$26$25$25$25$25/$26$26$26$26$26$26$26$25$25$25/$26$26$26$26$26$26$26$26$25$25/$26$26$26$26$26$26$26$26$26$25/$26$26$26$26$26$26$26$26$26$26] Reward: $4 [scyld/scylds]"
 175: 0x0390 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x0391 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
 177: 0x0396 [0x24] CREATE_DIALOG(message_id=1503*, default_option=1*, option_flags=0*)
-    → "Accept hunt? (Current scylds: 
-\u0000)\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Accept hunt? (Current scylds: $0) [Yes./No.]"
 178: 0x039D [0x25] WAIT_DIALOG_SELECT()
 179: 0x039E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D3
 180: 0x03A6 [0x02] IF !(ExtData[1]->WorkLocal[21] < ExtData[1]->WorkLocal[9]) GOTO 0x03CC
@@ -448,7 +472,7 @@ SUBROUTINE_02C7:
 185: 0x03C0 [0x40] SET_BIT_WORK_RANGE(start_bit=3*, end_bit=12*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[6])
 186: 0x03C9 [0x01] GOTO 0x03D0
 187: 0x03CC [0x48] [System] [1506*]:
-    → "You do not have enough scylds.\u007F1\u0000\u0007"
+    → "You do not have enough scylds."
 188: 0x03CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03D0:
@@ -461,21 +485,21 @@ SUBROUTINE_03DE:
 193: 0x03E1 [0x01] GOTO 0x0260
 194: 0x03E4 [0x01] GOTO 0x03EB
 195: 0x03E7 [0x48] [System] [1483*]:
-    → "Little time has passed since your last hunt. It is recommended that you take some time to recuperate before undertaking another.\u007F1\u0000\u0007"
+    → "Little time has passed since your last hunt. It is recommended that you take some time to recuperate before undertaking another."
 196: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03EB:
 197: 0x03EB [0x01] GOTO 0x04C5
 198: 0x03EE [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0445
 199: 0x03F6 [0x48] [System] [1484*]:
-    → "You cannot undertake a hunt while a training regime is active.\u007F1\u0000\u0007"
+    → "You cannot undertake a hunt while a training regime is active."
 200: 0x03F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x03FA [0x24] CREATE_DIALOG(message_id=1485*, default_option=1*, option_flags=0*)
-    → "Cancel your training regime?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Cancel your training regime? [Yes./No.]"
 202: 0x0401 [0x25] WAIT_DIALOG_SELECT()
 203: 0x0402 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0437
 204: 0x040A [0x24] CREATE_DIALOG(message_id=1521*, default_option=1*, option_flags=0*)
-    → "Are you certain?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Are you certain? [Yes./No.]"
 205: 0x0411 [0x25] WAIT_DIALOG_SELECT()
 206: 0x0412 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0429
 207: 0x041A [0x06] ExtData[1]->WorkLocal[30] = 0
@@ -494,11 +518,11 @@ SUBROUTINE_0442:
 216: 0x0445 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x0463
 217: 0x044D [0x02] IF !(ExtData[1]->WorkLocal[20] == 1*) GOTO 0x045C
 218: 0x0455 [0x48] [System] [1487*]:
-    → "You must either notify the completion of, or cancel your current hunt in order to undertake another.\u007F1\u0000\u0007"
+    → "You must either notify the completion of, or cancel your current hunt in order to undertake another."
 219: 0x0458 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x0459 [0x01] GOTO 0x0460
 221: 0x045C [0x48] [System] [1482*]:
-    → "You must cancel your current hunt if you wish to undertake another.\u007F1\u0000\u0007"
+    → "You must cancel your current hunt if you wish to undertake another."
 222: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0460:
@@ -507,14 +531,14 @@ SUBROUTINE_0460:
 225: 0x046B [0x01] GOTO 0x04C5
 226: 0x046E [0x02] IF !(ExtData[1]->WorkLocal[5] == 4*) GOTO 0x04C5
 227: 0x0476 [0x48] [System] [1484*]:
-    → "You cannot undertake a hunt while a training regime is active.\u007F1\u0000\u0007"
+    → "You cannot undertake a hunt while a training regime is active."
 228: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x047A [0x24] CREATE_DIALOG(message_id=1485*, default_option=1*, option_flags=0*)
-    → "Cancel your training regime?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Cancel your training regime? [Yes./No.]"
 230: 0x0481 [0x25] WAIT_DIALOG_SELECT()
 231: 0x0482 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B7
 232: 0x048A [0x24] CREATE_DIALOG(message_id=1521*, default_option=1*, option_flags=0*)
-    → "Are you certain?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Are you certain? [Yes./No.]"
 233: 0x0491 [0x25] WAIT_DIALOG_SELECT()
 234: 0x0492 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04A9
 235: 0x049A [0x06] ExtData[1]->WorkLocal[30] = 0
@@ -536,34 +560,34 @@ SUBROUTINE_04C5:
 245: 0x04C8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0502
 246: 0x04D0 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x04DF
 247: 0x04D8 [0x48] [System] [1507*]:
-    → "The hunt registry is a tome through which seasoned adventurers can undertake assignments to eliminate monsters deemed to be impediments to A.M.A.N. activities.\u007F1\u0000\u0007"
+    → "The hunt registry is a tome through which seasoned adventurers can undertake assignments to eliminate monsters deemed to be impediments to A.M.A.N. activities."
 248: 0x04DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x04DC [0x01] GOTO 0x04E3
 250: 0x04DF [0x48] [System] [1508*]:
-    → "The hunt registry is a tome through which veteran soldiers can undertake assignments to eliminate monsters deemed to be impediments to S.M.A.N. activities.\u007F1\u0000\u0007"
+    → "The hunt registry is a tome through which veteran soldiers can undertake assignments to eliminate monsters deemed to be impediments to S.M.A.N. activities."
 251: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04E3:
 252: 0x04E3 [0x48] [System] [1509*]:
-    → "Assignments, or \u00072hunts,\u00073 can be undertaken simply by selecting the name of a monster listed in the registry.\u007F1\u0000\u0007"
+    → "Assignments, or "hunts," can be undertaken simply by selecting the name of a monster listed in the registry."
 253: 0x04E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x04E7 [0x48] [System] [1510*]:
-    → "Pertinent information such as monster elusiveness and ferocity has been recorded for your reference.\u0007As safety cannot be guaranteed, we ask that you hunt within your ability.\u007F1\u0000\u0007"
+    → "Pertinent information such as monster elusiveness and ferocity has been recorded for your reference. As safety cannot be guaranteed, we ask that you hunt within your ability."
 255: 0x04EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x04EB [0x48] [System] [1511*]:
-    → "Hunts pit you against creatures of extreme ferocity, and are not intended for training.\u0007For this reason, you cannot undertake a hunt while a training regime is active.\u007F1\u0000\u0007"
+    → "Hunts pit you against creatures of extreme ferocity, and are not intended for training. For this reason, you cannot undertake a hunt while a training regime is active."
 257: 0x04EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x04EF [0x48] [System] [1512*]:
-    → "Should party members undertaking a common hunt defeat the objective, the kill will be considered valid for all.\u007F1\u0000\u0007"
+    → "Should party members undertaking a common hunt defeat the objective, the kill will be considered valid for all."
 259: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x04F3 [0x48] [System] [1513*]:
-    → "Upon the completion of a hunt, record your success in a hunt registry.\u0007Doing so will earn you rewards corresponding to difficulty as well as \u00072scylds\u00073--tokens of your valor.\u007F1\u0000\u0007"
+    → "Upon the completion of a hunt, record your success in a hunt registry. Doing so will earn you rewards corresponding to difficulty as well as "scylds"--tokens of your valor."
 261: 0x04F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x04F7 [0x48] [System] [1514*]:
-    → "More scylds will grant you access to increasingly difficult and rewarding assignments.\u0007Be warned, however, that once expended, scylds will not be refunded for any reason.\u007F1\u0000\u0007"
+    → "More scylds will grant you access to increasingly difficult and rewarding assignments. Be warned, however, that once expended, scylds will not be refunded for any reason."
 263: 0x04FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x04FB [0x48] [System] [1515*]:
-    → "Lastly, please note that a mandatory cool-down period will be imposed upon all hunters following the completion of a hunt. Until this time has elapsed, you will not be permitted to undertake another hunt.\u007F1\u0000\u0007"
+    → "Lastly, please note that a mandatory cool-down period will be imposed upon all hunters following the completion of a hunt. Until this time has elapsed, you will not be permitted to undertake another hunt."
 265: 0x04FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x04FF [0x01] GOTO 0x05CE
 267: 0x0502 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0529
@@ -582,16 +606,16 @@ SUBROUTINE_04E3:
 280: 0x0556 [0x03] ExtData[1]->WorkLocal[26] = 2548*
 281: 0x055B [0x07] ExtData[1]->WorkLocal[26] += ExtData[1]->WorkLocal[6]
 282: 0x0560 [0x48] [System] [ExtData[1]->WorkLocal[26]]:
-    → "The synergy furnace is currently in use by \u0018\u0005.\u007F1\u0000\u0007"
+    → "The synergy furnace is currently in use by %5."
 283: 0x0563 [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x0564 [0x01] GOTO 0x05CE
 285: 0x0567 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x05BA
 286: 0x056F [0x24] CREATE_DIALOG(message_id=1520*, default_option=1*, option_flags=0*)
-    → "Cancel hunt?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Cancel hunt? [Yes./No.]"
 287: 0x0576 [0x25] WAIT_DIALOG_SELECT()
 288: 0x0577 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AC
 289: 0x057F [0x24] CREATE_DIALOG(message_id=1521*, default_option=1*, option_flags=0*)
-    → "Are you certain?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Are you certain? [Yes./No.]"
 290: 0x0586 [0x25] WAIT_DIALOG_SELECT()
 291: 0x0587 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x059E
 292: 0x058F [0x06] ExtData[1]->WorkLocal[30] = 0
@@ -610,8 +634,7 @@ SUBROUTINE_05B7:
 301: 0x05BA [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x05CE
 302: 0x05C2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
 303: 0x05C7 [0x48] [System] [1523*]:
-    → "You currently possess 
-\u0000 \u007F\u0012\u0000[scyld/scylds].\u007F1\u0000\u0007"
+    → "You currently possess $0 [scyld/scylds]."
 304: 0x05CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x05CB [0x01] GOTO 0x05CE
 

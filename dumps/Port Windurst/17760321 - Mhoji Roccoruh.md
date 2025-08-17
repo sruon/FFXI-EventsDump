@@ -1,0 +1,1319 @@
+# 17760321 - Mhoji Roccoruh
+
+## Common Data
+
+| Field            | Value                   |
+|------------------|-------------------------|
+| Zone             | Port Windurst (ID: 240) |
+| Block Size       | 4068 bytes              |
+| Total Events     | 2                       |
+| References Count | 242                     |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [10000](#event-10000) | 0x0001       |   3073 |            592 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x2BA7      |       11175 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x2BA8      |       11176 |
+|       3 | 0x40000000  |  1073741824 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x2BA9      |       11177 |
+|       6 | 0x2BAA      |       11178 |
+|       7 | 0x2BAB      |       11179 |
+|       8 | 0x0012      |          18 |
+|       9 | 0x0013      |          19 |
+|      10 | 0x0004      |           4 |
+|      11 | 0x0002      |           2 |
+|      12 | 0x2BC3      |       11203 |
+|      13 | 0x000F      |          15 |
+|      14 | 0x0010      |          16 |
+|      15 | 0x001F      |          31 |
+|      16 | 0x2BC4      |       11204 |
+|      17 | 0x0048      |          72 |
+|      18 | 0x0020      |          32 |
+|      19 | 0x0008      |           8 |
+|      20 | 0x000A      |          10 |
+|      21 | 0xFFFFFFFF  |  4294967295 |
+|      22 | 0x2BAC      |       11180 |
+|      23 | 0x2BAD      |       11181 |
+|      24 | 0x2BAE      |       11182 |
+|      25 | 0x0003      |           3 |
+|      26 | 0x2BAF      |       11183 |
+|      27 | 0x2BB0      |       11184 |
+|      28 | 0x0005      |           5 |
+|      29 | 0x2BB1      |       11185 |
+|      30 | 0x0006      |           6 |
+|      31 | 0x2BB2      |       11186 |
+|      32 | 0x0007      |           7 |
+|      33 | 0x2BB3      |       11187 |
+|      34 | 0x2BB4      |       11188 |
+|      35 | 0x0009      |           9 |
+|      36 | 0x2BB5      |       11189 |
+|      37 | 0x2BB6      |       11190 |
+|      38 | 0x000B      |          11 |
+|      39 | 0x2BB7      |       11191 |
+|      40 | 0x000C      |          12 |
+|      41 | 0x2BB8      |       11192 |
+|      42 | 0x000D      |          13 |
+|      43 | 0x2BB9      |       11193 |
+|      44 | 0x000E      |          14 |
+|      45 | 0x2BBA      |       11194 |
+|      46 | 0x2BBB      |       11195 |
+|      47 | 0x2BBC      |       11196 |
+|      48 | 0x0011      |          17 |
+|      49 | 0x2BBD      |       11197 |
+|      50 | 0x2BBE      |       11198 |
+|      51 | 0x2BBF      |       11199 |
+|      52 | 0x0014      |          20 |
+|      53 | 0x006F      |         111 |
+|      54 | 0x0070      |         112 |
+|      55 | 0x2BC1      |       11201 |
+|      56 | 0x0015      |          21 |
+|      57 | 0x00BE      |         190 |
+|      58 | 0x2BC0      |       11200 |
+|      59 | 0x0016      |          22 |
+|      60 | 0x00BF      |         191 |
+|      61 | 0x0017      |          23 |
+|      62 | 0x00C0      |         192 |
+|      63 | 0x00C2      |         194 |
+|      64 | 0x0018      |          24 |
+|      65 | 0x00A7      |         167 |
+|      66 | 0x0019      |          25 |
+|      67 | 0x00A9      |         169 |
+|      68 | 0x001A      |          26 |
+|      69 | 0x00C4      |         196 |
+|      70 | 0x001B      |          27 |
+|      71 | 0x00C5      |         197 |
+|      72 | 0x001C      |          28 |
+|      73 | 0x00A6      |         166 |
+|      74 | 0x001D      |          29 |
+|      75 | 0x00B8      |         184 |
+|      76 | 0x009D      |         157 |
+|      77 | 0x009E      |         158 |
+|      78 | 0x2BC2      |       11202 |
+|      79 | 0x001E      |          30 |
+|      80 | 0x00CC      |         204 |
+|      81 | 0x00A1      |         161 |
+|      82 | 0x00A2      |         162 |
+|      83 | 0x2BC5      |       11205 |
+|      84 | 0x0021      |          33 |
+|      85 | 0x0082      |         130 |
+|      86 | 0x0022      |          34 |
+|      87 | 0x00FC      |         252 |
+|      88 | 0x0023      |          35 |
+|      89 | 0x009F      |         159 |
+|      90 | 0x0024      |          36 |
+|      91 | 0x00A0      |         160 |
+|      92 | 0x0025      |          37 |
+|      93 | 0x2BC7      |       11207 |
+|      94 | 0x0026      |          38 |
+|      95 | 0x00AE      |         174 |
+|      96 | 0x0027      |          39 |
+|      97 | 0x0099      |         153 |
+|      98 | 0x0028      |          40 |
+|      99 | 0x00B1      |         177 |
+|     100 | 0x00B2      |         178 |
+|     101 | 0x0029      |          41 |
+|     102 | 0x00CD      |         205 |
+|     103 | 0x002A      |          42 |
+|     104 | 0x00D0      |         208 |
+|     105 | 0x002B      |          43 |
+|     106 | 0x00B0      |         176 |
+|     107 | 0x002C      |          44 |
+|     108 | 0x2BC6      |       11206 |
+|     109 | 0x002D      |          45 |
+|     110 | 0x00D5      |         213 |
+|     111 | 0x002E      |          46 |
+|     112 | 0x002F      |          47 |
+|     113 | 0x0030      |          48 |
+|     114 | 0x0031      |          49 |
+|     115 | 0x0032      |          50 |
+|     116 | 0x0033      |          51 |
+|     117 | 0x0034      |          52 |
+|     118 | 0x0035      |          53 |
+|     119 | 0x0036      |          54 |
+|     120 | 0x0037      |          55 |
+|     121 | 0x0038      |          56 |
+|     122 | 0x0039      |          57 |
+|     123 | 0x003A      |          58 |
+|     124 | 0x2BC8      |       11208 |
+|     125 | 0x003B      |          59 |
+|     126 | 0x2BC9      |       11209 |
+|     127 | 0x003C      |          60 |
+|     128 | 0x2BCA      |       11210 |
+|     129 | 0x003D      |          61 |
+|     130 | 0x004F      |          79 |
+|     131 | 0x003E      |          62 |
+|     132 | 0x003F      |          63 |
+|     133 | 0x0044      |          68 |
+|     134 | 0x0040      |          64 |
+|     135 | 0x0041      |          65 |
+|     136 | 0x0042      |          66 |
+|     137 | 0x0043      |          67 |
+|     138 | 0x2BCB      |       11211 |
+|     139 | 0x0045      |          69 |
+|     140 | 0x0053      |          83 |
+|     141 | 0x2BCC      |       11212 |
+|     142 | 0x0046      |          70 |
+|     143 | 0x0059      |          89 |
+|     144 | 0x0047      |          71 |
+|     145 | 0x0060      |          96 |
+|     146 | 0x0181      |         385 |
+|     147 | 0x0182      |         386 |
+|     148 | 0x0183      |         387 |
+|     149 | 0x0184      |         388 |
+|     150 | 0x018D      |         397 |
+|     151 | 0x0194      |         404 |
+|     152 | 0x0195      |         405 |
+|     153 | 0x01AD      |         429 |
+|     154 | 0x018B      |         395 |
+|     155 | 0x0196      |         406 |
+|     156 | 0x0197      |         407 |
+|     157 | 0x0198      |         408 |
+|     158 | 0x0199      |         409 |
+|     159 | 0x018F      |         399 |
+|     160 | 0x019F      |         415 |
+|     161 | 0x01AE      |         430 |
+|     162 | 0x0185      |         389 |
+|     163 | 0x0190      |         400 |
+|     164 | 0x0192      |         402 |
+|     165 | 0x019D      |         413 |
+|     166 | 0x0186      |         390 |
+|     167 | 0x0187      |         391 |
+|     168 | 0x0188      |         392 |
+|     169 | 0x0189      |         393 |
+|     170 | 0x018A      |         394 |
+|     171 | 0x018C      |         396 |
+|     172 | 0x018E      |         398 |
+|     173 | 0x0191      |         401 |
+|     174 | 0x0193      |         403 |
+|     175 | 0x019A      |         410 |
+|     176 | 0x019B      |         411 |
+|     177 | 0x019C      |         412 |
+|     178 | 0x019E      |         414 |
+|     179 | 0x01A0      |         416 |
+|     180 | 0x01A1      |         417 |
+|     181 | 0x01A2      |         418 |
+|     182 | 0x01A3      |         419 |
+|     183 | 0x01A4      |         420 |
+|     184 | 0x01A5      |         421 |
+|     185 | 0x01A6      |         422 |
+|     186 | 0x01A7      |         423 |
+|     187 | 0x01A8      |         424 |
+|     188 | 0x01A9      |         425 |
+|     189 | 0x01AA      |         426 |
+|     190 | 0x01AB      |         427 |
+|     191 | 0x01AC      |         428 |
+|     192 | 0x01AF      |         431 |
+|     193 | 0x01B0      |         432 |
+|     194 | 0x01B1      |         433 |
+|     195 | 0x01B2      |         434 |
+|     196 | 0x01B3      |         435 |
+|     197 | 0x01B8      |         440 |
+|     198 | 0x01B9      |         441 |
+|     199 | 0x01BA      |         442 |
+|     200 | 0x01BB      |         443 |
+|     201 | 0x01BC      |         444 |
+|     202 | 0x01BD      |         445 |
+|     203 | 0x01BE      |         446 |
+|     204 | 0x0740      |        1856 |
+|     205 | 0x0741      |        1857 |
+|     206 | 0x0742      |        1858 |
+|     207 | 0x0743      |        1859 |
+|     208 | 0x0744      |        1860 |
+|     209 | 0x0745      |        1861 |
+|     210 | 0x0746      |        1862 |
+|     211 | 0x0747      |        1863 |
+|     212 | 0x0748      |        1864 |
+|     213 | 0x0749      |        1865 |
+|     214 | 0x0752      |        1874 |
+|     215 | 0x0757      |        1879 |
+|     216 | 0x0759      |        1881 |
+|     217 | 0x075B      |        1883 |
+|     218 | 0x00C8      |         200 |
+|     219 | 0x0258      |         600 |
+|     220 | 0x0BB8      |        3000 |
+|     221 | 0x00E6      |         230 |
+|     222 | 0x00EA      |         234 |
+|     223 | 0x00EE      |         238 |
+|     224 | 0x00F3      |         243 |
+|     225 | 0x0097      |         151 |
+|     226 | 0x008C      |         140 |
+|     227 | 0x0095      |         149 |
+|     228 | 0x00AC      |         172 |
+|     229 | 0x008F      |         143 |
+|     230 | 0x0093      |         147 |
+|     231 | 0x0091      |         145 |
+|     232 | 0x00C6      |         198 |
+|     233 | 0x0079      |         121 |
+|     234 | 0x007E      |         126 |
+|     235 | 0x00C3      |         195 |
+|     236 | 0x007B      |         123 |
+|     237 | 0x00AD      |         173 |
+|     238 | 0x0071      |         113 |
+|     239 | 0x004B      |          75 |
+|     240 | 0x00FF      |         255 |
+|     241 | 0x01FF      |         511 |
+
+## String References
+
+- **11175**: How about a magic map to help you on your adventures?
+- **11176**: Buy a map? [Decline./Inquire about maps./$3 ($17 gil)./$3 ($18 gil)./$3 ($19 gil)./$3 ($20 gil)./$3 ($21 gil)./$3 ($22 gil)./$3 ($23 gil)./$3 ($24 gil)./$3 ($25 gil)./$3 ($26 gil)./$3 ($27 gil)./$3 ($28 gil)./$3 ($29 gil)./$3 ($30 gil)./$3 ($31 gil)./$3 ($ gil)./Previous page./Next page.]
+- **11177**: If you have a map, you can check both the lay of the land and your location whenever you enter an area.
+- **11178**: If you belong to a party or alliance, you can also check the position of your allies. And depending on your job, you can find NPCs and enemies from afar.
+- **11179**: Furthermore, you can even record specific points in the area or have places marked down for certain events. So you see, magic maps are extremely useful.
+- **11180**: The $3 covers Ronfaure, the La Theine Plateau, the Valkurm Dunes, Jugner Forest, Selbina, and San d'Oria. It costs $3 gil.
+- **11181**: The $3 covers Gustaberg, the Konschtat Highlands, the Pashhow Marshlands, and Bastok. It costs $3 gil.
+- **11182**: The $3 covers Sarutabaruta, the Tahrongi Canyon, the Buburimu Peninsula, the Meriphataud Mountains, Mhaura, and Windurst. It costs $3 gil.
+- **11183**: The $3 covers Batallia Downs, Rolanberry Fields, the Sauromugue Champaign, and Jeuno. It costs $3 gil.
+- **11184**: This complete $3, which extend far beneath La Theine Plateau, costs $3 gil.
+- **11185**: $5 include layouts for both outpost and fortress of Ghelsba, as well as the Yughott Grotto. It costs $3 gil.
+- **11186**: The $3 shows the notorious Orcish stronghold hidden within Jugner Forest. It is priced at $3 gil.
+- **11187**: This map shows the waterways and islands that make up Carpenters' Landing. It is priced at $3 gil.
+- **11188**: The $3, as the name implies, contains the layout of Bastok's Zeruhn Mines. It costs $3 gil.
+- **11189**: The $3, as the name implies, contains the layout of the Palborough Mines, which lie in North Gustaberg. It costs $3 gil.
+- **11190**: The $3, as the name implies, contains the layout of the Quadav stronghold, Beadeaux, that is located in the Pashhow Marshlands. It costs $3 gil.
+- **11191**: The $3, as the name implies, contains the layout of Giddeus, which you can reach from West Sarutabaruta. It costs $3 gil.
+- **11192**: The $3 contains the layout of the Yagudo stronghold, Castle Oztroja, located in the Meriphataud Mountains. It costs $3 gil.
+- **11193**: The $3 contains the layout of the underground maze of Shakhrami that can be found in the Tahrongi Canyon area. It costs $3 gil.
+- **11194**: The $3 covers the Sanctuary of Zi'Tah, Ro'Maeve, and the Hall of the Gods. It costs $3 gil.
+- **11195**: This map covers Bibiki Bay and its nearby islands. It costs $3 gil.
+- **11196**: The $3 outlines the geography of nearby Qufim Island. It costs $3 gil.
+- **11197**: Located beneath Batallia Downs, the Eldieme Necropolis is shown in detail on this map. The price is $3 gil.
+- **11198**: The Garlaige Citadel, which lies upon the Sauromugue Champaign, is illustrated in this map. Each copy costs $3 gil.
+- **11199**: $5 include Kazham, as well as both jungles of Yuhtunga and Yhoator for $3 gil.
+- **11200**: $5 include $8 for $3 gil.
+- **11201**: $5 include $8 as well as $8 for $3 gil.
+- **11202**: $5 include $8, as well as $8 and $8 for $3 gil.
+- **11203**: Buy $6? [Yes./No.]
+- **11204**: You don't have enough money.
+- **11205**: Maps of the Kuzotz region include Altepa Desert as well as Rabao for $3 gil.
+- **11206**: Maps of the Vollbow region include Cape Teriggan, as well as Valley of Sorrows and Gustav Tunnel for $3 gil.
+- **11207**: Maps of the Korroloka Tunnel are, as their names imply, maps of the Korroloka Tunnel, which connects Altepa Desert and Zeruhn Mines.
+- **11208**: The map of Al Zahbi also includes Aht Urhgan Whitegate and the Colosseum. It costs $2 gil.
+- **11209**: This map shows the layout of the Azouph Isle town of Nashmau. It costs $3 gil.
+- **11210**: This map shows the forest tract stretching west of Al Zahbi. A map of the Wajaom Woodlands can be yours for $3 gil.
+- **11211**: This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs $3 gil.
+- **11212**: $6 is an older map that was often used to depict $8. It costs $3 gil.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 10000
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 3073 bytes |
+| Instructions | 535        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    1E F0 FF FF 7F 1D 00  80 23 03 0A 00 02 10 03   ........#......
+0010: 0B 00 03 10 03 0C 00 04  10 03 0D 00 08 10 1A 23  ...............#
+0020: 00 21 00 06 04 00 06 02  00 06 03 00 02 04 00 01  .!..............
+0030: 80 00 38 01 1A C2 01 24  02 80 02 00 05 00 25 02  ..8....$......%.
+0040: 00 10 01 80 00 4A 00 01  4A 00 03 02 00 00 10 02  .....J..J.......
+0050: 02 00 01 80 80 62 00 03  01 10 03 80 05 04 00 01  .....b..........
+0060: AE 00 02 02 00 04 80 80  7C 00 1D 05 80 23 1D 06  ........|....#..
+0070: 80 23 1D 07 80 23 06 02  00 01 AE 00 02 02 00 08  .#...#..........
+0080: 80 80 95 00 02 03 00 01  80 02 92 00 0C 03 00 06  ................
+0090: 02 00 01 AE 00 02 02 00  09 80 80 AE 00 02 03 00  ................
+00A0: 0A 80 03 AB 00 0B 03 00  06 02 00 01 AE 00 02 02  ................
+00B0: 00 01 80 01 35 01 03 06  00 02 00 08 06 00 0B 80  ....5...........
+00C0: 9D 00 E2 08 01 00 06 00  1A 96 01 9D 00 32 09 01  .............2..
+00D0: 00 06 00 9D 00 C2 09 08  00 06 00 1A 07 03 03 02  ................
+00E0: 10 01 00 24 0C 80 04 80  01 80 25 02 00 10 01 80  ...$......%.....
+00F0: 00 2A 01 40 01 80 0D 80  01 10 04 80 40 0E 80 0F  .*.@........@...
+0100: 80 01 10 06 00 43 00 43  01 03 0A 00 02 10 03 0B  .....C.C........
+0110: 00 03 10 03 0C 00 04 10  02 09 10 01 80 00 23 01  ..............#.
+0120: 01 27 01 1D 10 80 23 01  35 01 02 00 10 04 80 00  .'....#.5.......
+0130: 35 01 01 35 01 01 2C 00  1B 06 00 00 06 0E 00 06  5..5..,.........
+0140: 09 00 02 00 00 11 80 03  67 01 1A 7D 01 3F 15 00  ........g..}.?..
+0150: 00 00 12 80 3E 09 00 15  00 5E 01 01 61 01 0B 0E  ....>....^..a...
+0160: 00 0B 00 00 01 42 01 03  10 00 0E 00 02 10 00 01  .....B..........
+0170: 80 02 7C 01 0C 10 00 15  10 00 0E 80 1B 06 0F 00  ..|.............
+0180: 06 09 00 03 0F 00 00 00  15 0F 00 12 80 9D 00 D2  ................
+0190: 08 09 00 0F 00 1B 06 00  00 02 00 00 11 80 03 C1  ................
+01A0: 01 9D 00 32 09 09 00 00  00 02 01 00 09 00 00 BB  ...2............
+01B0: 01 03 06 00 00 00 03 00  00 11 80 0B 00 00 01 99  ................
+01C0: 01 1B 1A B8 08 1A 39 01  06 05 00 06 00 00 06 06  ......9.........
+01D0: 00 06 11 00 06 12 00 03  11 00 03 00 14 11 00 0E  ................
+01E0: 80 03 12 00 11 00 07 12  00 0E 80 0C 12 00 02 12  ................
+01F0: 00 0E 00 04 FE 01 03 12  00 0E 00 0C 12 00 06 06  ................
+0200: 00 02 00 00 11 80 03 A0  02 1A 7D 01 3F 0F 00 00  ..........}.?...
+0210: 00 12 80 3E 09 00 0F 00  1D 02 01 9A 02 02 06 00  ...>............
+0220: 11 00 04 97 02 02 06 00  12 00 05 92 02 9D 00 32  ...............2
+0230: 09 01 00 00 00 9D 00 C2  09 08 00 00 00 9D 00 72  ...............r
+0240: 0B 14 00 00 00 02 14 00  04 80 00 5D 02 02 0D 00  ...........]....
+0250: 13 80 01 5A 02 14 08 00  14 80 01 68 02 02 0D 00  ...Z.......h....
+0260: 13 80 00 68 02 06 01 00  02 01 00 01 80 02 8F 02  ...h............
+0270: 3F 13 00 06 00 0E 80 9D  05 E2 08 01 00 13 00 07  ?...............
+0280: 13 00 0E 80 9D 05 E2 08  08 00 13 00 01 8F 02 01  ................
+0290: 97 02 03 00 00 11 80 0B  06 00 0B 00 00 01 01 02  ................
+02A0: 03 13 00 12 00 08 13 00  11 00 0B 13 00 40 13 00  .............@..
+02B0: 0F 80 05 00 15 80 10 05  00 0B 80 02 03 00 01 80  ................
+02C0: 02 CD 02 3D 05 00 08 80  04 80 01 D4 02 3C 05 00  ...=.........<..
+02D0: 08 80 04 80 02 03 00 10  00 03 E6 02 3D 05 00 09  ............=...
+02E0: 80 04 80 01 ED 02 3C 05  00 09 80 04 80 02 03 00  ......<.........
+02F0: 01 80 02 FF 02 3C 05 00  04 80 04 80 01 06 03 3D  .....<.........=
+0300: 05 00 04 80 04 80 1B 9D  00 32 09 01 00 06 00 9D  .........2......
+0310: 00 C2 09 08 00 06 00 03  03 10 01 00 03 05 10 08  ................
+0320: 00 02 06 00 01 80 80 30  03 1D 16 80 23 01 B7 08  .......0....#...
+0330: 02 06 00 04 80 80 3F 03  1D 17 80 23 01 B7 08 02  ......?....#....
+0340: 06 00 0B 80 80 4E 03 1D  18 80 23 01 B7 08 02 06  .....N....#.....
+0350: 00 19 80 80 5D 03 1D 1A  80 23 01 B7 08 02 06 00  ....]....#......
+0360: 0A 80 80 6C 03 1D 1B 80  23 01 B7 08 02 06 00 1C  ...l....#.......
+0370: 80 80 7B 03 1D 1D 80 23  01 B7 08 02 06 00 1E 80  ..{....#........
+0380: 80 8A 03 1D 1F 80 23 01  B7 08 02 06 00 20 80 80  ......#...... ..
+0390: 99 03 1D 21 80 23 01 B7  08 02 06 00 13 80 80 A8  ...!.#..........
+03A0: 03 1D 22 80 23 01 B7 08  02 06 00 23 80 80 B7 03  ..".#......#....
+03B0: 1D 24 80 23 01 B7 08 02  06 00 14 80 80 C6 03 1D  .$.#............
+03C0: 25 80 23 01 B7 08 02 06  00 26 80 80 D5 03 1D 27  %.#......&.....'
+03D0: 80 23 01 B7 08 02 06 00  28 80 80 E4 03 1D 29 80  .#......(.....).
+03E0: 23 01 B7 08 02 06 00 2A  80 80 F3 03 1D 2B 80 23  #......*.....+.#
+03F0: 01 B7 08 02 06 00 2C 80  80 02 04 1D 2D 80 23 01  ......,.....-.#.
+0400: B7 08 02 06 00 0D 80 80  11 04 1D 2E 80 23 01 B7  .............#..
+0410: 08 02 06 00 0E 80 80 20  04 1D 2F 80 23 01 B7 08  ....... ../.#...
+0420: 02 06 00 30 80 80 2F 04  1D 31 80 23 01 B7 08 02  ...0../..1.#....
+0430: 06 00 08 80 80 3E 04 1D  32 80 23 01 B7 08 02 06  .....>..2.#.....
+0440: 00 09 80 80 4D 04 1D 33  80 23 01 B7 08 02 06 00  ....M..3.#......
+0450: 34 80 80 66 04 03 04 10  35 80 03 06 10 36 80 1D  4..f....5....6..
+0460: 37 80 23 01 B7 08 02 06  00 38 80 80 7A 04 03 04  7.#......8..z...
+0470: 10 39 80 1D 3A 80 23 01  B7 08 02 06 00 3B 80 80  .9..:.#......;..
+0480: 8E 04 03 04 10 3C 80 1D  3A 80 23 01 B7 08 02 06  .....<..:.#.....
+0490: 00 3D 80 80 A7 04 03 04  10 3E 80 03 06 10 3F 80  .=.......>....?.
+04A0: 1D 37 80 23 01 B7 08 02  06 00 40 80 80 BB 04 03  .7.#......@.....
+04B0: 04 10 41 80 1D 3A 80 23  01 B7 08 02 06 00 42 80  ..A..:.#......B.
+04C0: 80 CF 04 03 04 10 43 80  1D 3A 80 23 01 B7 08 02  ......C..:.#....
+04D0: 06 00 44 80 80 E3 04 03  04 10 45 80 1D 3A 80 23  ..D.......E..:.#
+04E0: 01 B7 08 02 06 00 46 80  80 F7 04 03 04 10 47 80  ......F.......G.
+04F0: 1D 3A 80 23 01 B7 08 02  06 00 48 80 80 0B 05 03  .:.#......H.....
+0500: 04 10 49 80 1D 3A 80 23  01 B7 08 02 06 00 4A 80  ..I..:.#......J.
+0510: 80 29 05 03 04 10 4B 80  03 06 10 4C 80 03 07 10  .)....K....L....
+0520: 4D 80 1D 4E 80 23 01 B7  08 02 06 00 4F 80 80 3D  M..N.#......O..=
+0530: 05 03 04 10 50 80 1D 3A  80 23 01 B7 08 02 06 00  ....P..:.#......
+0540: 0F 80 80 56 05 03 04 10  51 80 03 06 10 52 80 1D  ...V....Q....R..
+0550: 37 80 23 01 B7 08 02 06  00 12 80 80 65 05 1D 53  7.#.........e..S
+0560: 80 23 01 B7 08 02 06 00  54 80 80 79 05 03 04 10  .#......T..y....
+0570: 55 80 1D 3A 80 23 01 B7  08 02 06 00 56 80 80 8D  U..:.#......V...
+0580: 05 03 04 10 57 80 1D 3A  80 23 01 B7 08 02 06 00  ....W..:.#......
+0590: 58 80 80 A1 05 03 04 10  59 80 1D 3A 80 23 01 B7  X.......Y..:.#..
+05A0: 08 02 06 00 5A 80 80 B5  05 03 04 10 5B 80 1D 3A  ....Z.......[..:
+05B0: 80 23 01 B7 08 02 06 00  5C 80 80 C4 05 1D 5D 80  .#......\.....].
+05C0: 23 01 B7 08 02 06 00 5E  80 80 D8 05 03 04 10 5F  #......^......._
+05D0: 80 1D 3A 80 23 01 B7 08  02 06 00 60 80 80 EC 05  ..:.#......`....
+05E0: 03 04 10 61 80 1D 3A 80  23 01 B7 08 02 06 00 62  ...a..:.#......b
+05F0: 80 80 05 06 03 04 10 63  80 03 06 10 64 80 1D 37  .......c....d..7
+0600: 80 23 01 B7 08 02 06 00  65 80 80 19 06 03 04 10  .#......e.......
+0610: 66 80 1D 3A 80 23 01 B7  08 02 06 00 67 80 80 2D  f..:.#......g..-
+0620: 06 03 04 10 68 80 1D 3A  80 23 01 B7 08 02 06 00  ....h..:.#......
+0630: 69 80 80 41 06 03 04 10  6A 80 1D 3A 80 23 01 B7  i..A....j..:.#..
+0640: 08 02 06 00 6B 80 80 50  06 1D 6C 80 23 01 B7 08  ....k..P..l.#...
+0650: 02 06 00 6D 80 80 64 06  03 04 10 6E 80 1D 3A 80  ...m..d....n..:.
+0660: 23 01 B7 08 02 06 00 6F  80 80 78 06 03 04 10 1C  #......o..x.....
+0670: 80 1D 3A 80 23 01 B7 08  02 06 00 70 80 80 8C 06  ..:.#......p....
+0680: 03 04 10 20 80 1D 3A 80  23 01 B7 08 02 06 00 71  ... ..:.#......q
+0690: 80 80 A0 06 03 04 10 23  80 1D 3A 80 23 01 B7 08  .......#..:.#...
+06A0: 02 06 00 72 80 80 B4 06  03 04 10 26 80 1D 3A 80  ...r.......&..:.
+06B0: 23 01 B7 08 02 06 00 73  80 80 C8 06 03 04 10 28  #......s.......(
+06C0: 80 1D 3A 80 23 01 B7 08  02 06 00 74 80 80 E6 06  ..:.#......t....
+06D0: 03 04 10 40 80 03 06 10  42 80 03 07 10 44 80 1D  ...@....B....D..
+06E0: 4E 80 23 01 B7 08 02 06  00 75 80 80 FA 06 03 04  N.#......u......
+06F0: 10 46 80 1D 3A 80 23 01  B7 08 02 06 00 76 80 80  .F..:.#......v..
+0700: 0E 07 03 04 10 48 80 1D  3A 80 23 01 B7 08 02 06  .....H..:.#.....
+0710: 00 77 80 80 27 07 03 04  10 4F 80 03 06 10 4A 80  .w..'....O....J.
+0720: 1D 37 80 23 01 B7 08 02  06 00 78 80 80 3B 07 03  .7.#......x..;..
+0730: 04 10 54 80 1D 3A 80 23  01 B7 08 02 06 00 79 80  ..T..:.#......y.
+0740: 80 4F 07 03 04 10 56 80  1D 3A 80 23 01 B7 08 02  .O....V..:.#....
+0750: 06 00 7A 80 80 63 07 03  04 10 58 80 1D 3A 80 23  ..z..c....X..:.#
+0760: 01 B7 08 02 06 00 7B 80  80 77 07 03 04 10 08 00  ......{..w......
+0770: 1D 7C 80 23 01 B7 08 02  06 00 7D 80 80 86 07 1D  .|.#......}.....
+0780: 7E 80 23 01 B7 08 02 06  00 7F 80 80 95 07 1D 80  ~.#.............
+0790: 80 23 01 B7 08 02 06 00  81 80 80 A9 07 03 04 10  .#..............
+07A0: 82 80 1D 3A 80 23 01 B7  08 02 06 00 83 80 80 BD  ...:.#..........
+07B0: 07 03 04 10 81 80 1D 3A  80 23 01 B7 08 02 06 00  .......:.#......
+07C0: 84 80 80 D1 07 03 04 10  85 80 1D 3A 80 23 01 B7  ...........:.#..
+07D0: 08 02 06 00 86 80 80 E5  07 03 04 10 87 80 1D 3A  ...............:
+07E0: 80 23 01 B7 08 02 06 00  87 80 80 F9 07 03 04 10  .#..............
+07F0: 83 80 1D 3A 80 23 01 B7  08 02 06 00 88 80 80 0D  ...:.#..........
+0800: 08 03 04 10 77 80 1D 3A  80 23 01 B7 08 02 06 00  ....w..:.#......
+0810: 89 80 80 21 08 03 04 10  11 80 1D 3A 80 23 01 B7  ...!.......:.#..
+0820: 08 02 06 00 85 80 80 30  08 1D 8A 80 23 01 B7 08  .......0....#...
+0830: 02 06 00 8B 80 80 5D 08  02 0D 00 13 80 00 4C 08  ......].......L.
+0840: 03 04 10 8C 80 1D 3A 80  23 01 5A 08 03 04 10 8C  ......:.#.Z.....
+0850: 80 14 05 10 14 80 1D 8D  80 23 01 B7 08 02 06 00  .........#......
+0860: 8E 80 80 8A 08 02 0D 00  13 80 00 79 08 03 04 10  ...........y....
+0870: 8F 80 1D 3A 80 23 01 87  08 03 04 10 8F 80 14 05  ...:.#..........
+0880: 10 14 80 1D 8D 80 23 01  B7 08 02 06 00 90 80 80  ......#.........
+0890: B7 08 02 0D 00 13 80 00  A6 08 03 04 10 91 80 1D  ................
+08A0: 3A 80 23 01 B4 08 03 04  10 91 80 14 05 10 14 80  :.#.............
+08B0: 1D 8D 80 23 01 B7 08 1B  06 00 00 02 00 00 62 80  ...#..........b.
+08C0: 03 D1 08 9D 05 E2 08 01  80 00 00 0B 00 00 01 BB  ................
+08D0: 08 1B 0A 00 0B 00 0C 00  01 80 01 80 01 80 01 80  ................
+08E0: 01 80 03 10 04 10 05 10  06 10 07 10 08 10 09 10  ................
+08F0: 00 17 01 17 02 17 03 17  04 17 05 17 06 17 07 17  ................
+0900: 08 17 09 17 0A 17 0B 17  0C 17 0D 17 0E 17 0F 17  ................
+0910: 10 17 11 17 12 17 13 17  14 17 15 17 16 17 17 17  ................
+0920: 18 17 19 17 1A 17 1B 17  1C 17 1D 17 1E 17 1F 17  ................
+0930: 02 10 92 80 93 80 94 80  95 80 96 80 97 80 98 80  ................
+0940: 99 80 9A 80 9B 80 9C 80  9D 80 9E 80 9F 80 A0 80  ................
+0950: A1 80 A2 80 A3 80 A4 80  A5 80 A6 80 A7 80 A8 80  ................
+0960: A9 80 AA 80 AB 80 AC 80  AD 80 AE 80 AF 80 B0 80  ................
+0970: B1 80 B2 80 B3 80 B4 80  B5 80 B6 80 B7 80 B8 80  ................
+0980: B9 80 BA 80 BB 80 BC 80  BD 80 BE 80 BF 80 C0 80  ................
+0990: C1 80 C2 80 C3 80 C4 80  C5 80 C6 80 C7 80 C8 80  ................
+09A0: C9 80 CA 80 CB 80 CC 80  CD 80 CE 80 CF 80 D0 80  ................
+09B0: D1 80 D2 80 D3 80 D4 80  D5 80 D6 80 D7 80 D8 80  ................
+09C0: D9 80 DA 80 DA 80 DA 80  DB 80 DB 80 DB 80 DC 80  ................
+09D0: DC 80 DA 80 DB 80 DC 80  DB 80 DC 80 DB 80 DC 80  ................
+09E0: DC 80 DC 80 DC 80 DC 80  DC 80 DC 80 DB 80 DB 80  ................
+09F0: DB 80 DC 80 DC 80 DB 80  DC 80 DC 80 DC 80 DC 80  ................
+0A00: DC 80 DC 80 DC 80 DC 80  DC 80 DC 80 DC 80 DC 80  ................
+0A10: DC 80 DC 80 DC 80 DC 80  DC 80 DC 80 DC 80 DC 80  ................
+0A20: DC 80 DC 80 DC 80 DC 80  DC 80 DC 80 DC 80 DC 80  ................
+0A30: DC 80 DC 80 DC 80 DB 80  DC 80 DC 80 DC 80 DC 80  ................
+0A40: DC 80 DC 80 DC 80 DC 80  DC 80 DC 80 DC 80 DC 80  ................
+0A50: DC 80 DD 80 DE 80 DF 80  E0 80 E1 80 E2 80 E3 80  ................
+0A60: 0B 80 E4 80 E5 80 E6 80  E7 80 E1 80 E8 80 E9 80  ................
+0A70: 0A 80 EA 80 EB 80 DA 80  EC 80 35 80 39 80 3C 80  ..........5.9.<.
+0A80: 3E 80 41 80 43 80 45 80  47 80 49 80 4B 80 50 80  >.A.C.E.G.I.K.P.
+0A90: 51 80 EA 80 55 80 57 80  59 80 5B 80 ED 80 5F 80  Q...U.W.Y.[..._.
+0AA0: 61 80 63 80 66 80 68 80  6A 80 EE 80 6E 80 1C 80  a.c.f.h.j...n...
+0AB0: 20 80 23 80 26 80 28 80  44 80 46 80 48 80 4F 80   .#.&.(.D.F.H.O.
+0AC0: 54 80 56 80 58 80 71 80  76 80 74 80 82 80 81 80  T.V.X.q.v.t.....
+0AD0: 85 80 87 80 83 80 77 80  11 80 EF 80 8C 80 8F 80  ......w.........
+0AE0: 91 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0AF0: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0B00: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0B10: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0B20: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0B30: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0B40: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0B50: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F0 80 F0 80  ................
+0B60: F0 80 F0 80 F0 80 F0 80  F0 80 F0 80 F1 80 F1 80  ................
+0B70: F1 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0B80: 01 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0B90: 01 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0BA0: 01 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0BB0: 01 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0BC0: 01 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0BD0: 01 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0BE0: 01 80 01 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0BF0: 01 80 01 80 01 80 01 80  01 80 01 80 04 80 04 80  ................
+0C00: 04 80                                             ..              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11175*)
+    → "How about a magic map to help you on your adventures?"
+  2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x000A [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
+  4: 0x000F [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[3]
+  5: 0x0014 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[4]
+  6: 0x0019 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[8]
+  7: 0x001E [0x1A] CALL_SUBROUTINE(address=0x0023)
+  8: 0x0021 [0x21] END_EVENT
+  9: 0x0022 [0x00] END_REQSTACK()
+
+SUBROUTINE_0023:
+ 10: 0x0023 [0x06] ExtData[1]->WorkLocal[4] = 0
+ 11: 0x0026 [0x06] ExtData[1]->WorkLocal[2] = 0
+ 12: 0x0029 [0x06] ExtData[1]->WorkLocal[3] = 0
+
+SUBROUTINE_002C:
+ 13: 0x002C [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0138
+ 14: 0x0034 [0x1A] CALL_SUBROUTINE(address=0x01C2)
+ 15: 0x0037 [0x24] CREATE_DIALOG(message_id=11176*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[5])
+    → "Buy a map? [Decline./Inquire about maps./$3 ($17 gil)./$3 ($18 gil)./$3 ($19 gil)./$3 ($20 gil)./$3 ($21 gil)./$3 ($22 gil)./$3 ($23 gil)./$3 ($24 gil)./$3 ($25 gil)./$3 ($26 gil)./$3 ($27 gil)./$3 ($28 gil)./$3 ($29 gil)./$3 ($30 gil)./$3 ($31 gil)./$3 ($ gil)./Previous page./Next page.]"
+ 16: 0x003E [0x25] WAIT_DIALOG_SELECT()
+ 17: 0x003F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004A
+ 18: 0x0047 [0x01] GOTO 0x004A
+
+SUBROUTINE_004A:
+ 19: 0x004A [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
+ 20: 0x004F [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0062
+ 21: 0x0057 [0x03] Work_Zone[1] = 1073741824*
+ 22: 0x005C [0x05] ExtData[1]->WorkLocal[4] = 1
+ 23: 0x005F [0x01] GOTO 0x00AE
+ 24: 0x0062 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x007C
+ 25: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11177*)
+    → "If you have a map, you can check both the lay of the land and your location whenever you enter an area."
+ 26: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=11178*)
+    → "If you belong to a party or alliance, you can also check the position of your allies. And depending on your job, you can find NPCs and enemies from afar."
+ 28: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 29: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=11179*)
+    → "Furthermore, you can even record specific points in the area or have places marked down for certain events. So you see, magic maps are extremely useful."
+ 30: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 31: 0x0076 [0x06] ExtData[1]->WorkLocal[2] = 0
+ 32: 0x0079 [0x01] GOTO 0x00AE
+ 33: 0x007C [0x02] IF !(ExtData[1]->WorkLocal[2] == 18*) GOTO 0x0095
+ 34: 0x0084 [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x0092
+ 35: 0x008C [0x0C] ExtData[1]->WorkLocal[3]--
+ 36: 0x008F [0x06] ExtData[1]->WorkLocal[2] = 0
+ 37: 0x0092 [0x01] GOTO 0x00AE
+ 38: 0x0095 [0x02] IF !(ExtData[1]->WorkLocal[2] == 19*) GOTO 0x00AE
+ 39: 0x009D [0x02] IF !(ExtData[1]->WorkLocal[3] >= 4*) GOTO 0x00AB
+ 40: 0x00A5 [0x0B] ExtData[1]->WorkLocal[3]++
+ 41: 0x00A8 [0x06] ExtData[1]->WorkLocal[2] = 0
+ 42: 0x00AB [0x01] GOTO 0x00AE
+
+SUBROUTINE_00AE:
+ 43: 0x00AE [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0135
+ 44: 0x00B6 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[2]
+ 45: 0x00BB [0x08] ExtData[1]->WorkLocal[6] -= 2*
+ 46: 0x00C0 [0x9D] ExtData[1]->WorkLocal[1] = 0x08E2[ExtData[1]->WorkLocal[6]] // Read WORD
+ 47: 0x00C8 [0x1A] CALL_SUBROUTINE(address=0x0196)
+ 48: 0x00CB [0x9D] ExtData[1]->WorkLocal[1] = 0x0932[ExtData[1]->WorkLocal[6]] // Read WORD
+ 49: 0x00D3 [0x9D] ExtData[1]->WorkLocal[8] = 0x09C2[ExtData[1]->WorkLocal[6]] // Read WORD
+ 50: 0x00DB [0x1A] CALL_SUBROUTINE(address=0x0307)
+ 51: 0x00DE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
+ 52: 0x00E3 [0x24] CREATE_DIALOG(message_id=11203*, default_option=1*, option_flags=0*)
+    → "Buy $6? [Yes./No.]"
+ 53: 0x00EA [0x25] WAIT_DIALOG_SELECT()
+ 54: 0x00EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012A
+ 55: 0x00F3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
+ 56: 0x00FC [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[6])
+ 57: 0x0105 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 58: 0x0107 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 59: 0x0109 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
+ 60: 0x010E [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[3]
+ 61: 0x0113 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[4]
+ 62: 0x0118 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0123
+ 63: 0x0120 [0x01] GOTO 0x0127
+ 64: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=11204*)
+    → "You don't have enough money."
+ 65: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0127:
+ 66: 0x0127 [0x01] GOTO 0x0135
+ 67: 0x012A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0135
+ 68: 0x0132 [0x01] GOTO 0x0135
+
+SUBROUTINE_0135:
+ 69: 0x0135 [0x01] GOTO 0x002C
+ 70: 0x0138 [0x1B] RETURN
+
+SUBROUTINE_0139:
+ 71: 0x0139 [0x06] ExtData[1]->WorkLocal[0] = 0
+ 72: 0x013C [0x06] ExtData[1]->WorkLocal[14] = 0
+ 73: 0x013F [0x06] ExtData[1]->WorkLocal[9] = 0
+
+SUBROUTINE_0142:
+ 74: 0x0142 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 72*) GOTO 0x0167
+ 75: 0x014A [0x1A] CALL_SUBROUTINE(address=0x017D)
+ 76: 0x014D [0x3F] ExtData[1]->WorkLocal[21] = ExtData[1]->WorkLocal[0] % 32*
+ 77: 0x0154 [0x3E] IF !(ExtData[1]->WorkLocal[9] bit ExtData[1]->WorkLocal[21]) GOTO 0x015E
+ 78: 0x015B [0x01] GOTO 0x0161
+ 79: 0x015E [0x0B] ExtData[1]->WorkLocal[14]++
+
+SUBROUTINE_0161:
+ 80: 0x0161 [0x0B] ExtData[1]->WorkLocal[0]++
+ 81: 0x0164 [0x01] GOTO 0x0142
+ 82: 0x0167 [0x03] ExtData[1]->WorkLocal[16] = ExtData[1]->WorkLocal[14]
+ 83: 0x016C [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x017C
+ 84: 0x0174 [0x0C] ExtData[1]->WorkLocal[16]--
+ 85: 0x0177 [0x15] ExtData[1]->WorkLocal[16] /= 16*
+ 86: 0x017C [0x1B] RETURN
+
+SUBROUTINE_017D:
+ 87: 0x017D [0x06] ExtData[1]->WorkLocal[15] = 0
+ 88: 0x0180 [0x06] ExtData[1]->WorkLocal[9] = 0
+ 89: 0x0183 [0x03] ExtData[1]->WorkLocal[15] = ExtData[1]->WorkLocal[0]
+ 90: 0x0188 [0x15] ExtData[1]->WorkLocal[15] /= 32*
+ 91: 0x018D [0x9D] ExtData[1]->WorkLocal[9] = 0x08D2[ExtData[1]->WorkLocal[15]] // Read WORD
+ 92: 0x0195 [0x1B] RETURN
+
+SUBROUTINE_0196:
+ 93: 0x0196 [0x06] ExtData[1]->WorkLocal[0] = 0
+
+SUBROUTINE_0199:
+ 94: 0x0199 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 72*) GOTO 0x01C1
+ 95: 0x01A1 [0x9D] ExtData[1]->WorkLocal[9] = 0x0932[ExtData[1]->WorkLocal[0]] // Read WORD
+ 96: 0x01A9 [0x02] IF !(ExtData[1]->WorkLocal[1] == ExtData[1]->WorkLocal[9]) GOTO 0x01BB
+ 97: 0x01B1 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[0]
+ 98: 0x01B6 [0x03] ExtData[1]->WorkLocal[0] = 72*
+ 99: 0x01BB [0x0B] ExtData[1]->WorkLocal[0]++
+100: 0x01BE [0x01] GOTO 0x0199
+101: 0x01C1 [0x1B] RETURN
+
+SUBROUTINE_01C2:
+102: 0x01C2 [0x1A] CALL_SUBROUTINE(address=0x08B8)
+103: 0x01C5 [0x1A] CALL_SUBROUTINE(address=0x0139)
+104: 0x01C8 [0x06] ExtData[1]->WorkLocal[5] = 0
+105: 0x01CB [0x06] ExtData[1]->WorkLocal[0] = 0
+106: 0x01CE [0x06] ExtData[1]->WorkLocal[6] = 0
+107: 0x01D1 [0x06] ExtData[1]->WorkLocal[17] = 0
+108: 0x01D4 [0x06] ExtData[1]->WorkLocal[18] = 0
+109: 0x01D7 [0x03] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[3]
+110: 0x01DC [0x14] ExtData[1]->WorkLocal[17] *= 16*
+111: 0x01E1 [0x03] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[17]
+112: 0x01E6 [0x07] ExtData[1]->WorkLocal[18] += 16*
+113: 0x01EB [0x0C] ExtData[1]->WorkLocal[18]--
+114: 0x01EE [0x02] IF !(ExtData[1]->WorkLocal[18] < ExtData[1]->WorkLocal[14]) GOTO 0x01FE
+115: 0x01F6 [0x03] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[14]
+116: 0x01FB [0x0C] ExtData[1]->WorkLocal[18]--
+117: 0x01FE [0x06] ExtData[1]->WorkLocal[6] = 0
+
+SUBROUTINE_0201:
+118: 0x0201 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 72*) GOTO 0x02A0
+119: 0x0209 [0x1A] CALL_SUBROUTINE(address=0x017D)
+120: 0x020C [0x3F] ExtData[1]->WorkLocal[15] = ExtData[1]->WorkLocal[0] % 32*
+121: 0x0213 [0x3E] IF !(ExtData[1]->WorkLocal[9] bit ExtData[1]->WorkLocal[15]) GOTO 0x021D
+122: 0x021A [0x01] GOTO 0x029A
+123: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[6] < ExtData[1]->WorkLocal[17]) GOTO 0x0297
+124: 0x0225 [0x02] IF !(ExtData[1]->WorkLocal[6] > ExtData[1]->WorkLocal[18]) GOTO 0x0292
+125: 0x022D [0x9D] ExtData[1]->WorkLocal[1] = 0x0932[ExtData[1]->WorkLocal[0]] // Read WORD
+126: 0x0235 [0x9D] ExtData[1]->WorkLocal[8] = 0x09C2[ExtData[1]->WorkLocal[0]] // Read WORD
+127: 0x023D [0x9D] ExtData[1]->WorkLocal[20] = 0x0B72[ExtData[1]->WorkLocal[0]] // Read WORD
+128: 0x0245 [0x02] IF !(ExtData[1]->WorkLocal[20] == 1*) GOTO 0x025D
+129: 0x024D [0x02] IF !(ExtData[1]->WorkLocal[13] == 8*) GOTO 0x025A
+130: 0x0255 [0x14] ExtData[1]->WorkLocal[8] *= 10*
+131: 0x025A [0x01] GOTO 0x0268
+132: 0x025D [0x02] IF !(ExtData[1]->WorkLocal[13] == 8*) GOTO 0x0268
+133: 0x0265 [0x06] ExtData[1]->WorkLocal[1] = 0
+
+SUBROUTINE_0268:
+134: 0x0268 [0x02] IF !(ExtData[1]->WorkLocal[1] <= 0*) GOTO 0x028F
+135: 0x0270 [0x3F] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[6] % 16*
+136: 0x0277 [0x9D] 0x08E2[ExtData[1]->WorkLocal[19] * 2] = ExtData[1]->WorkLocal[1] // Write WORD
+137: 0x027F [0x07] ExtData[1]->WorkLocal[19] += 16*
+138: 0x0284 [0x9D] 0x08E2[ExtData[1]->WorkLocal[19] * 2] = ExtData[1]->WorkLocal[8] // Write WORD
+139: 0x028C [0x01] GOTO 0x028F
+
+SUBROUTINE_028F:
+140: 0x028F [0x01] GOTO 0x0297
+141: 0x0292 [0x03] ExtData[1]->WorkLocal[0] = 72*
+
+SUBROUTINE_0297:
+142: 0x0297 [0x0B] ExtData[1]->WorkLocal[6]++
+
+SUBROUTINE_029A:
+143: 0x029A [0x0B] ExtData[1]->WorkLocal[0]++
+144: 0x029D [0x01] GOTO 0x0201
+145: 0x02A0 [0x03] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[18]
+146: 0x02A5 [0x08] ExtData[1]->WorkLocal[19] -= ExtData[1]->WorkLocal[17]
+147: 0x02AA [0x0B] ExtData[1]->WorkLocal[19]++
+148: 0x02AD [0x40] SET_BIT_WORK_RANGE(start_bit=ExtData[1]->WorkLocal[19], end_bit=31*, target=ExtData[1]->WorkLocal[5], source=4294967295*)
+149: 0x02B6 [0x10] ExtData[1]->WorkLocal[5] <<= 2*
+150: 0x02BB [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x02CD
+151: 0x02C3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=18*, condition_work_offset=1*)
+152: 0x02CA [0x01] GOTO 0x02D4
+153: 0x02CD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=18*, condition_work_offset=1*)
+
+SUBROUTINE_02D4:
+154: 0x02D4 [0x02] IF !(ExtData[1]->WorkLocal[3] >= ExtData[1]->WorkLocal[16]) GOTO 0x02E6
+155: 0x02DC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=19*, condition_work_offset=1*)
+156: 0x02E3 [0x01] GOTO 0x02ED
+157: 0x02E6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=19*, condition_work_offset=1*)
+
+SUBROUTINE_02ED:
+158: 0x02ED [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x02FF
+159: 0x02F5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=1*, condition_work_offset=1*)
+160: 0x02FC [0x01] GOTO 0x0306
+161: 0x02FF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=1*, condition_work_offset=1*)
+
+SUBROUTINE_0306:
+162: 0x0306 [0x1B] RETURN
+
+SUBROUTINE_0307:
+163: 0x0307 [0x9D] ExtData[1]->WorkLocal[1] = 0x0932[ExtData[1]->WorkLocal[6]] // Read WORD
+164: 0x030F [0x9D] ExtData[1]->WorkLocal[8] = 0x09C2[ExtData[1]->WorkLocal[6]] // Read WORD
+165: 0x0317 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
+166: 0x031C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[8]
+167: 0x0321 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0330
+168: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+    → "The $3 covers Ronfaure, the La Theine Plateau, the Valkurm Dunes, Jugner Forest, Selbina, and San d'Oria. It costs $3 gil."
+169: 0x032C [0x23] WAIT_FOR_DIALOG_INTERACTION
+170: 0x032D [0x01] GOTO 0x08B7
+171: 0x0330 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x033F
+172: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
+    → "The $3 covers Gustaberg, the Konschtat Highlands, the Pashhow Marshlands, and Bastok. It costs $3 gil."
+173: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
+174: 0x033C [0x01] GOTO 0x08B7
+175: 0x033F [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x034E
+176: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=11182*)
+    → "The $3 covers Sarutabaruta, the Tahrongi Canyon, the Buburimu Peninsula, the Meriphataud Mountains, Mhaura, and Windurst. It costs $3 gil."
+177: 0x034A [0x23] WAIT_FOR_DIALOG_INTERACTION
+178: 0x034B [0x01] GOTO 0x08B7
+179: 0x034E [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x035D
+180: 0x0356 [0x1D] PRINT_EVENT_MESSAGE(message_id=11183*)
+    → "The $3 covers Batallia Downs, Rolanberry Fields, the Sauromugue Champaign, and Jeuno. It costs $3 gil."
+181: 0x0359 [0x23] WAIT_FOR_DIALOG_INTERACTION
+182: 0x035A [0x01] GOTO 0x08B7
+183: 0x035D [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x036C
+184: 0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=11184*)
+    → "This complete $3, which extend far beneath La Theine Plateau, costs $3 gil."
+185: 0x0368 [0x23] WAIT_FOR_DIALOG_INTERACTION
+186: 0x0369 [0x01] GOTO 0x08B7
+187: 0x036C [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x037B
+188: 0x0374 [0x1D] PRINT_EVENT_MESSAGE(message_id=11185*)
+    → "$5 include layouts for both outpost and fortress of Ghelsba, as well as the Yughott Grotto. It costs $3 gil."
+189: 0x0377 [0x23] WAIT_FOR_DIALOG_INTERACTION
+190: 0x0378 [0x01] GOTO 0x08B7
+191: 0x037B [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x038A
+192: 0x0383 [0x1D] PRINT_EVENT_MESSAGE(message_id=11186*)
+    → "The $3 shows the notorious Orcish stronghold hidden within Jugner Forest. It is priced at $3 gil."
+193: 0x0386 [0x23] WAIT_FOR_DIALOG_INTERACTION
+194: 0x0387 [0x01] GOTO 0x08B7
+195: 0x038A [0x02] IF !(ExtData[1]->WorkLocal[6] == 7*) GOTO 0x0399
+196: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=11187*)
+    → "This map shows the waterways and islands that make up Carpenters' Landing. It is priced at $3 gil."
+197: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
+198: 0x0396 [0x01] GOTO 0x08B7
+199: 0x0399 [0x02] IF !(ExtData[1]->WorkLocal[6] == 8*) GOTO 0x03A8
+200: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11188*)
+    → "The $3, as the name implies, contains the layout of Bastok's Zeruhn Mines. It costs $3 gil."
+201: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+202: 0x03A5 [0x01] GOTO 0x08B7
+203: 0x03A8 [0x02] IF !(ExtData[1]->WorkLocal[6] == 9*) GOTO 0x03B7
+204: 0x03B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11189*)
+    → "The $3, as the name implies, contains the layout of the Palborough Mines, which lie in North Gustaberg. It costs $3 gil."
+205: 0x03B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+206: 0x03B4 [0x01] GOTO 0x08B7
+207: 0x03B7 [0x02] IF !(ExtData[1]->WorkLocal[6] == 10*) GOTO 0x03C6
+208: 0x03BF [0x1D] PRINT_EVENT_MESSAGE(message_id=11190*)
+    → "The $3, as the name implies, contains the layout of the Quadav stronghold, Beadeaux, that is located in the Pashhow Marshlands. It costs $3 gil."
+209: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+210: 0x03C3 [0x01] GOTO 0x08B7
+211: 0x03C6 [0x02] IF !(ExtData[1]->WorkLocal[6] == 11*) GOTO 0x03D5
+212: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=11191*)
+    → "The $3, as the name implies, contains the layout of Giddeus, which you can reach from West Sarutabaruta. It costs $3 gil."
+213: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+214: 0x03D2 [0x01] GOTO 0x08B7
+215: 0x03D5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 12*) GOTO 0x03E4
+216: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11192*)
+    → "The $3 contains the layout of the Yagudo stronghold, Castle Oztroja, located in the Meriphataud Mountains. It costs $3 gil."
+217: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+218: 0x03E1 [0x01] GOTO 0x08B7
+219: 0x03E4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 13*) GOTO 0x03F3
+220: 0x03EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11193*)
+    → "The $3 contains the layout of the underground maze of Shakhrami that can be found in the Tahrongi Canyon area. It costs $3 gil."
+221: 0x03EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+222: 0x03F0 [0x01] GOTO 0x08B7
+223: 0x03F3 [0x02] IF !(ExtData[1]->WorkLocal[6] == 14*) GOTO 0x0402
+224: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11194*)
+    → "The $3 covers the Sanctuary of Zi'Tah, Ro'Maeve, and the Hall of the Gods. It costs $3 gil."
+225: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
+226: 0x03FF [0x01] GOTO 0x08B7
+227: 0x0402 [0x02] IF !(ExtData[1]->WorkLocal[6] == 15*) GOTO 0x0411
+228: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=11195*)
+    → "This map covers Bibiki Bay and its nearby islands. It costs $3 gil."
+229: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
+230: 0x040E [0x01] GOTO 0x08B7
+231: 0x0411 [0x02] IF !(ExtData[1]->WorkLocal[6] == 16*) GOTO 0x0420
+232: 0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=11196*)
+    → "The $3 outlines the geography of nearby Qufim Island. It costs $3 gil."
+233: 0x041C [0x23] WAIT_FOR_DIALOG_INTERACTION
+234: 0x041D [0x01] GOTO 0x08B7
+235: 0x0420 [0x02] IF !(ExtData[1]->WorkLocal[6] == 17*) GOTO 0x042F
+236: 0x0428 [0x1D] PRINT_EVENT_MESSAGE(message_id=11197*)
+    → "Located beneath Batallia Downs, the Eldieme Necropolis is shown in detail on this map. The price is $3 gil."
+237: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
+238: 0x042C [0x01] GOTO 0x08B7
+239: 0x042F [0x02] IF !(ExtData[1]->WorkLocal[6] == 18*) GOTO 0x043E
+240: 0x0437 [0x1D] PRINT_EVENT_MESSAGE(message_id=11198*)
+    → "The Garlaige Citadel, which lies upon the Sauromugue Champaign, is illustrated in this map. Each copy costs $3 gil."
+241: 0x043A [0x23] WAIT_FOR_DIALOG_INTERACTION
+242: 0x043B [0x01] GOTO 0x08B7
+243: 0x043E [0x02] IF !(ExtData[1]->WorkLocal[6] == 19*) GOTO 0x044D
+244: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=11199*)
+    → "$5 include Kazham, as well as both jungles of Yuhtunga and Yhoator for $3 gil."
+245: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
+246: 0x044A [0x01] GOTO 0x08B7
+247: 0x044D [0x02] IF !(ExtData[1]->WorkLocal[6] == 20*) GOTO 0x0466
+248: 0x0455 [0x03] Work_Zone[4] = 111*
+249: 0x045A [0x03] Work_Zone[6] = 112*
+250: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=11201*)
+    → "$5 include $8 as well as $8 for $3 gil."
+251: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
+252: 0x0463 [0x01] GOTO 0x08B7
+253: 0x0466 [0x02] IF !(ExtData[1]->WorkLocal[6] == 21*) GOTO 0x047A
+254: 0x046E [0x03] Work_Zone[4] = 190*
+255: 0x0473 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+256: 0x0476 [0x23] WAIT_FOR_DIALOG_INTERACTION
+257: 0x0477 [0x01] GOTO 0x08B7
+258: 0x047A [0x02] IF !(ExtData[1]->WorkLocal[6] == 22*) GOTO 0x048E
+259: 0x0482 [0x03] Work_Zone[4] = 191*
+260: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+261: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
+262: 0x048B [0x01] GOTO 0x08B7
+263: 0x048E [0x02] IF !(ExtData[1]->WorkLocal[6] == 23*) GOTO 0x04A7
+264: 0x0496 [0x03] Work_Zone[4] = 192*
+265: 0x049B [0x03] Work_Zone[6] = 194*
+266: 0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11201*)
+    → "$5 include $8 as well as $8 for $3 gil."
+267: 0x04A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+268: 0x04A4 [0x01] GOTO 0x08B7
+269: 0x04A7 [0x02] IF !(ExtData[1]->WorkLocal[6] == 24*) GOTO 0x04BB
+270: 0x04AF [0x03] Work_Zone[4] = 167*
+271: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+272: 0x04B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+273: 0x04B8 [0x01] GOTO 0x08B7
+274: 0x04BB [0x02] IF !(ExtData[1]->WorkLocal[6] == 25*) GOTO 0x04CF
+275: 0x04C3 [0x03] Work_Zone[4] = 169*
+276: 0x04C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+277: 0x04CB [0x23] WAIT_FOR_DIALOG_INTERACTION
+278: 0x04CC [0x01] GOTO 0x08B7
+279: 0x04CF [0x02] IF !(ExtData[1]->WorkLocal[6] == 26*) GOTO 0x04E3
+280: 0x04D7 [0x03] Work_Zone[4] = 196*
+281: 0x04DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+282: 0x04DF [0x23] WAIT_FOR_DIALOG_INTERACTION
+283: 0x04E0 [0x01] GOTO 0x08B7
+284: 0x04E3 [0x02] IF !(ExtData[1]->WorkLocal[6] == 27*) GOTO 0x04F7
+285: 0x04EB [0x03] Work_Zone[4] = 197*
+286: 0x04F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+287: 0x04F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+288: 0x04F4 [0x01] GOTO 0x08B7
+289: 0x04F7 [0x02] IF !(ExtData[1]->WorkLocal[6] == 28*) GOTO 0x050B
+290: 0x04FF [0x03] Work_Zone[4] = 166*
+291: 0x0504 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+292: 0x0507 [0x23] WAIT_FOR_DIALOG_INTERACTION
+293: 0x0508 [0x01] GOTO 0x08B7
+294: 0x050B [0x02] IF !(ExtData[1]->WorkLocal[6] == 29*) GOTO 0x0529
+295: 0x0513 [0x03] Work_Zone[4] = 184*
+296: 0x0518 [0x03] Work_Zone[6] = 157*
+297: 0x051D [0x03] Work_Zone[7] = 158*
+298: 0x0522 [0x1D] PRINT_EVENT_MESSAGE(message_id=11202*)
+    → "$5 include $8, as well as $8 and $8 for $3 gil."
+299: 0x0525 [0x23] WAIT_FOR_DIALOG_INTERACTION
+300: 0x0526 [0x01] GOTO 0x08B7
+301: 0x0529 [0x02] IF !(ExtData[1]->WorkLocal[6] == 30*) GOTO 0x053D
+302: 0x0531 [0x03] Work_Zone[4] = 204*
+303: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+304: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
+305: 0x053A [0x01] GOTO 0x08B7
+306: 0x053D [0x02] IF !(ExtData[1]->WorkLocal[6] == 31*) GOTO 0x0556
+307: 0x0545 [0x03] Work_Zone[4] = 161*
+308: 0x054A [0x03] Work_Zone[6] = 162*
+309: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=11201*)
+    → "$5 include $8 as well as $8 for $3 gil."
+310: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
+311: 0x0553 [0x01] GOTO 0x08B7
+312: 0x0556 [0x02] IF !(ExtData[1]->WorkLocal[6] == 32*) GOTO 0x0565
+313: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=11205*)
+    → "Maps of the Kuzotz region include Altepa Desert as well as Rabao for $3 gil."
+314: 0x0561 [0x23] WAIT_FOR_DIALOG_INTERACTION
+315: 0x0562 [0x01] GOTO 0x08B7
+316: 0x0565 [0x02] IF !(ExtData[1]->WorkLocal[6] == 33*) GOTO 0x0579
+317: 0x056D [0x03] Work_Zone[4] = 130*
+318: 0x0572 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+319: 0x0575 [0x23] WAIT_FOR_DIALOG_INTERACTION
+320: 0x0576 [0x01] GOTO 0x08B7
+321: 0x0579 [0x02] IF !(ExtData[1]->WorkLocal[6] == 34*) GOTO 0x058D
+322: 0x0581 [0x03] Work_Zone[4] = 252*
+323: 0x0586 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+324: 0x0589 [0x23] WAIT_FOR_DIALOG_INTERACTION
+325: 0x058A [0x01] GOTO 0x08B7
+326: 0x058D [0x02] IF !(ExtData[1]->WorkLocal[6] == 35*) GOTO 0x05A1
+327: 0x0595 [0x03] Work_Zone[4] = 159*
+328: 0x059A [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+329: 0x059D [0x23] WAIT_FOR_DIALOG_INTERACTION
+330: 0x059E [0x01] GOTO 0x08B7
+331: 0x05A1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 36*) GOTO 0x05B5
+332: 0x05A9 [0x03] Work_Zone[4] = 160*
+333: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+334: 0x05B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+335: 0x05B2 [0x01] GOTO 0x08B7
+336: 0x05B5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 37*) GOTO 0x05C4
+337: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11207*)
+    → "Maps of the Korroloka Tunnel are, as their names imply, maps of the Korroloka Tunnel, which connects Altepa Desert and Zeruhn Mines."
+338: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+339: 0x05C1 [0x01] GOTO 0x08B7
+340: 0x05C4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 38*) GOTO 0x05D8
+341: 0x05CC [0x03] Work_Zone[4] = 174*
+342: 0x05D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+343: 0x05D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+344: 0x05D5 [0x01] GOTO 0x08B7
+345: 0x05D8 [0x02] IF !(ExtData[1]->WorkLocal[6] == 39*) GOTO 0x05EC
+346: 0x05E0 [0x03] Work_Zone[4] = 153*
+347: 0x05E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+348: 0x05E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+349: 0x05E9 [0x01] GOTO 0x08B7
+350: 0x05EC [0x02] IF !(ExtData[1]->WorkLocal[6] == 40*) GOTO 0x0605
+351: 0x05F4 [0x03] Work_Zone[4] = 177*
+352: 0x05F9 [0x03] Work_Zone[6] = 178*
+353: 0x05FE [0x1D] PRINT_EVENT_MESSAGE(message_id=11201*)
+    → "$5 include $8 as well as $8 for $3 gil."
+354: 0x0601 [0x23] WAIT_FOR_DIALOG_INTERACTION
+355: 0x0602 [0x01] GOTO 0x08B7
+356: 0x0605 [0x02] IF !(ExtData[1]->WorkLocal[6] == 41*) GOTO 0x0619
+357: 0x060D [0x03] Work_Zone[4] = 205*
+358: 0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+359: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
+360: 0x0616 [0x01] GOTO 0x08B7
+361: 0x0619 [0x02] IF !(ExtData[1]->WorkLocal[6] == 42*) GOTO 0x062D
+362: 0x0621 [0x03] Work_Zone[4] = 208*
+363: 0x0626 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+364: 0x0629 [0x23] WAIT_FOR_DIALOG_INTERACTION
+365: 0x062A [0x01] GOTO 0x08B7
+366: 0x062D [0x02] IF !(ExtData[1]->WorkLocal[6] == 43*) GOTO 0x0641
+367: 0x0635 [0x03] Work_Zone[4] = 176*
+368: 0x063A [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+369: 0x063D [0x23] WAIT_FOR_DIALOG_INTERACTION
+370: 0x063E [0x01] GOTO 0x08B7
+371: 0x0641 [0x02] IF !(ExtData[1]->WorkLocal[6] == 44*) GOTO 0x0650
+372: 0x0649 [0x1D] PRINT_EVENT_MESSAGE(message_id=11206*)
+    → "Maps of the Vollbow region include Cape Teriggan, as well as Valley of Sorrows and Gustav Tunnel for $3 gil."
+373: 0x064C [0x23] WAIT_FOR_DIALOG_INTERACTION
+374: 0x064D [0x01] GOTO 0x08B7
+375: 0x0650 [0x02] IF !(ExtData[1]->WorkLocal[6] == 45*) GOTO 0x0664
+376: 0x0658 [0x03] Work_Zone[4] = 213*
+377: 0x065D [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+378: 0x0660 [0x23] WAIT_FOR_DIALOG_INTERACTION
+379: 0x0661 [0x01] GOTO 0x08B7
+380: 0x0664 [0x02] IF !(ExtData[1]->WorkLocal[6] == 46*) GOTO 0x0678
+381: 0x066C [0x03] Work_Zone[4] = 5*
+382: 0x0671 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+383: 0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
+384: 0x0675 [0x01] GOTO 0x08B7
+385: 0x0678 [0x02] IF !(ExtData[1]->WorkLocal[6] == 47*) GOTO 0x068C
+386: 0x0680 [0x03] Work_Zone[4] = 7*
+387: 0x0685 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+388: 0x0688 [0x23] WAIT_FOR_DIALOG_INTERACTION
+389: 0x0689 [0x01] GOTO 0x08B7
+390: 0x068C [0x02] IF !(ExtData[1]->WorkLocal[6] == 48*) GOTO 0x06A0
+391: 0x0694 [0x03] Work_Zone[4] = 9*
+392: 0x0699 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+393: 0x069C [0x23] WAIT_FOR_DIALOG_INTERACTION
+394: 0x069D [0x01] GOTO 0x08B7
+395: 0x06A0 [0x02] IF !(ExtData[1]->WorkLocal[6] == 49*) GOTO 0x06B4
+396: 0x06A8 [0x03] Work_Zone[4] = 11*
+397: 0x06AD [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+398: 0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+399: 0x06B1 [0x01] GOTO 0x08B7
+400: 0x06B4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 50*) GOTO 0x06C8
+401: 0x06BC [0x03] Work_Zone[4] = 12*
+402: 0x06C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+403: 0x06C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+404: 0x06C5 [0x01] GOTO 0x08B7
+405: 0x06C8 [0x02] IF !(ExtData[1]->WorkLocal[6] == 51*) GOTO 0x06E6
+406: 0x06D0 [0x03] Work_Zone[4] = 24*
+407: 0x06D5 [0x03] Work_Zone[6] = 25*
+408: 0x06DA [0x03] Work_Zone[7] = 26*
+409: 0x06DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11202*)
+    → "$5 include $8, as well as $8 and $8 for $3 gil."
+410: 0x06E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+411: 0x06E3 [0x01] GOTO 0x08B7
+412: 0x06E6 [0x02] IF !(ExtData[1]->WorkLocal[6] == 52*) GOTO 0x06FA
+413: 0x06EE [0x03] Work_Zone[4] = 27*
+414: 0x06F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+415: 0x06F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+416: 0x06F7 [0x01] GOTO 0x08B7
+417: 0x06FA [0x02] IF !(ExtData[1]->WorkLocal[6] == 53*) GOTO 0x070E
+418: 0x0702 [0x03] Work_Zone[4] = 28*
+419: 0x0707 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+420: 0x070A [0x23] WAIT_FOR_DIALOG_INTERACTION
+421: 0x070B [0x01] GOTO 0x08B7
+422: 0x070E [0x02] IF !(ExtData[1]->WorkLocal[6] == 54*) GOTO 0x0727
+423: 0x0716 [0x03] Work_Zone[4] = 30*
+424: 0x071B [0x03] Work_Zone[6] = 29*
+425: 0x0720 [0x1D] PRINT_EVENT_MESSAGE(message_id=11201*)
+    → "$5 include $8 as well as $8 for $3 gil."
+426: 0x0723 [0x23] WAIT_FOR_DIALOG_INTERACTION
+427: 0x0724 [0x01] GOTO 0x08B7
+428: 0x0727 [0x02] IF !(ExtData[1]->WorkLocal[6] == 55*) GOTO 0x073B
+429: 0x072F [0x03] Work_Zone[4] = 33*
+430: 0x0734 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+431: 0x0737 [0x23] WAIT_FOR_DIALOG_INTERACTION
+432: 0x0738 [0x01] GOTO 0x08B7
+433: 0x073B [0x02] IF !(ExtData[1]->WorkLocal[6] == 56*) GOTO 0x074F
+434: 0x0743 [0x03] Work_Zone[4] = 34*
+435: 0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+436: 0x074B [0x23] WAIT_FOR_DIALOG_INTERACTION
+437: 0x074C [0x01] GOTO 0x08B7
+438: 0x074F [0x02] IF !(ExtData[1]->WorkLocal[6] == 57*) GOTO 0x0763
+439: 0x0757 [0x03] Work_Zone[4] = 35*
+440: 0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+441: 0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
+442: 0x0760 [0x01] GOTO 0x08B7
+443: 0x0763 [0x02] IF !(ExtData[1]->WorkLocal[6] == 58*) GOTO 0x0777
+444: 0x076B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[8]
+445: 0x0770 [0x1D] PRINT_EVENT_MESSAGE(message_id=11208*)
+    → "The map of Al Zahbi also includes Aht Urhgan Whitegate and the Colosseum. It costs $2 gil."
+446: 0x0773 [0x23] WAIT_FOR_DIALOG_INTERACTION
+447: 0x0774 [0x01] GOTO 0x08B7
+448: 0x0777 [0x02] IF !(ExtData[1]->WorkLocal[6] == 59*) GOTO 0x0786
+449: 0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=11209*)
+    → "This map shows the layout of the Azouph Isle town of Nashmau. It costs $3 gil."
+450: 0x0782 [0x23] WAIT_FOR_DIALOG_INTERACTION
+451: 0x0783 [0x01] GOTO 0x08B7
+452: 0x0786 [0x02] IF !(ExtData[1]->WorkLocal[6] == 60*) GOTO 0x0795
+453: 0x078E [0x1D] PRINT_EVENT_MESSAGE(message_id=11210*)
+    → "This map shows the forest tract stretching west of Al Zahbi. A map of the Wajaom Woodlands can be yours for $3 gil."
+454: 0x0791 [0x23] WAIT_FOR_DIALOG_INTERACTION
+455: 0x0792 [0x01] GOTO 0x08B7
+456: 0x0795 [0x02] IF !(ExtData[1]->WorkLocal[6] == 61*) GOTO 0x07A9
+457: 0x079D [0x03] Work_Zone[4] = 79*
+458: 0x07A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+459: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+460: 0x07A6 [0x01] GOTO 0x08B7
+461: 0x07A9 [0x02] IF !(ExtData[1]->WorkLocal[6] == 62*) GOTO 0x07BD
+462: 0x07B1 [0x03] Work_Zone[4] = 61*
+463: 0x07B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+464: 0x07B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+465: 0x07BA [0x01] GOTO 0x08B7
+466: 0x07BD [0x02] IF !(ExtData[1]->WorkLocal[6] == 63*) GOTO 0x07D1
+467: 0x07C5 [0x03] Work_Zone[4] = 68*
+468: 0x07CA [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+469: 0x07CD [0x23] WAIT_FOR_DIALOG_INTERACTION
+470: 0x07CE [0x01] GOTO 0x08B7
+471: 0x07D1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 64*) GOTO 0x07E5
+472: 0x07D9 [0x03] Work_Zone[4] = 65*
+473: 0x07DE [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+474: 0x07E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+475: 0x07E2 [0x01] GOTO 0x08B7
+476: 0x07E5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 65*) GOTO 0x07F9
+477: 0x07ED [0x03] Work_Zone[4] = 62*
+478: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+479: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+480: 0x07F6 [0x01] GOTO 0x08B7
+481: 0x07F9 [0x02] IF !(ExtData[1]->WorkLocal[6] == 66*) GOTO 0x080D
+482: 0x0801 [0x03] Work_Zone[4] = 54*
+483: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+484: 0x0809 [0x23] WAIT_FOR_DIALOG_INTERACTION
+485: 0x080A [0x01] GOTO 0x08B7
+486: 0x080D [0x02] IF !(ExtData[1]->WorkLocal[6] == 67*) GOTO 0x0821
+487: 0x0815 [0x03] Work_Zone[4] = 72*
+488: 0x081A [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+489: 0x081D [0x23] WAIT_FOR_DIALOG_INTERACTION
+490: 0x081E [0x01] GOTO 0x08B7
+491: 0x0821 [0x02] IF !(ExtData[1]->WorkLocal[6] == 68*) GOTO 0x0830
+492: 0x0829 [0x1D] PRINT_EVENT_MESSAGE(message_id=11211*)
+    → "This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs $3 gil."
+493: 0x082C [0x23] WAIT_FOR_DIALOG_INTERACTION
+494: 0x082D [0x01] GOTO 0x08B7
+495: 0x0830 [0x02] IF !(ExtData[1]->WorkLocal[6] == 69*) GOTO 0x085D
+496: 0x0838 [0x02] IF !(ExtData[1]->WorkLocal[13] == 8*) GOTO 0x084C
+497: 0x0840 [0x03] Work_Zone[4] = 83*
+498: 0x0845 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+499: 0x0848 [0x23] WAIT_FOR_DIALOG_INTERACTION
+500: 0x0849 [0x01] GOTO 0x085A
+501: 0x084C [0x03] Work_Zone[4] = 83*
+502: 0x0851 [0x14] Work_Zone[5] *= 10*
+503: 0x0856 [0x1D] PRINT_EVENT_MESSAGE(message_id=11212*)
+    → "$6 is an older map that was often used to depict $8. It costs $3 gil."
+504: 0x0859 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_085A:
+505: 0x085A [0x01] GOTO 0x08B7
+506: 0x085D [0x02] IF !(ExtData[1]->WorkLocal[6] == 70*) GOTO 0x088A
+507: 0x0865 [0x02] IF !(ExtData[1]->WorkLocal[13] == 8*) GOTO 0x0879
+508: 0x086D [0x03] Work_Zone[4] = 89*
+509: 0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+510: 0x0875 [0x23] WAIT_FOR_DIALOG_INTERACTION
+511: 0x0876 [0x01] GOTO 0x0887
+512: 0x0879 [0x03] Work_Zone[4] = 89*
+513: 0x087E [0x14] Work_Zone[5] *= 10*
+514: 0x0883 [0x1D] PRINT_EVENT_MESSAGE(message_id=11212*)
+    → "$6 is an older map that was often used to depict $8. It costs $3 gil."
+515: 0x0886 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0887:
+516: 0x0887 [0x01] GOTO 0x08B7
+517: 0x088A [0x02] IF !(ExtData[1]->WorkLocal[6] == 71*) GOTO 0x08B7
+518: 0x0892 [0x02] IF !(ExtData[1]->WorkLocal[13] == 8*) GOTO 0x08A6
+519: 0x089A [0x03] Work_Zone[4] = 96*
+520: 0x089F [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+    → "$5 include $8 for $3 gil."
+521: 0x08A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+522: 0x08A3 [0x01] GOTO 0x08B4
+523: 0x08A6 [0x03] Work_Zone[4] = 96*
+524: 0x08AB [0x14] Work_Zone[5] *= 10*
+525: 0x08B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11212*)
+    → "$6 is an older map that was often used to depict $8. It costs $3 gil."
+526: 0x08B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_08B4:
+527: 0x08B4 [0x01] GOTO 0x08B7
+
+SUBROUTINE_08B7:
+528: 0x08B7 [0x1B] RETURN
+
+SUBROUTINE_08B8:
+529: 0x08B8 [0x06] ExtData[1]->WorkLocal[0] = 0
+
+SUBROUTINE_08BB:
+530: 0x08BB [0x02] IF !(ExtData[1]->WorkLocal[0] >= 40*) GOTO 0x08D1
+531: 0x08C3 [0x9D] 0x08E2[ExtData[1]->WorkLocal[0] * 2] = 0* // Write WORD
+532: 0x08CB [0x0B] ExtData[1]->WorkLocal[0]++
+533: 0x08CE [0x01] GOTO 0x08BB
+534: 0x08D1 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Data Section: 0x08D2 (498 bytes)
+     0x08D2: 0A 00 0B 00 0C 00 01 80 01 80 01 80 01 80 01 80
+     0x08E2: 03 10 04 10 05 10 06 10 07 10 08 10 09 10 00 17
+     0x08F2: 01 17 02 17 03 17 04 17 05 17 06 17 07 17 08 17
+     0x0902: 09 17 0A 17 0B 17 0C 17 0D 17 0E 17 0F 17 10 17
+     0x0912: 11 17 12 17 13 17 14 17 15 17 16 17 17 17 18 17
+     0x0922: 19 17 1A 17 1B 17 1C 17 1D 17 1E 17 1F 17 02 10
+     0x0932: 92 80 93 80 94 80 95 80 96 80 97 80 98 80 99 80
+     0x0942: 9A 80 9B 80 9C 80 9D 80 9E 80 9F 80 A0 80 A1 80
+     0x0952: A2 80 A3 80 A4 80 A5 80 A6 80 A7 80 A8 80 A9 80
+     0x0962: AA 80 AB 80 AC 80 AD 80 AE 80 AF 80 B0 80 B1 80
+     0x0972: B2 80 B3 80 B4 80 B5 80 B6 80 B7 80 B8 80 B9 80
+     0x0982: BA 80 BB 80 BC 80 BD 80 BE 80 BF 80 C0 80 C1 80
+     0x0992: C2 80 C3 80 C4 80 C5 80 C6 80 C7 80 C8 80 C9 80
+     0x09A2: CA 80 CB 80 CC 80 CD 80 CE 80 CF 80 D0 80 D1 80
+     0x09B2: D2 80 D3 80 D4 80 D5 80 D6 80 D7 80 D8 80 D9 80
+     0x09C2: DA 80 DA 80 DA 80 DB 80 DB 80 DB 80 DC 80 DC 80
+     0x09D2: DA 80 DB 80 DC 80 DB 80 DC 80 DB 80 DC 80 DC 80
+     0x09E2: DC 80 DC 80 DC 80 DC 80 DC 80 DB 80 DB 80 DB 80
+     0x09F2: DC 80 DC 80 DB 80 DC 80 DC 80 DC 80 DC 80 DC 80
+     0x0A02: DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80
+     0x0A12: DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80
+     0x0A22: DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80
+     0x0A32: DC 80 DC 80 DB 80 DC 80 DC 80 DC 80 DC 80 DC 80
+     0x0A42: DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80 DC 80
+     0x0A52: DD 80 DE 80 DF 80 E0 80 E1 80 E2 80 E3 80 0B 80
+     0x0A62: E4 80 E5 80 E6 80 E7 80 E1 80 E8 80 E9 80 0A 80
+     0x0A72: EA 80 EB 80 DA 80 EC 80 35 80 39 80 3C 80 3E 80
+     0x0A82: 41 80 43 80 45 80 47 80 49 80 4B 80 50 80 51 80
+     0x0A92: EA 80 55 80 57 80 59 80 5B 80 ED 80 5F 80 61 80
+     0x0AA2: 63 80 66 80 68 80 6A 80 EE 80 6E 80 1C 80 20 80
+     0x0AB2: 23 80 26 80 28 80 44 80 46 80 48 80 4F 80 54 80
+     0x0AC2: 56 80
+# Data Section: 0x0B72 (144 bytes)
+     0x0B72: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0B82: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0B92: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0BA2: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0BB2: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0BC2: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0BD2: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0BE2: 01 80 01 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0BF2: 01 80 01 80 01 80 01 80 01 80 04 80 04 80 04 80
+# Dead code (unreachable instructions):
+     0x0AC4 [0x58] YIELD_EVENT_VM()
+     0x0AC5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2155249777/0x80768071))
+     0x0ACA [0x74] EventEntity->Render.Flags1 ^= 0x00
+     0x0ACC [0x82] RECT_HIT_TEST_BRANCH: If EventEntity is NOT in rectangle 0x85808180, GOTO 0x8780
+     0x0AD3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2155315331/0x80778083))
+     0x0AD8 [0x11] 0xEF80 >>= References[3200]
+     0x0ADD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2157019279/0x8091808F))
+     0x0AE2 [0xF0] UNKNOWN_0xF0
+     0x0AE3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0AE8 [0xF0] UNKNOWN_0xF0
+     0x0AE9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0AEE [0xF0] UNKNOWN_0xF0
+     0x0AEF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0AF4 [0xF0] UNKNOWN_0xF0
+     0x0AF5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0AFA [0xF0] UNKNOWN_0xF0
+     0x0AFB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B00 [0xF0] UNKNOWN_0xF0
+     0x0B01 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B06 [0xF0] UNKNOWN_0xF0
+     0x0B07 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B0C [0xF0] UNKNOWN_0xF0
+     0x0B0D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B12 [0xF0] UNKNOWN_0xF0
+     0x0B13 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B18 [0xF0] UNKNOWN_0xF0
+     0x0B19 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B1E [0xF0] UNKNOWN_0xF0
+     0x0B1F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B24 [0xF0] UNKNOWN_0xF0
+     0x0B25 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B2A [0xF0] UNKNOWN_0xF0
+     0x0B2B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B30 [0xF0] UNKNOWN_0xF0
+     0x0B31 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B36 [0xF0] UNKNOWN_0xF0
+     0x0B37 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B3C [0xF0] UNKNOWN_0xF0
+     0x0B3D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B42 [0xF0] UNKNOWN_0xF0
+     0x0B43 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B48 [0xF0] UNKNOWN_0xF0
+     0x0B49 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B4E [0xF0] UNKNOWN_0xF0
+     0x0B4F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B54 [0xF0] UNKNOWN_0xF0
+     0x0B55 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B5A [0xF0] UNKNOWN_0xF0
+     0x0B5B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B60 [0xF0] UNKNOWN_0xF0
+     0x0B61 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B66 [0xF0] UNKNOWN_0xF0
+     0x0B67 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163245296/0x80F080F0))
+     0x0B6C [0xF1] UNKNOWN_0xF1
+     0x0B6D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163310833/0x80F180F1))
+```

@@ -1,0 +1,92 @@
+# 17359100 - Resume Point
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Yughott Grotto (ID: 142) |
+| Block Size       | 116 bytes                |
+| Total Events     | 2                        |
+| References Count | 6                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [3](#event-3)         | 0x0001       |     65 |             15 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x003C      |          60 |
+|       2 | 0x00C8      |         200 |
+|       3 | 0x0093      |         147 |
+|       4 | 0x000F      |          15 |
+|       5 | 0x0001      |           1 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 65 bytes |
+| Instructions | 15       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 5D 00 80 01 80 45  02 80 F0 FF FF 7F F0 FF   B]....E........
+0010: FF 7F 66 64 6F 31 00 80  55 02 80 F0 FF FF 7F F0  ..fdo1..U.......
+0020: FF FF 7F 66 64 6F 31 46  01 38 03 80 1C 04 80 AB  ...fdo1F.8......
+0030: 11 00 80 1C 05 80 30 5C  00 00 80 5C 01 00 80 9A  ......0\...\....
+0040: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=60*)
+  2: 0x0007 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  3: 0x0018 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+  4: 0x0027 [0x46] CAMERA_CONTROL: Disable user control
+  5: 0x0029 [0x38] SET_CLIENT_EVENT_MODE(mode=147*)
+  6: 0x002C [0x1C] WAIT(15* ticks)
+  7: 0x002F [0xAB] EventEntity->DespawnValue = 0* // Set despawn value
+  8: 0x0033 [0x1C] WAIT(1* ticks)
+  9: 0x0036 [0x30] SET_UCOFF_CONTINUE_ZERO()
+ 10: 0x0037 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
+ 11: 0x003B [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
+ 12: 0x003F [0x9A] WAIT_MUSIC_SERVER()
+ 13: 0x0040 [0x21] END_EVENT
+ 14: 0x0041 [0x00] END_REQSTACK()
+```

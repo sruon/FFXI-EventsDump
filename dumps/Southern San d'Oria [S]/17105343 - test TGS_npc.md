@@ -1,0 +1,655 @@
+# 17105343 - test TGS_npc
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Southern San d'Oria [S] (ID: 80) |
+| Block Size       | 2512 bytes                       |
+| Total Events     | 2                                |
+| References Count | 108                              |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [101](#event-101)     | 0x0001       |   2052 |            318 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x003C      |          60 |
+|       1 | 0x0013      |          19 |
+|       2 | 0x2A03      |       10755 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x015D      |         349 |
+|       6 | 0x0053      |          83 |
+|       7 | 0x000D      |          13 |
+|       8 | 0xFFF8C9AE  |  4294494638 |
+|       9 | 0x2DBF1     |      187377 |
+|      10 | 0xFFFF81E3  |  4294935011 |
+|      11 | 0x0C16      |        3094 |
+|      12 | 0xFFF8C7A8  |  4294494120 |
+|      13 | 0x30664     |      198244 |
+|      14 | 0xFFFF82E1  |  4294935265 |
+|      15 | 0x0C78      |        3192 |
+|      16 | 0xFFF8D132  |  4294496562 |
+|      17 | 0x2FDE0     |      196064 |
+|      18 | 0xFFFF80F7  |  4294934775 |
+|      19 | 0xFFF8C02F  |  4294492207 |
+|      20 | 0x2F25D     |      193117 |
+|      21 | 0xFFFF8285  |  4294935173 |
+|      22 | 0x0446      |        1094 |
+|      23 | 0xFFF8D0C8  |  4294496456 |
+|      24 | 0x2F251     |      193105 |
+|      25 | 0xFFFF80EC  |  4294934764 |
+|      26 | 0x07D0      |        2000 |
+|      27 | 0x04F7      |        1271 |
+|      28 | 0x000F      |          15 |
+|      29 | 0x00B4      |         180 |
+|      30 | 0x2A04      |       10756 |
+|      31 | 0x0005      |           5 |
+|      32 | 0x00F0      |         240 |
+|      33 | 0x2A05      |       10757 |
+|      34 | 0x0050      |          80 |
+|      35 | 0x0002      |           2 |
+|      36 | 0x00F3      |         243 |
+|      37 | 0x0011      |          17 |
+|      38 | 0x0D73      |        3443 |
+|      39 | 0x1CCBE     |      117950 |
+|      40 | 0x0C1D      |        3101 |
+|      41 | 0x0C81      |        3201 |
+|      42 | 0x1E9D      |        7837 |
+|      43 | 0x1CBBA     |      117690 |
+|      44 | 0x0FA0      |        4000 |
+|      45 | 0x187E      |        6270 |
+|      46 | 0x1C8D4     |      116948 |
+|      47 | 0x19AB      |        6571 |
+|      48 | 0x1D006     |      118790 |
+|      49 | 0x0B52      |        2898 |
+|      50 | 0x001E      |          30 |
+|      51 | 0x0003      |           3 |
+|      52 | 0x0051      |          81 |
+|      53 | 0x0009      |           9 |
+|      54 | 0xA48F5     |      674037 |
+|      55 | 0xFFF80D27  |  4294446375 |
+|      56 | 0xFFFFD9DF  |  4294957535 |
+|      57 | 0x090A      |        2314 |
+|      58 | 0xA2A78     |      666232 |
+|      59 | 0xFFF7C0CF  |  4294426831 |
+|      60 | 0xFFFFD8F0  |  4294957296 |
+|      61 | 0x068F      |        1679 |
+|      62 | 0xA4769     |      673641 |
+|      63 | 0xFFF811B0  |  4294447536 |
+|      64 | 0xFFFFDA10  |  4294957584 |
+|      65 | 0x0638      |        1592 |
+|      66 | 0xA1248     |      660040 |
+|      67 | 0xFFF7F80E  |  4294440974 |
+|      68 | 0xFFFFD974  |  4294957428 |
+|      69 | 0xA11A1     |      659873 |
+|      70 | 0xFFF7F053  |  4294438995 |
+|      71 | 0xFFFFD90F  |  4294957327 |
+|      72 | 0x0BB8      |        3000 |
+|      73 | 0xA168E     |      661134 |
+|      74 | 0xFFF7F0BB  |  4294439099 |
+|      75 | 0xFFFFD90C  |  4294957324 |
+|      76 | 0xA0D23     |      658723 |
+|      77 | 0xFFF7F110  |  4294439184 |
+|      78 | 0xFFFFD98D  |  4294957453 |
+|      79 | 0xA1B8E     |      662414 |
+|      80 | 0xFFF7F147  |  4294439239 |
+|      81 | 0xFFFFD8EF  |  4294957295 |
+|      82 | 0xA076D     |      657261 |
+|      83 | 0xFFF7F05C  |  4294439004 |
+|      84 | 0xFFFFDA00  |  4294957568 |
+|      85 | 0x000A      |          10 |
+|      86 | 0x0004      |           4 |
+|      87 | 0xFFFE9684  |  4294874756 |
+|      88 | 0xEB34      |       60212 |
+|      89 | 0xFFFFE890  |  4294961296 |
+|      90 | 0x0B83      |        2947 |
+|      91 | 0xFFFE962B  |  4294874667 |
+|      92 | 0xCE0D      |       52749 |
+|      93 | 0xFFFFEE6D  |  4294962797 |
+|      94 | 0x0D92      |        3474 |
+|      95 | 0xFFFEAEFD  |  4294881021 |
+|      96 | 0xC9B0      |       51632 |
+|      97 | 0xFFFFF060  |  4294963296 |
+|      98 | 0xFFFE8D7D  |  4294872445 |
+|      99 | 0xE675      |       58997 |
+|     100 | 0x05E8      |        1512 |
+|     101 | 0xFFFEA22A  |  4294877738 |
+|     102 | 0xF0AB      |       61611 |
+|     103 | 0xFFFFE891  |  4294961297 |
+|     104 | 0x0DB8      |        3512 |
+|     105 | 0x0078      |         120 |
+|     106 | 0x04EE      |        1262 |
+|     107 | 0x00C8      |         200 |
+
+## String References
+
+- **10755**: Select event scene: [Quit./Excenmille VS. Orc Boss./San d'Oria 1: Ru'Lude Conference./San d'Oria 2: Hydra./San d'Oria 3: Orc in a Cage.]
+- **10756**: Debug: Press button to start event.
+- **10757**: Watch again? [Yep./Nope.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 101
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 2052 bytes |
+| Instructions | 306        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 42 46 01 1C 00  80 38 01 80 24 02 80 03    .BF....8..$...
+0010: 80 03 80 25 02 00 10 03  80 00 1F 00 01 E8 07 02  ...%............
+0020: 00 10 04 80 00 43 02 45  05 80 F8 FF FF 7F F8 FF  .....C.E........
+0030: FF 7F 74 67 73 35 03 80  34 06 80 77 07 80 03 80  ..tgs5..4..w....
+0040: 45 05 80 F8 FF FF 7F F8  FF FF 7F 74 67 73 35 03  E..........tgs5.
+0050: 80 2F 00 C4 01 05 01 2F  00 C5 01 05 01 2F 00 C6  ./...../...../..
+0060: 01 05 01 2F 00 C7 01 05  01 2F 00 C8 01 05 01 4E  .../...../.....N
+0070: 00 C4 01 05 01 4E 00 C5  01 05 01 4E 00 C6 01 05  .....N.....N....
+0080: 01 4E 00 C7 01 05 01 4E  00 C8 01 05 01 92 01 C4  .N.....N........
+0090: 01 05 01 92 01 C5 01 05  01 92 01 C6 01 05 01 92  ................
+00A0: 01 C7 01 05 01 92 01 C8  01 05 01 94 01 F0 FF FF  ................
+00B0: 7F 94 01 C4 01 05 01 94  01 C5 01 05 01 94 01 C6  ................
+00C0: 01 05 01 94 01 C7 01 05  01 94 01 C8 01 05 01 80  ................
+00D0: C4 01 05 01 80 C5 01 05  01 80 C6 01 05 01 80 C7  ................
+00E0: 01 05 01 80 C8 01 05 01  BA C4 01 05 01 08 80 09  ................
+00F0: 80 0A 80 0B 80 BA C5 01  05 01 0C 80 0D 80 0E 80  ................
+0100: 0F 80 BA C6 01 05 01 10  80 11 80 12 80 0B 80 BA  ................
+0110: C7 01 05 01 13 80 14 80  15 80 16 80 BA C8 01 05  ................
+0120: 01 17 80 18 80 19 80 1A  80 4A C5 01 05 01 C4 01  .........J......
+0130: 05 01 6F 76 C5 01 05 01  1C 04 80 7C 00 C4 01 05  ..ov.......|....
+0140: 01 81 00 C4 01 05 01 5B  1B 80 C4 01 05 01 C4 01  .......[........
+0150: 05 01 70 76 30 30 1C 1C  80 2C C6 01 05 01 C6 01  ..pv00...,......
+0160: 05 01 64 65 61 64 2C C7  01 05 01 C7 01 05 01 64  ..dead,........d
+0170: 65 61 64 2C C8 01 05 01  C8 01 05 01 64 65 61 64  ead,........dead
+0180: 1C 1D 80 48 1E 80 23 67  03 80 03 80 1C 00 80 52  ...H..#g.......R
+0190: 05 80 F8 FF FF 7F F8 FF  FF 7F 74 67 73 35 5B 1B  ..........tgs5[.
+01A0: 80 C4 01 05 01 C4 01 05  01 70 76 30 31 1C 1F 80  .........pv01...
+01B0: 45 05 80 F8 FF FF 7F F8  FF FF 7F 74 67 73 36 03  E..........tgs6.
+01C0: 80 27 0F C5 01 05 01 02  55 05 80 F8 FF FF 7F F8  .'......U.......
+01D0: FF FF 7F 74 67 73 36 45  05 80 F8 FF FF 7F F8 FF  ...tgs6E........
+01E0: FF 7F 74 67 73 31 03 80  55 05 80 F8 FF FF 7F F8  ..tgs1..U.......
+01F0: FF FF 7F 74 67 73 31 45  05 80 F8 FF FF 7F F8 FF  ...tgs1E........
+0200: FF 7F 74 67 73 30 03 80  55 05 80 F8 FF FF 7F F8  ..tgs0..U.......
+0210: FF FF 7F 74 67 73 30 1C  20 80 68 24 21 80 03 80  ...tgs0. .h$!...
+0220: 03 80 25 02 00 10 03 80  00 31 02 01 40 00 01 3C  ..%......1..@..<
+0230: 02 02 00 10 04 80 00 3C  02 01 3C 02 34 22 80 78  .......<..<.4".x
+0240: 01 E8 07 02 00 10 23 80  00 B5 03 34 24 80 77 25  ......#....4$.w%
+0250: 80 03 80 45 05 80 F8 FF  FF 7F F8 FF FF 7F 74 67  ...E..........tg
+0260: 73 35 03 80 2F 00 C3 01  05 01 2F 00 C0 01 05 01  s5../...../.....
+0270: 2F 00 C2 01 05 01 2F 00  C1 01 05 01 4E 00 C3 01  /...../.....N...
+0280: 05 01 4E 00 C0 01 05 01  4E 00 C2 01 05 01 4E 00  ..N.....N.....N.
+0290: C1 01 05 01 94 01 C3 01  05 01 94 01 C0 01 05 01  ................
+02A0: 94 01 C2 01 05 01 94 01  C1 01 05 01 92 01 C3 01  ................
+02B0: 05 01 92 01 C0 01 05 01  92 01 C2 01 05 01 92 01  ................
+02C0: C1 01 05 01 80 C3 01 05  01 80 C0 01 05 01 80 C2  ................
+02D0: 01 05 01 80 C1 01 05 01  BA C3 01 05 01 26 80 27  .............&.'
+02E0: 80 28 80 29 80 BA C0 01  05 01 2A 80 2B 80 28 80  .(.)......*.+.(.
+02F0: 2C 80 BA C2 01 05 01 2D  80 2E 80 28 80 29 80 BA  ,......-...(.)..
+0300: C1 01 05 01 2F 80 30 80  28 80 31 80 4A C3 01 05  ..../.0.(.1.J...
+0310: 01 C3 01 05 01 4A C2 01  05 01 C3 01 05 01 4A C1  .....J........J.
+0320: 01 05 01 C3 01 05 01 6F  76 C3 01 05 01 6F 76 C2  .......ov....ov.
+0330: 01 05 01 6F 76 C1 01 05  01 1C 1D 80 48 1E 80 23  ...ov.......H..#
+0340: 67 03 80 03 80 1C 00 80  52 05 80 F8 FF FF 7F F8  g.......R.......
+0350: FF FF 7F 74 67 73 35 45  05 80 F8 FF FF 7F F8 FF  ...tgs5E........
+0360: FF 7F 74 67 73 32 03 80  1C 32 80 4A C0 01 05 01  ..tgs2...2.J....
+0370: C3 01 05 01 6F 76 C0 01  05 01 55 05 80 F8 FF FF  ....ov....U.....
+0380: 7F F8 FF FF 7F 74 67 73  32 1C 20 80 68 24 21 80  .....tgs2. .h$!.
+0390: 03 80 03 80 25 02 00 10  03 80 00 A3 03 01 53 02  ....%.........S.
+03A0: 01 AE 03 02 00 10 04 80  00 AE 03 01 AE 03 34 22  ..............4"
+03B0: 80 78 01 E8 07 02 00 10  33 80 00 08 06 34 34 80  .x......3....44.
+03C0: 77 35 80 03 80 45 05 80  F8 FF FF 7F F8 FF FF 7F  w5...E..........
+03D0: 74 67 73 37 03 80 2F 00  C9 01 05 01 2F 00 CA 01  tgs7../...../...
+03E0: 05 01 2F 00 CB 01 05 01  2F 00 CC 01 05 01 2F 00  ../...../...../.
+03F0: CD 01 05 01 2F 00 CE 01  05 01 2F 00 CF 01 05 01  ..../...../.....
+0400: 2F 00 D0 01 05 01 2F 00  D1 01 05 01 4E 00 C9 01  /...../.....N...
+0410: 05 01 4E 00 CA 01 05 01  4E 00 CB 01 05 01 4E 00  ..N.....N.....N.
+0420: CC 01 05 01 4E 00 CD 01  05 01 4E 00 CE 01 05 01  ....N.....N.....
+0430: 4E 00 CF 01 05 01 4E 00  D0 01 05 01 4E 00 D1 01  N.....N.....N...
+0440: 05 01 4E 01 F0 FF FF 7F  92 01 C9 01 05 01 92 01  ..N.............
+0450: CA 01 05 01 92 01 CB 01  05 01 92 01 CC 01 05 01  ................
+0460: 92 01 CD 01 05 01 92 01  CE 01 05 01 92 01 CF 01  ................
+0470: 05 01 92 01 D0 01 05 01  92 01 D1 01 05 01 94 01  ................
+0480: C9 01 05 01 94 01 CA 01  05 01 94 01 CB 01 05 01  ................
+0490: 94 01 CC 01 05 01 94 01  CD 01 05 01 94 01 CE 01  ................
+04A0: 05 01 94 01 CF 01 05 01  94 01 D0 01 05 01 94 01  ................
+04B0: D1 01 05 01 80 C9 01 05  01 80 CA 01 05 01 80 CB  ................
+04C0: 01 05 01 80 CC 01 05 01  80 CD 01 05 01 80 CE 01  ................
+04D0: 05 01 80 CF 01 05 01 80  D0 01 05 01 80 D1 01 05  ................
+04E0: 01 BA C9 01 05 01 36 80  37 80 38 80 39 80 BA CA  ......6.7.8.9...
+04F0: 01 05 01 3A 80 3B 80 3C  80 3D 80 BA CB 01 05 01  ...:.;.<.=......
+0500: 3E 80 3F 80 40 80 41 80  BA CC 01 05 01 42 80 43  >.?.@.A......B.C
+0510: 80 44 80 41 80 BA CD 01  05 01 45 80 46 80 47 80  .D.A......E.F.G.
+0520: 48 80 BA CE 01 05 01 49  80 4A 80 4B 80 48 80 BA  H......I.J.K.H..
+0530: CF 01 05 01 4C 80 4D 80  4E 80 48 80 BA D0 01 05  ....L.M.N.H.....
+0540: 01 4F 80 50 80 51 80 48  80 BA D1 01 05 01 52 80  .O.P.Q.H......R.
+0550: 53 80 54 80 48 80 4A C9  01 05 01 CD 01 05 01 4A  S.T.H.J........J
+0560: CA 01 05 01 CD 01 05 01  4A CB 01 05 01 CD 01 05  ........J.......
+0570: 01 4A CC 01 05 01 CD 01  05 01 6F 76 C9 01 05 01  .J........ov....
+0580: 6F 76 CA 01 05 01 6F 76  CB 01 05 01 6F 76 CC 01  ov....ov....ov..
+0590: 05 01 48 1E 80 23 67 03  80 03 80 1C 00 80 52 05  ..H..#g.......R.
+05A0: 80 F8 FF FF 7F F8 FF FF  7F 74 67 73 37 45 05 80  .........tgs7E..
+05B0: F8 FF FF 7F F8 FF FF 7F  74 67 73 33 03 80 1C 55  ........tgs3...U
+05C0: 80 6E C9 01 05 01 03 80  99 C9 01 05 01 55 05 80  .n...........U..
+05D0: F8 FF FF 7F F8 FF FF 7F  74 67 73 33 1C 20 80 68  ........tgs3. .h
+05E0: 24 21 80 03 80 03 80 25  02 00 10 03 80 00 F6 05  $!.....%........
+05F0: 01 C5 03 01 01 06 02 00  10 04 80 00 01 06 01 01  ................
+0600: 06 34 22 80 78 01 E8 07  02 00 10 56 80 00 E8 07  .4".x......V....
+0610: 34 22 80 77 07 80 03 80  2F 00 C9 01 05 01 2F 00  4".w..../...../.
+0620: CA 01 05 01 2F 00 D2 01  05 01 2F 00 C6 01 05 01  ..../...../.....
+0630: 2F 00 C7 01 05 01 4E 00  C9 01 05 01 4E 00 CA 01  /.....N.....N...
+0640: 05 01 4E 00 D2 01 05 01  4E 00 C6 01 05 01 4E 00  ..N.....N.....N.
+0650: C7 01 05 01 92 01 C9 01  05 01 92 01 CA 01 05 01  ................
+0660: 92 01 D2 01 05 01 92 01  C6 01 05 01 92 01 C7 01  ................
+0670: 05 01 94 01 C9 01 05 01  94 01 CA 01 05 01 94 01  ................
+0680: D2 01 05 01 94 01 C6 01  05 01 94 01 C7 01 05 01  ................
+0690: 29 0F C9 01 05 01 02 29  0F CA 01 05 01 02 80 C9  )......)........
+06A0: 01 05 01 80 CA 01 05 01  80 D2 01 05 01 80 B9 01  ................
+06B0: 05 01 80 BA 01 05 01 80  BB 01 05 01 80 C6 01 05  ................
+06C0: 01 80 C7 01 05 01 BA D2  01 05 01 57 80 58 80 59  ...........W.X.Y
+06D0: 80 5A 80 BA C9 01 05 01  5B 80 5C 80 5D 80 5E 80  .Z......[.\.].^.
+06E0: BA CA 01 05 01 5F 80 60  80 61 80 5E 80 BA C6 01  ....._.`.a.^....
+06F0: 05 01 62 80 63 80 59 80  64 80 BA C7 01 05 01 65  ..b.c.Y.d......e
+0700: 80 66 80 67 80 68 80 4A  C9 01 05 01 D2 01 05 01  .f.g.h.J........
+0710: 4A CA 01 05 01 D2 01 05  01 4A D2 01 05 01 C9 01  J........J......
+0720: 05 01 7B D2 01 05 01 7B  C9 01 05 01 7B CA 01 05  ..{....{....{...
+0730: 01 2C C7 01 05 01 C7 01  05 01 64 65 61 64 2C C6  .,........dead,.
+0740: 01 05 01 C6 01 05 01 64  65 61 64 27 0F B9 01 05  .......dead'....
+0750: 01 04 1C 69 80 48 1E 80  23 67 03 80 03 80 1C 00  ...i.H..#g......
+0760: 80 5B 6A 80 D2 01 05 01  D2 01 05 01 70 76 61 30  .[j.........pva0
+0770: 45 05 80 F8 FF FF 7F F8  FF FF 7F 74 67 73 34 03  E..........tgs4.
+0780: 80 27 0F C9 01 05 01 04  27 0F CA 01 05 01 04 55  .'......'......U
+0790: 05 80 F8 FF FF 7F F8 FF  FF 7F 74 67 73 34 1C 20  ..........tgs4. 
+07A0: 80 68 29 0F C9 01 05 01  03 29 0F CA 01 05 01 03  .h)......)......
+07B0: 1C 00 80 80 C9 01 05 01  80 CA 01 05 01 24 21 80  .............$!.
+07C0: 03 80 03 80 25 02 00 10  03 80 00 D9 07 7A 00 D2  ....%........z..
+07D0: 01 05 01 01 18 06 01 E4  07 02 00 10 04 80 00 E4  ................
+07E0: 07 01 E4 07 78 01 E8 07  1C 00 80 46 00 45 6B 80  ....x......F.Ek.
+07F0: F0 FF FF 7F F0 FF FF 7F  66 64 69 31 03 80 1C 00  ........fdi1....
+0800: 80 20 00 21 00                                    . .!.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0004 [0x46] CAMERA_CONTROL: Disable user control
+  3: 0x0006 [0x1C] WAIT(60* ticks)
+  4: 0x0009 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+  5: 0x000C [0x24] CREATE_DIALOG(message_id=10755*, default_option=0*, option_flags=0*)
+    → "Select event scene: [Quit./Excenmille VS. Orc Boss./San d'Oria 1: Ru'Lude Conference./San d'Oria 2: Hydra./San d'Oria 3: Orc in a Cage.]"
+  6: 0x0013 [0x25] WAIT_DIALOG_SELECT()
+  7: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001F
+  8: 0x001C [0x01] GOTO 0x07E8
+  9: 0x001F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0243
+ 10: 0x0027 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs5" with entities [EventEntity, EventEntity], work=[349*, 0*]
+ 11: 0x0038 [0x34] LOAD_UNLOAD_ZONE(zone_id=83*)
+ 12: 0x003B [0x77] SET_EVENT_TIME_WEATHER(hour=13*, weather=0*)
+
+SUBROUTINE_0040:
+ 13: 0x0040 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs5" with entities [EventEntity, EventEntity], work=[349*, 0*]
+ 14: 0x0051 [0x2F] Excenmille (ID: 17105348/0x010501C4)->Render.Flags0 &= ~0x80000 // Bit 19
+ 15: 0x0057 [0x2F] PV_mob (ID: 17105349/0x010501C5)->Render.Flags0 &= ~0x80000 // Bit 19
+ 16: 0x005D [0x2F] Unnamed NPC (ID: 17105350/0x010501C6)->Render.Flags0 &= ~0x80000 // Bit 19
+ 17: 0x0063 [0x2F] Unnamed NPC (ID: 17105351/0x010501C7)->Render.Flags0 &= ~0x80000 // Bit 19
+ 18: 0x0069 [0x2F] Unnamed NPC (ID: 17105352/0x010501C8)->Render.Flags0 &= ~0x80000 // Bit 19
+ 19: 0x006F [0x4E] SET_ENTITY_HIDE_FLAG: Show Excenmille (ID: 17105348/0x010501C4)
+ 20: 0x0075 [0x4E] SET_ENTITY_HIDE_FLAG: Show PV_mob (ID: 17105349/0x010501C5)
+ 21: 0x007B [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105350/0x010501C6)
+ 22: 0x0081 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105351/0x010501C7)
+ 23: 0x0087 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105352/0x010501C8)
+ 24: 0x008D [0x92] Excenmille (ID: 17105348/0x010501C4)->Render.Flags3 ^= 0x01
+ 25: 0x0093 [0x92] PV_mob (ID: 17105349/0x010501C5)->Render.Flags3 ^= 0x01
+ 26: 0x0099 [0x92] Unnamed NPC (ID: 17105350/0x010501C6)->Render.Flags3 ^= 0x01
+ 27: 0x009F [0x92] Unnamed NPC (ID: 17105351/0x010501C7)->Render.Flags3 ^= 0x01
+ 28: 0x00A5 [0x92] Unnamed NPC (ID: 17105352/0x010501C8)->Render.Flags3 ^= 0x01
+ 29: 0x00AB [0x94] LocalPlayer->Render.Flags3 ^= 0x01
+ 30: 0x00B1 [0x94] Excenmille (ID: 17105348/0x010501C4)->Render.Flags3 ^= 0x01
+ 31: 0x00B7 [0x94] PV_mob (ID: 17105349/0x010501C5)->Render.Flags3 ^= 0x01
+ 32: 0x00BD [0x94] Unnamed NPC (ID: 17105350/0x010501C6)->Render.Flags3 ^= 0x01
+ 33: 0x00C3 [0x94] Unnamed NPC (ID: 17105351/0x010501C7)->Render.Flags3 ^= 0x01
+ 34: 0x00C9 [0x94] Unnamed NPC (ID: 17105352/0x010501C8)->Render.Flags3 ^= 0x01
+ 35: 0x00CF [0x80] LOAD_WAIT(entity=Excenmille (ID: 17105348/0x010501C4))
+ 36: 0x00D4 [0x80] LOAD_WAIT(entity=PV_mob (ID: 17105349/0x010501C5))
+ 37: 0x00D9 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105350/0x010501C6))
+ 38: 0x00DE [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105351/0x010501C7))
+ 39: 0x00E3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105352/0x010501C8))
+ 40: 0x00E8 [0xBA] SET_ENTITY_POSITION(entity_id=Excenmille (ID: 17105348/0x010501C4), pos_x=-472.658*, pos_z=187.377*, pos_y=-32.285*, direction=271.9°*)
+ 41: 0x00F5 [0xBA] SET_ENTITY_POSITION(entity_id=PV_mob (ID: 17105349/0x010501C5), pos_x=-473.176*, pos_z=198.244*, pos_y=-32.031*, direction=280.5°*)
+ 42: 0x0102 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105350/0x010501C6), pos_x=-470.734*, pos_z=196.064*, pos_y=-32.521*, direction=271.9°*)
+ 43: 0x010F [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105351/0x010501C7), pos_x=-475.089*, pos_z=193.117*, pos_y=-32.123*, direction=96.1°*)
+ 44: 0x011C [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105352/0x010501C8), pos_x=-470.840*, pos_z=193.105*, pos_y=-32.532*, direction=175.8°*)
+ 45: 0x0129 [0x4A] PV_mob (ID: 17105349/0x010501C5) looks at Excenmille (ID: 17105348/0x010501C4)
+ 46: 0x0132 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 47: 0x0133 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until PV_mob (ID: 17105349/0x010501C5) Render.Flags0 and Render.Flags3 conditions are met
+ 48: 0x0138 [0x1C] WAIT(1* ticks)
+ 49: 0x013B [0x7C] Excenmille (ID: 17105348/0x010501C4)->Render.Flags2 |= 0x00
+ 50: 0x0141 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Excenmille (ID: 17105348/0x010501C4))
+ 51: 0x0147 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pv00" with entities [Excenmille (ID: 17105348/0x010501C4), Excenmille (ID: 17105348/0x010501C4)], work=1271*
+ 52: 0x0156 [0x1C] WAIT(15* ticks)
+ 53: 0x0159 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105350/0x010501C6), Unnamed NPC (ID: 17105350/0x010501C6)]
+ 54: 0x0166 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105351/0x010501C7), Unnamed NPC (ID: 17105351/0x010501C7)]
+ 55: 0x0173 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105352/0x010501C8), Unnamed NPC (ID: 17105352/0x010501C8)]
+ 56: 0x0180 [0x1C] WAIT(180* ticks)
+ 57: 0x0183 [0x48] [System] [10756*]:
+    → "Debug: Press button to start event."
+ 58: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 59: 0x0187 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
+ 60: 0x018C [0x1C] WAIT(60* ticks)
+ 61: 0x018F [0x52] END_LOAD_SCHEDULER: End scheduler "tgs5" with entities [EventEntity, EventEntity], work=349*
+ 62: 0x019E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pv01" with entities [Excenmille (ID: 17105348/0x010501C4), Excenmille (ID: 17105348/0x010501C4)], work=1271*
+ 63: 0x01AD [0x1C] WAIT(5* ticks)
+ 64: 0x01B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs6" with entities [EventEntity, EventEntity], work=[349*, 0*]
+ 65: 0x01C1 [0x27] REQ_SET(priority=0x0F, entity_id=PV_mob (ID: 17105349/0x010501C5), tag_num=0x02)
+ 66: 0x01C8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs6" with entities [EventEntity, EventEntity], work=349*
+ 67: 0x01D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs1" with entities [EventEntity, EventEntity], work=[349*, 0*]
+ 68: 0x01E8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs1" with entities [EventEntity, EventEntity], work=349*
+ 69: 0x01F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs0" with entities [EventEntity, EventEntity], work=[349*, 0*]
+ 70: 0x0208 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs0" with entities [EventEntity, EventEntity], work=349*
+ 71: 0x0217 [0x1C] WAIT(240* ticks)
+ 72: 0x021A [0x68] SHOW_HUD_ELEMENTS()
+ 73: 0x021B [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+    → "Watch again? [Yep./Nope.]"
+ 74: 0x0222 [0x25] WAIT_DIALOG_SELECT()
+ 75: 0x0223 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0231
+ 76: 0x022B [0x01] GOTO 0x0040
+
+SUBROUTINE_023C:
+ 77: 0x023C [0x34] LOAD_UNLOAD_ZONE(zone_id=80*)
+ 78: 0x023F [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+ 79: 0x0240 [0x01] GOTO 0x07E8
+ 80: 0x0243 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03B5
+ 81: 0x024B [0x34] LOAD_UNLOAD_ZONE(zone_id=243*)
+ 82: 0x024E [0x77] SET_EVENT_TIME_WEATHER(hour=17*, weather=0*)
+
+SUBROUTINE_0253:
+ 83: 0x0253 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs5" with entities [EventEntity, EventEntity], work=[349*, 0*]
+ 84: 0x0264 [0x2F] Kam'lanaut (ID: 17105347/0x010501C3)->Render.Flags0 &= ~0x80000 // Bit 19
+ 85: 0x026A [0x2F] Destin (ID: 17105344/0x010501C0)->Render.Flags0 &= ~0x80000 // Bit 19
+ 86: 0x0270 [0x2F] Star Sibyl (ID: 17105346/0x010501C2)->Render.Flags0 &= ~0x80000 // Bit 19
+ 87: 0x0276 [0x2F] Prien (ID: 17105345/0x010501C1)->Render.Flags0 &= ~0x80000 // Bit 19
+ 88: 0x027C [0x4E] SET_ENTITY_HIDE_FLAG: Show Kam'lanaut (ID: 17105347/0x010501C3)
+ 89: 0x0282 [0x4E] SET_ENTITY_HIDE_FLAG: Show Destin (ID: 17105344/0x010501C0)
+ 90: 0x0288 [0x4E] SET_ENTITY_HIDE_FLAG: Show Star Sibyl (ID: 17105346/0x010501C2)
+ 91: 0x028E [0x4E] SET_ENTITY_HIDE_FLAG: Show Prien (ID: 17105345/0x010501C1)
+ 92: 0x0294 [0x94] Kam'lanaut (ID: 17105347/0x010501C3)->Render.Flags3 ^= 0x01
+ 93: 0x029A [0x94] Destin (ID: 17105344/0x010501C0)->Render.Flags3 ^= 0x01
+ 94: 0x02A0 [0x94] Star Sibyl (ID: 17105346/0x010501C2)->Render.Flags3 ^= 0x01
+ 95: 0x02A6 [0x94] Prien (ID: 17105345/0x010501C1)->Render.Flags3 ^= 0x01
+ 96: 0x02AC [0x92] Kam'lanaut (ID: 17105347/0x010501C3)->Render.Flags3 ^= 0x01
+ 97: 0x02B2 [0x92] Destin (ID: 17105344/0x010501C0)->Render.Flags3 ^= 0x01
+ 98: 0x02B8 [0x92] Star Sibyl (ID: 17105346/0x010501C2)->Render.Flags3 ^= 0x01
+ 99: 0x02BE [0x92] Prien (ID: 17105345/0x010501C1)->Render.Flags3 ^= 0x01
+100: 0x02C4 [0x80] LOAD_WAIT(entity=Kam'lanaut (ID: 17105347/0x010501C3))
+101: 0x02C9 [0x80] LOAD_WAIT(entity=Destin (ID: 17105344/0x010501C0))
+102: 0x02CE [0x80] LOAD_WAIT(entity=Star Sibyl (ID: 17105346/0x010501C2))
+103: 0x02D3 [0x80] LOAD_WAIT(entity=Prien (ID: 17105345/0x010501C1))
+104: 0x02D8 [0xBA] SET_ENTITY_POSITION(entity_id=Kam'lanaut (ID: 17105347/0x010501C3), pos_x=3.443*, pos_z=117.950*, pos_y=3.101*, direction=281.3°*)
+105: 0x02E5 [0xBA] SET_ENTITY_POSITION(entity_id=Destin (ID: 17105344/0x010501C0), pos_x=7.837*, pos_z=117.690*, pos_y=3.101*, direction=351.6°*)
+106: 0x02F2 [0xBA] SET_ENTITY_POSITION(entity_id=Star Sibyl (ID: 17105346/0x010501C2), pos_x=6.270*, pos_z=116.948*, pos_y=3.101*, direction=281.3°*)
+107: 0x02FF [0xBA] SET_ENTITY_POSITION(entity_id=Prien (ID: 17105345/0x010501C1), pos_x=6.571*, pos_z=118.790*, pos_y=3.101*, direction=254.7°*)
+108: 0x030C [0x4A] Kam'lanaut (ID: 17105347/0x010501C3) looks at Kam'lanaut (ID: 17105347/0x010501C3)
+109: 0x0315 [0x4A] Star Sibyl (ID: 17105346/0x010501C2) looks at Kam'lanaut (ID: 17105347/0x010501C3)
+110: 0x031E [0x4A] Prien (ID: 17105345/0x010501C1) looks at Kam'lanaut (ID: 17105347/0x010501C3)
+111: 0x0327 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+112: 0x0328 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kam'lanaut (ID: 17105347/0x010501C3) Render.Flags0 and Render.Flags3 conditions are met
+113: 0x032D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+114: 0x032E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Star Sibyl (ID: 17105346/0x010501C2) Render.Flags0 and Render.Flags3 conditions are met
+115: 0x0333 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+116: 0x0334 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Prien (ID: 17105345/0x010501C1) Render.Flags0 and Render.Flags3 conditions are met
+117: 0x0339 [0x1C] WAIT(180* ticks)
+118: 0x033C [0x48] [System] [10756*]:
+    → "Debug: Press button to start event."
+119: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
+120: 0x0340 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
+121: 0x0345 [0x1C] WAIT(60* ticks)
+122: 0x0348 [0x52] END_LOAD_SCHEDULER: End scheduler "tgs5" with entities [EventEntity, EventEntity], work=349*
+123: 0x0357 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs2" with entities [EventEntity, EventEntity], work=[349*, 0*]
+124: 0x0368 [0x1C] WAIT(30* ticks)
+125: 0x036B [0x4A] Destin (ID: 17105344/0x010501C0) looks at Kam'lanaut (ID: 17105347/0x010501C3)
+126: 0x0374 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+127: 0x0375 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Destin (ID: 17105344/0x010501C0) Render.Flags0 and Render.Flags3 conditions are met
+128: 0x037A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs2" with entities [EventEntity, EventEntity], work=349*
+129: 0x0389 [0x1C] WAIT(240* ticks)
+130: 0x038C [0x68] SHOW_HUD_ELEMENTS()
+131: 0x038D [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+    → "Watch again? [Yep./Nope.]"
+132: 0x0394 [0x25] WAIT_DIALOG_SELECT()
+133: 0x0395 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A3
+134: 0x039D [0x01] GOTO 0x0253
+
+SUBROUTINE_03AE:
+135: 0x03AE [0x34] LOAD_UNLOAD_ZONE(zone_id=80*)
+136: 0x03B1 [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+137: 0x03B2 [0x01] GOTO 0x07E8
+138: 0x03B5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0608
+139: 0x03BD [0x34] LOAD_UNLOAD_ZONE(zone_id=81*)
+140: 0x03C0 [0x77] SET_EVENT_TIME_WEATHER(hour=9*, weather=0*)
+
+SUBROUTINE_03C5:
+141: 0x03C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs7" with entities [EventEntity, EventEntity], work=[349*, 0*]
+142: 0x03D6 [0x2F] Unnamed NPC (ID: 17105353/0x010501C9)->Render.Flags0 &= ~0x80000 // Bit 19
+143: 0x03DC [0x2F] Unnamed NPC (ID: 17105354/0x010501CA)->Render.Flags0 &= ~0x80000 // Bit 19
+144: 0x03E2 [0x2F] Unnamed NPC (ID: 17105355/0x010501CB)->Render.Flags0 &= ~0x80000 // Bit 19
+145: 0x03E8 [0x2F] Unnamed NPC (ID: 17105356/0x010501CC)->Render.Flags0 &= ~0x80000 // Bit 19
+146: 0x03EE [0x2F] Unnamed NPC (ID: 17105357/0x010501CD)->Render.Flags0 &= ~0x80000 // Bit 19
+147: 0x03F4 [0x2F] Unnamed NPC (ID: 17105358/0x010501CE)->Render.Flags0 &= ~0x80000 // Bit 19
+148: 0x03FA [0x2F] Unnamed NPC (ID: 17105359/0x010501CF)->Render.Flags0 &= ~0x80000 // Bit 19
+149: 0x0400 [0x2F] Unnamed NPC (ID: 17105360/0x010501D0)->Render.Flags0 &= ~0x80000 // Bit 19
+150: 0x0406 [0x2F] Unnamed NPC (ID: 17105361/0x010501D1)->Render.Flags0 &= ~0x80000 // Bit 19
+151: 0x040C [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105353/0x010501C9)
+152: 0x0412 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105354/0x010501CA)
+153: 0x0418 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105355/0x010501CB)
+154: 0x041E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105356/0x010501CC)
+155: 0x0424 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105357/0x010501CD)
+156: 0x042A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105358/0x010501CE)
+157: 0x0430 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105359/0x010501CF)
+158: 0x0436 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105360/0x010501D0)
+159: 0x043C [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105361/0x010501D1)
+160: 0x0442 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
+161: 0x0448 [0x92] Unnamed NPC (ID: 17105353/0x010501C9)->Render.Flags3 ^= 0x01
+162: 0x044E [0x92] Unnamed NPC (ID: 17105354/0x010501CA)->Render.Flags3 ^= 0x01
+163: 0x0454 [0x92] Unnamed NPC (ID: 17105355/0x010501CB)->Render.Flags3 ^= 0x01
+164: 0x045A [0x92] Unnamed NPC (ID: 17105356/0x010501CC)->Render.Flags3 ^= 0x01
+165: 0x0460 [0x92] Unnamed NPC (ID: 17105357/0x010501CD)->Render.Flags3 ^= 0x01
+166: 0x0466 [0x92] Unnamed NPC (ID: 17105358/0x010501CE)->Render.Flags3 ^= 0x01
+167: 0x046C [0x92] Unnamed NPC (ID: 17105359/0x010501CF)->Render.Flags3 ^= 0x01
+168: 0x0472 [0x92] Unnamed NPC (ID: 17105360/0x010501D0)->Render.Flags3 ^= 0x01
+169: 0x0478 [0x92] Unnamed NPC (ID: 17105361/0x010501D1)->Render.Flags3 ^= 0x01
+170: 0x047E [0x94] Unnamed NPC (ID: 17105353/0x010501C9)->Render.Flags3 ^= 0x01
+171: 0x0484 [0x94] Unnamed NPC (ID: 17105354/0x010501CA)->Render.Flags3 ^= 0x01
+172: 0x048A [0x94] Unnamed NPC (ID: 17105355/0x010501CB)->Render.Flags3 ^= 0x01
+173: 0x0490 [0x94] Unnamed NPC (ID: 17105356/0x010501CC)->Render.Flags3 ^= 0x01
+174: 0x0496 [0x94] Unnamed NPC (ID: 17105357/0x010501CD)->Render.Flags3 ^= 0x01
+175: 0x049C [0x94] Unnamed NPC (ID: 17105358/0x010501CE)->Render.Flags3 ^= 0x01
+176: 0x04A2 [0x94] Unnamed NPC (ID: 17105359/0x010501CF)->Render.Flags3 ^= 0x01
+177: 0x04A8 [0x94] Unnamed NPC (ID: 17105360/0x010501D0)->Render.Flags3 ^= 0x01
+178: 0x04AE [0x94] Unnamed NPC (ID: 17105361/0x010501D1)->Render.Flags3 ^= 0x01
+179: 0x04B4 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105353/0x010501C9))
+180: 0x04B9 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105354/0x010501CA))
+181: 0x04BE [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105355/0x010501CB))
+182: 0x04C3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105356/0x010501CC))
+183: 0x04C8 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105357/0x010501CD))
+184: 0x04CD [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105358/0x010501CE))
+185: 0x04D2 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105359/0x010501CF))
+186: 0x04D7 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105360/0x010501D0))
+187: 0x04DC [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105361/0x010501D1))
+188: 0x04E1 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105353/0x010501C9), pos_x=674.037*, pos_z=-520.921*, pos_y=-9.761*, direction=203.4°*)
+189: 0x04EE [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105354/0x010501CA), pos_x=666.232*, pos_z=-540.465*, pos_y=-10.000*, direction=147.6°*)
+190: 0x04FB [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105355/0x010501CB), pos_x=673.641*, pos_z=-519.760*, pos_y=-9.712*, direction=139.9°*)
+191: 0x0508 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105356/0x010501CC), pos_x=660.040*, pos_z=-526.322*, pos_y=-9.868*, direction=139.9°*)
+192: 0x0515 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105357/0x010501CD), pos_x=659.873*, pos_z=-528.301*, pos_y=-9.969*, direction=263.7°*)
+193: 0x0522 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105358/0x010501CE), pos_x=661.134*, pos_z=-528.197*, pos_y=-9.972*, direction=263.7°*)
+194: 0x052F [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105359/0x010501CF), pos_x=658.723*, pos_z=-528.112*, pos_y=-9.843*, direction=263.7°*)
+195: 0x053C [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105360/0x010501D0), pos_x=662.414*, pos_z=-528.057*, pos_y=-10.001*, direction=263.7°*)
+196: 0x0549 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105361/0x010501D1), pos_x=657.261*, pos_z=-528.292*, pos_y=-9.728*, direction=263.7°*)
+197: 0x0556 [0x4A] Unnamed NPC (ID: 17105353/0x010501C9) looks at Unnamed NPC (ID: 17105357/0x010501CD)
+198: 0x055F [0x4A] Unnamed NPC (ID: 17105354/0x010501CA) looks at Unnamed NPC (ID: 17105357/0x010501CD)
+199: 0x0568 [0x4A] Unnamed NPC (ID: 17105355/0x010501CB) looks at Unnamed NPC (ID: 17105357/0x010501CD)
+200: 0x0571 [0x4A] Unnamed NPC (ID: 17105356/0x010501CC) looks at Unnamed NPC (ID: 17105357/0x010501CD)
+201: 0x057A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+202: 0x057B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17105353/0x010501C9) Render.Flags0 and Render.Flags3 conditions are met
+203: 0x0580 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+204: 0x0581 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17105354/0x010501CA) Render.Flags0 and Render.Flags3 conditions are met
+205: 0x0586 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+206: 0x0587 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17105355/0x010501CB) Render.Flags0 and Render.Flags3 conditions are met
+207: 0x058C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+208: 0x058D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17105356/0x010501CC) Render.Flags0 and Render.Flags3 conditions are met
+209: 0x0592 [0x48] [System] [10756*]:
+    → "Debug: Press button to start event."
+210: 0x0595 [0x23] WAIT_FOR_DIALOG_INTERACTION
+211: 0x0596 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
+212: 0x059B [0x1C] WAIT(60* ticks)
+213: 0x059E [0x52] END_LOAD_SCHEDULER: End scheduler "tgs7" with entities [EventEntity, EventEntity], work=349*
+214: 0x05AD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs3" with entities [EventEntity, EventEntity], work=[349*, 0*]
+215: 0x05BE [0x1C] WAIT(10* ticks)
+216: 0x05C1 [0x6E] Unnamed NPC (ID: 17105353/0x010501C9) uses emote 0*
+217: 0x05C8 [0x99] Wait for Unnamed NPC (ID: 17105353/0x010501C9) animation to complete
+218: 0x05CD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs3" with entities [EventEntity, EventEntity], work=349*
+219: 0x05DC [0x1C] WAIT(240* ticks)
+220: 0x05DF [0x68] SHOW_HUD_ELEMENTS()
+221: 0x05E0 [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+    → "Watch again? [Yep./Nope.]"
+222: 0x05E7 [0x25] WAIT_DIALOG_SELECT()
+223: 0x05E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05F6
+224: 0x05F0 [0x01] GOTO 0x03C5
+
+SUBROUTINE_0601:
+225: 0x0601 [0x34] LOAD_UNLOAD_ZONE(zone_id=80*)
+226: 0x0604 [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+227: 0x0605 [0x01] GOTO 0x07E8
+228: 0x0608 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x07E8
+229: 0x0610 [0x34] LOAD_UNLOAD_ZONE(zone_id=80*)
+230: 0x0613 [0x77] SET_EVENT_TIME_WEATHER(hour=13*, weather=0*)
+
+SUBROUTINE_0618:
+231: 0x0618 [0x2F] Unnamed NPC (ID: 17105353/0x010501C9)->Render.Flags0 &= ~0x80000 // Bit 19
+232: 0x061E [0x2F] Unnamed NPC (ID: 17105354/0x010501CA)->Render.Flags0 &= ~0x80000 // Bit 19
+233: 0x0624 [0x2F] Unnamed NPC (ID: 17105362/0x010501D2)->Render.Flags0 &= ~0x80000 // Bit 19
+234: 0x062A [0x2F] Unnamed NPC (ID: 17105350/0x010501C6)->Render.Flags0 &= ~0x80000 // Bit 19
+235: 0x0630 [0x2F] Unnamed NPC (ID: 17105351/0x010501C7)->Render.Flags0 &= ~0x80000 // Bit 19
+236: 0x0636 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105353/0x010501C9)
+237: 0x063C [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105354/0x010501CA)
+238: 0x0642 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105362/0x010501D2)
+239: 0x0648 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105350/0x010501C6)
+240: 0x064E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17105351/0x010501C7)
+241: 0x0654 [0x92] Unnamed NPC (ID: 17105353/0x010501C9)->Render.Flags3 ^= 0x01
+242: 0x065A [0x92] Unnamed NPC (ID: 17105354/0x010501CA)->Render.Flags3 ^= 0x01
+243: 0x0660 [0x92] Unnamed NPC (ID: 17105362/0x010501D2)->Render.Flags3 ^= 0x01
+244: 0x0666 [0x92] Unnamed NPC (ID: 17105350/0x010501C6)->Render.Flags3 ^= 0x01
+245: 0x066C [0x92] Unnamed NPC (ID: 17105351/0x010501C7)->Render.Flags3 ^= 0x01
+246: 0x0672 [0x94] Unnamed NPC (ID: 17105353/0x010501C9)->Render.Flags3 ^= 0x01
+247: 0x0678 [0x94] Unnamed NPC (ID: 17105354/0x010501CA)->Render.Flags3 ^= 0x01
+248: 0x067E [0x94] Unnamed NPC (ID: 17105362/0x010501D2)->Render.Flags3 ^= 0x01
+249: 0x0684 [0x94] Unnamed NPC (ID: 17105350/0x010501C6)->Render.Flags3 ^= 0x01
+250: 0x068A [0x94] Unnamed NPC (ID: 17105351/0x010501C7)->Render.Flags3 ^= 0x01
+251: 0x0690 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Unnamed NPC (ID: 17105353/0x010501C9), tag_num=0x02)
+252: 0x0697 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Unnamed NPC (ID: 17105354/0x010501CA), tag_num=0x02)
+253: 0x069E [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105353/0x010501C9))
+254: 0x06A3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105354/0x010501CA))
+255: 0x06A8 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105362/0x010501D2))
+256: 0x06AD [0x80] LOAD_WAIT(entity=Hanging Cage (ID: 17105337/0x010501B9))
+257: 0x06B2 [0x80] LOAD_WAIT(entity=Hanging Cage (ID: 17105338/0x010501BA))
+258: 0x06B7 [0x80] LOAD_WAIT(entity=Hanging Cage (ID: 17105339/0x010501BB))
+259: 0x06BC [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105350/0x010501C6))
+260: 0x06C1 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105351/0x010501C7))
+261: 0x06C6 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105362/0x010501D2), pos_x=-92.540*, pos_z=60.212*, pos_y=-6.000*, direction=259.0°*)
+262: 0x06D3 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105353/0x010501C9), pos_x=-92.629*, pos_z=52.749*, pos_y=-4.499*, direction=305.3°*)
+263: 0x06E0 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105354/0x010501CA), pos_x=-86.275*, pos_z=51.632*, pos_y=-4.000*, direction=305.3°*)
+264: 0x06ED [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105350/0x010501C6), pos_x=-94.851*, pos_z=58.997*, pos_y=-6.000*, direction=132.9°*)
+265: 0x06FA [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17105351/0x010501C7), pos_x=-89.558*, pos_z=61.611*, pos_y=-5.999*, direction=308.7°*)
+266: 0x0707 [0x4A] Unnamed NPC (ID: 17105353/0x010501C9) looks at Unnamed NPC (ID: 17105362/0x010501D2)
+267: 0x0710 [0x4A] Unnamed NPC (ID: 17105354/0x010501CA) looks at Unnamed NPC (ID: 17105362/0x010501D2)
+268: 0x0719 [0x4A] Unnamed NPC (ID: 17105362/0x010501D2) looks at Unnamed NPC (ID: 17105353/0x010501C9)
+269: 0x0722 [0x7B] Unnamed NPC (ID: 17105362/0x010501D2) stops talking
+270: 0x0727 [0x7B] Unnamed NPC (ID: 17105353/0x010501C9) stops talking
+271: 0x072C [0x7B] Unnamed NPC (ID: 17105354/0x010501CA) stops talking
+272: 0x0731 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105351/0x010501C7), Unnamed NPC (ID: 17105351/0x010501C7)]
+273: 0x073E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105350/0x010501C6), Unnamed NPC (ID: 17105350/0x010501C6)]
+274: 0x074B [0x27] REQ_SET(priority=0x0F, entity_id=Hanging Cage (ID: 17105337/0x010501B9), tag_num=0x04)
+275: 0x0752 [0x1C] WAIT(120* ticks)
+276: 0x0755 [0x48] [System] [10756*]:
+    → "Debug: Press button to start event."
+277: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
+278: 0x0759 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
+279: 0x075E [0x1C] WAIT(60* ticks)
+280: 0x0761 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pva0" with entities [Unnamed NPC (ID: 17105362/0x010501D2), Unnamed NPC (ID: 17105362/0x010501D2)], work=1262*
+281: 0x0770 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "tgs4" with entities [EventEntity, EventEntity], work=[349*, 0*]
+282: 0x0781 [0x27] REQ_SET(priority=0x0F, entity_id=Unnamed NPC (ID: 17105353/0x010501C9), tag_num=0x04)
+283: 0x0788 [0x27] REQ_SET(priority=0x0F, entity_id=Unnamed NPC (ID: 17105354/0x010501CA), tag_num=0x04)
+284: 0x078F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs4" with entities [EventEntity, EventEntity], work=349*
+285: 0x079E [0x1C] WAIT(240* ticks)
+286: 0x07A1 [0x68] SHOW_HUD_ELEMENTS()
+287: 0x07A2 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Unnamed NPC (ID: 17105353/0x010501C9), tag_num=0x03)
+288: 0x07A9 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Unnamed NPC (ID: 17105354/0x010501CA), tag_num=0x03)
+289: 0x07B0 [0x1C] WAIT(60* ticks)
+290: 0x07B3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105353/0x010501C9))
+291: 0x07B8 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105354/0x010501CA))
+292: 0x07BD [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+    → "Watch again? [Yep./Nope.]"
+293: 0x07C4 [0x25] WAIT_DIALOG_SELECT()
+294: 0x07C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07D9
+295: 0x07CD [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17105362/0x010501D2)
+296: 0x07D3 [0x01] GOTO 0x0618
+
+SUBROUTINE_07E4:
+297: 0x07E4 [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+298: 0x07E5 [0x01] GOTO 0x07E8
+
+SUBROUTINE_07E8:
+299: 0x07E8 [0x1C] WAIT(60* ticks)
+300: 0x07EB [0x46] CAMERA_CONTROL: Restore default settings
+301: 0x07ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+302: 0x07FE [0x1C] WAIT(60* ticks)
+303: 0x0801 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+304: 0x0803 [0x21] END_EVENT
+305: 0x0804 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x022E [0x01] GOTO 0x023C
+# Dead code (unreachable instructions):
+     0x03A0 [0x01] GOTO 0x03AE
+# Dead code (unreachable instructions):
+     0x05F3 [0x01] GOTO 0x0601
+# Dead code (unreachable instructions):
+     0x07D6 [0x01] GOTO 0x07E4
+```

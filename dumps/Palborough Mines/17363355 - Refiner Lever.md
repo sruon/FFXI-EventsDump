@@ -1,0 +1,148 @@
+# 17363355 - Refiner Lever
+
+## Common Data
+
+| Field            | Value                      |
+|------------------|----------------------------|
+| Zone             | Palborough Mines (ID: 143) |
+| Block Size       | 260 bytes                  |
+| Total Events     | 2                          |
+| References Count | 10                         |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [17](#event-17)       | 0x0001       |    194 |             40 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CD7      |        7383 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x003C      |          60 |
+|       4 | 0x001E      |          30 |
+|       5 | 0x0014      |          20 |
+|       6 | 0x1CD8      |        7384 |
+|       7 | 0x1CDB      |        7387 |
+|       8 | 0x1CD9      |        7385 |
+|       9 | 0x1CDA      |        7386 |
+
+## String References
+
+- **7383**: Pull the lever? [Yes./No.]
+- **7384**: You've activated the machine.
+- **7385**: You hear the sounds of metal hitting metal down below. Did the things you put in come out there?
+- **7386**: It might be best to go look downstairs.
+- **7387**: The machine seems to be working, but you cannot discern its purpose.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 17
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 194 bytes |
+| Instructions | 40        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 24 00 80 01 80 01  80 25 02 00 10 02 80 00   B$......%......
+0010: 1A 00 03 01 10 01 80 01  C1 00 02 00 10 01 80 00  ................
+0020: C1 00 03 01 10 02 80 03  00 00 02 10 02 02 10 01  ................
+0030: 80 01 38 00 43 00 43 01  4A F0 FF FF 7F 9B F1 08  ..8.C.C.J.......
+0040: 01 4C 02 00 00 01 80 00  5A 00 2D 9B F1 08 01 9B  .L......Z.-.....
+0050: F1 08 01 65 78 6E 6F 01  67 00 2D 9B F1 08 01 9B  ...exno.g.-.....
+0060: F1 08 01 65 78 73 75 1C  03 80 4D 1C 03 80 2D 9B  ...exsu...M...-.
+0070: F1 08 01 9B F1 08 01 6B  69 6B 61 1C 04 80 2D 9B  .......kika...-.
+0080: F1 08 01 9B F1 08 01 6B  69 6B 61 1C 05 80 2D 9B  .......kika...-.
+0090: F1 08 01 9B F1 08 01 6B  69 6B 61 48 06 80 23 02  .......kikaH..#.
+00A0: 00 00 01 80 00 B6 00 02  03 10 01 80 00 B3 00 48  ...............H
+00B0: 07 80 23 01 BE 00 48 08  80 23 48 09 80 23 01 C1  ..#...H..#H..#..
+00C0: 00 21 00                                          .!.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x24] CREATE_DIALOG(message_id=7383*, default_option=0*, option_flags=0*)
+    → "Pull the lever? [Yes./No.]"
+  2: 0x0009 [0x25] WAIT_DIALOG_SELECT()
+  3: 0x000A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x001A
+  4: 0x0012 [0x03] Work_Zone[1] = 0*
+  5: 0x0017 [0x01] GOTO 0x00C1
+  6: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C1
+  7: 0x0022 [0x03] Work_Zone[1] = 1*
+  8: 0x0027 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  9: 0x002C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0038
+ 10: 0x0034 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 11: 0x0036 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 12: 0x0038 [0x4A] LocalPlayer looks at Refiner Lever (ID: 17363355/0x0108F19B)
+ 13: 0x0041 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 14: 0x0042 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x005A
+ 15: 0x004A [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "exno" with entities [Refiner Lever (ID: 17363355/0x0108F19B), Refiner Lever (ID: 17363355/0x0108F19B)]
+ 16: 0x0057 [0x01] GOTO 0x0067
+ 17: 0x005A [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "exsu" with entities [Refiner Lever (ID: 17363355/0x0108F19B), Refiner Lever (ID: 17363355/0x0108F19B)]
+
+SUBROUTINE_0067:
+ 18: 0x0067 [0x1C] WAIT(60* ticks)
+ 19: 0x006A [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 20: 0x006B [0x1C] WAIT(60* ticks)
+ 21: 0x006E [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kika" with entities [Refiner Lever (ID: 17363355/0x0108F19B), Refiner Lever (ID: 17363355/0x0108F19B)]
+ 22: 0x007B [0x1C] WAIT(30* ticks)
+ 23: 0x007E [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kika" with entities [Refiner Lever (ID: 17363355/0x0108F19B), Refiner Lever (ID: 17363355/0x0108F19B)]
+ 24: 0x008B [0x1C] WAIT(20* ticks)
+ 25: 0x008E [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kika" with entities [Refiner Lever (ID: 17363355/0x0108F19B), Refiner Lever (ID: 17363355/0x0108F19B)]
+ 26: 0x009B [0x48] [System] [7384*]:
+    → "You've activated the machine."
+ 27: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 28: 0x009F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00B6
+ 29: 0x00A7 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00B3
+ 30: 0x00AF [0x48] [System] [7387*]:
+    → "The machine seems to be working, but you cannot discern its purpose."
+ 31: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x00B3 [0x01] GOTO 0x00BE
+ 33: 0x00B6 [0x48] [System] [7385*]:
+    → "You hear the sounds of metal hitting metal down below. Did the things you put in come out there?"
+ 34: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 35: 0x00BA [0x48] [System] [7386*]:
+    → "It might be best to go look downstairs."
+ 36: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_00BE:
+ 37: 0x00BE [0x01] GOTO 0x00C1
+
+SUBROUTINE_00C1:
+ 38: 0x00C1 [0x21] END_EVENT
+ 39: 0x00C2 [0x00] END_REQSTACK()
+```

@@ -1,4 +1,5 @@
 from .base import ArgType, BaseOpcode, OpcodeArg
+from ..string_formatter import format_string
 
 
 class PrintEntityMessageOpcode(BaseOpcode):
@@ -30,7 +31,7 @@ class PrintEntityMessageOpcode(BaseOpcode):
                     break
 
             if found_string:
-                escaped_text = self.escape_unprintable_chars(found_string.text)
+                escaped_text = format_string(found_string.text)
                 result += f'\n    → "{escaped_text}"'
             else:
                 nearby_strings = []

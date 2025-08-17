@@ -1,0 +1,282 @@
+# 17339075 - Phillieulais
+
+## Common Data
+
+| Field            | Value                   |
+|------------------|-------------------------|
+| Zone             | Xarcabard [S] (ID: 137) |
+| Block Size       | 220 bytes               |
+| Total Events     | 11                      |
+| References Count | 12                      |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0001       |     18 |              4 |
+| [65535.2](#event-655352) | 0x0013       |     10 |              2 |
+| [65535.3](#event-655353) | 0x001D       |      9 |              3 |
+| [65535.4](#event-655354) | 0x0026       |      9 |              3 |
+| [65535.5](#event-655355) | 0x002F       |     10 |              2 |
+| [65535.6](#event-655356) | 0x0039       |     10 |              2 |
+| [4](#event-4)            | 0x0043       |      1 |              1 |
+| [65535.7](#event-655357) | 0x0044       |     21 |              2 |
+| [65535.8](#event-655358) | 0x0059       |     21 |              2 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0080      |         128 |
+|       3 | 0x0003      |           3 |
+|       4 | 0x0005      |           5 |
+|       5 | 0x004C      |          76 |
+|       6 | 0x00D9      |         217 |
+|       7 | 0x0119      |         281 |
+|       8 | 0x001D      |          29 |
+|       9 | 0x0008      |           8 |
+|      10 | 0x000C      |          12 |
+|      11 | 0x00D2      |         210 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 18 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    22 00 2F 00 F8 FF FF  7F 6C F8 FF FF 7F 00 80   "./.....l......
+0010: 01 80 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+  1: 0x0003 [0x2F] EventEntity->Render.Flags0 &= ~0x80000 // Bit 19
+  2: 0x0009 [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=0*, fade_time=1*)
+  3: 0x0012 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0013   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:          6C F8 FF FF 7F  02 80 01 80 00              l.........   
+```
+
+#### Opcodes
+
+```
+  0: 0x0013 [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=128*, fade_time=1*)
+  1: 0x001C [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x001D  |
+| Data Size    | 9 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                                         22 00 2F               "./
+0020: 00 F8 FF FF 7F 00                                 ......          
+```
+
+#### Opcodes
+
+```
+  0: 0x001D [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+  1: 0x001F [0x2F] EventEntity->Render.Flags0 &= ~0x80000 // Bit 19
+  2: 0x0025 [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0026  |
+| Data Size    | 9 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                   22 01  2F 01 F8 FF FF 7F 00           "./...... 
+```
+
+#### Opcodes
+
+```
+  0: 0x0026 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
+  1: 0x0028 [0x2F] EventEntity->Render.Flags0 |= 0x80000 // Bit 19
+  2: 0x002E [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x002F   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                                               6C                 l
+0030: F8 FF FF 7F 00 80 01 80  00                       .........       
+```
+
+#### Opcodes
+
+```
+  0: 0x002F [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=0*, fade_time=1*)
+  1: 0x0038 [0x00] END_REQSTACK()
+```
+
+### Event 65535.6
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0039   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:                             6C F8 FF FF 7F 02 80           l......
+0040: 01 80 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x0039 [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=128*, fade_time=1*)
+  1: 0x0042 [0x00] END_REQSTACK()
+```
+
+### Event 4
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0043  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040:          00                                          .            
+```
+
+#### Opcodes
+
+```
+  0: 0x0043 [0x00] END_REQSTACK()
+```
+
+### Event 65535.7
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0044   |
+| Data Size    | 21 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040:             B6 0B 03 80  04 80 05 80 05 80 06 80      ............
+0050: 05 80 05 80 07 80 08 80  00                       .........       
+```
+
+#### Opcodes
+
+```
+  0: 0x0044 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Full entity look, race=3*, hair=5*, head=76*, body=76*, hands=217*, legs=76*, feet=76*, main=281*, sub=29*)
+  1: 0x0058 [0x00] END_REQSTACK()
+```
+
+### Event 65535.8
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0059   |
+| Data Size    | 21 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:                             B6 0B 03 80 09 80 0A           .......
+0060: 80 0A 80 0A 80 0A 80 0A  80 0B 80 00 80 00        ..............  
+```
+
+#### Opcodes
+
+```
+  0: 0x0059 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Full entity look, race=3*, hair=8*, head=12*, body=12*, hands=12*, legs=12*, feet=12*, main=210*, sub=0*)
+  1: 0x006D [0x00] END_REQSTACK()
+```

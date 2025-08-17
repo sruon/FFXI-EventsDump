@@ -1,0 +1,187 @@
+# 17105529 - Crochepallade
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Southern San d'Oria [S] (ID: 80) |
+| Block Size       | 324 bytes                        |
+| Total Events     | 2                                |
+| References Count | 18                               |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [329](#event-329)     | 0x0001       |    226 |             59 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x002E      |          46 |
+|       1 | 0x002F      |          47 |
+|       2 | 0x0030      |          48 |
+|       3 | 0x0031      |          49 |
+|       4 | 0x0032      |          50 |
+|       5 | 0x32F2      |       13042 |
+|       6 | 0x01F7      |         503 |
+|       7 | 0x0000      |           0 |
+|       8 | 0x32E8      |       13032 |
+|       9 | 0x32EA      |       13034 |
+|      10 | 0x32EB      |       13035 |
+|      11 | 0x32EC      |       13036 |
+|      12 | 0x32ED      |       13037 |
+|      13 | 0x0001      |           1 |
+|      14 | 0x32EE      |       13038 |
+|      15 | 0x32F0      |       13040 |
+|      16 | 0x0003      |           3 |
+|      17 | 0x32F1      |       13041 |
+
+## String References
+
+- **13032**: So you're the new scout, eh? Well, here then. Take this.
+- **13034**: Are you familiar with fiendtrappers? [Fiend what now?/I practically invented them.]
+- **13035**: Hmph...some scout you are. <Sigh>... The device I just issued you is called a fiendtrapper. Together with a blank fiend plate, it forms the latest in portable recording technology available to our army.
+- **13036**: Calm down and listen, now. When you use the fiendtrapper, the data will be recorded to the blank fiend plate inside. Quite a marvelous invention, really.
+- **13037**: Got it? Even you must have understood that explanation. Your orders are to take that device and gather enemy intel on those damnable Orcs!
+- **13038**: A know-it-all, huh? Suit yourself. How about going and getting your hands on some enemy surveillance, then?
+- **13040**: Quit wasting your time! I don't see any Orcs 'round here what needs spying on! Now get on with it!
+- **13041**: Why do you insist on bothering me? Go and report to Rasdinice immediately!
+- **13042**: What do you want? Some of us are busy. Do you know what busy means? Or do you require an explanation for that, too?
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 329
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 226 bytes |
+| Instructions | 59        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 42 4A 79 02 05  01 F0 FF FF 7F 6F 70 79    .BJy.......opy
+0010: 00 79 02 05 01 F0 FF FF  7F 03 00 00 03 10 02 00  .y..............
+0020: 00 00 80 80 2C 00 1A 78  00 01 68 00 02 00 00 01  ....,..x..h.....
+0030: 80 80 3A 00 1A 78 00 01  68 00 02 00 00 02 80 80  ..:..x..h.......
+0040: 48 00 1A 78 00 01 68 00  02 00 00 03 80 80 56 00  H..x..h.......V.
+0050: 1A 78 00 01 68 00 02 00  00 04 80 80 64 00 1A 78  .x..h.......d..x
+0060: 00 01 68 00 1D 05 80 23  7B 79 02 05 01 4B 79 02  ..h....#{y...Ky.
+0070: 05 01 06 80 20 00 21 00  02 02 10 07 80 80 BA 00  .... .!.........
+0080: 1D 08 80 23 24 09 80 07  80 07 80 25 02 00 10 07  ...#$......%....
+0090: 80 00 A3 00 1D 0A 80 23  1D 0B 80 23 1D 0C 80 23  .......#...#...#
+00A0: 01 B2 00 02 00 10 0D 80  00 B2 00 1D 0E 80 23 01  ..............#.
+00B0: B2 00 03 01 10 0D 80 01  E2 00 02 02 10 0D 80 80  ................
+00C0: CE 00 1D 0F 80 23 03 01  10 07 80 01 E2 00 02 02  .....#..........
+00D0: 10 10 80 80 E2 00 1D 11  80 23 03 01 10 07 80 01  .........#......
+00E0: E2 00 1B                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0004 [0x4A] Crochepallade (ID: 17105529/0x01050279) looks at LocalPlayer
+  3: 0x000D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x000E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  5: 0x000F [0x79] Crochepallade (ID: 17105529/0x01050279) looks at LocalPlayer (Basic look)
+  6: 0x0019 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
+  7: 0x001E [0x02] IF !(ExtData[1]->WorkLocal[0] == 46*) GOTO 0x002C
+  8: 0x0026 [0x1A] CALL_SUBROUTINE(address=0x0078)
+  9: 0x0029 [0x01] GOTO 0x0068
+ 10: 0x002C [0x02] IF !(ExtData[1]->WorkLocal[0] == 47*) GOTO 0x003A
+ 11: 0x0034 [0x1A] CALL_SUBROUTINE(address=0x0078)
+ 12: 0x0037 [0x01] GOTO 0x0068
+ 13: 0x003A [0x02] IF !(ExtData[1]->WorkLocal[0] == 48*) GOTO 0x0048
+ 14: 0x0042 [0x1A] CALL_SUBROUTINE(address=0x0078)
+ 15: 0x0045 [0x01] GOTO 0x0068
+ 16: 0x0048 [0x02] IF !(ExtData[1]->WorkLocal[0] == 49*) GOTO 0x0056
+ 17: 0x0050 [0x1A] CALL_SUBROUTINE(address=0x0078)
+ 18: 0x0053 [0x01] GOTO 0x0068
+ 19: 0x0056 [0x02] IF !(ExtData[1]->WorkLocal[0] == 50*) GOTO 0x0064
+ 20: 0x005E [0x1A] CALL_SUBROUTINE(address=0x0078)
+ 21: 0x0061 [0x01] GOTO 0x0068
+ 22: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=13042*)
+    → "What do you want? Some of us are busy. Do you know what busy means? Or do you require an explanation for that, too?"
+ 23: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0068:
+ 24: 0x0068 [0x7B] Crochepallade (ID: 17105529/0x01050279) stops talking
+ 25: 0x006D [0x4B] UPDATE_ENTITY_YAW(entity=Crochepallade (ID: 17105529/0x01050279), yaw=2.8°*)
+ 26: 0x0074 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 27: 0x0076 [0x21] END_EVENT
+ 28: 0x0077 [0x00] END_REQSTACK()
+
+SUBROUTINE_0078:
+ 29: 0x0078 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00BA
+ 30: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=13032*)
+    → "So you're the new scout, eh? Well, here then. Take this."
+ 31: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x0084 [0x24] CREATE_DIALOG(message_id=13034*, default_option=0*, option_flags=0*)
+    → "Are you familiar with fiendtrappers? [Fiend what now?/I practically invented them.]"
+ 33: 0x008B [0x25] WAIT_DIALOG_SELECT()
+ 34: 0x008C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A3
+ 35: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=13035*)
+    → "Hmph...some scout you are. <Sigh>... The device I just issued you is called a fiendtrapper. Together with a blank fiend plate, it forms the latest in portable recording technology available to our army."
+ 36: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 37: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=13036*)
+    → "Calm down and listen, now. When you use the fiendtrapper, the data will be recorded to the blank fiend plate inside. Quite a marvelous invention, really."
+ 38: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 39: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=13037*)
+    → "Got it? Even you must have understood that explanation. Your orders are to take that device and gather enemy intel on those damnable Orcs!"
+ 40: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 41: 0x00A0 [0x01] GOTO 0x00B2
+ 42: 0x00A3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B2
+ 43: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13038*)
+    → "A know-it-all, huh? Suit yourself. How about going and getting your hands on some enemy surveillance, then?"
+ 44: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 45: 0x00AF [0x01] GOTO 0x00B2
+
+SUBROUTINE_00B2:
+ 46: 0x00B2 [0x03] Work_Zone[1] = 1*
+ 47: 0x00B7 [0x01] GOTO 0x00E2
+ 48: 0x00BA [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00CE
+ 49: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13040*)
+    → "Quit wasting your time! I don't see any Orcs 'round here what needs spying on! Now get on with it!"
+ 50: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 51: 0x00C6 [0x03] Work_Zone[1] = 0*
+ 52: 0x00CB [0x01] GOTO 0x00E2
+ 53: 0x00CE [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x00E2
+ 54: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13041*)
+    → "Why do you insist on bothering me? Go and report to Rasdinice immediately!"
+ 55: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 56: 0x00DA [0x03] Work_Zone[1] = 0*
+ 57: 0x00DF [0x01] GOTO 0x00E2
+
+SUBROUTINE_00E2:
+ 58: 0x00E2 [0x1B] RETURN
+```

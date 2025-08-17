@@ -1,0 +1,377 @@
+# 16990632 - Hamta-Iramta
+
+## Common Data
+
+| Field            | Value                     |
+|------------------|---------------------------|
+| Zone             | Bhaflau Thickets (ID: 52) |
+| Block Size       | 628 bytes                 |
+| Total Events     | 8                         |
+| References Count | 27                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [134](#event-134)     | 0x0001       |     37 |             16 |
+| [135](#event-135)     | 0x0026       |    158 |             30 |
+| [136](#event-136)     | 0x00C4       |    237 |             45 |
+| [142](#event-142)     | 0x01B1       |     14 |              4 |
+| [143](#event-143)     | 0x01BF       |      4 |              2 |
+| [144](#event-144)     | 0x01C3       |     14 |              4 |
+| [145](#event-145)     | 0x01D1       |      4 |              2 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CB2      |        7346 |
+|       1 | 0x1CB3      |        7347 |
+|       2 | 0x1CB4      |        7348 |
+|       3 | 0x0889      |        2185 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x1CB5      |        7349 |
+|       6 | 0x0004      |           4 |
+|       7 | 0x00C8      |         200 |
+|       8 | 0x0000      |           0 |
+|       9 | 0x003C      |          60 |
+|      10 | 0x0013      |          19 |
+|      11 | 0x00D9      |         217 |
+|      12 | 0x1CB6      |        7350 |
+|      13 | 0x0078      |         120 |
+|      14 | 0x1CB7      |        7351 |
+|      15 | 0x1CB8      |        7352 |
+|      16 | 0x00B4      |         180 |
+|      17 | 0x00F0      |         240 |
+|      18 | 0x000D      |          13 |
+|      19 | 0xFFF90113  |  4294508819 |
+|      20 | 0xFFFFF439  |  4294964281 |
+|      21 | 0xFFFFC180  |  4294951296 |
+|      22 | 0x0800      |        2048 |
+|      23 | 0xFFF8FB5A  |  4294507354 |
+|      24 | 0xFFFFF449  |  4294964297 |
+|      25 | 0xFFFFB598  |  4294948248 |
+|      26 | 0x0400      |        1024 |
+
+## String References
+
+- **7346**: This tunnel leads to the Alzadaal Undersea Ruins.
+- **7347**: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
+- **7348**: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
+- **7349**: The fee for entering the ruins comes to $1 $0 .
+- **7350**: Very well. You may proceed.
+- **7351**: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
+- **7352**: Leave the ruins? [Yes, I'm done here./Not just yet.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 134
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 37 bytes |
+| Instructions | 16       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 1E F0 FF FF 7F  6F 70 1D 00 80 23 1D 01    ......op...#..
+0010: 80 23 1D 02 80 23 03 02  10 03 80 03 03 10 04 80  .#...#..........
+0020: 1D 05 80 23 21 00                                 ...#!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+    → "This tunnel leads to the Alzadaal Undersea Ruins."
+  5: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+    → "Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public."
+  7: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
+    → "However we cannot guarantee your safety--you would be wise to stay aware of your surroundings."
+  9: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x0016 [0x03] Work_Zone[2] = 2185*
+ 11: 0x001B [0x03] Work_Zone[3] = 1*
+ 12: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+    → "The fee for entering the ruins comes to $1 $0 ."
+ 13: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 14: 0x0024 [0x21] END_EVENT
+ 15: 0x0025 [0x00] END_REQSTACK()
+```
+
+### Event 135
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0026    |
+| Data Size    | 158 bytes |
+| Instructions | 30        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                   20 01  42 43 00 43 01 46 01 42         .BC.C.F.B
+0030: 38 06 80 45 07 80 F0 FF  FF 7F F0 FF FF 7F 66 64  8..E..........fd
+0040: 6F 31 08 80 1C 09 80 38  0A 80 45 0B 80 F0 FF FF  o1.....8..E.....
+0050: 7F F0 FF FF 7F 61 6C 6B  37 08 80 29 01 F0 FF FF  .....alk7..)....
+0060: 7F 12 45 07 80 F0 FF FF  7F F0 FF FF 7F 66 64 69  ..E..........fdi
+0070: 31 08 80 1C 09 80 1D 0C  80 1C 09 80 29 01 A8 41  1...........)..A
+0080: 03 01 04 29 01 A8 41 03  01 05 29 01 A6 41 03 01  ...)..A...)..A..
+0090: 01 1C 09 80 27 01 F0 FF  FF 7F 13 1C 0D 80 45 07  ....'.........E.
+00A0: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 08 80 1C  .........fdo1...
+00B0: 09 80 03 01 10 04 80 29  01 A6 41 03 01 02 46 00  .......)..A...F.
+00C0: 20 00 21 00                                        .!.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0026 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0028 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0029 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  3: 0x002B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  4: 0x002D [0x46] CAMERA_CONTROL: Disable user control
+  5: 0x002F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  6: 0x0030 [0x38] SET_CLIENT_EVENT_MODE(mode=4*)
+  7: 0x0033 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  8: 0x0044 [0x1C] WAIT(60* ticks)
+  9: 0x0047 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 10: 0x004A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "alk7" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
+ 11: 0x005B [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x12)
+ 12: 0x0062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 13: 0x0073 [0x1C] WAIT(60* ticks)
+ 14: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+    → "Very well. You may proceed."
+ 15: 0x0079 [0x1C] WAIT(60* ticks)
+ 16: 0x007C [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Hamta-Iramta (ID: 16990632/0x010341A8), tag_num=0x04)
+ 17: 0x0083 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Hamta-Iramta (ID: 16990632/0x010341A8), tag_num=0x05)
+ 18: 0x008A [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Door_1g4 (ID: 16990630/0x010341A6), tag_num=0x01)
+ 19: 0x0091 [0x1C] WAIT(60* ticks)
+ 20: 0x0094 [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x13)
+ 21: 0x009B [0x1C] WAIT(120* ticks)
+ 22: 0x009E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 23: 0x00AF [0x1C] WAIT(60* ticks)
+ 24: 0x00B2 [0x03] Work_Zone[1] = 1*
+ 25: 0x00B7 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Door_1g4 (ID: 16990630/0x010341A6), tag_num=0x02)
+ 26: 0x00BE [0x46] CAMERA_CONTROL: Restore default settings
+ 27: 0x00C0 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 28: 0x00C2 [0x21] END_EVENT
+ 29: 0x00C3 [0x00] END_REQSTACK()
+```
+
+### Event 136
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x00C4    |
+| Data Size    | 237 bytes |
+| Instructions | 45        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00C0:             20 01 42 1E  F0 FF FF 7F 6F 70 1D 0E       .B.....op..
+00D0: 80 23 24 0F 80 04 80 08  80 25 02 00 10 08 80 00  .#$......%......
+00E0: 9D 01 43 00 43 01 46 01  42 45 07 80 F0 FF FF 7F  ..C.C.F.BE......
+00F0: F0 FF FF 7F 66 64 6F 31  08 80 1C 09 80 38 0A 80  ....fdo1.....8..
+0100: 45 0B 80 F0 FF FF 7F F0  FF FF 7F 61 6C 6B 37 08  E..........alk7.
+0110: 80 29 01 F0 FF FF 7F 16  29 01 F0 FF FF 7F 14 45  .)......)......E
+0120: 07 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 31 08 80  ..........fdi1..
+0130: 1C 09 80 29 01 A8 41 03  01 04 29 01 A8 41 03 01  ...)..A...)..A..
+0140: 05 29 01 A6 41 03 01 01  1C 09 80 27 01 F0 FF FF  .)..A......'....
+0150: 7F 15 1C 10 80 29 01 A8  41 03 01 06 29 01 A8 41  .....)..A...)..A
+0160: 03 01 07 45 07 80 F0 FF  FF 7F F0 FF FF 7F 66 64  ...E..........fd
+0170: 6F 31 08 80 1C 09 80 03  01 10 04 80 29 01 A6 41  o1..........)..A
+0180: 03 01 02 46 00 2E 1C 11  80 45 07 80 F0 FF FF 7F  ...F.....E......
+0190: F0 FF FF 7F 66 64 69 31  08 80 01 AD 01 02 00 10  ....fdi1........
+01A0: 04 80 00 AD 01 03 01 10  08 80 01 AD 01 20 00 21  ............. .!
+01B0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x00C4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x00C6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x00C7 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x00CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x00CD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  5: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+    → "Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins."
+  6: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x00D2 [0x24] CREATE_DIALOG(message_id=7352*, default_option=1*, option_flags=0*)
+    → "Leave the ruins? [Yes, I'm done here./Not just yet.]"
+  8: 0x00D9 [0x25] WAIT_DIALOG_SELECT()
+  9: 0x00DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x019D
+ 10: 0x00E2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 11: 0x00E4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 12: 0x00E6 [0x46] CAMERA_CONTROL: Disable user control
+ 13: 0x00E8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 14: 0x00E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 15: 0x00FA [0x1C] WAIT(60* ticks)
+ 16: 0x00FD [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 17: 0x0100 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "alk7" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
+ 18: 0x0111 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x16)
+ 19: 0x0118 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x14)
+ 20: 0x011F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 21: 0x0130 [0x1C] WAIT(60* ticks)
+ 22: 0x0133 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Hamta-Iramta (ID: 16990632/0x010341A8), tag_num=0x04)
+ 23: 0x013A [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Hamta-Iramta (ID: 16990632/0x010341A8), tag_num=0x05)
+ 24: 0x0141 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Door_1g4 (ID: 16990630/0x010341A6), tag_num=0x01)
+ 25: 0x0148 [0x1C] WAIT(60* ticks)
+ 26: 0x014B [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x15)
+ 27: 0x0152 [0x1C] WAIT(180* ticks)
+ 28: 0x0155 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Hamta-Iramta (ID: 16990632/0x010341A8), tag_num=0x06)
+ 29: 0x015C [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Hamta-Iramta (ID: 16990632/0x010341A8), tag_num=0x07)
+ 30: 0x0163 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 31: 0x0174 [0x1C] WAIT(60* ticks)
+ 32: 0x0177 [0x03] Work_Zone[1] = 1*
+ 33: 0x017C [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Door_1g4 (ID: 16990630/0x010341A6), tag_num=0x02)
+ 34: 0x0183 [0x46] CAMERA_CONTROL: Restore default settings
+ 35: 0x0185 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+ 36: 0x0186 [0x1C] WAIT(240* ticks)
+ 37: 0x0189 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 38: 0x019A [0x01] GOTO 0x01AD
+ 39: 0x019D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01AD
+ 40: 0x01A5 [0x03] Work_Zone[1] = 0*
+ 41: 0x01AA [0x01] GOTO 0x01AD
+
+SUBROUTINE_01AD:
+ 42: 0x01AD [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 43: 0x01AF [0x21] END_EVENT
+ 44: 0x01B0 [0x00] END_REQSTACK()
+```
+
+### Event 142
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01B1   |
+| Data Size    | 14 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01B0:    32 12 80 1F 00 13 80  14 80 15 80 1F 01 00      2............. 
+```
+
+#### Opcodes
+
+```
+  0: 0x01B1 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x01B4 [0x1F] MOVE_ENTITY: EventEntity moves to X=-458.477*, Z=-3.015*, Y=-16.000*
+  2: 0x01BC [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x01BE [0x00] END_REQSTACK()
+```
+
+### Event 143
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x01BF  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01B0:                                               39                 9
+01C0: 16 80 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x01BF [0x39] SET_ENTITY_DIRECTION(direction=11.2°*)
+  1: 0x01C2 [0x00] END_REQSTACK()
+```
+
+### Event 144
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01C3   |
+| Data Size    | 14 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01C0:          32 12 80 1F 00  17 80 18 80 19 80 1F 01     2............
+01D0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x01C3 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x01C6 [0x1F] MOVE_ENTITY: EventEntity moves to X=-459.942*, Z=-2.999*, Y=-19.048*
+  2: 0x01CE [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x01D0 [0x00] END_REQSTACK()
+```
+
+### Event 145
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x01D1  |
+| Data Size    | 4 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01D0:    39 1A 80 00                                     9...           
+```
+
+#### Opcodes
+
+```
+  0: 0x01D1 [0x39] SET_ENTITY_DIRECTION(direction=5.6°*)
+  1: 0x01D4 [0x00] END_REQSTACK()
+```

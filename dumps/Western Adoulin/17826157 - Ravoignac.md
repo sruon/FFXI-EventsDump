@@ -1,0 +1,420 @@
+# 17826157 - Ravoignac
+
+## Common Data
+
+| Field            | Value                     |
+|------------------|---------------------------|
+| Zone             | Western Adoulin (ID: 256) |
+| Block Size       | 1380 bytes                |
+| Total Events     | 3                         |
+| References Count | 37                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [7611](#event-7611)   | 0x0001       |     13 |              5 |
+| [7610](#event-7610)   | 0x000E       |   1190 |            149 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0004      |           4 |
+|       1 | 0x2FE9      |       12265 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x2FEA      |       12266 |
+|       4 | 0x000F      |          15 |
+|       5 | 0x0010      |          16 |
+|       6 | 0x001F      |          31 |
+|       7 | 0x0001      |           1 |
+|       8 | 0x0008      |           8 |
+|       9 | 0x00C8      |         200 |
+|      10 | 0x01F4      |         500 |
+|      11 | 0x0064      |         100 |
+|      12 | 0xFFFFFFFF  |  4294967295 |
+|      13 | 0x2FEB      |       12267 |
+|      14 | 0x0014      |          20 |
+|      15 | 0x2FED      |       12269 |
+|      16 | 0x2FEC      |       12268 |
+|      17 | 0x0007      |           7 |
+|      18 | 0x0028      |          40 |
+|      19 | 0x0105      |         261 |
+|      20 | 0x0104      |         260 |
+|      21 | 0x0106      |         262 |
+|      22 | 0x0109      |         265 |
+|      23 | 0x0107      |         263 |
+|      24 | 0x010A      |         266 |
+|      25 | 0x010B      |         267 |
+|      26 | 0x0003      |           3 |
+|      27 | 0x0005      |           5 |
+|      28 | 0x086D      |        2157 |
+|      29 | 0x3047      |       12359 |
+|      30 | 0x3048      |       12360 |
+|      31 | 0x0002      |           2 |
+|      32 | 0x0013      |          19 |
+|      33 | 0x001E      |          30 |
+|      34 | 0x0006      |           6 |
+|      35 | 0x0044      |          68 |
+|      36 | 0x0041      |          65 |
+
+## String References
+
+- **12265**: Itching to know about either frontier bivouacs' construction status or durability? Then you have come to the right person, [sir/ma'am].
+- **12266**: View for which area? [None./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+- **12267**: Which bivouac? ($8) [None./F. Bivouac #1. ($9% constructed)/F. Bivouac #2. ($10% constructed)/F. Bivouac #3. ($11% constructed)/F. Bivouac #4. ($12% constructed)/F. Bivouac #5. ($13% constructed)]
+- **12268**: Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is currently at $2 percent durability. [It's in dire need of immediate frontline support!/I highly suggest providing frontline support to it in the near future./You might want to think about providing frontline support to it eventually./It seems relatively sturdy./It's still sturdy enough that you have nothing to worry about.]
+- **12269**: Construction on Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is $2 percent complete. In other words, [it hasn't even started/it's just begun/it's gathering steam/it's progressing splendidly/it's progressed to a great degree/it's come exceptionally far].
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 7611
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 13 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    06 14 00 03 15 00 00  80 1A EA 02 21 00         ...........!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x06] ExtData[1]->WorkLocal[20] = 0
+  1: 0x0004 [0x03] ExtData[1]->WorkLocal[21] = 4*
+  2: 0x0009 [0x1A] CALL_SUBROUTINE(address=0x02EA)
+  3: 0x000C [0x21] END_EVENT
+  4: 0x000D [0x00] END_REQSTACK()
+```
+
+### Event 7610
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x000E     |
+| Data Size    | 1190 bytes |
+| Instructions | 114        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                            1E F0                ..
+0010: FF FF 7F 1D 01 80 23 06  01 00 06 02 00 02 02 00  ......#.........
+0020: 02 80 00 E9 01 1A EB 01  24 03 80 01 00 00 00 25  ........$......%
+0030: 02 00 10 02 80 00 3E 00  05 02 00 01 3E 00 03 01  ......>.....>...
+0040: 00 00 10 02 02 00 02 80  00 E6 01 03 06 00 01 00  ................
+0050: 0C 06 00 9D 00 9A 02 13  00 06 00 06 04 00 06 05  ................
+0060: 00 40 02 80 04 80 01 10  01 00 40 05 80 06 80 01  .@........@.....
+0070: 10 02 80 43 00 43 01 03  0A 00 02 10 03 0D 00 03  ...C.C..........
+0080: 10 03 0E 00 04 10 03 0F  00 05 10 03 10 00 06 10  ................
+0090: 03 11 00 07 10 11 0A 00  07 80 02 05 00 02 80 00  ................
+00A0: E6 01 03 06 00 01 00 0C  06 00 9D 00 6A 02 0B 00  ............j...
+00B0: 06 00 06 07 00 02 07 00  0B 00 03 26 01 3E 0A 00  ...........&.>..
+00C0: 07 00 CF 00 9D 05 9A 02  07 80 07 00 01 D7 00 9D  ................
+00D0: 05 9A 02 02 80 07 00 03  06 00 07 00 07 06 00 08  ................
+00E0: 80 9D 00 8A 02 0C 00 07  00 02 0C 00 02 80 00 F4  ................
+00F0: 00 01 18 01 14 0C 00 09  80 15 0C 00 0A 80 02 0C  ................
+0100: 00 0B 80 02 0B 01 03 0C  00 0B 80 02 0C 00 02 80  ................
+0110: 00 18 01 03 0C 00 07 80  9D 05 9A 02 0C 00 06 00  ................
+0120: 0B 07 00 01 B5 00 03 06  00 01 00 0C 06 00 9D 00  ................
+0130: 6A 02 09 00 06 00 0B 09  00 06 03 00 40 09 00 06  j...........@...
+0140: 80 03 00 0C 80 03 02 10  13 00 24 0D 80 04 00 03  ..........$.....
+0150: 00 25 02 00 10 02 80 00  60 01 05 05 00 01 60 01  .%......`.....`.
+0160: 03 04 00 00 10 02 05 00  02 80 00 E3 01 03 12 00  ................
+0170: 04 00 0C 12 00 9D 00 9A  02 0C 00 12 00 03 03 10  ................
+0180: 04 00 9D 00 8A 02 04 10  12 00 02 04 10 02 80 00  ................
+0190: 95 01 01 B9 01 14 04 10  09 80 15 04 10 0A 80 02  ................
+01A0: 04 10 0B 80 02 AC 01 03  04 10 0B 80 02 04 10 02  ................
+01B0: 80 00 B9 01 03 04 10 07  80 03 05 10 04 10 15 05  ................
+01C0: 10 0E 80 02 05 10 00 80  02 D0 01 03 05 10 00 80  ................
+01D0: 02 0C 00 02 80 00 DF 01  1D 0F 80 23 01 E3 01 1D  ...........#....
+01E0: 10 80 23 01 9A 00 01 1D  00 21 00 1A 30 02 06 07  ..#......!..0...
+01F0: 00 06 00 00 02 07 00 11  80 03 21 02 9D 00 4A 02  ..........!...J.
+0200: 0C 00 07 00 02 0C 00 02  80 00 13 02 3C 00 00 0C  ............<...
+0210: 00 07 80 9D 05 9A 02 0C  00 07 00 0B 07 00 01 F4  ................
+0220: 01 40 11 80 06 80 00 00  0C 80 10 00 00 07 80 1B  .@..............
+0230: 06 07 00 02 07 00 12 80  03 49 02 9D 05 9A 02 02  .........I......
+0240: 80 07 00 0B 07 00 01 33  02 1B 13 80 14 80 15 80  .......3........
+0250: 16 80 17 80 18 80 19 80  02 80 02 80 02 80 02 80  ................
+0260: 02 80 02 80 02 80 02 80  02 80 1A 80 1A 80 00 80  ................
+0270: 1B 80 1A 80 00 80 00 80  02 80 02 80 02 80 02 80  ................
+0280: 02 80 02 80 02 80 02 80  02 80 0D 00 0E 00 0F 00  ................
+0290: 10 00 11 00 02 80 02 80  02 80 03 10 04 10 05 10  ................
+02A0: 06 10 07 10 08 10 09 10  00 17 01 17 02 17 03 17  ................
+02B0: 04 17 05 17 06 17 07 17  08 17 09 17 0A 17 0B 17  ................
+02C0: 0C 17 0D 17 0E 17 0F 17  10 17 11 17 12 17 13 17  ................
+02D0: 14 17 15 17 16 17 17 17  18 17 19 17 1A 17 1B 17  ................
+02E0: 1C 17 1D 17 1E 17 1F 17  02 10 02 14 00 02 80 00  ................
+02F0: F9 02 1E F0 FF FF 7F 6F  70 1A 12 03 03 02 10 1C  .......op.......
+0300: 80 1D 1D 80 23 03 02 10  1C 80 1D 1E 80 23 1A E3  ....#........#..
+0310: 03 1B 02 15 00 07 80 80  2C 03 66 02 80 F8 FF FF  ........,.f.....
+0320: 7F F8 FF FF 7F 74 6C 6B  30 01 E2 03 02 15 00 1F  .....tlk0.......
+0330: 80 80 46 03 66 20 80 F8  FF FF 7F F8 FF FF 7F 74  ..F.f .........t
+0340: 6C 6B 30 01 E2 03 02 15  00 1A 80 80 60 03 66 0E  lk0.........`.f.
+0350: 80 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 01 E2 03  .........tlk0...
+0360: 02 15 00 00 80 80 7A 03  66 21 80 F8 FF FF 7F F8  ......z.f!......
+0370: FF FF 7F 74 6C 6B 30 01  E2 03 02 15 00 1B 80 80  ...tlk0.........
+0380: 94 03 66 12 80 F8 FF FF  7F F8 FF FF 7F 74 6C 6B  ..f..........tlk
+0390: 30 01 E2 03 02 15 00 22  80 80 AE 03 66 12 80 F8  0......"....f...
+03A0: FF FF 7F F8 FF FF 7F 74  6C 6B 30 01 E2 03 02 15  .......tlk0.....
+03B0: 00 11 80 80 C8 03 66 23  80 F8 FF FF 7F F8 FF FF  ......f#........
+03C0: 7F 74 6C 62 30 01 E2 03  02 15 00 08 80 80 E2 03  .tlb0...........
+03D0: 66 24 80 F8 FF FF 7F F8  FF FF 7F 74 6C 62 30 01  f$.........tlb0.
+03E0: E2 03 1B 02 15 00 07 80  80 FD 03 66 02 80 F8 FF  ...........f....
+03F0: FF 7F F8 FF FF 7F 74 65  6E 30 01 B3 04 02 15 00  ......ten0......
+0400: 1F 80 80 17 04 66 20 80  F8 FF FF 7F F8 FF FF 7F  .....f .........
+0410: 74 6C 6B 31 01 B3 04 02  15 00 1A 80 80 31 04 66  tlk1.........1.f
+0420: 0E 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 62 31 01 B3  ..........tlb1..
+0430: 04 02 15 00 00 80 80 4B  04 66 21 80 F8 FF FF 7F  .......K.f!.....
+0440: F8 FF FF 7F 74 6C 6B 31  01 B3 04 02 15 00 1B 80  ....tlk1........
+0450: 80 65 04 66 12 80 F8 FF  FF 7F F8 FF FF 7F 74 6C  .e.f..........tl
+0460: 6B 31 01 B3 04 02 15 00  22 80 80 7F 04 66 12 80  k1......"....f..
+0470: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 31 01 B3 04 02  ........tlk1....
+0480: 15 00 11 80 80 99 04 66  23 80 F8 FF FF 7F F8 FF  .......f#.......
+0490: FF 7F 74 6C 62 31 01 B3  04 02 15 00 08 80 80 B3  ..tlb1..........
+04A0: 04 66 24 80 F8 FF FF 7F  F8 FF FF 7F 74 6C 62 31  .f$.........tlb1
+04B0: 01 B3 04 1B                                       ....            
+```
+
+#### Opcodes
+
+```
+  0: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=12265*)
+    → "Itching to know about either frontier bivouacs' construction status or durability? Then you have come to the right person, [sir/ma'am]."
+  2: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x0017 [0x06] ExtData[1]->WorkLocal[1] = 0
+  4: 0x001A [0x06] ExtData[1]->WorkLocal[2] = 0
+  5: 0x001D [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x01E9
+  6: 0x0025 [0x1A] CALL_SUBROUTINE(address=0x01EB)
+  7: 0x0028 [0x24] CREATE_DIALOG(message_id=12266*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[0])
+    → "View for which area? [None./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]"
+  8: 0x002F [0x25] WAIT_DIALOG_SELECT()
+  9: 0x0030 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
+ 10: 0x0038 [0x05] ExtData[1]->WorkLocal[2] = 1
+ 11: 0x003B [0x01] GOTO 0x003E
+
+SUBROUTINE_003E:
+ 12: 0x003E [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
+ 13: 0x0043 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x01E6
+ 14: 0x004B [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[1]
+ 15: 0x0050 [0x0C] ExtData[1]->WorkLocal[6]--
+ 16: 0x0053 [0x9D] ExtData[1]->WorkLocal[19] = 0x029A[ExtData[1]->WorkLocal[6]] // Read WORD
+ 17: 0x005B [0x06] ExtData[1]->WorkLocal[4] = 0
+ 18: 0x005E [0x06] ExtData[1]->WorkLocal[5] = 0
+ 19: 0x0061 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[1])
+ 20: 0x006A [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=0*)
+ 21: 0x0073 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 22: 0x0075 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 23: 0x0077 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
+ 24: 0x007C [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[3]
+ 25: 0x0081 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[4]
+ 26: 0x0086 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[5]
+ 27: 0x008B [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[6]
+ 28: 0x0090 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[7]
+ 29: 0x0095 [0x11] ExtData[1]->WorkLocal[10] >>= 1*
+
+SUBROUTINE_009A:
+ 30: 0x009A [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x01E6
+ 31: 0x00A2 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[1]
+ 32: 0x00A7 [0x0C] ExtData[1]->WorkLocal[6]--
+ 33: 0x00AA [0x9D] ExtData[1]->WorkLocal[11] = 0x026A[ExtData[1]->WorkLocal[6]] // Read WORD
+ 34: 0x00B2 [0x06] ExtData[1]->WorkLocal[7] = 0
+
+SUBROUTINE_00B5:
+ 35: 0x00B5 [0x02] IF !(ExtData[1]->WorkLocal[7] >= ExtData[1]->WorkLocal[11]) GOTO 0x0126
+ 36: 0x00BD [0x3E] IF !(ExtData[1]->WorkLocal[10] bit ExtData[1]->WorkLocal[7]) GOTO 0x00CF
+ 37: 0x00C4 [0x9D] 0x029A[ExtData[1]->WorkLocal[7] * 2] = 1* // Write WORD
+ 38: 0x00CC [0x01] GOTO 0x00D7
+ 39: 0x00CF [0x9D] 0x029A[ExtData[1]->WorkLocal[7] * 2] = 0* // Write WORD
+
+SUBROUTINE_00D7:
+ 40: 0x00D7 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[7]
+ 41: 0x00DC [0x07] ExtData[1]->WorkLocal[6] += 8*
+ 42: 0x00E1 [0x9D] ExtData[1]->WorkLocal[12] = 0x028A[ExtData[1]->WorkLocal[7]] // Read WORD
+ 43: 0x00E9 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x00F4
+ 44: 0x00F1 [0x01] GOTO 0x0118
+ 45: 0x00F4 [0x14] ExtData[1]->WorkLocal[12] *= 200*
+ 46: 0x00F9 [0x15] ExtData[1]->WorkLocal[12] /= 500*
+ 47: 0x00FE [0x02] IF !(ExtData[1]->WorkLocal[12] <= 100*) GOTO 0x010B
+ 48: 0x0106 [0x03] ExtData[1]->WorkLocal[12] = 100*
+ 49: 0x010B [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x0118
+ 50: 0x0113 [0x03] ExtData[1]->WorkLocal[12] = 1*
+
+SUBROUTINE_0118:
+ 51: 0x0118 [0x9D] 0x029A[ExtData[1]->WorkLocal[6] * 2] = ExtData[1]->WorkLocal[12] // Write WORD
+ 52: 0x0120 [0x0B] ExtData[1]->WorkLocal[7]++
+ 53: 0x0123 [0x01] GOTO 0x00B5
+ 54: 0x0126 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[1]
+ 55: 0x012B [0x0C] ExtData[1]->WorkLocal[6]--
+ 56: 0x012E [0x9D] ExtData[1]->WorkLocal[9] = 0x026A[ExtData[1]->WorkLocal[6]] // Read WORD
+ 57: 0x0136 [0x0B] ExtData[1]->WorkLocal[9]++
+ 58: 0x0139 [0x06] ExtData[1]->WorkLocal[3] = 0
+ 59: 0x013C [0x40] SET_BIT_WORK_RANGE(start_bit=ExtData[1]->WorkLocal[9], end_bit=31*, target=ExtData[1]->WorkLocal[3], source=4294967295*)
+ 60: 0x0145 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
+ 61: 0x014A [0x24] CREATE_DIALOG(message_id=12267*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[3])
+    → "Which bivouac? ($8) [None./F. Bivouac #1. ($9% constructed)/F. Bivouac #2. ($10% constructed)/F. Bivouac #3. ($11% constructed)/F. Bivouac #4. ($12% constructed)/F. Bivouac #5. ($13% constructed)]"
+ 62: 0x0151 [0x25] WAIT_DIALOG_SELECT()
+ 63: 0x0152 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0160
+ 64: 0x015A [0x05] ExtData[1]->WorkLocal[5] = 1
+ 65: 0x015D [0x01] GOTO 0x0160
+
+SUBROUTINE_0160:
+ 66: 0x0160 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
+ 67: 0x0165 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x01E3
+ 68: 0x016D [0x03] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[4]
+ 69: 0x0172 [0x0C] ExtData[1]->WorkLocal[18]--
+ 70: 0x0175 [0x9D] ExtData[1]->WorkLocal[12] = 0x029A[ExtData[1]->WorkLocal[18]] // Read WORD
+ 71: 0x017D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
+ 72: 0x0182 [0x9D] Work_Zone[4] = 0x028A[ExtData[1]->WorkLocal[18]] // Read WORD
+ 73: 0x018A [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0195
+ 74: 0x0192 [0x01] GOTO 0x01B9
+ 75: 0x0195 [0x14] Work_Zone[4] *= 200*
+ 76: 0x019A [0x15] Work_Zone[4] /= 500*
+ 77: 0x019F [0x02] IF !(Work_Zone[4] <= 100*) GOTO 0x01AC
+ 78: 0x01A7 [0x03] Work_Zone[4] = 100*
+ 79: 0x01AC [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x01B9
+ 80: 0x01B4 [0x03] Work_Zone[4] = 1*
+
+SUBROUTINE_01B9:
+ 81: 0x01B9 [0x03] Work_Zone[5] = Work_Zone[4]
+ 82: 0x01BE [0x15] Work_Zone[5] /= 20*
+ 83: 0x01C3 [0x02] IF !(Work_Zone[5] <= 4*) GOTO 0x01D0
+ 84: 0x01CB [0x03] Work_Zone[5] = 4*
+ 85: 0x01D0 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x01DF
+ 86: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12269*)
+    → "Construction on Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is $2 percent complete. In other words, [it hasn't even started/it's just begun/it's gathering steam/it's progressing splendidly/it's progressed to a great degree/it's come exceptionally far]."
+ 87: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 88: 0x01DC [0x01] GOTO 0x01E3
+ 89: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12268*)
+    → "Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is currently at $2 percent durability. [It's in dire need of immediate frontline support!/I highly suggest providing frontline support to it in the near future./You might want to think about providing frontline support to it eventually./It seems relatively sturdy./It's still sturdy enough that you have nothing to worry about.]"
+ 90: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_01E3:
+ 91: 0x01E3 [0x01] GOTO 0x009A
+ 92: 0x01E6 [0x01] GOTO 0x001D
+ 93: 0x01E9 [0x21] END_EVENT
+ 94: 0x01EA [0x00] END_REQSTACK()
+
+SUBROUTINE_01EB:
+ 95: 0x01EB [0x1A] CALL_SUBROUTINE(address=0x0230)
+ 96: 0x01EE [0x06] ExtData[1]->WorkLocal[7] = 0
+ 97: 0x01F1 [0x06] ExtData[1]->WorkLocal[0] = 0
+
+SUBROUTINE_01F4:
+ 98: 0x01F4 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 7*) GOTO 0x0221
+ 99: 0x01FC [0x9D] ExtData[1]->WorkLocal[12] = 0x024A[ExtData[1]->WorkLocal[7]] // Read WORD
+100: 0x0204 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x0213
+101: 0x020C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[12], condition_work_offset=1*)
+102: 0x0213 [0x9D] 0x029A[ExtData[1]->WorkLocal[7] * 2] = ExtData[1]->WorkLocal[12] // Write WORD
+103: 0x021B [0x0B] ExtData[1]->WorkLocal[7]++
+104: 0x021E [0x01] GOTO 0x01F4
+105: 0x0221 [0x40] SET_BIT_WORK_RANGE(start_bit=7*, end_bit=31*, target=ExtData[1]->WorkLocal[0], source=4294967295*)
+106: 0x022A [0x10] ExtData[1]->WorkLocal[0] <<= 1*
+107: 0x022F [0x1B] RETURN
+
+SUBROUTINE_0230:
+108: 0x0230 [0x06] ExtData[1]->WorkLocal[7] = 0
+
+SUBROUTINE_0233:
+109: 0x0233 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 40*) GOTO 0x0249
+110: 0x023B [0x9D] 0x029A[ExtData[1]->WorkLocal[7] * 2] = 0* // Write WORD
+111: 0x0243 [0x0B] ExtData[1]->WorkLocal[7]++
+112: 0x0246 [0x01] GOTO 0x0233
+113: 0x0249 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Data Section: 0x024A (338 bytes)
+     0x024A: 13 80 14 80 15 80 16 80 17 80 18 80 19 80 02 80
+     0x025A: 02 80 02 80 02 80 02 80 02 80 02 80 02 80 02 80
+     0x026A: 1A 80 1A 80 00 80 1B 80 1A 80 00 80 00 80 02 80
+     0x027A: 02 80 02 80 02 80 02 80 02 80 02 80 02 80 02 80
+     0x028A: 0D 00 0E 00 0F 00 10 00 11 00 02 80 02 80 02 80
+     0x029A: 03 10 04 10 05 10 06 10 07 10 08 10 09 10 00 17
+     0x02AA: 01 17 02 17 03 17 04 17 05 17 06 17 07 17 08 17
+     0x02BA: 09 17 0A 17 0B 17 0C 17 0D 17 0E 17 0F 17 10 17
+     0x02CA: 11 17 12 17 13 17 14 17 15 17 16 17 17 17 18 17
+     0x02DA: 19 17 1A 17 1B 17 1C 17 1D 17 1E 17 1F 17 02 10
+     0x02EA: 02 14 00 02 80 00 F9 02 1E F0 FF FF 7F 6F 70 1A
+     0x02FA: 12 03 03 02 10 1C 80 1D 1D 80 23 03 02 10 1C 80
+     0x030A: 1D 1E 80 23 1A E3 03 1B 02 15 00 07 80 80 2C 03
+     0x031A: 66 02 80 F8 FF FF 7F F8 FF FF 7F 74 6C 6B 30 01
+     0x032A: E2 03 02 15 00 1F 80 80 46 03 66 20 80 F8 FF FF
+     0x033A: 7F F8 FF FF 7F 74 6C 6B 30 01 E2 03 02 15 00 1A
+     0x034A: 80 80 60 03 66 0E 80 F8 FF FF 7F F8 FF FF 7F 74
+     0x035A: 6C 6B 30 01 E2 03 02 15 00 00 80 80 7A 03 66 21
+     0x036A: 80 F8 FF FF 7F F8 FF FF 7F 74 6C 6B 30 01 E2 03
+     0x037A: 02 15 00 1B 80 80 94 03 66 12 80 F8 FF FF 7F F8
+     0x038A: FF FF 7F 74 6C 6B 30 01 E2 03 02 15 00 22 80 80
+     0x039A: AE 03
+# Dead code (unreachable instructions):
+     0x039C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
+     0x03AB [0x01] GOTO 0x03E2
+     0x03AE [0x02] IF !(ExtData[1]->WorkLocal[21] == 7*) GOTO 0x03C8
+     0x03B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
+     0x03C5 [0x01] GOTO 0x03E2
+     0x03C8 [0x02] IF !(ExtData[1]->WorkLocal[21] == 8*) GOTO 0x03E2
+     0x03D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
+     0x03DF [0x01] GOTO 0x03E2
+     0x03E2 [0x1B] RETURN
+     0x03E3 [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x03FD
+     0x03EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [EventEntity, EventEntity], work=0*
+     0x03FA [0x01] GOTO 0x04B3
+     0x03FD [0x02] IF !(ExtData[1]->WorkLocal[21] == 2*) GOTO 0x0417
+     0x0405 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
+     0x0414 [0x01] GOTO 0x04B3
+     0x0417 [0x02] IF !(ExtData[1]->WorkLocal[21] == 3*) GOTO 0x0431
+     0x041F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=20*
+     0x042E [0x01] GOTO 0x04B3
+     0x0431 [0x02] IF !(ExtData[1]->WorkLocal[21] == 4*) GOTO 0x044B
+     0x0439 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
+     0x0448 [0x01] GOTO 0x04B3
+     0x044B [0x02] IF !(ExtData[1]->WorkLocal[21] == 5*) GOTO 0x0465
+     0x0453 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
+     0x0462 [0x01] GOTO 0x04B3
+     0x0465 [0x02] IF !(ExtData[1]->WorkLocal[21] == 6*) GOTO 0x047F
+     0x046D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
+     0x047C [0x01] GOTO 0x04B3
+     0x047F [0x02] IF !(ExtData[1]->WorkLocal[21] == 7*) GOTO 0x0499
+     0x0487 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
+     0x0496 [0x01] GOTO 0x04B3
+     0x0499 [0x02] IF !(ExtData[1]->WorkLocal[21] == 8*) GOTO 0x04B3
+     0x04A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
+     0x04B0 [0x01] GOTO 0x04B3
+     0x04B3 [0x1B] RETURN
+```

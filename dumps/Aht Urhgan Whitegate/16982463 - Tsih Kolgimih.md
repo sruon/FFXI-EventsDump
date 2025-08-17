@@ -54,6 +54,19 @@
 |      31 | 0x00C8      |         200 |
 |      32 | 0x003C      |          60 |
 
+## String References
+
+- **233**: You do not have enough gil.
+- **4693**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **4694**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **4703**: Which memory will you have recalled? [Nothing./Aht Urhgan Missions 2./Aht Urhgan Quests 5./Aht Urhgan Quests 6./Aht Urhgan Quests 7./Other quests./Rhapsodies of Vana'diel.]
+- **4704**: Which memory will you have recalled? [Nothing./Seal of the Serpent./Misplaced Nobility./Puppet in Peril./Sentinels' Honor./Testing the Waters./Stirrings of War(pt.1)./Stirrings of War(pt.2)./Allied Rumblings./Path of Darkness(pt.1)./Path of Darkness(pt.2)./Nashmeira's Plea./Imperial Coronation./The Empress Crowned(pt.1)./The Empress Crowned(pt.2)./Eternal Mercenary(pt.1)./Eternal Mercenary(pt.2)./Eternal Mercenary(pt.3).]
+- **4705**: Which memory will you have recalled? [Nothing./Three Men and a Closet(pt.1)./Three Men and a Closet(pt.2)./Three Men and a Closet(pt.3)./Three Men and a Closet(pt.4)./Three Men and a Closet(pt.5)./Promotion: Chief Sergeant(pt.1)./Promotion: Chief Sergeant(pt.2)./Promotion: Chief Sergeant(pt.3)./Promotion: Chief Sergeant(pt.4)./Promotion: Chief Sergeant(pt.5)./Rat Race(pt.1)./Rat Race(pt.2)./Five Seconds of Fame(pt.1)./Five Seconds of Fame(pt.2)./Five Seconds of Fame(pt.3)./Ode to the Serpents(pt.1)./Ode to the Serpents(pt.2)./Fist of the People./Promotion: Second Lieutenant(pt.1)./Promotion: Second Lieutenant(pt.2)./Promotion: Second Lieutenant(pt.3)./Promotion: Second Lieutenant(pt.4)./Promotion: Second Lieutenant(pt.5)./Promotion: Second Lieutenant(pt.6)./The Prince and the Hopper(pt.1)./The Prince and the Hopper(pt.2)./Soothing Waters(pt.1)./Soothing Waters(pt.2)./Soothing Waters(pt.3)./Soothing Waters(pt.4).]
+- **4706**: Which memory will you have recalled? [None./Promotion: First Lieutenant(pt.1)./Promotion: First Lieutenant(pt.2)./Promotion: First Lieutenant(pt.3)./Promotion: First Lieutenant(pt.4)./Promotion: First Lieutenant(pt.5)./Promotion: First Lieutenant(pt.6)./Promotion: Captain./An Imperial Heist(pt.1)./An Imperial Heist(pt.2)./An Imperial Heist(pt.3)./An Imperial Heist(pt.4)./An Imperial Heist(pt.5)./Forging a New Myth./Coming Full Circle(pt.1)./Coming Full Circle(pt.2)./Unused./Unused./Embers of His Past(pt.1)./Embers of His Past(pt.2)./Waking the Colossus(pt.1)./Waking the Colossus(pt.2)./Waking the Colossus(pt.3)./Waking the Colossus(pt.4)./Waking the Colossus(pt.5)./Divine Interference(pt.1)./Divine Interference(pt.2)./Divine Interference(pt.3).]
+- **4707**: Which memory will you have recalled? [None./The Rider Cometh(pt.1)./The Rider Cometh(pt.2)./The Rider Cometh(pt.3)./The Rider Cometh(pt.4)./The Rider Cometh(pt.5)./Unwavering Resolve(pt.1)./Unwavering Resolve(pt.2)./Unwavering Resolve(pt.3)./Unwavering Resolve(pt.4)./Unwavering Resolve(pt.5)./Unwavering Resolve(pt.6)./A Stygian Pact(pt.1)./A Stygian Pact(pt.2)./Such Sweet Sorrow(pt.1)./Such Sweet Sorrow(pt.2)./Such Sweet Sorrow(pt.3).]
+- **4708**: Which memory will you have recalled? [None./Trust (Gadalar)./Trust (Nashmeira)./Trust (Zazarg)./Trust (Gessho).]
+- **4709**: Which memory will you have recalled? [None./Ever Forward(pt.1)./Ever Forward(pt.2)./Ever Forward(pt.3)./Ever Forward(pt.4)./Reunited(pt.1)./Reunited(pt.2)./Reunited(pt.3)./Take Wing(pt.1)./Take Wing(pt.2)./Take Wing(pt.3)./Take Wing(pt.4)./Prime Number./Cauterize(pt.1)./Cauterize(pt.2)./Cauterize(pt.3)./Cauterize(pt.4)./Naja the Ambitious(pt.1)./Naja the Ambitious(pt.2)./Raubahn the Blue(pt.1)./Raubahn the Blue(pt.2)./Raubahn the Blue(pt.3)./Ghatsad's Quandary(pt.1)./Ghatsad's Quandary(pt.2)./The Revelation(pt.1)./The Revelation(pt.2)./Tateeya's Worries(pt.1)./Tateeya's Worries(pt.2)./Tateeya's Worries(pt.3)./The Sea Sage(pt.1)./The Sea Sage(pt.2)./The Revelation(pt.3).]
+
 ## Events
 
 ### Event 65535
@@ -135,8 +148,7 @@
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
   3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=4694*)
-    → "The minstrel of melodies is my name,\u0007For a mere 
-\u0006 gil I'd recall your past.\u0007But I find that you're lacking in cash or in fame,\u0007So until that time, my kind offer will last.\u007F1\u0000\u0007"
+    → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
   6: 0x0020 [0x00] END_REQSTACK()
@@ -155,14 +167,12 @@
  19: 0x0079 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x008E
  21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=4694*)
-    → "The minstrel of melodies is my name,\u0007For a mere 
-\u0006 gil I'd recall your past.\u0007But I find that you're lacking in cash or in fame,\u0007So until that time, my kind offer will last.\u007F1\u0000\u0007"
+    → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  22: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008C [0x21] END_EVENT
  24: 0x008D [0x00] END_REQSTACK()
  25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=4693*)
-    → "The minstrel of melodies is my name,\u0007For a mere 
-\u0006 gil I'll recall your past.\u0007Your stories of love, anger, triumph, and shame,\u0007The river of memories runs deep and vast.\u007F1\u0000\u0007"
+    → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  26: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 124*) GOTO 0x009D
  28: 0x009A [0x01] GOTO 0x00E4
@@ -177,13 +187,13 @@
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
  39: 0x00D4 [0x24] CREATE_DIALOG(message_id=4703*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Aht Urhgan Missions 2.\u0007Aht Urhgan Quests 5.\u0007Aht Urhgan Quests 6.\u0007Aht Urhgan Quests 7.\u0007Other quests.\u0007Rhapsodies of Vana'diel.\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Aht Urhgan Missions 2./Aht Urhgan Quests 5./Aht Urhgan Quests 6./Aht Urhgan Quests 7./Other quests./Rhapsodies of Vana'diel.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
  42: 0x00E4 [0x24] CREATE_DIALOG(message_id=4704*, default_option=0*, option_flags=Work_Zone[2])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Seal of the Serpent.\u0007Misplaced Nobility.\u0007Puppet in Peril.\u0007Sentinels' Honor.\u0007Testing the Waters.\u0007Stirrings of War(pt.1).\u0007Stirrings of War(pt.2).\u0007Allied Rumblings.\u0007Path of Darkness(pt.1).\u0007Path of Darkness(pt.2).\u0007Nashmeira's Plea.\u0007Imperial Coronation.\u0007The Empress Crowned(pt.1).\u0007The Empress Crowned(pt.2).\u0007Eternal Mercenary(pt.1).\u0007Eternal Mercenary(pt.2).\u0007Eternal Mercenary(pt.3).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Seal of the Serpent./Misplaced Nobility./Puppet in Peril./Sentinels' Honor./Testing the Waters./Stirrings of War(pt.1)./Stirrings of War(pt.2)./Allied Rumblings./Path of Darkness(pt.1)./Path of Darkness(pt.2)./Nashmeira's Plea./Imperial Coronation./The Empress Crowned(pt.1)./The Empress Crowned(pt.2)./Eternal Mercenary(pt.1)./Eternal Mercenary(pt.2)./Eternal Mercenary(pt.3).]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
  45: 0x00F4 [0x03] Work_Zone[1] = 1073741824*
@@ -196,7 +206,7 @@ SUBROUTINE_0108:
 
 SUBROUTINE_0113:
  50: 0x0113 [0x24] CREATE_DIALOG(message_id=4705*, default_option=0*, option_flags=Work_Zone[3])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Three Men and a Closet(pt.1).\u0007Three Men and a Closet(pt.2).\u0007Three Men and a Closet(pt.3).\u0007Three Men and a Closet(pt.4).\u0007Three Men and a Closet(pt.5).\u0007Promotion: Chief Sergeant(pt.1).\u0007Promotion: Chief Sergeant(pt.2).\u0007Promotion: Chief Sergeant(pt.3).\u0007Promotion: Chief Sergeant(pt.4).\u0007Promotion: Chief Sergeant(pt.5).\u0007Rat Race(pt.1).\u0007Rat Race(pt.2).\u0007Five Seconds of Fame(pt.1).\u0007Five Seconds of Fame(pt.2).\u0007Five Seconds of Fame(pt.3).\u0007Ode to the Serpents(pt.1).\u0007Ode to the Serpents(pt.2).\u0007Fist of the People.\u0007Promotion: Second Lieutenant(pt.1).\u0007Promotion: Second Lieutenant(pt.2).\u0007Promotion: Second Lieutenant(pt.3).\u0007Promotion: Second Lieutenant(pt.4).\u0007Promotion: Second Lieutenant(pt.5).\u0007Promotion: Second Lieutenant(pt.6).\u0007The Prince and the Hopper(pt.1).\u0007The Prince and the Hopper(pt.2).\u0007Soothing Waters(pt.1).\u0007Soothing Waters(pt.2).\u0007Soothing Waters(pt.3).\u0007Soothing Waters(pt.4).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Three Men and a Closet(pt.1)./Three Men and a Closet(pt.2)./Three Men and a Closet(pt.3)./Three Men and a Closet(pt.4)./Three Men and a Closet(pt.5)./Promotion: Chief Sergeant(pt.1)./Promotion: Chief Sergeant(pt.2)./Promotion: Chief Sergeant(pt.3)./Promotion: Chief Sergeant(pt.4)./Promotion: Chief Sergeant(pt.5)./Rat Race(pt.1)./Rat Race(pt.2)./Five Seconds of Fame(pt.1)./Five Seconds of Fame(pt.2)./Five Seconds of Fame(pt.3)./Ode to the Serpents(pt.1)./Ode to the Serpents(pt.2)./Fist of the People./Promotion: Second Lieutenant(pt.1)./Promotion: Second Lieutenant(pt.2)./Promotion: Second Lieutenant(pt.3)./Promotion: Second Lieutenant(pt.4)./Promotion: Second Lieutenant(pt.5)./Promotion: Second Lieutenant(pt.6)./The Prince and the Hopper(pt.1)./The Prince and the Hopper(pt.2)./Soothing Waters(pt.1)./Soothing Waters(pt.2)./Soothing Waters(pt.3)./Soothing Waters(pt.4).]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
  53: 0x0123 [0x03] Work_Zone[1] = 1073741824*
@@ -209,7 +219,7 @@ SUBROUTINE_0137:
 
 SUBROUTINE_0142:
  58: 0x0142 [0x24] CREATE_DIALOG(message_id=4706*, default_option=0*, option_flags=Work_Zone[4])
-    → "Which memory will you have recalled?\u0007\u000BNone.\u0007Promotion: First Lieutenant(pt.1).\u0007Promotion: First Lieutenant(pt.2).\u0007Promotion: First Lieutenant(pt.3).\u0007Promotion: First Lieutenant(pt.4).\u0007Promotion: First Lieutenant(pt.5).\u0007Promotion: First Lieutenant(pt.6).\u0007Promotion: Captain.\u0007An Imperial Heist(pt.1).\u0007An Imperial Heist(pt.2).\u0007An Imperial Heist(pt.3).\u0007An Imperial Heist(pt.4).\u0007An Imperial Heist(pt.5).\u0007Forging a New Myth.\u0007Coming Full Circle(pt.1).\u0007Coming Full Circle(pt.2).\u0007Unused.\u0007Unused.\u0007Embers of His Past(pt.1).\u0007Embers of His Past(pt.2).\u0007Waking the Colossus(pt.1).\u0007Waking the Colossus(pt.2).\u0007Waking the Colossus(pt.3).\u0007Waking the Colossus(pt.4).\u0007Waking the Colossus(pt.5).\u0007Divine Interference(pt.1).\u0007Divine Interference(pt.2).\u0007Divine Interference(pt.3).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [None./Promotion: First Lieutenant(pt.1)./Promotion: First Lieutenant(pt.2)./Promotion: First Lieutenant(pt.3)./Promotion: First Lieutenant(pt.4)./Promotion: First Lieutenant(pt.5)./Promotion: First Lieutenant(pt.6)./Promotion: Captain./An Imperial Heist(pt.1)./An Imperial Heist(pt.2)./An Imperial Heist(pt.3)./An Imperial Heist(pt.4)./An Imperial Heist(pt.5)./Forging a New Myth./Coming Full Circle(pt.1)./Coming Full Circle(pt.2)./Unused./Unused./Embers of His Past(pt.1)./Embers of His Past(pt.2)./Waking the Colossus(pt.1)./Waking the Colossus(pt.2)./Waking the Colossus(pt.3)./Waking the Colossus(pt.4)./Waking the Colossus(pt.5)./Divine Interference(pt.1)./Divine Interference(pt.2)./Divine Interference(pt.3).]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
  61: 0x0152 [0x03] Work_Zone[1] = 1073741824*
@@ -222,7 +232,7 @@ SUBROUTINE_0166:
 
 SUBROUTINE_0171:
  66: 0x0171 [0x24] CREATE_DIALOG(message_id=4707*, default_option=0*, option_flags=Work_Zone[5])
-    → "Which memory will you have recalled?\u0007\u000BNone.\u0007The Rider Cometh(pt.1).\u0007The Rider Cometh(pt.2).\u0007The Rider Cometh(pt.3).\u0007The Rider Cometh(pt.4).\u0007The Rider Cometh(pt.5).\u0007Unwavering Resolve(pt.1).\u0007Unwavering Resolve(pt.2).\u0007Unwavering Resolve(pt.3).\u0007Unwavering Resolve(pt.4).\u0007Unwavering Resolve(pt.5).\u0007Unwavering Resolve(pt.6).\u0007A Stygian Pact(pt.1).\u0007A Stygian Pact(pt.2).\u0007Such Sweet Sorrow(pt.1).\u0007Such Sweet Sorrow(pt.2).\u0007Such Sweet Sorrow(pt.3).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [None./The Rider Cometh(pt.1)./The Rider Cometh(pt.2)./The Rider Cometh(pt.3)./The Rider Cometh(pt.4)./The Rider Cometh(pt.5)./Unwavering Resolve(pt.1)./Unwavering Resolve(pt.2)./Unwavering Resolve(pt.3)./Unwavering Resolve(pt.4)./Unwavering Resolve(pt.5)./Unwavering Resolve(pt.6)./A Stygian Pact(pt.1)./A Stygian Pact(pt.2)./Such Sweet Sorrow(pt.1)./Such Sweet Sorrow(pt.2)./Such Sweet Sorrow(pt.3).]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
  69: 0x0181 [0x03] Work_Zone[1] = 1073741824*
@@ -235,7 +245,7 @@ SUBROUTINE_0195:
 
 SUBROUTINE_01A0:
  74: 0x01A0 [0x24] CREATE_DIALOG(message_id=4708*, default_option=0*, option_flags=Work_Zone[6])
-    → "Which memory will you have recalled?\u0007\u000BNone.\u0007Trust (Gadalar).\u0007Trust (Nashmeira).\u0007Trust (Zazarg).\u0007Trust (Gessho).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [None./Trust (Gadalar)./Trust (Nashmeira)./Trust (Zazarg)./Trust (Gessho).]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
  77: 0x01B0 [0x03] Work_Zone[1] = 1073741824*
@@ -248,7 +258,7 @@ SUBROUTINE_01C4:
 
 SUBROUTINE_01CF:
  82: 0x01CF [0x24] CREATE_DIALOG(message_id=4709*, default_option=0*, option_flags=Work_Zone[7])
-    → "Which memory will you have recalled?\u0007\u000BNone.\u0007Ever Forward(pt.1).\u0007Ever Forward(pt.2).\u0007Ever Forward(pt.3).\u0007Ever Forward(pt.4).\u0007Reunited(pt.1).\u0007Reunited(pt.2).\u0007Reunited(pt.3).\u0007Take Wing(pt.1).\u0007Take Wing(pt.2).\u0007Take Wing(pt.3).\u0007Take Wing(pt.4).\u0007Prime Number.\u0007Cauterize(pt.1).\u0007Cauterize(pt.2).\u0007Cauterize(pt.3).\u0007Cauterize(pt.4).\u0007Naja the Ambitious(pt.1).\u0007Naja the Ambitious(pt.2).\u0007Raubahn the Blue(pt.1).\u0007Raubahn the Blue(pt.2).\u0007Raubahn the Blue(pt.3).\u0007Ghatsad's Quandary(pt.1).\u0007Ghatsad's Quandary(pt.2).\u0007The Revelation(pt.1).\u0007The Revelation(pt.2).\u0007Tateeya's Worries(pt.1).\u0007Tateeya's Worries(pt.2).\u0007Tateeya's Worries(pt.3).\u0007The Sea Sage(pt.1).\u0007The Sea Sage(pt.2).\u0007The Revelation(pt.3).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [None./Ever Forward(pt.1)./Ever Forward(pt.2)./Ever Forward(pt.3)./Ever Forward(pt.4)./Reunited(pt.1)./Reunited(pt.2)./Reunited(pt.3)./Take Wing(pt.1)./Take Wing(pt.2)./Take Wing(pt.3)./Take Wing(pt.4)./Prime Number./Cauterize(pt.1)./Cauterize(pt.2)./Cauterize(pt.3)./Cauterize(pt.4)./Naja the Ambitious(pt.1)./Naja the Ambitious(pt.2)./Raubahn the Blue(pt.1)./Raubahn the Blue(pt.2)./Raubahn the Blue(pt.3)./Ghatsad's Quandary(pt.1)./Ghatsad's Quandary(pt.2)./The Revelation(pt.1)./The Revelation(pt.2)./Tateeya's Worries(pt.1)./Tateeya's Worries(pt.2)./Tateeya's Worries(pt.3)./The Sea Sage(pt.1)./The Sea Sage(pt.2)./The Revelation(pt.3).]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9
  85: 0x01DF [0x03] Work_Zone[1] = 1073741824*
@@ -267,7 +277,7 @@ SUBROUTINE_01FD:
  94: 0x0200 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  95: 0x0202 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0210
  96: 0x020A [0x48] [System] [233*]:
-    → "You do not have enough gil.\u007F1\u0000\u0007"
+    → "You do not have enough gil."
  97: 0x020D [0x01] GOTO 0x0225
  98: 0x0210 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  99: 0x0221 [0x1C] WAIT(60* ticks)

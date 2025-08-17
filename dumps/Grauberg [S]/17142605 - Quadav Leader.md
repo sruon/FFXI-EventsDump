@@ -1,0 +1,210 @@
+# 17142605 - Quadav Leader
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Grauberg [S] (ID: 89) |
+| Block Size       | 152 bytes             |
+| Total Events     | 7                     |
+| References Count | 13                    |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [18](#event-18)          | 0x0001       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0002       |      5 |              2 |
+| [65535.2](#event-655352) | 0x0007       |      5 |              2 |
+| [65535.3](#event-655353) | 0x000C       |     14 |              4 |
+| [65535.4](#event-655354) | 0x001A       |     14 |              4 |
+| [65535.5](#event-655355) | 0x0028       |     14 |              4 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x028C      |         652 |
+|       1 | 0x029F      |         671 |
+|       2 | 0x000A      |          10 |
+|       3 | 0xFFFDF788  |  4294834056 |
+|       4 | 0xFFFA9E14  |  4294614548 |
+|       5 | 0xFFFFB7D9  |  4294948825 |
+|       6 | 0xFFFD7B3B  |  4294802235 |
+|       7 | 0xFFFA96AD  |  4294612653 |
+|       8 | 0xFFFF9E2A  |  4294942250 |
+|       9 | 0x000C      |          12 |
+|      10 | 0xFFFDFF79  |  4294836089 |
+|      11 | 0xFFFAFD45  |  4294638917 |
+|      12 | 0xFFFFBA47  |  4294949447 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 18
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0002  |
+| Data Size    | 5 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       B6 00 00 80 00                                .....         
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Hair style, value=652*)
+  1: 0x0006 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0007  |
+| Data Size    | 5 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                      B6  00 01 80 00                     .....    
+```
+
+#### Opcodes
+
+```
+  0: 0x0007 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Hair style, value=671*)
+  1: 0x000B [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x000C   |
+| Data Size    | 14 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                      32 02 80 5A              2..Z
+0010: 00 03 80 04 80 05 80 5A  01 00                    .......Z..      
+```
+
+#### Opcodes
+
+```
+  0: 0x000C [0x32] ExtData[1]->MainSpeed = 10* * 0.1
+  1: 0x000F [0x5A] UPDATE_EVENT_POSITION: Set EventEntity MovePosition to X=-133.240*, Z=-352.748*, Y=-18.471*
+  2: 0x0017 [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+  3: 0x0019 [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x001A   |
+| Data Size    | 14 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                                32 02 80 5A 00 06            2..Z..
+0020: 80 07 80 08 80 5A 01 00                           .....Z..        
+```
+
+#### Opcodes
+
+```
+  0: 0x001A [0x32] ExtData[1]->MainSpeed = 10* * 0.1
+  1: 0x001D [0x5A] UPDATE_EVENT_POSITION: Set EventEntity MovePosition to X=-165.061*, Z=-354.643*, Y=-25.046*
+  2: 0x0025 [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+  3: 0x0027 [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0028   |
+| Data Size    | 14 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                          32 09 80 1F 00 0A 80 0B          2.......
+0030: 80 0C 80 1F 01 00                                 ......          
+```
+
+#### Opcodes
+
+```
+  0: 0x0028 [0x32] ExtData[1]->MainSpeed = 12* * 0.1
+  1: 0x002B [0x1F] MOVE_ENTITY: EventEntity moves to X=-131.207*, Z=-328.379*, Y=-17.849*
+  2: 0x0033 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0035 [0x00] END_REQSTACK()
+```

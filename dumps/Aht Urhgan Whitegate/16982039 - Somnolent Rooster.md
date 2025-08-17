@@ -11,14 +11,14 @@
 
 ## List of Events
 
-| Event ID                  | Entrypoint   |   Size |   Instructions |
-|---------------------------|--------------|--------|----------------|
-| [65535](#event-65535)     | 0x0000       |      1 |              1 |
-| [231](#event-231)         | 0x0001       |     28 |              8 |
-| [223](#event-223)         | 0x001D       |      1 |              1 |
-| [227](#event-227)         | 0x001E       |     28 |              8 |
-| [65535.1](#event-65535-1) | 0x003A       |     31 |              7 |
-| [65535.2](#event-65535-2) | 0x0059       |     24 |              6 |
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [231](#event-231)        | 0x0001       |     28 |              8 |
+| [223](#event-223)        | 0x001D       |      1 |              1 |
+| [227](#event-227)        | 0x001E       |     28 |              8 |
+| [65535.1](#event-655351) | 0x003A       |     31 |              7 |
+| [65535.2](#event-655352) | 0x0059       |     24 |              6 |
 
 ## DAT References (imed_data)
 
@@ -34,6 +34,11 @@
 |       7 | 0x091C      |        2332 |
 |       8 | 0x0800      |        2048 |
 |       9 | 0x19973     |      104819 |
+
+## String References
+
+- **4675**: Please buy a ticket at the counter if you wish to board the ship.
+- **4676**: This is the entrance to the pier.
 
 ## Events
 
@@ -84,7 +89,7 @@
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
   4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=4675*)
-    → "Please buy a ticket at the counter if you wish to board the ship.\u007F1\u0000\u0007"
+    → "Please buy a ticket at the counter if you wish to board the ship."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x21] END_EVENT
   7: 0x001C [0x00] END_REQSTACK()
@@ -138,7 +143,7 @@
   2: 0x0024 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0025 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
   4: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=4676*)
-    → "This is the entrance to the pier.\u007F1\u0000\u0007"
+    → "This is the entrance to the pier."
   5: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0038 [0x21] END_EVENT
   7: 0x0039 [0x00] END_REQSTACK()

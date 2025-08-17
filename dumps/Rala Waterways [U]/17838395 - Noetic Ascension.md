@@ -1,0 +1,529 @@
+# 17838395 - Noetic Ascension
+
+## Common Data
+
+| Field            | Value                        |
+|------------------|------------------------------|
+| Zone             | Rala Waterways [U] (ID: 259) |
+| Block Size       | 1416 bytes                   |
+| Total Events     | 2                            |
+| References Count | 28                           |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [2004](#event-2004)   | 0x0001       |   1277 |            269 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x1CC3      |        7363 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0002      |           2 |
+|       4 | 0x0006      |           6 |
+|       5 | 0x0007      |           7 |
+|       6 | 0x0003      |           3 |
+|       7 | 0x0009      |           9 |
+|       8 | 0x0004      |           4 |
+|       9 | 0x000B      |          11 |
+|      10 | 0x0005      |           5 |
+|      11 | 0x000C      |          12 |
+|      12 | 0x000D      |          13 |
+|      13 | 0x0012      |          18 |
+|      14 | 0x1CC5      |        7365 |
+|      15 | 0x1CD7      |        7383 |
+|      16 | 0x1CC4      |        7364 |
+|      17 | 0x1CDF      |        7391 |
+|      18 | 0x1CC6      |        7366 |
+|      19 | 0x1CD8      |        7384 |
+|      20 | 0x1CD9      |        7385 |
+|      21 | 0x1CE0      |        7392 |
+|      22 | 0x1CE1      |        7393 |
+|      23 | 0x000A      |          10 |
+|      24 | 0x1CC8      |        7368 |
+|      25 | 0x1CC9      |        7369 |
+|      26 | 0x1CCA      |        7370 |
+|      27 | 0x1CCB      |        7371 |
+
+## String References
+
+- **7363**: What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]
+- **7364**: Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Fenestral Boons.]
+- **7365**: Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Defensive Measures.]
+- **7366**: Receive the effect of [Bayld+/Obsidian Fragments+/Attack+/Defense+/Magic Attack+/Magic Defense+/Map Obtainment/HP & MP Recovery+/TP3000+/HP+/MP+/Movement Speed+]? [Yes./No.]
+- **7368**: You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+
+- **7369**: [$25/$26] Magic Defense+
+- **7370**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+
+- **7371**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+
+- **7383**: Which benefit? [None. Go back./Stockade Cons. 1./Stockade Cons. 2./Cantonment Rest./Stockade Const. 3./Stockade Const. 4./Decreased Defending Time.]
+- **7384**: The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased.
+- **7385**: Receive the effect of [Stockade Cons. 1/Stockade Cons. 2/Cantonment Rest./Stockade Cons. 3/Stockade Cons. 4/Dec. Def. Time]? [Yes./No.]
+- **7391**: Which benefit? [None. Go back./Fragments+ (Weak)./Fragments+ (Medium)./Fragments+ (Strong)./Fragments+ (Very Strong)./Fragments+ (Colossal).]
+- **7392**: An inexplicable force possesses the recipient that allows them to obtain fenestral fragments.
+- **7393**: Receive the effect of [Fragments+ (Weak)/Fragments+ (Medium)/Fragments+ (Strong)/Frag.+ (Very Strong)/Frag.+ (Colossal)]? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 2004
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1277 bytes |
+| Instructions | 269        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 00 00 02 10 03 01  00 03 10 03 02 00 04 10   ...............
+0010: 03 03 00 05 10 06 04 00  02 04 00 00 80 00 55 00  ..............U.
+0020: 24 01 80 00 80 02 00 25  02 00 10 00 80 00 36 00  $......%......6.
+0030: 05 04 00 01 52 00 02 00  10 02 80 00 44 00 1A 57  ....R.......D..W
+0040: 00 01 52 00 02 00 10 03  80 00 52 00 1A D7 03 01  ..R.......R.....
+0050: 52 00 01 18 00 21 00 06  0D 00 06 05 00 06 06 00  R....!..........
+0060: 06 09 00 03 06 00 00 00  02 01 00 00 80 80 73 00  ..............s.
+0070: 01 C3 00 02 01 00 02 80  80 83 00 03 07 00 04 80  ................
+0080: 01 C3 00 02 01 00 03 80  80 93 00 03 07 00 05 80  ................
+0090: 01 C3 00 02 01 00 06 80  80 A3 00 03 07 00 07 80  ................
+00A0: 01 C3 00 02 01 00 08 80  80 B3 00 03 07 00 09 80  ................
+00B0: 01 C3 00 02 01 00 0A 80  80 C3 00 03 07 00 0B 80  ................
+00C0: 01 C3 00 0B 07 00 02 07  00 0C 80 03 DB 00 3C 06  ..............<.
+00D0: 00 07 00 02 80 0B 07 00  01 C6 00 02 03 00 00 80  ................
+00E0: 80 E6 00 01 39 02 02 03  00 02 80 80 F8 00 3C 06  ....9.........<.
+00F0: 00 0C 80 02 80 01 39 02  02 03 00 03 80 80 96 01  ......9.........
+0100: 03 0B 00 01 00 0B 0B 00  02 0B 00 04 80 03 1D 01  ................
+0110: 3C 09 00 0B 00 02 80 0B  0B 00 01 08 01 06 0B 00  <...............
+0120: 06 0A 00 03 08 00 0C 80  03 0C 00 0C 80 07 0C 00  ................
+0130: 01 00 02 08 00 0C 00 03  5B 01 3E 06 00 08 00 55  ........[.>....U
+0140: 01 0B 0A 00 03 0B 00 08  00 08 0B 00 0B 80 3C 09  ..............<.
+0150: 00 0B 00 02 80 0B 08 00  01 32 01 3E 06 00 0D 80  .........2.>....
+0160: 69 01 3C 09 00 04 80 02  80 02 01 00 0A 00 00 8C  i.<.............
+0170: 01 3E 06 00 0D 80 82 01  3C 06 00 0C 80 02 80 01  .>......<.......
+0180: 89 01 3D 06 00 0C 80 02  80 01 93 01 3D 06 00 0C  ..=.........=...
+0190: 80 02 80 01 39 02 02 03  00 06 80 80 15 02 03 0B  ....9...........
+01A0: 00 01 00 0B 0B 00 02 0B  00 04 80 03 BB 01 3C 09  ..............<.
+01B0: 00 0B 00 02 80 0B 0B 00  01 A6 01 06 0B 00 06 0A  ................
+01C0: 00 03 08 00 0C 80 03 0C  00 0C 80 07 0C 00 01 00  ................
+01D0: 02 08 00 0C 00 03 F9 01  3E 06 00 08 00 F3 01 0B  ........>.......
+01E0: 0A 00 03 0B 00 08 00 08  0B 00 0B 80 3C 09 00 0B  ............<...
+01F0: 00 02 80 0B 08 00 01 D0  01 02 01 00 0A 00 00 0B  ................
+0200: 02 3C 06 00 0C 80 02 80  01 12 02 3D 06 00 0C 80  .<.........=....
+0210: 02 80 01 39 02 02 03 00  08 80 80 27 02 3C 06 00  ...9.......'.<..
+0220: 0C 80 02 80 01 39 02 02  03 00 0A 80 80 39 02 3C  .....9.......9.<
+0230: 06 00 0C 80 02 80 01 39  02 02 0D 00 00 80 00 D6  .......9........
+0240: 03 06 0E 00 06 08 00 02  03 00 00 80 80 52 02 01  .............R..
+0250: 01 03 02 03 00 02 80 80  73 02 24 0E 80 00 80 06  ........s.$.....
+0260: 00 25 02 00 10 00 80 00  70 02 05 0D 00 01 70 02  .%......p.....p.
+0270: 01 01 03 02 03 00 03 80  80 BA 02 24 0E 80 00 80  ...........$....
+0280: 06 00 25 02 00 10 00 80  00 91 02 05 0D 00 01 B7  ..%.............
+0290: 02 02 00 10 0C 80 00 B7  02 24 0F 80 00 80 09 00  .........$......
+02A0: 25 02 00 10 00 80 00 AF  02 05 0E 00 01 B4 02 03  %...............
+02B0: 08 00 02 80 01 B7 02 01  01 03 02 03 00 06 80 80  ................
+02C0: 01 03 24 10 80 00 80 06  00 25 02 00 10 00 80 00  ..$......%......
+02D0: D8 02 05 0D 00 01 FE 02  02 00 10 0C 80 00 FE 02  ................
+02E0: 24 11 80 00 80 09 00 25  02 00 10 00 80 00 F6 02  $......%........
+02F0: 05 0E 00 01 FB 02 03 08  00 03 80 01 FE 02 01 01  ................
+0300: 03 02 0D 00 00 80 00 D3  03 02 0E 00 00 80 00 D3  ................
+0310: 03 02 08 00 00 80 80 47  03 03 05 00 00 10 03 02  .......G........
+0320: 10 05 00 0C 02 10 24 12  80 02 80 00 80 25 02 00  ......$......%..
+0330: 10 00 80 00 44 03 05 04  00 05 0D 00 03 01 10 05  ....D...........
+0340: 00 01 44 03 01 D3 03 02  08 00 02 80 80 91 03 03  ..D.............
+0350: 05 00 00 10 0C 05 00 07  05 00 0C 80 03 02 10 00  ................
+0360: 10 0C 02 10 02 00 10 04  80 00 70 03 48 13 80 23  ..........p.H..#
+0370: 24 14 80 02 80 00 80 25  02 00 10 00 80 00 8E 03  $......%........
+0380: 05 04 00 05 0D 00 03 01  10 05 00 01 8E 03 01 D3  ................
+0390: 03 02 08 00 03 80 80 D3  03 48 15 80 23 03 05 00  .........H..#...
+03A0: 00 10 0C 05 00 07 05 00  0C 80 03 02 10 00 10 0C  ................
+03B0: 02 10 24 16 80 02 80 00  80 25 02 00 10 00 80 00  ..$......%......
+03C0: D0 03 05 04 00 05 0D 00  03 01 10 05 00 01 D0 03  ................
+03D0: 01 D3 03 01 39 02 1B 41  06 80 06 80 00 00 0F 00  ....9..A........
+03E0: 41 08 80 08 80 00 00 10  00 41 0A 80 0A 80 00 00  A........A......
+03F0: 11 00 41 04 80 04 80 00  00 12 00 41 17 80 17 80  ..A........A....
+0400: 00 00 13 00 41 09 80 09  80 00 00 14 00 41 0B 80  ....A........A..
+0410: 0B 80 00 00 15 00 02 01  00 00 80 80 21 04 01 FD  ............!...
+0420: 04 02 01 00 02 80 80 48  04 03 02 10 0F 00 03 03  .......H........
+0430: 10 10 00 03 04 10 11 00  48 18 80 23 03 02 10 12  ........H..#....
+0440: 00 48 19 80 23 01 FD 04  02 01 00 03 80 80 6F 04  .H..#.........o.
+0450: 03 02 10 0F 00 03 03 10  10 00 03 04 10 11 00 48  ...............H
+0460: 18 80 23 03 02 10 12 00  48 19 80 23 01 FD 04 02  ..#.....H..#....
+0470: 01 00 06 80 80 96 04 03  02 10 0F 00 03 03 10 10  ................
+0480: 00 03 04 10 11 00 48 18  80 23 03 02 10 12 00 48  ......H..#.....H
+0490: 19 80 23 01 FD 04 02 01  00 08 80 80 C7 04 03 02  ..#.............
+04A0: 10 0F 00 03 03 10 10 00  03 04 10 11 00 48 18 80  .............H..
+04B0: 23 03 02 10 12 00 03 03  10 13 00 03 04 10 14 00  #...............
+04C0: 48 1A 80 23 01 FD 04 02  01 00 0A 80 80 FD 04 03  H..#............
+04D0: 02 10 0F 00 03 03 10 10  00 03 04 10 11 00 48 18  ..............H.
+04E0: 80 23 03 02 10 12 00 03  03 10 13 00 03 04 10 14  .#..............
+04F0: 00 03 05 10 15 00 48 1B  80 23 01 FD 04 1B        ......H..#....  
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  1: 0x0006 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
+  2: 0x000B [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
+  3: 0x0010 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
+  4: 0x0015 [0x06] ExtData[1]->WorkLocal[4] = 0
+  5: 0x0018 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0055
+  6: 0x0020 [0x24] CREATE_DIALOG(message_id=7363*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+    → "What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]"
+  7: 0x0027 [0x25] WAIT_DIALOG_SELECT()
+  8: 0x0028 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0036
+  9: 0x0030 [0x05] ExtData[1]->WorkLocal[4] = 1
+ 10: 0x0033 [0x01] GOTO 0x0052
+ 11: 0x0036 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0044
+ 12: 0x003E [0x1A] CALL_SUBROUTINE(address=0x0057)
+ 13: 0x0041 [0x01] GOTO 0x0052
+ 14: 0x0044 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0052
+ 15: 0x004C [0x1A] CALL_SUBROUTINE(address=0x03D7)
+ 16: 0x004F [0x01] GOTO 0x0052
+
+SUBROUTINE_0052:
+ 17: 0x0052 [0x01] GOTO 0x0018
+ 18: 0x0055 [0x21] END_EVENT
+ 19: 0x0056 [0x00] END_REQSTACK()
+
+SUBROUTINE_0057:
+ 20: 0x0057 [0x06] ExtData[1]->WorkLocal[13] = 0
+ 21: 0x005A [0x06] ExtData[1]->WorkLocal[5] = 0
+ 22: 0x005D [0x06] ExtData[1]->WorkLocal[6] = 0
+ 23: 0x0060 [0x06] ExtData[1]->WorkLocal[9] = 0
+ 24: 0x0063 [0x03] ExtData[1]->WorkLocal[6] = ExtData[1]->WorkLocal[0]
+ 25: 0x0068 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0073
+ 26: 0x0070 [0x01] GOTO 0x00C3
+ 27: 0x0073 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0083
+ 28: 0x007B [0x03] ExtData[1]->WorkLocal[7] = 6*
+ 29: 0x0080 [0x01] GOTO 0x00C3
+ 30: 0x0083 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0093
+ 31: 0x008B [0x03] ExtData[1]->WorkLocal[7] = 7*
+ 32: 0x0090 [0x01] GOTO 0x00C3
+ 33: 0x0093 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x00A3
+ 34: 0x009B [0x03] ExtData[1]->WorkLocal[7] = 9*
+ 35: 0x00A0 [0x01] GOTO 0x00C3
+ 36: 0x00A3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x00B3
+ 37: 0x00AB [0x03] ExtData[1]->WorkLocal[7] = 11*
+ 38: 0x00B0 [0x01] GOTO 0x00C3
+ 39: 0x00B3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x00C3
+ 40: 0x00BB [0x03] ExtData[1]->WorkLocal[7] = 12*
+ 41: 0x00C0 [0x01] GOTO 0x00C3
+
+SUBROUTINE_00C3:
+ 42: 0x00C3 [0x0B] ExtData[1]->WorkLocal[7]++
+
+SUBROUTINE_00C6:
+ 43: 0x00C6 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 13*) GOTO 0x00DB
+ 44: 0x00CE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=ExtData[1]->WorkLocal[7], condition_work_offset=1*)
+ 45: 0x00D5 [0x0B] ExtData[1]->WorkLocal[7]++
+ 46: 0x00D8 [0x01] GOTO 0x00C6
+ 47: 0x00DB [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x00E6
+ 48: 0x00E3 [0x01] GOTO 0x0239
+ 49: 0x00E6 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x00F8
+ 50: 0x00EE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+ 51: 0x00F5 [0x01] GOTO 0x0239
+ 52: 0x00F8 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0196
+ 53: 0x0100 [0x03] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[1]
+ 54: 0x0105 [0x0B] ExtData[1]->WorkLocal[11]++
+
+SUBROUTINE_0108:
+ 55: 0x0108 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 6*) GOTO 0x011D
+ 56: 0x0110 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[9], bit_index_work_offset=ExtData[1]->WorkLocal[11], condition_work_offset=1*)
+ 57: 0x0117 [0x0B] ExtData[1]->WorkLocal[11]++
+ 58: 0x011A [0x01] GOTO 0x0108
+ 59: 0x011D [0x06] ExtData[1]->WorkLocal[11] = 0
+ 60: 0x0120 [0x06] ExtData[1]->WorkLocal[10] = 0
+ 61: 0x0123 [0x03] ExtData[1]->WorkLocal[8] = 13*
+ 62: 0x0128 [0x03] ExtData[1]->WorkLocal[12] = 13*
+ 63: 0x012D [0x07] ExtData[1]->WorkLocal[12] += ExtData[1]->WorkLocal[1]
+
+SUBROUTINE_0132:
+ 64: 0x0132 [0x02] IF !(ExtData[1]->WorkLocal[8] >= ExtData[1]->WorkLocal[12]) GOTO 0x015B
+ 65: 0x013A [0x3E] IF !(ExtData[1]->WorkLocal[6] bit ExtData[1]->WorkLocal[8]) GOTO 0x0155
+ 66: 0x0141 [0x0B] ExtData[1]->WorkLocal[10]++
+ 67: 0x0144 [0x03] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[8]
+ 68: 0x0149 [0x08] ExtData[1]->WorkLocal[11] -= 12*
+ 69: 0x014E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[9], bit_index_work_offset=ExtData[1]->WorkLocal[11], condition_work_offset=1*)
+ 70: 0x0155 [0x0B] ExtData[1]->WorkLocal[8]++
+ 71: 0x0158 [0x01] GOTO 0x0132
+ 72: 0x015B [0x3E] IF !(ExtData[1]->WorkLocal[6] bit 18*) GOTO 0x0169
+ 73: 0x0162 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[9], bit_index_work_offset=6*, condition_work_offset=1*)
+ 74: 0x0169 [0x02] IF !(ExtData[1]->WorkLocal[1] == ExtData[1]->WorkLocal[10]) GOTO 0x018C
+ 75: 0x0171 [0x3E] IF !(ExtData[1]->WorkLocal[6] bit 18*) GOTO 0x0182
+ 76: 0x0178 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+ 77: 0x017F [0x01] GOTO 0x0189
+ 78: 0x0182 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+
+SUBROUTINE_0189:
+ 79: 0x0189 [0x01] GOTO 0x0193
+ 80: 0x018C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+
+SUBROUTINE_0193:
+ 81: 0x0193 [0x01] GOTO 0x0239
+ 82: 0x0196 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0215
+ 83: 0x019E [0x03] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[1]
+ 84: 0x01A3 [0x0B] ExtData[1]->WorkLocal[11]++
+
+SUBROUTINE_01A6:
+ 85: 0x01A6 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 6*) GOTO 0x01BB
+ 86: 0x01AE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[9], bit_index_work_offset=ExtData[1]->WorkLocal[11], condition_work_offset=1*)
+ 87: 0x01B5 [0x0B] ExtData[1]->WorkLocal[11]++
+ 88: 0x01B8 [0x01] GOTO 0x01A6
+ 89: 0x01BB [0x06] ExtData[1]->WorkLocal[11] = 0
+ 90: 0x01BE [0x06] ExtData[1]->WorkLocal[10] = 0
+ 91: 0x01C1 [0x03] ExtData[1]->WorkLocal[8] = 13*
+ 92: 0x01C6 [0x03] ExtData[1]->WorkLocal[12] = 13*
+ 93: 0x01CB [0x07] ExtData[1]->WorkLocal[12] += ExtData[1]->WorkLocal[1]
+
+SUBROUTINE_01D0:
+ 94: 0x01D0 [0x02] IF !(ExtData[1]->WorkLocal[8] >= ExtData[1]->WorkLocal[12]) GOTO 0x01F9
+ 95: 0x01D8 [0x3E] IF !(ExtData[1]->WorkLocal[6] bit ExtData[1]->WorkLocal[8]) GOTO 0x01F3
+ 96: 0x01DF [0x0B] ExtData[1]->WorkLocal[10]++
+ 97: 0x01E2 [0x03] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[8]
+ 98: 0x01E7 [0x08] ExtData[1]->WorkLocal[11] -= 12*
+ 99: 0x01EC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[9], bit_index_work_offset=ExtData[1]->WorkLocal[11], condition_work_offset=1*)
+100: 0x01F3 [0x0B] ExtData[1]->WorkLocal[8]++
+101: 0x01F6 [0x01] GOTO 0x01D0
+102: 0x01F9 [0x02] IF !(ExtData[1]->WorkLocal[1] == ExtData[1]->WorkLocal[10]) GOTO 0x020B
+103: 0x0201 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+104: 0x0208 [0x01] GOTO 0x0212
+105: 0x020B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+
+SUBROUTINE_0212:
+106: 0x0212 [0x01] GOTO 0x0239
+107: 0x0215 [0x02] IF !(ExtData[1]->WorkLocal[3] == 4*) GOTO 0x0227
+108: 0x021D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+109: 0x0224 [0x01] GOTO 0x0239
+110: 0x0227 [0x02] IF !(ExtData[1]->WorkLocal[3] == 5*) GOTO 0x0239
+111: 0x022F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=13*, condition_work_offset=1*)
+112: 0x0236 [0x01] GOTO 0x0239
+
+SUBROUTINE_0239:
+113: 0x0239 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x03D6
+114: 0x0241 [0x06] ExtData[1]->WorkLocal[14] = 0
+115: 0x0244 [0x06] ExtData[1]->WorkLocal[8] = 0
+116: 0x0247 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0252
+117: 0x024F [0x01] GOTO 0x0301
+118: 0x0252 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0273
+119: 0x025A [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+    → "Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Defensive Measures.]"
+120: 0x0261 [0x25] WAIT_DIALOG_SELECT()
+121: 0x0262 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0270
+122: 0x026A [0x05] ExtData[1]->WorkLocal[13] = 1
+123: 0x026D [0x01] GOTO 0x0270
+
+SUBROUTINE_0270:
+124: 0x0270 [0x01] GOTO 0x0301
+125: 0x0273 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x02BA
+126: 0x027B [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+    → "Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Defensive Measures.]"
+127: 0x0282 [0x25] WAIT_DIALOG_SELECT()
+128: 0x0283 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0291
+129: 0x028B [0x05] ExtData[1]->WorkLocal[13] = 1
+130: 0x028E [0x01] GOTO 0x02B7
+131: 0x0291 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x02B7
+132: 0x0299 [0x24] CREATE_DIALOG(message_id=7383*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+    → "Which benefit? [None. Go back./Stockade Cons. 1./Stockade Cons. 2./Cantonment Rest./Stockade Const. 3./Stockade Const. 4./Decreased Defending Time.]"
+133: 0x02A0 [0x25] WAIT_DIALOG_SELECT()
+134: 0x02A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02AF
+135: 0x02A9 [0x05] ExtData[1]->WorkLocal[14] = 1
+136: 0x02AC [0x01] GOTO 0x02B4
+137: 0x02AF [0x03] ExtData[1]->WorkLocal[8] = 1*
+
+SUBROUTINE_02B4:
+138: 0x02B4 [0x01] GOTO 0x02B7
+
+SUBROUTINE_02B7:
+139: 0x02B7 [0x01] GOTO 0x0301
+140: 0x02BA [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0301
+141: 0x02C2 [0x24] CREATE_DIALOG(message_id=7364*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+    → "Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Fenestral Boons.]"
+142: 0x02C9 [0x25] WAIT_DIALOG_SELECT()
+143: 0x02CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D8
+144: 0x02D2 [0x05] ExtData[1]->WorkLocal[13] = 1
+145: 0x02D5 [0x01] GOTO 0x02FE
+146: 0x02D8 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x02FE
+147: 0x02E0 [0x24] CREATE_DIALOG(message_id=7391*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+    → "Which benefit? [None. Go back./Fragments+ (Weak)./Fragments+ (Medium)./Fragments+ (Strong)./Fragments+ (Very Strong)./Fragments+ (Colossal).]"
+148: 0x02E7 [0x25] WAIT_DIALOG_SELECT()
+149: 0x02E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F6
+150: 0x02F0 [0x05] ExtData[1]->WorkLocal[14] = 1
+151: 0x02F3 [0x01] GOTO 0x02FB
+152: 0x02F6 [0x03] ExtData[1]->WorkLocal[8] = 2*
+
+SUBROUTINE_02FB:
+153: 0x02FB [0x01] GOTO 0x02FE
+
+SUBROUTINE_02FE:
+154: 0x02FE [0x01] GOTO 0x0301
+
+SUBROUTINE_0301:
+155: 0x0301 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x03D3
+156: 0x0309 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x03D3
+157: 0x0311 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x0347
+158: 0x0319 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[0]
+159: 0x031E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
+160: 0x0323 [0x0C] Work_Zone[2]--
+161: 0x0326 [0x24] CREATE_DIALOG(message_id=7366*, default_option=1*, option_flags=0*)
+    → "Receive the effect of [Bayld+/Obsidian Fragments+/Attack+/Defense+/Magic Attack+/Magic Defense+/Map Obtainment/HP & MP Recovery+/TP3000+/HP+/MP+/Movement Speed+]? [Yes./No.]"
+162: 0x032D [0x25] WAIT_DIALOG_SELECT()
+163: 0x032E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0344
+164: 0x0336 [0x05] ExtData[1]->WorkLocal[4] = 1
+165: 0x0339 [0x05] ExtData[1]->WorkLocal[13] = 1
+166: 0x033C [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[5]
+167: 0x0341 [0x01] GOTO 0x0344
+
+SUBROUTINE_0344:
+168: 0x0344 [0x01] GOTO 0x03D3
+169: 0x0347 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0391
+170: 0x034F [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[0]
+171: 0x0354 [0x0C] ExtData[1]->WorkLocal[5]--
+172: 0x0357 [0x07] ExtData[1]->WorkLocal[5] += 13*
+173: 0x035C [0x03] Work_Zone[2] = Work_Zone[0]
+174: 0x0361 [0x0C] Work_Zone[2]--
+175: 0x0364 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0370
+176: 0x036C [0x48] [System] [7384*]:
+    → "The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+177: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
+178: 0x0370 [0x24] CREATE_DIALOG(message_id=7385*, default_option=1*, option_flags=0*)
+    → "Receive the effect of [Stockade Cons. 1/Stockade Cons. 2/Cantonment Rest./Stockade Cons. 3/Stockade Cons. 4/Dec. Def. Time]? [Yes./No.]"
+179: 0x0377 [0x25] WAIT_DIALOG_SELECT()
+180: 0x0378 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x038E
+181: 0x0380 [0x05] ExtData[1]->WorkLocal[4] = 1
+182: 0x0383 [0x05] ExtData[1]->WorkLocal[13] = 1
+183: 0x0386 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[5]
+184: 0x038B [0x01] GOTO 0x038E
+
+SUBROUTINE_038E:
+185: 0x038E [0x01] GOTO 0x03D3
+186: 0x0391 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x03D3
+187: 0x0399 [0x48] [System] [7392*]:
+    → "An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+188: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
+189: 0x039D [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[0]
+190: 0x03A2 [0x0C] ExtData[1]->WorkLocal[5]--
+191: 0x03A5 [0x07] ExtData[1]->WorkLocal[5] += 13*
+192: 0x03AA [0x03] Work_Zone[2] = Work_Zone[0]
+193: 0x03AF [0x0C] Work_Zone[2]--
+194: 0x03B2 [0x24] CREATE_DIALOG(message_id=7393*, default_option=1*, option_flags=0*)
+    → "Receive the effect of [Fragments+ (Weak)/Fragments+ (Medium)/Fragments+ (Strong)/Frag.+ (Very Strong)/Frag.+ (Colossal)]? [Yes./No.]"
+195: 0x03B9 [0x25] WAIT_DIALOG_SELECT()
+196: 0x03BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D0
+197: 0x03C2 [0x05] ExtData[1]->WorkLocal[4] = 1
+198: 0x03C5 [0x05] ExtData[1]->WorkLocal[13] = 1
+199: 0x03C8 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[5]
+200: 0x03CD [0x01] GOTO 0x03D0
+
+SUBROUTINE_03D0:
+201: 0x03D0 [0x01] GOTO 0x03D3
+
+SUBROUTINE_03D3:
+202: 0x03D3 [0x01] GOTO 0x0239
+203: 0x03D6 [0x1B] RETURN
+
+SUBROUTINE_03D7:
+204: 0x03D7 [0x41] ExtData[1]->WorkLocal[15] = ExtData[1]->WorkLocal[0] (bits 3*-3*)
+205: 0x03E0 [0x41] ExtData[1]->WorkLocal[16] = ExtData[1]->WorkLocal[0] (bits 4*-4*)
+206: 0x03E9 [0x41] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[0] (bits 5*-5*)
+207: 0x03F2 [0x41] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[0] (bits 6*-6*)
+208: 0x03FB [0x41] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[0] (bits 10*-10*)
+209: 0x0404 [0x41] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[0] (bits 11*-11*)
+210: 0x040D [0x41] ExtData[1]->WorkLocal[21] = ExtData[1]->WorkLocal[0] (bits 12*-12*)
+211: 0x0416 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0421
+212: 0x041E [0x01] GOTO 0x04FD
+213: 0x0421 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0448
+214: 0x0429 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
+215: 0x042E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
+216: 0x0433 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
+217: 0x0438 [0x48] [System] [7368*]:
+    → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
+218: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
+219: 0x043C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+220: 0x0441 [0x48] [System] [7369*]:
+    → "[$25/$26] Magic Defense+"
+221: 0x0444 [0x23] WAIT_FOR_DIALOG_INTERACTION
+222: 0x0445 [0x01] GOTO 0x04FD
+223: 0x0448 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x046F
+224: 0x0450 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
+225: 0x0455 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
+226: 0x045A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
+227: 0x045F [0x48] [System] [7368*]:
+    → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
+228: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
+229: 0x0463 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+230: 0x0468 [0x48] [System] [7369*]:
+    → "[$25/$26] Magic Defense+"
+231: 0x046B [0x23] WAIT_FOR_DIALOG_INTERACTION
+232: 0x046C [0x01] GOTO 0x04FD
+233: 0x046F [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0496
+234: 0x0477 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
+235: 0x047C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
+236: 0x0481 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
+237: 0x0486 [0x48] [System] [7368*]:
+    → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
+238: 0x0489 [0x23] WAIT_FOR_DIALOG_INTERACTION
+239: 0x048A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+240: 0x048F [0x48] [System] [7369*]:
+    → "[$25/$26] Magic Defense+"
+241: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
+242: 0x0493 [0x01] GOTO 0x04FD
+243: 0x0496 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x04C7
+244: 0x049E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
+245: 0x04A3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
+246: 0x04A8 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
+247: 0x04AD [0x48] [System] [7368*]:
+    → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
+248: 0x04B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+249: 0x04B1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+250: 0x04B6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
+251: 0x04BB [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
+252: 0x04C0 [0x48] [System] [7370*]:
+    → "[$25/$26] Magic Defense+ [$25/$1638747/$26] MP+"
+253: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+254: 0x04C4 [0x01] GOTO 0x04FD
+255: 0x04C7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x04FD
+256: 0x04CF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
+257: 0x04D4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
+258: 0x04D9 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
+259: 0x04DE [0x48] [System] [7368*]:
+    → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
+260: 0x04E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+261: 0x04E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+262: 0x04E7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
+263: 0x04EC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
+264: 0x04F1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[21]
+265: 0x04F6 [0x48] [System] [7371*]:
+    → "[$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+"
+266: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+267: 0x04FA [0x01] GOTO 0x04FD
+
+SUBROUTINE_04FD:
+268: 0x04FD [0x1B] RETURN
+```

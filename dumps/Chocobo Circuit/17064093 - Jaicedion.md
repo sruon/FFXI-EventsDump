@@ -1,0 +1,780 @@
+# 17064093 - Jaicedion
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Chocobo Circuit (ID: 70) |
+| Block Size       | 2588 bytes               |
+| Total Events     | 2                        |
+| References Count | 134                      |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [336](#event-336)     | 0x0001       |   2025 |            413 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0008      |           8 |
+|       2 | 0xFFFFFFFF  |  4294967295 |
+|       3 | 0x2505      |        9477 |
+|       4 | 0x001E      |          30 |
+|       5 | 0x2504      |        9476 |
+|       6 | 0x0018      |          24 |
+|       7 | 0x24DC      |        9436 |
+|       8 | 0x2326      |        8998 |
+|       9 | 0x0001      |           1 |
+|      10 | 0x0002      |           2 |
+|      11 | 0x0003      |           3 |
+|      12 | 0x0004      |           4 |
+|      13 | 0x0005      |           5 |
+|      14 | 0x0006      |           6 |
+|      15 | 0x0007      |           7 |
+|      16 | 0x24E0      |        9440 |
+|      17 | 0x00C8      |         200 |
+|      18 | 0x0120      |         288 |
+|      19 | 0x003C      |          60 |
+|      20 | 0x005A      |          90 |
+|      21 | 0x0009      |           9 |
+|      22 | 0x001B      |          27 |
+|      23 | 0x0019      |          25 |
+|      24 | 0x0010      |          16 |
+|      25 | 0x0011      |          17 |
+|      26 | 0x0013      |          19 |
+|      27 | 0xFFFF3310  |  4294914832 |
+|      28 | 0xFFFEC620  |  4294886944 |
+|      29 | 0x0830      |        2096 |
+|      30 | 0x000F      |          15 |
+|      31 | 0x00DF      |         223 |
+|      32 | 0x0023      |          35 |
+|      33 | 0x0090      |         144 |
+|      34 | 0x24DD      |        9437 |
+|      35 | 0x24DF      |        9439 |
+|      36 | 0x24DE      |        9438 |
+|      37 | 0x0020      |          32 |
+|      38 | 0x0017      |          23 |
+|      39 | 0x001F      |          31 |
+|      40 | 0x232A      |        9002 |
+|      41 | 0x0014      |          20 |
+|      42 | 0x000C      |          12 |
+|      43 | 0x000D      |          13 |
+|      44 | 0x232B      |        9003 |
+|      45 | 0x0078      |         120 |
+|      46 | 0x250A      |        9482 |
+|      47 | 0x24E1      |        9441 |
+|      48 | 0x000A      |          10 |
+|      49 | 0x0028      |          40 |
+|      50 | 0x002D      |          45 |
+|      51 | 0x0032      |          50 |
+|      52 | 0x0064      |         100 |
+|      53 | 0x01F4      |         500 |
+|      54 | 0x03E8      |        1000 |
+|      55 | 0x05DC      |        1500 |
+|      56 | 0x0BB8      |        3000 |
+|      57 | 0x1388      |        5000 |
+|      58 | 0x157C      |        5500 |
+|      59 | 0x1770      |        6000 |
+|      60 | 0x1964      |        6500 |
+|      61 | 0x1B58      |        7000 |
+|      62 | 0x1D4C      |        7500 |
+|      63 | 0x1F40      |        8000 |
+|      64 | 0x2134      |        8500 |
+|      65 | 0x2328      |        9000 |
+|      66 | 0x2710      |       10000 |
+|      67 | 0x0037      |          55 |
+|      68 | 0x0041      |          65 |
+|      69 | 0x0046      |          70 |
+|      70 | 0x004B      |          75 |
+|      71 | 0x0050      |          80 |
+|      72 | 0x0055      |          85 |
+|      73 | 0x000E      |          14 |
+|      74 | 0x0096      |         150 |
+|      75 | 0x012C      |         300 |
+|      76 | 0x0190      |         400 |
+|      77 | 0x0258      |         600 |
+|      78 | 0x0320      |         800 |
+|      79 | 0x07D0      |        2000 |
+|      80 | 0x09C4      |        2500 |
+|      81 | 0x0DAC      |        3500 |
+|      82 | 0x0FA0      |        4000 |
+|      83 | 0x1194      |        4500 |
+|      84 | 0x251C      |        9500 |
+|      85 | 0x2AF8      |       11000 |
+|      86 | 0x2EE0      |       12000 |
+|      87 | 0x32C8      |       13000 |
+|      88 | 0x36B0      |       14000 |
+|      89 | 0x3A98      |       15000 |
+|      90 | 0x3E80      |       16000 |
+|      91 | 0x4268      |       17000 |
+|      92 | 0x4650      |       18000 |
+|      93 | 0x4A38      |       19000 |
+|      94 | 0x4E20      |       20000 |
+|      95 | 0x55F0      |       22000 |
+|      96 | 0x5DC0      |       24000 |
+|      97 | 0x6590      |       26000 |
+|      98 | 0x6D60      |       28000 |
+|      99 | 0x7530      |       30000 |
+|     100 | 0x7D00      |       32000 |
+|     101 | 0x84D0      |       34000 |
+|     102 | 0x8CA0      |       36000 |
+|     103 | 0x9470      |       38000 |
+|     104 | 0x9C40      |       40000 |
+|     105 | 0xA410      |       42000 |
+|     106 | 0xABE0      |       44000 |
+|     107 | 0xB3B0      |       46000 |
+|     108 | 0xBB80      |       48000 |
+|     109 | 0xC350      |       50000 |
+|     110 | 0xD6D8      |       55000 |
+|     111 | 0xEA60      |       60000 |
+|     112 | 0xFDE8      |       65000 |
+|     113 | 0x11170     |       70000 |
+|     114 | 0x124F8     |       75000 |
+|     115 | 0x13880     |       80000 |
+|     116 | 0x14C08     |       85000 |
+|     117 | 0x15F90     |       90000 |
+|     118 | 0x17318     |       95000 |
+|     119 | 0x186A0     |      100000 |
+|     120 | 0x0955      |        2389 |
+|     121 | 0x0956      |        2390 |
+|     122 | 0x0957      |        2391 |
+|     123 | 0x0958      |        2392 |
+|     124 | 0x0959      |        2393 |
+|     125 | 0x095A      |        2394 |
+|     126 | 0x095B      |        2395 |
+|     127 | 0x095C      |        2396 |
+|     128 | 0x095D      |        2397 |
+|     129 | 0x095E      |        2398 |
+|     130 | 0x095F      |        2399 |
+|     131 | 0x0960      |        2400 |
+|     132 | 0x0961      |        2401 |
+|     133 | 0x00FF      |         255 |
+
+## String References
+
+- **8998**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
+- **9002**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **9003**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
+- **9436**: What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]
+- **9437**: Entry No. $0 \` %1 \`
+- **9438**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3
+- **9439**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None
+- **9440**: The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-].
+- **9441**: The current odds are as follows:
+- **9476**: Here you can check the latest stats for the next race.
+- **9477**: Preparations for the next race are currently underway. Please wait just a bit longer.
+- **9482**: The following is a list of the chocobos entered in the race.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 336
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 2025 bytes |
+| Instructions | 187        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 03 01 10 00 80 38  01 80 02 09 10 02 80 00   B.....8........
+0010: 19 00 1D 03 80 23 01 B8  04 03 04 00 03 10 03 05  .....#..........
+0020: 00 04 10 03 06 00 05 10  03 07 00 06 10 03 0D 00  ................
+0030: 02 10 03 0E 00 07 10 1E  F0 FF FF 7F 1C 04 80 1D  ................
+0040: 05 80 23 03 00 00 06 80  03 03 00 00 80 24 07 80  ..#..........$..
+0050: 00 80 00 00 25 02 00 10  00 80 00 54 04 06 01 00  ....%......T....
+0060: 03 02 00 01 80 02 01 00  00 80 00 51 04 24 08 80  ...........Q.$..
+0070: 00 80 00 80 25 02 00 10  00 80 00 85 00 03 02 00  ....%...........
+0080: 00 80 01 5F 02 02 00 10  09 80 00 95 00 03 02 00  ..._............
+0090: 09 80 01 5F 02 02 00 10  0A 80 00 A5 00 03 02 00  ..._............
+00A0: 0A 80 01 5F 02 02 00 10  0B 80 00 B5 00 03 02 00  ..._............
+00B0: 0B 80 01 5F 02 02 00 10  0C 80 00 C5 00 03 02 00  ..._............
+00C0: 0C 80 01 5F 02 02 00 10  0D 80 00 D5 00 03 02 00  ..._............
+00D0: 0D 80 01 5F 02 02 00 10  0E 80 00 E5 00 03 02 00  ..._............
+00E0: 0E 80 01 5F 02 02 00 10  0F 80 00 F5 00 03 02 00  ..._............
+00F0: 0F 80 01 5F 02 02 00 10  01 80 00 A1 01 02 02 00  ..._............
+0100: 01 80 00 08 01 01 1E 01  02 0D 00 00 80 00 15 01  ................
+0110: 03 0D 00 09 80 03 02 10  0D 00 1D 10 80 23 02 03  .............#..
+0120: 00 09 80 00 9C 01 45 11  80 F8 FF FF 7F F8 FF FF  ......E.........
+0130: 7F 66 64 6F 31 00 80 55  11 80 F8 FF FF 7F F8 FF  .fdo1..U........
+0140: FF 7F 66 64 6F 31 52 12  80 F8 FF FF 7F F8 FF FF  ..fdo1R.........
+0150: 7F 73 30 33 38 4E 00 F0  FF FF 7F BA F0 FF FF 7F  .s038N..........
+0160: 04 00 05 00 06 00 07 00  80 F0 FF FF 7F 80 F8 FF  ................
+0170: FF 7F 45 11 80 F0 FF FF  7F F0 FF FF 7F 63 30 30  ..E..........c00
+0180: 69 00 80 46 00 1C 13 80  45 11 80 F8 FF FF 7F F8  i..F....E.......
+0190: FF FF 7F 66 64 69 32 00  80 1C 14 80 21 00 01 5F  ...fdi2.....!.._
+01A0: 02 02 00 10 15 80 00 5F  02 02 02 00 01 80 00 B4  ......._........
+01B0: 01 01 CA 01 02 0D 00 00  80 00 C1 01 03 0D 00 09  ................
+01C0: 80 03 02 10 0D 00 1D 10  80 23 02 03 00 09 80 00  .........#......
+01D0: 59 02 03 03 00 00 80 45  11 80 F8 FF FF 7F F8 FF  Y......E........
+01E0: FF 7F 66 64 6F 31 00 80  55 11 80 F8 FF FF 7F F8  ..fdo1..U.......
+01F0: FF FF 7F 66 64 6F 31 52  12 80 F8 FF FF 7F F8 FF  ...fdo1R........
+0200: FF 7F 73 30 33 38 38 15  80 4E 01 27 60 04 01 2F  ..s0388..N.'`../
+0210: 01 27 60 04 01 4E 00 F0  FF FF 7F BA F0 FF FF 7F  .'`..N..........
+0220: 04 00 05 00 06 00 07 00  80 F0 FF FF 7F 80 F8 FF  ................
+0230: FF 7F 45 11 80 F0 FF FF  7F F0 FF FF 7F 63 30 30  ..E..........c00
+0240: 69 00 80 46 00 1C 13 80  45 11 80 F8 FF FF 7F F8  i..F....E.......
+0250: FF FF 7F 66 64 69 32 00  80 01 4D 00 01 5F 02 03  ...fdi2...M.._..
+0260: 03 00 09 80 45 11 80 F8  FF FF 7F F8 FF FF 7F 66  ....E..........f
+0270: 64 6F 31 00 80 55 11 80  F8 FF FF 7F F8 FF FF 7F  do1..U..........
+0280: 66 64 6F 31 03 01 10 00  80 40 0B 80 0E 80 01 10  fdo1.....@......
+0290: 02 00 43 00 43 01 46 01  38 16 80 4E 01 F0 FF FF  ..C.C.F.8..N....
+02A0: 7F 2F 00 27 60 04 01 4E  00 27 60 04 01 03 08 00  ./.'`..N.'`.....
+02B0: 03 10 03 09 00 04 10 03  0A 00 05 10 03 0B 00 06  ................
+02C0: 10 03 0C 00 07 10 03 0D  00 08 10 03 02 10 00 80  ................
+02D0: 41 17 80 16 80 0C 00 03  10 3E 0B 00 18 80 E8 02  A........>......
+02E0: 03 04 10 09 80 01 EB 02  06 04 10 3E 0B 00 00 80  ...........>....
+02F0: FA 02 03 05 10 09 80 01  FD 02 06 05 10 3E 0B 00  .............>..
+0300: 01 80 0C 03 03 06 10 09  80 01 0F 03 06 06 10 27  ...............'
+0310: 05 27 60 04 01 06 2A 05  27 60 04 01 41 06 80 06  .'`...*.'`..A...
+0320: 80 0C 00 04 10 41 19 80  1A 80 0C 00 05 10 BA 27  .....A.........'
+0330: 60 04 01 1B 80 1C 80 00  80 1D 80 80 27 60 04 01  `...........'`..
+0340: 45 12 80 F8 FF FF 7F F8  FF FF 7F 73 30 33 38 00  E..........s038.
+0350: 80 1C 1E 80 45 11 80 F8  FF FF 7F F8 FF FF 7F 66  ....E..........f
+0360: 64 69 32 00 80 55 11 80  F8 FF FF 7F F8 FF FF 7F  di2..U..........
+0370: 66 64 69 32 5B 1F 80 27  60 04 01 27 60 04 01 6E  fdi2[..'`..'`..n
+0380: 61 6B 30 1C 20 80 45 21  80 27 60 04 01 27 60 04  ak0. .E!.'`..'`.
+0390: 01 6E 61 6B 32 00 80 03  02 10 02 00 07 02 10 09  .nak2...........
+03A0: 80 48 22 80 23 03 03 10  08 00 9D 00 BA 06 05 10  .H".#...........
+03B0: 0A 00 03 06 10 09 00 02  05 10 00 80 00 C6 03 48  ...............H
+03C0: 23 80 23 01 CA 03 48 24  80 23 41 00 80 0F 80 0B  #.#...H$.#A.....
+03D0: 00 02 10 15 02 10 25 80  41 01 80 1E 80 0B 00 03  ......%.A.......
+03E0: 10 15 03 10 25 80 41 18  80 26 80 0B 00 04 10 15  ....%.A..&......
+03F0: 04 10 25 80 41 06 80 27  80 0B 00 05 10 15 05 10  ..%.A..'........
+0400: 25 80 48 28 80 23 41 29  80 26 80 0C 00 02 10 41  %.H(.#A).&.....A
+0410: 15 80 2A 80 0C 00 03 10  41 2B 80 18 80 0C 00 04  ..*.....A+......
+0420: 10 48 2C 80 23 5B 1F 80  27 60 04 01 27 60 04 01  .H,.#[..'`..'`..
+0430: 6E 61 6B 30 1C 20 80 45  21 80 27 60 04 01 27 60  nak0. .E!.'`..'`
+0440: 04 01 6E 61 6B 32 00 80  1C 2D 80 06 01 00 01 65  ..nak2...-.....e
+0450: 00 01 B8 04 02 00 10 09  80 00 91 04 03 01 10 0C  ................
+0460: 80 43 00 43 01 B4 11 09  10 07 10 1D 2E 80 23 B4  .C.C..........#.
+0470: 12 00 80 00 80 02 0D 00  00 80 00 82 04 03 0D 00  ................
+0480: 09 80 03 02 10 0D 00 1D  10 80 23 01 4D 00 01 B8  ..........#.M...
+0490: 04 02 00 10 0A 80 00 B8  04 03 01 10 0B 80 43 00  ..............C.
+04A0: 43 01 B4 0F 09 10 07 10  1D 2F 80 23 B4 10 00 80  C......../.#....
+04B0: 00 80 01 4D 00 01 B8 04  21 00 00 80 00 80 00 80  ...M....!.......
+04C0: 0B 80 0D 80 30 80 1E 80  29 80 17 80 04 80 20 80  ....0...)..... .
+04D0: 31 80 32 80 33 80 34 80  34 80 34 80 34 80 34 80  1.2.3.4.4.4.4.4.
+04E0: 34 80 34 80 34 80 34 80  34 80 34 80 34 80 34 80  4.4.4.4.4.4.4.4.
+04F0: 34 80 34 80 34 80 34 80  34 80 00 80 00 80 00 80  4.4.4.4.4.......
+0500: 09 80 09 80 09 80 09 80  09 80 0A 80 0B 80 0B 80  ................
+0510: 0C 80 0C 80 0D 80 34 80  34 80 34 80 34 80 34 80  ......4.4.4.4.4.
+0520: 34 80 34 80 34 80 34 80  34 80 34 80 34 80 34 80  4.4.4.4.4.4.4.4.
+0530: 34 80 34 80 34 80 34 80  34 80 35 80 36 80 37 80  4.4.4.4.4.5.6.7.
+0540: 38 80 39 80 3A 80 3B 80  3C 80 3D 80 3E 80 3F 80  8.9.:.;.<.=.>.?.
+0550: 40 80 41 80 42 80 00 80  00 80 00 80 00 80 00 80  @.A.B...........
+0560: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+0570: 00 80 00 80 00 80 00 80  00 80 09 80 09 80 09 80  ................
+0580: 04 80 33 80 43 80 13 80  44 80 45 80 46 80 47 80  ..3.C...D.E.F.G.
+0590: 48 80 14 80 34 80 00 80  00 80 00 80 00 80 00 80  H...4...........
+05A0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+05B0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 0B 80  ................
+05C0: 00 80 00 80 00 80 00 80  30 80 1E 80 1E 80 29 80  ........0.....).
+05D0: 29 80 04 80 04 80 00 80  00 80 00 80 00 80 00 80  )...............
+05E0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+05F0: 00 80 00 80 00 80 00 80  00 80 09 80 09 80 09 80  ................
+0600: 09 80 09 80 09 80 09 80  09 80 0A 80 0E 80 0E 80  ................
+0610: 49 80 09 80 0E 80 09 80  09 80 09 80 09 80 09 80  I...............
+0620: 09 80 09 80 09 80 09 80  09 80 34 80 4A 80 11 80  ..........4.J...
+0630: 4B 80 4C 80 4D 80 4E 80  36 80 37 80 4F 80 50 80  K.L.M.N.6.7.O.P.
+0640: 38 80 51 80 52 80 53 80  39 80 3A 80 3B 80 3C 80  8.Q.R.S.9.:.;.<.
+0650: 3D 80 3E 80 3F 80 40 80  41 80 54 80 42 80 55 80  =.>.?.@.A.T.B.U.
+0660: 56 80 57 80 58 80 59 80  5A 80 5B 80 5C 80 5D 80  V.W.X.Y.Z.[.\.].
+0670: 5E 80 5F 80 60 80 61 80  62 80 63 80 64 80 65 80  ^._.`.a.b.c.d.e.
+0680: 66 80 67 80 68 80 69 80  6A 80 6B 80 6C 80 6D 80  f.g.h.i.j.k.l.m.
+0690: 6E 80 6F 80 70 80 71 80  72 80 73 80 74 80 75 80  n.o.p.q.r.s.t.u.
+06A0: 76 80 77 80 77 80 77 80  77 80 0D 80 0B 80 09 80  v.w.w.w.w.......
+06B0: 09 80 09 80 09 80 09 80  00 80 00 80 78 80 79 80  ............x.y.
+06C0: 7A 80 7B 80 7C 80 7D 80  7E 80 7F 80 80 80 00 80  z.{.|.}.~.......
+06D0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+06E0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+06F0: 81 80 82 80 83 80 84 80  85 80 0C 80 0E 80 01 80  ................
+0700: 0A 80 01 80 01 80 0B 80  01 80 0A 80 01 80 01 80  ................
+0710: 01 80 01 80 01 80 01 80  01 80 00 80 00 80 00 80  ................
+0720: 00 80 0A 80 0B 80 00 80  09 80 00 80 00 80 00 80  ................
+0730: 00 80 0B 80 09 80 00 80  0A 80 00 80 00 80 00 80  ................
+0740: 00 80 09 80 0A 80 00 80  0B 80 0C 80 0C 80 0C 80  ................
+0750: 0C 80 0C 80 0C 80 00 80  00 80 0C 80 0C 80 0C 80  ................
+0760: 0C 80 0C 80 0C 80 00 80  00 80 0C 80 0C 80 0C 80  ................
+0770: 0C 80 0C 80 0C 80 00 80  00 80 00 80 00 80 00 80  ................
+0780: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+0790: 0D 80 0C 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+07A0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+07B0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+07C0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+07D0: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+07E0: 00 80 00 80 00 80 00 80  00 80                    ..........      
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x03] Work_Zone[1] = 0*
+  2: 0x0007 [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
+  3: 0x000A [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0019
+  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=9477*)
+    → "Preparations for the next race are currently underway. Please wait just a bit longer."
+  5: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0016 [0x01] GOTO 0x04B8
+  7: 0x0019 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
+  8: 0x001E [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[4]
+  9: 0x0023 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[5]
+ 10: 0x0028 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[6]
+ 11: 0x002D [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
+ 12: 0x0032 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[7]
+ 13: 0x0037 [0x1E] EventEntity looks at LocalPlayer and starts talking
+ 14: 0x003C [0x1C] WAIT(30* ticks)
+ 15: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
+    → "Here you can check the latest stats for the next race."
+ 16: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 17: 0x0043 [0x03] ExtData[1]->WorkLocal[0] = 24*
+ 18: 0x0048 [0x03] ExtData[1]->WorkLocal[3] = 0*
+
+SUBROUTINE_004D:
+ 19: 0x004D [0x24] CREATE_DIALOG(message_id=9436*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+    → "What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]"
+ 20: 0x0054 [0x25] WAIT_DIALOG_SELECT()
+ 21: 0x0055 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0454
+ 22: 0x005D [0x06] ExtData[1]->WorkLocal[1] = 0
+ 23: 0x0060 [0x03] ExtData[1]->WorkLocal[2] = 8*
+
+SUBROUTINE_0065:
+ 24: 0x0065 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0451
+ 25: 0x006D [0x24] CREATE_DIALOG(message_id=8998*, default_option=0*, option_flags=0*)
+    → "Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
+ 26: 0x0074 [0x25] WAIT_DIALOG_SELECT()
+ 27: 0x0075 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0085
+ 28: 0x007D [0x03] ExtData[1]->WorkLocal[2] = 0*
+ 29: 0x0082 [0x01] GOTO 0x025F
+ 30: 0x0085 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0095
+ 31: 0x008D [0x03] ExtData[1]->WorkLocal[2] = 1*
+ 32: 0x0092 [0x01] GOTO 0x025F
+ 33: 0x0095 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00A5
+ 34: 0x009D [0x03] ExtData[1]->WorkLocal[2] = 2*
+ 35: 0x00A2 [0x01] GOTO 0x025F
+ 36: 0x00A5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00B5
+ 37: 0x00AD [0x03] ExtData[1]->WorkLocal[2] = 3*
+ 38: 0x00B2 [0x01] GOTO 0x025F
+ 39: 0x00B5 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00C5
+ 40: 0x00BD [0x03] ExtData[1]->WorkLocal[2] = 4*
+ 41: 0x00C2 [0x01] GOTO 0x025F
+ 42: 0x00C5 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x00D5
+ 43: 0x00CD [0x03] ExtData[1]->WorkLocal[2] = 5*
+ 44: 0x00D2 [0x01] GOTO 0x025F
+ 45: 0x00D5 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x00E5
+ 46: 0x00DD [0x03] ExtData[1]->WorkLocal[2] = 6*
+ 47: 0x00E2 [0x01] GOTO 0x025F
+ 48: 0x00E5 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x00F5
+ 49: 0x00ED [0x03] ExtData[1]->WorkLocal[2] = 7*
+ 50: 0x00F2 [0x01] GOTO 0x025F
+ 51: 0x00F5 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x01A1
+ 52: 0x00FD [0x02] IF !(ExtData[1]->WorkLocal[2] == 8*) GOTO 0x0108
+ 53: 0x0105 [0x01] GOTO 0x011E
+ 54: 0x0108 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0115
+ 55: 0x0110 [0x03] ExtData[1]->WorkLocal[13] = 1*
+ 56: 0x0115 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
+ 57: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9440*)
+    → "The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-]."
+ 58: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_011E:
+ 59: 0x011E [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x019C
+ 60: 0x0126 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 61: 0x0137 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 62: 0x0146 [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=288*
+ 63: 0x0155 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+ 64: 0x015B [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=ExtData[1]->WorkLocal[4], pos_z=ExtData[1]->WorkLocal[5], pos_y=ExtData[1]->WorkLocal[6], direction=ExtData[1]->WorkLocal[7])
+ 65: 0x0168 [0x80] LOAD_WAIT(entity=LocalPlayer)
+ 66: 0x016D [0x80] LOAD_WAIT(entity=EventEntity)
+ 67: 0x0172 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c00i" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 68: 0x0183 [0x46] CAMERA_CONTROL: Restore default settings
+ 69: 0x0185 [0x1C] WAIT(60* ticks)
+ 70: 0x0188 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 71: 0x0199 [0x1C] WAIT(90* ticks)
+ 72: 0x019C [0x21] END_EVENT
+ 73: 0x019D [0x00] END_REQSTACK()
+
+SUBROUTINE_01CA:
+ 74: 0x01CA [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0259
+ 75: 0x01D2 [0x03] ExtData[1]->WorkLocal[3] = 0*
+ 76: 0x01D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 77: 0x01E8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 78: 0x01F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=288*
+ 79: 0x0206 [0x38] SET_CLIENT_EVENT_MODE(mode=9*)
+ 80: 0x0209 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17063975/0x01046027)
+ 81: 0x020F [0x2F] Unnamed NPC (ID: 17063975/0x01046027)->Render.Flags0 |= 0x80000 // Bit 19
+ 82: 0x0215 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+ 83: 0x021B [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=ExtData[1]->WorkLocal[4], pos_z=ExtData[1]->WorkLocal[5], pos_y=ExtData[1]->WorkLocal[6], direction=ExtData[1]->WorkLocal[7])
+ 84: 0x0228 [0x80] LOAD_WAIT(entity=LocalPlayer)
+ 85: 0x022D [0x80] LOAD_WAIT(entity=EventEntity)
+ 86: 0x0232 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "c00i" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 87: 0x0243 [0x46] CAMERA_CONTROL: Restore default settings
+ 88: 0x0245 [0x1C] WAIT(60* ticks)
+ 89: 0x0248 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 90: 0x0259 [0x01] GOTO 0x004D
+
+SUBROUTINE_025F:
+ 91: 0x025F [0x03] ExtData[1]->WorkLocal[3] = 1*
+ 92: 0x0264 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 93: 0x0275 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 94: 0x0284 [0x03] Work_Zone[1] = 0*
+ 95: 0x0289 [0x40] SET_BIT_WORK_RANGE(start_bit=3*, end_bit=6*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+ 96: 0x0292 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 97: 0x0294 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 98: 0x0296 [0x46] CAMERA_CONTROL: Disable user control
+ 99: 0x0298 [0x38] SET_CLIENT_EVENT_MODE(mode=27*)
+100: 0x029B [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
+101: 0x02A1 [0x2F] Unnamed NPC (ID: 17063975/0x01046027)->Render.Flags0 &= ~0x80000 // Bit 19
+102: 0x02A7 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17063975/0x01046027)
+103: 0x02AD [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[3]
+104: 0x02B2 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[4]
+105: 0x02B7 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[5]
+106: 0x02BC [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[6]
+107: 0x02C1 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[7]
+108: 0x02C6 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[8]
+109: 0x02CB [0x03] Work_Zone[2] = 0*
+110: 0x02D0 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[12] (bits 25*-27*)
+111: 0x02D9 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 16*) GOTO 0x02E8
+112: 0x02E0 [0x03] Work_Zone[4] = 1*
+113: 0x02E5 [0x01] GOTO 0x02EB
+114: 0x02E8 [0x06] Work_Zone[4] = 0
+
+SUBROUTINE_02EB:
+115: 0x02EB [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 0*) GOTO 0x02FA
+116: 0x02F2 [0x03] Work_Zone[5] = 1*
+117: 0x02F7 [0x01] GOTO 0x02FD
+118: 0x02FA [0x06] Work_Zone[5] = 0
+
+SUBROUTINE_02FD:
+119: 0x02FD [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 8*) GOTO 0x030C
+120: 0x0304 [0x03] Work_Zone[6] = 1*
+121: 0x0309 [0x01] GOTO 0x030F
+122: 0x030C [0x06] Work_Zone[6] = 0
+
+SUBROUTINE_030F:
+123: 0x030F [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17063975/0x01046027), tag_num=0x06)
+124: 0x0316 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Unnamed NPC (ID: 17063975/0x01046027))
+125: 0x031C [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[12] (bits 24*-24*)
+126: 0x0325 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[12] (bits 17*-19*)
+127: 0x032E [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17063975/0x01046027), pos_x=-52.464*, pos_z=-80.352*, pos_y=0.000*, direction=184.2°*)
+128: 0x033B [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17063975/0x01046027))
+129: 0x0340 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[288*, 0*]
+130: 0x0351 [0x1C] WAIT(15* ticks)
+131: 0x0354 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+132: 0x0365 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [EventEntity, EventEntity], work=200*
+133: 0x0374 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "nak0" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=223*
+134: 0x0383 [0x1C] WAIT(35* ticks)
+135: 0x0386 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=[144*, 0*]
+136: 0x0397 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
+137: 0x039C [0x07] Work_Zone[2] += 1*
+138: 0x03A1 [0x48] [System] [9437*]:
+    → "Entry No. $0 ` %1 `"
+139: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+140: 0x03A5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
+141: 0x03AA [0x9D] Work_Zone[5] = 0x06BA[ExtData[1]->WorkLocal[10]] // Read WORD
+142: 0x03B2 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[9]
+143: 0x03B7 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x03C6
+144: 0x03BF [0x48] [System] [9439*]:
+    → "Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None"
+145: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+146: 0x03C3 [0x01] GOTO 0x03CA
+147: 0x03C6 [0x48] [System] [9438*]:
+    → "Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3"
+148: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_03CA:
+149: 0x03CA [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[11] (bits 0*-7*)
+150: 0x03D3 [0x15] Work_Zone[2] /= 32*
+151: 0x03D8 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[11] (bits 8*-15*)
+152: 0x03E1 [0x15] Work_Zone[3] /= 32*
+153: 0x03E6 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[11] (bits 16*-23*)
+154: 0x03EF [0x15] Work_Zone[4] /= 32*
+155: 0x03F4 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[11] (bits 24*-31*)
+156: 0x03FD [0x15] Work_Zone[5] /= 32*
+157: 0x0402 [0x48] [System] [9002*]:
+    → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
+158: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
+159: 0x0406 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[12] (bits 20*-23*)
+160: 0x040F [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[12] (bits 9*-12*)
+161: 0x0418 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[12] (bits 13*-16*)
+162: 0x0421 [0x48] [System] [9003*]:
+    → "Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]"
+163: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
+164: 0x0425 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "nak0" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=223*
+165: 0x0434 [0x1C] WAIT(35* ticks)
+166: 0x0437 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=[144*, 0*]
+167: 0x0448 [0x1C] WAIT(120* ticks)
+168: 0x044B [0x06] ExtData[1]->WorkLocal[1] = 0
+169: 0x044E [0x01] GOTO 0x0065
+170: 0x0451 [0x01] GOTO 0x04B8
+171: 0x0454 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0491
+172: 0x045C [0x03] Work_Zone[1] = 4*
+173: 0x0461 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+174: 0x0463 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+175: 0x0465 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x11 - Open chocobo racing card window, work_offset1=Work_Zone[9], work_offset2=Work_Zone[7])
+176: 0x046B [0x1D] PRINT_EVENT_MESSAGE(message_id=9482*)
+    → "The following is a list of the chocobos entered in the race."
+177: 0x046E [0x23] WAIT_FOR_DIALOG_INTERACTION
+178: 0x046F [0xB4] UI_WINDOW_STRING_HANDLER(case=0x12 - Close chocobo racing card window, work_offset1=0*, work_offset2=0*)
+179: 0x0475 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0482
+180: 0x047D [0x03] ExtData[1]->WorkLocal[13] = 1*
+181: 0x0482 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
+182: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=9440*)
+    → "The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-]."
+183: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
+184: 0x048B [0x01] GOTO 0x004D
+
+SUBROUTINE_04B8:
+185: 0x04B8 [0x21] END_EVENT
+186: 0x04B9 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x019E [0x01] GOTO 0x025F
+# Dead code (unreachable instructions):
+     0x025C [0x01] GOTO 0x025F
+# Dead code (unreachable instructions):
+     0x048E [0x01] GOTO 0x04B8
+     0x04B5 [0x01] GOTO 0x04B8
+# Dead code (unreachable instructions):
+     0x04BA [0x00] END_REQSTACK()
+     0x04BB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x04C0 [0x0B] 0x0D80++
+     0x04C3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149482544/0x801E8030))
+     0x04C8 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 2147778583/0x80048017), tag_num=0x20)
+     0x04CF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150793265/0x80328031))
+     0x04D4 [0x33] EventEntity->Render.Flags0 ^= 0x200000 // Bit 21 (flag=0x80)
+     0x04D6 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x04D9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x04DE [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x04E1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x04E6 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x04E9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x04EE [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x04F1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x04F6 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x04F9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x04FE [0x00] END_REQSTACK()
+     0x04FF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148106249/0x80098009))
+     0x0504 [0x09] 0x0980 |= (1 << 0x0980)
+     0x0509 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148237322/0x800B800A))
+     0x050E [0x0B] 0x0C80++
+     0x0511 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148368396/0x800D800C))
+     0x0516 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x0519 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x051E [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x0521 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x0526 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x0529 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x052E [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x0531 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924340/0x80348034))
+     0x0536 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x3480)
+     0x0539 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151055413/0x80368035))
+     0x053E [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=0x3880, z=0x3980, y=0x3A80, direction=0x3B80
+     0x0547 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151514172/0x803D803C))
+     0x054C [0x3E] IF !(0x3F80 bit 0x4080) GOTO 0x4180
+     0x0553 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516482/0x80008042))
+     0x0558 [0x00] END_REQSTACK()
+     0x0559 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x055E [0x00] END_REQSTACK()
+     0x055F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0564 [0x00] END_REQSTACK()
+     0x0565 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x056A [0x00] END_REQSTACK()
+     0x056B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0570 [0x00] END_REQSTACK()
+     0x0571 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0576 [0x00] END_REQSTACK()
+     0x0577 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148106240/0x80098000))
+     0x057C [0x09] 0x0980 |= (1 << 0x0480)
+     0x0581 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151907379/0x80438033))
+     0x0586 [0x13] 0x4480 = rand() % 0x4580
+     0x058B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152169542/0x80478046))
+     0x0590 [0x48] [System] [0x1480]:
+    → "Objective: $2/$0 aquan-type creature[/s]. Weather/Day: [oo /o!/o"/o#/o$/o%/o&/o!o#o%/o o"o$o&/o o!o"o#o$o%o&]. Equipment: Target item must be equipped."
+     0x0593 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516468/0x80008034))
+     0x0598 [0x00] END_REQSTACK()
+     0x0599 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x059E [0x00] END_REQSTACK()
+     0x059F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05A4 [0x00] END_REQSTACK()
+     0x05A5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05AA [0x00] END_REQSTACK()
+     0x05AB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05B0 [0x00] END_REQSTACK()
+     0x05B1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05B6 [0x00] END_REQSTACK()
+     0x05B7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05BC [0x00] END_REQSTACK()
+     0x05BD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516427/0x8000800B))
+     0x05C2 [0x00] END_REQSTACK()
+     0x05C3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05C8 [0x30] SET_UCOFF_CONTINUE_ZERO()
+     0x05C9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149482526/0x801E801E))
+     0x05CE [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 2147778601/0x80048029), tag_num=0x04)
+     0x05D5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05DA [0x00] END_REQSTACK()
+     0x05DB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05E0 [0x00] END_REQSTACK()
+     0x05E1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05E6 [0x00] END_REQSTACK()
+     0x05E7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05EC [0x00] END_REQSTACK()
+     0x05ED [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05F2 [0x00] END_REQSTACK()
+     0x05F3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x05F8 [0x00] END_REQSTACK()
+     0x05F9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148106249/0x80098009))
+     0x05FE [0x09] 0x0980 |= (1 << 0x0980)
+     0x0603 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148106249/0x80098009))
+     0x0608 [0x09] 0x0A80 |= (1 << 0x0E80)
+     0x060D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152300558/0x8049800E))
+     0x0612 [0x09] 0x0E80 |= (1 << 0x0980)
+     0x0617 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148106249/0x80098009))
+     0x061C [0x09] 0x0980 |= (1 << 0x0980)
+     0x0621 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148106249/0x80098009))
+     0x0626 [0x09] 0x0980 |= (1 << 0x3480)
+     0x062B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148630602/0x8011804A))
+     0x0630 [0x4B] UPDATE_ENTITY_YAW(entity=Unknown NPC (ID: 1300253824/0x4D804C80), yaw=0x4E80)
+     0x0637 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151120950/0x80378036))
+     0x063C [0x4F] EventEntity->StatusEvent = 0x5080 // Custom event value
+     0x063F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152824888/0x80518038))
+     0x0644 [0x52] END_LOAD_SCHEDULER: End scheduler 0x3E803D80 with entities [Unknown NPC (ID: 981481856/0x3A803980), Unknown NPC (ID: 1015036800/0x3C803B80)], work=0x5380
+     0x0653 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151710783/0x8040803F))
+     0x0658 [0x41] 0x5680 = 0x5580 (bits 0x5480-0x4280)
+     0x0661 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153283671/0x80588057))
+     0x0666 [0x59] UPDATE_ENTITY_DATA: Unknown mode 128
+     0x066A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler 0x62806180 with entities [Unknown NPC (ID: 1585470848/0x5E805D80), Unknown NPC (ID: 1619025792/0x60805F80)], work=0x5C80
+     0x0679 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154070115/0x80648063))
+     0x067E [0x65] CALCULATE_3D_DISTANCE(result=0x6680, entity1=Unknown NPC (ID: 1753245568/0x68806780), entity2=Unknown NPC (ID: 1786800512/0x6A806980))
+     0x0689 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154594411/0x806C806B))
+     0x068E [0x6D] DEPRECATED_OPCODE(unused1=0x6E80, unused2=0x6F80, unused3=0x7080)
+     0x0695 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154987633/0x80728071))
+     0x069A [0x73] Unknown NPC (ID: 1988130176/0x76807580) casts magic 0x7480 on Unknown NPC (ID: 2004907904/0x77807780)
+     0x06A5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2155315319/0x80778077))
+     0x06AA [0x0D] 0x0B80 &= 0x0980
+     0x06AF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148106249/0x80098009))
+     0x06B4 [0x09] 0x0980 |= (1 << 0x80)
+     0x06B9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2155380736/0x80788000))
+     0x06BE [0x79] Unknown NPC (ID: 2155577466/0x807B807A) looks at Unknown NPC (ID: 2155708540/0x807D807C) (Unknown mode 128)
+     0x06C8 [0x7E] CHOCOBO_MOUNT: Unknown mode 128
+     0x06CE [0x00] END_REQSTACK()
+     0x06CF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x06D4 [0x00] END_REQSTACK()
+     0x06D5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x06DA [0x00] END_REQSTACK()
+     0x06DB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x06E0 [0x00] END_REQSTACK()
+     0x06E1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x06E6 [0x00] END_REQSTACK()
+     0x06E7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x06EC [0x00] END_REQSTACK()
+     0x06ED [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2155970560/0x80818000))
+     0x06F2 [0x82] RECT_HIT_TEST_BRANCH: If EventEntity is NOT in rectangle 0x84808380, GOTO 0x8580
+     0x06F9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148433932/0x800E800C))
+     0x06FE [0x01] GOTO 0x0A80
+     0x0701 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x0706 [0x0B] 0x0180++
+     0x0709 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581962/0x8001800A))
+     0x070E [0x01] GOTO 0x0180
+     0x0711 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x0716 [0x01] GOTO 0x0180
+     0x0719 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x071E [0x00] END_REQSTACK()
+     0x071F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148171776/0x800A8000))
+     0x0724 [0x0B] 0x80++
+     0x0727 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516425/0x80008009))
+     0x072C [0x00] END_REQSTACK()
+     0x072D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0732 [0x0B] 0x0980++
+     0x0735 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148171776/0x800A8000))
+     0x073A [0x00] END_REQSTACK()
+     0x073B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0740 [0x00] END_REQSTACK()
+     0x0741 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148171785/0x800A8009))
+     0x0746 [0x00] END_REQSTACK()
+     0x0747 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302859/0x800C800B))
+     0x074C [0x0C] 0x0C80--
+     0x074F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302860/0x800C800C))
+     0x0754 [0x0C] 0x80--
+     0x0757 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302848/0x800C8000))
+     0x075C [0x0C] 0x0C80--
+     0x075F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302860/0x800C800C))
+     0x0764 [0x0C] 0x80--
+     0x0767 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302848/0x800C8000))
+     0x076C [0x0C] 0x0C80--
+     0x076F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302860/0x800C800C))
+     0x0774 [0x0C] 0x80--
+     0x0777 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x077C [0x00] END_REQSTACK()
+     0x077D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0782 [0x00] END_REQSTACK()
+     0x0783 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0788 [0x00] END_REQSTACK()
+     0x0789 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x078E [0x00] END_REQSTACK()
+     0x078F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302861/0x800C800D))
+     0x0794 [0x00] END_REQSTACK()
+     0x0795 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x079A [0x00] END_REQSTACK()
+     0x079B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07A0 [0x00] END_REQSTACK()
+     0x07A1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07A6 [0x00] END_REQSTACK()
+     0x07A7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07AC [0x00] END_REQSTACK()
+     0x07AD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07B2 [0x00] END_REQSTACK()
+     0x07B3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07B8 [0x00] END_REQSTACK()
+     0x07B9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07BE [0x00] END_REQSTACK()
+     0x07BF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07C4 [0x00] END_REQSTACK()
+     0x07C5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07CA [0x00] END_REQSTACK()
+     0x07CB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07D0 [0x00] END_REQSTACK()
+     0x07D1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07D6 [0x00] END_REQSTACK()
+     0x07D7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07DC [0x00] END_REQSTACK()
+     0x07DD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07E2 [0x00] END_REQSTACK()
+     0x07E3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x07E8 [0x00] END_REQSTACK()
+```

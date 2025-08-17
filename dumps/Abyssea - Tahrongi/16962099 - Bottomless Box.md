@@ -1,0 +1,252 @@
+# 16962099 - Bottomless Box
+
+## Common Data
+
+| Field            | Value                       |
+|------------------|-----------------------------|
+| Zone             | Abyssea - Tahrongi (ID: 45) |
+| Block Size       | 620 bytes                   |
+| Total Events     | 2                           |
+| References Count | 27                          |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [312](#event-312)     | 0x0001       |    484 |             99 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0078      |         120 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x1EB5      |        7861 |
+|       3 | 0x0152      |         338 |
+|       4 | 0x1EB7      |        7863 |
+|       5 | 0x1EB8      |        7864 |
+|       6 | 0x1EC0      |        7872 |
+|       7 | 0x1EC1      |        7873 |
+|       8 | 0x0800      |        2048 |
+|       9 | 0x003C      |          60 |
+|      10 | 0x1EC2      |        7874 |
+|      11 | 0x0001      |           1 |
+|      12 | 0x1EB2      |        7858 |
+|      13 | 0x0002      |           2 |
+|      14 | 0x1EB3      |        7859 |
+|      15 | 0x0003      |           3 |
+|      16 | 0x1EB4      |        7860 |
+|      17 | 0x1EB9      |        7865 |
+|      18 | 0x1EBA      |        7866 |
+|      19 | 0x1EBB      |        7867 |
+|      20 | 0x1EBC      |        7868 |
+|      21 | 0x000B      |          11 |
+|      22 | 0x1EBD      |        7869 |
+|      23 | 0x00B4      |         180 |
+|      24 | 0x000D      |          13 |
+|      25 | 0x1EBE      |        7870 |
+|      26 | 0x1EBF      |        7871 |
+
+## String References
+
+- **7858**: The box is stocked full with tanks of distilled water. There is not a starfruit among them...
+- **7859**: The box is nearly overflowing with unfamiliar flower petals of various hues. There is not a starfruit among them...
+- **7860**: The box contains an assortment of tomes, old and new, on various subjects. There is not a starfruit among them...
+- **7861**: The box contains a large, luscious white fruit that exudes a sweet aroma. No doubt about it: this is the starfruit you're looking for!
+- **7869**: Kopuro-Popuro gazes sweetly at the bottomless box, his eyes beaming with joy.
+- **7870**: Kopuro-Popuro claps his hands and laughs charmingly at the bottomless box.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 312
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 484 bytes |
+| Instructions | 99        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 03 00 00 02 10 03  01 00 03 10 2C F8 FF FF   B..........,...
+0010: 7F F8 FF FF 7F 6F 70 65  6E 1C 00 80 02 00 00 01  .....open.......
+0020: 80 80 CC 00 48 02 80 23  02 01 00 01 80 00 7D 00  ....H..#......}.
+0030: 4A 32 D2 02 01 F0 FF FF  7F 6F 76 32 D2 02 01 5B  J2.......ov2...[
+0040: 03 80 32 D2 02 01 32 D2  02 01 73 68 6B 30 2B 32  ..2...2...shk0+2
+0050: D2 02 01 04 80 23 53 32  D2 02 01 32 D2 02 01 73  .....#S2...2...s
+0060: 68 6B 30 4A F0 FF FF 7F  32 D2 02 01 6F 76 F0 FF  hk0J....2...ov..
+0070: FF 7F 2B 32 D2 02 01 05  80 23 01 C9 00 4A 32 D2  ..+2.....#...J2.
+0080: 02 01 F0 FF FF 7F 4A F0  FF FF 7F 32 D2 02 01 6F  ......J....2...o
+0090: 76 32 D2 02 01 6F 76 F0  FF FF 7F 2B 32 D2 02 01  v2...ov....+2...
+00A0: 06 80 23 2B 32 D2 02 01  07 80 23 3A 32 D2 02 01  ..#+2.....#:2...
+00B0: 02 00 07 02 00 08 80 4B  32 D2 02 01 02 00 1C 09  .......K2.......
+00C0: 80 2B 32 D2 02 01 0A 80  23 01 02 01 02 00 00 0B  .+2.....#.......
+00D0: 80 80 DE 00 48 0C 80 23  1C 09 80 01 02 01 02 00  ....H..#........
+00E0: 00 0D 80 80 F0 00 48 0E  80 23 1C 09 80 01 02 01  ......H..#......
+00F0: 02 00 00 0F 80 80 02 01  48 10 80 23 1C 09 80 01  ........H..#....
+0100: 02 01 02 00 00 01 80 02  D3 01 02 01 00 01 80 00  ................
+0110: D0 01 2C F8 FF FF 7F F8  FF FF 7F 63 6C 6F 73 1C  ..,........clos.
+0120: 00 80 4A 32 D2 02 01 F0  FF FF 7F 6F 76 32 D2 02  ..J2.......ov2..
+0130: 01 2B 32 D2 02 01 11 80  23 4A F0 FF FF 7F 32 D2  .+2.....#J....2.
+0140: 02 01 6F 76 F0 FF FF 7F  2B 32 D2 02 01 12 80 23  ..ov....+2.....#
+0150: 2B 32 D2 02 01 13 80 23  2B 32 D2 02 01 14 80 23  +2.....#+2.....#
+0160: 4A 32 D2 02 01 F8 FF FF  7F 4A F0 FF FF 7F F8 FF  J2.......J......
+0170: FF 7F 6F 76 32 D2 02 01  6F 76 F0 FF FF 7F 6E 32  ..ov2...ov....n2
+0180: D2 02 01 15 80 99 32 D2  02 01 49 32 D2 02 01 16  ......2...I2....
+0190: 80 1C 17 80 6E 32 D2 02  01 18 80 99 32 D2 02 01  ....n2......2...
+01A0: 49 32 D2 02 01 19 80 1C  17 80 4A 32 D2 02 01 F0  I2........J2....
+01B0: FF FF 7F 4A F0 FF FF 7F  32 D2 02 01 6F 76 32 D2  ...J....2...ov2.
+01C0: 02 01 6F 76 F0 FF FF 7F  2B 32 D2 02 01 1A 80 23  ..ov....+2.....#
+01D0: 01 E3 01 2C F8 FF FF 7F  F8 FF FF 7F 63 6C 6F 73  ...,........clos
+01E0: 1C 00 80 21 00                                    ...!.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  2: 0x0007 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
+  3: 0x000C [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [EventEntity, EventEntity]
+  4: 0x0019 [0x1C] WAIT(120* ticks)
+  5: 0x001C [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00CC
+  6: 0x0024 [0x48] [System] [7861*]:
+    → "The box contains a large, luscious white fruit that exudes a sweet aroma. No doubt about it: this is the starfruit you're looking for!"
+  7: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0028 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x007D
+  9: 0x0030 [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at LocalPlayer
+ 10: 0x0039 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 11: 0x003A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
+ 12: 0x003F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "shk0" with entities [Kopuro-Popuro (ID: 16962098/0x0102D232), Kopuro-Popuro (ID: 16962098/0x0102D232)], work=338*
+ 13: 0x004E [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7863*]:
+    → "What's this...!? She gave you your starfruitaru on your first asking?"
+ 14: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x0056 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "shk0" with entities [Kopuro-Popuro (ID: 16962098/0x0102D232), Kopuro-Popuro (ID: 16962098/0x0102D232)]
+ 16: 0x0063 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 16962098/0x0102D232)
+ 17: 0x006C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 18: 0x006D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
+ 19: 0x0072 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7864*]:
+    → "That's a rarity-warity, my friend. Boxuxu must have taken a fancy to you! Perhaps she likes you even more than...<sniff>...me? Perish the thoughtaru!"
+ 20: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 21: 0x007A [0x01] GOTO 0x00C9
+ 22: 0x007D [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at LocalPlayer
+ 23: 0x0086 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 16962098/0x0102D232)
+ 24: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 25: 0x0090 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
+ 26: 0x0095 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 27: 0x0096 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
+ 28: 0x009B [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7872*]:
+    → "Why, there you go. I told you she was a sweetaru and understanding girl!"
+ 29: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 30: 0x00A3 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7873*]:
+    → "Don't forgetaru to say your thank-yous, now! If there's one thing Boxuxu can't stand, it's someone who doesn't know their manners-wanners."
+ 31: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x00AB [0x3A] CONVERT_YAW_TO_BYTE(entity=Kopuro-Popuro (ID: 16962098/0x0102D232), result_destination=ExtData[1]->WorkLocal[2])
+ 33: 0x00B2 [0x07] ExtData[1]->WorkLocal[2] += 2048*
+ 34: 0x00B7 [0x4B] UPDATE_ENTITY_YAW(entity=Kopuro-Popuro (ID: 16962098/0x0102D232), yaw=ExtData[1]->WorkLocal[2])
+ 35: 0x00BE [0x1C] WAIT(60* ticks)
+ 36: 0x00C1 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7874*]:
+    → "<Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!"
+ 37: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_00C9:
+ 38: 0x00C9 [0x01] GOTO 0x0102
+ 39: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00DE
+ 40: 0x00D4 [0x48] [System] [7858*]:
+    → "The box is stocked full with tanks of distilled water. There is not a starfruit among them..."
+ 41: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 42: 0x00D8 [0x1C] WAIT(60* ticks)
+ 43: 0x00DB [0x01] GOTO 0x0102
+ 44: 0x00DE [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00F0
+ 45: 0x00E6 [0x48] [System] [7859*]:
+    → "The box is nearly overflowing with unfamiliar flower petals of various hues. There is not a starfruit among them..."
+ 46: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 47: 0x00EA [0x1C] WAIT(60* ticks)
+ 48: 0x00ED [0x01] GOTO 0x0102
+ 49: 0x00F0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0102
+ 50: 0x00F8 [0x48] [System] [7860*]:
+    → "The box contains an assortment of tomes, old and new, on various subjects. There is not a starfruit among them..."
+ 51: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 52: 0x00FC [0x1C] WAIT(60* ticks)
+ 53: 0x00FF [0x01] GOTO 0x0102
+
+SUBROUTINE_0102:
+ 54: 0x0102 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x01D3
+ 55: 0x010A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01D0
+ 56: 0x0112 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [EventEntity, EventEntity]
+ 57: 0x011F [0x1C] WAIT(120* ticks)
+ 58: 0x0122 [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at LocalPlayer
+ 59: 0x012B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 60: 0x012C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
+ 61: 0x0131 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7865*]:
+    → "No luck? That's no surprise. Boxuxu is a sweetaruheart, but she can be a bit coy among unfamiliar-wiliar faces."
+ 62: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 63: 0x0139 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 16962098/0x0102D232)
+ 64: 0x0142 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 65: 0x0143 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
+ 66: 0x0148 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7866*]:
+    → "No, I fear you'll have to work a bit harder to earn her favor."
+ 67: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 68: 0x0150 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7867*]:
+    → "How, you say? Why, have you never [courtarued/befriended] a young lass before!?"
+ 69: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 70: 0x0158 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7868*]:
+    → "At any rataru, it's all about sharing-waring one's happiness. Like this!"
+ 71: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 72: 0x0160 [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at EventEntity
+ 73: 0x0169 [0x4A] LocalPlayer looks at EventEntity
+ 74: 0x0172 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 75: 0x0173 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
+ 76: 0x0178 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 77: 0x0179 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
+ 78: 0x017E [0x6E] Kopuro-Popuro (ID: 16962098/0x0102D232) uses emote 11*
+ 79: 0x0185 [0x99] Wait for Kopuro-Popuro (ID: 16962098/0x0102D232) animation to complete
+ 80: 0x018A [0x49] Kopuro-Popuro (ID: 16962098/0x0102D232) (No speaker name) [7869*]:
+ 81: 0x0191 [0x1C] WAIT(180* ticks)
+ 82: 0x0194 [0x6E] Kopuro-Popuro (ID: 16962098/0x0102D232) uses emote 13*
+ 83: 0x019B [0x99] Wait for Kopuro-Popuro (ID: 16962098/0x0102D232) animation to complete
+ 84: 0x01A0 [0x49] Kopuro-Popuro (ID: 16962098/0x0102D232) (No speaker name) [7870*]:
+ 85: 0x01A7 [0x1C] WAIT(180* ticks)
+ 86: 0x01AA [0x4A] Kopuro-Popuro (ID: 16962098/0x0102D232) looks at LocalPlayer
+ 87: 0x01B3 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 16962098/0x0102D232)
+ 88: 0x01BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 89: 0x01BD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kopuro-Popuro (ID: 16962098/0x0102D232) Render.Flags0 and Render.Flags3 conditions are met
+ 90: 0x01C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 91: 0x01C3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
+ 92: 0x01C8 [0x2B] Kopuro-Popuro (ID: 16962098/0x0102D232) [7871*]:
+    → "Be bright and cheery-weery, and Boxuxu will surely take a fancy to you. Heaven knows we could all use a few more smiles in this dark and desolataru world..."
+ 93: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 94: 0x01D0 [0x01] GOTO 0x01E3
+ 95: 0x01D3 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [EventEntity, EventEntity]
+ 96: 0x01E0 [0x1C] WAIT(120* ticks)
+
+SUBROUTINE_01E3:
+ 97: 0x01E3 [0x21] END_EVENT
+ 98: 0x01E4 [0x00] END_REQSTACK()
+```

@@ -1,0 +1,200 @@
+# 17101317 - Heavy Iron Gate
+
+## Common Data
+
+| Field            | Value                  |
+|------------------|------------------------|
+| Zone             | Caedarva Mire (ID: 79) |
+| Block Size       | 432 bytes              |
+| Total Events     | 3                      |
+| References Count | 10                     |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [120](#event-120)     | 0x0001       |    181 |             34 |
+| [121](#event-121)     | 0x00B6       |    181 |             34 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CA4      |        7332 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x00C8      |         200 |
+|       4 | 0x003C      |          60 |
+|       5 | 0x0013      |          19 |
+|       6 | 0x00D9      |         217 |
+|       7 | 0x00B4      |         180 |
+|       8 | 0x00F0      |         240 |
+|       9 | 0x1CA5      |        7333 |
+
+## String References
+
+- **7332**: Enter the gate? [Yes./No.]
+- **7333**: Leave through the gate? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 120
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 181 bytes |
+| Instructions | 34        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 20 01 24 00 80  01 80 02 80 25 02 00 10    . .$......%...
+0010: 02 80 00 A2 00 43 00 43  01 46 01 42 45 03 80 F0  .....C.C.F.BE...
+0020: FF FF 7F F0 FF FF 7F 66  64 6F 31 02 80 1C 04 80  .......fdo1.....
+0030: 38 05 80 45 06 80 F0 FF  FF 7F F0 FF FF 7F 7A 37  8..E..........z7
+0040: 39 61 02 80 29 01 F0 FF  FF 7F 08 29 01 F0 FF FF  9a..)......)....
+0050: 7F 06 45 03 80 F0 FF FF  7F F0 FF FF 7F 66 64 69  ..E..........fdi
+0060: 31 02 80 1C 04 80 4C 1C  04 80 27 01 F0 FF FF 7F  1.....L...'.....
+0070: 07 1C 07 80 45 03 80 F0  FF FF 7F F0 FF FF 7F 66  ....E..........f
+0080: 64 6F 31 02 80 1C 04 80  4D 46 00 1C 08 80 45 03  do1.....MF....E.
+0090: 80 F0 FF FF 7F F0 FF FF  7F 66 64 69 31 02 80 01  .........fdi1...
+00A0: B2 00 02 00 10 01 80 00  B2 00 03 01 10 02 80 01  ................
+00B0: B2 00 20 00 21 00                                 .. .!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+    → "Enter the gate? [Yes./No.]"
+  3: 0x000C [0x25] WAIT_DIALOG_SELECT()
+  4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A2
+  5: 0x0015 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  6: 0x0017 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  7: 0x0019 [0x46] CAMERA_CONTROL: Disable user control
+  8: 0x001B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  9: 0x001C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 10: 0x002D [0x1C] WAIT(60* ticks)
+ 11: 0x0030 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 12: 0x0033 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z79a" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
+ 13: 0x0044 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x08)
+ 14: 0x004B [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x06)
+ 15: 0x0052 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 16: 0x0063 [0x1C] WAIT(60* ticks)
+ 17: 0x0066 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 18: 0x0067 [0x1C] WAIT(60* ticks)
+ 19: 0x006A [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x07)
+ 20: 0x0071 [0x1C] WAIT(180* ticks)
+ 21: 0x0074 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 22: 0x0085 [0x1C] WAIT(60* ticks)
+ 23: 0x0088 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 24: 0x0089 [0x46] CAMERA_CONTROL: Restore default settings
+ 25: 0x008B [0x1C] WAIT(240* ticks)
+ 26: 0x008E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 27: 0x009F [0x01] GOTO 0x00B2
+ 28: 0x00A2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B2
+ 29: 0x00AA [0x03] Work_Zone[1] = 0*
+ 30: 0x00AF [0x01] GOTO 0x00B2
+
+SUBROUTINE_00B2:
+ 31: 0x00B2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 32: 0x00B4 [0x21] END_EVENT
+ 33: 0x00B5 [0x00] END_REQSTACK()
+```
+
+### Event 121
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x00B6    |
+| Data Size    | 181 bytes |
+| Instructions | 34        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00B0:                   20 01  20 01 24 09 80 01 80 02         . .$.....
+00C0: 80 25 02 00 10 02 80 00  57 01 43 00 43 01 46 01  .%......W.C.C.F.
+00D0: 42 45 03 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  BE..........fdo1
+00E0: 02 80 1C 04 80 38 05 80  45 06 80 F0 FF FF 7F F0  .....8..E.......
+00F0: FF FF 7F 7A 37 39 62 02  80 29 01 F0 FF FF 7F 0B  ...z79b..)......
+0100: 29 01 F0 FF FF 7F 09 45  03 80 F0 FF FF 7F F0 FF  )......E........
+0110: FF 7F 66 64 69 31 02 80  1C 04 80 4C 1C 04 80 27  ..fdi1.....L...'
+0120: 01 F0 FF FF 7F 0A 1C 07  80 45 03 80 F0 FF FF 7F  .........E......
+0130: F0 FF FF 7F 66 64 6F 31  02 80 1C 04 80 4D 46 00  ....fdo1.....MF.
+0140: 1C 08 80 45 03 80 F0 FF  FF 7F F0 FF FF 7F 66 64  ...E..........fd
+0150: 69 31 02 80 01 67 01 02  00 10 01 80 00 67 01 03  i1...g.......g..
+0160: 01 10 02 80 01 67 01 20  00 21 00                 .....g. .!.     
+```
+
+#### Opcodes
+
+```
+  0: 0x00B6 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x00B8 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  2: 0x00BA [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
+    → "Leave through the gate? [Yes./No.]"
+  3: 0x00C1 [0x25] WAIT_DIALOG_SELECT()
+  4: 0x00C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0157
+  5: 0x00CA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  6: 0x00CC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  7: 0x00CE [0x46] CAMERA_CONTROL: Disable user control
+  8: 0x00D0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  9: 0x00D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 10: 0x00E2 [0x1C] WAIT(60* ticks)
+ 11: 0x00E5 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 12: 0x00E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z79b" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
+ 13: 0x00F9 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x0B)
+ 14: 0x0100 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x09)
+ 15: 0x0107 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 16: 0x0118 [0x1C] WAIT(60* ticks)
+ 17: 0x011B [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 18: 0x011C [0x1C] WAIT(60* ticks)
+ 19: 0x011F [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x0A)
+ 20: 0x0126 [0x1C] WAIT(180* ticks)
+ 21: 0x0129 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 22: 0x013A [0x1C] WAIT(60* ticks)
+ 23: 0x013D [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 24: 0x013E [0x46] CAMERA_CONTROL: Restore default settings
+ 25: 0x0140 [0x1C] WAIT(240* ticks)
+ 26: 0x0143 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 27: 0x0154 [0x01] GOTO 0x0167
+ 28: 0x0157 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0167
+ 29: 0x015F [0x03] Work_Zone[1] = 0*
+ 30: 0x0164 [0x01] GOTO 0x0167
+
+SUBROUTINE_0167:
+ 31: 0x0167 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 32: 0x0169 [0x21] END_EVENT
+ 33: 0x016A [0x00] END_REQSTACK()
+```

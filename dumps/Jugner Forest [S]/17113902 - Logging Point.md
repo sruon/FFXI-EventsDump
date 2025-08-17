@@ -1,0 +1,127 @@
+# 17113902 - Logging Point
+
+## Common Data
+
+| Field            | Value                      |
+|------------------|----------------------------|
+| Zone             | Jugner Forest [S] (ID: 82) |
+| Block Size       | 168 bytes                  |
+| Total Events     | 2                          |
+| References Count | 9                          |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [901](#event-901)     | 0x0001       |    104 |             26 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0028      |          40 |
+|       1 | 0x03FD      |        1021 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x1BB5      |        7093 |
+|       4 | 0xFFFFFBCD  |  4294966221 |
+|       5 | 0x1BB3      |        7091 |
+|       6 | 0x1BB2      |        7090 |
+|       7 | 0x1BB4      |        7092 |
+|       8 | 0x1BB6      |        7094 |
+
+## String References
+
+- **7090**: Your $7 breaks!
+- **7091**: You successfully cut off $0!
+- **7092**: You cut off $0, but your $7 breaks in the process.
+- **7093**: You are unable to log anything.
+- **7094**: You cannot carry any more items. Your inventory is full.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 901
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 104 bytes |
+| Instructions | 26        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 6E F0 FF FF 7F 00  80 99 F0 FF FF 7F 03 09   Bn.............
+0010: 10 01 80 03 00 00 06 10  02 04 10 02 80 00 64 00  ..............d.
+0020: 02 03 10 02 80 00 46 00  02 02 10 02 80 00 36 00  ......F.......6.
+0030: 48 03 80 01 43 00 02 02  10 04 80 00 40 00 21 00  H...C.......@.!.
+0040: 48 05 80 01 61 00 02 02  10 02 80 00 54 00 48 06  H...a.......T.H.
+0050: 80 01 61 00 02 02 10 04  80 00 5E 00 21 00 48 07  ..a.......^.!.H.
+0060: 80 01 67 00 48 08 80 21  00                       ..g.H..!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x6E] LocalPlayer uses emote 40*
+  2: 0x0009 [0x99] Wait for LocalPlayer animation to complete
+  3: 0x000E [0x03] Work_Zone[9] = 1021*
+  4: 0x0013 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[6]
+  5: 0x0018 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0064
+  6: 0x0020 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0046
+  7: 0x0028 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0036
+  8: 0x0030 [0x48] [System] [7093*]:
+    → "You are unable to log anything."
+  9: 0x0033 [0x01] GOTO 0x0043
+ 10: 0x0036 [0x02] IF !(Work_Zone[2] == 4294966221*) GOTO 0x0040
+ 11: 0x003E [0x21] END_EVENT
+ 12: 0x003F [0x00] END_REQSTACK()
+ 13: 0x0040 [0x48] [System] [7091*]:
+    → "You successfully cut off $0!"
+
+SUBROUTINE_0043:
+ 14: 0x0043 [0x01] GOTO 0x0061
+ 15: 0x0046 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0054
+ 16: 0x004E [0x48] [System] [7090*]:
+    → "Your $7 breaks!"
+ 17: 0x0051 [0x01] GOTO 0x0061
+ 18: 0x0054 [0x02] IF !(Work_Zone[2] == 4294966221*) GOTO 0x005E
+ 19: 0x005C [0x21] END_EVENT
+ 20: 0x005D [0x00] END_REQSTACK()
+ 21: 0x005E [0x48] [System] [7092*]:
+    → "You cut off $0, but your $7 breaks in the process."
+
+SUBROUTINE_0061:
+ 22: 0x0061 [0x01] GOTO 0x0067
+ 23: 0x0064 [0x48] [System] [7094*]:
+    → "You cannot carry any more items. Your inventory is full."
+
+SUBROUTINE_0067:
+ 24: 0x0067 [0x21] END_EVENT
+ 25: 0x0068 [0x00] END_REQSTACK()
+```

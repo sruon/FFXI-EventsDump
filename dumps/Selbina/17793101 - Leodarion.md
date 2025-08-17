@@ -1,0 +1,74 @@
+# 17793101 - Leodarion
+
+## Common Data
+
+| Field            | Value             |
+|------------------|-------------------|
+| Zone             | Selbina (ID: 248) |
+| Block Size       | 56 bytes          |
+| Total Events     | 2                 |
+| References Count | 4                 |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [1101](#event-1101)   | 0x0001       |     12 |              3 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x4506      |       17670 |
+|       1 | 0xFFFF5F62  |  4294926178 |
+|       2 | 0xFFFFF602  |  4294964738 |
+|       3 | 0x04B4      |        1204 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 1101
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    22 00 37 00 80 01 80  02 80 03 80 00            ".7.........   
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+  1: 0x0003 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=17.670*, z=-41.118*, y=-2.558*, direction=105.8°*
+  2: 0x000C [0x00] END_REQSTACK()
+```

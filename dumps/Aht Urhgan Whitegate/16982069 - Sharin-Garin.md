@@ -11,14 +11,14 @@
 
 ## List of Events
 
-| Event ID                  | Entrypoint   |   Size |   Instructions |
-|---------------------------|--------------|--------|----------------|
-| [65535](#event-65535)     | 0x0000       |      1 |              1 |
-| [140](#event-140)         | 0x0001       |     54 |              8 |
-| [141](#event-141)         | 0x0037       |     54 |              8 |
-| [142](#event-142)         | 0x006D       |    920 |            167 |
-| [269](#event-269)         | 0x0405       |      1 |              1 |
-| [65535.1](#event-65535-1) | 0x0406       |     75 |             11 |
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [140](#event-140)        | 0x0001       |     54 |              8 |
+| [141](#event-141)        | 0x0037       |     54 |              8 |
+| [142](#event-142)        | 0x006D       |    920 |            167 |
+| [269](#event-269)        | 0x0405       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0406       |     75 |             11 |
 
 ## DAT References (imed_data)
 
@@ -66,6 +66,36 @@
 |      39 | 0x001E      |          30 |
 |      40 | 0x0078      |         120 |
 |      41 | 0x002A      |          42 |
+
+## String References
+
+- **4629**: Welcome to the Chamber of Passage. From here, you can travel to the Assault staging points. Is there anything else you wish to know?
+- **4630**: Ask about... [Nothing./Using runic portals./The Chamber of Passage./Staging Points./Assault.]
+- **4631**: You may freely use the runic portals if you possess an Assault order.
+- **4632**: However, you must be carrying $6 if you are not participating in an Assault mission.
+- **4633**: Your Imperial Standing is currently equal to $3 points. If you wish, you can purchase $6 with $5 points.
+- **4634**: Your rank of captain allows you to purchase $6 free of charge.
+- **4635**: Purchase $6? [Yes./No.]
+- **4636**: Here is your $3. You will lose it upon a single use, but have no worry, as you will have no need for it upon your return.
+- **4637**: What's this? I am afraid that you already have a $3 in your possession.
+- **4638**: Hmmm...
+- **4639**: What's this? I am afraid your Imperial Standing is not high enough. Come back when you have more experience!
+- **4640**: What's this? You haven't registered as a mercenary yet? Make your way to Salaheem's Sentinels, now, and you'll discover a whole side of yourself you never knew!
+- **4641**: Ah, the Astral Candescence is too far for its waves to reach the portals now, so we have to conserve their energy.
+- **4642**: I'm sorry, but we have orders from the Empire forbidding us from distributing a single $3 until the Astral Candescence is back out of the beastmen's stronghold and safe here in town.
+- **4643**: Is there anything else you wanted to ask?
+- **4644**: This Chamber of Passage was built so the Empire could send soldiers to Assault areas at a moment's notice.
+- **4645**: You can use the runic portals inside to travel to a staging point in the blink of an eye.
+- **4646**: You've got to open the way first by activating the portal at the staging point, though.
+- **4647**: Staging points are used to keep surveillance on Assault areas. There are several in the areas of West Aht Urhgan.
+- **4648**: Which staging point will you ask about? [None./Azouph Isle./Dvucca Isle./Mamool Ja./Halvung./Ilrusi Atoll.]
+- **4649**: The Azouph Isle staging point keeps watch over Leujaoam Sanctum. It is located to the east of Nashmau, beyond the Deadmist Marsh.
+- **4650**: The Mamool Ja staging point keeps watch over the Mamool Ja Training Grounds. It is located to the west of Mamook.
+- **4651**: The Halvung staging point keeps watch over Lebros Caverns. It is located in the northern regions of Mount Zhayolm.
+- **4652**: The Dvucca Isle staging point keeps watch over Periqia. It is located on an island to the west of Nashmau.
+- **4653**: The Ilrusi Atoll staging point keeps watch over its namesake--the Ilrusi Atoll. It can be found in a rather dark cave to the north of Arrapago Reef.
+- **4654**: If you would like information on Assault, please visit the Commissions Agency, right across the way from this building.
+- **4655**: Hmmm...
 
 ## Events
 
@@ -117,7 +147,7 @@
   1: 0x0003 [0x79] Sharin-Garin (ID: 16982069/0x01032035) looks at LocalPlayer (Basic look)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=34*
   3: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=4629*)
-    → "Welcome to the Chamber of Passage.\u0007From here, you can travel to the Assault staging points. Is there anything else you wish to know?\u007F1\u0000\u0007"
+    → "Welcome to the Chamber of Passage. From here, you can travel to the Assault staging points. Is there anything else you wish to know?"
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0020 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=34*
   6: 0x002F [0x27] REQ_SET(priority=0x01, entity_id=Sharin-Garin (ID: 16982069/0x01032035), tag_num=0x03)
@@ -150,7 +180,7 @@
   1: 0x0039 [0x79] Sharin-Garin (ID: 16982069/0x01032035) looks at LocalPlayer (Basic look)
   2: 0x0043 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=34*
   3: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=4643*)
-    → "Is there anything else you wanted to ask?\u007F1\u0000\u0007"
+    → "Is there anything else you wanted to ask?"
   4: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0056 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=34*
   6: 0x0065 [0x27] REQ_SET(priority=0x01, entity_id=Sharin-Garin (ID: 16982069/0x01032035), tag_num=0x03)
@@ -235,7 +265,7 @@
 
 ```
   0: 0x006D [0x24] CREATE_DIALOG(message_id=4630*, default_option=0*, option_flags=0*)
-    → "Ask about...\u0007\u000BNothing.\u0007Using runic portals.\u0007The Chamber of Passage.\u0007Staging Points.\u0007Assault.\u007F1\u0000\u0007"
+    → "Ask about... [Nothing./Using runic portals./The Chamber of Passage./Staging Points./Assault.]"
   1: 0x0074 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0075 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0081
   3: 0x007D [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -245,36 +275,34 @@
   7: 0x008A [0x79] Sharin-Garin (ID: 16982069/0x01032035) looks at LocalPlayer (Basic look)
   8: 0x0094 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=34*
   9: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=4631*)
-    → "You may freely use the runic portals if you possess an Assault order.\u007F1\u0000\u0007"
+    → "You may freely use the runic portals if you possess an Assault order."
  10: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00A7 [0x03] Work_Zone[2] = 782*
  12: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=4632*)
-    → "However, you must be carrying \u0001\u00056\u0002\u0000\u0000\u0000 if you are not participating in an Assault mission.\u007F1\u0000\u0007"
+    → "However, you must be carrying $6 if you are not participating in an Assault mission."
  13: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00B0 [0x03] Work_Zone[7] = 200*
  15: 0x00B5 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x00C4
  16: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=4633*)
-    → "Your Imperial Standing is currently equal to 
-\u0003 points. If you wish, you can purchase \u0001\u00056\u0002\u0000\u0000\u0000 with 
-\u0005 points.\u007F1\u0000\u0007"
+    → "Your Imperial Standing is currently equal to $3 points. If you wish, you can purchase $6 with $5 points."
  17: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00C1 [0x01] GOTO 0x00C8
  19: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=4634*)
-    → "Your rank of captain allows you to purchase \u0001\u00056\u0002\u0000\u0000\u0000 free of charge.\u007F1\u0000\u0007"
+    → "Your rank of captain allows you to purchase $6 free of charge."
  20: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00C8:
  21: 0x00C8 [0x24] CREATE_DIALOG(message_id=4635*, default_option=1*, option_flags=0*)
-    → "Purchase \u0001\u00056\u0002\u0000\u0000\u0000?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Purchase $6? [Yes./No.]"
  22: 0x00CF [0x25] WAIT_DIALOG_SELECT()
  23: 0x00D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EB
  24: 0x00D8 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0111
  25: 0x00E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=40*
  26: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=4641*)
-    → "Ah, the Astral Candescence is too far for its waves to reach the portals now, so we have to conserve their energy.\u007F1\u0000\u0007"
+    → "Ah, the Astral Candescence is too far for its waves to reach the portals now, so we have to conserve their energy."
  27: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=4642*)
-    → "I'm sorry, but we have orders from the Empire forbidding us from distributing a single \u0001\u00053\u0002\u0000\u0000\u0000 until the Astral Candescence is back out of the beastmen's stronghold and safe here in town.\u007F1\u0000\u0007"
+    → "I'm sorry, but we have orders from the Empire forbidding us from distributing a single $3 until the Astral Candescence is back out of the beastmen's stronghold and safe here in town."
  29: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=40*
  31: 0x0106 [0x27] REQ_SET(priority=0x01, entity_id=Sharin-Garin (ID: 16982069/0x01032035), tag_num=0x02)
@@ -286,7 +314,7 @@ SUBROUTINE_01C2:
  35: 0x01D4 [0x1C] WAIT(60* ticks)
  36: 0x01D7 [0x03] Work_Zone[2] = 782*
  37: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=4637*)
-    → "What's this? I am afraid that you already have a \u0001\u00053\u0002\u0000\u0000\u0000 in your possession.\u007F1\u0000\u0007"
+    → "What's this? I am afraid that you already have a $3 in your possession."
  38: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x01E0 [0x27] REQ_SET(priority=0x01, entity_id=Sharin-Garin (ID: 16982069/0x01032035), tag_num=0x02)
  40: 0x01E7 [0x00] END_REQSTACK()
@@ -296,7 +324,7 @@ SUBROUTINE_01E8:
  42: 0x01EB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0220
  43: 0x01F3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=40*
  44: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=4638*)
-    → "Hmmm...\u007F1\u0000\u0007"
+    → "Hmmm..."
  45: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0206 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=40*
  47: 0x0215 [0x27] REQ_SET(priority=0x01, entity_id=Sharin-Garin (ID: 16982069/0x01032035), tag_num=0x02)
@@ -309,13 +337,13 @@ SUBROUTINE_0220:
  52: 0x022C [0x79] Sharin-Garin (ID: 16982069/0x01032035) looks at LocalPlayer (Basic look)
  53: 0x0236 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=34*
  54: 0x0245 [0x1D] PRINT_EVENT_MESSAGE(message_id=4644*)
-    → "This Chamber of Passage was built so the Empire could send soldiers to Assault areas at a moment's notice.\u007F1\u0000\u0007"
+    → "This Chamber of Passage was built so the Empire could send soldiers to Assault areas at a moment's notice."
  55: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=4645*)
-    → "You can use the runic portals inside to travel to a staging point in the blink of an eye.\u007F1\u0000\u0007"
+    → "You can use the runic portals inside to travel to a staging point in the blink of an eye."
  57: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=4646*)
-    → "You've got to open the way first by activating the portal at the staging point, though.\u007F1\u0000\u0007"
+    → "You've got to open the way first by activating the portal at the staging point, though."
  59: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0251 [0x27] REQ_SET(priority=0x01, entity_id=Sharin-Garin (ID: 16982069/0x01032035), tag_num=0x02)
  61: 0x0258 [0x00] END_REQSTACK()
@@ -327,7 +355,7 @@ SUBROUTINE_03BE:
  65: 0x03CA [0x79] Sharin-Garin (ID: 16982069/0x01032035) looks at LocalPlayer (Basic look)
  66: 0x03D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Sharin-Garin (ID: 16982069/0x01032035), Sharin-Garin (ID: 16982069/0x01032035)], work=34*
  67: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=4654*)
-    → "If you would like information on Assault, please visit the Commissions Agency, right across the way from this building.\u007F1\u0000\u0007"
+    → "If you would like information on Assault, please visit the Commissions Agency, right across the way from this building."
  68: 0x03E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x03E7 [0x27] REQ_SET(priority=0x01, entity_id=Sharin-Garin (ID: 16982069/0x01032035), tag_num=0x02)
  70: 0x03EE [0x00] END_REQSTACK()

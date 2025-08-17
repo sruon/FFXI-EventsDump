@@ -1,0 +1,291 @@
+# 17666774 - Repair Trunk
+
+## Common Data
+
+| Field            | Value                       |
+|------------------|-----------------------------|
+| Zone             | Abyssea - Vunkerl (ID: 217) |
+| Block Size       | 436 bytes                   |
+| Total Events     | 4                           |
+| References Count | 19                          |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      2 |              2 |
+| [1511](#event-1511)   | 0x0002       |      6 |              4 |
+| [1513](#event-1513)   | 0x0008       |     15 |              7 |
+| [1512](#event-1512)   | 0x0017       |    304 |             80 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1F7B      |        8059 |
+|       1 | 0x065C      |        1628 |
+|       2 | 0x1F84      |        8068 |
+|       3 | 0x1F7C      |        8060 |
+|       4 | 0x1F7D      |        8061 |
+|       5 | 0x0000      |           0 |
+|       6 | 0x1F7E      |        8062 |
+|       7 | 0x0001      |           1 |
+|       8 | 0x1F85      |        8069 |
+|       9 | 0x0002      |           2 |
+|      10 | 0x1F86      |        8070 |
+|      11 | 0x0003      |           3 |
+|      12 | 0x1F87      |        8071 |
+|      13 | 0x1F7F      |        8063 |
+|      14 | 0x1F80      |        8064 |
+|      15 | 0x1F81      |        8065 |
+|      16 | 0x1F82      |        8066 |
+|      17 | 0x0004      |           4 |
+|      18 | 0x1F83      |        8067 |
+
+## String References
+
+- **8059**: The trunk is filled to the brim with ensorceled provisions.
+- **8060**: Begin cramming the provisions into your $3?
+- **8061**: Proceed? [Let the cramming commence!/Not yet.]
+- **8062**: Select an action. [Examine the sack./Cram an elongated flask./Cram a triangular flask./Cram an oil cloth./Finish cramming.]
+- **8063**: The $3 appears to be in perfectly sound condition.
+- **8064**: The $3 feels a little bit taut.
+- **8065**: The $3 is showing signs of stretching.
+- **8066**: The fabric of the $3 is squeaking under the tension.
+- **8067**: The fabric of the $3 is squeaking with extreme urgency.
+- **8068**: A massive rent in the $3 smiles up at you, as if mocking your failure.
+- **8069**: You cram an elongated flask into the $3.
+- **8070**: You cram a triangular flask into the $3.
+- **8071**: You cram an oil cloth into the $3.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 2 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00 00                                             ..              
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 1511
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0002  |
+| Data Size    | 6 bytes |
+| Instructions | 4       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       48 00 80 23 21 00                             H..#!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x48] [System] [8059*]:
+    → "The trunk is filled to the brim with ensorceled provisions."
+  1: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  2: 0x0006 [0x21] END_EVENT
+  3: 0x0007 [0x00] END_REQSTACK()
+```
+
+### Event 1513
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0008   |
+| Data Size    | 15 bytes |
+| Instructions | 7        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                          03 02 10 01 80 48 00 80          .....H..
+0010: 23 48 02 80 23 21 00                              #H..#!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0008 [0x03] Work_Zone[2] = 1628*
+  1: 0x000D [0x48] [System] [8059*]:
+    → "The trunk is filled to the brim with ensorceled provisions."
+  2: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x0011 [0x48] [System] [8068*]:
+    → "A massive rent in the $3 smiles up at you, as if mocking your failure."
+  4: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0015 [0x21] END_EVENT
+  6: 0x0016 [0x00] END_REQSTACK()
+```
+
+### Event 1512
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0017    |
+| Data Size    | 304 bytes |
+| Instructions | 80        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                      48  00 80 23 03 02 10 01 80         H..#.....
+0020: 48 03 80 23 24 04 80 05  80 05 80 25 02 00 10 05  H..#$......%....
+0030: 80 00 CF 00 06 00 00 02  00 00 05 80 00 CC 00 24  ...............$
+0040: 06 80 05 80 05 80 25 02  00 10 05 80 00 5E 00 03  ......%......^..
+0050: 01 10 05 80 43 00 43 01  1A D1 00 01 C9 00 02 00  ....C.C.........
+0060: 10 07 80 00 80 00 03 02  10 01 80 48 08 80 03 01  ...........H....
+0070: 10 07 80 43 00 43 01 1A  36 01 1A D1 00 01 C9 00  ...C.C..6.......
+0080: 02 00 10 09 80 00 A2 00  03 02 10 01 80 48 0A 80  .............H..
+0090: 03 01 10 09 80 43 00 43  01 1A 36 01 1A D1 00 01  .....C.C..6.....
+00A0: C9 00 02 00 10 0B 80 00  C4 00 03 02 10 01 80 48  ...............H
+00B0: 0C 80 03 01 10 0B 80 43  00 43 01 1A 36 01 1A D1  .......C.C..6...
+00C0: 00 01 C9 00 03 00 00 07  80 01 37 00 01 CF 00 21  ..........7....!
+00D0: 00 02 02 10 05 80 80 E5  00 03 02 10 01 80 48 0D  ..............H.
+00E0: 80 23 01 35 01 02 02 10  07 80 80 F9 00 03 02 10  .#.5............
+00F0: 01 80 48 0E 80 23 01 35  01 02 02 10 09 80 80 0D  ..H..#.5........
+0100: 01 03 02 10 01 80 48 0F  80 23 01 35 01 02 02 10  ......H..#.5....
+0110: 0B 80 80 21 01 03 02 10  01 80 48 10 80 23 01 35  ...!......H..#.5
+0120: 01 02 02 10 11 80 80 35  01 03 02 10 01 80 48 12  .......5......H.
+0130: 80 23 01 35 01 1B 02 09  10 05 80 00 41 01 01 46  .#.5........A..F
+0140: 01 03 00 00 07 80 1B                              .......         
+```
+
+#### Opcodes
+
+```
+  0: 0x0017 [0x48] [System] [8059*]:
+    → "The trunk is filled to the brim with ensorceled provisions."
+  1: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
+  2: 0x001B [0x03] Work_Zone[2] = 1628*
+  3: 0x0020 [0x48] [System] [8060*]:
+    → "Begin cramming the provisions into your $3?"
+  4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0024 [0x24] CREATE_DIALOG(message_id=8061*, default_option=0*, option_flags=0*)
+    → "Proceed? [Let the cramming commence!/Not yet.]"
+  6: 0x002B [0x25] WAIT_DIALOG_SELECT()
+  7: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CF
+  8: 0x0034 [0x06] ExtData[1]->WorkLocal[0] = 0
+  9: 0x0037 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00CC
+ 10: 0x003F [0x24] CREATE_DIALOG(message_id=8062*, default_option=0*, option_flags=0*)
+    → "Select an action. [Examine the sack./Cram an elongated flask./Cram a triangular flask./Cram an oil cloth./Finish cramming.]"
+ 11: 0x0046 [0x25] WAIT_DIALOG_SELECT()
+ 12: 0x0047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005E
+ 13: 0x004F [0x03] Work_Zone[1] = 0*
+ 14: 0x0054 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 15: 0x0056 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 16: 0x0058 [0x1A] CALL_SUBROUTINE(address=0x00D1)
+ 17: 0x005B [0x01] GOTO 0x00C9
+ 18: 0x005E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0080
+ 19: 0x0066 [0x03] Work_Zone[2] = 1628*
+ 20: 0x006B [0x48] [System] [8069*]:
+    → "You cram an elongated flask into the $3."
+ 21: 0x006E [0x03] Work_Zone[1] = 1*
+ 22: 0x0073 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 23: 0x0075 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 24: 0x0077 [0x1A] CALL_SUBROUTINE(address=0x0136)
+ 25: 0x007A [0x1A] CALL_SUBROUTINE(address=0x00D1)
+ 26: 0x007D [0x01] GOTO 0x00C9
+ 27: 0x0080 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00A2
+ 28: 0x0088 [0x03] Work_Zone[2] = 1628*
+ 29: 0x008D [0x48] [System] [8070*]:
+    → "You cram a triangular flask into the $3."
+ 30: 0x0090 [0x03] Work_Zone[1] = 2*
+ 31: 0x0095 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 32: 0x0097 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 33: 0x0099 [0x1A] CALL_SUBROUTINE(address=0x0136)
+ 34: 0x009C [0x1A] CALL_SUBROUTINE(address=0x00D1)
+ 35: 0x009F [0x01] GOTO 0x00C9
+ 36: 0x00A2 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00C4
+ 37: 0x00AA [0x03] Work_Zone[2] = 1628*
+ 38: 0x00AF [0x48] [System] [8071*]:
+    → "You cram an oil cloth into the $3."
+ 39: 0x00B2 [0x03] Work_Zone[1] = 3*
+ 40: 0x00B7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 41: 0x00B9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 42: 0x00BB [0x1A] CALL_SUBROUTINE(address=0x0136)
+ 43: 0x00BE [0x1A] CALL_SUBROUTINE(address=0x00D1)
+ 44: 0x00C1 [0x01] GOTO 0x00C9
+ 45: 0x00C4 [0x03] ExtData[1]->WorkLocal[0] = 1*
+
+SUBROUTINE_00C9:
+ 46: 0x00C9 [0x01] GOTO 0x0037
+ 47: 0x00CC [0x01] GOTO 0x00CF
+
+SUBROUTINE_00CF:
+ 48: 0x00CF [0x21] END_EVENT
+ 49: 0x00D0 [0x00] END_REQSTACK()
+
+SUBROUTINE_00D1:
+ 50: 0x00D1 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00E5
+ 51: 0x00D9 [0x03] Work_Zone[2] = 1628*
+ 52: 0x00DE [0x48] [System] [8063*]:
+    → "The $3 appears to be in perfectly sound condition."
+ 53: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 54: 0x00E2 [0x01] GOTO 0x0135
+ 55: 0x00E5 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00F9
+ 56: 0x00ED [0x03] Work_Zone[2] = 1628*
+ 57: 0x00F2 [0x48] [System] [8064*]:
+    → "The $3 feels a little bit taut."
+ 58: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 59: 0x00F6 [0x01] GOTO 0x0135
+ 60: 0x00F9 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x010D
+ 61: 0x0101 [0x03] Work_Zone[2] = 1628*
+ 62: 0x0106 [0x48] [System] [8065*]:
+    → "The $3 is showing signs of stretching."
+ 63: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 64: 0x010A [0x01] GOTO 0x0135
+ 65: 0x010D [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0121
+ 66: 0x0115 [0x03] Work_Zone[2] = 1628*
+ 67: 0x011A [0x48] [System] [8066*]:
+    → "The fabric of the $3 is squeaking under the tension."
+ 68: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 69: 0x011E [0x01] GOTO 0x0135
+ 70: 0x0121 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0135
+ 71: 0x0129 [0x03] Work_Zone[2] = 1628*
+ 72: 0x012E [0x48] [System] [8067*]:
+    → "The fabric of the $3 is squeaking with extreme urgency."
+ 73: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 74: 0x0132 [0x01] GOTO 0x0135
+
+SUBROUTINE_0135:
+ 75: 0x0135 [0x1B] RETURN
+
+SUBROUTINE_0136:
+ 76: 0x0136 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0141
+ 77: 0x013E [0x01] GOTO 0x0146
+ 78: 0x0141 [0x03] ExtData[1]->WorkLocal[0] = 1*
+
+SUBROUTINE_0146:
+ 79: 0x0146 [0x1B] RETURN
+```

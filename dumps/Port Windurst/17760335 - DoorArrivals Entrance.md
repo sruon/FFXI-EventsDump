@@ -1,0 +1,119 @@
+# 17760335 - DoorArrivals Entrance
+
+## Common Data
+
+| Field            | Value                   |
+|------------------|-------------------------|
+| Zone             | Port Windurst (ID: 240) |
+| Block Size       | 196 bytes               |
+| Total Events     | 2                       |
+| References Count | 6                       |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [182](#event-182)     | 0x0001       |    145 |             27 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0001      |           1 |
+|       1 | 0x0DED      |        3565 |
+|       2 | 0x0DEE      |        3566 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x00C8      |         200 |
+|       5 | 0x003C      |          60 |
+
+## String References
+
+- **3566**: Proceed through customs? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 182
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 145 bytes |
+| Instructions | 27        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    29 0B F0 FF FF 7F 0C  02 07 10 00 80 00 78 00   )............x.
+0010: 4A 4D 00 0F 01 F0 FF FF  7F 2B 4D 00 0F 01 01 80  JM.......+M.....
+0020: 23 24 02 80 00 80 03 80  25 02 00 10 03 80 00 75  #$......%......u
+0030: 00 42 46 01 4C 29 0B F0  FF FF 7F 29 45 04 80 F8  .BF.L).....)E...
+0040: FF FF 7F F8 FF FF 7F 66  64 6F 31 03 80 29 0B F0  .......fdo1..)..
+0050: FF FF 7F 2A 4D 29 0B F0  FF FF 7F 26 1C 05 80 45  ...*M).....&...E
+0060: 04 80 F8 FF FF 7F F8 FF  FF 7F 66 64 69 31 03 80  ..........fdi1..
+0070: 46 00 01 75 00 01 8E 00  29 0B F0 FF FF 7F 0E 02  F..u....).......
+0080: 08 10 00 80 00 8E 00 29  0B 45 00 0F 01 05 20 00  .......).E.... .
+0090: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x0C)
+  1: 0x0008 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x0078
+  2: 0x0010 [0x4A] Breanainn (ID: 17760333/0x010F004D) looks at LocalPlayer
+  3: 0x0019 [0x2B] Breanainn (ID: 17760333/0x010F004D) [3565*]:
+    → "We hope you had a pleasant journey. Will you be disembarking here at the Federation of Windurst today?"
+  4: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0021 [0x24] CREATE_DIALOG(message_id=3566*, default_option=1*, option_flags=0*)
+    → "Proceed through customs? [Yes./No.]"
+  6: 0x0028 [0x25] WAIT_DIALOG_SELECT()
+  7: 0x0029 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0075
+  8: 0x0031 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  9: 0x0032 [0x46] CAMERA_CONTROL: Disable user control
+ 10: 0x0034 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 11: 0x0035 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x29)
+ 12: 0x003C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 13: 0x004D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x2A)
+ 14: 0x0054 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 15: 0x0055 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x26)
+ 16: 0x005C [0x1C] WAIT(60* ticks)
+ 17: 0x005F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 18: 0x0070 [0x46] CAMERA_CONTROL: Restore default settings
+ 19: 0x0072 [0x01] GOTO 0x0075
+
+SUBROUTINE_0075:
+ 20: 0x0075 [0x01] GOTO 0x008E
+ 21: 0x0078 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x0E)
+ 22: 0x007F [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x008E
+ 23: 0x0087 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Josefina (ID: 17760325/0x010F0045), tag_num=0x05)
+
+SUBROUTINE_008E:
+ 24: 0x008E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 25: 0x0090 [0x21] END_EVENT
+ 26: 0x0091 [0x00] END_REQSTACK()
+```

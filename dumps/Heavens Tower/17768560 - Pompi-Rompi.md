@@ -1,0 +1,445 @@
+# 17768560 - Pompi-Rompi
+
+## Common Data
+
+| Field            | Value                   |
+|------------------|-------------------------|
+| Zone             | Heavens Tower (ID: 242) |
+| Block Size       | 1040 bytes              |
+| Total Events     | 2                       |
+| References Count | 53                      |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [2001](#event-2001)   | 0x0001       |    801 |            210 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x237E      |        9086 |
+|       1 | 0x237F      |        9087 |
+|       2 | 0x239B      |        9115 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x2390      |        9104 |
+|       6 | 0x0014      |          20 |
+|       7 | 0x2391      |        9105 |
+|       8 | 0x0002      |           2 |
+|       9 | 0x2392      |        9106 |
+|      10 | 0x2393      |        9107 |
+|      11 | 0x0003      |           3 |
+|      12 | 0x2380      |        9088 |
+|      13 | 0x2381      |        9089 |
+|      14 | 0x2382      |        9090 |
+|      15 | 0x2383      |        9091 |
+|      16 | 0x2384      |        9092 |
+|      17 | 0x2385      |        9093 |
+|      18 | 0x2386      |        9094 |
+|      19 | 0x2387      |        9095 |
+|      20 | 0x0004      |           4 |
+|      21 | 0x2388      |        9096 |
+|      22 | 0x2389      |        9097 |
+|      23 | 0x238A      |        9098 |
+|      24 | 0x238B      |        9099 |
+|      25 | 0x238C      |        9100 |
+|      26 | 0x238D      |        9101 |
+|      27 | 0x238E      |        9102 |
+|      28 | 0x238F      |        9103 |
+|      29 | 0x2394      |        9108 |
+|      30 | 0x0064      |         100 |
+|      31 | 0x2398      |        9112 |
+|      32 | 0x239C      |        9116 |
+|      33 | 0x2399      |        9113 |
+|      34 | 0x239A      |        9114 |
+|      35 | 0x0065      |         101 |
+|      36 | 0x0005      |           5 |
+|      37 | 0x0006      |           6 |
+|      38 | 0x0007      |           7 |
+|      39 | 0x000B      |          11 |
+|      40 | 0x2395      |        9109 |
+|      41 | 0x2396      |        9110 |
+|      42 | 0x000C      |          12 |
+|      43 | 0x0066      |         102 |
+|      44 | 0x0067      |         103 |
+|      45 | 0x000D      |          13 |
+|      46 | 0x2397      |        9111 |
+|      47 | 0x0068      |         104 |
+|      48 | 0x0069      |         105 |
+|      49 | 0x0009      |           9 |
+|      50 | 0x000A      |          10 |
+|      51 | 0x000E      |          14 |
+|      52 | 0x000F      |          15 |
+
+## String References
+
+- **9086**: Hello there! I'm Sibyl Celebrant Pompi-Rompi. My job is issuing marriage certificates to married couple-wouples.
+- **9087**: How can I help you today?
+- **9088**: Marriage certificates are legal documentarus that are issued in recognition of the matrimony of two individuals. They also makey-wake lovely wall decorations for your Mog House!
+- **9089**: Couples wanting to receive the certificate mustaru prove their marriage. There are a few ways you can do this.
+- **9090**: The couple should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to me, and the certificates will be yours to take home!
+- **9091**: If you have a wedding ring, though, the procedure can be completarued on your own. Sounds lonely-wonely, I know, but everyone has different circumstances.
+- **9092**: Justaru remember that you can't have more than one certificate at any given time. Also, the nation-wation of issuance for your certificate must be the same as your partner's.
+- **9093**: Oh, and another thing! A misplaced certificate can be reissued, but only by the same officiating body that you firstaru received it from.
+- **9094**: A wedding is a happy-wappy occasion in which two souls broughtaru together by fate are joined as partners in life.
+- **9095**: In Windurstian weddings, there's a custom-wustom known as the "Oath of Blood and Flesh." Sounds scary, but it's actually rather touching. The couple-to-be presentaru each other with food, you see, and after that, wedding ringy-wings are exchanged.
+- **9096**: The firstaru thing you'll need to do is prepare wedding rings--matrimony ring and a matrimony band, to be precise.
+- **9097**: These rings can be synthesized only with super-wuper rare ingredients. That's why they make perfectaru tokens of undying devotion between a couple.
+- **9098**: The trendy-wend these days is to engrave your name onto the ring using a cyclone crystal before giving it to your partner.
+- **9099**: Mostaru brides and grooms choose to wear a wedding dress and a benedight coat respectively on their special-wecial day.
+- **9100**: You can choose to synthesize similar garmentarus for yourself or ask a friend to do it for you. They cost a pretty gil, though.
+- **9101**: But never-wever fear even if you can't afford them! After all, it's your wedding, and you can wear whatever you wantaru to!
+- **9102**: If you have trouble-wouble getting your hands on any of the ceremonial items I've mentioned, they can also be purchased from the chestarus you see here.
+- **9103**: Inside you'll find fireworks, wedding bells, and other items to helpy-welp brighten up your special day. Justaru purchase whatever you need!
+- **9104**: Oh no! It looks like you already have a marriage certificate in your possession. I'm sorry, but I can'taru issue you another.
+- **9105**: Your currentaru job level must be level $2 or more if you wish to receive a marriage certificate.
+- **9106**: I'm sorry, but I can'taru issue you a marriage certificate.
+- **9107**: Married couples wanting marriage certificates should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to the official in chargey-warge, and the certificates will be yours to take home!
+- **9108**: Oh no! It looks like you've already been issued a marriage certificate by another nation-wation. A misplaced certificate can be reissued, but you'll need to speak with the samey-wame officiating body that you firstaru received it from.
+- **9109**: Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation.
+- **9110**: Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation. If you wantaru to receive one, you'll need to speak with the samey-wame officiating body that issued your spouse's.
+- **9111**: Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another. Also, the nation of issuance for your certificate must be the same as your partner's.
+- **9112**: Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another.
+- **9113**: By the Star Sibyl's power vested in me, husband and wife you are declared to be.
+- **9114**: May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree.
+- **9115**: What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]
+- **9116**: Have a marriage certificate issued? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 2001
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 801 bytes |
+| Instructions | 166       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    1E F0 FF FF 7F 1D 00  80 23 1D 01 80 23 1A D6   ........#...#..
+0010: 02 24 02 80 03 80 03 80  25 02 00 10 03 80 00 29  .$......%......)
+0020: 00 03 01 10 04 80 01 FC  00 02 00 10 04 80 00 92  ................
+0030: 00 02 04 00 03 80 01 4A  00 1D 05 80 23 03 01 10  .......J....#...
+0040: 04 80 03 09 00 04 80 01  8F 00 02 88 7F 06 80 03  ................
+0050: 63 00 1D 07 80 23 03 01  10 04 80 03 09 00 08 80  c....#..........
+0060: 01 8F 00 3E 05 00 8B 7F  70 00 01 73 01 01 8F 00  ...>....p..s....
+0070: 3E 05 00 08 80 7D 00 01  FF 00 01 8F 00 1D 09 80  >....}..........
+0080: 23 1D 0A 80 23 03 01 10  04 80 03 09 00 0B 80 01  #...#...........
+0090: FC 00 02 00 10 08 80 00  B8 00 1D 0C 80 23 1D 0D  .............#..
+00A0: 80 23 1D 0E 80 23 1D 0F  80 23 1D 10 80 23 1D 11  .#...#...#...#..
+00B0: 80 23 01 11 00 01 FC 00  02 00 10 0B 80 00 CE 00  .#..............
+00C0: 1D 12 80 23 1D 13 80 23  01 11 00 01 FC 00 02 00  ...#...#........
+00D0: 10 14 80 00 FC 00 1D 15  80 23 1D 16 80 23 1D 17  .........#...#..
+00E0: 80 23 1D 18 80 23 1D 19  80 23 1D 1A 80 23 1D 1B  .#...#...#...#..
+00F0: 80 23 1D 1C 80 23 01 11  00 01 FC 00 01 1B 03 02  .#...#..........
+0100: 02 00 03 80 01 2D 01 02  02 00 01 00 01 20 01 1D  .....-....... ..
+0110: 1D 80 23 03 01 10 04 80  03 09 00 14 80 01 2A 01  ..#...........*.
+0120: 03 01 10 08 80 03 09 00  1E 80 01 70 01 03 03 10  ...........p....
+0130: 01 00 1D 1F 80 23 24 20  80 04 80 03 80 25 02 00  .....#$ .....%..
+0140: 10 03 80 00 5B 01 1D 21  80 23 1D 22 80 23 03 01  ....[..!.#.".#..
+0150: 10 08 80 03 09 00 23 80  01 70 01 02 00 10 04 80  ......#..p......
+0160: 00 70 01 03 01 10 04 80  03 09 00 03 80 01 70 01  .p............p.
+0170: 01 1B 03 02 07 00 03 80  00 90 01 1D 09 80 23 1D  ..............#.
+0180: 0A 80 23 03 01 10 04 80  03 09 00 24 80 01 CC 01  ..#........$....
+0190: 02 8B 7F 08 00 00 AD 01  1D 09 80 23 1D 0A 80 23  ...........#...#
+01A0: 03 01 10 04 80 03 09 00  25 80 01 CC 01 3E 06 00  ........%....>..
+01B0: 08 00 BA 01 01 CF 01 01  CC 01 1D 09 80 23 1D 0A  .............#..
+01C0: 80 23 03 01 10 04 80 03  09 00 26 80 01 1B 03 02  .#........&.....
+01D0: 02 00 03 80 01 2F 02 02  02 00 01 00 01 F0 01 1D  ...../..........
+01E0: 1D 80 23 03 01 10 04 80  03 09 00 27 80 01 2C 02  ..#........'..,.
+01F0: 02 03 00 03 80 01 22 02  02 03 00 01 00 01 15 02  ......".........
+0200: 1D 28 80 23 1D 29 80 23  03 01 10 04 80 03 09 00  .(.#.).#........
+0210: 2A 80 01 1F 02 03 01 10  14 80 03 09 00 2B 80 01  *............+..
+0220: 2C 02 03 01 10 14 80 03  09 00 2C 80 01 D3 02 02  ,.........,.....
+0230: 03 00 03 80 01 95 02 02  03 00 01 00 01 54 02 1D  .............T..
+0240: 28 80 23 1D 29 80 23 03  01 10 04 80 03 09 00 2D  (.#.).#........-
+0250: 80 01 92 02 1D 2E 80 23  24 20 80 04 80 03 80 25  .......#$ .....%
+0260: 02 00 10 03 80 00 7D 02  1D 21 80 23 1D 22 80 23  ......}..!.#.".#
+0270: 03 01 10 14 80 03 09 00  2F 80 01 92 02 02 00 10  ......../.......
+0280: 04 80 00 92 02 03 01 10  04 80 03 09 00 03 80 01  ................
+0290: 92 02 01 D3 02 1D 2E 80  23 24 20 80 04 80 03 80  ........#$ .....
+02A0: 25 02 00 10 03 80 00 BE  02 1D 21 80 23 1D 22 80  %.........!.#.".
+02B0: 23 03 01 10 14 80 03 09  00 30 80 01 D3 02 02 00  #........0......
+02C0: 10 04 80 00 D3 02 03 01  10 04 80 03 09 00 03 80  ................
+02D0: 01 D3 02 01 1B 03 41 03  80 04 80 02 10 01 00 41  ......A........A
+02E0: 08 80 0B 80 02 10 02 00  41 14 80 25 80 02 10 04  ........A..%....
+02F0: 00 41 26 80 31 80 02 10  05 00 41 32 80 2A 80 02  .A&.1.....A2.*..
+0300: 10 06 00 41 2D 80 2D 80  02 10 08 00 41 33 80 34  ...A-.-.....A3.4
+0310: 80 02 10 03 00 03 07 00  03 10 1B 03 02 10 09 00  ................
+0320: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=9086*)
+    → "Hello there! I'm Sibyl Celebrant Pompi-Rompi. My job is issuing marriage certificates to married couple-wouples."
+  2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9087*)
+    → "How can I help you today?"
+  4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x000E [0x1A] CALL_SUBROUTINE(address=0x02D6)
+  6: 0x0011 [0x24] CREATE_DIALOG(message_id=9115*, default_option=0*, option_flags=0*)
+    → "What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]"
+  7: 0x0018 [0x25] WAIT_DIALOG_SELECT()
+  8: 0x0019 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0029
+  9: 0x0021 [0x03] Work_Zone[1] = 1*
+ 10: 0x0026 [0x01] GOTO 0x00FC
+ 11: 0x0029 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0092
+ 12: 0x0031 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x004A
+ 13: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=9104*)
+    → "Oh no! It looks like you already have a marriage certificate in your possession. I'm sorry, but I can'taru issue you another."
+ 14: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x003D [0x03] Work_Zone[1] = 1*
+ 16: 0x0042 [0x03] ExtData[1]->WorkLocal[9] = 1*
+ 17: 0x0047 [0x01] GOTO 0x008F
+ 18: 0x004A [0x02] IF !(LocalPlayer->JobLevel >= 20*) GOTO 0x0063
+ 19: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=9105*)
+    → "Your currentaru job level must be level $2 or more if you wish to receive a marriage certificate."
+ 20: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 21: 0x0056 [0x03] Work_Zone[1] = 1*
+ 22: 0x005B [0x03] ExtData[1]->WorkLocal[9] = 2*
+ 23: 0x0060 [0x01] GOTO 0x008F
+ 24: 0x0063 [0x3E] IF !(ExtData[1]->WorkLocal[5] bit (LocalPlayer->Render.Flags01 >> 25) & 1) GOTO 0x0070
+ 25: 0x006A [0x01] GOTO 0x0173
+
+SUBROUTINE_008F:
+ 26: 0x008F [0x01] GOTO 0x00FC
+ 27: 0x0092 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00B8
+ 28: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=9088*)
+    → "Marriage certificates are legal documentarus that are issued in recognition of the matrimony of two individuals. They also makey-wake lovely wall decorations for your Mog House!"
+ 29: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 30: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=9089*)
+    → "Couples wanting to receive the certificate mustaru prove their marriage. There are a few ways you can do this."
+ 31: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9090*)
+    → "The couple should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to me, and the certificates will be yours to take home!"
+ 33: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 34: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9091*)
+    → "If you have a wedding ring, though, the procedure can be completarued on your own. Sounds lonely-wonely, I know, but everyone has different circumstances."
+ 35: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 36: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
+    → "Justaru remember that you can't have more than one certificate at any given time. Also, the nation-wation of issuance for your certificate must be the same as your partner's."
+ 37: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 38: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
+    → "Oh, and another thing! A misplaced certificate can be reissued, but only by the same officiating body that you firstaru received it from."
+ 39: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 40: 0x00B2 [0x01] GOTO 0x0011
+
+SUBROUTINE_00FC:
+ 41: 0x00FC [0x01] GOTO 0x031B
+
+SUBROUTINE_00FF:
+ 42: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x012D
+ 43: 0x0107 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[1]) GOTO 0x0120
+ 44: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=9108*)
+    → "Oh no! It looks like you've already been issued a marriage certificate by another nation-wation. A misplaced certificate can be reissued, but you'll need to speak with the samey-wame officiating body that you firstaru received it from."
+ 45: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 46: 0x0113 [0x03] Work_Zone[1] = 1*
+ 47: 0x0118 [0x03] ExtData[1]->WorkLocal[9] = 4*
+ 48: 0x011D [0x01] GOTO 0x012A
+ 49: 0x0120 [0x03] Work_Zone[1] = 2*
+ 50: 0x0125 [0x03] ExtData[1]->WorkLocal[9] = 100*
+
+SUBROUTINE_012A:
+ 51: 0x012A [0x01] GOTO 0x0170
+ 52: 0x012D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
+ 53: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
+    → "Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another."
+ 54: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 55: 0x0136 [0x24] CREATE_DIALOG(message_id=9116*, default_option=1*, option_flags=0*)
+    → "Have a marriage certificate issued? [Yes./No.]"
+ 56: 0x013D [0x25] WAIT_DIALOG_SELECT()
+ 57: 0x013E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015B
+ 58: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
+    → "By the Star Sibyl's power vested in me, husband and wife you are declared to be."
+ 59: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 60: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+    → "May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree."
+ 61: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 62: 0x014E [0x03] Work_Zone[1] = 2*
+ 63: 0x0153 [0x03] ExtData[1]->WorkLocal[9] = 101*
+ 64: 0x0158 [0x01] GOTO 0x0170
+ 65: 0x015B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0170
+ 66: 0x0163 [0x03] Work_Zone[1] = 1*
+ 67: 0x0168 [0x03] ExtData[1]->WorkLocal[9] = 0*
+ 68: 0x016D [0x01] GOTO 0x0170
+
+SUBROUTINE_0170:
+ 69: 0x0170 [0x01] GOTO 0x031B
+
+SUBROUTINE_0173:
+ 70: 0x0173 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0190
+ 71: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=9106*)
+    → "I'm sorry, but I can'taru issue you a marriage certificate."
+ 72: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 73: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=9107*)
+    → "Married couples wanting marriage certificates should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to the official in chargey-warge, and the certificates will be yours to take home!"
+ 74: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 75: 0x0183 [0x03] Work_Zone[1] = 1*
+ 76: 0x0188 [0x03] ExtData[1]->WorkLocal[9] = 5*
+ 77: 0x018D [0x01] GOTO 0x01CC
+ 78: 0x0190 [0x02] IF !((LocalPlayer->Render.Flags01 >> 25) & 1 == ExtData[1]->WorkLocal[8]) GOTO 0x01AD
+ 79: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=9106*)
+    → "I'm sorry, but I can'taru issue you a marriage certificate."
+ 80: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 81: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=9107*)
+    → "Married couples wanting marriage certificates should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to the official in chargey-warge, and the certificates will be yours to take home!"
+ 82: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 83: 0x01A0 [0x03] Work_Zone[1] = 1*
+ 84: 0x01A5 [0x03] ExtData[1]->WorkLocal[9] = 6*
+ 85: 0x01AA [0x01] GOTO 0x01CC
+ 86: 0x01AD [0x3E] IF !(ExtData[1]->WorkLocal[6] bit ExtData[1]->WorkLocal[8]) GOTO 0x01BA
+ 87: 0x01B4 [0x01] GOTO 0x01CF
+
+SUBROUTINE_01CC:
+ 88: 0x01CC [0x01] GOTO 0x031B
+
+SUBROUTINE_01CF:
+ 89: 0x01CF [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x022F
+ 90: 0x01D7 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[1]) GOTO 0x01F0
+ 91: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9108*)
+    → "Oh no! It looks like you've already been issued a marriage certificate by another nation-wation. A misplaced certificate can be reissued, but you'll need to speak with the samey-wame officiating body that you firstaru received it from."
+ 92: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 93: 0x01E3 [0x03] Work_Zone[1] = 1*
+ 94: 0x01E8 [0x03] ExtData[1]->WorkLocal[9] = 11*
+ 95: 0x01ED [0x01] GOTO 0x022C
+ 96: 0x01F0 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0222
+ 97: 0x01F8 [0x02] IF !(ExtData[1]->WorkLocal[3] == ExtData[1]->WorkLocal[1]) GOTO 0x0215
+ 98: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=9109*)
+    → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation."
+ 99: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
+100: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
+    → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation. If you wantaru to receive one, you'll need to speak with the samey-wame officiating body that issued your spouse's."
+101: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
+102: 0x0208 [0x03] Work_Zone[1] = 1*
+103: 0x020D [0x03] ExtData[1]->WorkLocal[9] = 12*
+104: 0x0212 [0x01] GOTO 0x021F
+105: 0x0215 [0x03] Work_Zone[1] = 4*
+106: 0x021A [0x03] ExtData[1]->WorkLocal[9] = 102*
+
+SUBROUTINE_021F:
+107: 0x021F [0x01] GOTO 0x022C
+108: 0x0222 [0x03] Work_Zone[1] = 4*
+109: 0x0227 [0x03] ExtData[1]->WorkLocal[9] = 103*
+
+SUBROUTINE_022C:
+110: 0x022C [0x01] GOTO 0x02D3
+111: 0x022F [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0295
+112: 0x0237 [0x02] IF !(ExtData[1]->WorkLocal[3] == ExtData[1]->WorkLocal[1]) GOTO 0x0254
+113: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=9109*)
+    → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation."
+114: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
+115: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
+    → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation. If you wantaru to receive one, you'll need to speak with the samey-wame officiating body that issued your spouse's."
+116: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
+117: 0x0247 [0x03] Work_Zone[1] = 1*
+118: 0x024C [0x03] ExtData[1]->WorkLocal[9] = 13*
+119: 0x0251 [0x01] GOTO 0x0292
+120: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
+    → "Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another. Also, the nation of issuance for your certificate must be the same as your partner's."
+121: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
+122: 0x0258 [0x24] CREATE_DIALOG(message_id=9116*, default_option=1*, option_flags=0*)
+    → "Have a marriage certificate issued? [Yes./No.]"
+123: 0x025F [0x25] WAIT_DIALOG_SELECT()
+124: 0x0260 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027D
+125: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
+    → "By the Star Sibyl's power vested in me, husband and wife you are declared to be."
+126: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
+127: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+    → "May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree."
+128: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
+129: 0x0270 [0x03] Work_Zone[1] = 4*
+130: 0x0275 [0x03] ExtData[1]->WorkLocal[9] = 104*
+131: 0x027A [0x01] GOTO 0x0292
+132: 0x027D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0292
+133: 0x0285 [0x03] Work_Zone[1] = 1*
+134: 0x028A [0x03] ExtData[1]->WorkLocal[9] = 0*
+135: 0x028F [0x01] GOTO 0x0292
+
+SUBROUTINE_0292:
+136: 0x0292 [0x01] GOTO 0x02D3
+137: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
+    → "Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another. Also, the nation of issuance for your certificate must be the same as your partner's."
+138: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
+139: 0x0299 [0x24] CREATE_DIALOG(message_id=9116*, default_option=1*, option_flags=0*)
+    → "Have a marriage certificate issued? [Yes./No.]"
+140: 0x02A0 [0x25] WAIT_DIALOG_SELECT()
+141: 0x02A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BE
+142: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
+    → "By the Star Sibyl's power vested in me, husband and wife you are declared to be."
+143: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
+144: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+    → "May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree."
+145: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+146: 0x02B1 [0x03] Work_Zone[1] = 4*
+147: 0x02B6 [0x03] ExtData[1]->WorkLocal[9] = 105*
+148: 0x02BB [0x01] GOTO 0x02D3
+149: 0x02BE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02D3
+150: 0x02C6 [0x03] Work_Zone[1] = 1*
+151: 0x02CB [0x03] ExtData[1]->WorkLocal[9] = 0*
+152: 0x02D0 [0x01] GOTO 0x02D3
+
+SUBROUTINE_02D3:
+153: 0x02D3 [0x01] GOTO 0x031B
+
+SUBROUTINE_02D6:
+154: 0x02D6 [0x41] ExtData[1]->WorkLocal[1] = Work_Zone[2] (bits 0*-1*)
+155: 0x02DF [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[2] (bits 2*-3*)
+156: 0x02E8 [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[2] (bits 4*-6*)
+157: 0x02F1 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[2] (bits 7*-9*)
+158: 0x02FA [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[2] (bits 10*-12*)
+159: 0x0303 [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[2] (bits 13*-13*)
+160: 0x030C [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[2] (bits 14*-15*)
+161: 0x0315 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[3]
+162: 0x031A [0x1B] RETURN
+
+SUBROUTINE_031B:
+163: 0x031B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
+164: 0x0320 [0x21] END_EVENT
+165: 0x0321 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x006D [0x01] GOTO 0x008F
+     0x007A [0x01] GOTO 0x008F
+# Dead code (unreachable instructions):
+     0x00B5 [0x01] GOTO 0x00FC
+     0x00CB [0x01] GOTO 0x00FC
+     0x00F9 [0x01] GOTO 0x00FC
+# Dead code (unreachable instructions):
+     0x01B7 [0x01] GOTO 0x01CC
+```

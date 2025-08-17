@@ -1,0 +1,89 @@
+# 17662742 - Dilapidated Gate
+
+## Common Data
+
+| Field            | Value                         |
+|------------------|-------------------------------|
+| Zone             | Abyssea - Misareaux (ID: 216) |
+| Block Size       | 172 bytes                     |
+| Total Events     | 2                             |
+| References Count | 11                            |
+
+## List of Events
+
+| Event ID          | Entrypoint   |   Size |   Instructions |
+|-------------------|--------------|--------|----------------|
+| [258](#event-258) | 0x0000       |    102 |             21 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x211D      |        8477 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0078      |         120 |
+|       3 | 0x00C8      |         200 |
+|       4 | 0x003C      |          60 |
+|       5 | 0x3F7A6     |      260006 |
+|       6 | 0xFFF9547A  |  4294530170 |
+|       7 | 0x2695      |        9877 |
+|       8 | 0x0C37      |        3127 |
+|       9 | 0x0014      |          20 |
+|      10 | 0x0001      |           1 |
+
+## String References
+
+- **8477**: Pass through the gate? [Yes./Not yet.]
+
+## Events
+
+### Event 258
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0000    |
+| Data Size    | 102 bytes |
+| Instructions | 21        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 24 00 80 01 80 01 80 25  02 00 10 01 80 00 59 00  $......%......Y.
+0010: 20 01 42 1C 02 80 43 00  43 01 45 03 80 F0 FF FF   .B...C.C.E.....
+0020: 7F F0 FF FF 7F 66 64 6F  31 01 80 1C 04 80 47 00  .....fdo1.....G.
+0030: 05 80 06 80 07 80 08 80  47 01 1C 09 80 45 03 80  ........G....E..
+0040: F0 FF FF 7F F0 FF FF 7F  66 64 69 31 01 80 1C 04  ........fdi1....
+0050: 80 03 01 10 0A 80 01 64  00 02 00 10 0A 80 00 64  .......d.......d
+0060: 00 01 64 00 21 00                                 ..d.!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x24] CREATE_DIALOG(message_id=8477*, default_option=0*, option_flags=0*)
+    → "Pass through the gate? [Yes./Not yet.]"
+  1: 0x0007 [0x25] WAIT_DIALOG_SELECT()
+  2: 0x0008 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0059
+  3: 0x0010 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  4: 0x0012 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  5: 0x0013 [0x1C] WAIT(120* ticks)
+  6: 0x0016 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  7: 0x0018 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  8: 0x001A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  9: 0x002B [0x1C] WAIT(60* ticks)
+ 10: 0x002E [0x47] UPDATE_PLAYER_POS(260.006*, -437.126*, 9.877*, yaw=274.8°*)
+ 11: 0x0038 [0x47] WAIT_PLAYER_POS_UPDATE
+ 12: 0x003A [0x1C] WAIT(20* ticks)
+ 13: 0x003D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 14: 0x004E [0x1C] WAIT(60* ticks)
+ 15: 0x0051 [0x03] Work_Zone[1] = 1*
+ 16: 0x0056 [0x01] GOTO 0x0064
+ 17: 0x0059 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0064
+ 18: 0x0061 [0x01] GOTO 0x0064
+
+SUBROUTINE_0064:
+ 19: 0x0064 [0x21] END_EVENT
+ 20: 0x0065 [0x00] END_REQSTACK()
+```

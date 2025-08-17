@@ -1,0 +1,687 @@
+# 17072330 - Runic Seal
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Alzadaal Undersea Ruins (ID: 72) |
+| Block Size       | 2316 bytes                       |
+| Total Events     | 3                                |
+| References Count | 58                               |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [405](#event-405)     | 0x0001       |   1944 |            338 |
+| [116](#event-116)     | 0x0799       |    110 |             19 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x40000000  |  1073741824 |
+|       1 | 0x0005      |           5 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x1D34      |        7476 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x0002      |           2 |
+|       6 | 0x0003      |           3 |
+|       7 | 0x1D35      |        7477 |
+|       8 | 0x0004      |           4 |
+|       9 | 0x0006      |           6 |
+|      10 | 0x0007      |           7 |
+|      11 | 0x0008      |           8 |
+|      12 | 0x0009      |           9 |
+|      13 | 0x1D36      |        7478 |
+|      14 | 0x000A      |          10 |
+|      15 | 0x1D37      |        7479 |
+|      16 | 0x1D38      |        7480 |
+|      17 | 0x0012      |          18 |
+|      18 | 0x0015      |          21 |
+|      19 | 0x000B      |          11 |
+|      20 | 0x1D18      |        7448 |
+|      21 | 0x1D19      |        7449 |
+|      22 | 0x031D      |         797 |
+|      23 | 0x1D2B      |        7467 |
+|      24 | 0x1D1A      |        7450 |
+|      25 | 0x1D1C      |        7452 |
+|      26 | 0x1D1D      |        7453 |
+|      27 | 0x1D1E      |        7454 |
+|      28 | 0x1D1F      |        7455 |
+|      29 | 0x1D20      |        7456 |
+|      30 | 0x1D27      |        7463 |
+|      31 | 0x0016      |          22 |
+|      32 | 0x0019      |          25 |
+|      33 | 0x1D24      |        7460 |
+|      34 | 0x0078      |         120 |
+|      35 | 0x1D21      |        7457 |
+|      36 | 0x00C8      |         200 |
+|      37 | 0xFFF72660  |  4294387296 |
+|      38 | 0xFFF9D5E0  |  4294563296 |
+|      39 | 0x0C00      |        3072 |
+|      40 | 0x0023      |          35 |
+|      41 | 0x00B4      |         180 |
+|      42 | 0x003C      |          60 |
+|      43 | 0x00F0      |         240 |
+|      44 | 0xFFFD9EA0  |  4294811296 |
+|      45 | 0x0400      |        1024 |
+|      46 | 0x975E0     |      620000 |
+|      47 | 0xFFFCE320  |  4294763296 |
+|      48 | 0x8D9A0     |      580000 |
+|      49 | 0x6C660     |      444000 |
+|      50 | 0x021C      |         540 |
+|      51 | 0x00C9      |         201 |
+|      52 | 0x001E      |          30 |
+|      53 | 0x000C      |          12 |
+|      54 | 0x000D      |          13 |
+|      55 | 0x000E      |          14 |
+|      56 | 0x000F      |          15 |
+|      57 | 0x1D22      |        7458 |
+
+## String References
+
+- **7448**: The suggested level for $0 is $3. Place a level restriction on the party?
+- **7449**: Place a level restriction? [No./Level 70./Level 60./Level 50.]
+- **7450**: Your party's level will be [unrestricted/restricted to 70/restricted to 60/restricted to 50] for "$0."
+- **7452**: Accept this setting? [Yes./No.]
+- **7453**: Only nearby party members with the same objective will accompany you to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
+- **7454**: Please confirm that all party members are cleared to enter [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
+- **7455**: All party members with the appropriate clearance will now be transported to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]. Are you ready?
+- **7456**: Are you ready? [Yes./No.]
+- **7457**: Commencing transport to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
+- **7458**: Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended.
+- **7460**: You cannot enter at this time. Please wait a while before trying again.
+- **7463**: Connecting to server. Please wait.
+- **7467**: You are not in possession of $6. Unable to enter area.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 405
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1944 bytes |
+| Instructions | 306        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 03 0B 00 02 10 03  01 00 06 10 03 04 00 08   B..............
+0010: 10 03 05 00 09 10 03 01  10 00 80 02 01 80 02 80  ................
+0020: 00 2B 00 03 02 00 03 80  01 D0 00 02 01 80 04 80  .+..............
+0030: 00 3B 00 03 02 00 03 80  01 D0 00 02 01 80 05 80  .;..............
+0040: 00 4B 00 03 02 00 03 80  01 D0 00 02 01 80 06 80  .K..............
+0050: 00 5B 00 03 02 00 07 80  01 D0 00 02 01 80 08 80  .[..............
+0060: 00 6B 00 03 02 00 03 80  01 D0 00 02 01 80 09 80  .k..............
+0070: 00 7B 00 03 02 00 07 80  01 D0 00 02 01 80 0A 80  .{..............
+0080: 00 8B 00 03 02 00 03 80  01 D0 00 02 01 80 0B 80  ................
+0090: 00 9B 00 03 02 00 07 80  01 D0 00 02 01 80 0C 80  ................
+00A0: 00 AB 00 03 02 00 0D 80  01 D0 00 02 01 80 0E 80  ................
+00B0: 00 BB 00 03 02 00 0F 80  01 D0 00 02 01 80 01 80  ................
+00C0: 00 D0 00 03 08 10 04 00  03 02 00 10 80 01 D0 00  ................
+00D0: 03 02 10 0B 00 24 02 00  04 80 03 10 25 02 00 10  .....$......%...
+00E0: 02 80 80 E8 00 01 E8 00  02 00 10 02 80 02 97 07  ................
+00F0: 03 01 10 02 80 40 11 80  12 80 01 10 00 10 03 01  .....@..........
+0100: 17 00 10 02 01 17 04 80  00 82 01 02 07 10 02 80  ................
+0110: 01 70 01 02 01 17 09 80  00 24 01 40 0B 80 13 80  .p.......$.@....
+0120: 01 10 05 00 01 99 01 48  14 80 23 24 15 80 02 80  .......H..#$....
+0130: 02 80 25 02 00 10 02 80  00 3E 01 01 5F 01 02 00  ..%......>.._...
+0140: 10 04 80 00 49 01 01 5F  01 02 00 10 05 80 00 54  ....I.._.......T
+0150: 01 01 5F 01 02 00 10 06  80 00 5F 01 01 5F 01 40  .._......._.._.@
+0160: 02 80 0A 80 01 10 00 10  03 00 17 00 10 01 7F 01  ................
+0170: 03 02 10 16 80 48 17 80  03 01 10 00 80 21 00 01  .....H.......!..
+0180: 85 01 01 99 01 48 18 80  23 24 19 80 04 80 02 80  .....H..#$......
+0190: 25 02 00 10 02 80 00 83  07 48 1A 80 23 48 1B 80  %........H..#H..
+01A0: 23 48 1C 80 23 24 1D 80  04 80 02 80 25 02 00 10  #H..#$......%...
+01B0: 02 80 00 6C 07 42 48 1E  80 06 06 00 06 09 00 06  ...l.BH.........
+01C0: 08 00 03 0A 00 01 10 02  06 00 02 80 00 69 07 02  .............i..
+01D0: 09 00 02 80 80 C2 02 03  01 10 0A 00 40 1F 80 20  ............@.. 
+01E0: 80 01 10 09 00 43 00 43  01 03 07 00 09 10 03 01  .....C.C........
+01F0: 10 02 80 02 07 00 04 80  80 03 02 03 09 00 04 80  ................
+0200: 01 BF 02 02 07 00 05 80  80 27 02 0B 08 00 02 08  .........'......
+0210: 00 01 80 02 21 02 05 06  00 48 21 80 23 2E 01 24  ....!....H!.#..$
+0220: 02 1C 22 80 01 BF 02 02  07 00 06 80 80 3A 02 03  .."..........:..
+0230: 01 10 00 80 05 06 00 01  BF 02 02 07 00 08 80 80  ................
+0240: 4D 02 03 01 10 00 80 05  06 00 01 BF 02 02 07 00  M...............
+0250: 01 80 80 60 02 03 01 10  00 80 05 06 00 01 BF 02  ...`............
+0260: 02 07 00 09 80 80 73 02  03 01 10 00 80 05 06 00  ......s.........
+0270: 01 BF 02 02 07 00 0A 80  80 86 02 03 01 10 00 80  ................
+0280: 05 06 00 01 BF 02 02 07  00 0B 80 80 99 02 03 01  ................
+0290: 10 00 80 05 06 00 01 BF  02 02 07 00 0C 80 80 AC  ................
+02A0: 02 03 01 10 00 80 05 06  00 01 BF 02 02 07 00 0E  ................
+02B0: 80 80 BF 02 03 01 10 00  80 05 06 00 01 BF 02 01  ................
+02C0: 66 07 02 09 00 04 80 80  66 07 03 01 10 0A 00 40  f.......f......@
+02D0: 1F 80 20 80 01 10 09 00  43 00 43 01 03 01 10 02  .. .....C.C.....
+02E0: 80 03 07 00 09 10 02 07  00 06 80 80 F9 02 03 01  ................
+02F0: 10 00 80 05 06 00 01 63  07 02 07 00 08 80 80 0C  .......c........
+0300: 03 03 01 10 00 80 05 06  00 01 63 07 02 07 00 01  ..........c.....
+0310: 80 80 1F 03 03 01 10 00  80 05 06 00 01 63 07 02  .............c..
+0320: 07 00 09 80 80 32 03 03  01 10 00 80 05 06 00 01  .....2..........
+0330: 63 07 02 07 00 0A 80 80  45 03 03 01 10 00 80 05  c.......E.......
+0340: 06 00 01 63 07 02 07 00  0B 80 80 58 03 03 01 10  ...c.......X....
+0350: 00 80 05 06 00 01 63 07  02 07 00 0C 80 80 6B 03  ......c.......k.
+0360: 03 01 10 00 80 05 06 00  01 63 07 02 07 00 0E 80  .........c......
+0370: 80 7E 03 03 01 10 00 80  05 06 00 01 63 07 02 07  .~..........c...
+0380: 00 13 80 80 07 07 40 02  80 06 80 01 10 08 80 03  ......@.........
+0390: 06 10 01 00 48 23 80 02  01 80 02 80 00 A2 03 01  ....H#..........
+03A0: 00 07 02 01 80 04 80 00  AD 03 01 00 07 02 01 80  ................
+03B0: 05 80 00 B8 03 01 00 07  02 01 80 06 80 00 C3 03  ................
+03C0: 01 00 07 02 01 80 08 80  00 CE 03 01 00 07 02 01  ................
+03D0: 80 09 80 00 D9 03 01 00  07 02 01 80 0A 80 00 89  ................
+03E0: 04 45 24 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E$.........fdo1
+03F0: 02 80 55 24 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..U$.........fdo
+0400: 31 38 11 80 46 01 BA F0  FF FF 7F 25 80 26 80 02  18..F......%.&..
+0410: 80 27 80 45 28 80 F0 FF  FF 7F F0 FF FF 7F 61 6C  .'.E(.........al
+0420: 30 32 02 80 45 24 80 F0  FF FF 7F F0 FF FF 7F 66  02..E$.........f
+0430: 64 69 31 02 80 55 24 80  F0 FF FF 7F F0 FF FF 7F  di1..U$.........
+0440: 66 64 69 31 4C 1C 29 80  29 0A C6 80 04 01 02 1C  fdi1L.).).......
+0450: 2A 80 27 0A F0 FF FF 7F  43 1C 2B 80 29 0A C6 80  *.'.....C.+.)...
+0460: 04 01 03 1C 22 80 45 24  80 F0 FF FF 7F F0 FF FF  ....".E$........
+0470: 7F 66 64 6F 31 02 80 55  24 80 F0 FF FF 7F F0 FF  .fdo1..U$.......
+0480: FF 7F 66 64 6F 31 01 00  07 02 01 80 0B 80 00 39  ..fdo1.........9
+0490: 05 45 24 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E$.........fdo1
+04A0: 02 80 55 24 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..U$.........fdo
+04B0: 31 38 11 80 46 01 BA F0  FF FF 7F 25 80 2C 80 02  18..F......%.,..
+04C0: 80 2D 80 45 28 80 F0 FF  FF 7F F0 FF FF 7F 61 6C  .-.E(.........al
+04D0: 30 31 02 80 45 24 80 F0  FF FF 7F F0 FF FF 7F 66  01..E$.........f
+04E0: 64 69 31 02 80 55 24 80  F0 FF FF 7F F0 FF FF 7F  di1..U$.........
+04F0: 66 64 69 31 4C 1C 29 80  29 0A C4 80 04 01 05 1C  fdi1L.).).......
+0500: 2A 80 27 0A F0 FF FF 7F  44 1C 2B 80 29 0A C4 80  *.'.....D.+.)...
+0510: 04 01 06 1C 22 80 45 24  80 F0 FF FF 7F F0 FF FF  ....".E$........
+0520: 7F 66 64 6F 31 02 80 55  24 80 F0 FF FF 7F F0 FF  .fdo1..U$.......
+0530: FF 7F 66 64 6F 31 01 00  07 02 01 80 0C 80 00 E9  ..fdo1..........
+0540: 05 45 24 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E$.........fdo1
+0550: 02 80 55 24 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..U$.........fdo
+0560: 31 38 11 80 46 01 BA F0  FF FF 7F 2E 80 2F 80 02  18..F......../..
+0570: 80 27 80 45 28 80 F0 FF  FF 7F F0 FF FF 7F 61 6C  .'.E(.........al
+0580: 30 33 02 80 45 24 80 F0  FF FF 7F F0 FF FF 7F 66  03..E$.........f
+0590: 64 69 31 02 80 55 24 80  F0 FF FF 7F F0 FF FF 7F  di1..U$.........
+05A0: 66 64 69 31 4C 1C 29 80  29 0A C8 80 04 01 02 1C  fdi1L.).).......
+05B0: 2A 80 27 0A F0 FF FF 7F  45 1C 2B 80 29 0A C8 80  *.'.....E.+.)...
+05C0: 04 01 03 1C 22 80 45 24  80 F0 FF FF 7F F0 FF FF  ....".E$........
+05D0: 7F 66 64 6F 31 02 80 55  24 80 F0 FF FF 7F F0 FF  .fdo1..U$.......
+05E0: FF 7F 66 64 6F 31 01 00  07 02 01 80 0E 80 00 99  ..fdo1..........
+05F0: 06 45 24 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E$.........fdo1
+0600: 02 80 55 24 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..U$.........fdo
+0610: 31 38 11 80 46 01 BA F0  FF FF 7F 30 80 31 80 02  18..F......0.1..
+0620: 80 2D 80 45 28 80 F0 FF  FF 7F F0 FF FF 7F 61 6C  .-.E(.........al
+0630: 30 30 02 80 45 24 80 F0  FF FF 7F F0 FF FF 7F 66  00..E$.........f
+0640: 64 69 31 02 80 55 24 80  F0 FF FF 7F F0 FF FF 7F  di1..U$.........
+0650: 66 64 69 31 4C 1C 29 80  29 0A C2 80 04 01 02 1C  fdi1L.).).......
+0660: 2A 80 27 0A F0 FF FF 7F  46 1C 2B 80 29 0A C2 80  *.'.....F.+.)...
+0670: 04 01 03 1C 22 80 45 24  80 F0 FF FF 7F F0 FF FF  ....".E$........
+0680: 7F 66 64 6F 31 02 80 55  24 80 F0 FF FF 7F F0 FF  .fdo1..U$.......
+0690: FF 7F 66 64 6F 31 01 00  07 02 01 80 01 80 00 00  ..fdo1..........
+06A0: 07 2D F8 FF FF 7F F8 FF  FF 7F 32 70 62 32 1C 32  .-........2pb2.2
+06B0: 80 29 01 F0 FF FF 7F 03  45 33 80 F0 FF FF 7F F0  .)......E3......
+06C0: FF FF 7F 77 68 6F 31 02  80 1C 2A 80 2D F8 FF FF  ...who1...*.-...
+06D0: 7F F8 FF FF 7F 32 70 62  6B 1C 34 80 2D F8 FF FF  .....2pbk.4.-...
+06E0: 7F F8 FF FF 7F 32 70 62  31 1C 34 80 45 33 80 F0  .....2pb1.4.E3..
+06F0: FF FF 7F F0 FF FF 7F 77  68 69 31 02 80 01 00 07  .......whi1.....
+0700: 30 05 06 00 01 63 07 02  07 00 35 80 80 1A 07 03  0....c....5.....
+0710: 01 10 00 80 05 06 00 01  63 07 02 07 00 36 80 80  ........c....6..
+0720: 2D 07 03 01 10 00 80 05  06 00 01 63 07 02 07 00  -..........c....
+0730: 37 80 80 63 07 0B 08 00  02 08 00 38 80 02 5D 07  7..c.......8..].
+0740: 03 01 10 0A 00 40 1F 80  20 80 01 10 05 80 43 00  .....@.. .....C.
+0750: 43 01 05 06 00 48 21 80  23 2E 01 60 07 1C 22 80  C....H!.#..`..".
+0760: 01 63 07 01 66 07 01 C7  01 01 80 07 02 00 10 04  .c..f...........
+0770: 80 00 80 07 48 39 80 23  03 01 10 00 80 01 80 07  ....H9.#........
+0780: 01 97 07 02 00 10 04 80  00 97 07 48 39 80 23 03  ...........H9.#.
+0790: 01 10 00 80 01 97 07 21  00                       .......!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[2]
+  2: 0x0007 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[6]
+  3: 0x000C [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[8]
+  4: 0x0011 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[9]
+  5: 0x0016 [0x03] Work_Zone[1] = 1073741824*
+  6: 0x001B [0x02] IF !(5* == 0*) GOTO 0x002B
+  7: 0x0023 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+  8: 0x0028 [0x01] GOTO 0x00D0
+  9: 0x002B [0x02] IF !(5* == 1*) GOTO 0x003B
+ 10: 0x0033 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 11: 0x0038 [0x01] GOTO 0x00D0
+ 12: 0x003B [0x02] IF !(5* == 2*) GOTO 0x004B
+ 13: 0x0043 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 14: 0x0048 [0x01] GOTO 0x00D0
+ 15: 0x004B [0x02] IF !(5* == 3*) GOTO 0x005B
+ 16: 0x0053 [0x03] ExtData[1]->WorkLocal[2] = 7477*
+ 17: 0x0058 [0x01] GOTO 0x00D0
+ 18: 0x005B [0x02] IF !(5* == 4*) GOTO 0x006B
+ 19: 0x0063 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 20: 0x0068 [0x01] GOTO 0x00D0
+ 21: 0x006B [0x02] IF !(5* == 6*) GOTO 0x007B
+ 22: 0x0073 [0x03] ExtData[1]->WorkLocal[2] = 7477*
+ 23: 0x0078 [0x01] GOTO 0x00D0
+ 24: 0x007B [0x02] IF !(5* == 7*) GOTO 0x008B
+ 25: 0x0083 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 26: 0x0088 [0x01] GOTO 0x00D0
+ 27: 0x008B [0x02] IF !(5* == 8*) GOTO 0x009B
+ 28: 0x0093 [0x03] ExtData[1]->WorkLocal[2] = 7477*
+ 29: 0x0098 [0x01] GOTO 0x00D0
+ 30: 0x009B [0x02] IF !(5* == 9*) GOTO 0x00AB
+ 31: 0x00A3 [0x03] ExtData[1]->WorkLocal[2] = 7478*
+ 32: 0x00A8 [0x01] GOTO 0x00D0
+ 33: 0x00AB [0x02] IF !(5* == 10*) GOTO 0x00BB
+ 34: 0x00B3 [0x03] ExtData[1]->WorkLocal[2] = 7479*
+ 35: 0x00B8 [0x01] GOTO 0x00D0
+ 36: 0x00BB [0x02] IF !(5* == 5*) GOTO 0x00D0
+ 37: 0x00C3 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[4]
+ 38: 0x00C8 [0x03] ExtData[1]->WorkLocal[2] = 7480*
+ 39: 0x00CD [0x01] GOTO 0x00D0
+
+SUBROUTINE_00D0:
+ 40: 0x00D0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
+ 41: 0x00D5 [0x24] CREATE_DIALOG(message_id=ExtData[1]->WorkLocal[2], default_option=1*, option_flags=Work_Zone[3])
+ 42: 0x00DC [0x25] WAIT_DIALOG_SELECT()
+ 43: 0x00DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E8
+ 44: 0x00E5 [0x01] GOTO 0x00E8
+
+SUBROUTINE_00E8:
+ 45: 0x00E8 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0797
+ 46: 0x00F0 [0x03] Work_Zone[1] = 0*
+ 47: 0x00F5 [0x40] SET_BIT_WORK_RANGE(start_bit=18*, end_bit=21*, target=Work_Zone[1], source=Work_Zone[0])
+ 48: 0x00FE [0x03] Work_Zone_1700[1] = Work_Zone[0]
+ 49: 0x0103 [0x02] IF !(Work_Zone_1700[1] == 1*) GOTO 0x0182
+ 50: 0x010B [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0170
+ 51: 0x0113 [0x02] IF !(Work_Zone_1700[1] == 6*) GOTO 0x0124
+ 52: 0x011B [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=11*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[5])
+ 53: 0x0124 [0x01] GOTO 0x0199
+
+SUBROUTINE_0199:
+ 54: 0x0199 [0x48] [System] [7453*]:
+    → "Only nearby party members with the same objective will accompany you to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]."
+ 55: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 56: 0x019D [0x48] [System] [7454*]:
+    → "Please confirm that all party members are cleared to enter [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]."
+ 57: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 58: 0x01A1 [0x48] [System] [7455*]:
+    → "All party members with the appropriate clearance will now be transported to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]. Are you ready?"
+ 59: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 60: 0x01A5 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
+    → "Are you ready? [Yes./No.]"
+ 61: 0x01AC [0x25] WAIT_DIALOG_SELECT()
+ 62: 0x01AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x076C
+ 63: 0x01B5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 64: 0x01B6 [0x48] [System] [7463*]:
+    → "Connecting to server. Please wait."
+ 65: 0x01B9 [0x06] ExtData[1]->WorkLocal[6] = 0
+ 66: 0x01BC [0x06] ExtData[1]->WorkLocal[9] = 0
+ 67: 0x01BF [0x06] ExtData[1]->WorkLocal[8] = 0
+ 68: 0x01C2 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[1]
+
+SUBROUTINE_01C7:
+ 69: 0x01C7 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0769
+ 70: 0x01CF [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x02C2
+ 71: 0x01D7 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[10]
+ 72: 0x01DC [0x40] SET_BIT_WORK_RANGE(start_bit=22*, end_bit=25*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+ 73: 0x01E5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 74: 0x01E7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 75: 0x01E9 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[9]
+ 76: 0x01EE [0x03] Work_Zone[1] = 0*
+ 77: 0x01F3 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0203
+ 78: 0x01FB [0x03] ExtData[1]->WorkLocal[9] = 1*
+ 79: 0x0200 [0x01] GOTO 0x02BF
+ 80: 0x0203 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0227
+ 81: 0x020B [0x0B] ExtData[1]->WorkLocal[8]++
+ 82: 0x020E [0x02] IF !(ExtData[1]->WorkLocal[8] <= 5*) GOTO 0x0221
+ 83: 0x0216 [0x05] ExtData[1]->WorkLocal[6] = 1
+ 84: 0x0219 [0x48] [System] [7460*]:
+    → "You cannot enter at this time. Please wait a while before trying again."
+ 85: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 86: 0x021D [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+ 87: 0x021E [0x01] GOTO 0x0224
+ 88: 0x0221 [0x1C] WAIT(120* ticks)
+
+SUBROUTINE_0224:
+ 89: 0x0224 [0x01] GOTO 0x02BF
+ 90: 0x0227 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x023A
+ 91: 0x022F [0x03] Work_Zone[1] = 1073741824*
+ 92: 0x0234 [0x05] ExtData[1]->WorkLocal[6] = 1
+ 93: 0x0237 [0x01] GOTO 0x02BF
+ 94: 0x023A [0x02] IF !(ExtData[1]->WorkLocal[7] == 4*) GOTO 0x024D
+ 95: 0x0242 [0x03] Work_Zone[1] = 1073741824*
+ 96: 0x0247 [0x05] ExtData[1]->WorkLocal[6] = 1
+ 97: 0x024A [0x01] GOTO 0x02BF
+ 98: 0x024D [0x02] IF !(ExtData[1]->WorkLocal[7] == 5*) GOTO 0x0260
+ 99: 0x0255 [0x03] Work_Zone[1] = 1073741824*
+100: 0x025A [0x05] ExtData[1]->WorkLocal[6] = 1
+101: 0x025D [0x01] GOTO 0x02BF
+102: 0x0260 [0x02] IF !(ExtData[1]->WorkLocal[7] == 6*) GOTO 0x0273
+103: 0x0268 [0x03] Work_Zone[1] = 1073741824*
+104: 0x026D [0x05] ExtData[1]->WorkLocal[6] = 1
+105: 0x0270 [0x01] GOTO 0x02BF
+106: 0x0273 [0x02] IF !(ExtData[1]->WorkLocal[7] == 7*) GOTO 0x0286
+107: 0x027B [0x03] Work_Zone[1] = 1073741824*
+108: 0x0280 [0x05] ExtData[1]->WorkLocal[6] = 1
+109: 0x0283 [0x01] GOTO 0x02BF
+110: 0x0286 [0x02] IF !(ExtData[1]->WorkLocal[7] == 8*) GOTO 0x0299
+111: 0x028E [0x03] Work_Zone[1] = 1073741824*
+112: 0x0293 [0x05] ExtData[1]->WorkLocal[6] = 1
+113: 0x0296 [0x01] GOTO 0x02BF
+114: 0x0299 [0x02] IF !(ExtData[1]->WorkLocal[7] == 9*) GOTO 0x02AC
+115: 0x02A1 [0x03] Work_Zone[1] = 1073741824*
+116: 0x02A6 [0x05] ExtData[1]->WorkLocal[6] = 1
+117: 0x02A9 [0x01] GOTO 0x02BF
+118: 0x02AC [0x02] IF !(ExtData[1]->WorkLocal[7] == 10*) GOTO 0x02BF
+119: 0x02B4 [0x03] Work_Zone[1] = 1073741824*
+120: 0x02B9 [0x05] ExtData[1]->WorkLocal[6] = 1
+121: 0x02BC [0x01] GOTO 0x02BF
+
+SUBROUTINE_02BF:
+122: 0x02BF [0x01] GOTO 0x0766
+123: 0x02C2 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x0766
+124: 0x02CA [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[10]
+125: 0x02CF [0x40] SET_BIT_WORK_RANGE(start_bit=22*, end_bit=25*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+126: 0x02D8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+127: 0x02DA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+128: 0x02DC [0x03] Work_Zone[1] = 0*
+129: 0x02E1 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[9]
+130: 0x02E6 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x02F9
+131: 0x02EE [0x03] Work_Zone[1] = 1073741824*
+132: 0x02F3 [0x05] ExtData[1]->WorkLocal[6] = 1
+133: 0x02F6 [0x01] GOTO 0x0763
+134: 0x02F9 [0x02] IF !(ExtData[1]->WorkLocal[7] == 4*) GOTO 0x030C
+135: 0x0301 [0x03] Work_Zone[1] = 1073741824*
+136: 0x0306 [0x05] ExtData[1]->WorkLocal[6] = 1
+137: 0x0309 [0x01] GOTO 0x0763
+138: 0x030C [0x02] IF !(ExtData[1]->WorkLocal[7] == 5*) GOTO 0x031F
+139: 0x0314 [0x03] Work_Zone[1] = 1073741824*
+140: 0x0319 [0x05] ExtData[1]->WorkLocal[6] = 1
+141: 0x031C [0x01] GOTO 0x0763
+142: 0x031F [0x02] IF !(ExtData[1]->WorkLocal[7] == 6*) GOTO 0x0332
+143: 0x0327 [0x03] Work_Zone[1] = 1073741824*
+144: 0x032C [0x05] ExtData[1]->WorkLocal[6] = 1
+145: 0x032F [0x01] GOTO 0x0763
+146: 0x0332 [0x02] IF !(ExtData[1]->WorkLocal[7] == 7*) GOTO 0x0345
+147: 0x033A [0x03] Work_Zone[1] = 1073741824*
+148: 0x033F [0x05] ExtData[1]->WorkLocal[6] = 1
+149: 0x0342 [0x01] GOTO 0x0763
+150: 0x0345 [0x02] IF !(ExtData[1]->WorkLocal[7] == 8*) GOTO 0x0358
+151: 0x034D [0x03] Work_Zone[1] = 1073741824*
+152: 0x0352 [0x05] ExtData[1]->WorkLocal[6] = 1
+153: 0x0355 [0x01] GOTO 0x0763
+154: 0x0358 [0x02] IF !(ExtData[1]->WorkLocal[7] == 9*) GOTO 0x036B
+155: 0x0360 [0x03] Work_Zone[1] = 1073741824*
+156: 0x0365 [0x05] ExtData[1]->WorkLocal[6] = 1
+157: 0x0368 [0x01] GOTO 0x0763
+158: 0x036B [0x02] IF !(ExtData[1]->WorkLocal[7] == 10*) GOTO 0x037E
+159: 0x0373 [0x03] Work_Zone[1] = 1073741824*
+160: 0x0378 [0x05] ExtData[1]->WorkLocal[6] = 1
+161: 0x037B [0x01] GOTO 0x0763
+162: 0x037E [0x02] IF !(ExtData[1]->WorkLocal[7] == 11*) GOTO 0x0707
+163: 0x0386 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=4*)
+164: 0x038F [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[1]
+165: 0x0394 [0x48] [System] [7457*]:
+    → "Commencing transport to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!"
+166: 0x0397 [0x02] IF !(5* == 0*) GOTO 0x03A2
+167: 0x039F [0x01] GOTO 0x0700
+168: 0x03A2 [0x02] IF !(5* == 1*) GOTO 0x03AD
+169: 0x03AA [0x01] GOTO 0x0700
+170: 0x03AD [0x02] IF !(5* == 2*) GOTO 0x03B8
+171: 0x03B5 [0x01] GOTO 0x0700
+172: 0x03B8 [0x02] IF !(5* == 3*) GOTO 0x03C3
+173: 0x03C0 [0x01] GOTO 0x0700
+174: 0x03C3 [0x02] IF !(5* == 4*) GOTO 0x03CE
+175: 0x03CB [0x01] GOTO 0x0700
+176: 0x03CE [0x02] IF !(5* == 6*) GOTO 0x03D9
+177: 0x03D6 [0x01] GOTO 0x0700
+178: 0x03D9 [0x02] IF !(5* == 7*) GOTO 0x0489
+179: 0x03E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+180: 0x03F2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+181: 0x0401 [0x38] SET_CLIENT_EVENT_MODE(mode=18*)
+182: 0x0404 [0x46] CAMERA_CONTROL: Disable user control
+183: 0x0406 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-580.000*, pos_z=-404.000*, pos_y=0.000*, direction=270.0°*)
+184: 0x0413 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "al02" with entities [LocalPlayer, LocalPlayer], work=[35*, 0*]
+185: 0x0424 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+186: 0x0435 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+187: 0x0444 [0x4C] EventEntity->StatusEvent = 8 // Open door
+188: 0x0445 [0x1C] WAIT(180* ticks)
+189: 0x0448 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20p (ID: 17072326/0x010480C6), tag_num=0x02)
+190: 0x044F [0x1C] WAIT(60* ticks)
+191: 0x0452 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x43)
+192: 0x0459 [0x1C] WAIT(240* ticks)
+193: 0x045C [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20p (ID: 17072326/0x010480C6), tag_num=0x03)
+194: 0x0463 [0x1C] WAIT(120* ticks)
+195: 0x0466 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+196: 0x0477 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+197: 0x0486 [0x01] GOTO 0x0700
+198: 0x0489 [0x02] IF !(5* == 8*) GOTO 0x0539
+199: 0x0491 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+200: 0x04A2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+201: 0x04B1 [0x38] SET_CLIENT_EVENT_MODE(mode=18*)
+202: 0x04B4 [0x46] CAMERA_CONTROL: Disable user control
+203: 0x04B6 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-580.000*, pos_z=-156.000*, pos_y=0.000*, direction=90.0°*)
+204: 0x04C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "al01" with entities [LocalPlayer, LocalPlayer], work=[35*, 0*]
+205: 0x04D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+206: 0x04E5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+207: 0x04F4 [0x4C] EventEntity->StatusEvent = 8 // Open door
+208: 0x04F5 [0x1C] WAIT(180* ticks)
+209: 0x04F8 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20o (ID: 17072324/0x010480C4), tag_num=0x05)
+210: 0x04FF [0x1C] WAIT(60* ticks)
+211: 0x0502 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x44)
+212: 0x0509 [0x1C] WAIT(240* ticks)
+213: 0x050C [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20o (ID: 17072324/0x010480C4), tag_num=0x06)
+214: 0x0513 [0x1C] WAIT(120* ticks)
+215: 0x0516 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+216: 0x0527 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+217: 0x0536 [0x01] GOTO 0x0700
+218: 0x0539 [0x02] IF !(5* == 9*) GOTO 0x05E9
+219: 0x0541 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+220: 0x0552 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+221: 0x0561 [0x38] SET_CLIENT_EVENT_MODE(mode=18*)
+222: 0x0564 [0x46] CAMERA_CONTROL: Disable user control
+223: 0x0566 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=620.000*, pos_z=-204.000*, pos_y=0.000*, direction=270.0°*)
+224: 0x0573 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "al03" with entities [LocalPlayer, LocalPlayer], work=[35*, 0*]
+225: 0x0584 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+226: 0x0595 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+227: 0x05A4 [0x4C] EventEntity->StatusEvent = 8 // Open door
+228: 0x05A5 [0x1C] WAIT(180* ticks)
+229: 0x05A8 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20q (ID: 17072328/0x010480C8), tag_num=0x02)
+230: 0x05AF [0x1C] WAIT(60* ticks)
+231: 0x05B2 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x45)
+232: 0x05B9 [0x1C] WAIT(240* ticks)
+233: 0x05BC [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20q (ID: 17072328/0x010480C8), tag_num=0x03)
+234: 0x05C3 [0x1C] WAIT(120* ticks)
+235: 0x05C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+236: 0x05D7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+237: 0x05E6 [0x01] GOTO 0x0700
+238: 0x05E9 [0x02] IF !(5* == 10*) GOTO 0x0699
+239: 0x05F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+240: 0x0602 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+241: 0x0611 [0x38] SET_CLIENT_EVENT_MODE(mode=18*)
+242: 0x0614 [0x46] CAMERA_CONTROL: Disable user control
+243: 0x0616 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=580.000*, pos_z=444.000*, pos_y=0.000*, direction=90.0°*)
+244: 0x0623 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "al00" with entities [LocalPlayer, LocalPlayer], work=[35*, 0*]
+245: 0x0634 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+246: 0x0645 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+247: 0x0654 [0x4C] EventEntity->StatusEvent = 8 // Open door
+248: 0x0655 [0x1C] WAIT(180* ticks)
+249: 0x0658 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20n (ID: 17072322/0x010480C2), tag_num=0x02)
+250: 0x065F [0x1C] WAIT(60* ticks)
+251: 0x0662 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x46)
+252: 0x0669 [0x1C] WAIT(240* ticks)
+253: 0x066C [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=_20n (ID: 17072322/0x010480C2), tag_num=0x03)
+254: 0x0673 [0x1C] WAIT(120* ticks)
+255: 0x0676 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+256: 0x0687 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+257: 0x0696 [0x01] GOTO 0x0700
+258: 0x0699 [0x02] IF !(5* == 5*) GOTO 0x0700
+259: 0x06A1 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "2pb2" with entities [EventEntity, EventEntity]
+260: 0x06AE [0x1C] WAIT(540* ticks)
+261: 0x06B1 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x03)
+262: 0x06B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+263: 0x06C9 [0x1C] WAIT(60* ticks)
+264: 0x06CC [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "2pbk" with entities [EventEntity, EventEntity]
+265: 0x06D9 [0x1C] WAIT(30* ticks)
+266: 0x06DC [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "2pb1" with entities [EventEntity, EventEntity]
+267: 0x06E9 [0x1C] WAIT(30* ticks)
+268: 0x06EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+269: 0x06FD [0x01] GOTO 0x0700
+
+SUBROUTINE_0700:
+270: 0x0700 [0x30] SET_UCOFF_CONTINUE_ZERO()
+271: 0x0701 [0x05] ExtData[1]->WorkLocal[6] = 1
+272: 0x0704 [0x01] GOTO 0x0763
+273: 0x0707 [0x02] IF !(ExtData[1]->WorkLocal[7] == 12*) GOTO 0x071A
+274: 0x070F [0x03] Work_Zone[1] = 1073741824*
+275: 0x0714 [0x05] ExtData[1]->WorkLocal[6] = 1
+276: 0x0717 [0x01] GOTO 0x0763
+277: 0x071A [0x02] IF !(ExtData[1]->WorkLocal[7] == 13*) GOTO 0x072D
+278: 0x0722 [0x03] Work_Zone[1] = 1073741824*
+279: 0x0727 [0x05] ExtData[1]->WorkLocal[6] = 1
+280: 0x072A [0x01] GOTO 0x0763
+281: 0x072D [0x02] IF !(ExtData[1]->WorkLocal[7] == 14*) GOTO 0x0763
+282: 0x0735 [0x0B] ExtData[1]->WorkLocal[8]++
+283: 0x0738 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 15*) GOTO 0x075D
+284: 0x0740 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[10]
+285: 0x0745 [0x40] SET_BIT_WORK_RANGE(start_bit=22*, end_bit=25*, target=Work_Zone[1], source=2*)
+286: 0x074E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+287: 0x0750 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+288: 0x0752 [0x05] ExtData[1]->WorkLocal[6] = 1
+289: 0x0755 [0x48] [System] [7460*]:
+    → "You cannot enter at this time. Please wait a while before trying again."
+290: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
+291: 0x0759 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+292: 0x075A [0x01] GOTO 0x0760
+293: 0x075D [0x1C] WAIT(120* ticks)
+
+SUBROUTINE_0760:
+294: 0x0760 [0x01] GOTO 0x0763
+
+SUBROUTINE_0763:
+295: 0x0763 [0x01] GOTO 0x0766
+
+SUBROUTINE_0766:
+296: 0x0766 [0x01] GOTO 0x01C7
+297: 0x0769 [0x01] GOTO 0x0780
+298: 0x076C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0780
+299: 0x0774 [0x48] [System] [7458*]:
+    → "Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended."
+300: 0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
+301: 0x0778 [0x03] Work_Zone[1] = 1073741824*
+302: 0x077D [0x01] GOTO 0x0780
+
+SUBROUTINE_0780:
+303: 0x0780 [0x01] GOTO 0x0797
+
+SUBROUTINE_0797:
+304: 0x0797 [0x21] END_EVENT
+305: 0x0798 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0127 [0x48] [System] [7448*]:
+    → "The suggested level for $0 is $3. Place a level restriction on the party?"
+     0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x012B [0x24] CREATE_DIALOG(message_id=7449*, default_option=0*, option_flags=0*)
+    → "Place a level restriction? [No./Level 70./Level 60./Level 50.]"
+     0x0132 [0x25] WAIT_DIALOG_SELECT()
+     0x0133 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013E
+     0x013B [0x01] GOTO 0x015F
+     0x013E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0149
+     0x0146 [0x01] GOTO 0x015F
+     0x0149 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0154
+     0x0151 [0x01] GOTO 0x015F
+     0x0154 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x015F
+     0x015C [0x01] GOTO 0x015F
+     0x015F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=Work_Zone[0])
+     0x0168 [0x03] Work_Zone_1700[0] = Work_Zone[0]
+     0x016D [0x01] GOTO 0x017F
+     0x017F [0x01] GOTO 0x0185
+     0x0185 [0x48] [System] [7450*]:
+    → "Your party's level will be [unrestricted/restricted to 70/restricted to 60/restricted to 50] for "$0.""
+     0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0189 [0x24] CREATE_DIALOG(message_id=7452*, default_option=1*, option_flags=0*)
+    → "Accept this setting? [Yes./No.]"
+     0x0190 [0x25] WAIT_DIALOG_SELECT()
+     0x0191 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0783
+# Dead code (unreachable instructions):
+     0x0783 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0797
+     0x078B [0x48] [System] [7458*]:
+    → "Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended."
+     0x078E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x078F [0x03] Work_Zone[1] = 1073741824*
+     0x0794 [0x01] GOTO 0x0797
+```
+
+### Event 116
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0799    |
+| Data Size    | 110 bytes |
+| Instructions | 19        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0790:                             43 00 43 01 20 01 42           C.C. .B
+07A0: 2D F8 FF FF 7F F8 FF FF  7F 32 70 62 32 1C 32 80  -........2pb2.2.
+07B0: 29 01 F0 FF FF 7F 03 03  01 10 04 80 45 33 80 F0  )...........E3..
+07C0: FF FF 7F F0 FF FF 7F 77  68 6F 31 02 80 1C 2A 80  .......who1...*.
+07D0: 2D F8 FF FF 7F F8 FF FF  7F 32 70 62 6B 1C 34 80  -........2pbk.4.
+07E0: 2D F8 FF FF 7F F8 FF FF  7F 32 70 62 31 1C 34 80  -........2pb1.4.
+07F0: 45 33 80 F0 FF FF 7F F0  FF FF 7F 77 68 69 31 02  E3.........whi1.
+0800: 80 46 00 20 00 21 00                              .F. .!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0799 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  1: 0x079B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  2: 0x079D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  3: 0x079F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  4: 0x07A0 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "2pb2" with entities [EventEntity, EventEntity]
+  5: 0x07AD [0x1C] WAIT(540* ticks)
+  6: 0x07B0 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x03)
+  7: 0x07B7 [0x03] Work_Zone[1] = 1*
+  8: 0x07BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+  9: 0x07CD [0x1C] WAIT(60* ticks)
+ 10: 0x07D0 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "2pbk" with entities [EventEntity, EventEntity]
+ 11: 0x07DD [0x1C] WAIT(30* ticks)
+ 12: 0x07E0 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "2pb1" with entities [EventEntity, EventEntity]
+ 13: 0x07ED [0x1C] WAIT(30* ticks)
+ 14: 0x07F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 15: 0x0801 [0x46] CAMERA_CONTROL: Restore default settings
+ 16: 0x0803 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 17: 0x0805 [0x21] END_EVENT
+ 18: 0x0806 [0x00] END_REQSTACK()
+```

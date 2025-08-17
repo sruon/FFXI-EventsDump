@@ -1,0 +1,2969 @@
+# 17764523 - Jack of Spades
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Windurst Woods (ID: 241) |
+| Block Size       | 9296 bytes               |
+| Total Events     | 12                       |
+| References Count | 214                      |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0001       |     16 |              2 |
+| [65535.2](#event-655352) | 0x0011       |     14 |              2 |
+| [65535.3](#event-655353) | 0x001F       |     16 |              2 |
+| [65535.4](#event-655354) | 0x002F       |     14 |              2 |
+| [65535.5](#event-655355) | 0x003D       |      9 |              3 |
+| [10009](#event-10009)    | 0x0046       |    207 |             58 |
+| [10010](#event-10010)    | 0x0115       |     79 |             16 |
+| [873](#event-873)        | 0x0164       |   8017 |           1619 |
+| [367](#event-367)        | 0x20B5       |      1 |              1 |
+| [871](#event-871)        | 0x20B6       |      1 |              1 |
+| [872](#event-872)        | 0x20B7       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00B5      |         181 |
+|       1 | 0x001E      |          30 |
+|       2 | 0x1AAF      |        6831 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x1AB0      |        6832 |
+|       5 | 0x0001      |           1 |
+|       6 | 0xFFFFFFFE  |  4294967294 |
+|       7 | 0x0002      |           2 |
+|       8 | 0x0003      |           3 |
+|       9 | 0x0004      |           4 |
+|      10 | 0x1AB1      |        6833 |
+|      11 | 0x1AB2      |        6834 |
+|      12 | 0x1AB3      |        6835 |
+|      13 | 0x1AB4      |        6836 |
+|      14 | 0x1AB5      |        6837 |
+|      15 | 0x1AB6      |        6838 |
+|      16 | 0x1AB7      |        6839 |
+|      17 | 0x1AB8      |        6840 |
+|      18 | 0x1AB9      |        6841 |
+|      19 | 0x1ABA      |        6842 |
+|      20 | 0x1ABB      |        6843 |
+|      21 | 0x1ABC      |        6844 |
+|      22 | 0x1ABD      |        6845 |
+|      23 | 0x1AC0      |        6848 |
+|      24 | 0x1998      |        6552 |
+|      25 | 0x0019      |          25 |
+|      26 | 0x001A      |          26 |
+|      27 | 0x0005      |           5 |
+|      28 | 0x0008      |           8 |
+|      29 | 0x0009      |           9 |
+|      30 | 0x000C      |          12 |
+|      31 | 0x000D      |          13 |
+|      32 | 0x0010      |          16 |
+|      33 | 0x0011      |          17 |
+|      34 | 0x0014      |          20 |
+|      35 | 0x0015      |          21 |
+|      36 | 0x0018      |          24 |
+|      37 | 0x0006      |           6 |
+|      38 | 0x000B      |          11 |
+|      39 | 0x0012      |          18 |
+|      40 | 0x0017      |          23 |
+|      41 | 0x001D      |          29 |
+|      42 | 0x1AC1      |        6849 |
+|      43 | 0x1ADC      |        6876 |
+|      44 | 0xFFFFFFFF  |  4294967295 |
+|      45 | 0x1ADD      |        6877 |
+|      46 | 0x1AE7      |        6887 |
+|      47 | 0x000A      |          10 |
+|      48 | 0x1AEB      |        6891 |
+|      49 | 0x1AEF      |        6895 |
+|      50 | 0x1AF3      |        6899 |
+|      51 | 0x1AF7      |        6903 |
+|      52 | 0x1AFB      |        6907 |
+|      53 | 0x1AFF      |        6911 |
+|      54 | 0x1B03      |        6915 |
+|      55 | 0x0007      |           7 |
+|      56 | 0x1B07      |        6919 |
+|      57 | 0x1B0B      |        6923 |
+|      58 | 0x1B0F      |        6927 |
+|      59 | 0x1B13      |        6931 |
+|      60 | 0x1ADE      |        6878 |
+|      61 | 0x0078      |         120 |
+|      62 | 0x1ADF      |        6879 |
+|      63 | 0x00EE      |         238 |
+|      64 | 0x20047     |      131143 |
+|      65 | 0x28E7A     |      167546 |
+|      66 | 0x1AE4      |        6884 |
+|      67 | 0x29211     |      168465 |
+|      68 | 0x264D8     |      156888 |
+|      69 | 0x32F8      |       13048 |
+|      70 | 0xFFFD992E  |  4294809902 |
+|      71 | 0xFFFF0BD1  |  4294904785 |
+|      72 | 0x19B12     |      105234 |
+|      73 | 0xFFFF0395  |  4294902677 |
+|      74 | 0xFFFFDD6B  |  4294958443 |
+|      75 | 0xFFFEFBD9  |  4294900697 |
+|      76 | 0xFFFDC6B5  |  4294821557 |
+|      77 | 0xFFFEED9C  |  4294897052 |
+|      78 | 0xFFFFEEA9  |  4294962857 |
+|      79 | 0xFFFE1E4B  |  4294843979 |
+|      80 | 0xF6EB      |       63211 |
+|      81 | 0xFFFC3B7C  |  4294720380 |
+|      82 | 0xFFFB4CA5  |  4294659237 |
+|      83 | 0xFFFC23B8  |  4294714296 |
+|      84 | 0xFFFC8983  |  4294740355 |
+|      85 | 0x2AF8      |       11000 |
+|      86 | 0x5208      |       21000 |
+|      87 | 0xFFFF9009  |  4294938633 |
+|      88 | 0x197EA     |      104426 |
+|      89 | 0x000E      |          14 |
+|      90 | 0x5F0A      |       24330 |
+|      91 | 0xFFFCF15B  |  4294766939 |
+|      92 | 0x000F      |          15 |
+|      93 | 0xFFFF2626  |  4294911526 |
+|      94 | 0x49E2      |       18914 |
+|      95 | 0x58B0      |       22704 |
+|      96 | 0xFFFD0636  |  4294772278 |
+|      97 | 0x1F7D7     |      128983 |
+|      98 | 0x284A1     |      165025 |
+|      99 | 0x0013      |          19 |
+|     100 | 0x27EE3     |      163555 |
+|     101 | 0x27553     |      161107 |
+|     102 | 0x0016      |          22 |
+|     103 | 0xFFFF15A2  |  4294907298 |
+|     104 | 0x4D3F      |       19775 |
+|     105 | 0x2CA8      |       11432 |
+|     106 | 0xFFFCFC9D  |  4294769821 |
+|     107 | 0xFFFEB388  |  4294882184 |
+|     108 | 0x0CF6      |        3318 |
+|     109 | 0x001B      |          27 |
+|     110 | 0xFFFD09AE  |  4294773166 |
+|     111 | 0xFFFE1FC3  |  4294844355 |
+|     112 | 0x001C      |          28 |
+|     113 | 0xFFFF3658  |  4294915672 |
+|     114 | 0x1CAE4     |      117476 |
+|     115 | 0x1AE0      |        6880 |
+|     116 | 0x00EF      |         239 |
+|     117 | 0xFE97      |       65175 |
+|     118 | 0xFFFF0901  |  4294904065 |
+|     119 | 0xFFFEC1A3  |  4294885795 |
+|     120 | 0x19354     |      103252 |
+|     121 | 0xFFFE525D  |  4294857309 |
+|     122 | 0x31A4A     |      203338 |
+|     123 | 0xFFFE24A8  |  4294845608 |
+|     124 | 0x1DE3C     |      122428 |
+|     125 | 0xFFFCCC18  |  4294757400 |
+|     126 | 0xFFFDF0F7  |  4294832375 |
+|     127 | 0x1DF10     |      122640 |
+|     128 | 0x1BBC6     |      113606 |
+|     129 | 0xFFFF9A70  |  4294941296 |
+|     130 | 0x40352     |      262994 |
+|     131 | 0x1AE5      |        6885 |
+|     132 | 0x1AE1      |        6881 |
+|     133 | 0x00F0      |         240 |
+|     134 | 0xFFFD1B12  |  4294777618 |
+|     135 | 0x1031F     |       66335 |
+|     136 | 0xFFFE5037  |  4294856759 |
+|     137 | 0x13AAF     |       80559 |
+|     138 | 0xFFFF8EB8  |  4294938296 |
+|     139 | 0x2E472     |      189554 |
+|     140 | 0xFFFE4DD7  |  4294856151 |
+|     141 | 0x18EAA     |      102058 |
+|     142 | 0x12EEE     |       77550 |
+|     143 | 0x1CC09     |      117769 |
+|     144 | 0xFFFD3514  |  4294784276 |
+|     145 | 0x120B1     |       73905 |
+|     146 | 0xFFFE47BC  |  4294854588 |
+|     147 | 0xFFFE5E29  |  4294860329 |
+|     148 | 0x16A4D     |       92749 |
+|     149 | 0xFFFFE0DA  |  4294959322 |
+|     150 | 0x25439     |      152633 |
+|     151 | 0x37D66     |      228710 |
+|     152 | 0x16C82     |       93314 |
+|     153 | 0x0028      |          40 |
+|     154 | 0x1AE2      |        6882 |
+|     155 | 0x00F1      |         241 |
+|     156 | 0xFFFFFFDB  |  4294967259 |
+|     157 | 0xFFFFA7C3  |  4294944707 |
+|     158 | 0xFFFF9BC9  |  4294941641 |
+|     159 | 0xFFFF1315  |  4294906645 |
+|     160 | 0x536A      |       21354 |
+|     161 | 0x1E923     |      125219 |
+|     162 | 0xC743      |       51011 |
+|     163 | 0xD482      |       54402 |
+|     164 | 0xFE0C      |       65036 |
+|     165 | 0x3A7C9     |      239561 |
+|     166 | 0xFFFFA2EF  |  4294943471 |
+|     167 | 0xFFFF51E9  |  4294922729 |
+|     168 | 0x2016D     |      131437 |
+|     169 | 0xFFFE6EBD  |  4294864573 |
+|     170 | 0xFFFFD195  |  4294955413 |
+|     171 | 0x1584      |        5508 |
+|     172 | 0x1A48C     |      107660 |
+|     173 | 0x2A732     |      173874 |
+|     174 | 0xFFFFBF32  |  4294950706 |
+|     175 | 0xFFFF18F3  |  4294908147 |
+|     176 | 0x1CAFC     |      117500 |
+|     177 | 0x16155     |       90453 |
+|     178 | 0xFFFFD0C3  |  4294955203 |
+|     179 | 0x3E3F      |       15935 |
+|     180 | 0x1AE3      |        6883 |
+|     181 | 0x1FF54     |      130900 |
+|     182 | 0x1AE6      |        6886 |
+|     183 | 0x1AC6      |        6854 |
+|     184 | 0x1AC7      |        6855 |
+|     185 | 0x1A14E     |      106830 |
+|     186 | 0xFFFF84D9  |  4294935769 |
+|     187 | 0x1ACB      |        6859 |
+|     188 | 0x005A      |          90 |
+|     189 | 0x0050      |          80 |
+|     190 | 0x1ACC      |        6860 |
+|     191 | 0x1ACD      |        6861 |
+|     192 | 0x1ACE      |        6862 |
+|     193 | 0x1ACF      |        6863 |
+|     194 | 0x1AD0      |        6864 |
+|     195 | 0x1AD1      |        6865 |
+|     196 | 0x15BD9     |       89049 |
+|     197 | 0xFFFF4B8D  |  4294921101 |
+|     198 | 0x1AD2      |        6866 |
+|     199 | 0x1AD3      |        6867 |
+|     200 | 0x1AD4      |        6868 |
+|     201 | 0x1AD5      |        6869 |
+|     202 | 0x1AC2      |        6850 |
+|     203 | 0x1AD7      |        6871 |
+|     204 | 0x1AD6      |        6870 |
+|     205 | 0xFFFFDA7C  |  4294957692 |
+|     206 | 0xFFFF116B  |  4294906219 |
+|     207 | 0x2977F     |      169855 |
+|     208 | 0xFFFFF35A  |  4294964058 |
+|     209 | 0x1AD8      |        6872 |
+|     210 | 0x1AD9      |        6873 |
+|     211 | 0x1ADA      |        6874 |
+|     212 | 0x1ADB      |        6875 |
+|     213 | 0x1AC5      |        6853 |
+
+## String References
+
+- **6552**: Obtained $0 gil.
+- **6831**: AlLow mE tO aSsisT You iF yOu arE loSt. What CaN jAck dO For yOu?
+- **6832**: Ask Jack... [To show you a map of Windurst./How to give items to townsfolk./How to go outside and battle./About quests and missions./Nothing in particular.]
+- **6833**: JaCk nOw ShoWIng mAP.
+- **6834**: InTerchAnge oF iTeMs aNd mOnEy beTwEeN PeoPle AnD tHiNgs iS calLeD "TRaDiNg."
+- **6835**: FIrSt tarGet EnTiTy tO IntErAcT wITh. NoThIng hApPeNs uNlESs reCeIver iS pRoperLy TaRgeTEd.
+- **6836**: OpEn MaIn MenU. PrESs "TRADE" bUtTon.
+- **6837**: NeXt cHoOsE ItEms tO HanD oVEr! PreSs "CONFIRM" bUttOn! TaRgeTed eNtIty sHouLd rEcEiVe IteMs.
+- **6838**: BeFoRe sETtinG oUt tO BaTtLe: ConFiRm EqUiPmEnt iS pRopeRLy EQUIPped! MaGiC-UsErS "USE" SpeLl ScRolLs oN tHeMsElvEs TO lEaRn mAgIc!
+- **6839**: BeForE cOmMeNcInG BatTlE wITh MoNSter: "CHECK" MOnstER tO COnFIrm Its StrEngTh!
+- **6840**: AfTer BAttLE iS WoN: LooK fOr "SPOILS" dRoPpEd bY MonSters. iF In PaRtY, "CAST LOTS" fOr SPOILS!
+- **6841**: QUESTS aRe ReQueSts FoR HelP fRoM oRdiNaRy ToWnsFoLk. iT pAyS To hELp pEOplE iN NeEd.
+- **6842**: MISSIONS aRe OfFIcIaL rEqUesTs fOr aSSiStanCe mAdE bY tHe WInDuRStiAN AuThoRiTIes.
+- **6843**: yoU CaN ReCeIvE MISSIONS frOm ThE gUarDs aT tHe ToWn'S GATeHOuSe.
+- **6844**: FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp. OvEr AnD oUt!
+- **6845**: ThAnK YoU KiNdLY! PLEaSe TaKe thIs In rETuRn. JaCk hAS No nEEd fOr THis.
+- **6848**: JaCk ReCOmMEnDs yOu TaLk wiTH a gUaRd NAmeD SeLeLE. SHE iS nEar tHE GaTe In WinDURst wOOds wHiCh eXiTs inTo eaST SAruTAbArUtA.
+- **6849**: Inquire about what? [I want to find some quests!/I want to try the tutorial!/Teach me about Records of Eminence!/Teach me about the Trust initiative!/I want a map of the area I'm in!/I want maps of the whole city!/How do I give items to people?/How do I fight outside town?/What are quests and missions?/I have other questions./Nothing for now.]
+- **6850**: If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU.
+- **6853**: mAPs aRe AvAilaBLe Due sOutH of heRe. One oF tHe TwO sTaFF MemBeRs wiLl seLL TheM To yOu.
+- **6854**: tHe tuToRIal EveNt iS perFeCT fOr beGiNNerS! YoU CaN lEaRN aBouT aDveNTurInG iN tHe LanD of VAnA'dIel!
+- **6855**: taLk tO SeLelE at thE GatE coNNecTinG wINdurST WooDs To EaSt SAruTabAruTA.
+- **6859**: KeEp GoinG, and fiNd SeLEle. JacK'lL mArk heR LocATioN oN yoUr MaP.
+- **6860**: YoU CaN fInd tHE MarK bY pREssIng tHe "MaP" buTTon, seLecTiNG "mARkErs," and lOOkinG tO tHe RigHT.
+- **6861**: SeLEctInG "WiDE sCaN" wiLL aLso SHow yOu thE LoCAtiOns oF vAriOuS pEopLE.
+- **6862**: REcoRdS oF EminENcE CaN bE ENjoYeD BY anYonE At ANytiMe. YoU EvEN Get rEwaRDs fOr pArtiCIPaTinG!
+- **6863**: OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT "QueSTs" and tHen "ObJEcTiVE LiSt" tO Get sTarTEd.
+- **6864**: FrOM ThERe, sElecT "TUtorIaL," tHEn "BaSicS" anD "FiRsT StEP fOrwArd." SeT ThaT OBjeCTivE tO gEt STarTeD.
+- **6865**: I'lL gIvE yOU a HinT fOR ComPleTinG "FirSt SteP FoRWarD."
+- **6866**: PrOceeD AHeAd In WIndUrsT WooDS aNd FinD tHe DEsiGnaTEd pErSoN. I'lL pLacE a MaRKeR oN yOur MAp.
+- **6867**: THeRe aRe MaNY ObjEcTiveS tO CHooSE FrOm, sO pIck oNEs thAt MatCh yOUr StylE.
+- **6868**: THe TruST iNitIAtivE is A New tYpe OF MaGIc DevElOpED bY aN inStiTUtE in jEUnO.
+- **6869**: YoU CAn fINd ComPanIOns tO jOiN yOu iN BattLe IF yOu pArTIciPAte.
+- **6870**: I'lL PrOVidE yOu wITh MoRe InFOrmaTIoN wHEn YoU ReAcH LEvEl FIvE.
+- **6871**: WEtAtA In WInduRsT WOOds CaN TeLL yOU MorE. LeT Me MArK hER LoCAtIOn On yOur MAp.
+- **6872**: OtHEr pEoPlE aLSo KnoW a LoT aBouT MaPs, LiKE ZeLaLA in WindUrsT WaTErs. LeT JacK ShOw WHerE sHe iS.
+- **6873**: oPeNInG tHe MaiN mENu and CliCKinG tO thE rIghT giVes yoU An opTIoN to oPeN tHe "HeLP dEsK."
+- **6874**: prEssIng thE "HelP DesK" buTToN aNd sEleCTiNg thE "HeLp dESk" CaTegOrY WiLL BRiNg uP a SelECtIoN tITleD "I NeED hElP wITh tHe GaME cOntRolS."
+- **6875**: REadInG tHe inFOrmAtiOn tHerE MaY reSoLve YOur iSSue.
+- **6876**: tHe CiTIzEns oF WiNDurSt cRy oUT FoR yOUr Aid. ShALl I fInD peOplE WhO NeeD HElp?
+- **6877**: Inquire about which locale? [None./Windurst Waters: $1 individual[/s]./Windurst Walls: $2 individual[/s]/Port Windurst: $3 individual[/s]/Windurst Woods: $4 individual[/s]/Heavens Tower: $5 individual[/s]]
+- **6878**: tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP.
+- **6879**: Who will you go see in Windurst Waters? [No one./Mashuu-Ajuu./Moreno-Toeno./Kerutoto./Hariga-Origa./Angelica./Baren-Moren./Chamama./Ranpi-Monpi./Naiko-Paneiko./Moari-Kaaori./Khoto Rokkorah./Naiko-Paneiko./Tosuka-Porika./Kenapa-Keppa./Lumomo./Ohbiru-Dohbiru./Paku-Nakku./Hariga-Origa/Fuepepe./Tosuka-Porika./Baren-Moren./Jatan-Paratan./Kerutoto./Leepe-Hoppe./Kerutoto./Gantineux./Honoi-Gomoi./Ohbiru-Dohbiru./Leepe-Hoppe./Ropunono.]
+- **6880**: Who will you go see in Windurst Walls? [No one./Ambrosius./Raamimi./Yoran-Oran./Koru-Moru./Ojha Rhawash./Shantotto./Shantotto./Someone in the House of the Hero./Shantotto./Koru-Moru./Someone in the House of the Hero./Someone in the House of the Hero./Someone in the House of the Hero./Koru-Moru./Shantotto.]
+- **6881**: Who will you go see in Port Windurst? [No one./Tokaka./Sigismund./Kohlo-Lakolo./Kohlo-Lakolo./Kohlo-Lakolo./Hakkuru-Rinkuru./Paytah./Kohlo-Lakolo./Hakkuru-Rinkuru./Chipmy-Popmy./Kuroido-Moido./Ohruru./Dehn Harzhapan./Kohlo-Lakolo./Kohlo-Lakolo./Kuroido-Moido./Pygmalion.]
+- **6882**: Who will you go see in Windurst Woods? [No one./Kopuro-Popuro./Ibwam./Illu Bohjaa./Tapoh Lihzeh./Nanaa Mihgo./Wetata./Kuoh Rhel./Kuoh Rhel./Kororo./Nanaa Mihgo./Kopuro-Popuro./Kopuro-Popuro./Gioh Ajihri./Soni-Muni./Perih Vashai./Nanaa Mihgo./Nanaa Mihgo./Nanaa Mihgo./Perih Vashai./Perih Vashai./Perih Vashai./Apururu./Perih Vashai.]
+- **6883**: Who will you go see in Heavens Tower? [No one./Chumimi./Chumimi./Chumimi.]
+- **6884**: I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.
+- **6885**: SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.
+- **6886**: ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is.
+- **6887**: FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS.
+- **6891**: YoU CAn wArP BetWEen PlACes KnOwn aS "HoME pOinTs." TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE.
+- **6895**: If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!
+- **6899**: DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!
+- **6903**: MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!
+- **6907**: LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk.
+- **6911**: LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE.
+- **6915**: LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS.
+- **6919**: LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN.
+- **6923**: LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs.
+- **6927**: LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls.
+- **6931**: LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's "cHaRm" aNd thE AccURaCy Of A BarD's sONgs.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    5B 00 80 F8 FF FF 7F  F8 FF FF 7F 74 6C 61 30   [..........tla0
+0010: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
+  1: 0x0010 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0011   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:    53 F8 FF FF 7F F8 FF  FF 7F 74 6C 61 30 00      S........tla0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0011 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tla0" with entities [EventEntity, EventEntity]
+  1: 0x001E [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x001F   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                                               5B                 [
+0020: 00 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 61 31 00     ..........tla1. 
+```
+
+#### Opcodes
+
+```
+  0: 0x001F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=181*
+  1: 0x002E [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x002F   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                                               53                 S
+0030: F8 FF FF 7F F8 FF FF 7F  74 6C 61 31 00           ........tla1.   
+```
+
+#### Opcodes
+
+```
+  0: 0x002F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tla1" with entities [EventEntity, EventEntity]
+  1: 0x003C [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x003D  |
+| Data Size    | 9 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:                                         5E 69 64               ^id
+0040: 6C 30 1C 01 80 00                                 l0....          
+```
+
+#### Opcodes
+
+```
+  0: 0x003D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+  1: 0x0042 [0x1C] WAIT(30* ticks)
+  2: 0x0045 [0x00] END_REQSTACK()
+```
+
+### Event 10009
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0046    |
+| Data Size    | 207 bytes |
+| Instructions | 58        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040:                   1E F0  FF FF 7F 1D 02 80 23 03        ........#.
+0050: 00 00 03 80 02 00 00 03  80 00 0D 01 24 04 80 03  ............$...
+0060: 80 03 80 25 02 00 10 03  80 00 B1 00 02 03 10 05  ...%............
+0070: 80 00 7C 00 8D 06 80 03  80 01 A9 00 02 03 10 07  ..|.............
+0080: 80 00 8C 00 8D 06 80 05  80 01 A9 00 02 03 10 08  ................
+0090: 80 00 9C 00 8D 06 80 07  80 01 A9 00 02 03 10 09  ................
+00A0: 80 00 A9 00 8D 06 80 08  80 1D 0A 80 23 8A 01 0A  ............#...
+00B0: 01 02 00 10 05 80 00 CC  00 1D 0B 80 23 1D 0C 80  ............#...
+00C0: 23 1D 0D 80 23 1D 0E 80  23 01 0A 01 02 00 10 07  #...#...#.......
+00D0: 80 00 E3 00 1D 0F 80 23  1D 10 80 23 1D 11 80 23  .......#...#...#
+00E0: 01 0A 01 02 00 10 08 80  00 FA 00 1D 12 80 23 1D  ..............#.
+00F0: 13 80 23 1D 14 80 23 01  0A 01 02 00 10 09 80 00  ..#...#.........
+0100: 0A 01 03 00 00 05 80 01  0A 01 01 54 00 1D 15 80  ...........T....
+0110: 23 20 00 21 00                                    # .!.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0046 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=6831*)
+    → "AlLow mE tO aSsisT You iF yOu arE loSt. What CaN jAck dO For yOu?"
+  2: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x004F [0x03] ExtData[1]->WorkLocal[0] = 0*
+  4: 0x0054 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x010D
+  5: 0x005C [0x24] CREATE_DIALOG(message_id=6832*, default_option=0*, option_flags=0*)
+    → "Ask Jack... [To show you a map of Windurst./How to give items to townsfolk./How to go outside and battle./About quests and missions./Nothing in particular.]"
+  6: 0x0063 [0x25] WAIT_DIALOG_SELECT()
+  7: 0x0064 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B1
+  8: 0x006C [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x007C
+  9: 0x0074 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967294*, properties=0*)
+ 10: 0x0079 [0x01] GOTO 0x00A9
+ 11: 0x007C [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x008C
+ 12: 0x0084 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967294*, properties=1*)
+ 13: 0x0089 [0x01] GOTO 0x00A9
+ 14: 0x008C [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x009C
+ 15: 0x0094 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967294*, properties=2*)
+ 16: 0x0099 [0x01] GOTO 0x00A9
+ 17: 0x009C [0x02] IF !(Work_Zone[3] == 4*) GOTO 0x00A9
+ 18: 0x00A4 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967294*, properties=3*)
+
+SUBROUTINE_00A9:
+ 19: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6833*)
+    → "JaCk nOw ShoWIng mAP."
+ 20: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 21: 0x00AD [0x8A] CLOSE_MAP()
+ 22: 0x00AE [0x01] GOTO 0x010A
+ 23: 0x00B1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00CC
+ 24: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
+    → "InTerchAnge oF iTeMs aNd mOnEy beTwEeN PeoPle AnD tHiNgs iS calLeD "TRaDiNg.""
+ 25: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 26: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
+    → "FIrSt tarGet EnTiTy tO IntErAcT wITh. NoThIng hApPeNs uNlESs reCeIver iS pRoperLy TaRgeTEd."
+ 27: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 28: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6836*)
+    → "OpEn MaIn MenU. PrESs "TRADE" bUtTon."
+ 29: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 30: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6837*)
+    → "NeXt cHoOsE ItEms tO HanD oVEr! PreSs "CONFIRM" bUttOn! TaRgeTed eNtIty sHouLd rEcEiVe IteMs."
+ 31: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x00C9 [0x01] GOTO 0x010A
+ 33: 0x00CC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00E3
+ 34: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6838*)
+    → "BeFoRe sETtinG oUt tO BaTtLe: ConFiRm EqUiPmEnt iS pRopeRLy EQUIPped! MaGiC-UsErS "USE" SpeLl ScRolLs oN tHeMsElvEs TO lEaRn mAgIc!"
+ 35: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 36: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6839*)
+    → "BeForE cOmMeNcInG BatTlE wITh MoNSter: "CHECK" MOnstER tO COnFIrm Its StrEngTh!"
+ 37: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 38: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=6840*)
+    → "AfTer BAttLE iS WoN: LooK fOr "SPOILS" dRoPpEd bY MonSters. iF In PaRtY, "CAST LOTS" fOr SPOILS!"
+ 39: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 40: 0x00E0 [0x01] GOTO 0x010A
+ 41: 0x00E3 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00FA
+ 42: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6841*)
+    → "QUESTS aRe ReQueSts FoR HelP fRoM oRdiNaRy ToWnsFoLk. iT pAyS To hELp pEOplE iN NeEd."
+ 43: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 44: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=6842*)
+    → "MISSIONS aRe OfFIcIaL rEqUesTs fOr aSSiStanCe mAdE bY tHe WInDuRStiAN AuThoRiTIes."
+ 45: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 46: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6843*)
+    → "yoU CaN ReCeIvE MISSIONS frOm ThE gUarDs aT tHe ToWn'S GATeHOuSe."
+ 47: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 48: 0x00F7 [0x01] GOTO 0x010A
+ 49: 0x00FA [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x010A
+ 50: 0x0102 [0x03] ExtData[1]->WorkLocal[0] = 1*
+ 51: 0x0107 [0x01] GOTO 0x010A
+
+SUBROUTINE_010A:
+ 52: 0x010A [0x01] GOTO 0x0054
+ 53: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=6844*)
+    → "FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp. OvEr AnD oUt!"
+ 54: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 55: 0x0111 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 56: 0x0113 [0x21] END_EVENT
+ 57: 0x0114 [0x00] END_REQSTACK()
+```
+
+### Event 10010
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0115   |
+| Data Size    | 79 bytes |
+| Instructions | 16       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0110:                42 1E F0  FF FF 7F 6F 70 5B 00 80       B.....op[..
+0120: F8 FF FF 7F F8 FF FF 7F  74 6C 61 30 1D 16 80 23  ........tla0...#
+0130: 53 F8 FF FF 7F F8 FF FF  7F 74 6C 61 30 5B 00 80  S........tla0[..
+0140: F8 FF FF 7F F8 FF FF 7F  74 6C 61 31 1D 17 80 23  ........tla1...#
+0150: 53 F8 FF FF 7F F8 FF FF  7F 74 6C 61 31 48 18 80  S........tla1H..
+0160: 20 00 21 00                                        .!.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0115 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0116 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x011B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x011C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x011D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
+  5: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=6845*)
+    → "ThAnK YoU KiNdLY! PLEaSe TaKe thIs In rETuRn. JaCk hAS No nEEd fOr THis."
+  6: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0130 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tla0" with entities [EventEntity, EventEntity]
+  8: 0x013D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=181*
+  9: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=6848*)
+    → "JaCk ReCOmMEnDs yOu TaLk wiTH a gUaRd NAmeD SeLeLE. SHE iS nEar tHE GaTe In WinDURst wOOds wHiCh eXiTs inTo eaST SAruTAbArUtA."
+ 10: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 11: 0x0150 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tla1" with entities [EventEntity, EventEntity]
+ 12: 0x015D [0x48] [System] [6552*]:
+    → "Obtained $0 gil."
+ 13: 0x0160 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 14: 0x0162 [0x21] END_EVENT
+ 15: 0x0163 [0x00] END_REQSTACK()
+```
+
+### Event 873
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0164     |
+| Data Size    | 8017 bytes |
+| Instructions | 1488       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0160:             03 01 00 03  10 03 02 00 04 10 03 03      ............
+0170: 00 05 10 03 04 00 06 10  03 05 00 07 10 03 06 00  ................
+0180: 08 10 3E 09 10 03 80 91  01 03 07 00 03 80 01 96  ..>.............
+0190: 01 03 07 00 05 80 3E 09  10 19 80 A5 01 03 11 00  ......>.........
+01A0: 07 80 01 B9 01 3E 09 10  1A 80 B4 01 03 11 00 05  .....>..........
+01B0: 80 01 B9 01 03 11 00 03  80 41 05 80 09 80 09 10  .........A......
+01C0: 08 00 41 1B 80 1C 80 09  10 09 00 41 1D 80 1E 80  ..A........A....
+01D0: 09 10 0A 00 41 1F 80 20  80 09 10 0B 00 41 21 80  ....A.. .....A!.
+01E0: 22 80 09 10 0C 00 41 23  80 24 80 09 10 0D 00 02  ".....A#.$......
+01F0: 08 00 03 80 00 FC 01 03  08 00 05 80 02 09 00 03  ................
+0200: 80 00 09 02 03 09 00 05  80 02 0A 00 03 80 00 16  ................
+0210: 02 03 0A 00 05 80 02 0B  00 03 80 00 23 02 03 0B  ............#...
+0220: 00 05 80 02 0C 00 03 80  00 30 02 03 0C 00 05 80  .........0......
+0230: 02 0D 00 03 80 00 3D 02  03 0D 00 05 80 41 03 80  ......=......A..
+0240: 1B 80 06 00 03 10 41 25  80 26 80 06 00 04 10 41  ......A%.&.....A
+0250: 1E 80 21 80 06 00 05 10  41 27 80 28 80 06 00 06  ..!.....A'.(....
+0260: 10 41 24 80 29 80 06 00  07 10 1E F0 FF FF 7F 1D  .A$.)...........
+0270: 02 80 23 03 00 00 03 80  02 00 00 03 80 00 A4 20  ..#............ 
+0280: 2E 24 2A 80 03 80 03 80  25 02 00 10 03 80 00 59  .$*.....%......Y
+0290: 1E 02 07 00 05 80 00 9F  02 1A AC 20 01 52 1E 1D  ........... .R..
+02A0: 2B 80 23 02 01 00 2C 80  00 B7 02 03 03 10 03 80  +.#...,.........
+02B0: 3D 01 00 03 80 05 80 02  02 00 2C 80 00 CB 02 03  =.........,.....
+02C0: 04 10 03 80 3D 02 00 03  80 05 80 02 03 00 2C 80  ....=.........,.
+02D0: 00 DF 02 03 05 10 03 80  3D 03 00 03 80 05 80 02  ........=.......
+02E0: 04 00 2C 80 00 F3 02 03  06 10 03 80 3D 04 00 03  ..,.........=...
+02F0: 80 05 80 02 05 00 2C 80  00 07 03 03 07 10 03 80  ......,.........
+0300: 3D 05 00 03 80 05 80 03  0F 00 05 80 02 0F 00 03  =...............
+0310: 80 02 52 1E 41 03 80 1B  80 06 00 03 10 41 25 80  ..R.A........A%.
+0320: 26 80 06 00 04 10 41 1E  80 21 80 06 00 05 10 41  &.....A..!.....A
+0330: 27 80 28 80 06 00 06 10  41 24 80 29 80 06 00 07  '.(.....A$.)....
+0340: 10 03 02 10 03 80 02 03  10 03 80 00 55 03 3C 02  ............U.<.
+0350: 10 05 80 05 80 02 04 10  03 80 00 64 03 3C 02 10  ...........d.<..
+0360: 07 80 05 80 02 05 10 03  80 00 73 03 3C 02 10 08  ..........s.<...
+0370: 80 05 80 02 06 10 03 80  00 82 03 3C 02 10 09 80  ...........<....
+0380: 05 80 02 07 10 03 80 00  91 03 3C 02 10 1B 80 05  ..........<.....
+0390: 80 2E 24 2D 80 03 80 02  10 25 02 00 10 03 80 00  ..$-.....%......
+03A0: 54 04 2E 06 0F 00 1D 2E  80 23 13 10 00 2F 80 02  T........#.../..
+03B0: 10 00 03 80 00 BE 03 1D  30 80 23 01 51 04 02 10  ........0.#.Q...
+03C0: 00 05 80 00 CD 03 1D 31  80 23 01 51 04 02 10 00  .......1.#.Q....
+03D0: 07 80 00 DC 03 1D 32 80  23 01 51 04 02 10 00 08  ......2.#.Q.....
+03E0: 80 00 EB 03 1D 33 80 23  01 51 04 02 10 00 09 80  .....3.#.Q......
+03F0: 00 FA 03 1D 34 80 23 01  51 04 02 10 00 1B 80 00  ....4.#.Q.......
+0400: 09 04 1D 35 80 23 01 51  04 02 10 00 25 80 00 18  ...5.#.Q....%...
+0410: 04 1D 36 80 23 01 51 04  02 10 00 37 80 00 27 04  ..6.#.Q....7..'.
+0420: 1D 38 80 23 01 51 04 02  10 00 1C 80 00 36 04 1D  .8.#.Q.......6..
+0430: 39 80 23 01 51 04 02 10  00 1D 80 00 45 04 1D 3A  9.#.Q.......E..:
+0440: 80 23 01 51 04 02 10 00  2F 80 00 51 04 1D 3B 80  .#.Q..../..Q..;.
+0450: 23 01 4E 1E 02 00 10 05  80 00 08 0D 03 02 10 03  #.N.............
+0460: 80 1D 3C 80 23 03 0E 00  05 80 02 0E 00 03 80 02  ..<.#...........
+0470: 05 0D 03 08 10 08 00 07  08 10 2F 80 03 01 10 08  ........../.....
+0480: 10 43 00 43 01 03 08 10  0D 00 07 08 10 3D 80 03  .C.C.........=..
+0490: 01 10 08 10 43 00 43 01  2E 24 3E 80 03 80 01 00  ....C.C..$>.....
+04A0: 25 02 00 10 03 80 00 B0  04 06 0E 00 2E 01 02 0D  %...............
+04B0: 02 00 10 05 80 00 F7 04  42 8D 3F 80 05 80 1C 01  ........B.?.....
+04C0: 80 B8 3F 80 05 80 08 00  40 80 41 80 4D 61 73 68  ..?.....@.A.Mash
+04D0: 75 75 2D 41 6A 75 75 00  00 00 00 00 02 08 00 1D  uu-Ajuu.........
+04E0: 80 03 E9 04 07 08 00 05  80 1C 01 80 1D 42 80 23  .............B.#
+04F0: 8A 1C 01 80 01 02 0D 02  00 10 07 80 00 3E 05 42  .............>.B
+0500: 8D 3F 80 05 80 1C 01 80  B8 3F 80 05 80 08 00 43  .?.......?.....C
+0510: 80 44 80 4D 6F 72 65 6E  6F 2D 54 6F 65 6E 6F 00  .D.Moreno-Toeno.
+0520: 00 00 00 02 08 00 1D 80  03 30 05 07 08 00 05 80  .........0......
+0530: 1C 01 80 1D 42 80 23 8A  1C 01 80 01 02 0D 02 00  ....B.#.........
+0540: 10 08 80 00 85 05 42 8D  3F 80 07 80 1C 01 80 B8  ......B.?.......
+0550: 3F 80 07 80 0D 00 45 80  46 80 4B 65 72 75 74 6F  ?.....E.F.Keruto
+0560: 74 6F 00 00 00 00 00 00  00 00 02 0D 00 1D 80 03  to..............
+0570: 77 05 07 0D 00 05 80 1C  01 80 1D 42 80 23 8A 1C  w..........B.#..
+0580: 01 80 01 02 0D 02 00 10  09 80 00 CC 05 42 8D 3F  .............B.?
+0590: 80 05 80 1C 01 80 B8 3F  80 05 80 08 00 47 80 48  .......?.....G.H
+05A0: 80 48 61 72 69 67 61 2D  4F 72 69 67 61 00 00 00  .Hariga-Origa...
+05B0: 00 02 08 00 1D 80 03 BE  05 07 08 00 05 80 1C 01  ................
+05C0: 80 1D 42 80 23 8A 1C 01  80 01 02 0D 02 00 10 1B  ..B.#...........
+05D0: 80 00 13 06 42 8D 3F 80  05 80 1C 01 80 B8 3F 80  ....B.?.......?.
+05E0: 05 80 08 00 49 80 4A 80  41 6E 67 65 6C 69 63 61  ....I.J.Angelica
+05F0: 00 00 00 00 00 00 00 00  02 08 00 1D 80 03 05 06  ................
+0600: 07 08 00 05 80 1C 01 80  1D 42 80 23 8A 1C 01 80  .........B.#....
+0610: 01 02 0D 02 00 10 25 80  00 5A 06 42 8D 3F 80 07  ......%..Z.B.?..
+0620: 80 1C 01 80 B8 3F 80 07  80 0D 00 4B 80 4C 80 42  .....?.....K.L.B
+0630: 61 72 65 6E 2D 4D 6F 72  65 6E 00 00 00 00 00 02  aren-Moren......
+0640: 0D 00 1D 80 03 4C 06 07  0D 00 05 80 1C 01 80 1D  .....L..........
+0650: 42 80 23 8A 1C 01 80 01  02 0D 02 00 10 37 80 00  B.#..........7..
+0660: A1 06 42 8D 3F 80 05 80  1C 01 80 B8 3F 80 05 80  ..B.?.......?...
+0670: 08 00 4D 80 4E 80 43 68  61 6D 61 6D 61 00 00 00  ..M.N.Chamama...
+0680: 00 00 00 00 00 00 02 08  00 1D 80 03 93 06 07 08  ................
+0690: 00 05 80 1C 01 80 1D 42  80 23 8A 1C 01 80 01 02  .......B.#......
+06A0: 0D 02 00 10 1C 80 00 E8  06 42 8D 3F 80 05 80 1C  .........B.?....
+06B0: 01 80 B8 3F 80 05 80 08  00 4F 80 50 80 52 61 6E  ...?.....O.P.Ran
+06C0: 70 69 2D 4D 6F 6E 70 69  00 00 00 00 00 02 08 00  pi-Monpi........
+06D0: 1D 80 03 DA 06 07 08 00  05 80 1C 01 80 1D 42 80  ..............B.
+06E0: 23 8A 1C 01 80 01 02 0D  02 00 10 1D 80 00 2F 07  #............./.
+06F0: 42 8D 3F 80 07 80 1C 01  80 B8 3F 80 07 80 0D 00  B.?.......?.....
+0700: 51 80 52 80 4E 61 69 6B  6F 2D 50 61 6E 65 69 6B  Q.R.Naiko-Paneik
+0710: 6F 00 00 00 02 0D 00 1D  80 03 21 07 07 0D 00 05  o.........!.....
+0720: 80 1C 01 80 1D 42 80 23  8A 1C 01 80 01 02 0D 02  .....B.#........
+0730: 00 10 2F 80 00 76 07 42  8D 3F 80 07 80 1C 01 80  ../..v.B.?......
+0740: B8 3F 80 07 80 0D 00 53  80 54 80 4D 6F 61 72 69  .?.....S.T.Moari
+0750: 2D 4B 61 61 6F 72 69 00  00 00 00 02 0D 00 1D 80  -Kaaori.........
+0760: 03 68 07 07 0D 00 05 80  1C 01 80 1D 42 80 23 8A  .h..........B.#.
+0770: 1C 01 80 01 02 0D 02 00  10 26 80 00 BD 07 42 8D  .........&....B.
+0780: 3F 80 05 80 1C 01 80 B8  3F 80 05 80 08 00 55 80  ?.......?.....U.
+0790: 56 80 4B 68 6F 74 6F 5F  52 6F 6B 6B 6F 72 61 68  V.Khoto_Rokkorah
+07A0: 00 00 02 08 00 1D 80 03  AF 07 07 08 00 05 80 1C  ................
+07B0: 01 80 1D 42 80 23 8A 1C  01 80 01 02 0D 02 00 10  ...B.#..........
+07C0: 1E 80 00 04 08 42 8D 3F  80 07 80 1C 01 80 B8 3F  .....B.?.......?
+07D0: 80 07 80 0D 00 51 80 52  80 4E 61 69 6B 6F 2D 50  .....Q.R.Naiko-P
+07E0: 61 6E 65 69 6B 6F 00 00  00 02 0D 00 1D 80 03 F6  aneiko..........
+07F0: 07 07 0D 00 05 80 1C 01  80 1D 42 80 23 8A 1C 01  ..........B.#...
+0800: 80 01 02 0D 02 00 10 1F  80 00 4B 08 42 8D 3F 80  ..........K.B.?.
+0810: 05 80 1C 01 80 B8 3F 80  05 80 08 00 57 80 58 80  ......?.....W.X.
+0820: 54 6F 73 75 6B 61 2D 50  6F 72 69 6B 61 00 00 00  Tosuka-Porika...
+0830: 02 08 00 1D 80 03 3D 08  07 08 00 05 80 1C 01 80  ......=.........
+0840: 1D 42 80 23 8A 1C 01 80  01 02 0D 02 00 10 59 80  .B.#..........Y.
+0850: 00 92 08 42 8D 3F 80 07  80 1C 01 80 B8 3F 80 07  ...B.?.......?..
+0860: 80 08 00 5A 80 5B 80 4B  65 6E 61 70 61 2D 4B 65  ...Z.[.Kenapa-Ke
+0870: 70 70 61 00 00 00 00 02  08 00 1D 80 03 84 08 07  ppa.............
+0880: 08 00 05 80 1C 01 80 1D  42 80 23 8A 1C 01 80 01  ........B.#.....
+0890: 02 0D 02 00 10 5C 80 00  D9 08 42 8D 3F 80 05 80  .....\....B.?...
+08A0: 1C 01 80 B8 3F 80 05 80  08 00 5D 80 5E 80 4C 75  ....?.....].^.Lu
+08B0: 6D 6F 6D 6F 00 00 00 00  00 00 00 00 00 00 02 08  momo............
+08C0: 00 1D 80 03 CB 08 07 08  00 05 80 1C 01 80 1D 42  ...............B
+08D0: 80 23 8A 1C 01 80 01 02  0D 02 00 10 20 80 00 20  .#.......... .. 
+08E0: 09 42 8D 3F 80 07 80 1C  01 80 B8 3F 80 07 80 0D  .B.?.......?....
+08F0: 00 5F 80 60 80 4F 68 62  69 72 75 2D 44 6F 68 62  ._.`.Ohbiru-Dohb
+0900: 69 72 75 00 00 02 0D 00  1D 80 03 12 09 07 0D 00  iru.............
+0910: 05 80 1C 01 80 1D 42 80  23 8A 1C 01 80 01 02 0D  ......B.#.......
+0920: 02 00 10 21 80 00 67 09  42 8D 3F 80 05 80 1C 01  ...!..g.B.?.....
+0930: 80 B8 3F 80 05 80 08 00  61 80 62 80 50 61 6B 75  ..?.....a.b.Paku
+0940: 2D 4E 61 6B 6B 75 00 00  00 00 00 00 02 08 00 1D  -Nakku..........
+0950: 80 03 59 09 07 08 00 05  80 1C 01 80 1D 42 80 23  ..Y..........B.#
+0960: 8A 1C 01 80 01 02 0D 02  00 10 27 80 00 AE 09 42  ..........'....B
+0970: 8D 3F 80 05 80 1C 01 80  B8 3F 80 05 80 08 00 47  .?.......?.....G
+0980: 80 48 80 48 61 72 69 67  61 2D 4F 72 69 67 61 00  .H.Hariga-Origa.
+0990: 00 00 00 02 08 00 1D 80  03 A0 09 07 08 00 05 80  ................
+09A0: 1C 01 80 1D 42 80 23 8A  1C 01 80 01 02 0D 02 00  ....B.#.........
+09B0: 10 63 80 00 F5 09 42 8D  3F 80 05 80 1C 01 80 B8  .c....B.?.......
+09C0: 3F 80 05 80 08 00 64 80  65 80 46 75 65 70 65 70  ?.....d.e.Fuepep
+09D0: 65 00 00 00 00 00 00 00  00 00 02 08 00 1D 80 03  e...............
+09E0: E7 09 07 08 00 05 80 1C  01 80 1D 42 80 23 8A 1C  ...........B.#..
+09F0: 01 80 01 02 0D 02 00 10  22 80 00 3C 0A 42 8D 3F  ........"..<.B.?
+0A00: 80 05 80 1C 01 80 B8 3F  80 05 80 08 00 57 80 58  .......?.....W.X
+0A10: 80 54 6F 73 75 6B 61 2D  50 6F 72 69 6B 61 00 00  .Tosuka-Porika..
+0A20: 00 02 08 00 1D 80 03 2E  0A 07 08 00 05 80 1C 01  ................
+0A30: 80 1D 42 80 23 8A 1C 01  80 01 02 0D 02 00 10 23  ..B.#..........#
+0A40: 80 00 83 0A 42 8D 3F 80  07 80 1C 01 80 B8 3F 80  ....B.?.......?.
+0A50: 07 80 0D 00 4B 80 4C 80  42 61 72 65 6E 2D 4D 6F  ....K.L.Baren-Mo
+0A60: 72 65 6E 00 00 00 00 00  02 0D 00 1D 80 03 75 0A  ren...........u.
+0A70: 07 0D 00 05 80 1C 01 80  1D 42 80 23 8A 1C 01 80  .........B.#....
+0A80: 01 02 0D 02 00 10 66 80  00 CA 0A 42 8D 3F 80 05  ......f....B.?..
+0A90: 80 1C 01 80 B8 3F 80 05  80 08 00 67 80 68 80 4A  .....?.....g.h.J
+0AA0: 61 74 61 6E 2D 50 61 72  61 74 61 6E 00 00 00 02  atan-Paratan....
+0AB0: 08 00 1D 80 03 BC 0A 07  08 00 05 80 1C 01 80 1D  ................
+0AC0: 42 80 23 8A 1C 01 80 01  02 0D 02 00 10 28 80 00  B.#..........(..
+0AD0: 11 0B 42 8D 3F 80 07 80  1C 01 80 B8 3F 80 07 80  ..B.?.......?...
+0AE0: 0D 00 45 80 46 80 4B 65  72 75 74 6F 74 6F 00 00  ..E.F.Kerutoto..
+0AF0: 00 00 00 00 00 00 02 0D  00 1D 80 03 03 0B 07 0D  ................
+0B00: 00 05 80 1C 01 80 1D 42  80 23 8A 1C 01 80 01 02  .......B.#......
+0B10: 0D 02 00 10 24 80 00 58  0B 42 8D 3F 80 07 80 1C  ....$..X.B.?....
+0B20: 01 80 B8 3F 80 07 80 0D  00 69 80 6A 80 4C 65 65  ...?.....i.j.Lee
+0B30: 70 65 2D 48 6F 70 70 65  00 00 00 00 00 02 0D 00  pe-Hoppe........
+0B40: 1D 80 03 4A 0B 07 0D 00  05 80 1C 01 80 1D 42 80  ...J..........B.
+0B50: 23 8A 1C 01 80 01 02 0D  02 00 10 19 80 00 9F 0B  #...............
+0B60: 42 8D 3F 80 07 80 1C 01  80 B8 3F 80 07 80 0D 00  B.?.......?.....
+0B70: 45 80 46 80 4B 65 72 75  74 6F 74 6F 00 00 00 00  E.F.Kerutoto....
+0B80: 00 00 00 00 02 0D 00 1D  80 03 91 0B 07 0D 00 05  ................
+0B90: 80 1C 01 80 1D 42 80 23  8A 1C 01 80 01 02 0D 02  .....B.#........
+0BA0: 00 10 1A 80 00 E6 0B 42  8D 3F 80 05 80 1C 01 80  .......B.?......
+0BB0: B8 3F 80 05 80 08 00 6B  80 6C 80 47 61 6E 74 69  .?.....k.l.Ganti
+0BC0: 6E 65 75 78 00 00 00 00  00 00 00 02 08 00 1D 80  neux............
+0BD0: 03 D8 0B 07 08 00 05 80  1C 01 80 1D 42 80 23 8A  ............B.#.
+0BE0: 1C 01 80 01 02 0D 02 00  10 6D 80 00 2D 0C 42 8D  .........m..-.B.
+0BF0: 3F 80 07 80 1C 01 80 B8  3F 80 07 80 0D 00 6E 80  ?.......?.....n.
+0C00: 6F 80 48 6F 6E 6F 69 2D  47 6F 6D 6F 69 00 00 00  o.Honoi-Gomoi...
+0C10: 00 00 02 0D 00 1D 80 03  1F 0C 07 0D 00 05 80 1C  ................
+0C20: 01 80 1D 42 80 23 8A 1C  01 80 01 02 0D 02 00 10  ...B.#..........
+0C30: 70 80 00 74 0C 42 8D 3F  80 07 80 1C 01 80 B8 3F  p..t.B.?.......?
+0C40: 80 07 80 0D 00 5F 80 60  80 4F 68 62 69 72 75 2D  ....._.`.Ohbiru-
+0C50: 44 6F 68 62 69 72 75 00  00 02 0D 00 1D 80 03 66  Dohbiru........f
+0C60: 0C 07 0D 00 05 80 1C 01  80 1D 42 80 23 8A 1C 01  ..........B.#...
+0C70: 80 01 02 0D 02 00 10 29  80 00 BB 0C 42 8D 3F 80  .......)....B.?.
+0C80: 07 80 1C 01 80 B8 3F 80  07 80 0D 00 69 80 6A 80  ......?.....i.j.
+0C90: 4C 65 65 70 65 2D 48 6F  70 70 65 00 00 00 00 00  Leepe-Hoppe.....
+0CA0: 02 0D 00 1D 80 03 AD 0C  07 0D 00 05 80 1C 01 80  ................
+0CB0: 1D 42 80 23 8A 1C 01 80  01 02 0D 02 00 10 01 80  .B.#............
+0CC0: 00 02 0D 42 8D 3F 80 05  80 1C 01 80 B8 3F 80 05  ...B.?.......?..
+0CD0: 80 08 00 71 80 72 80 52  6F 70 75 6E 6F 6E 6F 00  ...q.r.Ropunono.
+0CE0: 00 00 00 00 00 00 00 02  08 00 1D 80 03 F4 0C 07  ................
+0CF0: 08 00 05 80 1C 01 80 1D  42 80 23 8A 1C 01 80 01  ........B.#.....
+0D00: 02 0D 01 6A 04 01 4E 1E  02 00 10 07 80 00 80 11  ...j..N.........
+0D10: 03 02 10 05 80 1D 3C 80  23 03 0E 00 05 80 02 0E  ......<.#.......
+0D20: 00 03 80 02 7D 11 03 08  10 09 00 07 08 10 22 80  ....}.........".
+0D30: 03 01 10 08 10 43 00 43  01 2E 24 73 80 03 80 02  .....C.C..$s....
+0D40: 00 25 02 00 10 03 80 00  51 0D 06 0E 00 2E 01 7A  .%......Q......z
+0D50: 11 02 00 10 05 80 00 98  0D 42 8D 74 80 03 80 1C  .........B.t....
+0D60: 01 80 B8 74 80 03 80 09  00 75 80 76 80 41 6D 62  ...t.....u.v.Amb
+0D70: 72 6F 73 69 75 73 00 00  00 00 00 00 00 02 09 00  rosius..........
+0D80: 1D 80 03 8A 0D 07 09 00  05 80 1C 01 80 1D 42 80  ..............B.
+0D90: 23 8A 1C 01 80 01 7A 11  02 00 10 07 80 00 DF 0D  #.....z.........
+0DA0: 42 8D 74 80 03 80 1C 01  80 B8 74 80 03 80 09 00  B.t.......t.....
+0DB0: 77 80 78 80 52 61 61 6D  69 6D 69 00 00 00 00 00  w.x.Raamimi.....
+0DC0: 00 00 00 00 02 09 00 1D  80 03 D1 0D 07 09 00 05  ................
+0DD0: 80 1C 01 80 1D 42 80 23  8A 1C 01 80 01 7A 11 02  .....B.#.....z..
+0DE0: 00 10 08 80 00 26 0E 42  8D 74 80 03 80 1C 01 80  .....&.B.t......
+0DF0: B8 74 80 03 80 09 00 79  80 7A 80 59 6F 72 61 6E  .t.....y.z.Yoran
+0E00: 2D 4F 72 61 6E 00 00 00  00 00 00 02 09 00 1D 80  -Oran...........
+0E10: 03 18 0E 07 09 00 05 80  1C 01 80 1D 42 80 23 8A  ............B.#.
+0E20: 1C 01 80 01 7A 11 02 00  10 09 80 00 6D 0E 42 8D  ....z.......m.B.
+0E30: 74 80 03 80 1C 01 80 B8  74 80 03 80 09 00 7B 80  t.......t.....{.
+0E40: 7C 80 4B 6F 72 75 2D 4D  6F 72 75 00 00 00 00 00  |.Koru-Moru.....
+0E50: 00 00 02 09 00 1D 80 03  5F 0E 07 09 00 05 80 1C  ........_.......
+0E60: 01 80 1D 42 80 23 8A 1C  01 80 01 7A 11 02 00 10  ...B.#.....z....
+0E70: 1B 80 00 B4 0E 42 8D 74  80 03 80 1C 01 80 B8 74  .....B.t.......t
+0E80: 80 03 80 09 00 7D 80 7E  80 4F 6A 68 61 5F 52 68  .....}.~.Ojha_Rh
+0E90: 61 77 61 73 68 00 00 00  00 02 09 00 1D 80 03 A6  awash...........
+0EA0: 0E 07 09 00 05 80 1C 01  80 1D 42 80 23 8A 1C 01  ..........B.#...
+0EB0: 80 01 7A 11 02 00 10 25  80 00 FB 0E 42 8D 74 80  ..z....%....B.t.
+0EC0: 03 80 1C 01 80 B8 74 80  03 80 09 00 7F 80 80 80  ......t.........
+0ED0: 53 68 61 6E 74 6F 74 74  6F 00 00 00 00 00 00 00  Shantotto.......
+0EE0: 02 09 00 1D 80 03 ED 0E  07 09 00 05 80 1C 01 80  ................
+0EF0: 1D 42 80 23 8A 1C 01 80  01 7A 11 02 00 10 37 80  .B.#.....z....7.
+0F00: 00 42 0F 42 8D 74 80 03  80 1C 01 80 B8 74 80 03  .B.B.t.......t..
+0F10: 80 09 00 7F 80 80 80 53  68 61 6E 74 6F 74 74 6F  .......Shantotto
+0F20: 00 00 00 00 00 00 00 02  09 00 1D 80 03 34 0F 07  .............4..
+0F30: 09 00 05 80 1C 01 80 1D  42 80 23 8A 1C 01 80 01  ........B.#.....
+0F40: 7A 11 02 00 10 1C 80 00  89 0F 42 8D 74 80 03 80  z.........B.t...
+0F50: 1C 01 80 B8 74 80 03 80  09 00 81 80 82 80 3F 3F  ....t.........??
+0F60: 3F 00 00 00 00 00 00 00  00 00 00 00 00 00 02 09  ?...............
+0F70: 00 1D 80 03 7B 0F 07 09  00 05 80 1C 01 80 1D 83  ....{...........
+0F80: 80 23 8A 1C 01 80 01 7A  11 02 00 10 1D 80 00 D0  .#.....z........
+0F90: 0F 42 8D 74 80 03 80 1C  01 80 B8 74 80 03 80 09  .B.t.......t....
+0FA0: 00 7F 80 80 80 53 68 61  6E 74 6F 74 74 6F 00 00  .....Shantotto..
+0FB0: 00 00 00 00 00 02 09 00  1D 80 03 C2 0F 07 09 00  ................
+0FC0: 05 80 1C 01 80 1D 42 80  23 8A 1C 01 80 01 7A 11  ......B.#.....z.
+0FD0: 02 00 10 2F 80 00 17 10  42 8D 74 80 03 80 1C 01  .../....B.t.....
+0FE0: 80 B8 74 80 03 80 09 00  7B 80 7C 80 4B 6F 72 75  ..t.....{.|.Koru
+0FF0: 2D 4D 6F 72 75 00 00 00  00 00 00 00 02 09 00 1D  -Moru...........
+1000: 80 03 09 10 07 09 00 05  80 1C 01 80 1D 42 80 23  .............B.#
+1010: 8A 1C 01 80 01 7A 11 02  00 10 26 80 00 5E 10 42  .....z....&..^.B
+1020: 8D 74 80 03 80 1C 01 80  B8 74 80 03 80 09 00 81  .t.......t......
+1030: 80 82 80 3F 3F 3F 00 00  00 00 00 00 00 00 00 00  ...???..........
+1040: 00 00 00 02 09 00 1D 80  03 50 10 07 09 00 05 80  .........P......
+1050: 1C 01 80 1D 83 80 23 8A  1C 01 80 01 7A 11 02 00  ......#.....z...
+1060: 10 1E 80 00 A5 10 42 8D  74 80 03 80 1C 01 80 B8  ......B.t.......
+1070: 74 80 03 80 09 00 81 80  82 80 3F 3F 3F 00 00 00  t.........???...
+1080: 00 00 00 00 00 00 00 00  00 00 02 09 00 1D 80 03  ................
+1090: 97 10 07 09 00 05 80 1C  01 80 1D 83 80 23 8A 1C  .............#..
+10A0: 01 80 01 7A 11 02 00 10  1F 80 00 EC 10 42 8D 74  ...z.........B.t
+10B0: 80 03 80 1C 01 80 B8 74  80 03 80 09 00 81 80 82  .......t........
+10C0: 80 3F 3F 3F 00 00 00 00  00 00 00 00 00 00 00 00  .???............
+10D0: 00 02 09 00 1D 80 03 DE  10 07 09 00 05 80 1C 01  ................
+10E0: 80 1D 83 80 23 8A 1C 01  80 01 7A 11 02 00 10 59  ....#.....z....Y
+10F0: 80 00 33 11 42 8D 74 80  03 80 1C 01 80 B8 74 80  ..3.B.t.......t.
+1100: 03 80 09 00 7B 80 7C 80  4B 6F 72 75 2D 4D 6F 72  ....{.|.Koru-Mor
+1110: 75 00 00 00 00 00 00 00  02 09 00 1D 80 03 25 11  u.............%.
+1120: 07 09 00 05 80 1C 01 80  1D 42 80 23 8A 1C 01 80  .........B.#....
+1130: 01 7A 11 02 00 10 5C 80  00 7A 11 42 8D 74 80 03  .z....\..z.B.t..
+1140: 80 1C 01 80 B8 74 80 03  80 09 00 7F 80 80 80 53  .....t.........S
+1150: 68 61 6E 74 6F 74 74 6F  00 00 00 00 00 00 00 02  hantotto........
+1160: 09 00 1D 80 03 6C 11 07  09 00 05 80 1C 01 80 1D  .....l..........
+1170: 42 80 23 8A 1C 01 80 01  7A 11 01 1E 0D 01 4E 1E  B.#.....z.....N.
+1180: 02 00 10 08 80 00 86 16  03 02 10 07 80 1D 3C 80  ..............<.
+1190: 23 03 0E 00 05 80 02 0E  00 03 80 02 83 16 03 08  #...............
+11A0: 10 0A 00 07 08 10 01 80  03 01 10 08 10 43 00 43  .............C.C
+11B0: 01 2E 24 84 80 03 80 03  00 25 02 00 10 03 80 00  ..$......%......
+11C0: C9 11 06 0E 00 2E 01 80  16 02 00 10 05 80 00 10  ................
+11D0: 12 42 8D 85 80 03 80 1C  01 80 B8 85 80 03 80 0A  .B..............
+11E0: 00 86 80 87 80 54 6F 6B  61 6B 61 00 00 00 00 00  .....Tokaka.....
+11F0: 00 00 00 00 00 02 0A 00  1D 80 03 02 12 07 0A 00  ................
+1200: 05 80 1C 01 80 1D 42 80  23 8A 1C 01 80 01 80 16  ......B.#.......
+1210: 02 00 10 07 80 00 57 12  42 8D 85 80 03 80 1C 01  ......W.B.......
+1220: 80 B8 85 80 03 80 0A 00  88 80 89 80 53 69 67 69  ............Sigi
+1230: 73 6D 75 6E 64 00 00 00  00 00 00 00 02 0A 00 1D  smund...........
+1240: 80 03 49 12 07 0A 00 05  80 1C 01 80 1D 42 80 23  ..I..........B.#
+1250: 8A 1C 01 80 01 80 16 02  00 10 08 80 00 9E 12 42  ...............B
+1260: 8D 85 80 03 80 1C 01 80  B8 85 80 03 80 0A 00 8A  ................
+1270: 80 8B 80 4B 6F 68 6C 6F  2D 4C 61 6B 6F 6C 6F 00  ...Kohlo-Lakolo.
+1280: 00 00 00 02 0A 00 1D 80  03 90 12 07 0A 00 05 80  ................
+1290: 1C 01 80 1D 42 80 23 8A  1C 01 80 01 80 16 02 00  ....B.#.........
+12A0: 10 09 80 00 E5 12 42 8D  85 80 03 80 1C 01 80 B8  ......B.........
+12B0: 85 80 03 80 0A 00 8A 80  8B 80 4B 6F 68 6C 6F 2D  ..........Kohlo-
+12C0: 4C 61 6B 6F 6C 6F 00 00  00 00 02 0A 00 1D 80 03  Lakolo..........
+12D0: D7 12 07 0A 00 05 80 1C  01 80 1D 42 80 23 8A 1C  ...........B.#..
+12E0: 01 80 01 80 16 02 00 10  1B 80 00 2C 13 42 8D 85  ...........,.B..
+12F0: 80 03 80 1C 01 80 B8 85  80 03 80 0A 00 8A 80 8B  ................
+1300: 80 4B 6F 68 6C 6F 2D 4C  61 6B 6F 6C 6F 00 00 00  .Kohlo-Lakolo...
+1310: 00 02 0A 00 1D 80 03 1E  13 07 0A 00 05 80 1C 01  ................
+1320: 80 1D 42 80 23 8A 1C 01  80 01 80 16 02 00 10 25  ..B.#..........%
+1330: 80 00 73 13 42 8D 85 80  03 80 1C 01 80 B8 85 80  ..s.B...........
+1340: 03 80 0A 00 8C 80 8D 80  48 61 6B 6B 75 72 75 2D  ........Hakkuru-
+1350: 52 69 6E 6B 75 72 75 00  02 0A 00 1D 80 03 65 13  Rinkuru.......e.
+1360: 07 0A 00 05 80 1C 01 80  1D 42 80 23 8A 1C 01 80  .........B.#....
+1370: 01 80 16 02 00 10 37 80  00 BA 13 42 8D 85 80 03  ......7....B....
+1380: 80 1C 01 80 B8 85 80 03  80 0A 00 8E 80 8F 80 50  ...............P
+1390: 61 79 74 61 68 00 00 00  00 00 00 00 00 00 00 02  aytah...........
+13A0: 0A 00 1D 80 03 AC 13 07  0A 00 05 80 1C 01 80 1D  ................
+13B0: 42 80 23 8A 1C 01 80 01  80 16 02 00 10 1C 80 00  B.#.............
+13C0: 01 14 42 8D 85 80 03 80  1C 01 80 B8 85 80 03 80  ..B.............
+13D0: 0A 00 8A 80 8B 80 4B 6F  68 6C 6F 2D 4C 61 6B 6F  ......Kohlo-Lako
+13E0: 6C 6F 00 00 00 00 02 0A  00 1D 80 03 F3 13 07 0A  lo..............
+13F0: 00 05 80 1C 01 80 1D 42  80 23 8A 1C 01 80 01 80  .......B.#......
+1400: 16 02 00 10 1D 80 00 48  14 42 8D 85 80 03 80 1C  .......H.B......
+1410: 01 80 B8 85 80 03 80 0A  00 8C 80 8D 80 48 61 6B  .............Hak
+1420: 6B 75 72 75 2D 52 69 6E  6B 75 72 75 00 02 0A 00  kuru-Rinkuru....
+1430: 1D 80 03 3A 14 07 0A 00  05 80 1C 01 80 1D 42 80  ...:..........B.
+1440: 23 8A 1C 01 80 01 80 16  02 00 10 2F 80 00 8F 14  #........../....
+1450: 42 8D 85 80 03 80 1C 01  80 B8 85 80 03 80 0A 00  B...............
+1460: 90 80 91 80 43 68 69 70  6D 79 2D 50 6F 70 6D 79  ....Chipmy-Popmy
+1470: 00 00 00 00 02 0A 00 1D  80 03 81 14 07 0A 00 05  ................
+1480: 80 1C 01 80 1D 42 80 23  8A 1C 01 80 01 80 16 02  .....B.#........
+1490: 00 10 26 80 00 D6 14 42  8D 85 80 03 80 1C 01 80  ..&....B........
+14A0: B8 85 80 03 80 0A 00 92  80 8D 80 4B 75 72 6F 69  ...........Kuroi
+14B0: 64 6F 2D 4D 6F 69 64 6F  00 00 00 02 0A 00 1D 80  do-Moido........
+14C0: 03 C8 14 07 0A 00 05 80  1C 01 80 1D 42 80 23 8A  ............B.#.
+14D0: 1C 01 80 01 80 16 02 00  10 1E 80 00 1D 15 42 8D  ..............B.
+14E0: 85 80 03 80 1C 01 80 B8  85 80 03 80 0A 00 93 80  ................
+14F0: 94 80 4F 68 72 75 72 75  00 00 00 00 00 00 00 00  ..Ohruru........
+1500: 00 00 02 0A 00 1D 80 03  0F 15 07 0A 00 05 80 1C  ................
+1510: 01 80 1D 42 80 23 8A 1C  01 80 01 80 16 02 00 10  ...B.#..........
+1520: 1F 80 00 64 15 42 8D 85  80 03 80 1C 01 80 B8 85  ...d.B..........
+1530: 80 03 80 0A 00 95 80 96  80 44 65 68 6E 5F 48 61  .........Dehn_Ha
+1540: 72 7A 68 61 70 61 6E 00  00 02 0A 00 1D 80 03 56  rzhapan........V
+1550: 15 07 0A 00 05 80 1C 01  80 1D 42 80 23 8A 1C 01  ..........B.#...
+1560: 80 01 80 16 02 00 10 59  80 00 AB 15 42 8D 85 80  .......Y....B...
+1570: 03 80 1C 01 80 B8 85 80  03 80 0A 00 8A 80 8B 80  ................
+1580: 4B 6F 68 6C 6F 2D 4C 61  6B 6F 6C 6F 00 00 00 00  Kohlo-Lakolo....
+1590: 02 0A 00 1D 80 03 9D 15  07 0A 00 05 80 1C 01 80  ................
+15A0: 1D 42 80 23 8A 1C 01 80  01 80 16 02 00 10 5C 80  .B.#..........\.
+15B0: 00 F2 15 42 8D 85 80 03  80 1C 01 80 B8 85 80 03  ...B............
+15C0: 80 0A 00 8A 80 8B 80 4B  6F 68 6C 6F 2D 4C 61 6B  .......Kohlo-Lak
+15D0: 6F 6C 6F 00 00 00 00 02  0A 00 1D 80 03 E4 15 07  olo.............
+15E0: 0A 00 05 80 1C 01 80 1D  42 80 23 8A 1C 01 80 01  ........B.#.....
+15F0: 80 16 02 00 10 20 80 00  39 16 42 8D 85 80 03 80  ..... ..9.B.....
+1600: 1C 01 80 B8 85 80 03 80  0A 00 92 80 8D 80 4B 75  ..............Ku
+1610: 72 6F 69 64 6F 2D 4D 6F  69 64 6F 00 00 00 02 0A  roido-Moido.....
+1620: 00 1D 80 03 2B 16 07 0A  00 05 80 1C 01 80 1D 42  ....+..........B
+1630: 80 23 8A 1C 01 80 01 80  16 02 00 10 21 80 00 80  .#..........!...
+1640: 16 42 8D 85 80 03 80 1C  01 80 B8 85 80 03 80 0A  .B..............
+1650: 00 97 80 98 80 50 79 67  6D 61 6C 69 6F 6E 00 00  .....Pygmalion..
+1660: 00 00 00 00 00 02 0A 00  1D 80 03 72 16 07 0A 00  ...........r....
+1670: 05 80 1C 01 80 1D 42 80  23 8A 1C 01 80 01 80 16  ......B.#.......
+1680: 01 96 11 01 4E 1E 02 00  10 09 80 00 36 1D 03 02  ....N.......6...
+1690: 10 08 80 1D 3C 80 23 03  0E 00 05 80 02 0E 00 03  ....<.#.........
+16A0: 80 02 33 1D 03 08 10 0B  00 07 08 10 99 80 03 01  ..3.............
+16B0: 10 08 10 43 00 43 01 2E  24 9A 80 03 80 04 00 25  ...C.C..$......%
+16C0: 02 00 10 03 80 00 CF 16  06 0E 00 2E 01 30 1D 02  .............0..
+16D0: 00 10 05 80 00 16 17 42  8D 9B 80 03 80 1C 01 80  .......B........
+16E0: B8 9B 80 03 80 0B 00 9C  80 9D 80 4B 6F 70 75 72  ...........Kopur
+16F0: 6F 2D 50 6F 70 75 72 6F  00 00 00 02 0B 00 1D 80  o-Popuro........
+1700: 03 08 17 07 0B 00 05 80  1C 01 80 1D 42 80 23 8A  ............B.#.
+1710: 1C 01 80 01 30 1D 02 00  10 07 80 00 5D 17 42 8D  ....0.......].B.
+1720: 9B 80 03 80 1C 01 80 B8  9B 80 03 80 0B 00 9E 80  ................
+1730: 9F 80 49 62 77 61 6D 00  00 00 00 00 00 00 00 00  ..Ibwam.........
+1740: 00 00 02 0B 00 1D 80 03  4F 17 07 0B 00 05 80 1C  ........O.......
+1750: 01 80 1D 42 80 23 8A 1C  01 80 01 30 1D 02 00 10  ...B.#.....0....
+1760: 08 80 00 A4 17 42 8D 9B  80 03 80 1C 01 80 B8 9B  .....B..........
+1770: 80 03 80 0B 00 A0 80 A1  80 49 6C 6C 75 5F 42 6F  .........Illu_Bo
+1780: 68 6A 61 61 00 00 00 00  00 02 0B 00 1D 80 03 96  hjaa............
+1790: 17 07 0B 00 05 80 1C 01  80 1D 42 80 23 8A 1C 01  ..........B.#...
+17A0: 80 01 30 1D 02 00 10 09  80 00 EB 17 42 8D 9B 80  ..0.........B...
+17B0: 03 80 1C 01 80 B8 9B 80  03 80 0B 00 A2 80 A3 80  ................
+17C0: 54 61 70 6F 68 5F 4C 69  68 7A 65 68 00 00 00 00  Tapoh_Lihzeh....
+17D0: 02 0B 00 1D 80 03 DD 17  07 0B 00 05 80 1C 01 80  ................
+17E0: 1D 42 80 23 8A 1C 01 80  01 30 1D 02 00 10 1B 80  .B.#.....0......
+17F0: 00 32 18 42 8D 9B 80 03  80 1C 01 80 B8 9B 80 03  .2.B............
+1800: 80 0B 00 A4 80 A5 80 4E  61 6E 61 61 5F 4D 69 68  .......Nanaa_Mih
+1810: 67 6F 00 00 00 00 00 02  0B 00 1D 80 03 24 18 07  go...........$..
+1820: 0B 00 05 80 1C 01 80 1D  42 80 23 8A 1C 01 80 01  ........B.#.....
+1830: 30 1D 02 00 10 25 80 00  79 18 42 8D 9B 80 03 80  0....%..y.B.....
+1840: 1C 01 80 B8 9B 80 03 80  0B 00 A6 80 A7 80 57 65  ..............We
+1850: 74 61 74 61 00 00 00 00  00 00 00 00 00 00 02 0B  tata............
+1860: 00 1D 80 03 6B 18 07 0B  00 05 80 1C 01 80 1D 42  ....k..........B
+1870: 80 23 8A 1C 01 80 01 30  1D 02 00 10 37 80 00 C0  .#.....0....7...
+1880: 18 42 8D 9B 80 03 80 1C  01 80 B8 9B 80 03 80 0B  .B..............
+1890: 00 A8 80 A9 80 4B 75 6F  68 5F 52 68 65 6C 00 00  .....Kuoh_Rhel..
+18A0: 00 00 00 00 00 02 0B 00  1D 80 03 B2 18 07 0B 00  ................
+18B0: 05 80 1C 01 80 1D 42 80  23 8A 1C 01 80 01 30 1D  ......B.#.....0.
+18C0: 02 00 10 1C 80 00 07 19  42 8D 9B 80 03 80 1C 01  ........B.......
+18D0: 80 B8 9B 80 03 80 0B 00  A8 80 A9 80 4B 75 6F 68  ............Kuoh
+18E0: 5F 52 68 65 6C 00 00 00  00 00 00 00 02 0B 00 1D  _Rhel...........
+18F0: 80 03 F9 18 07 0B 00 05  80 1C 01 80 1D 42 80 23  .............B.#
+1900: 8A 1C 01 80 01 30 1D 02  00 10 1D 80 00 4E 19 42  .....0.......N.B
+1910: 8D 9B 80 03 80 1C 01 80  B8 9B 80 03 80 0B 00 AA  ................
+1920: 80 AB 80 4B 6F 72 6F 72  6F 00 00 00 00 00 00 00  ...Kororo.......
+1930: 00 00 00 02 0B 00 1D 80  03 40 19 07 0B 00 05 80  .........@......
+1940: 1C 01 80 1D 42 80 23 8A  1C 01 80 01 30 1D 02 00  ....B.#.....0...
+1950: 10 2F 80 00 95 19 42 8D  9B 80 03 80 1C 01 80 B8  ./....B.........
+1960: 9B 80 03 80 0B 00 A4 80  A5 80 4E 61 6E 61 61 5F  ..........Nanaa_
+1970: 4D 69 68 67 6F 00 00 00  00 00 02 0B 00 1D 80 03  Mihgo...........
+1980: 87 19 07 0B 00 05 80 1C  01 80 1D 42 80 23 8A 1C  ...........B.#..
+1990: 01 80 01 30 1D 02 00 10  26 80 00 DC 19 42 8D 9B  ...0....&....B..
+19A0: 80 03 80 1C 01 80 B8 9B  80 03 80 0B 00 9C 80 9D  ................
+19B0: 80 4B 6F 70 75 72 6F 2D  50 6F 70 75 72 6F 00 00  .Kopuro-Popuro..
+19C0: 00 02 0B 00 1D 80 03 CE  19 07 0B 00 05 80 1C 01  ................
+19D0: 80 1D 42 80 23 8A 1C 01  80 01 30 1D 02 00 10 1E  ..B.#.....0.....
+19E0: 80 00 23 1A 42 8D 9B 80  03 80 1C 01 80 B8 9B 80  ..#.B...........
+19F0: 03 80 0B 00 9C 80 9D 80  4B 6F 70 75 72 6F 2D 50  ........Kopuro-P
+1A00: 6F 70 75 72 6F 00 00 00  02 0B 00 1D 80 03 15 1A  opuro...........
+1A10: 07 0B 00 05 80 1C 01 80  1D 42 80 23 8A 1C 01 80  .........B.#....
+1A20: 01 30 1D 02 00 10 1F 80  00 6A 1A 42 8D 9B 80 03  .0.......j.B....
+1A30: 80 1C 01 80 B8 9B 80 03  80 0B 00 AC 80 AD 80 47  ...............G
+1A40: 69 6F 68 5F 41 6A 69 68  72 69 00 00 00 00 00 02  ioh_Ajihri......
+1A50: 0B 00 1D 80 03 5C 1A 07  0B 00 05 80 1C 01 80 1D  .....\..........
+1A60: 42 80 23 8A 1C 01 80 01  30 1D 02 00 10 59 80 00  B.#.....0....Y..
+1A70: B1 1A 42 8D 9B 80 03 80  1C 01 80 B8 9B 80 03 80  ..B.............
+1A80: 0B 00 AE 80 AF 80 53 6F  6E 69 2D 4D 75 6E 69 00  ......Soni-Muni.
+1A90: 00 00 00 00 00 00 02 0B  00 1D 80 03 A3 1A 07 0B  ................
+1AA0: 00 05 80 1C 01 80 1D 42  80 23 8A 1C 01 80 01 30  .......B.#.....0
+1AB0: 1D 02 00 10 5C 80 00 F8  1A 42 8D 9B 80 03 80 1C  ....\....B......
+1AC0: 01 80 B8 9B 80 03 80 0B  00 B0 80 B1 80 50 65 72  .............Per
+1AD0: 69 68 5F 56 61 73 68 61  69 00 00 00 00 02 0B 00  ih_Vashai.......
+1AE0: 1D 80 03 EA 1A 07 0B 00  05 80 1C 01 80 1D 42 80  ..............B.
+1AF0: 23 8A 1C 01 80 01 30 1D  02 00 10 20 80 00 3F 1B  #.....0.... ..?.
+1B00: 42 8D 9B 80 03 80 1C 01  80 B8 9B 80 03 80 0B 00  B...............
+1B10: A4 80 A5 80 4E 61 6E 61  61 5F 4D 69 68 67 6F 00  ....Nanaa_Mihgo.
+1B20: 00 00 00 00 02 0B 00 1D  80 03 31 1B 07 0B 00 05  ..........1.....
+1B30: 80 1C 01 80 1D 42 80 23  8A 1C 01 80 01 30 1D 02  .....B.#.....0..
+1B40: 00 10 21 80 00 86 1B 42  8D 9B 80 03 80 1C 01 80  ..!....B........
+1B50: B8 9B 80 03 80 0B 00 A4  80 A5 80 4E 61 6E 61 61  ...........Nanaa
+1B60: 5F 4D 69 68 67 6F 00 00  00 00 00 02 0B 00 1D 80  _Mihgo..........
+1B70: 03 78 1B 07 0B 00 05 80  1C 01 80 1D 42 80 23 8A  .x..........B.#.
+1B80: 1C 01 80 01 30 1D 02 00  10 27 80 00 CD 1B 42 8D  ....0....'....B.
+1B90: 9B 80 03 80 1C 01 80 B8  9B 80 03 80 0B 00 A4 80  ................
+1BA0: A5 80 4E 61 6E 61 61 5F  4D 69 68 67 6F 00 00 00  ..Nanaa_Mihgo...
+1BB0: 00 00 02 0B 00 1D 80 03  BF 1B 07 0B 00 05 80 1C  ................
+1BC0: 01 80 1D 42 80 23 8A 1C  01 80 01 30 1D 02 00 10  ...B.#.....0....
+1BD0: 63 80 00 14 1C 42 8D 9B  80 03 80 1C 01 80 B8 9B  c....B..........
+1BE0: 80 03 80 0B 00 B0 80 B1  80 50 65 72 69 68 5F 56  .........Perih_V
+1BF0: 61 73 68 61 69 00 00 00  00 02 0B 00 1D 80 03 06  ashai...........
+1C00: 1C 07 0B 00 05 80 1C 01  80 1D 42 80 23 8A 1C 01  ..........B.#...
+1C10: 80 01 30 1D 02 00 10 22  80 00 5B 1C 42 8D 9B 80  ..0...."..[.B...
+1C20: 03 80 1C 01 80 B8 9B 80  03 80 0B 00 B0 80 B1 80  ................
+1C30: 50 65 72 69 68 5F 56 61  73 68 61 69 00 00 00 00  Perih_Vashai....
+1C40: 02 0B 00 1D 80 03 4D 1C  07 0B 00 05 80 1C 01 80  ......M.........
+1C50: 1D 42 80 23 8A 1C 01 80  01 30 1D 02 00 10 23 80  .B.#.....0....#.
+1C60: 00 A2 1C 42 8D 9B 80 03  80 1C 01 80 B8 9B 80 03  ...B............
+1C70: 80 0B 00 B0 80 B1 80 50  65 72 69 68 5F 56 61 73  .......Perih_Vas
+1C80: 68 61 69 00 00 00 00 02  0B 00 1D 80 03 94 1C 07  hai.............
+1C90: 0B 00 05 80 1C 01 80 1D  42 80 23 8A 1C 01 80 01  ........B.#.....
+1CA0: 30 1D 02 00 10 66 80 00  E9 1C 42 8D 9B 80 03 80  0....f....B.....
+1CB0: 1C 01 80 B8 9B 80 03 80  0B 00 B2 80 B3 80 41 70  ..............Ap
+1CC0: 75 72 75 72 75 00 00 00  00 00 00 00 00 00 02 0B  ururu...........
+1CD0: 00 1D 80 03 DB 1C 07 0B  00 05 80 1C 01 80 1D 42  ...............B
+1CE0: 80 23 8A 1C 01 80 01 30  1D 02 00 10 28 80 00 30  .#.....0....(..0
+1CF0: 1D 42 8D 9B 80 03 80 1C  01 80 B8 9B 80 03 80 0B  .B..............
+1D00: 00 B0 80 B1 80 50 65 72  69 68 5F 56 61 73 68 61  .....Perih_Vasha
+1D10: 69 00 00 00 00 02 0B 00  1D 80 03 22 1D 07 0B 00  i.........."....
+1D20: 05 80 1C 01 80 1D 42 80  23 8A 1C 01 80 01 30 1D  ......B.#.....0.
+1D30: 01 9C 16 01 4E 1E 02 00  10 1B 80 00 4E 1E 03 02  ....N.......N...
+1D40: 10 09 80 1D 3C 80 23 03  0E 00 05 80 02 0E 00 03  ....<.#.........
+1D50: 80 02 4B 1E 03 08 10 09  00 07 08 10 22 80 03 01  ..K........."...
+1D60: 10 08 10 43 00 43 01 2E  24 B4 80 03 80 05 00 25  ...C.C..$......%
+1D70: 02 00 10 03 80 00 7F 1D  06 0E 00 2E 01 48 1E 02  .............H..
+1D80: 00 10 05 80 00 C2 1D 42  89 74 80 1C 01 80 8B 74  .......B.t.....t
+1D90: 80 09 00 03 80 B5 80 3F  3F 3F 00 00 00 00 00 00  .......???......
+1DA0: 00 00 00 00 00 00 00 02  09 00 1D 80 03 B4 1D 07  ................
+1DB0: 09 00 05 80 1C 01 80 1D  B6 80 23 8A 1C 01 80 01  ..........#.....
+1DC0: 48 1E 02 00 10 07 80 00  05 1E 42 89 74 80 1C 01  H.........B.t...
+1DD0: 80 8B 74 80 09 00 03 80  B5 80 3F 3F 3F 00 00 00  ..t.......???...
+1DE0: 00 00 00 00 00 00 00 00  00 00 02 09 00 1D 80 03  ................
+1DF0: F7 1D 07 09 00 05 80 1C  01 80 1D B6 80 23 8A 1C  .............#..
+1E00: 01 80 01 48 1E 02 00 10  08 80 00 48 1E 42 89 74  ...H.......H.B.t
+1E10: 80 1C 01 80 8B 74 80 09  00 03 80 B5 80 3F 3F 3F  .....t.......???
+1E20: 00 00 00 00 00 00 00 00  00 00 00 00 00 02 09 00  ................
+1E30: 1D 80 03 3A 1E 07 09 00  05 80 1C 01 80 1D B6 80  ...:............
+1E40: 23 8A 1C 01 80 01 48 1E  01 4C 1D 01 4E 1E 2E 01  #.....H..L..N...
+1E50: 0C 03 20 00 21 00 01 A1  20 02 00 10 05 80 00 B6  .. .!... .......
+1E60: 1E 02 07 00 05 80 00 73  1E 1A AC 20 20 00 21 00  .......s...  .!.
+1E70: 01 B3 1E 1D B7 80 23 1D  B8 80 23 42 8D 9B 80 03  ......#...#B....
+1E80: 80 1C 01 80 B8 9B 80 03  80 05 80 B9 80 BA 80 53  ...............S
+1E90: 65 6C 65 6C 65 00 00 00  00 00 00 00 00 00 00 1D  elele...........
+1EA0: BB 80 1C BC 80 23 8A 1C  BD 80 1D BE 80 23 1D BF  .....#.......#..
+1EB0: 80 23 2E 01 A1 20 02 00  10 07 80 00 39 1F 02 11  .#... ......9...
+1EC0: 00 03 80 00 D5 1E 1D C0  80 23 1D C1 80 23 1D C2  .........#...#..
+1ED0: 80 23 01 36 1F 02 11 00  05 80 00 2E 1F 02 07 00  .#.6............
+1EE0: 05 80 00 EF 1E 1A AC 20  20 00 21 00 01 2B 1F 1D  .......  .!..+..
+1EF0: C3 80 23 42 8D 9B 80 03  80 1C 01 80 B8 9B 80 03  ..#B............
+1F00: 80 05 80 C4 80 C5 80 46  68 65 6C 6D 5F 4A 6F 62  .......Fhelm_Job
+1F10: 65 69 7A 61 74 00 00 1D  C6 80 1C BC 80 23 8A 1C  eizat........#..
+1F20: BD 80 1D BE 80 23 1D BF  80 23 2E 01 36 1F 1D C1  .....#...#..6...
+1F30: 80 23 1D C7 80 23 01 A1  20 02 00 10 08 80 00 9B  .#...#.. .......
+1F40: 1F 1D C8 80 23 1D C9 80  23 02 88 7F 1B 80 04 94  ....#...#.......
+1F50: 1F 02 07 00 05 80 00 60  1F 1D CA 80 23 01 91 1F  .......`....#...
+1F60: 42 89 9B 80 1C 01 80 8B  9B 80 05 80 A6 80 A7 80  B...............
+1F70: 57 65 74 61 74 61 00 00  00 00 00 00 00 00 00 00  Wetata..........
+1F80: 1D CB 80 1C BC 80 23 8A  1D BE 80 23 1D BF 80 23  ......#....#...#
+1F90: 2E 01 98 1F 1D CC 80 23  01 A1 20 02 00 10 09 80  .......#.. .....
+1FA0: 00 14 20 42 C8 9B 80 03  80 08 80 8B 9B 80 03 80  .. B............
+1FB0: CD 80 CE 80 4A 61 63 6B  5F 6F 66 5F 53 70 61 64  ....Jack_of_Spad
+1FC0: 65 73 00 00 1D 0A 80 1C  BC 80 23 1D BE 80 23 8A  es........#...#.
+1FD0: 1C 01 80 1D BF 80 1C BD  80 23 02 07 00 05 80 00  .........#......
+1FE0: E5 1F 01 10 20 C8 3F 80  05 80 05 80 8B 3F 80 05  .... .?......?..
+1FF0: 80 CF 80 D0 80 5A 65 6C  61 6C 61 00 00 00 00 00  .....Zelala.....
+2000: 00 00 00 00 00 1D D1 80  1C BC 80 23 8A 1C BD 80  ...........#....
+2010: 2E 01 A1 20 02 00 10 1B  80 00 31 20 42 8D 06 80  ... ......1 B...
+2020: 08 80 1D 0A 80 1C BC 80  23 8A 1C BD 80 2E 01 A1  ........#.......
+2030: 20 02 00 10 25 80 00 4C  20 1D 0B 80 23 1D 0C 80   ...%..L ...#...
+2040: 23 1D 0D 80 23 1D 0E 80  23 01 A1 20 02 00 10 37  #...#...#.. ...7
+2050: 80 00 63 20 1D 0F 80 23  1D 10 80 23 1D 11 80 23  ..c ...#...#...#
+2060: 01 A1 20 02 00 10 1C 80  00 7A 20 1D 12 80 23 1D  .. ......z ...#.
+2070: 13 80 23 1D 14 80 23 01  A1 20 02 00 10 1D 80 00  ..#...#.. ......
+2080: 91 20 1D D2 80 23 1D D3  80 23 1D D4 80 23 01 A1  . ...#...#...#..
+2090: 20 02 00 10 2F 80 00 A1  20 03 00 00 05 80 01 A1   .../... .......
+20A0: 20 01 78 02 1D 15 80 23  20 00 21 00 1D CA 80 23   .x....# .!....#
+20B0: 1D D5 80 23 1B                                    ...#.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0164 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
+  1: 0x0169 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
+  2: 0x016E [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
+  3: 0x0173 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[6]
+  4: 0x0178 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[7]
+  5: 0x017D [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
+  6: 0x0182 [0x3E] IF !(Work_Zone[9] bit 0*) GOTO 0x0191
+  7: 0x0189 [0x03] ExtData[1]->WorkLocal[7] = 0*
+  8: 0x018E [0x01] GOTO 0x0196
+  9: 0x0191 [0x03] ExtData[1]->WorkLocal[7] = 1*
+
+SUBROUTINE_0196:
+ 10: 0x0196 [0x3E] IF !(Work_Zone[9] bit 25*) GOTO 0x01A5
+ 11: 0x019D [0x03] ExtData[1]->WorkLocal[17] = 2*
+ 12: 0x01A2 [0x01] GOTO 0x01B9
+ 13: 0x01A5 [0x3E] IF !(Work_Zone[9] bit 26*) GOTO 0x01B4
+ 14: 0x01AC [0x03] ExtData[1]->WorkLocal[17] = 1*
+ 15: 0x01B1 [0x01] GOTO 0x01B9
+ 16: 0x01B4 [0x03] ExtData[1]->WorkLocal[17] = 0*
+
+SUBROUTINE_01B9:
+ 17: 0x01B9 [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[9] (bits 1*-4*)
+ 18: 0x01C2 [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[9] (bits 5*-8*)
+ 19: 0x01CB [0x41] ExtData[1]->WorkLocal[10] = Work_Zone[9] (bits 9*-12*)
+ 20: 0x01D4 [0x41] ExtData[1]->WorkLocal[11] = Work_Zone[9] (bits 13*-16*)
+ 21: 0x01DD [0x41] ExtData[1]->WorkLocal[12] = Work_Zone[9] (bits 17*-20*)
+ 22: 0x01E6 [0x41] ExtData[1]->WorkLocal[13] = Work_Zone[9] (bits 21*-24*)
+ 23: 0x01EF [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x01FC
+ 24: 0x01F7 [0x03] ExtData[1]->WorkLocal[8] = 1*
+ 25: 0x01FC [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0209
+ 26: 0x0204 [0x03] ExtData[1]->WorkLocal[9] = 1*
+ 27: 0x0209 [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x0216
+ 28: 0x0211 [0x03] ExtData[1]->WorkLocal[10] = 1*
+ 29: 0x0216 [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x0223
+ 30: 0x021E [0x03] ExtData[1]->WorkLocal[11] = 1*
+ 31: 0x0223 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x0230
+ 32: 0x022B [0x03] ExtData[1]->WorkLocal[12] = 1*
+ 33: 0x0230 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x023D
+ 34: 0x0238 [0x03] ExtData[1]->WorkLocal[13] = 1*
+ 35: 0x023D [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[6] (bits 0*-5*)
+ 36: 0x0246 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[6] (bits 6*-11*)
+ 37: 0x024F [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[6] (bits 12*-17*)
+ 38: 0x0258 [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[6] (bits 18*-23*)
+ 39: 0x0261 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[6] (bits 24*-29*)
+ 40: 0x026A [0x1E] EventEntity looks at LocalPlayer and starts talking
+ 41: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=6831*)
+    → "AlLow mE tO aSsisT You iF yOu arE loSt. What CaN jAck dO For yOu?"
+ 42: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 43: 0x0273 [0x03] ExtData[1]->WorkLocal[0] = 0*
+
+SUBROUTINE_0278:
+ 44: 0x0278 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x20A4
+ 45: 0x0280 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+ 46: 0x0281 [0x24] CREATE_DIALOG(message_id=6849*, default_option=0*, option_flags=0*)
+    → "Inquire about what? [I want to find some quests!/I want to try the tutorial!/Teach me about Records of Eminence!/Teach me about the Trust initiative!/I want a map of the area I'm in!/I want maps of the whole city!/How do I give items to people?/How do I fight outside town?/What are quests and missions?/I have other questions./Nothing for now.]"
+ 47: 0x0288 [0x25] WAIT_DIALOG_SELECT()
+ 48: 0x0289 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E59
+ 49: 0x0291 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x029F
+ 50: 0x0299 [0x1A] CALL_SUBROUTINE(address=0x20AC)
+ 51: 0x029C [0x01] GOTO 0x1E52
+ 52: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=6876*)
+    → "tHe CiTIzEns oF WiNDurSt cRy oUT FoR yOUr Aid. ShALl I fInD peOplE WhO NeeD HElp?"
+ 53: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 54: 0x02A3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4294967295*) GOTO 0x02B7
+ 55: 0x02AB [0x03] Work_Zone[3] = 0*
+ 56: 0x02B0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=0*, condition_work_offset=1*)
+ 57: 0x02B7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4294967295*) GOTO 0x02CB
+ 58: 0x02BF [0x03] Work_Zone[4] = 0*
+ 59: 0x02C4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
+ 60: 0x02CB [0x02] IF !(ExtData[1]->WorkLocal[3] == 4294967295*) GOTO 0x02DF
+ 61: 0x02D3 [0x03] Work_Zone[5] = 0*
+ 62: 0x02D8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[3], bit_index_work_offset=0*, condition_work_offset=1*)
+ 63: 0x02DF [0x02] IF !(ExtData[1]->WorkLocal[4] == 4294967295*) GOTO 0x02F3
+ 64: 0x02E7 [0x03] Work_Zone[6] = 0*
+ 65: 0x02EC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=0*, condition_work_offset=1*)
+ 66: 0x02F3 [0x02] IF !(ExtData[1]->WorkLocal[5] == 4294967295*) GOTO 0x0307
+ 67: 0x02FB [0x03] Work_Zone[7] = 0*
+ 68: 0x0300 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=0*, condition_work_offset=1*)
+ 69: 0x0307 [0x03] ExtData[1]->WorkLocal[15] = 1*
+
+SUBROUTINE_030C:
+ 70: 0x030C [0x02] IF !(ExtData[1]->WorkLocal[15] <= 0*) GOTO 0x1E52
+ 71: 0x0314 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[6] (bits 0*-5*)
+ 72: 0x031D [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[6] (bits 6*-11*)
+ 73: 0x0326 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[6] (bits 12*-17*)
+ 74: 0x032F [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[6] (bits 18*-23*)
+ 75: 0x0338 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[6] (bits 24*-29*)
+ 76: 0x0341 [0x03] Work_Zone[2] = 0*
+ 77: 0x0346 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0355
+ 78: 0x034E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=1*, condition_work_offset=1*)
+ 79: 0x0355 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0364
+ 80: 0x035D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=2*, condition_work_offset=1*)
+ 81: 0x0364 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0373
+ 82: 0x036C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=3*, condition_work_offset=1*)
+ 83: 0x0373 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0382
+ 84: 0x037B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=4*, condition_work_offset=1*)
+ 85: 0x0382 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0391
+ 86: 0x038A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=5*, condition_work_offset=1*)
+ 87: 0x0391 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+ 88: 0x0392 [0x24] CREATE_DIALOG(message_id=6877*, default_option=0*, option_flags=Work_Zone[2])
+    → "Inquire about which locale? [None./Windurst Waters: $1 individual[/s]./Windurst Walls: $2 individual[/s]/Port Windurst: $3 individual[/s]/Windurst Woods: $4 individual[/s]/Heavens Tower: $5 individual[/s]]"
+ 89: 0x0399 [0x25] WAIT_DIALOG_SELECT()
+ 90: 0x039A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0454
+ 91: 0x03A2 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+ 92: 0x03A3 [0x06] ExtData[1]->WorkLocal[15] = 0
+ 93: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6887*)
+    → "FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS."
+ 94: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 95: 0x03AA [0x13] ExtData[1]->WorkLocal[16] = rand() % 10*
+ 96: 0x03AF [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x03BE
+ 97: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6891*)
+    → "YoU CAn wArP BetWEen PlACes KnOwn aS "HoME pOinTs." TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE."
+ 98: 0x03BA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 99: 0x03BB [0x01] GOTO 0x0451
+100: 0x03BE [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x03CD
+101: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6895*)
+    → "If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!"
+102: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+103: 0x03CA [0x01] GOTO 0x0451
+104: 0x03CD [0x02] IF !(ExtData[1]->WorkLocal[16] == 2*) GOTO 0x03DC
+105: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6899*)
+    → "DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!"
+106: 0x03D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+107: 0x03D9 [0x01] GOTO 0x0451
+108: 0x03DC [0x02] IF !(ExtData[1]->WorkLocal[16] == 3*) GOTO 0x03EB
+109: 0x03E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6903*)
+    → "MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!"
+110: 0x03E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+111: 0x03E8 [0x01] GOTO 0x0451
+112: 0x03EB [0x02] IF !(ExtData[1]->WorkLocal[16] == 4*) GOTO 0x03FA
+113: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6907*)
+    → "LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk."
+114: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+115: 0x03F7 [0x01] GOTO 0x0451
+116: 0x03FA [0x02] IF !(ExtData[1]->WorkLocal[16] == 5*) GOTO 0x0409
+117: 0x0402 [0x1D] PRINT_EVENT_MESSAGE(message_id=6911*)
+    → "LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE."
+118: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
+119: 0x0406 [0x01] GOTO 0x0451
+120: 0x0409 [0x02] IF !(ExtData[1]->WorkLocal[16] == 6*) GOTO 0x0418
+121: 0x0411 [0x1D] PRINT_EVENT_MESSAGE(message_id=6915*)
+    → "LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS."
+122: 0x0414 [0x23] WAIT_FOR_DIALOG_INTERACTION
+123: 0x0415 [0x01] GOTO 0x0451
+124: 0x0418 [0x02] IF !(ExtData[1]->WorkLocal[16] == 7*) GOTO 0x0427
+125: 0x0420 [0x1D] PRINT_EVENT_MESSAGE(message_id=6919*)
+    → "LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN."
+126: 0x0423 [0x23] WAIT_FOR_DIALOG_INTERACTION
+127: 0x0424 [0x01] GOTO 0x0451
+128: 0x0427 [0x02] IF !(ExtData[1]->WorkLocal[16] == 8*) GOTO 0x0436
+129: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=6923*)
+    → "LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs."
+130: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
+131: 0x0433 [0x01] GOTO 0x0451
+132: 0x0436 [0x02] IF !(ExtData[1]->WorkLocal[16] == 9*) GOTO 0x0445
+133: 0x043E [0x1D] PRINT_EVENT_MESSAGE(message_id=6927*)
+    → "LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls."
+134: 0x0441 [0x23] WAIT_FOR_DIALOG_INTERACTION
+135: 0x0442 [0x01] GOTO 0x0451
+136: 0x0445 [0x02] IF !(ExtData[1]->WorkLocal[16] == 10*) GOTO 0x0451
+137: 0x044D [0x1D] PRINT_EVENT_MESSAGE(message_id=6931*)
+    → "LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's "cHaRm" aNd thE AccURaCy Of A BarD's sONgs."
+138: 0x0450 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0451:
+139: 0x0451 [0x01] GOTO 0x1E4E
+140: 0x0454 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D08
+141: 0x045C [0x03] Work_Zone[2] = 0*
+142: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=6878*)
+    → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
+143: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
+144: 0x0465 [0x03] ExtData[1]->WorkLocal[14] = 1*
+
+SUBROUTINE_046A:
+145: 0x046A [0x02] IF !(ExtData[1]->WorkLocal[14] <= 0*) GOTO 0x0D05
+146: 0x0472 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[8]
+147: 0x0477 [0x07] Work_Zone[8] += 10*
+148: 0x047C [0x03] Work_Zone[1] = Work_Zone[8]
+149: 0x0481 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+150: 0x0483 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+151: 0x0485 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[13]
+152: 0x048A [0x07] Work_Zone[8] += 120*
+153: 0x048F [0x03] Work_Zone[1] = Work_Zone[8]
+154: 0x0494 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+155: 0x0496 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+156: 0x0498 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+157: 0x0499 [0x24] CREATE_DIALOG(message_id=6879*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+    → "Who will you go see in Windurst Waters? [No one./Mashuu-Ajuu./Moreno-Toeno./Kerutoto./Hariga-Origa./Angelica./Baren-Moren./Chamama./Ranpi-Monpi./Naiko-Paneiko./Moari-Kaaori./Khoto Rokkorah./Naiko-Paneiko./Tosuka-Porika./Kenapa-Keppa./Lumomo./Ohbiru-Dohbiru./Paku-Nakku./Hariga-Origa/Fuepepe./Tosuka-Porika./Baren-Moren./Jatan-Paratan./Kerutoto./Leepe-Hoppe./Kerutoto./Gantineux./Honoi-Gomoi./Ohbiru-Dohbiru./Leepe-Hoppe./Ropunono.]"
+158: 0x04A0 [0x25] WAIT_DIALOG_SELECT()
+159: 0x04A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B0
+160: 0x04A9 [0x06] ExtData[1]->WorkLocal[14] = 0
+161: 0x04AC [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+162: 0x04AD [0x01] GOTO 0x0D02
+163: 0x04B0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04F7
+164: 0x04B8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+165: 0x04B9 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+166: 0x04BE [0x1C] WAIT(30* ticks)
+167: 0x04C1 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=131.143*, y_pos=167.546*, marker_name="Mashuu-Ajuu")
+168: 0x04DC [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x04E9
+169: 0x04E4 [0x07] ExtData[1]->WorkLocal[8] += 1*
+170: 0x04E9 [0x1C] WAIT(30* ticks)
+171: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+172: 0x04EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+173: 0x04F0 [0x8A] CLOSE_MAP()
+174: 0x04F1 [0x1C] WAIT(30* ticks)
+175: 0x04F4 [0x01] GOTO 0x0D02
+176: 0x04F7 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x053E
+177: 0x04FF [0x42] SET_CLI_EVENT_CANCEL_DATA()
+178: 0x0500 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+179: 0x0505 [0x1C] WAIT(30* ticks)
+180: 0x0508 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=168.465*, y_pos=156.888*, marker_name="Moreno-Toeno")
+181: 0x0523 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0530
+182: 0x052B [0x07] ExtData[1]->WorkLocal[8] += 1*
+183: 0x0530 [0x1C] WAIT(30* ticks)
+184: 0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+185: 0x0536 [0x23] WAIT_FOR_DIALOG_INTERACTION
+186: 0x0537 [0x8A] CLOSE_MAP()
+187: 0x0538 [0x1C] WAIT(30* ticks)
+188: 0x053B [0x01] GOTO 0x0D02
+189: 0x053E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0585
+190: 0x0546 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+191: 0x0547 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+192: 0x054C [0x1C] WAIT(30* ticks)
+193: 0x054F [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=13.048*, y_pos=-157.394*, marker_name="Kerutoto")
+194: 0x056A [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0577
+195: 0x0572 [0x07] ExtData[1]->WorkLocal[13] += 1*
+196: 0x0577 [0x1C] WAIT(30* ticks)
+197: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+198: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
+199: 0x057E [0x8A] CLOSE_MAP()
+200: 0x057F [0x1C] WAIT(30* ticks)
+201: 0x0582 [0x01] GOTO 0x0D02
+202: 0x0585 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x05CC
+203: 0x058D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+204: 0x058E [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+205: 0x0593 [0x1C] WAIT(30* ticks)
+206: 0x0596 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-62.511*, y_pos=105.234*, marker_name="Hariga-Origa")
+207: 0x05B1 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x05BE
+208: 0x05B9 [0x07] ExtData[1]->WorkLocal[8] += 1*
+209: 0x05BE [0x1C] WAIT(30* ticks)
+210: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+211: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+212: 0x05C5 [0x8A] CLOSE_MAP()
+213: 0x05C6 [0x1C] WAIT(30* ticks)
+214: 0x05C9 [0x01] GOTO 0x0D02
+215: 0x05CC [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0613
+216: 0x05D4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+217: 0x05D5 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+218: 0x05DA [0x1C] WAIT(30* ticks)
+219: 0x05DD [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-64.619*, y_pos=-8.853*, marker_name="Angelica")
+220: 0x05F8 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0605
+221: 0x0600 [0x07] ExtData[1]->WorkLocal[8] += 1*
+222: 0x0605 [0x1C] WAIT(30* ticks)
+223: 0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+224: 0x060B [0x23] WAIT_FOR_DIALOG_INTERACTION
+225: 0x060C [0x8A] CLOSE_MAP()
+226: 0x060D [0x1C] WAIT(30* ticks)
+227: 0x0610 [0x01] GOTO 0x0D02
+228: 0x0613 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x065A
+229: 0x061B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+230: 0x061C [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+231: 0x0621 [0x1C] WAIT(30* ticks)
+232: 0x0624 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=-66.599*, y_pos=-145.739*, marker_name="Baren-Moren")
+233: 0x063F [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x064C
+234: 0x0647 [0x07] ExtData[1]->WorkLocal[13] += 1*
+235: 0x064C [0x1C] WAIT(30* ticks)
+236: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+237: 0x0652 [0x23] WAIT_FOR_DIALOG_INTERACTION
+238: 0x0653 [0x8A] CLOSE_MAP()
+239: 0x0654 [0x1C] WAIT(30* ticks)
+240: 0x0657 [0x01] GOTO 0x0D02
+241: 0x065A [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x06A1
+242: 0x0662 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+243: 0x0663 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+244: 0x0668 [0x1C] WAIT(30* ticks)
+245: 0x066B [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-70.244*, y_pos=-4.439*, marker_name="Chamama")
+246: 0x0686 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0693
+247: 0x068E [0x07] ExtData[1]->WorkLocal[8] += 1*
+248: 0x0693 [0x1C] WAIT(30* ticks)
+249: 0x0696 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+250: 0x0699 [0x23] WAIT_FOR_DIALOG_INTERACTION
+251: 0x069A [0x8A] CLOSE_MAP()
+252: 0x069B [0x1C] WAIT(30* ticks)
+253: 0x069E [0x01] GOTO 0x0D02
+254: 0x06A1 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x06E8
+255: 0x06A9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+256: 0x06AA [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+257: 0x06AF [0x1C] WAIT(30* ticks)
+258: 0x06B2 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-123.317*, y_pos=63.211*, marker_name="Ranpi-Monpi")
+259: 0x06CD [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x06DA
+260: 0x06D5 [0x07] ExtData[1]->WorkLocal[8] += 1*
+261: 0x06DA [0x1C] WAIT(30* ticks)
+262: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+263: 0x06E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+264: 0x06E1 [0x8A] CLOSE_MAP()
+265: 0x06E2 [0x1C] WAIT(30* ticks)
+266: 0x06E5 [0x01] GOTO 0x0D02
+267: 0x06E8 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x072F
+268: 0x06F0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+269: 0x06F1 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+270: 0x06F6 [0x1C] WAIT(30* ticks)
+271: 0x06F9 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=-246.916*, y_pos=-308.059*, marker_name="Naiko-Paneiko")
+272: 0x0714 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0721
+273: 0x071C [0x07] ExtData[1]->WorkLocal[13] += 1*
+274: 0x0721 [0x1C] WAIT(30* ticks)
+275: 0x0724 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+276: 0x0727 [0x23] WAIT_FOR_DIALOG_INTERACTION
+277: 0x0728 [0x8A] CLOSE_MAP()
+278: 0x0729 [0x1C] WAIT(30* ticks)
+279: 0x072C [0x01] GOTO 0x0D02
+280: 0x072F [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0776
+281: 0x0737 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+282: 0x0738 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+283: 0x073D [0x1C] WAIT(30* ticks)
+284: 0x0740 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=-253.000*, y_pos=-226.941*, marker_name="Moari-Kaaori")
+285: 0x075B [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0768
+286: 0x0763 [0x07] ExtData[1]->WorkLocal[13] += 1*
+287: 0x0768 [0x1C] WAIT(30* ticks)
+288: 0x076B [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+289: 0x076E [0x23] WAIT_FOR_DIALOG_INTERACTION
+290: 0x076F [0x8A] CLOSE_MAP()
+291: 0x0770 [0x1C] WAIT(30* ticks)
+292: 0x0773 [0x01] GOTO 0x0D02
+293: 0x0776 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x07BD
+294: 0x077E [0x42] SET_CLI_EVENT_CANCEL_DATA()
+295: 0x077F [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+296: 0x0784 [0x1C] WAIT(30* ticks)
+297: 0x0787 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=11.000*, y_pos=21.000*, marker_name="Khoto Rokkorah")
+298: 0x07A2 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x07AF
+299: 0x07AA [0x07] ExtData[1]->WorkLocal[8] += 1*
+300: 0x07AF [0x1C] WAIT(30* ticks)
+301: 0x07B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+302: 0x07B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+303: 0x07B6 [0x8A] CLOSE_MAP()
+304: 0x07B7 [0x1C] WAIT(30* ticks)
+305: 0x07BA [0x01] GOTO 0x0D02
+306: 0x07BD [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0804
+307: 0x07C5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+308: 0x07C6 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+309: 0x07CB [0x1C] WAIT(30* ticks)
+310: 0x07CE [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=-246.916*, y_pos=-308.059*, marker_name="Naiko-Paneiko")
+311: 0x07E9 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x07F6
+312: 0x07F1 [0x07] ExtData[1]->WorkLocal[13] += 1*
+313: 0x07F6 [0x1C] WAIT(30* ticks)
+314: 0x07F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+315: 0x07FC [0x23] WAIT_FOR_DIALOG_INTERACTION
+316: 0x07FD [0x8A] CLOSE_MAP()
+317: 0x07FE [0x1C] WAIT(30* ticks)
+318: 0x0801 [0x01] GOTO 0x0D02
+319: 0x0804 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x084B
+320: 0x080C [0x42] SET_CLI_EVENT_CANCEL_DATA()
+321: 0x080D [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+322: 0x0812 [0x1C] WAIT(30* ticks)
+323: 0x0815 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-28.663*, y_pos=104.426*, marker_name="Tosuka-Porika")
+324: 0x0830 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x083D
+325: 0x0838 [0x07] ExtData[1]->WorkLocal[8] += 1*
+326: 0x083D [0x1C] WAIT(30* ticks)
+327: 0x0840 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+328: 0x0843 [0x23] WAIT_FOR_DIALOG_INTERACTION
+329: 0x0844 [0x8A] CLOSE_MAP()
+330: 0x0845 [0x1C] WAIT(30* ticks)
+331: 0x0848 [0x01] GOTO 0x0D02
+332: 0x084B [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0892
+333: 0x0853 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+334: 0x0854 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+335: 0x0859 [0x1C] WAIT(30* ticks)
+336: 0x085C [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[8], x_pos=24.330*, y_pos=-200.357*, marker_name="Kenapa-Keppa")
+337: 0x0877 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0884
+338: 0x087F [0x07] ExtData[1]->WorkLocal[8] += 1*
+339: 0x0884 [0x1C] WAIT(30* ticks)
+340: 0x0887 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+341: 0x088A [0x23] WAIT_FOR_DIALOG_INTERACTION
+342: 0x088B [0x8A] CLOSE_MAP()
+343: 0x088C [0x1C] WAIT(30* ticks)
+344: 0x088F [0x01] GOTO 0x0D02
+345: 0x0892 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x08D9
+346: 0x089A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+347: 0x089B [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+348: 0x08A0 [0x1C] WAIT(30* ticks)
+349: 0x08A3 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-55.770*, y_pos=18.914*, marker_name="Lumomo")
+350: 0x08BE [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x08CB
+351: 0x08C6 [0x07] ExtData[1]->WorkLocal[8] += 1*
+352: 0x08CB [0x1C] WAIT(30* ticks)
+353: 0x08CE [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+354: 0x08D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+355: 0x08D2 [0x8A] CLOSE_MAP()
+356: 0x08D3 [0x1C] WAIT(30* ticks)
+357: 0x08D6 [0x01] GOTO 0x0D02
+358: 0x08D9 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0920
+359: 0x08E1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+360: 0x08E2 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+361: 0x08E7 [0x1C] WAIT(30* ticks)
+362: 0x08EA [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=22.704*, y_pos=-195.018*, marker_name="Ohbiru-Dohbiru")
+363: 0x0905 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0912
+364: 0x090D [0x07] ExtData[1]->WorkLocal[13] += 1*
+365: 0x0912 [0x1C] WAIT(30* ticks)
+366: 0x0915 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+367: 0x0918 [0x23] WAIT_FOR_DIALOG_INTERACTION
+368: 0x0919 [0x8A] CLOSE_MAP()
+369: 0x091A [0x1C] WAIT(30* ticks)
+370: 0x091D [0x01] GOTO 0x0D02
+371: 0x0920 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0967
+372: 0x0928 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+373: 0x0929 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+374: 0x092E [0x1C] WAIT(30* ticks)
+375: 0x0931 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=128.983*, y_pos=165.025*, marker_name="Paku-Nakku")
+376: 0x094C [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0959
+377: 0x0954 [0x07] ExtData[1]->WorkLocal[8] += 1*
+378: 0x0959 [0x1C] WAIT(30* ticks)
+379: 0x095C [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+380: 0x095F [0x23] WAIT_FOR_DIALOG_INTERACTION
+381: 0x0960 [0x8A] CLOSE_MAP()
+382: 0x0961 [0x1C] WAIT(30* ticks)
+383: 0x0964 [0x01] GOTO 0x0D02
+384: 0x0967 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x09AE
+385: 0x096F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+386: 0x0970 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+387: 0x0975 [0x1C] WAIT(30* ticks)
+388: 0x0978 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-62.511*, y_pos=105.234*, marker_name="Hariga-Origa")
+389: 0x0993 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x09A0
+390: 0x099B [0x07] ExtData[1]->WorkLocal[8] += 1*
+391: 0x09A0 [0x1C] WAIT(30* ticks)
+392: 0x09A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+393: 0x09A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+394: 0x09A7 [0x8A] CLOSE_MAP()
+395: 0x09A8 [0x1C] WAIT(30* ticks)
+396: 0x09AB [0x01] GOTO 0x0D02
+397: 0x09AE [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x09F5
+398: 0x09B6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+399: 0x09B7 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+400: 0x09BC [0x1C] WAIT(30* ticks)
+401: 0x09BF [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=163.555*, y_pos=161.107*, marker_name="Fuepepe")
+402: 0x09DA [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x09E7
+403: 0x09E2 [0x07] ExtData[1]->WorkLocal[8] += 1*
+404: 0x09E7 [0x1C] WAIT(30* ticks)
+405: 0x09EA [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+406: 0x09ED [0x23] WAIT_FOR_DIALOG_INTERACTION
+407: 0x09EE [0x8A] CLOSE_MAP()
+408: 0x09EF [0x1C] WAIT(30* ticks)
+409: 0x09F2 [0x01] GOTO 0x0D02
+410: 0x09F5 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x0A3C
+411: 0x09FD [0x42] SET_CLI_EVENT_CANCEL_DATA()
+412: 0x09FE [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+413: 0x0A03 [0x1C] WAIT(30* ticks)
+414: 0x0A06 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-28.663*, y_pos=104.426*, marker_name="Tosuka-Porika")
+415: 0x0A21 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0A2E
+416: 0x0A29 [0x07] ExtData[1]->WorkLocal[8] += 1*
+417: 0x0A2E [0x1C] WAIT(30* ticks)
+418: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+419: 0x0A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
+420: 0x0A35 [0x8A] CLOSE_MAP()
+421: 0x0A36 [0x1C] WAIT(30* ticks)
+422: 0x0A39 [0x01] GOTO 0x0D02
+423: 0x0A3C [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x0A83
+424: 0x0A44 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+425: 0x0A45 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+426: 0x0A4A [0x1C] WAIT(30* ticks)
+427: 0x0A4D [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=-66.599*, y_pos=-145.739*, marker_name="Baren-Moren")
+428: 0x0A68 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0A75
+429: 0x0A70 [0x07] ExtData[1]->WorkLocal[13] += 1*
+430: 0x0A75 [0x1C] WAIT(30* ticks)
+431: 0x0A78 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+432: 0x0A7B [0x23] WAIT_FOR_DIALOG_INTERACTION
+433: 0x0A7C [0x8A] CLOSE_MAP()
+434: 0x0A7D [0x1C] WAIT(30* ticks)
+435: 0x0A80 [0x01] GOTO 0x0D02
+436: 0x0A83 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x0ACA
+437: 0x0A8B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+438: 0x0A8C [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+439: 0x0A91 [0x1C] WAIT(30* ticks)
+440: 0x0A94 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-59.998*, y_pos=19.775*, marker_name="Jatan-Paratan")
+441: 0x0AAF [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0ABC
+442: 0x0AB7 [0x07] ExtData[1]->WorkLocal[8] += 1*
+443: 0x0ABC [0x1C] WAIT(30* ticks)
+444: 0x0ABF [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+445: 0x0AC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+446: 0x0AC3 [0x8A] CLOSE_MAP()
+447: 0x0AC4 [0x1C] WAIT(30* ticks)
+448: 0x0AC7 [0x01] GOTO 0x0D02
+449: 0x0ACA [0x02] IF !(Work_Zone[0] == 23*) GOTO 0x0B11
+450: 0x0AD2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+451: 0x0AD3 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+452: 0x0AD8 [0x1C] WAIT(30* ticks)
+453: 0x0ADB [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=13.048*, y_pos=-157.394*, marker_name="Kerutoto")
+454: 0x0AF6 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0B03
+455: 0x0AFE [0x07] ExtData[1]->WorkLocal[13] += 1*
+456: 0x0B03 [0x1C] WAIT(30* ticks)
+457: 0x0B06 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+458: 0x0B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
+459: 0x0B0A [0x8A] CLOSE_MAP()
+460: 0x0B0B [0x1C] WAIT(30* ticks)
+461: 0x0B0E [0x01] GOTO 0x0D02
+462: 0x0B11 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x0B58
+463: 0x0B19 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+464: 0x0B1A [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+465: 0x0B1F [0x1C] WAIT(30* ticks)
+466: 0x0B22 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=11.432*, y_pos=-197.475*, marker_name="Leepe-Hoppe")
+467: 0x0B3D [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0B4A
+468: 0x0B45 [0x07] ExtData[1]->WorkLocal[13] += 1*
+469: 0x0B4A [0x1C] WAIT(30* ticks)
+470: 0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+471: 0x0B50 [0x23] WAIT_FOR_DIALOG_INTERACTION
+472: 0x0B51 [0x8A] CLOSE_MAP()
+473: 0x0B52 [0x1C] WAIT(30* ticks)
+474: 0x0B55 [0x01] GOTO 0x0D02
+475: 0x0B58 [0x02] IF !(Work_Zone[0] == 25*) GOTO 0x0B9F
+476: 0x0B60 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+477: 0x0B61 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+478: 0x0B66 [0x1C] WAIT(30* ticks)
+479: 0x0B69 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=13.048*, y_pos=-157.394*, marker_name="Kerutoto")
+480: 0x0B84 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0B91
+481: 0x0B8C [0x07] ExtData[1]->WorkLocal[13] += 1*
+482: 0x0B91 [0x1C] WAIT(30* ticks)
+483: 0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+484: 0x0B97 [0x23] WAIT_FOR_DIALOG_INTERACTION
+485: 0x0B98 [0x8A] CLOSE_MAP()
+486: 0x0B99 [0x1C] WAIT(30* ticks)
+487: 0x0B9C [0x01] GOTO 0x0D02
+488: 0x0B9F [0x02] IF !(Work_Zone[0] == 26*) GOTO 0x0BE6
+489: 0x0BA7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+490: 0x0BA8 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+491: 0x0BAD [0x1C] WAIT(30* ticks)
+492: 0x0BB0 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-85.112*, y_pos=3.318*, marker_name="Gantineux")
+493: 0x0BCB [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0BD8
+494: 0x0BD3 [0x07] ExtData[1]->WorkLocal[8] += 1*
+495: 0x0BD8 [0x1C] WAIT(30* ticks)
+496: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+497: 0x0BDE [0x23] WAIT_FOR_DIALOG_INTERACTION
+498: 0x0BDF [0x8A] CLOSE_MAP()
+499: 0x0BE0 [0x1C] WAIT(30* ticks)
+500: 0x0BE3 [0x01] GOTO 0x0D02
+501: 0x0BE6 [0x02] IF !(Work_Zone[0] == 27*) GOTO 0x0C2D
+502: 0x0BEE [0x42] SET_CLI_EVENT_CANCEL_DATA()
+503: 0x0BEF [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+504: 0x0BF4 [0x1C] WAIT(30* ticks)
+505: 0x0BF7 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=-194.130*, y_pos=-122.941*, marker_name="Honoi-Gomoi")
+506: 0x0C12 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0C1F
+507: 0x0C1A [0x07] ExtData[1]->WorkLocal[13] += 1*
+508: 0x0C1F [0x1C] WAIT(30* ticks)
+509: 0x0C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+510: 0x0C25 [0x23] WAIT_FOR_DIALOG_INTERACTION
+511: 0x0C26 [0x8A] CLOSE_MAP()
+512: 0x0C27 [0x1C] WAIT(30* ticks)
+513: 0x0C2A [0x01] GOTO 0x0D02
+514: 0x0C2D [0x02] IF !(Work_Zone[0] == 28*) GOTO 0x0C74
+515: 0x0C35 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+516: 0x0C36 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+517: 0x0C3B [0x1C] WAIT(30* ticks)
+518: 0x0C3E [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=22.704*, y_pos=-195.018*, marker_name="Ohbiru-Dohbiru")
+519: 0x0C59 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0C66
+520: 0x0C61 [0x07] ExtData[1]->WorkLocal[13] += 1*
+521: 0x0C66 [0x1C] WAIT(30* ticks)
+522: 0x0C69 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+523: 0x0C6C [0x23] WAIT_FOR_DIALOG_INTERACTION
+524: 0x0C6D [0x8A] CLOSE_MAP()
+525: 0x0C6E [0x1C] WAIT(30* ticks)
+526: 0x0C71 [0x01] GOTO 0x0D02
+527: 0x0C74 [0x02] IF !(Work_Zone[0] == 29*) GOTO 0x0CBB
+528: 0x0C7C [0x42] SET_CLI_EVENT_CANCEL_DATA()
+529: 0x0C7D [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=2*)
+530: 0x0C82 [0x1C] WAIT(30* ticks)
+531: 0x0C85 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=2*, marker_id=ExtData[1]->WorkLocal[13], x_pos=11.432*, y_pos=-197.475*, marker_name="Leepe-Hoppe")
+532: 0x0CA0 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0CAD
+533: 0x0CA8 [0x07] ExtData[1]->WorkLocal[13] += 1*
+534: 0x0CAD [0x1C] WAIT(30* ticks)
+535: 0x0CB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+536: 0x0CB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+537: 0x0CB4 [0x8A] CLOSE_MAP()
+538: 0x0CB5 [0x1C] WAIT(30* ticks)
+539: 0x0CB8 [0x01] GOTO 0x0D02
+540: 0x0CBB [0x02] IF !(Work_Zone[0] == 30*) GOTO 0x0D02
+541: 0x0CC3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+542: 0x0CC4 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=238*, properties=1*)
+543: 0x0CC9 [0x1C] WAIT(30* ticks)
+544: 0x0CCC [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=238*, submap=1*, marker_id=ExtData[1]->WorkLocal[8], x_pos=-51.624*, y_pos=117.476*, marker_name="Ropunono")
+545: 0x0CE7 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0CF4
+546: 0x0CEF [0x07] ExtData[1]->WorkLocal[8] += 1*
+547: 0x0CF4 [0x1C] WAIT(30* ticks)
+548: 0x0CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+549: 0x0CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
+550: 0x0CFB [0x8A] CLOSE_MAP()
+551: 0x0CFC [0x1C] WAIT(30* ticks)
+552: 0x0CFF [0x01] GOTO 0x0D02
+
+SUBROUTINE_0D02:
+553: 0x0D02 [0x01] GOTO 0x046A
+554: 0x0D05 [0x01] GOTO 0x1E4E
+555: 0x0D08 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1180
+556: 0x0D10 [0x03] Work_Zone[2] = 1*
+557: 0x0D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=6878*)
+    → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
+558: 0x0D18 [0x23] WAIT_FOR_DIALOG_INTERACTION
+559: 0x0D19 [0x03] ExtData[1]->WorkLocal[14] = 1*
+
+SUBROUTINE_0D1E:
+560: 0x0D1E [0x02] IF !(ExtData[1]->WorkLocal[14] <= 0*) GOTO 0x117D
+561: 0x0D26 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[9]
+562: 0x0D2B [0x07] Work_Zone[8] += 20*
+563: 0x0D30 [0x03] Work_Zone[1] = Work_Zone[8]
+564: 0x0D35 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+565: 0x0D37 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+566: 0x0D39 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+567: 0x0D3A [0x24] CREATE_DIALOG(message_id=6880*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+    → "Who will you go see in Windurst Walls? [No one./Ambrosius./Raamimi./Yoran-Oran./Koru-Moru./Ojha Rhawash./Shantotto./Shantotto./Someone in the House of the Hero./Shantotto./Koru-Moru./Someone in the House of the Hero./Someone in the House of the Hero./Someone in the House of the Hero./Koru-Moru./Shantotto.]"
+568: 0x0D41 [0x25] WAIT_DIALOG_SELECT()
+569: 0x0D42 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D51
+570: 0x0D4A [0x06] ExtData[1]->WorkLocal[14] = 0
+571: 0x0D4D [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+572: 0x0D4E [0x01] GOTO 0x117A
+573: 0x0D51 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D98
+574: 0x0D59 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+575: 0x0D5A [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+576: 0x0D5F [0x1C] WAIT(30* ticks)
+577: 0x0D62 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=65.175*, y_pos=-63.231*, marker_name="Ambrosius")
+578: 0x0D7D [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0D8A
+579: 0x0D85 [0x07] ExtData[1]->WorkLocal[9] += 1*
+580: 0x0D8A [0x1C] WAIT(30* ticks)
+581: 0x0D8D [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+582: 0x0D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
+583: 0x0D91 [0x8A] CLOSE_MAP()
+584: 0x0D92 [0x1C] WAIT(30* ticks)
+585: 0x0D95 [0x01] GOTO 0x117A
+586: 0x0D98 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0DDF
+587: 0x0DA0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+588: 0x0DA1 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+589: 0x0DA6 [0x1C] WAIT(30* ticks)
+590: 0x0DA9 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-81.501*, y_pos=103.252*, marker_name="Raamimi")
+591: 0x0DC4 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0DD1
+592: 0x0DCC [0x07] ExtData[1]->WorkLocal[9] += 1*
+593: 0x0DD1 [0x1C] WAIT(30* ticks)
+594: 0x0DD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+595: 0x0DD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+596: 0x0DD8 [0x8A] CLOSE_MAP()
+597: 0x0DD9 [0x1C] WAIT(30* ticks)
+598: 0x0DDC [0x01] GOTO 0x117A
+599: 0x0DDF [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0E26
+600: 0x0DE7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+601: 0x0DE8 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+602: 0x0DED [0x1C] WAIT(30* ticks)
+603: 0x0DF0 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-109.987*, y_pos=203.338*, marker_name="Yoran-Oran")
+604: 0x0E0B [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0E18
+605: 0x0E13 [0x07] ExtData[1]->WorkLocal[9] += 1*
+606: 0x0E18 [0x1C] WAIT(30* ticks)
+607: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+608: 0x0E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
+609: 0x0E1F [0x8A] CLOSE_MAP()
+610: 0x0E20 [0x1C] WAIT(30* ticks)
+611: 0x0E23 [0x01] GOTO 0x117A
+612: 0x0E26 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0E6D
+613: 0x0E2E [0x42] SET_CLI_EVENT_CANCEL_DATA()
+614: 0x0E2F [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+615: 0x0E34 [0x1C] WAIT(30* ticks)
+616: 0x0E37 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-121.688*, y_pos=122.428*, marker_name="Koru-Moru")
+617: 0x0E52 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0E5F
+618: 0x0E5A [0x07] ExtData[1]->WorkLocal[9] += 1*
+619: 0x0E5F [0x1C] WAIT(30* ticks)
+620: 0x0E62 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+621: 0x0E65 [0x23] WAIT_FOR_DIALOG_INTERACTION
+622: 0x0E66 [0x8A] CLOSE_MAP()
+623: 0x0E67 [0x1C] WAIT(30* ticks)
+624: 0x0E6A [0x01] GOTO 0x117A
+625: 0x0E6D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0EB4
+626: 0x0E75 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+627: 0x0E76 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+628: 0x0E7B [0x1C] WAIT(30* ticks)
+629: 0x0E7E [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-209.896*, y_pos=-134.921*, marker_name="Ojha Rhawash")
+630: 0x0E99 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0EA6
+631: 0x0EA1 [0x07] ExtData[1]->WorkLocal[9] += 1*
+632: 0x0EA6 [0x1C] WAIT(30* ticks)
+633: 0x0EA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+634: 0x0EAC [0x23] WAIT_FOR_DIALOG_INTERACTION
+635: 0x0EAD [0x8A] CLOSE_MAP()
+636: 0x0EAE [0x1C] WAIT(30* ticks)
+637: 0x0EB1 [0x01] GOTO 0x117A
+638: 0x0EB4 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0EFB
+639: 0x0EBC [0x42] SET_CLI_EVENT_CANCEL_DATA()
+640: 0x0EBD [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+641: 0x0EC2 [0x1C] WAIT(30* ticks)
+642: 0x0EC5 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=122.640*, y_pos=113.606*, marker_name="Shantotto")
+643: 0x0EE0 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0EED
+644: 0x0EE8 [0x07] ExtData[1]->WorkLocal[9] += 1*
+645: 0x0EED [0x1C] WAIT(30* ticks)
+646: 0x0EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+647: 0x0EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+648: 0x0EF4 [0x8A] CLOSE_MAP()
+649: 0x0EF5 [0x1C] WAIT(30* ticks)
+650: 0x0EF8 [0x01] GOTO 0x117A
+651: 0x0EFB [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0F42
+652: 0x0F03 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+653: 0x0F04 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+654: 0x0F09 [0x1C] WAIT(30* ticks)
+655: 0x0F0C [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=122.640*, y_pos=113.606*, marker_name="Shantotto")
+656: 0x0F27 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0F34
+657: 0x0F2F [0x07] ExtData[1]->WorkLocal[9] += 1*
+658: 0x0F34 [0x1C] WAIT(30* ticks)
+659: 0x0F37 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+660: 0x0F3A [0x23] WAIT_FOR_DIALOG_INTERACTION
+661: 0x0F3B [0x8A] CLOSE_MAP()
+662: 0x0F3C [0x1C] WAIT(30* ticks)
+663: 0x0F3F [0x01] GOTO 0x117A
+664: 0x0F42 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0F89
+665: 0x0F4A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+666: 0x0F4B [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+667: 0x0F50 [0x1C] WAIT(30* ticks)
+668: 0x0F53 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-26.000*, y_pos=262.994*, marker_name="???")
+669: 0x0F6E [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0F7B
+670: 0x0F76 [0x07] ExtData[1]->WorkLocal[9] += 1*
+671: 0x0F7B [0x1C] WAIT(30* ticks)
+672: 0x0F7E [0x1D] PRINT_EVENT_MESSAGE(message_id=6885*)
+    → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+673: 0x0F81 [0x23] WAIT_FOR_DIALOG_INTERACTION
+674: 0x0F82 [0x8A] CLOSE_MAP()
+675: 0x0F83 [0x1C] WAIT(30* ticks)
+676: 0x0F86 [0x01] GOTO 0x117A
+677: 0x0F89 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0FD0
+678: 0x0F91 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+679: 0x0F92 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+680: 0x0F97 [0x1C] WAIT(30* ticks)
+681: 0x0F9A [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=122.640*, y_pos=113.606*, marker_name="Shantotto")
+682: 0x0FB5 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0FC2
+683: 0x0FBD [0x07] ExtData[1]->WorkLocal[9] += 1*
+684: 0x0FC2 [0x1C] WAIT(30* ticks)
+685: 0x0FC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+686: 0x0FC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+687: 0x0FC9 [0x8A] CLOSE_MAP()
+688: 0x0FCA [0x1C] WAIT(30* ticks)
+689: 0x0FCD [0x01] GOTO 0x117A
+690: 0x0FD0 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x1017
+691: 0x0FD8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+692: 0x0FD9 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+693: 0x0FDE [0x1C] WAIT(30* ticks)
+694: 0x0FE1 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-121.688*, y_pos=122.428*, marker_name="Koru-Moru")
+695: 0x0FFC [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1009
+696: 0x1004 [0x07] ExtData[1]->WorkLocal[9] += 1*
+697: 0x1009 [0x1C] WAIT(30* ticks)
+698: 0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+699: 0x100F [0x23] WAIT_FOR_DIALOG_INTERACTION
+700: 0x1010 [0x8A] CLOSE_MAP()
+701: 0x1011 [0x1C] WAIT(30* ticks)
+702: 0x1014 [0x01] GOTO 0x117A
+703: 0x1017 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x105E
+704: 0x101F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+705: 0x1020 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+706: 0x1025 [0x1C] WAIT(30* ticks)
+707: 0x1028 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-26.000*, y_pos=262.994*, marker_name="???")
+708: 0x1043 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1050
+709: 0x104B [0x07] ExtData[1]->WorkLocal[9] += 1*
+710: 0x1050 [0x1C] WAIT(30* ticks)
+711: 0x1053 [0x1D] PRINT_EVENT_MESSAGE(message_id=6885*)
+    → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+712: 0x1056 [0x23] WAIT_FOR_DIALOG_INTERACTION
+713: 0x1057 [0x8A] CLOSE_MAP()
+714: 0x1058 [0x1C] WAIT(30* ticks)
+715: 0x105B [0x01] GOTO 0x117A
+716: 0x105E [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x10A5
+717: 0x1066 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+718: 0x1067 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+719: 0x106C [0x1C] WAIT(30* ticks)
+720: 0x106F [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-26.000*, y_pos=262.994*, marker_name="???")
+721: 0x108A [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1097
+722: 0x1092 [0x07] ExtData[1]->WorkLocal[9] += 1*
+723: 0x1097 [0x1C] WAIT(30* ticks)
+724: 0x109A [0x1D] PRINT_EVENT_MESSAGE(message_id=6885*)
+    → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+725: 0x109D [0x23] WAIT_FOR_DIALOG_INTERACTION
+726: 0x109E [0x8A] CLOSE_MAP()
+727: 0x109F [0x1C] WAIT(30* ticks)
+728: 0x10A2 [0x01] GOTO 0x117A
+729: 0x10A5 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x10EC
+730: 0x10AD [0x42] SET_CLI_EVENT_CANCEL_DATA()
+731: 0x10AE [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+732: 0x10B3 [0x1C] WAIT(30* ticks)
+733: 0x10B6 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-26.000*, y_pos=262.994*, marker_name="???")
+734: 0x10D1 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x10DE
+735: 0x10D9 [0x07] ExtData[1]->WorkLocal[9] += 1*
+736: 0x10DE [0x1C] WAIT(30* ticks)
+737: 0x10E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6885*)
+    → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+738: 0x10E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+739: 0x10E5 [0x8A] CLOSE_MAP()
+740: 0x10E6 [0x1C] WAIT(30* ticks)
+741: 0x10E9 [0x01] GOTO 0x117A
+742: 0x10EC [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x1133
+743: 0x10F4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+744: 0x10F5 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+745: 0x10FA [0x1C] WAIT(30* ticks)
+746: 0x10FD [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=-121.688*, y_pos=122.428*, marker_name="Koru-Moru")
+747: 0x1118 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1125
+748: 0x1120 [0x07] ExtData[1]->WorkLocal[9] += 1*
+749: 0x1125 [0x1C] WAIT(30* ticks)
+750: 0x1128 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+751: 0x112B [0x23] WAIT_FOR_DIALOG_INTERACTION
+752: 0x112C [0x8A] CLOSE_MAP()
+753: 0x112D [0x1C] WAIT(30* ticks)
+754: 0x1130 [0x01] GOTO 0x117A
+755: 0x1133 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x117A
+756: 0x113B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+757: 0x113C [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=239*, properties=0*)
+758: 0x1141 [0x1C] WAIT(30* ticks)
+759: 0x1144 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=239*, submap=0*, marker_id=ExtData[1]->WorkLocal[9], x_pos=122.640*, y_pos=113.606*, marker_name="Shantotto")
+760: 0x115F [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x116C
+761: 0x1167 [0x07] ExtData[1]->WorkLocal[9] += 1*
+762: 0x116C [0x1C] WAIT(30* ticks)
+763: 0x116F [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+764: 0x1172 [0x23] WAIT_FOR_DIALOG_INTERACTION
+765: 0x1173 [0x8A] CLOSE_MAP()
+766: 0x1174 [0x1C] WAIT(30* ticks)
+767: 0x1177 [0x01] GOTO 0x117A
+
+SUBROUTINE_117A:
+768: 0x117A [0x01] GOTO 0x0D1E
+769: 0x117D [0x01] GOTO 0x1E4E
+770: 0x1180 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1686
+771: 0x1188 [0x03] Work_Zone[2] = 2*
+772: 0x118D [0x1D] PRINT_EVENT_MESSAGE(message_id=6878*)
+    → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
+773: 0x1190 [0x23] WAIT_FOR_DIALOG_INTERACTION
+774: 0x1191 [0x03] ExtData[1]->WorkLocal[14] = 1*
+
+SUBROUTINE_1196:
+775: 0x1196 [0x02] IF !(ExtData[1]->WorkLocal[14] <= 0*) GOTO 0x1683
+776: 0x119E [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[10]
+777: 0x11A3 [0x07] Work_Zone[8] += 30*
+778: 0x11A8 [0x03] Work_Zone[1] = Work_Zone[8]
+779: 0x11AD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+780: 0x11AF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+781: 0x11B1 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+782: 0x11B2 [0x24] CREATE_DIALOG(message_id=6881*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+    → "Who will you go see in Port Windurst? [No one./Tokaka./Sigismund./Kohlo-Lakolo./Kohlo-Lakolo./Kohlo-Lakolo./Hakkuru-Rinkuru./Paytah./Kohlo-Lakolo./Hakkuru-Rinkuru./Chipmy-Popmy./Kuroido-Moido./Ohruru./Dehn Harzhapan./Kohlo-Lakolo./Kohlo-Lakolo./Kuroido-Moido./Pygmalion.]"
+783: 0x11B9 [0x25] WAIT_DIALOG_SELECT()
+784: 0x11BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11C9
+785: 0x11C2 [0x06] ExtData[1]->WorkLocal[14] = 0
+786: 0x11C5 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+787: 0x11C6 [0x01] GOTO 0x1680
+788: 0x11C9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1210
+789: 0x11D1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+790: 0x11D2 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+791: 0x11D7 [0x1C] WAIT(30* ticks)
+792: 0x11DA [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-189.678*, y_pos=66.335*, marker_name="Tokaka")
+793: 0x11F5 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1202
+794: 0x11FD [0x07] ExtData[1]->WorkLocal[10] += 1*
+795: 0x1202 [0x1C] WAIT(30* ticks)
+796: 0x1205 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+797: 0x1208 [0x23] WAIT_FOR_DIALOG_INTERACTION
+798: 0x1209 [0x8A] CLOSE_MAP()
+799: 0x120A [0x1C] WAIT(30* ticks)
+800: 0x120D [0x01] GOTO 0x1680
+801: 0x1210 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1257
+802: 0x1218 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+803: 0x1219 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+804: 0x121E [0x1C] WAIT(30* ticks)
+805: 0x1221 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-110.537*, y_pos=80.559*, marker_name="Sigismund")
+806: 0x123C [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1249
+807: 0x1244 [0x07] ExtData[1]->WorkLocal[10] += 1*
+808: 0x1249 [0x1C] WAIT(30* ticks)
+809: 0x124C [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+810: 0x124F [0x23] WAIT_FOR_DIALOG_INTERACTION
+811: 0x1250 [0x8A] CLOSE_MAP()
+812: 0x1251 [0x1C] WAIT(30* ticks)
+813: 0x1254 [0x01] GOTO 0x1680
+814: 0x1257 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x129E
+815: 0x125F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+816: 0x1260 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+817: 0x1265 [0x1C] WAIT(30* ticks)
+818: 0x1268 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-29.000*, y_pos=189.554*, marker_name="Kohlo-Lakolo")
+819: 0x1283 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1290
+820: 0x128B [0x07] ExtData[1]->WorkLocal[10] += 1*
+821: 0x1290 [0x1C] WAIT(30* ticks)
+822: 0x1293 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+823: 0x1296 [0x23] WAIT_FOR_DIALOG_INTERACTION
+824: 0x1297 [0x8A] CLOSE_MAP()
+825: 0x1298 [0x1C] WAIT(30* ticks)
+826: 0x129B [0x01] GOTO 0x1680
+827: 0x129E [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x12E5
+828: 0x12A6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+829: 0x12A7 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+830: 0x12AC [0x1C] WAIT(30* ticks)
+831: 0x12AF [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-29.000*, y_pos=189.554*, marker_name="Kohlo-Lakolo")
+832: 0x12CA [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x12D7
+833: 0x12D2 [0x07] ExtData[1]->WorkLocal[10] += 1*
+834: 0x12D7 [0x1C] WAIT(30* ticks)
+835: 0x12DA [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+836: 0x12DD [0x23] WAIT_FOR_DIALOG_INTERACTION
+837: 0x12DE [0x8A] CLOSE_MAP()
+838: 0x12DF [0x1C] WAIT(30* ticks)
+839: 0x12E2 [0x01] GOTO 0x1680
+840: 0x12E5 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x132C
+841: 0x12ED [0x42] SET_CLI_EVENT_CANCEL_DATA()
+842: 0x12EE [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+843: 0x12F3 [0x1C] WAIT(30* ticks)
+844: 0x12F6 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-29.000*, y_pos=189.554*, marker_name="Kohlo-Lakolo")
+845: 0x1311 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x131E
+846: 0x1319 [0x07] ExtData[1]->WorkLocal[10] += 1*
+847: 0x131E [0x1C] WAIT(30* ticks)
+848: 0x1321 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+849: 0x1324 [0x23] WAIT_FOR_DIALOG_INTERACTION
+850: 0x1325 [0x8A] CLOSE_MAP()
+851: 0x1326 [0x1C] WAIT(30* ticks)
+852: 0x1329 [0x01] GOTO 0x1680
+853: 0x132C [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1373
+854: 0x1334 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+855: 0x1335 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+856: 0x133A [0x1C] WAIT(30* ticks)
+857: 0x133D [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-111.145*, y_pos=102.058*, marker_name="Hakkuru-Rinkuru")
+858: 0x1358 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1365
+859: 0x1360 [0x07] ExtData[1]->WorkLocal[10] += 1*
+860: 0x1365 [0x1C] WAIT(30* ticks)
+861: 0x1368 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+862: 0x136B [0x23] WAIT_FOR_DIALOG_INTERACTION
+863: 0x136C [0x8A] CLOSE_MAP()
+864: 0x136D [0x1C] WAIT(30* ticks)
+865: 0x1370 [0x01] GOTO 0x1680
+866: 0x1373 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x13BA
+867: 0x137B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+868: 0x137C [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+869: 0x1381 [0x1C] WAIT(30* ticks)
+870: 0x1384 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=77.550*, y_pos=117.769*, marker_name="Paytah")
+871: 0x139F [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x13AC
+872: 0x13A7 [0x07] ExtData[1]->WorkLocal[10] += 1*
+873: 0x13AC [0x1C] WAIT(30* ticks)
+874: 0x13AF [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+875: 0x13B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+876: 0x13B3 [0x8A] CLOSE_MAP()
+877: 0x13B4 [0x1C] WAIT(30* ticks)
+878: 0x13B7 [0x01] GOTO 0x1680
+879: 0x13BA [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1401
+880: 0x13C2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+881: 0x13C3 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+882: 0x13C8 [0x1C] WAIT(30* ticks)
+883: 0x13CB [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-29.000*, y_pos=189.554*, marker_name="Kohlo-Lakolo")
+884: 0x13E6 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x13F3
+885: 0x13EE [0x07] ExtData[1]->WorkLocal[10] += 1*
+886: 0x13F3 [0x1C] WAIT(30* ticks)
+887: 0x13F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+888: 0x13F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+889: 0x13FA [0x8A] CLOSE_MAP()
+890: 0x13FB [0x1C] WAIT(30* ticks)
+891: 0x13FE [0x01] GOTO 0x1680
+892: 0x1401 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x1448
+893: 0x1409 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+894: 0x140A [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+895: 0x140F [0x1C] WAIT(30* ticks)
+896: 0x1412 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-111.145*, y_pos=102.058*, marker_name="Hakkuru-Rinkuru")
+897: 0x142D [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x143A
+898: 0x1435 [0x07] ExtData[1]->WorkLocal[10] += 1*
+899: 0x143A [0x1C] WAIT(30* ticks)
+900: 0x143D [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+901: 0x1440 [0x23] WAIT_FOR_DIALOG_INTERACTION
+902: 0x1441 [0x8A] CLOSE_MAP()
+903: 0x1442 [0x1C] WAIT(30* ticks)
+904: 0x1445 [0x01] GOTO 0x1680
+905: 0x1448 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x148F
+906: 0x1450 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+907: 0x1451 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+908: 0x1456 [0x1C] WAIT(30* ticks)
+909: 0x1459 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-183.020*, y_pos=73.905*, marker_name="Chipmy-Popmy")
+910: 0x1474 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1481
+911: 0x147C [0x07] ExtData[1]->WorkLocal[10] += 1*
+912: 0x1481 [0x1C] WAIT(30* ticks)
+913: 0x1484 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+914: 0x1487 [0x23] WAIT_FOR_DIALOG_INTERACTION
+915: 0x1488 [0x8A] CLOSE_MAP()
+916: 0x1489 [0x1C] WAIT(30* ticks)
+917: 0x148C [0x01] GOTO 0x1680
+918: 0x148F [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x14D6
+919: 0x1497 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+920: 0x1498 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+921: 0x149D [0x1C] WAIT(30* ticks)
+922: 0x14A0 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-112.708*, y_pos=102.058*, marker_name="Kuroido-Moido")
+923: 0x14BB [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x14C8
+924: 0x14C3 [0x07] ExtData[1]->WorkLocal[10] += 1*
+925: 0x14C8 [0x1C] WAIT(30* ticks)
+926: 0x14CB [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+927: 0x14CE [0x23] WAIT_FOR_DIALOG_INTERACTION
+928: 0x14CF [0x8A] CLOSE_MAP()
+929: 0x14D0 [0x1C] WAIT(30* ticks)
+930: 0x14D3 [0x01] GOTO 0x1680
+931: 0x14D6 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x151D
+932: 0x14DE [0x42] SET_CLI_EVENT_CANCEL_DATA()
+933: 0x14DF [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+934: 0x14E4 [0x1C] WAIT(30* ticks)
+935: 0x14E7 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-106.967*, y_pos=92.749*, marker_name="Ohruru")
+936: 0x1502 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x150F
+937: 0x150A [0x07] ExtData[1]->WorkLocal[10] += 1*
+938: 0x150F [0x1C] WAIT(30* ticks)
+939: 0x1512 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+940: 0x1515 [0x23] WAIT_FOR_DIALOG_INTERACTION
+941: 0x1516 [0x8A] CLOSE_MAP()
+942: 0x1517 [0x1C] WAIT(30* ticks)
+943: 0x151A [0x01] GOTO 0x1680
+944: 0x151D [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x1564
+945: 0x1525 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+946: 0x1526 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+947: 0x152B [0x1C] WAIT(30* ticks)
+948: 0x152E [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-7.974*, y_pos=152.633*, marker_name="Dehn Harzhapan")
+949: 0x1549 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1556
+950: 0x1551 [0x07] ExtData[1]->WorkLocal[10] += 1*
+951: 0x1556 [0x1C] WAIT(30* ticks)
+952: 0x1559 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+953: 0x155C [0x23] WAIT_FOR_DIALOG_INTERACTION
+954: 0x155D [0x8A] CLOSE_MAP()
+955: 0x155E [0x1C] WAIT(30* ticks)
+956: 0x1561 [0x01] GOTO 0x1680
+957: 0x1564 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x15AB
+958: 0x156C [0x42] SET_CLI_EVENT_CANCEL_DATA()
+959: 0x156D [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+960: 0x1572 [0x1C] WAIT(30* ticks)
+961: 0x1575 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-29.000*, y_pos=189.554*, marker_name="Kohlo-Lakolo")
+962: 0x1590 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x159D
+963: 0x1598 [0x07] ExtData[1]->WorkLocal[10] += 1*
+964: 0x159D [0x1C] WAIT(30* ticks)
+965: 0x15A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+966: 0x15A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+967: 0x15A4 [0x8A] CLOSE_MAP()
+968: 0x15A5 [0x1C] WAIT(30* ticks)
+969: 0x15A8 [0x01] GOTO 0x1680
+970: 0x15AB [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x15F2
+971: 0x15B3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+972: 0x15B4 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+973: 0x15B9 [0x1C] WAIT(30* ticks)
+974: 0x15BC [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-29.000*, y_pos=189.554*, marker_name="Kohlo-Lakolo")
+975: 0x15D7 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x15E4
+976: 0x15DF [0x07] ExtData[1]->WorkLocal[10] += 1*
+977: 0x15E4 [0x1C] WAIT(30* ticks)
+978: 0x15E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+979: 0x15EA [0x23] WAIT_FOR_DIALOG_INTERACTION
+980: 0x15EB [0x8A] CLOSE_MAP()
+981: 0x15EC [0x1C] WAIT(30* ticks)
+982: 0x15EF [0x01] GOTO 0x1680
+983: 0x15F2 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x1639
+984: 0x15FA [0x42] SET_CLI_EVENT_CANCEL_DATA()
+985: 0x15FB [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+986: 0x1600 [0x1C] WAIT(30* ticks)
+987: 0x1603 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=-112.708*, y_pos=102.058*, marker_name="Kuroido-Moido")
+988: 0x161E [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x162B
+989: 0x1626 [0x07] ExtData[1]->WorkLocal[10] += 1*
+990: 0x162B [0x1C] WAIT(30* ticks)
+991: 0x162E [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+992: 0x1631 [0x23] WAIT_FOR_DIALOG_INTERACTION
+993: 0x1632 [0x8A] CLOSE_MAP()
+994: 0x1633 [0x1C] WAIT(30* ticks)
+995: 0x1636 [0x01] GOTO 0x1680
+996: 0x1639 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x1680
+997: 0x1641 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+998: 0x1642 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=240*, properties=0*)
+999: 0x1647 [0x1C] WAIT(30* ticks)
+1000: 0x164A [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=240*, submap=0*, marker_id=ExtData[1]->WorkLocal[10], x_pos=228.710*, y_pos=93.314*, marker_name="Pygmalion")
+1001: 0x1665 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1672
+1002: 0x166D [0x07] ExtData[1]->WorkLocal[10] += 1*
+1003: 0x1672 [0x1C] WAIT(30* ticks)
+1004: 0x1675 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1005: 0x1678 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1006: 0x1679 [0x8A] CLOSE_MAP()
+1007: 0x167A [0x1C] WAIT(30* ticks)
+1008: 0x167D [0x01] GOTO 0x1680
+
+SUBROUTINE_1680:
+1009: 0x1680 [0x01] GOTO 0x1196
+1010: 0x1683 [0x01] GOTO 0x1E4E
+1011: 0x1686 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1D36
+1012: 0x168E [0x03] Work_Zone[2] = 3*
+1013: 0x1693 [0x1D] PRINT_EVENT_MESSAGE(message_id=6878*)
+    → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
+1014: 0x1696 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1015: 0x1697 [0x03] ExtData[1]->WorkLocal[14] = 1*
+
+SUBROUTINE_169C:
+1016: 0x169C [0x02] IF !(ExtData[1]->WorkLocal[14] <= 0*) GOTO 0x1D33
+1017: 0x16A4 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[11]
+1018: 0x16A9 [0x07] Work_Zone[8] += 40*
+1019: 0x16AE [0x03] Work_Zone[1] = Work_Zone[8]
+1020: 0x16B3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+1021: 0x16B5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+1022: 0x16B7 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+1023: 0x16B8 [0x24] CREATE_DIALOG(message_id=6882*, default_option=0*, option_flags=ExtData[1]->WorkLocal[4])
+    → "Who will you go see in Windurst Woods? [No one./Kopuro-Popuro./Ibwam./Illu Bohjaa./Tapoh Lihzeh./Nanaa Mihgo./Wetata./Kuoh Rhel./Kuoh Rhel./Kororo./Nanaa Mihgo./Kopuro-Popuro./Kopuro-Popuro./Gioh Ajihri./Soni-Muni./Perih Vashai./Nanaa Mihgo./Nanaa Mihgo./Nanaa Mihgo./Perih Vashai./Perih Vashai./Perih Vashai./Apururu./Perih Vashai.]"
+1024: 0x16BF [0x25] WAIT_DIALOG_SELECT()
+1025: 0x16C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16CF
+1026: 0x16C8 [0x06] ExtData[1]->WorkLocal[14] = 0
+1027: 0x16CB [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+1028: 0x16CC [0x01] GOTO 0x1D30
+1029: 0x16CF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1716
+1030: 0x16D7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1031: 0x16D8 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1032: 0x16DD [0x1C] WAIT(30* ticks)
+1033: 0x16E0 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-0.037*, y_pos=-22.589*, marker_name="Kopuro-Popuro")
+1034: 0x16FB [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1708
+1035: 0x1703 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1036: 0x1708 [0x1C] WAIT(30* ticks)
+1037: 0x170B [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1038: 0x170E [0x23] WAIT_FOR_DIALOG_INTERACTION
+1039: 0x170F [0x8A] CLOSE_MAP()
+1040: 0x1710 [0x1C] WAIT(30* ticks)
+1041: 0x1713 [0x01] GOTO 0x1D30
+1042: 0x1716 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x175D
+1043: 0x171E [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1044: 0x171F [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1045: 0x1724 [0x1C] WAIT(30* ticks)
+1046: 0x1727 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-25.655*, y_pos=-60.651*, marker_name="Ibwam")
+1047: 0x1742 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x174F
+1048: 0x174A [0x07] ExtData[1]->WorkLocal[11] += 1*
+1049: 0x174F [0x1C] WAIT(30* ticks)
+1050: 0x1752 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1051: 0x1755 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1052: 0x1756 [0x8A] CLOSE_MAP()
+1053: 0x1757 [0x1C] WAIT(30* ticks)
+1054: 0x175A [0x01] GOTO 0x1D30
+1055: 0x175D [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x17A4
+1056: 0x1765 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1057: 0x1766 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1058: 0x176B [0x1C] WAIT(30* ticks)
+1059: 0x176E [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=21.354*, y_pos=125.219*, marker_name="Illu Bohjaa")
+1060: 0x1789 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1796
+1061: 0x1791 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1062: 0x1796 [0x1C] WAIT(30* ticks)
+1063: 0x1799 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1064: 0x179C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1065: 0x179D [0x8A] CLOSE_MAP()
+1066: 0x179E [0x1C] WAIT(30* ticks)
+1067: 0x17A1 [0x01] GOTO 0x1D30
+1068: 0x17A4 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x17EB
+1069: 0x17AC [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1070: 0x17AD [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1071: 0x17B2 [0x1C] WAIT(30* ticks)
+1072: 0x17B5 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=51.011*, y_pos=54.402*, marker_name="Tapoh Lihzeh")
+1073: 0x17D0 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x17DD
+1074: 0x17D8 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1075: 0x17DD [0x1C] WAIT(30* ticks)
+1076: 0x17E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1077: 0x17E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1078: 0x17E4 [0x8A] CLOSE_MAP()
+1079: 0x17E5 [0x1C] WAIT(30* ticks)
+1080: 0x17E8 [0x01] GOTO 0x1D30
+1081: 0x17EB [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1832
+1082: 0x17F3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1083: 0x17F4 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1084: 0x17F9 [0x1C] WAIT(30* ticks)
+1085: 0x17FC [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=65.036*, y_pos=239.561*, marker_name="Nanaa Mihgo")
+1086: 0x1817 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1824
+1087: 0x181F [0x07] ExtData[1]->WorkLocal[11] += 1*
+1088: 0x1824 [0x1C] WAIT(30* ticks)
+1089: 0x1827 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1090: 0x182A [0x23] WAIT_FOR_DIALOG_INTERACTION
+1091: 0x182B [0x8A] CLOSE_MAP()
+1092: 0x182C [0x1C] WAIT(30* ticks)
+1093: 0x182F [0x01] GOTO 0x1D30
+1094: 0x1832 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1879
+1095: 0x183A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1096: 0x183B [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1097: 0x1840 [0x1C] WAIT(30* ticks)
+1098: 0x1843 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-23.825*, y_pos=-44.567*, marker_name="Wetata")
+1099: 0x185E [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x186B
+1100: 0x1866 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1101: 0x186B [0x1C] WAIT(30* ticks)
+1102: 0x186E [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1103: 0x1871 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1104: 0x1872 [0x8A] CLOSE_MAP()
+1105: 0x1873 [0x1C] WAIT(30* ticks)
+1106: 0x1876 [0x01] GOTO 0x1D30
+1107: 0x1879 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x18C0
+1108: 0x1881 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1109: 0x1882 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1110: 0x1887 [0x1C] WAIT(30* ticks)
+1111: 0x188A [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=131.437*, y_pos=-102.723*, marker_name="Kuoh Rhel")
+1112: 0x18A5 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x18B2
+1113: 0x18AD [0x07] ExtData[1]->WorkLocal[11] += 1*
+1114: 0x18B2 [0x1C] WAIT(30* ticks)
+1115: 0x18B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1116: 0x18B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1117: 0x18B9 [0x8A] CLOSE_MAP()
+1118: 0x18BA [0x1C] WAIT(30* ticks)
+1119: 0x18BD [0x01] GOTO 0x1D30
+1120: 0x18C0 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1907
+1121: 0x18C8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1122: 0x18C9 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1123: 0x18CE [0x1C] WAIT(30* ticks)
+1124: 0x18D1 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=131.437*, y_pos=-102.723*, marker_name="Kuoh Rhel")
+1125: 0x18EC [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x18F9
+1126: 0x18F4 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1127: 0x18F9 [0x1C] WAIT(30* ticks)
+1128: 0x18FC [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1129: 0x18FF [0x23] WAIT_FOR_DIALOG_INTERACTION
+1130: 0x1900 [0x8A] CLOSE_MAP()
+1131: 0x1901 [0x1C] WAIT(30* ticks)
+1132: 0x1904 [0x01] GOTO 0x1D30
+1133: 0x1907 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x194E
+1134: 0x190F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1135: 0x1910 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1136: 0x1915 [0x1C] WAIT(30* ticks)
+1137: 0x1918 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-11.883*, y_pos=5.508*, marker_name="Kororo")
+1138: 0x1933 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1940
+1139: 0x193B [0x07] ExtData[1]->WorkLocal[11] += 1*
+1140: 0x1940 [0x1C] WAIT(30* ticks)
+1141: 0x1943 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1142: 0x1946 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1143: 0x1947 [0x8A] CLOSE_MAP()
+1144: 0x1948 [0x1C] WAIT(30* ticks)
+1145: 0x194B [0x01] GOTO 0x1D30
+1146: 0x194E [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x1995
+1147: 0x1956 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1148: 0x1957 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1149: 0x195C [0x1C] WAIT(30* ticks)
+1150: 0x195F [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=65.036*, y_pos=239.561*, marker_name="Nanaa Mihgo")
+1151: 0x197A [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1987
+1152: 0x1982 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1153: 0x1987 [0x1C] WAIT(30* ticks)
+1154: 0x198A [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1155: 0x198D [0x23] WAIT_FOR_DIALOG_INTERACTION
+1156: 0x198E [0x8A] CLOSE_MAP()
+1157: 0x198F [0x1C] WAIT(30* ticks)
+1158: 0x1992 [0x01] GOTO 0x1D30
+1159: 0x1995 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x19DC
+1160: 0x199D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1161: 0x199E [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1162: 0x19A3 [0x1C] WAIT(30* ticks)
+1163: 0x19A6 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-0.037*, y_pos=-22.589*, marker_name="Kopuro-Popuro")
+1164: 0x19C1 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x19CE
+1165: 0x19C9 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1166: 0x19CE [0x1C] WAIT(30* ticks)
+1167: 0x19D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1168: 0x19D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1169: 0x19D5 [0x8A] CLOSE_MAP()
+1170: 0x19D6 [0x1C] WAIT(30* ticks)
+1171: 0x19D9 [0x01] GOTO 0x1D30
+1172: 0x19DC [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x1A23
+1173: 0x19E4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1174: 0x19E5 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1175: 0x19EA [0x1C] WAIT(30* ticks)
+1176: 0x19ED [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-0.037*, y_pos=-22.589*, marker_name="Kopuro-Popuro")
+1177: 0x1A08 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1A15
+1178: 0x1A10 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1179: 0x1A15 [0x1C] WAIT(30* ticks)
+1180: 0x1A18 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1181: 0x1A1B [0x23] WAIT_FOR_DIALOG_INTERACTION
+1182: 0x1A1C [0x8A] CLOSE_MAP()
+1183: 0x1A1D [0x1C] WAIT(30* ticks)
+1184: 0x1A20 [0x01] GOTO 0x1D30
+1185: 0x1A23 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x1A6A
+1186: 0x1A2B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1187: 0x1A2C [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1188: 0x1A31 [0x1C] WAIT(30* ticks)
+1189: 0x1A34 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=107.660*, y_pos=173.874*, marker_name="Gioh Ajihri")
+1190: 0x1A4F [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1A5C
+1191: 0x1A57 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1192: 0x1A5C [0x1C] WAIT(30* ticks)
+1193: 0x1A5F [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1194: 0x1A62 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1195: 0x1A63 [0x8A] CLOSE_MAP()
+1196: 0x1A64 [0x1C] WAIT(30* ticks)
+1197: 0x1A67 [0x01] GOTO 0x1D30
+1198: 0x1A6A [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x1AB1
+1199: 0x1A72 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1200: 0x1A73 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1201: 0x1A78 [0x1C] WAIT(30* ticks)
+1202: 0x1A7B [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-16.590*, y_pos=-59.149*, marker_name="Soni-Muni")
+1203: 0x1A96 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1AA3
+1204: 0x1A9E [0x07] ExtData[1]->WorkLocal[11] += 1*
+1205: 0x1AA3 [0x1C] WAIT(30* ticks)
+1206: 0x1AA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1207: 0x1AA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1208: 0x1AAA [0x8A] CLOSE_MAP()
+1209: 0x1AAB [0x1C] WAIT(30* ticks)
+1210: 0x1AAE [0x01] GOTO 0x1D30
+1211: 0x1AB1 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x1AF8
+1212: 0x1AB9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1213: 0x1ABA [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1214: 0x1ABF [0x1C] WAIT(30* ticks)
+1215: 0x1AC2 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=117.500*, y_pos=90.453*, marker_name="Perih Vashai")
+1216: 0x1ADD [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1AEA
+1217: 0x1AE5 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1218: 0x1AEA [0x1C] WAIT(30* ticks)
+1219: 0x1AED [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1220: 0x1AF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1221: 0x1AF1 [0x8A] CLOSE_MAP()
+1222: 0x1AF2 [0x1C] WAIT(30* ticks)
+1223: 0x1AF5 [0x01] GOTO 0x1D30
+1224: 0x1AF8 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x1B3F
+1225: 0x1B00 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1226: 0x1B01 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1227: 0x1B06 [0x1C] WAIT(30* ticks)
+1228: 0x1B09 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=65.036*, y_pos=239.561*, marker_name="Nanaa Mihgo")
+1229: 0x1B24 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1B31
+1230: 0x1B2C [0x07] ExtData[1]->WorkLocal[11] += 1*
+1231: 0x1B31 [0x1C] WAIT(30* ticks)
+1232: 0x1B34 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1233: 0x1B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1234: 0x1B38 [0x8A] CLOSE_MAP()
+1235: 0x1B39 [0x1C] WAIT(30* ticks)
+1236: 0x1B3C [0x01] GOTO 0x1D30
+1237: 0x1B3F [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x1B86
+1238: 0x1B47 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1239: 0x1B48 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1240: 0x1B4D [0x1C] WAIT(30* ticks)
+1241: 0x1B50 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=65.036*, y_pos=239.561*, marker_name="Nanaa Mihgo")
+1242: 0x1B6B [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1B78
+1243: 0x1B73 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1244: 0x1B78 [0x1C] WAIT(30* ticks)
+1245: 0x1B7B [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1246: 0x1B7E [0x23] WAIT_FOR_DIALOG_INTERACTION
+1247: 0x1B7F [0x8A] CLOSE_MAP()
+1248: 0x1B80 [0x1C] WAIT(30* ticks)
+1249: 0x1B83 [0x01] GOTO 0x1D30
+1250: 0x1B86 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x1BCD
+1251: 0x1B8E [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1252: 0x1B8F [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1253: 0x1B94 [0x1C] WAIT(30* ticks)
+1254: 0x1B97 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=65.036*, y_pos=239.561*, marker_name="Nanaa Mihgo")
+1255: 0x1BB2 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1BBF
+1256: 0x1BBA [0x07] ExtData[1]->WorkLocal[11] += 1*
+1257: 0x1BBF [0x1C] WAIT(30* ticks)
+1258: 0x1BC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1259: 0x1BC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1260: 0x1BC6 [0x8A] CLOSE_MAP()
+1261: 0x1BC7 [0x1C] WAIT(30* ticks)
+1262: 0x1BCA [0x01] GOTO 0x1D30
+1263: 0x1BCD [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x1C14
+1264: 0x1BD5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1265: 0x1BD6 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1266: 0x1BDB [0x1C] WAIT(30* ticks)
+1267: 0x1BDE [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=117.500*, y_pos=90.453*, marker_name="Perih Vashai")
+1268: 0x1BF9 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1C06
+1269: 0x1C01 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1270: 0x1C06 [0x1C] WAIT(30* ticks)
+1271: 0x1C09 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1272: 0x1C0C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1273: 0x1C0D [0x8A] CLOSE_MAP()
+1274: 0x1C0E [0x1C] WAIT(30* ticks)
+1275: 0x1C11 [0x01] GOTO 0x1D30
+1276: 0x1C14 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x1C5B
+1277: 0x1C1C [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1278: 0x1C1D [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1279: 0x1C22 [0x1C] WAIT(30* ticks)
+1280: 0x1C25 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=117.500*, y_pos=90.453*, marker_name="Perih Vashai")
+1281: 0x1C40 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1C4D
+1282: 0x1C48 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1283: 0x1C4D [0x1C] WAIT(30* ticks)
+1284: 0x1C50 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1285: 0x1C53 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1286: 0x1C54 [0x8A] CLOSE_MAP()
+1287: 0x1C55 [0x1C] WAIT(30* ticks)
+1288: 0x1C58 [0x01] GOTO 0x1D30
+1289: 0x1C5B [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x1CA2
+1290: 0x1C63 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1291: 0x1C64 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1292: 0x1C69 [0x1C] WAIT(30* ticks)
+1293: 0x1C6C [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=117.500*, y_pos=90.453*, marker_name="Perih Vashai")
+1294: 0x1C87 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1C94
+1295: 0x1C8F [0x07] ExtData[1]->WorkLocal[11] += 1*
+1296: 0x1C94 [0x1C] WAIT(30* ticks)
+1297: 0x1C97 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1298: 0x1C9A [0x23] WAIT_FOR_DIALOG_INTERACTION
+1299: 0x1C9B [0x8A] CLOSE_MAP()
+1300: 0x1C9C [0x1C] WAIT(30* ticks)
+1301: 0x1C9F [0x01] GOTO 0x1D30
+1302: 0x1CA2 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x1CE9
+1303: 0x1CAA [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1304: 0x1CAB [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1305: 0x1CB0 [0x1C] WAIT(30* ticks)
+1306: 0x1CB3 [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=-12.093*, y_pos=15.935*, marker_name="Apururu")
+1307: 0x1CCE [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1CDB
+1308: 0x1CD6 [0x07] ExtData[1]->WorkLocal[11] += 1*
+1309: 0x1CDB [0x1C] WAIT(30* ticks)
+1310: 0x1CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1311: 0x1CE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1312: 0x1CE2 [0x8A] CLOSE_MAP()
+1313: 0x1CE3 [0x1C] WAIT(30* ticks)
+1314: 0x1CE6 [0x01] GOTO 0x1D30
+1315: 0x1CE9 [0x02] IF !(Work_Zone[0] == 23*) GOTO 0x1D30
+1316: 0x1CF1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1317: 0x1CF2 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=241*, properties=0*)
+1318: 0x1CF7 [0x1C] WAIT(30* ticks)
+1319: 0x1CFA [0xB8] MAP_ADD_MARKER_WITH_NAME(zone=241*, submap=0*, marker_id=ExtData[1]->WorkLocal[11], x_pos=117.500*, y_pos=90.453*, marker_name="Perih Vashai")
+1320: 0x1D15 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1D22
+1321: 0x1D1D [0x07] ExtData[1]->WorkLocal[11] += 1*
+1322: 0x1D22 [0x1C] WAIT(30* ticks)
+1323: 0x1D25 [0x1D] PRINT_EVENT_MESSAGE(message_id=6884*)
+    → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
+1324: 0x1D28 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1325: 0x1D29 [0x8A] CLOSE_MAP()
+1326: 0x1D2A [0x1C] WAIT(30* ticks)
+1327: 0x1D2D [0x01] GOTO 0x1D30
+
+SUBROUTINE_1D30:
+1328: 0x1D30 [0x01] GOTO 0x169C
+1329: 0x1D33 [0x01] GOTO 0x1E4E
+1330: 0x1D36 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1E4E
+1331: 0x1D3E [0x03] Work_Zone[2] = 4*
+1332: 0x1D43 [0x1D] PRINT_EVENT_MESSAGE(message_id=6878*)
+    → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
+1333: 0x1D46 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1334: 0x1D47 [0x03] ExtData[1]->WorkLocal[14] = 1*
+
+SUBROUTINE_1D4C:
+1335: 0x1D4C [0x02] IF !(ExtData[1]->WorkLocal[14] <= 0*) GOTO 0x1E4B
+1336: 0x1D54 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[9]
+1337: 0x1D59 [0x07] Work_Zone[8] += 20*
+1338: 0x1D5E [0x03] Work_Zone[1] = Work_Zone[8]
+1339: 0x1D63 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+1340: 0x1D65 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+1341: 0x1D67 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+1342: 0x1D68 [0x24] CREATE_DIALOG(message_id=6883*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+    → "Who will you go see in Heavens Tower? [No one./Chumimi./Chumimi./Chumimi.]"
+1343: 0x1D6F [0x25] WAIT_DIALOG_SELECT()
+1344: 0x1D70 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D7F
+1345: 0x1D78 [0x06] ExtData[1]->WorkLocal[14] = 0
+1346: 0x1D7B [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+1347: 0x1D7C [0x01] GOTO 0x1E48
+1348: 0x1D7F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1DC2
+1349: 0x1D87 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1350: 0x1D88 [0x89] OPEN_MAP(map_id=0x00008074)
+1351: 0x1D8B [0x1C] WAIT(30* ticks)
+1352: 0x1D8E [0x8B] SET_EVENT_MARK: Add/update map marker on map 239* at (0.000*, 130.900*), index=ExtData[1]->WorkLocal[9], name=(no name)
+1353: 0x1D97 [0x3F] 0x3F3F = ExtData[1]->WorkLocal[0] % ExtData[1]->WorkLocal[0]
+1354: 0x1D9E [0x00] END_REQSTACK()
+
+SUBROUTINE_1E48:
+1355: 0x1E48 [0x01] GOTO 0x1D4C
+1356: 0x1E4B [0x01] GOTO 0x1E4E
+
+SUBROUTINE_1E4E:
+1357: 0x1E4E [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+1358: 0x1E4F [0x01] GOTO 0x030C
+
+SUBROUTINE_1E52:
+1359: 0x1E52 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+1360: 0x1E54 [0x21] END_EVENT
+1361: 0x1E55 [0x00] END_REQSTACK()
+
+SUBROUTINE_1EB3:
+1362: 0x1EB3 [0x01] GOTO 0x20A1
+1363: 0x1EB6 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1F39
+1364: 0x1EBE [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x1ED5
+1365: 0x1EC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6862*)
+    → "REcoRdS oF EminENcE CaN bE ENjoYeD BY anYonE At ANytiMe. YoU EvEN Get rEwaRDs fOr pArtiCIPaTinG!"
+1366: 0x1EC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1367: 0x1ECA [0x1D] PRINT_EVENT_MESSAGE(message_id=6863*)
+    → "OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT "QueSTs" and tHen "ObJEcTiVE LiSt" tO Get sTarTEd."
+1368: 0x1ECD [0x23] WAIT_FOR_DIALOG_INTERACTION
+1369: 0x1ECE [0x1D] PRINT_EVENT_MESSAGE(message_id=6864*)
+    → "FrOM ThERe, sElecT "TUtorIaL," tHEn "BaSicS" anD "FiRsT StEP fOrwArd." SeT ThaT OBjeCTivE tO gEt STarTeD."
+1370: 0x1ED1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1371: 0x1ED2 [0x01] GOTO 0x1F36
+1372: 0x1ED5 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1F2E
+1373: 0x1EDD [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x1EEF
+1374: 0x1EE5 [0x1A] CALL_SUBROUTINE(address=0x20AC)
+1375: 0x1EE8 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+1376: 0x1EEA [0x21] END_EVENT
+1377: 0x1EEB [0x00] END_REQSTACK()
+
+SUBROUTINE_1F2B:
+1378: 0x1F2B [0x01] GOTO 0x1F36
+1379: 0x1F2E [0x1D] PRINT_EVENT_MESSAGE(message_id=6863*)
+    → "OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT "QueSTs" and tHen "ObJEcTiVE LiSt" tO Get sTarTEd."
+1380: 0x1F31 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1381: 0x1F32 [0x1D] PRINT_EVENT_MESSAGE(message_id=6867*)
+    → "THeRe aRe MaNY ObjEcTiveS tO CHooSE FrOm, sO pIck oNEs thAt MatCh yOUr StylE."
+1382: 0x1F35 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1F36:
+1383: 0x1F36 [0x01] GOTO 0x20A1
+1384: 0x1F39 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1F9B
+1385: 0x1F41 [0x1D] PRINT_EVENT_MESSAGE(message_id=6868*)
+    → "THe TruST iNitIAtivE is A New tYpe OF MaGIc DevElOpED bY aN inStiTUtE in jEUnO."
+1386: 0x1F44 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1387: 0x1F45 [0x1D] PRINT_EVENT_MESSAGE(message_id=6869*)
+    → "YoU CAn fINd ComPanIOns tO jOiN yOu iN BattLe IF yOu pArTIciPAte."
+1388: 0x1F48 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1389: 0x1F49 [0x02] IF !(LocalPlayer->JobLevel < 5*) GOTO 0x1F94
+1390: 0x1F51 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x1F60
+1391: 0x1F59 [0x1D] PRINT_EVENT_MESSAGE(message_id=6850*)
+    → "If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU."
+1392: 0x1F5C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1393: 0x1F5D [0x01] GOTO 0x1F91
+1394: 0x1F60 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1395: 0x1F61 [0x89] OPEN_MAP(map_id=0x0000809B)
+1396: 0x1F64 [0x1C] WAIT(30* ticks)
+1397: 0x1F67 [0x8B] SET_EVENT_MARK: Add/update map marker on map 241* at (-23.825*, -44.567*), index=1*, name=(no name)
+1398: 0x1F70 [0x57] CREATE_FRAME_DELAY(delay=0x7465)
+1399: 0x1F73 [0x61] EventEntity->Render.Flags2 &= ~0x00000001
+1400: 0x1F75 [0x61] EventEntity->Render.Flags2 &= ~0x00000001
+1401: 0x1F77 [0x00] END_REQSTACK()
+
+SUBROUTINE_1F91:
+1402: 0x1F91 [0x01] GOTO 0x1F98
+1403: 0x1F94 [0x1D] PRINT_EVENT_MESSAGE(message_id=6870*)
+    → "I'lL PrOVidE yOu wITh MoRe InFOrmaTIoN wHEn YoU ReAcH LEvEl FIvE."
+1404: 0x1F97 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1F98:
+1405: 0x1F98 [0x01] GOTO 0x20A1
+1406: 0x1F9B [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x2014
+1407: 0x1FA3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1408: 0x1FA4 [0xC8] OPEN_MAP_WINDOW(zone=0x809B, submap=0x8003, flag=0x8008)
+1409: 0x1FAB [0x8B] SET_EVENT_MARK: Add/update map marker on map 241* at (-9.604*, -61.077*), index=0*, name=(no name)
+1410: 0x1FB4 [0x4A] Unknown NPC (ID: 1600873313/0x5F6B6361) looks at Unknown NPC (ID: 1398761071/0x535F666F)
+1411: 0x1FBD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+1412: 0x1FBE [0x61] EventEntity->Render.Flags2 &= ~0x00000001
+1413: 0x1FC0 [0x65] CALCULATE_3D_DISTANCE(result=0x73, entity1=Unknown NPC (ID: 2148146432/0x800A1D00), entity2=Unknown NPC (ID: 595639324/0x2380BC1C))
+1414: 0x1FCB [0x1D] PRINT_EVENT_MESSAGE(message_id=6860*)
+    → "YoU CaN fInd tHE MarK bY pREssIng tHe "MaP" buTTon, seLecTiNG "mARkErs," and lOOkinG tO tHe RigHT."
+1415: 0x1FCE [0x23] WAIT_FOR_DIALOG_INTERACTION
+1416: 0x1FCF [0x8A] CLOSE_MAP()
+1417: 0x1FD0 [0x1C] WAIT(30* ticks)
+1418: 0x1FD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6861*)
+    → "SeLEctInG "WiDE sCaN" wiLL aLso SHow yOu thE LoCAtiOns oF vAriOuS pEopLE."
+1419: 0x1FD6 [0x1C] WAIT(80* ticks)
+1420: 0x1FD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1421: 0x1FDA [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x1FE5
+1422: 0x1FE2 [0x01] GOTO 0x2010
+1423: 0x1FE5 [0xC8] OPEN_MAP_WINDOW(zone=0x803F, submap=0x8005, flag=0x8005)
+1424: 0x1FEC [0x8B] SET_EVENT_MARK: Add/update map marker on map 238* at (169.855*, -3.238*), index=1*, name=(no name)
+1425: 0x1FF5 [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+1426: 0x1FF7 [0x6C] FADE_ENTITY_COLOR(entity_id=Unknown NPC (ID: 6384737/0x00616C61), end_alpha=ExtData[1]->WorkLocal[0], fade_time=ExtData[1]->WorkLocal[0])
+1427: 0x2000 [0x00] END_REQSTACK()
+
+SUBROUTINE_2010:
+1428: 0x2010 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+1429: 0x2011 [0x01] GOTO 0x20A1
+1430: 0x2014 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x2031
+1431: 0x201C [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1432: 0x201D [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967294*, properties=3*)
+1433: 0x2022 [0x1D] PRINT_EVENT_MESSAGE(message_id=6833*)
+    → "JaCk nOw ShoWIng mAP."
+1434: 0x2025 [0x1C] WAIT(90* ticks)
+1435: 0x2028 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1436: 0x2029 [0x8A] CLOSE_MAP()
+1437: 0x202A [0x1C] WAIT(80* ticks)
+1438: 0x202D [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+1439: 0x202E [0x01] GOTO 0x20A1
+1440: 0x2031 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x204C
+1441: 0x2039 [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
+    → "InTerchAnge oF iTeMs aNd mOnEy beTwEeN PeoPle AnD tHiNgs iS calLeD "TRaDiNg.""
+1442: 0x203C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1443: 0x203D [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
+    → "FIrSt tarGet EnTiTy tO IntErAcT wITh. NoThIng hApPeNs uNlESs reCeIver iS pRoperLy TaRgeTEd."
+1444: 0x2040 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1445: 0x2041 [0x1D] PRINT_EVENT_MESSAGE(message_id=6836*)
+    → "OpEn MaIn MenU. PrESs "TRADE" bUtTon."
+1446: 0x2044 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1447: 0x2045 [0x1D] PRINT_EVENT_MESSAGE(message_id=6837*)
+    → "NeXt cHoOsE ItEms tO HanD oVEr! PreSs "CONFIRM" bUttOn! TaRgeTed eNtIty sHouLd rEcEiVe IteMs."
+1448: 0x2048 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1449: 0x2049 [0x01] GOTO 0x20A1
+1450: 0x204C [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x2063
+1451: 0x2054 [0x1D] PRINT_EVENT_MESSAGE(message_id=6838*)
+    → "BeFoRe sETtinG oUt tO BaTtLe: ConFiRm EqUiPmEnt iS pRopeRLy EQUIPped! MaGiC-UsErS "USE" SpeLl ScRolLs oN tHeMsElvEs TO lEaRn mAgIc!"
+1452: 0x2057 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1453: 0x2058 [0x1D] PRINT_EVENT_MESSAGE(message_id=6839*)
+    → "BeForE cOmMeNcInG BatTlE wITh MoNSter: "CHECK" MOnstER tO COnFIrm Its StrEngTh!"
+1454: 0x205B [0x23] WAIT_FOR_DIALOG_INTERACTION
+1455: 0x205C [0x1D] PRINT_EVENT_MESSAGE(message_id=6840*)
+    → "AfTer BAttLE iS WoN: LooK fOr "SPOILS" dRoPpEd bY MonSters. iF In PaRtY, "CAST LOTS" fOr SPOILS!"
+1456: 0x205F [0x23] WAIT_FOR_DIALOG_INTERACTION
+1457: 0x2060 [0x01] GOTO 0x20A1
+1458: 0x2063 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x207A
+1459: 0x206B [0x1D] PRINT_EVENT_MESSAGE(message_id=6841*)
+    → "QUESTS aRe ReQueSts FoR HelP fRoM oRdiNaRy ToWnsFoLk. iT pAyS To hELp pEOplE iN NeEd."
+1460: 0x206E [0x23] WAIT_FOR_DIALOG_INTERACTION
+1461: 0x206F [0x1D] PRINT_EVENT_MESSAGE(message_id=6842*)
+    → "MISSIONS aRe OfFIcIaL rEqUesTs fOr aSSiStanCe mAdE bY tHe WInDuRStiAN AuThoRiTIes."
+1462: 0x2072 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1463: 0x2073 [0x1D] PRINT_EVENT_MESSAGE(message_id=6843*)
+    → "yoU CaN ReCeIvE MISSIONS frOm ThE gUarDs aT tHe ToWn'S GATeHOuSe."
+1464: 0x2076 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1465: 0x2077 [0x01] GOTO 0x20A1
+1466: 0x207A [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x2091
+1467: 0x2082 [0x1D] PRINT_EVENT_MESSAGE(message_id=6873*)
+    → "oPeNInG tHe MaiN mENu and CliCKinG tO thE rIghT giVes yoU An opTIoN to oPeN tHe "HeLP dEsK.""
+1468: 0x2085 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1469: 0x2086 [0x1D] PRINT_EVENT_MESSAGE(message_id=6874*)
+    → "prEssIng thE "HelP DesK" buTToN aNd sEleCTiNg thE "HeLp dESk" CaTegOrY WiLL BRiNg uP a SelECtIoN tITleD "I NeED hElP wITh tHe GaME cOntRolS.""
+1470: 0x2089 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1471: 0x208A [0x1D] PRINT_EVENT_MESSAGE(message_id=6875*)
+    → "REadInG tHe inFOrmAtiOn tHerE MaY reSoLve YOur iSSue."
+1472: 0x208D [0x23] WAIT_FOR_DIALOG_INTERACTION
+1473: 0x208E [0x01] GOTO 0x20A1
+1474: 0x2091 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x20A1
+1475: 0x2099 [0x03] ExtData[1]->WorkLocal[0] = 1*
+1476: 0x209E [0x01] GOTO 0x20A1
+
+SUBROUTINE_20A1:
+1477: 0x20A1 [0x01] GOTO 0x0278
+1478: 0x20A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6844*)
+    → "FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp. OvEr AnD oUt!"
+1479: 0x20A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1480: 0x20A8 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+1481: 0x20AA [0x21] END_EVENT
+1482: 0x20AB [0x00] END_REQSTACK()
+
+SUBROUTINE_20AC:
+1483: 0x20AC [0x1D] PRINT_EVENT_MESSAGE(message_id=6850*)
+    → "If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU."
+1484: 0x20AF [0x23] WAIT_FOR_DIALOG_INTERACTION
+1485: 0x20B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6853*)
+    → "mAPs aRe AvAilaBLe Due sOutH of heRe. One oF tHe TwO sTaFF MemBeRs wiLl seLL TheM To yOu."
+1486: 0x20B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1487: 0x20B4 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x1D9F [0x00] END_REQSTACK()
+     0x1DA0 [0x00] END_REQSTACK()
+     0x1DA1 [0x00] END_REQSTACK()
+     0x1DA2 [0x00] END_REQSTACK()
+     0x1DA3 [0x00] END_REQSTACK()
+     0x1DA4 [0x00] END_REQSTACK()
+     0x1DA5 [0x00] END_REQSTACK()
+     0x1DA6 [0x00] END_REQSTACK()
+     0x1DA7 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1DB4
+     0x1DAF [0x07] ExtData[1]->WorkLocal[9] += 1*
+     0x1DB4 [0x1C] WAIT(30* ticks)
+     0x1DB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6886*)
+    → "ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is."
+     0x1DBA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1DBB [0x8A] CLOSE_MAP()
+     0x1DBC [0x1C] WAIT(30* ticks)
+     0x1DBF [0x01] GOTO 0x1E48
+     0x1DE2 [0x00] END_REQSTACK()
+     0x1DE3 [0x00] END_REQSTACK()
+     0x1DE4 [0x00] END_REQSTACK()
+     0x1DE5 [0x00] END_REQSTACK()
+     0x1DE6 [0x00] END_REQSTACK()
+     0x1DE7 [0x00] END_REQSTACK()
+     0x1DE8 [0x00] END_REQSTACK()
+     0x1DE9 [0x00] END_REQSTACK()
+     0x1DEA [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1DF7
+     0x1DF2 [0x07] ExtData[1]->WorkLocal[9] += 1*
+     0x1DF7 [0x1C] WAIT(30* ticks)
+     0x1DFA [0x1D] PRINT_EVENT_MESSAGE(message_id=6886*)
+    → "ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is."
+     0x1DFD [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1DFE [0x8A] CLOSE_MAP()
+     0x1DFF [0x1C] WAIT(30* ticks)
+     0x1E02 [0x01] GOTO 0x1E48
+     0x1E25 [0x00] END_REQSTACK()
+     0x1E26 [0x00] END_REQSTACK()
+     0x1E27 [0x00] END_REQSTACK()
+     0x1E28 [0x00] END_REQSTACK()
+     0x1E29 [0x00] END_REQSTACK()
+     0x1E2A [0x00] END_REQSTACK()
+     0x1E2B [0x00] END_REQSTACK()
+     0x1E2C [0x00] END_REQSTACK()
+     0x1E2D [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1E3A
+     0x1E35 [0x07] ExtData[1]->WorkLocal[9] += 1*
+     0x1E3A [0x1C] WAIT(30* ticks)
+     0x1E3D [0x1D] PRINT_EVENT_MESSAGE(message_id=6886*)
+    → "ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is."
+     0x1E40 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1E41 [0x8A] CLOSE_MAP()
+     0x1E42 [0x1C] WAIT(30* ticks)
+     0x1E45 [0x01] GOTO 0x1E48
+# Dead code (unreachable instructions):
+     0x1E56 [0x01] GOTO 0x20A1
+     0x1E70 [0x01] GOTO 0x1EB3
+# Dead code (unreachable instructions):
+     0x1EEC [0x01] GOTO 0x1F2B
+# Dead code (unreachable instructions):
+     0x1F78 [0x00] END_REQSTACK()
+     0x1F79 [0x00] END_REQSTACK()
+     0x1F7A [0x00] END_REQSTACK()
+     0x1F7B [0x00] END_REQSTACK()
+     0x1F7C [0x00] END_REQSTACK()
+     0x1F7D [0x00] END_REQSTACK()
+     0x1F7E [0x00] END_REQSTACK()
+     0x1F7F [0x00] END_REQSTACK()
+     0x1F80 [0x1D] PRINT_EVENT_MESSAGE(message_id=6871*)
+    → "WEtAtA In WInduRsT WOOds CaN TeLL yOU MorE. LeT Me MArK hER LoCAtIOn On yOur MAp."
+     0x1F83 [0x1C] WAIT(90* ticks)
+     0x1F86 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1F87 [0x8A] CLOSE_MAP()
+     0x1F88 [0x1D] PRINT_EVENT_MESSAGE(message_id=6860*)
+    → "YoU CaN fInd tHE MarK bY pREssIng tHe "MaP" buTTon, seLecTiNG "mARkErs," and lOOkinG tO tHe RigHT."
+     0x1F8B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1F8C [0x1D] PRINT_EVENT_MESSAGE(message_id=6861*)
+    → "SeLEctInG "WiDE sCaN" wiLL aLso SHow yOu thE LoCAtiOns oF vAriOuS pEopLE."
+     0x1F8F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1F90 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+# Dead code (unreachable instructions):
+     0x2001 [0x00] END_REQSTACK()
+     0x2002 [0x00] END_REQSTACK()
+     0x2003 [0x00] END_REQSTACK()
+     0x2004 [0x00] END_REQSTACK()
+     0x2005 [0x1D] PRINT_EVENT_MESSAGE(message_id=6872*)
+    → "OtHEr pEoPlE aLSo KnoW a LoT aBouT MaPs, LiKE ZeLaLA in WindUrsT WaTErs. LeT JacK ShOw WHerE sHe iS."
+     0x2008 [0x1C] WAIT(90* ticks)
+     0x200B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x200C [0x8A] CLOSE_MAP()
+     0x200D [0x1C] WAIT(80* ticks)
+```
+
+### Event 367
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x20B5  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+20B0:                00                                      .          
+```
+
+#### Opcodes
+
+```
+  0: 0x20B5 [0x00] END_REQSTACK()
+```
+
+### Event 871
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x20B6  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+20B0:                   00                                    .         
+```
+
+#### Opcodes
+
+```
+  0: 0x20B6 [0x00] END_REQSTACK()
+```
+
+### Event 872
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x20B7  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+20B0:                      00                                  .        
+```
+
+#### Opcodes
+
+```
+  0: 0x20B7 [0x00] END_REQSTACK()
+```

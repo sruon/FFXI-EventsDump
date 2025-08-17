@@ -1,0 +1,388 @@
+# 17064111 - Mediverchanne
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Chocobo Circuit (ID: 70) |
+| Block Size       | 1256 bytes               |
+| Total Events     | 2                        |
+| References Count | 44                       |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [242](#event-242)     | 0x0001       |   1052 |            163 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0040      |          64 |
+|       1 | 0x250B      |        9483 |
+|       2 | 0x250C      |        9484 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x250D      |        9485 |
+|       5 | 0x0001      |           1 |
+|       6 | 0x250E      |        9486 |
+|       7 | 0x00C8      |         200 |
+|       8 | 0xFFFB3997  |  4294654359 |
+|       9 | 0xFFF8D88B  |  4294498443 |
+|      10 | 0x0662      |        1634 |
+|      11 | 0x003C      |          60 |
+|      12 | 0x250F      |        9487 |
+|      13 | 0x005A      |          90 |
+|      14 | 0xFFFAF566  |  4294636902 |
+|      15 | 0xFFF98102  |  4294541570 |
+|      16 | 0xFFFFF060  |  4294963296 |
+|      17 | 0x0FE0      |        4064 |
+|      18 | 0x0002      |           2 |
+|      19 | 0xFFFBF215  |  4294701589 |
+|      20 | 0xFFF8D34D  |  4294497101 |
+|      21 | 0x0BDF      |        3039 |
+|      22 | 0x0003      |           3 |
+|      23 | 0xFFFBF013  |  4294701075 |
+|      24 | 0xFFF886A1  |  4294477473 |
+|      25 | 0x04A7      |        1191 |
+|      26 | 0x0004      |           4 |
+|      27 | 0xFFFA4A81  |  4294593153 |
+|      28 | 0xFFF886C3  |  4294477507 |
+|      29 | 0x044B      |        1099 |
+|      30 | 0x0005      |           5 |
+|      31 | 0xFFFA4ACC  |  4294593228 |
+|      32 | 0xFFF8D45C  |  4294497372 |
+|      33 | 0x0BB9      |        3001 |
+|      34 | 0x0006      |           6 |
+|      35 | 0xFFFBEC14  |  4294700052 |
+|      36 | 0xFFF7F057  |  4294438999 |
+|      37 | 0x0F9F      |        3999 |
+|      38 | 0x043B      |        1083 |
+|      39 | 0x0007      |           7 |
+|      40 | 0xFFFA4DF5  |  4294594037 |
+|      41 | 0xFFF7EE9B  |  4294438555 |
+|      42 | 0x044D      |        1101 |
+|      43 | 0x0008      |           8 |
+
+## String References
+
+- **9484**: Where would you like to go? [General Information Center./Jeuno racetrack./Al Zahbi racetrack./Windurst racetrack./Bastok racetrack./San d'Oria racetrack./Eastern Chocobo promenade./Western Chocobo promenade./Nowhere for now.]
+- **9485**: Are you sure? [Yes, let's go./Never mind.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 242
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1052 bytes |
+| Instructions | 163        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 4A AF 60 04 01 F0  FF FF 7F 03 00 00 00 80   BJ.`...........
+0010: 2B AF 60 04 01 01 80 23  24 02 80 03 80 00 00 25  +.`....#$......%
+0020: 02 00 10 03 80 00 9E 00  24 04 80 05 80 03 80 25  ........$......%
+0030: 02 00 10 03 80 00 90 00  2B AF 60 04 01 06 80 23  ........+.`....#
+0040: 45 07 80 F8 FF FF 7F F8  FF FF 7F 66 64 6F 31 03  E..........fdo1.
+0050: 80 55 07 80 F8 FF FF 7F  F8 FF FF 7F 66 64 6F 31  .U..........fdo1
+0060: 47 00 08 80 09 80 03 80  0A 80 47 01 1C 0B 80 2B  G.........G....+
+0070: AF 60 04 01 0C 80 1C 0B  80 45 07 80 F8 FF FF 7F  .`.......E......
+0080: F8 FF FF 7F 66 64 69 32  03 80 1C 0D 80 01 9B 00  ....fdi2........
+0090: 02 00 10 05 80 00 9B 00  01 9B 00 01 1B 04 02 00  ................
+00A0: 10 05 80 00 1C 01 24 04  80 05 80 03 80 25 02 00  ......$......%..
+00B0: 10 03 80 00 0E 01 2B AF  60 04 01 06 80 23 45 07  ......+.`....#E.
+00C0: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 31 03 80 55  .........fdo1..U
+00D0: 07 80 F8 FF FF 7F F8 FF  FF 7F 66 64 6F 31 47 00  ..........fdo1G.
+00E0: 0E 80 0F 80 10 80 11 80  47 01 1C 0B 80 2B AF 60  ........G....+.`
+00F0: 04 01 0C 80 1C 0B 80 45  07 80 F8 FF FF 7F F8 FF  .......E........
+0100: FF 7F 66 64 69 32 03 80  1C 0D 80 01 19 01 02 00  ..fdi2..........
+0110: 10 05 80 00 19 01 01 19  01 01 1B 04 02 00 10 12  ................
+0120: 80 00 9A 01 24 04 80 05  80 03 80 25 02 00 10 03  ....$......%....
+0130: 80 00 8C 01 2B AF 60 04  01 06 80 23 45 07 80 F8  ....+.`....#E...
+0140: FF FF 7F F8 FF FF 7F 66  64 6F 31 03 80 55 07 80  .......fdo1..U..
+0150: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 47 00 13 80  ........fdo1G...
+0160: 14 80 10 80 15 80 47 01  1C 0B 80 2B AF 60 04 01  ......G....+.`..
+0170: 0C 80 1C 0B 80 45 07 80  F8 FF FF 7F F8 FF FF 7F  .....E..........
+0180: 66 64 69 32 03 80 1C 0D  80 01 97 01 02 00 10 05  fdi2............
+0190: 80 00 97 01 01 97 01 01  1B 04 02 00 10 16 80 00  ................
+01A0: 18 02 24 04 80 05 80 03  80 25 02 00 10 03 80 00  ..$......%......
+01B0: 0A 02 2B AF 60 04 01 06  80 23 45 07 80 F8 FF FF  ..+.`....#E.....
+01C0: 7F F8 FF FF 7F 66 64 6F  31 03 80 55 07 80 F8 FF  .....fdo1..U....
+01D0: FF 7F F8 FF FF 7F 66 64  6F 31 47 00 17 80 18 80  ......fdo1G.....
+01E0: 10 80 19 80 47 01 1C 0B  80 2B AF 60 04 01 0C 80  ....G....+.`....
+01F0: 1C 0B 80 45 07 80 F8 FF  FF 7F F8 FF FF 7F 66 64  ...E..........fd
+0200: 69 32 03 80 1C 0D 80 01  15 02 02 00 10 05 80 00  i2..............
+0210: 15 02 01 15 02 01 1B 04  02 00 10 1A 80 00 96 02  ................
+0220: 24 04 80 05 80 03 80 25  02 00 10 03 80 00 88 02  $......%........
+0230: 2B AF 60 04 01 06 80 23  45 07 80 F8 FF FF 7F F8  +.`....#E.......
+0240: FF FF 7F 66 64 6F 31 03  80 55 07 80 F8 FF FF 7F  ...fdo1..U......
+0250: F8 FF FF 7F 66 64 6F 31  47 00 1B 80 1C 80 10 80  ....fdo1G.......
+0260: 1D 80 47 01 1C 0B 80 2B  AF 60 04 01 0C 80 1C 0B  ..G....+.`......
+0270: 80 45 07 80 F8 FF FF 7F  F8 FF FF 7F 66 64 69 32  .E..........fdi2
+0280: 03 80 1C 0D 80 01 93 02  02 00 10 05 80 00 93 02  ................
+0290: 01 93 02 01 1B 04 02 00  10 1E 80 00 14 03 24 04  ..............$.
+02A0: 80 05 80 03 80 25 02 00  10 03 80 00 06 03 2B AF  .....%........+.
+02B0: 60 04 01 06 80 23 45 07  80 F8 FF FF 7F F8 FF FF  `....#E.........
+02C0: 7F 66 64 6F 31 03 80 55  07 80 F8 FF FF 7F F8 FF  .fdo1..U........
+02D0: FF 7F 66 64 6F 31 47 00  1F 80 20 80 10 80 21 80  ..fdo1G... ...!.
+02E0: 47 01 1C 0B 80 2B AF 60  04 01 0C 80 1C 0B 80 45  G....+.`.......E
+02F0: 07 80 F8 FF FF 7F F8 FF  FF 7F 66 64 69 32 03 80  ..........fdi2..
+0300: 1C 0D 80 01 11 03 02 00  10 05 80 00 11 03 01 11  ................
+0310: 03 01 1B 04 02 00 10 22  80 00 92 03 24 04 80 05  ......."....$...
+0320: 80 03 80 25 02 00 10 03  80 00 84 03 2B AF 60 04  ...%........+.`.
+0330: 01 06 80 23 45 07 80 F8  FF FF 7F F8 FF FF 7F 66  ...#E..........f
+0340: 64 6F 31 03 80 55 07 80  F8 FF FF 7F F8 FF FF 7F  do1..U..........
+0350: 66 64 6F 31 47 00 23 80  24 80 25 80 26 80 47 01  fdo1G.#.$.%.&.G.
+0360: 1C 0B 80 2B AF 60 04 01  0C 80 1C 0B 80 45 07 80  ...+.`.......E..
+0370: F8 FF FF 7F F8 FF FF 7F  66 64 69 32 03 80 1C 0D  ........fdi2....
+0380: 80 01 8F 03 02 00 10 05  80 00 8F 03 01 8F 03 01  ................
+0390: 1B 04 02 00 10 27 80 00  10 04 24 04 80 05 80 03  .....'....$.....
+03A0: 80 25 02 00 10 03 80 00  02 04 2B AF 60 04 01 06  .%........+.`...
+03B0: 80 23 45 07 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  .#E..........fdo
+03C0: 31 03 80 55 07 80 F8 FF  FF 7F F8 FF FF 7F 66 64  1..U..........fd
+03D0: 6F 31 47 00 28 80 29 80  25 80 2A 80 47 01 1C 0B  o1G.(.).%.*.G...
+03E0: 80 2B AF 60 04 01 0C 80  1C 0B 80 45 07 80 F8 FF  .+.`.......E....
+03F0: FF 7F F8 FF FF 7F 66 64  69 32 03 80 1C 0D 80 01  ......fdi2......
+0400: 0D 04 02 00 10 05 80 00  0D 04 01 0D 04 01 1B 04  ................
+0410: 02 00 10 2B 80 00 1B 04  01 1B 04 21 00           ...+.......!.   
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x4A] Mediverchanne (ID: 17064111/0x010460AF) looks at LocalPlayer
+  2: 0x000B [0x03] ExtData[1]->WorkLocal[0] = 64*
+  3: 0x0010 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9483*]:
+    → "Racetrack Information at your service. Do you require assistance?"
+  4: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0018 [0x24] CREATE_DIALOG(message_id=9484*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+    → "Where would you like to go? [General Information Center./Jeuno racetrack./Al Zahbi racetrack./Windurst racetrack./Bastok racetrack./San d'Oria racetrack./Eastern Chocobo promenade./Western Chocobo promenade./Nowhere for now.]"
+  6: 0x001F [0x25] WAIT_DIALOG_SELECT()
+  7: 0x0020 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009E
+  8: 0x0028 [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+  9: 0x002F [0x25] WAIT_DIALOG_SELECT()
+ 10: 0x0030 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0090
+ 11: 0x0038 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+ 12: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 13: 0x0040 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 14: 0x0051 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 15: 0x0060 [0x47] UPDATE_PLAYER_POS(-312.937*, -468.853*, 0.000*, yaw=143.6°*)
+ 16: 0x006A [0x47] WAIT_PLAYER_POS_UPDATE
+ 17: 0x006C [0x1C] WAIT(60* ticks)
+ 18: 0x006F [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+ 19: 0x0076 [0x1C] WAIT(60* ticks)
+ 20: 0x0079 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 21: 0x008A [0x1C] WAIT(90* ticks)
+ 22: 0x008D [0x01] GOTO 0x009B
+ 23: 0x0090 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x009B
+ 24: 0x0098 [0x01] GOTO 0x009B
+
+SUBROUTINE_009B:
+ 25: 0x009B [0x01] GOTO 0x041B
+ 26: 0x009E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x011C
+ 27: 0x00A6 [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+ 28: 0x00AD [0x25] WAIT_DIALOG_SELECT()
+ 29: 0x00AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010E
+ 30: 0x00B6 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+ 31: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x00BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 33: 0x00CF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 34: 0x00DE [0x47] UPDATE_PLAYER_POS(-330.394*, -425.726*, -4.000*, yaw=357.2°*)
+ 35: 0x00E8 [0x47] WAIT_PLAYER_POS_UPDATE
+ 36: 0x00EA [0x1C] WAIT(60* ticks)
+ 37: 0x00ED [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+ 38: 0x00F4 [0x1C] WAIT(60* ticks)
+ 39: 0x00F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 40: 0x0108 [0x1C] WAIT(90* ticks)
+ 41: 0x010B [0x01] GOTO 0x0119
+ 42: 0x010E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0119
+ 43: 0x0116 [0x01] GOTO 0x0119
+
+SUBROUTINE_0119:
+ 44: 0x0119 [0x01] GOTO 0x041B
+ 45: 0x011C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x019A
+ 46: 0x0124 [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+ 47: 0x012B [0x25] WAIT_DIALOG_SELECT()
+ 48: 0x012C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018C
+ 49: 0x0134 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+ 50: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 51: 0x013C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 52: 0x014D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 53: 0x015C [0x47] UPDATE_PLAYER_POS(-265.707*, -470.195*, -4.000*, yaw=267.1°*)
+ 54: 0x0166 [0x47] WAIT_PLAYER_POS_UPDATE
+ 55: 0x0168 [0x1C] WAIT(60* ticks)
+ 56: 0x016B [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+ 57: 0x0172 [0x1C] WAIT(60* ticks)
+ 58: 0x0175 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 59: 0x0186 [0x1C] WAIT(90* ticks)
+ 60: 0x0189 [0x01] GOTO 0x0197
+ 61: 0x018C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0197
+ 62: 0x0194 [0x01] GOTO 0x0197
+
+SUBROUTINE_0197:
+ 63: 0x0197 [0x01] GOTO 0x041B
+ 64: 0x019A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0218
+ 65: 0x01A2 [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+ 66: 0x01A9 [0x25] WAIT_DIALOG_SELECT()
+ 67: 0x01AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x020A
+ 68: 0x01B2 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+ 69: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 70: 0x01BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 71: 0x01CB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 72: 0x01DA [0x47] UPDATE_PLAYER_POS(-266.221*, -489.823*, -4.000*, yaw=104.7°*)
+ 73: 0x01E4 [0x47] WAIT_PLAYER_POS_UPDATE
+ 74: 0x01E6 [0x1C] WAIT(60* ticks)
+ 75: 0x01E9 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+ 76: 0x01F0 [0x1C] WAIT(60* ticks)
+ 77: 0x01F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 78: 0x0204 [0x1C] WAIT(90* ticks)
+ 79: 0x0207 [0x01] GOTO 0x0215
+ 80: 0x020A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0215
+ 81: 0x0212 [0x01] GOTO 0x0215
+
+SUBROUTINE_0215:
+ 82: 0x0215 [0x01] GOTO 0x041B
+ 83: 0x0218 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0296
+ 84: 0x0220 [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+ 85: 0x0227 [0x25] WAIT_DIALOG_SELECT()
+ 86: 0x0228 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0288
+ 87: 0x0230 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+ 88: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 89: 0x0238 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 90: 0x0249 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 91: 0x0258 [0x47] UPDATE_PLAYER_POS(-374.143*, -489.789*, -4.000*, yaw=96.6°*)
+ 92: 0x0262 [0x47] WAIT_PLAYER_POS_UPDATE
+ 93: 0x0264 [0x1C] WAIT(60* ticks)
+ 94: 0x0267 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+ 95: 0x026E [0x1C] WAIT(60* ticks)
+ 96: 0x0271 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 97: 0x0282 [0x1C] WAIT(90* ticks)
+ 98: 0x0285 [0x01] GOTO 0x0293
+ 99: 0x0288 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0293
+100: 0x0290 [0x01] GOTO 0x0293
+
+SUBROUTINE_0293:
+101: 0x0293 [0x01] GOTO 0x041B
+102: 0x0296 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0314
+103: 0x029E [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+104: 0x02A5 [0x25] WAIT_DIALOG_SELECT()
+105: 0x02A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0306
+106: 0x02AE [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+107: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+108: 0x02B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+109: 0x02C7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+110: 0x02D6 [0x47] UPDATE_PLAYER_POS(-374.068*, -469.924*, -4.000*, yaw=263.8°*)
+111: 0x02E0 [0x47] WAIT_PLAYER_POS_UPDATE
+112: 0x02E2 [0x1C] WAIT(60* ticks)
+113: 0x02E5 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+114: 0x02EC [0x1C] WAIT(60* ticks)
+115: 0x02EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+116: 0x0300 [0x1C] WAIT(90* ticks)
+117: 0x0303 [0x01] GOTO 0x0311
+118: 0x0306 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0311
+119: 0x030E [0x01] GOTO 0x0311
+
+SUBROUTINE_0311:
+120: 0x0311 [0x01] GOTO 0x041B
+121: 0x0314 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0392
+122: 0x031C [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+123: 0x0323 [0x25] WAIT_DIALOG_SELECT()
+124: 0x0324 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0384
+125: 0x032C [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+126: 0x0333 [0x23] WAIT_FOR_DIALOG_INTERACTION
+127: 0x0334 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+128: 0x0345 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+129: 0x0354 [0x47] UPDATE_PLAYER_POS(-267.244*, -528.297*, 3.999*, yaw=95.2°*)
+130: 0x035E [0x47] WAIT_PLAYER_POS_UPDATE
+131: 0x0360 [0x1C] WAIT(60* ticks)
+132: 0x0363 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+133: 0x036A [0x1C] WAIT(60* ticks)
+134: 0x036D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+135: 0x037E [0x1C] WAIT(90* ticks)
+136: 0x0381 [0x01] GOTO 0x038F
+137: 0x0384 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x038F
+138: 0x038C [0x01] GOTO 0x038F
+
+SUBROUTINE_038F:
+139: 0x038F [0x01] GOTO 0x041B
+140: 0x0392 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0410
+141: 0x039A [0x24] CREATE_DIALOG(message_id=9485*, default_option=1*, option_flags=0*)
+    → "Are you sure? [Yes, let's go./Never mind.]"
+142: 0x03A1 [0x25] WAIT_DIALOG_SELECT()
+143: 0x03A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0402
+144: 0x03AA [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9486*]:
+    → "Very well. Brace yourself!"
+145: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+146: 0x03B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+147: 0x03C3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+148: 0x03D2 [0x47] UPDATE_PLAYER_POS(-373.259*, -528.741*, 3.999*, yaw=96.8°*)
+149: 0x03DC [0x47] WAIT_PLAYER_POS_UPDATE
+150: 0x03DE [0x1C] WAIT(60* ticks)
+151: 0x03E1 [0x2B] Mediverchanne (ID: 17064111/0x010460AF) [9487*]:
+    → "Here we are! Thank you for your patience. Please enjoy your stay, and best of luck!"
+152: 0x03E8 [0x1C] WAIT(60* ticks)
+153: 0x03EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+154: 0x03FC [0x1C] WAIT(90* ticks)
+155: 0x03FF [0x01] GOTO 0x040D
+156: 0x0402 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x040D
+157: 0x040A [0x01] GOTO 0x040D
+
+SUBROUTINE_040D:
+158: 0x040D [0x01] GOTO 0x041B
+159: 0x0410 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x041B
+160: 0x0418 [0x01] GOTO 0x041B
+
+SUBROUTINE_041B:
+161: 0x041B [0x21] END_EVENT
+162: 0x041C [0x00] END_REQSTACK()
+```

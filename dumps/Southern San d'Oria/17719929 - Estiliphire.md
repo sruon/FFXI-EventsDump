@@ -1,0 +1,1399 @@
+# 17719929 - Estiliphire
+
+## Common Data
+
+| Field            | Value                         |
+|------------------|-------------------------------|
+| Zone             | Southern San d'Oria (ID: 230) |
+| Block Size       | 5112 bytes                    |
+| Total Events     | 2                             |
+| References Count | 75                            |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [986](#event-986)     | 0x0001       |   4787 |            800 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0xFFFFFFFF  |  4294967295 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0002      |           2 |
+|       3 | 0x0003      |           3 |
+|       4 | 0x0005      |           5 |
+|       5 | 0x0001      |           1 |
+|       6 | 0x0006      |           6 |
+|       7 | 0x0008      |           8 |
+|       8 | 0x0009      |           9 |
+|       9 | 0x000B      |          11 |
+|      10 | 0x000C      |          12 |
+|      11 | 0x000E      |          14 |
+|      12 | 0x0004      |           4 |
+|      13 | 0x000F      |          15 |
+|      14 | 0x0011      |          17 |
+|      15 | 0x000A      |          10 |
+|      16 | 0x3B2B      |       15147 |
+|      17 | 0x3B2C      |       15148 |
+|      18 | 0x3B2D      |       15149 |
+|      19 | 0x3B2E      |       15150 |
+|      20 | 0x3B30      |       15152 |
+|      21 | 0x3B31      |       15153 |
+|      22 | 0x3B2F      |       15151 |
+|      23 | 0x0015      |          21 |
+|      24 | 0x0F2D      |        3885 |
+|      25 | 0x61A8      |       25000 |
+|      26 | 0x3B35      |       15157 |
+|      27 | 0x3B36      |       15158 |
+|      28 | 0x0010      |          16 |
+|      29 | 0x0014      |          20 |
+|      30 | 0x3B32      |       15154 |
+|      31 | 0x3B33      |       15155 |
+|      32 | 0x3B34      |       15156 |
+|      33 | 0x00C8      |         200 |
+|      34 | 0x001B      |          27 |
+|      35 | 0x014F      |         335 |
+|      36 | 0x04B0      |        1200 |
+|      37 | 0x16760     |       92000 |
+|      38 | 0x1770      |        6000 |
+|      39 | 0xFFFB8F16  |  4294676246 |
+|      40 | 0xFFFFDDA0  |  4294958496 |
+|      41 | 0x00B4      |         180 |
+|      42 | 0x0066      |         102 |
+|      43 | 0x003C      |          60 |
+|      44 | 0x3B37      |       15159 |
+|      45 | 0x001E      |          30 |
+|      46 | 0x0007      |           7 |
+|      47 | 0xFFFB7BC0  |  4294671296 |
+|      48 | 0x19258     |      103000 |
+|      49 | 0xFFFFDC10  |  4294958096 |
+|      50 | 0x005A      |          90 |
+|      51 | 0x0078      |         120 |
+|      52 | 0x00D2      |         210 |
+|      53 | 0x000D      |          13 |
+|      54 | 0xFFFFDCD8  |  4294958296 |
+|      55 | 0x002D      |          45 |
+|      56 | 0x012C      |         300 |
+|      57 | 0x0088      |         136 |
+|      58 | 0xFFFF      |       65535 |
+|      59 | 0x3B3A      |       15162 |
+|      60 | 0x3B3B      |       15163 |
+|      61 | 0x006B      |         107 |
+|      62 | 0x3B43      |       15171 |
+|      63 | 0x0023      |          35 |
+|      64 | 0x3B3E      |       15166 |
+|      65 | 0x3B40      |       15168 |
+|      66 | 0x01AA      |         426 |
+|      67 | 0x3B3F      |       15167 |
+|      68 | 0x3B41      |       15169 |
+|      69 | 0x3B3D      |       15165 |
+|      70 | 0x001A      |          26 |
+|      71 | 0x3B42      |       15170 |
+|      72 | 0x007F      |         127 |
+|      73 | 0x009F      |         159 |
+|      74 | 0xFFFFFF81  |  4294967169 |
+
+## String References
+
+- **15147**: Merry Starlight! Step right up and play "Find the Difference"!
+- **15148**: Those are quite the mittens you've got there! I have the utmost confidence that someone of your exquisite tastes can tackle an exclusive, more challenging version of my parlor trick.
+- **15149**: What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my plans./Not interested in playing, thank you.]
+- **15150**: In this game, I shall show you the same scene twice. The second time, however, there will be slight differences from the first. Your task is to discern what those differences are.
+- **15151**: Make even one mistake, however, and you shall inhale the sour stench of failure.
+- **15152**: In the advanced version, the number of differences increases to five. Take not this challenge lightly!
+- **15153**: Remember--espying them all spells victory, while even the most meager of mistakes ensures your defeat.
+- **15154**: One play will set you back $1 gil. Do you still wish to try your luck?
+- **15155**: Participate in this game? (You currently have $1 gil.) [Let's get this started!/Maybe another time.]
+- **15156**: Marvelous!
+- **15157**: I was sure I had some lying around here somewhere... Another $0 will cost you $1 gil. What say you?
+- **15158**: Purchase the plans? [Yes./No.]
+- **15159**: Here we go![/!!]
+- **15162**: What was different? (No. $1) [The [Galka's/male Hume's/female Hume's/male Elvaan's/female Elvaan's/Mithra's] head gear./The female Tarutaru's expression./The [female Hume's/Mithra's] weapon./The direction the [male Hume/female Hume/male Elvaan/female Elvaan/Galka/Mithra] faced./The kind of treasure chest./Rabbit in the treasure chest./Different chest for the chocobo./The order in which the doors closed./The [male Elvaan's/female Hume's/Galka's] weapon./The [female Elvaan's/male Hume's/female Hume's/male Elvaan's/Galka's/Mithra's] leggings./The singing Tarutarus' location./The no. of "!" after "Here we go!"/The type of wind instrument./The order the treasure chests open./The number of baby chocobos running./The length of the scene./Give up.]
+- **15163**: Truly stop playing? [Yes./No] .
+- **15165**: Well done, [good sir/fair lady]! You have the eyes of an eagle! Without any further ado, here is your prize.
+- **15166**: Of course someone of as high a caliber as yourself would be able to triumph over even the most formidable of challenges. Here, you are more than deserving of this prize!
+- **15167**: As vital as it may be, it means absolutely nothing without the two other elements obtained from my compatriots in Bastok and Windurst.
+- **15168**: Hold on--I see that with this, you have accumulated all three pieces of this seasonal puzzle. All that is left now is for you to synthesize them.
+- **15169**: Allow me to reward you for the extra effort you have exerted. Use this with an $1, and you can fill your Mog House with familiar and nostalgic melodies whenever you so desire.
+- **15170**: I am sorry, but that is incorrect. May Altana smile upon you one day, [good sir/fair lady].
+- **15171**: Not all of us are blessed with immaculate perspicacity, but it shall come in time.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 986
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 4787 bytes |
+| Instructions | 754        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 08 00 00 80 03 09  00 00 80 03 0A 00 00 80   ...............
+0010: 03 0B 00 00 80 03 0C 00  00 80 06 03 00 40 01 80  .............@..
+0020: 02 80 0F 00 01 80 40 03  80 04 80 0F 00 05 80 40  ......@........@
+0030: 06 80 07 80 0F 00 02 80  40 08 80 09 80 0F 00 03  ........@.......
+0040: 80 40 0A 80 0B 80 0F 00  0C 80 40 0D 80 0E 80 0F  .@........@.....
+0050: 00 04 80 02 03 00 0F 80  03 64 00 1A CC 11 0B 03  .........d......
+0060: 00 01 53 00 06 03 00 06  16 00 02 03 00 03 80 03  ..S.............
+0070: 91 00 13 00 00 04 80 3E  16 00 00 00 84 00 01 72  .......>.......r
+0080: 00 01 8B 00 3C 16 00 00  00 05 80 0B 03 00 01 6A  ....<..........j
+0090: 00 13 00 00 02 80 02 00  00 01 80 80 A6 00 03 17  ................
+00A0: 00 01 80 01 C6 00 02 00  00 05 80 80 B6 00 03 17  ................
+00B0: 00 05 80 01 C6 00 02 00  00 02 80 80 C6 00 03 17  ................
+00C0: 00 03 80 01 C6 00 13 18  00 05 80 3E 02 10 01 80  ...........>....
+00D0: D8 00 05 0D 00 01 DB 00  06 0D 00 3E 02 10 05 80  ...........>....
+00E0: E8 00 05 0E 00 01 EB 00  06 0E 00 1E F0 FF FF 7F  ................
+00F0: 1D 10 80 23 02 0D 00 05  80 00 05 01 03 03 10 8B  ...#............
+0100: 7F 1D 11 80 23 02 0D 00  01 80 00 1A 01 3C 07 00  ....#........<..
+0110: 02 80 05 80 06 02 10 01  24 01 3D 07 00 02 80 05  ........$.=.....
+0120: 80 05 02 10 02 0E 00 01  80 00 36 01 3C 07 00 03  ..........6.<...
+0130: 80 05 80 01 3D 01 3D 07  00 03 80 05 80 24 12 80  ....=.=......$..
+0140: 01 80 07 00 25 02 00 10  01 80 00 6E 01 1D 13 80  ....%......n....
+0150: 23 02 0D 00 05 80 00 64  01 1D 14 80 23 1D 15 80  #......d....#...
+0160: 23 01 68 01 1D 16 80 23  01 05 01 01 DF 01 02 00  #.h....#........
+0170: 10 05 80 00 83 01 3D 01  10 17 80 05 80 1A E1 01  ......=.........
+0180: 01 DF 01 02 00 10 02 80  00 98 01 3C 01 10 17 80  ...........<....
+0190: 05 80 1A E1 01 01 DF 01  02 00 10 03 80 00 DF 01  ................
+01A0: 03 02 10 18 80 03 03 10  19 80 1D 1A 80 23 24 1B  .............#$.
+01B0: 80 05 80 01 80 25 02 00  10 01 80 00 CE 01 40 1C  .....%........@.
+01C0: 80 1D 80 01 10 0C 80 43  00 43 01 01 DC 01 02 00  .......C.C......
+01D0: 10 05 80 00 DC 01 01 05  01 01 DC 01 01 DF 01 21  ...............!
+01E0: 00 03 03 10 0F 80 1D 1E  80 23 40 1C 80 1D 80 01  .........#@.....
+01F0: 10 05 80 43 00 43 01 24  1F 80 05 80 01 80 25 02  ...C.C.$......%.
+0200: 00 10 05 80 00 0D 02 01  05 01 01 0D 02 42 40 1C  .............B@.
+0210: 80 1D 80 01 10 02 80 43  00 43 01 02 03 10 05 80  .......C.C......
+0220: 00 33 02 41 01 80 0D 80  05 10 19 00 1D 20 80 23  .3.A......... .#
+0230: 1A 34 02 1B 45 21 80 F8  FF FF 7F F8 FF FF 7F 66  .4..E!.........f
+0240: 64 6F 31 01 80 55 21 80  F8 FF FF 7F F8 FF FF 7F  do1..U!.........
+0250: 66 64 6F 31 46 01 38 22  80 77 0A 80 01 80 75 00  fdo1F.8".w....u.
+0260: 23 80 75 01 2F 00 7A 62  0E 01 4E 00 7A 62 0E 01  #.u./.zb..N.zb..
+0270: 2F 00 7B 62 0E 01 4E 00  7B 62 0E 01 2F 00 7C 62  /.{b..N.{b../.|b
+0280: 0E 01 4E 00 7C 62 0E 01  2F 00 7D 62 0E 01 4E 00  ..N.|b../.}b..N.
+0290: 7D 62 0E 01 2F 00 7E 62  0E 01 4E 00 7E 62 0E 01  }b../.~b..N.~b..
+02A0: 2F 00 7F 62 0E 01 4E 00  7F 62 0E 01 2F 00 80 62  /..b..N..b../..b
+02B0: 0E 01 4E 00 80 62 0E 01  2F 00 81 62 0E 01 4E 00  ..N..b../..b..N.
+02C0: 81 62 0E 01 2F 00 82 62  0E 01 4E 00 82 62 0E 01  .b../..b..N..b..
+02D0: 2F 00 83 62 0E 01 4E 00  83 62 0E 01 2F 00 84 62  /..b..N..b../..b
+02E0: 0E 01 4E 00 84 62 0E 01  2F 00 85 62 0E 01 4E 00  ..N..b../..b..N.
+02F0: 85 62 0E 01 2F 00 86 62  0E 01 4E 00 86 62 0E 01  .b../..b..N..b..
+0300: 2F 00 87 62 0E 01 4E 00  87 62 0E 01 2F 00 88 62  /..b..N..b../..b
+0310: 0E 01 4E 00 88 62 0E 01  2F 00 89 62 0E 01 4E 00  ..N..b../..b..N.
+0320: 89 62 0E 01 2F 00 8A 62  0E 01 4E 00 8A 62 0E 01  .b../..b..N..b..
+0330: 2F 00 8B 62 0E 01 4E 00  8B 62 0E 01 2F 00 8C 62  /..b..N..b../..b
+0340: 0E 01 4E 00 8C 62 0E 01  2F 00 8D 62 0E 01 4E 00  ..N..b../..b..N.
+0350: 8D 62 0E 01 2F 00 8E 62  0E 01 4E 00 8E 62 0E 01  .b../..b..N..b..
+0360: 2F 00 8F 62 0E 01 4E 00  8F 62 0E 01 2F 00 90 62  /..b..N..b../..b
+0370: 0E 01 4E 00 90 62 0E 01  2F 00 91 62 0E 01 4E 00  ..N..b../..b..N.
+0380: 91 62 0E 01 06 15 00 3E  19 00 04 80 E9 03 2F 00  .b.....>....../.
+0390: 92 62 0E 01 13 00 00 04  80 3E 16 00 00 00 A6 03  .b.......>......
+03A0: 01 94 03 01 D6 03 3C 15  00 00 00 05 80 03 14 00  ......<.........
+03B0: 00 00 14 14 00 24 80 07  14 00 25 80 02 00 00 02  .....$....%.....
+03C0: 80 02 C9 03 07 14 00 26  80 BA 92 62 0E 01 27 80  .......&...b..'.
+03D0: 14 00 28 80 01 80 4E 00  92 62 0E 01 2C 92 62 0E  ..(...N..b..,.b.
+03E0: 01 92 62 0E 01 6B 65 73  75 2F 00 93 62 0E 01 79  ..b..kesu/..b..y
+03F0: 00 7C 62 0E 01 93 62 0E  01 79 00 7D 62 0E 01 93  .|b...b..y.}b...
+0400: 62 0E 01 79 00 82 62 0E  01 93 62 0E 01 02 04 10  b..y..b...b.....
+0410: 02 80 00 1B 04 1C 29 80  01 1B 04 45 2A 80 F8 FF  ......)....E*...
+0420: FF 7F F8 FF FF 7F 73 30  30 35 01 80 5C 00 01 80  ......s005..\...
+0430: 5C 01 01 80 03 03 00 05  80 02 03 00 02 80 05 37  \..............7
+0440: 0A 1A 39 10 1C 2B 80 45  21 80 F8 FF FF 7F F8 FF  ..9..+.E!.......
+0450: FF 7F 66 64 69 31 01 80  1C 29 80 03 02 10 18 00  ..fdi1...)......
+0460: 3E 19 00 09 80 74 04 02  03 00 02 80 00 74 04 0F  >....t.......t..
+0470: 02 10 05 80 48 2C 80 23  3E 19 00 0D 80 8A 04 02  ....H,.#>.......
+0480: 03 00 02 80 00 8A 04 1C  29 80 1C 29 80 28 80 93  ........)..).(..
+0490: 62 0E 01 02 2C 7A 62 0E  01 7A 62 0E 01 6C 63 30  b...,zb..zb..lc0
+04A0: 30 2C 7B 62 0E 01 7B 62  0E 01 6C 63 30 30 2C 7C  0,{b..{b..lc00,|
+04B0: 62 0E 01 7C 62 0E 01 6C  63 30 30 2C 7D 62 0E 01  b..|b..lc00,}b..
+04C0: 7D 62 0E 01 6C 63 30 30  2C 7E 62 0E 01 7E 62 0E  }b..lc00,~b..~b.
+04D0: 01 6C 63 30 30 2C 7F 62  0E 01 7F 62 0E 01 6C 63  .lc00,.b...b..lc
+04E0: 30 30 2C 80 62 0E 01 80  62 0E 01 6C 63 30 31 2C  00,.b...b..lc01,
+04F0: 81 62 0E 01 81 62 0E 01  6C 63 30 32 2C 82 62 0E  .b...b..lc02,.b.
+0500: 01 82 62 0E 01 6C 63 30  30 2C 83 62 0E 01 83 62  ..b..lc00,.b...b
+0510: 0E 01 6C 63 30 30 28 80  93 60 0E 01 01 28 80 8A  ..lc00(..`...(..
+0520: 62 0E 01 02 1C 2D 80 28  80 8B 62 0E 01 02 1C 2D  b....-.(..b....-
+0530: 80 28 80 8C 62 0E 01 02  1C 2D 80 28 80 8D 62 0E  .(..b....-.(..b.
+0540: 01 02 1C 2D 80 28 80 B4  60 0E 01 02 28 80 8E 62  ...-.(..`...(..b
+0550: 0E 01 02 1C 2D 80 28 80  8F 62 0E 01 02 1C 2D 80  ....-.(..b....-.
+0560: 28 80 90 62 0E 01 02 1C  2D 80 28 80 91 62 0E 01  (..b....-.(..b..
+0570: 02 1C 2D 80 3E 19 00 0B  80 B3 05 02 03 00 02 80  ..-.>...........
+0580: 00 B3 05 02 17 00 01 80  80 93 05 03 17 00 05 80  ................
+0590: 01 B3 05 02 17 00 05 80  80 A3 05 03 17 00 03 80  ................
+05A0: 01 B3 05 02 17 00 03 80  80 B3 05 03 17 00 2E 80  ................
+05B0: 01 B3 05 06 04 00 02 04  00 03 80 03 43 06 3E 17  ............C.>.
+05C0: 00 04 00 3D 06 02 04 00  01 80 80 ED 05 BA 8A 62  ...=...........b
+05D0: 0E 01 2F 80 30 80 31 80  01 80 7A 00 8A 62 0E 01  ../.0.1...z..b..
+05E0: 28 80 8A 62 0E 01 02 1C  2D 80 01 3D 06 02 04 00  (..b....-..=....
+05F0: 05 80 80 15 06 BA 8B 62  0E 01 2F 80 30 80 31 80  .......b../.0.1.
+0600: 01 80 7A 00 8B 62 0E 01  28 80 8B 62 0E 01 02 1C  ..z..b..(..b....
+0610: 2D 80 01 3D 06 02 04 00  02 80 80 3D 06 BA 8C 62  -..=.......=...b
+0620: 0E 01 2F 80 30 80 31 80  01 80 7A 00 8C 62 0E 01  ../.0.1...z..b..
+0630: 28 80 8C 62 0E 01 02 1C  2D 80 01 3D 06 0B 04 00  (..b....-..=....
+0640: 01 B6 05 02 17 00 01 80  80 51 06 1C 32 80 01 78  .........Q..2..x
+0650: 06 02 17 00 05 80 80 5F  06 1C 2B 80 01 78 06 02  ......._..+..x..
+0660: 17 00 03 80 80 6D 06 1C  2D 80 01 78 06 02 17 00  .....m..-..x....
+0670: 2E 80 80 78 06 01 78 06  1C 33 80 3E 19 00 06 80  ...x..x..3.>....
+0680: 5C 07 02 03 00 05 80 00  90 06 1A 31 12 01 59 07  \..........1..Y.
+0690: 03 00 00 16 00 0E 00 00  15 00 13 04 00 04 80 3E  ...............>
+06A0: 16 00 04 00 E4 06 13 05  00 04 80 3E 00 00 05 00  ...........>....
+06B0: B8 06 01 A6 06 01 E1 06  03 00 00 05 00 14 00 00  ................
+06C0: 24 80 07 00 00 25 80 02  05 00 02 80 02 D4 06 07  $....%..........
+06D0: 00 00 26 80 BA 8D 62 0E  01 27 80 00 00 31 80 01  ..&...b..'...1..
+06E0: 80 01 E7 06 01 9A 06 06  04 00 06 06 00 02 06 00  ................
+06F0: 06 80 03 59 07 3E 16 00  06 00 53 07 02 06 00 05  ...Y.>....S.....
+0700: 00 01 50 07 03 00 00 06  00 14 00 00 24 80 07 00  ..P.........$...
+0710: 00 25 80 02 06 00 02 80  02 20 07 07 00 00 26 80  .%....... ....&.
+0720: 02 04 00 01 80 80 38 07  BA 8E 62 0E 01 27 80 00  ......8...b..'..
+0730: 00 31 80 01 80 01 50 07  02 04 00 05 80 80 50 07  .1....P.......P.
+0740: BA 8F 62 0E 01 27 80 00  00 31 80 01 80 01 50 07  ..b..'...1....P.
+0750: 0B 04 00 0B 06 00 01 ED  06 01 5F 07 1A 31 12 02  .........._..1..
+0760: 04 10 05 80 00 6D 07 1C  33 80 01 70 07 1C 34 80  .....m..3..p..4.
+0770: 27 80 7A 62 0E 01 03 2C  7B 62 0E 01 7B 62 0E 01  '.zb...,{b..{b..
+0780: 6C 73 30 30 2C 7C 62 0E  01 7C 62 0E 01 6C 73 30  ls00,|b..|b..ls0
+0790: 30 2C 7D 62 0E 01 7D 62  0E 01 6C 73 30 30 2C 7E  0,}b..}b..ls00,~
+07A0: 62 0E 01 7E 62 0E 01 6C  73 30 30 2C 7F 62 0E 01  b..~b..ls00,.b..
+07B0: 7F 62 0E 01 6C 73 30 30  2C 80 62 0E 01 80 62 0E  .b..ls00,.b...b.
+07C0: 01 6C 73 30 31 2C 81 62  0E 01 81 62 0E 01 6C 73  .ls01,.b...b..ls
+07D0: 30 32 2C 82 62 0E 01 82  62 0E 01 6C 73 30 30 2C  02,.b...b..ls00,
+07E0: 83 62 0E 01 83 62 0E 01  6C 73 30 30 3E 19 00 35  .b...b..ls00>..5
+07F0: 80 F6 07 1A CC 11 06 04  00 02 04 00 06 80 03 B7  ................
+0800: 08 03 10 00 04 00 14 10  00 03 80 03 11 00 10 00  ................
+0810: 07 11 00 02 80 41 10 00  11 00 0F 00 00 00 02 00  .....A..........
+0820: 00 01 80 80 36 08 2C 84  62 0E 01 84 62 0E 01 6F  ....6.,.b...b..o
+0830: 70 65 32 01 AE 08 02 00  00 05 80 80 4E 08 2C 85  pe2.........N.,.
+0840: 62 0E 01 85 62 0E 01 6F  70 65 32 01 AE 08 02 00  b...b..ope2.....
+0850: 00 02 80 80 66 08 2C 86  62 0E 01 86 62 0E 01 6F  ....f.,.b...b..o
+0860: 70 65 32 01 AE 08 02 00  00 03 80 80 7E 08 2C 87  pe2.........~.,.
+0870: 62 0E 01 87 62 0E 01 6F  70 65 32 01 AE 08 02 00  b...b..ope2.....
+0880: 00 0C 80 80 96 08 2C 88  62 0E 01 88 62 0E 01 6F  ......,.b...b..o
+0890: 70 65 32 01 AE 08 02 00  00 04 80 80 AE 08 2C 89  pe2...........,.
+08A0: 62 0E 01 89 62 0E 01 6F  70 65 32 01 AE 08 0B 04  b...b..ope2.....
+08B0: 00 1C 2D 80 01 F9 07 1C  2B 80 3E 19 00 04 80 E7  ..-.....+.>.....
+08C0: 08 02 03 00 02 80 00 E7  08 03 05 17 14 00 03 06  ................
+08D0: 17 31 80 28 80 92 62 0E  01 02 2C 92 62 0E 01 92  .1.(..b...,.b...
+08E0: 62 0E 01 64 65 72 75 1C  33 80 2C 84 62 0E 01 84  b..deru.3.,.b...
+08F0: 62 0E 01 63 6C 6F 73 2C  85 62 0E 01 85 62 0E 01  b..clos,.b...b..
+0900: 63 6C 6F 73 2C 86 62 0E  01 86 62 0E 01 63 6C 6F  clos,.b...b..clo
+0910: 73 2C 87 62 0E 01 87 62  0E 01 63 6C 6F 73 2C 88  s,.b...b..clos,.
+0920: 62 0E 01 88 62 0E 01 63  6C 6F 73 2C 89 62 0E 01  b...b..clos,.b..
+0930: 89 62 0E 01 63 6C 6F 73  3E 19 00 04 80 65 09 02  .b..clos>....e..
+0940: 03 00 02 80 00 65 09 03  05 17 14 00 03 06 17 36  .....e.........6
+0950: 80 28 80 92 62 0E 01 02  2C 92 62 0E 01 92 62 0E  .(..b...,.b...b.
+0960: 01 6B 65 73 75 3E 19 00  05 80 A6 09 02 03 00 05  .kesu>..........
+0970: 80 00 8D 09 66 37 80 81  62 0E 01 81 62 0E 01 77  ....f7..b...b..w
+0980: 6F 66 32 28 80 81 62 0E  01 02 01 A3 09 66 37 80  of2(..b......f7.
+0990: 81 62 0E 01 81 62 0E 01  77 6F 66 32 28 80 81 62  .b...b..wof2(..b
+09A0: 0E 01 03 01 BC 09 66 37  80 81 62 0E 01 81 62 0E  ......f7..b...b.
+09B0: 01 77 6F 66 32 28 80 81  62 0E 01 02 28 80 7C 62  .wof2(..b...(.|b
+09C0: 0E 01 02 1C 33 80 3E 19  00 2E 80 FD 09 02 03 00  ....3.>.........
+09D0: 05 80 00 E9 09 28 80 93  60 0E 01 02 1C 2B 80 28  .....(..`....+.(
+09E0: 80 B4 60 0E 01 03 01 FA  09 28 80 B4 60 0E 01 03  ..`......(..`...
+09F0: 1C 2B 80 28 80 93 60 0E  01 02 01 0E 0A 28 80 93  .+.(..`......(..
+0A00: 60 0E 01 02 1C 2B 80 28  80 B4 60 0E 01 03 1C 38  `....+.(..`....8
+0A10: 80 45 21 80 F8 FF FF 7F  F8 FF FF 7F 66 64 6F 31  .E!.........fdo1
+0A20: 01 80 55 21 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  ..U!.........fdo
+0A30: 31 0B 03 00 01 39 04 5C  00 39 80 5C 01 39 80 1A  1....9.\.9.\.9..
+0A40: 39 10 1C 2B 80 45 21 80  F8 FF FF 7F F8 FF FF 7F  9..+.E!.........
+0A50: 66 64 69 31 01 80 1C 2B  80 03 07 00 3A 80 41 01  fdi1...+....:.A.
+0A60: 80 0D 80 19 00 00 00 0D  07 00 00 00 0F 07 00 3A  ...............:
+0A70: 80 3E 07 10 01 80 85 0A  03 00 00 2E 80 03 01 00  .>..............
+0A80: 0D 80 01 8F 0A 03 00 00  04 80 03 01 00 2E 80 06  ................
+0A90: 03 00 02 03 00 00 00 03  B9 0A 13 02 00 01 00 3E  ...............>
+0AA0: 07 00 02 00 B0 0A 3D 07  00 02 00 05 80 01 B3 0A  ......=.........
+0AB0: 01 9A 0A 0B 03 00 01 92  0A 03 04 00 05 80 3E 07  ..............>.
+0AC0: 00 01 80 C8 0A 01 F1 0A  02 08 00 00 80 00 EC 0A  ................
+0AD0: 3E 19 00 01 80 DF 0A 03  08 10 01 80 01 E4 0A 13  >...............
+0AE0: 08 10 04 80 03 08 00 08  10 01 F1 0A 03 08 10 08  ................
+0AF0: 00 3E 07 00 02 80 FB 0A  01 24 0B 02 09 00 00 80  .>.......$......
+0B00: 00 1F 0B 3E 19 00 02 80  12 0B 03 09 10 01 80 01  ...>............
+0B10: 17 0B 03 09 10 05 80 03  09 00 09 10 01 24 0B 03  .............$..
+0B20: 09 10 09 00 3E 07 00 03  80 2E 0B 01 57 0B 02 0A  ....>.......W...
+0B30: 00 00 80 00 52 0B 3E 19  00 03 80 45 0B 03 00 17  ....R.>....E....
+0B40: 01 80 01 4A 0B 13 00 17  04 80 03 0A 00 00 17 01  ...J............
+0B50: 57 0B 03 00 17 0A 00 3E  07 00 07 80 61 0B 01 8A  W......>....a...
+0B60: 0B 02 0B 00 00 80 00 85  0B 3E 19 00 07 80 78 0B  .........>....x.
+0B70: 03 01 17 01 80 01 7D 0B  13 01 17 02 80 03 0B 00  ......}.........
+0B80: 01 17 01 8A 0B 03 01 17  0B 00 3E 07 00 08 80 94  ..........>.....
+0B90: 0B 01 BD 0B 02 0C 00 00  80 00 B8 0B 3E 19 00 08  ............>...
+0BA0: 80 AB 0B 03 02 17 01 80  01 B0 0B 13 02 17 04 80  ................
+0BB0: 03 0C 00 02 17 01 BD 0B  03 02 17 0C 00 03 03 10  ................
+0BC0: 04 00 24 3B 80 01 80 07  00 25 02 00 10 1C 80 00  ..$;.....%......
+0BD0: 68 0C 24 3C 80 05 80 01  80 25 02 00 10 01 80 00  h.$<.....%......
+0BE0: 57 0C 45 21 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  W.E!.........fdo
+0BF0: 31 01 80 55 21 80 F8 FF  FF 7F F8 FF FF 7F 66 64  1..U!.........fd
+0C00: 6F 31 5C 00 3D 80 5C 01  3D 80 52 2A 80 F8 FF FF  o1\.=.\.=.R*....
+0C10: 7F F8 FF FF 7F 73 30 30  35 78 38 01 80 46 00 1C  .....s005x8..F..
+0C20: 2B 80 45 21 80 F8 FF FF  7F F8 FF FF 7F 66 64 69  +.E!.........fdi
+0C30: 30 01 80 55 21 80 F8 FF  FF 7F F8 FF FF 7F 66 64  0..U!.........fd
+0C40: 69 30 1C 2B 80 1E F0 FF  FF 7F 03 03 10 8B 7F 1D  i0.+............
+0C50: 3E 80 23 21 01 65 0C 02  00 10 05 80 00 65 0C 01  >.#!.e.......e..
+0C60: BE 0A 01 65 0C 01 68 0C  3C 07 00 00 10 05 80 40  ...e..h.<......@
+0C70: 1C 80 1D 80 01 10 03 80  40 01 80 03 80 01 10 00  ........@.......
+0C80: 10 0B 04 00 43 00 43 01  3E 07 10 0C 80 C8 0E BB  ....C.C.>.......
+0C90: 21 80 93 62 0E 01 93 62  0E 01 6D 61 72 31 01 80  !..b...b..mar1..
+0CA0: 3E 07 10 04 80 BD 0D 1C  2B 80 AD 00 3F 80 7E 62  >.......+...?.~b
+0CB0: 0E 01 7E 62 0E 01 AD 00  3F 80 7F 62 0E 01 7F 62  ..~b....?..b...b
+0CC0: 0E 01 AD 00 3F 80 80 62  0E 01 80 62 0E 01 AD 00  ....?..b...b....
+0CD0: 3F 80 81 62 0E 01 81 62  0E 01 27 80 7A 62 0E 01  ?..b...b..'.zb..
+0CE0: 02 27 80 7B 62 0E 01 02  27 80 7C 62 0E 01 03 27  .'.{b...'.|b...'
+0CF0: 80 7D 62 0E 01 02 27 80  82 62 0E 01 02 29 80 83  .}b...'..b...)..
+0D00: 62 0E 01 02 1C 29 80 45  21 80 F8 FF FF 7F F8 FF  b....).E!.......
+0D10: FF 7F 66 64 6F 31 01 80  55 21 80 F8 FF FF 7F F8  ..fdo1..U!......
+0D20: FF FF 7F 66 64 6F 31 5C  00 3D 80 5C 01 3D 80 52  ...fdo1\.=.\.=.R
+0D30: 2A 80 F8 FF FF 7F F8 FF  FF 7F 73 30 30 35 78 38  *.........s005x8
+0D40: 01 80 46 00 1C 2B 80 45  21 80 F8 FF FF 7F F8 FF  ..F..+.E!.......
+0D50: FF 7F 66 64 69 30 01 80  55 21 80 F8 FF FF 7F F8  ..fdi0..U!......
+0D60: FF FF 7F 66 64 69 30 1C  2B 80 1E F0 FF FF 7F 3E  ...fdi0.+......>
+0D70: 07 10 01 80 B6 0D 03 03  10 8B 7F 1D 40 80 23 3E  ............@.#>
+0D80: 07 10 05 80 89 0D 01 B3  0D 41 05 80 03 80 07 10  .........A......
+0D90: 00 00 02 00 00 06 80 00  A1 0D 1D 41 80 23 01 AA  ...........A.#..
+0DA0: 0D 03 03 10 42 80 1D 43  80 23 03 03 10 42 80 1D  ....B..C.#...B..
+0DB0: 44 80 23 01 BA 0D 1D 45  80 23 01 C5 0E 13 00 00  D.#....E.#......
+0DC0: 08 80 13 01 00 02 80 07  01 00 09 80 02 00 00 01  ................
+0DD0: 80 80 E3 0D 6E 7A 62 0E  01 01 00 99 7A 62 0E 01  ....nzb.....zb..
+0DE0: 01 BF 0E 02 00 00 05 80  80 FA 0D 6E 7B 62 0E 01  ...........n{b..
+0DF0: 01 00 99 7B 62 0E 01 01  BF 0E 02 00 00 02 80 80  ...{b...........
+0E00: 11 0E 6E 7C 62 0E 01 01  00 99 7C 62 0E 01 01 BF  ..n|b.....|b....
+0E10: 0E 02 00 00 03 80 80 28  0E 6E 7D 62 0E 01 01 00  .......(.n}b....
+0E20: 99 7D 62 0E 01 01 BF 0E  02 00 00 0C 80 80 3F 0E  .}b...........?.
+0E30: 6E 7E 62 0E 01 01 00 99  7E 62 0E 01 01 BF 0E 02  n~b.....~b......
+0E40: 00 00 04 80 80 56 0E 6E  7F 62 0E 01 01 00 99 7F  .....V.n.b......
+0E50: 62 0E 01 01 BF 0E 02 00  00 06 80 80 6D 0E 6E 80  b...........m.n.
+0E60: 62 0E 01 01 00 99 80 62  0E 01 01 BF 0E 02 00 00  b......b........
+0E70: 2E 80 80 84 0E 6E 81 62  0E 01 01 00 99 81 62 0E  .....n.b......b.
+0E80: 01 01 BF 0E 02 00 00 07  80 80 9B 0E 6E 82 62 0E  ............n.b.
+0E90: 01 01 00 99 82 62 0E 01  01 BF 0E 02 00 00 08 80  .....b..........
+0EA0: 80 BF 0E 02 01 00 35 80  00 B0 0E 03 01 00 0A 80  ......5.........
+0EB0: 6E 83 62 0E 01 01 00 99  83 62 0E 01 01 BF 0E 1C  n.b......b......
+0EC0: 33 80 01 BE 0A 01 38 10  BB 21 80 93 62 0E 01 93  3.....8..!..b...
+0ED0: 62 0E 01 62 61 74 31 01  80 13 00 00 08 80 03 01  b..bat1.........
+0EE0: 00 46 80 02 00 00 01 80  80 FA 0E 6E 7A 62 0E 01  .F.........nzb..
+0EF0: 01 00 99 7A 62 0E 01 01  C9 0F 02 00 00 05 80 80  ...zb...........
+0F00: 11 0F 6E 7B 62 0E 01 01  00 99 7B 62 0E 01 01 C9  ..n{b.....{b....
+0F10: 0F 02 00 00 02 80 80 28  0F 6E 7C 62 0E 01 01 00  .......(.n|b....
+0F20: 99 7C 62 0E 01 01 C9 0F  02 00 00 03 80 80 3F 0F  .|b...........?.
+0F30: 6E 7D 62 0E 01 01 00 99  7D 62 0E 01 01 C9 0F 02  n}b.....}b......
+0F40: 00 00 0C 80 80 56 0F 6E  7E 62 0E 01 01 00 99 7E  .....V.n~b.....~
+0F50: 62 0E 01 01 C9 0F 02 00  00 04 80 80 6D 0F 6E 7F  b...........m.n.
+0F60: 62 0E 01 01 00 99 7F 62  0E 01 01 C9 0F 02 00 00  b......b........
+0F70: 06 80 80 84 0F 6E 80 62  0E 01 01 00 99 80 62 0E  .....n.b......b.
+0F80: 01 01 C9 0F 02 00 00 2E  80 80 9B 0F 6E 81 62 0E  ............n.b.
+0F90: 01 01 00 99 81 62 0E 01  01 C9 0F 02 00 00 07 80  .....b..........
+0FA0: 80 B2 0F 6E 82 62 0E 01  01 00 99 82 62 0E 01 01  ...n.b......b...
+0FB0: C9 0F 02 00 00 08 80 80  C9 0F 6E 83 62 0E 01 01  ..........n.b...
+0FC0: 00 99 83 62 0E 01 01 C9  0F 1C 33 80 45 21 80 F8  ...b......3.E!..
+0FD0: FF FF 7F F8 FF FF 7F 66  64 6F 31 01 80 55 21 80  .......fdo1..U!.
+0FE0: F8 FF FF 7F F8 FF FF 7F  66 64 6F 31 5C 00 3D 80  ........fdo1\.=.
+0FF0: 5C 01 3D 80 52 2A 80 F8  FF FF 7F F8 FF FF 7F 73  \.=.R*.........s
+1000: 30 30 35 78 38 01 80 46  00 1C 2B 80 45 21 80 F8  005x8..F..+.E!..
+1010: FF FF 7F F8 FF FF 7F 66  64 69 30 01 80 55 21 80  .......fdi0..U!.
+1020: F8 FF FF 7F F8 FF FF 7F  66 64 69 30 1C 2B 80 1E  ........fdi0.+..
+1030: F0 FF FF 7F 1D 47 80 23  1B 27 80 8A 62 0E 01 03  .....G.#.'..b...
+1040: 27 80 8B 62 0E 01 03 27  80 8C 62 0E 01 03 27 80  '..b...'..b...'.
+1050: 8D 62 0E 01 03 27 80 8E  62 0E 01 03 27 80 8F 62  .b...'..b...'..b
+1060: 0E 01 03 27 80 90 62 0E  01 03 27 80 91 62 0E 01  ...'..b...'..b..
+1070: 03 02 03 00 02 80 00 19  11 3E 19 00 01 80 87 10  .........>......
+1080: 28 80 83 62 0E 01 03 3E  19 00 02 80 95 10 28 80  (..b...>......(.
+1090: 7B 62 0E 01 03 3E 19 00  03 80 A6 10 79 02 7A 62  {b...>......y.zb
+10A0: 0E 01 48 80 49 80 3E 19  00 0C 80 D7 10 27 80 84  ..H.I.>......'..
+10B0: 62 0E 01 02 27 80 85 62  0E 01 02 27 80 86 62 0E  b...'..b...'..b.
+10C0: 01 02 27 80 87 62 0E 01  02 27 80 88 62 0E 01 02  ..'..b...'..b...
+10D0: 27 80 89 62 0E 01 02 3E  19 00 07 80 E5 10 28 80  '..b...>......(.
+10E0: 7C 62 0E 01 04 3E 19 00  08 80 F3 10 28 80 7D 62  |b...>......(.}b
+10F0: 0E 01 03 3E 19 00 0F 80  08 11 27 80 7E 62 0E 01  ...>......'.~b..
+1100: 02 27 80 7F 62 0E 01 02  3E 19 00 0A 80 16 11 28  .'..b...>......(
+1110: 80 80 62 0E 01 02 01 7E  11 28 80 83 62 0E 01 04  ..b....~.(..b...
+1120: 28 80 7B 62 0E 01 04 79  02 7A 62 0E 01 48 80 4A  (.{b...y.zb..H.J
+1130: 80 27 80 84 62 0E 01 03  27 80 85 62 0E 01 03 27  .'..b...'..b...'
+1140: 80 86 62 0E 01 03 27 80  87 62 0E 01 03 27 80 88  ..b...'..b...'..
+1150: 62 0E 01 03 27 80 89 62  0E 01 03 28 80 7C 62 0E  b...'..b...(.|b.
+1160: 01 05 28 80 7D 62 0E 01  04 27 80 7E 62 0E 01 03  ..(.}b...'.~b...
+1170: 27 80 7F 62 0E 01 03 28  80 80 62 0E 01 03 02 03  '..b...(..b.....
+1180: 00 03 80 00 97 11 28 80  80 62 0E 01 04 28 80 81  ......(..b...(..
+1190: 62 0E 01 05 01 9E 11 28  80 81 62 0E 01 04 80 7A  b......(..b....z
+11A0: 62 0E 01 80 7B 62 0E 01  80 7C 62 0E 01 80 7D 62  b...{b...|b...}b
+11B0: 0E 01 80 7E 62 0E 01 80  7F 62 0E 01 80 80 62 0E  ...~b....b....b.
+11C0: 01 80 82 62 0E 01 80 83  62 0E 01 1B 13 00 00 04  ...b....b.......
+11D0: 80 13 01 00 04 80 02 00  00 01 00 01 2D 12 03 10  ............-...
+11E0: 00 00 00 14 10 00 03 80  03 11 00 10 00 07 11 00  ................
+11F0: 02 80 41 10 00 11 00 0F  00 00 00 03 12 00 01 00  ..A.............
+1200: 14 12 00 03 80 03 13 00  12 00 07 13 00 02 80 41  ...............A
+1210: 12 00 13 00 0F 00 01 00  40 10 00 11 00 0F 00 01  ........@.......
+1220: 00 40 12 00 13 00 0F 00  00 00 01 30 12 01 CC 11  .@.........0....
+1230: 1B 06 04 00 06 05 00 02  04 00 06 80 03 B3 12 3E  ...............>
+1240: 16 00 04 00 AD 12 03 00  00 04 00 14 00 00 24 80  ..............$.
+1250: 07 00 00 25 80 02 04 00  02 80 02 62 12 07 00 00  ...%.......b....
+1260: 26 80 02 05 00 01 80 80  7A 12 BA 8D 62 0E 01 27  &.......z...b..'
+1270: 80 00 00 31 80 01 80 01  AA 12 02 05 00 05 80 80  ...1............
+1280: 92 12 BA 8E 62 0E 01 27  80 00 00 31 80 01 80 01  ....b..'...1....
+1290: AA 12 02 05 00 02 80 80  AA 12 BA 8F 62 0E 01 27  ............b..'
+12A0: 80 00 00 31 80 01 80 01  AA 12 0B 05 00 0B 04 00  ...1............
+12B0: 01 37 12 1B                                       .7..            
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
+  1: 0x0006 [0x03] ExtData[1]->WorkLocal[9] = 4294967295*
+  2: 0x000B [0x03] ExtData[1]->WorkLocal[10] = 4294967295*
+  3: 0x0010 [0x03] ExtData[1]->WorkLocal[11] = 4294967295*
+  4: 0x0015 [0x03] ExtData[1]->WorkLocal[12] = 4294967295*
+  5: 0x001A [0x06] ExtData[1]->WorkLocal[3] = 0
+  6: 0x001D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=ExtData[1]->WorkLocal[15], source=0*)
+  7: 0x0026 [0x40] SET_BIT_WORK_RANGE(start_bit=3*, end_bit=5*, target=ExtData[1]->WorkLocal[15], source=1*)
+  8: 0x002F [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=8*, target=ExtData[1]->WorkLocal[15], source=2*)
+  9: 0x0038 [0x40] SET_BIT_WORK_RANGE(start_bit=9*, end_bit=11*, target=ExtData[1]->WorkLocal[15], source=3*)
+ 10: 0x0041 [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=14*, target=ExtData[1]->WorkLocal[15], source=4*)
+ 11: 0x004A [0x40] SET_BIT_WORK_RANGE(start_bit=15*, end_bit=17*, target=ExtData[1]->WorkLocal[15], source=5*)
+ 12: 0x0053 [0x02] IF !(ExtData[1]->WorkLocal[3] >= 10*) GOTO 0x0064
+ 13: 0x005B [0x1A] CALL_SUBROUTINE(address=0x11CC)
+ 14: 0x005E [0x0B] ExtData[1]->WorkLocal[3]++
+ 15: 0x0061 [0x01] GOTO 0x0053
+ 16: 0x0064 [0x06] ExtData[1]->WorkLocal[3] = 0
+ 17: 0x0067 [0x06] ExtData[1]->WorkLocal[22] = 0
+
+SUBROUTINE_006A:
+ 18: 0x006A [0x02] IF !(ExtData[1]->WorkLocal[3] >= 3*) GOTO 0x0091
+
+SUBROUTINE_0072:
+ 19: 0x0072 [0x13] ExtData[1]->WorkLocal[0] = rand() % 5*
+ 20: 0x0077 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit ExtData[1]->WorkLocal[0]) GOTO 0x0084
+ 21: 0x007E [0x01] GOTO 0x0072
+
+SUBROUTINE_008B:
+ 22: 0x008B [0x0B] ExtData[1]->WorkLocal[3]++
+ 23: 0x008E [0x01] GOTO 0x006A
+ 24: 0x0091 [0x13] ExtData[1]->WorkLocal[0] = rand() % 2*
+ 25: 0x0096 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00A6
+ 26: 0x009E [0x03] ExtData[1]->WorkLocal[23] = 0*
+ 27: 0x00A3 [0x01] GOTO 0x00C6
+ 28: 0x00A6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00B6
+ 29: 0x00AE [0x03] ExtData[1]->WorkLocal[23] = 1*
+ 30: 0x00B3 [0x01] GOTO 0x00C6
+ 31: 0x00B6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00C6
+ 32: 0x00BE [0x03] ExtData[1]->WorkLocal[23] = 3*
+ 33: 0x00C3 [0x01] GOTO 0x00C6
+
+SUBROUTINE_00C6:
+ 34: 0x00C6 [0x13] ExtData[1]->WorkLocal[24] = rand() % 1*
+ 35: 0x00CB [0x3E] IF !(Work_Zone[2] bit 0*) GOTO 0x00D8
+ 36: 0x00D2 [0x05] ExtData[1]->WorkLocal[13] = 1
+ 37: 0x00D5 [0x01] GOTO 0x00DB
+ 38: 0x00D8 [0x06] ExtData[1]->WorkLocal[13] = 0
+
+SUBROUTINE_00DB:
+ 39: 0x00DB [0x3E] IF !(Work_Zone[2] bit 1*) GOTO 0x00E8
+ 40: 0x00E2 [0x05] ExtData[1]->WorkLocal[14] = 1
+ 41: 0x00E5 [0x01] GOTO 0x00EB
+ 42: 0x00E8 [0x06] ExtData[1]->WorkLocal[14] = 0
+
+SUBROUTINE_00EB:
+ 43: 0x00EB [0x1E] EventEntity looks at LocalPlayer and starts talking
+ 44: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15147*)
+    → "Merry Starlight! Step right up and play "Find the Difference"!"
+ 45: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 46: 0x00F4 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0105
+ 47: 0x00FC [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
+ 48: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=15148*)
+    → "Those are quite the mittens you've got there! I have the utmost confidence that someone of your exquisite tastes can tackle an exclusive, more challenging version of my parlor trick."
+ 49: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0105:
+ 50: 0x0105 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x011A
+ 51: 0x010D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=2*, condition_work_offset=1*)
+ 52: 0x0114 [0x06] Work_Zone[2] = 0
+ 53: 0x0117 [0x01] GOTO 0x0124
+ 54: 0x011A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=2*, condition_work_offset=1*)
+ 55: 0x0121 [0x05] Work_Zone[2] = 1
+
+SUBROUTINE_0124:
+ 56: 0x0124 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0136
+ 57: 0x012C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=3*, condition_work_offset=1*)
+ 58: 0x0133 [0x01] GOTO 0x013D
+ 59: 0x0136 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=3*, condition_work_offset=1*)
+
+SUBROUTINE_013D:
+ 60: 0x013D [0x24] CREATE_DIALOG(message_id=15149*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+    → "What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my plans./Not interested in playing, thank you.]"
+ 61: 0x0144 [0x25] WAIT_DIALOG_SELECT()
+ 62: 0x0145 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016E
+ 63: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=15150*)
+    → "In this game, I shall show you the same scene twice. The second time, however, there will be slight differences from the first. Your task is to discern what those differences are."
+ 64: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 65: 0x0151 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0164
+ 66: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=15152*)
+    → "In the advanced version, the number of differences increases to five. Take not this challenge lightly!"
+ 67: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 68: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=15153*)
+    → "Remember--espying them all spells victory, while even the most meager of mistakes ensures your defeat."
+ 69: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 70: 0x0161 [0x01] GOTO 0x0168
+ 71: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=15151*)
+    → "Make even one mistake, however, and you shall inhale the sour stench of failure."
+ 72: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0168:
+ 73: 0x0168 [0x01] GOTO 0x0105
+
+SUBROUTINE_01DC:
+ 74: 0x01DC [0x01] GOTO 0x01DF
+
+SUBROUTINE_01DF:
+ 75: 0x01DF [0x21] END_EVENT
+ 76: 0x01E0 [0x00] END_REQSTACK()
+
+SUBROUTINE_01E1:
+ 77: 0x01E1 [0x03] Work_Zone[3] = 10*
+ 78: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15154*)
+    → "One play will set you back $1 gil. Do you still wish to try your luck?"
+ 79: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 80: 0x01EA [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=Work_Zone[1], source=1*)
+ 81: 0x01F3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 82: 0x01F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 83: 0x01F7 [0x24] CREATE_DIALOG(message_id=15155*, default_option=1*, option_flags=0*)
+    → "Participate in this game? (You currently have $1 gil.) [Let's get this started!/Maybe another time.]"
+ 84: 0x01FE [0x25] WAIT_DIALOG_SELECT()
+ 85: 0x01FF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x020D
+ 86: 0x0207 [0x01] GOTO 0x0105
+
+SUBROUTINE_020D:
+ 87: 0x020D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 88: 0x020E [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=Work_Zone[1], source=2*)
+ 89: 0x0217 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 90: 0x0219 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 91: 0x021B [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0233
+ 92: 0x0223 [0x41] ExtData[1]->WorkLocal[25] = Work_Zone[5] (bits 0*-15*)
+ 93: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=15156*)
+    → "Marvelous!"
+ 94: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 95: 0x0230 [0x1A] CALL_SUBROUTINE(address=0x0234)
+ 96: 0x0233 [0x1B] RETURN
+
+SUBROUTINE_0234:
+ 97: 0x0234 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 98: 0x0245 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+ 99: 0x0254 [0x46] CAMERA_CONTROL: Disable user control
+100: 0x0256 [0x38] SET_CLIENT_EVENT_MODE(mode=27*)
+101: 0x0259 [0x77] SET_EVENT_TIME_WEATHER(hour=12*, weather=0*)
+102: 0x025E [0x75] LOAD_ROOM(Load indoor room, room=335*)
+103: 0x0262 [0x75] LOAD_ROOM(No action)
+104: 0x0264 [0x2F] Unnamed NPC (ID: 17719930/0x010E627A)->Render.Flags0 &= ~0x80000 // Bit 19
+105: 0x026A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719930/0x010E627A)
+106: 0x0270 [0x2F] Unnamed NPC (ID: 17719931/0x010E627B)->Render.Flags0 &= ~0x80000 // Bit 19
+107: 0x0276 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719931/0x010E627B)
+108: 0x027C [0x2F] Unnamed NPC (ID: 17719932/0x010E627C)->Render.Flags0 &= ~0x80000 // Bit 19
+109: 0x0282 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719932/0x010E627C)
+110: 0x0288 [0x2F] Unnamed NPC (ID: 17719933/0x010E627D)->Render.Flags0 &= ~0x80000 // Bit 19
+111: 0x028E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719933/0x010E627D)
+112: 0x0294 [0x2F] Unnamed NPC (ID: 17719934/0x010E627E)->Render.Flags0 &= ~0x80000 // Bit 19
+113: 0x029A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719934/0x010E627E)
+114: 0x02A0 [0x2F] Unnamed NPC (ID: 17719935/0x010E627F)->Render.Flags0 &= ~0x80000 // Bit 19
+115: 0x02A6 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719935/0x010E627F)
+116: 0x02AC [0x2F] Unnamed NPC (ID: 17719936/0x010E6280)->Render.Flags0 &= ~0x80000 // Bit 19
+117: 0x02B2 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719936/0x010E6280)
+118: 0x02B8 [0x2F] Unnamed NPC (ID: 17719937/0x010E6281)->Render.Flags0 &= ~0x80000 // Bit 19
+119: 0x02BE [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719937/0x010E6281)
+120: 0x02C4 [0x2F] Unnamed NPC (ID: 17719938/0x010E6282)->Render.Flags0 &= ~0x80000 // Bit 19
+121: 0x02CA [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719938/0x010E6282)
+122: 0x02D0 [0x2F] Unnamed NPC (ID: 17719939/0x010E6283)->Render.Flags0 &= ~0x80000 // Bit 19
+123: 0x02D6 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719939/0x010E6283)
+124: 0x02DC [0x2F] Unnamed NPC (ID: 17719940/0x010E6284)->Render.Flags0 &= ~0x80000 // Bit 19
+125: 0x02E2 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719940/0x010E6284)
+126: 0x02E8 [0x2F] Unnamed NPC (ID: 17719941/0x010E6285)->Render.Flags0 &= ~0x80000 // Bit 19
+127: 0x02EE [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719941/0x010E6285)
+128: 0x02F4 [0x2F] Unnamed NPC (ID: 17719942/0x010E6286)->Render.Flags0 &= ~0x80000 // Bit 19
+129: 0x02FA [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719942/0x010E6286)
+130: 0x0300 [0x2F] Unnamed NPC (ID: 17719943/0x010E6287)->Render.Flags0 &= ~0x80000 // Bit 19
+131: 0x0306 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719943/0x010E6287)
+132: 0x030C [0x2F] Unnamed NPC (ID: 17719944/0x010E6288)->Render.Flags0 &= ~0x80000 // Bit 19
+133: 0x0312 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719944/0x010E6288)
+134: 0x0318 [0x2F] Unnamed NPC (ID: 17719945/0x010E6289)->Render.Flags0 &= ~0x80000 // Bit 19
+135: 0x031E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719945/0x010E6289)
+136: 0x0324 [0x2F] Unnamed NPC (ID: 17719946/0x010E628A)->Render.Flags0 &= ~0x80000 // Bit 19
+137: 0x032A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719946/0x010E628A)
+138: 0x0330 [0x2F] Unnamed NPC (ID: 17719947/0x010E628B)->Render.Flags0 &= ~0x80000 // Bit 19
+139: 0x0336 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719947/0x010E628B)
+140: 0x033C [0x2F] Unnamed NPC (ID: 17719948/0x010E628C)->Render.Flags0 &= ~0x80000 // Bit 19
+141: 0x0342 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719948/0x010E628C)
+142: 0x0348 [0x2F] Unnamed NPC (ID: 17719949/0x010E628D)->Render.Flags0 &= ~0x80000 // Bit 19
+143: 0x034E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719949/0x010E628D)
+144: 0x0354 [0x2F] Unnamed NPC (ID: 17719950/0x010E628E)->Render.Flags0 &= ~0x80000 // Bit 19
+145: 0x035A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719950/0x010E628E)
+146: 0x0360 [0x2F] Unnamed NPC (ID: 17719951/0x010E628F)->Render.Flags0 &= ~0x80000 // Bit 19
+147: 0x0366 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719951/0x010E628F)
+148: 0x036C [0x2F] Unnamed NPC (ID: 17719952/0x010E6290)->Render.Flags0 &= ~0x80000 // Bit 19
+149: 0x0372 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719952/0x010E6290)
+150: 0x0378 [0x2F] Unnamed NPC (ID: 17719953/0x010E6291)->Render.Flags0 &= ~0x80000 // Bit 19
+151: 0x037E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719953/0x010E6291)
+152: 0x0384 [0x06] ExtData[1]->WorkLocal[21] = 0
+153: 0x0387 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 5*) GOTO 0x03E9
+154: 0x038E [0x2F] Unnamed NPC (ID: 17719954/0x010E6292)->Render.Flags0 &= ~0x80000 // Bit 19
+
+SUBROUTINE_0394:
+155: 0x0394 [0x13] ExtData[1]->WorkLocal[0] = rand() % 5*
+156: 0x0399 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit ExtData[1]->WorkLocal[0]) GOTO 0x03A6
+157: 0x03A0 [0x01] GOTO 0x0394
+
+SUBROUTINE_03D6:
+158: 0x03D6 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17719954/0x010E6292)
+159: 0x03DC [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "kesu" with entities [Unnamed NPC (ID: 17719954/0x010E6292), Unnamed NPC (ID: 17719954/0x010E6292)]
+160: 0x03E9 [0x2F] Unnamed NPC (ID: 17719955/0x010E6293)->Render.Flags0 &= ~0x80000 // Bit 19
+161: 0x03EF [0x79] Unnamed NPC (ID: 17719932/0x010E627C) looks at Unnamed NPC (ID: 17719955/0x010E6293) (Basic look)
+162: 0x03F9 [0x79] Unnamed NPC (ID: 17719933/0x010E627D) looks at Unnamed NPC (ID: 17719955/0x010E6293) (Basic look)
+163: 0x0403 [0x79] Unnamed NPC (ID: 17719938/0x010E6282) looks at Unnamed NPC (ID: 17719955/0x010E6293) (Basic look)
+164: 0x040D [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x041B
+165: 0x0415 [0x1C] WAIT(180* ticks)
+166: 0x0418 [0x01] GOTO 0x041B
+
+SUBROUTINE_041B:
+167: 0x041B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[102*, 0*]
+168: 0x042C [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
+169: 0x0430 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
+170: 0x0434 [0x03] ExtData[1]->WorkLocal[3] = 1*
+
+SUBROUTINE_0439:
+171: 0x0439 [0x02] IF !(ExtData[1]->WorkLocal[3] > 2*) GOTO 0x0A37
+172: 0x0441 [0x1A] CALL_SUBROUTINE(address=0x1039)
+173: 0x0444 [0x1C] WAIT(60* ticks)
+174: 0x0447 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+175: 0x0458 [0x1C] WAIT(180* ticks)
+176: 0x045B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[24]
+177: 0x0460 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 11*) GOTO 0x0474
+178: 0x0467 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0474
+179: 0x046F [0x0F] Work_Zone[2] ^= 1*
+180: 0x0474 [0x48] [System] [15159*]:
+    → "Here we go![/!!]"
+181: 0x0477 [0x23] WAIT_FOR_DIALOG_INTERACTION
+182: 0x0478 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 15*) GOTO 0x048A
+183: 0x047F [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x048A
+184: 0x0487 [0x1C] WAIT(180* ticks)
+185: 0x048A [0x1C] WAIT(180* ticks)
+186: 0x048D [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719955/0x010E6293), tag_num=0x02)
+187: 0x0494 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719930/0x010E627A), Unnamed NPC (ID: 17719930/0x010E627A)]
+188: 0x04A1 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719931/0x010E627B), Unnamed NPC (ID: 17719931/0x010E627B)]
+189: 0x04AE [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719932/0x010E627C), Unnamed NPC (ID: 17719932/0x010E627C)]
+190: 0x04BB [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719933/0x010E627D), Unnamed NPC (ID: 17719933/0x010E627D)]
+191: 0x04C8 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719934/0x010E627E), Unnamed NPC (ID: 17719934/0x010E627E)]
+192: 0x04D5 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719935/0x010E627F), Unnamed NPC (ID: 17719935/0x010E627F)]
+193: 0x04E2 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc01" with entities [Unnamed NPC (ID: 17719936/0x010E6280), Unnamed NPC (ID: 17719936/0x010E6280)]
+194: 0x04EF [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc02" with entities [Unnamed NPC (ID: 17719937/0x010E6281), Unnamed NPC (ID: 17719937/0x010E6281)]
+195: 0x04FC [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719938/0x010E6282), Unnamed NPC (ID: 17719938/0x010E6282)]
+196: 0x0509 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lc00" with entities [Unnamed NPC (ID: 17719939/0x010E6283), Unnamed NPC (ID: 17719939/0x010E6283)]
+197: 0x0516 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719443/0x010E6093), tag_num=0x01)
+198: 0x051D [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719946/0x010E628A), tag_num=0x02)
+199: 0x0524 [0x1C] WAIT(30* ticks)
+200: 0x0527 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719947/0x010E628B), tag_num=0x02)
+201: 0x052E [0x1C] WAIT(30* ticks)
+202: 0x0531 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719948/0x010E628C), tag_num=0x02)
+203: 0x0538 [0x1C] WAIT(30* ticks)
+204: 0x053B [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719949/0x010E628D), tag_num=0x02)
+205: 0x0542 [0x1C] WAIT(30* ticks)
+206: 0x0545 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719476/0x010E60B4), tag_num=0x02)
+207: 0x054C [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719950/0x010E628E), tag_num=0x02)
+208: 0x0553 [0x1C] WAIT(30* ticks)
+209: 0x0556 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719951/0x010E628F), tag_num=0x02)
+210: 0x055D [0x1C] WAIT(30* ticks)
+211: 0x0560 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719952/0x010E6290), tag_num=0x02)
+212: 0x0567 [0x1C] WAIT(30* ticks)
+213: 0x056A [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719953/0x010E6291), tag_num=0x02)
+214: 0x0571 [0x1C] WAIT(30* ticks)
+215: 0x0574 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 14*) GOTO 0x05B3
+216: 0x057B [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x05B3
+217: 0x0583 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x0593
+218: 0x058B [0x03] ExtData[1]->WorkLocal[23] = 1*
+219: 0x0590 [0x01] GOTO 0x05B3
+220: 0x0593 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x05A3
+221: 0x059B [0x03] ExtData[1]->WorkLocal[23] = 3*
+222: 0x05A0 [0x01] GOTO 0x05B3
+223: 0x05A3 [0x02] IF !(ExtData[1]->WorkLocal[23] == 3*) GOTO 0x05B3
+224: 0x05AB [0x03] ExtData[1]->WorkLocal[23] = 7*
+225: 0x05B0 [0x01] GOTO 0x05B3
+
+SUBROUTINE_05B3:
+226: 0x05B3 [0x06] ExtData[1]->WorkLocal[4] = 0
+
+SUBROUTINE_05B6:
+227: 0x05B6 [0x02] IF !(ExtData[1]->WorkLocal[4] >= 3*) GOTO 0x0643
+228: 0x05BE [0x3E] IF !(ExtData[1]->WorkLocal[23] bit ExtData[1]->WorkLocal[4]) GOTO 0x063D
+229: 0x05C5 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x05ED
+230: 0x05CD [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719946/0x010E628A), pos_x=-296.000*, pos_z=103.000*, pos_y=-9.200*, direction=0.0°*)
+231: 0x05DA [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17719946/0x010E628A)
+232: 0x05E0 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719946/0x010E628A), tag_num=0x02)
+233: 0x05E7 [0x1C] WAIT(30* ticks)
+234: 0x05EA [0x01] GOTO 0x063D
+235: 0x05ED [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0615
+236: 0x05F5 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719947/0x010E628B), pos_x=-296.000*, pos_z=103.000*, pos_y=-9.200*, direction=0.0°*)
+237: 0x0602 [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17719947/0x010E628B)
+238: 0x0608 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719947/0x010E628B), tag_num=0x02)
+239: 0x060F [0x1C] WAIT(30* ticks)
+240: 0x0612 [0x01] GOTO 0x063D
+241: 0x0615 [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x063D
+242: 0x061D [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719948/0x010E628C), pos_x=-296.000*, pos_z=103.000*, pos_y=-9.200*, direction=0.0°*)
+243: 0x062A [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17719948/0x010E628C)
+244: 0x0630 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719948/0x010E628C), tag_num=0x02)
+245: 0x0637 [0x1C] WAIT(30* ticks)
+246: 0x063A [0x01] GOTO 0x063D
+
+SUBROUTINE_063D:
+247: 0x063D [0x0B] ExtData[1]->WorkLocal[4]++
+248: 0x0640 [0x01] GOTO 0x05B6
+249: 0x0643 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x0651
+250: 0x064B [0x1C] WAIT(90* ticks)
+251: 0x064E [0x01] GOTO 0x0678
+252: 0x0651 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x065F
+253: 0x0659 [0x1C] WAIT(60* ticks)
+254: 0x065C [0x01] GOTO 0x0678
+255: 0x065F [0x02] IF !(ExtData[1]->WorkLocal[23] == 3*) GOTO 0x066D
+256: 0x0667 [0x1C] WAIT(30* ticks)
+257: 0x066A [0x01] GOTO 0x0678
+258: 0x066D [0x02] IF !(ExtData[1]->WorkLocal[23] == 7*) GOTO 0x0678
+259: 0x0675 [0x01] GOTO 0x0678
+
+SUBROUTINE_0678:
+260: 0x0678 [0x1C] WAIT(120* ticks)
+261: 0x067B [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 6*) GOTO 0x075C
+262: 0x0682 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0690
+263: 0x068A [0x1A] CALL_SUBROUTINE(address=0x1231)
+264: 0x068D [0x01] GOTO 0x0759
+265: 0x0690 [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[22]
+266: 0x0695 [0x0E] ExtData[1]->WorkLocal[0] |= ExtData[1]->WorkLocal[21]
+
+SUBROUTINE_069A:
+267: 0x069A [0x13] ExtData[1]->WorkLocal[4] = rand() % 5*
+268: 0x069F [0x3E] IF !(ExtData[1]->WorkLocal[22] bit ExtData[1]->WorkLocal[4]) GOTO 0x06E4
+
+SUBROUTINE_06A6:
+269: 0x06A6 [0x13] ExtData[1]->WorkLocal[5] = rand() % 5*
+270: 0x06AB [0x3E] IF !(ExtData[1]->WorkLocal[0] bit ExtData[1]->WorkLocal[5]) GOTO 0x06B8
+271: 0x06B2 [0x01] GOTO 0x06A6
+
+SUBROUTINE_06E1:
+272: 0x06E1 [0x01] GOTO 0x06E7
+273: 0x06E4 [0x01] GOTO 0x069A
+
+SUBROUTINE_06E7:
+274: 0x06E7 [0x06] ExtData[1]->WorkLocal[4] = 0
+275: 0x06EA [0x06] ExtData[1]->WorkLocal[6] = 0
+
+SUBROUTINE_06ED:
+276: 0x06ED [0x02] IF !(ExtData[1]->WorkLocal[6] >= 6*) GOTO 0x0759
+277: 0x06F5 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit ExtData[1]->WorkLocal[6]) GOTO 0x0753
+278: 0x06FC [0x02] IF !(ExtData[1]->WorkLocal[6] == ExtData[1]->WorkLocal[5]) GOTO 0x0750
+279: 0x0704 [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[6]
+280: 0x0709 [0x14] ExtData[1]->WorkLocal[0] *= 1200*
+281: 0x070E [0x07] ExtData[1]->WorkLocal[0] += 92000*
+282: 0x0713 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 2*) GOTO 0x0720
+283: 0x071B [0x07] ExtData[1]->WorkLocal[0] += 6000*
+284: 0x0720 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0738
+285: 0x0728 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719950/0x010E628E), pos_x=-291.050*, pos_z=ExtData[1]->WorkLocal[0], pos_y=-9.200*, direction=0.0°*)
+286: 0x0735 [0x01] GOTO 0x0750
+287: 0x0738 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0750
+288: 0x0740 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719951/0x010E628F), pos_x=-291.050*, pos_z=ExtData[1]->WorkLocal[0], pos_y=-9.200*, direction=0.0°*)
+289: 0x074D [0x01] GOTO 0x0750
+
+SUBROUTINE_0750:
+290: 0x0750 [0x0B] ExtData[1]->WorkLocal[4]++
+291: 0x0753 [0x0B] ExtData[1]->WorkLocal[6]++
+292: 0x0756 [0x01] GOTO 0x06ED
+
+SUBROUTINE_0759:
+293: 0x0759 [0x01] GOTO 0x075F
+294: 0x075C [0x1A] CALL_SUBROUTINE(address=0x1231)
+
+SUBROUTINE_075F:
+295: 0x075F [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x076D
+296: 0x0767 [0x1C] WAIT(120* ticks)
+297: 0x076A [0x01] GOTO 0x0770
+298: 0x076D [0x1C] WAIT(210* ticks)
+
+SUBROUTINE_0770:
+299: 0x0770 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719930/0x010E627A), tag_num=0x03)
+300: 0x0777 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls00" with entities [Unnamed NPC (ID: 17719931/0x010E627B), Unnamed NPC (ID: 17719931/0x010E627B)]
+301: 0x0784 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls00" with entities [Unnamed NPC (ID: 17719932/0x010E627C), Unnamed NPC (ID: 17719932/0x010E627C)]
+302: 0x0791 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls00" with entities [Unnamed NPC (ID: 17719933/0x010E627D), Unnamed NPC (ID: 17719933/0x010E627D)]
+303: 0x079E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls00" with entities [Unnamed NPC (ID: 17719934/0x010E627E), Unnamed NPC (ID: 17719934/0x010E627E)]
+304: 0x07AB [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls00" with entities [Unnamed NPC (ID: 17719935/0x010E627F), Unnamed NPC (ID: 17719935/0x010E627F)]
+305: 0x07B8 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls01" with entities [Unnamed NPC (ID: 17719936/0x010E6280), Unnamed NPC (ID: 17719936/0x010E6280)]
+306: 0x07C5 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls02" with entities [Unnamed NPC (ID: 17719937/0x010E6281), Unnamed NPC (ID: 17719937/0x010E6281)]
+307: 0x07D2 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls00" with entities [Unnamed NPC (ID: 17719938/0x010E6282), Unnamed NPC (ID: 17719938/0x010E6282)]
+308: 0x07DF [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ls00" with entities [Unnamed NPC (ID: 17719939/0x010E6283), Unnamed NPC (ID: 17719939/0x010E6283)]
+309: 0x07EC [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 13*) GOTO 0x07F6
+310: 0x07F3 [0x1A] CALL_SUBROUTINE(address=0x11CC)
+311: 0x07F6 [0x06] ExtData[1]->WorkLocal[4] = 0
+
+SUBROUTINE_07F9:
+312: 0x07F9 [0x02] IF !(ExtData[1]->WorkLocal[4] >= 6*) GOTO 0x08B7
+313: 0x0801 [0x03] ExtData[1]->WorkLocal[16] = ExtData[1]->WorkLocal[4]
+314: 0x0806 [0x14] ExtData[1]->WorkLocal[16] *= 3*
+315: 0x080B [0x03] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[16]
+316: 0x0810 [0x07] ExtData[1]->WorkLocal[17] += 2*
+317: 0x0815 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[15] (bits ExtData[1]->WorkLocal[16]-ExtData[1]->WorkLocal[17])
+318: 0x081E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0836
+319: 0x0826 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Unnamed NPC (ID: 17719940/0x010E6284), Unnamed NPC (ID: 17719940/0x010E6284)]
+320: 0x0833 [0x01] GOTO 0x08AE
+321: 0x0836 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x084E
+322: 0x083E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Unnamed NPC (ID: 17719941/0x010E6285), Unnamed NPC (ID: 17719941/0x010E6285)]
+323: 0x084B [0x01] GOTO 0x08AE
+324: 0x084E [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0866
+325: 0x0856 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Unnamed NPC (ID: 17719942/0x010E6286), Unnamed NPC (ID: 17719942/0x010E6286)]
+326: 0x0863 [0x01] GOTO 0x08AE
+327: 0x0866 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x087E
+328: 0x086E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Unnamed NPC (ID: 17719943/0x010E6287), Unnamed NPC (ID: 17719943/0x010E6287)]
+329: 0x087B [0x01] GOTO 0x08AE
+330: 0x087E [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0896
+331: 0x0886 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Unnamed NPC (ID: 17719944/0x010E6288), Unnamed NPC (ID: 17719944/0x010E6288)]
+332: 0x0893 [0x01] GOTO 0x08AE
+333: 0x0896 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x08AE
+334: 0x089E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Unnamed NPC (ID: 17719945/0x010E6289), Unnamed NPC (ID: 17719945/0x010E6289)]
+335: 0x08AB [0x01] GOTO 0x08AE
+
+SUBROUTINE_08AE:
+336: 0x08AE [0x0B] ExtData[1]->WorkLocal[4]++
+337: 0x08B1 [0x1C] WAIT(30* ticks)
+338: 0x08B4 [0x01] GOTO 0x07F9
+339: 0x08B7 [0x1C] WAIT(60* ticks)
+340: 0x08BA [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 5*) GOTO 0x08E7
+341: 0x08C1 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x08E7
+342: 0x08C9 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[20]
+343: 0x08CE [0x03] Work_Zone_1700[6] = 4294958096*
+344: 0x08D3 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719954/0x010E6292), tag_num=0x02)
+345: 0x08DA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "deru" with entities [Unnamed NPC (ID: 17719954/0x010E6292), Unnamed NPC (ID: 17719954/0x010E6292)]
+346: 0x08E7 [0x1C] WAIT(120* ticks)
+347: 0x08EA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Unnamed NPC (ID: 17719940/0x010E6284), Unnamed NPC (ID: 17719940/0x010E6284)]
+348: 0x08F7 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Unnamed NPC (ID: 17719941/0x010E6285), Unnamed NPC (ID: 17719941/0x010E6285)]
+349: 0x0904 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Unnamed NPC (ID: 17719942/0x010E6286), Unnamed NPC (ID: 17719942/0x010E6286)]
+350: 0x0911 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Unnamed NPC (ID: 17719943/0x010E6287), Unnamed NPC (ID: 17719943/0x010E6287)]
+351: 0x091E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Unnamed NPC (ID: 17719944/0x010E6288), Unnamed NPC (ID: 17719944/0x010E6288)]
+352: 0x092B [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Unnamed NPC (ID: 17719945/0x010E6289), Unnamed NPC (ID: 17719945/0x010E6289)]
+353: 0x0938 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 5*) GOTO 0x0965
+354: 0x093F [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0965
+355: 0x0947 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[20]
+356: 0x094C [0x03] Work_Zone_1700[6] = 4294958296*
+357: 0x0951 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719954/0x010E6292), tag_num=0x02)
+358: 0x0958 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "kesu" with entities [Unnamed NPC (ID: 17719954/0x010E6292), Unnamed NPC (ID: 17719954/0x010E6292)]
+359: 0x0965 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 1*) GOTO 0x09A6
+360: 0x096C [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x098D
+361: 0x0974 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wof2" with entities [Unnamed NPC (ID: 17719937/0x010E6281), Unnamed NPC (ID: 17719937/0x010E6281)], work=45*
+362: 0x0983 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719937/0x010E6281), tag_num=0x02)
+363: 0x098A [0x01] GOTO 0x09A3
+364: 0x098D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wof2" with entities [Unnamed NPC (ID: 17719937/0x010E6281), Unnamed NPC (ID: 17719937/0x010E6281)], work=45*
+365: 0x099C [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719937/0x010E6281), tag_num=0x03)
+
+SUBROUTINE_09A3:
+366: 0x09A3 [0x01] GOTO 0x09BC
+367: 0x09A6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wof2" with entities [Unnamed NPC (ID: 17719937/0x010E6281), Unnamed NPC (ID: 17719937/0x010E6281)], work=45*
+368: 0x09B5 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719937/0x010E6281), tag_num=0x02)
+
+SUBROUTINE_09BC:
+369: 0x09BC [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719932/0x010E627C), tag_num=0x02)
+370: 0x09C3 [0x1C] WAIT(120* ticks)
+371: 0x09C6 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 7*) GOTO 0x09FD
+372: 0x09CD [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x09E9
+373: 0x09D5 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719443/0x010E6093), tag_num=0x02)
+374: 0x09DC [0x1C] WAIT(60* ticks)
+375: 0x09DF [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719476/0x010E60B4), tag_num=0x03)
+376: 0x09E6 [0x01] GOTO 0x09FA
+377: 0x09E9 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719476/0x010E60B4), tag_num=0x03)
+378: 0x09F0 [0x1C] WAIT(60* ticks)
+379: 0x09F3 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719443/0x010E6093), tag_num=0x02)
+
+SUBROUTINE_09FA:
+380: 0x09FA [0x01] GOTO 0x0A0E
+381: 0x09FD [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719443/0x010E6093), tag_num=0x02)
+382: 0x0A04 [0x1C] WAIT(60* ticks)
+383: 0x0A07 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Door:Count's Manor (ID: 17719476/0x010E60B4), tag_num=0x03)
+
+SUBROUTINE_0A0E:
+384: 0x0A0E [0x1C] WAIT(300* ticks)
+385: 0x0A11 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+386: 0x0A22 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+387: 0x0A31 [0x0B] ExtData[1]->WorkLocal[3]++
+388: 0x0A34 [0x01] GOTO 0x0439
+389: 0x0A37 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 136*
+390: 0x0A3B [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 136*
+391: 0x0A3F [0x1A] CALL_SUBROUTINE(address=0x1039)
+392: 0x0A42 [0x1C] WAIT(60* ticks)
+393: 0x0A45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+394: 0x0A56 [0x1C] WAIT(60* ticks)
+395: 0x0A59 [0x03] ExtData[1]->WorkLocal[7] = 65535*
+396: 0x0A5E [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[25] (bits 0*-15*)
+397: 0x0A67 [0x0D] ExtData[1]->WorkLocal[7] &= ExtData[1]->WorkLocal[0]
+398: 0x0A6C [0x0F] ExtData[1]->WorkLocal[7] ^= 65535*
+399: 0x0A71 [0x3E] IF !(Work_Zone[7] bit 0*) GOTO 0x0A85
+400: 0x0A78 [0x03] ExtData[1]->WorkLocal[0] = 7*
+401: 0x0A7D [0x03] ExtData[1]->WorkLocal[1] = 15*
+402: 0x0A82 [0x01] GOTO 0x0A8F
+403: 0x0A85 [0x03] ExtData[1]->WorkLocal[0] = 5*
+404: 0x0A8A [0x03] ExtData[1]->WorkLocal[1] = 7*
+
+SUBROUTINE_0A8F:
+405: 0x0A8F [0x06] ExtData[1]->WorkLocal[3] = 0
+
+SUBROUTINE_0A92:
+406: 0x0A92 [0x02] IF !(ExtData[1]->WorkLocal[3] >= ExtData[1]->WorkLocal[0]) GOTO 0x0AB9
+
+SUBROUTINE_0A9A:
+407: 0x0A9A [0x13] ExtData[1]->WorkLocal[2] = rand() % ExtData[1]->WorkLocal[1]
+408: 0x0A9F [0x3E] IF !(ExtData[1]->WorkLocal[7] bit ExtData[1]->WorkLocal[2]) GOTO 0x0AB0
+409: 0x0AA6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=ExtData[1]->WorkLocal[2], condition_work_offset=1*)
+410: 0x0AAD [0x01] GOTO 0x0AB3
+411: 0x0AB0 [0x01] GOTO 0x0A9A
+
+SUBROUTINE_0AB3:
+412: 0x0AB3 [0x0B] ExtData[1]->WorkLocal[3]++
+413: 0x0AB6 [0x01] GOTO 0x0A92
+414: 0x0AB9 [0x03] ExtData[1]->WorkLocal[4] = 1*
+
+SUBROUTINE_0ABE:
+415: 0x0ABE [0x3E] IF !(ExtData[1]->WorkLocal[7] bit 0*) GOTO 0x0AC8
+416: 0x0AC5 [0x01] GOTO 0x0AF1
+417: 0x0AC8 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4294967295*) GOTO 0x0AEC
+418: 0x0AD0 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 0*) GOTO 0x0ADF
+419: 0x0AD7 [0x03] Work_Zone[8] = 0*
+420: 0x0ADC [0x01] GOTO 0x0AE4
+421: 0x0ADF [0x13] Work_Zone[8] = rand() % 5*
+
+SUBROUTINE_0AE4:
+422: 0x0AE4 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[8]
+423: 0x0AE9 [0x01] GOTO 0x0AF1
+424: 0x0AEC [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[8]
+
+SUBROUTINE_0AF1:
+425: 0x0AF1 [0x3E] IF !(ExtData[1]->WorkLocal[7] bit 2*) GOTO 0x0AFB
+426: 0x0AF8 [0x01] GOTO 0x0B24
+427: 0x0AFB [0x02] IF !(ExtData[1]->WorkLocal[9] == 4294967295*) GOTO 0x0B1F
+428: 0x0B03 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 2*) GOTO 0x0B12
+429: 0x0B0A [0x03] Work_Zone[9] = 0*
+430: 0x0B0F [0x01] GOTO 0x0B17
+431: 0x0B12 [0x03] Work_Zone[9] = 1*
+
+SUBROUTINE_0B17:
+432: 0x0B17 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[9]
+433: 0x0B1C [0x01] GOTO 0x0B24
+434: 0x0B1F [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[9]
+
+SUBROUTINE_0B24:
+435: 0x0B24 [0x3E] IF !(ExtData[1]->WorkLocal[7] bit 3*) GOTO 0x0B2E
+436: 0x0B2B [0x01] GOTO 0x0B57
+437: 0x0B2E [0x02] IF !(ExtData[1]->WorkLocal[10] == 4294967295*) GOTO 0x0B52
+438: 0x0B36 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 3*) GOTO 0x0B45
+439: 0x0B3D [0x03] Work_Zone_1700[0] = 0*
+440: 0x0B42 [0x01] GOTO 0x0B4A
+441: 0x0B45 [0x13] Work_Zone_1700[0] = rand() % 5*
+
+SUBROUTINE_0B4A:
+442: 0x0B4A [0x03] ExtData[1]->WorkLocal[10] = Work_Zone_1700[0]
+443: 0x0B4F [0x01] GOTO 0x0B57
+444: 0x0B52 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[10]
+
+SUBROUTINE_0B57:
+445: 0x0B57 [0x3E] IF !(ExtData[1]->WorkLocal[7] bit 8*) GOTO 0x0B61
+446: 0x0B5E [0x01] GOTO 0x0B8A
+447: 0x0B61 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4294967295*) GOTO 0x0B85
+448: 0x0B69 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 8*) GOTO 0x0B78
+449: 0x0B70 [0x03] Work_Zone_1700[1] = 0*
+450: 0x0B75 [0x01] GOTO 0x0B7D
+451: 0x0B78 [0x13] Work_Zone_1700[1] = rand() % 2*
+
+SUBROUTINE_0B7D:
+452: 0x0B7D [0x03] ExtData[1]->WorkLocal[11] = Work_Zone_1700[1]
+453: 0x0B82 [0x01] GOTO 0x0B8A
+454: 0x0B85 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[11]
+
+SUBROUTINE_0B8A:
+455: 0x0B8A [0x3E] IF !(ExtData[1]->WorkLocal[7] bit 9*) GOTO 0x0B94
+456: 0x0B91 [0x01] GOTO 0x0BBD
+457: 0x0B94 [0x02] IF !(ExtData[1]->WorkLocal[12] == 4294967295*) GOTO 0x0BB8
+458: 0x0B9C [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 9*) GOTO 0x0BAB
+459: 0x0BA3 [0x03] Work_Zone_1700[2] = 0*
+460: 0x0BA8 [0x01] GOTO 0x0BB0
+461: 0x0BAB [0x13] Work_Zone_1700[2] = rand() % 5*
+
+SUBROUTINE_0BB0:
+462: 0x0BB0 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone_1700[2]
+463: 0x0BB5 [0x01] GOTO 0x0BBD
+464: 0x0BB8 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[12]
+
+SUBROUTINE_0BBD:
+465: 0x0BBD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
+466: 0x0BC2 [0x24] CREATE_DIALOG(message_id=15162*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+    → "What was different? (No. $1) [The [Galka's/male Hume's/female Hume's/male Elvaan's/female Elvaan's/Mithra's] head gear./The female Tarutaru's expression./The [female Hume's/Mithra's] weapon./The direction the [male Hume/female Hume/male Elvaan/female Elvaan/Galka/Mithra] faced./The kind of treasure chest./Rabbit in the treasure chest./Different chest for the chocobo./The order in which the doors closed./The [male Elvaan's/female Hume's/Galka's] weapon./The [female Elvaan's/male Hume's/female Hume's/male Elvaan's/Galka's/Mithra's] leggings./The singing Tarutarus' location./The no. of "!" after "Here we go!"/The type of wind instrument./The order the treasure chests open./The number of baby chocobos running./The length of the scene./Give up.]"
+467: 0x0BC9 [0x25] WAIT_DIALOG_SELECT()
+468: 0x0BCA [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0C68
+469: 0x0BD2 [0x24] CREATE_DIALOG(message_id=15163*, default_option=1*, option_flags=0*)
+    → "Truly stop playing? [Yes./No] ."
+470: 0x0BD9 [0x25] WAIT_DIALOG_SELECT()
+471: 0x0BDA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C57
+472: 0x0BE2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+473: 0x0BF3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+474: 0x0C02 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 107*
+475: 0x0C06 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 107*
+476: 0x0C0A [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=102*
+477: 0x0C19 [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+478: 0x0C1A [0x38] SET_CLIENT_EVENT_MODE(mode=0*)
+479: 0x0C1D [0x46] CAMERA_CONTROL: Restore default settings
+480: 0x0C1F [0x1C] WAIT(60* ticks)
+481: 0x0C22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+482: 0x0C33 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
+483: 0x0C42 [0x1C] WAIT(60* ticks)
+484: 0x0C45 [0x1E] EventEntity looks at LocalPlayer and starts talking
+485: 0x0C4A [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
+486: 0x0C4F [0x1D] PRINT_EVENT_MESSAGE(message_id=15171*)
+    → "Not all of us are blessed with immaculate perspicacity, but it shall come in time."
+487: 0x0C52 [0x23] WAIT_FOR_DIALOG_INTERACTION
+488: 0x0C53 [0x21] END_EVENT
+
+SUBROUTINE_0C65:
+489: 0x0C65 [0x01] GOTO 0x0C68
+
+SUBROUTINE_0C68:
+490: 0x0C68 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=Work_Zone[0], condition_work_offset=1*)
+491: 0x0C6F [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=Work_Zone[1], source=3*)
+492: 0x0C78 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=Work_Zone[0])
+493: 0x0C81 [0x0B] ExtData[1]->WorkLocal[4]++
+494: 0x0C84 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+495: 0x0C86 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+496: 0x0C88 [0x3E] IF !(Work_Zone[7] bit 4*) GOTO 0x0EC8
+497: 0x0C8F [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "mar1" with entities [Unnamed NPC (ID: 17719955/0x010E6293), Unnamed NPC (ID: 17719955/0x010E6293)], work=[200*, 0*]
+498: 0x0CA0 [0x3E] IF !(Work_Zone[7] bit 5*) GOTO 0x0DBD
+499: 0x0CA7 [0x1C] WAIT(60* ticks)
+500: 0x0CAA [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [Unnamed NPC (ID: 17719934/0x010E627E), Unnamed NPC (ID: 17719934/0x010E627E)], work=35*
+501: 0x0CB6 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [Unnamed NPC (ID: 17719935/0x010E627F), Unnamed NPC (ID: 17719935/0x010E627F)], work=35*
+502: 0x0CC2 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [Unnamed NPC (ID: 17719936/0x010E6280), Unnamed NPC (ID: 17719936/0x010E6280)], work=35*
+503: 0x0CCE [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [Unnamed NPC (ID: 17719937/0x010E6281), Unnamed NPC (ID: 17719937/0x010E6281)], work=35*
+504: 0x0CDA [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719930/0x010E627A), tag_num=0x02)
+505: 0x0CE1 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719931/0x010E627B), tag_num=0x02)
+506: 0x0CE8 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719932/0x010E627C), tag_num=0x03)
+507: 0x0CEF [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719933/0x010E627D), tag_num=0x02)
+508: 0x0CF6 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719938/0x010E6282), tag_num=0x02)
+509: 0x0CFD [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17719939/0x010E6283), tag_num=0x02)
+510: 0x0D04 [0x1C] WAIT(180* ticks)
+511: 0x0D07 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+512: 0x0D18 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+513: 0x0D27 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 107*
+514: 0x0D2B [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 107*
+515: 0x0D2F [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=102*
+516: 0x0D3E [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+517: 0x0D3F [0x38] SET_CLIENT_EVENT_MODE(mode=0*)
+518: 0x0D42 [0x46] CAMERA_CONTROL: Restore default settings
+519: 0x0D44 [0x1C] WAIT(60* ticks)
+520: 0x0D47 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+521: 0x0D58 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
+522: 0x0D67 [0x1C] WAIT(60* ticks)
+523: 0x0D6A [0x1E] EventEntity looks at LocalPlayer and starts talking
+524: 0x0D6F [0x3E] IF !(Work_Zone[7] bit 0*) GOTO 0x0DB6
+525: 0x0D76 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
+526: 0x0D7B [0x1D] PRINT_EVENT_MESSAGE(message_id=15166*)
+    → "Of course someone of as high a caliber as yourself would be able to triumph over even the most formidable of challenges. Here, you are more than deserving of this prize!"
+527: 0x0D7E [0x23] WAIT_FOR_DIALOG_INTERACTION
+528: 0x0D7F [0x3E] IF !(Work_Zone[7] bit 1*) GOTO 0x0D89
+529: 0x0D86 [0x01] GOTO 0x0DB3
+530: 0x0D89 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[7] (bits 1*-3*)
+531: 0x0D92 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0DA1
+532: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=15168*)
+    → "Hold on--I see that with this, you have accumulated all three pieces of this seasonal puzzle. All that is left now is for you to synthesize them."
+533: 0x0D9D [0x23] WAIT_FOR_DIALOG_INTERACTION
+534: 0x0D9E [0x01] GOTO 0x0DAA
+535: 0x0DA1 [0x03] Work_Zone[3] = 426*
+536: 0x0DA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15167*)
+    → "As vital as it may be, it means absolutely nothing without the two other elements obtained from my compatriots in Bastok and Windurst."
+537: 0x0DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0DAA:
+538: 0x0DAA [0x03] Work_Zone[3] = 426*
+539: 0x0DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=15169*)
+    → "Allow me to reward you for the extra effort you have exerted. Use this with an $1, and you can fill your Mog House with familiar and nostalgic melodies whenever you so desire."
+540: 0x0DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0DB3:
+541: 0x0DB3 [0x01] GOTO 0x0DBA
+542: 0x0DB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15165*)
+    → "Well done, [good sir/fair lady]! You have the eyes of an eagle! Without any further ado, here is your prize."
+543: 0x0DB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0DBA:
+544: 0x0DBA [0x01] GOTO 0x0EC5
+545: 0x0DBD [0x13] ExtData[1]->WorkLocal[0] = rand() % 9*
+546: 0x0DC2 [0x13] ExtData[1]->WorkLocal[1] = rand() % 2*
+547: 0x0DC7 [0x07] ExtData[1]->WorkLocal[1] += 11*
+548: 0x0DCC [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0DE3
+549: 0x0DD4 [0x6E] Unnamed NPC (ID: 17719930/0x010E627A) uses emote ExtData[1]->WorkLocal[1]
+550: 0x0DDB [0x99] Wait for Unnamed NPC (ID: 17719930/0x010E627A) animation to complete
+551: 0x0DE0 [0x01] GOTO 0x0EBF
+552: 0x0DE3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0DFA
+553: 0x0DEB [0x6E] Unnamed NPC (ID: 17719931/0x010E627B) uses emote ExtData[1]->WorkLocal[1]
+554: 0x0DF2 [0x99] Wait for Unnamed NPC (ID: 17719931/0x010E627B) animation to complete
+555: 0x0DF7 [0x01] GOTO 0x0EBF
+556: 0x0DFA [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0E11
+557: 0x0E02 [0x6E] Unnamed NPC (ID: 17719932/0x010E627C) uses emote ExtData[1]->WorkLocal[1]
+558: 0x0E09 [0x99] Wait for Unnamed NPC (ID: 17719932/0x010E627C) animation to complete
+559: 0x0E0E [0x01] GOTO 0x0EBF
+560: 0x0E11 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0E28
+561: 0x0E19 [0x6E] Unnamed NPC (ID: 17719933/0x010E627D) uses emote ExtData[1]->WorkLocal[1]
+562: 0x0E20 [0x99] Wait for Unnamed NPC (ID: 17719933/0x010E627D) animation to complete
+563: 0x0E25 [0x01] GOTO 0x0EBF
+564: 0x0E28 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0E3F
+565: 0x0E30 [0x6E] Unnamed NPC (ID: 17719934/0x010E627E) uses emote ExtData[1]->WorkLocal[1]
+566: 0x0E37 [0x99] Wait for Unnamed NPC (ID: 17719934/0x010E627E) animation to complete
+567: 0x0E3C [0x01] GOTO 0x0EBF
+568: 0x0E3F [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0E56
+569: 0x0E47 [0x6E] Unnamed NPC (ID: 17719935/0x010E627F) uses emote ExtData[1]->WorkLocal[1]
+570: 0x0E4E [0x99] Wait for Unnamed NPC (ID: 17719935/0x010E627F) animation to complete
+571: 0x0E53 [0x01] GOTO 0x0EBF
+572: 0x0E56 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0E6D
+573: 0x0E5E [0x6E] Unnamed NPC (ID: 17719936/0x010E6280) uses emote ExtData[1]->WorkLocal[1]
+574: 0x0E65 [0x99] Wait for Unnamed NPC (ID: 17719936/0x010E6280) animation to complete
+575: 0x0E6A [0x01] GOTO 0x0EBF
+576: 0x0E6D [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x0E84
+577: 0x0E75 [0x6E] Unnamed NPC (ID: 17719937/0x010E6281) uses emote ExtData[1]->WorkLocal[1]
+578: 0x0E7C [0x99] Wait for Unnamed NPC (ID: 17719937/0x010E6281) animation to complete
+579: 0x0E81 [0x01] GOTO 0x0EBF
+580: 0x0E84 [0x02] IF !(ExtData[1]->WorkLocal[0] == 8*) GOTO 0x0E9B
+581: 0x0E8C [0x6E] Unnamed NPC (ID: 17719938/0x010E6282) uses emote ExtData[1]->WorkLocal[1]
+582: 0x0E93 [0x99] Wait for Unnamed NPC (ID: 17719938/0x010E6282) animation to complete
+583: 0x0E98 [0x01] GOTO 0x0EBF
+584: 0x0E9B [0x02] IF !(ExtData[1]->WorkLocal[0] == 9*) GOTO 0x0EBF
+585: 0x0EA3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 13*) GOTO 0x0EB0
+586: 0x0EAB [0x03] ExtData[1]->WorkLocal[1] = 12*
+587: 0x0EB0 [0x6E] Unnamed NPC (ID: 17719939/0x010E6283) uses emote ExtData[1]->WorkLocal[1]
+588: 0x0EB7 [0x99] Wait for Unnamed NPC (ID: 17719939/0x010E6283) animation to complete
+589: 0x0EBC [0x01] GOTO 0x0EBF
+
+SUBROUTINE_0EBF:
+590: 0x0EBF [0x1C] WAIT(120* ticks)
+591: 0x0EC2 [0x01] GOTO 0x0ABE
+
+SUBROUTINE_0EC5:
+592: 0x0EC5 [0x01] GOTO 0x1038
+593: 0x0EC8 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "bat1" with entities [Unnamed NPC (ID: 17719955/0x010E6293), Unnamed NPC (ID: 17719955/0x010E6293)], work=[200*, 0*]
+594: 0x0ED9 [0x13] ExtData[1]->WorkLocal[0] = rand() % 9*
+595: 0x0EDE [0x03] ExtData[1]->WorkLocal[1] = 26*
+596: 0x0EE3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0EFA
+597: 0x0EEB [0x6E] Unnamed NPC (ID: 17719930/0x010E627A) uses emote ExtData[1]->WorkLocal[1]
+598: 0x0EF2 [0x99] Wait for Unnamed NPC (ID: 17719930/0x010E627A) animation to complete
+599: 0x0EF7 [0x01] GOTO 0x0FC9
+600: 0x0EFA [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0F11
+601: 0x0F02 [0x6E] Unnamed NPC (ID: 17719931/0x010E627B) uses emote ExtData[1]->WorkLocal[1]
+602: 0x0F09 [0x99] Wait for Unnamed NPC (ID: 17719931/0x010E627B) animation to complete
+603: 0x0F0E [0x01] GOTO 0x0FC9
+604: 0x0F11 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0F28
+605: 0x0F19 [0x6E] Unnamed NPC (ID: 17719932/0x010E627C) uses emote ExtData[1]->WorkLocal[1]
+606: 0x0F20 [0x99] Wait for Unnamed NPC (ID: 17719932/0x010E627C) animation to complete
+607: 0x0F25 [0x01] GOTO 0x0FC9
+608: 0x0F28 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0F3F
+609: 0x0F30 [0x6E] Unnamed NPC (ID: 17719933/0x010E627D) uses emote ExtData[1]->WorkLocal[1]
+610: 0x0F37 [0x99] Wait for Unnamed NPC (ID: 17719933/0x010E627D) animation to complete
+611: 0x0F3C [0x01] GOTO 0x0FC9
+612: 0x0F3F [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0F56
+613: 0x0F47 [0x6E] Unnamed NPC (ID: 17719934/0x010E627E) uses emote ExtData[1]->WorkLocal[1]
+614: 0x0F4E [0x99] Wait for Unnamed NPC (ID: 17719934/0x010E627E) animation to complete
+615: 0x0F53 [0x01] GOTO 0x0FC9
+616: 0x0F56 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0F6D
+617: 0x0F5E [0x6E] Unnamed NPC (ID: 17719935/0x010E627F) uses emote ExtData[1]->WorkLocal[1]
+618: 0x0F65 [0x99] Wait for Unnamed NPC (ID: 17719935/0x010E627F) animation to complete
+619: 0x0F6A [0x01] GOTO 0x0FC9
+620: 0x0F6D [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0F84
+621: 0x0F75 [0x6E] Unnamed NPC (ID: 17719936/0x010E6280) uses emote ExtData[1]->WorkLocal[1]
+622: 0x0F7C [0x99] Wait for Unnamed NPC (ID: 17719936/0x010E6280) animation to complete
+623: 0x0F81 [0x01] GOTO 0x0FC9
+624: 0x0F84 [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x0F9B
+625: 0x0F8C [0x6E] Unnamed NPC (ID: 17719937/0x010E6281) uses emote ExtData[1]->WorkLocal[1]
+626: 0x0F93 [0x99] Wait for Unnamed NPC (ID: 17719937/0x010E6281) animation to complete
+627: 0x0F98 [0x01] GOTO 0x0FC9
+628: 0x0F9B [0x02] IF !(ExtData[1]->WorkLocal[0] == 8*) GOTO 0x0FB2
+629: 0x0FA3 [0x6E] Unnamed NPC (ID: 17719938/0x010E6282) uses emote ExtData[1]->WorkLocal[1]
+630: 0x0FAA [0x99] Wait for Unnamed NPC (ID: 17719938/0x010E6282) animation to complete
+631: 0x0FAF [0x01] GOTO 0x0FC9
+632: 0x0FB2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 9*) GOTO 0x0FC9
+633: 0x0FBA [0x6E] Unnamed NPC (ID: 17719939/0x010E6283) uses emote ExtData[1]->WorkLocal[1]
+634: 0x0FC1 [0x99] Wait for Unnamed NPC (ID: 17719939/0x010E6283) animation to complete
+635: 0x0FC6 [0x01] GOTO 0x0FC9
+
+SUBROUTINE_0FC9:
+636: 0x0FC9 [0x1C] WAIT(120* ticks)
+637: 0x0FCC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+638: 0x0FDD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
+639: 0x0FEC [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 107*
+640: 0x0FF0 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 107*
+641: 0x0FF4 [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=102*
+642: 0x1003 [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
+643: 0x1004 [0x38] SET_CLIENT_EVENT_MODE(mode=0*)
+644: 0x1007 [0x46] CAMERA_CONTROL: Restore default settings
+645: 0x1009 [0x1C] WAIT(60* ticks)
+646: 0x100C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+647: 0x101D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
+648: 0x102C [0x1C] WAIT(60* ticks)
+649: 0x102F [0x1E] EventEntity looks at LocalPlayer and starts talking
+650: 0x1034 [0x1D] PRINT_EVENT_MESSAGE(message_id=15170*)
+    → "I am sorry, but that is incorrect. May Altana smile upon you one day, [good sir/fair lady]."
+651: 0x1037 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1038:
+652: 0x1038 [0x1B] RETURN
+
+SUBROUTINE_1039:
+653: 0x1039 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719946/0x010E628A), tag_num=0x03)
+654: 0x1040 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719947/0x010E628B), tag_num=0x03)
+655: 0x1047 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719948/0x010E628C), tag_num=0x03)
+656: 0x104E [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719949/0x010E628D), tag_num=0x03)
+657: 0x1055 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719950/0x010E628E), tag_num=0x03)
+658: 0x105C [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719951/0x010E628F), tag_num=0x03)
+659: 0x1063 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719952/0x010E6290), tag_num=0x03)
+660: 0x106A [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719953/0x010E6291), tag_num=0x03)
+661: 0x1071 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x1119
+662: 0x1079 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 0*) GOTO 0x1087
+663: 0x1080 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719939/0x010E6283), tag_num=0x03)
+664: 0x1087 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 2*) GOTO 0x1095
+665: 0x108E [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719931/0x010E627B), tag_num=0x03)
+666: 0x1095 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 3*) GOTO 0x10A6
+667: 0x109C [0x79] Unnamed NPC (ID: 17719930/0x010E627A) looks at Unknown NPC (ID: 2152300616/0x80498048) (Direct axis set)
+668: 0x10A6 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 4*) GOTO 0x10D7
+669: 0x10AD [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719940/0x010E6284), tag_num=0x02)
+670: 0x10B4 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719941/0x010E6285), tag_num=0x02)
+671: 0x10BB [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719942/0x010E6286), tag_num=0x02)
+672: 0x10C2 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719943/0x010E6287), tag_num=0x02)
+673: 0x10C9 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719944/0x010E6288), tag_num=0x02)
+674: 0x10D0 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719945/0x010E6289), tag_num=0x02)
+675: 0x10D7 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 8*) GOTO 0x10E5
+676: 0x10DE [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719932/0x010E627C), tag_num=0x04)
+677: 0x10E5 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 9*) GOTO 0x10F3
+678: 0x10EC [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719933/0x010E627D), tag_num=0x03)
+679: 0x10F3 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 10*) GOTO 0x1108
+680: 0x10FA [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719934/0x010E627E), tag_num=0x02)
+681: 0x1101 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719935/0x010E627F), tag_num=0x02)
+682: 0x1108 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 12*) GOTO 0x1116
+683: 0x110F [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719936/0x010E6280), tag_num=0x02)
+684: 0x1116 [0x01] GOTO 0x117E
+685: 0x1119 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719939/0x010E6283), tag_num=0x04)
+686: 0x1120 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719931/0x010E627B), tag_num=0x04)
+687: 0x1127 [0x79] Unnamed NPC (ID: 17719930/0x010E627A) looks at Unknown NPC (ID: 2152366152/0x804A8048) (Direct axis set)
+688: 0x1131 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719940/0x010E6284), tag_num=0x03)
+689: 0x1138 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719941/0x010E6285), tag_num=0x03)
+690: 0x113F [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719942/0x010E6286), tag_num=0x03)
+691: 0x1146 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719943/0x010E6287), tag_num=0x03)
+692: 0x114D [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719944/0x010E6288), tag_num=0x03)
+693: 0x1154 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719945/0x010E6289), tag_num=0x03)
+694: 0x115B [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719932/0x010E627C), tag_num=0x05)
+695: 0x1162 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719933/0x010E627D), tag_num=0x04)
+696: 0x1169 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719934/0x010E627E), tag_num=0x03)
+697: 0x1170 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17719935/0x010E627F), tag_num=0x03)
+698: 0x1177 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719936/0x010E6280), tag_num=0x03)
+
+SUBROUTINE_117E:
+699: 0x117E [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x1197
+700: 0x1186 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719936/0x010E6280), tag_num=0x04)
+701: 0x118D [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719937/0x010E6281), tag_num=0x05)
+702: 0x1194 [0x01] GOTO 0x119E
+703: 0x1197 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unnamed NPC (ID: 17719937/0x010E6281), tag_num=0x04)
+
+SUBROUTINE_119E:
+704: 0x119E [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719930/0x010E627A))
+705: 0x11A3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719931/0x010E627B))
+706: 0x11A8 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719932/0x010E627C))
+707: 0x11AD [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719933/0x010E627D))
+708: 0x11B2 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719934/0x010E627E))
+709: 0x11B7 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719935/0x010E627F))
+710: 0x11BC [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719936/0x010E6280))
+711: 0x11C1 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719938/0x010E6282))
+712: 0x11C6 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17719939/0x010E6283))
+713: 0x11CB [0x1B] RETURN
+
+SUBROUTINE_11CC:
+714: 0x11CC [0x13] ExtData[1]->WorkLocal[0] = rand() % 5*
+715: 0x11D1 [0x13] ExtData[1]->WorkLocal[1] = rand() % 5*
+716: 0x11D6 [0x02] IF !(ExtData[1]->WorkLocal[0] == ExtData[1]->WorkLocal[1]) GOTO 0x122D
+717: 0x11DE [0x03] ExtData[1]->WorkLocal[16] = ExtData[1]->WorkLocal[0]
+718: 0x11E3 [0x14] ExtData[1]->WorkLocal[16] *= 3*
+719: 0x11E8 [0x03] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[16]
+720: 0x11ED [0x07] ExtData[1]->WorkLocal[17] += 2*
+721: 0x11F2 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[15] (bits ExtData[1]->WorkLocal[16]-ExtData[1]->WorkLocal[17])
+722: 0x11FB [0x03] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[1]
+723: 0x1200 [0x14] ExtData[1]->WorkLocal[18] *= 3*
+724: 0x1205 [0x03] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[18]
+725: 0x120A [0x07] ExtData[1]->WorkLocal[19] += 2*
+726: 0x120F [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[15] (bits ExtData[1]->WorkLocal[18]-ExtData[1]->WorkLocal[19])
+727: 0x1218 [0x40] SET_BIT_WORK_RANGE(start_bit=ExtData[1]->WorkLocal[16], end_bit=ExtData[1]->WorkLocal[17], target=ExtData[1]->WorkLocal[15], source=ExtData[1]->WorkLocal[1])
+728: 0x1221 [0x40] SET_BIT_WORK_RANGE(start_bit=ExtData[1]->WorkLocal[18], end_bit=ExtData[1]->WorkLocal[19], target=ExtData[1]->WorkLocal[15], source=ExtData[1]->WorkLocal[0])
+729: 0x122A [0x01] GOTO 0x1230
+730: 0x122D [0x01] GOTO 0x11CC
+
+SUBROUTINE_1230:
+731: 0x1230 [0x1B] RETURN
+
+SUBROUTINE_1231:
+732: 0x1231 [0x06] ExtData[1]->WorkLocal[4] = 0
+733: 0x1234 [0x06] ExtData[1]->WorkLocal[5] = 0
+
+SUBROUTINE_1237:
+734: 0x1237 [0x02] IF !(ExtData[1]->WorkLocal[4] >= 6*) GOTO 0x12B3
+735: 0x123F [0x3E] IF !(ExtData[1]->WorkLocal[22] bit ExtData[1]->WorkLocal[4]) GOTO 0x12AD
+736: 0x1246 [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4]
+737: 0x124B [0x14] ExtData[1]->WorkLocal[0] *= 1200*
+738: 0x1250 [0x07] ExtData[1]->WorkLocal[0] += 92000*
+739: 0x1255 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1262
+740: 0x125D [0x07] ExtData[1]->WorkLocal[0] += 6000*
+741: 0x1262 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x127A
+742: 0x126A [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719949/0x010E628D), pos_x=-291.050*, pos_z=ExtData[1]->WorkLocal[0], pos_y=-9.200*, direction=0.0°*)
+743: 0x1277 [0x01] GOTO 0x12AA
+744: 0x127A [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x1292
+745: 0x1282 [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719950/0x010E628E), pos_x=-291.050*, pos_z=ExtData[1]->WorkLocal[0], pos_y=-9.200*, direction=0.0°*)
+746: 0x128F [0x01] GOTO 0x12AA
+747: 0x1292 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x12AA
+748: 0x129A [0xBA] SET_ENTITY_POSITION(entity_id=Unnamed NPC (ID: 17719951/0x010E628F), pos_x=-291.050*, pos_z=ExtData[1]->WorkLocal[0], pos_y=-9.200*, direction=0.0°*)
+749: 0x12A7 [0x01] GOTO 0x12AA
+
+SUBROUTINE_12AA:
+750: 0x12AA [0x0B] ExtData[1]->WorkLocal[5]++
+751: 0x12AD [0x0B] ExtData[1]->WorkLocal[4]++
+752: 0x12B0 [0x01] GOTO 0x1237
+753: 0x12B3 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0081 [0x01] GOTO 0x008B
+# Dead code (unreachable instructions):
+     0x016B [0x01] GOTO 0x01DF
+     0x01D9 [0x01] GOTO 0x01DC
+# Dead code (unreachable instructions):
+     0x020A [0x01] GOTO 0x020D
+# Dead code (unreachable instructions):
+     0x03A3 [0x01] GOTO 0x03D6
+# Dead code (unreachable instructions):
+     0x06B5 [0x01] GOTO 0x06E1
+# Dead code (unreachable instructions):
+     0x0C54 [0x01] GOTO 0x0C65
+     0x0C62 [0x01] GOTO 0x0C65
+```

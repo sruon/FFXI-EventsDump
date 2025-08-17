@@ -1,0 +1,778 @@
+# 17658386 - Atma Fabricant
+
+## Common Data
+
+| Field            | Value                       |
+|------------------|-----------------------------|
+| Zone             | Abyssea - Attohwa (ID: 215) |
+| Block Size       | 2272 bytes                  |
+| Total Events     | 2                           |
+| References Count | 87                          |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [2182](#event-2182)   | 0x0001       |   1898 |            399 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x1CCA      |        7370 |
+|       2 | 0x1CCB      |        7371 |
+|       3 | 0x40000000  |  1073741824 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x1CCC      |        7372 |
+|       6 | 0x1CCD      |        7373 |
+|       7 | 0x1CCE      |        7374 |
+|       8 | 0x1CCF      |        7375 |
+|       9 | 0x1CD0      |        7376 |
+|      10 | 0x1CD1      |        7377 |
+|      11 | 0x1CD2      |        7378 |
+|      12 | 0x0002      |           2 |
+|      13 | 0x1CD3      |        7379 |
+|      14 | 0x1CD4      |        7380 |
+|      15 | 0x1CD5      |        7381 |
+|      16 | 0x1CD6      |        7382 |
+|      17 | 0x1CD7      |        7383 |
+|      18 | 0x0003      |           3 |
+|      19 | 0x1CD8      |        7384 |
+|      20 | 0x1CD9      |        7385 |
+|      21 | 0x1CDA      |        7386 |
+|      22 | 0x0004      |           4 |
+|      23 | 0x0005      |           5 |
+|      24 | 0x0006      |           6 |
+|      25 | 0x0007      |           7 |
+|      26 | 0x0008      |           8 |
+|      27 | 0x0009      |           9 |
+|      28 | 0x000A      |          10 |
+|      29 | 0x000B      |          11 |
+|      30 | 0x000C      |          12 |
+|      31 | 0x000D      |          13 |
+|      32 | 0x000E      |          14 |
+|      33 | 0x000F      |          15 |
+|      34 | 0x0010      |          16 |
+|      35 | 0x0011      |          17 |
+|      36 | 0x0012      |          18 |
+|      37 | 0x0013      |          19 |
+|      38 | 0x0014      |          20 |
+|      39 | 0x1CDC      |        7388 |
+|      40 | 0x1CDD      |        7389 |
+|      41 | 0x1CDE      |        7390 |
+|      42 | 0x1CDF      |        7391 |
+|      43 | 0x1CE0      |        7392 |
+|      44 | 0x1CE1      |        7393 |
+|      45 | 0x001F      |          31 |
+|      46 | 0x1C8C      |        7308 |
+|      47 | 0x1CDB      |        7387 |
+|      48 | 0x0677      |        1655 |
+|      49 | 0x03E8      |        1000 |
+|      50 | 0x0678      |        1656 |
+|      51 | 0x0679      |        1657 |
+|      52 | 0x067A      |        1658 |
+|      53 | 0x04E2      |        1250 |
+|      54 | 0x067B      |        1659 |
+|      55 | 0x05DC      |        1500 |
+|      56 | 0x067C      |        1660 |
+|      57 | 0x06D6      |        1750 |
+|      58 | 0x067D      |        1661 |
+|      59 | 0x07D0      |        2000 |
+|      60 | 0x067E      |        1662 |
+|      61 | 0x04B0      |        1200 |
+|      62 | 0x067F      |        1663 |
+|      63 | 0x0680      |        1664 |
+|      64 | 0x0681      |        1665 |
+|      65 | 0x0682      |        1666 |
+|      66 | 0x0683      |        1667 |
+|      67 | 0x0684      |        1668 |
+|      68 | 0x0685      |        1669 |
+|      69 | 0x0686      |        1670 |
+|      70 | 0x0687      |        1671 |
+|      71 | 0x0688      |        1672 |
+|      72 | 0x0689      |        1673 |
+|      73 | 0x068A      |        1674 |
+|      74 | 0x068B      |        1675 |
+|      75 | 0x068C      |        1676 |
+|      76 | 0x068D      |        1677 |
+|      77 | 0x068E      |        1678 |
+|      78 | 0x068F      |        1679 |
+|      79 | 0x0690      |        1680 |
+|      80 | 0x0691      |        1681 |
+|      81 | 0x0692      |        1682 |
+|      82 | 0x0693      |        1683 |
+|      83 | 0x0694      |        1684 |
+|      84 | 0x0695      |        1685 |
+|      85 | 0x0696      |        1686 |
+|      86 | 0x06A3      |        1699 |
+
+## String References
+
+- **7308**: You do not have enough cruor.
+- **7370**: Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word.
+- **7371**: Ask for something? [No thanks./Synthetic atma?/My memories?/Show me the atma.]
+- **7372**: As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends.
+- **7373**: The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired.
+- **7374**: After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal.
+- **7375**: We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought.
+- **7376**: Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends.
+- **7377**: If you possess such memories, then I can bring forth the latent power that resides within you as well.
+- **7378**: Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is...
+- **7379**: Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing...
+- **7380**: But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore.
+- **7381**: Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name.
+- **7382**: We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma.
+- **7383**: Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word.
+- **7384**: Very well. We shall see what latent powers you possess. Stand still and clear your mind...
+- **7385**: Yes...it is as I thought... Long and far have you traveled...many a battle have you fought...
+- **7386**: Yes, I see within you $0 [memory/memories] that I could process into atma. Which shall I extract?
+- **7387**: ...And yet, I see nothing tangible enough for me to process. I am sorry.
+- **7388**: Synthesize atma? (Cruor balance: $0) [None for now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./$6: $22./$6: $24./$6: $26./$6: $28./$6: $30./$6: $ ./$6: $"./$6: $$./Previous page./Next page.]
+- **7389**: Expend $0 cruor? [Yes./No.]
+- **7390**: Very well. Let us begin the extraction.
+- **7391**: Still your heart, and empty your mind...
+- **7392**: The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!
+- **7393**: Behold, the physical manifestation of the innermost power of your soul!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 2182
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 1898 bytes |
+| Instructions | 399        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 06 00 00 06 01  00 06 02 00 06 03 00 06    ..............
+0010: 28 00 06 29 00 06 2A 00  06 2B 00 06 2C 00 03 01  (..)..*..+..,...
+0020: 00 02 10 03 02 00 03 10  03 03 00 04 10 03 00 00  ................
+0030: 05 10 03 04 00 00 80 03  05 00 00 80 03 06 00 00  ................
+0040: 80 03 07 00 00 80 03 08  00 00 80 03 09 00 00 80  ................
+0050: 03 0A 00 00 80 03 0B 00  00 80 03 0C 00 00 80 03  ................
+0060: 0D 00 00 80 03 0E 00 00  80 03 0F 00 00 80 03 10  ................
+0070: 00 00 80 03 11 00 00 80  03 12 00 00 80 03 13 00  ................
+0080: 00 80 03 14 00 00 80 03  15 00 00 80 03 16 00 00  ................
+0090: 80 03 17 00 00 80 03 18  00 00 80 03 19 00 00 80  ................
+00A0: 03 1A 00 00 80 03 1B 00  00 80 03 1C 00 00 80 03  ................
+00B0: 1D 00 00 80 03 1E 00 00  80 03 1F 00 00 80 03 20  ............... 
+00C0: 00 00 80 03 21 00 00 80  03 22 00 00 80 03 23 00  ....!...."....#.
+00D0: 00 80 03 24 00 00 80 03  25 00 00 80 03 26 00 00  ...$....%....&..
+00E0: 80 03 27 00 00 80 1A 55  05 1E F0 FF FF 7F 1D 01  ..'....U........
+00F0: 80 23 05 2B 00 02 2B 00  00 80 02 53 05 24 02 80  .#.+..+....S.$..
+0100: 00 80 00 80 25 02 00 10  00 80 00 18 01 06 2B 00  ....%.........+.
+0110: 03 01 10 03 80 01 50 05  02 00 10 04 80 00 3F 01  ......P.......?.
+0120: 1D 05 80 23 1D 06 80 23  1D 07 80 23 1D 08 80 23  ...#...#...#...#
+0130: 1D 09 80 23 1D 0A 80 23  1D 0B 80 23 01 50 05 02  ...#...#...#.P..
+0140: 00 10 0C 80 00 5E 01 1D  0D 80 23 1D 0E 80 23 1D  .....^....#...#.
+0150: 0F 80 23 1D 10 80 23 1D  11 80 23 01 50 05 02 00  ..#...#...#.P...
+0160: 10 12 80 00 50 05 1D 13  80 23 1D 14 80 23 02 03  ....P....#...#..
+0170: 00 00 80 02 49 05 03 02  10 03 00 1D 15 80 23 05  ....I.........#.
+0180: 2C 00 02 2C 00 00 80 02  46 05 03 02 10 01 00 03  ,..,....F.......
+0190: 03 10 04 00 03 04 10 05  00 03 05 10 06 00 03 06  ................
+01A0: 10 07 00 03 07 10 08 00  03 08 10 09 00 03 09 10  ................
+01B0: 0A 00 03 00 17 0B 00 03  01 17 0C 00 03 02 17 0D  ................
+01C0: 00 03 03 17 0E 00 03 04  17 0F 00 03 05 17 10 00  ................
+01D0: 03 06 17 11 00 03 07 17  12 00 03 08 17 13 00 03  ................
+01E0: 09 17 14 00 03 0A 17 15  00 03 0B 17 16 00 03 0C  ................
+01F0: 17 17 00 03 0D 17 18 00  03 0E 17 19 00 03 0F 17  ................
+0200: 1A 00 03 10 17 1B 00 03  11 17 1C 00 03 12 17 1D  ................
+0210: 00 03 13 17 1E 00 03 14  17 1F 00 03 15 17 20 00  .............. .
+0220: 03 16 17 21 00 03 17 17  22 00 03 18 17 23 00 03  ...!...."....#..
+0230: 19 17 24 00 03 1A 17 25  00 03 1B 17 26 00 03 1C  ..$....%....&...
+0240: 17 27 00 03 2A 00 00 80  3E 02 00 00 80 52 02 01  .'..*...>....R..
+0250: 59 02 3C 2A 00 04 80 04  80 3E 02 00 04 80 63 02  Y.<*.....>....c.
+0260: 01 6A 02 3C 2A 00 0C 80  04 80 3E 02 00 0C 80 74  .j.<*.....>....t
+0270: 02 01 7B 02 3C 2A 00 12  80 04 80 3E 02 00 12 80  ..{.<*.....>....
+0280: 85 02 01 8C 02 3C 2A 00  16 80 04 80 3E 02 00 16  .....<*.....>...
+0290: 80 96 02 01 9D 02 3C 2A  00 17 80 04 80 3E 02 00  ......<*.....>..
+02A0: 17 80 A7 02 01 AE 02 3C  2A 00 18 80 04 80 3E 02  .......<*.....>.
+02B0: 00 18 80 B8 02 01 BF 02  3C 2A 00 19 80 04 80 3E  ........<*.....>
+02C0: 02 00 19 80 C9 02 01 D0  02 3C 2A 00 1A 80 04 80  .........<*.....
+02D0: 3E 02 00 1A 80 DA 02 01  E1 02 3C 2A 00 1B 80 04  >.........<*....
+02E0: 80 3E 02 00 1B 80 EB 02  01 F2 02 3C 2A 00 1C 80  .>.........<*...
+02F0: 04 80 3E 02 00 1C 80 FC  02 01 03 03 3C 2A 00 1D  ..>.........<*..
+0300: 80 04 80 3E 02 00 1D 80  0D 03 01 14 03 3C 2A 00  ...>.........<*.
+0310: 1E 80 04 80 3E 02 00 1E  80 1E 03 01 25 03 3C 2A  ....>.......%.<*
+0320: 00 1F 80 04 80 3E 02 00  1F 80 2F 03 01 36 03 3C  .....>..../..6.<
+0330: 2A 00 20 80 04 80 3E 02  00 20 80 40 03 01 47 03  *. ...>.. .@..G.
+0340: 3C 2A 00 21 80 04 80 3E  02 00 21 80 51 03 01 58  <*.!...>..!.Q..X
+0350: 03 3C 2A 00 22 80 04 80  3E 02 00 22 80 62 03 01  .<*."...>..".b..
+0360: 69 03 3C 2A 00 23 80 04  80 3E 02 00 23 80 73 03  i.<*.#...>..#.s.
+0370: 01 7A 03 3C 2A 00 24 80  04 80 3C 2A 00 25 80 04  .z.<*.$...<*.%..
+0380: 80 3C 2A 00 26 80 04 80  24 27 80 00 80 2A 00 25  .<*.&...$'...*.%
+0390: 02 00 10 00 80 00 9E 03  06 2C 00 01 B4 03 02 00  .........,......
+03A0: 10 25 80 00 A9 03 01 B4  03 02 00 10 26 80 00 B4  .%..........&...
+03B0: 03 01 B4 03 02 00 10 00  80 02 43 05 02 00 10 25  ..........C....%
+03C0: 80 03 43 05 03 28 00 00  10 02 28 00 04 80 80 D9  ..C..(....(.....
+03D0: 03 03 29 00 05 00 01 E9  04 02 28 00 0C 80 80 E9  ..).......(.....
+03E0: 03 03 29 00 07 00 01 E9  04 02 28 00 12 80 80 F9  ..).......(.....
+03F0: 03 03 29 00 09 00 01 E9  04 02 28 00 16 80 80 09  ..).......(.....
+0400: 04 03 29 00 0B 00 01 E9  04 02 28 00 17 80 80 19  ..).......(.....
+0410: 04 03 29 00 0D 00 01 E9  04 02 28 00 18 80 80 29  ..).......(....)
+0420: 04 03 29 00 0F 00 01 E9  04 02 28 00 19 80 80 39  ..).......(....9
+0430: 04 03 29 00 11 00 01 E9  04 02 28 00 1A 80 80 49  ..).......(....I
+0440: 04 03 29 00 13 00 01 E9  04 02 28 00 1B 80 80 59  ..).......(....Y
+0450: 04 03 29 00 15 00 01 E9  04 02 28 00 1C 80 80 69  ..).......(....i
+0460: 04 03 29 00 17 00 01 E9  04 02 28 00 1D 80 80 79  ..).......(....y
+0470: 04 03 29 00 19 00 01 E9  04 02 28 00 1E 80 80 89  ..).......(.....
+0480: 04 03 29 00 1B 00 01 E9  04 02 28 00 1F 80 80 99  ..).......(.....
+0490: 04 03 29 00 1D 00 01 E9  04 02 28 00 20 80 80 A9  ..).......(. ...
+04A0: 04 03 29 00 1F 00 01 E9  04 02 28 00 21 80 80 B9  ..).......(.!...
+04B0: 04 03 29 00 21 00 01 E9  04 02 28 00 22 80 80 C9  ..).!.....(."...
+04C0: 04 03 29 00 23 00 01 E9  04 02 28 00 23 80 80 D9  ..).#.....(.#...
+04D0: 04 03 29 00 25 00 01 E9  04 02 28 00 24 80 80 E9  ..).%.....(.$...
+04E0: 04 03 29 00 27 00 01 E9  04 03 02 10 29 00 24 28  ..).'.......).$(
+04F0: 80 04 80 00 80 25 02 00  10 00 80 00 38 05 02 01  .....%......8...
+0500: 00 29 00 04 31 05 1D 29  80 23 1D 2A 80 23 1D 2B  .)..1..).#.*.#.+
+0510: 80 23 1D 2C 80 23 40 00  80 21 80 01 10 04 80 40  .#.,.#@..!.....@
+0520: 22 80 2D 80 01 10 28 00  06 2B 00 06 2C 00 01 35  ".-...(..+..,..5
+0530: 05 1D 2E 80 23 01 43 05  02 00 10 04 80 00 43 05  ....#.C.......C.
+0540: 01 43 05 01 82 01 01 4D  05 1D 2F 80 23 01 50 05  .C.....M../.#.P.
+0550: 01 F5 00 21 00 02 00 00  00 80 80 14 06 03 04 00  ...!............
+0560: 30 80 03 05 00 31 80 03  06 00 32 80 03 07 00 31  0....1....2....1
+0570: 80 03 08 00 33 80 03 09  00 31 80 03 0A 00 34 80  ....3....1....4.
+0580: 03 0B 00 35 80 03 0C 00  36 80 03 0D 00 37 80 03  ...5....6....7..
+0590: 0E 00 38 80 03 0F 00 39  80 03 10 00 3A 80 03 11  ..8....9....:...
+05A0: 00 3B 80 03 12 00 3C 80  03 13 00 3D 80 03 14 00  .;....<....=....
+05B0: 3E 80 03 15 00 3D 80 03  16 00 3F 80 03 17 00 3D  >....=....?....=
+05C0: 80 03 18 00 40 80 03 19  00 37 80 03 1A 00 41 80  ....@....7....A.
+05D0: 03 1B 00 37 80 03 1C 00  42 80 03 1D 00 37 80 03  ...7....B....7..
+05E0: 1E 00 00 80 03 1F 00 00  80 03 20 00 00 80 03 21  .......... ....!
+05F0: 00 00 80 03 22 00 00 80  03 23 00 00 80 03 24 00  ...."....#....$.
+0600: 00 80 03 25 00 00 80 03  26 00 00 80 03 27 00 00  ...%....&....'..
+0610: 80 01 6A 07 02 00 00 04  80 80 D3 06 03 04 00 43  ..j............C
+0620: 80 03 05 00 31 80 03 06  00 44 80 03 07 00 3D 80  ....1....D....=.
+0630: 03 08 00 45 80 03 09 00  37 80 03 0A 00 46 80 03  ...E....7....F..
+0640: 0B 00 37 80 03 0C 00 47  80 03 0D 00 37 80 03 0E  ..7....G....7...
+0650: 00 48 80 03 0F 00 31 80  03 10 00 49 80 03 11 00  .H....1....I....
+0660: 37 80 03 12 00 4A 80 03  13 00 37 80 03 14 00 4B  7....J....7....K
+0670: 80 03 15 00 3D 80 03 16  00 00 80 03 17 00 00 80  ....=...........
+0680: 03 18 00 00 80 03 19 00  00 80 03 1A 00 00 80 03  ................
+0690: 1B 00 00 80 03 1C 00 00  80 03 1D 00 00 80 03 1E  ................
+06A0: 00 00 80 03 1F 00 00 80  03 20 00 00 80 03 21 00  ......... ....!.
+06B0: 00 80 03 22 00 00 80 03  23 00 00 80 03 24 00 00  ..."....#....$..
+06C0: 80 03 25 00 00 80 03 26  00 00 80 03 27 00 00 80  ..%....&....'...
+06D0: 01 6A 07 02 00 00 0C 80  80 6A 07 03 04 00 4C 80  .j.......j....L.
+06E0: 03 05 00 37 80 03 06 00  4D 80 03 07 00 3D 80 03  ...7....M....=..
+06F0: 08 00 4E 80 03 09 00 37  80 03 0A 00 4F 80 03 0B  ..N....7....O...
+0700: 00 37 80 03 0C 00 50 80  03 0D 00 37 80 03 0E 00  .7....P....7....
+0710: 51 80 03 0F 00 37 80 03  10 00 52 80 03 11 00 37  Q....7....R....7
+0720: 80 03 12 00 53 80 03 13  00 37 80 03 14 00 54 80  ....S....7....T.
+0730: 03 15 00 37 80 03 16 00  55 80 03 17 00 31 80 03  ...7....U....1..
+0740: 20 00 56 80 03 21 00 3B  80 03 22 00 00 80 03 23   .V..!.;.."....#
+0750: 00 00 80 03 24 00 00 80  03 25 00 00 80 03 26 00  ....$....%....&.
+0760: 00 80 03 27 00 00 80 01  6A 07 1B                 ...'....j..     
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x06] ExtData[1]->WorkLocal[0] = 0
+  2: 0x0006 [0x06] ExtData[1]->WorkLocal[1] = 0
+  3: 0x0009 [0x06] ExtData[1]->WorkLocal[2] = 0
+  4: 0x000C [0x06] ExtData[1]->WorkLocal[3] = 0
+  5: 0x000F [0x06] ExtData[1]->WorkLocal[40] = 0
+  6: 0x0012 [0x06] ExtData[1]->WorkLocal[41] = 0
+  7: 0x0015 [0x06] ExtData[1]->WorkLocal[42] = 0
+  8: 0x0018 [0x06] ExtData[1]->WorkLocal[43] = 0
+  9: 0x001B [0x06] ExtData[1]->WorkLocal[44] = 0
+ 10: 0x001E [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
+ 11: 0x0023 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
+ 12: 0x0028 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[4]
+ 13: 0x002D [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
+ 14: 0x0032 [0x03] ExtData[1]->WorkLocal[4] = 0*
+ 15: 0x0037 [0x03] ExtData[1]->WorkLocal[5] = 0*
+ 16: 0x003C [0x03] ExtData[1]->WorkLocal[6] = 0*
+ 17: 0x0041 [0x03] ExtData[1]->WorkLocal[7] = 0*
+ 18: 0x0046 [0x03] ExtData[1]->WorkLocal[8] = 0*
+ 19: 0x004B [0x03] ExtData[1]->WorkLocal[9] = 0*
+ 20: 0x0050 [0x03] ExtData[1]->WorkLocal[10] = 0*
+ 21: 0x0055 [0x03] ExtData[1]->WorkLocal[11] = 0*
+ 22: 0x005A [0x03] ExtData[1]->WorkLocal[12] = 0*
+ 23: 0x005F [0x03] ExtData[1]->WorkLocal[13] = 0*
+ 24: 0x0064 [0x03] ExtData[1]->WorkLocal[14] = 0*
+ 25: 0x0069 [0x03] ExtData[1]->WorkLocal[15] = 0*
+ 26: 0x006E [0x03] ExtData[1]->WorkLocal[16] = 0*
+ 27: 0x0073 [0x03] ExtData[1]->WorkLocal[17] = 0*
+ 28: 0x0078 [0x03] ExtData[1]->WorkLocal[18] = 0*
+ 29: 0x007D [0x03] ExtData[1]->WorkLocal[19] = 0*
+ 30: 0x0082 [0x03] ExtData[1]->WorkLocal[20] = 0*
+ 31: 0x0087 [0x03] ExtData[1]->WorkLocal[21] = 0*
+ 32: 0x008C [0x03] ExtData[1]->WorkLocal[22] = 0*
+ 33: 0x0091 [0x03] ExtData[1]->WorkLocal[23] = 0*
+ 34: 0x0096 [0x03] ExtData[1]->WorkLocal[24] = 0*
+ 35: 0x009B [0x03] ExtData[1]->WorkLocal[25] = 0*
+ 36: 0x00A0 [0x03] ExtData[1]->WorkLocal[26] = 0*
+ 37: 0x00A5 [0x03] ExtData[1]->WorkLocal[27] = 0*
+ 38: 0x00AA [0x03] ExtData[1]->WorkLocal[28] = 0*
+ 39: 0x00AF [0x03] ExtData[1]->WorkLocal[29] = 0*
+ 40: 0x00B4 [0x03] ExtData[1]->WorkLocal[30] = 0*
+ 41: 0x00B9 [0x03] ExtData[1]->WorkLocal[31] = 0*
+ 42: 0x00BE [0x03] ExtData[1]->WorkLocal[32] = 0*
+ 43: 0x00C3 [0x03] ExtData[1]->WorkLocal[33] = 0*
+ 44: 0x00C8 [0x03] ExtData[1]->WorkLocal[34] = 0*
+ 45: 0x00CD [0x03] ExtData[1]->WorkLocal[35] = 0*
+ 46: 0x00D2 [0x03] ExtData[1]->WorkLocal[36] = 0*
+ 47: 0x00D7 [0x03] ExtData[1]->WorkLocal[37] = 0*
+ 48: 0x00DC [0x03] ExtData[1]->WorkLocal[38] = 0*
+ 49: 0x00E1 [0x03] ExtData[1]->WorkLocal[39] = 0*
+ 50: 0x00E6 [0x1A] CALL_SUBROUTINE(address=0x0555)
+ 51: 0x00E9 [0x1E] EventEntity looks at LocalPlayer and starts talking
+ 52: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+    → "Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word."
+ 53: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 54: 0x00F2 [0x05] ExtData[1]->WorkLocal[43] = 1
+ 55: 0x00F5 [0x02] IF !(ExtData[1]->WorkLocal[43] <= 0*) GOTO 0x0553
+ 56: 0x00FD [0x24] CREATE_DIALOG(message_id=7371*, default_option=0*, option_flags=0*)
+    → "Ask for something? [No thanks./Synthetic atma?/My memories?/Show me the atma.]"
+ 57: 0x0104 [0x25] WAIT_DIALOG_SELECT()
+ 58: 0x0105 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0118
+ 59: 0x010D [0x06] ExtData[1]->WorkLocal[43] = 0
+ 60: 0x0110 [0x03] Work_Zone[1] = 1073741824*
+ 61: 0x0115 [0x01] GOTO 0x0550
+ 62: 0x0118 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x013F
+ 63: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+    → "As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends."
+ 64: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 65: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
+    → "The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired."
+ 66: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 67: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
+    → "After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal."
+ 68: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 69: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
+    → "We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought."
+ 70: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 71: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
+    → "Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends."
+ 72: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 73: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
+    → "If you possess such memories, then I can bring forth the latent power that resides within you as well."
+ 74: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 75: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+    → "Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is..."
+ 76: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 77: 0x013C [0x01] GOTO 0x0550
+ 78: 0x013F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x015E
+ 79: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
+    → "Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing..."
+ 80: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 81: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+    → "But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore."
+ 82: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 83: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+    → "Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name."
+ 84: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 85: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+    → "We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma."
+ 86: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 87: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
+    → "Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word."
+ 88: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 89: 0x015B [0x01] GOTO 0x0550
+ 90: 0x015E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0550
+ 91: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
+    → "Very well. We shall see what latent powers you possess. Stand still and clear your mind..."
+ 92: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 93: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
+    → "Yes...it is as I thought... Long and far have you traveled...many a battle have you fought..."
+ 94: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 95: 0x016E [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x0549
+ 96: 0x0176 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
+ 97: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+    → "Yes, I see within you $0 [memory/memories] that I could process into atma. Which shall I extract?"
+ 98: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 99: 0x017F [0x05] ExtData[1]->WorkLocal[44] = 1
+
+SUBROUTINE_0182:
+100: 0x0182 [0x02] IF !(ExtData[1]->WorkLocal[44] <= 0*) GOTO 0x0546
+101: 0x018A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
+102: 0x018F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
+103: 0x0194 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+104: 0x0199 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[6]
+105: 0x019E [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[7]
+106: 0x01A3 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[8]
+107: 0x01A8 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[9]
+108: 0x01AD [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[10]
+109: 0x01B2 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[11]
+110: 0x01B7 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[12]
+111: 0x01BC [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[13]
+112: 0x01C1 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[14]
+113: 0x01C6 [0x03] Work_Zone_1700[4] = ExtData[1]->WorkLocal[15]
+114: 0x01CB [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[16]
+115: 0x01D0 [0x03] Work_Zone_1700[6] = ExtData[1]->WorkLocal[17]
+116: 0x01D5 [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[18]
+117: 0x01DA [0x03] Work_Zone_1700[8] = ExtData[1]->WorkLocal[19]
+118: 0x01DF [0x03] Work_Zone_1700[9] = ExtData[1]->WorkLocal[20]
+119: 0x01E4 [0x03] Work_Zone_1700[10] = ExtData[1]->WorkLocal[21]
+120: 0x01E9 [0x03] Work_Zone_1700[11] = ExtData[1]->WorkLocal[22]
+121: 0x01EE [0x03] Work_Zone_1700[12] = ExtData[1]->WorkLocal[23]
+122: 0x01F3 [0x03] Work_Zone_1700[13] = ExtData[1]->WorkLocal[24]
+123: 0x01F8 [0x03] Work_Zone_1700[14] = ExtData[1]->WorkLocal[25]
+124: 0x01FD [0x03] Work_Zone_1700[15] = ExtData[1]->WorkLocal[26]
+125: 0x0202 [0x03] Work_Zone_1700[16] = ExtData[1]->WorkLocal[27]
+126: 0x0207 [0x03] Work_Zone_1700[17] = ExtData[1]->WorkLocal[28]
+127: 0x020C [0x03] Work_Zone_1700[18] = ExtData[1]->WorkLocal[29]
+128: 0x0211 [0x03] Work_Zone_1700[19] = ExtData[1]->WorkLocal[30]
+129: 0x0216 [0x03] Work_Zone_1700[20] = ExtData[1]->WorkLocal[31]
+130: 0x021B [0x03] Work_Zone_1700[21] = ExtData[1]->WorkLocal[32]
+131: 0x0220 [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[33]
+132: 0x0225 [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[34]
+133: 0x022A [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[35]
+134: 0x022F [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[36]
+135: 0x0234 [0x03] Work_Zone_1700[26] = ExtData[1]->WorkLocal[37]
+136: 0x0239 [0x03] Work_Zone_1700[27] = ExtData[1]->WorkLocal[38]
+137: 0x023E [0x03] Work_Zone_1700[28] = ExtData[1]->WorkLocal[39]
+138: 0x0243 [0x03] ExtData[1]->WorkLocal[42] = 0*
+139: 0x0248 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 0*) GOTO 0x0252
+140: 0x024F [0x01] GOTO 0x0259
+141: 0x0252 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=1*, condition_work_offset=1*)
+
+SUBROUTINE_0259:
+142: 0x0259 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 1*) GOTO 0x0263
+143: 0x0260 [0x01] GOTO 0x026A
+144: 0x0263 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=2*, condition_work_offset=1*)
+
+SUBROUTINE_026A:
+145: 0x026A [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 2*) GOTO 0x0274
+146: 0x0271 [0x01] GOTO 0x027B
+147: 0x0274 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=3*, condition_work_offset=1*)
+
+SUBROUTINE_027B:
+148: 0x027B [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 3*) GOTO 0x0285
+149: 0x0282 [0x01] GOTO 0x028C
+150: 0x0285 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=4*, condition_work_offset=1*)
+
+SUBROUTINE_028C:
+151: 0x028C [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 4*) GOTO 0x0296
+152: 0x0293 [0x01] GOTO 0x029D
+153: 0x0296 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=5*, condition_work_offset=1*)
+
+SUBROUTINE_029D:
+154: 0x029D [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 5*) GOTO 0x02A7
+155: 0x02A4 [0x01] GOTO 0x02AE
+156: 0x02A7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=6*, condition_work_offset=1*)
+
+SUBROUTINE_02AE:
+157: 0x02AE [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 6*) GOTO 0x02B8
+158: 0x02B5 [0x01] GOTO 0x02BF
+159: 0x02B8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=7*, condition_work_offset=1*)
+
+SUBROUTINE_02BF:
+160: 0x02BF [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 7*) GOTO 0x02C9
+161: 0x02C6 [0x01] GOTO 0x02D0
+162: 0x02C9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=8*, condition_work_offset=1*)
+
+SUBROUTINE_02D0:
+163: 0x02D0 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 8*) GOTO 0x02DA
+164: 0x02D7 [0x01] GOTO 0x02E1
+165: 0x02DA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=9*, condition_work_offset=1*)
+
+SUBROUTINE_02E1:
+166: 0x02E1 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 9*) GOTO 0x02EB
+167: 0x02E8 [0x01] GOTO 0x02F2
+168: 0x02EB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=10*, condition_work_offset=1*)
+
+SUBROUTINE_02F2:
+169: 0x02F2 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 10*) GOTO 0x02FC
+170: 0x02F9 [0x01] GOTO 0x0303
+171: 0x02FC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=11*, condition_work_offset=1*)
+
+SUBROUTINE_0303:
+172: 0x0303 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 11*) GOTO 0x030D
+173: 0x030A [0x01] GOTO 0x0314
+174: 0x030D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=12*, condition_work_offset=1*)
+
+SUBROUTINE_0314:
+175: 0x0314 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 12*) GOTO 0x031E
+176: 0x031B [0x01] GOTO 0x0325
+177: 0x031E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=13*, condition_work_offset=1*)
+
+SUBROUTINE_0325:
+178: 0x0325 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 13*) GOTO 0x032F
+179: 0x032C [0x01] GOTO 0x0336
+180: 0x032F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=14*, condition_work_offset=1*)
+
+SUBROUTINE_0336:
+181: 0x0336 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 14*) GOTO 0x0340
+182: 0x033D [0x01] GOTO 0x0347
+183: 0x0340 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=15*, condition_work_offset=1*)
+
+SUBROUTINE_0347:
+184: 0x0347 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 15*) GOTO 0x0351
+185: 0x034E [0x01] GOTO 0x0358
+186: 0x0351 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=16*, condition_work_offset=1*)
+
+SUBROUTINE_0358:
+187: 0x0358 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 16*) GOTO 0x0362
+188: 0x035F [0x01] GOTO 0x0369
+189: 0x0362 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=17*, condition_work_offset=1*)
+
+SUBROUTINE_0369:
+190: 0x0369 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 17*) GOTO 0x0373
+191: 0x0370 [0x01] GOTO 0x037A
+192: 0x0373 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=18*, condition_work_offset=1*)
+
+SUBROUTINE_037A:
+193: 0x037A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=19*, condition_work_offset=1*)
+194: 0x0381 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=20*, condition_work_offset=1*)
+195: 0x0388 [0x24] CREATE_DIALOG(message_id=7388*, default_option=0*, option_flags=ExtData[1]->WorkLocal[42])
+    → "Synthesize atma? (Cruor balance: $0) [None for now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./$6: $22./$6: $24./$6: $26./$6: $28./$6: $30./$6: $ ./$6: $"./$6: $$./Previous page./Next page.]"
+196: 0x038F [0x25] WAIT_DIALOG_SELECT()
+197: 0x0390 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x039E
+198: 0x0398 [0x06] ExtData[1]->WorkLocal[44] = 0
+199: 0x039B [0x01] GOTO 0x03B4
+200: 0x039E [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x03A9
+201: 0x03A6 [0x01] GOTO 0x03B4
+202: 0x03A9 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x03B4
+203: 0x03B1 [0x01] GOTO 0x03B4
+
+SUBROUTINE_03B4:
+204: 0x03B4 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0543
+205: 0x03BC [0x02] IF !(Work_Zone[0] >= 19*) GOTO 0x0543
+206: 0x03C4 [0x03] ExtData[1]->WorkLocal[40] = Work_Zone[0]
+207: 0x03C9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x03D9
+208: 0x03D1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[5]
+209: 0x03D6 [0x01] GOTO 0x04E9
+210: 0x03D9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x03E9
+211: 0x03E1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[7]
+212: 0x03E6 [0x01] GOTO 0x04E9
+213: 0x03E9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x03F9
+214: 0x03F1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[9]
+215: 0x03F6 [0x01] GOTO 0x04E9
+216: 0x03F9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x0409
+217: 0x0401 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[11]
+218: 0x0406 [0x01] GOTO 0x04E9
+219: 0x0409 [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x0419
+220: 0x0411 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[13]
+221: 0x0416 [0x01] GOTO 0x04E9
+222: 0x0419 [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x0429
+223: 0x0421 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[15]
+224: 0x0426 [0x01] GOTO 0x04E9
+225: 0x0429 [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x0439
+226: 0x0431 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[17]
+227: 0x0436 [0x01] GOTO 0x04E9
+228: 0x0439 [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x0449
+229: 0x0441 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[19]
+230: 0x0446 [0x01] GOTO 0x04E9
+231: 0x0449 [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x0459
+232: 0x0451 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[21]
+233: 0x0456 [0x01] GOTO 0x04E9
+234: 0x0459 [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x0469
+235: 0x0461 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[23]
+236: 0x0466 [0x01] GOTO 0x04E9
+237: 0x0469 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x0479
+238: 0x0471 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[25]
+239: 0x0476 [0x01] GOTO 0x04E9
+240: 0x0479 [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x0489
+241: 0x0481 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[27]
+242: 0x0486 [0x01] GOTO 0x04E9
+243: 0x0489 [0x02] IF !(ExtData[1]->WorkLocal[40] == 13*) GOTO 0x0499
+244: 0x0491 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[29]
+245: 0x0496 [0x01] GOTO 0x04E9
+246: 0x0499 [0x02] IF !(ExtData[1]->WorkLocal[40] == 14*) GOTO 0x04A9
+247: 0x04A1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[31]
+248: 0x04A6 [0x01] GOTO 0x04E9
+249: 0x04A9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 15*) GOTO 0x04B9
+250: 0x04B1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[33]
+251: 0x04B6 [0x01] GOTO 0x04E9
+252: 0x04B9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 16*) GOTO 0x04C9
+253: 0x04C1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[35]
+254: 0x04C6 [0x01] GOTO 0x04E9
+255: 0x04C9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 17*) GOTO 0x04D9
+256: 0x04D1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[37]
+257: 0x04D6 [0x01] GOTO 0x04E9
+258: 0x04D9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 18*) GOTO 0x04E9
+259: 0x04E1 [0x03] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[39]
+260: 0x04E6 [0x01] GOTO 0x04E9
+
+SUBROUTINE_04E9:
+261: 0x04E9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[41]
+262: 0x04EE [0x24] CREATE_DIALOG(message_id=7389*, default_option=1*, option_flags=0*)
+    → "Expend $0 cruor? [Yes./No.]"
+263: 0x04F5 [0x25] WAIT_DIALOG_SELECT()
+264: 0x04F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0538
+265: 0x04FE [0x02] IF !(ExtData[1]->WorkLocal[1] < ExtData[1]->WorkLocal[41]) GOTO 0x0531
+266: 0x0506 [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
+    → "Very well. Let us begin the extraction."
+267: 0x0509 [0x23] WAIT_FOR_DIALOG_INTERACTION
+268: 0x050A [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
+    → "Still your heart, and empty your mind..."
+269: 0x050D [0x23] WAIT_FOR_DIALOG_INTERACTION
+270: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
+    → "The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!"
+271: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
+272: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=7393*)
+    → "Behold, the physical manifestation of the innermost power of your soul!"
+273: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
+274: 0x0516 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
+275: 0x051F [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[40])
+276: 0x0528 [0x06] ExtData[1]->WorkLocal[43] = 0
+277: 0x052B [0x06] ExtData[1]->WorkLocal[44] = 0
+278: 0x052E [0x01] GOTO 0x0535
+279: 0x0531 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+    → "You do not have enough cruor."
+280: 0x0534 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0535:
+281: 0x0535 [0x01] GOTO 0x0543
+282: 0x0538 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0543
+283: 0x0540 [0x01] GOTO 0x0543
+
+SUBROUTINE_0543:
+284: 0x0543 [0x01] GOTO 0x0182
+285: 0x0546 [0x01] GOTO 0x054D
+286: 0x0549 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
+    → "...And yet, I see nothing tangible enough for me to process. I am sorry."
+287: 0x054C [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_054D:
+288: 0x054D [0x01] GOTO 0x0550
+
+SUBROUTINE_0550:
+289: 0x0550 [0x01] GOTO 0x00F5
+290: 0x0553 [0x21] END_EVENT
+291: 0x0554 [0x00] END_REQSTACK()
+
+SUBROUTINE_0555:
+292: 0x0555 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0614
+293: 0x055D [0x03] ExtData[1]->WorkLocal[4] = 1655*
+294: 0x0562 [0x03] ExtData[1]->WorkLocal[5] = 1000*
+295: 0x0567 [0x03] ExtData[1]->WorkLocal[6] = 1656*
+296: 0x056C [0x03] ExtData[1]->WorkLocal[7] = 1000*
+297: 0x0571 [0x03] ExtData[1]->WorkLocal[8] = 1657*
+298: 0x0576 [0x03] ExtData[1]->WorkLocal[9] = 1000*
+299: 0x057B [0x03] ExtData[1]->WorkLocal[10] = 1658*
+300: 0x0580 [0x03] ExtData[1]->WorkLocal[11] = 1250*
+301: 0x0585 [0x03] ExtData[1]->WorkLocal[12] = 1659*
+302: 0x058A [0x03] ExtData[1]->WorkLocal[13] = 1500*
+303: 0x058F [0x03] ExtData[1]->WorkLocal[14] = 1660*
+304: 0x0594 [0x03] ExtData[1]->WorkLocal[15] = 1750*
+305: 0x0599 [0x03] ExtData[1]->WorkLocal[16] = 1661*
+306: 0x059E [0x03] ExtData[1]->WorkLocal[17] = 2000*
+307: 0x05A3 [0x03] ExtData[1]->WorkLocal[18] = 1662*
+308: 0x05A8 [0x03] ExtData[1]->WorkLocal[19] = 1200*
+309: 0x05AD [0x03] ExtData[1]->WorkLocal[20] = 1663*
+310: 0x05B2 [0x03] ExtData[1]->WorkLocal[21] = 1200*
+311: 0x05B7 [0x03] ExtData[1]->WorkLocal[22] = 1664*
+312: 0x05BC [0x03] ExtData[1]->WorkLocal[23] = 1200*
+313: 0x05C1 [0x03] ExtData[1]->WorkLocal[24] = 1665*
+314: 0x05C6 [0x03] ExtData[1]->WorkLocal[25] = 1500*
+315: 0x05CB [0x03] ExtData[1]->WorkLocal[26] = 1666*
+316: 0x05D0 [0x03] ExtData[1]->WorkLocal[27] = 1500*
+317: 0x05D5 [0x03] ExtData[1]->WorkLocal[28] = 1667*
+318: 0x05DA [0x03] ExtData[1]->WorkLocal[29] = 1500*
+319: 0x05DF [0x03] ExtData[1]->WorkLocal[30] = 0*
+320: 0x05E4 [0x03] ExtData[1]->WorkLocal[31] = 0*
+321: 0x05E9 [0x03] ExtData[1]->WorkLocal[32] = 0*
+322: 0x05EE [0x03] ExtData[1]->WorkLocal[33] = 0*
+323: 0x05F3 [0x03] ExtData[1]->WorkLocal[34] = 0*
+324: 0x05F8 [0x03] ExtData[1]->WorkLocal[35] = 0*
+325: 0x05FD [0x03] ExtData[1]->WorkLocal[36] = 0*
+326: 0x0602 [0x03] ExtData[1]->WorkLocal[37] = 0*
+327: 0x0607 [0x03] ExtData[1]->WorkLocal[38] = 0*
+328: 0x060C [0x03] ExtData[1]->WorkLocal[39] = 0*
+329: 0x0611 [0x01] GOTO 0x076A
+330: 0x0614 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x06D3
+331: 0x061C [0x03] ExtData[1]->WorkLocal[4] = 1668*
+332: 0x0621 [0x03] ExtData[1]->WorkLocal[5] = 1000*
+333: 0x0626 [0x03] ExtData[1]->WorkLocal[6] = 1669*
+334: 0x062B [0x03] ExtData[1]->WorkLocal[7] = 1200*
+335: 0x0630 [0x03] ExtData[1]->WorkLocal[8] = 1670*
+336: 0x0635 [0x03] ExtData[1]->WorkLocal[9] = 1500*
+337: 0x063A [0x03] ExtData[1]->WorkLocal[10] = 1671*
+338: 0x063F [0x03] ExtData[1]->WorkLocal[11] = 1500*
+339: 0x0644 [0x03] ExtData[1]->WorkLocal[12] = 1672*
+340: 0x0649 [0x03] ExtData[1]->WorkLocal[13] = 1500*
+341: 0x064E [0x03] ExtData[1]->WorkLocal[14] = 1673*
+342: 0x0653 [0x03] ExtData[1]->WorkLocal[15] = 1000*
+343: 0x0658 [0x03] ExtData[1]->WorkLocal[16] = 1674*
+344: 0x065D [0x03] ExtData[1]->WorkLocal[17] = 1500*
+345: 0x0662 [0x03] ExtData[1]->WorkLocal[18] = 1675*
+346: 0x0667 [0x03] ExtData[1]->WorkLocal[19] = 1500*
+347: 0x066C [0x03] ExtData[1]->WorkLocal[20] = 1676*
+348: 0x0671 [0x03] ExtData[1]->WorkLocal[21] = 1200*
+349: 0x0676 [0x03] ExtData[1]->WorkLocal[22] = 0*
+350: 0x067B [0x03] ExtData[1]->WorkLocal[23] = 0*
+351: 0x0680 [0x03] ExtData[1]->WorkLocal[24] = 0*
+352: 0x0685 [0x03] ExtData[1]->WorkLocal[25] = 0*
+353: 0x068A [0x03] ExtData[1]->WorkLocal[26] = 0*
+354: 0x068F [0x03] ExtData[1]->WorkLocal[27] = 0*
+355: 0x0694 [0x03] ExtData[1]->WorkLocal[28] = 0*
+356: 0x0699 [0x03] ExtData[1]->WorkLocal[29] = 0*
+357: 0x069E [0x03] ExtData[1]->WorkLocal[30] = 0*
+358: 0x06A3 [0x03] ExtData[1]->WorkLocal[31] = 0*
+359: 0x06A8 [0x03] ExtData[1]->WorkLocal[32] = 0*
+360: 0x06AD [0x03] ExtData[1]->WorkLocal[33] = 0*
+361: 0x06B2 [0x03] ExtData[1]->WorkLocal[34] = 0*
+362: 0x06B7 [0x03] ExtData[1]->WorkLocal[35] = 0*
+363: 0x06BC [0x03] ExtData[1]->WorkLocal[36] = 0*
+364: 0x06C1 [0x03] ExtData[1]->WorkLocal[37] = 0*
+365: 0x06C6 [0x03] ExtData[1]->WorkLocal[38] = 0*
+366: 0x06CB [0x03] ExtData[1]->WorkLocal[39] = 0*
+367: 0x06D0 [0x01] GOTO 0x076A
+368: 0x06D3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x076A
+369: 0x06DB [0x03] ExtData[1]->WorkLocal[4] = 1677*
+370: 0x06E0 [0x03] ExtData[1]->WorkLocal[5] = 1500*
+371: 0x06E5 [0x03] ExtData[1]->WorkLocal[6] = 1678*
+372: 0x06EA [0x03] ExtData[1]->WorkLocal[7] = 1200*
+373: 0x06EF [0x03] ExtData[1]->WorkLocal[8] = 1679*
+374: 0x06F4 [0x03] ExtData[1]->WorkLocal[9] = 1500*
+375: 0x06F9 [0x03] ExtData[1]->WorkLocal[10] = 1680*
+376: 0x06FE [0x03] ExtData[1]->WorkLocal[11] = 1500*
+377: 0x0703 [0x03] ExtData[1]->WorkLocal[12] = 1681*
+378: 0x0708 [0x03] ExtData[1]->WorkLocal[13] = 1500*
+379: 0x070D [0x03] ExtData[1]->WorkLocal[14] = 1682*
+380: 0x0712 [0x03] ExtData[1]->WorkLocal[15] = 1500*
+381: 0x0717 [0x03] ExtData[1]->WorkLocal[16] = 1683*
+382: 0x071C [0x03] ExtData[1]->WorkLocal[17] = 1500*
+383: 0x0721 [0x03] ExtData[1]->WorkLocal[18] = 1684*
+384: 0x0726 [0x03] ExtData[1]->WorkLocal[19] = 1500*
+385: 0x072B [0x03] ExtData[1]->WorkLocal[20] = 1685*
+386: 0x0730 [0x03] ExtData[1]->WorkLocal[21] = 1500*
+387: 0x0735 [0x03] ExtData[1]->WorkLocal[22] = 1686*
+388: 0x073A [0x03] ExtData[1]->WorkLocal[23] = 1000*
+389: 0x073F [0x03] ExtData[1]->WorkLocal[32] = 1699*
+390: 0x0744 [0x03] ExtData[1]->WorkLocal[33] = 2000*
+391: 0x0749 [0x03] ExtData[1]->WorkLocal[34] = 0*
+392: 0x074E [0x03] ExtData[1]->WorkLocal[35] = 0*
+393: 0x0753 [0x03] ExtData[1]->WorkLocal[36] = 0*
+394: 0x0758 [0x03] ExtData[1]->WorkLocal[37] = 0*
+395: 0x075D [0x03] ExtData[1]->WorkLocal[38] = 0*
+396: 0x0762 [0x03] ExtData[1]->WorkLocal[39] = 0*
+397: 0x0767 [0x01] GOTO 0x076A
+
+SUBROUTINE_076A:
+398: 0x076A [0x1B] RETURN
+```

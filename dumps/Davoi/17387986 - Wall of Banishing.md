@@ -1,0 +1,91 @@
+# 17387986 - Wall of Banishing
+
+## Common Data
+
+| Field            | Value           |
+|------------------|-----------------|
+| Zone             | Davoi (ID: 149) |
+| Block Size       | 88 bytes        |
+| Total Events     | 2               |
+| References Count | 4               |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [42](#event-42)       | 0x0001       |     47 |             11 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0088      |         136 |
+|       1 | 0x1CCD      |        7373 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x0001      |           1 |
+
+## String References
+
+- **7373**: Place the $3? [Place it./Not now.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 42
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 47 bytes |
+| Instructions | 11       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 02 10 00 80 24 01  80 02 80 02 80 25 02 00   .....$......%..
+0010: 10 02 80 00 1E 00 03 01  10 02 80 01 2E 00 02 00  ................
+0020: 10 03 80 00 2E 00 03 01  10 03 80 01 2E 00 21 00  ..............!.
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] Work_Zone[2] = 136*
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=0*)
+    → "Place the $3? [Place it./Not now.]"
+  2: 0x000D [0x25] WAIT_DIALOG_SELECT()
+  3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001E
+  4: 0x0016 [0x03] Work_Zone[1] = 0*
+  5: 0x001B [0x01] GOTO 0x002E
+  6: 0x001E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x002E
+  7: 0x0026 [0x03] Work_Zone[1] = 1*
+  8: 0x002B [0x01] GOTO 0x002E
+
+SUBROUTINE_002E:
+  9: 0x002E [0x21] END_EVENT
+ 10: 0x002F [0x00] END_REQSTACK()
+```

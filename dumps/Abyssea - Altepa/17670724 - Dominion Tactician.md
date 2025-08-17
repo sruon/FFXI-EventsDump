@@ -1,0 +1,2915 @@
+# 17670724 - Dominion Tactician
+
+## Common Data
+
+| Field            | Value                      |
+|------------------|----------------------------|
+| Zone             | Abyssea - Altepa (ID: 218) |
+| Block Size       | 9232 bytes                 |
+| Total Events     | 2                          |
+| References Count | 172                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [120](#event-120)     | 0x0001       |   8518 |           1775 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0007      |           7 |
+|       2 | 0x0008      |           8 |
+|       3 | 0x000F      |          15 |
+|       4 | 0x0010      |          16 |
+|       5 | 0x0017      |          23 |
+|       6 | 0x0003      |           3 |
+|       7 | 0x0004      |           4 |
+|       8 | 0x000B      |          11 |
+|       9 | 0x000C      |          12 |
+|      10 | 0x0013      |          19 |
+|      11 | 0x0014      |          20 |
+|      12 | 0x0018      |          24 |
+|      13 | 0x001B      |          27 |
+|      14 | 0x000E      |          14 |
+|      15 | 0x0006      |           6 |
+|      16 | 0x0005      |           5 |
+|      17 | 0x0009      |           9 |
+|      18 | 0x000A      |          10 |
+|      19 | 0x1E66      |        7782 |
+|      20 | 0x1E67      |        7783 |
+|      21 | 0x40000000  |  1073741824 |
+|      22 | 0x0001      |           1 |
+|      23 | 0x1E68      |        7784 |
+|      24 | 0x1E69      |        7785 |
+|      25 | 0x1E6A      |        7786 |
+|      26 | 0x1E6B      |        7787 |
+|      27 | 0x1E6C      |        7788 |
+|      28 | 0x1E6D      |        7789 |
+|      29 | 0x1E6E      |        7790 |
+|      30 | 0x1E6F      |        7791 |
+|      31 | 0x0002      |           2 |
+|      32 | 0x1E70      |        7792 |
+|      33 | 0x1E71      |        7793 |
+|      34 | 0x1E72      |        7794 |
+|      35 | 0x1E73      |        7795 |
+|      36 | 0x1E74      |        7796 |
+|      37 | 0x1E75      |        7797 |
+|      38 | 0x1E76      |        7798 |
+|      39 | 0x1E77      |        7799 |
+|      40 | 0x1E78      |        7800 |
+|      41 | 0x1E79      |        7801 |
+|      42 | 0x1E7A      |        7802 |
+|      43 | 0x1E7B      |        7803 |
+|      44 | 0x1E7C      |        7804 |
+|      45 | 0x1E7D      |        7805 |
+|      46 | 0x1E7E      |        7806 |
+|      47 | 0x1E7F      |        7807 |
+|      48 | 0x1E80      |        7808 |
+|      49 | 0x1E81      |        7809 |
+|      50 | 0x1E82      |        7810 |
+|      51 | 0x1E83      |        7811 |
+|      52 | 0x1E84      |        7812 |
+|      53 | 0x1E85      |        7813 |
+|      54 | 0x1E88      |        7816 |
+|      55 | 0x0064      |         100 |
+|      56 | 0x1E89      |        7817 |
+|      57 | 0x1E8C      |        7820 |
+|      58 | 0x1E8D      |        7821 |
+|      59 | 0x1E8E      |        7822 |
+|      60 | 0x1E8F      |        7823 |
+|      61 | 0x1E90      |        7824 |
+|      62 | 0x1E91      |        7825 |
+|      63 | 0x1E92      |        7826 |
+|      64 | 0x1E93      |        7827 |
+|      65 | 0x1E94      |        7828 |
+|      66 | 0x1E95      |        7829 |
+|      67 | 0x1E96      |        7830 |
+|      68 | 0x1E97      |        7831 |
+|      69 | 0x1E98      |        7832 |
+|      70 | 0x1EA3      |        7843 |
+|      71 | 0x1E99      |        7833 |
+|      72 | 0x1EA4      |        7844 |
+|      73 | 0x1E9A      |        7834 |
+|      74 | 0x1EA5      |        7845 |
+|      75 | 0x1EAF      |        7855 |
+|      76 | 0x2EFC      |       12028 |
+|      77 | 0x05DC      |        1500 |
+|      78 | 0x2EFD      |       12029 |
+|      79 | 0x2EFE      |       12030 |
+|      80 | 0x2EFF      |       12031 |
+|      81 | 0x2F00      |       12032 |
+|      82 | 0x2F01      |       12033 |
+|      83 | 0x0CDF      |        3295 |
+|      84 | 0x012C      |         300 |
+|      85 | 0x0CE0      |        3296 |
+|      86 | 0x1EB0      |        7856 |
+|      87 | 0x1CE3      |        7395 |
+|      88 | 0x1EB1      |        7857 |
+|      89 | 0x1EB3      |        7859 |
+|      90 | 0x1EB7      |        7863 |
+|      91 | 0x16F4      |        5876 |
+|      92 | 0x16F5      |        5877 |
+|      93 | 0x16F6      |        5878 |
+|      94 | 0x16F7      |        5879 |
+|      95 | 0x16F8      |        5880 |
+|      96 | 0x4500      |       17664 |
+|      97 | 0x09C4      |        2500 |
+|      98 | 0x4B6E      |       19310 |
+|      99 | 0x4B43      |       19267 |
+|     100 | 0x1EB2      |        7858 |
+|     101 | 0x1EB9      |        7865 |
+|     102 | 0x0601      |        1537 |
+|     103 | 0x0600      |        1536 |
+|     104 | 0x05FF      |        1535 |
+|     105 | 0x05FE      |        1534 |
+|     106 | 0x05FD      |        1533 |
+|     107 | 0x1EBA      |        7866 |
+|     108 | 0x2CAB      |       11435 |
+|     109 | 0x2CAC      |       11436 |
+|     110 | 0x2CAD      |       11437 |
+|     111 | 0x2CAE      |       11438 |
+|     112 | 0x2CAF      |       11439 |
+|     113 | 0x2CB0      |       11440 |
+|     114 | 0x2CB1      |       11441 |
+|     115 | 0x2CB2      |       11442 |
+|     116 | 0x2CB3      |       11443 |
+|     117 | 0x1EBB      |        7867 |
+|     118 | 0x2E6F      |       11887 |
+|     119 | 0x2E70      |       11888 |
+|     120 | 0x2E71      |       11889 |
+|     121 | 0x2E72      |       11890 |
+|     122 | 0x2E73      |       11891 |
+|     123 | 0x2E74      |       11892 |
+|     124 | 0x2E75      |       11893 |
+|     125 | 0x2E76      |       11894 |
+|     126 | 0x2E77      |       11895 |
+|     127 | 0x2EA2      |       11938 |
+|     128 | 0x2EA3      |       11939 |
+|     129 | 0x2EA4      |       11940 |
+|     130 | 0x2EA5      |       11941 |
+|     131 | 0x2EA6      |       11942 |
+|     132 | 0x2EA7      |       11943 |
+|     133 | 0x2EA8      |       11944 |
+|     134 | 0x2EA9      |       11945 |
+|     135 | 0x2EAA      |       11946 |
+|     136 | 0x2E0D      |       11789 |
+|     137 | 0x2E0E      |       11790 |
+|     138 | 0x2E0F      |       11791 |
+|     139 | 0x2E10      |       11792 |
+|     140 | 0x2E11      |       11793 |
+|     141 | 0x2E12      |       11794 |
+|     142 | 0x2E13      |       11795 |
+|     143 | 0x2E14      |       11796 |
+|     144 | 0x2E15      |       11797 |
+|     145 | 0x2E3A      |       11834 |
+|     146 | 0x2E3B      |       11835 |
+|     147 | 0x2E3C      |       11836 |
+|     148 | 0x2E3D      |       11837 |
+|     149 | 0x2E3E      |       11838 |
+|     150 | 0x2E3F      |       11839 |
+|     151 | 0x2E40      |       11840 |
+|     152 | 0x2E41      |       11841 |
+|     153 | 0x2E42      |       11842 |
+|     154 | 0x1EBD      |        7869 |
+|     155 | 0x1EBC      |        7868 |
+|     156 | 0x1EBE      |        7870 |
+|     157 | 0x1EBF      |        7871 |
+|     158 | 0x1EC1      |        7873 |
+|     159 | 0x1EC2      |        7874 |
+|     160 | 0x1EC3      |        7875 |
+|     161 | 0x1EC4      |        7876 |
+|     162 | 0x001E      |          30 |
+|     163 | 0x1EC8      |        7880 |
+|     164 | 0x1EC9      |        7881 |
+|     165 | 0x001F      |          31 |
+|     166 | 0x1EC7      |        7879 |
+|     167 | 0x1EA1      |        7841 |
+|     168 | 0x1EA2      |        7842 |
+|     169 | 0x1EAC      |        7852 |
+|     170 | 0x1EAD      |        7853 |
+|     171 | 0x1EAE      |        7854 |
+
+## String References
+
+- **7395**: Trade for $0?
+- **7782**: I'm a Resistance officer charged with overseeing the Dominion effort, and we're looking for a few good [men/women]. Since I don't see any around, it looks like you'll have to do.
+- **7783**: Ask about something? [Not now./General information./State of the Resistance./State of the enemy./Exchange Dominion Notes./Exchange battle trophies.]
+- **7784**: Ask about something? [Not now./The Dominion effort...?/How do I do my part?/What's in it for me?]
+- **7785**: Wake up, soldier! I don't know if you're blind or stupid, but if you haven't noticed, there's a war going on around you.
+- **7786**: The Resistance is locked in a bitter struggle to take back our rightful land from the hordes, and secure a future for our kind. We call this the Dominion effort. Has an inspiring ring to it, doesn't it, soldier?
+- **7787**: And if you haven't noticed, we don't exactly have a surplus of personnel. Hell, I just got a field promotion from sergeant to tactician when my predecessor got his head lopped clean off by a fiend. Now they've got some sissy boy doing my old job, but do you hear me complainin'?
+- **7788**: Anyhow, if you've got half a bloody stump of a leg to stand on and an arm to carry a blade, consider yourself recruited. Now listen up, soldier, because I'm only going to say this once.
+- **7789**: I'll put this in terms even a dullard like you can understand. The enemy we face consists of two types of fiends: nasty ones, and even nastier ones.
+- **7790**: We've got legions of ugly monsters prowling the land in throngs. We cut them down, and lure their even nastier buddies out of hiding.
+- **7791**: These fiends are the beating heart of our enemy. Bring them down, and our battle is as good as won. Get it? Good. Now hop to it, soldier!
+- **7792**: Hah! Ya may be short on wits, but you've got pluck. There may be hope for you yet, soldier.
+- **7793**: If you're ready to make yourself useful, then you'll want to seek out one of our outposts. There's three in the area, so even a rookie like yourself should be able to stumble upon one of 'em by dumb luck.
+- **7794**: Talk with a sergeant there, and sign up for one of our operations--Dominion Ops, we call 'em for short. Each op will involve exterminating a prescribed quota of a particular variety of fiend.
+- **7795**: If you're halfway competent at your job, the Resistance will gradually expand its sphere of influence over the hordes. Our ultimate goal is complete domination against all manner of fiends. That's one hundred percent, soldier!
+- **7796**: "What if I just kill fiends without signing up for ops," you say? Don't give me any of that lip, soldier!
+- **7797**: Listen. Every fiend you bring down will aid the cause. But we can't be certain that we've achieved complete domination unless you sign up for ops, and report your success to the sergeant. You'll also be rewarded for your efforts. Bet that got your interest quick, didn't it?
+- **7798**: There's more, soldier. This may sound bloody obvious--well, maybe not to a lackwit like you--but success in your efforts will raise the spirits of our entire company.
+- **7799**: With the resulting boost in morale, our troops will fight with even greater fervor, affording us all manner of advantages in battle. "What kind of advantages?" Hah! That's for us to know and you to find out, soldier!
+- **7800**: Expand our sphere of influence over the peons, and we'll start to lure the big boys out of the woodwork.
+- **7801**: Take them out, and the biggest, baddest foes will start to show up. Where does it all end, you say? It doesn't! This is war, soldier, not a Lightsday afternoon walk in the park!
+- **7802**: Now, where was I? The enemy leaders pack a punch, but they rely on their flunkies as the foundation for their strength.
+- **7803**: Cut their subordinates out from underneath them, and they won't have a leg--or gnarled, twisted appendage--to stand upon. That's smart fighting. And in war, you fight smart or you die, soldier!
+- **7804**: I couldn't tell you how many of these buggers we're up against, but I do know this. Each one we kill brings us closer to our goal of utter domination.
+- **7805**: To keep morale high, we can't let up the attack on the enemy leaders. You got all that, soldier?
+- **7806**: What's in it for you? You've got some nerve, soldier!
+- **7807**: You're here to follow orders, not question them! When I say "jump," you say "how many malms high, sir!?" Are we understood, soldier!?
+- **7808**: But yeah, there's somethin' in it for you, if that's the only thing that's going to get you fighting for our cause instead of sitting around on your lazy backside.
+- **7809**: When you report back after completing an operation or successfully bring down a notorious foe, you'll be awarded remuneration in the form of something we call Dominion Notes.
+- **7810**: These notes can be exchanged for supplies to serve you on the field of battle: equipment, medicine, and more. And we're not talking your run-of-the-mill items here. This is some impressive stuff. I daresay it's worth more than your life, soldier.
+- **7811**: Bet that put a spark in your eyes, didn't it? What's more, bring back battle trophies--the severed heads and gore-stained limbs of the fiends you slay--and we will reward your accomplishments with guerdon.
+- **7812**: There are five echelons of trophies in total. Slaying more powerful fiends will yield more prestigious trophies, which in turn will earn you more valuable guerdon.
+- **7813**: Battle trophies can even be exchanged for each other. Multiple lower-echelon trophies can be upgraded to a single trophy of a higher echelon, or vice versa. If you've got half a brain inside that skull of yours, you'll take advantage of this to obtain the guerdon you desire.
+- **7816**: Intelligence reports assess the Resistance's sphere of influence in this area at $0 percent.
+- **7817**: We've received reports that Captain [Excenmille/Nanaa Mihgo/Volker]'s region is overrun with fiends. What are you waiting for? Get out there, soldier!
+- **7820**: Our most recent intel has it that we've felled $0 percent of the horde's most notorious fiends.
+- **7821**: Our troops are currently reaping these morale benefits...
+- **7822**: HP/MP bonus: Level $0.
+- **7823**: Attribute bonus: Level $0.
+- **7824**: Increased experience yield: Level $0.
+- **7825**: Increased cruor yield: Level $0.
+- **7826**: Frequent pyxide discovery: Level $0.
+- **7827**: High-grade pyxide discovery: Level $0.
+- **7828**: Increased loot yield: Level $0.
+- **7829**: ...None at all. Morale sucks, and you sure aren't helping by standing around here. Get out on the battlefield, soldier!
+- **7830**: Morale's not bad, but it can always be better. Get out on the battlefield, soldier!
+- **7831**: Review enemy intelligence? [Not now./Notorious fiends (Tier I)./Notorious fiends (Tier II)./Notorious fiends (Tier III).]
+- **7841**: That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that.
+- **7842**: So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager.
+- **7852**: Reports from the field say that one of our soldiers found an item that could lure the nasty thing out of hiding. Cut it from the body of another of its foul ilk, he said.
+- **7853**: Reports from the field say that one of our regiments was successful in luring the nasty thing of its lair. Used some items cut from the bodies of others of its foul ilk, he said.
+- **7854**: Reports have it that one's been sighted on the field. One of our regiments spotted its ugly mug when they were squaring off against a pack of its thralls.
+- **7855**: Exchange for what? (Notes: $0) [Nothing for now./Items./Key items./Temporary items./Augmented items.]
+- **7856**: Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]
+- **7857**: That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?
+- **7858**: That $0 has been augmented with powerful sorcery, but we haven't yet had occasion to test it in battle. Let the buyer beware, soldier.
+- **7859**: Proceed with the exchange? (Notes: $0) [Yes./On second thought...]
+- **7863**: You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!
+- **7865**: Make an exchange? [Not now./Claim guerdon./Exchange trophies.]
+- **7866**: Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]
+- **7867**: Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]
+- **7868**: You'll need $2 $3 to claim that $0.
+- **7869**: You'll need $2 $5 to claim that $0.
+- **7870**: That $0 seems to be augmented with some powerful sorcery, but hasn't yet been tested in battle. We can't tell you what to expect, so let the buyer beware, soldier.
+- **7871**: Proceed with the exchange? [Yes./No.]
+- **7873**: You're short on $5, soldier. If you want a reward, you'll have to prove yourself in battle.
+- **7874**: Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]
+- **7875**: 5 in your possession: $1. Enter the quantity you wish to trade.
+- **7876**: Exchange for which trophy? [Cancel./3 (You have $1)./$3 (You have $3).]
+- **7879**: You won't be able to carry all those battle trophies, soldier. We can't have our troops overencumbered on the battlefield.
+- **7880**: You'll be left with $1 of these $5 and $3 of these $5 if you make that trade. You sure about this, soldier?
+- **7881**: Proceed with exchange? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 120
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 8518 bytes |
+| Instructions | 1775       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 06 00 00 06 01  00 06 02 00 06 03 00 06    ..............
+0010: 04 00 06 05 00 06 06 00  06 07 00 06 08 00 06 09  ................
+0020: 00 06 0A 00 06 0B 00 06  0C 00 06 0D 00 06 0E 00  ................
+0030: 06 0F 00 06 10 00 06 11  00 06 12 00 06 13 00 06  ................
+0040: 14 00 06 15 00 06 16 00  06 17 00 06 18 00 06 19  ................
+0050: 00 06 1A 00 06 1B 00 06  1C 00 06 1D 00 06 1E 00  ................
+0060: 06 1F 00 06 20 00 06 21  00 06 22 00 06 23 00 06  .... ..!.."..#..
+0070: 24 00 06 25 00 06 26 00  06 27 00 06 28 00 06 29  $..%..&..'..(..)
+0080: 00 06 2A 00 06 2B 00 06  2C 00 06 35 00 06 36 00  ..*..+..,..5..6.
+0090: 06 37 00 06 38 00 06 39  00 06 3A 00 03 00 00 02  .7..8..9..:.....
+00A0: 10 41 00 80 01 80 03 10  01 00 41 02 80 03 80 03  .A........A.....
+00B0: 10 02 00 41 00 80 01 80  04 10 03 00 41 02 80 03  ...A........A...
+00C0: 80 04 10 04 00 41 04 80  05 80 04 10 05 00 41 00  .....A........A.
+00D0: 80 06 80 05 10 06 00 41  07 80 01 80 05 10 07 00  .......A........
+00E0: 41 02 80 08 80 05 10 08  00 41 09 80 03 80 05 10  A........A......
+00F0: 09 00 41 04 80 0A 80 05  10 0A 00 41 0B 80 05 80  ..A........A....
+0100: 05 10 0B 00 41 0C 80 0D  80 05 10 0C 00 41 01 80  ....A........A..
+0110: 0E 80 06 10 0D 00 41 00  80 0F 80 06 10 0E 00 41  ......A........A
+0120: 03 80 0B 80 06 10 0F 00  41 00 80 07 80 07 10 28  ........A......(
+0130: 00 41 10 80 11 80 07 10  29 00 41 12 80 0E 80 07  .A......).A.....
+0140: 10 2A 00 41 03 80 0A 80  07 10 2B 00 41 0B 80 0C  .*.A......+.A...
+0150: 80 07 10 2C 00 1A EC 20  1D 13 80 23 05 35 00 02  ...,... ...#.5..
+0160: 35 00 00 80 02 D2 1D 06  10 00 24 14 80 00 80 00  5.........$.....
+0170: 80 25 02 00 10 00 80 00  85 01 06 35 00 03 01 10  .%.........5....
+0180: 15 80 01 CF 1D 02 00 10  16 80 00 49 02 05 36 00  ...........I..6.
+0190: 02 36 00 00 80 02 46 02  24 17 80 00 80 00 80 25  .6....F.$......%
+01A0: 02 00 10 00 80 00 AE 01  06 36 00 01 43 02 02 00  .........6..C...
+01B0: 10 16 80 00 D5 01 1D 18  80 23 1D 19 80 23 1D 1A  .........#...#..
+01C0: 80 23 1D 1B 80 23 1D 1C  80 23 1D 1D 80 23 1D 1E  .#...#...#...#..
+01D0: 80 23 01 43 02 02 00 10  1F 80 00 18 02 1D 20 80  .#.C.......... .
+01E0: 23 1D 21 80 23 1D 22 80  23 1D 23 80 23 1D 24 80  #.!.#.".#.#.#.$.
+01F0: 23 1D 25 80 23 1D 26 80  23 1D 27 80 23 1D 28 80  #.%.#.&.#.'.#.(.
+0200: 23 1D 29 80 23 1D 2A 80  23 1D 2B 80 23 1D 2C 80  #.).#.*.#.+.#.,.
+0210: 23 1D 2D 80 23 01 43 02  02 00 10 06 80 00 43 02  #.-.#.C.......C.
+0220: 1D 2E 80 23 1D 2F 80 23  1D 30 80 23 1D 31 80 23  ...#./.#.0.#.1.#
+0230: 1D 32 80 23 1D 33 80 23  1D 34 80 23 1D 35 80 23  .2.#.3.#.4.#.5.#
+0240: 01 43 02 01 90 01 01 CF  1D 02 00 10 1F 80 00 CE  .C..............
+0250: 03 03 14 00 01 00 03 02  10 14 00 1D 36 80 23 03  ............6.#.
+0260: 14 00 00 80 03 15 00 00  80 02 03 00 14 00 02 7B  ...............{
+0270: 02 03 14 00 03 00 03 15  00 16 80 02 04 00 14 00  ................
+0280: 02 8D 02 03 14 00 04 00  03 15 00 1F 80 02 05 00  ................
+0290: 14 00 02 9F 02 03 14 00  05 00 03 15 00 06 80 03  ................
+02A0: 16 00 37 80 03 17 00 06  80 02 03 00 16 00 03 BB  ..7.............
+02B0: 02 03 16 00 03 00 03 17  00 00 80 02 04 00 16 00  ................
+02C0: 03 CD 02 03 16 00 04 00  03 17 00 16 80 02 05 00  ................
+02D0: 16 00 03 DF 02 03 16 00  05 00 03 17 00 1F 80 02  ................
+02E0: 15 00 00 80 01 05 03 02  17 00 06 80 03 05 03 08  ................
+02F0: 14 00 16 00 02 14 00 0B  80 04 05 03 03 02 10 17  ................
+0300: 00 1D 38 80 23 03 02 10  02 00 1D 39 80 23 1D 3A  ..8.#......9.#.:
+0310: 80 23 03 14 00 00 80 02  06 00 00 80 02 2B 03 03  .#...........+..
+0320: 02 10 06 00 48 3B 80 23  01 2E 03 0B 14 00 02 07  ....H;.#........
+0330: 00 00 80 02 42 03 03 02  10 07 00 48 3C 80 23 01  ....B......H<.#.
+0340: 45 03 0B 14 00 02 08 00  00 80 02 59 03 03 02 10  E..........Y....
+0350: 08 00 48 3D 80 23 01 5C  03 0B 14 00 02 09 00 00  ..H=.#.\........
+0360: 80 02 70 03 03 02 10 09  00 48 3E 80 23 01 73 03  ..p......H>.#.s.
+0370: 0B 14 00 02 0A 00 00 80  02 87 03 03 02 10 0A 00  ................
+0380: 48 3F 80 23 01 8A 03 0B  14 00 02 0B 00 00 80 02  H?.#............
+0390: 9E 03 03 02 10 0B 00 48  40 80 23 01 A1 03 0B 14  .......H@.#.....
+03A0: 00 02 0C 00 00 80 02 B5  03 03 02 10 0C 00 48 41  ..............HA
+03B0: 80 23 01 B8 03 0B 14 00  02 14 00 01 80 04 C7 03  .#..............
+03C0: 1D 42 80 23 01 CB 03 1D  43 80 23 01 CF 1D 02 00  .B.#....C.#.....
+03D0: 10 06 80 00 CE 05 05 36  00 02 36 00 00 80 02 CB  .......6..6.....
+03E0: 05 24 44 80 00 80 00 80  25 02 00 10 00 80 00 F7  .$D.....%.......
+03F0: 03 06 36 00 01 C8 05 02  00 10 16 80 00 94 04 05  ..6.............
+0400: 37 00 02 37 00 00 80 02  91 04 40 00 80 01 80 01  7..7......@.....
+0410: 10 0F 80 40 02 80 03 80  01 10 16 80 43 00 43 01  ...@........C.C.
+0420: 03 20 00 02 10 03 21 00  03 10 03 22 00 04 10 03  . ....!...."....
+0430: 23 00 05 10 03 24 00 06  10 03 25 00 07 10 03 26  #....$....%....&
+0440: 00 08 10 03 27 00 09 10  06 14 00 06 15 00 03 16  ....'...........
+0450: 00 0D 00 03 18 00 16 80  03 19 00 06 80 03 1A 00  ................
+0460: 16 80 03 1B 00 06 80 03  1C 00 16 80 03 1D 00 16  ................
+0470: 80 03 1E 00 16 80 03 1F  00 16 80 06 10 00 03 14  ................
+0480: 00 45 80 03 15 00 46 80  1A D7 1D 1A 36 20 01 02  .E....F.....6 ..
+0490: 04 01 C8 05 02 00 10 1F  80 00 2F 05 05 37 00 02  ........../..7..
+04A0: 37 00 00 80 02 2C 05 40  00 80 01 80 01 10 0F 80  7....,.@........
+04B0: 40 02 80 03 80 01 10 1F  80 43 00 43 01 03 20 00  @........C.C.. .
+04C0: 02 10 03 21 00 03 10 03  22 00 04 10 03 23 00 05  ...!...."....#..
+04D0: 10 03 24 00 06 10 03 25  00 07 10 03 26 00 08 10  ..$....%....&...
+04E0: 03 27 00 09 10 06 14 00  06 15 00 03 16 00 0E 00  .'..............
+04F0: 03 18 00 1F 80 03 19 00  06 80 03 1A 00 1F 80 03  ................
+0500: 1B 00 06 80 03 1C 00 06  80 03 1D 00 1F 80 03 1E  ................
+0510: 00 1F 80 06 1F 00 06 10  00 03 14 00 47 80 03 15  ............G...
+0520: 00 48 80 1A D7 1D 1A 36  20 01 9F 04 01 C8 05 02  .H.....6 .......
+0530: 00 10 06 80 00 C8 05 05  37 00 02 37 00 00 80 02  ........7..7....
+0540: C5 05 40 00 80 01 80 01  10 0F 80 40 02 80 03 80  ..@........@....
+0550: 01 10 06 80 43 00 43 01  03 20 00 02 10 03 21 00  ....C.C.. ....!.
+0560: 03 10 03 22 00 04 10 03  23 00 05 10 03 24 00 06  ..."....#....$..
+0570: 10 03 25 00 07 10 03 26  00 08 10 03 27 00 09 10  ..%....&....'...
+0580: 06 14 00 06 15 00 03 16  00 0F 00 03 18 00 16 80  ................
+0590: 03 19 00 16 80 03 1A 00  16 80 03 1B 00 16 80 03  ................
+05A0: 1C 00 06 80 03 1D 00 06  80 06 1E 00 06 1F 00 06  ................
+05B0: 10 00 03 14 00 49 80 03  15 00 4A 80 1A D7 1D 1A  .....I....J.....
+05C0: 36 20 01 3A 05 01 C8 05  01 D9 03 01 CF 1D 02 00  6 .:............
+05D0: 10 07 80 00 CC 0E 05 36  00 02 36 00 00 80 02 C9  .......6..6.....
+05E0: 0E 06 39 00 06 3A 00 3C  39 00 1F 80 16 80 03 02  ..9..:.<9.......
+05F0: 10 00 00 24 4B 80 00 80  39 00 25 02 00 10 00 80  ...$K...9.%.....
+0600: 00 09 06 06 36 00 01 C6  0E 02 00 10 16 80 00 1C  ....6...........
+0610: 09 05 37 00 02 37 00 00  80 02 19 09 06 10 00 06  ..7..7..........
+0620: 3A 00 1A EC 20 03 02 10  00 00 03 03 10 4C 80 03  :... ........L..
+0630: 04 10 4D 80 03 05 10 4E  80 03 06 10 4D 80 03 07  ..M....N....M...
+0640: 10 4F 80 03 08 10 4D 80  03 09 10 50 80 03 00 17  .O....M....P....
+0650: 4D 80 03 01 17 51 80 03  02 17 4D 80 03 03 17 52  M....Q....M....R
+0660: 80 03 04 17 4D 80 03 05  17 53 80 03 06 17 54 80  ....M....S....T.
+0670: 03 07 17 55 80 03 08 17  54 80 03 09 17 00 80 03  ...U....T.......
+0680: 0A 17 00 80 03 0B 17 00  80 03 0C 17 00 80 03 0D  ................
+0690: 17 00 80 03 0E 17 00 80  03 0F 17 00 80 03 10 17  ................
+06A0: 00 80 02 03 10 00 80 05  B1 06 3C 3A 00 16 80 16  ..........<:....
+06B0: 80 02 05 10 00 80 05 C0  06 3C 3A 00 1F 80 16 80  .........<:.....
+06C0: 02 07 10 00 80 05 CF 06  3C 3A 00 06 80 16 80 02  ........<:......
+06D0: 09 10 00 80 05 DE 06 3C  3A 00 07 80 16 80 02 01  .......<:.......
+06E0: 17 00 80 05 ED 06 3C 3A  00 10 80 16 80 02 03 17  ......<:........
+06F0: 00 80 05 FC 06 3C 3A 00  0F 80 16 80 02 05 17 00  .....<:.........
+0700: 80 05 0B 07 3C 3A 00 01  80 16 80 02 07 17 00 80  ....<:..........
+0710: 05 1A 07 3C 3A 00 02 80  16 80 02 09 17 00 80 05  ...<:...........
+0720: 29 07 3C 3A 00 11 80 16  80 02 0B 17 00 80 05 38  ).<:...........8
+0730: 07 3C 3A 00 12 80 16 80  02 0D 17 00 80 05 47 07  .<:...........G.
+0740: 3C 3A 00 08 80 16 80 02  0F 17 00 80 05 56 07 3C  <:...........V.<
+0750: 3A 00 09 80 16 80 24 56  80 00 80 3A 00 25 02 00  :.....$V...:.%..
+0760: 10 00 80 00 6C 07 06 37  00 01 A4 08 02 00 10 16  ....l..7........
+0770: 80 00 86 07 03 10 00 16  80 03 12 00 4C 80 03 13  ............L...
+0780: 00 4D 80 01 A4 08 02 00  10 1F 80 00 A0 07 03 10  .M..............
+0790: 00 1F 80 03 12 00 4E 80  03 13 00 4D 80 01 A4 08  ......N....M....
+07A0: 02 00 10 06 80 00 BA 07  03 10 00 06 80 03 12 00  ................
+07B0: 4F 80 03 13 00 4D 80 01  A4 08 02 00 10 07 80 00  O....M..........
+07C0: D4 07 03 10 00 07 80 03  12 00 50 80 03 13 00 4D  ..........P....M
+07D0: 80 01 A4 08 02 00 10 10  80 00 EE 07 03 10 00 10  ................
+07E0: 80 03 12 00 51 80 03 13  00 4D 80 01 A4 08 02 00  ....Q....M......
+07F0: 10 0F 80 00 08 08 03 10  00 0F 80 03 12 00 52 80  ..............R.
+0800: 03 13 00 4D 80 01 A4 08  02 00 10 01 80 00 22 08  ...M..........".
+0810: 03 10 00 01 80 03 12 00  53 80 03 13 00 54 80 01  ........S....T..
+0820: A4 08 02 00 10 02 80 00  3C 08 03 10 00 02 80 03  ........<.......
+0830: 12 00 55 80 03 13 00 54  80 01 A4 08 02 00 10 11  ..U....T........
+0840: 80 00 56 08 03 10 00 11  80 03 12 00 00 80 03 13  ..V.............
+0850: 00 00 80 01 A4 08 02 00  10 12 80 00 70 08 03 10  ............p...
+0860: 00 12 80 03 12 00 00 80  03 13 00 00 80 01 A4 08  ................
+0870: 02 00 10 08 80 00 8A 08  03 10 00 08 80 03 12 00  ................
+0880: 00 80 03 13 00 00 80 01  A4 08 02 00 10 09 80 00  ................
+0890: A4 08 03 10 00 09 80 03  12 00 00 80 03 13 00 00  ................
+08A0: 80 01 A4 08 02 10 00 00  80 02 16 09 93 12 00 03  ................
+08B0: 02 10 12 00 48 57 80 23  93 00 80 03 02 10 12 00  ....HW.#........
+08C0: 03 03 10 13 00 1D 58 80  23 03 02 10 00 00 24 59  ......X.#.....$Y
+08D0: 80 16 80 00 80 25 02 00  10 00 80 00 0B 09 02 00  .....%..........
+08E0: 00 13 00 04 04 09 40 00  80 01 80 01 10 16 80 40  ......@........@
+08F0: 02 80 03 80 01 10 10 00  06 35 00 06 36 00 06 37  .........5..6..7
+0900: 00 01 08 09 1D 5A 80 23  01 16 09 02 00 10 16 80  .....Z.#........
+0910: 00 16 09 01 16 09 01 14  06 01 C6 0E 02 00 10 1F  ................
+0920: 80 00 27 09 01 C6 0E 02  00 10 06 80 00 F2 0B 05  ..'.............
+0930: 37 00 02 37 00 00 80 02  EF 0B 06 10 00 06 3A 00  7..7..........:.
+0940: 1A EC 20 03 02 10 00 00  03 03 10 5B 80 03 04 10  .. ........[....
+0950: 54 80 03 05 10 5C 80 03  06 10 54 80 03 07 10 5D  T....\....T....]
+0960: 80 03 08 10 54 80 03 09  10 5E 80 03 00 17 54 80  ....T....^....T.
+0970: 03 01 17 5F 80 03 02 17  54 80 03 03 17 00 80 03  ..._....T.......
+0980: 04 17 00 80 03 05 17 00  80 03 06 17 00 80 03 07  ................
+0990: 17 00 80 03 08 17 00 80  03 09 17 00 80 03 0A 17  ................
+09A0: 00 80 03 0B 17 00 80 03  0C 17 00 80 02 03 10 00  ................
+09B0: 80 05 BB 09 3C 3A 00 16  80 16 80 02 05 10 00 80  ....<:..........
+09C0: 05 CA 09 3C 3A 00 1F 80  16 80 02 07 10 00 80 05  ...<:...........
+09D0: D9 09 3C 3A 00 06 80 16  80 02 09 10 00 80 05 E8  ..<:............
+09E0: 09 3C 3A 00 07 80 16 80  02 01 17 00 80 05 F7 09  .<:.............
+09F0: 3C 3A 00 10 80 16 80 02  03 17 00 80 05 06 0A 3C  <:.............<
+0A00: 3A 00 0F 80 16 80 02 05  17 00 80 05 15 0A 3C 3A  :.............<:
+0A10: 00 01 80 16 80 02 07 17  00 80 05 24 0A 3C 3A 00  ...........$.<:.
+0A20: 02 80 16 80 02 09 17 00  80 05 33 0A 3C 3A 00 11  ..........3.<:..
+0A30: 80 16 80 02 0B 17 00 80  05 42 0A 3C 3A 00 12 80  .........B.<:...
+0A40: 16 80 02 0D 17 00 80 05  51 0A 3C 3A 00 08 80 16  ........Q.<:....
+0A50: 80 02 0F 17 00 80 05 60  0A 3C 3A 00 09 80 16 80  .......`.<:.....
+0A60: 24 56 80 00 80 3A 00 25  02 00 10 00 80 00 76 0A  $V...:.%......v.
+0A70: 06 37 00 01 7A 0B 02 00  10 16 80 00 90 0A 03 10  .7..z...........
+0A80: 00 16 80 03 12 00 5B 80  03 13 00 54 80 01 7A 0B  ......[....T..z.
+0A90: 02 00 10 1F 80 00 AA 0A  03 10 00 1F 80 03 12 00  ................
+0AA0: 5C 80 03 13 00 54 80 01  7A 0B 02 00 10 06 80 00  \....T..z.......
+0AB0: C4 0A 03 10 00 06 80 03  12 00 5D 80 03 13 00 54  ..........]....T
+0AC0: 80 01 7A 0B 02 00 10 07  80 00 DE 0A 03 10 00 07  ..z.............
+0AD0: 80 03 12 00 5E 80 03 13  00 54 80 01 7A 0B 02 00  ....^....T..z...
+0AE0: 10 10 80 00 F8 0A 03 10  00 10 80 03 12 00 5F 80  .............._.
+0AF0: 03 13 00 54 80 01 7A 0B  02 00 10 0F 80 00 12 0B  ...T..z.........
+0B00: 03 10 00 0F 80 03 12 00  00 80 03 13 00 00 80 01  ................
+0B10: 7A 0B 02 00 10 01 80 00  2C 0B 03 10 00 01 80 03  z.......,.......
+0B20: 12 00 00 80 03 13 00 00  80 01 7A 0B 02 00 10 02  ..........z.....
+0B30: 80 00 46 0B 03 10 00 02  80 03 12 00 00 80 03 13  ..F.............
+0B40: 00 00 80 01 7A 0B 02 00  10 11 80 00 60 0B 03 10  ....z.......`...
+0B50: 00 11 80 03 12 00 00 80  03 13 00 00 80 01 7A 0B  ..............z.
+0B60: 02 00 10 12 80 00 7A 0B  03 10 00 12 80 03 12 00  ......z.........
+0B70: 00 80 03 13 00 00 80 01  7A 0B 02 10 00 00 80 02  ........z.......
+0B80: EC 0B 93 12 00 03 02 10  12 00 48 57 80 23 93 00  ..........HW.#..
+0B90: 80 03 02 10 12 00 03 03  10 13 00 1D 58 80 23 03  ............X.#.
+0BA0: 02 10 00 00 24 59 80 16  80 00 80 25 02 00 10 00  ....$Y.....%....
+0BB0: 80 00 E1 0B 02 00 00 13  00 04 DA 0B 40 00 80 01  ............@...
+0BC0: 80 01 10 1F 80 40 02 80  03 80 01 10 10 00 06 35  .....@.........5
+0BD0: 00 06 36 00 06 37 00 01  DE 0B 1D 5A 80 23 01 EC  ..6..7.....Z.#..
+0BE0: 0B 02 00 10 16 80 00 EC  0B 01 EC 0B 01 32 09 01  .............2..
+0BF0: C6 0E 02 00 10 07 80 00  C6 0E 05 37 00 02 37 00  ...........7..7.
+0C00: 00 80 02 C3 0E 06 10 00  06 3A 00 1A EC 20 03 02  .........:... ..
+0C10: 10 00 00 03 03 10 60 80  03 04 10 61 80 03 05 10  ......`....a....
+0C20: 62 80 03 06 10 61 80 03  07 10 63 80 03 08 10 61  b....a....c....a
+0C30: 80 03 09 10 00 80 03 00  17 00 80 03 01 17 00 80  ................
+0C40: 03 02 17 00 80 03 03 17  00 80 03 04 17 00 80 03  ................
+0C50: 05 17 00 80 03 06 17 00  80 03 07 17 00 80 03 08  ................
+0C60: 17 00 80 03 09 17 00 80  03 0A 17 00 80 03 0B 17  ................
+0C70: 00 80 03 0C 17 00 80 02  03 10 00 80 05 86 0C 3C  ...............<
+0C80: 3A 00 16 80 16 80 02 05  10 00 80 05 95 0C 3C 3A  :.............<:
+0C90: 00 1F 80 16 80 02 07 10  00 80 05 A4 0C 3C 3A 00  .............<:.
+0CA0: 06 80 16 80 02 09 10 00  80 05 B3 0C 3C 3A 00 07  ............<:..
+0CB0: 80 16 80 02 01 17 00 80  05 C2 0C 3C 3A 00 10 80  ...........<:...
+0CC0: 16 80 02 03 17 00 80 05  D1 0C 3C 3A 00 0F 80 16  ..........<:....
+0CD0: 80 02 05 17 00 80 05 E0  0C 3C 3A 00 01 80 16 80  .........<:.....
+0CE0: 02 07 17 00 80 05 EF 0C  3C 3A 00 02 80 16 80 02  ........<:......
+0CF0: 09 17 00 80 05 FE 0C 3C  3A 00 11 80 16 80 02 0B  .......<:.......
+0D00: 17 00 80 05 0D 0D 3C 3A  00 12 80 16 80 02 0D 17  ......<:........
+0D10: 00 80 05 1C 0D 3C 3A 00  08 80 16 80 02 0F 17 00  .....<:.........
+0D20: 80 05 2B 0D 3C 3A 00 09  80 16 80 24 56 80 00 80  ..+.<:.....$V...
+0D30: 3A 00 25 02 00 10 00 80  00 41 0D 06 37 00 01 45  :.%......A..7..E
+0D40: 0E 02 00 10 16 80 00 5B  0D 03 10 00 16 80 03 12  .......[........
+0D50: 00 60 80 03 13 00 61 80  01 45 0E 02 00 10 1F 80  .`....a..E......
+0D60: 00 75 0D 03 10 00 1F 80  03 12 00 62 80 03 13 00  .u.........b....
+0D70: 61 80 01 45 0E 02 00 10  06 80 00 8F 0D 03 10 00  a..E............
+0D80: 06 80 03 12 00 63 80 03  13 00 61 80 01 45 0E 02  .....c....a..E..
+0D90: 00 10 07 80 00 A9 0D 03  10 00 07 80 03 12 00 00  ................
+0DA0: 80 03 13 00 00 80 01 45  0E 02 00 10 10 80 00 C3  .......E........
+0DB0: 0D 03 10 00 10 80 03 12  00 00 80 03 13 00 00 80  ................
+0DC0: 01 45 0E 02 00 10 0F 80  00 DD 0D 03 10 00 0F 80  .E..............
+0DD0: 03 12 00 00 80 03 13 00  00 80 01 45 0E 02 00 10  ...........E....
+0DE0: 01 80 00 F7 0D 03 10 00  01 80 03 12 00 00 80 03  ................
+0DF0: 13 00 00 80 01 45 0E 02  00 10 02 80 00 11 0E 03  .....E..........
+0E00: 10 00 02 80 03 12 00 00  80 03 13 00 00 80 01 45  ...............E
+0E10: 0E 02 00 10 11 80 00 2B  0E 03 10 00 11 80 03 12  .......+........
+0E20: 00 00 80 03 13 00 00 80  01 45 0E 02 00 10 12 80  .........E......
+0E30: 00 45 0E 03 10 00 12 80  03 12 00 00 80 03 13 00  .E..............
+0E40: 00 80 01 45 0E 02 10 00  00 80 02 C0 0E 93 12 00  ...E............
+0E50: 03 02 10 12 00 48 57 80  23 93 00 80 03 02 10 12  .....HW.#.......
+0E60: 00 03 03 10 13 00 1D 58  80 23 03 02 10 12 00 1D  .......X.#......
+0E70: 64 80 23 03 02 10 00 00  24 59 80 16 80 00 80 25  d.#.....$Y.....%
+0E80: 02 00 10 00 80 00 B5 0E  02 00 00 13 00 04 AE 0E  ................
+0E90: 40 00 80 01 80 01 10 06  80 40 02 80 03 80 01 10  @........@......
+0EA0: 10 00 06 35 00 06 36 00  06 37 00 01 B2 0E 1D 5A  ...5..6..7.....Z
+0EB0: 80 23 01 C0 0E 02 00 10  16 80 00 C0 0E 01 C0 0E  .#..............
+0EC0: 01 FD 0B 01 C6 0E 01 D9  05 01 CF 1D 02 00 10 10  ................
+0ED0: 80 00 CF 1D 05 36 00 02  36 00 00 80 02 CC 1D 24  .....6..6......$
+0EE0: 65 80 00 80 00 80 25 02  00 10 00 80 00 F5 0E 06  e.....%.........
+0EF0: 36 00 01 C9 1D 02 00 10  16 80 00 22 16 06 10 00  6.........."....
+0F00: 05 37 00 02 37 00 00 80  02 1F 16 06 11 00 06 10  .7..7...........
+0F10: 00 1A EC 20 03 02 10 66  80 03 03 10 28 00 03 04  ... ...f....(...
+0F20: 10 67 80 03 05 10 29 00  03 06 10 68 80 03 07 10  .g....)....h....
+0F30: 2A 00 03 08 10 69 80 03  09 10 2B 00 03 00 17 6A  *....i....+....j
+0F40: 80 03 01 17 2C 00 24 6B  80 00 80 00 80 25 02 00  ....,.$k.....%..
+0F50: 10 00 80 00 5C 0F 06 37  00 01 CA 14 02 00 10 16  ....\..7........
+0F60: 80 00 72 10 03 11 00 16  80 06 10 00 1A EC 20 03  ..r........... .
+0F70: 02 10 6C 80 03 03 10 6D  80 03 04 10 6E 80 03 05  ..l....m....n...
+0F80: 10 6F 80 03 06 10 70 80  03 07 10 71 80 03 08 10  .o....p....q....
+0F90: 72 80 03 09 10 73 80 03  00 17 74 80 24 75 80 00  r....s....t.$u..
+0FA0: 80 00 80 25 02 00 10 00  80 00 B2 0F 06 38 00 01  ...%.........8..
+0FB0: 6F 10 02 00 10 16 80 00  C7 0F 03 10 00 16 80 03  o...............
+0FC0: 12 00 6C 80 01 6F 10 02  00 10 1F 80 00 DC 0F 03  ..l..o..........
+0FD0: 10 00 1F 80 03 12 00 6D  80 01 6F 10 02 00 10 06  .......m..o.....
+0FE0: 80 00 F1 0F 03 10 00 06  80 03 12 00 6E 80 01 6F  ............n..o
+0FF0: 10 02 00 10 07 80 00 06  10 03 10 00 07 80 03 12  ................
+1000: 00 6F 80 01 6F 10 02 00  10 10 80 00 1B 10 03 10  .o..o...........
+1010: 00 10 80 03 12 00 70 80  01 6F 10 02 00 10 0F 80  ......p..o......
+1020: 00 30 10 03 10 00 0F 80  03 12 00 71 80 01 6F 10  .0.........q..o.
+1030: 02 00 10 01 80 00 45 10  03 10 00 01 80 03 12 00  ......E.........
+1040: 72 80 01 6F 10 02 00 10  02 80 00 5A 10 03 10 00  r..o.......Z....
+1050: 02 80 03 12 00 73 80 01  6F 10 02 00 10 11 80 00  .....s..o.......
+1060: 6F 10 03 10 00 11 80 03  12 00 74 80 01 6F 10 01  o.........t..o..
+1070: CA 14 02 00 10 1F 80 00  88 11 03 11 00 1F 80 06  ................
+1080: 10 00 1A EC 20 03 02 10  76 80 03 03 10 77 80 03  .... ...v....w..
+1090: 04 10 78 80 03 05 10 79  80 03 06 10 7A 80 03 07  ..x....y....z...
+10A0: 10 7B 80 03 08 10 7C 80  03 09 10 7D 80 03 00 17  .{....|....}....
+10B0: 7E 80 24 75 80 00 80 00  80 25 02 00 10 00 80 00  ~.$u.....%......
+10C0: C8 10 06 38 00 01 85 11  02 00 10 16 80 00 DD 10  ...8............
+10D0: 03 10 00 16 80 03 12 00  76 80 01 85 11 02 00 10  ........v.......
+10E0: 1F 80 00 F2 10 03 10 00  1F 80 03 12 00 77 80 01  .............w..
+10F0: 85 11 02 00 10 06 80 00  07 11 03 10 00 06 80 03  ................
+1100: 12 00 78 80 01 85 11 02  00 10 07 80 00 1C 11 03  ..x.............
+1110: 10 00 07 80 03 12 00 79  80 01 85 11 02 00 10 10  .......y........
+1120: 80 00 31 11 03 10 00 10  80 03 12 00 7A 80 01 85  ..1.........z...
+1130: 11 02 00 10 0F 80 00 46  11 03 10 00 0F 80 03 12  .......F........
+1140: 00 7B 80 01 85 11 02 00  10 01 80 00 5B 11 03 10  .{..........[...
+1150: 00 01 80 03 12 00 7C 80  01 85 11 02 00 10 02 80  ......|.........
+1160: 00 70 11 03 10 00 02 80  03 12 00 7D 80 01 85 11  .p.........}....
+1170: 02 00 10 11 80 00 85 11  03 10 00 11 80 03 12 00  ................
+1180: 7E 80 01 85 11 01 CA 14  02 00 10 06 80 00 9E 12  ~...............
+1190: 03 11 00 06 80 06 10 00  1A EC 20 03 02 10 7F 80  .......... .....
+11A0: 03 03 10 80 80 03 04 10  81 80 03 05 10 82 80 03  ................
+11B0: 06 10 83 80 03 07 10 84  80 03 08 10 85 80 03 09  ................
+11C0: 10 86 80 03 00 17 87 80  24 75 80 00 80 00 80 25  ........$u.....%
+11D0: 02 00 10 00 80 00 DE 11  06 38 00 01 9B 12 02 00  .........8......
+11E0: 10 16 80 00 F3 11 03 10  00 16 80 03 12 00 7F 80  ................
+11F0: 01 9B 12 02 00 10 1F 80  00 08 12 03 10 00 1F 80  ................
+1200: 03 12 00 80 80 01 9B 12  02 00 10 06 80 00 1D 12  ................
+1210: 03 10 00 06 80 03 12 00  81 80 01 9B 12 02 00 10  ................
+1220: 07 80 00 32 12 03 10 00  07 80 03 12 00 82 80 01  ...2............
+1230: 9B 12 02 00 10 10 80 00  47 12 03 10 00 10 80 03  ........G.......
+1240: 12 00 83 80 01 9B 12 02  00 10 0F 80 00 5C 12 03  .............\..
+1250: 10 00 0F 80 03 12 00 84  80 01 9B 12 02 00 10 01  ................
+1260: 80 00 71 12 03 10 00 01  80 03 12 00 85 80 01 9B  ..q.............
+1270: 12 02 00 10 02 80 00 86  12 03 10 00 02 80 03 12  ................
+1280: 00 86 80 01 9B 12 02 00  10 11 80 00 9B 12 03 10  ................
+1290: 00 11 80 03 12 00 87 80  01 9B 12 01 CA 14 02 00  ................
+12A0: 10 07 80 00 B4 13 03 11  00 07 80 06 10 00 1A EC  ................
+12B0: 20 03 02 10 88 80 03 03  10 89 80 03 04 10 8A 80   ...............
+12C0: 03 05 10 8B 80 03 06 10  8C 80 03 07 10 8D 80 03  ................
+12D0: 08 10 8E 80 03 09 10 8F  80 03 00 17 90 80 24 75  ..............$u
+12E0: 80 00 80 00 80 25 02 00  10 00 80 00 F4 12 06 38  .....%.........8
+12F0: 00 01 B1 13 02 00 10 16  80 00 09 13 03 10 00 16  ................
+1300: 80 03 12 00 88 80 01 B1  13 02 00 10 1F 80 00 1E  ................
+1310: 13 03 10 00 1F 80 03 12  00 89 80 01 B1 13 02 00  ................
+1320: 10 06 80 00 33 13 03 10  00 06 80 03 12 00 8A 80  ....3...........
+1330: 01 B1 13 02 00 10 07 80  00 48 13 03 10 00 07 80  .........H......
+1340: 03 12 00 8B 80 01 B1 13  02 00 10 10 80 00 5D 13  ..............].
+1350: 03 10 00 10 80 03 12 00  8C 80 01 B1 13 02 00 10  ................
+1360: 0F 80 00 72 13 03 10 00  0F 80 03 12 00 8D 80 01  ...r............
+1370: B1 13 02 00 10 01 80 00  87 13 03 10 00 01 80 03  ................
+1380: 12 00 8E 80 01 B1 13 02  00 10 02 80 00 9C 13 03  ................
+1390: 10 00 02 80 03 12 00 8F  80 01 B1 13 02 00 10 11  ................
+13A0: 80 00 B1 13 03 10 00 11  80 03 12 00 90 80 01 B1  ................
+13B0: 13 01 CA 14 02 00 10 10  80 00 CA 14 03 11 00 10  ................
+13C0: 80 06 10 00 1A EC 20 03  02 10 91 80 03 03 10 92  ...... .........
+13D0: 80 03 04 10 93 80 03 05  10 94 80 03 06 10 95 80  ................
+13E0: 03 07 10 96 80 03 08 10  97 80 03 09 10 98 80 03  ................
+13F0: 00 17 99 80 24 75 80 00  80 00 80 25 02 00 10 00  ....$u.....%....
+1400: 80 00 0A 14 06 38 00 01  C7 14 02 00 10 16 80 00  .....8..........
+1410: 1F 14 03 10 00 16 80 03  12 00 91 80 01 C7 14 02  ................
+1420: 00 10 1F 80 00 34 14 03  10 00 1F 80 03 12 00 92  .....4..........
+1430: 80 01 C7 14 02 00 10 06  80 00 49 14 03 10 00 06  ..........I.....
+1440: 80 03 12 00 93 80 01 C7  14 02 00 10 07 80 00 5E  ...............^
+1450: 14 03 10 00 07 80 03 12  00 94 80 01 C7 14 02 00  ................
+1460: 10 10 80 00 73 14 03 10  00 10 80 03 12 00 95 80  ....s...........
+1470: 01 C7 14 02 00 10 0F 80  00 88 14 03 10 00 0F 80  ................
+1480: 03 12 00 96 80 01 C7 14  02 00 10 01 80 00 9D 14  ................
+1490: 03 10 00 01 80 03 12 00  97 80 01 C7 14 02 00 10  ................
+14A0: 02 80 00 B2 14 03 10 00  02 80 03 12 00 98 80 01  ................
+14B0: C7 14 02 00 10 11 80 00  C7 14 03 10 00 11 80 03  ................
+14C0: 12 00 99 80 01 C7 14 01  CA 14 02 11 00 00 80 02  ................
+14D0: 1C 16 02 10 00 00 80 02  1C 16 93 12 00 03 02 10  ................
+14E0: 12 00 48 57 80 23 93 00  80 03 02 10 12 00 02 11  ..HW.#..........
+14F0: 00 16 80 80 FE 14 03 03  10 66 80 01 3E 15 02 11  .........f..>...
+1500: 00 1F 80 80 0E 15 03 03  10 67 80 01 3E 15 02 11  .........g..>...
+1510: 00 06 80 80 1E 15 03 03  10 68 80 01 3E 15 02 11  .........h..>...
+1520: 00 07 80 80 2E 15 03 03  10 69 80 01 3E 15 02 11  .........i..>...
+1530: 00 10 80 80 3E 15 03 03  10 6A 80 01 3E 15 03 04  ....>....j..>...
+1540: 10 16 80 02 04 10 16 80  02 52 15 1D 9A 80 23 01  .........R....#.
+1550: 56 15 1D 9B 80 23 03 02  10 12 00 1D 9C 80 23 24  V....#........#$
+1560: 9D 80 16 80 00 80 25 02  00 10 00 80 00 11 16 02  ......%.........
+1570: 11 00 16 80 80 84 15 03  3B 00 28 00 03 02 10 66  ........;.(....f
+1580: 80 01 D8 15 02 11 00 1F  80 80 99 15 03 3B 00 29  .............;.)
+1590: 00 03 02 10 67 80 01 D8  15 02 11 00 06 80 80 AE  ....g...........
+15A0: 15 03 3B 00 2A 00 03 02  10 68 80 01 D8 15 02 11  ..;.*....h......
+15B0: 00 07 80 80 C3 15 03 3B  00 2B 00 03 02 10 69 80  .......;.+....i.
+15C0: 01 D8 15 02 11 00 10 80  80 D8 15 03 3B 00 2C 00  ............;.,.
+15D0: 03 02 10 6A 80 01 D8 15  02 3B 00 16 80 04 0A 16  ...j.....;......
+15E0: 40 00 80 01 80 01 10 07  80 40 02 80 03 80 01 10  @........@......
+15F0: 10 00 40 04 80 05 80 01  10 11 00 06 35 00 06 36  ..@.........5..6
+1600: 00 06 37 00 06 38 00 01  0E 16 1D 9E 80 23 01 1C  ..7..8.......#..
+1610: 16 02 00 10 16 80 00 1C  16 01 1C 16 01 03 0F 01  ................
+1620: C9 1D 02 00 10 1F 80 00  C9 1D 05 37 00 02 37 00  ...........7..7.
+1630: 00 80 02 C6 1D 06 11 00  06 10 00 1A EC 20 03 02  ............. ..
+1640: 10 66 80 03 03 10 28 00  03 04 10 67 80 03 05 10  .f....(....g....
+1650: 29 00 03 06 10 68 80 03  07 10 2A 00 03 08 10 69  )....h....*....i
+1660: 80 03 09 10 2B 00 03 00  17 6A 80 03 01 17 2C 00  ....+....j....,.
+1670: 06 3B 00 24 9F 80 00 80  00 80 25 02 00 10 00 80  .;.$......%.....
+1680: 00 89 16 06 37 00 01 05  18 02 00 10 16 80 00 D5  ....7...........
+1690: 16 03 10 00 16 80 03 02  10 66 80 03 03 10 28 00  .........f....(.
+16A0: 48 A0 80 23 71 10 16 80  71 11 02 17 03 2E 00 02  H..#q...q.......
+16B0: 17 03 02 10 00 80 03 03  10 28 00 03 04 10 67 80  .........(....g.
+16C0: 03 05 10 29 00 02 28 00  2E 00 03 D2 16 03 3B 00  ...)..(.......;.
+16D0: 16 80 01 05 18 02 00 10  1F 80 00 21 17 03 10 00  ...........!....
+16E0: 1F 80 03 02 10 67 80 03  03 10 29 00 48 A0 80 23  .....g....).H..#
+16F0: 71 10 16 80 71 11 02 17  03 2E 00 02 17 03 02 10  q...q...........
+1700: 66 80 03 03 10 28 00 03  04 10 68 80 03 05 10 2A  f....(....h....*
+1710: 00 02 29 00 2E 00 03 1E  17 03 3B 00 16 80 01 05  ..).......;.....
+1720: 18 02 00 10 06 80 00 6D  17 03 10 00 06 80 03 02  .......m........
+1730: 10 68 80 03 03 10 2A 00  48 A0 80 23 71 10 16 80  .h....*.H..#q...
+1740: 71 11 02 17 03 2E 00 02  17 03 02 10 67 80 03 03  q...........g...
+1750: 10 29 00 03 04 10 69 80  03 05 10 2B 00 02 2A 00  .)....i....+..*.
+1760: 2E 00 03 6A 17 03 3B 00  16 80 01 05 18 02 00 10  ...j..;.........
+1770: 07 80 00 B9 17 03 10 00  07 80 03 02 10 69 80 03  .............i..
+1780: 03 10 2B 00 48 A0 80 23  71 10 16 80 71 11 02 17  ..+.H..#q...q...
+1790: 03 2E 00 02 17 03 02 10  68 80 03 03 10 2A 00 03  ........h....*..
+17A0: 04 10 6A 80 03 05 10 2C  00 02 2B 00 2E 00 03 B6  ..j....,..+.....
+17B0: 17 03 3B 00 16 80 01 05  18 02 00 10 10 80 00 05  ..;.............
+17C0: 18 03 10 00 10 80 03 02  10 6A 80 03 03 10 2C 00  .........j....,.
+17D0: 48 A0 80 23 71 10 16 80  71 11 02 17 03 2E 00 02  H..#q...q.......
+17E0: 17 03 02 10 69 80 03 03  10 2B 00 03 04 10 00 80  ....i....+......
+17F0: 03 05 10 2C 00 02 2C 00  2E 00 03 02 18 03 3B 00  ...,..,.......;.
+1800: 16 80 01 05 18 02 10 00  00 80 02 C3 1D 06 39 00  ..............9.
+1810: 06 11 00 02 02 10 00 80  05 22 18 3C 39 00 16 80  .........".<9...
+1820: 16 80 02 04 10 00 80 05  31 18 3C 39 00 1F 80 16  ........1.<9....
+1830: 80 02 2E 00 00 80 05 40  18 3C 39 00 16 80 16 80  .......@.<9.....
+1840: 02 2E 00 16 80 05 4F 18  3C 39 00 1F 80 16 80 24  ......O.<9.....$
+1850: A1 80 00 80 39 00 25 02  00 10 00 80 00 62 18 01  ....9.%......b..
+1860: 82 18 02 00 10 16 80 00  72 18 03 11 00 16 80 01  ........r.......
+1870: 82 18 02 00 10 1F 80 00  82 18 03 11 00 1F 80 01  ................
+1880: 82 18 02 11 00 00 80 02  C3 1D 02 10 00 16 80 80  ................
+1890: 43 19 03 02 10 66 80 02  11 00 16 80 80 DF 18 03  C....f..........
+18A0: 31 00 28 00 03 30 00 2E  00 08 31 00 2E 00 14 30  1.(..0....1....0
+18B0: 00 1F 80 03 2D 00 30 00  07 2D 00 28 00 02 2D 00  ....-.0..-.(..-.
+18C0: A2 80 02 CD 18 03 3B 00  1F 80 01 DC 18 03 03 10  ......;.........
+18D0: 31 00 03 04 10 66 80 03  05 10 2D 00 01 40 19 02  1....f....-..@..
+18E0: 11 00 1F 80 80 40 19 03  31 00 28 00 08 31 00 2E  .....@..1.(..1..
+18F0: 00 03 30 00 2E 00 3F 2F  00 2E 00 1F 80 02 2F 00  ..0...?/....../.
+1900: 16 80 04 0F 19 07 31 00  16 80 08 30 00 16 80 15  ......1....0....
+1910: 30 00 1F 80 03 2D 00 30  00 07 2D 00 29 00 02 2D  0....-.0..-.)..-
+1920: 00 A2 80 02 2E 19 03 3B  00 1F 80 01 3D 19 03 03  .......;....=...
+1930: 10 31 00 03 04 10 67 80  03 05 10 2D 00 01 40 19  .1....g....-..@.
+1940: 01 27 1C 02 10 00 1F 80  80 FC 19 03 02 10 67 80  .'............g.
+1950: 02 11 00 16 80 80 98 19  03 31 00 29 00 03 30 00  .........1.)..0.
+1960: 2E 00 08 31 00 2E 00 14  30 00 1F 80 03 2D 00 30  ...1....0....-.0
+1970: 00 07 2D 00 28 00 02 2D  00 A2 80 02 86 19 03 3B  ..-.(..-.......;
+1980: 00 1F 80 01 95 19 03 03  10 31 00 03 04 10 66 80  .........1....f.
+1990: 03 05 10 2D 00 01 F9 19  02 11 00 1F 80 80 F9 19  ...-............
+19A0: 03 31 00 29 00 08 31 00  2E 00 03 30 00 2E 00 3F  .1.)..1....0...?
+19B0: 2F 00 2E 00 1F 80 02 2F  00 16 80 04 C8 19 07 31  /....../.......1
+19C0: 00 16 80 08 30 00 16 80  15 30 00 1F 80 03 2D 00  ....0....0....-.
+19D0: 30 00 07 2D 00 2A 00 02  2D 00 A2 80 02 E7 19 03  0..-.*..-.......
+19E0: 3B 00 1F 80 01 F6 19 03  03 10 31 00 03 04 10 68  ;.........1....h
+19F0: 80 03 05 10 2D 00 01 F9  19 01 27 1C 02 10 00 06  ....-.....'.....
+1A00: 80 80 B5 1A 03 02 10 68  80 02 11 00 16 80 80 51  .......h.......Q
+1A10: 1A 03 31 00 2A 00 03 30  00 2E 00 08 31 00 2E 00  ..1.*..0....1...
+1A20: 14 30 00 1F 80 03 2D 00  30 00 07 2D 00 29 00 02  .0....-.0..-.)..
+1A30: 2D 00 A2 80 02 3F 1A 03  3B 00 1F 80 01 4E 1A 03  -....?..;....N..
+1A40: 03 10 31 00 03 04 10 67  80 03 05 10 2D 00 01 B2  ..1....g....-...
+1A50: 1A 02 11 00 1F 80 80 B2  1A 03 31 00 2A 00 08 31  ..........1.*..1
+1A60: 00 2E 00 03 30 00 2E 00  3F 2F 00 2E 00 1F 80 02  ....0...?/......
+1A70: 2F 00 16 80 04 81 1A 07  31 00 16 80 08 30 00 16  /.......1....0..
+1A80: 80 15 30 00 1F 80 03 2D  00 30 00 07 2D 00 2B 00  ..0....-.0..-.+.
+1A90: 02 2D 00 A2 80 02 A0 1A  03 3B 00 1F 80 01 AF 1A  .-.......;......
+1AA0: 03 03 10 31 00 03 04 10  69 80 03 05 10 2D 00 01  ...1....i....-..
+1AB0: B2 1A 01 27 1C 02 10 00  07 80 80 6E 1B 03 02 10  ...'.......n....
+1AC0: 69 80 02 11 00 16 80 80  0A 1B 03 31 00 2B 00 03  i..........1.+..
+1AD0: 30 00 2E 00 08 31 00 2E  00 14 30 00 1F 80 03 2D  0....1....0....-
+1AE0: 00 30 00 07 2D 00 2A 00  02 2D 00 A2 80 02 F8 1A  .0..-.*..-......
+1AF0: 03 3B 00 1F 80 01 07 1B  03 03 10 31 00 03 04 10  .;.........1....
+1B00: 68 80 03 05 10 2D 00 01  6B 1B 02 11 00 1F 80 80  h....-..k.......
+1B10: 6B 1B 03 31 00 2B 00 08  31 00 2E 00 03 30 00 2E  k..1.+..1....0..
+1B20: 00 3F 2F 00 2E 00 1F 80  02 2F 00 16 80 04 3A 1B  .?/....../....:.
+1B30: 07 31 00 16 80 08 30 00  16 80 15 30 00 1F 80 03  .1....0....0....
+1B40: 2D 00 30 00 07 2D 00 2C  00 02 2D 00 A2 80 02 59  -.0..-.,..-....Y
+1B50: 1B 03 3B 00 1F 80 01 68  1B 03 03 10 31 00 03 04  ..;....h....1...
+1B60: 10 6A 80 03 05 10 2D 00  01 6B 1B 01 27 1C 02 10  .j....-..k..'...
+1B70: 00 10 80 80 27 1C 03 02  10 6A 80 02 11 00 16 80  ....'....j......
+1B80: 80 C3 1B 03 31 00 2C 00  03 30 00 2E 00 08 31 00  ....1.,..0....1.
+1B90: 2E 00 14 30 00 1F 80 03  2D 00 30 00 07 2D 00 2B  ...0....-.0..-.+
+1BA0: 00 02 2D 00 A2 80 02 B1  1B 03 3B 00 1F 80 01 C0  ..-.......;.....
+1BB0: 1B 03 03 10 31 00 03 04  10 69 80 03 05 10 2D 00  ....1....i....-.
+1BC0: 01 24 1C 02 11 00 1F 80  80 24 1C 03 31 00 2C 00  .$.......$..1.,.
+1BD0: 08 31 00 2E 00 03 30 00  2E 00 3F 2F 00 2E 00 1F  .1....0...?/....
+1BE0: 80 02 2F 00 16 80 04 F3  1B 07 31 00 16 80 08 30  ../.......1....0
+1BF0: 00 16 80 15 30 00 1F 80  03 2D 00 30 00 07 2D 00  ....0....-.0..-.
+1C00: 2C 00 02 2D 00 A2 80 02  12 1C 03 3B 00 1F 80 01  ,..-.......;....
+1C10: 21 1C 03 03 10 31 00 03  04 10 6A 80 03 05 10 2D  !....1....j....-
+1C20: 00 01 24 1C 01 27 1C 02  3B 00 00 80 00 81 1C 1D  ..$..'..;.......
+1C30: A3 80 23 24 A4 80 16 80  00 80 25 02 00 10 00 80  ..#$......%.....
+1C40: 00 73 1C 40 00 80 01 80  01 10 10 80 40 02 80 03  .s.@........@...
+1C50: 80 01 10 10 00 40 04 80  05 80 01 10 11 00 40 0C  .....@........@.
+1C60: 80 A5 80 01 10 2E 00 06  35 00 06 36 00 06 37 00  ........5..6..7.
+1C70: 01 7E 1C 02 00 10 16 80  00 7E 1C 01 7E 1C 01 C3  .~.......~..~...
+1C80: 1D 02 3B 00 16 80 00 E0  1C 02 10 00 16 80 80 99  ..;.............
+1C90: 1C 03 02 10 66 80 01 D9  1C 02 10 00 1F 80 80 A9  ....f...........
+1CA0: 1C 03 02 10 67 80 01 D9  1C 02 10 00 06 80 80 B9  ....g...........
+1CB0: 1C 03 02 10 68 80 01 D9  1C 02 10 00 07 80 80 C9  ....h...........
+1CC0: 1C 03 02 10 69 80 01 D9  1C 02 10 00 10 80 80 D9  ....i...........
+1CD0: 1C 03 02 10 6A 80 01 D9  1C 1D 9E 80 23 01 C3 1D  ....j.......#...
+1CE0: 02 3B 00 1F 80 00 C3 1D  02 10 00 16 80 80 13 1D  .;..............
+1CF0: 02 11 00 16 80 80 00 1D  03 02 10 00 80 01 10 1D  ................
+1D00: 02 11 00 1F 80 80 10 1D  03 02 10 67 80 01 10 1D  ...........g....
+1D10: 01 BF 1D 02 10 00 1F 80  80 3E 1D 02 11 00 16 80  .........>......
+1D20: 80 2B 1D 03 02 10 66 80  01 3B 1D 02 11 00 1F 80  .+....f..;......
+1D30: 80 3B 1D 03 02 10 68 80  01 3B 1D 01 BF 1D 02 10  .;....h..;......
+1D40: 00 06 80 80 69 1D 02 11  00 16 80 80 56 1D 03 02  ....i.......V...
+1D50: 10 67 80 01 66 1D 02 11  00 1F 80 80 66 1D 03 02  .g..f.......f...
+1D60: 10 69 80 01 66 1D 01 BF  1D 02 10 00 07 80 80 94  .i..f...........
+1D70: 1D 02 11 00 16 80 80 81  1D 03 02 10 68 80 01 91  ............h...
+1D80: 1D 02 11 00 1F 80 80 91  1D 03 02 10 6A 80 01 91  ............j...
+1D90: 1D 01 BF 1D 02 10 00 10  80 80 BF 1D 02 11 00 16  ................
+1DA0: 80 80 AC 1D 03 02 10 69  80 01 BC 1D 02 11 00 1F  .......i........
+1DB0: 80 80 BC 1D 03 02 10 00  80 01 BC 1D 01 BF 1D 1D  ................
+1DC0: A6 80 23 01 2D 16 01 C9  1D 01 D7 0E 01 CF 1D 01  ..#.-...........
+1DD0: 5F 01 42 20 00 21 00 3E  16 00 00 80 E6 1D 03 02  _.B .!.>........
+1DE0: 10 16 80 01 EB 1D 03 02  10 00 80 03 03 10 20 00  .............. .
+1DF0: 3E 16 00 16 80 FF 1D 03  04 10 16 80 01 04 1E 03  >...............
+1E00: 04 10 00 80 03 05 10 21  00 3E 16 00 1F 80 18 1E  .......!.>......
+1E10: 03 06 10 16 80 01 1D 1E  03 06 10 00 80 03 07 10  ................
+1E20: 22 00 3E 16 00 06 80 31  1E 03 08 10 16 80 01 36  ".>....1.......6
+1E30: 1E 03 08 10 00 80 03 09  10 23 00 3E 16 00 07 80  .........#.>....
+1E40: 4A 1E 03 00 17 16 80 01  4F 1E 03 00 17 00 80 03  J.......O.......
+1E50: 01 17 24 00 3E 16 00 10  80 63 1E 03 02 17 16 80  ..$.>....c......
+1E60: 01 68 1E 03 02 17 00 80  03 03 17 25 00 3E 16 00  .h.........%.>..
+1E70: 0F 80 7C 1E 03 04 17 16  80 01 81 1E 03 04 17 00  ..|.............
+1E80: 80 03 05 17 26 00 3E 16  00 01 80 95 1E 03 06 17  ....&.>.........
+1E90: 16 80 01 9A 1E 03 06 17  00 80 03 07 17 27 00 24  .............'.$
+1EA0: 14 00 00 80 00 80 25 02  00 10 00 80 80 B5 1E 06  ......%.........
+1EB0: 37 00 01 35 20 02 00 10  16 80 80 E5 1E 3E 16 00  7..5 ........>..
+1EC0: 00 80 D5 1E 03 02 10 00  80 1D 15 00 23 03 10 00  ............#...
+1ED0: 16 80 01 E2 1E 03 02 10  02 80 1D A7 80 23 1D A8  .............#..
+1EE0: 80 23 01 35 20 02 00 10  1F 80 80 15 1F 3E 16 00  .#.5 ........>..
+1EF0: 16 80 05 1F 03 02 10 16  80 1D 15 00 23 03 10 00  ............#...
+1F00: 1F 80 01 12 1F 03 02 10  09 80 1D A7 80 23 1D A8  .............#..
+1F10: 80 23 01 35 20 02 00 10  06 80 80 45 1F 3E 16 00  .#.5 ......E.>..
+1F20: 1F 80 35 1F 03 02 10 1F  80 1D 15 00 23 03 10 00  ..5.........#...
+1F30: 06 80 01 42 1F 03 02 10  00 80 1D A7 80 23 1D A8  ...B.........#..
+1F40: 80 23 01 35 20 02 00 10  07 80 80 75 1F 3E 16 00  .#.5 ......u.>..
+1F50: 06 80 65 1F 03 02 10 06  80 1D 15 00 23 03 10 00  ..e.........#...
+1F60: 07 80 01 72 1F 03 02 10  00 80 1D A7 80 23 1D A8  ...r.........#..
+1F70: 80 23 01 35 20 02 00 10  10 80 80 A5 1F 3E 16 00  .#.5 ........>..
+1F80: 07 80 95 1F 03 02 10 07  80 1D 15 00 23 03 10 00  ............#...
+1F90: 10 80 01 A2 1F 03 02 10  11 80 1D A7 80 23 1D A8  .............#..
+1FA0: 80 23 01 35 20 02 00 10  0F 80 80 D5 1F 3E 16 00  .#.5 ........>..
+1FB0: 10 80 C5 1F 03 02 10 10  80 1D 15 00 23 03 10 00  ............#...
+1FC0: 0F 80 01 D2 1F 03 02 10  0F 80 1D A7 80 23 1D A8  .............#..
+1FD0: 80 23 01 35 20 02 00 10  01 80 80 05 20 3E 16 00  .#.5 ....... >..
+1FE0: 0F 80 F5 1F 03 02 10 0F  80 1D 15 00 23 03 10 00  ............#...
+1FF0: 01 80 01 02 20 03 02 10  1F 80 1D A7 80 23 1D A8  .... ........#..
+2000: 80 23 01 35 20 02 00 10  02 80 80 35 20 3E 16 00  .#.5 ......5 >..
+2010: 01 80 25 20 03 02 10 01  80 1D 15 00 23 03 10 00  ..% ........#...
+2020: 02 80 01 32 20 03 02 10  16 80 1D A7 80 23 1D A8  ...2 ........#..
+2030: 80 23 01 35 20 1B 02 10  00 00 80 02 EB 20 02 10  .#.5 ........ ..
+2040: 00 16 80 80 4E 20 03 3B  00 18 00 01 BE 20 02 10  ....N .;..... ..
+2050: 00 1F 80 80 5E 20 03 3B  00 19 00 01 BE 20 02 10  ....^ .;..... ..
+2060: 00 06 80 80 6E 20 03 3B  00 1A 00 01 BE 20 02 10  ....n .;..... ..
+2070: 00 07 80 80 7E 20 03 3B  00 1B 00 01 BE 20 02 10  ....~ .;..... ..
+2080: 00 10 80 80 8E 20 03 3B  00 1C 00 01 BE 20 02 10  ..... .;..... ..
+2090: 00 0F 80 80 9E 20 03 3B  00 1D 00 01 BE 20 02 10  ..... .;..... ..
+20A0: 00 01 80 80 AE 20 03 3B  00 1E 00 01 BE 20 02 10  ..... .;..... ..
+20B0: 00 02 80 80 BE 20 03 3B  00 1F 00 01 BE 20 02 3B  ..... .;..... .;
+20C0: 00 16 80 80 CD 20 1D A9  80 23 01 EB 20 02 3B 00  ..... ...#.. .;.
+20D0: 1F 80 80 DC 20 1D AA 80  23 01 EB 20 02 3B 00 06  .... ...#.. .;..
+20E0: 80 80 EB 20 1D AB 80 23  01 EB 20 1B 06 02 10 06  ... ...#.. .....
+20F0: 03 10 06 04 10 06 05 10  06 06 10 06 07 10 06 08  ................
+2100: 10 06 09 10 06 00 17 06  01 17 06 02 17 06 03 17  ................
+2110: 06 04 17 06 05 17 06 06  17 06 07 17 06 08 17 06  ................
+2120: 09 17 06 0A 17 06 0B 17  06 0C 17 06 0D 17 06 0E  ................
+2130: 17 06 0F 17 06 10 17 06  11 17 06 12 17 06 13 17  ................
+2140: 06 14 17 06 15 17 1B                              .......         
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x06] ExtData[1]->WorkLocal[0] = 0
+  2: 0x0006 [0x06] ExtData[1]->WorkLocal[1] = 0
+  3: 0x0009 [0x06] ExtData[1]->WorkLocal[2] = 0
+  4: 0x000C [0x06] ExtData[1]->WorkLocal[3] = 0
+  5: 0x000F [0x06] ExtData[1]->WorkLocal[4] = 0
+  6: 0x0012 [0x06] ExtData[1]->WorkLocal[5] = 0
+  7: 0x0015 [0x06] ExtData[1]->WorkLocal[6] = 0
+  8: 0x0018 [0x06] ExtData[1]->WorkLocal[7] = 0
+  9: 0x001B [0x06] ExtData[1]->WorkLocal[8] = 0
+ 10: 0x001E [0x06] ExtData[1]->WorkLocal[9] = 0
+ 11: 0x0021 [0x06] ExtData[1]->WorkLocal[10] = 0
+ 12: 0x0024 [0x06] ExtData[1]->WorkLocal[11] = 0
+ 13: 0x0027 [0x06] ExtData[1]->WorkLocal[12] = 0
+ 14: 0x002A [0x06] ExtData[1]->WorkLocal[13] = 0
+ 15: 0x002D [0x06] ExtData[1]->WorkLocal[14] = 0
+ 16: 0x0030 [0x06] ExtData[1]->WorkLocal[15] = 0
+ 17: 0x0033 [0x06] ExtData[1]->WorkLocal[16] = 0
+ 18: 0x0036 [0x06] ExtData[1]->WorkLocal[17] = 0
+ 19: 0x0039 [0x06] ExtData[1]->WorkLocal[18] = 0
+ 20: 0x003C [0x06] ExtData[1]->WorkLocal[19] = 0
+ 21: 0x003F [0x06] ExtData[1]->WorkLocal[20] = 0
+ 22: 0x0042 [0x06] ExtData[1]->WorkLocal[21] = 0
+ 23: 0x0045 [0x06] ExtData[1]->WorkLocal[22] = 0
+ 24: 0x0048 [0x06] ExtData[1]->WorkLocal[23] = 0
+ 25: 0x004B [0x06] ExtData[1]->WorkLocal[24] = 0
+ 26: 0x004E [0x06] ExtData[1]->WorkLocal[25] = 0
+ 27: 0x0051 [0x06] ExtData[1]->WorkLocal[26] = 0
+ 28: 0x0054 [0x06] ExtData[1]->WorkLocal[27] = 0
+ 29: 0x0057 [0x06] ExtData[1]->WorkLocal[28] = 0
+ 30: 0x005A [0x06] ExtData[1]->WorkLocal[29] = 0
+ 31: 0x005D [0x06] ExtData[1]->WorkLocal[30] = 0
+ 32: 0x0060 [0x06] ExtData[1]->WorkLocal[31] = 0
+ 33: 0x0063 [0x06] ExtData[1]->WorkLocal[32] = 0
+ 34: 0x0066 [0x06] ExtData[1]->WorkLocal[33] = 0
+ 35: 0x0069 [0x06] ExtData[1]->WorkLocal[34] = 0
+ 36: 0x006C [0x06] ExtData[1]->WorkLocal[35] = 0
+ 37: 0x006F [0x06] ExtData[1]->WorkLocal[36] = 0
+ 38: 0x0072 [0x06] ExtData[1]->WorkLocal[37] = 0
+ 39: 0x0075 [0x06] ExtData[1]->WorkLocal[38] = 0
+ 40: 0x0078 [0x06] ExtData[1]->WorkLocal[39] = 0
+ 41: 0x007B [0x06] ExtData[1]->WorkLocal[40] = 0
+ 42: 0x007E [0x06] ExtData[1]->WorkLocal[41] = 0
+ 43: 0x0081 [0x06] ExtData[1]->WorkLocal[42] = 0
+ 44: 0x0084 [0x06] ExtData[1]->WorkLocal[43] = 0
+ 45: 0x0087 [0x06] ExtData[1]->WorkLocal[44] = 0
+ 46: 0x008A [0x06] ExtData[1]->WorkLocal[53] = 0
+ 47: 0x008D [0x06] ExtData[1]->WorkLocal[54] = 0
+ 48: 0x0090 [0x06] ExtData[1]->WorkLocal[55] = 0
+ 49: 0x0093 [0x06] ExtData[1]->WorkLocal[56] = 0
+ 50: 0x0096 [0x06] ExtData[1]->WorkLocal[57] = 0
+ 51: 0x0099 [0x06] ExtData[1]->WorkLocal[58] = 0
+ 52: 0x009C [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+ 53: 0x00A1 [0x41] ExtData[1]->WorkLocal[1] = Work_Zone[3] (bits 0*-7*)
+ 54: 0x00AA [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[3] (bits 8*-15*)
+ 55: 0x00B3 [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[4] (bits 0*-7*)
+ 56: 0x00BC [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[4] (bits 8*-15*)
+ 57: 0x00C5 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[4] (bits 16*-23*)
+ 58: 0x00CE [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[5] (bits 0*-3*)
+ 59: 0x00D7 [0x41] ExtData[1]->WorkLocal[7] = Work_Zone[5] (bits 4*-7*)
+ 60: 0x00E0 [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[5] (bits 8*-11*)
+ 61: 0x00E9 [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[5] (bits 12*-15*)
+ 62: 0x00F2 [0x41] ExtData[1]->WorkLocal[10] = Work_Zone[5] (bits 16*-19*)
+ 63: 0x00FB [0x41] ExtData[1]->WorkLocal[11] = Work_Zone[5] (bits 20*-23*)
+ 64: 0x0104 [0x41] ExtData[1]->WorkLocal[12] = Work_Zone[5] (bits 24*-27*)
+ 65: 0x010D [0x41] ExtData[1]->WorkLocal[13] = Work_Zone[6] (bits 7*-14*)
+ 66: 0x0116 [0x41] ExtData[1]->WorkLocal[14] = Work_Zone[6] (bits 0*-6*)
+ 67: 0x011F [0x41] ExtData[1]->WorkLocal[15] = Work_Zone[6] (bits 15*-20*)
+ 68: 0x0128 [0x41] ExtData[1]->WorkLocal[40] = Work_Zone[7] (bits 0*-4*)
+ 69: 0x0131 [0x41] ExtData[1]->WorkLocal[41] = Work_Zone[7] (bits 5*-9*)
+ 70: 0x013A [0x41] ExtData[1]->WorkLocal[42] = Work_Zone[7] (bits 10*-14*)
+ 71: 0x0143 [0x41] ExtData[1]->WorkLocal[43] = Work_Zone[7] (bits 15*-19*)
+ 72: 0x014C [0x41] ExtData[1]->WorkLocal[44] = Work_Zone[7] (bits 20*-24*)
+ 73: 0x0155 [0x1A] CALL_SUBROUTINE(address=0x20EC)
+ 74: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+    → "I'm a Resistance officer charged with overseeing the Dominion effort, and we're looking for a few good [men/women]. Since I don't see any around, it looks like you'll have to do."
+ 75: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 76: 0x015C [0x05] ExtData[1]->WorkLocal[53] = 1
+ 77: 0x015F [0x02] IF !(ExtData[1]->WorkLocal[53] <= 0*) GOTO 0x1DD2
+ 78: 0x0167 [0x06] ExtData[1]->WorkLocal[16] = 0
+ 79: 0x016A [0x24] CREATE_DIALOG(message_id=7783*, default_option=0*, option_flags=0*)
+    → "Ask about something? [Not now./General information./State of the Resistance./State of the enemy./Exchange Dominion Notes./Exchange battle trophies.]"
+ 80: 0x0171 [0x25] WAIT_DIALOG_SELECT()
+ 81: 0x0172 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0185
+ 82: 0x017A [0x06] ExtData[1]->WorkLocal[53] = 0
+ 83: 0x017D [0x03] Work_Zone[1] = 1073741824*
+ 84: 0x0182 [0x01] GOTO 0x1DCF
+ 85: 0x0185 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0249
+ 86: 0x018D [0x05] ExtData[1]->WorkLocal[54] = 1
+
+SUBROUTINE_0190:
+ 87: 0x0190 [0x02] IF !(ExtData[1]->WorkLocal[54] <= 0*) GOTO 0x0246
+ 88: 0x0198 [0x24] CREATE_DIALOG(message_id=7784*, default_option=0*, option_flags=0*)
+    → "Ask about something? [Not now./The Dominion effort...?/How do I do my part?/What's in it for me?]"
+ 89: 0x019F [0x25] WAIT_DIALOG_SELECT()
+ 90: 0x01A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AE
+ 91: 0x01A8 [0x06] ExtData[1]->WorkLocal[54] = 0
+ 92: 0x01AB [0x01] GOTO 0x0243
+ 93: 0x01AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01D5
+ 94: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+    → "Wake up, soldier! I don't know if you're blind or stupid, but if you haven't noticed, there's a war going on around you."
+ 95: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 96: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+    → "The Resistance is locked in a bitter struggle to take back our rightful land from the hordes, and secure a future for our kind. We call this the Dominion effort. Has an inspiring ring to it, doesn't it, soldier?"
+ 97: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 98: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+    → "And if you haven't noticed, we don't exactly have a surplus of personnel. Hell, I just got a field promotion from sergeant to tactician when my predecessor got his head lopped clean off by a fiend. Now they've got some sissy boy doing my old job, but do you hear me complainin'?"
+ 99: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+100: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+    → "Anyhow, if you've got half a bloody stump of a leg to stand on and an arm to carry a blade, consider yourself recruited. Now listen up, soldier, because I'm only going to say this once."
+101: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+102: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
+    → "I'll put this in terms even a dullard like you can understand. The enemy we face consists of two types of fiends: nasty ones, and even nastier ones."
+103: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+104: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
+    → "We've got legions of ugly monsters prowling the land in throngs. We cut them down, and lure their even nastier buddies out of hiding."
+105: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
+106: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
+    → "These fiends are the beating heart of our enemy. Bring them down, and our battle is as good as won. Get it? Good. Now hop to it, soldier!"
+107: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+108: 0x01D2 [0x01] GOTO 0x0243
+109: 0x01D5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0218
+110: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+    → "Hah! Ya may be short on wits, but you've got pluck. There may be hope for you yet, soldier."
+111: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+112: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+    → "If you're ready to make yourself useful, then you'll want to seek out one of our outposts. There's three in the area, so even a rookie like yourself should be able to stumble upon one of 'em by dumb luck."
+113: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+114: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+    → "Talk with a sergeant there, and sign up for one of our operations--Dominion Ops, we call 'em for short. Each op will involve exterminating a prescribed quota of a particular variety of fiend."
+115: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+116: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+    → "If you're halfway competent at your job, the Resistance will gradually expand its sphere of influence over the hordes. Our ultimate goal is complete domination against all manner of fiends. That's one hundred percent, soldier!"
+117: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
+118: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+    → ""What if I just kill fiends without signing up for ops," you say? Don't give me any of that lip, soldier!"
+119: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+120: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+    → "Listen. Every fiend you bring down will aid the cause. But we can't be certain that we've achieved complete domination unless you sign up for ops, and report your success to the sergeant. You'll also be rewarded for your efforts. Bet that got your interest quick, didn't it?"
+121: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+122: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
+    → "There's more, soldier. This may sound bloody obvious--well, maybe not to a lackwit like you--but success in your efforts will raise the spirits of our entire company."
+123: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+124: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
+    → "With the resulting boost in morale, our troops will fight with even greater fervor, affording us all manner of advantages in battle. "What kind of advantages?" Hah! That's for us to know and you to find out, soldier!"
+125: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
+126: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
+    → "Expand our sphere of influence over the peons, and we'll start to lure the big boys out of the woodwork."
+127: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
+128: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
+    → "Take them out, and the biggest, baddest foes will start to show up. Where does it all end, you say? It doesn't! This is war, soldier, not a Lightsday afternoon walk in the park!"
+129: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
+130: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
+    → "Now, where was I? The enemy leaders pack a punch, but they rely on their flunkies as the foundation for their strength."
+131: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
+132: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
+    → "Cut their subordinates out from underneath them, and they won't have a leg--or gnarled, twisted appendage--to stand upon. That's smart fighting. And in war, you fight smart or you die, soldier!"
+133: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
+134: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+    → "I couldn't tell you how many of these buggers we're up against, but I do know this. Each one we kill brings us closer to our goal of utter domination."
+135: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
+136: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
+    → "To keep morale high, we can't let up the attack on the enemy leaders. You got all that, soldier?"
+137: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
+138: 0x0215 [0x01] GOTO 0x0243
+139: 0x0218 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0243
+140: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+    → "What's in it for you? You've got some nerve, soldier!"
+141: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
+142: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
+    → "You're here to follow orders, not question them! When I say "jump," you say "how many malms high, sir!?" Are we understood, soldier!?"
+143: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
+144: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
+    → "But yeah, there's somethin' in it for you, if that's the only thing that's going to get you fighting for our cause instead of sitting around on your lazy backside."
+145: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
+146: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
+    → "When you report back after completing an operation or successfully bring down a notorious foe, you'll be awarded remuneration in the form of something we call Dominion Notes."
+147: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
+148: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+    → "These notes can be exchanged for supplies to serve you on the field of battle: equipment, medicine, and more. And we're not talking your run-of-the-mill items here. This is some impressive stuff. I daresay it's worth more than your life, soldier."
+149: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
+150: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+    → "Bet that put a spark in your eyes, didn't it? What's more, bring back battle trophies--the severed heads and gore-stained limbs of the fiends you slay--and we will reward your accomplishments with guerdon."
+151: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
+152: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
+    → "There are five echelons of trophies in total. Slaying more powerful fiends will yield more prestigious trophies, which in turn will earn you more valuable guerdon."
+153: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
+154: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
+    → "Battle trophies can even be exchanged for each other. Multiple lower-echelon trophies can be upgraded to a single trophy of a higher echelon, or vice versa. If you've got half a brain inside that skull of yours, you'll take advantage of this to obtain the guerdon you desire."
+155: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
+156: 0x0240 [0x01] GOTO 0x0243
+
+SUBROUTINE_0243:
+157: 0x0243 [0x01] GOTO 0x0190
+158: 0x0246 [0x01] GOTO 0x1DCF
+159: 0x0249 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03CE
+160: 0x0251 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[1]
+161: 0x0256 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
+162: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
+    → "Intelligence reports assess the Resistance's sphere of influence in this area at $0 percent."
+163: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
+164: 0x025F [0x03] ExtData[1]->WorkLocal[20] = 0*
+165: 0x0264 [0x03] ExtData[1]->WorkLocal[21] = 0*
+166: 0x0269 [0x02] IF !(ExtData[1]->WorkLocal[3] <= ExtData[1]->WorkLocal[20]) GOTO 0x027B
+167: 0x0271 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[3]
+168: 0x0276 [0x03] ExtData[1]->WorkLocal[21] = 1*
+169: 0x027B [0x02] IF !(ExtData[1]->WorkLocal[4] <= ExtData[1]->WorkLocal[20]) GOTO 0x028D
+170: 0x0283 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[4]
+171: 0x0288 [0x03] ExtData[1]->WorkLocal[21] = 2*
+172: 0x028D [0x02] IF !(ExtData[1]->WorkLocal[5] <= ExtData[1]->WorkLocal[20]) GOTO 0x029F
+173: 0x0295 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[5]
+174: 0x029A [0x03] ExtData[1]->WorkLocal[21] = 3*
+175: 0x029F [0x03] ExtData[1]->WorkLocal[22] = 100*
+176: 0x02A4 [0x03] ExtData[1]->WorkLocal[23] = 3*
+177: 0x02A9 [0x02] IF !(ExtData[1]->WorkLocal[3] >= ExtData[1]->WorkLocal[22]) GOTO 0x02BB
+178: 0x02B1 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[3]
+179: 0x02B6 [0x03] ExtData[1]->WorkLocal[23] = 0*
+180: 0x02BB [0x02] IF !(ExtData[1]->WorkLocal[4] >= ExtData[1]->WorkLocal[22]) GOTO 0x02CD
+181: 0x02C3 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[4]
+182: 0x02C8 [0x03] ExtData[1]->WorkLocal[23] = 1*
+183: 0x02CD [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[22]) GOTO 0x02DF
+184: 0x02D5 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[5]
+185: 0x02DA [0x03] ExtData[1]->WorkLocal[23] = 2*
+186: 0x02DF [0x02] IF !(ExtData[1]->WorkLocal[21] == 0*) GOTO 0x0305
+187: 0x02E7 [0x02] IF !(ExtData[1]->WorkLocal[23] >= 3*) GOTO 0x0305
+188: 0x02EF [0x08] ExtData[1]->WorkLocal[20] -= ExtData[1]->WorkLocal[22]
+189: 0x02F4 [0x02] IF !(ExtData[1]->WorkLocal[20] < 20*) GOTO 0x0305
+190: 0x02FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[23]
+191: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+    → "We've received reports that Captain [Excenmille/Nanaa Mihgo/Volker]'s region is overrun with fiends. What are you waiting for? Get out there, soldier!"
+192: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
+193: 0x0305 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
+194: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
+    → "Our most recent intel has it that we've felled $0 percent of the horde's most notorious fiends."
+195: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
+196: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
+    → "Our troops are currently reaping these morale benefits..."
+197: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
+198: 0x0312 [0x03] ExtData[1]->WorkLocal[20] = 0*
+199: 0x0317 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 0*) GOTO 0x032B
+200: 0x031F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+201: 0x0324 [0x48] [System] [7822*]:
+    → "HP/MP bonus: Level $0."
+202: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
+203: 0x0328 [0x01] GOTO 0x032E
+204: 0x032B [0x0B] ExtData[1]->WorkLocal[20]++
+
+SUBROUTINE_032E:
+205: 0x032E [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x0342
+206: 0x0336 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+207: 0x033B [0x48] [System] [7823*]:
+    → "Attribute bonus: Level $0."
+208: 0x033E [0x23] WAIT_FOR_DIALOG_INTERACTION
+209: 0x033F [0x01] GOTO 0x0345
+210: 0x0342 [0x0B] ExtData[1]->WorkLocal[20]++
+
+SUBROUTINE_0345:
+211: 0x0345 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 0*) GOTO 0x0359
+212: 0x034D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
+213: 0x0352 [0x48] [System] [7824*]:
+    → "Increased experience yield: Level $0."
+214: 0x0355 [0x23] WAIT_FOR_DIALOG_INTERACTION
+215: 0x0356 [0x01] GOTO 0x035C
+216: 0x0359 [0x0B] ExtData[1]->WorkLocal[20]++
+
+SUBROUTINE_035C:
+217: 0x035C [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x0370
+218: 0x0364 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
+219: 0x0369 [0x48] [System] [7825*]:
+    → "Increased cruor yield: Level $0."
+220: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
+221: 0x036D [0x01] GOTO 0x0373
+222: 0x0370 [0x0B] ExtData[1]->WorkLocal[20]++
+
+SUBROUTINE_0373:
+223: 0x0373 [0x02] IF !(ExtData[1]->WorkLocal[10] <= 0*) GOTO 0x0387
+224: 0x037B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
+225: 0x0380 [0x48] [System] [7826*]:
+    → "Frequent pyxide discovery: Level $0."
+226: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
+227: 0x0384 [0x01] GOTO 0x038A
+228: 0x0387 [0x0B] ExtData[1]->WorkLocal[20]++
+
+SUBROUTINE_038A:
+229: 0x038A [0x02] IF !(ExtData[1]->WorkLocal[11] <= 0*) GOTO 0x039E
+230: 0x0392 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
+231: 0x0397 [0x48] [System] [7827*]:
+    → "High-grade pyxide discovery: Level $0."
+232: 0x039A [0x23] WAIT_FOR_DIALOG_INTERACTION
+233: 0x039B [0x01] GOTO 0x03A1
+234: 0x039E [0x0B] ExtData[1]->WorkLocal[20]++
+
+SUBROUTINE_03A1:
+235: 0x03A1 [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x03B5
+236: 0x03A9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
+237: 0x03AE [0x48] [System] [7828*]:
+    → "Increased loot yield: Level $0."
+238: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+239: 0x03B2 [0x01] GOTO 0x03B8
+240: 0x03B5 [0x0B] ExtData[1]->WorkLocal[20]++
+
+SUBROUTINE_03B8:
+241: 0x03B8 [0x02] IF !(ExtData[1]->WorkLocal[20] < 7*) GOTO 0x03C7
+242: 0x03C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+    → "...None at all. Morale sucks, and you sure aren't helping by standing around here. Get out on the battlefield, soldier!"
+243: 0x03C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+244: 0x03C4 [0x01] GOTO 0x03CB
+245: 0x03C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+    → "Morale's not bad, but it can always be better. Get out on the battlefield, soldier!"
+246: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_03CB:
+247: 0x03CB [0x01] GOTO 0x1DCF
+248: 0x03CE [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x05CE
+249: 0x03D6 [0x05] ExtData[1]->WorkLocal[54] = 1
+
+SUBROUTINE_03D9:
+250: 0x03D9 [0x02] IF !(ExtData[1]->WorkLocal[54] <= 0*) GOTO 0x05CB
+251: 0x03E1 [0x24] CREATE_DIALOG(message_id=7831*, default_option=0*, option_flags=0*)
+    → "Review enemy intelligence? [Not now./Notorious fiends (Tier I)./Notorious fiends (Tier II)./Notorious fiends (Tier III).]"
+252: 0x03E8 [0x25] WAIT_DIALOG_SELECT()
+253: 0x03E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F7
+254: 0x03F1 [0x06] ExtData[1]->WorkLocal[54] = 0
+255: 0x03F4 [0x01] GOTO 0x05C8
+256: 0x03F7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0494
+257: 0x03FF [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_0402:
+258: 0x0402 [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x0491
+259: 0x040A [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=6*)
+260: 0x0413 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
+261: 0x041C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+262: 0x041E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+263: 0x0420 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[2]
+264: 0x0425 [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[3]
+265: 0x042A [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[4]
+266: 0x042F [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[5]
+267: 0x0434 [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[6]
+268: 0x0439 [0x03] ExtData[1]->WorkLocal[37] = Work_Zone[7]
+269: 0x043E [0x03] ExtData[1]->WorkLocal[38] = Work_Zone[8]
+270: 0x0443 [0x03] ExtData[1]->WorkLocal[39] = Work_Zone[9]
+271: 0x0448 [0x06] ExtData[1]->WorkLocal[20] = 0
+272: 0x044B [0x06] ExtData[1]->WorkLocal[21] = 0
+273: 0x044E [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[13]
+274: 0x0453 [0x03] ExtData[1]->WorkLocal[24] = 1*
+275: 0x0458 [0x03] ExtData[1]->WorkLocal[25] = 3*
+276: 0x045D [0x03] ExtData[1]->WorkLocal[26] = 1*
+277: 0x0462 [0x03] ExtData[1]->WorkLocal[27] = 3*
+278: 0x0467 [0x03] ExtData[1]->WorkLocal[28] = 1*
+279: 0x046C [0x03] ExtData[1]->WorkLocal[29] = 1*
+280: 0x0471 [0x03] ExtData[1]->WorkLocal[30] = 1*
+281: 0x0476 [0x03] ExtData[1]->WorkLocal[31] = 1*
+282: 0x047B [0x06] ExtData[1]->WorkLocal[16] = 0
+283: 0x047E [0x03] ExtData[1]->WorkLocal[20] = 7832*
+284: 0x0483 [0x03] ExtData[1]->WorkLocal[21] = 7843*
+285: 0x0488 [0x1A] CALL_SUBROUTINE(address=0x1DD7)
+286: 0x048B [0x1A] CALL_SUBROUTINE(address=0x2036)
+287: 0x048E [0x01] GOTO 0x0402
+288: 0x0491 [0x01] GOTO 0x05C8
+289: 0x0494 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x052F
+290: 0x049C [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_049F:
+291: 0x049F [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x052C
+292: 0x04A7 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=6*)
+293: 0x04B0 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
+294: 0x04B9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+295: 0x04BB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+296: 0x04BD [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[2]
+297: 0x04C2 [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[3]
+298: 0x04C7 [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[4]
+299: 0x04CC [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[5]
+300: 0x04D1 [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[6]
+301: 0x04D6 [0x03] ExtData[1]->WorkLocal[37] = Work_Zone[7]
+302: 0x04DB [0x03] ExtData[1]->WorkLocal[38] = Work_Zone[8]
+303: 0x04E0 [0x03] ExtData[1]->WorkLocal[39] = Work_Zone[9]
+304: 0x04E5 [0x06] ExtData[1]->WorkLocal[20] = 0
+305: 0x04E8 [0x06] ExtData[1]->WorkLocal[21] = 0
+306: 0x04EB [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[14]
+307: 0x04F0 [0x03] ExtData[1]->WorkLocal[24] = 2*
+308: 0x04F5 [0x03] ExtData[1]->WorkLocal[25] = 3*
+309: 0x04FA [0x03] ExtData[1]->WorkLocal[26] = 2*
+310: 0x04FF [0x03] ExtData[1]->WorkLocal[27] = 3*
+311: 0x0504 [0x03] ExtData[1]->WorkLocal[28] = 3*
+312: 0x0509 [0x03] ExtData[1]->WorkLocal[29] = 2*
+313: 0x050E [0x03] ExtData[1]->WorkLocal[30] = 2*
+314: 0x0513 [0x06] ExtData[1]->WorkLocal[31] = 0
+315: 0x0516 [0x06] ExtData[1]->WorkLocal[16] = 0
+316: 0x0519 [0x03] ExtData[1]->WorkLocal[20] = 7833*
+317: 0x051E [0x03] ExtData[1]->WorkLocal[21] = 7844*
+318: 0x0523 [0x1A] CALL_SUBROUTINE(address=0x1DD7)
+319: 0x0526 [0x1A] CALL_SUBROUTINE(address=0x2036)
+320: 0x0529 [0x01] GOTO 0x049F
+321: 0x052C [0x01] GOTO 0x05C8
+322: 0x052F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x05C8
+323: 0x0537 [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_053A:
+324: 0x053A [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x05C5
+325: 0x0542 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=6*)
+326: 0x054B [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=3*)
+327: 0x0554 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+328: 0x0556 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+329: 0x0558 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[2]
+330: 0x055D [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[3]
+331: 0x0562 [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[4]
+332: 0x0567 [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[5]
+333: 0x056C [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[6]
+334: 0x0571 [0x03] ExtData[1]->WorkLocal[37] = Work_Zone[7]
+335: 0x0576 [0x03] ExtData[1]->WorkLocal[38] = Work_Zone[8]
+336: 0x057B [0x03] ExtData[1]->WorkLocal[39] = Work_Zone[9]
+337: 0x0580 [0x06] ExtData[1]->WorkLocal[20] = 0
+338: 0x0583 [0x06] ExtData[1]->WorkLocal[21] = 0
+339: 0x0586 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[15]
+340: 0x058B [0x03] ExtData[1]->WorkLocal[24] = 1*
+341: 0x0590 [0x03] ExtData[1]->WorkLocal[25] = 1*
+342: 0x0595 [0x03] ExtData[1]->WorkLocal[26] = 1*
+343: 0x059A [0x03] ExtData[1]->WorkLocal[27] = 1*
+344: 0x059F [0x03] ExtData[1]->WorkLocal[28] = 3*
+345: 0x05A4 [0x03] ExtData[1]->WorkLocal[29] = 3*
+346: 0x05A9 [0x06] ExtData[1]->WorkLocal[30] = 0
+347: 0x05AC [0x06] ExtData[1]->WorkLocal[31] = 0
+348: 0x05AF [0x06] ExtData[1]->WorkLocal[16] = 0
+349: 0x05B2 [0x03] ExtData[1]->WorkLocal[20] = 7834*
+350: 0x05B7 [0x03] ExtData[1]->WorkLocal[21] = 7845*
+351: 0x05BC [0x1A] CALL_SUBROUTINE(address=0x1DD7)
+352: 0x05BF [0x1A] CALL_SUBROUTINE(address=0x2036)
+353: 0x05C2 [0x01] GOTO 0x053A
+354: 0x05C5 [0x01] GOTO 0x05C8
+
+SUBROUTINE_05C8:
+355: 0x05C8 [0x01] GOTO 0x03D9
+356: 0x05CB [0x01] GOTO 0x1DCF
+357: 0x05CE [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0ECC
+358: 0x05D6 [0x05] ExtData[1]->WorkLocal[54] = 1
+
+SUBROUTINE_05D9:
+359: 0x05D9 [0x02] IF !(ExtData[1]->WorkLocal[54] <= 0*) GOTO 0x0EC9
+360: 0x05E1 [0x06] ExtData[1]->WorkLocal[57] = 0
+361: 0x05E4 [0x06] ExtData[1]->WorkLocal[58] = 0
+362: 0x05E7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=2*, condition_work_offset=1*)
+363: 0x05EE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+364: 0x05F3 [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=ExtData[1]->WorkLocal[57])
+    → "Exchange for what? (Notes: $0) [Nothing for now./Items./Key items./Temporary items./Augmented items.]"
+365: 0x05FA [0x25] WAIT_DIALOG_SELECT()
+366: 0x05FB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0609
+367: 0x0603 [0x06] ExtData[1]->WorkLocal[54] = 0
+368: 0x0606 [0x01] GOTO 0x0EC6
+369: 0x0609 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x091C
+370: 0x0611 [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_0614:
+371: 0x0614 [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x0919
+372: 0x061C [0x06] ExtData[1]->WorkLocal[16] = 0
+373: 0x061F [0x06] ExtData[1]->WorkLocal[58] = 0
+374: 0x0622 [0x1A] CALL_SUBROUTINE(address=0x20EC)
+375: 0x0625 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+376: 0x062A [0x03] Work_Zone[3] = 12028*
+377: 0x062F [0x03] Work_Zone[4] = 1500*
+378: 0x0634 [0x03] Work_Zone[5] = 12029*
+379: 0x0639 [0x03] Work_Zone[6] = 1500*
+380: 0x063E [0x03] Work_Zone[7] = 12030*
+381: 0x0643 [0x03] Work_Zone[8] = 1500*
+382: 0x0648 [0x03] Work_Zone[9] = 12031*
+383: 0x064D [0x03] Work_Zone_1700[0] = 1500*
+384: 0x0652 [0x03] Work_Zone_1700[1] = 12032*
+385: 0x0657 [0x03] Work_Zone_1700[2] = 1500*
+386: 0x065C [0x03] Work_Zone_1700[3] = 12033*
+387: 0x0661 [0x03] Work_Zone_1700[4] = 1500*
+388: 0x0666 [0x03] Work_Zone_1700[5] = 3295*
+389: 0x066B [0x03] Work_Zone_1700[6] = 300*
+390: 0x0670 [0x03] Work_Zone_1700[7] = 3296*
+391: 0x0675 [0x03] Work_Zone_1700[8] = 300*
+392: 0x067A [0x03] Work_Zone_1700[9] = 0*
+393: 0x067F [0x03] Work_Zone_1700[10] = 0*
+394: 0x0684 [0x03] Work_Zone_1700[11] = 0*
+395: 0x0689 [0x03] Work_Zone_1700[12] = 0*
+396: 0x068E [0x03] Work_Zone_1700[13] = 0*
+397: 0x0693 [0x03] Work_Zone_1700[14] = 0*
+398: 0x0698 [0x03] Work_Zone_1700[15] = 0*
+399: 0x069D [0x03] Work_Zone_1700[16] = 0*
+400: 0x06A2 [0x02] IF !(Work_Zone[3] > 0*) GOTO 0x06B1
+401: 0x06AA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=1*, condition_work_offset=1*)
+402: 0x06B1 [0x02] IF !(Work_Zone[5] > 0*) GOTO 0x06C0
+403: 0x06B9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=2*, condition_work_offset=1*)
+404: 0x06C0 [0x02] IF !(Work_Zone[7] > 0*) GOTO 0x06CF
+405: 0x06C8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=3*, condition_work_offset=1*)
+406: 0x06CF [0x02] IF !(Work_Zone[9] > 0*) GOTO 0x06DE
+407: 0x06D7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=4*, condition_work_offset=1*)
+408: 0x06DE [0x02] IF !(Work_Zone_1700[1] > 0*) GOTO 0x06ED
+409: 0x06E6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=5*, condition_work_offset=1*)
+410: 0x06ED [0x02] IF !(Work_Zone_1700[3] > 0*) GOTO 0x06FC
+411: 0x06F5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=6*, condition_work_offset=1*)
+412: 0x06FC [0x02] IF !(Work_Zone_1700[5] > 0*) GOTO 0x070B
+413: 0x0704 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=7*, condition_work_offset=1*)
+414: 0x070B [0x02] IF !(Work_Zone_1700[7] > 0*) GOTO 0x071A
+415: 0x0713 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=8*, condition_work_offset=1*)
+416: 0x071A [0x02] IF !(Work_Zone_1700[9] > 0*) GOTO 0x0729
+417: 0x0722 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=9*, condition_work_offset=1*)
+418: 0x0729 [0x02] IF !(Work_Zone_1700[11] > 0*) GOTO 0x0738
+419: 0x0731 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=10*, condition_work_offset=1*)
+420: 0x0738 [0x02] IF !(Work_Zone_1700[13] > 0*) GOTO 0x0747
+421: 0x0740 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=11*, condition_work_offset=1*)
+422: 0x0747 [0x02] IF !(Work_Zone_1700[15] > 0*) GOTO 0x0756
+423: 0x074F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=12*, condition_work_offset=1*)
+424: 0x0756 [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
+    → "Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]"
+425: 0x075D [0x25] WAIT_DIALOG_SELECT()
+426: 0x075E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x076C
+427: 0x0766 [0x06] ExtData[1]->WorkLocal[55] = 0
+428: 0x0769 [0x01] GOTO 0x08A4
+429: 0x076C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0786
+430: 0x0774 [0x03] ExtData[1]->WorkLocal[16] = 1*
+431: 0x0779 [0x03] ExtData[1]->WorkLocal[18] = 12028*
+432: 0x077E [0x03] ExtData[1]->WorkLocal[19] = 1500*
+433: 0x0783 [0x01] GOTO 0x08A4
+434: 0x0786 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x07A0
+435: 0x078E [0x03] ExtData[1]->WorkLocal[16] = 2*
+436: 0x0793 [0x03] ExtData[1]->WorkLocal[18] = 12029*
+437: 0x0798 [0x03] ExtData[1]->WorkLocal[19] = 1500*
+438: 0x079D [0x01] GOTO 0x08A4
+439: 0x07A0 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x07BA
+440: 0x07A8 [0x03] ExtData[1]->WorkLocal[16] = 3*
+441: 0x07AD [0x03] ExtData[1]->WorkLocal[18] = 12030*
+442: 0x07B2 [0x03] ExtData[1]->WorkLocal[19] = 1500*
+443: 0x07B7 [0x01] GOTO 0x08A4
+444: 0x07BA [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x07D4
+445: 0x07C2 [0x03] ExtData[1]->WorkLocal[16] = 4*
+446: 0x07C7 [0x03] ExtData[1]->WorkLocal[18] = 12031*
+447: 0x07CC [0x03] ExtData[1]->WorkLocal[19] = 1500*
+448: 0x07D1 [0x01] GOTO 0x08A4
+449: 0x07D4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x07EE
+450: 0x07DC [0x03] ExtData[1]->WorkLocal[16] = 5*
+451: 0x07E1 [0x03] ExtData[1]->WorkLocal[18] = 12032*
+452: 0x07E6 [0x03] ExtData[1]->WorkLocal[19] = 1500*
+453: 0x07EB [0x01] GOTO 0x08A4
+454: 0x07EE [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0808
+455: 0x07F6 [0x03] ExtData[1]->WorkLocal[16] = 6*
+456: 0x07FB [0x03] ExtData[1]->WorkLocal[18] = 12033*
+457: 0x0800 [0x03] ExtData[1]->WorkLocal[19] = 1500*
+458: 0x0805 [0x01] GOTO 0x08A4
+459: 0x0808 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0822
+460: 0x0810 [0x03] ExtData[1]->WorkLocal[16] = 7*
+461: 0x0815 [0x03] ExtData[1]->WorkLocal[18] = 3295*
+462: 0x081A [0x03] ExtData[1]->WorkLocal[19] = 300*
+463: 0x081F [0x01] GOTO 0x08A4
+464: 0x0822 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x083C
+465: 0x082A [0x03] ExtData[1]->WorkLocal[16] = 8*
+466: 0x082F [0x03] ExtData[1]->WorkLocal[18] = 3296*
+467: 0x0834 [0x03] ExtData[1]->WorkLocal[19] = 300*
+468: 0x0839 [0x01] GOTO 0x08A4
+469: 0x083C [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0856
+470: 0x0844 [0x03] ExtData[1]->WorkLocal[16] = 9*
+471: 0x0849 [0x03] ExtData[1]->WorkLocal[18] = 0*
+472: 0x084E [0x03] ExtData[1]->WorkLocal[19] = 0*
+473: 0x0853 [0x01] GOTO 0x08A4
+474: 0x0856 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0870
+475: 0x085E [0x03] ExtData[1]->WorkLocal[16] = 10*
+476: 0x0863 [0x03] ExtData[1]->WorkLocal[18] = 0*
+477: 0x0868 [0x03] ExtData[1]->WorkLocal[19] = 0*
+478: 0x086D [0x01] GOTO 0x08A4
+479: 0x0870 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x088A
+480: 0x0878 [0x03] ExtData[1]->WorkLocal[16] = 11*
+481: 0x087D [0x03] ExtData[1]->WorkLocal[18] = 0*
+482: 0x0882 [0x03] ExtData[1]->WorkLocal[19] = 0*
+483: 0x0887 [0x01] GOTO 0x08A4
+484: 0x088A [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x08A4
+485: 0x0892 [0x03] ExtData[1]->WorkLocal[16] = 12*
+486: 0x0897 [0x03] ExtData[1]->WorkLocal[18] = 0*
+487: 0x089C [0x03] ExtData[1]->WorkLocal[19] = 0*
+488: 0x08A1 [0x01] GOTO 0x08A4
+
+SUBROUTINE_08A4:
+489: 0x08A4 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x0916
+490: 0x08AC [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
+491: 0x08AF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+492: 0x08B4 [0x48] [System] [7395*]:
+    → "Trade for $0?"
+493: 0x08B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+494: 0x08B8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+495: 0x08BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+496: 0x08C0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
+497: 0x08C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+    → "That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?"
+498: 0x08C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+499: 0x08C9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+500: 0x08CE [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+    → "Proceed with the exchange? (Notes: $0) [Yes./On second thought...]"
+501: 0x08D5 [0x25] WAIT_DIALOG_SELECT()
+502: 0x08D6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x090B
+503: 0x08DE [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[19]) GOTO 0x0904
+504: 0x08E6 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
+505: 0x08EF [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[16])
+506: 0x08F8 [0x06] ExtData[1]->WorkLocal[53] = 0
+507: 0x08FB [0x06] ExtData[1]->WorkLocal[54] = 0
+508: 0x08FE [0x06] ExtData[1]->WorkLocal[55] = 0
+509: 0x0901 [0x01] GOTO 0x0908
+510: 0x0904 [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+    → "You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!"
+511: 0x0907 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0908:
+512: 0x0908 [0x01] GOTO 0x0916
+513: 0x090B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0916
+514: 0x0913 [0x01] GOTO 0x0916
+
+SUBROUTINE_0916:
+515: 0x0916 [0x01] GOTO 0x0614
+516: 0x0919 [0x01] GOTO 0x0EC6
+517: 0x091C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0927
+518: 0x0924 [0x01] GOTO 0x0EC6
+519: 0x0927 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0BF2
+520: 0x092F [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_0932:
+521: 0x0932 [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x0BEF
+522: 0x093A [0x06] ExtData[1]->WorkLocal[16] = 0
+523: 0x093D [0x06] ExtData[1]->WorkLocal[58] = 0
+524: 0x0940 [0x1A] CALL_SUBROUTINE(address=0x20EC)
+525: 0x0943 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+526: 0x0948 [0x03] Work_Zone[3] = 5876*
+527: 0x094D [0x03] Work_Zone[4] = 300*
+528: 0x0952 [0x03] Work_Zone[5] = 5877*
+529: 0x0957 [0x03] Work_Zone[6] = 300*
+530: 0x095C [0x03] Work_Zone[7] = 5878*
+531: 0x0961 [0x03] Work_Zone[8] = 300*
+532: 0x0966 [0x03] Work_Zone[9] = 5879*
+533: 0x096B [0x03] Work_Zone_1700[0] = 300*
+534: 0x0970 [0x03] Work_Zone_1700[1] = 5880*
+535: 0x0975 [0x03] Work_Zone_1700[2] = 300*
+536: 0x097A [0x03] Work_Zone_1700[3] = 0*
+537: 0x097F [0x03] Work_Zone_1700[4] = 0*
+538: 0x0984 [0x03] Work_Zone_1700[5] = 0*
+539: 0x0989 [0x03] Work_Zone_1700[6] = 0*
+540: 0x098E [0x03] Work_Zone_1700[7] = 0*
+541: 0x0993 [0x03] Work_Zone_1700[8] = 0*
+542: 0x0998 [0x03] Work_Zone_1700[9] = 0*
+543: 0x099D [0x03] Work_Zone_1700[10] = 0*
+544: 0x09A2 [0x03] Work_Zone_1700[11] = 0*
+545: 0x09A7 [0x03] Work_Zone_1700[12] = 0*
+546: 0x09AC [0x02] IF !(Work_Zone[3] > 0*) GOTO 0x09BB
+547: 0x09B4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=1*, condition_work_offset=1*)
+548: 0x09BB [0x02] IF !(Work_Zone[5] > 0*) GOTO 0x09CA
+549: 0x09C3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=2*, condition_work_offset=1*)
+550: 0x09CA [0x02] IF !(Work_Zone[7] > 0*) GOTO 0x09D9
+551: 0x09D2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=3*, condition_work_offset=1*)
+552: 0x09D9 [0x02] IF !(Work_Zone[9] > 0*) GOTO 0x09E8
+553: 0x09E1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=4*, condition_work_offset=1*)
+554: 0x09E8 [0x02] IF !(Work_Zone_1700[1] > 0*) GOTO 0x09F7
+555: 0x09F0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=5*, condition_work_offset=1*)
+556: 0x09F7 [0x02] IF !(Work_Zone_1700[3] > 0*) GOTO 0x0A06
+557: 0x09FF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=6*, condition_work_offset=1*)
+558: 0x0A06 [0x02] IF !(Work_Zone_1700[5] > 0*) GOTO 0x0A15
+559: 0x0A0E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=7*, condition_work_offset=1*)
+560: 0x0A15 [0x02] IF !(Work_Zone_1700[7] > 0*) GOTO 0x0A24
+561: 0x0A1D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=8*, condition_work_offset=1*)
+562: 0x0A24 [0x02] IF !(Work_Zone_1700[9] > 0*) GOTO 0x0A33
+563: 0x0A2C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=9*, condition_work_offset=1*)
+564: 0x0A33 [0x02] IF !(Work_Zone_1700[11] > 0*) GOTO 0x0A42
+565: 0x0A3B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=10*, condition_work_offset=1*)
+566: 0x0A42 [0x02] IF !(Work_Zone_1700[13] > 0*) GOTO 0x0A51
+567: 0x0A4A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=11*, condition_work_offset=1*)
+568: 0x0A51 [0x02] IF !(Work_Zone_1700[15] > 0*) GOTO 0x0A60
+569: 0x0A59 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=12*, condition_work_offset=1*)
+570: 0x0A60 [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
+    → "Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]"
+571: 0x0A67 [0x25] WAIT_DIALOG_SELECT()
+572: 0x0A68 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A76
+573: 0x0A70 [0x06] ExtData[1]->WorkLocal[55] = 0
+574: 0x0A73 [0x01] GOTO 0x0B7A
+575: 0x0A76 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A90
+576: 0x0A7E [0x03] ExtData[1]->WorkLocal[16] = 1*
+577: 0x0A83 [0x03] ExtData[1]->WorkLocal[18] = 5876*
+578: 0x0A88 [0x03] ExtData[1]->WorkLocal[19] = 300*
+579: 0x0A8D [0x01] GOTO 0x0B7A
+580: 0x0A90 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0AAA
+581: 0x0A98 [0x03] ExtData[1]->WorkLocal[16] = 2*
+582: 0x0A9D [0x03] ExtData[1]->WorkLocal[18] = 5877*
+583: 0x0AA2 [0x03] ExtData[1]->WorkLocal[19] = 300*
+584: 0x0AA7 [0x01] GOTO 0x0B7A
+585: 0x0AAA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0AC4
+586: 0x0AB2 [0x03] ExtData[1]->WorkLocal[16] = 3*
+587: 0x0AB7 [0x03] ExtData[1]->WorkLocal[18] = 5878*
+588: 0x0ABC [0x03] ExtData[1]->WorkLocal[19] = 300*
+589: 0x0AC1 [0x01] GOTO 0x0B7A
+590: 0x0AC4 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0ADE
+591: 0x0ACC [0x03] ExtData[1]->WorkLocal[16] = 4*
+592: 0x0AD1 [0x03] ExtData[1]->WorkLocal[18] = 5879*
+593: 0x0AD6 [0x03] ExtData[1]->WorkLocal[19] = 300*
+594: 0x0ADB [0x01] GOTO 0x0B7A
+595: 0x0ADE [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0AF8
+596: 0x0AE6 [0x03] ExtData[1]->WorkLocal[16] = 5*
+597: 0x0AEB [0x03] ExtData[1]->WorkLocal[18] = 5880*
+598: 0x0AF0 [0x03] ExtData[1]->WorkLocal[19] = 300*
+599: 0x0AF5 [0x01] GOTO 0x0B7A
+600: 0x0AF8 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0B12
+601: 0x0B00 [0x03] ExtData[1]->WorkLocal[16] = 6*
+602: 0x0B05 [0x03] ExtData[1]->WorkLocal[18] = 0*
+603: 0x0B0A [0x03] ExtData[1]->WorkLocal[19] = 0*
+604: 0x0B0F [0x01] GOTO 0x0B7A
+605: 0x0B12 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0B2C
+606: 0x0B1A [0x03] ExtData[1]->WorkLocal[16] = 7*
+607: 0x0B1F [0x03] ExtData[1]->WorkLocal[18] = 0*
+608: 0x0B24 [0x03] ExtData[1]->WorkLocal[19] = 0*
+609: 0x0B29 [0x01] GOTO 0x0B7A
+610: 0x0B2C [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0B46
+611: 0x0B34 [0x03] ExtData[1]->WorkLocal[16] = 8*
+612: 0x0B39 [0x03] ExtData[1]->WorkLocal[18] = 0*
+613: 0x0B3E [0x03] ExtData[1]->WorkLocal[19] = 0*
+614: 0x0B43 [0x01] GOTO 0x0B7A
+615: 0x0B46 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0B60
+616: 0x0B4E [0x03] ExtData[1]->WorkLocal[16] = 9*
+617: 0x0B53 [0x03] ExtData[1]->WorkLocal[18] = 0*
+618: 0x0B58 [0x03] ExtData[1]->WorkLocal[19] = 0*
+619: 0x0B5D [0x01] GOTO 0x0B7A
+620: 0x0B60 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0B7A
+621: 0x0B68 [0x03] ExtData[1]->WorkLocal[16] = 10*
+622: 0x0B6D [0x03] ExtData[1]->WorkLocal[18] = 0*
+623: 0x0B72 [0x03] ExtData[1]->WorkLocal[19] = 0*
+624: 0x0B77 [0x01] GOTO 0x0B7A
+
+SUBROUTINE_0B7A:
+625: 0x0B7A [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x0BEC
+626: 0x0B82 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
+627: 0x0B85 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+628: 0x0B8A [0x48] [System] [7395*]:
+    → "Trade for $0?"
+629: 0x0B8D [0x23] WAIT_FOR_DIALOG_INTERACTION
+630: 0x0B8E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+631: 0x0B91 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+632: 0x0B96 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
+633: 0x0B9B [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+    → "That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?"
+634: 0x0B9E [0x23] WAIT_FOR_DIALOG_INTERACTION
+635: 0x0B9F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+636: 0x0BA4 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+    → "Proceed with the exchange? (Notes: $0) [Yes./On second thought...]"
+637: 0x0BAB [0x25] WAIT_DIALOG_SELECT()
+638: 0x0BAC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BE1
+639: 0x0BB4 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[19]) GOTO 0x0BDA
+640: 0x0BBC [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=2*)
+641: 0x0BC5 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[16])
+642: 0x0BCE [0x06] ExtData[1]->WorkLocal[53] = 0
+643: 0x0BD1 [0x06] ExtData[1]->WorkLocal[54] = 0
+644: 0x0BD4 [0x06] ExtData[1]->WorkLocal[55] = 0
+645: 0x0BD7 [0x01] GOTO 0x0BDE
+646: 0x0BDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+    → "You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!"
+647: 0x0BDD [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0BDE:
+648: 0x0BDE [0x01] GOTO 0x0BEC
+649: 0x0BE1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0BEC
+650: 0x0BE9 [0x01] GOTO 0x0BEC
+
+SUBROUTINE_0BEC:
+651: 0x0BEC [0x01] GOTO 0x0932
+652: 0x0BEF [0x01] GOTO 0x0EC6
+653: 0x0BF2 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0EC6
+654: 0x0BFA [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_0BFD:
+655: 0x0BFD [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x0EC3
+656: 0x0C05 [0x06] ExtData[1]->WorkLocal[16] = 0
+657: 0x0C08 [0x06] ExtData[1]->WorkLocal[58] = 0
+658: 0x0C0B [0x1A] CALL_SUBROUTINE(address=0x20EC)
+659: 0x0C0E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+660: 0x0C13 [0x03] Work_Zone[3] = 17664*
+661: 0x0C18 [0x03] Work_Zone[4] = 2500*
+662: 0x0C1D [0x03] Work_Zone[5] = 19310*
+663: 0x0C22 [0x03] Work_Zone[6] = 2500*
+664: 0x0C27 [0x03] Work_Zone[7] = 19267*
+665: 0x0C2C [0x03] Work_Zone[8] = 2500*
+666: 0x0C31 [0x03] Work_Zone[9] = 0*
+667: 0x0C36 [0x03] Work_Zone_1700[0] = 0*
+668: 0x0C3B [0x03] Work_Zone_1700[1] = 0*
+669: 0x0C40 [0x03] Work_Zone_1700[2] = 0*
+670: 0x0C45 [0x03] Work_Zone_1700[3] = 0*
+671: 0x0C4A [0x03] Work_Zone_1700[4] = 0*
+672: 0x0C4F [0x03] Work_Zone_1700[5] = 0*
+673: 0x0C54 [0x03] Work_Zone_1700[6] = 0*
+674: 0x0C59 [0x03] Work_Zone_1700[7] = 0*
+675: 0x0C5E [0x03] Work_Zone_1700[8] = 0*
+676: 0x0C63 [0x03] Work_Zone_1700[9] = 0*
+677: 0x0C68 [0x03] Work_Zone_1700[10] = 0*
+678: 0x0C6D [0x03] Work_Zone_1700[11] = 0*
+679: 0x0C72 [0x03] Work_Zone_1700[12] = 0*
+680: 0x0C77 [0x02] IF !(Work_Zone[3] > 0*) GOTO 0x0C86
+681: 0x0C7F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=1*, condition_work_offset=1*)
+682: 0x0C86 [0x02] IF !(Work_Zone[5] > 0*) GOTO 0x0C95
+683: 0x0C8E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=2*, condition_work_offset=1*)
+684: 0x0C95 [0x02] IF !(Work_Zone[7] > 0*) GOTO 0x0CA4
+685: 0x0C9D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=3*, condition_work_offset=1*)
+686: 0x0CA4 [0x02] IF !(Work_Zone[9] > 0*) GOTO 0x0CB3
+687: 0x0CAC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=4*, condition_work_offset=1*)
+688: 0x0CB3 [0x02] IF !(Work_Zone_1700[1] > 0*) GOTO 0x0CC2
+689: 0x0CBB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=5*, condition_work_offset=1*)
+690: 0x0CC2 [0x02] IF !(Work_Zone_1700[3] > 0*) GOTO 0x0CD1
+691: 0x0CCA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=6*, condition_work_offset=1*)
+692: 0x0CD1 [0x02] IF !(Work_Zone_1700[5] > 0*) GOTO 0x0CE0
+693: 0x0CD9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=7*, condition_work_offset=1*)
+694: 0x0CE0 [0x02] IF !(Work_Zone_1700[7] > 0*) GOTO 0x0CEF
+695: 0x0CE8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=8*, condition_work_offset=1*)
+696: 0x0CEF [0x02] IF !(Work_Zone_1700[9] > 0*) GOTO 0x0CFE
+697: 0x0CF7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=9*, condition_work_offset=1*)
+698: 0x0CFE [0x02] IF !(Work_Zone_1700[11] > 0*) GOTO 0x0D0D
+699: 0x0D06 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=10*, condition_work_offset=1*)
+700: 0x0D0D [0x02] IF !(Work_Zone_1700[13] > 0*) GOTO 0x0D1C
+701: 0x0D15 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=11*, condition_work_offset=1*)
+702: 0x0D1C [0x02] IF !(Work_Zone_1700[15] > 0*) GOTO 0x0D2B
+703: 0x0D24 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=12*, condition_work_offset=1*)
+704: 0x0D2B [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
+    → "Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]"
+705: 0x0D32 [0x25] WAIT_DIALOG_SELECT()
+706: 0x0D33 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D41
+707: 0x0D3B [0x06] ExtData[1]->WorkLocal[55] = 0
+708: 0x0D3E [0x01] GOTO 0x0E45
+709: 0x0D41 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D5B
+710: 0x0D49 [0x03] ExtData[1]->WorkLocal[16] = 1*
+711: 0x0D4E [0x03] ExtData[1]->WorkLocal[18] = 17664*
+712: 0x0D53 [0x03] ExtData[1]->WorkLocal[19] = 2500*
+713: 0x0D58 [0x01] GOTO 0x0E45
+714: 0x0D5B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0D75
+715: 0x0D63 [0x03] ExtData[1]->WorkLocal[16] = 2*
+716: 0x0D68 [0x03] ExtData[1]->WorkLocal[18] = 19310*
+717: 0x0D6D [0x03] ExtData[1]->WorkLocal[19] = 2500*
+718: 0x0D72 [0x01] GOTO 0x0E45
+719: 0x0D75 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0D8F
+720: 0x0D7D [0x03] ExtData[1]->WorkLocal[16] = 3*
+721: 0x0D82 [0x03] ExtData[1]->WorkLocal[18] = 19267*
+722: 0x0D87 [0x03] ExtData[1]->WorkLocal[19] = 2500*
+723: 0x0D8C [0x01] GOTO 0x0E45
+724: 0x0D8F [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0DA9
+725: 0x0D97 [0x03] ExtData[1]->WorkLocal[16] = 4*
+726: 0x0D9C [0x03] ExtData[1]->WorkLocal[18] = 0*
+727: 0x0DA1 [0x03] ExtData[1]->WorkLocal[19] = 0*
+728: 0x0DA6 [0x01] GOTO 0x0E45
+729: 0x0DA9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0DC3
+730: 0x0DB1 [0x03] ExtData[1]->WorkLocal[16] = 5*
+731: 0x0DB6 [0x03] ExtData[1]->WorkLocal[18] = 0*
+732: 0x0DBB [0x03] ExtData[1]->WorkLocal[19] = 0*
+733: 0x0DC0 [0x01] GOTO 0x0E45
+734: 0x0DC3 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0DDD
+735: 0x0DCB [0x03] ExtData[1]->WorkLocal[16] = 6*
+736: 0x0DD0 [0x03] ExtData[1]->WorkLocal[18] = 0*
+737: 0x0DD5 [0x03] ExtData[1]->WorkLocal[19] = 0*
+738: 0x0DDA [0x01] GOTO 0x0E45
+739: 0x0DDD [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0DF7
+740: 0x0DE5 [0x03] ExtData[1]->WorkLocal[16] = 7*
+741: 0x0DEA [0x03] ExtData[1]->WorkLocal[18] = 0*
+742: 0x0DEF [0x03] ExtData[1]->WorkLocal[19] = 0*
+743: 0x0DF4 [0x01] GOTO 0x0E45
+744: 0x0DF7 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0E11
+745: 0x0DFF [0x03] ExtData[1]->WorkLocal[16] = 8*
+746: 0x0E04 [0x03] ExtData[1]->WorkLocal[18] = 0*
+747: 0x0E09 [0x03] ExtData[1]->WorkLocal[19] = 0*
+748: 0x0E0E [0x01] GOTO 0x0E45
+749: 0x0E11 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0E2B
+750: 0x0E19 [0x03] ExtData[1]->WorkLocal[16] = 9*
+751: 0x0E1E [0x03] ExtData[1]->WorkLocal[18] = 0*
+752: 0x0E23 [0x03] ExtData[1]->WorkLocal[19] = 0*
+753: 0x0E28 [0x01] GOTO 0x0E45
+754: 0x0E2B [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0E45
+755: 0x0E33 [0x03] ExtData[1]->WorkLocal[16] = 10*
+756: 0x0E38 [0x03] ExtData[1]->WorkLocal[18] = 0*
+757: 0x0E3D [0x03] ExtData[1]->WorkLocal[19] = 0*
+758: 0x0E42 [0x01] GOTO 0x0E45
+
+SUBROUTINE_0E45:
+759: 0x0E45 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x0EC0
+760: 0x0E4D [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
+761: 0x0E50 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+762: 0x0E55 [0x48] [System] [7395*]:
+    → "Trade for $0?"
+763: 0x0E58 [0x23] WAIT_FOR_DIALOG_INTERACTION
+764: 0x0E59 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+765: 0x0E5C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+766: 0x0E61 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
+767: 0x0E66 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+    → "That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?"
+768: 0x0E69 [0x23] WAIT_FOR_DIALOG_INTERACTION
+769: 0x0E6A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+770: 0x0E6F [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
+    → "That $0 has been augmented with powerful sorcery, but we haven't yet had occasion to test it in battle. Let the buyer beware, soldier."
+771: 0x0E72 [0x23] WAIT_FOR_DIALOG_INTERACTION
+772: 0x0E73 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+773: 0x0E78 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+    → "Proceed with the exchange? (Notes: $0) [Yes./On second thought...]"
+774: 0x0E7F [0x25] WAIT_DIALOG_SELECT()
+775: 0x0E80 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EB5
+776: 0x0E88 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[19]) GOTO 0x0EAE
+777: 0x0E90 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=3*)
+778: 0x0E99 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[16])
+779: 0x0EA2 [0x06] ExtData[1]->WorkLocal[53] = 0
+780: 0x0EA5 [0x06] ExtData[1]->WorkLocal[54] = 0
+781: 0x0EA8 [0x06] ExtData[1]->WorkLocal[55] = 0
+782: 0x0EAB [0x01] GOTO 0x0EB2
+783: 0x0EAE [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+    → "You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!"
+784: 0x0EB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0EB2:
+785: 0x0EB2 [0x01] GOTO 0x0EC0
+786: 0x0EB5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0EC0
+787: 0x0EBD [0x01] GOTO 0x0EC0
+
+SUBROUTINE_0EC0:
+788: 0x0EC0 [0x01] GOTO 0x0BFD
+789: 0x0EC3 [0x01] GOTO 0x0EC6
+
+SUBROUTINE_0EC6:
+790: 0x0EC6 [0x01] GOTO 0x05D9
+791: 0x0EC9 [0x01] GOTO 0x1DCF
+792: 0x0ECC [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1DCF
+793: 0x0ED4 [0x05] ExtData[1]->WorkLocal[54] = 1
+
+SUBROUTINE_0ED7:
+794: 0x0ED7 [0x02] IF !(ExtData[1]->WorkLocal[54] <= 0*) GOTO 0x1DCC
+795: 0x0EDF [0x24] CREATE_DIALOG(message_id=7865*, default_option=0*, option_flags=0*)
+    → "Make an exchange? [Not now./Claim guerdon./Exchange trophies.]"
+796: 0x0EE6 [0x25] WAIT_DIALOG_SELECT()
+797: 0x0EE7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EF5
+798: 0x0EEF [0x06] ExtData[1]->WorkLocal[54] = 0
+799: 0x0EF2 [0x01] GOTO 0x1DC9
+800: 0x0EF5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1622
+801: 0x0EFD [0x06] ExtData[1]->WorkLocal[16] = 0
+802: 0x0F00 [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_0F03:
+803: 0x0F03 [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x161F
+804: 0x0F0B [0x06] ExtData[1]->WorkLocal[17] = 0
+805: 0x0F0E [0x06] ExtData[1]->WorkLocal[16] = 0
+806: 0x0F11 [0x1A] CALL_SUBROUTINE(address=0x20EC)
+807: 0x0F14 [0x03] Work_Zone[2] = 1537*
+808: 0x0F19 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[40]
+809: 0x0F1E [0x03] Work_Zone[4] = 1536*
+810: 0x0F23 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[41]
+811: 0x0F28 [0x03] Work_Zone[6] = 1535*
+812: 0x0F2D [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[42]
+813: 0x0F32 [0x03] Work_Zone[8] = 1534*
+814: 0x0F37 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[43]
+815: 0x0F3C [0x03] Work_Zone_1700[0] = 1533*
+816: 0x0F41 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[44]
+817: 0x0F46 [0x24] CREATE_DIALOG(message_id=7866*, default_option=0*, option_flags=0*)
+    → "Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]"
+818: 0x0F4D [0x25] WAIT_DIALOG_SELECT()
+819: 0x0F4E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F5C
+820: 0x0F56 [0x06] ExtData[1]->WorkLocal[55] = 0
+821: 0x0F59 [0x01] GOTO 0x14CA
+822: 0x0F5C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1072
+823: 0x0F64 [0x03] ExtData[1]->WorkLocal[17] = 1*
+824: 0x0F69 [0x06] ExtData[1]->WorkLocal[16] = 0
+825: 0x0F6C [0x1A] CALL_SUBROUTINE(address=0x20EC)
+826: 0x0F6F [0x03] Work_Zone[2] = 11435*
+827: 0x0F74 [0x03] Work_Zone[3] = 11436*
+828: 0x0F79 [0x03] Work_Zone[4] = 11437*
+829: 0x0F7E [0x03] Work_Zone[5] = 11438*
+830: 0x0F83 [0x03] Work_Zone[6] = 11439*
+831: 0x0F88 [0x03] Work_Zone[7] = 11440*
+832: 0x0F8D [0x03] Work_Zone[8] = 11441*
+833: 0x0F92 [0x03] Work_Zone[9] = 11442*
+834: 0x0F97 [0x03] Work_Zone_1700[0] = 11443*
+835: 0x0F9C [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+    → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
+836: 0x0FA3 [0x25] WAIT_DIALOG_SELECT()
+837: 0x0FA4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FB2
+838: 0x0FAC [0x06] ExtData[1]->WorkLocal[56] = 0
+839: 0x0FAF [0x01] GOTO 0x106F
+840: 0x0FB2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0FC7
+841: 0x0FBA [0x03] ExtData[1]->WorkLocal[16] = 1*
+842: 0x0FBF [0x03] ExtData[1]->WorkLocal[18] = 11435*
+843: 0x0FC4 [0x01] GOTO 0x106F
+844: 0x0FC7 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0FDC
+845: 0x0FCF [0x03] ExtData[1]->WorkLocal[16] = 2*
+846: 0x0FD4 [0x03] ExtData[1]->WorkLocal[18] = 11436*
+847: 0x0FD9 [0x01] GOTO 0x106F
+848: 0x0FDC [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0FF1
+849: 0x0FE4 [0x03] ExtData[1]->WorkLocal[16] = 3*
+850: 0x0FE9 [0x03] ExtData[1]->WorkLocal[18] = 11437*
+851: 0x0FEE [0x01] GOTO 0x106F
+852: 0x0FF1 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1006
+853: 0x0FF9 [0x03] ExtData[1]->WorkLocal[16] = 4*
+854: 0x0FFE [0x03] ExtData[1]->WorkLocal[18] = 11438*
+855: 0x1003 [0x01] GOTO 0x106F
+856: 0x1006 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x101B
+857: 0x100E [0x03] ExtData[1]->WorkLocal[16] = 5*
+858: 0x1013 [0x03] ExtData[1]->WorkLocal[18] = 11439*
+859: 0x1018 [0x01] GOTO 0x106F
+860: 0x101B [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1030
+861: 0x1023 [0x03] ExtData[1]->WorkLocal[16] = 6*
+862: 0x1028 [0x03] ExtData[1]->WorkLocal[18] = 11440*
+863: 0x102D [0x01] GOTO 0x106F
+864: 0x1030 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1045
+865: 0x1038 [0x03] ExtData[1]->WorkLocal[16] = 7*
+866: 0x103D [0x03] ExtData[1]->WorkLocal[18] = 11441*
+867: 0x1042 [0x01] GOTO 0x106F
+868: 0x1045 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x105A
+869: 0x104D [0x03] ExtData[1]->WorkLocal[16] = 8*
+870: 0x1052 [0x03] ExtData[1]->WorkLocal[18] = 11442*
+871: 0x1057 [0x01] GOTO 0x106F
+872: 0x105A [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x106F
+873: 0x1062 [0x03] ExtData[1]->WorkLocal[16] = 9*
+874: 0x1067 [0x03] ExtData[1]->WorkLocal[18] = 11443*
+875: 0x106C [0x01] GOTO 0x106F
+
+SUBROUTINE_106F:
+876: 0x106F [0x01] GOTO 0x14CA
+877: 0x1072 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1188
+878: 0x107A [0x03] ExtData[1]->WorkLocal[17] = 2*
+879: 0x107F [0x06] ExtData[1]->WorkLocal[16] = 0
+880: 0x1082 [0x1A] CALL_SUBROUTINE(address=0x20EC)
+881: 0x1085 [0x03] Work_Zone[2] = 11887*
+882: 0x108A [0x03] Work_Zone[3] = 11888*
+883: 0x108F [0x03] Work_Zone[4] = 11889*
+884: 0x1094 [0x03] Work_Zone[5] = 11890*
+885: 0x1099 [0x03] Work_Zone[6] = 11891*
+886: 0x109E [0x03] Work_Zone[7] = 11892*
+887: 0x10A3 [0x03] Work_Zone[8] = 11893*
+888: 0x10A8 [0x03] Work_Zone[9] = 11894*
+889: 0x10AD [0x03] Work_Zone_1700[0] = 11895*
+890: 0x10B2 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+    → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
+891: 0x10B9 [0x25] WAIT_DIALOG_SELECT()
+892: 0x10BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10C8
+893: 0x10C2 [0x06] ExtData[1]->WorkLocal[56] = 0
+894: 0x10C5 [0x01] GOTO 0x1185
+895: 0x10C8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x10DD
+896: 0x10D0 [0x03] ExtData[1]->WorkLocal[16] = 1*
+897: 0x10D5 [0x03] ExtData[1]->WorkLocal[18] = 11887*
+898: 0x10DA [0x01] GOTO 0x1185
+899: 0x10DD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x10F2
+900: 0x10E5 [0x03] ExtData[1]->WorkLocal[16] = 2*
+901: 0x10EA [0x03] ExtData[1]->WorkLocal[18] = 11888*
+902: 0x10EF [0x01] GOTO 0x1185
+903: 0x10F2 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1107
+904: 0x10FA [0x03] ExtData[1]->WorkLocal[16] = 3*
+905: 0x10FF [0x03] ExtData[1]->WorkLocal[18] = 11889*
+906: 0x1104 [0x01] GOTO 0x1185
+907: 0x1107 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x111C
+908: 0x110F [0x03] ExtData[1]->WorkLocal[16] = 4*
+909: 0x1114 [0x03] ExtData[1]->WorkLocal[18] = 11890*
+910: 0x1119 [0x01] GOTO 0x1185
+911: 0x111C [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1131
+912: 0x1124 [0x03] ExtData[1]->WorkLocal[16] = 5*
+913: 0x1129 [0x03] ExtData[1]->WorkLocal[18] = 11891*
+914: 0x112E [0x01] GOTO 0x1185
+915: 0x1131 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1146
+916: 0x1139 [0x03] ExtData[1]->WorkLocal[16] = 6*
+917: 0x113E [0x03] ExtData[1]->WorkLocal[18] = 11892*
+918: 0x1143 [0x01] GOTO 0x1185
+919: 0x1146 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x115B
+920: 0x114E [0x03] ExtData[1]->WorkLocal[16] = 7*
+921: 0x1153 [0x03] ExtData[1]->WorkLocal[18] = 11893*
+922: 0x1158 [0x01] GOTO 0x1185
+923: 0x115B [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1170
+924: 0x1163 [0x03] ExtData[1]->WorkLocal[16] = 8*
+925: 0x1168 [0x03] ExtData[1]->WorkLocal[18] = 11894*
+926: 0x116D [0x01] GOTO 0x1185
+927: 0x1170 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x1185
+928: 0x1178 [0x03] ExtData[1]->WorkLocal[16] = 9*
+929: 0x117D [0x03] ExtData[1]->WorkLocal[18] = 11895*
+930: 0x1182 [0x01] GOTO 0x1185
+
+SUBROUTINE_1185:
+931: 0x1185 [0x01] GOTO 0x14CA
+932: 0x1188 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x129E
+933: 0x1190 [0x03] ExtData[1]->WorkLocal[17] = 3*
+934: 0x1195 [0x06] ExtData[1]->WorkLocal[16] = 0
+935: 0x1198 [0x1A] CALL_SUBROUTINE(address=0x20EC)
+936: 0x119B [0x03] Work_Zone[2] = 11938*
+937: 0x11A0 [0x03] Work_Zone[3] = 11939*
+938: 0x11A5 [0x03] Work_Zone[4] = 11940*
+939: 0x11AA [0x03] Work_Zone[5] = 11941*
+940: 0x11AF [0x03] Work_Zone[6] = 11942*
+941: 0x11B4 [0x03] Work_Zone[7] = 11943*
+942: 0x11B9 [0x03] Work_Zone[8] = 11944*
+943: 0x11BE [0x03] Work_Zone[9] = 11945*
+944: 0x11C3 [0x03] Work_Zone_1700[0] = 11946*
+945: 0x11C8 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+    → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
+946: 0x11CF [0x25] WAIT_DIALOG_SELECT()
+947: 0x11D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11DE
+948: 0x11D8 [0x06] ExtData[1]->WorkLocal[56] = 0
+949: 0x11DB [0x01] GOTO 0x129B
+950: 0x11DE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x11F3
+951: 0x11E6 [0x03] ExtData[1]->WorkLocal[16] = 1*
+952: 0x11EB [0x03] ExtData[1]->WorkLocal[18] = 11938*
+953: 0x11F0 [0x01] GOTO 0x129B
+954: 0x11F3 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1208
+955: 0x11FB [0x03] ExtData[1]->WorkLocal[16] = 2*
+956: 0x1200 [0x03] ExtData[1]->WorkLocal[18] = 11939*
+957: 0x1205 [0x01] GOTO 0x129B
+958: 0x1208 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x121D
+959: 0x1210 [0x03] ExtData[1]->WorkLocal[16] = 3*
+960: 0x1215 [0x03] ExtData[1]->WorkLocal[18] = 11940*
+961: 0x121A [0x01] GOTO 0x129B
+962: 0x121D [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1232
+963: 0x1225 [0x03] ExtData[1]->WorkLocal[16] = 4*
+964: 0x122A [0x03] ExtData[1]->WorkLocal[18] = 11941*
+965: 0x122F [0x01] GOTO 0x129B
+966: 0x1232 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1247
+967: 0x123A [0x03] ExtData[1]->WorkLocal[16] = 5*
+968: 0x123F [0x03] ExtData[1]->WorkLocal[18] = 11942*
+969: 0x1244 [0x01] GOTO 0x129B
+970: 0x1247 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x125C
+971: 0x124F [0x03] ExtData[1]->WorkLocal[16] = 6*
+972: 0x1254 [0x03] ExtData[1]->WorkLocal[18] = 11943*
+973: 0x1259 [0x01] GOTO 0x129B
+974: 0x125C [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1271
+975: 0x1264 [0x03] ExtData[1]->WorkLocal[16] = 7*
+976: 0x1269 [0x03] ExtData[1]->WorkLocal[18] = 11944*
+977: 0x126E [0x01] GOTO 0x129B
+978: 0x1271 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1286
+979: 0x1279 [0x03] ExtData[1]->WorkLocal[16] = 8*
+980: 0x127E [0x03] ExtData[1]->WorkLocal[18] = 11945*
+981: 0x1283 [0x01] GOTO 0x129B
+982: 0x1286 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x129B
+983: 0x128E [0x03] ExtData[1]->WorkLocal[16] = 9*
+984: 0x1293 [0x03] ExtData[1]->WorkLocal[18] = 11946*
+985: 0x1298 [0x01] GOTO 0x129B
+
+SUBROUTINE_129B:
+986: 0x129B [0x01] GOTO 0x14CA
+987: 0x129E [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x13B4
+988: 0x12A6 [0x03] ExtData[1]->WorkLocal[17] = 4*
+989: 0x12AB [0x06] ExtData[1]->WorkLocal[16] = 0
+990: 0x12AE [0x1A] CALL_SUBROUTINE(address=0x20EC)
+991: 0x12B1 [0x03] Work_Zone[2] = 11789*
+992: 0x12B6 [0x03] Work_Zone[3] = 11790*
+993: 0x12BB [0x03] Work_Zone[4] = 11791*
+994: 0x12C0 [0x03] Work_Zone[5] = 11792*
+995: 0x12C5 [0x03] Work_Zone[6] = 11793*
+996: 0x12CA [0x03] Work_Zone[7] = 11794*
+997: 0x12CF [0x03] Work_Zone[8] = 11795*
+998: 0x12D4 [0x03] Work_Zone[9] = 11796*
+999: 0x12D9 [0x03] Work_Zone_1700[0] = 11797*
+1000: 0x12DE [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+    → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
+1001: 0x12E5 [0x25] WAIT_DIALOG_SELECT()
+1002: 0x12E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12F4
+1003: 0x12EE [0x06] ExtData[1]->WorkLocal[56] = 0
+1004: 0x12F1 [0x01] GOTO 0x13B1
+1005: 0x12F4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1309
+1006: 0x12FC [0x03] ExtData[1]->WorkLocal[16] = 1*
+1007: 0x1301 [0x03] ExtData[1]->WorkLocal[18] = 11789*
+1008: 0x1306 [0x01] GOTO 0x13B1
+1009: 0x1309 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x131E
+1010: 0x1311 [0x03] ExtData[1]->WorkLocal[16] = 2*
+1011: 0x1316 [0x03] ExtData[1]->WorkLocal[18] = 11790*
+1012: 0x131B [0x01] GOTO 0x13B1
+1013: 0x131E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1333
+1014: 0x1326 [0x03] ExtData[1]->WorkLocal[16] = 3*
+1015: 0x132B [0x03] ExtData[1]->WorkLocal[18] = 11791*
+1016: 0x1330 [0x01] GOTO 0x13B1
+1017: 0x1333 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1348
+1018: 0x133B [0x03] ExtData[1]->WorkLocal[16] = 4*
+1019: 0x1340 [0x03] ExtData[1]->WorkLocal[18] = 11792*
+1020: 0x1345 [0x01] GOTO 0x13B1
+1021: 0x1348 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x135D
+1022: 0x1350 [0x03] ExtData[1]->WorkLocal[16] = 5*
+1023: 0x1355 [0x03] ExtData[1]->WorkLocal[18] = 11793*
+1024: 0x135A [0x01] GOTO 0x13B1
+1025: 0x135D [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1372
+1026: 0x1365 [0x03] ExtData[1]->WorkLocal[16] = 6*
+1027: 0x136A [0x03] ExtData[1]->WorkLocal[18] = 11794*
+1028: 0x136F [0x01] GOTO 0x13B1
+1029: 0x1372 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1387
+1030: 0x137A [0x03] ExtData[1]->WorkLocal[16] = 7*
+1031: 0x137F [0x03] ExtData[1]->WorkLocal[18] = 11795*
+1032: 0x1384 [0x01] GOTO 0x13B1
+1033: 0x1387 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x139C
+1034: 0x138F [0x03] ExtData[1]->WorkLocal[16] = 8*
+1035: 0x1394 [0x03] ExtData[1]->WorkLocal[18] = 11796*
+1036: 0x1399 [0x01] GOTO 0x13B1
+1037: 0x139C [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x13B1
+1038: 0x13A4 [0x03] ExtData[1]->WorkLocal[16] = 9*
+1039: 0x13A9 [0x03] ExtData[1]->WorkLocal[18] = 11797*
+1040: 0x13AE [0x01] GOTO 0x13B1
+
+SUBROUTINE_13B1:
+1041: 0x13B1 [0x01] GOTO 0x14CA
+1042: 0x13B4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x14CA
+1043: 0x13BC [0x03] ExtData[1]->WorkLocal[17] = 5*
+1044: 0x13C1 [0x06] ExtData[1]->WorkLocal[16] = 0
+1045: 0x13C4 [0x1A] CALL_SUBROUTINE(address=0x20EC)
+1046: 0x13C7 [0x03] Work_Zone[2] = 11834*
+1047: 0x13CC [0x03] Work_Zone[3] = 11835*
+1048: 0x13D1 [0x03] Work_Zone[4] = 11836*
+1049: 0x13D6 [0x03] Work_Zone[5] = 11837*
+1050: 0x13DB [0x03] Work_Zone[6] = 11838*
+1051: 0x13E0 [0x03] Work_Zone[7] = 11839*
+1052: 0x13E5 [0x03] Work_Zone[8] = 11840*
+1053: 0x13EA [0x03] Work_Zone[9] = 11841*
+1054: 0x13EF [0x03] Work_Zone_1700[0] = 11842*
+1055: 0x13F4 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+    → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
+1056: 0x13FB [0x25] WAIT_DIALOG_SELECT()
+1057: 0x13FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x140A
+1058: 0x1404 [0x06] ExtData[1]->WorkLocal[56] = 0
+1059: 0x1407 [0x01] GOTO 0x14C7
+1060: 0x140A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x141F
+1061: 0x1412 [0x03] ExtData[1]->WorkLocal[16] = 1*
+1062: 0x1417 [0x03] ExtData[1]->WorkLocal[18] = 11834*
+1063: 0x141C [0x01] GOTO 0x14C7
+1064: 0x141F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1434
+1065: 0x1427 [0x03] ExtData[1]->WorkLocal[16] = 2*
+1066: 0x142C [0x03] ExtData[1]->WorkLocal[18] = 11835*
+1067: 0x1431 [0x01] GOTO 0x14C7
+1068: 0x1434 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1449
+1069: 0x143C [0x03] ExtData[1]->WorkLocal[16] = 3*
+1070: 0x1441 [0x03] ExtData[1]->WorkLocal[18] = 11836*
+1071: 0x1446 [0x01] GOTO 0x14C7
+1072: 0x1449 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x145E
+1073: 0x1451 [0x03] ExtData[1]->WorkLocal[16] = 4*
+1074: 0x1456 [0x03] ExtData[1]->WorkLocal[18] = 11837*
+1075: 0x145B [0x01] GOTO 0x14C7
+1076: 0x145E [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1473
+1077: 0x1466 [0x03] ExtData[1]->WorkLocal[16] = 5*
+1078: 0x146B [0x03] ExtData[1]->WorkLocal[18] = 11838*
+1079: 0x1470 [0x01] GOTO 0x14C7
+1080: 0x1473 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1488
+1081: 0x147B [0x03] ExtData[1]->WorkLocal[16] = 6*
+1082: 0x1480 [0x03] ExtData[1]->WorkLocal[18] = 11839*
+1083: 0x1485 [0x01] GOTO 0x14C7
+1084: 0x1488 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x149D
+1085: 0x1490 [0x03] ExtData[1]->WorkLocal[16] = 7*
+1086: 0x1495 [0x03] ExtData[1]->WorkLocal[18] = 11840*
+1087: 0x149A [0x01] GOTO 0x14C7
+1088: 0x149D [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x14B2
+1089: 0x14A5 [0x03] ExtData[1]->WorkLocal[16] = 8*
+1090: 0x14AA [0x03] ExtData[1]->WorkLocal[18] = 11841*
+1091: 0x14AF [0x01] GOTO 0x14C7
+1092: 0x14B2 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x14C7
+1093: 0x14BA [0x03] ExtData[1]->WorkLocal[16] = 9*
+1094: 0x14BF [0x03] ExtData[1]->WorkLocal[18] = 11842*
+1095: 0x14C4 [0x01] GOTO 0x14C7
+
+SUBROUTINE_14C7:
+1096: 0x14C7 [0x01] GOTO 0x14CA
+
+SUBROUTINE_14CA:
+1097: 0x14CA [0x02] IF !(ExtData[1]->WorkLocal[17] <= 0*) GOTO 0x161C
+1098: 0x14D2 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x161C
+1099: 0x14DA [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
+1100: 0x14DD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+1101: 0x14E2 [0x48] [System] [7395*]:
+    → "Trade for $0?"
+1102: 0x14E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1103: 0x14E6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+1104: 0x14E9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+1105: 0x14EE [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x14FE
+1106: 0x14F6 [0x03] Work_Zone[3] = 1537*
+1107: 0x14FB [0x01] GOTO 0x153E
+1108: 0x14FE [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x150E
+1109: 0x1506 [0x03] Work_Zone[3] = 1536*
+1110: 0x150B [0x01] GOTO 0x153E
+1111: 0x150E [0x02] IF !(ExtData[1]->WorkLocal[17] == 3*) GOTO 0x151E
+1112: 0x1516 [0x03] Work_Zone[3] = 1535*
+1113: 0x151B [0x01] GOTO 0x153E
+1114: 0x151E [0x02] IF !(ExtData[1]->WorkLocal[17] == 4*) GOTO 0x152E
+1115: 0x1526 [0x03] Work_Zone[3] = 1534*
+1116: 0x152B [0x01] GOTO 0x153E
+1117: 0x152E [0x02] IF !(ExtData[1]->WorkLocal[17] == 5*) GOTO 0x153E
+1118: 0x1536 [0x03] Work_Zone[3] = 1533*
+1119: 0x153B [0x01] GOTO 0x153E
+
+SUBROUTINE_153E:
+1120: 0x153E [0x03] Work_Zone[4] = 1*
+1121: 0x1543 [0x02] IF !(Work_Zone[4] <= 1*) GOTO 0x1552
+1122: 0x154B [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
+    → "You'll need $2 $5 to claim that $0."
+1123: 0x154E [0x23] WAIT_FOR_DIALOG_INTERACTION
+1124: 0x154F [0x01] GOTO 0x1556
+1125: 0x1552 [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
+    → "You'll need $2 $3 to claim that $0."
+1126: 0x1555 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1556:
+1127: 0x1556 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
+1128: 0x155B [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+    → "That $0 seems to be augmented with some powerful sorcery, but hasn't yet been tested in battle. We can't tell you what to expect, so let the buyer beware, soldier."
+1129: 0x155E [0x23] WAIT_FOR_DIALOG_INTERACTION
+1130: 0x155F [0x24] CREATE_DIALOG(message_id=7871*, default_option=1*, option_flags=0*)
+    → "Proceed with the exchange? [Yes./No.]"
+1131: 0x1566 [0x25] WAIT_DIALOG_SELECT()
+1132: 0x1567 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1611
+1133: 0x156F [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1584
+1134: 0x1577 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[40]
+1135: 0x157C [0x03] Work_Zone[2] = 1537*
+1136: 0x1581 [0x01] GOTO 0x15D8
+1137: 0x1584 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1599
+1138: 0x158C [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[41]
+1139: 0x1591 [0x03] Work_Zone[2] = 1536*
+1140: 0x1596 [0x01] GOTO 0x15D8
+1141: 0x1599 [0x02] IF !(ExtData[1]->WorkLocal[17] == 3*) GOTO 0x15AE
+1142: 0x15A1 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[42]
+1143: 0x15A6 [0x03] Work_Zone[2] = 1535*
+1144: 0x15AB [0x01] GOTO 0x15D8
+1145: 0x15AE [0x02] IF !(ExtData[1]->WorkLocal[17] == 4*) GOTO 0x15C3
+1146: 0x15B6 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[43]
+1147: 0x15BB [0x03] Work_Zone[2] = 1534*
+1148: 0x15C0 [0x01] GOTO 0x15D8
+1149: 0x15C3 [0x02] IF !(ExtData[1]->WorkLocal[17] == 5*) GOTO 0x15D8
+1150: 0x15CB [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[44]
+1151: 0x15D0 [0x03] Work_Zone[2] = 1533*
+1152: 0x15D5 [0x01] GOTO 0x15D8
+
+SUBROUTINE_15D8:
+1153: 0x15D8 [0x02] IF !(ExtData[1]->WorkLocal[59] < 1*) GOTO 0x160A
+1154: 0x15E0 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=4*)
+1155: 0x15E9 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[16])
+1156: 0x15F2 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[17])
+1157: 0x15FB [0x06] ExtData[1]->WorkLocal[53] = 0
+1158: 0x15FE [0x06] ExtData[1]->WorkLocal[54] = 0
+1159: 0x1601 [0x06] ExtData[1]->WorkLocal[55] = 0
+1160: 0x1604 [0x06] ExtData[1]->WorkLocal[56] = 0
+1161: 0x1607 [0x01] GOTO 0x160E
+1162: 0x160A [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
+    → "You're short on $5, soldier. If you want a reward, you'll have to prove yourself in battle."
+1163: 0x160D [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_160E:
+1164: 0x160E [0x01] GOTO 0x161C
+1165: 0x1611 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x161C
+1166: 0x1619 [0x01] GOTO 0x161C
+
+SUBROUTINE_161C:
+1167: 0x161C [0x01] GOTO 0x0F03
+1168: 0x161F [0x01] GOTO 0x1DC9
+1169: 0x1622 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1DC9
+1170: 0x162A [0x05] ExtData[1]->WorkLocal[55] = 1
+
+SUBROUTINE_162D:
+1171: 0x162D [0x02] IF !(ExtData[1]->WorkLocal[55] <= 0*) GOTO 0x1DC6
+1172: 0x1635 [0x06] ExtData[1]->WorkLocal[17] = 0
+1173: 0x1638 [0x06] ExtData[1]->WorkLocal[16] = 0
+1174: 0x163B [0x1A] CALL_SUBROUTINE(address=0x20EC)
+1175: 0x163E [0x03] Work_Zone[2] = 1537*
+1176: 0x1643 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[40]
+1177: 0x1648 [0x03] Work_Zone[4] = 1536*
+1178: 0x164D [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[41]
+1179: 0x1652 [0x03] Work_Zone[6] = 1535*
+1180: 0x1657 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[42]
+1181: 0x165C [0x03] Work_Zone[8] = 1534*
+1182: 0x1661 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[43]
+1183: 0x1666 [0x03] Work_Zone_1700[0] = 1533*
+1184: 0x166B [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[44]
+1185: 0x1670 [0x06] ExtData[1]->WorkLocal[59] = 0
+1186: 0x1673 [0x24] CREATE_DIALOG(message_id=7874*, default_option=0*, option_flags=0*)
+    → "Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]"
+1187: 0x167A [0x25] WAIT_DIALOG_SELECT()
+1188: 0x167B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1689
+1189: 0x1683 [0x06] ExtData[1]->WorkLocal[55] = 0
+1190: 0x1686 [0x01] GOTO 0x1805
+1191: 0x1689 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x16D5
+1192: 0x1691 [0x03] ExtData[1]->WorkLocal[16] = 1*
+1193: 0x1696 [0x03] Work_Zone[2] = 1537*
+1194: 0x169B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[40]
+1195: 0x16A0 [0x48] [System] [7875*]:
+    → "5 in your possession: $1. Enter the quantity you wish to trade."
+1196: 0x16A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1197: 0x16A4 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+1198: 0x16A8 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[2])
+1199: 0x16AC [0x03] ExtData[1]->WorkLocal[46] = Work_Zone_1700[2]
+1200: 0x16B1 [0x03] Work_Zone[2] = 0*
+1201: 0x16B6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[40]
+1202: 0x16BB [0x03] Work_Zone[4] = 1536*
+1203: 0x16C0 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[41]
+1204: 0x16C5 [0x02] IF !(ExtData[1]->WorkLocal[40] >= ExtData[1]->WorkLocal[46]) GOTO 0x16D2
+1205: 0x16CD [0x03] ExtData[1]->WorkLocal[59] = 1*
+1206: 0x16D2 [0x01] GOTO 0x1805
+1207: 0x16D5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1721
+1208: 0x16DD [0x03] ExtData[1]->WorkLocal[16] = 2*
+1209: 0x16E2 [0x03] Work_Zone[2] = 1536*
+1210: 0x16E7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[41]
+1211: 0x16EC [0x48] [System] [7875*]:
+    → "5 in your possession: $1. Enter the quantity you wish to trade."
+1212: 0x16EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+1213: 0x16F0 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+1214: 0x16F4 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[2])
+1215: 0x16F8 [0x03] ExtData[1]->WorkLocal[46] = Work_Zone_1700[2]
+1216: 0x16FD [0x03] Work_Zone[2] = 1537*
+1217: 0x1702 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[40]
+1218: 0x1707 [0x03] Work_Zone[4] = 1535*
+1219: 0x170C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[42]
+1220: 0x1711 [0x02] IF !(ExtData[1]->WorkLocal[41] >= ExtData[1]->WorkLocal[46]) GOTO 0x171E
+1221: 0x1719 [0x03] ExtData[1]->WorkLocal[59] = 1*
+1222: 0x171E [0x01] GOTO 0x1805
+1223: 0x1721 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x176D
+1224: 0x1729 [0x03] ExtData[1]->WorkLocal[16] = 3*
+1225: 0x172E [0x03] Work_Zone[2] = 1535*
+1226: 0x1733 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[42]
+1227: 0x1738 [0x48] [System] [7875*]:
+    → "5 in your possession: $1. Enter the quantity you wish to trade."
+1228: 0x173B [0x23] WAIT_FOR_DIALOG_INTERACTION
+1229: 0x173C [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+1230: 0x1740 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[2])
+1231: 0x1744 [0x03] ExtData[1]->WorkLocal[46] = Work_Zone_1700[2]
+1232: 0x1749 [0x03] Work_Zone[2] = 1536*
+1233: 0x174E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[41]
+1234: 0x1753 [0x03] Work_Zone[4] = 1534*
+1235: 0x1758 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[43]
+1236: 0x175D [0x02] IF !(ExtData[1]->WorkLocal[42] >= ExtData[1]->WorkLocal[46]) GOTO 0x176A
+1237: 0x1765 [0x03] ExtData[1]->WorkLocal[59] = 1*
+1238: 0x176A [0x01] GOTO 0x1805
+1239: 0x176D [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x17B9
+1240: 0x1775 [0x03] ExtData[1]->WorkLocal[16] = 4*
+1241: 0x177A [0x03] Work_Zone[2] = 1534*
+1242: 0x177F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[43]
+1243: 0x1784 [0x48] [System] [7875*]:
+    → "5 in your possession: $1. Enter the quantity you wish to trade."
+1244: 0x1787 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1245: 0x1788 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+1246: 0x178C [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[2])
+1247: 0x1790 [0x03] ExtData[1]->WorkLocal[46] = Work_Zone_1700[2]
+1248: 0x1795 [0x03] Work_Zone[2] = 1535*
+1249: 0x179A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[42]
+1250: 0x179F [0x03] Work_Zone[4] = 1533*
+1251: 0x17A4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[44]
+1252: 0x17A9 [0x02] IF !(ExtData[1]->WorkLocal[43] >= ExtData[1]->WorkLocal[46]) GOTO 0x17B6
+1253: 0x17B1 [0x03] ExtData[1]->WorkLocal[59] = 1*
+1254: 0x17B6 [0x01] GOTO 0x1805
+1255: 0x17B9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1805
+1256: 0x17C1 [0x03] ExtData[1]->WorkLocal[16] = 5*
+1257: 0x17C6 [0x03] Work_Zone[2] = 1533*
+1258: 0x17CB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[44]
+1259: 0x17D0 [0x48] [System] [7875*]:
+    → "5 in your possession: $1. Enter the quantity you wish to trade."
+1260: 0x17D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1261: 0x17D4 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+1262: 0x17D8 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[2])
+1263: 0x17DC [0x03] ExtData[1]->WorkLocal[46] = Work_Zone_1700[2]
+1264: 0x17E1 [0x03] Work_Zone[2] = 1534*
+1265: 0x17E6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[43]
+1266: 0x17EB [0x03] Work_Zone[4] = 0*
+1267: 0x17F0 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[44]
+1268: 0x17F5 [0x02] IF !(ExtData[1]->WorkLocal[44] >= ExtData[1]->WorkLocal[46]) GOTO 0x1802
+1269: 0x17FD [0x03] ExtData[1]->WorkLocal[59] = 1*
+1270: 0x1802 [0x01] GOTO 0x1805
+
+SUBROUTINE_1805:
+1271: 0x1805 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x1DC3
+1272: 0x180D [0x06] ExtData[1]->WorkLocal[57] = 0
+1273: 0x1810 [0x06] ExtData[1]->WorkLocal[17] = 0
+1274: 0x1813 [0x02] IF !(Work_Zone[2] > 0*) GOTO 0x1822
+1275: 0x181B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=1*, condition_work_offset=1*)
+1276: 0x1822 [0x02] IF !(Work_Zone[4] > 0*) GOTO 0x1831
+1277: 0x182A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=2*, condition_work_offset=1*)
+1278: 0x1831 [0x02] IF !(ExtData[1]->WorkLocal[46] > 0*) GOTO 0x1840
+1279: 0x1839 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=1*, condition_work_offset=1*)
+1280: 0x1840 [0x02] IF !(ExtData[1]->WorkLocal[46] > 1*) GOTO 0x184F
+1281: 0x1848 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=2*, condition_work_offset=1*)
+1282: 0x184F [0x24] CREATE_DIALOG(message_id=7876*, default_option=0*, option_flags=ExtData[1]->WorkLocal[57])
+    → "Exchange for which trophy? [Cancel./3 (You have $1)./$3 (You have $3).]"
+1283: 0x1856 [0x25] WAIT_DIALOG_SELECT()
+1284: 0x1857 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1862
+1285: 0x185F [0x01] GOTO 0x1882
+1286: 0x1862 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1872
+1287: 0x186A [0x03] ExtData[1]->WorkLocal[17] = 1*
+1288: 0x186F [0x01] GOTO 0x1882
+1289: 0x1872 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1882
+1290: 0x187A [0x03] ExtData[1]->WorkLocal[17] = 2*
+1291: 0x187F [0x01] GOTO 0x1882
+
+SUBROUTINE_1882:
+1292: 0x1882 [0x02] IF !(ExtData[1]->WorkLocal[17] <= 0*) GOTO 0x1DC3
+1293: 0x188A [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x1943
+1294: 0x1892 [0x03] Work_Zone[2] = 1537*
+1295: 0x1897 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x18DF
+1296: 0x189F [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[40]
+1297: 0x18A4 [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1298: 0x18A9 [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1299: 0x18AE [0x14] ExtData[1]->WorkLocal[48] *= 2*
+1300: 0x18B3 [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1301: 0x18B8 [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[40]
+1302: 0x18BD [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x18CD
+1303: 0x18C5 [0x03] ExtData[1]->WorkLocal[59] = 2*
+1304: 0x18CA [0x01] GOTO 0x18DC
+1305: 0x18CD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1306: 0x18D2 [0x03] Work_Zone[4] = 1537*
+1307: 0x18D7 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_18DC:
+1308: 0x18DC [0x01] GOTO 0x1940
+1309: 0x18DF [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1940
+1310: 0x18E7 [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[40]
+1311: 0x18EC [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1312: 0x18F1 [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1313: 0x18F6 [0x3F] ExtData[1]->WorkLocal[47] = ExtData[1]->WorkLocal[46] % 2*
+1314: 0x18FD [0x02] IF !(ExtData[1]->WorkLocal[47] < 1*) GOTO 0x190F
+1315: 0x1905 [0x07] ExtData[1]->WorkLocal[49] += 1*
+1316: 0x190A [0x08] ExtData[1]->WorkLocal[48] -= 1*
+1317: 0x190F [0x15] ExtData[1]->WorkLocal[48] /= 2*
+1318: 0x1914 [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1319: 0x1919 [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[41]
+1320: 0x191E [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x192E
+1321: 0x1926 [0x03] ExtData[1]->WorkLocal[59] = 2*
+1322: 0x192B [0x01] GOTO 0x193D
+1323: 0x192E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1324: 0x1933 [0x03] Work_Zone[4] = 1536*
+1325: 0x1938 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_193D:
+1326: 0x193D [0x01] GOTO 0x1940
+
+SUBROUTINE_1940:
+1327: 0x1940 [0x01] GOTO 0x1C27
+1328: 0x1943 [0x02] IF !(ExtData[1]->WorkLocal[16] == 2*) GOTO 0x19FC
+1329: 0x194B [0x03] Work_Zone[2] = 1536*
+1330: 0x1950 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1998
+1331: 0x1958 [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[41]
+1332: 0x195D [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1333: 0x1962 [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1334: 0x1967 [0x14] ExtData[1]->WorkLocal[48] *= 2*
+1335: 0x196C [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1336: 0x1971 [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[40]
+1337: 0x1976 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x1986
+1338: 0x197E [0x03] ExtData[1]->WorkLocal[59] = 2*
+1339: 0x1983 [0x01] GOTO 0x1995
+1340: 0x1986 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1341: 0x198B [0x03] Work_Zone[4] = 1537*
+1342: 0x1990 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_1995:
+1343: 0x1995 [0x01] GOTO 0x19F9
+1344: 0x1998 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x19F9
+1345: 0x19A0 [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[41]
+1346: 0x19A5 [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1347: 0x19AA [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1348: 0x19AF [0x3F] ExtData[1]->WorkLocal[47] = ExtData[1]->WorkLocal[46] % 2*
+1349: 0x19B6 [0x02] IF !(ExtData[1]->WorkLocal[47] < 1*) GOTO 0x19C8
+1350: 0x19BE [0x07] ExtData[1]->WorkLocal[49] += 1*
+1351: 0x19C3 [0x08] ExtData[1]->WorkLocal[48] -= 1*
+1352: 0x19C8 [0x15] ExtData[1]->WorkLocal[48] /= 2*
+1353: 0x19CD [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1354: 0x19D2 [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[42]
+1355: 0x19D7 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x19E7
+1356: 0x19DF [0x03] ExtData[1]->WorkLocal[59] = 2*
+1357: 0x19E4 [0x01] GOTO 0x19F6
+1358: 0x19E7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1359: 0x19EC [0x03] Work_Zone[4] = 1535*
+1360: 0x19F1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_19F6:
+1361: 0x19F6 [0x01] GOTO 0x19F9
+
+SUBROUTINE_19F9:
+1362: 0x19F9 [0x01] GOTO 0x1C27
+1363: 0x19FC [0x02] IF !(ExtData[1]->WorkLocal[16] == 3*) GOTO 0x1AB5
+1364: 0x1A04 [0x03] Work_Zone[2] = 1535*
+1365: 0x1A09 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1A51
+1366: 0x1A11 [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[42]
+1367: 0x1A16 [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1368: 0x1A1B [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1369: 0x1A20 [0x14] ExtData[1]->WorkLocal[48] *= 2*
+1370: 0x1A25 [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1371: 0x1A2A [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[41]
+1372: 0x1A2F [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x1A3F
+1373: 0x1A37 [0x03] ExtData[1]->WorkLocal[59] = 2*
+1374: 0x1A3C [0x01] GOTO 0x1A4E
+1375: 0x1A3F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1376: 0x1A44 [0x03] Work_Zone[4] = 1536*
+1377: 0x1A49 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_1A4E:
+1378: 0x1A4E [0x01] GOTO 0x1AB2
+1379: 0x1A51 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1AB2
+1380: 0x1A59 [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[42]
+1381: 0x1A5E [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1382: 0x1A63 [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1383: 0x1A68 [0x3F] ExtData[1]->WorkLocal[47] = ExtData[1]->WorkLocal[46] % 2*
+1384: 0x1A6F [0x02] IF !(ExtData[1]->WorkLocal[47] < 1*) GOTO 0x1A81
+1385: 0x1A77 [0x07] ExtData[1]->WorkLocal[49] += 1*
+1386: 0x1A7C [0x08] ExtData[1]->WorkLocal[48] -= 1*
+1387: 0x1A81 [0x15] ExtData[1]->WorkLocal[48] /= 2*
+1388: 0x1A86 [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1389: 0x1A8B [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[43]
+1390: 0x1A90 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x1AA0
+1391: 0x1A98 [0x03] ExtData[1]->WorkLocal[59] = 2*
+1392: 0x1A9D [0x01] GOTO 0x1AAF
+1393: 0x1AA0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1394: 0x1AA5 [0x03] Work_Zone[4] = 1534*
+1395: 0x1AAA [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_1AAF:
+1396: 0x1AAF [0x01] GOTO 0x1AB2
+
+SUBROUTINE_1AB2:
+1397: 0x1AB2 [0x01] GOTO 0x1C27
+1398: 0x1AB5 [0x02] IF !(ExtData[1]->WorkLocal[16] == 4*) GOTO 0x1B6E
+1399: 0x1ABD [0x03] Work_Zone[2] = 1534*
+1400: 0x1AC2 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1B0A
+1401: 0x1ACA [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[43]
+1402: 0x1ACF [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1403: 0x1AD4 [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1404: 0x1AD9 [0x14] ExtData[1]->WorkLocal[48] *= 2*
+1405: 0x1ADE [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1406: 0x1AE3 [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[42]
+1407: 0x1AE8 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x1AF8
+1408: 0x1AF0 [0x03] ExtData[1]->WorkLocal[59] = 2*
+1409: 0x1AF5 [0x01] GOTO 0x1B07
+1410: 0x1AF8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1411: 0x1AFD [0x03] Work_Zone[4] = 1535*
+1412: 0x1B02 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_1B07:
+1413: 0x1B07 [0x01] GOTO 0x1B6B
+1414: 0x1B0A [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1B6B
+1415: 0x1B12 [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[43]
+1416: 0x1B17 [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1417: 0x1B1C [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1418: 0x1B21 [0x3F] ExtData[1]->WorkLocal[47] = ExtData[1]->WorkLocal[46] % 2*
+1419: 0x1B28 [0x02] IF !(ExtData[1]->WorkLocal[47] < 1*) GOTO 0x1B3A
+1420: 0x1B30 [0x07] ExtData[1]->WorkLocal[49] += 1*
+1421: 0x1B35 [0x08] ExtData[1]->WorkLocal[48] -= 1*
+1422: 0x1B3A [0x15] ExtData[1]->WorkLocal[48] /= 2*
+1423: 0x1B3F [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1424: 0x1B44 [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[44]
+1425: 0x1B49 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x1B59
+1426: 0x1B51 [0x03] ExtData[1]->WorkLocal[59] = 2*
+1427: 0x1B56 [0x01] GOTO 0x1B68
+1428: 0x1B59 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1429: 0x1B5E [0x03] Work_Zone[4] = 1533*
+1430: 0x1B63 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_1B68:
+1431: 0x1B68 [0x01] GOTO 0x1B6B
+
+SUBROUTINE_1B6B:
+1432: 0x1B6B [0x01] GOTO 0x1C27
+1433: 0x1B6E [0x02] IF !(ExtData[1]->WorkLocal[16] == 5*) GOTO 0x1C27
+1434: 0x1B76 [0x03] Work_Zone[2] = 1533*
+1435: 0x1B7B [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1BC3
+1436: 0x1B83 [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[44]
+1437: 0x1B88 [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1438: 0x1B8D [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1439: 0x1B92 [0x14] ExtData[1]->WorkLocal[48] *= 2*
+1440: 0x1B97 [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1441: 0x1B9C [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[43]
+1442: 0x1BA1 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x1BB1
+1443: 0x1BA9 [0x03] ExtData[1]->WorkLocal[59] = 2*
+1444: 0x1BAE [0x01] GOTO 0x1BC0
+1445: 0x1BB1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1446: 0x1BB6 [0x03] Work_Zone[4] = 1534*
+1447: 0x1BBB [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_1BC0:
+1448: 0x1BC0 [0x01] GOTO 0x1C24
+1449: 0x1BC3 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1C24
+1450: 0x1BCB [0x03] ExtData[1]->WorkLocal[49] = ExtData[1]->WorkLocal[44]
+1451: 0x1BD0 [0x08] ExtData[1]->WorkLocal[49] -= ExtData[1]->WorkLocal[46]
+1452: 0x1BD5 [0x03] ExtData[1]->WorkLocal[48] = ExtData[1]->WorkLocal[46]
+1453: 0x1BDA [0x3F] ExtData[1]->WorkLocal[47] = ExtData[1]->WorkLocal[46] % 2*
+1454: 0x1BE1 [0x02] IF !(ExtData[1]->WorkLocal[47] < 1*) GOTO 0x1BF3
+1455: 0x1BE9 [0x07] ExtData[1]->WorkLocal[49] += 1*
+1456: 0x1BEE [0x08] ExtData[1]->WorkLocal[48] -= 1*
+1457: 0x1BF3 [0x15] ExtData[1]->WorkLocal[48] /= 2*
+1458: 0x1BF8 [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[48]
+1459: 0x1BFD [0x07] ExtData[1]->WorkLocal[45] += ExtData[1]->WorkLocal[44]
+1460: 0x1C02 [0x02] IF !(ExtData[1]->WorkLocal[45] <= 30*) GOTO 0x1C12
+1461: 0x1C0A [0x03] ExtData[1]->WorkLocal[59] = 2*
+1462: 0x1C0F [0x01] GOTO 0x1C21
+1463: 0x1C12 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[49]
+1464: 0x1C17 [0x03] Work_Zone[4] = 1533*
+1465: 0x1C1C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[45]
+
+SUBROUTINE_1C21:
+1466: 0x1C21 [0x01] GOTO 0x1C24
+
+SUBROUTINE_1C24:
+1467: 0x1C24 [0x01] GOTO 0x1C27
+
+SUBROUTINE_1C27:
+1468: 0x1C27 [0x02] IF !(ExtData[1]->WorkLocal[59] == 0*) GOTO 0x1C81
+1469: 0x1C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+    → "You'll be left with $1 of these $5 and $3 of these $5 if you make that trade. You sure about this, soldier?"
+1470: 0x1C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1471: 0x1C33 [0x24] CREATE_DIALOG(message_id=7881*, default_option=1*, option_flags=0*)
+    → "Proceed with exchange? [Yes./No.]"
+1472: 0x1C3A [0x25] WAIT_DIALOG_SELECT()
+1473: 0x1C3B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C73
+1474: 0x1C43 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
+1475: 0x1C4C [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[16])
+1476: 0x1C55 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[17])
+1477: 0x1C5E [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[46])
+1478: 0x1C67 [0x06] ExtData[1]->WorkLocal[53] = 0
+1479: 0x1C6A [0x06] ExtData[1]->WorkLocal[54] = 0
+1480: 0x1C6D [0x06] ExtData[1]->WorkLocal[55] = 0
+1481: 0x1C70 [0x01] GOTO 0x1C7E
+1482: 0x1C73 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1C7E
+1483: 0x1C7B [0x01] GOTO 0x1C7E
+
+SUBROUTINE_1C7E:
+1484: 0x1C7E [0x01] GOTO 0x1DC3
+1485: 0x1C81 [0x02] IF !(ExtData[1]->WorkLocal[59] == 1*) GOTO 0x1CE0
+1486: 0x1C89 [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x1C99
+1487: 0x1C91 [0x03] Work_Zone[2] = 1537*
+1488: 0x1C96 [0x01] GOTO 0x1CD9
+1489: 0x1C99 [0x02] IF !(ExtData[1]->WorkLocal[16] == 2*) GOTO 0x1CA9
+1490: 0x1CA1 [0x03] Work_Zone[2] = 1536*
+1491: 0x1CA6 [0x01] GOTO 0x1CD9
+1492: 0x1CA9 [0x02] IF !(ExtData[1]->WorkLocal[16] == 3*) GOTO 0x1CB9
+1493: 0x1CB1 [0x03] Work_Zone[2] = 1535*
+1494: 0x1CB6 [0x01] GOTO 0x1CD9
+1495: 0x1CB9 [0x02] IF !(ExtData[1]->WorkLocal[16] == 4*) GOTO 0x1CC9
+1496: 0x1CC1 [0x03] Work_Zone[2] = 1534*
+1497: 0x1CC6 [0x01] GOTO 0x1CD9
+1498: 0x1CC9 [0x02] IF !(ExtData[1]->WorkLocal[16] == 5*) GOTO 0x1CD9
+1499: 0x1CD1 [0x03] Work_Zone[2] = 1533*
+1500: 0x1CD6 [0x01] GOTO 0x1CD9
+
+SUBROUTINE_1CD9:
+1501: 0x1CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
+    → "You're short on $5, soldier. If you want a reward, you'll have to prove yourself in battle."
+1502: 0x1CDC [0x23] WAIT_FOR_DIALOG_INTERACTION
+1503: 0x1CDD [0x01] GOTO 0x1DC3
+1504: 0x1CE0 [0x02] IF !(ExtData[1]->WorkLocal[59] == 2*) GOTO 0x1DC3
+1505: 0x1CE8 [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x1D13
+1506: 0x1CF0 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1D00
+1507: 0x1CF8 [0x03] Work_Zone[2] = 0*
+1508: 0x1CFD [0x01] GOTO 0x1D10
+1509: 0x1D00 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1D10
+1510: 0x1D08 [0x03] Work_Zone[2] = 1536*
+1511: 0x1D0D [0x01] GOTO 0x1D10
+
+SUBROUTINE_1D10:
+1512: 0x1D10 [0x01] GOTO 0x1DBF
+1513: 0x1D13 [0x02] IF !(ExtData[1]->WorkLocal[16] == 2*) GOTO 0x1D3E
+1514: 0x1D1B [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1D2B
+1515: 0x1D23 [0x03] Work_Zone[2] = 1537*
+1516: 0x1D28 [0x01] GOTO 0x1D3B
+1517: 0x1D2B [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1D3B
+1518: 0x1D33 [0x03] Work_Zone[2] = 1535*
+1519: 0x1D38 [0x01] GOTO 0x1D3B
+
+SUBROUTINE_1D3B:
+1520: 0x1D3B [0x01] GOTO 0x1DBF
+1521: 0x1D3E [0x02] IF !(ExtData[1]->WorkLocal[16] == 3*) GOTO 0x1D69
+1522: 0x1D46 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1D56
+1523: 0x1D4E [0x03] Work_Zone[2] = 1536*
+1524: 0x1D53 [0x01] GOTO 0x1D66
+1525: 0x1D56 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1D66
+1526: 0x1D5E [0x03] Work_Zone[2] = 1534*
+1527: 0x1D63 [0x01] GOTO 0x1D66
+
+SUBROUTINE_1D66:
+1528: 0x1D66 [0x01] GOTO 0x1DBF
+1529: 0x1D69 [0x02] IF !(ExtData[1]->WorkLocal[16] == 4*) GOTO 0x1D94
+1530: 0x1D71 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1D81
+1531: 0x1D79 [0x03] Work_Zone[2] = 1535*
+1532: 0x1D7E [0x01] GOTO 0x1D91
+1533: 0x1D81 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1D91
+1534: 0x1D89 [0x03] Work_Zone[2] = 1533*
+1535: 0x1D8E [0x01] GOTO 0x1D91
+
+SUBROUTINE_1D91:
+1536: 0x1D91 [0x01] GOTO 0x1DBF
+1537: 0x1D94 [0x02] IF !(ExtData[1]->WorkLocal[16] == 5*) GOTO 0x1DBF
+1538: 0x1D9C [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x1DAC
+1539: 0x1DA4 [0x03] Work_Zone[2] = 1534*
+1540: 0x1DA9 [0x01] GOTO 0x1DBC
+1541: 0x1DAC [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x1DBC
+1542: 0x1DB4 [0x03] Work_Zone[2] = 0*
+1543: 0x1DB9 [0x01] GOTO 0x1DBC
+
+SUBROUTINE_1DBC:
+1544: 0x1DBC [0x01] GOTO 0x1DBF
+
+SUBROUTINE_1DBF:
+1545: 0x1DBF [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+    → "You won't be able to carry all those battle trophies, soldier. We can't have our troops overencumbered on the battlefield."
+1546: 0x1DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1DC3:
+1547: 0x1DC3 [0x01] GOTO 0x162D
+1548: 0x1DC6 [0x01] GOTO 0x1DC9
+
+SUBROUTINE_1DC9:
+1549: 0x1DC9 [0x01] GOTO 0x0ED7
+1550: 0x1DCC [0x01] GOTO 0x1DCF
+
+SUBROUTINE_1DCF:
+1551: 0x1DCF [0x01] GOTO 0x015F
+1552: 0x1DD2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+1553: 0x1DD3 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+1554: 0x1DD5 [0x21] END_EVENT
+1555: 0x1DD6 [0x00] END_REQSTACK()
+
+SUBROUTINE_1DD7:
+1556: 0x1DD7 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 0*) GOTO 0x1DE6
+1557: 0x1DDE [0x03] Work_Zone[2] = 1*
+1558: 0x1DE3 [0x01] GOTO 0x1DEB
+1559: 0x1DE6 [0x03] Work_Zone[2] = 0*
+
+SUBROUTINE_1DEB:
+1560: 0x1DEB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[32]
+1561: 0x1DF0 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 1*) GOTO 0x1DFF
+1562: 0x1DF7 [0x03] Work_Zone[4] = 1*
+1563: 0x1DFC [0x01] GOTO 0x1E04
+1564: 0x1DFF [0x03] Work_Zone[4] = 0*
+
+SUBROUTINE_1E04:
+1565: 0x1E04 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[33]
+1566: 0x1E09 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 2*) GOTO 0x1E18
+1567: 0x1E10 [0x03] Work_Zone[6] = 1*
+1568: 0x1E15 [0x01] GOTO 0x1E1D
+1569: 0x1E18 [0x03] Work_Zone[6] = 0*
+
+SUBROUTINE_1E1D:
+1570: 0x1E1D [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[34]
+1571: 0x1E22 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 3*) GOTO 0x1E31
+1572: 0x1E29 [0x03] Work_Zone[8] = 1*
+1573: 0x1E2E [0x01] GOTO 0x1E36
+1574: 0x1E31 [0x03] Work_Zone[8] = 0*
+
+SUBROUTINE_1E36:
+1575: 0x1E36 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[35]
+1576: 0x1E3B [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 4*) GOTO 0x1E4A
+1577: 0x1E42 [0x03] Work_Zone_1700[0] = 1*
+1578: 0x1E47 [0x01] GOTO 0x1E4F
+1579: 0x1E4A [0x03] Work_Zone_1700[0] = 0*
+
+SUBROUTINE_1E4F:
+1580: 0x1E4F [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[36]
+1581: 0x1E54 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 5*) GOTO 0x1E63
+1582: 0x1E5B [0x03] Work_Zone_1700[2] = 1*
+1583: 0x1E60 [0x01] GOTO 0x1E68
+1584: 0x1E63 [0x03] Work_Zone_1700[2] = 0*
+
+SUBROUTINE_1E68:
+1585: 0x1E68 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[37]
+1586: 0x1E6D [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 6*) GOTO 0x1E7C
+1587: 0x1E74 [0x03] Work_Zone_1700[4] = 1*
+1588: 0x1E79 [0x01] GOTO 0x1E81
+1589: 0x1E7C [0x03] Work_Zone_1700[4] = 0*
+
+SUBROUTINE_1E81:
+1590: 0x1E81 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[38]
+1591: 0x1E86 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 7*) GOTO 0x1E95
+1592: 0x1E8D [0x03] Work_Zone_1700[6] = 1*
+1593: 0x1E92 [0x01] GOTO 0x1E9A
+1594: 0x1E95 [0x03] Work_Zone_1700[6] = 0*
+
+SUBROUTINE_1E9A:
+1595: 0x1E9A [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[39]
+1596: 0x1E9F [0x24] CREATE_DIALOG(message_id=ExtData[1]->WorkLocal[20], default_option=0*, option_flags=0*)
+1597: 0x1EA6 [0x25] WAIT_DIALOG_SELECT()
+1598: 0x1EA7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EB5
+1599: 0x1EAF [0x06] ExtData[1]->WorkLocal[55] = 0
+1600: 0x1EB2 [0x01] GOTO 0x2035
+1601: 0x1EB5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1EE5
+1602: 0x1EBD [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 0*) GOTO 0x1ED5
+1603: 0x1EC4 [0x03] Work_Zone[2] = 0*
+1604: 0x1EC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1605: 0x1ECC [0x23] WAIT_FOR_DIALOG_INTERACTION
+1606: 0x1ECD [0x03] ExtData[1]->WorkLocal[16] = 1*
+1607: 0x1ED2 [0x01] GOTO 0x1EE2
+1608: 0x1ED5 [0x03] Work_Zone[2] = 8*
+1609: 0x1EDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1610: 0x1EDD [0x23] WAIT_FOR_DIALOG_INTERACTION
+1611: 0x1EDE [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1612: 0x1EE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1EE2:
+1613: 0x1EE2 [0x01] GOTO 0x2035
+1614: 0x1EE5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1F15
+1615: 0x1EED [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 1*) GOTO 0x1F05
+1616: 0x1EF4 [0x03] Work_Zone[2] = 1*
+1617: 0x1EF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1618: 0x1EFC [0x23] WAIT_FOR_DIALOG_INTERACTION
+1619: 0x1EFD [0x03] ExtData[1]->WorkLocal[16] = 2*
+1620: 0x1F02 [0x01] GOTO 0x1F12
+1621: 0x1F05 [0x03] Work_Zone[2] = 12*
+1622: 0x1F0A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1623: 0x1F0D [0x23] WAIT_FOR_DIALOG_INTERACTION
+1624: 0x1F0E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1625: 0x1F11 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1F12:
+1626: 0x1F12 [0x01] GOTO 0x2035
+1627: 0x1F15 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1F45
+1628: 0x1F1D [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 2*) GOTO 0x1F35
+1629: 0x1F24 [0x03] Work_Zone[2] = 2*
+1630: 0x1F29 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1631: 0x1F2C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1632: 0x1F2D [0x03] ExtData[1]->WorkLocal[16] = 3*
+1633: 0x1F32 [0x01] GOTO 0x1F42
+1634: 0x1F35 [0x03] Work_Zone[2] = 0*
+1635: 0x1F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1636: 0x1F3D [0x23] WAIT_FOR_DIALOG_INTERACTION
+1637: 0x1F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1638: 0x1F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1F42:
+1639: 0x1F42 [0x01] GOTO 0x2035
+1640: 0x1F45 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1F75
+1641: 0x1F4D [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 3*) GOTO 0x1F65
+1642: 0x1F54 [0x03] Work_Zone[2] = 3*
+1643: 0x1F59 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1644: 0x1F5C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1645: 0x1F5D [0x03] ExtData[1]->WorkLocal[16] = 4*
+1646: 0x1F62 [0x01] GOTO 0x1F72
+1647: 0x1F65 [0x03] Work_Zone[2] = 0*
+1648: 0x1F6A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1649: 0x1F6D [0x23] WAIT_FOR_DIALOG_INTERACTION
+1650: 0x1F6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1651: 0x1F71 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1F72:
+1652: 0x1F72 [0x01] GOTO 0x2035
+1653: 0x1F75 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1FA5
+1654: 0x1F7D [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 4*) GOTO 0x1F95
+1655: 0x1F84 [0x03] Work_Zone[2] = 4*
+1656: 0x1F89 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1657: 0x1F8C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1658: 0x1F8D [0x03] ExtData[1]->WorkLocal[16] = 5*
+1659: 0x1F92 [0x01] GOTO 0x1FA2
+1660: 0x1F95 [0x03] Work_Zone[2] = 9*
+1661: 0x1F9A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1662: 0x1F9D [0x23] WAIT_FOR_DIALOG_INTERACTION
+1663: 0x1F9E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1664: 0x1FA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1FA2:
+1665: 0x1FA2 [0x01] GOTO 0x2035
+1666: 0x1FA5 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1FD5
+1667: 0x1FAD [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 5*) GOTO 0x1FC5
+1668: 0x1FB4 [0x03] Work_Zone[2] = 5*
+1669: 0x1FB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1670: 0x1FBC [0x23] WAIT_FOR_DIALOG_INTERACTION
+1671: 0x1FBD [0x03] ExtData[1]->WorkLocal[16] = 6*
+1672: 0x1FC2 [0x01] GOTO 0x1FD2
+1673: 0x1FC5 [0x03] Work_Zone[2] = 6*
+1674: 0x1FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1675: 0x1FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
+1676: 0x1FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1677: 0x1FD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1FD2:
+1678: 0x1FD2 [0x01] GOTO 0x2035
+1679: 0x1FD5 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x2005
+1680: 0x1FDD [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 6*) GOTO 0x1FF5
+1681: 0x1FE4 [0x03] Work_Zone[2] = 6*
+1682: 0x1FE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1683: 0x1FEC [0x23] WAIT_FOR_DIALOG_INTERACTION
+1684: 0x1FED [0x03] ExtData[1]->WorkLocal[16] = 7*
+1685: 0x1FF2 [0x01] GOTO 0x2002
+1686: 0x1FF5 [0x03] Work_Zone[2] = 2*
+1687: 0x1FFA [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1688: 0x1FFD [0x23] WAIT_FOR_DIALOG_INTERACTION
+1689: 0x1FFE [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1690: 0x2001 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_2002:
+1691: 0x2002 [0x01] GOTO 0x2035
+1692: 0x2005 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x2035
+1693: 0x200D [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 7*) GOTO 0x2025
+1694: 0x2014 [0x03] Work_Zone[2] = 7*
+1695: 0x2019 [0x1D] PRINT_EVENT_MESSAGE(message_id=ExtData[1]->WorkLocal[21])
+1696: 0x201C [0x23] WAIT_FOR_DIALOG_INTERACTION
+1697: 0x201D [0x03] ExtData[1]->WorkLocal[16] = 8*
+1698: 0x2022 [0x01] GOTO 0x2032
+1699: 0x2025 [0x03] Work_Zone[2] = 1*
+1700: 0x202A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+    → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
+1701: 0x202D [0x23] WAIT_FOR_DIALOG_INTERACTION
+1702: 0x202E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+    → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
+1703: 0x2031 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_2032:
+1704: 0x2032 [0x01] GOTO 0x2035
+
+SUBROUTINE_2035:
+1705: 0x2035 [0x1B] RETURN
+
+SUBROUTINE_2036:
+1706: 0x2036 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x20EB
+1707: 0x203E [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x204E
+1708: 0x2046 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[24]
+1709: 0x204B [0x01] GOTO 0x20BE
+1710: 0x204E [0x02] IF !(ExtData[1]->WorkLocal[16] == 2*) GOTO 0x205E
+1711: 0x2056 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[25]
+1712: 0x205B [0x01] GOTO 0x20BE
+1713: 0x205E [0x02] IF !(ExtData[1]->WorkLocal[16] == 3*) GOTO 0x206E
+1714: 0x2066 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[26]
+1715: 0x206B [0x01] GOTO 0x20BE
+1716: 0x206E [0x02] IF !(ExtData[1]->WorkLocal[16] == 4*) GOTO 0x207E
+1717: 0x2076 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[27]
+1718: 0x207B [0x01] GOTO 0x20BE
+1719: 0x207E [0x02] IF !(ExtData[1]->WorkLocal[16] == 5*) GOTO 0x208E
+1720: 0x2086 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[28]
+1721: 0x208B [0x01] GOTO 0x20BE
+1722: 0x208E [0x02] IF !(ExtData[1]->WorkLocal[16] == 6*) GOTO 0x209E
+1723: 0x2096 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[29]
+1724: 0x209B [0x01] GOTO 0x20BE
+1725: 0x209E [0x02] IF !(ExtData[1]->WorkLocal[16] == 7*) GOTO 0x20AE
+1726: 0x20A6 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[30]
+1727: 0x20AB [0x01] GOTO 0x20BE
+1728: 0x20AE [0x02] IF !(ExtData[1]->WorkLocal[16] == 8*) GOTO 0x20BE
+1729: 0x20B6 [0x03] ExtData[1]->WorkLocal[59] = ExtData[1]->WorkLocal[31]
+1730: 0x20BB [0x01] GOTO 0x20BE
+
+SUBROUTINE_20BE:
+1731: 0x20BE [0x02] IF !(ExtData[1]->WorkLocal[59] == 1*) GOTO 0x20CD
+1732: 0x20C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+    → "Reports from the field say that one of our soldiers found an item that could lure the nasty thing out of hiding. Cut it from the body of another of its foul ilk, he said."
+1733: 0x20C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1734: 0x20CA [0x01] GOTO 0x20EB
+1735: 0x20CD [0x02] IF !(ExtData[1]->WorkLocal[59] == 2*) GOTO 0x20DC
+1736: 0x20D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
+    → "Reports from the field say that one of our regiments was successful in luring the nasty thing of its lair. Used some items cut from the bodies of others of its foul ilk, he said."
+1737: 0x20D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1738: 0x20D9 [0x01] GOTO 0x20EB
+1739: 0x20DC [0x02] IF !(ExtData[1]->WorkLocal[59] == 3*) GOTO 0x20EB
+1740: 0x20E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+    → "Reports have it that one's been sighted on the field. One of our regiments spotted its ugly mug when they were squaring off against a pack of its thralls."
+1741: 0x20E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+1742: 0x20E8 [0x01] GOTO 0x20EB
+
+SUBROUTINE_20EB:
+1743: 0x20EB [0x1B] RETURN
+
+SUBROUTINE_20EC:
+1744: 0x20EC [0x06] Work_Zone[2] = 0
+1745: 0x20EF [0x06] Work_Zone[3] = 0
+1746: 0x20F2 [0x06] Work_Zone[4] = 0
+1747: 0x20F5 [0x06] Work_Zone[5] = 0
+1748: 0x20F8 [0x06] Work_Zone[6] = 0
+1749: 0x20FB [0x06] Work_Zone[7] = 0
+1750: 0x20FE [0x06] Work_Zone[8] = 0
+1751: 0x2101 [0x06] Work_Zone[9] = 0
+1752: 0x2104 [0x06] Work_Zone_1700[0] = 0
+1753: 0x2107 [0x06] Work_Zone_1700[1] = 0
+1754: 0x210A [0x06] Work_Zone_1700[2] = 0
+1755: 0x210D [0x06] Work_Zone_1700[3] = 0
+1756: 0x2110 [0x06] Work_Zone_1700[4] = 0
+1757: 0x2113 [0x06] Work_Zone_1700[5] = 0
+1758: 0x2116 [0x06] Work_Zone_1700[6] = 0
+1759: 0x2119 [0x06] Work_Zone_1700[7] = 0
+1760: 0x211C [0x06] Work_Zone_1700[8] = 0
+1761: 0x211F [0x06] Work_Zone_1700[9] = 0
+1762: 0x2122 [0x06] Work_Zone_1700[10] = 0
+1763: 0x2125 [0x06] Work_Zone_1700[11] = 0
+1764: 0x2128 [0x06] Work_Zone_1700[12] = 0
+1765: 0x212B [0x06] Work_Zone_1700[13] = 0
+1766: 0x212E [0x06] Work_Zone_1700[14] = 0
+1767: 0x2131 [0x06] Work_Zone_1700[15] = 0
+1768: 0x2134 [0x06] Work_Zone_1700[16] = 0
+1769: 0x2137 [0x06] Work_Zone_1700[17] = 0
+1770: 0x213A [0x06] Work_Zone_1700[18] = 0
+1771: 0x213D [0x06] Work_Zone_1700[19] = 0
+1772: 0x2140 [0x06] Work_Zone_1700[20] = 0
+1773: 0x2143 [0x06] Work_Zone_1700[21] = 0
+1774: 0x2146 [0x1B] RETURN
+```

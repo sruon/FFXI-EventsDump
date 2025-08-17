@@ -1,0 +1,553 @@
+# 17572261 - Cracked Wall
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | Outer Horutoto Ruins (ID: 194) |
+| Block Size       | 2728 bytes                     |
+| Total Events     | 2                              |
+| References Count | 27                             |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [71](#event-71)       | 0x0001       |   2594 |            287 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0064      |         100 |
+|       2 | 0x00C8      |         200 |
+|       3 | 0x003C      |          60 |
+|       4 | 0x0013      |          19 |
+|       5 | 0x009D      |         157 |
+|       6 | 0x002C      |          44 |
+|       7 | 0x00C9      |         201 |
+|       8 | 0x00D6      |         214 |
+|       9 | 0x0078      |         120 |
+|      10 | 0x0050      |          80 |
+|      11 | 0x0032      |          50 |
+|      12 | 0x001E      |          30 |
+|      13 | 0x1C97      |        7319 |
+|      14 | 0x002D      |          45 |
+|      15 | 0x0014      |          20 |
+|      16 | 0x0AE4      |        2788 |
+|      17 | 0x000A      |          10 |
+|      18 | 0x1C9B      |        7323 |
+|      19 | 0x005A      |          90 |
+|      20 | 0x007F      |         127 |
+|      21 | 0x0001      |           1 |
+|      22 | 0x0003      |           3 |
+|      23 | 0x0004      |           4 |
+|      24 | 0x0005      |           5 |
+|      25 | 0x0006      |           6 |
+|      26 | 0x0008      |           8 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 71
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0001     |
+| Data Size    | 2594 bytes |
+| Instructions | 287        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    42 46 01 5D 00 80 01  80 45 02 80 F8 FF FF 7F   BF.]....E......
+0010: F8 FF FF 7F 66 64 6F 31  00 80 1C 03 80 38 04 80  ....fdo1.....8..
+0020: 4E 00 C7 21 0C 01 4E 00  C8 21 0C 01 4E 00 CA 21  N..!..N..!..N..!
+0030: 0C 01 4E 00 CB 21 0C 01  4E 00 CC 21 0C 01 4E 00  ..N..!..N..!..N.
+0040: C6 21 0C 01 80 C6 21 0C  01 80 C7 21 0C 01 80 C8  .!....!....!....
+0050: 21 0C 01 80 CA 21 0C 01  80 CB 21 0C 01 80 CC 21  !....!....!....!
+0060: 0C 01 29 0B F0 FF FF 7F  15 29 0B F0 FF FF 7F 1D  ..)......)......
+0070: 92 01 CC 21 0C 01 92 01  CB 21 0C 01 92 01 CA 21  ...!.....!.....!
+0080: 0C 01 29 08 C6 21 0C 01  22 29 08 C6 21 0C 01 23  ..)..!..")..!..#
+0090: 5C 00 05 80 5C 01 05 80  62 06 80 C6 21 0C 01 C6  \...\...b...!...
+00A0: 21 0C 01 73 74 61 72 00  80 1C 02 80 45 07 80 F0  !..star.....E...
+00B0: FF FF 7F F0 FF FF 7F 62  6C 6F 6E 00 80 45 08 80  .......blon..E..
+00C0: F0 FF FF 7F F0 FF FF 7F  73 30 35 38 00 80 45 02  ........s058..E.
+00D0: 80 F8 FF FF 7F F8 FF FF  7F 66 64 69 31 00 80 45  .........fdi1..E
+00E0: 02 80 F8 FF FF 7F F8 FF  FF 7F 62 6C 6F 6E 00 80  ..........blon..
+00F0: 1C 09 80 45 02 80 F8 FF  FF 7F F8 FF FF 7F 62 6C  ...E..........bl
+0100: 6F 66 00 80 1C 0A 80 52  08 80 F0 FF FF 7F F0 FF  of.....R........
+0110: FF 7F 73 30 35 38 45 02  80 F0 FF FF 7F F0 FF FF  ..s058E.........
+0120: 7F 6F 76 6C 31 00 80 45  08 80 F0 FF FF 7F F0 FF  .ovl1..E........
+0130: FF 7F 73 30 35 39 00 80  1C 01 80 52 08 80 F0 FF  ..s059.....R....
+0140: FF 7F F0 FF FF 7F 73 30  35 39 45 02 80 F0 FF FF  ......s059E.....
+0150: 7F F0 FF FF 7F 6F 76 6C  31 00 80 45 08 80 F0 FF  .....ovl1..E....
+0160: FF 7F F0 FF FF 7F 73 30  36 30 00 80 1C 01 80 29  ......s060.....)
+0170: 0B C7 21 0C 01 14 52 08  80 F0 FF FF 7F F0 FF FF  ..!...R.........
+0180: 7F 73 30 36 30 45 08 80  F0 FF FF 7F F0 FF FF 7F  .s060E..........
+0190: 73 30 36 32 00 80 29 08  C8 21 0C 01 0D 29 0B C8  s062..)..!...)..
+01A0: 21 0C 01 14 29 08 C8 21  0C 01 0E 52 08 80 F0 FF  !...)..!...R....
+01B0: FF 7F F0 FF FF 7F 73 30  36 32 45 08 80 F0 FF FF  ......s062E.....
+01C0: 7F F0 FF FF 7F 73 30 36  33 00 80 29 08 C6 21 0C  .....s063..)..!.
+01D0: 01 24 29 0B C6 21 0C 01  2F 29 0B C6 21 0C 01 30  .$)..!../)..!..0
+01E0: 29 08 C6 21 0C 01 25 52  08 80 F0 FF FF 7F F0 FF  )..!..%R........
+01F0: FF 7F 73 30 36 33 45 08  80 F0 FF FF 7F F0 FF FF  ..s063E.........
+0200: 7F 73 30 36 34 00 80 29  0B C7 21 0C 01 15 52 08  .s064..)..!...R.
+0210: 80 F0 FF FF 7F F0 FF FF  7F 73 30 36 34 45 02 80  .........s064E..
+0220: F0 FF FF 7F F0 FF FF 7F  6F 76 6C 31 00 80 45 08  ........ovl1..E.
+0230: 80 F0 FF FF 7F F0 FF FF  7F 73 30 36 35 00 80 29  .........s065..)
+0240: 0B C8 21 0C 01 15 52 08  80 F0 FF FF 7F F0 FF FF  ..!...R.........
+0250: 7F 73 30 36 35 45 08 80  F0 FF FF 7F F0 FF FF 7F  .s065E..........
+0260: 73 30 36 36 00 80 29 08  C6 21 0C 01 22 29 0B C6  s066..)..!..")..
+0270: 21 0C 01 31 29 08 C6 21  0C 01 23 52 08 80 F0 FF  !..1)..!..#R....
+0280: FF 7F F0 FF FF 7F 73 30  36 36 45 08 80 F0 FF FF  ......s066E.....
+0290: 7F F0 FF FF 7F 73 30 36  37 00 80 4A CC 21 0C 01  .....s067..J.!..
+02A0: F0 FF FF 7F 4A CB 21 0C  01 F0 FF FF 7F 4A CA 21  ....J.!......J.!
+02B0: 0C 01 F0 FF FF 7F 29 08  C6 21 0C 01 22 29 08 C8  ......)..!..")..
+02C0: 21 0C 01 0F 29 0B C8 21  0C 01 16 29 08 C8 21 0C  !...)..!...)..!.
+02D0: 01 10 29 08 C8 21 0C 01  11 29 08 C7 21 0C 01 0F  ..)..!...)..!...
+02E0: 29 0B C7 21 0C 01 16 29  08 C7 21 0C 01 10 29 08  )..!...)..!...).
+02F0: C8 21 0C 01 12 29 08 C6  21 0C 01 23 52 08 80 F0  .!...)..!..#R...
+0300: FF FF 7F F0 FF FF 7F 73  30 36 37 45 08 80 F0 FF  .......s067E....
+0310: FF 7F F0 FF FF 7F 73 30  35 37 00 80 4C 1C 0B 80  ......s057..L...
+0320: 27 0B F0 FF FF 7F 18 1C  0B 80 1C 0C 80 52 08 80  '............R..
+0330: F0 FF FF 7F F0 FF FF 7F  73 30 35 37 45 08 80 F0  ........s057E...
+0340: FF FF 7F F0 FF FF 7F 73  30 36 38 00 80 2B C7 21  .......s068..+.!
+0350: 0C 01 0D 80 23 29 08 C7  21 0C 01 11 27 0B CA 21  ....#)..!...'..!
+0360: 0C 01 15 27 0B CB 21 0C  01 15 27 0B CC 21 0C 01  ...'..!...'..!..
+0370: 15 1C 03 80 4D 29 08 C7  21 0C 01 12 52 08 80 F0  ....M)..!...R...
+0380: FF FF 7F F0 FF FF 7F 73  30 36 38 45 08 80 F0 FF  .......s068E....
+0390: FF 7F F0 FF FF 7F 73 30  37 32 00 80 1C 0A 80 62  ......s072.....b
+03A0: 0E 80 CB 21 0C 01 F0 FF  FF 7F 6D 61 69 6E 00 80  ...!......main..
+03B0: 1C 0F 80 52 08 80 F0 FF  FF 7F F0 FF FF 7F 73 30  ...R..........s0
+03C0: 37 32 45 08 80 F0 FF FF  7F F0 FF FF 7F 73 30 37  72E..........s07
+03D0: 30 00 80 1C 01 80 45 07  80 F0 FF FF 7F F0 FF FF  0.....E.........
+03E0: 7F 77 68 6F 31 00 80 1C  03 80 52 08 80 F0 FF FF  .who1.....R.....
+03F0: 7F F0 FF FF 7F 73 30 37  30 45 08 80 F0 FF FF 7F  .....s070E......
+0400: F0 FF FF 7F 73 30 37 31  00 80 29 0B F0 FF FF 7F  ....s071..).....
+0410: 16 4A CC 21 0C 01 F0 FF  FF 7F 4A CB 21 0C 01 F0  .J.!......J.!...
+0420: FF FF 7F 4A CA 21 0C 01  F0 FF FF 7F 27 08 CC 21  ...J.!......'..!
+0430: 0C 01 13 27 08 CB 21 0C  01 13 27 08 CA 21 0C 01  ...'..!...'..!..
+0440: 13 45 07 80 F0 FF FF 7F  F0 FF FF 7F 77 68 69 31  .E..........whi1
+0450: 00 80 62 0E 80 F0 FF FF  7F F0 FF FF 7F 64 65 72  ..b..........der
+0460: 75 00 80 29 08 C6 21 0C  01 26 29 08 C6 21 0C 01  u..)..!..&)..!..
+0470: 27 52 08 80 F0 FF FF 7F  F0 FF FF 7F 73 30 37 31  'R..........s071
+0480: 45 08 80 F0 FF FF 7F F0  FF FF 7F 73 30 36 39 00  E..........s069.
+0490: 80 79 00 F0 FF FF 7F C6  21 0C 01 29 0B C6 21 0C  .y......!..)..!.
+04A0: 01 2E 52 08 80 F0 FF FF  7F F0 FF FF 7F 73 30 36  ..R..........s06
+04B0: 39 45 08 80 F0 FF FF 7F  F0 FF FF 7F 73 30 37 33  9E..........s073
+04C0: 00 80 4B F0 FF FF 7F 10  80 29 0B AA 21 0C 01 02  ..K......)..!...
+04D0: 29 08 C6 21 0C 01 28 29  08 C6 21 0C 01 29 4E 00  )..!..()..!..)N.
+04E0: C9 21 0C 01 29 08 C8 21  0C 01 0D 29 0B C8 21 0C  .!..)..!...)..!.
+04F0: 01 17 29 08 C8 21 0C 01  0E 29 08 C8 21 0C 01 05  ..)..!...)..!...
+0500: 29 08 C7 21 0C 01 01 29  0B C7 21 0C 01 17 29 08  )..!...)..!...).
+0510: C7 21 0C 01 02 29 08 C8  21 0C 01 06 27 0B C9 21  .!...)..!...'..!
+0520: 0C 01 0A 1C 11 80 80 C9  21 0C 01 52 08 80 F0 FF  ........!..R....
+0530: FF 7F F0 FF FF 7F 73 30  37 33 45 08 80 F0 FF FF  ......s073E.....
+0540: 7F F0 FF FF 7F 73 30 37  34 00 80 5D 00 80 01 80  .....s074..]....
+0550: 29 0B F0 FF FF 7F 17 29  08 C7 21 0C 01 03 29 08  )......)..!...).
+0560: C8 21 0C 01 07 29 08 C7  21 0C 01 04 29 08 C8 21  .!...)..!...)..!
+0570: 0C 01 08 4A C8 21 0C 01  C9 21 0C 01 4A C7 21 0C  ...J.!...!..J.!.
+0580: 01 C9 21 0C 01 79 00 F0  FF FF 7F C9 21 0C 01 2B  ..!..y......!..+
+0590: C9 21 0C 01 12 80 23 1C  13 80 52 08 80 F0 FF FF  .!....#...R.....
+05A0: 7F F0 FF FF 7F 73 30 37  34 45 02 80 F0 FF FF 7F  .....s074E......
+05B0: F0 FF FF 7F 6F 76 6C 31  00 80 45 08 80 F0 FF FF  ....ovl1..E.....
+05C0: 7F F0 FF FF 7F 73 30 37  35 00 80 4A C8 21 0C 01  .....s075..J.!..
+05D0: C9 21 0C 01 29 0B C8 21  0C 01 18 1C 0A 80 4A C7  .!..)..!......J.
+05E0: 21 0C 01 C9 21 0C 01 29  0B C7 21 0C 01 18 1C 0A  !...!..)..!.....
+05F0: 80 52 08 80 F0 FF FF 7F  F0 FF FF 7F 73 30 37 35  .R..........s075
+0600: 45 02 80 F0 FF FF 7F F0  FF FF 7F 6F 76 6C 31 00  E..........ovl1.
+0610: 80 45 08 80 F0 FF FF 7F  F0 FF FF 7F 73 30 37 36  .E..........s076
+0620: 00 80 29 0B AA 21 0C 01  03 5C 00 14 80 5C 01 14  ..)..!...\...\..
+0630: 80 5D 14 80 15 80 2A 0B  C9 21 0C 01 4A C8 21 0C  .]....*..!..J.!.
+0640: 01 C9 21 0C 01 4A C7 21  0C 01 C9 21 0C 01 29 0B  ..!..J.!...!..).
+0650: C9 21 0C 01 0C 52 08 80  F0 FF FF 7F F0 FF FF 7F  .!...R..........
+0660: 73 30 37 36 45 08 80 F0  FF FF 7F F0 FF FF 7F 73  s076E..........s
+0670: 30 37 37 00 80 29 0B C8  21 0C 01 19 52 08 80 F0  077..)..!...R...
+0680: FF FF 7F F0 FF FF 7F 73  30 37 37 4A C7 21 0C 01  .......s077J.!..
+0690: F0 FF FF 7F 02 02 10 00  80 00 5C 07 27 0B CC 21  ..........\.'..!
+06A0: 0C 01 16 29 0B C9 21 0C  01 0D 2A 0B CC 21 0C 01  ...)..!...*..!..
+06B0: 02 09 10 16 80 00 CA 06  52 08 80 F0 FF FF 7F F0  ........R.......
+06C0: FF FF 7F 73 30 38 39 01  41 07 02 09 10 17 80 00  ...s089.A.......
+06D0: E4 06 52 08 80 F0 FF FF  7F F0 FF FF 7F 73 30 38  ..R..........s08
+06E0: 39 01 41 07 02 09 10 18  80 00 FE 06 52 08 80 F0  9.A.........R...
+06F0: FF FF 7F F0 FF FF 7F 73  30 39 30 01 41 07 02 09  .......s090.A...
+0700: 10 19 80 00 18 07 52 08  80 F0 FF FF 7F F0 FF FF  ......R.........
+0710: 7F 73 30 39 30 01 41 07  02 09 10 1A 80 00 32 07  .s090.A.......2.
+0720: 52 08 80 F0 FF FF 7F F0  FF FF 7F 73 30 38 39 01  R..........s089.
+0730: 41 07 52 08 80 F0 FF FF  7F F0 FF FF 7F 73 30 37  A.R..........s07
+0740: 39 45 08 80 F0 FF FF 7F  F0 FF FF 7F 73 30 38 30  9E..........s080
+0750: 00 80 29 0B C9 21 0C 01  0E 01 88 07 27 0B CC 21  ..)..!......'..!
+0760: 0C 01 16 29 0B C9 21 0C  01 0F 2A 0B CC 21 0C 01  ...)..!...*..!..
+0770: 45 08 80 F0 FF FF 7F F0  FF FF 7F 73 30 38 30 00  E..........s080.
+0780: 80 29 0B C9 21 0C 01 10  52 08 80 F0 FF FF 7F F0  .)..!...R.......
+0790: FF FF 7F 73 30 38 30 45  08 80 F0 FF FF 7F F0 FF  ...s080E........
+07A0: FF 7F 73 30 38 32 00 80  4A C8 21 0C 01 C6 21 0C  ..s082..J.!...!.
+07B0: 01 4A C7 21 0C 01 C6 21  0C 01 6F 76 C8 21 0C 01  .J.!...!..ov.!..
+07C0: 79 00 C6 21 0C 01 C8 21  0C 01 29 0B C8 21 0C 01  y..!...!..)..!..
+07D0: 1A 52 08 80 F0 FF FF 7F  F0 FF FF 7F 73 30 38 32  .R..........s082
+07E0: 45 08 80 F0 FF FF 7F F0  FF FF 7F 73 30 38 31 00  E..........s081.
+07F0: 80 79 00 C6 21 0C 01 C9  21 0C 01 29 08 C9 21 0C  .y..!...!..)..!.
+0800: 01 01 29 0B C9 21 0C 01  11 29 08 C9 21 0C 01 02  ..)..!...)..!...
+0810: 29 08 C9 21 0C 01 03 62  06 80 C6 21 0C 01 C6 21  )..!...b...!...!
+0820: 0C 01 6B 69 65 30 00 80  29 08 C6 21 0C 01 2A 29  ..kie0..)..!..*)
+0830: 08 C6 21 0C 01 2B 29 0B  C6 21 0C 01 32 29 08 C9  ..!..+)..!..2)..
+0840: 21 0C 01 04 52 08 80 F0  FF FF 7F F0 FF FF 7F 73  !...R..........s
+0850: 30 38 31 02 09 10 18 80  00 6F 08 45 08 80 F0 FF  081......o.E....
+0860: FF 7F F0 FF FF 7F 73 30  39 31 00 80 01 9C 08 02  ......s091......
+0870: 09 10 19 80 00 8B 08 45  08 80 F0 FF FF 7F F0 FF  .......E........
+0880: FF 7F 73 30 39 31 00 80  01 9C 08 45 08 80 F0 FF  ..s091.....E....
+0890: FF 7F F0 FF FF 7F 73 30  38 33 00 80 4A C6 21 0C  ......s083..J.!.
+08A0: 01 F0 FF FF 7F 4A F0 FF  FF 7F C6 21 0C 01 6F 76  .....J.....!..ov
+08B0: C6 21 0C 01 29 0B C6 21  0C 01 33 29 08 C6 21 0C  .!..)..!..3)..!.
+08C0: 01 0E 29 08 C6 21 0C 01  0F 02 09 10 18 80 00 E3  ..)..!..........
+08D0: 08 52 08 80 F0 FF FF 7F  F0 FF FF 7F 73 30 39 31  .R..........s091
+08E0: 01 0C 09 02 09 10 19 80  00 FD 08 52 08 80 F0 FF  ...........R....
+08F0: FF 7F F0 FF FF 7F 73 30  39 31 01 0C 09 52 08 80  ......s091...R..
+0900: F0 FF FF 7F F0 FF FF 7F  73 30 38 33 45 08 80 F0  ........s083E...
+0910: FF FF 7F F0 FF FF 7F 73  30 38 34 00 80 4A C6 21  .......s084..J.!
+0920: 0C 01 C9 21 0C 01 29 0B  C9 21 0C 01 12 6F 76 C6  ...!..)..!...ov.
+0930: 21 0C 01 52 08 80 F0 FF  FF 7F F0 FF FF 7F 73 30  !..R..........s0
+0940: 38 34 45 02 80 F0 FF FF  7F F0 FF FF 7F 6F 76 6C  84E..........ovl
+0950: 31 00 80 45 08 80 F0 FF  FF 7F F0 FF FF 7F 73 30  1..E..........s0
+0960: 38 35 00 80 29 08 C6 21  0C 01 1D 29 0B C6 21 0C  85..)..!...)..!.
+0970: 01 34 29 08 C6 21 0C 01  1E 52 08 80 F0 FF FF 7F  .4)..!...R......
+0980: F0 FF FF 7F 73 30 38 35  45 08 80 F0 FF FF 7F F0  ....s085E.......
+0990: FF FF 7F 73 30 37 36 00  80 29 0B C9 21 0C 01 13  ...s076..)..!...
+09A0: 52 08 80 F0 FF FF 7F F0  FF FF 7F 73 30 37 36 45  R..........s076E
+09B0: 08 80 F0 FF FF 7F F0 FF  FF 7F 73 30 38 36 00 80  ..........s086..
+09C0: 27 0B C6 21 0C 01 2D 29  0B C9 21 0C 01 14 5D 00  '..!..-)..!...].
+09D0: 80 02 80 45 07 80 F0 FF  FF 7F F0 FF FF 7F 77 68  ...E..........wh
+09E0: 6F 31 00 80 1C 02 80 2A  0B C6 21 0C 01 52 08 80  o1.....*..!..R..
+09F0: F0 FF FF 7F F0 FF FF 7F  73 30 38 36 5C 00 00 80  ........s086\...
+0A00: 5C 01 00 80 5D 14 80 15  80 1C 02 80 46 00 45 07  \...].......F.E.
+0A10: 80 F0 FF FF 7F F0 FF FF  7F 77 68 69 31 00 80 20  .........whi1.. 
+0A20: 00 21 00                                          .!.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0002 [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x0004 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
+  3: 0x0009 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+  4: 0x001A [0x1C] WAIT(60* ticks)
+  5: 0x001D [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+  6: 0x0020 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ace of Wands (ID: 17572295/0x010C21C7)
+  7: 0x0026 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ace of Swords (ID: 17572296/0x010C21C8)
+  8: 0x002C [0x4E] SET_ENTITY_HIDE_FLAG: Show Queen of Wands (ID: 17572298/0x010C21CA)
+  9: 0x0032 [0x4E] SET_ENTITY_HIDE_FLAG: Show Queen of Swords (ID: 17572299/0x010C21CB)
+ 10: 0x0038 [0x4E] SET_ENTITY_HIDE_FLAG: Show Queen of Cups (ID: 17572300/0x010C21CC)
+ 11: 0x003E [0x4E] SET_ENTITY_HIDE_FLAG: Show Semih Lafihna (ID: 17572294/0x010C21C6)
+ 12: 0x0044 [0x80] LOAD_WAIT(entity=Semih Lafihna (ID: 17572294/0x010C21C6))
+ 13: 0x0049 [0x80] LOAD_WAIT(entity=Ace of Wands (ID: 17572295/0x010C21C7))
+ 14: 0x004E [0x80] LOAD_WAIT(entity=Ace of Swords (ID: 17572296/0x010C21C8))
+ 15: 0x0053 [0x80] LOAD_WAIT(entity=Queen of Wands (ID: 17572298/0x010C21CA))
+ 16: 0x0058 [0x80] LOAD_WAIT(entity=Queen of Swords (ID: 17572299/0x010C21CB))
+ 17: 0x005D [0x80] LOAD_WAIT(entity=Queen of Cups (ID: 17572300/0x010C21CC))
+ 18: 0x0062 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x15)
+ 19: 0x0069 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x1D)
+ 20: 0x0070 [0x92] Queen of Cups (ID: 17572300/0x010C21CC)->Render.Flags3 ^= 0x01
+ 21: 0x0076 [0x92] Queen of Swords (ID: 17572299/0x010C21CB)->Render.Flags3 ^= 0x01
+ 22: 0x007C [0x92] Queen of Wands (ID: 17572298/0x010C21CA)->Render.Flags3 ^= 0x01
+ 23: 0x0082 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x22)
+ 24: 0x0089 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x23)
+ 25: 0x0090 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 157*
+ 26: 0x0094 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 157*
+ 27: 0x0098 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "star" with entities [Semih Lafihna (ID: 17572294/0x010C21C6), Semih Lafihna (ID: 17572294/0x010C21C6)], work=[44*, 0*]
+ 28: 0x00A9 [0x1C] WAIT(200* ticks)
+ 29: 0x00AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 30: 0x00BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 31: 0x00CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 32: 0x00DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 33: 0x00F0 [0x1C] WAIT(120* ticks)
+ 34: 0x00F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 35: 0x0104 [0x1C] WAIT(80* ticks)
+ 36: 0x0107 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=214*
+ 37: 0x0116 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 38: 0x0127 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 39: 0x0138 [0x1C] WAIT(100* ticks)
+ 40: 0x013B [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=214*
+ 41: 0x014A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 42: 0x015B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 43: 0x016C [0x1C] WAIT(100* ticks)
+ 44: 0x016F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x14)
+ 45: 0x0176 [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=214*
+ 46: 0x0185 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 47: 0x0196 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x0D)
+ 48: 0x019D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x14)
+ 49: 0x01A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x0E)
+ 50: 0x01AB [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=214*
+ 51: 0x01BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 52: 0x01CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x24)
+ 53: 0x01D2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x2F)
+ 54: 0x01D9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x30)
+ 55: 0x01E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x25)
+ 56: 0x01E7 [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=214*
+ 57: 0x01F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 58: 0x0207 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x15)
+ 59: 0x020E [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=214*
+ 60: 0x021D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 61: 0x022E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 62: 0x023F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x15)
+ 63: 0x0246 [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=214*
+ 64: 0x0255 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 65: 0x0266 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x22)
+ 66: 0x026D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x31)
+ 67: 0x0274 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x23)
+ 68: 0x027B [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=214*
+ 69: 0x028A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 70: 0x029B [0x4A] Queen of Cups (ID: 17572300/0x010C21CC) looks at LocalPlayer
+ 71: 0x02A4 [0x4A] Queen of Swords (ID: 17572299/0x010C21CB) looks at LocalPlayer
+ 72: 0x02AD [0x4A] Queen of Wands (ID: 17572298/0x010C21CA) looks at LocalPlayer
+ 73: 0x02B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x22)
+ 74: 0x02BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x0F)
+ 75: 0x02C4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x16)
+ 76: 0x02CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x10)
+ 77: 0x02D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x11)
+ 78: 0x02D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x0F)
+ 79: 0x02E0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x16)
+ 80: 0x02E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x10)
+ 81: 0x02EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x12)
+ 82: 0x02F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x23)
+ 83: 0x02FC [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=214*
+ 84: 0x030B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 85: 0x031C [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 86: 0x031D [0x1C] WAIT(50* ticks)
+ 87: 0x0320 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x18)
+ 88: 0x0327 [0x1C] WAIT(50* ticks)
+ 89: 0x032A [0x1C] WAIT(30* ticks)
+ 90: 0x032D [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=214*
+ 91: 0x033C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+ 92: 0x034D [0x2B] Ace of Wands (ID: 17572295/0x010C21C7) [7319*]:
+    → "...Who goes there!? Seize [him/her]!"
+ 93: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 94: 0x0355 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x11)
+ 95: 0x035C [0x27] REQ_SET(priority=0x0B, entity_id=Queen of Wands (ID: 17572298/0x010C21CA), tag_num=0x15)
+ 96: 0x0363 [0x27] REQ_SET(priority=0x0B, entity_id=Queen of Swords (ID: 17572299/0x010C21CB), tag_num=0x15)
+ 97: 0x036A [0x27] REQ_SET(priority=0x0B, entity_id=Queen of Cups (ID: 17572300/0x010C21CC), tag_num=0x15)
+ 98: 0x0371 [0x1C] WAIT(60* ticks)
+ 99: 0x0374 [0x4D] EventEntity->StatusEvent = 9 // Close door
+100: 0x0375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x12)
+101: 0x037C [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=214*
+102: 0x038B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+103: 0x039C [0x1C] WAIT(80* ticks)
+104: 0x039F [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Queen of Swords (ID: 17572299/0x010C21CB), LocalPlayer], work=[45*, 0*]
+105: 0x03B0 [0x1C] WAIT(20* ticks)
+106: 0x03B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [LocalPlayer, LocalPlayer], work=214*
+107: 0x03C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+108: 0x03D3 [0x1C] WAIT(100* ticks)
+109: 0x03D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+110: 0x03E7 [0x1C] WAIT(60* ticks)
+111: 0x03EA [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [LocalPlayer, LocalPlayer], work=214*
+112: 0x03F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+113: 0x040A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x16)
+114: 0x0411 [0x4A] Queen of Cups (ID: 17572300/0x010C21CC) looks at LocalPlayer
+115: 0x041A [0x4A] Queen of Swords (ID: 17572299/0x010C21CB) looks at LocalPlayer
+116: 0x0423 [0x4A] Queen of Wands (ID: 17572298/0x010C21CA) looks at LocalPlayer
+117: 0x042C [0x27] REQ_SET(priority=0x08, entity_id=Queen of Cups (ID: 17572300/0x010C21CC), tag_num=0x13)
+118: 0x0433 [0x27] REQ_SET(priority=0x08, entity_id=Queen of Swords (ID: 17572299/0x010C21CB), tag_num=0x13)
+119: 0x043A [0x27] REQ_SET(priority=0x08, entity_id=Queen of Wands (ID: 17572298/0x010C21CA), tag_num=0x13)
+120: 0x0441 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+121: 0x0452 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "deru" with entities [LocalPlayer, LocalPlayer], work=[45*, 0*]
+122: 0x0463 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x26)
+123: 0x046A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x27)
+124: 0x0471 [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [LocalPlayer, LocalPlayer], work=214*
+125: 0x0480 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+126: 0x0491 [0x79] LocalPlayer looks at Semih Lafihna (ID: 17572294/0x010C21C6) (Basic look)
+127: 0x049B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x2E)
+128: 0x04A2 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=214*
+129: 0x04B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+130: 0x04C2 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=15.3°*)
+131: 0x04C9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Gate: Magical Gizmo (ID: 17572266/0x010C21AA), tag_num=0x02)
+132: 0x04D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x28)
+133: 0x04D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x29)
+134: 0x04DE [0x4E] SET_ENTITY_HIDE_FLAG: Show Joker (ID: 17572297/0x010C21C9)
+135: 0x04E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x0D)
+136: 0x04EB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x17)
+137: 0x04F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x0E)
+138: 0x04F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x05)
+139: 0x0500 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x01)
+140: 0x0507 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x17)
+141: 0x050E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x02)
+142: 0x0515 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x06)
+143: 0x051C [0x27] REQ_SET(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x0A)
+144: 0x0523 [0x1C] WAIT(10* ticks)
+145: 0x0526 [0x80] LOAD_WAIT(entity=Joker (ID: 17572297/0x010C21C9))
+146: 0x052B [0x52] END_LOAD_SCHEDULER: End scheduler "s073" with entities [LocalPlayer, LocalPlayer], work=214*
+147: 0x053A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+148: 0x054B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
+149: 0x0550 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x17)
+150: 0x0557 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x03)
+151: 0x055E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x07)
+152: 0x0565 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x04)
+153: 0x056C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x08)
+154: 0x0573 [0x4A] Ace of Swords (ID: 17572296/0x010C21C8) looks at Joker (ID: 17572297/0x010C21C9)
+155: 0x057C [0x4A] Ace of Wands (ID: 17572295/0x010C21C7) looks at Joker (ID: 17572297/0x010C21C9)
+156: 0x0585 [0x79] LocalPlayer looks at Joker (ID: 17572297/0x010C21C9) (Basic look)
+157: 0x058F [0x2B] Joker (ID: 17572297/0x010C21C9) [7323*]:
+    → "...Hold."
+158: 0x0596 [0x23] WAIT_FOR_DIALOG_INTERACTION
+159: 0x0597 [0x1C] WAIT(90* ticks)
+160: 0x059A [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [LocalPlayer, LocalPlayer], work=214*
+161: 0x05A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+162: 0x05BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+163: 0x05CB [0x4A] Ace of Swords (ID: 17572296/0x010C21C8) looks at Joker (ID: 17572297/0x010C21C9)
+164: 0x05D4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x18)
+165: 0x05DB [0x1C] WAIT(80* ticks)
+166: 0x05DE [0x4A] Ace of Wands (ID: 17572295/0x010C21C7) looks at Joker (ID: 17572297/0x010C21C9)
+167: 0x05E7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x18)
+168: 0x05EE [0x1C] WAIT(80* ticks)
+169: 0x05F1 [0x52] END_LOAD_SCHEDULER: End scheduler "s075" with entities [LocalPlayer, LocalPlayer], work=214*
+170: 0x0600 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+171: 0x0611 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+172: 0x0622 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Gate: Magical Gizmo (ID: 17572266/0x010C21AA), tag_num=0x03)
+173: 0x0629 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
+174: 0x062D [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
+175: 0x0631 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
+176: 0x0636 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Joker (ID: 17572297/0x010C21C9))
+177: 0x063C [0x4A] Ace of Swords (ID: 17572296/0x010C21C8) looks at Joker (ID: 17572297/0x010C21C9)
+178: 0x0645 [0x4A] Ace of Wands (ID: 17572295/0x010C21C7) looks at Joker (ID: 17572297/0x010C21C9)
+179: 0x064E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x0C)
+180: 0x0655 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=214*
+181: 0x0664 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+182: 0x0675 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x19)
+183: 0x067C [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=214*
+184: 0x068B [0x4A] Ace of Wands (ID: 17572295/0x010C21C7) looks at LocalPlayer
+185: 0x0694 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x075C
+186: 0x069C [0x27] REQ_SET(priority=0x0B, entity_id=Queen of Cups (ID: 17572300/0x010C21CC), tag_num=0x16)
+187: 0x06A3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x0D)
+188: 0x06AA [0x2A] GET_REQ_LEVEL(level=11, entity_id=Queen of Cups (ID: 17572300/0x010C21CC))
+189: 0x06B0 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x06CA
+190: 0x06B8 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=214*
+191: 0x06C7 [0x01] GOTO 0x0741
+192: 0x06CA [0x02] IF !(Work_Zone[9] == 4*) GOTO 0x06E4
+193: 0x06D2 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=214*
+194: 0x06E1 [0x01] GOTO 0x0741
+195: 0x06E4 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x06FE
+196: 0x06EC [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=214*
+197: 0x06FB [0x01] GOTO 0x0741
+198: 0x06FE [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x0718
+199: 0x0706 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=214*
+200: 0x0715 [0x01] GOTO 0x0741
+201: 0x0718 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x0732
+202: 0x0720 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=214*
+203: 0x072F [0x01] GOTO 0x0741
+204: 0x0732 [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [LocalPlayer, LocalPlayer], work=214*
+
+SUBROUTINE_0741:
+205: 0x0741 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+206: 0x0752 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x0E)
+207: 0x0759 [0x01] GOTO 0x0788
+208: 0x075C [0x27] REQ_SET(priority=0x0B, entity_id=Queen of Cups (ID: 17572300/0x010C21CC), tag_num=0x16)
+209: 0x0763 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x0F)
+210: 0x076A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Queen of Cups (ID: 17572300/0x010C21CC))
+211: 0x0770 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+212: 0x0781 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x10)
+
+SUBROUTINE_0788:
+213: 0x0788 [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=214*
+214: 0x0797 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+215: 0x07A8 [0x4A] Ace of Swords (ID: 17572296/0x010C21C8) looks at Semih Lafihna (ID: 17572294/0x010C21C6)
+216: 0x07B1 [0x4A] Ace of Wands (ID: 17572295/0x010C21C7) looks at Semih Lafihna (ID: 17572294/0x010C21C6)
+217: 0x07BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+218: 0x07BB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ace of Swords (ID: 17572296/0x010C21C8) Render.Flags0 and Render.Flags3 conditions are met
+219: 0x07C0 [0x79] Semih Lafihna (ID: 17572294/0x010C21C6) looks at Ace of Swords (ID: 17572296/0x010C21C8) (Basic look)
+220: 0x07CA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17572296/0x010C21C8), tag_num=0x1A)
+221: 0x07D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [LocalPlayer, LocalPlayer], work=214*
+222: 0x07E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+223: 0x07F1 [0x79] Semih Lafihna (ID: 17572294/0x010C21C6) looks at Joker (ID: 17572297/0x010C21C9) (Basic look)
+224: 0x07FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x01)
+225: 0x0802 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x11)
+226: 0x0809 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x02)
+227: 0x0810 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x03)
+228: 0x0817 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "kie0" with entities [Semih Lafihna (ID: 17572294/0x010C21C6), Semih Lafihna (ID: 17572294/0x010C21C6)], work=[44*, 0*]
+229: 0x0828 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x2A)
+230: 0x082F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x2B)
+231: 0x0836 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x32)
+232: 0x083D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x04)
+233: 0x0844 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [LocalPlayer, LocalPlayer], work=214*
+234: 0x0853 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x086F
+235: 0x085B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+236: 0x086C [0x01] GOTO 0x089C
+237: 0x086F [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x088B
+238: 0x0877 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+239: 0x0888 [0x01] GOTO 0x089C
+240: 0x088B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+
+SUBROUTINE_089C:
+241: 0x089C [0x4A] Semih Lafihna (ID: 17572294/0x010C21C6) looks at LocalPlayer
+242: 0x08A5 [0x4A] LocalPlayer looks at Semih Lafihna (ID: 17572294/0x010C21C6)
+243: 0x08AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+244: 0x08AF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17572294/0x010C21C6) Render.Flags0 and Render.Flags3 conditions are met
+245: 0x08B4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x33)
+246: 0x08BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x0E)
+247: 0x08C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x0F)
+248: 0x08C9 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x08E3
+249: 0x08D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=214*
+250: 0x08E0 [0x01] GOTO 0x090C
+251: 0x08E3 [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x08FD
+252: 0x08EB [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=214*
+253: 0x08FA [0x01] GOTO 0x090C
+254: 0x08FD [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=214*
+
+SUBROUTINE_090C:
+255: 0x090C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+256: 0x091D [0x4A] Semih Lafihna (ID: 17572294/0x010C21C6) looks at Joker (ID: 17572297/0x010C21C9)
+257: 0x0926 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x12)
+258: 0x092D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+259: 0x092E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17572294/0x010C21C6) Render.Flags0 and Render.Flags3 conditions are met
+260: 0x0933 [0x52] END_LOAD_SCHEDULER: End scheduler "s084" with entities [LocalPlayer, LocalPlayer], work=214*
+261: 0x0942 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+262: 0x0953 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+263: 0x0964 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x1D)
+264: 0x096B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x34)
+265: 0x0972 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x1E)
+266: 0x0979 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [LocalPlayer, LocalPlayer], work=214*
+267: 0x0988 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+268: 0x0999 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x13)
+269: 0x09A0 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=214*
+270: 0x09AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
+271: 0x09C0 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6), tag_num=0x2D)
+272: 0x09C7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17572297/0x010C21C9), tag_num=0x14)
+273: 0x09CE [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
+274: 0x09D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+275: 0x09E4 [0x1C] WAIT(200* ticks)
+276: 0x09E7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17572294/0x010C21C6))
+277: 0x09ED [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [LocalPlayer, LocalPlayer], work=214*
+278: 0x09FC [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
+279: 0x0A00 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
+280: 0x0A04 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
+281: 0x0A09 [0x1C] WAIT(200* ticks)
+282: 0x0A0C [0x46] CAMERA_CONTROL: Restore default settings
+283: 0x0A0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+284: 0x0A1F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+285: 0x0A21 [0x21] END_EVENT
+286: 0x0A22 [0x00] END_REQSTACK()
+```

@@ -1,0 +1,97 @@
+# 17453330 - Iron Eater
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Throne Room (ID: 165) |
+| Block Size       | 64 bytes              |
+| Total Events     | 4                     |
+| References Count | 4                     |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [32001](#event-32001)    | 0x0001       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0002       |     12 |              3 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0xFFF9007F  |  4294508671 |
+|       1 | 0xFFFC65C6  |  4294731206 |
+|       2 | 0xFFFD72E1  |  4294800097 |
+|       3 | 0x0684      |        1668 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 32001
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0002   |
+| Data Size    | 12 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       37 00 80 01 80 02  80 03 80 22 00 00          7........"..  
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-458.625*, z=-236.090*, y=-167.199*, direction=146.6°*
+  1: 0x000B [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+  2: 0x000D [0x00] END_REQSTACK()
+```

@@ -1,0 +1,162 @@
+# 17105341 - Eauvague TK
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Southern San d'Oria [S] (ID: 80) |
+| Block Size       | 264 bytes                        |
+| Total Events     | 3                                |
+| References Count | 12                               |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [200](#event-200)     | 0x0001       |    184 |             38 |
+| [170](#event-170)     | 0x00B9       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x2B6E      |       11118 |
+|       1 | 0x2B6F      |       11119 |
+|       2 | 0x2B70      |       11120 |
+|       3 | 0x0001      |           1 |
+|       4 | 0x0000      |           0 |
+|       5 | 0x00C8      |         200 |
+|       6 | 0x003C      |          60 |
+|       7 | 0x0013      |          19 |
+|       8 | 0x0A3C      |        2620 |
+|       9 | 0x00D9      |         217 |
+|      10 | 0x005A      |          90 |
+|      11 | 0x0096      |         150 |
+
+## String References
+
+- **11118**: The king's forest is crawling with Orcs! Take care, lest you find yourself roasting on a spit over one of their campfires!
+- **11119**: Or would you rather stay within the city walls?
+- **11120**: Brave the wilds? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 200
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 184 bytes |
+| Instructions | 38        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 1E F0 FF FF 7F  6F 70 1D 00 80 23 1D 01    ......op...#..
+0010: 80 23 24 02 80 03 80 04  80 25 02 00 10 04 80 00  .#$......%......
+0020: A5 00 43 00 43 01 46 01  42 45 05 80 F0 FF FF 7F  ..C.C.F.BE......
+0030: F0 FF FF 7F 66 64 6F 31  04 80 1C 06 80 38 07 80  ....fdo1.....8..
+0040: 4B F8 FF FF 7F 08 80 45  09 80 F0 FF FF 7F F0 FF  K......E........
+0050: FF 7F 7A 38 30 61 04 80  29 01 F0 FF FF 7F 03 45  ..z80a..)......E
+0060: 05 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 31 04 80  ..........fdi1..
+0070: 1C 06 80 27 01 BC 01 05  01 02 1C 0A 80 27 01 F0  ...'.........'..
+0080: FF FF 7F 04 1C 0B 80 45  05 80 F0 FF FF 7F F0 FF  .......E........
+0090: FF 7F 66 64 6F 31 04 80  1C 06 80 03 01 10 03 80  ..fdo1..........
+00A0: 46 00 01 B5 00 02 00 10  03 80 00 B5 00 03 01 10  F...............
+00B0: 04 80 01 B5 00 20 00 21  00                       ..... .!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=11118*)
+    → "The king's forest is crawling with Orcs! Take care, lest you find yourself roasting on a spit over one of their campfires!"
+  5: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=11119*)
+    → "Or would you rather stay within the city walls?"
+  7: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0012 [0x24] CREATE_DIALOG(message_id=11120*, default_option=1*, option_flags=0*)
+    → "Brave the wilds? [Yes./No.]"
+  9: 0x0019 [0x25] WAIT_DIALOG_SELECT()
+ 10: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A5
+ 11: 0x0022 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 12: 0x0024 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 13: 0x0026 [0x46] CAMERA_CONTROL: Disable user control
+ 14: 0x0028 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 15: 0x0029 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 16: 0x003A [0x1C] WAIT(60* ticks)
+ 17: 0x003D [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 18: 0x0040 [0x4B] UPDATE_ENTITY_YAW(entity=EventEntity, yaw=14.4°*)
+ 19: 0x0047 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z80a" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
+ 20: 0x0058 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x03)
+ 21: 0x005F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 22: 0x0070 [0x1C] WAIT(60* ticks)
+ 23: 0x0073 [0x27] REQ_SET(priority=0x01, entity_id=_28c (ID: 17105340/0x010501BC), tag_num=0x02)
+ 24: 0x007A [0x1C] WAIT(90* ticks)
+ 25: 0x007D [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x04)
+ 26: 0x0084 [0x1C] WAIT(150* ticks)
+ 27: 0x0087 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 28: 0x0098 [0x1C] WAIT(60* ticks)
+ 29: 0x009B [0x03] Work_Zone[1] = 1*
+ 30: 0x00A0 [0x46] CAMERA_CONTROL: Restore default settings
+ 31: 0x00A2 [0x01] GOTO 0x00B5
+ 32: 0x00A5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B5
+ 33: 0x00AD [0x03] Work_Zone[1] = 0*
+ 34: 0x00B2 [0x01] GOTO 0x00B5
+
+SUBROUTINE_00B5:
+ 35: 0x00B5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 36: 0x00B7 [0x21] END_EVENT
+ 37: 0x00B8 [0x00] END_REQSTACK()
+```
+
+### Event 170
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x00B9  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00B0:                             00                             .      
+```
+
+#### Opcodes
+
+```
+  0: 0x00B9 [0x00] END_REQSTACK()
+```

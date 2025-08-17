@@ -29,6 +29,10 @@
 |       5 | 0x010C      |         268 |
 |       6 | 0x00B4      |         180 |
 
+## String References
+
+- **4600**: Go to the Wajaom Woodlands? [Yes./No.]
+
 ## Events
 
 ### Event 65535
@@ -79,7 +83,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x24] CREATE_DIALOG(message_id=4600*, default_option=1*, option_flags=0*)
-    → "Go to the Wajaom Woodlands?\u0007\u000BYes.\u0007No.\u007F1\u0000\u0007"
+    → "Go to the Wajaom Woodlands? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0044
   4: 0x0013 [0x42] SET_CLI_EVENT_CANCEL_DATA()

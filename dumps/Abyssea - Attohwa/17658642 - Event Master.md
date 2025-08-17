@@ -1,0 +1,358 @@
+# 17658642 - Event Master
+
+## Common Data
+
+| Field            | Value                       |
+|------------------|-----------------------------|
+| Zone             | Abyssea - Attohwa (ID: 215) |
+| Block Size       | 1028 bytes                  |
+| Total Events     | 2                           |
+| References Count | 32                          |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [301](#event-301)     | 0x0001       |    872 |            168 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0001      |           1 |
+|       1 | 0x270F      |        9999 |
+|       2 | 0x20B3      |        8371 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x0800      |        2048 |
+|       5 | 0x40000000  |  1073741824 |
+|       6 | 0x20B1      |        8369 |
+|       7 | 0x0002      |           2 |
+|       8 | 0x0007      |           7 |
+|       9 | 0x0008      |           8 |
+|      10 | 0x000F      |          15 |
+|      11 | 0x000C      |          12 |
+|      12 | 0x0006      |           6 |
+|      13 | 0x000A      |          10 |
+|      14 | 0x0024      |          36 |
+|      15 | 0x002C      |          44 |
+|      16 | 0x0003      |           3 |
+|      17 | 0x0004      |           4 |
+|      18 | 0x0005      |           5 |
+|      19 | 0x20B4      |        8372 |
+|      20 | 0x064E      |        1614 |
+|      21 | 0x064F      |        1615 |
+|      22 | 0x0650      |        1616 |
+|      23 | 0x20B5      |        8373 |
+|      24 | 0x01F0      |         496 |
+|      25 | 0x0010      |          16 |
+|      26 | 0x0017      |          23 |
+|      27 | 0x0657      |        1623 |
+|      28 | 0x0658      |        1624 |
+|      29 | 0x01F8      |         504 |
+|      30 | 0x0659      |        1625 |
+|      31 | 0x065A      |        1626 |
+
+## String References
+
+- **8369**: Current fame in this area: $0 [point/points] (Rank $1) Enter a number between 1 and 63 (or 0 to cancel).
+- **8371**: What'll it be? [Nothing, thank you./Set fame./Quest 01 (Fame rank: $0)./Quest 02 (Fame rank: $1)./Quest 03 (Fame rank: $2)./Quest 04 (Fame rank: $3)./Quest 05 (Fame rank: $4)./Quest 06 (Fame rank: $5)./Quest 07 (Fame rank: $6)./Quest 08 (Fame rank: $7)./Quest 09 (Fame rank: $8)./Quest 10 (Fame rank: $9)./Toggle AP check (currently [ON/OFF]).]
+- **8372**: Do something? [Cancel./Set as not cleared. (able to receive offer)/Progress report./Obtain key items./Set as cleared./Set times cleared.]
+- **8373**: Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 301
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 872 bytes |
+| Instructions | 167       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 04 00 02 10 03 05  00 03 10 03 02 17 04 10   ...............
+0010: 05 00 00 02 00 00 00 80  00 40 01 1A 20 03 03 02  .........@.. ...
+0020: 00 01 80 24 02 80 03 80  04 80 25 02 00 10 03 80  ...$......%.....
+0030: 00 3E 00 06 00 00 03 01  10 05 80 01 97 00 02 00  .>..............
+0040: 10 00 80 00 7A 00 03 02  10 04 00 03 03 10 05 00  ....z...........
+0050: 48 06 80 03 01 10 03 80  71 12 00 80 07 80 71 13  H.......q.....q.
+0060: 01 00 40 03 80 08 80 01  10 03 80 40 09 80 0A 80  ..@........@....
+0070: 01 10 01 00 06 00 00 01  97 00 02 00 10 0B 80 00  ................
+0080: 8D 00 03 01 10 0C 80 06  00 00 01 97 00 03 02 00  ................
+0090: 00 10 08 02 00 07 80 02  02 00 0D 80 03 3D 01 02  .............=..
+00A0: 02 00 03 80 80 AF 00 03  03 00 0E 80 01 2F 01 02  ............./..
+00B0: 02 00 00 80 80 BF 00 03  03 00 0F 80 01 2F 01 02  ............./..
+00C0: 02 00 07 80 80 CF 00 03  03 00 0F 80 01 2F 01 02  ............./..
+00D0: 02 00 10 80 80 DF 00 03  03 00 0F 80 01 2F 01 02  ............./..
+00E0: 02 00 11 80 80 EF 00 03  03 00 0F 80 01 2F 01 02  ............./..
+00F0: 02 00 12 80 80 FF 00 03  03 00 0E 80 01 2F 01 02  ............./..
+0100: 02 00 0C 80 80 0F 01 03  03 00 0E 80 01 2F 01 02  ............./..
+0110: 02 00 08 80 80 1F 01 03  03 00 0E 80 01 2F 01 02  ............./..
+0120: 02 00 09 80 80 2F 01 03  03 00 0E 80 01 2F 01 03  ...../......./..
+0130: 17 17 02 00 0B 17 17 1A  42 01 06 00 00 01 13 00  ........B.......
+0140: 21 00 24 13 80 03 80 03  00 25 02 00 10 03 80 00  !.$......%......
+0150: 5A 01 03 01 10 05 80 01  1E 03 02 00 10 00 80 00  Z...............
+0160: 73 01 03 01 10 00 80 40  09 80 0A 80 01 10 02 00  s......@........
+0170: 01 1E 03 02 00 10 07 80  00 8C 01 03 01 10 07 80  ................
+0180: 40 09 80 0A 80 01 10 02  00 01 1E 03 02 00 10 10  @...............
+0190: 80 00 CC 02 03 01 10 10  80 40 09 80 0A 80 01 10  .........@......
+01A0: 02 00 02 02 00 03 80 80  15 02 03 02 10 14 80 03  ................
+01B0: 03 10 15 80 03 04 10 16  80 24 17 80 03 80 18 80  .........$......
+01C0: 25 02 00 10 03 80 00 D1  01 03 01 10 05 80 01 12  %...............
+01D0: 02 02 00 10 00 80 00 E5  01 40 19 80 1A 80 01 10  .........@......
+01E0: 03 80 01 12 02 02 00 10  07 80 00 F9 01 40 19 80  .............@..
+01F0: 1A 80 01 10 00 80 01 12  02 02 00 10 10 80 00 0D  ................
+0200: 02 40 19 80 1A 80 01 10  07 80 01 12 02 03 01 10  .@..............
+0210: 05 80 01 C9 02 02 02 00  0C 80 80 6F 02 03 02 10  ...........o....
+0220: 1B 80 03 03 10 1C 80 24  17 80 03 80 1D 80 25 02  .......$......%.
+0230: 00 10 03 80 00 3F 02 03  01 10 05 80 01 6C 02 02  .....?.......l..
+0240: 00 10 00 80 00 53 02 40  19 80 1A 80 01 10 03 80  .....S.@........
+0250: 01 6C 02 02 00 10 07 80  00 67 02 40 19 80 1A 80  .l.......g.@....
+0260: 01 10 00 80 01 6C 02 03  01 10 05 80 01 C9 02 02  .....l..........
+0270: 02 00 09 80 80 C9 02 03  02 10 1E 80 03 03 10 1F  ................
+0280: 80 24 17 80 03 80 1D 80  25 02 00 10 03 80 00 99  .$......%.......
+0290: 02 03 01 10 05 80 01 C6  02 02 00 10 00 80 00 AD  ................
+02A0: 02 40 19 80 1A 80 01 10  03 80 01 C6 02 02 00 10  .@..............
+02B0: 07 80 00 C1 02 40 19 80  1A 80 01 10 00 80 01 C6  .....@..........
+02C0: 02 03 01 10 05 80 01 C9  02 01 1E 03 02 00 10 11  ................
+02D0: 80 00 E5 02 03 01 10 11  80 40 09 80 0A 80 01 10  .........@......
+02E0: 02 00 01 1E 03 02 00 10  12 80 00 1E 03 03 01 10  ................
+02F0: 12 80 40 09 80 0A 80 01  10 02 00 71 12 00 80 00  ..@........q....
+0300: 80 71 13 06 00 02 06 00  12 80 02 12 03 03 06 00  .q..............
+0310: 12 80 40 19 80 1A 80 01  10 06 00 01 1E 03 1B 1B  ..@.............
+0320: 03 02 10 03 80 03 03 10  00 80 03 04 10 00 80 03  ................
+0330: 05 10 03 80 03 06 10 07  80 03 07 10 03 80 03 08  ................
+0340: 10 07 80 03 09 10 00 80  03 00 17 07 80 0B 02 10  ................
+0350: 0B 03 10 0B 04 10 0B 05  10 0B 06 10 0B 07 10 0B  ................
+0360: 08 10 0B 09 10 0B 00 17  1B                       .........       
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[2]
+  1: 0x0006 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
+  2: 0x000B [0x03] Work_Zone_1700[2] = Work_Zone[4]
+  3: 0x0010 [0x05] ExtData[1]->WorkLocal[0] = 1
+  4: 0x0013 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0140
+  5: 0x001B [0x1A] CALL_SUBROUTINE(address=0x0320)
+  6: 0x001E [0x03] ExtData[1]->WorkLocal[2] = 9999*
+  7: 0x0023 [0x24] CREATE_DIALOG(message_id=8371*, default_option=0*, option_flags=2048*)
+    → "What'll it be? [Nothing, thank you./Set fame./Quest 01 (Fame rank: $0)./Quest 02 (Fame rank: $1)./Quest 03 (Fame rank: $2)./Quest 04 (Fame rank: $3)./Quest 05 (Fame rank: $4)./Quest 06 (Fame rank: $5)./Quest 07 (Fame rank: $6)./Quest 08 (Fame rank: $7)./Quest 09 (Fame rank: $8)./Quest 10 (Fame rank: $9)./Toggle AP check (currently [ON/OFF]).]"
+  8: 0x002A [0x25] WAIT_DIALOG_SELECT()
+  9: 0x002B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
+ 10: 0x0033 [0x06] ExtData[1]->WorkLocal[0] = 0
+ 11: 0x0036 [0x03] Work_Zone[1] = 1073741824*
+ 12: 0x003B [0x01] GOTO 0x0097
+ 13: 0x003E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007A
+ 14: 0x0046 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
+ 15: 0x004B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
+ 16: 0x0050 [0x48] [System] [8369*]:
+    → "Current fame in this area: $0 [point/points] (Rank $1) Enter a number between 1 and 63 (or 0 to cancel)."
+ 17: 0x0053 [0x03] Work_Zone[1] = 0*
+ 18: 0x0058 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
+ 19: 0x005E [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[1])
+ 20: 0x0062 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=0*)
+ 21: 0x006B [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[1])
+ 22: 0x0074 [0x06] ExtData[1]->WorkLocal[0] = 0
+ 23: 0x0077 [0x01] GOTO 0x0097
+ 24: 0x007A [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x008D
+ 25: 0x0082 [0x03] Work_Zone[1] = 6*
+ 26: 0x0087 [0x06] ExtData[1]->WorkLocal[0] = 0
+ 27: 0x008A [0x01] GOTO 0x0097
+ 28: 0x008D [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
+ 29: 0x0092 [0x08] ExtData[1]->WorkLocal[2] -= 2*
+
+SUBROUTINE_0097:
+ 30: 0x0097 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 10*) GOTO 0x013D
+ 31: 0x009F [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00AF
+ 32: 0x00A7 [0x03] ExtData[1]->WorkLocal[3] = 36*
+ 33: 0x00AC [0x01] GOTO 0x012F
+ 34: 0x00AF [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x00BF
+ 35: 0x00B7 [0x03] ExtData[1]->WorkLocal[3] = 44*
+ 36: 0x00BC [0x01] GOTO 0x012F
+ 37: 0x00BF [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x00CF
+ 38: 0x00C7 [0x03] ExtData[1]->WorkLocal[3] = 44*
+ 39: 0x00CC [0x01] GOTO 0x012F
+ 40: 0x00CF [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x00DF
+ 41: 0x00D7 [0x03] ExtData[1]->WorkLocal[3] = 44*
+ 42: 0x00DC [0x01] GOTO 0x012F
+ 43: 0x00DF [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x00EF
+ 44: 0x00E7 [0x03] ExtData[1]->WorkLocal[3] = 44*
+ 45: 0x00EC [0x01] GOTO 0x012F
+ 46: 0x00EF [0x02] IF !(ExtData[1]->WorkLocal[2] == 5*) GOTO 0x00FF
+ 47: 0x00F7 [0x03] ExtData[1]->WorkLocal[3] = 36*
+ 48: 0x00FC [0x01] GOTO 0x012F
+ 49: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x010F
+ 50: 0x0107 [0x03] ExtData[1]->WorkLocal[3] = 36*
+ 51: 0x010C [0x01] GOTO 0x012F
+ 52: 0x010F [0x02] IF !(ExtData[1]->WorkLocal[2] == 7*) GOTO 0x011F
+ 53: 0x0117 [0x03] ExtData[1]->WorkLocal[3] = 36*
+ 54: 0x011C [0x01] GOTO 0x012F
+ 55: 0x011F [0x02] IF !(ExtData[1]->WorkLocal[2] == 8*) GOTO 0x012F
+ 56: 0x0127 [0x03] ExtData[1]->WorkLocal[3] = 36*
+ 57: 0x012C [0x01] GOTO 0x012F
+
+SUBROUTINE_012F:
+ 58: 0x012F [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[2]
+ 59: 0x0134 [0x0B] Work_Zone_1700[23]++
+ 60: 0x0137 [0x1A] CALL_SUBROUTINE(address=0x0142)
+ 61: 0x013A [0x06] ExtData[1]->WorkLocal[0] = 0
+ 62: 0x013D [0x01] GOTO 0x0013
+ 63: 0x0140 [0x21] END_EVENT
+ 64: 0x0141 [0x00] END_REQSTACK()
+
+SUBROUTINE_0142:
+ 65: 0x0142 [0x24] CREATE_DIALOG(message_id=8372*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+    → "Do something? [Cancel./Set as not cleared. (able to receive offer)/Progress report./Obtain key items./Set as cleared./Set times cleared.]"
+ 66: 0x0149 [0x25] WAIT_DIALOG_SELECT()
+ 67: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015A
+ 68: 0x0152 [0x03] Work_Zone[1] = 1073741824*
+ 69: 0x0157 [0x01] GOTO 0x031E
+ 70: 0x015A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0173
+ 71: 0x0162 [0x03] Work_Zone[1] = 1*
+ 72: 0x0167 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+ 73: 0x0170 [0x01] GOTO 0x031E
+ 74: 0x0173 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x018C
+ 75: 0x017B [0x03] Work_Zone[1] = 2*
+ 76: 0x0180 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+ 77: 0x0189 [0x01] GOTO 0x031E
+ 78: 0x018C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02CC
+ 79: 0x0194 [0x03] Work_Zone[1] = 3*
+ 80: 0x0199 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+ 81: 0x01A2 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0215
+ 82: 0x01AA [0x03] Work_Zone[2] = 1614*
+ 83: 0x01AF [0x03] Work_Zone[3] = 1615*
+ 84: 0x01B4 [0x03] Work_Zone[4] = 1616*
+ 85: 0x01B9 [0x24] CREATE_DIALOG(message_id=8373*, default_option=0*, option_flags=496*)
+    → "Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]"
+ 86: 0x01C0 [0x25] WAIT_DIALOG_SELECT()
+ 87: 0x01C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D1
+ 88: 0x01C9 [0x03] Work_Zone[1] = 1073741824*
+ 89: 0x01CE [0x01] GOTO 0x0212
+ 90: 0x01D1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01E5
+ 91: 0x01D9 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=0*)
+ 92: 0x01E2 [0x01] GOTO 0x0212
+ 93: 0x01E5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01F9
+ 94: 0x01ED [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=1*)
+ 95: 0x01F6 [0x01] GOTO 0x0212
+ 96: 0x01F9 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x020D
+ 97: 0x0201 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=2*)
+ 98: 0x020A [0x01] GOTO 0x0212
+ 99: 0x020D [0x03] Work_Zone[1] = 1073741824*
+
+SUBROUTINE_0212:
+100: 0x0212 [0x01] GOTO 0x02C9
+101: 0x0215 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x026F
+102: 0x021D [0x03] Work_Zone[2] = 1623*
+103: 0x0222 [0x03] Work_Zone[3] = 1624*
+104: 0x0227 [0x24] CREATE_DIALOG(message_id=8373*, default_option=0*, option_flags=504*)
+    → "Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]"
+105: 0x022E [0x25] WAIT_DIALOG_SELECT()
+106: 0x022F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023F
+107: 0x0237 [0x03] Work_Zone[1] = 1073741824*
+108: 0x023C [0x01] GOTO 0x026C
+109: 0x023F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0253
+110: 0x0247 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=0*)
+111: 0x0250 [0x01] GOTO 0x026C
+112: 0x0253 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0267
+113: 0x025B [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=1*)
+114: 0x0264 [0x01] GOTO 0x026C
+115: 0x0267 [0x03] Work_Zone[1] = 1073741824*
+
+SUBROUTINE_026C:
+116: 0x026C [0x01] GOTO 0x02C9
+117: 0x026F [0x02] IF !(ExtData[1]->WorkLocal[2] == 8*) GOTO 0x02C9
+118: 0x0277 [0x03] Work_Zone[2] = 1625*
+119: 0x027C [0x03] Work_Zone[3] = 1626*
+120: 0x0281 [0x24] CREATE_DIALOG(message_id=8373*, default_option=0*, option_flags=504*)
+    → "Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]"
+121: 0x0288 [0x25] WAIT_DIALOG_SELECT()
+122: 0x0289 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0299
+123: 0x0291 [0x03] Work_Zone[1] = 1073741824*
+124: 0x0296 [0x01] GOTO 0x02C6
+125: 0x0299 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02AD
+126: 0x02A1 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=0*)
+127: 0x02AA [0x01] GOTO 0x02C6
+128: 0x02AD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02C1
+129: 0x02B5 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=1*)
+130: 0x02BE [0x01] GOTO 0x02C6
+131: 0x02C1 [0x03] Work_Zone[1] = 1073741824*
+
+SUBROUTINE_02C6:
+132: 0x02C6 [0x01] GOTO 0x02C9
+
+SUBROUTINE_02C9:
+133: 0x02C9 [0x01] GOTO 0x031E
+134: 0x02CC [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x02E5
+135: 0x02D4 [0x03] Work_Zone[1] = 4*
+136: 0x02D9 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+137: 0x02E2 [0x01] GOTO 0x031E
+138: 0x02E5 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x031E
+139: 0x02ED [0x03] Work_Zone[1] = 5*
+140: 0x02F2 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+141: 0x02FB [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 1*])
+142: 0x0301 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[6])
+143: 0x0305 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 5*) GOTO 0x0312
+144: 0x030D [0x03] ExtData[1]->WorkLocal[6] = 5*
+145: 0x0312 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[6])
+146: 0x031B [0x01] GOTO 0x031E
+
+SUBROUTINE_031E:
+147: 0x031E [0x1B] RETURN
+
+SUBROUTINE_0320:
+148: 0x0320 [0x03] Work_Zone[2] = 0*
+149: 0x0325 [0x03] Work_Zone[3] = 1*
+150: 0x032A [0x03] Work_Zone[4] = 1*
+151: 0x032F [0x03] Work_Zone[5] = 0*
+152: 0x0334 [0x03] Work_Zone[6] = 2*
+153: 0x0339 [0x03] Work_Zone[7] = 0*
+154: 0x033E [0x03] Work_Zone[8] = 2*
+155: 0x0343 [0x03] Work_Zone[9] = 1*
+156: 0x0348 [0x03] Work_Zone_1700[0] = 2*
+157: 0x034D [0x0B] Work_Zone[2]++
+158: 0x0350 [0x0B] Work_Zone[3]++
+159: 0x0353 [0x0B] Work_Zone[4]++
+160: 0x0356 [0x0B] Work_Zone[5]++
+161: 0x0359 [0x0B] Work_Zone[6]++
+162: 0x035C [0x0B] Work_Zone[7]++
+163: 0x035F [0x0B] Work_Zone[8]++
+164: 0x0362 [0x0B] Work_Zone[9]++
+165: 0x0365 [0x0B] Work_Zone_1700[0]++
+166: 0x0368 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x031F [0x1B] RETURN
+```

@@ -1,0 +1,760 @@
+# 17772781 - Splintery Chest
+
+## Common Data
+
+| Field            | Value                     |
+|------------------|---------------------------|
+| Zone             | Ru'Lude Gardens (ID: 243) |
+| Block Size       | 1168 bytes                |
+| Total Events     | 20                        |
+| References Count | 69                        |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |     11 |              3 |
+| [10133](#event-10133)    | 0x000B       |    767 |            128 |
+| [10163](#event-10163)    | 0x030A       |      1 |              1 |
+| [10164](#event-10164)    | 0x030B       |      1 |              1 |
+| [10165](#event-10165)    | 0x030C       |      1 |              1 |
+| [10166](#event-10166)    | 0x030D       |      1 |              1 |
+| [10167](#event-10167)    | 0x030E       |      1 |              1 |
+| [10168](#event-10168)    | 0x030F       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0310       |      1 |              1 |
+| [65535.2](#event-655352) | 0x0311       |      1 |              1 |
+| [65535.3](#event-655353) | 0x0312       |      1 |              1 |
+| [65535.4](#event-655354) | 0x0313       |      1 |              1 |
+| [65535.5](#event-655355) | 0x0314       |      1 |              1 |
+| [65535.6](#event-655356) | 0x0315       |      1 |              1 |
+| [10169](#event-10169)    | 0x0316       |      1 |              1 |
+| [10170](#event-10170)    | 0x0317       |      1 |              1 |
+| [10171](#event-10171)    | 0x0318       |      1 |              1 |
+| [10172](#event-10172)    | 0x0319       |      1 |              1 |
+| [10173](#event-10173)    | 0x031A       |      1 |              1 |
+| [10174](#event-10174)    | 0x031B       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0078      |         120 |
+|       2 | 0x000A      |          10 |
+|       3 | 0x0002      |           2 |
+|       4 | 0x0010      |          16 |
+|       5 | 0x0001      |           1 |
+|       6 | 0x0011      |          17 |
+|       7 | 0x38E8      |       14568 |
+|       8 | 0x0012      |          18 |
+|       9 | 0x40000000  |  1073741824 |
+|      10 | 0xFFFFFFFF  |  4294967295 |
+|      11 | 0x001E      |          30 |
+|      12 | 0x38E9      |       14569 |
+|      13 | 0x0028      |          40 |
+|      14 | 0x38EA      |       14570 |
+|      15 | 0x0009      |           9 |
+|      16 | 0x0003      |           3 |
+|      17 | 0x0004      |           4 |
+|      18 | 0x0005      |           5 |
+|      19 | 0x0006      |           6 |
+|      20 | 0x0007      |           7 |
+|      21 | 0x0008      |           8 |
+|      22 | 0x000B      |          11 |
+|      23 | 0x000C      |          12 |
+|      24 | 0x000D      |          13 |
+|      25 | 0x000E      |          14 |
+|      26 | 0x000F      |          15 |
+|      27 | 0x4B7F      |       19327 |
+|      28 | 0x4B84      |       19332 |
+|      29 | 0x4B89      |       19337 |
+|      30 | 0x4B8E      |       19342 |
+|      31 | 0x4B93      |       19347 |
+|      32 | 0x4B98      |       19352 |
+|      33 | 0x4B9D      |       19357 |
+|      34 | 0x4BA2      |       19362 |
+|      35 | 0x4BA7      |       19367 |
+|      36 | 0x4BAC      |       19372 |
+|      37 | 0x4BB1      |       19377 |
+|      38 | 0x4BB6      |       19382 |
+|      39 | 0x4BBB      |       19387 |
+|      40 | 0x4BC0      |       19392 |
+|      41 | 0x4BD7      |       19415 |
+|      42 | 0x4BDB      |       19419 |
+|      43 | 0x4BDF      |       19423 |
+|      44 | 0x4BE3      |       19427 |
+|      45 | 0x4BE7      |       19431 |
+|      46 | 0x4BEB      |       19435 |
+|      47 | 0x4BEF      |       19439 |
+|      48 | 0x4BF3      |       19443 |
+|      49 | 0x4BF7      |       19447 |
+|      50 | 0x4BFB      |       19451 |
+|      51 | 0x4BFF      |       19455 |
+|      52 | 0x49F4      |       18932 |
+|      53 | 0x49F8      |       18936 |
+|      54 | 0x49FC      |       18940 |
+|      55 | 0x5040      |       20544 |
+|      56 | 0x5097      |       20631 |
+|      57 | 0x50FC      |       20732 |
+|      58 | 0x5121      |       20769 |
+|      59 | 0x5155      |       20821 |
+|      60 | 0x5183      |       20867 |
+|      61 | 0x51B0      |       20912 |
+|      62 | 0x51DF      |       20959 |
+|      63 | 0x5209      |       21001 |
+|      64 | 0x5238      |       21048 |
+|      65 | 0x5281      |       21121 |
+|      66 | 0x52C3      |       21187 |
+|      67 | 0x52F2      |       21234 |
+|      68 | 0x5323      |       21283 |
+
+## String References
+
+- **14568**: Retrieve which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Return one page./Advance one page./Cancel.]
+- **14569**: You take the $31 in hand...
+- **14570**: Obtain $31? [Take it./Leave it.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0000   |
+| Data Size    | 11 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 03 07 00 00 80 03 09 00  00 80 00                 ...........     
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x03] ExtData[1]->WorkLocal[7] = 0*
+  1: 0x0005 [0x03] ExtData[1]->WorkLocal[9] = 0*
+  2: 0x000A [0x00] END_REQSTACK()
+```
+
+### Event 10133
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x000B    |
+| Data Size    | 767 bytes |
+| Instructions | 127       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                   42 4A F0 FF FF             BJ...
+0010: 7F F8 FF FF 7F 2C F8 FF  FF 7F F8 FF FF 7F 6F 70  .....,........op
+0020: 65 6E 1C 01 80 03 03 00  02 80 02 03 00 00 80 04  en..............
+0030: 60 01 02 03 00 02 80 80  FB 00 03 08 00 03 80 03  `...............
+0040: 0A 00 00 80 1A 72 01 02  07 00 00 80 00 56 00 3C  .....r.......V.<
+0050: 0A 00 04 80 05 80 02 07  00 08 00 00 65 00 3C 0A  ............e.<.
+0060: 00 06 80 05 80 24 07 80  09 00 0A 00 25 02 00 10  .....$......%...
+0070: 04 80 00 88 00 02 07 00  00 80 02 85 00 0C 07 00  ................
+0080: 03 09 00 00 80 01 F8 00  02 00 10 06 80 00 A3 00  ................
+0090: 02 07 00 03 80 03 A0 00  0B 07 00 03 09 00 00 80  ................
+00A0: 01 F8 00 02 00 10 08 80  00 B8 00 03 01 10 09 80  ................
+00B0: 03 03 00 0A 80 01 F8 00  02 00 10 04 80 03 EE 00  ................
+00C0: 03 06 00 00 80 03 05 00  07 00 14 05 00 04 80 07  ................
+00D0: 05 00 00 10 9D 00 AA 02  17 17 05 00 03 04 00 03  ................
+00E0: 00 03 03 00 0B 80 03 09  00 00 10 01 F8 00 03 01  ................
+00F0: 10 09 80 03 03 00 0A 80  01 5D 01 02 03 00 0B 80  .........]......
+0100: 80 15 01 93 17 17 48 0C  80 23 93 00 80 03 03 00  ......H..#......
+0110: 0D 80 01 5D 01 02 03 00  0D 80 80 5D 01 24 0E 80  ...].......].$..
+0120: 05 80 00 80 25 02 00 10  00 80 00 4A 01 06 01 10  ....%......J....
+0130: 40 00 80 05 80 01 10 06  00 40 03 80 0F 80 01 10  @........@......
+0140: 05 00 03 03 00 0A 80 01  5A 01 02 00 10 05 80 00  ........Z.......
+0150: 5A 01 03 03 00 04 00 01  5A 01 01 5D 01 01 2A 00  Z.......Z..]..*.
+0160: 2C F8 FF FF 7F F8 FF FF  7F 63 6C 6F 73 1C 01 80  ,........clos...
+0170: 21 00 03 01 00 00 80 03  02 00 07 00 14 02 00 04  !...............
+0180: 80 02 01 00 04 80 03 A9  02 9D 00 AA 02 00 00 02  ................
+0190: 00 02 00 00 00 80 00 A0  01 3C 0A 00 01 00 05 80  .........<......
+01A0: 02 01 00 00 80 80 B0 01  03 02 10 00 00 01 A0 02  ................
+01B0: 02 01 00 05 80 80 C0 01  03 03 10 00 00 01 A0 02  ................
+01C0: 02 01 00 03 80 80 D0 01  03 04 10 00 00 01 A0 02  ................
+01D0: 02 01 00 10 80 80 E0 01  03 05 10 00 00 01 A0 02  ................
+01E0: 02 01 00 11 80 80 F0 01  03 06 10 00 00 01 A0 02  ................
+01F0: 02 01 00 12 80 80 00 02  03 07 10 00 00 01 A0 02  ................
+0200: 02 01 00 13 80 80 10 02  03 08 10 00 00 01 A0 02  ................
+0210: 02 01 00 14 80 80 20 02  03 09 10 00 00 01 A0 02  ...... .........
+0220: 02 01 00 15 80 80 30 02  03 00 17 00 00 01 A0 02  ......0.........
+0230: 02 01 00 0F 80 80 40 02  03 01 17 00 00 01 A0 02  ......@.........
+0240: 02 01 00 02 80 80 50 02  03 02 17 00 00 01 A0 02  ......P.........
+0250: 02 01 00 16 80 80 60 02  03 03 17 00 00 01 A0 02  ......`.........
+0260: 02 01 00 17 80 80 70 02  03 04 17 00 00 01 A0 02  ......p.........
+0270: 02 01 00 18 80 80 80 02  03 05 17 00 00 01 A0 02  ................
+0280: 02 01 00 19 80 80 90 02  03 06 17 00 00 01 A0 02  ................
+0290: 02 01 00 1A 80 80 A0 02  03 07 17 00 00 01 A0 02  ................
+02A0: 0B 01 00 0B 02 00 01 81  01 1B 1B 80 1C 80 1D 80  ................
+02B0: 1E 80 1F 80 20 80 21 80  22 80 23 80 24 80 25 80  .... .!.".#.$.%.
+02C0: 26 80 27 80 28 80 00 80  00 80 29 80 2A 80 2B 80  &.'.(.....).*.+.
+02D0: 2C 80 2D 80 2E 80 2F 80  30 80 31 80 32 80 33 80  ,.-.../.0.1.2.3.
+02E0: 34 80 35 80 36 80 00 80  00 80 37 80 38 80 39 80  4.5.6.....7.8.9.
+02F0: 3A 80 3B 80 3C 80 3D 80  3E 80 3F 80 40 80 41 80  :.;.<.=.>.?.@.A.
+0300: 42 80 43 80 44 80 00 80  00 80                    B.C.D.....      
+```
+
+#### Opcodes
+
+```
+  0: 0x000B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x000C [0x4A] LocalPlayer looks at EventEntity
+  2: 0x0015 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [EventEntity, EventEntity]
+  3: 0x0022 [0x1C] WAIT(120* ticks)
+  4: 0x0025 [0x03] ExtData[1]->WorkLocal[3] = 10*
+  5: 0x002A [0x02] IF !(ExtData[1]->WorkLocal[3] < 0*) GOTO 0x0160
+  6: 0x0032 [0x02] IF !(ExtData[1]->WorkLocal[3] == 10*) GOTO 0x00FB
+  7: 0x003A [0x03] ExtData[1]->WorkLocal[8] = 2*
+  8: 0x003F [0x03] ExtData[1]->WorkLocal[10] = 0*
+  9: 0x0044 [0x1A] CALL_SUBROUTINE(address=0x0172)
+ 10: 0x0047 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0056
+ 11: 0x004F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=16*, condition_work_offset=1*)
+ 12: 0x0056 [0x02] IF !(ExtData[1]->WorkLocal[7] == ExtData[1]->WorkLocal[8]) GOTO 0x0065
+ 13: 0x005E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=17*, condition_work_offset=1*)
+ 14: 0x0065 [0x24] CREATE_DIALOG(message_id=14568*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
+    → "Retrieve which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Return one page./Advance one page./Cancel.]"
+ 15: 0x006C [0x25] WAIT_DIALOG_SELECT()
+ 16: 0x006D [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0088
+ 17: 0x0075 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x0085
+ 18: 0x007D [0x0C] ExtData[1]->WorkLocal[7]--
+ 19: 0x0080 [0x03] ExtData[1]->WorkLocal[9] = 0*
+ 20: 0x0085 [0x01] GOTO 0x00F8
+ 21: 0x0088 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x00A3
+ 22: 0x0090 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 2*) GOTO 0x00A0
+ 23: 0x0098 [0x0B] ExtData[1]->WorkLocal[7]++
+ 24: 0x009B [0x03] ExtData[1]->WorkLocal[9] = 0*
+ 25: 0x00A0 [0x01] GOTO 0x00F8
+ 26: 0x00A3 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x00B8
+ 27: 0x00AB [0x03] Work_Zone[1] = 1073741824*
+ 28: 0x00B0 [0x03] ExtData[1]->WorkLocal[3] = 4294967295*
+ 29: 0x00B5 [0x01] GOTO 0x00F8
+ 30: 0x00B8 [0x02] IF !(Work_Zone[0] >= 16*) GOTO 0x00EE
+ 31: 0x00C0 [0x03] ExtData[1]->WorkLocal[6] = 0*
+ 32: 0x00C5 [0x03] ExtData[1]->WorkLocal[5] = ExtData[1]->WorkLocal[7]
+ 33: 0x00CA [0x14] ExtData[1]->WorkLocal[5] *= 16*
+ 34: 0x00CF [0x07] ExtData[1]->WorkLocal[5] += Work_Zone[0]
+ 35: 0x00D4 [0x9D] Work_Zone_1700[23] = 0x02AA[ExtData[1]->WorkLocal[5]] // Read WORD
+ 36: 0x00DC [0x03] ExtData[1]->WorkLocal[4] = ExtData[1]->WorkLocal[3]
+ 37: 0x00E1 [0x03] ExtData[1]->WorkLocal[3] = 30*
+ 38: 0x00E6 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[0]
+ 39: 0x00EB [0x01] GOTO 0x00F8
+ 40: 0x00EE [0x03] Work_Zone[1] = 1073741824*
+ 41: 0x00F3 [0x03] ExtData[1]->WorkLocal[3] = 4294967295*
+
+SUBROUTINE_00F8:
+ 42: 0x00F8 [0x01] GOTO 0x015D
+ 43: 0x00FB [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0115
+ 44: 0x0103 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[23])
+ 45: 0x0106 [0x48] [System] [14569*]:
+    → "You take the $31 in hand..."
+ 46: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 47: 0x010A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+ 48: 0x010D [0x03] ExtData[1]->WorkLocal[3] = 40*
+ 49: 0x0112 [0x01] GOTO 0x015D
+ 50: 0x0115 [0x02] IF !(ExtData[1]->WorkLocal[3] == 40*) GOTO 0x015D
+ 51: 0x011D [0x24] CREATE_DIALOG(message_id=14570*, default_option=1*, option_flags=0*)
+    → "Obtain $31? [Take it./Leave it.]"
+ 52: 0x0124 [0x25] WAIT_DIALOG_SELECT()
+ 53: 0x0125 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014A
+ 54: 0x012D [0x06] Work_Zone[1] = 0
+ 55: 0x0130 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[6])
+ 56: 0x0139 [0x40] SET_BIT_WORK_RANGE(start_bit=2*, end_bit=9*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[5])
+ 57: 0x0142 [0x03] ExtData[1]->WorkLocal[3] = 4294967295*
+ 58: 0x0147 [0x01] GOTO 0x015A
+ 59: 0x014A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x015A
+ 60: 0x0152 [0x03] ExtData[1]->WorkLocal[3] = ExtData[1]->WorkLocal[4]
+ 61: 0x0157 [0x01] GOTO 0x015A
+
+SUBROUTINE_015A:
+ 62: 0x015A [0x01] GOTO 0x015D
+
+SUBROUTINE_015D:
+ 63: 0x015D [0x01] GOTO 0x002A
+ 64: 0x0160 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [EventEntity, EventEntity]
+ 65: 0x016D [0x1C] WAIT(120* ticks)
+ 66: 0x0170 [0x21] END_EVENT
+ 67: 0x0171 [0x00] END_REQSTACK()
+
+SUBROUTINE_0172:
+ 68: 0x0172 [0x03] ExtData[1]->WorkLocal[1] = 0*
+ 69: 0x0177 [0x03] ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[7]
+ 70: 0x017C [0x14] ExtData[1]->WorkLocal[2] *= 16*
+
+SUBROUTINE_0181:
+ 71: 0x0181 [0x02] IF !(ExtData[1]->WorkLocal[1] >= 16*) GOTO 0x02A9
+ 72: 0x0189 [0x9D] ExtData[1]->WorkLocal[0] = 0x02AA[ExtData[1]->WorkLocal[2]] // Read WORD
+ 73: 0x0191 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x01A0
+ 74: 0x0199 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=ExtData[1]->WorkLocal[1], condition_work_offset=1*)
+ 75: 0x01A0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01B0
+ 76: 0x01A8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+ 77: 0x01AD [0x01] GOTO 0x02A0
+ 78: 0x01B0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01C0
+ 79: 0x01B8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
+ 80: 0x01BD [0x01] GOTO 0x02A0
+ 81: 0x01C0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x01D0
+ 82: 0x01C8 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
+ 83: 0x01CD [0x01] GOTO 0x02A0
+ 84: 0x01D0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x01E0
+ 85: 0x01D8 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[0]
+ 86: 0x01DD [0x01] GOTO 0x02A0
+ 87: 0x01E0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x01F0
+ 88: 0x01E8 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[0]
+ 89: 0x01ED [0x01] GOTO 0x02A0
+ 90: 0x01F0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x0200
+ 91: 0x01F8 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[0]
+ 92: 0x01FD [0x01] GOTO 0x02A0
+ 93: 0x0200 [0x02] IF !(ExtData[1]->WorkLocal[1] == 6*) GOTO 0x0210
+ 94: 0x0208 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[0]
+ 95: 0x020D [0x01] GOTO 0x02A0
+ 96: 0x0210 [0x02] IF !(ExtData[1]->WorkLocal[1] == 7*) GOTO 0x0220
+ 97: 0x0218 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[0]
+ 98: 0x021D [0x01] GOTO 0x02A0
+ 99: 0x0220 [0x02] IF !(ExtData[1]->WorkLocal[1] == 8*) GOTO 0x0230
+100: 0x0228 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[0]
+101: 0x022D [0x01] GOTO 0x02A0
+102: 0x0230 [0x02] IF !(ExtData[1]->WorkLocal[1] == 9*) GOTO 0x0240
+103: 0x0238 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[0]
+104: 0x023D [0x01] GOTO 0x02A0
+105: 0x0240 [0x02] IF !(ExtData[1]->WorkLocal[1] == 10*) GOTO 0x0250
+106: 0x0248 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[0]
+107: 0x024D [0x01] GOTO 0x02A0
+108: 0x0250 [0x02] IF !(ExtData[1]->WorkLocal[1] == 11*) GOTO 0x0260
+109: 0x0258 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[0]
+110: 0x025D [0x01] GOTO 0x02A0
+111: 0x0260 [0x02] IF !(ExtData[1]->WorkLocal[1] == 12*) GOTO 0x0270
+112: 0x0268 [0x03] Work_Zone_1700[4] = ExtData[1]->WorkLocal[0]
+113: 0x026D [0x01] GOTO 0x02A0
+114: 0x0270 [0x02] IF !(ExtData[1]->WorkLocal[1] == 13*) GOTO 0x0280
+115: 0x0278 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[0]
+116: 0x027D [0x01] GOTO 0x02A0
+117: 0x0280 [0x02] IF !(ExtData[1]->WorkLocal[1] == 14*) GOTO 0x0290
+118: 0x0288 [0x03] Work_Zone_1700[6] = ExtData[1]->WorkLocal[0]
+119: 0x028D [0x01] GOTO 0x02A0
+120: 0x0290 [0x02] IF !(ExtData[1]->WorkLocal[1] == 15*) GOTO 0x02A0
+121: 0x0298 [0x03] Work_Zone_1700[7] = ExtData[1]->WorkLocal[0]
+122: 0x029D [0x01] GOTO 0x02A0
+
+SUBROUTINE_02A0:
+123: 0x02A0 [0x0B] ExtData[1]->WorkLocal[1]++
+124: 0x02A3 [0x0B] ExtData[1]->WorkLocal[2]++
+125: 0x02A6 [0x01] GOTO 0x0181
+126: 0x02A9 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Data Section: 0x02AA (96 bytes)
+     0x02AA: 1B 80 1C 80 1D 80 1E 80 1F 80 20 80 21 80 22 80
+     0x02BA: 23 80 24 80 25 80 26 80 27 80 28 80 00 80 00 80
+     0x02CA: 29 80 2A 80 2B 80 2C 80 2D 80 2E 80 2F 80 30 80
+     0x02DA: 31 80 32 80 33 80 34 80 35 80 36 80 00 80 00 80
+     0x02EA: 37 80 38 80 39 80 3A 80 3B 80 3C 80 3D 80 3E 80
+     0x02FA: 3F 80 40 80 41 80 42 80 43 80 44 80 00 80 00 80
+```
+
+### Event 10163
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x030A  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                                00                           .     
+```
+
+#### Opcodes
+
+```
+  0: 0x030A [0x00] END_REQSTACK()
+```
+
+### Event 10164
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x030B  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                                   00                         .    
+```
+
+#### Opcodes
+
+```
+  0: 0x030B [0x00] END_REQSTACK()
+```
+
+### Event 10165
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x030C  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                                      00                       .   
+```
+
+#### Opcodes
+
+```
+  0: 0x030C [0x00] END_REQSTACK()
+```
+
+### Event 10166
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x030D  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                                         00                     .  
+```
+
+#### Opcodes
+
+```
+  0: 0x030D [0x00] END_REQSTACK()
+```
+
+### Event 10167
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x030E  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                                            00                   . 
+```
+
+#### Opcodes
+
+```
+  0: 0x030E [0x00] END_REQSTACK()
+```
+
+### Event 10168
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x030F  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                                               00                 .
+```
+
+#### Opcodes
+
+```
+  0: 0x030F [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0310  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0310 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0311  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0311 [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0312  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:       00                                            .             
+```
+
+#### Opcodes
+
+```
+  0: 0x0312 [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0313  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:          00                                          .            
+```
+
+#### Opcodes
+
+```
+  0: 0x0313 [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0314  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:             00                                        .           
+```
+
+#### Opcodes
+
+```
+  0: 0x0314 [0x00] END_REQSTACK()
+```
+
+### Event 65535.6
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0315  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                00                                      .          
+```
+
+#### Opcodes
+
+```
+  0: 0x0315 [0x00] END_REQSTACK()
+```
+
+### Event 10169
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0316  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                   00                                    .         
+```
+
+#### Opcodes
+
+```
+  0: 0x0316 [0x00] END_REQSTACK()
+```
+
+### Event 10170
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0317  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                      00                                  .        
+```
+
+#### Opcodes
+
+```
+  0: 0x0317 [0x00] END_REQSTACK()
+```
+
+### Event 10171
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0318  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                          00                               .       
+```
+
+#### Opcodes
+
+```
+  0: 0x0318 [0x00] END_REQSTACK()
+```
+
+### Event 10172
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0319  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                             00                             .      
+```
+
+#### Opcodes
+
+```
+  0: 0x0319 [0x00] END_REQSTACK()
+```
+
+### Event 10173
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x031A  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                                00                           .     
+```
+
+#### Opcodes
+
+```
+  0: 0x031A [0x00] END_REQSTACK()
+```
+
+### Event 10174
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x031B  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                                   00                         .    
+```
+
+#### Opcodes
+
+```
+  0: 0x031B [0x00] END_REQSTACK()
+```

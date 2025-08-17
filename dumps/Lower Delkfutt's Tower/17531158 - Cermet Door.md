@@ -1,0 +1,95 @@
+# 17531158 - Cermet Door
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Lower Delkfutt's Tower (ID: 184) |
+| Block Size       | 104 bytes                        |
+| Total Events     | 2                                |
+| References Count | 4                                |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [20](#event-20)       | 0x0001       |     61 |             14 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00B9      |         185 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x00C8      |         200 |
+
+## String References
+
+- **185**: Open the door? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 20
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 61 bytes |
+| Instructions | 14       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    24 00 80 01 80 02 80  25 02 00 10 02 80 00 2F   $......%....../
+0010: 00 43 00 43 01 03 01 10  01 80 42 45 03 80 F0 FF  .C.C......BE....
+0020: FF 7F F0 FF FF 7F 66 64  6F 31 02 80 01 3A 00 02  ......fdo1...:..
+0030: 00 10 01 80 00 3A 00 01  3A 00 20 00 21 00        .....:..:. .!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=185*, default_option=1*, option_flags=0*)
+    → "Open the door? [Yes./No.]"
+  1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
+  2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002F
+  3: 0x0011 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  4: 0x0013 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  5: 0x0015 [0x03] Work_Zone[1] = 1*
+  6: 0x001A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  7: 0x001B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  8: 0x002C [0x01] GOTO 0x003A
+  9: 0x002F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x003A
+ 10: 0x0037 [0x01] GOTO 0x003A
+
+SUBROUTINE_003A:
+ 11: 0x003A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 12: 0x003C [0x21] END_EVENT
+ 13: 0x003D [0x00] END_REQSTACK()
+```

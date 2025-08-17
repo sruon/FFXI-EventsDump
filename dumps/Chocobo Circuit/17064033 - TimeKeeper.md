@@ -1,0 +1,377 @@
+# 17064033 - TimeKeeper
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Chocobo Circuit (ID: 70) |
+| Block Size       | 1028 bytes               |
+| Total Events     | 2                        |
+| References Count | 45                       |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [205](#event-205)     | 0x0001       |    821 |            189 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0xFFFFFFFF  |  4294967295 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x238F      |        9103 |
+|       4 | 0x0112      |         274 |
+|       5 | 0x2392      |        9106 |
+|       6 | 0x2391      |        9105 |
+|       7 | 0x0212      |         530 |
+|       8 | 0x0002      |           2 |
+|       9 | 0x0412      |        1042 |
+|      10 | 0x0003      |           3 |
+|      11 | 0x0812      |        2066 |
+|      12 | 0x0004      |           4 |
+|      13 | 0x0013      |          19 |
+|      14 | 0x0005      |           5 |
+|      15 | 0x0014      |          20 |
+|      16 | 0x0006      |           6 |
+|      17 | 0x0010      |          16 |
+|      18 | 0x2476      |        9334 |
+|      19 | 0x0111      |         273 |
+|      20 | 0x001F      |          31 |
+|      21 | 0x0411      |        1041 |
+|      22 | 0xFFFF      |       65535 |
+|      23 | 0x0211      |         529 |
+|      24 | 0x0511      |        1297 |
+|      25 | 0x0311      |         785 |
+|      26 | 0x0611      |        1553 |
+|      27 | 0x0016      |          22 |
+|      28 | 0x0007      |           7 |
+|      29 | 0x0015      |          21 |
+|      30 | 0x001D      |          29 |
+|      31 | 0x0017      |          23 |
+|      32 | 0x0008      |           8 |
+|      33 | 0x0018      |          24 |
+|      34 | 0x2461      |        9313 |
+|      35 | 0x2462      |        9314 |
+|      36 | 0x239B      |        9115 |
+|      37 | 0x239C      |        9116 |
+|      38 | 0x239D      |        9117 |
+|      39 | 0x239E      |        9118 |
+|      40 | 0x23BD      |        9149 |
+|      41 | 0x2463      |        9315 |
+|      42 | 0x2360      |        9056 |
+|      43 | 0x0009      |           9 |
+|      44 | 0x000A      |          10 |
+
+## String References
+
+- **9103**: Reception Increments: $6 sec. [[Stop/Go]FChannel P/[Stop/Go]FChannel Q/[Stop/Go]FChannel R/[Stop/Go]FChannel S/Stop all channels./Start all channels./Check World File./R Check $4./[On/Off]FEvent Switch/Quit.]
+- **9105**: Started Race Cycle.
+- **9106**: Stopped new race cycle.
+- **9334**: Team Value Adjustments [San Victory Pts: $0/ Place: $3/Bas Victory Pts: $1/ Place: $4/Win Victory Pts: $2/ Place: $5/Give me standings report now!/Calculate now!/Quit.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 205
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 821 bytes |
+| Instructions | 165       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 01 00 00 80 06 00  00 02 00 00 01 80 00 DB   ...............
+0010: 02 03 01 10 01 00 43 00  43 01 03 01 00 09 10 3E  ......C.C......>
+0020: 06 10 02 80 35 00 03 00  17 02 80 3D 06 10 02 80  ....5......=....
+0030: 02 80 01 3A 00 03 00 17  01 80 24 03 80 01 80 01  ...:......$.....
+0040: 80 25 02 00 10 01 80 00  6F 00 3E 02 10 01 80 5F  .%......o.>...._
+0050: 00 03 01 00 04 80 06 02  10 48 05 80 01 6C 00 03  .........H...l..
+0060: 01 00 04 80 03 02 10 02  80 48 06 80 01 D8 02 02  .........H......
+0070: 00 10 02 80 00 9C 00 3E  03 10 01 80 8C 00 03 01  .......>........
+0080: 00 07 80 06 03 10 48 05  80 01 99 00 03 01 00 07  ......H.........
+0090: 80 03 03 10 02 80 48 06  80 01 D8 02 02 00 10 08  ......H.........
+00A0: 80 00 C9 00 3E 04 10 01  80 B9 00 03 01 00 09 80  ....>...........
+00B0: 06 04 10 48 05 80 01 C6  00 03 01 00 09 80 03 04  ...H............
+00C0: 10 02 80 48 06 80 01 D8  02 02 00 10 0A 80 00 F6  ...H............
+00D0: 00 3E 05 10 01 80 E6 00  03 01 00 0B 80 06 05 10  .>..............
+00E0: 48 05 80 01 F3 00 03 01  00 0B 80 03 05 10 02 80  H...............
+00F0: 48 06 80 01 D8 02 02 00  10 0C 80 00 16 01 03 01  H...............
+0100: 00 0D 80 06 02 10 06 03  10 06 04 10 06 05 10 48  ...............H
+0110: 05 80 23 01 D8 02 02 00  10 0E 80 00 3E 01 03 01  ..#.........>...
+0120: 00 0F 80 03 02 10 02 80  03 03 10 02 80 03 04 10  ................
+0130: 02 80 03 05 10 02 80 48  06 80 23 01 D8 02 02 00  .......H..#.....
+0140: 10 10 80 00 AD 02 02 02  80 02 80 00 AA 02 03 01  ................
+0150: 10 11 80 43 00 43 01 24  12 80 01 80 01 80 25 02  ...C.C.$......%.
+0160: 00 10 02 80 00 8C 01 03  01 10 13 80 1A ED 02 02  ................
+0170: 02 10 0A 80 02 7C 01 03  02 10 0A 80 40 11 80 14  .....|......@...
+0180: 80 01 10 02 10 43 00 43  01 01 9E 02 02 00 10 01  .....C.C........
+0190: 80 00 B9 01 03 01 10 15  80 1A ED 02 02 02 10 16  ................
+01A0: 80 02 A9 01 03 02 10 16  80 40 11 80 14 80 01 10  .........@......
+01B0: 02 10 43 00 43 01 01 9E  02 02 00 10 0A 80 00 E6  ..C.C...........
+01C0: 01 03 01 10 17 80 1A ED  02 02 02 10 0A 80 02 D6  ................
+01D0: 01 03 02 10 0A 80 40 11  80 14 80 01 10 02 10 43  ......@........C
+01E0: 00 43 01 01 9E 02 02 00  10 08 80 00 13 02 03 01  .C..............
+01F0: 10 18 80 1A ED 02 02 02  10 16 80 02 03 02 03 02  ................
+0200: 10 16 80 40 11 80 14 80  01 10 02 10 43 00 43 01  ...@........C.C.
+0210: 01 9E 02 02 00 10 0E 80  00 40 02 03 01 10 19 80  .........@......
+0220: 1A ED 02 02 02 10 0A 80  02 30 02 03 02 10 0A 80  .........0......
+0230: 40 11 80 14 80 01 10 02  10 43 00 43 01 01 9E 02  @........C.C....
+0240: 02 00 10 0C 80 00 6D 02  03 01 10 1A 80 1A ED 02  ......m.........
+0250: 02 02 10 16 80 02 5D 02  03 02 10 16 80 40 11 80  ......]......@..
+0260: 14 80 01 10 02 10 43 00  43 01 01 9E 02 02 00 10  ......C.C.......
+0270: 10 80 00 84 02 03 01 10  1B 80 43 00 43 01 06 02  ..........C.C...
+0280: 10 01 9E 02 02 00 10 1C  80 00 9B 02 03 01 10 1D  ................
+0290: 80 43 00 43 01 06 02 10  01 9E 02 01 AA 02 03 01  .C.C............
+02A0: 10 1E 80 43 00 43 01 01  46 01 01 D8 02 02 00 10  ...C.C..F.......
+02B0: 1C 80 00 C1 02 03 01 10  1F 80 43 00 43 01 01 D8  ..........C.C...
+02C0: 02 02 00 10 20 80 00 D5  02 03 01 10 21 80 43 00  .... .......!.C.
+02D0: 43 01 01 D8 02 05 00 00  01 09 00 21 00 22 80 23  C..........!.".#
+02E0: 80 24 80 25 80 26 80 27  80 28 80 29 80 06 02 10  .$.%.&.'.(.)....
+02F0: 02 02 80 02 80 00 35 03  24 2A 80 01 80 01 80 25  ......5.$*.....%
+0300: 02 00 10 01 80 00 0B 03  01 0B 03 02 00 10 2B 80  ..............+.
+0310: 05 20 03 14 02 10 2C 80  07 02 10 00 10 01 32 03  . ....,.......2.
+0320: 02 00 10 2C 80 00 31 03  03 02 10 00 80 1B 01 32  ...,..1........2
+0330: 03 1B 01 F0 02 1B                                 ......          
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[1] = 4294967295*
+  1: 0x0006 [0x06] ExtData[1]->WorkLocal[0] = 0
+  2: 0x0009 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x02DB
+  3: 0x0011 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[1]
+  4: 0x0016 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  5: 0x0018 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  6: 0x001A [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[9]
+  7: 0x001F [0x3E] IF !(Work_Zone[6] bit 1*) GOTO 0x0035
+  8: 0x0026 [0x03] Work_Zone_1700[0] = 1*
+  9: 0x002B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[6], bit_index_work_offset=1*, condition_work_offset=1*)
+ 10: 0x0032 [0x01] GOTO 0x003A
+ 11: 0x0035 [0x03] Work_Zone_1700[0] = 0*
+
+SUBROUTINE_003A:
+ 12: 0x003A [0x24] CREATE_DIALOG(message_id=9103*, default_option=0*, option_flags=0*)
+    → "Reception Increments: $6 sec. [[Stop/Go]FChannel P/[Stop/Go]FChannel Q/[Stop/Go]FChannel R/[Stop/Go]FChannel S/Stop all channels./Start all channels./Check World File./R Check $4./[On/Off]FEvent Switch/Quit.]"
+ 13: 0x0041 [0x25] WAIT_DIALOG_SELECT()
+ 14: 0x0042 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006F
+ 15: 0x004A [0x3E] IF !(Work_Zone[2] bit 0*) GOTO 0x005F
+ 16: 0x0051 [0x03] ExtData[1]->WorkLocal[1] = 274*
+ 17: 0x0056 [0x06] Work_Zone[2] = 0
+ 18: 0x0059 [0x48] [System] [9106*]:
+    → "Stopped new race cycle."
+ 19: 0x005C [0x01] GOTO 0x006C
+ 20: 0x005F [0x03] ExtData[1]->WorkLocal[1] = 274*
+ 21: 0x0064 [0x03] Work_Zone[2] = 1*
+ 22: 0x0069 [0x48] [System] [9105*]:
+    → "Started Race Cycle."
+
+SUBROUTINE_006C:
+ 23: 0x006C [0x01] GOTO 0x02D8
+ 24: 0x006F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x009C
+ 25: 0x0077 [0x3E] IF !(Work_Zone[3] bit 0*) GOTO 0x008C
+ 26: 0x007E [0x03] ExtData[1]->WorkLocal[1] = 530*
+ 27: 0x0083 [0x06] Work_Zone[3] = 0
+ 28: 0x0086 [0x48] [System] [9106*]:
+    → "Stopped new race cycle."
+ 29: 0x0089 [0x01] GOTO 0x0099
+ 30: 0x008C [0x03] ExtData[1]->WorkLocal[1] = 530*
+ 31: 0x0091 [0x03] Work_Zone[3] = 1*
+ 32: 0x0096 [0x48] [System] [9105*]:
+    → "Started Race Cycle."
+
+SUBROUTINE_0099:
+ 33: 0x0099 [0x01] GOTO 0x02D8
+ 34: 0x009C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00C9
+ 35: 0x00A4 [0x3E] IF !(Work_Zone[4] bit 0*) GOTO 0x00B9
+ 36: 0x00AB [0x03] ExtData[1]->WorkLocal[1] = 1042*
+ 37: 0x00B0 [0x06] Work_Zone[4] = 0
+ 38: 0x00B3 [0x48] [System] [9106*]:
+    → "Stopped new race cycle."
+ 39: 0x00B6 [0x01] GOTO 0x00C6
+ 40: 0x00B9 [0x03] ExtData[1]->WorkLocal[1] = 1042*
+ 41: 0x00BE [0x03] Work_Zone[4] = 1*
+ 42: 0x00C3 [0x48] [System] [9105*]:
+    → "Started Race Cycle."
+
+SUBROUTINE_00C6:
+ 43: 0x00C6 [0x01] GOTO 0x02D8
+ 44: 0x00C9 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00F6
+ 45: 0x00D1 [0x3E] IF !(Work_Zone[5] bit 0*) GOTO 0x00E6
+ 46: 0x00D8 [0x03] ExtData[1]->WorkLocal[1] = 2066*
+ 47: 0x00DD [0x06] Work_Zone[5] = 0
+ 48: 0x00E0 [0x48] [System] [9106*]:
+    → "Stopped new race cycle."
+ 49: 0x00E3 [0x01] GOTO 0x00F3
+ 50: 0x00E6 [0x03] ExtData[1]->WorkLocal[1] = 2066*
+ 51: 0x00EB [0x03] Work_Zone[5] = 1*
+ 52: 0x00F0 [0x48] [System] [9105*]:
+    → "Started Race Cycle."
+
+SUBROUTINE_00F3:
+ 53: 0x00F3 [0x01] GOTO 0x02D8
+ 54: 0x00F6 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0116
+ 55: 0x00FE [0x03] ExtData[1]->WorkLocal[1] = 19*
+ 56: 0x0103 [0x06] Work_Zone[2] = 0
+ 57: 0x0106 [0x06] Work_Zone[3] = 0
+ 58: 0x0109 [0x06] Work_Zone[4] = 0
+ 59: 0x010C [0x06] Work_Zone[5] = 0
+ 60: 0x010F [0x48] [System] [9106*]:
+    → "Stopped new race cycle."
+ 61: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 62: 0x0113 [0x01] GOTO 0x02D8
+ 63: 0x0116 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x013E
+ 64: 0x011E [0x03] ExtData[1]->WorkLocal[1] = 20*
+ 65: 0x0123 [0x03] Work_Zone[2] = 1*
+ 66: 0x0128 [0x03] Work_Zone[3] = 1*
+ 67: 0x012D [0x03] Work_Zone[4] = 1*
+ 68: 0x0132 [0x03] Work_Zone[5] = 1*
+ 69: 0x0137 [0x48] [System] [9105*]:
+    → "Started Race Cycle."
+ 70: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 71: 0x013B [0x01] GOTO 0x02D8
+ 72: 0x013E [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x02AD
+
+SUBROUTINE_0146:
+ 73: 0x0146 [0x02] IF !(1* == 1*) GOTO 0x02AA
+ 74: 0x014E [0x03] Work_Zone[1] = 16*
+ 75: 0x0153 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 76: 0x0155 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 77: 0x0157 [0x24] CREATE_DIALOG(message_id=9334*, default_option=0*, option_flags=0*)
+    → "Team Value Adjustments [San Victory Pts: $0/ Place: $3/Bas Victory Pts: $1/ Place: $4/Win Victory Pts: $2/ Place: $5/Give me standings report now!/Calculate now!/Quit.]"
+ 78: 0x015E [0x25] WAIT_DIALOG_SELECT()
+ 79: 0x015F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x018C
+ 80: 0x0167 [0x03] Work_Zone[1] = 273*
+ 81: 0x016C [0x1A] CALL_SUBROUTINE(address=0x02ED)
+ 82: 0x016F [0x02] IF !(Work_Zone[2] <= 3*) GOTO 0x017C
+ 83: 0x0177 [0x03] Work_Zone[2] = 3*
+ 84: 0x017C [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+ 85: 0x0185 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 86: 0x0187 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 87: 0x0189 [0x01] GOTO 0x029E
+ 88: 0x018C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B9
+ 89: 0x0194 [0x03] Work_Zone[1] = 1041*
+ 90: 0x0199 [0x1A] CALL_SUBROUTINE(address=0x02ED)
+ 91: 0x019C [0x02] IF !(Work_Zone[2] <= 65535*) GOTO 0x01A9
+ 92: 0x01A4 [0x03] Work_Zone[2] = 65535*
+ 93: 0x01A9 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+ 94: 0x01B2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 95: 0x01B4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 96: 0x01B6 [0x01] GOTO 0x029E
+ 97: 0x01B9 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x01E6
+ 98: 0x01C1 [0x03] Work_Zone[1] = 529*
+ 99: 0x01C6 [0x1A] CALL_SUBROUTINE(address=0x02ED)
+100: 0x01C9 [0x02] IF !(Work_Zone[2] <= 3*) GOTO 0x01D6
+101: 0x01D1 [0x03] Work_Zone[2] = 3*
+102: 0x01D6 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+103: 0x01DF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+104: 0x01E1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+105: 0x01E3 [0x01] GOTO 0x029E
+106: 0x01E6 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0213
+107: 0x01EE [0x03] Work_Zone[1] = 1297*
+108: 0x01F3 [0x1A] CALL_SUBROUTINE(address=0x02ED)
+109: 0x01F6 [0x02] IF !(Work_Zone[2] <= 65535*) GOTO 0x0203
+110: 0x01FE [0x03] Work_Zone[2] = 65535*
+111: 0x0203 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+112: 0x020C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+113: 0x020E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+114: 0x0210 [0x01] GOTO 0x029E
+115: 0x0213 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0240
+116: 0x021B [0x03] Work_Zone[1] = 785*
+117: 0x0220 [0x1A] CALL_SUBROUTINE(address=0x02ED)
+118: 0x0223 [0x02] IF !(Work_Zone[2] <= 3*) GOTO 0x0230
+119: 0x022B [0x03] Work_Zone[2] = 3*
+120: 0x0230 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+121: 0x0239 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+122: 0x023B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+123: 0x023D [0x01] GOTO 0x029E
+124: 0x0240 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x026D
+125: 0x0248 [0x03] Work_Zone[1] = 1553*
+126: 0x024D [0x1A] CALL_SUBROUTINE(address=0x02ED)
+127: 0x0250 [0x02] IF !(Work_Zone[2] <= 65535*) GOTO 0x025D
+128: 0x0258 [0x03] Work_Zone[2] = 65535*
+129: 0x025D [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+130: 0x0266 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+131: 0x0268 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+132: 0x026A [0x01] GOTO 0x029E
+133: 0x026D [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0284
+134: 0x0275 [0x03] Work_Zone[1] = 22*
+135: 0x027A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+136: 0x027C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+137: 0x027E [0x06] Work_Zone[2] = 0
+138: 0x0281 [0x01] GOTO 0x029E
+139: 0x0284 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x029B
+140: 0x028C [0x03] Work_Zone[1] = 21*
+141: 0x0291 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+142: 0x0293 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+143: 0x0295 [0x06] Work_Zone[2] = 0
+144: 0x0298 [0x01] GOTO 0x029E
+145: 0x029B [0x01] GOTO 0x02AA
+
+SUBROUTINE_029E:
+146: 0x029E [0x03] Work_Zone[1] = 29*
+147: 0x02A3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+148: 0x02A5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+149: 0x02A7 [0x01] GOTO 0x0146
+
+SUBROUTINE_02AA:
+150: 0x02AA [0x01] GOTO 0x02D8
+151: 0x02AD [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x02C1
+152: 0x02B5 [0x03] Work_Zone[1] = 23*
+153: 0x02BA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+154: 0x02BC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+155: 0x02BE [0x01] GOTO 0x02D8
+156: 0x02C1 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x02D5
+157: 0x02C9 [0x03] Work_Zone[1] = 24*
+158: 0x02CE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+159: 0x02D0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+160: 0x02D2 [0x01] GOTO 0x02D8
+161: 0x02D5 [0x05] ExtData[1]->WorkLocal[0] = 1
+
+SUBROUTINE_02D8:
+162: 0x02D8 [0x01] GOTO 0x0009
+163: 0x02DB [0x21] END_EVENT
+164: 0x02DC [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x02DD [0x22] ENTITY_HIDE_FLAG(enabled=0x80)
+     0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x02E0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149941284/0x80258024))
+     0x02E5 [0x26] DEPRECATED_YIELD
+     0x02E6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150137895/0x80288027))
+     0x02EB [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 34603526/0x02100206), tag_num=0x02)
+```

@@ -1,0 +1,402 @@
+# 17449503 - Phystiont
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | Garlaige Citadel [S] (ID: 164) |
+| Block Size       | 392 bytes                      |
+| Total Events     | 13                             |
+| References Count | 19                             |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [19](#event-19)          | 0x0001       |     21 |              7 |
+| [31](#event-31)          | 0x0016       |      1 |              1 |
+| [33](#event-33)          | 0x0017       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0018       |     35 |              9 |
+| [65535.2](#event-655352) | 0x003B       |     35 |              9 |
+| [65535.3](#event-655353) | 0x005E       |     21 |              2 |
+| [65535.4](#event-655354) | 0x0073       |     21 |              2 |
+| [65535.5](#event-655355) | 0x0088       |     21 |              2 |
+| [65535.6](#event-655356) | 0x009D       |     13 |              3 |
+| [65535.7](#event-655357) | 0x00AA       |     13 |              3 |
+| [65535.8](#event-655358) | 0x00B7       |     15 |              5 |
+| [65535.9](#event-655359) | 0x00C6       |     50 |             10 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1E09      |        7689 |
+|       1 | 0x0028      |          40 |
+|       2 | 0x000D      |          13 |
+|       3 | 0x0003      |           3 |
+|       4 | 0x000E      |          14 |
+|       5 | 0x000C      |          12 |
+|       6 | 0x00FB      |         251 |
+|       7 | 0x001B      |          27 |
+|       8 | 0x007C      |         124 |
+|       9 | 0x0015      |          21 |
+|      10 | 0x0000      |           0 |
+|      11 | 0x0038      |          56 |
+|      12 | 0x010E      |         270 |
+|      13 | 0x002B      |          43 |
+|      14 | 0x0002      |           2 |
+|      15 | 0xFFFFBE8A  |  4294950538 |
+|      16 | 0xFFFBCEC6  |  4294692550 |
+|      17 | 0xFFFFFFAE  |  4294967214 |
+|      18 | 0x0516      |        1302 |
+
+## String References
+
+- **7689**: Have you seen any of the accursed "maws," as they are being called? The apparitions floating about with those gaping jowls. I heard that in Jeuno they are trying desperately to figure out exactly what they are.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 19
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 21 bytes |
+| Instructions | 7        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    4A F8 FF FF 7F F0 FF  FF 7F 6F 76 F8 FF FF 7F   J........ov....
+0010: 1D 00 80 23 21 00                                 ...#!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
+  1: 0x000A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x000B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
+    → "Have you seen any of the accursed "maws," as they are being called? The apparitions floating about with those gaping jowls. I heard that in Jeuno they are trying desperately to figure out exactly what they are."
+  4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0014 [0x21] END_EVENT
+  6: 0x0015 [0x00] END_REQSTACK()
+```
+
+### Event 31
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0016  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                   00                                    .         
+```
+
+#### Opcodes
+
+```
+  0: 0x0016 [0x00] END_REQSTACK()
+```
+
+### Event 33
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0017  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                      00                                  .        
+```
+
+#### Opcodes
+
+```
+  0: 0x0017 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0018   |
+| Data Size    | 35 bytes |
+| Instructions | 9        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                          03 00 00 25 10 03 02 00          ...%....
+0020: 27 10 03 01 00 26 10 03  03 00 28 10 32 01 80 1F  '....&....(.2...
+0030: 00 00 00 02 00 01 00 1F  01 6F 00                 .........o.     
+```
+
+#### Opcodes
+
+```
+  0: 0x0018 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[37]
+  1: 0x001D [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[39]
+  2: 0x0022 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[38]
+  3: 0x0027 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[40]
+  4: 0x002C [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  5: 0x002F [0x1F] MOVE_ENTITY: EventEntity moves to X=ExtData[1]->WorkLocal[0], Z=ExtData[1]->WorkLocal[2], Y=ExtData[1]->WorkLocal[1]
+  6: 0x0037 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  7: 0x0039 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  8: 0x003A [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x003B   |
+| Data Size    | 35 bytes |
+| Instructions | 9        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:                                   03 00 00 25 10             ...%.
+0040: 03 02 00 27 10 03 01 00  26 10 03 03 00 28 10 32  ...'....&....(.2
+0050: 02 80 1F 00 00 00 02 00  01 00 1F 01 6F 00        ............o.  
+```
+
+#### Opcodes
+
+```
+  0: 0x003B [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[37]
+  1: 0x0040 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[39]
+  2: 0x0045 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[38]
+  3: 0x004A [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[40]
+  4: 0x004F [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  5: 0x0052 [0x1F] MOVE_ENTITY: EventEntity moves to X=ExtData[1]->WorkLocal[0], Z=ExtData[1]->WorkLocal[2], Y=ExtData[1]->WorkLocal[1]
+  6: 0x005A [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  7: 0x005C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  8: 0x005D [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x005E   |
+| Data Size    | 21 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:                                            B6 0B                ..
+0060: 03 80 04 80 05 80 05 80  05 80 05 80 05 80 06 80  ................
+0070: 07 80 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x005E [0xB6] ENTITY_APPEARANCE_HANDLER(case=Full entity look, race=3*, hair=14*, head=12*, body=12*, hands=12*, legs=12*, feet=12*, main=251*, sub=27*)
+  1: 0x0072 [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0073   |
+| Data Size    | 21 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0070:          B6 0B 03 80 04  80 08 80 08 80 09 80 09     .............
+0080: 80 09 80 0A 80 0A 80 00                           ........        
+```
+
+#### Opcodes
+
+```
+  0: 0x0073 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Full entity look, race=3*, hair=14*, head=124*, body=124*, hands=21*, legs=21*, feet=21*, main=0*, sub=0*)
+  1: 0x0087 [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0088   |
+| Data Size    | 21 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0080:                          B6 0B 03 80 04 80 0B 80          ........
+0090: 05 80 05 80 05 80 05 80  0C 80 07 80 00           .............   
+```
+
+#### Opcodes
+
+```
+  0: 0x0088 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Full entity look, race=3*, hair=14*, head=56*, body=12*, hands=12*, legs=12*, feet=12*, main=270*, sub=27*)
+  1: 0x009C [0x00] END_REQSTACK()
+```
+
+### Event 65535.6
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x009D   |
+| Data Size    | 13 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0090:                                         6E F8 FF               n..
+00A0: FF 7F 0D 80 99 F8 FF FF  7F 00                    ..........      
+```
+
+#### Opcodes
+
+```
+  0: 0x009D [0x6E] EventEntity uses emote 43*
+  1: 0x00A4 [0x99] Wait for EventEntity animation to complete
+  2: 0x00A9 [0x00] END_REQSTACK()
+```
+
+### Event 65535.7
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00AA   |
+| Data Size    | 13 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00A0:                                6E F8 FF FF 7F 0E            n.....
+00B0: 80 99 F8 FF FF 7F 00                              .......         
+```
+
+#### Opcodes
+
+```
+  0: 0x00AA [0x6E] EventEntity uses emote 2*
+  1: 0x00B1 [0x99] Wait for EventEntity animation to complete
+  2: 0x00B6 [0x00] END_REQSTACK()
+```
+
+### Event 65535.8
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00B7   |
+| Data Size    | 15 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00B0:                      32  01 80 1F 00 0F 80 10 80         2........
+00C0: 11 80 1F 01 6F 00                                 ....o.          
+```
+
+#### Opcodes
+
+```
+  0: 0x00B7 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x00BA [0x1F] MOVE_ENTITY: EventEntity moves to X=-16.758*, Z=-274.746*, Y=-0.082*
+  2: 0x00C2 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x00C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x00C5 [0x00] END_REQSTACK()
+```
+
+### Event 65535.9
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00C6   |
+| Data Size    | 50 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00C0:                   32 01  80 1F 00 0F 80 10 80 11        2.........
+00D0: 80 1F 01 6F 4A 1F 42 0A  01 44 42 0A 01 7B 1F 42  ...oJ.B..DB..{.B
+00E0: 0A 01 6F 76 1F 42 0A 01  5B 12 80 1F 42 0A 01 1F  ..ov.B..[...B...
+00F0: 42 0A 01 6C 62 74 30 00                           B..lbt0.        
+```
+
+#### Opcodes
+
+```
+  0: 0x00C6 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x00C9 [0x1F] MOVE_ENTITY: EventEntity moves to X=-16.758*, Z=-274.746*, Y=-0.082*
+  2: 0x00D1 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x00D3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x00D4 [0x4A] Phystiont (ID: 17449503/0x010A421F) looks at C (ID: 17449540/0x010A4244)
+  5: 0x00DD [0x7B] Phystiont (ID: 17449503/0x010A421F) stops talking
+  6: 0x00E2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  7: 0x00E3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Phystiont (ID: 17449503/0x010A421F) Render.Flags0 and Render.Flags3 conditions are met
+  8: 0x00E8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "lbt0" with entities [Phystiont (ID: 17449503/0x010A421F), Phystiont (ID: 17449503/0x010A421F)], work=1302*
+  9: 0x00F7 [0x00] END_REQSTACK()
+```

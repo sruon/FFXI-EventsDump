@@ -1,0 +1,1404 @@
+# 17162683 - Wenonah CA
+
+## Common Data
+
+| Field            | Value                        |
+|------------------|------------------------------|
+| Zone             | Windurst Waters [S] (ID: 94) |
+| Block Size       | 4160 bytes                   |
+| Total Events     | 6                            |
+| References Count | 38                           |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [168](#event-168)     | 0x0001       |      7 |              2 |
+| [32](#event-32)       | 0x0008       |      1 |              1 |
+| [530](#event-530)     | 0x0009       |      1 |              1 |
+| [459](#event-459)     | 0x000A       |     15 |              8 |
+| [458](#event-458)     | 0x0019       |   3942 |            791 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1C05      |        7173 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x1C06      |        7174 |
+|       3 | 0x1C07      |        7175 |
+|       4 | 0x1C08      |        7176 |
+|       5 | 0x0001      |           1 |
+|       6 | 0x1C0A      |        7178 |
+|       7 | 0x1C0D      |        7181 |
+|       8 | 0x1C0B      |        7179 |
+|       9 | 0x1C0C      |        7180 |
+|      10 | 0x007A      |         122 |
+|      11 | 0x0104      |         260 |
+|      12 | 0x00C8      |         200 |
+|      13 | 0x003C      |          60 |
+|      14 | 0x0002      |           2 |
+|      15 | 0x0003      |           3 |
+|      16 | 0x0004      |           4 |
+|      17 | 0x0005      |           5 |
+|      18 | 0x0006      |           6 |
+|      19 | 0x0007      |           7 |
+|      20 | 0x0008      |           8 |
+|      21 | 0x0009      |           9 |
+|      22 | 0x000A      |          10 |
+|      23 | 0x000B      |          11 |
+|      24 | 0x000C      |          12 |
+|      25 | 0x000D      |          13 |
+|      26 | 0x000E      |          14 |
+|      27 | 0x000F      |          15 |
+|      28 | 0x0010      |          16 |
+|      29 | 0x0011      |          17 |
+|      30 | 0x0012      |          18 |
+|      31 | 0x0013      |          19 |
+|      32 | 0x0014      |          20 |
+|      33 | 0x0032      |          50 |
+|      34 | 0xFFFFFFFF  |  4294967295 |
+|      35 | 0x0017      |          23 |
+|      36 | 0x0018      |          24 |
+|      37 | 0x001B      |          27 |
+
+## String References
+
+- **7173**: What are you doing here? This is no place for civilians.
+- **7174**: Greetings. I am %, Campaign Arbiter for the Allied Forces.
+- **7175**: To ensure prompt transportation to the frontlines, I have been given clearance to teleport troops to locations on the Quon and Mindartia theaters.
+- **7176**: Please select a destination: [I do not require your services./Xarcabard [y|z/ySanz/yBasz/yWinz/yBstz]/Beaucedine Glacier[y|z/ySanz/yBasz/yWinz/yBstz]/Batallia Downs [y|z/ySanz/yBasz/yWinz/yBstz]/Rolanberry Fields [y|z/ySanz/yBasz/yWinz/yBstz]/Sauromugue Champaign [y|z/ySanz/yBasz/yWinz/yBstz]/Jugner Forest [y|z/ySanz/yBasz/yWinz/yBstz]/Pashhow Marshlands [y|z/ySanz/yBasz/yWinz/yBstz]/Meriphataud Mountains [y|z/ySanz/yBasz/yWinz/yBstz]/Vunkerl Inlet [y|z/ySanz/yBasz/yWinz/yBstz]/Grauberg [y|z/ySanz/yBasz/yWinz/yBstz]/Fort Karugo-Narugo [y|z/ySanz/yBasz/yWinz/yBstz]/East Ronfaure [y|z/ySanz/yBasz/yWinz/yBstz]/North Gustaberg [y|z/ySanz/yBasz/yWinz/yBstz]/West Sarutabaruta [y|z/ySanz/yBasz/yWinz/yBstz]/Southern San d'Oria [y|z/ySanz/yBasz/yWinz/yBstz]/Bastok Markets [y|z/ySanz/yBasz/yWinz/yBstz]/Windurst Waters [y|z/ySanz/yBasz/yWinz/yBstz]/Garlaige Citadel [y|z/ySanz/yBasz/yWinz/yBstz]/Crawlers' Nest [y|z/ySanz/yBasz/yWinz/yBstz]/Eldieme Necropolis [y|z/ySanz/yBasz/yWinz/yBstz]]
+- **7178**: I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2.
+- **7179**: Complete the transaction? [Yes./Not at this time.]
+- **7180**: Understood.
+- **7181**: I am sorry. You do not have enough Allied Notes.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 168
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 7 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    92 01 F8 FF FF 7F 00                            .......        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x92] EventEntity->Render.Flags3 ^= 0x01
+  1: 0x0007 [0x00] END_REQSTACK()
+```
+
+### Event 32
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0008  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                          00                               .       
+```
+
+#### Opcodes
+
+```
+  0: 0x0008 [0x00] END_REQSTACK()
+```
+
+### Event 530
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0009  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                             00                             .      
+```
+
+#### Opcodes
+
+```
+  0: 0x0009 [0x00] END_REQSTACK()
+```
+
+### Event 459
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x000A   |
+| Data Size    | 15 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                20 01 1E F0 FF FF             .....
+0010: 7F 6F 70 1D 00 80 23 21  00                       .op...#!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x000A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x0012 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7173*)
+    → "What are you doing here? This is no place for civilians."
+  5: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0017 [0x21] END_EVENT
+  7: 0x0018 [0x00] END_REQSTACK()
+```
+
+### Event 458
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0019     |
+| Data Size    | 3942 bytes |
+| Instructions | 791        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                             03 03 00 02 10 03 04           .......
+0020: 00 03 10 03 05 00 04 10  20 01 1E F0 FF FF 7F 6F  ........ ......o
+0030: 70 03 00 00 01 80 1A 3B  09 1D 02 80 23 1D 03 80  p......;....#...
+0040: 23 24 04 80 01 80 00 00  25 02 00 10 01 80 00 54  #$......%......T
+0050: 00 01 39 09 02 00 10 05  80 00 D8 00 03 01 10 05  ..9.............
+0060: 80 43 00 43 01 42 03 06  00 03 10 03 04 10 05 00  .C.C.B..........
+0070: 03 02 10 06 00 1D 06 80  23 02 05 00 06 00 03 8D  ........#.......
+0080: 00 48 07 80 23 03 01 10  01 80 01 D5 00 24 08 80  .H..#........$..
+0090: 05 80 01 80 25 02 00 10  01 80 00 C5 00 1D 09 80  ....%...........
+00A0: 73 0A 80 F8 FF FF 7F F0  FF FF 7F 1C 0B 80 45 0C  s.............E.
+00B0: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 01 80 1C  .........fdo1...
+00C0: 0D 80 01 D5 00 02 00 10  05 80 00 D5 00 03 01 10  ................
+00D0: 01 80 01 D5 00 01 39 09  02 00 10 0E 80 00 5C 01  ......9.......\.
+00E0: 03 01 10 0E 80 43 00 43  01 42 03 06 00 03 10 03  .....C.C.B......
+00F0: 04 10 05 00 03 02 10 06  00 1D 06 80 23 02 05 00  ............#...
+0100: 06 00 03 11 01 48 07 80  23 03 01 10 01 80 01 59  .....H..#......Y
+0110: 01 24 08 80 05 80 01 80  25 02 00 10 01 80 00 49  .$......%......I
+0120: 01 1D 09 80 73 0A 80 F8  FF FF 7F F0 FF FF 7F 1C  ....s...........
+0130: 0B 80 45 0C 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..E..........fdo
+0140: 31 01 80 1C 0D 80 01 59  01 02 00 10 05 80 00 59  1......Y.......Y
+0150: 01 03 01 10 01 80 01 59  01 01 39 09 02 00 10 0F  .......Y..9.....
+0160: 80 00 E0 01 03 01 10 0F  80 43 00 43 01 42 03 06  .........C.C.B..
+0170: 00 03 10 03 04 10 05 00  03 02 10 06 00 1D 06 80  ................
+0180: 23 02 05 00 06 00 03 95  01 48 07 80 23 03 01 10  #........H..#...
+0190: 01 80 01 DD 01 24 08 80  05 80 01 80 25 02 00 10  .....$......%...
+01A0: 01 80 00 CD 01 1D 09 80  73 0A 80 F8 FF FF 7F F0  ........s.......
+01B0: FF FF 7F 1C 0B 80 45 0C  80 F0 FF FF 7F F0 FF FF  ......E.........
+01C0: 7F 66 64 6F 31 01 80 1C  0D 80 01 DD 01 02 00 10  .fdo1...........
+01D0: 05 80 00 DD 01 03 01 10  01 80 01 DD 01 01 39 09  ..............9.
+01E0: 02 00 10 10 80 00 64 02  03 01 10 10 80 43 00 43  ......d......C.C
+01F0: 01 42 03 06 00 03 10 03  04 10 05 00 03 02 10 06  .B..............
+0200: 00 1D 06 80 23 02 05 00  06 00 03 19 02 48 07 80  ....#........H..
+0210: 23 03 01 10 01 80 01 61  02 24 08 80 05 80 01 80  #......a.$......
+0220: 25 02 00 10 01 80 00 51  02 1D 09 80 73 0A 80 F8  %......Q....s...
+0230: FF FF 7F F0 FF FF 7F 1C  0B 80 45 0C 80 F0 FF FF  ..........E.....
+0240: 7F F0 FF FF 7F 66 64 6F  31 01 80 1C 0D 80 01 61  .....fdo1......a
+0250: 02 02 00 10 05 80 00 61  02 03 01 10 01 80 01 61  .......a.......a
+0260: 02 01 39 09 02 00 10 11  80 00 E8 02 03 01 10 11  ..9.............
+0270: 80 43 00 43 01 42 03 06  00 03 10 03 04 10 05 00  .C.C.B..........
+0280: 03 02 10 06 00 1D 06 80  23 02 05 00 06 00 03 9D  ........#.......
+0290: 02 48 07 80 23 03 01 10  01 80 01 E5 02 24 08 80  .H..#........$..
+02A0: 05 80 01 80 25 02 00 10  01 80 00 D5 02 1D 09 80  ....%...........
+02B0: 73 0A 80 F8 FF FF 7F F0  FF FF 7F 1C 0B 80 45 0C  s.............E.
+02C0: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 01 80 1C  .........fdo1...
+02D0: 0D 80 01 E5 02 02 00 10  05 80 00 E5 02 03 01 10  ................
+02E0: 01 80 01 E5 02 01 39 09  02 00 10 12 80 00 6C 03  ......9.......l.
+02F0: 03 01 10 12 80 43 00 43  01 42 03 06 00 03 10 03  .....C.C.B......
+0300: 04 10 05 00 03 02 10 06  00 1D 06 80 23 02 05 00  ............#...
+0310: 06 00 03 21 03 48 07 80  23 03 01 10 01 80 01 69  ...!.H..#......i
+0320: 03 24 08 80 05 80 01 80  25 02 00 10 01 80 00 59  .$......%......Y
+0330: 03 1D 09 80 73 0A 80 F8  FF FF 7F F0 FF FF 7F 1C  ....s...........
+0340: 0B 80 45 0C 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..E..........fdo
+0350: 31 01 80 1C 0D 80 01 69  03 02 00 10 05 80 00 69  1......i.......i
+0360: 03 03 01 10 01 80 01 69  03 01 39 09 02 00 10 13  .......i..9.....
+0370: 80 00 F0 03 03 01 10 13  80 43 00 43 01 42 03 06  .........C.C.B..
+0380: 00 03 10 03 04 10 05 00  03 02 10 06 00 1D 06 80  ................
+0390: 23 02 05 00 06 00 03 A5  03 48 07 80 23 03 01 10  #........H..#...
+03A0: 01 80 01 ED 03 24 08 80  05 80 01 80 25 02 00 10  .....$......%...
+03B0: 01 80 00 DD 03 1D 09 80  73 0A 80 F8 FF FF 7F F0  ........s.......
+03C0: FF FF 7F 1C 0B 80 45 0C  80 F0 FF FF 7F F0 FF FF  ......E.........
+03D0: 7F 66 64 6F 31 01 80 1C  0D 80 01 ED 03 02 00 10  .fdo1...........
+03E0: 05 80 00 ED 03 03 01 10  01 80 01 ED 03 01 39 09  ..............9.
+03F0: 02 00 10 14 80 00 74 04  03 01 10 14 80 43 00 43  ......t......C.C
+0400: 01 42 03 06 00 03 10 03  04 10 05 00 03 02 10 06  .B..............
+0410: 00 1D 06 80 23 02 05 00  06 00 03 29 04 48 07 80  ....#......).H..
+0420: 23 03 01 10 01 80 01 71  04 24 08 80 05 80 01 80  #......q.$......
+0430: 25 02 00 10 01 80 00 61  04 1D 09 80 73 0A 80 F8  %......a....s...
+0440: FF FF 7F F0 FF FF 7F 1C  0B 80 45 0C 80 F0 FF FF  ..........E.....
+0450: 7F F0 FF FF 7F 66 64 6F  31 01 80 1C 0D 80 01 71  .....fdo1......q
+0460: 04 02 00 10 05 80 00 71  04 03 01 10 01 80 01 71  .......q.......q
+0470: 04 01 39 09 02 00 10 15  80 00 F8 04 03 01 10 15  ..9.............
+0480: 80 43 00 43 01 42 03 06  00 03 10 03 04 10 05 00  .C.C.B..........
+0490: 03 02 10 06 00 1D 06 80  23 02 05 00 06 00 03 AD  ........#.......
+04A0: 04 48 07 80 23 03 01 10  01 80 01 F5 04 24 08 80  .H..#........$..
+04B0: 05 80 01 80 25 02 00 10  01 80 00 E5 04 1D 09 80  ....%...........
+04C0: 73 0A 80 F8 FF FF 7F F0  FF FF 7F 1C 0B 80 45 0C  s.............E.
+04D0: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 01 80 1C  .........fdo1...
+04E0: 0D 80 01 F5 04 02 00 10  05 80 00 F5 04 03 01 10  ................
+04F0: 01 80 01 F5 04 01 39 09  02 00 10 16 80 00 7C 05  ......9.......|.
+0500: 03 01 10 16 80 43 00 43  01 42 03 06 00 03 10 03  .....C.C.B......
+0510: 04 10 05 00 03 02 10 06  00 1D 06 80 23 02 05 00  ............#...
+0520: 06 00 03 31 05 48 07 80  23 03 01 10 01 80 01 79  ...1.H..#......y
+0530: 05 24 08 80 05 80 01 80  25 02 00 10 01 80 00 69  .$......%......i
+0540: 05 1D 09 80 73 0A 80 F8  FF FF 7F F0 FF FF 7F 1C  ....s...........
+0550: 0B 80 45 0C 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..E..........fdo
+0560: 31 01 80 1C 0D 80 01 79  05 02 00 10 05 80 00 79  1......y.......y
+0570: 05 03 01 10 01 80 01 79  05 01 39 09 02 00 10 17  .......y..9.....
+0580: 80 00 00 06 03 01 10 17  80 43 00 43 01 42 03 06  .........C.C.B..
+0590: 00 03 10 03 04 10 05 00  03 02 10 06 00 1D 06 80  ................
+05A0: 23 02 05 00 06 00 03 B5  05 48 07 80 23 03 01 10  #........H..#...
+05B0: 01 80 01 FD 05 24 08 80  05 80 01 80 25 02 00 10  .....$......%...
+05C0: 01 80 00 ED 05 1D 09 80  73 0A 80 F8 FF FF 7F F0  ........s.......
+05D0: FF FF 7F 1C 0B 80 45 0C  80 F0 FF FF 7F F0 FF FF  ......E.........
+05E0: 7F 66 64 6F 31 01 80 1C  0D 80 01 FD 05 02 00 10  .fdo1...........
+05F0: 05 80 00 FD 05 03 01 10  01 80 01 FD 05 01 39 09  ..............9.
+0600: 02 00 10 18 80 00 84 06  03 01 10 18 80 43 00 43  .............C.C
+0610: 01 42 03 06 00 03 10 03  04 10 05 00 03 02 10 06  .B..............
+0620: 00 1D 06 80 23 02 05 00  06 00 03 39 06 48 07 80  ....#......9.H..
+0630: 23 03 01 10 01 80 01 81  06 24 08 80 05 80 01 80  #........$......
+0640: 25 02 00 10 01 80 00 71  06 1D 09 80 73 0A 80 F8  %......q....s...
+0650: FF FF 7F F0 FF FF 7F 1C  0B 80 45 0C 80 F0 FF FF  ..........E.....
+0660: 7F F0 FF FF 7F 66 64 6F  31 01 80 1C 0D 80 01 81  .....fdo1.......
+0670: 06 02 00 10 05 80 00 81  06 03 01 10 01 80 01 81  ................
+0680: 06 01 39 09 02 00 10 19  80 00 08 07 03 01 10 19  ..9.............
+0690: 80 43 00 43 01 42 03 06  00 03 10 03 04 10 05 00  .C.C.B..........
+06A0: 03 02 10 06 00 1D 06 80  23 02 05 00 06 00 03 BD  ........#.......
+06B0: 06 48 07 80 23 03 01 10  01 80 01 05 07 24 08 80  .H..#........$..
+06C0: 05 80 01 80 25 02 00 10  01 80 00 F5 06 1D 09 80  ....%...........
+06D0: 73 0A 80 F8 FF FF 7F F0  FF FF 7F 1C 0B 80 45 0C  s.............E.
+06E0: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 01 80 1C  .........fdo1...
+06F0: 0D 80 01 05 07 02 00 10  05 80 00 05 07 03 01 10  ................
+0700: 01 80 01 05 07 01 39 09  02 00 10 1A 80 00 8C 07  ......9.........
+0710: 03 01 10 1A 80 43 00 43  01 42 03 06 00 03 10 03  .....C.C.B......
+0720: 04 10 05 00 03 02 10 06  00 1D 06 80 23 02 05 00  ............#...
+0730: 06 00 03 41 07 48 07 80  23 03 01 10 01 80 01 89  ...A.H..#.......
+0740: 07 24 08 80 05 80 01 80  25 02 00 10 01 80 00 79  .$......%......y
+0750: 07 1D 09 80 73 0A 80 F8  FF FF 7F F0 FF FF 7F 1C  ....s...........
+0760: 0B 80 45 0C 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..E..........fdo
+0770: 31 01 80 1C 0D 80 01 89  07 02 00 10 05 80 00 89  1...............
+0780: 07 03 01 10 01 80 01 89  07 01 39 09 02 00 10 1B  ..........9.....
+0790: 80 00 97 07 01 39 09 02  00 10 1C 80 00 A2 07 01  .....9..........
+07A0: 39 09 02 00 10 1D 80 00  AD 07 01 39 09 02 00 10  9..........9....
+07B0: 1E 80 00 31 08 03 01 10  1E 80 43 00 43 01 42 03  ...1......C.C.B.
+07C0: 06 00 03 10 03 04 10 05  00 03 02 10 06 00 1D 06  ................
+07D0: 80 23 02 05 00 06 00 03  E6 07 48 07 80 23 03 01  .#........H..#..
+07E0: 10 01 80 01 2E 08 24 08  80 05 80 01 80 25 02 00  ......$......%..
+07F0: 10 01 80 00 1E 08 1D 09  80 73 0A 80 F8 FF FF 7F  .........s......
+0800: F0 FF FF 7F 1C 0B 80 45  0C 80 F0 FF FF 7F F0 FF  .......E........
+0810: FF 7F 66 64 6F 31 01 80  1C 0D 80 01 2E 08 02 00  ..fdo1..........
+0820: 10 05 80 00 2E 08 03 01  10 01 80 01 2E 08 01 39  ...............9
+0830: 09 02 00 10 1F 80 00 B5  08 03 01 10 1F 80 43 00  ..............C.
+0840: 43 01 42 03 06 00 03 10  03 04 10 05 00 03 02 10  C.B.............
+0850: 06 00 1D 06 80 23 02 05  00 06 00 03 6A 08 48 07  .....#......j.H.
+0860: 80 23 03 01 10 01 80 01  B2 08 24 08 80 05 80 01  .#........$.....
+0870: 80 25 02 00 10 01 80 00  A2 08 1D 09 80 73 0A 80  .%...........s..
+0880: F8 FF FF 7F F0 FF FF 7F  1C 0B 80 45 0C 80 F0 FF  ...........E....
+0890: FF 7F F0 FF FF 7F 66 64  6F 31 01 80 1C 0D 80 01  ......fdo1......
+08A0: B2 08 02 00 10 05 80 00  B2 08 03 01 10 01 80 01  ................
+08B0: B2 08 01 39 09 02 00 10  20 80 00 39 09 03 01 10  ...9.... ..9....
+08C0: 20 80 43 00 43 01 42 03  06 00 03 10 03 04 10 05   .C.C.B.........
+08D0: 00 03 02 10 06 00 1D 06  80 23 02 05 00 06 00 03  .........#......
+08E0: EE 08 48 07 80 23 03 01  10 01 80 01 36 09 24 08  ..H..#......6.$.
+08F0: 80 05 80 01 80 25 02 00  10 01 80 00 26 09 1D 09  .....%......&...
+0900: 80 73 0A 80 F8 FF FF 7F  F0 FF FF 7F 1C 0B 80 45  .s.............E
+0910: 0C 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 01 80  ..........fdo1..
+0920: 1C 0D 80 01 36 09 02 00  10 05 80 00 36 09 03 01  ....6.......6...
+0930: 10 01 80 01 36 09 01 39  09 21 00 03 01 10 21 80  ....6..9.!....!.
+0940: 43 00 43 01 0F 02 10 22  80 0E 00 00 02 10 03 08  C.C...."........
+0950: 00 03 10 03 09 00 04 10  03 0A 00 05 10 41 01 80  .............A..
+0960: 0F 80 08 00 03 10 41 10  80 13 80 08 00 04 10 41  ......A........A
+0970: 14 80 17 80 08 00 05 10  41 18 80 1B 80 08 00 06  ........A.......
+0980: 10 41 1C 80 1F 80 08 00  07 10 41 20 80 23 80 08  .A........A .#..
+0990: 00 08 10 41 24 80 25 80  08 00 09 10 02 03 10 01  ...A$.%.........
+09A0: 80 80 AC 09 03 03 17 01  80 01 E1 09 02 03 10 05  ................
+09B0: 80 80 BC 09 03 03 17 05  80 01 E1 09 02 03 10 0E  ................
+09C0: 80 80 CC 09 03 03 17 0E  80 01 E1 09 02 03 10 0F  ................
+09D0: 80 80 DC 09 03 03 17 0F  80 01 E1 09 03 03 17 10  ................
+09E0: 80 02 04 10 01 80 80 F1  09 03 04 17 01 80 01 26  ...............&
+09F0: 0A 02 04 10 05 80 80 01  0A 03 04 17 05 80 01 26  ...............&
+0A00: 0A 02 04 10 0E 80 80 11  0A 03 04 17 0E 80 01 26  ...............&
+0A10: 0A 02 04 10 0F 80 80 21  0A 03 04 17 0F 80 01 26  .......!.......&
+0A20: 0A 03 04 17 10 80 02 05  10 01 80 80 36 0A 03 05  ............6...
+0A30: 17 01 80 01 6B 0A 02 05  10 05 80 80 46 0A 03 05  ....k.......F...
+0A40: 17 05 80 01 6B 0A 02 05  10 0E 80 80 56 0A 03 05  ....k.......V...
+0A50: 17 0E 80 01 6B 0A 02 05  10 0F 80 80 66 0A 03 05  ....k.......f...
+0A60: 17 0F 80 01 6B 0A 03 05  17 10 80 02 06 10 01 80  ....k...........
+0A70: 80 7B 0A 03 06 17 01 80  01 B0 0A 02 06 10 05 80  .{..............
+0A80: 80 8B 0A 03 06 17 05 80  01 B0 0A 02 06 10 0E 80  ................
+0A90: 80 9B 0A 03 06 17 0E 80  01 B0 0A 02 06 10 0F 80  ................
+0AA0: 80 AB 0A 03 06 17 0F 80  01 B0 0A 03 06 17 10 80  ................
+0AB0: 02 07 10 01 80 80 C0 0A  03 07 17 01 80 01 F5 0A  ................
+0AC0: 02 07 10 05 80 80 D0 0A  03 07 17 05 80 01 F5 0A  ................
+0AD0: 02 07 10 0E 80 80 E0 0A  03 07 17 0E 80 01 F5 0A  ................
+0AE0: 02 07 10 0F 80 80 F0 0A  03 07 17 0F 80 01 F5 0A  ................
+0AF0: 03 07 17 10 80 02 08 10  01 80 80 05 0B 03 08 17  ................
+0B00: 01 80 01 3A 0B 02 08 10  05 80 80 15 0B 03 08 17  ...:............
+0B10: 05 80 01 3A 0B 02 08 10  0E 80 80 25 0B 03 08 17  ...:.......%....
+0B20: 0E 80 01 3A 0B 02 08 10  0F 80 80 35 0B 03 08 17  ...:.......5....
+0B30: 0F 80 01 3A 0B 03 08 17  10 80 02 09 10 01 80 80  ...:............
+0B40: 4A 0B 03 09 17 01 80 01  7F 0B 02 09 10 05 80 80  J...............
+0B50: 5A 0B 03 09 17 05 80 01  7F 0B 02 09 10 0E 80 80  Z...............
+0B60: 6A 0B 03 09 17 0E 80 01  7F 0B 02 09 10 0F 80 80  j...............
+0B70: 7A 0B 03 09 17 0F 80 01  7F 0B 03 09 17 10 80 41  z..............A
+0B80: 01 80 0F 80 09 00 03 10  41 10 80 13 80 09 00 04  ........A.......
+0B90: 10 41 14 80 17 80 09 00  05 10 41 18 80 1B 80 09  .A........A.....
+0BA0: 00 06 10 41 1C 80 1F 80  09 00 07 10 41 20 80 23  ...A........A .#
+0BB0: 80 09 00 08 10 41 24 80  25 80 09 00 09 10 02 03  .....A$.%.......
+0BC0: 10 01 80 80 CE 0B 03 0A  17 01 80 01 03 0C 02 03  ................
+0BD0: 10 05 80 80 DE 0B 03 0A  17 05 80 01 03 0C 02 03  ................
+0BE0: 10 0E 80 80 EE 0B 03 0A  17 0E 80 01 03 0C 02 03  ................
+0BF0: 10 0F 80 80 FE 0B 03 0A  17 0F 80 01 03 0C 03 0A  ................
+0C00: 17 10 80 02 04 10 01 80  80 13 0C 03 0B 17 01 80  ................
+0C10: 01 48 0C 02 04 10 05 80  80 23 0C 03 0B 17 05 80  .H.......#......
+0C20: 01 48 0C 02 04 10 0E 80  80 33 0C 03 0B 17 0E 80  .H.......3......
+0C30: 01 48 0C 02 04 10 0F 80  80 43 0C 03 0B 17 0F 80  .H.......C......
+0C40: 01 48 0C 03 0B 17 10 80  02 05 10 01 80 80 58 0C  .H............X.
+0C50: 03 0C 17 01 80 01 8D 0C  02 05 10 05 80 80 68 0C  ..............h.
+0C60: 03 0C 17 05 80 01 8D 0C  02 05 10 0E 80 80 78 0C  ..............x.
+0C70: 03 0C 17 0E 80 01 8D 0C  02 05 10 0F 80 80 88 0C  ................
+0C80: 03 0C 17 0F 80 01 8D 0C  03 0C 17 10 80 02 06 10  ................
+0C90: 01 80 80 9D 0C 03 0D 17  01 80 01 D2 0C 02 06 10  ................
+0CA0: 05 80 80 AD 0C 03 0D 17  05 80 01 D2 0C 02 06 10  ................
+0CB0: 0E 80 80 BD 0C 03 0D 17  0E 80 01 D2 0C 02 06 10  ................
+0CC0: 0F 80 80 CD 0C 03 0D 17  0F 80 01 D2 0C 03 0D 17  ................
+0CD0: 10 80 02 07 10 01 80 80  E2 0C 03 0E 17 01 80 01  ................
+0CE0: 17 0D 02 07 10 05 80 80  F2 0C 03 0E 17 05 80 01  ................
+0CF0: 17 0D 02 07 10 0E 80 80  02 0D 03 0E 17 0E 80 01  ................
+0D00: 17 0D 02 07 10 0F 80 80  12 0D 03 0E 17 0F 80 01  ................
+0D10: 17 0D 03 0E 17 10 80 02  08 10 01 80 80 27 0D 03  .............'..
+0D20: 0F 17 01 80 01 5C 0D 02  08 10 05 80 80 37 0D 03  .....\.......7..
+0D30: 0F 17 05 80 01 5C 0D 02  08 10 0E 80 80 47 0D 03  .....\.......G..
+0D40: 0F 17 0E 80 01 5C 0D 02  08 10 0F 80 80 57 0D 03  .....\.......W..
+0D50: 0F 17 0F 80 01 5C 0D 03  0F 17 10 80 02 09 10 01  .....\..........
+0D60: 80 80 6C 0D 03 10 17 01  80 01 A1 0D 02 09 10 05  ..l.............
+0D70: 80 80 7C 0D 03 10 17 05  80 01 A1 0D 02 09 10 0E  ..|.............
+0D80: 80 80 8C 0D 03 10 17 0E  80 01 A1 0D 02 09 10 0F  ................
+0D90: 80 80 9C 0D 03 10 17 0F  80 01 A1 0D 03 10 17 10  ................
+0DA0: 80 41 01 80 0F 80 0A 00  03 10 41 10 80 13 80 0A  .A........A.....
+0DB0: 00 04 10 41 14 80 17 80  0A 00 05 10 41 18 80 1B  ...A........A...
+0DC0: 80 0A 00 06 10 41 1C 80  1F 80 0A 00 07 10 41 20  .....A........A 
+0DD0: 80 23 80 0A 00 08 10 41  24 80 25 80 0A 00 09 10  .#.....A$.%.....
+0DE0: 02 03 10 01 80 80 F0 0D  03 11 17 01 80 01 25 0E  ..............%.
+0DF0: 02 03 10 05 80 80 00 0E  03 11 17 05 80 01 25 0E  ..............%.
+0E00: 02 03 10 0E 80 80 10 0E  03 11 17 0E 80 01 25 0E  ..............%.
+0E10: 02 03 10 0F 80 80 20 0E  03 11 17 0F 80 01 25 0E  ...... .......%.
+0E20: 03 11 17 10 80 02 04 10  01 80 80 35 0E 03 12 17  ...........5....
+0E30: 01 80 01 6A 0E 02 04 10  05 80 80 45 0E 03 12 17  ...j.......E....
+0E40: 05 80 01 6A 0E 02 04 10  0E 80 80 55 0E 03 12 17  ...j.......U....
+0E50: 0E 80 01 6A 0E 02 04 10  0F 80 80 65 0E 03 12 17  ...j.......e....
+0E60: 0F 80 01 6A 0E 03 12 17  10 80 02 05 10 01 80 80  ...j............
+0E70: 7A 0E 03 13 17 01 80 01  AF 0E 02 05 10 05 80 80  z...............
+0E80: 8A 0E 03 13 17 05 80 01  AF 0E 02 05 10 0E 80 80  ................
+0E90: 9A 0E 03 13 17 0E 80 01  AF 0E 02 05 10 0F 80 80  ................
+0EA0: AA 0E 03 13 17 0F 80 01  AF 0E 03 13 17 10 80 02  ................
+0EB0: 06 10 01 80 80 BF 0E 03  14 17 01 80 01 F4 0E 02  ................
+0EC0: 06 10 05 80 80 CF 0E 03  14 17 05 80 01 F4 0E 02  ................
+0ED0: 06 10 0E 80 80 DF 0E 03  14 17 0E 80 01 F4 0E 02  ................
+0EE0: 06 10 0F 80 80 EF 0E 03  14 17 0F 80 01 F4 0E 03  ................
+0EF0: 14 17 10 80 02 07 10 01  80 80 04 0F 03 15 17 01  ................
+0F00: 80 01 39 0F 02 07 10 05  80 80 14 0F 03 15 17 05  ..9.............
+0F10: 80 01 39 0F 02 07 10 0E  80 80 24 0F 03 15 17 0E  ..9.......$.....
+0F20: 80 01 39 0F 02 07 10 0F  80 80 34 0F 03 15 17 0F  ..9.......4.....
+0F30: 80 01 39 0F 03 15 17 10  80 02 08 10 01 80 80 49  ..9............I
+0F40: 0F 03 16 17 01 80 01 7E  0F 02 08 10 05 80 80 59  .......~.......Y
+0F50: 0F 03 16 17 05 80 01 7E  0F 02 08 10 0E 80 80 69  .......~.......i
+0F60: 0F 03 16 17 0E 80 01 7E  0F 02 08 10 0F 80 80 79  .......~.......y
+0F70: 0F 03 16 17 0F 80 01 7E  0F 03 16 17 10 80 1B     .......~....... 
+```
+
+#### Opcodes
+
+```
+  0: 0x0019 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
+  1: 0x001E [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
+  2: 0x0023 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[4]
+  3: 0x0028 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  4: 0x002A [0x1E] EventEntity looks at LocalPlayer and starts talking
+  5: 0x002F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x0030 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x0031 [0x03] ExtData[1]->WorkLocal[0] = 0*
+  8: 0x0036 [0x1A] CALL_SUBROUTINE(address=0x093B)
+  9: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7174*)
+    → "Greetings. I am %, Campaign Arbiter for the Allied Forces."
+ 10: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 11: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7175*)
+    → "To ensure prompt transportation to the frontlines, I have been given clearance to teleport troops to locations on the Quon and Mindartia theaters."
+ 12: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 13: 0x0041 [0x24] CREATE_DIALOG(message_id=7176*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+    → "Please select a destination: [I do not require your services./Xarcabard [y|z/ySanz/yBasz/yWinz/yBstz]/Beaucedine Glacier[y|z/ySanz/yBasz/yWinz/yBstz]/Batallia Downs [y|z/ySanz/yBasz/yWinz/yBstz]/Rolanberry Fields [y|z/ySanz/yBasz/yWinz/yBstz]/Sauromugue Champaign [y|z/ySanz/yBasz/yWinz/yBstz]/Jugner Forest [y|z/ySanz/yBasz/yWinz/yBstz]/Pashhow Marshlands [y|z/ySanz/yBasz/yWinz/yBstz]/Meriphataud Mountains [y|z/ySanz/yBasz/yWinz/yBstz]/Vunkerl Inlet [y|z/ySanz/yBasz/yWinz/yBstz]/Grauberg [y|z/ySanz/yBasz/yWinz/yBstz]/Fort Karugo-Narugo [y|z/ySanz/yBasz/yWinz/yBstz]/East Ronfaure [y|z/ySanz/yBasz/yWinz/yBstz]/North Gustaberg [y|z/ySanz/yBasz/yWinz/yBstz]/West Sarutabaruta [y|z/ySanz/yBasz/yWinz/yBstz]/Southern San d'Oria [y|z/ySanz/yBasz/yWinz/yBstz]/Bastok Markets [y|z/ySanz/yBasz/yWinz/yBstz]/Windurst Waters [y|z/ySanz/yBasz/yWinz/yBstz]/Garlaige Citadel [y|z/ySanz/yBasz/yWinz/yBstz]/Crawlers' Nest [y|z/ySanz/yBasz/yWinz/yBstz]/Eldieme Necropolis [y|z/ySanz/yBasz/yWinz/yBstz]]"
+ 14: 0x0048 [0x25] WAIT_DIALOG_SELECT()
+ 15: 0x0049 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0054
+ 16: 0x0051 [0x01] GOTO 0x0939
+ 17: 0x0054 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D8
+ 18: 0x005C [0x03] Work_Zone[1] = 1*
+ 19: 0x0061 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 20: 0x0063 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 21: 0x0065 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 22: 0x0066 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+ 23: 0x006B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+ 24: 0x0070 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+ 25: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+ 26: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x0079 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x008D
+ 28: 0x0081 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+ 29: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 30: 0x0085 [0x03] Work_Zone[1] = 0*
+ 31: 0x008A [0x01] GOTO 0x00D5
+ 32: 0x008D [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+ 33: 0x0094 [0x25] WAIT_DIALOG_SELECT()
+ 34: 0x0095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C5
+ 35: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+ 36: 0x00A0 [0x73] EventEntity casts magic 122* on LocalPlayer
+ 37: 0x00AB [0x1C] WAIT(260* ticks)
+ 38: 0x00AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 39: 0x00BF [0x1C] WAIT(60* ticks)
+ 40: 0x00C2 [0x01] GOTO 0x00D5
+ 41: 0x00C5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D5
+ 42: 0x00CD [0x03] Work_Zone[1] = 0*
+ 43: 0x00D2 [0x01] GOTO 0x00D5
+
+SUBROUTINE_00D5:
+ 44: 0x00D5 [0x01] GOTO 0x0939
+ 45: 0x00D8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x015C
+ 46: 0x00E0 [0x03] Work_Zone[1] = 2*
+ 47: 0x00E5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 48: 0x00E7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 49: 0x00E9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 50: 0x00EA [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+ 51: 0x00EF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+ 52: 0x00F4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+ 53: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+ 54: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 55: 0x00FD [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0111
+ 56: 0x0105 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+ 57: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 58: 0x0109 [0x03] Work_Zone[1] = 0*
+ 59: 0x010E [0x01] GOTO 0x0159
+ 60: 0x0111 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+ 61: 0x0118 [0x25] WAIT_DIALOG_SELECT()
+ 62: 0x0119 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0149
+ 63: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+ 64: 0x0124 [0x73] EventEntity casts magic 122* on LocalPlayer
+ 65: 0x012F [0x1C] WAIT(260* ticks)
+ 66: 0x0132 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 67: 0x0143 [0x1C] WAIT(60* ticks)
+ 68: 0x0146 [0x01] GOTO 0x0159
+ 69: 0x0149 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0159
+ 70: 0x0151 [0x03] Work_Zone[1] = 0*
+ 71: 0x0156 [0x01] GOTO 0x0159
+
+SUBROUTINE_0159:
+ 72: 0x0159 [0x01] GOTO 0x0939
+ 73: 0x015C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x01E0
+ 74: 0x0164 [0x03] Work_Zone[1] = 3*
+ 75: 0x0169 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 76: 0x016B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 77: 0x016D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 78: 0x016E [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+ 79: 0x0173 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+ 80: 0x0178 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+ 81: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+ 82: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 83: 0x0181 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0195
+ 84: 0x0189 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+ 85: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 86: 0x018D [0x03] Work_Zone[1] = 0*
+ 87: 0x0192 [0x01] GOTO 0x01DD
+ 88: 0x0195 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+ 89: 0x019C [0x25] WAIT_DIALOG_SELECT()
+ 90: 0x019D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01CD
+ 91: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+ 92: 0x01A8 [0x73] EventEntity casts magic 122* on LocalPlayer
+ 93: 0x01B3 [0x1C] WAIT(260* ticks)
+ 94: 0x01B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 95: 0x01C7 [0x1C] WAIT(60* ticks)
+ 96: 0x01CA [0x01] GOTO 0x01DD
+ 97: 0x01CD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01DD
+ 98: 0x01D5 [0x03] Work_Zone[1] = 0*
+ 99: 0x01DA [0x01] GOTO 0x01DD
+
+SUBROUTINE_01DD:
+100: 0x01DD [0x01] GOTO 0x0939
+101: 0x01E0 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0264
+102: 0x01E8 [0x03] Work_Zone[1] = 4*
+103: 0x01ED [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+104: 0x01EF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+105: 0x01F1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+106: 0x01F2 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+107: 0x01F7 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+108: 0x01FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+109: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+110: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
+111: 0x0205 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0219
+112: 0x020D [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+113: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
+114: 0x0211 [0x03] Work_Zone[1] = 0*
+115: 0x0216 [0x01] GOTO 0x0261
+116: 0x0219 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+117: 0x0220 [0x25] WAIT_DIALOG_SELECT()
+118: 0x0221 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0251
+119: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+120: 0x022C [0x73] EventEntity casts magic 122* on LocalPlayer
+121: 0x0237 [0x1C] WAIT(260* ticks)
+122: 0x023A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+123: 0x024B [0x1C] WAIT(60* ticks)
+124: 0x024E [0x01] GOTO 0x0261
+125: 0x0251 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0261
+126: 0x0259 [0x03] Work_Zone[1] = 0*
+127: 0x025E [0x01] GOTO 0x0261
+
+SUBROUTINE_0261:
+128: 0x0261 [0x01] GOTO 0x0939
+129: 0x0264 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x02E8
+130: 0x026C [0x03] Work_Zone[1] = 5*
+131: 0x0271 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+132: 0x0273 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+133: 0x0275 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+134: 0x0276 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+135: 0x027B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+136: 0x0280 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+137: 0x0285 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+138: 0x0288 [0x23] WAIT_FOR_DIALOG_INTERACTION
+139: 0x0289 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x029D
+140: 0x0291 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+141: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
+142: 0x0295 [0x03] Work_Zone[1] = 0*
+143: 0x029A [0x01] GOTO 0x02E5
+144: 0x029D [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+145: 0x02A4 [0x25] WAIT_DIALOG_SELECT()
+146: 0x02A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D5
+147: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+148: 0x02B0 [0x73] EventEntity casts magic 122* on LocalPlayer
+149: 0x02BB [0x1C] WAIT(260* ticks)
+150: 0x02BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+151: 0x02CF [0x1C] WAIT(60* ticks)
+152: 0x02D2 [0x01] GOTO 0x02E5
+153: 0x02D5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02E5
+154: 0x02DD [0x03] Work_Zone[1] = 0*
+155: 0x02E2 [0x01] GOTO 0x02E5
+
+SUBROUTINE_02E5:
+156: 0x02E5 [0x01] GOTO 0x0939
+157: 0x02E8 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x036C
+158: 0x02F0 [0x03] Work_Zone[1] = 6*
+159: 0x02F5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+160: 0x02F7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+161: 0x02F9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+162: 0x02FA [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+163: 0x02FF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+164: 0x0304 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+165: 0x0309 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+166: 0x030C [0x23] WAIT_FOR_DIALOG_INTERACTION
+167: 0x030D [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0321
+168: 0x0315 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+169: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
+170: 0x0319 [0x03] Work_Zone[1] = 0*
+171: 0x031E [0x01] GOTO 0x0369
+172: 0x0321 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+173: 0x0328 [0x25] WAIT_DIALOG_SELECT()
+174: 0x0329 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0359
+175: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+176: 0x0334 [0x73] EventEntity casts magic 122* on LocalPlayer
+177: 0x033F [0x1C] WAIT(260* ticks)
+178: 0x0342 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+179: 0x0353 [0x1C] WAIT(60* ticks)
+180: 0x0356 [0x01] GOTO 0x0369
+181: 0x0359 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0369
+182: 0x0361 [0x03] Work_Zone[1] = 0*
+183: 0x0366 [0x01] GOTO 0x0369
+
+SUBROUTINE_0369:
+184: 0x0369 [0x01] GOTO 0x0939
+185: 0x036C [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x03F0
+186: 0x0374 [0x03] Work_Zone[1] = 7*
+187: 0x0379 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+188: 0x037B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+189: 0x037D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+190: 0x037E [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+191: 0x0383 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+192: 0x0388 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+193: 0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+194: 0x0390 [0x23] WAIT_FOR_DIALOG_INTERACTION
+195: 0x0391 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x03A5
+196: 0x0399 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+197: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
+198: 0x039D [0x03] Work_Zone[1] = 0*
+199: 0x03A2 [0x01] GOTO 0x03ED
+200: 0x03A5 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+201: 0x03AC [0x25] WAIT_DIALOG_SELECT()
+202: 0x03AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03DD
+203: 0x03B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+204: 0x03B8 [0x73] EventEntity casts magic 122* on LocalPlayer
+205: 0x03C3 [0x1C] WAIT(260* ticks)
+206: 0x03C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+207: 0x03D7 [0x1C] WAIT(60* ticks)
+208: 0x03DA [0x01] GOTO 0x03ED
+209: 0x03DD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03ED
+210: 0x03E5 [0x03] Work_Zone[1] = 0*
+211: 0x03EA [0x01] GOTO 0x03ED
+
+SUBROUTINE_03ED:
+212: 0x03ED [0x01] GOTO 0x0939
+213: 0x03F0 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0474
+214: 0x03F8 [0x03] Work_Zone[1] = 8*
+215: 0x03FD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+216: 0x03FF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+217: 0x0401 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+218: 0x0402 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+219: 0x0407 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+220: 0x040C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+221: 0x0411 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+222: 0x0414 [0x23] WAIT_FOR_DIALOG_INTERACTION
+223: 0x0415 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0429
+224: 0x041D [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+225: 0x0420 [0x23] WAIT_FOR_DIALOG_INTERACTION
+226: 0x0421 [0x03] Work_Zone[1] = 0*
+227: 0x0426 [0x01] GOTO 0x0471
+228: 0x0429 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+229: 0x0430 [0x25] WAIT_DIALOG_SELECT()
+230: 0x0431 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0461
+231: 0x0439 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+232: 0x043C [0x73] EventEntity casts magic 122* on LocalPlayer
+233: 0x0447 [0x1C] WAIT(260* ticks)
+234: 0x044A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+235: 0x045B [0x1C] WAIT(60* ticks)
+236: 0x045E [0x01] GOTO 0x0471
+237: 0x0461 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0471
+238: 0x0469 [0x03] Work_Zone[1] = 0*
+239: 0x046E [0x01] GOTO 0x0471
+
+SUBROUTINE_0471:
+240: 0x0471 [0x01] GOTO 0x0939
+241: 0x0474 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x04F8
+242: 0x047C [0x03] Work_Zone[1] = 9*
+243: 0x0481 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+244: 0x0483 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+245: 0x0485 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+246: 0x0486 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+247: 0x048B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+248: 0x0490 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+249: 0x0495 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+250: 0x0498 [0x23] WAIT_FOR_DIALOG_INTERACTION
+251: 0x0499 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x04AD
+252: 0x04A1 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+253: 0x04A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+254: 0x04A5 [0x03] Work_Zone[1] = 0*
+255: 0x04AA [0x01] GOTO 0x04F5
+256: 0x04AD [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+257: 0x04B4 [0x25] WAIT_DIALOG_SELECT()
+258: 0x04B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E5
+259: 0x04BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+260: 0x04C0 [0x73] EventEntity casts magic 122* on LocalPlayer
+261: 0x04CB [0x1C] WAIT(260* ticks)
+262: 0x04CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+263: 0x04DF [0x1C] WAIT(60* ticks)
+264: 0x04E2 [0x01] GOTO 0x04F5
+265: 0x04E5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04F5
+266: 0x04ED [0x03] Work_Zone[1] = 0*
+267: 0x04F2 [0x01] GOTO 0x04F5
+
+SUBROUTINE_04F5:
+268: 0x04F5 [0x01] GOTO 0x0939
+269: 0x04F8 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x057C
+270: 0x0500 [0x03] Work_Zone[1] = 10*
+271: 0x0505 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+272: 0x0507 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+273: 0x0509 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+274: 0x050A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+275: 0x050F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+276: 0x0514 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+277: 0x0519 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+278: 0x051C [0x23] WAIT_FOR_DIALOG_INTERACTION
+279: 0x051D [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0531
+280: 0x0525 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+281: 0x0528 [0x23] WAIT_FOR_DIALOG_INTERACTION
+282: 0x0529 [0x03] Work_Zone[1] = 0*
+283: 0x052E [0x01] GOTO 0x0579
+284: 0x0531 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+285: 0x0538 [0x25] WAIT_DIALOG_SELECT()
+286: 0x0539 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0569
+287: 0x0541 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+288: 0x0544 [0x73] EventEntity casts magic 122* on LocalPlayer
+289: 0x054F [0x1C] WAIT(260* ticks)
+290: 0x0552 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+291: 0x0563 [0x1C] WAIT(60* ticks)
+292: 0x0566 [0x01] GOTO 0x0579
+293: 0x0569 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0579
+294: 0x0571 [0x03] Work_Zone[1] = 0*
+295: 0x0576 [0x01] GOTO 0x0579
+
+SUBROUTINE_0579:
+296: 0x0579 [0x01] GOTO 0x0939
+297: 0x057C [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0600
+298: 0x0584 [0x03] Work_Zone[1] = 11*
+299: 0x0589 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+300: 0x058B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+301: 0x058D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+302: 0x058E [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+303: 0x0593 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+304: 0x0598 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+305: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+306: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+307: 0x05A1 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x05B5
+308: 0x05A9 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+309: 0x05AC [0x23] WAIT_FOR_DIALOG_INTERACTION
+310: 0x05AD [0x03] Work_Zone[1] = 0*
+311: 0x05B2 [0x01] GOTO 0x05FD
+312: 0x05B5 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+313: 0x05BC [0x25] WAIT_DIALOG_SELECT()
+314: 0x05BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05ED
+315: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+316: 0x05C8 [0x73] EventEntity casts magic 122* on LocalPlayer
+317: 0x05D3 [0x1C] WAIT(260* ticks)
+318: 0x05D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+319: 0x05E7 [0x1C] WAIT(60* ticks)
+320: 0x05EA [0x01] GOTO 0x05FD
+321: 0x05ED [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05FD
+322: 0x05F5 [0x03] Work_Zone[1] = 0*
+323: 0x05FA [0x01] GOTO 0x05FD
+
+SUBROUTINE_05FD:
+324: 0x05FD [0x01] GOTO 0x0939
+325: 0x0600 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0684
+326: 0x0608 [0x03] Work_Zone[1] = 12*
+327: 0x060D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+328: 0x060F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+329: 0x0611 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+330: 0x0612 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+331: 0x0617 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+332: 0x061C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+333: 0x0621 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+334: 0x0624 [0x23] WAIT_FOR_DIALOG_INTERACTION
+335: 0x0625 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0639
+336: 0x062D [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+337: 0x0630 [0x23] WAIT_FOR_DIALOG_INTERACTION
+338: 0x0631 [0x03] Work_Zone[1] = 0*
+339: 0x0636 [0x01] GOTO 0x0681
+340: 0x0639 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+341: 0x0640 [0x25] WAIT_DIALOG_SELECT()
+342: 0x0641 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0671
+343: 0x0649 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+344: 0x064C [0x73] EventEntity casts magic 122* on LocalPlayer
+345: 0x0657 [0x1C] WAIT(260* ticks)
+346: 0x065A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+347: 0x066B [0x1C] WAIT(60* ticks)
+348: 0x066E [0x01] GOTO 0x0681
+349: 0x0671 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0681
+350: 0x0679 [0x03] Work_Zone[1] = 0*
+351: 0x067E [0x01] GOTO 0x0681
+
+SUBROUTINE_0681:
+352: 0x0681 [0x01] GOTO 0x0939
+353: 0x0684 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0708
+354: 0x068C [0x03] Work_Zone[1] = 13*
+355: 0x0691 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+356: 0x0693 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+357: 0x0695 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+358: 0x0696 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+359: 0x069B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+360: 0x06A0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+361: 0x06A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+362: 0x06A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+363: 0x06A9 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x06BD
+364: 0x06B1 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+365: 0x06B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+366: 0x06B5 [0x03] Work_Zone[1] = 0*
+367: 0x06BA [0x01] GOTO 0x0705
+368: 0x06BD [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+369: 0x06C4 [0x25] WAIT_DIALOG_SELECT()
+370: 0x06C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06F5
+371: 0x06CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+372: 0x06D0 [0x73] EventEntity casts magic 122* on LocalPlayer
+373: 0x06DB [0x1C] WAIT(260* ticks)
+374: 0x06DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+375: 0x06EF [0x1C] WAIT(60* ticks)
+376: 0x06F2 [0x01] GOTO 0x0705
+377: 0x06F5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0705
+378: 0x06FD [0x03] Work_Zone[1] = 0*
+379: 0x0702 [0x01] GOTO 0x0705
+
+SUBROUTINE_0705:
+380: 0x0705 [0x01] GOTO 0x0939
+381: 0x0708 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x078C
+382: 0x0710 [0x03] Work_Zone[1] = 14*
+383: 0x0715 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+384: 0x0717 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+385: 0x0719 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+386: 0x071A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+387: 0x071F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+388: 0x0724 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+389: 0x0729 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+390: 0x072C [0x23] WAIT_FOR_DIALOG_INTERACTION
+391: 0x072D [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0741
+392: 0x0735 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+393: 0x0738 [0x23] WAIT_FOR_DIALOG_INTERACTION
+394: 0x0739 [0x03] Work_Zone[1] = 0*
+395: 0x073E [0x01] GOTO 0x0789
+396: 0x0741 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+397: 0x0748 [0x25] WAIT_DIALOG_SELECT()
+398: 0x0749 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0779
+399: 0x0751 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+400: 0x0754 [0x73] EventEntity casts magic 122* on LocalPlayer
+401: 0x075F [0x1C] WAIT(260* ticks)
+402: 0x0762 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+403: 0x0773 [0x1C] WAIT(60* ticks)
+404: 0x0776 [0x01] GOTO 0x0789
+405: 0x0779 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0789
+406: 0x0781 [0x03] Work_Zone[1] = 0*
+407: 0x0786 [0x01] GOTO 0x0789
+
+SUBROUTINE_0789:
+408: 0x0789 [0x01] GOTO 0x0939
+409: 0x078C [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0797
+410: 0x0794 [0x01] GOTO 0x0939
+411: 0x0797 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x07A2
+412: 0x079F [0x01] GOTO 0x0939
+413: 0x07A2 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x07AD
+414: 0x07AA [0x01] GOTO 0x0939
+415: 0x07AD [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x0831
+416: 0x07B5 [0x03] Work_Zone[1] = 18*
+417: 0x07BA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+418: 0x07BC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+419: 0x07BE [0x42] SET_CLI_EVENT_CANCEL_DATA()
+420: 0x07BF [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+421: 0x07C4 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+422: 0x07C9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+423: 0x07CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+424: 0x07D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+425: 0x07D2 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x07E6
+426: 0x07DA [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+427: 0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
+428: 0x07DE [0x03] Work_Zone[1] = 0*
+429: 0x07E3 [0x01] GOTO 0x082E
+430: 0x07E6 [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+431: 0x07ED [0x25] WAIT_DIALOG_SELECT()
+432: 0x07EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x081E
+433: 0x07F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+434: 0x07F9 [0x73] EventEntity casts magic 122* on LocalPlayer
+435: 0x0804 [0x1C] WAIT(260* ticks)
+436: 0x0807 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+437: 0x0818 [0x1C] WAIT(60* ticks)
+438: 0x081B [0x01] GOTO 0x082E
+439: 0x081E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x082E
+440: 0x0826 [0x03] Work_Zone[1] = 0*
+441: 0x082B [0x01] GOTO 0x082E
+
+SUBROUTINE_082E:
+442: 0x082E [0x01] GOTO 0x0939
+443: 0x0831 [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x08B5
+444: 0x0839 [0x03] Work_Zone[1] = 19*
+445: 0x083E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+446: 0x0840 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+447: 0x0842 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+448: 0x0843 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+449: 0x0848 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+450: 0x084D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+451: 0x0852 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+452: 0x0855 [0x23] WAIT_FOR_DIALOG_INTERACTION
+453: 0x0856 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x086A
+454: 0x085E [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+455: 0x0861 [0x23] WAIT_FOR_DIALOG_INTERACTION
+456: 0x0862 [0x03] Work_Zone[1] = 0*
+457: 0x0867 [0x01] GOTO 0x08B2
+458: 0x086A [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+459: 0x0871 [0x25] WAIT_DIALOG_SELECT()
+460: 0x0872 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08A2
+461: 0x087A [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+462: 0x087D [0x73] EventEntity casts magic 122* on LocalPlayer
+463: 0x0888 [0x1C] WAIT(260* ticks)
+464: 0x088B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+465: 0x089C [0x1C] WAIT(60* ticks)
+466: 0x089F [0x01] GOTO 0x08B2
+467: 0x08A2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x08B2
+468: 0x08AA [0x03] Work_Zone[1] = 0*
+469: 0x08AF [0x01] GOTO 0x08B2
+
+SUBROUTINE_08B2:
+470: 0x08B2 [0x01] GOTO 0x0939
+471: 0x08B5 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x0939
+472: 0x08BD [0x03] Work_Zone[1] = 20*
+473: 0x08C2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+474: 0x08C4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+475: 0x08C6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+476: 0x08C7 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
+477: 0x08CC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
+478: 0x08D1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
+479: 0x08D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+    → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
+480: 0x08D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+481: 0x08DA [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x08EE
+482: 0x08E2 [0x48] [System] [7181*]:
+    → "I am sorry. You do not have enough Allied Notes."
+483: 0x08E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+484: 0x08E6 [0x03] Work_Zone[1] = 0*
+485: 0x08EB [0x01] GOTO 0x0936
+486: 0x08EE [0x24] CREATE_DIALOG(message_id=7179*, default_option=1*, option_flags=0*)
+    → "Complete the transaction? [Yes./Not at this time.]"
+487: 0x08F5 [0x25] WAIT_DIALOG_SELECT()
+488: 0x08F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0926
+489: 0x08FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+    → "Understood."
+490: 0x0901 [0x73] EventEntity casts magic 122* on LocalPlayer
+491: 0x090C [0x1C] WAIT(260* ticks)
+492: 0x090F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+493: 0x0920 [0x1C] WAIT(60* ticks)
+494: 0x0923 [0x01] GOTO 0x0936
+495: 0x0926 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0936
+496: 0x092E [0x03] Work_Zone[1] = 0*
+497: 0x0933 [0x01] GOTO 0x0936
+
+SUBROUTINE_0936:
+498: 0x0936 [0x01] GOTO 0x0939
+
+SUBROUTINE_0939:
+499: 0x0939 [0x21] END_EVENT
+500: 0x093A [0x00] END_REQSTACK()
+
+SUBROUTINE_093B:
+501: 0x093B [0x03] Work_Zone[1] = 50*
+502: 0x0940 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+503: 0x0942 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+504: 0x0944 [0x0F] Work_Zone[2] ^= 4294967295*
+505: 0x0949 [0x0E] ExtData[1]->WorkLocal[0] |= Work_Zone[2]
+506: 0x094E [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[3]
+507: 0x0953 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[4]
+508: 0x0958 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[5]
+509: 0x095D [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[8] (bits 0*-3*)
+510: 0x0966 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[8] (bits 4*-7*)
+511: 0x096F [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[8] (bits 8*-11*)
+512: 0x0978 [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[8] (bits 12*-15*)
+513: 0x0981 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[8] (bits 16*-19*)
+514: 0x098A [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[8] (bits 20*-23*)
+515: 0x0993 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[8] (bits 24*-27*)
+516: 0x099C [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x09AC
+517: 0x09A4 [0x03] Work_Zone_1700[3] = 0*
+518: 0x09A9 [0x01] GOTO 0x09E1
+519: 0x09AC [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x09BC
+520: 0x09B4 [0x03] Work_Zone_1700[3] = 1*
+521: 0x09B9 [0x01] GOTO 0x09E1
+522: 0x09BC [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x09CC
+523: 0x09C4 [0x03] Work_Zone_1700[3] = 2*
+524: 0x09C9 [0x01] GOTO 0x09E1
+525: 0x09CC [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x09DC
+526: 0x09D4 [0x03] Work_Zone_1700[3] = 3*
+527: 0x09D9 [0x01] GOTO 0x09E1
+528: 0x09DC [0x03] Work_Zone_1700[3] = 4*
+
+SUBROUTINE_09E1:
+529: 0x09E1 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x09F1
+530: 0x09E9 [0x03] Work_Zone_1700[4] = 0*
+531: 0x09EE [0x01] GOTO 0x0A26
+532: 0x09F1 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0A01
+533: 0x09F9 [0x03] Work_Zone_1700[4] = 1*
+534: 0x09FE [0x01] GOTO 0x0A26
+535: 0x0A01 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0A11
+536: 0x0A09 [0x03] Work_Zone_1700[4] = 2*
+537: 0x0A0E [0x01] GOTO 0x0A26
+538: 0x0A11 [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x0A21
+539: 0x0A19 [0x03] Work_Zone_1700[4] = 3*
+540: 0x0A1E [0x01] GOTO 0x0A26
+541: 0x0A21 [0x03] Work_Zone_1700[4] = 4*
+
+SUBROUTINE_0A26:
+542: 0x0A26 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0A36
+543: 0x0A2E [0x03] Work_Zone_1700[5] = 0*
+544: 0x0A33 [0x01] GOTO 0x0A6B
+545: 0x0A36 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x0A46
+546: 0x0A3E [0x03] Work_Zone_1700[5] = 1*
+547: 0x0A43 [0x01] GOTO 0x0A6B
+548: 0x0A46 [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x0A56
+549: 0x0A4E [0x03] Work_Zone_1700[5] = 2*
+550: 0x0A53 [0x01] GOTO 0x0A6B
+551: 0x0A56 [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x0A66
+552: 0x0A5E [0x03] Work_Zone_1700[5] = 3*
+553: 0x0A63 [0x01] GOTO 0x0A6B
+554: 0x0A66 [0x03] Work_Zone_1700[5] = 4*
+
+SUBROUTINE_0A6B:
+555: 0x0A6B [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0A7B
+556: 0x0A73 [0x03] Work_Zone_1700[6] = 0*
+557: 0x0A78 [0x01] GOTO 0x0AB0
+558: 0x0A7B [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0A8B
+559: 0x0A83 [0x03] Work_Zone_1700[6] = 1*
+560: 0x0A88 [0x01] GOTO 0x0AB0
+561: 0x0A8B [0x02] IF !(Work_Zone[6] == 2*) GOTO 0x0A9B
+562: 0x0A93 [0x03] Work_Zone_1700[6] = 2*
+563: 0x0A98 [0x01] GOTO 0x0AB0
+564: 0x0A9B [0x02] IF !(Work_Zone[6] == 3*) GOTO 0x0AAB
+565: 0x0AA3 [0x03] Work_Zone_1700[6] = 3*
+566: 0x0AA8 [0x01] GOTO 0x0AB0
+567: 0x0AAB [0x03] Work_Zone_1700[6] = 4*
+
+SUBROUTINE_0AB0:
+568: 0x0AB0 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0AC0
+569: 0x0AB8 [0x03] Work_Zone_1700[7] = 0*
+570: 0x0ABD [0x01] GOTO 0x0AF5
+571: 0x0AC0 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x0AD0
+572: 0x0AC8 [0x03] Work_Zone_1700[7] = 1*
+573: 0x0ACD [0x01] GOTO 0x0AF5
+574: 0x0AD0 [0x02] IF !(Work_Zone[7] == 2*) GOTO 0x0AE0
+575: 0x0AD8 [0x03] Work_Zone_1700[7] = 2*
+576: 0x0ADD [0x01] GOTO 0x0AF5
+577: 0x0AE0 [0x02] IF !(Work_Zone[7] == 3*) GOTO 0x0AF0
+578: 0x0AE8 [0x03] Work_Zone_1700[7] = 3*
+579: 0x0AED [0x01] GOTO 0x0AF5
+580: 0x0AF0 [0x03] Work_Zone_1700[7] = 4*
+
+SUBROUTINE_0AF5:
+581: 0x0AF5 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0B05
+582: 0x0AFD [0x03] Work_Zone_1700[8] = 0*
+583: 0x0B02 [0x01] GOTO 0x0B3A
+584: 0x0B05 [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x0B15
+585: 0x0B0D [0x03] Work_Zone_1700[8] = 1*
+586: 0x0B12 [0x01] GOTO 0x0B3A
+587: 0x0B15 [0x02] IF !(Work_Zone[8] == 2*) GOTO 0x0B25
+588: 0x0B1D [0x03] Work_Zone_1700[8] = 2*
+589: 0x0B22 [0x01] GOTO 0x0B3A
+590: 0x0B25 [0x02] IF !(Work_Zone[8] == 3*) GOTO 0x0B35
+591: 0x0B2D [0x03] Work_Zone_1700[8] = 3*
+592: 0x0B32 [0x01] GOTO 0x0B3A
+593: 0x0B35 [0x03] Work_Zone_1700[8] = 4*
+
+SUBROUTINE_0B3A:
+594: 0x0B3A [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0B4A
+595: 0x0B42 [0x03] Work_Zone_1700[9] = 0*
+596: 0x0B47 [0x01] GOTO 0x0B7F
+597: 0x0B4A [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x0B5A
+598: 0x0B52 [0x03] Work_Zone_1700[9] = 1*
+599: 0x0B57 [0x01] GOTO 0x0B7F
+600: 0x0B5A [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x0B6A
+601: 0x0B62 [0x03] Work_Zone_1700[9] = 2*
+602: 0x0B67 [0x01] GOTO 0x0B7F
+603: 0x0B6A [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x0B7A
+604: 0x0B72 [0x03] Work_Zone_1700[9] = 3*
+605: 0x0B77 [0x01] GOTO 0x0B7F
+606: 0x0B7A [0x03] Work_Zone_1700[9] = 4*
+
+SUBROUTINE_0B7F:
+607: 0x0B7F [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[9] (bits 0*-3*)
+608: 0x0B88 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[9] (bits 4*-7*)
+609: 0x0B91 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[9] (bits 8*-11*)
+610: 0x0B9A [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[9] (bits 12*-15*)
+611: 0x0BA3 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[9] (bits 16*-19*)
+612: 0x0BAC [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[9] (bits 20*-23*)
+613: 0x0BB5 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[9] (bits 24*-27*)
+614: 0x0BBE [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0BCE
+615: 0x0BC6 [0x03] Work_Zone_1700[10] = 0*
+616: 0x0BCB [0x01] GOTO 0x0C03
+617: 0x0BCE [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0BDE
+618: 0x0BD6 [0x03] Work_Zone_1700[10] = 1*
+619: 0x0BDB [0x01] GOTO 0x0C03
+620: 0x0BDE [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x0BEE
+621: 0x0BE6 [0x03] Work_Zone_1700[10] = 2*
+622: 0x0BEB [0x01] GOTO 0x0C03
+623: 0x0BEE [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x0BFE
+624: 0x0BF6 [0x03] Work_Zone_1700[10] = 3*
+625: 0x0BFB [0x01] GOTO 0x0C03
+626: 0x0BFE [0x03] Work_Zone_1700[10] = 4*
+
+SUBROUTINE_0C03:
+627: 0x0C03 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0C13
+628: 0x0C0B [0x03] Work_Zone_1700[11] = 0*
+629: 0x0C10 [0x01] GOTO 0x0C48
+630: 0x0C13 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0C23
+631: 0x0C1B [0x03] Work_Zone_1700[11] = 1*
+632: 0x0C20 [0x01] GOTO 0x0C48
+633: 0x0C23 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0C33
+634: 0x0C2B [0x03] Work_Zone_1700[11] = 2*
+635: 0x0C30 [0x01] GOTO 0x0C48
+636: 0x0C33 [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x0C43
+637: 0x0C3B [0x03] Work_Zone_1700[11] = 3*
+638: 0x0C40 [0x01] GOTO 0x0C48
+639: 0x0C43 [0x03] Work_Zone_1700[11] = 4*
+
+SUBROUTINE_0C48:
+640: 0x0C48 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0C58
+641: 0x0C50 [0x03] Work_Zone_1700[12] = 0*
+642: 0x0C55 [0x01] GOTO 0x0C8D
+643: 0x0C58 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x0C68
+644: 0x0C60 [0x03] Work_Zone_1700[12] = 1*
+645: 0x0C65 [0x01] GOTO 0x0C8D
+646: 0x0C68 [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x0C78
+647: 0x0C70 [0x03] Work_Zone_1700[12] = 2*
+648: 0x0C75 [0x01] GOTO 0x0C8D
+649: 0x0C78 [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x0C88
+650: 0x0C80 [0x03] Work_Zone_1700[12] = 3*
+651: 0x0C85 [0x01] GOTO 0x0C8D
+652: 0x0C88 [0x03] Work_Zone_1700[12] = 4*
+
+SUBROUTINE_0C8D:
+653: 0x0C8D [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0C9D
+654: 0x0C95 [0x03] Work_Zone_1700[13] = 0*
+655: 0x0C9A [0x01] GOTO 0x0CD2
+656: 0x0C9D [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0CAD
+657: 0x0CA5 [0x03] Work_Zone_1700[13] = 1*
+658: 0x0CAA [0x01] GOTO 0x0CD2
+659: 0x0CAD [0x02] IF !(Work_Zone[6] == 2*) GOTO 0x0CBD
+660: 0x0CB5 [0x03] Work_Zone_1700[13] = 2*
+661: 0x0CBA [0x01] GOTO 0x0CD2
+662: 0x0CBD [0x02] IF !(Work_Zone[6] == 3*) GOTO 0x0CCD
+663: 0x0CC5 [0x03] Work_Zone_1700[13] = 3*
+664: 0x0CCA [0x01] GOTO 0x0CD2
+665: 0x0CCD [0x03] Work_Zone_1700[13] = 4*
+
+SUBROUTINE_0CD2:
+666: 0x0CD2 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0CE2
+667: 0x0CDA [0x03] Work_Zone_1700[14] = 0*
+668: 0x0CDF [0x01] GOTO 0x0D17
+669: 0x0CE2 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x0CF2
+670: 0x0CEA [0x03] Work_Zone_1700[14] = 1*
+671: 0x0CEF [0x01] GOTO 0x0D17
+672: 0x0CF2 [0x02] IF !(Work_Zone[7] == 2*) GOTO 0x0D02
+673: 0x0CFA [0x03] Work_Zone_1700[14] = 2*
+674: 0x0CFF [0x01] GOTO 0x0D17
+675: 0x0D02 [0x02] IF !(Work_Zone[7] == 3*) GOTO 0x0D12
+676: 0x0D0A [0x03] Work_Zone_1700[14] = 3*
+677: 0x0D0F [0x01] GOTO 0x0D17
+678: 0x0D12 [0x03] Work_Zone_1700[14] = 4*
+
+SUBROUTINE_0D17:
+679: 0x0D17 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0D27
+680: 0x0D1F [0x03] Work_Zone_1700[15] = 0*
+681: 0x0D24 [0x01] GOTO 0x0D5C
+682: 0x0D27 [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x0D37
+683: 0x0D2F [0x03] Work_Zone_1700[15] = 1*
+684: 0x0D34 [0x01] GOTO 0x0D5C
+685: 0x0D37 [0x02] IF !(Work_Zone[8] == 2*) GOTO 0x0D47
+686: 0x0D3F [0x03] Work_Zone_1700[15] = 2*
+687: 0x0D44 [0x01] GOTO 0x0D5C
+688: 0x0D47 [0x02] IF !(Work_Zone[8] == 3*) GOTO 0x0D57
+689: 0x0D4F [0x03] Work_Zone_1700[15] = 3*
+690: 0x0D54 [0x01] GOTO 0x0D5C
+691: 0x0D57 [0x03] Work_Zone_1700[15] = 4*
+
+SUBROUTINE_0D5C:
+692: 0x0D5C [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0D6C
+693: 0x0D64 [0x03] Work_Zone_1700[16] = 0*
+694: 0x0D69 [0x01] GOTO 0x0DA1
+695: 0x0D6C [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x0D7C
+696: 0x0D74 [0x03] Work_Zone_1700[16] = 1*
+697: 0x0D79 [0x01] GOTO 0x0DA1
+698: 0x0D7C [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x0D8C
+699: 0x0D84 [0x03] Work_Zone_1700[16] = 2*
+700: 0x0D89 [0x01] GOTO 0x0DA1
+701: 0x0D8C [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x0D9C
+702: 0x0D94 [0x03] Work_Zone_1700[16] = 3*
+703: 0x0D99 [0x01] GOTO 0x0DA1
+704: 0x0D9C [0x03] Work_Zone_1700[16] = 4*
+
+SUBROUTINE_0DA1:
+705: 0x0DA1 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[10] (bits 0*-3*)
+706: 0x0DAA [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[10] (bits 4*-7*)
+707: 0x0DB3 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[10] (bits 8*-11*)
+708: 0x0DBC [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[10] (bits 12*-15*)
+709: 0x0DC5 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[10] (bits 16*-19*)
+710: 0x0DCE [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[10] (bits 20*-23*)
+711: 0x0DD7 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[10] (bits 24*-27*)
+712: 0x0DE0 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0DF0
+713: 0x0DE8 [0x03] Work_Zone_1700[17] = 0*
+714: 0x0DED [0x01] GOTO 0x0E25
+715: 0x0DF0 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0E00
+716: 0x0DF8 [0x03] Work_Zone_1700[17] = 1*
+717: 0x0DFD [0x01] GOTO 0x0E25
+718: 0x0E00 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x0E10
+719: 0x0E08 [0x03] Work_Zone_1700[17] = 2*
+720: 0x0E0D [0x01] GOTO 0x0E25
+721: 0x0E10 [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x0E20
+722: 0x0E18 [0x03] Work_Zone_1700[17] = 3*
+723: 0x0E1D [0x01] GOTO 0x0E25
+724: 0x0E20 [0x03] Work_Zone_1700[17] = 4*
+
+SUBROUTINE_0E25:
+725: 0x0E25 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0E35
+726: 0x0E2D [0x03] Work_Zone_1700[18] = 0*
+727: 0x0E32 [0x01] GOTO 0x0E6A
+728: 0x0E35 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0E45
+729: 0x0E3D [0x03] Work_Zone_1700[18] = 1*
+730: 0x0E42 [0x01] GOTO 0x0E6A
+731: 0x0E45 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0E55
+732: 0x0E4D [0x03] Work_Zone_1700[18] = 2*
+733: 0x0E52 [0x01] GOTO 0x0E6A
+734: 0x0E55 [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x0E65
+735: 0x0E5D [0x03] Work_Zone_1700[18] = 3*
+736: 0x0E62 [0x01] GOTO 0x0E6A
+737: 0x0E65 [0x03] Work_Zone_1700[18] = 4*
+
+SUBROUTINE_0E6A:
+738: 0x0E6A [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0E7A
+739: 0x0E72 [0x03] Work_Zone_1700[19] = 0*
+740: 0x0E77 [0x01] GOTO 0x0EAF
+741: 0x0E7A [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x0E8A
+742: 0x0E82 [0x03] Work_Zone_1700[19] = 1*
+743: 0x0E87 [0x01] GOTO 0x0EAF
+744: 0x0E8A [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x0E9A
+745: 0x0E92 [0x03] Work_Zone_1700[19] = 2*
+746: 0x0E97 [0x01] GOTO 0x0EAF
+747: 0x0E9A [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x0EAA
+748: 0x0EA2 [0x03] Work_Zone_1700[19] = 3*
+749: 0x0EA7 [0x01] GOTO 0x0EAF
+750: 0x0EAA [0x03] Work_Zone_1700[19] = 4*
+
+SUBROUTINE_0EAF:
+751: 0x0EAF [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0EBF
+752: 0x0EB7 [0x03] Work_Zone_1700[20] = 0*
+753: 0x0EBC [0x01] GOTO 0x0EF4
+754: 0x0EBF [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0ECF
+755: 0x0EC7 [0x03] Work_Zone_1700[20] = 1*
+756: 0x0ECC [0x01] GOTO 0x0EF4
+757: 0x0ECF [0x02] IF !(Work_Zone[6] == 2*) GOTO 0x0EDF
+758: 0x0ED7 [0x03] Work_Zone_1700[20] = 2*
+759: 0x0EDC [0x01] GOTO 0x0EF4
+760: 0x0EDF [0x02] IF !(Work_Zone[6] == 3*) GOTO 0x0EEF
+761: 0x0EE7 [0x03] Work_Zone_1700[20] = 3*
+762: 0x0EEC [0x01] GOTO 0x0EF4
+763: 0x0EEF [0x03] Work_Zone_1700[20] = 4*
+
+SUBROUTINE_0EF4:
+764: 0x0EF4 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0F04
+765: 0x0EFC [0x03] Work_Zone_1700[21] = 0*
+766: 0x0F01 [0x01] GOTO 0x0F39
+767: 0x0F04 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x0F14
+768: 0x0F0C [0x03] Work_Zone_1700[21] = 1*
+769: 0x0F11 [0x01] GOTO 0x0F39
+770: 0x0F14 [0x02] IF !(Work_Zone[7] == 2*) GOTO 0x0F24
+771: 0x0F1C [0x03] Work_Zone_1700[21] = 2*
+772: 0x0F21 [0x01] GOTO 0x0F39
+773: 0x0F24 [0x02] IF !(Work_Zone[7] == 3*) GOTO 0x0F34
+774: 0x0F2C [0x03] Work_Zone_1700[21] = 3*
+775: 0x0F31 [0x01] GOTO 0x0F39
+776: 0x0F34 [0x03] Work_Zone_1700[21] = 4*
+
+SUBROUTINE_0F39:
+777: 0x0F39 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0F49
+778: 0x0F41 [0x03] Work_Zone_1700[22] = 0*
+779: 0x0F46 [0x01] GOTO 0x0F7E
+780: 0x0F49 [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x0F59
+781: 0x0F51 [0x03] Work_Zone_1700[22] = 1*
+782: 0x0F56 [0x01] GOTO 0x0F7E
+783: 0x0F59 [0x02] IF !(Work_Zone[8] == 2*) GOTO 0x0F69
+784: 0x0F61 [0x03] Work_Zone_1700[22] = 2*
+785: 0x0F66 [0x01] GOTO 0x0F7E
+786: 0x0F69 [0x02] IF !(Work_Zone[8] == 3*) GOTO 0x0F79
+787: 0x0F71 [0x03] Work_Zone_1700[22] = 3*
+788: 0x0F76 [0x01] GOTO 0x0F7E
+789: 0x0F79 [0x03] Work_Zone_1700[22] = 4*
+
+SUBROUTINE_0F7E:
+790: 0x0F7E [0x1B] RETURN
+```

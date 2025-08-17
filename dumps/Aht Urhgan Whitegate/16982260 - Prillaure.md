@@ -54,6 +54,19 @@
 |      31 | 0x00C8      |         200 |
 |      32 | 0x003C      |          60 |
 
+## String References
+
+- **233**: You do not have enough gil.
+- **4693**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **4694**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **4696**: Which memory will you have recalled? [Nothing./Aht Urhgan Missions./Aht Urhgan Quests 1./Aht Urhgan Quests 2./Aht Urhgan Quests 3./Aht Urhgan Quests 4./Other Quests.]
+- **4697**: Which memory will you have recalled? [Nothing./Immortal Sentries(pt.1)./Immortal Sentries(pt.2)./President Salaheem./Knight of Gold(pt.1)./Knight of Gold(pt.2)./Knight of Gold(pt.3)./Knight of Gold(pt.4)./Knight of Gold(pt.5)./Knight of Gold(pt.6)./Westerly Winds(pt.1)./Westerly Winds(pt.2)./Knight of Gold - Recollection(pt.1)./Knight of Gold - Recollection(pt.2)./Knight of Gold - Recollection(pt.3)./Knight of Gold - Recollection(pt.4)./Knight of Gold - Recollection(pt.5)./Knight of Gold - Recollection(pt.6)./Westerly Winds - Recollection(pt.1)./Westerly Winds - Recollection(pt.2)./Westerly Winds - Recollection(pt.3)./Undersea Scouting./Imperial Schemes./Royal Puppeteer./The Black Coffin./Guests of the Empire(pt.1)./Guests of the Empire(pt.2)./Passing Glory./Sweets for the Soul./Teahouse Tumult./Shield of Diplomacy./Foiled Ambition./Playing the Part.]
+- **4698**: Which memory will you have recalled? [Nothing./Arts and Crafts(pt.1)./Arts and Crafts(pt.2)./Got It All(pt.1)./Got It All(pt.2)./Got It All(pt.3)./Got It All(pt.4)./Got It All(pt.5)./Got It All(pt.6)./Got It All(pt.7)./Get the Picture(pt.1)./Get the Picture(pt.2)./Get the Picture(pt.3)./The Prankster(pt.1)./The Prankster(pt.2)./The Prankster(pt.3)./Delivering the Goods(pt.1)./Delivering the Goods(pt.2)./Delivering the Goods(pt.3)./Vanishing Act(pt.1)./Vanishing Act(pt.2)./Vanishing Act(pt.3)./Vanishing Act(pt.4)./Give Peace a Chance(pt.1)./Give Peace a Chance(pt.2)./Give Peace a Chance(pt.3)./Luck of the Draw(pt.1)./Luck of the Draw(pt.2)./Luck of the Draw(pt.3)./Finding Faults(pt.1)./Finding Faults(pt.2)./Finding Faults(pt.3).]
+- **4699**: Which memory will you have recalled? [Nothing./An Empty Vessel(pt.1)./An Empty Vessel(pt.2)./An Empty Vessel(pt.3)./An Empty Vessel(pt.4)./A Taste of Honey(pt.1)./A Taste of Honey(pt.2)./Promotion: Private First Class(pt.1)./Promotion: Private First Class(pt.2)./Promotion: Superior Private(pt.1)./Promotion: Superior Private(pt.2)./Promotion: Superior Private(pt.3)./No Strings Attached(pt.1)./No Strings Attached(pt.2)./No Strings Attached(pt.3)./No Strings Attached(pt.4)./No Strings Attached(pt.5)./The Die Is Cast(pt.1)./The Die Is Cast(pt.2)./The Die Is Cast(pt.3)./Two Horn the Savage(pt.1)./Two Horn the Savage(pt.2)./Two Horn the Savage(pt.3)./Keeping Notes(pt.1)./Keeping Notes(pt.2).]
+- **4700**: Which memory will you have recalled? [Nothing./Olduum(pt.1)./Olduum(pt.2)./Equipped for All Occasions./Striking a Balance(pt.1)./Striking a Balance(pt.2)./Striking a Balance(pt.3)./Striking a Balance(pt.4)./Striking a Balance(pt.5)./Striking a Balance(pt.6)./Striking a Balance(pt.7)./Beginnings(pt.1)./Beginnings(pt.2)./Omens(pt.1)./Omens(pt.2)./Omens(pt.3)./Omens(pt.4)./Transformations./The Beast Within(pt.1)./The Beast Within(pt.2)./Promotion: Lance Corporal(pt.1)./Promotion: Lance Corporal(pt.2)./Promotion: Lance Corporal(pt.3)./Promotion: Lance Corporal(pt.4)./Promotion: Lance Corporal(pt.5)./Against All Odds./Promotion: Corporal(pt.1)./Promotion: Corporal(pt.2)./The Art of War(pt.1)./The Art of War(pt.2)./The Art of War(pt.3).]
+- **4701**: Which memory will you have recalled? [Nothing./The Wayward Automaton(pt.1)./The Wayward Automaton(pt.2)./Operation Teatime(pt.1)./Operation Teatime(pt.2)./Puppetmaster Blues(pt.1)./Puppetmaster Blues(pt.2)./Puppetmaster Blues(pt.3)./Moment of Truth(pt.1)./Moment of Truth(pt.2)./Moment of Truth(pt.3)./Moment of Truth(pt.4)./Promotion: Sergeant(pt.1)./Promotion: Sergeant(pt.2)./Promotion: Sergeant(pt.3)./Promotion: Sergeant Major(pt.1)./Promotion: Sergeant Major(pt.2)./Promotion: Sergeant Major(pt.3)./Promotion: Sergeant Major(pt.4)./Led Astray(pt.1)./Led Astray(pt.2)./Led Astray(pt.3)./Led Astray(pt.4)./Led Astray(pt.5)./Led Astray(pt.6)./Saga of the Skyserpent(pt.1)./Saga of the Skyserpent(pt.2).]
+- **4702**: Which memory will you have recalled? [Nothing./Nashmeira PR./Razfahd PR./Naja PR./Blue Mage Trailer./Naja Trailer./Gordius Trailer./Volcano Trailer./Wildcat Reward(pt.1)./Wildcat Reward(pt.2)./Choosing an automaton frame./The Valoredge X-900./The Sharpshot Z-500./The Stormwaker Y-700./Assault Tutorial./Magus Attire(pt.1)./Magus Attire(pt.2)./Magus Attire(pt.3)./Magus Attire(pt.4)./Magus Attire(pt.5)./Magus Attire(pt.6)./Puppetry Attire(pt.1)./Puppetry Attire(pt.2)./Salvage./Wyrmseeker of Areuhat.]
+
 ## Events
 
 ### Event 65535
@@ -135,8 +148,7 @@
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
   3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=4694*)
-    → "The minstrel of melodies is my name,\u0007For a mere 
-\u0006 gil I'd recall your past.\u0007But I find that you're lacking in cash or in fame,\u0007So until that time, my kind offer will last.\u007F1\u0000\u0007"
+    → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
   6: 0x0020 [0x00] END_REQSTACK()
@@ -155,14 +167,12 @@
  19: 0x0079 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x008E
  21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=4694*)
-    → "The minstrel of melodies is my name,\u0007For a mere 
-\u0006 gil I'd recall your past.\u0007But I find that you're lacking in cash or in fame,\u0007So until that time, my kind offer will last.\u007F1\u0000\u0007"
+    → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  22: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008C [0x21] END_EVENT
  24: 0x008D [0x00] END_REQSTACK()
  25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=4693*)
-    → "The minstrel of melodies is my name,\u0007For a mere 
-\u0006 gil I'll recall your past.\u0007Your stories of love, anger, triumph, and shame,\u0007The river of memories runs deep and vast.\u007F1\u0000\u0007"
+    → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  26: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 124*) GOTO 0x009D
  28: 0x009A [0x01] GOTO 0x00E4
@@ -177,13 +187,13 @@
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
  39: 0x00D4 [0x24] CREATE_DIALOG(message_id=4696*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Aht Urhgan Missions.\u0007Aht Urhgan Quests 1.\u0007Aht Urhgan Quests 2.\u0007Aht Urhgan Quests 3.\u0007Aht Urhgan Quests 4.\u0007Other Quests.\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Aht Urhgan Missions./Aht Urhgan Quests 1./Aht Urhgan Quests 2./Aht Urhgan Quests 3./Aht Urhgan Quests 4./Other Quests.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
  42: 0x00E4 [0x24] CREATE_DIALOG(message_id=4697*, default_option=0*, option_flags=Work_Zone[2])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Immortal Sentries(pt.1).\u0007Immortal Sentries(pt.2).\u0007President Salaheem.\u0007Knight of Gold(pt.1).\u0007Knight of Gold(pt.2).\u0007Knight of Gold(pt.3).\u0007Knight of Gold(pt.4).\u0007Knight of Gold(pt.5).\u0007Knight of Gold(pt.6).\u0007Westerly Winds(pt.1).\u0007Westerly Winds(pt.2).\u0007Knight of Gold - Recollection(pt.1).\u0007Knight of Gold - Recollection(pt.2).\u0007Knight of Gold - Recollection(pt.3).\u0007Knight of Gold - Recollection(pt.4).\u0007Knight of Gold - Recollection(pt.5).\u0007Knight of Gold - Recollection(pt.6).\u0007Westerly Winds - Recollection(pt.1).\u0007Westerly Winds - Recollection(pt.2).\u0007Westerly Winds - Recollection(pt.3).\u0007Undersea Scouting.\u0007Imperial Schemes.\u0007Royal Puppeteer.\u0007The Black Coffin.\u0007Guests of the Empire(pt.1).\u0007Guests of the Empire(pt.2).\u0007Passing Glory.\u0007Sweets for the Soul.\u0007Teahouse Tumult.\u0007Shield of Diplomacy.\u0007Foiled Ambition.\u0007Playing the Part.\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Immortal Sentries(pt.1)./Immortal Sentries(pt.2)./President Salaheem./Knight of Gold(pt.1)./Knight of Gold(pt.2)./Knight of Gold(pt.3)./Knight of Gold(pt.4)./Knight of Gold(pt.5)./Knight of Gold(pt.6)./Westerly Winds(pt.1)./Westerly Winds(pt.2)./Knight of Gold - Recollection(pt.1)./Knight of Gold - Recollection(pt.2)./Knight of Gold - Recollection(pt.3)./Knight of Gold - Recollection(pt.4)./Knight of Gold - Recollection(pt.5)./Knight of Gold - Recollection(pt.6)./Westerly Winds - Recollection(pt.1)./Westerly Winds - Recollection(pt.2)./Westerly Winds - Recollection(pt.3)./Undersea Scouting./Imperial Schemes./Royal Puppeteer./The Black Coffin./Guests of the Empire(pt.1)./Guests of the Empire(pt.2)./Passing Glory./Sweets for the Soul./Teahouse Tumult./Shield of Diplomacy./Foiled Ambition./Playing the Part.]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
  45: 0x00F4 [0x03] Work_Zone[1] = 1073741824*
@@ -196,7 +206,7 @@ SUBROUTINE_0108:
 
 SUBROUTINE_0113:
  50: 0x0113 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=Work_Zone[3])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Arts and Crafts(pt.1).\u0007Arts and Crafts(pt.2).\u0007Got It All(pt.1).\u0007Got It All(pt.2).\u0007Got It All(pt.3).\u0007Got It All(pt.4).\u0007Got It All(pt.5).\u0007Got It All(pt.6).\u0007Got It All(pt.7).\u0007Get the Picture(pt.1).\u0007Get the Picture(pt.2).\u0007Get the Picture(pt.3).\u0007The Prankster(pt.1).\u0007The Prankster(pt.2).\u0007The Prankster(pt.3).\u0007Delivering the Goods(pt.1).\u0007Delivering the Goods(pt.2).\u0007Delivering the Goods(pt.3).\u0007Vanishing Act(pt.1).\u0007Vanishing Act(pt.2).\u0007Vanishing Act(pt.3).\u0007Vanishing Act(pt.4).\u0007Give Peace a Chance(pt.1).\u0007Give Peace a Chance(pt.2).\u0007Give Peace a Chance(pt.3).\u0007Luck of the Draw(pt.1).\u0007Luck of the Draw(pt.2).\u0007Luck of the Draw(pt.3).\u0007Finding Faults(pt.1).\u0007Finding Faults(pt.2).\u0007Finding Faults(pt.3).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Arts and Crafts(pt.1)./Arts and Crafts(pt.2)./Got It All(pt.1)./Got It All(pt.2)./Got It All(pt.3)./Got It All(pt.4)./Got It All(pt.5)./Got It All(pt.6)./Got It All(pt.7)./Get the Picture(pt.1)./Get the Picture(pt.2)./Get the Picture(pt.3)./The Prankster(pt.1)./The Prankster(pt.2)./The Prankster(pt.3)./Delivering the Goods(pt.1)./Delivering the Goods(pt.2)./Delivering the Goods(pt.3)./Vanishing Act(pt.1)./Vanishing Act(pt.2)./Vanishing Act(pt.3)./Vanishing Act(pt.4)./Give Peace a Chance(pt.1)./Give Peace a Chance(pt.2)./Give Peace a Chance(pt.3)./Luck of the Draw(pt.1)./Luck of the Draw(pt.2)./Luck of the Draw(pt.3)./Finding Faults(pt.1)./Finding Faults(pt.2)./Finding Faults(pt.3).]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
  53: 0x0123 [0x03] Work_Zone[1] = 1073741824*
@@ -209,7 +219,7 @@ SUBROUTINE_0137:
 
 SUBROUTINE_0142:
  58: 0x0142 [0x24] CREATE_DIALOG(message_id=4699*, default_option=0*, option_flags=Work_Zone[4])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007An Empty Vessel(pt.1).\u0007An Empty Vessel(pt.2).\u0007An Empty Vessel(pt.3).\u0007An Empty Vessel(pt.4).\u0007A Taste of Honey(pt.1).\u0007A Taste of Honey(pt.2).\u0007Promotion: Private First Class(pt.1).\u0007Promotion: Private First Class(pt.2).\u0007Promotion: Superior Private(pt.1).\u0007Promotion: Superior Private(pt.2).\u0007Promotion: Superior Private(pt.3).\u0007No Strings Attached(pt.1).\u0007No Strings Attached(pt.2).\u0007No Strings Attached(pt.3).\u0007No Strings Attached(pt.4).\u0007No Strings Attached(pt.5).\u0007The Die Is Cast(pt.1).\u0007The Die Is Cast(pt.2).\u0007The Die Is Cast(pt.3).\u0007Two Horn the Savage(pt.1).\u0007Two Horn the Savage(pt.2).\u0007Two Horn the Savage(pt.3).\u0007Keeping Notes(pt.1).\u0007Keeping Notes(pt.2).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./An Empty Vessel(pt.1)./An Empty Vessel(pt.2)./An Empty Vessel(pt.3)./An Empty Vessel(pt.4)./A Taste of Honey(pt.1)./A Taste of Honey(pt.2)./Promotion: Private First Class(pt.1)./Promotion: Private First Class(pt.2)./Promotion: Superior Private(pt.1)./Promotion: Superior Private(pt.2)./Promotion: Superior Private(pt.3)./No Strings Attached(pt.1)./No Strings Attached(pt.2)./No Strings Attached(pt.3)./No Strings Attached(pt.4)./No Strings Attached(pt.5)./The Die Is Cast(pt.1)./The Die Is Cast(pt.2)./The Die Is Cast(pt.3)./Two Horn the Savage(pt.1)./Two Horn the Savage(pt.2)./Two Horn the Savage(pt.3)./Keeping Notes(pt.1)./Keeping Notes(pt.2).]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
  61: 0x0152 [0x03] Work_Zone[1] = 1073741824*
@@ -222,7 +232,7 @@ SUBROUTINE_0166:
 
 SUBROUTINE_0171:
  66: 0x0171 [0x24] CREATE_DIALOG(message_id=4700*, default_option=0*, option_flags=Work_Zone[5])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Olduum(pt.1).\u0007Olduum(pt.2).\u0007Equipped for All Occasions.\u0007Striking a Balance(pt.1).\u0007Striking a Balance(pt.2).\u0007Striking a Balance(pt.3).\u0007Striking a Balance(pt.4).\u0007Striking a Balance(pt.5).\u0007Striking a Balance(pt.6).\u0007Striking a Balance(pt.7).\u0007Beginnings(pt.1).\u0007Beginnings(pt.2).\u0007Omens(pt.1).\u0007Omens(pt.2).\u0007Omens(pt.3).\u0007Omens(pt.4).\u0007Transformations.\u0007The Beast Within(pt.1).\u0007The Beast Within(pt.2).\u0007Promotion: Lance Corporal(pt.1).\u0007Promotion: Lance Corporal(pt.2).\u0007Promotion: Lance Corporal(pt.3).\u0007Promotion: Lance Corporal(pt.4).\u0007Promotion: Lance Corporal(pt.5).\u0007Against All Odds.\u0007Promotion: Corporal(pt.1).\u0007Promotion: Corporal(pt.2).\u0007The Art of War(pt.1).\u0007The Art of War(pt.2).\u0007The Art of War(pt.3).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Olduum(pt.1)./Olduum(pt.2)./Equipped for All Occasions./Striking a Balance(pt.1)./Striking a Balance(pt.2)./Striking a Balance(pt.3)./Striking a Balance(pt.4)./Striking a Balance(pt.5)./Striking a Balance(pt.6)./Striking a Balance(pt.7)./Beginnings(pt.1)./Beginnings(pt.2)./Omens(pt.1)./Omens(pt.2)./Omens(pt.3)./Omens(pt.4)./Transformations./The Beast Within(pt.1)./The Beast Within(pt.2)./Promotion: Lance Corporal(pt.1)./Promotion: Lance Corporal(pt.2)./Promotion: Lance Corporal(pt.3)./Promotion: Lance Corporal(pt.4)./Promotion: Lance Corporal(pt.5)./Against All Odds./Promotion: Corporal(pt.1)./Promotion: Corporal(pt.2)./The Art of War(pt.1)./The Art of War(pt.2)./The Art of War(pt.3).]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
  69: 0x0181 [0x03] Work_Zone[1] = 1073741824*
@@ -235,7 +245,7 @@ SUBROUTINE_0195:
 
 SUBROUTINE_01A0:
  74: 0x01A0 [0x24] CREATE_DIALOG(message_id=4701*, default_option=0*, option_flags=Work_Zone[6])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007The Wayward Automaton(pt.1).\u0007The Wayward Automaton(pt.2).\u0007Operation Teatime(pt.1).\u0007Operation Teatime(pt.2).\u0007Puppetmaster Blues(pt.1).\u0007Puppetmaster Blues(pt.2).\u0007Puppetmaster Blues(pt.3).\u0007Moment of Truth(pt.1).\u0007Moment of Truth(pt.2).\u0007Moment of Truth(pt.3).\u0007Moment of Truth(pt.4).\u0007Promotion: Sergeant(pt.1).\u0007Promotion: Sergeant(pt.2).\u0007Promotion: Sergeant(pt.3).\u0007Promotion: Sergeant Major(pt.1).\u0007Promotion: Sergeant Major(pt.2).\u0007Promotion: Sergeant Major(pt.3).\u0007Promotion: Sergeant Major(pt.4).\u0007Led Astray(pt.1).\u0007Led Astray(pt.2).\u0007Led Astray(pt.3).\u0007Led Astray(pt.4).\u0007Led Astray(pt.5).\u0007Led Astray(pt.6).\u0007Saga of the Skyserpent(pt.1).\u0007Saga of the Skyserpent(pt.2).\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./The Wayward Automaton(pt.1)./The Wayward Automaton(pt.2)./Operation Teatime(pt.1)./Operation Teatime(pt.2)./Puppetmaster Blues(pt.1)./Puppetmaster Blues(pt.2)./Puppetmaster Blues(pt.3)./Moment of Truth(pt.1)./Moment of Truth(pt.2)./Moment of Truth(pt.3)./Moment of Truth(pt.4)./Promotion: Sergeant(pt.1)./Promotion: Sergeant(pt.2)./Promotion: Sergeant(pt.3)./Promotion: Sergeant Major(pt.1)./Promotion: Sergeant Major(pt.2)./Promotion: Sergeant Major(pt.3)./Promotion: Sergeant Major(pt.4)./Led Astray(pt.1)./Led Astray(pt.2)./Led Astray(pt.3)./Led Astray(pt.4)./Led Astray(pt.5)./Led Astray(pt.6)./Saga of the Skyserpent(pt.1)./Saga of the Skyserpent(pt.2).]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
  77: 0x01B0 [0x03] Work_Zone[1] = 1073741824*
@@ -248,7 +258,7 @@ SUBROUTINE_01C4:
 
 SUBROUTINE_01CF:
  82: 0x01CF [0x24] CREATE_DIALOG(message_id=4702*, default_option=0*, option_flags=Work_Zone[7])
-    → "Which memory will you have recalled?\u0007\u000BNothing.\u0007Nashmeira PR.\u0007Razfahd PR.\u0007Naja PR.\u0007Blue Mage Trailer.\u0007Naja Trailer.\u0007Gordius Trailer.\u0007Volcano Trailer.\u0007Wildcat Reward(pt.1).\u0007Wildcat Reward(pt.2).\u0007Choosing an automaton frame.\u0007The Valoredge X-900.\u0007The Sharpshot Z-500.\u0007The Stormwaker Y-700.\u0007Assault Tutorial.\u0007Magus Attire(pt.1).\u0007Magus Attire(pt.2).\u0007Magus Attire(pt.3).\u0007Magus Attire(pt.4).\u0007Magus Attire(pt.5).\u0007Magus Attire(pt.6).\u0007Puppetry Attire(pt.1).\u0007Puppetry Attire(pt.2).\u0007Salvage.\u0007Wyrmseeker of Areuhat.\u007F1\u0000\u0007"
+    → "Which memory will you have recalled? [Nothing./Nashmeira PR./Razfahd PR./Naja PR./Blue Mage Trailer./Naja Trailer./Gordius Trailer./Volcano Trailer./Wildcat Reward(pt.1)./Wildcat Reward(pt.2)./Choosing an automaton frame./The Valoredge X-900./The Sharpshot Z-500./The Stormwaker Y-700./Assault Tutorial./Magus Attire(pt.1)./Magus Attire(pt.2)./Magus Attire(pt.3)./Magus Attire(pt.4)./Magus Attire(pt.5)./Magus Attire(pt.6)./Puppetry Attire(pt.1)./Puppetry Attire(pt.2)./Salvage./Wyrmseeker of Areuhat.]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9
  85: 0x01DF [0x03] Work_Zone[1] = 1073741824*
@@ -267,7 +277,7 @@ SUBROUTINE_01FD:
  94: 0x0200 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  95: 0x0202 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0210
  96: 0x020A [0x48] [System] [233*]:
-    → "You do not have enough gil.\u007F1\u0000\u0007"
+    → "You do not have enough gil."
  97: 0x020D [0x01] GOTO 0x0225
  98: 0x0210 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  99: 0x0221 [0x1C] WAIT(60* ticks)

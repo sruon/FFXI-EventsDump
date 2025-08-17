@@ -1,0 +1,172 @@
+# 17723596 - Carbuncle
+
+## Common Data
+
+| Field            | Value                         |
+|------------------|-------------------------------|
+| Zone             | Northern San d'Oria (ID: 231) |
+| Block Size       | 336 bytes                     |
+| Total Events     | 4                             |
+| References Count | 11                            |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [709](#event-709)        | 0x0001       |      7 |              2 |
+| [65535.1](#event-655351) | 0x0008       |     17 |              5 |
+| [65535.2](#event-655352) | 0x0019       |    233 |             23 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x6530      |       25904 |
+|       1 | 0x847A      |       33914 |
+|       2 | 0xFFFFA434  |  4294943796 |
+|       3 | 0x060E      |        1550 |
+|       4 | 0x00C8      |         200 |
+|       5 | 0x0000      |           0 |
+|       6 | 0x0005      |           5 |
+|       7 | 0x00F9      |         249 |
+|       8 | 0x0006      |           6 |
+|       9 | 0x00C9      |         201 |
+|      10 | 0x0064      |         100 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 709
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 7 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    92 01 F8 FF FF 7F 00                            .......        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x92] EventEntity->Render.Flags3 ^= 0x01
+  1: 0x0007 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0008   |
+| Data Size    | 17 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                          37 00 80 01 80 02 80 03          7.......
+0010: 80 1E F0 FF FF 7F 6F 70  00                       ......op.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0008 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=25.904*, z=33.914*, y=-23.500*, direction=136.2°*
+  1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0016 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x0017 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x0018 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0019    |
+| Data Size    | 233 bytes |
+| Instructions | 23        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                             45 04 80 F0 FF FF 7F           E......
+0020: F0 FF FF 7F 6F 76 6C 31  05 80 02 09 10 06 80 00  ....ovl1........
+0030: 46 00 45 07 80 F8 FF FF  7F F8 FF FF 7F 73 30 31  F.E..........s01
+0040: 37 05 80 01 73 00 02 09  10 08 80 00 62 00 45 07  7...s.......b.E.
+0050: 80 F8 FF FF 7F F8 FF FF  7F 73 30 31 37 05 80 01  .........s017...
+0060: 73 00 45 07 80 F8 FF FF  7F F8 FF FF 7F 73 30 31  s.E..........s01
+0070: 31 05 80 1C 04 80 02 09  10 06 80 00 90 00 52 07  1.............R.
+0080: 80 F8 FF FF 7F F8 FF FF  7F 73 30 31 37 01 B9 00  .........s017...
+0090: 02 09 10 08 80 00 AA 00  52 07 80 F8 FF FF 7F F8  ........R.......
+00A0: FF FF 7F 73 30 31 37 01  B9 00 52 07 80 F8 FF FF  ...s017...R.....
+00B0: 7F F8 FF FF 7F 73 30 31  31 45 04 80 F0 FF FF 7F  .....s011E......
+00C0: F0 FF FF 7F 6F 76 6C 31  05 80 45 07 80 F8 FF FF  ....ovl1..E.....
+00D0: 7F F8 FF FF 7F 73 30 31  30 05 80 1C 04 80 45 09  .....s010.....E.
+00E0: 80 F0 FF FF 7F F0 FF FF  7F 77 68 6F 31 05 80 1C  .........who1...
+00F0: 0A 80 52 07 80 F8 FF FF  7F F8 FF FF 7F 73 30 31  ..R..........s01
+0100: 30 00                                             0.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0019 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  1: 0x002A [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0046
+  2: 0x0032 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  3: 0x0043 [0x01] GOTO 0x0073
+  4: 0x0046 [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x0062
+  5: 0x004E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  6: 0x005F [0x01] GOTO 0x0073
+  7: 0x0062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[249*, 0*]
+
+SUBROUTINE_0073:
+  8: 0x0073 [0x1C] WAIT(200* ticks)
+  9: 0x0076 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0090
+ 10: 0x007E [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [EventEntity, EventEntity], work=249*
+ 11: 0x008D [0x01] GOTO 0x00B9
+ 12: 0x0090 [0x02] IF !(Work_Zone[9] == 6*) GOTO 0x00AA
+ 13: 0x0098 [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [EventEntity, EventEntity], work=249*
+ 14: 0x00A7 [0x01] GOTO 0x00B9
+ 15: 0x00AA [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=249*
+
+SUBROUTINE_00B9:
+ 16: 0x00B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 17: 0x00CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[249*, 0*]
+ 18: 0x00DB [0x1C] WAIT(200* ticks)
+ 19: 0x00DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 20: 0x00EF [0x1C] WAIT(100* ticks)
+ 21: 0x00F2 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [EventEntity, EventEntity], work=249*
+ 22: 0x0101 [0x00] END_REQSTACK()
+```

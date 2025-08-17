@@ -20,4 +20,4 @@
 
 | Actor ID (Hex)   |   Actor ID (Dec) | Name                            |   Events |
 |------------------|------------------|---------------------------------|----------|
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events/) |        4 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md) |        4 |

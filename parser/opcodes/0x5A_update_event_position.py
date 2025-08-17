@@ -27,6 +27,7 @@ class UpdateEventPositionOpcode(BaseOpcode):
         if mode == 0:
             if len(raw_bytes) >= 8:
                 import struct
+
                 pos_x_raw = struct.unpack_from("<H", raw_bytes, 2)[0]
                 pos_z_raw = struct.unpack_from("<H", raw_bytes, 4)[0]
                 pos_y_raw = struct.unpack_from("<H", raw_bytes, 6)[0]

@@ -1,0 +1,165 @@
+# 16863321 - Radiant Aureole
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Spire of Mea (ID: 21) |
+| Block Size       | 368 bytes             |
+| Total Events     | 2                     |
+| References Count | 17                    |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [14](#event-14)       | 0x0001       |    275 |             49 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1D18      |        7448 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x1D19      |        7449 |
+|       3 | 0x0001      |           1 |
+|       4 | 0x0049      |          73 |
+|       5 | 0x008C      |         140 |
+|       6 | 0x00C8      |         200 |
+|       7 | 0x003C      |          60 |
+|       8 | 0x1D1A      |        7450 |
+|       9 | 0x0098      |         152 |
+|      10 | 0x471E7     |      291303 |
+|      11 | 0xFFFFF831  |  4294965297 |
+|      12 | 0x0400      |        1024 |
+|      13 | 0x0014      |          20 |
+|      14 | 0x004A      |          74 |
+|      15 | 0x0078      |         120 |
+|      16 | 0x0002      |           2 |
+
+## String References
+
+- **7448**: Choose your path... [Leave Promyvion./Return to the spire entrance./Nothing.]
+- **7449**: Return to Tahrongi Canyon? [Yes./No.]
+- **7450**: Return to the web of recollections? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 14
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 275 bytes |
+| Instructions | 49        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 24 00 80 01 80  01 80 25 02 00 10 01 80    .$......%.....
+0010: 00 6B 00 24 02 80 03 80  01 80 25 02 00 10 01 80  .k.$......%.....
+0020: 00 58 00 42 43 00 43 01  03 01 10 03 80 9F 04 80  .X.BC.C.........
+0030: F0 FF FF 7F F0 FF FF 7F  6D 61 69 6E 01 80 1C 05  ........main....
+0040: 80 45 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E..........fdo1
+0050: 01 80 1C 07 80 01 68 00  02 00 10 03 80 00 68 00  ......h.......h.
+0060: 03 01 10 01 80 01 68 00  01 12 01 02 00 10 03 80  ......h.........
+0070: 00 02 01 24 08 80 03 80  01 80 25 02 00 10 01 80  ...$......%.....
+0080: 00 EF 00 42 43 00 43 01  03 01 10 01 80 9F 04 80  ...BC.C.........
+0090: F0 FF FF 7F F0 FF FF 7F  6D 61 69 6E 01 80 1C 05  ........main....
+00A0: 80 45 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E..........fdo1
+00B0: 01 80 1C 07 80 47 00 09  80 0A 80 0B 80 0C 80 47  .....G.........G
+00C0: 01 1C 0D 80 45 06 80 F0  FF FF 7F F0 FF FF 7F 66  ....E..........f
+00D0: 64 69 31 01 80 1C 07 80  9F 0E 80 F0 FF FF 7F F0  di1.............
+00E0: FF FF 7F 6D 61 69 6E 01  80 1C 0F 80 01 FF 00 02  ...main.........
+00F0: 00 10 03 80 00 FF 00 03  01 10 01 80 01 FF 00 01  ................
+0100: 12 01 02 00 10 10 80 00  12 01 03 01 10 01 80 01  ................
+0110: 12 01 21 00                                       ..!.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7448*, default_option=0*, option_flags=0*)
+    → "Choose your path... [Leave Promyvion./Return to the spire entrance./Nothing.]"
+  2: 0x000A [0x25] WAIT_DIALOG_SELECT()
+  3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006B
+  4: 0x0013 [0x24] CREATE_DIALOG(message_id=7449*, default_option=1*, option_flags=0*)
+    → "Return to Tahrongi Canyon? [Yes./No.]"
+  5: 0x001A [0x25] WAIT_DIALOG_SELECT()
+  6: 0x001B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0058
+  7: 0x0023 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  8: 0x0024 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  9: 0x0026 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 10: 0x0028 [0x03] Work_Zone[1] = 1*
+ 11: 0x002D [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
+ 12: 0x003E [0x1C] WAIT(140* ticks)
+ 13: 0x0041 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 14: 0x0052 [0x1C] WAIT(60* ticks)
+ 15: 0x0055 [0x01] GOTO 0x0068
+ 16: 0x0058 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0068
+ 17: 0x0060 [0x03] Work_Zone[1] = 0*
+ 18: 0x0065 [0x01] GOTO 0x0068
+
+SUBROUTINE_0068:
+ 19: 0x0068 [0x01] GOTO 0x0112
+ 20: 0x006B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0102
+ 21: 0x0073 [0x24] CREATE_DIALOG(message_id=7450*, default_option=1*, option_flags=0*)
+    → "Return to the web of recollections? [Yes./No.]"
+ 22: 0x007A [0x25] WAIT_DIALOG_SELECT()
+ 23: 0x007B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EF
+ 24: 0x0083 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 25: 0x0084 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 26: 0x0086 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 27: 0x0088 [0x03] Work_Zone[1] = 0*
+ 28: 0x008D [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
+ 29: 0x009E [0x1C] WAIT(140* ticks)
+ 30: 0x00A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 31: 0x00B2 [0x1C] WAIT(60* ticks)
+ 32: 0x00B5 [0x47] UPDATE_PLAYER_POS(0.152*, 291.303*, -1.999*, yaw=90.0°*)
+ 33: 0x00BF [0x47] WAIT_PLAYER_POS_UPDATE
+ 34: 0x00C1 [0x1C] WAIT(20* ticks)
+ 35: 0x00C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 36: 0x00D5 [0x1C] WAIT(60* ticks)
+ 37: 0x00D8 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
+ 38: 0x00E9 [0x1C] WAIT(120* ticks)
+ 39: 0x00EC [0x01] GOTO 0x00FF
+ 40: 0x00EF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00FF
+ 41: 0x00F7 [0x03] Work_Zone[1] = 0*
+ 42: 0x00FC [0x01] GOTO 0x00FF
+
+SUBROUTINE_00FF:
+ 43: 0x00FF [0x01] GOTO 0x0112
+ 44: 0x0102 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0112
+ 45: 0x010A [0x03] Work_Zone[1] = 0*
+ 46: 0x010F [0x01] GOTO 0x0112
+
+SUBROUTINE_0112:
+ 47: 0x0112 [0x21] END_EVENT
+ 48: 0x0113 [0x00] END_REQSTACK()
+```

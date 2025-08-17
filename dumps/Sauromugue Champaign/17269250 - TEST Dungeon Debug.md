@@ -1,0 +1,166 @@
+# 17269250 - TEST Dungeon Debug
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | Sauromugue Champaign (ID: 120) |
+| Block Size       | 372 bytes                      |
+| Total Events     | 2                              |
+| References Count | 22                             |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [5507](#event-5507)   | 0x0001       |    258 |             50 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0006      |           6 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0004      |           4 |
+|       4 | 0x0F24      |        3876 |
+|       5 | 0x0862      |        2146 |
+|       6 | 0x30C4      |       12484 |
+|       7 | 0x40000000  |  1073741824 |
+|       8 | 0x03E9      |        1001 |
+|       9 | 0x0002      |           2 |
+|      10 | 0x044E      |        1102 |
+|      11 | 0x0003      |           3 |
+|      12 | 0x30C8      |       12488 |
+|      13 | 0x03F1      |        1009 |
+|      14 | 0x03F2      |        1010 |
+|      15 | 0x03F3      |        1011 |
+|      16 | 0x03F4      |        1012 |
+|      17 | 0x0005      |           5 |
+|      18 | 0x03F5      |        1013 |
+|      19 | 0x044C      |        1100 |
+|      20 | 0x044D      |        1101 |
+|      21 | 0x03EC      |        1004 |
+
+## String References
+
+- **12484**: What'll it be? [Peace out./Help an adventurer recover!/Receive $6./Get key items and titles./Receive 10,000 research marks./Receive a completed $0. /
+- **12488**: For what expedition rank? [Quit wasting my time./Adjunct./Assistant./Instructor./Associate Researcher./Researcher./??? /
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 5507
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 258 bytes |
+| Instructions | 50        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 00 00 03 10 02 00  00 00 80 00 15 00 3C 01   .............<.
+0010: 00 01 80 02 80 3C 01 00  03 80 02 80 03 02 10 04  .....<..........
+0020: 80 03 03 10 05 80 24 06  80 00 80 01 00 25 02 00  ......$......%..
+0030: 10 00 80 00 3E 00 03 01  10 07 80 01 01 01 02 00  ....>...........
+0040: 10 02 80 00 4E 00 03 01  10 08 80 01 01 01 02 00  ....N...........
+0050: 10 09 80 00 5E 00 03 01  10 0A 80 01 01 01 02 00  ....^...........
+0060: 10 0B 80 00 E1 00 24 0C  80 00 80 00 80 25 02 00  ......$......%..
+0070: 10 00 80 00 7E 00 03 01  10 07 80 01 DE 00 02 00  ....~...........
+0080: 10 02 80 00 8E 00 03 01  10 0D 80 01 DE 00 02 00  ................
+0090: 10 09 80 00 9E 00 03 01  10 0E 80 01 DE 00 02 00  ................
+00A0: 10 0B 80 00 AE 00 03 01  10 0F 80 01 DE 00 02 00  ................
+00B0: 10 03 80 00 BE 00 03 01  10 10 80 01 DE 00 02 00  ................
+00C0: 10 11 80 00 CE 00 03 01  10 12 80 01 DE 00 02 00  ................
+00D0: 10 01 80 00 DE 00 03 01  10 13 80 01 DE 00 01 01  ................
+00E0: 01 02 00 10 03 80 00 F1  00 03 01 10 14 80 01 01  ................
+00F0: 01 02 00 10 11 80 00 01  01 03 01 10 15 80 01 01  ................
+0100: 01 21 00                                          .!.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
+  1: 0x0006 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0015
+  2: 0x000E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=6*, condition_work_offset=1*)
+  3: 0x0015 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
+  4: 0x001C [0x03] Work_Zone[2] = 3876*
+  5: 0x0021 [0x03] Work_Zone[3] = 2146*
+  6: 0x0026 [0x24] CREATE_DIALOG(message_id=12484*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+    → "What'll it be? [Peace out./Help an adventurer recover!/Receive $6./Get key items and titles./Receive 10,000 research marks./Receive a completed $0. /"
+  7: 0x002D [0x25] WAIT_DIALOG_SELECT()
+  8: 0x002E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
+  9: 0x0036 [0x03] Work_Zone[1] = 1073741824*
+ 10: 0x003B [0x01] GOTO 0x0101
+ 11: 0x003E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x004E
+ 12: 0x0046 [0x03] Work_Zone[1] = 1001*
+ 13: 0x004B [0x01] GOTO 0x0101
+ 14: 0x004E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x005E
+ 15: 0x0056 [0x03] Work_Zone[1] = 1102*
+ 16: 0x005B [0x01] GOTO 0x0101
+ 17: 0x005E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00E1
+ 18: 0x0066 [0x24] CREATE_DIALOG(message_id=12488*, default_option=0*, option_flags=0*)
+    → "For what expedition rank? [Quit wasting my time./Adjunct./Assistant./Instructor./Associate Researcher./Researcher./??? /"
+ 19: 0x006D [0x25] WAIT_DIALOG_SELECT()
+ 20: 0x006E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007E
+ 21: 0x0076 [0x03] Work_Zone[1] = 1073741824*
+ 22: 0x007B [0x01] GOTO 0x00DE
+ 23: 0x007E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x008E
+ 24: 0x0086 [0x03] Work_Zone[1] = 1009*
+ 25: 0x008B [0x01] GOTO 0x00DE
+ 26: 0x008E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x009E
+ 27: 0x0096 [0x03] Work_Zone[1] = 1010*
+ 28: 0x009B [0x01] GOTO 0x00DE
+ 29: 0x009E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00AE
+ 30: 0x00A6 [0x03] Work_Zone[1] = 1011*
+ 31: 0x00AB [0x01] GOTO 0x00DE
+ 32: 0x00AE [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00BE
+ 33: 0x00B6 [0x03] Work_Zone[1] = 1012*
+ 34: 0x00BB [0x01] GOTO 0x00DE
+ 35: 0x00BE [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x00CE
+ 36: 0x00C6 [0x03] Work_Zone[1] = 1013*
+ 37: 0x00CB [0x01] GOTO 0x00DE
+ 38: 0x00CE [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x00DE
+ 39: 0x00D6 [0x03] Work_Zone[1] = 1100*
+ 40: 0x00DB [0x01] GOTO 0x00DE
+
+SUBROUTINE_00DE:
+ 41: 0x00DE [0x01] GOTO 0x0101
+ 42: 0x00E1 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00F1
+ 43: 0x00E9 [0x03] Work_Zone[1] = 1101*
+ 44: 0x00EE [0x01] GOTO 0x0101
+ 45: 0x00F1 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0101
+ 46: 0x00F9 [0x03] Work_Zone[1] = 1004*
+ 47: 0x00FE [0x01] GOTO 0x0101
+
+SUBROUTINE_0101:
+ 48: 0x0101 [0x21] END_EVENT
+ 49: 0x0102 [0x00] END_REQSTACK()
+```

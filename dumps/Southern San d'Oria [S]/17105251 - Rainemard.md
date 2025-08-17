@@ -1,0 +1,141 @@
+# 17105251 - Rainemard
+
+## Common Data
+
+| Field            | Value                            |
+|------------------|----------------------------------|
+| Zone             | Southern San d'Oria [S] (ID: 80) |
+| Block Size       | 212 bytes                        |
+| Total Events     | 2                                |
+| References Count | 6                                |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [503](#event-503)     | 0x0001       |    160 |             40 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x2BF5      |       11253 |
+|       3 | 0x0002      |           2 |
+|       4 | 0x0003      |           3 |
+|       5 | 0x2BF4      |       11252 |
+
+## String References
+
+- **11252**: Shall this be the place where I happen to chance upon the truth I seek?
+- **11253**: A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 503
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 160 bytes |
+| Instructions | 40        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 42 1E F0 FF FF  7F 03 00 00 02 10 03 01    .B............
+0010: 00 03 10 03 02 00 04 10  03 03 00 05 10 03 04 00  ................
+0020: 06 10 02 00 00 00 80 00  99 00 02 03 00 01 80 00  ................
+0030: 8B 00 02 02 00 01 80 00  84 00 02 01 00 00 80 80  ................
+0040: 45 00 01 81 00 02 01 00  01 80 80 59 00 03 02 10  E..........Y....
+0050: 00 80 1D 02 80 23 01 81  00 02 01 00 03 80 80 6D  .....#.........m
+0060: 00 03 02 10 01 80 1D 02  80 23 01 81 00 02 01 00  .........#......
+0070: 04 80 80 81 00 03 02 10  03 80 1D 02 80 23 01 81  .............#..
+0080: 00 01 88 00 1D 05 80 23  01 96 00 02 03 00 03 80  .......#........
+0090: 00 96 00 01 96 00 01 9D  00 1D 05 80 23 20 00 21  ............# .!
+00A0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x0009 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
+  4: 0x000E [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
+  5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
+  6: 0x0018 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
+  7: 0x001D [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[6]
+  8: 0x0022 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0099
+  9: 0x002A [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x008B
+ 10: 0x0032 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0084
+ 11: 0x003A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0045
+ 12: 0x0042 [0x01] GOTO 0x0081
+ 13: 0x0045 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0059
+ 14: 0x004D [0x03] Work_Zone[2] = 0*
+ 15: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11253*)
+    → "A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply."
+ 16: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 17: 0x0056 [0x01] GOTO 0x0081
+ 18: 0x0059 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x006D
+ 19: 0x0061 [0x03] Work_Zone[2] = 1*
+ 20: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=11253*)
+    → "A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply."
+ 21: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 22: 0x006A [0x01] GOTO 0x0081
+ 23: 0x006D [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0081
+ 24: 0x0075 [0x03] Work_Zone[2] = 2*
+ 25: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=11253*)
+    → "A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply."
+ 26: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x007E [0x01] GOTO 0x0081
+
+SUBROUTINE_0081:
+ 28: 0x0081 [0x01] GOTO 0x0088
+ 29: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=11252*)
+    → "Shall this be the place where I happen to chance upon the truth I seek?"
+ 30: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0088:
+ 31: 0x0088 [0x01] GOTO 0x0096
+ 32: 0x008B [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0096
+ 33: 0x0093 [0x01] GOTO 0x0096
+
+SUBROUTINE_0096:
+ 34: 0x0096 [0x01] GOTO 0x009D
+ 35: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=11252*)
+    → "Shall this be the place where I happen to chance upon the truth I seek?"
+ 36: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_009D:
+ 37: 0x009D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 38: 0x009F [0x21] END_EVENT
+ 39: 0x00A0 [0x00] END_REQSTACK()
+```

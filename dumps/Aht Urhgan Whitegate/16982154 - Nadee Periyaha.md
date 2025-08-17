@@ -11,14 +11,14 @@
 
 ## List of Events
 
-| Event ID                  | Entrypoint   |   Size |   Instructions |
-|---------------------------|--------------|--------|----------------|
-| [65535](#event-65535)     | 0x0000       |      1 |              1 |
-| [90](#event-90)           | 0x0001       |     62 |             18 |
-| [849](#event-849)         | 0x003F       |      1 |              1 |
-| [65535.1](#event-65535-1) | 0x0040       |      4 |              2 |
-| [851](#event-851)         | 0x0044       |     19 |              9 |
-| [852](#event-852)         | 0x0057       |     15 |              7 |
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [90](#event-90)          | 0x0001       |     62 |             18 |
+| [849](#event-849)        | 0x003F       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0040       |      4 |              2 |
+| [851](#event-851)        | 0x0044       |     19 |              9 |
+| [852](#event-852)        | 0x0057       |     15 |              7 |
 
 ## DAT References (imed_data)
 
@@ -37,6 +37,19 @@
 |      10 | 0x3157      |       12631 |
 |      11 | 0x3138      |       12600 |
 |      12 | 0x3183      |       12675 |
+
+## String References
+
+- **9393**: I'm Nadee Periyaha, the mercenary! I used to live in Nashmau.
+- **9394**: Oh, don't tell me...you've met me there before?
+- **9395**: I started to pick up Qiqirn ways when I was there. It can make life difficult, so you should be careful too!
+- **9396**: There are many Qiqirn even in this town... Don't let your guard down, or yooo could end up speaking slooowly just like they dooo.
+- **9397**: ...Oh no! I didn't do it again, did I!?
+- **12600**: If you want to lure a Qiqirn out of hiding, you'll first need to learn how to talk like one.
+- **12629**: I wonder what got into him?
+- **12630**: Anyway, I think he may be able to shed a little light on our friend Kakkaroon's fear of children.
+- **12631**: Why don't you go visit him at his shop?
+- **12675**: Remember, "When in Rolanberry, one must eat the rolanberries."
 
 ## Events
 
@@ -88,22 +101,22 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
-    → "I'm Nadee Periyaha, the mercenary! I used to live in Nashmau.\u007F1\u0000\u0007"
+    → "I'm Nadee Periyaha, the mercenary! I used to live in Nashmau."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
   6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9394*)
-    → "Oh, don't tell me...you've met me there before?\u007F1\u0000\u0007"
+    → "Oh, don't tell me...you've met me there before?"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9395*)
-    → "I started to pick up Qiqirn ways when I was there. It can make life difficult, so you should be careful too!\u007F1\u0000\u0007"
+    → "I started to pick up Qiqirn ways when I was there. It can make life difficult, so you should be careful too!"
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=9396*)
-    → "There are many Qiqirn even in this town... Don't let your guard down, or yooo could end up speaking slooowly just like they dooo.\u007F1\u0000\u0007"
+    → "There are many Qiqirn even in this town... Don't let your guard down, or yooo could end up speaking slooowly just like they dooo."
  11: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0027 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
  13: 0x0036 [0x1C] WAIT(30* ticks)
  14: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=9397*)
-    → "...Oh no! I didn't do it again, did I!?\u007F1\u0000\u0007"
+    → "...Oh no! I didn't do it again, did I!?"
  15: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x003D [0x21] END_EVENT
  17: 0x003E [0x00] END_REQSTACK()
@@ -176,13 +189,13 @@
 ```
   0: 0x0044 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=12629*)
-    → "I wonder what got into him?\u007F1\u0000\u0007"
+    → "I wonder what got into him?"
   2: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=12630*)
-    → "Anyway, I think he may be able to shed a little light on our friend Kakkaroon's fear of children.\u007F1\u0000\u0007"
+    → "Anyway, I think he may be able to shed a little light on our friend Kakkaroon's fear of children."
   4: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=12631*)
-    → "Why don't you go   visit   him   at   his   shop?\u007F1\u0000\u0007"
+    → "Why don't you go visit him at his shop?"
   6: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0055 [0x21] END_EVENT
   8: 0x0056 [0x00] END_REQSTACK()
@@ -210,10 +223,10 @@
 ```
   0: 0x0057 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=12600*)
-    → "If you want to lure a Qiqirn out of hiding, you'll first need to learn how to talk like one.\u007F1\u0000\u0007"
+    → "If you want to lure a Qiqirn out of hiding, you'll first need to learn how to talk like one."
   2: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=12675*)
-    → "Remember, \u00072When in Rolanberry, one must eat the rolanberries.\u00073\u007F1\u0000\u0007"
+    → "Remember, "When in Rolanberry, one must eat the rolanberries.""
   4: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0064 [0x21] END_EVENT
   6: 0x0065 [0x00] END_REQSTACK()

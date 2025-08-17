@@ -1,0 +1,4576 @@
+# 17924231 - Chacharoon
+
+## Common Data
+
+| Field            | Value                |
+|------------------|----------------------|
+| Zone             | Mog Garden (ID: 280) |
+| Block Size       | 15876 bytes          |
+| Total Events     | 18                   |
+| References Count | 359                  |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [65534](#event-65534)    | 0x0001       |      1 |              1 |
+| [907](#event-907)        | 0x0002       |     16 |              6 |
+| [1075](#event-1075)      | 0x0012       |      4 |              2 |
+| [65535.1](#event-655351) | 0x0016       |     10 |              2 |
+| [2050](#event-2050)      | 0x0020       |    205 |             25 |
+| [2051](#event-2051)      | 0x00ED       |      1 |              1 |
+| [2052](#event-2052)      | 0x00EE       |    248 |             32 |
+| [2047](#event-2047)      | 0x01E6       |     50 |             13 |
+| [2048](#event-2048)      | 0x0218       |     50 |             13 |
+| [2055](#event-2055)      | 0x024A       |     16 |              6 |
+| [2056](#event-2056)      | 0x025A       |     45 |             10 |
+| [2057](#event-2057)      | 0x0287       |     45 |             10 |
+| [2058](#event-2058)      | 0x02B4       |     50 |             11 |
+| [2059](#event-2059)      | 0x02E6       |      1 |              1 |
+| [2061](#event-2061)      | 0x02E7       |      1 |              1 |
+| [2066](#event-2066)      | 0x02E8       |     49 |             12 |
+| [2074](#event-2074)      | 0x0319       |  13559 |           2496 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x4564      |       17764 |
+|       1 | 0x18F7      |        6391 |
+|       2 | 0xFFFFDA33  |  4294957619 |
+|       3 | 0x2163      |        8547 |
+|       4 | 0x01C5      |         453 |
+|       5 | 0x0BDA      |        3034 |
+|       6 | 0x00C8      |         200 |
+|       7 | 0x0000      |           0 |
+|       8 | 0x0013      |          19 |
+|       9 | 0xFFFFD700  |  4294956800 |
+|      10 | 0x25B8      |        9656 |
+|      11 | 0x016A      |         362 |
+|      12 | 0x02E2      |         738 |
+|      13 | 0x02B2      |         690 |
+|      14 | 0x1DB4      |        7604 |
+|      15 | 0x0DEE      |        3566 |
+|      16 | 0x1FB2      |        8114 |
+|      17 | 0x1FB3      |        8115 |
+|      18 | 0x1FB4      |        8116 |
+|      19 | 0x1FB5      |        8117 |
+|      20 | 0x110E      |        4366 |
+|      21 | 0x1FE1      |        8161 |
+|      22 | 0x1FE2      |        8162 |
+|      23 | 0x0332      |         818 |
+|      24 | 0x2001      |        8193 |
+|      25 | 0x2088      |        8328 |
+|      26 | 0x2089      |        8329 |
+|      27 | 0x2133      |        8499 |
+|      28 | 0x2134      |        8500 |
+|      29 | 0x0001      |           1 |
+|      30 | 0x0002      |           2 |
+|      31 | 0x0003      |           3 |
+|      32 | 0x0008      |           8 |
+|      33 | 0x000B      |          11 |
+|      34 | 0x000C      |          12 |
+|      35 | 0x000F      |          15 |
+|      36 | 0x0010      |          16 |
+|      37 | 0x0015      |          21 |
+|      38 | 0x0017      |          23 |
+|      39 | 0x0018      |          24 |
+|      40 | 0x0019      |          25 |
+|      41 | 0x2198      |        8600 |
+|      42 | 0x2199      |        8601 |
+|      43 | 0x0005      |           5 |
+|      44 | 0x0004      |           4 |
+|      45 | 0x0007      |           7 |
+|      46 | 0x0014      |          20 |
+|      47 | 0x0006      |           6 |
+|      48 | 0x219B      |        8603 |
+|      49 | 0x1D71      |        7537 |
+|      50 | 0x219C      |        8604 |
+|      51 | 0x219F      |        8607 |
+|      52 | 0x219D      |        8605 |
+|      53 | 0x219E      |        8606 |
+|      54 | 0x001F      |          31 |
+|      55 | 0x2201      |        8705 |
+|      56 | 0x1CA1      |        7329 |
+|      57 | 0x40000000  |  1073741824 |
+|      58 | 0xFFB00FF   |   268108031 |
+|      59 | 0xFFD00FF   |   268239103 |
+|      60 | 0xFFC00FF   |   268173567 |
+|      61 | 0x21A0      |        8608 |
+|      62 | 0x21A2      |        8610 |
+|      63 | 0x21A1      |        8609 |
+|      64 | 0x0012      |          18 |
+|      65 | 0x21A3      |        8611 |
+|      66 | 0x21AF      |        8623 |
+|      67 | 0x046E      |        1134 |
+|      68 | 0x21B0      |        8624 |
+|      69 | 0x21B1      |        8625 |
+|      70 | 0x21B2      |        8626 |
+|      71 | 0x21B3      |        8627 |
+|      72 | 0x21B4      |        8628 |
+|      73 | 0x21B5      |        8629 |
+|      74 | 0x21B6      |        8630 |
+|      75 | 0x21B7      |        8631 |
+|      76 | 0x0009      |           9 |
+|      77 | 0x21AC      |        8620 |
+|      78 | 0x21AD      |        8621 |
+|      79 | 0x001B      |          27 |
+|      80 | 0x21AE      |        8622 |
+|      81 | 0x0028      |          40 |
+|      82 | 0xFFFFFFFF  |  4294967295 |
+|      83 | 0x21A4      |        8612 |
+|      84 | 0x001A      |          26 |
+|      85 | 0x1869F     |       99999 |
+|      86 | 0x21A5      |        8613 |
+|      87 | 0x21A6      |        8614 |
+|      88 | 0x21A7      |        8615 |
+|      89 | 0x21A8      |        8616 |
+|      90 | 0x21A9      |        8617 |
+|      91 | 0x00B4      |         180 |
+|      92 | 0x21AA      |        8618 |
+|      93 | 0x003C      |          60 |
+|      94 | 0xFFFFFFFE  |  4294967294 |
+|      95 | 0x21AB      |        8619 |
+|      96 | 0xFFFFFFFD  |  4294967293 |
+|      97 | 0x21EB      |        8683 |
+|      98 | 0x0040      |          64 |
+|      99 | 0x21EC      |        8684 |
+|     100 | 0x21ED      |        8685 |
+|     101 | 0x21EE      |        8686 |
+|     102 | 0x21EF      |        8687 |
+|     103 | 0x21F0      |        8688 |
+|     104 | 0x21F1      |        8689 |
+|     105 | 0x21F2      |        8690 |
+|     106 | 0x21F3      |        8691 |
+|     107 | 0x21F4      |        8692 |
+|     108 | 0x21F5      |        8693 |
+|     109 | 0x21F6      |        8694 |
+|     110 | 0x21F7      |        8695 |
+|     111 | 0x21F8      |        8696 |
+|     112 | 0x21F9      |        8697 |
+|     113 | 0x21FA      |        8698 |
+|     114 | 0x21FB      |        8699 |
+|     115 | 0x21FC      |        8700 |
+|     116 | 0x21FD      |        8701 |
+|     117 | 0x21FE      |        8702 |
+|     118 | 0x219A      |        8602 |
+|     119 | 0x21E1      |        8673 |
+|     120 | 0x21E2      |        8674 |
+|     121 | 0x2226      |        8742 |
+|     122 | 0x21E3      |        8675 |
+|     123 | 0x21E4      |        8676 |
+|     124 | 0xFFFFCEB1  |  4294954673 |
+|     125 | 0x2F8A      |       12170 |
+|     126 | 0x009C      |         156 |
+|     127 | 0x0369      |         873 |
+|     128 | 0x56288     |      352904 |
+|     129 | 0xFFF791BD  |  4294414781 |
+|     130 | 0xFFFFF351  |  4294964049 |
+|     131 | 0x0F73      |        3955 |
+|     132 | 0x21E5      |        8677 |
+|     133 | 0x222B      |        8747 |
+|     134 | 0x222A      |        8746 |
+|     135 | 0x21E6      |        8678 |
+|     136 | 0x21E7      |        8679 |
+|     137 | 0x000D      |          13 |
+|     138 | 0x21E8      |        8680 |
+|     139 | 0x58494     |      361620 |
+|     140 | 0xFFF75298  |  4294398616 |
+|     141 | 0xFFFFFACE  |  4294965966 |
+|     142 | 0x0C78      |        3192 |
+|     143 | 0x21B8      |        8632 |
+|     144 | 0x0046      |          70 |
+|     145 | 0x2225      |        8741 |
+|     146 | 0x21BA      |        8634 |
+|     147 | 0x21BB      |        8635 |
+|     148 | 0x0340      |         832 |
+|     149 | 0x21C2      |        8642 |
+|     150 | 0x0341      |         833 |
+|     151 | 0x21C3      |        8643 |
+|     152 | 0x023C      |         572 |
+|     153 | 0x21C4      |        8644 |
+|     154 | 0x0365      |         869 |
+|     155 | 0x21C5      |        8645 |
+|     156 | 0x21BC      |        8636 |
+|     157 | 0x034F      |         847 |
+|     158 | 0x21C6      |        8646 |
+|     159 | 0x1106      |        4358 |
+|     160 | 0x21C7      |        8647 |
+|     161 | 0x03AF      |         943 |
+|     162 | 0x21C8      |        8648 |
+|     163 | 0x21BD      |        8637 |
+|     164 | 0x03AA      |         938 |
+|     165 | 0x21C9      |        8649 |
+|     166 | 0x174B      |        5963 |
+|     167 | 0x21CA      |        8650 |
+|     168 | 0x0270      |         624 |
+|     169 | 0x21CB      |        8651 |
+|     170 | 0x000A      |          10 |
+|     171 | 0x03A8      |         936 |
+|     172 | 0x21CC      |        8652 |
+|     173 | 0x1112      |        4370 |
+|     174 | 0x21CD      |        8653 |
+|     175 | 0x21BE      |        8638 |
+|     176 | 0x21CE      |        8654 |
+|     177 | 0x0275      |         629 |
+|     178 | 0x21CF      |        8655 |
+|     179 | 0x000E      |          14 |
+|     180 | 0x027D      |         637 |
+|     181 | 0x21D0      |        8656 |
+|     182 | 0x1110      |        4368 |
+|     183 | 0x222F      |        8751 |
+|     184 | 0x21BF      |        8639 |
+|     185 | 0x0358      |         856 |
+|     186 | 0x21D1      |        8657 |
+|     187 | 0x0011      |          17 |
+|     188 | 0x21D2      |        8658 |
+|     189 | 0x21C0      |        8640 |
+|     190 | 0x03A0      |         928 |
+|     191 | 0x21D3      |        8659 |
+|     192 | 0x0373      |         883 |
+|     193 | 0x21D4      |        8660 |
+|     194 | 0x21C1      |        8641 |
+|     195 | 0x21D5      |        8661 |
+|     196 | 0x21D6      |        8662 |
+|     197 | 0x0016      |          22 |
+|     198 | 0x21D7      |        8663 |
+|     199 | 0x0045      |          69 |
+|     200 | 0x21D9      |        8665 |
+|     201 | 0x21DA      |        8666 |
+|     202 | 0xFFFFFFFC  |  4294967292 |
+|     203 | 0x21D8      |        8664 |
+|     204 | 0x21DB      |        8667 |
+|     205 | 0x21DC      |        8668 |
+|     206 | 0x21DD      |        8669 |
+|     207 | 0x21DE      |        8670 |
+|     208 | 0x21DF      |        8671 |
+|     209 | 0x21E0      |        8672 |
+|     210 | 0x001C      |          28 |
+|     211 | 0x001D      |          29 |
+|     212 | 0x0063      |          99 |
+|     213 | 0x0032      |          50 |
+|     214 | 0x0049      |          73 |
+|     215 | 0xFFFFF62B  |  4294964779 |
+|     216 | 0xFFFFEC34  |  4294962228 |
+|     217 | 0x01C4      |         452 |
+|     218 | 0x0CF5      |        3317 |
+|     219 | 0x0048      |          72 |
+|     220 | 0x582C8     |      361160 |
+|     221 | 0xFFF788EE  |  4294412526 |
+|     222 | 0xFFFFF2F4  |  4294963956 |
+|     223 | 0x064D      |        1613 |
+|     224 | 0x002E      |          46 |
+|     225 | 0x007F      |         127 |
+|     226 | 0x0100      |         256 |
+|     227 | 0x0200      |         512 |
+|     228 | 0x004A      |          74 |
+|     229 | 0x00C3      |         195 |
+|     230 | 0x012C      |         300 |
+|     231 | 0x02EE      |         750 |
+|     232 | 0x0050      |          80 |
+|     233 | 0x0064      |         100 |
+|     234 | 0x2710      |       10000 |
+|     235 | 0x4E20      |       20000 |
+|     236 | 0x9C40      |       40000 |
+|     237 | 0x13880     |       80000 |
+|     238 | 0x27100     |      160000 |
+|     239 | 0x4E200     |      320000 |
+|     240 | 0x096C      |        2412 |
+|     241 | 0x096D      |        2413 |
+|     242 | 0x096E      |        2414 |
+|     243 | 0x096F      |        2415 |
+|     244 | 0x0970      |        2416 |
+|     245 | 0x0971      |        2417 |
+|     246 | 0x0973      |        2419 |
+|     247 | 0x0974      |        2420 |
+|     248 | 0x0975      |        2421 |
+|     249 | 0x0976      |        2422 |
+|     250 | 0x0977      |        2423 |
+|     251 | 0x0978      |        2424 |
+|     252 | 0x097A      |        2426 |
+|     253 | 0x097B      |        2427 |
+|     254 | 0x097C      |        2428 |
+|     255 | 0x097D      |        2429 |
+|     256 | 0x097E      |        2430 |
+|     257 | 0x097F      |        2431 |
+|     258 | 0x0981      |        2433 |
+|     259 | 0x0982      |        2434 |
+|     260 | 0x0983      |        2435 |
+|     261 | 0x0984      |        2436 |
+|     262 | 0x0985      |        2437 |
+|     263 | 0x0986      |        2438 |
+|     264 | 0x0988      |        2440 |
+|     265 | 0x0989      |        2441 |
+|     266 | 0x098A      |        2442 |
+|     267 | 0x098B      |        2443 |
+|     268 | 0x098C      |        2444 |
+|     269 | 0x098D      |        2445 |
+|     270 | 0x0A49      |        2633 |
+|     271 | 0x0AE9      |        2793 |
+|     272 | 0x0B16      |        2838 |
+|     273 | 0x0B1C      |        2844 |
+|     274 | 0x0B1D      |        2845 |
+|     275 | 0x0B1E      |        2846 |
+|     276 | 0x0A52      |        2642 |
+|     277 | 0x0A53      |        2643 |
+|     278 | 0x0A54      |        2644 |
+|     279 | 0x0A55      |        2645 |
+|     280 | 0x0A56      |        2646 |
+|     281 | 0x0A57      |        2647 |
+|     282 | 0x0A58      |        2648 |
+|     283 | 0x0A59      |        2649 |
+|     284 | 0x0A5A      |        2650 |
+|     285 | 0x0A5B      |        2651 |
+|     286 | 0x0A5C      |        2652 |
+|     287 | 0x0A5D      |        2653 |
+|     288 | 0x0A5E      |        2654 |
+|     289 | 0x0A5F      |        2655 |
+|     290 | 0x0A60      |        2656 |
+|     291 | 0x0A61      |        2657 |
+|     292 | 0x0A62      |        2658 |
+|     293 | 0x0A63      |        2659 |
+|     294 | 0x0A64      |        2660 |
+|     295 | 0x0A65      |        2661 |
+|     296 | 0x0A66      |        2662 |
+|     297 | 0x0A67      |        2663 |
+|     298 | 0x0A68      |        2664 |
+|     299 | 0x0A69      |        2665 |
+|     300 | 0x0A6A      |        2666 |
+|     301 | 0x0A6B      |        2667 |
+|     302 | 0x0A6C      |        2668 |
+|     303 | 0x0A6D      |        2669 |
+|     304 | 0x0A6E      |        2670 |
+|     305 | 0x0A6F      |        2671 |
+|     306 | 0x0A70      |        2672 |
+|     307 | 0x0A71      |        2673 |
+|     308 | 0x0A72      |        2674 |
+|     309 | 0x0A73      |        2675 |
+|     310 | 0x0A74      |        2676 |
+|     311 | 0x0A75      |        2677 |
+|     312 | 0x0A76      |        2678 |
+|     313 | 0x0A77      |        2679 |
+|     314 | 0x0A78      |        2680 |
+|     315 | 0x0A79      |        2681 |
+|     316 | 0x0A7A      |        2682 |
+|     317 | 0x0A7B      |        2683 |
+|     318 | 0x0A7C      |        2684 |
+|     319 | 0x0A7D      |        2685 |
+|     320 | 0x0A7E      |        2686 |
+|     321 | 0x0A7F      |        2687 |
+|     322 | 0x0C79      |        3193 |
+|     323 | 0x0C7A      |        3194 |
+|     324 | 0x0C7B      |        3195 |
+|     325 | 0x0C7C      |        3196 |
+|     326 | 0x0C7D      |        3197 |
+|     327 | 0x0C7E      |        3198 |
+|     328 | 0x0C7F      |        3199 |
+|     329 | 0x0C80      |        3200 |
+|     330 | 0x0C81      |        3201 |
+|     331 | 0x0A80      |        2688 |
+|     332 | 0x0A81      |        2689 |
+|     333 | 0x0A82      |        2690 |
+|     334 | 0x0A83      |        2691 |
+|     335 | 0x0A84      |        2692 |
+|     336 | 0x0A85      |        2693 |
+|     337 | 0x0A86      |        2694 |
+|     338 | 0x0A87      |        2695 |
+|     339 | 0x0A88      |        2696 |
+|     340 | 0x0A89      |        2697 |
+|     341 | 0x0A8A      |        2698 |
+|     342 | 0x0A8B      |        2699 |
+|     343 | 0x0A8C      |        2700 |
+|     344 | 0x0A8D      |        2701 |
+|     345 | 0x0A8E      |        2702 |
+|     346 | 0x0A8F      |        2703 |
+|     347 | 0x0A90      |        2704 |
+|     348 | 0x0A91      |        2705 |
+|     349 | 0x0A92      |        2706 |
+|     350 | 0x0A93      |        2707 |
+|     351 | 0x0A94      |        2708 |
+|     352 | 0x0A95      |        2709 |
+|     353 | 0x0A96      |        2710 |
+|     354 | 0x0A97      |        2711 |
+|     355 | 0x0A98      |        2712 |
+|     356 | 0x0A99      |        2713 |
+|     357 | 0x0A9A      |        2714 |
+|     358 | 0x0A9B      |        2715 |
+
+## String References
+
+- **6391**: Obtained: #.
+- **7329**: Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]
+- **7537**: You cannot perform that action as long as a creature that has succumbed to the darkness prowls the garden.
+- **7604**: What a terrific time to test tag utility, kupo!
+- **8114**: Talk to sheep good. It like peeeople voice.
+- **8115**: Dooo what can. Sheep is limit! Wait, maybe limit is sky...
+- **8116**: ...Everything go in-ear and stay in-ear? Be geeentle and stuff happen! That all need know.
+- **8117**: Chief, tell moogle of Chacharoon's graaand feat! Much due for kind-words!
+- **8161**: Chief can get $3 for Chacharoon and feed to scaaaredy lamb?
+- **8162**: <Player> so very much loving! Nicer than all people in wooorld put together! Chacharoon be gloating to moogle in soon-times.
+- **8193**: Please be paaassing $1 to moogle. Is Chacharoon's dearerest wish.
+- **8328**: You have thing-tell to Chacharoon?
+- **8329**: Then go to rearing grounds to make tongue-wiggle!
+- **8499**: Oooooo! Chief go all the faraway-way to Jeuno? Biiiiiig thank you!
+- **8500**: Let's take these creature-crunchies to the back-cave rearing place.
+- **8600**: <Snurk><snurk> ...Chacharoon always know this must happen with head, but not heart. Stopping eye driiibbles is hard.
+- **8601**: Today <Player> is talk to Chacharoon why?
+- **8602**: Who do you choose? [None./%0./%1./%2./%3.]
+- **8603**: Please make a decision. [Decide to do nothing./Raise a new creature./Choose a parenting style./Part with your creature./Change rearing priority./View "Boss's Advice."/Discuss a cheering effect./Move to a different location.]
+- **8604**: Chacharoon putting smiley work into %0!
+- **8605**: %0? Is bestest choice!
+- **8606**: Cooome to Chacharoon... My precious %0!
+- **8607**: You have already set %0 as your rearing priority.
+- **8608**: Ohhhhhh best cheering here! I make great happy noises!
+- **8609**: Let me show good thing to you!
+- **8610**: Today's happy cheer is $3!
+- **8611**: Select your cheering pleasure. [No changes./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters./Hear an explanation./No more cheering.]
+- **8612**: Pick your poison. [Nothing for now./3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3.]
+- **8613**: You need $31 shining star[/s] for $3.
+- **8614**: The effects of $3 will be overwritten with those of $3.
+- **8615**: What will you do? ($! star[/s]) [Get cheering! ($31 star[/s] needed)/Nothing for now.]
+- **8616**: Ooooooh, this be good! Chacharoon be happy tail!
+- **8617**: Chaaaaaarm!!!
+- **8618**: The $3 satisfies the monster and triggers $3!
+- **8619**: You do not have enough shining stars.
+- **8620**: Stop receiving Chacharoon's boons? [Yes. I've had enough./No. Continue on.]
+- **8621**: Hm? You haaad enough of Chacharoon's cheer? No problem!
+- **8622**: The effect of Chacharoon's cheer stops.
+- **8623**: I think moogle understand my technique. Now read memo...
+- **8624**: Chacharoon shows you $0 entitled "Concerning Chacharoon's Cheer." Let's see what it says.
+- **8625**: "Chacharoon's Cheer is an ability that changes the power of trust, love, and friendship into special abilities based on manipulating a monster's myriad memories, kupo.
+- **8626**: "You can obtain memories by taking care of your monsters. Memories change based on appearance, so the longer you care for a monster, the easier they are to get, kupo.
+- **8627**: "The special ability you receive can change depending on the memories used for the cheer. You will definitely be told that when Chacharoon celebrates with a congratulatory cheer, kupo!
+- **8628**: "Chacharoon doesn't know that the cheer requires significant sums of shining stars, kupo. I am secretly helping him.
+- **8629**: "The shining star sum subsequently suitable for a cheer depends on the number of memories required.
+- **8630**: "Chacharoon is a kindhearted soul, so if you ask him once, he will always cheer for you, and can be changed as many times as you like. However, keep in mind that it costs shining stars to do so, kupo!
+- **8631**: "This ends the eternal explanation. Sorry it took so long, kupo."
+- **8632**: Thanks to Chacharoon's shrewd bargaining, you are now able to rear new creatures, up to a maximum of $0 at once.
+- **8634**: $0 more creature[/s] available today. [Nothing for now./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters.]
+- **8635**: Select a creature to rear. [None of the below./Sheep./Rabbit./Treant./Lizard.]
+- **8636**: Select a creature to rear. [None of the below./Cockatrice./Raptor./Eft.]
+- **8637**: Select a creature to rear. [None of the below./Dhalmel./Sea Monk./Uragnite./Crab./Colibri.]
+- **8638**: Select a creature to rear. [None of the below./Coeurl./Buffalo./Slime./Mandragora.]
+- **8639**: Select a creature to rear. [None of the below./Bugard./Adamantoise.]
+- **8640**: Select a creature to rear. [None of the below./Bomb./Behemoth.]
+- **8641**: Select a creature to rear. [None of the below./Sabotender./Dragon.]
+- **8642**: Sheep are peaceful and obedient animals, which explains why they are often recommended to fledgling ranchers. Others who have cared for them in the past note that it is possible to receive $0 from them.
+- **8643**: Residents of Windurst and its surrounding areas have been known to keep rabbits, or "rarabs" in the local vernacular. These omnivorous animals supposedly relinquish $0 to their trainers on certain occasions, but such reports have yet to be verified.
+- **8644**: Treants can thrive in many different climes, but no matter the location, occasionally impart $0 to those who look after them...if anything.
+- **8645**: Lizards are found through all climes and elevations in Vana'diel, from the harshest deserts to the snowiest peaks. Such resilient creatures are known to bequeath $0 to their caretakers.
+- **8646**: Cockatrices are carnivorous birds found in some of Vana'diel's least hospitable locales, but recent domestication efforts have begun to bear fruit. Be wary to keep some gloves handy when handling the $0 they offer their owners.
+- **8647**: Raptors are quick-witted, vicious little buggers who can often be found feasting on flesh in mountainous areas and on the tops of precarious plateaus. As one would expect of such ravenous beasts, tamers can often procure $0 from them.
+- **8648**: Efts thrive in waterside locations, and are often spotted munching on prey in Bibiki Bay. Take caution not to get any $0 on your hands when you touch them!
+- **8649**: Dhalmels are docile, domesticated creatures that live in arid climes, grazing on the sparse vegetation that dots the landscape. A conscientious master may be able to procure $0 from them.
+- **8650**: The salt water-dwelling sea monks prey on smaller species of fish and have been known to be highly territorial come spawning season. Those who treat them right have been known to receive $0 on occasion.
+- **8651**: Uragnites reside in Bibiki Bay and the Ulbukan coastline, and their diet of krill helps keep the ecosystem in check. Properly caring for one could yield a reasonable amount of $0.
+- **8652**: Nary a body of water, from the deepest oceans to the most humid marshlands, is without the presence of crabs in some shape or form. They tear their pray in half with pincers before feasting--a most gruesome scene in the best of times. The meek members of the species, however, may impart $0 upon their owners.
+- **8653**: Colibris are native to western Aht Urhgan, and are among the fiercest and most aggressive birds known to man. Should they be tamed, however, they may bestow $0 upon those who treated them well.
+- **8654**: Coeurls are ferocious carnivores often found prowling Mindartia and Elshimo. Taming them could yield a sizable quantity of $0.
+- **8655**: The land of Aht Urhgan is home to buffalo, hulking herbivores that are easy to rear thanks to their docile nature. Those with particularly strong affinities for their masters are known to give them $0.
+- **8656**: Slimes are amorphous monsters that tend to prefer the dank, dark atmosphere of caves. Go spelunking with them and hope they give you $0 in the process.
+- **8657**: Bugards, often found on the Tavnazian Archipelago, will chow down on anything they can get their hands on. Those rearing these creatures are advised to keep a close eye on their belongings when they try to procure items such as $0 from them.
+- **8658**: Adamantoises are concerned with nothing but ballooning up until they are the size of a mountain, and those rearing them should take care to keep their size to a minimum. None can say what types of items can be procured from them.
+- **8659**: Bombs are living magical entities who have been known to explode on more than one hapless adventurer. Treated well, they will hesitantly bequeath $0 to their masters.
+- **8660**: Behemoths are known to prowl the innermost recesses of the Qufim region, and are perhaps the most ferocious representatives of the beast family. Those taking the proper precautions in caring for them may be able to receive $0.
+- **8661**: These strange, ambulatory cacti are commonly found in the Altepa Desert of the Kuzotz Region. Sabotenders are relentlessly aggressive when provoked, perhaps explaining why so little regarding their way of life is known to science.
+- **8662**: Exceptionally robust, long-lived, and wise, dragons have long cast their shadows over Vana'diel's history. Over the course of a few centuries, a dragon may grow into a great wyrm.
+- **8663**: Rear [/a sheep/a rabbit/a treant/a lizard/a cockatrice/a raptor/an eft/a dhalmel/a sea monk/an uragnite/a crab/a colibri/a coeurl/a buffalo/a slime/a mandragora/a bugard/an adamantoise/a bomb/a behemoth/a sabotender/a dragon]? [Yes./No, not that.]
+- **8664**: Chacharoon no miiiracle worker! Can only do so much...
+- **8665**: <Player> be wanting care for [/sheep/rabbit/treant/lizard/cockatrice/raptor/eft/dhalmel/sea monk/uragnite/crab/colibri/coeurl/buffalo/slime/mandragora/bugard/adamantoise/bomb/behemoth/sabotender/dragon]? Wait two shaaakes of Qiqirn nose.
+- **8666**: [/A sheep/A rabbit/A treant/A lizard/A cockatrice/A raptor/An eft/A dhalmel/A sea monk/An uragnite/A crab/A colibri/A coeurl/A buffalo/A slime/A mandragora/A bugard/An adamantoise/A bomb/A behemoth/A sabotender/A dragon] has entered your [Mog Garden/rearing ground]!
+- **8667**: You are currently raising %0 with an emphasis on [personal growth/enjoying the moment].
+- **8668**: Placing an emphasis on your critter's personal growth means that, while you do not have to look after it yourself, it will mature bit by bit each day.
+- **8669**: Placing an emphasis on enjoying the moment means that you want your critter to stop and smell the rolanberries. It will not mature, but will live life in its current form to the fullest.
+- **8670**: Place emphasis on what? [Whatever I am now./Personal growth./Enjoying the moment.]
+- **8671**: "Personal growth"? Yaaaaaay! That mean Chacharoon do much play with beastie so it get strong.
+- **8672**: "Enjoy moment"? Then maybe making bed is best. Beastie be snuuug as bug in rug!
+- **8673**: By doing this, you and your creature will go separate ways in life, never to see each other again.
+- **8674**: How will you part ways? [We won't!/Send it back home./Put it down.]
+- **8675**: By returning %0 to its place of birth, you will be unable to care for it anymore, but will also be compensated for your troubles.
+- **8676**: Truly send it back? [Yes, I have no reservations./No, not yet!]
+- **8677**: %0 embiiiggened Chacharoon and <Player>'s hearts. Wh-when think must say bye-bye...Ch-Chacharoon...get the snurks...
+- **8678**: By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?
+- **8679**: Put the creature down? [Yes, I have no reservations./No, not yet!]
+- **8680**: <Snurk> Chacharoon...will not be forgetting %0...<snurk> ever. Waaaaaah!
+- **8683**: Take a gander at the primer on monster rearing penned by Chacharoon's superior.
+- **8684**: Select a topic. [None./A message to Chacharoon./First things first./Naming./Raising and rearing./Saying goodbye./A message from the boss.]
+- **8685**: Dear Chacharoon, I may have taught you all the basics of caring for feral monsters, but you are still a child. I do not expect you to remember everything, so I have jotted down the things I deem most important.
+- **8686**: Please do not take this the wrong way, but I do not yet think you are capable of raising multiple beasts at the same time. One should be plenty for now.
+- **8687**: If you decide to take care of another creature, you will have to part ways with the one for which you are currently caring.
+- **8688**: If you are to develop a bond with your animal, then it is best that you give it a name. Do not worry about thinking of the perfect name, because you can always change it later.
+- **8689**: Rearing beasts with an emphasis on "personal growth" will cause them to grow up little by little. When they finally do get big, they might just reward you with something for your efforts.
+- **8690**: Emphasizing "enjoying the moment" lets your creature live at its own pace and does wonders for its spirit. However, it will not get any bigger than it already is.
+- **8691**: Do not forget to bond physically with your creature. Each species has its own likes and dislikes, though, so try interacting with them in many different ways.
+- **8692**: I warn you against being too strict with them, however. If you do too many terrible things to them, they will succumb to darkness and turn on you.
+- **8693**: Moogle magic often works to calm them down, but on the off chance it doesn't, you will have to put them down with your own hand. See that it does not come to that.
+- **8694**: Ideally, you would continue rearing your beasts until they become adults, but this isn't an ideal world.
+- **8695**: If you ever have to part ways with one, please send it to me. I shall look after it to the best of my abilities.
+- **8696**: However, I will also leave you the option to put it down. Maybe putting you in that position will teach you the true value of life.
+- **8697**: You pore over at a congratulatory letter written in large, blocky letters. The message details further information about the recent expansion to your Mog Garden.
+- **8698**: Chacharoon, you've come quite a long way in just a short time. The seeds you've sown in your companion's Mog Garden are beginning to bear fruit. Well done!
+- **8699**: With the extra space you've pioneered, there is now room not just for one creature to raise, but a second as well. Work even harder, and the sky's the limit!
+- **8700**: No matter how many you see fit to take care of, however, I strongly recommend that you always keep a closer eye on one in particular, if for no other reason than to prevent your herd from stampeding or otherwise running amok.
+- **8701**: If you wish to bring your charges to the Mog Garden proper, then I must insist that you only let one accompany you while the remainder stays behind in the rearing grounds.
+- **8702**: You've got it in you to become a positively fabulous caretaker, Chacharoon. Heed my advice and you're sure to go far.
+- **8705**: You have decided to focus on rearing %0.
+- **8741**: No neeew beasties be waiting around for <Player> now. Come back and have pick of litter later.
+- **8742**: Beastie has the darkies, so no want chancing it cause daaanger to other people. We dealing with it here!
+- **8746**: Whoops of daisies, Chacharoon upslipped. Be returning monster soooooonish.
+- **8747**: %0 be around only smaaall time, but give us dinghies of pleasure. Thanks of many.
+- **8751**: Mandragora are plantoids found living in fertile lands such as Elshimo and the continent of Mindartia. They are known to provide $0 when properly taken care of.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 65534
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 907
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0002   |
+| Data Size    | 16 bytes |
+| Instructions | 6        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       1E F0 FF FF 7F 03  02 10 00 80 1D 01 80 23    .............#
+0010: 21 00                                             !.              
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0007 [0x03] Work_Zone[2] = 17764*
+  2: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=6391*)
+    → "Obtained: #."
+  3: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
+  4: 0x0010 [0x21] END_EVENT
+  5: 0x0011 [0x00] END_REQSTACK()
+```
+
+### Event 1075
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0012  |
+| Data Size    | 4 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:       01 4A 03 00                                   .J..          
+```
+
+#### Opcodes
+
+```
+  0: 0x0012 [0x01] GOTO 0x034A
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0015 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0016   |
+| Data Size    | 10 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                   37 02  80 03 80 04 80 05 80 00        7.........
+```
+
+#### Opcodes
+
+```
+  0: 0x0016 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-9.677*, z=8.547*, y=0.453*, direction=266.7°*
+  1: 0x001F [0x00] END_REQSTACK()
+```
+
+### Event 2050
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0020    |
+| Data Size    | 205 bytes |
+| Instructions | 25        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020: 42 46 01 45 06 80 F0 FF  FF 7F F0 FF FF 7F 66 64  BF.E..........fd
+0030: 6F 31 07 80 55 06 80 F0  FF FF 7F F0 FF FF 7F 66  o1..U..........f
+0040: 64 6F 31 38 08 80 29 08  F0 FF FF 7F 22 37 09 80  do18..)....."7..
+0050: 0A 80 0B 80 0C 80 4E 01  89 80 11 01 4A F8 FF FF  ......N.....J...
+0060: 7F F0 FF FF 7F 6F 76 F8  FF FF 7F 45 0D 80 F0 FF  .....ov....E....
+0070: FF 7F F0 FF FF 7F 73 31  30 30 07 80 45 06 80 F0  ......s100..E...
+0080: FF FF 7F F0 FF FF 7F 66  64 69 31 07 80 55 06 80  .......fdi1..U..
+0090: F0 FF FF 7F F0 FF FF 7F  66 64 69 31 1D 0E 80 23  ........fdi1...#
+00A0: 45 06 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 31 07  E..........fdo1.
+00B0: 80 55 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .U..........fdo1
+00C0: 52 0D 80 F0 FF FF 7F F0  FF FF 7F 73 31 30 30 29  R..........s100)
+00D0: 08 1D 80 11 01 6E 46 00  45 06 80 F0 FF FF 7F F0  .....nF.E.......
+00E0: FF FF 7F 66 64 69 31 07  80 20 00 21 00           ...fdi1.. .!.   
+```
+
+#### Opcodes
+
+```
+  0: 0x0020 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0021 [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x0023 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  3: 0x0034 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+  4: 0x0043 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+  5: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x22)
+  6: 0x004D [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-10.496*, z=9.656*, y=0.362*, direction=64.9°*
+  7: 0x0056 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+  8: 0x005C [0x4A] EventEntity looks at LocalPlayer
+  9: 0x0065 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 10: 0x0066 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
+ 11: 0x006B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+ 12: 0x007C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 13: 0x008D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 14: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+    → "What a terrific time to test tag utility, kupo!"
+ 15: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x00A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 17: 0x00B1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 18: 0x00C0 [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=690*
+ 19: 0x00CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6E)
+ 20: 0x00D6 [0x46] CAMERA_CONTROL: Restore default settings
+ 21: 0x00D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 22: 0x00E9 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 23: 0x00EB [0x21] END_EVENT
+ 24: 0x00EC [0x00] END_REQSTACK()
+```
+
+### Event 2051
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x00ED  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00E0:                                         00                     .  
+```
+
+#### Opcodes
+
+```
+  0: 0x00ED [0x00] END_REQSTACK()
+```
+
+### Event 2052
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x00EE    |
+| Data Size    | 248 bytes |
+| Instructions | 32        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00E0:                                            42 46                BF
+00F0: 01 45 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E..........fdo1
+0100: 07 80 55 06 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..U..........fdo
+0110: 31 29 08 1D 80 11 01 6A  38 08 80 29 08 F0 FF FF  1).....j8..)....
+0120: 7F 22 37 09 80 0A 80 0B  80 0C 80 4E 01 89 80 11  ."7........N....
+0130: 01 4A F8 FF FF 7F F0 FF  FF 7F 4A 1D 80 11 01 F0  .J........J.....
+0140: FF FF 7F 6F 76 F8 FF FF  7F 6F 76 1D 80 11 01 29  ...ov....ov....)
+0150: 08 1D 80 11 01 6B 45 0D  80 F0 FF FF 7F F0 FF FF  .....kE.........
+0160: 7F 73 31 30 32 07 80 45  06 80 F0 FF FF 7F F0 FF  .s102..E........
+0170: FF 7F 66 64 69 31 07 80  55 06 80 F0 FF FF 7F F0  ..fdi1..U.......
+0180: FF FF 7F 66 64 69 31 29  08 1D 80 11 01 6C 1D 0E  ...fdi1).....l..
+0190: 80 23 29 08 1D 80 11 01  6D 45 06 80 F0 FF FF 7F  .#).....mE......
+01A0: F0 FF FF 7F 66 64 6F 31  07 80 55 06 80 F0 FF FF  ....fdo1..U.....
+01B0: 7F F0 FF FF 7F 66 64 6F  31 52 0D 80 F0 FF FF 7F  .....fdo1R......
+01C0: F0 FF FF 7F 73 31 30 32  29 08 1D 80 11 01 6E 46  ....s102).....nF
+01D0: 00 45 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 69 31  .E..........fdi1
+01E0: 07 80 20 00 21 00                                 .. .!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x00EE [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x00EF [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x00F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  3: 0x0102 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+  4: 0x0111 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6A)
+  5: 0x0118 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+  6: 0x011B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x22)
+  7: 0x0122 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-10.496*, z=9.656*, y=0.362*, direction=64.9°*
+  8: 0x012B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+  9: 0x0131 [0x4A] EventEntity looks at LocalPlayer
+ 10: 0x013A [0x4A] Green Thumb Moogle (ID: 17924125/0x0111801D) looks at LocalPlayer
+ 11: 0x0143 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 12: 0x0144 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
+ 13: 0x0149 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 14: 0x014A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Green Thumb Moogle (ID: 17924125/0x0111801D) Render.Flags0 and Render.Flags3 conditions are met
+ 15: 0x014F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6B)
+ 16: 0x0156 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s102" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+ 17: 0x0167 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 18: 0x0178 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 19: 0x0187 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6C)
+ 20: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+    → "What a terrific time to test tag utility, kupo!"
+ 21: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 22: 0x0192 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6D)
+ 23: 0x0199 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 24: 0x01AA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 25: 0x01B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s102" with entities [LocalPlayer, LocalPlayer], work=690*
+ 26: 0x01C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x6E)
+ 27: 0x01CF [0x46] CAMERA_CONTROL: Restore default settings
+ 28: 0x01D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 29: 0x01E2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 30: 0x01E4 [0x21] END_EVENT
+ 31: 0x01E5 [0x00] END_REQSTACK()
+```
+
+### Event 2047
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01E6   |
+| Data Size    | 50 bytes |
+| Instructions | 13       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01E0:                   42 1E  F0 FF FF 7F 6F 70 5B 0F        B.....op[.
+01F0: 80 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 1D 10 80  .........tlk0...
+0200: 23 1D 11 80 23 5B 0F 80  F8 FF FF 7F F8 FF FF 7F  #...#[..........
+0210: 74 6C 6B 31 20 00 21 00                           tlk1 .!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x01E6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x01E7 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x01EC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x01ED [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x01EE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
+  5: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
+    → "Talk to sheep good. It like peeeople voice."
+  6: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
+    → "Dooo what can. Sheep is limit! Wait, maybe limit is sky..."
+  8: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0205 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
+ 10: 0x0214 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 11: 0x0216 [0x21] END_EVENT
+ 12: 0x0217 [0x00] END_REQSTACK()
+```
+
+### Event 2048
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0218   |
+| Data Size    | 50 bytes |
+| Instructions | 13       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0210:                          42 1E F0 FF FF 7F 6F 70          B.....op
+0220: 5B 0F 80 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 1D  [..........tlk0.
+0230: 12 80 23 1D 13 80 23 5B  0F 80 F8 FF FF 7F F8 FF  ..#...#[........
+0240: FF 7F 74 6C 6B 31 20 00  21 00                    ..tlk1 .!.      
+```
+
+#### Opcodes
+
+```
+  0: 0x0218 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0219 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x021E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x021F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x0220 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
+  5: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
+    → "...Everything go in-ear and stay in-ear? Be geeentle and stuff happen! That all need know."
+  6: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+    → "Chief, tell moogle of Chacharoon's graaand feat! Much due for kind-words!"
+  8: 0x0236 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0237 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
+ 10: 0x0246 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 11: 0x0248 [0x21] END_EVENT
+ 12: 0x0249 [0x00] END_REQSTACK()
+```
+
+### Event 2055
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x024A   |
+| Data Size    | 16 bytes |
+| Instructions | 6        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0240:                                1E F0 FF FF 7F 03            ......
+0250: 05 10 14 80 1D 15 80 23  21 00                    .......#!.      
+```
+
+#### Opcodes
+
+```
+  0: 0x024A [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x024F [0x03] Work_Zone[5] = 4366*
+  2: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
+    → "Chief can get $3 for Chacharoon and feed to scaaaredy lamb?"
+  3: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  4: 0x0258 [0x21] END_EVENT
+  5: 0x0259 [0x00] END_REQSTACK()
+```
+
+### Event 2056
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x025A   |
+| Data Size    | 45 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0250:                                1E F0 FF FF 7F 6F            .....o
+0260: 70 5B 0F 80 F8 FF FF 7F  F8 FF FF 7F 74 6C 6B 30  p[..........tlk0
+0270: 1D 16 80 23 5B 0F 80 F8  FF FF 7F F8 FF FF 7F 74  ...#[..........t
+0280: 6C 6B 31 20 00 21 00                              lk1 .!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x025A [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x025F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0260 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0261 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
+  4: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=8162*)
+    → "<Player> so very much loving! Nicer than all people in wooorld put together! Chacharoon be gloating to moogle in soon-times."
+  5: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0274 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
+  7: 0x0283 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+  8: 0x0285 [0x21] END_EVENT
+  9: 0x0286 [0x00] END_REQSTACK()
+```
+
+### Event 2057
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0287   |
+| Data Size    | 45 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0280:                      1E  F0 FF FF 7F 6F 70 5B 0F         .....op[.
+0290: 80 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 1D 13 80  .........tlk0...
+02A0: 23 5B 0F 80 F8 FF FF 7F  F8 FF FF 7F 74 6C 6B 31  #[..........tlk1
+02B0: 20 00 21 00                                        .!.            
+```
+
+#### Opcodes
+
+```
+  0: 0x0287 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x028C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x028D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x028E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
+  4: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+    → "Chief, tell moogle of Chacharoon's graaand feat! Much due for kind-words!"
+  5: 0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x02A1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
+  7: 0x02B0 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+  8: 0x02B2 [0x21] END_EVENT
+  9: 0x02B3 [0x00] END_REQSTACK()
+```
+
+### Event 2058
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x02B4   |
+| Data Size    | 50 bytes |
+| Instructions | 11       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02B0:             1E F0 FF FF  7F 6F 70 5B 0F 80 F8 FF      .....op[....
+02C0: FF 7F F8 FF FF 7F 74 6C  6B 30 03 03 10 17 80 1D  ......tlk0......
+02D0: 18 80 23 5B 0F 80 F8 FF  FF 7F F8 FF FF 7F 74 6C  ..#[..........tl
+02E0: 6B 31 20 00 21 00                                 k1 .!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x02B4 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x02B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x02BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x02BB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
+  4: 0x02CA [0x03] Work_Zone[3] = 818*
+  5: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8193*)
+    → "Please be paaassing $1 to moogle. Is Chacharoon's dearerest wish."
+  6: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x02D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
+  8: 0x02E2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+  9: 0x02E4 [0x21] END_EVENT
+ 10: 0x02E5 [0x00] END_REQSTACK()
+```
+
+### Event 2059
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x02E6  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02E0:                   00                                    .         
+```
+
+#### Opcodes
+
+```
+  0: 0x02E6 [0x00] END_REQSTACK()
+```
+
+### Event 2061
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x02E7  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02E0:                      00                                  .        
+```
+
+#### Opcodes
+
+```
+  0: 0x02E7 [0x00] END_REQSTACK()
+```
+
+### Event 2066
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x02E8   |
+| Data Size    | 49 bytes |
+| Instructions | 12       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02E0:                          1E F0 FF FF 7F 6F 70 5B          .....op[
+02F0: 0F 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 1D 19  ..........tlk0..
+0300: 80 23 1D 1A 80 23 5B 0F  80 F8 FF FF 7F F8 FF FF  .#...#[.........
+0310: 7F 74 6C 6B 31 20 00 21  00                       .tlk1 .!.       
+```
+
+#### Opcodes
+
+```
+  0: 0x02E8 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x02ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x02EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x02EF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
+  4: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+    → "You have thing-tell to Chacharoon?"
+  5: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
+    → "Then go to rearing grounds to make tongue-wiggle!"
+  7: 0x0305 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0306 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
+  9: 0x0315 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 10: 0x0317 [0x21] END_EVENT
+ 11: 0x0318 [0x00] END_REQSTACK()
+```
+
+### Event 2074
+
+#### Metadata
+
+| Field        | Value       |
+|--------------|-------------|
+| Entrypoint   | 0x0319      |
+| Data Size    | 13559 bytes |
+| Instructions | 12          |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                             1E F0 FF FF 7F 6F 70           .....op
+0320: 5B 0F 80 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 1D  [..........tlk0.
+0330: 1B 80 23 1D 1C 80 23 5B  0F 80 F8 FF FF 7F F8 FF  ..#...#[........
+0340: FF 7F 74 6C 6B 31 20 00  21 00 03 0B 00 02 10 03  ..tlk1 .!.......
+0350: 16 00 03 10 03 17 00 04  10 B4 01 20 10 07 80 B4  ........... ....
+0360: 01 24 10 1D 80 B4 01 28  10 1E 80 B4 01 2C 10 1F  .$.....(.....,..
+0370: 80 41 20 80 21 80 0B 00  0D 00 41 22 80 23 80 0B  .A .!.....A".#..
+0380: 00 0C 00 41 24 80 08 80  0B 00 0E 00 41 25 80 26  ...A$.......A%.&
+0390: 80 0B 00 19 00 41 27 80  28 80 0B 00 1A 00 1E F0  .....A'.(.......
+03A0: FF FF 7F 3E 0B 00 07 80  AE 03 1D 29 80 23 1D 2A  ...>.......).#.*
+03B0: 80 23 03 04 00 1D 80 02  04 00 07 80 02 9F 05 06  .#..............
+03C0: 0A 00 02 0D 00 07 80 80  E9 03 3D 0A 00 1D 80 1D  ..........=.....
+03D0: 80 3D 0A 00 1E 80 1D 80  3D 0A 00 1F 80 1D 80 3D  .=......=......=
+03E0: 0A 00 2B 80 1D 80 01 08  05 02 0D 00 1D 80 80 1E  ..+.............
+03F0: 04 3D 0A 00 1D 80 1D 80  3C 0A 00 1E 80 1D 80 3C  .=......<......<
+0400: 0A 00 1F 80 1D 80 3C 0A  00 2C 80 1D 80 3C 0A 00  ......<..,...<..
+0410: 2B 80 1D 80 3C 0A 00 2D  80 1D 80 01 08 05 02 0D  +...<..-........
+0420: 00 1E 80 80 6C 04 3D 0A  00 1D 80 1D 80 3C 0A 00  ....l.=......<..
+0430: 1E 80 1D 80 3C 0A 00 1F  80 1D 80 3D 0A 00 2B 80  ....<......=..+.
+0440: 1D 80 02 0E 00 1F 80 04  5B 04 3C 0A 00 2C 80 1D  ........[.<..,..
+0450: 80 3D 0A 00 2D 80 1D 80  01 69 04 3C 0A 00 2C 80  .=..-....i.<..,.
+0460: 1D 80 3C 0A 00 2D 80 1D  80 01 08 05 02 0D 00 1F  ..<..-..........
+0470: 80 80 BA 04 3C 0A 00 1D  80 1D 80 3D 0A 00 1E 80  ....<......=....
+0480: 1D 80 3D 0A 00 1F 80 1D  80 3D 0A 00 2B 80 1D 80  ..=......=..+...
+0490: 02 0E 00 1F 80 04 A9 04  3D 0A 00 2C 80 1D 80 3D  ........=..,...=
+04A0: 0A 00 2D 80 1D 80 01 B7  04 3C 0A 00 2C 80 1D 80  ..-......<..,...
+04B0: 3C 0A 00 2D 80 1D 80 01  08 05 02 0D 00 2C 80 80  <..-.........,..
+04C0: 08 05 3D 0A 00 1D 80 1D  80 3D 0A 00 1E 80 1D 80  ..=......=......
+04D0: 3D 0A 00 1F 80 1D 80 3D  0A 00 2B 80 1D 80 02 0E  =......=..+.....
+04E0: 00 1F 80 04 F7 04 3C 0A  00 2C 80 1D 80 3D 0A 00  ......<..,...=..
+04F0: 2D 80 1D 80 01 05 05 3C  0A 00 2C 80 1D 80 3C 0A  -......<..,...<.
+0500: 00 2D 80 1D 80 01 08 05  3E 0B 00 2E 80 19 05 3D  .-......>......=
+0510: 0A 00 2F 80 1D 80 01 20  05 3C 0A 00 2F 80 1D 80  ../.... .<../...
+0520: 03 02 10 0E 00 24 30 80  07 80 0A 00 25 02 00 10  .....$0.....%...
+0530: 07 80 00 3A 05 21 00 01  9C 05 02 00 10 1D 80 00  ...:.!..........
+0540: 48 05 1A 72 17 01 9C 05  02 00 10 1E 80 00 56 05  H..r..........V.
+0550: 1A 77 1D 01 9C 05 02 00  10 1F 80 00 64 05 1A 8D  .w..........d...
+0560: 0F 01 9C 05 02 00 10 2C  80 00 72 05 1A A1 05 01  .......,..r.....
+0570: 9C 05 02 00 10 2B 80 00  80 05 1A A6 0D 01 9C 05  .....+..........
+0580: 02 00 10 2F 80 00 8E 05  1A 4F 07 01 9C 05 02 00  .../.....O......
+0590: 10 2D 80 00 9C 05 1A 6F  06 01 9C 05 01 B7 03 21  .-.....o.......!
+05A0: 00 3E 0C 00 07 80 AC 05  48 31 80 1B 1D 32 80 23  .>......H1...2.#
+05B0: 0B 04 00 02 04 00 1D 80  02 6E 06 03 02 10 1D 80  .........n......
+05C0: 1A 6C 0E 02 03 00 07 80  03 D2 05 0C 04 00 1B 01  .l..............
+05D0: D7 05 03 09 00 03 00 02  09 00 07 80 00 E6 05 48  ...............H
+05E0: 33 80 23 01 6B 06 42 1D  34 80 23 45 06 80 F0 FF  3.#.k.B.4.#E....
+05F0: FF 7F F0 FF FF 7F 66 64  6F 31 07 80 55 06 80 F0  ......fdo1..U...
+0600: FF FF 7F F0 FF FF 7F 66  64 6F 31 1D 35 80 06 01  .......fdo1.5...
+0610: 10 40 20 80 23 80 01 10  2C 80 40 24 80 36 80 01  .@ .#...,.@$.6..
+0620: 10 03 00 43 00 43 01 1A  80 26 02 07 80 07 80 00  ...C.C...&......
+0630: 38 06 1A 1B 26 01 44 06  1A 29 26 1A 37 26 1A 45  8...&.D..)&.7&.E
+0640: 26 1A 53 26 45 06 80 F0  FF FF 7F F0 FF FF 7F 66  &.S&E..........f
+0650: 64 69 31 07 80 55 06 80  F0 FF FF 7F F0 FF FF 7F  di1..U..........
+0660: 66 64 69 31 48 37 80 23  06 04 00 01 B3 05 1B 3E  fdi1H7.#.......>
+0670: 19 00 07 80 7E 06 03 02  10 07 80 01 83 06 03 02  ....~...........
+0680: 10 22 80 3E 19 00 1D 80  8D 06 01 94 06 3C 02 10  .".>.........<..
+0690: 2C 80 1D 80 3E 19 00 1E  80 9E 06 01 A5 06 3C 02  ,...>.........<.
+06A0: 10 2B 80 1D 80 24 38 80  07 80 02 10 25 02 00 10  .+...$8.....%...
+06B0: 07 80 00 C0 06 03 01 10  39 80 0C 04 00 01 4E 07  ........9.....N.
+06C0: 02 00 10 1D 80 00 E4 06  03 01 10 3A 80 45 06 80  ...........:.E..
+06D0: F0 FF FF 7F F0 FF FF 7F  66 64 6F 31 07 80 06 04  ........fdo1....
+06E0: 00 01 4E 07 02 00 10 1E  80 00 08 07 03 01 10 3B  ..N............;
+06F0: 80 45 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 31  .E..........fdo1
+0700: 07 80 06 04 00 01 4E 07  02 00 10 1F 80 00 2C 07  ......N.......,.
+0710: 03 01 10 3C 80 45 06 80  F0 FF FF 7F F0 FF FF 7F  ...<.E..........
+0720: 66 64 6F 31 07 80 06 04  00 01 4E 07 02 00 10 2C  fdo1......N....,
+0730: 80 00 3D 07 1A EF 34 06  04 00 01 4E 07 02 00 10  ..=...4....N....
+0740: 2B 80 00 4E 07 1A A7 34  06 04 00 01 4E 07 1B 1D  +..N...4....N...
+0750: 3D 80 23 02 16 00 07 80  01 67 07 03 02 10 16 00  =.#......g......
+0760: 1D 3E 80 23 01 6B 07 1D  3F 80 23 06 01 10 40 20  .>.#.k..?.#...@ 
+0770: 80 23 80 01 10 40 80 43  00 43 01 03 0F 00 02 10  .#...@.C.C......
+0780: 03 10 00 03 10 03 11 00  04 10 03 12 00 05 10 03  ................
+0790: 13 00 06 10 03 14 00 07  10 03 15 00 08 10 0B 04  ................
+07A0: 00 02 04 00 1D 80 02 3D  09 06 0A 00 02 0E 00 1D  .......=........
+07B0: 80 80 E1 07 3C 0A 00 1E  80 1D 80 3C 0A 00 1F 80  ....<......<....
+07C0: 1D 80 3C 0A 00 2C 80 1D  80 3C 0A 00 2B 80 1D 80  ..<..,...<..+...
+07D0: 3C 0A 00 2F 80 1D 80 3C  0A 00 2D 80 1D 80 01 81  <../...<..-.....
+07E0: 08 02 0E 00 1E 80 80 0F  08 3C 0A 00 1F 80 1D 80  .........<......
+07F0: 3C 0A 00 2C 80 1D 80 3C  0A 00 2B 80 1D 80 3C 0A  <..,...<..+...<.
+0800: 00 2F 80 1D 80 3C 0A 00  2D 80 1D 80 01 81 08 02  ./...<..-.......
+0810: 0E 00 1F 80 80 36 08 3C  0A 00 2C 80 1D 80 3C 0A  .....6.<..,...<.
+0820: 00 2B 80 1D 80 3C 0A 00  2F 80 1D 80 3C 0A 00 2D  .+...<../...<..-
+0830: 80 1D 80 01 81 08 02 0E  00 2C 80 80 56 08 3C 0A  .........,..V.<.
+0840: 00 2B 80 1D 80 3C 0A 00  2F 80 1D 80 3C 0A 00 2D  .+...<../...<..-
+0850: 80 1D 80 01 81 08 02 0E  00 2B 80 80 6F 08 3C 0A  .........+..o.<.
+0860: 00 2F 80 1D 80 3C 0A 00  2D 80 1D 80 01 81 08 02  ./...<..-.......
+0870: 0E 00 2F 80 80 81 08 3C  0A 00 2D 80 1D 80 01 81  ../....<..-.....
+0880: 08 02 16 00 07 80 00 90  08 3C 0A 00 20 80 1D 80  .........<.. ...
+0890: 24 41 80 07 80 0A 00 25  02 00 10 07 80 00 A6 08  $A.....%........
+08A0: 0C 04 00 01 3A 09 02 00  10 20 80 00 DA 08 1D 42  ....:.... .....B
+08B0: 80 23 03 02 10 43 80 48  44 80 23 48 45 80 23 48  .#...C.HD.#HE.#H
+08C0: 46 80 23 48 47 80 23 48  48 80 23 48 49 80 23 48  F.#HG.#HH.#HI.#H
+08D0: 4A 80 23 48 4B 80 23 01  3A 09 02 00 10 4C 80 00  J.#HK.#.:....L..
+08E0: 1F 09 24 4D 80 1D 80 07  80 25 02 00 10 07 80 00  ..$M.....%......
+08F0: 11 09 42 1D 4E 80 23 03  01 10 4F 80 10 01 10 20  ..B.N.#...O.... 
+0900: 80 43 00 43 01 03 16 00  02 10 48 50 80 2E 01 1C  .C.C......HP....
+0910: 09 02 00 10 1D 80 00 1C  09 01 1C 09 01 3A 09 03  .............:..
+0920: 00 00 00 10 02 00 00 07  80 02 3A 09 02 00 00 2D  ..........:....-
+0930: 80 05 3A 09 1A 3E 09 1A  81 0A 01 A1 07 1B 06 01  ..:..>..........
+0940: 00 06 02 00 02 01 00 07  80 00 FF 09 02 00 00 1D  ................
+0950: 80 80 61 09 9D 0A 20 37  03 00 02 00 24 80 01 DF  ..a... 7....$...
+0960: 09 02 00 00 1E 80 80 76  09 9D 0A 40 37 03 00 02  .......v...@7...
+0970: 00 24 80 01 DF 09 02 00  00 1F 80 80 8B 09 9D 0A  .$..............
+0980: 60 37 03 00 02 00 24 80  01 DF 09 02 00 00 2C 80  `7....$.......,.
+0990: 80 A0 09 9D 0A 80 37 03  00 02 00 27 80 01 DF 09  ......7....'....
+09A0: 02 00 00 2B 80 80 B5 09  9D 0A B0 37 03 00 02 00  ...+.......7....
+09B0: 24 80 01 DF 09 02 00 00  2F 80 80 CA 09 9D 0A D0  $......./.......
+09C0: 37 03 00 02 00 24 80 01  DF 09 02 00 00 2D 80 80  7....$.......-..
+09D0: DF 09 9D 0A F0 37 03 00  02 00 24 80 01 DF 09 02  .....7....$.....
+09E0: 03 00 07 80 01 F7 09 9D  0F F0 35 03 00 02 00 51  ..........5....Q
+09F0: 80 0B 02 00 01 FC 09 03  01 00 1D 80 01 44 09 02  .............D..
+0A00: 00 00 1D 80 80 0F 0A 03  0A 00 0F 00 01 6F 0A 02  .............o..
+0A10: 00 00 1E 80 80 1F 0A 03  0A 00 10 00 01 6F 0A 02  .............o..
+0A20: 00 00 1F 80 80 2F 0A 03  0A 00 11 00 01 6F 0A 02  ...../.......o..
+0A30: 00 00 2C 80 80 3F 0A 03  0A 00 12 00 01 6F 0A 02  ..,..?.......o..
+0A40: 00 00 2B 80 80 4F 0A 03  0A 00 13 00 01 6F 0A 02  ..+..O.......o..
+0A50: 00 00 2F 80 80 5F 0A 03  0A 00 14 00 01 6F 0A 02  ../.._.......o..
+0A60: 00 00 2D 80 80 6F 0A 03  0A 00 15 00 01 6F 0A 10  ..-..o.......o..
+0A70: 0A 00 1D 80 3C 0A 00 07  80 1D 80 0F 0A 00 52 80  ....<.........R.
+0A80: 1B 0B 04 00 02 04 00 1E  80 02 B5 0A 24 53 80 18  ............$S..
+0A90: 00 0A 00 25 02 00 10 07  80 00 A5 0A 06 18 00 0C  ...%............
+0AA0: 04 00 01 B2 0A 03 01 00  00 10 03 18 00 01 00 1A  ................
+0AB0: B6 0A 01 84 0A 1B 08 01  00 1D 80 02 00 00 1D 80  ................
+0AC0: 80 FE 0A 9D 0A 20 37 01  10 01 00 24 80 10 01 10  ..... 7....$....
+0AD0: 24 80 40 20 80 23 80 01  10 54 80 43 00 43 01 02  $.@ .#...T.C.C..
+0AE0: 09 10 07 80 03 FB 0A 03  02 10 07 80 03 03 10 07  ................
+0AF0: 80 03 04 10 07 80 03 05  10 55 80 01 A4 0C 02 00  .........U......
+0B00: 00 1E 80 80 41 0B 9D 0A  40 37 01 10 01 00 24 80  ....A...@7....$.
+0B10: 10 01 10 24 80 40 20 80  23 80 01 10 54 80 43 00  ...$.@ .#...T.C.
+0B20: 43 01 02 09 10 07 80 03  3E 0B 03 02 10 07 80 03  C.......>.......
+0B30: 03 10 07 80 03 04 10 07  80 03 05 10 55 80 01 A4  ............U...
+0B40: 0C 02 00 00 1F 80 80 84  0B 9D 0A 60 37 01 10 01  ...........`7...
+0B50: 00 24 80 10 01 10 24 80  40 20 80 23 80 01 10 54  .$....$.@ .#...T
+0B60: 80 43 00 43 01 02 09 10  07 80 03 81 0B 03 02 10  .C.C............
+0B70: 07 80 03 03 10 07 80 03  04 10 07 80 03 05 10 55  ...............U
+0B80: 80 01 A4 0C 02 00 00 2C  80 80 C7 0B 9D 0A 80 37  .......,.......7
+0B90: 01 10 01 00 27 80 10 01  10 24 80 40 20 80 23 80  ....'....$.@ .#.
+0BA0: 01 10 54 80 43 00 43 01  02 09 10 07 80 03 C4 0B  ..T.C.C.........
+0BB0: 03 02 10 07 80 03 03 10  07 80 03 04 10 07 80 03  ................
+0BC0: 05 10 55 80 01 A4 0C 02  00 00 2B 80 80 0A 0C 9D  ..U.......+.....
+0BD0: 0A B0 37 01 10 01 00 24  80 10 01 10 24 80 40 20  ..7....$....$.@ 
+0BE0: 80 23 80 01 10 54 80 43  00 43 01 02 09 10 07 80  .#...T.C.C......
+0BF0: 03 07 0C 03 02 10 07 80  03 03 10 07 80 03 04 10  ................
+0C00: 07 80 03 05 10 55 80 01  A4 0C 02 00 00 2F 80 80  .....U......./..
+0C10: 4D 0C 9D 0A D0 37 01 10  01 00 24 80 10 01 10 24  M....7....$....$
+0C20: 80 40 20 80 23 80 01 10  54 80 43 00 43 01 02 09  .@ .#...T.C.C...
+0C30: 10 07 80 03 4A 0C 03 02  10 07 80 03 03 10 07 80  ....J...........
+0C40: 03 04 10 07 80 03 05 10  55 80 01 A4 0C 02 00 00  ........U.......
+0C50: 2D 80 80 90 0C 9D 0A F0  37 01 10 01 00 24 80 10  -.......7....$..
+0C60: 01 10 24 80 40 20 80 23  80 01 10 54 80 43 00 43  ..$.@ .#...T.C.C
+0C70: 01 02 09 10 07 80 03 8D  0C 03 02 10 07 80 03 03  ................
+0C80: 10 07 80 03 04 10 07 80  03 05 10 55 80 01 A4 0C  ...........U....
+0C90: 03 02 10 07 80 03 03 10  07 80 03 04 10 07 80 03  ................
+0CA0: 05 10 55 80 02 02 10 07  80 02 A5 0D 03 02 00 03  ..U.............
+0CB0: 10 03 03 00 05 10 03 16  17 02 00 03 17 17 03 00  ................
+0CC0: CC 20 02 00 48 56 80 23  CC 20 07 80 02 16 00 02  . ..HV.#. ......
+0CD0: 00 00 E3 0C 03 02 10 16  00 1D 3E 80 23 1A 3E 09  ..........>.#.>.
+0CE0: 01 A2 0D 02 16 00 07 80  01 F4 0C 03 18 17 16 00  ................
+0CF0: 48 57 80 23 03 19 17 17  00 24 58 80 07 80 07 80  HW.#.....$X.....
+0D00: 25 02 00 10 07 80 00 94  0D 42 03 01 10 00 00 07  %........B......
+0D10: 01 10 08 80 0C 01 10 10  01 10 20 80 40 24 80 36  .......... .@$.6
+0D20: 80 01 10 01 00 43 00 43  01 02 02 10 07 80 80 68  .....C.C.......h
+0D30: 0D 03 16 00 04 10 03 17  00 05 10 03 02 10 03 10  ................
+0D40: 03 03 10 04 10 1D 59 80  23 AD 00 20 80 F8 FF FF  ......Y.#.. ....
+0D50: 7F F0 FF FF 7F 1D 5A 80  23 1C 5B 80 48 5C 80 1C  ......Z.#.[.H\..
+0D60: 5D 80 06 04 00 01 8D 0D  02 02 10 52 80 80 73 0D  ]..........R..s.
+0D70: 01 8D 0D 02 02 10 5E 80  80 82 0D 48 5F 80 23 01  ......^....H_.#.
+0D80: 8D 0D 02 02 10 60 80 80  8D 0D 01 8D 0D 2E 0C 04  .....`..........
+0D90: 00 01 A2 0D 02 00 10 1D  80 00 A2 0D 1A 3E 09 01  .............>..
+0DA0: A2 0D 01 A5 0D 1B 48 61  80 23 0B 04 00 02 04 00  ......Ha.#......
+0DB0: 1D 80 02 6B 0E 02 0E 00  1F 80 04 C3 0D 06 0A 00  ...k............
+0DC0: 01 C8 0D 03 0A 00 62 80  24 63 80 07 80 0A 00 25  ......b.$c.....%
+0DD0: 02 00 10 07 80 00 DE 0D  0C 04 00 01 68 0E 02 00  ............h...
+0DE0: 10 1D 80 00 ED 0D 48 64  80 23 01 68 0E 02 00 10  ......Hd.#.h....
+0DF0: 1E 80 00 00 0E 48 65 80  23 48 66 80 23 01 68 0E  .....He.#Hf.#.h.
+0E00: 02 00 10 1F 80 00 0F 0E  48 67 80 23 01 68 0E 02  ........Hg.#.h..
+0E10: 00 10 2C 80 00 2E 0E 48  68 80 23 48 69 80 23 48  ..,....Hh.#Hi.#H
+0E20: 6A 80 23 48 6B 80 23 48  6C 80 23 01 68 0E 02 00  j.#Hk.#Hl.#.h...
+0E30: 10 2B 80 00 45 0E 48 6D  80 23 48 6E 80 23 48 6F  .+..E.Hm.#Hn.#Ho
+0E40: 80 23 01 68 0E 02 00 10  2F 80 00 68 0E 48 70 80  .#.h..../..h.Hp.
+0E50: 23 48 71 80 23 48 72 80  23 48 73 80 23 48 74 80  #Hq.#Hr.#Hs.#Ht.
+0E60: 23 48 75 80 23 01 68 0E  01 AD 0D 1B B4 04 20 10  #Hu.#.h....... .
+0E70: 07 80 B4 04 24 10 1D 80  B4 04 28 10 1E 80 B4 04  ....$.....(.....
+0E80: 2C 10 1F 80 06 03 00 3E  0B 00 1D 80 91 0E 0B 03  ,......>........
+0E90: 00 3E 0B 00 1E 80 9B 0E  0B 03 00 3E 0B 00 1F 80  .>.........>....
+0EA0: A5 0E 0B 03 00 3E 0B 00  2C 80 AF 0E 0B 03 00 02  .....>..,.......
+0EB0: 03 00 07 80 02 87 0F 02  03 00 1D 80 02 10 0F 41  ...............A
+0EC0: 1D 80 2C 80 0B 00 0A 00  0F 0A 00 52 80 10 0A 00  ..,........R....
+0ED0: 1D 80 3D 0A 00 07 80 1D  80 02 02 10 1D 80 00 E8  ..=.............
+0EE0: 0E 3C 0A 00 1D 80 1D 80  24 76 80 07 80 0A 00 25  .<......$v.....%
+0EF0: 02 00 10 07 80 00 00 0F  03 03 00 52 80 01 08 0F  ...........R....
+0F00: 03 03 00 00 10 0C 03 00  03 02 10 1D 80 01 51 0F  ..............Q.
+0F10: 3E 0B 00 1D 80 1F 0F 03  03 00 07 80 01 4C 0F 3E  >............L.>
+0F20: 0B 00 1E 80 2E 0F 03 03  00 1D 80 01 4C 0F 3E 0B  ............L.>.
+0F30: 00 1F 80 3D 0F 03 03 00  1E 80 01 4C 0F 3E 0B 00  ...=.......L.>..
+0F40: 2C 80 4C 0F 03 03 00 1F  80 01 4C 0F 03 02 10 07  ,.L.......L.....
+0F50: 80 02 03 00 1D 80 80 62  0F B4 04 24 10 07 80 01  .......b...$....
+0F60: 84 0F 02 03 00 1E 80 80  73 0F B4 04 28 10 07 80  ........s...(...
+0F70: 01 84 0F 02 03 00 1F 80  80 84 0F B4 04 2C 10 07  .............,..
+0F80: 80 01 84 0F 01 8C 0F 03  03 00 52 80 1B 48 77 80  ..........R..Hw.
+0F90: 23 0B 04 00 02 04 00 1D  80 02 71 17 06 02 10 1A  #.........q.....
+0FA0: 6C 0E 02 03 00 07 80 03  B1 0F 0C 04 00 1B 01 BB  l...............
+0FB0: 0F 03 09 00 03 00 03 1F  17 02 10 0B 04 00 02 04  ................
+0FC0: 00 1E 80 02 6E 17 24 78  80 07 80 07 80 25 02 00  ....n.$x.....%..
+0FD0: 10 07 80 00 E7 0F 02 1F  17 07 80 00 E1 0F 0C 04  ................
+0FE0: 00 0C 04 00 01 6B 17 02  00 10 1D 80 00 73 12 3E  .....k.......s.>
+0FF0: 0C 00 09 00 FD 0F 1D 79  80 23 01 70 12 48 7A 80  .......y.#.p.Hz.
+1000: 23 24 7B 80 1D 80 07 80  25 02 00 10 07 80 00 65  #${.....%......e
+1010: 12 42 46 01 45 06 80 F0  FF FF 7F F0 FF FF 7F 66  .BF.E..........f
+1020: 64 6F 31 07 80 55 06 80  F0 FF FF 7F F0 FF FF 7F  do1..U..........
+1030: 66 64 6F 31 38 08 80 2F  00 5B 80 11 01 4E 00 5B  fdo18../.[...N.[
+1040: 80 11 01 02 07 80 07 80  00 65 10 29 08 F0 FF FF  .........e.)....
+1050: 7F 23 37 7C 80 7D 80 7E  80 7F 80 29 08 5B 80 11  .#7|.}.~...).[..
+1060: 01 21 01 7C 10 29 08 F0  FF FF 7F 24 37 80 80 81  .!.|.).....$7...
+1070: 80 82 80 83 80 29 08 5B  80 11 01 23 80 5B 80 11  .....).[...#.[..
+1080: 01 02 07 80 07 80 00 92  10 4E 01 87 80 11 01 01  .........N......
+1090: 98 10 4E 01 88 80 11 01  4A 5B 80 11 01 F8 FF FF  ..N.....J[......
+10A0: 7F 4A F8 FF FF 7F F0 FF  FF 7F 4A 1D 80 11 01 F8  .J........J.....
+10B0: FF FF 7F 6F 76 F8 FF FF  7F 6F 76 1D 80 11 01 6F  ...ov....ov....o
+10C0: 76 5B 80 11 01 92 01 5B  80 11 01 92 01 1D 80 11  v[.....[........
+10D0: 01 02 09 00 07 80 80 E8  10 92 01 89 80 11 01 92  ................
+10E0: 01 8D 80 11 01 01 1B 11  02 09 00 1D 80 80 F9 10  ................
+10F0: 92 01 8A 80 11 01 01 1B  11 02 09 00 1E 80 80 0A  ................
+1100: 11 92 01 8B 80 11 01 01  1B 11 02 09 00 1F 80 80  ................
+1110: 1B 11 92 01 8C 80 11 01  01 1B 11 02 07 80 07 80  ................
+1120: 00 37 11 45 0D 80 F0 FF  FF 7F F0 FF FF 7F 73 31  .7.E..........s1
+1130: 30 30 07 80 01 48 11 45  0D 80 F0 FF FF 7F F0 FF  00...H.E........
+1140: FF 7F 73 30 33 35 07 80  45 06 80 F0 FF FF 7F F0  ..s035..E.......
+1150: FF FF 7F 66 64 69 31 07  80 55 06 80 F0 FF FF 7F  ...fdi1..U......
+1160: F0 FF FF 7F 66 64 69 31  29 08 5B 80 11 01 01 06  ....fdi1).[.....
+1170: 01 10 40 20 80 23 80 01  10 1F 80 40 24 80 36 80  ..@ .#.....@$.6.
+1180: 01 10 09 00 43 00 43 01  02 02 10 1E 80 80 97 11  ....C.C.........
+1190: 1D 84 80 23 01 B5 11 02  02 10 1D 80 80 A6 11 1D  ...#............
+11A0: 85 80 23 01 B5 11 02 02  10 07 80 80 B5 11 1D 86  ..#.............
+11B0: 80 23 01 B5 11 45 06 80  F0 FF FF 7F F0 FF FF 7F  .#...E..........
+11C0: 66 64 6F 31 07 80 55 06  80 F0 FF FF 7F F0 FF FF  fdo1..U.........
+11D0: 7F 66 64 6F 31 02 07 80  07 80 00 EF 11 52 0D 80  .fdo1........R..
+11E0: F0 FF FF 7F F0 FF FF 7F  73 31 30 30 01 FE 11 52  ........s100...R
+11F0: 0D 80 F0 FF FF 7F F0 FF  FF 7F 73 30 33 35 29 08  ..........s035).
+1200: 5B 80 11 01 03 4E 01 5B  80 11 01 2F 01 5B 80 11  [....N.[.../.[..
+1210: 01 46 00 06 01 10 40 20  80 23 80 01 10 1D 80 40  .F....@ .#.....@
+1220: 24 80 36 80 01 10 09 00  43 00 43 01 1A 80 26 02  $.6.....C.C...&.
+1230: 07 80 07 80 00 3D 12 1A  1B 26 01 49 12 1A 29 26  .....=...&.I..)&
+1240: 1A 37 26 1A 45 26 1A 53  26 45 06 80 F0 FF FF 7F  .7&.E&.S&E......
+1250: F0 FF FF 7F 66 64 69 31  07 80 20 00 21 03 04 00  ....fdi1.. .!...
+1260: 07 80 01 70 12 02 00 10  1D 80 00 70 12 01 70 12  ...p.......p..p.
+1270: 01 6B 17 02 00 10 1E 80  00 6B 17 48 87 80 23 24  .k.......k.H..#$
+1280: 88 80 1D 80 07 80 25 02  00 10 07 80 00 52 17 42  ......%......R.B
+1290: 46 01 45 06 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  F.E..........fdo
+12A0: 31 07 80 55 06 80 F0 FF  FF 7F F0 FF FF 7F 66 64  1..U..........fd
+12B0: 6F 31 38 08 80 2F 00 5B  80 11 01 4E 00 5B 80 11  o18../.[...N.[..
+12C0: 01 02 07 80 07 80 00 79  13 29 08 F0 FF FF 7F 23  .......y.).....#
+12D0: 29 08 5B 80 11 01 21 1A  29 26 1A 37 26 1A 45 26  ).[...!.)&.7&.E&
+12E0: 1A 53 26 02 09 00 07 80  00 04 13 BA 89 80 11 01  .S&.............
+12F0: 7C 80 7D 80 7E 80 7F 80  4A 5B 80 11 01 89 80 11  |.}.~...J[......
+1300: 01 01 76 13 02 09 00 1D  80 00 2B 13 BA 8A 80 11  ..v.......+.....
+1310: 01 7C 80 7D 80 7E 80 7F  80 4A 5B 80 11 01 8A 80  .|.}.~...J[.....
+1320: 11 01 4E 01 89 80 11 01  01 76 13 02 09 00 1E 80  ..N......v......
+1330: 00 52 13 BA 8B 80 11 01  7C 80 7D 80 7E 80 7F 80  .R......|.}.~...
+1340: 4A 5B 80 11 01 8B 80 11  01 4E 01 89 80 11 01 01  J[.......N......
+1350: 76 13 02 09 00 1F 80 00  76 13 BA 8C 80 11 01 7C  v.......v......|
+1360: 80 7D 80 7E 80 7F 80 4A  5B 80 11 01 8C 80 11 01  .}.~...J[.......
+1370: 4E 01 89 80 11 01 01 68  14 29 08 F0 FF FF 7F 24  N......h.).....$
+1380: 29 08 5B 80 11 01 23 02  09 00 07 80 00 C0 13 BA  ).[...#.........
+1390: 8D 80 11 01 80 80 81 80  82 80 83 80 4A 5B 80 11  ............J[..
+13A0: 01 8D 80 11 01 4E 01 8A  80 11 01 4E 01 8B 80 11  .....N.....N....
+13B0: 01 4E 01 8C 80 11 01 4E  01 89 80 11 01 01 68 14  .N.....N......h.
+13C0: 02 09 00 1D 80 00 F9 13  BA 8A 80 11 01 80 80 81  ................
+13D0: 80 82 80 83 80 4A 5B 80  11 01 8A 80 11 01 4E 01  .....J[.......N.
+13E0: 89 80 11 01 4E 01 8B 80  11 01 4E 01 8C 80 11 01  ....N.....N.....
+13F0: 4E 01 8D 80 11 01 01 68  14 02 09 00 1E 80 00 32  N......h.......2
+1400: 14 BA 8B 80 11 01 80 80  81 80 82 80 83 80 4A 5B  ..............J[
+1410: 80 11 01 8B 80 11 01 4E  01 8A 80 11 01 4E 01 8C  .......N.....N..
+1420: 80 11 01 4E 01 8D 80 11  01 4E 01 89 80 11 01 01  ...N.....N......
+1430: 68 14 02 09 00 1F 80 00  68 14 BA 8C 80 11 01 80  h.......h.......
+1440: 80 81 80 82 80 83 80 4A  5B 80 11 01 8C 80 11 01  .......J[.......
+1450: 4E 01 89 80 11 01 4E 01  8A 80 11 01 4E 01 8B 80  N.....N.....N...
+1460: 11 01 4E 01 8D 80 11 01  80 5B 80 11 01 02 07 80  ..N......[......
+1470: 07 80 00 7E 14 4E 01 87  80 11 01 01 84 14 4E 01  ...~.N........N.
+1480: 88 80 11 01 02 07 80 07  80 00 9E 14 4A 1D 80 11  ............J...
+1490: 01 F8 FF FF 7F 6F 76 1D  80 11 01 01 9E 14 6F 76  .....ov.......ov
+14A0: 5B 80 11 01 92 01 5B 80  11 01 92 01 1D 80 11 01  [.....[.........
+14B0: 02 09 00 07 80 80 D9 14  92 01 89 80 11 01 92 01  ................
+14C0: 8D 80 11 01 92 01 8A 80  11 01 92 01 8B 80 11 01  ................
+14D0: 92 01 8C 80 11 01 01 54  15 02 09 00 1D 80 80 02  .......T........
+14E0: 15 92 01 89 80 11 01 92  01 8D 80 11 01 92 01 8A  ................
+14F0: 80 11 01 92 01 8B 80 11  01 92 01 8C 80 11 01 01  ................
+1500: 54 15 02 09 00 1E 80 80  2B 15 92 01 89 80 11 01  T.......+.......
+1510: 92 01 8D 80 11 01 92 01  8A 80 11 01 92 01 8B 80  ................
+1520: 11 01 92 01 8C 80 11 01  01 54 15 02 09 00 1F 80  .........T......
+1530: 80 54 15 92 01 89 80 11  01 92 01 8D 80 11 01 92  .T..............
+1540: 01 8A 80 11 01 92 01 8B  80 11 01 92 01 8C 80 11  ................
+1550: 01 01 54 15 7B 5B 80 11  01 5B 0F 80 5B 80 11 01  ..T.{[...[..[...
+1560: 5B 80 11 01 68 65 64 30  02 07 80 07 80 00 9F 15  [...hed0........
+1570: 3E 01 11 89 80 8B 15 45  0D 80 F0 FF FF 7F F0 FF  >......E........
+1580: FF 7F 73 31 30 34 07 80  01 9C 15 45 0D 80 F0 FF  ..s104.....E....
+1590: FF 7F F0 FF FF 7F 73 31  30 35 07 80 01 CB 15 3E  ......s105.....>
+15A0: 01 11 89 80 BA 15 45 0D  80 F0 FF FF 7F F0 FF FF  ......E.........
+15B0: 7F 73 30 33 37 07 80 01  CB 15 45 0D 80 F0 FF FF  .s037.....E.....
+15C0: 7F F0 FF FF 7F 73 30 33  36 07 80 45 06 80 F0 FF  .....s036..E....
+15D0: FF 7F F0 FF FF 7F 66 64  69 31 07 80 55 06 80 F0  ......fdi1..U...
+15E0: FF FF 7F F0 FF FF 7F 66  64 69 31 1D 8A 80 23 45  .......fdi1...#E
+15F0: 06 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 07 80  ..........fdo1..
+1600: 55 06 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 31 02  U..........fdo1.
+1610: 07 80 07 80 00 42 16 3E  01 11 89 80 30 16 52 0D  .....B.>....0.R.
+1620: 80 F0 FF FF 7F F0 FF FF  7F 73 31 30 34 01 3F 16  .........s104.?.
+1630: 52 0D 80 F0 FF FF 7F F0  FF FF 7F 73 31 30 35 01  R..........s105.
+1640: 6A 16 3E 01 11 89 80 5B  16 52 0D 80 F0 FF FF 7F  j.>....[.R......
+1650: F0 FF FF 7F 73 30 33 37  01 6A 16 52 0D 80 F0 FF  ....s037.j.R....
+1660: FF 7F F0 FF FF 7F 73 30  33 36 53 5B 80 11 01 5B  ......s036S[...[
+1670: 80 11 01 68 65 64 30 5B  0F 80 5B 80 11 01 5B 80  ...hed0[..[...[.
+1680: 11 01 68 65 64 31 4E 01  5B 80 11 01 2F 01 5B 80  ..hed1N.[.../.[.
+1690: 11 01 06 01 10 40 20 80  23 80 01 10 1E 80 40 24  .....@ .#.....@$
+16A0: 80 36 80 01 10 09 00 43  00 43 01 02 09 00 1D 80  .6.....C.C......
+16B0: 80 C3 16 BA 8A 80 11 01  8B 80 8C 80 8D 80 8E 80  ................
+16C0: 01 0B 17 02 09 00 1E 80  80 DB 16 BA 8B 80 11 01  ................
+16D0: 8B 80 8C 80 8D 80 8E 80  01 0B 17 02 09 00 1F 80  ................
+16E0: 80 F3 16 BA 8C 80 11 01  8B 80 8C 80 8D 80 8E 80  ................
+16F0: 01 0B 17 02 09 00 2C 80  80 0B 17 BA 8D 80 11 01  ......,.........
+1700: 8B 80 8C 80 8D 80 8E 80  01 0B 17 1A 80 26 02 07  .............&..
+1710: 80 07 80 00 28 17 1A 1B  26 1A 29 26 1A 37 26 1A  ....(...&.)&.7&.
+1720: 45 26 1A 53 26 01 34 17  1A 29 26 1A 37 26 1A 45  E&.S&.4..)&.7&.E
+1730: 26 1A 53 26 46 00 45 06  80 F0 FF FF 7F F0 FF FF  &.S&F.E.........
+1740: 7F 66 64 69 31 07 80 20  00 21 03 04 00 07 80 01  .fdi1.. .!......
+1750: 68 17 02 00 10 1D 80 00  68 17 02 1F 17 07 80 00  h.......h.......
+1760: 65 17 0C 04 00 01 68 17  01 6B 17 01 BE 0F 01 94  e.....h..k......
+1770: 0F 1B 0B 04 00 02 0E 00  07 80 80 85 17 03 02 10  ................
+1780: 07 80 01 F5 17 02 0E 00  1D 80 80 95 17 03 02 10  ................
+1790: 1D 80 01 F5 17 02 0E 00  1E 80 80 A5 17 03 02 10  ................
+17A0: 1D 80 01 F5 17 02 0E 00  1F 80 80 B5 17 03 02 10  ................
+17B0: 1E 80 01 F5 17 02 0E 00  2C 80 80 C5 17 03 02 10  ........,.......
+17C0: 1E 80 01 F5 17 02 0E 00  2B 80 80 D5 17 03 02 10  ........+.......
+17D0: 1F 80 01 F5 17 02 0E 00  2F 80 80 E5 17 03 02 10  ......../.......
+17E0: 1F 80 01 F5 17 02 0E 00  2D 80 80 F5 17 03 02 10  ........-.......
+17F0: 2C 80 01 F5 17 48 8F 80  23 03 01 10 90 80 43 00  ,....H..#.....C.
+1800: 43 01 02 02 10 52 80 00  15 18 1D 91 80 23 0C 04  C....R.......#..
+1810: 00 1B 01 1A 18 03 02 00  02 10 02 04 00 1D 80 02  ................
+1820: 98 1C 02 0D 00 1D 80 80  37 18 03 0A 00 52 80 0F  ........7....R..
+1830: 0A 00 1F 80 01 3C 18 03  0A 00 02 00 03 02 10 1A  .....<..........
+1840: 00 24 92 80 07 80 0A 00  25 02 00 10 07 80 00 58  .$......%......X
+1850: 18 0C 04 00 1B 01 95 1C  02 00 10 1D 80 00 26 19  ..............&.
+1860: 06 18 00 0B 04 00 02 04  00 1E 80 02 23 19 02 0D  ............#...
+1870: 00 1D 80 00 83 18 03 0A  00 52 80 0F 0A 00 1F 80  .........R......
+1880: 01 86 18 06 0A 00 24 93  80 18 00 0A 00 25 02 00  ......$......%..
+1890: 10 07 80 00 9C 18 0C 04  00 01 20 19 02 00 10 1D  .......... .....
+18A0: 80 00 BD 18 03 18 00 00  10 03 02 10 94 80 48 95  ..............H.
+18B0: 80 23 03 02 10 1D 80 1A  99 1C 01 20 19 02 00 10  .#......... ....
+18C0: 1E 80 00 DE 18 03 18 00  00 10 03 02 10 96 80 48  ...............H
+18D0: 97 80 23 03 02 10 1E 80  1A 99 1C 01 20 19 02 00  ..#......... ...
+18E0: 10 1F 80 00 FF 18 03 18  00 00 10 03 02 10 98 80  ................
+18F0: 48 99 80 23 03 02 10 1F  80 1A 99 1C 01 20 19 02  H..#......... ..
+1900: 00 10 2C 80 00 20 19 03  18 00 00 10 03 02 10 9A  ..,.. ..........
+1910: 80 48 9B 80 23 03 02 10  2C 80 1A 99 1C 01 20 19  .H..#...,..... .
+1920: 01 66 18 01 95 1C 02 00  10 1E 80 00 BB 19 06 18  .f..............
+1930: 00 0B 04 00 02 04 00 1E  80 02 B8 19 24 9C 80 18  ............$...
+1940: 00 07 80 25 02 00 10 07  80 00 52 19 0C 04 00 01  ...%......R.....
+1950: B5 19 02 00 10 1D 80 00  73 19 03 18 00 00 10 03  ........s.......
+1960: 02 10 9D 80 48 9E 80 23  03 02 10 2B 80 1A 99 1C  ....H..#...+....
+1970: 01 B5 19 02 00 10 1E 80  00 94 19 03 18 00 00 10  ................
+1980: 03 02 10 9F 80 48 A0 80  23 03 02 10 2F 80 1A 99  .....H..#.../...
+1990: 1C 01 B5 19 02 00 10 1F  80 00 B5 19 03 18 00 00  ................
+19A0: 10 03 02 10 A1 80 48 A2  80 23 03 02 10 2D 80 1A  ......H..#...-..
+19B0: 99 1C 01 B5 19 01 34 19  01 95 1C 02 00 10 1F 80  ......4.........
+19C0: 00 92 1A 06 18 00 0B 04  00 02 04 00 1E 80 02 8F  ................
+19D0: 1A 24 A3 80 18 00 07 80  25 02 00 10 07 80 00 E7  .$......%.......
+19E0: 19 0C 04 00 01 8C 1A 02  00 10 1D 80 00 08 1A 03  ................
+19F0: 18 00 00 10 03 02 10 A4  80 48 A5 80 23 03 02 10  .........H..#...
+1A00: 20 80 1A 99 1C 01 8C 1A  02 00 10 1E 80 00 29 1A   .............).
+1A10: 03 18 00 00 10 03 02 10  A6 80 48 A7 80 23 03 02  ..........H..#..
+1A20: 10 4C 80 1A 99 1C 01 8C  1A 02 00 10 1F 80 00 4A  .L.............J
+1A30: 1A 03 18 00 00 10 03 02  10 A8 80 48 A9 80 23 03  ...........H..#.
+1A40: 02 10 AA 80 1A 99 1C 01  8C 1A 02 00 10 2C 80 00  .............,..
+1A50: 6B 1A 03 18 00 00 10 03  02 10 AB 80 48 AC 80 23  k...........H..#
+1A60: 03 02 10 21 80 1A 99 1C  01 8C 1A 02 00 10 2B 80  ...!..........+.
+1A70: 00 8C 1A 03 18 00 00 10  03 02 10 AD 80 48 AE 80  .............H..
+1A80: 23 03 02 10 22 80 1A 99  1C 01 8C 1A 01 C9 19 01  #..."...........
+1A90: 95 1C 02 00 10 2C 80 00  48 1B 06 18 00 0B 04 00  .....,..H.......
+1AA0: 02 04 00 1E 80 02 45 1B  24 AF 80 18 00 07 80 25  ......E.$......%
+1AB0: 02 00 10 07 80 00 BE 1A  0C 04 00 01 42 1B 02 00  ............B...
+1AC0: 10 1D 80 00 DF 1A 03 18  00 00 10 03 02 10 9F 80  ................
+1AD0: 48 B0 80 23 03 02 10 89  80 1A 99 1C 01 42 1B 02  H..#.........B..
+1AE0: 00 10 1E 80 00 00 1B 03  18 00 00 10 03 02 10 B1  ................
+1AF0: 80 48 B2 80 23 03 02 10  B3 80 1A 99 1C 01 42 1B  .H..#.........B.
+1B00: 02 00 10 1F 80 00 21 1B  03 18 00 00 10 03 02 10  ......!.........
+1B10: B4 80 48 B5 80 23 03 02  10 23 80 1A 99 1C 01 42  ..H..#...#.....B
+1B20: 1B 02 00 10 2C 80 00 42  1B 03 18 00 00 10 03 02  ....,..B........
+1B30: 10 B6 80 48 B7 80 23 03  02 10 24 80 1A 99 1C 01  ...H..#...$.....
+1B40: 42 1B 01 A0 1A 01 95 1C  02 00 10 2B 80 00 B7 1B  B..........+....
+1B50: 06 18 00 0B 04 00 02 04  00 1E 80 02 B4 1B 24 B8  ..............$.
+1B60: 80 18 00 07 80 25 02 00  10 07 80 00 74 1B 0C 04  .....%......t...
+1B70: 00 01 B1 1B 02 00 10 1D  80 00 95 1B 03 18 00 00  ................
+1B80: 10 03 02 10 B9 80 48 BA  80 23 03 02 10 BB 80 1A  ......H..#......
+1B90: 99 1C 01 B1 1B 02 00 10  1E 80 00 B1 1B 03 18 00  ................
+1BA0: 00 10 48 BC 80 23 03 02  10 40 80 1A 99 1C 01 B1  ..H..#...@......
+1BB0: 1B 01 56 1B 01 95 1C 02  00 10 2F 80 00 2B 1C 06  ..V......./..+..
+1BC0: 18 00 0B 04 00 02 04 00  1E 80 02 28 1C 24 BD 80  ...........(.$..
+1BD0: 18 00 07 80 25 02 00 10  07 80 00 E3 1B 0C 04 00  ....%...........
+1BE0: 01 25 1C 02 00 10 1D 80  00 04 1C 03 18 00 00 10  .%..............
+1BF0: 03 02 10 BE 80 48 BF 80  23 03 02 10 08 80 1A 99  .....H..#.......
+1C00: 1C 01 25 1C 02 00 10 1E  80 00 25 1C 03 18 00 00  ..%.......%.....
+1C10: 10 03 02 10 C0 80 48 C1  80 23 03 02 10 2E 80 1A  ......H..#......
+1C20: 99 1C 01 25 1C 01 C5 1B  01 95 1C 02 00 10 2D 80  ...%..........-.
+1C30: 00 95 1C 06 18 00 0B 04  00 02 04 00 1E 80 02 92  ................
+1C40: 1C 24 C2 80 18 00 07 80  25 02 00 10 07 80 00 57  .$......%......W
+1C50: 1C 0C 04 00 01 8F 1C 02  00 10 1D 80 00 73 1C 03  .............s..
+1C60: 18 00 00 10 48 C3 80 23  03 02 10 25 80 1A 99 1C  ....H..#...%....
+1C70: 01 8F 1C 02 00 10 1E 80  00 8F 1C 03 18 00 00 10  ................
+1C80: 48 C4 80 23 03 02 10 C5  80 1A 99 1C 01 8F 1C 01  H..#............
+1C90: 39 1C 01 95 1C 01 1A 18  1B 24 C6 80 1D 80 07 80  9........$......
+1CA0: 25 02 00 10 07 80 00 6B  1D 42 03 01 10 C7 80 40  %......k.B.....@
+1CB0: 20 80 36 80 01 10 02 10  43 00 43 01 02 09 10 07   .6.....C.C.....
+1CC0: 80 00 51 1D 1D C8 80 23  03 03 00 02 10 03 00 00  ..Q....#........
+1CD0: 03 10 45 06 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..E..........fdo
+1CE0: 31 07 80 55 06 80 F0 FF  FF 7F F0 FF FF 7F 66 64  1..U..........fd
+1CF0: 6F 31 02 07 80 07 80 00  00 1D 1A 46 1E 01 0F 1D  o1.........F....
+1D00: 1A 80 26 1A 29 26 1A 37  26 1A 45 26 1A 53 26 45  ..&.)&.7&.E&.S&E
+1D10: 06 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 31 07 80  ..........fdi1..
+1D20: 55 06 80 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 03  U..........fdi1.
+1D30: 02 10 03 00 02 00 00 07  80 01 44 1D 03 03 10 1D  ..........D.....
+1D40: 80 01 47 1D 06 03 10 48  C9 80 23 06 04 00 01 67  ..G....H..#....g
+1D50: 1D 02 09 10 CA 80 00 60  1D 1D 91 80 23 01 64 1D  .......`....#.d.
+1D60: 1D CB 80 23 0C 04 00 2E  01 76 1D 02 00 10 1D 80  ...#.....v......
+1D70: 00 76 1D 01 76 1D 1B 0B  04 00 02 04 00 1D 80 02  .v..v...........
+1D80: 45 1E 06 02 10 1A 6C 0E  02 03 00 07 80 03 91 1D  E.....l.........
+1D90: 1B 03 09 00 03 00 03 1F  17 02 10 06 01 10 40 20  ..............@ 
+1DA0: 80 23 80 01 10 23 80 40  24 80 36 80 01 10 09 00  .#...#.@$.6.....
+1DB0: 43 00 43 01 48 CC 80 23  02 02 10 07 80 00 CC 1D  C.C.H..#........
+1DC0: 48 CD 80 23 03 0A 00 1E  80 01 D5 1D 48 CE 80 23  H..#........H..#
+1DD0: 03 0A 00 2C 80 24 CF 80  07 80 0A 00 25 02 00 10  ...,.$......%...
+1DE0: 1D 80 00 0A 1E 42 06 01  10 40 20 80 23 80 01 10  .....B...@ .#...
+1DF0: 24 80 40 24 80 36 80 01  10 09 00 43 00 43 01 2E  $.@$.6.....C.C..
+1E00: 1D D0 80 23 0C 04 00 01  42 1E 02 00 10 1E 80 00  ...#....B.......
+1E10: 37 1E 42 06 01 10 40 20  80 23 80 01 10 24 80 40  7.B...@ .#...$.@
+1E20: 24 80 36 80 01 10 09 00  43 00 43 01 2E 1D D1 80  $.6.....C.C.....
+1E30: 23 0C 04 00 01 42 1E 02  1F 17 07 80 00 42 1E 0C  #....B.......B..
+1E40: 04 00 01 7A 1D 1B 92 00  1D 80 11 01 1A 80 26 1A  ...z..........&.
+1E50: BD 1E 1A 81 1F 1A 2B 21  1A 58 23 1A 66 32 1A 66  ......+!.X#.f2.f
+1E60: 23 1A 42 24 1A 79 24 1A  9C 24 1A C8 24 1A 68 25  #.B$.y$..$..$.h%
+1E70: 1A F2 25 1A 1B 26 1A 61  26 1A 99 22 AC 02 35 80  ..%..&.a&.."..5.
+1E80: 11 01 1B 92 00 1D 80 11  01 1A BD 1E 1A 81 1F 1A  ................
+1E90: 2B 21 1A 58 23 1A 66 32  1A 66 23 1A 42 24 1A 79  +!.X#.f2.f#.B$.y
+1EA0: 24 1A 9C 24 1A C8 24 1A  68 25 1A F2 25 1A 1B 26  $..$..$.h%..%..&
+1EB0: 1A 61 26 1A 99 22 AC 02  35 80 11 01 1B AC 02 09  .a&.."..5.......
+1EC0: 80 11 01 3E 00 11 07 80  D4 1E 27 80 09 80 11 01  ...>......'.....
+1ED0: 02 01 DB 1E 27 80 09 80  11 01 03 AC 02 0A 80 11  ....'...........
+1EE0: 01 3E 00 11 1D 80 F2 1E  27 80 0A 80 11 01 02 01  .>......'.......
+1EF0: F9 1E 27 80 0A 80 11 01  03 AC 02 0B 80 11 01 3E  ..'............>
+1F00: 00 11 1E 80 10 1F 29 80  0B 80 11 01 02 01 17 1F  ......).........
+1F10: 29 80 0B 80 11 01 03 92  01 20 80 11 01 92 01 21  )........ .....!
+1F20: 80 11 01 92 01 22 80 11  01 AC 02 20 80 11 01 3E  ....."..... ...>
+1F30: 00 11 54 80 3F 1F 4E 00  20 80 11 01 01 45 1F 4E  ..T.?.N. ....E.N
+1F40: 01 20 80 11 01 AC 02 21  80 11 01 3E 00 11 4F 80  . .....!...>..O.
+1F50: 5B 1F 4E 00 21 80 11 01  01 61 1F 4E 01 21 80 11  [.N.!....a.N.!..
+1F60: 01 AC 02 22 80 11 01 3E  00 11 D2 80 77 1F 4E 00  ..."...>....w.N.
+1F70: 22 80 11 01 01 7D 1F 4E  01 22 80 11 01 1C 1D 80  "....}.N."......
+1F80: 1B AC 02 0F 80 11 01 3E  00 11 1F 80 98 1F 27 80  .......>......'.
+1F90: 0F 80 11 01 02 01 9F 1F  27 80 0F 80 11 01 03 AC  ........'.......
+1FA0: 02 10 80 11 01 3E 00 11  2C 80 B6 1F 27 80 10 80  .....>..,...'...
+1FB0: 11 01 02 01 BD 1F 27 80  10 80 11 01 03 AC 02 11  ......'.........
+1FC0: 80 11 01 3E 00 11 2B 80  D4 1F 29 80 11 80 11 01  ...>..+...).....
+1FD0: 02 01 DB 1F 29 80 11 80  11 01 03 AC 02 1A 80 11  ....)...........
+1FE0: 01 3E 01 11 40 80 F2 1F  27 80 1A 80 11 01 02 01  .>..@...'.......
+1FF0: F9 1F 27 80 1A 80 11 01  03 AC 02 1B 80 11 01 3E  ..'............>
+2000: 01 11 08 80 10 20 29 80  1B 80 11 01 02 01 17 20  ..... )........ 
+2010: 29 80 1B 80 11 01 03 AC  02 23 80 11 01 AC 02 24  )........#.....$
+2020: 80 11 01 3E 00 11 40 80  4F 20 3E 08 11 07 80 40  ...>..@.O >....@
+2030: 20 4E 00 24 80 11 01 4E  01 23 80 11 01 01 4C 20   N.$...N.#....L 
+2040: 4E 00 23 80 11 01 4E 01  24 80 11 01 01 5B 20 4E  N.#...N.$....[ N
+2050: 01 23 80 11 01 4E 01 24  80 11 01 AC 02 25 80 11  .#...N.$.....%..
+2060: 01 AC 02 26 80 11 01 3E  00 11 08 80 93 20 3E 08  ...&...>..... >.
+2070: 11 1D 80 84 20 4E 00 26  80 11 01 4E 01 25 80 11  .... N.&...N.%..
+2080: 01 01 90 20 4E 00 25 80  11 01 4E 01 26 80 11 01  ... N.%...N.&...
+2090: 01 9F 20 4E 01 25 80 11  01 4E 01 26 80 11 01 AC  .. N.%...N.&....
+20A0: 02 27 80 11 01 AC 02 28  80 11 01 3E 00 11 2E 80  .'.....(...>....
+20B0: D7 20 3E 08 11 1E 80 C8  20 4E 00 28 80 11 01 4E  . >..... N.(...N
+20C0: 01 27 80 11 01 01 D4 20  4E 00 27 80 11 01 4E 01  .'..... N.'...N.
+20D0: 28 80 11 01 01 E3 20 4E  01 27 80 11 01 4E 01 28  (..... N.'...N.(
+20E0: 80 11 01 AC 02 29 80 11  01 AC 02 2A 80 11 01 3E  .....).....*...>
+20F0: 00 11 25 80 1B 21 3E 08  11 1F 80 0C 21 4E 00 2A  ..%..!>.....!N.*
+2100: 80 11 01 4E 01 29 80 11  01 01 18 21 4E 00 29 80  ...N.).....!N.).
+2110: 11 01 4E 01 2A 80 11 01  01 27 21 4E 01 29 80 11  ..N.*....'!N.)..
+2120: 01 4E 01 2A 80 11 01 1C  1D 80 1B AC 02 12 80 11  .N.*............
+2130: 01 3E 00 11 2F 80 42 21  27 80 12 80 11 01 02 01  .>../.B!'.......
+2140: 49 21 27 80 12 80 11 01  03 AC 02 13 80 11 01 3E  I!'............>
+2150: 00 11 2D 80 60 21 27 80  13 80 11 01 02 01 67 21  ..-.`!'.......g!
+2160: 27 80 13 80 11 01 03 AC  02 14 80 11 01 3E 00 11  '............>..
+2170: 20 80 7E 21 29 80 14 80  11 01 02 01 85 21 29 80   .~!)........!).
+2180: 14 80 11 01 03 AC 02 2B  80 11 01 AC 02 2C 80 11  .......+.....,..
+2190: 01 3E 00 11 C5 80 BD 21  3E 08 11 2C 80 AE 21 4E  .>.....!>..,..!N
+21A0: 00 2C 80 11 01 4E 01 2B  80 11 01 01 BA 21 4E 00  .,...N.+.....!N.
+21B0: 2B 80 11 01 4E 01 2C 80  11 01 01 C9 21 4E 01 2B  +...N.,.....!N.+
+21C0: 80 11 01 4E 01 2C 80 11  01 AC 02 2D 80 11 01 AC  ...N.,.....-....
+21D0: 02 2E 80 11 01 3E 00 11  26 80 01 22 3E 08 11 2B  .....>..&..">..+
+21E0: 80 F2 21 4E 00 2E 80 11  01 4E 01 2D 80 11 01 01  ..!N.....N.-....
+21F0: FE 21 4E 00 2D 80 11 01  4E 01 2E 80 11 01 01 0D  .!N.-...N.......
+2200: 22 4E 01 2D 80 11 01 4E  01 2E 80 11 01 AC 02 2F  "N.-...N......./
+2210: 80 11 01 AC 02 30 80 11  01 3E 00 11 27 80 45 22  .....0...>..'.E"
+2220: 3E 08 11 2F 80 36 22 4E  00 30 80 11 01 4E 01 2F  >../.6"N.0...N./
+2230: 80 11 01 01 42 22 4E 00  2F 80 11 01 4E 01 30 80  ....B"N./...N.0.
+2240: 11 01 01 51 22 4E 01 2F  80 11 01 4E 01 30 80 11  ...Q"N./...N.0..
+2250: 01 AC 02 31 80 11 01 AC  02 32 80 11 01 3E 00 11  ...1.....2...>..
+2260: 28 80 89 22 3E 08 11 2D  80 7A 22 4E 00 32 80 11  (..">..-.z"N.2..
+2270: 01 4E 01 31 80 11 01 01  86 22 4E 00 31 80 11 01  .N.1....."N.1...
+2280: 4E 01 32 80 11 01 01 95  22 4E 01 31 80 11 01 4E  N.2....."N.1...N
+2290: 01 32 80 11 01 1C 1D 80  1B 92 01 35 80 11 01 AC  .2.........5....
+22A0: 02 15 80 11 01 3E 00 11  4C 80 B6 22 27 80 15 80  .....>..L.."'...
+22B0: 11 01 02 01 BD 22 27 80  15 80 11 01 03 AC 02 16  ....."'.........
+22C0: 80 11 01 3E 00 11 AA 80  D4 22 27 80 16 80 11 01  ...>....."'.....
+22D0: 02 01 DB 22 27 80 16 80  11 01 03 AC 02 17 80 11  ..."'...........
+22E0: 01 3E 00 11 21 80 F2 22  27 80 17 80 11 01 02 01  .>..!.."'.......
+22F0: F9 22 27 80 17 80 11 01  03 AC 02 18 80 11 01 3E  ."'............>
+2300: 01 11 BB 80 10 23 29 80  18 80 11 01 02 01 17 23  .....#)........#
+2310: 29 80 18 80 11 01 03 3E  01 11 2E 80 27 23 60 02  )......>....'#`.
+2320: 69 30 6F 6E 01 27 23 3E  01 11 25 80 37 23 60 02  i0on.'#>..%.7#`.
+2330: 69 31 6F 6E 01 37 23 3E  01 11 C5 80 47 23 60 02  i1on.7#>....G#`.
+2340: 69 32 6F 6E 01 47 23 3E  01 11 26 80 57 23 60 02  i2on.G#>..&.W#`.
+2350: 69 33 6F 6E 01 57 23 1B  AC 02 35 80 11 01 29 08  i3on.W#...5...).
+2360: 35 80 11 01 04 1B 92 00  57 80 11 01 92 00 6A 80  5.......W.....j.
+2370: 11 01 92 00 58 80 11 01  92 00 6B 80 11 01 92 00  ....X.....k.....
+2380: 59 80 11 01 92 00 6C 80  11 01 AC 02 57 80 11 01  Y.....l.....W...
+2390: 3E 00 11 22 80 A1 23 27  08 57 80 11 01 02 01 A8  >.."..#'.W......
+23A0: 23 27 08 57 80 11 01 03  AC 02 6A 80 11 01 3E 00  #'.W......j...>.
+23B0: 11 89 80 BF 23 27 08 6A  80 11 01 02 01 C6 23 27  ....#'.j......#'
+23C0: 08 6A 80 11 01 03 AC 02  58 80 11 01 3E 00 11 B3  .j......X...>...
+23D0: 80 DD 23 29 08 58 80 11  01 02 01 E4 23 29 08 58  ..#).X......#).X
+23E0: 80 11 01 03 AC 02 6B 80  11 01 3E 00 11 23 80 FB  ......k...>..#..
+23F0: 23 27 08 6B 80 11 01 02  01 02 24 27 08 6B 80 11  #'.k......$'.k..
+2400: 01 03 AC 02 59 80 11 01  3E 00 11 24 80 19 24 27  ....Y...>..$..$'
+2410: 08 59 80 11 01 02 01 20  24 27 08 59 80 11 01 03  .Y..... $'.Y....
+2420: AC 02 6C 80 11 01 3E 00  11 BB 80 37 24 29 08 6C  ..l...>....7$).l
+2430: 80 11 01 02 01 3E 24 29  08 6C 80 11 01 03 1C 1D  .....>$).l......
+2440: 80 1B AC 02 36 80 11 01  3E 00 11 D3 80 65 24 2C  ....6...>....e$,
+2450: 36 80 11 01 36 80 11 01  65 66 6F 6E B6 14 36 80  6...6...efon..6.
+2460: 11 01 01 78 24 2C 36 80  11 01 36 80 11 01 65 66  ...x$,6...6...ef
+2470: 6F 66 B6 15 36 80 11 01  1B 3E 01 11 07 80 8F 24  of..6....>.....$
+2480: 4E 00 71 80 11 01 AC 03  71 80 11 01 01 9B 24 AC  N.q.....q.....$.
+2490: 02 71 80 11 01 4E 01 71  80 11 01 1B AC 02 72 80  .q...N.q......r.
+24A0: 11 01 3E 01 11 1D 80 C0  24 3E 01 11 1F 80 B7 24  ..>.....$>.....$
+24B0: 29 08 72 80 11 01 04 4E  00 72 80 11 01 01 C7 24  ).r....N.r.....$
+24C0: 29 08 72 80 11 01 03 1B  AC 02 8E 80 11 01 3E 01  ).r...........>.
+24D0: 11 28 80 DE 24 4E 00 8E  80 11 01 01 E4 24 4E 01  .(..$N.......$N.
+24E0: 8E 80 11 01 1B AC 02 80  80 11 01 AC 02 81 80 11  ................
+24F0: 01 AC 02 82 80 11 01 AC  02 83 80 11 01 AC 02 84  ................
+2500: 80 11 01 3E 01 11 54 80  49 25 4E 00 80 80 11 01  ...>..T.I%N.....
+2510: AC 03 80 80 11 01 4E 00  81 80 11 01 AC 03 81 80  ......N.........
+2520: 11 01 4E 00 82 80 11 01  AC 03 82 80 11 01 4E 00  ..N...........N.
+2530: 83 80 11 01 AC 03 83 80  11 01 4E 00 84 80 11 01  ..........N.....
+2540: AC 03 84 80 11 01 01 67  25 4E 01 80 80 11 01 4E  .......g%N.....N
+2550: 01 81 80 11 01 4E 01 82  80 11 01 4E 01 83 80 11  .....N.....N....
+2560: 01 4E 01 84 80 11 01 1B  AC 02 85 80 11 01 AC 02  .N..............
+2570: 86 80 11 01 3E 01 11 4F  80 E5 25 13 1B 00 1E 80  ....>..O..%.....
+2580: 02 1B 00 1E 80 02 8B 25  06 1B 00 02 1B 00 07 80  .......%........
+2590: 80 A4 25 29 08 85 80 11  01 02 29 08 86 80 11 01  ..%)......).....
+25A0: 02 01 D6 25 02 1B 00 1D  80 80 BD 25 29 08 85 80  ...%.......%)...
+25B0: 11 01 03 29 08 86 80 11  01 03 01 D6 25 02 1B 00  ...)........%...
+25C0: 1E 80 80 D6 25 29 08 85  80 11 01 04 29 08 86 80  ....%)......)...
+25D0: 11 01 04 01 D6 25 4E 00  85 80 11 01 4E 00 86 80  .....%N.....N...
+25E0: 11 01 01 F1 25 4E 01 85  80 11 01 4E 01 86 80 11  ....%N.....N....
+25F0: 01 1B AC 02 87 80 11 01  3E 01 11 2C 80 0E 26 4E  ........>..,..&N
+2600: 00 87 80 11 01 AC 03 87  80 11 01 01 1A 26 AC 02  .............&..
+2610: 87 80 11 01 4E 01 87 80  11 01 1B AC 02 89 80 11  ....N...........
+2620: 01 29 08 89 80 11 01 04  1B AC 02 8A 80 11 01 29  .).............)
+2630: 08 8A 80 11 01 04 1B AC  02 8B 80 11 01 29 08 8B  .............)..
+2640: 80 11 01 04 1B AC 02 8C  80 11 01 29 08 8C 80 11  ...........)....
+2650: 01 04 1B AC 02 8D 80 11  01 29 08 8D 80 11 01 04  .........)......
+2660: 1B AC 02 1C 80 11 01 3E  01 11 27 80 78 26 29 80  .......>..'.x&).
+2670: 1C 80 11 01 02 01 7F 26  29 80 1C 80 11 01 03 1B  .......&).......
+2680: 03 01 10 1D 80 43 00 43  01 03 1C 00 02 10 03 08  .....C.C........
+2690: 11 03 10 03 01 11 04 10  03 0A 11 05 10 03 0B 11  ................
+26A0: 06 10 03 0C 11 07 10 03  01 10 21 80 43 00 43 01  ..........!.C.C.
+26B0: 03 02 11 02 10 03 03 11  03 10 03 04 11 04 10 03  ................
+26C0: 05 11 05 10 03 06 11 06  10 03 07 11 07 10 03 09  ................
+26D0: 11 08 10 41 07 80 1F 80  1C 00 1B 00 1A CD 28 41  ...A..........(A
+26E0: 2C 80 2D 80 1C 00 1B 00  1A D5 2A 41 20 80 21 80  ,.-.......*A .!.
+26F0: 1C 00 1B 00 1A 65 2D 41  22 80 23 80 1C 00 1B 00  .....e-A".#.....
+2700: 1A B3 2F 41 2E 80 C5 80  1C 00 1B 00 1A 35 27 41  ../A.........5'A
+2710: 36 80 36 80 1C 00 1B 00  02 1B 00 07 80 00 2A 27  6.6...........*'
+2720: 3D 00 11 D3 80 1D 80 01  31 27 3C 00 11 D3 80 1D  =.......1'<.....
+2730: 80 1A 4F 27 1B 02 1B 00  1F 80 04 47 27 3C 01 11  ..O'.......G'<..
+2740: 27 80 1D 80 01 4E 27 3D  01 11 27 80 1D 80 1B 3E  '....N'=..'....>
+2750: 08 11 20 80 C0 27 41 4C  80 21 80 08 11 1B 00 02  .. ..'AL.!......
+2760: 1B 00 1D 80 80 78 27 3D  00 11 22 80 1D 80 3C 00  .....x'=.."...<.
+2770: 11 89 80 1D 80 01 BD 27  02 1B 00 2C 80 80 91 27  .......'...,...'
+2780: 3C 00 11 22 80 1D 80 3D  00 11 89 80 1D 80 01 BD  <.."...=........
+2790: 27 13 1B 00 D4 80 02 1B  00 D5 80 03 AF 27 3D 00  '............'=.
+27A0: 11 22 80 1D 80 3C 00 11  89 80 1D 80 01 BD 27 3C  ."...<........'<
+27B0: 00 11 22 80 1D 80 3D 00  11 89 80 1D 80 01 CE 27  .."...=........'
+27C0: 3D 00 11 22 80 1D 80 3D  00 11 89 80 1D 80 3E 08  =.."...=......>.
+27D0: 11 22 80 3F 28 41 89 80  23 80 08 11 1B 00 02 1B  .".?(A..#.......
+27E0: 00 1D 80 80 F7 27 3C 00  11 B3 80 1D 80 3D 00 11  .....'<......=..
+27F0: 23 80 1D 80 01 3C 28 02  1B 00 2B 80 80 10 28 3D  #....<(...+...(=
+2800: 00 11 B3 80 1D 80 3C 00  11 23 80 1D 80 01 3C 28  ......<..#....<(
+2810: 13 1B 00 D4 80 02 1B 00  D5 80 03 2E 28 3C 00 11  ............(<..
+2820: B3 80 1D 80 3D 00 11 23  80 1D 80 01 3C 28 3D 00  ....=..#....<(=.
+2830: 11 B3 80 1D 80 3C 00 11  23 80 1D 80 01 4D 28 3D  .....<..#....M(=
+2840: 00 11 B3 80 1D 80 3D 00  11 23 80 1D 80 3E 08 11  ......=..#...>..
+2850: 24 80 BE 28 41 BB 80 08  80 08 11 1B 00 02 1B 00  $..(A...........
+2860: 1F 80 80 76 28 3C 00 11  24 80 1D 80 3D 00 11 BB  ...v(<..$...=...
+2870: 80 1D 80 01 BB 28 02 1B  00 1E 80 80 8F 28 3D 00  .....(.......(=.
+2880: 11 24 80 1D 80 3C 00 11  BB 80 1D 80 01 BB 28 13  .$...<........(.
+2890: 1B 00 D4 80 02 1B 00 D5  80 03 AD 28 3C 00 11 24  ...........(<..$
+28A0: 80 1D 80 3D 00 11 BB 80  1D 80 01 BB 28 3D 00 11  ...=........(=..
+28B0: 24 80 1D 80 3C 00 11 BB  80 1D 80 01 CC 28 3D 00  $...<........(=.
+28C0: 11 24 80 1D 80 3D 00 11  BB 80 1D 80 1B 02 1B 00  .$...=..........
+28D0: 07 80 80 02 29 3D 00 11  07 80 1D 80 3C 00 11 1D  ....)=......<...
+28E0: 80 1D 80 3C 00 11 1E 80  1D 80 3C 00 11 54 80 1D  ...<......<..T..
+28F0: 80 3D 00 11 4F 80 1D 80  3D 00 11 D2 80 1D 80 01  .=..O...=.......
+2900: D4 2A 02 1B 00 1D 80 80  37 29 3D 00 11 07 80 1D  .*......7)=.....
+2910: 80 3C 00 11 1D 80 1D 80  3C 00 11 1E 80 1D 80 3C  .<......<......<
+2920: 00 11 54 80 1D 80 3D 00  11 4F 80 1D 80 3D 00 11  ..T...=..O...=..
+2930: D2 80 1D 80 01 D4 2A 02  1B 00 1E 80 80 6C 29 3D  ......*......l)=
+2940: 00 11 07 80 1D 80 3C 00  11 1D 80 1D 80 3C 00 11  ......<......<..
+2950: 1E 80 1D 80 3C 00 11 54  80 1D 80 3D 00 11 4F 80  ....<..T...=..O.
+2960: 1D 80 3D 00 11 D2 80 1D  80 01 D4 2A 02 1B 00 1F  ..=........*....
+2970: 80 80 A1 29 3D 00 11 07  80 1D 80 3D 00 11 1D 80  ...)=......=....
+2980: 1D 80 3C 00 11 1E 80 1D  80 3C 00 11 54 80 1D 80  ..<......<..T...
+2990: 3C 00 11 4F 80 1D 80 3D  00 11 D2 80 1D 80 01 D4  <..O...=........
+29A0: 2A 02 1B 00 2C 80 80 D6  29 3D 00 11 07 80 1D 80  *...,...)=......
+29B0: 3D 00 11 1D 80 1D 80 3C  00 11 1E 80 1D 80 3C 00  =......<......<.
+29C0: 11 54 80 1D 80 3C 00 11  4F 80 1D 80 3D 00 11 D2  .T...<..O...=...
+29D0: 80 1D 80 01 D4 2A 02 1B  00 2B 80 80 0B 2A 3D 00  .....*...+...*=.
+29E0: 11 07 80 1D 80 3D 00 11  1D 80 1D 80 3D 00 11 1E  .....=......=...
+29F0: 80 1D 80 3C 00 11 54 80  1D 80 3C 00 11 4F 80 1D  ...<..T...<..O..
+2A00: 80 3C 00 11 D2 80 1D 80  01 D4 2A 02 1B 00 2F 80  .<........*.../.
+2A10: 80 40 2A 3D 00 11 07 80  1D 80 3D 00 11 1D 80 1D  .@*=......=.....
+2A20: 80 3D 00 11 1E 80 1D 80  3C 00 11 54 80 1D 80 3C  .=......<..T...<
+2A30: 00 11 4F 80 1D 80 3C 00  11 D2 80 1D 80 01 D4 2A  ..O...<........*
+2A40: 02 1B 00 2D 80 80 75 2A  3D 00 11 07 80 1D 80 3D  ...-..u*=......=
+2A50: 00 11 1D 80 1D 80 3D 00  11 1E 80 1D 80 3C 00 11  ......=......<..
+2A60: 54 80 1D 80 3C 00 11 4F  80 1D 80 3C 00 11 D2 80  T...<..O...<....
+2A70: 1D 80 01 D4 2A 02 1B 00  20 80 80 AA 2A 3D 00 11  ....*... ...*=..
+2A80: 07 80 1D 80 3D 00 11 1D  80 1D 80 3D 00 11 1E 80  ....=......=....
+2A90: 1D 80 3C 00 11 54 80 1D  80 3C 00 11 4F 80 1D 80  ..<..T...<..O...
+2AA0: 3C 00 11 D2 80 1D 80 01  D4 2A 3D 00 11 07 80 1D  <........*=.....
+2AB0: 80 3C 00 11 1D 80 1D 80  3C 00 11 1E 80 1D 80 3C  .<......<......<
+2AC0: 00 11 54 80 1D 80 3D 00  11 4F 80 1D 80 3D 00 11  ..T...=..O...=..
+2AD0: D2 80 1D 80 1B 02 1B 00  07 80 80 1F 2B 3C 00 11  ............+<..
+2AE0: 1F 80 1D 80 3C 00 11 2C  80 1D 80 3C 00 11 2B 80  ....<..,...<..+.
+2AF0: 1D 80 3C 01 11 40 80 1D  80 3C 01 11 08 80 1D 80  ..<..@...<......
+2B00: 3C 00 11 40 80 1D 80 3D  00 11 08 80 1D 80 3D 00  <..@...=......=.
+2B10: 11 2E 80 1D 80 3D 00 11  25 80 1D 80 01 64 2D 02  .....=..%....d-.
+2B20: 1B 00 1D 80 80 69 2B 3C  00 11 1F 80 1D 80 3C 00  .....i+<......<.
+2B30: 11 2C 80 1D 80 3C 00 11  2B 80 1D 80 3C 01 11 40  .,...<..+...<..@
+2B40: 80 1D 80 3C 01 11 08 80  1D 80 3C 00 11 40 80 1D  ...<......<..@..
+2B50: 80 3D 00 11 08 80 1D 80  3D 00 11 2E 80 1D 80 3D  .=......=......=
+2B60: 00 11 25 80 1D 80 01 64  2D 02 1B 00 1E 80 80 B3  ..%....d-.......
+2B70: 2B 3C 00 11 1F 80 1D 80  3C 00 11 2C 80 1D 80 3C  +<......<..,...<
+2B80: 00 11 2B 80 1D 80 3C 01  11 40 80 1D 80 3C 01 11  ..+...<..@...<..
+2B90: 08 80 1D 80 3C 00 11 40  80 1D 80 3D 00 11 08 80  ....<..@...=....
+2BA0: 1D 80 3D 00 11 2E 80 1D  80 3D 00 11 25 80 1D 80  ..=......=..%...
+2BB0: 01 64 2D 02 1B 00 1F 80  80 FD 2B 3D 00 11 1F 80  .d-.......+=....
+2BC0: 1D 80 3C 00 11 2C 80 1D  80 3C 00 11 2B 80 1D 80  ..<..,...<..+...
+2BD0: 3D 01 11 40 80 1D 80 3C  01 11 08 80 1D 80 3C 00  =..@...<......<.
+2BE0: 11 40 80 1D 80 3C 00 11  08 80 1D 80 3D 00 11 2E  .@...<......=...
+2BF0: 80 1D 80 3D 00 11 25 80  1D 80 01 64 2D 02 1B 00  ...=..%....d-...
+2C00: 2C 80 80 47 2C 3D 00 11  1F 80 1D 80 3C 00 11 2C  ,..G,=......<..,
+2C10: 80 1D 80 3C 00 11 2B 80  1D 80 3D 01 11 40 80 1D  ...<..+...=..@..
+2C20: 80 3C 01 11 08 80 1D 80  3C 00 11 40 80 1D 80 3C  .<......<..@...<
+2C30: 00 11 08 80 1D 80 3D 00  11 2E 80 1D 80 3D 00 11  ......=......=..
+2C40: 25 80 1D 80 01 64 2D 02  1B 00 2B 80 80 91 2C 3D  %....d-...+...,=
+2C50: 00 11 1F 80 1D 80 3D 00  11 2C 80 1D 80 3C 00 11  ......=..,...<..
+2C60: 2B 80 1D 80 3D 01 11 40  80 1D 80 3D 01 11 08 80  +...=..@...=....
+2C70: 1D 80 3C 00 11 40 80 1D  80 3C 00 11 08 80 1D 80  ..<..@...<......
+2C80: 3C 00 11 2E 80 1D 80 3D  00 11 25 80 1D 80 01 64  <......=..%....d
+2C90: 2D 02 1B 00 2F 80 80 DB  2C 3D 00 11 1F 80 1D 80  -.../...,=......
+2CA0: 3D 00 11 2C 80 1D 80 3C  00 11 2B 80 1D 80 3D 01  =..,...<..+...=.
+2CB0: 11 40 80 1D 80 3D 01 11  08 80 1D 80 3C 00 11 40  .@...=......<..@
+2CC0: 80 1D 80 3C 00 11 08 80  1D 80 3C 00 11 2E 80 1D  ...<......<.....
+2CD0: 80 3D 00 11 25 80 1D 80  01 64 2D 02 1B 00 2D 80  .=..%....d-...-.
+2CE0: 80 25 2D 3D 00 11 1F 80  1D 80 3D 00 11 2C 80 1D  .%-=......=..,..
+2CF0: 80 3D 00 11 2B 80 1D 80  3D 01 11 40 80 1D 80 3D  .=..+...=..@...=
+2D00: 01 11 08 80 1D 80 3C 00  11 40 80 1D 80 3C 00 11  ......<..@...<..
+2D10: 08 80 1D 80 3C 00 11 2E  80 1D 80 3C 00 11 25 80  ....<......<..%.
+2D20: 1D 80 01 64 2D 3C 00 11  1F 80 1D 80 3C 00 11 2C  ...d-<......<..,
+2D30: 80 1D 80 3C 00 11 2B 80  1D 80 3C 01 11 40 80 1D  ...<..+...<..@..
+2D40: 80 3C 01 11 08 80 1D 80  3C 00 11 40 80 1D 80 3D  .<......<..@...=
+2D50: 00 11 08 80 1D 80 3D 00  11 2E 80 1D 80 3D 00 11  ......=......=..
+2D60: 25 80 1D 80 1B 02 1B 00  07 80 80 A1 2D 3D 00 11  %...........-=..
+2D70: 2F 80 1D 80 3D 00 11 2D  80 1D 80 3D 00 11 20 80  /...=..-...=.. .
+2D80: 1D 80 3C 00 11 C5 80 1D  80 3D 00 11 26 80 1D 80  ..<......=..&...
+2D90: 3D 00 11 27 80 1D 80 3D  00 11 28 80 1D 80 01 B2  =..'...=..(.....
+2DA0: 2F 02 1B 00 1D 80 80 DD  2D 3D 00 11 2F 80 1D 80  /.......-=../...
+2DB0: 3D 00 11 2D 80 1D 80 3D  00 11 20 80 1D 80 3C 00  =..-...=.. ...<.
+2DC0: 11 C5 80 1D 80 3D 00 11  26 80 1D 80 3D 00 11 27  .....=..&...=..'
+2DD0: 80 1D 80 3D 00 11 28 80  1D 80 01 B2 2F 02 1B 00  ...=..(...../...
+2DE0: 1E 80 80 19 2E 3D 00 11  2F 80 1D 80 3D 00 11 2D  .....=../...=..-
+2DF0: 80 1D 80 3D 00 11 20 80  1D 80 3C 00 11 C5 80 1D  ...=.. ...<.....
+2E00: 80 3D 00 11 26 80 1D 80  3D 00 11 27 80 1D 80 3D  .=..&...=..'...=
+2E10: 00 11 28 80 1D 80 01 B2  2F 02 1B 00 1F 80 80 55  ..(...../......U
+2E20: 2E 3C 00 11 2F 80 1D 80  3D 00 11 2D 80 1D 80 3D  .<../...=..-...=
+2E30: 00 11 20 80 1D 80 3C 00  11 C5 80 1D 80 3C 00 11  .. ...<......<..
+2E40: 26 80 1D 80 3D 00 11 27  80 1D 80 3D 00 11 28 80  &...=..'...=..(.
+2E50: 1D 80 01 B2 2F 02 1B 00  2C 80 80 91 2E 3C 00 11  ..../...,....<..
+2E60: 2F 80 1D 80 3D 00 11 2D  80 1D 80 3D 00 11 20 80  /...=..-...=.. .
+2E70: 1D 80 3C 00 11 C5 80 1D  80 3C 00 11 26 80 1D 80  ..<......<..&...
+2E80: 3D 00 11 27 80 1D 80 3D  00 11 28 80 1D 80 01 B2  =..'...=..(.....
+2E90: 2F 02 1B 00 2B 80 80 CD  2E 3C 00 11 2F 80 1D 80  /...+....<../...
+2EA0: 3C 00 11 2D 80 1D 80 3D  00 11 20 80 1D 80 3C 00  <..-...=.. ...<.
+2EB0: 11 C5 80 1D 80 3C 00 11  26 80 1D 80 3C 00 11 27  .....<..&...<..'
+2EC0: 80 1D 80 3D 00 11 28 80  1D 80 01 B2 2F 02 1B 00  ...=..(...../...
+2ED0: 2F 80 80 09 2F 3C 00 11  2F 80 1D 80 3C 00 11 2D  /.../<../...<..-
+2EE0: 80 1D 80 3D 00 11 20 80  1D 80 3C 00 11 C5 80 1D  ...=.. ...<.....
+2EF0: 80 3C 00 11 26 80 1D 80  3C 00 11 27 80 1D 80 3D  .<..&...<..'...=
+2F00: 00 11 28 80 1D 80 01 B2  2F 02 1B 00 2D 80 80 45  ..(...../...-..E
+2F10: 2F 3C 00 11 2F 80 1D 80  3C 00 11 2D 80 1D 80 3C  /<../...<..-...<
+2F20: 00 11 20 80 1D 80 3C 00  11 C5 80 1D 80 3C 00 11  .. ...<......<..
+2F30: 26 80 1D 80 3C 00 11 27  80 1D 80 3C 00 11 28 80  &...<..'...<..(.
+2F40: 1D 80 01 B2 2F 02 1B 00  20 80 80 81 2F 3C 00 11  ..../... .../<..
+2F50: 2F 80 1D 80 3C 00 11 2D  80 1D 80 3C 00 11 20 80  /...<..-...<.. .
+2F60: 1D 80 3C 00 11 C5 80 1D  80 3C 00 11 26 80 1D 80  ..<......<..&...
+2F70: 3C 00 11 27 80 1D 80 3C  00 11 28 80 1D 80 01 B2  <..'...<..(.....
+2F80: 2F 3D 00 11 2F 80 1D 80  3D 00 11 2D 80 1D 80 3D  /=../...=..-...=
+2F90: 00 11 20 80 1D 80 3C 00  11 C5 80 1D 80 3D 00 11  .. ...<......=..
+2FA0: 26 80 1D 80 3D 00 11 27  80 1D 80 3D 00 11 28 80  &...=..'...=..(.
+2FB0: 1D 80 1B 02 1B 00 07 80  80 F6 2F 3D 00 11 4C 80  ........../=..L.
+2FC0: 1D 80 3D 00 11 AA 80 1D  80 3D 00 11 21 80 1D 80  ..=......=..!...
+2FD0: 3D 01 11 BB 80 1D 80 3C  01 11 2E 80 1D 80 3D 01  =......<......=.
+2FE0: 11 25 80 1D 80 3D 01 11  C5 80 1D 80 3D 01 11 26  .%...=......=..&
+2FF0: 80 1D 80 01 03 32 02 1B  00 1D 80 80 39 30 3D 00  .....2......90=.
+3000: 11 4C 80 1D 80 3D 00 11  AA 80 1D 80 3D 00 11 21  .L...=......=..!
+3010: 80 1D 80 3D 01 11 BB 80  1D 80 3C 01 11 2E 80 1D  ...=......<.....
+3020: 80 3D 01 11 25 80 1D 80  3D 01 11 C5 80 1D 80 3D  .=..%...=......=
+3030: 01 11 26 80 1D 80 01 03  32 02 1B 00 1E 80 80 7C  ..&.....2......|
+3040: 30 3D 00 11 4C 80 1D 80  3D 00 11 AA 80 1D 80 3D  0=..L...=......=
+3050: 00 11 21 80 1D 80 3D 01  11 BB 80 1D 80 3C 01 11  ..!...=......<..
+3060: 2E 80 1D 80 3D 01 11 25  80 1D 80 3D 01 11 C5 80  ....=..%...=....
+3070: 1D 80 3D 01 11 26 80 1D  80 01 03 32 02 1B 00 1F  ..=..&.....2....
+3080: 80 80 BF 30 3C 00 11 4C  80 1D 80 3D 00 11 AA 80  ...0<..L...=....
+3090: 1D 80 3D 00 11 21 80 1D  80 3D 01 11 BB 80 1D 80  ..=..!...=......
+30A0: 3D 01 11 2E 80 1D 80 3C  01 11 25 80 1D 80 3D 01  =......<..%...=.
+30B0: 11 C5 80 1D 80 3D 01 11  26 80 1D 80 01 03 32 02  .....=..&.....2.
+30C0: 1B 00 2C 80 80 02 31 3C  00 11 4C 80 1D 80 3D 00  ..,...1<..L...=.
+30D0: 11 AA 80 1D 80 3D 00 11  21 80 1D 80 3D 01 11 BB  .....=..!...=...
+30E0: 80 1D 80 3D 01 11 2E 80  1D 80 3C 01 11 25 80 1D  ...=......<..%..
+30F0: 80 3D 01 11 C5 80 1D 80  3D 01 11 26 80 1D 80 01  .=......=..&....
+3100: 03 32 02 1B 00 2B 80 80  45 31 3C 00 11 4C 80 1D  .2...+..E1<..L..
+3110: 80 3C 00 11 AA 80 1D 80  3D 00 11 21 80 1D 80 3D  .<......=..!...=
+3120: 01 11 BB 80 1D 80 3D 01  11 2E 80 1D 80 3D 01 11  ......=......=..
+3130: 25 80 1D 80 3C 01 11 C5  80 1D 80 3D 01 11 26 80  %...<......=..&.
+3140: 1D 80 01 03 32 02 1B 00  2F 80 80 88 31 3C 00 11  ....2.../...1<..
+3150: 4C 80 1D 80 3C 00 11 AA  80 1D 80 3D 00 11 21 80  L...<......=..!.
+3160: 1D 80 3D 01 11 BB 80 1D  80 3D 01 11 2E 80 1D 80  ..=......=......
+3170: 3D 01 11 25 80 1D 80 3C  01 11 C5 80 1D 80 3D 01  =..%...<......=.
+3180: 11 26 80 1D 80 01 03 32  02 1B 00 2D 80 80 CB 31  .&.....2...-...1
+3190: 3C 00 11 4C 80 1D 80 3C  00 11 AA 80 1D 80 3C 00  <..L...<......<.
+31A0: 11 21 80 1D 80 3C 01 11  BB 80 1D 80 3D 01 11 2E  .!...<......=...
+31B0: 80 1D 80 3D 01 11 25 80  1D 80 3D 01 11 C5 80 1D  ...=..%...=.....
+31C0: 80 3C 01 11 26 80 1D 80  01 03 32 3D 00 11 4C 80  .<..&.....2=..L.
+31D0: 1D 80 3D 00 11 AA 80 1D  80 3D 00 11 21 80 1D 80  ..=......=..!...
+31E0: 3D 01 11 BB 80 1D 80 3C  01 11 2E 80 1D 80 3D 01  =......<......=.
+31F0: 11 25 80 1D 80 3D 01 11  C5 80 1D 80 3D 01 11 26  .%...=......=..&
+3200: 80 1D 80 1B 03 01 10 21  80 43 00 43 01 03 02 11  .......!.C.C....
+3210: 02 10 03 03 11 03 10 03  04 11 04 10 03 05 11 05  ................
+3220: 10 03 06 11 06 10 03 07  11 07 10 03 09 11 08 10  ................
+3230: 1B 03 01 10 D6 80 47 00  D7 80 D8 80 D9 80 DA 80  ......G.........
+3240: 47 01 03 02 11 02 10 03  03 11 03 10 03 04 11 04  G...............
+3250: 10 03 05 11 05 10 03 06  11 06 10 03 07 11 07 10  ................
+3260: 03 09 11 08 10 1B 2F 00  37 80 11 01 2F 00 38 80  ....../.7.../.8.
+3270: 11 01 2F 00 39 80 11 01  2F 00 3A 80 11 01 2F 00  ../.9.../.:.../.
+3280: 3B 80 11 01 2F 00 3C 80  11 01 2F 00 3D 80 11 01  ;.../.<.../.=...
+3290: 2F 00 3E 80 11 01 2F 00  3F 80 11 01 2F 00 40 80  /.>.../.?.../.@.
+32A0: 11 01 2F 00 41 80 11 01  2F 00 42 80 11 01 2F 00  ../.A.../.B.../.
+32B0: 43 80 11 01 2F 00 44 80  11 01 2F 00 45 80 11 01  C.../.D.../.E...
+32C0: 2F 00 46 80 11 01 2F 00  47 80 11 01 2F 00 48 80  /.F.../.G.../.H.
+32D0: 11 01 2F 00 49 80 11 01  2F 00 4A 80 11 01 2F 00  ../.I.../.J.../.
+32E0: 4B 80 11 01 2F 00 4C 80  11 01 2F 00 4D 80 11 01  K.../.L.../.M...
+32F0: 2F 00 4E 80 11 01 AC 02  37 80 11 01 AC 02 38 80  /.N.....7.....8.
+3300: 11 01 AC 02 39 80 11 01  AC 02 3A 80 11 01 AC 02  ....9.....:.....
+3310: 3B 80 11 01 AC 02 3C 80  11 01 AC 02 3D 80 11 01  ;.....<.....=...
+3320: AC 02 3E 80 11 01 AC 02  3F 80 11 01 AC 02 40 80  ..>.....?.....@.
+3330: 11 01 AC 02 41 80 11 01  AC 02 42 80 11 01 AC 02  ....A.....B.....
+3340: 43 80 11 01 AC 02 44 80  11 01 AC 02 45 80 11 01  C.....D.....E...
+3350: AC 02 46 80 11 01 AC 02  47 80 11 01 AC 02 48 80  ..F.....G.....H.
+3360: 11 01 AC 02 49 80 11 01  AC 02 4A 80 11 01 AC 02  ....I.....J.....
+3370: 4B 80 11 01 AC 02 4C 80  11 01 AC 02 4D 80 11 01  K.....L.....M...
+3380: AC 02 4E 80 11 01 AC 02  0C 80 11 01 AC 02 0D 80  ..N.............
+3390: 11 01 AC 02 0E 80 11 01  41 07 80 1D 80 02 11 02  ........A.......
+33A0: 10 02 02 10 1D 80 00 B3  33 29 80 0C 80 11 01 03  ........3)......
+33B0: 01 BA 33 29 80 0C 80 11  01 02 41 07 80 1D 80 03  ..3)......A.....
+33C0: 11 02 10 02 02 10 1D 80  00 D5 33 29 80 0D 80 11  ..........3)....
+33D0: 01 03 01 DC 33 29 80 0D  80 11 01 02 41 07 80 1D  ....3)......A...
+33E0: 80 04 11 02 10 02 02 10  1D 80 00 F7 33 29 80 0E  ............3)..
+33F0: 80 11 01 03 01 FE 33 29  80 0E 80 11 01 02 27 80  ......3)......'.
+3400: 37 80 11 01 02 27 80 38  80 11 01 02 27 80 39 80  7....'.8....'.9.
+3410: 11 01 02 29 80 3A 80 11  01 02 27 80 3B 80 11 01  ...).:....'.;...
+3420: 02 27 80 3C 80 11 01 02  27 80 3D 80 11 01 02 29  .'.<....'.=....)
+3430: 80 3E 80 11 01 02 27 80  3F 80 11 01 02 27 80 40  .>....'.?....'.@
+3440: 80 11 01 02 27 80 41 80  11 01 02 29 80 42 80 11  ....'.A....).B..
+3450: 01 02 27 80 43 80 11 01  02 27 80 44 80 11 01 02  ..'.C....'.D....
+3460: 27 80 45 80 11 01 02 29  80 46 80 11 01 02 27 80  '.E....).F....'.
+3470: 47 80 11 01 02 27 80 48  80 11 01 02 27 80 49 80  G....'.H....'.I.
+3480: 11 01 02 29 80 4A 80 11  01 02 27 80 4B 80 11 01  ...).J....'.K...
+3490: 02 27 80 4C 80 11 01 02  27 80 4D 80 11 01 02 29  .'.L....'.M....)
+34A0: 80 4E 80 11 01 02 1B 42  45 06 80 F0 FF FF 7F F0  .N.....BE.......
+34B0: FF FF 7F 66 64 6F 30 07  80 55 06 80 F0 FF FF 7F  ...fdo0..U......
+34C0: F0 FF FF 7F 66 64 6F 30  1A 31 32 1A 46 1E 45 06  ....fdo0.12.F.E.
+34D0: 80 F0 FF FF 7F F0 FF FF  7F 66 64 69 30 07 80 55  .........fdi0..U
+34E0: 06 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 30 1B 42  ..........fdi0.B
+34F0: 45 06 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 30 07  E..........fdo0.
+3500: 80 55 06 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 30  .U..........fdo0
+3510: 03 01 10 DB 80 47 00 DC  80 DD 80 DE 80 DF 80 47  .....G.........G
+3520: 01 02 02 10 07 80 00 3E  35 1A 80 26 1A 29 26 1A  .......>5..&.)&.
+3530: 37 26 1A 45 26 1A 53 26  1A E5 24 01 3E 35 45 06  7&.E&.S&..$.>5E.
+3540: 80 F0 FF FF 7F F0 FF FF  7F 66 64 69 30 07 80 55  .........fdi0..U
+3550: 06 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 30 1B 1A  ..........fdi0..
+3560: C8 35 02 1B 00 07 80 01  6B 35 1B 3C 00 11 02 10  .5......k5.<....
+3570: 1D 80 1A 46 1E 1B 1A C8  35 02 1B 00 07 80 01 82  ...F....5.......
+3580: 35 1B 3D 00 11 02 10 1D  80 1A 46 1E 1B 03 1B 00  5.=.......F.....
+3590: 02 10 03 01 10 1E 80 40  20 80 36 80 01 10 02 10  .......@ .6.....
+35A0: 02 1C 00 07 80 00 B2 35  3C 01 10 36 80 1D 80 01  .......5<..6....
+35B0: B9 35 3D 01 10 36 80 1D  80 43 00 43 01 03 00 11  .5=..6...C.C....
+35C0: 02 10 03 1B 00 07 80 1B  02 02 10 07 80 03 D9 35  ...............5
+35D0: 03 1B 00 52 80 1B 01 EF  35 02 02 10 36 80 02 EA  ...R....5...6...
+35E0: 35 03 1B 00 52 80 1B 01  EF 35 03 1B 00 07 80 1B  5...R....5......
+35F0: 02 10 03 10 04 10 05 10  06 10 07 10 08 10 09 10  ................
+3600: 00 17 01 17 02 17 03 17  04 17 05 17 06 17 07 17  ................
+3610: 08 17 09 17 0A 17 0B 17  0C 17 0D 17 0E 17 0F 17  ................
+3620: 10 17 11 17 12 17 13 17  14 17 15 17 16 17 17 17  ................
+3630: 18 17 19 17 1A 17 1B 17  1C 17 1D 17 1E 17 1F 17  ................
+3640: 07 80 07 80 07 80 07 80  07 80 07 80 07 80 07 80  ................
+3650: 07 80 1F 80 AA 80 E0 80  E1 80 E2 80 E3 80 07 80  ................
+3660: 07 80 4C 80 2E 80 E4 80  E5 80 E6 80 E7 80 07 80  ..L.............
+3670: 07 80 4C 80 2E 80 E4 80  E5 80 E6 80 E7 80 07 80  ..L.............
+3680: 07 80 1F 80 2D 80 24 80  D3 80 D5 80 E8 80 07 80  ....-.$.........
+3690: 07 80 1F 80 2D 80 24 80  D3 80 D5 80 E8 80 07 80  ....-.$.........
+36A0: 07 80 23 80 2E 80 51 80  5D 80 E8 80 E9 80 07 80  ..#...Q.].......
+36B0: 07 80 EA 80 EB 80 EC 80  ED 80 EE 80 EF 80 07 80  ................
+36C0: 07 80 F0 80 F1 80 F2 80  F3 80 F4 80 F5 80 07 80  ................
+36D0: 07 80 F6 80 F7 80 F8 80  F9 80 FA 80 FB 80 07 80  ................
+36E0: 07 80 FC 80 FD 80 FE 80  FF 80 00 81 01 81 07 80  ................
+36F0: 07 80 02 81 03 81 04 81  05 81 06 81 07 81 07 80  ................
+3700: 07 80 08 81 09 81 0A 81  0B 81 0C 81 0D 81 07 80  ................
+3710: 07 80 0E 81 0F 81 10 81  11 81 12 81 13 81 07 80  ................
+3720: 14 81 15 81 16 81 17 81  18 81 19 81 1A 81 1B 81  ................
+3730: 1C 81 1D 81 1E 81 1F 81  20 81 07 80 07 80 07 80  ........ .......
+3740: 21 81 22 81 23 81 24 81  25 81 26 81 27 81 28 81  !.".#.$.%.&.'.(.
+3750: 29 81 07 80 07 80 07 80  07 80 07 80 07 80 07 80  )...............
+3760: 2A 81 2B 81 2C 81 2D 81  2E 81 2F 81 30 81 31 81  *.+.,.-.../.0.1.
+3770: 32 81 33 81 34 81 35 81  36 81 37 81 38 81 07 80  2.3.4.5.6.7.8...
+3780: 39 81 3A 81 3B 81 3C 81  3D 81 3E 81 3F 81 40 81  9.:.;.<.=.>.?.@.
+3790: 41 81 8E 80 42 81 43 81  44 81 45 81 46 81 47 81  A...B.C.D.E.F.G.
+37A0: 48 81 49 81 4A 81 07 80  07 80 07 80 07 80 07 80  H.I.J...........
+37B0: 4B 81 4C 81 4D 81 4E 81  4F 81 50 81 51 81 52 81  K.L.M.N.O.P.Q.R.
+37C0: 53 81 07 80 07 80 07 80  07 80 07 80 07 80 07 80  S...............
+37D0: 54 81 55 81 56 81 57 81  58 81 59 81 5A 81 5B 81  T.U.V.W.X.Y.Z.[.
+37E0: 5C 81 07 80 07 80 07 80  07 80 07 80 07 80 07 80  \...............
+37F0: 5D 81 5E 81 5F 81 60 81  61 81 62 81 63 81 64 81  ].^._.`.a.b.c.d.
+3800: 65 81 66 81 07 80 07 80  07 80 07 80 07 80 07 80  e.f.............
+```
+
+#### Opcodes
+
+```
+  0: 0x0319 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x031E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x031F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0320 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3566*
+  4: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=8499*)
+    → "Oooooo! Chief go all the faraway-way to Jeuno? Biiiiiig thank you!"
+  5: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
+    → "Let's take these creature-crunchies to the back-cave rearing place."
+  7: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0337 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=3566*
+  9: 0x0346 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 10: 0x0348 [0x21] END_EVENT
+ 11: 0x0349 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x034A [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[2]
+     0x034F [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[3]
+     0x0354 [0x03] ExtData[1]->WorkLocal[23] = Work_Zone[4]
+     0x0359 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[32], string_index=0*)
+     0x035F [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[36], string_index=1*)
+     0x0365 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[40], string_index=2*)
+     0x036B [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[44], string_index=3*)
+     0x0371 [0x41] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[11] (bits 8*-11*)
+     0x037A [0x41] ExtData[1]->WorkLocal[12] = ExtData[1]->WorkLocal[11] (bits 12*-15*)
+     0x0383 [0x41] ExtData[1]->WorkLocal[14] = ExtData[1]->WorkLocal[11] (bits 16*-19*)
+     0x038C [0x41] ExtData[1]->WorkLocal[25] = ExtData[1]->WorkLocal[11] (bits 21*-23*)
+     0x0395 [0x41] ExtData[1]->WorkLocal[26] = ExtData[1]->WorkLocal[11] (bits 24*-25*)
+     0x039E [0x1E] EventEntity looks at LocalPlayer and starts talking
+     0x03A3 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 0*) GOTO 0x03AE
+     0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8600*)
+    → "<Snurk><snurk> ...Chacharoon always know this must happen with head, but not heart. Stopping eye driiibbles is hard."
+     0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8601*)
+    → "Today <Player> is talk to Chacharoon why?"
+     0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x03B2 [0x03] ExtData[1]->WorkLocal[4] = 1*
+     0x03B7 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 0*) GOTO 0x059F
+     0x03BF [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x03C2 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x03E9
+     0x03CA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x03D1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x03D8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x03DF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x03E6 [0x01] GOTO 0x0508
+     0x03E9 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x041E
+     0x03F1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x03F8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x03FF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x0406 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x040D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x0414 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x041B [0x01] GOTO 0x0508
+     0x041E [0x02] IF !(ExtData[1]->WorkLocal[13] == 2*) GOTO 0x046C
+     0x0426 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x042D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x0434 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x043B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x0442 [0x02] IF !(ExtData[1]->WorkLocal[14] < 3*) GOTO 0x045B
+     0x044A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x0451 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x0458 [0x01] GOTO 0x0469
+     0x045B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x0462 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x0469 [0x01] GOTO 0x0508
+     0x046C [0x02] IF !(ExtData[1]->WorkLocal[13] == 3*) GOTO 0x04BA
+     0x0474 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x047B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x0482 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x0489 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x0490 [0x02] IF !(ExtData[1]->WorkLocal[14] < 3*) GOTO 0x04A9
+     0x0498 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x049F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x04A6 [0x01] GOTO 0x04B7
+     0x04A9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x04B0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x04B7 [0x01] GOTO 0x0508
+     0x04BA [0x02] IF !(ExtData[1]->WorkLocal[13] == 4*) GOTO 0x0508
+     0x04C2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x04C9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x04D0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x04D7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x04DE [0x02] IF !(ExtData[1]->WorkLocal[14] < 3*) GOTO 0x04F7
+     0x04E6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x04ED [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x04F4 [0x01] GOTO 0x0505
+     0x04F7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x04FE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x0505 [0x01] GOTO 0x0508
+     0x0508 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 20*) GOTO 0x0519
+     0x050F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x0516 [0x01] GOTO 0x0520
+     0x0519 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x0520 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
+     0x0525 [0x24] CREATE_DIALOG(message_id=8603*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+    → "Please make a decision. [Decide to do nothing./Raise a new creature./Choose a parenting style./Part with your creature./Change rearing priority./View "Boss's Advice."/Discuss a cheering effect./Move to a different location.]"
+     0x052C [0x25] WAIT_DIALOG_SELECT()
+     0x052D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x053A
+     0x0535 [0x21] END_EVENT
+     0x0536 [0x00] END_REQSTACK()
+     0x0537 [0x01] GOTO 0x059C
+     0x053A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0548
+     0x0542 [0x1A] CALL_SUBROUTINE(address=0x1772)
+     0x0545 [0x01] GOTO 0x059C
+     0x0548 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0556
+     0x0550 [0x1A] CALL_SUBROUTINE(address=0x1D77)
+     0x0553 [0x01] GOTO 0x059C
+     0x0556 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0564
+     0x055E [0x1A] CALL_SUBROUTINE(address=0x0F8D)
+     0x0561 [0x01] GOTO 0x059C
+     0x0564 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0572
+     0x056C [0x1A] CALL_SUBROUTINE(address=0x05A1)
+     0x056F [0x01] GOTO 0x059C
+     0x0572 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0580
+     0x057A [0x1A] CALL_SUBROUTINE(address=0x0DA6)
+     0x057D [0x01] GOTO 0x059C
+     0x0580 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x058E
+     0x0588 [0x1A] CALL_SUBROUTINE(address=0x074F)
+     0x058B [0x01] GOTO 0x059C
+     0x058E [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x059C
+     0x0596 [0x1A] CALL_SUBROUTINE(address=0x066F)
+     0x0599 [0x01] GOTO 0x059C
+     0x059C [0x01] GOTO 0x03B7
+     0x059F [0x21] END_EVENT
+     0x05A0 [0x00] END_REQSTACK()
+     0x05A1 [0x3E] IF !(ExtData[1]->WorkLocal[12] bit 0*) GOTO 0x05AC
+     0x05A8 [0x48] [System] [7537*]:
+    → "You cannot perform that action as long as a creature that has succumbed to the darkness prowls the garden."
+     0x05AB [0x1B] RETURN
+     0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8604*)
+    → "Chacharoon putting smiley work into %0!"
+     0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x05B0 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x05B3 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 1*) GOTO 0x066E
+     0x05BB [0x03] Work_Zone[2] = 1*
+     0x05C0 [0x1A] CALL_SUBROUTINE(address=0x0E6C)
+     0x05C3 [0x02] IF !(ExtData[1]->WorkLocal[3] >= 0*) GOTO 0x05D2
+     0x05CB [0x0C] ExtData[1]->WorkLocal[4]--
+     0x05CE [0x1B] RETURN
+     0x05CF [0x01] GOTO 0x05D7
+     0x05D2 [0x03] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3]
+     0x05D7 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x05E6
+     0x05DF [0x48] [System] [8607*]:
+    → "You have already set %0 as your rearing priority."
+     0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x05E3 [0x01] GOTO 0x066B
+     0x05E6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8605*)
+    → "%0? Is bestest choice!"
+     0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x05EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x05FC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x060B [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
+    → "Cooome to Chacharoon... My precious %0!"
+     0x060E [0x06] Work_Zone[1] = 0
+     0x0611 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=4*)
+     0x061A [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[3])
+     0x0623 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0625 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0627 [0x1A] CALL_SUBROUTINE(address=0x2680)
+     0x062A [0x02] IF !(0* == 0*) GOTO 0x0638
+     0x0632 [0x1A] CALL_SUBROUTINE(address=0x261B)
+     0x0635 [0x01] GOTO 0x0644
+     0x0638 [0x1A] CALL_SUBROUTINE(address=0x2629)
+     0x063B [0x1A] CALL_SUBROUTINE(address=0x2637)
+     0x063E [0x1A] CALL_SUBROUTINE(address=0x2645)
+     0x0641 [0x1A] CALL_SUBROUTINE(address=0x2653)
+     0x0644 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x0655 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x0664 [0x48] [System] [8705*]:
+    → "You have decided to focus on rearing %0."
+     0x0667 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0668 [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x066B [0x01] GOTO 0x05B3
+     0x066E [0x1B] RETURN
+     0x066F [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 0*) GOTO 0x067E
+     0x0676 [0x03] Work_Zone[2] = 0*
+     0x067B [0x01] GOTO 0x0683
+     0x067E [0x03] Work_Zone[2] = 12*
+     0x0683 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 1*) GOTO 0x068D
+     0x068A [0x01] GOTO 0x0694
+     0x068D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x0694 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 2*) GOTO 0x069E
+     0x069B [0x01] GOTO 0x06A5
+     0x069E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x06A5 [0x24] CREATE_DIALOG(message_id=7329*, default_option=0*, option_flags=Work_Zone[2])
+    → "Set sail for where? [Let me get my sea legs first./Whence I came./Western Adoulin./Eastern Adoulin./The rearing grounds./The Mog Gardens.]"
+     0x06AC [0x25] WAIT_DIALOG_SELECT()
+     0x06AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C0
+     0x06B5 [0x03] Work_Zone[1] = 1073741824*
+     0x06BA [0x0C] ExtData[1]->WorkLocal[4]--
+     0x06BD [0x01] GOTO 0x074E
+     0x06C0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x06E4
+     0x06C8 [0x03] Work_Zone[1] = 268108031*
+     0x06CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x06DE [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x06E1 [0x01] GOTO 0x074E
+     0x06E4 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0708
+     0x06EC [0x03] Work_Zone[1] = 268239103*
+     0x06F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x0702 [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x0705 [0x01] GOTO 0x074E
+     0x0708 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x072C
+     0x0710 [0x03] Work_Zone[1] = 268173567*
+     0x0715 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x0726 [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x0729 [0x01] GOTO 0x074E
+     0x072C [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x073D
+     0x0734 [0x1A] CALL_SUBROUTINE(address=0x34EF)
+     0x0737 [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x073A [0x01] GOTO 0x074E
+     0x073D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x074E
+     0x0745 [0x1A] CALL_SUBROUTINE(address=0x34A7)
+     0x0748 [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x074B [0x01] GOTO 0x074E
+     0x074E [0x1B] RETURN
+     0x074F [0x1D] PRINT_EVENT_MESSAGE(message_id=8608*)
+    → "Ohhhhhh best cheering here! I make great happy noises!"
+     0x0752 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0753 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0767
+     0x075B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
+     0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=8610*)
+    → "Today's happy cheer is $3!"
+     0x0763 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0764 [0x01] GOTO 0x076B
+     0x0767 [0x1D] PRINT_EVENT_MESSAGE(message_id=8609*)
+    → "Let me show good thing to you!"
+     0x076A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x076B [0x06] Work_Zone[1] = 0
+     0x076E [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=18*)
+     0x0777 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0779 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x077B [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[2]
+     0x0780 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[3]
+     0x0785 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[4]
+     0x078A [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[5]
+     0x078F [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[6]
+     0x0794 [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[7]
+     0x0799 [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[8]
+     0x079E [0x0B] ExtData[1]->WorkLocal[4]++
+     0x07A1 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 1*) GOTO 0x093D
+     0x07A9 [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x07AC [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x07E1
+     0x07B4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x07BB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x07C2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x07C9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x07D0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x07D7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x07DE [0x01] GOTO 0x0881
+     0x07E1 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x080F
+     0x07E9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x07F0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x07F7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x07FE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x0805 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x080C [0x01] GOTO 0x0881
+     0x080F [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0836
+     0x0817 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x081E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x0825 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x082C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x0833 [0x01] GOTO 0x0881
+     0x0836 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0856
+     0x083E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x0845 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x084C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x0853 [0x01] GOTO 0x0881
+     0x0856 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x086F
+     0x085E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x0865 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x086C [0x01] GOTO 0x0881
+     0x086F [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x0881
+     0x0877 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x087E [0x01] GOTO 0x0881
+     0x0881 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0890
+     0x0889 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x0890 [0x24] CREATE_DIALOG(message_id=8611*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+    → "Select your cheering pleasure. [No changes./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters./Hear an explanation./No more cheering.]"
+     0x0897 [0x25] WAIT_DIALOG_SELECT()
+     0x0898 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08A6
+     0x08A0 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x08A3 [0x01] GOTO 0x093A
+     0x08A6 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x08DA
+     0x08AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8623*)
+    → "I think moogle understand my technique. Now read memo..."
+     0x08B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08B2 [0x03] Work_Zone[2] = 1134*
+     0x08B7 [0x48] [System] [8624*]:
+    → "Chacharoon shows you $0 entitled "Concerning Chacharoon's Cheer." Let's see what it says."
+     0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08BB [0x48] [System] [8625*]:
+    → ""Chacharoon's Cheer is an ability that changes the power of trust, love, and friendship into special abilities based on manipulating a monster's myriad memories, kupo."
+     0x08BE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08BF [0x48] [System] [8626*]:
+    → ""You can obtain memories by taking care of your monsters. Memories change based on appearance, so the longer you care for a monster, the easier they are to get, kupo."
+     0x08C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08C3 [0x48] [System] [8627*]:
+    → ""The special ability you receive can change depending on the memories used for the cheer. You will definitely be told that when Chacharoon celebrates with a congratulatory cheer, kupo!"
+     0x08C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08C7 [0x48] [System] [8628*]:
+    → ""Chacharoon doesn't know that the cheer requires significant sums of shining stars, kupo. I am secretly helping him."
+     0x08CA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08CB [0x48] [System] [8629*]:
+    → ""The shining star sum subsequently suitable for a cheer depends on the number of memories required."
+     0x08CE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08CF [0x48] [System] [8630*]:
+    → ""Chacharoon is a kindhearted soul, so if you ask him once, he will always cheer for you, and can be changed as many times as you like. However, keep in mind that it costs shining stars to do so, kupo!"
+     0x08D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08D3 [0x48] [System] [8631*]:
+    → ""This ends the eternal explanation. Sorry it took so long, kupo.""
+     0x08D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08D7 [0x01] GOTO 0x093A
+     0x08DA [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x091F
+     0x08E2 [0x24] CREATE_DIALOG(message_id=8620*, default_option=1*, option_flags=0*)
+    → "Stop receiving Chacharoon's boons? [Yes. I've had enough./No. Continue on.]"
+     0x08E9 [0x25] WAIT_DIALOG_SELECT()
+     0x08EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0911
+     0x08F2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x08F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8621*)
+    → "Hm? You haaad enough of Chacharoon's cheer? No problem!"
+     0x08F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08F7 [0x03] Work_Zone[1] = 27*
+     0x08FC [0x10] Work_Zone[1] <<= 8*
+     0x0901 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0903 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0905 [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[2]
+     0x090A [0x48] [System] [8622*]:
+    → "The effect of Chacharoon's cheer stops."
+     0x090D [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+     0x090E [0x01] GOTO 0x091C
+     0x0911 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x091C
+     0x0919 [0x01] GOTO 0x091C
+     0x091C [0x01] GOTO 0x093A
+     0x091F [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[0]
+     0x0924 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x093A
+     0x092C [0x02] IF !(ExtData[1]->WorkLocal[0] > 7*) GOTO 0x093A
+     0x0934 [0x1A] CALL_SUBROUTINE(address=0x093E)
+     0x0937 [0x1A] CALL_SUBROUTINE(address=0x0A81)
+     0x093A [0x01] GOTO 0x07A1
+     0x093D [0x1B] RETURN
+     0x093E [0x06] ExtData[1]->WorkLocal[1] = 0
+     0x0941 [0x06] ExtData[1]->WorkLocal[2] = 0
+     0x0944 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x09FF
+     0x094C [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0961
+     0x0954 [0x9D] IF (0x3720) ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[3] // extra=0x8024
+     0x095E [0x01] GOTO 0x09DF
+     0x0961 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0976
+     0x0969 [0x9D] IF (0x3740) ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[3] // extra=0x8024
+     0x0973 [0x01] GOTO 0x09DF
+     0x0976 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x098B
+     0x097E [0x9D] IF (0x3760) ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[3] // extra=0x8024
+     0x0988 [0x01] GOTO 0x09DF
+     0x098B [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x09A0
+     0x0993 [0x9D] IF (0x3780) ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[3] // extra=0x8027
+     0x099D [0x01] GOTO 0x09DF
+     0x09A0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x09B5
+     0x09A8 [0x9D] IF (0x37B0) ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[3] // extra=0x8024
+     0x09B2 [0x01] GOTO 0x09DF
+     0x09B5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x09CA
+     0x09BD [0x9D] IF (0x37D0) ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[3] // extra=0x8024
+     0x09C7 [0x01] GOTO 0x09DF
+     0x09CA [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x09DF
+     0x09D2 [0x9D] IF (0x37F0) ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[3] // extra=0x8024
+     0x09DC [0x01] GOTO 0x09DF
+     0x09DF [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x09F7
+     0x09E7 [0x9D] Table[0x35F0] = ExtData[1]->WorkLocal[3] // p3=ExtData[1]->WorkLocal[2], p4=0x8051
+     0x09F1 [0x0B] ExtData[1]->WorkLocal[2]++
+     0x09F4 [0x01] GOTO 0x09FC
+     0x09F7 [0x03] ExtData[1]->WorkLocal[1] = 1*
+     0x09FC [0x01] GOTO 0x0944
+     0x09FF [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0A0F
+     0x0A07 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[15]
+     0x0A0C [0x01] GOTO 0x0A6F
+     0x0A0F [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0A1F
+     0x0A17 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[16]
+     0x0A1C [0x01] GOTO 0x0A6F
+     0x0A1F [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0A2F
+     0x0A27 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[17]
+     0x0A2C [0x01] GOTO 0x0A6F
+     0x0A2F [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0A3F
+     0x0A37 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[18]
+     0x0A3C [0x01] GOTO 0x0A6F
+     0x0A3F [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0A4F
+     0x0A47 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[19]
+     0x0A4C [0x01] GOTO 0x0A6F
+     0x0A4F [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0A5F
+     0x0A57 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[20]
+     0x0A5C [0x01] GOTO 0x0A6F
+     0x0A5F [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x0A6F
+     0x0A67 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[21]
+     0x0A6C [0x01] GOTO 0x0A6F
+     0x0A6F [0x10] ExtData[1]->WorkLocal[10] <<= 1*
+     0x0A74 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x0A7B [0x0F] ExtData[1]->WorkLocal[10] ^= 4294967295*
+     0x0A80 [0x1B] RETURN
+     0x0A81 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x0A84 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x0AB5
+     0x0A8C [0x24] CREATE_DIALOG(message_id=8612*, default_option=ExtData[1]->WorkLocal[24], option_flags=ExtData[1]->WorkLocal[10])
+    → "Pick your poison. [Nothing for now./3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3.]"
+     0x0A93 [0x25] WAIT_DIALOG_SELECT()
+     0x0A94 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AA5
+     0x0A9C [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x0A9F [0x0C] ExtData[1]->WorkLocal[4]--
+     0x0AA2 [0x01] GOTO 0x0AB2
+     0x0AA5 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
+     0x0AAA [0x03] ExtData[1]->WorkLocal[24] = ExtData[1]->WorkLocal[1]
+     0x0AAF [0x1A] CALL_SUBROUTINE(address=0x0AB6)
+     0x0AB2 [0x01] GOTO 0x0A84
+     0x0AB5 [0x1B] RETURN
+     0x0AB6 [0x08] ExtData[1]->WorkLocal[1] -= 1*
+     0x0ABB [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0AFE
+     0x0AC3 [0x9D] IF (0x3720) ExtData[1]->WorkLocal[1] = Work_Zone[1] // extra=0x8024
+     0x0ACD [0x10] Work_Zone[1] <<= 16*
+     0x0AD2 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=26*)
+     0x0ADB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0ADD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0ADF [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0AFB
+     0x0AE7 [0x03] Work_Zone[2] = 0*
+     0x0AEC [0x03] Work_Zone[3] = 0*
+     0x0AF1 [0x03] Work_Zone[4] = 0*
+     0x0AF6 [0x03] Work_Zone[5] = 99999*
+     0x0AFB [0x01] GOTO 0x0CA4
+     0x0AFE [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0B41
+     0x0B06 [0x9D] IF (0x3740) ExtData[1]->WorkLocal[1] = Work_Zone[1] // extra=0x8024
+     0x0B10 [0x10] Work_Zone[1] <<= 16*
+     0x0B15 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=26*)
+     0x0B1E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0B20 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0B22 [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0B3E
+     0x0B2A [0x03] Work_Zone[2] = 0*
+     0x0B2F [0x03] Work_Zone[3] = 0*
+     0x0B34 [0x03] Work_Zone[4] = 0*
+     0x0B39 [0x03] Work_Zone[5] = 99999*
+     0x0B3E [0x01] GOTO 0x0CA4
+     0x0B41 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0B84
+     0x0B49 [0x9D] IF (0x3760) ExtData[1]->WorkLocal[1] = Work_Zone[1] // extra=0x8024
+     0x0B53 [0x10] Work_Zone[1] <<= 16*
+     0x0B58 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=26*)
+     0x0B61 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0B63 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0B65 [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0B81
+     0x0B6D [0x03] Work_Zone[2] = 0*
+     0x0B72 [0x03] Work_Zone[3] = 0*
+     0x0B77 [0x03] Work_Zone[4] = 0*
+     0x0B7C [0x03] Work_Zone[5] = 99999*
+     0x0B81 [0x01] GOTO 0x0CA4
+     0x0B84 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0BC7
+     0x0B8C [0x9D] IF (0x3780) ExtData[1]->WorkLocal[1] = Work_Zone[1] // extra=0x8027
+     0x0B96 [0x10] Work_Zone[1] <<= 16*
+     0x0B9B [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=26*)
+     0x0BA4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0BA6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0BA8 [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0BC4
+     0x0BB0 [0x03] Work_Zone[2] = 0*
+     0x0BB5 [0x03] Work_Zone[3] = 0*
+     0x0BBA [0x03] Work_Zone[4] = 0*
+     0x0BBF [0x03] Work_Zone[5] = 99999*
+     0x0BC4 [0x01] GOTO 0x0CA4
+     0x0BC7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0C0A
+     0x0BCF [0x9D] IF (0x37B0) ExtData[1]->WorkLocal[1] = Work_Zone[1] // extra=0x8024
+     0x0BD9 [0x10] Work_Zone[1] <<= 16*
+     0x0BDE [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=26*)
+     0x0BE7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0BE9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0BEB [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0C07
+     0x0BF3 [0x03] Work_Zone[2] = 0*
+     0x0BF8 [0x03] Work_Zone[3] = 0*
+     0x0BFD [0x03] Work_Zone[4] = 0*
+     0x0C02 [0x03] Work_Zone[5] = 99999*
+     0x0C07 [0x01] GOTO 0x0CA4
+     0x0C0A [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0C4D
+     0x0C12 [0x9D] IF (0x37D0) ExtData[1]->WorkLocal[1] = Work_Zone[1] // extra=0x8024
+     0x0C1C [0x10] Work_Zone[1] <<= 16*
+     0x0C21 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=26*)
+     0x0C2A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0C2C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0C2E [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0C4A
+     0x0C36 [0x03] Work_Zone[2] = 0*
+     0x0C3B [0x03] Work_Zone[3] = 0*
+     0x0C40 [0x03] Work_Zone[4] = 0*
+     0x0C45 [0x03] Work_Zone[5] = 99999*
+     0x0C4A [0x01] GOTO 0x0CA4
+     0x0C4D [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x0C90
+     0x0C55 [0x9D] IF (0x37F0) ExtData[1]->WorkLocal[1] = Work_Zone[1] // extra=0x8024
+     0x0C5F [0x10] Work_Zone[1] <<= 16*
+     0x0C64 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=26*)
+     0x0C6D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0C6F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0C71 [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0C8D
+     0x0C79 [0x03] Work_Zone[2] = 0*
+     0x0C7E [0x03] Work_Zone[3] = 0*
+     0x0C83 [0x03] Work_Zone[4] = 0*
+     0x0C88 [0x03] Work_Zone[5] = 99999*
+     0x0C8D [0x01] GOTO 0x0CA4
+     0x0C90 [0x03] Work_Zone[2] = 0*
+     0x0C95 [0x03] Work_Zone[3] = 0*
+     0x0C9A [0x03] Work_Zone[4] = 0*
+     0x0C9F [0x03] Work_Zone[5] = 99999*
+     0x0CA4 [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x0DA5
+     0x0CAC [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
+     0x0CB1 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
+     0x0CB6 [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[2]
+     0x0CBB [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[3]
+     0x0CC0 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=ExtData[1]->WorkLocal[2])
+     0x0CC4 [0x48] [System] [8613*]:
+    → "You need $31 shining star[/s] for $3."
+     0x0CC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CC8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
+     0x0CCC [0x02] IF !(ExtData[1]->WorkLocal[22] == ExtData[1]->WorkLocal[2]) GOTO 0x0CE3
+     0x0CD4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
+     0x0CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8610*)
+    → "Today's happy cheer is $3!"
+     0x0CDC [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CDD [0x1A] CALL_SUBROUTINE(address=0x093E)
+     0x0CE0 [0x01] GOTO 0x0DA2
+     0x0CE3 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0CF4
+     0x0CEB [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[22]
+     0x0CF0 [0x48] [System] [8614*]:
+    → "The effects of $3 will be overwritten with those of $3."
+     0x0CF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CF4 [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[23]
+     0x0CF9 [0x24] CREATE_DIALOG(message_id=8615*, default_option=0*, option_flags=0*)
+    → "What will you do? ($! star[/s]) [Get cheering! ($31 star[/s] needed)/Nothing for now.]"
+     0x0D00 [0x25] WAIT_DIALOG_SELECT()
+     0x0D01 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D94
+     0x0D09 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x0D0A [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[0]
+     0x0D0F [0x07] Work_Zone[1] += 19*
+     0x0D14 [0x0C] Work_Zone[1]--
+     0x0D17 [0x10] Work_Zone[1] <<= 8*
+     0x0D1C [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[1])
+     0x0D25 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0D27 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0D29 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0D68
+     0x0D31 [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[4]
+     0x0D36 [0x03] ExtData[1]->WorkLocal[23] = Work_Zone[5]
+     0x0D3B [0x03] Work_Zone[2] = Work_Zone[3]
+     0x0D40 [0x03] Work_Zone[3] = Work_Zone[4]
+     0x0D45 [0x1D] PRINT_EVENT_MESSAGE(message_id=8616*)
+    → "Ooooooh, this be good! Chacharoon be happy tail!"
+     0x0D48 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D49 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=8*
+     0x0D55 [0x1D] PRINT_EVENT_MESSAGE(message_id=8617*)
+    → "Chaaaaaarm!!!"
+     0x0D58 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D59 [0x1C] WAIT(180* ticks)
+     0x0D5C [0x48] [System] [8618*]:
+    → "The $3 satisfies the monster and triggers $3!"
+     0x0D5F [0x1C] WAIT(60* ticks)
+     0x0D62 [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x0D65 [0x01] GOTO 0x0D8D
+     0x0D68 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0D73
+     0x0D70 [0x01] GOTO 0x0D8D
+     0x0D73 [0x02] IF !(Work_Zone[2] == 4294967294*) GOTO 0x0D82
+     0x0D7B [0x48] [System] [8619*]:
+    → "You do not have enough shining stars."
+     0x0D7E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D7F [0x01] GOTO 0x0D8D
+     0x0D82 [0x02] IF !(Work_Zone[2] == 4294967293*) GOTO 0x0D8D
+     0x0D8A [0x01] GOTO 0x0D8D
+     0x0D8D [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+     0x0D8E [0x0C] ExtData[1]->WorkLocal[4]--
+     0x0D91 [0x01] GOTO 0x0DA2
+     0x0D94 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0DA2
+     0x0D9C [0x1A] CALL_SUBROUTINE(address=0x093E)
+     0x0D9F [0x01] GOTO 0x0DA2
+     0x0DA2 [0x01] GOTO 0x0DA5
+     0x0DA5 [0x1B] RETURN
+     0x0DA6 [0x48] [System] [8683*]:
+    → "Take a gander at the primer on monster rearing penned by Chacharoon's superior."
+     0x0DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DAA [0x0B] ExtData[1]->WorkLocal[4]++
+     0x0DAD [0x02] IF !(ExtData[1]->WorkLocal[4] <= 1*) GOTO 0x0E6B
+     0x0DB5 [0x02] IF !(ExtData[1]->WorkLocal[14] < 3*) GOTO 0x0DC3
+     0x0DBD [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x0DC0 [0x01] GOTO 0x0DC8
+     0x0DC3 [0x03] ExtData[1]->WorkLocal[10] = 64*
+     0x0DC8 [0x24] CREATE_DIALOG(message_id=8684*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+    → "Select a topic. [None./A message to Chacharoon./First things first./Naming./Raising and rearing./Saying goodbye./A message from the boss.]"
+     0x0DCF [0x25] WAIT_DIALOG_SELECT()
+     0x0DD0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DDE
+     0x0DD8 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x0DDB [0x01] GOTO 0x0E68
+     0x0DDE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0DED
+     0x0DE6 [0x48] [System] [8685*]:
+    → "Dear Chacharoon, I may have taught you all the basics of caring for feral monsters, but you are still a child. I do not expect you to remember everything, so I have jotted down the things I deem most important."
+     0x0DE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DEA [0x01] GOTO 0x0E68
+     0x0DED [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0E00
+     0x0DF5 [0x48] [System] [8686*]:
+    → "Please do not take this the wrong way, but I do not yet think you are capable of raising multiple beasts at the same time. One should be plenty for now."
+     0x0DF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DF9 [0x48] [System] [8687*]:
+    → "If you decide to take care of another creature, you will have to part ways with the one for which you are currently caring."
+     0x0DFC [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DFD [0x01] GOTO 0x0E68
+     0x0E00 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0E0F
+     0x0E08 [0x48] [System] [8688*]:
+    → "If you are to develop a bond with your animal, then it is best that you give it a name. Do not worry about thinking of the perfect name, because you can always change it later."
+     0x0E0B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E0C [0x01] GOTO 0x0E68
+     0x0E0F [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0E2E
+     0x0E17 [0x48] [System] [8689*]:
+    → "Rearing beasts with an emphasis on "personal growth" will cause them to grow up little by little. When they finally do get big, they might just reward you with something for your efforts."
+     0x0E1A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E1B [0x48] [System] [8690*]:
+    → "Emphasizing "enjoying the moment" lets your creature live at its own pace and does wonders for its spirit. However, it will not get any bigger than it already is."
+     0x0E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E1F [0x48] [System] [8691*]:
+    → "Do not forget to bond physically with your creature. Each species has its own likes and dislikes, though, so try interacting with them in many different ways."
+     0x0E22 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E23 [0x48] [System] [8692*]:
+    → "I warn you against being too strict with them, however. If you do too many terrible things to them, they will succumb to darkness and turn on you."
+     0x0E26 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E27 [0x48] [System] [8693*]:
+    → "Moogle magic often works to calm them down, but on the off chance it doesn't, you will have to put them down with your own hand. See that it does not come to that."
+     0x0E2A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E2B [0x01] GOTO 0x0E68
+     0x0E2E [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0E45
+     0x0E36 [0x48] [System] [8694*]:
+    → "Ideally, you would continue rearing your beasts until they become adults, but this isn't an ideal world."
+     0x0E39 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E3A [0x48] [System] [8695*]:
+    → "If you ever have to part ways with one, please send it to me. I shall look after it to the best of my abilities."
+     0x0E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E3E [0x48] [System] [8696*]:
+    → "However, I will also leave you the option to put it down. Maybe putting you in that position will teach you the true value of life."
+     0x0E41 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E42 [0x01] GOTO 0x0E68
+     0x0E45 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0E68
+     0x0E4D [0x48] [System] [8697*]:
+    → "You pore over at a congratulatory letter written in large, blocky letters. The message details further information about the recent expansion to your Mog Garden."
+     0x0E50 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E51 [0x48] [System] [8698*]:
+    → "Chacharoon, you've come quite a long way in just a short time. The seeds you've sown in your companion's Mog Garden are beginning to bear fruit. Well done!"
+     0x0E54 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E55 [0x48] [System] [8699*]:
+    → "With the extra space you've pioneered, there is now room not just for one creature to raise, but a second as well. Work even harder, and the sky's the limit!"
+     0x0E58 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E59 [0x48] [System] [8700*]:
+    → "No matter how many you see fit to take care of, however, I strongly recommend that you always keep a closer eye on one in particular, if for no other reason than to prevent your herd from stampeding or otherwise running amok."
+     0x0E5C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E5D [0x48] [System] [8701*]:
+    → "If you wish to bring your charges to the Mog Garden proper, then I must insist that you only let one accompany you while the remainder stays behind in the rearing grounds."
+     0x0E60 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E61 [0x48] [System] [8702*]:
+    → "You've got it in you to become a positively fabulous caretaker, Chacharoon. Heed my advice and you're sure to go far."
+     0x0E64 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E65 [0x01] GOTO 0x0E68
+     0x0E68 [0x01] GOTO 0x0DAD
+     0x0E6B [0x1B] RETURN
+     0x0E6C [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=Work_Zone[32], work_offset2=0*)
+     0x0E72 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=Work_Zone[36], work_offset2=1*)
+     0x0E78 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=Work_Zone[40], work_offset2=2*)
+     0x0E7E [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=Work_Zone[44], work_offset2=3*)
+     0x0E84 [0x06] ExtData[1]->WorkLocal[3] = 0
+     0x0E87 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 1*) GOTO 0x0E91
+     0x0E8E [0x0B] ExtData[1]->WorkLocal[3]++
+     0x0E91 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 2*) GOTO 0x0E9B
+     0x0E98 [0x0B] ExtData[1]->WorkLocal[3]++
+     0x0E9B [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 3*) GOTO 0x0EA5
+     0x0EA2 [0x0B] ExtData[1]->WorkLocal[3]++
+     0x0EA5 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 4*) GOTO 0x0EAF
+     0x0EAC [0x0B] ExtData[1]->WorkLocal[3]++
+     0x0EAF [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x0F87
+     0x0EB7 [0x02] IF !(ExtData[1]->WorkLocal[3] <= 1*) GOTO 0x0F10
+     0x0EBF [0x41] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[11] (bits 1*-4*)
+     0x0EC8 [0x0F] ExtData[1]->WorkLocal[10] ^= 4294967295*
+     0x0ECD [0x10] ExtData[1]->WorkLocal[10] <<= 1*
+     0x0ED2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x0ED9 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0EE8
+     0x0EE1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x0EE8 [0x24] CREATE_DIALOG(message_id=8602*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+    → "Who do you choose? [None./%0./%1./%2./%3.]"
+     0x0EEF [0x25] WAIT_DIALOG_SELECT()
+     0x0EF0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F00
+     0x0EF8 [0x03] ExtData[1]->WorkLocal[3] = 4294967295*
+     0x0EFD [0x01] GOTO 0x0F08
+     0x0F00 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[0]
+     0x0F05 [0x0C] ExtData[1]->WorkLocal[3]--
+     0x0F08 [0x03] Work_Zone[2] = 1*
+     0x0F0D [0x01] GOTO 0x0F51
+     0x0F10 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 1*) GOTO 0x0F1F
+     0x0F17 [0x03] ExtData[1]->WorkLocal[3] = 0*
+     0x0F1C [0x01] GOTO 0x0F4C
+     0x0F1F [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 2*) GOTO 0x0F2E
+     0x0F26 [0x03] ExtData[1]->WorkLocal[3] = 1*
+     0x0F2B [0x01] GOTO 0x0F4C
+     0x0F2E [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 3*) GOTO 0x0F3D
+     0x0F35 [0x03] ExtData[1]->WorkLocal[3] = 2*
+     0x0F3A [0x01] GOTO 0x0F4C
+     0x0F3D [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 4*) GOTO 0x0F4C
+     0x0F44 [0x03] ExtData[1]->WorkLocal[3] = 3*
+     0x0F49 [0x01] GOTO 0x0F4C
+     0x0F4C [0x03] Work_Zone[2] = 0*
+     0x0F51 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0F62
+     0x0F59 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=Work_Zone[36], work_offset2=0*)
+     0x0F5F [0x01] GOTO 0x0F84
+     0x0F62 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0F73
+     0x0F6A [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=Work_Zone[40], work_offset2=0*)
+     0x0F70 [0x01] GOTO 0x0F84
+     0x0F73 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0F84
+     0x0F7B [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=Work_Zone[44], work_offset2=0*)
+     0x0F81 [0x01] GOTO 0x0F84
+     0x0F84 [0x01] GOTO 0x0F8C
+     0x0F87 [0x03] ExtData[1]->WorkLocal[3] = 4294967295*
+     0x0F8C [0x1B] RETURN
+     0x0F8D [0x48] [System] [8673*]:
+    → "By doing this, you and your creature will go separate ways in life, never to see each other again."
+     0x0F90 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0F91 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x0F94 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 1*) GOTO 0x1771
+     0x0F9C [0x06] Work_Zone[2] = 0
+     0x0F9F [0x1A] CALL_SUBROUTINE(address=0x0E6C)
+     0x0FA2 [0x02] IF !(ExtData[1]->WorkLocal[3] >= 0*) GOTO 0x0FB1
+     0x0FAA [0x0C] ExtData[1]->WorkLocal[4]--
+     0x0FAD [0x1B] RETURN
+     0x0FAE [0x01] GOTO 0x0FBB
+     0x0FB1 [0x03] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3]
+     0x0FB6 [0x03] Work_Zone_1700[31] = Work_Zone[2]
+     0x0FBB [0x0B] ExtData[1]->WorkLocal[4]++
+     0x0FBE [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x176E
+     0x0FC6 [0x24] CREATE_DIALOG(message_id=8674*, default_option=0*, option_flags=0*)
+    → "How will you part ways? [We won't!/Send it back home./Put it down.]"
+     0x0FCD [0x25] WAIT_DIALOG_SELECT()
+     0x0FCE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FE7
+     0x0FD6 [0x02] IF !(Work_Zone_1700[31] == 0*) GOTO 0x0FE1
+     0x0FDE [0x0C] ExtData[1]->WorkLocal[4]--
+     0x0FE1 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x0FE4 [0x01] GOTO 0x176B
+     0x0FE7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1273
+     0x0FEF [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[9]) GOTO 0x0FFD
+     0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8742*)
+    → "Beastie has the darkies, so no want chancing it cause daaanger to other people. We dealing with it here!"
+     0x0FF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0FFA [0x01] GOTO 0x1270
+     0x0FFD [0x48] [System] [8675*]:
+    → "By returning %0 to its place of birth, you will be unable to care for it anymore, but will also be compensated for your troubles."
+     0x1000 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1001 [0x24] CREATE_DIALOG(message_id=8676*, default_option=1*, option_flags=0*)
+    → "Truly send it back? [Yes, I have no reservations./No, not yet!]"
+     0x1008 [0x25] WAIT_DIALOG_SELECT()
+     0x1009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1265
+     0x1011 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1012 [0x46] CAMERA_CONTROL: Disable user control
+     0x1014 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x1025 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x1034 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+     0x1037 [0x2F] Chacharoon (ID: 17924187/0x0111805B)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x103D [0x4E] SET_ENTITY_HIDE_FLAG: Show Chacharoon (ID: 17924187/0x0111805B)
+     0x1043 [0x02] IF !(0* == 0*) GOTO 0x1065
+     0x104B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x23)
+     0x1052 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-12.623*, z=12.170*, y=0.156*, direction=76.7°*
+     0x105B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chacharoon (ID: 17924187/0x0111805B), tag_num=0x21)
+     0x1062 [0x01] GOTO 0x107C
+     0x1065 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x24)
+     0x106C [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=352.904*, z=-552.515*, y=-3.247*, direction=347.6°*
+     0x1075 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chacharoon (ID: 17924187/0x0111805B), tag_num=0x23)
+     0x107C [0x80] LOAD_WAIT(entity=Chacharoon (ID: 17924187/0x0111805B))
+     0x1081 [0x02] IF !(0* == 0*) GOTO 0x1092
+     0x1089 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924231/0x01118087)
+     0x108F [0x01] GOTO 0x1098
+     0x1092 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924232/0x01118088)
+     0x1098 [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at EventEntity
+     0x10A1 [0x4A] EventEntity looks at LocalPlayer
+     0x10AA [0x4A] Green Thumb Moogle (ID: 17924125/0x0111801D) looks at EventEntity
+     0x10B3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x10B4 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
+     0x10B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x10BA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Green Thumb Moogle (ID: 17924125/0x0111801D) Render.Flags0 and Render.Flags3 conditions are met
+     0x10BF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x10C0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Chacharoon (ID: 17924187/0x0111805B) Render.Flags0 and Render.Flags3 conditions are met
+     0x10C5 [0x92] Chacharoon (ID: 17924187/0x0111805B)->Render.Flags3 ^= 0x01
+     0x10CB [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 ^= 0x01
+     0x10D1 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x10E8
+     0x10D9 [0x92] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags3 ^= 0x01
+     0x10DF [0x92] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags3 ^= 0x01
+     0x10E5 [0x01] GOTO 0x111B
+     0x10E8 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x10F9
+     0x10F0 [0x92] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags3 ^= 0x01
+     0x10F6 [0x01] GOTO 0x111B
+     0x10F9 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x110A
+     0x1101 [0x92] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags3 ^= 0x01
+     0x1107 [0x01] GOTO 0x111B
+     0x110A [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x111B
+     0x1112 [0x92] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags3 ^= 0x01
+     0x1118 [0x01] GOTO 0x111B
+     0x111B [0x02] IF !(0* == 0*) GOTO 0x1137
+     0x1123 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+     0x1134 [0x01] GOTO 0x1148
+     0x1137 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+     0x1148 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x1159 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x1168 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chacharoon (ID: 17924187/0x0111805B), tag_num=0x01)
+     0x116F [0x06] Work_Zone[1] = 0
+     0x1172 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=3*)
+     0x117B [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+     0x1184 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1186 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1188 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x1197
+     0x1190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8677*)
+    → "%0 embiiiggened Chacharoon and <Player>'s hearts. Wh-when think must say bye-bye...Ch-Chacharoon...get the snurks..."
+     0x1193 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1194 [0x01] GOTO 0x11B5
+     0x1197 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x11A6
+     0x119F [0x1D] PRINT_EVENT_MESSAGE(message_id=8747*)
+    → "%0 be around only smaaall time, but give us dinghies of pleasure. Thanks of many."
+     0x11A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x11A3 [0x01] GOTO 0x11B5
+     0x11A6 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x11B5
+     0x11AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8746*)
+    → "Whoops of daisies, Chacharoon upslipped. Be returning monster soooooonish."
+     0x11B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x11B2 [0x01] GOTO 0x11B5
+     0x11B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x11C6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x11D5 [0x02] IF !(0* == 0*) GOTO 0x11EF
+     0x11DD [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=690*
+     0x11EC [0x01] GOTO 0x11FE
+     0x11EF [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=690*
+     0x11FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chacharoon (ID: 17924187/0x0111805B), tag_num=0x03)
+     0x1205 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924187/0x0111805B)
+     0x120B [0x2F] Chacharoon (ID: 17924187/0x0111805B)->Render.Flags0 |= 0x80000 // Bit 19
+     0x1211 [0x46] CAMERA_CONTROL: Restore default settings
+     0x1213 [0x06] Work_Zone[1] = 0
+     0x1216 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
+     0x121F [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+     0x1228 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x122A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x122C [0x1A] CALL_SUBROUTINE(address=0x2680)
+     0x122F [0x02] IF !(0* == 0*) GOTO 0x123D
+     0x1237 [0x1A] CALL_SUBROUTINE(address=0x261B)
+     0x123A [0x01] GOTO 0x1249
+     0x123D [0x1A] CALL_SUBROUTINE(address=0x2629)
+     0x1240 [0x1A] CALL_SUBROUTINE(address=0x2637)
+     0x1243 [0x1A] CALL_SUBROUTINE(address=0x2645)
+     0x1246 [0x1A] CALL_SUBROUTINE(address=0x2653)
+     0x1249 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x125A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+     0x125C [0x21] END_EVENT
+     0x125D [0x03] ExtData[1]->WorkLocal[4] = 0*
+     0x1262 [0x01] GOTO 0x1270
+     0x1265 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1270
+     0x126D [0x01] GOTO 0x1270
+     0x1270 [0x01] GOTO 0x176B
+     0x1273 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x176B
+     0x127B [0x48] [System] [8678*]:
+    → "By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?"
+     0x127E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x127F [0x24] CREATE_DIALOG(message_id=8679*, default_option=1*, option_flags=0*)
+    → "Put the creature down? [Yes, I have no reservations./No, not yet!]"
+     0x1286 [0x25] WAIT_DIALOG_SELECT()
+     0x1287 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1752
+     0x128F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1290 [0x46] CAMERA_CONTROL: Disable user control
+     0x1292 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x12A3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x12B2 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+     0x12B5 [0x2F] Chacharoon (ID: 17924187/0x0111805B)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x12BB [0x4E] SET_ENTITY_HIDE_FLAG: Show Chacharoon (ID: 17924187/0x0111805B)
+     0x12C1 [0x02] IF !(0* == 0*) GOTO 0x1379
+     0x12C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x23)
+     0x12D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chacharoon (ID: 17924187/0x0111805B), tag_num=0x21)
+     0x12D7 [0x1A] CALL_SUBROUTINE(address=0x2629)
+     0x12DA [0x1A] CALL_SUBROUTINE(address=0x2637)
+     0x12DD [0x1A] CALL_SUBROUTINE(address=0x2645)
+     0x12E0 [0x1A] CALL_SUBROUTINE(address=0x2653)
+     0x12E3 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x1304
+     0x12EB [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster (ID: 17924233/0x01118089), pos_x=-12.623*, pos_z=12.170*, pos_y=0.156*, direction=76.7°*)
+     0x12F8 [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster (ID: 17924233/0x01118089)
+     0x1301 [0x01] GOTO 0x1376
+     0x1304 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x132B
+     0x130C [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster01 (ID: 17924234/0x0111808A), pos_x=-12.623*, pos_z=12.170*, pos_y=0.156*, direction=76.7°*)
+     0x1319 [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster01 (ID: 17924234/0x0111808A)
+     0x1322 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+     0x1328 [0x01] GOTO 0x1376
+     0x132B [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x1352
+     0x1333 [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster02 (ID: 17924235/0x0111808B), pos_x=-12.623*, pos_z=12.170*, pos_y=0.156*, direction=76.7°*)
+     0x1340 [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster02 (ID: 17924235/0x0111808B)
+     0x1349 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+     0x134F [0x01] GOTO 0x1376
+     0x1352 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x1376
+     0x135A [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster03 (ID: 17924236/0x0111808C), pos_x=-12.623*, pos_z=12.170*, pos_y=0.156*, direction=76.7°*)
+     0x1367 [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster03 (ID: 17924236/0x0111808C)
+     0x1370 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+     0x1376 [0x01] GOTO 0x1468
+     0x1379 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x24)
+     0x1380 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chacharoon (ID: 17924187/0x0111805B), tag_num=0x23)
+     0x1387 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x13C0
+     0x138F [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster00 (ID: 17924237/0x0111808D), pos_x=352.904*, pos_z=-552.515*, pos_y=-3.247*, direction=347.6°*)
+     0x139C [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster00 (ID: 17924237/0x0111808D)
+     0x13A5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster01 (ID: 17924234/0x0111808A)
+     0x13AB [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster02 (ID: 17924235/0x0111808B)
+     0x13B1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster03 (ID: 17924236/0x0111808C)
+     0x13B7 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+     0x13BD [0x01] GOTO 0x1468
+     0x13C0 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x13F9
+     0x13C8 [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster01 (ID: 17924234/0x0111808A), pos_x=352.904*, pos_z=-552.515*, pos_y=-3.247*, direction=347.6°*)
+     0x13D5 [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster01 (ID: 17924234/0x0111808A)
+     0x13DE [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+     0x13E4 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster02 (ID: 17924235/0x0111808B)
+     0x13EA [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster03 (ID: 17924236/0x0111808C)
+     0x13F0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster00 (ID: 17924237/0x0111808D)
+     0x13F6 [0x01] GOTO 0x1468
+     0x13F9 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x1432
+     0x1401 [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster02 (ID: 17924235/0x0111808B), pos_x=352.904*, pos_z=-552.515*, pos_y=-3.247*, direction=347.6°*)
+     0x140E [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster02 (ID: 17924235/0x0111808B)
+     0x1417 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster01 (ID: 17924234/0x0111808A)
+     0x141D [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster03 (ID: 17924236/0x0111808C)
+     0x1423 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster00 (ID: 17924237/0x0111808D)
+     0x1429 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+     0x142F [0x01] GOTO 0x1468
+     0x1432 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x1468
+     0x143A [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster03 (ID: 17924236/0x0111808C), pos_x=352.904*, pos_z=-552.515*, pos_y=-3.247*, direction=347.6°*)
+     0x1447 [0x4A] Chacharoon (ID: 17924187/0x0111805B) looks at Breeding Monster03 (ID: 17924236/0x0111808C)
+     0x1450 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster (ID: 17924233/0x01118089)
+     0x1456 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster01 (ID: 17924234/0x0111808A)
+     0x145C [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster02 (ID: 17924235/0x0111808B)
+     0x1462 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Breeding Monster00 (ID: 17924237/0x0111808D)
+     0x1468 [0x80] LOAD_WAIT(entity=Chacharoon (ID: 17924187/0x0111805B))
+     0x146D [0x02] IF !(0* == 0*) GOTO 0x147E
+     0x1475 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924231/0x01118087)
+     0x147B [0x01] GOTO 0x1484
+     0x147E [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924232/0x01118088)
+     0x1484 [0x02] IF !(0* == 0*) GOTO 0x149E
+     0x148C [0x4A] Green Thumb Moogle (ID: 17924125/0x0111801D) looks at EventEntity
+     0x1495 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x1496 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Green Thumb Moogle (ID: 17924125/0x0111801D) Render.Flags0 and Render.Flags3 conditions are met
+     0x149B [0x01] GOTO 0x149E
+     0x149E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x149F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Chacharoon (ID: 17924187/0x0111805B) Render.Flags0 and Render.Flags3 conditions are met
+     0x14A4 [0x92] Chacharoon (ID: 17924187/0x0111805B)->Render.Flags3 ^= 0x01
+     0x14AA [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 ^= 0x01
+     0x14B0 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x14D9
+     0x14B8 [0x92] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags3 ^= 0x01
+     0x14BE [0x92] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags3 ^= 0x01
+     0x14C4 [0x92] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags3 ^= 0x01
+     0x14CA [0x92] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags3 ^= 0x01
+     0x14D0 [0x92] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags3 ^= 0x01
+     0x14D6 [0x01] GOTO 0x1554
+     0x14D9 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x1502
+     0x14E1 [0x92] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags3 ^= 0x01
+     0x14E7 [0x92] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags3 ^= 0x01
+     0x14ED [0x92] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags3 ^= 0x01
+     0x14F3 [0x92] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags3 ^= 0x01
+     0x14F9 [0x92] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags3 ^= 0x01
+     0x14FF [0x01] GOTO 0x1554
+     0x1502 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x152B
+     0x150A [0x92] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags3 ^= 0x01
+     0x1510 [0x92] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags3 ^= 0x01
+     0x1516 [0x92] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags3 ^= 0x01
+     0x151C [0x92] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags3 ^= 0x01
+     0x1522 [0x92] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags3 ^= 0x01
+     0x1528 [0x01] GOTO 0x1554
+     0x152B [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x1554
+     0x1533 [0x92] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags3 ^= 0x01
+     0x1539 [0x92] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags3 ^= 0x01
+     0x153F [0x92] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags3 ^= 0x01
+     0x1545 [0x92] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags3 ^= 0x01
+     0x154B [0x92] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags3 ^= 0x01
+     0x1551 [0x01] GOTO 0x1554
+     0x1554 [0x7B] Chacharoon (ID: 17924187/0x0111805B) stops talking
+     0x1559 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hed0" with entities [Chacharoon (ID: 17924187/0x0111805B), Chacharoon (ID: 17924187/0x0111805B)], work=3566*
+     0x1568 [0x02] IF !(0* == 0*) GOTO 0x159F
+     0x1570 [0x3E] IF !(Work_Zone_Memorize[1] bit 13*) GOTO 0x158B
+     0x1577 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s104" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+     0x1588 [0x01] GOTO 0x159C
+     0x158B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+     0x159C [0x01] GOTO 0x15CB
+     0x159F [0x3E] IF !(Work_Zone_Memorize[1] bit 13*) GOTO 0x15BA
+     0x15A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+     0x15B7 [0x01] GOTO 0x15CB
+     0x15BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+     0x15CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x15DC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x15EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8680*)
+    → "<Snurk> Chacharoon...will not be forgetting %0...<snurk> ever. Waaaaaah!"
+     0x15EE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x15EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x1600 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x160F [0x02] IF !(0* == 0*) GOTO 0x1642
+     0x1617 [0x3E] IF !(Work_Zone_Memorize[1] bit 13*) GOTO 0x1630
+     0x161E [0x52] END_LOAD_SCHEDULER: End scheduler "s104" with entities [LocalPlayer, LocalPlayer], work=690*
+     0x162D [0x01] GOTO 0x163F
+     0x1630 [0x52] END_LOAD_SCHEDULER: End scheduler "s105" with entities [LocalPlayer, LocalPlayer], work=690*
+     0x163F [0x01] GOTO 0x166A
+     0x1642 [0x3E] IF !(Work_Zone_Memorize[1] bit 13*) GOTO 0x165B
+     0x1649 [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=690*
+     0x1658 [0x01] GOTO 0x166A
+     0x165B [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=690*
+     0x166A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hed0" with entities [Chacharoon (ID: 17924187/0x0111805B), Chacharoon (ID: 17924187/0x0111805B)]
+     0x1677 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hed1" with entities [Chacharoon (ID: 17924187/0x0111805B), Chacharoon (ID: 17924187/0x0111805B)], work=3566*
+     0x1686 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924187/0x0111805B)
+     0x168C [0x2F] Chacharoon (ID: 17924187/0x0111805B)->Render.Flags0 |= 0x80000 // Bit 19
+     0x1692 [0x06] Work_Zone[1] = 0
+     0x1695 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
+     0x169E [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+     0x16A7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x16A9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x16AB [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x16C3
+     0x16B3 [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster01 (ID: 17924234/0x0111808A), pos_x=361.620*, pos_z=-568.680*, pos_y=-1.330*, direction=280.5°*)
+     0x16C0 [0x01] GOTO 0x170B
+     0x16C3 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x16DB
+     0x16CB [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster02 (ID: 17924235/0x0111808B), pos_x=361.620*, pos_z=-568.680*, pos_y=-1.330*, direction=280.5°*)
+     0x16D8 [0x01] GOTO 0x170B
+     0x16DB [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x16F3
+     0x16E3 [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster03 (ID: 17924236/0x0111808C), pos_x=361.620*, pos_z=-568.680*, pos_y=-1.330*, direction=280.5°*)
+     0x16F0 [0x01] GOTO 0x170B
+     0x16F3 [0x02] IF !(ExtData[1]->WorkLocal[9] == 4*) GOTO 0x170B
+     0x16FB [0xBA] SET_ENTITY_POSITION(entity_id=Breeding Monster00 (ID: 17924237/0x0111808D), pos_x=361.620*, pos_z=-568.680*, pos_y=-1.330*, direction=280.5°*)
+     0x1708 [0x01] GOTO 0x170B
+     0x170B [0x1A] CALL_SUBROUTINE(address=0x2680)
+     0x170E [0x02] IF !(0* == 0*) GOTO 0x1728
+     0x1716 [0x1A] CALL_SUBROUTINE(address=0x261B)
+     0x1719 [0x1A] CALL_SUBROUTINE(address=0x2629)
+     0x171C [0x1A] CALL_SUBROUTINE(address=0x2637)
+     0x171F [0x1A] CALL_SUBROUTINE(address=0x2645)
+     0x1722 [0x1A] CALL_SUBROUTINE(address=0x2653)
+     0x1725 [0x01] GOTO 0x1734
+     0x1728 [0x1A] CALL_SUBROUTINE(address=0x2629)
+     0x172B [0x1A] CALL_SUBROUTINE(address=0x2637)
+     0x172E [0x1A] CALL_SUBROUTINE(address=0x2645)
+     0x1731 [0x1A] CALL_SUBROUTINE(address=0x2653)
+     0x1734 [0x46] CAMERA_CONTROL: Restore default settings
+     0x1736 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x1747 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+     0x1749 [0x21] END_EVENT
+     0x174A [0x03] ExtData[1]->WorkLocal[4] = 0*
+     0x174F [0x01] GOTO 0x1768
+     0x1752 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1768
+     0x175A [0x02] IF !(Work_Zone_1700[31] == 0*) GOTO 0x1765
+     0x1762 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1765 [0x01] GOTO 0x1768
+     0x1768 [0x01] GOTO 0x176B
+     0x176B [0x01] GOTO 0x0FBE
+     0x176E [0x01] GOTO 0x0F94
+     0x1771 [0x1B] RETURN
+     0x1772 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1775 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x1785
+     0x177D [0x03] Work_Zone[2] = 0*
+     0x1782 [0x01] GOTO 0x17F5
+     0x1785 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x1795
+     0x178D [0x03] Work_Zone[2] = 1*
+     0x1792 [0x01] GOTO 0x17F5
+     0x1795 [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x17A5
+     0x179D [0x03] Work_Zone[2] = 1*
+     0x17A2 [0x01] GOTO 0x17F5
+     0x17A5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x17B5
+     0x17AD [0x03] Work_Zone[2] = 2*
+     0x17B2 [0x01] GOTO 0x17F5
+     0x17B5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x17C5
+     0x17BD [0x03] Work_Zone[2] = 2*
+     0x17C2 [0x01] GOTO 0x17F5
+     0x17C5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 5*) GOTO 0x17D5
+     0x17CD [0x03] Work_Zone[2] = 3*
+     0x17D2 [0x01] GOTO 0x17F5
+     0x17D5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 6*) GOTO 0x17E5
+     0x17DD [0x03] Work_Zone[2] = 3*
+     0x17E2 [0x01] GOTO 0x17F5
+     0x17E5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 7*) GOTO 0x17F5
+     0x17ED [0x03] Work_Zone[2] = 4*
+     0x17F2 [0x01] GOTO 0x17F5
+     0x17F5 [0x48] [System] [8632*]:
+    → "Thanks to Chacharoon's shrewd bargaining, you are now able to rear new creatures, up to a maximum of $0 at once."
+     0x17F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x17F9 [0x03] Work_Zone[1] = 70*
+     0x17FE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1800 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1802 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x1815
+     0x180A [0x1D] PRINT_EVENT_MESSAGE(message_id=8741*)
+    → "No neeew beasties be waiting around for <Player> now. Come back and have pick of litter later."
+     0x180D [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x180E [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1811 [0x1B] RETURN
+     0x1812 [0x01] GOTO 0x181A
+     0x1815 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
+     0x181A [0x02] IF !(ExtData[1]->WorkLocal[4] <= 1*) GOTO 0x1C98
+     0x1822 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x1837
+     0x182A [0x03] ExtData[1]->WorkLocal[10] = 4294967295*
+     0x182F [0x0F] ExtData[1]->WorkLocal[10] ^= 3*
+     0x1834 [0x01] GOTO 0x183C
+     0x1837 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[2]
+     0x183C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[26]
+     0x1841 [0x24] CREATE_DIALOG(message_id=8634*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+    → "$0 more creature[/s] available today. [Nothing for now./Rank 1 monsters./Rank 2 monsters./Rank 3 monsters./Rank 4 monsters./Rank 5 monsters./Rank 6 monsters./Rank 7 monsters.]"
+     0x1848 [0x25] WAIT_DIALOG_SELECT()
+     0x1849 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1858
+     0x1851 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1854 [0x1B] RETURN
+     0x1855 [0x01] GOTO 0x1C95
+     0x1858 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1926
+     0x1860 [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x1863 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1866 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1923
+     0x186E [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x1883
+     0x1876 [0x03] ExtData[1]->WorkLocal[10] = 4294967295*
+     0x187B [0x0F] ExtData[1]->WorkLocal[10] ^= 3*
+     0x1880 [0x01] GOTO 0x1886
+     0x1883 [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x1886 [0x24] CREATE_DIALOG(message_id=8635*, default_option=ExtData[1]->WorkLocal[24], option_flags=ExtData[1]->WorkLocal[10])
+    → "Select a creature to rear. [None of the below./Sheep./Rabbit./Treant./Lizard.]"
+     0x188D [0x25] WAIT_DIALOG_SELECT()
+     0x188E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x189C
+     0x1896 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1899 [0x01] GOTO 0x1920
+     0x189C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x18BD
+     0x18A4 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x18A9 [0x03] Work_Zone[2] = 832*
+     0x18AE [0x48] [System] [8642*]:
+    → "Sheep are peaceful and obedient animals, which explains why they are often recommended to fledgling ranchers. Others who have cared for them in the past note that it is possible to receive $0 from them."
+     0x18B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x18B2 [0x03] Work_Zone[2] = 1*
+     0x18B7 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x18BA [0x01] GOTO 0x1920
+     0x18BD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x18DE
+     0x18C5 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x18CA [0x03] Work_Zone[2] = 833*
+     0x18CF [0x48] [System] [8643*]:
+    → "Residents of Windurst and its surrounding areas have been known to keep rabbits, or "rarabs" in the local vernacular. These omnivorous animals supposedly relinquish $0 to their trainers on certain occasions, but such reports have yet to be verified."
+     0x18D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x18D3 [0x03] Work_Zone[2] = 2*
+     0x18D8 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x18DB [0x01] GOTO 0x1920
+     0x18DE [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x18FF
+     0x18E6 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x18EB [0x03] Work_Zone[2] = 572*
+     0x18F0 [0x48] [System] [8644*]:
+    → "Treants can thrive in many different climes, but no matter the location, occasionally impart $0 to those who look after them...if anything."
+     0x18F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x18F4 [0x03] Work_Zone[2] = 3*
+     0x18F9 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x18FC [0x01] GOTO 0x1920
+     0x18FF [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1920
+     0x1907 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x190C [0x03] Work_Zone[2] = 869*
+     0x1911 [0x48] [System] [8645*]:
+    → "Lizards are found through all climes and elevations in Vana'diel, from the harshest deserts to the snowiest peaks. Such resilient creatures are known to bequeath $0 to their caretakers."
+     0x1914 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1915 [0x03] Work_Zone[2] = 4*
+     0x191A [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x191D [0x01] GOTO 0x1920
+     0x1920 [0x01] GOTO 0x1866
+     0x1923 [0x01] GOTO 0x1C95
+     0x1926 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x19BB
+     0x192E [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x1931 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1934 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x19B8
+     0x193C [0x24] CREATE_DIALOG(message_id=8636*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+    → "Select a creature to rear. [None of the below./Cockatrice./Raptor./Eft.]"
+     0x1943 [0x25] WAIT_DIALOG_SELECT()
+     0x1944 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1952
+     0x194C [0x0C] ExtData[1]->WorkLocal[4]--
+     0x194F [0x01] GOTO 0x19B5
+     0x1952 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1973
+     0x195A [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x195F [0x03] Work_Zone[2] = 847*
+     0x1964 [0x48] [System] [8646*]:
+    → "Cockatrices are carnivorous birds found in some of Vana'diel's least hospitable locales, but recent domestication efforts have begun to bear fruit. Be wary to keep some gloves handy when handling the $0 they offer their owners."
+     0x1967 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1968 [0x03] Work_Zone[2] = 5*
+     0x196D [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1970 [0x01] GOTO 0x19B5
+     0x1973 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1994
+     0x197B [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1980 [0x03] Work_Zone[2] = 4358*
+     0x1985 [0x48] [System] [8647*]:
+    → "Raptors are quick-witted, vicious little buggers who can often be found feasting on flesh in mountainous areas and on the tops of precarious plateaus. As one would expect of such ravenous beasts, tamers can often procure $0 from them."
+     0x1988 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1989 [0x03] Work_Zone[2] = 6*
+     0x198E [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1991 [0x01] GOTO 0x19B5
+     0x1994 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x19B5
+     0x199C [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x19A1 [0x03] Work_Zone[2] = 943*
+     0x19A6 [0x48] [System] [8648*]:
+    → "Efts thrive in waterside locations, and are often spotted munching on prey in Bibiki Bay. Take caution not to get any $0 on your hands when you touch them!"
+     0x19A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19AA [0x03] Work_Zone[2] = 7*
+     0x19AF [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x19B2 [0x01] GOTO 0x19B5
+     0x19B5 [0x01] GOTO 0x1934
+     0x19B8 [0x01] GOTO 0x1C95
+     0x19BB [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1A92
+     0x19C3 [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x19C6 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x19C9 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1A8F
+     0x19D1 [0x24] CREATE_DIALOG(message_id=8637*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+    → "Select a creature to rear. [None of the below./Dhalmel./Sea Monk./Uragnite./Crab./Colibri.]"
+     0x19D8 [0x25] WAIT_DIALOG_SELECT()
+     0x19D9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19E7
+     0x19E1 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x19E4 [0x01] GOTO 0x1A8C
+     0x19E7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1A08
+     0x19EF [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x19F4 [0x03] Work_Zone[2] = 938*
+     0x19F9 [0x48] [System] [8649*]:
+    → "Dhalmels are docile, domesticated creatures that live in arid climes, grazing on the sparse vegetation that dots the landscape. A conscientious master may be able to procure $0 from them."
+     0x19FC [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19FD [0x03] Work_Zone[2] = 8*
+     0x1A02 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1A05 [0x01] GOTO 0x1A8C
+     0x1A08 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1A29
+     0x1A10 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1A15 [0x03] Work_Zone[2] = 5963*
+     0x1A1A [0x48] [System] [8650*]:
+    → "The salt water-dwelling sea monks prey on smaller species of fish and have been known to be highly territorial come spawning season. Those who treat them right have been known to receive $0 on occasion."
+     0x1A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1A1E [0x03] Work_Zone[2] = 9*
+     0x1A23 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1A26 [0x01] GOTO 0x1A8C
+     0x1A29 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1A4A
+     0x1A31 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1A36 [0x03] Work_Zone[2] = 624*
+     0x1A3B [0x48] [System] [8651*]:
+    → "Uragnites reside in Bibiki Bay and the Ulbukan coastline, and their diet of krill helps keep the ecosystem in check. Properly caring for one could yield a reasonable amount of $0."
+     0x1A3E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1A3F [0x03] Work_Zone[2] = 10*
+     0x1A44 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1A47 [0x01] GOTO 0x1A8C
+     0x1A4A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1A6B
+     0x1A52 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1A57 [0x03] Work_Zone[2] = 936*
+     0x1A5C [0x48] [System] [8652*]:
+    → "Nary a body of water, from the deepest oceans to the most humid marshlands, is without the presence of crabs in some shape or form. They tear their pray in half with pincers before feasting--a most gruesome scene in the best of times. The meek members of the species, however, may impart $0 upon their owners."
+     0x1A5F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1A60 [0x03] Work_Zone[2] = 11*
+     0x1A65 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1A68 [0x01] GOTO 0x1A8C
+     0x1A6B [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1A8C
+     0x1A73 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1A78 [0x03] Work_Zone[2] = 4370*
+     0x1A7D [0x48] [System] [8653*]:
+    → "Colibris are native to western Aht Urhgan, and are among the fiercest and most aggressive birds known to man. Should they be tamed, however, they may bestow $0 upon those who treated them well."
+     0x1A80 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1A81 [0x03] Work_Zone[2] = 12*
+     0x1A86 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1A89 [0x01] GOTO 0x1A8C
+     0x1A8C [0x01] GOTO 0x19C9
+     0x1A8F [0x01] GOTO 0x1C95
+     0x1A92 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1B48
+     0x1A9A [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x1A9D [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1AA0 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1B45
+     0x1AA8 [0x24] CREATE_DIALOG(message_id=8638*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+    → "Select a creature to rear. [None of the below./Coeurl./Buffalo./Slime./Mandragora.]"
+     0x1AAF [0x25] WAIT_DIALOG_SELECT()
+     0x1AB0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1ABE
+     0x1AB8 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1ABB [0x01] GOTO 0x1B42
+     0x1ABE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1ADF
+     0x1AC6 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1ACB [0x03] Work_Zone[2] = 4358*
+     0x1AD0 [0x48] [System] [8654*]:
+    → "Coeurls are ferocious carnivores often found prowling Mindartia and Elshimo. Taming them could yield a sizable quantity of $0."
+     0x1AD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1AD4 [0x03] Work_Zone[2] = 13*
+     0x1AD9 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1ADC [0x01] GOTO 0x1B42
+     0x1ADF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1B00
+     0x1AE7 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1AEC [0x03] Work_Zone[2] = 629*
+     0x1AF1 [0x48] [System] [8655*]:
+    → "The land of Aht Urhgan is home to buffalo, hulking herbivores that are easy to rear thanks to their docile nature. Those with particularly strong affinities for their masters are known to give them $0."
+     0x1AF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1AF5 [0x03] Work_Zone[2] = 14*
+     0x1AFA [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1AFD [0x01] GOTO 0x1B42
+     0x1B00 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1B21
+     0x1B08 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1B0D [0x03] Work_Zone[2] = 637*
+     0x1B12 [0x48] [System] [8656*]:
+    → "Slimes are amorphous monsters that tend to prefer the dank, dark atmosphere of caves. Go spelunking with them and hope they give you $0 in the process."
+     0x1B15 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1B16 [0x03] Work_Zone[2] = 15*
+     0x1B1B [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1B1E [0x01] GOTO 0x1B42
+     0x1B21 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1B42
+     0x1B29 [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1B2E [0x03] Work_Zone[2] = 4368*
+     0x1B33 [0x48] [System] [8751*]:
+    → "Mandragora are plantoids found living in fertile lands such as Elshimo and the continent of Mindartia. They are known to provide $0 when properly taken care of."
+     0x1B36 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1B37 [0x03] Work_Zone[2] = 16*
+     0x1B3C [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1B3F [0x01] GOTO 0x1B42
+     0x1B42 [0x01] GOTO 0x1AA0
+     0x1B45 [0x01] GOTO 0x1C95
+     0x1B48 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1BB7
+     0x1B50 [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x1B53 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1B56 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1BB4
+     0x1B5E [0x24] CREATE_DIALOG(message_id=8639*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+    → "Select a creature to rear. [None of the below./Bugard./Adamantoise.]"
+     0x1B65 [0x25] WAIT_DIALOG_SELECT()
+     0x1B66 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B74
+     0x1B6E [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1B71 [0x01] GOTO 0x1BB1
+     0x1B74 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1B95
+     0x1B7C [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1B81 [0x03] Work_Zone[2] = 856*
+     0x1B86 [0x48] [System] [8657*]:
+    → "Bugards, often found on the Tavnazian Archipelago, will chow down on anything they can get their hands on. Those rearing these creatures are advised to keep a close eye on their belongings when they try to procure items such as $0 from them."
+     0x1B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1B8A [0x03] Work_Zone[2] = 17*
+     0x1B8F [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1B92 [0x01] GOTO 0x1BB1
+     0x1B95 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1BB1
+     0x1B9D [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1BA2 [0x48] [System] [8658*]:
+    → "Adamantoises are concerned with nothing but ballooning up until they are the size of a mountain, and those rearing them should take care to keep their size to a minimum. None can say what types of items can be procured from them."
+     0x1BA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1BA6 [0x03] Work_Zone[2] = 18*
+     0x1BAB [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1BAE [0x01] GOTO 0x1BB1
+     0x1BB1 [0x01] GOTO 0x1B56
+     0x1BB4 [0x01] GOTO 0x1C95
+     0x1BB7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1C2B
+     0x1BBF [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x1BC2 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1BC5 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1C28
+     0x1BCD [0x24] CREATE_DIALOG(message_id=8640*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+    → "Select a creature to rear. [None of the below./Bomb./Behemoth.]"
+     0x1BD4 [0x25] WAIT_DIALOG_SELECT()
+     0x1BD5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BE3
+     0x1BDD [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1BE0 [0x01] GOTO 0x1C25
+     0x1BE3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1C04
+     0x1BEB [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1BF0 [0x03] Work_Zone[2] = 928*
+     0x1BF5 [0x48] [System] [8659*]:
+    → "Bombs are living magical entities who have been known to explode on more than one hapless adventurer. Treated well, they will hesitantly bequeath $0 to their masters."
+     0x1BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1BF9 [0x03] Work_Zone[2] = 19*
+     0x1BFE [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1C01 [0x01] GOTO 0x1C25
+     0x1C04 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1C25
+     0x1C0C [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1C11 [0x03] Work_Zone[2] = 883*
+     0x1C16 [0x48] [System] [8660*]:
+    → "Behemoths are known to prowl the innermost recesses of the Qufim region, and are perhaps the most ferocious representatives of the beast family. Those taking the proper precautions in caring for them may be able to receive $0."
+     0x1C19 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C1A [0x03] Work_Zone[2] = 20*
+     0x1C1F [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1C22 [0x01] GOTO 0x1C25
+     0x1C25 [0x01] GOTO 0x1BC5
+     0x1C28 [0x01] GOTO 0x1C95
+     0x1C2B [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1C95
+     0x1C33 [0x06] ExtData[1]->WorkLocal[24] = 0
+     0x1C36 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1C39 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 2*) GOTO 0x1C92
+     0x1C41 [0x24] CREATE_DIALOG(message_id=8641*, default_option=ExtData[1]->WorkLocal[24], option_flags=0*)
+    → "Select a creature to rear. [None of the below./Sabotender./Dragon.]"
+     0x1C48 [0x25] WAIT_DIALOG_SELECT()
+     0x1C49 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C57
+     0x1C51 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1C54 [0x01] GOTO 0x1C8F
+     0x1C57 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1C73
+     0x1C5F [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1C64 [0x48] [System] [8661*]:
+    → "These strange, ambulatory cacti are commonly found in the Altepa Desert of the Kuzotz Region. Sabotenders are relentlessly aggressive when provoked, perhaps explaining why so little regarding their way of life is known to science."
+     0x1C67 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C68 [0x03] Work_Zone[2] = 21*
+     0x1C6D [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1C70 [0x01] GOTO 0x1C8F
+     0x1C73 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1C8F
+     0x1C7B [0x03] ExtData[1]->WorkLocal[24] = Work_Zone[0]
+     0x1C80 [0x48] [System] [8662*]:
+    → "Exceptionally robust, long-lived, and wise, dragons have long cast their shadows over Vana'diel's history. Over the course of a few centuries, a dragon may grow into a great wyrm."
+     0x1C83 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C84 [0x03] Work_Zone[2] = 22*
+     0x1C89 [0x1A] CALL_SUBROUTINE(address=0x1C99)
+     0x1C8C [0x01] GOTO 0x1C8F
+     0x1C8F [0x01] GOTO 0x1C39
+     0x1C92 [0x01] GOTO 0x1C95
+     0x1C95 [0x01] GOTO 0x181A
+     0x1C98 [0x1B] RETURN
+     0x1C99 [0x24] CREATE_DIALOG(message_id=8663*, default_option=1*, option_flags=0*)
+    → "Rear [/a sheep/a rabbit/a treant/a lizard/a cockatrice/a raptor/an eft/a dhalmel/a sea monk/an uragnite/a crab/a colibri/a coeurl/a buffalo/a slime/a mandragora/a bugard/an adamantoise/a bomb/a behemoth/a sabotender/a dragon]? [Yes./No, not that.]"
+     0x1CA0 [0x25] WAIT_DIALOG_SELECT()
+     0x1CA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D6B
+     0x1CA9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1CAA [0x03] Work_Zone[1] = 69*
+     0x1CAF [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+     0x1CB8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1CBA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1CBC [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1D51
+     0x1CC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8665*)
+    → "<Player> be wanting care for [/sheep/rabbit/treant/lizard/cockatrice/raptor/eft/dhalmel/sea monk/uragnite/crab/colibri/coeurl/buffalo/slime/mandragora/bugard/adamantoise/bomb/behemoth/sabotender/dragon]? Wait two shaaakes of Qiqirn nose."
+     0x1CC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1CC8 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
+     0x1CCD [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
+     0x1CD2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x1CE3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x1CF2 [0x02] IF !(0* == 0*) GOTO 0x1D00
+     0x1CFA [0x1A] CALL_SUBROUTINE(address=0x1E46)
+     0x1CFD [0x01] GOTO 0x1D0F
+     0x1D00 [0x1A] CALL_SUBROUTINE(address=0x2680)
+     0x1D03 [0x1A] CALL_SUBROUTINE(address=0x2629)
+     0x1D06 [0x1A] CALL_SUBROUTINE(address=0x2637)
+     0x1D09 [0x1A] CALL_SUBROUTINE(address=0x2645)
+     0x1D0C [0x1A] CALL_SUBROUTINE(address=0x2653)
+     0x1D0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x1D20 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x1D2F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
+     0x1D34 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x1D44
+     0x1D3C [0x03] Work_Zone[3] = 1*
+     0x1D41 [0x01] GOTO 0x1D47
+     0x1D44 [0x06] Work_Zone[3] = 0
+     0x1D47 [0x48] [System] [8666*]:
+    → "[/A sheep/A rabbit/A treant/A lizard/A cockatrice/A raptor/An eft/A dhalmel/A sea monk/An uragnite/A crab/A colibri/A coeurl/A buffalo/A slime/A mandragora/A bugard/An adamantoise/A bomb/A behemoth/A sabotender/A dragon] has entered your [Mog Garden/rearing ground]!"
+     0x1D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1D4B [0x06] ExtData[1]->WorkLocal[4] = 0
+     0x1D4E [0x01] GOTO 0x1D67
+     0x1D51 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x1D60
+     0x1D59 [0x1D] PRINT_EVENT_MESSAGE(message_id=8741*)
+    → "No neeew beasties be waiting around for <Player> now. Come back and have pick of litter later."
+     0x1D5C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1D5D [0x01] GOTO 0x1D64
+     0x1D60 [0x1D] PRINT_EVENT_MESSAGE(message_id=8664*)
+    → "Chacharoon no miiiracle worker! Can only do so much..."
+     0x1D63 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1D64 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1D67 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+     0x1D68 [0x01] GOTO 0x1D76
+     0x1D6B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1D76
+     0x1D73 [0x01] GOTO 0x1D76
+     0x1D76 [0x1B] RETURN
+     0x1D77 [0x0B] ExtData[1]->WorkLocal[4]++
+     0x1D7A [0x02] IF !(ExtData[1]->WorkLocal[4] <= 1*) GOTO 0x1E45
+     0x1D82 [0x06] Work_Zone[2] = 0
+     0x1D85 [0x1A] CALL_SUBROUTINE(address=0x0E6C)
+     0x1D88 [0x02] IF !(ExtData[1]->WorkLocal[3] >= 0*) GOTO 0x1D91
+     0x1D90 [0x1B] RETURN
+     0x1D91 [0x03] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[3]
+     0x1D96 [0x03] Work_Zone_1700[31] = Work_Zone[2]
+     0x1D9B [0x06] Work_Zone[1] = 0
+     0x1D9E [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=15*)
+     0x1DA7 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+     0x1DB0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1DB2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1DB4 [0x48] [System] [8667*]:
+    → "You are currently raising %0 with an emphasis on [personal growth/enjoying the moment]."
+     0x1DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1DB8 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x1DCC
+     0x1DC0 [0x48] [System] [8668*]:
+    → "Placing an emphasis on your critter's personal growth means that, while you do not have to look after it yourself, it will mature bit by bit each day."
+     0x1DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1DC4 [0x03] ExtData[1]->WorkLocal[10] = 2*
+     0x1DC9 [0x01] GOTO 0x1DD5
+     0x1DCC [0x48] [System] [8669*]:
+    → "Placing an emphasis on enjoying the moment means that you want your critter to stop and smell the rolanberries. It will not mature, but will live life in its current form to the fullest."
+     0x1DCF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1DD0 [0x03] ExtData[1]->WorkLocal[10] = 4*
+     0x1DD5 [0x24] CREATE_DIALOG(message_id=8670*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+    → "Place emphasis on what? [Whatever I am now./Personal growth./Enjoying the moment.]"
+     0x1DDC [0x25] WAIT_DIALOG_SELECT()
+     0x1DDD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1E0A
+     0x1DE5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1DE6 [0x06] Work_Zone[1] = 0
+     0x1DE9 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=16*)
+     0x1DF2 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+     0x1DFB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1DFD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1DFF [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+     0x1E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=8671*)
+    → ""Personal growth"? Yaaaaaay! That mean Chacharoon do much play with beastie so it get strong."
+     0x1E03 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1E04 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1E07 [0x01] GOTO 0x1E42
+     0x1E0A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1E37
+     0x1E12 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1E13 [0x06] Work_Zone[1] = 0
+     0x1E16 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=16*)
+     0x1E1F [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+     0x1E28 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1E2A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1E2C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+     0x1E2D [0x1D] PRINT_EVENT_MESSAGE(message_id=8672*)
+    → ""Enjoy moment"? Then maybe making bed is best. Beastie be snuuug as bug in rug!"
+     0x1E30 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1E31 [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1E34 [0x01] GOTO 0x1E42
+     0x1E37 [0x02] IF !(Work_Zone_1700[31] == 0*) GOTO 0x1E42
+     0x1E3F [0x0C] ExtData[1]->WorkLocal[4]--
+     0x1E42 [0x01] GOTO 0x1D7A
+     0x1E45 [0x1B] RETURN
+     0x1E46 [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x1E4C [0x1A] CALL_SUBROUTINE(address=0x2680)
+     0x1E4F [0x1A] CALL_SUBROUTINE(address=0x1EBD)
+     0x1E52 [0x1A] CALL_SUBROUTINE(address=0x1F81)
+     0x1E55 [0x1A] CALL_SUBROUTINE(address=0x212B)
+     0x1E58 [0x1A] CALL_SUBROUTINE(address=0x2358)
+     0x1E5B [0x1A] CALL_SUBROUTINE(address=0x3266)
+     0x1E5E [0x1A] CALL_SUBROUTINE(address=0x2366)
+     0x1E61 [0x1A] CALL_SUBROUTINE(address=0x2442)
+     0x1E64 [0x1A] CALL_SUBROUTINE(address=0x2479)
+     0x1E67 [0x1A] CALL_SUBROUTINE(address=0x249C)
+     0x1E6A [0x1A] CALL_SUBROUTINE(address=0x24C8)
+     0x1E6D [0x1A] CALL_SUBROUTINE(address=0x2568)
+     0x1E70 [0x1A] CALL_SUBROUTINE(address=0x25F2)
+     0x1E73 [0x1A] CALL_SUBROUTINE(address=0x261B)
+     0x1E76 [0x1A] CALL_SUBROUTINE(address=0x2661)
+     0x1E79 [0x1A] CALL_SUBROUTINE(address=0x2299)
+     0x1E7C [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1E82 [0x1B] RETURN
+     0x1E83 [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x1E89 [0x1A] CALL_SUBROUTINE(address=0x1EBD)
+     0x1E8C [0x1A] CALL_SUBROUTINE(address=0x1F81)
+     0x1E8F [0x1A] CALL_SUBROUTINE(address=0x212B)
+     0x1E92 [0x1A] CALL_SUBROUTINE(address=0x2358)
+     0x1E95 [0x1A] CALL_SUBROUTINE(address=0x3266)
+     0x1E98 [0x1A] CALL_SUBROUTINE(address=0x2366)
+     0x1E9B [0x1A] CALL_SUBROUTINE(address=0x2442)
+     0x1E9E [0x1A] CALL_SUBROUTINE(address=0x2479)
+     0x1EA1 [0x1A] CALL_SUBROUTINE(address=0x249C)
+     0x1EA4 [0x1A] CALL_SUBROUTINE(address=0x24C8)
+     0x1EA7 [0x1A] CALL_SUBROUTINE(address=0x2568)
+     0x1EAA [0x1A] CALL_SUBROUTINE(address=0x25F2)
+     0x1EAD [0x1A] CALL_SUBROUTINE(address=0x261B)
+     0x1EB0 [0x1A] CALL_SUBROUTINE(address=0x2661)
+     0x1EB3 [0x1A] CALL_SUBROUTINE(address=0x2299)
+     0x1EB6 [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1EBC [0x1B] RETURN
+     0x1EBD [0xAC] Unknown NPC (ID: 17924105/0x01118009)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1EC3 [0x3E] IF !(Work_Zone_Memorize[0] bit 0*) GOTO 0x1ED4
+     0x1ECA [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924105/0x01118009), tag_num=0x02)
+     0x1ED1 [0x01] GOTO 0x1EDB
+     0x1ED4 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924105/0x01118009), tag_num=0x03)
+     0x1EDB [0xAC] Unknown NPC (ID: 17924106/0x0111800A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1EE1 [0x3E] IF !(Work_Zone_Memorize[0] bit 1*) GOTO 0x1EF2
+     0x1EE8 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924106/0x0111800A), tag_num=0x02)
+     0x1EEF [0x01] GOTO 0x1EF9
+     0x1EF2 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924106/0x0111800A), tag_num=0x03)
+     0x1EF9 [0xAC] Unknown NPC (ID: 17924107/0x0111800B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1EFF [0x3E] IF !(Work_Zone_Memorize[0] bit 2*) GOTO 0x1F10
+     0x1F06 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924107/0x0111800B), tag_num=0x02)
+     0x1F0D [0x01] GOTO 0x1F17
+     0x1F10 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924107/0x0111800B), tag_num=0x03)
+     0x1F17 [0x92] Garden Furrow (ID: 17924128/0x01118020)->Render.Flags3 ^= 0x01
+     0x1F1D [0x92] Garden Furrow #2 (ID: 17924129/0x01118021)->Render.Flags3 ^= 0x01
+     0x1F23 [0x92] Garden Furrow #3 (ID: 17924130/0x01118022)->Render.Flags3 ^= 0x01
+     0x1F29 [0xAC] Garden Furrow (ID: 17924128/0x01118020)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1F2F [0x3E] IF !(Work_Zone_Memorize[0] bit 26*) GOTO 0x1F3F
+     0x1F36 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow (ID: 17924128/0x01118020)
+     0x1F3C [0x01] GOTO 0x1F45
+     0x1F3F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow (ID: 17924128/0x01118020)
+     0x1F45 [0xAC] Garden Furrow #2 (ID: 17924129/0x01118021)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1F4B [0x3E] IF !(Work_Zone_Memorize[0] bit 27*) GOTO 0x1F5B
+     0x1F52 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow #2 (ID: 17924129/0x01118021)
+     0x1F58 [0x01] GOTO 0x1F61
+     0x1F5B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow #2 (ID: 17924129/0x01118021)
+     0x1F61 [0xAC] Garden Furrow #3 (ID: 17924130/0x01118022)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1F67 [0x3E] IF !(Work_Zone_Memorize[0] bit 28*) GOTO 0x1F77
+     0x1F6E [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow #3 (ID: 17924130/0x01118022)
+     0x1F74 [0x01] GOTO 0x1F7D
+     0x1F77 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow #3 (ID: 17924130/0x01118022)
+     0x1F7D [0x1C] WAIT(1* ticks)
+     0x1F80 [0x1B] RETURN
+     0x1F81 [0xAC] Unknown NPC (ID: 17924111/0x0111800F)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1F87 [0x3E] IF !(Work_Zone_Memorize[0] bit 3*) GOTO 0x1F98
+     0x1F8E [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924111/0x0111800F), tag_num=0x02)
+     0x1F95 [0x01] GOTO 0x1F9F
+     0x1F98 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924111/0x0111800F), tag_num=0x03)
+     0x1F9F [0xAC] Unknown NPC (ID: 17924112/0x01118010)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1FA5 [0x3E] IF !(Work_Zone_Memorize[0] bit 4*) GOTO 0x1FB6
+     0x1FAC [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924112/0x01118010), tag_num=0x02)
+     0x1FB3 [0x01] GOTO 0x1FBD
+     0x1FB6 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924112/0x01118010), tag_num=0x03)
+     0x1FBD [0xAC] Unknown NPC (ID: 17924113/0x01118011)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1FC3 [0x3E] IF !(Work_Zone_Memorize[0] bit 5*) GOTO 0x1FD4
+     0x1FCA [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924113/0x01118011), tag_num=0x02)
+     0x1FD1 [0x01] GOTO 0x1FDB
+     0x1FD4 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924113/0x01118011), tag_num=0x03)
+     0x1FDB [0xAC] Unknown NPC (ID: 17924122/0x0111801A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1FE1 [0x3E] IF !(Work_Zone_Memorize[1] bit 18*) GOTO 0x1FF2
+     0x1FE8 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924122/0x0111801A), tag_num=0x02)
+     0x1FEF [0x01] GOTO 0x1FF9
+     0x1FF2 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924122/0x0111801A), tag_num=0x03)
+     0x1FF9 [0xAC] Unknown NPC (ID: 17924123/0x0111801B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1FFF [0x3E] IF !(Work_Zone_Memorize[1] bit 19*) GOTO 0x2010
+     0x2006 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924123/0x0111801B), tag_num=0x02)
+     0x200D [0x01] GOTO 0x2017
+     0x2010 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924123/0x0111801B), tag_num=0x03)
+     0x2017 [0xAC] Arboreal Grove (ID: 17924131/0x01118023)->Render.Flags6 |= 0x02 // Set bit 1
+     0x201D [0xAC] Arboreal Grove (ID: 17924132/0x01118024)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2023 [0x3E] IF !(Work_Zone_Memorize[0] bit 18*) GOTO 0x204F
+     0x202A [0x3E] IF !(Work_Zone_Memorize[8] bit 0*) GOTO 0x2040
+     0x2031 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove (ID: 17924132/0x01118024)
+     0x2037 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924131/0x01118023)
+     0x203D [0x01] GOTO 0x204C
+     0x2040 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove (ID: 17924131/0x01118023)
+     0x2046 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924132/0x01118024)
+     0x204C [0x01] GOTO 0x205B
+     0x204F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924131/0x01118023)
+     0x2055 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924132/0x01118024)
+     0x205B [0xAC] Arboreal Grove #2 (ID: 17924133/0x01118025)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2061 [0xAC] Arboreal Grove #2 (ID: 17924134/0x01118026)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2067 [0x3E] IF !(Work_Zone_Memorize[0] bit 19*) GOTO 0x2093
+     0x206E [0x3E] IF !(Work_Zone_Memorize[8] bit 1*) GOTO 0x2084
+     0x2075 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #2 (ID: 17924134/0x01118026)
+     0x207B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924133/0x01118025)
+     0x2081 [0x01] GOTO 0x2090
+     0x2084 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #2 (ID: 17924133/0x01118025)
+     0x208A [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924134/0x01118026)
+     0x2090 [0x01] GOTO 0x209F
+     0x2093 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924133/0x01118025)
+     0x2099 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924134/0x01118026)
+     0x209F [0xAC] Arboreal Grove #3 (ID: 17924135/0x01118027)->Render.Flags6 |= 0x02 // Set bit 1
+     0x20A5 [0xAC] Arboreal Grove #3 (ID: 17924136/0x01118028)->Render.Flags6 |= 0x02 // Set bit 1
+     0x20AB [0x3E] IF !(Work_Zone_Memorize[0] bit 20*) GOTO 0x20D7
+     0x20B2 [0x3E] IF !(Work_Zone_Memorize[8] bit 2*) GOTO 0x20C8
+     0x20B9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #3 (ID: 17924136/0x01118028)
+     0x20BF [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924135/0x01118027)
+     0x20C5 [0x01] GOTO 0x20D4
+     0x20C8 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #3 (ID: 17924135/0x01118027)
+     0x20CE [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924136/0x01118028)
+     0x20D4 [0x01] GOTO 0x20E3
+     0x20D7 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924135/0x01118027)
+     0x20DD [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924136/0x01118028)
+     0x20E3 [0xAC] Arboreal Grove #4 (ID: 17924137/0x01118029)->Render.Flags6 |= 0x02 // Set bit 1
+     0x20E9 [0xAC] Arboreal Grove #4 (ID: 17924138/0x0111802A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x20EF [0x3E] IF !(Work_Zone_Memorize[0] bit 21*) GOTO 0x211B
+     0x20F6 [0x3E] IF !(Work_Zone_Memorize[8] bit 3*) GOTO 0x210C
+     0x20FD [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #4 (ID: 17924138/0x0111802A)
+     0x2103 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924137/0x01118029)
+     0x2109 [0x01] GOTO 0x2118
+     0x210C [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #4 (ID: 17924137/0x01118029)
+     0x2112 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924138/0x0111802A)
+     0x2118 [0x01] GOTO 0x2127
+     0x211B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924137/0x01118029)
+     0x2121 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924138/0x0111802A)
+     0x2127 [0x1C] WAIT(1* ticks)
+     0x212A [0x1B] RETURN
+     0x212B [0xAC] Unknown NPC (ID: 17924114/0x01118012)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2131 [0x3E] IF !(Work_Zone_Memorize[0] bit 6*) GOTO 0x2142
+     0x2138 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924114/0x01118012), tag_num=0x02)
+     0x213F [0x01] GOTO 0x2149
+     0x2142 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924114/0x01118012), tag_num=0x03)
+     0x2149 [0xAC] Unknown NPC (ID: 17924115/0x01118013)->Render.Flags6 |= 0x02 // Set bit 1
+     0x214F [0x3E] IF !(Work_Zone_Memorize[0] bit 7*) GOTO 0x2160
+     0x2156 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924115/0x01118013), tag_num=0x02)
+     0x215D [0x01] GOTO 0x2167
+     0x2160 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924115/0x01118013), tag_num=0x03)
+     0x2167 [0xAC] Unknown NPC (ID: 17924116/0x01118014)->Render.Flags6 |= 0x02 // Set bit 1
+     0x216D [0x3E] IF !(Work_Zone_Memorize[0] bit 8*) GOTO 0x217E
+     0x2174 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924116/0x01118014), tag_num=0x02)
+     0x217B [0x01] GOTO 0x2185
+     0x217E [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924116/0x01118014), tag_num=0x03)
+     0x2185 [0xAC] Mineral Vein (ID: 17924139/0x0111802B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x218B [0xAC] Mineral Vein (ID: 17924140/0x0111802C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2191 [0x3E] IF !(Work_Zone_Memorize[0] bit 22*) GOTO 0x21BD
+     0x2198 [0x3E] IF !(Work_Zone_Memorize[8] bit 4*) GOTO 0x21AE
+     0x219F [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein (ID: 17924140/0x0111802C)
+     0x21A5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924139/0x0111802B)
+     0x21AB [0x01] GOTO 0x21BA
+     0x21AE [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein (ID: 17924139/0x0111802B)
+     0x21B4 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924140/0x0111802C)
+     0x21BA [0x01] GOTO 0x21C9
+     0x21BD [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924139/0x0111802B)
+     0x21C3 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924140/0x0111802C)
+     0x21C9 [0xAC] Mineral Vein #2 (ID: 17924141/0x0111802D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x21CF [0xAC] Mineral Vein #2 (ID: 17924142/0x0111802E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x21D5 [0x3E] IF !(Work_Zone_Memorize[0] bit 23*) GOTO 0x2201
+     0x21DC [0x3E] IF !(Work_Zone_Memorize[8] bit 5*) GOTO 0x21F2
+     0x21E3 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #2 (ID: 17924142/0x0111802E)
+     0x21E9 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924141/0x0111802D)
+     0x21EF [0x01] GOTO 0x21FE
+     0x21F2 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #2 (ID: 17924141/0x0111802D)
+     0x21F8 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924142/0x0111802E)
+     0x21FE [0x01] GOTO 0x220D
+     0x2201 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924141/0x0111802D)
+     0x2207 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924142/0x0111802E)
+     0x220D [0xAC] Mineral Vein #3 (ID: 17924143/0x0111802F)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2213 [0xAC] Mineral Vein #3 (ID: 17924144/0x01118030)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2219 [0x3E] IF !(Work_Zone_Memorize[0] bit 24*) GOTO 0x2245
+     0x2220 [0x3E] IF !(Work_Zone_Memorize[8] bit 6*) GOTO 0x2236
+     0x2227 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #3 (ID: 17924144/0x01118030)
+     0x222D [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924143/0x0111802F)
+     0x2233 [0x01] GOTO 0x2242
+     0x2236 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #3 (ID: 17924143/0x0111802F)
+     0x223C [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924144/0x01118030)
+     0x2242 [0x01] GOTO 0x2251
+     0x2245 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924143/0x0111802F)
+     0x224B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924144/0x01118030)
+     0x2251 [0xAC] Mineral Vein #4 (ID: 17924145/0x01118031)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2257 [0xAC] Mineral Vein #4 (ID: 17924146/0x01118032)->Render.Flags6 |= 0x02 // Set bit 1
+     0x225D [0x3E] IF !(Work_Zone_Memorize[0] bit 25*) GOTO 0x2289
+     0x2264 [0x3E] IF !(Work_Zone_Memorize[8] bit 7*) GOTO 0x227A
+     0x226B [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #4 (ID: 17924146/0x01118032)
+     0x2271 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924145/0x01118031)
+     0x2277 [0x01] GOTO 0x2286
+     0x227A [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #4 (ID: 17924145/0x01118031)
+     0x2280 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924146/0x01118032)
+     0x2286 [0x01] GOTO 0x2295
+     0x2289 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924145/0x01118031)
+     0x228F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924146/0x01118032)
+     0x2295 [0x1C] WAIT(1* ticks)
+     0x2298 [0x1B] RETURN
+     0x2299 [0x92] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags3 ^= 0x01
+     0x229F [0xAC] Unknown NPC (ID: 17924117/0x01118015)->Render.Flags6 |= 0x02 // Set bit 1
+     0x22A5 [0x3E] IF !(Work_Zone_Memorize[0] bit 9*) GOTO 0x22B6
+     0x22AC [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924117/0x01118015), tag_num=0x02)
+     0x22B3 [0x01] GOTO 0x22BD
+     0x22B6 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924117/0x01118015), tag_num=0x03)
+     0x22BD [0xAC] Unknown NPC (ID: 17924118/0x01118016)->Render.Flags6 |= 0x02 // Set bit 1
+     0x22C3 [0x3E] IF !(Work_Zone_Memorize[0] bit 10*) GOTO 0x22D4
+     0x22CA [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924118/0x01118016), tag_num=0x02)
+     0x22D1 [0x01] GOTO 0x22DB
+     0x22D4 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924118/0x01118016), tag_num=0x03)
+     0x22DB [0xAC] Unknown NPC (ID: 17924119/0x01118017)->Render.Flags6 |= 0x02 // Set bit 1
+     0x22E1 [0x3E] IF !(Work_Zone_Memorize[0] bit 11*) GOTO 0x22F2
+     0x22E8 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924119/0x01118017), tag_num=0x02)
+     0x22EF [0x01] GOTO 0x22F9
+     0x22F2 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924119/0x01118017), tag_num=0x03)
+     0x22F9 [0xAC] Unknown NPC (ID: 17924120/0x01118018)->Render.Flags6 |= 0x02 // Set bit 1
+     0x22FF [0x3E] IF !(Work_Zone_Memorize[1] bit 17*) GOTO 0x2310
+     0x2306 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924120/0x01118018), tag_num=0x02)
+     0x230D [0x01] GOTO 0x2317
+     0x2310 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924120/0x01118018), tag_num=0x03)
+     0x2317 [0x3E] IF !(Work_Zone_Memorize[1] bit 20*) GOTO 0x2327
+     0x231E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3069
+     0x2324 [0x01] GOTO 0x2327
+     0x2327 [0x3E] IF !(Work_Zone_Memorize[1] bit 21*) GOTO 0x2337
+     0x232E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3169
+     0x2334 [0x01] GOTO 0x2337
+     0x2337 [0x3E] IF !(Work_Zone_Memorize[1] bit 22*) GOTO 0x2347
+     0x233E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3269
+     0x2344 [0x01] GOTO 0x2347
+     0x2347 [0x3E] IF !(Work_Zone_Memorize[1] bit 23*) GOTO 0x2357
+     0x234E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3369
+     0x2354 [0x01] GOTO 0x2357
+     0x2357 [0x1B] RETURN
+     0x2358 [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
+     0x235E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coastal Fishing Net (ID: 17924149/0x01118035), tag_num=0x04)
+     0x2365 [0x1B] RETURN
+     0x2366 [0x92] Kuyin Hathdenna (ID: 17924183/0x01118057)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x236C [0x92] Kuyin Hathdenna (ID: 17924202/0x0111806A)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x2372 [0x92] Susuroon (ID: 17924184/0x01118058)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x2378 [0x92] Susuroon (ID: 17924203/0x0111806B)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x237E [0x92] Yeestog (ID: 17924185/0x01118059)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x2384 [0x92] Yeestog (ID: 17924204/0x0111806C)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x238A [0xAC] Kuyin Hathdenna (ID: 17924183/0x01118057)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2390 [0x3E] IF !(Work_Zone_Memorize[0] bit 12*) GOTO 0x23A1
+     0x2397 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924183/0x01118057), tag_num=0x02)
+     0x239E [0x01] GOTO 0x23A8
+     0x23A1 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924183/0x01118057), tag_num=0x03)
+     0x23A8 [0xAC] Kuyin Hathdenna (ID: 17924202/0x0111806A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23AE [0x3E] IF !(Work_Zone_Memorize[0] bit 13*) GOTO 0x23BF
+     0x23B5 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924202/0x0111806A), tag_num=0x02)
+     0x23BC [0x01] GOTO 0x23C6
+     0x23BF [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924202/0x0111806A), tag_num=0x03)
+     0x23C6 [0xAC] Susuroon (ID: 17924184/0x01118058)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23CC [0x3E] IF !(Work_Zone_Memorize[0] bit 14*) GOTO 0x23DD
+     0x23D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Susuroon (ID: 17924184/0x01118058), tag_num=0x02)
+     0x23DA [0x01] GOTO 0x23E4
+     0x23DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Susuroon (ID: 17924184/0x01118058), tag_num=0x03)
+     0x23E4 [0xAC] Susuroon (ID: 17924203/0x0111806B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23EA [0x3E] IF !(Work_Zone_Memorize[0] bit 15*) GOTO 0x23FB
+     0x23F1 [0x27] REQ_SET(priority=0x08, entity_id=Susuroon (ID: 17924203/0x0111806B), tag_num=0x02)
+     0x23F8 [0x01] GOTO 0x2402
+     0x23FB [0x27] REQ_SET(priority=0x08, entity_id=Susuroon (ID: 17924203/0x0111806B), tag_num=0x03)
+     0x2402 [0xAC] Yeestog (ID: 17924185/0x01118059)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2408 [0x3E] IF !(Work_Zone_Memorize[0] bit 16*) GOTO 0x2419
+     0x240F [0x27] REQ_SET(priority=0x08, entity_id=Yeestog (ID: 17924185/0x01118059), tag_num=0x02)
+     0x2416 [0x01] GOTO 0x2420
+     0x2419 [0x27] REQ_SET(priority=0x08, entity_id=Yeestog (ID: 17924185/0x01118059), tag_num=0x03)
+     0x2420 [0xAC] Yeestog (ID: 17924204/0x0111806C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2426 [0x3E] IF !(Work_Zone_Memorize[0] bit 17*) GOTO 0x2437
+     0x242D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yeestog (ID: 17924204/0x0111806C), tag_num=0x02)
+     0x2434 [0x01] GOTO 0x243E
+     0x2437 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yeestog (ID: 17924204/0x0111806C), tag_num=0x03)
+     0x243E [0x1C] WAIT(1* ticks)
+     0x2441 [0x1B] RETURN
+     0x2442 [0xAC] Flotsam (ID: 17924150/0x01118036)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2448 [0x3E] IF !(Work_Zone_Memorize[0] bit 29*) GOTO 0x2465
+     0x244F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "efon" with entities [Flotsam (ID: 17924150/0x01118036), Flotsam (ID: 17924150/0x01118036)]
+     0x245C [0xB6] ENTITY_APPEARANCE_HANDLER(case=Render.Flags2)
+     0x245E [0x36] SET_ENTITY_EVENT_POSITION(pos_x=0x1180, pos_z=0x0101, pos_y=0x2478)
+     0x2465 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "efof" with entities [Flotsam (ID: 17924150/0x01118036), Flotsam (ID: 17924150/0x01118036)]
+     0x2472 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Render.Flags2)
+     0x2474 [0x36] SET_ENTITY_EVENT_POSITION(pos_x=0x1180, pos_z=0x1B01, pos_y=0x013E)
+     0x247B [0x11] 0* >>= 0x248F
+     0x2480 [0x4E] SET_ENTITY_HIDE_FLAG: Show Crabauble (ID: 17924209/0x01118071)
+     0x2486 [0xAC] Crabauble (ID: 17924209/0x01118071)->Render.Flags6 |= 0x02 // Set bit 1
+     0x248C [0x01] GOTO 0x249B
+     0x248F [0xAC] Crabauble (ID: 17924209/0x01118071)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2495 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Crabauble (ID: 17924209/0x01118071)
+     0x249B [0x1B] RETURN
+     0x249C [0xAC] Garden Strongbox (ID: 17924210/0x01118072)->Render.Flags6 |= 0x02 // Set bit 1
+     0x24A2 [0x3E] IF !(Work_Zone_Memorize[1] bit 1*) GOTO 0x24C0
+     0x24A9 [0x3E] IF !(Work_Zone_Memorize[1] bit 3*) GOTO 0x24B7
+     0x24B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Garden Strongbox (ID: 17924210/0x01118072), tag_num=0x04)
+     0x24B7 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Strongbox (ID: 17924210/0x01118072)
+     0x24BD [0x01] GOTO 0x24C7
+     0x24C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Garden Strongbox (ID: 17924210/0x01118072), tag_num=0x03)
+     0x24C7 [0x1B] RETURN
+     0x24C8 [0xAC] Ephemeral Moogle (ID: 17924238/0x0111808E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x24CE [0x3E] IF !(Work_Zone_Memorize[1] bit 25*) GOTO 0x24DE
+     0x24D5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ephemeral Moogle (ID: 17924238/0x0111808E)
+     0x24DB [0x01] GOTO 0x24E4
+     0x24DE [0x4E] SET_ENTITY_HIDE_FLAG: Hide Ephemeral Moogle (ID: 17924238/0x0111808E)
+     0x24E4 [0x1B] RETURN
+     0x24E5 [0xAC] Unnamed NPC (ID: 17924224/0x01118080)->Render.Flags6 |= 0x02 // Set bit 1
+     0x24EB [0xAC] Unnamed NPC (ID: 17924225/0x01118081)->Render.Flags6 |= 0x02 // Set bit 1
+     0x24F1 [0xAC] Unnamed NPC (ID: 17924226/0x01118082)->Render.Flags6 |= 0x02 // Set bit 1
+     0x24F7 [0xAC] Unnamed NPC (ID: 17924227/0x01118083)->Render.Flags6 |= 0x02 // Set bit 1
+     0x24FD [0xAC] Unnamed NPC (ID: 17924228/0x01118084)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2503 [0x3E] IF !(Work_Zone_Memorize[1] bit 26*) GOTO 0x2549
+     0x250A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924224/0x01118080)
+     0x2510 [0xAC] Unnamed NPC (ID: 17924224/0x01118080)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2516 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924225/0x01118081)
+     0x251C [0xAC] Unnamed NPC (ID: 17924225/0x01118081)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2522 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924226/0x01118082)
+     0x2528 [0xAC] Unnamed NPC (ID: 17924226/0x01118082)->Render.Flags6 |= 0x02 // Set bit 1
+     0x252E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924227/0x01118083)
+     0x2534 [0xAC] Unnamed NPC (ID: 17924227/0x01118083)->Render.Flags6 |= 0x02 // Set bit 1
+     0x253A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924228/0x01118084)
+     0x2540 [0xAC] Unnamed NPC (ID: 17924228/0x01118084)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2546 [0x01] GOTO 0x2567
+     0x2549 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924224/0x01118080)
+     0x254F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924225/0x01118081)
+     0x2555 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924226/0x01118082)
+     0x255B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924227/0x01118083)
+     0x2561 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924228/0x01118084)
+     0x2567 [0x1B] RETURN
+     0x2568 [0xAC] ??? (ID: 17924229/0x01118085)->Render.Flags6 |= 0x02 // Set bit 1
+     0x256E [0xAC] ??? (ID: 17924230/0x01118086)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2574 [0x3E] IF !(Work_Zone_Memorize[1] bit 27*) GOTO 0x25E5
+     0x257B [0x13] ExtData[1]->WorkLocal[27] = rand() % 2*
+     0x2580 [0x02] IF !(ExtData[1]->WorkLocal[27] <= 2*) GOTO 0x258B
+     0x2588 [0x06] ExtData[1]->WorkLocal[27] = 0
+     0x258B [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x25A4
+     0x2593 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x02)
+     0x259A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x02)
+     0x25A1 [0x01] GOTO 0x25D6
+     0x25A4 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x25BD
+     0x25AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x03)
+     0x25B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x03)
+     0x25BA [0x01] GOTO 0x25D6
+     0x25BD [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x25D6
+     0x25C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x04)
+     0x25CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x04)
+     0x25D3 [0x01] GOTO 0x25D6
+     0x25D6 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17924229/0x01118085)
+     0x25DC [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17924230/0x01118086)
+     0x25E2 [0x01] GOTO 0x25F1
+     0x25E5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide ??? (ID: 17924229/0x01118085)
+     0x25EB [0x4E] SET_ENTITY_HIDE_FLAG: Hide ??? (ID: 17924230/0x01118086)
+     0x25F1 [0x1B] RETURN
+     0x25F2 [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
+     0x25F8 [0x3E] IF !(Work_Zone_Memorize[1] bit 4*) GOTO 0x260E
+     0x25FF [0x4E] SET_ENTITY_HIDE_FLAG: Show Chacharoon (ID: 17924231/0x01118087)
+     0x2605 [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
+     0x260B [0x01] GOTO 0x261A
+     0x260E [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2614 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924231/0x01118087)
+     0x261A [0x1B] RETURN
+     0x261B [0xAC] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2621 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster (ID: 17924233/0x01118089), tag_num=0x04)
+     0x2628 [0x1B] RETURN
+     0x2629 [0xAC] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x262F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster01 (ID: 17924234/0x0111808A), tag_num=0x04)
+     0x2636 [0x1B] RETURN
+     0x2637 [0xAC] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x263D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster02 (ID: 17924235/0x0111808B), tag_num=0x04)
+     0x2644 [0x1B] RETURN
+     0x2645 [0xAC] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x264B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster03 (ID: 17924236/0x0111808C), tag_num=0x04)
+     0x2652 [0x1B] RETURN
+     0x2653 [0xAC] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2659 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster00 (ID: 17924237/0x0111808D), tag_num=0x04)
+     0x2660 [0x1B] RETURN
+     0x2661 [0xAC] Unnamed NPC (ID: 17924124/0x0111801C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2667 [0x3E] IF !(Work_Zone_Memorize[1] bit 24*) GOTO 0x2678
+     0x266E [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17924124/0x0111801C), tag_num=0x02)
+     0x2675 [0x01] GOTO 0x267F
+     0x2678 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17924124/0x0111801C), tag_num=0x03)
+     0x267F [0x1B] RETURN
+     0x2680 [0x03] Work_Zone[1] = 1*
+     0x2685 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x2687 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x2689 [0x03] ExtData[1]->WorkLocal[28] = Work_Zone[2]
+     0x268E [0x03] Work_Zone_Memorize[8] = Work_Zone[3]
+     0x2693 [0x03] Work_Zone_Memorize[1] = Work_Zone[4]
+     0x2698 [0x03] Work_Zone_Memorize[10] = Work_Zone[5]
+     0x269D [0x03] Work_Zone_Memorize[11] = Work_Zone[6]
+     0x26A2 [0x03] Work_Zone_Memorize[12] = Work_Zone[7]
+     0x26A7 [0x03] Work_Zone[1] = 11*
+     0x26AC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x26AE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x26B0 [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
+     0x26B5 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
+     0x26BA [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
+     0x26BF [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
+     0x26C4 [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
+     0x26C9 [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
+     0x26CE [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
+     0x26D3 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 0*-3*)
+     0x26DC [0x1A] CALL_SUBROUTINE(address=0x28CD)
+     0x26DF [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 4*-7*)
+     0x26E8 [0x1A] CALL_SUBROUTINE(address=0x2AD5)
+     0x26EB [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 8*-11*)
+     0x26F4 [0x1A] CALL_SUBROUTINE(address=0x2D65)
+     0x26F7 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 12*-15*)
+     0x2700 [0x1A] CALL_SUBROUTINE(address=0x2FB3)
+     0x2703 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 20*-22*)
+     0x270C [0x1A] CALL_SUBROUTINE(address=0x2735)
+     0x270F [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 31*-31*)
+     0x2718 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x272A
+     0x2720 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=29*, condition_work_offset=1*)
+     0x2727 [0x01] GOTO 0x2731
+     0x272A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=29*, condition_work_offset=1*)
+     0x2731 [0x1A] CALL_SUBROUTINE(address=0x274F)
+     0x2734 [0x1B] RETURN
+     0x2735 [0x02] IF !(ExtData[1]->WorkLocal[27] < 3*) GOTO 0x2747
+     0x273D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2744 [0x01] GOTO 0x274E
+     0x2747 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x274E [0x1B] RETURN
+     0x274F [0x3E] IF !(Work_Zone_Memorize[8] bit 8*) GOTO 0x27C0
+     0x2756 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 9*-11*)
+     0x275F [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x2778
+     0x2767 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x276E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x2775 [0x01] GOTO 0x27BD
+     0x2778 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x2791
+     0x2780 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x2787 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x278E [0x01] GOTO 0x27BD
+     0x2791 [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
+     0x2796 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x27AF
+     0x279E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x27A5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x27AC [0x01] GOTO 0x27BD
+     0x27AF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x27B6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x27BD [0x01] GOTO 0x27CE
+     0x27C0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x27C7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x27CE [0x3E] IF !(Work_Zone_Memorize[8] bit 12*) GOTO 0x283F
+     0x27D5 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 13*-15*)
+     0x27DE [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x27F7
+     0x27E6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x27ED [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x27F4 [0x01] GOTO 0x283C
+     0x27F7 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x2810
+     0x27FF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x2806 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x280D [0x01] GOTO 0x283C
+     0x2810 [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
+     0x2815 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x282E
+     0x281D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x2824 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x282B [0x01] GOTO 0x283C
+     0x282E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x2835 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x283C [0x01] GOTO 0x284D
+     0x283F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x2846 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x284D [0x3E] IF !(Work_Zone_Memorize[8] bit 16*) GOTO 0x28BE
+     0x2854 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 17*-19*)
+     0x285D [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x2876
+     0x2865 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x286C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x2873 [0x01] GOTO 0x28BB
+     0x2876 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x288F
+     0x287E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x2885 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x288C [0x01] GOTO 0x28BB
+     0x288F [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
+     0x2894 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x28AD
+     0x289C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x28A3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x28AA [0x01] GOTO 0x28BB
+     0x28AD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x28B4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x28BB [0x01] GOTO 0x28CC
+     0x28BE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x28C5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x28CC [0x1B] RETURN
+     0x28CD [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x2902
+     0x28D5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x28DC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x28E3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x28EA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x28F1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x28F8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x28FF [0x01] GOTO 0x2AD4
+     0x2902 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x2937
+     0x290A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x2911 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x2918 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x291F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x2926 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x292D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x2934 [0x01] GOTO 0x2AD4
+     0x2937 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x296C
+     0x293F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x2946 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x294D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x2954 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x295B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x2962 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x2969 [0x01] GOTO 0x2AD4
+     0x296C [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x29A1
+     0x2974 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x297B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x2982 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x2989 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x2990 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x2997 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x299E [0x01] GOTO 0x2AD4
+     0x29A1 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x29D6
+     0x29A9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x29B0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x29B7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x29BE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x29C5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x29CC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x29D3 [0x01] GOTO 0x2AD4
+     0x29D6 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x2A0B
+     0x29DE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x29E5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x29EC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x29F3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x29FA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x2A01 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x2A08 [0x01] GOTO 0x2AD4
+     0x2A0B [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x2A40
+     0x2A13 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x2A1A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x2A21 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x2A28 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x2A2F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x2A36 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x2A3D [0x01] GOTO 0x2AD4
+     0x2A40 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x2A75
+     0x2A48 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x2A4F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x2A56 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x2A5D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x2A64 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x2A6B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x2A72 [0x01] GOTO 0x2AD4
+     0x2A75 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x2AAA
+     0x2A7D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x2A84 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x2A8B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x2A92 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x2A99 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x2AA0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x2AA7 [0x01] GOTO 0x2AD4
+     0x2AAA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x2AB1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x2AB8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x2ABF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x2AC6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x2ACD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x2AD4 [0x1B] RETURN
+     0x2AD5 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x2B1F
+     0x2ADD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2AE4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2AEB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2AF2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2AF9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2B00 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2B07 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2B0E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2B15 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2B1C [0x01] GOTO 0x2D64
+     0x2B1F [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x2B69
+     0x2B27 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2B2E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2B35 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2B3C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2B43 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2B4A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2B51 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2B58 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2B5F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2B66 [0x01] GOTO 0x2D64
+     0x2B69 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x2BB3
+     0x2B71 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2B78 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2B7F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2B86 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2B8D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2B94 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2B9B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2BA2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2BA9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2BB0 [0x01] GOTO 0x2D64
+     0x2BB3 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x2BFD
+     0x2BBB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2BC2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2BC9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2BD0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2BD7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2BDE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2BE5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2BEC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2BF3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2BFA [0x01] GOTO 0x2D64
+     0x2BFD [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x2C47
+     0x2C05 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2C0C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2C13 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2C1A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2C21 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2C28 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2C2F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2C36 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2C3D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2C44 [0x01] GOTO 0x2D64
+     0x2C47 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x2C91
+     0x2C4F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2C56 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2C5D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2C64 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2C6B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2C72 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2C79 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2C80 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2C87 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2C8E [0x01] GOTO 0x2D64
+     0x2C91 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x2CDB
+     0x2C99 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2CA0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2CA7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2CAE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2CB5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2CBC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2CC3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2CCA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2CD1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2CD8 [0x01] GOTO 0x2D64
+     0x2CDB [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x2D25
+     0x2CE3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2CEA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2CF1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2CF8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2CFF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2D06 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2D0D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2D14 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2D1B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2D22 [0x01] GOTO 0x2D64
+     0x2D25 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x2D2C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x2D33 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x2D3A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2D41 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2D48 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x2D4F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x2D56 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2D5D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2D64 [0x1B] RETURN
+     0x2D65 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x2DA1
+     0x2D6D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2D74 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2D7B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2D82 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2D89 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2D90 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2D97 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2D9E [0x01] GOTO 0x2FB2
+     0x2DA1 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x2DDD
+     0x2DA9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2DB0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2DB7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2DBE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2DC5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2DCC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2DD3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2DDA [0x01] GOTO 0x2FB2
+     0x2DDD [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x2E19
+     0x2DE5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2DEC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2DF3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2DFA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2E01 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2E08 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2E0F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2E16 [0x01] GOTO 0x2FB2
+     0x2E19 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x2E55
+     0x2E21 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2E28 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2E2F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2E36 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2E3D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2E44 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2E4B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2E52 [0x01] GOTO 0x2FB2
+     0x2E55 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x2E91
+     0x2E5D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2E64 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2E6B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2E72 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2E79 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2E80 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2E87 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2E8E [0x01] GOTO 0x2FB2
+     0x2E91 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x2ECD
+     0x2E99 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2EA0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2EA7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2EAE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2EB5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2EBC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2EC3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2ECA [0x01] GOTO 0x2FB2
+     0x2ECD [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x2F09
+     0x2ED5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2EDC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2EE3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2EEA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2EF1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2EF8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2EFF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2F06 [0x01] GOTO 0x2FB2
+     0x2F09 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x2F45
+     0x2F11 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2F18 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2F1F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2F26 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2F2D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2F34 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2F3B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2F42 [0x01] GOTO 0x2FB2
+     0x2F45 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x2F81
+     0x2F4D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2F54 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2F5B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2F62 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2F69 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2F70 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2F77 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2F7E [0x01] GOTO 0x2FB2
+     0x2F81 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x2F88 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x2F8F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2F96 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2F9D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2FA4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2FAB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x2FB2 [0x1B] RETURN
+     0x2FB3 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x2FF6
+     0x2FBB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x2FC2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x2FC9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x2FD0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x2FD7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2FDE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2FE5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2FEC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2FF3 [0x01] GOTO 0x3203
+     0x2FF6 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x3039
+     0x2FFE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x3005 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x300C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x3013 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x301A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x3021 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x3028 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x302F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x3036 [0x01] GOTO 0x3203
+     0x3039 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x307C
+     0x3041 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x3048 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x304F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x3056 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x305D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x3064 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x306B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x3072 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x3079 [0x01] GOTO 0x3203
+     0x307C [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x30BF
+     0x3084 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x308B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x3092 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x3099 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x30A0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x30A7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x30AE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x30B5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x30BC [0x01] GOTO 0x3203
+     0x30BF [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x3102
+     0x30C7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x30CE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x30D5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x30DC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x30E3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x30EA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x30F1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x30F8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x30FF [0x01] GOTO 0x3203
+     0x3102 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x3145
+     0x310A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x3111 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x3118 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x311F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x3126 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x312D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x3134 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x313B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x3142 [0x01] GOTO 0x3203
+     0x3145 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x3188
+     0x314D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x3154 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x315B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x3162 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x3169 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x3170 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x3177 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x317E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x3185 [0x01] GOTO 0x3203
+     0x3188 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x31CB
+     0x3190 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x3197 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x319E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x31A5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x31AC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x31B3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x31BA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x31C1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x31C8 [0x01] GOTO 0x3203
+     0x31CB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x31D2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x31D9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x31E0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x31E7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x31EE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x31F5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x31FC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x3203 [0x1B] RETURN
+     0x3204 [0x03] Work_Zone[1] = 11*
+     0x3209 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x320B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x320D [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
+     0x3212 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
+     0x3217 [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
+     0x321C [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
+     0x3221 [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
+     0x3226 [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
+     0x322B [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
+     0x3230 [0x1B] RETURN
+     0x3231 [0x03] Work_Zone[1] = 73*
+     0x3236 [0x47] UPDATE_PLAYER_POS(-2.517*, -5.068*, 0.452*, yaw=291.5°*)
+     0x3240 [0x47] WAIT_PLAYER_POS_UPDATE
+     0x3242 [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
+     0x3247 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
+     0x324C [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
+     0x3251 [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
+     0x3256 [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
+     0x325B [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
+     0x3260 [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
+     0x3265 [0x1B] RETURN
+     0x3266 [0x2F] Plant00 (ID: 17924151/0x01118037)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x326C [0x2F] Plant01 (ID: 17924152/0x01118038)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x3272 [0x2F] Plant02 (ID: 17924153/0x01118039)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x3278 [0x2F] Plant03 (ID: 17924154/0x0111803A)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x327E [0x2F] PlantFurn00 (ID: 17924155/0x0111803B)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x3284 [0x2F] PlantFurn01 (ID: 17924156/0x0111803C)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x328A [0x2F] PlantFurn02 (ID: 17924157/0x0111803D)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x3290 [0x2F] PlantFurn03 (ID: 17924158/0x0111803E)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x3296 [0x2F] Plant10 (ID: 17924159/0x0111803F)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x329C [0x2F] Plant11 (ID: 17924160/0x01118040)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32A2 [0x2F] Plant12 (ID: 17924161/0x01118041)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32A8 [0x2F] Plant13 (ID: 17924162/0x01118042)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32AE [0x2F] PlantFurn10 (ID: 17924163/0x01118043)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32B4 [0x2F] PlantFurn11 (ID: 17924164/0x01118044)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32BA [0x2F] PlantFurn12 (ID: 17924165/0x01118045)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32C0 [0x2F] PlantFurn13 (ID: 17924166/0x01118046)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32C6 [0x2F] Plant20 (ID: 17924167/0x01118047)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32CC [0x2F] Plant21 (ID: 17924168/0x01118048)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32D2 [0x2F] Plant22 (ID: 17924169/0x01118049)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32D8 [0x2F] Plant23 (ID: 17924170/0x0111804A)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32DE [0x2F] PlantFurn20 (ID: 17924171/0x0111804B)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32E4 [0x2F] PlantFurn21 (ID: 17924172/0x0111804C)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32EA [0x2F] PlantFurn22 (ID: 17924173/0x0111804D)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32F0 [0x2F] PlantFurn23 (ID: 17924174/0x0111804E)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x32F6 [0xAC] Plant00 (ID: 17924151/0x01118037)->Render.Flags6 |= 0x02 // Set bit 1
+     0x32FC [0xAC] Plant01 (ID: 17924152/0x01118038)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3302 [0xAC] Plant02 (ID: 17924153/0x01118039)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3308 [0xAC] Plant03 (ID: 17924154/0x0111803A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x330E [0xAC] PlantFurn00 (ID: 17924155/0x0111803B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3314 [0xAC] PlantFurn01 (ID: 17924156/0x0111803C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x331A [0xAC] PlantFurn02 (ID: 17924157/0x0111803D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3320 [0xAC] PlantFurn03 (ID: 17924158/0x0111803E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3326 [0xAC] Plant10 (ID: 17924159/0x0111803F)->Render.Flags6 |= 0x02 // Set bit 1
+     0x332C [0xAC] Plant11 (ID: 17924160/0x01118040)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3332 [0xAC] Plant12 (ID: 17924161/0x01118041)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3338 [0xAC] Plant13 (ID: 17924162/0x01118042)->Render.Flags6 |= 0x02 // Set bit 1
+     0x333E [0xAC] PlantFurn10 (ID: 17924163/0x01118043)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3344 [0xAC] PlantFurn11 (ID: 17924164/0x01118044)->Render.Flags6 |= 0x02 // Set bit 1
+     0x334A [0xAC] PlantFurn12 (ID: 17924165/0x01118045)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3350 [0xAC] PlantFurn13 (ID: 17924166/0x01118046)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3356 [0xAC] Plant20 (ID: 17924167/0x01118047)->Render.Flags6 |= 0x02 // Set bit 1
+     0x335C [0xAC] Plant21 (ID: 17924168/0x01118048)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3362 [0xAC] Plant22 (ID: 17924169/0x01118049)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3368 [0xAC] Plant23 (ID: 17924170/0x0111804A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x336E [0xAC] PlantFurn20 (ID: 17924171/0x0111804B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3374 [0xAC] PlantFurn21 (ID: 17924172/0x0111804C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x337A [0xAC] PlantFurn22 (ID: 17924173/0x0111804D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3380 [0xAC] PlantFurn23 (ID: 17924174/0x0111804E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3386 [0xAC] Unknown NPC (ID: 17924108/0x0111800C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x338C [0xAC] Unknown NPC (ID: 17924109/0x0111800D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3392 [0xAC] Unknown NPC (ID: 17924110/0x0111800E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x3398 [0x41] Work_Zone[2] = Work_Zone_Memorize[2] (bits 0*-1*)
+     0x33A1 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x33B3
+     0x33A9 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924108/0x0111800C), tag_num=0x03)
+     0x33B0 [0x01] GOTO 0x33BA
+     0x33B3 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924108/0x0111800C), tag_num=0x02)
+     0x33BA [0x41] Work_Zone[2] = Work_Zone_Memorize[3] (bits 0*-1*)
+     0x33C3 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x33D5
+     0x33CB [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924109/0x0111800D), tag_num=0x03)
+     0x33D2 [0x01] GOTO 0x33DC
+     0x33D5 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924109/0x0111800D), tag_num=0x02)
+     0x33DC [0x41] Work_Zone[2] = Work_Zone_Memorize[4] (bits 0*-1*)
+     0x33E5 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x33F7
+     0x33ED [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924110/0x0111800E), tag_num=0x03)
+     0x33F4 [0x01] GOTO 0x33FE
+     0x33F7 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924110/0x0111800E), tag_num=0x02)
+     0x33FE [0x27] REQ_SET(priority=0x80, entity_id=Plant00 (ID: 17924151/0x01118037), tag_num=0x02)
+     0x3405 [0x27] REQ_SET(priority=0x80, entity_id=Plant01 (ID: 17924152/0x01118038), tag_num=0x02)
+     0x340C [0x27] REQ_SET(priority=0x80, entity_id=Plant02 (ID: 17924153/0x01118039), tag_num=0x02)
+     0x3413 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant03 (ID: 17924154/0x0111803A), tag_num=0x02)
+     0x341A [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn00 (ID: 17924155/0x0111803B), tag_num=0x02)
+     0x3421 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn01 (ID: 17924156/0x0111803C), tag_num=0x02)
+     0x3428 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn02 (ID: 17924157/0x0111803D), tag_num=0x02)
+     0x342F [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn03 (ID: 17924158/0x0111803E), tag_num=0x02)
+     0x3436 [0x27] REQ_SET(priority=0x80, entity_id=Plant10 (ID: 17924159/0x0111803F), tag_num=0x02)
+     0x343D [0x27] REQ_SET(priority=0x80, entity_id=Plant11 (ID: 17924160/0x01118040), tag_num=0x02)
+     0x3444 [0x27] REQ_SET(priority=0x80, entity_id=Plant12 (ID: 17924161/0x01118041), tag_num=0x02)
+     0x344B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant13 (ID: 17924162/0x01118042), tag_num=0x02)
+     0x3452 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn10 (ID: 17924163/0x01118043), tag_num=0x02)
+     0x3459 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn11 (ID: 17924164/0x01118044), tag_num=0x02)
+     0x3460 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn12 (ID: 17924165/0x01118045), tag_num=0x02)
+     0x3467 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn13 (ID: 17924166/0x01118046), tag_num=0x02)
+     0x346E [0x27] REQ_SET(priority=0x80, entity_id=Plant20 (ID: 17924167/0x01118047), tag_num=0x02)
+     0x3475 [0x27] REQ_SET(priority=0x80, entity_id=Plant21 (ID: 17924168/0x01118048), tag_num=0x02)
+     0x347C [0x27] REQ_SET(priority=0x80, entity_id=Plant22 (ID: 17924169/0x01118049), tag_num=0x02)
+     0x3483 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant23 (ID: 17924170/0x0111804A), tag_num=0x02)
+     0x348A [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn20 (ID: 17924171/0x0111804B), tag_num=0x02)
+     0x3491 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn21 (ID: 17924172/0x0111804C), tag_num=0x02)
+     0x3498 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn22 (ID: 17924173/0x0111804D), tag_num=0x02)
+     0x349F [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn23 (ID: 17924174/0x0111804E), tag_num=0x02)
+     0x34A6 [0x1B] RETURN
+     0x34A7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x34A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x34B9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x34C8 [0x1A] CALL_SUBROUTINE(address=0x3231)
+     0x34CB [0x1A] CALL_SUBROUTINE(address=0x1E46)
+     0x34CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x34DF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x34EE [0x1B] RETURN
+     0x34EF [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x34F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x3501 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x3510 [0x03] Work_Zone[1] = 72*
+     0x3515 [0x47] UPDATE_PLAYER_POS(361.160*, -554.770*, -3.340*, yaw=141.8°*)
+     0x351F [0x47] WAIT_PLAYER_POS_UPDATE
+     0x3521 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x353E
+     0x3529 [0x1A] CALL_SUBROUTINE(address=0x2680)
+     0x352C [0x1A] CALL_SUBROUTINE(address=0x2629)
+     0x352F [0x1A] CALL_SUBROUTINE(address=0x2637)
+     0x3532 [0x1A] CALL_SUBROUTINE(address=0x2645)
+     0x3535 [0x1A] CALL_SUBROUTINE(address=0x2653)
+     0x3538 [0x1A] CALL_SUBROUTINE(address=0x24E5)
+     0x353B [0x01] GOTO 0x353E
+     0x353E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x354F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x355E [0x1B] RETURN
+     0x355F [0x1A] CALL_SUBROUTINE(address=0x35C8)
+     0x3562 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x356B
+     0x356A [0x1B] RETURN
+     0x356B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=Work_Zone[2], condition_work_offset=1*)
+     0x3572 [0x1A] CALL_SUBROUTINE(address=0x1E46)
+     0x3575 [0x1B] RETURN
+     0x3576 [0x1A] CALL_SUBROUTINE(address=0x35C8)
+     0x3579 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x3582
+     0x3581 [0x1B] RETURN
+     0x3582 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=Work_Zone[2], condition_work_offset=1*)
+     0x3589 [0x1A] CALL_SUBROUTINE(address=0x1E46)
+     0x358C [0x1B] RETURN
+     0x358D [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[2]
+     0x3592 [0x03] Work_Zone[1] = 2*
+     0x3597 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+     0x35A0 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x35B2
+     0x35A8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
+     0x35AF [0x01] GOTO 0x35B9
+     0x35B2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
+     0x35B9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x35BB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x35BD [0x03] Work_Zone_Memorize[0] = Work_Zone[2]
+     0x35C2 [0x03] ExtData[1]->WorkLocal[27] = 0*
+     0x35C7 [0x1B] RETURN
+     0x35C8 [0x02] IF !(Work_Zone[2] >= 0*) GOTO 0x35D9
+     0x35D0 [0x03] ExtData[1]->WorkLocal[27] = 4294967295*
+     0x35D5 [0x1B] RETURN
+     0x35D6 [0x01] GOTO 0x35EF
+     0x35D9 [0x02] IF !(Work_Zone[2] <= 31*) GOTO 0x35EA
+     0x35E1 [0x03] ExtData[1]->WorkLocal[27] = 4294967295*
+     0x35E6 [0x1B] RETURN
+     0x35E7 [0x01] GOTO 0x35EF
+     0x35EA [0x03] ExtData[1]->WorkLocal[27] = 0*
+     0x35EF [0x1B] RETURN
+     0x35F0 [0x02] IF !(0x0310 == 0x0410) GOTO 0x1005
+     0x35F8 [0x06] 0x0710 = 0
+     0x35FB [0x10] Work_Zone[8] <<= Work_Zone[9]
+     0x3600 [0x00] END_REQSTACK()
+     0x3601 [0x17] Work_Zone_1700[1] = cos(Work_Zone_1700[2]) * Work_Zone_1700[3]
+     0x3608 [0x04] DEPRECATED_NOP(unused=0x0517)
+     0x360B [0x17] Work_Zone_1700[6] = cos(Work_Zone_1700[7]) * Work_Zone_1700[8]
+     0x3612 [0x09] 0x0A17 |= (1 << 0x0B17)
+     0x3617 [0x17] Work_Zone_1700[12] = cos(Work_Zone_1700[13]) * Work_Zone_1700[14]
+     0x361E [0x0F] Work_Zone[23] ^= Work_Zone_Memorize[23]
+     0x3623 [0x17] Work_Zone_1700[18] = cos(Work_Zone_1700[19]) * Work_Zone_1700[20]
+     0x362A [0x15] 0x1617 /= Work_Zone_1700[23]
+     0x362F [0x17] Work_Zone_1700[24] = cos(Work_Zone_1700[25]) * Work_Zone_1700[26]
+     0x3636 [0x1B] RETURN
+     0x3637 [0x17] Work_Zone_1700[28] = cos(Work_Zone_1700[29]) * Work_Zone_1700[30]
+     0x363E [0x1F] MOVE_ENTITY: Update entity position (mode=23)
+     0x3640 [0x07] 0x0780 += 0x0780
+     0x3645 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975175/0x80078007))
+     0x364A [0x07] 0x0780 += 0x0780
+     0x364F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149548039/0x801F8007))
+     0x3654 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=0xE080, year=0xE180, month=0xE280, day=0xE380, weekday=0x0780, hour=0x0780, minute=0x4C80, moon=0x2E80)
+     0x3665 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2162524388/0x80E580E4))
+     0x366A [0xE6] UNKNOWN_0xE6
+     0x366B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975399/0x800780E7))
+     0x3670 [0x07] 0x4C80 += 0x2E80
+     0x3675 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2162524388/0x80E580E4))
+     0x367A [0xE6] UNKNOWN_0xE6
+     0x367B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975399/0x800780E7))
+     0x3680 [0x07] 0x1F80 += 0x2D80
+     0x3685 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2161344548/0x80D38024))
+     0x368A [0xD5] LOAD_EVENT_SCHEDULER_ALT8: Load scheduler 0x00002480 with entities [Unknown NPC (ID: 125831040/0x07800780), Unknown NPC (ID: 763371392/0x2D801F80)], work=0x80
+     0x369B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975400/0x800780E8))
+     0x36A0 [0x07] 0x2380 += 0x2E80
+     0x36A5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153611345/0x805D8051))
+     0x36AA [0xE8] UNKNOWN_0xE8
+     0x36AB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975401/0x800780E9))
+     0x36B0 [0x07] 0xEA80 += 0xEB80
+     0x36B5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163048684/0x80ED80EC))
+     0x36BA [0xEE] UNKNOWN_0xEE
+     0x36BB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975407/0x800780EF))
+     0x36C0 [0x07] 0xF080 += 0xF180
+     0x36C5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163441906/0x80F380F2))
+     0x36CA [0xF4] UNKNOWN_0xF4
+     0x36CB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975413/0x800780F5))
+     0x36D0 [0x07] 0xF680 += 0xF780
+     0x36D5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2163835128/0x80F980F8))
+     0x36DA [0xFA] UNKNOWN_0xFA
+     0x36DB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975419/0x800780FB))
+     0x36E0 [0x07] 0xFC80 += 0xFD80
+     0x36E5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164228350/0x80FF80FE))
+     0x36EA [0x00] END_REQSTACK()
+     0x36EB [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Unknown NPC (ID: 125831041/0x07800781))
+     0x36F1 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164490498/0x81038102))
+     0x36F6 [0x04] DEPRECATED_NOP(unused=0x0581)
+     0x36F9 [0x81] SET_ENTITY_BLINKING(blink_flag=0x06, entity=Unknown NPC (ID: 125896577/0x07810781))
+     0x36FF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164817927/0x81088007))
+     0x3704 [0x09] 0x0A81 |= (1 << 0x0B81)
+     0x3709 [0x81] SET_ENTITY_BLINKING(blink_flag=0x0C, entity=Unknown NPC (ID: 125898113/0x07810D81))
+     0x370F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165211143/0x810E8007))
+     0x3714 [0x0F] 0x1081 ^= 0x1181
+     0x3719 [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 125899649/0x07811381))
+     0x371F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165670164/0x81158114))
+     0x3724 [0x16] 0x1781 = sin(0x1881) * 0x1981
+     0x372B [0x81] SET_ENTITY_BLINKING(blink_flag=0x1A, entity=Unknown NPC (ID: 478223233/0x1C811B81))
+     0x3731 [0x81] SET_ENTITY_BLINKING(blink_flag=0x1D, entity=Unknown NPC (ID: 528555649/0x1F811E81))
+     0x3737 [0x81] SET_ENTITY_BLINKING(blink_flag=0x20, entity=Unknown NPC (ID: 125831041/0x07800781))
+     0x373D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2166456327/0x81218007))
+     0x3742 [0x22] ENTITY_HIDE_FLAG(enabled=0x81)
+     0x3744 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x3745 [0x81] SET_ENTITY_BLINKING(blink_flag=0x24, entity=Unknown NPC (ID: 645997953/0x26812581))
+     0x374B [0x81] SET_ENTITY_BLINKING(blink_flag=0x27, entity=Unknown NPC (ID: 696330369/0x29812881))
+     0x3751 [0x81] SET_ENTITY_BLINKING(blink_flag=0x07, entity=Unknown NPC (ID: 125831040/0x07800780))
+     0x3757 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975175/0x80078007))
+     0x375C [0x07] 0x0780 += 0x2A80
+     0x3761 [0x81] SET_ENTITY_BLINKING(blink_flag=0x2B, entity=Unknown NPC (ID: 763440257/0x2D812C81))
+     0x3767 [0x81] SET_ENTITY_BLINKING(blink_flag=0x2E, entity=Unknown NPC (ID: 813772673/0x30812F81))
+     0x376D [0x81] SET_ENTITY_BLINKING(blink_flag=0x31, entity=Unknown NPC (ID: 864105089/0x33813281))
+     0x3773 [0x81] SET_ENTITY_BLINKING(blink_flag=0x34, entity=Unknown NPC (ID: 914437505/0x36813581))
+     0x3779 [0x81] SET_ENTITY_BLINKING(blink_flag=0x37, entity=Unknown NPC (ID: 125909121/0x07813881))
+     0x377F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2168095033/0x813A8139))
+     0x3784 [0x3B] GET_ENTITY_POSITION(entity=Unknown NPC (ID: 1031879809/0x3D813C81), x_destination=0x3E81, y_destination=0x3F81, z_destination=0x4081)
+     0x378F [0x81] SET_ENTITY_BLINKING(blink_flag=0x41, entity=Unknown NPC (ID: 1115721345/0x42808E81))
+     0x3795 [0x81] SET_ENTITY_BLINKING(blink_flag=0x43, entity=Unknown NPC (ID: 1166099585/0x45814481))
+     0x379B [0x81] SET_ENTITY_BLINKING(blink_flag=0x46, entity=Unknown NPC (ID: 1216432001/0x48814781))
+     0x37A1 [0x81] SET_ENTITY_BLINKING(blink_flag=0x49, entity=Unknown NPC (ID: 125913729/0x07814A81))
+     0x37A7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975175/0x80078007))
+     0x37AC [0x07] 0x0780 += 0x4B80
+     0x37B1 [0x81] SET_ENTITY_BLINKING(blink_flag=0x4C, entity=Unknown NPC (ID: 1317096833/0x4E814D81))
+     0x37B7 [0x81] SET_ENTITY_BLINKING(blink_flag=0x4F, entity=Unknown NPC (ID: 1367429249/0x51815081))
+     0x37BD [0x81] SET_ENTITY_BLINKING(blink_flag=0x52, entity=Unknown NPC (ID: 125916033/0x07815381))
+     0x37C3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975175/0x80078007))
+     0x37C8 [0x07] 0x0780 += 0x0780
+     0x37CD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2169798663/0x81548007))
+     0x37D2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler 0x5C815B81 with entities [Unknown NPC (ID: 1484871553/0x58815781), Unknown NPC (ID: 1518426497/0x5A815981)], work=0x5681
+     0x37E1 [0x81] SET_ENTITY_BLINKING(blink_flag=0x07, entity=Unknown NPC (ID: 125831040/0x07800780))
+     0x37E7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975175/0x80078007))
+     0x37EC [0x07] 0x0780 += 0x5D80
+     0x37F1 [0x81] SET_ENTITY_BLINKING(blink_flag=0x5E, entity=Unknown NPC (ID: 1619091329/0x60815F81))
+     0x37F7 [0x81] SET_ENTITY_BLINKING(blink_flag=0x61, entity=Unknown NPC (ID: 1669423745/0x63816281))
+     0x37FD [0x81] SET_ENTITY_BLINKING(blink_flag=0x64, entity=Unknown NPC (ID: 1719756161/0x66816581))
+     0x3803 [0x81] SET_ENTITY_BLINKING(blink_flag=0x07, entity=Unknown NPC (ID: 125831040/0x07800780))
+     0x3809 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975175/0x80078007))
+```

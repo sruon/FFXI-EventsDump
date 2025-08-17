@@ -1,0 +1,158 @@
+# 17101331 - Engraved Tablet
+
+## Common Data
+
+| Field            | Value                  |
+|------------------|------------------------|
+| Zone             | Caedarva Mire (ID: 79) |
+| Block Size       | 200 bytes              |
+| Total Events     | 3                      |
+| References Count | 11                     |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [304](#event-304)     | 0x0001       |     85 |             23 |
+| [306](#event-306)     | 0x0056       |     40 |             12 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1F7F      |        8063 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x1F80      |        8064 |
+|       4 | 0x03FA      |        1018 |
+|       5 | 0x18FB      |        6395 |
+|       6 | 0xFFF50621  |  4294247969 |
+|       7 | 0xB97F4     |      759796 |
+|       8 | 0xFFFFD120  |  4294955296 |
+|       9 | 0x0400      |        1024 |
+|      10 | 0x1F81      |        8065 |
+
+## String References
+
+- **6395**: Lost key item: 3.
+- **8063**: Sprinkle some salt on the tablet? [Yes./No.]
+- **8064**: The stone tablet quickly absorbs the salt and begins giving off a metallic grating sound...
+- **8065**: The salt grains patter against the stone tablet and scatter all over the ground. You could have sworn hearing the tinkling sound of a bell...
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 304
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 85 bytes |
+| Instructions | 23       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 24 00 80 01 80  02 80 25 02 00 10 02 80    .$......%.....
+0010: 00 47 00 42 43 00 43 01  48 03 80 23 03 02 10 04  .G.BC.C.H..#....
+0020: 80 48 05 80 23 03 01 10  01 80 29 01 F0 FF FF 7F  .H..#.....).....
+0030: 04 47 00 06 80 07 80 08  80 09 80 47 01 29 01 F0  .G.........G.)..
+0040: FF FF 7F 05 01 52 00 02  00 10 01 80 00 52 00 01  .....R.......R..
+0050: 52 00 20 00 21 00                                 R. .!.          
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=8063*, default_option=1*, option_flags=0*)
+    → "Sprinkle some salt on the tablet? [Yes./No.]"
+  2: 0x000A [0x25] WAIT_DIALOG_SELECT()
+  3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0047
+  4: 0x0013 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  5: 0x0014 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  6: 0x0016 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  7: 0x0018 [0x48] [System] [8064*]:
+    → "The stone tablet quickly absorbs the salt and begins giving off a metallic grating sound..."
+  8: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x001C [0x03] Work_Zone[2] = 1018*
+ 10: 0x0021 [0x48] [System] [6395*]:
+    → "Lost key item: 3."
+ 11: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 12: 0x0025 [0x03] Work_Zone[1] = 1*
+ 13: 0x002A [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x04)
+ 14: 0x0031 [0x47] UPDATE_PLAYER_POS(-719.327*, 759.796*, -12.000*, yaw=90.0°*)
+ 15: 0x003B [0x47] WAIT_PLAYER_POS_UPDATE
+ 16: 0x003D [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x05)
+ 17: 0x0044 [0x01] GOTO 0x0052
+ 18: 0x0047 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0052
+ 19: 0x004F [0x01] GOTO 0x0052
+
+SUBROUTINE_0052:
+ 20: 0x0052 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 21: 0x0054 [0x21] END_EVENT
+ 22: 0x0055 [0x00] END_REQSTACK()
+```
+
+### Event 306
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0056   |
+| Data Size    | 40 bytes |
+| Instructions | 12       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:                   20 01  24 00 80 01 80 02 80 25         .$......%
+0060: 02 00 10 02 80 00 6F 00  48 0A 80 23 01 7A 00 02  ......o.H..#.z..
+0070: 00 10 01 80 00 7A 00 01  7A 00 20 00 21 00        .....z..z. .!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0056 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0058 [0x24] CREATE_DIALOG(message_id=8063*, default_option=1*, option_flags=0*)
+    → "Sprinkle some salt on the tablet? [Yes./No.]"
+  2: 0x005F [0x25] WAIT_DIALOG_SELECT()
+  3: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006F
+  4: 0x0068 [0x48] [System] [8065*]:
+    → "The salt grains patter against the stone tablet and scatter all over the ground. You could have sworn hearing the tinkling sound of a bell..."
+  5: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x006C [0x01] GOTO 0x007A
+  7: 0x006F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007A
+  8: 0x0077 [0x01] GOTO 0x007A
+
+SUBROUTINE_007A:
+  9: 0x007A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 10: 0x007C [0x21] END_EVENT
+ 11: 0x007D [0x00] END_REQSTACK()
+```

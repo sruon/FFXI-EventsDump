@@ -1,0 +1,305 @@
+# 17756274 - DoorKoru-Morus Manor
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Windurst Walls (ID: 239) |
+| Block Size       | 88 bytes                 |
+| Total Events     | 12                       |
+| References Count | 1                        |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [237](#event-237)        | 0x0001       |      2 |              2 |
+| [239](#event-239)        | 0x0003       |      2 |              2 |
+| [242](#event-242)        | 0x0005       |      2 |              2 |
+| [410](#event-410)        | 0x0007       |      1 |              1 |
+| [404](#event-404)        | 0x0008       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0009       |      6 |              4 |
+| [65535.2](#event-655352) | 0x000F       |      1 |              1 |
+| [407](#event-407)        | 0x0010       |      1 |              1 |
+| [412](#event-412)        | 0x0011       |      1 |              1 |
+| [417](#event-417)        | 0x0012       |      1 |              1 |
+| [419](#event-419)        | 0x0013       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x012C      |         300 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 237
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    4D 00                                           M.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x4D] EventEntity->StatusEvent = 9 // Close door
+  1: 0x0002 [0x00] END_REQSTACK()
+```
+
+### Event 239
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0003  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:          4D 00                                       M.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0003 [0x4D] EventEntity->StatusEvent = 9 // Close door
+  1: 0x0004 [0x00] END_REQSTACK()
+```
+
+### Event 242
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0005  |
+| Data Size    | 2 bytes |
+| Instructions | 2       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                4D 00                                   M.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0005 [0x4D] EventEntity->StatusEvent = 9 // Close door
+  1: 0x0006 [0x00] END_REQSTACK()
+```
+
+### Event 410
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0007  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                      00                                  .        
+```
+
+#### Opcodes
+
+```
+  0: 0x0007 [0x00] END_REQSTACK()
+```
+
+### Event 404
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0008  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                          00                               .       
+```
+
+#### Opcodes
+
+```
+  0: 0x0008 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0009  |
+| Data Size    | 6 bytes |
+| Instructions | 4       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                             4C 1C 00 80 4D 00              L...M. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0009 [0x4C] EventEntity->StatusEvent = 8 // Open door
+  1: 0x000A [0x1C] WAIT(300* ticks)
+  2: 0x000D [0x4D] EventEntity->StatusEvent = 9 // Close door
+  3: 0x000E [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000F  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                               00                 .
+```
+
+#### Opcodes
+
+```
+  0: 0x000F [0x00] END_REQSTACK()
+```
+
+### Event 407
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0010  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0010 [0x00] END_REQSTACK()
+```
+
+### Event 412
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0011  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0011 [0x00] END_REQSTACK()
+```
+
+### Event 417
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0012  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:       00                                            .             
+```
+
+#### Opcodes
+
+```
+  0: 0x0012 [0x00] END_REQSTACK()
+```
+
+### Event 419
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0013  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:          00                                          .            
+```
+
+#### Opcodes
+
+```
+  0: 0x0013 [0x00] END_REQSTACK()
+```

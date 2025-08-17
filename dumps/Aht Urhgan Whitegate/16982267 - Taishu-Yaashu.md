@@ -11,23 +11,23 @@
 
 ## List of Events
 
-| Event ID                  | Entrypoint   |   Size |   Instructions |
-|---------------------------|--------------|--------|----------------|
-| [65535](#event-65535)     | 0x0000       |      1 |              1 |
-| [2](#event-2)             | 0x0001       |     21 |              5 |
-| [3](#event-3)             | 0x0016       |     21 |              5 |
-| [65535.1](#event-65535-1) | 0x002B       |     21 |              4 |
-| [31](#event-31)           | 0x0040       |     11 |              5 |
-| [32](#event-32)           | 0x004B       |     11 |              5 |
-| [33](#event-33)           | 0x0056       |     11 |              5 |
-| [65535.2](#event-65535-2) | 0x0061       |     11 |              5 |
-| [65535.3](#event-65535-3) | 0x006C       |     17 |              4 |
-| [686](#event-686)         | 0x007D       |      1 |              1 |
-| [65535.4](#event-65535-4) | 0x007E       |     30 |              6 |
-| [65535.5](#event-65535-5) | 0x009C       |     14 |              4 |
-| [65535.6](#event-65535-6) | 0x00AA       |     14 |              4 |
-| [65535.7](#event-65535-7) | 0x00B8       |     14 |              4 |
-| [65535.8](#event-65535-8) | 0x00C6       |      3 |              2 |
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [2](#event-2)            | 0x0001       |     21 |              5 |
+| [3](#event-3)            | 0x0016       |     21 |              5 |
+| [65535.1](#event-655351) | 0x002B       |     21 |              4 |
+| [31](#event-31)          | 0x0040       |     11 |              5 |
+| [32](#event-32)          | 0x004B       |     11 |              5 |
+| [33](#event-33)          | 0x0056       |     11 |              5 |
+| [65535.2](#event-655352) | 0x0061       |     11 |              5 |
+| [65535.3](#event-655353) | 0x006C       |     17 |              4 |
+| [686](#event-686)        | 0x007D       |      1 |              1 |
+| [65535.4](#event-655354) | 0x007E       |     30 |              6 |
+| [65535.5](#event-655355) | 0x009C       |     14 |              4 |
+| [65535.6](#event-655356) | 0x00AA       |     14 |              4 |
+| [65535.7](#event-655357) | 0x00B8       |     14 |              4 |
+| [65535.8](#event-655358) | 0x00C6       |      3 |              2 |
 
 ## DAT References (imed_data)
 
@@ -54,6 +54,10 @@
 |      18 | 0x1079F     |       67487 |
 |      19 | 0xFFFEF28B  |  4294898315 |
 |      20 | 0x10719     |       67353 |
+
+## String References
+
+- **4872**: DEBUG: Press a button to continue.
 
 ## Events
 
@@ -180,7 +184,7 @@
 ```
   0: 0x0040 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0045 [0x48] [System] [4872*]:
-    → "DEBUG: Press a button to continue.\u007F1\u0000\u0007"
+    → "DEBUG: Press a button to continue."
   2: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0049 [0x21] END_EVENT
   4: 0x004A [0x00] END_REQSTACK()
@@ -208,7 +212,7 @@
 ```
   0: 0x004B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0050 [0x48] [System] [4872*]:
-    → "DEBUG: Press a button to continue.\u007F1\u0000\u0007"
+    → "DEBUG: Press a button to continue."
   2: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0054 [0x21] END_EVENT
   4: 0x0055 [0x00] END_REQSTACK()
@@ -236,7 +240,7 @@
 ```
   0: 0x0056 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005B [0x48] [System] [4872*]:
-    → "DEBUG: Press a button to continue.\u007F1\u0000\u0007"
+    → "DEBUG: Press a button to continue."
   2: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x005F [0x21] END_EVENT
   4: 0x0060 [0x00] END_REQSTACK()
@@ -263,7 +267,7 @@
 ```
   0: 0x0061 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0066 [0x48] [System] [4872*]:
-    → "DEBUG: Press a button to continue.\u007F1\u0000\u0007"
+    → "DEBUG: Press a button to continue."
   2: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x006A [0x21] END_EVENT
   4: 0x006B [0x00] END_REQSTACK()

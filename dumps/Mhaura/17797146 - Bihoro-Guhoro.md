@@ -1,0 +1,117 @@
+# 17797146 - Bihoro-Guhoro
+
+## Common Data
+
+| Field            | Value            |
+|------------------|------------------|
+| Zone             | Mhaura (ID: 249) |
+| Block Size       | 168 bytes        |
+| Total Events     | 2                |
+| References Count | 8                |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [750](#event-750)     | 0x0001       |    108 |             23 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0002      |           2 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x0028      |          40 |
+|       3 | 0x1C03      |        7171 |
+|       4 | 0x1C04      |        7172 |
+|       5 | 0x0001      |           1 |
+|       6 | 0x1C05      |        7173 |
+|       7 | 0x1C06      |        7174 |
+
+## String References
+
+- **7171**: Hello, did you know? They say that pirates of old hid a great treasure in a room somewhere in the Maze of Shakrami.
+- **7172**: Pirates in those days were very much different from the ones we have now, but pirates are pirates. They're all scary!
+- **7173**: Apparently, the pirates disguise their ship to look just like a ferry! You should be careful when you travel by sea between Mhaura and Selbina.
+- **7174**: I've always wondered...where do pirates live? I mean, they can't always be living on their ship. They must have a base somewhere...
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 750
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 108 bytes |
+| Instructions | 23        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    1E F0 FF FF 7F 6F 70  13 00 00 00 80 02 00 00   .....op........
+0010: 01 80 80 2F 00 66 02 80  F8 FF FF 7F F8 FF FF 7F  .../.f..........
+0020: 74 6C 6B 30 1D 03 80 23  1D 04 80 23 01 6B 00 02  tlk0...#...#.k..
+0030: 00 00 05 80 80 4D 00 66  02 80 F8 FF FF 7F F8 FF  .....M.f........
+0040: FF 7F 74 6C 6B 30 1D 06  80 23 01 6B 00 02 00 00  ..tlk0...#.k....
+0050: 00 80 80 6B 00 66 02 80  F8 FF FF 7F F8 FF FF 7F  ...k.f..........
+0060: 74 68 6B 31 1D 07 80 23  01 6B 00 21 00           thk1...#.k.!.   
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0008 [0x13] ExtData[1]->WorkLocal[0] = rand() % 2*
+  4: 0x000D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x002F
+  5: 0x0015 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
+  6: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7171*)
+    → "Hello, did you know? They say that pirates of old hid a great treasure in a room somewhere in the Maze of Shakrami."
+  7: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7172*)
+    → "Pirates in those days were very much different from the ones we have now, but pirates are pirates. They're all scary!"
+  9: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x002C [0x01] GOTO 0x006B
+ 11: 0x002F [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x004D
+ 12: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
+ 13: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7173*)
+    → "Apparently, the pirates disguise their ship to look just like a ferry! You should be careful when you travel by sea between Mhaura and Selbina."
+ 14: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x004A [0x01] GOTO 0x006B
+ 16: 0x004D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x006B
+ 17: 0x0055 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
+ 18: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7174*)
+    → "I've always wondered...where do pirates live? I mean, they can't always be living on their ship. They must have a base somewhere..."
+ 19: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 20: 0x0068 [0x01] GOTO 0x006B
+
+SUBROUTINE_006B:
+ 21: 0x006B [0x21] END_EVENT
+ 22: 0x006C [0x00] END_REQSTACK()
+```

@@ -1,0 +1,131 @@
+# 16879939 - Dilapidated Gate
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Misareaux Coast (ID: 25) |
+| Block Size       | 256 bytes                |
+| Total Events     | 2                        |
+| References Count | 10                       |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [553](#event-553)     | 0x0001       |    189 |             36 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1CCB      |        7371 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x00C8      |         200 |
+|       4 | 0x003C      |          60 |
+|       5 | 0x0013      |          19 |
+|       6 | 0x00A0      |         160 |
+|       7 | 0x00B4      |         180 |
+|       8 | 0x00E6      |         230 |
+|       9 | 0x00F0      |         240 |
+
+## String References
+
+- **7371**: Pass through the gate? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 553
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 189 bytes |
+| Instructions | 36        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 20 01 24 00 80  01 80 02 80 25 02 00 10    . .$......%...
+0010: 02 80 00 AA 00 43 00 43  01 46 01 42 45 03 80 F0  .....C.C.F.BE...
+0020: FF FF 7F F0 FF FF 7F 66  64 6F 31 02 80 1C 04 80  .......fdo1.....
+0030: 38 05 80 45 06 80 F0 FF  FF 7F F0 FF FF 7F 32 35  8..E..........25
+0040: 64 32 02 80 29 01 F0 FF  FF 7F 11 29 01 F0 FF FF  d2..)......)....
+0050: 7F 0F 45 03 80 F0 FF FF  7F F0 FF FF 7F 66 64 69  ..E..........fdi
+0060: 31 02 80 1C 04 80 4C 1C  04 80 27 01 F0 FF FF 7F  1.....L...'.....
+0070: 10 1C 07 80 45 03 80 F0  FF FF 7F F0 FF FF 7F 66  ....E..........f
+0080: 64 6F 31 02 80 1C 04 80  5C 00 08 80 5C 01 08 80  do1.....\...\...
+0090: 4D 46 00 1C 09 80 45 03  80 F0 FF FF 7F F0 FF FF  MF....E.........
+00A0: 7F 66 64 69 31 02 80 01  BA 00 02 00 10 01 80 00  .fdi1...........
+00B0: BA 00 03 01 10 02 80 01  BA 00 20 00 21 00        .......... .!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7371*, default_option=1*, option_flags=0*)
+    → "Pass through the gate? [Yes./No.]"
+  3: 0x000C [0x25] WAIT_DIALOG_SELECT()
+  4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AA
+  5: 0x0015 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  6: 0x0017 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  7: 0x0019 [0x46] CAMERA_CONTROL: Disable user control
+  8: 0x001B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  9: 0x001C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 10: 0x002D [0x1C] WAIT(60* ticks)
+ 11: 0x0030 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 12: 0x0033 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "25d2" with entities [LocalPlayer, LocalPlayer], work=[160*, 0*]
+ 13: 0x0044 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x11)
+ 14: 0x004B [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x0F)
+ 15: 0x0052 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 16: 0x0063 [0x1C] WAIT(60* ticks)
+ 17: 0x0066 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 18: 0x0067 [0x1C] WAIT(60* ticks)
+ 19: 0x006A [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x10)
+ 20: 0x0071 [0x1C] WAIT(180* ticks)
+ 21: 0x0074 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 22: 0x0085 [0x1C] WAIT(60* ticks)
+ 23: 0x0088 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 230*
+ 24: 0x008C [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 230*
+ 25: 0x0090 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 26: 0x0091 [0x46] CAMERA_CONTROL: Restore default settings
+ 27: 0x0093 [0x1C] WAIT(240* ticks)
+ 28: 0x0096 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 29: 0x00A7 [0x01] GOTO 0x00BA
+ 30: 0x00AA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00BA
+ 31: 0x00B2 [0x03] Work_Zone[1] = 0*
+ 32: 0x00B7 [0x01] GOTO 0x00BA
+
+SUBROUTINE_00BA:
+ 33: 0x00BA [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 34: 0x00BC [0x21] END_EVENT
+ 35: 0x00BD [0x00] END_REQSTACK()
+```

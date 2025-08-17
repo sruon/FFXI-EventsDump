@@ -1,0 +1,178 @@
+# 16921040 - Particle Gate
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | The Garden of Ru'Hmet (ID: 35) |
+| Block Size       | 520 bytes                      |
+| Total Events     | 2                              |
+| References Count | 14                             |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [110](#event-110)     | 0x0001       |    439 |             61 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1DD5      |        7637 |
+|       1 | 0x1DD8      |        7640 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x00C8      |         200 |
+|       5 | 0x003C      |          60 |
+|       6 | 0x0013      |          19 |
+|       7 | 0x005E      |          94 |
+|       8 | 0x0078      |         120 |
+|       9 | 0x00F0      |         240 |
+|      10 | 0x012C      |         300 |
+|      11 | 0x005A      |          90 |
+|      12 | 0x00B4      |         180 |
+|      13 | 0x00C9      |         201 |
+
+## String References
+
+- **7637**: You see faint evidence of someone's effort to batter down the portal...
+- **7640**: Investigate the portal? [Yes./No.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 110
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 439 bytes |
+| Instructions | 61        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    20 01 48 00 80 23 24  01 80 02 80 03 80 25 02    .H..#$......%.
+0010: 00 10 03 80 00 A4 01 43  00 43 01 46 01 42 45 04  .......C.C.F.BE.
+0020: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 03 80 1C  .........fdo1...
+0030: 05 80 38 06 80 45 07 80  F0 FF FF 7F F0 FF FF 7F  ..8..E..........
+0040: 6B 65 79 6E 03 80 29 01  F0 FF FF 7F 0B 45 04 80  keyn..)......E..
+0050: F0 FF FF 7F F0 FF FF 7F  66 64 69 31 03 80 1C 08  ........fdi1....
+0060: 80 4C 1C 09 80 27 01 F0  FF FF 7F 0C 1C 05 80 45  .L...'.........E
+0070: 04 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 03 80  ..........fdo1..
+0080: 1C 05 80 38 06 80 45 07  80 F0 FF FF 7F F0 FF FF  ...8..E.........
+0090: 7F 6B 69 74 61 03 80 2D  F8 FF FF 7F F8 FF FF 7F  .kita..-........
+00A0: 61 6C 70 31 29 01 F0 FF  FF 7F 09 1C 05 80 27 01  alp1).........'.
+00B0: F0 FF FF 7F 0A 45 04 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
+00C0: 66 64 69 31 03 80 1C 0A  80 2D F8 FF FF 7F F8 FF  fdi1.....-......
+00D0: FF 7F 73 31 35 34 2D F8  FF FF 7F F8 FF FF 7F 70  ..s154-........p
+00E0: 61 6E 65 1C 0B 80 2D F8  FF FF 7F F8 FF FF 7F 6D  ane...-........m
+00F0: 69 7A 6F 1C 0C 80 2D F8  FF FF 7F F8 FF FF 7F 73  izo...-........s
+0100: 6C 69 64 1C 04 80 45 04  80 F0 FF FF 7F F0 FF FF  lid...E.........
+0110: 7F 6F 76 6C 31 03 80 45  07 80 F0 FF FF 7F F0 FF  .ovl1..E........
+0120: FF 7F 6B 69 74 32 03 80  1C 05 80 2D F8 FF FF 7F  ..kit2.....-....
+0130: F8 FF FF 7F 6B 63 68 61  1C 0C 80 45 0D 80 F0 FF  ....kcha...E....
+0140: FF 7F F0 FF FF 7F 77 68  6F 31 03 80 1C 05 80 2D  ......who1.....-
+0150: F8 FF FF 7F F8 FF FF 7F  6B 69 6C 61 2D F8 FF FF  ........kila-...
+0160: 7F F8 FF FF 7F 6B 69 6C  63 2D F8 FF FF 7F F8 FF  .....kilc-......
+0170: FF 7F 6B 69 6C 70 52 07  80 F0 FF FF 7F F0 FF FF  ..kilpR.........
+0180: 7F 6B 69 74 61 4D 03 01  10 02 80 46 00 1C 0C 80  .kitaM.....F....
+0190: 45 0D 80 F0 FF FF 7F F0  FF FF 7F 77 68 69 31 03  E..........whi1.
+01A0: 80 01 B4 01 02 00 10 02  80 00 B4 01 03 01 10 03  ................
+01B0: 80 01 B4 01 20 00 21 00                           .... .!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0003 [0x48] [System] [7637*]:
+    → "You see faint evidence of someone's effort to batter down the portal..."
+  2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x0007 [0x24] CREATE_DIALOG(message_id=7640*, default_option=1*, option_flags=0*)
+    → "Investigate the portal? [Yes./No.]"
+  4: 0x000E [0x25] WAIT_DIALOG_SELECT()
+  5: 0x000F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A4
+  6: 0x0017 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  7: 0x0019 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  8: 0x001B [0x46] CAMERA_CONTROL: Disable user control
+  9: 0x001D [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 10: 0x001E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 11: 0x002F [0x1C] WAIT(60* ticks)
+ 12: 0x0032 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 13: 0x0035 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "keyn" with entities [LocalPlayer, LocalPlayer], work=[94*, 0*]
+ 14: 0x0046 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x0B)
+ 15: 0x004D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 16: 0x005E [0x1C] WAIT(120* ticks)
+ 17: 0x0061 [0x4C] EventEntity->StatusEvent = 8 // Open door
+ 18: 0x0062 [0x1C] WAIT(240* ticks)
+ 19: 0x0065 [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x0C)
+ 20: 0x006C [0x1C] WAIT(60* ticks)
+ 21: 0x006F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 22: 0x0080 [0x1C] WAIT(60* ticks)
+ 23: 0x0083 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 24: 0x0086 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "kita" with entities [LocalPlayer, LocalPlayer], work=[94*, 0*]
+ 25: 0x0097 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "alp1" with entities [EventEntity, EventEntity]
+ 26: 0x00A4 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x09)
+ 27: 0x00AB [0x1C] WAIT(60* ticks)
+ 28: 0x00AE [0x27] REQ_SET(priority=0x01, entity_id=LocalPlayer, tag_num=0x0A)
+ 29: 0x00B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 30: 0x00C6 [0x1C] WAIT(300* ticks)
+ 31: 0x00C9 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "s154" with entities [EventEntity, EventEntity]
+ 32: 0x00D6 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "pane" with entities [EventEntity, EventEntity]
+ 33: 0x00E3 [0x1C] WAIT(90* ticks)
+ 34: 0x00E6 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mizo" with entities [EventEntity, EventEntity]
+ 35: 0x00F3 [0x1C] WAIT(180* ticks)
+ 36: 0x00F6 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "slid" with entities [EventEntity, EventEntity]
+ 37: 0x0103 [0x1C] WAIT(200* ticks)
+ 38: 0x0106 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 39: 0x0117 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "kit2" with entities [LocalPlayer, LocalPlayer], work=[94*, 0*]
+ 40: 0x0128 [0x1C] WAIT(60* ticks)
+ 41: 0x012B [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kcha" with entities [EventEntity, EventEntity]
+ 42: 0x0138 [0x1C] WAIT(180* ticks)
+ 43: 0x013B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 44: 0x014C [0x1C] WAIT(60* ticks)
+ 45: 0x014F [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kila" with entities [EventEntity, EventEntity]
+ 46: 0x015C [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kilc" with entities [EventEntity, EventEntity]
+ 47: 0x0169 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kilp" with entities [EventEntity, EventEntity]
+ 48: 0x0176 [0x52] END_LOAD_SCHEDULER: End scheduler "kita" with entities [LocalPlayer, LocalPlayer], work=94*
+ 49: 0x0185 [0x4D] EventEntity->StatusEvent = 9 // Close door
+ 50: 0x0186 [0x03] Work_Zone[1] = 1*
+ 51: 0x018B [0x46] CAMERA_CONTROL: Restore default settings
+ 52: 0x018D [0x1C] WAIT(180* ticks)
+ 53: 0x0190 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 54: 0x01A1 [0x01] GOTO 0x01B4
+ 55: 0x01A4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01B4
+ 56: 0x01AC [0x03] Work_Zone[1] = 0*
+ 57: 0x01B1 [0x01] GOTO 0x01B4
+
+SUBROUTINE_01B4:
+ 58: 0x01B4 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 59: 0x01B6 [0x21] END_EVENT
+ 60: 0x01B7 [0x00] END_REQSTACK()
+```

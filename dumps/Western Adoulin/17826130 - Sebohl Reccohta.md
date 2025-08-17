@@ -1,0 +1,1091 @@
+# 17826130 - Sebohl Reccohta
+
+## Common Data
+
+| Field            | Value                     |
+|------------------|---------------------------|
+| Zone             | Western Adoulin (ID: 256) |
+| Block Size       | 3848 bytes                |
+| Total Events     | 3                         |
+| References Count | 117                       |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [7571](#event-7571)   | 0x0001       |     13 |              5 |
+| [7501](#event-7501)   | 0x000E       |   3338 |            570 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x000F      |          15 |
+|       2 | 0x0003      |           3 |
+|       3 | 0x2F06      |       12038 |
+|       4 | 0x2EF9      |       12025 |
+|       5 | 0x40000000  |  1073741824 |
+|       6 | 0x2EFE      |       12030 |
+|       7 | 0x2F00      |       12032 |
+|       8 | 0x0001      |           1 |
+|       9 | 0x0010      |          16 |
+|      10 | 0x001F      |          31 |
+|      11 | 0x0009      |           9 |
+|      12 | 0x0008      |           8 |
+|      13 | 0x0002      |           2 |
+|      14 | 0xFFFFFFFF  |  4294967295 |
+|      15 | 0x2F07      |       12039 |
+|      16 | 0x0004      |           4 |
+|      17 | 0x2F08      |       12040 |
+|      18 | 0x2EFB      |       12027 |
+|      19 | 0x000E      |          14 |
+|      20 | 0x0007      |           7 |
+|      21 | 0x2EFF      |       12031 |
+|      22 | 0x0006      |           6 |
+|      23 | 0x2F09      |       12041 |
+|      24 | 0x000C      |          12 |
+|      25 | 0x0020      |          32 |
+|      26 | 0x025D      |         605 |
+|      27 | 0x03FD      |        1021 |
+|      28 | 0x03FC      |        1020 |
+|      29 | 0x1772      |        6002 |
+|      30 | 0x1774      |        6004 |
+|      31 | 0x1776      |        6006 |
+|      32 | 0x1773      |        6003 |
+|      33 | 0x1775      |        6005 |
+|      34 | 0x1777      |        6007 |
+|      35 | 0x0005      |           5 |
+|      36 | 0x00FA      |         250 |
+|      37 | 0x01F4      |         500 |
+|      38 | 0x03E8      |        1000 |
+|      39 | 0x6D9C      |       28060 |
+|      40 | 0x6E2A      |       28202 |
+|      41 | 0x6EB5      |       28341 |
+|      42 | 0x6CFF      |       27903 |
+|      43 | 0x3A98      |       15000 |
+|      44 | 0x7530      |       30000 |
+|      45 | 0x096C      |        2412 |
+|      46 | 0x096D      |        2413 |
+|      47 | 0x096E      |        2414 |
+|      48 | 0x096F      |        2415 |
+|      49 | 0x0970      |        2416 |
+|      50 | 0x0971      |        2417 |
+|      51 | 0x0972      |        2418 |
+|      52 | 0x0973      |        2419 |
+|      53 | 0x0974      |        2420 |
+|      54 | 0x0975      |        2421 |
+|      55 | 0x0976      |        2422 |
+|      56 | 0x0977      |        2423 |
+|      57 | 0x0978      |        2424 |
+|      58 | 0x0979      |        2425 |
+|      59 | 0x097A      |        2426 |
+|      60 | 0x097B      |        2427 |
+|      61 | 0x097C      |        2428 |
+|      62 | 0x097D      |        2429 |
+|      63 | 0x097E      |        2430 |
+|      64 | 0x097F      |        2431 |
+|      65 | 0x0980      |        2432 |
+|      66 | 0x0981      |        2433 |
+|      67 | 0x0982      |        2434 |
+|      68 | 0x0983      |        2435 |
+|      69 | 0x0984      |        2436 |
+|      70 | 0x0985      |        2437 |
+|      71 | 0x0986      |        2438 |
+|      72 | 0x0987      |        2439 |
+|      73 | 0x0988      |        2440 |
+|      74 | 0x0989      |        2441 |
+|      75 | 0x098A      |        2442 |
+|      76 | 0x098B      |        2443 |
+|      77 | 0x098C      |        2444 |
+|      78 | 0x098D      |        2445 |
+|      79 | 0x098E      |        2446 |
+|      80 | 0x0A49      |        2633 |
+|      81 | 0x0AE9      |        2793 |
+|      82 | 0x0B16      |        2838 |
+|      83 | 0x0B1C      |        2844 |
+|      84 | 0x0B1D      |        2845 |
+|      85 | 0x0B1E      |        2846 |
+|      86 | 0x0A4F      |        2639 |
+|      87 | 0x000A      |          10 |
+|      88 | 0x0BB8      |        3000 |
+|      89 | 0x1388      |        5000 |
+|      90 | 0x1B58      |        7000 |
+|      91 | 0x2328      |        9000 |
+|      92 | 0x2AF8      |       11000 |
+|      93 | 0x98967F    |     9999999 |
+|      94 | 0x08BC      |        2236 |
+|      95 | 0x08BD      |        2237 |
+|      96 | 0x08BE      |        2238 |
+|      97 | 0x08BF      |        2239 |
+|      98 | 0x08C0      |        2240 |
+|      99 | 0x08C1      |        2241 |
+|     100 | 0x08C2      |        2242 |
+|     101 | 0x08C3      |        2243 |
+|     102 | 0x08C4      |        2244 |
+|     103 | 0x08C5      |        2245 |
+|     104 | 0x08C6      |        2246 |
+|     105 | 0x08C7      |        2247 |
+|     106 | 0x4E20      |       20000 |
+|     107 | 0x9C40      |       40000 |
+|     108 | 0x086D      |        2157 |
+|     109 | 0x3047      |       12359 |
+|     110 | 0x3048      |       12360 |
+|     111 | 0x0013      |          19 |
+|     112 | 0x0014      |          20 |
+|     113 | 0x001E      |          30 |
+|     114 | 0x0028      |          40 |
+|     115 | 0x0044      |          68 |
+|     116 | 0x0041      |          65 |
+
+## String References
+
+- **12025**: Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]
+- **12027**: Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
+- **12030**: $1 can be purchased for $2 bayld.
+- **12031**: That $3 can be purchased for $2 bayld.
+- **12032**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
+- **12038**: What say you to looking over our selection of Pioneers' Coalition tools?
+- **12039**: Care to purrruse our selection of Pioneers' Coalition equipment?
+- **12040**: Need help making your Mog Garden the greatest around? Then I'm the one to ask!
+- **12041**: I don't know which is more astounding--the superb lessons in gathering techniques we offer to pioneers or the contributions you can make to the colonization movement after you've finished them!
+- **12359**: Excuse me, but I do not believe you have $6, do you?
+- **12360**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 7571
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 13 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    05 16 00 03 17 00 00  80 1A 4E 0B 21 00         .........N.!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x05] ExtData[1]->WorkLocal[22] = 1
+  1: 0x0004 [0x03] ExtData[1]->WorkLocal[23] = 0*
+  2: 0x0009 [0x1A] CALL_SUBROUTINE(address=0x0B4E)
+  3: 0x000C [0x21] END_EVENT
+  4: 0x000D [0x00] END_REQSTACK()
+```
+
+### Event 7501
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x000E     |
+| Data Size    | 3338 bytes |
+| Instructions | 124        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                            1A 51                .Q
+0010: 02 21 00 1E F0 FF FF 7F  06 00 00 06 05 00 06 06  .!..............
+0020: 00 06 07 00 06 09 00 06  08 00 03 05 00 03 10 03  ................
+0030: 06 00 04 10 03 07 00 05  10 41 00 80 01 80 06 00  .........A......
+0040: 08 00 41 00 80 02 80 05  00 09 00 1D 03 80 23 06  ..A...........#.
+0050: 01 00 06 02 00 05 04 00  02 01 00 00 80 00 29 01  ..............).
+0060: 1A 2A 01 1A 17 02 03 02  10 07 00 24 04 80 02 00  .*.........$....
+0070: 00 00 25 02 00 10 00 80  00 86 00 03 01 10 05 80  ..%.............
+0080: 05 01 00 01 86 00 03 02  00 00 10 02 01 00 00 80  ................
+0090: 00 26 01 06 0A 00 03 0A  00 02 00 0C 0A 00 9D 00  .&..............
+00A0: 3E 09 03 10 0A 00 9D 00  7E 09 04 10 0A 00 9D 00  >.......~.......
+00B0: 5E 09 0D 00 0A 00 06 12  00 02 0D 00 00 80 00 C7  ^...............
+00C0: 00 05 12 00 01 D9 00 0C  0D 00 3E 08 00 0D 00 D4  ..........>.....
+00D0: 00 01 D9 00 14 04 10 02  80 93 03 10 1D 06 80 23  ...............#
+00E0: 93 00 80 03 02 10 07 00  24 07 80 04 00 00 80 25  ........$......%
+00F0: 02 00 10 00 80 00 16 01  40 00 80 01 80 01 10 08  ........@.......
+0100: 80 40 09 80 0A 80 01 10  0A 00 43 00 43 01 03 07  .@........C.C...
+0110: 00 09 10 01 21 01 02 00  10 08 80 00 21 01 01 21  ....!.......!..!
+0120: 01 03 04 00 00 10 01 58  00 1B 1A E4 08 06 0E 00  .......X........
+0130: 06 0D 00 06 11 00 02 0E  00 0B 80 03 99 01 9D 00  ................
+0140: 5E 09 0D 00 0E 00 06 12  00 02 0D 00 00 80 00 57  ^..............W
+0150: 01 05 12 00 01 78 01 0C  0D 00 3E 08 00 0D 00 67  .....x....>....g
+0160: 01 05 12 00 01 78 01 07  0D 00 0C 80 3E 08 00 0D  .....x......>...
+0170: 00 78 01 03 12 00 0D 80  02 12 00 00 80 02 93 01  .x..............
+0180: 9D 00 3E 09 10 00 0E 00  9D 05 FE 08 10 00 0E 00  ..>.............
+0190: 01 93 01 0B 0E 00 01 36  01 06 0E 00 02 0E 00 0B  .......6........
+01A0: 80 03 16 02 9D 00 5E 09  0D 00 0E 00 06 12 00 02  ......^.........
+01B0: 0D 00 00 80 00 BD 01 05  12 00 01 DE 01 0C 0D 00  ................
+01C0: 3E 08 00 0D 00 CD 01 05  12 00 01 DE 01 07 0D 00  >...............
+01D0: 0C 80 3E 08 00 0D 00 DE  01 03 12 00 0D 80 02 12  ..>.............
+01E0: 00 00 80 02 10 02 03 11  00 0E 00 07 11 00 09 80  ................
+01F0: 9D 00 7E 09 10 00 0E 00  02 12 00 0D 80 00 05 02  ..~.............
+0200: 14 10 00 02 80 9D 05 FE  08 10 00 11 00 01 10 02  ................
+0210: 0B 0E 00 01 9C 01 1B 06  0E 00 06 00 00 02 0E 00  ................
+0220: 0B 80 03 42 02 9D 00 FE  08 10 00 0E 00 02 10 00  ...B............
+0230: 00 80 00 3C 02 3C 00 00  0E 00 08 80 0B 0E 00 01  ...<.<..........
+0240: 1D 02 40 0B 80 0A 80 00  00 0E 80 10 00 00 08 80  ..@.............
+0250: 1B 06 00 00 06 05 00 06  06 00 06 07 00 06 09 00  ................
+0260: 06 08 00 03 05 00 03 10  03 06 00 04 10 03 07 00  ................
+0270: 05 10 41 00 80 01 80 06  00 08 00 41 00 80 02 80  ..A........A....
+0280: 05 00 09 00 1D 0F 80 23  06 01 00 02 01 00 00 80  .......#........
+0290: 00 51 03 1A 52 03 1A 3F  04 03 02 10 07 00 24 04  .Q..R..?......$.
+02A0: 80 02 00 00 00 25 02 00  10 00 80 00 B9 02 03 01  .....%..........
+02B0: 10 05 80 05 01 00 01 B9  02 03 02 00 00 10 02 01  ................
+02C0: 00 00 80 00 4E 03 06 0A  00 03 0A 00 02 00 0C 0A  ....N...........
+02D0: 00 9D 00 9E 09 03 10 0A  00 9D 00 BE 09 04 10 0A  ................
+02E0: 00 9D 00 AE 09 0D 00 0A  00 06 12 00 02 0D 00 00  ................
+02F0: 80 00 FA 02 05 12 00 01  0C 03 0C 0D 00 3E 08 00  .............>..
+0300: 0D 00 07 03 01 0C 03 14  04 10 02 80 93 03 10 1D  ................
+0310: 06 80 23 93 00 80 03 02  10 07 00 24 07 80 08 80  ..#........$....
+0320: 00 80 25 02 00 10 00 80  00 43 03 05 01 00 40 00  ..%......C....@.
+0330: 80 01 80 01 10 0D 80 40  09 80 0A 80 01 10 0A 00  .......@........
+0340: 01 4E 03 02 00 10 08 80  00 4E 03 01 4E 03 01 8B  .N.......N..N...
+0350: 02 1B 1A E4 08 06 0E 00  06 0D 00 06 11 00 02 0E  ................
+0360: 00 10 80 03 C1 03 9D 00  AE 09 0D 00 0E 00 06 12  ................
+0370: 00 02 0D 00 00 80 00 7F  03 05 12 00 01 A0 03 0C  ................
+0380: 0D 00 3E 08 00 0D 00 8F  03 05 12 00 01 A0 03 07  ..>.............
+0390: 0D 00 0C 80 3E 08 00 0D  00 A0 03 03 12 00 0D 80  ....>...........
+03A0: 02 12 00 00 80 02 BB 03  9D 00 9E 09 10 00 0E 00  ................
+03B0: 9D 05 FE 08 10 00 0E 00  01 BB 03 0B 0E 00 01 5E  ...............^
+03C0: 03 06 0E 00 02 0E 00 10  80 03 3E 04 9D 00 AE 09  ..........>.....
+03D0: 0D 00 0E 00 06 12 00 02  0D 00 00 80 00 E5 03 05  ................
+03E0: 12 00 01 06 04 0C 0D 00  3E 08 00 0D 00 F5 03 05  ........>.......
+03F0: 12 00 01 06 04 07 0D 00  0C 80 3E 08 00 0D 00 06  ..........>.....
+0400: 04 03 12 00 0D 80 02 12  00 00 80 02 38 04 03 11  ............8...
+0410: 00 0E 00 07 11 00 09 80  9D 00 BE 09 10 00 0E 00  ................
+0420: 02 12 00 0D 80 00 2D 04  14 10 00 02 80 9D 05 FE  ......-.........
+0430: 08 10 00 11 00 01 38 04  0B 0E 00 01 C4 03 1B 06  ......8.........
+0440: 0E 00 06 00 00 02 0E 00  10 80 03 6A 04 9D 00 FE  ...........j....
+0450: 08 10 00 0E 00 02 10 00  00 80 00 64 04 3C 00 00  ...........d.<..
+0460: 0E 00 08 80 0B 0E 00 01  45 04 40 10 80 0A 80 00  ........E.@.....
+0470: 00 0E 80 10 00 00 08 80  1B 1E F0 FF FF 7F 06 00  ................
+0480: 00 06 05 00 06 06 00 06  07 00 06 09 00 06 08 00  ................
+0490: 03 05 00 03 10 03 06 00  04 10 03 07 00 05 10 41  ...............A
+04A0: 00 80 01 80 06 00 08 00  41 00 80 02 80 05 00 09  ........A.......
+04B0: 00 1D 11 80 23 06 01 00  02 01 00 00 80 00 B4 05  ....#...........
+04C0: 1A B5 05 03 02 10 07 00  24 12 80 02 00 00 00 25  ........$......%
+04D0: 02 00 10 00 80 00 E3 04  03 01 10 05 80 05 01 00  ................
+04E0: 01 E3 04 03 02 00 00 10  02 01 00 00 80 00 B1 05  ................
+04F0: 06 0A 00 03 0A 00 02 00  0C 0A 00 41 13 80 0A 80  ...........A....
+0500: 05 00 13 00 03 0B 00 0A  00 14 0B 00 02 80 03 0C  ................
+0510: 00 0B 00 07 0C 00 02 80  0C 0C 00 41 0B 00 0C 00  ...........A....
+0520: 13 00 0F 00 0C 0F 00 14  0A 00 14 80 07 0A 00 0F  ................
+0530: 00 9D 00 CE 09 03 10 0A  00 9D 00 8E 0A 04 10 0A  ................
+0540: 00 9D 00 2E 0A 0D 00 0A  00 06 12 00 02 0D 00 00  ................
+0550: 80 00 57 05 01 75 05 0C  0D 00 3E 08 00 0D 00 64  ..W..u....>....d
+0560: 05 01 75 05 07 0D 00 0C  80 3E 08 00 0D 00 75 05  ..u......>....u.
+0570: 14 04 10 02 80 1D 15 80  23 03 02 10 07 00 24 07  ........#.....$.
+0580: 80 08 80 00 80 25 02 00  10 00 80 00 A6 05 05 01  .....%..........
+0590: 00 40 00 80 01 80 01 10  02 80 40 09 80 0A 80 01  .@........@.....
+05A0: 10 0A 00 01 B1 05 02 00  10 08 80 00 B1 05 01 B1  ................
+05B0: 05 01 B8 04 1B 1A E4 08  06 0E 00 06 0D 00 06 11  ................
+05C0: 00 06 00 00 41 13 80 0A  80 05 00 13 00 06 0E 00  ....A...........
+05D0: 02 0E 00 16 80 03 A5 06  03 0B 00 0E 00 14 0B 00  ................
+05E0: 02 80 03 0C 00 0B 00 07  0C 00 02 80 0C 0C 00 41  ...............A
+05F0: 0B 00 0C 00 13 00 0F 00  02 0F 00 00 80 02 98 06  ................
+0600: 0C 0F 00 03 0A 00 0E 00  14 0A 00 14 80 07 0A 00  ................
+0610: 0F 00 9D 00 2E 0A 0D 00  0A 00 06 12 00 02 0D 00  ................
+0620: 00 80 00 2B 06 05 12 00  01 4C 06 0C 0D 00 3E 08  ...+.....L....>.
+0630: 00 0D 00 3B 06 05 12 00  01 4C 06 07 0D 00 0C 80  ...;.....L......
+0640: 3E 08 00 0D 00 4C 06 03  12 00 0D 80 02 12 00 00  >....L..........
+0650: 80 02 8E 06 9D 00 CE 09  11 00 0A 00 9D 05 FE 08  ................
+0660: 11 00 0E 00 03 14 00 09  80 07 14 00 0E 00 9D 00  ................
+0670: 8E 0A 11 00 0A 00 02 12  00 0D 80 00 83 06 14 11  ................
+0680: 00 02 80 9D 05 FE 08 11  00 14 00 01 95 06 3C 00  ..............<.
+0690: 00 0E 00 08 80 01 9F 06  3C 00 00 0E 00 08 80 0B  ........<.......
+06A0: 0E 00 01 D0 05 10 00 00  08 80 40 14 80 0A 80 00  ..........@.....
+06B0: 00 0E 80 1B 1E F0 FF FF  7F 06 00 00 06 05 00 06  ................
+06C0: 06 00 06 07 00 06 09 00  06 08 00 03 05 00 03 10  ................
+06D0: 03 06 00 04 10 03 07 00  05 10 41 00 80 01 80 06  ..........A.....
+06E0: 00 08 00 41 00 80 02 80  05 00 09 00 1D 17 80 23  ...A...........#
+06F0: 06 01 00 02 01 00 00 80  00 B3 07 1A B4 07 1A A1  ................
+0700: 08 03 02 10 07 00 24 12  80 02 00 00 00 25 02 00  ......$......%..
+0710: 10 00 80 00 21 07 03 01  10 05 80 05 01 00 01 21  ....!..........!
+0720: 07 03 02 00 00 10 02 01  00 00 80 00 B0 07 06 0A  ................
+0730: 00 03 0A 00 02 00 0C 0A  00 9D 00 EE 0A 03 10 0A  ................
+0740: 00 9D 00 2E 0B 04 10 0A  00 9D 00 0E 0B 0D 00 0A  ................
+0750: 00 06 12 00 02 0D 00 00  80 00 62 07 05 12 00 01  ..........b.....
+0760: 74 07 0C 0D 00 3E 08 00  0D 00 6F 07 01 74 07 14  t....>....o..t..
+0770: 04 10 02 80 1D 15 80 23  03 02 10 07 00 24 07 80  .......#.....$..
+0780: 08 80 00 80 25 02 00 10  00 80 00 A5 07 05 01 00  ....%...........
+0790: 40 00 80 01 80 01 10 10  80 40 09 80 0A 80 01 10  @........@......
+07A0: 0A 00 01 B0 07 02 00 10  08 80 00 B0 07 01 B0 07  ................
+07B0: 01 F3 06 1B 1A E4 08 06  0E 00 06 0D 00 06 11 00  ................
+07C0: 02 0E 00 18 80 03 23 08  9D 00 0E 0B 0D 00 0E 00  ......#.........
+07D0: 06 12 00 02 0D 00 00 80  00 E1 07 05 12 00 01 02  ................
+07E0: 08 0C 0D 00 3E 08 00 0D  00 F1 07 05 12 00 01 02  ....>...........
+07F0: 08 07 0D 00 0C 80 3E 08  00 0D 00 02 08 03 12 00  ......>.........
+0800: 0D 80 02 12 00 00 80 02  1D 08 9D 00 EE 0A 10 00  ................
+0810: 0E 00 9D 05 FE 08 10 00  0E 00 01 1D 08 0B 0E 00  ................
+0820: 01 C0 07 06 0E 00 02 0E  00 18 80 03 A0 08 9D 00  ................
+0830: 0E 0B 0D 00 0E 00 06 12  00 02 0D 00 00 80 00 47  ...............G
+0840: 08 05 12 00 01 68 08 0C  0D 00 3E 08 00 0D 00 57  .....h....>....W
+0850: 08 05 12 00 01 68 08 07  0D 00 0C 80 3E 08 00 0D  .....h......>...
+0860: 00 68 08 03 12 00 0D 80  02 12 00 00 80 02 9A 08  .h..............
+0870: 03 11 00 0E 00 07 11 00  09 80 9D 00 2E 0B 10 00  ................
+0880: 0E 00 02 12 00 0D 80 00  8F 08 14 10 00 02 80 9D  ................
+0890: 05 FE 08 10 00 11 00 01  9A 08 0B 0E 00 01 26 08  ..............&.
+08A0: 1B 06 0E 00 06 00 00 41  13 80 0A 80 05 00 00 00  .......A........
+08B0: 02 0E 00 18 80 03 D5 08  9D 00 FE 08 10 00 0E 00  ................
+08C0: 02 10 00 00 80 00 CF 08  3C 00 00 0E 00 08 80 0B  ........<.......
+08D0: 0E 00 01 B0 08 40 18 80  0A 80 00 00 0E 80 10 00  .....@..........
+08E0: 00 08 80 1B 06 0E 00 02  0E 00 19 80 03 FD 08 9D  ................
+08F0: 05 FE 08 00 80 0E 00 0B  0E 00 01 E7 08 1B 03 10  ................
+0900: 04 10 05 10 06 10 07 10  08 10 09 10 00 17 01 17  ................
+0910: 02 17 03 17 04 17 05 17  06 17 07 17 08 17 09 17  ................
+0920: 0A 17 0B 17 0C 17 0D 17  0E 17 0F 17 10 17 11 17  ................
+0930: 12 17 13 17 14 17 15 17  16 17 17 17 18 17 1A 80  ................
+0940: 1B 80 1C 80 1D 80 1E 80  1F 80 20 80 21 80 22 80  .......... .!.".
+0950: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+0960: 00 80 00 80 08 80 08 80  08 80 23 80 23 80 23 80  ..........#.#.#.
+0970: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 24 80  ..............$.
+0980: 24 80 24 80 25 80 25 80  25 80 26 80 26 80 26 80  $.$.%.%.%.&.&.&.
+0990: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 27 80  ..............'.
+09A0: 28 80 29 80 2A 80 00 80  00 80 00 80 00 80 0D 80  (.).*...........
+09B0: 0D 80 0D 80 16 80 00 80  00 80 00 80 00 80 2B 80  ..............+.
+09C0: 2B 80 2B 80 2C 80 00 80  00 80 00 80 00 80 2D 80  +.+.,.........-.
+09D0: 2E 80 2F 80 30 80 31 80  32 80 33 80 34 80 35 80  ../.0.1.2.3.4.5.
+09E0: 36 80 37 80 38 80 39 80  3A 80 3B 80 3C 80 3D 80  6.7.8.9.:.;.<.=.
+09F0: 3E 80 3F 80 40 80 41 80  42 80 43 80 44 80 45 80  >.?.@.A.B.C.D.E.
+0A00: 46 80 47 80 48 80 49 80  4A 80 4B 80 4C 80 4D 80  F.G.H.I.J.K.L.M.
+0A10: 4E 80 4F 80 50 80 51 80  52 80 53 80 54 80 55 80  N.O.P.Q.R.S.T.U.
+0A20: 56 80 00 80 00 80 00 80  00 80 00 80 00 80 10 80  V...............
+0A30: 10 80 14 80 14 80 14 80  14 80 57 80 10 80 10 80  ..........W.....
+0A40: 14 80 14 80 14 80 14 80  57 80 10 80 10 80 14 80  ........W.......
+0A50: 14 80 14 80 14 80 57 80  10 80 10 80 14 80 14 80  ......W.........
+0A60: 14 80 14 80 57 80 10 80  10 80 14 80 14 80 14 80  ....W...........
+0A70: 14 80 57 80 10 80 10 80  14 80 14 80 14 80 14 80  ..W.............
+0A80: 57 80 00 80 00 80 00 80  00 80 00 80 00 80 26 80  W.............&.
+0A90: 58 80 59 80 5A 80 5B 80  5C 80 5D 80 26 80 58 80  X.Y.Z.[.\.].&.X.
+0AA0: 59 80 5A 80 5B 80 5C 80  5D 80 26 80 58 80 59 80  Y.Z.[.\.].&.X.Y.
+0AB0: 5A 80 5B 80 5C 80 5D 80  26 80 58 80 59 80 5A 80  Z.[.\.].&.X.Y.Z.
+0AC0: 5B 80 5C 80 5D 80 26 80  58 80 59 80 5A 80 5B 80  [.\.].&.X.Y.Z.[.
+0AD0: 5C 80 5D 80 26 80 58 80  59 80 5A 80 5B 80 5C 80  \.].&.X.Y.Z.[.\.
+0AE0: 5D 80 00 80 00 80 00 80  00 80 00 80 00 80 5E 80  ].............^.
+0AF0: 5F 80 60 80 61 80 62 80  63 80 64 80 65 80 66 80  _.`.a.b.c.d.e.f.
+0B00: 67 80 68 80 69 80 00 80  00 80 00 80 00 80 02 80  g.h.i...........
+0B10: 02 80 02 80 02 80 02 80  02 80 0C 80 0C 80 0C 80  ................
+0B20: 0C 80 0C 80 0C 80 00 80  00 80 00 80 00 80 6A 80  ..............j.
+0B30: 6A 80 6A 80 6A 80 6A 80  6A 80 6B 80 6B 80 6B 80  j.j.j.j.j.k.k.k.
+0B40: 6B 80 6B 80 6B 80 00 80  00 80 00 80 00 80 02 16  k.k.k...........
+0B50: 00 00 80 00 5D 0B 1E F0  FF FF 7F 6F 70 1A 76 0B  ....]......op.v.
+0B60: 03 02 10 6C 80 1D 6D 80  23 03 02 10 6C 80 1D 6E  ...l..m.#...l..n
+0B70: 80 23 1A 47 0C 1B 02 17  00 08 80 80 90 0B 66 00  .#.G..........f.
+0B80: 80 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 01 46 0C  .........tlk0.F.
+0B90: 02 17 00 0D 80 80 AA 0B  66 6F 80 F8 FF FF 7F F8  ........fo......
+0BA0: FF FF 7F 74 6C 6B 30 01  46 0C 02 17 00 02 80 80  ...tlk0.F.......
+0BB0: C4 0B 66 70 80 F8 FF FF  7F F8 FF FF 7F 74 6C 6B  ..fp.........tlk
+0BC0: 30 01 46 0C 02 17 00 10  80 80 DE 0B 66 71 80 F8  0.F.........fq..
+0BD0: FF FF 7F F8 FF FF 7F 74  6C 6B 30 01 46 0C 02 17  .......tlk0.F...
+0BE0: 00 23 80 80 F8 0B 66 72  80 F8 FF FF 7F F8 FF FF  .#....fr........
+0BF0: 7F 74 6C 6B 30 01 46 0C  02 17 00 16 80 80 12 0C  .tlk0.F.........
+0C00: 66 72 80 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 01  fr.........tlk0.
+0C10: 46 0C 02 17 00 14 80 80  2C 0C 66 73 80 F8 FF FF  F.......,.fs....
+0C20: 7F F8 FF FF 7F 74 6C 62  30 01 46 0C 02 17 00 0C  .....tlb0.F.....
+0C30: 80 80 46 0C 66 74 80 F8  FF FF 7F F8 FF FF 7F 74  ..F.ft.........t
+0C40: 6C 62 30 01 46 0C 1B 02  17 00 08 80 80 61 0C 66  lb0.F........a.f
+0C50: 00 80 F8 FF FF 7F F8 FF  FF 7F 74 65 6E 30 01 17  ..........ten0..
+0C60: 0D 02 17 00 0D 80 80 7B  0C 66 6F 80 F8 FF FF 7F  .......{.fo.....
+0C70: F8 FF FF 7F 74 6C 6B 31  01 17 0D 02 17 00 02 80  ....tlk1........
+0C80: 80 95 0C 66 70 80 F8 FF  FF 7F F8 FF FF 7F 74 6C  ...fp.........tl
+0C90: 62 31 01 17 0D 02 17 00  10 80 80 AF 0C 66 71 80  b1...........fq.
+0CA0: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 31 01 17 0D 02  ........tlk1....
+0CB0: 17 00 23 80 80 C9 0C 66  72 80 F8 FF FF 7F F8 FF  ..#....fr.......
+0CC0: FF 7F 74 6C 6B 31 01 17  0D 02 17 00 16 80 80 E3  ..tlk1..........
+0CD0: 0C 66 72 80 F8 FF FF 7F  F8 FF FF 7F 74 6C 6B 31  .fr.........tlk1
+0CE0: 01 17 0D 02 17 00 14 80  80 FD 0C 66 73 80 F8 FF  ...........fs...
+0CF0: FF 7F F8 FF FF 7F 74 6C  62 31 01 17 0D 02 17 00  ......tlb1......
+0D00: 0C 80 80 17 0D 66 74 80  F8 FF FF 7F F8 FF FF 7F  .....ft.........
+0D10: 74 6C 62 31 01 17 0D 1B                           tlb1....        
+```
+
+#### Opcodes
+
+```
+  0: 0x000E [0x1A] CALL_SUBROUTINE(address=0x0251)
+  1: 0x0011 [0x21] END_EVENT
+  2: 0x0012 [0x00] END_REQSTACK()
+
+SUBROUTINE_0251:
+  3: 0x0251 [0x06] ExtData[1]->WorkLocal[0] = 0
+  4: 0x0254 [0x06] ExtData[1]->WorkLocal[5] = 0
+  5: 0x0257 [0x06] ExtData[1]->WorkLocal[6] = 0
+  6: 0x025A [0x06] ExtData[1]->WorkLocal[7] = 0
+  7: 0x025D [0x06] ExtData[1]->WorkLocal[9] = 0
+  8: 0x0260 [0x06] ExtData[1]->WorkLocal[8] = 0
+  9: 0x0263 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
+ 10: 0x0268 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
+ 11: 0x026D [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
+ 12: 0x0272 [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
+ 13: 0x027B [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
+ 14: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=12039*)
+    → "Care to purrruse our selection of Pioneers' Coalition equipment?"
+ 15: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x0288 [0x06] ExtData[1]->WorkLocal[1] = 0
+
+SUBROUTINE_028B:
+ 17: 0x028B [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0351
+ 18: 0x0293 [0x1A] CALL_SUBROUTINE(address=0x0352)
+ 19: 0x0296 [0x1A] CALL_SUBROUTINE(address=0x043F)
+ 20: 0x0299 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+ 21: 0x029E [0x24] CREATE_DIALOG(message_id=12025*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+    → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
+ 22: 0x02A5 [0x25] WAIT_DIALOG_SELECT()
+ 23: 0x02A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B9
+ 24: 0x02AE [0x03] Work_Zone[1] = 1073741824*
+ 25: 0x02B3 [0x05] ExtData[1]->WorkLocal[1] = 1
+ 26: 0x02B6 [0x01] GOTO 0x02B9
+
+SUBROUTINE_02B9:
+ 27: 0x02B9 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
+ 28: 0x02BE [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x034E
+ 29: 0x02C6 [0x06] ExtData[1]->WorkLocal[10] = 0
+ 30: 0x02C9 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[2]
+ 31: 0x02CE [0x0C] ExtData[1]->WorkLocal[10]--
+ 32: 0x02D1 [0x9D] Work_Zone[3] = 0x099E[ExtData[1]->WorkLocal[10]] // Read WORD
+ 33: 0x02D9 [0x9D] Work_Zone[4] = 0x09BE[ExtData[1]->WorkLocal[10]] // Read WORD
+ 34: 0x02E1 [0x9D] ExtData[1]->WorkLocal[13] = 0x09AE[ExtData[1]->WorkLocal[10]] // Read WORD
+ 35: 0x02E9 [0x06] ExtData[1]->WorkLocal[18] = 0
+ 36: 0x02EC [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x02FA
+ 37: 0x02F4 [0x05] ExtData[1]->WorkLocal[18] = 1
+ 38: 0x02F7 [0x01] GOTO 0x030C
+ 39: 0x02FA [0x0C] ExtData[1]->WorkLocal[13]--
+ 40: 0x02FD [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0307
+ 41: 0x0304 [0x01] GOTO 0x030C
+ 42: 0x0307 [0x14] Work_Zone[4] *= 3*
+
+SUBROUTINE_030C:
+ 43: 0x030C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
+ 44: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=12030*)
+    → "$1 can be purchased for $2 bayld."
+ 45: 0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 46: 0x0313 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+ 47: 0x0316 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+ 48: 0x031B [0x24] CREATE_DIALOG(message_id=12032*, default_option=1*, option_flags=0*)
+    → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
+ 49: 0x0322 [0x25] WAIT_DIALOG_SELECT()
+ 50: 0x0323 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0343
+ 51: 0x032B [0x05] ExtData[1]->WorkLocal[1] = 1
+ 52: 0x032E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=2*)
+ 53: 0x0337 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[10])
+ 54: 0x0340 [0x01] GOTO 0x034E
+ 55: 0x0343 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x034E
+ 56: 0x034B [0x01] GOTO 0x034E
+
+SUBROUTINE_034E:
+ 57: 0x034E [0x01] GOTO 0x028B
+ 58: 0x0351 [0x1B] RETURN
+
+SUBROUTINE_0352:
+ 59: 0x0352 [0x1A] CALL_SUBROUTINE(address=0x08E4)
+ 60: 0x0355 [0x06] ExtData[1]->WorkLocal[14] = 0
+ 61: 0x0358 [0x06] ExtData[1]->WorkLocal[13] = 0
+ 62: 0x035B [0x06] ExtData[1]->WorkLocal[17] = 0
+
+SUBROUTINE_035E:
+ 63: 0x035E [0x02] IF !(ExtData[1]->WorkLocal[14] >= 4*) GOTO 0x03C1
+ 64: 0x0366 [0x9D] ExtData[1]->WorkLocal[13] = 0x09AE[ExtData[1]->WorkLocal[14]] // Read WORD
+ 65: 0x036E [0x06] ExtData[1]->WorkLocal[18] = 0
+ 66: 0x0371 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x037F
+ 67: 0x0379 [0x05] ExtData[1]->WorkLocal[18] = 1
+ 68: 0x037C [0x01] GOTO 0x03A0
+ 69: 0x037F [0x0C] ExtData[1]->WorkLocal[13]--
+ 70: 0x0382 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x038F
+ 71: 0x0389 [0x05] ExtData[1]->WorkLocal[18] = 1
+ 72: 0x038C [0x01] GOTO 0x03A0
+ 73: 0x038F [0x07] ExtData[1]->WorkLocal[13] += 8*
+ 74: 0x0394 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x03A0
+ 75: 0x039B [0x03] ExtData[1]->WorkLocal[18] = 2*
+
+SUBROUTINE_03A0:
+ 76: 0x03A0 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 0*) GOTO 0x03BB
+ 77: 0x03A8 [0x9D] ExtData[1]->WorkLocal[16] = 0x099E[ExtData[1]->WorkLocal[14]] // Read WORD
+ 78: 0x03B0 [0x9D] 0x08FE[ExtData[1]->WorkLocal[14] * 2] = ExtData[1]->WorkLocal[16] // Write WORD
+ 79: 0x03B8 [0x01] GOTO 0x03BB
+
+SUBROUTINE_03BB:
+ 80: 0x03BB [0x0B] ExtData[1]->WorkLocal[14]++
+ 81: 0x03BE [0x01] GOTO 0x035E
+ 82: 0x03C1 [0x06] ExtData[1]->WorkLocal[14] = 0
+
+SUBROUTINE_03C4:
+ 83: 0x03C4 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 4*) GOTO 0x043E
+ 84: 0x03CC [0x9D] ExtData[1]->WorkLocal[13] = 0x09AE[ExtData[1]->WorkLocal[14]] // Read WORD
+ 85: 0x03D4 [0x06] ExtData[1]->WorkLocal[18] = 0
+ 86: 0x03D7 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x03E5
+ 87: 0x03DF [0x05] ExtData[1]->WorkLocal[18] = 1
+ 88: 0x03E2 [0x01] GOTO 0x0406
+ 89: 0x03E5 [0x0C] ExtData[1]->WorkLocal[13]--
+ 90: 0x03E8 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x03F5
+ 91: 0x03EF [0x05] ExtData[1]->WorkLocal[18] = 1
+ 92: 0x03F2 [0x01] GOTO 0x0406
+ 93: 0x03F5 [0x07] ExtData[1]->WorkLocal[13] += 8*
+ 94: 0x03FA [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0406
+ 95: 0x0401 [0x03] ExtData[1]->WorkLocal[18] = 2*
+
+SUBROUTINE_0406:
+ 96: 0x0406 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 0*) GOTO 0x0438
+ 97: 0x040E [0x03] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[14]
+ 98: 0x0413 [0x07] ExtData[1]->WorkLocal[17] += 16*
+ 99: 0x0418 [0x9D] ExtData[1]->WorkLocal[16] = 0x09BE[ExtData[1]->WorkLocal[14]] // Read WORD
+100: 0x0420 [0x02] IF !(ExtData[1]->WorkLocal[18] == 2*) GOTO 0x042D
+101: 0x0428 [0x14] ExtData[1]->WorkLocal[16] *= 3*
+102: 0x042D [0x9D] 0x08FE[ExtData[1]->WorkLocal[17] * 2] = ExtData[1]->WorkLocal[16] // Write WORD
+103: 0x0435 [0x01] GOTO 0x0438
+
+SUBROUTINE_0438:
+104: 0x0438 [0x0B] ExtData[1]->WorkLocal[14]++
+105: 0x043B [0x01] GOTO 0x03C4
+106: 0x043E [0x1B] RETURN
+
+SUBROUTINE_043F:
+107: 0x043F [0x06] ExtData[1]->WorkLocal[14] = 0
+108: 0x0442 [0x06] ExtData[1]->WorkLocal[0] = 0
+
+SUBROUTINE_0445:
+109: 0x0445 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 4*) GOTO 0x046A
+110: 0x044D [0x9D] ExtData[1]->WorkLocal[16] = 0x08FE[ExtData[1]->WorkLocal[14]] // Read WORD
+111: 0x0455 [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x0464
+112: 0x045D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
+113: 0x0464 [0x0B] ExtData[1]->WorkLocal[14]++
+114: 0x0467 [0x01] GOTO 0x0445
+115: 0x046A [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=31*, target=ExtData[1]->WorkLocal[0], source=4294967295*)
+116: 0x0473 [0x10] ExtData[1]->WorkLocal[0] <<= 1*
+117: 0x0478 [0x1B] RETURN
+
+SUBROUTINE_08E4:
+118: 0x08E4 [0x06] ExtData[1]->WorkLocal[14] = 0
+
+SUBROUTINE_08E7:
+119: 0x08E7 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 32*) GOTO 0x08FD
+120: 0x08EF [0x9D] 0x08FE[ExtData[1]->WorkLocal[14] * 2] = 0* // Write WORD
+121: 0x08F7 [0x0B] ExtData[1]->WorkLocal[14]++
+122: 0x08FA [0x01] GOTO 0x08E7
+123: 0x08FD [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Data Section: 0x08FE (450 bytes)
+     0x08FE: 03 10 04 10 05 10 06 10 07 10 08 10 09 10 00 17
+     0x090E: 01 17 02 17 03 17 04 17 05 17 06 17 07 17 08 17
+     0x091E: 09 17 0A 17 0B 17 0C 17 0D 17 0E 17 0F 17 10 17
+     0x092E: 11 17 12 17 13 17 14 17 15 17 16 17 17 17 18 17
+     0x093E: 1A 80 1B 80 1C 80 1D 80 1E 80 1F 80 20 80 21 80
+     0x094E: 22 80 00 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x095E: 00 80 00 80 00 80 08 80 08 80 08 80 23 80 23 80
+     0x096E: 23 80 00 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x097E: 24 80 24 80 24 80 25 80 25 80 25 80 26 80 26 80
+     0x098E: 26 80 00 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x099E: 27 80 28 80 29 80 2A 80 00 80 00 80 00 80 00 80
+     0x09AE: 0D 80 0D 80 0D 80 16 80 00 80 00 80 00 80 00 80
+     0x09BE: 2B 80 2B 80 2B 80 2C 80 00 80 00 80 00 80 00 80
+     0x09CE: 2D 80 2E 80 2F 80 30 80 31 80 32 80 33 80 34 80
+     0x09DE: 35 80 36 80 37 80 38 80 39 80 3A 80 3B 80 3C 80
+     0x09EE: 3D 80 3E 80 3F 80 40 80 41 80 42 80 43 80 44 80
+     0x09FE: 45 80 46 80 47 80 48 80 49 80 4A 80 4B 80 4C 80
+     0x0A0E: 4D 80 4E 80 4F 80 50 80 51 80 52 80 53 80 54 80
+     0x0A1E: 55 80 56 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x0A2E: 10 80 10 80 14 80 14 80 14 80 14 80 57 80 10 80
+     0x0A3E: 10 80 14 80 14 80 14 80 14 80 57 80 10 80 10 80
+     0x0A4E: 14 80 14 80 14 80 14 80 57 80 10 80 10 80 14 80
+     0x0A5E: 14 80 14 80 14 80 57 80 10 80 10 80 14 80 14 80
+     0x0A6E: 14 80 14 80 57 80 10 80 10 80 14 80 14 80 14 80
+     0x0A7E: 14 80 57 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x0A8E: 26 80 58 80 59 80 5A 80 5B 80 5C 80 5D 80 26 80
+     0x0A9E: 58 80 59 80 5A 80 5B 80 5C 80 5D 80 26 80 58 80
+     0x0AAE: 59 80 5A 80 5B 80 5C 80 5D 80 26 80 58 80 59 80
+     0x0ABE: 5A 80
+# Dead code (unreachable instructions):
+     0x0013 [0x1E] EventEntity looks at LocalPlayer and starts talking
+     0x0018 [0x06] ExtData[1]->WorkLocal[0] = 0
+     0x001B [0x06] ExtData[1]->WorkLocal[5] = 0
+     0x001E [0x06] ExtData[1]->WorkLocal[6] = 0
+     0x0021 [0x06] ExtData[1]->WorkLocal[7] = 0
+     0x0024 [0x06] ExtData[1]->WorkLocal[9] = 0
+     0x0027 [0x06] ExtData[1]->WorkLocal[8] = 0
+     0x002A [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
+     0x002F [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
+     0x0034 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
+     0x0039 [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
+     0x0042 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
+     0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=12038*)
+    → "What say you to looking over our selection of Pioneers' Coalition tools?"
+     0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x004F [0x06] ExtData[1]->WorkLocal[1] = 0
+     0x0052 [0x06] ExtData[1]->WorkLocal[2] = 0
+     0x0055 [0x05] ExtData[1]->WorkLocal[4] = 1
+     0x0058 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0129
+     0x0060 [0x1A] CALL_SUBROUTINE(address=0x012A)
+     0x0063 [0x1A] CALL_SUBROUTINE(address=0x0217)
+     0x0066 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+     0x006B [0x24] CREATE_DIALOG(message_id=12025*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+    → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
+     0x0072 [0x25] WAIT_DIALOG_SELECT()
+     0x0073 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0086
+     0x007B [0x03] Work_Zone[1] = 1073741824*
+     0x0080 [0x05] ExtData[1]->WorkLocal[1] = 1
+     0x0083 [0x01] GOTO 0x0086
+     0x0086 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
+     0x008B [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0126
+     0x0093 [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x0096 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[2]
+     0x009B [0x0C] ExtData[1]->WorkLocal[10]--
+     0x009E [0x9D] Work_Zone[3] = 0x093E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x00A6 [0x9D] Work_Zone[4] = 0x097E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x00AE [0x9D] ExtData[1]->WorkLocal[13] = 0x095E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x00B6 [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x00B9 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x00C7
+     0x00C1 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x00C4 [0x01] GOTO 0x00D9
+     0x00C7 [0x0C] ExtData[1]->WorkLocal[13]--
+     0x00CA [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x00D4
+     0x00D1 [0x01] GOTO 0x00D9
+     0x00D4 [0x14] Work_Zone[4] *= 3*
+     0x00D9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
+     0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12030*)
+    → "$1 can be purchased for $2 bayld."
+     0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x00E0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x00E3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+     0x00E8 [0x24] CREATE_DIALOG(message_id=12032*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+    → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
+     0x00EF [0x25] WAIT_DIALOG_SELECT()
+     0x00F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0116
+     0x00F8 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
+     0x0101 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[10])
+     0x010A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x010C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x010E [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[9]
+     0x0113 [0x01] GOTO 0x0121
+     0x0116 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0121
+     0x011E [0x01] GOTO 0x0121
+     0x0121 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
+     0x0126 [0x01] GOTO 0x0058
+     0x0129 [0x1B] RETURN
+     0x012A [0x1A] CALL_SUBROUTINE(address=0x08E4)
+     0x012D [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x0130 [0x06] ExtData[1]->WorkLocal[13] = 0
+     0x0133 [0x06] ExtData[1]->WorkLocal[17] = 0
+     0x0136 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 9*) GOTO 0x0199
+     0x013E [0x9D] ExtData[1]->WorkLocal[13] = 0x095E[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x0146 [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x0149 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0157
+     0x0151 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x0154 [0x01] GOTO 0x0178
+     0x0157 [0x0C] ExtData[1]->WorkLocal[13]--
+     0x015A [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0167
+     0x0161 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x0164 [0x01] GOTO 0x0178
+     0x0167 [0x07] ExtData[1]->WorkLocal[13] += 8*
+     0x016C [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0178
+     0x0173 [0x03] ExtData[1]->WorkLocal[18] = 2*
+     0x0178 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 0*) GOTO 0x0193
+     0x0180 [0x9D] ExtData[1]->WorkLocal[16] = 0x093E[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x0188 [0x9D] 0x08FE[ExtData[1]->WorkLocal[14] * 2] = ExtData[1]->WorkLocal[16] // Write WORD
+     0x0190 [0x01] GOTO 0x0193
+     0x0193 [0x0B] ExtData[1]->WorkLocal[14]++
+     0x0196 [0x01] GOTO 0x0136
+     0x0199 [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x019C [0x02] IF !(ExtData[1]->WorkLocal[14] >= 9*) GOTO 0x0216
+     0x01A4 [0x9D] ExtData[1]->WorkLocal[13] = 0x095E[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x01AC [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x01AF [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x01BD
+     0x01B7 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x01BA [0x01] GOTO 0x01DE
+     0x01BD [0x0C] ExtData[1]->WorkLocal[13]--
+     0x01C0 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x01CD
+     0x01C7 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x01CA [0x01] GOTO 0x01DE
+     0x01CD [0x07] ExtData[1]->WorkLocal[13] += 8*
+     0x01D2 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x01DE
+     0x01D9 [0x03] ExtData[1]->WorkLocal[18] = 2*
+     0x01DE [0x02] IF !(ExtData[1]->WorkLocal[18] <= 0*) GOTO 0x0210
+     0x01E6 [0x03] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[14]
+     0x01EB [0x07] ExtData[1]->WorkLocal[17] += 16*
+     0x01F0 [0x9D] ExtData[1]->WorkLocal[16] = 0x097E[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x01F8 [0x02] IF !(ExtData[1]->WorkLocal[18] == 2*) GOTO 0x0205
+     0x0200 [0x14] ExtData[1]->WorkLocal[16] *= 3*
+     0x0205 [0x9D] 0x08FE[ExtData[1]->WorkLocal[17] * 2] = ExtData[1]->WorkLocal[16] // Write WORD
+     0x020D [0x01] GOTO 0x0210
+     0x0210 [0x0B] ExtData[1]->WorkLocal[14]++
+     0x0213 [0x01] GOTO 0x019C
+     0x0216 [0x1B] RETURN
+     0x0217 [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x021A [0x06] ExtData[1]->WorkLocal[0] = 0
+     0x021D [0x02] IF !(ExtData[1]->WorkLocal[14] >= 9*) GOTO 0x0242
+     0x0225 [0x9D] ExtData[1]->WorkLocal[16] = 0x08FE[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x022D [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x023C
+     0x0235 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
+     0x023C [0x0B] ExtData[1]->WorkLocal[14]++
+     0x023F [0x01] GOTO 0x021D
+     0x0242 [0x40] SET_BIT_WORK_RANGE(start_bit=9*, end_bit=31*, target=ExtData[1]->WorkLocal[0], source=4294967295*)
+     0x024B [0x10] ExtData[1]->WorkLocal[0] <<= 1*
+     0x0250 [0x1B] RETURN
+# Dead code (unreachable instructions):
+     0x0479 [0x1E] EventEntity looks at LocalPlayer and starts talking
+     0x047E [0x06] ExtData[1]->WorkLocal[0] = 0
+     0x0481 [0x06] ExtData[1]->WorkLocal[5] = 0
+     0x0484 [0x06] ExtData[1]->WorkLocal[6] = 0
+     0x0487 [0x06] ExtData[1]->WorkLocal[7] = 0
+     0x048A [0x06] ExtData[1]->WorkLocal[9] = 0
+     0x048D [0x06] ExtData[1]->WorkLocal[8] = 0
+     0x0490 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
+     0x0495 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
+     0x049A [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
+     0x049F [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
+     0x04A8 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
+     0x04B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12040*)
+    → "Need help making your Mog Garden the greatest around? Then I'm the one to ask!"
+     0x04B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x04B5 [0x06] ExtData[1]->WorkLocal[1] = 0
+     0x04B8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x05B4
+     0x04C0 [0x1A] CALL_SUBROUTINE(address=0x05B5)
+     0x04C3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+     0x04C8 [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+    → "Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
+     0x04CF [0x25] WAIT_DIALOG_SELECT()
+     0x04D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E3
+     0x04D8 [0x03] Work_Zone[1] = 1073741824*
+     0x04DD [0x05] ExtData[1]->WorkLocal[1] = 1
+     0x04E0 [0x01] GOTO 0x04E3
+     0x04E3 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
+     0x04E8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x05B1
+     0x04F0 [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x04F3 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[2]
+     0x04F8 [0x0C] ExtData[1]->WorkLocal[10]--
+     0x04FB [0x41] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[5] (bits 14*-31*)
+     0x0504 [0x03] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[10]
+     0x0509 [0x14] ExtData[1]->WorkLocal[11] *= 3*
+     0x050E [0x03] ExtData[1]->WorkLocal[12] = ExtData[1]->WorkLocal[11]
+     0x0513 [0x07] ExtData[1]->WorkLocal[12] += 3*
+     0x0518 [0x0C] ExtData[1]->WorkLocal[12]--
+     0x051B [0x41] ExtData[1]->WorkLocal[15] = ExtData[1]->WorkLocal[19] (bits ExtData[1]->WorkLocal[11]-ExtData[1]->WorkLocal[12])
+     0x0524 [0x0C] ExtData[1]->WorkLocal[15]--
+     0x0527 [0x14] ExtData[1]->WorkLocal[10] *= 7*
+     0x052C [0x07] ExtData[1]->WorkLocal[10] += ExtData[1]->WorkLocal[15]
+     0x0531 [0x9D] Work_Zone[3] = 0x09CE[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x0539 [0x9D] Work_Zone[4] = 0x0A8E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x0541 [0x9D] ExtData[1]->WorkLocal[13] = 0x0A2E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x0549 [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x054C [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0557
+     0x0554 [0x01] GOTO 0x0575
+     0x0557 [0x0C] ExtData[1]->WorkLocal[13]--
+     0x055A [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0564
+     0x0561 [0x01] GOTO 0x0575
+     0x0564 [0x07] ExtData[1]->WorkLocal[13] += 8*
+     0x0569 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0575
+     0x0570 [0x14] Work_Zone[4] *= 3*
+     0x0575 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+    → "That $3 can be purchased for $2 bayld."
+     0x0578 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0579 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+     0x057E [0x24] CREATE_DIALOG(message_id=12032*, default_option=1*, option_flags=0*)
+    → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
+     0x0585 [0x25] WAIT_DIALOG_SELECT()
+     0x0586 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05A6
+     0x058E [0x05] ExtData[1]->WorkLocal[1] = 1
+     0x0591 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=3*)
+     0x059A [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[10])
+     0x05A3 [0x01] GOTO 0x05B1
+     0x05A6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05B1
+     0x05AE [0x01] GOTO 0x05B1
+     0x05B1 [0x01] GOTO 0x04B8
+     0x05B4 [0x1B] RETURN
+     0x05B5 [0x1A] CALL_SUBROUTINE(address=0x08E4)
+     0x05B8 [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x05BB [0x06] ExtData[1]->WorkLocal[13] = 0
+     0x05BE [0x06] ExtData[1]->WorkLocal[17] = 0
+     0x05C1 [0x06] ExtData[1]->WorkLocal[0] = 0
+     0x05C4 [0x41] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[5] (bits 14*-31*)
+     0x05CD [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x05D0 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 6*) GOTO 0x06A5
+     0x05D8 [0x03] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[14]
+     0x05DD [0x14] ExtData[1]->WorkLocal[11] *= 3*
+     0x05E2 [0x03] ExtData[1]->WorkLocal[12] = ExtData[1]->WorkLocal[11]
+     0x05E7 [0x07] ExtData[1]->WorkLocal[12] += 3*
+     0x05EC [0x0C] ExtData[1]->WorkLocal[12]--
+     0x05EF [0x41] ExtData[1]->WorkLocal[15] = ExtData[1]->WorkLocal[19] (bits ExtData[1]->WorkLocal[11]-ExtData[1]->WorkLocal[12])
+     0x05F8 [0x02] IF !(ExtData[1]->WorkLocal[15] <= 0*) GOTO 0x0698
+     0x0600 [0x0C] ExtData[1]->WorkLocal[15]--
+     0x0603 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[14]
+     0x0608 [0x14] ExtData[1]->WorkLocal[10] *= 7*
+     0x060D [0x07] ExtData[1]->WorkLocal[10] += ExtData[1]->WorkLocal[15]
+     0x0612 [0x9D] ExtData[1]->WorkLocal[13] = 0x0A2E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x061A [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x061D [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x062B
+     0x0625 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x0628 [0x01] GOTO 0x064C
+     0x062B [0x0C] ExtData[1]->WorkLocal[13]--
+     0x062E [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x063B
+     0x0635 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x0638 [0x01] GOTO 0x064C
+     0x063B [0x07] ExtData[1]->WorkLocal[13] += 8*
+     0x0640 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x064C
+     0x0647 [0x03] ExtData[1]->WorkLocal[18] = 2*
+     0x064C [0x02] IF !(ExtData[1]->WorkLocal[18] <= 0*) GOTO 0x068E
+     0x0654 [0x9D] ExtData[1]->WorkLocal[17] = 0x09CE[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x065C [0x9D] 0x08FE[ExtData[1]->WorkLocal[14] * 2] = ExtData[1]->WorkLocal[17] // Write WORD
+     0x0664 [0x03] ExtData[1]->WorkLocal[20] = 16*
+     0x0669 [0x07] ExtData[1]->WorkLocal[20] += ExtData[1]->WorkLocal[14]
+     0x066E [0x9D] ExtData[1]->WorkLocal[17] = 0x0A8E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x0676 [0x02] IF !(ExtData[1]->WorkLocal[18] == 2*) GOTO 0x0683
+     0x067E [0x14] ExtData[1]->WorkLocal[17] *= 3*
+     0x0683 [0x9D] 0x08FE[ExtData[1]->WorkLocal[20] * 2] = ExtData[1]->WorkLocal[17] // Write WORD
+     0x068B [0x01] GOTO 0x0695
+     0x068E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
+     0x0695 [0x01] GOTO 0x069F
+     0x0698 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
+     0x069F [0x0B] ExtData[1]->WorkLocal[14]++
+     0x06A2 [0x01] GOTO 0x05D0
+     0x06A5 [0x10] ExtData[1]->WorkLocal[0] <<= 1*
+     0x06AA [0x40] SET_BIT_WORK_RANGE(start_bit=7*, end_bit=31*, target=ExtData[1]->WorkLocal[0], source=4294967295*)
+     0x06B3 [0x1B] RETURN
+     0x06B4 [0x1E] EventEntity looks at LocalPlayer and starts talking
+     0x06B9 [0x06] ExtData[1]->WorkLocal[0] = 0
+     0x06BC [0x06] ExtData[1]->WorkLocal[5] = 0
+     0x06BF [0x06] ExtData[1]->WorkLocal[6] = 0
+     0x06C2 [0x06] ExtData[1]->WorkLocal[7] = 0
+     0x06C5 [0x06] ExtData[1]->WorkLocal[9] = 0
+     0x06C8 [0x06] ExtData[1]->WorkLocal[8] = 0
+     0x06CB [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
+     0x06D0 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
+     0x06D5 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
+     0x06DA [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
+     0x06E3 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
+     0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12041*)
+    → "I don't know which is more astounding--the superb lessons in gathering techniques we offer to pioneers or the contributions you can make to the colonization movement after you've finished them!"
+     0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x06F0 [0x06] ExtData[1]->WorkLocal[1] = 0
+     0x06F3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x07B3
+     0x06FB [0x1A] CALL_SUBROUTINE(address=0x07B4)
+     0x06FE [0x1A] CALL_SUBROUTINE(address=0x08A1)
+     0x0701 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+     0x0706 [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+    → "Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
+     0x070D [0x25] WAIT_DIALOG_SELECT()
+     0x070E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0721
+     0x0716 [0x03] Work_Zone[1] = 1073741824*
+     0x071B [0x05] ExtData[1]->WorkLocal[1] = 1
+     0x071E [0x01] GOTO 0x0721
+     0x0721 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
+     0x0726 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x07B0
+     0x072E [0x06] ExtData[1]->WorkLocal[10] = 0
+     0x0731 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[2]
+     0x0736 [0x0C] ExtData[1]->WorkLocal[10]--
+     0x0739 [0x9D] Work_Zone[3] = 0x0AEE[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x0741 [0x9D] Work_Zone[4] = 0x0B2E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x0749 [0x9D] ExtData[1]->WorkLocal[13] = 0x0B0E[ExtData[1]->WorkLocal[10]] // Read WORD
+     0x0751 [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x0754 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0762
+     0x075C [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x075F [0x01] GOTO 0x0774
+     0x0762 [0x0C] ExtData[1]->WorkLocal[13]--
+     0x0765 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x076F
+     0x076C [0x01] GOTO 0x0774
+     0x076F [0x14] Work_Zone[4] *= 3*
+     0x0774 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+    → "That $3 can be purchased for $2 bayld."
+     0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0778 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
+     0x077D [0x24] CREATE_DIALOG(message_id=12032*, default_option=1*, option_flags=0*)
+    → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
+     0x0784 [0x25] WAIT_DIALOG_SELECT()
+     0x0785 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A5
+     0x078D [0x05] ExtData[1]->WorkLocal[1] = 1
+     0x0790 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=4*)
+     0x0799 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[10])
+     0x07A2 [0x01] GOTO 0x07B0
+     0x07A5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x07B0
+     0x07AD [0x01] GOTO 0x07B0
+     0x07B0 [0x01] GOTO 0x06F3
+     0x07B3 [0x1B] RETURN
+     0x07B4 [0x1A] CALL_SUBROUTINE(address=0x08E4)
+     0x07B7 [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x07BA [0x06] ExtData[1]->WorkLocal[13] = 0
+     0x07BD [0x06] ExtData[1]->WorkLocal[17] = 0
+     0x07C0 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 12*) GOTO 0x0823
+     0x07C8 [0x9D] ExtData[1]->WorkLocal[13] = 0x0B0E[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x07D0 [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x07D3 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x07E1
+     0x07DB [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x07DE [0x01] GOTO 0x0802
+     0x07E1 [0x0C] ExtData[1]->WorkLocal[13]--
+     0x07E4 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x07F1
+     0x07EB [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x07EE [0x01] GOTO 0x0802
+     0x07F1 [0x07] ExtData[1]->WorkLocal[13] += 8*
+     0x07F6 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0802
+     0x07FD [0x03] ExtData[1]->WorkLocal[18] = 2*
+     0x0802 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 0*) GOTO 0x081D
+     0x080A [0x9D] ExtData[1]->WorkLocal[16] = 0x0AEE[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x0812 [0x9D] 0x08FE[ExtData[1]->WorkLocal[14] * 2] = ExtData[1]->WorkLocal[16] // Write WORD
+     0x081A [0x01] GOTO 0x081D
+     0x081D [0x0B] ExtData[1]->WorkLocal[14]++
+     0x0820 [0x01] GOTO 0x07C0
+     0x0823 [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x0826 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 12*) GOTO 0x08A0
+     0x082E [0x9D] ExtData[1]->WorkLocal[13] = 0x0B0E[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x0836 [0x06] ExtData[1]->WorkLocal[18] = 0
+     0x0839 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0847
+     0x0841 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x0844 [0x01] GOTO 0x0868
+     0x0847 [0x0C] ExtData[1]->WorkLocal[13]--
+     0x084A [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0857
+     0x0851 [0x05] ExtData[1]->WorkLocal[18] = 1
+     0x0854 [0x01] GOTO 0x0868
+     0x0857 [0x07] ExtData[1]->WorkLocal[13] += 8*
+     0x085C [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0868
+     0x0863 [0x03] ExtData[1]->WorkLocal[18] = 2*
+     0x0868 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 0*) GOTO 0x089A
+     0x0870 [0x03] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[14]
+     0x0875 [0x07] ExtData[1]->WorkLocal[17] += 16*
+     0x087A [0x9D] ExtData[1]->WorkLocal[16] = 0x0B2E[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x0882 [0x02] IF !(ExtData[1]->WorkLocal[18] == 2*) GOTO 0x088F
+     0x088A [0x14] ExtData[1]->WorkLocal[16] *= 3*
+     0x088F [0x9D] 0x08FE[ExtData[1]->WorkLocal[17] * 2] = ExtData[1]->WorkLocal[16] // Write WORD
+     0x0897 [0x01] GOTO 0x089A
+     0x089A [0x0B] ExtData[1]->WorkLocal[14]++
+     0x089D [0x01] GOTO 0x0826
+     0x08A0 [0x1B] RETURN
+     0x08A1 [0x06] ExtData[1]->WorkLocal[14] = 0
+     0x08A4 [0x06] ExtData[1]->WorkLocal[0] = 0
+     0x08A7 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[5] (bits 14*-31*)
+     0x08B0 [0x02] IF !(ExtData[1]->WorkLocal[14] >= 12*) GOTO 0x08D5
+     0x08B8 [0x9D] ExtData[1]->WorkLocal[16] = 0x08FE[ExtData[1]->WorkLocal[14]] // Read WORD
+     0x08C0 [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x08CF
+     0x08C8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[14], condition_work_offset=1*)
+     0x08CF [0x0B] ExtData[1]->WorkLocal[14]++
+     0x08D2 [0x01] GOTO 0x08B0
+     0x08D5 [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=31*, target=ExtData[1]->WorkLocal[0], source=4294967295*)
+     0x08DE [0x10] ExtData[1]->WorkLocal[0] <<= 1*
+     0x08E3 [0x1B] RETURN
+# Dead code (unreachable instructions):
+     0x0AC0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler 0x5B805A80 with entities [Unknown NPC (ID: 645946752/0x26805D80), Unknown NPC (ID: 1501583488/0x59805880)], work=0x5C80
+     0x0ACF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153611356/0x805D805C))
+     0x0AD4 [0x26] DEPRECATED_YIELD
+     0x0AD5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153349208/0x80598058))
+     0x0ADA [0x5A] UPDATE_EVENT_POSITION: Move EventEntity incrementally towards MovePosition
+     0x0ADC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler 0x00800080 with entities [Unknown NPC (ID: 8412544/0x00805D80), Unknown NPC (ID: 8388736/0x00800080)], work=0x5C80
+     0x0AEB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153676800/0x805E8000))
+     0x0AF0 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x80 - Unknown)
+     0x0AF2 [0x60] ADJUST_RENDER_FLAGS1_MULTI: Deprecated mode 0x80 (no operation)
+     0x0AF4 [0x61] EventEntity->Render.Flags2 &= ~0x00000001
+     0x0AF6 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler 0x69806880 with entities [Unknown NPC (ID: 1702913152/0x65806480), Unknown NPC (ID: 1736468096/0x67806680)], work=[0x6380, 0x80]
+     0x0B07 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0B0C [0x00] END_REQSTACK()
+     0x0B0D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147647490/0x80028002))
+     0x0B12 [0x02] IF !(0x0280 == 0x0280) GOTO 0x8002
+     0x0B1A [0x0C] 0x0C80--
+     0x0B1D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148302860/0x800C800C))
+     0x0B22 [0x0C] 0x0C80--
+     0x0B25 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0B2A [0x00] END_REQSTACK()
+     0x0B2B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154463232/0x806A8000))
+     0x0B30 [0x6A] CHANGE_SOUND_VOLUME: Set 0x6A80 volume to 0x6A80, fade_time=0x6A80
+     0x0B37 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154528874/0x806B806A))
+     0x0B3C [0x6B] STOP_AND_IDLE: Unknown NPC (ID: 1803578240/0x6B806B80) stops current action and resets to idle (animation="kk")
+     0x0B45 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x0B4A [0x00] END_REQSTACK()
+     0x0B4B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 369262592/0x16028000))
+     0x0B50 [0x00] END_REQSTACK()
+     0x0B51 [0x00] END_REQSTACK()
+     0x0B52 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 504061184/0x1E0B5D00))
+     0x0B57 [0xF0] UNKNOWN_0xF0
+     0x0B58 [0xFF] UNKNOWN_0xFF
+     0x0B59 [0xFF] UNKNOWN_0xFF
+     0x0B5A [0x7F] WAIT_DIALOG_SELECT_ALT()
+     0x0B5B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x0B5C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+     0x0B5D [0x1A] CALL_SUBROUTINE(address=0x0B76)
+     0x0B60 [0x03] Work_Zone[2] = 2157*
+     0x0B65 [0x1D] PRINT_EVENT_MESSAGE(message_id=12359*)
+    → "Excuse me, but I do not believe you have $6, do you?"
+     0x0B68 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0B69 [0x03] Work_Zone[2] = 2157*
+     0x0B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12360*)
+    → "Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one."
+     0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0B72 [0x1A] CALL_SUBROUTINE(address=0x0C47)
+     0x0B75 [0x1B] RETURN
+     0x0B76 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0B90
+     0x0B7E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
+     0x0B8D [0x01] GOTO 0x0C46
+     0x0B90 [0x02] IF !(ExtData[1]->WorkLocal[23] == 2*) GOTO 0x0BAA
+     0x0B98 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
+     0x0BA7 [0x01] GOTO 0x0C46
+     0x0BAA [0x02] IF !(ExtData[1]->WorkLocal[23] == 3*) GOTO 0x0BC4
+     0x0BB2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
+     0x0BC1 [0x01] GOTO 0x0C46
+     0x0BC4 [0x02] IF !(ExtData[1]->WorkLocal[23] == 4*) GOTO 0x0BDE
+     0x0BCC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
+     0x0BDB [0x01] GOTO 0x0C46
+     0x0BDE [0x02] IF !(ExtData[1]->WorkLocal[23] == 5*) GOTO 0x0BF8
+     0x0BE6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
+     0x0BF5 [0x01] GOTO 0x0C46
+     0x0BF8 [0x02] IF !(ExtData[1]->WorkLocal[23] == 6*) GOTO 0x0C12
+     0x0C00 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
+     0x0C0F [0x01] GOTO 0x0C46
+     0x0C12 [0x02] IF !(ExtData[1]->WorkLocal[23] == 7*) GOTO 0x0C2C
+     0x0C1A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
+     0x0C29 [0x01] GOTO 0x0C46
+     0x0C2C [0x02] IF !(ExtData[1]->WorkLocal[23] == 8*) GOTO 0x0C46
+     0x0C34 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
+     0x0C43 [0x01] GOTO 0x0C46
+     0x0C46 [0x1B] RETURN
+     0x0C47 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0C61
+     0x0C4F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [EventEntity, EventEntity], work=0*
+     0x0C5E [0x01] GOTO 0x0D17
+     0x0C61 [0x02] IF !(ExtData[1]->WorkLocal[23] == 2*) GOTO 0x0C7B
+     0x0C69 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
+     0x0C78 [0x01] GOTO 0x0D17
+     0x0C7B [0x02] IF !(ExtData[1]->WorkLocal[23] == 3*) GOTO 0x0C95
+     0x0C83 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=20*
+     0x0C92 [0x01] GOTO 0x0D17
+     0x0C95 [0x02] IF !(ExtData[1]->WorkLocal[23] == 4*) GOTO 0x0CAF
+     0x0C9D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
+     0x0CAC [0x01] GOTO 0x0D17
+     0x0CAF [0x02] IF !(ExtData[1]->WorkLocal[23] == 5*) GOTO 0x0CC9
+     0x0CB7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
+     0x0CC6 [0x01] GOTO 0x0D17
+     0x0CC9 [0x02] IF !(ExtData[1]->WorkLocal[23] == 6*) GOTO 0x0CE3
+     0x0CD1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
+     0x0CE0 [0x01] GOTO 0x0D17
+     0x0CE3 [0x02] IF !(ExtData[1]->WorkLocal[23] == 7*) GOTO 0x0CFD
+     0x0CEB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
+     0x0CFA [0x01] GOTO 0x0D17
+     0x0CFD [0x02] IF !(ExtData[1]->WorkLocal[23] == 8*) GOTO 0x0D17
+     0x0D05 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
+     0x0D14 [0x01] GOTO 0x0D17
+     0x0D17 [0x1B] RETURN
+```

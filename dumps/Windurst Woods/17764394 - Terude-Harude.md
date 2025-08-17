@@ -1,0 +1,283 @@
+# 17764394 - Terude-Harude
+
+## Common Data
+
+| Field            | Value                    |
+|------------------|--------------------------|
+| Zone             | Windurst Woods (ID: 241) |
+| Block Size       | 536 bytes                |
+| Total Events     | 3                        |
+| References Count | 20                       |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [10013](#event-10013) | 0x0001       |    425 |            100 |
+| [832](#event-832)     | 0x01AA       |      1 |              1 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0004      |           4 |
+|       1 | 0x1C43      |        7235 |
+|       2 | 0x0002      |           2 |
+|       3 | 0x0000      |           0 |
+|       4 | 0x1C8B      |        7307 |
+|       5 | 0x1C44      |        7236 |
+|       6 | 0x0001      |           1 |
+|       7 | 0x1C8D      |        7309 |
+|       8 | 0x00C8      |         200 |
+|       9 | 0x005A      |          90 |
+|      10 | 0x1C8C      |        7308 |
+|      11 | 0x1C8E      |        7310 |
+|      12 | 0x1C48      |        7240 |
+|      13 | 0x1C6E      |        7278 |
+|      14 | 0x1C4C      |        7244 |
+|      15 | 0x1C4B      |        7243 |
+|      16 | 0x1C4A      |        7242 |
+|      17 | 0x1C49      |        7241 |
+|      18 | 0x1C8F      |        7311 |
+|      19 | 0x1C8A      |        7306 |
+
+## String References
+
+- **7235**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
+- **7236**: Image support: $0 gil. [Accept./Decline.]
+- **7240**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **7241**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **7242**: $4 x $0 $5 x $0$0 $6 x $0
+- **7243**: $4 x $0 $5 x $0$0
+- **7244**: $4 x $0
+- **7278**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **7306**: Why hello there, [handsome/sister]... What? Not a member? Well, then you'll need to wander over and see Ponono.
+- **7307**: Oh no! I know what you-hoo want, but you'll have to wait to get anything more from me.
+- **7308**: I'm sorry, [handsome/sister], but you look a little bit low on money, honey...
+- **7309**: Well, I won't let you down, [handsome/sister]. Close your eyes and get ready...
+- **7310**: Why don't you try $0? It's all the rage this season. You'll need...
+- **7311**: Did you get that, [handsome/sister]? If you ever need anything...a-ny-thing...don't forget to come see Terude-Harude.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 10013
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 425 bytes |
+| Instructions | 100       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    3E 05 10 00 80 A4 01  24 01 80 02 80 03 80 25   >......$......%
+0010: 02 00 10 03 80 00 86 00  02 07 10 03 80 01 27 00  ..............'.
+0020: 1D 04 80 23 01 83 00 24  05 80 06 80 03 80 25 02  ...#...$......%.
+0030: 00 10 03 80 00 78 00 02  06 10 02 10 04 71 00 1D  .....x.......q..
+0040: 07 80 23 42 45 08 80 F8  FF FF 7F F8 FF FF 7F 66  ..#BE..........f
+0050: 64 6F 31 03 80 1C 09 80  45 08 80 F8 FF FF 7F F8  do1.....E.......
+0060: FF FF 7F 66 64 69 31 03  80 03 01 10 06 80 01 75  ...fdi1........u
+0070: 00 1D 0A 80 23 01 83 00  02 00 10 06 80 00 83 00  ....#...........
+0080: 01 83 00 01 A1 01 02 00  10 06 80 00 96 01 03 08  ................
+0090: 10 00 80 8C 00 08 10 03  10 04 10 8C 01 03 02 10  ................
+00A0: 40 10 1D 0B 80 23 03 03  10 41 10 03 04 10 42 10  @....#...A....B.
+00B0: 03 05 10 43 10 03 06 10  44 10 03 07 10 55 10 02  ...C....D....U..
+00C0: 07 10 03 80 00 CE 00 48  0C 80 23 01 D2 00 48 0D  .......H..#...H.
+00D0: 80 23 03 02 10 45 10 03  03 10 46 10 03 04 10 47  .#...E....F....G
+00E0: 10 03 05 10 48 10 03 06  10 4D 10 03 07 10 4E 10  ....H....M....N.
+00F0: 03 08 10 4F 10 03 09 10  50 10 02 07 10 03 80 00  ...O....P.......
+0100: 09 01 48 0E 80 23 01 8F  01 02 08 10 03 80 00 18  ..H..#..........
+0110: 01 48 0F 80 23 01 8F 01  02 09 10 03 80 00 27 01  .H..#.........'.
+0120: 48 10 80 23 01 8F 01 48  11 80 23 03 02 10 49 10  H..#...H..#...I.
+0130: 03 03 10 4A 10 03 04 10  4B 10 03 05 10 4C 10 03  ...J....K....L..
+0140: 06 10 51 10 03 07 10 52  10 03 08 10 53 10 03 09  ..Q....R....S...
+0150: 10 54 10 02 06 10 03 80  00 5E 01 01 8F 01 02 07  .T.......^......
+0160: 10 03 80 00 6D 01 48 0E  80 23 01 8F 01 02 08 10  ....m.H..#......
+0170: 03 80 00 7C 01 48 0F 80  23 01 8F 01 02 09 10 03  ...|.H..#.......
+0180: 80 00 8B 01 48 10 80 23  01 8F 01 48 11 80 23 1D  ....H..#...H..#.
+0190: 12 80 23 01 A1 01 02 00  10 02 80 00 A1 01 01 A1  ..#.............
+01A0: 01 01 A8 01 1D 13 80 23  21 00                    .......#!.      
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x3E] IF !(Work_Zone[5] bit 4*) GOTO 0x01A4
+  1: 0x0008 [0x24] CREATE_DIALOG(message_id=7235*, default_option=2*, option_flags=0*)
+    → "Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]"
+  2: 0x000F [0x25] WAIT_DIALOG_SELECT()
+  3: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0086
+  4: 0x0018 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0027
+  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+    → "Oh no! I know what you-hoo want, but you'll have to wait to get anything more from me."
+  6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0024 [0x01] GOTO 0x0083
+  8: 0x0027 [0x24] CREATE_DIALOG(message_id=7236*, default_option=1*, option_flags=0*)
+    → "Image support: $0 gil. [Accept./Decline.]"
+  9: 0x002E [0x25] WAIT_DIALOG_SELECT()
+ 10: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0078
+ 11: 0x0037 [0x02] IF !(Work_Zone[6] < Work_Zone[2]) GOTO 0x0071
+ 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
+    → "Well, I won't let you down, [handsome/sister]. Close your eyes and get ready..."
+ 13: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 14: 0x0043 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 15: 0x0044 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 16: 0x0055 [0x1C] WAIT(90* ticks)
+ 17: 0x0058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 18: 0x0069 [0x03] Work_Zone[1] = 1*
+ 19: 0x006E [0x01] GOTO 0x0075
+ 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+    → "I'm sorry, [handsome/sister], but you look a little bit low on money, honey..."
+ 21: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0075:
+ 22: 0x0075 [0x01] GOTO 0x0083
+ 23: 0x0078 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0083
+ 24: 0x0080 [0x01] GOTO 0x0083
+
+SUBROUTINE_0083:
+ 25: 0x0083 [0x01] GOTO 0x01A1
+ 26: 0x0086 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0196
+ 27: 0x008E [0x03] Work_Zone[8] = 4*
+ 28: 0x0093 [0x8C] CRAFTING_HANDLER(mode=0x00) // Initialize crafting session
+ 29: 0x009B [0x8C] CRAFTING_HANDLER(mode=0x01) // End crafting session
+ 30: 0x009D [0x03] Work_Zone[2] = Work_Zone[64]
+ 31: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+    → "Why don't you try $0? It's all the rage this season. You'll need..."
+ 32: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 33: 0x00A6 [0x03] Work_Zone[3] = Work_Zone[65]
+ 34: 0x00AB [0x03] Work_Zone[4] = Work_Zone[66]
+ 35: 0x00B0 [0x03] Work_Zone[5] = Work_Zone[67]
+ 36: 0x00B5 [0x03] Work_Zone[6] = Work_Zone[68]
+ 37: 0x00BA [0x03] Work_Zone[7] = Work_Zone[85]
+ 38: 0x00BF [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x00CE
+ 39: 0x00C7 [0x48] [System] [7240*]:
+    → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
+ 40: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 41: 0x00CB [0x01] GOTO 0x00D2
+ 42: 0x00CE [0x48] [System] [7278*]:
+    → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
+ 43: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_00D2:
+ 44: 0x00D2 [0x03] Work_Zone[2] = Work_Zone[69]
+ 45: 0x00D7 [0x03] Work_Zone[3] = Work_Zone[70]
+ 46: 0x00DC [0x03] Work_Zone[4] = Work_Zone[71]
+ 47: 0x00E1 [0x03] Work_Zone[5] = Work_Zone[72]
+ 48: 0x00E6 [0x03] Work_Zone[6] = Work_Zone[77]
+ 49: 0x00EB [0x03] Work_Zone[7] = Work_Zone[78]
+ 50: 0x00F0 [0x03] Work_Zone[8] = Work_Zone[79]
+ 51: 0x00F5 [0x03] Work_Zone[9] = Work_Zone[80]
+ 52: 0x00FA [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0109
+ 53: 0x0102 [0x48] [System] [7244*]:
+    → "$4 x $0"
+ 54: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 55: 0x0106 [0x01] GOTO 0x018F
+ 56: 0x0109 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0118
+ 57: 0x0111 [0x48] [System] [7243*]:
+    → "$4 x $0 $5 x $0$0"
+ 58: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 59: 0x0115 [0x01] GOTO 0x018F
+ 60: 0x0118 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0127
+ 61: 0x0120 [0x48] [System] [7242*]:
+    → "$4 x $0 $5 x $0$0 $6 x $0"
+ 62: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 63: 0x0124 [0x01] GOTO 0x018F
+ 64: 0x0127 [0x48] [System] [7241*]:
+    → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
+ 65: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 66: 0x012B [0x03] Work_Zone[2] = Work_Zone[73]
+ 67: 0x0130 [0x03] Work_Zone[3] = Work_Zone[74]
+ 68: 0x0135 [0x03] Work_Zone[4] = Work_Zone[75]
+ 69: 0x013A [0x03] Work_Zone[5] = Work_Zone[76]
+ 70: 0x013F [0x03] Work_Zone[6] = Work_Zone[81]
+ 71: 0x0144 [0x03] Work_Zone[7] = Work_Zone[82]
+ 72: 0x0149 [0x03] Work_Zone[8] = Work_Zone[83]
+ 73: 0x014E [0x03] Work_Zone[9] = Work_Zone[84]
+ 74: 0x0153 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x015E
+ 75: 0x015B [0x01] GOTO 0x018F
+ 76: 0x015E [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x016D
+ 77: 0x0166 [0x48] [System] [7244*]:
+    → "$4 x $0"
+ 78: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 79: 0x016A [0x01] GOTO 0x018F
+ 80: 0x016D [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x017C
+ 81: 0x0175 [0x48] [System] [7243*]:
+    → "$4 x $0 $5 x $0$0"
+ 82: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 83: 0x0179 [0x01] GOTO 0x018F
+ 84: 0x017C [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x018B
+ 85: 0x0184 [0x48] [System] [7242*]:
+    → "$4 x $0 $5 x $0$0 $6 x $0"
+ 86: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 87: 0x0188 [0x01] GOTO 0x018F
+ 88: 0x018B [0x48] [System] [7241*]:
+    → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
+ 89: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_018F:
+ 90: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+    → "Did you get that, [handsome/sister]? If you ever need anything...a-ny-thing...don't forget to come see Terude-Harude."
+ 91: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 92: 0x0193 [0x01] GOTO 0x01A1
+ 93: 0x0196 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01A1
+ 94: 0x019E [0x01] GOTO 0x01A1
+
+SUBROUTINE_01A1:
+ 95: 0x01A1 [0x01] GOTO 0x01A8
+ 96: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
+    → "Why hello there, [handsome/sister]... What? Not a member? Well, then you'll need to wander over and see Ponono."
+ 97: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_01A8:
+ 98: 0x01A8 [0x21] END_EVENT
+ 99: 0x01A9 [0x00] END_REQSTACK()
+```
+
+### Event 832
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x01AA  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01A0:                                00                           .     
+```
+
+#### Opcodes
+
+```
+  0: 0x01AA [0x00] END_REQSTACK()
+```

@@ -1,0 +1,102 @@
+# 17940498 - Frondeaubaire
+
+## Common Data
+
+| Field            | Value                               |
+|------------------|-------------------------------------|
+| Zone             | Celennia Memorial Library (ID: 284) |
+| Block Size       | 72 bytes                            |
+| Total Events     | 3                                   |
+| References Count | 5                                   |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [38](#event-38)          | 0x0001       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0002       |     22 |              6 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x000D      |          13 |
+|       1 | 0xFFFE6BDF  |  4294863839 |
+|       2 | 0xFFFEBF7C  |  4294885244 |
+|       3 | 0xFFFFE02A  |  4294959146 |
+|       4 | 0x001E      |          30 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 38
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0002   |
+| Data Size    | 22 bytes |
+| Instructions | 6        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:       32 00 80 1F 00 01  80 02 80 03 80 1F 01 1E    2.............
+0010: 10 C0 11 01 1C 04 80 00                           ........        
+```
+
+#### Opcodes
+
+```
+  0: 0x0002 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x0005 [0x1F] MOVE_ENTITY: EventEntity moves to X=-103.457*, Z=-82.052*, Y=-8.150*
+  2: 0x000D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x000F [0x1E] EventEntity looks at Erfimia (ID: 17940496/0x0111C010) and starts talking
+  4: 0x0014 [0x1C] WAIT(30* ticks)
+  5: 0x0017 [0x00] END_REQSTACK()
+```

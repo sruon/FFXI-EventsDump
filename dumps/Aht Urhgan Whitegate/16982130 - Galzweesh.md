@@ -30,6 +30,15 @@
 |       7 | 0x1A7A      |        6778 |
 |       8 | 0x1A7B      |        6779 |
 
+## String References
+
+- **6330**: Eh? You wanna know why these docks're called "Ephramad Port"? You really don't know?
+- **6331**: Y'see, long ago, this city was the capital of a different nation. But Aht Urhgan, she kept expanding until she swallowed up all the countries around 'er.
+- **6332**: The name Ephramad Port's a remnant from the time before this land belonged t' Aht Urhgan. Least, that's what my dad tells me.
+- **6777**: Eh? You wanna know about the ghost ship!? You got a lotta guts t' bring that up in 'earing range of the palace...
+- **6778**: The Immortals are branding anyone what talks about that spook ship as a member of the Seagull Phratrie. Be careful you don't get yourself 'auled away in chains.
+- **6779**: But just between you an' me... I 'eard there's a bloke what saw a great shadow of a ship sailing through the mists of the Silver Sea. Says that 'e saw not one sailor on deck to guide 'er course...
+
 ## Events
 
 ### Event 65535
@@ -84,24 +93,24 @@
   3: 0x0018 [0x13] ExtData[1]->WorkLocal[0] = rand() % 1*
   4: 0x001D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0034
   5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=6330*)
-    → "Eh? You wanna know why these docks're called \u00072Ephramad Port\u00073? You really don't know?\u007F1\u0000\u0007"
+    → "Eh? You wanna know why these docks're called "Ephramad Port"? You really don't know?"
   6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6331*)
-    → "Y'see, long ago, this city was the capital of a different nation. But Aht Urhgan, she kept expanding until she swallowed up all the countries around 'er.\u007F1\u0000\u0007"
+    → "Y'see, long ago, this city was the capital of a different nation. But Aht Urhgan, she kept expanding until she swallowed up all the countries around 'er."
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=6332*)
-    → "The name Ephramad Port's a remnant from the time before this land belonged t' Aht Urhgan. Least, that's what my dad tells me.\u007F1\u0000\u0007"
+    → "The name Ephramad Port's a remnant from the time before this land belonged t' Aht Urhgan. Least, that's what my dad tells me."
  10: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0031 [0x01] GOTO 0x004B
  12: 0x0034 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x004B
  13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=6777*)
-    → "Eh? You wanna know about the ghost ship!?\u0007You got a lotta guts t' bring that up in 'earing range of the palace...\u007F1\u0000\u0007"
+    → "Eh? You wanna know about the ghost ship!? You got a lotta guts t' bring that up in 'earing range of the palace..."
  14: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6778*)
-    → "The Immortals are branding anyone what talks about that spook ship as a member of the Seagull Phratrie. Be careful you don't get yourself 'auled away in chains.\u007F1\u0000\u0007"
+    → "The Immortals are branding anyone what talks about that spook ship as a member of the Seagull Phratrie. Be careful you don't get yourself 'auled away in chains."
  16: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6779*)
-    → "But just between you an' me...\u0007I 'eard there's a bloke what saw a great shadow of a ship sailing through the mists of the Silver Sea. Says that 'e saw not one sailor on deck to guide 'er course...\u007F1\u0000\u0007"
+    → "But just between you an' me... I 'eard there's a bloke what saw a great shadow of a ship sailing through the mists of the Silver Sea. Says that 'e saw not one sailor on deck to guide 'er course..."
  18: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0048 [0x01] GOTO 0x004B
 

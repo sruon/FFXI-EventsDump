@@ -26,6 +26,11 @@
 |       3 | 0x1252      |        4690 |
 |       4 | 0x1251      |        4689 |
 
+## String References
+
+- **4689**: The ship bound for Mhaura will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **4690**: The ship bound for Mhaura is now [arriving/departing].
+
 ## Events
 
 ### Event 65535
@@ -77,12 +82,11 @@
   3: 0x0010 [0x15] Work_Zone[2] /= 60*
   4: 0x0015 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0024
   5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=4690*)
-    → "The ship bound for Mhaura is now \u000C\u0001[arriving/departing].\u007F1\u0000\u0007"
+    → "The ship bound for Mhaura is now [arriving/departing]."
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0021 [0x01] GOTO 0x0028
   8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=4689*)
-    → "The ship bound for Mhaura will \u000C\u0001[arrive/depart] in \u000C\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (
-\u0000 \u007F\u0012\u0000[minute/minutes] in Earth time).\u007F1\u0000\u0007"
+    → "The ship bound for Mhaura will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
   9: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0028:

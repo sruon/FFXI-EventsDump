@@ -1,0 +1,2820 @@
+# 17760459 - Synergy Furnace
+
+## Common Data
+
+| Field            | Value                   |
+|------------------|-------------------------|
+| Zone             | Port Windurst (ID: 240) |
+| Block Size       | 8336 bytes              |
+| Total Events     | 10                      |
+| References Count | 153                     |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [4500](#event-4500)   | 0x0001       |      3 |              1 |
+| [4501](#event-4501)   | 0x0004       |      3 |              1 |
+| [4502](#event-4502)   | 0x0007       |      3 |              1 |
+| [4503](#event-4503)   | 0x000A       |      3 |              1 |
+| [4504](#event-4504)   | 0x000D       |      3 |              1 |
+| [4505](#event-4505)   | 0x0010       |      3 |              1 |
+| [4506](#event-4506)   | 0x0013       |      3 |              1 |
+| [4507](#event-4507)   | 0x0016       |      3 |              1 |
+| [4508](#event-4508)   | 0x0019       |   7641 |           1692 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0001      |           1 |
+|       1 | 0x0008      |           8 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x123A      |        4666 |
+|       4 | 0x0002      |           2 |
+|       5 | 0x0003      |           3 |
+|       6 | 0x006E      |         110 |
+|       7 | 0xFFFFFFFF  |  4294967295 |
+|       8 | 0x0004      |           4 |
+|       9 | 0x0005      |           5 |
+|      10 | 0x00A4      |         164 |
+|      11 | 0x00A3      |         163 |
+|      12 | 0x000F      |          15 |
+|      13 | 0x0010      |          16 |
+|      14 | 0x0017      |          23 |
+|      15 | 0x1216      |        4630 |
+|      16 | 0x1217      |        4631 |
+|      17 | 0x1218      |        4632 |
+|      18 | 0x1219      |        4633 |
+|      19 | 0x121A      |        4634 |
+|      20 | 0x0006      |           6 |
+|      21 | 0x121B      |        4635 |
+|      22 | 0x0007      |           7 |
+|      23 | 0x121C      |        4636 |
+|      24 | 0x121D      |        4637 |
+|      25 | 0x008F      |         143 |
+|      26 | 0x123D      |        4669 |
+|      27 | 0x0064      |         100 |
+|      28 | 0x0070      |         112 |
+|      29 | 0x1231      |        4657 |
+|      30 | 0x006F      |         111 |
+|      31 | 0x122D      |        4653 |
+|      32 | 0x122E      |        4654 |
+|      33 | 0x43AE      |       17326 |
+|      34 | 0x123C      |        4668 |
+|      35 | 0x0009      |           9 |
+|      36 | 0x000A      |          10 |
+|      37 | 0x000B      |          11 |
+|      38 | 0x000C      |          12 |
+|      39 | 0x000D      |          13 |
+|      40 | 0x000E      |          14 |
+|      41 | 0x0011      |          17 |
+|      42 | 0x0012      |          18 |
+|      43 | 0x0013      |          19 |
+|      44 | 0x0014      |          20 |
+|      45 | 0x0015      |          21 |
+|      46 | 0x0016      |          22 |
+|      47 | 0x0091      |         145 |
+|      48 | 0x0018      |          24 |
+|      49 | 0x0094      |         148 |
+|      50 | 0x001F      |          31 |
+|      51 | 0x0019      |          25 |
+|      52 | 0x00A5      |         165 |
+|      53 | 0x00A6      |         166 |
+|      54 | 0x001A      |          26 |
+|      55 | 0x00A7      |         167 |
+|      56 | 0x1241      |        4673 |
+|      57 | 0x0078      |         120 |
+|      58 | 0x1243      |        4675 |
+|      59 | 0x125A      |        4698 |
+|      60 | 0x1240      |        4672 |
+|      61 | 0x0079      |         121 |
+|      62 | 0x1244      |        4676 |
+|      63 | 0x007B      |         123 |
+|      64 | 0x1245      |        4677 |
+|      65 | 0x007A      |         122 |
+|      66 | 0x1246      |        4678 |
+|      67 | 0x1242      |        4674 |
+|      68 | 0x007C      |         124 |
+|      69 | 0x1247      |        4679 |
+|      70 | 0x007D      |         125 |
+|      71 | 0x1248      |        4680 |
+|      72 | 0x007E      |         126 |
+|      73 | 0x1249      |        4681 |
+|      74 | 0x007F      |         127 |
+|      75 | 0x124A      |        4682 |
+|      76 | 0x0080      |         128 |
+|      77 | 0x124B      |        4683 |
+|      78 | 0x0081      |         129 |
+|      79 | 0x124C      |        4684 |
+|      80 | 0x0082      |         130 |
+|      81 | 0x124D      |        4685 |
+|      82 | 0x0083      |         131 |
+|      83 | 0x124E      |        4686 |
+|      84 | 0x0084      |         132 |
+|      85 | 0x124F      |        4687 |
+|      86 | 0x0085      |         133 |
+|      87 | 0x1254      |        4692 |
+|      88 | 0x0086      |         134 |
+|      89 | 0x1255      |        4693 |
+|      90 | 0x0087      |         135 |
+|      91 | 0x1250      |        4688 |
+|      92 | 0x0088      |         136 |
+|      93 | 0x1251      |        4689 |
+|      94 | 0x0089      |         137 |
+|      95 | 0x1252      |        4690 |
+|      96 | 0x008A      |         138 |
+|      97 | 0x1253      |        4691 |
+|      98 | 0x008B      |         139 |
+|      99 | 0x1256      |        4694 |
+|     100 | 0x008C      |         140 |
+|     101 | 0x1257      |        4695 |
+|     102 | 0x008D      |         141 |
+|     103 | 0x1258      |        4696 |
+|     104 | 0x008E      |         142 |
+|     105 | 0x1259      |        4697 |
+|     106 | 0x0090      |         144 |
+|     107 | 0x0093      |         147 |
+|     108 | 0x1283      |        4739 |
+|     109 | 0x1294      |        4756 |
+|     110 | 0x1295      |        4757 |
+|     111 | 0x04D2      |        1234 |
+|     112 | 0x1296      |        4758 |
+|     113 | 0x0092      |         146 |
+|     114 | 0x7FF0302   |   134152962 |
+|     115 | 0x1215      |        4629 |
+|     116 | 0x122B      |        4651 |
+|     117 | 0x0096      |         150 |
+|     118 | 0x0097      |         151 |
+|     119 | 0x1221      |        4641 |
+|     120 | 0x0099      |         153 |
+|     121 | 0x73F0      |       29680 |
+|     122 | 0x121E      |        4638 |
+|     123 | 0x121F      |        4639 |
+|     124 | 0x1220      |        4640 |
+|     125 | 0x0098      |         152 |
+|     126 | 0x009A      |         154 |
+|     127 | 0x009B      |         155 |
+|     128 | 0x1226      |        4646 |
+|     129 | 0x009D      |         157 |
+|     130 | 0x0ADF      |        2783 |
+|     131 | 0x1222      |        4642 |
+|     132 | 0x1223      |        4643 |
+|     133 | 0x009C      |         156 |
+|     134 | 0x0AF0      |        2800 |
+|     135 | 0x1227      |        4647 |
+|     136 | 0x1228      |        4648 |
+|     137 | 0x009F      |         159 |
+|     138 | 0x00A1      |         161 |
+|     139 | 0x00A2      |         162 |
+|     140 | 0x00A0      |         160 |
+|     141 | 0x1229      |        4649 |
+|     142 | 0x00A9      |         169 |
+|     143 | 0x0AD0      |        2768 |
+|     144 | 0x122A      |        4650 |
+|     145 | 0x00A8      |         168 |
+|     146 | 0x00AA      |         170 |
+|     147 | 0x00AB      |         171 |
+|     148 | 0x12B5      |        4789 |
+|     149 | 0x12B6      |        4790 |
+|     150 | 0x12B8      |        4792 |
+|     151 | 0x40000000  |  1073741824 |
+|     152 | 0x12B7      |        4791 |
+
+## String References
+
+- **4629**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: N/A
+- **4630**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3
+- **4631**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5
+- **4632**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7
+- **4633**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9
+- **4634**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11
+- **4635**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13
+- **4636**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15
+- **4637**: Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17
+- **4638**: $8 will be used to etch an aperture on the $3.
+- **4639**: Select elemental alignment. [oo /o!/o"/o#/o$/o%/o&/Cancel.]
+- **4640**: Confirm: $8[oo /o!/o"/o#/o$/o%/o&] [Yes./Redo.]
+- **4641**: This item cannot house any more apertures.
+- **4642**: The $8 will be embedded in the $3.
+- **4643**: Select target aperture. [$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./Cancel.]
+- **4646**: There are no compatible apertures on this item.
+- **4647**: $3 will be used to remove all apertures from the $8.
+- **4648**: Remove all apertures? [Yes./No.]
+- **4649**: There are no removable apertures on this item.
+- **4650**: $3 will be used to remove the most recently etched aperture from the $8.
+- **4651**: Commence synergy? [Yes./No.]
+- **4653**: Internal elemental balance: o$0 o o! o" o# o$ o% o&
+- **4654**: o$0 o o! o" o# o$ o% o&
+- **4657**: Internal pressure: $1 Pz/Im Impurity ratio: $0%
+- **4666**: Select an action. [Lv.$0: Feed fewell./Operate furnace./View furnace readings./End synergy./Review objective./Toggle command confirmation [off/on]./Close menu.]
+- **4668**: Select an action/skill. [Lv.$0: Thwack furnace./Lv.$1: Operate pressure handle./Lv.$2: Operate safety lever./Lv.$3: Repair furnace./Lv.$4: Recycle strewn fewell./Fishing: Lunar Smarts./Fishing: Precision Thwack./Woodworking: Cyclical Smarts./Woodworking: Earth Affinity./Smithing: Combustive Smarts./Smithing: Fire Affinity./Goldsmithing: Engraver's Touch./Goldsmithing: Wind Affinity./Clothcraft: Restorer's Touch./Clothcraft: Lightning Affinity./Leathercraft: Pressurization Smarts./Leathercraft: Ice Affinity./Bonecraft: Carbonization Smarts./Bonecraft: Dark Affinity./Alchemy: Alchemical Smarts./Alchemy: Light Affinity./Cooking: Heating Smarts./Cooking: Water Affinity./DEBUGFForced perfection./DEBUGFSet level (Requires $39)./DEBUG: Set pressure/impurities./DEBUG: Something good./Cancel.]
+- **4669**: Feed which fewell? (current stock) [ofewell ($0)./o fewell ($1)./o! fewell ($2)./o" fewell ($3)./o# fewell ($4)./o$ fewell ($5)./o% fewell ($6)./o& fewell ($7)./Cancel.]
+- **4672**: You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4673**: Your furnace lost a small amount of durability.
+- **4674**: There was no impact on fewell reserves or furnace durability.
+- **4675**: Apply a measured thwack to the furnace to prevent explosion. Cost: Reduction in furnace durability.
+- **4676**: Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4677**: Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4678**: Restore the furnace's durability. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4679**: Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product. Cost: Nothing.
+- **4680**: Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4681**: Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack. Cost: Slight reduction in furnace durability.
+- **4682**: Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4683**: Keenly observe the flow of elements to prevent o"-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4684**: Temporarily improve fewell combustion rate. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4685**: Keenly observe the flow of elements to prevent obased explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4686**: Evenly disperse the furnace's internal stress to delay a looming explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4687**: Keenly observe the flow of elements to prevent o!-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4688**: Temporarily suppress fluctuations in internal pressure. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4689**: Keenly observe the flow of elements to prevent o -based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4690**: Temporarily increase the likelihood of an elemental surge. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4691**: Keenly observe the flow of elements to prevent o&-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4692**: Restore furnace durability by a significant amount. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4693**: Keenly observe the flow of elements to prevent o#-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4694**: Temporarily suppress the force of explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4695**: Keenly observe the flow of elements to prevent o%-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4696**: Gradually purge the furnace of impurities. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4697**: Keenly observe the flow of elements to prevent o$-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining).
+- **4698**: Perform action? [Yes./No.]
+- **4789**: New augments will not take effect until the item is removed from the synergy furnace.
+- **4790**: Remove the item? [Yes, with new augment(s)./Yes, with existing augment(s)./No.]
+- **4791**: Your item's attributes [will be/are] as follows with its [new/current] set of augments:
+- **4792**: Proceed with these attributes? [Yes./On second thought...]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 4500
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0001  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    01 1C 00                                        ...            
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x01] GOTO 0x001C
+```
+
+### Event 4501
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0004  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:             01 8E 10                                  ...         
+```
+
+#### Opcodes
+
+```
+  0: 0x0004 [0x01] GOTO 0x108E
+```
+
+### Event 4502
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0007  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                      01  94 10                           ...      
+```
+
+#### Opcodes
+
+```
+  0: 0x0007 [0x01] GOTO 0x1094
+```
+
+### Event 4503
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000A  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                01 BD 10                     ...   
+```
+
+#### Opcodes
+
+```
+  0: 0x000A [0x01] GOTO 0x10BD
+```
+
+### Event 4504
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x000D  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                         01 E1 12               ...
+```
+
+#### Opcodes
+
+```
+  0: 0x000D [0x01] GOTO 0x12E1
+```
+
+### Event 4505
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0010  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010: 01 63 15                                          .c.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0010 [0x01] GOTO 0x1563
+```
+
+### Event 4506
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0013  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:          01 D8 18                                    ...          
+```
+
+#### Opcodes
+
+```
+  0: 0x0013 [0x01] GOTO 0x18D8
+```
+
+### Event 4507
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0016  |
+| Data Size    | 3 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                   01 27  1A                             .'.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0016 [0x01] GOTO 0x1A27
+```
+
+### Event 4508
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x0019     |
+| Data Size    | 7641 bytes |
+| Instructions | 77         |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                             01 7C 1C 03 2D 00 02           .|..-..
+0020: 10 02 03 10 00 80 01 31  00 03 2C 00 01 80 01 34  .......1..,....4
+0030: 00 06 2C 00 03 3A 00 04  10 03 3B 00 05 10 1A D9  ..,..:....;.....
+0040: 0F 06 36 00 06 37 00 06  38 00 02 00 80 00 80 00  ..6..7..8.......
+0050: 20 01 03 02 10 18 00 41  02 80 02 80 39 00 03 10   ......A....9...
+0060: 24 03 80 36 00 2C 00 25  02 00 10 02 80 00 7B 00  $..6.,.%......{.
+0070: 03 36 00 00 10 1A D0 02  01 1D 01 02 00 10 00 80  .6..............
+0080: 00 8E 00 03 36 00 00 10  1A F7 03 01 1D 01 02 00  ....6...........
+0090: 10 04 80 00 A4 00 03 36  00 00 10 1A 24 03 1A 3B  .......6....$..;
+00A0: 03 01 1D 01 02 00 10 05  80 00 CD 00 42 03 01 10  ............B...
+00B0: 06 80 43 00 43 01 02 02  10 07 80 01 C9 00 03 01  ..C.C...........
+00C0: 10 06 80 01 20 01 01 CA  00 2E 01 1D 01 02 00 10  .... ...........
+00D0: 08 80 00 E0 00 03 36 00  00 10 1A 22 01 01 1D 01  ......6...."....
+00E0: 02 00 10 09 80 00 17 01  3E 39 00 02 80 F9 00 3D  ........>9.....=
+00F0: 39 00 02 80 00 80 01 00  01 3C 39 00 02 80 00 80  9........<9.....
+0100: 03 01 10 0A 80 43 00 43  01 02 09 10 07 80 01 14  .....C.C........
+0110: 01 1A D9 0F 01 1D 01 06  01 10 01 20 01 01 4A 00  ........... ..J.
+0120: 21 00 03 01 10 0B 80 43  00 43 01 02 09 10 07 80  !......C.C......
+0130: 00 34 01 1B 03 2E 00 02  10 03 2F 00 03 10 03 30  .4......../....0
+0140: 00 04 10 03 31 00 05 10  03 32 00 06 10 03 33 00  ....1....2....3.
+0150: 07 10 03 34 00 08 10 03  35 00 09 10 41 02 80 0C  ...4....5...A...
+0160: 80 32 00 02 10 41 0D 80  0E 80 32 00 03 10 02 03  .2...A....2.....
+0170: 10 02 80 00 7B 01 03 03  10 00 80 03 15 17 2F 00  ....{........./.
+0180: 03 16 17 2E 00 03 17 17  30 00 03 18 17 31 00 1A  ........0....1..
+0190: EF 11 02 3A 00 09 80 01  DF 01 02 33 00 02 80 00  ...:.......3....
+01A0: D2 01 02 34 00 02 80 00  C5 01 02 35 00 02 80 00  ...4.......5....
+01B0: B8 01 93 02 10 01 C2 01  CC 01 02 10 33 00 34 00  ............3.4.
+01C0: 35 00 01 CF 01 CC 01 02  10 33 00 34 00 35 00 01  5........3.4.5..
+01D0: DC 01 CC 01 02 10 33 00  34 00 35 00 01 F7 01 02  ......3.4.5.....
+01E0: 3B 00 00 80 00 ED 01 93  02 10 01 F7 01 CC 01 02  ;...............
+01F0: 10 33 00 34 00 35 00 06  23 00 06 1E 00 02 1E 00  .3.4.5..#.......
+0200: 01 80 03 15 02 3E 2E 00  1E 00 0F 02 0B 23 00 0B  .....>.......#..
+0210: 1E 00 01 FD 01 02 23 00  00 80 80 24 02 48 0F 80  ......#....$.H..
+0220: 23 01 8D 02 02 23 00 04  80 80 33 02 48 10 80 23  #....#....3.H..#
+0230: 01 8D 02 02 23 00 05 80  80 42 02 48 11 80 23 01  ....#....B.H..#.
+0240: 8D 02 02 23 00 08 80 80  51 02 48 12 80 23 01 8D  ...#....Q.H..#..
+0250: 02 02 23 00 09 80 80 60  02 48 13 80 23 01 8D 02  ..#....`.H..#...
+0260: 02 23 00 14 80 80 6F 02  48 15 80 23 01 8D 02 02  .#....o.H..#....
+0270: 23 00 16 80 80 7E 02 48  17 80 23 01 8D 02 02 23  #....~.H..#....#
+0280: 00 01 80 80 8D 02 48 18  80 23 01 8D 02 02 33 00  ......H..#....3.
+0290: 02 80 00 C5 02 02 34 00  02 80 00 B8 02 02 35 00  ......4.......5.
+02A0: 02 80 00 AB 02 93 02 80  01 B5 02 CC 01 02 80 02  ................
+02B0: 80 02 80 02 80 01 C2 02  CC 01 02 80 02 80 02 80  ................
+02C0: 02 80 01 CF 02 CC 01 02  80 02 80 02 80 02 80 1B  ................
+02D0: 03 01 10 19 80 43 00 43  01 02 09 10 07 80 00 E2  .....C.C........
+02E0: 02 1B 24 1A 80 37 00 02  80 25 02 00 10 01 80 00  ..$..7...%......
+02F0: F6 02 1B 01 F6 02 03 01  10 00 10 02 01 10 01 80  ................
+0300: 02 07 03 1B 01 0C 03 03  37 00 00 10 07 01 10 1B  ........7.......
+0310: 80 43 00 43 01 02 09 10  02 80 00 20 03 1A 4D 03  .C.C....... ..M.
+0320: 1A 43 10 1B 03 01 10 1C  80 43 00 43 01 02 09 10  .C.......C.C....
+0330: 07 80 00 36 03 1B 48 1D  80 23 1B 03 01 10 1E 80  ...6..H..#......
+0340: 43 00 43 01 02 09 10 07  80 00 4D 03 1B 1A 48 0F  C.C.......M...H.
+0350: 03 02 10 00 00 08 02 10  1B 80 03 03 10 01 00 08  ................
+0360: 03 10 1B 80 03 04 10 02  00 08 04 10 1B 80 03 05  ................
+0370: 10 03 00 08 05 10 1B 80  03 06 10 04 00 08 06 10  ................
+0380: 1B 80 03 07 10 05 00 08  07 10 1B 80 03 08 10 06  ................
+0390: 00 08 08 10 1B 80 03 09  10 07 00 08 09 10 1B 80  ................
+03A0: 48 1F 80 03 02 10 08 00  08 02 10 1B 80 03 03 10  H...............
+03B0: 09 00 08 03 10 1B 80 03  04 10 0A 00 08 04 10 1B  ................
+03C0: 80 03 05 10 0B 00 08 05  10 1B 80 03 06 10 0C 00  ................
+03D0: 08 06 10 1B 80 03 07 10  0D 00 08 07 10 1B 80 03  ................
+03E0: 08 10 0E 00 08 08 10 1B  80 03 09 10 0F 00 08 09  ................
+03F0: 10 1B 80 48 20 80 1B 03  02 10 19 00 03 03 10 1A  ...H ...........
+0400: 00 03 04 10 1B 00 03 05  10 1C 00 03 06 10 1D 00  ................
+0410: 03 1F 17 21 80 06 2B 00  24 22 80 38 00 2D 00 25  ...!..+.$".8.-.%
+0420: 02 00 10 02 80 00 33 04  03 38 00 00 10 1A 82 06  ......3..8......
+0430: 01 73 06 02 00 10 00 80  00 46 04 03 38 00 00 10  .s.......F..8...
+0440: 1A C7 06 01 73 06 02 00  10 04 80 00 59 04 03 38  ....s.......Y..8
+0450: 00 00 10 1A 29 07 01 73  06 02 00 10 05 80 00 6C  ....)..s.......l
+0460: 04 03 38 00 00 10 1A 8B  07 01 73 06 02 00 10 08  ..8.......s.....
+0470: 80 00 7F 04 03 38 00 00  10 1A ED 07 01 73 06 02  .....8.......s..
+0480: 00 10 09 80 00 92 04 03  38 00 00 10 1A 3D 08 01  ........8....=..
+0490: 73 06 02 00 10 14 80 00  A5 04 03 38 00 00 10 1A  s..........8....
+04A0: C6 08 01 73 06 02 00 10  16 80 00 B8 04 03 38 00  ...s..........8.
+04B0: 00 10 1A 16 09 01 73 06  02 00 10 01 80 00 CB 04  ......s.........
+04C0: 03 38 00 00 10 1A 78 09  01 73 06 02 00 10 23 80  .8....x..s....#.
+04D0: 00 DE 04 03 38 00 00 10  1A DA 09 01 73 06 02 00  ....8.......s...
+04E0: 10 24 80 00 F1 04 03 38  00 00 10 1A 3C 0A 01 73  .$.....8....<..s
+04F0: 06 02 00 10 25 80 00 04  05 03 38 00 00 10 1A 9E  ....%.....8.....
+0500: 0A 01 73 06 02 00 10 26  80 00 17 05 03 38 00 00  ..s....&.....8..
+0510: 10 1A 00 0B 01 73 06 02  00 10 27 80 00 2A 05 03  .....s....'..*..
+0520: 38 00 00 10 1A 62 0B 01  73 06 02 00 10 28 80 00  8....b..s....(..
+0530: 3D 05 03 38 00 00 10 1A  C4 0B 01 73 06 02 00 10  =..8.......s....
+0540: 0C 80 00 50 05 03 38 00  00 10 1A 26 0C 01 73 06  ...P..8....&..s.
+0550: 02 00 10 0D 80 00 63 05  03 38 00 00 10 1A 88 0C  ......c..8......
+0560: 01 73 06 02 00 10 29 80  00 76 05 03 38 00 00 10  .s....)..v..8...
+0570: 1A EA 0C 01 73 06 02 00  10 2A 80 00 89 05 03 38  ....s....*.....8
+0580: 00 00 10 1A 4C 0D 01 73  06 02 00 10 2B 80 00 9C  ....L..s....+...
+0590: 05 03 38 00 00 10 1A AE  0D 01 73 06 02 00 10 2C  ..8.......s....,
+05A0: 80 00 AF 05 03 38 00 00  10 1A 10 0E 01 73 06 02  .....8.......s..
+05B0: 00 10 2D 80 00 C2 05 03  38 00 00 10 1A 72 0E 01  ..-.....8....r..
+05C0: 73 06 02 00 10 2E 80 00  D5 05 03 38 00 00 10 1A  s..........8....
+05D0: D4 0E 01 73 06 02 00 10  0E 80 00 E9 05 03 01 10  ...s............
+05E0: 2F 80 43 00 43 01 01 73  06 02 00 10 30 80 00 0E  /.C.C..s....0...
+05F0: 06 03 01 10 31 80 71 10  00 80 71 11 1F 17 40 0D  ....1.q...q...@.
+0600: 80 32 80 01 10 1F 17 43  00 43 01 01 73 06 02 00  .2.....C.C..s...
+0610: 10 33 80 00 4D 06 03 01  10 34 80 71 10 00 80 71  .3..M....4.q...q
+0620: 11 1F 17 40 0D 80 32 80  01 10 1F 17 43 00 43 01  ...@..2.....C.C.
+0630: 03 01 10 35 80 71 10 00  80 71 11 1F 17 40 0D 80  ...5.q...q...@..
+0640: 32 80 01 10 1F 17 43 00  43 01 01 73 06 02 00 10  2.....C.C..s....
+0650: 36 80 00 72 06 03 01 10  37 80 71 10 00 80 71 11  6..r....7.q...q.
+0660: 1F 17 40 0D 80 32 80 01  10 1F 17 43 00 43 01 01  ..@..2.....C.C..
+0670: 73 06 1B 02 2B 00 02 80  01 81 06 01 F7 03 01 81  s...+...........
+0680: 06 1B 3E 39 00 02 80 98  06 48 38 80 03 01 10 39  ..>9.....H8....9
+0690: 80 43 00 43 01 01 C6 06  48 3A 80 23 24 3B 80 02  .C.C....H:.#$;..
+06A0: 80 02 80 25 02 00 10 02  80 00 C3 06 03 01 10 39  ...%...........9
+06B0: 80 43 00 43 01 02 09 10  07 80 01 C0 06 1A 55 10  .C.C..........U.
+06C0: 01 C6 06 05 2B 00 1B 03  02 10 16 80 03 03 10 05  ....+...........
+06D0: 80 9D 00 7E 10 04 10 02  10 3E 39 00 02 80 FA 06  ...~.....>9.....
+06E0: 48 3C 80 03 01 10 3D 80  43 00 43 01 02 09 10 07  H<....=.C.C.....
+06F0: 80 01 F7 06 1A 55 10 01  28 07 48 3E 80 23 24 3B  .....U..(.H>.#$;
+0700: 80 02 80 02 80 25 02 00  10 02 80 00 25 07 03 01  .....%......%...
+0710: 10 3D 80 43 00 43 01 02  09 10 07 80 01 22 07 1A  .=.C.C......."..
+0720: 55 10 01 28 07 05 2B 00  1B 03 02 10 16 80 03 03  U..(..+.........
+0730: 10 14 80 9D 00 7E 10 04  10 02 10 3E 39 00 02 80  .....~.....>9...
+0740: 5C 07 48 3C 80 03 01 10  3F 80 43 00 43 01 02 09  \.H<....?.C.C...
+0750: 10 07 80 01 59 07 1A 55  10 01 8A 07 48 40 80 23  ....Y..U....H@.#
+0760: 24 3B 80 02 80 02 80 25  02 00 10 02 80 00 87 07  $;.....%........
+0770: 03 01 10 3F 80 43 00 43  01 02 09 10 07 80 01 84  ...?.C.C........
+0780: 07 1A 55 10 01 8A 07 05  2B 00 1B 03 02 10 14 80  ..U.....+.......
+0790: 03 03 10 14 80 9D 00 7E  10 04 10 02 10 3E 39 00  .......~.....>9.
+07A0: 02 80 BE 07 48 3C 80 03  01 10 41 80 43 00 43 01  ....H<....A.C.C.
+07B0: 02 09 10 07 80 01 BB 07  1A 55 10 01 EC 07 48 42  .........U....HB
+07C0: 80 23 24 3B 80 02 80 02  80 25 02 00 10 02 80 00  .#$;.....%......
+07D0: E9 07 03 01 10 41 80 43  00 43 01 02 09 10 07 80  .....A.C.C......
+07E0: 01 E6 07 1A 55 10 01 EC  07 05 2B 00 1B 3E 39 00  ....U.....+..>9.
+07F0: 02 80 0E 08 48 43 80 03  01 10 44 80 43 00 43 01  ....HC....D.C.C.
+0800: 02 09 10 07 80 01 0B 08  1A 55 10 01 3C 08 48 45  .........U..<.HE
+0810: 80 23 24 3B 80 02 80 02  80 25 02 00 10 02 80 00  .#$;.....%......
+0820: 39 08 03 01 10 44 80 43  00 43 01 02 09 10 07 80  9....D.C.C......
+0830: 01 36 08 1A 55 10 01 3C  08 05 2B 00 1B 83 09 10  .6..U..<..+.....
+0840: AA 09 10 09 10 09 10 09  10 02 10 09 10 09 10 09  ................
+0850: 10 9D 00 B6 08 02 10 02  10 03 03 10 09 80 9D 00  ................
+0860: 7E 10 04 10 02 10 3E 39  00 02 80 87 08 48 3C 80  ~.....>9.....H<.
+0870: 03 01 10 46 80 43 00 43  01 02 09 10 07 80 01 84  ...F.C.C........
+0880: 08 1A 55 10 01 B5 08 48  47 80 23 24 3B 80 02 80  ..U....HG.#$;...
+0890: 02 80 25 02 00 10 02 80  00 B2 08 03 01 10 46 80  ..%...........F.
+08A0: 43 00 43 01 02 09 10 07  80 01 AF 08 1A 55 10 01  C.C..........U..
+08B0: B5 08 05 2B 00 1B 02 80  05 80 09 80 04 80 00 80  ...+............
+08C0: 08 80 14 80 16 80 3E 39  00 02 80 E7 08 48 38 80  ......>9.....H8.
+08D0: 03 01 10 48 80 43 00 43  01 02 09 10 07 80 01 E4  ...H.C.C........
+08E0: 08 1A 55 10 01 15 09 48  49 80 23 24 3B 80 02 80  ..U....HI.#$;...
+08F0: 02 80 25 02 00 10 02 80  00 12 09 03 01 10 48 80  ..%...........H.
+0900: 43 00 43 01 02 09 10 07  80 01 0F 09 1A 55 10 01  C.C..........U..
+0910: 15 09 05 2B 00 1B 03 02  10 05 80 03 03 10 24 80  ...+..........$.
+0920: 9D 00 7E 10 04 10 02 10  3E 39 00 02 80 49 09 48  ..~.....>9...I.H
+0930: 3C 80 03 01 10 4A 80 43  00 43 01 02 09 10 07 80  <....J.C.C......
+0940: 01 46 09 1A 55 10 01 77  09 48 4B 80 23 24 3B 80  .F..U..w.HK.#$;.
+0950: 02 80 02 80 25 02 00 10  02 80 00 74 09 03 01 10  ....%......t....
+0960: 4A 80 43 00 43 01 02 09  10 07 80 01 71 09 1A 55  J.C.C.......q..U
+0970: 10 01 77 09 05 2B 00 1B  03 02 10 04 80 03 03 10  ..w..+..........
+0980: 09 80 9D 00 7E 10 04 10  02 10 3E 39 00 02 80 AB  ....~.....>9....
+0990: 09 48 3C 80 03 01 10 4C  80 43 00 43 01 02 09 10  .H<....L.C.C....
+09A0: 07 80 01 A8 09 1A 55 10  01 D9 09 48 4D 80 23 24  ......U....HM.#$
+09B0: 3B 80 02 80 02 80 25 02  00 10 02 80 00 D6 09 03  ;.....%.........
+09C0: 01 10 4C 80 43 00 43 01  02 09 10 07 80 01 D3 09  ..L.C.C.........
+09D0: 1A 55 10 01 D9 09 05 2B  00 1B 03 02 10 09 80 03  .U.....+........
+09E0: 03 10 24 80 9D 00 7E 10  04 10 02 10 3E 39 00 02  ..$...~.....>9..
+09F0: 80 0D 0A 48 3C 80 03 01  10 4E 80 43 00 43 01 02  ...H<....N.C.C..
+0A00: 09 10 07 80 01 0A 0A 1A  55 10 01 3B 0A 48 4F 80  ........U..;.HO.
+0A10: 23 24 3B 80 02 80 02 80  25 02 00 10 02 80 00 38  #$;.....%......8
+0A20: 0A 03 01 10 4E 80 43 00  43 01 02 09 10 07 80 01  ....N.C.C.......
+0A30: 35 0A 1A 55 10 01 3B 0A  05 2B 00 1B 03 02 10 09  5..U..;..+......
+0A40: 80 03 03 10 09 80 9D 00  7E 10 04 10 02 10 3E 39  ........~.....>9
+0A50: 00 02 80 6F 0A 48 3C 80  03 01 10 50 80 43 00 43  ...o.H<....P.C.C
+0A60: 01 02 09 10 07 80 01 6C  0A 1A 55 10 01 9D 0A 48  .......l..U....H
+0A70: 51 80 23 24 3B 80 02 80  02 80 25 02 00 10 02 80  Q.#$;.....%.....
+0A80: 00 9A 0A 03 01 10 50 80  43 00 43 01 02 09 10 07  ......P.C.C.....
+0A90: 80 01 97 0A 1A 55 10 01  9D 0A 05 2B 00 1B 03 02  .....U.....+....
+0AA0: 10 14 80 03 03 10 24 80  9D 00 7E 10 04 10 02 10  ......$...~.....
+0AB0: 3E 39 00 02 80 D1 0A 48  3C 80 03 01 10 52 80 43  >9.....H<....R.C
+0AC0: 00 43 01 02 09 10 07 80  01 CE 0A 1A 55 10 01 FF  .C..........U...
+0AD0: 0A 48 53 80 23 24 3B 80  02 80 02 80 25 02 00 10  .HS.#$;.....%...
+0AE0: 02 80 00 FC 0A 03 01 10  52 80 43 00 43 01 02 09  ........R.C.C...
+0AF0: 10 07 80 01 F9 0A 1A 55  10 01 FF 0A 05 2B 00 1B  .......U.....+..
+0B00: 03 02 10 00 80 03 03 10  09 80 9D 00 7E 10 04 10  ............~...
+0B10: 02 10 3E 39 00 02 80 33  0B 48 3C 80 03 01 10 54  ..>9...3.H<....T
+0B20: 80 43 00 43 01 02 09 10  07 80 01 30 0B 1A 55 10  .C.C.......0..U.
+0B30: 01 61 0B 48 55 80 23 24  3B 80 02 80 02 80 25 02  .a.HU.#$;.....%.
+0B40: 00 10 02 80 00 5E 0B 03  01 10 54 80 43 00 43 01  .....^....T.C.C.
+0B50: 02 09 10 07 80 01 5B 0B  1A 55 10 01 61 0B 05 2B  ......[..U..a..+
+0B60: 00 1B 03 02 10 14 80 03  03 10 24 80 9D 00 7E 10  ..........$...~.
+0B70: 04 10 02 10 3E 39 00 02  80 95 0B 48 3C 80 03 01  ....>9.....H<...
+0B80: 10 56 80 43 00 43 01 02  09 10 07 80 01 92 0B 1A  .V.C.C..........
+0B90: 55 10 01 C3 0B 48 57 80  23 24 3B 80 02 80 02 80  U....HW.#$;.....
+0BA0: 25 02 00 10 02 80 00 C0  0B 03 01 10 56 80 43 00  %...........V.C.
+0BB0: 43 01 02 09 10 07 80 01  BD 0B 1A 55 10 01 C3 0B  C..........U....
+0BC0: 05 2B 00 1B 03 02 10 05  80 03 03 10 09 80 9D 00  .+..............
+0BD0: 7E 10 04 10 02 10 3E 39  00 02 80 F7 0B 48 3C 80  ~.....>9.....H<.
+0BE0: 03 01 10 58 80 43 00 43  01 02 09 10 07 80 01 F4  ...X.C.C........
+0BF0: 0B 1A 55 10 01 25 0C 48  59 80 23 24 3B 80 02 80  ..U..%.HY.#$;...
+0C00: 02 80 25 02 00 10 02 80  00 22 0C 03 01 10 58 80  ..%......"....X.
+0C10: 43 00 43 01 02 09 10 07  80 01 1F 0C 1A 55 10 01  C.C..........U..
+0C20: 25 0C 05 2B 00 1B 03 02  10 00 80 03 03 10 24 80  %..+..........$.
+0C30: 9D 00 7E 10 04 10 02 10  3E 39 00 02 80 59 0C 48  ..~.....>9...Y.H
+0C40: 3C 80 03 01 10 5A 80 43  00 43 01 02 09 10 07 80  <....Z.C.C......
+0C50: 01 56 0C 1A 55 10 01 87  0C 48 5B 80 23 24 3B 80  .V..U....H[.#$;.
+0C60: 02 80 02 80 25 02 00 10  02 80 00 84 0C 03 01 10  ....%...........
+0C70: 5A 80 43 00 43 01 02 09  10 07 80 01 81 0C 1A 55  Z.C.C..........U
+0C80: 10 01 87 0C 05 2B 00 1B  03 02 10 02 80 03 03 10  .....+..........
+0C90: 09 80 9D 00 7E 10 04 10  02 10 3E 39 00 02 80 BB  ....~.....>9....
+0CA0: 0C 48 3C 80 03 01 10 5C  80 43 00 43 01 02 09 10  .H<....\.C.C....
+0CB0: 07 80 01 B8 0C 1A 55 10  01 E9 0C 48 5D 80 23 24  ......U....H].#$
+0CC0: 3B 80 02 80 02 80 25 02  00 10 02 80 00 E6 0C 03  ;.....%.........
+0CD0: 01 10 5C 80 43 00 43 01  02 09 10 07 80 01 E3 0C  ..\.C.C.........
+0CE0: 1A 55 10 01 E9 0C 05 2B  00 1B 03 02 10 02 80 03  .U.....+........
+0CF0: 03 10 24 80 9D 00 7E 10  04 10 02 10 3E 39 00 02  ..$...~.....>9..
+0D00: 80 1D 0D 48 3C 80 03 01  10 5E 80 43 00 43 01 02  ...H<....^.C.C..
+0D10: 09 10 07 80 01 1A 0D 1A  55 10 01 4B 0D 48 5F 80  ........U..K.H_.
+0D20: 23 24 3B 80 02 80 02 80  25 02 00 10 02 80 00 48  #$;.....%......H
+0D30: 0D 03 01 10 5E 80 43 00  43 01 02 09 10 07 80 01  ....^.C.C.......
+0D40: 45 0D 1A 55 10 01 4B 0D  05 2B 00 1B 03 02 10 14  E..U..K..+......
+0D50: 80 03 03 10 09 80 9D 00  7E 10 04 10 02 10 3E 39  ........~.....>9
+0D60: 00 02 80 7F 0D 48 3C 80  03 01 10 60 80 43 00 43  .....H<....`.C.C
+0D70: 01 02 09 10 07 80 01 7C  0D 1A 55 10 01 AD 0D 48  .......|..U....H
+0D80: 61 80 23 24 3B 80 02 80  02 80 25 02 00 10 02 80  a.#$;.....%.....
+0D90: 00 AA 0D 03 01 10 60 80  43 00 43 01 02 09 10 07  ......`.C.C.....
+0DA0: 80 01 A7 0D 1A 55 10 01  AD 0D 05 2B 00 1B 03 02  .....U.....+....
+0DB0: 10 05 80 03 03 10 24 80  9D 00 7E 10 04 10 02 10  ......$...~.....
+0DC0: 3E 39 00 02 80 E1 0D 48  3C 80 03 01 10 62 80 43  >9.....H<....b.C
+0DD0: 00 43 01 02 09 10 07 80  01 DE 0D 1A 55 10 01 0F  .C..........U...
+0DE0: 0E 48 63 80 23 24 3B 80  02 80 02 80 25 02 00 10  .Hc.#$;.....%...
+0DF0: 02 80 00 0C 0E 03 01 10  62 80 43 00 43 01 02 09  ........b.C.C...
+0E00: 10 07 80 01 09 0E 1A 55  10 01 0F 0E 05 2B 00 1B  .......U.....+..
+0E10: 03 02 10 16 80 03 03 10  09 80 9D 00 7E 10 04 10  ............~...
+0E20: 02 10 3E 39 00 02 80 43  0E 48 3C 80 03 01 10 64  ..>9...C.H<....d
+0E30: 80 43 00 43 01 02 09 10  07 80 01 40 0E 1A 55 10  .C.C.......@..U.
+0E40: 01 71 0E 48 65 80 23 24  3B 80 02 80 02 80 25 02  .q.He.#$;.....%.
+0E50: 00 10 02 80 00 6E 0E 03  01 10 64 80 43 00 43 01  .....n....d.C.C.
+0E60: 02 09 10 07 80 01 6B 0E  1A 55 10 01 71 0E 05 2B  ......k..U..q..+
+0E70: 00 1B 03 02 10 14 80 03  03 10 24 80 9D 00 7E 10  ..........$...~.
+0E80: 04 10 02 10 3E 39 00 02  80 A5 0E 48 3C 80 03 01  ....>9.....H<...
+0E90: 10 66 80 43 00 43 01 02  09 10 07 80 01 A2 0E 1A  .f.C.C..........
+0EA0: 55 10 01 D3 0E 48 67 80  23 24 3B 80 02 80 02 80  U....Hg.#$;.....
+0EB0: 25 02 00 10 02 80 00 D0  0E 03 01 10 66 80 43 00  %...........f.C.
+0EC0: 43 01 02 09 10 07 80 01  CD 0E 1A 55 10 01 D3 0E  C..........U....
+0ED0: 05 2B 00 1B 03 02 10 08  80 03 03 10 09 80 9D 00  .+..............
+0EE0: 7E 10 04 10 02 10 3E 39  00 02 80 07 0F 48 3C 80  ~.....>9.....H<.
+0EF0: 03 01 10 68 80 43 00 43  01 02 09 10 07 80 01 04  ...h.C.C........
+0F00: 0F 1A 55 10 01 35 0F 48  69 80 23 24 3B 80 02 80  ..U..5.Hi.#$;...
+0F10: 02 80 25 02 00 10 02 80  00 32 0F 03 01 10 68 80  ..%......2....h.
+0F20: 43 00 43 01 02 09 10 07  80 01 2F 0F 1A 55 10 01  C.C......./..U..
+0F30: 35 0F 05 2B 00 1B 03 01  10 6A 80 43 00 43 01 02  5..+.....j.C.C..
+0F40: 09 10 07 80 00 48 0F 1B  41 02 80 16 80 02 10 00  .....H..A.......
+0F50: 00 41 01 80 0C 80 02 10  08 00 41 0D 80 0E 80 02  .A........A.....
+0F60: 10 01 00 41 30 80 32 80  02 10 09 00 41 02 80 16  ...A0.2.....A...
+0F70: 80 03 10 02 00 41 01 80  0C 80 03 10 0A 00 41 0D  .....A........A.
+0F80: 80 0E 80 03 10 03 00 41  30 80 32 80 03 10 0B 00  .......A0.2.....
+0F90: 41 02 80 16 80 04 10 04  00 41 01 80 0C 80 04 10  A........A......
+0FA0: 0C 00 41 0D 80 0E 80 04  10 05 00 41 30 80 32 80  ..A........A0.2.
+0FB0: 04 10 0D 00 41 02 80 16  80 05 10 06 00 41 01 80  ....A........A..
+0FC0: 0C 80 05 10 0E 00 41 0D  80 0E 80 05 10 07 00 41  ......A........A
+0FD0: 30 80 32 80 05 10 0F 00  1B 03 01 10 6B 80 43 00  0.2.........k.C.
+0FE0: 43 01 02 09 10 07 80 00  EB 0F 1B 41 32 80 32 80  C..........A2.2.
+0FF0: 03 10 1F 00 02 1F 00 02  80 01 06 10 3C 39 00 02  ............<9..
+1000: 80 00 80 01 0D 10 3D 39  00 02 80 00 80 41 02 80  ......=9.....A..
+1010: 04 80 04 10 18 00 41 05  80 09 80 04 10 19 00 41  ......A........A
+1020: 14 80 01 80 04 10 1A 00  41 23 80 25 80 04 10 1B  ........A#.%....
+1030: 00 41 26 80 28 80 04 10  1C 00 41 0C 80 29 80 04  .A&.(.....A..)..
+1040: 10 1D 00 03 01 10 19 80  43 00 43 01 02 09 10 07  ........C.C.....
+1050: 80 00 55 10 1B 03 10 00  02 10 03 11 00 03 10 03  ..U.............
+1060: 12 00 04 10 03 13 00 05  10 03 14 00 06 10 03 15  ................
+1070: 00 07 10 03 16 00 08 10  03 17 00 09 10 1B 10 00  ................
+1080: 11 00 12 00 13 00 14 00  15 00 16 00 17 00 42 48  ..............BH
+1090: 6C 80 21 00 42 48 6C 80  48 6D 80 24 6E 80 00 80  l.!.BHl.Hm.$n...
+10A0: 02 80 25 02 00 10 02 80  00 BB 10 03 02 10 6F 80  ..%...........o.
+10B0: 48 70 80 03 01 10 71 80  01 BB 10 21 00 42 03 1F  Hp....q....!.B..
+10C0: 00 02 10 03 20 00 03 10  03 21 00 04 10 03 22 00  .... ....!....".
+10D0: 05 10 03 15 17 06 10 03  23 00 07 10 03 24 00 08  ........#....$..
+10E0: 10 41 02 80 0C 80 22 00  02 10 41 0D 80 0E 80 22  .A...."...A...."
+10F0: 00 03 10 03 16 17 1F 00  03 17 17 20 00 03 18 17  ........... ....
+1100: 21 00 1A EF 11 02 23 00  02 80 00 13 11 93 02 10  !.....#.........
+1110: 01 2B 11 02 24 00 00 80  00 21 11 93 02 10 01 2B  .+..$....!.....+
+1120: 11 CC 01 02 10 72 80 02  80 02 80 06 23 00 06 1E  .....r......#...
+1130: 00 02 1E 00 01 80 03 49  11 3E 1F 00 1E 00 43 11  .......I.>....C.
+1140: 0B 23 00 0B 1E 00 01 31  11 02 23 00 02 80 80 58  .#.....1..#....X
+1150: 11 48 73 80 23 01 D0 11  02 23 00 00 80 80 67 11  .Hs.#....#....g.
+1160: 48 0F 80 23 01 D0 11 02  23 00 04 80 80 76 11 48  H..#....#....v.H
+1170: 10 80 23 01 D0 11 02 23  00 05 80 80 85 11 48 11  ..#....#......H.
+1180: 80 23 01 D0 11 02 23 00  08 80 80 94 11 48 12 80  .#....#......H..
+1190: 23 01 D0 11 02 23 00 09  80 80 A3 11 48 13 80 23  #....#......H..#
+11A0: 01 D0 11 02 23 00 14 80  80 B2 11 48 15 80 23 01  ....#......H..#.
+11B0: D0 11 02 23 00 16 80 80  C1 11 48 17 80 23 01 D0  ...#......H..#..
+11C0: 11 02 23 00 01 80 80 D0  11 48 18 80 23 01 D0 11  ..#......H..#...
+11D0: 24 74 80 02 80 02 80 25  02 00 10 02 80 00 E8 11  $t.....%........
+11E0: 03 01 10 75 80 01 ED 11  03 01 10 76 80 21 00 06  ...u.......v.!..
+11F0: 1E 00 06 20 00 02 1E 00  01 80 03 C0 12 3E 16 17  ... .........>..
+1200: 1E 00 BA 12 9D 05 C1 12  1E 00 20 00 06 2B 00 02  .......... ..+..
+1210: 1E 00 02 80 80 23 12 41  02 80 16 80 17 17 2B 00  .....#.A......+.
+1220: 01 AF 12 02 1E 00 00 80  80 37 12 41 01 80 0C 80  .........7.A....
+1230: 17 17 2B 00 01 AF 12 02  1E 00 04 80 80 4B 12 41  ..+..........K.A
+1240: 0D 80 0E 80 17 17 2B 00  01 AF 12 02 1E 00 05 80  ......+.........
+1250: 80 5F 12 41 30 80 32 80  17 17 2B 00 01 AF 12 02  ._.A0.2...+.....
+1260: 1E 00 08 80 80 73 12 41  02 80 16 80 18 17 2B 00  .....s.A......+.
+1270: 01 AF 12 02 1E 00 09 80  80 87 12 41 01 80 0C 80  ...........A....
+1280: 18 17 2B 00 01 AF 12 02  1E 00 14 80 80 9B 12 41  ..+............A
+1290: 0D 80 0E 80 18 17 2B 00  01 AF 12 02 1E 00 16 80  ......+.........
+12A0: 80 AF 12 41 30 80 32 80  18 17 2B 00 01 AF 12 9D  ...A0.2...+.....
+12B0: 05 D1 12 2B 00 20 00 0B  20 00 0B 1E 00 01 F5 11  ...+. .. .......
+12C0: 1B 04 10 06 10 08 10 00  17 02 17 04 17 06 17 08  ................
+12D0: 17 05 10 07 10 09 10 01  17 03 17 05 17 07 17 09  ................
+12E0: 17 42 03 1F 00 02 10 03  20 00 03 10 03 21 00 04  .B...... ....!..
+12F0: 10 03 22 00 05 10 03 23  00 06 10 03 24 00 07 10  .."....#....$...
+1300: 03 25 00 08 10 3E 23 00  2C 80 38 13 3E 24 00 2C  .%...>#.,.8.>$.,
+1310: 80 30 13 3E 25 00 2C 80  28 13 48 77 80 23 03 01  .0.>%.,.(.Hw.#..
+1320: 10 78 80 21 00 01 2D 13  03 3C 00 25 00 01 35 13  .x.!..-..<.%..5.
+1330: 03 3C 00 24 00 01 3D 13  03 3C 00 23 00 41 02 80  .<.$..=..<.#.A..
+1340: 05 80 3C 00 00 17 02 00  17 02 80 00 59 13 48 77  ..<.........Y.Hw
+1350: 80 23 03 01 10 78 80 21  00 07 00 17 79 80 41 08  .#...x.!....y.A.
+1360: 80 25 80 3C 00 03 17 0F  03 17 07 80 3D 03 17 01  .%.<........=...
+1370: 80 00 80 02 1F 00 02 80  00 AB 13 02 20 00 02 80  ............ ...
+1380: 00 9E 13 02 21 00 02 80  00 91 13 93 22 00 01 9B  ....!......."...
+1390: 13 CC 01 22 00 1F 00 20  00 21 00 01 A8 13 CC 01  ..."... .!......
+13A0: 22 00 1F 00 20 00 21 00  01 B5 13 CC 01 22 00 1F  "... .!......"..
+13B0: 00 20 00 21 00 03 05 10  22 00 48 7A 80 23 02 1F  . .!....".Hz.#..
+13C0: 00 02 80 00 F6 13 02 20  00 02 80 00 E9 13 02 21  ....... .......!
+13D0: 00 02 80 00 DC 13 93 02  80 01 E6 13 CC 01 02 80  ................
+13E0: 02 80 02 80 02 80 01 F3  13 CC 01 02 80 02 80 02  ................
+13F0: 80 02 80 01 00 14 CC 01  02 80 02 80 02 80 02 80  ................
+1400: 02 00 80 00 80 00 64 14  24 7B 80 02 80 03 17 25  ......d.${.....%
+1410: 02 00 10 01 80 00 22 14  03 01 10 78 80 21 00 01  ......"....x.!..
+1420: 27 14 03 01 17 00 10 24  7C 80 02 80 02 80 25 02  '......$|.....%.
+1430: 00 10 02 80 00 61 14 03  01 10 01 17 40 0D 80 32  .....a......@..2
+1440: 80 01 10 7D 80 43 00 43  01 02 09 10 02 80 00 57  ...}.C.C.......W
+1450: 14 01 66 14 01 5E 14 03  01 10 78 80 21 00 01 61  ..f..^....x.!..a
+1460: 14 01 00 14 21 00 42 41  02 80 0C 80 02 10 16 17  ....!.BA........
+1470: 41 0D 80 32 80 02 10 15  17 03 17 17 03 10 03 18  A..2............
+1480: 17 04 10 03 19 17 05 10  03 1A 17 06 10 03 1B 17  ................
+1490: 07 10 03 1C 17 08 10 03  02 10 19 17 03 03 10 00  ................
+14A0: 80 1A EF 11 CC 01 19 17  1A 17 1B 17 1C 17 06 1F  ................
+14B0: 00 06 1E 00 02 1E 00 01  80 03 CC 14 3E 16 17 1E  ............>...
+14C0: 00 C6 14 0B 1F 00 0B 1E  00 01 B4 14 02 1F 00 00  ................
+14D0: 80 80 DB 14 48 0F 80 23  01 44 15 02 1F 00 04 80  ....H..#.D......
+14E0: 80 EA 14 48 10 80 23 01  44 15 02 1F 00 05 80 80  ...H..#.D.......
+14F0: F9 14 48 11 80 23 01 44  15 02 1F 00 08 80 80 08  ..H..#.D........
+1500: 15 48 12 80 23 01 44 15  02 1F 00 09 80 80 17 15  .H..#.D.........
+1510: 48 13 80 23 01 44 15 02  1F 00 14 80 80 26 15 48  H..#.D.......&.H
+1520: 15 80 23 01 44 15 02 1F  00 16 80 80 35 15 48 17  ..#.D.......5.H.
+1530: 80 23 01 44 15 02 1F 00  01 80 80 44 15 48 18 80  .#.D.......D.H..
+1540: 23 01 44 15 24 74 80 02  80 02 80 25 02 00 10 02  #.D.$t.....%....
+1550: 80 00 5C 15 03 01 10 7E  80 01 61 15 03 01 10 7F  ..\....~..a.....
+1560: 80 21 00 42 03 1F 00 02  10 03 20 00 03 10 03 21  .!.B...... ....!
+1570: 00 04 10 03 22 00 05 10  03 23 00 06 10 03 24 00  ...."....#....$.
+1580: 07 10 03 25 00 08 10 03  26 00 09 10 41 25 80 28  ...%....&...A%.(
+1590: 80 26 00 28 00 41 0C 80  2A 80 26 00 27 00 41 2B  .&.(.A..*.&.'.A+
+15A0: 80 2D 80 26 00 29 00 06  2A 00 41 0C 80 2A 80 23  .-.&.)..*.A..*.#
+15B0: 00 26 00 02 26 00 02 80  01 04 16 02 26 00 27 00  .&..&.......&.'.
+15C0: 00 04 16 41 2E 80 33 80  23 00 26 00 02 26 00 28  ...A..3.#.&..&.(
+15D0: 00 04 04 16 41 2B 80 2D  80 23 00 26 00 02 26 00  ....A+.-.#.&..&.
+15E0: 29 00 00 04 16 3C 2A 00  02 80 00 80 41 02 80 24  )....<*.....A..$
+15F0: 80 23 00 26 00 02 26 00  02 80 01 04 16 3C 2A 00  .#.&..&......<*.
+1600: 05 80 00 80 41 0C 80 2A  80 24 00 26 00 02 26 00  ....A..*.$.&..&.
+1610: 02 80 01 5E 16 02 26 00  27 00 00 5E 16 41 2E 80  ...^..&.'..^.A..
+1620: 33 80 24 00 26 00 02 26  00 28 00 04 5E 16 41 2B  3.$.&..&.(..^.A+
+1630: 80 2D 80 24 00 26 00 02  26 00 29 00 00 5E 16 3C  .-.$.&..&.)..^.<
+1640: 2A 00 00 80 00 80 41 02  80 24 80 24 00 26 00 02  *.....A..$.$.&..
+1650: 26 00 02 80 01 5E 16 3C  2A 00 08 80 00 80 41 0C  &....^.<*.....A.
+1660: 80 2A 80 25 00 26 00 02  26 00 02 80 01 B8 16 02  .*.%.&..&.......
+1670: 26 00 27 00 00 B8 16 41  2E 80 33 80 25 00 26 00  &.'....A..3.%.&.
+1680: 02 26 00 28 00 04 B8 16  41 2B 80 2D 80 25 00 26  .&.(....A+.-.%.&
+1690: 00 02 26 00 29 00 00 B8  16 3C 2A 00 04 80 00 80  ..&.)....<*.....
+16A0: 41 02 80 24 80 25 00 26  00 02 26 00 02 80 01 B8  A..$.%.&..&.....
+16B0: 16 3C 2A 00 09 80 00 80  02 2A 00 02 80 00 CB 16  .<*......*......
+16C0: 48 80 80 23 03 01 10 81  80 21 00 03 05 10 22 00  H..#.....!....".
+16D0: 03 00 17 82 80 CC 01 22  00 1F 00 20 00 21 00 48  ......."... .!.H
+16E0: 83 80 23 CC 01 02 80 02  80 02 80 02 80 02 00 80  ..#.............
+16F0: 00 80 00 D9 17 03 00 17  27 00 07 00 17 79 80 03  ........'....y..
+1700: 01 17 29 00 03 02 17 29  00 03 03 17 29 00 3E 2A  ..)....)....).>*
+1710: 00 05 80 1D 17 03 04 17  00 80 01 20 17 06 04 17  ........... ....
+1720: 3E 2A 00 08 80 2F 17 03  05 17 00 80 01 32 17 06  >*.../.......2..
+1730: 05 17 3E 2A 00 09 80 41  17 03 06 17 00 80 01 44  ..>*...A.......D
+1740: 17 06 06 17 41 02 80 04  80 2A 00 14 17 3C 14 17  ....A....*...<..
+1750: 05 80 00 80 0F 14 17 07  80 24 84 80 02 80 14 17  .........$......
+1760: 25 02 00 10 02 80 00 6C  17 01 93 17 02 00 10 00  %......l........
+1770: 80 00 7C 17 03 01 17 02  17 01 93 17 02 00 10 04  ..|.............
+1780: 80 00 8C 17 03 01 17 03  17 01 93 17 03 01 10 81  ................
+1790: 80 21 00 03 02 17 00 10  24 7C 80 00 80 02 80 25  .!......$|.....%
+17A0: 02 00 10 02 80 00 D6 17  03 01 10 02 17 40 0D 80  .............@..
+17B0: 32 80 01 10 85 80 43 00  43 01 02 09 10 02 80 00  2.....C.C.......
+17C0: C8 17 01 DB 17 01 D3 17  48 80 80 23 03 01 10 81  ........H..#....
+17D0: 80 21 00 01 D6 17 01 ED  16 21 00 42 41 02 80 0C  .!.......!.BA...
+17E0: 80 02 10 16 17 41 0D 80  32 80 02 10 15 17 03 17  .....A..2.......
+17F0: 17 03 10 03 18 17 04 10  03 19 17 05 10 03 1A 17  ................
+1800: 06 10 03 1B 17 07 10 03  1C 17 08 10 03 02 10 19  ................
+1810: 17 03 03 10 00 80 1A EF  11 CC 01 19 17 1A 17 1B  ................
+1820: 17 1C 17 06 1F 00 06 1E  00 02 1E 00 01 80 03 41  ...............A
+1830: 18 3E 16 17 1E 00 3B 18  0B 1F 00 0B 1E 00 01 29  .>....;........)
+1840: 18 02 1F 00 00 80 80 50  18 48 0F 80 23 01 B9 18  .......P.H..#...
+1850: 02 1F 00 04 80 80 5F 18  48 10 80 23 01 B9 18 02  ......_.H..#....
+1860: 1F 00 05 80 80 6E 18 48  11 80 23 01 B9 18 02 1F  .....n.H..#.....
+1870: 00 08 80 80 7D 18 48 12  80 23 01 B9 18 02 1F 00  ....}.H..#......
+1880: 09 80 80 8C 18 48 13 80  23 01 B9 18 02 1F 00 14  .....H..#.......
+1890: 80 80 9B 18 48 15 80 23  01 B9 18 02 1F 00 16 80  ....H..#........
+18A0: 80 AA 18 48 17 80 23 01  B9 18 02 1F 00 01 80 80  ...H..#.........
+18B0: B9 18 48 18 80 23 01 B9  18 24 74 80 02 80 02 80  ..H..#...$t.....
+18C0: 25 02 00 10 02 80 00 D1  18 03 01 10 7E 80 01 D6  %...........~...
+18D0: 18 03 01 10 7F 80 21 00  42 03 1F 00 02 10 03 20  ......!.B...... 
+18E0: 00 03 10 03 21 00 04 10  03 22 00 05 10 03 00 17  ....!...."......
+18F0: 22 00 03 05 10 86 80 CC  01 22 00 1F 00 20 00 21  "........"... .!
+1900: 00 48 87 80 23 24 88 80  00 80 02 80 25 02 00 10  .H..#$......%...
+1910: 02 80 00 20 1A 03 01 10  01 17 40 0D 80 32 80 01  ... ......@..2..
+1920: 10 89 80 43 00 43 01 02  09 10 02 80 00 18 1A 41  ...C.C.........A
+1930: 02 80 0C 80 02 10 16 17  41 0D 80 32 80 02 10 15  ........A..2....
+1940: 17 03 17 17 03 10 03 18  17 04 10 03 19 17 05 10  ................
+1950: 03 02 10 19 17 03 03 10  00 80 1A EF 11 93 19 17  ................
+1960: 06 1F 00 06 1E 00 02 1E  00 01 80 03 7E 19 3E 16  ............~.>.
+1970: 17 1E 00 78 19 0B 1F 00  0B 1E 00 01 66 19 02 1F  ...x........f...
+1980: 00 00 80 80 8D 19 48 0F  80 23 01 F6 19 02 1F 00  ......H..#......
+1990: 04 80 80 9C 19 48 10 80  23 01 F6 19 02 1F 00 05  .....H..#.......
+19A0: 80 80 AB 19 48 11 80 23  01 F6 19 02 1F 00 08 80  ....H..#........
+19B0: 80 BA 19 48 12 80 23 01  F6 19 02 1F 00 09 80 80  ...H..#.........
+19C0: C9 19 48 13 80 23 01 F6  19 02 1F 00 14 80 80 D8  ..H..#..........
+19D0: 19 48 15 80 23 01 F6 19  02 1F 00 16 80 80 E7 19  .H..#...........
+19E0: 48 17 80 23 01 F6 19 02  1F 00 01 80 80 F6 19 48  H..#...........H
+19F0: 18 80 23 01 F6 19 24 74  80 02 80 02 80 25 02 00  ..#...$t.....%..
+1A00: 10 02 80 00 0E 1A 03 01  10 8A 80 01 13 1A 03 01  ................
+1A10: 10 8B 80 21 00 01 1D 1A  03 01 10 8C 80 01 25 1A  ...!..........%.
+1A20: 03 01 10 8C 80 21 00 42  03 1F 00 02 10 03 20 00  .....!.B...... .
+1A30: 03 10 03 21 00 04 10 03  22 00 05 10 03 23 00 06  ...!...."....#..
+1A40: 10 03 24 00 07 10 03 25  00 08 10 3E 23 00 2C 80  ..$....%...>#.,.
+1A50: 78 1A 3E 24 00 2C 80 70  1A 3E 25 00 2C 80 68 1A  x.>$.,.p.>%.,.h.
+1A60: 03 3C 00 25 00 01 6D 1A  03 3C 00 24 00 01 75 1A  .<.%..m..<.$..u.
+1A70: 03 3C 00 23 00 01 83 1A  48 8D 80 23 03 01 10 8E  .<.#....H..#....
+1A80: 80 21 00 41 02 80 05 80  3C 00 00 17 02 00 17 02  .!.A....<.......
+1A90: 80 00 9F 1A 48 8D 80 23  03 01 10 8E 80 21 00 07  ....H..#.....!..
+1AA0: 00 17 79 80 02 1F 00 02  80 00 DC 1A 02 20 00 02  ..y.......... ..
+1AB0: 80 00 CF 1A 02 21 00 02  80 00 C2 1A 93 22 00 01  .....!......."..
+1AC0: CC 1A CC 01 22 00 1F 00  20 00 21 00 01 D9 1A CC  ...."... .!.....
+1AD0: 01 22 00 1F 00 20 00 21  00 01 E6 1A CC 01 22 00  ."... .!......".
+1AE0: 1F 00 20 00 21 00 03 05  10 8F 80 48 90 80 23 02  .. .!......H..#.
+1AF0: 1F 00 02 80 00 27 1B 02  20 00 02 80 00 1A 1B 02  .....'.. .......
+1B00: 21 00 02 80 00 0D 1B 93  02 80 01 17 1B CC 01 02  !...............
+1B10: 80 02 80 02 80 02 80 01  24 1B CC 01 02 80 02 80  ........$.......
+1B20: 02 80 02 80 01 31 1B CC  01 02 80 02 80 02 80 02  .....1..........
+1B30: 80 02 00 80 00 80 00 7D  1B 24 88 80 02 80 02 80  .......}.$......
+1B40: 25 02 00 10 02 80 00 73  1B 03 01 10 01 17 40 0D  %......s......@.
+1B50: 80 32 80 01 10 91 80 43  00 43 01 02 09 10 02 80  .2.....C.C......
+1B60: 00 69 1B 01 7F 1B 01 70  1B 03 01 10 8E 80 21 00  .i.....p......!.
+1B70: 01 7A 1B 03 01 10 8E 80  21 00 01 31 1B 21 00 42  .z......!..1.!.B
+1B80: 41 02 80 0C 80 02 10 16  17 41 0D 80 32 80 02 10  A........A..2...
+1B90: 15 17 03 17 17 03 10 03  18 17 04 10 03 19 17 05  ................
+1BA0: 10 03 1A 17 06 10 03 1B  17 07 10 03 1C 17 08 10  ................
+1BB0: 03 02 10 19 17 03 03 10  00 80 1A EF 11 CC 01 19  ................
+1BC0: 17 1A 17 1B 17 1C 17 06  1F 00 06 1E 00 02 1E 00  ................
+1BD0: 01 80 03 E5 1B 3E 16 17  1E 00 DF 1B 0B 1F 00 0B  .....>..........
+1BE0: 1E 00 01 CD 1B 02 1F 00  00 80 80 F4 1B 48 0F 80  .............H..
+1BF0: 23 01 5D 1C 02 1F 00 04  80 80 03 1C 48 10 80 23  #.].........H..#
+1C00: 01 5D 1C 02 1F 00 05 80  80 12 1C 48 11 80 23 01  .].........H..#.
+1C10: 5D 1C 02 1F 00 08 80 80  21 1C 48 12 80 23 01 5D  ].......!.H..#.]
+1C20: 1C 02 1F 00 09 80 80 30  1C 48 13 80 23 01 5D 1C  .......0.H..#.].
+1C30: 02 1F 00 14 80 80 3F 1C  48 15 80 23 01 5D 1C 02  ......?.H..#.]..
+1C40: 1F 00 16 80 80 4E 1C 48  17 80 23 01 5D 1C 02 1F  .....N.H..#.]...
+1C50: 00 01 80 80 5D 1C 48 18  80 23 01 5D 1C 24 74 80  ....].H..#.].$t.
+1C60: 02 80 02 80 25 02 00 10  02 80 00 75 1C 03 01 10  ....%......u....
+1C70: 92 80 01 7A 1C 03 01 10  93 80 21 00 48 94 80 23  ...z......!.H..#
+1C80: 02 00 80 00 80 00 0E 1D  1A 10 1D 24 95 80 02 80  ...........$....
+1C90: 02 80 25 02 00 10 02 80  00 C6 1C 24 96 80 00 80  ..%........$....
+1CA0: 02 80 25 02 00 10 02 80  00 B3 1C 03 01 10 00 80  ..%.............
+1CB0: 01 C3 1C 02 00 10 00 80  00 C3 1C 03 01 10 02 80  ................
+1CC0: 01 C3 1C 01 01 1D 02 00  10 00 80 00 FC 1C 1A 81  ................
+1CD0: 1D 24 96 80 00 80 02 80  25 02 00 10 02 80 00 E9  .$......%.......
+1CE0: 1C 03 01 10 04 80 01 F9  1C 02 00 10 00 80 00 F9  ................
+1CF0: 1C 03 01 10 02 80 01 F9  1C 01 01 1D 03 01 10 97  ................
+1D00: 80 02 01 10 02 80 01 0B  1D 21 00 01 80 1C 21 00  .........!....!.
+1D10: 03 01 17 02 80 02 03 10  02 80 00 52 1D 02 04 10  ...........R....
+1D20: 02 80 00 45 1D 02 05 10  02 80 00 38 1D 93 02 10  ...E.......8....
+1D30: 03 01 17 00 80 01 42 1D  CC 01 02 10 03 10 04 10  ......B.........
+1D40: 05 10 01 4F 1D CC 01 02  10 03 10 04 10 05 10 01  ...O............
+1D50: 5C 1D CC 01 02 10 03 10  04 10 05 10 03 00 17 02  \...............
+1D60: 80 48 98 80 23 02 01 17  02 80 00 7A 1D CC 01 02  .H..#......z....
+1D70: 80 02 80 02 80 02 80 01  7D 1D 93 02 80 1C 00 80  ........}.......
+1D80: 1B 03 01 17 02 80 02 06  10 02 80 00 C3 1D 02 07  ................
+1D90: 10 02 80 00 B6 1D 02 08  10 02 80 00 A9 1D 93 02  ................
+1DA0: 10 03 01 17 00 80 01 B3  1D CC 01 02 10 06 10 07  ................
+1DB0: 10 08 10 01 C0 1D CC 01  02 10 06 10 07 10 08 10  ................
+1DC0: 01 CD 1D CC 01 02 10 06  10 07 10 08 10 03 00 17  ................
+1DD0: 00 80 48 98 80 23 02 01  17 02 80 00 EB 1D CC 01  ..H..#..........
+1DE0: 02 80 02 80 02 80 02 80  01 EE 1D 93 02 80 1C 00  ................
+1DF0: 80 1B                                             ..              
+```
+
+#### Opcodes
+
+```
+  0: 0x0019 [0x01] GOTO 0x1C7C
+
+SUBROUTINE_1C7C:
+  1: 0x1C7C [0x48] [System] [4789*]:
+    → "New augments will not take effect until the item is removed from the synergy furnace."
+  2: 0x1C7F [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_1C80:
+  3: 0x1C80 [0x02] IF !(1* == 1*) GOTO 0x1D0E
+  4: 0x1C88 [0x1A] CALL_SUBROUTINE(address=0x1D10)
+  5: 0x1C8B [0x24] CREATE_DIALOG(message_id=4790*, default_option=0*, option_flags=0*)
+    → "Remove the item? [Yes, with new augment(s)./Yes, with existing augment(s)./No.]"
+  6: 0x1C92 [0x25] WAIT_DIALOG_SELECT()
+  7: 0x1C93 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CC6
+  8: 0x1C9B [0x24] CREATE_DIALOG(message_id=4792*, default_option=1*, option_flags=0*)
+    → "Proceed with these attributes? [Yes./On second thought...]"
+  9: 0x1CA2 [0x25] WAIT_DIALOG_SELECT()
+ 10: 0x1CA3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CB3
+ 11: 0x1CAB [0x03] Work_Zone[1] = 1*
+ 12: 0x1CB0 [0x01] GOTO 0x1CC3
+ 13: 0x1CB3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1CC3
+ 14: 0x1CBB [0x03] Work_Zone[1] = 0*
+ 15: 0x1CC0 [0x01] GOTO 0x1CC3
+
+SUBROUTINE_1CC3:
+ 16: 0x1CC3 [0x01] GOTO 0x1D01
+ 17: 0x1CC6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1CFC
+ 18: 0x1CCE [0x1A] CALL_SUBROUTINE(address=0x1D81)
+ 19: 0x1CD1 [0x24] CREATE_DIALOG(message_id=4792*, default_option=1*, option_flags=0*)
+    → "Proceed with these attributes? [Yes./On second thought...]"
+ 20: 0x1CD8 [0x25] WAIT_DIALOG_SELECT()
+ 21: 0x1CD9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CE9
+ 22: 0x1CE1 [0x03] Work_Zone[1] = 2*
+ 23: 0x1CE6 [0x01] GOTO 0x1CF9
+ 24: 0x1CE9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1CF9
+ 25: 0x1CF1 [0x03] Work_Zone[1] = 0*
+ 26: 0x1CF6 [0x01] GOTO 0x1CF9
+
+SUBROUTINE_1CF9:
+ 27: 0x1CF9 [0x01] GOTO 0x1D01
+ 28: 0x1CFC [0x03] Work_Zone[1] = 1073741824*
+
+SUBROUTINE_1D01:
+ 29: 0x1D01 [0x02] IF !(Work_Zone[1] == 0*) GOTO 0x1D0B
+ 30: 0x1D09 [0x21] END_EVENT
+ 31: 0x1D0A [0x00] END_REQSTACK()
+ 32: 0x1D0B [0x01] GOTO 0x1C80
+ 33: 0x1D0E [0x21] END_EVENT
+ 34: 0x1D0F [0x00] END_REQSTACK()
+
+SUBROUTINE_1D10:
+ 35: 0x1D10 [0x03] Work_Zone_1700[1] = 0*
+ 36: 0x1D15 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x1D52
+ 37: 0x1D1D [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x1D45
+ 38: 0x1D25 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x1D38
+ 39: 0x1D2D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
+ 40: 0x1D30 [0x03] Work_Zone_1700[1] = 1*
+ 41: 0x1D35 [0x01] GOTO 0x1D42
+ 42: 0x1D38 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
+
+SUBROUTINE_1D42:
+ 43: 0x1D42 [0x01] GOTO 0x1D4F
+ 44: 0x1D45 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
+
+SUBROUTINE_1D4F:
+ 45: 0x1D4F [0x01] GOTO 0x1D5C
+ 46: 0x1D52 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
+
+SUBROUTINE_1D5C:
+ 47: 0x1D5C [0x03] Work_Zone_1700[0] = 0*
+ 48: 0x1D61 [0x48] [System] [4791*]:
+    → "Your item's attributes [will be/are] as follows with its [new/current] set of augments:"
+ 49: 0x1D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 50: 0x1D65 [0x02] IF !(Work_Zone_1700[1] == 0*) GOTO 0x1D7A
+ 51: 0x1D6D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+ 52: 0x1D77 [0x01] GOTO 0x1D7D
+ 53: 0x1D7A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+
+SUBROUTINE_1D7D:
+ 54: 0x1D7D [0x1C] WAIT(1* ticks)
+ 55: 0x1D80 [0x1B] RETURN
+
+SUBROUTINE_1D81:
+ 56: 0x1D81 [0x03] Work_Zone_1700[1] = 0*
+ 57: 0x1D86 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x1DC3
+ 58: 0x1D8E [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x1DB6
+ 59: 0x1D96 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x1DA9
+ 60: 0x1D9E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
+ 61: 0x1DA1 [0x03] Work_Zone_1700[1] = 1*
+ 62: 0x1DA6 [0x01] GOTO 0x1DB3
+ 63: 0x1DA9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=Work_Zone[6], buffer2=Work_Zone[7], buffer3=Work_Zone[8])
+
+SUBROUTINE_1DB3:
+ 64: 0x1DB3 [0x01] GOTO 0x1DC0
+ 65: 0x1DB6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=Work_Zone[6], buffer2=Work_Zone[7], buffer3=Work_Zone[8])
+
+SUBROUTINE_1DC0:
+ 66: 0x1DC0 [0x01] GOTO 0x1DCD
+ 67: 0x1DC3 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=Work_Zone[6], buffer2=Work_Zone[7], buffer3=Work_Zone[8])
+
+SUBROUTINE_1DCD:
+ 68: 0x1DCD [0x03] Work_Zone_1700[0] = 1*
+ 69: 0x1DD2 [0x48] [System] [4791*]:
+    → "Your item's attributes [will be/are] as follows with its [new/current] set of augments:"
+ 70: 0x1DD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 71: 0x1DD6 [0x02] IF !(Work_Zone_1700[1] == 0*) GOTO 0x1DEB
+ 72: 0x1DDE [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+ 73: 0x1DE8 [0x01] GOTO 0x1DEE
+ 74: 0x1DEB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+
+SUBROUTINE_1DEE:
+ 75: 0x1DEE [0x1C] WAIT(1* ticks)
+ 76: 0x1DF1 [0x1B] RETURN
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x001C [0x03] ExtData[1]->WorkLocal[45] = Work_Zone[2]
+     0x0021 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0031
+     0x0029 [0x03] ExtData[1]->WorkLocal[44] = 8*
+     0x002E [0x01] GOTO 0x0034
+     0x0031 [0x06] ExtData[1]->WorkLocal[44] = 0
+     0x0034 [0x03] ExtData[1]->WorkLocal[58] = Work_Zone[4]
+     0x0039 [0x03] ExtData[1]->WorkLocal[59] = Work_Zone[5]
+     0x003E [0x1A] CALL_SUBROUTINE(address=0x0FD9)
+     0x0041 [0x06] ExtData[1]->WorkLocal[54] = 0
+     0x0044 [0x06] ExtData[1]->WorkLocal[55] = 0
+     0x0047 [0x06] ExtData[1]->WorkLocal[56] = 0
+     0x004A [0x02] IF !(1* == 1*) GOTO 0x0120
+     0x0052 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[24]
+     0x0057 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[57] (bits 0*-0*)
+     0x0060 [0x24] CREATE_DIALOG(message_id=4666*, default_option=ExtData[1]->WorkLocal[54], option_flags=ExtData[1]->WorkLocal[44])
+    → "Select an action. [Lv.$0: Feed fewell./Operate furnace./View furnace readings./End synergy./Review objective./Toggle command confirmation [off/on]./Close menu.]"
+     0x0067 [0x25] WAIT_DIALOG_SELECT()
+     0x0068 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007B
+     0x0070 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
+     0x0075 [0x1A] CALL_SUBROUTINE(address=0x02D0)
+     0x0078 [0x01] GOTO 0x011D
+     0x007B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x008E
+     0x0083 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
+     0x0088 [0x1A] CALL_SUBROUTINE(address=0x03F7)
+     0x008B [0x01] GOTO 0x011D
+     0x008E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00A4
+     0x0096 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
+     0x009B [0x1A] CALL_SUBROUTINE(address=0x0324)
+     0x009E [0x1A] CALL_SUBROUTINE(address=0x033B)
+     0x00A1 [0x01] GOTO 0x011D
+     0x00A4 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00CD
+     0x00AC [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x00AD [0x03] Work_Zone[1] = 110*
+     0x00B2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x00B4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x00B6 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x00C9
+     0x00BE [0x03] Work_Zone[1] = 110*
+     0x00C3 [0x01] GOTO 0x0120
+     0x00C6 [0x01] GOTO 0x00CA
+     0x00C9 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+     0x00CA [0x01] GOTO 0x011D
+     0x00CD [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00E0
+     0x00D5 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
+     0x00DA [0x1A] CALL_SUBROUTINE(address=0x0122)
+     0x00DD [0x01] GOTO 0x011D
+     0x00E0 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0117
+     0x00E8 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x00F9
+     0x00EF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x00F6 [0x01] GOTO 0x0100
+     0x00F9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x0100 [0x03] Work_Zone[1] = 164*
+     0x0105 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0107 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0109 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0114
+     0x0111 [0x1A] CALL_SUBROUTINE(address=0x0FD9)
+     0x0114 [0x01] GOTO 0x011D
+     0x0117 [0x06] Work_Zone[1] = 0
+     0x011A [0x01] GOTO 0x0120
+     0x011D [0x01] GOTO 0x004A
+     0x0120 [0x21] END_EVENT
+     0x0121 [0x00] END_REQSTACK()
+     0x0122 [0x03] Work_Zone[1] = 163*
+     0x0127 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0129 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x012B [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0134
+     0x0133 [0x1B] RETURN
+     0x0134 [0x03] ExtData[1]->WorkLocal[46] = Work_Zone[2]
+     0x0139 [0x03] ExtData[1]->WorkLocal[47] = Work_Zone[3]
+     0x013E [0x03] ExtData[1]->WorkLocal[48] = Work_Zone[4]
+     0x0143 [0x03] ExtData[1]->WorkLocal[49] = Work_Zone[5]
+     0x0148 [0x03] ExtData[1]->WorkLocal[50] = Work_Zone[6]
+     0x014D [0x03] ExtData[1]->WorkLocal[51] = Work_Zone[7]
+     0x0152 [0x03] ExtData[1]->WorkLocal[52] = Work_Zone[8]
+     0x0157 [0x03] ExtData[1]->WorkLocal[53] = Work_Zone[9]
+     0x015C [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[50] (bits 0*-15*)
+     0x0165 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[50] (bits 16*-23*)
+     0x016E [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x017B
+     0x0176 [0x03] Work_Zone[3] = 1*
+     0x017B [0x03] Work_Zone_1700[21] = ExtData[1]->WorkLocal[47]
+     0x0180 [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[46]
+     0x0185 [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[48]
+     0x018A [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[49]
+     0x018F [0x1A] CALL_SUBROUTINE(address=0x11EF)
+     0x0192 [0x02] IF !(ExtData[1]->WorkLocal[58] == 5*) GOTO 0x01DF
+     0x019A [0x02] IF !(ExtData[1]->WorkLocal[51] == 0*) GOTO 0x01D2
+     0x01A2 [0x02] IF !(ExtData[1]->WorkLocal[52] == 0*) GOTO 0x01C5
+     0x01AA [0x02] IF !(ExtData[1]->WorkLocal[53] == 0*) GOTO 0x01B8
+     0x01B2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
+     0x01B5 [0x01] GOTO 0x01C2
+     0x01B8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=ExtData[1]->WorkLocal[51], buffer2=ExtData[1]->WorkLocal[52], buffer3=ExtData[1]->WorkLocal[53])
+     0x01C2 [0x01] GOTO 0x01CF
+     0x01C5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=ExtData[1]->WorkLocal[51], buffer2=ExtData[1]->WorkLocal[52], buffer3=ExtData[1]->WorkLocal[53])
+     0x01CF [0x01] GOTO 0x01DC
+     0x01D2 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=ExtData[1]->WorkLocal[51], buffer2=ExtData[1]->WorkLocal[52], buffer3=ExtData[1]->WorkLocal[53])
+     0x01DC [0x01] GOTO 0x01F7
+     0x01DF [0x02] IF !(ExtData[1]->WorkLocal[59] == 1*) GOTO 0x01ED
+     0x01E7 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
+     0x01EA [0x01] GOTO 0x01F7
+     0x01ED [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=ExtData[1]->WorkLocal[51], buffer2=ExtData[1]->WorkLocal[52], buffer3=ExtData[1]->WorkLocal[53])
+     0x01F7 [0x06] ExtData[1]->WorkLocal[35] = 0
+     0x01FA [0x06] ExtData[1]->WorkLocal[30] = 0
+     0x01FD [0x02] IF !(ExtData[1]->WorkLocal[30] >= 8*) GOTO 0x0215
+     0x0205 [0x3E] IF !(ExtData[1]->WorkLocal[46] bit ExtData[1]->WorkLocal[30]) GOTO 0x020F
+     0x020C [0x0B] ExtData[1]->WorkLocal[35]++
+     0x020F [0x0B] ExtData[1]->WorkLocal[30]++
+     0x0212 [0x01] GOTO 0x01FD
+     0x0215 [0x02] IF !(ExtData[1]->WorkLocal[35] == 1*) GOTO 0x0224
+     0x021D [0x48] [System] [4630*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
+     0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0221 [0x01] GOTO 0x028D
+     0x0224 [0x02] IF !(ExtData[1]->WorkLocal[35] == 2*) GOTO 0x0233
+     0x022C [0x48] [System] [4631*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
+     0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0230 [0x01] GOTO 0x028D
+     0x0233 [0x02] IF !(ExtData[1]->WorkLocal[35] == 3*) GOTO 0x0242
+     0x023B [0x48] [System] [4632*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
+     0x023E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x023F [0x01] GOTO 0x028D
+     0x0242 [0x02] IF !(ExtData[1]->WorkLocal[35] == 4*) GOTO 0x0251
+     0x024A [0x48] [System] [4633*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
+     0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x024E [0x01] GOTO 0x028D
+     0x0251 [0x02] IF !(ExtData[1]->WorkLocal[35] == 5*) GOTO 0x0260
+     0x0259 [0x48] [System] [4634*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
+     0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x025D [0x01] GOTO 0x028D
+     0x0260 [0x02] IF !(ExtData[1]->WorkLocal[35] == 6*) GOTO 0x026F
+     0x0268 [0x48] [System] [4635*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
+     0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x026C [0x01] GOTO 0x028D
+     0x026F [0x02] IF !(ExtData[1]->WorkLocal[35] == 7*) GOTO 0x027E
+     0x0277 [0x48] [System] [4636*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
+     0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x027B [0x01] GOTO 0x028D
+     0x027E [0x02] IF !(ExtData[1]->WorkLocal[35] == 8*) GOTO 0x028D
+     0x0286 [0x48] [System] [4637*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
+     0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x028A [0x01] GOTO 0x028D
+     0x028D [0x02] IF !(ExtData[1]->WorkLocal[51] == 0*) GOTO 0x02C5
+     0x0295 [0x02] IF !(ExtData[1]->WorkLocal[52] == 0*) GOTO 0x02B8
+     0x029D [0x02] IF !(ExtData[1]->WorkLocal[53] == 0*) GOTO 0x02AB
+     0x02A5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x02A8 [0x01] GOTO 0x02B5
+     0x02AB [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x02B5 [0x01] GOTO 0x02C2
+     0x02B8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x02C2 [0x01] GOTO 0x02CF
+     0x02C5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x02CF [0x1B] RETURN
+     0x02D0 [0x03] Work_Zone[1] = 143*
+     0x02D5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x02D7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x02D9 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x02E2
+     0x02E1 [0x1B] RETURN
+     0x02E2 [0x24] CREATE_DIALOG(message_id=4669*, default_option=ExtData[1]->WorkLocal[55], option_flags=0*)
+    → "Feed which fewell? (current stock) [ofewell ($0)./o fewell ($1)./o! fewell ($2)./o" fewell ($3)./o# fewell ($4)./o$ fewell ($5)./o% fewell ($6)./o& fewell ($7)./Cancel.]"
+     0x02E9 [0x25] WAIT_DIALOG_SELECT()
+     0x02EA [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x02F6
+     0x02F2 [0x1B] RETURN
+     0x02F3 [0x01] GOTO 0x02F6
+     0x02F6 [0x03] Work_Zone[1] = Work_Zone[0]
+     0x02FB [0x02] IF !(Work_Zone[1] <= 8*) GOTO 0x0307
+     0x0303 [0x1B] RETURN
+     0x0304 [0x01] GOTO 0x030C
+     0x0307 [0x03] ExtData[1]->WorkLocal[55] = Work_Zone[0]
+     0x030C [0x07] Work_Zone[1] += 100*
+     0x0311 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0313 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0315 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0320
+     0x031D [0x1A] CALL_SUBROUTINE(address=0x034D)
+     0x0320 [0x1A] CALL_SUBROUTINE(address=0x1043)
+     0x0323 [0x1B] RETURN
+     0x0324 [0x03] Work_Zone[1] = 112*
+     0x0329 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x032B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x032D [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0336
+     0x0335 [0x1B] RETURN
+     0x0336 [0x48] [System] [4657*]:
+    → "Internal pressure: $1 Pz/Im Impurity ratio: $0%"
+     0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x033A [0x1B] RETURN
+     0x033B [0x03] Work_Zone[1] = 111*
+     0x0340 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0342 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0344 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x034D
+     0x034C [0x1B] RETURN
+     0x034D [0x1A] CALL_SUBROUTINE(address=0x0F48)
+     0x0350 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+     0x0355 [0x08] Work_Zone[2] -= 100*
+     0x035A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
+     0x035F [0x08] Work_Zone[3] -= 100*
+     0x0364 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
+     0x0369 [0x08] Work_Zone[4] -= 100*
+     0x036E [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[3]
+     0x0373 [0x08] Work_Zone[5] -= 100*
+     0x0378 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[4]
+     0x037D [0x08] Work_Zone[6] -= 100*
+     0x0382 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[5]
+     0x0387 [0x08] Work_Zone[7] -= 100*
+     0x038C [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[6]
+     0x0391 [0x08] Work_Zone[8] -= 100*
+     0x0396 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[7]
+     0x039B [0x08] Work_Zone[9] -= 100*
+     0x03A0 [0x48] [System] [4653*]:
+    → "Internal elemental balance: o$0 o o! o" o# o$ o% o&"
+     0x03A3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
+     0x03A8 [0x08] Work_Zone[2] -= 100*
+     0x03AD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
+     0x03B2 [0x08] Work_Zone[3] -= 100*
+     0x03B7 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
+     0x03BC [0x08] Work_Zone[4] -= 100*
+     0x03C1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[11]
+     0x03C6 [0x08] Work_Zone[5] -= 100*
+     0x03CB [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[12]
+     0x03D0 [0x08] Work_Zone[6] -= 100*
+     0x03D5 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
+     0x03DA [0x08] Work_Zone[7] -= 100*
+     0x03DF [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[14]
+     0x03E4 [0x08] Work_Zone[8] -= 100*
+     0x03E9 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[15]
+     0x03EE [0x08] Work_Zone[9] -= 100*
+     0x03F3 [0x48] [System] [4654*]:
+    → "o$0 o o! o" o# o$ o% o&"
+     0x03F6 [0x1B] RETURN
+     0x03F7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
+     0x03FC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
+     0x0401 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[27]
+     0x0406 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[28]
+     0x040B [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[29]
+     0x0410 [0x03] Work_Zone_1700[31] = 17326*
+     0x0415 [0x06] ExtData[1]->WorkLocal[43] = 0
+     0x0418 [0x24] CREATE_DIALOG(message_id=4668*, default_option=ExtData[1]->WorkLocal[56], option_flags=ExtData[1]->WorkLocal[45])
+    → "Select an action/skill. [Lv.$0: Thwack furnace./Lv.$1: Operate pressure handle./Lv.$2: Operate safety lever./Lv.$3: Repair furnace./Lv.$4: Recycle strewn fewell./Fishing: Lunar Smarts./Fishing: Precision Thwack./Woodworking: Cyclical Smarts./Woodworking: Earth Affinity./Smithing: Combustive Smarts./Smithing: Fire Affinity./Goldsmithing: Engraver's Touch./Goldsmithing: Wind Affinity./Clothcraft: Restorer's Touch./Clothcraft: Lightning Affinity./Leathercraft: Pressurization Smarts./Leathercraft: Ice Affinity./Bonecraft: Carbonization Smarts./Bonecraft: Dark Affinity./Alchemy: Alchemical Smarts./Alchemy: Light Affinity./Cooking: Heating Smarts./Cooking: Water Affinity./DEBUGFForced perfection./DEBUGFSet level (Requires $39)./DEBUG: Set pressure/impurities./DEBUG: Something good./Cancel.]"
+     0x041F [0x25] WAIT_DIALOG_SELECT()
+     0x0420 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0433
+     0x0428 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x042D [0x1A] CALL_SUBROUTINE(address=0x0682)
+     0x0430 [0x01] GOTO 0x0673
+     0x0433 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0446
+     0x043B [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0440 [0x1A] CALL_SUBROUTINE(address=0x06C7)
+     0x0443 [0x01] GOTO 0x0673
+     0x0446 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0459
+     0x044E [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0453 [0x1A] CALL_SUBROUTINE(address=0x0729)
+     0x0456 [0x01] GOTO 0x0673
+     0x0459 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x046C
+     0x0461 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0466 [0x1A] CALL_SUBROUTINE(address=0x078B)
+     0x0469 [0x01] GOTO 0x0673
+     0x046C [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x047F
+     0x0474 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0479 [0x1A] CALL_SUBROUTINE(address=0x07ED)
+     0x047C [0x01] GOTO 0x0673
+     0x047F [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0492
+     0x0487 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x048C [0x1A] CALL_SUBROUTINE(address=0x083D)
+     0x048F [0x01] GOTO 0x0673
+     0x0492 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x04A5
+     0x049A [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x049F [0x1A] CALL_SUBROUTINE(address=0x08C6)
+     0x04A2 [0x01] GOTO 0x0673
+     0x04A5 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x04B8
+     0x04AD [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x04B2 [0x1A] CALL_SUBROUTINE(address=0x0916)
+     0x04B5 [0x01] GOTO 0x0673
+     0x04B8 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x04CB
+     0x04C0 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x04C5 [0x1A] CALL_SUBROUTINE(address=0x0978)
+     0x04C8 [0x01] GOTO 0x0673
+     0x04CB [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x04DE
+     0x04D3 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x04D8 [0x1A] CALL_SUBROUTINE(address=0x09DA)
+     0x04DB [0x01] GOTO 0x0673
+     0x04DE [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x04F1
+     0x04E6 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x04EB [0x1A] CALL_SUBROUTINE(address=0x0A3C)
+     0x04EE [0x01] GOTO 0x0673
+     0x04F1 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0504
+     0x04F9 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x04FE [0x1A] CALL_SUBROUTINE(address=0x0A9E)
+     0x0501 [0x01] GOTO 0x0673
+     0x0504 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0517
+     0x050C [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0511 [0x1A] CALL_SUBROUTINE(address=0x0B00)
+     0x0514 [0x01] GOTO 0x0673
+     0x0517 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x052A
+     0x051F [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0524 [0x1A] CALL_SUBROUTINE(address=0x0B62)
+     0x0527 [0x01] GOTO 0x0673
+     0x052A [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x053D
+     0x0532 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0537 [0x1A] CALL_SUBROUTINE(address=0x0BC4)
+     0x053A [0x01] GOTO 0x0673
+     0x053D [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0550
+     0x0545 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x054A [0x1A] CALL_SUBROUTINE(address=0x0C26)
+     0x054D [0x01] GOTO 0x0673
+     0x0550 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0563
+     0x0558 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x055D [0x1A] CALL_SUBROUTINE(address=0x0C88)
+     0x0560 [0x01] GOTO 0x0673
+     0x0563 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0576
+     0x056B [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0570 [0x1A] CALL_SUBROUTINE(address=0x0CEA)
+     0x0573 [0x01] GOTO 0x0673
+     0x0576 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x0589
+     0x057E [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0583 [0x1A] CALL_SUBROUTINE(address=0x0D4C)
+     0x0586 [0x01] GOTO 0x0673
+     0x0589 [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x059C
+     0x0591 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x0596 [0x1A] CALL_SUBROUTINE(address=0x0DAE)
+     0x0599 [0x01] GOTO 0x0673
+     0x059C [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x05AF
+     0x05A4 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x05A9 [0x1A] CALL_SUBROUTINE(address=0x0E10)
+     0x05AC [0x01] GOTO 0x0673
+     0x05AF [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x05C2
+     0x05B7 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x05BC [0x1A] CALL_SUBROUTINE(address=0x0E72)
+     0x05BF [0x01] GOTO 0x0673
+     0x05C2 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x05D5
+     0x05CA [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
+     0x05CF [0x1A] CALL_SUBROUTINE(address=0x0ED4)
+     0x05D2 [0x01] GOTO 0x0673
+     0x05D5 [0x02] IF !(Work_Zone[0] == 23*) GOTO 0x05E9
+     0x05DD [0x03] Work_Zone[1] = 145*
+     0x05E2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x05E4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x05E6 [0x01] GOTO 0x0673
+     0x05E9 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x060E
+     0x05F1 [0x03] Work_Zone[1] = 148*
+     0x05F6 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+     0x05FA [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[31])
+     0x05FE [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone_1700[31])
+     0x0607 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0609 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x060B [0x01] GOTO 0x0673
+     0x060E [0x02] IF !(Work_Zone[0] == 25*) GOTO 0x064D
+     0x0616 [0x03] Work_Zone[1] = 165*
+     0x061B [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+     0x061F [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[31])
+     0x0623 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone_1700[31])
+     0x062C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x062E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0630 [0x03] Work_Zone[1] = 166*
+     0x0635 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+     0x0639 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[31])
+     0x063D [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone_1700[31])
+     0x0646 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0648 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x064A [0x01] GOTO 0x0673
+     0x064D [0x02] IF !(Work_Zone[0] == 26*) GOTO 0x0672
+     0x0655 [0x03] Work_Zone[1] = 167*
+     0x065A [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+     0x065E [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone_1700[31])
+     0x0662 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone_1700[31])
+     0x066B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x066D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x066F [0x01] GOTO 0x0673
+     0x0672 [0x1B] RETURN
+     0x0673 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x0681
+     0x067B [0x01] GOTO 0x03F7
+     0x067E [0x01] GOTO 0x0681
+     0x0681 [0x1B] RETURN
+     0x0682 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0698
+     0x0689 [0x48] [System] [4673*]:
+    → "Your furnace lost a small amount of durability."
+     0x068C [0x03] Work_Zone[1] = 120*
+     0x0691 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0693 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0695 [0x01] GOTO 0x06C6
+     0x0698 [0x48] [System] [4675*]:
+    → "Apply a measured thwack to the furnace to prevent explosion. Cost: Reduction in furnace durability."
+     0x069B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x069C [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x06A3 [0x25] WAIT_DIALOG_SELECT()
+     0x06A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C3
+     0x06AC [0x03] Work_Zone[1] = 120*
+     0x06B1 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x06B3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x06B5 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x06C0
+     0x06BD [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x06C0 [0x01] GOTO 0x06C6
+     0x06C3 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x06C6 [0x1B] RETURN
+     0x06C7 [0x03] Work_Zone[2] = 7*
+     0x06CC [0x03] Work_Zone[3] = 3*
+     0x06D1 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x06D9 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x06FA
+     0x06E0 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x06E3 [0x03] Work_Zone[1] = 121*
+     0x06E8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x06EA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x06EC [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x06F7
+     0x06F4 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x06F7 [0x01] GOTO 0x0728
+     0x06FA [0x48] [System] [4676*]:
+    → "Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x06FD [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x06FE [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0705 [0x25] WAIT_DIALOG_SELECT()
+     0x0706 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0725
+     0x070E [0x03] Work_Zone[1] = 121*
+     0x0713 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0715 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0717 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0722
+     0x071F [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0722 [0x01] GOTO 0x0728
+     0x0725 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0728 [0x1B] RETURN
+     0x0729 [0x03] Work_Zone[2] = 7*
+     0x072E [0x03] Work_Zone[3] = 6*
+     0x0733 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x073B [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x075C
+     0x0742 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0745 [0x03] Work_Zone[1] = 123*
+     0x074A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x074C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x074E [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0759
+     0x0756 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0759 [0x01] GOTO 0x078A
+     0x075C [0x48] [System] [4677*]:
+    → "Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0760 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0767 [0x25] WAIT_DIALOG_SELECT()
+     0x0768 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0787
+     0x0770 [0x03] Work_Zone[1] = 123*
+     0x0775 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0777 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0779 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0784
+     0x0781 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0784 [0x01] GOTO 0x078A
+     0x0787 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x078A [0x1B] RETURN
+     0x078B [0x03] Work_Zone[2] = 6*
+     0x0790 [0x03] Work_Zone[3] = 6*
+     0x0795 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x079D [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x07BE
+     0x07A4 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x07A7 [0x03] Work_Zone[1] = 122*
+     0x07AC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x07AE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x07B0 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x07BB
+     0x07B8 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x07BB [0x01] GOTO 0x07EC
+     0x07BE [0x48] [System] [4678*]:
+    → "Restore the furnace's durability. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x07C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x07C2 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x07C9 [0x25] WAIT_DIALOG_SELECT()
+     0x07CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07E9
+     0x07D2 [0x03] Work_Zone[1] = 122*
+     0x07D7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x07D9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x07DB [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x07E6
+     0x07E3 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x07E6 [0x01] GOTO 0x07EC
+     0x07E9 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x07EC [0x1B] RETURN
+     0x07ED [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x080E
+     0x07F4 [0x48] [System] [4674*]:
+    → "There was no impact on fewell reserves or furnace durability."
+     0x07F7 [0x03] Work_Zone[1] = 124*
+     0x07FC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x07FE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0800 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x080B
+     0x0808 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x080B [0x01] GOTO 0x083C
+     0x080E [0x48] [System] [4679*]:
+    → "Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product. Cost: Nothing."
+     0x0811 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0812 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0819 [0x25] WAIT_DIALOG_SELECT()
+     0x081A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0839
+     0x0822 [0x03] Work_Zone[1] = 124*
+     0x0827 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0829 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x082B [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0836
+     0x0833 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0836 [0x01] GOTO 0x083C
+     0x0839 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x083C [0x1B] RETURN
+     0x083D [0x83] Work_Zone[9] = GetGameTime()
+     0x0840 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=Work_Zone[9], year=Work_Zone[9], month=Work_Zone[9], day=Work_Zone[9], weekday=Work_Zone[2], hour=Work_Zone[9], minute=Work_Zone[9], moon=Work_Zone[9])
+     0x0851 [0x9D] Work_Zone[2] = 0x08B6[Work_Zone[2]] // Read WORD
+     0x0859 [0x03] Work_Zone[3] = 5*
+     0x085E [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0866 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0887
+     0x086D [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0870 [0x03] Work_Zone[1] = 125*
+     0x0875 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0877 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0879 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0884
+     0x0881 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0884 [0x01] GOTO 0x08B5
+     0x0887 [0x48] [System] [4680*]:
+    → "Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x088A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x088B [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0892 [0x25] WAIT_DIALOG_SELECT()
+     0x0893 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08B2
+     0x089B [0x03] Work_Zone[1] = 125*
+     0x08A0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x08A2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x08A4 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x08AF
+     0x08AC [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x08AF [0x01] GOTO 0x08B5
+     0x08B2 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x08B5 [0x1B] RETURN
+     0x08B6 [0x02] IF !(0x0580 == 0x0980) GOTO 0x8004
+     0x08BE [0x00] END_REQSTACK()
+     0x08BF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148827144/0x80148008))
+     0x08C4 [0x16] 0x3E80 = sin(ExtData[1]->WorkLocal[57]) * 0*
+     0x08CB [0xE7] UNKNOWN_0xE7
+     0x08CC [0x08] 0x3848 -= 0x0380
+     0x08D1 [0x01] GOTO 0x4810
+     0x08D4 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 21168195/0x01430043))
+     0x08D9 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x08E4
+     0x08E1 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x08E4 [0x01] GOTO 0x0915
+     0x08E7 [0x48] [System] [4681*]:
+    → "Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack. Cost: Slight reduction in furnace durability."
+     0x08EA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x08EB [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x08F2 [0x25] WAIT_DIALOG_SELECT()
+     0x08F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0912
+     0x08FB [0x03] Work_Zone[1] = 126*
+     0x0900 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0902 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0904 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x090F
+     0x090C [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x090F [0x01] GOTO 0x0915
+     0x0912 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0915 [0x1B] RETURN
+     0x0916 [0x03] Work_Zone[2] = 3*
+     0x091B [0x03] Work_Zone[3] = 10*
+     0x0920 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0928 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0949
+     0x092F [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0932 [0x03] Work_Zone[1] = 127*
+     0x0937 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0939 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x093B [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0946
+     0x0943 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0946 [0x01] GOTO 0x0977
+     0x0949 [0x48] [System] [4682*]:
+    → "Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x094C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x094D [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0954 [0x25] WAIT_DIALOG_SELECT()
+     0x0955 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0974
+     0x095D [0x03] Work_Zone[1] = 127*
+     0x0962 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0964 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0966 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0971
+     0x096E [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0971 [0x01] GOTO 0x0977
+     0x0974 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0977 [0x1B] RETURN
+     0x0978 [0x03] Work_Zone[2] = 2*
+     0x097D [0x03] Work_Zone[3] = 5*
+     0x0982 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x098A [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x09AB
+     0x0991 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0994 [0x03] Work_Zone[1] = 128*
+     0x0999 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x099B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x099D [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x09A8
+     0x09A5 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x09A8 [0x01] GOTO 0x09D9
+     0x09AB [0x48] [System] [4683*]:
+    → "Keenly observe the flow of elements to prevent o"-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x09AE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x09AF [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x09B6 [0x25] WAIT_DIALOG_SELECT()
+     0x09B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09D6
+     0x09BF [0x03] Work_Zone[1] = 128*
+     0x09C4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x09C6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x09C8 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x09D3
+     0x09D0 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x09D3 [0x01] GOTO 0x09D9
+     0x09D6 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x09D9 [0x1B] RETURN
+     0x09DA [0x03] Work_Zone[2] = 5*
+     0x09DF [0x03] Work_Zone[3] = 10*
+     0x09E4 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x09EC [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0A0D
+     0x09F3 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x09F6 [0x03] Work_Zone[1] = 129*
+     0x09FB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x09FD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x09FF [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0A0A
+     0x0A07 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0A0A [0x01] GOTO 0x0A3B
+     0x0A0D [0x48] [System] [4684*]:
+    → "Temporarily improve fewell combustion rate. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0A10 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0A11 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0A18 [0x25] WAIT_DIALOG_SELECT()
+     0x0A19 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A38
+     0x0A21 [0x03] Work_Zone[1] = 129*
+     0x0A26 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0A28 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0A2A [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0A35
+     0x0A32 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0A35 [0x01] GOTO 0x0A3B
+     0x0A38 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0A3B [0x1B] RETURN
+     0x0A3C [0x03] Work_Zone[2] = 5*
+     0x0A41 [0x03] Work_Zone[3] = 5*
+     0x0A46 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0A4E [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0A6F
+     0x0A55 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0A58 [0x03] Work_Zone[1] = 130*
+     0x0A5D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0A5F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0A61 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0A6C
+     0x0A69 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0A6C [0x01] GOTO 0x0A9D
+     0x0A6F [0x48] [System] [4685*]:
+    → "Keenly observe the flow of elements to prevent obased explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0A73 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0A7A [0x25] WAIT_DIALOG_SELECT()
+     0x0A7B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A9A
+     0x0A83 [0x03] Work_Zone[1] = 130*
+     0x0A88 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0A8A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0A8C [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0A97
+     0x0A94 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0A97 [0x01] GOTO 0x0A9D
+     0x0A9A [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0A9D [0x1B] RETURN
+     0x0A9E [0x03] Work_Zone[2] = 6*
+     0x0AA3 [0x03] Work_Zone[3] = 10*
+     0x0AA8 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0AB0 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0AD1
+     0x0AB7 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0ABA [0x03] Work_Zone[1] = 131*
+     0x0ABF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0AC1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0AC3 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0ACE
+     0x0ACB [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0ACE [0x01] GOTO 0x0AFF
+     0x0AD1 [0x48] [System] [4686*]:
+    → "Evenly disperse the furnace's internal stress to delay a looming explosion. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0AD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0AD5 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0ADC [0x25] WAIT_DIALOG_SELECT()
+     0x0ADD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AFC
+     0x0AE5 [0x03] Work_Zone[1] = 131*
+     0x0AEA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0AEC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0AEE [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0AF9
+     0x0AF6 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0AF9 [0x01] GOTO 0x0AFF
+     0x0AFC [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0AFF [0x1B] RETURN
+     0x0B00 [0x03] Work_Zone[2] = 1*
+     0x0B05 [0x03] Work_Zone[3] = 5*
+     0x0B0A [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0B12 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0B33
+     0x0B19 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0B1C [0x03] Work_Zone[1] = 132*
+     0x0B21 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0B23 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0B25 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0B30
+     0x0B2D [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0B30 [0x01] GOTO 0x0B61
+     0x0B33 [0x48] [System] [4687*]:
+    → "Keenly observe the flow of elements to prevent o!-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0B36 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0B37 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0B3E [0x25] WAIT_DIALOG_SELECT()
+     0x0B3F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B5E
+     0x0B47 [0x03] Work_Zone[1] = 132*
+     0x0B4C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0B4E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0B50 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0B5B
+     0x0B58 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0B5B [0x01] GOTO 0x0B61
+     0x0B5E [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0B61 [0x1B] RETURN
+     0x0B62 [0x03] Work_Zone[2] = 6*
+     0x0B67 [0x03] Work_Zone[3] = 10*
+     0x0B6C [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0B74 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0B95
+     0x0B7B [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0B7E [0x03] Work_Zone[1] = 133*
+     0x0B83 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0B85 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0B87 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0B92
+     0x0B8F [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0B92 [0x01] GOTO 0x0BC3
+     0x0B95 [0x48] [System] [4692*]:
+    → "Restore furnace durability by a significant amount. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0B98 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0B99 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0BA0 [0x25] WAIT_DIALOG_SELECT()
+     0x0BA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BC0
+     0x0BA9 [0x03] Work_Zone[1] = 133*
+     0x0BAE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0BB0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0BB2 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0BBD
+     0x0BBA [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0BBD [0x01] GOTO 0x0BC3
+     0x0BC0 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0BC3 [0x1B] RETURN
+     0x0BC4 [0x03] Work_Zone[2] = 3*
+     0x0BC9 [0x03] Work_Zone[3] = 5*
+     0x0BCE [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0BD6 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0BF7
+     0x0BDD [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0BE0 [0x03] Work_Zone[1] = 134*
+     0x0BE5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0BE7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0BE9 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0BF4
+     0x0BF1 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0BF4 [0x01] GOTO 0x0C25
+     0x0BF7 [0x48] [System] [4693*]:
+    → "Keenly observe the flow of elements to prevent o#-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0BFA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0BFB [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0C02 [0x25] WAIT_DIALOG_SELECT()
+     0x0C03 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C22
+     0x0C0B [0x03] Work_Zone[1] = 134*
+     0x0C10 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0C12 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0C14 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0C1F
+     0x0C1C [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0C1F [0x01] GOTO 0x0C25
+     0x0C22 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0C25 [0x1B] RETURN
+     0x0C26 [0x03] Work_Zone[2] = 1*
+     0x0C2B [0x03] Work_Zone[3] = 10*
+     0x0C30 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0C38 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0C59
+     0x0C3F [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0C42 [0x03] Work_Zone[1] = 135*
+     0x0C47 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0C49 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0C4B [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0C56
+     0x0C53 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0C56 [0x01] GOTO 0x0C87
+     0x0C59 [0x48] [System] [4688*]:
+    → "Temporarily suppress fluctuations in internal pressure. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0C5C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0C5D [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0C64 [0x25] WAIT_DIALOG_SELECT()
+     0x0C65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C84
+     0x0C6D [0x03] Work_Zone[1] = 135*
+     0x0C72 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0C74 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0C76 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0C81
+     0x0C7E [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0C81 [0x01] GOTO 0x0C87
+     0x0C84 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0C87 [0x1B] RETURN
+     0x0C88 [0x03] Work_Zone[2] = 0*
+     0x0C8D [0x03] Work_Zone[3] = 5*
+     0x0C92 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0C9A [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0CBB
+     0x0CA1 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0CA4 [0x03] Work_Zone[1] = 136*
+     0x0CA9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0CAB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0CAD [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0CB8
+     0x0CB5 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0CB8 [0x01] GOTO 0x0CE9
+     0x0CBB [0x48] [System] [4689*]:
+    → "Keenly observe the flow of elements to prevent o -based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0CBE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0CBF [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0CC6 [0x25] WAIT_DIALOG_SELECT()
+     0x0CC7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CE6
+     0x0CCF [0x03] Work_Zone[1] = 136*
+     0x0CD4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0CD6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0CD8 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0CE3
+     0x0CE0 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0CE3 [0x01] GOTO 0x0CE9
+     0x0CE6 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0CE9 [0x1B] RETURN
+     0x0CEA [0x03] Work_Zone[2] = 0*
+     0x0CEF [0x03] Work_Zone[3] = 10*
+     0x0CF4 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0CFC [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0D1D
+     0x0D03 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0D06 [0x03] Work_Zone[1] = 137*
+     0x0D0B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0D0D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0D0F [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0D1A
+     0x0D17 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0D1A [0x01] GOTO 0x0D4B
+     0x0D1D [0x48] [System] [4690*]:
+    → "Temporarily increase the likelihood of an elemental surge. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0D20 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D21 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0D28 [0x25] WAIT_DIALOG_SELECT()
+     0x0D29 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D48
+     0x0D31 [0x03] Work_Zone[1] = 137*
+     0x0D36 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0D38 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0D3A [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0D45
+     0x0D42 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0D45 [0x01] GOTO 0x0D4B
+     0x0D48 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0D4B [0x1B] RETURN
+     0x0D4C [0x03] Work_Zone[2] = 6*
+     0x0D51 [0x03] Work_Zone[3] = 5*
+     0x0D56 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0D5E [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0D7F
+     0x0D65 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0D68 [0x03] Work_Zone[1] = 138*
+     0x0D6D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0D6F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0D71 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0D7C
+     0x0D79 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0D7C [0x01] GOTO 0x0DAD
+     0x0D7F [0x48] [System] [4691*]:
+    → "Keenly observe the flow of elements to prevent o&-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0D82 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D83 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0D8A [0x25] WAIT_DIALOG_SELECT()
+     0x0D8B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DAA
+     0x0D93 [0x03] Work_Zone[1] = 138*
+     0x0D98 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0D9A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0D9C [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0DA7
+     0x0DA4 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0DA7 [0x01] GOTO 0x0DAD
+     0x0DAA [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0DAD [0x1B] RETURN
+     0x0DAE [0x03] Work_Zone[2] = 3*
+     0x0DB3 [0x03] Work_Zone[3] = 10*
+     0x0DB8 [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0DC0 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0DE1
+     0x0DC7 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0DCA [0x03] Work_Zone[1] = 139*
+     0x0DCF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0DD1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0DD3 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0DDE
+     0x0DDB [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0DDE [0x01] GOTO 0x0E0F
+     0x0DE1 [0x48] [System] [4694*]:
+    → "Temporarily suppress the force of explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0DE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DE5 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0DEC [0x25] WAIT_DIALOG_SELECT()
+     0x0DED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E0C
+     0x0DF5 [0x03] Work_Zone[1] = 139*
+     0x0DFA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0DFC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0DFE [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0E09
+     0x0E06 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0E09 [0x01] GOTO 0x0E0F
+     0x0E0C [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0E0F [0x1B] RETURN
+     0x0E10 [0x03] Work_Zone[2] = 7*
+     0x0E15 [0x03] Work_Zone[3] = 5*
+     0x0E1A [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0E22 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0E43
+     0x0E29 [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0E2C [0x03] Work_Zone[1] = 140*
+     0x0E31 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0E33 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0E35 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0E40
+     0x0E3D [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0E40 [0x01] GOTO 0x0E71
+     0x0E43 [0x48] [System] [4695*]:
+    → "Keenly observe the flow of elements to prevent o%-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0E46 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E47 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0E4E [0x25] WAIT_DIALOG_SELECT()
+     0x0E4F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E6E
+     0x0E57 [0x03] Work_Zone[1] = 140*
+     0x0E5C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0E5E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0E60 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0E6B
+     0x0E68 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0E6B [0x01] GOTO 0x0E71
+     0x0E6E [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0E71 [0x1B] RETURN
+     0x0E72 [0x03] Work_Zone[2] = 6*
+     0x0E77 [0x03] Work_Zone[3] = 10*
+     0x0E7C [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0E84 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0EA5
+     0x0E8B [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0E8E [0x03] Work_Zone[1] = 141*
+     0x0E93 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0E95 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0E97 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0EA2
+     0x0E9F [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0EA2 [0x01] GOTO 0x0ED3
+     0x0EA5 [0x48] [System] [4696*]:
+    → "Gradually purge the furnace of impurities. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0EA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0EA9 [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0EB0 [0x25] WAIT_DIALOG_SELECT()
+     0x0EB1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ED0
+     0x0EB9 [0x03] Work_Zone[1] = 141*
+     0x0EBE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0EC0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0EC2 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0ECD
+     0x0ECA [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0ECD [0x01] GOTO 0x0ED3
+     0x0ED0 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0ED3 [0x1B] RETURN
+     0x0ED4 [0x03] Work_Zone[2] = 4*
+     0x0ED9 [0x03] Work_Zone[3] = 5*
+     0x0EDE [0x9D] Work_Zone[4] = 0x107E[Work_Zone[2]] // Read WORD
+     0x0EE6 [0x3E] IF !(ExtData[1]->WorkLocal[57] bit 0*) GOTO 0x0F07
+     0x0EED [0x48] [System] [4672*]:
+    → "You expended $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0EF0 [0x03] Work_Zone[1] = 142*
+     0x0EF5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0EF7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0EF9 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0F04
+     0x0F01 [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0F04 [0x01] GOTO 0x0F35
+     0x0F07 [0x48] [System] [4697*]:
+    → "Keenly observe the flow of elements to prevent o$-based explosions. Cost: $1 [portion/portions] of [oo /o!/o"/o#/o$/o%/o&] fewell ($2 [portion/portions] remaining)."
+     0x0F0A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0F0B [0x24] CREATE_DIALOG(message_id=4698*, default_option=0*, option_flags=0*)
+    → "Perform action? [Yes./No.]"
+     0x0F12 [0x25] WAIT_DIALOG_SELECT()
+     0x0F13 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F32
+     0x0F1B [0x03] Work_Zone[1] = 142*
+     0x0F20 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0F22 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0F24 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0F2F
+     0x0F2C [0x1A] CALL_SUBROUTINE(address=0x1055)
+     0x0F2F [0x01] GOTO 0x0F35
+     0x0F32 [0x05] ExtData[1]->WorkLocal[43] = 1
+     0x0F35 [0x1B] RETURN
+     0x0F36 [0x03] Work_Zone[1] = 144*
+     0x0F3B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0F3D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0F3F [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0F48
+     0x0F47 [0x1B] RETURN
+     0x0F48 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[2] (bits 0*-7*)
+     0x0F51 [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[2] (bits 8*-15*)
+     0x0F5A [0x41] ExtData[1]->WorkLocal[1] = Work_Zone[2] (bits 16*-23*)
+     0x0F63 [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[2] (bits 24*-31*)
+     0x0F6C [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[3] (bits 0*-7*)
+     0x0F75 [0x41] ExtData[1]->WorkLocal[10] = Work_Zone[3] (bits 8*-15*)
+     0x0F7E [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[3] (bits 16*-23*)
+     0x0F87 [0x41] ExtData[1]->WorkLocal[11] = Work_Zone[3] (bits 24*-31*)
+     0x0F90 [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[4] (bits 0*-7*)
+     0x0F99 [0x41] ExtData[1]->WorkLocal[12] = Work_Zone[4] (bits 8*-15*)
+     0x0FA2 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[4] (bits 16*-23*)
+     0x0FAB [0x41] ExtData[1]->WorkLocal[13] = Work_Zone[4] (bits 24*-31*)
+     0x0FB4 [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[5] (bits 0*-7*)
+     0x0FBD [0x41] ExtData[1]->WorkLocal[14] = Work_Zone[5] (bits 8*-15*)
+     0x0FC6 [0x41] ExtData[1]->WorkLocal[7] = Work_Zone[5] (bits 16*-23*)
+     0x0FCF [0x41] ExtData[1]->WorkLocal[15] = Work_Zone[5] (bits 24*-31*)
+     0x0FD8 [0x1B] RETURN
+     0x0FD9 [0x03] Work_Zone[1] = 147*
+     0x0FDE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x0FE0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0FE2 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0FEB
+     0x0FEA [0x1B] RETURN
+     0x0FEB [0x41] ExtData[1]->WorkLocal[31] = Work_Zone[3] (bits 31*-31*)
+     0x0FF4 [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x1006
+     0x0FFC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1003 [0x01] GOTO 0x100D
+     0x1006 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x100D [0x41] ExtData[1]->WorkLocal[24] = Work_Zone[4] (bits 0*-2*)
+     0x1016 [0x41] ExtData[1]->WorkLocal[25] = Work_Zone[4] (bits 3*-5*)
+     0x101F [0x41] ExtData[1]->WorkLocal[26] = Work_Zone[4] (bits 6*-8*)
+     0x1028 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone[4] (bits 9*-11*)
+     0x1031 [0x41] ExtData[1]->WorkLocal[28] = Work_Zone[4] (bits 12*-14*)
+     0x103A [0x41] ExtData[1]->WorkLocal[29] = Work_Zone[4] (bits 15*-17*)
+     0x1043 [0x03] Work_Zone[1] = 143*
+     0x1048 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x104A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x104C [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x1055
+     0x1054 [0x1B] RETURN
+     0x1055 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[2]
+     0x105A [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[3]
+     0x105F [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[4]
+     0x1064 [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[5]
+     0x1069 [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[6]
+     0x106E [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[7]
+     0x1073 [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[8]
+     0x1078 [0x03] ExtData[1]->WorkLocal[23] = Work_Zone[9]
+     0x107D [0x1B] RETURN
+     0x107E [0x10] Work_Zone_Memorize[0] <<= 0x1200
+     0x1083 [0x00] END_REQSTACK()
+     0x1084 [0x13] 0x1400 = rand() % 0x1500
+     0x1089 [0x00] END_REQSTACK()
+     0x108A [0x16] Work_Zone_1700[0] = sin(0x4200) * 0x6C48
+     0x1091 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 1212284961/0x48420021))
+     0x1096 [0x6C] FADE_ENTITY_COLOR(entity_id=Unknown NPC (ID: 2154645632/0x806D4880), end_alpha=0x6E24, fade_time=0x80)
+     0x109F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 36012034/0x02258002))
+     0x10A4 [0x00] END_REQSTACK()
+     0x10A5 [0x10] 0* <<= 0xBB00
+     0x10AA [0x10] 0x0203 <<= 0x6F10
+     0x10AF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 58749000/0x03807048))
+     0x10B4 [0x01] GOTO 0x7110
+     0x10B7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 554744577/0x2110BB01))
+     0x10BC [0x00] END_REQSTACK()
+     0x10BD [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x10BE [0x03] ExtData[1]->WorkLocal[31] = Work_Zone[2]
+     0x10C3 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[3]
+     0x10C8 [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[4]
+     0x10CD [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[5]
+     0x10D2 [0x03] Work_Zone_1700[21] = Work_Zone[6]
+     0x10D7 [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[7]
+     0x10DC [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[8]
+     0x10E1 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[34] (bits 0*-15*)
+     0x10EA [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[34] (bits 16*-23*)
+     0x10F3 [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[31]
+     0x10F8 [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[32]
+     0x10FD [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[33]
+     0x1102 [0x1A] CALL_SUBROUTINE(address=0x11EF)
+     0x1105 [0x02] IF !(ExtData[1]->WorkLocal[35] == 0*) GOTO 0x1113
+     0x110D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
+     0x1110 [0x01] GOTO 0x112B
+     0x1113 [0x02] IF !(ExtData[1]->WorkLocal[36] == 1*) GOTO 0x1121
+     0x111B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
+     0x111E [0x01] GOTO 0x112B
+     0x1121 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=134152962*, buffer2=0*, buffer3=0*)
+     0x112B [0x06] ExtData[1]->WorkLocal[35] = 0
+     0x112E [0x06] ExtData[1]->WorkLocal[30] = 0
+     0x1131 [0x02] IF !(ExtData[1]->WorkLocal[30] >= 8*) GOTO 0x1149
+     0x1139 [0x3E] IF !(ExtData[1]->WorkLocal[31] bit ExtData[1]->WorkLocal[30]) GOTO 0x1143
+     0x1140 [0x0B] ExtData[1]->WorkLocal[35]++
+     0x1143 [0x0B] ExtData[1]->WorkLocal[30]++
+     0x1146 [0x01] GOTO 0x1131
+     0x1149 [0x02] IF !(ExtData[1]->WorkLocal[35] == 0*) GOTO 0x1158
+     0x1151 [0x48] [System] [4629*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: N/A"
+     0x1154 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1155 [0x01] GOTO 0x11D0
+     0x1158 [0x02] IF !(ExtData[1]->WorkLocal[35] == 1*) GOTO 0x1167
+     0x1160 [0x48] [System] [4630*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
+     0x1163 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1164 [0x01] GOTO 0x11D0
+     0x1167 [0x02] IF !(ExtData[1]->WorkLocal[35] == 2*) GOTO 0x1176
+     0x116F [0x48] [System] [4631*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
+     0x1172 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1173 [0x01] GOTO 0x11D0
+     0x1176 [0x02] IF !(ExtData[1]->WorkLocal[35] == 3*) GOTO 0x1185
+     0x117E [0x48] [System] [4632*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
+     0x1181 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1182 [0x01] GOTO 0x11D0
+     0x1185 [0x02] IF !(ExtData[1]->WorkLocal[35] == 4*) GOTO 0x1194
+     0x118D [0x48] [System] [4633*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
+     0x1190 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1191 [0x01] GOTO 0x11D0
+     0x1194 [0x02] IF !(ExtData[1]->WorkLocal[35] == 5*) GOTO 0x11A3
+     0x119C [0x48] [System] [4634*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
+     0x119F [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x11A0 [0x01] GOTO 0x11D0
+     0x11A3 [0x02] IF !(ExtData[1]->WorkLocal[35] == 6*) GOTO 0x11B2
+     0x11AB [0x48] [System] [4635*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
+     0x11AE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x11AF [0x01] GOTO 0x11D0
+     0x11B2 [0x02] IF !(ExtData[1]->WorkLocal[35] == 7*) GOTO 0x11C1
+     0x11BA [0x48] [System] [4636*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
+     0x11BD [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x11BE [0x01] GOTO 0x11D0
+     0x11C1 [0x02] IF !(ExtData[1]->WorkLocal[35] == 8*) GOTO 0x11D0
+     0x11C9 [0x48] [System] [4637*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
+     0x11CC [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x11CD [0x01] GOTO 0x11D0
+     0x11D0 [0x24] CREATE_DIALOG(message_id=4651*, default_option=0*, option_flags=0*)
+    → "Commence synergy? [Yes./No.]"
+     0x11D7 [0x25] WAIT_DIALOG_SELECT()
+     0x11D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11E8
+     0x11E0 [0x03] Work_Zone[1] = 150*
+     0x11E5 [0x01] GOTO 0x11ED
+     0x11E8 [0x03] Work_Zone[1] = 151*
+     0x11ED [0x21] END_EVENT
+     0x11EE [0x00] END_REQSTACK()
+     0x11EF [0x06] ExtData[1]->WorkLocal[30] = 0
+     0x11F2 [0x06] ExtData[1]->WorkLocal[32] = 0
+     0x11F5 [0x02] IF !(ExtData[1]->WorkLocal[30] >= 8*) GOTO 0x12C0
+     0x11FD [0x3E] IF !(Work_Zone_1700[22] bit ExtData[1]->WorkLocal[30]) GOTO 0x12BA
+     0x1204 [0x9D] 0x12C1[ExtData[1]->WorkLocal[32] * 2] = ExtData[1]->WorkLocal[30] // Write WORD
+     0x120C [0x06] ExtData[1]->WorkLocal[43] = 0
+     0x120F [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x1223
+     0x1217 [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[23] (bits 0*-7*)
+     0x1220 [0x01] GOTO 0x12AF
+     0x1223 [0x02] IF !(ExtData[1]->WorkLocal[30] == 1*) GOTO 0x1237
+     0x122B [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[23] (bits 8*-15*)
+     0x1234 [0x01] GOTO 0x12AF
+     0x1237 [0x02] IF !(ExtData[1]->WorkLocal[30] == 2*) GOTO 0x124B
+     0x123F [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[23] (bits 16*-23*)
+     0x1248 [0x01] GOTO 0x12AF
+     0x124B [0x02] IF !(ExtData[1]->WorkLocal[30] == 3*) GOTO 0x125F
+     0x1253 [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[23] (bits 24*-31*)
+     0x125C [0x01] GOTO 0x12AF
+     0x125F [0x02] IF !(ExtData[1]->WorkLocal[30] == 4*) GOTO 0x1273
+     0x1267 [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[24] (bits 0*-7*)
+     0x1270 [0x01] GOTO 0x12AF
+     0x1273 [0x02] IF !(ExtData[1]->WorkLocal[30] == 5*) GOTO 0x1287
+     0x127B [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[24] (bits 8*-15*)
+     0x1284 [0x01] GOTO 0x12AF
+     0x1287 [0x02] IF !(ExtData[1]->WorkLocal[30] == 6*) GOTO 0x129B
+     0x128F [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[24] (bits 16*-23*)
+     0x1298 [0x01] GOTO 0x12AF
+     0x129B [0x02] IF !(ExtData[1]->WorkLocal[30] == 7*) GOTO 0x12AF
+     0x12A3 [0x41] ExtData[1]->WorkLocal[43] = Work_Zone_1700[24] (bits 24*-31*)
+     0x12AC [0x01] GOTO 0x12AF
+     0x12AF [0x9D] 0x12D1[ExtData[1]->WorkLocal[32] * 2] = ExtData[1]->WorkLocal[43] // Write WORD
+     0x12B7 [0x0B] ExtData[1]->WorkLocal[32]++
+     0x12BA [0x0B] ExtData[1]->WorkLocal[30]++
+     0x12BD [0x01] GOTO 0x11F5
+     0x12C0 [0x1B] RETURN
+     0x12C1 [0x04] DEPRECATED_NOP(unused=0x0610)
+     0x12C4 [0x10] Work_Zone[8] <<= Work_Zone_1700[0]
+     0x12C9 [0x02] IF !(0x0417 == 0x0617) GOTO 0x1708
+     0x12D1 [0x05] 0x0710 = 1
+     0x12D4 [0x10] Work_Zone[9] <<= Work_Zone_1700[1]
+     0x12D9 [0x03] 0x0517 = 0x0717
+     0x12DE [0x17] Work_Zone_1700[9] = cos(0x0342) * ExtData[1]->WorkLocal[31]
+     0x12E5 [0x02] IF !(0x0310 >= ExtData[1]->WorkLocal[32]) GOTO 0x0310
+     0x12ED [0x21] END_EVENT
+     0x12EE [0x00] END_REQSTACK()
+     0x12EF [0x04] DEPRECATED_NOP(unused=0x0310)
+     0x12F2 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+     0x12F4 [0x05] 0x0310 = 1
+     0x12F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x12F8 [0x00] END_REQSTACK()
+     0x12F9 [0x06] 0x0310 = 0
+     0x12FC [0x24] CREATE_DIALOG(message_id=0x0700, default_option=0x0310, option_flags=ExtData[1]->WorkLocal[37])
+     0x1303 [0x08] 0x3E10 -= ExtData[1]->WorkLocal[35]
+     0x1308 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler 0x253E1330 with entities [Unknown NPC (ID: 1041447040/0x3E133880), Unknown NPC (ID: 2150367268/0x802C0024)]
+     0x1315 [0x00] END_REQSTACK()
+     0x1316 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler 0x80781001 with entities [Unknown NPC (ID: 1209215104/0x48132880), Unknown NPC (ID: 52658295/0x03238077)]
+     0x1323 [0x21] END_EVENT
+     0x1324 [0x00] END_REQSTACK()
+     0x1325 [0x01] GOTO 0x132D
+     0x1328 [0x03] ExtData[1]->WorkLocal[60] = ExtData[1]->WorkLocal[37]
+     0x132D [0x01] GOTO 0x1335
+     0x1330 [0x03] ExtData[1]->WorkLocal[60] = ExtData[1]->WorkLocal[36]
+     0x1335 [0x01] GOTO 0x133D
+     0x1338 [0x03] ExtData[1]->WorkLocal[60] = ExtData[1]->WorkLocal[35]
+     0x133D [0x41] Work_Zone_1700[0] = ExtData[1]->WorkLocal[60] (bits 0*-3*)
+     0x1346 [0x02] IF !(Work_Zone_1700[0] == 0*) GOTO 0x1359
+     0x134E [0x48] [System] [4641*]:
+    → "This item cannot house any more apertures."
+     0x1351 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1352 [0x03] Work_Zone[1] = 153*
+     0x1357 [0x21] END_EVENT
+     0x1358 [0x00] END_REQSTACK()
+     0x1359 [0x07] Work_Zone_1700[0] += 29680*
+     0x135E [0x41] Work_Zone_1700[3] = ExtData[1]->WorkLocal[60] (bits 4*-11*)
+     0x1367 [0x0F] Work_Zone_1700[3] ^= 4294967295*
+     0x136C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[3], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1373 [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x13AB
+     0x137B [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x139E
+     0x1383 [0x02] IF !(ExtData[1]->WorkLocal[33] == 0*) GOTO 0x1391
+     0x138B [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[34])
+     0x138E [0x01] GOTO 0x139B
+     0x1391 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x139B [0x01] GOTO 0x13A8
+     0x139E [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x13A8 [0x01] GOTO 0x13B5
+     0x13AB [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x13B5 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[34]
+     0x13BA [0x48] [System] [4638*]:
+    → "$8 will be used to etch an aperture on the $3."
+     0x13BD [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x13BE [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x13F6
+     0x13C6 [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x13E9
+     0x13CE [0x02] IF !(ExtData[1]->WorkLocal[33] == 0*) GOTO 0x13DC
+     0x13D6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x13D9 [0x01] GOTO 0x13E6
+     0x13DC [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x13E6 [0x01] GOTO 0x13F3
+     0x13E9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x13F3 [0x01] GOTO 0x1400
+     0x13F6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x1400 [0x02] IF !(1* == 1*) GOTO 0x1464
+     0x1408 [0x24] CREATE_DIALOG(message_id=4639*, default_option=0*, option_flags=Work_Zone_1700[3])
+    → "Select elemental alignment. [oo /o!/o"/o#/o$/o%/o&/Cancel.]"
+     0x140F [0x25] WAIT_DIALOG_SELECT()
+     0x1410 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1422
+     0x1418 [0x03] Work_Zone[1] = 153*
+     0x141D [0x21] END_EVENT
+     0x141E [0x00] END_REQSTACK()
+     0x141F [0x01] GOTO 0x1427
+     0x1422 [0x03] Work_Zone_1700[1] = Work_Zone[0]
+     0x1427 [0x24] CREATE_DIALOG(message_id=4640*, default_option=0*, option_flags=0*)
+    → "Confirm: $8[oo /o!/o"/o#/o$/o%/o&] [Yes./Redo.]"
+     0x142E [0x25] WAIT_DIALOG_SELECT()
+     0x142F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1461
+     0x1437 [0x03] Work_Zone[1] = Work_Zone_1700[1]
+     0x143C [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=152*)
+     0x1445 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1447 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1449 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1457
+     0x1451 [0x01] GOTO 0x1466
+     0x1454 [0x01] GOTO 0x145E
+     0x1457 [0x03] Work_Zone[1] = 153*
+     0x145C [0x21] END_EVENT
+     0x145D [0x00] END_REQSTACK()
+     0x145E [0x01] GOTO 0x1461
+     0x1461 [0x01] GOTO 0x1400
+     0x1464 [0x21] END_EVENT
+     0x1465 [0x00] END_REQSTACK()
+     0x1466 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1467 [0x41] Work_Zone_1700[22] = Work_Zone[2] (bits 0*-15*)
+     0x1470 [0x41] Work_Zone_1700[21] = Work_Zone[2] (bits 16*-31*)
+     0x1479 [0x03] Work_Zone_1700[23] = Work_Zone[3]
+     0x147E [0x03] Work_Zone_1700[24] = Work_Zone[4]
+     0x1483 [0x03] Work_Zone_1700[25] = Work_Zone[5]
+     0x1488 [0x03] Work_Zone_1700[26] = Work_Zone[6]
+     0x148D [0x03] Work_Zone_1700[27] = Work_Zone[7]
+     0x1492 [0x03] Work_Zone_1700[28] = Work_Zone[8]
+     0x1497 [0x03] Work_Zone[2] = Work_Zone_1700[25]
+     0x149C [0x03] Work_Zone[3] = 1*
+     0x14A1 [0x1A] CALL_SUBROUTINE(address=0x11EF)
+     0x14A4 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone_1700[25], buffer1=Work_Zone_1700[26], buffer2=Work_Zone_1700[27], buffer3=Work_Zone_1700[28])
+     0x14AE [0x06] ExtData[1]->WorkLocal[31] = 0
+     0x14B1 [0x06] ExtData[1]->WorkLocal[30] = 0
+     0x14B4 [0x02] IF !(ExtData[1]->WorkLocal[30] >= 8*) GOTO 0x14CC
+     0x14BC [0x3E] IF !(Work_Zone_1700[22] bit ExtData[1]->WorkLocal[30]) GOTO 0x14C6
+     0x14C3 [0x0B] ExtData[1]->WorkLocal[31]++
+     0x14C6 [0x0B] ExtData[1]->WorkLocal[30]++
+     0x14C9 [0x01] GOTO 0x14B4
+     0x14CC [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x14DB
+     0x14D4 [0x48] [System] [4630*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
+     0x14D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x14D8 [0x01] GOTO 0x1544
+     0x14DB [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x14EA
+     0x14E3 [0x48] [System] [4631*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
+     0x14E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x14E7 [0x01] GOTO 0x1544
+     0x14EA [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x14F9
+     0x14F2 [0x48] [System] [4632*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
+     0x14F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x14F6 [0x01] GOTO 0x1544
+     0x14F9 [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x1508
+     0x1501 [0x48] [System] [4633*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
+     0x1504 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1505 [0x01] GOTO 0x1544
+     0x1508 [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x1517
+     0x1510 [0x48] [System] [4634*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
+     0x1513 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1514 [0x01] GOTO 0x1544
+     0x1517 [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x1526
+     0x151F [0x48] [System] [4635*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
+     0x1522 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1523 [0x01] GOTO 0x1544
+     0x1526 [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x1535
+     0x152E [0x48] [System] [4636*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
+     0x1531 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1532 [0x01] GOTO 0x1544
+     0x1535 [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x1544
+     0x153D [0x48] [System] [4637*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
+     0x1540 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1541 [0x01] GOTO 0x1544
+     0x1544 [0x24] CREATE_DIALOG(message_id=4651*, default_option=0*, option_flags=0*)
+    → "Commence synergy? [Yes./No.]"
+     0x154B [0x25] WAIT_DIALOG_SELECT()
+     0x154C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x155C
+     0x1554 [0x03] Work_Zone[1] = 154*
+     0x1559 [0x01] GOTO 0x1561
+     0x155C [0x03] Work_Zone[1] = 155*
+     0x1561 [0x21] END_EVENT
+     0x1562 [0x00] END_REQSTACK()
+     0x1563 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1564 [0x03] ExtData[1]->WorkLocal[31] = Work_Zone[2]
+     0x1569 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[3]
+     0x156E [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[4]
+     0x1573 [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[5]
+     0x1578 [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[6]
+     0x157D [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[7]
+     0x1582 [0x03] ExtData[1]->WorkLocal[37] = Work_Zone[8]
+     0x1587 [0x03] ExtData[1]->WorkLocal[38] = Work_Zone[9]
+     0x158C [0x41] ExtData[1]->WorkLocal[40] = ExtData[1]->WorkLocal[38] (bits 11*-14*)
+     0x1595 [0x41] ExtData[1]->WorkLocal[39] = ExtData[1]->WorkLocal[38] (bits 15*-18*)
+     0x159E [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[38] (bits 19*-21*)
+     0x15A7 [0x06] ExtData[1]->WorkLocal[42] = 0
+     0x15AA [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[35] (bits 15*-18*)
+     0x15B3 [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x1604
+     0x15BB [0x02] IF !(ExtData[1]->WorkLocal[38] == ExtData[1]->WorkLocal[39]) GOTO 0x1604
+     0x15C3 [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[35] (bits 22*-25*)
+     0x15CC [0x02] IF !(ExtData[1]->WorkLocal[38] < ExtData[1]->WorkLocal[40]) GOTO 0x1604
+     0x15D4 [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[35] (bits 19*-21*)
+     0x15DD [0x02] IF !(ExtData[1]->WorkLocal[38] == ExtData[1]->WorkLocal[41]) GOTO 0x1604
+     0x15E5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x15EC [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[35] (bits 0*-10*)
+     0x15F5 [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x1604
+     0x15FD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1604 [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[36] (bits 15*-18*)
+     0x160D [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x165E
+     0x1615 [0x02] IF !(ExtData[1]->WorkLocal[38] == ExtData[1]->WorkLocal[39]) GOTO 0x165E
+     0x161D [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[36] (bits 22*-25*)
+     0x1626 [0x02] IF !(ExtData[1]->WorkLocal[38] < ExtData[1]->WorkLocal[40]) GOTO 0x165E
+     0x162E [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[36] (bits 19*-21*)
+     0x1637 [0x02] IF !(ExtData[1]->WorkLocal[38] == ExtData[1]->WorkLocal[41]) GOTO 0x165E
+     0x163F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1646 [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[36] (bits 0*-10*)
+     0x164F [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x165E
+     0x1657 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x165E [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[37] (bits 15*-18*)
+     0x1667 [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x16B8
+     0x166F [0x02] IF !(ExtData[1]->WorkLocal[38] == ExtData[1]->WorkLocal[39]) GOTO 0x16B8
+     0x1677 [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[37] (bits 22*-25*)
+     0x1680 [0x02] IF !(ExtData[1]->WorkLocal[38] < ExtData[1]->WorkLocal[40]) GOTO 0x16B8
+     0x1688 [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[37] (bits 19*-21*)
+     0x1691 [0x02] IF !(ExtData[1]->WorkLocal[38] == ExtData[1]->WorkLocal[41]) GOTO 0x16B8
+     0x1699 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x16A0 [0x41] ExtData[1]->WorkLocal[38] = ExtData[1]->WorkLocal[37] (bits 0*-10*)
+     0x16A9 [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x16B8
+     0x16B1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x16B8 [0x02] IF !(ExtData[1]->WorkLocal[42] == 0*) GOTO 0x16CB
+     0x16C0 [0x48] [System] [4646*]:
+    → "There are no compatible apertures on this item."
+     0x16C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16C4 [0x03] Work_Zone[1] = 157*
+     0x16C9 [0x21] END_EVENT
+     0x16CA [0x00] END_REQSTACK()
+     0x16CB [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[34]
+     0x16D0 [0x03] Work_Zone_1700[0] = 2783*
+     0x16D5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x16DF [0x48] [System] [4642*]:
+    → "The $8 will be embedded in the $3."
+     0x16E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x16E3 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x16ED [0x02] IF !(1* == 1*) GOTO 0x17D9
+     0x16F5 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[39]
+     0x16FA [0x07] Work_Zone_1700[0] += 29680*
+     0x16FF [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[41]
+     0x1704 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[41]
+     0x1709 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[41]
+     0x170E [0x3E] IF !(ExtData[1]->WorkLocal[42] bit 3*) GOTO 0x171D
+     0x1715 [0x03] Work_Zone_1700[4] = 1*
+     0x171A [0x01] GOTO 0x1720
+     0x171D [0x06] Work_Zone_1700[4] = 0
+     0x1720 [0x3E] IF !(ExtData[1]->WorkLocal[42] bit 4*) GOTO 0x172F
+     0x1727 [0x03] Work_Zone_1700[5] = 1*
+     0x172C [0x01] GOTO 0x1732
+     0x172F [0x06] Work_Zone_1700[5] = 0
+     0x1732 [0x3E] IF !(ExtData[1]->WorkLocal[42] bit 5*) GOTO 0x1741
+     0x1739 [0x03] Work_Zone_1700[6] = 1*
+     0x173E [0x01] GOTO 0x1744
+     0x1741 [0x06] Work_Zone_1700[6] = 0
+     0x1744 [0x41] Work_Zone_1700[20] = ExtData[1]->WorkLocal[42] (bits 0*-2*)
+     0x174D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[20], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1754 [0x0F] Work_Zone_1700[20] ^= 4294967295*
+     0x1759 [0x24] CREATE_DIALOG(message_id=4643*, default_option=0*, option_flags=Work_Zone_1700[20])
+    → "Select target aperture. [$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./$8[oo /o!/o"/o#/o$/o%/o&] [(Unused)/(Used)]./Cancel.]"
+     0x1760 [0x25] WAIT_DIALOG_SELECT()
+     0x1761 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x176C
+     0x1769 [0x01] GOTO 0x1793
+     0x176C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x177C
+     0x1774 [0x03] Work_Zone_1700[1] = Work_Zone_1700[2]
+     0x1779 [0x01] GOTO 0x1793
+     0x177C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x178C
+     0x1784 [0x03] Work_Zone_1700[1] = Work_Zone_1700[3]
+     0x1789 [0x01] GOTO 0x1793
+     0x178C [0x03] Work_Zone[1] = 157*
+     0x1791 [0x21] END_EVENT
+     0x1792 [0x00] END_REQSTACK()
+     0x1793 [0x03] Work_Zone_1700[2] = Work_Zone[0]
+     0x1798 [0x24] CREATE_DIALOG(message_id=4640*, default_option=1*, option_flags=0*)
+    → "Confirm: $8[oo /o!/o"/o#/o$/o%/o&] [Yes./Redo.]"
+     0x179F [0x25] WAIT_DIALOG_SELECT()
+     0x17A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17D6
+     0x17A8 [0x03] Work_Zone[1] = Work_Zone_1700[2]
+     0x17AD [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=156*)
+     0x17B6 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x17B8 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x17BA [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x17C8
+     0x17C2 [0x01] GOTO 0x17DB
+     0x17C5 [0x01] GOTO 0x17D3
+     0x17C8 [0x48] [System] [4646*]:
+    → "There are no compatible apertures on this item."
+     0x17CB [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x17CC [0x03] Work_Zone[1] = 157*
+     0x17D1 [0x21] END_EVENT
+     0x17D2 [0x00] END_REQSTACK()
+     0x17D3 [0x01] GOTO 0x17D6
+     0x17D6 [0x01] GOTO 0x16ED
+     0x17D9 [0x21] END_EVENT
+     0x17DA [0x00] END_REQSTACK()
+     0x17DB [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x17DC [0x41] Work_Zone_1700[22] = Work_Zone[2] (bits 0*-15*)
+     0x17E5 [0x41] Work_Zone_1700[21] = Work_Zone[2] (bits 16*-31*)
+     0x17EE [0x03] Work_Zone_1700[23] = Work_Zone[3]
+     0x17F3 [0x03] Work_Zone_1700[24] = Work_Zone[4]
+     0x17F8 [0x03] Work_Zone_1700[25] = Work_Zone[5]
+     0x17FD [0x03] Work_Zone_1700[26] = Work_Zone[6]
+     0x1802 [0x03] Work_Zone_1700[27] = Work_Zone[7]
+     0x1807 [0x03] Work_Zone_1700[28] = Work_Zone[8]
+     0x180C [0x03] Work_Zone[2] = Work_Zone_1700[25]
+     0x1811 [0x03] Work_Zone[3] = 1*
+     0x1816 [0x1A] CALL_SUBROUTINE(address=0x11EF)
+     0x1819 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone_1700[25], buffer1=Work_Zone_1700[26], buffer2=Work_Zone_1700[27], buffer3=Work_Zone_1700[28])
+     0x1823 [0x06] ExtData[1]->WorkLocal[31] = 0
+     0x1826 [0x06] ExtData[1]->WorkLocal[30] = 0
+     0x1829 [0x02] IF !(ExtData[1]->WorkLocal[30] >= 8*) GOTO 0x1841
+     0x1831 [0x3E] IF !(Work_Zone_1700[22] bit ExtData[1]->WorkLocal[30]) GOTO 0x183B
+     0x1838 [0x0B] ExtData[1]->WorkLocal[31]++
+     0x183B [0x0B] ExtData[1]->WorkLocal[30]++
+     0x183E [0x01] GOTO 0x1829
+     0x1841 [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x1850
+     0x1849 [0x48] [System] [4630*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
+     0x184C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x184D [0x01] GOTO 0x18B9
+     0x1850 [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x185F
+     0x1858 [0x48] [System] [4631*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
+     0x185B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x185C [0x01] GOTO 0x18B9
+     0x185F [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x186E
+     0x1867 [0x48] [System] [4632*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
+     0x186A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x186B [0x01] GOTO 0x18B9
+     0x186E [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x187D
+     0x1876 [0x48] [System] [4633*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
+     0x1879 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x187A [0x01] GOTO 0x18B9
+     0x187D [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x188C
+     0x1885 [0x48] [System] [4634*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
+     0x1888 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1889 [0x01] GOTO 0x18B9
+     0x188C [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x189B
+     0x1894 [0x48] [System] [4635*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
+     0x1897 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1898 [0x01] GOTO 0x18B9
+     0x189B [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x18AA
+     0x18A3 [0x48] [System] [4636*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
+     0x18A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x18A7 [0x01] GOTO 0x18B9
+     0x18AA [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x18B9
+     0x18B2 [0x48] [System] [4637*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
+     0x18B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x18B6 [0x01] GOTO 0x18B9
+     0x18B9 [0x24] CREATE_DIALOG(message_id=4651*, default_option=0*, option_flags=0*)
+    → "Commence synergy? [Yes./No.]"
+     0x18C0 [0x25] WAIT_DIALOG_SELECT()
+     0x18C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18D1
+     0x18C9 [0x03] Work_Zone[1] = 154*
+     0x18CE [0x01] GOTO 0x18D6
+     0x18D1 [0x03] Work_Zone[1] = 155*
+     0x18D6 [0x21] END_EVENT
+     0x18D7 [0x00] END_REQSTACK()
+     0x18D8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x18D9 [0x03] ExtData[1]->WorkLocal[31] = Work_Zone[2]
+     0x18DE [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[3]
+     0x18E3 [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[4]
+     0x18E8 [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[5]
+     0x18ED [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[34]
+     0x18F2 [0x03] Work_Zone[5] = 2800*
+     0x18F7 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x1901 [0x48] [System] [4647*]:
+    → "$3 will be used to remove all apertures from the $8."
+     0x1904 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1905 [0x24] CREATE_DIALOG(message_id=4648*, default_option=1*, option_flags=0*)
+    → "Remove all apertures? [Yes./No.]"
+     0x190C [0x25] WAIT_DIALOG_SELECT()
+     0x190D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A20
+     0x1915 [0x03] Work_Zone[1] = Work_Zone_1700[1]
+     0x191A [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=159*)
+     0x1923 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1925 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1927 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1A18
+     0x192F [0x41] Work_Zone_1700[22] = Work_Zone[2] (bits 0*-15*)
+     0x1938 [0x41] Work_Zone_1700[21] = Work_Zone[2] (bits 16*-31*)
+     0x1941 [0x03] Work_Zone_1700[23] = Work_Zone[3]
+     0x1946 [0x03] Work_Zone_1700[24] = Work_Zone[4]
+     0x194B [0x03] Work_Zone_1700[25] = Work_Zone[5]
+     0x1950 [0x03] Work_Zone[2] = Work_Zone_1700[25]
+     0x1955 [0x03] Work_Zone[3] = 1*
+     0x195A [0x1A] CALL_SUBROUTINE(address=0x11EF)
+     0x195D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[25])
+     0x1960 [0x06] ExtData[1]->WorkLocal[31] = 0
+     0x1963 [0x06] ExtData[1]->WorkLocal[30] = 0
+     0x1966 [0x02] IF !(ExtData[1]->WorkLocal[30] >= 8*) GOTO 0x197E
+     0x196E [0x3E] IF !(Work_Zone_1700[22] bit ExtData[1]->WorkLocal[30]) GOTO 0x1978
+     0x1975 [0x0B] ExtData[1]->WorkLocal[31]++
+     0x1978 [0x0B] ExtData[1]->WorkLocal[30]++
+     0x197B [0x01] GOTO 0x1966
+     0x197E [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x198D
+     0x1986 [0x48] [System] [4630*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
+     0x1989 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x198A [0x01] GOTO 0x19F6
+     0x198D [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x199C
+     0x1995 [0x48] [System] [4631*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
+     0x1998 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1999 [0x01] GOTO 0x19F6
+     0x199C [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x19AB
+     0x19A4 [0x48] [System] [4632*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
+     0x19A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19A8 [0x01] GOTO 0x19F6
+     0x19AB [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x19BA
+     0x19B3 [0x48] [System] [4633*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
+     0x19B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19B7 [0x01] GOTO 0x19F6
+     0x19BA [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x19C9
+     0x19C2 [0x48] [System] [4634*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
+     0x19C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19C6 [0x01] GOTO 0x19F6
+     0x19C9 [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x19D8
+     0x19D1 [0x48] [System] [4635*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
+     0x19D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19D5 [0x01] GOTO 0x19F6
+     0x19D8 [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x19E7
+     0x19E0 [0x48] [System] [4636*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
+     0x19E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19E4 [0x01] GOTO 0x19F6
+     0x19E7 [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x19F6
+     0x19EF [0x48] [System] [4637*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
+     0x19F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x19F3 [0x01] GOTO 0x19F6
+     0x19F6 [0x24] CREATE_DIALOG(message_id=4651*, default_option=0*, option_flags=0*)
+    → "Commence synergy? [Yes./No.]"
+     0x19FD [0x25] WAIT_DIALOG_SELECT()
+     0x19FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A0E
+     0x1A06 [0x03] Work_Zone[1] = 161*
+     0x1A0B [0x01] GOTO 0x1A13
+     0x1A0E [0x03] Work_Zone[1] = 162*
+     0x1A13 [0x21] END_EVENT
+     0x1A14 [0x00] END_REQSTACK()
+     0x1A15 [0x01] GOTO 0x1A1D
+     0x1A18 [0x03] Work_Zone[1] = 160*
+     0x1A1D [0x01] GOTO 0x1A25
+     0x1A20 [0x03] Work_Zone[1] = 160*
+     0x1A25 [0x21] END_EVENT
+     0x1A26 [0x00] END_REQSTACK()
+     0x1A27 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1A28 [0x03] ExtData[1]->WorkLocal[31] = Work_Zone[2]
+     0x1A2D [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[3]
+     0x1A32 [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[4]
+     0x1A37 [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[5]
+     0x1A3C [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[6]
+     0x1A41 [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[7]
+     0x1A46 [0x03] ExtData[1]->WorkLocal[37] = Work_Zone[8]
+     0x1A4B [0x3E] IF !(ExtData[1]->WorkLocal[35] bit 20*) GOTO 0x1A78
+     0x1A52 [0x3E] IF !(ExtData[1]->WorkLocal[36] bit 20*) GOTO 0x1A70
+     0x1A59 [0x3E] IF !(ExtData[1]->WorkLocal[37] bit 20*) GOTO 0x1A68
+     0x1A60 [0x03] ExtData[1]->WorkLocal[60] = ExtData[1]->WorkLocal[37]
+     0x1A65 [0x01] GOTO 0x1A6D
+     0x1A68 [0x03] ExtData[1]->WorkLocal[60] = ExtData[1]->WorkLocal[36]
+     0x1A6D [0x01] GOTO 0x1A75
+     0x1A70 [0x03] ExtData[1]->WorkLocal[60] = ExtData[1]->WorkLocal[35]
+     0x1A75 [0x01] GOTO 0x1A83
+     0x1A78 [0x48] [System] [4649*]:
+    → "There are no removable apertures on this item."
+     0x1A7B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1A7C [0x03] Work_Zone[1] = 169*
+     0x1A81 [0x21] END_EVENT
+     0x1A82 [0x00] END_REQSTACK()
+     0x1A83 [0x41] Work_Zone_1700[0] = ExtData[1]->WorkLocal[60] (bits 0*-3*)
+     0x1A8C [0x02] IF !(Work_Zone_1700[0] == 0*) GOTO 0x1A9F
+     0x1A94 [0x48] [System] [4649*]:
+    → "There are no removable apertures on this item."
+     0x1A97 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1A98 [0x03] Work_Zone[1] = 169*
+     0x1A9D [0x21] END_EVENT
+     0x1A9E [0x00] END_REQSTACK()
+     0x1A9F [0x07] Work_Zone_1700[0] += 29680*
+     0x1AA4 [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x1ADC
+     0x1AAC [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x1ACF
+     0x1AB4 [0x02] IF !(ExtData[1]->WorkLocal[33] == 0*) GOTO 0x1AC2
+     0x1ABC [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[34])
+     0x1ABF [0x01] GOTO 0x1ACC
+     0x1AC2 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x1ACC [0x01] GOTO 0x1AD9
+     0x1ACF [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x1AD9 [0x01] GOTO 0x1AE6
+     0x1ADC [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[34], buffer1=ExtData[1]->WorkLocal[31], buffer2=ExtData[1]->WorkLocal[32], buffer3=ExtData[1]->WorkLocal[33])
+     0x1AE6 [0x03] Work_Zone[5] = 2768*
+     0x1AEB [0x48] [System] [4650*]:
+    → "$3 will be used to remove the most recently etched aperture from the $8."
+     0x1AEE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1AEF [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x1B27
+     0x1AF7 [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x1B1A
+     0x1AFF [0x02] IF !(ExtData[1]->WorkLocal[33] == 0*) GOTO 0x1B0D
+     0x1B07 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
+     0x1B0A [0x01] GOTO 0x1B17
+     0x1B0D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x1B17 [0x01] GOTO 0x1B24
+     0x1B1A [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x1B24 [0x01] GOTO 0x1B31
+     0x1B27 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
+     0x1B31 [0x02] IF !(1* == 1*) GOTO 0x1B7D
+     0x1B39 [0x24] CREATE_DIALOG(message_id=4648*, default_option=0*, option_flags=0*)
+    → "Remove all apertures? [Yes./No.]"
+     0x1B40 [0x25] WAIT_DIALOG_SELECT()
+     0x1B41 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B73
+     0x1B49 [0x03] Work_Zone[1] = Work_Zone_1700[1]
+     0x1B4E [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=168*)
+     0x1B57 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1B59 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x1B5B [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1B69
+     0x1B63 [0x01] GOTO 0x1B7F
+     0x1B66 [0x01] GOTO 0x1B70
+     0x1B69 [0x03] Work_Zone[1] = 169*
+     0x1B6E [0x21] END_EVENT
+     0x1B6F [0x00] END_REQSTACK()
+     0x1B70 [0x01] GOTO 0x1B7A
+     0x1B73 [0x03] Work_Zone[1] = 169*
+     0x1B78 [0x21] END_EVENT
+     0x1B79 [0x00] END_REQSTACK()
+     0x1B7A [0x01] GOTO 0x1B31
+     0x1B7D [0x21] END_EVENT
+     0x1B7E [0x00] END_REQSTACK()
+     0x1B7F [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x1B80 [0x41] Work_Zone_1700[22] = Work_Zone[2] (bits 0*-15*)
+     0x1B89 [0x41] Work_Zone_1700[21] = Work_Zone[2] (bits 16*-31*)
+     0x1B92 [0x03] Work_Zone_1700[23] = Work_Zone[3]
+     0x1B97 [0x03] Work_Zone_1700[24] = Work_Zone[4]
+     0x1B9C [0x03] Work_Zone_1700[25] = Work_Zone[5]
+     0x1BA1 [0x03] Work_Zone_1700[26] = Work_Zone[6]
+     0x1BA6 [0x03] Work_Zone_1700[27] = Work_Zone[7]
+     0x1BAB [0x03] Work_Zone_1700[28] = Work_Zone[8]
+     0x1BB0 [0x03] Work_Zone[2] = Work_Zone_1700[25]
+     0x1BB5 [0x03] Work_Zone[3] = 1*
+     0x1BBA [0x1A] CALL_SUBROUTINE(address=0x11EF)
+     0x1BBD [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone_1700[25], buffer1=Work_Zone_1700[26], buffer2=Work_Zone_1700[27], buffer3=Work_Zone_1700[28])
+     0x1BC7 [0x06] ExtData[1]->WorkLocal[31] = 0
+     0x1BCA [0x06] ExtData[1]->WorkLocal[30] = 0
+     0x1BCD [0x02] IF !(ExtData[1]->WorkLocal[30] >= 8*) GOTO 0x1BE5
+     0x1BD5 [0x3E] IF !(Work_Zone_1700[22] bit ExtData[1]->WorkLocal[30]) GOTO 0x1BDF
+     0x1BDC [0x0B] ExtData[1]->WorkLocal[31]++
+     0x1BDF [0x0B] ExtData[1]->WorkLocal[30]++
+     0x1BE2 [0x01] GOTO 0x1BCD
+     0x1BE5 [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x1BF4
+     0x1BED [0x48] [System] [4630*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3"
+     0x1BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1BF1 [0x01] GOTO 0x1C5D
+     0x1BF4 [0x02] IF !(ExtData[1]->WorkLocal[31] == 2*) GOTO 0x1C03
+     0x1BFC [0x48] [System] [4631*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5"
+     0x1BFF [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C00 [0x01] GOTO 0x1C5D
+     0x1C03 [0x02] IF !(ExtData[1]->WorkLocal[31] == 3*) GOTO 0x1C12
+     0x1C0B [0x48] [System] [4632*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7"
+     0x1C0E [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C0F [0x01] GOTO 0x1C5D
+     0x1C12 [0x02] IF !(ExtData[1]->WorkLocal[31] == 4*) GOTO 0x1C21
+     0x1C1A [0x48] [System] [4633*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9"
+     0x1C1D [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C1E [0x01] GOTO 0x1C5D
+     0x1C21 [0x02] IF !(ExtData[1]->WorkLocal[31] == 5*) GOTO 0x1C30
+     0x1C29 [0x48] [System] [4634*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11"
+     0x1C2C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C2D [0x01] GOTO 0x1C5D
+     0x1C30 [0x02] IF !(ExtData[1]->WorkLocal[31] == 6*) GOTO 0x1C3F
+     0x1C38 [0x48] [System] [4635*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&] $3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&] $7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&] $11 [oo /o!/o"/o#/o$/o%/o&]$13"
+     0x1C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C3C [0x01] GOTO 0x1C5D
+     0x1C3F [0x02] IF !(ExtData[1]->WorkLocal[31] == 7*) GOTO 0x1C4E
+     0x1C47 [0x48] [System] [4636*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: [oo /o!/o"/o#/o$/o%/o&]$3 [oo /o!/o"/o#/o$/o%/o&]$5 [oo /o!/o"/o#/o$/o%/o&]$7 [oo /o!/o"/o#/o$/o%/o&]$9 [oo /o!/o"/o#/o$/o%/o&]$11 [oo /o!/o"/o#/o$/o%/o&]$13 [oo /o!/o"/o#/o$/o%/o&]$15"
+     0x1C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C4B [0x01] GOTO 0x1C5D
+     0x1C4E [0x02] IF !(ExtData[1]->WorkLocal[31] == 8*) GOTO 0x1C5D
+     0x1C56 [0x48] [System] [4637*]:
+    → "Synergy rank: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend] Objective: $1 $0 Difficulty: o$3 o $5 o!$7 o"$9 o#$11 o$$13 o%$15 o&$17"
+     0x1C59 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1C5A [0x01] GOTO 0x1C5D
+     0x1C5D [0x24] CREATE_DIALOG(message_id=4651*, default_option=0*, option_flags=0*)
+    → "Commence synergy? [Yes./No.]"
+     0x1C64 [0x25] WAIT_DIALOG_SELECT()
+     0x1C65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C75
+     0x1C6D [0x03] Work_Zone[1] = 170*
+     0x1C72 [0x01] GOTO 0x1C7A
+     0x1C75 [0x03] Work_Zone[1] = 171*
+     0x1C7A [0x21] END_EVENT
+     0x1C7B [0x00] END_REQSTACK()
+```

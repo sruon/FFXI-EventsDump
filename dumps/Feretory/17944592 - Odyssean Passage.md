@@ -1,0 +1,266 @@
+# 17944592 - Odyssean Passage
+
+## Common Data
+
+| Field            | Value              |
+|------------------|--------------------|
+| Zone             | Feretory (ID: 285) |
+| Block Size       | 708 bytes          |
+| Total Events     | 2                  |
+| References Count | 22                 |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [6](#event-6)         | 0x0001       |    592 |            107 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x1C98      |        7320 |
+|       2 | 0x0001      |           1 |
+|       3 | 0x1C99      |        7321 |
+|       4 | 0x0003      |           3 |
+|       5 | 0x0004      |           4 |
+|       6 | 0x000F      |          15 |
+|       7 | 0x1C9B      |        7323 |
+|       8 | 0x1C9C      |        7324 |
+|       9 | 0x1C9A      |        7322 |
+|      10 | 0x1C9D      |        7325 |
+|      11 | 0x1CA0      |        7328 |
+|      12 | 0x0002      |           2 |
+|      13 | 0x0005      |           5 |
+|      14 | 0x0006      |           6 |
+|      15 | 0x0010      |          16 |
+|      16 | 0x001F      |          31 |
+|      17 | 0x00A5      |         165 |
+|      18 | 0x0078      |         120 |
+|      19 | 0x00C8      |         200 |
+|      20 | 0x1C9E      |        7326 |
+|      21 | 0x1C9F      |        7327 |
+
+## String References
+
+- **7320**: Images of various locales flutter through your mind upon peering into the haze.
+- **7321**: What will you do? [Stalk prey as a monipulator./Participate in Domination./Leave Monstrosity's clutches./Quit.]
+- **7322**: Proceed to $8?
+- **7323**: Endeavor to $8 fitted with the shackles of being level $1?
+- **7324**: The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue.
+- **7325**: Proceed? [Yes./No.]
+- **7326**: Stop participating in Monstrosity?
+- **7327**: Stop participating? [Yes./No.]
+- **7328**: $8LG1I7iH Where in $8? [Point One./Point Two./Point Three./Point Four./Point Five./Nowhere.]
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 6
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 592 bytes |
+| Instructions | 107       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 01 10 00 80 48 01  80 23 05 00 00 03 01 00   .....H..#......
+0010: 00 80 03 03 00 02 10 03  05 00 03 10 03 09 00 00  ................
+0020: 80 03 06 00 04 10 03 07  00 05 10 03 08 00 00 80  ................
+0030: 3C 08 00 02 80 02 80 02  00 00 00 80 02 4F 02 24  <............O.$
+0040: 03 80 00 80 08 00 25 02  00 10 00 80 00 AF 01 05  ......%.........
+0050: 01 00 02 01 00 00 80 02  AC 01 CC 10 05 00 06 00  ................
+0060: CC 11 02 00 02 02 00 00  80 02 A6 01 02 06 00 00  ................
+0070: 80 01 BB 00 03 01 10 00  80 40 00 80 04 80 01 10  .........@......
+0080: 02 80 40 05 80 06 80 01  10 02 00 43 00 43 01 03  ..@........C.C..
+0090: 01 10 00 80 03 04 00 02  10 03 05 00 03 10 03 02  ................
+00A0: 10 02 00 03 03 10 04 00  48 07 80 23 02 05 00 00  ........H..#....
+00B0: 80 01 B8 00 48 08 80 23  01 C4 00 03 02 10 02 00  ....H..#........
+00C0: 48 09 80 23 24 0A 80 00  80 00 80 25 02 00 10 00  H..#$......%....
+00D0: 80 00 98 01 03 09 00 00  80 02 03 00 00 80 01 38  ...............8
+00E0: 01 03 02 10 02 00 24 0B  80 00 80 00 80 25 02 00  ......$......%..
+00F0: 10 00 80 00 F9 00 01 30  01 02 00 10 02 80 00 04  .......0........
+0100: 01 01 30 01 02 00 10 0C  80 00 0F 01 01 30 01 02  ..0..........0..
+0110: 00 10 04 80 00 1A 01 01  30 01 02 00 10 05 80 00  ........0.......
+0120: 25 01 01 30 01 02 00 10  0D 80 00 30 01 01 30 01  %..0.......0..0.
+0130: 03 09 00 00 10 0B 09 00  02 09 00 0E 80 01 95 01  ................
+0140: 40 00 80 04 80 01 10 02  80 40 05 80 06 80 01 10  @........@......
+0150: 02 00 40 0F 80 10 80 01  10 09 00 06 01 00 06 00  ..@.............
+0160: 00 CD 11 80 F0 FF FF 7F  F0 FF FF 7F 6D 61 69 6E  ............main
+0170: 00 80 1C 12 80 45 13 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
+0180: 66 64 6F 31 00 80 55 13  80 F0 FF FF 7F F0 FF FF  fdo1..U.........
+0190: 7F 66 64 6F 31 01 A3 01  02 00 10 02 80 00 A3 01  .fdo1...........
+01A0: 01 A3 01 01 A9 01 06 01  00 01 52 00 01 4C 02 02  ..........R..L..
+01B0: 00 10 02 80 00 BA 01 01  4C 02 02 00 10 0C 80 00  ........L.......
+01C0: 39 02 48 14 80 23 24 15  80 00 80 00 80 25 02 00  9.H..#$......%..
+01D0: 10 00 80 00 2B 02 40 00  80 04 80 01 10 02 80 40  ....+.@........@
+01E0: 05 80 06 80 01 10 00 80  40 0F 80 10 80 01 10 09  ........@.......
+01F0: 00 06 00 00 CD 11 80 F0  FF FF 7F F0 FF FF 7F 6D  ...............m
+0200: 61 69 6E 00 80 1C 12 80  45 13 80 F0 FF FF 7F F0  ain.....E.......
+0210: FF FF 7F 66 64 6F 31 00  80 55 13 80 F0 FF FF 7F  ...fdo1..U......
+0220: F0 FF FF 7F 66 64 6F 31  01 36 02 02 00 10 02 80  ....fdo1.6......
+0230: 00 36 02 01 36 02 01 4C  02 02 00 10 04 80 00 4C  .6..6..L.......L
+0240: 02 03 01 10 00 80 06 00  00 01 4C 02 01 37 00 21  ..........L..7.!
+0250: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] Work_Zone[1] = 0*
+  1: 0x0006 [0x48] [System] [7320*]:
+    → "Images of various locales flutter through your mind upon peering into the haze."
+  2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  3: 0x000A [0x05] ExtData[1]->WorkLocal[0] = 1
+  4: 0x000D [0x03] ExtData[1]->WorkLocal[1] = 0*
+  5: 0x0012 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
+  6: 0x0017 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
+  7: 0x001C [0x03] ExtData[1]->WorkLocal[9] = 0*
+  8: 0x0021 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
+  9: 0x0026 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
+ 10: 0x002B [0x03] ExtData[1]->WorkLocal[8] = 0*
+ 11: 0x0030 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
+ 12: 0x0037 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x024F
+ 13: 0x003F [0x24] CREATE_DIALOG(message_id=7321*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+    → "What will you do? [Stalk prey as a monipulator./Participate in Domination./Leave Monstrosity's clutches./Quit.]"
+ 14: 0x0046 [0x25] WAIT_DIALOG_SELECT()
+ 15: 0x0047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AF
+ 16: 0x004F [0x05] ExtData[1]->WorkLocal[1] = 1
+ 17: 0x0052 [0x02] IF !(ExtData[1]->WorkLocal[1] <= 0*) GOTO 0x01AC
+ 18: 0x005A [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x10 - Search menu zone interaction, zone_id=ExtData[1]->WorkLocal[5], search_type=ExtData[1]->WorkLocal[6])
+ 19: 0x0060 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x11 - Check search menu condition, flag_work_offset=ExtData[1]->WorkLocal[2])
+ 20: 0x0064 [0x02] IF !(ExtData[1]->WorkLocal[2] <= 0*) GOTO 0x01A6
+ 21: 0x006C [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x00BB
+ 22: 0x0074 [0x03] Work_Zone[1] = 0*
+ 23: 0x0079 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
+ 24: 0x0082 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+ 25: 0x008B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 26: 0x008D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 27: 0x008F [0x03] Work_Zone[1] = 0*
+ 28: 0x0094 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[2]
+ 29: 0x0099 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[3]
+ 30: 0x009E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
+ 31: 0x00A3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
+ 32: 0x00A8 [0x48] [System] [7323*]:
+    → "Endeavor to $8 fitted with the shackles of being level $1?"
+ 33: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 34: 0x00AC [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x00B8
+ 35: 0x00B4 [0x48] [System] [7324*]:
+    → "The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue."
+ 36: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 37: 0x00B8 [0x01] GOTO 0x00C4
+ 38: 0x00BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
+ 39: 0x00C0 [0x48] [System] [7322*]:
+    → "Proceed to $8?"
+ 40: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_00C4:
+ 41: 0x00C4 [0x24] CREATE_DIALOG(message_id=7325*, default_option=0*, option_flags=0*)
+    → "Proceed? [Yes./No.]"
+ 42: 0x00CB [0x25] WAIT_DIALOG_SELECT()
+ 43: 0x00CC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0198
+ 44: 0x00D4 [0x03] ExtData[1]->WorkLocal[9] = 0*
+ 45: 0x00D9 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0138
+ 46: 0x00E1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
+ 47: 0x00E6 [0x24] CREATE_DIALOG(message_id=7328*, default_option=0*, option_flags=0*)
+    → "$8LG1I7iH Where in $8? [Point One./Point Two./Point Three./Point Four./Point Five./Nowhere.]"
+ 48: 0x00ED [0x25] WAIT_DIALOG_SELECT()
+ 49: 0x00EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F9
+ 50: 0x00F6 [0x01] GOTO 0x0130
+ 51: 0x00F9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0104
+ 52: 0x0101 [0x01] GOTO 0x0130
+ 53: 0x0104 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x010F
+ 54: 0x010C [0x01] GOTO 0x0130
+ 55: 0x010F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x011A
+ 56: 0x0117 [0x01] GOTO 0x0130
+ 57: 0x011A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0125
+ 58: 0x0122 [0x01] GOTO 0x0130
+ 59: 0x0125 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0130
+ 60: 0x012D [0x01] GOTO 0x0130
+
+SUBROUTINE_0130:
+ 61: 0x0130 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[0]
+ 62: 0x0135 [0x0B] ExtData[1]->WorkLocal[9]++
+ 63: 0x0138 [0x02] IF !(ExtData[1]->WorkLocal[9] == 6*) GOTO 0x0195
+ 64: 0x0140 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
+ 65: 0x0149 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
+ 66: 0x0152 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+ 67: 0x015B [0x06] ExtData[1]->WorkLocal[1] = 0
+ 68: 0x015E [0x06] ExtData[1]->WorkLocal[0] = 0
+ 69: 0x0161 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
+ 70: 0x0172 [0x1C] WAIT(120* ticks)
+ 71: 0x0175 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 72: 0x0186 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 73: 0x0195 [0x01] GOTO 0x01A3
+ 74: 0x0198 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01A3
+ 75: 0x01A0 [0x01] GOTO 0x01A3
+
+SUBROUTINE_01A3:
+ 76: 0x01A3 [0x01] GOTO 0x01A9
+ 77: 0x01A6 [0x06] ExtData[1]->WorkLocal[1] = 0
+
+SUBROUTINE_01A9:
+ 78: 0x01A9 [0x01] GOTO 0x0052
+ 79: 0x01AC [0x01] GOTO 0x024C
+ 80: 0x01AF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01BA
+ 81: 0x01B7 [0x01] GOTO 0x024C
+ 82: 0x01BA [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0239
+ 83: 0x01C2 [0x48] [System] [7326*]:
+    → "Stop participating in Monstrosity?"
+ 84: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 85: 0x01C6 [0x24] CREATE_DIALOG(message_id=7327*, default_option=0*, option_flags=0*)
+    → "Stop participating? [Yes./No.]"
+ 86: 0x01CD [0x25] WAIT_DIALOG_SELECT()
+ 87: 0x01CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x022B
+ 88: 0x01D6 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
+ 89: 0x01DF [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=15*, target=Work_Zone[1], source=0*)
+ 90: 0x01E8 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
+ 91: 0x01F1 [0x06] ExtData[1]->WorkLocal[0] = 0
+ 92: 0x01F4 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
+ 93: 0x0205 [0x1C] WAIT(120* ticks)
+ 94: 0x0208 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 95: 0x0219 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 96: 0x0228 [0x01] GOTO 0x0236
+ 97: 0x022B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0236
+ 98: 0x0233 [0x01] GOTO 0x0236
+
+SUBROUTINE_0236:
+ 99: 0x0236 [0x01] GOTO 0x024C
+100: 0x0239 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x024C
+101: 0x0241 [0x03] Work_Zone[1] = 0*
+102: 0x0246 [0x06] ExtData[1]->WorkLocal[0] = 0
+103: 0x0249 [0x01] GOTO 0x024C
+
+SUBROUTINE_024C:
+104: 0x024C [0x01] GOTO 0x0037
+105: 0x024F [0x21] END_EVENT
+106: 0x0250 [0x00] END_REQSTACK()
+```

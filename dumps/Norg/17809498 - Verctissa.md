@@ -1,0 +1,871 @@
+# 17809498 - Verctissa
+
+## Common Data
+
+| Field            | Value          |
+|------------------|----------------|
+| Zone             | Norg (ID: 252) |
+| Block Size       | 1568 bytes     |
+| Total Events     | 16             |
+| References Count | 52             |
+
+## List of Events
+
+| Event ID                 | Entrypoint   |   Size |   Instructions |
+|--------------------------|--------------|--------|----------------|
+| [65535](#event-65535)    | 0x0000       |      1 |              1 |
+| [109](#event-109)        | 0x0001       |     11 |              2 |
+| [114](#event-114)        | 0x000C       |     19 |             10 |
+| [111](#event-111)        | 0x001F       |     56 |             17 |
+| [112](#event-112)        | 0x0057       |      1 |              1 |
+| [65535.1](#event-655351) | 0x0058       |     88 |              8 |
+| [65535.2](#event-655352) | 0x00B0       |     88 |              8 |
+| [65535.3](#event-655353) | 0x0108       |     88 |              8 |
+| [65535.4](#event-655354) | 0x0160       |      1 |              1 |
+| [199](#event-199)        | 0x0161       |    426 |             89 |
+| [200](#event-200)        | 0x030B       |    180 |             41 |
+| [204](#event-204)        | 0x03BF       |    114 |             35 |
+| [201](#event-201)        | 0x0431       |     15 |              8 |
+| [205](#event-205)        | 0x0440       |     19 |             10 |
+| [202](#event-202)        | 0x0453       |     75 |             23 |
+| [203](#event-203)        | 0x049E       |     98 |             24 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x28CB      |       10443 |
+|       1 | 0x28CC      |       10444 |
+|       2 | 0x28DD      |       10461 |
+|       3 | 0x28DE      |       10462 |
+|       4 | 0x28DF      |       10463 |
+|       5 | 0x00F9      |         249 |
+|       6 | 0x0000      |           0 |
+|       7 | 0x0064      |         100 |
+|       8 | 0x00C8      |         200 |
+|       9 | 0x0096      |         150 |
+|      10 | 0x2912      |       10514 |
+|      11 | 0x2913      |       10515 |
+|      12 | 0x2914      |       10516 |
+|      13 | 0x0007      |           7 |
+|      14 | 0x2915      |       10517 |
+|      15 | 0x2916      |       10518 |
+|      16 | 0x2917      |       10519 |
+|      17 | 0x291A      |       10522 |
+|      18 | 0x291B      |       10523 |
+|      19 | 0x0006      |           6 |
+|      20 | 0x291F      |       10527 |
+|      21 | 0x2921      |       10529 |
+|      22 | 0x0001      |           1 |
+|      23 | 0x2922      |       10530 |
+|      24 | 0x2923      |       10531 |
+|      25 | 0x2926      |       10534 |
+|      26 | 0x2927      |       10535 |
+|      27 | 0x0002      |           2 |
+|      28 | 0x2928      |       10536 |
+|      29 | 0x2929      |       10537 |
+|      30 | 0x292A      |       10538 |
+|      31 | 0x292B      |       10539 |
+|      32 | 0x292C      |       10540 |
+|      33 | 0x0105      |         261 |
+|      34 | 0x001E      |          30 |
+|      35 | 0x292D      |       10541 |
+|      36 | 0x0078      |         120 |
+|      37 | 0x0003      |           3 |
+|      38 | 0x0005      |           5 |
+|      39 | 0x292F      |       10543 |
+|      40 | 0x2930      |       10544 |
+|      41 | 0x292E      |       10542 |
+|      42 | 0x2941      |       10561 |
+|      43 | 0x2942      |       10562 |
+|      44 | 0x2931      |       10545 |
+|      45 | 0x2932      |       10546 |
+|      46 | 0x2934      |       10548 |
+|      47 | 0x2935      |       10549 |
+|      48 | 0x0015      |          21 |
+|      49 | 0x0050      |          80 |
+|      50 | 0x2937      |       10551 |
+|      51 | 0x2938      |       10552 |
+
+## String References
+
+- **10443**: Try though you may, there will come a time when failure is inevitable.
+- **10444**: Channel that agony and bitterness into creating a new plan.
+- **10461**: If you don't prepare yourself for battle, you'll get beaten to a pulp, like we did!
+- **10462**: As soon as we gather our companions, we'll be jumping into the fray again. I just hope this little researcher doesn't get in our way...
+- **10514**: Hmmm... Hrmmm... So it's time to use...no...
+- **10515**: Hello? You're an adventurer, right? Maybe you can help us out.
+- **10516**: Let me introduce myself and my companion. We're from the Rhinostery in Windurst.
+- **10517**: I was hired by the ministry to accompany this researcher to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree] and assist him in his study of a series of giant crystals.
+- **10518**: But what was waiting for us inside those crystals was more than I could deal with...
+- **10519**: We tried countless times, but I could not defeat that beast. Another researcher at the Rhinostery sympathized with our plight and developed an improved tuning fork.
+- **10522**: Do you see what I have to deal with? I don't know how much longer I can work with such a pessimist.
+- **10523**: That's where you come in. I was thinking of letting one of you adventurers test out the new fork and prove to my colleague that it is able to return data valuable to his research.
+- **10527**: ... Yes, but sir... The Rhinostery has been pressing us to produce results. If we do not take some sort of action quickly...
+- **10529**: No, one round could not hurt.
+- **10531**: Are you really-dilly sure? [Fork me!/On second thought...]
+- **10534**: The researcher who made the $1 warned that "the door home would only open to those who defeated the prime avatar."
+- **10535**: I'm not quite sure what that is supposed to mean, but I suggest that you prepare well before taking on this journey. Remember, you have to be at least a level $3 summoner.
+- **10536**: Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?
+- **10537**: Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days.
+- **10538**: Are you sure you are ready? [Off to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!/My dog ate my mini tuning fork./Not just yet...]
+- **10539**: Sir, our adventurer has completed [his/her] preparations and requests a warp.
+- **10542**: Don't use that excuse on me, [young man/young lady]. If you want another $1, all you have to do ask.
+- **10543**: If you do not bring the $1 we gave you, my companion cannot warp you to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree].
+- **10544**: Did you remember to bring the $1?
+- **10545**: What!? You defeated the prime avatar!?
+- **10546**: Sir!
+- **10548**: ... Sir...
+- **10549**: ... (Now if I could only find me some real work so I could do some real adventuring...)
+- **10551**: Remember that you must fight the prime avatar as a level $3 summoner. As you already know, this will not be an easy task. Prepare well for the battle.
+- **10552**: Do you want another mini tuning fork? [Fork me baby, one more time./Stick a fork in me, I'm done.]
+- **10561**: Ah, you are back. How was your battle with the avatar?
+- **10562**: Remember, the protocrystals will only resonate with the tuning forks ever so often. Use this time to rest before taking upon another challenge.
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 109
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 11 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    79 00 5A C0 0F 01 F0  FF FF 7F 00               y.Z........    
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer (Basic look)
+  1: 0x000B [0x00] END_REQSTACK()
+```
+
+### Event 114
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x000C   |
+| Data Size    | 19 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:                                      1E F0 FF FF              ....
+0010: 7F 6F 70 1D 00 80 23 1D  01 80 23 20 00 21 00     .op...#...# .!. 
+```
+
+#### Opcodes
+
+```
+  0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0012 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=10443*)
+    → "Try though you may, there will come a time when failure is inevitable."
+  4: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10444*)
+    → "Channel that agony and bitterness into creating a new plan."
+  6: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x001B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+  8: 0x001D [0x21] END_EVENT
+  9: 0x001E [0x00] END_REQSTACK()
+```
+
+### Event 111
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x001F   |
+| Data Size    | 56 bytes |
+| Instructions | 17       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                                               1E                 .
+0020: F0 FF FF 7F 6F 70 1D 02  80 23 1D 03 80 23 4A 59  ....op...#...#JY
+0030: C0 0F 01 5A C0 0F 01 6F  76 59 C0 0F 01 29 0B 59  ...Z...ovY...).Y
+0040: C0 0F 01 13 2B 59 C0 0F  01 04 80 23 29 0B 59 C0  ....+Y.....#).Y.
+0050: 0F 01 14 20 00 21 00                              ... .!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0024 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0025 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
+    → "If you don't prepare yourself for battle, you'll get beaten to a pulp, like we did!"
+  4: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
+    → "As soon as we gather our companions, we'll be jumping into the fray again. I just hope this little researcher doesn't get in our way..."
+  6: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x002E [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A)
+  8: 0x0037 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  9: 0x0038 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 10: 0x003D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x13)
+ 11: 0x0044 [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10463*]:
+    → "What nonsense! If I don't go with you, there's no pointaru to the research now, is there?"
+ 12: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 13: 0x004C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x14)
+ 14: 0x0053 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 15: 0x0055 [0x21] END_EVENT
+ 16: 0x0056 [0x00] END_REQSTACK()
+```
+
+### Event 112
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0057  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:                      00                                  .        
+```
+
+#### Opcodes
+
+```
+  0: 0x0057 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0058   |
+| Data Size    | 88 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:                          45 05 80 F8 FF FF 7F F8          E.......
+0060: FF FF 7F 73 30 30 30 06  80 1C 07 80 52 05 80 F8  ...s000.....R...
+0070: FF FF 7F F8 FF FF 7F 73  30 30 30 45 08 80 F0 FF  .......s000E....
+0080: FF 7F F0 FF FF 7F 6F 76  6C 31 06 80 45 05 80 F8  ......ovl1..E...
+0090: FF FF 7F F8 FF FF 7F 73  30 30 31 06 80 1C 07 80  .......s001.....
+00A0: 52 05 80 F8 FF FF 7F F8  FF FF 7F 73 30 30 31 00  R..........s001.
+```
+
+#### Opcodes
+
+```
+  0: 0x0058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  1: 0x0069 [0x1C] WAIT(100* ticks)
+  2: 0x006C [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=249*
+  3: 0x007B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  4: 0x008C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  5: 0x009D [0x1C] WAIT(100* ticks)
+  6: 0x00A0 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=249*
+  7: 0x00AF [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00B0   |
+| Data Size    | 88 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00B0: 45 05 80 F8 FF FF 7F F8  FF FF 7F 73 30 33 32 06  E..........s032.
+00C0: 80 1C 07 80 52 05 80 F8  FF FF 7F F8 FF FF 7F 73  ....R..........s
+00D0: 30 33 32 45 08 80 F0 FF  FF 7F F0 FF FF 7F 6F 76  032E..........ov
+00E0: 6C 31 06 80 45 05 80 F8  FF FF 7F F8 FF FF 7F 73  l1..E..........s
+00F0: 30 33 33 06 80 1C 07 80  52 05 80 F8 FF FF 7F F8  033.....R.......
+0100: FF FF 7F 73 30 33 33 00                           ...s033.        
+```
+
+#### Opcodes
+
+```
+  0: 0x00B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  1: 0x00C1 [0x1C] WAIT(100* ticks)
+  2: 0x00C4 [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [EventEntity, EventEntity], work=249*
+  3: 0x00D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  4: 0x00E4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  5: 0x00F5 [0x1C] WAIT(100* ticks)
+  6: 0x00F8 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=249*
+  7: 0x0107 [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0108   |
+| Data Size    | 88 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0100:                          45 05 80 F8 FF FF 7F F8          E.......
+0110: FF FF 7F 73 30 33 39 06  80 1C 07 80 52 05 80 F8  ...s039.....R...
+0120: FF FF 7F F8 FF FF 7F 73  30 33 39 45 08 80 F0 FF  .......s039E....
+0130: FF 7F F0 FF FF 7F 6F 76  6C 31 06 80 45 05 80 F8  ......ovl1..E...
+0140: FF FF 7F F8 FF FF 7F 73  30 34 30 06 80 1C 09 80  .......s040.....
+0150: 52 05 80 F8 FF FF 7F F8  FF FF 7F 73 30 34 30 00  R..........s040.
+```
+
+#### Opcodes
+
+```
+  0: 0x0108 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  1: 0x0119 [0x1C] WAIT(100* ticks)
+  2: 0x011C [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=249*
+  3: 0x012B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  4: 0x013C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[249*, 0*]
+  5: 0x014D [0x1C] WAIT(150* ticks)
+  6: 0x0150 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=249*
+  7: 0x015F [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0160  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0160: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0160 [0x00] END_REQSTACK()
+```
+
+### Event 199
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0161    |
+| Data Size    | 426 bytes |
+| Instructions | 89        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0160:    1D 0A 80 23 4A 5A C0  0F 01 F0 FF FF 7F 1D 0B   ...#JZ.........
+0170: 80 23 79 00 5A C0 0F 01  59 C0 0F 01 4A 59 C0 0F  .#y.Z...Y...JY..
+0180: 01 F0 FF FF 7F 1D 0C 80  23 79 00 5A C0 0F 01 F0  ........#y.Z....
+0190: FF FF 7F 6E F8 FF FF 7F  0D 80 99 F8 FF FF 7F 1D  ...n............
+01A0: 0E 80 23 1D 0F 80 23 6F  76 59 C0 0F 01 1D 10 80  ..#...#ovY......
+01B0: 23 4A 59 C0 0F 01 5A C0  0F 01 6F 76 59 C0 0F 01  #JY...Z...ovY...
+01C0: 4A 5A C0 0F 01 59 C0 0F  01 29 0B 59 C0 0F 01 2C  JZ...Y...).Y...,
+01D0: 6F 76 5A C0 0F 01 29 09  59 C0 0F 01 19 79 00 59  ovZ...).Y....y.Y
+01E0: C0 0F 01 F0 FF FF 7F 4A  5A C0 0F 01 F0 FF FF 7F  .......JZ.......
+01F0: 1D 11 80 23 29 09 59 C0  0F 01 1A 4A 59 C0 0F 01  ...#).Y....JY...
+0200: 5A C0 0F 01 1D 12 80 23  6F 76 5A C0 0F 01 4A 5A  Z......#ovZ...JZ
+0210: C0 0F 01 59 C0 0F 01 6F  76 59 C0 0F 01 29 0B 59  ...Y...ovY...).Y
+0220: C0 0F 01 2D 6E F8 FF FF  7F 13 80 99 F8 FF FF 7F  ...-n...........
+0230: 1D 14 80 23 6F 76 5A C0  0F 01 4A 59 C0 0F 01 5A  ...#ovZ...JY...Z
+0240: C0 0F 01 6F 76 59 C0 0F  01 29 0B 59 C0 0F 01 2E  ...ovY...).Y....
+0250: 79 00 5A C0 0F 01 59 C0  0F 01 29 09 59 C0 0F 01  y.Z...Y...).Y...
+0260: 05 1D 15 80 23 29 09 59  C0 0F 01 06 02 07 10 16  ....#).Y........
+0270: 80 00 99 02 4A 59 C0 0F  01 F0 FF FF 7F 6F 76 59  ....JY.......ovY
+0280: C0 0F 01 29 09 59 C0 0F  01 01 2B 59 C0 0F 01 17  ...).Y....+Y....
+0290: 80 23 29 09 59 C0 0F 01  02 79 00 59 C0 0F 01 F0  .#).Y....y.Y....
+02A0: FF FF 7F 24 18 80 06 80  06 80 25 02 00 10 06 80  ...$......%.....
+02B0: 00 F7 02 42 03 01 10 16  80 79 00 5A C0 0F 01 F0  ...B.....y.Z....
+02C0: FF FF 7F 4A 59 C0 0F 01  F0 FF FF 7F 6F 76 59 C0  ...JY.......ovY.
+02D0: 0F 01 29 0B 59 C0 0F 01  2F 4A 5A C0 0F 01 F0 FF  ..).Y.../JZ.....
+02E0: FF 7F 79 00 59 C0 0F 01  5A C0 0F 01 1D 19 80 23  ..y.Y...Z......#
+02F0: 1D 1A 80 23 01 07 03 02  00 10 16 80 00 07 03 03  ...#............
+0300: 01 10 1B 80 01 07 03 20  00 21 00                 ....... .!.     
+```
+
+#### Opcodes
+
+```
+  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=10514*)
+    → "Hmmm... Hrmmm... So it's time to use...no..."
+  1: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  2: 0x0165 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
+  3: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=10515*)
+    → "Hello? You're an adventurer, right? Maybe you can help us out."
+  4: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x0172 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at Edal-Tahdal (ID: 17809497/0x010FC059) (Basic look)
+  6: 0x017C [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
+  7: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=10516*)
+    → "Let me introduce myself and my companion. We're from the Rhinostery in Windurst."
+  8: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0189 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer (Basic look)
+ 10: 0x0193 [0x6E] EventEntity uses emote 7*
+ 11: 0x019A [0x99] Wait for EventEntity animation to complete
+ 12: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=10517*)
+    → "I was hired by the ministry to accompany this researcher to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree] and assist him in his study of a series of giant crystals."
+ 13: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 14: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10518*)
+    → "But what was waiting for us inside those crystals was more than I could deal with..."
+ 15: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x01A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 17: 0x01A8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 18: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10519*)
+    → "We tried countless times, but I could not defeat that beast. Another researcher at the Rhinostery sympathized with our plight and developed an improved tuning fork."
+ 19: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 20: 0x01B1 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A)
+ 21: 0x01BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 22: 0x01BB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 23: 0x01C0 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at Edal-Tahdal (ID: 17809497/0x010FC059)
+ 24: 0x01C9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x2C)
+ 25: 0x01D0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 26: 0x01D1 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Verctissa (ID: 17809498/0x010FC05A) Render.Flags0 and Render.Flags3 conditions are met
+ 27: 0x01D6 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x19)
+ 28: 0x01DD [0x79] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer (Basic look)
+ 29: 0x01E7 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
+ 30: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10522*)
+    → "Do you see what I have to deal with? I don't know how much longer I can work with such a pessimist."
+ 31: 0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 32: 0x01F4 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1A)
+ 33: 0x01FB [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A)
+ 34: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=10523*)
+    → "That's where you come in. I was thinking of letting one of you adventurers test out the new fork and prove to my colleague that it is able to return data valuable to his research."
+ 35: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 36: 0x0208 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 37: 0x0209 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Verctissa (ID: 17809498/0x010FC05A) Render.Flags0 and Render.Flags3 conditions are met
+ 38: 0x020E [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at Edal-Tahdal (ID: 17809497/0x010FC059)
+ 39: 0x0217 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 40: 0x0218 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 41: 0x021D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x2D)
+ 42: 0x0224 [0x6E] EventEntity uses emote 6*
+ 43: 0x022B [0x99] Wait for EventEntity animation to complete
+ 44: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=10527*)
+    → "... Yes, but sir... The Rhinostery has been pressing us to produce results. If we do not take some sort of action quickly..."
+ 45: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 46: 0x0234 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 47: 0x0235 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Verctissa (ID: 17809498/0x010FC05A) Render.Flags0 and Render.Flags3 conditions are met
+ 48: 0x023A [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A)
+ 49: 0x0243 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 50: 0x0244 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 51: 0x0249 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x2E)
+ 52: 0x0250 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at Edal-Tahdal (ID: 17809497/0x010FC059) (Basic look)
+ 53: 0x025A [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
+ 54: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=10529*)
+    → "No, one round could not hurt."
+ 55: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 56: 0x0265 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
+ 57: 0x026C [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x0299
+ 58: 0x0274 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
+ 59: 0x027D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 60: 0x027E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 61: 0x0283 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
+ 62: 0x028A [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10530*]:
+    → "You know that you probably won't gain anything from this battle-waddle. Are you sure you still want the fork?"
+ 63: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 64: 0x0292 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
+ 65: 0x0299 [0x79] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer (Basic look)
+ 66: 0x02A3 [0x24] CREATE_DIALOG(message_id=10531*, default_option=0*, option_flags=0*)
+    → "Are you really-dilly sure? [Fork me!/On second thought...]"
+ 67: 0x02AA [0x25] WAIT_DIALOG_SELECT()
+ 68: 0x02AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F7
+ 69: 0x02B3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 70: 0x02B4 [0x03] Work_Zone[1] = 1*
+ 71: 0x02B9 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer (Basic look)
+ 72: 0x02C3 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
+ 73: 0x02CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 74: 0x02CD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 75: 0x02D2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x2F)
+ 76: 0x02D9 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
+ 77: 0x02E2 [0x79] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A) (Basic look)
+ 78: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10534*)
+    → "The researcher who made the $1 warned that "the door home would only open to those who defeated the prime avatar.""
+ 79: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 80: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10535*)
+    → "I'm not quite sure what that is supposed to mean, but I suggest that you prepare well before taking on this journey. Remember, you have to be at least a level $3 summoner."
+ 81: 0x02F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 82: 0x02F4 [0x01] GOTO 0x0307
+ 83: 0x02F7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0307
+ 84: 0x02FF [0x03] Work_Zone[1] = 2*
+ 85: 0x0304 [0x01] GOTO 0x0307
+
+SUBROUTINE_0307:
+ 86: 0x0307 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 87: 0x0309 [0x21] END_EVENT
+ 88: 0x030A [0x00] END_REQSTACK()
+```
+
+### Event 200
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x030B    |
+| Data Size    | 180 bytes |
+| Instructions | 41        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                                   1E F0 FF FF 7F             .....
+0310: 4A 59 C0 0F 01 F0 FF FF  7F 6F 70 1D 1C 80 23 1D  JY.......op...#.
+0320: 1D 80 23 24 1E 80 06 80  06 10 25 02 00 10 06 80  ..#$......%.....
+0330: 00 AB 03 42 03 01 10 16  80 4A 5A C0 0F 01 59 C0  ...B.....JZ...Y.
+0340: 0F 01 6F 76 5A C0 0F 01  6E F8 FF FF 7F 16 80 99  ..ovZ...n.......
+0350: F8 FF FF 7F 1D 1F 80 23  6F 76 59 C0 0F 01 6E 59  .......#ovY...nY
+0360: C0 0F 01 0D 80 99 59 C0  0F 01 2B 59 C0 0F 01 20  ......Y...+Y... 
+0370: 80 23 73 21 80 59 C0 0F  01 F0 FF FF 7F 1C 22 80  .#s!.Y........".
+0380: 2B 59 C0 0F 01 23 80 23  4A 5A C0 0F 01 F0 FF FF  +Y...#.#JZ......
+0390: 7F 1C 08 80 45 08 80 F8  FF FF 7F F8 FF FF 7F 66  ....E..........f
+03A0: 64 6F 32 06 80 1C 24 80  01 BB 03 02 00 10 1B 80  do2...$.........
+03B0: 00 BB 03 03 01 10 25 80  01 BB 03 20 00 21 00     ......%.... .!. 
+```
+
+#### Opcodes
+
+```
+  0: 0x030B [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0310 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
+  2: 0x0319 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x031A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=10536*)
+    → "Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?"
+  5: 0x031E [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=10537*)
+    → "Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days."
+  7: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x0323 [0x24] CREATE_DIALOG(message_id=10538*, default_option=0*, option_flags=Work_Zone[6])
+    → "Are you sure you are ready? [Off to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!/My dog ate my mini tuning fork./Not just yet...]"
+  9: 0x032A [0x25] WAIT_DIALOG_SELECT()
+ 10: 0x032B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AB
+ 11: 0x0333 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 12: 0x0334 [0x03] Work_Zone[1] = 1*
+ 13: 0x0339 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at Edal-Tahdal (ID: 17809497/0x010FC059)
+ 14: 0x0342 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 15: 0x0343 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Verctissa (ID: 17809498/0x010FC05A) Render.Flags0 and Render.Flags3 conditions are met
+ 16: 0x0348 [0x6E] EventEntity uses emote 1*
+ 17: 0x034F [0x99] Wait for EventEntity animation to complete
+ 18: 0x0354 [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
+    → "Sir, our adventurer has completed [his/her] preparations and requests a warp."
+ 19: 0x0357 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 20: 0x0358 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 21: 0x0359 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+ 22: 0x035E [0x6E] Edal-Tahdal (ID: 17809497/0x010FC059) uses emote 7*
+ 23: 0x0365 [0x99] Wait for Edal-Tahdal (ID: 17809497/0x010FC059) animation to complete
+ 24: 0x036A [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10540*]:
+    → "... Abracadoodle-strudel-poodle... ..."
+ 25: 0x0371 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 26: 0x0372 [0x73] Edal-Tahdal (ID: 17809497/0x010FC059) casts magic 261* on LocalPlayer
+ 27: 0x037D [0x1C] WAIT(30* ticks)
+ 28: 0x0380 [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10541*]:
+    → "Sha-mone!"
+ 29: 0x0387 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 30: 0x0388 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
+ 31: 0x0391 [0x1C] WAIT(200* ticks)
+ 32: 0x0394 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 33: 0x03A5 [0x1C] WAIT(120* ticks)
+ 34: 0x03A8 [0x01] GOTO 0x03BB
+ 35: 0x03AB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03BB
+ 36: 0x03B3 [0x03] Work_Zone[1] = 3*
+ 37: 0x03B8 [0x01] GOTO 0x03BB
+
+SUBROUTINE_03BB:
+ 38: 0x03BB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 39: 0x03BD [0x21] END_EVENT
+ 40: 0x03BE [0x00] END_REQSTACK()
+```
+
+### Event 204
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x03BF    |
+| Data Size    | 114 bytes |
+| Instructions | 35        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03B0:                                               1E                 .
+03C0: F0 FF FF 7F 4A 59 C0 0F  01 F0 FF FF 7F 6F 70 3E  ....JY.......op>
+03D0: 06 10 26 80 E3 03 03 01  10 06 80 1D 27 80 23 20  ..&.........'.# 
+03E0: 00 21 00 1D 1C 80 23 1D  1D 80 23 24 1E 80 06 80  .!....#...#$....
+03F0: 06 10 25 02 00 10 06 80  00 08 04 42 03 01 10 16  ..%........B....
+0400: 80 1D 28 80 23 01 2D 04  02 00 10 16 80 00 1D 04  ..(.#.-.........
+0410: 42 03 01 10 1B 80 1D 29  80 23 01 2D 04 02 00 10  B......).#.-....
+0420: 1B 80 00 2D 04 03 01 10  25 80 01 2D 04 20 00 21  ...-....%..-. .!
+0430: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x03BF [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x03C4 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
+  2: 0x03CD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x03CE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x03CF [0x3E] IF !(Work_Zone[6] bit 5*) GOTO 0x03E3
+  5: 0x03D6 [0x03] Work_Zone[1] = 0*
+  6: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
+    → "If you do not bring the $1 we gave you, my companion cannot warp you to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]."
+  7: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x03DF [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+  9: 0x03E1 [0x21] END_EVENT
+ 10: 0x03E2 [0x00] END_REQSTACK()
+ 11: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10536*)
+    → "Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?"
+ 12: 0x03E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 13: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10537*)
+    → "Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days."
+ 14: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x03EB [0x24] CREATE_DIALOG(message_id=10538*, default_option=0*, option_flags=Work_Zone[6])
+    → "Are you sure you are ready? [Off to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!/My dog ate my mini tuning fork./Not just yet...]"
+ 16: 0x03F2 [0x25] WAIT_DIALOG_SELECT()
+ 17: 0x03F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0408
+ 18: 0x03FB [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 19: 0x03FC [0x03] Work_Zone[1] = 1*
+ 20: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=10544*)
+    → "Did you remember to bring the $1?"
+ 21: 0x0404 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 22: 0x0405 [0x01] GOTO 0x042D
+ 23: 0x0408 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x041D
+ 24: 0x0410 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 25: 0x0411 [0x03] Work_Zone[1] = 2*
+ 26: 0x0416 [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
+    → "Don't use that excuse on me, [young man/young lady]. If you want another $1, all you have to do ask."
+ 27: 0x0419 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 28: 0x041A [0x01] GOTO 0x042D
+ 29: 0x041D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x042D
+ 30: 0x0425 [0x03] Work_Zone[1] = 3*
+ 31: 0x042A [0x01] GOTO 0x042D
+
+SUBROUTINE_042D:
+ 32: 0x042D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 33: 0x042F [0x21] END_EVENT
+ 34: 0x0430 [0x00] END_REQSTACK()
+```
+
+### Event 201
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0431   |
+| Data Size    | 15 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0430:    1E F0 FF FF 7F 6F 70  1D 1C 80 23 20 00 21 00   .....op...# .!.
+```
+
+#### Opcodes
+
+```
+  0: 0x0431 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0436 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0437 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=10536*)
+    → "Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?"
+  4: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x043C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+  6: 0x043E [0x21] END_EVENT
+  7: 0x043F [0x00] END_REQSTACK()
+```
+
+### Event 205
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0440   |
+| Data Size    | 19 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0440: 1E F0 FF FF 7F 6F 70 1D  2A 80 23 1D 2B 80 23 20  .....op.*.#.+.# 
+0450: 00 21 00                                          .!.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0440 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0445 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0446 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0447 [0x1D] PRINT_EVENT_MESSAGE(message_id=10561*)
+    → "Ah, you are back. How was your battle with the avatar?"
+  4: 0x044A [0x23] WAIT_FOR_DIALOG_INTERACTION
+  5: 0x044B [0x1D] PRINT_EVENT_MESSAGE(message_id=10562*)
+    → "Remember, the protocrystals will only resonate with the tuning forks ever so often. Use this time to rest before taking upon another challenge."
+  6: 0x044E [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x044F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+  8: 0x0451 [0x21] END_EVENT
+  9: 0x0452 [0x00] END_REQSTACK()
+```
+
+### Event 202
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0453   |
+| Data Size    | 75 bytes |
+| Instructions | 23       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0450:          79 00 59 C0 0F  01 F0 FF FF 7F 1E F0 FF     y.Y..........
+0460: FF 7F 6F 70 1D 2C 80 23  4A 59 C0 0F 01 F8 FF FF  ..op.,.#JY......
+0470: 7F 1E 59 C0 0F 01 1D 2D  80 23 6F 70 29 0B 59 C0  ..Y....-.#op).Y.
+0480: 0F 01 33 1D 2E 80 23 1D  2F 80 23 6E 59 C0 0F 01  ..3...#./.#nY...
+0490: 30 80 99 59 C0 0F 01 1C  31 80 20 00 21 00        0..Y....1. .!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0453 [0x79] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer (Basic look)
+  1: 0x045D [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0462 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x0463 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x0464 [0x1D] PRINT_EVENT_MESSAGE(message_id=10545*)
+    → "What!? You defeated the prime avatar!?"
+  5: 0x0467 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0468 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at EventEntity
+  7: 0x0471 [0x1E] EventEntity looks at Edal-Tahdal (ID: 17809497/0x010FC059) and starts talking
+  8: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=10546*)
+    → "Sir!"
+  9: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 10: 0x047A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 11: 0x047B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+ 12: 0x047C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x33)
+ 13: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=10548*)
+    → "... Sir..."
+ 14: 0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=10549*)
+    → "... (Now if I could only find me some real work so I could do some real adventuring...)"
+ 16: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 17: 0x048B [0x6E] Edal-Tahdal (ID: 17809497/0x010FC059) uses emote 21*
+ 18: 0x0492 [0x99] Wait for Edal-Tahdal (ID: 17809497/0x010FC059) animation to complete
+ 19: 0x0497 [0x1C] WAIT(80* ticks)
+ 20: 0x049A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 21: 0x049C [0x21] END_EVENT
+ 22: 0x049D [0x00] END_REQSTACK()
+```
+
+### Event 203
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x049E   |
+| Data Size    | 98 bytes |
+| Instructions | 24       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0490:                                            1E F0                ..
+04A0: FF FF 7F 4A 59 C0 0F 01  F0 FF FF 7F 6F 76 59 C0  ...JY.......ovY.
+04B0: 0F 01 6F 70 29 0B 59 C0  0F 01 35 6E F8 FF FF 7F  ..op).Y...5n....
+04C0: 0D 80 99 F8 FF FF 7F 1D  32 80 23 02 06 10 06 80  ........2.#.....
+04D0: 00 FC 04 24 33 80 06 80  06 80 25 02 00 10 06 80  ...$3.....%.....
+04E0: 00 EC 04 42 03 01 10 16  80 01 FC 04 02 00 10 16  ...B............
+04F0: 80 00 FC 04 03 01 10 1B  80 01 FC 04 20 00 21 00  ............ .!.
+```
+
+#### Opcodes
+
+```
+  0: 0x049E [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x04A3 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
+  2: 0x04AC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x04AD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
+  4: 0x04B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  5: 0x04B3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  6: 0x04B4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x35)
+  7: 0x04BB [0x6E] EventEntity uses emote 7*
+  8: 0x04C2 [0x99] Wait for EventEntity animation to complete
+  9: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10551*)
+    → "Remember that you must fight the prime avatar as a level $3 summoner. As you already know, this will not be an easy task. Prepare well for the battle."
+ 10: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 11: 0x04CB [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x04FC
+ 12: 0x04D3 [0x24] CREATE_DIALOG(message_id=10552*, default_option=0*, option_flags=0*)
+    → "Do you want another mini tuning fork? [Fork me baby, one more time./Stick a fork in me, I'm done.]"
+ 13: 0x04DA [0x25] WAIT_DIALOG_SELECT()
+ 14: 0x04DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04EC
+ 15: 0x04E3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 16: 0x04E4 [0x03] Work_Zone[1] = 1*
+ 17: 0x04E9 [0x01] GOTO 0x04FC
+ 18: 0x04EC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04FC
+ 19: 0x04F4 [0x03] Work_Zone[1] = 2*
+ 20: 0x04F9 [0x01] GOTO 0x04FC
+
+SUBROUTINE_04FC:
+ 21: 0x04FC [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 22: 0x04FE [0x21] END_EVENT
+ 23: 0x04FF [0x00] END_REQSTACK()
+```

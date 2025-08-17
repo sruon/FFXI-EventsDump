@@ -172,6 +172,23 @@
 |     148 | 0x040B      |        1035 |
 |     149 | 0x040D      |        1037 |
 
+## String References
+
+- **1406**: $6, a hero's story! The deeds of %0, in all their gloryt
+- **1407**: A traveling bard walks far and near While wand'ring this celestial sphere From bustling towns to godforsaken lands. But none I love more than the swell Inhabitants of Vana'diel, Espec'lly when their gil comes to my hands.t
+- **1408**: Pay me what you think I'm worth And songs of legend may spring forth.t
+- **1409**: Open your ears and take a ration Of my melodic cantillation.t
+- **1410**: How much will you give the bard? [Nothing./$0 gil./$1 gil./$2 gil./$3 gil./$4 gil./$5 gil./Let the bard decide your title./Unlock achievement.]
+- **1411**: I cannot weave a ballad fair Out of moonbeams and thin air.t
+- **1413**: Which title do you return to? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28.]
+- **1414**: I'll add you to my repertoire And sing of you! So, au revoir!t
+- **1415**: The power of song, a mystical thing That comes forth only when you sing. A minstrel's job in life is never done. So sing a doodle-doodle-lay And be upon your merry way-- And check your title, too, oh worthy one.t
+- **1417**: Oh, what a soul, intrepid and bold To care not how your name is toldt
+- **1418**: Unlock which achievement? [None./Job Level./Synthesis Skill 100./San d'Oria Rank 10./Bastok Rank 10./Windurst Rank 10./Zilart Missions./Promathia Missions./Aht Urhgan Missions./Mercenary Rank./$27./$28./$29./$30./$31./$32./$33./$34./$35./$36./$37./$38./View next page.]
+- **1419**: Unlock which achievement? [None./Artifact related Quests./Guildworkers' Union Entry./Wings of the Goddess Missions./Past Vana'diel Nation Quests./$3./$3./$3./$3./$3./$3./$3./$3./Support Jobs./Extra Jobs./$16./$17./$18.]
+- **1420**: Unlock which achievement? [None./Level 75 Warrior./Level 75 Monk./Level 75 White Mage./Level 75 Black Mage./Level 75 Red Mage./Level 75 Thief./Level 75 Paladin./Level 75 Dark Knight./Level 75 Beastmaster./Level 75 Bard./Level 75 Ranger./Level 75 Samurai./Level 75 Ninja./Level 75 Dragoon./Level 75 Summoner./Level 75 Blue Mage./Level 75 Corsair./Level 75 Puppetmaster./Level 75 Dancer./Level 75 Scholar.]
+- **1421**: You have no achievements to unlock.
+
 ## Events
 
 ### Event 65535
@@ -232,13 +249,13 @@
 SUBROUTINE_0028:
  10: 0x0028 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0034
  11: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=1406*)
-    → "\u0001\u0005\u0012\u0002\u0006\u0000\u0000, a hero's story!\u0007The deeds of \u001C\u0000, in all their glory\u0001t\u007F1\u0000\u0007"
+    → "$6, a hero's story! The deeds of %0, in all their gloryt"
  12: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=1407*)
-    → "A traveling bard walks far and near\u0007While wand'ring this celestial sphere\u0007From bustling towns to godforsaken lands.\u0007But none I love more than the swell\u0007Inhabitants of Vana'diel,\u0007Espec'lly when their gil comes to my hands.\u0001t\u007F1\u0000\u0007"
+    → "A traveling bard walks far and near While wand'ring this celestial sphere From bustling towns to godforsaken lands. But none I love more than the swell Inhabitants of Vana'diel, Espec'lly when their gil comes to my hands.t"
  14: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=1411*)
-    → "I cannot weave a ballad fair\u0007Out of moonbeams and thin air.\u0001t\u007F1\u0000\u0007"
+    → "I cannot weave a ballad fair Out of moonbeams and thin air.t"
  16: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x003C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  18: 0x003E [0x21] END_EVENT
@@ -404,16 +421,16 @@ SUBROUTINE_0082:
 SUBROUTINE_009F:
  20: 0x009F [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x00AB
  21: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=1406*)
-    → "\u0001\u0005\u0012\u0002\u0006\u0000\u0000, a hero's story!\u0007The deeds of \u001C\u0000, in all their glory\u0001t\u007F1\u0000\u0007"
+    → "$6, a hero's story! The deeds of %0, in all their gloryt"
  22: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=1407*)
-    → "A traveling bard walks far and near\u0007While wand'ring this celestial sphere\u0007From bustling towns to godforsaken lands.\u0007But none I love more than the swell\u0007Inhabitants of Vana'diel,\u0007Espec'lly when their gil comes to my hands.\u0001t\u007F1\u0000\u0007"
+    → "A traveling bard walks far and near While wand'ring this celestial sphere From bustling towns to godforsaken lands. But none I love more than the swell Inhabitants of Vana'diel, Espec'lly when their gil comes to my hands.t"
  24: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=1408*)
-    → "Pay me what you think I'm worth\u0007And songs of legend may spring forth.\u0001t\u007F1\u0000\u0007"
+    → "Pay me what you think I'm worth And songs of legend may spring forth.t"
  26: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=1409*)
-    → "Open your ears and take a ration\u0007Of my melodic cantillation.\u0001t\u007F1\u0000\u0007"
+    → "Open your ears and take a ration Of my melodic cantillation.t"
  28: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00B7 [0x02] IF !(Work_Zone[2] == 4294967294*) GOTO 0x00C6
  30: 0x00BF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=1*, condition_work_offset=1*)
@@ -440,13 +457,7 @@ SUBROUTINE_009F:
  51: 0x0143 [0x03] Work_Zone[6] = 600*
  52: 0x0148 [0x03] Work_Zone[7] = 700*
  53: 0x014D [0x24] CREATE_DIALOG(message_id=1410*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
-    → "How much will you give the bard?\u0007\u000BNothing.\u0007
-\u0000 gil.\u0007
-\u0001 gil.\u0007
-\u0002 gil.\u0007
-\u0003 gil.\u0007
-\u0004 gil.\u0007
-\u0005 gil.\u0007Let the bard decide your title.\u0007Unlock achievement.\u007F1\u0000\u0007"
+    → "How much will you give the bard? [Nothing./$0 gil./$1 gil./$2 gil./$3 gil./$4 gil./$5 gil./Let the bard decide your title./Unlock achievement.]"
  54: 0x0154 [0x25] WAIT_DIALOG_SELECT()
  55: 0x0155 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0167
  56: 0x015D [0x03] Work_Zone[1] = 1073741824*
@@ -529,7 +540,7 @@ SUBROUTINE_03E3:
 119: 0x03EB [0x02] IF !(Work_Zone[3] == 4294967294*) GOTO 0x0401
 120: 0x03F3 [0x02] IF !(Work_Zone[4] == 4294967294*) GOTO 0x0401
 121: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=1421*)
-    → "You have no achievements to unlock.\u007F1\u0000\u0007"
+    → "You have no achievements to unlock."
 122: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x03FF [0x21] END_EVENT
 124: 0x0400 [0x00] END_REQSTACK()
@@ -546,7 +557,7 @@ SUBROUTINE_03E3:
 135: 0x0433 [0x03] Work_Zone_1700[29] = 169*
 136: 0x0438 [0x03] Work_Zone_1700[30] = 411*
 137: 0x043D [0x24] CREATE_DIALOG(message_id=1418*, default_option=0*, option_flags=Work_Zone[3])
-    → "Unlock which achievement?\u0007\u000BNone.\u0007Job Level.\u0007Synthesis Skill 100.\u0007San d'Oria Rank 10.\u0007Bastok Rank 10.\u0007Windurst Rank 10.\u0007Zilart Missions.\u0007Promathia Missions.\u0007Aht Urhgan Missions.\u0007Mercenary Rank.\u0007\u0001\u0005\u0012\u0002\u001B\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u001C\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u001D\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u001E\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u001F\u0000\u0000.\u0007\u0001\u0005\u0012\u0002 \u0000\u0000.\u0007\u0001\u0005\u0012\u0002!\u0000\u0000.\u0007\u0001\u0005\u0012\u0002"\u0000\u0000.\u0007\u0001\u0005\u0012\u0002#\u0000\u0000.\u0007\u0001\u0005\u0012\u0002$\u0000\u0000.\u0007\u0001\u0005\u0012\u0002%\u0000\u0000.\u0007\u0001\u0005\u0012\u0002&\u0000\u0000.\u0007View next page.\u007F1\u0000\u0007"
+    → "Unlock which achievement? [None./Job Level./Synthesis Skill 100./San d'Oria Rank 10./Bastok Rank 10./Windurst Rank 10./Zilart Missions./Promathia Missions./Aht Urhgan Missions./Mercenary Rank./$27./$28./$29./$30./$31./$32./$33./$34./$35./$36./$37./$38./View next page.]"
 138: 0x0444 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0445 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0457
 140: 0x044D [0x03] Work_Zone[1] = 1073741824*
@@ -576,8 +587,7 @@ SUBROUTINE_0504:
 
 SUBROUTINE_051E:
 156: 0x051E [0x24] CREATE_DIALOG(message_id=1413*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
-    → "Which title do you return to?\u0007\u000BNone.\u0007\u0001\u0005\u0012\u0002\u0001\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0002\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0003\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0004\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0005\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0006\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0007\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0008\u0000\u0000.\u0007\u0001\u0005\u0012\u0002	\u0000\u0000.\u0007\u0001\u0005\u0012\u0002
-\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u000B\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u000C\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u000E\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u000F\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0010\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0011\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0012\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0013\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0014\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0015\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0016\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0017\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0018\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u0019\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u001A\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u001B\u0000\u0000.\u0007\u0001\u0005\u0012\u0002\u001C\u0000\u0000.\u007F1\u0000\u0007"
+    → "Which title do you return to? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28.]"
 157: 0x0525 [0x25] WAIT_DIALOG_SELECT()
 158: 0x0526 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0538
 159: 0x052E [0x03] Work_Zone[1] = 1073741824*
@@ -590,10 +600,10 @@ SUBROUTINE_0538:
 164: 0x0542 [0x10] Work_Zone[1] <<= 8*
 165: 0x0547 [0x07] Work_Zone[1] += ExtData[1]->WorkLocal[7]
 166: 0x054C [0x1D] PRINT_EVENT_MESSAGE(message_id=1414*)
-    → "I'll add you to my repertoire\u0007And sing of you! So, au revoir!\u0001t\u007F1\u0000\u0007"
+    → "I'll add you to my repertoire And sing of you! So, au revoir!t"
 167: 0x054F [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0550 [0x1D] PRINT_EVENT_MESSAGE(message_id=1415*)
-    → "The power of song, a mystical thing\u0007That comes forth only when you sing.\u0007A minstrel's job in life is never done.\u0007So sing a doodle-doodle-lay\u0007And be upon your merry way--\u0007And check your title, too, oh worthy one.\u0001t\u007F1\u0000\u0007"
+    → "The power of song, a mystical thing That comes forth only when you sing. A minstrel's job in life is never done. So sing a doodle-doodle-lay And be upon your merry way-- And check your title, too, oh worthy one.t"
 169: 0x0553 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0554 [0x21] END_EVENT
 171: 0x0555 [0x00] END_REQSTACK()

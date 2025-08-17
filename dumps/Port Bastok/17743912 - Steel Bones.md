@@ -1,0 +1,195 @@
+# 17743912 - Steel Bones
+
+## Common Data
+
+| Field            | Value                 |
+|------------------|-----------------------|
+| Zone             | Port Bastok (ID: 236) |
+| Block Size       | 424 bytes             |
+| Total Events     | 3                     |
+| References Count | 17                    |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [29](#event-29)       | 0x0001       |     23 |              9 |
+| [57](#event-57)       | 0x0018       |    303 |             48 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x051E      |        1310 |
+|       1 | 0x0000      |           0 |
+|       2 | 0x1D3A      |        7482 |
+|       3 | 0x4295      |       17045 |
+|       4 | 0x00C8      |         200 |
+|       5 | 0x001E      |          30 |
+|       6 | 0x0003      |           3 |
+|       7 | 0x0088      |         136 |
+|       8 | 0x0045      |          69 |
+|       9 | 0x1D3B      |        7483 |
+|      10 | 0x1D3C      |        7484 |
+|      11 | 0x0096      |         150 |
+|      12 | 0x1D3D      |        7485 |
+|      13 | 0x0014      |          20 |
+|      14 | 0x1D3E      |        7486 |
+|      15 | 0x1D3F      |        7487 |
+|      16 | 0x003C      |          60 |
+
+## String References
+
+- **7482**: Cross this bridge to go to the Markets District. Also take this road to get to the Metalworks--which include forges and administrative buildings--and the Mines District.
+- **7483**: An Elvaan knight named Domien?
+- **7484**: Yes, I believe I've seen someone matching that description walk by earlier...wait, is that him?
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 29
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 23 bytes |
+| Instructions | 9        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    39 00 80 6F 70 6E F8  FF FF 7F 01 80 99 F8 FF   9..opn.........
+0010: FF 7F 1D 02 80 23 21 00                           .....#!.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x39] SET_ENTITY_DIRECTION(direction=7.2°*)
+  1: 0x0004 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0005 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0006 [0x6E] EventEntity uses emote 0*
+  4: 0x000D [0x99] Wait for EventEntity animation to complete
+  5: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
+    → "Cross this bridge to go to the Markets District. Also take this road to get to the Metalworks--which include forges and administrative buildings--and the Mines District."
+  6: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0016 [0x21] END_EVENT
+  8: 0x0017 [0x00] END_REQSTACK()
+```
+
+### Event 57
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0018    |
+| Data Size    | 303 bytes |
+| Instructions | 48        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                          42 03 09 10 03 80 45 04          B.....E.
+0020: 80 F8 FF FF 7F F8 FF FF  7F 66 64 6F 30 01 80 1C  .........fdo0...
+0030: 05 80 38 06 80 29 0A F0  FF FF 7F 0F 46 01 38 06  ..8..)......F.8.
+0040: 80 45 07 80 F8 FF FF 7F  F8 FF FF 7F 73 30 35 30  .E..........s050
+0050: 01 80 1C 05 80 45 04 80  F8 FF FF 7F F8 FF FF 7F  .....E..........
+0060: 66 64 69 30 01 80 1C 05  80 03 09 10 03 80 66 08  fdi0..........f.
+0070: 80 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 1D 09 80  .........tlk0...
+0080: 23 1D 0A 80 23 66 08 80  F8 FF FF 7F F8 FF FF 7F  #...#f..........
+0090: 74 6C 6B 31 45 07 80 F8  FF FF 7F F8 FF FF 7F 73  tlk1E..........s
+00A0: 30 35 31 01 80 1E 29 C0  0E 01 27 64 29 C0 0E 01  051...)...'d)...
+00B0: 02 1C 05 80 4A F0 FF FF  7F 29 C0 0E 01 1C 0B 80  ....J....)......
+00C0: 2B 29 C0 0E 01 0C 80 23  2A 64 29 C0 0E 01 66 0D  +).....#*d)...f.
+00D0: 80 29 C0 0E 01 29 C0 0E  01 74 6C 6B 30 2B 29 C0  .)...)...tlk0+).
+00E0: 0E 01 0E 80 23 5E 69 64  6C 30 2B 29 C0 0E 01 0F  ....#^idl0+)....
+00F0: 80 23 27 64 29 C0 0E 01  03 1C 10 80 4A F0 FF FF  .#'d).......J...
+0100: 7F 29 C0 0E 01 1E 29 C0  0E 01 1C 10 80 4A F0 FF  .)....)......J..
+0110: FF 7F 29 C0 0E 01 1E 29  C0 0E 01 45 04 80 F8 FF  ..)....)...E....
+0120: FF 7F F8 FF FF 7F 66 64  6F 30 01 80 1C 05 80 46  ......fdo0.....F
+0130: 00 1C 05 80 45 04 80 F8  FF FF 7F F8 FF FF 7F 66  ....E..........f
+0140: 64 69 30 01 80 21 00                              di0..!.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0018 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0019 [0x03] Work_Zone[9] = 17045*
+  2: 0x001E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+  3: 0x002F [0x1C] WAIT(30* ticks)
+  4: 0x0032 [0x38] SET_CLIENT_EVENT_MODE(mode=3*)
+  5: 0x0035 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=LocalPlayer, tag_num=0x0F)
+  6: 0x003C [0x46] CAMERA_CONTROL: Disable user control
+  7: 0x003E [0x38] SET_CLIENT_EVENT_MODE(mode=3*)
+  8: 0x0041 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[136*, 0*]
+  9: 0x0052 [0x1C] WAIT(30* ticks)
+ 10: 0x0055 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 11: 0x0066 [0x1C] WAIT(30* ticks)
+ 12: 0x0069 [0x03] Work_Zone[9] = 17045*
+ 13: 0x006E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
+ 14: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
+    → "An Elvaan knight named Domien?"
+ 15: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+    → "Yes, I believe I've seen someone matching that description walk by earlier...wait, is that him?"
+ 17: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 18: 0x0085 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
+ 19: 0x0094 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[136*, 0*]
+ 20: 0x00A5 [0x1E] EventEntity looks at Domien (ID: 17743913/0x010EC029) and starts talking
+ 21: 0x00AA [0x27] REQ_SET(priority=0x64, entity_id=Domien (ID: 17743913/0x010EC029), tag_num=0x02)
+ 22: 0x00B1 [0x1C] WAIT(30* ticks)
+ 23: 0x00B4 [0x4A] LocalPlayer looks at Domien (ID: 17743913/0x010EC029)
+ 24: 0x00BD [0x1C] WAIT(150* ticks)
+ 25: 0x00C0 [0x2B] Domien (ID: 17743913/0x010EC029) [7485*]:
+    → "That $7...are you Powhatan?"
+ 26: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x00C8 [0x2A] GET_REQ_LEVEL(level=100, entity_id=Domien (ID: 17743913/0x010EC029))
+ 28: 0x00CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Domien (ID: 17743913/0x010EC029), Domien (ID: 17743913/0x010EC029)], work=20*
+ 29: 0x00DD [0x2B] Domien (ID: 17743913/0x010EC029) [7486*]:
+    → "You're his representative? No matter--you should know that being late to a meeting is rude, not to say unforgivable, where I am from."
+ 30: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 31: 0x00E5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 32: 0x00EA [0x2B] Domien (ID: 17743913/0x010EC029) [7487*]:
+    → "I have written a letter of complaint to Mister Powhatan. Give it to him--I am going back to Jeuno. Goodbye."
+ 33: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 34: 0x00F2 [0x27] REQ_SET(priority=0x64, entity_id=Domien (ID: 17743913/0x010EC029), tag_num=0x03)
+ 35: 0x00F9 [0x1C] WAIT(60* ticks)
+ 36: 0x00FC [0x4A] LocalPlayer looks at Domien (ID: 17743913/0x010EC029)
+ 37: 0x0105 [0x1E] EventEntity looks at Domien (ID: 17743913/0x010EC029) and starts talking
+ 38: 0x010A [0x1C] WAIT(60* ticks)
+ 39: 0x010D [0x4A] LocalPlayer looks at Domien (ID: 17743913/0x010EC029)
+ 40: 0x0116 [0x1E] EventEntity looks at Domien (ID: 17743913/0x010EC029) and starts talking
+ 41: 0x011B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 42: 0x012C [0x1C] WAIT(30* ticks)
+ 43: 0x012F [0x46] CAMERA_CONTROL: Restore default settings
+ 44: 0x0131 [0x1C] WAIT(30* ticks)
+ 45: 0x0134 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
+ 46: 0x0145 [0x21] END_EVENT
+ 47: 0x0146 [0x00] END_REQSTACK()
+```
