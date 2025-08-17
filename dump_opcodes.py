@@ -156,28 +156,23 @@ class EventDumper:
         """Process a single actor block."""
         actor_number = block.actor_number
         folder_name, display_name = self._get_actor_name(actor_number, zone_entities)
-        actor_path = zone_path / folder_name
-
-        event_summaries = []
+        
+        events_data = []
         event_id_counts = {}
-        actor_has_events = False
 
         for event_index, (event_id, offset, event_data) in enumerate(block.get_all_events()):
             if len(event_data) < 1:
                 continue
 
             try:
-                # Parse and write event
                 instructions, control_flow_data = self.opcode_parser.parse_event_data(event_data, offset)
                 context = OpcodeContext(imed_data=block.imed_data, zone_entities=zone_entities, zone_strings=zone_strings)
 
                 if event_id in event_id_counts:
                     event_id_counts[event_id] += 1
-                    filename = f"{event_id}.{event_id_counts[event_id]}.md"
                     display_id = f"{event_id}.{event_id_counts[event_id]}"
                 else:
                     event_id_counts[event_id] = 0
-                    filename = f"{event_id}.md"
                     display_id = str(event_id)
 
                 # Calculate size using the correct index
@@ -186,84 +181,152 @@ class EventDumper:
                 else:
                     calculated_size = block.event_data_size - offset
 
-                # Create actor dir if needed
-                if not actor_has_events:
-                    actor_path.mkdir(parents=True, exist_ok=True)
-                    actor_has_events = True
-
-                # Write event file
-                self._write_event_file(
-                    actor_path / filename,
-                    event_id,
-                    event_index,
-                    block.tag_count,
-                    offset,
-                    event_data,
-                    calculated_size,
-                    instructions,
-                    context,
-                    control_flow_data,
+                event_code = self._build_event_code(
+                    event_id, event_index, block.tag_count, offset, event_data, 
+                    calculated_size, instructions, context, control_flow_data
                 )
-
-                event_summaries.append(
-                    {
-                        "display_id": display_id,
-                        "filename": filename,
-                        "offset": offset,
-                        "size": len(event_data),
-                        "instructions": len(instructions),
-                    }
-                )
+                
+                events_data.append({
+                    "id": event_id,
+                    "display_id": display_id,
+                    "offset": offset,
+                    "size": len(event_data),
+                    "instructions": len(instructions),
+                    "event_code": event_code,
+                    "hex_dump": self.format_hex_dump(event_data, offset),
+                })
 
             except Exception as e:
                 logger.error(f"Failed to parse event {event_id} in zone {zone.name}, actor {actor_number}: {e}")
                 raise
 
-        # Write actor README if we have events
-        if actor_has_events and event_summaries:
-            self._write_actor_readme(actor_path, actor_number, display_name, zone, block, block_index, event_dat, event_summaries)
-
-        if not event_summaries:
+        if not events_data:
             return None
+
+        # Write single actor file
+        self._write_actor_file(zone_path, actor_number, display_name, zone, block, block_index, event_dat, events_data, folder_name)
 
         return {
             "id": actor_number,
             "display_name": display_name,
-            "folder": folder_name,
-            "folder_encoded": urllib.parse.quote(folder_name),
-            "event_count": len(event_summaries),
+            "filename": f"{folder_name}.md",
+            "event_count": len(events_data),
         }
 
-    def _write_event_file(self, filepath, event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context, control_flow_data):
-        """Write a single event file."""
-        # Build the EventCode structure
-        event_code = self._build_event_code(
-            event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context, control_flow_data
-        )
+    def _write_actor_file(self, zone_path, actor_number, display_name, zone, block, block_index, event_dat, events_data, folder_name):
+        """Write single actor file with all events."""
+        actor_file = zone_path / f"{folder_name}.md"
         
-        # Build metadata table
-        metadata_table = tabulate(
+        # Build actor title
+        if actor_number == 0x7FFFFFF0:
+            actor_title = "0x7FFFFFF0 - Zone Events"
+        elif actor_number == 0x7FFFFFFF:
+            actor_title = f"{actor_number} - Zone/Player Events"
+        else:
+            actor_title = f"{actor_number} - {display_name}" if display_name != "(unnamed)" else str(actor_number)
+
+        # Build common data table
+        common_data_table = tabulate(
             [
-                ["Event Index", f"{event_code.event_index + 1}/{event_code.total_events}"],
-                ["Offset", f"0x{event_code.offset:04X}"],
-                ["Data Size", f"{event_code.data_size} bytes"],
-                ["Calculated Size", f"{event_code.calculated_size} bytes"],
-                ["Instructions", str(event_code.total_instructions)],
+                ["Zone", f"{zone.name} (ID: {zone.id})"],
+                ["Block Size", f"{event_dat.block_sizes[block_index]} bytes"],
+                ["Total Events", str(block.tag_count)],
+                ["References Count", str(block.imed_count)],
             ],
             headers=["Field", "Value"],
             tablefmt="github",
         )
 
-        # Render template with the cleaner structure
-        template = self.env.get_template("event_simple.md.j2")
-        content = template.render(
-            event_id=event_code.event_id,
-            metadata_table=metadata_table,
-            hex_dump=self.format_hex_dump(event_data, offset),
-            event_code=event_code,
-        )
+        # Events summary table with anchor links
+        events_summary = []
+        for evt in events_data:
+            # Create anchor that matches markdown auto-generated anchors (lowercase, dashes for spaces/dots)
+            anchor = f"event-{evt['display_id'].replace('.', '-').lower()}"
+            event_link = f"[{evt['display_id']}](#{anchor})"
+            events_summary.append([event_link, f"0x{evt['offset']:04X}", str(evt["size"]), str(evt["instructions"])])
+        events_table = tabulate(events_summary, headers=["Event ID", "Entrypoint", "Size", "Instructions"], tablefmt="github")
 
-        filepath.write_text(content, encoding="utf-8")
+        # References table if any
+        references_table = None
+        if block.imed_count > 0 and block.imed_data:
+            refs_data = [[str(i), f"0x{val:04X}", str(val)] for i, val in enumerate(block.imed_data)]
+            references_table = tabulate(refs_data, headers=["Index", "Hex Value", "Dec Value"], tablefmt="github")
+
+        # Build content
+        content = [f"# {actor_title}\n\n"]
+        content.append("## Common Data\n\n")
+        content.append(common_data_table + "\n\n")
+        content.append("## List of Events\n\n")
+        content.append(events_table + "\n\n")
+        
+        if references_table:
+            content.append("## DAT References (imed_data)\n\n")
+            content.append(references_table + "\n\n")
+        
+        # Add events section
+        content.append("## Events\n")
+        
+        for evt in events_data:
+            event_code = evt["event_code"]
+            # Remove dots for anchor and make it lowercase
+            anchor = evt['display_id'].replace('.', '-')
+            content.append(f"\n### Event {evt['display_id']}\n\n")
+            
+            # Event metadata table
+            metadata_table = tabulate(
+                [
+                    ["Entrypoint", f"0x{event_code.offset:04X}"],
+                    ["Data Size", f"{event_code.data_size} bytes"],
+                    ["Instructions", str(event_code.total_instructions)],
+                ],
+                headers=["Field", "Value"],
+                tablefmt="github",
+            )
+            content.append("#### Metadata\n\n")
+            content.append(metadata_table + "\n\n")
+            
+            # Hex dump
+            content.append("```\n")
+            content.append("      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F\n")
+            content.append("      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --\n")
+            for line in evt["hex_dump"]:
+                content.append(line + "\n")
+            content.append("```\n\n")
+            
+            # Opcodes section
+            content.append("#### Opcodes\n\n")
+            content.append("```\n")
+            
+            # Add subroutines
+            for i, subroutine in enumerate(event_code.subroutines):
+                if i > 0:  # Add blank line between subroutines
+                    content.append("\n")
+                
+                # Add label if it exists (SUBROUTINE_XXXX for non-entry points)
+                if subroutine.label:
+                    content.append(f"{subroutine.label}:\n")
+                
+                for inst in subroutine.instructions:
+                    content.append(f"{inst.num:3d}: 0x{inst.offset:04X} [0x{inst.opcode:02X}] {inst.description}\n")
+            
+            content.append("```\n")
+            
+            # Add data or dead code sections if present
+            if event_code.data_sections or event_code.dead_code_sections:
+                content.append("\n#### Data or dead code:\n\n")
+                content.append("```\n")
+                
+                for data_section in event_code.data_sections:
+                    for line in data_section.format_hex_dump():
+                        content.append(line + "\n")
+                
+                for dead_section in event_code.dead_code_sections:
+                    for line in dead_section.format_lines():
+                        content.append(line + "\n")
+                
+                content.append("```\n")
+        
+        actor_file.write_text("".join(content), encoding="utf-8")
     
     def _build_event_code(self, event_id, event_index, total_events, offset, event_data, calculated_size, instructions, context, control_flow_data):
         event_code = EventCode(
@@ -419,51 +482,6 @@ class EventDumper:
             return target - entry_offset
         return None
 
-    def _write_actor_readme(self, actor_path, actor_number, display_name, zone, block, block_index, event_dat, event_summaries):
-        """Write actor README."""
-        # Build actor title
-        if actor_number == 0x7FFFFFF0:
-            actor_title = "0x7FFFFFF0 - Zone Events"
-        elif actor_number == 0x7FFFFFFF:
-            actor_title = f"{actor_number} - Zone/Player Events"
-        else:
-            actor_title = f"{actor_number} - {display_name}" if display_name != "(unnamed)" else str(actor_number)
-
-        # Build tables using tabulate
-        common_data_table = tabulate(
-            [
-                ["Zone", f"{zone.name} (ID: {zone.id})"],
-                ["Block Size", f"{event_dat.block_sizes[block_index]} bytes"],
-                ["Total Events", str(block.tag_count)],
-                ["References Count", str(block.imed_count)],
-            ],
-            headers=["Field", "Value"],
-            tablefmt="github",
-        )
-
-        # Events table
-        events_data = []
-        for evt in event_summaries:
-            event_link = f"[{evt['display_id']}](./{evt['filename']})"
-            events_data.append([event_link, f"0x{evt['offset']:04X}", str(evt["size"]), str(evt["instructions"])])
-        events_table = tabulate(events_data, headers=["Event ID", "Offset", "Size", "Instructions"], tablefmt="github")
-
-        # References table if any
-        references_table = None
-        if block.imed_count > 0 and block.imed_data:
-            refs_data = [[str(i), f"0x{val:04X}", str(val)] for i, val in enumerate(block.imed_data)]
-            references_table = tabulate(refs_data, headers=["Index", "Hex Value", "Dec Value"], tablefmt="github")
-
-        # Render template
-        template = self.env.get_template("actor_simple.md.j2")
-        content = template.render(
-            actor_title=actor_title,
-            common_data_table=common_data_table,
-            events_table=events_table,
-            references_table=references_table,
-        )
-
-        (actor_path / "README.md").write_text(content, encoding="utf-8")
 
     def _write_zone_readme(self, zone, zone_path, actor_info):
         """Write zone README."""
@@ -491,7 +509,7 @@ class EventDumper:
         for actor in sorted(actor_info, key=lambda x: x["id"]):
             actor_id_hex = f"0x{actor['id']:08X}"
             actor_id_dec = str(actor["id"])
-            name_with_link = f"[{actor['display_name']}](./{actor['folder_encoded']}/)"
+            name_with_link = f"[{actor['display_name']}](./{actor['filename']})"
             actors_data.append([actor_id_hex, actor_id_dec, name_with_link, str(actor["event_count"])])
         actors_table = tabulate(actors_data, headers=["Actor ID (Hex)", "Actor ID (Dec)", "Name", "Events"], tablefmt="github")
 

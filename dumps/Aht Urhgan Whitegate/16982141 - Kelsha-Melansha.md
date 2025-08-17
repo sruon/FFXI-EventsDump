@@ -1,0 +1,140 @@
+# 16982141 - Kelsha-Melansha
+
+## Common Data
+
+| Field            | Value                         |
+|------------------|-------------------------------|
+| Zone             | Aht Urhgan Whitegate (ID: 50) |
+| Block Size       | 256 bytes                     |
+| Total Events     | 2                             |
+| References Count | 15                            |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [669](#event-669)     | 0x0001       |    170 |             36 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x001E      |          30 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x0000      |           0 |
+|       3 | 0x0028      |          40 |
+|       4 | 0x18F3      |        6387 |
+|       5 | 0x18F4      |        6388 |
+|       6 | 0x0022      |          34 |
+|       7 | 0x18F5      |        6389 |
+|       8 | 0x18F6      |        6390 |
+|       9 | 0x18F7      |        6391 |
+|      10 | 0x1A7D      |        6781 |
+|      11 | 0x1A7E      |        6782 |
+|      12 | 0x1A7F      |        6783 |
+|      13 | 0x1A80      |        6784 |
+|      14 | 0x1A81      |        6785 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 669
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 170 bytes |
+| Instructions | 36        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    1E F0 FF FF 7F 1C 00  80 13 00 00 01 80 02 00   ...............
+0010: 00 02 80 80 5A 00 5B 03  80 F8 FF FF 7F F8 FF FF  ....Z.[.........
+0020: 7F 77 61 69 30 1D 04 80  23 1D 05 80 23 66 06 80  .wai0...#...#f..
+0030: F8 FF FF 7F F8 FF FF 7F  74 6C 62 30 1D 07 80 23  ........tlb0...#
+0040: 1D 08 80 23 1D 09 80 23  66 06 80 F8 FF FF 7F F8  ...#...#f.......
+0050: FF FF 7F 74 6C 62 31 01  A6 00 02 00 00 01 80 80  ...tlb1.........
+0060: A6 00 5B 03 80 F8 FF FF  7F F8 FF FF 7F 77 61 69  ..[..........wai
+0070: 30 1D 0A 80 23 1D 0B 80  23 66 06 80 F8 FF FF 7F  0...#...#f......
+0080: F8 FF FF 7F 74 6C 62 30  1D 0C 80 23 1D 0D 80 23  ....tlb0...#...#
+0090: 1D 0E 80 23 66 06 80 F8  FF FF 7F F8 FF FF 7F 74  ...#f..........t
+00A0: 6C 62 31 01 A6 00 1C 00  80 21 00                 lb1......!.     
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0006 [0x1C] WAIT(30* ticks)
+  2: 0x0009 [0x13] ExtData[1]->WorkLocal[0] = rand() % 1*
+  3: 0x000E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x005A
+  4: 0x0016 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
+  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=6387*)
+    → "Hey, listen up! I saw something absolutely unberry-lievable! It was a Yagudo. Yes, a Yagudo! Do you know what I'm talking about? A Yagudo in town, of all places!\u007F1\u0000\u0007"
+  6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6388*)
+    → "Not only that, but he was sipper-sipping a cup of chai at the teahouse! Can you believe that? That kind of thing would never, ever happen in Windurst!\u007F1\u0000\u0007"
+  8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x002D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
+ 10: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=6389*)
+    → "I mean, that's like talky-walking into the Rarab Tail Hostelry one day and...boom! There's a Yagudo sitting in the corner eating his lunch with a little napkin on his lap! I mean, this is a Yagudo we're talking about here!\u007F1\u0000\u0007"
+ 11: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6390*)
+    → "My friends in Windurst are never gonna believe me when I tell them...\u007F1\u0000\u0007"
+ 13: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 14: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6391*)
+    → "If you stick around in this town long enough, I'm sure you'll see him yourself...a Yagudo tea aficionado! Now I've seen everything!\u007F1\u0000\u0007"
+ 15: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x0048 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
+ 17: 0x0057 [0x01] GOTO 0x00A6
+ 18: 0x005A [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00A6
+ 19: 0x0062 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
+ 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=6781*)
+    → "Hey, listen up! I saw something absolutely unberry-lievable!\u0007It was a ghost! Yes, a spooky-creepy specter!\u0007I saw it just outside town!\u007F1\u0000\u0007"
+ 21: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 22: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=6782*)
+    → "It looked like it wanted to drifty-wift right through the gates and start spookifying people.\u0007Can you believe that?\u007F1\u0000\u0007"
+ 23: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 24: 0x0079 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
+ 25: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=6783*)
+    → "And it kept jumble-mumbling something about \u00072eframard\u00073 and \u00072revenge.\u00073 It must be one of those spiteful spirits bent on vengeance!\u007F1\u0000\u0007"
+ 26: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=6784*)
+    → "Brrr!\u0007I wonder what \u00072eframard\u00073 means...\u0007I'm kinda curious...but not curious enough to want to see that ghastly ghosty again!\u007F1\u0000\u0007"
+ 28: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 29: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=6785*)
+    → "Maybe you'll meet it if you winder-wander outside!\u0007Spiteful spirits...brrr!\u007F1\u0000\u0007"
+ 30: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 31: 0x0094 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
+ 32: 0x00A3 [0x01] GOTO 0x00A6
+
+SUBROUTINE_00A6:
+ 33: 0x00A6 [0x1C] WAIT(30* ticks)
+ 34: 0x00A9 [0x21] END_EVENT
+ 35: 0x00AA [0x00] END_REQSTACK()
+```

@@ -1,0 +1,2858 @@
+# 16982162 - Abda-Lurabda
+
+## Common Data
+
+| Field            | Value                          |
+|------------------|--------------------------------|
+| Zone             | Aht Urhgan Whitegate2 (ID: 50) |
+| Block Size       | 2272 bytes                     |
+| Total Events     | 109                            |
+| References Count | 45                             |
+
+## List of Events
+
+| Event ID                    | Entrypoint   |   Size |   Instructions |
+|-----------------------------|--------------|--------|----------------|
+| [65535](#event-65535)       | 0x0000       |      1 |              1 |
+| [65535.1](#event-65535-1)   | 0x0001       |     16 |              2 |
+| [65535.2](#event-65535-2)   | 0x0011       |     42 |              4 |
+| [65535.3](#event-65535-3)   | 0x003B       |     16 |              2 |
+| [65535.4](#event-65535-4)   | 0x004B       |     14 |              2 |
+| [65535.5](#event-65535-5)   | 0x0059       |     16 |              2 |
+| [65535.6](#event-65535-6)   | 0x0069       |     14 |              2 |
+| [65535.7](#event-65535-7)   | 0x0077       |     16 |              2 |
+| [65535.8](#event-65535-8)   | 0x0087       |     14 |              2 |
+| [65535.9](#event-65535-9)   | 0x0095       |     16 |              2 |
+| [65535.10](#event-65535-10) | 0x00A5       |     14 |              2 |
+| [65535.11](#event-65535-11) | 0x00B3       |     16 |              2 |
+| [65535.12](#event-65535-12) | 0x00C3       |     14 |              2 |
+| [65535.13](#event-65535-13) | 0x00D1       |     16 |              2 |
+| [65535.14](#event-65535-14) | 0x00E1       |     14 |              2 |
+| [65535.15](#event-65535-15) | 0x00EF       |     16 |              2 |
+| [65535.16](#event-65535-16) | 0x00FF       |     14 |              2 |
+| [65535.17](#event-65535-17) | 0x010D       |     16 |              2 |
+| [65535.18](#event-65535-18) | 0x011D       |     14 |              2 |
+| [65535.19](#event-65535-19) | 0x012B       |     16 |              2 |
+| [65535.20](#event-65535-20) | 0x013B       |     22 |              4 |
+| [65535.21](#event-65535-21) | 0x0151       |     16 |              2 |
+| [65535.22](#event-65535-22) | 0x0161       |     14 |              2 |
+| [65535.23](#event-65535-23) | 0x016F       |     16 |              2 |
+| [65535.24](#event-65535-24) | 0x017F       |     14 |              2 |
+| [65535.25](#event-65535-25) | 0x018D       |     16 |              2 |
+| [65535.26](#event-65535-26) | 0x019D       |     22 |              4 |
+| [65535.27](#event-65535-27) | 0x01B3       |     16 |              2 |
+| [65535.28](#event-65535-28) | 0x01C3       |     14 |              2 |
+| [65535.29](#event-65535-29) | 0x01D1       |     16 |              2 |
+| [65535.30](#event-65535-30) | 0x01E1       |     14 |              2 |
+| [65535.31](#event-65535-31) | 0x01EF       |     16 |              2 |
+| [65535.32](#event-65535-32) | 0x01FF       |     14 |              2 |
+| [65535.33](#event-65535-33) | 0x020D       |     16 |              2 |
+| [65535.34](#event-65535-34) | 0x021D       |     14 |              2 |
+| [65535.35](#event-65535-35) | 0x022B       |     16 |              2 |
+| [65535.36](#event-65535-36) | 0x023B       |     14 |              2 |
+| [65535.37](#event-65535-37) | 0x0249       |     16 |              2 |
+| [65535.38](#event-65535-38) | 0x0259       |     14 |              2 |
+| [65535.39](#event-65535-39) | 0x0267       |     16 |              2 |
+| [65535.40](#event-65535-40) | 0x0277       |     14 |              2 |
+| [65535.41](#event-65535-41) | 0x0285       |     16 |              2 |
+| [65535.42](#event-65535-42) | 0x0295       |     22 |              4 |
+| [65535.43](#event-65535-43) | 0x02AB       |     44 |              4 |
+| [65535.44](#event-65535-44) | 0x02D7       |     16 |              2 |
+| [65535.45](#event-65535-45) | 0x02E7       |     14 |              2 |
+| [65535.46](#event-65535-46) | 0x02F5       |     18 |              4 |
+| [65535.47](#event-65535-47) | 0x0307       |     18 |              4 |
+| [65535.48](#event-65535-48) | 0x0319       |     18 |              4 |
+| [65535.49](#event-65535-49) | 0x032B       |     18 |              4 |
+| [65535.50](#event-65535-50) | 0x033D       |     18 |              4 |
+| [65535.51](#event-65535-51) | 0x034F       |     27 |              3 |
+| [65535.52](#event-65535-52) | 0x036A       |      9 |              3 |
+| [65535.53](#event-65535-53) | 0x0373       |     16 |              2 |
+| [65535.54](#event-65535-54) | 0x0383       |     14 |              2 |
+| [65535.55](#event-65535-55) | 0x0391       |     16 |              2 |
+| [65535.56](#event-65535-56) | 0x03A1       |     14 |              2 |
+| [65535.57](#event-65535-57) | 0x03AF       |     16 |              2 |
+| [65535.58](#event-65535-58) | 0x03BF       |     14 |              2 |
+| [65535.59](#event-65535-59) | 0x03CD       |     16 |              2 |
+| [65535.60](#event-65535-60) | 0x03DD       |     14 |              2 |
+| [65535.61](#event-65535-61) | 0x03EB       |     16 |              2 |
+| [65535.62](#event-65535-62) | 0x03FB       |     14 |              2 |
+| [65535.63](#event-65535-63) | 0x0409       |     16 |              2 |
+| [65535.64](#event-65535-64) | 0x0419       |     14 |              2 |
+| [65535.65](#event-65535-65) | 0x0427       |     16 |              2 |
+| [65535.66](#event-65535-66) | 0x0437       |     14 |              2 |
+| [65535.67](#event-65535-67) | 0x0445       |     16 |              2 |
+| [65535.68](#event-65535-68) | 0x0455       |     14 |              2 |
+| [65535.69](#event-65535-69) | 0x0463       |     16 |              2 |
+| [65535.70](#event-65535-70) | 0x0473       |     14 |              2 |
+| [65535.71](#event-65535-71) | 0x0481       |     16 |              2 |
+| [65535.72](#event-65535-72) | 0x0491       |     14 |              2 |
+| [65535.73](#event-65535-73) | 0x049F       |     16 |              2 |
+| [65535.74](#event-65535-74) | 0x04AF       |     14 |              2 |
+| [65535.75](#event-65535-75) | 0x04BD       |     16 |              2 |
+| [65535.76](#event-65535-76) | 0x04CD       |     14 |              2 |
+| [65535.77](#event-65535-77) | 0x04DB       |     16 |              2 |
+| [65535.78](#event-65535-78) | 0x04EB       |     14 |              2 |
+| [65535.79](#event-65535-79) | 0x04F9       |     16 |              2 |
+| [65535.80](#event-65535-80) | 0x0509       |     14 |              2 |
+| [180](#event-180)           | 0x0517       |      1 |              1 |
+| [65535.81](#event-65535-81) | 0x0518       |     22 |              8 |
+| [181](#event-181)           | 0x052E       |      1 |              1 |
+| [65535.82](#event-65535-82) | 0x052F       |     22 |              8 |
+| [183](#event-183)           | 0x0545       |      1 |              1 |
+| [186](#event-186)           | 0x0546       |      1 |              1 |
+| [65535.83](#event-65535-83) | 0x0547       |     22 |              8 |
+| [65535.84](#event-65535-84) | 0x055D       |     54 |             10 |
+| [187](#event-187)           | 0x0593       |      1 |              1 |
+| [189](#event-189)           | 0x0594       |      1 |              1 |
+| [192](#event-192)           | 0x0595       |      1 |              1 |
+| [65535.85](#event-65535-85) | 0x0596       |     26 |              8 |
+| [193](#event-193)           | 0x05B0       |      1 |              1 |
+| [194](#event-194)           | 0x05B1       |      1 |              1 |
+| [65535.86](#event-65535-86) | 0x05B2       |     15 |              5 |
+| [65535.87](#event-65535-87) | 0x05C1       |     43 |              7 |
+| [65535.88](#event-65535-88) | 0x05EC       |     22 |              8 |
+| [65535.89](#event-65535-89) | 0x0602       |     15 |              5 |
+| [65535.90](#event-65535-90) | 0x0611       |     15 |              5 |
+| [196](#event-196)           | 0x0620       |      1 |              1 |
+| [208](#event-208)           | 0x0621       |      1 |              1 |
+| [65535.91](#event-65535-91) | 0x0622       |     22 |              8 |
+| [65535.92](#event-65535-92) | 0x0638       |     22 |              8 |
+| [210](#event-210)           | 0x064E       |      1 |              1 |
+| [212](#event-212)           | 0x064F       |      1 |              1 |
+| [213](#event-213)           | 0x0650       |      1 |              1 |
+| [215](#event-215)           | 0x0651       |      1 |              1 |
+| [65535.93](#event-65535-93) | 0x0652       |     22 |              8 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0028      |          40 |
+|       1 | 0x0029      |          41 |
+|       2 | 0x003C      |          60 |
+|       3 | 0x002A      |          42 |
+|       4 | 0x0001      |           1 |
+|       5 | 0x0007      |           7 |
+|       6 | 0x0006      |           6 |
+|       7 | 0x0008      |           8 |
+|       8 | 0x000D      |          13 |
+|       9 | 0x002B      |          43 |
+|      10 | 0x01AE      |         430 |
+|      11 | 0x01AF      |         431 |
+|      12 | 0x002E      |          46 |
+|      13 | 0x0031      |          49 |
+|      14 | 0x83BE      |       33726 |
+|      15 | 0xB73E      |       46910 |
+|      16 | 0xFFFFE3DD  |  4294960093 |
+|      17 | 0x867D      |       34429 |
+|      18 | 0xCFFD      |       53245 |
+|      19 | 0xFFFFE184  |  4294959492 |
+|      20 | 0x8E44      |       36420 |
+|      21 | 0xC87A      |       51322 |
+|      22 | 0x8F76      |       36726 |
+|      23 | 0xDFF5      |       57333 |
+|      24 | 0x8F08      |       36616 |
+|      25 | 0xAFD8      |       45016 |
+|      26 | 0x08BD      |        2237 |
+|      27 | 0x951B      |       38171 |
+|      28 | 0x0000      |           0 |
+|      29 | 0x23D7E     |      146814 |
+|      30 | 0x063F      |        1599 |
+|      31 | 0xFFFFF831  |  4294965297 |
+|      32 | 0x24251     |      148049 |
+|      33 | 0x06B8      |        1720 |
+|      34 | 0xFFFFF830  |  4294965296 |
+|      35 | 0x240CC     |      147660 |
+|      36 | 0x06DD      |        1757 |
+|      37 | 0x21D97     |      138647 |
+|      38 | 0x03F5      |        1013 |
+|      39 | 0x8CBC      |       36028 |
+|      40 | 0xD003      |       53251 |
+|      41 | 0x8D40      |       36160 |
+|      42 | 0xD4A6      |       54438 |
+|      43 | 0x8E7E      |       36478 |
+|      44 | 0xD16A      |       53610 |
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    66 00 80 F8 FF FF 7F  F8 FF FF 7F 74 6C 6B 30   f..........tlk0
+0010: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x0010 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0011   |
+| Data Size    | 42 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:    53 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 66 00   S........tlk0f.
+0020: 80 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 31 53 F8 FF  .........tlk1S..
+0030: FF 7F F8 FF FF 7F 74 6C  6B 31 00                 ......tlk1.     
+```
+
+#### Opcodes
+
+```
+  0: 0x0011 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
+  1: 0x001E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
+  2: 0x002D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
+  3: 0x003A [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x003B   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:                                   66 00 80 F8 FF             f....
+0040: FF 7F F8 FF FF 7F 74 68  6B 31 00                 ......thk1.     
+```
+
+#### Opcodes
+
+```
+  0: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
+  1: 0x004A [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x004B   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040:                                   53 F8 FF FF 7F             S....
+0050: F8 FF FF 7F 74 68 6B 31  00                       ....thk1.       
+```
+
+#### Opcodes
+
+```
+  0: 0x004B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
+  1: 0x0058 [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0059   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:                             66 00 80 F8 FF FF 7F           f......
+0060: F8 FF FF 7F 74 68 6B 32  00                       ....thk2.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0059 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
+  1: 0x0068 [0x00] END_REQSTACK()
+```
+
+### Event 65535.6
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0069   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0060:                             53 F8 FF FF 7F F8 FF           S......
+0070: FF 7F 74 68 6B 32 00                              ..thk2.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0069 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
+  1: 0x0076 [0x00] END_REQSTACK()
+```
+
+### Event 65535.7
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0077   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0070:                      66  01 80 F8 FF FF 7F F8 FF         f........
+0080: FF 7F 73 68 6B 30 00                              ..shk0.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0077 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "shk0" with entities [EventEntity, EventEntity], work=41*
+  1: 0x0086 [0x00] END_REQSTACK()
+```
+
+### Event 65535.8
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0087   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0080:                      53  F8 FF FF 7F F8 FF FF 7F         S........
+0090: 73 68 6B 30 00                                    shk0.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0087 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "shk0" with entities [EventEntity, EventEntity]
+  1: 0x0094 [0x00] END_REQSTACK()
+```
+
+### Event 65535.9
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0095   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0090:                66 00 80  F8 FF FF 7F F8 FF FF 7F       f..........
+00A0: 64 69 73 30 00                                    dis0.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0095 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x00A4 [0x00] END_REQSTACK()
+```
+
+### Event 65535.10
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00A5   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00A0:                53 F8 FF  FF 7F F8 FF FF 7F 64 69       S........di
+00B0: 73 30 00                                          s0.             
+```
+
+#### Opcodes
+
+```
+  0: 0x00A5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
+  1: 0x00B2 [0x00] END_REQSTACK()
+```
+
+### Event 65535.11
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00B3   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00B0:          66 00 80 F8 FF  FF 7F F8 FF FF 7F 70 6F     f..........po
+00C0: 69 30 00                                          i0.             
+```
+
+#### Opcodes
+
+```
+  0: 0x00B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x00C2 [0x00] END_REQSTACK()
+```
+
+### Event 65535.12
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00C3   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00C0:          53 F8 FF FF 7F  F8 FF FF 7F 70 6F 69 30     S........poi0
+00D0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x00C3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]
+  1: 0x00D0 [0x00] END_REQSTACK()
+```
+
+### Event 65535.13
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00D1   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00D0:    66 00 80 F8 FF FF 7F  F8 FF FF 7F 70 61 73 30   f..........pas0
+00E0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x00E0 [0x00] END_REQSTACK()
+```
+
+### Event 65535.14
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00E1   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00E0:    53 F8 FF FF 7F F8 FF  FF 7F 70 61 73 30 00      S........pas0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x00E1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
+  1: 0x00EE [0x00] END_REQSTACK()
+```
+
+### Event 65535.15
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00EF   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00E0:                                               66                 f
+00F0: 00 80 F8 FF FF 7F F8 FF  FF 7F 73 79 75 30 00     ..........syu0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x00FE [0x00] END_REQSTACK()
+```
+
+### Event 65535.16
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00FF   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00F0:                                               53                 S
+0100: F8 FF FF 7F F8 FF FF 7F  73 79 75 30 00           ........syu0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x00FF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "syu0" with entities [EventEntity, EventEntity]
+  1: 0x010C [0x00] END_REQSTACK()
+```
+
+### Event 65535.17
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x010D   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0100:                                         66 00 80               f..
+0110: F8 FF FF 7F F8 FF FF 7F  77 61 76 30 00           ........wav0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x010D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wav0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x011C [0x00] END_REQSTACK()
+```
+
+### Event 65535.18
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x011D   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0110:                                         53 F8 FF               S..
+0120: FF 7F F8 FF FF 7F 77 61  76 30 00                 ......wav0.     
+```
+
+#### Opcodes
+
+```
+  0: 0x011D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wav0" with entities [EventEntity, EventEntity]
+  1: 0x012A [0x00] END_REQSTACK()
+```
+
+### Event 65535.19
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x012B   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0120:                                   66 01 80 F8 FF             f....
+0130: FF 7F F8 FF FF 7F 65 68  6E 30 00                 ......ehn0.     
+```
+
+#### Opcodes
+
+```
+  0: 0x012B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [EventEntity, EventEntity], work=41*
+  1: 0x013A [0x00] END_REQSTACK()
+```
+
+### Event 65535.20
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x013B   |
+| Data Size    | 22 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0130:                                   53 F8 FF FF 7F             S....
+0140: F8 FF FF 7F 65 68 6E 30  5E 69 64 6C 30 1C 02 80  ....ehn0^idl0...
+0150: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x013B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ehn0" with entities [EventEntity, EventEntity]
+  1: 0x0148 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+  2: 0x014D [0x1C] WAIT(60* ticks)
+  3: 0x0150 [0x00] END_REQSTACK()
+```
+
+### Event 65535.21
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0151   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0150:    66 01 80 F8 FF FF 7F  F8 FF FF 7F 65 68 6E 31   f..........ehn1
+0160: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0151 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn1" with entities [EventEntity, EventEntity], work=41*
+  1: 0x0160 [0x00] END_REQSTACK()
+```
+
+### Event 65535.22
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0161   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0160:    53 F8 FF FF 7F F8 FF  FF 7F 65 68 6E 31 00      S........ehn1. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0161 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ehn1" with entities [EventEntity, EventEntity]
+  1: 0x016E [0x00] END_REQSTACK()
+```
+
+### Event 65535.23
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x016F   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0160:                                               66                 f
+0170: 03 80 F8 FF FF 7F F8 FF  FF 7F 6D 73 75 30 00     ..........msu0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x016F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "msu0" with entities [EventEntity, EventEntity], work=42*
+  1: 0x017E [0x00] END_REQSTACK()
+```
+
+### Event 65535.24
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x017F   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0170:                                               53                 S
+0180: F8 FF FF 7F F8 FF FF 7F  6D 73 75 30 00           ........msu0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x017F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "msu0" with entities [EventEntity, EventEntity]
+  1: 0x018C [0x00] END_REQSTACK()
+```
+
+### Event 65535.25
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x018D   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0180:                                         66 03 80               f..
+0190: F8 FF FF 7F F8 FF FF 7F  6D 73 75 31 00           ........msu1.   
+```
+
+#### Opcodes
+
+```
+  0: 0x018D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "msu1" with entities [EventEntity, EventEntity], work=42*
+  1: 0x019C [0x00] END_REQSTACK()
+```
+
+### Event 65535.26
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x019D   |
+| Data Size    | 22 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0190:                                         53 F8 FF               S..
+01A0: FF 7F F8 FF FF 7F 6D 73  75 31 5E 69 64 6C 30 1C  ......msu1^idl0.
+01B0: 02 80 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x019D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "msu1" with entities [EventEntity, EventEntity]
+  1: 0x01AA [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+  2: 0x01AF [0x1C] WAIT(60* ticks)
+  3: 0x01B2 [0x00] END_REQSTACK()
+```
+
+### Event 65535.27
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01B3   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01B0:          66 01 80 F8 FF  FF 7F F8 FF FF 7F 67 68     f..........gh
+01C0: 6E 31 00                                          n1.             
+```
+
+#### Opcodes
+
+```
+  0: 0x01B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
+  1: 0x01C2 [0x00] END_REQSTACK()
+```
+
+### Event 65535.28
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01C3   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01C0:          53 F8 FF FF 7F  F8 FF FF 7F 67 68 6E 31     S........ghn1
+01D0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x01C3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
+  1: 0x01D0 [0x00] END_REQSTACK()
+```
+
+### Event 65535.29
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01D1   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01D0:    66 00 80 F8 FF FF 7F  F8 FF FF 7F 69 72 6F 30   f..........iro0
+01E0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x01D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "iro0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x01E0 [0x00] END_REQSTACK()
+```
+
+### Event 65535.30
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01E1   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01E0:    53 F8 FF FF 7F F8 FF  FF 7F 69 72 6F 30 00      S........iro0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x01E1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "iro0" with entities [EventEntity, EventEntity]
+  1: 0x01EE [0x00] END_REQSTACK()
+```
+
+### Event 65535.31
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01EF   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01E0:                                               66                 f
+01F0: 00 80 F8 FF FF 7F F8 FF  FF 7F 77 61 69 30 00     ..........wai0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x01EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x01FE [0x00] END_REQSTACK()
+```
+
+### Event 65535.32
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x01FF   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+01F0:                                               53                 S
+0200: F8 FF FF 7F F8 FF FF 7F  77 61 69 30 00           ........wai0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x01FF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
+  1: 0x020C [0x00] END_REQSTACK()
+```
+
+### Event 65535.33
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x020D   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0200:                                         66 03 80               f..
+0210: F8 FF FF 7F F8 FF FF 7F  62 69 6B 30 00           ........bik0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x020D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "bik0" with entities [EventEntity, EventEntity], work=42*
+  1: 0x021C [0x00] END_REQSTACK()
+```
+
+### Event 65535.34
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x021D   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0210:                                         53 F8 FF               S..
+0220: FF 7F F8 FF FF 7F 62 69  6B 30 00                 ......bik0.     
+```
+
+#### Opcodes
+
+```
+  0: 0x021D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bik0" with entities [EventEntity, EventEntity]
+  1: 0x022A [0x00] END_REQSTACK()
+```
+
+### Event 65535.35
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x022B   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0220:                                   66 03 80 F8 FF             f....
+0230: FF 7F F8 FF FF 7F 62 69  6B 31 00                 ......bik1.     
+```
+
+#### Opcodes
+
+```
+  0: 0x022B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "bik1" with entities [EventEntity, EventEntity], work=42*
+  1: 0x023A [0x00] END_REQSTACK()
+```
+
+### Event 65535.36
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x023B   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0230:                                   53 F8 FF FF 7F             S....
+0240: F8 FF FF 7F 62 69 6B 31  00                       ....bik1.       
+```
+
+#### Opcodes
+
+```
+  0: 0x023B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bik1" with entities [EventEntity, EventEntity]
+  1: 0x0248 [0x00] END_REQSTACK()
+```
+
+### Event 65535.37
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0249   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0240:                             66 00 80 F8 FF FF 7F           f......
+0250: F8 FF FF 7F 67 6B 72 30  00                       ....gkr0.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0249 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x0258 [0x00] END_REQSTACK()
+```
+
+### Event 65535.38
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0259   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0250:                             53 F8 FF FF 7F F8 FF           S......
+0260: FF 7F 67 6B 72 30 00                              ..gkr0.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0259 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gkr0" with entities [EventEntity, EventEntity]
+  1: 0x0266 [0x00] END_REQSTACK()
+```
+
+### Event 65535.39
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0267   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0260:                      66  00 80 F8 FF FF 7F F8 FF         f........
+0270: FF 7F 67 6B 72 31 00                              ..gkr1.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0267 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr1" with entities [EventEntity, EventEntity], work=40*
+  1: 0x0276 [0x00] END_REQSTACK()
+```
+
+### Event 65535.40
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0277   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0270:                      53  F8 FF FF 7F F8 FF FF 7F         S........
+0280: 67 6B 72 31 00                                    gkr1.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0277 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gkr1" with entities [EventEntity, EventEntity]
+  1: 0x0284 [0x00] END_REQSTACK()
+```
+
+### Event 65535.41
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0285   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0280:                66 01 80  F8 FF FF 7F F8 FF FF 7F       f..........
+0290: 6F 68 68 30 00                                    ohh0.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0285 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh0" with entities [EventEntity, EventEntity], work=41*
+  1: 0x0294 [0x00] END_REQSTACK()
+```
+
+### Event 65535.42
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0295   |
+| Data Size    | 22 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0290:                53 F8 FF  FF 7F F8 FF FF 7F 6F 68       S........oh
+02A0: 68 30 5E 69 64 6C 30 1C  02 80 00                 h0^idl0....     
+```
+
+#### Opcodes
+
+```
+  0: 0x0295 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ohh0" with entities [EventEntity, EventEntity]
+  1: 0x02A2 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+  2: 0x02A7 [0x1C] WAIT(60* ticks)
+  3: 0x02AA [0x00] END_REQSTACK()
+```
+
+### Event 65535.43
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x02AB   |
+| Data Size    | 44 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02A0:                                   66 01 80 F8 FF             f....
+02B0: FF 7F F8 FF FF 7F 73 68  6B 30 53 F8 FF FF 7F F8  ......shk0S.....
+02C0: FF FF 7F 73 68 6B 30 66  00 80 F8 FF FF 7F F8 FF  ...shk0f........
+02D0: FF 7F 7A 69 74 30 00                              ..zit0.         
+```
+
+#### Opcodes
+
+```
+  0: 0x02AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "shk0" with entities [EventEntity, EventEntity], work=41*
+  1: 0x02BA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "shk0" with entities [EventEntity, EventEntity]
+  2: 0x02C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
+  3: 0x02D6 [0x00] END_REQSTACK()
+```
+
+### Event 65535.44
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x02D7   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02D0:                      66  00 80 F8 FF FF 7F F8 FF         f........
+02E0: FF 7F 7A 69 74 30 00                              ..zit0.         
+```
+
+#### Opcodes
+
+```
+  0: 0x02D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x02E6 [0x00] END_REQSTACK()
+```
+
+### Event 65535.45
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x02E7   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02E0:                      53  F8 FF FF 7F F8 FF FF 7F         S........
+02F0: 7A 69 74 30 00                                    zit0.           
+```
+
+#### Opcodes
+
+```
+  0: 0x02E7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
+  1: 0x02F4 [0x00] END_REQSTACK()
+```
+
+### Event 65535.46
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x02F5   |
+| Data Size    | 18 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+02F0:                6E F8 FF  FF 7F 04 80 99 F8 FF FF       n..........
+0300: 7F 99 F8 FF FF 7F 00                              .......         
+```
+
+#### Opcodes
+
+```
+  0: 0x02F5 [0x6E] EventEntity uses emote 1*
+  1: 0x02FC [0x99] Wait for EventEntity animation to complete
+  2: 0x0301 [0x99] Wait for EventEntity animation to complete
+  3: 0x0306 [0x00] END_REQSTACK()
+```
+
+### Event 65535.47
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0307   |
+| Data Size    | 18 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0300:                      6E  F8 FF FF 7F 05 80 99 F8         n........
+0310: FF FF 7F 99 F8 FF FF 7F  00                       .........       
+```
+
+#### Opcodes
+
+```
+  0: 0x0307 [0x6E] EventEntity uses emote 7*
+  1: 0x030E [0x99] Wait for EventEntity animation to complete
+  2: 0x0313 [0x99] Wait for EventEntity animation to complete
+  3: 0x0318 [0x00] END_REQSTACK()
+```
+
+### Event 65535.48
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0319   |
+| Data Size    | 18 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0310:                             6E F8 FF FF 7F 06 80           n......
+0320: 99 F8 FF FF 7F 99 F8 FF  FF 7F 00                 ...........     
+```
+
+#### Opcodes
+
+```
+  0: 0x0319 [0x6E] EventEntity uses emote 6*
+  1: 0x0320 [0x99] Wait for EventEntity animation to complete
+  2: 0x0325 [0x99] Wait for EventEntity animation to complete
+  3: 0x032A [0x00] END_REQSTACK()
+```
+
+### Event 65535.49
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x032B   |
+| Data Size    | 18 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0320:                                   6E F8 FF FF 7F             n....
+0330: 07 80 99 F8 FF FF 7F 99  F8 FF FF 7F 00           .............   
+```
+
+#### Opcodes
+
+```
+  0: 0x032B [0x6E] EventEntity uses emote 8*
+  1: 0x0332 [0x99] Wait for EventEntity animation to complete
+  2: 0x0337 [0x99] Wait for EventEntity animation to complete
+  3: 0x033C [0x00] END_REQSTACK()
+```
+
+### Event 65535.50
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x033D   |
+| Data Size    | 18 bytes |
+| Instructions | 4        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0330:                                         6E F8 FF               n..
+0340: FF 7F 08 80 99 F8 FF FF  7F 99 F8 FF FF 7F 00     ............... 
+```
+
+#### Opcodes
+
+```
+  0: 0x033D [0x6E] EventEntity uses emote 13*
+  1: 0x0344 [0x99] Wait for EventEntity animation to complete
+  2: 0x0349 [0x99] Wait for EventEntity animation to complete
+  3: 0x034E [0x00] END_REQSTACK()
+```
+
+### Event 65535.51
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x034F   |
+| Data Size    | 27 bytes |
+| Instructions | 3        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0340:                                               2C                 ,
+0350: F8 FF FF 7F F8 FF FF 7F  64 65 61 64 53 F8 FF FF  ........deadS...
+0360: 7F F8 FF FF 7F 64 65 61  64 00                    .....dead.      
+```
+
+#### Opcodes
+
+```
+  0: 0x034F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [EventEntity, EventEntity]
+  1: 0x035C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dead" with entities [EventEntity, EventEntity]
+  2: 0x0369 [0x00] END_REQSTACK()
+```
+
+### Event 65535.52
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x036A  |
+| Data Size    | 9 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0360:                                5E 69 64 6C 30 1C            ^idl0.
+0370: 02 80 00                                          ...             
+```
+
+#### Opcodes
+
+```
+  0: 0x036A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+  1: 0x036F [0x1C] WAIT(60* ticks)
+  2: 0x0372 [0x00] END_REQSTACK()
+```
+
+### Event 65535.53
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0373   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0370:          66 01 80 F8 FF  FF 7F F8 FF FF 7F 63 61     f..........ca
+0380: 62 6B 00                                          bk.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0373 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cabk" with entities [EventEntity, EventEntity], work=41*
+  1: 0x0382 [0x00] END_REQSTACK()
+```
+
+### Event 65535.54
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0383   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0380:          53 F8 FF FF 7F  F8 FF FF 7F 63 61 62 6B     S........cabk
+0390: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0383 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "cabk" with entities [EventEntity, EventEntity]
+  1: 0x0390 [0x00] END_REQSTACK()
+```
+
+### Event 65535.55
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0391   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0390:    66 09 80 F8 FF FF 7F  F8 FF FF 7F 73 70 65 66   f..........spef
+03A0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0391 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "spef" with entities [EventEntity, EventEntity], work=43*
+  1: 0x03A0 [0x00] END_REQSTACK()
+```
+
+### Event 65535.56
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x03A1   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03A0:    53 F8 FF FF 7F F8 FF  FF 7F 73 70 65 66 00      S........spef. 
+```
+
+#### Opcodes
+
+```
+  0: 0x03A1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "spef" with entities [EventEntity, EventEntity]
+  1: 0x03AE [0x00] END_REQSTACK()
+```
+
+### Event 65535.57
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x03AF   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03A0:                                               5B                 [
+03B0: 0A 80 F8 FF FF 7F F8 FF  FF 7F 6F 6B 69 72 00     ..........okir. 
+```
+
+#### Opcodes
+
+```
+  0: 0x03AF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "okir" with entities [EventEntity, EventEntity], work=430*
+  1: 0x03BE [0x00] END_REQSTACK()
+```
+
+### Event 65535.58
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x03BF   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03B0:                                               53                 S
+03C0: F8 FF FF 7F F8 FF FF 7F  6F 6B 69 72 00           ........okir.   
+```
+
+#### Opcodes
+
+```
+  0: 0x03BF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "okir" with entities [EventEntity, EventEntity]
+  1: 0x03CC [0x00] END_REQSTACK()
+```
+
+### Event 65535.59
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x03CD   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03C0:                                         5B 0B 80               [..
+03D0: F8 FF FF 7F F8 FF FF 7F  75 73 69 30 00           ........usi0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x03CD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "usi0" with entities [EventEntity, EventEntity], work=431*
+  1: 0x03DC [0x00] END_REQSTACK()
+```
+
+### Event 65535.60
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x03DD   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03D0:                                         53 F8 FF               S..
+03E0: FF 7F F8 FF FF 7F 75 73  69 30 00                 ......usi0.     
+```
+
+#### Opcodes
+
+```
+  0: 0x03DD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "usi0" with entities [EventEntity, EventEntity]
+  1: 0x03EA [0x00] END_REQSTACK()
+```
+
+### Event 65535.61
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x03EB   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03E0:                                   5B 0B 80 F8 FF             [....
+03F0: FF 7F F8 FF FF 7F 75 73  69 31 00                 ......usi1.     
+```
+
+#### Opcodes
+
+```
+  0: 0x03EB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "usi1" with entities [EventEntity, EventEntity], work=431*
+  1: 0x03FA [0x00] END_REQSTACK()
+```
+
+### Event 65535.62
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x03FB   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+03F0:                                   53 F8 FF FF 7F             S....
+0400: F8 FF FF 7F 75 73 69 31  00                       ....usi1.       
+```
+
+#### Opcodes
+
+```
+  0: 0x03FB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "usi1" with entities [EventEntity, EventEntity]
+  1: 0x0408 [0x00] END_REQSTACK()
+```
+
+### Event 65535.63
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0409   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0400:                             66 03 80 F8 FF FF 7F           f......
+0410: F8 FF FF 7F 74 65 68 30  00                       ....teh0.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0409 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "teh0" with entities [EventEntity, EventEntity], work=42*
+  1: 0x0418 [0x00] END_REQSTACK()
+```
+
+### Event 65535.64
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0419   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0410:                             53 F8 FF FF 7F F8 FF           S......
+0420: FF 7F 74 65 68 30 00                              ..teh0.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0419 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "teh0" with entities [EventEntity, EventEntity]
+  1: 0x0426 [0x00] END_REQSTACK()
+```
+
+### Event 65535.65
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0427   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0420:                      66  03 80 F8 FF FF 7F F8 FF         f........
+0430: FF 7F 74 65 68 31 00                              ..teh1.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0427 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "teh1" with entities [EventEntity, EventEntity], work=42*
+  1: 0x0436 [0x00] END_REQSTACK()
+```
+
+### Event 65535.66
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0437   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0430:                      53  F8 FF FF 7F F8 FF FF 7F         S........
+0440: 74 65 68 31 00                                    teh1.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0437 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "teh1" with entities [EventEntity, EventEntity]
+  1: 0x0444 [0x00] END_REQSTACK()
+```
+
+### Event 65535.67
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0445   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0440:                66 0C 80  F8 FF FF 7F F8 FF FF 7F       f..........
+0450: 6D 64 71 30 00                                    mdq0.           
+```
+
+#### Opcodes
+
+```
+  0: 0x0445 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "mdq0" with entities [EventEntity, EventEntity], work=46*
+  1: 0x0454 [0x00] END_REQSTACK()
+```
+
+### Event 65535.68
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0455   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0450:                53 F8 FF  FF 7F F8 FF FF 7F 6D 64       S........md
+0460: 71 30 00                                          q0.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0455 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "mdq0" with entities [EventEntity, EventEntity]
+  1: 0x0462 [0x00] END_REQSTACK()
+```
+
+### Event 65535.69
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0463   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0460:          66 0C 80 F8 FF  FF 7F F8 FF FF 7F 6D 64     f..........md
+0470: 71 33 00                                          q3.             
+```
+
+#### Opcodes
+
+```
+  0: 0x0463 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "mdq3" with entities [EventEntity, EventEntity], work=46*
+  1: 0x0472 [0x00] END_REQSTACK()
+```
+
+### Event 65535.70
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0473   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0470:          53 F8 FF FF 7F  F8 FF FF 7F 6D 64 71 33     S........mdq3
+0480: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0473 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "mdq3" with entities [EventEntity, EventEntity]
+  1: 0x0480 [0x00] END_REQSTACK()
+```
+
+### Event 65535.71
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0481   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0480:    66 00 80 F8 FF FF 7F  F8 FF FF 7F 6F 62 69 30   f..........obi0
+0490: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0481 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "obi0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x0490 [0x00] END_REQSTACK()
+```
+
+### Event 65535.72
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0491   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0490:    53 F8 FF FF 7F F8 FF  FF 7F 6F 62 69 30 00      S........obi0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0491 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "obi0" with entities [EventEntity, EventEntity]
+  1: 0x049E [0x00] END_REQSTACK()
+```
+
+### Event 65535.73
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x049F   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0490:                                               66                 f
+04A0: 00 80 F8 FF FF 7F F8 FF  FF 7F 6F 62 69 31 00     ..........obi1. 
+```
+
+#### Opcodes
+
+```
+  0: 0x049F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "obi1" with entities [EventEntity, EventEntity], work=40*
+  1: 0x04AE [0x00] END_REQSTACK()
+```
+
+### Event 65535.74
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x04AF   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+04A0:                                               53                 S
+04B0: F8 FF FF 7F F8 FF FF 7F  6F 62 69 31 00           ........obi1.   
+```
+
+#### Opcodes
+
+```
+  0: 0x04AF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "obi1" with entities [EventEntity, EventEntity]
+  1: 0x04BC [0x00] END_REQSTACK()
+```
+
+### Event 65535.75
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x04BD   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+04B0:                                         66 00 80               f..
+04C0: F8 FF FF 7F F8 FF FF 7F  6D 6F 6A 30 00           ........moj0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x04BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "moj0" with entities [EventEntity, EventEntity], work=40*
+  1: 0x04CC [0x00] END_REQSTACK()
+```
+
+### Event 65535.76
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x04CD   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+04C0:                                         53 F8 FF               S..
+04D0: FF 7F F8 FF FF 7F 6D 6F  6A 30 00                 ......moj0.     
+```
+
+#### Opcodes
+
+```
+  0: 0x04CD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "moj0" with entities [EventEntity, EventEntity]
+  1: 0x04DA [0x00] END_REQSTACK()
+```
+
+### Event 65535.77
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x04DB   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+04D0:                                   66 0D 80 F8 FF             f....
+04E0: FF 7F F8 FF FF 7F 73 68  61 30 00                 ......sha0.     
+```
+
+#### Opcodes
+
+```
+  0: 0x04DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [EventEntity, EventEntity], work=49*
+  1: 0x04EA [0x00] END_REQSTACK()
+```
+
+### Event 65535.78
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x04EB   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+04E0:                                   53 F8 FF FF 7F             S....
+04F0: F8 FF FF 7F 73 68 61 30  00                       ....sha0.       
+```
+
+#### Opcodes
+
+```
+  0: 0x04EB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha0" with entities [EventEntity, EventEntity]
+  1: 0x04F8 [0x00] END_REQSTACK()
+```
+
+### Event 65535.79
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x04F9   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+04F0:                             66 0D 80 F8 FF FF 7F           f......
+0500: F8 FF FF 7F 73 68 61 31  00                       ....sha1.       
+```
+
+#### Opcodes
+
+```
+  0: 0x04F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [EventEntity, EventEntity], work=49*
+  1: 0x0508 [0x00] END_REQSTACK()
+```
+
+### Event 65535.80
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0509   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0500:                             53 F8 FF FF 7F F8 FF           S......
+0510: FF 7F 73 68 61 31 00                              ..sha1.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0509 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [EventEntity, EventEntity]
+  1: 0x0516 [0x00] END_REQSTACK()
+```
+
+### Event 180
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0517  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0510:                      00                                  .        
+```
+
+#### Opcodes
+
+```
+  0: 0x0517 [0x00] END_REQSTACK()
+```
+
+### Event 65535.81
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0518   |
+| Data Size    | 22 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0510:                          32 00 80 1F 00 0E 80 0F          2.......
+0520: 80 10 80 1F 01 6F 1E F0  FF FF 7F 6F 70 00        .....o.....op.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0518 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x051B [0x1F] MOVE_ENTITY: EventEntity moves to X=33.726*, Z=46.910*, Y=-7.203*
+  2: 0x0523 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0525 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0526 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  5: 0x052B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x052C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x052D [0x00] END_REQSTACK()
+```
+
+### Event 181
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x052E  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0520:                                            00                   . 
+```
+
+#### Opcodes
+
+```
+  0: 0x052E [0x00] END_REQSTACK()
+```
+
+### Event 65535.82
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x052F   |
+| Data Size    | 22 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0520:                                               32                 2
+0530: 00 80 1F 00 11 80 12 80  13 80 1F 01 6F 1E F0 FF  ............o...
+0540: FF 7F 6F 70 00                                    ..op.           
+```
+
+#### Opcodes
+
+```
+  0: 0x052F [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x0532 [0x1F] MOVE_ENTITY: EventEntity moves to X=34.429*, Z=53.245*, Y=-7.804*
+  2: 0x053A [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x053C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x053D [0x1E] EventEntity looks at LocalPlayer and starts talking
+  5: 0x0542 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x0543 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x0544 [0x00] END_REQSTACK()
+```
+
+### Event 183
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0545  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0540:                00                                      .          
+```
+
+#### Opcodes
+
+```
+  0: 0x0545 [0x00] END_REQSTACK()
+```
+
+### Event 186
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0546  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0540:                   00                                    .         
+```
+
+#### Opcodes
+
+```
+  0: 0x0546 [0x00] END_REQSTACK()
+```
+
+### Event 65535.83
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0547   |
+| Data Size    | 22 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0540:                      32  08 80 1F 00 14 80 15 80         2........
+0550: 13 80 1F 01 6F 1E F0 FF  FF 7F 6F 70 00           ....o.....op.   
+```
+
+#### Opcodes
+
+```
+  0: 0x0547 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x054A [0x1F] MOVE_ENTITY: EventEntity moves to X=36.420*, Z=51.322*, Y=-7.804*
+  2: 0x0552 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0554 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0555 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  5: 0x055A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x055B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x055C [0x00] END_REQSTACK()
+```
+
+### Event 65535.84
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x055D   |
+| Data Size    | 54 bytes |
+| Instructions | 10       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0550:                                         32 00 80               2..
+0560: 1F 00 16 80 17 80 13 80  1F 01 6F 4A F8 FF FF 7F  ..........oJ....
+0570: 95 20 03 01 6F 70 66 00  80 F8 FF FF 7F F8 FF FF  . ..opf.........
+0580: 7F 74 6C 6B 30 53 F8 FF  FF 7F F8 FF FF 7F 74 6C  .tlk0S........tl
+0590: 6B 30 00                                          k0.             
+```
+
+#### Opcodes
+
+```
+  0: 0x055D [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x0560 [0x1F] MOVE_ENTITY: EventEntity moves to X=36.726*, Z=57.333*, Y=-7.804*
+  2: 0x0568 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x056A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x056B [0x4A] EventEntity looks at Ghatsad (ID: 16982165/0x01032095)
+  5: 0x0574 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x0575 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x0576 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
+  8: 0x0585 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
+  9: 0x0592 [0x00] END_REQSTACK()
+```
+
+### Event 187
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0593  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0590:          00                                          .            
+```
+
+#### Opcodes
+
+```
+  0: 0x0593 [0x00] END_REQSTACK()
+```
+
+### Event 189
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0594  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0590:             00                                        .           
+```
+
+#### Opcodes
+
+```
+  0: 0x0594 [0x00] END_REQSTACK()
+```
+
+### Event 192
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0595  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0590:                00                                      .          
+```
+
+#### Opcodes
+
+```
+  0: 0x0595 [0x00] END_REQSTACK()
+```
+
+### Event 65535.85
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0596   |
+| Data Size    | 26 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0590:                   32 08  80 1F 00 18 80 19 80 10        2.........
+05A0: 80 1F 01 6F 4A F8 FF FF  7F 93 20 03 01 6F 70 00  ...oJ..... ..op.
+```
+
+#### Opcodes
+
+```
+  0: 0x0596 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x0599 [0x1F] MOVE_ENTITY: EventEntity moves to X=36.616*, Z=45.016*, Y=-7.203*
+  2: 0x05A1 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x05A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x05A4 [0x4A] EventEntity looks at Tateeya (ID: 16982163/0x01032093)
+  5: 0x05AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x05AE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x05AF [0x00] END_REQSTACK()
+```
+
+### Event 193
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x05B0  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+05B0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x05B0 [0x00] END_REQSTACK()
+```
+
+### Event 194
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x05B1  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+05B0:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x05B1 [0x00] END_REQSTACK()
+```
+
+### Event 65535.86
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x05B2   |
+| Data Size    | 15 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+05B0:       32 08 80 1F 00 1A  80 1B 80 1C 80 1F 01 6F    2............o
+05C0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x05B2 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x05B5 [0x1F] MOVE_ENTITY: EventEntity moves to X=2.237*, Z=38.171*, Y=0.000*
+  2: 0x05BD [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x05BF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x05C0 [0x00] END_REQSTACK()
+```
+
+### Event 65535.87
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x05C1   |
+| Data Size    | 43 bytes |
+| Instructions | 7        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+05C0:    32 00 80 1F 00 1D 80  1E 80 1F 80 1F 01 6F 66   2............of
+05D0: 00 80 F8 FF FF 7F F8 FF  FF 7F 77 61 69 30 53 F8  ..........wai0S.
+05E0: FF FF 7F F8 FF FF 7F 77  61 69 30 00              .......wai0.    
+```
+
+#### Opcodes
+
+```
+  0: 0x05C1 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x05C4 [0x1F] MOVE_ENTITY: EventEntity moves to X=146.814*, Z=1.599*, Y=-1.999*
+  2: 0x05CC [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x05CE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x05CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
+  5: 0x05DE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
+  6: 0x05EB [0x00] END_REQSTACK()
+```
+
+### Event 65535.88
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x05EC   |
+| Data Size    | 22 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+05E0:                                      32 08 80 1F              2...
+05F0: 00 20 80 21 80 22 80 1F  01 6F 1E F0 FF FF 7F 6F  . .!."...o.....o
+0600: 70 00                                             p.              
+```
+
+#### Opcodes
+
+```
+  0: 0x05EC [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x05EF [0x1F] MOVE_ENTITY: EventEntity moves to X=148.049*, Z=1.720*, Y=-2.000*
+  2: 0x05F7 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x05F9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x05FA [0x1E] EventEntity looks at LocalPlayer and starts talking
+  5: 0x05FF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x0600 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x0601 [0x00] END_REQSTACK()
+```
+
+### Event 65535.89
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0602   |
+| Data Size    | 15 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0600:       32 08 80 1F 00 23  80 24 80 22 80 1F 01 6F    2....#.$."...o
+0610: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0602 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x0605 [0x1F] MOVE_ENTITY: EventEntity moves to X=147.660*, Z=1.757*, Y=-2.000*
+  2: 0x060D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x060F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0610 [0x00] END_REQSTACK()
+```
+
+### Event 65535.90
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0611   |
+| Data Size    | 15 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0610:    32 08 80 1F 00 25 80  26 80 22 80 1F 01 6F 00   2....%.&."...o.
+```
+
+#### Opcodes
+
+```
+  0: 0x0611 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x0614 [0x1F] MOVE_ENTITY: EventEntity moves to X=138.647*, Z=1.013*, Y=-2.000*
+  2: 0x061C [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x061E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x061F [0x00] END_REQSTACK()
+```
+
+### Event 196
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0620  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0620: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0620 [0x00] END_REQSTACK()
+```
+
+### Event 208
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0621  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0620:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0621 [0x00] END_REQSTACK()
+```
+
+### Event 65535.91
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0622   |
+| Data Size    | 22 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0620:       32 08 80 1F 00 27  80 28 80 13 80 1F 01 6F    2....'.(.....o
+0630: 1E 95 20 03 01 6F 70 00                           .. ..op.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0622 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x0625 [0x1F] MOVE_ENTITY: EventEntity moves to X=36.028*, Z=53.251*, Y=-7.804*
+  2: 0x062D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x062F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0630 [0x1E] EventEntity looks at Ghatsad (ID: 16982165/0x01032095) and starts talking
+  5: 0x0635 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x0636 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x0637 [0x00] END_REQSTACK()
+```
+
+### Event 65535.92
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0638   |
+| Data Size    | 22 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0630:                          32 08 80 1F 00 29 80 2A          2....).*
+0640: 80 13 80 1F 01 6F 1E F0  FF FF 7F 6F 70 00        .....o.....op.  
+```
+
+#### Opcodes
+
+```
+  0: 0x0638 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x063B [0x1F] MOVE_ENTITY: EventEntity moves to X=36.160*, Z=54.438*, Y=-7.804*
+  2: 0x0643 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0645 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0646 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  5: 0x064B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x064C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x064D [0x00] END_REQSTACK()
+```
+
+### Event 210
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x064E  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0640:                                            00                   . 
+```
+
+#### Opcodes
+
+```
+  0: 0x064E [0x00] END_REQSTACK()
+```
+
+### Event 212
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x064F  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0640:                                               00                 .
+```
+
+#### Opcodes
+
+```
+  0: 0x064F [0x00] END_REQSTACK()
+```
+
+### Event 213
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0650  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0650: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0650 [0x00] END_REQSTACK()
+```
+
+### Event 215
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0651  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0650:    00                                              .              
+```
+
+#### Opcodes
+
+```
+  0: 0x0651 [0x00] END_REQSTACK()
+```
+
+### Event 65535.93
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0652   |
+| Data Size    | 22 bytes |
+| Instructions | 8        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0650:       32 08 80 1F 00 2B  80 2C 80 13 80 1F 01 6F    2....+.,.....o
+0660: 1E 80 22 03 01 6F 70 00                           .."..op.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0652 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x0655 [0x1F] MOVE_ENTITY: EventEntity moves to X=36.478*, Z=53.610*, Y=-7.804*
+  2: 0x065D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x065F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0660 [0x1E] EventEntity looks at Memorian (ID: 16982656/0x01032280) and starts talking
+  5: 0x0665 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  6: 0x0666 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  7: 0x0667 [0x00] END_REQSTACK()
+```
