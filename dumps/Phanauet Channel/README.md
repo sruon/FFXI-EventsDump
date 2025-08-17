@@ -18,10 +18,10 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                       |   Events |
-|------------------|------------------|--------------------------------------------|----------|
-| 0x0100101C       |         16781340 | [Laiteconce](./16781340 - Laiteconce.md)   |        3 |
-| 0x0100101D       |         16781341 | [Luquillaue](./16781341 - Luquillaue.md)   |        3 |
-| 0x0100101F       |         16781343 | [Riche](./16781343 - Riche.md)             |        2 |
-| 0x01001022       |         16781346 | [Ineuteniace](./16781346 - Ineuteniace.md) |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)            |        4 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                           |   Events |
+|------------------|------------------|------------------------------------------------|----------|
+| 0x0100101C       |         16781340 | [Laiteconce](./16781340%20-%20Laiteconce.md)   |        3 |
+| 0x0100101D       |         16781341 | [Luquillaue](./16781341%20-%20Luquillaue.md)   |        3 |
+| 0x0100101F       |         16781343 | [Riche](./16781343%20-%20Riche.md)             |        2 |
+| 0x01001022       |         16781346 | [Ineuteniace](./16781346%20-%20Ineuteniace.md) |        2 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)              |        4 |

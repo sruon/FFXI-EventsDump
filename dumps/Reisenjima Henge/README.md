@@ -18,7 +18,7 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                 |   Events |
-|------------------|------------------|------------------------------------------------------|----------|
-| 0x0112414E       |         17973582 | [Ethereal Ingress](./17973582 - Ethereal Ingress.md) |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)                      |        6 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                       |   Events |
+|------------------|------------------|------------------------------------------------------------|----------|
+| 0x0112414E       |         17973582 | [Ethereal Ingress](./17973582%20-%20Ethereal%20Ingress.md) |        2 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                          |        6 |

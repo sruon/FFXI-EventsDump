@@ -18,62 +18,62 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                   |   Events |
-|------------------|------------------|--------------------------------------------------------|----------|
-| 0x0107D1FB       |         17289723 | [Treasure Casket](./17289723 - Treasure Casket.md)     |        4 |
-| 0x0107D1FC       |         17289724 | [Treasure Casket](./17289724 - Treasure Casket.md)     |        4 |
-| 0x0107D1FD       |         17289725 | [Treasure Casket](./17289725 - Treasure Casket.md)     |        4 |
-| 0x0107D1FE       |         17289726 | [Treasure Casket](./17289726 - Treasure Casket.md)     |        4 |
-| 0x0107D1FF       |         17289727 | [Treasure Casket](./17289727 - Treasure Casket.md)     |        4 |
-| 0x0107D200       |         17289728 | [Treasure Casket](./17289728 - Treasure Casket.md)     |        4 |
-| 0x0107D201       |         17289729 | [Treasure Casket](./17289729 - Treasure Casket.md)     |        4 |
-| 0x0107D202       |         17289730 | [Treasure Casket](./17289730 - Treasure Casket.md)     |        4 |
-| 0x0107D203       |         17289731 | [Treasure Casket](./17289731 - Treasure Casket.md)     |        4 |
-| 0x0107D204       |         17289732 | [Treasure Casket](./17289732 - Treasure Casket.md)     |        4 |
-| 0x0107D205       |         17289733 | [Treasure Casket](./17289733 - Treasure Casket.md)     |        4 |
-| 0x0107D206       |         17289734 | [Treasure Casket](./17289734 - Treasure Casket.md)     |        4 |
-| 0x0107D207       |         17289735 | [Treasure Casket](./17289735 - Treasure Casket.md)     |        4 |
-| 0x0107D208       |         17289736 | [Treasure Casket](./17289736 - Treasure Casket.md)     |        4 |
-| 0x0107D209       |         17289737 | [Treasure Casket](./17289737 - Treasure Casket.md)     |        4 |
-| 0x0107D20A       |         17289738 | [Treasure Casket](./17289738 - Treasure Casket.md)     |        4 |
-| 0x0107D20B       |         17289739 | [Treasure Coffer](./17289739 - Treasure Coffer.md)     |        2 |
-| 0x0107D210       |         17289744 | [(unnamed)](./17289744.md)                             |       10 |
-| 0x0107D211       |         17289745 | [(unnamed)](./17289745.md)                             |        2 |
-| 0x0107D21D       |         17289757 | [EFFECTER](./17289757 - EFFECTER.md)                   |        3 |
-| 0x0107D21E       |         17289758 | [Carbuncle](./17289758 - Carbuncle.md)                 |        3 |
-| 0x0107D21F       |         17289759 | [Talking Doll](./17289759 - Talking Doll.md)           |        2 |
-| 0x0107D22C       |         17289772 | [Cermet Headstone](./17289772 - Cermet Headstone.md)   |        2 |
-| 0x0107D22D       |         17289773 | [Peddlestox](./17289773 - Peddlestox.md)               |        7 |
-| 0x0107D22E       |         17289774 | [Casket](./17289774 - Casket.md)                       |        5 |
-| 0x0107D238       |         17289784 | [(unnamed)](./17289784.md)                             |       15 |
-| 0x0107D239       |         17289785 | [Capacucu](./17289785 - Capacucu.md)                   |        6 |
-| 0x0107D23A       |         17289786 | [Putori-Tutori](./17289786 - Putori-Tutori.md)         |        6 |
-| 0x0107D23B       |         17289787 | [Kilhwch](./17289787 - Kilhwch.md)                     |        6 |
-| 0x0107D23C       |         17289788 | [Mieuseloir](./17289788 - Mieuseloir.md)               |        6 |
-| 0x0107D23D       |         17289789 | [Lhu Mhakaracca](./17289789 - Lhu Mhakaracca.md)       |        6 |
-| 0x0107D23E       |         17289790 | [Xonia](./17289790 - Xonia.md)                         |        6 |
-| 0x0107D23F       |         17289791 | [Fonove](./17289791 - Fonove.md)                       |        6 |
-| 0x0107D240       |         17289792 | [Dzhau Yaam](./17289792 - Dzhau Yaam.md)               |        6 |
-| 0x0107D241       |         17289793 | [Kupalu-Harupalu](./17289793 - Kupalu-Harupalu.md)     |        6 |
-| 0x0107D242       |         17289794 | [Noillurie](./17289794 - Noillurie.md)                 |        6 |
-| 0x0107D243       |         17289795 | [Umon-Paumon](./17289795 - Umon-Paumon.md)             |        6 |
-| 0x0107D244       |         17289796 | [Ghebben](./17289796 - Ghebben.md)                     |        6 |
-| 0x0107D245       |         17289797 | [Elrica](./17289797 - Elrica.md)                       |        6 |
-| 0x0107D246       |         17289798 | [Terounalivet](./17289798 - Terounalivet.md)           |        6 |
-| 0x0107D247       |         17289799 | [(unnamed)](./17289799.md)                             |        2 |
-| 0x0107D248       |         17289800 | [Ramblix](./17289800 - Ramblix.md)                     |        2 |
-| 0x0107D24A       |         17289802 | [Field Manual](./17289802 - Field Manual.md)           |        2 |
-| 0x0107D24B       |         17289803 | [Field Manual](./17289803 - Field Manual.md)           |        2 |
-| 0x0107D24C       |         17289804 | [Field Manual](./17289804 - Field Manual.md)           |        2 |
-| 0x0107D24D       |         17289805 | [Field Parchment](./17289805 - Field Parchment.md)     |        3 |
-| 0x0107D24E       |         17289806 | [Ethereal Junction](./17289806 - Ethereal Junction.md) |        3 |
-| 0x0107D24F       |         17289807 | [Ethereal Junction](./17289807 - Ethereal Junction.md) |        3 |
-| 0x0107D250       |         17289808 | [Ethereal Junction](./17289808 - Ethereal Junction.md) |        3 |
-| 0x0107D253       |         17289811 | [Planar Rift](./17289811 - Planar Rift.md)             |        2 |
-| 0x0107D254       |         17289812 | [Planar Rift](./17289812 - Planar Rift.md)             |        2 |
-| 0x0107D255       |         17289813 | [Planar Rift](./17289813 - Planar Rift.md)             |        2 |
-| 0x0107D256       |         17289814 | [Riftworn Pyxis](./17289814 - Riftworn Pyxis.md)       |        2 |
-| 0x0107D257       |         17289815 | [Riftworn Pyxis](./17289815 - Riftworn Pyxis.md)       |        2 |
-| 0x0107D258       |         17289816 | [Riftworn Pyxis](./17289816 - Riftworn Pyxis.md)       |        2 |
-| 0x0107D25C       |         17289820 | [Survival Guide](./17289820 - Survival Guide.md)       |        3 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)                        |       19 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                         |   Events |
+|------------------|------------------|--------------------------------------------------------------|----------|
+| 0x0107D1FB       |         17289723 | [Treasure Casket](./17289723%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D1FC       |         17289724 | [Treasure Casket](./17289724%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D1FD       |         17289725 | [Treasure Casket](./17289725%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D1FE       |         17289726 | [Treasure Casket](./17289726%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D1FF       |         17289727 | [Treasure Casket](./17289727%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D200       |         17289728 | [Treasure Casket](./17289728%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D201       |         17289729 | [Treasure Casket](./17289729%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D202       |         17289730 | [Treasure Casket](./17289730%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D203       |         17289731 | [Treasure Casket](./17289731%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D204       |         17289732 | [Treasure Casket](./17289732%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D205       |         17289733 | [Treasure Casket](./17289733%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D206       |         17289734 | [Treasure Casket](./17289734%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D207       |         17289735 | [Treasure Casket](./17289735%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D208       |         17289736 | [Treasure Casket](./17289736%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D209       |         17289737 | [Treasure Casket](./17289737%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D20A       |         17289738 | [Treasure Casket](./17289738%20-%20Treasure%20Casket.md)     |        4 |
+| 0x0107D20B       |         17289739 | [Treasure Coffer](./17289739%20-%20Treasure%20Coffer.md)     |        2 |
+| 0x0107D210       |         17289744 | [(unnamed)](./17289744.md)                                   |       10 |
+| 0x0107D211       |         17289745 | [(unnamed)](./17289745.md)                                   |        2 |
+| 0x0107D21D       |         17289757 | [EFFECTER](./17289757%20-%20EFFECTER.md)                     |        3 |
+| 0x0107D21E       |         17289758 | [Carbuncle](./17289758%20-%20Carbuncle.md)                   |        3 |
+| 0x0107D21F       |         17289759 | [Talking Doll](./17289759%20-%20Talking%20Doll.md)           |        2 |
+| 0x0107D22C       |         17289772 | [Cermet Headstone](./17289772%20-%20Cermet%20Headstone.md)   |        2 |
+| 0x0107D22D       |         17289773 | [Peddlestox](./17289773%20-%20Peddlestox.md)                 |        7 |
+| 0x0107D22E       |         17289774 | [Casket](./17289774%20-%20Casket.md)                         |        5 |
+| 0x0107D238       |         17289784 | [(unnamed)](./17289784.md)                                   |       15 |
+| 0x0107D239       |         17289785 | [Capacucu](./17289785%20-%20Capacucu.md)                     |        6 |
+| 0x0107D23A       |         17289786 | [Putori-Tutori](./17289786%20-%20Putori-Tutori.md)           |        6 |
+| 0x0107D23B       |         17289787 | [Kilhwch](./17289787%20-%20Kilhwch.md)                       |        6 |
+| 0x0107D23C       |         17289788 | [Mieuseloir](./17289788%20-%20Mieuseloir.md)                 |        6 |
+| 0x0107D23D       |         17289789 | [Lhu Mhakaracca](./17289789%20-%20Lhu%20Mhakaracca.md)       |        6 |
+| 0x0107D23E       |         17289790 | [Xonia](./17289790%20-%20Xonia.md)                           |        6 |
+| 0x0107D23F       |         17289791 | [Fonove](./17289791%20-%20Fonove.md)                         |        6 |
+| 0x0107D240       |         17289792 | [Dzhau Yaam](./17289792%20-%20Dzhau%20Yaam.md)               |        6 |
+| 0x0107D241       |         17289793 | [Kupalu-Harupalu](./17289793%20-%20Kupalu-Harupalu.md)       |        6 |
+| 0x0107D242       |         17289794 | [Noillurie](./17289794%20-%20Noillurie.md)                   |        6 |
+| 0x0107D243       |         17289795 | [Umon-Paumon](./17289795%20-%20Umon-Paumon.md)               |        6 |
+| 0x0107D244       |         17289796 | [Ghebben](./17289796%20-%20Ghebben.md)                       |        6 |
+| 0x0107D245       |         17289797 | [Elrica](./17289797%20-%20Elrica.md)                         |        6 |
+| 0x0107D246       |         17289798 | [Terounalivet](./17289798%20-%20Terounalivet.md)             |        6 |
+| 0x0107D247       |         17289799 | [(unnamed)](./17289799.md)                                   |        2 |
+| 0x0107D248       |         17289800 | [Ramblix](./17289800%20-%20Ramblix.md)                       |        2 |
+| 0x0107D24A       |         17289802 | [Field Manual](./17289802%20-%20Field%20Manual.md)           |        2 |
+| 0x0107D24B       |         17289803 | [Field Manual](./17289803%20-%20Field%20Manual.md)           |        2 |
+| 0x0107D24C       |         17289804 | [Field Manual](./17289804%20-%20Field%20Manual.md)           |        2 |
+| 0x0107D24D       |         17289805 | [Field Parchment](./17289805%20-%20Field%20Parchment.md)     |        3 |
+| 0x0107D24E       |         17289806 | [Ethereal Junction](./17289806%20-%20Ethereal%20Junction.md) |        3 |
+| 0x0107D24F       |         17289807 | [Ethereal Junction](./17289807%20-%20Ethereal%20Junction.md) |        3 |
+| 0x0107D250       |         17289808 | [Ethereal Junction](./17289808%20-%20Ethereal%20Junction.md) |        3 |
+| 0x0107D253       |         17289811 | [Planar Rift](./17289811%20-%20Planar%20Rift.md)             |        2 |
+| 0x0107D254       |         17289812 | [Planar Rift](./17289812%20-%20Planar%20Rift.md)             |        2 |
+| 0x0107D255       |         17289813 | [Planar Rift](./17289813%20-%20Planar%20Rift.md)             |        2 |
+| 0x0107D256       |         17289814 | [Riftworn Pyxis](./17289814%20-%20Riftworn%20Pyxis.md)       |        2 |
+| 0x0107D257       |         17289815 | [Riftworn Pyxis](./17289815%20-%20Riftworn%20Pyxis.md)       |        2 |
+| 0x0107D258       |         17289816 | [Riftworn Pyxis](./17289816%20-%20Riftworn%20Pyxis.md)       |        2 |
+| 0x0107D25C       |         17289820 | [Survival Guide](./17289820%20-%20Survival%20Guide.md)       |        3 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                            |       19 |

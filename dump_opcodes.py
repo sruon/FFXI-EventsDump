@@ -2,6 +2,7 @@ import multiprocessing as mp
 import os
 import shutil
 from pathlib import Path
+from urllib.parse import quote
 
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
@@ -567,7 +568,9 @@ class EventDumper:
         for actor in sorted(actor_info, key=lambda x: x["id"]):
             actor_id_hex = f"0x{actor['id']:08X}"
             actor_id_dec = str(actor["id"])
-            name_with_link = f"[{actor['display_name']}](./{actor['filename']})"
+            # URL-encode the filename for the link
+            link_filename = quote(actor['filename'])
+            name_with_link = f"[{actor['display_name']}](./{link_filename})"
             actors_data.append([actor_id_hex, actor_id_dec, name_with_link, str(actor["event_count"])])
         actors_table = tabulate(actors_data, headers=["Actor ID (Hex)", "Actor ID (Dec)", "Name", "Events"], tablefmt="github")
 

@@ -18,9 +18,9 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                   |   Events |
-|------------------|------------------|--------------------------------------------------------|----------|
-| 0x010BC0F2       |         17547506 | [(unnamed)](./17547506.md)                             |        2 |
-| 0x010BC0F5       |         17547509 | [Somnial Threshold](./17547509 - Somnial Threshold.md) |        2 |
-| 0x010BC0F6       |         17547510 | [(unnamed)](./17547510.md)                             |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone Events.md)                        |        3 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                         |   Events |
+|------------------|------------------|--------------------------------------------------------------|----------|
+| 0x010BC0F2       |         17547506 | [(unnamed)](./17547506.md)                                   |        2 |
+| 0x010BC0F5       |         17547509 | [Somnial Threshold](./17547509%20-%20Somnial%20Threshold.md) |        2 |
+| 0x010BC0F6       |         17547510 | [(unnamed)](./17547510.md)                                   |        2 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                            |        3 |

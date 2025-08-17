@@ -1,0 +1,152 @@
+# 17637435 - Evorith Maker
+
+## Common Data
+
+| Field            | Value             |
+|------------------|-------------------|
+| Zone             | GM_Home (ID: 210) |
+| Block Size       | 288 bytes         |
+| Total Events     | 2                 |
+| References Count | 15                |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [90](#event-90)       | 0x0001       |    201 |             39 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x1E21      |        7713 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x07FF      |        2047 |
+|       3 | 0x1E22      |        7714 |
+|       4 | 0x000F      |          15 |
+|       5 | 0x1E23      |        7715 |
+|       6 | 0x0000      |           0 |
+|       7 | 0x0007      |           7 |
+|       8 | 0x1E24      |        7716 |
+|       9 | 0x000A      |          10 |
+|      10 | 0x000B      |          11 |
+|      11 | 0x000E      |          14 |
+|      12 | 0x0017      |          23 |
+|      13 | 0x0018      |          24 |
+|      14 | 0x001F      |          31 |
+
+## String References
+
+- **7713**: (Attribute ID)
+- **7714**: (Shape)
+- **7715**: (Elemental affinity)
+- **7716**: (Size)
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 90
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 201 bytes |
+| Instructions | 39        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    06 01 10 48 00 80 71  10 01 80 71 11 02 10 02   ...H..q...q....
+0010: 02 10 01 80 03 1F 00 03  02 10 01 80 01 2C 00 02  .............,..
+0020: 02 10 02 80 02 2C 00 03  02 10 02 80 48 03 80 71  .....,......H..q
+0030: 10 01 80 71 11 03 10 02  03 10 01 80 03 47 00 03  ...q.........G..
+0040: 03 10 01 80 01 54 00 02  03 10 04 80 02 54 00 03  .....T.......T..
+0050: 03 10 04 80 48 05 80 71  10 01 80 71 11 04 10 02  ....H..q...q....
+0060: 04 10 06 80 03 6F 00 03  04 10 06 80 01 7C 00 02  .....o.......|..
+0070: 04 10 07 80 02 7C 00 03  04 10 07 80 48 08 80 71  .....|......H..q
+0080: 10 01 80 71 11 05 10 02  05 10 06 80 03 97 00 03  ...q............
+0090: 05 10 06 80 01 A4 00 02  05 10 04 80 02 A4 00 03  ................
+00A0: 05 10 04 80 40 06 80 09  80 01 10 02 10 40 0A 80  ....@........@..
+00B0: 0B 80 01 10 03 10 40 04  80 0C 80 01 10 04 10 40  ......@........@
+00C0: 0D 80 0E 80 01 10 05 10  21 00                    ........!.      
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x06] Work_Zone[1] = 0
+  1: 0x0004 [0x48] [System] [7713*]:
+    → "(Attribute ID)"
+  2: 0x0007 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+  3: 0x000B [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
+  4: 0x000F [0x02] IF !(Work_Zone[2] >= 1*) GOTO 0x001F
+  5: 0x0017 [0x03] Work_Zone[2] = 1*
+  6: 0x001C [0x01] GOTO 0x002C
+  7: 0x001F [0x02] IF !(Work_Zone[2] <= 2047*) GOTO 0x002C
+  8: 0x0027 [0x03] Work_Zone[2] = 2047*
+
+SUBROUTINE_002C:
+  9: 0x002C [0x48] [System] [7714*]:
+    → "(Shape)"
+ 10: 0x002F [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+ 11: 0x0033 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[3])
+ 12: 0x0037 [0x02] IF !(Work_Zone[3] >= 1*) GOTO 0x0047
+ 13: 0x003F [0x03] Work_Zone[3] = 1*
+ 14: 0x0044 [0x01] GOTO 0x0054
+ 15: 0x0047 [0x02] IF !(Work_Zone[3] <= 15*) GOTO 0x0054
+ 16: 0x004F [0x03] Work_Zone[3] = 15*
+
+SUBROUTINE_0054:
+ 17: 0x0054 [0x48] [System] [7715*]:
+    → "(Elemental affinity)"
+ 18: 0x0057 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+ 19: 0x005B [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[4])
+ 20: 0x005F [0x02] IF !(Work_Zone[4] >= 0*) GOTO 0x006F
+ 21: 0x0067 [0x03] Work_Zone[4] = 0*
+ 22: 0x006C [0x01] GOTO 0x007C
+ 23: 0x006F [0x02] IF !(Work_Zone[4] <= 7*) GOTO 0x007C
+ 24: 0x0077 [0x03] Work_Zone[4] = 7*
+
+SUBROUTINE_007C:
+ 25: 0x007C [0x48] [System] [7716*]:
+    → "(Size)"
+ 26: 0x007F [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
+ 27: 0x0083 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[5])
+ 28: 0x0087 [0x02] IF !(Work_Zone[5] >= 0*) GOTO 0x0097
+ 29: 0x008F [0x03] Work_Zone[5] = 0*
+ 30: 0x0094 [0x01] GOTO 0x00A4
+ 31: 0x0097 [0x02] IF !(Work_Zone[5] <= 15*) GOTO 0x00A4
+ 32: 0x009F [0x03] Work_Zone[5] = 15*
+
+SUBROUTINE_00A4:
+ 33: 0x00A4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[1], source=Work_Zone[2])
+ 34: 0x00AD [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=14*, target=Work_Zone[1], source=Work_Zone[3])
+ 35: 0x00B6 [0x40] SET_BIT_WORK_RANGE(start_bit=15*, end_bit=23*, target=Work_Zone[1], source=Work_Zone[4])
+ 36: 0x00BF [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[5])
+ 37: 0x00C8 [0x21] END_EVENT
+ 38: 0x00C9 [0x00] END_REQSTACK()
+```
