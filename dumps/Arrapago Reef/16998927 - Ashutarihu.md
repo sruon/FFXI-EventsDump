@@ -20,14 +20,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F49      |        8009 |
-|       1 | 0x1F4B      |        8011 |
+|       0 | 0x1F4D      |        8013 |
+|       1 | 0x1F4F      |        8015 |
 |       2 | 0x0001      |           1 |
 
 ## String References
 
-- **8009**: $!7. $3A$3V$3$5$3^$3$3t$6p$P10h%L7iL$3J$3iIH
-- **8011**: $P10h%L$s [5$3\`$3F$3b$3N$6B /
+- **8013**: $!7. $3A$3V$3$5$3^$3$3t$6p$P10h%L7iL$3J$3iIH
+- **8015**: $P10h%L$s [5$3\`$3F$3b$3N$6B /
 
 ## Events
 
@@ -73,10 +73,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
     → "$!7. $3A$3V$3$5$3^$3$3t$6p$P10h%L7iL$3J$3iIH"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
     → "$P10h%L$s [5$3`$3F$3b$3N$6B /"
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0009 [0x03] Work_Zone[1] = 1*

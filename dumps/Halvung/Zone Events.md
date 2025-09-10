@@ -37,26 +37,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EE4      |        7908 |
+|       0 | 0x1EE8      |        7912 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x001B      |          27 |
 |       4 | 0x00FD      |         253 |
 |       5 | 0x003C      |          60 |
-|       6 | 0x1EE5      |        7909 |
-|       7 | 0x1EE6      |        7910 |
-|       8 | 0x1EE7      |        7911 |
-|       9 | 0x1EE8      |        7912 |
+|       6 | 0x1EE9      |        7913 |
+|       7 | 0x1EEA      |        7914 |
+|       8 | 0x1EEB      |        7915 |
+|       9 | 0x1EEC      |        7916 |
 |      10 | 0x0001      |           1 |
 |      11 | 0x0078      |         120 |
 |      12 | 0x00FE      |         254 |
-|      13 | 0x1EE9      |        7913 |
+|      13 | 0x1EED      |        7917 |
 |      14 | 0x0002      |           2 |
-|      15 | 0x1EEA      |        7914 |
+|      15 | 0x1EEE      |        7918 |
 |      16 | 0x0003      |           3 |
-|      17 | 0x1EEB      |        7915 |
-|      18 | 0x1EEC      |        7916 |
-|      19 | 0x1EED      |        7917 |
+|      17 | 0x1EEF      |        7919 |
+|      18 | 0x1EF0      |        7920 |
+|      19 | 0x1EF1      |        7921 |
 |      20 | 0x5763A     |      357946 |
 |      21 | 0x49391     |      299921 |
 |      22 | 0x1000      |        4096 |
@@ -85,7 +85,7 @@
 |      45 | 0x0010      |          16 |
 |      46 | 0x001F      |          31 |
 |      47 | 0xFFFFFFFF  |  4294967295 |
-|      48 | 0x1EE0      |        7904 |
+|      48 | 0x1EE4      |        7908 |
 |      49 | 0x1D19      |        7449 |
 |      50 | 0x00FF      |         255 |
 |      51 | 0x0013      |          19 |
@@ -165,11 +165,11 @@
 |     125 | 0x5E8E      |       24206 |
 |     126 | 0x01B5      |         437 |
 |     127 | 0x00D9      |         217 |
-|     128 | 0x1EE2      |        7906 |
+|     128 | 0x1EE6      |        7910 |
 |     129 | 0x005A      |          90 |
 |     130 | 0x0321      |         801 |
 |     131 | 0x0322      |         802 |
-|     132 | 0x1EE3      |        7907 |
+|     132 | 0x1EE7      |        7911 |
 |     133 | 0x006C      |         108 |
 |     134 | 0x0073      |         115 |
 |     135 | 0x008B      |         139 |
@@ -186,19 +186,19 @@
 - **7499**: You do not meet the requirements to enter the battlefield. Access is denied.
 - **7788**: Skip the event? [Yes./No.]
 - **7808**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7904**: Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]
-- **7906**: You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate...
-- **7907**: The pictographs on the $3 and $3 fade away without a trace...
-- **7908**: Choose a picture to take.
-- **7909**: First scene.
-- **7910**: Second scene.
-- **7911**: Third scene.
-- **7912**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
-- **7913**: <Player> records the first scene.
-- **7914**: <Player> records the second scene.
-- **7915**: <Player> records the third scene.
-- **7916**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
-- **7917**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
+- **7908**: Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]
+- **7910**: You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate...
+- **7911**: The pictographs on the $3 and $3 fade away without a trace...
+- **7912**: Choose a picture to take.
+- **7913**: First scene.
+- **7914**: Second scene.
+- **7915**: Third scene.
+- **7916**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
+- **7917**: <Player> records the first scene.
+- **7918**: <Player> records the second scene.
+- **7919**: <Player> records the third scene.
+- **7920**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
+- **7921**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
 
 ## Events
 
@@ -311,7 +311,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7908*]:
+  1: 0x0003 [0x48] [System] [7912*]:
     → "Choose a picture to take."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -325,7 +325,7 @@
  11: 0x0050 [0x1C] WAIT(60* ticks)
  12: 0x0053 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0064 [0x1C] WAIT(60* ticks)
- 14: 0x0067 [0x48] [System] [7909*]:
+ 14: 0x0067 [0x48] [System] [7913*]:
     → "First scene."
  15: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x006B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -335,7 +335,7 @@
  20: 0x00AB [0x1C] WAIT(60* ticks)
  21: 0x00AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x00BF [0x1C] WAIT(60* ticks)
- 23: 0x00C2 [0x48] [System] [7910*]:
+ 23: 0x00C2 [0x48] [System] [7914*]:
     → "Second scene."
  24: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -345,10 +345,10 @@
  29: 0x0106 [0x1C] WAIT(60* ticks)
  30: 0x0109 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x011A [0x1C] WAIT(60* ticks)
- 32: 0x011D [0x48] [System] [7911*]:
+ 32: 0x011D [0x48] [System] [7915*]:
     → "Third scene."
  33: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0121 [0x24] CREATE_DIALOG(message_id=7912*, default_option=0*, option_flags=0*)
+ 34: 0x0121 [0x24] CREATE_DIALOG(message_id=7916*, default_option=0*, option_flags=0*)
     → "Which picture will you take? [Show me again./First scene./Second scene./Third scene.]"
  35: 0x0128 [0x25] WAIT_DIALOG_SELECT()
  36: 0x0129 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0134
@@ -363,7 +363,7 @@
  45: 0x0190 [0x1C] WAIT(120* ticks)
  46: 0x0193 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  47: 0x01A4 [0x1C] WAIT(120* ticks)
- 48: 0x01A7 [0x48] [System] [7913*]:
+ 48: 0x01A7 [0x48] [System] [7917*]:
     → "<Player> records the first scene."
  49: 0x01AA [0x03] ExtData[1]->WorkLocal[0] = 1*
  50: 0x01AF [0x03] Work_Zone[1] = 1*
@@ -378,7 +378,7 @@
  59: 0x0213 [0x1C] WAIT(120* ticks)
  60: 0x0216 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  61: 0x0227 [0x1C] WAIT(120* ticks)
- 62: 0x022A [0x48] [System] [7914*]:
+ 62: 0x022A [0x48] [System] [7918*]:
     → "<Player> records the second scene."
  63: 0x022D [0x03] ExtData[1]->WorkLocal[0] = 1*
  64: 0x0232 [0x03] Work_Zone[1] = 2*
@@ -387,7 +387,7 @@
  67: 0x0242 [0x1C] WAIT(120* ticks)
  68: 0x0245 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  69: 0x0256 [0x1C] WAIT(120* ticks)
- 70: 0x0259 [0x48] [System] [7915*]:
+ 70: 0x0259 [0x48] [System] [7919*]:
     → "<Player> records the third scene."
  71: 0x025C [0x03] ExtData[1]->WorkLocal[0] = 1*
  72: 0x0261 [0x03] Work_Zone[1] = 3*
@@ -426,7 +426,7 @@ SUBROUTINE_0269:
 #### Opcodes
 
 ```
-  0: 0x02D1 [0x48] [System] [7916*]:
+  0: 0x02D1 [0x48] [System] [7920*]:
     → "<Player> takes in the surrounding scenery. ...The view is breathtaking."
   1: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D5 [0x21] END_EVENT
@@ -452,7 +452,7 @@ SUBROUTINE_0269:
 #### Opcodes
 
 ```
-  0: 0x02D7 [0x48] [System] [7917*]:
+  0: 0x02D7 [0x48] [System] [7921*]:
     → "<Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture."
   1: 0x02DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DB [0x21] END_EVENT
@@ -825,7 +825,7 @@ SUBROUTINE_0269:
  10: 0x0389 [0x03] ExtData[1]->WorkLocal[9] = 4294967295*
  11: 0x038E [0x0F] ExtData[1]->WorkLocal[9] ^= ExtData[1]->WorkLocal[7]
  12: 0x0393 [0x10] ExtData[1]->WorkLocal[9] <<= 1*
- 13: 0x0398 [0x24] CREATE_DIALOG(message_id=7904*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+ 13: 0x0398 [0x24] CREATE_DIALOG(message_id=7908*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]"
  14: 0x039F [0x25] WAIT_DIALOG_SELECT()
  15: 0x03A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AE
@@ -1507,7 +1507,7 @@ SUBROUTINE_0E5E:
      0x0EDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bc62" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
      0x0EF0 [0x1C] WAIT(10* ticks)
      0x0EF3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x0F04 [0x48] [System] [7906*]:
+     0x0F04 [0x48] [System] [7910*]:
     → "You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate..."
      0x0F07 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F08 [0x27] REQ_SET(priority=0x03, entity_id=Decorative Bronze Gate (ID: 17031693/0x0103E20D), tag_num=0x03)
@@ -1519,7 +1519,7 @@ SUBROUTINE_0E5E:
      0x0F26 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Decorative Bronze Gate (ID: 17031693/0x0103E20D))
      0x0F2C [0x03] Work_Zone[2] = 801*
      0x0F31 [0x03] Work_Zone[3] = 802*
-     0x0F36 [0x48] [System] [7907*]:
+     0x0F36 [0x48] [System] [7911*]:
     → "The pictographs on the $3 and $3 fade away without a trace..."
      0x0F39 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F3A [0x92] LocalPlayer->Render.Flags3 ^= 0x01

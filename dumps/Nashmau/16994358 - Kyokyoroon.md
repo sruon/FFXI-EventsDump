@@ -54,9 +54,9 @@
 |      20 | 0x000B      |          11 |
 |      21 | 0x06D3      |        1747 |
 |      22 | 0xFFFF6AF5  |  4294929141 |
-|      23 | 0x2D55      |       11605 |
-|      24 | 0x2D56      |       11606 |
-|      25 | 0x2D6A      |       11626 |
+|      23 | 0x2D59      |       11609 |
+|      24 | 0x2D5A      |       11610 |
+|      25 | 0x2D6E      |       11630 |
 
 ## String References
 
@@ -64,9 +64,9 @@
 - **10554**: Seeecret about "alzadal"? Yooo know about alzadal?
 - **10555**: An alzadal float hiiigh in sky and shiiine like pretty stone.
 - **10556**: High in sky? Shine? Maybe a staaar? Romantic, no? Hohoho?
-- **11605**: Kyokyoroon have must hurry to boat dock place!
-- **11606**: Kyokyoroon seee if perfect plan work, ya?
-- **11626**: Tarooo babeee really gone...
+- **11609**: Kyokyoroon have must hurry to boat dock place!
+- **11610**: Kyokyoroon seee if perfect plan work, ya?
+- **11630**: Tarooo babeee really gone...
 
 ## Events
 
@@ -377,10 +377,10 @@
 
 ```
   0: 0x009E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11605*)
+  1: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11609*)
     → "Kyokyoroon have must hurry to boat dock place!"
   2: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11606*)
+  3: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11610*)
     → "Kyokyoroon seee if perfect plan work, ya?"
   4: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00AB [0x21] END_EVENT
@@ -408,7 +408,7 @@
 
 ```
   0: 0x00AD [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11626*)
+  1: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11630*)
     → "Tarooo babeee really gone..."
   2: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00B6 [0x21] END_EVENT

@@ -116,7 +116,7 @@
 - **8415**: Receive $10 deeds? [Yes./No.]
 - **8416**: Receive $11 exemplar points? [Yes./No.]
 - **8417**: Receive $12 EXP? [Yes./No.]
-- **8418**: Receive $12 job points? [Yes./No.]
+- **8418**: Receive $23 job points? [Yes./No.]
 - **8419**: You will receive $29 $0%0 .
 - **8420**: Receive the $28? [Yes./No.]
 - **8421**: Receive the $3? [Yes./No.]
@@ -947,7 +947,7 @@ SUBROUTINE_0C96:
      0x07B2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x07B4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x07B6 [0x24] CREATE_DIALOG(message_id=8418*, default_option=1*, option_flags=0*)
-    → "Receive $12 job points? [Yes./No.]"
+    → "Receive $23 job points? [Yes./No.]"
      0x07BD [0x25] WAIT_DIALOG_SELECT()
      0x07BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07D1
      0x07C6 [0x03] ExtData[1]->WorkLocal[8] = 4*

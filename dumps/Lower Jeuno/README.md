@@ -6,7 +6,7 @@
 |--------------|---------|
 | Zone ID      |     245 |
 | Total Actors |     290 |
-| Total Events |    5874 |
+| Total Events |    5878 |
 
 ## Source Files
 
@@ -213,9 +213,9 @@
 | 0x010F50DE       |         17780958 | [Chimh Dlesbah](./17780958%20-%20Chimh%20Dlesbah.md)                       |        2 |
 | 0x010F50DF       |         17780959 | [Darcia](./17780959%20-%20Darcia.md)                                       |        7 |
 | 0x010F50E0       |         17780960 | [Waypoint](./17780960%20-%20Waypoint.md)                                   |        3 |
-| 0x010F50E1       |         17780961 | [(unnamed)](./17780961.md)                                                 |        5 |
+| 0x010F50E1       |         17780961 | [(unnamed)](./17780961.md)                                                 |        7 |
 | 0x010F50E2       |         17780962 | [Talib](./17780962%20-%20Talib.md)                                         |        7 |
-| 0x010F50E3       |         17780963 | [Boisterous Jackal](./17780963%20-%20Boisterous%20Jackal.md)               |        7 |
+| 0x010F50E3       |         17780963 | [Boisterous Jackal](./17780963%20-%20Boisterous%20Jackal.md)               |        9 |
 | 0x010F50E4       |         17780964 | [(unnamed)](./17780964.md)                                                 |        3 |
 | 0x010F50E5       |         17780965 | [Yoran-Oran](./17780965%20-%20Yoran-Oran.md)                               |       17 |
 | 0x010F50E6       |         17780966 | [1](./17780966%20-%201.md)                                                 |        7 |

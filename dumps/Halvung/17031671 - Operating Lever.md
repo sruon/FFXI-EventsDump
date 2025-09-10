@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x012C      |         300 |
-|       1 | 0x1EF1      |        7921 |
-|       2 | 0x1EF2      |        7922 |
+|       1 | 0x1EF5      |        7925 |
+|       2 | 0x1EF6      |        7926 |
 
 ## String References
 
-- **7921**: <Player>'s hand has grown numb...
-- **7922**: <Player> can't hold on for much longer...
+- **7925**: <Player>'s hand has grown numb...
+- **7926**: <Player> can't hold on for much longer...
 
 ## Events
 
@@ -75,10 +75,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x1C] WAIT(300* ticks)
-  2: 0x0006 [0x48] [System] [7921*]:
+  2: 0x0006 [0x48] [System] [7925*]:
     → "<Player>'s hand has grown numb..."
   3: 0x0009 [0x1C] WAIT(300* ticks)
-  4: 0x000C [0x48] [System] [7922*]:
+  4: 0x000C [0x48] [System] [7926*]:
     → "<Player> can't hold on for much longer..."
   5: 0x000F [0x1C] WAIT(300* ticks)
   6: 0x0012 [0x21] END_EVENT

@@ -1,5 +1,5 @@
 # Strings for Southern San d'Oria
-# Total: 16832 strings
+# Total: 16834 strings
 
     0: The San d'Oria residential area is ahead. You'll find your Mog House within.
     1: I've not told you about Mog Houses yet, have I? Would you care to learn about them now?
@@ -16603,233 +16603,235 @@
 16599: DEBUG: Failed to create instance.($1)
 16600: DEBUG: Skip.
 16601: DEBUG:ID=$0 / SLOT=$1 / SUB=$2
-16602: DEBUG: Error $0.
-16603: It's doubly delightful to see you here for the $2th anniversary, kupo!
-16604: As has become customary, I'd like to share one of the many celebratory messages that have come from the millions and millions of men and women around the planet.
-16605: "Once again, wish you much happy in this wonderful $2th anniversary, adventurer!
-16606: "We would never have come this far without your help, and we've got a little event in store!
-16607: "We are holding Mandragora Mania Madness this year, too!
-16608: "Your friend, Chacharoon"
-16609: As you can almost assuredly see, Chacharoon awaits you right over there, kupo!
-16610: We moogles eagerly look forward to challenging you, kupo!
-16611: Also, don't forget to grab your gifts, kupo!
-16612: Now then, go see Chacharoon. I'm sure you'll get a bang out of his game!
-16613: (Kupopo... We'll make you pay for crushing us in last year's Mandragora Mania!)
-16614: Take your gifts and go chat with Chacharoon, kupo!
-16615: Make sure you speak to Chacharoon, kupo!
-16616: Wait, don't tell me you lost your $0!?
-16617: I guess I've got to gift you another one, kupo. Please try to be more careful this time.
-16618: [Hi there!/Hello, friend!] I see you got letter I give to moogle.
-16619: Happy 20th Vana'versary!
-16620: I hope you ready to play Mandragora Mania Madness!
-16621: Since this new game, would you like to check rules in manual?
-16622: Read the manual? [Sure./No thanks.]
-16623: Mandragora Mania Madness is a game in which players battle by placing different colored game pieces on a 4x4 playing area.
-16624: You use the white pieces (mandragoras), while your opponent uses the black pieces (corrigans).
-16625: The player to go first is determined randomly when the game begins. You will be able to adjust these settings yourself from the second game onward.
-16626: The first player to place four pieces so they align in a row will be declared the winner.
-16627: However, you will automatically be disqualified if you ever place three of your pieces in a row, so be mindful of your moves at all times.
-16628: Note that if you place your game pieces so that you have both three and four pieces in a row, the row with four pieces will take precedence and you will win the game.
-16629: If you place a game piece on either side of your opponent's piece, you will convert it into one of your pieces.
-16630: You can play anywhere from three to five games, and the first player to win three games is the winner.
-16631: Now, for an explanation on points.
-16632: You receive points after the completion of each game. The points are tallied using units known as mandy.
-16633: If you win the game, you will receive a number of points equal to the number of game pieces you have on the board. In the example shown, you will earn 8 mandy.
-16634: Even if you lose the game, you will receive a number of points equal to half the number of your game pieces on the board (rounded off to avoid fractions).
-16635: The first player to win three games gets to keep all of the points they have earned, although you won't get any points if you quit partway.
-16636: Occasionally, you might get to play a bonus game, where your pieces are pink (adenium) or feature a watermelon pattern (citrullus).
-16637: They are worth $0x and $1x the points, respectively, giving you the chance to quickly score a large number of points.
-16638: The key to victory is to not just try and place four pieces in a row, but to position your pieces in a way that forces your opponent to place three pieces in a row.
-16639: See? Is very easy! Ready to give try?
-16640: You get mandy if you win or lose, but not if you quit partway!
-16641: Can trade mandy for many goodies.
-16642: Then I just give one piece of advice.
-16643: You get mandy if you win or lose, but not if you quit partway!
-16644: You can look at manual later if you need reminder on how to play.
-16645: Let's get to playing!
-16646: Have question?
-16647: Do which? ($1 mandy) [Play vs. [Green Thumb Moogle/Monsieur Kupont/Susuroon/a lamb/Yeestog/Atelloune/Kuyin Hathdenna/Kupofried/Chacharoon/Sakura/a random opponent]./Play (select opponent)./Purchase prizes./Read an explanation./None of the above.]
-16648: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./???/???/???/???/???/???/???/???/???/Back.]
-16649: This opponent has not yet been unlocked.
-16650: Purchase which? ($1 mandy) [$2: $3 m. [/$26]/$4: $5 m. [/$26]/$6: $7 m. [/$26]/$24 $0%0 : $9 m./$25 $0$0 : $11 m./$26 $0 : $13 m./$14: $15 m./$16: $17 m./$18: $19 m./$20: $21 m. [/$26]/$22: $23 m. [/$26]/???: ??? m./???: ??? m./???: ??? m./???: ??? m./???: ??? m./Back.]
-16651: This reward will become available once you have defeated a particular opponent.
-16652: You do not have enough mandy.
-16653: You already have $2.
-16654: You may only purchase one of those per day (Earth time).
-16655: $32 for $! mandy?
-16656: Can only buy one $32 a day (Earth time). $! mandy okay?
-16657: Purchase $32? ($1 m.) [Yes. ($! mandy)/No.]
-16658: $" $0 for $! mandy?
-16659: $" $0 ? ($1 m.m) [Yes. ($! mandy)/No.]
-16660: I show book that tells how to play!
-16661: --- Game $0 ($1W-$2L) ---
-16662: $26$25$26[Adenium/Citrullus] bonus active! ($1x mandy)$26$25$26
-16663: Place on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
-16664: There is already a piece in this location.
-16665: You will forfeit all mandy earned this game if you give up. Are you sure?
-16666: Really give up? [Yes./No.]
-16667: Game $0 Complete!
-16668: @@[Victory!/Defeat!] - You receive $1 mandy for a total of $2.
-16669: @ Draw! (restart from Game $0)
-16670: @ With a record of $1W and $2L, you [win!/lose!]
-16671: You receive $0 mandy for a total of $1.
-16672: You have reached the mandy cap of $0. Any additional mandy will be lost.
-16673: A new opponent joins the fray!
-16674: You are now able to select a random opponent.
-16675: New prizes are available!
-16676: An error has occurred. Please try again.
-16677: DEBUGF[Bonus Game Log/NPC Selection Controls/NPC Move Log/Specific Placement Confirmation 1 Log/Corners Log/Specific Placement Confirmation 2 Log] > [OFF/ON]
-16678: aDEBUGbPlace on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
-16679: DEBUG(NPC Selection): Area $0
-16680: RANDOM ([Bonus Game Selection/Four Corners Selection]): 0-$1 = $2
-16681: DEBUG (Specific Placement Confirmation $3): Area $0 > [A/B/C/D/E/F/G/H]$2
-16682: $0 $1 $2 $3
-16683: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
-16684: You must take on the "$0" Records of Eminence objective before receiving the explanation.
-16685: You must complete "$1" before taking on the "$0" Records of Eminence objective.
-16686: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
-16687: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
-16688: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
-16689: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
-16690: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
-16691: You can change the CTRL+Q shortcut command...
-16692: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
-16693: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
-16694: You must meet one of the following conditions in order to post to the Assist Channel.
-16695: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
-16696: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
-16697: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-16698: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
-16699: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
-16700: The Assist Channel can only be used in the following areas.
-16701: Available areas: $7, $7, $7, $7, $7, $7...
-16702: ...$7, $7, $7, $7, $7, $7, $7, $7...
-16703: ...$7, $7, $7, $7, $7, $7, $7, $7...
-16704: ...$7, $7, $7, and your Mog House (Rent-a-Room).
-16705: You cannot post or read messages outside of the areas listed above.
-16706: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
-16707: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
-16708: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
-16709: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
-16710: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
-16711: The higher the number, the more experienced the mentor is.
-16712: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
-16713: You can check your Mastery Rank by going to Main Menu > Status > Profile.
-16714: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
-16715: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
-16716: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
-16717: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
-16718: A "Warning" is a feature that can only be used by mentors.
-16719: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
-16720: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
-16721: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
-16722: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
-16723: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
-16724: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
-16725: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
-16726: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
-16727: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
-16728: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
-16729: You are about to lose the ability to post messages to the Assist Channel.
-16730: You are unable to post messages to the Assist Channel.
-16731: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
-16732: Good day, adventurer! I am able to repair any broken item data related to $0.
-16733: If you are unable to deliver $0, it's possible that the item data has been corrupted.
-16734: Please trade your $0 to me so that I may fix it.
-16735: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
-16736: I have restored it to its intended functionality. Here you are!
-16737: It appears that your item is working as intended.
-16738: An error has occurred. Please try again later.
-16739: Here you can play the game Mandragora Mania.
-16740: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
-16741: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
-16742: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
-16743: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
-16744: You may pay $& gil to reset all rewards, enabling you to purchase them again.
-16745: Reset rewards? ($' gil). [Yes ($& gil)./No.]
-16746: You do not have enough gil.
-16747: All rewards have been reset.
-16748: You have already purchased the $2.
-16749: You need at least $3 jingly to purchase the $2.
-16750: The reward exchange period has turned over and all rewards have been reset.
-16751: You may reset all rewards from the appropriate dialogue box.
-16752: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
-16753: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
-16754: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
-16755: Starting player set to [Random/You/Opponent].
-16756: Read the manual? [Sure./No thanks.]
-16757: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
-16758: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
-16759: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
-16760: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
-16761: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
-16762: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
-16763: You must choose one area--either yours or a neutral one--to proceed.
-16764: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
-16765: Conversely, your opponent must select either a neutral area or an area that belongs to them.
-16766: From the right, those areas are numbered 6, 4, 7, 2, and 8.
-16767: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
-16768: Note that the mandragoras will move from the back first--last in, first out.
-16769: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
-16770: You will enter your opponent's territory whenever you go past the goal.
-16771: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
-16772: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
-16773: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
-16774: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
-16775: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
-16776: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
-16777: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
-16778: Standard mandragoras: 1 jingly (both players).
-16779: The game is over when either you or your opponent no longer has any mandragoras that can move.
-16780: The player who has the most jingly at that point will be declared the winner.
-16781: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
-16782: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
-16783: You have selected Area $0.
-16784: You receive $0 jingly for a total of $1.
-16785: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
-16786: Your opponent has selected Area $0.
-16787: Your opponent receives $0 jingly for a total of $1.
-16788: Game Complete!
-16789: [Victory!/Defeat!/Draw!] ($0 - $1)
-16790: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
-16791: That area has no mandragora to move.
-16792: You will forfeit all jingly earned this game if you give up. Are you sure?
-16793: Really give up? [Yes./No.]
-16794: You receive $0 jingly for a total of $1.
-16795: You have reached the jingly cap of $0. Any additional jingly will be lost.
-16796: An error has occurred. Please try again.
-16797: DEBUG ( [OFF/ON]
-16798: RANDOMF0-$0 ( $1
-16799: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
-16800: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
-16801: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
-16802: 
-16803: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
-16804: NPC Selection ( Area $0
-16805: DEBUGFNPC Selection Controls ( [OFF/ON]
-16806: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
-16807: You are now able to enjoy a new storyline, A Crystalline Prophecy.
-16808: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
-16809: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-16810: You are now able to enjoy a new storyline, A Shantotto Ascension.
-16811: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
-16812: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-16813: You are now able to enjoy a new storyline, Abyssea.
-16814: Start Abyssea? [Yes (View cutscene)./Maybe later.]
-16815: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-16816: You are now able to enjoy a new storyline, Chains of Promathia.
-16817: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
-16818: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-16819: You are now able to enjoy a new storyline, Seekers of Adoulin.
-16820: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
-16821: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
-16822: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
-16823: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
-16824: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-16825: You are now able to enjoy a new storyline, Rise of the Zilart.
-16826: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
-16827: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-16828: Would you like to start a new storyline that you previously postponed?
-16829: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-16830: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-16831: Start the storyline? [Yes, please./No, thank you.]
+16602: DEBUG:$3C$3$4[$P106$P10,$6(PI)
+16603: DEBUG: Error $0.
+16604: [$P11O/$31]L$J$P15z$30$T // ::
+16605: It's doubly delightful to see you here for the $2th anniversary, kupo!
+16606: As has become customary, I'd like to share one of the many celebratory messages that have come from the millions and millions of men and women around the planet.
+16607: "Once again, wish you much happy in this wonderful $2th anniversary, adventurer!
+16608: "We would never have come this far without your help, and we've got a little event in store!
+16609: "We are holding Mandragora Mania Madness this year, too!
+16610: "Your friend, Chacharoon"
+16611: As you can almost assuredly see, Chacharoon awaits you right over there, kupo!
+16612: We moogles eagerly look forward to challenging you, kupo!
+16613: Also, don't forget to grab your gifts, kupo!
+16614: Now then, go see Chacharoon. I'm sure you'll get a bang out of his game!
+16615: (Kupopo... We'll make you pay for crushing us in last year's Mandragora Mania!)
+16616: Take your gifts and go chat with Chacharoon, kupo!
+16617: Make sure you speak to Chacharoon, kupo!
+16618: Wait, don't tell me you lost your $0!?
+16619: I guess I've got to gift you another one, kupo. Please try to be more careful this time.
+16620: [Hi there!/Hello, friend!] I see you got letter I give to moogle.
+16621: Happy 20th Vana'versary!
+16622: I hope you ready to play Mandragora Mania Madness!
+16623: Since this new game, would you like to check rules in manual?
+16624: Read the manual? [Sure./No thanks.]
+16625: Mandragora Mania Madness is a game in which players battle by placing different colored game pieces on a 4x4 playing area.
+16626: You use the white pieces (mandragoras), while your opponent uses the black pieces (corrigans).
+16627: The player to go first is determined randomly when the game begins. You will be able to adjust these settings yourself from the second game onward.
+16628: The first player to place four pieces so they align in a row will be declared the winner.
+16629: However, you will automatically be disqualified if you ever place three of your pieces in a row, so be mindful of your moves at all times.
+16630: Note that if you place your game pieces so that you have both three and four pieces in a row, the row with four pieces will take precedence and you will win the game.
+16631: If you place a game piece on either side of your opponent's piece, you will convert it into one of your pieces.
+16632: You can play anywhere from three to five games, and the first player to win three games is the winner.
+16633: Now, for an explanation on points.
+16634: You receive points after the completion of each game. The points are tallied using units known as mandy.
+16635: If you win the game, you will receive a number of points equal to the number of game pieces you have on the board. In the example shown, you will earn 8 mandy.
+16636: Even if you lose the game, you will receive a number of points equal to half the number of your game pieces on the board (rounded off to avoid fractions).
+16637: The first player to win three games gets to keep all of the points they have earned, although you won't get any points if you quit partway.
+16638: Occasionally, you might get to play a bonus game, where your pieces are pink (adenium) or feature a watermelon pattern (citrullus).
+16639: They are worth $0x and $1x the points, respectively, giving you the chance to quickly score a large number of points.
+16640: The key to victory is to not just try and place four pieces in a row, but to position your pieces in a way that forces your opponent to place three pieces in a row.
+16641: See? Is very easy! Ready to give try?
+16642: You get mandy if you win or lose, but not if you quit partway!
+16643: Can trade mandy for many goodies.
+16644: Then I just give one piece of advice.
+16645: You get mandy if you win or lose, but not if you quit partway!
+16646: You can look at manual later if you need reminder on how to play.
+16647: Let's get to playing!
+16648: Have question?
+16649: Do which? ($1 mandy) [Play vs. [Green Thumb Moogle/Monsieur Kupont/Susuroon/a lamb/Yeestog/Atelloune/Kuyin Hathdenna/Kupofried/Chacharoon/Sakura/a random opponent]./Play (select opponent)./Purchase prizes./Read an explanation./None of the above.]
+16650: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./???/???/???/???/???/???/???/???/???/Back.]
+16651: This opponent has not yet been unlocked.
+16652: Purchase which? ($1 mandy) [$2: $3 m. [/$26]/$4: $5 m. [/$26]/$6: $7 m. [/$26]/$24 $0%0 : $9 m./$25 $0$0 : $11 m./$26 $0 : $13 m./$14: $15 m./$16: $17 m./$18: $19 m./$20: $21 m. [/$26]/$22: $23 m. [/$26]/???: ??? m./???: ??? m./???: ??? m./???: ??? m./???: ??? m./Back.]
+16653: This reward will become available once you have defeated a particular opponent.
+16654: You do not have enough mandy.
+16655: You already have $2.
+16656: You may only purchase one of those per day (Earth time).
+16657: $32 for $! mandy?
+16658: Can only buy one $32 a day (Earth time). $! mandy okay?
+16659: Purchase $32? ($1 m.) [Yes. ($! mandy)/No.]
+16660: $" $0 for $! mandy?
+16661: $" $0 ? ($1 m.m) [Yes. ($! mandy)/No.]
+16662: I show book that tells how to play!
+16663: --- Game $0 ($1W-$2L) ---
+16664: $26$25$26[Adenium/Citrullus] bonus active! ($1x mandy)$26$25$26
+16665: Place on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
+16666: There is already a piece in this location.
+16667: You will forfeit all mandy earned this game if you give up. Are you sure?
+16668: Really give up? [Yes./No.]
+16669: Game $0 Complete!
+16670: @@[Victory!/Defeat!] - You receive $1 mandy for a total of $2.
+16671: @ Draw! (restart from Game $0)
+16672: @ With a record of $1W and $2L, you [win!/lose!]
+16673: You receive $0 mandy for a total of $1.
+16674: You have reached the mandy cap of $0. Any additional mandy will be lost.
+16675: A new opponent joins the fray!
+16676: You are now able to select a random opponent.
+16677: New prizes are available!
+16678: An error has occurred. Please try again.
+16679: DEBUGF[Bonus Game Log/NPC Selection Controls/NPC Move Log/Specific Placement Confirmation 1 Log/Corners Log/Specific Placement Confirmation 2 Log] > [OFF/ON]
+16680: aDEBUGbPlace on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
+16681: DEBUG(NPC Selection): Area $0
+16682: RANDOM ([Bonus Game Selection/Four Corners Selection]): 0-$1 = $2
+16683: DEBUG (Specific Placement Confirmation $3): Area $0 > [A/B/C/D/E/F/G/H]$2
+16684: $0 $1 $2 $3
+16685: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
+16686: You must take on the "$0" Records of Eminence objective before receiving the explanation.
+16687: You must complete "$1" before taking on the "$0" Records of Eminence objective.
+16688: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
+16689: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
+16690: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
+16691: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
+16692: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
+16693: You can change the CTRL+Q shortcut command...
+16694: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
+16695: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
+16696: You must meet one of the following conditions in order to post to the Assist Channel.
+16697: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
+16698: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
+16699: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
+16700: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+16701: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
+16702: The Assist Channel can only be used in the following areas.
+16703: Available areas: $7, $7, $7, $7, $7, $7...
+16704: ...$7, $7, $7, $7, $7, $7, $7, $7...
+16705: ...$7, $7, $7, $7, $7, $7, $7, $7...
+16706: ...$7, $7, $7, and your Mog House (Rent-a-Room).
+16707: You cannot post or read messages outside of the areas listed above.
+16708: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
+16709: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
+16710: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
+16711: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
+16712: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
+16713: The higher the number, the more experienced the mentor is.
+16714: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
+16715: You can check your Mastery Rank by going to Main Menu > Status > Profile.
+16716: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
+16717: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
+16718: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
+16719: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
+16720: A "Warning" is a feature that can only be used by mentors.
+16721: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
+16722: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
+16723: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
+16724: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
+16725: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
+16726: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
+16727: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
+16728: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
+16729: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
+16730: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
+16731: You are about to lose the ability to post messages to the Assist Channel.
+16732: You are unable to post messages to the Assist Channel.
+16733: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
+16734: Good day, adventurer! I am able to repair any broken item data related to $0.
+16735: If you are unable to deliver $0, it's possible that the item data has been corrupted.
+16736: Please trade your $0 to me so that I may fix it.
+16737: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
+16738: I have restored it to its intended functionality. Here you are!
+16739: It appears that your item is working as intended.
+16740: An error has occurred. Please try again later.
+16741: Here you can play the game Mandragora Mania.
+16742: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
+16743: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
+16744: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
+16745: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
+16746: You may pay $& gil to reset all rewards, enabling you to purchase them again.
+16747: Reset rewards? ($' gil). [Yes ($& gil)./No.]
+16748: You do not have enough gil.
+16749: All rewards have been reset.
+16750: You have already purchased the $2.
+16751: You need at least $3 jingly to purchase the $2.
+16752: The reward exchange period has turned over and all rewards have been reset.
+16753: You may reset all rewards from the appropriate dialogue box.
+16754: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
+16755: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
+16756: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
+16757: Starting player set to [Random/You/Opponent].
+16758: Read the manual? [Sure./No thanks.]
+16759: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
+16760: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
+16761: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
+16762: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
+16763: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
+16764: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
+16765: You must choose one area--either yours or a neutral one--to proceed.
+16766: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
+16767: Conversely, your opponent must select either a neutral area or an area that belongs to them.
+16768: From the right, those areas are numbered 6, 4, 7, 2, and 8.
+16769: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
+16770: Note that the mandragoras will move from the back first--last in, first out.
+16771: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
+16772: You will enter your opponent's territory whenever you go past the goal.
+16773: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
+16774: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
+16775: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
+16776: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
+16777: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
+16778: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
+16779: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
+16780: Standard mandragoras: 1 jingly (both players).
+16781: The game is over when either you or your opponent no longer has any mandragoras that can move.
+16782: The player who has the most jingly at that point will be declared the winner.
+16783: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
+16784: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
+16785: You have selected Area $0.
+16786: You receive $0 jingly for a total of $1.
+16787: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
+16788: Your opponent has selected Area $0.
+16789: Your opponent receives $0 jingly for a total of $1.
+16790: Game Complete!
+16791: [Victory!/Defeat!/Draw!] ($0 - $1)
+16792: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
+16793: That area has no mandragora to move.
+16794: You will forfeit all jingly earned this game if you give up. Are you sure?
+16795: Really give up? [Yes./No.]
+16796: You receive $0 jingly for a total of $1.
+16797: You have reached the jingly cap of $0. Any additional jingly will be lost.
+16798: An error has occurred. Please try again.
+16799: DEBUG ( [OFF/ON]
+16800: RANDOMF0-$0 ( $1
+16801: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
+16802: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
+16803: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
+16804: 
+16805: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
+16806: NPC Selection ( Area $0
+16807: DEBUGFNPC Selection Controls ( [OFF/ON]
+16808: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
+16809: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+16810: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
+16811: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
+16812: You are now able to enjoy a new storyline, A Shantotto Ascension.
+16813: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
+16814: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
+16815: You are now able to enjoy a new storyline, Abyssea.
+16816: Start Abyssea? [Yes (View cutscene)./Maybe later.]
+16817: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
+16818: You are now able to enjoy a new storyline, Chains of Promathia.
+16819: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
+16820: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
+16821: You are now able to enjoy a new storyline, Seekers of Adoulin.
+16822: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
+16823: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
+16824: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+16825: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
+16826: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
+16827: You are now able to enjoy a new storyline, Rise of the Zilart.
+16828: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
+16829: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
+16830: Would you like to start a new storyline that you previously postponed?
+16831: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+16832: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+16833: Start the storyline? [Yes, please./No, thank you.]

@@ -68,14 +68,14 @@
 |      30 | 0x1E25      |        7717 |
 |      31 | 0x0022      |          34 |
 |      32 | 0x1E26      |        7718 |
-|      33 | 0x1FE7      |        8167 |
-|      34 | 0x1FE8      |        8168 |
-|      35 | 0x1FE9      |        8169 |
-|      36 | 0x1FEA      |        8170 |
+|      33 | 0x1FEB      |        8171 |
+|      34 | 0x1FEC      |        8172 |
+|      35 | 0x1FED      |        8173 |
+|      36 | 0x1FEE      |        8174 |
 |      37 | 0x003B      |          59 |
-|      38 | 0x1FEB      |        8171 |
+|      38 | 0x1FEF      |        8175 |
 |      39 | 0x099F      |        2463 |
-|      40 | 0x1FEC      |        8172 |
+|      40 | 0x1FF0      |        8176 |
 
 ## String References
 
@@ -87,12 +87,12 @@
 - **7716**: ...What!? I don't need you merrrcenaries' help. I could take the Astral Candescence back with both hands tied behind my back!
 - **7717**: Hmph, just because you think you know a thing or two about me now doesn't mean I like you.
 - **7718**: I am a generrral. You are a mercenary. Rrremember your station.
-- **8167**: What do you want, mercenary? I've got no time to chatter with the likes of you.
-- **8168**: Elder Nadeey sent you?
-- **8169**: ...
-- **8170**: You're serrrious about having this chat, aren't you?
-- **8171**: Aydeewa Subterrane. Wait there until I finish my duties.
-- **8172**: Oh, and if you bring $0 with you, I might even think about talking to you!
+- **8171**: What do you want, mercenary? I've got no time to chatter with the likes of you.
+- **8172**: Elder Nadeey sent you?
+- **8173**: ...
+- **8174**: You're serrrious about having this chat, aren't you?
+- **8175**: Aydeewa Subterrane. Wait there until I finish my duties.
+- **8176**: Oh, and if you bring $0 with you, I might even think about talking to you!
 
 ## Events
 
@@ -653,27 +653,27 @@ SUBROUTINE_0163:
   2: 0x0236 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x023B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x023C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8167*)
+  5: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
     → "What do you want, mercenary? I've got no time to chatter with the likes of you."
   6: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=8168*)
+  7: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
     → "Elder Nadeey sent you?"
   8: 0x0244 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0245 [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 32*
  10: 0x024C [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
- 11: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8169*)
+ 11: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "..."
  12: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
+ 13: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
     → "You're serrrious about having this chat, aren't you?"
  14: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0259 [0x99] Wait for EventEntity animation to complete
  16: 0x025E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 17: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
+ 17: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
     → "Aydeewa Subterrane. Wait there until I finish my duties."
  18: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0271 [0x03] Work_Zone[2] = 2463*
- 20: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+ 20: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
     → "Oh, and if you bring $0 with you, I might even think about talking to you!"
  21: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x027A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

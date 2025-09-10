@@ -1,5 +1,5 @@
 # Strings for Port San d'Oria
-# Total: 12237 strings
+# Total: 12248 strings
 
     0: The San d'Oria residential area is ahead. You'll find your Mog House within.
     1: I've not told you about Mog Houses yet, have I? Would you care to learn about them now?
@@ -12229,12 +12229,23 @@
 12225: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
 12226: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
 12227: You can trade any gender-specific dancer armor to the % to receive a version that better suits your new form.
-12228: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
-12229: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
-12230: This will change your character's appearance. Are you sure?
-12231: Change your character to this appearance? [Yes./No.]
-12232: Are you absolutely sure? [Yes./No.]
-12233: May Altana bless you as you begin your new life, kupo!
-12234: You were unable to use the specified appearance for your character.
-12235: eye X=$0 Y=$1 Z=$2
-12236: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)
+12228: Certain items can be exchanged for equippable ones by speaking with %.
+12229: Applicable items can be checked with % after changing races.
+12230: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
+12231: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
+12232: This will change your character's appearance. Are you sure?
+12233: Change your character to this appearance? [Yes./No.]
+12234: Are you absolutely sure? [Yes./No.]
+12235: May Altana bless you as you begin your new life, kupo!
+12236: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
+12237: Let me see if you have any.
+12238: Items held by NPCs or stored with storage slips are ineligible.
+12239: Have the moogle check? [Yes, please./No, thank you.]
+12240: Let's get down to business, kupo.
+12241: I can take the following:
+12242: Your $0.
+12243: That should cover it!
+12244: Wait...I can't take anything you have.
+12245: You were unable to use the specified appearance for your character.
+12246: eye X=$0 Y=$1 Z=$2
+12247: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)

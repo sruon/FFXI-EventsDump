@@ -14,23 +14,23 @@
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [116](#event-116)     | 0x0001       |    494 |             93 |
+| [108](#event-108)     | 0x0001       |    494 |             93 |
 
 ## DAT References (imed_data)
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x001F      |          31 |
+|       1 | 0x000B      |          11 |
 |       2 | 0x1C49      |        7241 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x0020      |          32 |
+|       4 | 0x000C      |          12 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x0021      |          33 |
+|       6 | 0x000D      |          13 |
 |       7 | 0x0003      |           3 |
-|       8 | 0x0022      |          34 |
+|       8 | 0x000E      |          14 |
 |       9 | 0x0004      |           4 |
-|      10 | 0x0023      |          35 |
+|      10 | 0x000F      |          15 |
 |      11 | 0x0005      |           5 |
 |      12 | 0x0006      |           6 |
 |      13 | 0x0007      |           7 |
@@ -40,17 +40,17 @@
 |      17 | 0xFFF6D840  |  4294367296 |
 |      18 | 0x07E8      |        2024 |
 |      19 | 0x94700     |      608000 |
-|      20 | 0x6B6C0     |      440000 |
+|      20 | 0xFFF94940  |  4294527296 |
 |      21 | 0xFFFEA840  |  4294879296 |
 |      22 | 0x0C00      |        3072 |
-|      23 | 0x825F0     |      534000 |
+|      23 | 0xFFF7DA10  |  4294433296 |
 |      24 | 0x29BF8     |      171000 |
-|      25 | 0x0E00      |        3584 |
-|      26 | 0x47C70     |      294000 |
-|      27 | 0x99520     |      628000 |
+|      25 | 0x0A00      |        2560 |
+|      26 | 0xFFFB8390  |  4294673296 |
+|      27 | 0xFFF66AE0  |  4294339296 |
 |      28 | 0x79568     |      497000 |
-|      29 | 0x0A00      |        2560 |
-|      30 | 0x5EBA0     |      388000 |
+|      29 | 0x0E00      |        3584 |
+|      30 | 0xFFFA1460  |  4294579296 |
 |      31 | 0x79950     |      498000 |
 |      32 | 0x0049      |          73 |
 |      33 | 0x008C      |         140 |
@@ -87,7 +87,7 @@
   0: 0x0000 [0x00] END_REQSTACK()
 ```
 
-### Event 116
+### Event 108
 
 #### Metadata
 
@@ -140,26 +140,26 @@
   1: 0x0003 [0x03] ExtData[1]->WorkLocal[0] = 0*
   2: 0x0008 [0x03] ExtData[1]->WorkLocal[1] = 0*
   3: 0x000D [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
-  4: 0x0012 [0x08] ExtData[1]->WorkLocal[0] -= 31*
+  4: 0x0012 [0x08] ExtData[1]->WorkLocal[0] -= 11*
   5: 0x0017 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   6: 0x001C [0x0B] Work_Zone[4]++
   7: 0x001F [0x24] CREATE_DIALOG(message_id=7241*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
     → "Destination? (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]"
   8: 0x0026 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0027 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0037
- 10: 0x002F [0x03] Work_Zone[1] = 31*
+ 10: 0x002F [0x03] Work_Zone[1] = 11*
  11: 0x0034 [0x01] GOTO 0x00A7
  12: 0x0037 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0047
- 13: 0x003F [0x03] Work_Zone[1] = 32*
+ 13: 0x003F [0x03] Work_Zone[1] = 12*
  14: 0x0044 [0x01] GOTO 0x00A7
  15: 0x0047 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0057
- 16: 0x004F [0x03] Work_Zone[1] = 33*
+ 16: 0x004F [0x03] Work_Zone[1] = 13*
  17: 0x0054 [0x01] GOTO 0x00A7
  18: 0x0057 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0067
- 19: 0x005F [0x03] Work_Zone[1] = 34*
+ 19: 0x005F [0x03] Work_Zone[1] = 14*
  20: 0x0064 [0x01] GOTO 0x00A7
  21: 0x0067 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0077
- 22: 0x006F [0x03] Work_Zone[1] = 35*
+ 22: 0x006F [0x03] Work_Zone[1] = 15*
  23: 0x0074 [0x01] GOTO 0x00A7
  24: 0x0077 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0087
  25: 0x007F [0x03] Work_Zone[1] = 1*
@@ -192,24 +192,24 @@ SUBROUTINE_00A7:
  50: 0x00FC [0x47] UPDATE_PLAYER_POS(608.000*, -600.000*, 0.000*, yaw=0.0°*)
  51: 0x0106 [0x47] WAIT_PLAYER_POS_UPDATE
  52: 0x0108 [0x01] GOTO 0x017E
- 53: 0x010B [0x02] IF !(Work_Zone[1] == 31*) GOTO 0x0122
- 54: 0x0113 [0x47] UPDATE_PLAYER_POS(440.000*, -88.000*, 0.000*, yaw=270.0°*)
+ 53: 0x010B [0x02] IF !(Work_Zone[1] == 11*) GOTO 0x0122
+ 54: 0x0113 [0x47] UPDATE_PLAYER_POS(-440.000*, -88.000*, 0.000*, yaw=270.0°*)
  55: 0x011D [0x47] WAIT_PLAYER_POS_UPDATE
  56: 0x011F [0x01] GOTO 0x017E
- 57: 0x0122 [0x02] IF !(Work_Zone[1] == 32*) GOTO 0x0139
- 58: 0x012A [0x47] UPDATE_PLAYER_POS(534.000*, 171.000*, 0.000*, yaw=315.0°*)
+ 57: 0x0122 [0x02] IF !(Work_Zone[1] == 12*) GOTO 0x0139
+ 58: 0x012A [0x47] UPDATE_PLAYER_POS(-534.000*, 171.000*, 0.000*, yaw=225.0°*)
  59: 0x0134 [0x47] WAIT_PLAYER_POS_UPDATE
  60: 0x0136 [0x01] GOTO 0x017E
- 61: 0x0139 [0x02] IF !(Work_Zone[1] == 33*) GOTO 0x0150
- 62: 0x0141 [0x47] UPDATE_PLAYER_POS(294.000*, 171.000*, 0.000*, yaw=315.0°*)
+ 61: 0x0139 [0x02] IF !(Work_Zone[1] == 13*) GOTO 0x0150
+ 62: 0x0141 [0x47] UPDATE_PLAYER_POS(-294.000*, 171.000*, 0.000*, yaw=225.0°*)
  63: 0x014B [0x47] WAIT_PLAYER_POS_UPDATE
  64: 0x014D [0x01] GOTO 0x017E
- 65: 0x0150 [0x02] IF !(Work_Zone[1] == 34*) GOTO 0x0167
- 66: 0x0158 [0x47] UPDATE_PLAYER_POS(628.000*, 497.000*, 0.000*, yaw=225.0°*)
+ 65: 0x0150 [0x02] IF !(Work_Zone[1] == 14*) GOTO 0x0167
+ 66: 0x0158 [0x47] UPDATE_PLAYER_POS(-628.000*, 497.000*, 0.000*, yaw=315.0°*)
  67: 0x0162 [0x47] WAIT_PLAYER_POS_UPDATE
  68: 0x0164 [0x01] GOTO 0x017E
- 69: 0x0167 [0x02] IF !(Work_Zone[1] == 35*) GOTO 0x017E
- 70: 0x016F [0x47] UPDATE_PLAYER_POS(388.000*, 498.000*, 0.000*, yaw=225.0°*)
+ 69: 0x0167 [0x02] IF !(Work_Zone[1] == 15*) GOTO 0x017E
+ 70: 0x016F [0x47] UPDATE_PLAYER_POS(-388.000*, 498.000*, 0.000*, yaw=315.0°*)
  71: 0x0179 [0x47] WAIT_PLAYER_POS_UPDATE
  72: 0x017B [0x01] GOTO 0x017E
 

@@ -8419,7 +8419,7 @@
  8415: Receive $10 deeds? [Yes./No.]
  8416: Receive $11 exemplar points? [Yes./No.]
  8417: Receive $12 EXP? [Yes./No.]
- 8418: Receive $12 job points? [Yes./No.]
+ 8418: Receive $23 job points? [Yes./No.]
  8419: You will receive $29 $0%0 .
  8420: Receive the $28? [Yes./No.]
  8421: Receive the $3? [Yes./No.]

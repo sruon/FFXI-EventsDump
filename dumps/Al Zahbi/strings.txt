@@ -1,5 +1,5 @@
 # Strings for Al Zahbi
-# Total: 8249 strings
+# Total: 8253 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -8000,7 +8000,7 @@
  7996: You currently possess $0 [Imperial Standing credit/Imperial Standing credits]. Would you like to use them to purchase items?
  7997: You currently possess $0 [Imperial Standing accolade/Imperial Standing Accolades]. Would you like to use them to purchase items?
  7998: Which item do you wish to purchase? [Common items (All ranks)./1000-pt. items (Private 2nd Class)."000-pt. items (Private 1st Class)./4000-pt. items (Superior Private)./8000-pt. items (Lance Corporal)./16000-pt. items (Corporal)."4000-pt. items (Sergeant)."2000-pt. items (Sergeant Major)./40000-pt. items (Chief Sergeant)./48000-pt. items (Second Lieutenant)./56000-pt. items (First Lieutenant)./Cancel.]
- 7999: Which item do you wish to purchase? [Common items (All ranks)."000-pt. items (First Lieutenant.)/Cancel.]
+ 7999: Which item do you wish to purchase? [Common items (All ranks)."000-pt. items (First Lieutenant.)/Escutcheon materials (All ranks)./Cancel.]
  8000: There are currently no items available for that rank.
  8001: Your Imperial Standing is too low to purchase the $3.
  8002: Are you sure you want to purchase the $3?
@@ -8015,238 +8015,242 @@
  8011: You seem to be able to equip the $8. Do you wish to proceed?
  8012: Are you sure you want to purchase the $8?
  8013: Are you sure you want to purchase the $8?
- 8014: Proceed? [Yes, purchase item./Cancel purchase.]
- 8015: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
- 8016: Which item do you wish to purchase? [$9./$10./$11./Back.]
- 8017: Which item do you wish to purchase? [$9./$10./$11./$12./Back.]
- 8018: Which item do you wish to purchase? [$9./$10./$11./$12./$13./Back.]
- 8019: Which item do you wish to purchase? [$9 ($20 credits)./$10 ($21 credits)./$11 ($22 credits)./$12 ($23 credits)./$13 ($24 credits)./$14 ($25 credits)./$15 ($26 credits)./$16 ($27 credits)./$17 ($28 credits)./Next page./Previous page./Back.]
- 8020: Which item do you wish to purchase? [$9 ($20 accolades)./$10 ($21 accolades)./$11 ($22 accolades)./Back.]
- 8021: Which item do you wish to purchase? [$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Back.]
- 8022: What do you wish to know about? [Nothing./Sanction./Imperial Standing./Besieged.]
- 8023: What about Besieged? [Never mind./Besieged basics./"Serpent Generals."/Astral Candescence in Al Zahbi./Astral Candescence with beastmen./Empire's current state of defense.]
- 8024: "Sanction" is a magic spell that we use to observe and assess mercenaries' actions.
- 8025: Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.
- 8026: When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.
- 8027: Sanction is also necessary in order to receive crystals from the enemies you defeat.
- 8028: But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.
- 8029: You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.
- 8030: Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.
- 8031: You can view your Imperial Standing by selecting "Besieged" under "Region Info."
- 8032: You can also speak to me at any time to exchange your Imperial Standing credits for items.
- 8033: "Besieged" occurs when the beastman armies breach the walls of Al Zahbi.
- 8034: Everyone in town who is capable of wielding a weapon is called to action to defend Al Zahbi alongside the Imperial Army.
- 8035: The beastmen's main purpose is to enter the Hall of Binding and wrest the "Astral Candescence" from the Empire's control.
- 8036: You need not know what the Astral Candescence is.
- 8037: All you must know is that it is your duty to protect the five Serpent Generals who hold the keys to the Hall of Binding, and to drive the beastman hordes from the Imperial capital.
- 8038: The Empire's safety and its future rest on your capable shoulders! Rest assured that you will be rewarded for your efforts.
- 8039: The Empire's defense is entrusted to five generals.
- 8040: Each possesses a name corresponding to the symbols of the Empire--the serpents of flame, water, stone, gales, and sky.
- 8041: Furthermore, the mirrors used to open the Hall of Binding are divided among their possession. Thus, the generals' fates determine the tide of battle.
- 8042: If all five generals should fall in battle, the Hall of Binding will open, and the beastmen will be able to seize the Astral Candescence.
- 8043: It is your responsibility to prevent such a disaster from happening. We are depending on you!
- 8044: When the Astral Candescence is safely resting on its plinth in the Hall of Binding, it emanates waves that bestow special bonuses to Sanction.
- 8045: The first bonus is a slight boost to the amount of experience points received from battles. You will receive this effect simply by having Sanction cast on you.
- 8046: There are several other bonus effects, but you must sacrifice some of your Imperial Standing credits in order to receive them.
- 8047: Keep in mind that the bonuses become more powerful with the number of times the Imperial capital is successfully defended.
- 8048: Sanction's strength will reset if the beastmen succeed in invading the Hall of Binding, though.
- 8049: The waves emanating from the Astral Candescence in Al Zahbi bring a multitude of blessings to all of us. You must not let it fall into the hands of the beastmen!
- 8050: If the beastmen manage to take the Astral Candescence, its recovery will become our top priority. Find the coveted item on a plinth in one of the beastman strongholds and seize it back for the Empire!
- 8051: We aren't quite sure what the beastmen are scheming to do with such power, but we do know that the Astral Candescence's waves can increase the beastmen's strength.
- 8052: As if that weren't enough, we have recent reports that the beastmen have set "archaic mirrors" in their strongholds to magnify the power of the waves.
- 8053: If you should come across any archaic mirrors, take them immediately and trade them to an Imperial guard.
- 8054: Al Zahbi has been successively victorious in $4 [battle/battles] to defend the capital, bringing the Imperial defense to a value of $5. The Imperial capital has seen $6 [victory/victories] overall, and the Astral Candescence has been seized by the beastmen a total of $7 [time/times].
- 8055: You do not possess the $1 [Imperial Standing credit/Imperial Standing credits] required to fully recharge the $0.
- 8056: Please be aware that you can only recharge $0 once during the period between each Conquest tally.
- 8057: The $0 is already fully charged.
- 8058: Your $0 has received $2 [charge/charges] in exchange for $1 [Imperial Standing credit/Imperial Standing credits]. It is now fully recharged.
- 8059: Your Imperial Standing has increased by $0 credits!
- 8060: Your Imperial Standing Accolades have increased by $0 credits!
- 8061: Have you heard about the late Emperor Jalzahn?
- 8062: You have heard... [A few things./...about who?]
- 8063: Then you must have been in shock when he passed away. It was all so sudden...
- 8064: He was one of those rare leaders whose will lined up with that of the people. Compared to him, the current Empress is...well, just a little less agreeable, shall we say? Do not mention so to anyone else, though...
- 8065: You have never heard of Emperor Jalzahn!? He was Emperor until four years ago, when he left the mortal realm. His wife followed him shortly thereafter.
- 8066: During their lifetimes, the Emperor and Empress often mingled with the people of the Empire, even coming as far as the Commoners' Ward for visits. They were greatly loved by the public, and we always looked forward to seeing them...
- 8067: The Astral Candescence gives off a melody called the Astral Wind, unperceivable by the mortal ear.
- 8068: How I would love to hear its heavenly chime one day... I wonder if there is a way...
- 8069: That place is called the "Hall of Binding." The door is always closed, and the place gives everyone the creeps. They say that a great treasure called the "Astral Candescence" is kept there.
- 8070: Being so secretive just makes people more curious, though...
- 8071: Right now, it looks like you can go in and have a peek. Not that it's worth it. There's just some big pillar, with no treasure in sight...
- 8072: I heard a scary-wary story-wory the other day! You see, a long time ago, the Imperial Army went to fight against the Lamiae on Arrapago Reef...
- 8073: And they brought a whole bunchy-wunch of automatons to help them fight... I'm still shiver-wivering...
- 8074: But then comes the reeeally scary part. The battle automatons were charmed by the Lamiae...
- 8075: Isn't that frighty-wightening? Every last one went crazy for the Lamiae!
- 8076: I don't want to imagine my Truffle being crazy about anyone but me... I think my hearty-weart would just bursty-wurst!
- 8077: So I've decided to never, ever go near Arrapago Reef. Anyway, I heard Lamiae can charm Tarutaru, too!
- 8078: You better look out too, okay? It's a danger-wangerous world we live in.
- 8079: Lamiae. Scary-wary.
- 8080: Only a joke. Truffle does not know what Lamiae are.
- 8081: Empress Nashmeira II appeared at the palace seemingly out of nowhere, and now she reigns over the Empire.
- 8082: Since she took the throne, not a single good thing has happened. Beastman raids are a bronze piece a dozen and nobody feels safe walking the streets of Al Zahbi anymore...
- 8083: I have heard that she has absolutely no interest in governmental matters, as well. What is to become of our nation?
- 8084: Until about two hundred years ago, this land belonged to a nation called the "Kingdom of Ephramad," which prospered in the shipping trade.
- 8085: Trade between Ephramad and the West flourished until their tiny nation began to equal the Aht Urhgan Empire in wealth and the size of their navy.
- 8086: The rivalry between the two nations reached a critical point, and the Imperial Army used a power no man should even possess... The Kingdom of Ephramad was completely destroyed. I find the Empire's actions absolutely deplorable...
- 8087: My homeland, the Marquisate of Tavnazia, was destroyed in a beastman attack roughly twenty years ago. I was in Al Zahbi at the time...
- 8088: Although we were allies, the former Emperor threw the ambassador out of town without so much as a word of condolence. I have never seen such a disgrace in my entire life!
- 8089: Since Grand Vizier Razfahd began working to restore peace on the streets of the Imperial capital, Al Zahbi has been gradually changing for the better.
- 8090: The beastman invasions are still the same, but theft and other crimes have gone down. Thanks to the Grand Vizier, business is better than ever!
- 8091: My younger brother went missing after a beastman attack once. I was sure I would never see his smiling face again...
- 8092: But the other day, I got a letter from him! Would you like to hear what it says? Just listen!
- 8093: "To my dear sister, Don't worry about me. The Mamool Ja are treating me like a king. I've got everything I ever wanted!
- 8094: "Mamook is a paradise. I'm so glad I studied blacksmithing!"
- 8095: I've decided to forget about my brother. There's just one thing I'm still curious about, though...
- 8096: What is he using his blacksmithing skills to make there?
- 8097: Thwee cheers for the Empwess!
- 8098: Don't I sound stwong? Just like an Imper-eel soldier, wight?
- 8099: Imper-eels are weally cool, but Serpent Generals are even cooler!
- 8100: Someday I wanna see them do their magic. They can make a "seal," you know? I don't know what that is, but I'd like to see it!
- 8101: But whenever I twy, my papa wuns after me and dwags me back home without any supper...
- 8102: I simply cannot bring myself to like the whole idea of working as a mercenary for mere riches.
- 8103: Perhaps I am just biased, but I cannot help but feel that mercenaries lack the conviction to protect this town.
- 8104: The volunteer soldiers seem very admirable in comparison. They risk their very lives to protect the town where they were raised!
- 8105: Such nice boys and girls... I'd like to bake them a pie.
- 8106: Aht Urhgan, land of the courageous...
- 8107: I used to have confidence in my strength, and I came to this nation to test my skill. But you could not pay me enough to face the ferocious beastmen here...
- 8108: Still, I can't go running home now, or everyone will think I am a coward! How do I get myself into these messes...?
- 8109: This "Bastion" is the best place in town to stage a defensive against invading beastmen. During an attack, we retreat to this area and bring the savages down as they rush in from the drawbridges.
- 8110: You have arrived at North Gate. Beyond lies Bhaflau Thickets. Many have perished to monster attacks beyond the town walls, so be on your guard.
- 8111: This is the West Gate. A short walk outside, and you will come to the Wajaom Woodlands. You will meet many beasts outside of town, so make sure you are prepared.
- 8112: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
- 8113: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
- 8114: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
- 8115: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 8116: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 8117: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 8118: Al Zahbi is Besieged! Defend the Astral Candescence!
- 8119: Al Zahbi is no longer Besieged.
- 8120: The beastmen have retreated.
- 8121: The Mamool Ja Savages have retreated.
- 8122: The Troll Mercenaries have retreated.
- 8123: The Undead Swarm has retreated.
- 8124: Al Zahbi has recovered the Astral Candescence.
- 8125: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
- 8126: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
- 8127: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
- 8128: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
- 8129: --------------/ : ($P12n [$5$30$Tj]
- 8130: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
- 8131: ydiff:$0zglobal:$1 own:$2 kind:$3
- 8132: yinfo:$0zwait:$1 kind:$2 kind_old:$3
- 8133: act:$0 node_speed_fix:$1 dst_node:$2 :$3
- 8134: NodeTarget:$0 POS($1 $2 $3)
- 8135: NodeNow:$0 POS($1 $2 $3)
- 8136: move_kind:$0 move_result:$1 same_count:$2 old:$3
- 8137: I hear that Chochoroon the appraiser has been taken by the beastmen... Oh my...! If he should be forced to talk, then they might come looking for me next time!
- 8138: There is nothing out of the ordinary here.
- 8139: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
- 8140: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
- 8141: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.
- 8142: If you still want one, it will cost you $0 gil. I see you currently have $1 gil.
- 8143: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
- 8144: You don't have enough gil.
- 8145: You cannot obtain the $0. Come back after sorting your inventory.
- 8146: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
- 8147: Only those fulfilling both requirements set forth by the alliance may ride a chocobo. First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of $6.
- 8148: Any of our fine birds here will bear you directly to the frontlines of battle. We charge a service fee of $0 Allied Notes, which goes towards seeing that the chocobos are well taken care of. My records indicate that you currently have $1 Allied Notes.
- 8149: Hmmm... It looks like you don't have enough Allied Notes. Sorry, but these birds aren't going to feed and groom themselves.
- 8150: I'm sorry, but we don't put our chocobos in the hands of people with $6. We wouldn't want our feathered friends dying from fright now, would we?
- 8151: The Imperial Army has supplied you with temporary items!
- 8152: Feel the blade of the Skyserpent!
- 8153: Do not despair! The Goddess of Victory fights by our side!
- 8154: The enemy is fierce. But the Guardian of Al Zahbi will not fall!
- 8155: Hahaha! Burn! Burn, you slimy maggots!
- 8156: Ash and smoking ruin! Writhe in the flames of vengeance!
- 8157: Ahahahahaha! I can feel the inferno building in my soul! None will stand before the fury of the Flameserpent!
- 8158: Swift and sure!
- 8159: For the glory of the Empress!
- 8160: The winds of the Galeserpent will sweep all before them!
- 8161: Gahahahaha!
- 8162: Oho! More meat for the grinder!
- 8163: Gahahahahaha! Did you think the mighty Stoneserpent fought with pebbles!?
- 8164: Hmph, good enough for the likes of you!
- 8165: Bah! Guess I'll pull out another one of my trrricks!
- 8166: Be cleansed by the waters of the Sprrringserpent!
- 8167: What do you want, mercenary? I've got no time to chatter with the likes of you.
- 8168: Elder Nadeey sent you?
- 8169: ...
- 8170: You're serrrious about having this chat, aren't you?
- 8171: Aydeewa Subterrane. Wait there until I finish my duties.
- 8172: Oh, and if you bring $0 with you, I might even think about talking to you!
- 8173: Temporary item: $0 crumbles into ash!
- 8174: Hail, soldier. I am a purveyor tasked with furnishing the brave men and women of the Voidwatch with essential supplies. My wares can be yours, provided you've got [Conquest Points/Imperial Standing/Allied Notes] to trade. After all, we can't afford to let our limited resources go to waste in the hands of some unproven rookie.
- 8175: Procure supplies? ([Points/Standing/Notes]: $1) [Not now./$2 ($3)./$4 ($5)./$6 ($7)./$8 ($9)./$10 ($11)./$12 ($13)./$14 ($15)./$16 ($17)./$18 ($19)./$20 ($21)./$22 ($23)./$24 ($25)./$26 ($27)./$28 ($29)./$30 ($31).]
- 8176: How many? ([Points/Standing/Notes]: $1) [None, actually./One (Cost: $2)./Three (Cost: $3),/Six (Cost: $4)./Nine (Cost: $5)./Twelve (Cost: $6).]
- 8177: This $0 will cost you $1 [Conquest Points/credits of Imperial Standing/Allied Notes].
- 8178: It seems you're short on [Conquest Points/Imperial Standing credits/Allied Notes], soldier. Come back when you've got a bit more seasoning under your belt.
- 8179: Proceed? (Required [Points/Standing/Notes]: $1) [Yes./No.]
- 8180: <Player> obtains $1 in exchange for $0 [Conquest Points/credits of Imperial Standing/Allied Notes].
- 8181: <Player> obtains $2 $1 in exchange for $0 [Conquest Points/credits of Imperial Standing/Allied Notes].
- 8182: <Player> obtains $6 in exchange for $0 [Conquest Points/credits of Imperial Standing/Allied Notes].
- 8183: This $3 will cost you $1 [Conquest Points/credits of Imperial Standing/Allied Notes].
- 8184: You already have $6, and I'm not authorized to furnish you with another. Resources are in short supply. You'll have to make do with what you've already got.
- 8185: 
- 8186: 
- 8187: 
- 8188: 
+ 8014: I can sell you up to $! more $8. Are you sure you want to purchase them?
+ 8015: I cannot sell you any more $8.
+ 8016: Enter how many you would like to purchase ($" to $#), or 0 to cancel.
+ 8017: Proceed? [Yes, purchase item./Cancel purchase.]
+ 8018: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
+ 8019: Which item do you wish to purchase? [$9./$10./$11./Back.]
+ 8020: Which item do you wish to purchase? [$9./$10./$11./$12./Back.]
+ 8021: Which item do you wish to purchase? [$9./$10./$11./$12./$13./Back.]
+ 8022: Which item do you wish to purchase? [$9 ($20 credits)./$10 ($21 credits)./$11 ($22 credits)./$12 ($23 credits)./$13 ($24 credits)./$14 ($25 credits)./$15 ($26 credits)./$16 ($27 credits)./$17 ($28 credits)./Next page./Previous page./Back.]
+ 8023: Which item do you wish to purchase? [$9 ($20 accolades)./$10 ($21 accolades)./$11 ($22 accolades)./$12 ($23 accolades)./$13 ($24 accolades)./Back.]
+ 8024: Which item do you wish to purchase? [$9 ($21 accolades)./$10 ($22 accolades)./$11 ($23 accolades)./$12 ($24 accolades)./$13 ($25 accolades)./$14 ($26 accolades)./$15 ($27 accolades)./$16 ($28 accolades)./$17 ($29 accolades)./$18 ($30 accolades)./$19 ($31 accolades)./$20 ($ accolades)./Back.]
+ 8025: Which item do you wish to purchase? [$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Back.]
+ 8026: What do you wish to know about? [Nothing./Sanction./Imperial Standing./Besieged.]
+ 8027: What about Besieged? [Never mind./Besieged basics./"Serpent Generals."/Astral Candescence in Al Zahbi./Astral Candescence with beastmen./Empire's current state of defense.]
+ 8028: "Sanction" is a magic spell that we use to observe and assess mercenaries' actions.
+ 8029: Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.
+ 8030: When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.
+ 8031: Sanction is also necessary in order to receive crystals from the enemies you defeat.
+ 8032: But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.
+ 8033: You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.
+ 8034: Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.
+ 8035: You can view your Imperial Standing by selecting "Besieged" under "Region Info."
+ 8036: You can also speak to me at any time to exchange your Imperial Standing credits for items.
+ 8037: "Besieged" occurs when the beastman armies breach the walls of Al Zahbi.
+ 8038: Everyone in town who is capable of wielding a weapon is called to action to defend Al Zahbi alongside the Imperial Army.
+ 8039: The beastmen's main purpose is to enter the Hall of Binding and wrest the "Astral Candescence" from the Empire's control.
+ 8040: You need not know what the Astral Candescence is.
+ 8041: All you must know is that it is your duty to protect the five Serpent Generals who hold the keys to the Hall of Binding, and to drive the beastman hordes from the Imperial capital.
+ 8042: The Empire's safety and its future rest on your capable shoulders! Rest assured that you will be rewarded for your efforts.
+ 8043: The Empire's defense is entrusted to five generals.
+ 8044: Each possesses a name corresponding to the symbols of the Empire--the serpents of flame, water, stone, gales, and sky.
+ 8045: Furthermore, the mirrors used to open the Hall of Binding are divided among their possession. Thus, the generals' fates determine the tide of battle.
+ 8046: If all five generals should fall in battle, the Hall of Binding will open, and the beastmen will be able to seize the Astral Candescence.
+ 8047: It is your responsibility to prevent such a disaster from happening. We are depending on you!
+ 8048: When the Astral Candescence is safely resting on its plinth in the Hall of Binding, it emanates waves that bestow special bonuses to Sanction.
+ 8049: The first bonus is a slight boost to the amount of experience points received from battles. You will receive this effect simply by having Sanction cast on you.
+ 8050: There are several other bonus effects, but you must sacrifice some of your Imperial Standing credits in order to receive them.
+ 8051: Keep in mind that the bonuses become more powerful with the number of times the Imperial capital is successfully defended.
+ 8052: Sanction's strength will reset if the beastmen succeed in invading the Hall of Binding, though.
+ 8053: The waves emanating from the Astral Candescence in Al Zahbi bring a multitude of blessings to all of us. You must not let it fall into the hands of the beastmen!
+ 8054: If the beastmen manage to take the Astral Candescence, its recovery will become our top priority. Find the coveted item on a plinth in one of the beastman strongholds and seize it back for the Empire!
+ 8055: We aren't quite sure what the beastmen are scheming to do with such power, but we do know that the Astral Candescence's waves can increase the beastmen's strength.
+ 8056: As if that weren't enough, we have recent reports that the beastmen have set "archaic mirrors" in their strongholds to magnify the power of the waves.
+ 8057: If you should come across any archaic mirrors, take them immediately and trade them to an Imperial guard.
+ 8058: Al Zahbi has been successively victorious in $4 [battle/battles] to defend the capital, bringing the Imperial defense to a value of $5. The Imperial capital has seen $6 [victory/victories] overall, and the Astral Candescence has been seized by the beastmen a total of $7 [time/times].
+ 8059: You do not possess the $1 [Imperial Standing credit/Imperial Standing credits] required to fully recharge the $0.
+ 8060: Please be aware that you can only recharge $0 once during the period between each Conquest tally.
+ 8061: The $0 is already fully charged.
+ 8062: Your $0 has received $2 [charge/charges] in exchange for $1 [Imperial Standing credit/Imperial Standing credits]. It is now fully recharged.
+ 8063: Your Imperial Standing has increased by $0 credits!
+ 8064: Your Imperial Standing Accolades have increased by $0 credits!
+ 8065: Have you heard about the late Emperor Jalzahn?
+ 8066: You have heard... [A few things./...about who?]
+ 8067: Then you must have been in shock when he passed away. It was all so sudden...
+ 8068: He was one of those rare leaders whose will lined up with that of the people. Compared to him, the current Empress is...well, just a little less agreeable, shall we say? Do not mention so to anyone else, though...
+ 8069: You have never heard of Emperor Jalzahn!? He was Emperor until four years ago, when he left the mortal realm. His wife followed him shortly thereafter.
+ 8070: During their lifetimes, the Emperor and Empress often mingled with the people of the Empire, even coming as far as the Commoners' Ward for visits. They were greatly loved by the public, and we always looked forward to seeing them...
+ 8071: The Astral Candescence gives off a melody called the Astral Wind, unperceivable by the mortal ear.
+ 8072: How I would love to hear its heavenly chime one day... I wonder if there is a way...
+ 8073: That place is called the "Hall of Binding." The door is always closed, and the place gives everyone the creeps. They say that a great treasure called the "Astral Candescence" is kept there.
+ 8074: Being so secretive just makes people more curious, though...
+ 8075: Right now, it looks like you can go in and have a peek. Not that it's worth it. There's just some big pillar, with no treasure in sight...
+ 8076: I heard a scary-wary story-wory the other day! You see, a long time ago, the Imperial Army went to fight against the Lamiae on Arrapago Reef...
+ 8077: And they brought a whole bunchy-wunch of automatons to help them fight... I'm still shiver-wivering...
+ 8078: But then comes the reeeally scary part. The battle automatons were charmed by the Lamiae...
+ 8079: Isn't that frighty-wightening? Every last one went crazy for the Lamiae!
+ 8080: I don't want to imagine my Truffle being crazy about anyone but me... I think my hearty-weart would just bursty-wurst!
+ 8081: So I've decided to never, ever go near Arrapago Reef. Anyway, I heard Lamiae can charm Tarutaru, too!
+ 8082: You better look out too, okay? It's a danger-wangerous world we live in.
+ 8083: Lamiae. Scary-wary.
+ 8084: Only a joke. Truffle does not know what Lamiae are.
+ 8085: Empress Nashmeira II appeared at the palace seemingly out of nowhere, and now she reigns over the Empire.
+ 8086: Since she took the throne, not a single good thing has happened. Beastman raids are a bronze piece a dozen and nobody feels safe walking the streets of Al Zahbi anymore...
+ 8087: I have heard that she has absolutely no interest in governmental matters, as well. What is to become of our nation?
+ 8088: Until about two hundred years ago, this land belonged to a nation called the "Kingdom of Ephramad," which prospered in the shipping trade.
+ 8089: Trade between Ephramad and the West flourished until their tiny nation began to equal the Aht Urhgan Empire in wealth and the size of their navy.
+ 8090: The rivalry between the two nations reached a critical point, and the Imperial Army used a power no man should even possess... The Kingdom of Ephramad was completely destroyed. I find the Empire's actions absolutely deplorable...
+ 8091: My homeland, the Marquisate of Tavnazia, was destroyed in a beastman attack roughly twenty years ago. I was in Al Zahbi at the time...
+ 8092: Although we were allies, the former Emperor threw the ambassador out of town without so much as a word of condolence. I have never seen such a disgrace in my entire life!
+ 8093: Since Grand Vizier Razfahd began working to restore peace on the streets of the Imperial capital, Al Zahbi has been gradually changing for the better.
+ 8094: The beastman invasions are still the same, but theft and other crimes have gone down. Thanks to the Grand Vizier, business is better than ever!
+ 8095: My younger brother went missing after a beastman attack once. I was sure I would never see his smiling face again...
+ 8096: But the other day, I got a letter from him! Would you like to hear what it says? Just listen!
+ 8097: "To my dear sister, Don't worry about me. The Mamool Ja are treating me like a king. I've got everything I ever wanted!
+ 8098: "Mamook is a paradise. I'm so glad I studied blacksmithing!"
+ 8099: I've decided to forget about my brother. There's just one thing I'm still curious about, though...
+ 8100: What is he using his blacksmithing skills to make there?
+ 8101: Thwee cheers for the Empwess!
+ 8102: Don't I sound stwong? Just like an Imper-eel soldier, wight?
+ 8103: Imper-eels are weally cool, but Serpent Generals are even cooler!
+ 8104: Someday I wanna see them do their magic. They can make a "seal," you know? I don't know what that is, but I'd like to see it!
+ 8105: But whenever I twy, my papa wuns after me and dwags me back home without any supper...
+ 8106: I simply cannot bring myself to like the whole idea of working as a mercenary for mere riches.
+ 8107: Perhaps I am just biased, but I cannot help but feel that mercenaries lack the conviction to protect this town.
+ 8108: The volunteer soldiers seem very admirable in comparison. They risk their very lives to protect the town where they were raised!
+ 8109: Such nice boys and girls... I'd like to bake them a pie.
+ 8110: Aht Urhgan, land of the courageous...
+ 8111: I used to have confidence in my strength, and I came to this nation to test my skill. But you could not pay me enough to face the ferocious beastmen here...
+ 8112: Still, I can't go running home now, or everyone will think I am a coward! How do I get myself into these messes...?
+ 8113: This "Bastion" is the best place in town to stage a defensive against invading beastmen. During an attack, we retreat to this area and bring the savages down as they rush in from the drawbridges.
+ 8114: You have arrived at North Gate. Beyond lies Bhaflau Thickets. Many have perished to monster attacks beyond the town walls, so be on your guard.
+ 8115: This is the West Gate. A short walk outside, and you will come to the Wajaom Woodlands. You will meet many beasts outside of town, so make sure you are prepared.
+ 8116: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
+ 8117: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
+ 8118: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
+ 8119: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 8120: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 8121: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 8122: Al Zahbi is Besieged! Defend the Astral Candescence!
+ 8123: Al Zahbi is no longer Besieged.
+ 8124: The beastmen have retreated.
+ 8125: The Mamool Ja Savages have retreated.
+ 8126: The Troll Mercenaries have retreated.
+ 8127: The Undead Swarm has retreated.
+ 8128: Al Zahbi has recovered the Astral Candescence.
+ 8129: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
+ 8130: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
+ 8131: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
+ 8132: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
+ 8133: --------------/ : ($P12n [$5$30$Tj]
+ 8134: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
+ 8135: ydiff:$0zglobal:$1 own:$2 kind:$3
+ 8136: yinfo:$0zwait:$1 kind:$2 kind_old:$3
+ 8137: act:$0 node_speed_fix:$1 dst_node:$2 :$3
+ 8138: NodeTarget:$0 POS($1 $2 $3)
+ 8139: NodeNow:$0 POS($1 $2 $3)
+ 8140: move_kind:$0 move_result:$1 same_count:$2 old:$3
+ 8141: I hear that Chochoroon the appraiser has been taken by the beastmen... Oh my...! If he should be forced to talk, then they might come looking for me next time!
+ 8142: There is nothing out of the ordinary here.
+ 8143: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
+ 8144: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
+ 8145: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.
+ 8146: If you still want one, it will cost you $0 gil. I see you currently have $1 gil.
+ 8147: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
+ 8148: You don't have enough gil.
+ 8149: You cannot obtain the $0. Come back after sorting your inventory.
+ 8150: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
+ 8151: Only those fulfilling both requirements set forth by the alliance may ride a chocobo. First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of $6.
+ 8152: Any of our fine birds here will bear you directly to the frontlines of battle. We charge a service fee of $0 Allied Notes, which goes towards seeing that the chocobos are well taken care of. My records indicate that you currently have $1 Allied Notes.
+ 8153: Hmmm... It looks like you don't have enough Allied Notes. Sorry, but these birds aren't going to feed and groom themselves.
+ 8154: I'm sorry, but we don't put our chocobos in the hands of people with $6. We wouldn't want our feathered friends dying from fright now, would we?
+ 8155: The Imperial Army has supplied you with temporary items!
+ 8156: Feel the blade of the Skyserpent!
+ 8157: Do not despair! The Goddess of Victory fights by our side!
+ 8158: The enemy is fierce. But the Guardian of Al Zahbi will not fall!
+ 8159: Hahaha! Burn! Burn, you slimy maggots!
+ 8160: Ash and smoking ruin! Writhe in the flames of vengeance!
+ 8161: Ahahahahaha! I can feel the inferno building in my soul! None will stand before the fury of the Flameserpent!
+ 8162: Swift and sure!
+ 8163: For the glory of the Empress!
+ 8164: The winds of the Galeserpent will sweep all before them!
+ 8165: Gahahahaha!
+ 8166: Oho! More meat for the grinder!
+ 8167: Gahahahahaha! Did you think the mighty Stoneserpent fought with pebbles!?
+ 8168: Hmph, good enough for the likes of you!
+ 8169: Bah! Guess I'll pull out another one of my trrricks!
+ 8170: Be cleansed by the waters of the Sprrringserpent!
+ 8171: What do you want, mercenary? I've got no time to chatter with the likes of you.
+ 8172: Elder Nadeey sent you?
+ 8173: ...
+ 8174: You're serrrious about having this chat, aren't you?
+ 8175: Aydeewa Subterrane. Wait there until I finish my duties.
+ 8176: Oh, and if you bring $0 with you, I might even think about talking to you!
+ 8177: Temporary item: $0 crumbles into ash!
+ 8178: Hail, soldier. I am a purveyor tasked with furnishing the brave men and women of the Voidwatch with essential supplies. My wares can be yours, provided you've got [Conquest Points/Imperial Standing/Allied Notes] to trade. After all, we can't afford to let our limited resources go to waste in the hands of some unproven rookie.
+ 8179: Procure supplies? ([Points/Standing/Notes]: $1) [Not now./$2 ($3)./$4 ($5)./$6 ($7)./$8 ($9)./$10 ($11)./$12 ($13)./$14 ($15)./$16 ($17)./$18 ($19)./$20 ($21)./$22 ($23)./$24 ($25)./$26 ($27)./$28 ($29)./$30 ($31).]
+ 8180: How many? ([Points/Standing/Notes]: $1) [None, actually./One (Cost: $2)./Three (Cost: $3),/Six (Cost: $4)./Nine (Cost: $5)./Twelve (Cost: $6).]
+ 8181: This $0 will cost you $1 [Conquest Points/credits of Imperial Standing/Allied Notes].
+ 8182: It seems you're short on [Conquest Points/Imperial Standing credits/Allied Notes], soldier. Come back when you've got a bit more seasoning under your belt.
+ 8183: Proceed? (Required [Points/Standing/Notes]: $1) [Yes./No.]
+ 8184: <Player> obtains $1 in exchange for $0 [Conquest Points/credits of Imperial Standing/Allied Notes].
+ 8185: <Player> obtains $2 $1 in exchange for $0 [Conquest Points/credits of Imperial Standing/Allied Notes].
+ 8186: <Player> obtains $6 in exchange for $0 [Conquest Points/credits of Imperial Standing/Allied Notes].
+ 8187: This $3 will cost you $1 [Conquest Points/credits of Imperial Standing/Allied Notes].
+ 8188: You already have $6, and I'm not authorized to furnish you with another. Resources are in short supply. You'll have to make do with what you've already got.
  8189: 
  8190: 
  8191: 
  8192: 
- 8193: How many? ( [Conquest Points/Imperial Standing/Allied Notes]: $1)
- 8194: You may purchase up to $2 at a time.
- 8195: Welcome to the MHMU's porter service, kupo! Which of your burdensome belongings shall I take off your hands today?
- 8196: Do something, kupo? [Porter service?/Buy a storage slip./No, thank you.]
- 8197: Is your gobbiebag splitting at the seams? Mog Safe spilling over? Why, an accomplished adventurer like yourself surely has more stuff than you know what to do with.
- 8198: That's where I come in, kupo. I'll gladly hold onto your prized possessions, freeing you space to gather up even grander goodies.
- 8199: To make use of my services, first you'll need to buy one of these storage slips for the low, low fee of $19 gil.
- 8200: Storage slips come in numerous varieties, kupo, each corresponding to a different type of item.
- 8201: You'll want to peruse the fine print closely, so you don't end up paying good gil for a scrap of parchment useless for the particular item you wish to store.
- 8202: Not that we moogles would object to that sort of donation, kupo.
- 8203: Choose the item you wish to entrust, then trade it to me along with a single storage slip. I will take the item and return the slip to you, marked with an invisible seal.
- 8204: Invisible to you, at least. It's plain as day to us moogles, so don't even think of trying to pull one over on us, kupo.
- 8205: When it comes time to retrieve your item, just trade to me a single storage slip--any slip--once again.
- 8206: I will present you with a list of all the items currently in my care, and you may choose the one you wish to withdraw. Simple as that, kupo!
- 8207: What's more, no additional transaction fees will be incurred! Pretty generous of us for a change, no?
- 8208: Now I bet you're wondering what the catch is, kupo. So as not to disappoint you, there are a few!
- 8209: For one, any signed items will lose their signatures if you store them with me.
- 8210: Why, you say? Hey, even we moogles aren't perfect! It's better for both of us if you keep your most precious possessions close at hand, kupo.
- 8211: Now listen up, because there's another catch, and it's a doozy.
- 8212: If you lose your storage slip, I won't be able to return your item. Ever. No ifs, ands, or buts! No "I'm sorry, Mister Porter Moogle, it'll never happen again!" Rules are rules, kupo, and someone has to keep them.
- 8213: Last, but not least, I can't accept equipment bearing Magian trial insignia.
- 8214: If you have such an item that you're simply dying to entrust to me, you'll have to abandon your trial first, kupo.
- 8215: And that's all there is to it. This humble moogle can hardly wait to serve you!
- 8216: Buy something? (p. $16/$17). [Previous page./$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Next page./Cancel.]
- 8217: $32 will cost you $19 gil. Do we have a deal, kupo?
- 8218: Deal, kupo? (Current gil: $18). [Check storable items./Deal./No deal.]
- 8219: The $32 will allow you to store the following items:
- 8220: $33.
- 8221: $33.
- 8222: ...and that's all.
- 8223: $32 (p. $16/$17). [Previous page./$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Next page./Cancel.]
- 8224: Warning! If you lose your $0 while storing a corresponding item, you will be forever unable to retrieve that item!
- 8225: Is that $3 I see, kupo?
- 8226: What will you do? [Retrieve an item./Confirm storable items./Nothing.]
- 8227: Retrieve an item? (p. $16/$17). [Previous page./$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Next page./Cancel.]
- 8228: Retrieve $32? [Retrieve it./Leave it.]
- 8229: You retrieve $0 from the porter moogle's care.
- 8230: Kupo? I'm already taking care of that item for you.
- 8231: $0, yes? Very well! Your precious property is safe with me, kupo!
- 8232: $0 [variety/varieties] of item, is it? Very well! Your precious property is safe with me, kupo!
- 8233: Is that a Magian insignia I see on that $0? You'll have to abandon your trial before I can take it off your hands, kupo.
- 8234: That $0 appears to be augmented. I'm sorry, but I can't accept such specialized gear, kupo.
- 8235: Curious as to whether I can accept that item? Let me check my annals.
- 8236: Why, yes I can! % can be stored with $1.
- 8237: Why, it looks as if you have $1 located in your [inventory/Mog Safe/Mog Safe 2/Mog House storage/Mog Locker/Mog Satchel/Mog Sack/Mog Case/Mog Wardrobe/Mog Wardrobe 2/Mog Wardrobe 3/Mog Wardrobe 4/Mog Wardrobe 5/Mog Wardrobe 6/Mog Wardrobe 7/Mog Wardrobe 8/Recycle Bin]!
- 8238: Storable item: $33 ($!)
- 8239: Storable item: $33 ($!)
- 8240: 0: $0 1: $1 2: $2 3: $3
- 8241: 4: $4 5: $5 6: $6 7: $7
- 8242: no: $0 id: $1
- 8243: no: $0 id: $1 res: $2
- 8244: TB: $31
- 8245: NPC index out of range.
- 8246: ERROR CODE: $0 / $1
- 8247: [LZ/TR/LM] R$1 F$2 start
- 8248: [LZ/TR/LM] no:$1_$2 [/NG]
+ 8193: 
+ 8194: 
+ 8195: 
+ 8196: 
+ 8197: How many? ( [Conquest Points/Imperial Standing/Allied Notes]: $1)
+ 8198: You may purchase up to $2 at a time.
+ 8199: Welcome to the MHMU's porter service, kupo! Which of your burdensome belongings shall I take off your hands today?
+ 8200: Do something, kupo? [Porter service?/Buy a storage slip./No, thank you.]
+ 8201: Is your gobbiebag splitting at the seams? Mog Safe spilling over? Why, an accomplished adventurer like yourself surely has more stuff than you know what to do with.
+ 8202: That's where I come in, kupo. I'll gladly hold onto your prized possessions, freeing you space to gather up even grander goodies.
+ 8203: To make use of my services, first you'll need to buy one of these storage slips for the low, low fee of $19 gil.
+ 8204: Storage slips come in numerous varieties, kupo, each corresponding to a different type of item.
+ 8205: You'll want to peruse the fine print closely, so you don't end up paying good gil for a scrap of parchment useless for the particular item you wish to store.
+ 8206: Not that we moogles would object to that sort of donation, kupo.
+ 8207: Choose the item you wish to entrust, then trade it to me along with a single storage slip. I will take the item and return the slip to you, marked with an invisible seal.
+ 8208: Invisible to you, at least. It's plain as day to us moogles, so don't even think of trying to pull one over on us, kupo.
+ 8209: When it comes time to retrieve your item, just trade to me a single storage slip--any slip--once again.
+ 8210: I will present you with a list of all the items currently in my care, and you may choose the one you wish to withdraw. Simple as that, kupo!
+ 8211: What's more, no additional transaction fees will be incurred! Pretty generous of us for a change, no?
+ 8212: Now I bet you're wondering what the catch is, kupo. So as not to disappoint you, there are a few!
+ 8213: For one, any signed items will lose their signatures if you store them with me.
+ 8214: Why, you say? Hey, even we moogles aren't perfect! It's better for both of us if you keep your most precious possessions close at hand, kupo.
+ 8215: Now listen up, because there's another catch, and it's a doozy.
+ 8216: If you lose your storage slip, I won't be able to return your item. Ever. No ifs, ands, or buts! No "I'm sorry, Mister Porter Moogle, it'll never happen again!" Rules are rules, kupo, and someone has to keep them.
+ 8217: Last, but not least, I can't accept equipment bearing Magian trial insignia.
+ 8218: If you have such an item that you're simply dying to entrust to me, you'll have to abandon your trial first, kupo.
+ 8219: And that's all there is to it. This humble moogle can hardly wait to serve you!
+ 8220: Buy something? (p. $16/$17). [Previous page./$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Next page./Cancel.]
+ 8221: $32 will cost you $19 gil. Do we have a deal, kupo?
+ 8222: Deal, kupo? (Current gil: $18). [Check storable items./Deal./No deal.]
+ 8223: The $32 will allow you to store the following items:
+ 8224: $33.
+ 8225: $33.
+ 8226: ...and that's all.
+ 8227: $32 (p. $16/$17). [Previous page./$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Next page./Cancel.]
+ 8228: Warning! If you lose your $0 while storing a corresponding item, you will be forever unable to retrieve that item!
+ 8229: Is that $3 I see, kupo?
+ 8230: What will you do? [Retrieve an item./Confirm storable items./Nothing.]
+ 8231: Retrieve an item? (p. $16/$17). [Previous page./$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Next page./Cancel.]
+ 8232: Retrieve $32? [Retrieve it./Leave it.]
+ 8233: You retrieve $0 from the porter moogle's care.
+ 8234: Kupo? I'm already taking care of that item for you.
+ 8235: $0, yes? Very well! Your precious property is safe with me, kupo!
+ 8236: $0 [variety/varieties] of item, is it? Very well! Your precious property is safe with me, kupo!
+ 8237: Is that a Magian insignia I see on that $0? You'll have to abandon your trial before I can take it off your hands, kupo.
+ 8238: That $0 appears to be augmented. I'm sorry, but I can't accept such specialized gear, kupo.
+ 8239: Curious as to whether I can accept that item? Let me check my annals.
+ 8240: Why, yes I can! % can be stored with $1.
+ 8241: Why, it looks as if you have $1 located in your [inventory/Mog Safe/Mog Safe 2/Mog House storage/Mog Locker/Mog Satchel/Mog Sack/Mog Case/Mog Wardrobe/Mog Wardrobe 2/Mog Wardrobe 3/Mog Wardrobe 4/Mog Wardrobe 5/Mog Wardrobe 6/Mog Wardrobe 7/Mog Wardrobe 8/Recycle Bin]!
+ 8242: Storable item: $33 ($!)
+ 8243: Storable item: $33 ($!)
+ 8244: 0: $0 1: $1 2: $2 3: $3
+ 8245: 4: $4 5: $5 6: $6 7: $7
+ 8246: no: $0 id: $1
+ 8247: no: $0 id: $1 res: $2
+ 8248: TB: $31
+ 8249: NPC index out of range.
+ 8250: ERROR CODE: $0 / $1
+ 8251: [LZ/TR/LM] R$1 F$2 start
+ 8252: [LZ/TR/LM] no:$1_$2 [/NG]

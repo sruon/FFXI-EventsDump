@@ -1,5 +1,5 @@
 # Strings for Apollyon
-# Total: 7296 strings
+# Total: 7305 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7243,7 +7243,7 @@
  7239: Select a destination. [NW./SW./NE./SE./CN./CS./Entrance #1./Entrance #2./Never mind.]
  7240: Select a destination. [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Back./Never mind.]
  7241: Destination? (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]
- 7242: Return to entrance? [Yes./No.]
+ 7242: Return to entrance? [Yes (Entrance 1)./Yes (Entrance 2)./No.]
  7243: Acquired Apollyon Units: $0. Remaining Apollyon Units: $1. Total Apollyon Units: $2/$3.
  7244: Welcome to Apollyon. Please present your $3.
  7245: ...Credentials not present. Authorizing new issuance.
@@ -7270,7 +7270,7 @@
  7266: What will you do? [Change level and reset./Never mind.]
  7267: Progress has been reset.
  7268: Unrecognized entrant. Please proceed to the Apollyon Operator.
- 7269: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Nothing for now.]
+ 7269: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./%./@/@/@/@/Nothing for now.]
  7270: Remaining Apollyon Units: $0. Total Apollyon Units: $1/$2.
  7271: The Apollyon Furnace uses data to enhance your equipment.
  7272: Inquire about which? [Pummeler's Armor./Anchorite Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Armor./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Nothing for now.]
@@ -7287,13 +7287,22 @@
  7283: You have been approved to use the Apollyon Furnace.
  7284: You may collect data $0 more time[/s].
  7285: You have been granted the otherwise unobtainable designation Apollyon Razor.
- 7286: 
- 7287: 
- 7288: 
- 7289: 
- 7290: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7291: slot:@ initStep:@ ticket:@ expire:@sec
- 7292: $P15[$P116$3f$593776$z%;5\5=B
- 7293: $60298775=B
- 7294: $3`$3P$3b$3gp$P14j$|5\5=B
- 7295: Error:@
+ 7286: $0 detected. Several equipment items can now be created.
+ 7287: Which? [Create $0./Create $1./None of these.]
+ 7288: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Apollyon Units shall be expended in the process.
+ 7289: You do not have enough Apollyon Units.
+ 7290: I have generated new monsters based on your data.
+ 7291: Here is a quick rundown.
+ 7292: One: they do not take your set level into account.
+ 7293: Two: there are 22 types, but only 4 will appear on any given day (Earth time).
+ 7294: Three: vanquishing them affects the contents of the following week's Apollyon Coffer.
+ 7295: This should enable you to collect even more precise data.
+ 7296: The $0 changes form when one uses Apollyon Units.
+ 7297: It can produce special equipment.
+ 7298: The produced equipment can be further infused.
+ 7299: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7300: slot:@ initStep:@ ticket:@ expire:@sec
+ 7301: $P15[$P116$3f$593776$z%;5\5=B
+ 7302: $60298775=B
+ 7303: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7304: Error:@

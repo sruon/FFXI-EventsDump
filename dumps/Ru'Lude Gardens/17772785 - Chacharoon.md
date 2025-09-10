@@ -24,33 +24,33 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0DEE      |        3566 |
-|       1 | 0x3E78      |       15992 |
-|       2 | 0x3E7E      |       15998 |
-|       3 | 0x3E7F      |       15999 |
-|       4 | 0x3E80      |       16000 |
-|       5 | 0x3E81      |       16001 |
-|       6 | 0x3E83      |       16003 |
-|       7 | 0x3E79      |       15993 |
+|       1 | 0x3E7A      |       15994 |
+|       2 | 0x3E80      |       16000 |
+|       3 | 0x3E81      |       16001 |
+|       4 | 0x3E82      |       16002 |
+|       5 | 0x3E83      |       16003 |
+|       6 | 0x3E85      |       16005 |
+|       7 | 0x3E7B      |       15995 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x3E7A      |       15994 |
-|      11 | 0x3E7B      |       15995 |
-|      12 | 0x3E7C      |       15996 |
-|      13 | 0x3E7D      |       15997 |
+|      10 | 0x3E7C      |       15996 |
+|      11 | 0x3E7D      |       15997 |
+|      12 | 0x3E7E      |       15998 |
+|      13 | 0x3E7F      |       15999 |
 |      14 | 0x0002      |           2 |
 
 ## String References
 
-- **15992**: Happy Happy New Year!
-- **15993**: Chacharoon wishing you very best in New Year the Qiqirn way--by giving you things for $5 jingly!
-- **15995**: @Buy $6 for $5 gil? [Yes./No.]
-- **15996**: Ooooh, $6! What is inside? Maybe you get something special!
-- **15997**: Not enough jingly? Then you go out, get more jingly, and bring back. Deal?
-- **15998**: In homeland, people put jingly in pouches and give to other people they like!
-- **15999**: You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?
-- **16000**: But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic.
-- **16001**: Pouch with jingly! Can use to see how much is inside!
-- **16003**: Oooh, listen to the happy sound of jingly! But is too much jingly for one pouch. Only up to $0 jingly.
+- **15994**: Happy Happy New Year!
+- **15995**: Chacharoon wishing you very best in New Year the Qiqirn way--by giving you things for $5 jingly!
+- **15997**: @Buy $6 for $5 gil? [Yes./No.]
+- **15998**: Ooooh, $6! What is inside? Maybe you get something special!
+- **15999**: Not enough jingly? Then you go out, get more jingly, and bring back. Deal?
+- **16000**: In homeland, people put jingly in pouches and give to other people they like!
+- **16001**: You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?
+- **16002**: But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic.
+- **16003**: Pouch with jingly! Can use to see how much is inside!
+- **16005**: Oooh, listen to the happy sound of jingly! But is too much jingly for one pouch. Only up to $0 jingly.
 
 ## Events
 
@@ -102,16 +102,16 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=15992*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=15994*)
     → "Happy Happy New Year!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=15998*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=16000*)
     → "In homeland, people put jingly in pouches and give to other people they like!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=15999*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=16001*)
     → "You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?"
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=16000*)
+ 10: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=16002*)
     → "But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic."
  11: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0027 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
@@ -146,7 +146,7 @@
   2: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0040 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
-  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=16001*)
+  5: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=16003*)
     → "Pouch with jingly! Can use to see how much is inside!"
   6: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0053 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
@@ -181,7 +181,7 @@
   2: 0x006F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0070 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0071 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
-  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=16003*)
+  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=16005*)
     → "Oooh, listen to the happy sound of jingly! But is too much jingly for one pouch. Only up to $0 jingly."
   6: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0084 [0x21] END_EVENT
@@ -240,10 +240,10 @@
   2: 0x008C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x008D [0x05] ExtData[1]->WorkLocal[5] = 1
   4: 0x0090 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
-  5: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=15992*)
+  5: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=15994*)
     → "Happy Happy New Year!"
   6: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15993*)
+  7: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15995*)
     → "Chacharoon wishing you very best in New Year the Qiqirn way--by giving you things for $5 jingly!"
   8: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00A7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
@@ -269,13 +269,13 @@ SUBROUTINE_00FF:
  25: 0x011D [0x04] DEPRECATED_NOP(unused=0x0810)
  26: 0x0120 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 1107396352/0x42018700))
  27: 0x0125 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[1]
- 28: 0x012A [0x24] CREATE_DIALOG(message_id=15995*, default_option=0*, option_flags=0*)
+ 28: 0x012A [0x24] CREATE_DIALOG(message_id=15997*, default_option=0*, option_flags=0*)
     → "@Buy $6 for $5 gil? [Yes./No.]"
  29: 0x0131 [0x25] WAIT_DIALOG_SELECT()
  30: 0x0132 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0181
  31: 0x013A [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[3]) GOTO 0x0164
  32: 0x0142 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
- 33: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=15996*)
+ 33: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=15998*)
     → "Ooooh, $6! What is inside? Maybe you get something special!"
  34: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0155 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
@@ -284,7 +284,7 @@ SUBROUTINE_00FF:
  38: 0x016B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  39: 0x016D [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[4]
  40: 0x0172 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x017E
- 41: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=15997*)
+ 41: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=15999*)
     → "Not enough jingly? Then you go out, get more jingly, and bring back. Deal?"
  42: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x017E [0x01] GOTO 0x0181
@@ -308,13 +308,13 @@ SUBROUTINE_023D:
      0x0192 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x01FD
      0x019A [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x019B [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[2]
-     0x01A0 [0x24] CREATE_DIALOG(message_id=15995*, default_option=0*, option_flags=0*)
+     0x01A0 [0x24] CREATE_DIALOG(message_id=15997*, default_option=0*, option_flags=0*)
     → "@Buy $6 for $5 gil? [Yes./No.]"
      0x01A7 [0x25] WAIT_DIALOG_SELECT()
      0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F7
      0x01B0 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[3]) GOTO 0x01DA
      0x01B8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
-     0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15996*)
+     0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=15998*)
     → "Ooooh, $6! What is inside? Maybe you get something special!"
      0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01CB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
@@ -323,7 +323,7 @@ SUBROUTINE_023D:
      0x01E1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x01E3 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[4]
      0x01E8 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x01F4
-     0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15997*)
+     0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15999*)
     → "Not enough jingly? Then you go out, get more jingly, and bring back. Deal?"
      0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01F4 [0x01] GOTO 0x01F7
@@ -332,13 +332,13 @@ SUBROUTINE_023D:
      0x01FD [0x01] GOTO 0x023D
      0x0200 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x023A
      0x0208 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*
-     0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=15998*)
+     0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=16000*)
     → "In homeland, people put jingly in pouches and give to other people they like!"
      0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=15999*)
+     0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=16001*)
     → "You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?"
      0x021E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=16000*)
+     0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=16002*)
     → "But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic."
      0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0223 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Chacharoon (ID: 17772785/0x010F30F1), Chacharoon (ID: 17772785/0x010F30F1)], work=3566*

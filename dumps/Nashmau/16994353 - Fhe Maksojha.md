@@ -52,25 +52,25 @@
 |      17 | 0x104C4     |       66756 |
 |      18 | 0x4812      |       18450 |
 |      19 | 0x10F3C     |       69436 |
-|      20 | 0x2B99      |       11161 |
-|      21 | 0x2BD7      |       11223 |
-|      22 | 0x2BD8      |       11224 |
+|      20 | 0x2B9D      |       11165 |
+|      21 | 0x2BDB      |       11227 |
+|      22 | 0x2BDC      |       11228 |
 |      23 | 0x0032      |          50 |
-|      24 | 0x2BD9      |       11225 |
-|      25 | 0x2BDA      |       11226 |
-|      26 | 0x2BDB      |       11227 |
+|      24 | 0x2BDD      |       11229 |
+|      25 | 0x2BDE      |       11230 |
+|      26 | 0x2BDF      |       11231 |
 |      27 | 0x00C9      |         201 |
 |      28 | 0x0000      |           0 |
 
 ## String References
 
 - **10516**: Ah! Y-you scared me! Sorry, I'm not with the Imperial Army. You need to talk to the guy in the shiny armor over there if you want Sanction.
-- **11161**: Someone saw the old woman's son heading to the north of the Deadmist Marsh. The sooner you find him, the better...
-- **11223**: You've got to go after that woman's son, or he'll be killed!
-- **11224**: Ah, there you are! The old woman and her son made it back safely and rrreturned to Al Zahbi together.
-- **11225**: Ahgdeen looked prrretty down, but he seemed somehow...stronger than before. Or maybe I'm just imagining things.
-- **11226**: In any case, it's a wonder he made it back in one piece after being trrricked by a Lamia. That's certainly cause for celebration!
-- **11227**: Speaking of which, his mother told me to give this to you. I hope you find some use for it.
+- **11165**: Someone saw the old woman's son heading to the north of the Deadmist Marsh. The sooner you find him, the better...
+- **11227**: You've got to go after that woman's son, or he'll be killed!
+- **11228**: Ah, there you are! The old woman and her son made it back safely and rrreturned to Al Zahbi together.
+- **11229**: Ahgdeen looked prrretty down, but he seemed somehow...stronger than before. Or maybe I'm just imagining things.
+- **11230**: In any case, it's a wonder he made it back in one piece after being trrricked by a Lamia. That's certainly cause for celebration!
+- **11231**: Speaking of which, his mother told me to give this to you. I hope you find some use for it.
 
 ## Events
 
@@ -362,7 +362,7 @@
   0: 0x00BC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11161*)
+  3: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11165*)
     → "Someone saw the old woman's son heading to the north of the Deadmist Marsh. The sooner you find him, the better..."
   4: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00C7 [0x21] END_EVENT
@@ -394,7 +394,7 @@
   1: 0x00CE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
-  4: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11223*)
+  4: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11227*)
     → "You've got to go after that woman's son, or he'll be killed!"
   5: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00E3 [0x21] END_EVENT
@@ -432,18 +432,18 @@
   2: 0x00EF [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x00F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11224*)
+  5: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11228*)
     → "Ah, there you are! The old woman and her son made it back safely and rrreturned to Al Zahbi together."
   6: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  8: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=11225*)
+  8: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=11229*)
     → "Ahgdeen looked prrretty down, but he seemed somehow...stronger than before. Or maybe I'm just imagining things."
   9: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x010D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 11: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=11226*)
+ 11: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=11230*)
     → "In any case, it's a wonder he made it back in one piece after being trrricked by a Lamia. That's certainly cause for celebration!"
  12: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=11227*)
+ 13: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=11231*)
     → "Speaking of which, his mother told me to give this to you. I hope you find some use for it."
  14: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0124 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
@@ -479,11 +479,11 @@
   1: 0x0158 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0159 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x015A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=11225*)
+  4: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=11229*)
     → "Ahgdeen looked prrretty down, but he seemed somehow...stronger than before. Or maybe I'm just imagining things."
   5: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x016D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
-  7: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=11226*)
+  7: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=11230*)
     → "In any case, it's a wonder he made it back in one piece after being trrricked by a Lamia. That's certainly cause for celebration!"
   8: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0180 [0x21] END_EVENT

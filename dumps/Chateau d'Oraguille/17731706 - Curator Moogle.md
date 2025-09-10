@@ -5,16 +5,16 @@
 | Field            | Value                         |
 |------------------|-------------------------------|
 | Zone             | Chateau d'Oraguille (ID: 233) |
-| Block Size       | 756 bytes                     |
+| Block Size       | 848 bytes                     |
 | Total Events     | 2                             |
-| References Count | 35                            |
+| References Count | 42                            |
 
 ## List of Events
 
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [611](#event-611)     | 0x0001       |    591 |            125 |
+| [611](#event-611)     | 0x0001       |    655 |            141 |
 
 ## DAT References (imed_data)
 
@@ -25,7 +25,7 @@
 |       2 | 0x0001      |           1 |
 |       3 | 0xFFFFFFFF  |  4294967295 |
 |       4 | 0x0007      |           7 |
-|       5 | 0x0005      |           5 |
+|       5 | 0x0009      |           9 |
 |       6 | 0x0008      |           8 |
 |       7 | 0x0014      |          20 |
 |       8 | 0x245F      |        9311 |
@@ -34,27 +34,34 @@
 |      11 | 0x2462      |        9314 |
 |      12 | 0x0004      |           4 |
 |      13 | 0x2461      |        9313 |
-|      14 | 0x2C36      |       11318 |
-|      15 | 0x2C37      |       11319 |
-|      16 | 0x13D1      |        5073 |
-|      17 | 0x10D8      |        4312 |
-|      18 | 0x1652      |        5714 |
-|      19 | 0x5061      |       20577 |
-|      20 | 0x5CFD      |       23805 |
-|      21 | 0x0398      |         920 |
-|      22 | 0x122F      |        4655 |
-|      23 | 0x5469      |       21609 |
-|      24 | 0x0348      |         840 |
-|      25 | 0x0342      |         834 |
-|      26 | 0x0108      |         264 |
-|      27 | 0x54B2      |       21682 |
-|      28 | 0x5484      |       21636 |
-|      29 | 0x05B0      |        1456 |
-|      30 | 0x010D      |         269 |
-|      31 | 0x5486      |       21638 |
-|      32 | 0x0339      |         825 |
-|      33 | 0x112B      |        4395 |
-|      34 | 0x6795      |       26517 |
+|      14 | 0x54B2      |       21682 |
+|      15 | 0x5484      |       21636 |
+|      16 | 0x05B0      |        1456 |
+|      17 | 0x010D      |         269 |
+|      18 | 0x5486      |       21638 |
+|      19 | 0x0339      |         825 |
+|      20 | 0x112B      |        4395 |
+|      21 | 0x6795      |       26517 |
+|      22 | 0x50B9      |       20665 |
+|      23 | 0x02E9      |         745 |
+|      24 | 0x02CE      |         718 |
+|      25 | 0x18C8      |        6344 |
+|      26 | 0x0E67      |        3687 |
+|      27 | 0x02CD      |         717 |
+|      28 | 0x0460      |        1120 |
+|      29 | 0x15B2      |        5554 |
+|      30 | 0x570B      |       22283 |
+|      31 | 0x05A9      |        1449 |
+|      32 | 0x0381      |         897 |
+|      33 | 0x170C      |        5900 |
+|      34 | 0x03A2      |         930 |
+|      35 | 0x170E      |        5902 |
+|      36 | 0x039C      |         924 |
+|      37 | 0x170D      |        5901 |
+|      38 | 0x0457      |        1111 |
+|      39 | 0x170B      |        5899 |
+|      40 | 0x0370      |         880 |
+|      41 | 0x170A      |        5898 |
 
 ## String References
 
@@ -95,7 +102,7 @@
 | Field        | Value     |
 |--------------|-----------|
 | Entrypoint   | 0x0001    |
-| Data Size    | 591 bytes |
+| Data Size    | 655 bytes |
 | Instructions | 18        |
 
 ```
@@ -132,12 +139,16 @@
 01C0: 02 10 03 10 04 10 05 10  06 10 07 10 08 10 09 10  ................
 01D0: 00 17 01 17 02 17 03 17  04 17 05 17 06 17 07 17  ................
 01E0: 08 17 09 17 0A 17 0B 17  0C 17 0D 17 0E 17 0F 17  ................
-01F0: 0E 80 0F 80 10 80 11 80  11 80 12 80 12 80 13 80  ................
-0200: 14 80 15 80 15 80 16 80  01 80 01 80 01 80 17 80  ................
-0210: 17 80 13 80 18 80 18 80  19 80 19 80 01 80 1A 80  ................
-0220: 1B 80 1C 80 1D 80 01 80  01 80 01 80 01 80 1E 80  ................
-0230: 1B 80 1F 80 20 80 20 80  20 80 21 80 01 80 22 80  .... . . .!...".
-0240: 02 80 02 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+01F0: 0E 80 0F 80 10 80 01 80  01 80 01 80 01 80 11 80  ................
+0200: 0E 80 12 80 13 80 13 80  13 80 14 80 01 80 15 80  ................
+0210: 16 80 17 80 18 80 19 80  01 80 01 80 01 80 1A 80  ................
+0220: 0F 80 1B 80 1C 80 1C 80  1D 80 01 80 01 80 1E 80  ................
+0230: 1F 80 20 80 01 80 01 80  01 80 01 80 01 80 21 80  .. ...........!.
+0240: 1F 80 22 80 01 80 01 80  01 80 01 80 01 80 23 80  .."...........#.
+0250: 1F 80 24 80 01 80 01 80  01 80 01 80 01 80 25 80  ..$...........%.
+0260: 1F 80 26 80 01 80 01 80  01 80 01 80 01 80 27 80  ..&...........'.
+0270: 1F 80 28 80 01 80 01 80  01 80 01 80 01 80 29 80  ..(...........).
+0280: 02 80 02 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
 ```
 
 #### Opcodes
@@ -155,7 +166,7 @@
   8: 0x001C [0x03] ExtData[1]->WorkLocal[0] = 4294967295*
   9: 0x0021 [0x03] ExtData[1]->WorkLocal[2] = 0*
  10: 0x0026 [0x03] ExtData[1]->WorkLocal[13] = 7*
- 11: 0x002B [0x02] IF !(ExtData[1]->WorkLocal[2] >= 5*) GOTO 0x005B
+ 11: 0x002B [0x02] IF !(ExtData[1]->WorkLocal[2] >= 9*) GOTO 0x005B
  12: 0x0033 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[2], condition_work_offset=1*)
  13: 0x003A [0x9D] ExtData[1]->WorkLocal[1] = 0x01F0[ExtData[1]->WorkLocal[13]] // Read WORD
  14: 0x0042 [0x9D] 0x01C0[ExtData[1]->WorkLocal[2] * 2] = ExtData[1]->WorkLocal[1] // Write WORD
@@ -257,25 +268,41 @@
      0x01E2 [0x09] 0x0A17 |= (1 << 0x0B17)
      0x01E7 [0x17] Work_Zone_1700[12] = cos(Work_Zone_1700[13]) * Work_Zone_1700[14]
      0x01EE [0x0F] 0x0E17 ^= 0x0F80
-     0x01F3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148630544/0x80118010))
-     0x01F8 [0x11] 0x1280 >>= 0x1280
-     0x01FD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148827155/0x80148013))
-     0x0202 [0x15] 0x1580 /= 0x1680
-     0x0207 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x020C [0x01] GOTO 0x1780
-     0x020F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148761623/0x80138017))
-     0x0214 [0x18] 0x1880 = atan2(0x1980, 0x1980)
+     0x01F3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581968/0x80018010))
+     0x01F8 [0x01] GOTO 0x0180
+     0x01FB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148630529/0x80118001))
+     0x0200 [0x0E] 0x1280 |= 0x1380
+     0x0205 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148761619/0x80138013))
+     0x020A [0x14] 0x0180 *= 0x1580
+     0x020F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149023766/0x80178016))
+     0x0214 [0x18] 0x1980 = atan2(0x0180, 0x0180)
      0x021B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149220353/0x801A8001))
-     0x0220 [0x1B] RETURN
-     0x0221 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416988/0x801D801C))
-     0x0226 [0x01] GOTO 0x0180
-     0x0229 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x022E [0x1E] EventEntity looks at Unknown NPC (ID: 528489344/0x1F801B80) and starts talking
-     0x0233 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149613600/0x80208020))
-     0x0238 [0x20] SET_CLI_EVENT_UC_FLAG: Unknown flag value 0x80
-     0x023A [0x21] END_EVENT
-     0x023B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149744641/0x80228001))
-     0x0240 [0x02] IF !(0x0280 == 0x0180) GOTO 0x8001
-     0x0248 [0x01] GOTO 0x0180
-     0x024B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x0220 [0x0F] 0x1B80 ^= 0x1C80
+     0x0225 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416988/0x801D801C))
+     0x022A [0x01] GOTO 0x0180
+     0x022D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149548062/0x801F801E))
+     0x0232 [0x20] SET_CLI_EVENT_UC_FLAG: Unknown flag value 0x80
+     0x0234 [0x01] GOTO 0x0180
+     0x0237 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x023C [0x01] GOTO 0x2180
+     0x023F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149744671/0x8022801F))
+     0x0244 [0x01] GOTO 0x0180
+     0x0247 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x024C [0x01] GOTO 0x2380
+     0x024F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149875743/0x8024801F))
+     0x0254 [0x01] GOTO 0x0180
+     0x0257 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x025C [0x01] GOTO 0x2580
+     0x025F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150006815/0x8026801F))
+     0x0264 [0x01] GOTO 0x0180
+     0x0267 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x026C [0x01] GOTO 0x2780
+     0x026F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150137887/0x8028801F))
+     0x0274 [0x01] GOTO 0x0180
+     0x0277 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x027C [0x01] GOTO 0x2980
+     0x027F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147647490/0x80028002))
+     0x0284 [0x01] GOTO 0x0180
+     0x0287 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x028C [0x01] GOTO 0x0180
 ```

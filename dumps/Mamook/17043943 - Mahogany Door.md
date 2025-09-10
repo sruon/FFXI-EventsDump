@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FC8      |        8136 |
+|       0 | 0x1FCC      |        8140 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -30,7 +30,7 @@
 
 ## String References
 
-- **8136**: Exit? (You cannot reenter here.) [Yes./Not now.]
+- **8140**: Exit? (You cannot reenter here.) [Yes./Not now.]
 
 ## Events
 
@@ -82,7 +82,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0004 [0x24] CREATE_DIALOG(message_id=8136*, default_option=1*, option_flags=0*)
+  2: 0x0004 [0x24] CREATE_DIALOG(message_id=8140*, default_option=1*, option_flags=0*)
     → "Exit? (You cannot reenter here.) [Yes./Not now.]"
   3: 0x000B [0x25] WAIT_DIALOG_SELECT()
   4: 0x000C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004A

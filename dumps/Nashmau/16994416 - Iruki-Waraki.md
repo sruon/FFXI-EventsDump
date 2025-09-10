@@ -75,7 +75,7 @@
 |      30 | 0x4A6F      |       19055 |
 |      31 | 0xFFFF39E4  |  4294916580 |
 |      32 | 0x0A60      |        2656 |
-|      33 | 0x2B40      |       11072 |
+|      33 | 0x2B44      |       11076 |
 |      34 | 0x0078      |         120 |
 |      35 | 0x0046      |          70 |
 |      36 | 0x0041      |          65 |
@@ -537,7 +537,7 @@
 #### Opcodes
 
 ```
-  0: 0x00C8 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11072*]:
+  0: 0x00C8 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11076*]:
     → "And you're supposed to be one of the top puppetmasters on Urhguum? Don't make me laugh!"
   1: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00D0 [0x00] END_REQSTACK()

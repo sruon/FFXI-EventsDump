@@ -1,5 +1,5 @@
 # Strings for GM_Home
-# Total: 9387 strings
+# Total: 9398 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -9379,12 +9379,23 @@
  9375: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
  9376: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
  9377: You can trade any gender-specific dancer armor to the % to receive a version that better suits your new form.
- 9378: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
- 9379: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
- 9380: This will change your character's appearance. Are you sure?
- 9381: Change your character to this appearance? [Yes./No.]
- 9382: Are you absolutely sure? [Yes./No.]
- 9383: May Altana bless you as you begin your new life, kupo!
- 9384: You were unable to use the specified appearance for your character.
- 9385: eye X=$0 Y=$1 Z=$2
- 9386: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)
+ 9378: Certain items can be exchanged for equippable ones by speaking with %.
+ 9379: Applicable items can be checked with % after changing races.
+ 9380: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
+ 9381: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
+ 9382: This will change your character's appearance. Are you sure?
+ 9383: Change your character to this appearance? [Yes./No.]
+ 9384: Are you absolutely sure? [Yes./No.]
+ 9385: May Altana bless you as you begin your new life, kupo!
+ 9386: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
+ 9387: Let me see if you have any.
+ 9388: Items held by NPCs or stored with storage slips are ineligible.
+ 9389: Have the moogle check? [Yes, please./No, thank you.]
+ 9390: Let's get down to business, kupo.
+ 9391: I can take the following:
+ 9392: Your $0.
+ 9393: That should cover it!
+ 9394: Wait...I can't take anything you have.
+ 9395: You were unable to use the specified appearance for your character.
+ 9396: eye X=$0 Y=$1 Z=$2
+ 9397: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)

@@ -1,5 +1,5 @@
 # Strings for Ru'Lude Gardens
-# Total: 16153 strings
+# Total: 16155 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -15992,165 +15992,167 @@
 15988: DEBUG: Failed to create instance.($1)
 15989: DEBUG: Skip.
 15990: DEBUG:ID=$0 / SLOT=$1 / SUB=$2
-15991: DEBUG: Error $0.
-15992: Happy Happy New Year!
-15993: Chacharoon wishing you very best in New Year the Qiqirn way--by giving you things for $5 jingly!
-15994: What do? ($4 gil.) [# [/(Done for today)]@$1 [/(Done for today)]@@/About those pouches.../Maybe later.]
-15995: @Buy $6 for $5 gil? [Yes./No.]
-15996: Ooooh, $6! What is inside? Maybe you get something special!
-15997: Not enough jingly? Then you go out, get more jingly, and bring back. Deal?
-15998: In homeland, people put jingly in pouches and give to other people they like!
-15999: You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?
-16000: But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic.
-16001: Pouch with jingly! Can use to see how much is inside!
-16002: Here you go!
-16003: Oooh, listen to the happy sound of jingly! But is too much jingly for one pouch. Only up to $0 jingly.
-16004: Squeak squeak! (It looks pretty hungry.)
-16005: Squeak!!! (It doesn't seem to want that.)
-16006: Squeak... (It appears to want more.)
-16007: Squeeeak! (It looks elated!)
-16008: Here you can play the game Mandragora Mania.
-16009: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
-16010: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
-16011: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
-16012: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
-16013: You may pay $& gil to reset all rewards, enabling you to purchase them again.
-16014: Reset rewards? ($' gil). [Yes ($& gil)./No.]
-16015: You do not have enough gil.
-16016: All rewards have been reset.
-16017: You have already purchased the $2.
-16018: You need at least $3 jingly to purchase the $2.
-16019: The reward exchange period has turned over and all rewards have been reset.
-16020: You may reset all rewards from the appropriate dialogue box.
-16021: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
-16022: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
-16023: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
-16024: Starting player set to [Random/You/Opponent].
-16025: Read the manual? [Sure./No thanks.]
-16026: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
-16027: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
-16028: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
-16029: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
-16030: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
-16031: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
-16032: You must choose one area--either yours or a neutral one--to proceed.
-16033: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
-16034: Conversely, your opponent must select either a neutral area or an area that belongs to them.
-16035: From the right, those areas are numbered 6, 4, 7, 2, and 8.
-16036: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
-16037: Note that the mandragoras will move from the back first--last in, first out.
-16038: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
-16039: You will enter your opponent's territory whenever you go past the goal.
-16040: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
-16041: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
-16042: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
-16043: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
-16044: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
-16045: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
-16046: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
-16047: Standard mandragoras: 1 jingly (both players).
-16048: The game is over when either you or your opponent no longer has any mandragoras that can move.
-16049: The player who has the most jingly at that point will be declared the winner.
-16050: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
-16051: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
-16052: You have selected Area $0.
-16053: You receive $0 jingly for a total of $1.
-16054: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
-16055: Your opponent has selected Area $0.
-16056: Your opponent receives $0 jingly for a total of $1.
-16057: Game Complete!
-16058: [Victory!/Defeat!/Draw!] ($0 - $1)
-16059: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
-16060: That area has no mandragora to move.
-16061: You will forfeit all jingly earned this game if you give up. Are you sure?
-16062: Really give up? [Yes./No.]
-16063: You receive $0 jingly for a total of $1.
-16064: You have reached the jingly cap of $0. Any additional jingly will be lost.
-16065: An error has occurred. Please try again.
-16066: DEBUG ( [OFF/ON]
-16067: RANDOMF0-$0 ( $1
-16068: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
-16069: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
-16070: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
-16071: 
-16072: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
-16073: NPC Selection ( Area $0
-16074: DEBUGFNPC Selection Controls ( [OFF/ON]
-16075: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
-16076: Ungh... It's like every bone in this tired old body is aching...
-16077: And where did all these bruises and scrapes come from anyway?
-16078: Am I sick? Or maybe it's some kind of ancient curse? Wait, I bet I'm being targeted by an evil assassin!
-16079: I know I said something like "If you don't need me, then I'll go help someone else!" Is that why that greenhorn adventurer's so mad at me?
-16080: Oh, hey there, young'un. Is that a look of concern on your face I see?
-16081: Are you worried about Maat? [Yes, actually./No, not really.]
-16082: I had a feeling you'd understand my current plight. Yes, you're wise beyond your years.
-16083: It's okay, there's no need to be shy. You can be honest with me.
-16084: At any rate, I'm glad you're here. I could really use your help with something.
-16085: You see, this rather flashy young lady came by recently with a Goblin in tow...
-16086: She was talking about putting on a new show with some Goblins and that she needed to get stronger.
-16087: The price was most definitely right, and she was eager enough. Indeed, she would've made a fabulous student, but that outfit of hers...
-16088: All that fabric fluttering about was quite distracting. I simply suggested she go change, but she immediately replied "What's wrong with this outfit!? What else should an idol wear!?"
-16089: The heart of a young maiden is a strange thing indeed. Even after all these years, I have yet to understand its many mysteries.
-16090: Hm? Actually, now that I think about it... That was when I started feeling under the weather too.
-16091: Well, I can't say for sure that there is a connection. Anyway, the favor I want to ask you concerns this young lady, you see.
-16092: I need you to find her and return this basket for me. She forgot it in all of the hoopla.
-16093: You should first pay a visit to the junk dealer known as Muckvix in Lower Jeuno. He might know where to find her.
-16094: The Goblin that brought her here was from there, after all. I appreciate your help with this matter.
-16095: Please find the girl that came here to train and give her back this $3 for me.
-16096: You should speak with Muckvix the junk dealer in Lower Jeuno. He might know something that can help you.
-16097: I want you to find the young lady that came to train with me and return her $3.
-16098: Ungh... If these old bones weren't aching so much, I'd go find her myself...
-16099: So, you gave that $3 back to the young lady? That's a relief.
-16100: Still, ungh... I'm not feeling any better. I tell ya, it's no fun getting old.
-16101: Ungh... It's all rather hazy, but I guess I caused some sort of trouble?
-16102: I'm glad you're able to remember that much, at least.
-16103: Whenever you close your eyes and drift off to sleep, a strange power overtakes you each night. The two of us do what we can to keep it in check...
-16104: Wait just a moment!
-16105: You can't just start saying your lines before I even get here!
-16106: Okay, <Player>! Show Maat the pillow! It's the proof we need!
-16107: Okay, shadow that terrorizes the Batallia Downs each and every night!
-16108: It is time to reveal your true identity! Ullegore!
-16109: Uh-oh!
-16110: Haha! It's okay, I'll handle this!
-16111: Um, miss? This isn't an actual show, you see. We're still holding auditions.
-16112: You're what!? Are you serious!?
-16113: Heh heh... Maat here said he wanted to be a part of the Goblin festival too.
-16114: I guess his performance in the audition was a little too...passionate. We're sorry for all the fuss.
-16115: You can say that again! The Festival of Brave Souls was canceled because of you!
-16116: I don't think you understand just how serious this is!
-16117: Ungh... I don't remember any of that...
-16118: Somehow, I found myself covered in various scrapes and bruises. Maybe that's how I lost my memories?
-16119: Ah!
-16120: Seriously!? You were beaten so badly you lost your memory!?
-16121: Hmph! What kind of person would beat up on an old man like that!?
-16122: Um...
-16123: No, it was all my fault. At least those people I scared can rest easily now.
-16124: Well, I suppose you're right. I hear the Goblins have resumed preparations for their festival as well.
-16125: If you're interested in the festival, miss, you should go speak with the Goblins.
-16126: I'd hurry up before they change their minds.
-16127: Oh, yes, of course! I'll go at once!
-16128: Now then... You there. You look familiar.
-16129: I'm Shami. We've conducted some business together in the past.
-16130: My name is Shami. I trade in rather unusual items back in Port Jeuno with adventurers much like yourself.
-16131: That there is Shemo. We're kind of like what you'd call brothers.
-16132: We both know you quite well. You've made quite the reputation for yourself around here.
-16133: Anyway, in regards to Maat... Everything we told that girl was made up.
-16134: She'd probably feel bad if she knew the truth.
-16135: You see, it was the $1 she made Maat eat that caused that to happen to him.
-16136: Maat probably mentioned something about her paying him handsomely to help train her, yes?
-16137: That's the problem, you see. Her "payment" to him was a boiled egg. In fact, I believe it's one you're quite familiar with.
-16138: You mean... [The World Eater Egg!?/The $3!?/An initial egg!?]
-16139: I'm afraid so!
-16140: Nope, guess again!
-16141: Wow, you're really gonna make me spell it out for you, aren't ya!?
-16142: Anyway...
-16143: Fortunately, the World Eater Egg he ate had deteriorated rather significantly. As such, it probably could've been much, much worse for him.
-16144: You see, while he was awake, he was able to somehow contain the power that radiated from within him.
-16145: But whenever he fell asleep, he transformed into that monster, which you saw for yourself.
-16146: Heh heh heh. Although, thanks to your battle against him, the power of the egg seems to have diminished even further, for now at least.
-16147: You can leave the matter to us. We'll see that the rest of the egg's power is absorbed and sealed away properly.
-16148: The mysterious shadow that's been haunting this place each night shouldn't be a problem any longer.
-16149: Here, this is for your troubles. I have a feeling you'll be needing it before this is all over.
-16150: I've got something from Shami and Shemo that they wanted me to give to you. Here you go.
-16151: After talking to Shami and Shemo, I feel like a great weight has been lifted from these tired shoulders.
-16152: I heard they possess some rather mysterious abilities, but I'm sure glad they were here to help. Heh heh heh.
+15991: DEBUG:$3C$3$4[$P106$P10,$6(PI)
+15992: DEBUG: Error $0.
+15993: [$P11O/$31]L$J$P15z$30$T // ::
+15994: Happy Happy New Year!
+15995: Chacharoon wishing you very best in New Year the Qiqirn way--by giving you things for $5 jingly!
+15996: What do? ($4 gil.) [# [/(Done for today)]@$1 [/(Done for today)]@@/About those pouches.../Maybe later.]
+15997: @Buy $6 for $5 gil? [Yes./No.]
+15998: Ooooh, $6! What is inside? Maybe you get something special!
+15999: Not enough jingly? Then you go out, get more jingly, and bring back. Deal?
+16000: In homeland, people put jingly in pouches and give to other people they like!
+16001: You give me jingly, I put in pouch. Then I give you pouch for you to give to friends. Okay?
+16002: But you cannot open pouch yourself. Only friend can. Must be Mysterious Moogle Magic.
+16003: Pouch with jingly! Can use to see how much is inside!
+16004: Here you go!
+16005: Oooh, listen to the happy sound of jingly! But is too much jingly for one pouch. Only up to $0 jingly.
+16006: Squeak squeak! (It looks pretty hungry.)
+16007: Squeak!!! (It doesn't seem to want that.)
+16008: Squeak... (It appears to want more.)
+16009: Squeeeak! (It looks elated!)
+16010: Here you can play the game Mandragora Mania.
+16011: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
+16012: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
+16013: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
+16014: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
+16015: You may pay $& gil to reset all rewards, enabling you to purchase them again.
+16016: Reset rewards? ($' gil). [Yes ($& gil)./No.]
+16017: You do not have enough gil.
+16018: All rewards have been reset.
+16019: You have already purchased the $2.
+16020: You need at least $3 jingly to purchase the $2.
+16021: The reward exchange period has turned over and all rewards have been reset.
+16022: You may reset all rewards from the appropriate dialogue box.
+16023: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
+16024: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
+16025: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
+16026: Starting player set to [Random/You/Opponent].
+16027: Read the manual? [Sure./No thanks.]
+16028: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
+16029: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
+16030: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
+16031: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
+16032: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
+16033: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
+16034: You must choose one area--either yours or a neutral one--to proceed.
+16035: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
+16036: Conversely, your opponent must select either a neutral area or an area that belongs to them.
+16037: From the right, those areas are numbered 6, 4, 7, 2, and 8.
+16038: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
+16039: Note that the mandragoras will move from the back first--last in, first out.
+16040: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
+16041: You will enter your opponent's territory whenever you go past the goal.
+16042: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
+16043: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
+16044: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
+16045: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
+16046: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
+16047: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
+16048: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
+16049: Standard mandragoras: 1 jingly (both players).
+16050: The game is over when either you or your opponent no longer has any mandragoras that can move.
+16051: The player who has the most jingly at that point will be declared the winner.
+16052: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
+16053: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
+16054: You have selected Area $0.
+16055: You receive $0 jingly for a total of $1.
+16056: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
+16057: Your opponent has selected Area $0.
+16058: Your opponent receives $0 jingly for a total of $1.
+16059: Game Complete!
+16060: [Victory!/Defeat!/Draw!] ($0 - $1)
+16061: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
+16062: That area has no mandragora to move.
+16063: You will forfeit all jingly earned this game if you give up. Are you sure?
+16064: Really give up? [Yes./No.]
+16065: You receive $0 jingly for a total of $1.
+16066: You have reached the jingly cap of $0. Any additional jingly will be lost.
+16067: An error has occurred. Please try again.
+16068: DEBUG ( [OFF/ON]
+16069: RANDOMF0-$0 ( $1
+16070: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
+16071: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
+16072: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
+16073: 
+16074: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
+16075: NPC Selection ( Area $0
+16076: DEBUGFNPC Selection Controls ( [OFF/ON]
+16077: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
+16078: Ungh... It's like every bone in this tired old body is aching...
+16079: And where did all these bruises and scrapes come from anyway?
+16080: Am I sick? Or maybe it's some kind of ancient curse? Wait, I bet I'm being targeted by an evil assassin!
+16081: I know I said something like "If you don't need me, then I'll go help someone else!" Is that why that greenhorn adventurer's so mad at me?
+16082: Oh, hey there, young'un. Is that a look of concern on your face I see?
+16083: Are you worried about Maat? [Yes, actually./No, not really.]
+16084: I had a feeling you'd understand my current plight. Yes, you're wise beyond your years.
+16085: It's okay, there's no need to be shy. You can be honest with me.
+16086: At any rate, I'm glad you're here. I could really use your help with something.
+16087: You see, this rather flashy young lady came by recently with a Goblin in tow...
+16088: She was talking about putting on a new show with some Goblins and that she needed to get stronger.
+16089: The price was most definitely right, and she was eager enough. Indeed, she would've made a fabulous student, but that outfit of hers...
+16090: All that fabric fluttering about was quite distracting. I simply suggested she go change, but she immediately replied "What's wrong with this outfit!? What else should an idol wear!?"
+16091: The heart of a young maiden is a strange thing indeed. Even after all these years, I have yet to understand its many mysteries.
+16092: Hm? Actually, now that I think about it... That was when I started feeling under the weather too.
+16093: Well, I can't say for sure that there is a connection. Anyway, the favor I want to ask you concerns this young lady, you see.
+16094: I need you to find her and return this basket for me. She forgot it in all of the hoopla.
+16095: You should first pay a visit to the junk dealer known as Muckvix in Lower Jeuno. He might know where to find her.
+16096: The Goblin that brought her here was from there, after all. I appreciate your help with this matter.
+16097: Please find the girl that came here to train and give her back this $3 for me.
+16098: You should speak with Muckvix the junk dealer in Lower Jeuno. He might know something that can help you.
+16099: I want you to find the young lady that came to train with me and return her $3.
+16100: Ungh... If these old bones weren't aching so much, I'd go find her myself...
+16101: So, you gave that $3 back to the young lady? That's a relief.
+16102: Still, ungh... I'm not feeling any better. I tell ya, it's no fun getting old.
+16103: Ungh... It's all rather hazy, but I guess I caused some sort of trouble?
+16104: I'm glad you're able to remember that much, at least.
+16105: Whenever you close your eyes and drift off to sleep, a strange power overtakes you each night. The two of us do what we can to keep it in check...
+16106: Wait just a moment!
+16107: You can't just start saying your lines before I even get here!
+16108: Okay, <Player>! Show Maat the pillow! It's the proof we need!
+16109: Okay, shadow that terrorizes the Batallia Downs each and every night!
+16110: It is time to reveal your true identity! Ullegore!
+16111: Uh-oh!
+16112: Haha! It's okay, I'll handle this!
+16113: Um, miss? This isn't an actual show, you see. We're still holding auditions.
+16114: You're what!? Are you serious!?
+16115: Heh heh... Maat here said he wanted to be a part of the Goblin festival too.
+16116: I guess his performance in the audition was a little too...passionate. We're sorry for all the fuss.
+16117: You can say that again! The Festival of Brave Souls was canceled because of you!
+16118: I don't think you understand just how serious this is!
+16119: Ungh... I don't remember any of that...
+16120: Somehow, I found myself covered in various scrapes and bruises. Maybe that's how I lost my memories?
+16121: Ah!
+16122: Seriously!? You were beaten so badly you lost your memory!?
+16123: Hmph! What kind of person would beat up on an old man like that!?
+16124: Um...
+16125: No, it was all my fault. At least those people I scared can rest easily now.
+16126: Well, I suppose you're right. I hear the Goblins have resumed preparations for their festival as well.
+16127: If you're interested in the festival, miss, you should go speak with the Goblins.
+16128: I'd hurry up before they change their minds.
+16129: Oh, yes, of course! I'll go at once!
+16130: Now then... You there. You look familiar.
+16131: I'm Shami. We've conducted some business together in the past.
+16132: My name is Shami. I trade in rather unusual items back in Port Jeuno with adventurers much like yourself.
+16133: That there is Shemo. We're kind of like what you'd call brothers.
+16134: We both know you quite well. You've made quite the reputation for yourself around here.
+16135: Anyway, in regards to Maat... Everything we told that girl was made up.
+16136: She'd probably feel bad if she knew the truth.
+16137: You see, it was the $1 she made Maat eat that caused that to happen to him.
+16138: Maat probably mentioned something about her paying him handsomely to help train her, yes?
+16139: That's the problem, you see. Her "payment" to him was a boiled egg. In fact, I believe it's one you're quite familiar with.
+16140: You mean... [The World Eater Egg!?/The $3!?/An initial egg!?]
+16141: I'm afraid so!
+16142: Nope, guess again!
+16143: Wow, you're really gonna make me spell it out for you, aren't ya!?
+16144: Anyway...
+16145: Fortunately, the World Eater Egg he ate had deteriorated rather significantly. As such, it probably could've been much, much worse for him.
+16146: You see, while he was awake, he was able to somehow contain the power that radiated from within him.
+16147: But whenever he fell asleep, he transformed into that monster, which you saw for yourself.
+16148: Heh heh heh. Although, thanks to your battle against him, the power of the egg seems to have diminished even further, for now at least.
+16149: You can leave the matter to us. We'll see that the rest of the egg's power is absorbed and sealed away properly.
+16150: The mysterious shadow that's been haunting this place each night shouldn't be a problem any longer.
+16151: Here, this is for your troubles. I have a feeling you'll be needing it before this is all over.
+16152: I've got something from Shami and Shemo that they wanted me to give to you. Here you go.
+16153: After talking to Shami and Shemo, I feel like a great weight has been lifted from these tired shoulders.
+16154: I heard they possess some rather mysterious abilities, but I'm sure glad they were here to help. Heh heh heh.

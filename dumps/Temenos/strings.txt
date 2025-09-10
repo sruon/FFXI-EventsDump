@@ -1,5 +1,5 @@
 # Strings for Temenos
-# Total: 7288 strings
+# Total: 7302 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7262,7 +7262,7 @@
  7258: What will you do? [Change level and reset./Never mind.]
  7259: Progress has been reset.
  7260: Unrecognized entrant. Please proceed to the Temenos Operator.
- 7261: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Nothing for now.]
+ 7261: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./%./@/@/@/@/Nothing for now.]
  7262: Remaining Temenos Units: $0. Total Temenos Units: $1/$2.
  7263: The Temenos Furnace uses data to enhance your equipment.
  7264: Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Nothing for now.]
@@ -7279,13 +7279,27 @@
  7275: You have been approved to use the Temenos Furnace.
  7276: You may collect data $0 more time[/s].
  7277: You have been granted the otherwise unobtainable designation Temenos Emancipator.
- 7278: 
- 7279: 
- 7280: 
- 7281: 
- 7282: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7283: slot:@ initStep:@ ticket:@ expire:@sec
- 7284: $P15[$P116$3f$593776$z%;5\5=B
- 7285: $60298775=B
- 7286: $3`$3P$3b$3gp$P14j$|5\5=B
- 7287: Error:@
+ 7278: $0 detected. Several equipment items can now be created.
+ 7279: Which? [Create $0./Create $1./None of these.]
+ 7280: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Temenos Units shall be expended in the process.
+ 7281: You do not have enough Temenos Units.
+ 7282: I have generated new monsters based on your data.
+ 7283: Here is a quick rundown.
+ 7284: One: they do not take your set level into account.
+ 7285: Two: there are 22 types, but only 4 will appear on any given day (Earth time).
+ 7286: Three: vanquishing them affects the contents of the following week's Temenos Coffer.
+ 7287: This should enable you to collect even more precise data.
+ 7288: The $0 changes form when one uses Temenos Units.
+ 7289: It can produce special equipment.
+ 7290: The produced equipment can be further infused.
+ 7291: 
+ 7292: 
+ 7293: 
+ 7294: 
+ 7295: 
+ 7296: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7297: slot:@ initStep:@ ticket:@ expire:@sec
+ 7298: $P15[$P116$3f$593776$z%;5\5=B
+ 7299: $60298775=B
+ 7300: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7301: Error:@

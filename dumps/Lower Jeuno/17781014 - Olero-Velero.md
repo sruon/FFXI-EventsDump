@@ -21,17 +21,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x2ADC      |       10972 |
-|       2 | 0x2ADD      |       10973 |
-|       3 | 0x2ADE      |       10974 |
-|       4 | 0x2ADF      |       10975 |
+|       1 | 0x2AFF      |       11007 |
+|       2 | 0x2B00      |       11008 |
+|       3 | 0x2B01      |       11009 |
+|       4 | 0x2B02      |       11010 |
 
 ## String References
 
-- **10972**: Oh, that hideous breath... Its poison-woison is absolutely paralyzing...
-- **10973**: In factaru, I love it!
-- **10974**: ...
-- **10975**: % is not moving.
+- **11007**: Oh, that hideous breath... Its poison-woison is absolutely paralyzing...
+- **11008**: In factaru, I love it!
+- **11009**: ...
+- **11010**: % is not moving.
 
 ## Events
 
@@ -78,17 +78,17 @@
 
 ```
   0: 0x0001 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0014
-  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=10972*)
+  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=11007*)
     → "Oh, that hideous breath... Its poison-woison is absolutely paralyzing..."
   2: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=10973*)
+  3: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=11008*)
     → "In factaru, I love it!"
   4: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0011 [0x01] GOTO 0x001B
-  6: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10974*)
+  6: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=11009*)
     → "..."
   7: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0018 [0x48] [System] [10975*]:
+  8: 0x0018 [0x48] [System] [11010*]:
     → "% is not moving."
 
 SUBROUTINE_001B:

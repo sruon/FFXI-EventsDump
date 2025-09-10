@@ -211,263 +211,263 @@
 |     143 | 0xFFFFE891  |  4294961297 |
 |     144 | 0x03FB      |        1019 |
 |     145 | 0x0023      |          35 |
-|     146 | 0x2A84      |       10884 |
-|     147 | 0x2A85      |       10885 |
-|     148 | 0x2A86      |       10886 |
-|     149 | 0x2A87      |       10887 |
-|     150 | 0x2A88      |       10888 |
+|     146 | 0x2A88      |       10888 |
+|     147 | 0x2A89      |       10889 |
+|     148 | 0x2A8A      |       10890 |
+|     149 | 0x2A8B      |       10891 |
+|     150 | 0x2A8C      |       10892 |
 |     151 | 0x6E74      |       28276 |
 |     152 | 0xD1BA      |       53690 |
 |     153 | 0x0DCD      |        3533 |
 |     154 | 0x011E      |         286 |
-|     155 | 0x2A89      |       10889 |
-|     156 | 0x2A8A      |       10890 |
-|     157 | 0x2A8B      |       10891 |
+|     155 | 0x2A8D      |       10893 |
+|     156 | 0x2A8E      |       10894 |
+|     157 | 0x2A8F      |       10895 |
 |     158 | 0x0096      |         150 |
 |     159 | 0x002D      |          45 |
-|     160 | 0x2A8C      |       10892 |
-|     161 | 0x2A8D      |       10893 |
-|     162 | 0x2A8E      |       10894 |
-|     163 | 0x2A8F      |       10895 |
+|     160 | 0x2A90      |       10896 |
+|     161 | 0x2A91      |       10897 |
+|     162 | 0x2A92      |       10898 |
+|     163 | 0x2A93      |       10899 |
 |     164 | 0x0009      |           9 |
-|     165 | 0x2A90      |       10896 |
-|     166 | 0x2A91      |       10897 |
-|     167 | 0x2A92      |       10898 |
+|     165 | 0x2A94      |       10900 |
+|     166 | 0x2A95      |       10901 |
+|     167 | 0x2A96      |       10902 |
 |     168 | 0x0243      |         579 |
 |     169 | 0xFFFFAA4F  |  4294945359 |
 |     170 | 0x0563      |        1379 |
 |     171 | 0xFFFFFC5E  |  4294966366 |
 |     172 | 0xFFFF950A  |  4294939914 |
-|     173 | 0x2A93      |       10899 |
-|     174 | 0x2A94      |       10900 |
-|     175 | 0x2A95      |       10901 |
-|     176 | 0x2A96      |       10902 |
-|     177 | 0x2A97      |       10903 |
-|     178 | 0x2A98      |       10904 |
-|     179 | 0x2A99      |       10905 |
-|     180 | 0x2A9A      |       10906 |
+|     173 | 0x2A97      |       10903 |
+|     174 | 0x2A98      |       10904 |
+|     175 | 0x2A99      |       10905 |
+|     176 | 0x2A9A      |       10906 |
+|     177 | 0x2A9B      |       10907 |
+|     178 | 0x2A9C      |       10908 |
+|     179 | 0x2A9D      |       10909 |
+|     180 | 0x2A9E      |       10910 |
 |     181 | 0xFFFFEEE0  |  4294962912 |
 |     182 | 0xFFFF6ACC  |  4294929100 |
 |     183 | 0x04B0      |        1200 |
 |     184 | 0xFFFFE791  |  4294961041 |
 |     185 | 0xFFFF6A7D  |  4294929021 |
-|     186 | 0x2A9B      |       10907 |
-|     187 | 0x2A9C      |       10908 |
+|     186 | 0x2A9F      |       10911 |
+|     187 | 0x2AA0      |       10912 |
 |     188 | 0x0024      |          36 |
-|     189 | 0x2A9D      |       10909 |
-|     190 | 0x2A9E      |       10910 |
+|     189 | 0x2AA1      |       10913 |
+|     190 | 0x2AA2      |       10914 |
 |     191 | 0x0015      |          21 |
-|     192 | 0x2A9F      |       10911 |
-|     193 | 0x2AA0      |       10912 |
-|     194 | 0x2AA1      |       10913 |
-|     195 | 0x2AA2      |       10914 |
+|     192 | 0x2AA3      |       10915 |
+|     193 | 0x2AA4      |       10916 |
+|     194 | 0x2AA5      |       10917 |
+|     195 | 0x2AA6      |       10918 |
 |     196 | 0x0019      |          25 |
-|     197 | 0x2AA3      |       10915 |
-|     198 | 0x2AA4      |       10916 |
-|     199 | 0x2AA5      |       10917 |
-|     200 | 0x2AA6      |       10918 |
-|     201 | 0x2AA7      |       10919 |
+|     197 | 0x2AA7      |       10919 |
+|     198 | 0x2AA8      |       10920 |
+|     199 | 0x2AA9      |       10921 |
+|     200 | 0x2AAA      |       10922 |
+|     201 | 0x2AAB      |       10923 |
 |     202 | 0x0031      |          49 |
-|     203 | 0x2AA8      |       10920 |
-|     204 | 0x2AA9      |       10921 |
+|     203 | 0x2AAC      |       10924 |
+|     204 | 0x2AAD      |       10925 |
 |     205 | 0x0018      |          24 |
-|     206 | 0x2AAA      |       10922 |
-|     207 | 0x2AAB      |       10923 |
+|     206 | 0x2AAE      |       10926 |
+|     207 | 0x2AAF      |       10927 |
 |     208 | 0x0014      |          20 |
-|     209 | 0x2AAC      |       10924 |
-|     210 | 0x2AAD      |       10925 |
+|     209 | 0x2AB0      |       10928 |
+|     210 | 0x2AB1      |       10929 |
 |     211 | 0x0006      |           6 |
-|     212 | 0x2AAE      |       10926 |
-|     213 | 0x2AAF      |       10927 |
-|     214 | 0x2AB0      |       10928 |
+|     212 | 0x2AB2      |       10930 |
+|     213 | 0x2AB3      |       10931 |
+|     214 | 0x2AB4      |       10932 |
 |     215 | 0x0792      |        1938 |
-|     216 | 0x2AB1      |       10929 |
-|     217 | 0x2AB2      |       10930 |
-|     218 | 0x2AB3      |       10931 |
-|     219 | 0x2AB4      |       10932 |
-|     220 | 0x2AB5      |       10933 |
-|     221 | 0x2AB6      |       10934 |
-|     222 | 0x2AB7      |       10935 |
-|     223 | 0x2AB8      |       10936 |
+|     216 | 0x2AB5      |       10933 |
+|     217 | 0x2AB6      |       10934 |
+|     218 | 0x2AB7      |       10935 |
+|     219 | 0x2AB8      |       10936 |
+|     220 | 0x2AB9      |       10937 |
+|     221 | 0x2ABA      |       10938 |
+|     222 | 0x2ABB      |       10939 |
+|     223 | 0x2ABC      |       10940 |
 |     224 | 0x001D      |          29 |
-|     225 | 0x2AB9      |       10937 |
-|     226 | 0x2ABA      |       10938 |
-|     227 | 0x2ABB      |       10939 |
-|     228 | 0x2ABD      |       10941 |
-|     229 | 0x2ABC      |       10940 |
-|     230 | 0x2AC5      |       10949 |
-|     231 | 0x2AC6      |       10950 |
-|     232 | 0x2AC7      |       10951 |
-|     233 | 0x2AC8      |       10952 |
-|     234 | 0x2AC9      |       10953 |
-|     235 | 0x2ACA      |       10954 |
-|     236 | 0x2ACB      |       10955 |
-|     237 | 0x2ACC      |       10956 |
+|     225 | 0x2ABD      |       10941 |
+|     226 | 0x2ABE      |       10942 |
+|     227 | 0x2ABF      |       10943 |
+|     228 | 0x2AC1      |       10945 |
+|     229 | 0x2AC0      |       10944 |
+|     230 | 0x2AC9      |       10953 |
+|     231 | 0x2ACA      |       10954 |
+|     232 | 0x2ACB      |       10955 |
+|     233 | 0x2ACC      |       10956 |
+|     234 | 0x2ACD      |       10957 |
+|     235 | 0x2ACE      |       10958 |
+|     236 | 0x2ACF      |       10959 |
+|     237 | 0x2AD0      |       10960 |
 |     238 | 0x02D3      |         723 |
-|     239 | 0x2ACD      |       10957 |
-|     240 | 0x2ACE      |       10958 |
-|     241 | 0x2ACF      |       10959 |
-|     242 | 0x2AD0      |       10960 |
-|     243 | 0x2AD1      |       10961 |
-|     244 | 0x2AD2      |       10962 |
-|     245 | 0x2AD3      |       10963 |
-|     246 | 0x2AD4      |       10964 |
+|     239 | 0x2AD1      |       10961 |
+|     240 | 0x2AD2      |       10962 |
+|     241 | 0x2AD3      |       10963 |
+|     242 | 0x2AD4      |       10964 |
+|     243 | 0x2AD5      |       10965 |
+|     244 | 0x2AD6      |       10966 |
+|     245 | 0x2AD7      |       10967 |
+|     246 | 0x2AD8      |       10968 |
 |     247 | 0x0353      |         851 |
-|     248 | 0x2AD5      |       10965 |
-|     249 | 0x2AD6      |       10966 |
+|     248 | 0x2AD9      |       10969 |
+|     249 | 0x2ADA      |       10970 |
 |     250 | 0x0BB8      |        3000 |
-|     251 | 0x2AD7      |       10967 |
-|     252 | 0x2AD8      |       10968 |
-|     253 | 0x2AD9      |       10969 |
-|     254 | 0x2ADA      |       10970 |
-|     255 | 0x2ADB      |       10971 |
-|     256 | 0x2ADC      |       10972 |
-|     257 | 0x2ADD      |       10973 |
-|     258 | 0x2ADE      |       10974 |
-|     259 | 0x2ADF      |       10975 |
-|     260 | 0x2AE0      |       10976 |
-|     261 | 0x2AE1      |       10977 |
-|     262 | 0x2AE2      |       10978 |
-|     263 | 0x2AE3      |       10979 |
-|     264 | 0x2AE4      |       10980 |
-|     265 | 0x2AE5      |       10981 |
-|     266 | 0x2AE6      |       10982 |
-|     267 | 0x2AE7      |       10983 |
-|     268 | 0x2AE8      |       10984 |
-|     269 | 0x2AE9      |       10985 |
-|     270 | 0x2AEA      |       10986 |
-|     271 | 0x2AEB      |       10987 |
-|     272 | 0x2AEC      |       10988 |
-|     273 | 0x2AED      |       10989 |
-|     274 | 0x2AEE      |       10990 |
-|     275 | 0x2AEF      |       10991 |
-|     276 | 0x2AF0      |       10992 |
-|     277 | 0x2AF1      |       10993 |
-|     278 | 0x2AF2      |       10994 |
-|     279 | 0x2AF3      |       10995 |
-|     280 | 0x2AF4      |       10996 |
-|     281 | 0x2AF5      |       10997 |
-|     282 | 0x2ABF      |       10943 |
-|     283 | 0x2AC0      |       10944 |
-|     284 | 0x2AC1      |       10945 |
-|     285 | 0x2AC2      |       10946 |
-|     286 | 0x2AC3      |       10947 |
-|     287 | 0x2AC4      |       10948 |
+|     251 | 0x2ADB      |       10971 |
+|     252 | 0x2ADC      |       10972 |
+|     253 | 0x2ADD      |       10973 |
+|     254 | 0x2ADE      |       10974 |
+|     255 | 0x2ADF      |       10975 |
+|     256 | 0x2AE0      |       10976 |
+|     257 | 0x2AE1      |       10977 |
+|     258 | 0x2AE2      |       10978 |
+|     259 | 0x2AE3      |       10979 |
+|     260 | 0x2AE4      |       10980 |
+|     261 | 0x2AE5      |       10981 |
+|     262 | 0x2AE6      |       10982 |
+|     263 | 0x2AE7      |       10983 |
+|     264 | 0x2AE8      |       10984 |
+|     265 | 0x2AE9      |       10985 |
+|     266 | 0x2AEA      |       10986 |
+|     267 | 0x2AEB      |       10987 |
+|     268 | 0x2AEC      |       10988 |
+|     269 | 0x2AED      |       10989 |
+|     270 | 0x2AEE      |       10990 |
+|     271 | 0x2AEF      |       10991 |
+|     272 | 0x2AF0      |       10992 |
+|     273 | 0x2AF1      |       10993 |
+|     274 | 0x2AF2      |       10994 |
+|     275 | 0x2AF3      |       10995 |
+|     276 | 0x2AF4      |       10996 |
+|     277 | 0x2AF5      |       10997 |
+|     278 | 0x2AF6      |       10998 |
+|     279 | 0x2AF7      |       10999 |
+|     280 | 0x2AF8      |       11000 |
+|     281 | 0x2AF9      |       11001 |
+|     282 | 0x2AC3      |       10947 |
+|     283 | 0x2AC4      |       10948 |
+|     284 | 0x2AC5      |       10949 |
+|     285 | 0x2AC6      |       10950 |
+|     286 | 0x2AC7      |       10951 |
+|     287 | 0x2AC8      |       10952 |
 |     288 | 0xFFFFE58A  |  4294960522 |
 |     289 | 0xFFFF7126  |  4294930726 |
 |     290 | 0x09C7      |        2503 |
-|     291 | 0x2AF6      |       10998 |
-|     292 | 0x2AF7      |       10999 |
+|     291 | 0x2AFA      |       11002 |
+|     292 | 0x2AFB      |       11003 |
 |     293 | 0x00A3      |         163 |
 |     294 | 0x44BC      |       17596 |
 |     295 | 0xFFFF128C  |  4294906508 |
 |     296 | 0x07CA      |        1994 |
-|     297 | 0x2AF8      |       11000 |
-|     298 | 0x2AF9      |       11001 |
-|     299 | 0x2AFA      |       11002 |
-|     300 | 0x2AFB      |       11003 |
-|     301 | 0x2AFC      |       11004 |
-|     302 | 0x2AFD      |       11005 |
+|     297 | 0x2AFC      |       11004 |
+|     298 | 0x2AFD      |       11005 |
+|     299 | 0x2AFE      |       11006 |
+|     300 | 0x2AFF      |       11007 |
+|     301 | 0x2B00      |       11008 |
+|     302 | 0x2B01      |       11009 |
 |     303 | 0x00B8      |         184 |
 |     304 | 0x4359      |       17241 |
 |     305 | 0xFFFF3E4F  |  4294917711 |
 |     306 | 0x0B58      |        2904 |
-|     307 | 0x2AFE      |       11006 |
-|     308 | 0x2AFF      |       11007 |
-|     309 | 0x2B00      |       11008 |
-|     310 | 0x2B01      |       11009 |
-|     311 | 0x2B02      |       11010 |
-|     312 | 0x2B03      |       11011 |
+|     307 | 0x2B02      |       11010 |
+|     308 | 0x2B03      |       11011 |
+|     309 | 0x2B04      |       11012 |
+|     310 | 0x2B05      |       11013 |
+|     311 | 0x2B06      |       11014 |
+|     312 | 0x2B07      |       11015 |
 |     313 | 0x0A60      |        2656 |
-|     314 | 0x2B04      |       11012 |
-|     315 | 0x2B05      |       11013 |
-|     316 | 0x2B06      |       11014 |
-|     317 | 0x2B07      |       11015 |
-|     318 | 0x2B08      |       11016 |
-|     319 | 0x2B09      |       11017 |
-|     320 | 0x2B0A      |       11018 |
-|     321 | 0x2B0B      |       11019 |
-|     322 | 0x2B0C      |       11020 |
-|     323 | 0x2B0D      |       11021 |
-|     324 | 0x2B0E      |       11022 |
-|     325 | 0x2B0F      |       11023 |
-|     326 | 0x2B10      |       11024 |
-|     327 | 0x2B11      |       11025 |
-|     328 | 0x2B12      |       11026 |
-|     329 | 0x2B13      |       11027 |
-|     330 | 0x2B14      |       11028 |
-|     331 | 0x2B15      |       11029 |
-|     332 | 0x2B16      |       11030 |
-|     333 | 0x2B17      |       11031 |
-|     334 | 0x2B18      |       11032 |
-|     335 | 0x2B19      |       11033 |
-|     336 | 0x2B1A      |       11034 |
-|     337 | 0x2B1B      |       11035 |
-|     338 | 0x2B1C      |       11036 |
+|     314 | 0x2B08      |       11016 |
+|     315 | 0x2B09      |       11017 |
+|     316 | 0x2B0A      |       11018 |
+|     317 | 0x2B0B      |       11019 |
+|     318 | 0x2B0C      |       11020 |
+|     319 | 0x2B0D      |       11021 |
+|     320 | 0x2B0E      |       11022 |
+|     321 | 0x2B0F      |       11023 |
+|     322 | 0x2B10      |       11024 |
+|     323 | 0x2B11      |       11025 |
+|     324 | 0x2B12      |       11026 |
+|     325 | 0x2B13      |       11027 |
+|     326 | 0x2B14      |       11028 |
+|     327 | 0x2B15      |       11029 |
+|     328 | 0x2B16      |       11030 |
+|     329 | 0x2B17      |       11031 |
+|     330 | 0x2B18      |       11032 |
+|     331 | 0x2B19      |       11033 |
+|     332 | 0x2B1A      |       11034 |
+|     333 | 0x2B1B      |       11035 |
+|     334 | 0x2B1C      |       11036 |
+|     335 | 0x2B1D      |       11037 |
+|     336 | 0x2B1E      |       11038 |
+|     337 | 0x2B1F      |       11039 |
+|     338 | 0x2B20      |       11040 |
 |     339 | 0x0008      |           8 |
-|     340 | 0x2B1D      |       11037 |
-|     341 | 0x2B1E      |       11038 |
-|     342 | 0x2B1F      |       11039 |
-|     343 | 0x2B20      |       11040 |
-|     344 | 0x2B21      |       11041 |
-|     345 | 0x2B22      |       11042 |
-|     346 | 0x2B23      |       11043 |
-|     347 | 0x2B24      |       11044 |
-|     348 | 0x2B25      |       11045 |
-|     349 | 0x2B26      |       11046 |
-|     350 | 0x2B27      |       11047 |
-|     351 | 0x2B28      |       11048 |
-|     352 | 0x2B29      |       11049 |
-|     353 | 0x2B2A      |       11050 |
-|     354 | 0x2B2B      |       11051 |
-|     355 | 0x2B2C      |       11052 |
+|     340 | 0x2B21      |       11041 |
+|     341 | 0x2B22      |       11042 |
+|     342 | 0x2B23      |       11043 |
+|     343 | 0x2B24      |       11044 |
+|     344 | 0x2B25      |       11045 |
+|     345 | 0x2B26      |       11046 |
+|     346 | 0x2B27      |       11047 |
+|     347 | 0x2B28      |       11048 |
+|     348 | 0x2B29      |       11049 |
+|     349 | 0x2B2A      |       11050 |
+|     350 | 0x2B2B      |       11051 |
+|     351 | 0x2B2C      |       11052 |
+|     352 | 0x2B2D      |       11053 |
+|     353 | 0x2B2E      |       11054 |
+|     354 | 0x2B2F      |       11055 |
+|     355 | 0x2B30      |       11056 |
 |     356 | 0x0016      |          22 |
-|     357 | 0x2B2D      |       11053 |
-|     358 | 0x2B2E      |       11054 |
-|     359 | 0x2B2F      |       11055 |
-|     360 | 0x2B30      |       11056 |
-|     361 | 0x2B31      |       11057 |
-|     362 | 0x2B32      |       11058 |
-|     363 | 0x2B33      |       11059 |
+|     357 | 0x2B31      |       11057 |
+|     358 | 0x2B32      |       11058 |
+|     359 | 0x2B33      |       11059 |
+|     360 | 0x2B34      |       11060 |
+|     361 | 0x2B35      |       11061 |
+|     362 | 0x2B36      |       11062 |
+|     363 | 0x2B37      |       11063 |
 |     364 | 0x007C      |         124 |
-|     365 | 0x2B34      |       11060 |
-|     366 | 0x2B35      |       11061 |
-|     367 | 0x2B36      |       11062 |
-|     368 | 0x2B37      |       11063 |
-|     369 | 0x2B38      |       11064 |
-|     370 | 0x2B39      |       11065 |
-|     371 | 0x2B3A      |       11066 |
-|     372 | 0x2B3B      |       11067 |
-|     373 | 0x2B3C      |       11068 |
-|     374 | 0x2B3D      |       11069 |
-|     375 | 0x2B3E      |       11070 |
-|     376 | 0x2B3F      |       11071 |
+|     365 | 0x2B38      |       11064 |
+|     366 | 0x2B39      |       11065 |
+|     367 | 0x2B3A      |       11066 |
+|     368 | 0x2B3B      |       11067 |
+|     369 | 0x2B3C      |       11068 |
+|     370 | 0x2B3D      |       11069 |
+|     371 | 0x2B3E      |       11070 |
+|     372 | 0x2B3F      |       11071 |
+|     373 | 0x2B40      |       11072 |
+|     374 | 0x2B41      |       11073 |
+|     375 | 0x2B42      |       11074 |
+|     376 | 0x2B43      |       11075 |
 |     377 | 0x14F3      |        5363 |
 |     378 | 0xFFFF745B  |  4294931547 |
 |     379 | 0x0687      |        1671 |
 |     380 | 0x10BA      |        4282 |
 |     381 | 0xFFFF723F  |  4294931007 |
-|     382 | 0x2B41      |       11073 |
-|     383 | 0x2B42      |       11074 |
-|     384 | 0x2B43      |       11075 |
+|     382 | 0x2B45      |       11077 |
+|     383 | 0x2B46      |       11078 |
+|     384 | 0x2B47      |       11079 |
 |     385 | 0x161B      |        5659 |
 |     386 | 0xFFFF739A  |  4294931354 |
 |     387 | 0x0615      |        1557 |
-|     388 | 0x2B44      |       11076 |
-|     389 | 0x2B45      |       11077 |
-|     390 | 0x2B46      |       11078 |
-|     391 | 0x2B47      |       11079 |
-|     392 | 0x2B48      |       11080 |
-|     393 | 0x2B49      |       11081 |
-|     394 | 0x2B4A      |       11082 |
-|     395 | 0x2B4B      |       11083 |
-|     396 | 0x2B4C      |       11084 |
-|     397 | 0x2B4D      |       11085 |
-|     398 | 0x2B4E      |       11086 |
-|     399 | 0x2B4F      |       11087 |
-|     400 | 0x2B50      |       11088 |
+|     388 | 0x2B48      |       11080 |
+|     389 | 0x2B49      |       11081 |
+|     390 | 0x2B4A      |       11082 |
+|     391 | 0x2B4B      |       11083 |
+|     392 | 0x2B4C      |       11084 |
+|     393 | 0x2B4D      |       11085 |
+|     394 | 0x2B4E      |       11086 |
+|     395 | 0x2B4F      |       11087 |
+|     396 | 0x2B50      |       11088 |
+|     397 | 0x2B51      |       11089 |
+|     398 | 0x2B52      |       11090 |
+|     399 | 0x2B53      |       11091 |
+|     400 | 0x2B54      |       11092 |
 |     401 | 0x000C      |          12 |
-|     402 | 0x2B51      |       11089 |
+|     402 | 0x2B55      |       11093 |
 |     403 | 0x000F      |          15 |
 |     404 | 0xFFFFFD97  |  4294966679 |
 |     405 | 0xFFFF502C  |  4294922284 |
@@ -475,31 +475,31 @@
 |     407 | 0x0352      |         850 |
 |     408 | 0x03FA      |        1018 |
 |     409 | 0x03E7      |         999 |
-|     410 | 0x2B52      |       11090 |
-|     411 | 0x2B53      |       11091 |
-|     412 | 0x2B54      |       11092 |
-|     413 | 0x2B55      |       11093 |
-|     414 | 0x2B56      |       11094 |
-|     415 | 0x2B57      |       11095 |
-|     416 | 0x2B58      |       11096 |
-|     417 | 0x2B59      |       11097 |
-|     418 | 0x2B5A      |       11098 |
-|     419 | 0x2B5B      |       11099 |
-|     420 | 0x2B5C      |       11100 |
-|     421 | 0x2B5D      |       11101 |
-|     422 | 0x2B5E      |       11102 |
-|     423 | 0x2B5F      |       11103 |
-|     424 | 0x2B60      |       11104 |
-|     425 | 0x2B61      |       11105 |
-|     426 | 0x2B62      |       11106 |
-|     427 | 0x2B63      |       11107 |
-|     428 | 0x2B64      |       11108 |
-|     429 | 0x2B65      |       11109 |
+|     410 | 0x2B56      |       11094 |
+|     411 | 0x2B57      |       11095 |
+|     412 | 0x2B58      |       11096 |
+|     413 | 0x2B59      |       11097 |
+|     414 | 0x2B5A      |       11098 |
+|     415 | 0x2B5B      |       11099 |
+|     416 | 0x2B5C      |       11100 |
+|     417 | 0x2B5D      |       11101 |
+|     418 | 0x2B5E      |       11102 |
+|     419 | 0x2B5F      |       11103 |
+|     420 | 0x2B60      |       11104 |
+|     421 | 0x2B61      |       11105 |
+|     422 | 0x2B62      |       11106 |
+|     423 | 0x2B63      |       11107 |
+|     424 | 0x2B64      |       11108 |
+|     425 | 0x2B65      |       11109 |
+|     426 | 0x2B66      |       11110 |
+|     427 | 0x2B67      |       11111 |
+|     428 | 0x2B68      |       11112 |
+|     429 | 0x2B69      |       11113 |
 |     430 | 0x0069      |         105 |
-|     431 | 0x2B66      |       11110 |
-|     432 | 0x2B67      |       11111 |
-|     433 | 0x2B68      |       11112 |
-|     434 | 0x2B69      |       11113 |
+|     431 | 0x2B6A      |       11114 |
+|     432 | 0x2B6B      |       11115 |
+|     433 | 0x2B6C      |       11116 |
+|     434 | 0x2B6D      |       11117 |
 |     435 | 0x4282      |       17026 |
 |     436 | 0xFFFF45DA  |  4294919642 |
 |     437 | 0x4316      |       17174 |
@@ -534,13 +534,13 @@
 - **10640**: Which will you watch? [Goood foood?/Croood foood?]
 - **10645**: What will you do? [Roll the dice!/Pay up.]
 - **10648**: What will you wager? [Courage./Passion./Innocence.]
-- **10893**: Do you need anything? [Ask about the automaton./Ask how to get around Nashmau./Shall we go out for tea?]
-- **10908**: Your order? [Chai./Coffee./I'll pass, thanks.]
-- **10939**: The cup of chai on the right is giving off a suspicious vapor. The cup of chai on the left is giving off a suspicious odor.
-- **10940**: The cup of chai on the right is giving off a suspicious odor. The cup of chai on the left is giving off a suspicious vapor.
-- **10941**: Which one will it be? [The right cup./The left cup.]
-- **11074**: What do you wanna tell me? [Why Iruki is a great puppetmaster./A puppetmaster's greatest possession./Elisabeth's secret to success.]
-- **11093**: How was it? [Highly entertaining./Your words were too kind./I liked the scene with the Mithra.]
+- **10897**: Do you need anything? [Ask about the automaton./Ask how to get around Nashmau./Shall we go out for tea?]
+- **10912**: Your order? [Chai./Coffee./I'll pass, thanks.]
+- **10943**: The cup of chai on the right is giving off a suspicious vapor. The cup of chai on the left is giving off a suspicious odor.
+- **10944**: The cup of chai on the right is giving off a suspicious odor. The cup of chai on the left is giving off a suspicious vapor.
+- **10945**: Which one will it be? [The right cup./The left cup.]
+- **11078**: What do you wanna tell me? [Why Iruki is a great puppetmaster./A puppetmaster's greatest possession./Elisabeth's secret to success.]
+- **11097**: How was it? [Highly entertaining./Your words were too kind./I liked the scene with the Mithra.]
 
 ## Events
 
@@ -2093,23 +2093,23 @@ SUBROUTINE_0B3D:
  10: 0x121C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s27a" with entities [EventEntity, EventEntity], work=[35*, 0*]
  11: 0x122D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x123E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 13: 0x124D [0x2B] Dnegan (ID: 16994412/0x0103506C) [10884*]:
+ 13: 0x124D [0x2B] Dnegan (ID: 16994412/0x0103506C) [10888*]:
     → "You must be really curious to come all the way out to this forsaken place."
  14: 0x1254 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x1255 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10885*]:
+ 15: 0x1255 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10889*]:
     → "There's a puppetmaster here who's the same way. He should've realized that no matter how talented he might be, no one could interest the runts that live here."
  16: 0x125C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x125D [0x79] Dnegan (ID: 16994412/0x0103506C) looks at LocalPlayer (Basic look)
- 18: 0x1267 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10886*]:
+ 18: 0x1267 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10890*]:
     → "What? You want to know more about the puppetmaster? You've got to pry your nose into everything, don't you?"
  19: 0x126E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x126F [0x52] END_LOAD_SCHEDULER: End scheduler "s27a" with entities [EventEntity, EventEntity], work=35*
  21: 0x127E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s27b" with entities [EventEntity, EventEntity], work=[35*, 0*]
- 22: 0x128F [0x2B] Dnegan (ID: 16994412/0x0103506C) [10887*]:
+ 22: 0x128F [0x2B] Dnegan (ID: 16994412/0x0103506C) [10891*]:
     → "He dropped his gil pouch in Caedarva Mire the other day, and he's been out looking for it for days since. You might catch him if you search outside."
  23: 0x1296 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1297 [0x79] Dnegan (ID: 16994412/0x0103506C) looks at Dnegan (ID: 16994412/0x0103506C) (Basic look)
- 25: 0x12A1 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10888*]:
+ 25: 0x12A1 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10892*]:
     → "You curious types are drawn to each other, aren't you? I guess I'm one of you, though."
  26: 0x12A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x12A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2500,10 +2500,10 @@ SUBROUTINE_0B3D:
  25: 0x13A1 [0x1C] WAIT(30* ticks)
  26: 0x13A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  27: 0x13B5 [0x1C] WAIT(60* ticks)
- 28: 0x13B8 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10889*]:
+ 28: 0x13B8 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10893*]:
     → "You again? Are you still looking for that puppetmaster?"
  29: 0x13BF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x13C0 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10890*]:
+ 30: 0x13C0 [0x2B] Dnegan (ID: 16994412/0x0103506C) [10894*]:
     → "He's at the end of this path..."
  31: 0x13C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x13C8 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x03)
@@ -2511,7 +2511,7 @@ SUBROUTINE_0B3D:
  34: 0x13D6 [0x80] LOAD_WAIT(entity=Yafahb (ID: 16994413/0x0103506D))
  35: 0x13DB [0x80] LOAD_WAIT(entity=Automaton (ID: 16994414/0x0103506E))
  36: 0x13E0 [0x79] Dnegan (ID: 16994412/0x0103506C) looks at Yafahb (ID: 16994413/0x0103506D) (Basic look)
- 37: 0x13EA [0x2B] Dnegan (ID: 16994412/0x0103506C) [10891*]:
+ 37: 0x13EA [0x2B] Dnegan (ID: 16994412/0x0103506C) [10895*]:
     → "It looks like he's just returned."
  38: 0x13F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x13F2 [0x27] REQ_SET(priority=0x10, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x04)
@@ -2524,11 +2524,11 @@ SUBROUTINE_0B3D:
  46: 0x1435 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y003" with entities [EventEntity, EventEntity], work=[286*, 0*]
  47: 0x1446 [0x4A] LocalPlayer looks at Yafahb (ID: 16994413/0x0103506D)
  48: 0x144F [0x1C] WAIT(45* ticks)
- 49: 0x1452 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10892*]:
+ 49: 0x1452 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10896*]:
     → "Oh, hello... I remember you. Is there something you need?"
  50: 0x1459 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x145A [0x1C] WAIT(45* ticks)
- 52: 0x145D [0x24] CREATE_DIALOG(message_id=10893*, default_option=0*, option_flags=0*)
+ 52: 0x145D [0x24] CREATE_DIALOG(message_id=10897*, default_option=0*, option_flags=0*)
     → "Do you need anything? [Ask about the automaton./Ask how to get around Nashmau./Shall we go out for tea?]"
  53: 0x1464 [0x25] WAIT_DIALOG_SELECT()
  54: 0x1465 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1518
@@ -2536,13 +2536,13 @@ SUBROUTINE_0B3D:
  56: 0x1472 [0x52] END_LOAD_SCHEDULER: End scheduler "y003" with entities [EventEntity, EventEntity], work=286*
  57: 0x1481 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [EventEntity, EventEntity], work=[286*, 0*]
  58: 0x1492 [0x79] Dnegan (ID: 16994412/0x0103506C) looks at Dnegan (ID: 16994412/0x0103506C) (Basic look)
- 59: 0x149C [0x2B] Yafahb (ID: 16994413/0x0103506D) [10894*]:
+ 59: 0x149C [0x2B] Yafahb (ID: 16994413/0x0103506D) [10898*]:
     → "Wh-what about it? It's just a regular automaton! Why would you think I have anything to say about it?"
  60: 0x14A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x14A4 [0x52] END_LOAD_SCHEDULER: End scheduler "y002" with entities [EventEntity, EventEntity], work=286*
  62: 0x14B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y004" with entities [EventEntity, EventEntity], work=[286*, 0*]
  63: 0x14C4 [0x27] REQ_SET(priority=0x10, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x05)
- 64: 0x14CB [0x2B] Yafahb (ID: 16994413/0x0103506D) [10895*]:
+ 64: 0x14CB [0x2B] Yafahb (ID: 16994413/0x0103506D) [10899*]:
     → "Sorry, but I'm a little busy... L-later!"
  65: 0x14D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x14D3 [0x1C] WAIT(45* ticks)
@@ -2560,16 +2560,16 @@ SUBROUTINE_0B3D:
  78: 0x1534 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [EventEntity, EventEntity], work=[286*, 0*]
  79: 0x1545 [0x79] Dnegan (ID: 16994412/0x0103506C) looks at Dnegan (ID: 16994412/0x0103506C) (Basic look)
  80: 0x154F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
- 81: 0x155E [0x2B] Yafahb (ID: 16994413/0x0103506D) [10896*]:
+ 81: 0x155E [0x2B] Yafahb (ID: 16994413/0x0103506D) [10900*]:
     → "You want to know how to get around this town? No problem, just let me show you around! I owe you for the other day, anyway."
  82: 0x1565 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x1566 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)]
  84: 0x1573 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
- 85: 0x1582 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10897*]:
+ 85: 0x1582 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10901*]:
     → "So you want to see the port? Most everyone who comes to Nashmau comes in through that port..."
  86: 0x1589 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x158A [0x4A] Automaton (ID: 16994414/0x0103506E) looks at Yafahb (ID: 16994413/0x0103506D)
- 88: 0x1593 [0x2B] Automaton (ID: 16994414/0x0103506E) [10898*]:
+ 88: 0x1593 [0x2B] Automaton (ID: 16994414/0x0103506E) [10902*]:
     → "Enough talk. Let's go. You've got nothing better to do, right?"
  89: 0x159A [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x159B [0x1C] WAIT(60* ticks)
@@ -2588,10 +2588,10 @@ SUBROUTINE_0B3D:
 103: 0x161B [0x32] ExtData[1]->MainSpeed = 13* * 0.1
 104: 0x161E [0x1F] MOVE_ENTITY: EventEntity moves to X=-0.930*, Z=-27.382*, Y=0.000*
 105: 0x1626 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-106: 0x1628 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10899*]:
+106: 0x1628 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10903*]:
     → "This is the port. It's not much to see...huh?"
 107: 0x162F [0x23] WAIT_FOR_DIALOG_INTERACTION
-108: 0x1630 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10900*]:
+108: 0x1630 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10904*]:
     → "What's this...?"
 109: 0x1637 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x1638 [0x1A] CALL_SUBROUTINE(address=0x1759)
@@ -2601,19 +2601,19 @@ SUBROUTINE_0B3D:
 114: 0x164B [0x52] END_LOAD_SCHEDULER: End scheduler "y003" with entities [EventEntity, EventEntity], work=286*
 115: 0x165A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [EventEntity, EventEntity], work=[286*, 0*]
 116: 0x166B [0x79] Dnegan (ID: 16994412/0x0103506C) looks at Dnegan (ID: 16994412/0x0103506C) (Basic look)
-117: 0x1675 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10901*]:
+117: 0x1675 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10905*]:
     → "Tea? I don't remember there being a teahouse here in Nashmau..."
 118: 0x167C [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x167D [0x2B] Yafahb (ID: 16994413/0x0103506D) [10902*]:
+119: 0x167D [0x2B] Yafahb (ID: 16994413/0x0103506D) [10906*]:
     → "Is it new? It must have been built very quickly..."
 120: 0x1684 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x1685 [0x1C] WAIT(45* ticks)
 122: 0x1688 [0x4A] Automaton (ID: 16994414/0x0103506E) looks at Yafahb (ID: 16994413/0x0103506D)
-123: 0x1691 [0x2B] Automaton (ID: 16994414/0x0103506E) [10898*]:
+123: 0x1691 [0x2B] Automaton (ID: 16994414/0x0103506E) [10902*]:
     → "Enough talk. Let's go. You've got nothing better to do, right?"
 124: 0x1698 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x1699 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-126: 0x16A8 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10903*]:
+126: 0x16A8 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10907*]:
     → "Well, I'd like to see this place for myself, too. Let's go!"
 127: 0x16AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x16B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -2632,7 +2632,7 @@ SUBROUTINE_0B3D:
 141: 0x173C [0x32] ExtData[1]->MainSpeed = 13* * 0.1
 142: 0x173F [0x1F] MOVE_ENTITY: EventEntity moves to X=-0.930*, Z=-27.382*, Y=0.000*
 143: 0x1747 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-144: 0x1749 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10904*]:
+144: 0x1749 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10908*]:
     → "It does look like there's something here after all..."
 145: 0x1750 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x1751 [0x1A] CALL_SUBROUTINE(address=0x1759)
@@ -2649,14 +2649,14 @@ SUBROUTINE_1759:
 153: 0x177C [0x6E] Iruki-Waraki (ID: 16994416/0x01035070) uses emote 10*
 154: 0x1783 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 155: 0x1788 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
-156: 0x178D [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10905*]:
+156: 0x178D [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10909*]:
     → "Well, I'll be darned! Customers!"
 157: 0x1794 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x1795 [0x1C] WAIT(45* ticks)
 159: 0x1798 [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Iruki-Waraki (ID: 16994416/0x01035070) (Basic look)
 160: 0x17A2 [0x79] Automaton (ID: 16994414/0x0103506E) looks at Iruki-Waraki (ID: 16994416/0x01035070) (Basic look)
 161: 0x17AC [0x79] LocalPlayer looks at Iruki-Waraki (ID: 16994416/0x01035070) (Basic look)
-162: 0x17B6 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10906*]:
+162: 0x17B6 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10910*]:
     → "...This place looks kind of suspicious... Are you sure it's safe?"
 163: 0x17BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x17BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2675,10 +2675,10 @@ SUBROUTINE_1759:
 177: 0x1849 [0x4A] LocalPlayer looks at Iruki-Waraki (ID: 16994416/0x01035070)
 178: 0x1852 [0x1C] WAIT(45* ticks)
 179: 0x1855 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
-180: 0x185B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10907*]:
+180: 0x185B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10911*]:
     → "You ready to order? I've got the best tea in Nashmau right here! I highly recommend it, all of it!"
 181: 0x1862 [0x23] WAIT_FOR_DIALOG_INTERACTION
-182: 0x1863 [0x24] CREATE_DIALOG(message_id=10908*, default_option=0*, option_flags=0*)
+182: 0x1863 [0x24] CREATE_DIALOG(message_id=10912*, default_option=0*, option_flags=0*)
     → "Your order? [Chai./Coffee./I'll pass, thanks.]"
 183: 0x186A [0x25] WAIT_DIALOG_SELECT()
 184: 0x186B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19AD
@@ -2689,10 +2689,10 @@ SUBROUTINE_1759:
 189: 0x189F [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 190: 0x18A4 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 191: 0x18A9 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-192: 0x18B0 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10909*]:
+192: 0x18B0 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10913*]:
     → "One cup of chai, comin' right up! Want one for your friend, too?"
 193: 0x18B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-194: 0x18B8 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10910*]:
+194: 0x18B8 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10914*]:
     → "Um... I'll have coffee..."
 195: 0x18BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x18C0 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -2702,18 +2702,18 @@ SUBROUTINE_1759:
 200: 0x18ED [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 201: 0x18F2 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 202: 0x18F7 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-203: 0x18FE [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10911*]:
+203: 0x18FE [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10915*]:
     → "Aaack! No!"
 204: 0x1905 [0x23] WAIT_FOR_DIALOG_INTERACTION
-205: 0x1906 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10912*]:
+205: 0x1906 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10916*]:
     → "Ahhh!"
 206: 0x190D [0x23] WAIT_FOR_DIALOG_INTERACTION
-207: 0x190E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10913*]:
+207: 0x190E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10917*]:
     → "Oh, sorry, sir. Um... We seem to be all outta beans at the moment, sir!"
 208: 0x1915 [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x1916 [0x52] END_LOAD_SCHEDULER: End scheduler "y010" with entities [EventEntity, EventEntity], work=286*
 210: 0x1925 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y009" with entities [EventEntity, EventEntity], work=[286*, 0*]
-211: 0x1936 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10914*]:
+211: 0x1936 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10918*]:
     → "Oh...is that so? Okay then... I guess I'll have some tomato juice..."
 212: 0x193D [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x193E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -2721,16 +2721,16 @@ SUBROUTINE_1759:
 215: 0x194B [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 216: 0x1950 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 217: 0x1955 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-218: 0x195C [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10915*]:
+218: 0x195C [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10919*]:
     → "This is a teahouse! A teahouse, got it? Why the hell would you think we have Mithran tomatoes!?"
 219: 0x1963 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x1964 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-221: 0x1973 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10916*]:
+221: 0x1973 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10920*]:
     → "A...teahouse...? Well, you should have said so earlier!"
 222: 0x197A [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x197B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 224: 0x198A [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
-225: 0x1990 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10917*]:
+225: 0x1990 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10921*]:
     → "So it'll be two cups of chai then, right? Right!"
 226: 0x1997 [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x1998 [0x52] END_LOAD_SCHEDULER: End scheduler "y009" with entities [EventEntity, EventEntity], work=286*
@@ -2744,31 +2744,31 @@ SUBROUTINE_1759:
 235: 0x19E1 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 236: 0x19E6 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 237: 0x19EB [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-238: 0x19F2 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10918*]:
+238: 0x19F2 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10922*]:
     → "One cup of coffee, comin' right up! You're in luck, too... We just got in a fresh shipment of high-quality beans! And what'll your friend be having?"
 239: 0x19F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-240: 0x19FA [0x2B] Yafahb (ID: 16994413/0x0103506D) [10919*]:
+240: 0x19FA [0x2B] Yafahb (ID: 16994413/0x0103506D) [10923*]:
     → "I'll have the same."
 241: 0x1A01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x1A02 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
 243: 0x1A08 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-244: 0x1A17 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10920*]:
+244: 0x1A17 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10924*]:
     → "Nonononono, you don't want the same thing. Trust me! Chai is our specialty! You've got to try it!"
 245: 0x1A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x1A1F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
 247: 0x1A2E [0x52] END_LOAD_SCHEDULER: End scheduler "y008" with entities [EventEntity, EventEntity], work=286*
 248: 0x1A3D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y009" with entities [EventEntity, EventEntity], work=[286*, 0*]
-249: 0x1A4E [0x2B] Yafahb (ID: 16994413/0x0103506D) [10921*]:
+249: 0x1A4E [0x2B] Yafahb (ID: 16994413/0x0103506D) [10925*]:
     → "Um...but I like coffee better..."
 250: 0x1A55 [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x1A56 [0x6E] Iruki-Waraki (ID: 16994416/0x01035070) uses emote 24*
 252: 0x1A5D [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 253: 0x1A62 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 254: 0x1A67 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-255: 0x1A6E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10922*]:
+255: 0x1A6E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10926*]:
     → "Oh, I'm sooo sorry, sir! We just ran clean out of beans! What a shame!"
 256: 0x1A75 [0x23] WAIT_FOR_DIALOG_INTERACTION
-257: 0x1A76 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10923*]:
+257: 0x1A76 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10927*]:
     → "But didn't you just say a moment ago..."
 258: 0x1A7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x1A7E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -2776,7 +2776,7 @@ SUBROUTINE_1759:
 261: 0x1A8B [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 262: 0x1A90 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 263: 0x1A95 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-264: 0x1A9C [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10924*]:
+264: 0x1A9C [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10928*]:
     → "Sorry, but that's the way the cookie crumbles! Fine, I'll give this cup of chai to you on the house! Drink it up, now!"
 265: 0x1AA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x1AA4 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -2788,7 +2788,7 @@ SUBROUTINE_1759:
 272: 0x1ACC [0x52] END_LOAD_SCHEDULER: End scheduler "y007" with entities [EventEntity, EventEntity], work=286*
 273: 0x1ADB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y008" with entities [EventEntity, EventEntity], work=[286*, 0*]
 274: 0x1AEC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-275: 0x1AFB [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10925*]:
+275: 0x1AFB [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10929*]:
     → "Your friend will be having something, though, right?"
 276: 0x1B02 [0x23] WAIT_FOR_DIALOG_INTERACTION
 277: 0x1B03 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
@@ -2796,7 +2796,7 @@ SUBROUTINE_1759:
 279: 0x1B19 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 280: 0x1B1E [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 281: 0x1B23 [0x27] REQ_SET(priority=0x0A, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x0C)
-282: 0x1B2A [0x2B] Yafahb (ID: 16994413/0x0103506D) [10926*]:
+282: 0x1B2A [0x2B] Yafahb (ID: 16994413/0x0103506D) [10930*]:
     → "Nah, I'm fine."
 283: 0x1B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x1B32 [0x52] END_LOAD_SCHEDULER: End scheduler "y008" with entities [EventEntity, EventEntity], work=286*
@@ -2804,12 +2804,12 @@ SUBROUTINE_1759:
 286: 0x1B52 [0x6E] Iruki-Waraki (ID: 16994416/0x01035070) uses emote 25*
 287: 0x1B59 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 288: 0x1B5E [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
-289: 0x1B63 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10927*]:
+289: 0x1B63 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10931*]:
     → "What're you here for, then? Get outta here!"
 290: 0x1B6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x1B6B [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
 292: 0x1B72 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Yafahb (ID: 16994413/0x0103506D))
-293: 0x1B78 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10928*]:
+293: 0x1B78 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10932*]:
     → "Well, I think that's enough, don't you? See you later!"
 294: 0x1B7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x1B80 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -2826,12 +2826,12 @@ SUBROUTINE_1BBC:
 302: 0x1BBC [0x4B] UPDATE_ENTITY_YAW(entity=Iruki-Waraki (ID: 16994416/0x01035070), yaw=10.6°*)
 303: 0x1BC3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y011" with entities [EventEntity, EventEntity], work=[286*, 0*]
 304: 0x1BD4 [0x1C] WAIT(30* ticks)
-305: 0x1BD7 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10929*]:
+305: 0x1BD7 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10933*]:
     → "Heh heh heh! Mix it up, don't be shy! Chai, chai, chait"
 306: 0x1BDE [0x23] WAIT_FOR_DIALOG_INTERACTION
 307: 0x1BDF [0x1C] WAIT(45* ticks)
 308: 0x1BE2 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x0A)
-309: 0x1BE9 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10930*]:
+309: 0x1BE9 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10934*]:
     → "Fiiirst we mix iiin...mi-- ...Okay, all ready!"
 310: 0x1BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x1BF1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -2839,19 +2839,19 @@ SUBROUTINE_1BBC:
 313: 0x1C00 [0x52] END_LOAD_SCHEDULER: End scheduler "y011" with entities [EventEntity, EventEntity], work=286*
 314: 0x1C0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y012" with entities [EventEntity, EventEntity], work=[286*, 0*]
 315: 0x1C20 [0x1C] WAIT(30* ticks)
-316: 0x1C23 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10931*]:
+316: 0x1C23 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10935*]:
     → "Hey hey, first we what? What did you just do?"
 317: 0x1C2A [0x23] WAIT_FOR_DIALOG_INTERACTION
-318: 0x1C2B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10932*]:
+318: 0x1C2B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10936*]:
     → "Secret recipe. Sorry, can't share that."
 319: 0x1C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 320: 0x1C33 [0x7C] Yafahb (ID: 16994413/0x0103506D)->Render.Flags2 |= 0x00
-321: 0x1C39 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10933*]:
+321: 0x1C39 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10937*]:
     → "..."
 322: 0x1C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x1C41 [0x7C] Yafahb (ID: 16994413/0x0103506D)->Render.Flags2 |= 0x01
 324: 0x1C47 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-325: 0x1C56 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10934*]:
+325: 0x1C56 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10938*]:
     → "Well, here you are! Take your sweet ti--huh?"
 326: 0x1C5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 327: 0x1C5E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
@@ -2860,12 +2860,12 @@ SUBROUTINE_1BBC:
 330: 0x1C8D [0x1C] WAIT(45* ticks)
 331: 0x1C90 [0x39] SET_ENTITY_DIRECTION(direction=10.6°*)
 332: 0x1C93 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x00
-333: 0x1C99 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10935*]:
+333: 0x1C99 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10939*]:
     → "(Which one was the thief's again?)"
 334: 0x1CA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x1CA1 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x01
 336: 0x1CA7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-337: 0x1CB6 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10936*]:
+337: 0x1CB6 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10940*]:
     → "Is something the matter?"
 338: 0x1CBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0x1CBE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -2876,7 +2876,7 @@ SUBROUTINE_1BBC:
 344: 0x1CE3 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 345: 0x1CE8 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 346: 0x1CED [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-347: 0x1CF4 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10937*]:
+347: 0x1CF4 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10941*]:
     → "Nothing! Drink it up while it's still hot!"
 348: 0x1CFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0x1CFC [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -2884,7 +2884,7 @@ SUBROUTINE_1BBC:
 351: 0x1D11 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y014" with entities [EventEntity, EventEntity], work=[286*, 0*]
 352: 0x1D22 [0x1C] WAIT(60* ticks)
 353: 0x1D25 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x00
-354: 0x1D2B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10938*]:
+354: 0x1D2B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10942*]:
     → "(<Player>! Everything is riding on your luck now!)"
 355: 0x1D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x1D33 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x01
@@ -2894,10 +2894,10 @@ SUBROUTINE_1BBC:
 360: 0x1D5C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y015" with entities [EventEntity, EventEntity], work=[286*, 0*]
 361: 0x1D6D [0x13] ExtData[1]->WorkLocal[0] = rand() % 1*
 362: 0x1D72 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x1DA5
-363: 0x1D7A [0x48] [System] [10939*]:
+363: 0x1D7A [0x48] [System] [10943*]:
     → "The cup of chai on the right is giving off a suspicious vapor. The cup of chai on the left is giving off a suspicious odor."
 364: 0x1D7D [0x23] WAIT_FOR_DIALOG_INTERACTION
-365: 0x1D7E [0x24] CREATE_DIALOG(message_id=10941*, default_option=0*, option_flags=0*)
+365: 0x1D7E [0x24] CREATE_DIALOG(message_id=10945*, default_option=0*, option_flags=0*)
     → "Which one will it be? [The right cup./The left cup.]"
 366: 0x1D85 [0x25] WAIT_DIALOG_SELECT()
 367: 0x1D86 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D94
@@ -2910,10 +2910,10 @@ SUBROUTINE_1BBC:
 SUBROUTINE_1DA2:
 373: 0x1DA2 [0x01] GOTO 0x1DD8
 374: 0x1DA5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x1DD8
-375: 0x1DAD [0x48] [System] [10940*]:
+375: 0x1DAD [0x48] [System] [10944*]:
     → "The cup of chai on the right is giving off a suspicious odor. The cup of chai on the left is giving off a suspicious vapor."
 376: 0x1DB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-377: 0x1DB1 [0x24] CREATE_DIALOG(message_id=10941*, default_option=0*, option_flags=0*)
+377: 0x1DB1 [0x24] CREATE_DIALOG(message_id=10945*, default_option=0*, option_flags=0*)
     → "Which one will it be? [The right cup./The left cup.]"
 378: 0x1DB8 [0x25] WAIT_DIALOG_SELECT()
 379: 0x1DB9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1DC7
@@ -2935,41 +2935,41 @@ SUBROUTINE_1DD9:
 389: 0x1DED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y016" with entities [EventEntity, EventEntity], work=[286*, 0*]
 390: 0x1DFE [0x1C] WAIT(30* ticks)
 391: 0x1E01 [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Yafahb (ID: 16994413/0x0103506D) (Basic look)
-392: 0x1E0B [0x2B] Yafahb (ID: 16994413/0x0103506D) [10949*]:
+392: 0x1E0B [0x2B] Yafahb (ID: 16994413/0x0103506D) [10953*]:
     → "Mmm... Chai tastes better than I remembered."
 393: 0x1E12 [0x23] WAIT_FOR_DIALOG_INTERACTION
 394: 0x1E13 [0x1C] WAIT(30* ticks)
 395: 0x1E16 [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at LocalPlayer
-396: 0x1E1F [0x2B] Yafahb (ID: 16994413/0x0103506D) [10950*]:
+396: 0x1E1F [0x2B] Yafahb (ID: 16994413/0x0103506D) [10954*]:
     → "Ah, yes. I was going to thank you for defeating the monster in the mire for me the other day."
 397: 0x1E26 [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x1E27 [0x4A] LocalPlayer looks at Yafahb (ID: 16994413/0x0103506D)
-399: 0x1E30 [0x2B] Automaton (ID: 16994414/0x0103506E) [10951*]:
+399: 0x1E30 [0x2B] Automaton (ID: 16994414/0x0103506E) [10955*]:
     → "Haha. It's not like [he/she] did it for you. What were you doing there, <Player>?"
 400: 0x1E37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 401: 0x1E38 [0x4A] Automaton (ID: 16994414/0x0103506E) looks at LocalPlayer
 402: 0x1E41 [0x52] END_LOAD_SCHEDULER: End scheduler "y016" with entities [EventEntity, EventEntity], work=286*
 403: 0x1E50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y017" with entities [EventEntity, EventEntity], work=[286*, 0*]
 404: 0x1E61 [0x1C] WAIT(60* ticks)
-405: 0x1E64 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10952*]:
+405: 0x1E64 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10956*]:
     → "Now that you mention it...it isn't exactly the kind of place to go out for a walk..."
 406: 0x1E6B [0x23] WAIT_FOR_DIALOG_INTERACTION
-407: 0x1E6C [0x2B] Yafahb (ID: 16994413/0x0103506D) [10953*]:
+407: 0x1E6C [0x2B] Yafahb (ID: 16994413/0x0103506D) [10957*]:
     → "And come to think of it...I don't usually have visitors, either. Why did you come to me today?"
 408: 0x1E73 [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x1E74 [0x1C] WAIT(60* ticks)
 410: 0x1E77 [0x79] Automaton (ID: 16994414/0x0103506E) looks at Automaton (ID: 16994414/0x0103506E) (Basic look)
-411: 0x1E81 [0x2B] Automaton (ID: 16994414/0x0103506E) [10954*]:
+411: 0x1E81 [0x2B] Automaton (ID: 16994414/0x0103506E) [10958*]:
     → "[He/She] wasn't coming to you... [He/She] was coming to me."
 412: 0x1E88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 413: 0x1E89 [0x52] END_LOAD_SCHEDULER: End scheduler "y017" with entities [EventEntity, EventEntity], work=286*
 414: 0x1E98 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y018" with entities [EventEntity, EventEntity], work=[286*, 0*]
 415: 0x1EA9 [0x1C] WAIT(30* ticks)
 416: 0x1EAC [0x4A] Automaton (ID: 16994414/0x0103506E) looks at Iruki-Waraki (ID: 16994416/0x01035070)
-417: 0x1EB5 [0x2B] Automaton (ID: 16994414/0x0103506E) [10955*]:
+417: 0x1EB5 [0x2B] Automaton (ID: 16994414/0x0103506E) [10959*]:
     → "Isn't that right, Iruki-Waraki?"
 418: 0x1EBC [0x23] WAIT_FOR_DIALOG_INTERACTION
-419: 0x1EBD [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10956*]:
+419: 0x1EBD [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10960*]:
     → "!!!"
 420: 0x1EC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x1EC5 [0x52] END_LOAD_SCHEDULER: End scheduler "y018" with entities [EventEntity, EventEntity], work=286*
@@ -2979,7 +2979,7 @@ SUBROUTINE_1DD9:
 425: 0x1EED [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Yafahb (ID: 16994413/0x0103506D) Render.Flags0 and Render.Flags3 conditions are met
 426: 0x1EF2 [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Dnegan (ID: 16994412/0x0103506C) (Basic look)
 427: 0x1EFC [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)]
-428: 0x1F09 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10957*]:
+428: 0x1F09 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10961*]:
     → "Wha--!? Argh!"
 429: 0x1F10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x1F11 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Yafahb (ID: 16994413/0x0103506D))
@@ -2987,7 +2987,7 @@ SUBROUTINE_1DD9:
 432: 0x1F20 [0x52] END_LOAD_SCHEDULER: End scheduler "y019" with entities [EventEntity, EventEntity], work=286*
 433: 0x1F2F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y020" with entities [EventEntity, EventEntity], work=[286*, 0*]
 434: 0x1F40 [0x1C] WAIT(60* ticks)
-435: 0x1F43 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10958*]:
+435: 0x1F43 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10962*]:
     → "Zzz..."
 436: 0x1F4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x1F4B [0x1C] WAIT(60* ticks)
@@ -3002,34 +3002,34 @@ SUBROUTINE_1DD9:
 446: 0x1F9F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y021" with entities [EventEntity, EventEntity], work=[286*, 0*]
 447: 0x1FB0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 448: 0x1FC1 [0x1C] WAIT(60* ticks)
-449: 0x1FC4 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10959*]:
+449: 0x1FC4 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10963*]:
     → "So you saw through my disguise... I should have known you would."
 450: 0x1FCB [0x23] WAIT_FOR_DIALOG_INTERACTION
-451: 0x1FCC [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10960*]:
+451: 0x1FCC [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10964*]:
     → "I've missed you so much...Elisabeth!"
 452: 0x1FD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x1FD4 [0x52] END_LOAD_SCHEDULER: End scheduler "y021" with entities [EventEntity, EventEntity], work=286*
 454: 0x1FE3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s281" with entities [EventEntity, EventEntity], work=[35*, 0*]
-455: 0x1FF4 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10961*]:
+455: 0x1FF4 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10965*]:
     → "Don't make me sick. And stop calling me Elisabeth. I hate that name."
 456: 0x1FFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x1FFC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y023" with entities [EventEntity, EventEntity], work=[286*, 0*]
 458: 0x200D [0x1C] WAIT(60* ticks)
-459: 0x2010 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10962*]:
+459: 0x2010 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10966*]:
     → "..."
 460: 0x2017 [0x23] WAIT_FOR_DIALOG_INTERACTION
 461: 0x2018 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-462: 0x2027 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10963*]:
+462: 0x2027 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10967*]:
     → "I've come to rescue you! Let's go back home together!"
 463: 0x202E [0x23] WAIT_FOR_DIALOG_INTERACTION
 464: 0x202F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
 465: 0x203E [0x1C] WAIT(60* ticks)
-466: 0x2041 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+466: 0x2041 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 467: 0x2048 [0x23] WAIT_FOR_DIALOG_INTERACTION
 468: 0x2049 [0x1C] WAIT(60* ticks)
 469: 0x204C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Automaton (ID: 16994414/0x0103506E), Automaton (ID: 16994414/0x0103506E)], work=851*
-470: 0x205B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10965*]:
+470: 0x205B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10969*]:
     → "I'd sooner lunch with a Lamia!"
 471: 0x2062 [0x23] WAIT_FOR_DIALOG_INTERACTION
 472: 0x2063 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Automaton (ID: 16994414/0x0103506E), Automaton (ID: 16994414/0x0103506E)], work=851*
@@ -3037,7 +3037,7 @@ SUBROUTINE_1DD9:
 474: 0x207F [0x27] REQ_SET(priority=0x10, entity_id=Automaton (ID: 16994414/0x0103506E), tag_num=0x07)
 475: 0x2086 [0x52] END_LOAD_SCHEDULER: End scheduler "y023" with entities [EventEntity, EventEntity], work=286*
 476: 0x2095 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y024" with entities [EventEntity, EventEntity], work=[286*, 0*]
-477: 0x20A6 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10966*]:
+477: 0x20A6 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10970*]:
     → "No!!!"
 478: 0x20AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 479: 0x20AE [0x4A] LocalPlayer looks at Automaton (ID: 16994414/0x0103506E)
@@ -3048,7 +3048,7 @@ SUBROUTINE_1DD9:
 484: 0x20D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y025" with entities [EventEntity, EventEntity], work=[286*, 0*]
 485: 0x20E7 [0x1C] WAIT(60* ticks)
 486: 0x20EA [0x4A] LocalPlayer looks at Iruki-Waraki (ID: 16994416/0x01035070)
-487: 0x20F3 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10967*]:
+487: 0x20F3 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10971*]:
     → "She's so shy..."
 488: 0x20FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x20FB [0x1C] WAIT(60* ticks)
@@ -3056,7 +3056,7 @@ SUBROUTINE_1DD9:
 491: 0x2105 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 492: 0x210A [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 493: 0x210F [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x09)
-494: 0x2116 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10968*]:
+494: 0x2116 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10972*]:
     → "Cute, sweet little Ellie..."
 495: 0x211D [0x23] WAIT_FOR_DIALOG_INTERACTION
 496: 0x211E [0x1C] WAIT(60* ticks)
@@ -3069,12 +3069,12 @@ SUBROUTINE_1DD9:
 503: 0x2162 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y026" with entities [EventEntity, EventEntity], work=[286*, 0*]
 504: 0x2173 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 505: 0x2184 [0x1C] WAIT(60* ticks)
-506: 0x2187 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10969*]:
+506: 0x2187 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10973*]:
     → "Let's hurry up and find Elisabeth before this thief wakes up!"
 507: 0x218E [0x23] WAIT_FOR_DIALOG_INTERACTION
 508: 0x218F [0x1C] WAIT(60* ticks)
 509: 0x2192 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Yafahb (ID: 16994413/0x0103506D))
-510: 0x2198 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10970*]:
+510: 0x2198 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10974*]:
     → "Ungh..."
 511: 0x219F [0x23] WAIT_FOR_DIALOG_INTERACTION
 512: 0x21A0 [0x52] END_LOAD_SCHEDULER: End scheduler "y026" with entities [EventEntity, EventEntity], work=286*
@@ -3086,7 +3086,7 @@ SUBROUTINE_1DD9:
 518: 0x21D8 [0x80] LOAD_WAIT(entity=Yafahb (ID: 16994413/0x0103506D))
 519: 0x21DD [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Iruki-Waraki (ID: 16994416/0x01035070)
 520: 0x21E6 [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Yafahb (ID: 16994413/0x0103506D)
-521: 0x21EF [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10971*]:
+521: 0x21EF [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10975*]:
     → "What!? You can't be awake already!"
 522: 0x21F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 523: 0x21F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -3096,66 +3096,66 @@ SUBROUTINE_1DD9:
 527: 0x2225 [0x94] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags3 ^= 0x01
 528: 0x222B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y029" with entities [EventEntity, EventEntity], work=[286*, 0*]
 529: 0x223C [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Iruki-Waraki (ID: 16994416/0x01035070) (Basic look)
-530: 0x2246 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10972*]:
+530: 0x2246 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10976*]:
     → "Ah! It's you!"
 531: 0x224D [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x224E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 533: 0x225D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)]
-534: 0x226A [0x2B] Yafahb (ID: 16994413/0x0103506D) [10973*]:
+534: 0x226A [0x2B] Yafahb (ID: 16994413/0x0103506D) [10977*]:
     → "Iruki-Waraki! I've been dying to see you!"
 535: 0x2271 [0x23] WAIT_FOR_DIALOG_INTERACTION
 536: 0x2272 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x00
-537: 0x2278 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10974*]:
+537: 0x2278 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10978*]:
     → "Huh?"
 538: 0x227F [0x23] WAIT_FOR_DIALOG_INTERACTION
 539: 0x2280 [0x52] END_LOAD_SCHEDULER: End scheduler "y029" with entities [EventEntity, EventEntity], work=286*
 540: 0x228F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y028" with entities [EventEntity, EventEntity], work=[286*, 0*]
 541: 0x22A0 [0x94] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags3 = Flags3  // No change (flag=0)
 542: 0x22A6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-543: 0x22B5 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10975*]:
+543: 0x22B5 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10979*]:
     → "I'm so, so sorry for stealing your automaton! Please...save me!"
 544: 0x22BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-545: 0x22BD [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10976*]:
+545: 0x22BD [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10980*]:
     → "Um...?"
 546: 0x22C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 547: 0x22C5 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x01
 548: 0x22CB [0x1C] WAIT(45* ticks)
-549: 0x22CE [0x2B] Yafahb (ID: 16994413/0x0103506D) [10977*]:
+549: 0x22CE [0x2B] Yafahb (ID: 16994413/0x0103506D) [10981*]:
     → "I...I can't bear it any longer... The brutality! Please, take it back! I beg you!"
 550: 0x22D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-551: 0x22D6 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10978*]:
+551: 0x22D6 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10982*]:
     → "I tried so many times to return it, but it always got her hands on me before I could do anything... It makes me shiver just thinking about it...the pain..."
 552: 0x22DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 553: 0x22DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 554: 0x22ED [0x52] END_LOAD_SCHEDULER: End scheduler "y028" with entities [EventEntity, EventEntity], work=286*
 555: 0x22FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y030" with entities [EventEntity, EventEntity], work=[286*, 0*]
 556: 0x230D [0x1C] WAIT(45* ticks)
-557: 0x2310 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10979*]:
+557: 0x2310 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10983*]:
     → "Uhhh..."
 558: 0x2317 [0x23] WAIT_FOR_DIALOG_INTERACTION
 559: 0x2318 [0x1C] WAIT(30* ticks)
-560: 0x231B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10980*]:
+560: 0x231B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10984*]:
     → "Why'd you steal my automaton in the first place?"
 561: 0x2322 [0x23] WAIT_FOR_DIALOG_INTERACTION
 562: 0x2323 [0x52] END_LOAD_SCHEDULER: End scheduler "y030" with entities [EventEntity, EventEntity], work=286*
 563: 0x2332 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y031" with entities [EventEntity, EventEntity], work=[286*, 0*]
 564: 0x2343 [0x1C] WAIT(60* ticks)
-565: 0x2346 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10981*]:
+565: 0x2346 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10985*]:
     → "It's a long story..."
 566: 0x234D [0x23] WAIT_FOR_DIALOG_INTERACTION
 567: 0x234E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 568: 0x235F [0x52] END_LOAD_SCHEDULER: End scheduler "y031" with entities [EventEntity, EventEntity], work=286*
 569: 0x236E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y032" with entities [EventEntity, EventEntity], work=[286*, 0*]
 570: 0x237F [0x1C] WAIT(30* ticks)
-571: 0x2382 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10982*]:
+571: 0x2382 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10986*]:
     → "It all started about half a year ago. I ran an armor shop in Al Zahbi. One day, the sky was pouring down rain and there was hardly anybody on the streets... Business was slow..."
 572: 0x2389 [0x23] WAIT_FOR_DIALOG_INTERACTION
 573: 0x238A [0x1C] WAIT(30* ticks)
-574: 0x238D [0x2B] Yafahb (ID: 16994413/0x0103506D) [10983*]:
+574: 0x238D [0x2B] Yafahb (ID: 16994413/0x0103506D) [10987*]:
     → "And then, a tiny Mithran child visited my shop and asked if I was selling any automatons."
 575: 0x2394 [0x23] WAIT_FOR_DIALOG_INTERACTION
 576: 0x2395 [0x1C] WAIT(30* ticks)
-577: 0x2398 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10984*]:
+577: 0x2398 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10988*]:
     → "Of course, being an armory, I didn't have a single automaton in stock. But she went all that way in the rain just to come to my shop... I felt terrible turning her away empty handed..."
 578: 0x239F [0x23] WAIT_FOR_DIALOG_INTERACTION
 579: 0x23A0 [0x1C] WAIT(90* ticks)
@@ -3165,29 +3165,29 @@ SUBROUTINE_1DD9:
 583: 0x23D2 [0x1C] WAIT(150* ticks)
 584: 0x23D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y033" with entities [EventEntity, EventEntity], work=[286*, 0*]
 585: 0x23E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
-586: 0x23F7 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10985*]:
+586: 0x23F7 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10989*]:
     → "Then, after defeating the dragon... I ran back to the girl, eager to make her dream of becoming a puppetmaster come true."
 587: 0x23FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 588: 0x23FF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [EventEntity, EventEntity], work=200*
-589: 0x240E [0x2B] Yafahb (ID: 16994413/0x0103506D) [10986*]:
+589: 0x240E [0x2B] Yafahb (ID: 16994413/0x0103506D) [10990*]:
     → "I couldn't have known what tragedy awaited..."
 590: 0x2415 [0x23] WAIT_FOR_DIALOG_INTERACTION
-591: 0x2416 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10987*]:
+591: 0x2416 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10991*]:
     → "A terrible tragedy..."
 592: 0x241D [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x241E [0x52] END_LOAD_SCHEDULER: End scheduler "y033" with entities [EventEntity, EventEntity], work=286*
 594: 0x242D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y034" with entities [EventEntity, EventEntity], work=[286*, 0*]
 595: 0x243E [0x1C] WAIT(30* ticks)
-596: 0x2441 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10988*]:
+596: 0x2441 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10992*]:
     → "Geez, you weren't kidding when you said this was gonna be long."
 597: 0x2448 [0x23] WAIT_FOR_DIALOG_INTERACTION
 598: 0x2449 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-599: 0x2458 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10989*]:
+599: 0x2458 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10993*]:
     → "Oh, come on. I'm a third of the way through already! Won't you let me continue?"
 600: 0x245F [0x23] WAIT_FOR_DIALOG_INTERACTION
 601: 0x2460 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 602: 0x246F [0x1C] WAIT(30* ticks)
-603: 0x2472 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10990*]:
+603: 0x2472 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10994*]:
     → "I want to go look for my automaton. I think the place you were at was a fine ending to your story."
 604: 0x2479 [0x23] WAIT_FOR_DIALOG_INTERACTION
 605: 0x247A [0x52] END_LOAD_SCHEDULER: End scheduler "y034" with entities [EventEntity, EventEntity], work=286*
@@ -3196,10 +3196,10 @@ SUBROUTINE_1DD9:
 608: 0x24A1 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 609: 0x24A6 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 610: 0x24AB [0x27] REQ_SET(priority=0x0A, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x0C)
-611: 0x24B2 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10991*]:
+611: 0x24B2 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10995*]:
     → "You will take that horrible thing back, won't you?"
 612: 0x24B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-613: 0x24BA [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10992*]:
+613: 0x24BA [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10996*]:
     → "That's what I came here for! But now I don't know where she is..."
 614: 0x24C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 615: 0x24C2 [0x1C] WAIT(45* ticks)
@@ -3208,27 +3208,27 @@ SUBROUTINE_1DD9:
 618: 0x24E5 [0x1C] WAIT(30* ticks)
 619: 0x24E8 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Yafahb (ID: 16994413/0x0103506D))
 620: 0x24EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-621: 0x24FD [0x2B] Yafahb (ID: 16994413/0x0103506D) [10993*]:
+621: 0x24FD [0x2B] Yafahb (ID: 16994413/0x0103506D) [10997*]:
     → "If it's not on a ship, it must have gone to Caedarva Mire. I'll do anything I can to help you find it!"
 622: 0x2504 [0x23] WAIT_FOR_DIALOG_INTERACTION
 623: 0x2505 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-624: 0x2514 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10994*]:
+624: 0x2514 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10998*]:
     → "Thanks. It's your fault we're so far behind now, anyway. You and your pointless story..."
 625: 0x251B [0x23] WAIT_FOR_DIALOG_INTERACTION
 626: 0x251C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)]
 627: 0x2529 [0x6E] Yafahb (ID: 16994413/0x0103506D) uses emote 21*
 628: 0x2530 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 629: 0x2535 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
-630: 0x253A [0x2B] Yafahb (ID: 16994413/0x0103506D) [10995*]:
+630: 0x253A [0x2B] Yafahb (ID: 16994413/0x0103506D) [10999*]:
     → "Pointless!?"
 631: 0x2541 [0x23] WAIT_FOR_DIALOG_INTERACTION
-632: 0x2542 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10996*]:
+632: 0x2542 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11000*]:
     → "Hopefully <Player> will tag along just a little longer, too."
 633: 0x2549 [0x23] WAIT_FOR_DIALOG_INTERACTION
 634: 0x254A [0x52] END_LOAD_SCHEDULER: End scheduler "y036" with entities [EventEntity, EventEntity], work=286*
 635: 0x2559 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y037" with entities [EventEntity, EventEntity], work=[286*, 0*]
 636: 0x256A [0x1C] WAIT(60* ticks)
-637: 0x256D [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10997*]:
+637: 0x256D [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11001*]:
     → "All right, let's go!"
 638: 0x2574 [0x23] WAIT_FOR_DIALOG_INTERACTION
 639: 0x2575 [0x1C] WAIT(120* ticks)
@@ -3247,17 +3247,17 @@ SUBROUTINE_25C2:
 650: 0x25E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y038" with entities [EventEntity, EventEntity], work=[286*, 0*]
 651: 0x25F4 [0x1C] WAIT(60* ticks)
 652: 0x25F7 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x00
-653: 0x25FD [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10943*]:
+653: 0x25FD [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10947*]:
     → "(...! Not good! I made the thief's cup first...which means...!)"
 654: 0x2604 [0x23] WAIT_FOR_DIALOG_INTERACTION
 655: 0x2605 [0x52] END_LOAD_SCHEDULER: End scheduler "y038" with entities [EventEntity, EventEntity], work=286*
 656: 0x2614 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s280" with entities [EventEntity, EventEntity], work=[35*, 0*]
 657: 0x2625 [0x1C] WAIT(30* ticks)
 658: 0x2628 [0x79] Yafahb (ID: 16994413/0x0103506D) looks at LocalPlayer (Basic look)
-659: 0x2632 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10944*]:
+659: 0x2632 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10948*]:
     → "Ouch, this is hot! It burned my tongue... How's yours?"
 660: 0x2639 [0x23] WAIT_FOR_DIALOG_INTERACTION
-661: 0x263A [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10945*]:
+661: 0x263A [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10949*]:
     → "(Perfect! There's still a chance! Switch the cups now!)"
 662: 0x2641 [0x23] WAIT_FOR_DIALOG_INTERACTION
 663: 0x2642 [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x01
@@ -3265,16 +3265,16 @@ SUBROUTINE_25C2:
 665: 0x2657 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y040" with entities [EventEntity, EventEntity], work=[286*, 0*]
 666: 0x2668 [0x1C] WAIT(30* ticks)
 667: 0x266B [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at LocalPlayer
-668: 0x2674 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10946*]:
+668: 0x2674 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10950*]:
     → "Hey...you must be really tired, eh?"
 669: 0x267B [0x23] WAIT_FOR_DIALOG_INTERACTION
 670: 0x267C [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at LocalPlayer
 671: 0x2685 [0x4A] Automaton (ID: 16994414/0x0103506E) looks at LocalPlayer
 672: 0x268E [0x1C] WAIT(30* ticks)
-673: 0x2691 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10947*]:
+673: 0x2691 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10951*]:
     → "Sorry, but when [he/she] wakes up, could you tell [him/her] that I had to leave?"
 674: 0x2698 [0x23] WAIT_FOR_DIALOG_INTERACTION
-675: 0x2699 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10948*]:
+675: 0x2699 [0x2B] Yafahb (ID: 16994413/0x0103506D) [10952*]:
     → "Thank you."
 676: 0x26A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 677: 0x26A1 [0x1C] WAIT(60* ticks)
@@ -3298,13 +3298,13 @@ SUBROUTINE_26DC:
 693: 0x2716 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y015" with entities [EventEntity, EventEntity], work=[286*, 0*]
 694: 0x2727 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 695: 0x2738 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
-696: 0x2747 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10998*]:
+696: 0x2747 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11002*]:
     → "Rats!"
 697: 0x274E [0x23] WAIT_FOR_DIALOG_INTERACTION
 698: 0x274F [0x6E] Iruki-Waraki (ID: 16994416/0x01035070) uses emote 36*
 699: 0x2756 [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
 700: 0x275B [0x99] Wait for Iruki-Waraki (ID: 16994416/0x01035070) animation to complete
-701: 0x2760 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [10999*]:
+701: 0x2760 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11003*]:
     → "Well, we still did pretty well. Let's try again tomorrow!"
 702: 0x2767 [0x23] WAIT_FOR_DIALOG_INTERACTION
 703: 0x2768 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -3787,14 +3787,14 @@ SUBROUTINE_26DC:
  52: 0x28FE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  53: 0x290D [0x1C] WAIT(60* ticks)
  54: 0x2910 [0x79] Yafahb (ID: 16994413/0x0103506D) looks at LocalPlayer (Basic look)
- 55: 0x291A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11000*]:
+ 55: 0x291A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11004*]:
     → "Thanks for coming. The automaton should come looking for me here any time now."
  56: 0x2921 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x2922 [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Iruki-Waraki (ID: 16994416/0x01035070) (Basic look)
  58: 0x292C [0x1C] WAIT(30* ticks)
  59: 0x292F [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
  60: 0x2935 [0x79] Iruki-Waraki (ID: 16994416/0x01035070) looks at Iruki-Waraki (ID: 16994416/0x01035070) (Basic look)
- 61: 0x293F [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11001*]:
+ 61: 0x293F [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11005*]:
     → "(Ellie is coming here...)"
  62: 0x2946 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x2947 [0x52] END_LOAD_SCHEDULER: End scheduler "s297" with entities [EventEntity, EventEntity], work=35*
@@ -3802,12 +3802,12 @@ SUBROUTINE_26DC:
  65: 0x2967 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tsotsoroon (ID: 16994362/0x0103503A), Tsotsoroon (ID: 16994362/0x0103503A)], work=842*
  66: 0x2976 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tsutsuroon (ID: 16994370/0x01035042), Tsutsuroon (ID: 16994370/0x01035042)], work=842*
  67: 0x2985 [0x27] REQ_SET(priority=0x0A, entity_id=Bellowing Scout (ID: 16994322/0x01035012), tag_num=0x04)
- 68: 0x298C [0x2B] Yafahb (ID: 16994413/0x0103506D) [11002*]:
+ 68: 0x298C [0x2B] Yafahb (ID: 16994413/0x0103506D) [11006*]:
     → "Look at that crowd of Qiqirn."
  69: 0x2993 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x2994 [0x1C] WAIT(30* ticks)
  71: 0x2997 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tsotsoroon (ID: 16994362/0x0103503A), Tsotsoroon (ID: 16994362/0x0103503A)], work=842*
- 72: 0x29A6 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11003*]:
+ 72: 0x29A6 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11007*]:
     → "Yeah, I see..."
  73: 0x29AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x29AE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tsutsuroon (ID: 16994370/0x01035042), Tsutsuroon (ID: 16994370/0x01035042)], work=842*
@@ -3817,11 +3817,11 @@ SUBROUTINE_26DC:
  78: 0x29E3 [0x27] REQ_SET(priority=0x0A, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x0E)
  79: 0x29EA [0x1C] WAIT(30* ticks)
  80: 0x29ED [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x0F)
- 81: 0x29F4 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11004*]:
+ 81: 0x29F4 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11008*]:
     → "I called them here to watch an automaton performance."
  82: 0x29FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x29FC [0x1C] WAIT(60* ticks)
- 84: 0x29FF [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11005*]:
+ 84: 0x29FF [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11009*]:
     → "A performance for...Qiqirn?"
  85: 0x2A06 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x2A07 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Yafahb (ID: 16994413/0x0103506D))
@@ -3832,29 +3832,29 @@ SUBROUTINE_26DC:
  91: 0x2A3B [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Iruki-Waraki (ID: 16994416/0x01035070)
  92: 0x2A44 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=17.241*, z=-49.585*, y=0.000*, direction=255.2°*
  93: 0x2A4D [0x27] REQ_SET(priority=0x0A, entity_id=Bellowing Scout (ID: 16994322/0x01035012), tag_num=0x05)
- 94: 0x2A54 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11006*]:
+ 94: 0x2A54 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11010*]:
     → "That's right. No matter how talented your automaton is, the Qiqirn aren't going to understand the point of its antics."
  95: 0x2A5B [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x2A5C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
- 97: 0x2A6B [0x2B] Yafahb (ID: 16994413/0x0103506D) [11007*]:
+ 97: 0x2A6B [0x2B] Yafahb (ID: 16994413/0x0103506D) [11011*]:
     → "We'll charge in when it's starting to get desperate, and tell it that its abilities are still limited."
  98: 0x2A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x2A73 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-100: 0x2A82 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11008*]:
+100: 0x2A82 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11012*]:
     → "Then the automaton will realize how helpless it is without Iruki-Waraki, and it's sure to go back to him."
 101: 0x2A89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x2A8A [0x52] END_LOAD_SCHEDULER: End scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=184*
 103: 0x2A99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 104: 0x2AAA [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Yafahb (ID: 16994413/0x0103506D)
 105: 0x2AB3 [0x1C] WAIT(30* ticks)
-106: 0x2AB6 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11009*]:
+106: 0x2AB6 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11013*]:
     → "But I don't think I could entertain Qiqirn, either..."
 107: 0x2ABD [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x2ABE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-109: 0x2ACD [0x2B] Yafahb (ID: 16994413/0x0103506D) [11010*]:
+109: 0x2ACD [0x2B] Yafahb (ID: 16994413/0x0103506D) [11014*]:
     → "That doesn't matter. The point is merely to prove to the automaton the limit of its ability."
 110: 0x2AD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x2AD5 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11011*]:
+111: 0x2AD5 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11015*]:
     → "After it comes to its senses, you'll be there for it... It is certain to accept you then."
 112: 0x2ADC [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x2ADD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -3863,11 +3863,11 @@ SUBROUTINE_26DC:
 116: 0x2B0C [0x1C] WAIT(60* ticks)
 117: 0x2B0F [0x7B] Iruki-Waraki (ID: 16994416/0x01035070) stops talking
 118: 0x2B14 [0x4B] UPDATE_ENTITY_YAW(entity=Iruki-Waraki (ID: 16994416/0x01035070), yaw=14.6°*)
-119: 0x2B1B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11012*]:
+119: 0x2B1B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11016*]:
     → "You think that all of that will go according to plan? What if she's not even interested in performing for Qiqirn?"
 120: 0x2B22 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x2B23 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-122: 0x2B32 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11013*]:
+122: 0x2B32 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11017*]:
     → "Don't worry. The way it was bragging last time, there's no way it'll refuse."
 123: 0x2B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x2B3A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -3875,7 +3875,7 @@ SUBROUTINE_26DC:
 126: 0x2B58 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 127: 0x2B69 [0x1C] WAIT(60* ticks)
 128: 0x2B6C [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x00
-129: 0x2B72 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11014*]:
+129: 0x2B72 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11018*]:
     → "(I hope this is the right way to go about bringing her back...)"
 130: 0x2B79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x2B7A [0x7C] Iruki-Waraki (ID: 16994416/0x01035070)->Render.Flags2 |= 0x01
@@ -3886,14 +3886,14 @@ SUBROUTINE_26DC:
 136: 0x2B95 [0x52] END_LOAD_SCHEDULER: End scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=184*
 137: 0x2BA4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 138: 0x2BB5 [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Elisabeth (ID: 16994415/0x0103506F)
-139: 0x2BBE [0x2B] Yafahb (ID: 16994413/0x0103506D) [11015*]:
+139: 0x2BBE [0x2B] Yafahb (ID: 16994413/0x0103506D) [11019*]:
     → "It's here! There's no turning back now!"
 140: 0x2BC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x2BC6 [0x27] REQ_SET(priority=0x0A, entity_id=Tsotsoroon (ID: 16994362/0x0103503A), tag_num=0x04)
 142: 0x2BCD [0x27] REQ_SET(priority=0x0A, entity_id=Jojoroon (ID: 16994366/0x0103503E), tag_num=0x04)
 143: 0x2BD4 [0x27] REQ_SET(priority=0x10, entity_id=Elisabeth (ID: 16994415/0x0103506F), tag_num=0x04)
 144: 0x2BDB [0x1C] WAIT(60* ticks)
-145: 0x2BDE [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11016*]:
+145: 0x2BDE [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11020*]:
     → "Where the hell were you? I'm gonna use you for kilicbaligi bait, you big oaf!"
 146: 0x2BE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x2BE6 [0x1C] WAIT(60* ticks)
@@ -3901,18 +3901,18 @@ SUBROUTINE_26DC:
 149: 0x2BF2 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Elisabeth (ID: 16994415/0x0103506F))
 150: 0x2BF8 [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Elisabeth (ID: 16994415/0x0103506F)
 151: 0x2C01 [0x4A] Elisabeth (ID: 16994415/0x0103506F) looks at Iruki-Waraki (ID: 16994416/0x01035070)
-152: 0x2C0A [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11017*]:
+152: 0x2C0A [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11021*]:
     → "Iruki-Waraki? What are you doing here? Get it through your head... I'm not going back!"
 153: 0x2C11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x2C12 [0x52] END_LOAD_SCHEDULER: End scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=184*
 155: 0x2C21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 156: 0x2C32 [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Elisabeth (ID: 16994415/0x0103506F)
 157: 0x2C3B [0x1C] WAIT(60* ticks)
-158: 0x2C3E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11018*]:
+158: 0x2C3E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11022*]:
     → "I..."
 159: 0x2C45 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x2C46 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-161: 0x2C55 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11019*]:
+161: 0x2C55 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11023*]:
     → "We just wanted to watch you perform. We gathered everyone here together just for you."
 162: 0x2C5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x2C5D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -3922,20 +3922,20 @@ SUBROUTINE_26DC:
 167: 0x2C87 [0x4A] Sisiroon (ID: 16994363/0x0103503B) looks at Elisabeth (ID: 16994415/0x0103506F)
 168: 0x2C90 [0x4A] Jojoroon (ID: 16994366/0x0103503E) looks at Elisabeth (ID: 16994415/0x0103506F)
 169: 0x2C99 [0x4A] Tsutsuroon (ID: 16994370/0x01035042) looks at Elisabeth (ID: 16994415/0x0103506F)
-170: 0x2CA2 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11020*]:
+170: 0x2CA2 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11024*]:
     → "What's that? You've gotta be out of your mind!"
 171: 0x2CA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x2CAA [0x52] END_LOAD_SCHEDULER: End scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=184*
 173: 0x2CB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x009" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 174: 0x2CCA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-175: 0x2CD9 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11021*]:
+175: 0x2CD9 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11025*]:
     → "Well, you said yourself that everyone was looking forward to your performance. You said that you're fine on your own."
 176: 0x2CE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-177: 0x2CE1 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11022*]:
+177: 0x2CE1 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11026*]:
     → "I called Iruki-Waraki here so he could see that for himself, and bring him some closure."
 178: 0x2CE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x2CE9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-180: 0x2CF8 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11023*]:
+180: 0x2CF8 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11027*]:
     → "Whatever. You're really getting on my nerves. Can I hit you?"
 181: 0x2CFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x2D00 [0x52] END_LOAD_SCHEDULER: End scheduler "x009" with entities [LocalPlayer, LocalPlayer], work=184*
@@ -3949,16 +3949,16 @@ SUBROUTINE_26DC:
 190: 0x2D4A [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 191: 0x2D4F [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 192: 0x2D54 [0x27] REQ_SET(priority=0x0A, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x0C)
-193: 0x2D5B [0x2B] Yafahb (ID: 16994413/0x0103506D) [11024*]:
+193: 0x2D5B [0x2B] Yafahb (ID: 16994413/0x0103506D) [11028*]:
     → "Whoa whoa, let's not be rash, now. There's already a crowd here, so isn't it the perfect chance to show us your skill?"
 194: 0x2D62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x2D63 [0x1C] WAIT(30* ticks)
-196: 0x2D66 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11025*]:
+196: 0x2D66 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11029*]:
     → "There's no crowd! Just you and this runt!"
 197: 0x2D6D [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x2D6E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Yafahb (ID: 16994413/0x0103506D))
 199: 0x2D74 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-200: 0x2D83 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11026*]:
+200: 0x2D83 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11030*]:
     → "Oh, you know that's not true. Just look around you."
 201: 0x2D8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x2D8B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -3971,26 +3971,26 @@ SUBROUTINE_26DC:
 209: 0x2DDE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x012" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 210: 0x2DEF [0x1C] WAIT(30* ticks)
 211: 0x2DF2 [0x4A] Elisabeth (ID: 16994415/0x0103506F) looks at Yafahb (ID: 16994413/0x0103506D)
-212: 0x2DFB [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11027*]:
+212: 0x2DFB [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11031*]:
     → "You're not talking about these half-pints here, are you?"
 213: 0x2E02 [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x2E03 [0x7C] Yafahb (ID: 16994413/0x0103506D)->Render.Flags2 |= 0x00
-215: 0x2E09 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11028*]:
+215: 0x2E09 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11032*]:
     → "(Look who's talking...!)"
 216: 0x2E10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x2E11 [0x7C] Yafahb (ID: 16994413/0x0103506D)->Render.Flags2 |= 0x01
-218: 0x2E17 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11029*]:
+218: 0x2E17 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11033*]:
     → "Why, of course I am... Or are Qiqirn a problem for you?"
 219: 0x2E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x2E1F [0x52] END_LOAD_SCHEDULER: End scheduler "x012" with entities [LocalPlayer, LocalPlayer], work=184*
 221: 0x2E2E [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Yafahb (ID: 16994413/0x0103506D)
 222: 0x2E37 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x013" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 223: 0x2E48 [0x1C] WAIT(30* ticks)
-224: 0x2E4B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11030*]:
+224: 0x2E4B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11034*]:
     → "Qiqirn, eh..."
 225: 0x2E52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x2E53 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-227: 0x2E62 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11031*]:
+227: 0x2E62 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11035*]:
     → "After all that talk about how everyone loves your performances, it turns out that you're picky with your audience, eh?"
 228: 0x2E69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x2E6A [0x52] END_LOAD_SCHEDULER: End scheduler "x013" with entities [LocalPlayer, LocalPlayer], work=184*
@@ -3998,31 +3998,31 @@ SUBROUTINE_26DC:
 231: 0x2E83 [0x94] Elisabeth (ID: 16994415/0x0103506F)->Render.Flags3 ^= 0x01
 232: 0x2E89 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29b" with entities [EventEntity, EventEntity], work=[35*, 0*]
 233: 0x2E9A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=[201*, 0*]
-234: 0x2EAB [0x2B] Yafahb (ID: 16994413/0x0103506D) [11032*]:
+234: 0x2EAB [0x2B] Yafahb (ID: 16994413/0x0103506D) [11036*]:
     → "Ah, I get it now! You only perform for the easily entertained! It doesn't take much to please them, right? I see... So that's why!"
 235: 0x2EB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x2EB3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s29b" with entities [EventEntity, EventEntity], work=35*
 237: 0x2EC2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29c" with entities [EventEntity, EventEntity], work=[35*, 0*]
 238: 0x2ED3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=[201*, 0*]
-239: 0x2EE4 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11033*]:
+239: 0x2EE4 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11037*]:
     → "Pardon me for asking you to perform! To think... I never imagined such a pathetic excuse..."
 240: 0x2EEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x2EEC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s29c" with entities [EventEntity, EventEntity], work=35*
 242: 0x2EFB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29d" with entities [EventEntity, EventEntity], work=[35*, 0*]
 243: 0x2F0C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=[201*, 0*]
-244: 0x2F1D [0x2B] Yafahb (ID: 16994413/0x0103506D) [11034*]:
+244: 0x2F1D [0x2B] Yafahb (ID: 16994413/0x0103506D) [11038*]:
     → "I apologize for the misunderstanding!"
 245: 0x2F24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x2F25 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s29d" with entities [EventEntity, EventEntity], work=35*
 247: 0x2F34 [0x94] Elisabeth (ID: 16994415/0x0103506F)->Render.Flags3 = Flags3  // No change (flag=0)
 248: 0x2F3A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29e" with entities [EventEntity, EventEntity], work=[35*, 0*]
-249: 0x2F4B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11035*]:
+249: 0x2F4B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11039*]:
     → "You have a death wish, don't you?"
 250: 0x2F52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x2F53 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x015" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 252: 0x2F64 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 253: 0x2F73 [0x1C] WAIT(60* ticks)
-254: 0x2F76 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11036*]:
+254: 0x2F76 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11040*]:
     → "Fine, let's play your game. I guess it wouldn't hurt to have a few Qiqirn fans."
 255: 0x2F7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x2F7E [0x52] END_LOAD_SCHEDULER: End scheduler "x015" with entities [LocalPlayer, LocalPlayer], work=184*
@@ -4032,7 +4032,7 @@ SUBROUTINE_26DC:
 260: 0x2FA6 [0x6E] Yafahb (ID: 16994413/0x0103506D) uses emote 8*
 261: 0x2FAD [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 262: 0x2FB2 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
-263: 0x2FB7 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11037*]:
+263: 0x2FB7 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11041*]:
     → "Did you hear that, everyone? The automaton is going to start performing here for you now!"
 264: 0x2FBE [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x2FBF [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Buburoon (ID: 16994354/0x01035032) (Basic look)
@@ -4043,7 +4043,7 @@ SUBROUTINE_26DC:
 270: 0x2FF6 [0x27] REQ_SET(priority=0x0A, entity_id=Elisabeth (ID: 16994415/0x0103506F), tag_num=0x0A)
 271: 0x2FFD [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Elisabeth (ID: 16994415/0x0103506F) (Basic look)
 272: 0x3007 [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Elisabeth (ID: 16994415/0x0103506F)
-273: 0x3010 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11038*]:
+273: 0x3010 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11042*]:
     → "Don't think you'll get out of this without any scars to show for it..."
 274: 0x3017 [0x23] WAIT_FOR_DIALOG_INTERACTION
 275: 0x3018 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Elisabeth (ID: 16994415/0x0103506F))
@@ -4057,7 +4057,7 @@ SUBROUTINE_26DC:
 283: 0x3061 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Tsutsuroon (ID: 16994370/0x01035042), tag_num=0x04)
 284: 0x3068 [0x79] LocalPlayer looks at Elisabeth (ID: 16994415/0x0103506F) (Basic look)
 285: 0x3072 [0x1C] WAIT(60* ticks)
-286: 0x3075 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11039*]:
+286: 0x3075 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11043*]:
     → "I wonder if Ellie will be okay..."
 287: 0x307C [0x23] WAIT_FOR_DIALOG_INTERACTION
 288: 0x307D [0x1C] WAIT(60* ticks)
@@ -4074,7 +4074,7 @@ SUBROUTINE_26DC:
 299: 0x30DA [0x27] REQ_SET(priority=0x0A, entity_id=Tsutsuroon (ID: 16994370/0x01035042), tag_num=0x05)
 300: 0x30E1 [0x1C] WAIT(30* ticks)
 301: 0x30E4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Elisabeth (ID: 16994415/0x0103506F), Elisabeth (ID: 16994415/0x0103506F)], work=851*
-302: 0x30F3 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11040*]:
+302: 0x30F3 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11044*]:
     → "All right, you... Feast your eyes on this! Wait... Back up, you rodents! You're way too close!"
 303: 0x30FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 304: 0x30FB [0x1C] WAIT(60* ticks)
@@ -4084,41 +4084,41 @@ SUBROUTINE_26DC:
 308: 0x3110 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Jojoroon (ID: 16994366/0x0103503E))
 309: 0x3116 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Tsutsuroon (ID: 16994370/0x01035042))
 310: 0x311C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [Tsutsuroon (ID: 16994370/0x01035042), Tsutsuroon (ID: 16994370/0x01035042)], work=843*
-311: 0x312B [0x2B] Tsutsuroon (ID: 16994370/0x01035042) [11041*]:
+311: 0x312B [0x2B] Tsutsuroon (ID: 16994370/0x01035042) [11045*]:
     → "Who yooo?"
 312: 0x3132 [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x3133 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [Jojoroon (ID: 16994366/0x0103503E), Jojoroon (ID: 16994366/0x0103503E)], work=843*
-314: 0x3142 [0x2B] Jojoroon (ID: 16994366/0x0103503E) [11042*]:
+314: 0x3142 [0x2B] Jojoroon (ID: 16994366/0x0103503E) [11046*]:
     → "Body not soft? Haaard, yes?"
 315: 0x3149 [0x23] WAIT_FOR_DIALOG_INTERACTION
 316: 0x314A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [Buburoon (ID: 16994354/0x01035032), Buburoon (ID: 16994354/0x01035032)], work=843*
-317: 0x3159 [0x2B] Buburoon (ID: 16994354/0x01035032) [11043*]:
+317: 0x3159 [0x2B] Buburoon (ID: 16994354/0x01035032) [11047*]:
     → "No mouth? Where mouth? You speak how?"
 318: 0x3160 [0x23] WAIT_FOR_DIALOG_INTERACTION
 319: 0x3161 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Elisabeth (ID: 16994415/0x0103506F), Elisabeth (ID: 16994415/0x0103506F)], work=851*
 320: 0x3170 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt1" with entities [Tsutsuroon (ID: 16994370/0x01035042), Tsutsuroon (ID: 16994370/0x01035042)], work=843*
 321: 0x317F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt1" with entities [Jojoroon (ID: 16994366/0x0103503E), Jojoroon (ID: 16994366/0x0103503E)], work=843*
 322: 0x318E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt1" with entities [Buburoon (ID: 16994354/0x01035032), Buburoon (ID: 16994354/0x01035032)], work=843*
-323: 0x319D [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11044*]:
+323: 0x319D [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11048*]:
     → "Aaargh! Get out of my way! You're supposed to sit still and watch like good little beastmen!"
 324: 0x31A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 325: 0x31A5 [0x1C] WAIT(30* ticks)
 326: 0x31A8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Tsotsoroon (ID: 16994362/0x0103503A), Tsotsoroon (ID: 16994362/0x0103503A)], work=843*
-327: 0x31B7 [0x2B] Tsotsoroon (ID: 16994362/0x0103503A) [11045*]:
+327: 0x31B7 [0x2B] Tsotsoroon (ID: 16994362/0x0103503A) [11049*]:
     → "Aaahhh! Loook, loook! Tsotsoroon can do same noise! Oooahahaaa!"
 328: 0x31BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x31BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [Sisiroon (ID: 16994363/0x0103503B), Sisiroon (ID: 16994363/0x0103503B)], work=843*
-330: 0x31CE [0x2B] Sisiroon (ID: 16994363/0x0103503B) [11046*]:
+330: 0x31CE [0x2B] Sisiroon (ID: 16994363/0x0103503B) [11050*]:
     → "Where eyes? How yooo see?"
 331: 0x31D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x31D6 [0x52] END_LOAD_SCHEDULER: End scheduler "s29g" with entities [EventEntity, EventEntity], work=35*
 333: 0x31E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29h" with entities [EventEntity, EventEntity], work=[35*, 0*]
 334: 0x31F6 [0x1C] WAIT(60* ticks)
-335: 0x31F9 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11047*]:
+335: 0x31F9 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11051*]:
     → "It's starting to wear on her..."
 336: 0x3200 [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x3201 [0x1C] WAIT(60* ticks)
-338: 0x3204 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11048*]:
+338: 0x3204 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11052*]:
     → "Ellie..."
 339: 0x320B [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x320C [0x1C] WAIT(30* ticks)
@@ -4129,21 +4129,21 @@ SUBROUTINE_26DC:
 345: 0x324D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [Buburoon (ID: 16994354/0x01035032), Buburoon (ID: 16994354/0x01035032)], work=843*
 346: 0x325C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [Tsotsoroon (ID: 16994362/0x0103503A), Tsotsoroon (ID: 16994362/0x0103503A)], work=843*
 347: 0x326B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Elisabeth (ID: 16994415/0x0103506F), Elisabeth (ID: 16994415/0x0103506F)], work=851*
-348: 0x327A [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11049*]:
+348: 0x327A [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11053*]:
     → "Don't touch me! Just what do you think you runts are doing?"
 349: 0x3281 [0x23] WAIT_FOR_DIALOG_INTERACTION
 350: 0x3282 [0x1C] WAIT(30* ticks)
-351: 0x3285 [0x2B] Tsutsuroon (ID: 16994370/0x01035042) [11050*]:
+351: 0x3285 [0x2B] Tsutsuroon (ID: 16994370/0x01035042) [11054*]:
     → "Head loook like stew pot?"
 352: 0x328C [0x23] WAIT_FOR_DIALOG_INTERACTION
-353: 0x328D [0x2B] Jojoroon (ID: 16994366/0x0103503E) [11051*]:
+353: 0x328D [0x2B] Jojoroon (ID: 16994366/0x0103503E) [11055*]:
     → "Anything in head?"
 354: 0x3294 [0x23] WAIT_FOR_DIALOG_INTERACTION
-355: 0x3295 [0x2B] Buburoon (ID: 16994354/0x01035032) [11052*]:
+355: 0x3295 [0x2B] Buburoon (ID: 16994354/0x01035032) [11056*]:
     → "This is hand? How yooo use?"
 356: 0x329C [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x329D [0x1C] WAIT(60* ticks)
-358: 0x32A0 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+358: 0x32A0 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 359: 0x32A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x32A8 [0x1C] WAIT(30* ticks)
@@ -4158,16 +4158,16 @@ SUBROUTINE_26DC:
 369: 0x3319 [0x6E] Yafahb (ID: 16994413/0x0103506D) uses emote 22*
 370: 0x3320 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 371: 0x3325 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
-372: 0x332A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11053*]:
+372: 0x332A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11057*]:
     → "It's no use... Just as I thought..."
 373: 0x3331 [0x23] WAIT_FOR_DIALOG_INTERACTION
-374: 0x3332 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11054*]:
+374: 0x3332 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11058*]:
     → "Yes, this is the limit of your talent. By yourself, you can do nothing... You're just a regular automaton with a big head."
 375: 0x3339 [0x23] WAIT_FOR_DIALOG_INTERACTION
 376: 0x333A [0x1C] WAIT(60* ticks)
 377: 0x333D [0x52] END_LOAD_SCHEDULER: End scheduler "s29j" with entities [EventEntity, EventEntity], work=35*
 378: 0x334C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29i" with entities [EventEntity, EventEntity], work=[35*, 0*]
-379: 0x335D [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+379: 0x335D [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 380: 0x3364 [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x3365 [0x1C] WAIT(120* ticks)
@@ -4180,27 +4180,27 @@ SUBROUTINE_26DC:
 388: 0x339B [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
 389: 0x339F [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
 390: 0x33A3 [0x7B] Iruki-Waraki (ID: 16994416/0x01035070) stops talking
-391: 0x33A8 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11055*]:
+391: 0x33A8 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11059*]:
     → "No..."
 392: 0x33AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-393: 0x33B0 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11056*]:
+393: 0x33B0 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11060*]:
     → "You're wrong..."
 394: 0x33B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 395: 0x33B8 [0x52] END_LOAD_SCHEDULER: End scheduler "x027" with entities [LocalPlayer, LocalPlayer], work=184*
 396: 0x33C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x028" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 397: 0x33D8 [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Elisabeth (ID: 16994415/0x0103506F)
 398: 0x33E1 [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Iruki-Waraki (ID: 16994416/0x01035070)
-399: 0x33EA [0x2B] Yafahb (ID: 16994413/0x0103506D) [11057*]:
+399: 0x33EA [0x2B] Yafahb (ID: 16994413/0x0103506D) [11061*]:
     → "Iruki!?"
 400: 0x33F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 401: 0x33F2 [0x1C] WAIT(30* ticks)
-402: 0x33F5 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11058*]:
+402: 0x33F5 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11062*]:
     → "Ellie, you are..."
 403: 0x33FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 404: 0x33FD [0x52] END_LOAD_SCHEDULER: End scheduler "x028" with entities [LocalPlayer, LocalPlayer], work=184*
 405: 0x340C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29k" with entities [EventEntity, EventEntity], work=[35*, 0*]
 406: 0x341D [0x1C] WAIT(60* ticks)
-407: 0x3420 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11059*]:
+407: 0x3420 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11063*]:
     → "Shut up."
 408: 0x3427 [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x3428 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 124*
@@ -4209,7 +4209,7 @@ SUBROUTINE_26DC:
 412: 0x3439 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 413: 0x343A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Elisabeth (ID: 16994415/0x0103506F) Render.Flags0 and Render.Flags3 conditions are met
 414: 0x343F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Elisabeth (ID: 16994415/0x0103506F), Elisabeth (ID: 16994415/0x0103506F)], work=851*
-415: 0x344E [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11060*]:
+415: 0x344E [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11064*]:
     → "Maybe I couldn't do anything. But I don't need your sympathy!"
 416: 0x3455 [0x23] WAIT_FOR_DIALOG_INTERACTION
 417: 0x3456 [0x9A] WAIT_MUSIC_SERVER()
@@ -4217,21 +4217,21 @@ SUBROUTINE_26DC:
 419: 0x3466 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29n" with entities [EventEntity, EventEntity], work=[35*, 0*]
 420: 0x3477 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Elisabeth (ID: 16994415/0x0103506F), Elisabeth (ID: 16994415/0x0103506F)], work=851*
 421: 0x3486 [0x1C] WAIT(30* ticks)
-422: 0x3489 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11061*]:
+422: 0x3489 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11065*]:
     → "What can you do? Nothing would change if you were with me, because you're useless!"
 423: 0x3490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 424: 0x3491 [0x1C] WAIT(60* ticks)
 425: 0x3494 [0x52] END_LOAD_SCHEDULER: End scheduler "s29n" with entities [EventEntity, EventEntity], work=35*
 426: 0x34A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29o" with entities [EventEntity, EventEntity], work=[35*, 0*]
 427: 0x34B4 [0x1C] WAIT(60* ticks)
-428: 0x34B7 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11062*]:
+428: 0x34B7 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11066*]:
     → "You're right... I might not have been able to do anything..."
 429: 0x34BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x34BF [0x52] END_LOAD_SCHEDULER: End scheduler "s29o" with entities [EventEntity, EventEntity], work=35*
 431: 0x34CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29p" with entities [EventEntity, EventEntity], work=[35*, 0*]
 432: 0x34DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [EventEntity, EventEntity], work=[200*, 0*]
 433: 0x34F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-434: 0x34FF [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11063*]:
+434: 0x34FF [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11067*]:
     → "But Ellie, you're different. You're a magnificent automaton! There is nothing you can't do!"
 435: 0x3506 [0x23] WAIT_FOR_DIALOG_INTERACTION
 436: 0x3507 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "blon" with entities [EventEntity, EventEntity], work=200*
@@ -4240,16 +4240,16 @@ SUBROUTINE_26DC:
 439: 0x3534 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s29o" with entities [EventEntity, EventEntity], work=35*
 440: 0x3543 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x032" with entities [LocalPlayer, LocalPlayer], work=[184*, 0*]
 441: 0x3554 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-442: 0x3563 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11064*]:
+442: 0x3563 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11068*]:
     → "I've been watching you... I know better than anyone that your talents are boundless!"
 443: 0x356A [0x23] WAIT_FOR_DIALOG_INTERACTION
-444: 0x356B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11065*]:
+444: 0x356B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11069*]:
     → "I am so proud of you. Watching you grow so fast gave me such joy and the strength to continue my work as a puppetmaster."
 445: 0x3572 [0x23] WAIT_FOR_DIALOG_INTERACTION
 446: 0x3573 [0x1C] WAIT(30* ticks)
 447: 0x3576 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)]
 448: 0x3583 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-449: 0x3592 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11066*]:
+449: 0x3592 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11070*]:
     → "So I won't let anybody tell you that you're useless! I can attest to your brilliance!"
 450: 0x3599 [0x23] WAIT_FOR_DIALOG_INTERACTION
 451: 0x359A [0x1C] WAIT(60* ticks)
@@ -4258,24 +4258,24 @@ SUBROUTINE_26DC:
 454: 0x35BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29l" with entities [EventEntity, EventEntity], work=[35*, 0*]
 455: 0x35CC [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Iruki-Waraki (ID: 16994416/0x01035070)
 456: 0x35D5 [0x1C] WAIT(60* ticks)
-457: 0x35D8 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+457: 0x35D8 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 458: 0x35DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 459: 0x35E0 [0x1C] WAIT(30* ticks)
-460: 0x35E3 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11067*]:
+460: 0x35E3 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11071*]:
     → "Iruki..."
 461: 0x35EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 462: 0x35EB [0x52] END_LOAD_SCHEDULER: End scheduler "s29l" with entities [EventEntity, EventEntity], work=35*
 463: 0x35FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29i" with entities [EventEntity, EventEntity], work=[35*, 0*]
 464: 0x360B [0x1C] WAIT(60* ticks)
-465: 0x360E [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11068*]:
+465: 0x360E [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11072*]:
     → "So what?"
 466: 0x3615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 467: 0x3616 [0x52] END_LOAD_SCHEDULER: End scheduler "s29i" with entities [EventEntity, EventEntity], work=35*
 468: 0x3625 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29m" with entities [EventEntity, EventEntity], work=[35*, 0*]
 469: 0x3636 [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Elisabeth (ID: 16994415/0x0103506F)
 470: 0x363F [0x7C] Yafahb (ID: 16994413/0x0103506D)->Render.Flags2 |= 0x00
-471: 0x3645 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11069*]:
+471: 0x3645 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11073*]:
     → "!!"
 472: 0x364C [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x364D [0x7C] Yafahb (ID: 16994413/0x0103506D)->Render.Flags2 |= 0x01
@@ -4287,10 +4287,10 @@ SUBROUTINE_26DC:
 479: 0x3684 [0x1C] WAIT(30* ticks)
 480: 0x3687 [0x27] REQ_SET(priority=0x0A, entity_id=Elisabeth (ID: 16994415/0x0103506F), tag_num=0x0B)
 481: 0x368E [0x1C] WAIT(30* ticks)
-482: 0x3691 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11070*]:
+482: 0x3691 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11074*]:
     → "So you really are useless!"
 483: 0x3698 [0x23] WAIT_FOR_DIALOG_INTERACTION
-484: 0x3699 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11071*]:
+484: 0x3699 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11075*]:
     → "All the other puppetmasters are always busy doing fancy tricks with their animators, but what do you do? Nothing!"
 485: 0x36A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 486: 0x36A1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Elisabeth (ID: 16994415/0x0103506F))
@@ -4311,10 +4311,10 @@ SUBROUTINE_26DC:
 501: 0x36FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29s" with entities [EventEntity, EventEntity], work=[35*, 0*]
 502: 0x370F [0x79] Elisabeth (ID: 16994415/0x0103506F) looks at LocalPlayer (Basic look)
 503: 0x3719 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s29s" with entities [EventEntity, EventEntity], work=35*
-504: 0x3728 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11073*]:
+504: 0x3728 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11077*]:
     → "Get out of my way. You got something to say, too?"
 505: 0x372F [0x23] WAIT_FOR_DIALOG_INTERACTION
-506: 0x3730 [0x24] CREATE_DIALOG(message_id=11074*, default_option=0*, option_flags=0*)
+506: 0x3730 [0x24] CREATE_DIALOG(message_id=11078*, default_option=0*, option_flags=0*)
     → "What do you wanna tell me? [Why Iruki is a great puppetmaster./A puppetmaster's greatest possession./Elisabeth's secret to success.]"
 507: 0x3737 [0x25] WAIT_DIALOG_SELECT()
 508: 0x3738 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3743
@@ -4325,7 +4325,7 @@ SUBROUTINE_3743:
 511: 0x3754 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Yafahb (ID: 16994413/0x0103506D), tag_num=0x10)
 512: 0x375B [0x79] Yafahb (ID: 16994413/0x0103506D) looks at Elisabeth (ID: 16994415/0x0103506F) (Basic look)
 513: 0x3765 [0x1C] WAIT(60* ticks)
-514: 0x3768 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11075*]:
+514: 0x3768 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11079*]:
     → "Well, if you've got something to tell me, then out with it already!"
 515: 0x376F [0x23] WAIT_FOR_DIALOG_INTERACTION
 516: 0x3770 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29u" with entities [EventEntity, EventEntity], work=[35*, 0*]
@@ -4335,35 +4335,35 @@ SUBROUTINE_3743:
 520: 0x3798 [0x1A] CALL_SUBROUTINE(address=0x4156)
 521: 0x379B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[5]
 522: 0x37AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=[201*, 0*]
-523: 0x37BB [0x2B] Yafahb (ID: 16994413/0x0103506D) [11076*]:
+523: 0x37BB [0x2B] Yafahb (ID: 16994413/0x0103506D) [11080*]:
     → "I will!"
 524: 0x37C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-525: 0x37C3 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11077*]:
+525: 0x37C3 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11081*]:
     → "You've lost sight of what's important!"
 526: 0x37CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 527: 0x37CB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s29u" with entities [EventEntity, EventEntity], work=35*
 528: 0x37DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[5]
 529: 0x37E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29v" with entities [EventEntity, EventEntity], work=[35*, 0*]
 530: 0x37FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-531: 0x3809 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11078*]:
+531: 0x3809 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11082*]:
     → "Iruki's been watching you all this time, but you haven't been watching him!"
 532: 0x3810 [0x23] WAIT_FOR_DIALOG_INTERACTION
 533: 0x3811 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
 534: 0x381E [0x39] SET_ENTITY_DIRECTION(direction=8.6°*)
 535: 0x3821 [0x79] LocalPlayer looks at LocalPlayer (Basic look)
 536: 0x382B [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x12)
-537: 0x3832 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11079*]:
+537: 0x3832 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11083*]:
     → "The performances you give and the words you speak... You got them all from Iruki-Waraki!"
 538: 0x3839 [0x23] WAIT_FOR_DIALOG_INTERACTION
-539: 0x383A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11080*]:
+539: 0x383A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11084*]:
     → "Everything you have now came from him! Your talents are actually his talents!"
 540: 0x3841 [0x23] WAIT_FOR_DIALOG_INTERACTION
-541: 0x3842 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11081*]:
+541: 0x3842 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11085*]:
     → "So how can you say he hasn't done anything? He raised you into the automaton you are today!"
 542: 0x3849 [0x23] WAIT_FOR_DIALOG_INTERACTION
 543: 0x384A [0x1C] WAIT(3* ticks)
 544: 0x384D [0x1C] WAIT(60* ticks)
-545: 0x3850 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+545: 0x3850 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 546: 0x3857 [0x23] WAIT_FOR_DIALOG_INTERACTION
 547: 0x3858 [0x1C] WAIT(60* ticks)
@@ -4373,10 +4373,10 @@ SUBROUTINE_3743:
 551: 0x3881 [0x79] LocalPlayer looks at Elisabeth (ID: 16994415/0x0103506F) (Basic look)
 552: 0x388B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 553: 0x389A [0x1C] WAIT(30* ticks)
-554: 0x389D [0x2B] Yafahb (ID: 16994413/0x0103506D) [11082*]:
+554: 0x389D [0x2B] Yafahb (ID: 16994413/0x0103506D) [11086*]:
     → "Anybody can tell a puppet to do tricks, but a good puppetmaster grows with his automaton!"
 555: 0x38A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-556: 0x38A5 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11083*]:
+556: 0x38A5 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11087*]:
     → "The fact that he doesn't use the animator proves that he doesn't need to order you around! He trusts you!"
 557: 0x38AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 558: 0x38AD [0x52] END_LOAD_SCHEDULER: End scheduler "s29x" with entities [EventEntity, EventEntity], work=35*
@@ -4384,24 +4384,24 @@ SUBROUTINE_3743:
 560: 0x38CD [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x13)
 561: 0x38D4 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16994416/0x01035070), tag_num=0x14)
 562: 0x38DB [0x1C] WAIT(60* ticks)
-563: 0x38DE [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11084*]:
+563: 0x38DE [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11088*]:
     → "Ellie... Let's try it again."
 564: 0x38E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 565: 0x38E6 [0x1C] WAIT(60* ticks)
 566: 0x38E9 [0x4A] Elisabeth (ID: 16994415/0x0103506F) looks at Iruki-Waraki (ID: 16994416/0x01035070)
-567: 0x38F2 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11085*]:
+567: 0x38F2 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11089*]:
     → "...?"
 568: 0x38F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 569: 0x38FA [0x1C] WAIT(50* ticks)
 570: 0x38FD [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Elisabeth (ID: 16994415/0x0103506F)
-571: 0x3906 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11086*]:
+571: 0x3906 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11090*]:
     → "This time, let me help you. If we can entertain the Qiqirn together, please come back to me."
 572: 0x390D [0x23] WAIT_FOR_DIALOG_INTERACTION
-573: 0x390E [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+573: 0x390E [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 574: 0x3915 [0x23] WAIT_FOR_DIALOG_INTERACTION
 575: 0x3916 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
-576: 0x3925 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11087*]:
+576: 0x3925 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11091*]:
     → "Please, Ellie..."
 577: 0x392C [0x23] WAIT_FOR_DIALOG_INTERACTION
 578: 0x392D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16994416/0x01035070), Iruki-Waraki (ID: 16994416/0x01035070)], work=49*
@@ -4409,11 +4409,11 @@ SUBROUTINE_3743:
 580: 0x394B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s29y" with entities [EventEntity, EventEntity], work=[35*, 0*]
 581: 0x395C [0x1C] WAIT(60* ticks)
 582: 0x395F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=60*)
-583: 0x3964 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+583: 0x3964 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 584: 0x396B [0x23] WAIT_FOR_DIALOG_INTERACTION
 585: 0x396C [0x1C] WAIT(120* ticks)
-586: 0x396F [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11088*]:
+586: 0x396F [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11092*]:
     → "Okay, fine. Whatever."
 587: 0x3976 [0x23] WAIT_FOR_DIALOG_INTERACTION
 588: 0x3977 [0x1C] WAIT(60* ticks)
@@ -4429,7 +4429,7 @@ SUBROUTINE_3743:
 598: 0x39CE [0x6E] Yafahb (ID: 16994413/0x0103506D) uses emote 12*
 599: 0x39D5 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 600: 0x39DA [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
-601: 0x39DF [0x2B] Yafahb (ID: 16994413/0x0103506D) [11089*]:
+601: 0x39DF [0x2B] Yafahb (ID: 16994413/0x0103506D) [11093*]:
     → "Listen up, Qiqirn! The automaton's performance is about to start!"
 602: 0x39E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 603: 0x39E7 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iruki-Waraki (ID: 16994416/0x01035070))
@@ -4526,40 +4526,40 @@ SUBROUTINE_3743:
 694: 0x3D3E [0x4A] LocalPlayer looks at Yafahb (ID: 16994413/0x0103506D)
 695: 0x3D47 [0x1C] WAIT(120* ticks)
 696: 0x3D4A [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at LocalPlayer
-697: 0x3D53 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11090*]:
+697: 0x3D53 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11094*]:
     → "Wow...that seemed to go by fast."
 698: 0x3D5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 699: 0x3D5B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-700: 0x3D6A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11091*]:
+700: 0x3D6A [0x2B] Yafahb (ID: 16994413/0x0103506D) [11095*]:
     → "Still, you were great together! I never imagined seeing such a performance under these circumstances..."
 701: 0x3D71 [0x23] WAIT_FOR_DIALOG_INTERACTION
-702: 0x3D72 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11092*]:
+702: 0x3D72 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11096*]:
     → "What did you think, <Player>?"
 703: 0x3D79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 704: 0x3D7A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-705: 0x3D89 [0x24] CREATE_DIALOG(message_id=11093*, default_option=0*, option_flags=0*)
+705: 0x3D89 [0x24] CREATE_DIALOG(message_id=11097*, default_option=0*, option_flags=0*)
     → "How was it? [Highly entertaining./Your words were too kind./I liked the scene with the Mithra.]"
 706: 0x3D90 [0x25] WAIT_DIALOG_SELECT()
 707: 0x3D91 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3DC2
 708: 0x3D99 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-709: 0x3DA8 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11094*]:
+709: 0x3DA8 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11098*]:
     → "The Qiqirn loved it, too. Iruki-Waraki is the best puppetmaster in Al Zahbi...no, in all of the Aht Urhgan Empire!"
 710: 0x3DAF [0x23] WAIT_FOR_DIALOG_INTERACTION
 711: 0x3DB0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 712: 0x3DBF [0x01] GOTO 0x3E2C
 713: 0x3DC2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x3DFB
 714: 0x3DCA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-715: 0x3DD9 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11095*]:
+715: 0x3DD9 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11099*]:
     → "You puppetmasters are pretty critical of each other, aren't you?"
 716: 0x3DE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-717: 0x3DE1 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11096*]:
+717: 0x3DE1 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11100*]:
     → "You look like a fantastic puppetmaster yourself, though. I look forward to seeing your performance, too!"
 718: 0x3DE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 719: 0x3DE9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
 720: 0x3DF8 [0x01] GOTO 0x3E2C
 721: 0x3DFB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x3E2C
 722: 0x3E03 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
-723: 0x3E12 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11097*]:
+723: 0x3E12 [0x2B] Yafahb (ID: 16994413/0x0103506D) [11101*]:
     → "Huh? I don't remember seeing any scene with a Mithra... What were you looking at the whole time, anyway?"
 724: 0x3E19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 725: 0x3E1A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Yafahb (ID: 16994413/0x0103506D), Yafahb (ID: 16994413/0x0103506D)], work=9*
@@ -4569,18 +4569,18 @@ SUBROUTINE_3E2C:
 727: 0x3E2C [0x52] END_LOAD_SCHEDULER: End scheduler "s2a3" with entities [EventEntity, EventEntity], work=35*
 728: 0x3E3B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s2a4" with entities [EventEntity, EventEntity], work=[35*, 0*]
 729: 0x3E4C [0x1C] WAIT(30* ticks)
-730: 0x3E4F [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11098*]:
+730: 0x3E4F [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11102*]:
     → "Whew... I haven't been that nervous in ages."
 731: 0x3E56 [0x23] WAIT_FOR_DIALOG_INTERACTION
 732: 0x3E57 [0x1C] WAIT(30* ticks)
-733: 0x3E5A [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10964*]:
+733: 0x3E5A [0x2B] Elisabeth (ID: 16994415/0x0103506F) [10968*]:
     → "..."
 734: 0x3E61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 735: 0x3E62 [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Elisabeth (ID: 16994415/0x0103506F)
-736: 0x3E6B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11099*]:
+736: 0x3E6B [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11103*]:
     → "Ellie...?"
 737: 0x3E72 [0x23] WAIT_FOR_DIALOG_INTERACTION
-738: 0x3E73 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11100*]:
+738: 0x3E73 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11104*]:
     → "What? I-it's nothing! My gears are just a bit rusty..."
 739: 0x3E7A [0x23] WAIT_FOR_DIALOG_INTERACTION
 740: 0x3E7B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -4591,17 +4591,17 @@ SUBROUTINE_3E2C:
 745: 0x3EA8 [0x27] REQ_SET(priority=0x0A, entity_id=Elisabeth (ID: 16994415/0x0103506F), tag_num=0x0E)
 746: 0x3EAF [0x4A] LocalPlayer looks at Iruki-Waraki (ID: 16994416/0x01035070)
 747: 0x3EB8 [0x4A] Yafahb (ID: 16994413/0x0103506D) looks at Elisabeth (ID: 16994415/0x0103506F)
-748: 0x3EC1 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11101*]:
+748: 0x3EC1 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11105*]:
     → "I don't know what you're talking about. I'm not Master Shamarhaan, you know..."
 749: 0x3EC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 750: 0x3EC9 [0x1C] WAIT(30* ticks)
-751: 0x3ECC [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11102*]:
+751: 0x3ECC [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11106*]:
     → "Er...ah..."
 752: 0x3ED3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-753: 0x3ED4 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11103*]:
+753: 0x3ED4 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11107*]:
     → "Hm?"
 754: 0x3EDB [0x23] WAIT_FOR_DIALOG_INTERACTION
-755: 0x3EDC [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11104*]:
+755: 0x3EDC [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11108*]:
     → "Um...eh..."
 756: 0x3EE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 757: 0x3EE4 [0x1C] WAIT(60* ticks)
@@ -4610,19 +4610,19 @@ SUBROUTINE_3E2C:
 760: 0x3EF3 [0x52] END_LOAD_SCHEDULER: End scheduler "s2a5" with entities [EventEntity, EventEntity], work=35*
 761: 0x3F02 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s2a6" with entities [EventEntity, EventEntity], work=[35*, 0*]
 762: 0x3F13 [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at Elisabeth (ID: 16994415/0x0103506F)
-763: 0x3F1C [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11105*]:
+763: 0x3F1C [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11109*]:
     → "Ellie..."
 764: 0x3F23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 765: 0x3F24 [0x4A] Elisabeth (ID: 16994415/0x0103506F) looks at Iruki-Waraki (ID: 16994416/0x01035070)
-766: 0x3F2D [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11106*]:
+766: 0x3F2D [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11110*]:
     → "Eh?"
 767: 0x3F34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 768: 0x3F35 [0x1C] WAIT(60* ticks)
-769: 0x3F38 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11107*]:
+769: 0x3F38 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11111*]:
     → "Let's go back to Al Zahbi."
 770: 0x3F3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 771: 0x3F40 [0x1C] WAIT(60* ticks)
-772: 0x3F43 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11108*]:
+772: 0x3F43 [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11112*]:
     → "...Yeah."
 773: 0x3F4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 774: 0x3F4B [0x52] END_LOAD_SCHEDULER: End scheduler "s2a6" with entities [EventEntity, EventEntity], work=35*
@@ -4631,7 +4631,7 @@ SUBROUTINE_3E2C:
 777: 0x3F6E [0x6E] Yafahb (ID: 16994413/0x0103506D) uses emote 36*
 778: 0x3F75 [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
 779: 0x3F7A [0x99] Wait for Yafahb (ID: 16994413/0x0103506D) animation to complete
-780: 0x3F7F [0x2B] Yafahb (ID: 16994413/0x0103506D) [11109*]:
+780: 0x3F7F [0x2B] Yafahb (ID: 16994413/0x0103506D) [11113*]:
     → "Yes! Oh, yes! Finally free from that wicked creature! No more suffering in silence for me! Woo-hoo!"
 781: 0x3F86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 782: 0x3F87 [0x1C] WAIT(105* ticks)
@@ -4645,15 +4645,15 @@ SUBROUTINE_3E2C:
 790: 0x3FD9 [0x6A] CHANGE_SOUND_VOLUME: Set (Effects/System/Zone/Master)* volume to 999*, fade_time=0*
 791: 0x3FE0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s2a8" with entities [EventEntity, EventEntity], work=[35*, 0*]
 792: 0x3FF1 [0x4A] Iruki-Waraki (ID: 16994416/0x01035070) looks at LocalPlayer
-793: 0x3FFA [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11110*]:
+793: 0x3FFA [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11114*]:
     → "It's time to go home now."
 794: 0x4001 [0x23] WAIT_FOR_DIALOG_INTERACTION
 795: 0x4002 [0x4A] Elisabeth (ID: 16994415/0x0103506F) looks at LocalPlayer
-796: 0x400B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11111*]:
+796: 0x400B [0x2B] Elisabeth (ID: 16994415/0x0103506F) [11115*]:
     → "Later."
 797: 0x4012 [0x23] WAIT_FOR_DIALOG_INTERACTION
 798: 0x4013 [0x1C] WAIT(30* ticks)
-799: 0x4016 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11112*]:
+799: 0x4016 [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11116*]:
     → "Oh yeah... Next time you're in Al Zahbi, stop by and say hi, okay?"
 800: 0x401D [0x23] WAIT_FOR_DIALOG_INTERACTION
 801: 0x401E [0x6E] Iruki-Waraki (ID: 16994416/0x01035070) uses emote 9*
@@ -4662,7 +4662,7 @@ SUBROUTINE_3E2C:
 804: 0x402F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wav0" with entities [Elisabeth (ID: 16994415/0x0103506F), Elisabeth (ID: 16994415/0x0103506F)], work=851*
 805: 0x403E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s2a8" with entities [EventEntity, EventEntity], work=35*
 806: 0x404D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s2a9" with entities [EventEntity, EventEntity], work=[35*, 0*]
-807: 0x405E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11113*]:
+807: 0x405E [0x2B] Iruki-Waraki (ID: 16994416/0x01035070) [11117*]:
     → "I'll be waiting!"
 808: 0x4065 [0x23] WAIT_FOR_DIALOG_INTERACTION
 809: 0x4066 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s2a9" with entities [EventEntity, EventEntity], work=35*

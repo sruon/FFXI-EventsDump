@@ -48,32 +48,32 @@
 |       2 | 0x18DC      |        6364 |
 |       3 | 0x18DD      |        6365 |
 |       4 | 0x18DE      |        6366 |
-|       5 | 0x2AC4      |       10948 |
-|       6 | 0x2AC5      |       10949 |
+|       5 | 0x2AC8      |       10952 |
+|       6 | 0x2AC9      |       10953 |
 |       7 | 0x0029      |          41 |
-|       8 | 0x2AC6      |       10950 |
-|       9 | 0x2AC7      |       10951 |
-|      10 | 0x2AC8      |       10952 |
-|      11 | 0x2AC9      |       10953 |
-|      12 | 0x2ACA      |       10954 |
-|      13 | 0x2ACB      |       10955 |
-|      14 | 0x2ACC      |       10956 |
-|      15 | 0x2ACD      |       10957 |
-|      16 | 0x2ACE      |       10958 |
-|      17 | 0x2ACF      |       10959 |
-|      18 | 0x2AD0      |       10960 |
-|      19 | 0x2AD1      |       10961 |
-|      20 | 0x2AD2      |       10962 |
-|      21 | 0x2AD3      |       10963 |
-|      22 | 0x2AD4      |       10964 |
-|      23 | 0x2AD5      |       10965 |
-|      24 | 0x2AD6      |       10966 |
+|       8 | 0x2ACA      |       10954 |
+|       9 | 0x2ACB      |       10955 |
+|      10 | 0x2ACC      |       10956 |
+|      11 | 0x2ACD      |       10957 |
+|      12 | 0x2ACE      |       10958 |
+|      13 | 0x2ACF      |       10959 |
+|      14 | 0x2AD0      |       10960 |
+|      15 | 0x2AD1      |       10961 |
+|      16 | 0x2AD2      |       10962 |
+|      17 | 0x2AD3      |       10963 |
+|      18 | 0x2AD4      |       10964 |
+|      19 | 0x2AD5      |       10965 |
+|      20 | 0x2AD6      |       10966 |
+|      21 | 0x2AD7      |       10967 |
+|      22 | 0x2AD8      |       10968 |
+|      23 | 0x2AD9      |       10969 |
+|      24 | 0x2ADA      |       10970 |
 |      25 | 0x0000      |           0 |
-|      26 | 0x2AD7      |       10967 |
+|      26 | 0x2ADB      |       10971 |
 |      27 | 0x0001      |           1 |
-|      28 | 0x2AD8      |       10968 |
-|      29 | 0x2AD9      |       10969 |
-|      30 | 0x2ADA      |       10970 |
+|      28 | 0x2ADC      |       10972 |
+|      29 | 0x2ADD      |       10973 |
+|      30 | 0x2ADE      |       10974 |
 |      31 | 0xFFFFF92B  |  4294965547 |
 |      32 | 0xFFFE9384  |  4294873988 |
 |      33 | 0x000B      |          11 |
@@ -96,10 +96,10 @@
 |      50 | 0x022B      |         555 |
 |      51 | 0x003C      |          60 |
 |      52 | 0x000D      |          13 |
-|      53 | 0x311E      |       12574 |
-|      54 | 0x311F      |       12575 |
-|      55 | 0x3120      |       12576 |
-|      56 | 0x3121      |       12577 |
+|      53 | 0x3122      |       12578 |
+|      54 | 0x3123      |       12579 |
+|      55 | 0x3124      |       12580 |
+|      56 | 0x3125      |       12581 |
 |      57 | 0x11707     |       71431 |
 |      58 | 0xFFFE0EEF  |  4294840047 |
 |      59 | 0x1185E     |       71774 |
@@ -110,33 +110,33 @@
 - **6364**: Cardians and puppets... Automatons and Cardians...
 - **6365**: Mobility, mass production, endurance, widespread use, safety, reliability, thermal power, cognition, practicality, beauty, eloquence, charm...and even that's not the last of their similarities!
 - **6366**: But how are they different? And which is better? They won't let me go home until I know the answer!
-- **10948**: Doctor Shan-- Ah, Lady Karababa!!!
-- **10949**: Where could she have disappeared to? I was just changing into my best clothes so I could take her to the Shararat Teahouse.
-- **10950**: You mean Doctor Shan-- I mean, Lady Karababa has already arrived at the teahouse!?
-- **10951**: Oh my, oh my, oh my! I'll be cursed for sure!
-- **10952**: A-Aydeewa Subterrane! Doctor Shan-- Ah, Lady Karababa ventured down there!?
-- **10953**: Oh my, oh my, oh my! If she doesn't need my guidance, then she might not need me to exist at all...
-- **10954**: Doctor Shan-- Ah, Lady Karababa means to enter the Navukgo Execution Chamber!?
-- **10955**: Hmmm. But at least I have been charged with finding an exemplary alchemist!
-- **10956**: Lady Karababa needs me after all! So much safer to be needed...
-- **10957**: I've been ordered by the King of Hearts to find an alchemist...
-- **10958**: The alchemist is to analyze the remains of an insulator they found in the Olduum ruins...
-- **10959**: But these Imperial alchemists are all so self-important and busy...
-- **10960**: An invitation to a banquet at the palace!
-- **10961**: Wow, even the Grand Vizier recognized Lady Karababa's importance.
-- **10962**: Oh! I should get my dinner suit ready! They'll probably be here for me at any moment!
-- **10963**: Sh-sh-she's g-g-gone!? B-b-but...she left without saying a word to me...
-- **10964**: L-L-Lady Karababa...
-- **10965**: D-d-does this mean she didn't need me after all?
-- **10966**: Does Lady Karababa need him? [Of course she needs you!/"Loser" was the word she used...]
-- **10967**: Do you really think so!? Oh, thank you, <Player>!
-- **10968**: I see... Well, then. I better live up to my reputation!
-- **10969**: From this day forth, Rodin-Comidin is gonna be a rebel without a clue! I mean, cause!
-- **10970**: No more running errands for the motherland!!!
-- **12574**: Hehehe...
-- **12575**: It's okay to be impressed.
-- **12576**: For I, Rodin-Comidin, am the most resourceful espionage agent ever to tremble in fear before Doctor Shan...ahem.
-- **12577**: No other agent is willing to brave my simit and water diet so they can afford to buy all their information from the Qiqirn rumormongers...
+- **10952**: Doctor Shan-- Ah, Lady Karababa!!!
+- **10953**: Where could she have disappeared to? I was just changing into my best clothes so I could take her to the Shararat Teahouse.
+- **10954**: You mean Doctor Shan-- I mean, Lady Karababa has already arrived at the teahouse!?
+- **10955**: Oh my, oh my, oh my! I'll be cursed for sure!
+- **10956**: A-Aydeewa Subterrane! Doctor Shan-- Ah, Lady Karababa ventured down there!?
+- **10957**: Oh my, oh my, oh my! If she doesn't need my guidance, then she might not need me to exist at all...
+- **10958**: Doctor Shan-- Ah, Lady Karababa means to enter the Navukgo Execution Chamber!?
+- **10959**: Hmmm. But at least I have been charged with finding an exemplary alchemist!
+- **10960**: Lady Karababa needs me after all! So much safer to be needed...
+- **10961**: I've been ordered by the King of Hearts to find an alchemist...
+- **10962**: The alchemist is to analyze the remains of an insulator they found in the Olduum ruins...
+- **10963**: But these Imperial alchemists are all so self-important and busy...
+- **10964**: An invitation to a banquet at the palace!
+- **10965**: Wow, even the Grand Vizier recognized Lady Karababa's importance.
+- **10966**: Oh! I should get my dinner suit ready! They'll probably be here for me at any moment!
+- **10967**: Sh-sh-she's g-g-gone!? B-b-but...she left without saying a word to me...
+- **10968**: L-L-Lady Karababa...
+- **10969**: D-d-does this mean she didn't need me after all?
+- **10970**: Does Lady Karababa need him? [Of course she needs you!/"Loser" was the word she used...]
+- **10971**: Do you really think so!? Oh, thank you, <Player>!
+- **10972**: I see... Well, then. I better live up to my reputation!
+- **10973**: From this day forth, Rodin-Comidin is gonna be a rebel without a clue! I mean, cause!
+- **10974**: No more running errands for the motherland!!!
+- **12578**: Hehehe...
+- **12579**: It's okay to be impressed.
+- **12580**: For I, Rodin-Comidin, am the most resourceful espionage agent ever to tremble in fear before Doctor Shan...ahem.
+- **12581**: No other agent is willing to brave my simit and water diet so they can afford to buy all their information from the Qiqirn rumormongers...
 
 ## Events
 
@@ -247,10 +247,10 @@
   0: 0x0039 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10948*)
+  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10952*)
     → "Doctor Shan-- Ah, Lady Karababa!!!"
   4: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=10949*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=10953*)
     → "Where could she have disappeared to? I was just changing into my best clothes so I could take her to the Shararat Teahouse."
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0048 [0x21] END_EVENT
@@ -281,10 +281,10 @@
   0: 0x004A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x004F [0x1C] WAIT(30* ticks)
   2: 0x0052 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "shk0" with entities [EventEntity, EventEntity], work=41*
-  3: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=10950*)
+  3: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=10954*)
     → "You mean Doctor Shan-- I mean, Lady Karababa has already arrived at the teahouse!?"
   4: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=10951*)
+  5: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=10955*)
     → "Oh my, oh my, oh my! I'll be cursed for sure!"
   6: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0069 [0x21] END_EVENT
@@ -315,10 +315,10 @@
   0: 0x006B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0070 [0x1C] WAIT(30* ticks)
   2: 0x0073 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "shk0" with entities [EventEntity, EventEntity], work=41*
-  3: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=10952*)
+  3: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=10956*)
     → "A-Aydeewa Subterrane! Doctor Shan-- Ah, Lady Karababa ventured down there!?"
   4: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=10953*)
+  5: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=10957*)
     → "Oh my, oh my, oh my! If she doesn't need my guidance, then she might not need me to exist at all..."
   6: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x008A [0x21] END_EVENT
@@ -349,14 +349,14 @@
 ```
   0: 0x008C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0091 [0x1C] WAIT(30* ticks)
-  2: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=10954*)
+  2: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=10958*)
     → "Doctor Shan-- Ah, Lady Karababa means to enter the Navukgo Execution Chamber!?"
   3: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0098 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "iro0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10955*)
+  5: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10959*)
     → "Hmmm. But at least I have been charged with finding an exemplary alchemist!"
   6: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10956*)
+  7: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10960*)
     → "Lady Karababa needs me after all! So much safer to be needed..."
   8: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00AF [0x1C] WAIT(30* ticks)
@@ -389,14 +389,14 @@
   0: 0x00B4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B9 [0x1C] WAIT(30* ticks)
   2: 0x00BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  3: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=10957*)
+  3: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=10961*)
     → "I've been ordered by the King of Hearts to find an alchemist..."
   4: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10958*)
+  5: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10962*)
     → "The alchemist is to analyze the remains of an insulator they found in the Olduum ruins..."
   6: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
-  8: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10959*)
+  8: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10963*)
     → "But these Imperial alchemists are all so self-important and busy..."
   9: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00E6 [0x21] END_EVENT
@@ -426,14 +426,14 @@
 ```
   0: 0x00E8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00ED [0x1C] WAIT(30* ticks)
-  2: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10960*)
+  2: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10964*)
     → "An invitation to a banquet at the palace!"
   3: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10961*)
+  5: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10965*)
     → "Wow, even the Grand Vizier recognized Lady Karababa's importance."
   6: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=10962*)
+  7: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=10966*)
     → "Oh! I should get my dinner suit ready! They'll probably be here for me at any moment!"
   8: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x010B [0x1C] WAIT(30* ticks)
@@ -468,33 +468,33 @@
 ```
   0: 0x0110 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0115 [0x1C] WAIT(30* ticks)
-  2: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=10963*)
+  2: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=10967*)
     → "Sh-sh-she's g-g-gone!? B-b-but...she left without saying a word to me..."
   3: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x011C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=10964*)
+  5: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=10968*)
     → "L-L-Lady Karababa..."
   6: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=10965*)
+  7: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=10969*)
     → "D-d-does this mean she didn't need me after all?"
   8: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0133 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr1" with entities [EventEntity, EventEntity], work=40*
- 10: 0x0142 [0x24] CREATE_DIALOG(message_id=10966*, default_option=0*, option_flags=0*)
+ 10: 0x0142 [0x24] CREATE_DIALOG(message_id=10970*, default_option=0*, option_flags=0*)
     → "Does Lady Karababa need him? [Of course she needs you!/"Loser" was the word she used...]"
  11: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  12: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0159
- 13: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=10967*)
+ 13: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=10971*)
     → "Do you really think so!? Oh, thank you, <Player>!"
  14: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0156 [0x01] GOTO 0x0170
  16: 0x0159 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0170
- 17: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=10968*)
+ 17: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=10972*)
     → "I see... Well, then. I better live up to my reputation!"
  18: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=10969*)
+ 19: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=10973*)
     → "From this day forth, Rodin-Comidin is gonna be a rebel without a clue! I mean, cause!"
  20: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=10970*)
+ 21: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=10974*)
     → "No more running errands for the motherland!!!"
  22: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x016D [0x01] GOTO 0x0170
@@ -800,18 +800,18 @@ SUBROUTINE_0170:
 ```
   0: 0x022F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0234 [0x1C] WAIT(30* ticks)
-  2: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=12574*)
+  2: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=12578*)
     → "Hehehe..."
   3: 0x023A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x023B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [EventEntity, EventEntity], work=41*
-  5: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=12575*)
+  5: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=12579*)
     → "It's okay to be impressed."
   6: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=12576*)
+  7: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=12580*)
     → "For I, Rodin-Comidin, am the most resourceful espionage agent ever to tremble in fear before Doctor Shan...ahem."
   8: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0252 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn1" with entities [EventEntity, EventEntity], work=41*
- 10: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=12577*)
+ 10: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=12581*)
     → "No other agent is willing to brave my simit and water diet so they can afford to buy all their information from the Qiqirn rumormongers..."
  11: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0265 [0x21] END_EVENT

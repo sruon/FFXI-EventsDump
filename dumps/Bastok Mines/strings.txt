@@ -1,5 +1,5 @@
 # Strings for Bastok Mines
-# Total: 17408 strings
+# Total: 17410 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -16722,690 +16722,692 @@
 16718: DEBUG: Failed to create instance.($1)
 16719: DEBUG: Skip.
 16720: DEBUG:ID=$0 / SLOT=$1 / SUB=$2
-16721: DEBUG: Error $0.
-16722: Ugh. Leave it to Cornelia to bring up the tiniest little matter to those stuffy higher-ups.
-16723: Hume...Galka...we've all got different perspectives on things. She of all people should know that.
-16724: Different perspectives... [Yeah, that makes sense./Not necessarily./What're you on about?]
-16725: See? I knew an adventurer such as yourself would understand.
-16726: Is that so? I figured an adventurer such as yourself would understand.
-16727: Oops. I think I started in the middle of the story. Let's see...
-16728: Here's what happened. Cornelia thinks that Galka and Hume should engage in the same type of formal education.
-16729: She believes the best way to build bridges between our respective groups is to treat everyone equally from childhood.
-16730: It's a lofty goal, I'll admit, but though Galka have never been the type to go to schools as Humes do, we can still do all the things everyone else can. The "three Rs," if you will.
-16731: When our long journey of rebirth ends, we learn everything we need to know from our elders.
-16732: And perhaps the biggest part of that is learning what it means to be a Galka.
-16733: Gumbah, I don't mean to say that there aren't things that young Galka can best learn from their own.
-16734: Cornelia. I assume you were listening in?
-16735: Just from the end. But in the same way, Galka can learn a lot from Humes, as well.
-16736: And schools are more than just places for our children to read from dusty old manuscripts and memorize their times tables.
-16737: They're places where children can interact with others--both their instructors and fellow students--and create the type of special bond that can only come from shared experiences.
-16738: Bonds, huh? You sure that it's not just a place for people to impress their beliefs on others?
-16739: No, that's not what I'm saying at all.
-16740: It sounds to me like Humes trying to impose their will on the Galka.
-16741: Gumbah, I'm not trying to do anything of the kind!
-16742: ...Sorry, Cornelia. I shouldn't have snapped at you. I've been having some terrible dreams lately, and my lack of good sleep might have caught up with me.
-16743: And besides, after everything that adventurers have done for our fair city, I wouldn't want to involve one in some petty squabbles. And surely you didn't come here to trade barbs, either.
-16744: Of course not. In fact...
-16745: I came with a request of sorts. One of the workers in the Zeruhn Mines came to me with the strangest sighting--a Galkan child wandering aimlessly about the place.
-16746: I can't help but think that the poor thing might have just been reborn and doesn't know where to go or what to do.
-16747: Of all the--the Zeruhn mines? We've got to go get some help from the adults!
-16748: I'm really worried. Maybe I'll trek on ahead.
-16749: Cornelia! Darn it, I don't think she heard me. I know her heart's in the right place, but those mines are dangerous!
-16750: I think we'd better split up. You go after Cornelia while I get some help.
-16751: The mines aren't exactly the best place for someone to wander around unprotected.
-16752: I'll head over as soon as I can. If what Cornelia heard is true, there's a chance you'll run into this Galka before her--so if you do, make sure he's safe, okay?
-16753: Hey, [Mr./Ms.] Adventurer, would you mind going after Cornelia?
-16754: She's probably gone to the Zeruhn mines all on her lonesome.
-16755: I'll head over as soon as I can. If what she heard is true, there's a chance you'll run into the newly reborn Galka before Cornelia--so if you do, make sure he's safe, okay?
-16756: Ah, well look who it is. You must be concerned about the Galkan child too.
-16757: Of course. I should have known Gumbah would worry about me.
-16758: Between him and the foremen, everyone I've talked to today is too concerned for my well-being. They won't even let me further into the mines.
-16759: It doesn't make any sense. If they're that insistent on looking after me, then why wouldn't they be twice as interested in the young one wandering around unaccompanied?
-16760: When I pointed that out, Rasmus said, "Oh, right. We did see him further in..."
-16761: I know! They might not let me proceed, but surely they'd have no such qualms about you!
-16762: Maybe some of the other foremen would know more. Could you ask them about the Galkan child and go looking for him?
-16763: I'll be waiting for Gumbah to join up. Best of luck.
-16764: Cornelia is waiting for me in the Zeruhn Mines?
-16765: Then I guess I should go get my things together and head over to meet her. I promise to be quick.
-16766: What!? There actually was a Galkan child in Zeruhn!?
-16767: I'll get some Galkan adults and rush over there with them! You have to protect the child until we get there!
-16768: Thanks again, [Mr./Ms.] Adventurer. Without you, who knows what that Goblin would have done to him--to Raebrimm.
-16769: He's been through a lot, and is resting here in the city. He was scuffed up a little, but we expect him to make a swift, safe recovery.
-16770: Still, don't you think it's a little out of character, even for a Goblin, to attack a child? What's that all about?
-16771: Ah, Cornelia! Were you able to learn anything?
-16772: I'm afraid I've turned up nothing.
-16773: I asked the Mythril Musketeers for help, and even though they gladly agreed to look into things, it might take a while before they find out anything concrete.
-16774: I guess it can't be helped, but it's still pretty frustrating. The Goblin might come after Raebrimm again, and we've got to be prepared.
-16775: I agree, and came up with a plan. What if we were to disguise Raebrimm?
-16776: Disguise him?
-16777: Yeah. You know, a little wig here, a little makeup there, and no one will be able to tell that it's him!
-16778: And if there's anyone who's an expert in making disguises to avoid attention, it's me.
-16779: Avoid attention? You? The guards have seen through your tricks so many times that I've started to keep a running tally.
-16780: Uh, well, be that as it may...
-16781: Failure is the first step to success, right? And I know just the fashionista to help us pull this off.
-16782: How do you know a fashionista!?
-16783: Why, everyone knows Brygid. And I think she owes me a favor.
-16784: You know how much she values her reputation. If anyone can help us disguise Raebrimm, it's her.
-16785: Why do I have a bad feeling about this?
-16786: I wouldn't say I have a "bad feeling," but there is one small hurdle to climb. She says that she's looking for new entrants in a show that's going to start soon and doesn't have much time to spare for us.
-16787: And that's where you come in!
-16788: If you can help Brygid with her show, then she'll absolutely have to assist us! C'mon!
-16789: Cornelia! Corn-- Darn it, she ran off again. Leave it to her to just assume we'll follow this plan to the letter.
-16790: But I guess we don't have any choice now, do we? I know it's an odd request, but think of it as helping to protect an innocent child. Let's go find Brygid.
-16791: I know that Cornelia's plan may sound a bit half-baked, but I can't come up with anything better. Let's go find Brygid.
-16792: [Mr./Ms.] Adventurer, you remember our friend Raebrimm, right? The Galkan child in the unforgettable Goblin getup?
-16793: Do you remember Raebrimm? [Of course./Who's that, again?]
-16794: Oh, good. I'm glad to hear that your mind is sound.
-16795: How could you forget? After all, you were the one who went to the Zeruhn Mines and saved him from a vicious assault.
-16796: I've got some news on the black-clad Goblin that was threatening him.
-16797: Evidently we've been able to learn about where the menace was headed next.
-16798: Cornelia asked the Mythril Musketeers for their help in tracking the beastman down--and I'm pleased to report that they agreed to aid us.
-16799: Gumbah, I'm back!
-16800: Oh, and look who's with you!
-16801: <Player>, your timing is impeccable, as always. I wanted to share this with the both of you.
-16802: Iron Eater, if you would.
-16803: <Sigh> How could I say no to that face?
-16804: We Mythril Musketeers have worked tirelessly to gather information on your little Goblin problem. While we haven't identified who exactly that little beastie is...
-16805: We do know that a strange Goblin was seen flitting about the markets, darting from shadow to shadow in an attempt to avoid detection.
-16806: I would imagine that a Goblin dressed in black from head to toe would arouse some amount of suspicion.
-16807: Aye, and surely we would have heard more reports if the beast moved via ordinary means...but his modes of transportation are a bit more arcane, which would explain why he is able to mostly avoid detection in his search for Raebrimm.
-16808: The good news is that Brygid's disguise seems to be working, because Raebrimm remains unharmed.
-16809: In fact, that's why we have any information at all--the Goblin must be getting desperate and resorting to more overt means of tracking his quarry, and just now we got word that someone matching his description was spotted in Korroloka Tunnel.
-16810: That's great news!
-16811: Is it really? I mean, we haven't exactly stopped his advance.
-16812: Fear not--we have no intention of letting him walk. In fact, I ordered Naji to go after him posthaste.
-16813: And by "we," I mean the Mythril Musketeers. Miss Cornelia, you are to remain within the city walls.
-16814: You're going to let Naji take the lead AND make me stay here!?
-16815: No way. I've got to see this through to its conclusion.
-16816: While I share your distaste at letting Naji run point...
-16817: He is a Mythril Musketeer, unreliable though he may be.
-16818: Still, I agree that it couldn't hurt to send backup of some sort. Adventurer, I'd wager you're more than willing to volunteer.
-16819: What a splendid idea!
-16820: Most assuredly. We've got to let Raebrimm know that we will do anything to ensure his safety.
-16821: We're counting on you, <Player>!
-16822: I know it's only Korroloka Tunnel, but Naji is definitely going to be in over his head.
-16823: Would you mind heading over? Not for my sake, but for Raebrimm's.
-16824: Raebrimm filled us in on what happened. You have my sincere thanks.
-16825: But "Gloom Phantom," eh? What a straightforward moniker.
-16826: And the three of them call themselves "The Destiny Destroyers." Well, at least their naming sense is on point.
-16827: I've known beastmen to be a bit odd, but an egg hunt? Something tells me they don't simply want initial eggs.
-16828: <Player>! I heard that everything went well.
-16829: You're just the person I wanted to see, too. There's something I don't quite understand.
-16830: Cornelia? Did something happen?
-16831: Well, it's about Naji...
-16832: He hasn't returned to file his report, and it's well past time for him to make his way back to the city.
-16833: Any info on Naji? [He went after the three./He wasn't of much use./No clue.]
-16834: The three? You mean the Goblin and friends?
-16835: While his desire to get to the heart of the matter is commendable, that doesn't change the fact that he left the Galkan child behind.
-16836: Nor did he send word back of his intentions.
-16837: I hope everything's okay. What if he was hurt? Or captured?
-16838: No, others have already reported seeing him back in the city with no apparent injuries.
-16839: Until he reports in, I suppose I'll have to ask you, Gumbah, to get the full story from Raebrimm.
-16840: Hmmm... Although I did order Naji to track down the source of the problem, he may have gotten in over his head.
-16841: But the most critical mission--ensuring Raebrimm's safety--appears to have been a rousing success. You have my thanks.
-16842: We couldn't have done it without you, <Player>.
-16843: Gumbah, I'd like to hear what happened directly from Raebrimm's mouth. Perhaps we might glean some deeper insight into this matter.
-16844: Leave it to Naji to go traipsing off without backup.
-16845: According to Raebrimm, the Goblin succeeded in...whatever it was that they were trying to do.
-16846: As long as they'll leave him alone, though, does it really matter whether or not they're brought into custody?
-16847: That may very well be, but I'm afraid we're left with more questions than answers. I'd like to talk to Raebrimm myself.
-16848: Of course. I'll get him right away.
-16849: <Player>, there's something that's been bothering me.
-16850: What exactly was the deal with that egg...or eggshell, I suppose?
-16851: Any idea? [Egg...sandwich?/Galkan rebirth...?/No idea.]
-16852: Huh? You think they had a case of the munchies?
-16853: If it was a whole egg, then I would understand, but wasn't it just an eggshell?
-16854: The journey of Galkan rebirth...
-16855: I wish I knew more about it, but Gumbah practically had my hide the last time I asked him about his own journey...
-16856: I suppose you'd rather not talk about it.
-16857: Maybe you think I'm just some girl in over my head, like everyone else...
-16858: Cornelia, the conclusion we came to is that the Goblin wasn't after the eggshell itself, but rather a whole egg.
-16859: They were trailing Raebrimm because they caught the scent of it, but what they found was just a "shell" of what they thought it would be.
-16860: That's the lamest pun I've ever heard.
-16861: I couldn't resist. Perhaps that mystery will have to wait for later, and we'll have to content ourselves with Raebrimm's freedom.
-16862: You're right.
-16863: <Player>, we'll let you know if we hear anything else.
-16864: As will the Mythril Musketeers. Naji's heart is in the right place.
-16865: I'd like to give you something other than just platitudes for your efforts.
-16866: Me too. It's a special recipe favored by my extended family.
-16867: Until next time!
-16868: Your help was critical in ensuring Raebrimm's safety. Here's a little something from me and Cornelia.
-16869: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
-16870: You must take on the "$0" Records of Eminence objective before receiving the explanation.
-16871: You must complete "$1" before taking on the "$0" Records of Eminence objective.
-16872: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
-16873: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
-16874: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
-16875: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
-16876: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
-16877: You can change the CTRL+Q shortcut command...
-16878: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
-16879: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
-16880: You must meet one of the following conditions in order to post to the Assist Channel.
-16881: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
-16882: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
-16883: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-16884: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
-16885: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
-16886: The Assist Channel can only be used in the following areas.
-16887: Available areas: $7, $7, $7, $7, $7, $7...
-16888: ...$7, $7, $7, $7, $7, $7, $7, $7...
-16889: ...$7, $7, $7, $7, $7, $7, $7, $7...
-16890: ...$7, $7, $7, and your Mog House (Rent-a-Room).
-16891: You cannot post or read messages outside of the areas listed above.
-16892: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
-16893: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
-16894: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
-16895: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
-16896: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
-16897: The higher the number, the more experienced the mentor is.
-16898: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
-16899: You can check your Mastery Rank by going to Main Menu > Status > Profile.
-16900: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
-16901: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
-16902: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
-16903: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
-16904: A "Warning" is a feature that can only be used by mentors.
-16905: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
-16906: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
-16907: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
-16908: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
-16909: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
-16910: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
-16911: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
-16912: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
-16913: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
-16914: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
-16915: You are about to lose the ability to post messages to the Assist Channel.
-16916: You are unable to post messages to the Assist Channel.
-16917: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
-16918: Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals.
-16919: How may I help you today?
-16920: What do you desire? [Nothing for now./Show me recruiting linkshells./I'd like to hand out $0./Tell me more./Open up the linkshell window.]
-16921: It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
-16922: Excellent. Please select which linkshell you are interested in contacting.
-16923: Are you certain?
-16924: Really receive the linkpearl? [Of course./No, thank you.]
-16925: In the interest of fairness, I am unable to distribute multiple linkpearls to someone on the same day. Please come back tomorrow.
-16926: It is my sincere pleasure to bestow this upon you.
-16927: Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting.
-16928: I have prepared a small manual describing the importance of treating others with respect. Please have a quick glance at it when you have a moment.
-16929: May your new linkshell provide you with fond memories that will last a lifetime.
-16930: Though it pains me to say this, I have no $0 that meet your requirements at this time.
-16931: Should you desire, I can cancel your registration.
-16932: Cancel registration? [Yes, please./Not at this time.]
-16933: Should you desire to look for members, I can distribute $1 in your stead by utilizing the energies continued within your equipped $0.
-16934: During the process, please equip either $1 or $2 as Linkshell 1 and select "I'd like to hand out $0."
-16935: One that step has been completed, I will ask you a series of questions.
-16936: To cancel your registration, equip $1 or $2 as Linkshell 1, speak to me again, and select the appropriate linkshell from the list.
-16937: Unfortunately, only those equipped with $1 or $2 as Linkshell 1 are able to distribute $0.
-16938: Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home.
-16939: Linkshell concierges such as myself bring together adventurers of similar interests.
-16940: In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members.
-16941: I accept $0 from linkshells the world over and distribute them to appropriate adventurers.
-16942: This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate.
-16943: Additionally, please be aware that I am only able to offer you one $0 per day.
-16944: Though we would like to offer this service free of charge, the network has its own expenses that must be paid, so we charge a nominal fee of $0 gil at the time of registration.
-16945: It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time).
-16946: It is worth noting that each concierge may only register a maximum of $0 linkshells.
-16947: Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest.
-16948: Server maintenances will also immediately cancel all registrations, so be sure to keep your information up-to-date.
-16949: Thank you for taking the time to use our service. Let me confirm the information contained within.
-16950: , correct?
-16951: LS0: .
-16952: LS1: .
-16953: LS0: (No sending).
-16954: LS1: (No sending).
-16955: Shall I start looking for new members for a fee of $1 gil?
-16956: Look for new members? ($0 gil) [That sounds wonderful./I'd rather not.]
-16957: I'm quite sorry to hear you decline. Please let me know if you change your mind.
-16958: I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style.
-16959: What is your language preference? [Japanese./English./Other./Back.]
-16960: What days are you most active? [Every day./Weekends and holidays./Weekdays./Monday./Tuesday./Wednesday./Thursday./Friday./Saturday./Sunday./Back.]
-16961: What days are you most active? [[-/Z]No day set./[-/Z]Mondays./[-/Z]Tuesdays./[-/Z]Wednesdays./[-/Z]Thursdays./[-/Z]Fridays./[-/Z]Saturdays./[-/Z]Sundays./[-/Z]Holidays./Back./Next./Update.]
-16962: When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]
-16963: Designate a time zone. [No designation./Japanese Standard Time (JST)./Pacific Time (PST|PDT)./Greenwich Mean Time (GMT)./Back.]
-16964: What time are you active? (JST) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
-16965: What time are you active? (PST|PDT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
-16966: What time are you active? (GMT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
-16967: How many members are you looking for? [1."."./4./5./6./7./8./9./10./Back.]
-16968: How many active members do you have? [1-6./7-18./19+./Back.]
-16969: How would you characterize your linkshell? [[|/Z] No info provided./[|/Z] New players welcome./[|/Z] Returnees welcome./[|/Z] Adults only./[|/Z] 10 year veterans active./[|/Z] Casual players./[|/Z] Battle and synthesis support./[|/Z] Anyone welcome./[|/Z] End content-focused./[|/Z] Ambuscade-focused./[|/Z] Never give up./[|/Z] High-end gear./[|/Z] Looking for crafters./[|/Z] Trial memberships welcome./[|/Z] Multiple linkshells OK./[|/Z] Community events held./[|/Z] New linkshell./Back./Next./Update.]
-16970: Linkshell characteristics. [No info provided./New players welcome./Returnees welcome./Adults only./10 year veterans active./Casual players./Battle and synthesis support./Anyone welcome./End content-focused./Ambuscade-focused./Never give up./High-end gear./Looking for crafters./Trial memberships welcome./Multiple linkshells OK./Community events held./New linkshell./Back]
-16971: Style: [Do everything/Engage in hard-core battle content/Engage in casual battle content/Vanquish HNMs/Meet other new players/Assist each other/Engage in synthesis and trading/Nothing].
-16972: Language: [/Japanese/English/Other].
-16973: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (JST)/in the afternoon (JST)/in the evening (JST)/at night (JST)/in the wee hours of the morning (JST)].
-16974: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (PST|PDT)/in the afternoon (PST|PDT)/in the evening (PST|PDT)/at night (PST|PDT)/in the wee hours of the morning (PST|PDT)].
-16975: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (GMT)/in the afternoon (GMT)/in the evening (GMT)/at night (GMT)/in the wee hours of the morning (GMT)].
-16976: Looking for $4 more member[/s].
-16977: Please review the content of your linkshell. I will start looking for new members once you have confirmed that everything is in order.
-16978: Linkshell info (can be changed): [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Cancel without posting./Post recruitment.]
-16979: Information for : [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Date posted: //./Receive $1027./Delist./Back.]
-16980: I can start looking for new members immediately. Is this information correct?
-16981: What will you do? [Start looking for members./Stop the process.]
-16982: Your registration is officially complete.
-16983: May your journeys lead you to many as-yet-unmet friends, and may the bonds you forge last a lifetime.
-16984: Another member of that linkshell currently has an active registration. Please wait until that registration expires and try again.
-16985: A manual describing proper chat manners floats in front of you.
-16986: Read up on which topic? [None for now./I don't know what to talk about./How can I get people to like me?/What shouldn't I do?/What happens if we don't mesh?]
-16987: Perhaps consider starting with a simple greeting. Something like...
-16988: "Hello, everyone. My name's <Player>. Nice to meet you!"
-16989: Of course, injecting your own personal flavor may act as a conversation starter and help people to remember you.
-16990: No matter which route you choose, make sure to always remain polite. There is no better way to start a friendship off on the right foot.
-16991: When speaking with others, it's critical to listen and be mindful of what they say.
-16992: Always talking and never listening may come across as rude.
-16993: Another important point is to always be mindful of the listener. How would you feel if someone said that to you? Think carefully before sending someone a message.
-16994: It also helps to be clear and concise.
-16995: Being vague might cause others to get the wrong impression.
-16996: Be extremely careful when giving out personal information such as your address or telephone number.
-16997: Furthermore, refrain from making disparaging or aggressive remarks.
-16998: Once you are close to someone, you may be more comfortable letting your hair down, but it is strongly recommended that you refrain from any actions that may be construed as harassment.
-16999: After joining a linkshell, you may find that you have difficulty participating in conversation or that your personality is too different from the other members.
-17000: One of your options in such a situation is to inform the linkshell leader and then leave.
-17001: Finding a linkshell that is the perfect fit might not always be easy, but there is certainly a group out there that will match your feelings and goals.
-17002: Once you find those kinds of friends, hold them fast and value them as much as they value you. There is no better way to enjoy life in Vana'diel.
-17003: The linkshell concierge opens up a tiny notebook...
-17004: @@
-17005: Hey, [miss/mister], excellent timing.
-17006: Raebrimm is looking for you. I think he wants to talk to you about something.
-17007: He probably has grown tired of Bastok and wants to ask you about life outside these walls.
-17008: Although, don't take him outside the city, no matter how much he begs you. I'm still worried about him...
-17009: Sometimes, he gets this blank look on his face and says he's forgetting something important.
-17010: So that's why I'm always trying to keep an eye on him.
-17011: Although, whenever I do, I often feel waves of nostalgia crashing over me too.
-17012: Hmm... Maybe Raebrimm is actually somebody I knew before that has undergone some kind of rebirth...
-17013: Oh, where was I? Ah, yes... If you're going to see Raebrimm, you should probably hurry.
-17014: You should be able to catch up with him at the entrance to the Zeruhn Mines just west of here.
-17015: Apparently, he was sent on an errand, so he said he needed to visit Drangord.
-17016: Hey, [miss/mister]. I think Raebrimm wants to talk to you. You should go see him.
-17017: I guess he's on some kind of errand, so he said he was going to visit Drangord.
-17018: You might be able to find him at the entrance to the Zeruhn Mines just west of here.
-17019: Hm? You say you're a friend of Raebrimm's?
-17020: I actually just sent him on another errand.
-17021: He may be just a kid, but he's quite dependable. Although, I probably shouldn't ask so much of him...
-17022: Come with me. I'll go get him for ya.
-17023: Ah, <Player>!
-17024: Wait till you hear this! I actually remembered something!
-17025: It just came to me after staring at that large mountain every day!
-17026: That "eggshell" I gave to that Gloom Phantom guy in the Korroloka Tunnel...
-17027: I remember that it also came from a large mountain.
-17028: I was surrounded by the sparkle of twilight...
-17029: I kept climbing the mountain path as it rose higher and higher...
-17030: And once I reached the summit, I saw somebody there!
-17031: What do you inquire? [What mountain?/Who did you see?/When was this?]
-17032: Um... I don't know...
-17033: Well, I... I don't remember...
-17034: Sorry, it's still a bit fuzzy...
-17035: I just thought it was important to tell somebody about this right away.
-17036: I thought you might know what it meant, <Player>.
-17037: Is that you, Raebrimm? And <Player> too!?
-17038: Cornelia!? Why are you so out of breath!?
-17039: We've got trouble! Some terrifying monsters have appeared within the Zeruhn Mines!
-17040: What!?
-17041: You must help us, <Player>! We have to help the people still trapped in the mines!
-17042: Please be careful, <Player>...
-17043: What's all the commotion!? Did something happen?
-17044: At times like this, it's important to remain calm. That allows us to protect what's important.
-17045: Hm? You saw Cornelia, and there's trouble in the Zeruhn Mines?
-17046: I'm sure the Mythril Musketeers will show up any moment now, so there's nothing to worry about. Although, I suppose it's too early to let down our guard.
-17047: Can you hurry over to the mines, [miss/mister]? Those people need your help!
-17048: Cornelia told me everything. I'm just glad you're okay, [miss/mister].
-17049: This sudden attack by the Quadav... What will become of Bastok, and of us?
-17050: Here you can play the game Mandragora Mania.
-17051: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
-17052: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
-17053: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
-17054: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
-17055: You may pay $& gil to reset all rewards, enabling you to purchase them again.
-17056: Reset rewards? ($' gil). [Yes ($& gil)./No.]
-17057: You do not have enough gil.
-17058: All rewards have been reset.
-17059: You have already purchased the $2.
-17060: You need at least $3 jingly to purchase the $2.
-17061: The reward exchange period has turned over and all rewards have been reset.
-17062: You may reset all rewards from the appropriate dialogue box.
-17063: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
-17064: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
-17065: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
-17066: Starting player set to [Random/You/Opponent].
-17067: Read the manual? [Sure./No thanks.]
-17068: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
-17069: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
-17070: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
-17071: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
-17072: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
-17073: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
-17074: You must choose one area--either yours or a neutral one--to proceed.
-17075: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
-17076: Conversely, your opponent must select either a neutral area or an area that belongs to them.
-17077: From the right, those areas are numbered 6, 4, 7, 2, and 8.
-17078: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
-17079: Note that the mandragoras will move from the back first--last in, first out.
-17080: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
-17081: You will enter your opponent's territory whenever you go past the goal.
-17082: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
-17083: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
-17084: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
-17085: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
-17086: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
-17087: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
-17088: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
-17089: Standard mandragoras: 1 jingly (both players).
-17090: The game is over when either you or your opponent no longer has any mandragoras that can move.
-17091: The player who has the most jingly at that point will be declared the winner.
-17092: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
-17093: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
-17094: You have selected Area $0.
-17095: You receive $0 jingly for a total of $1.
-17096: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
-17097: Your opponent has selected Area $0.
-17098: Your opponent receives $0 jingly for a total of $1.
-17099: Game Complete!
-17100: [Victory!/Defeat!/Draw!] ($0 - $1)
-17101: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
-17102: That area has no mandragora to move.
-17103: You will forfeit all jingly earned this game if you give up. Are you sure?
-17104: Really give up? [Yes./No.]
-17105: You receive $0 jingly for a total of $1.
-17106: You have reached the jingly cap of $0. Any additional jingly will be lost.
-17107: An error has occurred. Please try again.
-17108: DEBUG ( [OFF/ON]
-17109: RANDOMF0-$0 ( $1
-17110: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
-17111: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
-17112: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
-17113: 
-17114: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
-17115: NPC Selection ( Area $0
-17116: DEBUGFNPC Selection Controls ( [OFF/ON]
-17117: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
-17118: Hey, [miss/mister]! You must help us! Raebrimm is gone!
-17119: He said he was going to search for the mountain he saw in his dream, and was studying up on Galkan history.
-17120: Apparently, he thinks it's the mountain that we Galka climb as part of our journey of rebirth.
-17121: You see, once we reach a certain age, we can sense when death will come for us.
-17122: So when that time comes, we set out on a journey to be reborn. It's almost as if we're guided to our destination by some unseen force.
-17123: At the end of the journey, they say we eventually arrive at a mountain. And once we climb it, our old body is replaced with that of a child...
-17124: Eventually, we descend from the mountaintop and suddenly find ourselves surrounded by other people.
-17125: I'm certain that Raebrimm arrived here in Bastok via the Korroloka Tunnel after his rebirth.
-17126: Therefore, I think he might've tried retracing his steps in order to reach the Galkan homeland of Zepwell Island...
-17127: Gumbah! It appears you were right about Raebrimm!
-17128: Oh, <Player>! I'm glad you're here!
-17129: Did Gumbah already tell you about Raebrimm? He just left without saying a word to anyone!
-17130: Cornelia! Have you heard any news regarding Raebrimm!?
-17131: You were right... It appears he set out for Zepwell Island!
-17132: A merchant who just arrived from the island said that he passed a Galkan child in the Korroloka Tunnel.
-17133: I knew it...
-17134: I wonder if he finally managed to remember whatever was bothering him...
-17135: And while I might just be overthinking things, I heard something else that was interesting.
-17136: There is a Tarutaru researcher from Windurst currently visiting Rabao on Zepwell Island.
-17137: Recently, that researcher caused quite the commotion. I guess he spotted a fugitive from Windurst near the Quicksand Caves.
-17138: He was telling an adventurer with him that this person was definitely the one they were looking for due to the mysterious orb he was carrying.
-17139: You remember, don't you, <Player>? The deadly scorpion that arose due to the power of the "World Eater Egg"?
-17140: Afterwards, we received a reply from Windurst stating that the mage Uran-Mafran stole the scorpion's power!
-17141: That mage is usually up to no good, so the country is putting all its resources into investigating the matter.
-17142: Windurst also knows how dangerous this "World Eater Egg" is, so it didn't take much to convince them.
-17143: However, not much is known about Uran-Mafran, so his origins are shrouded in mystery.
-17144: They told me they'd get back to me later with more details, but they may just be hiding the truth...
-17145: At any rate, there doesn't appear to be any information regarding Uran-Mafran in Windurst. As such, he might not be from there.
-17146: Although, Iron Eater said that we shouldn't take them at their word on that matter, since they may know more than they're telling us.
-17147: Therefore, all of this has me very interested in this fugitive spotted near the Quicksand Caves.
-17148: Hmm... So you're saying there's a dangerous fugitive somewhere on Zepwell Island?
-17149: Yes, it appears so.
-17150: I'm thinking I should leave this to our friend <Player> here...
-17151: Can you please go to Zepwell Island and see if Raebrimm is safe or not?
-17152: Yes, I feel the same way... And if you find him, can you please tell him how worried we are?
-17153: First off, you should probably speak with Dancing Wolf, a soldier who has been dispatched to Rabao.
-17154: I hear that he's been tasked with gathering information in the area.
-17155: As such, he might know something, maybe even about Uran-Mafran...
-17156: Please hurry. I'm very worried about Raebrimm. I wish I could go with you...
-17157: No, it's not safe for you, Gumbah. Please don't make me worry even more than I already am.
-17158: Hmm... Maybe I should tell someone about this...
-17159: I'm worried about Raebrimm. Please hurry to Zepwell Island and make sure he's okay.
-17160: Cornelia said that the soldier known as Dancing Wolf might know something.
-17161: That's wonderful! I'm so glad to hear that Raebrimm is safe.
-17162: I wonder if he'll be coming home anytime soon... He needs to know just how angry everyone is with him for leaving without telling anyone.
-17163: Please keep Raebrimm safe until he returns home. I'm counting on you, [miss/mister]!
-17164: I can't believe Raebrimm went all the way to Zepwell Island. At least he's safe, though.
-17165: I must see him at once! Wait for me, Raebrimm! I'm coming for you!
-17166: <Sigh> I've got a bad feeling about this...
-17167: You must help Raebrimm, [miss/mister]!
-17168: Welcome back, [miss/mister].
-17169: Ah, you've returned at last. I heard all about what happened in the Quicksand Caves on Zepwell Island.
-17170: I never expected that Uran-Mafran's scheming would threaten the very existence of us Galka...
-17171: Master Oggbi has given permission to send a letter to the various Galkan elders, informing them of the news.
-17172: However, we don't intend on telling them everything we know since normally, Galka don't remember their rebirth, myself included.
-17173: In fact, there is still much I don't know... I find it all hard to believe, and I'm still in a state of shock.
-17174: If the Talekeeper were here now, I wonder what he would say...
-17175: Maybe that we should remain calm and gather the facts?
-17176: Yes, I suppose you're right. Well said, Gumbah.
-17177: Thanks!
-17178: Gumbah, I would like to ask your opinion as the Talekeeper.
-17179: I knew it. I knew you were the Talekeeper, Gumbah!
-17180: I know, but it's nothing really. All I do is carry on the memories of my people.
-17181: Right now, the only thing I can say is that we should try to gather all of the facts first.
-17182: As such, I'd like to hear your thoughts on the matter too, <Player>.
-17183: Yes, I suppose there is still much to be learned.
-17184: First, there is the war being waged in Valhalla. How should we describe Valhalla itself?
-17185: How would you describe Valhalla? [It is a world where souls gather to battle./It is a world ruled by Odin./It is a dazzling dream world.]
-17186: Yes, you're right. It is a world ruled by Odin where powerful souls are brought together.
-17187: Are you sure about that? I think it's better described as a world ruled by Odin where powerful souls are brought together.
-17188: However, we Galka are allowed to enter it for some reason. Do you know why?
-17189: Do you know the reason? [Yes, I do./No, not really.]
-17190: Yes, the Destiny Destroyers did mention something about a powerful Galka who lived five thousand years ago.
-17191: Apparently, his strength even impressed Odin himself, which earned the Galka such special treatment.
-17192: However, we don't know anything else about this Galka...
-17193: Five thousand years ago...
-17194: In other words, there was some kind of connection between Odin and the Galka a long time ago. That is quite surprising.
-17195: So for five thousand years, the Galka have been reborn by visiting Valhalla.
-17196: However, there is currently a war being fought in Valhalla.
-17197: Uran-Mafran's master, Garazu-Horeizu the Maelstrom Mage, has risen in rebellion against Odin, the god who leads the dead.
-17198: Garazu-Horeizu has rallied many to his cause, and also possesses the ability to send them to this world as well.
-17199: His ultimate goal is to be resurrected in this world. Although, I don't imagine that is an easy task to perform?
-17200: [No,/Probably not,] but I believe that the Galka are reborn through the power of Odin.
-17201: I suppose it's the power contained within life itself and also crystals that Uran-Mafran was talking about?
-17202: Uran-Mafran apparently gathered that power within his orb.
-17203: Yes, he also stole the power of the scorpion that had obtained the power of the "World Eater Egg" before.
-17204: Which means, the power of the World Eater Egg is based on the power of the crystals?
-17205: Hey, just what kind of egg is this World Eater Egg, anyway?
-17206: I know I had the eggshell while I was in Valhalla, but I don't really remember much about it.
-17207: Do you know anything, <Player>?
-17208: What do you know about the egg? [It's Chaos's egg./It's Caboose's egg./I don't know anything.]
-17209: Chaos? Where have I heard that name before?
-17210: There's new information about the "World Eater Egg"!? You must tell us at once, <Player>!
-17211: Caboose? That name sounds familiar...
-17212: Please calm down and try to remember, [miss/mister]. This is important.
-17213: I thought you had heard something from the Destiny Destroyers, <Player>...
-17214: Please, [miss/mister]... Try to remember. This is important.
-17215: I'm not sure if we can take what the Goblin said at face value...
-17216: I've never heard about beastmen working together to take down a powerful enemy known as Chaos.
-17217: If it took place five thousand years ago, I don't think it's all that strange that we haven't heard anything about it.
-17218: Furthermore, I find it interesting that the story about Odin and that Galka also took place five thousand years ago.
-17219: Are you saying it's no coincidence?
-17220: Indeed. Of course, it's just a hunch.
-17221: Okay then, let's assume this is all true. That would mean that this Goblin hero finished off Chaos back then.
-17222: However, World Eater Eggs are being found all over the world. Raebrimm also acquired an eggshell while in Valhalla.
-17223: In other words, there was also a "World Eater Egg" in Valhalla, and it was broken open?
-17224: "When the World Eater Egg is awakened, the Galka will be led to open the gate to the underworld..."
-17225: I wonder if the "World Eater Egg" within Valhalla being broken open was what caused that message to be given to Raebrimm.
-17226: But something was growing inside of that egg, right?
-17227: Raebrimm! Gumbah! Good, everyone's all here!
-17228: I'm glad you're safe! I was really worried about you!
-17229: Cornelia... I'm sorry if I made you worry.
-17230: We had both our adventurer friend here and Oggbi with us, so we were in good hands.
-17231: Hmph! Aren't you going to apologize too, Gumbah!?
-17232: Ahem... My lady, we were trying to go over some rather important topics...
-17233: Ah, yes... [Father/Volker] told me everything.
-17234: He mentioned that this is strongly connected to the Galka's process of rebirth, and that we therefore shouldn't meddle too much.
-17235: However, at least let me say one thing! If there is anything us Humes can do, please don't hesitate to ask!
-17236: Gumbah and Raebrimm are both important friends of mine.
-17237: And you're not embarrassed to say so, Cornelia?
-17238: There you go again...
-17239: My lady, I appreciate your concern, but it is still too early for us to make any kind of move.
-17240: All we know so far is the location of Uran-Mafran and his master, Garazu-Horeizu, as well as their overall plan...
-17241: Thanks to <Player> and Oggbi here, that plan has been temporarily thwarted, but I'm sure it will resume before too long.
-17242: Therefore, we are trying to devise a response for when it does.
-17243: I have yet to come up with any good ideas, but I think we should collect what we do know and report it to the president.
-17244: I understand.
-17245: Actually, <Player>... I have an urgent matter to discuss with you.
-17246: We've received word from Doctor Shantotto in Windurst. She wants you to meet with her as soon as possible.
-17247: Judging by the way she was speaking, it sounds like she's been keeping an eye on you somehow.
-17248: She said to stop wasting time with Gumbah and to go see her at once.
-17249: Those were her words, not mine.
-17250: Therefore, I [asked my father/pulled some strings] to get you this special gift.
-17251: <Player>, thank you for finding Raebrimm and keeping him safe for us.
-17252: Yeah, thank you.
-17253: You were a big help.
-17254: You should hurry to Windurst, <Player>. We could definitely use the wisdom of their scholars in this matter.
-17255: You may be able to ask for their insight regarding Uran-Mafran and his master, Garazu-Horeizu, as well as the World Eater Egg.
-17256: Although, I do ask that you refrain from mentioning anything about the process of our rebirth.
-17257: Will you keep their secret? [I understand./I'm not sure if that's possible...]
-17258: The very future of the Galka depends on this matter. Please keep that in mind when discussing it.
-17259: Yes, I imagine it is always possible that you could be interrogated about what you know.
-17260: What!?
-17261: Like I said, please try to refrain from saying anything. However, I will understand if you're left with no other choice.
-17262: See you later, [miss/mister]. We'll be sure to let you know if we find out anything new.
-17263: Raebrimm might just remember something. Also...
-17264: The day may come when my soul is summoned...
-17265: Wait a moment! Don't forget the gift that Cornelia brought you!
-17266: You're heading to Windurst, right, [miss/mister]?
-17267: We Galka have much to talk about. Who knows, we might even remember something new.
-17268: The future of the Galka is riding on this, so we all must move quickly...
-17269: Oh, [Mr./Ms.] Adventurer! How have you been?
-17270: We've been looking into various things since we last met, but we won't understand most of it until we can speak with Odin directly.
-17271: However, one thing that we do know is that the Galka had to join the battle within Valhalla.
-17272: The current Talekeeper had to lead a strong group of Galkan warriors through the gates of the underworld.
-17273: But although Raebrimm was asked to do so by Odin, he has forgotten pretty much everything.
-17274: Ultimately, the Galka were saved though. I can't imagine what Raebrimm is feeling.
-17275: He has looked rather gloomy lately. I'm worried about him...
-17276: Hey, [miss/mister]. I think you'll want to hear this.
-17277: Raebrimm has been confined to his bed...
-17278: According to him, he was only born in order to convey Odin's message.
-17279: Since he has completed that task, he thinks he'll have to return to Valhalla now.
-17280: Does that mean he's going to die?
-17281: I thought you had to be strong to earn the right to go to Valhalla!
-17282: Besides, the gate to the underworld is currently closed.
-17283: Although, I hear there's another gate to the north. It might still be open...
-17284: You see, I've been having dreams about it recently. Or maybe it's more accurate to say I'm being shown visions of it.
-17285: Could this be what they mean when they say that Odin comes calling for your soul?
-17286: Oh, that reminds me. Do you know anything about this, [miss/mister]?
-17287: There are rumors of a beastman dwelling known as Movalpolos somewhere in North Gustaberg.
-17288: Apparently, these beastmen resemble Goblins and are known as Moblins...
-17289: I hear that a lone Galka has gone there to live among them.
-17290: We need to inform that Galka that the gates to the underworld have been closed.
-17291: Iron Eater and Oggbi are currently busy dealing with other matters. Can I ask for your help with this, [miss/mister]?
-17292: Will you help? [Sure, no problem./Sorry, I'm busy.]
-17293: Ah, I guess it can't be helped then. Please let me know if you can find some time.
-17294: That's a relief. There's much that we don't know about these Moblins in Movalpolos, so be careful out there.
-17295: There's apparently a Galka living among the Moblins in Movalpolos.
-17296: I'd like you to inform this Galka that the gates to the underworld have been closed.
-17297: I find it hard to concentrate on such things while worrying about Raebrimm.
-17298: Perhaps Odin is calling for his soul?
-17299: Hey, [miss/mister]... Is Raebrimm...
-17300: How do you respond? [He's dead./He's no longer with us./You won't be seeing him anymore.]
-17301: !!!
-17302: N-no, it can't be!
-17303: <Gasp>!
-17304: What happened to him? You must tell me everything.
-17305: I see... So after he helped you, he...
-17306: Somehow, I had a feeling that Raebrimm and Raogrimm were connected in such a way.
-17307: So Raebrimm was the reincarnated form of Raogrimm... That must be why he felt so familiar.
-17308: However, that was no ordinary reincarnation.
-17309: I wish I could go back to the time when Raebrimm didn't remember anything.
-17310: We could have gone on so many journeys together!
-17311: If only I could share a nice, hearty laugh with him again.
-17312: I mean, even though he only had half of a soul, he was no different from the rest of us...
-17313: Sorry, [miss/mister]... I know this is no time to be crying.
-17314: Thank you for sharing Raebrimm's story with me.
-17315: So the Galka who had a deep connection to Odin was actually the original Talekeeper.
-17316: Although, I am surprised to hear that Odin bequeathed his left eye to the Talekeeper. That means that its power also resides within me as well.
-17317: Although, I am surprised to hear that Odin bequeathed his left eye to the Talekeeper. That means that its power also resides within the Talekeeper's soul as well.
-17318: If I return that power to Odin, will he be able to defeat Chaos?
-17319: Can Odin defeat Chaos? [Yes./No./I don't know.]
-17320: In that case, I will give it back to him. Although the Talekeeper will lose his ability, the Galka can continue to hand down our stories on his behalf.
-17321: In that case, I am certain the Talekeeper will return the power without hesitation. The Galka can simply continue to hand down our stories on his behalf.
-17322: I shall close my eyes and make a wish to the Talekeeper. If I do, I am certain that it will come true.
-17323: You're right--nobody can predict the future. That is why we must look to the past instead.
-17324: History tells us that five thousand years ago, Odin emerged triumphant. That is why I must return his eye.
-17325: History tells us that five thousand years ago, Odin emerged triumphant.
-17326: Therefore, I am certain that the Talekeeper will return his eye to him.
-17327: I shall close my eyes and make a wish to the Talekeeper. If I do, I am certain that it will come true.
-17328: Huh!? What's that?
-17329: So this is Odin's eye...
-17330: Does this mean my wish was granted? Is this Odin's eye...?
-17331: Ah!
-17332: This is the way it should be. Raebrimm's wish has been granted.
-17333: What was that?
-17334: Gumbah, a ball of light rose up from your house and disappeared!
-17335: It was an important source of power that is finally being returned to Odin.
-17336: An important source of power? Does it have anything to do with Raebrimm?
-17337: What do you mean?
-17338: Well, you see... I had a bit too much to drink and fell asleep.
-17339: However, it caused me to have the most vivid dream. Raebrimm appeared before me to thank me and say farewell.
-17340: What's more, he was holding hands with Cornelia...
-17341: <Sniffle>... Oggbi, Raebrimm came from Raogrimm and he...
-17342: I see... I was hoping that my premonition would not ring true...
-17343: We must simply think of him as Raebrimm when we mourn him.
-17344: <Player>, did Raebrimm leave anything behind?
-17345: What is that?
-17346: I recognize this! It did not belong to Raebrimm, but rather my disciple Cornelia!
-17347: You mean the Cornelia who journeyed north with Raogrimm so long ago?
-17348: That is correct. If Cornelia left this behind, it must mean that she thought it could be useful.
-17349: <Player>, I am sure she meant for you to have this. Please look after it, will you?
-17350: Yes, much like Raebrimm protected you, [miss/mister], I imagine Cornelia wished to do so as well.
-17351: Besides, the memories that Raebrimm left us with are more than enough.
-17352: You are right. We should share this news with Raebrimm's friends as well.
-17353: Please, [miss/mister]... Don't ever forget Raebrimm.
-17354: [mister/lady], please take good care of the item that Raebrimm and Cornelia entrusted you with.
-17355: That way, you can think of Raebrimm whenever you look at it.
-17356: I wish I could've spoken with Raebrimm again. I wonder if I'll see him in my dreams...
-17357: No, I am being selfish--he deserves his rest. I'm certain we'll meet again when he's ready.
-17358: I heard the news! Finally, after five thousand years, Chaos has been defeated!
-17359: Huh? How do I know that, you ask?
-17360: Odin came to me in a dream.
-17361: He once again bequeathed the power of his eye to the Talekeeper.
-17362: That power is the source of the Talekeeper's ability to carry on the memories of his people.
-17363: While he was speaking to me, I was flooded with various images. Or maybe they were more like visions?
-17364: He once again bequeathed to me the power of his eye.
-17365: That power is the source of my ability to carry on the memories of our people.
-17366: Suddenly, I found myself flooded with various images. Or maybe they were more like visions?
-17367: Although, I don't feel there is any need for the memories of the Galka to be passed down anymore.
-17368: When I mentioned it to Odin, he told me why he gave the Talekeeper his power once again.
-17369: He plans to use the power to keep watch over Vana'diel.
-17370: It seems that it's important to monitor the movements of his nemesis, Alexander.
-17371: If he doesn't, Vana'diel may find itself engulfed in the flames of war once again.
-17372: I find this all so tiring. I wish we could finally live a life without fear!
-17373: Although, at least we don't have to worry about our rebirth now since the gate to the underworld at Zepwell Island is secure.
-17374: Oh! I almost forgot!
-17375: We held a funeral ceremony for Raebrimm.
-17376: I'm sorry we couldn't wait for you, [miss/mister]...
-17377: However, at least now, Raebrimm can rest in peace.
-17378: If you think about it, it'd be nice for you to offer up a prayer for him from time to time. I will be sure to do so too, of course.
-17379: Thanks again for all of your help. Even if they don't say it, everyone here is grateful for what you did.
-17380: Thanks to your efforts, [miss/mister], we Galka no longer have to worry about our journey of rebirth. I'm so relieved!
+16721: DEBUG:$3C$3$4[$P106$P10,$6(PI)
+16722: DEBUG: Error $0.
+16723: [$P11O/$31]L$J$P15z$30$T // ::
+16724: Ugh. Leave it to Cornelia to bring up the tiniest little matter to those stuffy higher-ups.
+16725: Hume...Galka...we've all got different perspectives on things. She of all people should know that.
+16726: Different perspectives... [Yeah, that makes sense./Not necessarily./What're you on about?]
+16727: See? I knew an adventurer such as yourself would understand.
+16728: Is that so? I figured an adventurer such as yourself would understand.
+16729: Oops. I think I started in the middle of the story. Let's see...
+16730: Here's what happened. Cornelia thinks that Galka and Hume should engage in the same type of formal education.
+16731: She believes the best way to build bridges between our respective groups is to treat everyone equally from childhood.
+16732: It's a lofty goal, I'll admit, but though Galka have never been the type to go to schools as Humes do, we can still do all the things everyone else can. The "three Rs," if you will.
+16733: When our long journey of rebirth ends, we learn everything we need to know from our elders.
+16734: And perhaps the biggest part of that is learning what it means to be a Galka.
+16735: Gumbah, I don't mean to say that there aren't things that young Galka can best learn from their own.
+16736: Cornelia. I assume you were listening in?
+16737: Just from the end. But in the same way, Galka can learn a lot from Humes, as well.
+16738: And schools are more than just places for our children to read from dusty old manuscripts and memorize their times tables.
+16739: They're places where children can interact with others--both their instructors and fellow students--and create the type of special bond that can only come from shared experiences.
+16740: Bonds, huh? You sure that it's not just a place for people to impress their beliefs on others?
+16741: No, that's not what I'm saying at all.
+16742: It sounds to me like Humes trying to impose their will on the Galka.
+16743: Gumbah, I'm not trying to do anything of the kind!
+16744: ...Sorry, Cornelia. I shouldn't have snapped at you. I've been having some terrible dreams lately, and my lack of good sleep might have caught up with me.
+16745: And besides, after everything that adventurers have done for our fair city, I wouldn't want to involve one in some petty squabbles. And surely you didn't come here to trade barbs, either.
+16746: Of course not. In fact...
+16747: I came with a request of sorts. One of the workers in the Zeruhn Mines came to me with the strangest sighting--a Galkan child wandering aimlessly about the place.
+16748: I can't help but think that the poor thing might have just been reborn and doesn't know where to go or what to do.
+16749: Of all the--the Zeruhn mines? We've got to go get some help from the adults!
+16750: I'm really worried. Maybe I'll trek on ahead.
+16751: Cornelia! Darn it, I don't think she heard me. I know her heart's in the right place, but those mines are dangerous!
+16752: I think we'd better split up. You go after Cornelia while I get some help.
+16753: The mines aren't exactly the best place for someone to wander around unprotected.
+16754: I'll head over as soon as I can. If what Cornelia heard is true, there's a chance you'll run into this Galka before her--so if you do, make sure he's safe, okay?
+16755: Hey, [Mr./Ms.] Adventurer, would you mind going after Cornelia?
+16756: She's probably gone to the Zeruhn mines all on her lonesome.
+16757: I'll head over as soon as I can. If what she heard is true, there's a chance you'll run into the newly reborn Galka before Cornelia--so if you do, make sure he's safe, okay?
+16758: Ah, well look who it is. You must be concerned about the Galkan child too.
+16759: Of course. I should have known Gumbah would worry about me.
+16760: Between him and the foremen, everyone I've talked to today is too concerned for my well-being. They won't even let me further into the mines.
+16761: It doesn't make any sense. If they're that insistent on looking after me, then why wouldn't they be twice as interested in the young one wandering around unaccompanied?
+16762: When I pointed that out, Rasmus said, "Oh, right. We did see him further in..."
+16763: I know! They might not let me proceed, but surely they'd have no such qualms about you!
+16764: Maybe some of the other foremen would know more. Could you ask them about the Galkan child and go looking for him?
+16765: I'll be waiting for Gumbah to join up. Best of luck.
+16766: Cornelia is waiting for me in the Zeruhn Mines?
+16767: Then I guess I should go get my things together and head over to meet her. I promise to be quick.
+16768: What!? There actually was a Galkan child in Zeruhn!?
+16769: I'll get some Galkan adults and rush over there with them! You have to protect the child until we get there!
+16770: Thanks again, [Mr./Ms.] Adventurer. Without you, who knows what that Goblin would have done to him--to Raebrimm.
+16771: He's been through a lot, and is resting here in the city. He was scuffed up a little, but we expect him to make a swift, safe recovery.
+16772: Still, don't you think it's a little out of character, even for a Goblin, to attack a child? What's that all about?
+16773: Ah, Cornelia! Were you able to learn anything?
+16774: I'm afraid I've turned up nothing.
+16775: I asked the Mythril Musketeers for help, and even though they gladly agreed to look into things, it might take a while before they find out anything concrete.
+16776: I guess it can't be helped, but it's still pretty frustrating. The Goblin might come after Raebrimm again, and we've got to be prepared.
+16777: I agree, and came up with a plan. What if we were to disguise Raebrimm?
+16778: Disguise him?
+16779: Yeah. You know, a little wig here, a little makeup there, and no one will be able to tell that it's him!
+16780: And if there's anyone who's an expert in making disguises to avoid attention, it's me.
+16781: Avoid attention? You? The guards have seen through your tricks so many times that I've started to keep a running tally.
+16782: Uh, well, be that as it may...
+16783: Failure is the first step to success, right? And I know just the fashionista to help us pull this off.
+16784: How do you know a fashionista!?
+16785: Why, everyone knows Brygid. And I think she owes me a favor.
+16786: You know how much she values her reputation. If anyone can help us disguise Raebrimm, it's her.
+16787: Why do I have a bad feeling about this?
+16788: I wouldn't say I have a "bad feeling," but there is one small hurdle to climb. She says that she's looking for new entrants in a show that's going to start soon and doesn't have much time to spare for us.
+16789: And that's where you come in!
+16790: If you can help Brygid with her show, then she'll absolutely have to assist us! C'mon!
+16791: Cornelia! Corn-- Darn it, she ran off again. Leave it to her to just assume we'll follow this plan to the letter.
+16792: But I guess we don't have any choice now, do we? I know it's an odd request, but think of it as helping to protect an innocent child. Let's go find Brygid.
+16793: I know that Cornelia's plan may sound a bit half-baked, but I can't come up with anything better. Let's go find Brygid.
+16794: [Mr./Ms.] Adventurer, you remember our friend Raebrimm, right? The Galkan child in the unforgettable Goblin getup?
+16795: Do you remember Raebrimm? [Of course./Who's that, again?]
+16796: Oh, good. I'm glad to hear that your mind is sound.
+16797: How could you forget? After all, you were the one who went to the Zeruhn Mines and saved him from a vicious assault.
+16798: I've got some news on the black-clad Goblin that was threatening him.
+16799: Evidently we've been able to learn about where the menace was headed next.
+16800: Cornelia asked the Mythril Musketeers for their help in tracking the beastman down--and I'm pleased to report that they agreed to aid us.
+16801: Gumbah, I'm back!
+16802: Oh, and look who's with you!
+16803: <Player>, your timing is impeccable, as always. I wanted to share this with the both of you.
+16804: Iron Eater, if you would.
+16805: <Sigh> How could I say no to that face?
+16806: We Mythril Musketeers have worked tirelessly to gather information on your little Goblin problem. While we haven't identified who exactly that little beastie is...
+16807: We do know that a strange Goblin was seen flitting about the markets, darting from shadow to shadow in an attempt to avoid detection.
+16808: I would imagine that a Goblin dressed in black from head to toe would arouse some amount of suspicion.
+16809: Aye, and surely we would have heard more reports if the beast moved via ordinary means...but his modes of transportation are a bit more arcane, which would explain why he is able to mostly avoid detection in his search for Raebrimm.
+16810: The good news is that Brygid's disguise seems to be working, because Raebrimm remains unharmed.
+16811: In fact, that's why we have any information at all--the Goblin must be getting desperate and resorting to more overt means of tracking his quarry, and just now we got word that someone matching his description was spotted in Korroloka Tunnel.
+16812: That's great news!
+16813: Is it really? I mean, we haven't exactly stopped his advance.
+16814: Fear not--we have no intention of letting him walk. In fact, I ordered Naji to go after him posthaste.
+16815: And by "we," I mean the Mythril Musketeers. Miss Cornelia, you are to remain within the city walls.
+16816: You're going to let Naji take the lead AND make me stay here!?
+16817: No way. I've got to see this through to its conclusion.
+16818: While I share your distaste at letting Naji run point...
+16819: He is a Mythril Musketeer, unreliable though he may be.
+16820: Still, I agree that it couldn't hurt to send backup of some sort. Adventurer, I'd wager you're more than willing to volunteer.
+16821: What a splendid idea!
+16822: Most assuredly. We've got to let Raebrimm know that we will do anything to ensure his safety.
+16823: We're counting on you, <Player>!
+16824: I know it's only Korroloka Tunnel, but Naji is definitely going to be in over his head.
+16825: Would you mind heading over? Not for my sake, but for Raebrimm's.
+16826: Raebrimm filled us in on what happened. You have my sincere thanks.
+16827: But "Gloom Phantom," eh? What a straightforward moniker.
+16828: And the three of them call themselves "The Destiny Destroyers." Well, at least their naming sense is on point.
+16829: I've known beastmen to be a bit odd, but an egg hunt? Something tells me they don't simply want initial eggs.
+16830: <Player>! I heard that everything went well.
+16831: You're just the person I wanted to see, too. There's something I don't quite understand.
+16832: Cornelia? Did something happen?
+16833: Well, it's about Naji...
+16834: He hasn't returned to file his report, and it's well past time for him to make his way back to the city.
+16835: Any info on Naji? [He went after the three./He wasn't of much use./No clue.]
+16836: The three? You mean the Goblin and friends?
+16837: While his desire to get to the heart of the matter is commendable, that doesn't change the fact that he left the Galkan child behind.
+16838: Nor did he send word back of his intentions.
+16839: I hope everything's okay. What if he was hurt? Or captured?
+16840: No, others have already reported seeing him back in the city with no apparent injuries.
+16841: Until he reports in, I suppose I'll have to ask you, Gumbah, to get the full story from Raebrimm.
+16842: Hmmm... Although I did order Naji to track down the source of the problem, he may have gotten in over his head.
+16843: But the most critical mission--ensuring Raebrimm's safety--appears to have been a rousing success. You have my thanks.
+16844: We couldn't have done it without you, <Player>.
+16845: Gumbah, I'd like to hear what happened directly from Raebrimm's mouth. Perhaps we might glean some deeper insight into this matter.
+16846: Leave it to Naji to go traipsing off without backup.
+16847: According to Raebrimm, the Goblin succeeded in...whatever it was that they were trying to do.
+16848: As long as they'll leave him alone, though, does it really matter whether or not they're brought into custody?
+16849: That may very well be, but I'm afraid we're left with more questions than answers. I'd like to talk to Raebrimm myself.
+16850: Of course. I'll get him right away.
+16851: <Player>, there's something that's been bothering me.
+16852: What exactly was the deal with that egg...or eggshell, I suppose?
+16853: Any idea? [Egg...sandwich?/Galkan rebirth...?/No idea.]
+16854: Huh? You think they had a case of the munchies?
+16855: If it was a whole egg, then I would understand, but wasn't it just an eggshell?
+16856: The journey of Galkan rebirth...
+16857: I wish I knew more about it, but Gumbah practically had my hide the last time I asked him about his own journey...
+16858: I suppose you'd rather not talk about it.
+16859: Maybe you think I'm just some girl in over my head, like everyone else...
+16860: Cornelia, the conclusion we came to is that the Goblin wasn't after the eggshell itself, but rather a whole egg.
+16861: They were trailing Raebrimm because they caught the scent of it, but what they found was just a "shell" of what they thought it would be.
+16862: That's the lamest pun I've ever heard.
+16863: I couldn't resist. Perhaps that mystery will have to wait for later, and we'll have to content ourselves with Raebrimm's freedom.
+16864: You're right.
+16865: <Player>, we'll let you know if we hear anything else.
+16866: As will the Mythril Musketeers. Naji's heart is in the right place.
+16867: I'd like to give you something other than just platitudes for your efforts.
+16868: Me too. It's a special recipe favored by my extended family.
+16869: Until next time!
+16870: Your help was critical in ensuring Raebrimm's safety. Here's a little something from me and Cornelia.
+16871: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
+16872: You must take on the "$0" Records of Eminence objective before receiving the explanation.
+16873: You must complete "$1" before taking on the "$0" Records of Eminence objective.
+16874: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
+16875: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
+16876: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
+16877: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
+16878: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
+16879: You can change the CTRL+Q shortcut command...
+16880: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
+16881: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
+16882: You must meet one of the following conditions in order to post to the Assist Channel.
+16883: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
+16884: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
+16885: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
+16886: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+16887: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
+16888: The Assist Channel can only be used in the following areas.
+16889: Available areas: $7, $7, $7, $7, $7, $7...
+16890: ...$7, $7, $7, $7, $7, $7, $7, $7...
+16891: ...$7, $7, $7, $7, $7, $7, $7, $7...
+16892: ...$7, $7, $7, and your Mog House (Rent-a-Room).
+16893: You cannot post or read messages outside of the areas listed above.
+16894: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
+16895: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
+16896: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
+16897: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
+16898: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
+16899: The higher the number, the more experienced the mentor is.
+16900: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
+16901: You can check your Mastery Rank by going to Main Menu > Status > Profile.
+16902: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
+16903: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
+16904: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
+16905: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
+16906: A "Warning" is a feature that can only be used by mentors.
+16907: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
+16908: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
+16909: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
+16910: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
+16911: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
+16912: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
+16913: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
+16914: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
+16915: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
+16916: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
+16917: You are about to lose the ability to post messages to the Assist Channel.
+16918: You are unable to post messages to the Assist Channel.
+16919: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
+16920: Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals.
+16921: How may I help you today?
+16922: What do you desire? [Nothing for now./Show me recruiting linkshells./I'd like to hand out $0./Tell me more./Open up the linkshell window.]
+16923: It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
+16924: Excellent. Please select which linkshell you are interested in contacting.
+16925: Are you certain?
+16926: Really receive the linkpearl? [Of course./No, thank you.]
+16927: In the interest of fairness, I am unable to distribute multiple linkpearls to someone on the same day. Please come back tomorrow.
+16928: It is my sincere pleasure to bestow this upon you.
+16929: Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting.
+16930: I have prepared a small manual describing the importance of treating others with respect. Please have a quick glance at it when you have a moment.
+16931: May your new linkshell provide you with fond memories that will last a lifetime.
+16932: Though it pains me to say this, I have no $0 that meet your requirements at this time.
+16933: Should you desire, I can cancel your registration.
+16934: Cancel registration? [Yes, please./Not at this time.]
+16935: Should you desire to look for members, I can distribute $1 in your stead by utilizing the energies continued within your equipped $0.
+16936: During the process, please equip either $1 or $2 as Linkshell 1 and select "I'd like to hand out $0."
+16937: One that step has been completed, I will ask you a series of questions.
+16938: To cancel your registration, equip $1 or $2 as Linkshell 1, speak to me again, and select the appropriate linkshell from the list.
+16939: Unfortunately, only those equipped with $1 or $2 as Linkshell 1 are able to distribute $0.
+16940: Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home.
+16941: Linkshell concierges such as myself bring together adventurers of similar interests.
+16942: In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members.
+16943: I accept $0 from linkshells the world over and distribute them to appropriate adventurers.
+16944: This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate.
+16945: Additionally, please be aware that I am only able to offer you one $0 per day.
+16946: Though we would like to offer this service free of charge, the network has its own expenses that must be paid, so we charge a nominal fee of $0 gil at the time of registration.
+16947: It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time).
+16948: It is worth noting that each concierge may only register a maximum of $0 linkshells.
+16949: Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest.
+16950: Server maintenances will also immediately cancel all registrations, so be sure to keep your information up-to-date.
+16951: Thank you for taking the time to use our service. Let me confirm the information contained within.
+16952: , correct?
+16953: LS0: .
+16954: LS1: .
+16955: LS0: (No sending).
+16956: LS1: (No sending).
+16957: Shall I start looking for new members for a fee of $1 gil?
+16958: Look for new members? ($0 gil) [That sounds wonderful./I'd rather not.]
+16959: I'm quite sorry to hear you decline. Please let me know if you change your mind.
+16960: I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style.
+16961: What is your language preference? [Japanese./English./Other./Back.]
+16962: What days are you most active? [Every day./Weekends and holidays./Weekdays./Monday./Tuesday./Wednesday./Thursday./Friday./Saturday./Sunday./Back.]
+16963: What days are you most active? [[-/Z]No day set./[-/Z]Mondays./[-/Z]Tuesdays./[-/Z]Wednesdays./[-/Z]Thursdays./[-/Z]Fridays./[-/Z]Saturdays./[-/Z]Sundays./[-/Z]Holidays./Back./Next./Update.]
+16964: When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]
+16965: Designate a time zone. [No designation./Japanese Standard Time (JST)./Pacific Time (PST|PDT)./Greenwich Mean Time (GMT)./Back.]
+16966: What time are you active? (JST) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
+16967: What time are you active? (PST|PDT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
+16968: What time are you active? (GMT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
+16969: How many members are you looking for? [1."."./4./5./6./7./8./9./10./Back.]
+16970: How many active members do you have? [1-6./7-18./19+./Back.]
+16971: How would you characterize your linkshell? [[|/Z] No info provided./[|/Z] New players welcome./[|/Z] Returnees welcome./[|/Z] Adults only./[|/Z] 10 year veterans active./[|/Z] Casual players./[|/Z] Battle and synthesis support./[|/Z] Anyone welcome./[|/Z] End content-focused./[|/Z] Ambuscade-focused./[|/Z] Never give up./[|/Z] High-end gear./[|/Z] Looking for crafters./[|/Z] Trial memberships welcome./[|/Z] Multiple linkshells OK./[|/Z] Community events held./[|/Z] New linkshell./Back./Next./Update.]
+16972: Linkshell characteristics. [No info provided./New players welcome./Returnees welcome./Adults only./10 year veterans active./Casual players./Battle and synthesis support./Anyone welcome./End content-focused./Ambuscade-focused./Never give up./High-end gear./Looking for crafters./Trial memberships welcome./Multiple linkshells OK./Community events held./New linkshell./Back]
+16973: Style: [Do everything/Engage in hard-core battle content/Engage in casual battle content/Vanquish HNMs/Meet other new players/Assist each other/Engage in synthesis and trading/Nothing].
+16974: Language: [/Japanese/English/Other].
+16975: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (JST)/in the afternoon (JST)/in the evening (JST)/at night (JST)/in the wee hours of the morning (JST)].
+16976: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (PST|PDT)/in the afternoon (PST|PDT)/in the evening (PST|PDT)/at night (PST|PDT)/in the wee hours of the morning (PST|PDT)].
+16977: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (GMT)/in the afternoon (GMT)/in the evening (GMT)/at night (GMT)/in the wee hours of the morning (GMT)].
+16978: Looking for $4 more member[/s].
+16979: Please review the content of your linkshell. I will start looking for new members once you have confirmed that everything is in order.
+16980: Linkshell info (can be changed): [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Cancel without posting./Post recruitment.]
+16981: Information for : [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Date posted: //./Receive $1027./Delist./Back.]
+16982: I can start looking for new members immediately. Is this information correct?
+16983: What will you do? [Start looking for members./Stop the process.]
+16984: Your registration is officially complete.
+16985: May your journeys lead you to many as-yet-unmet friends, and may the bonds you forge last a lifetime.
+16986: Another member of that linkshell currently has an active registration. Please wait until that registration expires and try again.
+16987: A manual describing proper chat manners floats in front of you.
+16988: Read up on which topic? [None for now./I don't know what to talk about./How can I get people to like me?/What shouldn't I do?/What happens if we don't mesh?]
+16989: Perhaps consider starting with a simple greeting. Something like...
+16990: "Hello, everyone. My name's <Player>. Nice to meet you!"
+16991: Of course, injecting your own personal flavor may act as a conversation starter and help people to remember you.
+16992: No matter which route you choose, make sure to always remain polite. There is no better way to start a friendship off on the right foot.
+16993: When speaking with others, it's critical to listen and be mindful of what they say.
+16994: Always talking and never listening may come across as rude.
+16995: Another important point is to always be mindful of the listener. How would you feel if someone said that to you? Think carefully before sending someone a message.
+16996: It also helps to be clear and concise.
+16997: Being vague might cause others to get the wrong impression.
+16998: Be extremely careful when giving out personal information such as your address or telephone number.
+16999: Furthermore, refrain from making disparaging or aggressive remarks.
+17000: Once you are close to someone, you may be more comfortable letting your hair down, but it is strongly recommended that you refrain from any actions that may be construed as harassment.
+17001: After joining a linkshell, you may find that you have difficulty participating in conversation or that your personality is too different from the other members.
+17002: One of your options in such a situation is to inform the linkshell leader and then leave.
+17003: Finding a linkshell that is the perfect fit might not always be easy, but there is certainly a group out there that will match your feelings and goals.
+17004: Once you find those kinds of friends, hold them fast and value them as much as they value you. There is no better way to enjoy life in Vana'diel.
+17005: The linkshell concierge opens up a tiny notebook...
+17006: @@
+17007: Hey, [miss/mister], excellent timing.
+17008: Raebrimm is looking for you. I think he wants to talk to you about something.
+17009: He probably has grown tired of Bastok and wants to ask you about life outside these walls.
+17010: Although, don't take him outside the city, no matter how much he begs you. I'm still worried about him...
+17011: Sometimes, he gets this blank look on his face and says he's forgetting something important.
+17012: So that's why I'm always trying to keep an eye on him.
+17013: Although, whenever I do, I often feel waves of nostalgia crashing over me too.
+17014: Hmm... Maybe Raebrimm is actually somebody I knew before that has undergone some kind of rebirth...
+17015: Oh, where was I? Ah, yes... If you're going to see Raebrimm, you should probably hurry.
+17016: You should be able to catch up with him at the entrance to the Zeruhn Mines just west of here.
+17017: Apparently, he was sent on an errand, so he said he needed to visit Drangord.
+17018: Hey, [miss/mister]. I think Raebrimm wants to talk to you. You should go see him.
+17019: I guess he's on some kind of errand, so he said he was going to visit Drangord.
+17020: You might be able to find him at the entrance to the Zeruhn Mines just west of here.
+17021: Hm? You say you're a friend of Raebrimm's?
+17022: I actually just sent him on another errand.
+17023: He may be just a kid, but he's quite dependable. Although, I probably shouldn't ask so much of him...
+17024: Come with me. I'll go get him for ya.
+17025: Ah, <Player>!
+17026: Wait till you hear this! I actually remembered something!
+17027: It just came to me after staring at that large mountain every day!
+17028: That "eggshell" I gave to that Gloom Phantom guy in the Korroloka Tunnel...
+17029: I remember that it also came from a large mountain.
+17030: I was surrounded by the sparkle of twilight...
+17031: I kept climbing the mountain path as it rose higher and higher...
+17032: And once I reached the summit, I saw somebody there!
+17033: What do you inquire? [What mountain?/Who did you see?/When was this?]
+17034: Um... I don't know...
+17035: Well, I... I don't remember...
+17036: Sorry, it's still a bit fuzzy...
+17037: I just thought it was important to tell somebody about this right away.
+17038: I thought you might know what it meant, <Player>.
+17039: Is that you, Raebrimm? And <Player> too!?
+17040: Cornelia!? Why are you so out of breath!?
+17041: We've got trouble! Some terrifying monsters have appeared within the Zeruhn Mines!
+17042: What!?
+17043: You must help us, <Player>! We have to help the people still trapped in the mines!
+17044: Please be careful, <Player>...
+17045: What's all the commotion!? Did something happen?
+17046: At times like this, it's important to remain calm. That allows us to protect what's important.
+17047: Hm? You saw Cornelia, and there's trouble in the Zeruhn Mines?
+17048: I'm sure the Mythril Musketeers will show up any moment now, so there's nothing to worry about. Although, I suppose it's too early to let down our guard.
+17049: Can you hurry over to the mines, [miss/mister]? Those people need your help!
+17050: Cornelia told me everything. I'm just glad you're okay, [miss/mister].
+17051: This sudden attack by the Quadav... What will become of Bastok, and of us?
+17052: Here you can play the game Mandragora Mania.
+17053: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
+17054: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
+17055: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
+17056: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
+17057: You may pay $& gil to reset all rewards, enabling you to purchase them again.
+17058: Reset rewards? ($' gil). [Yes ($& gil)./No.]
+17059: You do not have enough gil.
+17060: All rewards have been reset.
+17061: You have already purchased the $2.
+17062: You need at least $3 jingly to purchase the $2.
+17063: The reward exchange period has turned over and all rewards have been reset.
+17064: You may reset all rewards from the appropriate dialogue box.
+17065: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
+17066: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
+17067: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
+17068: Starting player set to [Random/You/Opponent].
+17069: Read the manual? [Sure./No thanks.]
+17070: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
+17071: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
+17072: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
+17073: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
+17074: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
+17075: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
+17076: You must choose one area--either yours or a neutral one--to proceed.
+17077: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
+17078: Conversely, your opponent must select either a neutral area or an area that belongs to them.
+17079: From the right, those areas are numbered 6, 4, 7, 2, and 8.
+17080: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
+17081: Note that the mandragoras will move from the back first--last in, first out.
+17082: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
+17083: You will enter your opponent's territory whenever you go past the goal.
+17084: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
+17085: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
+17086: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
+17087: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
+17088: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
+17089: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
+17090: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
+17091: Standard mandragoras: 1 jingly (both players).
+17092: The game is over when either you or your opponent no longer has any mandragoras that can move.
+17093: The player who has the most jingly at that point will be declared the winner.
+17094: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
+17095: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
+17096: You have selected Area $0.
+17097: You receive $0 jingly for a total of $1.
+17098: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
+17099: Your opponent has selected Area $0.
+17100: Your opponent receives $0 jingly for a total of $1.
+17101: Game Complete!
+17102: [Victory!/Defeat!/Draw!] ($0 - $1)
+17103: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
+17104: That area has no mandragora to move.
+17105: You will forfeit all jingly earned this game if you give up. Are you sure?
+17106: Really give up? [Yes./No.]
+17107: You receive $0 jingly for a total of $1.
+17108: You have reached the jingly cap of $0. Any additional jingly will be lost.
+17109: An error has occurred. Please try again.
+17110: DEBUG ( [OFF/ON]
+17111: RANDOMF0-$0 ( $1
+17112: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
+17113: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
+17114: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
+17115: 
+17116: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
+17117: NPC Selection ( Area $0
+17118: DEBUGFNPC Selection Controls ( [OFF/ON]
+17119: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
+17120: Hey, [miss/mister]! You must help us! Raebrimm is gone!
+17121: He said he was going to search for the mountain he saw in his dream, and was studying up on Galkan history.
+17122: Apparently, he thinks it's the mountain that we Galka climb as part of our journey of rebirth.
+17123: You see, once we reach a certain age, we can sense when death will come for us.
+17124: So when that time comes, we set out on a journey to be reborn. It's almost as if we're guided to our destination by some unseen force.
+17125: At the end of the journey, they say we eventually arrive at a mountain. And once we climb it, our old body is replaced with that of a child...
+17126: Eventually, we descend from the mountaintop and suddenly find ourselves surrounded by other people.
+17127: I'm certain that Raebrimm arrived here in Bastok via the Korroloka Tunnel after his rebirth.
+17128: Therefore, I think he might've tried retracing his steps in order to reach the Galkan homeland of Zepwell Island...
+17129: Gumbah! It appears you were right about Raebrimm!
+17130: Oh, <Player>! I'm glad you're here!
+17131: Did Gumbah already tell you about Raebrimm? He just left without saying a word to anyone!
+17132: Cornelia! Have you heard any news regarding Raebrimm!?
+17133: You were right... It appears he set out for Zepwell Island!
+17134: A merchant who just arrived from the island said that he passed a Galkan child in the Korroloka Tunnel.
+17135: I knew it...
+17136: I wonder if he finally managed to remember whatever was bothering him...
+17137: And while I might just be overthinking things, I heard something else that was interesting.
+17138: There is a Tarutaru researcher from Windurst currently visiting Rabao on Zepwell Island.
+17139: Recently, that researcher caused quite the commotion. I guess he spotted a fugitive from Windurst near the Quicksand Caves.
+17140: He was telling an adventurer with him that this person was definitely the one they were looking for due to the mysterious orb he was carrying.
+17141: You remember, don't you, <Player>? The deadly scorpion that arose due to the power of the "World Eater Egg"?
+17142: Afterwards, we received a reply from Windurst stating that the mage Uran-Mafran stole the scorpion's power!
+17143: That mage is usually up to no good, so the country is putting all its resources into investigating the matter.
+17144: Windurst also knows how dangerous this "World Eater Egg" is, so it didn't take much to convince them.
+17145: However, not much is known about Uran-Mafran, so his origins are shrouded in mystery.
+17146: They told me they'd get back to me later with more details, but they may just be hiding the truth...
+17147: At any rate, there doesn't appear to be any information regarding Uran-Mafran in Windurst. As such, he might not be from there.
+17148: Although, Iron Eater said that we shouldn't take them at their word on that matter, since they may know more than they're telling us.
+17149: Therefore, all of this has me very interested in this fugitive spotted near the Quicksand Caves.
+17150: Hmm... So you're saying there's a dangerous fugitive somewhere on Zepwell Island?
+17151: Yes, it appears so.
+17152: I'm thinking I should leave this to our friend <Player> here...
+17153: Can you please go to Zepwell Island and see if Raebrimm is safe or not?
+17154: Yes, I feel the same way... And if you find him, can you please tell him how worried we are?
+17155: First off, you should probably speak with Dancing Wolf, a soldier who has been dispatched to Rabao.
+17156: I hear that he's been tasked with gathering information in the area.
+17157: As such, he might know something, maybe even about Uran-Mafran...
+17158: Please hurry. I'm very worried about Raebrimm. I wish I could go with you...
+17159: No, it's not safe for you, Gumbah. Please don't make me worry even more than I already am.
+17160: Hmm... Maybe I should tell someone about this...
+17161: I'm worried about Raebrimm. Please hurry to Zepwell Island and make sure he's okay.
+17162: Cornelia said that the soldier known as Dancing Wolf might know something.
+17163: That's wonderful! I'm so glad to hear that Raebrimm is safe.
+17164: I wonder if he'll be coming home anytime soon... He needs to know just how angry everyone is with him for leaving without telling anyone.
+17165: Please keep Raebrimm safe until he returns home. I'm counting on you, [miss/mister]!
+17166: I can't believe Raebrimm went all the way to Zepwell Island. At least he's safe, though.
+17167: I must see him at once! Wait for me, Raebrimm! I'm coming for you!
+17168: <Sigh> I've got a bad feeling about this...
+17169: You must help Raebrimm, [miss/mister]!
+17170: Welcome back, [miss/mister].
+17171: Ah, you've returned at last. I heard all about what happened in the Quicksand Caves on Zepwell Island.
+17172: I never expected that Uran-Mafran's scheming would threaten the very existence of us Galka...
+17173: Master Oggbi has given permission to send a letter to the various Galkan elders, informing them of the news.
+17174: However, we don't intend on telling them everything we know since normally, Galka don't remember their rebirth, myself included.
+17175: In fact, there is still much I don't know... I find it all hard to believe, and I'm still in a state of shock.
+17176: If the Talekeeper were here now, I wonder what he would say...
+17177: Maybe that we should remain calm and gather the facts?
+17178: Yes, I suppose you're right. Well said, Gumbah.
+17179: Thanks!
+17180: Gumbah, I would like to ask your opinion as the Talekeeper.
+17181: I knew it. I knew you were the Talekeeper, Gumbah!
+17182: I know, but it's nothing really. All I do is carry on the memories of my people.
+17183: Right now, the only thing I can say is that we should try to gather all of the facts first.
+17184: As such, I'd like to hear your thoughts on the matter too, <Player>.
+17185: Yes, I suppose there is still much to be learned.
+17186: First, there is the war being waged in Valhalla. How should we describe Valhalla itself?
+17187: How would you describe Valhalla? [It is a world where souls gather to battle./It is a world ruled by Odin./It is a dazzling dream world.]
+17188: Yes, you're right. It is a world ruled by Odin where powerful souls are brought together.
+17189: Are you sure about that? I think it's better described as a world ruled by Odin where powerful souls are brought together.
+17190: However, we Galka are allowed to enter it for some reason. Do you know why?
+17191: Do you know the reason? [Yes, I do./No, not really.]
+17192: Yes, the Destiny Destroyers did mention something about a powerful Galka who lived five thousand years ago.
+17193: Apparently, his strength even impressed Odin himself, which earned the Galka such special treatment.
+17194: However, we don't know anything else about this Galka...
+17195: Five thousand years ago...
+17196: In other words, there was some kind of connection between Odin and the Galka a long time ago. That is quite surprising.
+17197: So for five thousand years, the Galka have been reborn by visiting Valhalla.
+17198: However, there is currently a war being fought in Valhalla.
+17199: Uran-Mafran's master, Garazu-Horeizu the Maelstrom Mage, has risen in rebellion against Odin, the god who leads the dead.
+17200: Garazu-Horeizu has rallied many to his cause, and also possesses the ability to send them to this world as well.
+17201: His ultimate goal is to be resurrected in this world. Although, I don't imagine that is an easy task to perform?
+17202: [No,/Probably not,] but I believe that the Galka are reborn through the power of Odin.
+17203: I suppose it's the power contained within life itself and also crystals that Uran-Mafran was talking about?
+17204: Uran-Mafran apparently gathered that power within his orb.
+17205: Yes, he also stole the power of the scorpion that had obtained the power of the "World Eater Egg" before.
+17206: Which means, the power of the World Eater Egg is based on the power of the crystals?
+17207: Hey, just what kind of egg is this World Eater Egg, anyway?
+17208: I know I had the eggshell while I was in Valhalla, but I don't really remember much about it.
+17209: Do you know anything, <Player>?
+17210: What do you know about the egg? [It's Chaos's egg./It's Caboose's egg./I don't know anything.]
+17211: Chaos? Where have I heard that name before?
+17212: There's new information about the "World Eater Egg"!? You must tell us at once, <Player>!
+17213: Caboose? That name sounds familiar...
+17214: Please calm down and try to remember, [miss/mister]. This is important.
+17215: I thought you had heard something from the Destiny Destroyers, <Player>...
+17216: Please, [miss/mister]... Try to remember. This is important.
+17217: I'm not sure if we can take what the Goblin said at face value...
+17218: I've never heard about beastmen working together to take down a powerful enemy known as Chaos.
+17219: If it took place five thousand years ago, I don't think it's all that strange that we haven't heard anything about it.
+17220: Furthermore, I find it interesting that the story about Odin and that Galka also took place five thousand years ago.
+17221: Are you saying it's no coincidence?
+17222: Indeed. Of course, it's just a hunch.
+17223: Okay then, let's assume this is all true. That would mean that this Goblin hero finished off Chaos back then.
+17224: However, World Eater Eggs are being found all over the world. Raebrimm also acquired an eggshell while in Valhalla.
+17225: In other words, there was also a "World Eater Egg" in Valhalla, and it was broken open?
+17226: "When the World Eater Egg is awakened, the Galka will be led to open the gate to the underworld..."
+17227: I wonder if the "World Eater Egg" within Valhalla being broken open was what caused that message to be given to Raebrimm.
+17228: But something was growing inside of that egg, right?
+17229: Raebrimm! Gumbah! Good, everyone's all here!
+17230: I'm glad you're safe! I was really worried about you!
+17231: Cornelia... I'm sorry if I made you worry.
+17232: We had both our adventurer friend here and Oggbi with us, so we were in good hands.
+17233: Hmph! Aren't you going to apologize too, Gumbah!?
+17234: Ahem... My lady, we were trying to go over some rather important topics...
+17235: Ah, yes... [Father/Volker] told me everything.
+17236: He mentioned that this is strongly connected to the Galka's process of rebirth, and that we therefore shouldn't meddle too much.
+17237: However, at least let me say one thing! If there is anything us Humes can do, please don't hesitate to ask!
+17238: Gumbah and Raebrimm are both important friends of mine.
+17239: And you're not embarrassed to say so, Cornelia?
+17240: There you go again...
+17241: My lady, I appreciate your concern, but it is still too early for us to make any kind of move.
+17242: All we know so far is the location of Uran-Mafran and his master, Garazu-Horeizu, as well as their overall plan...
+17243: Thanks to <Player> and Oggbi here, that plan has been temporarily thwarted, but I'm sure it will resume before too long.
+17244: Therefore, we are trying to devise a response for when it does.
+17245: I have yet to come up with any good ideas, but I think we should collect what we do know and report it to the president.
+17246: I understand.
+17247: Actually, <Player>... I have an urgent matter to discuss with you.
+17248: We've received word from Doctor Shantotto in Windurst. She wants you to meet with her as soon as possible.
+17249: Judging by the way she was speaking, it sounds like she's been keeping an eye on you somehow.
+17250: She said to stop wasting time with Gumbah and to go see her at once.
+17251: Those were her words, not mine.
+17252: Therefore, I [asked my father/pulled some strings] to get you this special gift.
+17253: <Player>, thank you for finding Raebrimm and keeping him safe for us.
+17254: Yeah, thank you.
+17255: You were a big help.
+17256: You should hurry to Windurst, <Player>. We could definitely use the wisdom of their scholars in this matter.
+17257: You may be able to ask for their insight regarding Uran-Mafran and his master, Garazu-Horeizu, as well as the World Eater Egg.
+17258: Although, I do ask that you refrain from mentioning anything about the process of our rebirth.
+17259: Will you keep their secret? [I understand./I'm not sure if that's possible...]
+17260: The very future of the Galka depends on this matter. Please keep that in mind when discussing it.
+17261: Yes, I imagine it is always possible that you could be interrogated about what you know.
+17262: What!?
+17263: Like I said, please try to refrain from saying anything. However, I will understand if you're left with no other choice.
+17264: See you later, [miss/mister]. We'll be sure to let you know if we find out anything new.
+17265: Raebrimm might just remember something. Also...
+17266: The day may come when my soul is summoned...
+17267: Wait a moment! Don't forget the gift that Cornelia brought you!
+17268: You're heading to Windurst, right, [miss/mister]?
+17269: We Galka have much to talk about. Who knows, we might even remember something new.
+17270: The future of the Galka is riding on this, so we all must move quickly...
+17271: Oh, [Mr./Ms.] Adventurer! How have you been?
+17272: We've been looking into various things since we last met, but we won't understand most of it until we can speak with Odin directly.
+17273: However, one thing that we do know is that the Galka had to join the battle within Valhalla.
+17274: The current Talekeeper had to lead a strong group of Galkan warriors through the gates of the underworld.
+17275: But although Raebrimm was asked to do so by Odin, he has forgotten pretty much everything.
+17276: Ultimately, the Galka were saved though. I can't imagine what Raebrimm is feeling.
+17277: He has looked rather gloomy lately. I'm worried about him...
+17278: Hey, [miss/mister]. I think you'll want to hear this.
+17279: Raebrimm has been confined to his bed...
+17280: According to him, he was only born in order to convey Odin's message.
+17281: Since he has completed that task, he thinks he'll have to return to Valhalla now.
+17282: Does that mean he's going to die?
+17283: I thought you had to be strong to earn the right to go to Valhalla!
+17284: Besides, the gate to the underworld is currently closed.
+17285: Although, I hear there's another gate to the north. It might still be open...
+17286: You see, I've been having dreams about it recently. Or maybe it's more accurate to say I'm being shown visions of it.
+17287: Could this be what they mean when they say that Odin comes calling for your soul?
+17288: Oh, that reminds me. Do you know anything about this, [miss/mister]?
+17289: There are rumors of a beastman dwelling known as Movalpolos somewhere in North Gustaberg.
+17290: Apparently, these beastmen resemble Goblins and are known as Moblins...
+17291: I hear that a lone Galka has gone there to live among them.
+17292: We need to inform that Galka that the gates to the underworld have been closed.
+17293: Iron Eater and Oggbi are currently busy dealing with other matters. Can I ask for your help with this, [miss/mister]?
+17294: Will you help? [Sure, no problem./Sorry, I'm busy.]
+17295: Ah, I guess it can't be helped then. Please let me know if you can find some time.
+17296: That's a relief. There's much that we don't know about these Moblins in Movalpolos, so be careful out there.
+17297: There's apparently a Galka living among the Moblins in Movalpolos.
+17298: I'd like you to inform this Galka that the gates to the underworld have been closed.
+17299: I find it hard to concentrate on such things while worrying about Raebrimm.
+17300: Perhaps Odin is calling for his soul?
+17301: Hey, [miss/mister]... Is Raebrimm...
+17302: How do you respond? [He's dead./He's no longer with us./You won't be seeing him anymore.]
+17303: !!!
+17304: N-no, it can't be!
+17305: <Gasp>!
+17306: What happened to him? You must tell me everything.
+17307: I see... So after he helped you, he...
+17308: Somehow, I had a feeling that Raebrimm and Raogrimm were connected in such a way.
+17309: So Raebrimm was the reincarnated form of Raogrimm... That must be why he felt so familiar.
+17310: However, that was no ordinary reincarnation.
+17311: I wish I could go back to the time when Raebrimm didn't remember anything.
+17312: We could have gone on so many journeys together!
+17313: If only I could share a nice, hearty laugh with him again.
+17314: I mean, even though he only had half of a soul, he was no different from the rest of us...
+17315: Sorry, [miss/mister]... I know this is no time to be crying.
+17316: Thank you for sharing Raebrimm's story with me.
+17317: So the Galka who had a deep connection to Odin was actually the original Talekeeper.
+17318: Although, I am surprised to hear that Odin bequeathed his left eye to the Talekeeper. That means that its power also resides within me as well.
+17319: Although, I am surprised to hear that Odin bequeathed his left eye to the Talekeeper. That means that its power also resides within the Talekeeper's soul as well.
+17320: If I return that power to Odin, will he be able to defeat Chaos?
+17321: Can Odin defeat Chaos? [Yes./No./I don't know.]
+17322: In that case, I will give it back to him. Although the Talekeeper will lose his ability, the Galka can continue to hand down our stories on his behalf.
+17323: In that case, I am certain the Talekeeper will return the power without hesitation. The Galka can simply continue to hand down our stories on his behalf.
+17324: I shall close my eyes and make a wish to the Talekeeper. If I do, I am certain that it will come true.
+17325: You're right--nobody can predict the future. That is why we must look to the past instead.
+17326: History tells us that five thousand years ago, Odin emerged triumphant. That is why I must return his eye.
+17327: History tells us that five thousand years ago, Odin emerged triumphant.
+17328: Therefore, I am certain that the Talekeeper will return his eye to him.
+17329: I shall close my eyes and make a wish to the Talekeeper. If I do, I am certain that it will come true.
+17330: Huh!? What's that?
+17331: So this is Odin's eye...
+17332: Does this mean my wish was granted? Is this Odin's eye...?
+17333: Ah!
+17334: This is the way it should be. Raebrimm's wish has been granted.
+17335: What was that?
+17336: Gumbah, a ball of light rose up from your house and disappeared!
+17337: It was an important source of power that is finally being returned to Odin.
+17338: An important source of power? Does it have anything to do with Raebrimm?
+17339: What do you mean?
+17340: Well, you see... I had a bit too much to drink and fell asleep.
+17341: However, it caused me to have the most vivid dream. Raebrimm appeared before me to thank me and say farewell.
+17342: What's more, he was holding hands with Cornelia...
+17343: <Sniffle>... Oggbi, Raebrimm came from Raogrimm and he...
+17344: I see... I was hoping that my premonition would not ring true...
+17345: We must simply think of him as Raebrimm when we mourn him.
+17346: <Player>, did Raebrimm leave anything behind?
+17347: What is that?
+17348: I recognize this! It did not belong to Raebrimm, but rather my disciple Cornelia!
+17349: You mean the Cornelia who journeyed north with Raogrimm so long ago?
+17350: That is correct. If Cornelia left this behind, it must mean that she thought it could be useful.
+17351: <Player>, I am sure she meant for you to have this. Please look after it, will you?
+17352: Yes, much like Raebrimm protected you, [miss/mister], I imagine Cornelia wished to do so as well.
+17353: Besides, the memories that Raebrimm left us with are more than enough.
+17354: You are right. We should share this news with Raebrimm's friends as well.
+17355: Please, [miss/mister]... Don't ever forget Raebrimm.
+17356: [mister/lady], please take good care of the item that Raebrimm and Cornelia entrusted you with.
+17357: That way, you can think of Raebrimm whenever you look at it.
+17358: I wish I could've spoken with Raebrimm again. I wonder if I'll see him in my dreams...
+17359: No, I am being selfish--he deserves his rest. I'm certain we'll meet again when he's ready.
+17360: I heard the news! Finally, after five thousand years, Chaos has been defeated!
+17361: Huh? How do I know that, you ask?
+17362: Odin came to me in a dream.
+17363: He once again bequeathed the power of his eye to the Talekeeper.
+17364: That power is the source of the Talekeeper's ability to carry on the memories of his people.
+17365: While he was speaking to me, I was flooded with various images. Or maybe they were more like visions?
+17366: He once again bequeathed to me the power of his eye.
+17367: That power is the source of my ability to carry on the memories of our people.
+17368: Suddenly, I found myself flooded with various images. Or maybe they were more like visions?
+17369: Although, I don't feel there is any need for the memories of the Galka to be passed down anymore.
+17370: When I mentioned it to Odin, he told me why he gave the Talekeeper his power once again.
+17371: He plans to use the power to keep watch over Vana'diel.
+17372: It seems that it's important to monitor the movements of his nemesis, Alexander.
+17373: If he doesn't, Vana'diel may find itself engulfed in the flames of war once again.
+17374: I find this all so tiring. I wish we could finally live a life without fear!
+17375: Although, at least we don't have to worry about our rebirth now since the gate to the underworld at Zepwell Island is secure.
+17376: Oh! I almost forgot!
+17377: We held a funeral ceremony for Raebrimm.
+17378: I'm sorry we couldn't wait for you, [miss/mister]...
+17379: However, at least now, Raebrimm can rest in peace.
+17380: If you think about it, it'd be nice for you to offer up a prayer for him from time to time. I will be sure to do so too, of course.
 17381: Thanks again for all of your help. Even if they don't say it, everyone here is grateful for what you did.
-17382: Thanks again for everything. You know how it is--even if they don't say it, everyone here is grateful for what you did.
-17383: You are now able to enjoy a new storyline, A Crystalline Prophecy.
-17384: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
-17385: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-17386: You are now able to enjoy a new storyline, A Shantotto Ascension.
-17387: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
-17388: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-17389: You are now able to enjoy a new storyline, Abyssea.
-17390: Start Abyssea? [Yes (View cutscene)./Maybe later.]
-17391: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-17392: You are now able to enjoy a new storyline, Chains of Promathia.
-17393: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
-17394: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-17395: You are now able to enjoy a new storyline, Seekers of Adoulin.
-17396: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
-17397: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
-17398: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
-17399: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
-17400: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-17401: You are now able to enjoy a new storyline, Rise of the Zilart.
-17402: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
-17403: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-17404: Would you like to start a new storyline that you previously postponed?
-17405: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-17406: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-17407: Start the storyline? [Yes, please./No, thank you.]
+17382: Thanks to your efforts, [miss/mister], we Galka no longer have to worry about our journey of rebirth. I'm so relieved!
+17383: Thanks again for all of your help. Even if they don't say it, everyone here is grateful for what you did.
+17384: Thanks again for everything. You know how it is--even if they don't say it, everyone here is grateful for what you did.
+17385: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+17386: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
+17387: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
+17388: You are now able to enjoy a new storyline, A Shantotto Ascension.
+17389: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
+17390: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
+17391: You are now able to enjoy a new storyline, Abyssea.
+17392: Start Abyssea? [Yes (View cutscene)./Maybe later.]
+17393: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
+17394: You are now able to enjoy a new storyline, Chains of Promathia.
+17395: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
+17396: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
+17397: You are now able to enjoy a new storyline, Seekers of Adoulin.
+17398: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
+17399: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
+17400: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+17401: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
+17402: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
+17403: You are now able to enjoy a new storyline, Rise of the Zilart.
+17404: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
+17405: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
+17406: Would you like to start a new storyline that you previously postponed?
+17407: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+17408: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+17409: Start the storyline? [Yes, please./No, thank you.]
