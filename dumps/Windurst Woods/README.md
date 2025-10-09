@@ -335,29 +335,28 @@
 | 0x010F1181       |         17764737 | [Moogle](./17764737%20-%20Moogle.md)                                 |        3 |
 | 0x010F1187       |         17764743 | [Ensemble Maven](./17764743%20-%20Ensemble%20Maven.md)               |        4 |
 | 0x010F1188       |         17764744 | [(unnamed)](./17764744.md)                                           |        4 |
-| 0x010F1199       |         17764761 | [Moogle](./17764761%20-%20Moogle.md)                                 |        4 |
-| 0x010F119A       |         17764762 | [Moogle](./17764762%20-%20Moogle.md)                                 |        7 |
-| 0x010F119B       |         17764763 | [Rokor-Makor](./17764763%20-%20Rokor-Makor.md)                       |        2 |
-| 0x010F119C       |         17764764 | [(unnamed)](./17764764.md)                                           |        4 |
+| 0x010F119A       |         17764762 | [Moogle](./17764762%20-%20Moogle.md)                                 |        4 |
+| 0x010F119B       |         17764763 | [Moogle](./17764763%20-%20Moogle.md)                                 |        7 |
+| 0x010F119C       |         17764764 | [Rokor-Makor](./17764764%20-%20Rokor-Makor.md)                       |        2 |
 | 0x010F119D       |         17764765 | [(unnamed)](./17764765.md)                                           |        4 |
 | 0x010F119E       |         17764766 | [(unnamed)](./17764766.md)                                           |        4 |
 | 0x010F119F       |         17764767 | [(unnamed)](./17764767.md)                                           |        4 |
 | 0x010F11A0       |         17764768 | [(unnamed)](./17764768.md)                                           |        4 |
-| 0x010F11A1       |         17764769 | [(unnamed)](./17764769.md)                                           |        3 |
+| 0x010F11A1       |         17764769 | [(unnamed)](./17764769.md)                                           |        4 |
 | 0x010F11A2       |         17764770 | [(unnamed)](./17764770.md)                                           |        3 |
 | 0x010F11A3       |         17764771 | [(unnamed)](./17764771.md)                                           |        3 |
 | 0x010F11A4       |         17764772 | [(unnamed)](./17764772.md)                                           |        3 |
-| 0x010F11A5       |         17764773 | [(unnamed)](./17764773.md)                                           |        2 |
+| 0x010F11A5       |         17764773 | [(unnamed)](./17764773.md)                                           |        3 |
 | 0x010F11A6       |         17764774 | [(unnamed)](./17764774.md)                                           |        2 |
-| 0x010F11A7       |         17764775 | [(unnamed)](./17764775.md)                                           |        3 |
+| 0x010F11A7       |         17764775 | [(unnamed)](./17764775.md)                                           |        2 |
 | 0x010F11A8       |         17764776 | [(unnamed)](./17764776.md)                                           |        3 |
 | 0x010F11A9       |         17764777 | [(unnamed)](./17764777.md)                                           |        3 |
 | 0x010F11AA       |         17764778 | [(unnamed)](./17764778.md)                                           |        3 |
 | 0x010F11AB       |         17764779 | [(unnamed)](./17764779.md)                                           |        3 |
-| 0x010F11AC       |         17764780 | [Ultra Slime](./17764780%20-%20Ultra%20Slime.md)                     |        5 |
-| 0x010F11AD       |         17764781 | [(unnamed)](./17764781.md)                                           |        3 |
-| 0x010F11AE       |         17764782 | [Horro](./17764782%20-%20Horro.md)                                   |        5 |
-| 0x010F11AF       |         17764783 | [(unnamed)](./17764783.md)                                           |        4 |
+| 0x010F11AC       |         17764780 | [(unnamed)](./17764780.md)                                           |        3 |
+| 0x010F11AD       |         17764781 | [Ultra Slime](./17764781%20-%20Ultra%20Slime.md)                     |        5 |
+| 0x010F11AE       |         17764782 | [(unnamed)](./17764782.md)                                           |        3 |
+| 0x010F11AF       |         17764783 | [Horro](./17764783%20-%20Horro.md)                                   |        5 |
 | 0x010F11B0       |         17764784 | [(unnamed)](./17764784.md)                                           |        4 |
 | 0x010F11B1       |         17764785 | [(unnamed)](./17764785.md)                                           |        4 |
 | 0x010F11B2       |         17764786 | [(unnamed)](./17764786.md)                                           |        4 |
@@ -368,39 +367,40 @@
 | 0x010F11B7       |         17764791 | [(unnamed)](./17764791.md)                                           |        4 |
 | 0x010F11B8       |         17764792 | [(unnamed)](./17764792.md)                                           |        4 |
 | 0x010F11B9       |         17764793 | [(unnamed)](./17764793.md)                                           |        4 |
-| 0x010F11BA       |         17764794 | [Wetata](./17764794%20-%20Wetata.md)                                 |       80 |
-| 0x010F11BE       |         17764798 | [(unnamed)](./17764798.md)                                           |        1 |
-| 0x010F11BF       |         17764799 | [(unnamed)](./17764799.md)                                           |        3 |
-| 0x010F11C0       |         17764800 | [(unnamed)](./17764800.md)                                           |        2 |
-| 0x010F11C2       |         17764802 | [(unnamed)](./17764802.md)                                           |       12 |
-| 0x010F11C3       |         17764803 | [Iroha](./17764803%20-%20Iroha.md)                                   |       35 |
-| 0x010F11C4       |         17764804 | [Lion](./17764804%20-%20Lion.md)                                     |       14 |
-| 0x010F11C5       |         17764805 | [Zeid](./17764805%20-%20Zeid.md)                                     |       11 |
-| 0x010F11C6       |         17764806 | [(unnamed)](./17764806.md)                                           |       20 |
-| 0x010F11C7       |         17764807 | [Selhteus](./17764807%20-%20Selhteus.md)                             |       10 |
-| 0x010F11C8       |         17764808 | [Selhteus](./17764808%20-%20Selhteus.md)                             |        6 |
-| 0x010F11C9       |         17764809 | [Selhteus](./17764809%20-%20Selhteus.md)                             |        5 |
-| 0x010F11CA       |         17764810 | [Balamor](./17764810%20-%20Balamor.md)                               |        2 |
-| 0x010F11CB       |         17764811 | [(unnamed)](./17764811.md)                                           |        4 |
-| 0x010F11CC       |         17764812 | [(unnamed)](./17764812.md)                                           |        3 |
-| 0x010F11CD       |         17764813 | [(unnamed)](./17764813.md)                                           |        4 |
-| 0x010F11CE       |         17764814 | [Disjoined One](./17764814%20-%20Disjoined%20One.md)                 |       11 |
-| 0x010F11CF       |         17764815 | [Disjoined One](./17764815%20-%20Disjoined%20One.md)                 |       12 |
+| 0x010F11BA       |         17764794 | [(unnamed)](./17764794.md)                                           |        4 |
+| 0x010F11BB       |         17764795 | [Wetata](./17764795%20-%20Wetata.md)                                 |       80 |
+| 0x010F11BF       |         17764799 | [(unnamed)](./17764799.md)                                           |        1 |
+| 0x010F11C0       |         17764800 | [(unnamed)](./17764800.md)                                           |        3 |
+| 0x010F11C1       |         17764801 | [(unnamed)](./17764801.md)                                           |        2 |
+| 0x010F11C3       |         17764803 | [(unnamed)](./17764803.md)                                           |       12 |
+| 0x010F11C4       |         17764804 | [Iroha](./17764804%20-%20Iroha.md)                                   |       35 |
+| 0x010F11C5       |         17764805 | [Lion](./17764805%20-%20Lion.md)                                     |       14 |
+| 0x010F11C6       |         17764806 | [Zeid](./17764806%20-%20Zeid.md)                                     |       11 |
+| 0x010F11C7       |         17764807 | [(unnamed)](./17764807.md)                                           |       20 |
+| 0x010F11C8       |         17764808 | [Selhteus](./17764808%20-%20Selhteus.md)                             |       10 |
+| 0x010F11C9       |         17764809 | [Selhteus](./17764809%20-%20Selhteus.md)                             |        6 |
+| 0x010F11CA       |         17764810 | [Selhteus](./17764810%20-%20Selhteus.md)                             |        5 |
+| 0x010F11CB       |         17764811 | [Balamor](./17764811%20-%20Balamor.md)                               |        2 |
+| 0x010F11CC       |         17764812 | [(unnamed)](./17764812.md)                                           |        4 |
+| 0x010F11CD       |         17764813 | [(unnamed)](./17764813.md)                                           |        3 |
+| 0x010F11CE       |         17764814 | [(unnamed)](./17764814.md)                                           |        4 |
+| 0x010F11CF       |         17764815 | [Disjoined One](./17764815%20-%20Disjoined%20One.md)                 |       11 |
 | 0x010F11D0       |         17764816 | [Disjoined One](./17764816%20-%20Disjoined%20One.md)                 |       12 |
 | 0x010F11D1       |         17764817 | [Disjoined One](./17764817%20-%20Disjoined%20One.md)                 |       12 |
 | 0x010F11D2       |         17764818 | [Disjoined One](./17764818%20-%20Disjoined%20One.md)                 |       12 |
 | 0x010F11D3       |         17764819 | [Disjoined One](./17764819%20-%20Disjoined%20One.md)                 |       12 |
 | 0x010F11D4       |         17764820 | [Disjoined One](./17764820%20-%20Disjoined%20One.md)                 |       12 |
 | 0x010F11D5       |         17764821 | [Disjoined One](./17764821%20-%20Disjoined%20One.md)                 |       12 |
-| 0x010F11D6       |         17764822 | [(unnamed)](./17764822.md)                                           |       15 |
-| 0x010F11D7       |         17764823 | [(unnamed)](./17764823.md)                                           |       14 |
-| 0x010F11D8       |         17764824 | [Ephemeral Moogle](./17764824%20-%20Ephemeral%20Moogle.md)           |        5 |
+| 0x010F11D6       |         17764822 | [Disjoined One](./17764822%20-%20Disjoined%20One.md)                 |       12 |
+| 0x010F11D7       |         17764823 | [(unnamed)](./17764823.md)                                           |       15 |
+| 0x010F11D8       |         17764824 | [(unnamed)](./17764824.md)                                           |       14 |
 | 0x010F11D9       |         17764825 | [Ephemeral Moogle](./17764825%20-%20Ephemeral%20Moogle.md)           |        5 |
-| 0x010F11DA       |         17764826 | [Julissois](./17764826%20-%20Julissois.md)                           |        5 |
-| 0x010F11DB       |         17764827 | [Tergil](./17764827%20-%20Tergil.md)                                 |        5 |
-| 0x010F11DC       |         17764828 | [AMAN Validator](./17764828%20-%20AMAN%20Validator.md)               |        2 |
-| 0x010F11DD       |         17764829 | [(unnamed)](./17764829.md)                                           |        2 |
-| 0x010F11DE       |         17764830 | [AMAN Liaison](./17764830%20-%20AMAN%20Liaison.md)                   |        4 |
-| 0x010F11DF       |         17764831 | [Repairer Moogle](./17764831%20-%20Repairer%20Moogle.md)             |        4 |
-| 0x010F11E1       |         17764833 | [Tales Beginning](./17764833%20-%20Tales%20Beginning.md)             |        2 |
+| 0x010F11DA       |         17764826 | [Ephemeral Moogle](./17764826%20-%20Ephemeral%20Moogle.md)           |        5 |
+| 0x010F11DB       |         17764827 | [Julissois](./17764827%20-%20Julissois.md)                           |        5 |
+| 0x010F11DC       |         17764828 | [Tergil](./17764828%20-%20Tergil.md)                                 |        5 |
+| 0x010F11DD       |         17764829 | [AMAN Validator](./17764829%20-%20AMAN%20Validator.md)               |        2 |
+| 0x010F11DE       |         17764830 | [(unnamed)](./17764830.md)                                           |        2 |
+| 0x010F11DF       |         17764831 | [AMAN Liaison](./17764831%20-%20AMAN%20Liaison.md)                   |        4 |
+| 0x010F11E0       |         17764832 | [Repairer Moogle](./17764832%20-%20Repairer%20Moogle.md)             |        4 |
+| 0x010F11E2       |         17764834 | [Tales Beginning](./17764834%20-%20Tales%20Beginning.md)             |        2 |
 | 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                    |      137 |

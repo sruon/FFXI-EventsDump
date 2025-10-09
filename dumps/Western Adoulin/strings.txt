@@ -1,5 +1,5 @@
 # Strings for Western Adoulin
-# Total: 13233 strings
+# Total: 13241 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -13234,3 +13234,11 @@
 13230: While conducting his research in the Middle Lands, he remembered one important thing.
 13231: Twenty years ago, he met a man known as Duskraven in the Kingdom of San d'Oria.
 13232: He is wondering if that was the "man of high status" who appeared in the tales of old. He asked me to check it out if I ever have the chance.
+13233: You found a pumpkin containing $0!
+13234: You have found a pumpkin with $0 inside!
+13235: You have found all the pumpkins!
+13236: You have found seven or more pumpkins!
+13237: You sense the presence of a pumpkin in this area!
+13238: You have discovered a pumpkin! Cutting it open, you find $0 inside!
+13239: This pumpkin has already been claimed.
+13240: You have discovered five or more pumpkins!

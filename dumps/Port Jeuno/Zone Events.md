@@ -7332,26 +7332,26 @@ SUBROUTINE_5CF0:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 5EB0:       02 87 7F 75 80 80  DD 5E 5F 04 5F 81 F0 FF    ...u...^_._...
-5EC0: FF 7F F0 FF FF 7F 6B 69  7A 6D 5F 03 C4 81 A8 60  ......kizm_....`
-5ED0: 0F 01 A8 60 0F 01 68 6D  6D 6D 01 0A 60 02 87 7F  ...`..hmmm..`...
+5EC0: FF 7F F0 FF FF 7F 6B 69  7A 6D 5F 03 C4 81 A9 60  ......kizm_....`
+5ED0: 0F 01 A9 60 0F 01 68 6D  6D 6D 01 0A 60 02 87 7F  ...`..hmmm..`...
 5EE0: 81 80 80 08 5F 5F 04 C5  81 F0 FF FF 7F F0 FF FF  ....__..........
-5EF0: 7F 6B 69 7A 6D 5F 03 C4  81 A8 60 0F 01 A8 60 0F  .kizm_....`...`.
+5EF0: 7F 6B 69 7A 6D 5F 03 C4  81 A9 60 0F 01 A9 60 0F  .kizm_....`...`.
 5F00: 01 68 66 6D 6D 01 0A 60  02 87 7F 83 80 80 33 5F  .hfmm..`......3_
 5F10: 5F 04 66 81 F0 FF FF 7F  F0 FF FF 7F 6B 69 7A 6D  _.f.........kizm
-5F20: 5F 03 C4 81 A8 60 0F 01  A8 60 0F 01 65 6D 6D 6D  _....`...`..emmm
+5F20: 5F 03 C4 81 A9 60 0F 01  A9 60 0F 01 65 6D 6D 6D  _....`...`..emmm
 5F30: 01 0A 60 02 87 7F 85 80  80 5E 5F 5F 04 C6 81 F0  ..`......^__....
-5F40: FF FF 7F F0 FF FF 7F 6B  69 7A 6D 5F 03 C4 81 A8  .......kizm_....
-5F50: 60 0F 01 A8 60 0F 01 65  66 6D 6D 01 0A 60 02 87  `...`..efmm..`..
+5F40: FF FF 7F F0 FF FF 7F 6B  69 7A 6D 5F 03 C4 81 A9  .......kizm_....
+5F50: 60 0F 01 A9 60 0F 01 65  66 6D 6D 01 0A 60 02 87  `...`..efmm..`..
 5F60: 7F 0A 80 80 89 5F 5F 04  0A 81 F0 FF FF 7F F0 FF  .....__.........
-5F70: FF 7F 6B 69 7A 6D 5F 03  C4 81 A8 60 0F 01 A8 60  ..kizm_....`...`
+5F70: FF 7F 6B 69 7A 6D 5F 03  C4 81 A9 60 0F 01 A9 60  ..kizm_....`...`
 5F80: 0F 01 74 6D 61 6D 01 0A  60 02 87 7F 88 80 80 B4  ..tmam..`.......
 5F90: 5F 5F 04 0A 81 F0 FF FF  7F F0 FF FF 7F 6B 69 7A  __...........kiz
-5FA0: 6D 5F 03 C4 81 A8 60 0F  01 A8 60 0F 01 74 6D 61  m_....`...`..tma
+5FA0: 6D 5F 03 C4 81 A9 60 0F  01 A9 60 0F 01 74 6D 61  m_....`...`..tma
 5FB0: 6D 01 0A 60 02 87 7F 8A  80 80 DF 5F 5F 04 C7 81  m..`.......__...
 5FC0: F0 FF FF 7F F0 FF FF 7F  6B 69 7A 6D 5F 03 C4 81  ........kizm_...
-5FD0: A8 60 0F 01 A8 60 0F 01  6D 6D 61 6D 01 0A 60 02  .`...`..mmam..`.
+5FD0: A9 60 0F 01 A9 60 0F 01  6D 6D 61 6D 01 0A 60 02  .`...`..mmam..`.
 5FE0: 87 7F 8C 80 80 0A 60 5F  04 D6 80 F0 FF FF 7F F0  ......`_........
-5FF0: FF FF 7F 6B 69 7A 6D 5F  03 C4 81 A8 60 0F 01 A8  ...kizm_....`...
+5FF0: FF FF 7F 6B 69 7A 6D 5F  03 C4 81 A9 60 0F 01 A9  ...kizm_....`...
 6000: 60 0F 01 67 6D 61 6D 01  0A 60 00                 `..gmam..`.     
 ```
 
@@ -7360,35 +7360,35 @@ SUBROUTINE_5CF0:
 ```
   0: 0x5EB2 [0x02] IF !(LocalPlayer->Race == 1*) GOTO 0x5EDD
   1: 0x5EBA [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=141*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
-  2: 0x5ECA [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="hmmm")
+  2: 0x5ECA [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="hmmm")
   3: 0x5EDA [0x01] GOTO 0x600A
   4: 0x5EDD [0x02] IF !(LocalPlayer->Race == 2*) GOTO 0x5F08
   5: 0x5EE5 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=151*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
-  6: 0x5EF5 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="hfmm")
+  6: 0x5EF5 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="hfmm")
   7: 0x5F05 [0x01] GOTO 0x600A
   8: 0x5F08 [0x02] IF !(LocalPlayer->Race == 3*) GOTO 0x5F33
   9: 0x5F10 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=161*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 10: 0x5F20 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="emmm")
+ 10: 0x5F20 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="emmm")
  11: 0x5F30 [0x01] GOTO 0x600A
  12: 0x5F33 [0x02] IF !(LocalPlayer->Race == 4*) GOTO 0x5F5E
  13: 0x5F3B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=171*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 14: 0x5F4B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="efmm")
+ 14: 0x5F4B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="efmm")
  15: 0x5F5B [0x01] GOTO 0x600A
  16: 0x5F5E [0x02] IF !(LocalPlayer->Race == 5*) GOTO 0x5F89
  17: 0x5F66 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 18: 0x5F76 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="tmam")
+ 18: 0x5F76 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="tmam")
  19: 0x5F86 [0x01] GOTO 0x600A
  20: 0x5F89 [0x02] IF !(LocalPlayer->Race == 6*) GOTO 0x5FB4
  21: 0x5F91 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 22: 0x5FA1 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="tmam")
+ 22: 0x5FA1 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="tmam")
  23: 0x5FB1 [0x01] GOTO 0x600A
  24: 0x5FB4 [0x02] IF !(LocalPlayer->Race == 7*) GOTO 0x5FDF
  25: 0x5FBC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=191*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 26: 0x5FCC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="mmam")
+ 26: 0x5FCC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="mmam")
  27: 0x5FDC [0x01] GOTO 0x600A
  28: 0x5FDF [0x02] IF !(LocalPlayer->Race == 8*) GOTO 0x600A
  29: 0x5FE7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=201*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 30: 0x5FF7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="gmam")
+ 30: 0x5FF7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="gmam")
  31: 0x6007 [0x01] GOTO 0x600A
 
 SUBROUTINE_600A:
@@ -7410,26 +7410,26 @@ SUBROUTINE_600A:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 6000:                                   02 87 7F 75 80             ...u.
 6010: 80 36 60 5F 04 5F 81 F0  FF FF 7F F0 FF FF 7F 6B  .6`_._.........k
-6020: 69 7A 6C 5F 03 C4 81 A8  60 0F 01 A8 60 0F 01 68  izl_....`...`..h
+6020: 69 7A 6C 5F 03 C4 81 A9  60 0F 01 A9 60 0F 01 68  izl_....`...`..h
 6030: 6D 6C 6C 01 63 61 02 87  7F 81 80 80 61 60 5F 04  mll.ca......a`_.
 6040: C5 81 F0 FF FF 7F F0 FF  FF 7F 6B 69 7A 6C 5F 03  ..........kizl_.
-6050: C4 81 A8 60 0F 01 A8 60  0F 01 68 66 6C 6C 01 63  ...`...`..hfll.c
+6050: C4 81 A9 60 0F 01 A9 60  0F 01 68 66 6C 6C 01 63  ...`...`..hfll.c
 6060: 61 02 87 7F 83 80 80 8C  60 5F 04 66 81 F0 FF FF  a.......`_.f....
-6070: 7F F0 FF FF 7F 6B 69 7A  6C 5F 03 C4 81 A8 60 0F  .....kizl_....`.
-6080: 01 A8 60 0F 01 65 6D 6C  6C 01 63 61 02 87 7F 85  ..`..emll.ca....
+6070: 7F F0 FF FF 7F 6B 69 7A  6C 5F 03 C4 81 A9 60 0F  .....kizl_....`.
+6080: 01 A9 60 0F 01 65 6D 6C  6C 01 63 61 02 87 7F 85  ..`..emll.ca....
 6090: 80 80 B7 60 5F 04 C6 81  F0 FF FF 7F F0 FF FF 7F  ...`_...........
-60A0: 6B 69 7A 6C 5F 03 C4 81  A8 60 0F 01 A8 60 0F 01  kizl_....`...`..
+60A0: 6B 69 7A 6C 5F 03 C4 81  A9 60 0F 01 A9 60 0F 01  kizl_....`...`..
 60B0: 65 66 6C 6C 01 63 61 02  87 7F 0A 80 80 E2 60 5F  efll.ca.......`_
 60C0: 04 0A 81 F0 FF FF 7F F0  FF FF 7F 6B 69 7A 6C 5F  ...........kizl_
-60D0: 03 C4 81 A8 60 0F 01 A8  60 0F 01 74 6D 6C 6C 01  ....`...`..tmll.
+60D0: 03 C4 81 A9 60 0F 01 A9  60 0F 01 74 6D 6C 6C 01  ....`...`..tmll.
 60E0: 63 61 02 87 7F 88 80 80  0D 61 5F 04 0A 81 F0 FF  ca.......a_.....
-60F0: FF 7F F0 FF FF 7F 6B 69  7A 6C 5F 03 C4 81 A8 60  ......kizl_....`
-6100: 0F 01 A8 60 0F 01 74 6D  6C 6C 01 63 61 02 87 7F  ...`..tmll.ca...
+60F0: FF 7F F0 FF FF 7F 6B 69  7A 6C 5F 03 C4 81 A9 60  ......kizl_....`
+6100: 0F 01 A9 60 0F 01 74 6D  6C 6C 01 63 61 02 87 7F  ...`..tmll.ca...
 6110: 8A 80 80 38 61 5F 04 C7  81 F0 FF FF 7F F0 FF FF  ...8a_..........
-6120: 7F 6B 69 7A 6C 5F 03 C4  81 A8 60 0F 01 A8 60 0F  .kizl_....`...`.
+6120: 7F 6B 69 7A 6C 5F 03 C4  81 A9 60 0F 01 A9 60 0F  .kizl_....`...`.
 6130: 01 6D 6D 6C 6C 01 63 61  02 87 7F 8C 80 80 63 61  .mmll.ca......ca
 6140: 5F 04 D6 80 F0 FF FF 7F  F0 FF FF 7F 6B 69 7A 6C  _...........kizl
-6150: 5F 03 C4 81 A8 60 0F 01  A8 60 0F 01 67 6D 6C 6C  _....`...`..gmll
+6150: 5F 03 C4 81 A9 60 0F 01  A9 60 0F 01 67 6D 6C 6C  _....`...`..gmll
 6160: 01 63 61 00                                       .ca.            
 ```
 
@@ -7438,35 +7438,35 @@ SUBROUTINE_600A:
 ```
   0: 0x600B [0x02] IF !(LocalPlayer->Race == 1*) GOTO 0x6036
   1: 0x6013 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=141*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
-  2: 0x6023 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="hmll")
+  2: 0x6023 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="hmll")
   3: 0x6033 [0x01] GOTO 0x6163
   4: 0x6036 [0x02] IF !(LocalPlayer->Race == 2*) GOTO 0x6061
   5: 0x603E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=151*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
-  6: 0x604E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="hfll")
+  6: 0x604E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="hfll")
   7: 0x605E [0x01] GOTO 0x6163
   8: 0x6061 [0x02] IF !(LocalPlayer->Race == 3*) GOTO 0x608C
   9: 0x6069 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=161*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
- 10: 0x6079 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="emll")
+ 10: 0x6079 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="emll")
  11: 0x6089 [0x01] GOTO 0x6163
  12: 0x608C [0x02] IF !(LocalPlayer->Race == 4*) GOTO 0x60B7
  13: 0x6094 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=171*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
- 14: 0x60A4 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="efll")
+ 14: 0x60A4 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="efll")
  15: 0x60B4 [0x01] GOTO 0x6163
  16: 0x60B7 [0x02] IF !(LocalPlayer->Race == 5*) GOTO 0x60E2
  17: 0x60BF [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
- 18: 0x60CF [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="tmll")
+ 18: 0x60CF [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="tmll")
  19: 0x60DF [0x01] GOTO 0x6163
  20: 0x60E2 [0x02] IF !(LocalPlayer->Race == 6*) GOTO 0x610D
  21: 0x60EA [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
- 22: 0x60FA [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="tmll")
+ 22: 0x60FA [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="tmll")
  23: 0x610A [0x01] GOTO 0x6163
  24: 0x610D [0x02] IF !(LocalPlayer->Race == 7*) GOTO 0x6138
  25: 0x6115 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=191*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
- 26: 0x6125 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="mmll")
+ 26: 0x6125 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="mmll")
  27: 0x6135 [0x01] GOTO 0x6163
  28: 0x6138 [0x02] IF !(LocalPlayer->Race == 8*) GOTO 0x6163
  29: 0x6140 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=201*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizl")
- 30: 0x6150 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="gmll")
+ 30: 0x6150 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="gmll")
  31: 0x6160 [0x01] GOTO 0x6163
 
 SUBROUTINE_6163:
@@ -7488,26 +7488,26 @@ SUBROUTINE_6163:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 6160:             02 87 7F 75  80 80 8F 61 5F 04 5F 81      ...u...a_._.
 6170: F0 FF FF 7F F0 FF FF 7F  6B 69 7A 32 5F 03 C4 81  ........kiz2_...
-6180: A8 60 0F 01 A8 60 0F 01  68 6D 6D 32 01 BC 62 02  .`...`..hmm2..b.
+6180: A9 60 0F 01 A9 60 0F 01  68 6D 6D 32 01 BC 62 02  .`...`..hmm2..b.
 6190: 87 7F 81 80 80 BA 61 5F  04 C5 81 F0 FF FF 7F F0  ......a_........
-61A0: FF FF 7F 6B 69 7A 32 5F  03 C4 81 A8 60 0F 01 A8  ...kiz2_....`...
+61A0: FF FF 7F 6B 69 7A 32 5F  03 C4 81 A9 60 0F 01 A9  ...kiz2_....`...
 61B0: 60 0F 01 68 66 6D 32 01  BC 62 02 87 7F 83 80 80  `..hfm2..b......
 61C0: E5 61 5F 04 66 81 F0 FF  FF 7F F0 FF FF 7F 6B 69  .a_.f.........ki
-61D0: 7A 32 5F 03 C4 81 A8 60  0F 01 A8 60 0F 01 65 6D  z2_....`...`..em
+61D0: 7A 32 5F 03 C4 81 A9 60  0F 01 A9 60 0F 01 65 6D  z2_....`...`..em
 61E0: 6D 32 01 BC 62 02 87 7F  85 80 80 10 62 5F 04 C6  m2..b.......b_..
 61F0: 81 F0 FF FF 7F F0 FF FF  7F 6B 69 7A 32 5F 03 C4  .........kiz2_..
-6200: 81 A8 60 0F 01 A8 60 0F  01 65 66 6D 32 01 BC 62  ..`...`..efm2..b
+6200: 81 A9 60 0F 01 A9 60 0F  01 65 66 6D 32 01 BC 62  ..`...`..efm2..b
 6210: 02 87 7F 0A 80 80 3B 62  5F 04 0A 81 F0 FF FF 7F  ......;b_.......
-6220: F0 FF FF 7F 6B 69 7A 32  5F 03 C4 81 A8 60 0F 01  ....kiz2_....`..
-6230: A8 60 0F 01 74 6D 61 32  01 BC 62 02 87 7F 88 80  .`..tma2..b.....
+6220: F0 FF FF 7F 6B 69 7A 32  5F 03 C4 81 A9 60 0F 01  ....kiz2_....`..
+6230: A9 60 0F 01 74 6D 61 32  01 BC 62 02 87 7F 88 80  .`..tma2..b.....
 6240: 80 66 62 5F 04 0A 81 F0  FF FF 7F F0 FF FF 7F 6B  .fb_...........k
-6250: 69 7A 32 5F 03 C4 81 A8  60 0F 01 A8 60 0F 01 74  iz2_....`...`..t
+6250: 69 7A 32 5F 03 C4 81 A9  60 0F 01 A9 60 0F 01 74  iz2_....`...`..t
 6260: 6D 61 32 01 BC 62 02 87  7F 8A 80 80 91 62 5F 04  ma2..b.......b_.
 6270: C7 81 F0 FF FF 7F F0 FF  FF 7F 6B 69 7A 32 5F 03  ..........kiz2_.
-6280: C4 81 A8 60 0F 01 A8 60  0F 01 6D 6D 61 32 01 BC  ...`...`..mma2..
+6280: C4 81 A9 60 0F 01 A9 60  0F 01 6D 6D 61 32 01 BC  ...`...`..mma2..
 6290: 62 02 87 7F 8C 80 80 BC  62 5F 04 D6 80 F0 FF FF  b.......b_......
-62A0: 7F F0 FF FF 7F 6B 69 7A  32 5F 03 C4 81 A8 60 0F  .....kiz2_....`.
-62B0: 01 A8 60 0F 01 67 6D 61  32 01 BC 62 00           ..`..gma2..b.   
+62A0: 7F F0 FF FF 7F 6B 69 7A  32 5F 03 C4 81 A9 60 0F  .....kiz2_....`.
+62B0: 01 A9 60 0F 01 67 6D 61  32 01 BC 62 00           ..`..gma2..b.   
 ```
 
 #### Opcodes
@@ -7515,35 +7515,35 @@ SUBROUTINE_6163:
 ```
   0: 0x6164 [0x02] IF !(LocalPlayer->Race == 1*) GOTO 0x618F
   1: 0x616C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=141*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
-  2: 0x617C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="hmm2")
+  2: 0x617C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="hmm2")
   3: 0x618C [0x01] GOTO 0x62BC
   4: 0x618F [0x02] IF !(LocalPlayer->Race == 2*) GOTO 0x61BA
   5: 0x6197 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=151*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
-  6: 0x61A7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="hfm2")
+  6: 0x61A7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="hfm2")
   7: 0x61B7 [0x01] GOTO 0x62BC
   8: 0x61BA [0x02] IF !(LocalPlayer->Race == 3*) GOTO 0x61E5
   9: 0x61C2 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=161*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
- 10: 0x61D2 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="emm2")
+ 10: 0x61D2 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="emm2")
  11: 0x61E2 [0x01] GOTO 0x62BC
  12: 0x61E5 [0x02] IF !(LocalPlayer->Race == 4*) GOTO 0x6210
  13: 0x61ED [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=171*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
- 14: 0x61FD [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="efm2")
+ 14: 0x61FD [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="efm2")
  15: 0x620D [0x01] GOTO 0x62BC
  16: 0x6210 [0x02] IF !(LocalPlayer->Race == 5*) GOTO 0x623B
  17: 0x6218 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
- 18: 0x6228 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="tma2")
+ 18: 0x6228 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="tma2")
  19: 0x6238 [0x01] GOTO 0x62BC
  20: 0x623B [0x02] IF !(LocalPlayer->Race == 6*) GOTO 0x6266
  21: 0x6243 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
- 22: 0x6253 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="tma2")
+ 22: 0x6253 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="tma2")
  23: 0x6263 [0x01] GOTO 0x62BC
  24: 0x6266 [0x02] IF !(LocalPlayer->Race == 7*) GOTO 0x6291
  25: 0x626E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=191*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
- 26: 0x627E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="mma2")
+ 26: 0x627E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="mma2")
  27: 0x628E [0x01] GOTO 0x62BC
  28: 0x6291 [0x02] IF !(LocalPlayer->Race == 8*) GOTO 0x62BC
  29: 0x6299 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=201*, entity1=LocalPlayer, entity2=LocalPlayer, string="kiz2")
- 30: 0x62A9 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785000/0x010F60A8), entity2=Unnamed NPC (ID: 17785000/0x010F60A8), string="gma2")
+ 30: 0x62A9 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17785001/0x010F60A9), entity2=Unnamed NPC (ID: 17785001/0x010F60A9), string="gma2")
  31: 0x62B9 [0x01] GOTO 0x62BC
 
 SUBROUTINE_62BC:
@@ -7565,7 +7565,7 @@ SUBROUTINE_62BC:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 62B0:                                         32 04 80               2..
 62C0: 1F 00 C8 81 C9 81 02 80  1F 01 79 00 F0 FF FF 7F  ..........y.....
-62D0: A5 60 0F 01 00                                    .`...           
+62D0: A6 60 0F 01 00                                    .`...           
 ```
 
 #### Opcodes
@@ -7574,7 +7574,7 @@ SUBROUTINE_62BC:
   0: 0x62BD [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x62C0 [0x1F] MOVE_ENTITY: EventEntity moves to X=-9.306*, Z=0.537*, Y=0.000*
   2: 0x62C8 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x62CA [0x79] LocalPlayer looks at Prishe (ID: 17784997/0x010F60A5) (Basic look)
+  3: 0x62CA [0x79] LocalPlayer looks at Prishe (ID: 17784998/0x010F60A6) (Basic look)
   4: 0x62D4 [0x00] END_REQSTACK()
 ```
 

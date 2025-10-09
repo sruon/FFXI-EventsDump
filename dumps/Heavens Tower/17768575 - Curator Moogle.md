@@ -5,16 +5,16 @@
 | Field            | Value                   |
 |------------------|-------------------------|
 | Zone             | Heavens Tower (ID: 242) |
-| Block Size       | 848 bytes               |
+| Block Size       | 1124 bytes              |
 | Total Events     | 2                       |
-| References Count | 42                      |
+| References Count | 75                      |
 
 ## List of Events
 
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [464](#event-464)     | 0x0001       |    655 |            141 |
+| [464](#event-464)     | 0x0001       |    799 |            171 |
 
 ## DAT References (imed_data)
 
@@ -25,7 +25,7 @@
 |       2 | 0x0001      |           1 |
 |       3 | 0xFFFFFFFF  |  4294967295 |
 |       4 | 0x0007      |           7 |
-|       5 | 0x0009      |           9 |
+|       5 | 0x0013      |          19 |
 |       6 | 0x0008      |           8 |
 |       7 | 0x0014      |          20 |
 |       8 | 0x25D1      |        9681 |
@@ -62,6 +62,39 @@
 |      39 | 0x170B      |        5899 |
 |      40 | 0x0370      |         880 |
 |      41 | 0x170A      |        5898 |
+|      42 | 0x00BC      |         188 |
+|      43 | 0x1262      |        4706 |
+|      44 | 0x1263      |        4707 |
+|      45 | 0x10CA      |        4298 |
+|      46 | 0x50AF      |       20655 |
+|      47 | 0x0CF4      |        3316 |
+|      48 | 0x01CA      |         458 |
+|      49 | 0x01C9      |         457 |
+|      50 | 0x3ECC      |       16076 |
+|      51 | 0x0682      |        1666 |
+|      52 | 0x048B      |        1163 |
+|      53 | 0x065A      |        1626 |
+|      54 | 0x64D6      |       25814 |
+|      55 | 0x00CC      |         204 |
+|      56 | 0x00CB      |         203 |
+|      57 | 0x00CD      |         205 |
+|      58 | 0x6501      |       25857 |
+|      59 | 0x05AC      |        1452 |
+|      60 | 0x026E      |         622 |
+|      61 | 0x0397      |         919 |
+|      62 | 0x1708      |        5896 |
+|      63 | 0x1160      |        4448 |
+|      64 | 0x1707      |        5895 |
+|      65 | 0x027C      |         636 |
+|      66 | 0x039B      |         923 |
+|      67 | 0x1709      |        5897 |
+|      68 | 0x05AF      |        1455 |
+|      69 | 0x03AF      |         943 |
+|      70 | 0x170F      |        5903 |
+|      71 | 0x039A      |         922 |
+|      72 | 0x1710      |        5904 |
+|      73 | 0x03BB      |         955 |
+|      74 | 0x1711      |        5905 |
 
 ## String References
 
@@ -102,7 +135,7 @@
 | Field        | Value     |
 |--------------|-----------|
 | Entrypoint   | 0x0001    |
-| Data Size    | 655 bytes |
+| Data Size    | 799 bytes |
 | Instructions | 18        |
 
 ```
@@ -148,7 +181,16 @@
 0250: 1F 80 24 80 01 80 01 80  01 80 01 80 01 80 25 80  ..$...........%.
 0260: 1F 80 26 80 01 80 01 80  01 80 01 80 01 80 27 80  ..&...........'.
 0270: 1F 80 28 80 01 80 01 80  01 80 01 80 01 80 29 80  ..(...........).
-0280: 02 80 02 80 01 80 01 80  01 80 01 80 01 80 01 80  ................
+0280: 16 80 2A 80 2B 80 2C 80  2D 80 01 80 01 80 2E 80  ..*.+.,.-.......
+0290: 12 80 2F 80 30 80 01 80  01 80 01 80 01 80 31 80  ../.0.........1.
+02A0: 32 80 33 80 34 80 35 80  01 80 01 80 01 80 36 80  2.3.4.5.......6.
+02B0: 37 80 38 80 39 80 01 80  01 80 01 80 01 80 3A 80  7.8.9.........:.
+02C0: 3B 80 3C 80 3D 80 01 80  01 80 01 80 01 80 3E 80  ;.<.=.........>.
+02D0: 3B 80 3C 80 3F 80 01 80  01 80 01 80 01 80 40 80  ;.<.?.........@.
+02E0: 3B 80 41 80 42 80 01 80  01 80 01 80 01 80 43 80  ;.A.B.........C.
+02F0: 44 80 45 80 01 80 01 80  01 80 01 80 01 80 46 80  D.E...........F.
+0300: 44 80 47 80 01 80 01 80  01 80 01 80 01 80 48 80  D.G...........H.
+0310: 44 80 49 80 01 80 01 80  01 80 01 80 01 80 4A 80  D.I...........J.
 ```
 
 #### Opcodes
@@ -166,7 +208,7 @@
   8: 0x001C [0x03] ExtData[1]->WorkLocal[0] = 4294967295*
   9: 0x0021 [0x03] ExtData[1]->WorkLocal[2] = 0*
  10: 0x0026 [0x03] ExtData[1]->WorkLocal[13] = 7*
- 11: 0x002B [0x02] IF !(ExtData[1]->WorkLocal[2] >= 9*) GOTO 0x005B
+ 11: 0x002B [0x02] IF !(ExtData[1]->WorkLocal[2] >= 19*) GOTO 0x005B
  12: 0x0033 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[2], condition_work_offset=1*)
  13: 0x003A [0x9D] ExtData[1]->WorkLocal[1] = 0x01F0[ExtData[1]->WorkLocal[13]] // Read WORD
  14: 0x0042 [0x9D] 0x01C0[ExtData[1]->WorkLocal[2] * 2] = ExtData[1]->WorkLocal[1] // Write WORD
@@ -301,8 +343,38 @@
      0x0274 [0x01] GOTO 0x0180
      0x0277 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
      0x027C [0x01] GOTO 0x2980
-     0x027F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147647490/0x80028002))
-     0x0284 [0x01] GOTO 0x0180
-     0x0287 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x028C [0x01] GOTO 0x0180
+     0x027F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150268950/0x802A8016))
+     0x0284 [0x2B] Unknown NPC (ID: 763374720/0x2D802C80) [0x0180]:
+     0x028B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150531073/0x802E8001))
+     0x0290 [0x12] 0x2F80 = rand()
+     0x0293 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147582000/0x80018030))
+     0x0298 [0x01] GOTO 0x0180
+     0x029B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150727681/0x80318001))
+     0x02A0 [0x32] ExtData[1]->MainSpeed = 0x3380 * 0.1
+     0x02A3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150989876/0x80358034))
+     0x02A8 [0x01] GOTO 0x0180
+     0x02AB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151055361/0x80368001))
+     0x02B0 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=0x3880, z=0x3980, y=0x0180, direction=0x0180
+     0x02B9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02BE [0x3A] CONVERT_YAW_TO_BYTE(entity=Unknown NPC (ID: 1015036800/0x3C803B80), result_destination=0x3D80)
+     0x02C5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02CA [0x01] GOTO 0x0180
+     0x02CD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151383102/0x803B803E))
+     0x02D2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=0x3F80, bit_index_work_offset=0x0180, condition_work_offset=0x0180)
+     0x02D9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02DE [0x40] SET_BIT_WORK_RANGE(start_bit=0x3B80, end_bit=0x4180, target=0x4280, source=0x0180)
+     0x02E7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02EC [0x01] GOTO 0x4380
+     0x02EF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152038468/0x80458044))
+     0x02F4 [0x01] GOTO 0x0180
+     0x02F7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02FC [0x01] GOTO 0x4680
+     0x02FF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152169540/0x80478044))
+     0x0304 [0x01] GOTO 0x0180
+     0x0307 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x030C [0x01] GOTO 0x4880
+     0x030F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152300612/0x80498044))
+     0x0314 [0x01] GOTO 0x0180
+     0x0317 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x031C [0x01] GOTO 0x4A80
 ```

@@ -5,7 +5,7 @@
 | Field            | Value                |
 |------------------|----------------------|
 | Zone             | Mog Garden (ID: 280) |
-| Block Size       | 10368 bytes          |
+| Block Size       | 10412 bytes          |
 | Total Events     | 7                    |
 | References Count | 113                  |
 
@@ -17,9 +17,9 @@
 | [65534](#event-65534)    | 0x0001       |      1 |              1 |
 | [1077](#event-1077)      | 0x0002       |      4 |              2 |
 | [1082](#event-1082)      | 0x0006       |      4 |              2 |
-| [65535.1](#event-655351) | 0x000A       |   3541 |            573 |
-| [2050](#event-2050)      | 0x0DDF       |      1 |              1 |
-| [2051](#event-2051)      | 0x0DE0       |   6320 |           1073 |
+| [65535.1](#event-655351) | 0x000A       |   3584 |            581 |
+| [2050](#event-2050)      | 0x0E0A       |      1 |              1 |
+| [2051](#event-2051)      | 0x0E0B       |   6320 |           1073 |
 
 ## DAT References (imed_data)
 
@@ -268,13 +268,13 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0000:                   01 E8  0C 00                          ....      
+0000:                   01 13  0D 00                          ....      
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0006 [0x01] GOTO 0x0CE8
+  0: 0x0006 [0x01] GOTO 0x0D13
 ```
 
 #### Data or dead code:
@@ -291,7 +291,7 @@
 | Field        | Value      |
 |--------------|------------|
 | Entrypoint   | 0x000A     |
-| Data Size    | 3541 bytes |
+| Data Size    | 3584 bytes |
 | Instructions | 33         |
 
 ```
@@ -311,7 +311,7 @@
 00B0: D2 00 CD 0D 80 F8 FF FF  7F F8 FF FF 7F 6B 6C 6D  .............klm
 00C0: 79 00 80 CE 0D 80 F8 FF  FF 7F F8 FF FF 7F 6B 6C  y.............kl
 00D0: 6D 79 01 D7 00 22 01 00  03 0B 00 05 10 03 0D 00  my..."..........
-00E0: 06 10 1A 8D 0C 1E F0 FF  FF 7F 06 10 00 03 0F 00  ................
+00E0: 06 10 1A B8 0C 1E F0 FF  FF 7F 06 10 00 03 0F 00  ................
 00F0: 08 80 02 0F 00 00 80 02  DD 0B 3E 06 00 00 80 9D  ..........>.....
 0100: 07 42 46 01 45 0E 80 F0  FF FF 7F F0 FF FF 7F 66  .BF.E..........f
 0110: 64 6F 31 00 80 55 0E 80  F0 FF FF 7F F0 FF FF 7F  do1..U..........
@@ -366,8 +366,8 @@
 0420: FF 7F F0 FF FF 7F 66 64  6F 31 00 80 55 0E 80 F0  ......fdo1..U...
 0430: FF FF 7F F0 FF FF 7F 66  64 6F 31 4E 00 89 80 11  .......fdo1N....
 0440: 01 4E 00 8A 80 11 01 4E  00 8B 80 11 01 4E 00 8C  .N.....N.....N..
-0450: 80 11 01 4E 00 8D 80 11  01 1A C0 16 1A 69 16 1A  ...N.........i..
-0460: 77 16 1A 85 16 1A 93 16  46 00 45 0E 80 F0 FF FF  w.......F.E.....
+0450: 80 11 01 4E 00 8D 80 11  01 1A EB 16 1A 94 16 1A  ...N............
+0460: A2 16 1A B0 16 1A BE 16  46 00 45 0E 80 F0 FF FF  ........F.E.....
 0470: 7F F0 FF FF 7F 66 64 69  31 00 80 21 06 0F 00 01  .....fdi1..!....
 0480: 97 07 02 00 10 08 80 00  01 06 29 08 1D 80 11 01  ..........).....
 0490: 6A 48 23 80 23 03 02 10  0B 00 03 03 10 0C 00 07  jH#.#...........
@@ -389,7 +389,7 @@
 0590: 11 01 4E 00 8A 80 11 01  4E 00 8B 80 11 01 4E 00  ..N.....N.....N.
 05A0: 8C 80 11 01 4E 00 8D 80  11 01 CD 0D 80 F8 FF FF  ....N...........
 05B0: 7F F8 FF FF 7F 6B 6C 6D  79 00 80 48 26 80 23 1A  .....klmy..H&.#.
-05C0: C0 16 1A 69 16 1A 77 16  1A 85 16 1A 93 16 46 00  ...i..w.......F.
+05C0: EB 16 1A 94 16 1A A2 16  1A B0 16 1A BE 16 46 00  ..............F.
 05D0: 45 0E 80 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 00  E..........fdi1.
 05E0: 80 20 00 21 00 01 F0 05  2B 1D 80 11 01 27 80 23  . .!....+....'.#
 05F0: 01 FE 05 02 00 10 08 80  00 FE 05 01 FE 05 01 97  ................
@@ -415,7 +415,7 @@
 0730: 01 68 65 64 30 5B 2A 80  5B 80 11 01 5B 80 11 01  .hed0[*.[...[...
 0740: 68 65 64 31 4E 01 5B 80  11 01 2F 01 5B 80 11 01  hed1N.[.../.[...
 0750: 06 01 10 40 04 80 05 80  01 10 2C 80 43 00 43 01  ...@......,.C.C.
-0760: 1A C0 16 1A 69 16 1A 77  16 1A 85 16 1A 93 16 46  ....i..w.......F
+0760: 1A EB 16 1A 94 16 1A A2  16 1A B0 16 1A BE 16 46  ...............F
 0770: 00 45 0E 80 F0 FF FF 7F  F0 FF FF 7F 66 64 69 31  .E..........fdi1
 0780: 00 80 20 00 21 00 01 94  07 02 00 10 08 80 00 94  .. .!...........
 0790: 07 01 94 07 01 97 07 01  03 04 01 DA 0B 3E 06 00  .............>..
@@ -486,39 +486,42 @@
 0BA0: 80 48 44 80 23 CE 0D 80  F8 FF FF 7F F8 FF FF 7F  .HD.#...........
 0BB0: 6F 6E 6D 79 CD 0D 80 F8  FF FF 7F F8 FF FF 7F 6F  onmy...........o
 0BC0: 66 6D 79 00 80 2E 06 0F  00 01 D7 0B 02 00 10 08  fmy.............
-0BD0: 80 00 D7 0B 01 D7 0B 01  DA 0B 01 F2 00 21 00 0B  .............!..
-0BE0: 0F 00 02 0F 00 08 80 02  8C 0C 48 4C 80 71 32 1C  ..........HL.q2.
-0BF0: 80 05 80 71 31 12 00 9D  08 12 00 01 00 00 00 00  ...q1...........
-0C00: 00 00 00 00 00 00 00 00  00 00 00 00 86 0C B4 01  ................
-0C10: 16 00 00 80 B4 04 12 00  00 80 24 4D 80 00 80 00  ..........$M....
-0C20: 80 25 02 00 10 00 80 00  64 0C 42 71 03 02 10 02  .%......d.Bq....
-0C30: 02 10 00 80 00 58 0C 71  01 CD 39 80 F8 FF FF 7F  .....X.q..9.....
-0C40: F8 FF FF 7F 6D 61 69 6E  00 80 2B 87 80 11 01 4E  ....main..+....N
-0C50: 80 23 0C 0F 00 01 60 0C  2B 87 80 11 01 4F 80 23  .#....`.+....O.#
-0C60: 2E 01 83 0C 02 00 10 08  80 00 6F 0C 01 83 0C 02  ..........o.....
-0C70: 00 10 1C 80 00 83 0C B4  04 16 00 00 80 0C 0F 00  ................
-0C80: 01 83 0C 01 89 0C 0C 0F  00 01 E2 0B 1B 41 00 80  .............A..
-0C90: 03 80 02 10 02 00 41 00  80 50 80 03 10 03 00 41  ......A..P.....A
-0CA0: 04 80 05 80 03 10 04 00  41 02 80 51 80 03 10 05  ........A..Q....
-0CB0: 00 41 52 80 03 80 03 10  06 00 41 00 80 50 80 04  .AR.......A..P..
-0CC0: 10 07 00 41 04 80 05 80  04 10 08 00 41 02 80 53  ...A........A..S
-0CD0: 80 04 10 09 00 41 0F 80  0F 80 04 10 0A 00 41 54  .....A........AT
-0CE0: 80 51 80 04 10 0C 00 1B  42 1E F0 FF FF 7F 48 55  .Q......B.....HU
-0CF0: 80 23 02 02 10 00 80 80  01 0D 48 43 80 23 01 C2  .#........HC.#..
-0D00: 0D 02 02 10 08 80 80 41  0D CD 0D 80 F8 FF FF 7F  .......A........
-0D10: F8 FF FF 7F 6F 6E 6D 79  00 80 48 44 80 23 CE 0D  ....onmy..HD.#..
-0D20: 80 F8 FF FF 7F F8 FF FF  7F 6F 6E 6D 79 CD 0D 80  .........onmy...
-0D30: F8 FF FF 7F F8 FF FF 7F  6F 66 6D 79 00 80 01 C2  ........ofmy....
-0D40: 0D 02 02 10 1C 80 80 50  0D 48 45 80 23 01 C2 0D  .......P.HE.#...
-0D50: 02 02 10 1D 80 80 70 0D  CD 39 80 F8 FF FF 7F F8  ......p..9......
-0D60: FF FF 7F 6D 61 69 6E 00  80 48 46 80 23 01 C2 0D  ...main..HF.#...
-0D70: 02 02 10 07 80 80 B3 0D  CD 2D 80 F8 FF FF 7F F8  .........-......
-0D80: FF FF 7F 6F 6E 6F 6E 00  80 48 47 80 23 CE 2D 80  ...onon..HG.#.-.
-0D90: F8 FF FF 7F F8 FF FF 7F  6F 6E 6F 6E CD 2D 80 F8  ........onon.-..
-0DA0: FF FF 7F F8 FF FF 7F 6F  66 6F 6E 00 80 1C 08 80  .......ofon.....
-0DB0: 01 C2 0D 02 02 10 48 80  80 C2 0D 48 43 80 23 01  ......H....HC.#.
-0DC0: C2 0D 02 04 10 08 80 00  D1 0D 48 56 80 23 01 DD  ..........HV.#..
-0DD0: 0D 02 04 10 1C 80 00 DD  0D 48 57 80 23 21 00     .........HW.#!. 
+0BD0: 80 00 D7 0B 01 D7 0B 01  DA 0B 01 F2 00 21 00 B4  .............!..
+0BE0: 01 16 00 00 80 0B 0F 00  02 0F 00 08 80 02 B7 0C  ................
+0BF0: 48 4C 80 71 32 1C 80 05  80 71 31 12 00 9D 08 12  HL.q2....q1.....
+0C00: 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+0C10: 00 00 AB 0C B4 04 12 00  00 80 24 4D 80 00 80 00  ..........$M....
+0C20: 80 25 02 00 10 00 80 00  83 0C 42 71 03 02 10 02  .%........Bq....
+0C30: 02 10 00 80 00 71 0C 71  01 02 02 10 00 80 00 60  .....q.q.......`
+0C40: 0C CD 39 80 F8 FF FF 7F  F8 FF FF 7F 6D 61 69 6E  ..9.........main
+0C50: 00 80 2B 87 80 11 01 4E  80 23 0C 0F 00 01 6E 0C  ..+....N.#....n.
+0C60: 2B 87 80 11 01 4F 80 23  B4 04 16 00 00 80 01 7F  +....O.#........
+0C70: 0C 2B 87 80 11 01 4F 80  23 B4 04 16 00 00 80 2E  .+....O.#.......
+0C80: 01 A8 0C 02 00 10 08 80  00 94 0C B4 04 16 00 00  ................
+0C90: 80 01 A8 0C 02 00 10 1C  80 00 A8 0C B4 04 16 00  ................
+0CA0: 00 80 0C 0F 00 01 A8 0C  01 B4 0C B4 04 16 00 00  ................
+0CB0: 80 0C 0F 00 01 E8 0B 1B  41 00 80 03 80 02 10 02  ........A.......
+0CC0: 00 41 00 80 50 80 03 10  03 00 41 04 80 05 80 03  .A..P.....A.....
+0CD0: 10 04 00 41 02 80 51 80  03 10 05 00 41 52 80 03  ...A..Q.....AR..
+0CE0: 80 03 10 06 00 41 00 80  50 80 04 10 07 00 41 04  .....A..P.....A.
+0CF0: 80 05 80 04 10 08 00 41  02 80 53 80 04 10 09 00  .......A..S.....
+0D00: 41 0F 80 0F 80 04 10 0A  00 41 54 80 51 80 04 10  A........AT.Q...
+0D10: 0C 00 1B 42 1E F0 FF FF  7F 48 55 80 23 02 02 10  ...B.....HU.#...
+0D20: 00 80 80 2C 0D 48 43 80  23 01 ED 0D 02 02 10 08  ...,.HC.#.......
+0D30: 80 80 6C 0D CD 0D 80 F8  FF FF 7F F8 FF FF 7F 6F  ..l............o
+0D40: 6E 6D 79 00 80 48 44 80  23 CE 0D 80 F8 FF FF 7F  nmy..HD.#.......
+0D50: F8 FF FF 7F 6F 6E 6D 79  CD 0D 80 F8 FF FF 7F F8  ....onmy........
+0D60: FF FF 7F 6F 66 6D 79 00  80 01 ED 0D 02 02 10 1C  ...ofmy.........
+0D70: 80 80 7B 0D 48 45 80 23  01 ED 0D 02 02 10 1D 80  ..{.HE.#........
+0D80: 80 9B 0D CD 39 80 F8 FF  FF 7F F8 FF FF 7F 6D 61  ....9.........ma
+0D90: 69 6E 00 80 48 46 80 23  01 ED 0D 02 02 10 07 80  in..HF.#........
+0DA0: 80 DE 0D CD 2D 80 F8 FF  FF 7F F8 FF FF 7F 6F 6E  ....-.........on
+0DB0: 6F 6E 00 80 48 47 80 23  CE 2D 80 F8 FF FF 7F F8  on..HG.#.-......
+0DC0: FF FF 7F 6F 6E 6F 6E CD  2D 80 F8 FF FF 7F F8 FF  ...onon.-.......
+0DD0: FF 7F 6F 66 6F 6E 00 80  1C 08 80 01 ED 0D 02 02  ..ofon..........
+0DE0: 10 48 80 80 ED 0D 48 43  80 23 01 ED 0D 02 04 10  .H....HC.#......
+0DF0: 08 80 00 FC 0D 48 56 80  23 01 08 0E 02 04 10 1C  .....HV.#.......
+0E00: 80 00 08 0E 48 57 80 23  21 00                    ....HW.#!.      
 ```
 
 #### Opcodes
@@ -571,7 +574,7 @@ SUBROUTINE_00D7:
 # Dead code (unreachable instructions):
      0x00D8 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[5]
      0x00DD [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[6]
-     0x00E2 [0x1A] CALL_SUBROUTINE(address=0x0C8D)
+     0x00E2 [0x1A] CALL_SUBROUTINE(address=0x0CB8)
      0x00E5 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x00EA [0x06] ExtData[1]->WorkLocal[16] = 0
      0x00ED [0x03] ExtData[1]->WorkLocal[15] = 1*
@@ -697,11 +700,11 @@ SUBROUTINE_00D7:
      0x0447 [0x4E] SET_ENTITY_HIDE_FLAG: Show Breeding Monster02 (ID: 17924235/0x0111808B)
      0x044D [0x4E] SET_ENTITY_HIDE_FLAG: Show Breeding Monster03 (ID: 17924236/0x0111808C)
      0x0453 [0x4E] SET_ENTITY_HIDE_FLAG: Show Breeding Monster00 (ID: 17924237/0x0111808D)
-     0x0459 [0x1A] CALL_SUBROUTINE(address=0x16C0)
-     0x045C [0x1A] CALL_SUBROUTINE(address=0x1669)
-     0x045F [0x1A] CALL_SUBROUTINE(address=0x1677)
-     0x0462 [0x1A] CALL_SUBROUTINE(address=0x1685)
-     0x0465 [0x1A] CALL_SUBROUTINE(address=0x1693)
+     0x0459 [0x1A] CALL_SUBROUTINE(address=0x16EB)
+     0x045C [0x1A] CALL_SUBROUTINE(address=0x1694)
+     0x045F [0x1A] CALL_SUBROUTINE(address=0x16A2)
+     0x0462 [0x1A] CALL_SUBROUTINE(address=0x16B0)
+     0x0465 [0x1A] CALL_SUBROUTINE(address=0x16BE)
      0x0468 [0x46] CAMERA_CONTROL: Restore default settings
      0x046A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x047B [0x21] END_EVENT
@@ -753,11 +756,11 @@ SUBROUTINE_00D7:
      0x05BB [0x48] [System] [8736*]:
     → "The darkness no longer dwells within %0's heart."
      0x05BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x05BF [0x1A] CALL_SUBROUTINE(address=0x16C0)
-     0x05C2 [0x1A] CALL_SUBROUTINE(address=0x1669)
-     0x05C5 [0x1A] CALL_SUBROUTINE(address=0x1677)
-     0x05C8 [0x1A] CALL_SUBROUTINE(address=0x1685)
-     0x05CB [0x1A] CALL_SUBROUTINE(address=0x1693)
+     0x05BF [0x1A] CALL_SUBROUTINE(address=0x16EB)
+     0x05C2 [0x1A] CALL_SUBROUTINE(address=0x1694)
+     0x05C5 [0x1A] CALL_SUBROUTINE(address=0x16A2)
+     0x05C8 [0x1A] CALL_SUBROUTINE(address=0x16B0)
+     0x05CB [0x1A] CALL_SUBROUTINE(address=0x16BE)
      0x05CE [0x46] CAMERA_CONTROL: Restore default settings
      0x05D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x05E1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -815,11 +818,11 @@ SUBROUTINE_00D7:
      0x0753 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=12*)
      0x075C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x075E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x0760 [0x1A] CALL_SUBROUTINE(address=0x16C0)
-     0x0763 [0x1A] CALL_SUBROUTINE(address=0x1669)
-     0x0766 [0x1A] CALL_SUBROUTINE(address=0x1677)
-     0x0769 [0x1A] CALL_SUBROUTINE(address=0x1685)
-     0x076C [0x1A] CALL_SUBROUTINE(address=0x1693)
+     0x0760 [0x1A] CALL_SUBROUTINE(address=0x16EB)
+     0x0763 [0x1A] CALL_SUBROUTINE(address=0x1694)
+     0x0766 [0x1A] CALL_SUBROUTINE(address=0x16A2)
+     0x0769 [0x1A] CALL_SUBROUTINE(address=0x16B0)
+     0x076C [0x1A] CALL_SUBROUTINE(address=0x16BE)
      0x076F [0x46] CAMERA_CONTROL: Restore default settings
      0x0771 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x0782 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1058,109 +1061,118 @@ SUBROUTINE_00D7:
      0x0BDA [0x01] GOTO 0x00F2
      0x0BDD [0x21] END_EVENT
      0x0BDE [0x00] END_REQSTACK()
-     0x0BDF [0x0B] ExtData[1]->WorkLocal[15]++
-     0x0BE2 [0x02] IF !(ExtData[1]->WorkLocal[15] <= 1*) GOTO 0x0C8C
-     0x0BEA [0x48] [System] [8724*]:
+     0x0BDF [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=ExtData[1]->WorkLocal[22], string_index=0*)
+     0x0BE5 [0x0B] ExtData[1]->WorkLocal[15]++
+     0x0BE8 [0x02] IF !(ExtData[1]->WorkLocal[15] <= 1*) GOTO 0x0CB7
+     0x0BF0 [0x48] [System] [8724*]:
     → "Please bestow a name of 15 letters or fewer upon your creature. Taking no action will annul the process."
-     0x0BED [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x801C, 0x8005])
-     0x0BF3 [0x71] USER_INPUT_HANDLER: Menu operation B (param=0x0012)
-     0x0BF7 [0x9D] IF (strcmp(ExtData[1]->WorkLocal[18], 00000000000000000000000000000086) != 0) GOTO 0x0C // Also sets ExtData[1]->WorkLocal[1]
-     0x0C0E [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=ExtData[1]->WorkLocal[22], string_index=0*)
+     0x0BF3 [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x801C, 0x8005])
+     0x0BF9 [0x71] USER_INPUT_HANDLER: Menu operation B (param=0x0012)
+     0x0BFD [0x9D] IF (strcmp(ExtData[1]->WorkLocal[18], 000000000000000000000000000000ab) != 0) GOTO 0x0C // Also sets ExtData[1]->WorkLocal[1]
      0x0C14 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[18], work_offset2=0*)
      0x0C1A [0x24] CREATE_DIALOG(message_id=8725*, default_option=0*, option_flags=0*)
     → "Is %0 fine? [Yes./No, I'll pick a new one./No, I quit.]"
      0x0C21 [0x25] WAIT_DIALOG_SELECT()
-     0x0C22 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C64
+     0x0C22 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C83
      0x0C2A [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x0C2B [0x71] USER_INPUT_HANDLER: Check vulgar filter (work=Work_Zone[2])
-     0x0C2F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0C58
+     0x0C2F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0C71
      0x0C37 [0x71] USER_INPUT_HANDLER: Check if player has input or exited
-     0x0C39 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
-     0x0C4A [0x2B] Chacharoon (ID: 17924231/0x01118087) [8727*]:
+     0x0C39 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0C60
+     0x0C41 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
+     0x0C52 [0x2B] Chacharoon (ID: 17924231/0x01118087) [8727*]:
     → "Oooh, %0 is name of much preeetty! Is sign that many times of good be coming."
-     0x0C51 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0C52 [0x0C] ExtData[1]->WorkLocal[15]--
-     0x0C55 [0x01] GOTO 0x0C60
-     0x0C58 [0x2B] Chacharoon (ID: 17924231/0x01118087) [8726*]:
+     0x0C59 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0C5A [0x0C] ExtData[1]->WorkLocal[15]--
+     0x0C5D [0x01] GOTO 0x0C6E
+     0x0C60 [0x2B] Chacharoon (ID: 17924231/0x01118087) [8726*]:
     → "Hmmm... This name too haaard for Chacharoon. Sorry, but giving new name is best."
-     0x0C5F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0C60 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-     0x0C61 [0x01] GOTO 0x0C83
-     0x0C64 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C6F
-     0x0C6C [0x01] GOTO 0x0C83
-     0x0C6F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0C83
-     0x0C77 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
-     0x0C7D [0x0C] ExtData[1]->WorkLocal[15]--
-     0x0C80 [0x01] GOTO 0x0C83
-     0x0C83 [0x01] GOTO 0x0C89
-     0x0C86 [0x0C] ExtData[1]->WorkLocal[15]--
-     0x0C89 [0x01] GOTO 0x0BE2
-     0x0C8C [0x1B] RETURN
-     0x0C8D [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[2] (bits 0*-31*)
-     0x0C96 [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[3] (bits 0*-7*)
-     0x0C9F [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[3] (bits 8*-15*)
-     0x0CA8 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[3] (bits 16*-23*)
-     0x0CB1 [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[3] (bits 24*-31*)
-     0x0CBA [0x41] ExtData[1]->WorkLocal[7] = Work_Zone[4] (bits 0*-7*)
-     0x0CC3 [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[4] (bits 8*-15*)
-     0x0CCC [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[4] (bits 16*-18*)
-     0x0CD5 [0x41] ExtData[1]->WorkLocal[10] = Work_Zone[4] (bits 19*-19*)
-     0x0CDE [0x41] ExtData[1]->WorkLocal[12] = Work_Zone[4] (bits 20*-23*)
-     0x0CE7 [0x1B] RETURN
-     0x0CE8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0CE9 [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x0CEE [0x48] [System] [8739*]:
+     0x0C67 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0C68 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
+     0x0C6E [0x01] GOTO 0x0C7F
+     0x0C71 [0x2B] Chacharoon (ID: 17924231/0x01118087) [8726*]:
+    → "Hmmm... This name too haaard for Chacharoon. Sorry, but giving new name is best."
+     0x0C78 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0C79 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
+     0x0C7F [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+     0x0C80 [0x01] GOTO 0x0CA8
+     0x0C83 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C94
+     0x0C8B [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
+     0x0C91 [0x01] GOTO 0x0CA8
+     0x0C94 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0CA8
+     0x0C9C [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
+     0x0CA2 [0x0C] ExtData[1]->WorkLocal[15]--
+     0x0CA5 [0x01] GOTO 0x0CA8
+     0x0CA8 [0x01] GOTO 0x0CB4
+     0x0CAB [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[22], work_offset2=0*)
+     0x0CB1 [0x0C] ExtData[1]->WorkLocal[15]--
+     0x0CB4 [0x01] GOTO 0x0BE8
+     0x0CB7 [0x1B] RETURN
+     0x0CB8 [0x41] ExtData[1]->WorkLocal[2] = Work_Zone[2] (bits 0*-31*)
+     0x0CC1 [0x41] ExtData[1]->WorkLocal[3] = Work_Zone[3] (bits 0*-7*)
+     0x0CCA [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[3] (bits 8*-15*)
+     0x0CD3 [0x41] ExtData[1]->WorkLocal[5] = Work_Zone[3] (bits 16*-23*)
+     0x0CDC [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[3] (bits 24*-31*)
+     0x0CE5 [0x41] ExtData[1]->WorkLocal[7] = Work_Zone[4] (bits 0*-7*)
+     0x0CEE [0x41] ExtData[1]->WorkLocal[8] = Work_Zone[4] (bits 8*-15*)
+     0x0CF7 [0x41] ExtData[1]->WorkLocal[9] = Work_Zone[4] (bits 16*-18*)
+     0x0D00 [0x41] ExtData[1]->WorkLocal[10] = Work_Zone[4] (bits 19*-19*)
+     0x0D09 [0x41] ExtData[1]->WorkLocal[12] = Work_Zone[4] (bits 20*-23*)
+     0x0D12 [0x1B] RETURN
+     0x0D13 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x0D14 [0x1E] EventEntity looks at LocalPlayer and starts talking
+     0x0D19 [0x48] [System] [8739*]:
     → "You gave %0 $1."
-     0x0CF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0CF2 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0D01
-     0x0CFA [0x48] [System] [8719*]:
+     0x0D1C [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D1D [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0D2C
+     0x0D25 [0x48] [System] [8719*]:
     → "%0 stares off into the distance as if you're not even there."
-     0x0CFD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0CFE [0x01] GOTO 0x0DC2
-     0x0D01 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0D41
-     0x0D09 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
-     0x0D1A [0x48] [System] [8720*]:
+     0x0D28 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D29 [0x01] GOTO 0x0DED
+     0x0D2C [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0D6C
+     0x0D34 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
+     0x0D45 [0x48] [System] [8720*]:
     → "%0 is visibly angry with what you just did."
-     0x0D1D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D1E [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onmy" with entities [EventEntity, EventEntity], work=237*
-     0x0D2D [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
-     0x0D3E [0x01] GOTO 0x0DC2
-     0x0D41 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0D50
-     0x0D49 [0x48] [System] [8721*]:
+     0x0D48 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D49 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onmy" with entities [EventEntity, EventEntity], work=237*
+     0x0D58 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
+     0x0D69 [0x01] GOTO 0x0DED
+     0x0D6C [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0D7B
+     0x0D74 [0x48] [System] [8721*]:
     → "That didn't go over too well with %0."
-     0x0D4C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D4D [0x01] GOTO 0x0DC2
-     0x0D50 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0D70
-     0x0D58 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
-     0x0D69 [0x48] [System] [8722*]:
+     0x0D77 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D78 [0x01] GOTO 0x0DED
+     0x0D7B [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0D9B
+     0x0D83 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
+     0x0D94 [0x48] [System] [8722*]:
     → "That was surprisingly not worthless in the eyes of %0!"
-     0x0D6C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D6D [0x01] GOTO 0x0DC2
-     0x0D70 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0DB3
-     0x0D78 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onon" with entities [EventEntity, EventEntity], work=[236*, 0*]
-     0x0D89 [0x48] [System] [8723*]:
+     0x0D97 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0D98 [0x01] GOTO 0x0DED
+     0x0D9B [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0DDE
+     0x0DA3 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onon" with entities [EventEntity, EventEntity], work=[236*, 0*]
+     0x0DB4 [0x48] [System] [8723*]:
     → "That strongly resonated with %0!"
-     0x0D8C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D8D [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onon" with entities [EventEntity, EventEntity], work=236*
-     0x0D9C [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofon" with entities [EventEntity, EventEntity], work=[236*, 0*]
-     0x0DAD [0x1C] WAIT(1* ticks)
-     0x0DB0 [0x01] GOTO 0x0DC2
-     0x0DB3 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0DC2
-     0x0DBB [0x48] [System] [8719*]:
+     0x0DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DB8 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onon" with entities [EventEntity, EventEntity], work=236*
+     0x0DC7 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofon" with entities [EventEntity, EventEntity], work=[236*, 0*]
+     0x0DD8 [0x1C] WAIT(1* ticks)
+     0x0DDB [0x01] GOTO 0x0DED
+     0x0DDE [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0DED
+     0x0DE6 [0x48] [System] [8719*]:
     → "%0 stares off into the distance as if you're not even there."
-     0x0DBE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0DBF [0x01] GOTO 0x0DC2
-     0x0DC2 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0DD1
-     0x0DCA [0x48] [System] [8744*]:
+     0x0DE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DEA [0x01] GOTO 0x0DED
+     0x0DED [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0DFC
+     0x0DF5 [0x48] [System] [8744*]:
     → "%0 squirms uncontrollably."
-     0x0DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0DCE [0x01] GOTO 0x0DDD
-     0x0DD1 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0DDD
-     0x0DD9 [0x48] [System] [8745*]:
+     0x0DF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0DF9 [0x01] GOTO 0x0E08
+     0x0DFC [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0E08
+     0x0E04 [0x48] [System] [8745*]:
     → "%0 shudders violently."
-     0x0DDC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0DDD [0x21] END_EVENT
-     0x0DDE [0x00] END_REQSTACK()
+     0x0E07 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0E08 [0x21] END_EVENT
+     0x0E09 [0x00] END_REQSTACK()
 ```
 
 ### Event 2050
@@ -1169,20 +1181,20 @@ SUBROUTINE_00D7:
 
 | Field        | Value   |
 |--------------|---------|
-| Entrypoint   | 0x0DDF  |
+| Entrypoint   | 0x0E0A  |
 | Data Size    | 1 bytes |
 | Instructions | 1       |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0DD0:                                               00                 .
+0E00:                                00                           .     
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0DDF [0x00] END_REQSTACK()
+  0: 0x0E0A [0x00] END_REQSTACK()
 ```
 
 ### Event 2051
@@ -1191,1493 +1203,1494 @@ SUBROUTINE_00D7:
 
 | Field        | Value      |
 |--------------|------------|
-| Entrypoint   | 0x0DE0     |
+| Entrypoint   | 0x0E0B     |
 | Data Size    | 6320 bytes |
 | Instructions | 21         |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0DE0: 42 46 01 45 0E 80 F0 FF  FF 7F F0 FF FF 7F 66 64  BF.E..........fd
-0DF0: 6F 31 00 80 55 0E 80 F0  FF FF 7F F0 FF FF 7F 66  o1..U..........f
-0E00: 64 6F 31 38 0F 80 29 08  F0 FF FF 7F 23 37 10 80  do18..).....#7..
-0E10: 11 80 12 80 13 80 4E 01  87 80 11 01 4A F8 FF FF  ......N.....J...
-0E20: 7F F0 FF FF 7F 6F 76 F8  FF FF 7F 45 1E 80 F0 FF  .....ov....E....
-0E30: FF 7F F0 FF FF 7F 73 31  30 31 00 80 45 0E 80 F0  ......s101..E...
-0E40: FF FF 7F F0 FF FF 7F 66  64 69 31 00 80 55 0E 80  .......fdi1..U..
-0E50: F0 FF FF 7F F0 FF FF 7F  66 64 69 31 1D 58 80 23  ........fdi1.X.#
-0E60: 52 1E 80 F0 FF FF 7F F0  FF FF 7F 73 31 30 31 46  R..........s101F
-0E70: 00 20 00 21 00 48 43 80  23 21 00 03 03 10 59 80  . .!.HC.#!....Y.
-0E80: 48 5A 80 23 21 00 92 00  1D 80 11 01 1A C0 16 1A  HZ.#!...........
-0E90: FD 0E 1A C1 0F 1A 6B 11  1A 98 13 1A A6 22 1A A6  ......k......"..
-0EA0: 13 1A 82 14 1A B9 14 1A  DC 14 1A 08 15 1A A8 15  ................
-0EB0: 1A 32 16 1A 5B 16 1A A1  16 1A D9 12 AC 02 35 80  .2..[.........5.
-0EC0: 11 01 1B 92 00 1D 80 11  01 1A FD 0E 1A C1 0F 1A  ................
-0ED0: 6B 11 1A 98 13 1A A6 22  1A A6 13 1A 82 14 1A B9  k......"........
-0EE0: 14 1A DC 14 1A 08 15 1A  A8 15 1A 32 16 1A 5B 16  ...........2..[.
-0EF0: 1A A1 16 1A D9 12 AC 02  35 80 11 01 1B AC 02 09  ........5.......
-0F00: 80 11 01 3E 00 11 00 80  14 0F 27 80 09 80 11 01  ...>......'.....
-0F10: 02 01 1B 0F 27 80 09 80  11 01 03 AC 02 0A 80 11  ....'...........
-0F20: 01 3E 00 11 08 80 32 0F  27 80 0A 80 11 01 02 01  .>....2.'.......
-0F30: 39 0F 27 80 0A 80 11 01  03 AC 02 0B 80 11 01 3E  9.'............>
-0F40: 00 11 1C 80 50 0F 29 80  0B 80 11 01 02 01 57 0F  ....P.).......W.
-0F50: 29 80 0B 80 11 01 03 92  01 20 80 11 01 92 01 21  )........ .....!
-0F60: 80 11 01 92 01 22 80 11  01 AC 02 20 80 11 01 3E  ....."..... ...>
-0F70: 00 11 5B 80 7F 0F 4E 00  20 80 11 01 01 85 0F 4E  ..[...N. ......N
-0F80: 01 20 80 11 01 AC 02 21  80 11 01 3E 00 11 5C 80  . .....!...>..\.
-0F90: 9B 0F 4E 00 21 80 11 01  01 A1 0F 4E 01 21 80 11  ..N.!......N.!..
-0FA0: 01 AC 02 22 80 11 01 3E  00 11 5D 80 B7 0F 4E 00  ..."...>..]...N.
-0FB0: 22 80 11 01 01 BD 0F 4E  01 22 80 11 01 1C 08 80  "......N."......
-0FC0: 1B AC 02 0F 80 11 01 3E  00 11 1D 80 D8 0F 27 80  .......>......'.
-0FD0: 0F 80 11 01 02 01 DF 0F  27 80 0F 80 11 01 03 AC  ........'.......
-0FE0: 02 10 80 11 01 3E 00 11  07 80 F6 0F 27 80 10 80  .....>......'...
-0FF0: 11 01 02 01 FD 0F 27 80  10 80 11 01 03 AC 02 11  ......'.........
-1000: 80 11 01 3E 00 11 5E 80  14 10 29 80 11 80 11 01  ...>..^...).....
-1010: 02 01 1B 10 29 80 11 80  11 01 03 AC 02 1A 80 11  ....)...........
-1020: 01 3E 01 11 53 80 32 10  27 80 1A 80 11 01 02 01  .>..S.2.'.......
-1030: 39 10 27 80 1A 80 11 01  03 AC 02 1B 80 11 01 3E  9.'............>
-1040: 01 11 0F 80 50 10 29 80  1B 80 11 01 02 01 57 10  ....P.).......W.
-1050: 29 80 1B 80 11 01 03 AC  02 23 80 11 01 AC 02 24  )........#.....$
-1060: 80 11 01 3E 00 11 53 80  8F 10 3E 08 11 00 80 80  ...>..S...>.....
-1070: 10 4E 00 24 80 11 01 4E  01 23 80 11 01 01 8C 10  .N.$...N.#......
-1080: 4E 00 23 80 11 01 4E 01  24 80 11 01 01 9B 10 4E  N.#...N.$......N
-1090: 01 23 80 11 01 4E 01 24  80 11 01 AC 02 25 80 11  .#...N.$.....%..
-10A0: 01 AC 02 26 80 11 01 3E  00 11 0F 80 D3 10 3E 08  ...&...>......>.
-10B0: 11 08 80 C4 10 4E 00 26  80 11 01 4E 01 25 80 11  .....N.&...N.%..
-10C0: 01 01 D0 10 4E 00 25 80  11 01 4E 01 26 80 11 01  ....N.%...N.&...
-10D0: 01 DF 10 4E 01 25 80 11  01 4E 01 26 80 11 01 AC  ...N.%...N.&....
-10E0: 02 27 80 11 01 AC 02 28  80 11 01 3E 00 11 54 80  .'.....(...>..T.
-10F0: 17 11 3E 08 11 1C 80 08  11 4E 00 28 80 11 01 4E  ..>......N.(...N
-1100: 01 27 80 11 01 01 14 11  4E 00 27 80 11 01 4E 01  .'......N.'...N.
-1110: 28 80 11 01 01 23 11 4E  01 27 80 11 01 4E 01 28  (....#.N.'...N.(
-1120: 80 11 01 AC 02 29 80 11  01 AC 02 2A 80 11 01 3E  .....).....*...>
-1130: 00 11 5F 80 5B 11 3E 08  11 1D 80 4C 11 4E 00 2A  .._.[.>....L.N.*
-1140: 80 11 01 4E 01 29 80 11  01 01 58 11 4E 00 29 80  ...N.)....X.N.).
-1150: 11 01 4E 01 2A 80 11 01  01 67 11 4E 01 29 80 11  ..N.*....g.N.)..
-1160: 01 4E 01 2A 80 11 01 1C  08 80 1B AC 02 12 80 11  .N.*............
-1170: 01 3E 00 11 01 80 82 11  27 80 12 80 11 01 02 01  .>......'.......
-1180: 89 11 27 80 12 80 11 01  03 AC 02 13 80 11 01 3E  ..'............>
-1190: 00 11 50 80 A0 11 27 80  13 80 11 01 02 01 A7 11  ..P...'.........
-11A0: 27 80 13 80 11 01 03 AC  02 14 80 11 01 3E 00 11  '............>..
-11B0: 04 80 BE 11 29 80 14 80  11 01 02 01 C5 11 29 80  ....).........).
-11C0: 14 80 11 01 03 AC 02 2B  80 11 01 AC 02 2C 80 11  .......+.....,..
-11D0: 01 3E 00 11 60 80 FD 11  3E 08 11 07 80 EE 11 4E  .>..`...>......N
-11E0: 00 2C 80 11 01 4E 01 2B  80 11 01 01 FA 11 4E 00  .,...N.+......N.
-11F0: 2B 80 11 01 4E 01 2C 80  11 01 01 09 12 4E 01 2B  +...N.,......N.+
-1200: 80 11 01 4E 01 2C 80 11  01 AC 02 2D 80 11 01 AC  ...N.,.....-....
-1210: 02 2E 80 11 01 3E 00 11  51 80 41 12 3E 08 11 5E  .....>..Q.A.>..^
-1220: 80 32 12 4E 00 2E 80 11  01 4E 01 2D 80 11 01 01  .2.N.....N.-....
-1230: 3E 12 4E 00 2D 80 11 01  4E 01 2E 80 11 01 01 4D  >.N.-...N......M
-1240: 12 4E 01 2D 80 11 01 4E  01 2E 80 11 01 AC 02 2F  .N.-...N......./
-1250: 80 11 01 AC 02 30 80 11  01 3E 00 11 52 80 85 12  .....0...>..R...
-1260: 3E 08 11 01 80 76 12 4E  00 30 80 11 01 4E 01 2F  >....v.N.0...N./
-1270: 80 11 01 01 82 12 4E 00  2F 80 11 01 4E 01 30 80  ......N./...N.0.
-1280: 11 01 01 91 12 4E 01 2F  80 11 01 4E 01 30 80 11  .....N./...N.0..
-1290: 01 AC 02 31 80 11 01 AC  02 32 80 11 01 3E 00 11  ...1.....2...>..
-12A0: 61 80 C9 12 3E 08 11 50  80 BA 12 4E 00 32 80 11  a...>..P...N.2..
-12B0: 01 4E 01 31 80 11 01 01  C6 12 4E 00 31 80 11 01  .N.1......N.1...
-12C0: 4E 01 32 80 11 01 01 D5  12 4E 01 31 80 11 01 4E  N.2......N.1...N
-12D0: 01 32 80 11 01 1C 08 80  1B 92 01 35 80 11 01 AC  .2.........5....
-12E0: 02 15 80 11 01 3E 00 11  62 80 F6 12 27 80 15 80  .....>..b...'...
-12F0: 11 01 02 01 FD 12 27 80  15 80 11 01 03 AC 02 16  ......'.........
-1300: 80 11 01 3E 00 11 0C 80  14 13 27 80 16 80 11 01  ...>......'.....
-1310: 02 01 1B 13 27 80 16 80  11 01 03 AC 02 17 80 11  ....'...........
-1320: 01 3E 00 11 4B 80 32 13  27 80 17 80 11 01 02 01  .>..K.2.'.......
-1330: 39 13 27 80 17 80 11 01  03 AC 02 18 80 11 01 3E  9.'............>
-1340: 01 11 63 80 50 13 29 80  18 80 11 01 02 01 57 13  ..c.P.).......W.
-1350: 29 80 18 80 11 01 03 3E  01 11 54 80 67 13 60 02  )......>..T.g.`.
-1360: 69 30 6F 6E 01 67 13 3E  01 11 5F 80 77 13 60 02  i0on.g.>.._.w.`.
-1370: 69 31 6F 6E 01 77 13 3E  01 11 60 80 87 13 60 02  i1on.w.>..`...`.
-1380: 69 32 6F 6E 01 87 13 3E  01 11 51 80 97 13 60 02  i2on...>..Q...`.
-1390: 69 33 6F 6E 01 97 13 1B  AC 02 35 80 11 01 29 08  i3on......5...).
-13A0: 35 80 11 01 04 1B 92 00  57 80 11 01 92 00 6A 80  5.......W.....j.
-13B0: 11 01 92 00 58 80 11 01  92 00 6B 80 11 01 92 00  ....X.....k.....
-13C0: 59 80 11 01 92 00 6C 80  11 01 AC 02 57 80 11 01  Y.....l.....W...
-13D0: 3E 00 11 2C 80 E1 13 27  08 57 80 11 01 02 01 E8  >..,...'.W......
-13E0: 13 27 08 57 80 11 01 03  AC 02 6A 80 11 01 3E 00  .'.W......j...>.
-13F0: 11 20 80 FF 13 27 08 6A  80 11 01 02 01 06 14 27  . ...'.j.......'
-1400: 08 6A 80 11 01 03 AC 02  58 80 11 01 3E 00 11 64  .j......X...>..d
-1410: 80 1D 14 29 08 58 80 11  01 02 01 24 14 29 08 58  ...).X.....$.).X
-1420: 80 11 01 03 AC 02 6B 80  11 01 3E 00 11 05 80 3B  ......k...>....;
-1430: 14 27 08 6B 80 11 01 02  01 42 14 27 08 6B 80 11  .'.k.....B.'.k..
-1440: 01 03 AC 02 59 80 11 01  3E 00 11 02 80 59 14 27  ....Y...>....Y.'
-1450: 08 59 80 11 01 02 01 60  14 27 08 59 80 11 01 03  .Y.....`.'.Y....
-1460: AC 02 6C 80 11 01 3E 00  11 63 80 77 14 29 08 6C  ..l...>..c.w.).l
-1470: 80 11 01 02 01 7E 14 29  08 6C 80 11 01 03 1C 08  .....~.).l......
-1480: 80 1B AC 02 36 80 11 01  3E 00 11 65 80 A5 14 2C  ....6...>..e...,
-1490: 36 80 11 01 36 80 11 01  65 66 6F 6E B6 14 36 80  6...6...efon..6.
-14A0: 11 01 01 B8 14 2C 36 80  11 01 36 80 11 01 65 66  .....,6...6...ef
-14B0: 6F 66 B6 15 36 80 11 01  1B 3E 01 11 00 80 CF 14  of..6....>......
-14C0: 4E 00 71 80 11 01 AC 03  71 80 11 01 01 DB 14 AC  N.q.....q.......
-14D0: 02 71 80 11 01 4E 01 71  80 11 01 1B AC 02 72 80  .q...N.q......r.
-14E0: 11 01 3E 01 11 08 80 00  15 3E 01 11 1D 80 F7 14  ..>......>......
-14F0: 29 08 72 80 11 01 04 4E  00 72 80 11 01 01 07 15  ).r....N.r......
-1500: 29 08 72 80 11 01 03 1B  AC 02 8E 80 11 01 3E 01  ).r...........>.
-1510: 11 61 80 1E 15 4E 00 8E  80 11 01 01 24 15 4E 01  .a...N......$.N.
-1520: 8E 80 11 01 1B AC 02 80  80 11 01 AC 02 81 80 11  ................
-1530: 01 AC 02 82 80 11 01 AC  02 83 80 11 01 AC 02 84  ................
-1540: 80 11 01 3E 01 11 5B 80  89 15 4E 00 80 80 11 01  ...>..[...N.....
-1550: AC 03 80 80 11 01 4E 00  81 80 11 01 AC 03 81 80  ......N.........
-1560: 11 01 4E 00 82 80 11 01  AC 03 82 80 11 01 4E 00  ..N...........N.
-1570: 83 80 11 01 AC 03 83 80  11 01 4E 00 84 80 11 01  ..........N.....
-1580: AC 03 84 80 11 01 01 A7  15 4E 01 80 80 11 01 4E  .........N.....N
-1590: 01 81 80 11 01 4E 01 82  80 11 01 4E 01 83 80 11  .....N.....N....
-15A0: 01 4E 01 84 80 11 01 1B  AC 02 85 80 11 01 AC 02  .N..............
-15B0: 86 80 11 01 3E 01 11 5C  80 25 16 13 1B 00 1C 80  ....>..\.%......
-15C0: 02 1B 00 1C 80 02 CB 15  06 1B 00 02 1B 00 00 80  ................
-15D0: 80 E4 15 29 08 85 80 11  01 02 29 08 86 80 11 01  ...)......).....
-15E0: 02 01 16 16 02 1B 00 08  80 80 FD 15 29 08 85 80  ............)...
-15F0: 11 01 03 29 08 86 80 11  01 03 01 16 16 02 1B 00  ...)............
-1600: 1C 80 80 16 16 29 08 85  80 11 01 04 29 08 86 80  .....)......)...
-1610: 11 01 04 01 16 16 4E 00  85 80 11 01 4E 00 86 80  ......N.....N...
-1620: 11 01 01 31 16 4E 01 85  80 11 01 4E 01 86 80 11  ...1.N.....N....
-1630: 01 1B AC 02 87 80 11 01  3E 01 11 07 80 4E 16 4E  ........>....N.N
-1640: 00 87 80 11 01 AC 03 87  80 11 01 01 5A 16 AC 02  ............Z...
-1650: 87 80 11 01 4E 01 87 80  11 01 1B AC 02 89 80 11  ....N...........
-1660: 01 29 08 89 80 11 01 04  1B AC 02 8A 80 11 01 29  .).............)
-1670: 08 8A 80 11 01 04 1B AC  02 8B 80 11 01 29 08 8B  .............)..
-1680: 80 11 01 04 1B AC 02 8C  80 11 01 29 08 8C 80 11  ...........)....
-1690: 01 04 1B AC 02 8D 80 11  01 29 08 8D 80 11 01 04  .........)......
-16A0: 1B AC 02 1C 80 11 01 3E  01 11 52 80 B8 16 29 80  .......>..R...).
-16B0: 1C 80 11 01 02 01 BF 16  29 80 1C 80 11 01 03 1B  ........).......
-16C0: 03 01 10 08 80 43 00 43  01 03 1C 00 02 10 03 08  .....C.C........
-16D0: 11 03 10 03 01 11 04 10  03 0A 11 05 10 03 0B 11  ................
-16E0: 06 10 03 0C 11 07 10 03  01 10 4B 80 43 00 43 01  ..........K.C.C.
-16F0: 03 02 11 02 10 03 03 11  03 10 03 04 11 04 10 03  ................
-1700: 05 11 05 10 03 06 11 06  10 03 07 11 07 10 03 09  ................
-1710: 11 08 10 41 00 80 1D 80  1C 00 1B 00 1A 0D 19 41  ...A...........A
-1720: 07 80 50 80 1C 00 1B 00  1A 15 1B 41 04 80 4B 80  ..P........A..K.
-1730: 1C 00 1B 00 1A A5 1D 41  2C 80 05 80 1C 00 1B 00  .......A,.......
-1740: 1A F3 1F 41 54 80 60 80  1C 00 1B 00 1A 75 17 41  ...AT.`......u.A
-1750: 03 80 03 80 1C 00 1B 00  02 1B 00 00 80 00 6A 17  ..............j.
-1760: 3D 00 11 65 80 08 80 01  71 17 3C 00 11 65 80 08  =..e....q.<..e..
-1770: 80 1A 8F 17 1B 02 1B 00  1D 80 04 87 17 3C 01 11  .............<..
-1780: 52 80 08 80 01 8E 17 3D  01 11 52 80 08 80 1B 3E  R......=..R....>
-1790: 08 11 04 80 00 18 41 62  80 4B 80 08 11 1B 00 02  ......Ab.K......
-17A0: 1B 00 08 80 80 B8 17 3D  00 11 2C 80 08 80 3C 00  .......=..,...<.
-17B0: 11 20 80 08 80 01 FD 17  02 1B 00 07 80 80 D1 17  . ..............
-17C0: 3C 00 11 2C 80 08 80 3D  00 11 20 80 08 80 01 FD  <..,...=.. .....
-17D0: 17 13 1B 00 66 80 02 1B  00 35 80 03 EF 17 3D 00  ....f....5....=.
-17E0: 11 2C 80 08 80 3C 00 11  20 80 08 80 01 FD 17 3C  .,...<.. ......<
-17F0: 00 11 2C 80 08 80 3D 00  11 20 80 08 80 01 0E 18  ..,...=.. ......
-1800: 3D 00 11 2C 80 08 80 3D  00 11 20 80 08 80 3E 08  =..,...=.. ...>.
-1810: 11 2C 80 7F 18 41 20 80  05 80 08 11 1B 00 02 1B  .,...A .........
-1820: 00 08 80 80 37 18 3C 00  11 64 80 08 80 3D 00 11  ....7.<..d...=..
-1830: 05 80 08 80 01 7C 18 02  1B 00 5E 80 80 50 18 3D  .....|....^..P.=
-1840: 00 11 64 80 08 80 3C 00  11 05 80 08 80 01 7C 18  ..d...<.......|.
-1850: 13 1B 00 66 80 02 1B 00  35 80 03 6E 18 3C 00 11  ...f....5..n.<..
-1860: 64 80 08 80 3D 00 11 05  80 08 80 01 7C 18 3D 00  d...=.......|.=.
-1870: 11 64 80 08 80 3C 00 11  05 80 08 80 01 8D 18 3D  .d...<.........=
-1880: 00 11 64 80 08 80 3D 00  11 05 80 08 80 3E 08 11  ..d...=......>..
-1890: 02 80 FE 18 41 63 80 0F  80 08 11 1B 00 02 1B 00  ....Ac..........
-18A0: 1D 80 80 B6 18 3C 00 11  02 80 08 80 3D 00 11 63  .....<......=..c
-18B0: 80 08 80 01 FB 18 02 1B  00 1C 80 80 CF 18 3D 00  ..............=.
-18C0: 11 02 80 08 80 3C 00 11  63 80 08 80 01 FB 18 13  .....<..c.......
-18D0: 1B 00 66 80 02 1B 00 35  80 03 ED 18 3C 00 11 02  ..f....5....<...
-18E0: 80 08 80 3D 00 11 63 80  08 80 01 FB 18 3D 00 11  ...=..c......=..
-18F0: 02 80 08 80 3C 00 11 63  80 08 80 01 0C 19 3D 00  ....<..c......=.
-1900: 11 02 80 08 80 3D 00 11  63 80 08 80 1B 02 1B 00  .....=..c.......
-1910: 00 80 80 42 19 3D 00 11  00 80 08 80 3C 00 11 08  ...B.=......<...
-1920: 80 08 80 3C 00 11 1C 80  08 80 3C 00 11 5B 80 08  ...<......<..[..
-1930: 80 3D 00 11 5C 80 08 80  3D 00 11 5D 80 08 80 01  .=..\...=..]....
-1940: 14 1B 02 1B 00 08 80 80  77 19 3D 00 11 00 80 08  ........w.=.....
-1950: 80 3C 00 11 08 80 08 80  3C 00 11 1C 80 08 80 3C  .<......<......<
-1960: 00 11 5B 80 08 80 3D 00  11 5C 80 08 80 3D 00 11  ..[...=..\...=..
-1970: 5D 80 08 80 01 14 1B 02  1B 00 1C 80 80 AC 19 3D  ]..............=
-1980: 00 11 00 80 08 80 3C 00  11 08 80 08 80 3C 00 11  ......<......<..
-1990: 1C 80 08 80 3C 00 11 5B  80 08 80 3D 00 11 5C 80  ....<..[...=..\.
-19A0: 08 80 3D 00 11 5D 80 08  80 01 14 1B 02 1B 00 1D  ..=..]..........
-19B0: 80 80 E1 19 3D 00 11 00  80 08 80 3D 00 11 08 80  ....=......=....
-19C0: 08 80 3C 00 11 1C 80 08  80 3C 00 11 5B 80 08 80  ..<......<..[...
-19D0: 3C 00 11 5C 80 08 80 3D  00 11 5D 80 08 80 01 14  <..\...=..].....
-19E0: 1B 02 1B 00 07 80 80 16  1A 3D 00 11 00 80 08 80  .........=......
-19F0: 3D 00 11 08 80 08 80 3C  00 11 1C 80 08 80 3C 00  =......<......<.
-1A00: 11 5B 80 08 80 3C 00 11  5C 80 08 80 3D 00 11 5D  .[...<..\...=..]
-1A10: 80 08 80 01 14 1B 02 1B  00 5E 80 80 4B 1A 3D 00  .........^..K.=.
-1A20: 11 00 80 08 80 3D 00 11  08 80 08 80 3D 00 11 1C  .....=......=...
-1A30: 80 08 80 3C 00 11 5B 80  08 80 3C 00 11 5C 80 08  ...<..[...<..\..
-1A40: 80 3C 00 11 5D 80 08 80  01 14 1B 02 1B 00 01 80  .<..]...........
-1A50: 80 80 1A 3D 00 11 00 80  08 80 3D 00 11 08 80 08  ...=......=.....
-1A60: 80 3D 00 11 1C 80 08 80  3C 00 11 5B 80 08 80 3C  .=......<..[...<
-1A70: 00 11 5C 80 08 80 3C 00  11 5D 80 08 80 01 14 1B  ..\...<..]......
-1A80: 02 1B 00 50 80 80 B5 1A  3D 00 11 00 80 08 80 3D  ...P....=......=
-1A90: 00 11 08 80 08 80 3D 00  11 1C 80 08 80 3C 00 11  ......=......<..
-1AA0: 5B 80 08 80 3C 00 11 5C  80 08 80 3C 00 11 5D 80  [...<..\...<..].
-1AB0: 08 80 01 14 1B 02 1B 00  04 80 80 EA 1A 3D 00 11  .............=..
-1AC0: 00 80 08 80 3D 00 11 08  80 08 80 3D 00 11 1C 80  ....=......=....
-1AD0: 08 80 3C 00 11 5B 80 08  80 3C 00 11 5C 80 08 80  ..<..[...<..\...
-1AE0: 3C 00 11 5D 80 08 80 01  14 1B 3D 00 11 00 80 08  <..]......=.....
-1AF0: 80 3C 00 11 08 80 08 80  3C 00 11 1C 80 08 80 3C  .<......<......<
-1B00: 00 11 5B 80 08 80 3D 00  11 5C 80 08 80 3D 00 11  ..[...=..\...=..
-1B10: 5D 80 08 80 1B 02 1B 00  00 80 80 5F 1B 3C 00 11  ].........._.<..
-1B20: 1D 80 08 80 3C 00 11 07  80 08 80 3C 00 11 5E 80  ....<......<..^.
-1B30: 08 80 3C 01 11 53 80 08  80 3C 01 11 0F 80 08 80  ..<..S...<......
-1B40: 3C 00 11 53 80 08 80 3D  00 11 0F 80 08 80 3D 00  <..S...=......=.
-1B50: 11 54 80 08 80 3D 00 11  5F 80 08 80 01 A4 1D 02  .T...=.._.......
-1B60: 1B 00 08 80 80 A9 1B 3C  00 11 1D 80 08 80 3C 00  .......<......<.
-1B70: 11 07 80 08 80 3C 00 11  5E 80 08 80 3C 01 11 53  .....<..^...<..S
-1B80: 80 08 80 3C 01 11 0F 80  08 80 3C 00 11 53 80 08  ...<......<..S..
-1B90: 80 3D 00 11 0F 80 08 80  3D 00 11 54 80 08 80 3D  .=......=..T...=
-1BA0: 00 11 5F 80 08 80 01 A4  1D 02 1B 00 1C 80 80 F3  .._.............
-1BB0: 1B 3C 00 11 1D 80 08 80  3C 00 11 07 80 08 80 3C  .<......<......<
-1BC0: 00 11 5E 80 08 80 3C 01  11 53 80 08 80 3C 01 11  ..^...<..S...<..
-1BD0: 0F 80 08 80 3C 00 11 53  80 08 80 3D 00 11 0F 80  ....<..S...=....
-1BE0: 08 80 3D 00 11 54 80 08  80 3D 00 11 5F 80 08 80  ..=..T...=.._...
-1BF0: 01 A4 1D 02 1B 00 1D 80  80 3D 1C 3D 00 11 1D 80  .........=.=....
-1C00: 08 80 3C 00 11 07 80 08  80 3C 00 11 5E 80 08 80  ..<......<..^...
-1C10: 3D 01 11 53 80 08 80 3C  01 11 0F 80 08 80 3C 00  =..S...<......<.
-1C20: 11 53 80 08 80 3C 00 11  0F 80 08 80 3D 00 11 54  .S...<......=..T
-1C30: 80 08 80 3D 00 11 5F 80  08 80 01 A4 1D 02 1B 00  ...=.._.........
-1C40: 07 80 80 87 1C 3D 00 11  1D 80 08 80 3C 00 11 07  .....=......<...
-1C50: 80 08 80 3C 00 11 5E 80  08 80 3D 01 11 53 80 08  ...<..^...=..S..
-1C60: 80 3C 01 11 0F 80 08 80  3C 00 11 53 80 08 80 3C  .<......<..S...<
-1C70: 00 11 0F 80 08 80 3D 00  11 54 80 08 80 3D 00 11  ......=..T...=..
-1C80: 5F 80 08 80 01 A4 1D 02  1B 00 5E 80 80 D1 1C 3D  _.........^....=
-1C90: 00 11 1D 80 08 80 3D 00  11 07 80 08 80 3C 00 11  ......=......<..
-1CA0: 5E 80 08 80 3D 01 11 53  80 08 80 3D 01 11 0F 80  ^...=..S...=....
-1CB0: 08 80 3C 00 11 53 80 08  80 3C 00 11 0F 80 08 80  ..<..S...<......
-1CC0: 3C 00 11 54 80 08 80 3D  00 11 5F 80 08 80 01 A4  <..T...=.._.....
-1CD0: 1D 02 1B 00 01 80 80 1B  1D 3D 00 11 1D 80 08 80  .........=......
-1CE0: 3D 00 11 07 80 08 80 3C  00 11 5E 80 08 80 3D 01  =......<..^...=.
-1CF0: 11 53 80 08 80 3D 01 11  0F 80 08 80 3C 00 11 53  .S...=......<..S
-1D00: 80 08 80 3C 00 11 0F 80  08 80 3C 00 11 54 80 08  ...<......<..T..
-1D10: 80 3D 00 11 5F 80 08 80  01 A4 1D 02 1B 00 50 80  .=.._.........P.
-1D20: 80 65 1D 3D 00 11 1D 80  08 80 3D 00 11 07 80 08  .e.=......=.....
-1D30: 80 3D 00 11 5E 80 08 80  3D 01 11 53 80 08 80 3D  .=..^...=..S...=
-1D40: 01 11 0F 80 08 80 3C 00  11 53 80 08 80 3C 00 11  ......<..S...<..
-1D50: 0F 80 08 80 3C 00 11 54  80 08 80 3C 00 11 5F 80  ....<..T...<.._.
-1D60: 08 80 01 A4 1D 3C 00 11  1D 80 08 80 3C 00 11 07  .....<......<...
-1D70: 80 08 80 3C 00 11 5E 80  08 80 3C 01 11 53 80 08  ...<..^...<..S..
-1D80: 80 3C 01 11 0F 80 08 80  3C 00 11 53 80 08 80 3D  .<......<..S...=
-1D90: 00 11 0F 80 08 80 3D 00  11 54 80 08 80 3D 00 11  ......=..T...=..
-1DA0: 5F 80 08 80 1B 02 1B 00  00 80 80 E1 1D 3D 00 11  _............=..
-1DB0: 01 80 08 80 3D 00 11 50  80 08 80 3D 00 11 04 80  ....=..P...=....
-1DC0: 08 80 3C 00 11 60 80 08  80 3D 00 11 51 80 08 80  ..<..`...=..Q...
-1DD0: 3D 00 11 52 80 08 80 3D  00 11 61 80 08 80 01 F2  =..R...=..a.....
-1DE0: 1F 02 1B 00 08 80 80 1D  1E 3D 00 11 01 80 08 80  .........=......
-1DF0: 3D 00 11 50 80 08 80 3D  00 11 04 80 08 80 3C 00  =..P...=......<.
-1E00: 11 60 80 08 80 3D 00 11  51 80 08 80 3D 00 11 52  .`...=..Q...=..R
-1E10: 80 08 80 3D 00 11 61 80  08 80 01 F2 1F 02 1B 00  ...=..a.........
-1E20: 1C 80 80 59 1E 3D 00 11  01 80 08 80 3D 00 11 50  ...Y.=......=..P
-1E30: 80 08 80 3D 00 11 04 80  08 80 3C 00 11 60 80 08  ...=......<..`..
-1E40: 80 3D 00 11 51 80 08 80  3D 00 11 52 80 08 80 3D  .=..Q...=..R...=
-1E50: 00 11 61 80 08 80 01 F2  1F 02 1B 00 1D 80 80 95  ..a.............
-1E60: 1E 3C 00 11 01 80 08 80  3D 00 11 50 80 08 80 3D  .<......=..P...=
-1E70: 00 11 04 80 08 80 3C 00  11 60 80 08 80 3C 00 11  ......<..`...<..
-1E80: 51 80 08 80 3D 00 11 52  80 08 80 3D 00 11 61 80  Q...=..R...=..a.
-1E90: 08 80 01 F2 1F 02 1B 00  07 80 80 D1 1E 3C 00 11  .............<..
-1EA0: 01 80 08 80 3D 00 11 50  80 08 80 3D 00 11 04 80  ....=..P...=....
-1EB0: 08 80 3C 00 11 60 80 08  80 3C 00 11 51 80 08 80  ..<..`...<..Q...
-1EC0: 3D 00 11 52 80 08 80 3D  00 11 61 80 08 80 01 F2  =..R...=..a.....
-1ED0: 1F 02 1B 00 5E 80 80 0D  1F 3C 00 11 01 80 08 80  ....^....<......
-1EE0: 3C 00 11 50 80 08 80 3D  00 11 04 80 08 80 3C 00  <..P...=......<.
-1EF0: 11 60 80 08 80 3C 00 11  51 80 08 80 3C 00 11 52  .`...<..Q...<..R
-1F00: 80 08 80 3D 00 11 61 80  08 80 01 F2 1F 02 1B 00  ...=..a.........
-1F10: 01 80 80 49 1F 3C 00 11  01 80 08 80 3C 00 11 50  ...I.<......<..P
-1F20: 80 08 80 3D 00 11 04 80  08 80 3C 00 11 60 80 08  ...=......<..`..
-1F30: 80 3C 00 11 51 80 08 80  3C 00 11 52 80 08 80 3D  .<..Q...<..R...=
-1F40: 00 11 61 80 08 80 01 F2  1F 02 1B 00 50 80 80 85  ..a.........P...
-1F50: 1F 3C 00 11 01 80 08 80  3C 00 11 50 80 08 80 3C  .<......<..P...<
-1F60: 00 11 04 80 08 80 3C 00  11 60 80 08 80 3C 00 11  ......<..`...<..
-1F70: 51 80 08 80 3C 00 11 52  80 08 80 3C 00 11 61 80  Q...<..R...<..a.
-1F80: 08 80 01 F2 1F 02 1B 00  04 80 80 C1 1F 3C 00 11  .............<..
-1F90: 01 80 08 80 3C 00 11 50  80 08 80 3C 00 11 04 80  ....<..P...<....
-1FA0: 08 80 3C 00 11 60 80 08  80 3C 00 11 51 80 08 80  ..<..`...<..Q...
-1FB0: 3C 00 11 52 80 08 80 3C  00 11 61 80 08 80 01 F2  <..R...<..a.....
-1FC0: 1F 3D 00 11 01 80 08 80  3D 00 11 50 80 08 80 3D  .=......=..P...=
-1FD0: 00 11 04 80 08 80 3C 00  11 60 80 08 80 3D 00 11  ......<..`...=..
-1FE0: 51 80 08 80 3D 00 11 52  80 08 80 3D 00 11 61 80  Q...=..R...=..a.
-1FF0: 08 80 1B 02 1B 00 00 80  80 36 20 3D 00 11 62 80  .........6 =..b.
-2000: 08 80 3D 00 11 0C 80 08  80 3D 00 11 4B 80 08 80  ..=......=..K...
-2010: 3D 01 11 63 80 08 80 3C  01 11 54 80 08 80 3D 01  =..c...<..T...=.
-2020: 11 5F 80 08 80 3D 01 11  60 80 08 80 3D 01 11 51  ._...=..`...=..Q
-2030: 80 08 80 01 43 22 02 1B  00 08 80 80 79 20 3D 00  ....C"......y =.
-2040: 11 62 80 08 80 3D 00 11  0C 80 08 80 3D 00 11 4B  .b...=......=..K
-2050: 80 08 80 3D 01 11 63 80  08 80 3C 01 11 54 80 08  ...=..c...<..T..
-2060: 80 3D 01 11 5F 80 08 80  3D 01 11 60 80 08 80 3D  .=.._...=..`...=
-2070: 01 11 51 80 08 80 01 43  22 02 1B 00 1C 80 80 BC  ..Q....C".......
-2080: 20 3D 00 11 62 80 08 80  3D 00 11 0C 80 08 80 3D   =..b...=......=
-2090: 00 11 4B 80 08 80 3D 01  11 63 80 08 80 3C 01 11  ..K...=..c...<..
-20A0: 54 80 08 80 3D 01 11 5F  80 08 80 3D 01 11 60 80  T...=.._...=..`.
-20B0: 08 80 3D 01 11 51 80 08  80 01 43 22 02 1B 00 1D  ..=..Q....C"....
-20C0: 80 80 FF 20 3C 00 11 62  80 08 80 3D 00 11 0C 80  ... <..b...=....
-20D0: 08 80 3D 00 11 4B 80 08  80 3D 01 11 63 80 08 80  ..=..K...=..c...
-20E0: 3D 01 11 54 80 08 80 3C  01 11 5F 80 08 80 3D 01  =..T...<.._...=.
-20F0: 11 60 80 08 80 3D 01 11  51 80 08 80 01 43 22 02  .`...=..Q....C".
-2100: 1B 00 07 80 80 42 21 3C  00 11 62 80 08 80 3D 00  .....B!<..b...=.
-2110: 11 0C 80 08 80 3D 00 11  4B 80 08 80 3D 01 11 63  .....=..K...=..c
-2120: 80 08 80 3D 01 11 54 80  08 80 3C 01 11 5F 80 08  ...=..T...<.._..
-2130: 80 3D 01 11 60 80 08 80  3D 01 11 51 80 08 80 01  .=..`...=..Q....
-2140: 43 22 02 1B 00 5E 80 80  85 21 3C 00 11 62 80 08  C"...^...!<..b..
-2150: 80 3C 00 11 0C 80 08 80  3D 00 11 4B 80 08 80 3D  .<......=..K...=
-2160: 01 11 63 80 08 80 3D 01  11 54 80 08 80 3D 01 11  ..c...=..T...=..
-2170: 5F 80 08 80 3C 01 11 60  80 08 80 3D 01 11 51 80  _...<..`...=..Q.
-2180: 08 80 01 43 22 02 1B 00  01 80 80 C8 21 3C 00 11  ...C".......!<..
-2190: 62 80 08 80 3C 00 11 0C  80 08 80 3D 00 11 4B 80  b...<......=..K.
-21A0: 08 80 3D 01 11 63 80 08  80 3D 01 11 54 80 08 80  ..=..c...=..T...
-21B0: 3D 01 11 5F 80 08 80 3C  01 11 60 80 08 80 3D 01  =.._...<..`...=.
-21C0: 11 51 80 08 80 01 43 22  02 1B 00 50 80 80 0B 22  .Q....C"...P..."
-21D0: 3C 00 11 62 80 08 80 3C  00 11 0C 80 08 80 3C 00  <..b...<......<.
-21E0: 11 4B 80 08 80 3C 01 11  63 80 08 80 3D 01 11 54  .K...<..c...=..T
-21F0: 80 08 80 3D 01 11 5F 80  08 80 3D 01 11 60 80 08  ...=.._...=..`..
-2200: 80 3C 01 11 51 80 08 80  01 43 22 3D 00 11 62 80  .<..Q....C"=..b.
-2210: 08 80 3D 00 11 0C 80 08  80 3D 00 11 4B 80 08 80  ..=......=..K...
-2220: 3D 01 11 63 80 08 80 3C  01 11 54 80 08 80 3D 01  =..c...<..T...=.
-2230: 11 5F 80 08 80 3D 01 11  60 80 08 80 3D 01 11 51  ._...=..`...=..Q
-2240: 80 08 80 1B 03 01 10 4B  80 43 00 43 01 03 02 11  .......K.C.C....
-2250: 02 10 03 03 11 03 10 03  04 11 04 10 03 05 11 05  ................
-2260: 10 03 06 11 06 10 03 07  11 07 10 03 09 11 08 10  ................
-2270: 1B 03 01 10 67 80 47 00  68 80 69 80 6A 80 6B 80  ....g.G.h.i.j.k.
-2280: 47 01 03 02 11 02 10 03  03 11 03 10 03 04 11 04  G...............
-2290: 10 03 05 11 05 10 03 06  11 06 10 03 07 11 07 10  ................
-22A0: 03 09 11 08 10 1B 2F 00  37 80 11 01 2F 00 38 80  ....../.7.../.8.
-22B0: 11 01 2F 00 39 80 11 01  2F 00 3A 80 11 01 2F 00  ../.9.../.:.../.
-22C0: 3B 80 11 01 2F 00 3C 80  11 01 2F 00 3D 80 11 01  ;.../.<.../.=...
-22D0: 2F 00 3E 80 11 01 2F 00  3F 80 11 01 2F 00 40 80  /.>.../.?.../.@.
-22E0: 11 01 2F 00 41 80 11 01  2F 00 42 80 11 01 2F 00  ../.A.../.B.../.
-22F0: 43 80 11 01 2F 00 44 80  11 01 2F 00 45 80 11 01  C.../.D.../.E...
-2300: 2F 00 46 80 11 01 2F 00  47 80 11 01 2F 00 48 80  /.F.../.G.../.H.
-2310: 11 01 2F 00 49 80 11 01  2F 00 4A 80 11 01 2F 00  ../.I.../.J.../.
-2320: 4B 80 11 01 2F 00 4C 80  11 01 2F 00 4D 80 11 01  K.../.L.../.M...
-2330: 2F 00 4E 80 11 01 AC 02  37 80 11 01 AC 02 38 80  /.N.....7.....8.
-2340: 11 01 AC 02 39 80 11 01  AC 02 3A 80 11 01 AC 02  ....9.....:.....
-2350: 3B 80 11 01 AC 02 3C 80  11 01 AC 02 3D 80 11 01  ;.....<.....=...
-2360: AC 02 3E 80 11 01 AC 02  3F 80 11 01 AC 02 40 80  ..>.....?.....@.
-2370: 11 01 AC 02 41 80 11 01  AC 02 42 80 11 01 AC 02  ....A.....B.....
-2380: 43 80 11 01 AC 02 44 80  11 01 AC 02 45 80 11 01  C.....D.....E...
-2390: AC 02 46 80 11 01 AC 02  47 80 11 01 AC 02 48 80  ..F.....G.....H.
-23A0: 11 01 AC 02 49 80 11 01  AC 02 4A 80 11 01 AC 02  ....I.....J.....
-23B0: 4B 80 11 01 AC 02 4C 80  11 01 AC 02 4D 80 11 01  K.....L.....M...
-23C0: AC 02 4E 80 11 01 AC 02  0C 80 11 01 AC 02 0D 80  ..N.............
-23D0: 11 01 AC 02 0E 80 11 01  41 00 80 08 80 02 11 02  ........A.......
-23E0: 10 02 02 10 08 80 00 F3  23 29 80 0C 80 11 01 03  ........#)......
-23F0: 01 FA 23 29 80 0C 80 11  01 02 41 00 80 08 80 03  ..#)......A.....
-2400: 11 02 10 02 02 10 08 80  00 15 24 29 80 0D 80 11  ..........$)....
-2410: 01 03 01 1C 24 29 80 0D  80 11 01 02 41 00 80 08  ....$)......A...
-2420: 80 04 11 02 10 02 02 10  08 80 00 37 24 29 80 0E  ...........7$)..
-2430: 80 11 01 03 01 3E 24 29  80 0E 80 11 01 02 27 80  .....>$)......'.
-2440: 37 80 11 01 02 27 80 38  80 11 01 02 27 80 39 80  7....'.8....'.9.
-2450: 11 01 02 29 80 3A 80 11  01 02 27 80 3B 80 11 01  ...).:....'.;...
-2460: 02 27 80 3C 80 11 01 02  27 80 3D 80 11 01 02 29  .'.<....'.=....)
-2470: 80 3E 80 11 01 02 27 80  3F 80 11 01 02 27 80 40  .>....'.?....'.@
-2480: 80 11 01 02 27 80 41 80  11 01 02 29 80 42 80 11  ....'.A....).B..
-2490: 01 02 27 80 43 80 11 01  02 27 80 44 80 11 01 02  ..'.C....'.D....
-24A0: 27 80 45 80 11 01 02 29  80 46 80 11 01 02 27 80  '.E....).F....'.
-24B0: 47 80 11 01 02 27 80 48  80 11 01 02 27 80 49 80  G....'.H....'.I.
-24C0: 11 01 02 29 80 4A 80 11  01 02 27 80 4B 80 11 01  ...).J....'.K...
-24D0: 02 27 80 4C 80 11 01 02  27 80 4D 80 11 01 02 29  .'.L....'.M....)
-24E0: 80 4E 80 11 01 02 1B 42  45 0E 80 F0 FF FF 7F F0  .N.....BE.......
-24F0: FF FF 7F 66 64 6F 30 00  80 55 0E 80 F0 FF FF 7F  ...fdo0..U......
-2500: F0 FF FF 7F 66 64 6F 30  1A 71 22 1A 86 0E 45 0E  ....fdo0.q"...E.
-2510: 80 F0 FF FF 7F F0 FF FF  7F 66 64 69 30 00 80 55  .........fdi0..U
-2520: 0E 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 30 1B 42  ..........fdi0.B
-2530: 45 0E 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 30 00  E..........fdo0.
-2540: 80 55 0E 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 30  .U..........fdo0
-2550: 03 01 10 6C 80 47 00 6D  80 6E 80 6F 80 70 80 47  ...l.G.m.n.o.p.G
-2560: 01 02 02 10 00 80 00 7E  25 1A C0 16 1A 69 16 1A  .......~%....i..
-2570: 77 16 1A 85 16 1A 93 16  1A 25 15 01 7E 25 45 0E  w........%..~%E.
-2580: 80 F0 FF FF 7F F0 FF FF  7F 66 64 69 30 00 80 55  .........fdi0..U
-2590: 0E 80 F0 FF FF 7F F0 FF  FF 7F 66 64 69 30 1B 1A  ..........fdi0..
-25A0: 08 26 02 1B 00 00 80 01  AB 25 1B 3C 00 11 02 10  .&.......%.<....
-25B0: 08 80 1A 86 0E 1B 1A 08  26 02 1B 00 00 80 01 C2  ........&.......
-25C0: 25 1B 3D 00 11 02 10 08  80 1A 86 0E 1B 03 1B 00  %.=.............
-25D0: 02 10 03 01 10 1C 80 40  04 80 03 80 01 10 02 10  .......@........
-25E0: 02 1C 00 00 80 00 F2 25  3C 01 10 03 80 08 80 01  .......%<.......
-25F0: F9 25 3D 01 10 03 80 08  80 43 00 43 01 03 00 11  .%=......C.C....
-2600: 02 10 03 1B 00 00 80 1B  02 02 10 00 80 03 19 26  ...............&
-2610: 03 1B 00 48 80 1B 01 2F  26 02 02 10 03 80 02 2A  ...H.../&......*
-2620: 26 03 1B 00 48 80 1B 01  2F 26 03 1B 00 00 80 1B  &...H.../&......
-2630: 02 10 03 10 04 10 05 10  06 10 07 10 08 10 09 10  ................
-2640: 00 17 01 17 02 17 03 17  04 17 05 17 06 17 07 17  ................
-2650: 08 17 09 17 0A 17 0B 17  0C 17 0D 17 0E 17 0F 17  ................
-2660: 10 17 11 17 12 17 13 17  14 17 15 17 16 17 17 17  ................
-2670: 18 17 19 17 1A 17 1B 17  1C 17 1D 17 1E 17 1F 17  ................
-2680: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
+0E00:                                   42 46 01 45 0E             BF.E.
+0E10: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 00 80 55  .........fdo1..U
+0E20: 0E 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 38 0F  ..........fdo18.
+0E30: 80 29 08 F0 FF FF 7F 23  37 10 80 11 80 12 80 13  .).....#7.......
+0E40: 80 4E 01 87 80 11 01 4A  F8 FF FF 7F F0 FF FF 7F  .N.....J........
+0E50: 6F 76 F8 FF FF 7F 45 1E  80 F0 FF FF 7F F0 FF FF  ov....E.........
+0E60: 7F 73 31 30 31 00 80 45  0E 80 F0 FF FF 7F F0 FF  .s101..E........
+0E70: FF 7F 66 64 69 31 00 80  55 0E 80 F0 FF FF 7F F0  ..fdi1..U.......
+0E80: FF FF 7F 66 64 69 31 1D  58 80 23 52 1E 80 F0 FF  ...fdi1.X.#R....
+0E90: FF 7F F0 FF FF 7F 73 31  30 31 46 00 20 00 21 00  ......s101F. .!.
+0EA0: 48 43 80 23 21 00 03 03  10 59 80 48 5A 80 23 21  HC.#!....Y.HZ.#!
+0EB0: 00 92 00 1D 80 11 01 1A  EB 16 1A 28 0F 1A EC 0F  ...........(....
+0EC0: 1A 96 11 1A C3 13 1A D1  22 1A D1 13 1A AD 14 1A  ........".......
+0ED0: E4 14 1A 07 15 1A 33 15  1A D3 15 1A 5D 16 1A 86  ......3.....]...
+0EE0: 16 1A CC 16 1A 04 13 AC  02 35 80 11 01 1B 92 00  .........5......
+0EF0: 1D 80 11 01 1A 28 0F 1A  EC 0F 1A 96 11 1A C3 13  .....(..........
+0F00: 1A D1 22 1A D1 13 1A AD  14 1A E4 14 1A 07 15 1A  ..".............
+0F10: 33 15 1A D3 15 1A 5D 16  1A 86 16 1A CC 16 1A 04  3.....].........
+0F20: 13 AC 02 35 80 11 01 1B  AC 02 09 80 11 01 3E 00  ...5..........>.
+0F30: 11 00 80 3F 0F 27 80 09  80 11 01 02 01 46 0F 27  ...?.'.......F.'
+0F40: 80 09 80 11 01 03 AC 02  0A 80 11 01 3E 00 11 08  ............>...
+0F50: 80 5D 0F 27 80 0A 80 11  01 02 01 64 0F 27 80 0A  .].'.......d.'..
+0F60: 80 11 01 03 AC 02 0B 80  11 01 3E 00 11 1C 80 7B  ..........>....{
+0F70: 0F 29 80 0B 80 11 01 02  01 82 0F 29 80 0B 80 11  .).........)....
+0F80: 01 03 92 01 20 80 11 01  92 01 21 80 11 01 92 01  .... .....!.....
+0F90: 22 80 11 01 AC 02 20 80  11 01 3E 00 11 5B 80 AA  "..... ...>..[..
+0FA0: 0F 4E 00 20 80 11 01 01  B0 0F 4E 01 20 80 11 01  .N. ......N. ...
+0FB0: AC 02 21 80 11 01 3E 00  11 5C 80 C6 0F 4E 00 21  ..!...>..\...N.!
+0FC0: 80 11 01 01 CC 0F 4E 01  21 80 11 01 AC 02 22 80  ......N.!.....".
+0FD0: 11 01 3E 00 11 5D 80 E2  0F 4E 00 22 80 11 01 01  ..>..]...N."....
+0FE0: E8 0F 4E 01 22 80 11 01  1C 08 80 1B AC 02 0F 80  ..N."...........
+0FF0: 11 01 3E 00 11 1D 80 03  10 27 80 0F 80 11 01 02  ..>......'......
+1000: 01 0A 10 27 80 0F 80 11  01 03 AC 02 10 80 11 01  ...'............
+1010: 3E 00 11 07 80 21 10 27  80 10 80 11 01 02 01 28  >....!.'.......(
+1020: 10 27 80 10 80 11 01 03  AC 02 11 80 11 01 3E 00  .'............>.
+1030: 11 5E 80 3F 10 29 80 11  80 11 01 02 01 46 10 29  .^.?.).......F.)
+1040: 80 11 80 11 01 03 AC 02  1A 80 11 01 3E 01 11 53  ............>..S
+1050: 80 5D 10 27 80 1A 80 11  01 02 01 64 10 27 80 1A  .].'.......d.'..
+1060: 80 11 01 03 AC 02 1B 80  11 01 3E 01 11 0F 80 7B  ..........>....{
+1070: 10 29 80 1B 80 11 01 02  01 82 10 29 80 1B 80 11  .).........)....
+1080: 01 03 AC 02 23 80 11 01  AC 02 24 80 11 01 3E 00  ....#.....$...>.
+1090: 11 53 80 BA 10 3E 08 11  00 80 AB 10 4E 00 24 80  .S...>......N.$.
+10A0: 11 01 4E 01 23 80 11 01  01 B7 10 4E 00 23 80 11  ..N.#......N.#..
+10B0: 01 4E 01 24 80 11 01 01  C6 10 4E 01 23 80 11 01  .N.$......N.#...
+10C0: 4E 01 24 80 11 01 AC 02  25 80 11 01 AC 02 26 80  N.$.....%.....&.
+10D0: 11 01 3E 00 11 0F 80 FE  10 3E 08 11 08 80 EF 10  ..>......>......
+10E0: 4E 00 26 80 11 01 4E 01  25 80 11 01 01 FB 10 4E  N.&...N.%......N
+10F0: 00 25 80 11 01 4E 01 26  80 11 01 01 0A 11 4E 01  .%...N.&......N.
+1100: 25 80 11 01 4E 01 26 80  11 01 AC 02 27 80 11 01  %...N.&.....'...
+1110: AC 02 28 80 11 01 3E 00  11 54 80 42 11 3E 08 11  ..(...>..T.B.>..
+1120: 1C 80 33 11 4E 00 28 80  11 01 4E 01 27 80 11 01  ..3.N.(...N.'...
+1130: 01 3F 11 4E 00 27 80 11  01 4E 01 28 80 11 01 01  .?.N.'...N.(....
+1140: 4E 11 4E 01 27 80 11 01  4E 01 28 80 11 01 AC 02  N.N.'...N.(.....
+1150: 29 80 11 01 AC 02 2A 80  11 01 3E 00 11 5F 80 86  ).....*...>.._..
+1160: 11 3E 08 11 1D 80 77 11  4E 00 2A 80 11 01 4E 01  .>....w.N.*...N.
+1170: 29 80 11 01 01 83 11 4E  00 29 80 11 01 4E 01 2A  )......N.)...N.*
+1180: 80 11 01 01 92 11 4E 01  29 80 11 01 4E 01 2A 80  ......N.)...N.*.
+1190: 11 01 1C 08 80 1B AC 02  12 80 11 01 3E 00 11 01  ............>...
+11A0: 80 AD 11 27 80 12 80 11  01 02 01 B4 11 27 80 12  ...'.........'..
+11B0: 80 11 01 03 AC 02 13 80  11 01 3E 00 11 50 80 CB  ..........>..P..
+11C0: 11 27 80 13 80 11 01 02  01 D2 11 27 80 13 80 11  .'.........'....
+11D0: 01 03 AC 02 14 80 11 01  3E 00 11 04 80 E9 11 29  ........>......)
+11E0: 80 14 80 11 01 02 01 F0  11 29 80 14 80 11 01 03  .........)......
+11F0: AC 02 2B 80 11 01 AC 02  2C 80 11 01 3E 00 11 60  ..+.....,...>..`
+1200: 80 28 12 3E 08 11 07 80  19 12 4E 00 2C 80 11 01  .(.>......N.,...
+1210: 4E 01 2B 80 11 01 01 25  12 4E 00 2B 80 11 01 4E  N.+....%.N.+...N
+1220: 01 2C 80 11 01 01 34 12  4E 01 2B 80 11 01 4E 01  .,....4.N.+...N.
+1230: 2C 80 11 01 AC 02 2D 80  11 01 AC 02 2E 80 11 01  ,.....-.........
+1240: 3E 00 11 51 80 6C 12 3E  08 11 5E 80 5D 12 4E 00  >..Q.l.>..^.].N.
+1250: 2E 80 11 01 4E 01 2D 80  11 01 01 69 12 4E 00 2D  ....N.-....i.N.-
+1260: 80 11 01 4E 01 2E 80 11  01 01 78 12 4E 01 2D 80  ...N......x.N.-.
+1270: 11 01 4E 01 2E 80 11 01  AC 02 2F 80 11 01 AC 02  ..N......./.....
+1280: 30 80 11 01 3E 00 11 52  80 B0 12 3E 08 11 01 80  0...>..R...>....
+1290: A1 12 4E 00 30 80 11 01  4E 01 2F 80 11 01 01 AD  ..N.0...N./.....
+12A0: 12 4E 00 2F 80 11 01 4E  01 30 80 11 01 01 BC 12  .N./...N.0......
+12B0: 4E 01 2F 80 11 01 4E 01  30 80 11 01 AC 02 31 80  N./...N.0.....1.
+12C0: 11 01 AC 02 32 80 11 01  3E 00 11 61 80 F4 12 3E  ....2...>..a...>
+12D0: 08 11 50 80 E5 12 4E 00  32 80 11 01 4E 01 31 80  ..P...N.2...N.1.
+12E0: 11 01 01 F1 12 4E 00 31  80 11 01 4E 01 32 80 11  .....N.1...N.2..
+12F0: 01 01 00 13 4E 01 31 80  11 01 4E 01 32 80 11 01  ....N.1...N.2...
+1300: 1C 08 80 1B 92 01 35 80  11 01 AC 02 15 80 11 01  ......5.........
+1310: 3E 00 11 62 80 21 13 27  80 15 80 11 01 02 01 28  >..b.!.'.......(
+1320: 13 27 80 15 80 11 01 03  AC 02 16 80 11 01 3E 00  .'............>.
+1330: 11 0C 80 3F 13 27 80 16  80 11 01 02 01 46 13 27  ...?.'.......F.'
+1340: 80 16 80 11 01 03 AC 02  17 80 11 01 3E 00 11 4B  ............>..K
+1350: 80 5D 13 27 80 17 80 11  01 02 01 64 13 27 80 17  .].'.......d.'..
+1360: 80 11 01 03 AC 02 18 80  11 01 3E 01 11 63 80 7B  ..........>..c.{
+1370: 13 29 80 18 80 11 01 02  01 82 13 29 80 18 80 11  .).........)....
+1380: 01 03 3E 01 11 54 80 92  13 60 02 69 30 6F 6E 01  ..>..T...`.i0on.
+1390: 92 13 3E 01 11 5F 80 A2  13 60 02 69 31 6F 6E 01  ..>.._...`.i1on.
+13A0: A2 13 3E 01 11 60 80 B2  13 60 02 69 32 6F 6E 01  ..>..`...`.i2on.
+13B0: B2 13 3E 01 11 51 80 C2  13 60 02 69 33 6F 6E 01  ..>..Q...`.i3on.
+13C0: C2 13 1B AC 02 35 80 11  01 29 08 35 80 11 01 04  .....5...).5....
+13D0: 1B 92 00 57 80 11 01 92  00 6A 80 11 01 92 00 58  ...W.....j.....X
+13E0: 80 11 01 92 00 6B 80 11  01 92 00 59 80 11 01 92  .....k.....Y....
+13F0: 00 6C 80 11 01 AC 02 57  80 11 01 3E 00 11 2C 80  .l.....W...>..,.
+1400: 0C 14 27 08 57 80 11 01  02 01 13 14 27 08 57 80  ..'.W.......'.W.
+1410: 11 01 03 AC 02 6A 80 11  01 3E 00 11 20 80 2A 14  .....j...>.. .*.
+1420: 27 08 6A 80 11 01 02 01  31 14 27 08 6A 80 11 01  '.j.....1.'.j...
+1430: 03 AC 02 58 80 11 01 3E  00 11 64 80 48 14 29 08  ...X...>..d.H.).
+1440: 58 80 11 01 02 01 4F 14  29 08 58 80 11 01 03 AC  X.....O.).X.....
+1450: 02 6B 80 11 01 3E 00 11  05 80 66 14 27 08 6B 80  .k...>....f.'.k.
+1460: 11 01 02 01 6D 14 27 08  6B 80 11 01 03 AC 02 59  ....m.'.k......Y
+1470: 80 11 01 3E 00 11 02 80  84 14 27 08 59 80 11 01  ...>......'.Y...
+1480: 02 01 8B 14 27 08 59 80  11 01 03 AC 02 6C 80 11  ....'.Y......l..
+1490: 01 3E 00 11 63 80 A2 14  29 08 6C 80 11 01 02 01  .>..c...).l.....
+14A0: A9 14 29 08 6C 80 11 01  03 1C 08 80 1B AC 02 36  ..).l..........6
+14B0: 80 11 01 3E 00 11 65 80  D0 14 2C 36 80 11 01 36  ...>..e...,6...6
+14C0: 80 11 01 65 66 6F 6E B6  14 36 80 11 01 01 E3 14  ...efon..6......
+14D0: 2C 36 80 11 01 36 80 11  01 65 66 6F 66 B6 15 36  ,6...6...efof..6
+14E0: 80 11 01 1B 3E 01 11 00  80 FA 14 4E 00 71 80 11  ....>......N.q..
+14F0: 01 AC 03 71 80 11 01 01  06 15 AC 02 71 80 11 01  ...q........q...
+1500: 4E 01 71 80 11 01 1B AC  02 72 80 11 01 3E 01 11  N.q......r...>..
+1510: 08 80 2B 15 3E 01 11 1D  80 22 15 29 08 72 80 11  ..+.>....".).r..
+1520: 01 04 4E 00 72 80 11 01  01 32 15 29 08 72 80 11  ..N.r....2.).r..
+1530: 01 03 1B AC 02 8E 80 11  01 3E 01 11 61 80 49 15  .........>..a.I.
+1540: 4E 00 8E 80 11 01 01 4F  15 4E 01 8E 80 11 01 1B  N......O.N......
+1550: AC 02 80 80 11 01 AC 02  81 80 11 01 AC 02 82 80  ................
+1560: 11 01 AC 02 83 80 11 01  AC 02 84 80 11 01 3E 01  ..............>.
+1570: 11 5B 80 B4 15 4E 00 80  80 11 01 AC 03 80 80 11  .[...N..........
+1580: 01 4E 00 81 80 11 01 AC  03 81 80 11 01 4E 00 82  .N...........N..
+1590: 80 11 01 AC 03 82 80 11  01 4E 00 83 80 11 01 AC  .........N......
+15A0: 03 83 80 11 01 4E 00 84  80 11 01 AC 03 84 80 11  .....N..........
+15B0: 01 01 D2 15 4E 01 80 80  11 01 4E 01 81 80 11 01  ....N.....N.....
+15C0: 4E 01 82 80 11 01 4E 01  83 80 11 01 4E 01 84 80  N.....N.....N...
+15D0: 11 01 1B AC 02 85 80 11  01 AC 02 86 80 11 01 3E  ...............>
+15E0: 01 11 5C 80 50 16 13 1B  00 1C 80 02 1B 00 1C 80  ..\.P...........
+15F0: 02 F6 15 06 1B 00 02 1B  00 00 80 80 0F 16 29 08  ..............).
+1600: 85 80 11 01 02 29 08 86  80 11 01 02 01 41 16 02  .....).......A..
+1610: 1B 00 08 80 80 28 16 29  08 85 80 11 01 03 29 08  .....(.)......).
+1620: 86 80 11 01 03 01 41 16  02 1B 00 1C 80 80 41 16  ......A.......A.
+1630: 29 08 85 80 11 01 04 29  08 86 80 11 01 04 01 41  )......).......A
+1640: 16 4E 00 85 80 11 01 4E  00 86 80 11 01 01 5C 16  .N.....N......\.
+1650: 4E 01 85 80 11 01 4E 01  86 80 11 01 1B AC 02 87  N.....N.........
+1660: 80 11 01 3E 01 11 07 80  79 16 4E 00 87 80 11 01  ...>....y.N.....
+1670: AC 03 87 80 11 01 01 85  16 AC 02 87 80 11 01 4E  ...............N
+1680: 01 87 80 11 01 1B AC 02  89 80 11 01 29 08 89 80  ............)...
+1690: 11 01 04 1B AC 02 8A 80  11 01 29 08 8A 80 11 01  ..........).....
+16A0: 04 1B AC 02 8B 80 11 01  29 08 8B 80 11 01 04 1B  ........).......
+16B0: AC 02 8C 80 11 01 29 08  8C 80 11 01 04 1B AC 02  ......).........
+16C0: 8D 80 11 01 29 08 8D 80  11 01 04 1B AC 02 1C 80  ....)...........
+16D0: 11 01 3E 01 11 52 80 E3  16 29 80 1C 80 11 01 02  ..>..R...)......
+16E0: 01 EA 16 29 80 1C 80 11  01 03 1B 03 01 10 08 80  ...)............
+16F0: 43 00 43 01 03 1C 00 02  10 03 08 11 03 10 03 01  C.C.............
+1700: 11 04 10 03 0A 11 05 10  03 0B 11 06 10 03 0C 11  ................
+1710: 07 10 03 01 10 4B 80 43  00 43 01 03 02 11 02 10  .....K.C.C......
+1720: 03 03 11 03 10 03 04 11  04 10 03 05 11 05 10 03  ................
+1730: 06 11 06 10 03 07 11 07  10 03 09 11 08 10 41 00  ..............A.
+1740: 80 1D 80 1C 00 1B 00 1A  38 19 41 07 80 50 80 1C  ........8.A..P..
+1750: 00 1B 00 1A 40 1B 41 04  80 4B 80 1C 00 1B 00 1A  ....@.A..K......
+1760: D0 1D 41 2C 80 05 80 1C  00 1B 00 1A 1E 20 41 54  ..A,......... AT
+1770: 80 60 80 1C 00 1B 00 1A  A0 17 41 03 80 03 80 1C  .`........A.....
+1780: 00 1B 00 02 1B 00 00 80  00 95 17 3D 00 11 65 80  ...........=..e.
+1790: 08 80 01 9C 17 3C 00 11  65 80 08 80 1A BA 17 1B  .....<..e.......
+17A0: 02 1B 00 1D 80 04 B2 17  3C 01 11 52 80 08 80 01  ........<..R....
+17B0: B9 17 3D 01 11 52 80 08  80 1B 3E 08 11 04 80 2B  ..=..R....>....+
+17C0: 18 41 62 80 4B 80 08 11  1B 00 02 1B 00 08 80 80  .Ab.K...........
+17D0: E3 17 3D 00 11 2C 80 08  80 3C 00 11 20 80 08 80  ..=..,...<.. ...
+17E0: 01 28 18 02 1B 00 07 80  80 FC 17 3C 00 11 2C 80  .(.........<..,.
+17F0: 08 80 3D 00 11 20 80 08  80 01 28 18 13 1B 00 66  ..=.. ....(....f
+1800: 80 02 1B 00 35 80 03 1A  18 3D 00 11 2C 80 08 80  ....5....=..,...
+1810: 3C 00 11 20 80 08 80 01  28 18 3C 00 11 2C 80 08  <.. ....(.<..,..
+1820: 80 3D 00 11 20 80 08 80  01 39 18 3D 00 11 2C 80  .=.. ....9.=..,.
+1830: 08 80 3D 00 11 20 80 08  80 3E 08 11 2C 80 AA 18  ..=.. ...>..,...
+1840: 41 20 80 05 80 08 11 1B  00 02 1B 00 08 80 80 62  A .............b
+1850: 18 3C 00 11 64 80 08 80  3D 00 11 05 80 08 80 01  .<..d...=.......
+1860: A7 18 02 1B 00 5E 80 80  7B 18 3D 00 11 64 80 08  .....^..{.=..d..
+1870: 80 3C 00 11 05 80 08 80  01 A7 18 13 1B 00 66 80  .<............f.
+1880: 02 1B 00 35 80 03 99 18  3C 00 11 64 80 08 80 3D  ...5....<..d...=
+1890: 00 11 05 80 08 80 01 A7  18 3D 00 11 64 80 08 80  .........=..d...
+18A0: 3C 00 11 05 80 08 80 01  B8 18 3D 00 11 64 80 08  <.........=..d..
+18B0: 80 3D 00 11 05 80 08 80  3E 08 11 02 80 29 19 41  .=......>....).A
+18C0: 63 80 0F 80 08 11 1B 00  02 1B 00 1D 80 80 E1 18  c...............
+18D0: 3C 00 11 02 80 08 80 3D  00 11 63 80 08 80 01 26  <......=..c....&
+18E0: 19 02 1B 00 1C 80 80 FA  18 3D 00 11 02 80 08 80  .........=......
+18F0: 3C 00 11 63 80 08 80 01  26 19 13 1B 00 66 80 02  <..c....&....f..
+1900: 1B 00 35 80 03 18 19 3C  00 11 02 80 08 80 3D 00  ..5....<......=.
+1910: 11 63 80 08 80 01 26 19  3D 00 11 02 80 08 80 3C  .c....&.=......<
+1920: 00 11 63 80 08 80 01 37  19 3D 00 11 02 80 08 80  ..c....7.=......
+1930: 3D 00 11 63 80 08 80 1B  02 1B 00 00 80 80 6D 19  =..c..........m.
+1940: 3D 00 11 00 80 08 80 3C  00 11 08 80 08 80 3C 00  =......<......<.
+1950: 11 1C 80 08 80 3C 00 11  5B 80 08 80 3D 00 11 5C  .....<..[...=..\
+1960: 80 08 80 3D 00 11 5D 80  08 80 01 3F 1B 02 1B 00  ...=..]....?....
+1970: 08 80 80 A2 19 3D 00 11  00 80 08 80 3C 00 11 08  .....=......<...
+1980: 80 08 80 3C 00 11 1C 80  08 80 3C 00 11 5B 80 08  ...<......<..[..
+1990: 80 3D 00 11 5C 80 08 80  3D 00 11 5D 80 08 80 01  .=..\...=..]....
+19A0: 3F 1B 02 1B 00 1C 80 80  D7 19 3D 00 11 00 80 08  ?.........=.....
+19B0: 80 3C 00 11 08 80 08 80  3C 00 11 1C 80 08 80 3C  .<......<......<
+19C0: 00 11 5B 80 08 80 3D 00  11 5C 80 08 80 3D 00 11  ..[...=..\...=..
+19D0: 5D 80 08 80 01 3F 1B 02  1B 00 1D 80 80 0C 1A 3D  ]....?.........=
+19E0: 00 11 00 80 08 80 3D 00  11 08 80 08 80 3C 00 11  ......=......<..
+19F0: 1C 80 08 80 3C 00 11 5B  80 08 80 3C 00 11 5C 80  ....<..[...<..\.
+1A00: 08 80 3D 00 11 5D 80 08  80 01 3F 1B 02 1B 00 07  ..=..]....?.....
+1A10: 80 80 41 1A 3D 00 11 00  80 08 80 3D 00 11 08 80  ..A.=......=....
+1A20: 08 80 3C 00 11 1C 80 08  80 3C 00 11 5B 80 08 80  ..<......<..[...
+1A30: 3C 00 11 5C 80 08 80 3D  00 11 5D 80 08 80 01 3F  <..\...=..]....?
+1A40: 1B 02 1B 00 5E 80 80 76  1A 3D 00 11 00 80 08 80  ....^..v.=......
+1A50: 3D 00 11 08 80 08 80 3D  00 11 1C 80 08 80 3C 00  =......=......<.
+1A60: 11 5B 80 08 80 3C 00 11  5C 80 08 80 3C 00 11 5D  .[...<..\...<..]
+1A70: 80 08 80 01 3F 1B 02 1B  00 01 80 80 AB 1A 3D 00  ....?.........=.
+1A80: 11 00 80 08 80 3D 00 11  08 80 08 80 3D 00 11 1C  .....=......=...
+1A90: 80 08 80 3C 00 11 5B 80  08 80 3C 00 11 5C 80 08  ...<..[...<..\..
+1AA0: 80 3C 00 11 5D 80 08 80  01 3F 1B 02 1B 00 50 80  .<..]....?....P.
+1AB0: 80 E0 1A 3D 00 11 00 80  08 80 3D 00 11 08 80 08  ...=......=.....
+1AC0: 80 3D 00 11 1C 80 08 80  3C 00 11 5B 80 08 80 3C  .=......<..[...<
+1AD0: 00 11 5C 80 08 80 3C 00  11 5D 80 08 80 01 3F 1B  ..\...<..]....?.
+1AE0: 02 1B 00 04 80 80 15 1B  3D 00 11 00 80 08 80 3D  ........=......=
+1AF0: 00 11 08 80 08 80 3D 00  11 1C 80 08 80 3C 00 11  ......=......<..
+1B00: 5B 80 08 80 3C 00 11 5C  80 08 80 3C 00 11 5D 80  [...<..\...<..].
+1B10: 08 80 01 3F 1B 3D 00 11  00 80 08 80 3C 00 11 08  ...?.=......<...
+1B20: 80 08 80 3C 00 11 1C 80  08 80 3C 00 11 5B 80 08  ...<......<..[..
+1B30: 80 3D 00 11 5C 80 08 80  3D 00 11 5D 80 08 80 1B  .=..\...=..]....
+1B40: 02 1B 00 00 80 80 8A 1B  3C 00 11 1D 80 08 80 3C  ........<......<
+1B50: 00 11 07 80 08 80 3C 00  11 5E 80 08 80 3C 01 11  ......<..^...<..
+1B60: 53 80 08 80 3C 01 11 0F  80 08 80 3C 00 11 53 80  S...<......<..S.
+1B70: 08 80 3D 00 11 0F 80 08  80 3D 00 11 54 80 08 80  ..=......=..T...
+1B80: 3D 00 11 5F 80 08 80 01  CF 1D 02 1B 00 08 80 80  =.._............
+1B90: D4 1B 3C 00 11 1D 80 08  80 3C 00 11 07 80 08 80  ..<......<......
+1BA0: 3C 00 11 5E 80 08 80 3C  01 11 53 80 08 80 3C 01  <..^...<..S...<.
+1BB0: 11 0F 80 08 80 3C 00 11  53 80 08 80 3D 00 11 0F  .....<..S...=...
+1BC0: 80 08 80 3D 00 11 54 80  08 80 3D 00 11 5F 80 08  ...=..T...=.._..
+1BD0: 80 01 CF 1D 02 1B 00 1C  80 80 1E 1C 3C 00 11 1D  ............<...
+1BE0: 80 08 80 3C 00 11 07 80  08 80 3C 00 11 5E 80 08  ...<......<..^..
+1BF0: 80 3C 01 11 53 80 08 80  3C 01 11 0F 80 08 80 3C  .<..S...<......<
+1C00: 00 11 53 80 08 80 3D 00  11 0F 80 08 80 3D 00 11  ..S...=......=..
+1C10: 54 80 08 80 3D 00 11 5F  80 08 80 01 CF 1D 02 1B  T...=.._........
+1C20: 00 1D 80 80 68 1C 3D 00  11 1D 80 08 80 3C 00 11  ....h.=......<..
+1C30: 07 80 08 80 3C 00 11 5E  80 08 80 3D 01 11 53 80  ....<..^...=..S.
+1C40: 08 80 3C 01 11 0F 80 08  80 3C 00 11 53 80 08 80  ..<......<..S...
+1C50: 3C 00 11 0F 80 08 80 3D  00 11 54 80 08 80 3D 00  <......=..T...=.
+1C60: 11 5F 80 08 80 01 CF 1D  02 1B 00 07 80 80 B2 1C  ._..............
+1C70: 3D 00 11 1D 80 08 80 3C  00 11 07 80 08 80 3C 00  =......<......<.
+1C80: 11 5E 80 08 80 3D 01 11  53 80 08 80 3C 01 11 0F  .^...=..S...<...
+1C90: 80 08 80 3C 00 11 53 80  08 80 3C 00 11 0F 80 08  ...<..S...<.....
+1CA0: 80 3D 00 11 54 80 08 80  3D 00 11 5F 80 08 80 01  .=..T...=.._....
+1CB0: CF 1D 02 1B 00 5E 80 80  FC 1C 3D 00 11 1D 80 08  .....^....=.....
+1CC0: 80 3D 00 11 07 80 08 80  3C 00 11 5E 80 08 80 3D  .=......<..^...=
+1CD0: 01 11 53 80 08 80 3D 01  11 0F 80 08 80 3C 00 11  ..S...=......<..
+1CE0: 53 80 08 80 3C 00 11 0F  80 08 80 3C 00 11 54 80  S...<......<..T.
+1CF0: 08 80 3D 00 11 5F 80 08  80 01 CF 1D 02 1B 00 01  ..=.._..........
+1D00: 80 80 46 1D 3D 00 11 1D  80 08 80 3D 00 11 07 80  ..F.=......=....
+1D10: 08 80 3C 00 11 5E 80 08  80 3D 01 11 53 80 08 80  ..<..^...=..S...
+1D20: 3D 01 11 0F 80 08 80 3C  00 11 53 80 08 80 3C 00  =......<..S...<.
+1D30: 11 0F 80 08 80 3C 00 11  54 80 08 80 3D 00 11 5F  .....<..T...=.._
+1D40: 80 08 80 01 CF 1D 02 1B  00 50 80 80 90 1D 3D 00  .........P....=.
+1D50: 11 1D 80 08 80 3D 00 11  07 80 08 80 3D 00 11 5E  .....=......=..^
+1D60: 80 08 80 3D 01 11 53 80  08 80 3D 01 11 0F 80 08  ...=..S...=.....
+1D70: 80 3C 00 11 53 80 08 80  3C 00 11 0F 80 08 80 3C  .<..S...<......<
+1D80: 00 11 54 80 08 80 3C 00  11 5F 80 08 80 01 CF 1D  ..T...<.._......
+1D90: 3C 00 11 1D 80 08 80 3C  00 11 07 80 08 80 3C 00  <......<......<.
+1DA0: 11 5E 80 08 80 3C 01 11  53 80 08 80 3C 01 11 0F  .^...<..S...<...
+1DB0: 80 08 80 3C 00 11 53 80  08 80 3D 00 11 0F 80 08  ...<..S...=.....
+1DC0: 80 3D 00 11 54 80 08 80  3D 00 11 5F 80 08 80 1B  .=..T...=.._....
+1DD0: 02 1B 00 00 80 80 0C 1E  3D 00 11 01 80 08 80 3D  ........=......=
+1DE0: 00 11 50 80 08 80 3D 00  11 04 80 08 80 3C 00 11  ..P...=......<..
+1DF0: 60 80 08 80 3D 00 11 51  80 08 80 3D 00 11 52 80  `...=..Q...=..R.
+1E00: 08 80 3D 00 11 61 80 08  80 01 1D 20 02 1B 00 08  ..=..a..... ....
+1E10: 80 80 48 1E 3D 00 11 01  80 08 80 3D 00 11 50 80  ..H.=......=..P.
+1E20: 08 80 3D 00 11 04 80 08  80 3C 00 11 60 80 08 80  ..=......<..`...
+1E30: 3D 00 11 51 80 08 80 3D  00 11 52 80 08 80 3D 00  =..Q...=..R...=.
+1E40: 11 61 80 08 80 01 1D 20  02 1B 00 1C 80 80 84 1E  .a..... ........
+1E50: 3D 00 11 01 80 08 80 3D  00 11 50 80 08 80 3D 00  =......=..P...=.
+1E60: 11 04 80 08 80 3C 00 11  60 80 08 80 3D 00 11 51  .....<..`...=..Q
+1E70: 80 08 80 3D 00 11 52 80  08 80 3D 00 11 61 80 08  ...=..R...=..a..
+1E80: 80 01 1D 20 02 1B 00 1D  80 80 C0 1E 3C 00 11 01  ... ........<...
+1E90: 80 08 80 3D 00 11 50 80  08 80 3D 00 11 04 80 08  ...=..P...=.....
+1EA0: 80 3C 00 11 60 80 08 80  3C 00 11 51 80 08 80 3D  .<..`...<..Q...=
+1EB0: 00 11 52 80 08 80 3D 00  11 61 80 08 80 01 1D 20  ..R...=..a..... 
+1EC0: 02 1B 00 07 80 80 FC 1E  3C 00 11 01 80 08 80 3D  ........<......=
+1ED0: 00 11 50 80 08 80 3D 00  11 04 80 08 80 3C 00 11  ..P...=......<..
+1EE0: 60 80 08 80 3C 00 11 51  80 08 80 3D 00 11 52 80  `...<..Q...=..R.
+1EF0: 08 80 3D 00 11 61 80 08  80 01 1D 20 02 1B 00 5E  ..=..a..... ...^
+1F00: 80 80 38 1F 3C 00 11 01  80 08 80 3C 00 11 50 80  ..8.<......<..P.
+1F10: 08 80 3D 00 11 04 80 08  80 3C 00 11 60 80 08 80  ..=......<..`...
+1F20: 3C 00 11 51 80 08 80 3C  00 11 52 80 08 80 3D 00  <..Q...<..R...=.
+1F30: 11 61 80 08 80 01 1D 20  02 1B 00 01 80 80 74 1F  .a..... ......t.
+1F40: 3C 00 11 01 80 08 80 3C  00 11 50 80 08 80 3D 00  <......<..P...=.
+1F50: 11 04 80 08 80 3C 00 11  60 80 08 80 3C 00 11 51  .....<..`...<..Q
+1F60: 80 08 80 3C 00 11 52 80  08 80 3D 00 11 61 80 08  ...<..R...=..a..
+1F70: 80 01 1D 20 02 1B 00 50  80 80 B0 1F 3C 00 11 01  ... ...P....<...
+1F80: 80 08 80 3C 00 11 50 80  08 80 3C 00 11 04 80 08  ...<..P...<.....
+1F90: 80 3C 00 11 60 80 08 80  3C 00 11 51 80 08 80 3C  .<..`...<..Q...<
+1FA0: 00 11 52 80 08 80 3C 00  11 61 80 08 80 01 1D 20  ..R...<..a..... 
+1FB0: 02 1B 00 04 80 80 EC 1F  3C 00 11 01 80 08 80 3C  ........<......<
+1FC0: 00 11 50 80 08 80 3C 00  11 04 80 08 80 3C 00 11  ..P...<......<..
+1FD0: 60 80 08 80 3C 00 11 51  80 08 80 3C 00 11 52 80  `...<..Q...<..R.
+1FE0: 08 80 3C 00 11 61 80 08  80 01 1D 20 3D 00 11 01  ..<..a..... =...
+1FF0: 80 08 80 3D 00 11 50 80  08 80 3D 00 11 04 80 08  ...=..P...=.....
+2000: 80 3C 00 11 60 80 08 80  3D 00 11 51 80 08 80 3D  .<..`...=..Q...=
+2010: 00 11 52 80 08 80 3D 00  11 61 80 08 80 1B 02 1B  ..R...=..a......
+2020: 00 00 80 80 61 20 3D 00  11 62 80 08 80 3D 00 11  ....a =..b...=..
+2030: 0C 80 08 80 3D 00 11 4B  80 08 80 3D 01 11 63 80  ....=..K...=..c.
+2040: 08 80 3C 01 11 54 80 08  80 3D 01 11 5F 80 08 80  ..<..T...=.._...
+2050: 3D 01 11 60 80 08 80 3D  01 11 51 80 08 80 01 6E  =..`...=..Q....n
+2060: 22 02 1B 00 08 80 80 A4  20 3D 00 11 62 80 08 80  "....... =..b...
+2070: 3D 00 11 0C 80 08 80 3D  00 11 4B 80 08 80 3D 01  =......=..K...=.
+2080: 11 63 80 08 80 3C 01 11  54 80 08 80 3D 01 11 5F  .c...<..T...=.._
+2090: 80 08 80 3D 01 11 60 80  08 80 3D 01 11 51 80 08  ...=..`...=..Q..
+20A0: 80 01 6E 22 02 1B 00 1C  80 80 E7 20 3D 00 11 62  ..n"....... =..b
+20B0: 80 08 80 3D 00 11 0C 80  08 80 3D 00 11 4B 80 08  ...=......=..K..
+20C0: 80 3D 01 11 63 80 08 80  3C 01 11 54 80 08 80 3D  .=..c...<..T...=
+20D0: 01 11 5F 80 08 80 3D 01  11 60 80 08 80 3D 01 11  .._...=..`...=..
+20E0: 51 80 08 80 01 6E 22 02  1B 00 1D 80 80 2A 21 3C  Q....n"......*!<
+20F0: 00 11 62 80 08 80 3D 00  11 0C 80 08 80 3D 00 11  ..b...=......=..
+2100: 4B 80 08 80 3D 01 11 63  80 08 80 3D 01 11 54 80  K...=..c...=..T.
+2110: 08 80 3C 01 11 5F 80 08  80 3D 01 11 60 80 08 80  ..<.._...=..`...
+2120: 3D 01 11 51 80 08 80 01  6E 22 02 1B 00 07 80 80  =..Q....n"......
+2130: 6D 21 3C 00 11 62 80 08  80 3D 00 11 0C 80 08 80  m!<..b...=......
+2140: 3D 00 11 4B 80 08 80 3D  01 11 63 80 08 80 3D 01  =..K...=..c...=.
+2150: 11 54 80 08 80 3C 01 11  5F 80 08 80 3D 01 11 60  .T...<.._...=..`
+2160: 80 08 80 3D 01 11 51 80  08 80 01 6E 22 02 1B 00  ...=..Q....n"...
+2170: 5E 80 80 B0 21 3C 00 11  62 80 08 80 3C 00 11 0C  ^...!<..b...<...
+2180: 80 08 80 3D 00 11 4B 80  08 80 3D 01 11 63 80 08  ...=..K...=..c..
+2190: 80 3D 01 11 54 80 08 80  3D 01 11 5F 80 08 80 3C  .=..T...=.._...<
+21A0: 01 11 60 80 08 80 3D 01  11 51 80 08 80 01 6E 22  ..`...=..Q....n"
+21B0: 02 1B 00 01 80 80 F3 21  3C 00 11 62 80 08 80 3C  .......!<..b...<
+21C0: 00 11 0C 80 08 80 3D 00  11 4B 80 08 80 3D 01 11  ......=..K...=..
+21D0: 63 80 08 80 3D 01 11 54  80 08 80 3D 01 11 5F 80  c...=..T...=.._.
+21E0: 08 80 3C 01 11 60 80 08  80 3D 01 11 51 80 08 80  ..<..`...=..Q...
+21F0: 01 6E 22 02 1B 00 50 80  80 36 22 3C 00 11 62 80  .n"...P..6"<..b.
+2200: 08 80 3C 00 11 0C 80 08  80 3C 00 11 4B 80 08 80  ..<......<..K...
+2210: 3C 01 11 63 80 08 80 3D  01 11 54 80 08 80 3D 01  <..c...=..T...=.
+2220: 11 5F 80 08 80 3D 01 11  60 80 08 80 3C 01 11 51  ._...=..`...<..Q
+2230: 80 08 80 01 6E 22 3D 00  11 62 80 08 80 3D 00 11  ....n"=..b...=..
+2240: 0C 80 08 80 3D 00 11 4B  80 08 80 3D 01 11 63 80  ....=..K...=..c.
+2250: 08 80 3C 01 11 54 80 08  80 3D 01 11 5F 80 08 80  ..<..T...=.._...
+2260: 3D 01 11 60 80 08 80 3D  01 11 51 80 08 80 1B 03  =..`...=..Q.....
+2270: 01 10 4B 80 43 00 43 01  03 02 11 02 10 03 03 11  ..K.C.C.........
+2280: 03 10 03 04 11 04 10 03  05 11 05 10 03 06 11 06  ................
+2290: 10 03 07 11 07 10 03 09  11 08 10 1B 03 01 10 67  ...............g
+22A0: 80 47 00 68 80 69 80 6A  80 6B 80 47 01 03 02 11  .G.h.i.j.k.G....
+22B0: 02 10 03 03 11 03 10 03  04 11 04 10 03 05 11 05  ................
+22C0: 10 03 06 11 06 10 03 07  11 07 10 03 09 11 08 10  ................
+22D0: 1B 2F 00 37 80 11 01 2F  00 38 80 11 01 2F 00 39  ./.7.../.8.../.9
+22E0: 80 11 01 2F 00 3A 80 11  01 2F 00 3B 80 11 01 2F  .../.:.../.;.../
+22F0: 00 3C 80 11 01 2F 00 3D  80 11 01 2F 00 3E 80 11  .<.../.=.../.>..
+2300: 01 2F 00 3F 80 11 01 2F  00 40 80 11 01 2F 00 41  ./.?.../.@.../.A
+2310: 80 11 01 2F 00 42 80 11  01 2F 00 43 80 11 01 2F  .../.B.../.C.../
+2320: 00 44 80 11 01 2F 00 45  80 11 01 2F 00 46 80 11  .D.../.E.../.F..
+2330: 01 2F 00 47 80 11 01 2F  00 48 80 11 01 2F 00 49  ./.G.../.H.../.I
+2340: 80 11 01 2F 00 4A 80 11  01 2F 00 4B 80 11 01 2F  .../.J.../.K.../
+2350: 00 4C 80 11 01 2F 00 4D  80 11 01 2F 00 4E 80 11  .L.../.M.../.N..
+2360: 01 AC 02 37 80 11 01 AC  02 38 80 11 01 AC 02 39  ...7.....8.....9
+2370: 80 11 01 AC 02 3A 80 11  01 AC 02 3B 80 11 01 AC  .....:.....;....
+2380: 02 3C 80 11 01 AC 02 3D  80 11 01 AC 02 3E 80 11  .<.....=.....>..
+2390: 01 AC 02 3F 80 11 01 AC  02 40 80 11 01 AC 02 41  ...?.....@.....A
+23A0: 80 11 01 AC 02 42 80 11  01 AC 02 43 80 11 01 AC  .....B.....C....
+23B0: 02 44 80 11 01 AC 02 45  80 11 01 AC 02 46 80 11  .D.....E.....F..
+23C0: 01 AC 02 47 80 11 01 AC  02 48 80 11 01 AC 02 49  ...G.....H.....I
+23D0: 80 11 01 AC 02 4A 80 11  01 AC 02 4B 80 11 01 AC  .....J.....K....
+23E0: 02 4C 80 11 01 AC 02 4D  80 11 01 AC 02 4E 80 11  .L.....M.....N..
+23F0: 01 AC 02 0C 80 11 01 AC  02 0D 80 11 01 AC 02 0E  ................
+2400: 80 11 01 41 00 80 08 80  02 11 02 10 02 02 10 08  ...A............
+2410: 80 00 1E 24 29 80 0C 80  11 01 03 01 25 24 29 80  ...$).......%$).
+2420: 0C 80 11 01 02 41 00 80  08 80 03 11 02 10 02 02  .....A..........
+2430: 10 08 80 00 40 24 29 80  0D 80 11 01 03 01 47 24  ....@$).......G$
+2440: 29 80 0D 80 11 01 02 41  00 80 08 80 04 11 02 10  )......A........
+2450: 02 02 10 08 80 00 62 24  29 80 0E 80 11 01 03 01  ......b$).......
+2460: 69 24 29 80 0E 80 11 01  02 27 80 37 80 11 01 02  i$)......'.7....
+2470: 27 80 38 80 11 01 02 27  80 39 80 11 01 02 29 80  '.8....'.9....).
+2480: 3A 80 11 01 02 27 80 3B  80 11 01 02 27 80 3C 80  :....'.;....'.<.
+2490: 11 01 02 27 80 3D 80 11  01 02 29 80 3E 80 11 01  ...'.=....).>...
+24A0: 02 27 80 3F 80 11 01 02  27 80 40 80 11 01 02 27  .'.?....'.@....'
+24B0: 80 41 80 11 01 02 29 80  42 80 11 01 02 27 80 43  .A....).B....'.C
+24C0: 80 11 01 02 27 80 44 80  11 01 02 27 80 45 80 11  ....'.D....'.E..
+24D0: 01 02 29 80 46 80 11 01  02 27 80 47 80 11 01 02  ..).F....'.G....
+24E0: 27 80 48 80 11 01 02 27  80 49 80 11 01 02 29 80  '.H....'.I....).
+24F0: 4A 80 11 01 02 27 80 4B  80 11 01 02 27 80 4C 80  J....'.K....'.L.
+2500: 11 01 02 27 80 4D 80 11  01 02 29 80 4E 80 11 01  ...'.M....).N...
+2510: 02 1B 42 45 0E 80 F0 FF  FF 7F F0 FF FF 7F 66 64  ..BE..........fd
+2520: 6F 30 00 80 55 0E 80 F0  FF FF 7F F0 FF FF 7F 66  o0..U..........f
+2530: 64 6F 30 1A 9C 22 1A B1  0E 45 0E 80 F0 FF FF 7F  do0.."...E......
+2540: F0 FF FF 7F 66 64 69 30  00 80 55 0E 80 F0 FF FF  ....fdi0..U.....
+2550: 7F F0 FF FF 7F 66 64 69  30 1B 42 45 0E 80 F0 FF  .....fdi0.BE....
+2560: FF 7F F0 FF FF 7F 66 64  6F 30 00 80 55 0E 80 F0  ......fdo0..U...
+2570: FF FF 7F F0 FF FF 7F 66  64 6F 30 03 01 10 6C 80  .......fdo0...l.
+2580: 47 00 6D 80 6E 80 6F 80  70 80 47 01 02 02 10 00  G.m.n.o.p.G.....
+2590: 80 00 A9 25 1A EB 16 1A  94 16 1A A2 16 1A B0 16  ...%............
+25A0: 1A BE 16 1A 50 15 01 A9  25 45 0E 80 F0 FF FF 7F  ....P...%E......
+25B0: F0 FF FF 7F 66 64 69 30  00 80 55 0E 80 F0 FF FF  ....fdi0..U.....
+25C0: 7F F0 FF FF 7F 66 64 69  30 1B 1A 33 26 02 1B 00  .....fdi0..3&...
+25D0: 00 80 01 D6 25 1B 3C 00  11 02 10 08 80 1A B1 0E  ....%.<.........
+25E0: 1B 1A 33 26 02 1B 00 00  80 01 ED 25 1B 3D 00 11  ..3&.......%.=..
+25F0: 02 10 08 80 1A B1 0E 1B  03 1B 00 02 10 03 01 10  ................
+2600: 1C 80 40 04 80 03 80 01  10 02 10 02 1C 00 00 80  ..@.............
+2610: 00 1D 26 3C 01 10 03 80  08 80 01 24 26 3D 01 10  ..&<.......$&=..
+2620: 03 80 08 80 43 00 43 01  03 00 11 02 10 03 1B 00  ....C.C.........
+2630: 00 80 1B 02 02 10 00 80  03 44 26 03 1B 00 48 80  .........D&...H.
+2640: 1B 01 5A 26 02 02 10 03  80 02 55 26 03 1B 00 48  ..Z&......U&...H
+2650: 80 1B 01 5A 26 03 1B 00  00 80 1B 02 10 03 10 04  ...Z&...........
+2660: 10 05 10 06 10 07 10 08  10 09 10 00 17 01 17 02  ................
+2670: 17 03 17 04 17 05 17 06  17 07 17 08 17 09 17 0A  ................
+2680: 17 0B 17 0C 17 0D 17 0E  17 0F 17 10 17 11 17 12  ................
+2690: 17 13 17 14 17 15 17 16  17 17 17 18 17 19 17 1A  ................
+26A0: 17 1B 17 1C 17 1D 17 1E  17 1F 17 00 80 00 80 00  ................
+26B0: 80 00 80 00 80 00 80 00  80 00 80                 ...........     
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0DE0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0DE1 [0x46] CAMERA_CONTROL: Disable user control
-  2: 0x0DE3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  3: 0x0DF4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
-  4: 0x0E03 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  5: 0x0E06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x23)
-  6: 0x0E0D [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-12.623*, z=12.170*, y=0.156*, direction=76.7°*
-  7: 0x0E16 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924231/0x01118087)
-  8: 0x0E1C [0x4A] EventEntity looks at LocalPlayer
-  9: 0x0E25 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
- 10: 0x0E26 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
- 11: 0x0E2B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
- 12: 0x0E3C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 13: 0x0E4D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 14: 0x0E5C [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+  0: 0x0E0B [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x0E0C [0x46] CAMERA_CONTROL: Disable user control
+  2: 0x0E0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  3: 0x0E1F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+  4: 0x0E2E [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+  5: 0x0E31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x23)
+  6: 0x0E38 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-12.623*, z=12.170*, y=0.156*, direction=76.7°*
+  7: 0x0E41 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924231/0x01118087)
+  8: 0x0E47 [0x4A] EventEntity looks at LocalPlayer
+  9: 0x0E50 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 10: 0x0E51 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
+ 11: 0x0E56 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
+ 12: 0x0E67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 13: 0x0E78 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
+ 14: 0x0E87 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
     → "What a terrific time to test tag utility, kupo!"
- 15: 0x0E5F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0E60 [0x52] END_LOAD_SCHEDULER: End scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=690*
- 17: 0x0E6F [0x46] CAMERA_CONTROL: Restore default settings
- 18: 0x0E71 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
- 19: 0x0E73 [0x21] END_EVENT
- 20: 0x0E74 [0x00] END_REQSTACK()
+ 15: 0x0E8A [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 16: 0x0E8B [0x52] END_LOAD_SCHEDULER: End scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=690*
+ 17: 0x0E9A [0x46] CAMERA_CONTROL: Restore default settings
+ 18: 0x0E9C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 19: 0x0E9E [0x21] END_EVENT
+ 20: 0x0E9F [0x00] END_REQSTACK()
 ```
 
 #### Data or dead code:
 
 ```
 # Dead code (unreachable instructions):
-     0x0E75 [0x48] [System] [8719*]:
+     0x0EA0 [0x48] [System] [8719*]:
     → "%0 stares off into the distance as if you're not even there."
-     0x0E78 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E79 [0x21] END_EVENT
-     0x0E7A [0x00] END_REQSTACK()
-     0x0E7B [0x03] Work_Zone[3] = 4366*
-     0x0E80 [0x48] [System] [8740*]:
+     0x0EA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0EA4 [0x21] END_EVENT
+     0x0EA5 [0x00] END_REQSTACK()
+     0x0EA6 [0x03] Work_Zone[3] = 4366*
+     0x0EAB [0x48] [System] [8740*]:
     → "Perhaps it would be best to give %0 $1."
-     0x0E83 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E84 [0x21] END_EVENT
-     0x0E85 [0x00] END_REQSTACK()
-     0x0E86 [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x0E8C [0x1A] CALL_SUBROUTINE(address=0x16C0)
-     0x0E8F [0x1A] CALL_SUBROUTINE(address=0x0EFD)
-     0x0E92 [0x1A] CALL_SUBROUTINE(address=0x0FC1)
-     0x0E95 [0x1A] CALL_SUBROUTINE(address=0x116B)
-     0x0E98 [0x1A] CALL_SUBROUTINE(address=0x1398)
-     0x0E9B [0x1A] CALL_SUBROUTINE(address=0x22A6)
-     0x0E9E [0x1A] CALL_SUBROUTINE(address=0x13A6)
-     0x0EA1 [0x1A] CALL_SUBROUTINE(address=0x1482)
-     0x0EA4 [0x1A] CALL_SUBROUTINE(address=0x14B9)
-     0x0EA7 [0x1A] CALL_SUBROUTINE(address=0x14DC)
-     0x0EAA [0x1A] CALL_SUBROUTINE(address=0x1508)
-     0x0EAD [0x1A] CALL_SUBROUTINE(address=0x15A8)
-     0x0EB0 [0x1A] CALL_SUBROUTINE(address=0x1632)
-     0x0EB3 [0x1A] CALL_SUBROUTINE(address=0x165B)
-     0x0EB6 [0x1A] CALL_SUBROUTINE(address=0x16A1)
-     0x0EB9 [0x1A] CALL_SUBROUTINE(address=0x12D9)
-     0x0EBC [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0EC2 [0x1B] RETURN
-     0x0EC3 [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x0EC9 [0x1A] CALL_SUBROUTINE(address=0x0EFD)
-     0x0ECC [0x1A] CALL_SUBROUTINE(address=0x0FC1)
-     0x0ECF [0x1A] CALL_SUBROUTINE(address=0x116B)
-     0x0ED2 [0x1A] CALL_SUBROUTINE(address=0x1398)
-     0x0ED5 [0x1A] CALL_SUBROUTINE(address=0x22A6)
-     0x0ED8 [0x1A] CALL_SUBROUTINE(address=0x13A6)
-     0x0EDB [0x1A] CALL_SUBROUTINE(address=0x1482)
-     0x0EDE [0x1A] CALL_SUBROUTINE(address=0x14B9)
-     0x0EE1 [0x1A] CALL_SUBROUTINE(address=0x14DC)
-     0x0EE4 [0x1A] CALL_SUBROUTINE(address=0x1508)
-     0x0EE7 [0x1A] CALL_SUBROUTINE(address=0x15A8)
-     0x0EEA [0x1A] CALL_SUBROUTINE(address=0x1632)
-     0x0EED [0x1A] CALL_SUBROUTINE(address=0x165B)
-     0x0EF0 [0x1A] CALL_SUBROUTINE(address=0x16A1)
-     0x0EF3 [0x1A] CALL_SUBROUTINE(address=0x12D9)
-     0x0EF6 [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0EFC [0x1B] RETURN
-     0x0EFD [0xAC] Unknown NPC (ID: 17924105/0x01118009)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0F03 [0x3E] IF !(Work_Zone_Memorize[0] bit 0*) GOTO 0x0F14
-     0x0F0A [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924105/0x01118009), tag_num=0x02)
-     0x0F11 [0x01] GOTO 0x0F1B
-     0x0F14 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924105/0x01118009), tag_num=0x03)
-     0x0F1B [0xAC] Unknown NPC (ID: 17924106/0x0111800A)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0F21 [0x3E] IF !(Work_Zone_Memorize[0] bit 1*) GOTO 0x0F32
-     0x0F28 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924106/0x0111800A), tag_num=0x02)
-     0x0F2F [0x01] GOTO 0x0F39
-     0x0F32 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924106/0x0111800A), tag_num=0x03)
-     0x0F39 [0xAC] Unknown NPC (ID: 17924107/0x0111800B)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0F3F [0x3E] IF !(Work_Zone_Memorize[0] bit 2*) GOTO 0x0F50
-     0x0F46 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924107/0x0111800B), tag_num=0x02)
-     0x0F4D [0x01] GOTO 0x0F57
-     0x0F50 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924107/0x0111800B), tag_num=0x03)
-     0x0F57 [0x92] Garden Furrow (ID: 17924128/0x01118020)->Render.Flags3 ^= 0x01
-     0x0F5D [0x92] Garden Furrow #2 (ID: 17924129/0x01118021)->Render.Flags3 ^= 0x01
-     0x0F63 [0x92] Garden Furrow #3 (ID: 17924130/0x01118022)->Render.Flags3 ^= 0x01
-     0x0F69 [0xAC] Garden Furrow (ID: 17924128/0x01118020)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0F6F [0x3E] IF !(Work_Zone_Memorize[0] bit 26*) GOTO 0x0F7F
-     0x0F76 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow (ID: 17924128/0x01118020)
-     0x0F7C [0x01] GOTO 0x0F85
-     0x0F7F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow (ID: 17924128/0x01118020)
-     0x0F85 [0xAC] Garden Furrow #2 (ID: 17924129/0x01118021)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0F8B [0x3E] IF !(Work_Zone_Memorize[0] bit 27*) GOTO 0x0F9B
-     0x0F92 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow #2 (ID: 17924129/0x01118021)
-     0x0F98 [0x01] GOTO 0x0FA1
-     0x0F9B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow #2 (ID: 17924129/0x01118021)
-     0x0FA1 [0xAC] Garden Furrow #3 (ID: 17924130/0x01118022)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0FA7 [0x3E] IF !(Work_Zone_Memorize[0] bit 28*) GOTO 0x0FB7
-     0x0FAE [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow #3 (ID: 17924130/0x01118022)
-     0x0FB4 [0x01] GOTO 0x0FBD
-     0x0FB7 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow #3 (ID: 17924130/0x01118022)
-     0x0FBD [0x1C] WAIT(1* ticks)
-     0x0FC0 [0x1B] RETURN
-     0x0FC1 [0xAC] Unknown NPC (ID: 17924111/0x0111800F)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0FC7 [0x3E] IF !(Work_Zone_Memorize[0] bit 3*) GOTO 0x0FD8
-     0x0FCE [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924111/0x0111800F), tag_num=0x02)
-     0x0FD5 [0x01] GOTO 0x0FDF
-     0x0FD8 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924111/0x0111800F), tag_num=0x03)
-     0x0FDF [0xAC] Unknown NPC (ID: 17924112/0x01118010)->Render.Flags6 |= 0x02 // Set bit 1
-     0x0FE5 [0x3E] IF !(Work_Zone_Memorize[0] bit 4*) GOTO 0x0FF6
-     0x0FEC [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924112/0x01118010), tag_num=0x02)
-     0x0FF3 [0x01] GOTO 0x0FFD
-     0x0FF6 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924112/0x01118010), tag_num=0x03)
-     0x0FFD [0xAC] Unknown NPC (ID: 17924113/0x01118011)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1003 [0x3E] IF !(Work_Zone_Memorize[0] bit 5*) GOTO 0x1014
-     0x100A [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924113/0x01118011), tag_num=0x02)
-     0x1011 [0x01] GOTO 0x101B
-     0x1014 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924113/0x01118011), tag_num=0x03)
-     0x101B [0xAC] Unknown NPC (ID: 17924122/0x0111801A)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1021 [0x3E] IF !(Work_Zone_Memorize[1] bit 18*) GOTO 0x1032
-     0x1028 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924122/0x0111801A), tag_num=0x02)
-     0x102F [0x01] GOTO 0x1039
-     0x1032 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924122/0x0111801A), tag_num=0x03)
-     0x1039 [0xAC] Unknown NPC (ID: 17924123/0x0111801B)->Render.Flags6 |= 0x02 // Set bit 1
-     0x103F [0x3E] IF !(Work_Zone_Memorize[1] bit 19*) GOTO 0x1050
-     0x1046 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924123/0x0111801B), tag_num=0x02)
-     0x104D [0x01] GOTO 0x1057
-     0x1050 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924123/0x0111801B), tag_num=0x03)
-     0x1057 [0xAC] Arboreal Grove (ID: 17924131/0x01118023)->Render.Flags6 |= 0x02 // Set bit 1
-     0x105D [0xAC] Arboreal Grove (ID: 17924132/0x01118024)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1063 [0x3E] IF !(Work_Zone_Memorize[0] bit 18*) GOTO 0x108F
-     0x106A [0x3E] IF !(Work_Zone_Memorize[8] bit 0*) GOTO 0x1080
-     0x1071 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove (ID: 17924132/0x01118024)
-     0x1077 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924131/0x01118023)
-     0x107D [0x01] GOTO 0x108C
-     0x1080 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove (ID: 17924131/0x01118023)
-     0x1086 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924132/0x01118024)
-     0x108C [0x01] GOTO 0x109B
-     0x108F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924131/0x01118023)
-     0x1095 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924132/0x01118024)
-     0x109B [0xAC] Arboreal Grove #2 (ID: 17924133/0x01118025)->Render.Flags6 |= 0x02 // Set bit 1
-     0x10A1 [0xAC] Arboreal Grove #2 (ID: 17924134/0x01118026)->Render.Flags6 |= 0x02 // Set bit 1
-     0x10A7 [0x3E] IF !(Work_Zone_Memorize[0] bit 19*) GOTO 0x10D3
-     0x10AE [0x3E] IF !(Work_Zone_Memorize[8] bit 1*) GOTO 0x10C4
-     0x10B5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #2 (ID: 17924134/0x01118026)
-     0x10BB [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924133/0x01118025)
-     0x10C1 [0x01] GOTO 0x10D0
-     0x10C4 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #2 (ID: 17924133/0x01118025)
-     0x10CA [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924134/0x01118026)
-     0x10D0 [0x01] GOTO 0x10DF
-     0x10D3 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924133/0x01118025)
-     0x10D9 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924134/0x01118026)
-     0x10DF [0xAC] Arboreal Grove #3 (ID: 17924135/0x01118027)->Render.Flags6 |= 0x02 // Set bit 1
-     0x10E5 [0xAC] Arboreal Grove #3 (ID: 17924136/0x01118028)->Render.Flags6 |= 0x02 // Set bit 1
-     0x10EB [0x3E] IF !(Work_Zone_Memorize[0] bit 20*) GOTO 0x1117
-     0x10F2 [0x3E] IF !(Work_Zone_Memorize[8] bit 2*) GOTO 0x1108
-     0x10F9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #3 (ID: 17924136/0x01118028)
-     0x10FF [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924135/0x01118027)
-     0x1105 [0x01] GOTO 0x1114
-     0x1108 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #3 (ID: 17924135/0x01118027)
-     0x110E [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924136/0x01118028)
-     0x1114 [0x01] GOTO 0x1123
-     0x1117 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924135/0x01118027)
-     0x111D [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924136/0x01118028)
-     0x1123 [0xAC] Arboreal Grove #4 (ID: 17924137/0x01118029)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1129 [0xAC] Arboreal Grove #4 (ID: 17924138/0x0111802A)->Render.Flags6 |= 0x02 // Set bit 1
-     0x112F [0x3E] IF !(Work_Zone_Memorize[0] bit 21*) GOTO 0x115B
-     0x1136 [0x3E] IF !(Work_Zone_Memorize[8] bit 3*) GOTO 0x114C
-     0x113D [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #4 (ID: 17924138/0x0111802A)
-     0x1143 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924137/0x01118029)
-     0x1149 [0x01] GOTO 0x1158
-     0x114C [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #4 (ID: 17924137/0x01118029)
-     0x1152 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924138/0x0111802A)
-     0x1158 [0x01] GOTO 0x1167
-     0x115B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924137/0x01118029)
-     0x1161 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924138/0x0111802A)
-     0x1167 [0x1C] WAIT(1* ticks)
-     0x116A [0x1B] RETURN
-     0x116B [0xAC] Unknown NPC (ID: 17924114/0x01118012)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1171 [0x3E] IF !(Work_Zone_Memorize[0] bit 6*) GOTO 0x1182
-     0x1178 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924114/0x01118012), tag_num=0x02)
-     0x117F [0x01] GOTO 0x1189
-     0x1182 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924114/0x01118012), tag_num=0x03)
-     0x1189 [0xAC] Unknown NPC (ID: 17924115/0x01118013)->Render.Flags6 |= 0x02 // Set bit 1
-     0x118F [0x3E] IF !(Work_Zone_Memorize[0] bit 7*) GOTO 0x11A0
-     0x1196 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924115/0x01118013), tag_num=0x02)
-     0x119D [0x01] GOTO 0x11A7
-     0x11A0 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924115/0x01118013), tag_num=0x03)
-     0x11A7 [0xAC] Unknown NPC (ID: 17924116/0x01118014)->Render.Flags6 |= 0x02 // Set bit 1
-     0x11AD [0x3E] IF !(Work_Zone_Memorize[0] bit 8*) GOTO 0x11BE
-     0x11B4 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924116/0x01118014), tag_num=0x02)
-     0x11BB [0x01] GOTO 0x11C5
-     0x11BE [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924116/0x01118014), tag_num=0x03)
-     0x11C5 [0xAC] Mineral Vein (ID: 17924139/0x0111802B)->Render.Flags6 |= 0x02 // Set bit 1
-     0x11CB [0xAC] Mineral Vein (ID: 17924140/0x0111802C)->Render.Flags6 |= 0x02 // Set bit 1
-     0x11D1 [0x3E] IF !(Work_Zone_Memorize[0] bit 22*) GOTO 0x11FD
-     0x11D8 [0x3E] IF !(Work_Zone_Memorize[8] bit 4*) GOTO 0x11EE
-     0x11DF [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein (ID: 17924140/0x0111802C)
-     0x11E5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924139/0x0111802B)
-     0x11EB [0x01] GOTO 0x11FA
-     0x11EE [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein (ID: 17924139/0x0111802B)
-     0x11F4 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924140/0x0111802C)
-     0x11FA [0x01] GOTO 0x1209
-     0x11FD [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924139/0x0111802B)
-     0x1203 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924140/0x0111802C)
-     0x1209 [0xAC] Mineral Vein #2 (ID: 17924141/0x0111802D)->Render.Flags6 |= 0x02 // Set bit 1
-     0x120F [0xAC] Mineral Vein #2 (ID: 17924142/0x0111802E)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1215 [0x3E] IF !(Work_Zone_Memorize[0] bit 23*) GOTO 0x1241
-     0x121C [0x3E] IF !(Work_Zone_Memorize[8] bit 5*) GOTO 0x1232
-     0x1223 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #2 (ID: 17924142/0x0111802E)
-     0x1229 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924141/0x0111802D)
-     0x122F [0x01] GOTO 0x123E
-     0x1232 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #2 (ID: 17924141/0x0111802D)
-     0x1238 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924142/0x0111802E)
-     0x123E [0x01] GOTO 0x124D
-     0x1241 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924141/0x0111802D)
-     0x1247 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924142/0x0111802E)
-     0x124D [0xAC] Mineral Vein #3 (ID: 17924143/0x0111802F)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1253 [0xAC] Mineral Vein #3 (ID: 17924144/0x01118030)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1259 [0x3E] IF !(Work_Zone_Memorize[0] bit 24*) GOTO 0x1285
-     0x1260 [0x3E] IF !(Work_Zone_Memorize[8] bit 6*) GOTO 0x1276
-     0x1267 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #3 (ID: 17924144/0x01118030)
-     0x126D [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924143/0x0111802F)
-     0x1273 [0x01] GOTO 0x1282
-     0x1276 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #3 (ID: 17924143/0x0111802F)
-     0x127C [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924144/0x01118030)
-     0x1282 [0x01] GOTO 0x1291
-     0x1285 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924143/0x0111802F)
-     0x128B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924144/0x01118030)
-     0x1291 [0xAC] Mineral Vein #4 (ID: 17924145/0x01118031)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1297 [0xAC] Mineral Vein #4 (ID: 17924146/0x01118032)->Render.Flags6 |= 0x02 // Set bit 1
-     0x129D [0x3E] IF !(Work_Zone_Memorize[0] bit 25*) GOTO 0x12C9
-     0x12A4 [0x3E] IF !(Work_Zone_Memorize[8] bit 7*) GOTO 0x12BA
-     0x12AB [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #4 (ID: 17924146/0x01118032)
-     0x12B1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924145/0x01118031)
-     0x12B7 [0x01] GOTO 0x12C6
-     0x12BA [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #4 (ID: 17924145/0x01118031)
-     0x12C0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924146/0x01118032)
-     0x12C6 [0x01] GOTO 0x12D5
-     0x12C9 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924145/0x01118031)
-     0x12CF [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924146/0x01118032)
-     0x12D5 [0x1C] WAIT(1* ticks)
-     0x12D8 [0x1B] RETURN
-     0x12D9 [0x92] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags3 ^= 0x01
-     0x12DF [0xAC] Unknown NPC (ID: 17924117/0x01118015)->Render.Flags6 |= 0x02 // Set bit 1
-     0x12E5 [0x3E] IF !(Work_Zone_Memorize[0] bit 9*) GOTO 0x12F6
-     0x12EC [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924117/0x01118015), tag_num=0x02)
-     0x12F3 [0x01] GOTO 0x12FD
-     0x12F6 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924117/0x01118015), tag_num=0x03)
-     0x12FD [0xAC] Unknown NPC (ID: 17924118/0x01118016)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1303 [0x3E] IF !(Work_Zone_Memorize[0] bit 10*) GOTO 0x1314
-     0x130A [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924118/0x01118016), tag_num=0x02)
-     0x1311 [0x01] GOTO 0x131B
-     0x1314 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924118/0x01118016), tag_num=0x03)
-     0x131B [0xAC] Unknown NPC (ID: 17924119/0x01118017)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1321 [0x3E] IF !(Work_Zone_Memorize[0] bit 11*) GOTO 0x1332
-     0x1328 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924119/0x01118017), tag_num=0x02)
-     0x132F [0x01] GOTO 0x1339
-     0x1332 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924119/0x01118017), tag_num=0x03)
-     0x1339 [0xAC] Unknown NPC (ID: 17924120/0x01118018)->Render.Flags6 |= 0x02 // Set bit 1
-     0x133F [0x3E] IF !(Work_Zone_Memorize[1] bit 17*) GOTO 0x1350
-     0x1346 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924120/0x01118018), tag_num=0x02)
-     0x134D [0x01] GOTO 0x1357
-     0x1350 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924120/0x01118018), tag_num=0x03)
-     0x1357 [0x3E] IF !(Work_Zone_Memorize[1] bit 20*) GOTO 0x1367
-     0x135E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3069
-     0x1364 [0x01] GOTO 0x1367
-     0x1367 [0x3E] IF !(Work_Zone_Memorize[1] bit 21*) GOTO 0x1377
-     0x136E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3169
-     0x1374 [0x01] GOTO 0x1377
-     0x1377 [0x3E] IF !(Work_Zone_Memorize[1] bit 22*) GOTO 0x1387
-     0x137E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3269
-     0x1384 [0x01] GOTO 0x1387
-     0x1387 [0x3E] IF !(Work_Zone_Memorize[1] bit 23*) GOTO 0x1397
-     0x138E [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3369
-     0x1394 [0x01] GOTO 0x1397
-     0x1397 [0x1B] RETURN
-     0x1398 [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
-     0x139E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coastal Fishing Net (ID: 17924149/0x01118035), tag_num=0x04)
-     0x13A5 [0x1B] RETURN
-     0x13A6 [0x92] Kuyin Hathdenna (ID: 17924183/0x01118057)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x13AC [0x92] Kuyin Hathdenna (ID: 17924202/0x0111806A)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x13B2 [0x92] Susuroon (ID: 17924184/0x01118058)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x13B8 [0x92] Susuroon (ID: 17924203/0x0111806B)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x13BE [0x92] Yeestog (ID: 17924185/0x01118059)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x13C4 [0x92] Yeestog (ID: 17924204/0x0111806C)->Render.Flags3 = Flags3  // No change (flag=0)
-     0x13CA [0xAC] Kuyin Hathdenna (ID: 17924183/0x01118057)->Render.Flags6 |= 0x02 // Set bit 1
-     0x13D0 [0x3E] IF !(Work_Zone_Memorize[0] bit 12*) GOTO 0x13E1
-     0x13D7 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924183/0x01118057), tag_num=0x02)
-     0x13DE [0x01] GOTO 0x13E8
-     0x13E1 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924183/0x01118057), tag_num=0x03)
-     0x13E8 [0xAC] Kuyin Hathdenna (ID: 17924202/0x0111806A)->Render.Flags6 |= 0x02 // Set bit 1
-     0x13EE [0x3E] IF !(Work_Zone_Memorize[0] bit 13*) GOTO 0x13FF
-     0x13F5 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924202/0x0111806A), tag_num=0x02)
-     0x13FC [0x01] GOTO 0x1406
-     0x13FF [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924202/0x0111806A), tag_num=0x03)
-     0x1406 [0xAC] Susuroon (ID: 17924184/0x01118058)->Render.Flags6 |= 0x02 // Set bit 1
-     0x140C [0x3E] IF !(Work_Zone_Memorize[0] bit 14*) GOTO 0x141D
-     0x1413 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Susuroon (ID: 17924184/0x01118058), tag_num=0x02)
-     0x141A [0x01] GOTO 0x1424
-     0x141D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Susuroon (ID: 17924184/0x01118058), tag_num=0x03)
-     0x1424 [0xAC] Susuroon (ID: 17924203/0x0111806B)->Render.Flags6 |= 0x02 // Set bit 1
-     0x142A [0x3E] IF !(Work_Zone_Memorize[0] bit 15*) GOTO 0x143B
-     0x1431 [0x27] REQ_SET(priority=0x08, entity_id=Susuroon (ID: 17924203/0x0111806B), tag_num=0x02)
-     0x1438 [0x01] GOTO 0x1442
-     0x143B [0x27] REQ_SET(priority=0x08, entity_id=Susuroon (ID: 17924203/0x0111806B), tag_num=0x03)
-     0x1442 [0xAC] Yeestog (ID: 17924185/0x01118059)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1448 [0x3E] IF !(Work_Zone_Memorize[0] bit 16*) GOTO 0x1459
-     0x144F [0x27] REQ_SET(priority=0x08, entity_id=Yeestog (ID: 17924185/0x01118059), tag_num=0x02)
-     0x1456 [0x01] GOTO 0x1460
-     0x1459 [0x27] REQ_SET(priority=0x08, entity_id=Yeestog (ID: 17924185/0x01118059), tag_num=0x03)
-     0x1460 [0xAC] Yeestog (ID: 17924204/0x0111806C)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1466 [0x3E] IF !(Work_Zone_Memorize[0] bit 17*) GOTO 0x1477
-     0x146D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yeestog (ID: 17924204/0x0111806C), tag_num=0x02)
-     0x1474 [0x01] GOTO 0x147E
-     0x1477 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yeestog (ID: 17924204/0x0111806C), tag_num=0x03)
-     0x147E [0x1C] WAIT(1* ticks)
-     0x1481 [0x1B] RETURN
-     0x1482 [0xAC] Flotsam (ID: 17924150/0x01118036)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1488 [0x3E] IF !(Work_Zone_Memorize[0] bit 29*) GOTO 0x14A5
-     0x148F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "efon" with entities [Flotsam (ID: 17924150/0x01118036), Flotsam (ID: 17924150/0x01118036)]
-     0x149C [0xB6] ENTITY_APPEARANCE_HANDLER(case=Render.Flags2)
-     0x149E [0x36] SET_ENTITY_EVENT_POSITION(pos_x=0x1180, pos_z=0x0101, pos_y=0x14B8)
-     0x14A5 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "efof" with entities [Flotsam (ID: 17924150/0x01118036), Flotsam (ID: 17924150/0x01118036)]
-     0x14B2 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Render.Flags2)
-     0x14B4 [0x36] SET_ENTITY_EVENT_POSITION(pos_x=0x1180, pos_z=0x1B01, pos_y=0x013E)
-     0x14BB [0x11] 0* >>= 0x14CF
-     0x14C0 [0x4E] SET_ENTITY_HIDE_FLAG: Show Crabauble (ID: 17924209/0x01118071)
-     0x14C6 [0xAC] Crabauble (ID: 17924209/0x01118071)->Render.Flags6 |= 0x02 // Set bit 1
-     0x14CC [0x01] GOTO 0x14DB
-     0x14CF [0xAC] Crabauble (ID: 17924209/0x01118071)->Render.Flags6 |= 0x02 // Set bit 1
-     0x14D5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Crabauble (ID: 17924209/0x01118071)
-     0x14DB [0x1B] RETURN
-     0x14DC [0xAC] Garden Strongbox (ID: 17924210/0x01118072)->Render.Flags6 |= 0x02 // Set bit 1
-     0x14E2 [0x3E] IF !(Work_Zone_Memorize[1] bit 1*) GOTO 0x1500
-     0x14E9 [0x3E] IF !(Work_Zone_Memorize[1] bit 3*) GOTO 0x14F7
-     0x14F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Garden Strongbox (ID: 17924210/0x01118072), tag_num=0x04)
-     0x14F7 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Strongbox (ID: 17924210/0x01118072)
-     0x14FD [0x01] GOTO 0x1507
-     0x1500 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Garden Strongbox (ID: 17924210/0x01118072), tag_num=0x03)
-     0x1507 [0x1B] RETURN
-     0x1508 [0xAC] Ephemeral Moogle (ID: 17924238/0x0111808E)->Render.Flags6 |= 0x02 // Set bit 1
-     0x150E [0x3E] IF !(Work_Zone_Memorize[1] bit 25*) GOTO 0x151E
-     0x1515 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ephemeral Moogle (ID: 17924238/0x0111808E)
-     0x151B [0x01] GOTO 0x1524
-     0x151E [0x4E] SET_ENTITY_HIDE_FLAG: Hide Ephemeral Moogle (ID: 17924238/0x0111808E)
-     0x1524 [0x1B] RETURN
-     0x1525 [0xAC] Unnamed NPC (ID: 17924224/0x01118080)->Render.Flags6 |= 0x02 // Set bit 1
-     0x152B [0xAC] Unnamed NPC (ID: 17924225/0x01118081)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1531 [0xAC] Unnamed NPC (ID: 17924226/0x01118082)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1537 [0xAC] Unnamed NPC (ID: 17924227/0x01118083)->Render.Flags6 |= 0x02 // Set bit 1
-     0x153D [0xAC] Unnamed NPC (ID: 17924228/0x01118084)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1543 [0x3E] IF !(Work_Zone_Memorize[1] bit 26*) GOTO 0x1589
-     0x154A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924224/0x01118080)
+     0x0EAE [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0EAF [0x21] END_EVENT
+     0x0EB0 [0x00] END_REQSTACK()
+     0x0EB1 [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x0EB7 [0x1A] CALL_SUBROUTINE(address=0x16EB)
+     0x0EBA [0x1A] CALL_SUBROUTINE(address=0x0F28)
+     0x0EBD [0x1A] CALL_SUBROUTINE(address=0x0FEC)
+     0x0EC0 [0x1A] CALL_SUBROUTINE(address=0x1196)
+     0x0EC3 [0x1A] CALL_SUBROUTINE(address=0x13C3)
+     0x0EC6 [0x1A] CALL_SUBROUTINE(address=0x22D1)
+     0x0EC9 [0x1A] CALL_SUBROUTINE(address=0x13D1)
+     0x0ECC [0x1A] CALL_SUBROUTINE(address=0x14AD)
+     0x0ECF [0x1A] CALL_SUBROUTINE(address=0x14E4)
+     0x0ED2 [0x1A] CALL_SUBROUTINE(address=0x1507)
+     0x0ED5 [0x1A] CALL_SUBROUTINE(address=0x1533)
+     0x0ED8 [0x1A] CALL_SUBROUTINE(address=0x15D3)
+     0x0EDB [0x1A] CALL_SUBROUTINE(address=0x165D)
+     0x0EDE [0x1A] CALL_SUBROUTINE(address=0x1686)
+     0x0EE1 [0x1A] CALL_SUBROUTINE(address=0x16CC)
+     0x0EE4 [0x1A] CALL_SUBROUTINE(address=0x1304)
+     0x0EE7 [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0EED [0x1B] RETURN
+     0x0EEE [0x92] Green Thumb Moogle (ID: 17924125/0x0111801D)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x0EF4 [0x1A] CALL_SUBROUTINE(address=0x0F28)
+     0x0EF7 [0x1A] CALL_SUBROUTINE(address=0x0FEC)
+     0x0EFA [0x1A] CALL_SUBROUTINE(address=0x1196)
+     0x0EFD [0x1A] CALL_SUBROUTINE(address=0x13C3)
+     0x0F00 [0x1A] CALL_SUBROUTINE(address=0x22D1)
+     0x0F03 [0x1A] CALL_SUBROUTINE(address=0x13D1)
+     0x0F06 [0x1A] CALL_SUBROUTINE(address=0x14AD)
+     0x0F09 [0x1A] CALL_SUBROUTINE(address=0x14E4)
+     0x0F0C [0x1A] CALL_SUBROUTINE(address=0x1507)
+     0x0F0F [0x1A] CALL_SUBROUTINE(address=0x1533)
+     0x0F12 [0x1A] CALL_SUBROUTINE(address=0x15D3)
+     0x0F15 [0x1A] CALL_SUBROUTINE(address=0x165D)
+     0x0F18 [0x1A] CALL_SUBROUTINE(address=0x1686)
+     0x0F1B [0x1A] CALL_SUBROUTINE(address=0x16CC)
+     0x0F1E [0x1A] CALL_SUBROUTINE(address=0x1304)
+     0x0F21 [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0F27 [0x1B] RETURN
+     0x0F28 [0xAC] Unknown NPC (ID: 17924105/0x01118009)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0F2E [0x3E] IF !(Work_Zone_Memorize[0] bit 0*) GOTO 0x0F3F
+     0x0F35 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924105/0x01118009), tag_num=0x02)
+     0x0F3C [0x01] GOTO 0x0F46
+     0x0F3F [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924105/0x01118009), tag_num=0x03)
+     0x0F46 [0xAC] Unknown NPC (ID: 17924106/0x0111800A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0F4C [0x3E] IF !(Work_Zone_Memorize[0] bit 1*) GOTO 0x0F5D
+     0x0F53 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924106/0x0111800A), tag_num=0x02)
+     0x0F5A [0x01] GOTO 0x0F64
+     0x0F5D [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924106/0x0111800A), tag_num=0x03)
+     0x0F64 [0xAC] Unknown NPC (ID: 17924107/0x0111800B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0F6A [0x3E] IF !(Work_Zone_Memorize[0] bit 2*) GOTO 0x0F7B
+     0x0F71 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924107/0x0111800B), tag_num=0x02)
+     0x0F78 [0x01] GOTO 0x0F82
+     0x0F7B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924107/0x0111800B), tag_num=0x03)
+     0x0F82 [0x92] Garden Furrow (ID: 17924128/0x01118020)->Render.Flags3 ^= 0x01
+     0x0F88 [0x92] Garden Furrow #2 (ID: 17924129/0x01118021)->Render.Flags3 ^= 0x01
+     0x0F8E [0x92] Garden Furrow #3 (ID: 17924130/0x01118022)->Render.Flags3 ^= 0x01
+     0x0F94 [0xAC] Garden Furrow (ID: 17924128/0x01118020)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0F9A [0x3E] IF !(Work_Zone_Memorize[0] bit 26*) GOTO 0x0FAA
+     0x0FA1 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow (ID: 17924128/0x01118020)
+     0x0FA7 [0x01] GOTO 0x0FB0
+     0x0FAA [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow (ID: 17924128/0x01118020)
+     0x0FB0 [0xAC] Garden Furrow #2 (ID: 17924129/0x01118021)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0FB6 [0x3E] IF !(Work_Zone_Memorize[0] bit 27*) GOTO 0x0FC6
+     0x0FBD [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow #2 (ID: 17924129/0x01118021)
+     0x0FC3 [0x01] GOTO 0x0FCC
+     0x0FC6 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow #2 (ID: 17924129/0x01118021)
+     0x0FCC [0xAC] Garden Furrow #3 (ID: 17924130/0x01118022)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0FD2 [0x3E] IF !(Work_Zone_Memorize[0] bit 28*) GOTO 0x0FE2
+     0x0FD9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Furrow #3 (ID: 17924130/0x01118022)
+     0x0FDF [0x01] GOTO 0x0FE8
+     0x0FE2 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Garden Furrow #3 (ID: 17924130/0x01118022)
+     0x0FE8 [0x1C] WAIT(1* ticks)
+     0x0FEB [0x1B] RETURN
+     0x0FEC [0xAC] Unknown NPC (ID: 17924111/0x0111800F)->Render.Flags6 |= 0x02 // Set bit 1
+     0x0FF2 [0x3E] IF !(Work_Zone_Memorize[0] bit 3*) GOTO 0x1003
+     0x0FF9 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924111/0x0111800F), tag_num=0x02)
+     0x1000 [0x01] GOTO 0x100A
+     0x1003 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924111/0x0111800F), tag_num=0x03)
+     0x100A [0xAC] Unknown NPC (ID: 17924112/0x01118010)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1010 [0x3E] IF !(Work_Zone_Memorize[0] bit 4*) GOTO 0x1021
+     0x1017 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924112/0x01118010), tag_num=0x02)
+     0x101E [0x01] GOTO 0x1028
+     0x1021 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924112/0x01118010), tag_num=0x03)
+     0x1028 [0xAC] Unknown NPC (ID: 17924113/0x01118011)->Render.Flags6 |= 0x02 // Set bit 1
+     0x102E [0x3E] IF !(Work_Zone_Memorize[0] bit 5*) GOTO 0x103F
+     0x1035 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924113/0x01118011), tag_num=0x02)
+     0x103C [0x01] GOTO 0x1046
+     0x103F [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924113/0x01118011), tag_num=0x03)
+     0x1046 [0xAC] Unknown NPC (ID: 17924122/0x0111801A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x104C [0x3E] IF !(Work_Zone_Memorize[1] bit 18*) GOTO 0x105D
+     0x1053 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924122/0x0111801A), tag_num=0x02)
+     0x105A [0x01] GOTO 0x1064
+     0x105D [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924122/0x0111801A), tag_num=0x03)
+     0x1064 [0xAC] Unknown NPC (ID: 17924123/0x0111801B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x106A [0x3E] IF !(Work_Zone_Memorize[1] bit 19*) GOTO 0x107B
+     0x1071 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924123/0x0111801B), tag_num=0x02)
+     0x1078 [0x01] GOTO 0x1082
+     0x107B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924123/0x0111801B), tag_num=0x03)
+     0x1082 [0xAC] Arboreal Grove (ID: 17924131/0x01118023)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1088 [0xAC] Arboreal Grove (ID: 17924132/0x01118024)->Render.Flags6 |= 0x02 // Set bit 1
+     0x108E [0x3E] IF !(Work_Zone_Memorize[0] bit 18*) GOTO 0x10BA
+     0x1095 [0x3E] IF !(Work_Zone_Memorize[8] bit 0*) GOTO 0x10AB
+     0x109C [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove (ID: 17924132/0x01118024)
+     0x10A2 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924131/0x01118023)
+     0x10A8 [0x01] GOTO 0x10B7
+     0x10AB [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove (ID: 17924131/0x01118023)
+     0x10B1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924132/0x01118024)
+     0x10B7 [0x01] GOTO 0x10C6
+     0x10BA [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924131/0x01118023)
+     0x10C0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove (ID: 17924132/0x01118024)
+     0x10C6 [0xAC] Arboreal Grove #2 (ID: 17924133/0x01118025)->Render.Flags6 |= 0x02 // Set bit 1
+     0x10CC [0xAC] Arboreal Grove #2 (ID: 17924134/0x01118026)->Render.Flags6 |= 0x02 // Set bit 1
+     0x10D2 [0x3E] IF !(Work_Zone_Memorize[0] bit 19*) GOTO 0x10FE
+     0x10D9 [0x3E] IF !(Work_Zone_Memorize[8] bit 1*) GOTO 0x10EF
+     0x10E0 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #2 (ID: 17924134/0x01118026)
+     0x10E6 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924133/0x01118025)
+     0x10EC [0x01] GOTO 0x10FB
+     0x10EF [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #2 (ID: 17924133/0x01118025)
+     0x10F5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924134/0x01118026)
+     0x10FB [0x01] GOTO 0x110A
+     0x10FE [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924133/0x01118025)
+     0x1104 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #2 (ID: 17924134/0x01118026)
+     0x110A [0xAC] Arboreal Grove #3 (ID: 17924135/0x01118027)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1110 [0xAC] Arboreal Grove #3 (ID: 17924136/0x01118028)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1116 [0x3E] IF !(Work_Zone_Memorize[0] bit 20*) GOTO 0x1142
+     0x111D [0x3E] IF !(Work_Zone_Memorize[8] bit 2*) GOTO 0x1133
+     0x1124 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #3 (ID: 17924136/0x01118028)
+     0x112A [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924135/0x01118027)
+     0x1130 [0x01] GOTO 0x113F
+     0x1133 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #3 (ID: 17924135/0x01118027)
+     0x1139 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924136/0x01118028)
+     0x113F [0x01] GOTO 0x114E
+     0x1142 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924135/0x01118027)
+     0x1148 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #3 (ID: 17924136/0x01118028)
+     0x114E [0xAC] Arboreal Grove #4 (ID: 17924137/0x01118029)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1154 [0xAC] Arboreal Grove #4 (ID: 17924138/0x0111802A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x115A [0x3E] IF !(Work_Zone_Memorize[0] bit 21*) GOTO 0x1186
+     0x1161 [0x3E] IF !(Work_Zone_Memorize[8] bit 3*) GOTO 0x1177
+     0x1168 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #4 (ID: 17924138/0x0111802A)
+     0x116E [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924137/0x01118029)
+     0x1174 [0x01] GOTO 0x1183
+     0x1177 [0x4E] SET_ENTITY_HIDE_FLAG: Show Arboreal Grove #4 (ID: 17924137/0x01118029)
+     0x117D [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924138/0x0111802A)
+     0x1183 [0x01] GOTO 0x1192
+     0x1186 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924137/0x01118029)
+     0x118C [0x4E] SET_ENTITY_HIDE_FLAG: Hide Arboreal Grove #4 (ID: 17924138/0x0111802A)
+     0x1192 [0x1C] WAIT(1* ticks)
+     0x1195 [0x1B] RETURN
+     0x1196 [0xAC] Unknown NPC (ID: 17924114/0x01118012)->Render.Flags6 |= 0x02 // Set bit 1
+     0x119C [0x3E] IF !(Work_Zone_Memorize[0] bit 6*) GOTO 0x11AD
+     0x11A3 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924114/0x01118012), tag_num=0x02)
+     0x11AA [0x01] GOTO 0x11B4
+     0x11AD [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924114/0x01118012), tag_num=0x03)
+     0x11B4 [0xAC] Unknown NPC (ID: 17924115/0x01118013)->Render.Flags6 |= 0x02 // Set bit 1
+     0x11BA [0x3E] IF !(Work_Zone_Memorize[0] bit 7*) GOTO 0x11CB
+     0x11C1 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924115/0x01118013), tag_num=0x02)
+     0x11C8 [0x01] GOTO 0x11D2
+     0x11CB [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924115/0x01118013), tag_num=0x03)
+     0x11D2 [0xAC] Unknown NPC (ID: 17924116/0x01118014)->Render.Flags6 |= 0x02 // Set bit 1
+     0x11D8 [0x3E] IF !(Work_Zone_Memorize[0] bit 8*) GOTO 0x11E9
+     0x11DF [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924116/0x01118014), tag_num=0x02)
+     0x11E6 [0x01] GOTO 0x11F0
+     0x11E9 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924116/0x01118014), tag_num=0x03)
+     0x11F0 [0xAC] Mineral Vein (ID: 17924139/0x0111802B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x11F6 [0xAC] Mineral Vein (ID: 17924140/0x0111802C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x11FC [0x3E] IF !(Work_Zone_Memorize[0] bit 22*) GOTO 0x1228
+     0x1203 [0x3E] IF !(Work_Zone_Memorize[8] bit 4*) GOTO 0x1219
+     0x120A [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein (ID: 17924140/0x0111802C)
+     0x1210 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924139/0x0111802B)
+     0x1216 [0x01] GOTO 0x1225
+     0x1219 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein (ID: 17924139/0x0111802B)
+     0x121F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924140/0x0111802C)
+     0x1225 [0x01] GOTO 0x1234
+     0x1228 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924139/0x0111802B)
+     0x122E [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein (ID: 17924140/0x0111802C)
+     0x1234 [0xAC] Mineral Vein #2 (ID: 17924141/0x0111802D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x123A [0xAC] Mineral Vein #2 (ID: 17924142/0x0111802E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1240 [0x3E] IF !(Work_Zone_Memorize[0] bit 23*) GOTO 0x126C
+     0x1247 [0x3E] IF !(Work_Zone_Memorize[8] bit 5*) GOTO 0x125D
+     0x124E [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #2 (ID: 17924142/0x0111802E)
+     0x1254 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924141/0x0111802D)
+     0x125A [0x01] GOTO 0x1269
+     0x125D [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #2 (ID: 17924141/0x0111802D)
+     0x1263 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924142/0x0111802E)
+     0x1269 [0x01] GOTO 0x1278
+     0x126C [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924141/0x0111802D)
+     0x1272 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #2 (ID: 17924142/0x0111802E)
+     0x1278 [0xAC] Mineral Vein #3 (ID: 17924143/0x0111802F)->Render.Flags6 |= 0x02 // Set bit 1
+     0x127E [0xAC] Mineral Vein #3 (ID: 17924144/0x01118030)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1284 [0x3E] IF !(Work_Zone_Memorize[0] bit 24*) GOTO 0x12B0
+     0x128B [0x3E] IF !(Work_Zone_Memorize[8] bit 6*) GOTO 0x12A1
+     0x1292 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #3 (ID: 17924144/0x01118030)
+     0x1298 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924143/0x0111802F)
+     0x129E [0x01] GOTO 0x12AD
+     0x12A1 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #3 (ID: 17924143/0x0111802F)
+     0x12A7 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924144/0x01118030)
+     0x12AD [0x01] GOTO 0x12BC
+     0x12B0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924143/0x0111802F)
+     0x12B6 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #3 (ID: 17924144/0x01118030)
+     0x12BC [0xAC] Mineral Vein #4 (ID: 17924145/0x01118031)->Render.Flags6 |= 0x02 // Set bit 1
+     0x12C2 [0xAC] Mineral Vein #4 (ID: 17924146/0x01118032)->Render.Flags6 |= 0x02 // Set bit 1
+     0x12C8 [0x3E] IF !(Work_Zone_Memorize[0] bit 25*) GOTO 0x12F4
+     0x12CF [0x3E] IF !(Work_Zone_Memorize[8] bit 7*) GOTO 0x12E5
+     0x12D6 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #4 (ID: 17924146/0x01118032)
+     0x12DC [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924145/0x01118031)
+     0x12E2 [0x01] GOTO 0x12F1
+     0x12E5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mineral Vein #4 (ID: 17924145/0x01118031)
+     0x12EB [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924146/0x01118032)
+     0x12F1 [0x01] GOTO 0x1300
+     0x12F4 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924145/0x01118031)
+     0x12FA [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mineral Vein #4 (ID: 17924146/0x01118032)
+     0x1300 [0x1C] WAIT(1* ticks)
+     0x1303 [0x1B] RETURN
+     0x1304 [0x92] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags3 ^= 0x01
+     0x130A [0xAC] Unknown NPC (ID: 17924117/0x01118015)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1310 [0x3E] IF !(Work_Zone_Memorize[0] bit 9*) GOTO 0x1321
+     0x1317 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924117/0x01118015), tag_num=0x02)
+     0x131E [0x01] GOTO 0x1328
+     0x1321 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924117/0x01118015), tag_num=0x03)
+     0x1328 [0xAC] Unknown NPC (ID: 17924118/0x01118016)->Render.Flags6 |= 0x02 // Set bit 1
+     0x132E [0x3E] IF !(Work_Zone_Memorize[0] bit 10*) GOTO 0x133F
+     0x1335 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924118/0x01118016), tag_num=0x02)
+     0x133C [0x01] GOTO 0x1346
+     0x133F [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924118/0x01118016), tag_num=0x03)
+     0x1346 [0xAC] Unknown NPC (ID: 17924119/0x01118017)->Render.Flags6 |= 0x02 // Set bit 1
+     0x134C [0x3E] IF !(Work_Zone_Memorize[0] bit 11*) GOTO 0x135D
+     0x1353 [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924119/0x01118017), tag_num=0x02)
+     0x135A [0x01] GOTO 0x1364
+     0x135D [0x27] REQ_SET(priority=0x80, entity_id=Unknown NPC (ID: 17924119/0x01118017), tag_num=0x03)
+     0x1364 [0xAC] Unknown NPC (ID: 17924120/0x01118018)->Render.Flags6 |= 0x02 // Set bit 1
+     0x136A [0x3E] IF !(Work_Zone_Memorize[1] bit 17*) GOTO 0x137B
+     0x1371 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924120/0x01118018), tag_num=0x02)
+     0x1378 [0x01] GOTO 0x1382
+     0x137B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924120/0x01118018), tag_num=0x03)
+     0x1382 [0x3E] IF !(Work_Zone_Memorize[1] bit 20*) GOTO 0x1392
+     0x1389 [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3069
+     0x138F [0x01] GOTO 0x1392
+     0x1392 [0x3E] IF !(Work_Zone_Memorize[1] bit 21*) GOTO 0x13A2
+     0x1399 [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3169
+     0x139F [0x01] GOTO 0x13A2
+     0x13A2 [0x3E] IF !(Work_Zone_Memorize[1] bit 22*) GOTO 0x13B2
+     0x13A9 [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3269
+     0x13AF [0x01] GOTO 0x13B2
+     0x13B2 [0x3E] IF !(Work_Zone_Memorize[1] bit 23*) GOTO 0x13C2
+     0x13B9 [0x60] ZONE_SET_ACTION: Set zone action with param 0x6E6F3369
+     0x13BF [0x01] GOTO 0x13C2
+     0x13C2 [0x1B] RETURN
+     0x13C3 [0xAC] Coastal Fishing Net (ID: 17924149/0x01118035)->Render.Flags6 |= 0x02 // Set bit 1
+     0x13C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coastal Fishing Net (ID: 17924149/0x01118035), tag_num=0x04)
+     0x13D0 [0x1B] RETURN
+     0x13D1 [0x92] Kuyin Hathdenna (ID: 17924183/0x01118057)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x13D7 [0x92] Kuyin Hathdenna (ID: 17924202/0x0111806A)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x13DD [0x92] Susuroon (ID: 17924184/0x01118058)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x13E3 [0x92] Susuroon (ID: 17924203/0x0111806B)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x13E9 [0x92] Yeestog (ID: 17924185/0x01118059)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x13EF [0x92] Yeestog (ID: 17924204/0x0111806C)->Render.Flags3 = Flags3  // No change (flag=0)
+     0x13F5 [0xAC] Kuyin Hathdenna (ID: 17924183/0x01118057)->Render.Flags6 |= 0x02 // Set bit 1
+     0x13FB [0x3E] IF !(Work_Zone_Memorize[0] bit 12*) GOTO 0x140C
+     0x1402 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924183/0x01118057), tag_num=0x02)
+     0x1409 [0x01] GOTO 0x1413
+     0x140C [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924183/0x01118057), tag_num=0x03)
+     0x1413 [0xAC] Kuyin Hathdenna (ID: 17924202/0x0111806A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1419 [0x3E] IF !(Work_Zone_Memorize[0] bit 13*) GOTO 0x142A
+     0x1420 [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924202/0x0111806A), tag_num=0x02)
+     0x1427 [0x01] GOTO 0x1431
+     0x142A [0x27] REQ_SET(priority=0x08, entity_id=Kuyin Hathdenna (ID: 17924202/0x0111806A), tag_num=0x03)
+     0x1431 [0xAC] Susuroon (ID: 17924184/0x01118058)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1437 [0x3E] IF !(Work_Zone_Memorize[0] bit 14*) GOTO 0x1448
+     0x143E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Susuroon (ID: 17924184/0x01118058), tag_num=0x02)
+     0x1445 [0x01] GOTO 0x144F
+     0x1448 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Susuroon (ID: 17924184/0x01118058), tag_num=0x03)
+     0x144F [0xAC] Susuroon (ID: 17924203/0x0111806B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1455 [0x3E] IF !(Work_Zone_Memorize[0] bit 15*) GOTO 0x1466
+     0x145C [0x27] REQ_SET(priority=0x08, entity_id=Susuroon (ID: 17924203/0x0111806B), tag_num=0x02)
+     0x1463 [0x01] GOTO 0x146D
+     0x1466 [0x27] REQ_SET(priority=0x08, entity_id=Susuroon (ID: 17924203/0x0111806B), tag_num=0x03)
+     0x146D [0xAC] Yeestog (ID: 17924185/0x01118059)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1473 [0x3E] IF !(Work_Zone_Memorize[0] bit 16*) GOTO 0x1484
+     0x147A [0x27] REQ_SET(priority=0x08, entity_id=Yeestog (ID: 17924185/0x01118059), tag_num=0x02)
+     0x1481 [0x01] GOTO 0x148B
+     0x1484 [0x27] REQ_SET(priority=0x08, entity_id=Yeestog (ID: 17924185/0x01118059), tag_num=0x03)
+     0x148B [0xAC] Yeestog (ID: 17924204/0x0111806C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1491 [0x3E] IF !(Work_Zone_Memorize[0] bit 17*) GOTO 0x14A2
+     0x1498 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yeestog (ID: 17924204/0x0111806C), tag_num=0x02)
+     0x149F [0x01] GOTO 0x14A9
+     0x14A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yeestog (ID: 17924204/0x0111806C), tag_num=0x03)
+     0x14A9 [0x1C] WAIT(1* ticks)
+     0x14AC [0x1B] RETURN
+     0x14AD [0xAC] Flotsam (ID: 17924150/0x01118036)->Render.Flags6 |= 0x02 // Set bit 1
+     0x14B3 [0x3E] IF !(Work_Zone_Memorize[0] bit 29*) GOTO 0x14D0
+     0x14BA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "efon" with entities [Flotsam (ID: 17924150/0x01118036), Flotsam (ID: 17924150/0x01118036)]
+     0x14C7 [0xB6] ENTITY_APPEARANCE_HANDLER(case=Render.Flags2)
+     0x14C9 [0x36] SET_ENTITY_EVENT_POSITION(pos_x=0x1180, pos_z=0x0101, pos_y=0x14E3)
+     0x14D0 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "efof" with entities [Flotsam (ID: 17924150/0x01118036), Flotsam (ID: 17924150/0x01118036)]
+     0x14DD [0xB6] ENTITY_APPEARANCE_HANDLER(case=Render.Flags2)
+     0x14DF [0x36] SET_ENTITY_EVENT_POSITION(pos_x=0x1180, pos_z=0x1B01, pos_y=0x013E)
+     0x14E6 [0x11] 0* >>= 0x14FA
+     0x14EB [0x4E] SET_ENTITY_HIDE_FLAG: Show Crabauble (ID: 17924209/0x01118071)
+     0x14F1 [0xAC] Crabauble (ID: 17924209/0x01118071)->Render.Flags6 |= 0x02 // Set bit 1
+     0x14F7 [0x01] GOTO 0x1506
+     0x14FA [0xAC] Crabauble (ID: 17924209/0x01118071)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1500 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Crabauble (ID: 17924209/0x01118071)
+     0x1506 [0x1B] RETURN
+     0x1507 [0xAC] Garden Strongbox (ID: 17924210/0x01118072)->Render.Flags6 |= 0x02 // Set bit 1
+     0x150D [0x3E] IF !(Work_Zone_Memorize[1] bit 1*) GOTO 0x152B
+     0x1514 [0x3E] IF !(Work_Zone_Memorize[1] bit 3*) GOTO 0x1522
+     0x151B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Garden Strongbox (ID: 17924210/0x01118072), tag_num=0x04)
+     0x1522 [0x4E] SET_ENTITY_HIDE_FLAG: Show Garden Strongbox (ID: 17924210/0x01118072)
+     0x1528 [0x01] GOTO 0x1532
+     0x152B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Garden Strongbox (ID: 17924210/0x01118072), tag_num=0x03)
+     0x1532 [0x1B] RETURN
+     0x1533 [0xAC] Ephemeral Moogle (ID: 17924238/0x0111808E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1539 [0x3E] IF !(Work_Zone_Memorize[1] bit 25*) GOTO 0x1549
+     0x1540 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ephemeral Moogle (ID: 17924238/0x0111808E)
+     0x1546 [0x01] GOTO 0x154F
+     0x1549 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Ephemeral Moogle (ID: 17924238/0x0111808E)
+     0x154F [0x1B] RETURN
      0x1550 [0xAC] Unnamed NPC (ID: 17924224/0x01118080)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1556 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924225/0x01118081)
-     0x155C [0xAC] Unnamed NPC (ID: 17924225/0x01118081)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1562 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924226/0x01118082)
-     0x1568 [0xAC] Unnamed NPC (ID: 17924226/0x01118082)->Render.Flags6 |= 0x02 // Set bit 1
-     0x156E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924227/0x01118083)
-     0x1574 [0xAC] Unnamed NPC (ID: 17924227/0x01118083)->Render.Flags6 |= 0x02 // Set bit 1
-     0x157A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924228/0x01118084)
-     0x1580 [0xAC] Unnamed NPC (ID: 17924228/0x01118084)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1586 [0x01] GOTO 0x15A7
-     0x1589 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924224/0x01118080)
-     0x158F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924225/0x01118081)
-     0x1595 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924226/0x01118082)
-     0x159B [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924227/0x01118083)
-     0x15A1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924228/0x01118084)
-     0x15A7 [0x1B] RETURN
-     0x15A8 [0xAC] ??? (ID: 17924229/0x01118085)->Render.Flags6 |= 0x02 // Set bit 1
-     0x15AE [0xAC] ??? (ID: 17924230/0x01118086)->Render.Flags6 |= 0x02 // Set bit 1
-     0x15B4 [0x3E] IF !(Work_Zone_Memorize[1] bit 27*) GOTO 0x1625
-     0x15BB [0x13] ExtData[1]->WorkLocal[27] = rand() % 2*
-     0x15C0 [0x02] IF !(ExtData[1]->WorkLocal[27] <= 2*) GOTO 0x15CB
-     0x15C8 [0x06] ExtData[1]->WorkLocal[27] = 0
-     0x15CB [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x15E4
-     0x15D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x02)
-     0x15DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x02)
-     0x15E1 [0x01] GOTO 0x1616
-     0x15E4 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x15FD
-     0x15EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x03)
-     0x15F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x03)
-     0x15FA [0x01] GOTO 0x1616
-     0x15FD [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x1616
-     0x1605 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x04)
-     0x160C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x04)
-     0x1613 [0x01] GOTO 0x1616
-     0x1616 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17924229/0x01118085)
-     0x161C [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17924230/0x01118086)
-     0x1622 [0x01] GOTO 0x1631
-     0x1625 [0x4E] SET_ENTITY_HIDE_FLAG: Hide ??? (ID: 17924229/0x01118085)
-     0x162B [0x4E] SET_ENTITY_HIDE_FLAG: Hide ??? (ID: 17924230/0x01118086)
-     0x1631 [0x1B] RETURN
-     0x1632 [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1638 [0x3E] IF !(Work_Zone_Memorize[1] bit 4*) GOTO 0x164E
-     0x163F [0x4E] SET_ENTITY_HIDE_FLAG: Show Chacharoon (ID: 17924231/0x01118087)
-     0x1645 [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
-     0x164B [0x01] GOTO 0x165A
-     0x164E [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1654 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924231/0x01118087)
-     0x165A [0x1B] RETURN
-     0x165B [0xAC] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1661 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster (ID: 17924233/0x01118089), tag_num=0x04)
-     0x1668 [0x1B] RETURN
-     0x1669 [0xAC] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags6 |= 0x02 // Set bit 1
-     0x166F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster01 (ID: 17924234/0x0111808A), tag_num=0x04)
-     0x1676 [0x1B] RETURN
-     0x1677 [0xAC] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags6 |= 0x02 // Set bit 1
-     0x167D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster02 (ID: 17924235/0x0111808B), tag_num=0x04)
-     0x1684 [0x1B] RETURN
-     0x1685 [0xAC] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags6 |= 0x02 // Set bit 1
-     0x168B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster03 (ID: 17924236/0x0111808C), tag_num=0x04)
-     0x1692 [0x1B] RETURN
-     0x1693 [0xAC] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags6 |= 0x02 // Set bit 1
-     0x1699 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster00 (ID: 17924237/0x0111808D), tag_num=0x04)
-     0x16A0 [0x1B] RETURN
-     0x16A1 [0xAC] Unnamed NPC (ID: 17924124/0x0111801C)->Render.Flags6 |= 0x02 // Set bit 1
-     0x16A7 [0x3E] IF !(Work_Zone_Memorize[1] bit 24*) GOTO 0x16B8
-     0x16AE [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17924124/0x0111801C), tag_num=0x02)
-     0x16B5 [0x01] GOTO 0x16BF
-     0x16B8 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17924124/0x0111801C), tag_num=0x03)
-     0x16BF [0x1B] RETURN
-     0x16C0 [0x03] Work_Zone[1] = 1*
-     0x16C5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-     0x16C7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x16C9 [0x03] ExtData[1]->WorkLocal[28] = Work_Zone[2]
-     0x16CE [0x03] Work_Zone_Memorize[8] = Work_Zone[3]
-     0x16D3 [0x03] Work_Zone_Memorize[1] = Work_Zone[4]
-     0x16D8 [0x03] Work_Zone_Memorize[10] = Work_Zone[5]
-     0x16DD [0x03] Work_Zone_Memorize[11] = Work_Zone[6]
-     0x16E2 [0x03] Work_Zone_Memorize[12] = Work_Zone[7]
-     0x16E7 [0x03] Work_Zone[1] = 11*
-     0x16EC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-     0x16EE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x16F0 [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
-     0x16F5 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
-     0x16FA [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
-     0x16FF [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
-     0x1704 [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
-     0x1709 [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
-     0x170E [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
-     0x1713 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 0*-3*)
-     0x171C [0x1A] CALL_SUBROUTINE(address=0x190D)
-     0x171F [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 4*-7*)
-     0x1728 [0x1A] CALL_SUBROUTINE(address=0x1B15)
-     0x172B [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 8*-11*)
-     0x1734 [0x1A] CALL_SUBROUTINE(address=0x1DA5)
-     0x1737 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 12*-15*)
-     0x1740 [0x1A] CALL_SUBROUTINE(address=0x1FF3)
-     0x1743 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 20*-22*)
-     0x174C [0x1A] CALL_SUBROUTINE(address=0x1775)
-     0x174F [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 31*-31*)
-     0x1758 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x176A
-     0x1760 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=29*, condition_work_offset=1*)
-     0x1767 [0x01] GOTO 0x1771
-     0x176A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=29*, condition_work_offset=1*)
-     0x1771 [0x1A] CALL_SUBROUTINE(address=0x178F)
-     0x1774 [0x1B] RETURN
-     0x1775 [0x02] IF !(ExtData[1]->WorkLocal[27] < 3*) GOTO 0x1787
-     0x177D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1784 [0x01] GOTO 0x178E
-     0x1787 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x178E [0x1B] RETURN
-     0x178F [0x3E] IF !(Work_Zone_Memorize[8] bit 8*) GOTO 0x1800
-     0x1796 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 9*-11*)
-     0x179F [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x17B8
-     0x17A7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
-     0x17AE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
-     0x17B5 [0x01] GOTO 0x17FD
-     0x17B8 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x17D1
-     0x17C0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
-     0x17C7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
-     0x17CE [0x01] GOTO 0x17FD
-     0x17D1 [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
-     0x17D6 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x17EF
-     0x17DE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
-     0x17E5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
-     0x17EC [0x01] GOTO 0x17FD
-     0x17EF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
-     0x17F6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
-     0x17FD [0x01] GOTO 0x180E
-     0x1800 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
-     0x1807 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
-     0x180E [0x3E] IF !(Work_Zone_Memorize[8] bit 12*) GOTO 0x187F
-     0x1815 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 13*-15*)
-     0x181E [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1837
-     0x1826 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
-     0x182D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
-     0x1834 [0x01] GOTO 0x187C
-     0x1837 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1850
-     0x183F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
-     0x1846 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
-     0x184D [0x01] GOTO 0x187C
-     0x1850 [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
-     0x1855 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x186E
-     0x185D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
-     0x1864 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
-     0x186B [0x01] GOTO 0x187C
-     0x186E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
-     0x1875 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
-     0x187C [0x01] GOTO 0x188D
-     0x187F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
-     0x1886 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
-     0x188D [0x3E] IF !(Work_Zone_Memorize[8] bit 16*) GOTO 0x18FE
-     0x1894 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 17*-19*)
-     0x189D [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x18B6
-     0x18A5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
-     0x18AC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x18B3 [0x01] GOTO 0x18FB
-     0x18B6 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x18CF
-     0x18BE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
-     0x18C5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x18CC [0x01] GOTO 0x18FB
-     0x18CF [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
-     0x18D4 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x18ED
-     0x18DC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
-     0x18E3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x18EA [0x01] GOTO 0x18FB
-     0x18ED [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
-     0x18F4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x18FB [0x01] GOTO 0x190C
-     0x18FE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
-     0x1905 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x190C [0x1B] RETURN
-     0x190D [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1942
-     0x1915 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x191C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x1923 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x192A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1931 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x1938 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x193F [0x01] GOTO 0x1B14
-     0x1942 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1977
-     0x194A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x1951 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x1958 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x195F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1966 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x196D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x1974 [0x01] GOTO 0x1B14
-     0x1977 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x19AC
-     0x197F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x1986 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x198D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x1994 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x199B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x19A2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x19A9 [0x01] GOTO 0x1B14
-     0x19AC [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x19E1
-     0x19B4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x19BB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x19C2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x19C9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x19D0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x19D7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x19DE [0x01] GOTO 0x1B14
-     0x19E1 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x1A16
-     0x19E9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x19F0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x19F7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x19FE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1A05 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x1A0C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x1A13 [0x01] GOTO 0x1B14
-     0x1A16 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1A4B
-     0x1A1E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x1A25 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x1A2C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x1A33 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1A3A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x1A41 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x1A48 [0x01] GOTO 0x1B14
-     0x1A4B [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1A80
-     0x1A53 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x1A5A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x1A61 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x1A68 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1A6F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x1A76 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x1A7D [0x01] GOTO 0x1B14
-     0x1A80 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1AB5
-     0x1A88 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x1A8F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x1A96 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x1A9D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1AA4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x1AAB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x1AB2 [0x01] GOTO 0x1B14
-     0x1AB5 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x1AEA
-     0x1ABD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x1AC4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x1ACB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x1AD2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1AD9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x1AE0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x1AE7 [0x01] GOTO 0x1B14
-     0x1AEA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x1AF1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
-     0x1AF8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
-     0x1AFF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
-     0x1B06 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
-     0x1B0D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
-     0x1B14 [0x1B] RETURN
-     0x1B15 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1B5F
-     0x1B1D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1B24 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1B2B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1B32 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1B39 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1B40 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1B47 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1B4E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1B55 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1B5C [0x01] GOTO 0x1DA4
-     0x1B5F [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1BA9
-     0x1B67 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1B6E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1B75 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1B7C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1B83 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1B8A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1B91 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1B98 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1B9F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1BA6 [0x01] GOTO 0x1DA4
-     0x1BA9 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x1BF3
-     0x1BB1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1BB8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1BBF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1BC6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1BCD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1BD4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1BDB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1BE2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1BE9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1BF0 [0x01] GOTO 0x1DA4
-     0x1BF3 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x1C3D
-     0x1BFB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1C02 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1C09 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1C10 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1C17 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1C1E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1C25 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1C2C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1C33 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1C3A [0x01] GOTO 0x1DA4
-     0x1C3D [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x1C87
-     0x1C45 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1C4C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1C53 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1C5A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1C61 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1C68 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1C6F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1C76 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1C7D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1C84 [0x01] GOTO 0x1DA4
-     0x1C87 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1CD1
-     0x1C8F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1C96 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1C9D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1CA4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1CAB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1CB2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1CB9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1CC0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1CC7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1CCE [0x01] GOTO 0x1DA4
-     0x1CD1 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1D1B
-     0x1CD9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1CE0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1CE7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1CEE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1CF5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1CFC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1D03 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1D0A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1D11 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1D18 [0x01] GOTO 0x1DA4
-     0x1D1B [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1D65
-     0x1D23 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1D2A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1D31 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1D38 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1D3F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1D46 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1D4D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1D54 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1D5B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1D62 [0x01] GOTO 0x1DA4
-     0x1D65 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x1D6C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x1D73 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x1D7A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1D81 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1D88 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
-     0x1D8F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
-     0x1D96 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x1D9D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x1DA4 [0x1B] RETURN
-     0x1DA5 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1DE1
-     0x1DAD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1DB4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1DBB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1DC2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1DC9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1DD0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1DD7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1DDE [0x01] GOTO 0x1FF2
-     0x1DE1 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1E1D
-     0x1DE9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1DF0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1DF7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1DFE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1E05 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1E0C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1E13 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1E1A [0x01] GOTO 0x1FF2
-     0x1E1D [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x1E59
-     0x1E25 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1E2C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1E33 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1E3A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1E41 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1E48 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1E4F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1E56 [0x01] GOTO 0x1FF2
-     0x1E59 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x1E95
-     0x1E61 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1E68 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1E6F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1E76 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1E7D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1E84 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1E8B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1E92 [0x01] GOTO 0x1FF2
-     0x1E95 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x1ED1
-     0x1E9D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1EA4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1EAB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1EB2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1EB9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1EC0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1EC7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1ECE [0x01] GOTO 0x1FF2
-     0x1ED1 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1F0D
-     0x1ED9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1EE0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1EE7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1EEE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1EF5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1EFC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1F03 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1F0A [0x01] GOTO 0x1FF2
-     0x1F0D [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1F49
-     0x1F15 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1F1C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1F23 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1F2A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1F31 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1F38 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1F3F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1F46 [0x01] GOTO 0x1FF2
-     0x1F49 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1F85
-     0x1F51 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1F58 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1F5F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1F66 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1F6D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1F74 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1F7B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1F82 [0x01] GOTO 0x1FF2
-     0x1F85 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x1FC1
-     0x1F8D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1F94 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1F9B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1FA2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1FA9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1FB0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1FB7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1FBE [0x01] GOTO 0x1FF2
-     0x1FC1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
-     0x1FC8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
-     0x1FCF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x1FD6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x1FDD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x1FE4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
-     0x1FEB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
-     0x1FF2 [0x1B] RETURN
-     0x1FF3 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x2036
-     0x1FFB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x2002 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x2009 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x2010 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x2017 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x201E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x2025 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x202C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x2033 [0x01] GOTO 0x2243
-     0x2036 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x2079
-     0x203E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x2045 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x204C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x2053 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x205A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x2061 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x2068 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x206F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x2076 [0x01] GOTO 0x2243
-     0x2079 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x20BC
-     0x2081 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x2088 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x208F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x2096 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x209D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x20A4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x20AB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x20B2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x20B9 [0x01] GOTO 0x2243
-     0x20BC [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x20FF
-     0x20C4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x20CB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x20D2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x20D9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x20E0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x20E7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x20EE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x20F5 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x20FC [0x01] GOTO 0x2243
-     0x20FF [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x2142
-     0x2107 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x210E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x2115 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x211C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x2123 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x212A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x2131 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x2138 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x213F [0x01] GOTO 0x2243
-     0x2142 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x2185
-     0x214A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x2151 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x2158 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x215F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x2166 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x216D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x2174 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x217B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x2182 [0x01] GOTO 0x2243
-     0x2185 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x21C8
-     0x218D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x2194 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x219B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x21A2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x21A9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x21B0 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x21B7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x21BE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x21C5 [0x01] GOTO 0x2243
-     0x21C8 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x220B
-     0x21D0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x21D7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x21DE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x21E5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x21EC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x21F3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x21FA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x2201 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x2208 [0x01] GOTO 0x2243
-     0x220B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x2212 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
-     0x2219 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
-     0x2220 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
-     0x2227 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
-     0x222E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
-     0x2235 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x223C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
-     0x2243 [0x1B] RETURN
-     0x2244 [0x03] Work_Zone[1] = 11*
-     0x2249 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-     0x224B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x224D [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
-     0x2252 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
-     0x2257 [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
-     0x225C [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
-     0x2261 [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
-     0x2266 [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
-     0x226B [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
-     0x2270 [0x1B] RETURN
-     0x2271 [0x03] Work_Zone[1] = 73*
-     0x2276 [0x47] UPDATE_PLAYER_POS(-2.517*, -5.068*, 0.452*, yaw=291.5°*)
-     0x2280 [0x47] WAIT_PLAYER_POS_UPDATE
-     0x2282 [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
-     0x2287 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
-     0x228C [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
-     0x2291 [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
-     0x2296 [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
-     0x229B [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
-     0x22A0 [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
-     0x22A5 [0x1B] RETURN
-     0x22A6 [0x2F] Plant00 (ID: 17924151/0x01118037)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22AC [0x2F] Plant01 (ID: 17924152/0x01118038)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22B2 [0x2F] Plant02 (ID: 17924153/0x01118039)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22B8 [0x2F] Plant03 (ID: 17924154/0x0111803A)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22BE [0x2F] PlantFurn00 (ID: 17924155/0x0111803B)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22C4 [0x2F] PlantFurn01 (ID: 17924156/0x0111803C)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22CA [0x2F] PlantFurn02 (ID: 17924157/0x0111803D)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22D0 [0x2F] PlantFurn03 (ID: 17924158/0x0111803E)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22D6 [0x2F] Plant10 (ID: 17924159/0x0111803F)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22DC [0x2F] Plant11 (ID: 17924160/0x01118040)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22E2 [0x2F] Plant12 (ID: 17924161/0x01118041)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22E8 [0x2F] Plant13 (ID: 17924162/0x01118042)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22EE [0x2F] PlantFurn10 (ID: 17924163/0x01118043)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22F4 [0x2F] PlantFurn11 (ID: 17924164/0x01118044)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x22FA [0x2F] PlantFurn12 (ID: 17924165/0x01118045)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x2300 [0x2F] PlantFurn13 (ID: 17924166/0x01118046)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x2306 [0x2F] Plant20 (ID: 17924167/0x01118047)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x230C [0x2F] Plant21 (ID: 17924168/0x01118048)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x2312 [0x2F] Plant22 (ID: 17924169/0x01118049)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x2318 [0x2F] Plant23 (ID: 17924170/0x0111804A)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x231E [0x2F] PlantFurn20 (ID: 17924171/0x0111804B)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x2324 [0x2F] PlantFurn21 (ID: 17924172/0x0111804C)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x232A [0x2F] PlantFurn22 (ID: 17924173/0x0111804D)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x2330 [0x2F] PlantFurn23 (ID: 17924174/0x0111804E)->Render.Flags0 &= ~0x80000 // Bit 19
-     0x2336 [0xAC] Plant00 (ID: 17924151/0x01118037)->Render.Flags6 |= 0x02 // Set bit 1
-     0x233C [0xAC] Plant01 (ID: 17924152/0x01118038)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2342 [0xAC] Plant02 (ID: 17924153/0x01118039)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2348 [0xAC] Plant03 (ID: 17924154/0x0111803A)->Render.Flags6 |= 0x02 // Set bit 1
-     0x234E [0xAC] PlantFurn00 (ID: 17924155/0x0111803B)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2354 [0xAC] PlantFurn01 (ID: 17924156/0x0111803C)->Render.Flags6 |= 0x02 // Set bit 1
-     0x235A [0xAC] PlantFurn02 (ID: 17924157/0x0111803D)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2360 [0xAC] PlantFurn03 (ID: 17924158/0x0111803E)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2366 [0xAC] Plant10 (ID: 17924159/0x0111803F)->Render.Flags6 |= 0x02 // Set bit 1
-     0x236C [0xAC] Plant11 (ID: 17924160/0x01118040)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2372 [0xAC] Plant12 (ID: 17924161/0x01118041)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2378 [0xAC] Plant13 (ID: 17924162/0x01118042)->Render.Flags6 |= 0x02 // Set bit 1
-     0x237E [0xAC] PlantFurn10 (ID: 17924163/0x01118043)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2384 [0xAC] PlantFurn11 (ID: 17924164/0x01118044)->Render.Flags6 |= 0x02 // Set bit 1
-     0x238A [0xAC] PlantFurn12 (ID: 17924165/0x01118045)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2390 [0xAC] PlantFurn13 (ID: 17924166/0x01118046)->Render.Flags6 |= 0x02 // Set bit 1
-     0x2396 [0xAC] Plant20 (ID: 17924167/0x01118047)->Render.Flags6 |= 0x02 // Set bit 1
-     0x239C [0xAC] Plant21 (ID: 17924168/0x01118048)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23A2 [0xAC] Plant22 (ID: 17924169/0x01118049)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23A8 [0xAC] Plant23 (ID: 17924170/0x0111804A)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23AE [0xAC] PlantFurn20 (ID: 17924171/0x0111804B)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23B4 [0xAC] PlantFurn21 (ID: 17924172/0x0111804C)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23BA [0xAC] PlantFurn22 (ID: 17924173/0x0111804D)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23C0 [0xAC] PlantFurn23 (ID: 17924174/0x0111804E)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23C6 [0xAC] Unknown NPC (ID: 17924108/0x0111800C)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23CC [0xAC] Unknown NPC (ID: 17924109/0x0111800D)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23D2 [0xAC] Unknown NPC (ID: 17924110/0x0111800E)->Render.Flags6 |= 0x02 // Set bit 1
-     0x23D8 [0x41] Work_Zone[2] = Work_Zone_Memorize[2] (bits 0*-1*)
-     0x23E1 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x23F3
-     0x23E9 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924108/0x0111800C), tag_num=0x03)
-     0x23F0 [0x01] GOTO 0x23FA
-     0x23F3 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924108/0x0111800C), tag_num=0x02)
-     0x23FA [0x41] Work_Zone[2] = Work_Zone_Memorize[3] (bits 0*-1*)
-     0x2403 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x2415
-     0x240B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924109/0x0111800D), tag_num=0x03)
-     0x2412 [0x01] GOTO 0x241C
-     0x2415 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924109/0x0111800D), tag_num=0x02)
-     0x241C [0x41] Work_Zone[2] = Work_Zone_Memorize[4] (bits 0*-1*)
-     0x2425 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x2437
-     0x242D [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924110/0x0111800E), tag_num=0x03)
-     0x2434 [0x01] GOTO 0x243E
-     0x2437 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924110/0x0111800E), tag_num=0x02)
-     0x243E [0x27] REQ_SET(priority=0x80, entity_id=Plant00 (ID: 17924151/0x01118037), tag_num=0x02)
-     0x2445 [0x27] REQ_SET(priority=0x80, entity_id=Plant01 (ID: 17924152/0x01118038), tag_num=0x02)
-     0x244C [0x27] REQ_SET(priority=0x80, entity_id=Plant02 (ID: 17924153/0x01118039), tag_num=0x02)
-     0x2453 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant03 (ID: 17924154/0x0111803A), tag_num=0x02)
-     0x245A [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn00 (ID: 17924155/0x0111803B), tag_num=0x02)
-     0x2461 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn01 (ID: 17924156/0x0111803C), tag_num=0x02)
-     0x2468 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn02 (ID: 17924157/0x0111803D), tag_num=0x02)
-     0x246F [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn03 (ID: 17924158/0x0111803E), tag_num=0x02)
-     0x2476 [0x27] REQ_SET(priority=0x80, entity_id=Plant10 (ID: 17924159/0x0111803F), tag_num=0x02)
-     0x247D [0x27] REQ_SET(priority=0x80, entity_id=Plant11 (ID: 17924160/0x01118040), tag_num=0x02)
-     0x2484 [0x27] REQ_SET(priority=0x80, entity_id=Plant12 (ID: 17924161/0x01118041), tag_num=0x02)
-     0x248B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant13 (ID: 17924162/0x01118042), tag_num=0x02)
-     0x2492 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn10 (ID: 17924163/0x01118043), tag_num=0x02)
-     0x2499 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn11 (ID: 17924164/0x01118044), tag_num=0x02)
-     0x24A0 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn12 (ID: 17924165/0x01118045), tag_num=0x02)
-     0x24A7 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn13 (ID: 17924166/0x01118046), tag_num=0x02)
-     0x24AE [0x27] REQ_SET(priority=0x80, entity_id=Plant20 (ID: 17924167/0x01118047), tag_num=0x02)
-     0x24B5 [0x27] REQ_SET(priority=0x80, entity_id=Plant21 (ID: 17924168/0x01118048), tag_num=0x02)
-     0x24BC [0x27] REQ_SET(priority=0x80, entity_id=Plant22 (ID: 17924169/0x01118049), tag_num=0x02)
-     0x24C3 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant23 (ID: 17924170/0x0111804A), tag_num=0x02)
-     0x24CA [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn20 (ID: 17924171/0x0111804B), tag_num=0x02)
-     0x24D1 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn21 (ID: 17924172/0x0111804C), tag_num=0x02)
-     0x24D8 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn22 (ID: 17924173/0x0111804D), tag_num=0x02)
-     0x24DF [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn23 (ID: 17924174/0x0111804E), tag_num=0x02)
-     0x24E6 [0x1B] RETURN
-     0x24E7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x24E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x24F9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x2508 [0x1A] CALL_SUBROUTINE(address=0x2271)
-     0x250B [0x1A] CALL_SUBROUTINE(address=0x0E86)
-     0x250E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x251F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x252E [0x1B] RETURN
-     0x252F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x2530 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x2541 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x2550 [0x03] Work_Zone[1] = 72*
-     0x2555 [0x47] UPDATE_PLAYER_POS(361.160*, -554.770*, -3.340*, yaw=141.8°*)
-     0x255F [0x47] WAIT_PLAYER_POS_UPDATE
-     0x2561 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x257E
-     0x2569 [0x1A] CALL_SUBROUTINE(address=0x16C0)
-     0x256C [0x1A] CALL_SUBROUTINE(address=0x1669)
-     0x256F [0x1A] CALL_SUBROUTINE(address=0x1677)
-     0x2572 [0x1A] CALL_SUBROUTINE(address=0x1685)
-     0x2575 [0x1A] CALL_SUBROUTINE(address=0x1693)
-     0x2578 [0x1A] CALL_SUBROUTINE(address=0x1525)
-     0x257B [0x01] GOTO 0x257E
-     0x257E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x258F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x259E [0x1B] RETURN
-     0x259F [0x1A] CALL_SUBROUTINE(address=0x2608)
-     0x25A2 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x25AB
-     0x25AA [0x1B] RETURN
-     0x25AB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=Work_Zone[2], condition_work_offset=1*)
-     0x25B2 [0x1A] CALL_SUBROUTINE(address=0x0E86)
-     0x25B5 [0x1B] RETURN
-     0x25B6 [0x1A] CALL_SUBROUTINE(address=0x2608)
-     0x25B9 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x25C2
-     0x25C1 [0x1B] RETURN
-     0x25C2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=Work_Zone[2], condition_work_offset=1*)
-     0x25C9 [0x1A] CALL_SUBROUTINE(address=0x0E86)
-     0x25CC [0x1B] RETURN
-     0x25CD [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[2]
-     0x25D2 [0x03] Work_Zone[1] = 2*
-     0x25D7 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
-     0x25E0 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x25F2
-     0x25E8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
-     0x25EF [0x01] GOTO 0x25F9
-     0x25F2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
-     0x25F9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-     0x25FB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x25FD [0x03] Work_Zone_Memorize[0] = Work_Zone[2]
-     0x2602 [0x03] ExtData[1]->WorkLocal[27] = 0*
-     0x2607 [0x1B] RETURN
-     0x2608 [0x02] IF !(Work_Zone[2] >= 0*) GOTO 0x2619
-     0x2610 [0x03] ExtData[1]->WorkLocal[27] = 4294967295*
-     0x2615 [0x1B] RETURN
-     0x2616 [0x01] GOTO 0x262F
-     0x2619 [0x02] IF !(Work_Zone[2] <= 31*) GOTO 0x262A
-     0x2621 [0x03] ExtData[1]->WorkLocal[27] = 4294967295*
-     0x2626 [0x1B] RETURN
-     0x2627 [0x01] GOTO 0x262F
-     0x262A [0x03] ExtData[1]->WorkLocal[27] = 0*
-     0x262F [0x1B] RETURN
-     0x2630 [0x02] IF !(0x0310 == 0x0410) GOTO 0x1005
-     0x2638 [0x06] 0x0710 = 0
-     0x263B [0x10] Work_Zone[8] <<= Work_Zone[9]
-     0x2640 [0x00] END_REQSTACK()
-     0x2641 [0x17] Work_Zone_1700[1] = cos(Work_Zone_1700[2]) * Work_Zone_1700[3]
-     0x2648 [0x04] DEPRECATED_NOP(unused=0x0517)
-     0x264B [0x17] Work_Zone_1700[6] = cos(Work_Zone_1700[7]) * Work_Zone_1700[8]
-     0x2652 [0x09] 0x0A17 |= (1 << 0x0B17)
-     0x2657 [0x17] Work_Zone_1700[12] = cos(Work_Zone_1700[13]) * Work_Zone_1700[14]
-     0x265E [0x0F] Work_Zone[23] ^= Work_Zone_Memorize[23]
-     0x2663 [0x17] Work_Zone_1700[18] = cos(Work_Zone_1700[19]) * Work_Zone_1700[20]
-     0x266A [0x15] 0x1617 /= Work_Zone_1700[23]
-     0x266F [0x17] Work_Zone_1700[24] = cos(Work_Zone_1700[25]) * Work_Zone_1700[26]
-     0x2676 [0x1B] RETURN
-     0x2677 [0x17] Work_Zone_1700[28] = cos(Work_Zone_1700[29]) * Work_Zone_1700[30]
-     0x267E [0x1F] MOVE_ENTITY: Update entity position (mode=23)
-     0x2680 [0x00] END_REQSTACK()
-     0x2681 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
-     0x2686 [0x00] END_REQSTACK()
-     0x2687 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
-     0x268C [0x00] END_REQSTACK()
-     0x268D [0x00] END_REQSTACK()
+     0x1556 [0xAC] Unnamed NPC (ID: 17924225/0x01118081)->Render.Flags6 |= 0x02 // Set bit 1
+     0x155C [0xAC] Unnamed NPC (ID: 17924226/0x01118082)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1562 [0xAC] Unnamed NPC (ID: 17924227/0x01118083)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1568 [0xAC] Unnamed NPC (ID: 17924228/0x01118084)->Render.Flags6 |= 0x02 // Set bit 1
+     0x156E [0x3E] IF !(Work_Zone_Memorize[1] bit 26*) GOTO 0x15B4
+     0x1575 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924224/0x01118080)
+     0x157B [0xAC] Unnamed NPC (ID: 17924224/0x01118080)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1581 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924225/0x01118081)
+     0x1587 [0xAC] Unnamed NPC (ID: 17924225/0x01118081)->Render.Flags6 |= 0x02 // Set bit 1
+     0x158D [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924226/0x01118082)
+     0x1593 [0xAC] Unnamed NPC (ID: 17924226/0x01118082)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1599 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924227/0x01118083)
+     0x159F [0xAC] Unnamed NPC (ID: 17924227/0x01118083)->Render.Flags6 |= 0x02 // Set bit 1
+     0x15A5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17924228/0x01118084)
+     0x15AB [0xAC] Unnamed NPC (ID: 17924228/0x01118084)->Render.Flags6 |= 0x02 // Set bit 1
+     0x15B1 [0x01] GOTO 0x15D2
+     0x15B4 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924224/0x01118080)
+     0x15BA [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924225/0x01118081)
+     0x15C0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924226/0x01118082)
+     0x15C6 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924227/0x01118083)
+     0x15CC [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17924228/0x01118084)
+     0x15D2 [0x1B] RETURN
+     0x15D3 [0xAC] ??? (ID: 17924229/0x01118085)->Render.Flags6 |= 0x02 // Set bit 1
+     0x15D9 [0xAC] ??? (ID: 17924230/0x01118086)->Render.Flags6 |= 0x02 // Set bit 1
+     0x15DF [0x3E] IF !(Work_Zone_Memorize[1] bit 27*) GOTO 0x1650
+     0x15E6 [0x13] ExtData[1]->WorkLocal[27] = rand() % 2*
+     0x15EB [0x02] IF !(ExtData[1]->WorkLocal[27] <= 2*) GOTO 0x15F6
+     0x15F3 [0x06] ExtData[1]->WorkLocal[27] = 0
+     0x15F6 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x160F
+     0x15FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x02)
+     0x1605 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x02)
+     0x160C [0x01] GOTO 0x1641
+     0x160F [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1628
+     0x1617 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x03)
+     0x161E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x03)
+     0x1625 [0x01] GOTO 0x1641
+     0x1628 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x1641
+     0x1630 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924229/0x01118085), tag_num=0x04)
+     0x1637 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17924230/0x01118086), tag_num=0x04)
+     0x163E [0x01] GOTO 0x1641
+     0x1641 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17924229/0x01118085)
+     0x1647 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17924230/0x01118086)
+     0x164D [0x01] GOTO 0x165C
+     0x1650 [0x4E] SET_ENTITY_HIDE_FLAG: Hide ??? (ID: 17924229/0x01118085)
+     0x1656 [0x4E] SET_ENTITY_HIDE_FLAG: Hide ??? (ID: 17924230/0x01118086)
+     0x165C [0x1B] RETURN
+     0x165D [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1663 [0x3E] IF !(Work_Zone_Memorize[1] bit 4*) GOTO 0x1679
+     0x166A [0x4E] SET_ENTITY_HIDE_FLAG: Show Chacharoon (ID: 17924231/0x01118087)
+     0x1670 [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
+     0x1676 [0x01] GOTO 0x1685
+     0x1679 [0xAC] Chacharoon (ID: 17924231/0x01118087)->Render.Flags6 |= 0x02 // Set bit 1
+     0x167F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Chacharoon (ID: 17924231/0x01118087)
+     0x1685 [0x1B] RETURN
+     0x1686 [0xAC] Breeding Monster (ID: 17924233/0x01118089)->Render.Flags6 |= 0x02 // Set bit 1
+     0x168C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster (ID: 17924233/0x01118089), tag_num=0x04)
+     0x1693 [0x1B] RETURN
+     0x1694 [0xAC] Breeding Monster01 (ID: 17924234/0x0111808A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x169A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster01 (ID: 17924234/0x0111808A), tag_num=0x04)
+     0x16A1 [0x1B] RETURN
+     0x16A2 [0xAC] Breeding Monster02 (ID: 17924235/0x0111808B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x16A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster02 (ID: 17924235/0x0111808B), tag_num=0x04)
+     0x16AF [0x1B] RETURN
+     0x16B0 [0xAC] Breeding Monster03 (ID: 17924236/0x0111808C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x16B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster03 (ID: 17924236/0x0111808C), tag_num=0x04)
+     0x16BD [0x1B] RETURN
+     0x16BE [0xAC] Breeding Monster00 (ID: 17924237/0x0111808D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x16C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Breeding Monster00 (ID: 17924237/0x0111808D), tag_num=0x04)
+     0x16CB [0x1B] RETURN
+     0x16CC [0xAC] Unnamed NPC (ID: 17924124/0x0111801C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x16D2 [0x3E] IF !(Work_Zone_Memorize[1] bit 24*) GOTO 0x16E3
+     0x16D9 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17924124/0x0111801C), tag_num=0x02)
+     0x16E0 [0x01] GOTO 0x16EA
+     0x16E3 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17924124/0x0111801C), tag_num=0x03)
+     0x16EA [0x1B] RETURN
+     0x16EB [0x03] Work_Zone[1] = 1*
+     0x16F0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x16F2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x16F4 [0x03] ExtData[1]->WorkLocal[28] = Work_Zone[2]
+     0x16F9 [0x03] Work_Zone_Memorize[8] = Work_Zone[3]
+     0x16FE [0x03] Work_Zone_Memorize[1] = Work_Zone[4]
+     0x1703 [0x03] Work_Zone_Memorize[10] = Work_Zone[5]
+     0x1708 [0x03] Work_Zone_Memorize[11] = Work_Zone[6]
+     0x170D [0x03] Work_Zone_Memorize[12] = Work_Zone[7]
+     0x1712 [0x03] Work_Zone[1] = 11*
+     0x1717 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x1719 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x171B [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
+     0x1720 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
+     0x1725 [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
+     0x172A [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
+     0x172F [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
+     0x1734 [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
+     0x1739 [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
+     0x173E [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 0*-3*)
+     0x1747 [0x1A] CALL_SUBROUTINE(address=0x1938)
+     0x174A [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 4*-7*)
+     0x1753 [0x1A] CALL_SUBROUTINE(address=0x1B40)
+     0x1756 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 8*-11*)
+     0x175F [0x1A] CALL_SUBROUTINE(address=0x1DD0)
+     0x1762 [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 12*-15*)
+     0x176B [0x1A] CALL_SUBROUTINE(address=0x201E)
+     0x176E [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 20*-22*)
+     0x1777 [0x1A] CALL_SUBROUTINE(address=0x17A0)
+     0x177A [0x41] ExtData[1]->WorkLocal[27] = ExtData[1]->WorkLocal[28] (bits 31*-31*)
+     0x1783 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1795
+     0x178B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=29*, condition_work_offset=1*)
+     0x1792 [0x01] GOTO 0x179C
+     0x1795 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=29*, condition_work_offset=1*)
+     0x179C [0x1A] CALL_SUBROUTINE(address=0x17BA)
+     0x179F [0x1B] RETURN
+     0x17A0 [0x02] IF !(ExtData[1]->WorkLocal[27] < 3*) GOTO 0x17B2
+     0x17A8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x17AF [0x01] GOTO 0x17B9
+     0x17B2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x17B9 [0x1B] RETURN
+     0x17BA [0x3E] IF !(Work_Zone_Memorize[8] bit 8*) GOTO 0x182B
+     0x17C1 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 9*-11*)
+     0x17CA [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x17E3
+     0x17D2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x17D9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x17E0 [0x01] GOTO 0x1828
+     0x17E3 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x17FC
+     0x17EB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x17F2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x17F9 [0x01] GOTO 0x1828
+     0x17FC [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
+     0x1801 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x181A
+     0x1809 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x1810 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x1817 [0x01] GOTO 0x1828
+     0x181A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x1821 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x1828 [0x01] GOTO 0x1839
+     0x182B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=12*, condition_work_offset=1*)
+     0x1832 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=13*, condition_work_offset=1*)
+     0x1839 [0x3E] IF !(Work_Zone_Memorize[8] bit 12*) GOTO 0x18AA
+     0x1840 [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 13*-15*)
+     0x1849 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1862
+     0x1851 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x1858 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x185F [0x01] GOTO 0x18A7
+     0x1862 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x187B
+     0x186A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x1871 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x1878 [0x01] GOTO 0x18A7
+     0x187B [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
+     0x1880 [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x1899
+     0x1888 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x188F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x1896 [0x01] GOTO 0x18A7
+     0x1899 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x18A0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x18A7 [0x01] GOTO 0x18B8
+     0x18AA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=14*, condition_work_offset=1*)
+     0x18B1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=15*, condition_work_offset=1*)
+     0x18B8 [0x3E] IF !(Work_Zone_Memorize[8] bit 16*) GOTO 0x1929
+     0x18BF [0x41] ExtData[1]->WorkLocal[27] = Work_Zone_Memorize[8] (bits 17*-19*)
+     0x18C8 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x18E1
+     0x18D0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x18D7 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x18DE [0x01] GOTO 0x1926
+     0x18E1 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x18FA
+     0x18E9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x18F0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x18F7 [0x01] GOTO 0x1926
+     0x18FA [0x13] ExtData[1]->WorkLocal[27] = rand() % 99*
+     0x18FF [0x02] IF !(ExtData[1]->WorkLocal[27] >= 50*) GOTO 0x1918
+     0x1907 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x190E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x1915 [0x01] GOTO 0x1926
+     0x1918 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x191F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x1926 [0x01] GOTO 0x1937
+     0x1929 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=16*, condition_work_offset=1*)
+     0x1930 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x1937 [0x1B] RETURN
+     0x1938 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x196D
+     0x1940 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1947 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x194E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x1955 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x195C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1963 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x196A [0x01] GOTO 0x1B3F
+     0x196D [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x19A2
+     0x1975 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x197C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1983 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x198A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x1991 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1998 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x199F [0x01] GOTO 0x1B3F
+     0x19A2 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x19D7
+     0x19AA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x19B1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x19B8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x19BF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x19C6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x19CD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x19D4 [0x01] GOTO 0x1B3F
+     0x19D7 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x1A0C
+     0x19DF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x19E6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x19ED [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x19F4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x19FB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1A02 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x1A09 [0x01] GOTO 0x1B3F
+     0x1A0C [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x1A41
+     0x1A14 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1A1B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1A22 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x1A29 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x1A30 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1A37 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x1A3E [0x01] GOTO 0x1B3F
+     0x1A41 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1A76
+     0x1A49 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1A50 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1A57 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x1A5E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x1A65 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1A6C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x1A73 [0x01] GOTO 0x1B3F
+     0x1A76 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1AAB
+     0x1A7E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1A85 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1A8C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x1A93 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x1A9A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1AA1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x1AA8 [0x01] GOTO 0x1B3F
+     0x1AAB [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1AE0
+     0x1AB3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1ABA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1AC1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x1AC8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x1ACF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1AD6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x1ADD [0x01] GOTO 0x1B3F
+     0x1AE0 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x1B15
+     0x1AE8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1AEF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1AF6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x1AFD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x1B04 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1B0B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x1B12 [0x01] GOTO 0x1B3F
+     0x1B15 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=0*, condition_work_offset=1*)
+     0x1B1C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=1*, condition_work_offset=1*)
+     0x1B23 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=2*, condition_work_offset=1*)
+     0x1B2A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=26*, condition_work_offset=1*)
+     0x1B31 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=27*, condition_work_offset=1*)
+     0x1B38 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=28*, condition_work_offset=1*)
+     0x1B3F [0x1B] RETURN
+     0x1B40 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1B8A
+     0x1B48 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1B4F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1B56 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1B5D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1B64 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1B6B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1B72 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1B79 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1B80 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1B87 [0x01] GOTO 0x1DCF
+     0x1B8A [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1BD4
+     0x1B92 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1B99 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1BA0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1BA7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1BAE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1BB5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1BBC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1BC3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1BCA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1BD1 [0x01] GOTO 0x1DCF
+     0x1BD4 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x1C1E
+     0x1BDC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1BE3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1BEA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1BF1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1BF8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1BFF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1C06 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1C0D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1C14 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1C1B [0x01] GOTO 0x1DCF
+     0x1C1E [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x1C68
+     0x1C26 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1C2D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1C34 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1C3B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1C42 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1C49 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1C50 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1C57 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1C5E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1C65 [0x01] GOTO 0x1DCF
+     0x1C68 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x1CB2
+     0x1C70 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1C77 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1C7E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1C85 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1C8C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1C93 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1C9A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1CA1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1CA8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1CAF [0x01] GOTO 0x1DCF
+     0x1CB2 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1CFC
+     0x1CBA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1CC1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1CC8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1CCF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1CD6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1CDD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1CE4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1CEB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1CF2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1CF9 [0x01] GOTO 0x1DCF
+     0x1CFC [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1D46
+     0x1D04 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1D0B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1D12 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1D19 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1D20 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1D27 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1D2E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1D35 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1D3C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1D43 [0x01] GOTO 0x1DCF
+     0x1D46 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1D90
+     0x1D4E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1D55 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1D5C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1D63 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1D6A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1D71 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1D78 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1D7F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1D86 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1D8D [0x01] GOTO 0x1DCF
+     0x1D90 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=3*, condition_work_offset=1*)
+     0x1D97 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=4*, condition_work_offset=1*)
+     0x1D9E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=5*, condition_work_offset=1*)
+     0x1DA5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1DAC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1DB3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=18*, condition_work_offset=1*)
+     0x1DBA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=19*, condition_work_offset=1*)
+     0x1DC1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x1DC8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x1DCF [0x1B] RETURN
+     0x1DD0 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1E0C
+     0x1DD8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1DDF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1DE6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1DED [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1DF4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1DFB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1E02 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1E09 [0x01] GOTO 0x201D
+     0x1E0C [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x1E48
+     0x1E14 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1E1B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1E22 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1E29 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1E30 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1E37 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1E3E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1E45 [0x01] GOTO 0x201D
+     0x1E48 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x1E84
+     0x1E50 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1E57 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1E5E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1E65 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1E6C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1E73 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1E7A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1E81 [0x01] GOTO 0x201D
+     0x1E84 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x1EC0
+     0x1E8C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1E93 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1E9A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1EA1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1EA8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1EAF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1EB6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1EBD [0x01] GOTO 0x201D
+     0x1EC0 [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x1EFC
+     0x1EC8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1ECF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1ED6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1EDD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1EE4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1EEB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1EF2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1EF9 [0x01] GOTO 0x201D
+     0x1EFC [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1F38
+     0x1F04 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1F0B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1F12 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1F19 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1F20 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1F27 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1F2E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1F35 [0x01] GOTO 0x201D
+     0x1F38 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1F74
+     0x1F40 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1F47 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1F4E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1F55 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1F5C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1F63 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1F6A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1F71 [0x01] GOTO 0x201D
+     0x1F74 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1FB0
+     0x1F7C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1F83 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1F8A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1F91 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1F98 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1F9F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1FA6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1FAD [0x01] GOTO 0x201D
+     0x1FB0 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x1FEC
+     0x1FB8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1FBF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1FC6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x1FCD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x1FD4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x1FDB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x1FE2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x1FE9 [0x01] GOTO 0x201D
+     0x1FEC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=6*, condition_work_offset=1*)
+     0x1FF3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=7*, condition_work_offset=1*)
+     0x1FFA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=8*, condition_work_offset=1*)
+     0x2001 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2008 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x200F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=24*, condition_work_offset=1*)
+     0x2016 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=25*, condition_work_offset=1*)
+     0x201D [0x1B] RETURN
+     0x201E [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x2061
+     0x2026 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x202D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x2034 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x203B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x2042 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2049 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2050 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2057 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x205E [0x01] GOTO 0x226E
+     0x2061 [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x20A4
+     0x2069 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x2070 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x2077 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x207E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x2085 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x208C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2093 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x209A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x20A1 [0x01] GOTO 0x226E
+     0x20A4 [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x20E7
+     0x20AC [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x20B3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x20BA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x20C1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x20C8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x20CF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x20D6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x20DD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x20E4 [0x01] GOTO 0x226E
+     0x20E7 [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x212A
+     0x20EF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x20F6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x20FD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x2104 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x210B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2112 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2119 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2120 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2127 [0x01] GOTO 0x226E
+     0x212A [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x216D
+     0x2132 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x2139 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x2140 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x2147 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x214E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2155 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x215C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2163 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x216A [0x01] GOTO 0x226E
+     0x216D [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x21B0
+     0x2175 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x217C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x2183 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x218A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x2191 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2198 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x219F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x21A6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x21AD [0x01] GOTO 0x226E
+     0x21B0 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x21F3
+     0x21B8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x21BF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x21C6 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x21CD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x21D4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x21DB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x21E2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x21E9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x21F0 [0x01] GOTO 0x226E
+     0x21F3 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x2236
+     0x21FB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x2202 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x2209 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x2210 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x2217 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x221E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2225 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x222C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x2233 [0x01] GOTO 0x226E
+     0x2236 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=9*, condition_work_offset=1*)
+     0x223D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=10*, condition_work_offset=1*)
+     0x2244 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=11*, condition_work_offset=1*)
+     0x224B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=17*, condition_work_offset=1*)
+     0x2252 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=20*, condition_work_offset=1*)
+     0x2259 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=21*, condition_work_offset=1*)
+     0x2260 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=22*, condition_work_offset=1*)
+     0x2267 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[1], bit_index_work_offset=23*, condition_work_offset=1*)
+     0x226E [0x1B] RETURN
+     0x226F [0x03] Work_Zone[1] = 11*
+     0x2274 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x2276 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x2278 [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
+     0x227D [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
+     0x2282 [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
+     0x2287 [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
+     0x228C [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
+     0x2291 [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
+     0x2296 [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
+     0x229B [0x1B] RETURN
+     0x229C [0x03] Work_Zone[1] = 73*
+     0x22A1 [0x47] UPDATE_PLAYER_POS(-2.517*, -5.068*, 0.452*, yaw=291.5°*)
+     0x22AB [0x47] WAIT_PLAYER_POS_UPDATE
+     0x22AD [0x03] Work_Zone_Memorize[2] = Work_Zone[2]
+     0x22B2 [0x03] Work_Zone_Memorize[3] = Work_Zone[3]
+     0x22B7 [0x03] Work_Zone_Memorize[4] = Work_Zone[4]
+     0x22BC [0x03] Work_Zone_Memorize[5] = Work_Zone[5]
+     0x22C1 [0x03] Work_Zone_Memorize[6] = Work_Zone[6]
+     0x22C6 [0x03] Work_Zone_Memorize[7] = Work_Zone[7]
+     0x22CB [0x03] Work_Zone_Memorize[9] = Work_Zone[8]
+     0x22D0 [0x1B] RETURN
+     0x22D1 [0x2F] Plant00 (ID: 17924151/0x01118037)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x22D7 [0x2F] Plant01 (ID: 17924152/0x01118038)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x22DD [0x2F] Plant02 (ID: 17924153/0x01118039)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x22E3 [0x2F] Plant03 (ID: 17924154/0x0111803A)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x22E9 [0x2F] PlantFurn00 (ID: 17924155/0x0111803B)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x22EF [0x2F] PlantFurn01 (ID: 17924156/0x0111803C)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x22F5 [0x2F] PlantFurn02 (ID: 17924157/0x0111803D)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x22FB [0x2F] PlantFurn03 (ID: 17924158/0x0111803E)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2301 [0x2F] Plant10 (ID: 17924159/0x0111803F)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2307 [0x2F] Plant11 (ID: 17924160/0x01118040)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x230D [0x2F] Plant12 (ID: 17924161/0x01118041)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2313 [0x2F] Plant13 (ID: 17924162/0x01118042)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2319 [0x2F] PlantFurn10 (ID: 17924163/0x01118043)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x231F [0x2F] PlantFurn11 (ID: 17924164/0x01118044)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2325 [0x2F] PlantFurn12 (ID: 17924165/0x01118045)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x232B [0x2F] PlantFurn13 (ID: 17924166/0x01118046)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2331 [0x2F] Plant20 (ID: 17924167/0x01118047)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2337 [0x2F] Plant21 (ID: 17924168/0x01118048)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x233D [0x2F] Plant22 (ID: 17924169/0x01118049)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2343 [0x2F] Plant23 (ID: 17924170/0x0111804A)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2349 [0x2F] PlantFurn20 (ID: 17924171/0x0111804B)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x234F [0x2F] PlantFurn21 (ID: 17924172/0x0111804C)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2355 [0x2F] PlantFurn22 (ID: 17924173/0x0111804D)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x235B [0x2F] PlantFurn23 (ID: 17924174/0x0111804E)->Render.Flags0 &= ~0x80000 // Bit 19
+     0x2361 [0xAC] Plant00 (ID: 17924151/0x01118037)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2367 [0xAC] Plant01 (ID: 17924152/0x01118038)->Render.Flags6 |= 0x02 // Set bit 1
+     0x236D [0xAC] Plant02 (ID: 17924153/0x01118039)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2373 [0xAC] Plant03 (ID: 17924154/0x0111803A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2379 [0xAC] PlantFurn00 (ID: 17924155/0x0111803B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x237F [0xAC] PlantFurn01 (ID: 17924156/0x0111803C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2385 [0xAC] PlantFurn02 (ID: 17924157/0x0111803D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x238B [0xAC] PlantFurn03 (ID: 17924158/0x0111803E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2391 [0xAC] Plant10 (ID: 17924159/0x0111803F)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2397 [0xAC] Plant11 (ID: 17924160/0x01118040)->Render.Flags6 |= 0x02 // Set bit 1
+     0x239D [0xAC] Plant12 (ID: 17924161/0x01118041)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23A3 [0xAC] Plant13 (ID: 17924162/0x01118042)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23A9 [0xAC] PlantFurn10 (ID: 17924163/0x01118043)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23AF [0xAC] PlantFurn11 (ID: 17924164/0x01118044)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23B5 [0xAC] PlantFurn12 (ID: 17924165/0x01118045)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23BB [0xAC] PlantFurn13 (ID: 17924166/0x01118046)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23C1 [0xAC] Plant20 (ID: 17924167/0x01118047)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23C7 [0xAC] Plant21 (ID: 17924168/0x01118048)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23CD [0xAC] Plant22 (ID: 17924169/0x01118049)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23D3 [0xAC] Plant23 (ID: 17924170/0x0111804A)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23D9 [0xAC] PlantFurn20 (ID: 17924171/0x0111804B)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23DF [0xAC] PlantFurn21 (ID: 17924172/0x0111804C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23E5 [0xAC] PlantFurn22 (ID: 17924173/0x0111804D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23EB [0xAC] PlantFurn23 (ID: 17924174/0x0111804E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23F1 [0xAC] Unknown NPC (ID: 17924108/0x0111800C)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23F7 [0xAC] Unknown NPC (ID: 17924109/0x0111800D)->Render.Flags6 |= 0x02 // Set bit 1
+     0x23FD [0xAC] Unknown NPC (ID: 17924110/0x0111800E)->Render.Flags6 |= 0x02 // Set bit 1
+     0x2403 [0x41] Work_Zone[2] = Work_Zone_Memorize[2] (bits 0*-1*)
+     0x240C [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x241E
+     0x2414 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924108/0x0111800C), tag_num=0x03)
+     0x241B [0x01] GOTO 0x2425
+     0x241E [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924108/0x0111800C), tag_num=0x02)
+     0x2425 [0x41] Work_Zone[2] = Work_Zone_Memorize[3] (bits 0*-1*)
+     0x242E [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x2440
+     0x2436 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924109/0x0111800D), tag_num=0x03)
+     0x243D [0x01] GOTO 0x2447
+     0x2440 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924109/0x0111800D), tag_num=0x02)
+     0x2447 [0x41] Work_Zone[2] = Work_Zone_Memorize[4] (bits 0*-1*)
+     0x2450 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x2462
+     0x2458 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924110/0x0111800E), tag_num=0x03)
+     0x245F [0x01] GOTO 0x2469
+     0x2462 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 17924110/0x0111800E), tag_num=0x02)
+     0x2469 [0x27] REQ_SET(priority=0x80, entity_id=Plant00 (ID: 17924151/0x01118037), tag_num=0x02)
+     0x2470 [0x27] REQ_SET(priority=0x80, entity_id=Plant01 (ID: 17924152/0x01118038), tag_num=0x02)
+     0x2477 [0x27] REQ_SET(priority=0x80, entity_id=Plant02 (ID: 17924153/0x01118039), tag_num=0x02)
+     0x247E [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant03 (ID: 17924154/0x0111803A), tag_num=0x02)
+     0x2485 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn00 (ID: 17924155/0x0111803B), tag_num=0x02)
+     0x248C [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn01 (ID: 17924156/0x0111803C), tag_num=0x02)
+     0x2493 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn02 (ID: 17924157/0x0111803D), tag_num=0x02)
+     0x249A [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn03 (ID: 17924158/0x0111803E), tag_num=0x02)
+     0x24A1 [0x27] REQ_SET(priority=0x80, entity_id=Plant10 (ID: 17924159/0x0111803F), tag_num=0x02)
+     0x24A8 [0x27] REQ_SET(priority=0x80, entity_id=Plant11 (ID: 17924160/0x01118040), tag_num=0x02)
+     0x24AF [0x27] REQ_SET(priority=0x80, entity_id=Plant12 (ID: 17924161/0x01118041), tag_num=0x02)
+     0x24B6 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant13 (ID: 17924162/0x01118042), tag_num=0x02)
+     0x24BD [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn10 (ID: 17924163/0x01118043), tag_num=0x02)
+     0x24C4 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn11 (ID: 17924164/0x01118044), tag_num=0x02)
+     0x24CB [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn12 (ID: 17924165/0x01118045), tag_num=0x02)
+     0x24D2 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn13 (ID: 17924166/0x01118046), tag_num=0x02)
+     0x24D9 [0x27] REQ_SET(priority=0x80, entity_id=Plant20 (ID: 17924167/0x01118047), tag_num=0x02)
+     0x24E0 [0x27] REQ_SET(priority=0x80, entity_id=Plant21 (ID: 17924168/0x01118048), tag_num=0x02)
+     0x24E7 [0x27] REQ_SET(priority=0x80, entity_id=Plant22 (ID: 17924169/0x01118049), tag_num=0x02)
+     0x24EE [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Plant23 (ID: 17924170/0x0111804A), tag_num=0x02)
+     0x24F5 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn20 (ID: 17924171/0x0111804B), tag_num=0x02)
+     0x24FC [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn21 (ID: 17924172/0x0111804C), tag_num=0x02)
+     0x2503 [0x27] REQ_SET(priority=0x80, entity_id=PlantFurn22 (ID: 17924173/0x0111804D), tag_num=0x02)
+     0x250A [0x29] REQ_SET_WAIT(priority=0x80, entity_id=PlantFurn23 (ID: 17924174/0x0111804E), tag_num=0x02)
+     0x2511 [0x1B] RETURN
+     0x2512 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x2513 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x2524 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x2533 [0x1A] CALL_SUBROUTINE(address=0x229C)
+     0x2536 [0x1A] CALL_SUBROUTINE(address=0x0EB1)
+     0x2539 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x254A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x2559 [0x1B] RETURN
+     0x255A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+     0x255B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x256C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x257B [0x03] Work_Zone[1] = 72*
+     0x2580 [0x47] UPDATE_PLAYER_POS(361.160*, -554.770*, -3.340*, yaw=141.8°*)
+     0x258A [0x47] WAIT_PLAYER_POS_UPDATE
+     0x258C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x25A9
+     0x2594 [0x1A] CALL_SUBROUTINE(address=0x16EB)
+     0x2597 [0x1A] CALL_SUBROUTINE(address=0x1694)
+     0x259A [0x1A] CALL_SUBROUTINE(address=0x16A2)
+     0x259D [0x1A] CALL_SUBROUTINE(address=0x16B0)
+     0x25A0 [0x1A] CALL_SUBROUTINE(address=0x16BE)
+     0x25A3 [0x1A] CALL_SUBROUTINE(address=0x1550)
+     0x25A6 [0x01] GOTO 0x25A9
+     0x25A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x25BA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
+     0x25C9 [0x1B] RETURN
+     0x25CA [0x1A] CALL_SUBROUTINE(address=0x2633)
+     0x25CD [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x25D6
+     0x25D5 [0x1B] RETURN
+     0x25D6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=Work_Zone[2], condition_work_offset=1*)
+     0x25DD [0x1A] CALL_SUBROUTINE(address=0x0EB1)
+     0x25E0 [0x1B] RETURN
+     0x25E1 [0x1A] CALL_SUBROUTINE(address=0x2633)
+     0x25E4 [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x25ED
+     0x25EC [0x1B] RETURN
+     0x25ED [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_Memorize[0], bit_index_work_offset=Work_Zone[2], condition_work_offset=1*)
+     0x25F4 [0x1A] CALL_SUBROUTINE(address=0x0EB1)
+     0x25F7 [0x1B] RETURN
+     0x25F8 [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[2]
+     0x25FD [0x03] Work_Zone[1] = 2*
+     0x2602 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
+     0x260B [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x261D
+     0x2613 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
+     0x261A [0x01] GOTO 0x2624
+     0x261D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
+     0x2624 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x2626 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x2628 [0x03] Work_Zone_Memorize[0] = Work_Zone[2]
+     0x262D [0x03] ExtData[1]->WorkLocal[27] = 0*
+     0x2632 [0x1B] RETURN
+     0x2633 [0x02] IF !(Work_Zone[2] >= 0*) GOTO 0x2644
+     0x263B [0x03] ExtData[1]->WorkLocal[27] = 4294967295*
+     0x2640 [0x1B] RETURN
+     0x2641 [0x01] GOTO 0x265A
+     0x2644 [0x02] IF !(Work_Zone[2] <= 31*) GOTO 0x2655
+     0x264C [0x03] ExtData[1]->WorkLocal[27] = 4294967295*
+     0x2651 [0x1B] RETURN
+     0x2652 [0x01] GOTO 0x265A
+     0x2655 [0x03] ExtData[1]->WorkLocal[27] = 0*
+     0x265A [0x1B] RETURN
+     0x265B [0x02] IF !(0x0310 == 0x0410) GOTO 0x1005
+     0x2663 [0x06] 0x0710 = 0
+     0x2666 [0x10] Work_Zone[8] <<= Work_Zone[9]
+     0x266B [0x00] END_REQSTACK()
+     0x266C [0x17] Work_Zone_1700[1] = cos(Work_Zone_1700[2]) * Work_Zone_1700[3]
+     0x2673 [0x04] DEPRECATED_NOP(unused=0x0517)
+     0x2676 [0x17] Work_Zone_1700[6] = cos(Work_Zone_1700[7]) * Work_Zone_1700[8]
+     0x267D [0x09] 0x0A17 |= (1 << 0x0B17)
+     0x2682 [0x17] Work_Zone_1700[12] = cos(Work_Zone_1700[13]) * Work_Zone_1700[14]
+     0x2689 [0x0F] Work_Zone[23] ^= Work_Zone_Memorize[23]
+     0x268E [0x17] Work_Zone_1700[18] = cos(Work_Zone_1700[19]) * Work_Zone_1700[20]
+     0x2695 [0x15] 0x1617 /= Work_Zone_1700[23]
+     0x269A [0x17] Work_Zone_1700[24] = cos(Work_Zone_1700[25]) * Work_Zone_1700[26]
+     0x26A1 [0x1B] RETURN
+     0x26A2 [0x17] Work_Zone_1700[28] = cos(Work_Zone_1700[29]) * Work_Zone_1700[30]
+     0x26A9 [0x1F] MOVE_ENTITY: Update entity position (mode=23)
+     0x26AB [0x00] END_REQSTACK()
+     0x26AC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x26B1 [0x00] END_REQSTACK()
+     0x26B2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x26B7 [0x00] END_REQSTACK()
+     0x26B8 [0x00] END_REQSTACK()
 ```

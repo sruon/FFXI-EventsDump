@@ -14,7 +14,7 @@
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [1003](#event-1003)   | 0x0001       |    543 |            101 |
+| [1004](#event-1004)   | 0x0001       |    543 |            101 |
 
 ## DAT References (imed_data)
 
@@ -89,7 +89,7 @@
   0: 0x0000 [0x00] END_REQSTACK()
 ```
 
-### Event 1003
+### Event 1004
 
 #### Metadata
 

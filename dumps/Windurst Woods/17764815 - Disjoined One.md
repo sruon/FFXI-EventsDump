@@ -5,9 +5,9 @@
 | Field            | Value                    |
 |------------------|--------------------------|
 | Zone             | Windurst Woods (ID: 241) |
-| Block Size       | 212 bytes                |
-| Total Events     | 12                       |
-| References Count | 6                        |
+| Block Size       | 224 bytes                |
+| Total Events     | 11                       |
+| References Count | 3                        |
 
 ## List of Events
 
@@ -21,10 +21,9 @@
 | [65535.5](#event-655355) | 0x0027       |      9 |              3 |
 | [65535.6](#event-655356) | 0x0030       |     10 |              2 |
 | [65535.7](#event-655357) | 0x003A       |     10 |              2 |
-| [30042](#event-30042)    | 0x0044       |      4 |              2 |
-| [30043](#event-30043)    | 0x0048       |      4 |              2 |
-| [65535.8](#event-655358) | 0x004C       |     27 |              3 |
-| [65535.9](#event-655359) | 0x0067       |     18 |              2 |
+| [30042](#event-30042)    | 0x0044       |     28 |              4 |
+| [30043](#event-30043)    | 0x0060       |     28 |              4 |
+| [65535.8](#event-655358) | 0x007C       |     25 |              3 |
 
 ## DAT References (imed_data)
 
@@ -33,9 +32,6 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0080      |         128 |
-|       3 | 0x00B7      |         183 |
-|       4 | 0x007F      |         127 |
-|       5 | 0x001E      |          30 |
 
 ## Events
 
@@ -232,46 +228,52 @@
 
 #### Metadata
 
-| Field        | Value   |
-|--------------|---------|
-| Entrypoint   | 0x0044  |
-| Data Size    | 4 bytes |
-| Instructions | 2       |
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0044   |
+| Data Size    | 28 bytes |
+| Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0040:             C0 01 80 00                               ....        
+0040:             C0 01 80 B4  13 00 00 44 69 73 6A 6F      .......Disjo
+0050: 69 6E 65 64 40 4F 6E 65  00 00 00 B5 00 00 00 00  ined@One........
 ```
 
 #### Opcodes
 
 ```
   0: 0x0044 [0xC0] EventEntity->Render.Flags3 |= 0x1000 // Set bit 12 (from 1*)
-  1: 0x0047 [0x00] END_REQSTACK()
+  1: 0x0047 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x13 - Copy string and replace @ with space, work_offset=ExtData[1]->WorkLocal[0], string="Disjoined@One")
+  2: 0x005B [0xB5] SET_EVENT_ENTITY_NAME: Change EventEntity name to ExtData[1]->WorkLocal[0]
+  3: 0x005F [0x00] END_REQSTACK()
 ```
 
 ### Event 30043
 
 #### Metadata
 
-| Field        | Value   |
-|--------------|---------|
-| Entrypoint   | 0x0048  |
-| Data Size    | 4 bytes |
-| Instructions | 2       |
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0060   |
+| Data Size    | 28 bytes |
+| Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0040:                          C0 01 80 00                      ....    
+0060: C0 01 80 B4 13 00 00 44  69 73 6A 6F 69 6E 65 64  .......Disjoined
+0070: 40 4F 6E 65 00 00 00 B5  00 00 00 00              @One........    
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0048 [0xC0] EventEntity->Render.Flags3 |= 0x1000 // Set bit 12 (from 1*)
-  1: 0x004B [0x00] END_REQSTACK()
+  0: 0x0060 [0xC0] EventEntity->Render.Flags3 |= 0x1000 // Set bit 12 (from 1*)
+  1: 0x0063 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x13 - Copy string and replace @ with space, work_offset=ExtData[1]->WorkLocal[0], string="Disjoined@One")
+  2: 0x0077 [0xB5] SET_EVENT_ENTITY_NAME: Change EventEntity name to ExtData[1]->WorkLocal[0]
+  3: 0x007B [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.8
@@ -280,46 +282,22 @@
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x004C   |
-| Data Size    | 27 bytes |
+| Entrypoint   | 0x007C   |
+| Data Size    | 25 bytes |
 | Instructions | 3        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0040:                                      D0 03 80 F8              ....
-0050: FF FF 7F F8 FF FF 7F 67  6E 68 31 00 80 6C F8 FF  .......gnh1..l..
-0060: FF 7F 04 80 05 80 00                              .......         
+0070:                                      B4 00 00 00              ....
+0080: 3F 3F 3F 00 00 00 00 00  00 00 00 00 00 00 00 00  ???.............
+0090: B5 00 00 00 00                                    .....           
 ```
 
 #### Opcodes
 
 ```
-  0: 0x004C [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "gnh1" with entities [EventEntity, EventEntity], work=[183*, 0*]
-  1: 0x005D [0x6C] FADE_ENTITY_COLOR(entity_id=EventEntity, end_alpha=127*, fade_time=30*)
-  2: 0x0066 [0x00] END_REQSTACK()
-```
-
-### Event 65535.9
-
-#### Metadata
-
-| Field        | Value    |
-|--------------|----------|
-| Entrypoint   | 0x0067   |
-| Data Size    | 18 bytes |
-| Instructions | 2        |
-
-```
-      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
-      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0060:                      D0  03 80 F8 FF FF 7F F8 FF         .........
-0070: FF 7F 67 6E 68 32 00 80  00                       ..gnh2...       
-```
-
-#### Opcodes
-
-```
-  0: 0x0067 [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "gnh2" with entities [EventEntity, EventEntity], work=[183*, 0*]
-  1: 0x0078 [0x00] END_REQSTACK()
+  0: 0x007C [0xB4] UI_WINDOW_STRING_HANDLER(case=0x00 - Copy string from opcode, work_offset=ExtData[1]->WorkLocal[0], string="???")
+  1: 0x0090 [0xB5] SET_EVENT_ENTITY_NAME: Change EventEntity name to ExtData[1]->WorkLocal[0]
+  2: 0x0094 [0x00] END_REQSTACK()
 ```

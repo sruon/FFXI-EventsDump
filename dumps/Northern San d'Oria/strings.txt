@@ -1,5 +1,5 @@
 # Strings for Northern San d'Oria
-# Total: 19388 strings
+# Total: 19396 strings
 
     0: A recruit? What do you want with this gatehouse?
     1: Only citizens of San d'Oria may apply for missions here. Go see your country's consulate in Northern San d'Oria.
@@ -19389,3 +19389,11 @@
 19385: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
 19386: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
 19387: Start the storyline? [Yes, please./No, thank you.]
+19388: You found a pumpkin containing $0!
+19389: You have found a pumpkin with $0 inside!
+19390: You have found all the pumpkins!
+19391: You have found seven or more pumpkins!
+19392: You sense the presence of a pumpkin in this area!
+19393: You have discovered a pumpkin! Cutting it open, you find $0 inside!
+19394: This pumpkin has already been claimed.
+19395: You have discovered five or more pumpkins!

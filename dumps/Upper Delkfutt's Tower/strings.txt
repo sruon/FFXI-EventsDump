@@ -1,5 +1,5 @@
 # Strings for Upper Delkfutt's Tower
-# Total: 10558 strings
+# Total: 10566 strings
 
     0: Nothing happens...
     1: You can feel the warm, moist breath of the maw on your skin.
@@ -10559,3 +10559,11 @@
 10555: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
 10556: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
 10557: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+10558: You found a pumpkin containing $0!
+10559: You have found a pumpkin with $0 inside!
+10560: You have found all the pumpkins!
+10561: You have found seven or more pumpkins!
+10562: You sense the presence of a pumpkin in this area!
+10563: You have discovered a pumpkin! Cutting it open, you find $0 inside!
+10564: This pumpkin has already been claimed.
+10565: You have discovered five or more pumpkins!

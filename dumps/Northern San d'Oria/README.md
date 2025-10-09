@@ -282,48 +282,48 @@
 | 0x010E717D       |         17723773 | [Gertrude](./17723773%20-%20Gertrude.md)                               |        6 |
 | 0x010E7183       |         17723779 | [Ensemble Maven](./17723779%20-%20Ensemble%20Maven.md)                 |        4 |
 | 0x010E7184       |         17723780 | [(unnamed)](./17723780.md)                                             |        4 |
-| 0x010E7188       |         17723784 | [Charmealaut](./17723784%20-%20Charmealaut.md)                         |        7 |
-| 0x010E719E       |         17723806 | [Moogle](./17723806%20-%20Moogle.md)                                   |        4 |
-| 0x010E719F       |         17723807 | [Moogle](./17723807%20-%20Moogle.md)                                   |        7 |
-| 0x010E71A0       |         17723808 | [Moogle](./17723808%20-%20Moogle.md)                                   |        8 |
-| 0x010E71A5       |         17723813 | [(unnamed)](./17723813.md)                                             |        4 |
-| 0x010E71A6       |         17723814 | [Lilisette](./17723814%20-%20Lilisette.md)                             |        6 |
-| 0x010E71A7       |         17723815 | [Bertenont](./17723815%20-%20Bertenont.md)                             |       12 |
-| 0x010E71A8       |         17723816 | [Bertenont](./17723816%20-%20Bertenont.md)                             |        1 |
-| 0x010E71A9       |         17723817 | [Suspicious Elvaan](./17723817%20-%20Suspicious%20Elvaan.md)           |       11 |
-| 0x010E71AA       |         17723818 | [Odyssean Passage](./17723818%20-%20Odyssean%20Passage.md)             |        3 |
-| 0x010E71AB       |         17723819 | [Trisvain](./17723819%20-%20Trisvain.md)                               |        2 |
-| 0x010E71AC       |         17723820 | [Excenmille](./17723820%20-%20Excenmille.md)                           |        3 |
-| 0x010E71AF       |         17723823 | [Survival Guide](./17723823%20-%20Survival%20Guide.md)                 |        3 |
-| 0x010E71B1       |         17723825 | [(unnamed)](./17723825.md)                                             |       12 |
-| 0x010E71B2       |         17723826 | [Iroha](./17723826%20-%20Iroha.md)                                     |       35 |
-| 0x010E71B3       |         17723827 | [Lion](./17723827%20-%20Lion.md)                                       |       14 |
-| 0x010E71B4       |         17723828 | [Zeid](./17723828%20-%20Zeid.md)                                       |       11 |
-| 0x010E71B5       |         17723829 | [(unnamed)](./17723829.md)                                             |       20 |
-| 0x010E71B6       |         17723830 | [Selhteus](./17723830%20-%20Selhteus.md)                               |       10 |
-| 0x010E71B7       |         17723831 | [Selhteus](./17723831%20-%20Selhteus.md)                               |        6 |
-| 0x010E71B8       |         17723832 | [Selhteus](./17723832%20-%20Selhteus.md)                               |        5 |
-| 0x010E71B9       |         17723833 | [Balamor](./17723833%20-%20Balamor.md)                                 |        2 |
-| 0x010E71BA       |         17723834 | [(unnamed)](./17723834.md)                                             |        4 |
-| 0x010E71BB       |         17723835 | [(unnamed)](./17723835.md)                                             |        3 |
-| 0x010E71BC       |         17723836 | [(unnamed)](./17723836.md)                                             |        4 |
-| 0x010E71BD       |         17723837 | [Disjoined One](./17723837%20-%20Disjoined%20One.md)                   |       11 |
-| 0x010E71BE       |         17723838 | [Disjoined One](./17723838%20-%20Disjoined%20One.md)                   |       12 |
+| 0x010E7189       |         17723785 | [Charmealaut](./17723785%20-%20Charmealaut.md)                         |        7 |
+| 0x010E719F       |         17723807 | [Moogle](./17723807%20-%20Moogle.md)                                   |        4 |
+| 0x010E71A0       |         17723808 | [Moogle](./17723808%20-%20Moogle.md)                                   |        7 |
+| 0x010E71A1       |         17723809 | [Moogle](./17723809%20-%20Moogle.md)                                   |        8 |
+| 0x010E71A6       |         17723814 | [(unnamed)](./17723814.md)                                             |        4 |
+| 0x010E71A7       |         17723815 | [Lilisette](./17723815%20-%20Lilisette.md)                             |        6 |
+| 0x010E71A8       |         17723816 | [Bertenont](./17723816%20-%20Bertenont.md)                             |       12 |
+| 0x010E71A9       |         17723817 | [Bertenont](./17723817%20-%20Bertenont.md)                             |        1 |
+| 0x010E71AA       |         17723818 | [Suspicious Elvaan](./17723818%20-%20Suspicious%20Elvaan.md)           |       11 |
+| 0x010E71AB       |         17723819 | [Odyssean Passage](./17723819%20-%20Odyssean%20Passage.md)             |        3 |
+| 0x010E71AC       |         17723820 | [Trisvain](./17723820%20-%20Trisvain.md)                               |        2 |
+| 0x010E71AD       |         17723821 | [Excenmille](./17723821%20-%20Excenmille.md)                           |        3 |
+| 0x010E71B0       |         17723824 | [Survival Guide](./17723824%20-%20Survival%20Guide.md)                 |        3 |
+| 0x010E71B2       |         17723826 | [(unnamed)](./17723826.md)                                             |       12 |
+| 0x010E71B3       |         17723827 | [Iroha](./17723827%20-%20Iroha.md)                                     |       35 |
+| 0x010E71B4       |         17723828 | [Lion](./17723828%20-%20Lion.md)                                       |       14 |
+| 0x010E71B5       |         17723829 | [Zeid](./17723829%20-%20Zeid.md)                                       |       11 |
+| 0x010E71B6       |         17723830 | [(unnamed)](./17723830.md)                                             |       20 |
+| 0x010E71B7       |         17723831 | [Selhteus](./17723831%20-%20Selhteus.md)                               |       10 |
+| 0x010E71B8       |         17723832 | [Selhteus](./17723832%20-%20Selhteus.md)                               |        6 |
+| 0x010E71B9       |         17723833 | [Selhteus](./17723833%20-%20Selhteus.md)                               |        5 |
+| 0x010E71BA       |         17723834 | [Balamor](./17723834%20-%20Balamor.md)                                 |        2 |
+| 0x010E71BB       |         17723835 | [(unnamed)](./17723835.md)                                             |        4 |
+| 0x010E71BC       |         17723836 | [(unnamed)](./17723836.md)                                             |        3 |
+| 0x010E71BD       |         17723837 | [(unnamed)](./17723837.md)                                             |        4 |
+| 0x010E71BE       |         17723838 | [Disjoined One](./17723838%20-%20Disjoined%20One.md)                   |       11 |
 | 0x010E71BF       |         17723839 | [Disjoined One](./17723839%20-%20Disjoined%20One.md)                   |       12 |
 | 0x010E71C0       |         17723840 | [Disjoined One](./17723840%20-%20Disjoined%20One.md)                   |       12 |
 | 0x010E71C1       |         17723841 | [Disjoined One](./17723841%20-%20Disjoined%20One.md)                   |       12 |
 | 0x010E71C2       |         17723842 | [Disjoined One](./17723842%20-%20Disjoined%20One.md)                   |       12 |
 | 0x010E71C3       |         17723843 | [Disjoined One](./17723843%20-%20Disjoined%20One.md)                   |       12 |
 | 0x010E71C4       |         17723844 | [Disjoined One](./17723844%20-%20Disjoined%20One.md)                   |       12 |
-| 0x010E71C5       |         17723845 | [(unnamed)](./17723845.md)                                             |       15 |
-| 0x010E71C6       |         17723846 | [(unnamed)](./17723846.md)                                             |       14 |
-| 0x010E71C7       |         17723847 | [Ephemeral Moogle](./17723847%20-%20Ephemeral%20Moogle.md)             |        5 |
+| 0x010E71C5       |         17723845 | [Disjoined One](./17723845%20-%20Disjoined%20One.md)                   |       12 |
+| 0x010E71C6       |         17723846 | [(unnamed)](./17723846.md)                                             |       15 |
+| 0x010E71C7       |         17723847 | [(unnamed)](./17723847.md)                                             |       14 |
 | 0x010E71C8       |         17723848 | [Ephemeral Moogle](./17723848%20-%20Ephemeral%20Moogle.md)             |        5 |
-| 0x010E71C9       |         17723849 | [Luren](./17723849%20-%20Luren.md)                                     |        5 |
-| 0x010E71CA       |         17723850 | [Ore Guzzler](./17723850%20-%20Ore%20Guzzler.md)                       |        5 |
-| 0x010E71CB       |         17723851 | [AMAN Liaison](./17723851%20-%20AMAN%20Liaison.md)                     |        4 |
-| 0x010E71CC       |         17723852 | [Linkshell Concierge](./17723852%20-%20Linkshell%20Concierge.md)       |        3 |
-| 0x010E71CD       |         17723853 | [Chat Manual](./17723853%20-%20Chat%20Manual.md)                       |        2 |
-| 0x010E71CE       |         17723854 | [(unnamed)](./17723854.md)                                             |        3 |
-| 0x010E71D0       |         17723856 | [Tales Beginning](./17723856%20-%20Tales%20Beginning.md)               |        2 |
+| 0x010E71C9       |         17723849 | [Ephemeral Moogle](./17723849%20-%20Ephemeral%20Moogle.md)             |        5 |
+| 0x010E71CA       |         17723850 | [Luren](./17723850%20-%20Luren.md)                                     |        5 |
+| 0x010E71CB       |         17723851 | [Ore Guzzler](./17723851%20-%20Ore%20Guzzler.md)                       |        5 |
+| 0x010E71CC       |         17723852 | [AMAN Liaison](./17723852%20-%20AMAN%20Liaison.md)                     |        4 |
+| 0x010E71CD       |         17723853 | [Linkshell Concierge](./17723853%20-%20Linkshell%20Concierge.md)       |        3 |
+| 0x010E71CE       |         17723854 | [Chat Manual](./17723854%20-%20Chat%20Manual.md)                       |        2 |
+| 0x010E71CF       |         17723855 | [(unnamed)](./17723855.md)                                             |        3 |
+| 0x010E71D1       |         17723857 | [Tales Beginning](./17723857%20-%20Tales%20Beginning.md)               |        2 |
 | 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                      |      142 |

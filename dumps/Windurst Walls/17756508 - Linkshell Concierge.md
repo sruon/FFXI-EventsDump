@@ -24,21 +24,21 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0004      |           4 |
-|       3 | 0x2BDC      |       11228 |
-|       4 | 0x2BDD      |       11229 |
+|       3 | 0x2BDE      |       11230 |
+|       4 | 0x2BDF      |       11231 |
 |       5 | 0x0203      |         515 |
-|       6 | 0x2BDE      |       11230 |
-|       7 | 0x2BDF      |       11231 |
+|       6 | 0x2BE0      |       11232 |
+|       7 | 0x2BE1      |       11233 |
 |       8 | 0x40000000  |  1073741824 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0007      |           7 |
 |      12 | 0x0008      |           8 |
 |      13 | 0x001F      |          31 |
-|      14 | 0x2BE8      |       11240 |
-|      15 | 0x2BE0      |       11232 |
+|      14 | 0x2BEA      |       11242 |
+|      15 | 0x2BE2      |       11234 |
 |      16 | 0x19DE      |        6622 |
-|      17 | 0x2BFC      |       11260 |
+|      17 | 0x2BFE      |       11262 |
 |      18 | 0x000F      |          15 |
 |      19 | 0x0005      |           5 |
 |      20 | 0x0010      |          16 |
@@ -50,98 +50,98 @@
 |      26 | 0x0013      |          19 |
 |      27 | 0x000B      |          11 |
 |      28 | 0x000C      |          12 |
-|      29 | 0x2C19      |       11289 |
-|      30 | 0x2BE4      |       11236 |
-|      31 | 0x2BE5      |       11237 |
-|      32 | 0x2BE7      |       11239 |
+|      29 | 0x2C1B      |       11291 |
+|      30 | 0x2BE6      |       11238 |
+|      31 | 0x2BE7      |       11239 |
+|      32 | 0x2BE9      |       11241 |
 |      33 | 0x0018      |          24 |
-|      34 | 0x2BE9      |       11241 |
-|      35 | 0x2BEA      |       11242 |
+|      34 | 0x2BEB      |       11243 |
+|      35 | 0x2BEC      |       11244 |
 |      36 | 0x000D      |          13 |
 |      37 | 0x002D      |          45 |
-|      38 | 0x2BF7      |       11255 |
+|      38 | 0x2BF9      |       11257 |
 |      39 | 0x0201      |         513 |
 |      40 | 0x0202      |         514 |
-|      41 | 0x2BEF      |       11247 |
-|      42 | 0x2BFB      |       11259 |
+|      41 | 0x2BF1      |       11249 |
+|      42 | 0x2BFD      |       11261 |
 |      43 | 0x01F4      |         500 |
-|      44 | 0x2C01      |       11265 |
-|      45 | 0x2C02      |       11266 |
+|      44 | 0x2C03      |       11267 |
+|      45 | 0x2C04      |       11268 |
 |      46 | 0x199D      |        6557 |
-|      47 | 0x2C03      |       11267 |
-|      48 | 0x2C04      |       11268 |
+|      47 | 0x2C05      |       11269 |
+|      48 | 0x2C06      |       11270 |
 |      49 | 0xFFFFFFFF  |  4294967295 |
-|      50 | 0x2C17      |       11287 |
-|      51 | 0x2C18      |       11288 |
+|      50 | 0x2C19      |       11289 |
+|      51 | 0x2C1A      |       11290 |
 |      52 | 0x001A      |          26 |
 |      53 | 0x0012      |          18 |
 |      54 | 0x0017      |          23 |
 |      55 | 0x0011      |          17 |
 |      56 | 0x001B      |          27 |
-|      57 | 0x2BF0      |       11248 |
-|      58 | 0x2BF1      |       11249 |
-|      59 | 0x2BF2      |       11250 |
-|      60 | 0x2BF3      |       11251 |
-|      61 | 0x2BF4      |       11252 |
-|      62 | 0x2BF5      |       11253 |
-|      63 | 0x2BF8      |       11256 |
-|      64 | 0x2BF9      |       11257 |
+|      57 | 0x2BF2      |       11250 |
+|      58 | 0x2BF3      |       11251 |
+|      59 | 0x2BF4      |       11252 |
+|      60 | 0x2BF5      |       11253 |
+|      61 | 0x2BF6      |       11254 |
+|      62 | 0x2BF7      |       11255 |
+|      63 | 0x2BFA      |       11258 |
+|      64 | 0x2BFB      |       11259 |
 |      65 | 0x0046      |          70 |
-|      66 | 0x2BFE      |       11262 |
-|      67 | 0x2C05      |       11269 |
-|      68 | 0x2C0D      |       11277 |
-|      69 | 0x2C0E      |       11278 |
-|      70 | 0x2C07      |       11271 |
-|      71 | 0x2C08      |       11272 |
+|      66 | 0x2C00      |       11264 |
+|      67 | 0x2C07      |       11271 |
+|      68 | 0x2C0F      |       11279 |
+|      69 | 0x2C10      |       11280 |
+|      70 | 0x2C09      |       11273 |
+|      71 | 0x2C0A      |       11274 |
 |      72 | 0x0019      |          25 |
-|      73 | 0x2C09      |       11273 |
-|      74 | 0x2C0F      |       11279 |
+|      73 | 0x2C0B      |       11275 |
+|      74 | 0x2C11      |       11281 |
 |      75 | 0x1FFFF     |      131071 |
-|      76 | 0x2C10      |       11280 |
+|      76 | 0x2C12      |       11282 |
 
 ## String References
 
 - **6557**: You do not have enough gil.
 - **6622**: $0 $1 $2 $3
-- **11228**: Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals.
-- **11229**: How may I help you today?
-- **11230**: What do you desire? [Nothing for now./Show me recruiting linkshells./I'd like to hand out $0./Tell me more./Open up the linkshell window.]
-- **11231**: It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
-- **11232**: Excellent. Please select which linkshell you are interested in contacting.
-- **11236**: It is my sincere pleasure to bestow this upon you.
-- **11237**: Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting.
-- **11239**: May your new linkshell provide you with fond memories that will last a lifetime.
-- **11240**: Though it pains me to say this, I have no $0 that meet your requirements at this time.
-- **11241**: Should you desire, I can cancel your registration.
-- **11242**: Cancel registration? [Yes, please./Not at this time.]
-- **11247**: Unfortunately, only those equipped with $1 or $2 as Linkshell 1 are able to distribute $0.
-- **11248**: Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home.
-- **11249**: Linkshell concierges such as myself bring together adventurers of similar interests.
-- **11250**: In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members.
-- **11251**: I accept $0 from linkshells the world over and distribute them to appropriate adventurers.
-- **11252**: This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate.
-- **11253**: Additionally, please be aware that I am only able to offer you one $0 per day.
-- **11255**: It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time).
-- **11256**: It is worth noting that each concierge may only register a maximum of $0 linkshells.
-- **11257**: Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest.
-- **11259**: Thank you for taking the time to use our service. Let me confirm the information contained within.
-- **11260**: , correct?
-- **11262**: LS1: .
-- **11265**: Shall I start looking for new members for a fee of $1 gil?
-- **11266**: Look for new members? ($0 gil) [That sounds wonderful./I'd rather not.]
-- **11267**: I'm quite sorry to hear you decline. Please let me know if you change your mind.
-- **11268**: I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style.
-- **11269**: What is your language preference? [Japanese./English./Other./Back.]
-- **11271**: What days are you most active? [[-/Z]No day set./[-/Z]Mondays./[-/Z]Tuesdays./[-/Z]Wednesdays./[-/Z]Thursdays./[-/Z]Fridays./[-/Z]Saturdays./[-/Z]Sundays./[-/Z]Holidays./Back./Next./Update.]
-- **11272**: When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]
-- **11273**: Designate a time zone. [No designation./Japanese Standard Time (JST)./Pacific Time (PST|PDT)./Greenwich Mean Time (GMT)./Back.]
-- **11277**: How many members are you looking for? [1."."./4./5./6./7./8./9./10./Back.]
-- **11278**: How many active members do you have? [1-6./7-18./19+./Back.]
-- **11279**: How would you characterize your linkshell? [[|/Z] No info provided./[|/Z] New players welcome./[|/Z] Returnees welcome./[|/Z] Adults only./[|/Z] 10 year veterans active./[|/Z] Casual players./[|/Z] Battle and synthesis support./[|/Z] Anyone welcome./[|/Z] End content-focused./[|/Z] Ambuscade-focused./[|/Z] Never give up./[|/Z] High-end gear./[|/Z] Looking for crafters./[|/Z] Trial memberships welcome./[|/Z] Multiple linkshells OK./[|/Z] Community events held./[|/Z] New linkshell./Back./Next./Update.]
-- **11280**: Linkshell characteristics. [No info provided./New players welcome./Returnees welcome./Adults only./10 year veterans active./Casual players./Battle and synthesis support./Anyone welcome./End content-focused./Ambuscade-focused./Never give up./High-end gear./Looking for crafters./Trial memberships welcome./Multiple linkshells OK./Community events held./New linkshell./Back]
-- **11287**: Please review the content of your linkshell. I will start looking for new members once you have confirmed that everything is in order.
-- **11288**: Linkshell info (can be changed): [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Cancel without posting./Post recruitment.]
-- **11289**: Information for : [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Date posted: //./Receive $1027./Delist./Back.]
+- **11230**: Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals.
+- **11231**: How may I help you today?
+- **11232**: What do you desire? [Nothing for now./Show me recruiting linkshells./I'd like to hand out $0./Tell me more./Open up the linkshell window.]
+- **11233**: It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
+- **11234**: Excellent. Please select which linkshell you are interested in contacting.
+- **11238**: It is my sincere pleasure to bestow this upon you.
+- **11239**: Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting.
+- **11241**: May your new linkshell provide you with fond memories that will last a lifetime.
+- **11242**: Though it pains me to say this, I have no $0 that meet your requirements at this time.
+- **11243**: Should you desire, I can cancel your registration.
+- **11244**: Cancel registration? [Yes, please./Not at this time.]
+- **11249**: Unfortunately, only those equipped with $1 or $2 as Linkshell 1 are able to distribute $0.
+- **11250**: Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home.
+- **11251**: Linkshell concierges such as myself bring together adventurers of similar interests.
+- **11252**: In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members.
+- **11253**: I accept $0 from linkshells the world over and distribute them to appropriate adventurers.
+- **11254**: This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate.
+- **11255**: Additionally, please be aware that I am only able to offer you one $0 per day.
+- **11257**: It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time).
+- **11258**: It is worth noting that each concierge may only register a maximum of $0 linkshells.
+- **11259**: Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest.
+- **11261**: Thank you for taking the time to use our service. Let me confirm the information contained within.
+- **11262**: , correct?
+- **11264**: LS1: .
+- **11267**: Shall I start looking for new members for a fee of $1 gil?
+- **11268**: Look for new members? ($0 gil) [That sounds wonderful./I'd rather not.]
+- **11269**: I'm quite sorry to hear you decline. Please let me know if you change your mind.
+- **11270**: I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style.
+- **11271**: What is your language preference? [Japanese./English./Other./Back.]
+- **11273**: What days are you most active? [[-/Z]No day set./[-/Z]Mondays./[-/Z]Tuesdays./[-/Z]Wednesdays./[-/Z]Thursdays./[-/Z]Fridays./[-/Z]Saturdays./[-/Z]Sundays./[-/Z]Holidays./Back./Next./Update.]
+- **11274**: When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]
+- **11275**: Designate a time zone. [No designation./Japanese Standard Time (JST)./Pacific Time (PST|PDT)./Greenwich Mean Time (GMT)./Back.]
+- **11279**: How many members are you looking for? [1."."./4./5./6./7./8./9./10./Back.]
+- **11280**: How many active members do you have? [1-6./7-18./19+./Back.]
+- **11281**: How would you characterize your linkshell? [[|/Z] No info provided./[|/Z] New players welcome./[|/Z] Returnees welcome./[|/Z] Adults only./[|/Z] 10 year veterans active./[|/Z] Casual players./[|/Z] Battle and synthesis support./[|/Z] Anyone welcome./[|/Z] End content-focused./[|/Z] Ambuscade-focused./[|/Z] Never give up./[|/Z] High-end gear./[|/Z] Looking for crafters./[|/Z] Trial memberships welcome./[|/Z] Multiple linkshells OK./[|/Z] Community events held./[|/Z] New linkshell./Back./Next./Update.]
+- **11282**: Linkshell characteristics. [No info provided./New players welcome./Returnees welcome./Adults only./10 year veterans active./Casual players./Battle and synthesis support./Anyone welcome./End content-focused./Ambuscade-focused./Never give up./High-end gear./Looking for crafters./Trial memberships welcome./Multiple linkshells OK./Community events held./New linkshell./Back]
+- **11289**: Please review the content of your linkshell. I will start looking for new members once you have confirmed that everything is in order.
+- **11290**: Linkshell info (can be changed): [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Cancel without posting./Post recruitment.]
+- **11291**: Information for : [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Date posted: //./Receive $1027./Delist./Back.]
 
 ## Events
 
@@ -477,19 +477,19 @@ SUBROUTINE_0A54:
      0x0045 [0x06] ExtData[1]->WorkLocal[18] = 0
      0x0048 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0057
      0x0050 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[18], bit_index_work_offset=4*, condition_work_offset=1*)
-     0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11228*)
+     0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11230*)
     → "Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals."
      0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=11229*)
+     0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=11231*)
     → "How may I help you today?"
      0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x005F [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x00C6
      0x0067 [0x03] Work_Zone[2] = 515*
-     0x006C [0x24] CREATE_DIALOG(message_id=11230*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
+     0x006C [0x24] CREATE_DIALOG(message_id=11232*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
     → "What do you desire? [Nothing for now./Show me recruiting linkshells./I'd like to hand out $0./Tell me more./Open up the linkshell window.]"
      0x0073 [0x25] WAIT_DIALOG_SELECT()
      0x0074 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008B
-     0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=11231*)
+     0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=11233*)
     → "It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels."
      0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0080 [0x05] ExtData[1]->WorkLocal[17] = 1
@@ -520,13 +520,13 @@ SUBROUTINE_0A54:
      0x00EA [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
      0x00EF [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0104
      0x00F7 [0x03] Work_Zone[2] = 515*
-     0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11240*)
+     0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11242*)
     → "Though it pains me to say this, I have no $0 that meet your requirements at this time."
      0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0100 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
      0x0101 [0x01] GOTO 0x0492
      0x0104 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-     0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=11232*)
+     0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=11234*)
     → "Excellent. Please select which linkshell you are interested in contacting."
      0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x010D [0x06] ExtData[1]->WorkLocal[19] = 0
@@ -548,7 +548,7 @@ SUBROUTINE_0A54:
      0x0157 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
      0x0158 [0x01] GOTO 0x048F
      0x015B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[30]
-     0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=11260*)
+     0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=11262*)
     → ", correct?"
      0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0164 [0x41] ExtData[1]->WorkLocal[25] = ExtData[1]->WorkLocal[31] (bits 0*-15*)
@@ -565,7 +565,7 @@ SUBROUTINE_0A54:
      0x01AB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x01AD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x01AF [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x01C0
-     0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11240*)
+     0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11242*)
     → "Though it pains me to say this, I have no $0 that meet your requirements at this time."
      0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01BB [0x05] ExtData[1]->WorkLocal[19] = 1
@@ -653,7 +653,7 @@ SUBROUTINE_0A54:
      0x03A0 [0x01] GOTO 0x03B1
      0x03A3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[49], bit_index_work_offset=11*, condition_work_offset=1*)
      0x03AA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[49], bit_index_work_offset=12*, condition_work_offset=1*)
-     0x03B1 [0x24] CREATE_DIALOG(message_id=11289*, default_option=ExtData[1]->WorkLocal[50], option_flags=ExtData[1]->WorkLocal[49])
+     0x03B1 [0x24] CREATE_DIALOG(message_id=11291*, default_option=ExtData[1]->WorkLocal[50], option_flags=ExtData[1]->WorkLocal[49])
     → "Information for : [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Date posted: //./Receive $1027./Delist./Back.]"
      0x03B8 [0x25] WAIT_DIALOG_SELECT()
      0x03B9 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x03CC
@@ -667,13 +667,13 @@ SUBROUTINE_0A54:
      0x03EB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x03ED [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x03EF [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0421
-     0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11236*)
+     0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11238*)
     → "It is my sincere pleasure to bestow this upon you."
      0x03FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11237*)
+     0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11239*)
     → "Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting."
      0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11239*)
+     0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11241*)
     → "May your new linkshell provide you with fond memories that will last a lifetime."
      0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0403 [0x05] ExtData[1]->WorkLocal[19] = 1
@@ -689,10 +689,10 @@ SUBROUTINE_0A54:
      0x042F [0x01] GOTO 0x048C
      0x0432 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0474
      0x043A [0x03] ExtData[1]->WorkLocal[50] = Work_Zone[0]
-     0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11241*)
+     0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11243*)
     → "Should you desire, I can cancel your registration."
      0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0443 [0x24] CREATE_DIALOG(message_id=11242*, default_option=1*, option_flags=0*)
+     0x0443 [0x24] CREATE_DIALOG(message_id=11244*, default_option=1*, option_flags=0*)
     → "Cancel registration? [Yes, please./Not at this time.]"
      0x044A [0x25] WAIT_DIALOG_SELECT()
      0x044B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0471
@@ -720,7 +720,7 @@ SUBROUTINE_0A54:
      0x04B1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x04C8
      0x04B9 [0x03] Work_Zone[2] = 515*
      0x04BE [0x03] Work_Zone[3] = 45*
-     0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11255*)
+     0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
     → "It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time)."
      0x04C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04C7 [0x1B] RETURN
@@ -728,23 +728,23 @@ SUBROUTINE_0A54:
      0x04D0 [0x03] Work_Zone[2] = 515*
      0x04D5 [0x03] Work_Zone[3] = 513*
      0x04DA [0x03] Work_Zone[4] = 514*
-     0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11247*)
+     0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11249*)
     → "Unfortunately, only those equipped with $1 or $2 as Linkshell 1 are able to distribute $0."
      0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04E3 [0x01] GOTO 0x09BC
      0x04E6 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x04E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
+     0x04E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11261*)
     → "Thank you for taking the time to use our service. Let me confirm the information contained within."
      0x04EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04EB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
      0x04F0 [0x03] Work_Zone[3] = 500*
-     0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+     0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "Shall I start looking for new members for a fee of $1 gil?"
      0x04F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04F9 [0x06] ExtData[1]->WorkLocal[19] = 0
      0x04FC [0x02] IF !(ExtData[1]->WorkLocal[19] == 0*) GOTO 0x09BC
      0x0504 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-     0x0509 [0x24] CREATE_DIALOG(message_id=11266*, default_option=1*, option_flags=0*)
+     0x0509 [0x24] CREATE_DIALOG(message_id=11268*, default_option=1*, option_flags=0*)
     → "Look for new members? ($0 gil) [That sounds wonderful./I'd rather not.]"
      0x0510 [0x25] WAIT_DIALOG_SELECT()
      0x0511 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0538
@@ -760,12 +760,12 @@ SUBROUTINE_0A54:
      0x0538 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x054F
      0x0540 [0x05] ExtData[1]->WorkLocal[19] = 1
      0x0543 [0x03] Work_Zone[1] = 1073741824*
-     0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
+     0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=11269*)
     → "I'm quite sorry to hear you decline. Please let me know if you change your mind."
      0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x054C [0x01] GOTO 0x054F
      0x054F [0x02] IF !(ExtData[1]->WorkLocal[19] == 0*) GOTO 0x09B9
-     0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
+     0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=11270*)
     → "I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style."
      0x055A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x055B [0x02] IF !(ExtData[1]->WorkLocal[21] >= 8*) GOTO 0x063F
@@ -816,7 +816,7 @@ SUBROUTINE_0A54:
      0x0638 [0x1B] RETURN
      0x0639 [0x01] GOTO 0x063C
      0x063C [0x01] GOTO 0x055B
-     0x063F [0x1D] PRINT_EVENT_MESSAGE(message_id=11287*)
+     0x063F [0x1D] PRINT_EVENT_MESSAGE(message_id=11289*)
     → "Please review the content of your linkshell. I will start looking for new members once you have confirmed that everything is in order."
      0x0642 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0643 [0x03] ExtData[1]->WorkLocal[21] = 1*
@@ -879,7 +879,7 @@ SUBROUTINE_0A54:
      0x078C [0x03] Work_Zone_1700[19] = 1*
      0x0791 [0x3E] IF !(ExtData[1]->WorkLocal[36] bit 7*) GOTO 0x079D
      0x0798 [0x03] Work_Zone_1700[20] = 1*
-     0x079D [0x24] CREATE_DIALOG(message_id=11288*, default_option=ExtData[1]->WorkLocal[56], option_flags=ExtData[1]->WorkLocal[55])
+     0x079D [0x24] CREATE_DIALOG(message_id=11290*, default_option=ExtData[1]->WorkLocal[56], option_flags=ExtData[1]->WorkLocal[55])
     → "Linkshell info (can be changed): [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Cancel without posting./Post recruitment.]"
      0x07A4 [0x25] WAIT_DIALOG_SELECT()
      0x07A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07B8
@@ -952,7 +952,7 @@ SUBROUTINE_0A54:
      0x0914 [0x01] GOTO 0x09B6
      0x0917 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0938
      0x091F [0x03] Work_Zone[1] = 1073741824*
-     0x0924 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
+     0x0924 [0x1D] PRINT_EVENT_MESSAGE(message_id=11269*)
     → "I'm quite sorry to hear you decline. Please let me know if you change your mind."
      0x0927 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0928 [0x03] ExtData[1]->WorkLocal[21] = 0*
@@ -988,35 +988,35 @@ SUBROUTINE_0A54:
      0x09B9 [0x01] GOTO 0x04FC
      0x09BC [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
      0x09BD [0x1B] RETURN
-     0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=11248*)
+     0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=11250*)
     → "Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home."
      0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11249*)
+     0x09C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11251*)
     → "Linkshell concierges such as myself bring together adventurers of similar interests."
      0x09C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11250*)
+     0x09C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11252*)
     → "In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members."
      0x09C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09CA [0x03] Work_Zone[2] = 515*
-     0x09CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11251*)
+     0x09CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11253*)
     → "I accept $0 from linkshells the world over and distribute them to appropriate adventurers."
      0x09D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11252*)
+     0x09D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11254*)
     → "This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate."
      0x09D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09D7 [0x03] Work_Zone[2] = 515*
-     0x09DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11253*)
+     0x09DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11255*)
     → "Additionally, please be aware that I am only able to offer you one $0 per day."
      0x09DF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09E0 [0x03] Work_Zone[3] = 45*
-     0x09E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11255*)
+     0x09E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
     → "It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time)."
      0x09E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09E9 [0x03] Work_Zone[2] = 16*
-     0x09EE [0x1D] PRINT_EVENT_MESSAGE(message_id=11256*)
+     0x09EE [0x1D] PRINT_EVENT_MESSAGE(message_id=11258*)
     → "It is worth noting that each concierge may only register a maximum of $0 linkshells."
      0x09F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+     0x09F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest."
      0x09F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09F6 [0x1C] WAIT(70* ticks)
@@ -1039,7 +1039,7 @@ SUBROUTINE_0A54:
      0x0A4B [0x1D] PRINT_EVENT_MESSAGE(message_id=6622*)
     → "$0 $1 $2 $3"
      0x0A4E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A4F [0x1D] PRINT_EVENT_MESSAGE(message_id=11262*)
+     0x0A4F [0x1D] PRINT_EVENT_MESSAGE(message_id=11264*)
     → "LS1: ."
      0x0A52 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A53 [0x1B] RETURN
@@ -1050,7 +1050,7 @@ SUBROUTINE_0A54:
      0x0A5E [0x02] IF !(ExtData[1]->WorkLocal[57] >= 0*) GOTO 0x0A6B
      0x0A66 [0x03] ExtData[1]->WorkLocal[57] = 0*
      0x0A6B [0x06] ExtData[1]->WorkLocal[34] = 0
-     0x0A6E [0x24] CREATE_DIALOG(message_id=11269*, default_option=0*, option_flags=0*)
+     0x0A6E [0x24] CREATE_DIALOG(message_id=11271*, default_option=0*, option_flags=0*)
     → "What is your language preference? [Japanese./English./Other./Back.]"
      0x0A75 [0x25] WAIT_DIALOG_SELECT()
      0x0A76 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A8B
@@ -1068,7 +1068,7 @@ SUBROUTINE_0A54:
      0x0AB5 [0x03] ExtData[1]->WorkLocal[34] = 4294967295*
      0x0ABA [0x1B] RETURN
      0x0ABB [0x06] ExtData[1]->WorkLocal[34] = 0
-     0x0ABE [0x24] CREATE_DIALOG(message_id=11277*, default_option=0*, option_flags=0*)
+     0x0ABE [0x24] CREATE_DIALOG(message_id=11279*, default_option=0*, option_flags=0*)
     → "How many members are you looking for? [1."."./4./5./6./7./8./9./10./Back.]"
      0x0AC5 [0x25] WAIT_DIALOG_SELECT()
      0x0AC6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AD1
@@ -1084,7 +1084,7 @@ SUBROUTINE_0A54:
      0x0AF7 [0x03] ExtData[1]->WorkLocal[34] = 4294967295*
      0x0AFC [0x1B] RETURN
      0x0AFD [0x06] ExtData[1]->WorkLocal[34] = 0
-     0x0B00 [0x24] CREATE_DIALOG(message_id=11278*, default_option=0*, option_flags=0*)
+     0x0B00 [0x24] CREATE_DIALOG(message_id=11280*, default_option=0*, option_flags=0*)
     → "How many active members do you have? [1-6./7-18./19+./Back.]"
      0x0B07 [0x25] WAIT_DIALOG_SELECT()
      0x0B08 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B1D
@@ -1122,7 +1122,7 @@ SUBROUTINE_0A54:
      0x0BAE [0x0B] ExtData[1]->WorkLocal[48]++
      0x0BB1 [0x01] GOTO 0x0B8C
      0x0BB4 [0x03] Work_Zone_1700[0] = 0*
-     0x0BB9 [0x24] CREATE_DIALOG(message_id=11271*, default_option=ExtData[1]->WorkLocal[58], option_flags=ExtData[1]->WorkLocal[54])
+     0x0BB9 [0x24] CREATE_DIALOG(message_id=11273*, default_option=ExtData[1]->WorkLocal[58], option_flags=ExtData[1]->WorkLocal[54])
     → "What days are you most active? [[-/Z]No day set./[-/Z]Mondays./[-/Z]Tuesdays./[-/Z]Wednesdays./[-/Z]Thursdays./[-/Z]Fridays./[-/Z]Saturdays./[-/Z]Sundays./[-/Z]Holidays./Back./Next./Update.]"
      0x0BC0 [0x25] WAIT_DIALOG_SELECT()
      0x0BC1 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0BD6
@@ -1158,7 +1158,7 @@ SUBROUTINE_0A54:
      0x0C5E [0x1B] RETURN
      0x0C5F [0x06] ExtData[1]->WorkLocal[34] = 0
      0x0C62 [0x03] Work_Zone_1700[23] = 0*
-     0x0C67 [0x24] CREATE_DIALOG(message_id=11272*, default_option=0*, option_flags=0*)
+     0x0C67 [0x24] CREATE_DIALOG(message_id=11274*, default_option=0*, option_flags=0*)
     → "When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]"
      0x0C6E [0x25] WAIT_DIALOG_SELECT()
      0x0C6F [0x02] IF !(Work_Zone[0] == 25*) GOTO 0x0C80
@@ -1173,7 +1173,7 @@ SUBROUTINE_0A54:
      0x0CA5 [0x03] ExtData[1]->WorkLocal[34] = 1*
      0x0CAA [0x1B] RETURN
      0x0CAB [0x03] Work_Zone_1700[23] = 1*
-     0x0CB0 [0x24] CREATE_DIALOG(message_id=11272*, default_option=0*, option_flags=1*)
+     0x0CB0 [0x24] CREATE_DIALOG(message_id=11274*, default_option=0*, option_flags=1*)
     → "When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]"
      0x0CB7 [0x25] WAIT_DIALOG_SELECT()
      0x0CB8 [0x02] IF !(Work_Zone[0] == 25*) GOTO 0x0CC6
@@ -1186,7 +1186,7 @@ SUBROUTINE_0A54:
      0x0CE3 [0x03] ExtData[1]->WorkLocal[34] = 1*
      0x0CE8 [0x1B] RETURN
      0x0CE9 [0x06] ExtData[1]->WorkLocal[34] = 0
-     0x0CEC [0x24] CREATE_DIALOG(message_id=11273*, default_option=0*, option_flags=0*)
+     0x0CEC [0x24] CREATE_DIALOG(message_id=11275*, default_option=0*, option_flags=0*)
     → "Designate a time zone. [No designation./Japanese Standard Time (JST)./Pacific Time (PST|PDT)./Greenwich Mean Time (GMT)./Back.]"
      0x0CF3 [0x25] WAIT_DIALOG_SELECT()
      0x0CF4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D09
@@ -1228,7 +1228,7 @@ SUBROUTINE_0A54:
      0x0DAF [0x0B] ExtData[1]->WorkLocal[48]++
      0x0DB2 [0x01] GOTO 0x0D8D
      0x0DB5 [0x03] Work_Zone_1700[8] = 0*
-     0x0DBA [0x24] CREATE_DIALOG(message_id=11279*, default_option=ExtData[1]->WorkLocal[60], option_flags=ExtData[1]->WorkLocal[53])
+     0x0DBA [0x24] CREATE_DIALOG(message_id=11281*, default_option=ExtData[1]->WorkLocal[60], option_flags=ExtData[1]->WorkLocal[53])
     → "How would you characterize your linkshell? [[|/Z] No info provided./[|/Z] New players welcome./[|/Z] Returnees welcome./[|/Z] Adults only./[|/Z] 10 year veterans active./[|/Z] Casual players./[|/Z] Battle and synthesis support./[|/Z] Anyone welcome./[|/Z] End content-focused./[|/Z] Ambuscade-focused./[|/Z] Never give up./[|/Z] High-end gear./[|/Z] Looking for crafters./[|/Z] Trial memberships welcome./[|/Z] Multiple linkshells OK./[|/Z] Community events held./[|/Z] New linkshell./Back./Next./Update.]"
      0x0DC1 [0x25] WAIT_DIALOG_SELECT()
      0x0DC2 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0DD7
@@ -1276,7 +1276,7 @@ SUBROUTINE_0A54:
      0x0E9C [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[66], bit_index_work_offset=ExtData[1]->WorkLocal[27], condition_work_offset=1*)
      0x0EA3 [0x0B] ExtData[1]->WorkLocal[48]++
      0x0EA6 [0x01] GOTO 0x0E85
-     0x0EA9 [0x24] CREATE_DIALOG(message_id=11280*, default_option=ExtData[1]->WorkLocal[61], option_flags=ExtData[1]->WorkLocal[66])
+     0x0EA9 [0x24] CREATE_DIALOG(message_id=11282*, default_option=ExtData[1]->WorkLocal[61], option_flags=ExtData[1]->WorkLocal[66])
     → "Linkshell characteristics. [No info provided./New players welcome./Returnees welcome./Adults only./10 year veterans active./Casual players./Battle and synthesis support./Anyone welcome./End content-focused./Ambuscade-focused./Never give up./High-end gear./Looking for crafters./Trial memberships welcome./Multiple linkshells OK./Community events held./New linkshell./Back]"
      0x0EB0 [0x25] WAIT_DIALOG_SELECT()
      0x0EB1 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0EBF

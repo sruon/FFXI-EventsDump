@@ -1,5 +1,5 @@
 # Strings for Windurst Walls
-# Total: 11491 strings
+# Total: 11493 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -10946,549 +10946,551 @@
 10942: DEBUG: Skip.
 10943: DEBUG:ID=$0 / SLOT=$1 / SUB=$2
 10944: DEBUG:$3C$3$4[$P106$P10,$6(PI)
-10945: DEBUG: Error $0.
-10946: [$P11O/$31]L$J$P15z$30$T // ::
-10947: Well, look who's come to give their regards. Surely by now you've locked Kupipi behind bars?
-10948: Regardless of her punishment, I hold those clothes dear. So we must get to the bottom of things, or her demise is near.
-10949: Imagine my consternation at missing the competition. I should have won, not Zeid--it's simple addition!
-10950: My outfit would have renedered everyone else obsolete. To think the crown was taken by someone with two left feet...
-10951: Ah, I trust that you have brought me good news. So, please, spit it out, or you'll be singing the blues.
-10952: Splendidly done, if I do say so myself. Everyone's memories are now right as books on a shelf.
-10953: And now we know that Kupipi's at fault. When I'm done with her, she'll be locked in a vault.
-10954: So what do you say? Think Kupipi must pay?
-10955: Should Kupipi pay? [Through the nose./No!]
-10956: Then we are of one mind. A comrade in arms did I find!
-10957: What kind of detective is in cahoots with a crook? You stand with the villain--and it's not a good look.
-10958: Oh, believe me, adventurer, Kupipi shall burn. I fear it's the only way that she will learn.
-10959: And with that, I am off to plan my revenge. I shall see her carcass strung up on a henge!
-10960: Ohohohoho!
-10961: Surely Kupipi has been taught a valuable lesson. That will teach her to rely less on her rolanberry delicatessen.
-10962: Next time her cheeks are aflush with delicious fruit, I'll head to Heavens Tower and give her the boot.
-10963: For should she choose to ignore me to pursue plant-based delights, she'll have no mouth left to speak with, for I'll set it alight.
-10964: But, adventurer, don't you agree that something's gone very wrong? It seems like everyone in Heavens Tower is a touch too far gone.
-10965: It was an important day for the people who were there. How could they forget the truth you laid bare?
-10966: It certainly does give one like me pause. It's not like they signed a non-disparagement clause.
-10967: No, the cause of this is something far more sinister. I would swear to it as a former minister.
-10968: I believe the one who should investigate is you. You have quite the knack for picking up clues.
-10969: How do you respond? [Who? Me?/What should I do?/I think it's your fault.]
-10970: Please at least pretend to pay attention. Or I might perform experiments on you too heinous to mention.
-10971: Stop looking askance and head to Heavens Tower. Unless, of course, you enjoy making me glower.
-10972: Return to the scene and learn all you can. Maybe we can figure out where the true culprit ran.
-10973: They say the criminal always returns to the scene of the crime. Now hurry up, before we run out of time.
-10974: So enough with the dawdling and head over there. You've a mystery to solve--after that, we'll be square.
-10975: I sense a frightful disturbance at the center of all this. Surely, you too know that something's amiss.
-10976: If we are to confront the evil that threatens us all, everyone must do their part--big or small.
-10977: So focus on your task and stop blaming me. Unless, of course, you'd prefer to be cast out to sea.
-10978: There's a price to be paid if we don't discover the truth. And if that price is your head, I shall offer it up forsooth.
-10979: To Heavens Tower you go without further delay. You'll find answers there, not tomorrow, but today.
-10980: And to Kupipi I bid you deliver a word. I'd send a pigeon, but I trust you more than a bird.
-10981: Should she assist in getting to the bottom of this matter, I promise not to serve her head up on a platter.
-10982: Now I must make preparations to meet with a leader. A professor whose nose is always buried in a reader.
-10983: Several in Heavens Tower seem to have memory issues. I would shed a tear, but I'm all out of tissues.
-10984: There's a sinister force behind all of this. If you could find out what's wrong, it would bring me nothing but bliss.
-10985: So, [doubtful one/dear addventurer], please fulfill your charge. We know that somewhere out there is a criminal at large.
-10986: And tell Kupipi to please assist with this case. If she does, she can consider her crimes erased.
-10987: Ah, I see you've finally returned, detective. Hopefully, the information you have proves effective.
-10988: Indeed, I am starting to see you in a new light. You've discerned the identity behind the sinister force that gave us all such a fright.
-10989: Now then, let's get right to it, shall we? We must know the true identity of this culprit, don't you agree?
-10990: Who is the culprit? [What are you talking about?/It's Uran-Mafran./It's the Maelstrom Mage, Garazu-Horeizu./It's Caboose.]
-10991: Surely, you remember the incident at Heavens Tower? Speak now, or you'll be forced to witness my true power!
-10992: I'm talking about the sinister force that stole everyone's memories and thwarted my victory at the Brygid Cup. Now stop stalling and tell me what you've turned up.
-10993: Please, don't tell me you've forgotten... Or it'll be more than just your memory that's rotten.
-10994: Caboose, you claim? Yes, I suppose that sounds somewhat like an evil mastermind's name.
-10995: Unfortunately, your error shall prove to be quite tragic. As I need a new test subject for my deadliest magic!
-10996: Hm? What's that I hear? Is it the sound of someone drawing near?
-10997: Very well done, I do decree. However, I did not know that name until Koru-Moru told me.
-10998: In fact, it was an inquiry from Bastok. It was then that I saw the name and my memories turned back the clock.
-10999: Ah, you waste no time, I see. Although, I do enjoy it when adventurers get straight to the point like me.
-11000: I came across a mention of Uran-Mafran in an inquiry from Bastok, I do believe. Immediately, the Maelstrom Mage was the image that my mind began to weave.
-11001: Doctor Shantotto, who is this Uran-Mafran you're riddily-referring to?
-11002: Whatever do you mean? That is a name from your mouth which I did glean.
-11003: Uran-Mafran was a student in the advanced class when you were the School of Magic's principal, if I heard you right. In fact, you said his future was assuredly bright.
-11004: Yes, now I remem-demily-member him!
-11005: If I try thinking about a diddly-difficult topic, I tend to forget everything else-areeno.
-11006: ...
-11007: I have made-ethy a startling discovery! I finished reading the literature-ethy on the Maelstrom Mage!
-11008: Ah, Professor Yoran-Oran... So who do you think-diddly-ink this Maelstrom Mage is?
-11009: It is most definitely Garazu-Horeizu. He led the Yagudo in a coup attempt-ethy during the Fourth Yagudo War over three hundred years ago.
-11010: At first, it was thought to be simply a battle-ethy for control of Sarutabaruta by the Yagudo, but whispers of a traitor-ethy began to emerge...
-11011: Shortly thereafter, it was learned-ethy that the Maelstrom Mage, Garazu-Horeizu, was the one pulling the strings, and measures were taken to combat his hypnosis magic-ethy.
-11012: Ah, that's right-aroo! When I was minister, I learned...err, tiddly-taught my students about that in history class.
-11013: Although, why would he do such a thing-areeno?
-11014: He was opposed-ethy by the Parliament of Patriarchs because the measures he suggested-ethy to the Star Sibyl were too radical...
-11015: It seems the rejection of what he considered to be a groundbreaking theory-ethy capable of ushering in a new age of magic was the ultimate cause-ethy of everything.
-11016: It's like he just snapped. Clearly, he wasn't impressed with their perceived failure to adapt.
-11017: Ah, yes! That must be it-areeno!
-11018: The wealthy Waters District merchant-ethy Honoi-Gomoi is the head of a family-ethy descended from Garazu-Horeizu.
-11019: They kept a low profile-ethy from the main family, and its bloodline-ethy is directly linked to Uran-Mafran.
-11020: You don't say-areeno... I guess this means Uran-Mafran was a rather diddly-determined fellow.
-11021: Perhaps, but that sense of determination was misguided. I cannot agree with what he decided.
-11022: Using the power of the orb to resurrect his ancestor is a waste! He should be using it to give himself untold power posthaste!
-11023: Either way, I don't think the outcome-ethy would be all that great for us...
-11024: I didn't think that Uran-Mafran had the power-aroo to manipulate the lives of actual living beings.
-11025: After all, when he was a student-areeno, he was so good at madiddly-magic using puppets that he was called the "Puppet Master."
-11026: Actually, I feel like there's someone-ethy like that right here...
-11027: Now I remem-embery-ember! Wasn't it Uran-Mafran that stole Garazu-Horeizu's magicified doll-areeno from Heavens Tower?
-11028: Naturally, it was him. If he thinks I'll let him get away with using the Yagudo as he pleases, he must be rather dim!
-11029: It's strange... I think a madiddly-mage of Uran-Mafran's ability could easily res-riddly-surrect Garazu-Horeizu on his own.
-11030: Perhaps it depends on how much magic the Maelstrom Mage imbued into that doll when he was still alive? That could be the difference in whether or not Uran-Mafran's magic can thrive.
-11031: Normally, that would be true-aroo, but it seems the Maelstrom Mage's soul was off in some other world-areeno.
-11032: Yes, that is correct. <Player>, I wish to hear your report. I have a feeling that it is a matter of great import.
-11033: What!? Uran-Mafran nearly managed-ethy to resurrect the Maelstrom Mage!?
-11034: Luckily for us, that demon managed to turn Uran-Mafran's own madiddly-magic against him. We should be safe-aroo for the time being.
-11035: So Odin tried to use the Maelstrom Mage in order to bring about Ragnarok? That is a plan I'm glad someone was able to block.
-11036: And if I die, will that demon take me to Valhalla as well? Is that the fate that awaits me once I hear the final bell?
-11037: Naturally! Besides, even if someone were to kill-areeno you, Doctor Shantotto, you wouldn't die! Gahahaha!
-11038: ...
-11039: If you did somehow die-ethy, I think you'd rebel-ethy against Odin much like the Maelstrom Mage did...
-11040: Yoran-Oran, do you have something to share? Or was I merely hearing things that aren't there?
-11041: Ahem. If you were-ethy to visit Valhalla, Doctor Shantotto, I think the Maelstrom Mage would be at your mercy in no time-ethy.
-11042: Of that, I have no doubt. And actually, that is exactly what I'm concerned about.
-11043: In regards to Odin's sheer power... I sensed it when I traveled to the land of Aht Urhgan, and it was enough to make one cower.
-11044: As far as I could tell... It seemed to be of a level that none could quell.
-11045: Is that so...
-11046: What's more, we just received the most terrifying news. Odin creating a demon for the purpose of this battle is a topic I'd rather not peruse.
-11047: Simply replacing the soldiers that you have lost... Isn't that the perfect way to fight a battle at little to no cost?
-11048: The Maelstrom Mage wields his dubious arts and has created many minions with his arcane touch. So why is it that he is struggling so much?
-11049: Hmm... Maybe because of the demon-ethy known as Duke Alloces?
-11050: It was somehow immune-ethy to Uran-Mafran's memory manipulation magic. Maybe, unlike us, mental-ethy attacks don't work on it.
-11051: That's got to be the reason. I don't think Odin's army can be defeated, not now nor in any season.
-11052: I think he may have fin-fiddly-finished his maelstrom theory...
-11053: Is the maelstrom theory his research-ethy that was supposed to usher in a new era of magic-ethy?
-11054: Yes, it is his theory that received so many dirty looks. Not only that, but it was also added to a list of banned books.
-11055: I heard that if you don't get someone else-areeno to read the book as soon as you finish it, ghosts will come biddly-bursting out of its pages.
-11056: No, that's not even remotely true-ethy. I heard that the book is so complicated that you could read it for eternity-ethy and never comprehend it.
-11057: I wasn't able to find it, I must admit. I think you have to be a descendant of the Maelstrom Mage in order to even see it.
-11058: Are you sure about that? I riddly-read it when I was younger. I mistook-aroo it for a book on the theory of love.
-11059: So did ghosts come bursting from its pages-ethy?
-11060: I didn't wait to find out-areeno! I quickly gave-aroo it to Karaha-Baruha! Ahahaha!
-11061: But I immediately reg-riddly-regretted it. You see, that book was a book on love-areeno. If it wasn't, then he and the Star Sibyl would've never...
-11062: Koru-Moru, that was definitely the book on the maelstrom theory. Tell us more about it, and be sure to speak clearly.
-11063: Yes... To continue without rest-aroo for all eternity... I feel like it was a theory on how to wield madiddly-magic.
-11064: Huh!?
-11065: I-it's...
-11066: You mean it's not a theory for me!? Oh, how can this be!?
-11067: That is correct. It's a theory on love that states that love madiddly-magic shall always remain, forever unbroken-areeno.
-11068: Still, I don't care! You must tell me the details before I begin to despair!
-11069: Sorry, I for-fiddily-forgot the rest-areeno. Hehe.
-11070: Perhaps your memory just needs a solid blow from my staff. Don't worry, I promise not to laugh.
-11071: Even if you don't remember-ethy, you can always ask the Maelstrom Mage-ethy himself in Valhalla...
-11072: C-calm down-areeno, both of you! The entrance to the underworld-aroo is curren-ciddly-tly closed!
-11073: B-besides, maybe it's Uran-Mafran's fault-areeno that I've forgotten everything!
-11074: Actually, our adventurer friend here said the same thing-ethy in [his/her] report. Uran-Mafran uses a magic doll to manipulate-ethy memories...
-11075: So Koru-Moru, you're saying that we may have been the victims of his memory magic in the past. Is it possible that such a spell could've actually been cast?
-11076: Doctor Shantotto, you seem to have recov-riddily-overed on your own, but normally it requires a rather detailed procedure-areeno.
-11077: It appears that the $3 didn't have any effect-aroony on Uran-Mafran's madiddly-magic.
-11078: Yes, and I suppose-ethy that means I can't do anything about it either. How about you-ethy, Professor Koru-Moru?
-11079: Of course I can-aroo! I have this!
-11080: Wha!? I've got a bad feeling-ethy about this!
-11081: Do you really have to use that doll? Just its mere appearance casts a dreaded sense of pall.
-11082: Uran-Mafran brought it with him, so it's just what I need-areeno.
-11083: However, it won't obey-areeno my commands as-is, so I think-dinkily-dink I need to make some modifications first.
-11084: So adventurer-eeno, you finally get a chance-aroony to help out.
-11085: I'll need you to collect-aroo one of each of the following: $1, $2, and $3.
-11086: $1 and $2? You need some riddily-rather unusual materials.
-11087: Well, time is of the essence, so it can't be helped. Now, get a move on before you get yourself whelped!
-11088: I don't think Koru-Moru's memory problems are the result of some Uran-Mafran spell... However, I guess only time will tell.
-11089: We need you to get $1, $2, and $3. Oh, and be quick about it. Or else you'll really see me throw a fit.
-11090: Umm... This isn't good-areeno... I am trying to immerse myself in recollections of my youth in order to remem-embery-ember the contents of the theory on love...
-11091: Hm? You think I can't remember anything-aroony because of what Uran-Mafran did?
-11092: I'm certain that's the case-areeno. I must rework this madiddly-magicked doll in order to restore my memories!
-11093: For that, I require $1, $2, and $3.
-11094: The book containing the maelstrom theory-ethy was banned. It's not something-ethy that can be talked about openly.
-11095: So, how would you like-ethy to talk about mandragoras instead? Have you ever encountered a citrullus in your travels-ethy?
-11096: One theory states that the citrullus is the original mandragora species-ethy. That can't be true-ethy, right? Right!?
-11097: I see that you have brought that which we seek. Now, if you don't mind, I shall take a quick peek.
-11098: Alright-areeno! Hand them over already!
-11099: Ta-da! The mojo-mad-magicked doll "Memorian" is now complete-areeno!
-11100: Koru-Moru, I'm sure your reworking of the doll was quite clever. However, it's still as creepy as ever.
-11101: Now then, Professor Koru-Moru... Use the doll to help you recall-ethy the details of the maelstrom theory.
-11102: Umm... Y-yes, it was a theory-areeno about being able to utilize madiddly-magic without rest for eternity...
-11103: ...
-11104: ...
+10945: DEBUG:$3`$3P$3b$3g$f$P13>$8$P14s SUBSLOT=$0 / ID(Result)=$1
+10946: DEBUG: Error $0.
+10947: [$P11O/$31]L$J$P15z$30$T // ::
+10948: DEBUG:m::n
+10949: Well, look who's come to give their regards. Surely by now you've locked Kupipi behind bars?
+10950: Regardless of her punishment, I hold those clothes dear. So we must get to the bottom of things, or her demise is near.
+10951: Imagine my consternation at missing the competition. I should have won, not Zeid--it's simple addition!
+10952: My outfit would have renedered everyone else obsolete. To think the crown was taken by someone with two left feet...
+10953: Ah, I trust that you have brought me good news. So, please, spit it out, or you'll be singing the blues.
+10954: Splendidly done, if I do say so myself. Everyone's memories are now right as books on a shelf.
+10955: And now we know that Kupipi's at fault. When I'm done with her, she'll be locked in a vault.
+10956: So what do you say? Think Kupipi must pay?
+10957: Should Kupipi pay? [Through the nose./No!]
+10958: Then we are of one mind. A comrade in arms did I find!
+10959: What kind of detective is in cahoots with a crook? You stand with the villain--and it's not a good look.
+10960: Oh, believe me, adventurer, Kupipi shall burn. I fear it's the only way that she will learn.
+10961: And with that, I am off to plan my revenge. I shall see her carcass strung up on a henge!
+10962: Ohohohoho!
+10963: Surely Kupipi has been taught a valuable lesson. That will teach her to rely less on her rolanberry delicatessen.
+10964: Next time her cheeks are aflush with delicious fruit, I'll head to Heavens Tower and give her the boot.
+10965: For should she choose to ignore me to pursue plant-based delights, she'll have no mouth left to speak with, for I'll set it alight.
+10966: But, adventurer, don't you agree that something's gone very wrong? It seems like everyone in Heavens Tower is a touch too far gone.
+10967: It was an important day for the people who were there. How could they forget the truth you laid bare?
+10968: It certainly does give one like me pause. It's not like they signed a non-disparagement clause.
+10969: No, the cause of this is something far more sinister. I would swear to it as a former minister.
+10970: I believe the one who should investigate is you. You have quite the knack for picking up clues.
+10971: How do you respond? [Who? Me?/What should I do?/I think it's your fault.]
+10972: Please at least pretend to pay attention. Or I might perform experiments on you too heinous to mention.
+10973: Stop looking askance and head to Heavens Tower. Unless, of course, you enjoy making me glower.
+10974: Return to the scene and learn all you can. Maybe we can figure out where the true culprit ran.
+10975: They say the criminal always returns to the scene of the crime. Now hurry up, before we run out of time.
+10976: So enough with the dawdling and head over there. You've a mystery to solve--after that, we'll be square.
+10977: I sense a frightful disturbance at the center of all this. Surely, you too know that something's amiss.
+10978: If we are to confront the evil that threatens us all, everyone must do their part--big or small.
+10979: So focus on your task and stop blaming me. Unless, of course, you'd prefer to be cast out to sea.
+10980: There's a price to be paid if we don't discover the truth. And if that price is your head, I shall offer it up forsooth.
+10981: To Heavens Tower you go without further delay. You'll find answers there, not tomorrow, but today.
+10982: And to Kupipi I bid you deliver a word. I'd send a pigeon, but I trust you more than a bird.
+10983: Should she assist in getting to the bottom of this matter, I promise not to serve her head up on a platter.
+10984: Now I must make preparations to meet with a leader. A professor whose nose is always buried in a reader.
+10985: Several in Heavens Tower seem to have memory issues. I would shed a tear, but I'm all out of tissues.
+10986: There's a sinister force behind all of this. If you could find out what's wrong, it would bring me nothing but bliss.
+10987: So, [doubtful one/dear addventurer], please fulfill your charge. We know that somewhere out there is a criminal at large.
+10988: And tell Kupipi to please assist with this case. If she does, she can consider her crimes erased.
+10989: Ah, I see you've finally returned, detective. Hopefully, the information you have proves effective.
+10990: Indeed, I am starting to see you in a new light. You've discerned the identity behind the sinister force that gave us all such a fright.
+10991: Now then, let's get right to it, shall we? We must know the true identity of this culprit, don't you agree?
+10992: Who is the culprit? [What are you talking about?/It's Uran-Mafran./It's the Maelstrom Mage, Garazu-Horeizu./It's Caboose.]
+10993: Surely, you remember the incident at Heavens Tower? Speak now, or you'll be forced to witness my true power!
+10994: I'm talking about the sinister force that stole everyone's memories and thwarted my victory at the Brygid Cup. Now stop stalling and tell me what you've turned up.
+10995: Please, don't tell me you've forgotten... Or it'll be more than just your memory that's rotten.
+10996: Caboose, you claim? Yes, I suppose that sounds somewhat like an evil mastermind's name.
+10997: Unfortunately, your error shall prove to be quite tragic. As I need a new test subject for my deadliest magic!
+10998: Hm? What's that I hear? Is it the sound of someone drawing near?
+10999: Very well done, I do decree. However, I did not know that name until Koru-Moru told me.
+11000: In fact, it was an inquiry from Bastok. It was then that I saw the name and my memories turned back the clock.
+11001: Ah, you waste no time, I see. Although, I do enjoy it when adventurers get straight to the point like me.
+11002: I came across a mention of Uran-Mafran in an inquiry from Bastok, I do believe. Immediately, the Maelstrom Mage was the image that my mind began to weave.
+11003: Doctor Shantotto, who is this Uran-Mafran you're riddily-referring to?
+11004: Whatever do you mean? That is a name from your mouth which I did glean.
+11005: Uran-Mafran was a student in the advanced class when you were the School of Magic's principal, if I heard you right. In fact, you said his future was assuredly bright.
+11006: Yes, now I remem-demily-member him!
+11007: If I try thinking about a diddly-difficult topic, I tend to forget everything else-areeno.
+11008: ...
+11009: I have made-ethy a startling discovery! I finished reading the literature-ethy on the Maelstrom Mage!
+11010: Ah, Professor Yoran-Oran... So who do you think-diddly-ink this Maelstrom Mage is?
+11011: It is most definitely Garazu-Horeizu. He led the Yagudo in a coup attempt-ethy during the Fourth Yagudo War over three hundred years ago.
+11012: At first, it was thought to be simply a battle-ethy for control of Sarutabaruta by the Yagudo, but whispers of a traitor-ethy began to emerge...
+11013: Shortly thereafter, it was learned-ethy that the Maelstrom Mage, Garazu-Horeizu, was the one pulling the strings, and measures were taken to combat his hypnosis magic-ethy.
+11014: Ah, that's right-aroo! When I was minister, I learned...err, tiddly-taught my students about that in history class.
+11015: Although, why would he do such a thing-areeno?
+11016: He was opposed-ethy by the Parliament of Patriarchs because the measures he suggested-ethy to the Star Sibyl were too radical...
+11017: It seems the rejection of what he considered to be a groundbreaking theory-ethy capable of ushering in a new age of magic was the ultimate cause-ethy of everything.
+11018: It's like he just snapped. Clearly, he wasn't impressed with their perceived failure to adapt.
+11019: Ah, yes! That must be it-areeno!
+11020: The wealthy Waters District merchant-ethy Honoi-Gomoi is the head of a family-ethy descended from Garazu-Horeizu.
+11021: They kept a low profile-ethy from the main family, and its bloodline-ethy is directly linked to Uran-Mafran.
+11022: You don't say-areeno... I guess this means Uran-Mafran was a rather diddly-determined fellow.
+11023: Perhaps, but that sense of determination was misguided. I cannot agree with what he decided.
+11024: Using the power of the orb to resurrect his ancestor is a waste! He should be using it to give himself untold power posthaste!
+11025: Either way, I don't think the outcome-ethy would be all that great for us...
+11026: I didn't think that Uran-Mafran had the power-aroo to manipulate the lives of actual living beings.
+11027: After all, when he was a student-areeno, he was so good at madiddly-magic using puppets that he was called the "Puppet Master."
+11028: Actually, I feel like there's someone-ethy like that right here...
+11029: Now I remem-embery-ember! Wasn't it Uran-Mafran that stole Garazu-Horeizu's magicified doll-areeno from Heavens Tower?
+11030: Naturally, it was him. If he thinks I'll let him get away with using the Yagudo as he pleases, he must be rather dim!
+11031: It's strange... I think a madiddly-mage of Uran-Mafran's ability could easily res-riddly-surrect Garazu-Horeizu on his own.
+11032: Perhaps it depends on how much magic the Maelstrom Mage imbued into that doll when he was still alive? That could be the difference in whether or not Uran-Mafran's magic can thrive.
+11033: Normally, that would be true-aroo, but it seems the Maelstrom Mage's soul was off in some other world-areeno.
+11034: Yes, that is correct. <Player>, I wish to hear your report. I have a feeling that it is a matter of great import.
+11035: What!? Uran-Mafran nearly managed-ethy to resurrect the Maelstrom Mage!?
+11036: Luckily for us, that demon managed to turn Uran-Mafran's own madiddly-magic against him. We should be safe-aroo for the time being.
+11037: So Odin tried to use the Maelstrom Mage in order to bring about Ragnarok? That is a plan I'm glad someone was able to block.
+11038: And if I die, will that demon take me to Valhalla as well? Is that the fate that awaits me once I hear the final bell?
+11039: Naturally! Besides, even if someone were to kill-areeno you, Doctor Shantotto, you wouldn't die! Gahahaha!
+11040: ...
+11041: If you did somehow die-ethy, I think you'd rebel-ethy against Odin much like the Maelstrom Mage did...
+11042: Yoran-Oran, do you have something to share? Or was I merely hearing things that aren't there?
+11043: Ahem. If you were-ethy to visit Valhalla, Doctor Shantotto, I think the Maelstrom Mage would be at your mercy in no time-ethy.
+11044: Of that, I have no doubt. And actually, that is exactly what I'm concerned about.
+11045: In regards to Odin's sheer power... I sensed it when I traveled to the land of Aht Urhgan, and it was enough to make one cower.
+11046: As far as I could tell... It seemed to be of a level that none could quell.
+11047: Is that so...
+11048: What's more, we just received the most terrifying news. Odin creating a demon for the purpose of this battle is a topic I'd rather not peruse.
+11049: Simply replacing the soldiers that you have lost... Isn't that the perfect way to fight a battle at little to no cost?
+11050: The Maelstrom Mage wields his dubious arts and has created many minions with his arcane touch. So why is it that he is struggling so much?
+11051: Hmm... Maybe because of the demon-ethy known as Duke Alloces?
+11052: It was somehow immune-ethy to Uran-Mafran's memory manipulation magic. Maybe, unlike us, mental-ethy attacks don't work on it.
+11053: That's got to be the reason. I don't think Odin's army can be defeated, not now nor in any season.
+11054: I think he may have fin-fiddly-finished his maelstrom theory...
+11055: Is the maelstrom theory his research-ethy that was supposed to usher in a new era of magic-ethy?
+11056: Yes, it is his theory that received so many dirty looks. Not only that, but it was also added to a list of banned books.
+11057: I heard that if you don't get someone else-areeno to read the book as soon as you finish it, ghosts will come biddly-bursting out of its pages.
+11058: No, that's not even remotely true-ethy. I heard that the book is so complicated that you could read it for eternity-ethy and never comprehend it.
+11059: I wasn't able to find it, I must admit. I think you have to be a descendant of the Maelstrom Mage in order to even see it.
+11060: Are you sure about that? I riddly-read it when I was younger. I mistook-aroo it for a book on the theory of love.
+11061: So did ghosts come bursting from its pages-ethy?
+11062: I didn't wait to find out-areeno! I quickly gave-aroo it to Karaha-Baruha! Ahahaha!
+11063: But I immediately reg-riddly-regretted it. You see, that book was a book on love-areeno. If it wasn't, then he and the Star Sibyl would've never...
+11064: Koru-Moru, that was definitely the book on the maelstrom theory. Tell us more about it, and be sure to speak clearly.
+11065: Yes... To continue without rest-aroo for all eternity... I feel like it was a theory on how to wield madiddly-magic.
+11066: Huh!?
+11067: I-it's...
+11068: You mean it's not a theory for me!? Oh, how can this be!?
+11069: That is correct. It's a theory on love that states that love madiddly-magic shall always remain, forever unbroken-areeno.
+11070: Still, I don't care! You must tell me the details before I begin to despair!
+11071: Sorry, I for-fiddily-forgot the rest-areeno. Hehe.
+11072: Perhaps your memory just needs a solid blow from my staff. Don't worry, I promise not to laugh.
+11073: Even if you don't remember-ethy, you can always ask the Maelstrom Mage-ethy himself in Valhalla...
+11074: C-calm down-areeno, both of you! The entrance to the underworld-aroo is curren-ciddly-tly closed!
+11075: B-besides, maybe it's Uran-Mafran's fault-areeno that I've forgotten everything!
+11076: Actually, our adventurer friend here said the same thing-ethy in [his/her] report. Uran-Mafran uses a magic doll to manipulate-ethy memories...
+11077: So Koru-Moru, you're saying that we may have been the victims of his memory magic in the past. Is it possible that such a spell could've actually been cast?
+11078: Doctor Shantotto, you seem to have recov-riddily-overed on your own, but normally it requires a rather detailed procedure-areeno.
+11079: It appears that the $3 didn't have any effect-aroony on Uran-Mafran's madiddly-magic.
+11080: Yes, and I suppose-ethy that means I can't do anything about it either. How about you-ethy, Professor Koru-Moru?
+11081: Of course I can-aroo! I have this!
+11082: Wha!? I've got a bad feeling-ethy about this!
+11083: Do you really have to use that doll? Just its mere appearance casts a dreaded sense of pall.
+11084: Uran-Mafran brought it with him, so it's just what I need-areeno.
+11085: However, it won't obey-areeno my commands as-is, so I think-dinkily-dink I need to make some modifications first.
+11086: So adventurer-eeno, you finally get a chance-aroony to help out.
+11087: I'll need you to collect-aroo one of each of the following: $1, $2, and $3.
+11088: $1 and $2? You need some riddily-rather unusual materials.
+11089: Well, time is of the essence, so it can't be helped. Now, get a move on before you get yourself whelped!
+11090: I don't think Koru-Moru's memory problems are the result of some Uran-Mafran spell... However, I guess only time will tell.
+11091: We need you to get $1, $2, and $3. Oh, and be quick about it. Or else you'll really see me throw a fit.
+11092: Umm... This isn't good-areeno... I am trying to immerse myself in recollections of my youth in order to remem-embery-ember the contents of the theory on love...
+11093: Hm? You think I can't remember anything-aroony because of what Uran-Mafran did?
+11094: I'm certain that's the case-areeno. I must rework this madiddly-magicked doll in order to restore my memories!
+11095: For that, I require $1, $2, and $3.
+11096: The book containing the maelstrom theory-ethy was banned. It's not something-ethy that can be talked about openly.
+11097: So, how would you like-ethy to talk about mandragoras instead? Have you ever encountered a citrullus in your travels-ethy?
+11098: One theory states that the citrullus is the original mandragora species-ethy. That can't be true-ethy, right? Right!?
+11099: I see that you have brought that which we seek. Now, if you don't mind, I shall take a quick peek.
+11100: Alright-areeno! Hand them over already!
+11101: Ta-da! The mojo-mad-magicked doll "Memorian" is now complete-areeno!
+11102: Koru-Moru, I'm sure your reworking of the doll was quite clever. However, it's still as creepy as ever.
+11103: Now then, Professor Koru-Moru... Use the doll to help you recall-ethy the details of the maelstrom theory.
+11104: Umm... Y-yes, it was a theory-areeno about being able to utilize madiddly-magic without rest for eternity...
 11105: ...
-11106: You didn't fall asleep just now, right? Because if you are, you'll be in for quite a fright.
-11107: Ah, that's it-areeno! The egg! The "World Eater Egg"!
-11108: What did you just say!? Repeat it again clearly, so that we are not led astray.
-11109: W-we need more details-ethy! And please-ethy, keep it simple!
-11110: The beginning of the maelstrom theory stated that it was a story-areeno told by the Yagudo reg-riddly-regarding a mysterious egg found in Sauromugue Champaign a long time ago.
-11111: The monsteroo that hatched from the egg was terrifyingly strong, and it possessed such vitality that it was res-riddly-surrected every time it was defeated.
-11112: I know that story. It's the story-ethy of the Nesnas. Did it really exist-ethy?
-11113: The Maelstrom Mage heard a similar story about an egg in a corner of Aht Urhgan. It was known as the "World Eater Egg."
-11114: To think that the Maelstrom Mage actually saw this World Eater Egg three hundred years ago... He is clearly one formidable foe.
-11115: The World Eater Egg is a mysterious egg-areeno that cannot everoo be broken.
-11116: However, once the monsteroo hatches, it is a creature with the ability-dility to be infinitely resurrected.
-11117: Just what is this poweroo of resurrection?
-11118: And what is the source-areeno of that poweroo...
-11119: Whatever it is, that source must enable an infinite stream of magic to flow. Ohohohoho!
-11120: I got it! Maybe the source of this power of resurrection-ethy is the one that birthed the egg!?
-11121: I imagine that if a being is to be eternally resurrected... It would require a source of magical power with the equivalent of many lives injected.
-11122: It may even be something as simple as a magic doll. Yet, I suppose it'd be difficult to properly resurrect something so many times if it were to fall.
-11123: Well, it was the story-ethy of Nesnas. I know... What if it was a being with the power to control life-ethy?
-11124: Indeed, there is the great Phoenix that I can recall... Not that I am trying to be some kind of know-it-all.
-11125: I suppose it could be a possibility. However, as far as I know, Phoenix exists solely to save lives in the future so as to maintain stability.
-11126: As such, I don't think it is capable of birthing the World Eater Egg. This clearly takes our theory down a peg.
-11127: Hmm... So then what is the source-ethy of this power, Professor Koru-Moru!?
-11128: In order to investigate the source, the Maelstrom Mage seems to have dir-diddily-directly asked the Star Sibyl for help-aroo searching for the World Eater Egg.
-11129: What!? Although it appears he was refused-ethy...
-11130: It seems that made him quite upset! I think we were lucky to successfully avoid that threat.
-11131: Yes, that seems to be the case-areeno. However, he appears to have obtained new infomation when he started-areeno the Fourth Yagudo War.
-11132: And what information-ethy is that!?
-11133: Near the end of the book containing the maelstrom theory, there were some scribbles reg-riddly-regarding a large dragon known as "Chaos."
-11134: There was also an arrow-areeno between Chaos and the World Eater Egg...
-11135: Wait! Wait a second! The mystery-ethy is solved! This "Chaos" must be the one that gave birth to the "World Eater Egg"!
-11136: Hm? <Player>...
-11137: You look like you have something to say. Spit it out already, we don't have all day.
-11138: I knew it all along. You hid this knowledge from us, even though you knew it was wrong.
-11139: Yeah, what's the matter with you-ethy!? It's not nice to just sit there-ethy and let me think I made some amazing new discovery!
-11140: And on top of that, what about this Caboose-ethy!? It went on a rampage trying to destroy all living things, yet a handful of beastmen-ethy were able to stop it!
-11141: Hearing that Caboose was defeated five thousand years ago makes my eyes all teary. This could've been our chance to complete the maelstrom theory.
-11142: Doctor Shantotto, have you forgotten that talk-ethy of the maelstrom theory has been banned? Isn't simply being involved with such a book-ethy an act of treason?
-11143: Everyone, re-riddly-main calm. Also, it's "Chaos," not "Caboose."
-11144: Moreover, this adventurer-eeno is clearly confused about a variety of things-areeno.
-11145: There is a good chance that much-aroo like us, [he/she] is under the influence of Uran-Mafran's memory manipulation madiddly-magic.
-11146: Ooh... Memories...stolen...
-11147: Look, Memorian is reacting just-areeno as I anticipated.
-11148: Huh!? Does that mean there might be more to learn? And here I thought there was no more to discern.
-11149: It certainly does mean-areeno that. Here, I'll give this madiddly-magic doll to you.
-11150: It should re-riddily-act to the memories that were tampered with by Uran-Mafran and then remove the effects of his spell-areeno.
-11151: When you have a moment-areeno, you should try visiting locations-aroo that you have been to before.
-11152: <Player>, if you find anything regarding the maelstrom theory, come to me at once. That is not the kind of information that should be shared with a mere dunce.
-11153: No, you should tell me-ethy or Professor Koru-Moru first. It is vital that any buds of rebellion-ethy are plucked before they can sprout.
-11154: Professor Yoran-Oran, I need to examine the maelstrom theory. In order to understand the Maelstrom Mage, I must pore over it until my eyes are tired and bleary.
-11155: If Uran-Mafran's memories ever re-riddily-return, I'd like to capture and question-areeno him.
-11156: Yes, I wholeheartedly agree. This is no time for me to squabble with thee.
-11157: We must get to the bottom of these mysteries before Uran-Mafran returns. Then we can see just how brightly this plot burns.
-11158: Finally, <Player>, I would like to give you this. If I let you leave without it, I would certainly be remiss.
-11159: I believe it will help you on your journey to restore your memories. Be sure to keep it with your most prized accessories.
-11160: It is always good to prepare for the worst. Now then, I think you should visit the Kingdom of San d'Oria first.
-11161: Prince Trion has been quite vocal about various things. Especially regarding what kind of power the World Eater Egg brings.
-11162: Of course, there is no need to mention the maelstrom theory. If you do, you will not find my mood to be so cheery.
-11163: The maelstrom theory is a forbidden book, so you can be charged with treason. And I won't really care if you have a good reason!
-11164: Is this another side effect that Uran-Mafran's memory manipulation has brought? Here, take this $1 that you forgot.
-11165: I'm told that you should take the magic doll modified by Professor Koru-Moru as well. Maybe it can help break through Uran-Mafran's spell.
-11166: If you have no set destination in mind, head for the Kingdom of San d'Oria before your memory's completely in tatters. Prince Trion seems to be quite curious about a variety of interesting matters.
-11167: You should try to meet with him soon. Otherwise, he's likely to put on a disguise and sneak out of the country at the next full moon.
-11168: Umm... This isn't good-areeno... I'm trying to riddly-recall my time as minister in order to remember-aroo Uran-Mafran's weakness...
-11169: There must have been at least one student-aroo he was close with, but I can't recollect the name. I know he was male though... Yes, definitely male-areeno.
-11170: The Maelstrom Mage, Garazu-Horeizu, died during the Fourth Yagudo War, and his soul-ethy was summoned by the demon and invited to Valhalla.
-11171: Then, over the course of hundreds of years, he completed his maelstrom theory-ethy and acquired a source of inexhaustible magical power, enabling him to launch a rebellion-ethy against Odin.
-11172: Based on our current assumptions, is such a thing possible-ethy, even when considering his vast intellect-ethy?
-11173: Ah, it's you. Your face appears to be rather fresh and true.
-11174: You look as if a great weight has been lifted from your heart. Yes, your aura has brightened considerably since I saw you last depart.
-11175: Arrrrrrg... It's over... It's all over...
-11176: Oh, it seems that magic doll has served its purpose at last. Now we can put its sinister visage in the past.
-11177: Very well. What happens next, only time will tell.
-11178: Now that it's all over, this magic doll is kind of cute, I must say... On second thought, I take that back. Clearly, the influence of Koru-Moru is still at play.
-11179: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
-11180: You must take on the "$0" Records of Eminence objective before receiving the explanation.
-11181: You must complete "$1" before taking on the "$0" Records of Eminence objective.
-11182: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
-11183: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
-11184: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
-11185: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
-11186: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
-11187: You can change the CTRL+Q shortcut command...
-11188: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
-11189: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
-11190: You must meet one of the following conditions in order to post to the Assist Channel.
-11191: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
-11192: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
-11193: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-11194: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
-11195: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
-11196: The Assist Channel can only be used in the following areas.
-11197: Available areas: $7, $7, $7, $7, $7, $7...
-11198: ...$7, $7, $7, $7, $7, $7, $7, $7...
-11199: ...$7, $7, $7, $7, $7, $7, $7, $7...
-11200: ...$7, $7, $7, and your Mog House (Rent-a-Room).
-11201: You cannot post or read messages outside of the areas listed above.
-11202: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
-11203: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
-11204: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
-11205: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
-11206: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
-11207: The higher the number, the more experienced the mentor is.
-11208: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
-11209: You can check your Mastery Rank by going to Main Menu > Status > Profile.
-11210: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
-11211: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
-11212: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
-11213: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
-11214: A "Warning" is a feature that can only be used by mentors.
-11215: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
-11216: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
-11217: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
-11218: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
-11219: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
-11220: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
-11221: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
-11222: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
-11223: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
-11224: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
-11225: You are about to lose the ability to post messages to the Assist Channel.
-11226: You are unable to post messages to the Assist Channel.
-11227: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
-11228: Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals.
-11229: How may I help you today?
-11230: What do you desire? [Nothing for now./Show me recruiting linkshells./I'd like to hand out $0./Tell me more./Open up the linkshell window.]
-11231: It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
-11232: Excellent. Please select which linkshell you are interested in contacting.
-11233: Are you certain?
-11234: Really receive the linkpearl? [Of course./No, thank you.]
-11235: In the interest of fairness, I am unable to distribute multiple linkpearls to someone on the same day. Please come back tomorrow.
-11236: It is my sincere pleasure to bestow this upon you.
-11237: Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting.
-11238: I have prepared a small manual describing the importance of treating others with respect. Please have a quick glance at it when you have a moment.
-11239: May your new linkshell provide you with fond memories that will last a lifetime.
-11240: Though it pains me to say this, I have no $0 that meet your requirements at this time.
-11241: Should you desire, I can cancel your registration.
-11242: Cancel registration? [Yes, please./Not at this time.]
-11243: Should you desire to look for members, I can distribute $1 in your stead by utilizing the energies continued within your equipped $0.
-11244: During the process, please equip either $1 or $2 as Linkshell 1 and select "I'd like to hand out $0."
-11245: One that step has been completed, I will ask you a series of questions.
-11246: To cancel your registration, equip $1 or $2 as Linkshell 1, speak to me again, and select the appropriate linkshell from the list.
-11247: Unfortunately, only those equipped with $1 or $2 as Linkshell 1 are able to distribute $0.
-11248: Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home.
-11249: Linkshell concierges such as myself bring together adventurers of similar interests.
-11250: In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members.
-11251: I accept $0 from linkshells the world over and distribute them to appropriate adventurers.
-11252: This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate.
-11253: Additionally, please be aware that I am only able to offer you one $0 per day.
-11254: Though we would like to offer this service free of charge, the network has its own expenses that must be paid, so we charge a nominal fee of $0 gil at the time of registration.
-11255: It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time).
-11256: It is worth noting that each concierge may only register a maximum of $0 linkshells.
-11257: Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest.
-11258: Server maintenances will also immediately cancel all registrations, so be sure to keep your information up-to-date.
-11259: Thank you for taking the time to use our service. Let me confirm the information contained within.
-11260: , correct?
-11261: LS0: .
-11262: LS1: .
-11263: LS0: (No sending).
-11264: LS1: (No sending).
-11265: Shall I start looking for new members for a fee of $1 gil?
-11266: Look for new members? ($0 gil) [That sounds wonderful./I'd rather not.]
-11267: I'm quite sorry to hear you decline. Please let me know if you change your mind.
-11268: I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style.
-11269: What is your language preference? [Japanese./English./Other./Back.]
-11270: What days are you most active? [Every day./Weekends and holidays./Weekdays./Monday./Tuesday./Wednesday./Thursday./Friday./Saturday./Sunday./Back.]
-11271: What days are you most active? [[-/Z]No day set./[-/Z]Mondays./[-/Z]Tuesdays./[-/Z]Wednesdays./[-/Z]Thursdays./[-/Z]Fridays./[-/Z]Saturdays./[-/Z]Sundays./[-/Z]Holidays./Back./Next./Update.]
-11272: When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]
-11273: Designate a time zone. [No designation./Japanese Standard Time (JST)./Pacific Time (PST|PDT)./Greenwich Mean Time (GMT)./Back.]
-11274: What time are you active? (JST) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
-11275: What time are you active? (PST|PDT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
-11276: What time are you active? (GMT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
-11277: How many members are you looking for? [1."."./4./5./6./7./8./9./10./Back.]
-11278: How many active members do you have? [1-6./7-18./19+./Back.]
-11279: How would you characterize your linkshell? [[|/Z] No info provided./[|/Z] New players welcome./[|/Z] Returnees welcome./[|/Z] Adults only./[|/Z] 10 year veterans active./[|/Z] Casual players./[|/Z] Battle and synthesis support./[|/Z] Anyone welcome./[|/Z] End content-focused./[|/Z] Ambuscade-focused./[|/Z] Never give up./[|/Z] High-end gear./[|/Z] Looking for crafters./[|/Z] Trial memberships welcome./[|/Z] Multiple linkshells OK./[|/Z] Community events held./[|/Z] New linkshell./Back./Next./Update.]
-11280: Linkshell characteristics. [No info provided./New players welcome./Returnees welcome./Adults only./10 year veterans active./Casual players./Battle and synthesis support./Anyone welcome./End content-focused./Ambuscade-focused./Never give up./High-end gear./Looking for crafters./Trial memberships welcome./Multiple linkshells OK./Community events held./New linkshell./Back]
-11281: Style: [Do everything/Engage in hard-core battle content/Engage in casual battle content/Vanquish HNMs/Meet other new players/Assist each other/Engage in synthesis and trading/Nothing].
-11282: Language: [/Japanese/English/Other].
-11283: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (JST)/in the afternoon (JST)/in the evening (JST)/at night (JST)/in the wee hours of the morning (JST)].
-11284: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (PST|PDT)/in the afternoon (PST|PDT)/in the evening (PST|PDT)/at night (PST|PDT)/in the wee hours of the morning (PST|PDT)].
-11285: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (GMT)/in the afternoon (GMT)/in the evening (GMT)/at night (GMT)/in the wee hours of the morning (GMT)].
-11286: Looking for $4 more member[/s].
-11287: Please review the content of your linkshell. I will start looking for new members once you have confirmed that everything is in order.
-11288: Linkshell info (can be changed): [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Cancel without posting./Post recruitment.]
-11289: Information for : [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Date posted: //./Receive $1027./Delist./Back.]
-11290: I can start looking for new members immediately. Is this information correct?
-11291: What will you do? [Start looking for members./Stop the process.]
-11292: Your registration is officially complete.
-11293: May your journeys lead you to many as-yet-unmet friends, and may the bonds you forge last a lifetime.
-11294: Another member of that linkshell currently has an active registration. Please wait until that registration expires and try again.
-11295: A manual describing proper chat manners floats in front of you.
-11296: Read up on which topic? [None for now./I don't know what to talk about./How can I get people to like me?/What shouldn't I do?/What happens if we don't mesh?]
-11297: Perhaps consider starting with a simple greeting. Something like...
-11298: "Hello, everyone. My name's <Player>. Nice to meet you!"
-11299: Of course, injecting your own personal flavor may act as a conversation starter and help people to remember you.
-11300: No matter which route you choose, make sure to always remain polite. There is no better way to start a friendship off on the right foot.
-11301: When speaking with others, it's critical to listen and be mindful of what they say.
-11302: Always talking and never listening may come across as rude.
-11303: Another important point is to always be mindful of the listener. How would you feel if someone said that to you? Think carefully before sending someone a message.
-11304: It also helps to be clear and concise.
-11305: Being vague might cause others to get the wrong impression.
-11306: Be extremely careful when giving out personal information such as your address or telephone number.
-11307: Furthermore, refrain from making disparaging or aggressive remarks.
-11308: Once you are close to someone, you may be more comfortable letting your hair down, but it is strongly recommended that you refrain from any actions that may be construed as harassment.
-11309: After joining a linkshell, you may find that you have difficulty participating in conversation or that your personality is too different from the other members.
-11310: One of your options in such a situation is to inform the linkshell leader and then leave.
-11311: Finding a linkshell that is the perfect fit might not always be easy, but there is certainly a group out there that will match your feelings and goals.
-11312: Once you find those kinds of friends, hold them fast and value them as much as they value you. There is no better way to enjoy life in Vana'diel.
-11313: The linkshell concierge opens up a tiny notebook...
-11314: Here you can play the game Mandragora Mania.
-11315: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
-11316: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
-11317: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
-11318: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
-11319: You may pay $& gil to reset all rewards, enabling you to purchase them again.
-11320: Reset rewards? ($' gil). [Yes ($& gil)./No.]
-11321: You do not have enough gil.
-11322: All rewards have been reset.
-11323: You have already purchased the $2.
-11324: You need at least $3 jingly to purchase the $2.
-11325: The reward exchange period has turned over and all rewards have been reset.
-11326: You may reset all rewards from the appropriate dialogue box.
-11327: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
-11328: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
-11329: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
-11330: Starting player set to [Random/You/Opponent].
-11331: Read the manual? [Sure./No thanks.]
-11332: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
-11333: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
-11334: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
-11335: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
-11336: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
-11337: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
-11338: You must choose one area--either yours or a neutral one--to proceed.
-11339: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
-11340: Conversely, your opponent must select either a neutral area or an area that belongs to them.
-11341: From the right, those areas are numbered 6, 4, 7, 2, and 8.
-11342: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
-11343: Note that the mandragoras will move from the back first--last in, first out.
-11344: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
-11345: You will enter your opponent's territory whenever you go past the goal.
-11346: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
-11347: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
-11348: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
-11349: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
-11350: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
-11351: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
-11352: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
-11353: Standard mandragoras: 1 jingly (both players).
-11354: The game is over when either you or your opponent no longer has any mandragoras that can move.
-11355: The player who has the most jingly at that point will be declared the winner.
-11356: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
-11357: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
-11358: You have selected Area $0.
-11359: You receive $0 jingly for a total of $1.
-11360: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
-11361: Your opponent has selected Area $0.
-11362: Your opponent receives $0 jingly for a total of $1.
-11363: Game Complete!
-11364: [Victory!/Defeat!/Draw!] ($0 - $1)
-11365: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
-11366: That area has no mandragora to move.
-11367: You will forfeit all jingly earned this game if you give up. Are you sure?
-11368: Really give up? [Yes./No.]
-11369: You receive $0 jingly for a total of $1.
-11370: You have reached the jingly cap of $0. Any additional jingly will be lost.
-11371: An error has occurred. Please try again.
-11372: DEBUG ( [OFF/ON]
-11373: RANDOMF0-$0 ( $1
-11374: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
-11375: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
-11376: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
-11377: 
-11378: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
-11379: NPC Selection ( Area $0
-11380: DEBUGFNPC Selection Controls ( [OFF/ON]
-11381: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
-11382: Ohohohohohoho! How impressive!
-11383: A demon messenger regaled me with the whole story.
-11384: How you joined forces with the beastmen to defeat both Chaos and the Maelstrom Mage Garazu-Horeizu...
-11385: You need not have worked so hard; you could have asked for our help, you know!
-11386: Although, despite my shock, I must say that I am also somewhat in awe. Ohohohohohoho!
-11387: Now then, I should like to hear every last detail of the ordeal from the one who lived it.
-11388: Just what kind of magic did they use? And what was the battle itself like?
-11389: My, my, my... Using such ancient magic to summon forth phantom projections...
-11390: <Sigh> How unfortunate to lose one bearing such knowledge to the annals of history!
-11391: Although, I suppose he actually died some time ago.
-11392: At any rate, he was using actual souls for his experiments, right?
-11393: He truly was a strange individual, wishing to become such a beast, despite obtaining ancient and powerful magic.
-11394: If it had been me, I would have used Chaos to create a world where everyone could thrive.
-11395: Ooh... The end is nigh... The end...is upon us...
-11396: What did you say!?
-11397: Although, I suppose it is not as outlandish as it sounds.
-11398: The power of the crystals from the astral plane--the ability to draw upon the power of life itself--is more than sufficient to devour the world.
-11399: If the cycle of soul rebirth were to break down again, it could awaken the beast from its slumber once more.
-11400: In fact, we can already see the effects this ordeal has had throughout the world.
-11401: Take, for example, the countless dead that continue to roam the land.
-11402: They were resurrected via the power of life bestowed upon them by Chaos, and were then controlled by the Maelstrom Mage's magic.
-11403: I heard later that the eye-like symbol at the heart of his ritual is something that has a long history in Aht Urhgan.
-11404: That may be why it is still not easily understood, even after his death. Why does everything have to be so difficult!?
-11405: Although, I suppose that it also means that it is easier for me to research his ritual now.
-11406: I am also somewhat concerned about the news that there is yet another World Eater Egg in Aht Urhgan.
-11407: They say that we need not worry since it lies deep within the ocean, but can we trust that assertion?
-11408: Ah, that reminds me... You must not forget about the Maelstrom Mage's disciple, Uran-Mafran.
-11409: Although, it seems that true to form, Koru-Moru has already forgotten about Uran-Mafran...
-11410: I, however, have not.
-11411: I still desire to read the Maelstrom Mage's Maelstrom Theory... In fact, I feel compelled to read it.
-11412: Since then, I have searched the Optistery library numerous times, but have yet to find it.
-11413: As such, I imagine the tome is in the possession of none other than...
-11414: The Maelstrom Mage's descendant, the one and only Uran-Mafran. Indeed, that is the only logical explanation.
-11415: Therefore, you can leave the matter to me.
-11416: By the way, it goes without saying, but my search for this forbidden book is to be kept secret, understand?
-11417: Ohohohohohoho!
-11418: Hurry up now and accept my payment for your silence.
-11419: Remember, no one is to know of my search for the book.
-11420: The Maelstrom Mage was capable of that which I am not--the ability to manipulate others through magic.
-11421: The reason for this discrepancy is I have no need for such an ability.
-11422: Because everyone is powerless before my infinite might! Ohohohohohoho!
-11423: You are now able to enjoy a new storyline, A Crystalline Prophecy.
-11424: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
-11425: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-11426: You are now able to enjoy a new storyline, A Shantotto Ascension.
-11427: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
-11428: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-11429: You are now able to enjoy a new storyline, Abyssea.
-11430: Start Abyssea? [Yes (View cutscene)./Maybe later.]
-11431: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-11432: You are now able to enjoy a new storyline, Chains of Promathia.
-11433: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
-11434: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-11435: You are now able to enjoy a new storyline, Seekers of Adoulin.
-11436: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
-11437: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
-11438: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
-11439: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
-11440: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-11441: You are now able to enjoy a new storyline, Rise of the Zilart.
-11442: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
-11443: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-11444: Would you like to start a new storyline that you previously postponed?
-11445: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-11446: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-11447: Start the storyline? [Yes, please./No, thank you.]
-11448: Welcome to the Race Change service, kupo!
-11449: Please check the official website for more details regarding our service.
-11450: Thank you for using the Race Change service, adventurer!
-11451: If you have any dancer gender-specific armor, I can exchange them for ones that better suit your new form, kupo!
-11452: You have $0 more day[/s] to use this service, kupo.
-11453: You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
-11454: You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
-11455: You have $2 second[/s] remaining to use this service, kupo.
-11456: Please make sure to exchange your $3 while it is still valid, kupo.
-11457: Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!
-11458: Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!
-11459: Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]
-11460: You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera.
-11461: You will lose your character's current appearance. Are you sure you want to exit the process?
-11462: Are you finished making changes? [Yes./No.]
-11463: Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]
-11464: Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]
-11465: Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]
-11466: Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]
-11467: Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]
-11468: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
-11469: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
-11470: You can trade any gender-specific dancer armor to the % to receive a version that better suits your new form.
-11471: Certain items can be exchanged for equippable ones by speaking with %.
-11472: Applicable items can be checked with % after changing races.
-11473: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
-11474: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
-11475: This will change your character's appearance. Are you sure?
-11476: Change your character to this appearance? [Yes./No.]
-11477: Are you absolutely sure? [Yes./No.]
-11478: May Altana bless you as you begin your new life, kupo!
-11479: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
-11480: Let me see if you have any.
-11481: Items held by NPCs or stored with storage slips are ineligible.
-11482: Have the moogle check? [Yes, please./No, thank you.]
-11483: Let's get down to business, kupo.
-11484: I can take the following:
-11485: Your $0.
-11486: That should cover it!
-11487: Wait...I can't take anything you have.
-11488: You were unable to use the specified appearance for your character.
-11489: eye X=$0 Y=$1 Z=$2
-11490: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)
+11106: ...
+11107: ...
+11108: You didn't fall asleep just now, right? Because if you are, you'll be in for quite a fright.
+11109: Ah, that's it-areeno! The egg! The "World Eater Egg"!
+11110: What did you just say!? Repeat it again clearly, so that we are not led astray.
+11111: W-we need more details-ethy! And please-ethy, keep it simple!
+11112: The beginning of the maelstrom theory stated that it was a story-areeno told by the Yagudo reg-riddly-regarding a mysterious egg found in Sauromugue Champaign a long time ago.
+11113: The monsteroo that hatched from the egg was terrifyingly strong, and it possessed such vitality that it was res-riddly-surrected every time it was defeated.
+11114: I know that story. It's the story-ethy of the Nesnas. Did it really exist-ethy?
+11115: The Maelstrom Mage heard a similar story about an egg in a corner of Aht Urhgan. It was known as the "World Eater Egg."
+11116: To think that the Maelstrom Mage actually saw this World Eater Egg three hundred years ago... He is clearly one formidable foe.
+11117: The World Eater Egg is a mysterious egg-areeno that cannot everoo be broken.
+11118: However, once the monsteroo hatches, it is a creature with the ability-dility to be infinitely resurrected.
+11119: Just what is this poweroo of resurrection?
+11120: And what is the source-areeno of that poweroo...
+11121: Whatever it is, that source must enable an infinite stream of magic to flow. Ohohohoho!
+11122: I got it! Maybe the source of this power of resurrection-ethy is the one that birthed the egg!?
+11123: I imagine that if a being is to be eternally resurrected... It would require a source of magical power with the equivalent of many lives injected.
+11124: It may even be something as simple as a magic doll. Yet, I suppose it'd be difficult to properly resurrect something so many times if it were to fall.
+11125: Well, it was the story-ethy of Nesnas. I know... What if it was a being with the power to control life-ethy?
+11126: Indeed, there is the great Phoenix that I can recall... Not that I am trying to be some kind of know-it-all.
+11127: I suppose it could be a possibility. However, as far as I know, Phoenix exists solely to save lives in the future so as to maintain stability.
+11128: As such, I don't think it is capable of birthing the World Eater Egg. This clearly takes our theory down a peg.
+11129: Hmm... So then what is the source-ethy of this power, Professor Koru-Moru!?
+11130: In order to investigate the source, the Maelstrom Mage seems to have dir-diddily-directly asked the Star Sibyl for help-aroo searching for the World Eater Egg.
+11131: What!? Although it appears he was refused-ethy...
+11132: It seems that made him quite upset! I think we were lucky to successfully avoid that threat.
+11133: Yes, that seems to be the case-areeno. However, he appears to have obtained new infomation when he started-areeno the Fourth Yagudo War.
+11134: And what information-ethy is that!?
+11135: Near the end of the book containing the maelstrom theory, there were some scribbles reg-riddly-regarding a large dragon known as "Chaos."
+11136: There was also an arrow-areeno between Chaos and the World Eater Egg...
+11137: Wait! Wait a second! The mystery-ethy is solved! This "Chaos" must be the one that gave birth to the "World Eater Egg"!
+11138: Hm? <Player>...
+11139: You look like you have something to say. Spit it out already, we don't have all day.
+11140: I knew it all along. You hid this knowledge from us, even though you knew it was wrong.
+11141: Yeah, what's the matter with you-ethy!? It's not nice to just sit there-ethy and let me think I made some amazing new discovery!
+11142: And on top of that, what about this Caboose-ethy!? It went on a rampage trying to destroy all living things, yet a handful of beastmen-ethy were able to stop it!
+11143: Hearing that Caboose was defeated five thousand years ago makes my eyes all teary. This could've been our chance to complete the maelstrom theory.
+11144: Doctor Shantotto, have you forgotten that talk-ethy of the maelstrom theory has been banned? Isn't simply being involved with such a book-ethy an act of treason?
+11145: Everyone, re-riddly-main calm. Also, it's "Chaos," not "Caboose."
+11146: Moreover, this adventurer-eeno is clearly confused about a variety of things-areeno.
+11147: There is a good chance that much-aroo like us, [he/she] is under the influence of Uran-Mafran's memory manipulation madiddly-magic.
+11148: Ooh... Memories...stolen...
+11149: Look, Memorian is reacting just-areeno as I anticipated.
+11150: Huh!? Does that mean there might be more to learn? And here I thought there was no more to discern.
+11151: It certainly does mean-areeno that. Here, I'll give this madiddly-magic doll to you.
+11152: It should re-riddily-act to the memories that were tampered with by Uran-Mafran and then remove the effects of his spell-areeno.
+11153: When you have a moment-areeno, you should try visiting locations-aroo that you have been to before.
+11154: <Player>, if you find anything regarding the maelstrom theory, come to me at once. That is not the kind of information that should be shared with a mere dunce.
+11155: No, you should tell me-ethy or Professor Koru-Moru first. It is vital that any buds of rebellion-ethy are plucked before they can sprout.
+11156: Professor Yoran-Oran, I need to examine the maelstrom theory. In order to understand the Maelstrom Mage, I must pore over it until my eyes are tired and bleary.
+11157: If Uran-Mafran's memories ever re-riddily-return, I'd like to capture and question-areeno him.
+11158: Yes, I wholeheartedly agree. This is no time for me to squabble with thee.
+11159: We must get to the bottom of these mysteries before Uran-Mafran returns. Then we can see just how brightly this plot burns.
+11160: Finally, <Player>, I would like to give you this. If I let you leave without it, I would certainly be remiss.
+11161: I believe it will help you on your journey to restore your memories. Be sure to keep it with your most prized accessories.
+11162: It is always good to prepare for the worst. Now then, I think you should visit the Kingdom of San d'Oria first.
+11163: Prince Trion has been quite vocal about various things. Especially regarding what kind of power the World Eater Egg brings.
+11164: Of course, there is no need to mention the maelstrom theory. If you do, you will not find my mood to be so cheery.
+11165: The maelstrom theory is a forbidden book, so you can be charged with treason. And I won't really care if you have a good reason!
+11166: Is this another side effect that Uran-Mafran's memory manipulation has brought? Here, take this $1 that you forgot.
+11167: I'm told that you should take the magic doll modified by Professor Koru-Moru as well. Maybe it can help break through Uran-Mafran's spell.
+11168: If you have no set destination in mind, head for the Kingdom of San d'Oria before your memory's completely in tatters. Prince Trion seems to be quite curious about a variety of interesting matters.
+11169: You should try to meet with him soon. Otherwise, he's likely to put on a disguise and sneak out of the country at the next full moon.
+11170: Umm... This isn't good-areeno... I'm trying to riddly-recall my time as minister in order to remember-aroo Uran-Mafran's weakness...
+11171: There must have been at least one student-aroo he was close with, but I can't recollect the name. I know he was male though... Yes, definitely male-areeno.
+11172: The Maelstrom Mage, Garazu-Horeizu, died during the Fourth Yagudo War, and his soul-ethy was summoned by the demon and invited to Valhalla.
+11173: Then, over the course of hundreds of years, he completed his maelstrom theory-ethy and acquired a source of inexhaustible magical power, enabling him to launch a rebellion-ethy against Odin.
+11174: Based on our current assumptions, is such a thing possible-ethy, even when considering his vast intellect-ethy?
+11175: Ah, it's you. Your face appears to be rather fresh and true.
+11176: You look as if a great weight has been lifted from your heart. Yes, your aura has brightened considerably since I saw you last depart.
+11177: Arrrrrrg... It's over... It's all over...
+11178: Oh, it seems that magic doll has served its purpose at last. Now we can put its sinister visage in the past.
+11179: Very well. What happens next, only time will tell.
+11180: Now that it's all over, this magic doll is kind of cute, I must say... On second thought, I take that back. Clearly, the influence of Koru-Moru is still at play.
+11181: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
+11182: You must take on the "$0" Records of Eminence objective before receiving the explanation.
+11183: You must complete "$1" before taking on the "$0" Records of Eminence objective.
+11184: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
+11185: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
+11186: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
+11187: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
+11188: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
+11189: You can change the CTRL+Q shortcut command...
+11190: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
+11191: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
+11192: You must meet one of the following conditions in order to post to the Assist Channel.
+11193: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
+11194: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
+11195: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
+11196: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+11197: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
+11198: The Assist Channel can only be used in the following areas.
+11199: Available areas: $7, $7, $7, $7, $7, $7...
+11200: ...$7, $7, $7, $7, $7, $7, $7, $7...
+11201: ...$7, $7, $7, $7, $7, $7, $7, $7...
+11202: ...$7, $7, $7, and your Mog House (Rent-a-Room).
+11203: You cannot post or read messages outside of the areas listed above.
+11204: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
+11205: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
+11206: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
+11207: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
+11208: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
+11209: The higher the number, the more experienced the mentor is.
+11210: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
+11211: You can check your Mastery Rank by going to Main Menu > Status > Profile.
+11212: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
+11213: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
+11214: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
+11215: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
+11216: A "Warning" is a feature that can only be used by mentors.
+11217: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
+11218: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
+11219: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
+11220: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
+11221: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
+11222: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
+11223: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
+11224: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
+11225: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
+11226: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
+11227: You are about to lose the ability to post messages to the Assist Channel.
+11228: You are unable to post messages to the Assist Channel.
+11229: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
+11230: Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals.
+11231: How may I help you today?
+11232: What do you desire? [Nothing for now./Show me recruiting linkshells./I'd like to hand out $0./Tell me more./Open up the linkshell window.]
+11233: It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
+11234: Excellent. Please select which linkshell you are interested in contacting.
+11235: Are you certain?
+11236: Really receive the linkpearl? [Of course./No, thank you.]
+11237: In the interest of fairness, I am unable to distribute multiple linkpearls to someone on the same day. Please come back tomorrow.
+11238: It is my sincere pleasure to bestow this upon you.
+11239: Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting.
+11240: I have prepared a small manual describing the importance of treating others with respect. Please have a quick glance at it when you have a moment.
+11241: May your new linkshell provide you with fond memories that will last a lifetime.
+11242: Though it pains me to say this, I have no $0 that meet your requirements at this time.
+11243: Should you desire, I can cancel your registration.
+11244: Cancel registration? [Yes, please./Not at this time.]
+11245: Should you desire to look for members, I can distribute $1 in your stead by utilizing the energies continued within your equipped $0.
+11246: During the process, please equip either $1 or $2 as Linkshell 1 and select "I'd like to hand out $0."
+11247: One that step has been completed, I will ask you a series of questions.
+11248: To cancel your registration, equip $1 or $2 as Linkshell 1, speak to me again, and select the appropriate linkshell from the list.
+11249: Unfortunately, only those equipped with $1 or $2 as Linkshell 1 are able to distribute $0.
+11250: Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home.
+11251: Linkshell concierges such as myself bring together adventurers of similar interests.
+11252: In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members.
+11253: I accept $0 from linkshells the world over and distribute them to appropriate adventurers.
+11254: This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate.
+11255: Additionally, please be aware that I am only able to offer you one $0 per day.
+11256: Though we would like to offer this service free of charge, the network has its own expenses that must be paid, so we charge a nominal fee of $0 gil at the time of registration.
+11257: It is also worth noting that $0 can only be registered by adventurers who have been active in Vana'diel for at least $1 days (Earth time).
+11258: It is worth noting that each concierge may only register a maximum of $0 linkshells.
+11259: Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest.
+11260: Server maintenances will also immediately cancel all registrations, so be sure to keep your information up-to-date.
+11261: Thank you for taking the time to use our service. Let me confirm the information contained within.
+11262: , correct?
+11263: LS0: .
+11264: LS1: .
+11265: LS0: (No sending).
+11266: LS1: (No sending).
+11267: Shall I start looking for new members for a fee of $1 gil?
+11268: Look for new members? ($0 gil) [That sounds wonderful./I'd rather not.]
+11269: I'm quite sorry to hear you decline. Please let me know if you change your mind.
+11270: I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style.
+11271: What is your language preference? [Japanese./English./Other./Back.]
+11272: What days are you most active? [Every day./Weekends and holidays./Weekdays./Monday./Tuesday./Wednesday./Thursday./Friday./Saturday./Sunday./Back.]
+11273: What days are you most active? [[-/Z]No day set./[-/Z]Mondays./[-/Z]Tuesdays./[-/Z]Wednesdays./[-/Z]Thursdays./[-/Z]Fridays./[-/Z]Saturdays./[-/Z]Sundays./[-/Z]Holidays./Back./Next./Update.]
+11274: When do you [start/stop] playing on [weekdays/weekends]? [No time set./12:00 a.m./1:00 a.m.":00 a.m.":00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m.":00 p.m.":00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./10:00 p.m./11:00 p.m./Back.]
+11275: Designate a time zone. [No designation./Japanese Standard Time (JST)./Pacific Time (PST|PDT)./Greenwich Mean Time (GMT)./Back.]
+11276: What time are you active? (JST) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
+11277: What time are you active? (PST|PDT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
+11278: What time are you active? (GMT) [In the morning./In the afternoon./In the evening./At night./In the wee hours of the morning./Return to previous selection.]
+11279: How many members are you looking for? [1."."./4./5./6./7./8./9./10./Back.]
+11280: How many active members do you have? [1-6./7-18./19+./Back.]
+11281: How would you characterize your linkshell? [[|/Z] No info provided./[|/Z] New players welcome./[|/Z] Returnees welcome./[|/Z] Adults only./[|/Z] 10 year veterans active./[|/Z] Casual players./[|/Z] Battle and synthesis support./[|/Z] Anyone welcome./[|/Z] End content-focused./[|/Z] Ambuscade-focused./[|/Z] Never give up./[|/Z] High-end gear./[|/Z] Looking for crafters./[|/Z] Trial memberships welcome./[|/Z] Multiple linkshells OK./[|/Z] Community events held./[|/Z] New linkshell./Back./Next./Update.]
+11282: Linkshell characteristics. [No info provided./New players welcome./Returnees welcome./Adults only./10 year veterans active./Casual players./Battle and synthesis support./Anyone welcome./End content-focused./Ambuscade-focused./Never give up./High-end gear./Looking for crafters./Trial memberships welcome./Multiple linkshells OK./Community events held./New linkshell./Back]
+11283: Style: [Do everything/Engage in hard-core battle content/Engage in casual battle content/Vanquish HNMs/Meet other new players/Assist each other/Engage in synthesis and trading/Nothing].
+11284: Language: [/Japanese/English/Other].
+11285: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (JST)/in the afternoon (JST)/in the evening (JST)/at night (JST)/in the wee hours of the morning (JST)].
+11286: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (PST|PDT)/in the afternoon (PST|PDT)/in the evening (PST|PDT)/at night (PST|PDT)/in the wee hours of the morning (PST|PDT)].
+11287: Most active: [Every day/Weekends/Weekdays/Mondays/Tuesdays/Wednesdays/Thursdays/Fridays/Saturdays/Sundays] [at no time in particular/in the morning (GMT)/in the afternoon (GMT)/in the evening (GMT)/at night (GMT)/in the wee hours of the morning (GMT)].
+11288: Looking for $4 more member[/s].
+11289: Please review the content of your linkshell. I will start looking for new members once you have confirmed that everything is in order.
+11290: Linkshell info (can be changed): [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Cancel without posting./Post recruitment.]
+11291: Information for : [Language: [./JP/EN/Other]./Number of New Members Wanted: $!./Active Members: "[1-6/7-18/19+]./Time Zone: #[Not set/JST/PST|PDT/GMT]./Days Active: [/Not Set.][/M][/Tu][/W][/Th][/F][/Sa][/Su][/, Holidays]./Times Active (Weekdays): Not set./Times Active (Weekdays): $[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to %[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Times Active (Weekend): Not set. /Times Active (Weekend): &[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.] to '[12:00 a.m./1:00 a.m./2:00 a.m./3:00 a.m./4:00 a.m./5:00 a.m./6:00 a.m./7:00 a.m./8:00 a.m./9:00 a.m./10:00 a.m./11:00 a.m./12:00 p.m./1:00 p.m./2:00 p.m./3:00 p.m./4:00 p.m./5:00 p.m./6:00 p.m./7:00 p.m./8:00 p.m./9:00 p.m./ 10:00 p.m./11:00 p.m.]/Linkshell characteristics./Date posted: //./Receive $1027./Delist./Back.]
+11292: I can start looking for new members immediately. Is this information correct?
+11293: What will you do? [Start looking for members./Stop the process.]
+11294: Your registration is officially complete.
+11295: May your journeys lead you to many as-yet-unmet friends, and may the bonds you forge last a lifetime.
+11296: Another member of that linkshell currently has an active registration. Please wait until that registration expires and try again.
+11297: A manual describing proper chat manners floats in front of you.
+11298: Read up on which topic? [None for now./I don't know what to talk about./How can I get people to like me?/What shouldn't I do?/What happens if we don't mesh?]
+11299: Perhaps consider starting with a simple greeting. Something like...
+11300: "Hello, everyone. My name's <Player>. Nice to meet you!"
+11301: Of course, injecting your own personal flavor may act as a conversation starter and help people to remember you.
+11302: No matter which route you choose, make sure to always remain polite. There is no better way to start a friendship off on the right foot.
+11303: When speaking with others, it's critical to listen and be mindful of what they say.
+11304: Always talking and never listening may come across as rude.
+11305: Another important point is to always be mindful of the listener. How would you feel if someone said that to you? Think carefully before sending someone a message.
+11306: It also helps to be clear and concise.
+11307: Being vague might cause others to get the wrong impression.
+11308: Be extremely careful when giving out personal information such as your address or telephone number.
+11309: Furthermore, refrain from making disparaging or aggressive remarks.
+11310: Once you are close to someone, you may be more comfortable letting your hair down, but it is strongly recommended that you refrain from any actions that may be construed as harassment.
+11311: After joining a linkshell, you may find that you have difficulty participating in conversation or that your personality is too different from the other members.
+11312: One of your options in such a situation is to inform the linkshell leader and then leave.
+11313: Finding a linkshell that is the perfect fit might not always be easy, but there is certainly a group out there that will match your feelings and goals.
+11314: Once you find those kinds of friends, hold them fast and value them as much as they value you. There is no better way to enjoy life in Vana'diel.
+11315: The linkshell concierge opens up a tiny notebook...
+11316: Here you can play the game Mandragora Mania.
+11317: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
+11318: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
+11319: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
+11320: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
+11321: You may pay $& gil to reset all rewards, enabling you to purchase them again.
+11322: Reset rewards? ($' gil). [Yes ($& gil)./No.]
+11323: You do not have enough gil.
+11324: All rewards have been reset.
+11325: You have already purchased the $2.
+11326: You need at least $3 jingly to purchase the $2.
+11327: The reward exchange period has turned over and all rewards have been reset.
+11328: You may reset all rewards from the appropriate dialogue box.
+11329: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
+11330: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
+11331: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
+11332: Starting player set to [Random/You/Opponent].
+11333: Read the manual? [Sure./No thanks.]
+11334: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
+11335: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
+11336: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
+11337: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
+11338: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
+11339: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
+11340: You must choose one area--either yours or a neutral one--to proceed.
+11341: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
+11342: Conversely, your opponent must select either a neutral area or an area that belongs to them.
+11343: From the right, those areas are numbered 6, 4, 7, 2, and 8.
+11344: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
+11345: Note that the mandragoras will move from the back first--last in, first out.
+11346: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
+11347: You will enter your opponent's territory whenever you go past the goal.
+11348: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
+11349: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
+11350: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
+11351: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
+11352: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
+11353: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
+11354: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
+11355: Standard mandragoras: 1 jingly (both players).
+11356: The game is over when either you or your opponent no longer has any mandragoras that can move.
+11357: The player who has the most jingly at that point will be declared the winner.
+11358: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
+11359: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
+11360: You have selected Area $0.
+11361: You receive $0 jingly for a total of $1.
+11362: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
+11363: Your opponent has selected Area $0.
+11364: Your opponent receives $0 jingly for a total of $1.
+11365: Game Complete!
+11366: [Victory!/Defeat!/Draw!] ($0 - $1)
+11367: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
+11368: That area has no mandragora to move.
+11369: You will forfeit all jingly earned this game if you give up. Are you sure?
+11370: Really give up? [Yes./No.]
+11371: You receive $0 jingly for a total of $1.
+11372: You have reached the jingly cap of $0. Any additional jingly will be lost.
+11373: An error has occurred. Please try again.
+11374: DEBUG ( [OFF/ON]
+11375: RANDOMF0-$0 ( $1
+11376: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
+11377: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
+11378: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
+11379: 
+11380: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
+11381: NPC Selection ( Area $0
+11382: DEBUGFNPC Selection Controls ( [OFF/ON]
+11383: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
+11384: Ohohohohohoho! How impressive!
+11385: A demon messenger regaled me with the whole story.
+11386: How you joined forces with the beastmen to defeat both Chaos and the Maelstrom Mage Garazu-Horeizu...
+11387: You need not have worked so hard; you could have asked for our help, you know!
+11388: Although, despite my shock, I must say that I am also somewhat in awe. Ohohohohohoho!
+11389: Now then, I should like to hear every last detail of the ordeal from the one who lived it.
+11390: Just what kind of magic did they use? And what was the battle itself like?
+11391: My, my, my... Using such ancient magic to summon forth phantom projections...
+11392: <Sigh> How unfortunate to lose one bearing such knowledge to the annals of history!
+11393: Although, I suppose he actually died some time ago.
+11394: At any rate, he was using actual souls for his experiments, right?
+11395: He truly was a strange individual, wishing to become such a beast, despite obtaining ancient and powerful magic.
+11396: If it had been me, I would have used Chaos to create a world where everyone could thrive.
+11397: Ooh... The end is nigh... The end...is upon us...
+11398: What did you say!?
+11399: Although, I suppose it is not as outlandish as it sounds.
+11400: The power of the crystals from the astral plane--the ability to draw upon the power of life itself--is more than sufficient to devour the world.
+11401: If the cycle of soul rebirth were to break down again, it could awaken the beast from its slumber once more.
+11402: In fact, we can already see the effects this ordeal has had throughout the world.
+11403: Take, for example, the countless dead that continue to roam the land.
+11404: They were resurrected via the power of life bestowed upon them by Chaos, and were then controlled by the Maelstrom Mage's magic.
+11405: I heard later that the eye-like symbol at the heart of his ritual is something that has a long history in Aht Urhgan.
+11406: That may be why it is still not easily understood, even after his death. Why does everything have to be so difficult!?
+11407: Although, I suppose that it also means that it is easier for me to research his ritual now.
+11408: I am also somewhat concerned about the news that there is yet another World Eater Egg in Aht Urhgan.
+11409: They say that we need not worry since it lies deep within the ocean, but can we trust that assertion?
+11410: Ah, that reminds me... You must not forget about the Maelstrom Mage's disciple, Uran-Mafran.
+11411: Although, it seems that true to form, Koru-Moru has already forgotten about Uran-Mafran...
+11412: I, however, have not.
+11413: I still desire to read the Maelstrom Mage's Maelstrom Theory... In fact, I feel compelled to read it.
+11414: Since then, I have searched the Optistery library numerous times, but have yet to find it.
+11415: As such, I imagine the tome is in the possession of none other than...
+11416: The Maelstrom Mage's descendant, the one and only Uran-Mafran. Indeed, that is the only logical explanation.
+11417: Therefore, you can leave the matter to me.
+11418: By the way, it goes without saying, but my search for this forbidden book is to be kept secret, understand?
+11419: Ohohohohohoho!
+11420: Hurry up now and accept my payment for your silence.
+11421: Remember, no one is to know of my search for the book.
+11422: The Maelstrom Mage was capable of that which I am not--the ability to manipulate others through magic.
+11423: The reason for this discrepancy is I have no need for such an ability.
+11424: Because everyone is powerless before my infinite might! Ohohohohohoho!
+11425: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+11426: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
+11427: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
+11428: You are now able to enjoy a new storyline, A Shantotto Ascension.
+11429: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
+11430: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
+11431: You are now able to enjoy a new storyline, Abyssea.
+11432: Start Abyssea? [Yes (View cutscene)./Maybe later.]
+11433: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
+11434: You are now able to enjoy a new storyline, Chains of Promathia.
+11435: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
+11436: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
+11437: You are now able to enjoy a new storyline, Seekers of Adoulin.
+11438: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
+11439: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
+11440: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+11441: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
+11442: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
+11443: You are now able to enjoy a new storyline, Rise of the Zilart.
+11444: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
+11445: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
+11446: Would you like to start a new storyline that you previously postponed?
+11447: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+11448: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+11449: Start the storyline? [Yes, please./No, thank you.]
+11450: Welcome to the Race Change service, kupo!
+11451: Please check the official website for more details regarding our service.
+11452: Thank you for using the Race Change service, adventurer!
+11453: If you have any dancer gender-specific armor, I can exchange them for ones that better suit your new form, kupo!
+11454: You have $0 more day[/s] to use this service, kupo.
+11455: You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+11456: You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+11457: You have $2 second[/s] remaining to use this service, kupo.
+11458: Please make sure to exchange your $3 while it is still valid, kupo.
+11459: Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!
+11460: Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!
+11461: Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]
+11462: You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera.
+11463: You will lose your character's current appearance. Are you sure you want to exit the process?
+11464: Are you finished making changes? [Yes./No.]
+11465: Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]
+11466: Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]
+11467: Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]
+11468: Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]
+11469: Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]
+11470: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
+11471: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
+11472: You can trade any gender-specific dancer armor to the % to receive a version that better suits your new form.
+11473: Certain items can be exchanged for equippable ones by speaking with %.
+11474: Applicable items can be checked with % after changing races.
+11475: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
+11476: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
+11477: This will change your character's appearance. Are you sure?
+11478: Change your character to this appearance? [Yes./No.]
+11479: Are you absolutely sure? [Yes./No.]
+11480: May Altana bless you as you begin your new life, kupo!
+11481: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
+11482: Let me see if you have any.
+11483: Items held by NPCs or stored with storage slips are ineligible.
+11484: Have the moogle check? [Yes, please./No, thank you.]
+11485: Let's get down to business, kupo.
+11486: I can take the following:
+11487: Your $0.
+11488: That should cover it!
+11489: Wait...I can't take anything you have.
+11490: You were unable to use the specified appearance for your character.
+11491: eye X=$0 Y=$1 Z=$2
+11492: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)

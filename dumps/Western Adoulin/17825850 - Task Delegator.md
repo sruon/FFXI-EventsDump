@@ -43,10 +43,10 @@
 |      15 | 0x000F      |          15 |
 |      16 | 0x0001      |           1 |
 |      17 | 0x0012      |          18 |
-|      18 | 0x5460      |       21600 |
-|      19 | 0x4D58      |       19800 |
-|      20 | 0x4650      |       18000 |
-|      21 | 0x3F48      |       16200 |
+|      18 | 0x2A30      |       10800 |
+|      19 | 0x2328      |        9000 |
+|      20 | 0x1C20      |        7200 |
+|      21 | 0x1518      |        5400 |
 |      22 | 0x08A2      |        2210 |
 |      23 | 0x1C9A      |        7322 |
 |      24 | 0x0006      |           6 |
@@ -2652,16 +2652,16 @@
 
 SUBROUTINE_00B6:
  30: 0x00B6 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x00C6
- 31: 0x00BE [0x03] ExtData[1]->WorkLocal[30] = 21600*
+ 31: 0x00BE [0x03] ExtData[1]->WorkLocal[30] = 10800*
  32: 0x00C3 [0x01] GOTO 0x00F6
  33: 0x00C6 [0x02] IF !(ExtData[1]->WorkLocal[28] == 1*) GOTO 0x00D6
- 34: 0x00CE [0x03] ExtData[1]->WorkLocal[30] = 19800*
+ 34: 0x00CE [0x03] ExtData[1]->WorkLocal[30] = 9000*
  35: 0x00D3 [0x01] GOTO 0x00F6
  36: 0x00D6 [0x02] IF !(ExtData[1]->WorkLocal[28] == 2*) GOTO 0x00E6
- 37: 0x00DE [0x03] ExtData[1]->WorkLocal[30] = 18000*
+ 37: 0x00DE [0x03] ExtData[1]->WorkLocal[30] = 7200*
  38: 0x00E3 [0x01] GOTO 0x00F6
  39: 0x00E6 [0x02] IF !(ExtData[1]->WorkLocal[28] == 3*) GOTO 0x00F6
- 40: 0x00EE [0x03] ExtData[1]->WorkLocal[30] = 16200*
+ 40: 0x00EE [0x03] ExtData[1]->WorkLocal[30] = 5400*
  41: 0x00F3 [0x01] GOTO 0x00F6
 
 SUBROUTINE_00F6:

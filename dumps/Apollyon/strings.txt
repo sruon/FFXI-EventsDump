@@ -1,5 +1,5 @@
 # Strings for Apollyon
-# Total: 7305 strings
+# Total: 7316 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7252,7 +7252,7 @@
  7248: NW/SW/NE/SE areas contain monsters for recording data in your $3.
  7249: Successfully recording data will permit you to open Apollyon Coffers.
  7250: You will also be authorized to collect a special currency called Apollyon Units.
- 7251: Systems are only capable of recording data for each registrant a total of five times per week (Earth time).
+ 7251: Systems are only capable of recording data for each registrant up to five times per week (Earth time).
  7252: Apollyon Units can be used in the Apollyon Furnace.
  7253: Please use it to your advantage.
  7254: Special Limbus buffs known as Grace are also available to those who have deposited a sufficient amount of currency.
@@ -7295,14 +7295,25 @@
  7291: Here is a quick rundown.
  7292: One: they do not take your set level into account.
  7293: Two: there are 22 types, but only 4 will appear on any given day (Earth time).
- 7294: Three: vanquishing them affects the contents of the following week's Apollyon Coffer.
+ 7294: Three: vanquishing them affects the contents of the Apollyon Coffer obtainable four weeks later.
  7295: This should enable you to collect even more precise data.
  7296: The $0 changes form when one uses Apollyon Units.
  7297: It can produce special equipment.
  7298: The produced equipment can be further infused.
- 7299: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7300: slot:@ initStep:@ ticket:@ expire:@sec
- 7301: $P15[$P116$3f$593776$z%;5\5=B
- 7302: $60298775=B
- 7303: $3`$3P$3b$3gp$P14j$|5\5=B
- 7304: Error:@
+ 7299: 
+ 7300: 
+ 7301: 
+ 7302: 
+ 7303: 
+ 7304: 
+ 7305: 
+ 7306: 
+ 7307: 
+ 7308: 
+ 7309: 
+ 7310: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7311: slot:@ initStep:@ ticket:@ expire:@sec
+ 7312: $P15[$P116$3f$593776$z%;5\5=B
+ 7313: $60298775=B
+ 7314: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7315: Error:@

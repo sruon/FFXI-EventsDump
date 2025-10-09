@@ -105,37 +105,37 @@
 | 0x010F608B       |         17784971 | [Synergy Furnace](./17784971%20-%20Synergy%20Furnace.md)             |       11 |
 | 0x010F608C       |         17784972 | [Synergy Furnace](./17784972%20-%20Synergy%20Furnace.md)             |       11 |
 | 0x010F608D       |         17784973 | [Synergy Enthusiast](./17784973%20-%20Synergy%20Enthusiast.md)       |        2 |
-| 0x010F608E       |         17784974 | [(unnamed)](./17784974.md)                                           |        8 |
-| 0x010F608F       |         17784975 | [(unnamed)](./17784975.md)                                           |       12 |
-| 0x010F6090       |         17784976 | [(unnamed)](./17784976.md)                                           |        8 |
-| 0x010F6091       |         17784977 | [(unnamed)](./17784977.md)                                           |        7 |
+| 0x010F608F       |         17784975 | [(unnamed)](./17784975.md)                                           |        8 |
+| 0x010F6090       |         17784976 | [(unnamed)](./17784976.md)                                           |       12 |
+| 0x010F6091       |         17784977 | [(unnamed)](./17784977.md)                                           |        8 |
 | 0x010F6092       |         17784978 | [(unnamed)](./17784978.md)                                           |        7 |
-| 0x010F6093       |         17784979 | [Joachim](./17784979%20-%20Joachim.md)                               |       34 |
-| 0x010F6094       |         17784980 | [Zuah Lepahnyu](./17784980%20-%20Zuah%20Lepahnyu.md)                 |        3 |
-| 0x010F6095       |         17784981 | [Horst](./17784981%20-%20Horst.md)                                   |        2 |
-| 0x010F6096       |         17784982 | [Treasure Coffer](./17784982%20-%20Treasure%20Coffer.md)             |        2 |
-| 0x010F6097       |         17784983 | [Abyssea Campaign](./17784983%20-%20Abyssea%20Campaign.md)           |        4 |
-| 0x010F6098       |         17784984 | [Kindlix](./17784984%20-%20Kindlix.md)                               |        3 |
-| 0x010F6099       |         17784985 | [Pyropox](./17784985%20-%20Pyropox.md)                               |        3 |
-| 0x010F609A       |         17784986 | [Voidwatch Purveyor](./17784986%20-%20Voidwatch%20Purveyor.md)       |        3 |
-| 0x010F609B       |         17784987 | [Shemo](./17784987%20-%20Shemo.md)                                   |       42 |
-| 0x010F609C       |         17784988 | [Oboro](./17784988%20-%20Oboro.md)                                   |       40 |
-| 0x010F609D       |         17784989 | [Monisette](./17784989%20-%20Monisette.md)                           |        8 |
-| 0x010F609E       |         17784990 | [Shamis Coffer](./17784990%20-%20Shamis%20Coffer.md)                 |        2 |
-| 0x010F609F       |         17784991 | [Shamis Crate](./17784991%20-%20Shamis%20Crate.md)                   |        2 |
-| 0x010F60A0       |         17784992 | [Shamis Chest](./17784992%20-%20Shamis%20Chest.md)                   |        2 |
-| 0x010F60A4       |         17784996 | [(unnamed)](./17784996.md)                                           |        4 |
-| 0x010F60A5       |         17784997 | [Prishe](./17784997%20-%20Prishe.md)                                 |       13 |
-| 0x010F60A6       |         17784998 | [Tenzen](./17784998%20-%20Tenzen.md)                                 |        6 |
-| 0x010F60A7       |         17784999 | [Ulmia](./17784999%20-%20Ulmia.md)                                   |        5 |
-| 0x010F60A8       |         17785000 | [(unnamed)](./17785000.md)                                           |        3 |
+| 0x010F6093       |         17784979 | [(unnamed)](./17784979.md)                                           |        7 |
+| 0x010F6094       |         17784980 | [Joachim](./17784980%20-%20Joachim.md)                               |       34 |
+| 0x010F6095       |         17784981 | [Zuah Lepahnyu](./17784981%20-%20Zuah%20Lepahnyu.md)                 |        3 |
+| 0x010F6096       |         17784982 | [Horst](./17784982%20-%20Horst.md)                                   |        2 |
+| 0x010F6097       |         17784983 | [Treasure Coffer](./17784983%20-%20Treasure%20Coffer.md)             |        2 |
+| 0x010F6098       |         17784984 | [Abyssea Campaign](./17784984%20-%20Abyssea%20Campaign.md)           |        4 |
+| 0x010F6099       |         17784985 | [Kindlix](./17784985%20-%20Kindlix.md)                               |        3 |
+| 0x010F609A       |         17784986 | [Pyropox](./17784986%20-%20Pyropox.md)                               |        3 |
+| 0x010F609B       |         17784987 | [Voidwatch Purveyor](./17784987%20-%20Voidwatch%20Purveyor.md)       |        3 |
+| 0x010F609C       |         17784988 | [Shemo](./17784988%20-%20Shemo.md)                                   |       42 |
+| 0x010F609D       |         17784989 | [Oboro](./17784989%20-%20Oboro.md)                                   |       40 |
+| 0x010F609E       |         17784990 | [Monisette](./17784990%20-%20Monisette.md)                           |        8 |
+| 0x010F609F       |         17784991 | [Shamis Coffer](./17784991%20-%20Shamis%20Coffer.md)                 |        2 |
+| 0x010F60A0       |         17784992 | [Shamis Crate](./17784992%20-%20Shamis%20Crate.md)                   |        2 |
+| 0x010F60A1       |         17784993 | [Shamis Chest](./17784993%20-%20Shamis%20Chest.md)                   |        2 |
+| 0x010F60A5       |         17784997 | [(unnamed)](./17784997.md)                                           |        4 |
+| 0x010F60A6       |         17784998 | [Prishe](./17784998%20-%20Prishe.md)                                 |       13 |
+| 0x010F60A7       |         17784999 | [Tenzen](./17784999%20-%20Tenzen.md)                                 |        6 |
+| 0x010F60A8       |         17785000 | [Ulmia](./17785000%20-%20Ulmia.md)                                   |        5 |
 | 0x010F60A9       |         17785001 | [(unnamed)](./17785001.md)                                           |        3 |
-| 0x010F60AB       |         17785003 | [Mewk Chorosap](./17785003%20-%20Mewk%20Chorosap.md)                 |       28 |
-| 0x010F60AC       |         17785004 | [Synthesis Focuser II](./17785004%20-%20Synthesis%20Focuser%20II.md) |        7 |
-| 0x010F60AD       |         17785005 | [(unnamed)](./17785005.md)                                           |        4 |
-| 0x010F60AE       |         17785006 | [(unnamed)](./17785006.md)                                           |        3 |
-| 0x010F60AF       |         17785007 | [(unnamed)](./17785007.md)                                           |        7 |
-| 0x010F60B0       |         17785008 | [(unnamed)](./17785008.md)                                           |        4 |
-| 0x010F60B1       |         17785009 | [Munitions Moogle](./17785009%20-%20Munitions%20Moogle.md)           |        4 |
-| 0x010F60B3       |         17785011 | [Tales Beginning](./17785011%20-%20Tales%20Beginning.md)             |        2 |
+| 0x010F60AA       |         17785002 | [(unnamed)](./17785002.md)                                           |        3 |
+| 0x010F60AC       |         17785004 | [Mewk Chorosap](./17785004%20-%20Mewk%20Chorosap.md)                 |       28 |
+| 0x010F60AD       |         17785005 | [Synthesis Focuser II](./17785005%20-%20Synthesis%20Focuser%20II.md) |        7 |
+| 0x010F60AE       |         17785006 | [(unnamed)](./17785006.md)                                           |        4 |
+| 0x010F60AF       |         17785007 | [(unnamed)](./17785007.md)                                           |        3 |
+| 0x010F60B0       |         17785008 | [(unnamed)](./17785008.md)                                           |        7 |
+| 0x010F60B1       |         17785009 | [(unnamed)](./17785009.md)                                           |        4 |
+| 0x010F60B2       |         17785010 | [Munitions Moogle](./17785010%20-%20Munitions%20Moogle.md)           |        4 |
+| 0x010F60B4       |         17785012 | [Tales Beginning](./17785012%20-%20Tales%20Beginning.md)             |        2 |
 | 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                    |       59 |

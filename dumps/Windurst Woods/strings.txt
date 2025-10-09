@@ -1,5 +1,5 @@
 # Strings for Windurst Woods
-# Total: 15184 strings
+# Total: 15192 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -15160,28 +15160,36 @@
 15156: I have restored it to its intended functionality. Here you are!
 15157: It appears that your item is working as intended.
 15158: An error has occurred. Please try again later.
-15159: You are now able to enjoy a new storyline, A Crystalline Prophecy.
-15160: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
-15161: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-15162: You are now able to enjoy a new storyline, A Shantotto Ascension.
-15163: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
-15164: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-15165: You are now able to enjoy a new storyline, Abyssea.
-15166: Start Abyssea? [Yes (View cutscene)./Maybe later.]
-15167: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-15168: You are now able to enjoy a new storyline, Chains of Promathia.
-15169: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
-15170: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-15171: You are now able to enjoy a new storyline, Seekers of Adoulin.
-15172: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
-15173: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
-15174: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
-15175: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
-15176: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-15177: You are now able to enjoy a new storyline, Rise of the Zilart.
-15178: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
-15179: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-15180: Would you like to start a new storyline that you previously postponed?
-15181: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-15182: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-15183: Start the storyline? [Yes, please./No, thank you.]
+15159: You found a pumpkin containing $0!
+15160: You have found a pumpkin with $0 inside!
+15161: You have found all the pumpkins!
+15162: You have found seven or more pumpkins!
+15163: You sense the presence of a pumpkin in this area!
+15164: You have discovered a pumpkin! Cutting it open, you find $0 inside!
+15165: This pumpkin has already been claimed.
+15166: You have discovered five or more pumpkins!
+15167: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+15168: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
+15169: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
+15170: You are now able to enjoy a new storyline, A Shantotto Ascension.
+15171: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
+15172: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
+15173: You are now able to enjoy a new storyline, Abyssea.
+15174: Start Abyssea? [Yes (View cutscene)./Maybe later.]
+15175: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
+15176: You are now able to enjoy a new storyline, Chains of Promathia.
+15177: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
+15178: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
+15179: You are now able to enjoy a new storyline, Seekers of Adoulin.
+15180: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
+15181: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
+15182: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+15183: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
+15184: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
+15185: You are now able to enjoy a new storyline, Rise of the Zilart.
+15186: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
+15187: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
+15188: Would you like to start a new storyline that you previously postponed?
+15189: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+15190: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+15191: Start the storyline? [Yes, please./No, thank you.]

@@ -1,5 +1,5 @@
 # Strings for Metalworks
-# Total: 11531 strings
+# Total: 11539 strings
 
     0: The client sent an invalid value to the server!
     1: You cannot receive mission assignments at this time.
@@ -11532,3 +11532,11 @@
 11528: $ $0 .
 11529: Come again soon, kupo!
 11530: Pleasure doing business!, kupo!
+11531: You found a pumpkin containing $0!
+11532: You have found a pumpkin with $0 inside!
+11533: You have found all the pumpkins!
+11534: You have found seven or more pumpkins!
+11535: You sense the presence of a pumpkin in this area!
+11536: You have discovered a pumpkin! Cutting it open, you find $0 inside!
+11537: This pumpkin has already been claimed.
+11538: You have discovered five or more pumpkins!
