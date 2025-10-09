@@ -18,31 +18,31 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                       |   Events |
-|------------------|------------------|------------------------------------------------------------|----------|
-| 0x011030F4       |         17838324 | [ExitColiseum](./17838324%20-%20ExitColiseum.md)           |        2 |
-| 0x01103137       |         17838391 | [Noetic Ascension](./17838391%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103138       |         17838392 | [Noetic Ascension](./17838392%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103139       |         17838393 | [Noetic Ascension](./17838393%20-%20Noetic%20Ascension.md) |        2 |
-| 0x0110313A       |         17838394 | [Noetic Ascension](./17838394%20-%20Noetic%20Ascension.md) |        2 |
-| 0x0110313B       |         17838395 | [Noetic Ascension](./17838395%20-%20Noetic%20Ascension.md) |        2 |
-| 0x0110313C       |         17838396 | [Noetic Ascension](./17838396%20-%20Noetic%20Ascension.md) |        2 |
-| 0x0110313D       |         17838397 | [Noetic Ascension](./17838397%20-%20Noetic%20Ascension.md) |        2 |
-| 0x0110313E       |         17838398 | [Noetic Ascension](./17838398%20-%20Noetic%20Ascension.md) |        2 |
-| 0x0110313F       |         17838399 | [Noetic Ascension](./17838399%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103140       |         17838400 | [Noetic Ascension](./17838400%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103148       |         17838408 | [Treasure Coffer](./17838408%20-%20Treasure%20Coffer.md)   |        2 |
-| 0x01103149       |         17838409 | [Treasure Coffer](./17838409%20-%20Treasure%20Coffer.md)   |        2 |
-| 0x0110314A       |         17838410 | [Treasure Coffer](./17838410%20-%20Treasure%20Coffer.md)   |        2 |
-| 0x0110314B       |         17838411 | [Treasure Coffer](./17838411%20-%20Treasure%20Coffer.md)   |        2 |
-| 0x0110314C       |         17838412 | [Treasure Coffer](./17838412%20-%20Treasure%20Coffer.md)   |        2 |
-| 0x0110314D       |         17838413 | [Treasure Coffer](./17838413%20-%20Treasure%20Coffer.md)   |        2 |
-| 0x0110314E       |         17838414 | [Living Cairn](./17838414%20-%20Living%20Cairn.md)         |        3 |
-| 0x01103151       |         17838417 | [Noetic Ascension](./17838417%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103152       |         17838418 | [Noetic Ascension](./17838418%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103153       |         17838419 | [Noetic Ascension](./17838419%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103154       |         17838420 | [Noetic Ascension](./17838420%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103155       |         17838421 | [Noetic Ascension](./17838421%20-%20Noetic%20Ascension.md) |        2 |
-| 0x01103156       |         17838422 | [(unnamed)](./17838422.md)                                 |        2 |
-| 0x01103157       |         17838423 | [(unnamed)](./17838423.md)                                 |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                          |        8 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                       |   Events | Event IDs                                        |
+|------------------|------------------|------------------------------------------------------------|----------|--------------------------------------------------|
+| 0x011030F4       |         17838324 | [ExitColiseum](./17838324%20-%20ExitColiseum.md)           |        2 | 13, 65535                                        |
+| 0x01103137       |         17838391 | [Noetic Ascension](./17838391%20-%20Noetic%20Ascension.md) |        2 | 2000, 65535                                      |
+| 0x01103138       |         17838392 | [Noetic Ascension](./17838392%20-%20Noetic%20Ascension.md) |        2 | 2001, 65535                                      |
+| 0x01103139       |         17838393 | [Noetic Ascension](./17838393%20-%20Noetic%20Ascension.md) |        2 | 2002, 65535                                      |
+| 0x0110313A       |         17838394 | [Noetic Ascension](./17838394%20-%20Noetic%20Ascension.md) |        2 | 2003, 65535                                      |
+| 0x0110313B       |         17838395 | [Noetic Ascension](./17838395%20-%20Noetic%20Ascension.md) |        2 | 2004, 65535                                      |
+| 0x0110313C       |         17838396 | [Noetic Ascension](./17838396%20-%20Noetic%20Ascension.md) |        2 | 2005, 65535                                      |
+| 0x0110313D       |         17838397 | [Noetic Ascension](./17838397%20-%20Noetic%20Ascension.md) |        2 | 2006, 65535                                      |
+| 0x0110313E       |         17838398 | [Noetic Ascension](./17838398%20-%20Noetic%20Ascension.md) |        2 | 2007, 65535                                      |
+| 0x0110313F       |         17838399 | [Noetic Ascension](./17838399%20-%20Noetic%20Ascension.md) |        2 | 2008, 65535                                      |
+| 0x01103140       |         17838400 | [Noetic Ascension](./17838400%20-%20Noetic%20Ascension.md) |        2 | 2009, 65535                                      |
+| 0x01103148       |         17838408 | [Treasure Coffer](./17838408%20-%20Treasure%20Coffer.md)   |        2 | 2010, 65535                                      |
+| 0x01103149       |         17838409 | [Treasure Coffer](./17838409%20-%20Treasure%20Coffer.md)   |        2 | 2011, 65535                                      |
+| 0x0110314A       |         17838410 | [Treasure Coffer](./17838410%20-%20Treasure%20Coffer.md)   |        2 | 2012, 65535                                      |
+| 0x0110314B       |         17838411 | [Treasure Coffer](./17838411%20-%20Treasure%20Coffer.md)   |        2 | 2013, 65535                                      |
+| 0x0110314C       |         17838412 | [Treasure Coffer](./17838412%20-%20Treasure%20Coffer.md)   |        2 | 2014, 65535                                      |
+| 0x0110314D       |         17838413 | [Treasure Coffer](./17838413%20-%20Treasure%20Coffer.md)   |        2 | 2015, 65535                                      |
+| 0x0110314E       |         17838414 | [Living Cairn](./17838414%20-%20Living%20Cairn.md)         |        3 | 2016, 2017, 65535                                |
+| 0x01103151       |         17838417 | [Noetic Ascension](./17838417%20-%20Noetic%20Ascension.md) |        2 | 2018, 65535                                      |
+| 0x01103152       |         17838418 | [Noetic Ascension](./17838418%20-%20Noetic%20Ascension.md) |        2 | 2019, 65535                                      |
+| 0x01103153       |         17838419 | [Noetic Ascension](./17838419%20-%20Noetic%20Ascension.md) |        2 | 2020, 65535                                      |
+| 0x01103154       |         17838420 | [Noetic Ascension](./17838420%20-%20Noetic%20Ascension.md) |        2 | 2021, 65535                                      |
+| 0x01103155       |         17838421 | [Noetic Ascension](./17838421%20-%20Noetic%20Ascension.md) |        2 | 2022, 65535                                      |
+| 0x01103156       |         17838422 | [(unnamed)](./17838422.md)                                 |        2 | 1003, 65535                                      |
+| 0x01103157       |         17838423 | [(unnamed)](./17838423.md)                                 |        2 | 1003, 65535                                      |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                          |        8 | 12, 1000, 1001, 1002, 10000, 10001, 65534, 65535 |

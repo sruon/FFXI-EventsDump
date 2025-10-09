@@ -18,5 +18,5 @@
 
 ## Actors
 
-| Actor ID (Hex)   | Actor ID (Dec)   | Name   | Events   |
-|------------------|------------------|--------|----------|
+| Actor ID (Hex)   | Actor ID (Dec)   | Name   | Events   | Event IDs   |
+|------------------|------------------|--------|----------|-------------|

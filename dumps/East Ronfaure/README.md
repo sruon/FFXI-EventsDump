@@ -18,76 +18,76 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                             |   Events |
-|------------------|------------------|------------------------------------------------------------------|----------|
-| 0x0106523A       |         17191482 | [Treasure Casket](./17191482%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106523B       |         17191483 | [Treasure Casket](./17191483%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106523C       |         17191484 | [Treasure Casket](./17191484%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106523D       |         17191485 | [Treasure Casket](./17191485%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106523E       |         17191486 | [Treasure Casket](./17191486%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106523F       |         17191487 | [Treasure Casket](./17191487%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065240       |         17191488 | [Treasure Casket](./17191488%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065241       |         17191489 | [Treasure Casket](./17191489%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065242       |         17191490 | [Treasure Casket](./17191490%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065243       |         17191491 | [Treasure Casket](./17191491%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065244       |         17191492 | [Treasure Casket](./17191492%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065245       |         17191493 | [Treasure Casket](./17191493%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065246       |         17191494 | [Treasure Casket](./17191494%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065247       |         17191495 | [Treasure Casket](./17191495%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065248       |         17191496 | [Treasure Casket](./17191496%20-%20Treasure%20Casket.md)         |        4 |
-| 0x01065249       |         17191497 | [Treasure Casket](./17191497%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106524A       |         17191498 | [Treasure Coffer](./17191498%20-%20Treasure%20Coffer.md)         |        2 |
-| 0x0106524F       |         17191503 | [(unnamed)](./17191503.md)                                       |       10 |
-| 0x01065250       |         17191504 | [(unnamed)](./17191504.md)                                       |        2 |
-| 0x01065252       |         17191506 | [Andelain](./17191506%20-%20Andelain.md)                         |        2 |
-| 0x01065256       |         17191510 | [Signpost](./17191510%20-%20Signpost.md)                         |        3 |
-| 0x01065257       |         17191511 | [Signpost](./17191511%20-%20Signpost.md)                         |        4 |
-| 0x01065258       |         17191512 | [Signpost](./17191512%20-%20Signpost.md)                         |        3 |
-| 0x01065259       |         17191513 | [Signpost](./17191513%20-%20Signpost.md)                         |        3 |
-| 0x0106525A       |         17191514 | [Signpost](./17191514%20-%20Signpost.md)                         |        3 |
-| 0x0106525B       |         17191515 | [Signpost](./17191515%20-%20Signpost.md)                         |        3 |
-| 0x0106525C       |         17191516 | [Signpost](./17191516%20-%20Signpost.md)                         |        3 |
-| 0x0106525D       |         17191517 | [Signpost](./17191517%20-%20Signpost.md)                         |        3 |
-| 0x01065267       |         17191527 | [Stone Monument](./17191527%20-%20Stone%20Monument.md)           |        2 |
-| 0x01065269       |         17191529 | [Cavernous Maw](./17191529%20-%20Cavernous%20Maw.md)             |        3 |
-| 0x0106526B       |         17191531 | [Logging Point](./17191531%20-%20Logging%20Point.md)             |        2 |
-| 0x01065271       |         17191537 | [EFFECTER](./17191537%20-%20EFFECTER.md)                         |        3 |
-| 0x01065272       |         17191538 | [Carbuncle](./17191538%20-%20Carbuncle.md)                       |        3 |
-| 0x01065273       |         17191539 | [Talking Doll](./17191539%20-%20Talking%20Doll.md)               |        2 |
-| 0x01065274       |         17191540 | [Field Manual](./17191540%20-%20Field%20Manual.md)               |        2 |
-| 0x01065275       |         17191541 | [Field Manual](./17191541%20-%20Field%20Manual.md)               |        2 |
-| 0x01065276       |         17191542 | [Field Parchment](./17191542%20-%20Field%20Parchment.md)         |        3 |
-| 0x01065277       |         17191543 | [Ethereal Junction](./17191543%20-%20Ethereal%20Junction.md)     |        3 |
-| 0x01065278       |         17191544 | [Ethereal Junction](./17191544%20-%20Ethereal%20Junction.md)     |        3 |
-| 0x01065279       |         17191545 | [Ethereal Junction](./17191545%20-%20Ethereal%20Junction.md)     |        3 |
-| 0x0106527E       |         17191550 | [Moogle](./17191550%20-%20Moogle.md)                             |        4 |
-| 0x01065286       |         17191558 | [Moogle](./17191558%20-%20Moogle.md)                             |        7 |
-| 0x01065287       |         17191559 | [Moogle](./17191559%20-%20Moogle.md)                             |        9 |
-| 0x01065288       |         17191560 | [Moogle](./17191560%20-%20Moogle.md)                             |        6 |
-| 0x01065289       |         17191561 | [(unnamed)](./17191561.md)                                       |        3 |
-| 0x0106528A       |         17191562 | [Magivore Ternion](./17191562%20-%20Magivore%20Ternion.md)       |        4 |
-| 0x0106528B       |         17191563 | [Stampeding Bison](./17191563%20-%20Stampeding%20Bison.md)       |        9 |
-| 0x0106528C       |         17191564 | [Smile Helper](./17191564%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106528D       |         17191565 | [Smile Helper](./17191565%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106528E       |         17191566 | [Smile Helper](./17191566%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106528F       |         17191567 | [Smile Helper](./17191567%20-%20Smile%20Helper.md)               |        1 |
-| 0x01065290       |         17191568 | [Smile Helper](./17191568%20-%20Smile%20Helper.md)               |        1 |
-| 0x01065291       |         17191569 | [Smile Helper](./17191569%20-%20Smile%20Helper.md)               |        1 |
-| 0x01065292       |         17191570 | [Smile Helper](./17191570%20-%20Smile%20Helper.md)               |        1 |
-| 0x01065293       |         17191571 | [Smile Helper](./17191571%20-%20Smile%20Helper.md)               |        1 |
-| 0x01065294       |         17191572 | [Smile Helper](./17191572%20-%20Smile%20Helper.md)               |        1 |
-| 0x01065295       |         17191573 | [Smile Helper](./17191573%20-%20Smile%20Helper.md)               |        1 |
-| 0x01065296       |         17191574 | [Debug](./17191574%20-%20Debug.md)                               |        2 |
-| 0x01065297       |         17191575 | [(unnamed)](./17191575.md)                                       |        2 |
-| 0x01065298       |         17191576 | [Slabble](./17191576%20-%20Slabble.md)                           |        2 |
-| 0x01065299       |         17191577 | [(unnamed)](./17191577.md)                                       |        2 |
-| 0x0106529A       |         17191578 | [Planar Rift](./17191578%20-%20Planar%20Rift.md)                 |        2 |
-| 0x0106529B       |         17191579 | [Planar Rift](./17191579%20-%20Planar%20Rift.md)                 |        2 |
-| 0x0106529C       |         17191580 | [Planar Rift](./17191580%20-%20Planar%20Rift.md)                 |        2 |
-| 0x0106529D       |         17191581 | [Riftworn Pyxis](./17191581%20-%20Riftworn%20Pyxis.md)           |        2 |
-| 0x0106529E       |         17191582 | [Riftworn Pyxis](./17191582%20-%20Riftworn%20Pyxis.md)           |        2 |
-| 0x0106529F       |         17191583 | [Riftworn Pyxis](./17191583%20-%20Riftworn%20Pyxis.md)           |        2 |
-| 0x010652A0       |         17191584 | [Geomantic Reservoir](./17191584%20-%20Geomantic%20Reservoir.md) |        3 |
-| 0x010652A1       |         17191585 | [(unnamed)](./17191585.md)                                       |        3 |
-| 0x010652A2       |         17191586 | [(unnamed)](./17191586.md)                                       |        4 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                |        4 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                             |   Events | Event IDs                                                   |
+|------------------|------------------|------------------------------------------------------------------|----------|-------------------------------------------------------------|
+| 0x0106523A       |         17191482 | [Treasure Casket](./17191482%20-%20Treasure%20Casket.md)         |        4 | 1000, 1001, 1002, 1048                                      |
+| 0x0106523B       |         17191483 | [Treasure Casket](./17191483%20-%20Treasure%20Casket.md)         |        4 | 1003, 1004, 1005, 1049                                      |
+| 0x0106523C       |         17191484 | [Treasure Casket](./17191484%20-%20Treasure%20Casket.md)         |        4 | 1006, 1007, 1008, 1050                                      |
+| 0x0106523D       |         17191485 | [Treasure Casket](./17191485%20-%20Treasure%20Casket.md)         |        4 | 1009, 1010, 1011, 1051                                      |
+| 0x0106523E       |         17191486 | [Treasure Casket](./17191486%20-%20Treasure%20Casket.md)         |        4 | 1012, 1013, 1014, 1052                                      |
+| 0x0106523F       |         17191487 | [Treasure Casket](./17191487%20-%20Treasure%20Casket.md)         |        4 | 1015, 1016, 1017, 1053                                      |
+| 0x01065240       |         17191488 | [Treasure Casket](./17191488%20-%20Treasure%20Casket.md)         |        4 | 1018, 1019, 1020, 1054                                      |
+| 0x01065241       |         17191489 | [Treasure Casket](./17191489%20-%20Treasure%20Casket.md)         |        4 | 1021, 1022, 1023, 1055                                      |
+| 0x01065242       |         17191490 | [Treasure Casket](./17191490%20-%20Treasure%20Casket.md)         |        4 | 1024, 1025, 1026, 1056                                      |
+| 0x01065243       |         17191491 | [Treasure Casket](./17191491%20-%20Treasure%20Casket.md)         |        4 | 1027, 1028, 1029, 1057                                      |
+| 0x01065244       |         17191492 | [Treasure Casket](./17191492%20-%20Treasure%20Casket.md)         |        4 | 1030, 1031, 1032, 1058                                      |
+| 0x01065245       |         17191493 | [Treasure Casket](./17191493%20-%20Treasure%20Casket.md)         |        4 | 1033, 1034, 1035, 1059                                      |
+| 0x01065246       |         17191494 | [Treasure Casket](./17191494%20-%20Treasure%20Casket.md)         |        4 | 1036, 1037, 1038, 1060                                      |
+| 0x01065247       |         17191495 | [Treasure Casket](./17191495%20-%20Treasure%20Casket.md)         |        4 | 1039, 1040, 1041, 1061                                      |
+| 0x01065248       |         17191496 | [Treasure Casket](./17191496%20-%20Treasure%20Casket.md)         |        4 | 1042, 1043, 1044, 1062                                      |
+| 0x01065249       |         17191497 | [Treasure Casket](./17191497%20-%20Treasure%20Casket.md)         |        4 | 1045, 1046, 1047, 1063                                      |
+| 0x0106524A       |         17191498 | [Treasure Coffer](./17191498%20-%20Treasure%20Coffer.md)         |        2 | 2000, 65535                                                 |
+| 0x0106524F       |         17191503 | [(unnamed)](./17191503.md)                                       |       10 | 4500, 4501, 4502, 4503, 4504, 4505, 4506, 4507, 4508, 65535 |
+| 0x01065250       |         17191504 | [(unnamed)](./17191504.md)                                       |        2 | 108, 65535                                                  |
+| 0x01065252       |         17191506 | [Andelain](./17191506%20-%20Andelain.md)                         |        2 | 19, 65535                                                   |
+| 0x01065256       |         17191510 | [Signpost](./17191510%20-%20Signpost.md)                         |        3 | 3, 4, 65535                                                 |
+| 0x01065257       |         17191511 | [Signpost](./17191511%20-%20Signpost.md)                         |        4 | 5, 6, 20, 65535                                             |
+| 0x01065258       |         17191512 | [Signpost](./17191512%20-%20Signpost.md)                         |        3 | 7, 8, 65535                                                 |
+| 0x01065259       |         17191513 | [Signpost](./17191513%20-%20Signpost.md)                         |        3 | 9, 10, 65535                                                |
+| 0x0106525A       |         17191514 | [Signpost](./17191514%20-%20Signpost.md)                         |        3 | 11, 12, 65535                                               |
+| 0x0106525B       |         17191515 | [Signpost](./17191515%20-%20Signpost.md)                         |        3 | 13, 14, 65535                                               |
+| 0x0106525C       |         17191516 | [Signpost](./17191516%20-%20Signpost.md)                         |        3 | 15, 16, 65535                                               |
+| 0x0106525D       |         17191517 | [Signpost](./17191517%20-%20Signpost.md)                         |        3 | 17, 18, 65535                                               |
+| 0x01065267       |         17191527 | [Stone Monument](./17191527%20-%20Stone%20Monument.md)           |        2 | 900, 65535                                                  |
+| 0x01065269       |         17191529 | [Cavernous Maw](./17191529%20-%20Cavernous%20Maw.md)             |        3 | 904, 910, 65535                                             |
+| 0x0106526B       |         17191531 | [Logging Point](./17191531%20-%20Logging%20Point.md)             |        2 | 901, 65535                                                  |
+| 0x01065271       |         17191537 | [EFFECTER](./17191537%20-%20EFFECTER.md)                         |        3 | 21, 65535                                                   |
+| 0x01065272       |         17191538 | [Carbuncle](./17191538%20-%20Carbuncle.md)                       |        3 | 21, 65535                                                   |
+| 0x01065273       |         17191539 | [Talking Doll](./17191539%20-%20Talking%20Doll.md)               |        2 | 23, 65535                                                   |
+| 0x01065274       |         17191540 | [Field Manual](./17191540%20-%20Field%20Manual.md)               |        2 | 61, 65535                                                   |
+| 0x01065275       |         17191541 | [Field Manual](./17191541%20-%20Field%20Manual.md)               |        2 | 62, 65535                                                   |
+| 0x01065276       |         17191542 | [Field Parchment](./17191542%20-%20Field%20Parchment.md)         |        3 | 2001, 2002, 65535                                           |
+| 0x01065277       |         17191543 | [Ethereal Junction](./17191543%20-%20Ethereal%20Junction.md)     |        3 | 9000, 9003, 65535                                           |
+| 0x01065278       |         17191544 | [Ethereal Junction](./17191544%20-%20Ethereal%20Junction.md)     |        3 | 9001, 9004, 65535                                           |
+| 0x01065279       |         17191545 | [Ethereal Junction](./17191545%20-%20Ethereal%20Junction.md)     |        3 | 9002, 9005, 65535                                           |
+| 0x0106527E       |         17191550 | [Moogle](./17191550%20-%20Moogle.md)                             |        4 | 905, 906, 907, 65535                                        |
+| 0x01065286       |         17191558 | [Moogle](./17191558%20-%20Moogle.md)                             |        7 | 100, 101, 104, 105, 106, 107, 65535                         |
+| 0x01065287       |         17191559 | [Moogle](./17191559%20-%20Moogle.md)                             |        9 | 100, 101, 102, 103, 104, 105, 106, 107, 65535               |
+| 0x01065288       |         17191560 | [Moogle](./17191560%20-%20Moogle.md)                             |        6 | 109, 32707, 32708, 32709, 32710, 65535                      |
+| 0x01065289       |         17191561 | [(unnamed)](./17191561.md)                                       |        3 | 109, 32709, 65535                                           |
+| 0x0106528A       |         17191562 | [Magivore Ternion](./17191562%20-%20Magivore%20Ternion.md)       |        4 | 109, 32709, 65535                                           |
+| 0x0106528B       |         17191563 | [Stampeding Bison](./17191563%20-%20Stampeding%20Bison.md)       |        9 | 7001, 7004, 7005, 7009, 7010, 7011, 7012, 7014, 65535       |
+| 0x0106528C       |         17191564 | [Smile Helper](./17191564%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106528D       |         17191565 | [Smile Helper](./17191565%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106528E       |         17191566 | [Smile Helper](./17191566%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106528F       |         17191567 | [Smile Helper](./17191567%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x01065290       |         17191568 | [Smile Helper](./17191568%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x01065291       |         17191569 | [Smile Helper](./17191569%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x01065292       |         17191570 | [Smile Helper](./17191570%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x01065293       |         17191571 | [Smile Helper](./17191571%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x01065294       |         17191572 | [Smile Helper](./17191572%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x01065295       |         17191573 | [Smile Helper](./17191573%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x01065296       |         17191574 | [Debug](./17191574%20-%20Debug.md)                               |        2 | 7013, 65535                                                 |
+| 0x01065297       |         17191575 | [(unnamed)](./17191575.md)                                       |        2 | 909, 65535                                                  |
+| 0x01065298       |         17191576 | [Slabble](./17191576%20-%20Slabble.md)                           |        2 | 909, 65535                                                  |
+| 0x01065299       |         17191577 | [(unnamed)](./17191577.md)                                       |        2 | 909, 65535                                                  |
+| 0x0106529A       |         17191578 | [Planar Rift](./17191578%20-%20Planar%20Rift.md)                 |        2 | 6000, 65535                                                 |
+| 0x0106529B       |         17191579 | [Planar Rift](./17191579%20-%20Planar%20Rift.md)                 |        2 | 6001, 65535                                                 |
+| 0x0106529C       |         17191580 | [Planar Rift](./17191580%20-%20Planar%20Rift.md)                 |        2 | 6002, 65535                                                 |
+| 0x0106529D       |         17191581 | [Riftworn Pyxis](./17191581%20-%20Riftworn%20Pyxis.md)           |        2 | 6003, 65535                                                 |
+| 0x0106529E       |         17191582 | [Riftworn Pyxis](./17191582%20-%20Riftworn%20Pyxis.md)           |        2 | 6004, 65535                                                 |
+| 0x0106529F       |         17191583 | [Riftworn Pyxis](./17191583%20-%20Riftworn%20Pyxis.md)           |        2 | 6005, 65535                                                 |
+| 0x010652A0       |         17191584 | [Geomantic Reservoir](./17191584%20-%20Geomantic%20Reservoir.md) |        3 | 15000, 15002, 65535                                         |
+| 0x010652A1       |         17191585 | [(unnamed)](./17191585.md)                                       |        3 | 15000, 15001, 65535                                         |
+| 0x010652A2       |         17191586 | [(unnamed)](./17191586.md)                                       |        4 | 15000, 15003, 15004, 65535                                  |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                |        4 | 65534, 65535                                                |

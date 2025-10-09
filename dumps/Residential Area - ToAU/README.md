@@ -18,6 +18,6 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                              |   Events |
-|------------------|------------------|-----------------------------------|----------|
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md) |        2 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                              |   Events | Event IDs   |
+|------------------|------------------|-----------------------------------|----------|-------------|
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md) |        2 | 0, 65535    |

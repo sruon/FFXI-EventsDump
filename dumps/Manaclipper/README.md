@@ -18,8 +18,8 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                     |   Events |
-|------------------|------------------|----------------------------------------------------------|----------|
-| 0x0100301A       |         16789530 | [Gniyah Mischatt](./16789530%20-%20Gniyah%20Mischatt.md) |        3 |
-| 0x0100301E       |         16789534 | [Khots Chalahko](./16789534%20-%20Khots%20Chalahko.md)   |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                        |        4 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                     |   Events | Event IDs            |
+|------------------|------------------|----------------------------------------------------------|----------|----------------------|
+| 0x0100301A       |         16789530 | [Gniyah Mischatt](./16789530%20-%20Gniyah%20Mischatt.md) |        3 | 1, 2, 65535          |
+| 0x0100301E       |         16789534 | [Khots Chalahko](./16789534%20-%20Khots%20Chalahko.md)   |        2 | 101, 65535           |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                        |        4 | 0, 100, 65534, 65535 |

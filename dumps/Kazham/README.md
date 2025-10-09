@@ -18,124 +18,124 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                             |   Events |
-|------------------|------------------|------------------------------------------------------------------|----------|
-| 0x010FA001       |         17801217 | [DIRECTOR](./17801217%20-%20DIRECTOR.md)                         |        6 |
-| 0x010FA002       |         17801218 | [Khau Mahiyoeloh](./17801218%20-%20Khau%20Mahiyoeloh.md)         |        7 |
-| 0x010FA003       |         17801219 | [Tsui Golalapahn](./17801219%20-%20Tsui%20Golalapahn.md)         |        7 |
-| 0x010FA004       |         17801220 | [Haih Ahmpagako](./17801220%20-%20Haih%20Ahmpagako.md)           |        5 |
-| 0x010FA005       |         17801221 | [Mijeh Sholpoilo](./17801221%20-%20Mijeh%20Sholpoilo.md)         |        5 |
-| 0x010FA006       |         17801222 | [Pofhu Tendelicon](./17801222%20-%20Pofhu%20Tendelicon.md)       |        5 |
-| 0x010FA007       |         17801223 | [Kocho Phunakcham](./17801223%20-%20Kocho%20Phunakcham.md)       |        5 |
-| 0x010FA008       |         17801224 | [Jakoh Wahcondalo](./17801224%20-%20Jakoh%20Wahcondalo.md)       |       79 |
-| 0x010FA009       |         17801225 | [Etteh Sulaej](./17801225%20-%20Etteh%20Sulaej.md)               |       58 |
-| 0x010FA00A       |         17801226 | [Balih Chavizaai](./17801226%20-%20Balih%20Chavizaai.md)         |        8 |
-| 0x010FA00B       |         17801227 | [Cobbi Malgharam](./17801227%20-%20Cobbi%20Malgharam.md)         |        8 |
-| 0x010FA00C       |         17801228 | [Ildy-Goldy](./17801228%20-%20Ildy-Goldy.md)                     |       82 |
-| 0x010FA00D       |         17801229 | [Mitti Haplihza](./17801229%20-%20Mitti%20Haplihza.md)           |        5 |
-| 0x010FA00E       |         17801230 | [Tsahbi Ifalombo](./17801230%20-%20Tsahbi%20Ifalombo.md)         |        5 |
-| 0x010FA00F       |         17801231 | [Bhi Telifahgo](./17801231%20-%20Bhi%20Telifahgo.md)             |        5 |
-| 0x010FA010       |         17801232 | [Pula Rhatti](./17801232%20-%20Pula%20Rhatti.md)                 |        6 |
-| 0x010FA011       |         17801233 | [Coyah Neblahe](./17801233%20-%20Coyah%20Neblahe.md)             |       16 |
-| 0x010FA012       |         17801234 | [Nti Badolsoma](./17801234%20-%20Nti%20Badolsoma.md)             |        5 |
-| 0x010FA013       |         17801235 | [Hozie Naharaf](./17801235%20-%20Hozie%20Naharaf.md)             |        5 |
-| 0x010FA014       |         17801236 | [Ghosa Demuhzo](./17801236%20-%20Ghosa%20Demuhzo.md)             |        5 |
-| 0x010FA015       |         17801237 | [Thali Mhobrum](./17801237%20-%20Thali%20Mhobrum.md)             |       26 |
-| 0x010FA016       |         17801238 | [Tcinono](./17801238%20-%20Tcinono.md)                           |        2 |
-| 0x010FA017       |         17801239 | [Vanono](./17801239%20-%20Vanono.md)                             |        7 |
-| 0x010FA018       |         17801240 | [Eron-Tomaron](./17801240%20-%20Eron-Tomaron.md)                 |        3 |
-| 0x010FA019       |         17801241 | [Rauteinot](./17801241%20-%20Rauteinot.md)                       |       34 |
-| 0x010FA01A       |         17801242 | [Qhio Plittibhi](./17801242%20-%20Qhio%20Plittibhi.md)           |        9 |
-| 0x010FA01B       |         17801243 | [Dakha Topsalwan](./17801243%20-%20Dakha%20Topsalwan.md)         |        5 |
-| 0x010FA01C       |         17801244 | [Bhoyu Halpatacco](./17801244%20-%20Bhoyu%20Halpatacco.md)       |        5 |
-| 0x010FA01D       |         17801245 | [Flame Walker](./17801245%20-%20Flame%20Walker.md)               |        5 |
-| 0x010FA01E       |         17801246 | [Shark Teeth](./17801246%20-%20Shark%20Teeth.md)                 |        5 |
-| 0x010FA01F       |         17801247 | [Bhukka Sahbeo](./17801247%20-%20Bhukka%20Sahbeo.md)             |        5 |
-| 0x010FA020       |         17801248 | [Door_a](./17801248%20-%20Door_a.md)                             |        3 |
-| 0x010FA021       |         17801249 | [Door_b](./17801249%20-%20Door_b.md)                             |        3 |
-| 0x010FA022       |         17801250 | [Majjih Bakrhamab](./17801250%20-%20Majjih%20Bakrhamab.md)       |        2 |
-| 0x010FA023       |         17801251 | [Shey Wayatih](./17801251%20-%20Shey%20Wayatih.md)               |        2 |
-| 0x010FA024       |         17801252 | [Ney Hiparujah](./17801252%20-%20Ney%20Hiparujah.md)             |       12 |
-| 0x010FA025       |         17801253 | [Ghemi Sinterilo](./17801253%20-%20Ghemi%20Sinterilo.md)         |        3 |
-| 0x010FA026       |         17801254 | [Tahn Posbei](./17801254%20-%20Tahn%20Posbei.md)                 |        1 |
-| 0x010FA027       |         17801255 | [Cha Tigunalhgo](./17801255%20-%20Cha%20Tigunalhgo.md)           |        5 |
-| 0x010FA028       |         17801256 | [Khifo Ryuhkowa](./17801256%20-%20Khifo%20Ryuhkowa.md)           |        3 |
-| 0x010FA029       |         17801257 | [Vah Keshura](./17801257%20-%20Vah%20Keshura.md)                 |       27 |
-| 0x010FA02A       |         17801258 | [Soun Abralah](./17801258%20-%20Soun%20Abralah.md)               |       32 |
-| 0x010FA02B       |         17801259 | [Nomad Moogle](./17801259%20-%20Nomad%20Moogle.md)               |        2 |
-| 0x010FA02C       |         17801260 | [Nomad Moogle](./17801260%20-%20Nomad%20Moogle.md)               |        2 |
-| 0x010FA02D       |         17801261 | [Nuh Celodehki](./17801261%20-%20Nuh%20Celodehki.md)             |        3 |
-| 0x010FA02E       |         17801262 | [Magriffon](./17801262%20-%20Magriffon.md)                       |       79 |
-| 0x010FA02F       |         17801263 | [1](./17801263%20-%201.md)                                       |        5 |
-| 0x010FA030       |         17801264 | [2](./17801264%20-%202.md)                                       |        6 |
-| 0x010FA031       |         17801265 | [3](./17801265%20-%203.md)                                       |        6 |
-| 0x010FA032       |         17801266 | [4](./17801266%20-%204.md)                                       |        4 |
-| 0x010FA033       |         17801267 | [5](./17801267%20-%205.md)                                       |        5 |
-| 0x010FA034       |         17801268 | [Magriffon](./17801268%20-%20Magriffon.md)                       |       12 |
-| 0x010FA035       |         17801269 | [Kihujin](./17801269%20-%20Kihujin.md)                           |       12 |
-| 0x010FA036       |         17801270 | [Kaizoku01](./17801270%20-%20Kaizoku01.md)                       |        3 |
-| 0x010FA037       |         17801271 | [Kaizoku02](./17801271%20-%20Kaizoku02.md)                       |        5 |
-| 0x010FA038       |         17801272 | [Kaizoku03](./17801272%20-%20Kaizoku03.md)                       |        9 |
-| 0x010FA039       |         17801273 | [Khaffi Salponoihz](./17801273%20-%20Khaffi%20Salponoihz.md)     |        7 |
-| 0x010FA03A       |         17801274 | [Hari Pakhroib](./17801274%20-%20Hari%20Pakhroib.md)             |       15 |
-| 0x010FA03B       |         17801275 | [Romaa Mihgo](./17801275%20-%20Romaa%20Mihgo.md)                 |       15 |
-| 0x010FA03C       |         17801276 | [Toeh Leddenbah](./17801276%20-%20Toeh%20Leddenbah.md)           |        7 |
-| 0x010FA03D       |         17801277 | [Kyun Magopiteh](./17801277%20-%20Kyun%20Magopiteh.md)           |        7 |
-| 0x010FA03E       |         17801278 | [Toji Mumosulah](./17801278%20-%20Toji%20Mumosulah.md)           |        3 |
-| 0x010FA03F       |         17801279 | [Pahya Lolohoiv](./17801279%20-%20Pahya%20Lolohoiv.md)           |       22 |
-| 0x010FA040       |         17801280 | [Gatih Mijurabi](./17801280%20-%20Gatih%20Mijurabi.md)           |       26 |
-| 0x010FA041       |         17801281 | [Shed](./17801281%20-%20Shed.md)                                 |        6 |
-| 0x010FA042       |         17801282 | [Mhebi Juhbily](./17801282%20-%20Mhebi%20Juhbily.md)             |       41 |
-| 0x010FA043       |         17801283 | [(unnamed)](./17801283.md)                                       |        3 |
-| 0x010FA044       |         17801284 | [Door_c](./17801284%20-%20Door_c.md)                             |        1 |
-| 0x010FA048       |         17801288 | [Lulupp](./17801288%20-%20Lulupp.md)                             |       12 |
-| 0x010FA049       |         17801289 | [Kukupp](./17801289%20-%20Kukupp.md)                             |       10 |
-| 0x010FA04A       |         17801290 | [Mumupp](./17801290%20-%20Mumupp.md)                             |       17 |
-| 0x010FA04B       |         17801291 | [Roropp](./17801291%20-%20Roropp.md)                             |       10 |
-| 0x010FA04C       |         17801292 | [Popopp](./17801292%20-%20Popopp.md)                             |       11 |
-| 0x010FA04D       |         17801293 | [Bubupp](./17801293%20-%20Bubupp.md)                             |       10 |
-| 0x010FA04E       |         17801294 | [Tatapp](./17801294%20-%20Tatapp.md)                             |       11 |
-| 0x010FA04F       |         17801295 | [Kakapp](./17801295%20-%20Kakapp.md)                             |       17 |
-| 0x010FA050       |         17801296 | [Lalapp](./17801296%20-%20Lalapp.md)                             |       10 |
-| 0x010FA051       |         17801297 | [Nenepp](./17801297%20-%20Nenepp.md)                             |       11 |
-| 0x010FA052       |         17801298 | [Vuih Stecoppah](./17801298%20-%20Vuih%20Stecoppah.md)           |       56 |
-| 0x010FA053       |         17801299 | [Dheo Nbolo](./17801299%20-%20Dheo%20Nbolo.md)                   |       13 |
-| 0x010FA054       |         17801300 | [Cha Chalco](./17801300%20-%20Cha%20Chalco.md)                   |        3 |
-| 0x010FA055       |         17801301 | [Cophi Ricuub](./17801301%20-%20Cophi%20Ricuub.md)               |        3 |
-| 0x010FA056       |         17801302 | [Sulo Mouzho](./17801302%20-%20Sulo%20Mouzho.md)                 |        3 |
-| 0x010FA057       |         17801303 | [Kobhi Sarhigamya](./17801303%20-%20Kobhi%20Sarhigamya.md)       |        1 |
-| 0x010FA058       |         17801304 | [Tio Moshroca](./17801304%20-%20Tio%20Moshroca.md)               |        4 |
-| 0x010FA059       |         17801305 | [Home Point 1](./17801305%20-%20Home%20Point%201.md)             |        2 |
-| 0x010FA05A       |         17801306 | [Home Point 2](./17801306%20-%20Home%20Point%202.md)             |        2 |
-| 0x010FA05B       |         17801307 | [Home Point 3](./17801307%20-%20Home%20Point%203.md)             |        2 |
-| 0x010FA05C       |         17801308 | [Home Point 4](./17801308%20-%20Home%20Point%204.md)             |        2 |
-| 0x010FA05D       |         17801309 | [Home Point 5](./17801309%20-%20Home%20Point%205.md)             |        2 |
-| 0x010FA060       |         17801312 | [DoorWahcondalos Res](./17801312%20-%20DoorWahcondalos%20Res.md) |        8 |
-| 0x010FA063       |         17801315 | [DoorMihgos Res](./17801315%20-%20DoorMihgos%20Res.md)           |        3 |
-| 0x010FA068       |         17801320 | [(unnamed)](./17801320.md)                                       |        4 |
-| 0x010FA06A       |         17801322 | [Ronta-Onta](./17801322%20-%20Ronta-Onta.md)                     |       54 |
-| 0x010FA06B       |         17801323 | [Dodmos](./17801323%20-%20Dodmos.md)                             |       16 |
-| 0x010FA06C       |         17801324 | [(unnamed)](./17801324.md)                                       |        6 |
-| 0x010FA06D       |         17801325 | [Talking Doll](./17801325%20-%20Talking%20Doll.md)               |        7 |
-| 0x010FA06E       |         17801326 | [Carbuncle](./17801326%20-%20Carbuncle.md)                       |        4 |
-| 0x010FA078       |         17801336 | [Tielleque](./17801336%20-%20Tielleque.md)                       |        5 |
-| 0x010FA079       |         17801337 | [(unnamed)](./17801337.md)                                       |        3 |
-| 0x010FA07A       |         17801338 | [Mamerie](./17801338%20-%20Mamerie.md)                           |        3 |
-| 0x010FA07B       |         17801339 | [Beyzen](./17801339%20-%20Beyzen.md)                             |        2 |
-| 0x010FA07C       |         17801340 | [Swift](./17801340%20-%20Swift.md)                               |        2 |
-| 0x010FA07D       |         17801341 | [(unnamed)](./17801341.md)                                       |        2 |
-| 0x010FA07E       |         17801342 | [Hunt Registry](./17801342%20-%20Hunt%20Registry.md)             |        2 |
-| 0x010FA07F       |         17801343 | [Synergy Engineer](./17801343%20-%20Synergy%20Engineer.md)       |        2 |
-| 0x010FA080       |         17801344 | [Synergy Engineer](./17801344%20-%20Synergy%20Engineer.md)       |        3 |
-| 0x010FA081       |         17801345 | [Synergy Furnace](./17801345%20-%20Synergy%20Furnace.md)         |       10 |
-| 0x010FA082       |         17801346 | [Synergy Furnace](./17801346%20-%20Synergy%20Furnace.md)         |       10 |
-| 0x010FA083       |         17801347 | [Synergy Furnace](./17801347%20-%20Synergy%20Furnace.md)         |       11 |
-| 0x010FA084       |         17801348 | [Synergy Furnace](./17801348%20-%20Synergy%20Furnace.md)         |       11 |
-| 0x010FA085       |         17801349 | [Synergy Enthusiast](./17801349%20-%20Synergy%20Enthusiast.md)   |        2 |
-| 0x010FA086       |         17801350 | [Porter Moogle](./17801350%20-%20Porter%20Moogle.md)             |        7 |
-| 0x010FA087       |         17801351 | [(unnamed)](./17801351.md)                                       |        6 |
-| 0x010FA088       |         17801352 | [Hildegard](./17801352%20-%20Hildegard.md)                       |        5 |
-| 0x010FA089       |         17801353 | [(unnamed)](./17801353.md)                                       |        3 |
-| 0x010FA08A       |         17801354 | [Atmacite Refiner](./17801354%20-%20Atmacite%20Refiner.md)       |        7 |
-| 0x010FA08E       |         17801358 | [Survival Guide](./17801358%20-%20Survival%20Guide.md)           |        3 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                |       45 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                             |   Events | Event IDs                                                                                                                          |
+|------------------|------------------|------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------|
+| 0x010FA001       |         17801217 | [DIRECTOR](./17801217%20-%20DIRECTOR.md)                         |        6 | 293, 295, 297, 299, 301, 65535                                                                                                     |
+| 0x010FA002       |         17801218 | [Khau Mahiyoeloh](./17801218%20-%20Khau%20Mahiyoeloh.md)         |        7 | 60, 165, 313, 315, 65535                                                                                                           |
+| 0x010FA003       |         17801219 | [Tsui Golalapahn](./17801219%20-%20Tsui%20Golalapahn.md)         |        7 | 61, 166, 313, 315, 65535                                                                                                           |
+| 0x010FA004       |         17801220 | [Haih Ahmpagako](./17801220%20-%20Haih%20Ahmpagako.md)           |        5 | 62, 167, 65535                                                                                                                     |
+| 0x010FA005       |         17801221 | [Mijeh Sholpoilo](./17801221%20-%20Mijeh%20Sholpoilo.md)         |        5 | 63, 168, 65535                                                                                                                     |
+| 0x010FA006       |         17801222 | [Pofhu Tendelicon](./17801222%20-%20Pofhu%20Tendelicon.md)       |        5 | 64, 169, 65535                                                                                                                     |
+| 0x010FA007       |         17801223 | [Kocho Phunakcham](./17801223%20-%20Kocho%20Phunakcham.md)       |        5 | 65, 170, 65535                                                                                                                     |
+| 0x010FA008       |         17801224 | [Jakoh Wahcondalo](./17801224%20-%20Jakoh%20Wahcondalo.md)       |       79 | 44, 46, 47, 48, 50, 52, 53, 54, 56, 57, 107, 108, 110, 111, 113, 114, 115, 164, 265, 279, 280, 281, 282, 283, 284, 293, 294, 65535 |
+| 0x010FA009       |         17801225 | [Etteh Sulaej](./17801225%20-%20Etteh%20Sulaej.md)               |       58 | 42, 44, 45, 47, 49, 50, 51, 53, 54, 55, 57, 109, 112, 162, 293, 65535                                                              |
+| 0x010FA00A       |         17801226 | [Balih Chavizaai](./17801226%20-%20Balih%20Chavizaai.md)         |        8 | 40, 160, 278, 293, 65535                                                                                                           |
+| 0x010FA00B       |         17801227 | [Cobbi Malgharam](./17801227%20-%20Cobbi%20Malgharam.md)         |        8 | 41, 161, 278, 293, 65535                                                                                                           |
+| 0x010FA00C       |         17801228 | [Ildy-Goldy](./17801228%20-%20Ildy-Goldy.md)                     |       82 | 293, 295, 297, 65535                                                                                                               |
+| 0x010FA00D       |         17801229 | [Mitti Haplihza](./17801229%20-%20Mitti%20Haplihza.md)           |        5 | 94, 184, 65535                                                                                                                     |
+| 0x010FA00E       |         17801230 | [Tsahbi Ifalombo](./17801230%20-%20Tsahbi%20Ifalombo.md)         |        5 | 90, 180, 65535                                                                                                                     |
+| 0x010FA00F       |         17801231 | [Bhi Telifahgo](./17801231%20-%20Bhi%20Telifahgo.md)             |        5 | 93, 183, 65535                                                                                                                     |
+| 0x010FA010       |         17801232 | [Pula Rhatti](./17801232%20-%20Pula%20Rhatti.md)                 |        6 | 92, 182, 269, 65535                                                                                                                |
+| 0x010FA011       |         17801233 | [Coyah Neblahe](./17801233%20-%20Coyah%20Neblahe.md)             |       16 | 156, 157, 158, 159, 65535                                                                                                          |
+| 0x010FA012       |         17801234 | [Nti Badolsoma](./17801234%20-%20Nti%20Badolsoma.md)             |        5 | 88, 178, 65535                                                                                                                     |
+| 0x010FA013       |         17801235 | [Hozie Naharaf](./17801235%20-%20Hozie%20Naharaf.md)             |        5 | 89, 179, 65535                                                                                                                     |
+| 0x010FA014       |         17801236 | [Ghosa Demuhzo](./17801236%20-%20Ghosa%20Demuhzo.md)             |        5 | 87, 177, 65535                                                                                                                     |
+| 0x010FA015       |         17801237 | [Thali Mhobrum](./17801237%20-%20Thali%20Mhobrum.md)             |       26 | 163, 190, 299, 301, 65535                                                                                                          |
+| 0x010FA016       |         17801238 | [Tcinono](./17801238%20-%20Tcinono.md)                           |        2 | 10011, 65535                                                                                                                       |
+| 0x010FA017       |         17801239 | [Vanono](./17801239%20-%20Vanono.md)                             |        7 | 262, 264, 268, 65535                                                                                                               |
+| 0x010FA018       |         17801240 | [Eron-Tomaron](./17801240%20-%20Eron-Tomaron.md)                 |        3 | 10012, 10013, 65535                                                                                                                |
+| 0x010FA019       |         17801241 | [Rauteinot](./17801241%20-%20Rauteinot.md)                       |       34 | 136, 137, 138, 139, 140, 141, 142, 313, 315, 65535                                                                                 |
+| 0x010FA01A       |         17801242 | [Qhio Plittibhi](./17801242%20-%20Qhio%20Plittibhi.md)           |        9 | 154, 155, 189, 313, 315, 65535                                                                                                     |
+| 0x010FA01B       |         17801243 | [Dakha Topsalwan](./17801243%20-%20Dakha%20Topsalwan.md)         |        5 | 66, 121, 65535                                                                                                                     |
+| 0x010FA01C       |         17801244 | [Bhoyu Halpatacco](./17801244%20-%20Bhoyu%20Halpatacco.md)       |        5 | 67, 116, 65535                                                                                                                     |
+| 0x010FA01D       |         17801245 | [Flame Walker](./17801245%20-%20Flame%20Walker.md)               |        5 | 116, 117, 118, 65535                                                                                                               |
+| 0x010FA01E       |         17801246 | [Shark Teeth](./17801246%20-%20Shark%20Teeth.md)                 |        5 | 119, 120, 121, 65535                                                                                                               |
+| 0x010FA01F       |         17801247 | [Bhukka Sahbeo](./17801247%20-%20Bhukka%20Sahbeo.md)             |        5 | 122, 188, 65535                                                                                                                    |
+| 0x010FA020       |         17801248 | [Door_a](./17801248%20-%20Door_a.md)                             |        3 | 116, 65535                                                                                                                         |
+| 0x010FA021       |         17801249 | [Door_b](./17801249%20-%20Door_b.md)                             |        3 | 121, 65535                                                                                                                         |
+| 0x010FA022       |         17801250 | [Majjih Bakrhamab](./17801250%20-%20Majjih%20Bakrhamab.md)       |        2 | 261, 65535                                                                                                                         |
+| 0x010FA023       |         17801251 | [Shey Wayatih](./17801251%20-%20Shey%20Wayatih.md)               |        2 | 303, 65535                                                                                                                         |
+| 0x010FA024       |         17801252 | [Ney Hiparujah](./17801252%20-%20Ney%20Hiparujah.md)             |       12 | 252, 253, 254, 255, 256, 257, 258, 259, 260, 65535                                                                                 |
+| 0x010FA025       |         17801253 | [Ghemi Sinterilo](./17801253%20-%20Ghemi%20Sinterilo.md)         |        3 | 65535                                                                                                                              |
+| 0x010FA026       |         17801254 | [Tahn Posbei](./17801254%20-%20Tahn%20Posbei.md)                 |        1 | 65535                                                                                                                              |
+| 0x010FA027       |         17801255 | [Cha Tigunalhgo](./17801255%20-%20Cha%20Tigunalhgo.md)           |        5 | 100, 185, 65535                                                                                                                    |
+| 0x010FA028       |         17801256 | [Khifo Ryuhkowa](./17801256%20-%20Khifo%20Ryuhkowa.md)           |        3 | 65535                                                                                                                              |
+| 0x010FA029       |         17801257 | [Vah Keshura](./17801257%20-%20Vah%20Keshura.md)                 |       27 | 124, 130, 131, 132, 187, 65535                                                                                                     |
+| 0x010FA02A       |         17801258 | [Soun Abralah](./17801258%20-%20Soun%20Abralah.md)               |       32 | 101, 102, 103, 104, 105, 106, 186, 65535                                                                                           |
+| 0x010FA02B       |         17801259 | [Nomad Moogle](./17801259%20-%20Nomad%20Moogle.md)               |        2 | 10015, 65535                                                                                                                       |
+| 0x010FA02C       |         17801260 | [Nomad Moogle](./17801260%20-%20Nomad%20Moogle.md)               |        2 | 10015, 65535                                                                                                                       |
+| 0x010FA02D       |         17801261 | [Nuh Celodehki](./17801261%20-%20Nuh%20Celodehki.md)             |        3 | 65535                                                                                                                              |
+| 0x010FA02E       |         17801262 | [Magriffon](./17801262%20-%20Magriffon.md)                       |       79 | 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 277, 299, 300, 301, 302, 65535                                              |
+| 0x010FA02F       |         17801263 | [1](./17801263%20-%201.md)                                       |        5 | 144, 65535                                                                                                                         |
+| 0x010FA030       |         17801264 | [2](./17801264%20-%202.md)                                       |        6 | 144, 65535                                                                                                                         |
+| 0x010FA031       |         17801265 | [3](./17801265%20-%203.md)                                       |        6 | 144, 65535                                                                                                                         |
+| 0x010FA032       |         17801266 | [4](./17801266%20-%204.md)                                       |        4 | 144, 65535                                                                                                                         |
+| 0x010FA033       |         17801267 | [5](./17801267%20-%205.md)                                       |        5 | 144, 65535                                                                                                                         |
+| 0x010FA034       |         17801268 | [Magriffon](./17801268%20-%20Magriffon.md)                       |       12 | 148, 65535                                                                                                                         |
+| 0x010FA035       |         17801269 | [Kihujin](./17801269%20-%20Kihujin.md)                           |       12 | 148, 65535                                                                                                                         |
+| 0x010FA036       |         17801270 | [Kaizoku01](./17801270%20-%20Kaizoku01.md)                       |        3 | 148, 65535                                                                                                                         |
+| 0x010FA037       |         17801271 | [Kaizoku02](./17801271%20-%20Kaizoku02.md)                       |        5 | 148, 65535                                                                                                                         |
+| 0x010FA038       |         17801272 | [Kaizoku03](./17801272%20-%20Kaizoku03.md)                       |        9 | 148, 65535                                                                                                                         |
+| 0x010FA039       |         17801273 | [Khaffi Salponoihz](./17801273%20-%20Khaffi%20Salponoihz.md)     |        7 | 70, 73, 83, 176, 65535                                                                                                             |
+| 0x010FA03A       |         17801274 | [Hari Pakhroib](./17801274%20-%20Hari%20Pakhroib.md)             |       15 | 68, 69, 71, 72, 84, 175, 65535                                                                                                     |
+| 0x010FA03B       |         17801275 | [Romaa Mihgo](./17801275%20-%20Romaa%20Mihgo.md)                 |       15 | 263, 266, 267, 276, 295, 296, 297, 298, 306, 65535                                                                                 |
+| 0x010FA03C       |         17801276 | [Toeh Leddenbah](./17801276%20-%20Toeh%20Leddenbah.md)           |        7 | 85, 173, 295, 297, 65535                                                                                                           |
+| 0x010FA03D       |         17801277 | [Kyun Magopiteh](./17801277%20-%20Kyun%20Magopiteh.md)           |        7 | 86, 174, 295, 297, 65535                                                                                                           |
+| 0x010FA03E       |         17801278 | [Toji Mumosulah](./17801278%20-%20Toji%20Mumosulah.md)           |        3 | 65535                                                                                                                              |
+| 0x010FA03F       |         17801279 | [Pahya Lolohoiv](./17801279%20-%20Pahya%20Lolohoiv.md)           |       22 | 75, 172, 191, 193, 65535                                                                                                           |
+| 0x010FA040       |         17801280 | [Gatih Mijurabi](./17801280%20-%20Gatih%20Mijurabi.md)           |       26 | 191, 192, 193, 194, 195, 196, 65535                                                                                                |
+| 0x010FA041       |         17801281 | [Shed](./17801281%20-%20Shed.md)                                 |        6 | 126, 128, 133, 65535                                                                                                               |
+| 0x010FA042       |         17801282 | [Mhebi Juhbily](./17801282%20-%20Mhebi%20Juhbily.md)             |       41 | 125, 126, 127, 128, 129, 133, 134, 135, 318, 65535                                                                                 |
+| 0x010FA043       |         17801283 | [(unnamed)](./17801283.md)                                       |        3 | 128, 133, 65535                                                                                                                    |
+| 0x010FA044       |         17801284 | [Door_c](./17801284%20-%20Door_c.md)                             |        1 | 65535                                                                                                                              |
+| 0x010FA048       |         17801288 | [Lulupp](./17801288%20-%20Lulupp.md)                             |       12 | 197, 207, 217, 219, 229, 239, 241, 242, 65535                                                                                      |
+| 0x010FA049       |         17801289 | [Kukupp](./17801289%20-%20Kukupp.md)                             |       10 | 198, 208, 220, 230, 241, 243, 65535                                                                                                |
+| 0x010FA04A       |         17801290 | [Mumupp](./17801290%20-%20Mumupp.md)                             |       17 | 44, 47, 50, 53, 54, 57, 114, 199, 209, 221, 231, 241, 244, 65535                                                                   |
+| 0x010FA04B       |         17801291 | [Roropp](./17801291%20-%20Roropp.md)                             |       10 | 200, 210, 222, 232, 241, 245, 65535                                                                                                |
+| 0x010FA04C       |         17801292 | [Popopp](./17801292%20-%20Popopp.md)                             |       11 | 201, 211, 223, 233, 241, 246, 65535                                                                                                |
+| 0x010FA04D       |         17801293 | [Bubupp](./17801293%20-%20Bubupp.md)                             |       10 | 202, 212, 224, 234, 241, 247, 65535                                                                                                |
+| 0x010FA04E       |         17801294 | [Tatapp](./17801294%20-%20Tatapp.md)                             |       11 | 203, 213, 225, 235, 241, 248, 65535                                                                                                |
+| 0x010FA04F       |         17801295 | [Kakapp](./17801295%20-%20Kakapp.md)                             |       17 | 44, 47, 50, 53, 54, 57, 114, 204, 214, 226, 236, 241, 249, 65535                                                                   |
+| 0x010FA050       |         17801296 | [Lalapp](./17801296%20-%20Lalapp.md)                             |       10 | 205, 215, 227, 237, 241, 250, 65535                                                                                                |
+| 0x010FA051       |         17801297 | [Nenepp](./17801297%20-%20Nenepp.md)                             |       11 | 206, 216, 228, 238, 241, 251, 65535                                                                                                |
+| 0x010FA052       |         17801298 | [Vuih Stecoppah](./17801298%20-%20Vuih%20Stecoppah.md)           |       56 | 217, 239, 241, 65535                                                                                                               |
+| 0x010FA053       |         17801299 | [Dheo Nbolo](./17801299%20-%20Dheo%20Nbolo.md)                   |       13 | 91, 181, 217, 218, 239, 240, 65535                                                                                                 |
+| 0x010FA054       |         17801300 | [Cha Chalco](./17801300%20-%20Cha%20Chalco.md)                   |        3 | 65535                                                                                                                              |
+| 0x010FA055       |         17801301 | [Cophi Ricuub](./17801301%20-%20Cophi%20Ricuub.md)               |        3 | 65535                                                                                                                              |
+| 0x010FA056       |         17801302 | [Sulo Mouzho](./17801302%20-%20Sulo%20Mouzho.md)                 |        3 | 65535                                                                                                                              |
+| 0x010FA057       |         17801303 | [Kobhi Sarhigamya](./17801303%20-%20Kobhi%20Sarhigamya.md)       |        1 | 65535                                                                                                                              |
+| 0x010FA058       |         17801304 | [Tio Moshroca](./17801304%20-%20Tio%20Moshroca.md)               |        4 | 123, 65535                                                                                                                         |
+| 0x010FA059       |         17801305 | [Home Point 1](./17801305%20-%20Home%20Point%201.md)             |        2 | 8700, 65535                                                                                                                        |
+| 0x010FA05A       |         17801306 | [Home Point 2](./17801306%20-%20Home%20Point%202.md)             |        2 | 8701, 65535                                                                                                                        |
+| 0x010FA05B       |         17801307 | [Home Point 3](./17801307%20-%20Home%20Point%203.md)             |        2 | 8702, 65535                                                                                                                        |
+| 0x010FA05C       |         17801308 | [Home Point 4](./17801308%20-%20Home%20Point%204.md)             |        2 | 8703, 65535                                                                                                                        |
+| 0x010FA05D       |         17801309 | [Home Point 5](./17801309%20-%20Home%20Point%205.md)             |        2 | 8704, 65535                                                                                                                        |
+| 0x010FA060       |         17801312 | [DoorWahcondalos Res](./17801312%20-%20DoorWahcondalos%20Res.md) |        8 | 44, 47, 50, 53, 54, 57, 114, 65535                                                                                                 |
+| 0x010FA063       |         17801315 | [DoorMihgos Res](./17801315%20-%20DoorMihgos%20Res.md)           |        3 | 295, 297, 65535                                                                                                                    |
+| 0x010FA068       |         17801320 | [(unnamed)](./17801320.md)                                       |        4 | 144, 273, 10000, 65535                                                                                                             |
+| 0x010FA06A       |         17801322 | [Ronta-Onta](./17801322%20-%20Ronta-Onta.md)                     |       54 | 270, 271, 272, 273, 274, 285, 286, 287, 289, 290, 291, 65535                                                                       |
+| 0x010FA06B       |         17801323 | [Dodmos](./17801323%20-%20Dodmos.md)                             |       16 | 270, 272, 273, 275, 286, 287, 288, 289, 290, 291, 292, 65535                                                                       |
+| 0x010FA06C       |         17801324 | [(unnamed)](./17801324.md)                                       |        6 | 273, 65535                                                                                                                         |
+| 0x010FA06D       |         17801325 | [Talking Doll](./17801325%20-%20Talking%20Doll.md)               |        7 | 273, 65535                                                                                                                         |
+| 0x010FA06E       |         17801326 | [Carbuncle](./17801326%20-%20Carbuncle.md)                       |        4 | 273, 65535                                                                                                                         |
+| 0x010FA078       |         17801336 | [Tielleque](./17801336%20-%20Tielleque.md)                       |        5 | 313, 315, 10016, 10017, 65535                                                                                                      |
+| 0x010FA079       |         17801337 | [(unnamed)](./17801337.md)                                       |        3 | 313, 315, 65535                                                                                                                    |
+| 0x010FA07A       |         17801338 | [Mamerie](./17801338%20-%20Mamerie.md)                           |        3 | 313, 315, 65535                                                                                                                    |
+| 0x010FA07B       |         17801339 | [Beyzen](./17801339%20-%20Beyzen.md)                             |        2 | 278, 65535                                                                                                                         |
+| 0x010FA07C       |         17801340 | [Swift](./17801340%20-%20Swift.md)                               |        2 | 10018, 65535                                                                                                                       |
+| 0x010FA07D       |         17801341 | [(unnamed)](./17801341.md)                                       |        2 | 10018, 65535                                                                                                                       |
+| 0x010FA07E       |         17801342 | [Hunt Registry](./17801342%20-%20Hunt%20Registry.md)             |        2 | 1500, 65535                                                                                                                        |
+| 0x010FA07F       |         17801343 | [Synergy Engineer](./17801343%20-%20Synergy%20Engineer.md)       |        2 | 11001, 65535                                                                                                                       |
+| 0x010FA080       |         17801344 | [Synergy Engineer](./17801344%20-%20Synergy%20Engineer.md)       |        3 | 11002, 65535                                                                                                                       |
+| 0x010FA081       |         17801345 | [Synergy Furnace](./17801345%20-%20Synergy%20Furnace.md)         |       10 | 4500, 4501, 4502, 4503, 4504, 4505, 4506, 4507, 4508, 65535                                                                        |
+| 0x010FA082       |         17801346 | [Synergy Furnace](./17801346%20-%20Synergy%20Furnace.md)         |       10 | 4509, 4510, 4511, 4512, 4513, 4514, 4515, 4516, 4517, 65535                                                                        |
+| 0x010FA083       |         17801347 | [Synergy Furnace](./17801347%20-%20Synergy%20Furnace.md)         |       11 | 4518, 4519, 4520, 4521, 4522, 4523, 4524, 4525, 4526, 65535                                                                        |
+| 0x010FA084       |         17801348 | [Synergy Furnace](./17801348%20-%20Synergy%20Furnace.md)         |       11 | 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 65535                                                                        |
+| 0x010FA085       |         17801349 | [Synergy Enthusiast](./17801349%20-%20Synergy%20Enthusiast.md)   |        2 | 12001, 65535                                                                                                                       |
+| 0x010FA086       |         17801350 | [Porter Moogle](./17801350%20-%20Porter%20Moogle.md)             |        7 | 307, 308, 309, 310, 311, 319, 65535                                                                                                |
+| 0x010FA087       |         17801351 | [(unnamed)](./17801351.md)                                       |        6 | 307, 309, 65535                                                                                                                    |
+| 0x010FA088       |         17801352 | [Hildegard](./17801352%20-%20Hildegard.md)                       |        5 | 312, 313, 314, 315, 65535                                                                                                          |
+| 0x010FA089       |         17801353 | [(unnamed)](./17801353.md)                                       |        3 | 313, 315, 65535                                                                                                                    |
+| 0x010FA08A       |         17801354 | [Atmacite Refiner](./17801354%20-%20Atmacite%20Refiner.md)       |        7 | 316, 65535                                                                                                                         |
+| 0x010FA08E       |         17801358 | [Survival Guide](./17801358%20-%20Survival%20Guide.md)           |        3 | 8500, 8501, 65535                                                                                                                  |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                |       45 | 10000, 10001, 10002, 10014, 65534, 65535                                                                                           |

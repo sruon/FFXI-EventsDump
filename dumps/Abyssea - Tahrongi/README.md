@@ -18,163 +18,163 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                                 |   Events |
-|------------------|------------------|----------------------------------------------------------------------|----------|
-| 0x0102D1A2       |         16961954 | [(unnamed)](./16961954.md)                                           |        2 |
-| 0x0102D1A3       |         16961955 | [(unnamed)](./16961955.md)                                           |        2 |
-| 0x0102D1A4       |         16961956 | [(unnamed)](./16961956.md)                                           |        2 |
-| 0x0102D1A5       |         16961957 | [(unnamed)](./16961957.md)                                           |        2 |
-| 0x0102D1A6       |         16961958 | [(unnamed)](./16961958.md)                                           |        2 |
-| 0x0102D1A7       |         16961959 | [(unnamed)](./16961959.md)                                           |        2 |
-| 0x0102D1A8       |         16961960 | [(unnamed)](./16961960.md)                                           |        2 |
-| 0x0102D1A9       |         16961961 | [(unnamed)](./16961961.md)                                           |        2 |
-| 0x0102D1AA       |         16961962 | [(unnamed)](./16961962.md)                                           |        2 |
-| 0x0102D1AB       |         16961963 | [(unnamed)](./16961963.md)                                           |        2 |
-| 0x0102D1AC       |         16961964 | [(unnamed)](./16961964.md)                                           |        2 |
-| 0x0102D1AD       |         16961965 | [(unnamed)](./16961965.md)                                           |        2 |
-| 0x0102D1AE       |         16961966 | [(unnamed)](./16961966.md)                                           |        3 |
-| 0x0102D1AF       |         16961967 | [(unnamed)](./16961967.md)                                           |        3 |
-| 0x0102D1B0       |         16961968 | [(unnamed)](./16961968.md)                                           |        3 |
-| 0x0102D1B1       |         16961969 | [(unnamed)](./16961969.md)                                           |        3 |
-| 0x0102D1B2       |         16961970 | [(unnamed)](./16961970.md)                                           |        3 |
-| 0x0102D1B3       |         16961971 | [(unnamed)](./16961971.md)                                           |        3 |
-| 0x0102D1B4       |         16961972 | [(unnamed)](./16961972.md)                                           |        3 |
-| 0x0102D1B5       |         16961973 | [(unnamed)](./16961973.md)                                           |        3 |
-| 0x0102D1B6       |         16961974 | [(unnamed)](./16961974.md)                                           |        3 |
-| 0x0102D1BC       |         16961980 | [(unnamed)](./16961980.md)                                           |        2 |
-| 0x0102D1BE       |         16961982 | [Conflux Surveyor](./16961982%20-%20Conflux%20Surveyor.md)           |        2 |
-| 0x0102D1BF       |         16961983 | [Cruor Prospector](./16961983%20-%20Cruor%20Prospector.md)           |        2 |
-| 0x0102D1C0       |         16961984 | [Atma Infusionist](./16961984%20-%20Atma%20Infusionist.md)           |        2 |
-| 0x0102D1C1       |         16961985 | [Atma Fabricant](./16961985%20-%20Atma%20Fabricant.md)               |        2 |
-| 0x0102D1C2       |         16961986 | [Time Master Debug](./16961986%20-%20Time%20Master%20Debug.md)       |        2 |
-| 0x0102D1C3       |         16961987 | [AP Master Debug](./16961987%20-%20AP%20Master%20Debug.md)           |        2 |
-| 0x0102D1C8       |         16961992 | [Sturdy Pyxis](./16961992%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1C9       |         16961993 | [Sturdy Pyxis](./16961993%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1CA       |         16961994 | [Sturdy Pyxis](./16961994%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1CB       |         16961995 | [Sturdy Pyxis](./16961995%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1CC       |         16961996 | [Sturdy Pyxis](./16961996%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1CD       |         16961997 | [Sturdy Pyxis](./16961997%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1CE       |         16961998 | [Sturdy Pyxis](./16961998%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1CF       |         16961999 | [Sturdy Pyxis](./16961999%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D0       |         16962000 | [Sturdy Pyxis](./16962000%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D1       |         16962001 | [Sturdy Pyxis](./16962001%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D2       |         16962002 | [Sturdy Pyxis](./16962002%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D3       |         16962003 | [Sturdy Pyxis](./16962003%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D4       |         16962004 | [Sturdy Pyxis](./16962004%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D5       |         16962005 | [Sturdy Pyxis](./16962005%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D6       |         16962006 | [Sturdy Pyxis](./16962006%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D7       |         16962007 | [Sturdy Pyxis](./16962007%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D8       |         16962008 | [Sturdy Pyxis](./16962008%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1D9       |         16962009 | [Sturdy Pyxis](./16962009%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1DA       |         16962010 | [Sturdy Pyxis](./16962010%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1DB       |         16962011 | [Sturdy Pyxis](./16962011%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1DC       |         16962012 | [Sturdy Pyxis](./16962012%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1DD       |         16962013 | [Sturdy Pyxis](./16962013%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1DE       |         16962014 | [Sturdy Pyxis](./16962014%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1DF       |         16962015 | [Sturdy Pyxis](./16962015%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E0       |         16962016 | [Sturdy Pyxis](./16962016%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E1       |         16962017 | [Sturdy Pyxis](./16962017%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E2       |         16962018 | [Sturdy Pyxis](./16962018%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E3       |         16962019 | [Sturdy Pyxis](./16962019%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E4       |         16962020 | [Sturdy Pyxis](./16962020%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E5       |         16962021 | [Sturdy Pyxis](./16962021%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E6       |         16962022 | [Sturdy Pyxis](./16962022%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E7       |         16962023 | [Sturdy Pyxis](./16962023%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E8       |         16962024 | [Sturdy Pyxis](./16962024%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1E9       |         16962025 | [Sturdy Pyxis](./16962025%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1EA       |         16962026 | [Sturdy Pyxis](./16962026%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1EB       |         16962027 | [Sturdy Pyxis](./16962027%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1EC       |         16962028 | [Sturdy Pyxis](./16962028%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1ED       |         16962029 | [Sturdy Pyxis](./16962029%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1EE       |         16962030 | [Sturdy Pyxis](./16962030%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1EF       |         16962031 | [Sturdy Pyxis](./16962031%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F0       |         16962032 | [Sturdy Pyxis](./16962032%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F1       |         16962033 | [Sturdy Pyxis](./16962033%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F2       |         16962034 | [Sturdy Pyxis](./16962034%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F3       |         16962035 | [Sturdy Pyxis](./16962035%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F4       |         16962036 | [Sturdy Pyxis](./16962036%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F5       |         16962037 | [Sturdy Pyxis](./16962037%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F6       |         16962038 | [Sturdy Pyxis](./16962038%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F7       |         16962039 | [Sturdy Pyxis](./16962039%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F8       |         16962040 | [Sturdy Pyxis](./16962040%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1F9       |         16962041 | [Sturdy Pyxis](./16962041%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1FA       |         16962042 | [Sturdy Pyxis](./16962042%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1FB       |         16962043 | [Sturdy Pyxis](./16962043%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1FC       |         16962044 | [Sturdy Pyxis](./16962044%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1FD       |         16962045 | [Sturdy Pyxis](./16962045%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1FE       |         16962046 | [Sturdy Pyxis](./16962046%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D1FF       |         16962047 | [Sturdy Pyxis](./16962047%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D200       |         16962048 | [Sturdy Pyxis](./16962048%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D201       |         16962049 | [Sturdy Pyxis](./16962049%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D202       |         16962050 | [Sturdy Pyxis](./16962050%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D203       |         16962051 | [Sturdy Pyxis](./16962051%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D204       |         16962052 | [Sturdy Pyxis](./16962052%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D205       |         16962053 | [Sturdy Pyxis](./16962053%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D206       |         16962054 | [Sturdy Pyxis](./16962054%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D207       |         16962055 | [Sturdy Pyxis](./16962055%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D208       |         16962056 | [Sturdy Pyxis](./16962056%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D209       |         16962057 | [Sturdy Pyxis](./16962057%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D20A       |         16962058 | [Sturdy Pyxis](./16962058%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D20B       |         16962059 | [Sturdy Pyxis](./16962059%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D20C       |         16962060 | [Sturdy Pyxis](./16962060%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D20D       |         16962061 | [Sturdy Pyxis](./16962061%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D20E       |         16962062 | [Sturdy Pyxis](./16962062%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D20F       |         16962063 | [Sturdy Pyxis](./16962063%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D210       |         16962064 | [Sturdy Pyxis](./16962064%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D211       |         16962065 | [Sturdy Pyxis](./16962065%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D212       |         16962066 | [Sturdy Pyxis](./16962066%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D213       |         16962067 | [Sturdy Pyxis](./16962067%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D214       |         16962068 | [Sturdy Pyxis](./16962068%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D215       |         16962069 | [Sturdy Pyxis](./16962069%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D216       |         16962070 | [Sturdy Pyxis](./16962070%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D217       |         16962071 | [Sturdy Pyxis](./16962071%20-%20Sturdy%20Pyxis.md)                   |        3 |
-| 0x0102D218       |         16962072 | [Veridical Conflux 01](./16962072%20-%20Veridical%20Conflux%2001.md) |        2 |
-| 0x0102D219       |         16962073 | [Veridical Conflux 02](./16962073%20-%20Veridical%20Conflux%2002.md) |        2 |
-| 0x0102D21A       |         16962074 | [Veridical Conflux 03](./16962074%20-%20Veridical%20Conflux%2003.md) |        2 |
-| 0x0102D21B       |         16962075 | [Veridical Conflux 04](./16962075%20-%20Veridical%20Conflux%2004.md) |        2 |
-| 0x0102D21C       |         16962076 | [Veridical Conflux 05](./16962076%20-%20Veridical%20Conflux%2005.md) |        2 |
-| 0x0102D21D       |         16962077 | [Veridical Conflux 06](./16962077%20-%20Veridical%20Conflux%2006.md) |        2 |
-| 0x0102D21E       |         16962078 | [Veridical Conflux 07](./16962078%20-%20Veridical%20Conflux%2007.md) |        2 |
-| 0x0102D21F       |         16962079 | [Veridical Conflux 08](./16962079%20-%20Veridical%20Conflux%2008.md) |        2 |
-| 0x0102D220       |         16962080 | [TR-01 Martello](./16962080%20-%20TR-01%20Martello.md)               |        2 |
-| 0x0102D221       |         16962081 | [TR-02 Martello](./16962081%20-%20TR-02%20Martello.md)               |        2 |
-| 0x0102D222       |         16962082 | [TR-03 Martello](./16962082%20-%20TR-03%20Martello.md)               |        2 |
-| 0x0102D223       |         16962083 | [TR-04 Martello](./16962083%20-%20TR-04%20Martello.md)               |        2 |
-| 0x0102D224       |         16962084 | [TR-05 Martello](./16962084%20-%20TR-05%20Martello.md)               |        2 |
-| 0x0102D225       |         16962085 | [TR-06 Martello](./16962085%20-%20TR-06%20Martello.md)               |        2 |
-| 0x0102D226       |         16962086 | [TR-07 Martello](./16962086%20-%20TR-07%20Martello.md)               |        2 |
-| 0x0102D227       |         16962087 | [TR-08 Martello](./16962087%20-%20TR-08%20Martello.md)               |        2 |
-| 0x0102D229       |         16962089 | [Cavernous Maw](./16962089%20-%20Cavernous%20Maw.md)                 |        2 |
-| 0x0102D22A       |         16962090 | [Kupipi](./16962090%20-%20Kupipi.md)                                 |       12 |
-| 0x0102D22B       |         16962091 | [Apururu](./16962091%20-%20Apururu.md)                               |       12 |
-| 0x0102D22C       |         16962092 | [Hakkuru-Rinkuru](./16962092%20-%20Hakkuru-Rinkuru.md)               |        2 |
-| 0x0102D22D       |         16962093 | [Kuroido-Moido](./16962093%20-%20Kuroido-Moido.md)                   |        2 |
-| 0x0102D22E       |         16962094 | [Ohruru](./16962094%20-%20Ohruru.md)                                 |        2 |
-| 0x0102D22F       |         16962095 | [Janshura-Rashura](./16962095%20-%20Janshura-Rashura.md)             |        2 |
-| 0x0102D230       |         16962096 | [Zabirego-Hajigo](./16962096%20-%20Zabirego-Hajigo.md)               |        3 |
-| 0x0102D231       |         16962097 | [Piketo-Puketo](./16962097%20-%20Piketo-Puketo.md)                   |        7 |
-| 0x0102D232       |         16962098 | [Kopuro-Popuro](./16962098%20-%20Kopuro-Popuro.md)                   |        8 |
-| 0x0102D233       |         16962099 | [Bottomless Box](./16962099%20-%20Bottomless%20Box.md)               |        2 |
-| 0x0102D234       |         16962100 | [Peshi Yohnts](./16962100%20-%20Peshi%20Yohnts.md)                   |        7 |
-| 0x0102D235       |         16962101 | [Zahsa Syalmhaia](./16962101%20-%20Zahsa%20Syalmhaia.md)             |        2 |
-| 0x0102D236       |         16962102 | [Ada](./16962102%20-%20Ada.md)                                       |        2 |
-| 0x0102D237       |         16962103 | [Ohbiru-Dohbiru](./16962103%20-%20Ohbiru-Dohbiru.md)                 |        7 |
-| 0x0102D238       |         16962104 | [Kenapa-Keppa](./16962104%20-%20Kenapa-Keppa.md)                     |        7 |
-| 0x0102D239       |         16962105 | [Diegai](./16962105%20-%20Diegai.md)                                 |        6 |
-| 0x0102D23A       |         16962106 | [Mhabi Molkot](./16962106%20-%20Mhabi%20Molkot.md)                   |        2 |
-| 0x0102D23B       |         16962107 | [Erpolant](./16962107%20-%20Erpolant.md)                             |        2 |
-| 0x0102D23C       |         16962108 | [Fuepepe](./16962108%20-%20Fuepepe.md)                               |        2 |
-| 0x0102D23D       |         16962109 | [Furakku-Norakku](./16962109%20-%20Furakku-Norakku.md)               |        2 |
-| 0x0102D23E       |         16962110 | [Baha Mannohl](./16962110%20-%20Baha%20Mannohl.md)                   |       11 |
-| 0x0102D240       |         16962112 | [Rhy Epocan](./16962112%20-%20Rhy%20Epocan.md)                       |        2 |
-| 0x0102D241       |         16962113 | [Baladanzo](./16962113%20-%20Baladanzo.md)                           |       11 |
-| 0x0102D242       |         16962114 | [(unnamed)](./16962114.md)                                           |        1 |
-| 0x0102D243       |         16962115 | [Bopa Greso](./16962115%20-%20Bopa%20Greso.md)                       |        7 |
-| 0x0102D244       |         16962116 | [Cha Lebagta](./16962116%20-%20Cha%20Lebagta.md)                     |        8 |
-| 0x0102D245       |         16962117 | [Gnarled Root](./16962117%20-%20Gnarled%20Root.md)                   |        2 |
-| 0x0102D25F       |         16962143 | [(unnamed)](./16962143.md)                                           |        2 |
-| 0x0102D260       |         16962144 | [Shaz Norem](./16962144%20-%20Shaz%20Norem.md)                       |        4 |
-| 0x0102D261       |         16962145 | [Event Master](./16962145%20-%20Event%20Master.md)                   |        2 |
-| 0x0102D262       |         16962146 | [Machine Outfitter](./16962146%20-%20Machine%20Outfitter.md)         |        3 |
-| 0x0102D271       |         16962161 | [Excavation Point](./16962161%20-%20Excavation%20Point.md)           |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                    |        5 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                                 |   Events | Event IDs                                                    |
+|------------------|------------------|----------------------------------------------------------------------|----------|--------------------------------------------------------------|
+| 0x0102D1A2       |         16961954 | [(unnamed)](./16961954.md)                                           |        2 | 1000, 65535                                                  |
+| 0x0102D1A3       |         16961955 | [(unnamed)](./16961955.md)                                           |        2 | 1001, 65535                                                  |
+| 0x0102D1A4       |         16961956 | [(unnamed)](./16961956.md)                                           |        2 | 1002, 65535                                                  |
+| 0x0102D1A5       |         16961957 | [(unnamed)](./16961957.md)                                           |        2 | 1003, 65535                                                  |
+| 0x0102D1A6       |         16961958 | [(unnamed)](./16961958.md)                                           |        2 | 1004, 65535                                                  |
+| 0x0102D1A7       |         16961959 | [(unnamed)](./16961959.md)                                           |        2 | 1005, 65535                                                  |
+| 0x0102D1A8       |         16961960 | [(unnamed)](./16961960.md)                                           |        2 | 1006, 65535                                                  |
+| 0x0102D1A9       |         16961961 | [(unnamed)](./16961961.md)                                           |        2 | 1007, 65535                                                  |
+| 0x0102D1AA       |         16961962 | [(unnamed)](./16961962.md)                                           |        2 | 1008, 65535                                                  |
+| 0x0102D1AB       |         16961963 | [(unnamed)](./16961963.md)                                           |        2 | 1009, 65535                                                  |
+| 0x0102D1AC       |         16961964 | [(unnamed)](./16961964.md)                                           |        2 | 1010, 65535                                                  |
+| 0x0102D1AD       |         16961965 | [(unnamed)](./16961965.md)                                           |        2 | 1011, 65535                                                  |
+| 0x0102D1AE       |         16961966 | [(unnamed)](./16961966.md)                                           |        3 | 1012, 1015, 65535                                            |
+| 0x0102D1AF       |         16961967 | [(unnamed)](./16961967.md)                                           |        3 | 1013, 1016, 65535                                            |
+| 0x0102D1B0       |         16961968 | [(unnamed)](./16961968.md)                                           |        3 | 1014, 1017, 65535                                            |
+| 0x0102D1B1       |         16961969 | [(unnamed)](./16961969.md)                                           |        3 | 1018, 1021, 65535                                            |
+| 0x0102D1B2       |         16961970 | [(unnamed)](./16961970.md)                                           |        3 | 1019, 1022, 65535                                            |
+| 0x0102D1B3       |         16961971 | [(unnamed)](./16961971.md)                                           |        3 | 1020, 1023, 65535                                            |
+| 0x0102D1B4       |         16961972 | [(unnamed)](./16961972.md)                                           |        3 | 1024, 1027, 65535                                            |
+| 0x0102D1B5       |         16961973 | [(unnamed)](./16961973.md)                                           |        3 | 1025, 1028, 65535                                            |
+| 0x0102D1B6       |         16961974 | [(unnamed)](./16961974.md)                                           |        3 | 1026, 1029, 65535                                            |
+| 0x0102D1BC       |         16961980 | [(unnamed)](./16961980.md)                                           |        2 | 201, 65535                                                   |
+| 0x0102D1BE       |         16961982 | [Conflux Surveyor](./16961982%20-%20Conflux%20Surveyor.md)           |        2 | 2001, 65535                                                  |
+| 0x0102D1BF       |         16961983 | [Cruor Prospector](./16961983%20-%20Cruor%20Prospector.md)           |        2 | 2002, 65535                                                  |
+| 0x0102D1C0       |         16961984 | [Atma Infusionist](./16961984%20-%20Atma%20Infusionist.md)           |        2 | 2003, 65535                                                  |
+| 0x0102D1C1       |         16961985 | [Atma Fabricant](./16961985%20-%20Atma%20Fabricant.md)               |        2 | 2182, 65535                                                  |
+| 0x0102D1C2       |         16961986 | [Time Master Debug](./16961986%20-%20Time%20Master%20Debug.md)       |        2 | 2000, 65535                                                  |
+| 0x0102D1C3       |         16961987 | [AP Master Debug](./16961987%20-%20AP%20Master%20Debug.md)           |        2 | 2181, 65535                                                  |
+| 0x0102D1C8       |         16961992 | [Sturdy Pyxis](./16961992%20-%20Sturdy%20Pyxis.md)                   |        3 | 2004, 2068, 65535                                            |
+| 0x0102D1C9       |         16961993 | [Sturdy Pyxis](./16961993%20-%20Sturdy%20Pyxis.md)                   |        3 | 2005, 2069, 65535                                            |
+| 0x0102D1CA       |         16961994 | [Sturdy Pyxis](./16961994%20-%20Sturdy%20Pyxis.md)                   |        3 | 2006, 2070, 65535                                            |
+| 0x0102D1CB       |         16961995 | [Sturdy Pyxis](./16961995%20-%20Sturdy%20Pyxis.md)                   |        3 | 2007, 2071, 65535                                            |
+| 0x0102D1CC       |         16961996 | [Sturdy Pyxis](./16961996%20-%20Sturdy%20Pyxis.md)                   |        3 | 2008, 2072, 65535                                            |
+| 0x0102D1CD       |         16961997 | [Sturdy Pyxis](./16961997%20-%20Sturdy%20Pyxis.md)                   |        3 | 2009, 2073, 65535                                            |
+| 0x0102D1CE       |         16961998 | [Sturdy Pyxis](./16961998%20-%20Sturdy%20Pyxis.md)                   |        3 | 2010, 2074, 65535                                            |
+| 0x0102D1CF       |         16961999 | [Sturdy Pyxis](./16961999%20-%20Sturdy%20Pyxis.md)                   |        3 | 2011, 2075, 65535                                            |
+| 0x0102D1D0       |         16962000 | [Sturdy Pyxis](./16962000%20-%20Sturdy%20Pyxis.md)                   |        3 | 2012, 2076, 65535                                            |
+| 0x0102D1D1       |         16962001 | [Sturdy Pyxis](./16962001%20-%20Sturdy%20Pyxis.md)                   |        3 | 2013, 2077, 65535                                            |
+| 0x0102D1D2       |         16962002 | [Sturdy Pyxis](./16962002%20-%20Sturdy%20Pyxis.md)                   |        3 | 2014, 2078, 65535                                            |
+| 0x0102D1D3       |         16962003 | [Sturdy Pyxis](./16962003%20-%20Sturdy%20Pyxis.md)                   |        3 | 2015, 2079, 65535                                            |
+| 0x0102D1D4       |         16962004 | [Sturdy Pyxis](./16962004%20-%20Sturdy%20Pyxis.md)                   |        3 | 2016, 2080, 65535                                            |
+| 0x0102D1D5       |         16962005 | [Sturdy Pyxis](./16962005%20-%20Sturdy%20Pyxis.md)                   |        3 | 2017, 2081, 65535                                            |
+| 0x0102D1D6       |         16962006 | [Sturdy Pyxis](./16962006%20-%20Sturdy%20Pyxis.md)                   |        3 | 2018, 2082, 65535                                            |
+| 0x0102D1D7       |         16962007 | [Sturdy Pyxis](./16962007%20-%20Sturdy%20Pyxis.md)                   |        3 | 2019, 2083, 65535                                            |
+| 0x0102D1D8       |         16962008 | [Sturdy Pyxis](./16962008%20-%20Sturdy%20Pyxis.md)                   |        3 | 2020, 2084, 65535                                            |
+| 0x0102D1D9       |         16962009 | [Sturdy Pyxis](./16962009%20-%20Sturdy%20Pyxis.md)                   |        3 | 2021, 2085, 65535                                            |
+| 0x0102D1DA       |         16962010 | [Sturdy Pyxis](./16962010%20-%20Sturdy%20Pyxis.md)                   |        3 | 2022, 2086, 65535                                            |
+| 0x0102D1DB       |         16962011 | [Sturdy Pyxis](./16962011%20-%20Sturdy%20Pyxis.md)                   |        3 | 2023, 2087, 65535                                            |
+| 0x0102D1DC       |         16962012 | [Sturdy Pyxis](./16962012%20-%20Sturdy%20Pyxis.md)                   |        3 | 2024, 2088, 65535                                            |
+| 0x0102D1DD       |         16962013 | [Sturdy Pyxis](./16962013%20-%20Sturdy%20Pyxis.md)                   |        3 | 2025, 2089, 65535                                            |
+| 0x0102D1DE       |         16962014 | [Sturdy Pyxis](./16962014%20-%20Sturdy%20Pyxis.md)                   |        3 | 2026, 2090, 65535                                            |
+| 0x0102D1DF       |         16962015 | [Sturdy Pyxis](./16962015%20-%20Sturdy%20Pyxis.md)                   |        3 | 2027, 2091, 65535                                            |
+| 0x0102D1E0       |         16962016 | [Sturdy Pyxis](./16962016%20-%20Sturdy%20Pyxis.md)                   |        3 | 2028, 2092, 65535                                            |
+| 0x0102D1E1       |         16962017 | [Sturdy Pyxis](./16962017%20-%20Sturdy%20Pyxis.md)                   |        3 | 2029, 2093, 65535                                            |
+| 0x0102D1E2       |         16962018 | [Sturdy Pyxis](./16962018%20-%20Sturdy%20Pyxis.md)                   |        3 | 2030, 2094, 65535                                            |
+| 0x0102D1E3       |         16962019 | [Sturdy Pyxis](./16962019%20-%20Sturdy%20Pyxis.md)                   |        3 | 2031, 2095, 65535                                            |
+| 0x0102D1E4       |         16962020 | [Sturdy Pyxis](./16962020%20-%20Sturdy%20Pyxis.md)                   |        3 | 2032, 2096, 65535                                            |
+| 0x0102D1E5       |         16962021 | [Sturdy Pyxis](./16962021%20-%20Sturdy%20Pyxis.md)                   |        3 | 2033, 2097, 65535                                            |
+| 0x0102D1E6       |         16962022 | [Sturdy Pyxis](./16962022%20-%20Sturdy%20Pyxis.md)                   |        3 | 2034, 2098, 65535                                            |
+| 0x0102D1E7       |         16962023 | [Sturdy Pyxis](./16962023%20-%20Sturdy%20Pyxis.md)                   |        3 | 2035, 2099, 65535                                            |
+| 0x0102D1E8       |         16962024 | [Sturdy Pyxis](./16962024%20-%20Sturdy%20Pyxis.md)                   |        3 | 2036, 2100, 65535                                            |
+| 0x0102D1E9       |         16962025 | [Sturdy Pyxis](./16962025%20-%20Sturdy%20Pyxis.md)                   |        3 | 2037, 2101, 65535                                            |
+| 0x0102D1EA       |         16962026 | [Sturdy Pyxis](./16962026%20-%20Sturdy%20Pyxis.md)                   |        3 | 2038, 2102, 65535                                            |
+| 0x0102D1EB       |         16962027 | [Sturdy Pyxis](./16962027%20-%20Sturdy%20Pyxis.md)                   |        3 | 2039, 2103, 65535                                            |
+| 0x0102D1EC       |         16962028 | [Sturdy Pyxis](./16962028%20-%20Sturdy%20Pyxis.md)                   |        3 | 2040, 2104, 65535                                            |
+| 0x0102D1ED       |         16962029 | [Sturdy Pyxis](./16962029%20-%20Sturdy%20Pyxis.md)                   |        3 | 2041, 2105, 65535                                            |
+| 0x0102D1EE       |         16962030 | [Sturdy Pyxis](./16962030%20-%20Sturdy%20Pyxis.md)                   |        3 | 2042, 2106, 65535                                            |
+| 0x0102D1EF       |         16962031 | [Sturdy Pyxis](./16962031%20-%20Sturdy%20Pyxis.md)                   |        3 | 2043, 2107, 65535                                            |
+| 0x0102D1F0       |         16962032 | [Sturdy Pyxis](./16962032%20-%20Sturdy%20Pyxis.md)                   |        3 | 2044, 2108, 65535                                            |
+| 0x0102D1F1       |         16962033 | [Sturdy Pyxis](./16962033%20-%20Sturdy%20Pyxis.md)                   |        3 | 2045, 2109, 65535                                            |
+| 0x0102D1F2       |         16962034 | [Sturdy Pyxis](./16962034%20-%20Sturdy%20Pyxis.md)                   |        3 | 2046, 2110, 65535                                            |
+| 0x0102D1F3       |         16962035 | [Sturdy Pyxis](./16962035%20-%20Sturdy%20Pyxis.md)                   |        3 | 2047, 2111, 65535                                            |
+| 0x0102D1F4       |         16962036 | [Sturdy Pyxis](./16962036%20-%20Sturdy%20Pyxis.md)                   |        3 | 2048, 2112, 65535                                            |
+| 0x0102D1F5       |         16962037 | [Sturdy Pyxis](./16962037%20-%20Sturdy%20Pyxis.md)                   |        3 | 2049, 2113, 65535                                            |
+| 0x0102D1F6       |         16962038 | [Sturdy Pyxis](./16962038%20-%20Sturdy%20Pyxis.md)                   |        3 | 2050, 2114, 65535                                            |
+| 0x0102D1F7       |         16962039 | [Sturdy Pyxis](./16962039%20-%20Sturdy%20Pyxis.md)                   |        3 | 2051, 2115, 65535                                            |
+| 0x0102D1F8       |         16962040 | [Sturdy Pyxis](./16962040%20-%20Sturdy%20Pyxis.md)                   |        3 | 2052, 2116, 65535                                            |
+| 0x0102D1F9       |         16962041 | [Sturdy Pyxis](./16962041%20-%20Sturdy%20Pyxis.md)                   |        3 | 2053, 2117, 65535                                            |
+| 0x0102D1FA       |         16962042 | [Sturdy Pyxis](./16962042%20-%20Sturdy%20Pyxis.md)                   |        3 | 2054, 2118, 65535                                            |
+| 0x0102D1FB       |         16962043 | [Sturdy Pyxis](./16962043%20-%20Sturdy%20Pyxis.md)                   |        3 | 2055, 2119, 65535                                            |
+| 0x0102D1FC       |         16962044 | [Sturdy Pyxis](./16962044%20-%20Sturdy%20Pyxis.md)                   |        3 | 2056, 2120, 65535                                            |
+| 0x0102D1FD       |         16962045 | [Sturdy Pyxis](./16962045%20-%20Sturdy%20Pyxis.md)                   |        3 | 2057, 2121, 65535                                            |
+| 0x0102D1FE       |         16962046 | [Sturdy Pyxis](./16962046%20-%20Sturdy%20Pyxis.md)                   |        3 | 2058, 2122, 65535                                            |
+| 0x0102D1FF       |         16962047 | [Sturdy Pyxis](./16962047%20-%20Sturdy%20Pyxis.md)                   |        3 | 2059, 2123, 65535                                            |
+| 0x0102D200       |         16962048 | [Sturdy Pyxis](./16962048%20-%20Sturdy%20Pyxis.md)                   |        3 | 2060, 2124, 65535                                            |
+| 0x0102D201       |         16962049 | [Sturdy Pyxis](./16962049%20-%20Sturdy%20Pyxis.md)                   |        3 | 2061, 2125, 65535                                            |
+| 0x0102D202       |         16962050 | [Sturdy Pyxis](./16962050%20-%20Sturdy%20Pyxis.md)                   |        3 | 2062, 2126, 65535                                            |
+| 0x0102D203       |         16962051 | [Sturdy Pyxis](./16962051%20-%20Sturdy%20Pyxis.md)                   |        3 | 2063, 2127, 65535                                            |
+| 0x0102D204       |         16962052 | [Sturdy Pyxis](./16962052%20-%20Sturdy%20Pyxis.md)                   |        3 | 2064, 2128, 65535                                            |
+| 0x0102D205       |         16962053 | [Sturdy Pyxis](./16962053%20-%20Sturdy%20Pyxis.md)                   |        3 | 2065, 2129, 65535                                            |
+| 0x0102D206       |         16962054 | [Sturdy Pyxis](./16962054%20-%20Sturdy%20Pyxis.md)                   |        3 | 2066, 2130, 65535                                            |
+| 0x0102D207       |         16962055 | [Sturdy Pyxis](./16962055%20-%20Sturdy%20Pyxis.md)                   |        3 | 2067, 2131, 65535                                            |
+| 0x0102D208       |         16962056 | [Sturdy Pyxis](./16962056%20-%20Sturdy%20Pyxis.md)                   |        3 | 2148, 2164, 65535                                            |
+| 0x0102D209       |         16962057 | [Sturdy Pyxis](./16962057%20-%20Sturdy%20Pyxis.md)                   |        3 | 2149, 2165, 65535                                            |
+| 0x0102D20A       |         16962058 | [Sturdy Pyxis](./16962058%20-%20Sturdy%20Pyxis.md)                   |        3 | 2150, 2166, 65535                                            |
+| 0x0102D20B       |         16962059 | [Sturdy Pyxis](./16962059%20-%20Sturdy%20Pyxis.md)                   |        3 | 2151, 2167, 65535                                            |
+| 0x0102D20C       |         16962060 | [Sturdy Pyxis](./16962060%20-%20Sturdy%20Pyxis.md)                   |        3 | 2152, 2168, 65535                                            |
+| 0x0102D20D       |         16962061 | [Sturdy Pyxis](./16962061%20-%20Sturdy%20Pyxis.md)                   |        3 | 2153, 2169, 65535                                            |
+| 0x0102D20E       |         16962062 | [Sturdy Pyxis](./16962062%20-%20Sturdy%20Pyxis.md)                   |        3 | 2154, 2170, 65535                                            |
+| 0x0102D20F       |         16962063 | [Sturdy Pyxis](./16962063%20-%20Sturdy%20Pyxis.md)                   |        3 | 2155, 2171, 65535                                            |
+| 0x0102D210       |         16962064 | [Sturdy Pyxis](./16962064%20-%20Sturdy%20Pyxis.md)                   |        3 | 2156, 2172, 65535                                            |
+| 0x0102D211       |         16962065 | [Sturdy Pyxis](./16962065%20-%20Sturdy%20Pyxis.md)                   |        3 | 2157, 2173, 65535                                            |
+| 0x0102D212       |         16962066 | [Sturdy Pyxis](./16962066%20-%20Sturdy%20Pyxis.md)                   |        3 | 2158, 2174, 65535                                            |
+| 0x0102D213       |         16962067 | [Sturdy Pyxis](./16962067%20-%20Sturdy%20Pyxis.md)                   |        3 | 2159, 2175, 65535                                            |
+| 0x0102D214       |         16962068 | [Sturdy Pyxis](./16962068%20-%20Sturdy%20Pyxis.md)                   |        3 | 2160, 2176, 65535                                            |
+| 0x0102D215       |         16962069 | [Sturdy Pyxis](./16962069%20-%20Sturdy%20Pyxis.md)                   |        3 | 2161, 2177, 65535                                            |
+| 0x0102D216       |         16962070 | [Sturdy Pyxis](./16962070%20-%20Sturdy%20Pyxis.md)                   |        3 | 2162, 2178, 65535                                            |
+| 0x0102D217       |         16962071 | [Sturdy Pyxis](./16962071%20-%20Sturdy%20Pyxis.md)                   |        3 | 2163, 2179, 65535                                            |
+| 0x0102D218       |         16962072 | [Veridical Conflux 01](./16962072%20-%20Veridical%20Conflux%2001.md) |        2 | 2132, 65535                                                  |
+| 0x0102D219       |         16962073 | [Veridical Conflux 02](./16962073%20-%20Veridical%20Conflux%2002.md) |        2 | 2133, 65535                                                  |
+| 0x0102D21A       |         16962074 | [Veridical Conflux 03](./16962074%20-%20Veridical%20Conflux%2003.md) |        2 | 2134, 65535                                                  |
+| 0x0102D21B       |         16962075 | [Veridical Conflux 04](./16962075%20-%20Veridical%20Conflux%2004.md) |        2 | 2135, 65535                                                  |
+| 0x0102D21C       |         16962076 | [Veridical Conflux 05](./16962076%20-%20Veridical%20Conflux%2005.md) |        2 | 2136, 65535                                                  |
+| 0x0102D21D       |         16962077 | [Veridical Conflux 06](./16962077%20-%20Veridical%20Conflux%2006.md) |        2 | 2137, 65535                                                  |
+| 0x0102D21E       |         16962078 | [Veridical Conflux 07](./16962078%20-%20Veridical%20Conflux%2007.md) |        2 | 2138, 65535                                                  |
+| 0x0102D21F       |         16962079 | [Veridical Conflux 08](./16962079%20-%20Veridical%20Conflux%2008.md) |        2 | 2139, 65535                                                  |
+| 0x0102D220       |         16962080 | [TR-01 Martello](./16962080%20-%20TR-01%20Martello.md)               |        2 | 2140, 65535                                                  |
+| 0x0102D221       |         16962081 | [TR-02 Martello](./16962081%20-%20TR-02%20Martello.md)               |        2 | 2141, 65535                                                  |
+| 0x0102D222       |         16962082 | [TR-03 Martello](./16962082%20-%20TR-03%20Martello.md)               |        2 | 2142, 65535                                                  |
+| 0x0102D223       |         16962083 | [TR-04 Martello](./16962083%20-%20TR-04%20Martello.md)               |        2 | 2143, 65535                                                  |
+| 0x0102D224       |         16962084 | [TR-05 Martello](./16962084%20-%20TR-05%20Martello.md)               |        2 | 2144, 65535                                                  |
+| 0x0102D225       |         16962085 | [TR-06 Martello](./16962085%20-%20TR-06%20Martello.md)               |        2 | 2145, 65535                                                  |
+| 0x0102D226       |         16962086 | [TR-07 Martello](./16962086%20-%20TR-07%20Martello.md)               |        2 | 2146, 65535                                                  |
+| 0x0102D227       |         16962087 | [TR-08 Martello](./16962087%20-%20TR-08%20Martello.md)               |        2 | 2147, 65535                                                  |
+| 0x0102D229       |         16962089 | [Cavernous Maw](./16962089%20-%20Cavernous%20Maw.md)                 |        2 | 200, 65535                                                   |
+| 0x0102D22A       |         16962090 | [Kupipi](./16962090%20-%20Kupipi.md)                                 |       12 | 300, 301, 318, 319, 320, 321, 382, 383, 384, 385, 386, 65535 |
+| 0x0102D22B       |         16962091 | [Apururu](./16962091%20-%20Apururu.md)                               |       12 | 302, 303, 304, 305, 376, 377, 378, 379, 380, 381, 387, 65535 |
+| 0x0102D22C       |         16962092 | [Hakkuru-Rinkuru](./16962092%20-%20Hakkuru-Rinkuru.md)               |        2 | 403, 65535                                                   |
+| 0x0102D22D       |         16962093 | [Kuroido-Moido](./16962093%20-%20Kuroido-Moido.md)                   |        2 | 402, 65535                                                   |
+| 0x0102D22E       |         16962094 | [Ohruru](./16962094%20-%20Ohruru.md)                                 |        2 | 401, 65535                                                   |
+| 0x0102D22F       |         16962095 | [Janshura-Rashura](./16962095%20-%20Janshura-Rashura.md)             |        2 | 400, 65535                                                   |
+| 0x0102D230       |         16962096 | [Zabirego-Hajigo](./16962096%20-%20Zabirego-Hajigo.md)               |        3 | 407, 500, 65535                                              |
+| 0x0102D231       |         16962097 | [Piketo-Puketo](./16962097%20-%20Piketo-Puketo.md)                   |        7 | 322, 323, 324, 325, 326, 327, 65535                          |
+| 0x0102D232       |         16962098 | [Kopuro-Popuro](./16962098%20-%20Kopuro-Popuro.md)                   |        8 | 306, 307, 308, 309, 310, 311, 312, 65535                     |
+| 0x0102D233       |         16962099 | [Bottomless Box](./16962099%20-%20Bottomless%20Box.md)               |        2 | 312, 65535                                                   |
+| 0x0102D234       |         16962100 | [Peshi Yohnts](./16962100%20-%20Peshi%20Yohnts.md)                   |        7 | 313, 314, 315, 316, 317, 388, 65535                          |
+| 0x0102D235       |         16962101 | [Zahsa Syalmhaia](./16962101%20-%20Zahsa%20Syalmhaia.md)             |        2 | 408, 65535                                                   |
+| 0x0102D236       |         16962102 | [Ada](./16962102%20-%20Ada.md)                                       |        2 | 409, 65535                                                   |
+| 0x0102D237       |         16962103 | [Ohbiru-Dohbiru](./16962103%20-%20Ohbiru-Dohbiru.md)                 |        7 | 344, 345, 346, 347, 348, 349, 65535                          |
+| 0x0102D238       |         16962104 | [Kenapa-Keppa](./16962104%20-%20Kenapa-Keppa.md)                     |        7 | 350, 351, 352, 353, 354, 355, 65535                          |
+| 0x0102D239       |         16962105 | [Diegai](./16962105%20-%20Diegai.md)                                 |        6 | 329, 330, 331, 332, 333, 65535                               |
+| 0x0102D23A       |         16962106 | [Mhabi Molkot](./16962106%20-%20Mhabi%20Molkot.md)                   |        2 | 410, 65535                                                   |
+| 0x0102D23B       |         16962107 | [Erpolant](./16962107%20-%20Erpolant.md)                             |        2 | 411, 65535                                                   |
+| 0x0102D23C       |         16962108 | [Fuepepe](./16962108%20-%20Fuepepe.md)                               |        2 | 413, 65535                                                   |
+| 0x0102D23D       |         16962109 | [Furakku-Norakku](./16962109%20-%20Furakku-Norakku.md)               |        2 | 414, 65535                                                   |
+| 0x0102D23E       |         16962110 | [Baha Mannohl](./16962110%20-%20Baha%20Mannohl.md)                   |       11 | 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 65535      |
+| 0x0102D240       |         16962112 | [Rhy Epocan](./16962112%20-%20Rhy%20Epocan.md)                       |        2 | 412, 65535                                                   |
+| 0x0102D241       |         16962113 | [Baladanzo](./16962113%20-%20Baladanzo.md)                           |       11 | 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 65535      |
+| 0x0102D242       |         16962114 | [(unnamed)](./16962114.md)                                           |        1 | 340                                                          |
+| 0x0102D243       |         16962115 | [Bopa Greso](./16962115%20-%20Bopa%20Greso.md)                       |        7 | 366, 367, 368, 369, 370, 371, 65535                          |
+| 0x0102D244       |         16962116 | [Cha Lebagta](./16962116%20-%20Cha%20Lebagta.md)                     |        8 | 367, 369, 371, 372, 373, 374, 375, 65535                     |
+| 0x0102D245       |         16962117 | [Gnarled Root](./16962117%20-%20Gnarled%20Root.md)                   |        2 | 328, 65535                                                   |
+| 0x0102D25F       |         16962143 | [(unnamed)](./16962143.md)                                           |        2 | 378, 65535                                                   |
+| 0x0102D260       |         16962144 | [Shaz Norem](./16962144%20-%20Shaz%20Norem.md)                       |        4 | 404, 405, 406, 65535                                         |
+| 0x0102D261       |         16962145 | [Event Master](./16962145%20-%20Event%20Master.md)                   |        2 | 501, 65535                                                   |
+| 0x0102D262       |         16962146 | [Machine Outfitter](./16962146%20-%20Machine%20Outfitter.md)         |        3 | 202, 203, 65535                                              |
+| 0x0102D271       |         16962161 | [Excavation Point](./16962161%20-%20Excavation%20Point.md)           |        2 | 510, 65535                                                   |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                    |        5 | 2180, 65534, 65535                                           |

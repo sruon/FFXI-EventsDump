@@ -212,11 +212,15 @@ class EventDumper:
         # Write single actor file
         self._write_actor_file(zone_path, actor_number, display_name, zone, block, block_index, event_dat, events_data, folder_name, string_references, zone_strings)
 
+        # Collect unique event IDs
+        event_ids = sorted(list(set(evt["id"] for evt in events_data)))
+
         return {
             "id": actor_number,
             "display_name": display_name,
             "filename": f"{folder_name}.md",
             "event_count": len(events_data),
+            "event_ids": event_ids,
         }
 
     def _extract_string_references(self, instructions, context):
@@ -571,8 +575,10 @@ class EventDumper:
             # URL-encode the filename for the link
             link_filename = quote(actor['filename'])
             name_with_link = f"[{actor['display_name']}](./{link_filename})"
-            actors_data.append([actor_id_hex, actor_id_dec, name_with_link, str(actor["event_count"])])
-        actors_table = tabulate(actors_data, headers=["Actor ID (Hex)", "Actor ID (Dec)", "Name", "Events"], tablefmt="github")
+            # Format event IDs as a comma-separated list
+            event_ids_str = ", ".join(str(eid) for eid in actor["event_ids"])
+            actors_data.append([actor_id_hex, actor_id_dec, name_with_link, str(actor["event_count"]), event_ids_str])
+        actors_table = tabulate(actors_data, headers=["Actor ID (Hex)", "Actor ID (Dec)", "Name", "Events", "Event IDs"], tablefmt="github")
 
         # Render template
         template = self.env.get_template("zone_simple.md.j2")

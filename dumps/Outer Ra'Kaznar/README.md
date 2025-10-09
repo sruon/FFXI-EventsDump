@@ -18,73 +18,73 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                                       |   Events |
-|------------------|------------------|----------------------------------------------------------------------------|----------|
-| 0x01112163       |         17899875 | [JGL_BUILD_MASTER_0](./17899875%20-%20JGL_BUILD_MASTER_0.md)               |        2 |
-| 0x01112164       |         17899876 | [JGL_BUILD_MASTER_1](./17899876%20-%20JGL_BUILD_MASTER_1.md)               |        2 |
-| 0x01112165       |         17899877 | [JGL_BUILD_MASTER_2](./17899877%20-%20JGL_BUILD_MASTER_2.md)               |        2 |
-| 0x01112166       |         17899878 | [JGL_BUILD_MASTER_3](./17899878%20-%20JGL_BUILD_MASTER_3.md)               |        2 |
-| 0x01112167       |         17899879 | [JGL_BUILD_MASTER_4](./17899879%20-%20JGL_BUILD_MASTER_4.md)               |        2 |
-| 0x01112168       |         17899880 | [JGL_BUILD_MASTER_5](./17899880%20-%20JGL_BUILD_MASTER_5.md)               |        2 |
-| 0x01112191       |         17899921 | [Soul Pyre](./17899921%20-%20Soul%20Pyre.md)                               |        2 |
-| 0x01112192       |         17899922 | [Soul Pyre](./17899922%20-%20Soul%20Pyre.md)                               |        2 |
-| 0x01112193       |         17899923 | [Soul Pyre](./17899923%20-%20Soul%20Pyre.md)                               |        2 |
-| 0x01112194       |         17899924 | [Soul Pyre](./17899924%20-%20Soul%20Pyre.md)                               |        2 |
-| 0x01112195       |         17899925 | [Soul Pyre](./17899925%20-%20Soul%20Pyre.md)                               |        2 |
-| 0x01112196       |         17899926 | [Soul Pyre](./17899926%20-%20Soul%20Pyre.md)                               |        2 |
-| 0x0111219D       |         17899933 | [(unnamed)](./17899933.md)                                                 |        2 |
-| 0x011121DC       |         17899996 | [(unnamed)](./17899996.md)                                                 |        6 |
-| 0x011121DD       |         17899997 | [(unnamed)](./17899997.md)                                                 |        5 |
-| 0x011121DF       |         17899999 | [(unnamed)](./17899999.md)                                                 |        6 |
-| 0x011121E0       |         17900000 | [(unnamed)](./17900000.md)                                                 |        5 |
-| 0x011121E2       |         17900002 | [Augural Conveyor](./17900002%20-%20Augural%20Conveyor.md)                 |        5 |
-| 0x011121E7       |         17900007 | [Ramblix](./17900007%20-%20Ramblix.md)                                     |        2 |
-| 0x011121E9       |         17900009 | [DIRECTOR by yaeko](./17900009%20-%20DIRECTOR%20by%20yaeko.md)             |        2 |
-| 0x011121EA       |         17900010 | [Lerene](./17900010%20-%20Lerene.md)                                       |       90 |
-| 0x011121EB       |         17900011 | [(unnamed)](./17900011.md)                                                 |        6 |
-| 0x011121EC       |         17900012 | [(unnamed)](./17900012.md)                                                 |        5 |
-| 0x011121ED       |         17900013 | [(unnamed)](./17900013.md)                                                 |        6 |
-| 0x011121EE       |         17900014 | [Entwined Roots](./17900014%20-%20Entwined%20Roots.md)                     |        2 |
-| 0x011121EF       |         17900015 | [Entwined Roots](./17900015%20-%20Entwined%20Roots.md)                     |        2 |
-| 0x011121F0       |         17900016 | [Entwined Roots](./17900016%20-%20Entwined%20Roots.md)                     |        2 |
-| 0x011121F1       |         17900017 | [Entwined Roots](./17900017%20-%20Entwined%20Roots.md)                     |        2 |
-| 0x011121F2       |         17900018 | [Entwined Roots](./17900018%20-%20Entwined%20Roots.md)                     |        2 |
-| 0x011121F3       |         17900019 | [Entwined Roots](./17900019%20-%20Entwined%20Roots.md)                     |        2 |
-| 0x011121F4       |         17900020 | [Vertical Transit Device](./17900020%20-%20Vertical%20Transit%20Device.md) |        2 |
-| 0x011121F5       |         17900021 | [Vertical Transit Device](./17900021%20-%20Vertical%20Transit%20Device.md) |        2 |
-| 0x011121F6       |         17900022 | [Vertical Transit Device](./17900022%20-%20Vertical%20Transit%20Device.md) |        2 |
-| 0x011121F7       |         17900023 | [Vertical Transit Device](./17900023%20-%20Vertical%20Transit%20Device.md) |        2 |
-| 0x011121F8       |         17900024 | [Vertical Transit Device](./17900024%20-%20Vertical%20Transit%20Device.md) |        2 |
-| 0x011121F9       |         17900025 | [Vertical Transit Device](./17900025%20-%20Vertical%20Transit%20Device.md) |        2 |
-| 0x011121FA       |         17900026 | [Vertical Transit Device](./17900026%20-%20Vertical%20Transit%20Device.md) |        3 |
-| 0x011121FB       |         17900027 | [(unnamed)](./17900027.md)                                                 |        4 |
-| 0x011121FC       |         17900028 | [Geomantic Fumes](./17900028%20-%20Geomantic%20Fumes.md)                   |        2 |
-| 0x011121FD       |         17900029 | [Meeting Point](./17900029%20-%20Meeting%20Point.md)                       |        2 |
-| 0x011121FE       |         17900030 | [(unnamed)](./17900030.md)                                                 |        2 |
-| 0x011121FF       |         17900031 | [(unnamed)](./17900031.md)                                                 |        6 |
-| 0x01112200       |         17900032 | [(unnamed)](./17900032.md)                                                 |        8 |
-| 0x01112201       |         17900033 | [(unnamed)](./17900033.md)                                                 |       93 |
-| 0x01112202       |         17900034 | [(unnamed)](./17900034.md)                                                 |        6 |
-| 0x01112203       |         17900035 | [(unnamed)](./17900035.md)                                                 |        4 |
-| 0x01112204       |         17900036 | [Liseran Door Exit](./17900036%20-%20Liseran%20Door%20Exit.md)             |        2 |
-| 0x01112205       |         17900037 | [Liseran Door Exit](./17900037%20-%20Liseran%20Door%20Exit.md)             |        2 |
-| 0x01112206       |         17900038 | [(unnamed)](./17900038.md)                                                 |        2 |
-| 0x01112207       |         17900039 | [(unnamed)](./17900039.md)                                                 |        2 |
-| 0x01112208       |         17900040 | [(unnamed)](./17900040.md)                                                 |        2 |
-| 0x01112209       |         17900041 | [(unnamed)](./17900041.md)                                                 |        2 |
-| 0x0111220A       |         17900042 | [Dummy](./17900042%20-%20Dummy.md)                                         |        4 |
-| 0x0111220B       |         17900043 | [Effigy of Sealing](./17900043%20-%20Effigy%20of%20Sealing.md)             |        2 |
-| 0x0111220C       |         17900044 | [Effigy of Sealing](./17900044%20-%20Effigy%20of%20Sealing.md)             |        2 |
-| 0x0111220D       |         17900045 | [(unnamed)](./17900045.md)                                                 |        1 |
-| 0x0111220E       |         17900046 | [(unnamed)](./17900046.md)                                                 |        3 |
-| 0x01112210       |         17900048 | [Valli](./17900048%20-%20Valli.md)                                         |       41 |
-| 0x01112211       |         17900049 | [Oshasha](./17900049%20-%20Oshasha.md)                                     |       76 |
-| 0x01112212       |         17900050 | [Skhoh Undhreh](./17900050%20-%20Skhoh%20Undhreh.md)                       |       59 |
-| 0x01112213       |         17900051 | [Pwyll](./17900051%20-%20Pwyll.md)                                         |        4 |
-| 0x01112214       |         17900052 | [Pryden](./17900052%20-%20Pryden.md)                                       |       24 |
-| 0x01112215       |         17900053 | [Gloom Phantom](./17900053%20-%20Gloom%20Phantom.md)                       |       80 |
-| 0x01112216       |         17900054 | [Magh Bihu](./17900054%20-%20Magh%20Bihu.md)                               |       22 |
-| 0x01112217       |         17900055 | [Dazbog](./17900055%20-%20Dazbog.md)                                       |       19 |
-| 0x01112218       |         17900056 | [(unnamed)](./17900056.md)                                                 |        4 |
-| 0x01112219       |         17900057 | [Egg](./17900057%20-%20Egg.md)                                             |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                          |       38 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                                       |   Events | Event IDs                                 |
+|------------------|------------------|----------------------------------------------------------------------------|----------|-------------------------------------------|
+| 0x01112163       |         17899875 | [JGL_BUILD_MASTER_0](./17899875%20-%20JGL_BUILD_MASTER_0.md)               |        2 | 2000, 65535                               |
+| 0x01112164       |         17899876 | [JGL_BUILD_MASTER_1](./17899876%20-%20JGL_BUILD_MASTER_1.md)               |        2 | 2001, 65535                               |
+| 0x01112165       |         17899877 | [JGL_BUILD_MASTER_2](./17899877%20-%20JGL_BUILD_MASTER_2.md)               |        2 | 2002, 65535                               |
+| 0x01112166       |         17899878 | [JGL_BUILD_MASTER_3](./17899878%20-%20JGL_BUILD_MASTER_3.md)               |        2 | 2003, 65535                               |
+| 0x01112167       |         17899879 | [JGL_BUILD_MASTER_4](./17899879%20-%20JGL_BUILD_MASTER_4.md)               |        2 | 2004, 65535                               |
+| 0x01112168       |         17899880 | [JGL_BUILD_MASTER_5](./17899880%20-%20JGL_BUILD_MASTER_5.md)               |        2 | 2005, 65535                               |
+| 0x01112191       |         17899921 | [Soul Pyre](./17899921%20-%20Soul%20Pyre.md)                               |        2 | 4001, 65535                               |
+| 0x01112192       |         17899922 | [Soul Pyre](./17899922%20-%20Soul%20Pyre.md)                               |        2 | 4002, 65535                               |
+| 0x01112193       |         17899923 | [Soul Pyre](./17899923%20-%20Soul%20Pyre.md)                               |        2 | 4003, 65535                               |
+| 0x01112194       |         17899924 | [Soul Pyre](./17899924%20-%20Soul%20Pyre.md)                               |        2 | 4004, 65535                               |
+| 0x01112195       |         17899925 | [Soul Pyre](./17899925%20-%20Soul%20Pyre.md)                               |        2 | 4005, 65535                               |
+| 0x01112196       |         17899926 | [Soul Pyre](./17899926%20-%20Soul%20Pyre.md)                               |        2 | 4006, 65535                               |
+| 0x0111219D       |         17899933 | [(unnamed)](./17899933.md)                                                 |        2 | 101, 65535                                |
+| 0x011121DC       |         17899996 | [(unnamed)](./17899996.md)                                                 |        6 | 43, 44, 45, 49, 65535                     |
+| 0x011121DD       |         17899997 | [(unnamed)](./17899997.md)                                                 |        5 | 46, 47, 48, 65535                         |
+| 0x011121DF       |         17899999 | [(unnamed)](./17899999.md)                                                 |        6 | 43, 44, 45, 49, 65535                     |
+| 0x011121E0       |         17900000 | [(unnamed)](./17900000.md)                                                 |        5 | 46, 47, 48, 65535                         |
+| 0x011121E2       |         17900002 | [Augural Conveyor](./17900002%20-%20Augural%20Conveyor.md)                 |        5 | 5500, 5501, 5502, 5503, 65535             |
+| 0x011121E7       |         17900007 | [Ramblix](./17900007%20-%20Ramblix.md)                                     |        2 | 1, 65535                                  |
+| 0x011121E9       |         17900009 | [DIRECTOR by yaeko](./17900009%20-%20DIRECTOR%20by%20yaeko.md)             |        2 | 24, 65535                                 |
+| 0x011121EA       |         17900010 | [Lerene](./17900010%20-%20Lerene.md)                                       |       90 | 20, 21, 22, 23, 24, 25, 26, 84, 85, 65535 |
+| 0x011121EB       |         17900011 | [(unnamed)](./17900011.md)                                                 |        6 | 24, 65535                                 |
+| 0x011121EC       |         17900012 | [(unnamed)](./17900012.md)                                                 |        5 | 24, 65535                                 |
+| 0x011121ED       |         17900013 | [(unnamed)](./17900013.md)                                                 |        6 | 24, 65535                                 |
+| 0x011121EE       |         17900014 | [Entwined Roots](./17900014%20-%20Entwined%20Roots.md)                     |        2 | 31, 65535                                 |
+| 0x011121EF       |         17900015 | [Entwined Roots](./17900015%20-%20Entwined%20Roots.md)                     |        2 | 32, 65535                                 |
+| 0x011121F0       |         17900016 | [Entwined Roots](./17900016%20-%20Entwined%20Roots.md)                     |        2 | 33, 65535                                 |
+| 0x011121F1       |         17900017 | [Entwined Roots](./17900017%20-%20Entwined%20Roots.md)                     |        2 | 34, 65535                                 |
+| 0x011121F2       |         17900018 | [Entwined Roots](./17900018%20-%20Entwined%20Roots.md)                     |        2 | 35, 65535                                 |
+| 0x011121F3       |         17900019 | [Entwined Roots](./17900019%20-%20Entwined%20Roots.md)                     |        2 | 36, 65535                                 |
+| 0x011121F4       |         17900020 | [Vertical Transit Device](./17900020%20-%20Vertical%20Transit%20Device.md) |        2 | 43, 65535                                 |
+| 0x011121F5       |         17900021 | [Vertical Transit Device](./17900021%20-%20Vertical%20Transit%20Device.md) |        2 | 44, 65535                                 |
+| 0x011121F6       |         17900022 | [Vertical Transit Device](./17900022%20-%20Vertical%20Transit%20Device.md) |        2 | 45, 65535                                 |
+| 0x011121F7       |         17900023 | [Vertical Transit Device](./17900023%20-%20Vertical%20Transit%20Device.md) |        2 | 46, 65535                                 |
+| 0x011121F8       |         17900024 | [Vertical Transit Device](./17900024%20-%20Vertical%20Transit%20Device.md) |        2 | 47, 65535                                 |
+| 0x011121F9       |         17900025 | [Vertical Transit Device](./17900025%20-%20Vertical%20Transit%20Device.md) |        2 | 48, 65535                                 |
+| 0x011121FA       |         17900026 | [Vertical Transit Device](./17900026%20-%20Vertical%20Transit%20Device.md) |        3 | 49, 50, 65535                             |
+| 0x011121FB       |         17900027 | [(unnamed)](./17900027.md)                                                 |        4 | 26, 27, 54, 65535                         |
+| 0x011121FC       |         17900028 | [Geomantic Fumes](./17900028%20-%20Geomantic%20Fumes.md)                   |        2 | 26, 65535                                 |
+| 0x011121FD       |         17900029 | [Meeting Point](./17900029%20-%20Meeting%20Point.md)                       |        2 | 27, 65535                                 |
+| 0x011121FE       |         17900030 | [(unnamed)](./17900030.md)                                                 |        2 | 26, 65535                                 |
+| 0x011121FF       |         17900031 | [(unnamed)](./17900031.md)                                                 |        6 | 26, 27, 54, 65535                         |
+| 0x01112200       |         17900032 | [(unnamed)](./17900032.md)                                                 |        8 | 26, 27, 54, 65535                         |
+| 0x01112201       |         17900033 | [(unnamed)](./17900033.md)                                                 |       93 | 27, 54, 65535                             |
+| 0x01112202       |         17900034 | [(unnamed)](./17900034.md)                                                 |        6 | 27, 65535                                 |
+| 0x01112203       |         17900035 | [(unnamed)](./17900035.md)                                                 |        4 | 54, 65535                                 |
+| 0x01112204       |         17900036 | [Liseran Door Exit](./17900036%20-%20Liseran%20Door%20Exit.md)             |        2 | 28, 65535                                 |
+| 0x01112205       |         17900037 | [Liseran Door Exit](./17900037%20-%20Liseran%20Door%20Exit.md)             |        2 | 29, 65535                                 |
+| 0x01112206       |         17900038 | [(unnamed)](./17900038.md)                                                 |        2 | 80, 65535                                 |
+| 0x01112207       |         17900039 | [(unnamed)](./17900039.md)                                                 |        2 | 81, 65535                                 |
+| 0x01112208       |         17900040 | [(unnamed)](./17900040.md)                                                 |        2 | 82, 65535                                 |
+| 0x01112209       |         17900041 | [(unnamed)](./17900041.md)                                                 |        2 | 83, 65535                                 |
+| 0x0111220A       |         17900042 | [Dummy](./17900042%20-%20Dummy.md)                                         |        4 | 51, 52, 53, 65535                         |
+| 0x0111220B       |         17900043 | [Effigy of Sealing](./17900043%20-%20Effigy%20of%20Sealing.md)             |        2 | 52, 65535                                 |
+| 0x0111220C       |         17900044 | [Effigy of Sealing](./17900044%20-%20Effigy%20of%20Sealing.md)             |        2 | 53, 65535                                 |
+| 0x0111220D       |         17900045 | [(unnamed)](./17900045.md)                                                 |        1 | 65535                                     |
+| 0x0111220E       |         17900046 | [(unnamed)](./17900046.md)                                                 |        3 | 84, 85, 65535                             |
+| 0x01112210       |         17900048 | [Valli](./17900048%20-%20Valli.md)                                         |       41 | 84, 65535                                 |
+| 0x01112211       |         17900049 | [Oshasha](./17900049%20-%20Oshasha.md)                                     |       76 | 84, 65535                                 |
+| 0x01112212       |         17900050 | [Skhoh Undhreh](./17900050%20-%20Skhoh%20Undhreh.md)                       |       59 | 84, 65535                                 |
+| 0x01112213       |         17900051 | [Pwyll](./17900051%20-%20Pwyll.md)                                         |        4 | 84, 65535                                 |
+| 0x01112214       |         17900052 | [Pryden](./17900052%20-%20Pryden.md)                                       |       24 | 84, 65535                                 |
+| 0x01112215       |         17900053 | [Gloom Phantom](./17900053%20-%20Gloom%20Phantom.md)                       |       80 | 84, 65535                                 |
+| 0x01112216       |         17900054 | [Magh Bihu](./17900054%20-%20Magh%20Bihu.md)                               |       22 | 84, 65535                                 |
+| 0x01112217       |         17900055 | [Dazbog](./17900055%20-%20Dazbog.md)                                       |       19 | 84, 65535                                 |
+| 0x01112218       |         17900056 | [(unnamed)](./17900056.md)                                                 |        4 | 84, 65535                                 |
+| 0x01112219       |         17900057 | [Egg](./17900057%20-%20Egg.md)                                             |        2 | 84, 65535                                 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                          |       38 | 5504, 5516, 65534, 65535                  |

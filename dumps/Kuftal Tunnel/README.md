@@ -18,68 +18,68 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                         |   Events |
-|------------------|------------------|--------------------------------------------------------------|----------|
-| 0x010AE151       |         17490257 | [Treasure Casket](./17490257%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE152       |         17490258 | [Treasure Casket](./17490258%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE153       |         17490259 | [Treasure Casket](./17490259%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE154       |         17490260 | [Treasure Casket](./17490260%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE155       |         17490261 | [Treasure Casket](./17490261%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE156       |         17490262 | [Treasure Casket](./17490262%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE157       |         17490263 | [Treasure Casket](./17490263%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE158       |         17490264 | [Treasure Casket](./17490264%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE159       |         17490265 | [Treasure Casket](./17490265%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE15A       |         17490266 | [Treasure Casket](./17490266%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE15B       |         17490267 | [Treasure Casket](./17490267%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE15C       |         17490268 | [Treasure Casket](./17490268%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE15D       |         17490269 | [Treasure Casket](./17490269%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE15E       |         17490270 | [Treasure Casket](./17490270%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE15F       |         17490271 | [Treasure Casket](./17490271%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE160       |         17490272 | [Treasure Casket](./17490272%20-%20Treasure%20Casket.md)     |        4 |
-| 0x010AE166       |         17490278 | [(unnamed)](./17490278.md)                                   |        2 |
-| 0x010AE16A       |         17490282 | [(unnamed)](./17490282.md)                                   |        3 |
-| 0x010AE175       |         17490293 | [(unnamed)](./17490293.md)                                   |        2 |
-| 0x010AE176       |         17490294 | [(unnamed)](./17490294.md)                                   |        2 |
-| 0x010AE177       |         17490295 | [Werei](./17490295%20-%20Werei.md)                           |        3 |
-| 0x010AE178       |         17490296 | [(unnamed)](./17490296.md)                                   |        3 |
-| 0x010AE179       |         17490297 | [(unnamed)](./17490297.md)                                   |        3 |
-| 0x010AE17A       |         17490298 | [(unnamed)](./17490298.md)                                   |        3 |
-| 0x010AE17B       |         17490299 | [(unnamed)](./17490299.md)                                   |        3 |
-| 0x010AE17C       |         17490300 | [(unnamed)](./17490300.md)                                   |        3 |
-| 0x010AE17D       |         17490301 | [(unnamed)](./17490301.md)                                   |        3 |
-| 0x010AE17E       |         17490302 | [(unnamed)](./17490302.md)                                   |        3 |
-| 0x010AE17F       |         17490303 | [(unnamed)](./17490303.md)                                   |        3 |
-| 0x010AE180       |         17490304 | [Hawk Nose](./17490304%20-%20Hawk%20Nose.md)                 |        4 |
-| 0x010AE182       |         17490306 | [Ramblix](./17490306%20-%20Ramblix.md)                       |        2 |
-| 0x010AE184       |         17490308 | [GoalPoint](./17490308%20-%20GoalPoint.md)                   |        3 |
-| 0x010AE185       |         17490309 | [GoalPoint](./17490309%20-%20GoalPoint.md)                   |        3 |
-| 0x010AE186       |         17490310 | [GoalPoint](./17490310%20-%20GoalPoint.md)                   |        3 |
-| 0x010AE187       |         17490311 | [GoalPoint](./17490311%20-%20GoalPoint.md)                   |        3 |
-| 0x010AE188       |         17490312 | [GoalPoint](./17490312%20-%20GoalPoint.md)                   |        3 |
-| 0x010AE189       |         17490313 | [GoalPoint](./17490313%20-%20GoalPoint.md)                   |        3 |
-| 0x010AE18A       |         17490314 | [Moogle](./17490314%20-%20Moogle.md)                         |        3 |
-| 0x010AE18B       |         17490315 | [Moogle](./17490315%20-%20Moogle.md)                         |        3 |
-| 0x010AE18C       |         17490316 | [Moogle](./17490316%20-%20Moogle.md)                         |        3 |
-| 0x010AE18D       |         17490317 | [Moogle](./17490317%20-%20Moogle.md)                         |        3 |
-| 0x010AE18E       |         17490318 | [Moogle](./17490318%20-%20Moogle.md)                         |        3 |
-| 0x010AE18F       |         17490319 | [Moogle](./17490319%20-%20Moogle.md)                         |        3 |
-| 0x010AE190       |         17490320 | [Planar Rift](./17490320%20-%20Planar%20Rift.md)             |        2 |
-| 0x010AE191       |         17490321 | [Planar Rift](./17490321%20-%20Planar%20Rift.md)             |        2 |
-| 0x010AE192       |         17490322 | [Planar Rift](./17490322%20-%20Planar%20Rift.md)             |        2 |
-| 0x010AE193       |         17490323 | [Riftworn Pyxis](./17490323%20-%20Riftworn%20Pyxis.md)       |        2 |
-| 0x010AE194       |         17490324 | [Riftworn Pyxis](./17490324%20-%20Riftworn%20Pyxis.md)       |        2 |
-| 0x010AE195       |         17490325 | [Riftworn Pyxis](./17490325%20-%20Riftworn%20Pyxis.md)       |        2 |
-| 0x010AE196       |         17490326 | [Grounds Tome](./17490326%20-%20Grounds%20Tome.md)           |        2 |
-| 0x010AE197       |         17490327 | [Grounds Tome](./17490327%20-%20Grounds%20Tome.md)           |        2 |
-| 0x010AE198       |         17490328 | [Grounds Tome](./17490328%20-%20Grounds%20Tome.md)           |        2 |
-| 0x010AE199       |         17490329 | [Grounds Tome](./17490329%20-%20Grounds%20Tome.md)           |        2 |
-| 0x010AE19A       |         17490330 | [Survival Guide](./17490330%20-%20Survival%20Guide.md)       |        3 |
-| 0x010AE19B       |         17490331 | [Ethereal Junction](./17490331%20-%20Ethereal%20Junction.md) |        3 |
-| 0x010AE19C       |         17490332 | [Ethereal Junction](./17490332%20-%20Ethereal%20Junction.md) |        3 |
-| 0x010AE19D       |         17490333 | [Ethereal Junction](./17490333%20-%20Ethereal%20Junction.md) |        3 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                            |        4 |
-| 0x7FFFFFF1       |       2147483633 | [(unnamed)](./2147483633.md)                                 |        3 |
-| 0x7FFFFFF2       |       2147483634 | [(unnamed)](./2147483634.md)                                 |        3 |
-| 0x7FFFFFF3       |       2147483635 | [(unnamed)](./2147483635.md)                                 |        3 |
-| 0x7FFFFFF4       |       2147483636 | [(unnamed)](./2147483636.md)                                 |        3 |
-| 0x7FFFFFF5       |       2147483637 | [(unnamed)](./2147483637.md)                                 |        3 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                         |   Events | Event IDs              |
+|------------------|------------------|--------------------------------------------------------------|----------|------------------------|
+| 0x010AE151       |         17490257 | [Treasure Casket](./17490257%20-%20Treasure%20Casket.md)     |        4 | 1000, 1001, 1002, 1048 |
+| 0x010AE152       |         17490258 | [Treasure Casket](./17490258%20-%20Treasure%20Casket.md)     |        4 | 1003, 1004, 1005, 1049 |
+| 0x010AE153       |         17490259 | [Treasure Casket](./17490259%20-%20Treasure%20Casket.md)     |        4 | 1006, 1007, 1008, 1050 |
+| 0x010AE154       |         17490260 | [Treasure Casket](./17490260%20-%20Treasure%20Casket.md)     |        4 | 1009, 1010, 1011, 1051 |
+| 0x010AE155       |         17490261 | [Treasure Casket](./17490261%20-%20Treasure%20Casket.md)     |        4 | 1012, 1013, 1014, 1052 |
+| 0x010AE156       |         17490262 | [Treasure Casket](./17490262%20-%20Treasure%20Casket.md)     |        4 | 1015, 1016, 1017, 1053 |
+| 0x010AE157       |         17490263 | [Treasure Casket](./17490263%20-%20Treasure%20Casket.md)     |        4 | 1018, 1019, 1020, 1054 |
+| 0x010AE158       |         17490264 | [Treasure Casket](./17490264%20-%20Treasure%20Casket.md)     |        4 | 1021, 1022, 1023, 1055 |
+| 0x010AE159       |         17490265 | [Treasure Casket](./17490265%20-%20Treasure%20Casket.md)     |        4 | 1024, 1025, 1026, 1056 |
+| 0x010AE15A       |         17490266 | [Treasure Casket](./17490266%20-%20Treasure%20Casket.md)     |        4 | 1027, 1028, 1029, 1057 |
+| 0x010AE15B       |         17490267 | [Treasure Casket](./17490267%20-%20Treasure%20Casket.md)     |        4 | 1030, 1031, 1032, 1058 |
+| 0x010AE15C       |         17490268 | [Treasure Casket](./17490268%20-%20Treasure%20Casket.md)     |        4 | 1033, 1034, 1035, 1059 |
+| 0x010AE15D       |         17490269 | [Treasure Casket](./17490269%20-%20Treasure%20Casket.md)     |        4 | 1036, 1037, 1038, 1060 |
+| 0x010AE15E       |         17490270 | [Treasure Casket](./17490270%20-%20Treasure%20Casket.md)     |        4 | 1039, 1040, 1041, 1061 |
+| 0x010AE15F       |         17490271 | [Treasure Casket](./17490271%20-%20Treasure%20Casket.md)     |        4 | 1042, 1043, 1044, 1062 |
+| 0x010AE160       |         17490272 | [Treasure Casket](./17490272%20-%20Treasure%20Casket.md)     |        4 | 1045, 1046, 1047, 1063 |
+| 0x010AE166       |         17490278 | [(unnamed)](./17490278.md)                                   |        2 | 28, 65535              |
+| 0x010AE16A       |         17490282 | [(unnamed)](./17490282.md)                                   |        3 | 10, 11, 65535          |
+| 0x010AE175       |         17490293 | [(unnamed)](./17490293.md)                                   |        2 | 12, 65535              |
+| 0x010AE176       |         17490294 | [(unnamed)](./17490294.md)                                   |        2 | 13, 65535              |
+| 0x010AE177       |         17490295 | [Werei](./17490295%20-%20Werei.md)                           |        3 | 13, 65535              |
+| 0x010AE178       |         17490296 | [(unnamed)](./17490296.md)                                   |        3 | 13, 65535              |
+| 0x010AE179       |         17490297 | [(unnamed)](./17490297.md)                                   |        3 | 13, 65535              |
+| 0x010AE17A       |         17490298 | [(unnamed)](./17490298.md)                                   |        3 | 13, 65535              |
+| 0x010AE17B       |         17490299 | [(unnamed)](./17490299.md)                                   |        3 | 13, 65535              |
+| 0x010AE17C       |         17490300 | [(unnamed)](./17490300.md)                                   |        3 | 13, 65535              |
+| 0x010AE17D       |         17490301 | [(unnamed)](./17490301.md)                                   |        3 | 13, 65535              |
+| 0x010AE17E       |         17490302 | [(unnamed)](./17490302.md)                                   |        3 | 13, 65535              |
+| 0x010AE17F       |         17490303 | [(unnamed)](./17490303.md)                                   |        3 | 13, 65535              |
+| 0x010AE180       |         17490304 | [Hawk Nose](./17490304%20-%20Hawk%20Nose.md)                 |        4 | 14, 65535              |
+| 0x010AE182       |         17490306 | [Ramblix](./17490306%20-%20Ramblix.md)                       |        2 | 15, 65535              |
+| 0x010AE184       |         17490308 | [GoalPoint](./17490308%20-%20GoalPoint.md)                   |        3 | 16, 17, 65535          |
+| 0x010AE185       |         17490309 | [GoalPoint](./17490309%20-%20GoalPoint.md)                   |        3 | 18, 19, 65535          |
+| 0x010AE186       |         17490310 | [GoalPoint](./17490310%20-%20GoalPoint.md)                   |        3 | 20, 21, 65535          |
+| 0x010AE187       |         17490311 | [GoalPoint](./17490311%20-%20GoalPoint.md)                   |        3 | 22, 23, 65535          |
+| 0x010AE188       |         17490312 | [GoalPoint](./17490312%20-%20GoalPoint.md)                   |        3 | 24, 25, 65535          |
+| 0x010AE189       |         17490313 | [GoalPoint](./17490313%20-%20GoalPoint.md)                   |        3 | 26, 27, 65535          |
+| 0x010AE18A       |         17490314 | [Moogle](./17490314%20-%20Moogle.md)                         |        3 | 16, 17, 65535          |
+| 0x010AE18B       |         17490315 | [Moogle](./17490315%20-%20Moogle.md)                         |        3 | 18, 19, 65535          |
+| 0x010AE18C       |         17490316 | [Moogle](./17490316%20-%20Moogle.md)                         |        3 | 20, 21, 65535          |
+| 0x010AE18D       |         17490317 | [Moogle](./17490317%20-%20Moogle.md)                         |        3 | 22, 23, 65535          |
+| 0x010AE18E       |         17490318 | [Moogle](./17490318%20-%20Moogle.md)                         |        3 | 24, 25, 65535          |
+| 0x010AE18F       |         17490319 | [Moogle](./17490319%20-%20Moogle.md)                         |        3 | 26, 27, 65535          |
+| 0x010AE190       |         17490320 | [Planar Rift](./17490320%20-%20Planar%20Rift.md)             |        2 | 6000, 65535            |
+| 0x010AE191       |         17490321 | [Planar Rift](./17490321%20-%20Planar%20Rift.md)             |        2 | 6001, 65535            |
+| 0x010AE192       |         17490322 | [Planar Rift](./17490322%20-%20Planar%20Rift.md)             |        2 | 6002, 65535            |
+| 0x010AE193       |         17490323 | [Riftworn Pyxis](./17490323%20-%20Riftworn%20Pyxis.md)       |        2 | 6003, 65535            |
+| 0x010AE194       |         17490324 | [Riftworn Pyxis](./17490324%20-%20Riftworn%20Pyxis.md)       |        2 | 6004, 65535            |
+| 0x010AE195       |         17490325 | [Riftworn Pyxis](./17490325%20-%20Riftworn%20Pyxis.md)       |        2 | 6005, 65535            |
+| 0x010AE196       |         17490326 | [Grounds Tome](./17490326%20-%20Grounds%20Tome.md)           |        2 | 29, 65535              |
+| 0x010AE197       |         17490327 | [Grounds Tome](./17490327%20-%20Grounds%20Tome.md)           |        2 | 30, 65535              |
+| 0x010AE198       |         17490328 | [Grounds Tome](./17490328%20-%20Grounds%20Tome.md)           |        2 | 31, 65535              |
+| 0x010AE199       |         17490329 | [Grounds Tome](./17490329%20-%20Grounds%20Tome.md)           |        2 | 32, 65535              |
+| 0x010AE19A       |         17490330 | [Survival Guide](./17490330%20-%20Survival%20Guide.md)       |        3 | 8500, 8501, 65535      |
+| 0x010AE19B       |         17490331 | [Ethereal Junction](./17490331%20-%20Ethereal%20Junction.md) |        3 | 9000, 9003, 65535      |
+| 0x010AE19C       |         17490332 | [Ethereal Junction](./17490332%20-%20Ethereal%20Junction.md) |        3 | 9001, 9004, 65535      |
+| 0x010AE19D       |         17490333 | [Ethereal Junction](./17490333%20-%20Ethereal%20Junction.md) |        3 | 9002, 9005, 65535      |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                            |        4 | 13, 14, 65534, 65535   |
+| 0x7FFFFFF1       |       2147483633 | [(unnamed)](./2147483633.md)                                 |        3 | 14, 65535              |
+| 0x7FFFFFF2       |       2147483634 | [(unnamed)](./2147483634.md)                                 |        3 | 14, 65535              |
+| 0x7FFFFFF3       |       2147483635 | [(unnamed)](./2147483635.md)                                 |        3 | 14, 65535              |
+| 0x7FFFFFF4       |       2147483636 | [(unnamed)](./2147483636.md)                                 |        3 | 14, 65535              |
+| 0x7FFFFFF5       |       2147483637 | [(unnamed)](./2147483637.md)                                 |        3 | 14, 65535              |

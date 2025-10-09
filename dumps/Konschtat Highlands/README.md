@@ -18,103 +18,103 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                             |   Events |
-|------------------|------------------|------------------------------------------------------------------|----------|
-| 0x0106C20E       |         17220110 | [Treasure Casket](./17220110%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C20F       |         17220111 | [Treasure Casket](./17220111%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C210       |         17220112 | [Treasure Casket](./17220112%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C211       |         17220113 | [Treasure Casket](./17220113%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C212       |         17220114 | [Treasure Casket](./17220114%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C213       |         17220115 | [Treasure Casket](./17220115%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C214       |         17220116 | [Treasure Casket](./17220116%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C215       |         17220117 | [Treasure Casket](./17220117%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C216       |         17220118 | [Treasure Casket](./17220118%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C217       |         17220119 | [Treasure Casket](./17220119%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C218       |         17220120 | [Treasure Casket](./17220120%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C219       |         17220121 | [Treasure Casket](./17220121%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C21A       |         17220122 | [Treasure Casket](./17220122%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C21B       |         17220123 | [Treasure Casket](./17220123%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C21C       |         17220124 | [Treasure Casket](./17220124%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C21D       |         17220125 | [Treasure Casket](./17220125%20-%20Treasure%20Casket.md)         |        4 |
-| 0x0106C21E       |         17220126 | [Treasure Coffer](./17220126%20-%20Treasure%20Coffer.md)         |        2 |
-| 0x0106C223       |         17220131 | [(unnamed)](./17220131.md)                                       |       10 |
-| 0x0106C224       |         17220132 | [(unnamed)](./17220132.md)                                       |        2 |
-| 0x0106C22A       |         17220138 | [Telepoint](./17220138%20-%20Telepoint.md)                       |        3 |
-| 0x0106C22B       |         17220139 | [Dimensional Portal](./17220139%20-%20Dimensional%20Portal.md)   |        4 |
-| 0x0106C22C       |         17220140 | [Shattered Telepoint](./17220140%20-%20Shattered%20Telepoint.md) |        2 |
-| 0x0106C236       |         17220150 | [Stone Monument](./17220150%20-%20Stone%20Monument.md)           |        2 |
-| 0x0106C238       |         17220152 | [Plaiaude](./17220152%20-%20Plaiaude.md)                         |        3 |
-| 0x0106C23A       |         17220154 | [Cavernous Maw](./17220154%20-%20Cavernous%20Maw.md)             |        4 |
-| 0x0106C23B       |         17220155 | [EFFECTER](./17220155%20-%20EFFECTER.md)                         |        3 |
-| 0x0106C23C       |         17220156 | [Carbuncle](./17220156%20-%20Carbuncle.md)                       |        3 |
-| 0x0106C23D       |         17220157 | [Talking Doll](./17220157%20-%20Talking%20Doll.md)               |        2 |
-| 0x0106C23F       |         17220159 | [Cid](./17220159%20-%20Cid.md)                                   |        5 |
-| 0x0106C240       |         17220160 | [Naji](./17220160%20-%20Naji.md)                                 |        4 |
-| 0x0106C241       |         17220161 | [Ayame](./17220161%20-%20Ayame.md)                               |        5 |
-| 0x0106C242       |         17220162 | [Wolfgang](./17220162%20-%20Wolfgang.md)                         |        6 |
-| 0x0106C243       |         17220163 | [Chapi Galepilai](./17220163%20-%20Chapi%20Galepilai.md)         |        4 |
-| 0x0106C244       |         17220164 | [(unnamed)](./17220164.md)                                       |        4 |
-| 0x0106C245       |         17220165 | [(unnamed)](./17220165.md)                                       |        4 |
-| 0x0106C246       |         17220166 | [(unnamed)](./17220166.md)                                       |        4 |
-| 0x0106C247       |         17220167 | [(unnamed)](./17220167.md)                                       |        3 |
-| 0x0106C248       |         17220168 | [Ramblix](./17220168%20-%20Ramblix.md)                           |        2 |
-| 0x0106C24A       |         17220170 | [Field Manual](./17220170%20-%20Field%20Manual.md)               |        2 |
-| 0x0106C24B       |         17220171 | [Field Manual](./17220171%20-%20Field%20Manual.md)               |        2 |
-| 0x0106C24C       |         17220172 | [Field Parchment](./17220172%20-%20Field%20Parchment.md)         |        3 |
-| 0x0106C24D       |         17220173 | [Ethereal Junction](./17220173%20-%20Ethereal%20Junction.md)     |        3 |
-| 0x0106C24E       |         17220174 | [Ethereal Junction](./17220174%20-%20Ethereal%20Junction.md)     |        3 |
-| 0x0106C24F       |         17220175 | [Ethereal Junction](./17220175%20-%20Ethereal%20Junction.md)     |        3 |
-| 0x0106C252       |         17220178 | [Planar Rift](./17220178%20-%20Planar%20Rift.md)                 |        2 |
-| 0x0106C253       |         17220179 | [Planar Rift](./17220179%20-%20Planar%20Rift.md)                 |        2 |
-| 0x0106C254       |         17220180 | [Planar Rift](./17220180%20-%20Planar%20Rift.md)                 |        2 |
-| 0x0106C255       |         17220181 | [Riftworn Pyxis](./17220181%20-%20Riftworn%20Pyxis.md)           |        2 |
-| 0x0106C256       |         17220182 | [Riftworn Pyxis](./17220182%20-%20Riftworn%20Pyxis.md)           |        2 |
-| 0x0106C257       |         17220183 | [Riftworn Pyxis](./17220183%20-%20Riftworn%20Pyxis.md)           |        2 |
-| 0x0106C25A       |         17220186 | [Moogle](./17220186%20-%20Moogle.md)                             |        4 |
-| 0x0106C260       |         17220192 | [Clemaurent](./17220192%20-%20Clemaurent.md)                     |        9 |
-| 0x0106C261       |         17220193 | [Smile Helper](./17220193%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C262       |         17220194 | [Smile Helper](./17220194%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C263       |         17220195 | [Smile Helper](./17220195%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C264       |         17220196 | [Smile Helper](./17220196%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C265       |         17220197 | [Smile Helper](./17220197%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C266       |         17220198 | [Smile Helper](./17220198%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C267       |         17220199 | [Smile Helper](./17220199%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C268       |         17220200 | [Smile Helper](./17220200%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C269       |         17220201 | [Smile Helper](./17220201%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C26A       |         17220202 | [Smile Helper](./17220202%20-%20Smile%20Helper.md)               |        1 |
-| 0x0106C26B       |         17220203 | [Debug](./17220203%20-%20Debug.md)                               |        2 |
-| 0x0106C26C       |         17220204 | [(unnamed)](./17220204.md)                                       |        3 |
-| 0x0106C26D       |         17220205 | [Norrah](./17220205%20-%20Norrah.md)                             |       17 |
-| 0x0106C26E       |         17220206 | [(unnamed)](./17220206.md)                                       |       10 |
-| 0x0106C26F       |         17220207 | [(unnamed)](./17220207.md)                                       |        8 |
-| 0x0106C270       |         17220208 | [(unnamed)](./17220208.md)                                       |        3 |
-| 0x0106C271       |         17220209 | [(unnamed)](./17220209.md)                                       |        3 |
-| 0x0106C272       |         17220210 | [(unnamed)](./17220210.md)                                       |        4 |
-| 0x0106C275       |         17220213 | [Geomantic Reservoir](./17220213%20-%20Geomantic%20Reservoir.md) |        3 |
-| 0x0106C276       |         17220214 | [(unnamed)](./17220214.md)                                       |        3 |
-| 0x0106C277       |         17220215 | [(unnamed)](./17220215.md)                                       |        4 |
-| 0x0106C278       |         17220216 | [Survival Guide](./17220216%20-%20Survival%20Guide.md)           |        4 |
-| 0x0106C279       |         17220217 | [(unnamed)](./17220217.md)                                       |       15 |
-| 0x0106C27A       |         17220218 | [Iroha](./17220218%20-%20Iroha.md)                               |       35 |
-| 0x0106C27B       |         17220219 | [Lion](./17220219%20-%20Lion.md)                                 |       14 |
-| 0x0106C27C       |         17220220 | [Zeid](./17220220%20-%20Zeid.md)                                 |       11 |
-| 0x0106C27D       |         17220221 | [(unnamed)](./17220221.md)                                       |       20 |
-| 0x0106C27E       |         17220222 | [Selhteus](./17220222%20-%20Selhteus.md)                         |       10 |
-| 0x0106C27F       |         17220223 | [Selhteus](./17220223%20-%20Selhteus.md)                         |        6 |
-| 0x0106C280       |         17220224 | [Selhteus](./17220224%20-%20Selhteus.md)                         |        5 |
-| 0x0106C281       |         17220225 | [Balamor](./17220225%20-%20Balamor.md)                           |        2 |
-| 0x0106C282       |         17220226 | [(unnamed)](./17220226.md)                                       |        4 |
-| 0x0106C283       |         17220227 | [(unnamed)](./17220227.md)                                       |        3 |
-| 0x0106C284       |         17220228 | [(unnamed)](./17220228.md)                                       |        4 |
-| 0x0106C285       |         17220229 | [Disjoined One](./17220229%20-%20Disjoined%20One.md)             |       11 |
-| 0x0106C286       |         17220230 | [Disjoined One](./17220230%20-%20Disjoined%20One.md)             |       12 |
-| 0x0106C287       |         17220231 | [Disjoined One](./17220231%20-%20Disjoined%20One.md)             |       12 |
-| 0x0106C288       |         17220232 | [Disjoined One](./17220232%20-%20Disjoined%20One.md)             |       12 |
-| 0x0106C289       |         17220233 | [Disjoined One](./17220233%20-%20Disjoined%20One.md)             |       12 |
-| 0x0106C28A       |         17220234 | [Disjoined One](./17220234%20-%20Disjoined%20One.md)             |       12 |
-| 0x0106C28B       |         17220235 | [Disjoined One](./17220235%20-%20Disjoined%20One.md)             |       12 |
-| 0x0106C28C       |         17220236 | [Disjoined One](./17220236%20-%20Disjoined%20One.md)             |       12 |
-| 0x0106C28D       |         17220237 | [(unnamed)](./17220237.md)                                       |       15 |
-| 0x0106C28E       |         17220238 | [(unnamed)](./17220238.md)                                       |       14 |
-| 0x0106C28F       |         17220239 | [(unnamed)](./17220239.md)                                       |        3 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                |       42 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                             |   Events | Event IDs                                                   |
+|------------------|------------------|------------------------------------------------------------------|----------|-------------------------------------------------------------|
+| 0x0106C20E       |         17220110 | [Treasure Casket](./17220110%20-%20Treasure%20Casket.md)         |        4 | 1000, 1001, 1002, 1048                                      |
+| 0x0106C20F       |         17220111 | [Treasure Casket](./17220111%20-%20Treasure%20Casket.md)         |        4 | 1003, 1004, 1005, 1049                                      |
+| 0x0106C210       |         17220112 | [Treasure Casket](./17220112%20-%20Treasure%20Casket.md)         |        4 | 1006, 1007, 1008, 1050                                      |
+| 0x0106C211       |         17220113 | [Treasure Casket](./17220113%20-%20Treasure%20Casket.md)         |        4 | 1009, 1010, 1011, 1051                                      |
+| 0x0106C212       |         17220114 | [Treasure Casket](./17220114%20-%20Treasure%20Casket.md)         |        4 | 1012, 1013, 1014, 1052                                      |
+| 0x0106C213       |         17220115 | [Treasure Casket](./17220115%20-%20Treasure%20Casket.md)         |        4 | 1015, 1016, 1017, 1053                                      |
+| 0x0106C214       |         17220116 | [Treasure Casket](./17220116%20-%20Treasure%20Casket.md)         |        4 | 1018, 1019, 1020, 1054                                      |
+| 0x0106C215       |         17220117 | [Treasure Casket](./17220117%20-%20Treasure%20Casket.md)         |        4 | 1021, 1022, 1023, 1055                                      |
+| 0x0106C216       |         17220118 | [Treasure Casket](./17220118%20-%20Treasure%20Casket.md)         |        4 | 1024, 1025, 1026, 1056                                      |
+| 0x0106C217       |         17220119 | [Treasure Casket](./17220119%20-%20Treasure%20Casket.md)         |        4 | 1027, 1028, 1029, 1057                                      |
+| 0x0106C218       |         17220120 | [Treasure Casket](./17220120%20-%20Treasure%20Casket.md)         |        4 | 1030, 1031, 1032, 1058                                      |
+| 0x0106C219       |         17220121 | [Treasure Casket](./17220121%20-%20Treasure%20Casket.md)         |        4 | 1033, 1034, 1035, 1059                                      |
+| 0x0106C21A       |         17220122 | [Treasure Casket](./17220122%20-%20Treasure%20Casket.md)         |        4 | 1036, 1037, 1038, 1060                                      |
+| 0x0106C21B       |         17220123 | [Treasure Casket](./17220123%20-%20Treasure%20Casket.md)         |        4 | 1039, 1040, 1041, 1061                                      |
+| 0x0106C21C       |         17220124 | [Treasure Casket](./17220124%20-%20Treasure%20Casket.md)         |        4 | 1042, 1043, 1044, 1062                                      |
+| 0x0106C21D       |         17220125 | [Treasure Casket](./17220125%20-%20Treasure%20Casket.md)         |        4 | 1045, 1046, 1047, 1063                                      |
+| 0x0106C21E       |         17220126 | [Treasure Coffer](./17220126%20-%20Treasure%20Coffer.md)         |        2 | 2000, 65535                                                 |
+| 0x0106C223       |         17220131 | [(unnamed)](./17220131.md)                                       |       10 | 4500, 4501, 4502, 4503, 4504, 4505, 4506, 4507, 4508, 65535 |
+| 0x0106C224       |         17220132 | [(unnamed)](./17220132.md)                                       |        2 | 108, 65535                                                  |
+| 0x0106C22A       |         17220138 | [Telepoint](./17220138%20-%20Telepoint.md)                       |        3 | 101, 924, 65535                                             |
+| 0x0106C22B       |         17220139 | [Dimensional Portal](./17220139%20-%20Dimensional%20Portal.md)   |        4 | 6, 7, 102, 65535                                            |
+| 0x0106C22C       |         17220140 | [Shattered Telepoint](./17220140%20-%20Shattered%20Telepoint.md) |        2 | 912, 65535                                                  |
+| 0x0106C236       |         17220150 | [Stone Monument](./17220150%20-%20Stone%20Monument.md)           |        2 | 900, 65535                                                  |
+| 0x0106C238       |         17220152 | [Plaiaude](./17220152%20-%20Plaiaude.md)                         |        3 | 910, 911, 65535                                             |
+| 0x0106C23A       |         17220154 | [Cavernous Maw](./17220154%20-%20Cavernous%20Maw.md)             |        4 | 0, 1, 107, 65535                                            |
+| 0x0106C23B       |         17220155 | [EFFECTER](./17220155%20-%20EFFECTER.md)                         |        3 | 104, 65535                                                  |
+| 0x0106C23C       |         17220156 | [Carbuncle](./17220156%20-%20Carbuncle.md)                       |        3 | 104, 65535                                                  |
+| 0x0106C23D       |         17220157 | [Talking Doll](./17220157%20-%20Talking%20Doll.md)               |        2 | 106, 65535                                                  |
+| 0x0106C23F       |         17220159 | [Cid](./17220159%20-%20Cid.md)                                   |        5 | 912, 65535                                                  |
+| 0x0106C240       |         17220160 | [Naji](./17220160%20-%20Naji.md)                                 |        4 | 912, 65535                                                  |
+| 0x0106C241       |         17220161 | [Ayame](./17220161%20-%20Ayame.md)                               |        5 | 912, 65535                                                  |
+| 0x0106C242       |         17220162 | [Wolfgang](./17220162%20-%20Wolfgang.md)                         |        6 | 912, 65535                                                  |
+| 0x0106C243       |         17220163 | [Chapi Galepilai](./17220163%20-%20Chapi%20Galepilai.md)         |        4 | 912, 65535                                                  |
+| 0x0106C244       |         17220164 | [(unnamed)](./17220164.md)                                       |        4 | 912, 65535                                                  |
+| 0x0106C245       |         17220165 | [(unnamed)](./17220165.md)                                       |        4 | 912, 65535                                                  |
+| 0x0106C246       |         17220166 | [(unnamed)](./17220166.md)                                       |        4 | 912, 65535                                                  |
+| 0x0106C247       |         17220167 | [(unnamed)](./17220167.md)                                       |        3 | 912, 65535                                                  |
+| 0x0106C248       |         17220168 | [Ramblix](./17220168%20-%20Ramblix.md)                           |        2 | 914, 65535                                                  |
+| 0x0106C24A       |         17220170 | [Field Manual](./17220170%20-%20Field%20Manual.md)               |        2 | 61, 65535                                                   |
+| 0x0106C24B       |         17220171 | [Field Manual](./17220171%20-%20Field%20Manual.md)               |        2 | 62, 65535                                                   |
+| 0x0106C24C       |         17220172 | [Field Parchment](./17220172%20-%20Field%20Parchment.md)         |        3 | 2001, 2002, 65535                                           |
+| 0x0106C24D       |         17220173 | [Ethereal Junction](./17220173%20-%20Ethereal%20Junction.md)     |        3 | 9000, 9003, 65535                                           |
+| 0x0106C24E       |         17220174 | [Ethereal Junction](./17220174%20-%20Ethereal%20Junction.md)     |        3 | 9001, 9004, 65535                                           |
+| 0x0106C24F       |         17220175 | [Ethereal Junction](./17220175%20-%20Ethereal%20Junction.md)     |        3 | 9002, 9005, 65535                                           |
+| 0x0106C252       |         17220178 | [Planar Rift](./17220178%20-%20Planar%20Rift.md)                 |        2 | 6000, 65535                                                 |
+| 0x0106C253       |         17220179 | [Planar Rift](./17220179%20-%20Planar%20Rift.md)                 |        2 | 6001, 65535                                                 |
+| 0x0106C254       |         17220180 | [Planar Rift](./17220180%20-%20Planar%20Rift.md)                 |        2 | 6002, 65535                                                 |
+| 0x0106C255       |         17220181 | [Riftworn Pyxis](./17220181%20-%20Riftworn%20Pyxis.md)           |        2 | 6003, 65535                                                 |
+| 0x0106C256       |         17220182 | [Riftworn Pyxis](./17220182%20-%20Riftworn%20Pyxis.md)           |        2 | 6004, 65535                                                 |
+| 0x0106C257       |         17220183 | [Riftworn Pyxis](./17220183%20-%20Riftworn%20Pyxis.md)           |        2 | 6005, 65535                                                 |
+| 0x0106C25A       |         17220186 | [Moogle](./17220186%20-%20Moogle.md)                             |        4 | 921, 922, 923, 65535                                        |
+| 0x0106C260       |         17220192 | [Clemaurent](./17220192%20-%20Clemaurent.md)                     |        9 | 7001, 7004, 7005, 7009, 7010, 7011, 7012, 7014, 65535       |
+| 0x0106C261       |         17220193 | [Smile Helper](./17220193%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C262       |         17220194 | [Smile Helper](./17220194%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C263       |         17220195 | [Smile Helper](./17220195%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C264       |         17220196 | [Smile Helper](./17220196%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C265       |         17220197 | [Smile Helper](./17220197%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C266       |         17220198 | [Smile Helper](./17220198%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C267       |         17220199 | [Smile Helper](./17220199%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C268       |         17220200 | [Smile Helper](./17220200%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C269       |         17220201 | [Smile Helper](./17220201%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C26A       |         17220202 | [Smile Helper](./17220202%20-%20Smile%20Helper.md)               |        1 | 65535                                                       |
+| 0x0106C26B       |         17220203 | [Debug](./17220203%20-%20Debug.md)                               |        2 | 7013, 65535                                                 |
+| 0x0106C26C       |         17220204 | [(unnamed)](./17220204.md)                                       |        3 | 0, 1, 65535                                                 |
+| 0x0106C26D       |         17220205 | [Norrah](./17220205%20-%20Norrah.md)                             |       17 | 0, 1, 65535                                                 |
+| 0x0106C26E       |         17220206 | [(unnamed)](./17220206.md)                                       |       10 | 0, 65535                                                    |
+| 0x0106C26F       |         17220207 | [(unnamed)](./17220207.md)                                       |        8 | 0, 1, 3, 5, 65535                                           |
+| 0x0106C270       |         17220208 | [(unnamed)](./17220208.md)                                       |        3 | 0, 1, 65535                                                 |
+| 0x0106C271       |         17220209 | [(unnamed)](./17220209.md)                                       |        3 | 927, 928, 65535                                             |
+| 0x0106C272       |         17220210 | [(unnamed)](./17220210.md)                                       |        4 | 927, 65535                                                  |
+| 0x0106C275       |         17220213 | [Geomantic Reservoir](./17220213%20-%20Geomantic%20Reservoir.md) |        3 | 15000, 15002, 65535                                         |
+| 0x0106C276       |         17220214 | [(unnamed)](./17220214.md)                                       |        3 | 15000, 15001, 65535                                         |
+| 0x0106C277       |         17220215 | [(unnamed)](./17220215.md)                                       |        4 | 15000, 15003, 15004, 65535                                  |
+| 0x0106C278       |         17220216 | [Survival Guide](./17220216%20-%20Survival%20Guide.md)           |        4 | 2, 8500, 8501, 65535                                        |
+| 0x0106C279       |         17220217 | [(unnamed)](./17220217.md)                                       |       15 | 3, 4, 5, 65535                                              |
+| 0x0106C27A       |         17220218 | [Iroha](./17220218%20-%20Iroha.md)                               |       35 | 4, 5, 6, 65535                                              |
+| 0x0106C27B       |         17220219 | [Lion](./17220219%20-%20Lion.md)                                 |       14 | 3, 4, 5, 65535                                              |
+| 0x0106C27C       |         17220220 | [Zeid](./17220220%20-%20Zeid.md)                                 |       11 | 4, 5, 65535                                                 |
+| 0x0106C27D       |         17220221 | [(unnamed)](./17220221.md)                                       |       20 | 4, 5, 65535                                                 |
+| 0x0106C27E       |         17220222 | [Selhteus](./17220222%20-%20Selhteus.md)                         |       10 | 5, 65535                                                    |
+| 0x0106C27F       |         17220223 | [Selhteus](./17220223%20-%20Selhteus.md)                         |        6 | 5, 65535                                                    |
+| 0x0106C280       |         17220224 | [Selhteus](./17220224%20-%20Selhteus.md)                         |        5 | 5, 65535                                                    |
+| 0x0106C281       |         17220225 | [Balamor](./17220225%20-%20Balamor.md)                           |        2 | 5, 65535                                                    |
+| 0x0106C282       |         17220226 | [(unnamed)](./17220226.md)                                       |        4 | 65535                                                       |
+| 0x0106C283       |         17220227 | [(unnamed)](./17220227.md)                                       |        3 | 65535                                                       |
+| 0x0106C284       |         17220228 | [(unnamed)](./17220228.md)                                       |        4 | 65535                                                       |
+| 0x0106C285       |         17220229 | [Disjoined One](./17220229%20-%20Disjoined%20One.md)             |       11 | 65535                                                       |
+| 0x0106C286       |         17220230 | [Disjoined One](./17220230%20-%20Disjoined%20One.md)             |       12 | 65535                                                       |
+| 0x0106C287       |         17220231 | [Disjoined One](./17220231%20-%20Disjoined%20One.md)             |       12 | 65535                                                       |
+| 0x0106C288       |         17220232 | [Disjoined One](./17220232%20-%20Disjoined%20One.md)             |       12 | 65535                                                       |
+| 0x0106C289       |         17220233 | [Disjoined One](./17220233%20-%20Disjoined%20One.md)             |       12 | 65535                                                       |
+| 0x0106C28A       |         17220234 | [Disjoined One](./17220234%20-%20Disjoined%20One.md)             |       12 | 65535                                                       |
+| 0x0106C28B       |         17220235 | [Disjoined One](./17220235%20-%20Disjoined%20One.md)             |       12 | 65535                                                       |
+| 0x0106C28C       |         17220236 | [Disjoined One](./17220236%20-%20Disjoined%20One.md)             |       12 | 65535                                                       |
+| 0x0106C28D       |         17220237 | [(unnamed)](./17220237.md)                                       |       15 | 65535                                                       |
+| 0x0106C28E       |         17220238 | [(unnamed)](./17220238.md)                                       |       14 | 65535                                                       |
+| 0x0106C28F       |         17220239 | [(unnamed)](./17220239.md)                                       |        3 | 6, 7, 65535                                                 |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                |       42 | 912, 913, 915, 916, 918, 925, 926, 65534, 65535             |

@@ -18,31 +18,31 @@
 
 ## Actors
 
-| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                     |   Events |
-|------------------|------------------|----------------------------------------------------------|----------|
-| 0x0109D160       |         17420640 | [Treasure Casket](./17420640%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D161       |         17420641 | [Treasure Casket](./17420641%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D162       |         17420642 | [Treasure Casket](./17420642%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D163       |         17420643 | [Treasure Casket](./17420643%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D164       |         17420644 | [Treasure Casket](./17420644%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D165       |         17420645 | [Treasure Casket](./17420645%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D166       |         17420646 | [Treasure Casket](./17420646%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D167       |         17420647 | [Treasure Casket](./17420647%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D168       |         17420648 | [Treasure Casket](./17420648%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D169       |         17420649 | [Treasure Casket](./17420649%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D16A       |         17420650 | [Treasure Casket](./17420650%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D16B       |         17420651 | [Treasure Casket](./17420651%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D16C       |         17420652 | [Treasure Casket](./17420652%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D16D       |         17420653 | [Treasure Casket](./17420653%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D16E       |         17420654 | [Treasure Casket](./17420654%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D16F       |         17420655 | [Treasure Casket](./17420655%20-%20Treasure%20Casket.md) |        4 |
-| 0x0109D175       |         17420661 | [(unnamed)](./17420661.md)                               |        2 |
-| 0x0109D179       |         17420665 | [Zeid](./17420665%20-%20Zeid.md)                         |        4 |
-| 0x0109D17A       |         17420666 | [(unnamed)](./17420666.md)                               |        2 |
-| 0x0109D185       |         17420677 | [Treasure Chest](./17420677%20-%20Treasure%20Chest.md)   |        1 |
-| 0x0109D186       |         17420678 | [Ramblix](./17420678%20-%20Ramblix.md)                   |        2 |
-| 0x0109D188       |         17420680 | [Grounds Tome](./17420680%20-%20Grounds%20Tome.md)       |        2 |
-| 0x0109D189       |         17420681 | [Grounds Tome](./17420681%20-%20Grounds%20Tome.md)       |        2 |
-| 0x0109D18A       |         17420682 | [Grounds Tome](./17420682%20-%20Grounds%20Tome.md)       |        2 |
-| 0x0109D18B       |         17420683 | [Grounds Tome](./17420683%20-%20Grounds%20Tome.md)       |        2 |
-| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                        |       18 |
+| Actor ID (Hex)   |   Actor ID (Dec) | Name                                                     |   Events | Event IDs                                                          |
+|------------------|------------------|----------------------------------------------------------|----------|--------------------------------------------------------------------|
+| 0x0109D160       |         17420640 | [Treasure Casket](./17420640%20-%20Treasure%20Casket.md) |        4 | 1000, 1001, 1002, 1048                                             |
+| 0x0109D161       |         17420641 | [Treasure Casket](./17420641%20-%20Treasure%20Casket.md) |        4 | 1003, 1004, 1005, 1049                                             |
+| 0x0109D162       |         17420642 | [Treasure Casket](./17420642%20-%20Treasure%20Casket.md) |        4 | 1006, 1007, 1008, 1050                                             |
+| 0x0109D163       |         17420643 | [Treasure Casket](./17420643%20-%20Treasure%20Casket.md) |        4 | 1009, 1010, 1011, 1051                                             |
+| 0x0109D164       |         17420644 | [Treasure Casket](./17420644%20-%20Treasure%20Casket.md) |        4 | 1012, 1013, 1014, 1052                                             |
+| 0x0109D165       |         17420645 | [Treasure Casket](./17420645%20-%20Treasure%20Casket.md) |        4 | 1015, 1016, 1017, 1053                                             |
+| 0x0109D166       |         17420646 | [Treasure Casket](./17420646%20-%20Treasure%20Casket.md) |        4 | 1018, 1019, 1020, 1054                                             |
+| 0x0109D167       |         17420647 | [Treasure Casket](./17420647%20-%20Treasure%20Casket.md) |        4 | 1021, 1022, 1023, 1055                                             |
+| 0x0109D168       |         17420648 | [Treasure Casket](./17420648%20-%20Treasure%20Casket.md) |        4 | 1024, 1025, 1026, 1056                                             |
+| 0x0109D169       |         17420649 | [Treasure Casket](./17420649%20-%20Treasure%20Casket.md) |        4 | 1027, 1028, 1029, 1057                                             |
+| 0x0109D16A       |         17420650 | [Treasure Casket](./17420650%20-%20Treasure%20Casket.md) |        4 | 1030, 1031, 1032, 1058                                             |
+| 0x0109D16B       |         17420651 | [Treasure Casket](./17420651%20-%20Treasure%20Casket.md) |        4 | 1033, 1034, 1035, 1059                                             |
+| 0x0109D16C       |         17420652 | [Treasure Casket](./17420652%20-%20Treasure%20Casket.md) |        4 | 1036, 1037, 1038, 1060                                             |
+| 0x0109D16D       |         17420653 | [Treasure Casket](./17420653%20-%20Treasure%20Casket.md) |        4 | 1039, 1040, 1041, 1061                                             |
+| 0x0109D16E       |         17420654 | [Treasure Casket](./17420654%20-%20Treasure%20Casket.md) |        4 | 1042, 1043, 1044, 1062                                             |
+| 0x0109D16F       |         17420655 | [Treasure Casket](./17420655%20-%20Treasure%20Casket.md) |        4 | 1045, 1046, 1047, 1063                                             |
+| 0x0109D175       |         17420661 | [(unnamed)](./17420661.md)                               |        2 | 17, 65535                                                          |
+| 0x0109D179       |         17420665 | [Zeid](./17420665%20-%20Zeid.md)                         |        4 | 14, 65535                                                          |
+| 0x0109D17A       |         17420666 | [(unnamed)](./17420666.md)                               |        2 | 14, 65535                                                          |
+| 0x0109D185       |         17420677 | [Treasure Chest](./17420677%20-%20Treasure%20Chest.md)   |        1 | 65535                                                              |
+| 0x0109D186       |         17420678 | [Ramblix](./17420678%20-%20Ramblix.md)                   |        2 | 15, 65535                                                          |
+| 0x0109D188       |         17420680 | [Grounds Tome](./17420680%20-%20Grounds%20Tome.md)       |        2 | 18, 65535                                                          |
+| 0x0109D189       |         17420681 | [Grounds Tome](./17420681%20-%20Grounds%20Tome.md)       |        2 | 19, 65535                                                          |
+| 0x0109D18A       |         17420682 | [Grounds Tome](./17420682%20-%20Grounds%20Tome.md)       |        2 | 20, 65535                                                          |
+| 0x0109D18B       |         17420683 | [Grounds Tome](./17420683%20-%20Grounds%20Tome.md)       |        2 | 21, 65535                                                          |
+| 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                        |       18 | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 65534, 65535 |
