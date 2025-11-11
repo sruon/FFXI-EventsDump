@@ -26,17 +26,17 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0x001C      |          28 |
 |       5 | 0x001B      |          27 |
-|       6 | 0x238B      |        9099 |
-|       7 | 0x238C      |        9100 |
+|       6 | 0x238C      |        9100 |
+|       7 | 0x238D      |        9101 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x238D      |        9101 |
-|      10 | 0x238E      |        9102 |
-|      11 | 0x2390      |        9104 |
-|      12 | 0x2391      |        9105 |
-|      13 | 0x2392      |        9106 |
-|      14 | 0x2393      |        9107 |
+|       9 | 0x238E      |        9102 |
+|      10 | 0x238F      |        9103 |
+|      11 | 0x2391      |        9105 |
+|      12 | 0x2392      |        9106 |
+|      13 | 0x2393      |        9107 |
+|      14 | 0x2394      |        9108 |
 |      15 | 0x0002      |           2 |
-|      16 | 0x2394      |        9108 |
+|      16 | 0x2395      |        9109 |
 |      17 | 0x0008      |           8 |
 |      18 | 0x0004      |           4 |
 |      19 | 0x0003      |           3 |
@@ -52,32 +52,32 @@
 |      29 | 0x0011      |          17 |
 |      30 | 0x0012      |          18 |
 |      31 | 0x0013      |          19 |
-|      32 | 0x2395      |        9109 |
+|      32 | 0x2396      |        9110 |
 |      33 | 0x0014      |          20 |
-|      34 | 0x2396      |        9110 |
-|      35 | 0x2399      |        9113 |
-|      36 | 0x2397      |        9111 |
+|      34 | 0x2397      |        9111 |
+|      35 | 0x239A      |        9114 |
+|      36 | 0x2398      |        9112 |
 |      37 | 0x1EF0      |        7920 |
-|      38 | 0x2398      |        9112 |
-|      39 | 0x239A      |        9114 |
+|      38 | 0x2399      |        9113 |
+|      39 | 0x239B      |        9115 |
 |      40 | 0x0017      |          23 |
 
 ## String References
 
-- **9099**: Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!
-- **9100**: What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]
-- **9101**: In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!
-- **9102**: You can trade them for incredible items to assist you with your adventures!
-- **9104**: You can trade in these tokens for our gratuitous gifts any time during this campaign!
-- **9105**: Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!
-- **9106**: Up to 1500 points from the current campaign can be carried over to the next one starting with the April 2016 login campaign!
-- **9107**: Any additional points will be summarily seized, kupo!
-- **9108**: View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]
-- **9110**: $23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]
-- **9111**: How many would you like, kupo?
-- **9112**: Altana above! You do not possess the prerequisite number of points!
-- **9113**: Proceed with exchange? ($1 pt[/s].) [Yes./No.]
-- **9114**: Wait one short second while I get your goods!
+- **9100**: Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!
+- **9101**: What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]
+- **9102**: In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!
+- **9103**: You can trade them for incredible items to assist you with your adventures!
+- **9105**: You can trade in these tokens for our gratuitous gifts any time during this campaign!
+- **9106**: Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!
+- **9107**: Up to 700 points from the current campaign can be carried over to the next one starting with the October 2025 login campaign!
+- **9108**: Any additional points will be summarily seized, kupo!
+- **9109**: View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]
+- **9111**: $23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]
+- **9112**: How many would you like, kupo?
+- **9113**: Altana above! You do not possess the prerequisite number of points!
+- **9114**: Proceed with exchange? ($1 pt[/s].) [Yes./No.]
+- **9115**: Wait one short second while I get your goods!
 
 ## Events
 
@@ -205,11 +205,11 @@
  11: 0x0058 [0x1E] EventEntity looks at LocalPlayer and starts talking
  12: 0x005D [0x41] Work_Zone[3] = Work_Zone[2] (bits 28*-31*)
  13: 0x0066 [0x41] Work_Zone[2] = Work_Zone[2] (bits 0*-27*)
- 14: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=9099*)
+ 14: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=9100*)
     → "Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!"
  15: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0073 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
- 17: 0x0078 [0x24] CREATE_DIALOG(message_id=9100*, default_option=0*, option_flags=0*)
+ 17: 0x0078 [0x24] CREATE_DIALOG(message_id=9101*, default_option=0*, option_flags=0*)
     → "What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]"
  18: 0x007F [0x25] WAIT_DIALOG_SELECT()
  19: 0x0080 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0094
@@ -227,7 +227,7 @@ SUBROUTINE_00D0:
  29: 0x00EE [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[17]
  30: 0x00F3 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[18]
  31: 0x00F8 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[19]
- 32: 0x00FD [0x24] CREATE_DIALOG(message_id=9108*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[3])
+ 32: 0x00FD [0x24] CREATE_DIALOG(message_id=9109*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[3])
     → "View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]"
  33: 0x0104 [0x25] WAIT_DIALOG_SELECT()
  34: 0x0105 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0113
@@ -311,7 +311,7 @@ SUBROUTINE_030E:
 
 SUBROUTINE_0335:
 106: 0x0335 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[15])
-107: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
+107: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
     → "$23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]"
 108: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x033C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -328,7 +328,7 @@ SUBROUTINE_038A:
 118: 0x03AA [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[7]
 119: 0x03AF [0x14] ExtData[1]->WorkLocal[0] *= ExtData[1]->WorkLocal[11]
 120: 0x03B4 [0x02] IF !(ExtData[1]->WorkLocal[0] <= ExtData[1]->WorkLocal[2]) GOTO 0x03C3
-121: 0x03BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
+121: 0x03BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
     → "Altana above! You do not possess the prerequisite number of points!"
 122: 0x03BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x03C0 [0x01] GOTO 0x038A
@@ -337,7 +337,7 @@ SUBROUTINE_038A:
 
 SUBROUTINE_03CB:
 126: 0x03CB [0x42] SET_CLI_EVENT_CANCEL_DATA()
-127: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+127: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
     → "Wait one short second while I get your goods!"
 128: 0x03CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x03D0 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=3*)

@@ -20,20 +20,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3531      |       13617 |
+|       0 | 0x3532      |       13618 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x3532      |       13618 |
-|       4 | 0x353A      |       13626 |
-|       5 | 0x353B      |       13627 |
-|       6 | 0x353C      |       13628 |
-|       7 | 0x353D      |       13629 |
-|       8 | 0x353E      |       13630 |
+|       3 | 0x3533      |       13619 |
+|       4 | 0x353B      |       13627 |
+|       5 | 0x353C      |       13628 |
+|       6 | 0x353D      |       13629 |
+|       7 | 0x353E      |       13630 |
+|       8 | 0x353F      |       13631 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x353F      |       13631 |
-|      11 | 0x3540      |       13632 |
-|      12 | 0x3541      |       13633 |
-|      13 | 0x3542      |       13634 |
+|      10 | 0x3540      |       13632 |
+|      11 | 0x3541      |       13633 |
+|      12 | 0x3542      |       13634 |
+|      13 | 0x3543      |       13635 |
 |      14 | 0x0003      |           3 |
 |      15 | 0xFFFFFFFF  |  4294967295 |
 |      16 | 0x007E      |         126 |
@@ -49,13 +49,13 @@
 |      26 | 0x0006      |           6 |
 |      27 | 0x0014      |          20 |
 |      28 | 0x0017      |          23 |
-|      29 | 0x3533      |       13619 |
-|      30 | 0x3534      |       13620 |
-|      31 | 0x3539      |       13625 |
-|      32 | 0x3538      |       13624 |
-|      33 | 0x3535      |       13621 |
-|      34 | 0x3536      |       13622 |
-|      35 | 0x3537      |       13623 |
+|      29 | 0x3534      |       13620 |
+|      30 | 0x3535      |       13621 |
+|      31 | 0x353A      |       13626 |
+|      32 | 0x3539      |       13625 |
+|      33 | 0x3536      |       13622 |
+|      34 | 0x3537      |       13623 |
+|      35 | 0x3538      |       13624 |
 |      36 | 0x000A      |          10 |
 |      37 | 0x002E      |          46 |
 |      38 | 0x007F      |         127 |
@@ -201,24 +201,24 @@
 
 ## String References
 
-- **13617**: Heigh-ho, kupo! I'm the boatswain for this darned-good dinghy, and it's my duty to divulge all the discursive details about Mog Gardens. So, what kind of cognition are you craving?
-- **13618**: What do you want to know? [Nothing./What Mog Gardens are./How to get to one./What Mog Garden books are available.]
-- **13619**: We've got staggering stores of the following scholarly scripts and tantalizing tomes, kupo!
-- **13620**: Which book will you buy? [None./3./$3./$3./$3./$3./$3.]
-- **13621**: $3, is it, kupo? Interestingly enough, that one is reported to raise the rank of your [furrows/arboreal grove/mineral vein/pond dredger/coastal fishing net/monster rearing skills] to ridiculous reaches...for the small sum of $7 gil.
-- **13622**: Buy the book? [Yes./No.]
-- **13623**: Trading tender for treasures...isn't shopping sublime, kupo?
-- **13624**: Disappointingly, I doubt you've the discernment to descry the details of these documents. Exit then, and expand the extent of your experience.
-- **13625**: Sorry, but our stocks of such sundries are so scarce we can't sell them.
-- **13626**: Mog Gardens are lovely locales that lie latent in the west, on the Adoulin Islands. They're true treasure troves of taintless resources, frothing with fish, bursting with birds, and filled with forests, kupo!
-- **13627**: Think of it as your Mog House away from home! Just like that fantastic facility, there's a wealth of wonders just waiting to well up for your disposal.
-- **13628**: Spread your wings as wide as you wish without worrying about the consequences, kupo. The Green Thumb Moogle will handle the husbandry of this homestead while you're out hacking at hordes of hellions and cavorting across continents.
-- **13629**: If you're shivering to shove off, then shuffle aboard the Mog Dinghy over there! It may seem small and slightly slipshod, but the mysterious moogle magic we manifest upon it is magnificent enough to move you malms and malms in mere minutes.
-- **13630**: Once you adjust to your Adoulinian asylum, I'll even proffer printed publications that will make your Mog Garden more majestic. Grab your gil and get ready, kupo!
-- **13631**: While it'd be wickedly wonderful to whisk away everyone to Mog Gardens, only "Certified Adventurers" and "pioneers" are allowed entry to these excellent expanses of escape, kupo.
-- **13632**: "Certified Adventurers" are those who have applied themselves assiduously, attaining the third mission rank in any nation.
-- **13633**: It doesn't have to be here as long as you were once appropriately accredited in times antecedent.
-- **13634**: If Adoulin's body politic has properly permitted you to perform pioneering duties, however, your so-called "rank" can be lower than a leech's legs and you'll still be let in, kupo.
+- **13618**: Heigh-ho, kupo! I'm the boatswain for this darned-good dinghy, and it's my duty to divulge all the discursive details about Mog Gardens. So, what kind of cognition are you craving?
+- **13619**: What do you want to know? [Nothing./What Mog Gardens are./How to get to one./What Mog Garden books are available.]
+- **13620**: We've got staggering stores of the following scholarly scripts and tantalizing tomes, kupo!
+- **13621**: Which book will you buy? [None./3./$3./$3./$3./$3./$3.]
+- **13622**: $3, is it, kupo? Interestingly enough, that one is reported to raise the rank of your [furrows/arboreal grove/mineral vein/pond dredger/coastal fishing net/monster rearing skills] to ridiculous reaches...for the small sum of $7 gil.
+- **13623**: Buy the book? [Yes./No.]
+- **13624**: Trading tender for treasures...isn't shopping sublime, kupo?
+- **13625**: Disappointingly, I doubt you've the discernment to descry the details of these documents. Exit then, and expand the extent of your experience.
+- **13626**: Sorry, but our stocks of such sundries are so scarce we can't sell them.
+- **13627**: Mog Gardens are lovely locales that lie latent in the west, on the Adoulin Islands. They're true treasure troves of taintless resources, frothing with fish, bursting with birds, and filled with forests, kupo!
+- **13628**: Think of it as your Mog House away from home! Just like that fantastic facility, there's a wealth of wonders just waiting to well up for your disposal.
+- **13629**: Spread your wings as wide as you wish without worrying about the consequences, kupo. The Green Thumb Moogle will handle the husbandry of this homestead while you're out hacking at hordes of hellions and cavorting across continents.
+- **13630**: If you're shivering to shove off, then shuffle aboard the Mog Dinghy over there! It may seem small and slightly slipshod, but the mysterious moogle magic we manifest upon it is magnificent enough to move you malms and malms in mere minutes.
+- **13631**: Once you adjust to your Adoulinian asylum, I'll even proffer printed publications that will make your Mog Garden more majestic. Grab your gil and get ready, kupo!
+- **13632**: While it'd be wickedly wonderful to whisk away everyone to Mog Gardens, only "Certified Adventurers" and "pioneers" are allowed entry to these excellent expanses of escape, kupo.
+- **13633**: "Certified Adventurers" are those who have applied themselves assiduously, attaining the third mission rank in any nation.
+- **13634**: It doesn't have to be here as long as you were once appropriately accredited in times antecedent.
+- **13635**: If Adoulin's body politic has properly permitted you to perform pioneering duties, however, your so-called "rank" can be lower than a leech's legs and you'll still be let in, kupo.
 
 ## Events
 
@@ -339,42 +339,42 @@
   1: 0x0006 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   2: 0x000B [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
   3: 0x0010 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=13617*)
+  4: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=13618*)
     → "Heigh-ho, kupo! I'm the boatswain for this darned-good dinghy, and it's my duty to divulge all the discursive details about Mog Gardens. So, what kind of cognition are you craving?"
   5: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0019 [0x03] ExtData[1]->WorkLocal[3] = 1*
   7: 0x001E [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x0267
-  8: 0x0026 [0x24] CREATE_DIALOG(message_id=13618*, default_option=0*, option_flags=0*)
+  8: 0x0026 [0x24] CREATE_DIALOG(message_id=13619*, default_option=0*, option_flags=0*)
     → "What do you want to know? [Nothing./What Mog Gardens are./How to get to one./What Mog Garden books are available.]"
   9: 0x002D [0x25] WAIT_DIALOG_SELECT()
  10: 0x002E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x004D
- 11: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=13626*)
+ 11: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=13627*)
     → "Mog Gardens are lovely locales that lie latent in the west, on the Adoulin Islands. They're true treasure troves of taintless resources, frothing with fish, bursting with birds, and filled with forests, kupo!"
  12: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=13627*)
+ 13: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=13628*)
     → "Think of it as your Mog House away from home! Just like that fantastic facility, there's a wealth of wonders just waiting to well up for your disposal."
  14: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=13628*)
+ 15: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=13629*)
     → "Spread your wings as wide as you wish without worrying about the consequences, kupo. The Green Thumb Moogle will handle the husbandry of this homestead while you're out hacking at hordes of hellions and cavorting across continents."
  16: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=13629*)
+ 17: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=13630*)
     → "If you're shivering to shove off, then shuffle aboard the Mog Dinghy over there! It may seem small and slightly slipshod, but the mysterious moogle magic we manifest upon it is magnificent enough to move you malms and malms in mere minutes."
  18: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=13630*)
+ 19: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=13631*)
     → "Once you adjust to your Adoulinian asylum, I'll even proffer printed publications that will make your Mog Garden more majestic. Grab your gil and get ready, kupo!"
  20: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x004A [0x01] GOTO 0x0264
  22: 0x004D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0068
- 23: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=13631*)
+ 23: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=13632*)
     → "While it'd be wickedly wonderful to whisk away everyone to Mog Gardens, only "Certified Adventurers" and "pioneers" are allowed entry to these excellent expanses of escape, kupo."
  24: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=13632*)
+ 25: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=13633*)
     → ""Certified Adventurers" are those who have applied themselves assiduously, attaining the third mission rank in any nation."
  26: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=13633*)
+ 27: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=13634*)
     → "It doesn't have to be here as long as you were once appropriately accredited in times antecedent."
  28: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=13634*)
+ 29: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=13635*)
     → "If Adoulin's body politic has properly permitted you to perform pioneering duties, however, your so-called "rank" can be lower than a leech's legs and you'll still be let in, kupo."
  30: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0065 [0x01] GOTO 0x0264
@@ -428,10 +428,10 @@ SUBROUTINE_012D:
 
 SUBROUTINE_014D:
  67: 0x014D [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[1]
- 68: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13619*)
+ 68: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13620*)
     → "We've got staggering stores of the following scholarly scripts and tantalizing tomes, kupo!"
  69: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x0156 [0x24] CREATE_DIALOG(message_id=13620*, default_option=0*, option_flags=Work_Zone_1700[22])
+ 70: 0x0156 [0x24] CREATE_DIALOG(message_id=13621*, default_option=0*, option_flags=Work_Zone_1700[22])
     → "Which book will you buy? [None./3./$3./$3./$3./$3./$3.]"
  71: 0x015D [0x25] WAIT_DIALOG_SELECT()
  72: 0x015E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016E
@@ -476,7 +476,7 @@ SUBROUTINE_014D:
 
 SUBROUTINE_0246:
 111: 0x0246 [0x01] GOTO 0x0252
-112: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=13625*)
+112: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=13626*)
     → "Sorry, but our stocks of such sundries are so scarce we can't sell them."
 113: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x024D [0x03] ExtData[1]->WorkLocal[3] = 1*
@@ -484,7 +484,7 @@ SUBROUTINE_0246:
 SUBROUTINE_0252:
 115: 0x0252 [0x01] GOTO 0x007D
 116: 0x0255 [0x01] GOTO 0x025C
-117: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=13624*)
+117: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=13625*)
     → "Disappointingly, I doubt you've the discernment to descry the details of these documents. Exit then, and expand the extent of your experience."
 118: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -502,10 +502,10 @@ SUBROUTINE_0269:
 125: 0x026E [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[6]
 126: 0x0273 [0x9D] Work_Zone[9] = 0x0327[ExtData[1]->WorkLocal[4]] // Read WORD
 127: 0x027B [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[2]
-128: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=13621*)
+128: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=13622*)
     → "$3, is it, kupo? Interestingly enough, that one is reported to raise the rank of your [furrows/arboreal grove/mineral vein/pond dredger/coastal fishing net/monster rearing skills] to ridiculous reaches...for the small sum of $7 gil."
 129: 0x0283 [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x0284 [0x24] CREATE_DIALOG(message_id=13622*, default_option=0*, option_flags=0*)
+130: 0x0284 [0x24] CREATE_DIALOG(message_id=13623*, default_option=0*, option_flags=0*)
     → "Buy the book? [Yes./No.]"
 131: 0x028B [0x25] WAIT_DIALOG_SELECT()
 132: 0x028C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BB
@@ -516,7 +516,7 @@ SUBROUTINE_0269:
 137: 0x02A2 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
 138: 0x02A7 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
 139: 0x02AC [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x02B8
-140: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13623*)
+140: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13624*)
     → "Trading tender for treasures...isn't shopping sublime, kupo?"
 141: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x02B8 [0x01] GOTO 0x02C6

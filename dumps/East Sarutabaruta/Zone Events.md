@@ -103,12 +103,12 @@
 |      53 | 0xFFFFEFC6  |  4294963142 |
 |      54 | 0x0827      |        2087 |
 |      55 | 0x0005      |           5 |
-|      56 | 0x1E27      |        7719 |
+|      56 | 0x1E28      |        7720 |
 |      57 | 0x001E      |          30 |
-|      58 | 0x1E28      |        7720 |
-|      59 | 0x1E29      |        7721 |
-|      60 | 0x1E2D      |        7725 |
-|      61 | 0x1E2A      |        7722 |
+|      58 | 0x1E29      |        7721 |
+|      59 | 0x1E2A      |        7722 |
+|      60 | 0x1E2E      |        7726 |
+|      61 | 0x1E2B      |        7723 |
 |      62 | 0x00C9      |         201 |
 |      63 | 0x000A      |          10 |
 |      64 | 0xFFFE57C8  |  4294858696 |
@@ -714,11 +714,11 @@
  16: 0x0131 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x0142 [0x4A] Orlaine (ID: 17253073/0x010742D1) looks at LocalPlayer
  18: 0x014B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x015C [0x2B] Orlaine (ID: 17253073/0x010742D1) [7719*]:
+ 19: 0x015C [0x2B] Orlaine (ID: 17253073/0x010742D1) [7720*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0164 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Orlaine (ID: 17253073/0x010742D1), Orlaine (ID: 17253073/0x010742D1)], work=30*
- 22: 0x0173 [0x2B] Orlaine (ID: 17253073/0x010742D1) [7720*]:
+ 22: 0x0173 [0x2B] Orlaine (ID: 17253073/0x010742D1) [7721*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x017B [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x01CD
@@ -730,17 +730,17 @@
  30: 0x01A6 [0x15] Work_Zone[6] /= 60*
  31: 0x01AB [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x01B2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01C5
- 33: 0x01BA [0x2B] Orlaine (ID: 17253073/0x010742D1) [7721*]:
+ 33: 0x01BA [0x2B] Orlaine (ID: 17253073/0x010742D1) [7722*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x01C2 [0x01] GOTO 0x01CD
- 36: 0x01C5 [0x2B] Orlaine (ID: 17253073/0x010742D1) [7725*]:
+ 36: 0x01C5 [0x2B] Orlaine (ID: 17253073/0x010742D1) [7726*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01CD:
  38: 0x01CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Orlaine (ID: 17253073/0x010742D1), Orlaine (ID: 17253073/0x010742D1)], work=30*
- 39: 0x01DC [0x2B] Orlaine (ID: 17253073/0x010742D1) [7722*]:
+ 39: 0x01DC [0x2B] Orlaine (ID: 17253073/0x010742D1) [7723*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x01E4 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=5*

@@ -144,38 +144,38 @@
 |      63 | 0x161D      |        5661 |
 |      64 | 0x161E      |        5662 |
 |      65 | 0x161C      |        5660 |
-|      66 | 0x3052      |       12370 |
-|      67 | 0x3053      |       12371 |
-|      68 | 0x3054      |       12372 |
-|      69 | 0x3055      |       12373 |
-|      70 | 0x3056      |       12374 |
-|      71 | 0x3057      |       12375 |
-|      72 | 0x3059      |       12377 |
-|      73 | 0x305A      |       12378 |
+|      66 | 0x3055      |       12373 |
+|      67 | 0x3056      |       12374 |
+|      68 | 0x3057      |       12375 |
+|      69 | 0x3058      |       12376 |
+|      70 | 0x3059      |       12377 |
+|      71 | 0x305A      |       12378 |
+|      72 | 0x305C      |       12380 |
+|      73 | 0x305D      |       12381 |
 |      74 | 0x03BA      |         954 |
-|      75 | 0x305C      |       12380 |
-|      76 | 0x305D      |       12381 |
-|      77 | 0x305E      |       12382 |
+|      75 | 0x305F      |       12383 |
+|      76 | 0x3060      |       12384 |
+|      77 | 0x3061      |       12385 |
 |      78 | 0x001D      |          29 |
-|      79 | 0x305F      |       12383 |
-|      80 | 0x3060      |       12384 |
-|      81 | 0x3061      |       12385 |
-|      82 | 0x3062      |       12386 |
-|      83 | 0x3063      |       12387 |
-|      84 | 0x3064      |       12388 |
-|      85 | 0x3065      |       12389 |
-|      86 | 0x3066      |       12390 |
-|      87 | 0x3058      |       12376 |
-|      88 | 0x305B      |       12379 |
-|      89 | 0x306A      |       12394 |
-|      90 | 0x306B      |       12395 |
-|      91 | 0x306C      |       12396 |
+|      79 | 0x3062      |       12386 |
+|      80 | 0x3063      |       12387 |
+|      81 | 0x3064      |       12388 |
+|      82 | 0x3065      |       12389 |
+|      83 | 0x3066      |       12390 |
+|      84 | 0x3067      |       12391 |
+|      85 | 0x3068      |       12392 |
+|      86 | 0x3069      |       12393 |
+|      87 | 0x305B      |       12379 |
+|      88 | 0x305E      |       12382 |
+|      89 | 0x306D      |       12397 |
+|      90 | 0x306E      |       12398 |
+|      91 | 0x306F      |       12399 |
 |      92 | 0x0007      |           7 |
-|      93 | 0x306D      |       12397 |
-|      94 | 0x306E      |       12398 |
-|      95 | 0x306F      |       12399 |
+|      93 | 0x3070      |       12400 |
+|      94 | 0x3071      |       12401 |
+|      95 | 0x3072      |       12402 |
 |      96 | 0x0078      |         120 |
-|      97 | 0x3070      |       12400 |
+|      97 | 0x3073      |       12403 |
 
 ## String References
 
@@ -225,14 +225,14 @@
 - **8792**: Make sure you bring eet to heem while eet's still warm.
 - **8793**: Zat should get our chocobo friend back on his feet again!
 - **8794**: Make sure you serve it to heem while eet's still warm.
-- **12382**: The dish's presentation is difficult to put into words...
-- **12394**: Ze what? You are looking to buy a new stewpot, you zay?
-- **12395**: Mon dieu! Zat ees one hole tres gigantique!
-- **12396**: But zere ees no need for panique! Mais non! Ze ezteemed Ranpi-Monpi will feex it up for you, good as nouveau!
-- **12397**: Zat will zave you beaucoup gil, certainmentaru! Hohoho!
-- **12398**: Ze only thing I weel be needing ees une bouteille de pate Sieglinde. Oui, $0, I said. Ees your oreilles ze stuffed with ze popotoes!?
-- **12399**: Splendide! Magnifique! Now, eef you just attendez un momentaru, I shall feex eet up for you, good as nouveau!
-- **12400**: Voila! Ees she not ze toute beaute? Treat her well, and au revoir!
+- **12385**: The dish's presentation is difficult to put into words...
+- **12397**: Ze what? You are looking to buy a new stewpot, you zay?
+- **12398**: Mon dieu! Zat ees one hole tres gigantique!
+- **12399**: But zere ees no need for panique! Mais non! Ze ezteemed Ranpi-Monpi will feex it up for you, good as nouveau!
+- **12400**: Zat will zave you beaucoup gil, certainmentaru! Hohoho!
+- **12401**: Ze only thing I weel be needing ees une bouteille de pate Sieglinde. Oui, $0, I said. Ees your oreilles ze stuffed with ze popotoes!?
+- **12402**: Splendide! Magnifique! Now, eef you just attendez un momentaru, I shall feex eet up for you, good as nouveau!
+- **12403**: Voila! Ees she not ze toute beaute? Treat her well, and au revoir!
 
 ## Events
 
@@ -1838,29 +1838,29 @@ SUBROUTINE_038A:
  18: 0x0595 [0x03] Work_Zone[4] = 5662*
  19: 0x059A [0x03] Work_Zone[5] = 5660*
  20: 0x059F [0x1E] EventEntity looks at LocalPlayer and starts talking
- 21: 0x05A4 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12370*]:
+ 21: 0x05A4 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12373*]:
     → "Ooo, come een, come een. Vous have come to cook, non?"
  22: 0x05AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x05AC [0x52] END_LOAD_SCHEDULER: End scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=368*
  24: 0x05BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  25: 0x05CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 26: 0x05DB [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12371*]:
+ 26: 0x05DB [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12374*]:
     → "What's zat? Do I know of any unique and extraordinarily new delectable foods?"
  27: 0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x05E3 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12372*]:
+ 28: 0x05E3 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12375*]:
     → "Vous know, I may be zee only chef in Vana'diel with zee verve and zee vision to make such an innovative and unorzodox deesh."
  29: 0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x05EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 31: 0x05FA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12373*]:
+ 31: 0x05FA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12376*]:
     → "And I will prepare such a deesh, just pour vous. But, eet will require some rare ingredients zat vous must bring moi. C'est bien, non?"
  32: 0x0601 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0602 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=368*
  34: 0x0611 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  35: 0x0622 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 36: 0x0631 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12374*]:
+ 36: 0x0631 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12377*]:
     → "Hmmm, I shall need $0 and $1... Ah yes, and also $2 and $3."
  37: 0x0638 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0639 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12375*]:
+ 38: 0x0639 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12378*]:
     → "Bring zese ingredients to moi once vous have zem all, and voila! I shall turn zem into an absolute culinary masterpiece."
  39: 0x0640 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0641 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1926,10 +1926,10 @@ SUBROUTINE_038A:
  15: 0x070C [0x1E] EventEntity looks at LocalPlayer and starts talking
  16: 0x0711 [0x1C] WAIT(60* ticks)
  17: 0x0714 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 18: 0x0723 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12377*]:
+ 18: 0x0723 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12380*]:
     → "Hm? Vous have brought all of zee ingredients? Magnifique!"
  19: 0x072A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x072B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12378*]:
+ 20: 0x072B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12381*]:
     → "I will begin preparing zee deesh right away! Give me just a little bit of time, pleeze. Vous cannot rush art, mon ami."
  21: 0x0732 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0733 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2000,21 +2000,21 @@ SUBROUTINE_038A:
  16: 0x0803 [0x1C] WAIT(60* ticks)
  17: 0x0806 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
  18: 0x0815 [0x03] Work_Zone[2] = 954*
- 19: 0x081A [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12380*]:
+ 19: 0x081A [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12383*]:
     → "Ooo, zere vous are! I have been waiting pour vous. Zis is zee special deesh which you requested, $6! Bon appetit!"
  20: 0x0821 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0822 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12381*]:
+ 21: 0x0822 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12384*]:
     → "Zis is a classic recipe I have not used in years. I may have forgotten some of zee finer points, but zee taste alone I still remember."
  22: 0x0829 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x082A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  24: 0x0839 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=368*
  25: 0x0848 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
- 26: 0x0859 [0x48] [System] [12382*]:
+ 26: 0x0859 [0x48] [System] [12385*]:
     → "The dish's presentation is difficult to put into words..."
  27: 0x085C [0x1C] WAIT(60* ticks)
  28: 0x085F [0x6E] EventEntity uses emote 29*
  29: 0x0866 [0x99] Wait for EventEntity animation to complete
- 30: 0x086B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12383*]:
+ 30: 0x086B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12386*]:
     → "Eet may not be zee most beautiful deesh, but zat eez no matter! I gladly stake my reputation on eets taste!"
  31: 0x0872 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0873 [0x1C] WAIT(60* ticks)
@@ -2097,25 +2097,25 @@ SUBROUTINE_038A:
  15: 0x092F [0x1E] EventEntity looks at LocalPlayer and starts talking
  16: 0x0934 [0x1C] WAIT(60* ticks)
  17: 0x0937 [0x03] Work_Zone[2] = 954*
- 18: 0x093C [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12384*]:
+ 18: 0x093C [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12387*]:
     → "Bonjour! And how was zee $3 I made pour vous? Delicious, non?"
  19: 0x0943 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0944 [0x52] END_LOAD_SCHEDULER: End scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=368*
  21: 0x0953 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  22: 0x0964 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 23: 0x0973 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12385*]:
+ 23: 0x0973 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12388*]:
     → "Eez zat a knife vous have zere? Ooo, zat takes moi back. I use to have a a piece of cutlery just like zat a long time ago."
  24: 0x097A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x097B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12386*]:
+ 25: 0x097B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12389*]:
     → "Back zen I never would have imagined zat zings would turn out like zey have. C'est la vie, non?"
  26: 0x0982 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0983 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
  28: 0x0992 [0x52] END_LOAD_SCHEDULER: End scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=368*
  29: 0x09A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
- 30: 0x09B2 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12387*]:
+ 30: 0x09B2 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12390*]:
     → "But zat knife has no edge. Such a dull blade eez unfit for use! Who has been using zis knife and neglecting eet so?"
  31: 0x09B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x09BA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12388*]:
+ 32: 0x09BA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12391*]:
     → "Wait zere just a moment. I will sharpen eet just pour vous!"
  33: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x09C2 [0x1C] WAIT(60* ticks)
@@ -2127,13 +2127,13 @@ SUBROUTINE_038A:
  40: 0x0A08 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  41: 0x0A19 [0x1C] WAIT(30* ticks)
  42: 0x0A1C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 43: 0x0A2B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12389*]:
+ 43: 0x0A2B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12392*]:
     → "Vous see? Good as new, non?"
  44: 0x0A32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0A33 [0x52] END_LOAD_SCHEDULER: End scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=368*
  46: 0x0A42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  47: 0x0A53 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 48: 0x0A62 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12390*]:
+ 48: 0x0A62 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12393*]:
     → "Cooking eez a form of love. Vous must want to bring happiness to people through zee food. And eet eez important to love zee tools zat vous use. Take good care of zat knife from now on."
  49: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0A6A [0x1C] WAIT(60* ticks)
@@ -2174,7 +2174,7 @@ SUBROUTINE_038A:
   3: 0x0ACF [0x03] Work_Zone[3] = 5661*
   4: 0x0AD4 [0x03] Work_Zone[4] = 5662*
   5: 0x0AD9 [0x03] Work_Zone[5] = 5660*
-  6: 0x0ADE [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12376*]:
+  6: 0x0ADE [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12379*]:
     → "Do not forget zee ingredients! I require $0, $1, $2, and $3."
   7: 0x0AE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0AE6 [0x21] END_EVENT
@@ -2203,7 +2203,7 @@ SUBROUTINE_038A:
 ```
   0: 0x0AE8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0AED [0x1C] WAIT(30* ticks)
-  2: 0x0AF0 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12379*]:
+  2: 0x0AF0 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12382*]:
     → "Non non, vous have returned much too soon. Zese zings take time. Patience eez a virtue!"
   3: 0x0AF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0AF8 [0x21] END_EVENT
@@ -2232,7 +2232,7 @@ SUBROUTINE_038A:
 ```
   0: 0x0AFA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0AFF [0x1C] WAIT(30* ticks)
-  2: 0x0B02 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12383*]:
+  2: 0x0B02 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12386*]:
     → "Eet may not be zee most beautiful deesh, but zat eez no matter! I gladly stake my reputation on eets taste!"
   3: 0x0B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0B0A [0x21] END_EVENT
@@ -2265,21 +2265,21 @@ SUBROUTINE_038A:
   1: 0x0B0D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0B12 [0x1C] WAIT(30* ticks)
   3: 0x0B15 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0B39
-  4: 0x0B1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12394*)
+  4: 0x0B1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12397*)
     → "Ze what? You are looking to buy a new stewpot, you zay?"
   5: 0x0B20 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=12395*)
+  6: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=12398*)
     → "Mon dieu! Zat ees one hole tres gigantique!"
   7: 0x0B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0B25 [0x1D] PRINT_EVENT_MESSAGE(message_id=12396*)
+  8: 0x0B25 [0x1D] PRINT_EVENT_MESSAGE(message_id=12399*)
     → "But zere ees no need for panique! Mais non! Ze ezteemed Ranpi-Monpi will feex it up for you, good as nouveau!"
   9: 0x0B28 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B29 [0x6E] EventEntity uses emote 7*
  11: 0x0B30 [0x99] Wait for EventEntity animation to complete
- 12: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12397*)
+ 12: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12400*)
     → "Zat will zave you beaucoup gil, certainmentaru! Hohoho!"
  13: 0x0B38 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0B39 [0x1D] PRINT_EVENT_MESSAGE(message_id=12398*)
+ 14: 0x0B39 [0x1D] PRINT_EVENT_MESSAGE(message_id=12401*)
     → "Ze only thing I weel be needing ees une bouteille de pate Sieglinde. Oui, $0, I said. Ees your oreilles ze stuffed with ze popotoes!?"
  15: 0x0B3C [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0B3D [0x21] END_EVENT
@@ -2314,7 +2314,7 @@ SUBROUTINE_038A:
   0: 0x0B3F [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0B40 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0B45 [0x1C] WAIT(30* ticks)
-  3: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12399*)
+  3: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12402*)
     → "Splendide! Magnifique! Now, eef you just attendez un momentaru, I shall feex eet up for you, good as nouveau!"
   4: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B4C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2322,7 +2322,7 @@ SUBROUTINE_038A:
   7: 0x0B6C [0x1C] WAIT(120* ticks)
   8: 0x0B6F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x0B80 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
- 10: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12400*)
+ 10: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12403*)
     → "Voila! Ees she not ze toute beaute? Treat her well, and au revoir!"
  11: 0x0B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0B93 [0x21] END_EVENT

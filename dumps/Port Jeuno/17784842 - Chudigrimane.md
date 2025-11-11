@@ -1447,7 +1447,7 @@ SUBROUTINE_007A:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0500:                                            1E AC                ..
+0500:                                            1E AB                ..
 0510: 60 0F 01 6F 70 1C 57 80  1C 07 80 7B F8 FF FF 7F  `..op.W....{....
 0520: 39 58 80 00                                       9X..            
 ```
@@ -1455,7 +1455,7 @@ SUBROUTINE_007A:
 #### Opcodes
 
 ```
-  0: 0x050E [0x1E] EventEntity looks at Mewk Chorosap (ID: 17785004/0x010F60AC) and starts talking
+  0: 0x050E [0x1E] EventEntity looks at Mewk Chorosap (ID: 17785003/0x010F60AB) and starts talking
   1: 0x0513 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0514 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0515 [0x1C] WAIT(240* ticks)

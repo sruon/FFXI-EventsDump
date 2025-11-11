@@ -22,20 +22,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x33BA      |       13242 |
-|       2 | 0x33BB      |       13243 |
+|       1 | 0x33BB      |       13243 |
+|       2 | 0x33BC      |       13244 |
 |       3 | 0x00A5      |         165 |
 |       4 | 0x0078      |         120 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x33BC      |       13244 |
+|       7 | 0x33BD      |       13245 |
 |       8 | 0x0002      |           2 |
 
 ## String References
 
-- **13242**: Vague images of worlds beyond coalesce and diffuse within.
-- **13243**: Enter the light? [Take me now!/Absolutely not!]
-- **13244**: Enter the light? [Take me now!/I'll dive in head first!/Absolutely not!]
+- **13243**: Vague images of worlds beyond coalesce and diffuse within.
+- **13244**: Enter the light? [Take me now!/Absolutely not!]
+- **13245**: Enter the light? [Take me now!/I'll dive in head first!/Absolutely not!]
 
 ## Events
 
@@ -121,12 +121,12 @@
 ```
   0: 0x0008 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0009 [0x03] Work_Zone[1] = 0*
-  2: 0x000E [0x48] [System] [13242*]:
+  2: 0x000E [0x48] [System] [13243*]:
     → "Vague images of worlds beyond coalesce and diffuse within."
   3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0012 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   5: 0x0017 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0072
-  6: 0x001F [0x24] CREATE_DIALOG(message_id=13243*, default_option=0*, option_flags=0*)
+  6: 0x001F [0x24] CREATE_DIALOG(message_id=13244*, default_option=0*, option_flags=0*)
     → "Enter the light? [Take me now!/Absolutely not!]"
   7: 0x0026 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0027 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006F
@@ -141,7 +141,7 @@
 
 SUBROUTINE_006F:
  17: 0x006F [0x01] GOTO 0x010A
- 18: 0x0072 [0x24] CREATE_DIALOG(message_id=13244*, default_option=0*, option_flags=0*)
+ 18: 0x0072 [0x24] CREATE_DIALOG(message_id=13245*, default_option=0*, option_flags=0*)
     → "Enter the light? [Take me now!/I'll dive in head first!/Absolutely not!]"
  19: 0x0079 [0x25] WAIT_DIALOG_SELECT()
  20: 0x007A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C2

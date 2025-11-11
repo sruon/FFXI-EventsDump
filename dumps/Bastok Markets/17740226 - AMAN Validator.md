@@ -21,21 +21,21 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x37DB      |       14299 |
+|       1 | 0x37DE      |       14302 |
 |       2 | 0x0008      |           8 |
 |       3 | 0x0003      |           3 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x03C0      |         960 |
-|       6 | 0x37DC      |       14300 |
+|       6 | 0x37DF      |       14303 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x0004      |           4 |
-|       9 | 0x37F0      |       14320 |
+|       9 | 0x37F3      |       14323 |
 |      10 | 0x0019      |          25 |
-|      11 | 0x37F1      |       14321 |
+|      11 | 0x37F4      |       14324 |
 |      12 | 0x0031      |          49 |
-|      13 | 0x37F2      |       14322 |
+|      13 | 0x37F5      |       14325 |
 |      14 | 0x0049      |          73 |
-|      15 | 0x37F3      |       14323 |
+|      15 | 0x37F6      |       14326 |
 |      16 | 0x0018      |          24 |
 |      17 | 0x0061      |          97 |
 |      18 | 0x0010      |          16 |
@@ -50,18 +50,18 @@
 |      27 | 0x001E      |          30 |
 |      28 | 0x40000000  |  1073741824 |
 |      29 | 0xFFFF      |       65535 |
-|      30 | 0x37EF      |       14319 |
-|      31 | 0x37E5      |       14309 |
-|      32 | 0x37E4      |       14308 |
-|      33 | 0x37E3      |       14307 |
-|      34 | 0x37E6      |       14310 |
+|      30 | 0x37F2      |       14322 |
+|      31 | 0x37E8      |       14312 |
+|      32 | 0x37E7      |       14311 |
+|      33 | 0x37E6      |       14310 |
+|      34 | 0x37E9      |       14313 |
 |      35 | 0x001F      |          31 |
-|      36 | 0x37E7      |       14311 |
-|      37 | 0x37F7      |       14327 |
-|      38 | 0x37F8      |       14328 |
+|      36 | 0x37EA      |       14314 |
+|      37 | 0x37FA      |       14330 |
+|      38 | 0x37FB      |       14331 |
 |      39 | 0x00A0      |         160 |
 |      40 | 0x0011      |          17 |
-|      41 | 0x37F9      |       14329 |
+|      41 | 0x37FC      |       14332 |
 |      42 | 0x0140      |         320 |
 |      43 | 0x0021      |          33 |
 |      44 | 0x0007      |           7 |
@@ -73,15 +73,15 @@
 |      50 | 0x0020      |          32 |
 |      51 | 0x0028      |          40 |
 |      52 | 0x0096      |         150 |
-|      53 | 0x37FA      |       14330 |
-|      54 | 0x37FC      |       14332 |
-|      55 | 0x37FD      |       14333 |
-|      56 | 0x37FE      |       14334 |
-|      57 | 0x37FF      |       14335 |
-|      58 | 0x37FB      |       14331 |
+|      53 | 0x37FD      |       14333 |
+|      54 | 0x37FF      |       14335 |
+|      55 | 0x3800      |       14336 |
+|      56 | 0x3801      |       14337 |
+|      57 | 0x3802      |       14338 |
+|      58 | 0x37FE      |       14334 |
 |      59 | 0x0015      |          21 |
 |      60 | 0x0016      |          22 |
-|      61 | 0x37E1      |       14305 |
+|      61 | 0x37E4      |       14308 |
 |      62 | 0x0005      |           5 |
 |      63 | 0x0006      |           6 |
 |      64 | 0x0009      |           9 |
@@ -90,16 +90,16 @@
 |      67 | 0x002C      |          44 |
 |      68 | 0x000D      |          13 |
 |      69 | 0x000E      |          14 |
-|      70 | 0x37E2      |       14306 |
-|      71 | 0x37E8      |       14312 |
-|      72 | 0x37E9      |       14313 |
+|      70 | 0x37E5      |       14309 |
+|      71 | 0x37EB      |       14315 |
+|      72 | 0x37EC      |       14316 |
 |      73 | 0x0073      |         115 |
-|      74 | 0x37EA      |       14314 |
-|      75 | 0x37EB      |       14315 |
-|      76 | 0x37EE      |       14318 |
-|      77 | 0x37EC      |       14316 |
-|      78 | 0x37ED      |       14317 |
-|      79 | 0x37F4      |       14324 |
+|      74 | 0x37ED      |       14317 |
+|      75 | 0x37EE      |       14318 |
+|      76 | 0x37F1      |       14321 |
+|      77 | 0x37EF      |       14319 |
+|      78 | 0x37F0      |       14320 |
+|      79 | 0x37F7      |       14327 |
 |      80 | 0x003C      |          60 |
 |      81 | 0x0046      |          70 |
 |      82 | 0x0050      |          80 |
@@ -114,14 +114,14 @@
 |      91 | 0x00BE      |         190 |
 |      92 | 0x00C8      |         200 |
 |      93 | 0x00D2      |         210 |
-|      94 | 0x37F5      |       14325 |
+|      94 | 0x37F8      |       14328 |
 |      95 | 0x00DC      |         220 |
 |      96 | 0x4302      |       17154 |
-|      97 | 0x37F6      |       14326 |
-|      98 | 0x37DD      |       14301 |
-|      99 | 0x37DE      |       14302 |
-|     100 | 0x37DF      |       14303 |
-|     101 | 0x37E0      |       14304 |
+|      97 | 0x37F9      |       14329 |
+|      98 | 0x37E0      |       14304 |
+|      99 | 0x37E1      |       14305 |
+|     100 | 0x37E2      |       14306 |
+|     101 | 0x37E3      |       14307 |
 |     102 | 0x2207      |        8711 |
 |     103 | 0x4B2E      |       19246 |
 |     104 | 0x6F35      |       28469 |
@@ -1401,35 +1401,35 @@
 
 ## String References
 
-- **14299**: Welcome to the Deeds of Heroism rewards exchange service!
-- **14300**: What would you like to do? [Claim a reward (~960 deeds)./Claim a reward (970+ deeds)./Use an A.M.A.N. voucher./Receive a $20305./What are Deeds of Heroism?/Leave.]
-- **14301**: Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence.
-- **14302**: Once you have accumulated a certain number of Deeds, you can exchange them for various items.
-- **14303**: Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds.
-- **14304**: There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!
-- **14305**: Do you want to use an A.M.A.N. voucher? [$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./What are A.M.A.N. vouchers?/Go back./Leave.]
-- **14306**: If you have an A.M.A.N. voucher for an item such as a $0, you can use it to choose from a list of corresponding items.
-- **14307**: Do you want the $37?
-- **14308**: Do you want $& $0% ?
-- **14309**: Do you want the $3?
-- **14310**: Are you sure you want to proceed? [Yes./No.]
-- **14311**: You do not possess enough Deeds of Heroism to receive this item.
-- **14312**: Exchange for what? [Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Go back./Leave.]
-- **14313**: You will receive the following items in the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] set.
-- **14314**: $36.
-- **14315**: Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]
-- **14317**: Are you sure you want the $37? [Yes./No.]
-- **14318**: Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?
-- **14319**: You have already exchanged for this item.
-- **14324**: Exchange for what? [Argosy Armor./Hesychast's Attire/Piety Attire./Archmage's Attire/Vitiation Attire./Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Armor./Futhark Attire./Go back./Leave.]
-- **14325**: You will receive the following items in the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set.
-- **14326**: Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]
-- **14330**: Resetting rewards will increase the number of deeds required but will let you reobtain items you have previously received.
-- **14331**: You are able to reset your rewards for $0 deed[/s].
-- **14332**: Reset rewards? [Yes. (Reset #$0)/No.]
-- **14333**: You have not yet received some rewards. Resetting means that you will be unable to obtain them. Are you sure?
-- **14334**: Really reset rewards? [Yes. (Reset #$0)/No.]
-- **14335**: Rewards have been reset.
+- **14302**: Welcome to the Deeds of Heroism rewards exchange service!
+- **14303**: What would you like to do? [Claim a reward (~960 deeds)./Claim a reward (970+ deeds)./Use an A.M.A.N. voucher./Receive a $20305./What are Deeds of Heroism?/Leave.]
+- **14304**: Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence.
+- **14305**: Once you have accumulated a certain number of Deeds, you can exchange them for various items.
+- **14306**: Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds.
+- **14307**: There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!
+- **14308**: Do you want to use an A.M.A.N. voucher? [$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./What are A.M.A.N. vouchers?/Go back./Leave.]
+- **14309**: If you have an A.M.A.N. voucher for an item such as a $0, you can use it to choose from a list of corresponding items.
+- **14310**: Do you want the $37?
+- **14311**: Do you want $& $0% ?
+- **14312**: Do you want the $3?
+- **14313**: Are you sure you want to proceed? [Yes./No.]
+- **14314**: You do not possess enough Deeds of Heroism to receive this item.
+- **14315**: Exchange for what? [Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Go back./Leave.]
+- **14316**: You will receive the following items in the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] set.
+- **14317**: $36.
+- **14318**: Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]
+- **14320**: Are you sure you want the $37? [Yes./No.]
+- **14321**: Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?
+- **14322**: You have already exchanged for this item.
+- **14327**: Exchange for what? [Argosy Armor./Hesychast's Attire/Piety Attire./Archmage's Attire/Vitiation Attire./Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Armor./Futhark Attire./Go back./Leave.]
+- **14328**: You will receive the following items in the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set.
+- **14329**: Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]
+- **14333**: Resetting rewards will increase the number of deeds required but will let you reobtain items you have previously received.
+- **14334**: You are able to reset your rewards for $0 deed[/s].
+- **14335**: Reset rewards? [Yes. (Reset #$0)/No.]
+- **14336**: You have not yet received some rewards. Resetting means that you will be unable to obtain them. Are you sure?
+- **14337**: Really reset rewards? [Yes. (Reset #$0)/No.]
+- **14338**: Rewards have been reset.
 
 ## Events
 
@@ -2162,7 +2162,7 @@
   4: 0x0019 [0x1A] CALL_SUBROUTINE(address=0x196C)
   5: 0x001C [0x03] ExtData[1]->WorkLocal[36] = 0*
   6: 0x0021 [0x03] ExtData[1]->WorkLocal[33] = 0*
-  7: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=14299*)
+  7: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=14302*)
     → "Welcome to the Deeds of Heroism rewards exchange service!"
   8: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002A [0x03] ExtData[1]->WorkLocal[34] = 8*
@@ -2172,7 +2172,7 @@
  13: 0x0045 [0x03] ExtData[1]->WorkLocal[33] = 1*
  14: 0x004A [0x05] ExtData[1]->WorkLocal[32] = 1
  15: 0x004D [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x00C0
- 16: 0x0055 [0x24] CREATE_DIALOG(message_id=14300*, default_option=ExtData[1]->WorkLocal[33], option_flags=ExtData[1]->WorkLocal[34])
+ 16: 0x0055 [0x24] CREATE_DIALOG(message_id=14303*, default_option=ExtData[1]->WorkLocal[33], option_flags=ExtData[1]->WorkLocal[34])
     → "What would you like to do? [Claim a reward (~960 deeds)./Claim a reward (970+ deeds)./Use an A.M.A.N. voucher./Receive a $20305./What are Deeds of Heroism?/Leave.]"
  17: 0x005C [0x25] WAIT_DIALOG_SELECT()
  18: 0x005D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0070
@@ -2198,22 +2198,22 @@ SUBROUTINE_00CA:
  32: 0x00CA [0x02] IF !(ExtData[1]->WorkLocal[35] == 0*) GOTO 0x0135
  33: 0x00D2 [0x02] IF !(ExtData[1]->WorkLocal[36] == 0*) GOTO 0x00EA
  34: 0x00DA [0x03] ExtData[1]->WorkLocal[41] = 1*
- 35: 0x00DF [0x03] ExtData[1]->WorkLocal[15] = 14320*
+ 35: 0x00DF [0x03] ExtData[1]->WorkLocal[15] = 14323*
  36: 0x00E4 [0x1A] CALL_SUBROUTINE(address=0x0136)
  37: 0x00E7 [0x01] GOTO 0x0132
  38: 0x00EA [0x02] IF !(ExtData[1]->WorkLocal[36] == 1*) GOTO 0x0102
  39: 0x00F2 [0x03] ExtData[1]->WorkLocal[41] = 25*
- 40: 0x00F7 [0x03] ExtData[1]->WorkLocal[15] = 14321*
+ 40: 0x00F7 [0x03] ExtData[1]->WorkLocal[15] = 14324*
  41: 0x00FC [0x1A] CALL_SUBROUTINE(address=0x0136)
  42: 0x00FF [0x01] GOTO 0x0132
  43: 0x0102 [0x02] IF !(ExtData[1]->WorkLocal[36] == 2*) GOTO 0x011A
  44: 0x010A [0x03] ExtData[1]->WorkLocal[41] = 49*
- 45: 0x010F [0x03] ExtData[1]->WorkLocal[15] = 14322*
+ 45: 0x010F [0x03] ExtData[1]->WorkLocal[15] = 14325*
  46: 0x0114 [0x1A] CALL_SUBROUTINE(address=0x0136)
  47: 0x0117 [0x01] GOTO 0x0132
  48: 0x011A [0x02] IF !(ExtData[1]->WorkLocal[36] == 3*) GOTO 0x0132
  49: 0x0122 [0x03] ExtData[1]->WorkLocal[41] = 73*
- 50: 0x0127 [0x03] ExtData[1]->WorkLocal[15] = 14323*
+ 50: 0x0127 [0x03] ExtData[1]->WorkLocal[15] = 14326*
  51: 0x012C [0x1A] CALL_SUBROUTINE(address=0x0136)
  52: 0x012F [0x01] GOTO 0x0132
 
@@ -2281,7 +2281,7 @@ SUBROUTINE_0364:
 105: 0x03BD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[29])
 
 SUBROUTINE_03C0:
-106: 0x03C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14319*)
+106: 0x03C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14322*)
     → "You have already exchanged for this item."
 107: 0x03C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x03C4 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
@@ -2293,7 +2293,7 @@ SUBROUTINE_03C0:
 114: 0x03EA [0x3E] IF !(Work_Zone_1700[29] bit 16*) GOTO 0x0405
 115: 0x03F1 [0x0D] Work_Zone_1700[29] &= 65535*
 116: 0x03F6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=Work_Zone_1700[29])
-117: 0x03FA [0x1D] PRINT_EVENT_MESSAGE(message_id=14309*)
+117: 0x03FA [0x1D] PRINT_EVENT_MESSAGE(message_id=14312*)
     → "Do you want the $3?"
 118: 0x03FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x03FE [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
@@ -2301,11 +2301,11 @@ SUBROUTINE_03C0:
 121: 0x0405 [0x9D] IF (0x1CD6) ExtData[1]->WorkLocal[42] = Work_Zone_1700[30] // extra=0x8011
 122: 0x040F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[29])
 123: 0x0412 [0x02] IF !(Work_Zone_1700[30] <= 1*) GOTO 0x0421
-124: 0x041A [0x1D] PRINT_EVENT_MESSAGE(message_id=14308*)
+124: 0x041A [0x1D] PRINT_EVENT_MESSAGE(message_id=14311*)
     → "Do you want $& $0% ?"
 125: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x041E [0x01] GOTO 0x0425
-127: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=14307*)
+127: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=14310*)
     → "Do you want the $37?"
 128: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2313,7 +2313,7 @@ SUBROUTINE_0425:
 129: 0x0425 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 
 SUBROUTINE_0428:
-130: 0x0428 [0x24] CREATE_DIALOG(message_id=14310*, default_option=1*, option_flags=0*)
+130: 0x0428 [0x24] CREATE_DIALOG(message_id=14313*, default_option=1*, option_flags=0*)
     → "Are you sure you want to proceed? [Yes./No.]"
 131: 0x042F [0x25] WAIT_DIALOG_SELECT()
 132: 0x0430 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04A8
@@ -2358,7 +2358,7 @@ SUBROUTINE_04A8:
 163: 0x04BE [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[29])
 
 SUBROUTINE_04C1:
-164: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14311*)
+164: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14314*)
     → "You do not possess enough Deeds of Heroism to receive this item."
 165: 0x04C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x04C5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
@@ -2374,19 +2374,19 @@ SUBROUTINE_04D0:
 SUBROUTINE_04D3:
 171: 0x04D3 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x0535
 172: 0x04DB [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x04F8
-173: 0x04E3 [0x03] ExtData[1]->WorkLocal[15] = 14327*
+173: 0x04E3 [0x03] ExtData[1]->WorkLocal[15] = 14330*
 174: 0x04E8 [0x03] ExtData[1]->WorkLocal[45] = 0*
 175: 0x04ED [0x03] ExtData[1]->WorkLocal[49] = 1*
 176: 0x04F2 [0x1A] CALL_SUBROUTINE(address=0x0536)
 177: 0x04F5 [0x01] GOTO 0x0532
 178: 0x04F8 [0x02] IF !(ExtData[1]->WorkLocal[44] == 1*) GOTO 0x0515
-179: 0x0500 [0x03] ExtData[1]->WorkLocal[15] = 14328*
+179: 0x0500 [0x03] ExtData[1]->WorkLocal[15] = 14331*
 180: 0x0505 [0x03] ExtData[1]->WorkLocal[45] = 160*
 181: 0x050A [0x03] ExtData[1]->WorkLocal[49] = 17*
 182: 0x050F [0x1A] CALL_SUBROUTINE(address=0x0536)
 183: 0x0512 [0x01] GOTO 0x0532
 184: 0x0515 [0x02] IF !(ExtData[1]->WorkLocal[44] == 2*) GOTO 0x0532
-185: 0x051D [0x03] ExtData[1]->WorkLocal[15] = 14329*
+185: 0x051D [0x03] ExtData[1]->WorkLocal[15] = 14332*
 186: 0x0522 [0x03] ExtData[1]->WorkLocal[45] = 320*
 187: 0x0527 [0x03] ExtData[1]->WorkLocal[49] = 33*
 188: 0x052C [0x1A] CALL_SUBROUTINE(address=0x0536)
@@ -2519,7 +2519,7 @@ SUBROUTINE_0819:
 297: 0x082F [0x1A] CALL_SUBROUTINE(address=0x196C)
 298: 0x0832 [0x3E] IF !(Work_Zone[9] bit 31*) GOTO 0x083C
 299: 0x0839 [0x01] GOTO 0x0840
-300: 0x083C [0x1D] PRINT_EVENT_MESSAGE(message_id=14335*)
+300: 0x083C [0x1D] PRINT_EVENT_MESSAGE(message_id=14338*)
     → "Rewards have been reset."
 301: 0x083F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2556,7 +2556,7 @@ SUBROUTINE_0898:
 325: 0x08F1 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[29])
 
 SUBROUTINE_08F4:
-326: 0x08F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14319*)
+326: 0x08F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14322*)
     → "You have already exchanged for this item."
 327: 0x08F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x08F8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
@@ -2570,7 +2570,7 @@ SUBROUTINE_08F4:
 336: 0x0923 [0x3E] IF !(Work_Zone_1700[29] bit 16*) GOTO 0x093E
 337: 0x092A [0x0D] Work_Zone_1700[29] &= 65535*
 338: 0x092F [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=Work_Zone_1700[29])
-339: 0x0933 [0x1D] PRINT_EVENT_MESSAGE(message_id=14309*)
+339: 0x0933 [0x1D] PRINT_EVENT_MESSAGE(message_id=14312*)
     → "Do you want the $3?"
 340: 0x0936 [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x0937 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
@@ -2578,11 +2578,11 @@ SUBROUTINE_08F4:
 343: 0x093E [0x9D] IF (0x1EE6) ExtData[1]->WorkLocal[42] = Work_Zone_1700[30] // extra=0x8011
 344: 0x0948 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[29])
 345: 0x094B [0x02] IF !(Work_Zone_1700[30] <= 1*) GOTO 0x095A
-346: 0x0953 [0x1D] PRINT_EVENT_MESSAGE(message_id=14308*)
+346: 0x0953 [0x1D] PRINT_EVENT_MESSAGE(message_id=14311*)
     → "Do you want $& $0% ?"
 347: 0x0956 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x0957 [0x01] GOTO 0x095E
-349: 0x095A [0x1D] PRINT_EVENT_MESSAGE(message_id=14307*)
+349: 0x095A [0x1D] PRINT_EVENT_MESSAGE(message_id=14310*)
     → "Do you want the $37?"
 350: 0x095D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2590,7 +2590,7 @@ SUBROUTINE_095E:
 351: 0x095E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 
 SUBROUTINE_0961:
-352: 0x0961 [0x24] CREATE_DIALOG(message_id=14310*, default_option=1*, option_flags=0*)
+352: 0x0961 [0x24] CREATE_DIALOG(message_id=14313*, default_option=1*, option_flags=0*)
     → "Are you sure you want to proceed? [Yes./No.]"
 353: 0x0968 [0x25] WAIT_DIALOG_SELECT()
 354: 0x0969 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09E1
@@ -2635,7 +2635,7 @@ SUBROUTINE_09E1:
 385: 0x09F7 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[29])
 
 SUBROUTINE_09FA:
-386: 0x09FA [0x1D] PRINT_EVENT_MESSAGE(message_id=14311*)
+386: 0x09FA [0x1D] PRINT_EVENT_MESSAGE(message_id=14314*)
     → "You do not possess enough Deeds of Heroism to receive this item."
 387: 0x09FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 388: 0x09FE [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
@@ -2646,16 +2646,16 @@ SUBROUTINE_0A05:
 391: 0x0A08 [0x1B] RETURN
 
 SUBROUTINE_195B:
-392: 0x195B [0x1D] PRINT_EVENT_MESSAGE(message_id=14301*)
+392: 0x195B [0x1D] PRINT_EVENT_MESSAGE(message_id=14304*)
     → "Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence."
 393: 0x195E [0x23] WAIT_FOR_DIALOG_INTERACTION
-394: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=14302*)
+394: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=14305*)
     → "Once you have accumulated a certain number of Deeds, you can exchange them for various items."
 395: 0x1962 [0x23] WAIT_FOR_DIALOG_INTERACTION
-396: 0x1963 [0x1D] PRINT_EVENT_MESSAGE(message_id=14303*)
+396: 0x1963 [0x1D] PRINT_EVENT_MESSAGE(message_id=14306*)
     → "Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds."
 397: 0x1966 [0x23] WAIT_FOR_DIALOG_INTERACTION
-398: 0x1967 [0x1D] PRINT_EVENT_MESSAGE(message_id=14304*)
+398: 0x1967 [0x1D] PRINT_EVENT_MESSAGE(message_id=14307*)
     → "There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!"
 399: 0x196A [0x23] WAIT_FOR_DIALOG_INTERACTION
 400: 0x196B [0x1B] RETURN
@@ -2842,7 +2842,7 @@ SUBROUTINE_1B89:
      0x0A30 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[52], bit_index_work_offset=ExtData[1]->WorkLocal[3], condition_work_offset=1*)
      0x0A37 [0x0B] ExtData[1]->WorkLocal[3]++
      0x0A3A [0x01] GOTO 0x0A1E
-     0x0A3D [0x24] CREATE_DIALOG(message_id=14305*, default_option=ExtData[1]->WorkLocal[53], option_flags=ExtData[1]->WorkLocal[52])
+     0x0A3D [0x24] CREATE_DIALOG(message_id=14308*, default_option=ExtData[1]->WorkLocal[53], option_flags=ExtData[1]->WorkLocal[52])
     → "Do you want to use an A.M.A.N. voucher? [$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./What are A.M.A.N. vouchers?/Go back./Leave.]"
      0x0A44 [0x25] WAIT_DIALOG_SELECT()
      0x0A45 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A5D
@@ -3007,7 +3007,7 @@ SUBROUTINE_1B89:
      0x0DA6 [0x01] GOTO 0x0DEB
      0x0DA9 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x0DBD
      0x0DB1 [0x03] ExtData[1]->WorkLocal[53] = 22*
-     0x0DB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14306*)
+     0x0DB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14309*)
     → "If you have an A.M.A.N. voucher for an item such as a $0, you can use it to choose from a list of corresponding items."
      0x0DB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DBA [0x01] GOTO 0x0DEB
@@ -3030,7 +3030,7 @@ SUBROUTINE_1B89:
      0x0E06 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[55], bit_index_work_offset=19*, condition_work_offset=1*)
      0x0E0D [0x05] ExtData[1]->WorkLocal[54] = 1
      0x0E10 [0x02] IF !(ExtData[1]->WorkLocal[54] == 0*) GOTO 0x1094
-     0x0E18 [0x24] CREATE_DIALOG(message_id=14312*, default_option=ExtData[1]->WorkLocal[56], option_flags=ExtData[1]->WorkLocal[55])
+     0x0E18 [0x24] CREATE_DIALOG(message_id=14315*, default_option=ExtData[1]->WorkLocal[56], option_flags=ExtData[1]->WorkLocal[55])
     → "Exchange for what? [Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Go back./Leave.]"
      0x0E1F [0x25] WAIT_DIALOG_SELECT()
      0x0E20 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E30
@@ -3113,7 +3113,7 @@ SUBROUTINE_1B89:
      0x0FB5 [0x06] ExtData[1]->WorkLocal[32] = 0
      0x0FB8 [0x06] ExtData[1]->WorkLocal[51] = 0
      0x0FBB [0x02] IF !(Work_Zone_1700[31] == 4294967295*) GOTO 0x1091
-     0x0FC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14313*)
+     0x0FC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14316*)
     → "You will receive the following items in the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] set."
      0x0FC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FC7 [0x03] ExtData[1]->WorkLocal[56] = Work_Zone[0]
@@ -3121,42 +3121,42 @@ SUBROUTINE_1B89:
      0x0FD1 [0x14] ExtData[1]->WorkLocal[16] *= 5*
      0x0FD6 [0x9D] IF (0x1F86) ExtData[1]->WorkLocal[16] = Work_Zone_1700[28] // extra=0x8049
      0x0FE0 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[28])
-     0x0FE3 [0x48] [System] [14314*]:
+     0x0FE3 [0x48] [System] [14317*]:
     → "$36."
      0x0FE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FE7 [0x0B] ExtData[1]->WorkLocal[16]++
      0x0FEA [0x9D] IF (0x1F86) ExtData[1]->WorkLocal[16] = Work_Zone_1700[28] // extra=0x8049
      0x0FF4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[28])
-     0x0FF7 [0x48] [System] [14314*]:
+     0x0FF7 [0x48] [System] [14317*]:
     → "$36."
      0x0FFA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FFB [0x0B] ExtData[1]->WorkLocal[16]++
      0x0FFE [0x9D] IF (0x1F86) ExtData[1]->WorkLocal[16] = Work_Zone_1700[28] // extra=0x8049
      0x1008 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[28])
-     0x100B [0x48] [System] [14314*]:
+     0x100B [0x48] [System] [14317*]:
     → "$36."
      0x100E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x100F [0x0B] ExtData[1]->WorkLocal[16]++
      0x1012 [0x9D] IF (0x1F86) ExtData[1]->WorkLocal[16] = Work_Zone_1700[28] // extra=0x8049
      0x101C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[28])
-     0x101F [0x48] [System] [14314*]:
+     0x101F [0x48] [System] [14317*]:
     → "$36."
      0x1022 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1023 [0x0B] ExtData[1]->WorkLocal[16]++
      0x1026 [0x9D] IF (0x1F86) ExtData[1]->WorkLocal[16] = Work_Zone_1700[28] // extra=0x8049
      0x1030 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[28])
-     0x1033 [0x48] [System] [14314*]:
+     0x1033 [0x48] [System] [14317*]:
     → "$36."
      0x1036 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1037 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x103A [0x24] CREATE_DIALOG(message_id=14315*, default_option=1*, option_flags=0*)
+     0x103A [0x24] CREATE_DIALOG(message_id=14318*, default_option=1*, option_flags=0*)
     → "Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]"
      0x1041 [0x25] WAIT_DIALOG_SELECT()
      0x1042 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1091
-     0x104A [0x1D] PRINT_EVENT_MESSAGE(message_id=14318*)
+     0x104A [0x1D] PRINT_EVENT_MESSAGE(message_id=14321*)
     → "Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?"
      0x104D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x104E [0x24] CREATE_DIALOG(message_id=14315*, default_option=1*, option_flags=0*)
+     0x104E [0x24] CREATE_DIALOG(message_id=14318*, default_option=1*, option_flags=0*)
     → "Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]"
      0x1055 [0x25] WAIT_DIALOG_SELECT()
      0x1056 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x108E
@@ -3270,18 +3270,18 @@ SUBROUTINE_1B89:
      0x130A [0x03] ExtData[1]->WorkLocal[59] = Work_Zone[0]
      0x130F [0x9D] ExtData[1]->WorkLocal[59] = Work_Zone[0][Work_Zone_1700[29]] // Via remapped space
      0x1317 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[29])
-     0x131A [0x1D] PRINT_EVENT_MESSAGE(message_id=14307*)
+     0x131A [0x1D] PRINT_EVENT_MESSAGE(message_id=14310*)
     → "Do you want the $37?"
      0x131D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x131E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x1321 [0x24] CREATE_DIALOG(message_id=14317*, default_option=1*, option_flags=0*)
+     0x1321 [0x24] CREATE_DIALOG(message_id=14320*, default_option=1*, option_flags=0*)
     → "Are you sure you want the $37? [Yes./No.]"
      0x1328 [0x25] WAIT_DIALOG_SELECT()
      0x1329 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1378
-     0x1331 [0x1D] PRINT_EVENT_MESSAGE(message_id=14318*)
+     0x1331 [0x1D] PRINT_EVENT_MESSAGE(message_id=14321*)
     → "Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?"
      0x1334 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1335 [0x24] CREATE_DIALOG(message_id=14317*, default_option=1*, option_flags=0*)
+     0x1335 [0x24] CREATE_DIALOG(message_id=14320*, default_option=1*, option_flags=0*)
     → "Are you sure you want the $37? [Yes./No.]"
      0x133C [0x25] WAIT_DIALOG_SELECT()
      0x133D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1375
@@ -3303,7 +3303,7 @@ SUBROUTINE_1B89:
      0x137C [0x03] ExtData[1]->WorkLocal[61] = 0*
      0x1381 [0x05] ExtData[1]->WorkLocal[60] = 1
      0x1384 [0x02] IF !(ExtData[1]->WorkLocal[60] == 0*) GOTO 0x164D
-     0x138C [0x24] CREATE_DIALOG(message_id=14324*, default_option=ExtData[1]->WorkLocal[62], option_flags=ExtData[1]->WorkLocal[61])
+     0x138C [0x24] CREATE_DIALOG(message_id=14327*, default_option=ExtData[1]->WorkLocal[62], option_flags=ExtData[1]->WorkLocal[61])
     → "Exchange for what? [Argosy Armor./Hesychast's Attire/Piety Attire./Archmage's Attire/Vitiation Attire./Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Armor./Futhark Attire./Go back./Leave.]"
      0x1393 [0x25] WAIT_DIALOG_SELECT()
      0x1394 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13A9
@@ -3405,7 +3405,7 @@ SUBROUTINE_1B89:
      0x1587 [0x06] ExtData[1]->WorkLocal[32] = 0
      0x158A [0x06] ExtData[1]->WorkLocal[51] = 0
      0x158D [0x02] IF !(Work_Zone_1700[31] == 4294967295*) GOTO 0x164A
-     0x1595 [0x1D] PRINT_EVENT_MESSAGE(message_id=14325*)
+     0x1595 [0x1D] PRINT_EVENT_MESSAGE(message_id=14328*)
     → "You will receive the following items in the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set."
      0x1598 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1599 [0x03] ExtData[1]->WorkLocal[62] = Work_Zone[0]
@@ -3420,20 +3420,20 @@ SUBROUTINE_1B89:
      0x15CF [0x9D] IF (0x2336) ExtData[1]->WorkLocal[29] = ExtData[1]->WorkLocal[28] // extra=0x805F
      0x15D9 [0x0B] ExtData[1]->WorkLocal[29]++
      0x15DC [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone_1700[28], buffer1=17154*, buffer2=ExtData[1]->WorkLocal[27], buffer3=ExtData[1]->WorkLocal[28])
-     0x15E6 [0x48] [System] [14314*]:
+     0x15E6 [0x48] [System] [14317*]:
     → "$36."
      0x15E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15EA [0x0B] ExtData[1]->WorkLocal[3]++
      0x15ED [0x01] GOTO 0x15AD
      0x15F0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x15F3 [0x24] CREATE_DIALOG(message_id=14326*, default_option=1*, option_flags=0*)
+     0x15F3 [0x24] CREATE_DIALOG(message_id=14329*, default_option=1*, option_flags=0*)
     → "Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]"
      0x15FA [0x25] WAIT_DIALOG_SELECT()
      0x15FB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x164A
-     0x1603 [0x1D] PRINT_EVENT_MESSAGE(message_id=14318*)
+     0x1603 [0x1D] PRINT_EVENT_MESSAGE(message_id=14321*)
     → "Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?"
      0x1606 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1607 [0x24] CREATE_DIALOG(message_id=14326*, default_option=1*, option_flags=0*)
+     0x1607 [0x24] CREATE_DIALOG(message_id=14329*, default_option=1*, option_flags=0*)
     → "Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]"
      0x160E [0x25] WAIT_DIALOG_SELECT()
      0x160F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1647
@@ -3553,18 +3553,18 @@ SUBROUTINE_1B89:
      0x18E2 [0x0B] ExtData[1]->WorkLocal[16]++
      0x18E5 [0x9D] Context switch then ExtData[1]->WorkLocal[16] = value // p1=1*, p2=ExtData[1]->WorkLocal[28], p4=0x8043
      0x18EF [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone_1700[29], buffer1=17154*, buffer2=ExtData[1]->WorkLocal[27], buffer3=ExtData[1]->WorkLocal[28])
-     0x18F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14307*)
+     0x18F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14310*)
     → "Do you want the $37?"
      0x18FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18FD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x1900 [0x24] CREATE_DIALOG(message_id=14317*, default_option=1*, option_flags=0*)
+     0x1900 [0x24] CREATE_DIALOG(message_id=14320*, default_option=1*, option_flags=0*)
     → "Are you sure you want the $37? [Yes./No.]"
      0x1907 [0x25] WAIT_DIALOG_SELECT()
      0x1908 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1957
-     0x1910 [0x1D] PRINT_EVENT_MESSAGE(message_id=14318*)
+     0x1910 [0x1D] PRINT_EVENT_MESSAGE(message_id=14321*)
     → "Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?"
      0x1913 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1914 [0x24] CREATE_DIALOG(message_id=14317*, default_option=1*, option_flags=0*)
+     0x1914 [0x24] CREATE_DIALOG(message_id=14320*, default_option=1*, option_flags=0*)
     → "Are you sure you want the $37? [Yes./No.]"
      0x191B [0x25] WAIT_DIALOG_SELECT()
      0x191C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1954

@@ -70,7 +70,7 @@
 - **10355**: You can trade them for incredible items to assist you with your adventures!
 - **10357**: You can trade in these tokens for our gratuitous gifts any time during this campaign!
 - **10358**: Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!
-- **10359**: Up to 1500 points from the current campaign can be carried over to the next one starting with the April 2016 login campaign!
+- **10359**: Up to 700 points from the current campaign can be carried over to the next one starting with the October 2025 login campaign!
 - **10360**: Any additional points will be summarily seized, kupo!
 - **10361**: View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]
 - **10363**: $23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]

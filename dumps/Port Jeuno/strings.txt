@@ -1,5 +1,5 @@
 # Strings for Port Jeuno
-# Total: 9549 strings
+# Total: 9541 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -9542,11 +9542,3 @@
  9538: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
  9539: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
  9540: Start the storyline? [Yes, please./No, thank you.]
- 9541: You found a pumpkin containing $0!
- 9542: You have found a pumpkin with $0 inside!
- 9543: You have found all the pumpkins!
- 9544: You have found seven or more pumpkins!
- 9545: You sense the presence of a pumpkin in this area!
- 9546: You have discovered a pumpkin! Cutting it open, you find $0 inside!
- 9547: This pumpkin has already been claimed.
- 9548: You have discovered five or more pumpkins!

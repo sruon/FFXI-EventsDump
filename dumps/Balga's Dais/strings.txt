@@ -1,5 +1,5 @@
 # Strings for Balga's Dais
-# Total: 7717 strings
+# Total: 7725 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7707,14 +7707,22 @@
  7703: The fantastic feast has finished! I hope you had a hopping-good time, and we want you to wamble your way to the next one!
  7704: [You/Owing to the effects of treasure hunter, you] receive $0 fortune favor[/s] for a total of $1!
  7705: $0<$1.
- 7706: You hear a loud thud, as if a large amount of spoils spontaneously appeared.
- 7707: You hear a thud, as if a large amount of spoils spontaneously appeared.
- 7708: You hear a noise, as if a large amount of spoils spontaneously appeared.
- 7709: You receive $0 gil as a bonus reward!
- 7710: You hear a belligerent bang from one of the remaining treasure chests.
- 7711: Let us see just how capable in battle you truly are.
- 7712: I find your prowess to be most impressive. I shall happily welcome you as a Conflict combatant.
- 7713: I'm Mythril Musketeer Number 5! You're about to see why I'm the best around!
- 7714: You've got the touch, Adventurer! Please, don't tell Ayame that I was bested...
- 7715: How dare you keep-weep the great Kupipi waiting! Hit me with your best shot!
- 7716: You're a real to`ugh cookie. That's okay, see if I care.
+ 7706: You hear an impossible to gauge thud of massive spoils!$0
+ 7707: You hear a loud thud, as if a large amount of spoils spontaneously appeared.$0
+ 7708: You hear a thud, as if a large amount of spoils spontaneously appeared.$0
+ 7709: You hear a noise, as if a large amount of spoils spontaneously appeared.$0
+ 7710: You receive $0 gil as a bonus reward!
+ 7711: You feel like there's an impossible to gauge thud left to be made!
+ 7712: You feel like there's an impossible to gauge thud left to be made.
+ 7713: You feel like there's an impossible to gauge thud left to be made...?
+ 7714: You feel like there's a huge sound left to be made!
+ 7715: You feel like there's a huge sound left to be made.
+ 7716: You feel like there's a huge sound left to be made...?
+ 7717: Looks like your intuition was incorrect.
+ 7718: It's even better than you anticipated!
+ 7719: Let us see just how capable in battle you truly are.
+ 7720: I find your prowess to be most impressive. I shall happily welcome you as a Conflict combatant.
+ 7721: I'm Mythril Musketeer Number 5! You're about to see why I'm the best around!
+ 7722: You've got the touch, Adventurer! Please, don't tell Ayame that I was bested...
+ 7723: How dare you keep-weep the great Kupipi waiting! Hit me with your best shot!
+ 7724: You're a real to`ugh cookie. That's okay, see if I care.

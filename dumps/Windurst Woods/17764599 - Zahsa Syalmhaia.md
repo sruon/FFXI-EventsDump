@@ -22,15 +22,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x336A      |       13162 |
-|       1 | 0x336E      |       13166 |
-|       2 | 0x336F      |       13167 |
+|       0 | 0x336D      |       13165 |
+|       1 | 0x3371      |       13169 |
+|       2 | 0x3372      |       13170 |
 
 ## String References
 
-- **13162**: I am Zahsa Syalmhaia, captain of the mercenaries in charge of defending East Sarutabaruta.
-- **13166**: And now, a question for you, adventurer--do you know of the stone maws being found across the land? Some might describe them as "cavernous."
-- **13167**: Hmph! Then I shall enlighten you. They are large statues of hideous visage, and have been around for some time. These maws are more than they appear, I guarantee you.
+- **13165**: I am Zahsa Syalmhaia, captain of the mercenaries in charge of defending East Sarutabaruta.
+- **13169**: And now, a question for you, adventurer--do you know of the stone maws being found across the land? Some might describe them as "cavernous."
+- **13170**: Hmph! Then I shall enlighten you. They are large statues of hideous visage, and have been around for some time. These maws are more than they appear, I guarantee you.
 
 ## Events
 
@@ -78,13 +78,13 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=13162*)
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=13165*)
     → "I am Zahsa Syalmhaia, captain of the mercenaries in charge of defending East Sarutabaruta."
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=13166*)
+  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=13169*)
     → "And now, a question for you, adventurer--do you know of the stone maws being found across the land? Some might describe them as "cavernous.""
   5: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=13167*)
+  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=13170*)
     → "Hmph! Then I shall enlighten you. They are large statues of hideous visage, and have been around for some time. These maws are more than they appear, I guarantee you."
   7: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0014 [0x21] END_EVENT

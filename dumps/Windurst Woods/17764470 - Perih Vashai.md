@@ -270,87 +270,87 @@
 |     156 | 0x0190      |         400 |
 |     157 | 0x0013      |          19 |
 |     158 | 0x02A4      |         676 |
-|     159 | 0x3723      |       14115 |
-|     160 | 0x3724      |       14116 |
-|     161 | 0x3727      |       14119 |
-|     162 | 0x3728      |       14120 |
-|     163 | 0x3729      |       14121 |
+|     159 | 0x3726      |       14118 |
+|     160 | 0x3727      |       14119 |
+|     161 | 0x372A      |       14122 |
+|     162 | 0x372B      |       14123 |
+|     163 | 0x372C      |       14124 |
 |     164 | 0x00A0      |         160 |
 |     165 | 0x005A      |          90 |
 |     166 | 0x007C      |         124 |
-|     167 | 0x372B      |       14123 |
-|     168 | 0x372C      |       14124 |
-|     169 | 0x372D      |       14125 |
-|     170 | 0x372E      |       14126 |
-|     171 | 0x372F      |       14127 |
-|     172 | 0x3730      |       14128 |
-|     173 | 0x3731      |       14129 |
+|     167 | 0x372E      |       14126 |
+|     168 | 0x372F      |       14127 |
+|     169 | 0x3730      |       14128 |
+|     170 | 0x3731      |       14129 |
+|     171 | 0x3732      |       14130 |
+|     172 | 0x3733      |       14131 |
+|     173 | 0x3734      |       14132 |
 |     174 | 0x0007      |           7 |
-|     175 | 0x372A      |       14122 |
+|     175 | 0x372D      |       14125 |
 |     176 | 0x09C1      |        2497 |
-|     177 | 0x3732      |       14130 |
-|     178 | 0x3733      |       14131 |
-|     179 | 0x3734      |       14132 |
-|     180 | 0x3735      |       14133 |
-|     181 | 0x3736      |       14134 |
-|     182 | 0x3737      |       14135 |
-|     183 | 0x3738      |       14136 |
-|     184 | 0x3739      |       14137 |
-|     185 | 0x373A      |       14138 |
+|     177 | 0x3735      |       14133 |
+|     178 | 0x3736      |       14134 |
+|     179 | 0x3737      |       14135 |
+|     180 | 0x3738      |       14136 |
+|     181 | 0x3739      |       14137 |
+|     182 | 0x373A      |       14138 |
+|     183 | 0x373B      |       14139 |
+|     184 | 0x373C      |       14140 |
+|     185 | 0x373D      |       14141 |
 |     186 | 0x0752      |        1874 |
-|     187 | 0x373B      |       14139 |
-|     188 | 0x373C      |       14140 |
-|     189 | 0x373E      |       14142 |
-|     190 | 0x373F      |       14143 |
-|     191 | 0x373D      |       14141 |
-|     192 | 0x3740      |       14144 |
-|     193 | 0x3741      |       14145 |
-|     194 | 0x3742      |       14146 |
+|     187 | 0x373E      |       14142 |
+|     188 | 0x373F      |       14143 |
+|     189 | 0x3741      |       14145 |
+|     190 | 0x3742      |       14146 |
+|     191 | 0x3740      |       14144 |
+|     192 | 0x3743      |       14147 |
+|     193 | 0x3744      |       14148 |
+|     194 | 0x3745      |       14149 |
 |     195 | 0x0028      |          40 |
 |     196 | 0x0032      |          50 |
-|     197 | 0x3743      |       14147 |
-|     198 | 0x3744      |       14148 |
-|     199 | 0x3745      |       14149 |
+|     197 | 0x3746      |       14150 |
+|     198 | 0x3747      |       14151 |
+|     199 | 0x3748      |       14152 |
 |     200 | 0x0E13      |        3603 |
-|     201 | 0x3746      |       14150 |
-|     202 | 0x3747      |       14151 |
-|     203 | 0x3748      |       14152 |
+|     201 | 0x3749      |       14153 |
+|     202 | 0x374A      |       14154 |
+|     203 | 0x374B      |       14155 |
 |     204 | 0x00EA      |         234 |
-|     205 | 0x3749      |       14153 |
-|     206 | 0x374A      |       14154 |
-|     207 | 0x374B      |       14155 |
-|     208 | 0x374C      |       14156 |
-|     209 | 0x374D      |       14157 |
+|     205 | 0x374C      |       14156 |
+|     206 | 0x374D      |       14157 |
+|     207 | 0x374E      |       14158 |
+|     208 | 0x374F      |       14159 |
+|     209 | 0x3750      |       14160 |
 |     210 | 0x0080      |         128 |
-|     211 | 0x374E      |       14158 |
-|     212 | 0x374F      |       14159 |
-|     213 | 0x3750      |       14160 |
-|     214 | 0x3751      |       14161 |
-|     215 | 0x3752      |       14162 |
-|     216 | 0x3753      |       14163 |
-|     217 | 0x3754      |       14164 |
-|     218 | 0x3755      |       14165 |
-|     219 | 0x3756      |       14166 |
-|     220 | 0x3757      |       14167 |
-|     221 | 0x3758      |       14168 |
-|     222 | 0x3759      |       14169 |
-|     223 | 0x375A      |       14170 |
-|     224 | 0x375B      |       14171 |
-|     225 | 0x375C      |       14172 |
+|     211 | 0x3751      |       14161 |
+|     212 | 0x3752      |       14162 |
+|     213 | 0x3753      |       14163 |
+|     214 | 0x3754      |       14164 |
+|     215 | 0x3755      |       14165 |
+|     216 | 0x3756      |       14166 |
+|     217 | 0x3757      |       14167 |
+|     218 | 0x3758      |       14168 |
+|     219 | 0x3759      |       14169 |
+|     220 | 0x375A      |       14170 |
+|     221 | 0x375B      |       14171 |
+|     222 | 0x375C      |       14172 |
+|     223 | 0x375D      |       14173 |
+|     224 | 0x375E      |       14174 |
+|     225 | 0x375F      |       14175 |
 |     226 | 0xFFFFF830  |  4294965296 |
-|     227 | 0x375D      |       14173 |
-|     228 | 0x375E      |       14174 |
+|     227 | 0x3760      |       14176 |
+|     228 | 0x3761      |       14177 |
 |     229 | 0x1492      |        5266 |
-|     230 | 0x375F      |       14175 |
-|     231 | 0x3760      |       14176 |
+|     230 | 0x3762      |       14178 |
+|     231 | 0x3763      |       14179 |
 |     232 | 0x00AE      |         174 |
 |     233 | 0x0BB8      |        3000 |
 |     234 | 0x00B1      |         177 |
-|     235 | 0x3761      |       14177 |
-|     236 | 0x3762      |       14178 |
-|     237 | 0x3763      |       14179 |
-|     238 | 0x3726      |       14118 |
-|     239 | 0x3725      |       14117 |
+|     235 | 0x3764      |       14180 |
+|     236 | 0x3765      |       14181 |
+|     237 | 0x3766      |       14182 |
+|     238 | 0x3729      |       14121 |
+|     239 | 0x3728      |       14120 |
 
 ## String References
 
@@ -4952,7 +4952,7 @@ SUBROUTINE_24C7:
 SUBROUTINE_251C:
  41: 0x251C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  42: 0x252D [0x1C] WAIT(60* ticks)
- 43: 0x2530 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14115*]:
+ 43: 0x2530 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14118*]:
     → "I see, my child. You have hearrrd of this new "Trust Initiative.""
  44: 0x2537 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x2538 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x2552
@@ -4966,13 +4966,13 @@ SUBROUTINE_251C:
 SUBROUTINE_257B:
  52: 0x257B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[676*, 0*]
  53: 0x258C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
- 54: 0x2591 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14116*]:
+ 54: 0x2591 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14119*]:
     → "If it's a scrrroll you seek, then I bid you talk to [Shikaree Z/Mhag]."
  55: 0x2598 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x2599 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x06)
  57: 0x25A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x07)
  58: 0x25A7 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x25B6
- 59: 0x25AE [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14119*]:
+ 59: 0x25AE [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14122*]:
     → "Regardless of her true name, I still refer to her as "Shikaree Z" out of respect and a sense of grrratitude."
  60: 0x25B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x25B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x08)
@@ -4993,10 +4993,10 @@ SUBROUTINE_2615:
  74: 0x262B [0x03] Work_Zone[4] = 1*
 
 SUBROUTINE_2630:
- 75: 0x2630 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14120*]:
+ 75: 0x2630 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14123*]:
     → "She [was/is] a sin hunter through and through. As a bearer of the fang, she [submits/submitted] herrrself wholly to the laws of nature."
  76: 0x2637 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x2638 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14121*]:
+ 77: 0x2638 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14124*]:
     → "Those same laws now guide you, giving you the answerrr to one of the many questions burning in your mind."
  78: 0x263F [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x2640 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -5049,10 +5049,10 @@ SUBROUTINE_26AF:
 124: 0x279C [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x2A08
 125: 0x27A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[676*, 0*]
 126: 0x27B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-127: 0x27BB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14123*]:
+127: 0x27BB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14126*]:
     → "Well, would you look who it is! Tell me, how've you been treating yourself?"
 128: 0x27C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x27C3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14124*]:
+129: 0x27C3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14127*]:
     → "I told you where I was going before I left, didn't I?"
 130: 0x27CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
 131: 0x27D1 [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
@@ -5077,13 +5077,13 @@ SUBROUTINE_26AF:
 
 SUBROUTINE_2877:
 150: 0x2877 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-151: 0x287E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14125*]:
+151: 0x287E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14128*]:
     → "Upon returning to the motherland, I confessed everything to the queen."
 152: 0x2885 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x2886 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 154: 0x288D [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 155: 0x2892 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-156: 0x2899 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14126*]:
+156: 0x2899 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14129*]:
     → "I've never been good with words, so I spoke from the heart, telling her exactly what transpired."
 157: 0x28A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x28A1 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x28BB
@@ -5102,7 +5102,7 @@ SUBROUTINE_2877:
 
 SUBROUTINE_2918:
 171: 0x2918 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[676*, 0*]
-172: 0x2929 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14127*]:
+172: 0x2929 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14130*]:
     → "When faced with the Emptiness, I fought, proving what true justice is."
 173: 0x2930 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x2931 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
@@ -5116,10 +5116,10 @@ SUBROUTINE_2918:
 182: 0x297F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[676*, 0*]
 
 SUBROUTINE_2990:
-183: 0x2990 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14128*]:
+183: 0x2990 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14131*]:
     → "I stopped being a sin hunter, but continued mentoring my younger sisters...and have traveled throughout Vana'diel."
 184: 0x2997 [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x2998 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14129*]:
+185: 0x2998 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14132*]:
     → "But there is one thing that piqued my interest..."
 186: 0x299F [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x29A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
@@ -5143,7 +5143,7 @@ SUBROUTINE_2A05:
 203: 0x2A18 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 204: 0x2A1D [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 7*
 205: 0x2A24 [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-206: 0x2A29 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14122*]:
+206: 0x2A29 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14125*]:
     → "Have you come to confess your sins?"
 207: 0x2A30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x2A31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x7C)
@@ -5161,10 +5161,10 @@ SUBROUTINE_2A3B:
 SUBROUTINE_2A84:
 217: 0x2A84 [0x03] Work_Zone[3] = 2497*
 218: 0x2A89 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-219: 0x2A90 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14130*]:
+219: 0x2A90 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14133*]:
     → "I see you have $6."
 220: 0x2A97 [0x23] WAIT_FOR_DIALOG_INTERACTION
-221: 0x2A98 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14131*]:
+221: 0x2A98 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14134*]:
     → "I[/, too,] have come to speak with Perih Vashai about that very matter."
 222: 0x2A9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x2AA0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5193,7 +5193,7 @@ SUBROUTINE_2AFE:
 
 SUBROUTINE_2B21:
 242: 0x2B21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[676*, 0*]
-243: 0x2B32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14132*]:
+243: 0x2B32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14135*]:
     → "[Mildaurion/Our friends in Jeuno] said to me, "[I/We] need your help to [fight the Keeper of the Apocalypse/deal with Bahamut, lord of the dragons/deal with the Emptiness].""
 244: 0x2B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x2B3A [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x2B49
@@ -5203,38 +5203,38 @@ SUBROUTINE_2B21:
 
 SUBROUTINE_2B4E:
 249: 0x2B4E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-250: 0x2B55 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14133*]:
+250: 0x2B55 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14136*]:
     → "I am not blind. [My skills as a sin hunter are/My prowess is] needed by many."
 251: 0x2B5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x2B5D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 253: 0x2B64 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [EventEntity, EventEntity], work=676*
 254: 0x2B73 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[676*, 0*]
-255: 0x2B84 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14134*]:
+255: 0x2B84 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14137*]:
     → "But who can ensure that my alter ego will not be a sin in and of itself?"
 256: 0x2B8B [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x2B8C [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=676*
 258: 0x2B9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[676*, 0*]
 259: 0x2BAC [0x27] REQ_SET(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x33)
 260: 0x2BB3 [0x1C] WAIT(30* ticks)
-261: 0x2BB6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14135*]:
+261: 0x2BB6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14138*]:
     → "The motherland's leaders are in constant debate about what this new magic can mean for our people."
 262: 0x2BBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x2BBE [0x2A] GET_REQ_LEVEL(level=8, entity_id=Shikaree Z (ID: 17764477/0x010F107D))
 264: 0x2BC4 [0x4A] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D)
 265: 0x2BCD [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=676*
 266: 0x2BDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[676*, 0*]
-267: 0x2BED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14136*]:
+267: 0x2BED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14139*]:
     → "Does it abide by the natural order of things?"
 268: 0x2BF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x2BF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-270: 0x2BFC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14137*]:
+270: 0x2BFC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14140*]:
     → "If the alter ego causes a sin, then who is the hunter supposed to track down?"
 271: 0x2C03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x2C04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
 273: 0x2C0B [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=676*
 274: 0x2C1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[676*, 0*]
 275: 0x2C2B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-276: 0x2C32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14138*]:
+276: 0x2C32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14141*]:
     → "Of course, the queen's stance on these issues is as fickle as a newborn babe."
 277: 0x2C39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x2C3A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5246,7 +5246,7 @@ SUBROUTINE_2B4E:
 284: 0x2C6E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 285: 0x2C6F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shikaree Z (ID: 17764477/0x010F107D) Render.Flags0 and Render.Flags3 conditions are met
 286: 0x2C74 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-287: 0x2C7B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14139*]:
+287: 0x2C7B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14142*]:
     → "But the prevailing opinion is that Trust magic is permissible so long as it does not violate the natural order and is undertaken by one who is not apt to cause sin."
 288: 0x2C82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x2C83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5257,26 +5257,26 @@ SUBROUTINE_2B4E:
 
 SUBROUTINE_2C9E:
 294: 0x2C9E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-295: 0x2CA5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14140*]:
+295: 0x2CA5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14143*]:
     → "As such, I received a scroll, and am tasked with finding someone from among [us/the] sin hunters to engage in the ritual."
 296: 0x2CAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 297: 0x2CAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 298: 0x2CB4 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at Perih Vashai (ID: 17764470/0x010F1076) (Basic look)
 299: 0x2CBE [0x1C] WAIT(30* ticks)
 300: 0x2CC1 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x2D0D
-301: 0x2CC8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14142*]:
+301: 0x2CC8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14145*]:
     → "The reason the scroll found its way to me is because I managed to convince Shikaree Y that Perih Vashai would be more worthy than anyone else."
 302: 0x2CCF [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x2CD0 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=676*
 304: 0x2CDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[676*, 0*]
-305: 0x2CF0 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14143*]:
+305: 0x2CF0 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14146*]:
     → "She knows how to respect the laws of nature, and is as unlikely a person to sin as anyone I know."
 306: 0x2CF7 [0x1C] WAIT(120* ticks)
 307: 0x2CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x2CFB [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=676*
 309: 0x2D0A [0x01] GOTO 0x2D38
 310: 0x2D0D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[676*, 0*]
-311: 0x2D1E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14141*]:
+311: 0x2D1E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14144*]:
     → "Who could possibly be more trustworthy than Perih Vashai? I am here today to give the scroll to her."
 312: 0x2D25 [0x1C] WAIT(120* ticks)
 313: 0x2D28 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -5288,20 +5288,20 @@ SUBROUTINE_2D38:
 317: 0x2D4C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[676*, 0*]
 318: 0x2D5D [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 319: 0x2D62 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-320: 0x2D69 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14144*]:
+320: 0x2D69 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14147*]:
     → "Yet for some reason, she refused."
 321: 0x2D70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x2D71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
 323: 0x2D78 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=676*
 324: 0x2D87 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[676*, 0*]
 325: 0x2D98 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-326: 0x2D9F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14145*]:
+326: 0x2D9F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14148*]:
     → ""The natural way of things is not for us to decide. The sky and land have that responsibility.""
 327: 0x2DA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x2DA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
 329: 0x2DAE [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17764478/0x010F107E)
 330: 0x2DB4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-331: 0x2DBB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14146*]:
+331: 0x2DBB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14149*]:
     → "So she elected to wait until she received a sign from above."
 332: 0x2DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x2DC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5326,7 +5326,7 @@ SUBROUTINE_2D38:
 352: 0x2E68 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Unnamed NPC (ID: 17764478/0x010F107E))
 353: 0x2E6E [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17764478/0x010F107E)
 354: 0x2E77 [0x1C] WAIT(90* ticks)
-355: 0x2E7A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14147*]:
+355: 0x2E7A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14150*]:
     → "Hmm?"
 356: 0x2E81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x2E82 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -5341,11 +5341,11 @@ SUBROUTINE_2D38:
 366: 0x2ED1 [0x4A] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D)
 367: 0x2EDA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 368: 0x2EE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-369: 0x2EE8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14148*]:
+369: 0x2EE8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14151*]:
     → "What is this smell...?"
 370: 0x2EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x2EF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-372: 0x2EF7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14149*]:
+372: 0x2EF7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14152*]:
     → "It smells of change, carried by the western wind. Is something about to...?"
 373: 0x2EFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x2EFF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5361,7 +5361,7 @@ SUBROUTINE_2D38:
 384: 0x2F4D [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 6*
 385: 0x2F54 [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
 386: 0x2F59 [0x1C] WAIT(90* ticks)
-387: 0x2F5C [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14150*]:
+387: 0x2F5C [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14153*]:
     → "Could it be...? No, not this time."
 388: 0x2F63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x2F64 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=676*
@@ -5390,7 +5390,7 @@ SUBROUTINE_2FBC:
 
 SUBROUTINE_301D:
 410: 0x301D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[676*, 0*]
-411: 0x302E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14151*]:
+411: 0x302E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14154*]:
     → "Something magical is in the air."
 412: 0x3035 [0x23] WAIT_FOR_DIALOG_INTERACTION
 413: 0x3036 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
@@ -5402,7 +5402,7 @@ SUBROUTINE_301D:
 419: 0x306E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shikaree Z (ID: 17764477/0x010F107D) Render.Flags0 and Render.Flags3 conditions are met
 420: 0x3073 [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 0*
 421: 0x307A [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-422: 0x307F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14152*]:
+422: 0x307F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14155*]:
     → "Memories of my past have come wafting on the breeze."
 423: 0x3086 [0x23] WAIT_FOR_DIALOG_INTERACTION
 424: 0x3087 [0x27] REQ_SET(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x34)
@@ -5420,11 +5420,11 @@ SUBROUTINE_301D:
 436: 0x30D5 [0x03] Work_Zone[6] = 1*
 
 SUBROUTINE_30DA:
-437: 0x30DA [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14153*]:
+437: 0x30DA [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14156*]:
     → "It smells of wyverns. It smells of Boneyard Gully."
 438: 0x30E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 439: 0x30E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-440: 0x30E9 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14154*]:
+440: 0x30E9 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14157*]:
     → "No, I do not--cannot--forget where we first fought, and where I first fell."
 441: 0x30F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 442: 0x30F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5442,7 +5442,7 @@ SUBROUTINE_30DA:
 SUBROUTINE_315E:
 453: 0x315E [0x6E] EventEntity uses emote 6*
 454: 0x3165 [0x99] Wait for EventEntity animation to complete
-455: 0x316A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14155*]:
+455: 0x316A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14158*]:
     → "You went from being a passerby on my life's road to something much greater."
 456: 0x3171 [0x1C] WAIT(90* ticks)
 457: 0x3174 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -5480,11 +5480,11 @@ SUBROUTINE_325C:
 485: 0x326F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17764478/0x010F107E) Render.Flags0 and Render.Flags3 conditions are met
 486: 0x3274 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 487: 0x327B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-488: 0x3282 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14156*]:
+488: 0x3282 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14159*]:
     → "My sisters set the wheel in motion, but it was I who issued the challenge--and you accepted."
 489: 0x3289 [0x23] WAIT_FOR_DIALOG_INTERACTION
 490: 0x328A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-491: 0x3291 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14157*]:
+491: 0x3291 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14160*]:
     → "You spurred them on to learn the intricacies of the delta attack."
 492: 0x3298 [0x23] WAIT_FOR_DIALOG_INTERACTION
 493: 0x3299 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5512,17 +5512,17 @@ SUBROUTINE_3331:
 513: 0x3352 [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 514: 0x3357 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 515: 0x335E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-516: 0x3365 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14158*]:
+516: 0x3365 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14161*]:
     → "And there are other scents, too--I picture an open expanse of saltwater with each breath I take. It reminds me of Bibiki Bay."
 517: 0x336C [0x23] WAIT_FOR_DIALOG_INTERACTION
 518: 0x336D [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [EventEntity, EventEntity], work=676*
 519: 0x337C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[676*, 0*]
-520: 0x338D [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14159*]:
+520: 0x338D [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14162*]:
     → "Our fights and struggles were noble. We aimed to protect all we held dear: trust, justice, courage, and hope."
 521: 0x3394 [0x23] WAIT_FOR_DIALOG_INTERACTION
 522: 0x3395 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
 523: 0x339F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-524: 0x33A6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14160*]:
+524: 0x33A6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14163*]:
     → "Are these not the qualities required by the Trust ritual? If they are, then we shall surely be successful."
 525: 0x33AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 526: 0x33AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5533,7 +5533,7 @@ SUBROUTINE_3331:
 531: 0x33E5 [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 532: 0x33EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 533: 0x33F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-534: 0x33F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14161*]:
+534: 0x33F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14164*]:
     → "[There is yet another./And there are other scents, too.] The fragrance peculiar to Mhaura's port."
 535: 0x33FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 536: 0x3400 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=676*
@@ -5555,12 +5555,12 @@ SUBROUTINE_3331:
 552: 0x349B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[676*, 0*]
 
 SUBROUTINE_34AC:
-553: 0x34AC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14162*]:
+553: 0x34AC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14165*]:
     → "My journeys with you taught me about the unspoken rules of the land, and I learned of the place my mother's words were meant to guide me to."
 554: 0x34B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 555: 0x34B4 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
 556: 0x34BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-557: 0x34C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14163*]:
+557: 0x34C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14166*]:
     → "If my alter ego can help you, then it is not for me to question whether or not the process itself is a sin."
 558: 0x34CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 559: 0x34CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5588,28 +5588,28 @@ SUBROUTINE_3565:
 579: 0x3584 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 580: 0x358B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
 581: 0x3592 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-582: 0x3599 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14164*]:
+582: 0x3599 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14167*]:
     → "And yet there's more."
 583: 0x35A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 584: 0x35A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
 585: 0x35A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-586: 0x35AF [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14165*]:
+586: 0x35AF [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14168*]:
     → "I can taste the fear that I felt when I confessed my true desires to my sisters."
 587: 0x35B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 588: 0x35B7 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=676*
 589: 0x35C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[676*, 0*]
-590: 0x35D7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14166*]:
+590: 0x35D7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14169*]:
     → "I was afraid when I opened up to them because they might not accept what I had to say."
 591: 0x35DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 592: 0x35DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
 593: 0x35E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-594: 0x35ED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14167*]:
+594: 0x35ED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14170*]:
     → "...But I know they have changed since they first met you."
 595: 0x35F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 596: 0x35F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 597: 0x35FC [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=676*
 598: 0x360B [0x01] GOTO 0x3616
-599: 0x360E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14168*]:
+599: 0x360E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14171*]:
     → "There is also the trace of my sisters carried upon the wind. I have never thanked you for aiding them in their endeavors."
 600: 0x3615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -5619,11 +5619,11 @@ SUBROUTINE_3616:
 603: 0x362E [0x6C] FADE_ENTITY_COLOR(entity_id=Unnamed NPC (ID: 17764478/0x010F107E), end_alpha=0*, fade_time=1*)
 604: 0x3637 [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 7*
 605: 0x363E [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-606: 0x3643 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14169*]:
+606: 0x3643 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14172*]:
     → "Thank you for helping Shikaree X with her first survey in Tavnazia."
 607: 0x364A [0x1C] WAIT(90* ticks)
 608: 0x364D [0x23] WAIT_FOR_DIALOG_INTERACTION
-609: 0x364E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14170*]:
+609: 0x364E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14173*]:
     → "Shikaree X told me the reason she was able to speak like a true sin hunter was that you stood by her side."
 610: 0x3655 [0x23] WAIT_FOR_DIALOG_INTERACTION
 611: 0x3656 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=676*
@@ -5639,10 +5639,10 @@ SUBROUTINE_3616:
 SUBROUTINE_36B5:
 620: 0x36B5 [0x6C] FADE_ENTITY_COLOR(entity_id=Unnamed NPC (ID: 17764478/0x010F107E), end_alpha=0*, fade_time=1*)
 621: 0x36BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-622: 0x36C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14171*]:
+622: 0x36C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14174*]:
     → "Shikaree Y mentioned that you hurried after her when she took a tuning fork in hand and made for Uleguerand Range."
 623: 0x36CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-624: 0x36CD [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14172*]:
+624: 0x36CD [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14175*]:
     → "You know how lightly she always dresses. I would have been worried, too."
 625: 0x36D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 626: 0x36D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5668,10 +5668,10 @@ SUBROUTINE_372D:
 644: 0x3768 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=676*
 645: 0x3777 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[676*, 0*]
 646: 0x3788 [0x1C] WAIT(90* ticks)
-647: 0x378B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14173*]:
+647: 0x378B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14176*]:
     → "The pristine scents from the sky now tell me of another, beautiful time."
 648: 0x3792 [0x23] WAIT_FOR_DIALOG_INTERACTION
-649: 0x3793 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14174*]:
+649: 0x3793 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14177*]:
     → "The sweet sensation of victory when we vanquished the Keeper of the Apocalypse."
 650: 0x379A [0x23] WAIT_FOR_DIALOG_INTERACTION
 651: 0x379B [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
@@ -5679,7 +5679,7 @@ SUBROUTINE_372D:
 653: 0x37B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[676*, 0*]
 654: 0x37C5 [0x6C] FADE_ENTITY_COLOR(entity_id=Unnamed NPC (ID: 17764478/0x010F107E), end_alpha=0*, fade_time=1*)
 655: 0x37CE [0x03] Work_Zone[3] = 5266*
-656: 0x37D3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14175*]:
+656: 0x37D3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14178*]:
     → "Ahhh, what I wouldn't give for us to gather again, exchanging tales over some $1."
 657: 0x37DA [0x1C] WAIT(60* ticks)
 658: 0x37DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
@@ -5715,7 +5715,7 @@ SUBROUTINE_38D9:
 686: 0x38E2 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=400*)
 687: 0x38E7 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
 688: 0x38F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-689: 0x38F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14176*]:
+689: 0x38F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14179*]:
     → "<Player>, can you not hear the voice of nature?"
 690: 0x38FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 691: 0x3900 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
@@ -5775,7 +5775,7 @@ SUBROUTINE_39D2:
 743: 0x3ADC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[676*, 0*]
 744: 0x3AED [0x79] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D) (Basic look)
 745: 0x3AF7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-746: 0x3AFE [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14177*]:
+746: 0x3AFE [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14180*]:
     → "...I can hear it speaking to me. It bids me accompany you once more."
 747: 0x3B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 748: 0x3B06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
@@ -5804,7 +5804,7 @@ SUBROUTINE_3BB9:
 769: 0x3BC8 [0x79] LocalPlayer looks at Shikaree Z (ID: 17764479/0x010F107F) (Basic look)
 770: 0x3BD2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
 771: 0x3BD9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764479/0x010F107F), tag_num=0x21)
-772: 0x3BE0 [0x2B] Shikaree Z (ID: 17764479/0x010F107F) [14178*]:
+772: 0x3BE0 [0x2B] Shikaree Z (ID: 17764479/0x010F107F) [14181*]:
     → "I pledge to follow you to the last, and to guard you with all my strength."
 773: 0x3BE7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
 774: 0x3BEE [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
@@ -5815,7 +5815,7 @@ SUBROUTINE_3BB9:
 779: 0x3C0C [0x1C] WAIT(90* ticks)
 780: 0x3C0F [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 4*
 781: 0x3C16 [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-782: 0x3C1B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14179*]:
+782: 0x3C1B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14182*]:
     → "May your journeys always be filled with excitement."
 783: 0x3C22 [0x1C] WAIT(30* ticks)
 784: 0x3C25 [0x79] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D) (Basic look)
@@ -5877,19 +5877,19 @@ SUBROUTINE_3CE6:
 
 ```
   0: 0x3D16 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[4]
-  1: 0x3D1B [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14115*]:
+  1: 0x3D1B [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14118*]:
     → "I see, my child. You have hearrrd of this new "Trust Initiative.""
   2: 0x3D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x3D23 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
-  4: 0x3D28 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14116*]:
+  4: 0x3D28 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14119*]:
     → "If it's a scrrroll you seek, then I bid you talk to [Shikaree Z/Mhag]."
   5: 0x3D2F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x3D30 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x3D43
-  7: 0x3D38 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14118*]:
+  7: 0x3D38 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14121*]:
     → "Her prrresent location? That is not something I am privy to."
   8: 0x3D3F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x3D40 [0x01] GOTO 0x3D4B
- 10: 0x3D43 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14117*]:
+ 10: 0x3D43 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14120*]:
     → "Yet I warn you--should the ritual trrruly require strong bonds, then you would be wasting your time--and hers."
  11: 0x3D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 

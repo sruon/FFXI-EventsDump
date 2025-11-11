@@ -23,38 +23,38 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2EF8      |       12024 |
+|       1 | 0x2EFB      |       12027 |
 |       2 | 0x0031      |          49 |
-|       3 | 0x2EF9      |       12025 |
-|       4 | 0x2EFA      |       12026 |
-|       5 | 0x2EFB      |       12027 |
-|       6 | 0x2EFC      |       12028 |
-|       7 | 0x2EFD      |       12029 |
-|       8 | 0x2EFE      |       12030 |
+|       3 | 0x2EFC      |       12028 |
+|       4 | 0x2EFD      |       12029 |
+|       5 | 0x2EFE      |       12030 |
+|       6 | 0x2EFF      |       12031 |
+|       7 | 0x2F00      |       12032 |
+|       8 | 0x2F01      |       12033 |
 |       9 | 0x0000      |           0 |
-|      10 | 0x2EFF      |       12031 |
-|      11 | 0x2F00      |       12032 |
-|      12 | 0x2F01      |       12033 |
-|      13 | 0x2F02      |       12034 |
-|      14 | 0x2F03      |       12035 |
+|      10 | 0x2F02      |       12034 |
+|      11 | 0x2F03      |       12035 |
+|      12 | 0x2F04      |       12036 |
+|      13 | 0x2F05      |       12037 |
+|      14 | 0x2F06      |       12038 |
 |      15 | 0x0001      |           1 |
-|      16 | 0x2F04      |       12036 |
-|      17 | 0x2F05      |       12037 |
-|      18 | 0x2F06      |       12038 |
-|      19 | 0x2F07      |       12039 |
+|      16 | 0x2F07      |       12039 |
+|      17 | 0x2F08      |       12040 |
+|      18 | 0x2F09      |       12041 |
+|      19 | 0x2F0A      |       12042 |
 |      20 | 0x0002      |           2 |
-|      21 | 0x2F08      |       12040 |
-|      22 | 0x2F09      |       12041 |
-|      23 | 0x2F0A      |       12042 |
-|      24 | 0x2F0B      |       12043 |
-|      25 | 0x2F0C      |       12044 |
-|      26 | 0x2F0D      |       12045 |
+|      21 | 0x2F0B      |       12043 |
+|      22 | 0x2F0C      |       12044 |
+|      23 | 0x2F0D      |       12045 |
+|      24 | 0x2F0E      |       12046 |
+|      25 | 0x2F0F      |       12047 |
+|      26 | 0x2F10      |       12048 |
 |      27 | 0x0003      |           3 |
-|      28 | 0x2F0E      |       12046 |
-|      29 | 0x2F0F      |       12047 |
+|      28 | 0x2F11      |       12049 |
+|      29 | 0x2F12      |       12050 |
 |      30 | 0x0007      |           7 |
 |      31 | 0x0015      |          21 |
-|      32 | 0x2F13      |       12051 |
+|      32 | 0x2F16      |       12054 |
 |      33 | 0x003D      |          61 |
 |      34 | 0x0016      |          22 |
 |      35 | 0x0017      |          23 |
@@ -68,13 +68,13 @@
 |      43 | 0x0006      |           6 |
 |      44 | 0x001A      |          26 |
 |      45 | 0x0041      |          65 |
-|      46 | 0x2F12      |       12050 |
-|      47 | 0x2F51      |       12113 |
-|      48 | 0x2F4D      |       12109 |
-|      49 | 0x2F4E      |       12110 |
-|      50 | 0x2F4F      |       12111 |
-|      51 | 0x2F50      |       12112 |
-|      52 | 0x2F10      |       12048 |
+|      46 | 0x2F15      |       12053 |
+|      47 | 0x2F54      |       12116 |
+|      48 | 0x2F50      |       12112 |
+|      49 | 0x2F51      |       12113 |
+|      50 | 0x2F52      |       12114 |
+|      51 | 0x2F53      |       12115 |
+|      52 | 0x2F13      |       12051 |
 |      53 | 0x0078      |         120 |
 |      54 | 0x00C8      |         200 |
 |      55 | 0x001B      |          27 |
@@ -82,96 +82,96 @@
 |      57 | 0x0081      |         129 |
 |      58 | 0x00C2      |         194 |
 |      59 | 0x003C      |          60 |
-|      60 | 0x2F14      |       12052 |
-|      61 | 0x2F15      |       12053 |
-|      62 | 0x2F19      |       12057 |
-|      63 | 0x2F1A      |       12058 |
-|      64 | 0x2F1B      |       12059 |
-|      65 | 0x2F1C      |       12060 |
-|      66 | 0x2F1D      |       12061 |
+|      60 | 0x2F17      |       12055 |
+|      61 | 0x2F18      |       12056 |
+|      62 | 0x2F1C      |       12060 |
+|      63 | 0x2F1D      |       12061 |
+|      64 | 0x2F1E      |       12062 |
+|      65 | 0x2F1F      |       12063 |
+|      66 | 0x2F20      |       12064 |
 |      67 | 0x0009      |           9 |
 |      68 | 0x0030      |          48 |
 |      69 | 0x00E6      |         230 |
 |      70 | 0x001C      |          28 |
 |      71 | 0x0010      |          16 |
-|      72 | 0x2F1F      |       12063 |
-|      73 | 0x2F20      |       12064 |
+|      72 | 0x2F22      |       12066 |
+|      73 | 0x2F23      |       12067 |
 |      74 | 0x0038      |          56 |
 |      75 | 0x0020      |          32 |
-|      76 | 0x2F27      |       12071 |
+|      76 | 0x2F2A      |       12074 |
 |      77 | 0x001F      |          31 |
 |      78 | 0x0021      |          33 |
 |      79 | 0x0022      |          34 |
 |      80 | 0x0023      |          35 |
 |      81 | 0x0024      |          36 |
-|      82 | 0x2F45      |       12101 |
-|      83 | 0x2F46      |       12102 |
-|      84 | 0x2F47      |       12103 |
-|      85 | 0x2F48      |       12104 |
-|      86 | 0x2F4C      |       12108 |
+|      82 | 0x2F48      |       12104 |
+|      83 | 0x2F49      |       12105 |
+|      84 | 0x2F4A      |       12106 |
+|      85 | 0x2F4B      |       12107 |
+|      86 | 0x2F4F      |       12111 |
 |      87 | 0x00F1      |         241 |
 |      88 | 0x0097      |         151 |
-|      89 | 0x2F28      |       12072 |
-|      90 | 0x2F29      |       12073 |
-|      91 | 0x2F2A      |       12074 |
-|      92 | 0x2F2B      |       12075 |
-|      93 | 0x2F2C      |       12076 |
-|      94 | 0x2F2D      |       12077 |
+|      89 | 0x2F2B      |       12075 |
+|      90 | 0x2F2C      |       12076 |
+|      91 | 0x2F2D      |       12077 |
+|      92 | 0x2F2E      |       12078 |
+|      93 | 0x2F2F      |       12079 |
+|      94 | 0x2F30      |       12080 |
 |      95 | 0x0008      |           8 |
 |      96 | 0x000F      |          15 |
-|      97 | 0x2F2E      |       12078 |
-|      98 | 0x2F2F      |       12079 |
-|      99 | 0x2F30      |       12080 |
-|     100 | 0x2F31      |       12081 |
-|     101 | 0x2F32      |       12082 |
+|      97 | 0x2F31      |       12081 |
+|      98 | 0x2F32      |       12082 |
+|      99 | 0x2F33      |       12083 |
+|     100 | 0x2F34      |       12084 |
+|     101 | 0x2F35      |       12085 |
 |     102 | 0x000D      |          13 |
-|     103 | 0x2F33      |       12083 |
-|     104 | 0x2F34      |       12084 |
-|     105 | 0x2F36      |       12086 |
-|     106 | 0x2F35      |       12085 |
-|     107 | 0x2F38      |       12088 |
-|     108 | 0x2F39      |       12089 |
-|     109 | 0x2F37      |       12087 |
-|     110 | 0x2F3A      |       12090 |
-|     111 | 0x2F3B      |       12091 |
+|     103 | 0x2F36      |       12086 |
+|     104 | 0x2F37      |       12087 |
+|     105 | 0x2F39      |       12089 |
+|     106 | 0x2F38      |       12088 |
+|     107 | 0x2F3B      |       12091 |
+|     108 | 0x2F3C      |       12092 |
+|     109 | 0x2F3A      |       12090 |
+|     110 | 0x2F3D      |       12093 |
+|     111 | 0x2F3E      |       12094 |
 |     112 | 0x000A      |          10 |
-|     113 | 0x2F3C      |       12092 |
+|     113 | 0x2F3F      |       12095 |
 |     114 | 0x000B      |          11 |
-|     115 | 0x2F3D      |       12093 |
+|     115 | 0x2F40      |       12096 |
 |     116 | 0x000C      |          12 |
-|     117 | 0x2F3E      |       12094 |
-|     118 | 0x2F3F      |       12095 |
-|     119 | 0x2F40      |       12096 |
-|     120 | 0x2F41      |       12097 |
-|     121 | 0x2F42      |       12098 |
-|     122 | 0x2F43      |       12099 |
-|     123 | 0x2F44      |       12100 |
+|     117 | 0x2F41      |       12097 |
+|     118 | 0x2F42      |       12098 |
+|     119 | 0x2F43      |       12099 |
+|     120 | 0x2F44      |       12100 |
+|     121 | 0x2F45      |       12101 |
+|     122 | 0x2F46      |       12102 |
+|     123 | 0x2F47      |       12103 |
 |     124 | 0x0596      |        1430 |
 |     125 | 0x0368      |         872 |
 |     126 | 0x00E0      |         224 |
-|     127 | 0x2F16      |       12054 |
+|     127 | 0x2F19      |       12057 |
 |     128 | 0x036B      |         875 |
-|     129 | 0x2F17      |       12055 |
+|     129 | 0x2F1A      |       12058 |
 |     130 | 0x00DE      |         222 |
-|     131 | 0x2F18      |       12056 |
-|     132 | 0x2F1E      |       12062 |
+|     131 | 0x2F1B      |       12059 |
+|     132 | 0x2F21      |       12065 |
 |     133 | 0x00F0      |         240 |
-|     134 | 0x2F22      |       12066 |
+|     134 | 0x2F25      |       12069 |
 |     135 | 0x036C      |         876 |
 |     136 | 0x00B4      |         180 |
-|     137 | 0x2F21      |       12065 |
+|     137 | 0x2F24      |       12068 |
 |     138 | 0x00DF      |         223 |
 |     139 | 0x0090      |         144 |
 |     140 | 0x0060      |          96 |
 |     141 | 0x0862      |        2146 |
-|     142 | 0x2F23      |       12067 |
-|     143 | 0x2F24      |       12068 |
-|     144 | 0x2F25      |       12069 |
-|     145 | 0x2F26      |       12070 |
-|     146 | 0x2F4B      |       12107 |
-|     147 | 0x2F49      |       12105 |
+|     142 | 0x2F26      |       12070 |
+|     143 | 0x2F27      |       12071 |
+|     144 | 0x2F28      |       12072 |
+|     145 | 0x2F29      |       12073 |
+|     146 | 0x2F4E      |       12110 |
+|     147 | 0x2F4C      |       12108 |
 |     148 | 0x00C9      |         201 |
-|     149 | 0x2F4A      |       12106 |
+|     149 | 0x2F4D      |       12109 |
 |     150 | 0x002A      |          42 |
 |     151 | 0x002B      |          43 |
 |     152 | 0x002C      |          44 |
@@ -211,92 +211,92 @@
 
 ## String References
 
-- **12024**: Greetings. I am a journeyman trainer from the VCS, and I have been sent to this town to promote knowledge exchange between chocobo owners.
-- **12025**: We believe that the best way to promote interaction between owners is through interaction between chocobos.
-- **12026**: And after countless VCS conferences, we recently agreed on the establishment of a new program--
-- **12027**: Kamp Kweh!
-- **12028**: Breeders need only possess a chocobo to join. Please speak with me again if you are interested.
-- **12029**: I can answer your questions regarding Kamp Kweh?
-- **12030**: What would you like to know? [What exactly is Kamp Kweh?/How do I sign up?/Are there any restrictions?/Nothing at all.]
-- **12031**: Kamp Kweh is a place where fellow breeders can bring their chocobos to interact with each other.
-- **12032**: At the camp, owners can check the status of their companions' animals...
-- **12033**: ...as well as confirm breeding compatibility.
-- **12034**: However, please note that any results from these tests are merely estimates, and may not fully reflect the actual condition of an animal.
-- **12035**: Our wish is that through the various camp activities we offer, your chocobo will have the opportunity to improve its skills.
-- **12036**: Only adventurers who are currently raising a chocobo can participate.
-- **12037**: Owners can enroll their animals once they have hatched.
-- **12038**: To begin, adventurers should first form a party of those who wish to participate, and then come talk to me or any of the other VCS journeyman trainers stationed throughout Vana'diel.
-- **12039**: Please note that only up to six chocobos can attend the camp at one time, so do not come as an alliance.
-- **12040**: We refuse admission to the following:
-- **12041**: 1. Any owners who have not checked up on their chocobos recently. Those who feel that they may have been neglecting their animal may want to visit the stables before attempting to participate.
-- **12042**: 2. Chocobos who are sleeping or have run away.
-- **12043**: 3. Chocobos who have yet to be named.
-- **12044**: 4. Party members who are too far away from the stables.
-- **12045**: We would not think of leading a chocobo away from its pen when the owner was not present.
-- **12046**: Welcome back. Have you come to enroll in Kamp Kweh?
-- **12047**: Enroll? [Yes./No.]
-- **12048**: I see. If you wish to participate in the future, feel free to contact me or one of my companions.
-- **12050**: None of the other members of your party possess chocobos able to participate in camp activities. Please confirm their conditions and speak with me again when everything is in order.
-- **12051**: None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled.
-- **12052**: Now that we have arrived, we can begin.
-- **12053**: What do you wish to do? [Call your chocobo./Let it play with others./Check the chocobos' vitals./Check mating compatibility./Nothing.]
-- **12057**: $0 seems relaxed.
-- **12058**: $0 seems excited.
-- **12059**: $0 seems pleased.
-- **12060**: $0 seems distressed.
-- **12061**: $0 seems happy.
-- **12062**: $0 looks like it wants to play with you as well.
-- **12063**: Which chocobo? [$1./$2./$3./$4./$5./Quit.]
-- **12064**: Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together.
-- **12065**: The two seem to be getting along just fine.
-- **12066**: The elder of the two seems to be treating the other as a younger $0[brother/sister].
-- **12067**: Your chocobo's strength has slightly improved.
-- **12068**: Your chocobo has become slightly more patient.
-- **12069**: Your chocobo has become slightly more intelligent.
-- **12070**: Your chocobo has become slightly more receptive.
-- **12071**: Which chocobo? [$0./$1./$2./$3./$4./$5./Quit.]
-- **12072**: The vitals of $0? Let me see...
-- **12073**: Owner: %3
-- **12074**: Home Stable: [ /San d'Oria/Bastok/Windurst]
-- **12075**: Days Raised: $6
-- **12076**: Gender: $0[Male/Female]
-- **12077**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12078**: Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12079**: Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12080**: Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12081**: Affection towards %3: [None/Able to endure company/Slightly enjoys company/Likes/Likes pretty well/Likes a lot/Wants to be with all the time/Regards as parent].
-- **12082**: Nourishment: [Starving/Quite hungry/A little hungry/Neither hungry nor full/Neither hungry nor full/Almost full/Quite full/Completely full]
-- **12083**: Current Health Condition: Stable
-- **12084**: Other Health Conditions: Slightly injured leg due to overuse
-- **12085**: Other Health Conditions: Upset stomach due to overfeeding
-- **12086**: Other Health Conditions: Slight cold
-- **12087**: Other Health Conditions: Serious illness
-- **12088**: Other Health Conditions: Depression due to lack of affection
-- **12089**: Other Health Conditions: Is receiving sufficient attention
-- **12090**: Other Health Conditions: Bored and restless
-- **12091**: Other Conditions: Spoiled
-- **12092**: Other Conditions: In love
-- **12093**: Other Health Conditions: Cries all night
-- **12094**: Other Health Conditions: Bursting with vitality
-- **12095**: Other Health Conditions: Sparkling with intelligence
-- **12096**: Personality: [Very easygoing/Rather ill-tempered/Very patient chocobo/Quite sensitive/Rather enigmatic]
-- **12097**: Weather: Likes: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/ /Cloudy days] Dislikes: [Nothing/Rainy days/Thunderstorms/Windy days/Snowy days/Clear days/Sandstorms/Dark days/Auroras].
-- **12098**: Abilities: None
-- **12099**: Abilities: [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]
-- **12100**: Abilities: [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder] and [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]
-- **12101**: Which chocobo? [$1./$2./$3./$4./$5./Quit.]
-- **12102**: Please remember, I can only check the compatibility of your chocobo and another once a day (Earth time).
-- **12103**: Continue? [Yes./No.]
-- **12104**: These two chocobos are of the same gender. I cannot check their compatibility.
-- **12105**: If $0 and $1 were to mate...
-- **12106**: I hope $0 grows up soon.
-- **12107**: I hope they both grow up soon.
-- **12108**: I'm certain I told you that I can only check the compatibility of your chocobo and another once a day (Earth time). Please keep that in mind.
-- **12109**: I'm sorry, but your chocobo must step forth from the cozy refines of its egg before taking part in camp activities.
-- **12110**: I'm sorry, but your chocobo's current condition prohibits it from taking part in camp activities. Please come back when the problem is solved.
-- **12111**: I'm sorry, but it seems you haven't checked in on your chocobo for an extended period of time. Please visit the stables and speak with me again.
-- **12112**: I'm sorry, but your chocobo does not yet have a name. Please give it a good one and speak with me again.
-- **12113**: I'm sorry, but you haven't been taking care of your chocobo. Please attend to it and speak with me again.
+- **12027**: Greetings. I am a journeyman trainer from the VCS, and I have been sent to this town to promote knowledge exchange between chocobo owners.
+- **12028**: We believe that the best way to promote interaction between owners is through interaction between chocobos.
+- **12029**: And after countless VCS conferences, we recently agreed on the establishment of a new program--
+- **12030**: Kamp Kweh!
+- **12031**: Breeders need only possess a chocobo to join. Please speak with me again if you are interested.
+- **12032**: I can answer your questions regarding Kamp Kweh?
+- **12033**: What would you like to know? [What exactly is Kamp Kweh?/How do I sign up?/Are there any restrictions?/Nothing at all.]
+- **12034**: Kamp Kweh is a place where fellow breeders can bring their chocobos to interact with each other.
+- **12035**: At the camp, owners can check the status of their companions' animals...
+- **12036**: ...as well as confirm breeding compatibility.
+- **12037**: However, please note that any results from these tests are merely estimates, and may not fully reflect the actual condition of an animal.
+- **12038**: Our wish is that through the various camp activities we offer, your chocobo will have the opportunity to improve its skills.
+- **12039**: Only adventurers who are currently raising a chocobo can participate.
+- **12040**: Owners can enroll their animals once they have hatched.
+- **12041**: To begin, adventurers should first form a party of those who wish to participate, and then come talk to me or any of the other VCS journeyman trainers stationed throughout Vana'diel.
+- **12042**: Please note that only up to six chocobos can attend the camp at one time, so do not come as an alliance.
+- **12043**: We refuse admission to the following:
+- **12044**: 1. Any owners who have not checked up on their chocobos recently. Those who feel that they may have been neglecting their animal may want to visit the stables before attempting to participate.
+- **12045**: 2. Chocobos who are sleeping or have run away.
+- **12046**: 3. Chocobos who have yet to be named.
+- **12047**: 4. Party members who are too far away from the stables.
+- **12048**: We would not think of leading a chocobo away from its pen when the owner was not present.
+- **12049**: Welcome back. Have you come to enroll in Kamp Kweh?
+- **12050**: Enroll? [Yes./No.]
+- **12051**: I see. If you wish to participate in the future, feel free to contact me or one of my companions.
+- **12053**: None of the other members of your party possess chocobos able to participate in camp activities. Please confirm their conditions and speak with me again when everything is in order.
+- **12054**: None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled.
+- **12055**: Now that we have arrived, we can begin.
+- **12056**: What do you wish to do? [Call your chocobo./Let it play with others./Check the chocobos' vitals./Check mating compatibility./Nothing.]
+- **12060**: $0 seems relaxed.
+- **12061**: $0 seems excited.
+- **12062**: $0 seems pleased.
+- **12063**: $0 seems distressed.
+- **12064**: $0 seems happy.
+- **12065**: $0 looks like it wants to play with you as well.
+- **12066**: Which chocobo? [$1./$2./$3./$4./$5./Quit.]
+- **12067**: Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together.
+- **12068**: The two seem to be getting along just fine.
+- **12069**: The elder of the two seems to be treating the other as a younger $0[brother/sister].
+- **12070**: Your chocobo's strength has slightly improved.
+- **12071**: Your chocobo has become slightly more patient.
+- **12072**: Your chocobo has become slightly more intelligent.
+- **12073**: Your chocobo has become slightly more receptive.
+- **12074**: Which chocobo? [$0./$1./$2./$3./$4./$5./Quit.]
+- **12075**: The vitals of $0? Let me see...
+- **12076**: Owner: %3
+- **12077**: Home Stable: [ /San d'Oria/Bastok/Windurst]
+- **12078**: Days Raised: $6
+- **12079**: Gender: $0[Male/Female]
+- **12080**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12081**: Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12082**: Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12083**: Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12084**: Affection towards %3: [None/Able to endure company/Slightly enjoys company/Likes/Likes pretty well/Likes a lot/Wants to be with all the time/Regards as parent].
+- **12085**: Nourishment: [Starving/Quite hungry/A little hungry/Neither hungry nor full/Neither hungry nor full/Almost full/Quite full/Completely full]
+- **12086**: Current Health Condition: Stable
+- **12087**: Other Health Conditions: Slightly injured leg due to overuse
+- **12088**: Other Health Conditions: Upset stomach due to overfeeding
+- **12089**: Other Health Conditions: Slight cold
+- **12090**: Other Health Conditions: Serious illness
+- **12091**: Other Health Conditions: Depression due to lack of affection
+- **12092**: Other Health Conditions: Is receiving sufficient attention
+- **12093**: Other Health Conditions: Bored and restless
+- **12094**: Other Conditions: Spoiled
+- **12095**: Other Conditions: In love
+- **12096**: Other Health Conditions: Cries all night
+- **12097**: Other Health Conditions: Bursting with vitality
+- **12098**: Other Health Conditions: Sparkling with intelligence
+- **12099**: Personality: [Very easygoing/Rather ill-tempered/Very patient chocobo/Quite sensitive/Rather enigmatic]
+- **12100**: Weather: Likes: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/ /Cloudy days] Dislikes: [Nothing/Rainy days/Thunderstorms/Windy days/Snowy days/Clear days/Sandstorms/Dark days/Auroras].
+- **12101**: Abilities: None
+- **12102**: Abilities: [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]
+- **12103**: Abilities: [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder] and [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]
+- **12104**: Which chocobo? [$1./$2./$3./$4./$5./Quit.]
+- **12105**: Please remember, I can only check the compatibility of your chocobo and another once a day (Earth time).
+- **12106**: Continue? [Yes./No.]
+- **12107**: These two chocobos are of the same gender. I cannot check their compatibility.
+- **12108**: If $0 and $1 were to mate...
+- **12109**: I hope $0 grows up soon.
+- **12110**: I hope they both grow up soon.
+- **12111**: I'm certain I told you that I can only check the compatibility of your chocobo and another once a day (Earth time). Please keep that in mind.
+- **12112**: I'm sorry, but your chocobo must step forth from the cozy refines of its egg before taking part in camp activities.
+- **12113**: I'm sorry, but your chocobo's current condition prohibits it from taking part in camp activities. Please come back when the problem is solved.
+- **12114**: I'm sorry, but it seems you haven't checked in on your chocobo for an extended period of time. Please visit the stables and speak with me again.
+- **12115**: I'm sorry, but your chocobo does not yet have a name. Please give it a good one and speak with me again.
+- **12116**: I'm sorry, but you haven't been taking care of your chocobo. Please attend to it and speak with me again.
 
 ## Events
 
@@ -347,22 +347,22 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=12024*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
     → "Greetings. I am a journeyman trainer from the VCS, and I have been sent to this town to promote knowledge exchange between chocobo owners."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12028*)
     → "We believe that the best way to promote interaction between owners is through interaction between chocobos."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=12029*)
     → "And after countless VCS conferences, we recently agreed on the establishment of a new program--"
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0024 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 10: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
+ 10: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=12030*)
     → "Kamp Kweh!"
  11: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 13: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12028*)
+ 13: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
     → "Breeders need only possess a chocobo to join. Please speak with me again if you are interested."
  14: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x004A [0x21] END_EVENT
@@ -406,28 +406,28 @@
 ```
   0: 0x004C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0051 [0x1C] WAIT(30* ticks)
-  2: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=12029*)
+  2: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "I can answer your questions regarding Kamp Kweh?"
   3: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0058 [0x24] CREATE_DIALOG(message_id=12030*, default_option=0*, option_flags=0*)
+  4: 0x0058 [0x24] CREATE_DIALOG(message_id=12033*, default_option=0*, option_flags=0*)
     → "What would you like to know? [What exactly is Kamp Kweh?/How do I sign up?/Are there any restrictions?/Nothing at all.]"
   5: 0x005F [0x25] WAIT_DIALOG_SELECT()
   6: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A0
   7: 0x0068 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  8: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+  8: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
     → "Kamp Kweh is a place where fellow breeders can bring their chocobos to interact with each other."
   9: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
+ 10: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=12035*)
     → "At the camp, owners can check the status of their companions' animals..."
  11: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
+ 12: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
     → "...as well as confirm breeding compatibility."
  13: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
+ 14: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
     → "However, please note that any results from these tests are merely estimates, and may not fully reflect the actual condition of an animal."
  15: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0087 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 17: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=12035*)
+ 17: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=12038*)
     → "Our wish is that through the various camp activities we offer, your chocobo will have the opportunity to improve its skills."
  18: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x009A [0x01] GOTO 0x0058
@@ -2816,10 +2816,10 @@ SUBROUTINE_0149:
 
 ```
   0: 0x014B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=12046*)
+  1: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=12049*)
     → "Welcome back. Have you come to enroll in Kamp Kweh?"
   2: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0154 [0x24] CREATE_DIALOG(message_id=12047*, default_option=0*, option_flags=0*)
+  3: 0x0154 [0x24] CREATE_DIALOG(message_id=12050*, default_option=0*, option_flags=0*)
     → "Enroll? [Yes./No.]"
   4: 0x015B [0x25] WAIT_DIALOG_SELECT()
   5: 0x015C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0498
@@ -2838,7 +2838,7 @@ SUBROUTINE_0149:
  18: 0x019A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  19: 0x019C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  20: 0x019E [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x01B2
- 21: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+ 21: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
  22: 0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x01AA [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2862,7 +2862,7 @@ SUBROUTINE_01E1:
  39: 0x01FB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  40: 0x01FD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  41: 0x01FF [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0213
- 42: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+ 42: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
  43: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x020B [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2879,7 +2879,7 @@ SUBROUTINE_01E1:
 
 SUBROUTINE_0242:
  55: 0x0242 [0x01] GOTO 0x024E
- 56: 0x0245 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+ 56: 0x0245 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
  57: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0249 [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2894,7 +2894,7 @@ SUBROUTINE_024E:
  65: 0x0270 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  66: 0x0272 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  67: 0x0274 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0288
- 68: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+ 68: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
  69: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0280 [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2911,7 +2911,7 @@ SUBROUTINE_024E:
 
 SUBROUTINE_02B7:
  81: 0x02B7 [0x01] GOTO 0x02C3
- 82: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+ 82: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
  83: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x02BE [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2926,7 +2926,7 @@ SUBROUTINE_02C3:
  91: 0x02E5 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  92: 0x02E7 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  93: 0x02E9 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x02FD
- 94: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+ 94: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
  95: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x02F5 [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2943,7 +2943,7 @@ SUBROUTINE_02C3:
 
 SUBROUTINE_032C:
 107: 0x032C [0x01] GOTO 0x0338
-108: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+108: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
 109: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0333 [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2958,7 +2958,7 @@ SUBROUTINE_0338:
 117: 0x035A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 118: 0x035C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 119: 0x035E [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0372
-120: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+120: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
 121: 0x0369 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x036A [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2975,7 +2975,7 @@ SUBROUTINE_0338:
 
 SUBROUTINE_03A1:
 133: 0x03A1 [0x01] GOTO 0x03AD
-134: 0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+134: 0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
 135: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x03A8 [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -2990,7 +2990,7 @@ SUBROUTINE_03AD:
 143: 0x03CF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 144: 0x03D1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 145: 0x03D3 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x03E7
-146: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+146: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
 147: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x03DF [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -3007,7 +3007,7 @@ SUBROUTINE_03AD:
 
 SUBROUTINE_0416:
 159: 0x0416 [0x01] GOTO 0x0422
-160: 0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+160: 0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
 161: 0x041C [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x041D [0x03] ExtData[1]->WorkLocal[1] = 0*
@@ -3016,50 +3016,50 @@ SUBROUTINE_0422:
 163: 0x0422 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x042D
 164: 0x042A [0x1A] CALL_SUBROUTINE(address=0x04A9)
 165: 0x042D [0x01] GOTO 0x0434
-166: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=12050*)
+166: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=12053*)
     → "None of the other members of your party possess chocobos able to participate in camp activities. Please confirm their conditions and speak with me again when everything is in order."
 167: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0434:
 168: 0x0434 [0x01] GOTO 0x0495
 169: 0x0437 [0x02] IF !(Work_Zone[2] == 6*) GOTO 0x0446
-170: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
+170: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=12116*)
     → "I'm sorry, but you haven't been taking care of your chocobo. Please attend to it and speak with me again."
 171: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x0443 [0x01] GOTO 0x0495
 173: 0x0446 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0455
-174: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+174: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=12112*)
     → "I'm sorry, but your chocobo must step forth from the cozy refines of its egg before taking part in camp activities."
 175: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x0452 [0x01] GOTO 0x0495
 177: 0x0455 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0464
-178: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
+178: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
     → "I'm sorry, but your chocobo's current condition prohibits it from taking part in camp activities. Please come back when the problem is solved."
 179: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x0461 [0x01] GOTO 0x0495
 181: 0x0464 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0473
-182: 0x046C [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
+182: 0x046C [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
     → "I'm sorry, but your chocobo's current condition prohibits it from taking part in camp activities. Please come back when the problem is solved."
 183: 0x046F [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x0470 [0x01] GOTO 0x0495
 185: 0x0473 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0482
-186: 0x047B [0x1D] PRINT_EVENT_MESSAGE(message_id=12111*)
+186: 0x047B [0x1D] PRINT_EVENT_MESSAGE(message_id=12114*)
     → "I'm sorry, but it seems you haven't checked in on your chocobo for an extended period of time. Please visit the stables and speak with me again."
 187: 0x047E [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x047F [0x01] GOTO 0x0495
 189: 0x0482 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x0491
-190: 0x048A [0x1D] PRINT_EVENT_MESSAGE(message_id=12112*)
+190: 0x048A [0x1D] PRINT_EVENT_MESSAGE(message_id=12115*)
     → "I'm sorry, but your chocobo does not yet have a name. Please give it a good one and speak with me again."
 191: 0x048D [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x048E [0x01] GOTO 0x0495
-193: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
+193: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=12054*)
     → "None of your party members are close enough to the stables to participate in camp activities. Please speak with me again when everyone has assembled."
 194: 0x0494 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0495:
 195: 0x0495 [0x01] GOTO 0x04A7
 196: 0x0498 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04A7
-197: 0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12048*)
+197: 0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12051*)
     → "I see. If you wish to participate in the future, feel free to contact me or one of my companions."
 198: 0x04A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x04A4 [0x01] GOTO 0x04A7
@@ -3355,12 +3355,12 @@ SUBROUTINE_0A76:
 449: 0x0A8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 450: 0x0A9B [0x1C] WAIT(60* ticks)
 451: 0x0A9E [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x0AAA
-452: 0x0AA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12052*)
+452: 0x0AA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12055*)
     → "Now that we have arrived, we can begin."
 453: 0x0AA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0AAA:
-454: 0x0AAA [0x24] CREATE_DIALOG(message_id=12053*, default_option=0*, option_flags=0*)
+454: 0x0AAA [0x24] CREATE_DIALOG(message_id=12056*, default_option=0*, option_flags=0*)
     → "What do you wish to do? [Call your chocobo./Let it play with others./Check the chocobos' vitals./Check mating compatibility./Nothing.]"
 455: 0x0AB1 [0x25] WAIT_DIALOG_SELECT()
 456: 0x0AB2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B74
@@ -3370,27 +3370,27 @@ SUBROUTINE_0AAA:
 460: 0x0AC3 [0x1A] CALL_SUBROUTINE(address=0x15DB)
 461: 0x0AC6 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0AD9
 462: 0x0ACE [0x03] Work_Zone[2] = 0*
-463: 0x0AD3 [0x48] [System] [12057*]:
+463: 0x0AD3 [0x48] [System] [12060*]:
     → "$0 seems relaxed."
 464: 0x0AD6 [0x01] GOTO 0x0B25
 465: 0x0AD9 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0AEC
 466: 0x0AE1 [0x03] Work_Zone[2] = 0*
-467: 0x0AE6 [0x48] [System] [12058*]:
+467: 0x0AE6 [0x48] [System] [12061*]:
     → "$0 seems excited."
 468: 0x0AE9 [0x01] GOTO 0x0B25
 469: 0x0AEC [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0AFF
 470: 0x0AF4 [0x03] Work_Zone[2] = 0*
-471: 0x0AF9 [0x48] [System] [12059*]:
+471: 0x0AF9 [0x48] [System] [12062*]:
     → "$0 seems pleased."
 472: 0x0AFC [0x01] GOTO 0x0B25
 473: 0x0AFF [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0B12
 474: 0x0B07 [0x03] Work_Zone[2] = 0*
-475: 0x0B0C [0x48] [System] [12060*]:
+475: 0x0B0C [0x48] [System] [12063*]:
     → "$0 seems distressed."
 476: 0x0B0F [0x01] GOTO 0x0B25
 477: 0x0B12 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0B25
 478: 0x0B1A [0x03] Work_Zone[2] = 0*
-479: 0x0B1F [0x48] [System] [12061*]:
+479: 0x0B1F [0x48] [System] [12064*]:
     → "$0 seems happy."
 480: 0x0B22 [0x01] GOTO 0x0B25
 
@@ -3438,7 +3438,7 @@ SUBROUTINE_0BCC:
 515: 0x0BD6 [0x03] Work_Zone[5] = 3*
 516: 0x0BDB [0x03] Work_Zone[6] = 4*
 517: 0x0BE0 [0x03] Work_Zone[7] = 5*
-518: 0x0BE5 [0x24] CREATE_DIALOG(message_id=12063*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+518: 0x0BE5 [0x24] CREATE_DIALOG(message_id=12066*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Which chocobo? [$1./$2./$3./$4./$5./Quit.]"
 519: 0x0BEC [0x25] WAIT_DIALOG_SELECT()
 520: 0x0BED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C33
@@ -3451,14 +3451,14 @@ SUBROUTINE_0BCC:
 527: 0x0C13 [0x1A] CALL_SUBROUTINE(address=0x8988)
 528: 0x0C16 [0x1A] CALL_SUBROUTINE(address=0x1714)
 529: 0x0C19 [0x01] GOTO 0x0C23
-530: 0x0C1C [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+530: 0x0C1C [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 531: 0x0C1F [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x0C20 [0x01] GOTO 0x0B7C
 
 SUBROUTINE_0C23:
 533: 0x0C23 [0x01] GOTO 0x0C2D
-534: 0x0C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+534: 0x0C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 535: 0x0C29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 536: 0x0C2A [0x01] GOTO 0x0B7C
@@ -3468,7 +3468,7 @@ SUBROUTINE_0C2D:
 
 SUBROUTINE_0C69:
 538: 0x0C69 [0x01] GOTO 0x0C73
-539: 0x0C6C [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+539: 0x0C6C [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 540: 0x0C6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 541: 0x0C70 [0x01] GOTO 0x0B7C
@@ -3478,7 +3478,7 @@ SUBROUTINE_0C73:
 
 SUBROUTINE_0CAF:
 543: 0x0CAF [0x01] GOTO 0x0CB9
-544: 0x0CB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+544: 0x0CB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 545: 0x0CB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 546: 0x0CB6 [0x01] GOTO 0x0B7C
@@ -3488,7 +3488,7 @@ SUBROUTINE_0CB9:
 
 SUBROUTINE_0CF5:
 548: 0x0CF5 [0x01] GOTO 0x0CFF
-549: 0x0CF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+549: 0x0CF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 550: 0x0CFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 551: 0x0CFC [0x01] GOTO 0x0B7C
@@ -3498,7 +3498,7 @@ SUBROUTINE_0CFF:
 
 SUBROUTINE_0D3B:
 553: 0x0D3B [0x01] GOTO 0x0D45
-554: 0x0D3E [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+554: 0x0D3E [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 555: 0x0D41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 556: 0x0D42 [0x01] GOTO 0x0B7C
@@ -3534,7 +3534,7 @@ SUBROUTINE_0DB4:
 578: 0x0DC3 [0x03] Work_Zone[5] = 3*
 579: 0x0DC8 [0x03] Work_Zone[6] = 4*
 580: 0x0DCD [0x03] Work_Zone[7] = 5*
-581: 0x0DD2 [0x24] CREATE_DIALOG(message_id=12071*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+581: 0x0DD2 [0x24] CREATE_DIALOG(message_id=12074*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Which chocobo? [$0./$1./$2./$3./$4./$5./Quit.]"
 582: 0x0DD9 [0x25] WAIT_DIALOG_SELECT()
 583: 0x0DDA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DF9
@@ -3547,7 +3547,7 @@ SUBROUTINE_0DB4:
 
 SUBROUTINE_0E2F:
 590: 0x0E2F [0x01] GOTO 0x0E39
-591: 0x0E32 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+591: 0x0E32 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 592: 0x0E35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x0E36 [0x01] GOTO 0x0D64
@@ -3557,7 +3557,7 @@ SUBROUTINE_0E39:
 
 SUBROUTINE_0E75:
 595: 0x0E75 [0x01] GOTO 0x0E7F
-596: 0x0E78 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+596: 0x0E78 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 597: 0x0E7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 598: 0x0E7C [0x01] GOTO 0x0D64
@@ -3567,7 +3567,7 @@ SUBROUTINE_0E7F:
 
 SUBROUTINE_0EBB:
 600: 0x0EBB [0x01] GOTO 0x0EC5
-601: 0x0EBE [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+601: 0x0EBE [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 602: 0x0EC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 603: 0x0EC2 [0x01] GOTO 0x0D64
@@ -3577,7 +3577,7 @@ SUBROUTINE_0EC5:
 
 SUBROUTINE_0F01:
 605: 0x0F01 [0x01] GOTO 0x0F0B
-606: 0x0F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+606: 0x0F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 607: 0x0F07 [0x23] WAIT_FOR_DIALOG_INTERACTION
 608: 0x0F08 [0x01] GOTO 0x0D64
@@ -3587,7 +3587,7 @@ SUBROUTINE_0F0B:
 
 SUBROUTINE_0F47:
 610: 0x0F47 [0x01] GOTO 0x0F51
-611: 0x0F4A [0x1D] PRINT_EVENT_MESSAGE(message_id=12064*)
+611: 0x0F4A [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
     → "Something unexpected has arisen... I'm sorry, but I cannot allow your chocobos to play together."
 612: 0x0F4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 613: 0x0F4E [0x01] GOTO 0x0D64
@@ -3622,14 +3622,14 @@ SUBROUTINE_0FC0:
 634: 0x0FCA [0x03] Work_Zone[5] = 3*
 635: 0x0FCF [0x03] Work_Zone[6] = 4*
 636: 0x0FD4 [0x03] Work_Zone[7] = 5*
-637: 0x0FD9 [0x24] CREATE_DIALOG(message_id=12101*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+637: 0x0FD9 [0x24] CREATE_DIALOG(message_id=12104*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Which chocobo? [$1./$2./$3./$4./$5./Quit.]"
 638: 0x0FE0 [0x25] WAIT_DIALOG_SELECT()
 639: 0x0FE1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1081
-640: 0x0FE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+640: 0x0FE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "Please remember, I can only check the compatibility of your chocobo and another once a day (Earth time)."
 641: 0x0FEC [0x23] WAIT_FOR_DIALOG_INTERACTION
-642: 0x0FED [0x24] CREATE_DIALOG(message_id=12103*, default_option=1*, option_flags=0*)
+642: 0x0FED [0x24] CREATE_DIALOG(message_id=12106*, default_option=1*, option_flags=0*)
     → "Continue? [Yes./No.]"
 643: 0x0FF4 [0x25] WAIT_DIALOG_SELECT()
 644: 0x0FF5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1070
@@ -3639,7 +3639,7 @@ SUBROUTINE_0FC0:
 648: 0x100D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 649: 0x100F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 650: 0x1011 [0x02] IF !(Work_Zone[2] == Work_Zone[3]) GOTO 0x1023
-651: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+651: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "These two chocobos are of the same gender. I cannot check their compatibility."
 652: 0x101C [0x23] WAIT_FOR_DIALOG_INTERACTION
 653: 0x101D [0x01] GOTO 0x0F70
@@ -3647,10 +3647,10 @@ SUBROUTINE_0FC0:
 SUBROUTINE_107E:
 654: 0x107E [0x01] GOTO 0x130F
 655: 0x1081 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1121
-656: 0x1089 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+656: 0x1089 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "Please remember, I can only check the compatibility of your chocobo and another once a day (Earth time)."
 657: 0x108C [0x23] WAIT_FOR_DIALOG_INTERACTION
-658: 0x108D [0x24] CREATE_DIALOG(message_id=12103*, default_option=1*, option_flags=0*)
+658: 0x108D [0x24] CREATE_DIALOG(message_id=12106*, default_option=1*, option_flags=0*)
     → "Continue? [Yes./No.]"
 659: 0x1094 [0x25] WAIT_DIALOG_SELECT()
 660: 0x1095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1110
@@ -3660,7 +3660,7 @@ SUBROUTINE_107E:
 664: 0x10AD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 665: 0x10AF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 666: 0x10B1 [0x02] IF !(Work_Zone[2] == Work_Zone[3]) GOTO 0x10C3
-667: 0x10B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+667: 0x10B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "These two chocobos are of the same gender. I cannot check their compatibility."
 668: 0x10BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 669: 0x10BD [0x01] GOTO 0x0F70
@@ -3668,10 +3668,10 @@ SUBROUTINE_107E:
 SUBROUTINE_111E:
 670: 0x111E [0x01] GOTO 0x130F
 671: 0x1121 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x11C1
-672: 0x1129 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+672: 0x1129 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "Please remember, I can only check the compatibility of your chocobo and another once a day (Earth time)."
 673: 0x112C [0x23] WAIT_FOR_DIALOG_INTERACTION
-674: 0x112D [0x24] CREATE_DIALOG(message_id=12103*, default_option=1*, option_flags=0*)
+674: 0x112D [0x24] CREATE_DIALOG(message_id=12106*, default_option=1*, option_flags=0*)
     → "Continue? [Yes./No.]"
 675: 0x1134 [0x25] WAIT_DIALOG_SELECT()
 676: 0x1135 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11B0
@@ -3681,7 +3681,7 @@ SUBROUTINE_111E:
 680: 0x114D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 681: 0x114F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 682: 0x1151 [0x02] IF !(Work_Zone[2] == Work_Zone[3]) GOTO 0x1163
-683: 0x1159 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+683: 0x1159 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "These two chocobos are of the same gender. I cannot check their compatibility."
 684: 0x115C [0x23] WAIT_FOR_DIALOG_INTERACTION
 685: 0x115D [0x01] GOTO 0x0F70
@@ -3689,10 +3689,10 @@ SUBROUTINE_111E:
 SUBROUTINE_11BE:
 686: 0x11BE [0x01] GOTO 0x130F
 687: 0x11C1 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1261
-688: 0x11C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+688: 0x11C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "Please remember, I can only check the compatibility of your chocobo and another once a day (Earth time)."
 689: 0x11CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-690: 0x11CD [0x24] CREATE_DIALOG(message_id=12103*, default_option=1*, option_flags=0*)
+690: 0x11CD [0x24] CREATE_DIALOG(message_id=12106*, default_option=1*, option_flags=0*)
     → "Continue? [Yes./No.]"
 691: 0x11D4 [0x25] WAIT_DIALOG_SELECT()
 692: 0x11D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1250
@@ -3702,7 +3702,7 @@ SUBROUTINE_11BE:
 696: 0x11ED [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 697: 0x11EF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 698: 0x11F1 [0x02] IF !(Work_Zone[2] == Work_Zone[3]) GOTO 0x1203
-699: 0x11F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+699: 0x11F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "These two chocobos are of the same gender. I cannot check their compatibility."
 700: 0x11FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 701: 0x11FD [0x01] GOTO 0x0F70
@@ -3710,10 +3710,10 @@ SUBROUTINE_11BE:
 SUBROUTINE_125E:
 702: 0x125E [0x01] GOTO 0x130F
 703: 0x1261 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1301
-704: 0x1269 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+704: 0x1269 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "Please remember, I can only check the compatibility of your chocobo and another once a day (Earth time)."
 705: 0x126C [0x23] WAIT_FOR_DIALOG_INTERACTION
-706: 0x126D [0x24] CREATE_DIALOG(message_id=12103*, default_option=1*, option_flags=0*)
+706: 0x126D [0x24] CREATE_DIALOG(message_id=12106*, default_option=1*, option_flags=0*)
     → "Continue? [Yes./No.]"
 707: 0x1274 [0x25] WAIT_DIALOG_SELECT()
 708: 0x1275 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12F0
@@ -3723,7 +3723,7 @@ SUBROUTINE_125E:
 712: 0x128D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 713: 0x128F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 714: 0x1291 [0x02] IF !(Work_Zone[2] == Work_Zone[3]) GOTO 0x12A3
-715: 0x1299 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+715: 0x1299 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "These two chocobos are of the same gender. I cannot check their compatibility."
 716: 0x129C [0x23] WAIT_FOR_DIALOG_INTERACTION
 717: 0x129D [0x01] GOTO 0x0F70
@@ -3780,145 +3780,145 @@ SUBROUTINE_1312:
 
 SUBROUTINE_140A:
 762: 0x140A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-763: 0x140F [0x1D] PRINT_EVENT_MESSAGE(message_id=12072*)
+763: 0x140F [0x1D] PRINT_EVENT_MESSAGE(message_id=12075*)
     → "The vitals of $0? Let me see..."
 764: 0x1412 [0x23] WAIT_FOR_DIALOG_INTERACTION
-765: 0x1413 [0x1D] PRINT_EVENT_MESSAGE(message_id=12073*)
+765: 0x1413 [0x1D] PRINT_EVENT_MESSAGE(message_id=12076*)
     → "Owner: %3"
 766: 0x1416 [0x23] WAIT_FOR_DIALOG_INTERACTION
 767: 0x1417 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-768: 0x141C [0x1D] PRINT_EVENT_MESSAGE(message_id=12074*)
+768: 0x141C [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
     → "Home Stable: [ /San d'Oria/Bastok/Windurst]"
 769: 0x141F [0x23] WAIT_FOR_DIALOG_INTERACTION
-770: 0x1420 [0x1D] PRINT_EVENT_MESSAGE(message_id=12075*)
+770: 0x1420 [0x1D] PRINT_EVENT_MESSAGE(message_id=12078*)
     → "Days Raised: $6"
 771: 0x1423 [0x23] WAIT_FOR_DIALOG_INTERACTION
 772: 0x1424 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-773: 0x1429 [0x1D] PRINT_EVENT_MESSAGE(message_id=12076*)
+773: 0x1429 [0x1D] PRINT_EVENT_MESSAGE(message_id=12079*)
     → "Gender: $0[Male/Female]"
 774: 0x142C [0x23] WAIT_FOR_DIALOG_INTERACTION
 775: 0x142D [0x03] Work_Zone_1700[2] = Work_Zone[3]
 776: 0x1432 [0x41] Work_Zone[2] = Work_Zone_1700[2] (bits 0*-7*)
-777: 0x143B [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
+777: 0x143B [0x1D] PRINT_EVENT_MESSAGE(message_id=12080*)
     → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 778: 0x143E [0x23] WAIT_FOR_DIALOG_INTERACTION
 779: 0x143F [0x41] Work_Zone[2] = Work_Zone_1700[2] (bits 8*-15*)
-780: 0x1448 [0x1D] PRINT_EVENT_MESSAGE(message_id=12078*)
+780: 0x1448 [0x1D] PRINT_EVENT_MESSAGE(message_id=12081*)
     → "Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 781: 0x144B [0x23] WAIT_FOR_DIALOG_INTERACTION
 782: 0x144C [0x41] Work_Zone[2] = Work_Zone_1700[2] (bits 16*-23*)
-783: 0x1455 [0x1D] PRINT_EVENT_MESSAGE(message_id=12079*)
+783: 0x1455 [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
     → "Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 784: 0x1458 [0x23] WAIT_FOR_DIALOG_INTERACTION
 785: 0x1459 [0x41] Work_Zone[2] = Work_Zone_1700[2] (bits 24*-31*)
-786: 0x1462 [0x1D] PRINT_EVENT_MESSAGE(message_id=12080*)
+786: 0x1462 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
     → "Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 787: 0x1465 [0x23] WAIT_FOR_DIALOG_INTERACTION
 788: 0x1466 [0x03] Work_Zone_1700[2] = Work_Zone[4]
 789: 0x146B [0x41] Work_Zone[3] = Work_Zone_1700[2] (bits 0*-7*)
 790: 0x1474 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-791: 0x1479 [0x1D] PRINT_EVENT_MESSAGE(message_id=12081*)
+791: 0x1479 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
     → "Affection towards %3: [None/Able to endure company/Slightly enjoys company/Likes/Likes pretty well/Likes a lot/Wants to be with all the time/Regards as parent]."
 792: 0x147C [0x23] WAIT_FOR_DIALOG_INTERACTION
 793: 0x147D [0x41] Work_Zone[3] = Work_Zone_1700[2] (bits 16*-23*)
 794: 0x1486 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-795: 0x148B [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
+795: 0x148B [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
     → "Nourishment: [Starving/Quite hungry/A little hungry/Neither hungry nor full/Neither hungry nor full/Almost full/Quite full/Completely full]"
 796: 0x148E [0x23] WAIT_FOR_DIALOG_INTERACTION
 797: 0x148F [0x03] Work_Zone_1700[2] = Work_Zone[6]
 798: 0x1494 [0x41] Work_Zone[2] = Work_Zone_1700[2] (bits 0*-13*)
 799: 0x149D [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x14AE
 800: 0x14A5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-801: 0x14AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
+801: 0x14AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
     → "Current Health Condition: Stable"
 802: 0x14AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 803: 0x14AE [0x3E] IF !(Work_Zone_1700[2] bit 0*) GOTO 0x14BE
 804: 0x14B5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-805: 0x14BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
+805: 0x14BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
     → "Other Health Conditions: Slightly injured leg due to overuse"
 806: 0x14BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 807: 0x14BE [0x3E] IF !(Work_Zone_1700[2] bit 1*) GOTO 0x14CE
 808: 0x14C5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-809: 0x14CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
+809: 0x14CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
     → "Other Health Conditions: Slight cold"
 810: 0x14CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 811: 0x14CE [0x3E] IF !(Work_Zone_1700[2] bit 2*) GOTO 0x14DE
 812: 0x14D5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-813: 0x14DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
+813: 0x14DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
     → "Other Health Conditions: Upset stomach due to overfeeding"
 814: 0x14DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 815: 0x14DE [0x3E] IF !(Work_Zone_1700[2] bit 3*) GOTO 0x14EE
 816: 0x14E5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-817: 0x14EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
+817: 0x14EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
     → "Other Health Conditions: Depression due to lack of affection"
 818: 0x14ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 819: 0x14EE [0x3E] IF !(Work_Zone_1700[2] bit 4*) GOTO 0x14FE
 820: 0x14F5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-821: 0x14FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
+821: 0x14FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
     → "Other Health Conditions: Is receiving sufficient attention"
 822: 0x14FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 823: 0x14FE [0x3E] IF !(Work_Zone_1700[2] bit 6*) GOTO 0x150E
 824: 0x1505 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-825: 0x150A [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
+825: 0x150A [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
     → "Other Health Conditions: Serious illness"
 826: 0x150D [0x23] WAIT_FOR_DIALOG_INTERACTION
 827: 0x150E [0x3E] IF !(Work_Zone_1700[2] bit 7*) GOTO 0x151E
 828: 0x1515 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-829: 0x151A [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
+829: 0x151A [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
     → "Other Health Conditions: Bored and restless"
 830: 0x151D [0x23] WAIT_FOR_DIALOG_INTERACTION
 831: 0x151E [0x3E] IF !(Work_Zone_1700[2] bit 8*) GOTO 0x152E
 832: 0x1525 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-833: 0x152A [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
+833: 0x152A [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
     → "Other Conditions: Spoiled"
 834: 0x152D [0x23] WAIT_FOR_DIALOG_INTERACTION
 835: 0x152E [0x3E] IF !(Work_Zone_1700[2] bit 10*) GOTO 0x153E
 836: 0x1535 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-837: 0x153A [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
+837: 0x153A [0x1D] PRINT_EVENT_MESSAGE(message_id=12095*)
     → "Other Conditions: In love"
 838: 0x153D [0x23] WAIT_FOR_DIALOG_INTERACTION
 839: 0x153E [0x3E] IF !(Work_Zone_1700[2] bit 11*) GOTO 0x154E
 840: 0x1545 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-841: 0x154A [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
+841: 0x154A [0x1D] PRINT_EVENT_MESSAGE(message_id=12096*)
     → "Other Health Conditions: Cries all night"
 842: 0x154D [0x23] WAIT_FOR_DIALOG_INTERACTION
 843: 0x154E [0x3E] IF !(Work_Zone_1700[2] bit 12*) GOTO 0x155E
 844: 0x1555 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-845: 0x155A [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
+845: 0x155A [0x1D] PRINT_EVENT_MESSAGE(message_id=12097*)
     → "Other Health Conditions: Bursting with vitality"
 846: 0x155D [0x23] WAIT_FOR_DIALOG_INTERACTION
 847: 0x155E [0x3E] IF !(Work_Zone_1700[2] bit 13*) GOTO 0x156E
 848: 0x1565 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-849: 0x156A [0x1D] PRINT_EVENT_MESSAGE(message_id=12095*)
+849: 0x156A [0x1D] PRINT_EVENT_MESSAGE(message_id=12098*)
     → "Other Health Conditions: Sparkling with intelligence"
 850: 0x156D [0x23] WAIT_FOR_DIALOG_INTERACTION
 851: 0x156E [0x03] Work_Zone_1700[2] = Work_Zone[5]
 852: 0x1573 [0x41] Work_Zone[3] = Work_Zone_1700[2] (bits 0*-3*)
 853: 0x157C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-854: 0x1581 [0x1D] PRINT_EVENT_MESSAGE(message_id=12096*)
+854: 0x1581 [0x1D] PRINT_EVENT_MESSAGE(message_id=12099*)
     → "Personality: [Very easygoing/Rather ill-tempered/Very patient chocobo/Quite sensitive/Rather enigmatic]"
 855: 0x1584 [0x23] WAIT_FOR_DIALOG_INTERACTION
 856: 0x1585 [0x41] Work_Zone[3] = Work_Zone_1700[2] (bits 4*-7*)
 857: 0x158E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-858: 0x1593 [0x1D] PRINT_EVENT_MESSAGE(message_id=12097*)
+858: 0x1593 [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
     → "Weather: Likes: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/ /Cloudy days] Dislikes: [Nothing/Rainy days/Thunderstorms/Windy days/Snowy days/Clear days/Sandstorms/Dark days/Auroras]."
 859: 0x1596 [0x23] WAIT_FOR_DIALOG_INTERACTION
 860: 0x1597 [0x41] Work_Zone[3] = Work_Zone_1700[2] (bits 8*-11*)
 861: 0x15A0 [0x41] Work_Zone[4] = Work_Zone_1700[2] (bits 12*-15*)
 862: 0x15A9 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x15BD
 863: 0x15B1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-864: 0x15B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12098*)
+864: 0x15B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
     → "Abilities: None"
 865: 0x15B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 866: 0x15BA [0x01] GOTO 0x15DA
 867: 0x15BD [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x15D1
 868: 0x15C5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-869: 0x15CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12099*)
+869: 0x15CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
     → "Abilities: [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]"
 870: 0x15CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 871: 0x15CE [0x01] GOTO 0x15DA
 872: 0x15D1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-873: 0x15D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
+873: 0x15D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12103*)
     → "Abilities: [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder] and [--/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]"
 874: 0x15D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3935,7 +3935,7 @@ SUBROUTINE_15DB:
 882: 0x1601 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hi07" with entities [Unnamed NPC (ID: 17764420/0x010F1044), Unnamed NPC (ID: 17764420/0x010F1044)], work=872*
 883: 0x1610 [0x1C] WAIT(5* ticks)
 884: 0x1613 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "1005" with entities [Unnamed NPC (ID: 17764420/0x010F1044), Unnamed NPC (ID: 17764420/0x010F1044)], work=224*
-885: 0x1622 [0x2B] Unnamed NPC (ID: 17764420/0x010F1044) [12054*]:
+885: 0x1622 [0x2B] Unnamed NPC (ID: 17764420/0x010F1044) [12057*]:
     → "Cheep!"
 886: 0x1629 [0x23] WAIT_FOR_DIALOG_INTERACTION
 887: 0x162A [0x01] GOTO 0x16C3
@@ -3948,7 +3948,7 @@ SUBROUTINE_15DB:
 894: 0x1653 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kue0" with entities [Unnamed NPC (ID: 17764420/0x010F1044), Unnamed NPC (ID: 17764420/0x010F1044)], work=875*
 895: 0x1662 [0x1C] WAIT(60* ticks)
 896: 0x1665 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "1009" with entities [Unnamed NPC (ID: 17764420/0x010F1044), Unnamed NPC (ID: 17764420/0x010F1044)], work=224*
-897: 0x1674 [0x2B] Unnamed NPC (ID: 17764420/0x010F1044) [12055*]:
+897: 0x1674 [0x2B] Unnamed NPC (ID: 17764420/0x010F1044) [12058*]:
     → "Kwee!"
 898: 0x167B [0x23] WAIT_FOR_DIALOG_INTERACTION
 899: 0x167C [0x01] GOTO 0x16C3
@@ -3959,7 +3959,7 @@ SUBROUTINE_15DB:
 904: 0x1696 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17764426/0x010F104A), tag_num=0x33)
 905: 0x169D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "joy0" with entities [Unnamed NPC (ID: 17764426/0x010F104A), Unnamed NPC (ID: 17764426/0x010F104A)], work=222*
 906: 0x16AC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "1011" with entities [Unnamed NPC (ID: 17764426/0x010F104A), Unnamed NPC (ID: 17764426/0x010F104A)], work=224*
-907: 0x16BB [0x2B] Unnamed NPC (ID: 17764426/0x010F104A) [12056*]:
+907: 0x16BB [0x2B] Unnamed NPC (ID: 17764426/0x010F104A) [12059*]:
     → "Kweh!"
 908: 0x16C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3978,7 +3978,7 @@ SUBROUTINE_16C4:
 SUBROUTINE_1707:
 917: 0x1707 [0x1C] WAIT(60* ticks)
 918: 0x170A [0x03] Work_Zone[2] = 0*
-919: 0x170F [0x48] [System] [12062*]:
+919: 0x170F [0x48] [System] [12065*]:
     → "$0 looks like it wants to play with you as well."
 920: 0x1712 [0x23] WAIT_FOR_DIALOG_INTERACTION
 921: 0x1713 [0x1B] RETURN
@@ -4231,7 +4231,7 @@ SUBROUTINE_1BCD:
 1132: 0x1C15 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
 
 SUBROUTINE_1C1A:
-1133: 0x1C1A [0x1D] PRINT_EVENT_MESSAGE(message_id=12066*)
+1133: 0x1C1A [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
     → "The elder of the two seems to be treating the other as a younger $0[brother/sister]."
 1134: 0x1C1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1135: 0x1C1E [0x02] IF !(ExtData[1]->WorkLocal[20] == 0*) GOTO 0x1C51
@@ -4885,7 +4885,7 @@ SUBROUTINE_2EC2:
 1735: 0x2EE5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
 
 SUBROUTINE_2EEA:
-1736: 0x2EEA [0x1D] PRINT_EVENT_MESSAGE(message_id=12066*)
+1736: 0x2EEA [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
     → "The elder of the two seems to be treating the other as a younger $0[brother/sister]."
 1737: 0x2EED [0x23] WAIT_FOR_DIALOG_INTERACTION
 1738: 0x2EEE [0x02] IF !(ExtData[1]->WorkLocal[20] == 0*) GOTO 0x2EF9
@@ -5276,7 +5276,7 @@ SUBROUTINE_386D:
 2091: 0x388D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
 
 SUBROUTINE_3892:
-2092: 0x3892 [0x1D] PRINT_EVENT_MESSAGE(message_id=12066*)
+2092: 0x3892 [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
     → "The elder of the two seems to be treating the other as a younger $0[brother/sister]."
 2093: 0x3895 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2094: 0x3896 [0x02] IF !(ExtData[1]->WorkLocal[20] == 0*) GOTO 0x391E
@@ -5745,7 +5745,7 @@ SUBROUTINE_4450:
 2527: 0x4450 [0x01] GOTO 0x4453
 
 SUBROUTINE_4453:
-2528: 0x4453 [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
+2528: 0x4453 [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
     → "The two seem to be getting along just fine."
 2529: 0x4456 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2530: 0x4457 [0x02] IF !(ExtData[1]->WorkLocal[20] == 0*) GOTO 0x4462
@@ -6102,7 +6102,7 @@ SUBROUTINE_502C:
 2861: 0x502C [0x1C] WAIT(240* ticks)
 
 SUBROUTINE_502F:
-2862: 0x502F [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
+2862: 0x502F [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
     → "The two seem to be getting along just fine."
 2863: 0x5032 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2864: 0x5033 [0x02] IF !(ExtData[1]->WorkLocal[20] == 0*) GOTO 0x503E
@@ -6368,7 +6368,7 @@ SUBROUTINE_575A:
 
 SUBROUTINE_57CD:
 3112: 0x57CD [0x1C] WAIT(240* ticks)
-3113: 0x57D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12065*)
+3113: 0x57D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
     → "The two seem to be getting along just fine."
 3114: 0x57D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3115: 0x57D4 [0x02] IF !(ExtData[1]->WorkLocal[20] == 0*) GOTO 0x57DF
@@ -6505,26 +6505,26 @@ SUBROUTINE_5AFE:
 3214: 0x5AFE [0x1C] WAIT(240* ticks)
 3215: 0x5B01 [0x1A] CALL_SUBROUTINE(address=0x8A31)
 3216: 0x5B04 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x5B13
-3217: 0x5B0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12067*)
+3217: 0x5B0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12070*)
     → "Your chocobo's strength has slightly improved."
 3218: 0x5B0F [0x23] WAIT_FOR_DIALOG_INTERACTION
 3219: 0x5B10 [0x01] GOTO 0x5B44
 3220: 0x5B13 [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x5B22
-3221: 0x5B1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12068*)
+3221: 0x5B1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12071*)
     → "Your chocobo has become slightly more patient."
 3222: 0x5B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 3223: 0x5B1F [0x01] GOTO 0x5B44
 3224: 0x5B22 [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x5B31
-3225: 0x5B2A [0x1D] PRINT_EVENT_MESSAGE(message_id=12069*)
+3225: 0x5B2A [0x1D] PRINT_EVENT_MESSAGE(message_id=12072*)
     → "Your chocobo has become slightly more intelligent."
 3226: 0x5B2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 3227: 0x5B2E [0x01] GOTO 0x5B44
 3228: 0x5B31 [0x02] IF !(Work_Zone[5] == 4*) GOTO 0x5B40
-3229: 0x5B39 [0x1D] PRINT_EVENT_MESSAGE(message_id=12070*)
+3229: 0x5B39 [0x1D] PRINT_EVENT_MESSAGE(message_id=12073*)
     → "Your chocobo has become slightly more receptive."
 3230: 0x5B3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 3231: 0x5B3D [0x01] GOTO 0x5B44
-3232: 0x5B40 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+3232: 0x5B40 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 3233: 0x5B43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -6912,7 +6912,7 @@ SUBROUTINE_6553:
 3568: 0x6567 [0x1C] WAIT(60* ticks)
 3569: 0x656A [0x03] Work_Zone[2] = 0*
 3570: 0x656F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
-3571: 0x6574 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
+3571: 0x6574 [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
     → "If $0 and $1 were to mate..."
 3572: 0x6577 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3573: 0x6578 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -6963,7 +6963,7 @@ SUBROUTINE_65E4:
 3616: 0x66F8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3617: 0x6707 [0x1C] WAIT(120* ticks)
 3618: 0x670A [0x03] Work_Zone[2] = 1*
-3619: 0x670F [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3619: 0x670F [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3620: 0x6712 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3621: 0x6713 [0x01] GOTO 0x67BC
@@ -6979,7 +6979,7 @@ SUBROUTINE_65E4:
 3631: 0x6767 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3632: 0x6776 [0x1C] WAIT(120* ticks)
 3633: 0x6779 [0x03] Work_Zone[2] = 1*
-3634: 0x677E [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3634: 0x677E [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3635: 0x6781 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3636: 0x6782 [0x01] GOTO 0x67BC
@@ -7004,7 +7004,7 @@ SUBROUTINE_67BC:
 3653: 0x6818 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3654: 0x6827 [0x1C] WAIT(120* ticks)
 3655: 0x682A [0x03] Work_Zone[2] = 2*
-3656: 0x682F [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3656: 0x682F [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3657: 0x6832 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3658: 0x6833 [0x01] GOTO 0x68DC
@@ -7020,7 +7020,7 @@ SUBROUTINE_67BC:
 3668: 0x6887 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3669: 0x6896 [0x1C] WAIT(120* ticks)
 3670: 0x6899 [0x03] Work_Zone[2] = 2*
-3671: 0x689E [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3671: 0x689E [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3672: 0x68A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3673: 0x68A2 [0x01] GOTO 0x68DC
@@ -7045,7 +7045,7 @@ SUBROUTINE_68DC:
 3690: 0x6938 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3691: 0x6947 [0x1C] WAIT(120* ticks)
 3692: 0x694A [0x03] Work_Zone[2] = 3*
-3693: 0x694F [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3693: 0x694F [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3694: 0x6952 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3695: 0x6953 [0x01] GOTO 0x69FC
@@ -7061,7 +7061,7 @@ SUBROUTINE_68DC:
 3705: 0x69A7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3706: 0x69B6 [0x1C] WAIT(120* ticks)
 3707: 0x69B9 [0x03] Work_Zone[2] = 3*
-3708: 0x69BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3708: 0x69BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3709: 0x69C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3710: 0x69C2 [0x01] GOTO 0x69FC
@@ -7086,7 +7086,7 @@ SUBROUTINE_69FC:
 3727: 0x6A58 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3728: 0x6A67 [0x1C] WAIT(120* ticks)
 3729: 0x6A6A [0x03] Work_Zone[2] = 4*
-3730: 0x6A6F [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3730: 0x6A6F [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3731: 0x6A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3732: 0x6A73 [0x01] GOTO 0x6B1C
@@ -7102,7 +7102,7 @@ SUBROUTINE_69FC:
 3742: 0x6AC7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3743: 0x6AD6 [0x1C] WAIT(120* ticks)
 3744: 0x6AD9 [0x03] Work_Zone[2] = 4*
-3745: 0x6ADE [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3745: 0x6ADE [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3746: 0x6AE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3747: 0x6AE2 [0x01] GOTO 0x6B1C
@@ -7127,7 +7127,7 @@ SUBROUTINE_6B1C:
 3764: 0x6B78 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3765: 0x6B87 [0x1C] WAIT(120* ticks)
 3766: 0x6B8A [0x03] Work_Zone[2] = 5*
-3767: 0x6B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3767: 0x6B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3768: 0x6B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3769: 0x6B93 [0x01] GOTO 0x6C3C
@@ -7143,7 +7143,7 @@ SUBROUTINE_6B1C:
 3779: 0x6BE7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 3780: 0x6BF6 [0x1C] WAIT(120* ticks)
 3781: 0x6BF9 [0x03] Work_Zone[2] = 5*
-3782: 0x6BFE [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+3782: 0x6BFE [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 3783: 0x6C01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3784: 0x6C02 [0x01] GOTO 0x6C3C
@@ -7620,7 +7620,7 @@ SUBROUTINE_7448:
 4183: 0x7487 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4184: 0x7498 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4185: 0x74A7 [0x1C] WAIT(120* ticks)
-4186: 0x74AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4186: 0x74AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4187: 0x74AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 4188: 0x74AE [0x01] GOTO 0x757D
@@ -7634,7 +7634,7 @@ SUBROUTINE_7448:
 4196: 0x74E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4197: 0x74F9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4198: 0x7508 [0x1C] WAIT(120* ticks)
-4199: 0x750B [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4199: 0x750B [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4200: 0x750E [0x23] WAIT_FOR_DIALOG_INTERACTION
 4201: 0x750F [0x01] GOTO 0x757D
@@ -7651,7 +7651,7 @@ SUBROUTINE_7448:
 4212: 0x7562 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4213: 0x7571 [0x1C] WAIT(120* ticks)
 4214: 0x7574 [0x03] Work_Zone[2] = 0*
-4215: 0x7579 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4215: 0x7579 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4216: 0x757C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -7668,7 +7668,7 @@ SUBROUTINE_757D:
 4226: 0x75BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4227: 0x75D0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4228: 0x75DF [0x1C] WAIT(120* ticks)
-4229: 0x75E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4229: 0x75E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4230: 0x75E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4231: 0x75E6 [0x01] GOTO 0x76B5
@@ -7682,7 +7682,7 @@ SUBROUTINE_757D:
 4239: 0x7620 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4240: 0x7631 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4241: 0x7640 [0x1C] WAIT(120* ticks)
-4242: 0x7643 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4242: 0x7643 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4243: 0x7646 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4244: 0x7647 [0x01] GOTO 0x76B5
@@ -7699,7 +7699,7 @@ SUBROUTINE_757D:
 4255: 0x769A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4256: 0x76A9 [0x1C] WAIT(120* ticks)
 4257: 0x76AC [0x03] Work_Zone[2] = 0*
-4258: 0x76B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4258: 0x76B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4259: 0x76B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -7716,7 +7716,7 @@ SUBROUTINE_76B5:
 4269: 0x76F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4270: 0x7708 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4271: 0x7717 [0x1C] WAIT(120* ticks)
-4272: 0x771A [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4272: 0x771A [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4273: 0x771D [0x23] WAIT_FOR_DIALOG_INTERACTION
 4274: 0x771E [0x01] GOTO 0x77ED
@@ -7730,7 +7730,7 @@ SUBROUTINE_76B5:
 4282: 0x7758 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4283: 0x7769 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4284: 0x7778 [0x1C] WAIT(120* ticks)
-4285: 0x777B [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4285: 0x777B [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4286: 0x777E [0x23] WAIT_FOR_DIALOG_INTERACTION
 4287: 0x777F [0x01] GOTO 0x77ED
@@ -7747,7 +7747,7 @@ SUBROUTINE_76B5:
 4298: 0x77D2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4299: 0x77E1 [0x1C] WAIT(120* ticks)
 4300: 0x77E4 [0x03] Work_Zone[2] = 0*
-4301: 0x77E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4301: 0x77E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4302: 0x77EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -7764,7 +7764,7 @@ SUBROUTINE_77ED:
 4312: 0x782F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4313: 0x7840 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4314: 0x784F [0x1C] WAIT(120* ticks)
-4315: 0x7852 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4315: 0x7852 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4316: 0x7855 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4317: 0x7856 [0x01] GOTO 0x7925
@@ -7778,7 +7778,7 @@ SUBROUTINE_77ED:
 4325: 0x7890 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4326: 0x78A1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4327: 0x78B0 [0x1C] WAIT(120* ticks)
-4328: 0x78B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4328: 0x78B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4329: 0x78B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4330: 0x78B7 [0x01] GOTO 0x7925
@@ -7795,7 +7795,7 @@ SUBROUTINE_77ED:
 4341: 0x790A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4342: 0x7919 [0x1C] WAIT(120* ticks)
 4343: 0x791C [0x03] Work_Zone[2] = 0*
-4344: 0x7921 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4344: 0x7921 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4345: 0x7924 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -7812,7 +7812,7 @@ SUBROUTINE_7925:
 4355: 0x7967 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4356: 0x7978 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4357: 0x7987 [0x1C] WAIT(120* ticks)
-4358: 0x798A [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4358: 0x798A [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4359: 0x798D [0x23] WAIT_FOR_DIALOG_INTERACTION
 4360: 0x798E [0x01] GOTO 0x7A5D
@@ -7826,7 +7826,7 @@ SUBROUTINE_7925:
 4368: 0x79C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4369: 0x79D9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4370: 0x79E8 [0x1C] WAIT(120* ticks)
-4371: 0x79EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4371: 0x79EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4372: 0x79EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 4373: 0x79EF [0x01] GOTO 0x7A5D
@@ -7843,7 +7843,7 @@ SUBROUTINE_7925:
 4384: 0x7A42 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4385: 0x7A51 [0x1C] WAIT(120* ticks)
 4386: 0x7A54 [0x03] Work_Zone[2] = 0*
-4387: 0x7A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4387: 0x7A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4388: 0x7A5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -7865,7 +7865,7 @@ SUBROUTINE_7A61:
 4399: 0x7AA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4400: 0x7AB1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4401: 0x7AC0 [0x1C] WAIT(120* ticks)
-4402: 0x7AC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4402: 0x7AC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4403: 0x7AC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4404: 0x7AC7 [0x01] GOTO 0x7B96
@@ -7879,7 +7879,7 @@ SUBROUTINE_7A61:
 4412: 0x7B01 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4413: 0x7B12 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4414: 0x7B21 [0x1C] WAIT(120* ticks)
-4415: 0x7B24 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4415: 0x7B24 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4416: 0x7B27 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4417: 0x7B28 [0x01] GOTO 0x7B96
@@ -7896,7 +7896,7 @@ SUBROUTINE_7A61:
 4428: 0x7B7B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4429: 0x7B8A [0x1C] WAIT(120* ticks)
 4430: 0x7B8D [0x03] Work_Zone[2] = 0*
-4431: 0x7B92 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4431: 0x7B92 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4432: 0x7B95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -7913,7 +7913,7 @@ SUBROUTINE_7B96:
 4442: 0x7BD8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4443: 0x7BE9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4444: 0x7BF8 [0x1C] WAIT(120* ticks)
-4445: 0x7BFB [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4445: 0x7BFB [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4446: 0x7BFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 4447: 0x7BFF [0x01] GOTO 0x7CCE
@@ -7927,7 +7927,7 @@ SUBROUTINE_7B96:
 4455: 0x7C39 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4456: 0x7C4A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4457: 0x7C59 [0x1C] WAIT(120* ticks)
-4458: 0x7C5C [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4458: 0x7C5C [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4459: 0x7C5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 4460: 0x7C60 [0x01] GOTO 0x7CCE
@@ -7944,7 +7944,7 @@ SUBROUTINE_7B96:
 4471: 0x7CB3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4472: 0x7CC2 [0x1C] WAIT(120* ticks)
 4473: 0x7CC5 [0x03] Work_Zone[2] = 0*
-4474: 0x7CCA [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4474: 0x7CCA [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4475: 0x7CCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -7961,7 +7961,7 @@ SUBROUTINE_7CCE:
 4485: 0x7D10 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4486: 0x7D21 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4487: 0x7D30 [0x1C] WAIT(120* ticks)
-4488: 0x7D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4488: 0x7D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4489: 0x7D36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4490: 0x7D37 [0x01] GOTO 0x7E06
@@ -7975,7 +7975,7 @@ SUBROUTINE_7CCE:
 4498: 0x7D71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4499: 0x7D82 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4500: 0x7D91 [0x1C] WAIT(120* ticks)
-4501: 0x7D94 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4501: 0x7D94 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4502: 0x7D97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4503: 0x7D98 [0x01] GOTO 0x7E06
@@ -7992,7 +7992,7 @@ SUBROUTINE_7CCE:
 4514: 0x7DEB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4515: 0x7DFA [0x1C] WAIT(120* ticks)
 4516: 0x7DFD [0x03] Work_Zone[2] = 0*
-4517: 0x7E02 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4517: 0x7E02 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4518: 0x7E05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -8009,7 +8009,7 @@ SUBROUTINE_7E06:
 4528: 0x7E48 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4529: 0x7E59 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4530: 0x7E68 [0x1C] WAIT(120* ticks)
-4531: 0x7E6B [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4531: 0x7E6B [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4532: 0x7E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 4533: 0x7E6F [0x01] GOTO 0x7F3E
@@ -8023,7 +8023,7 @@ SUBROUTINE_7E06:
 4541: 0x7EA9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4542: 0x7EBA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4543: 0x7EC9 [0x1C] WAIT(120* ticks)
-4544: 0x7ECC [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4544: 0x7ECC [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4545: 0x7ECF [0x23] WAIT_FOR_DIALOG_INTERACTION
 4546: 0x7ED0 [0x01] GOTO 0x7F3E
@@ -8040,7 +8040,7 @@ SUBROUTINE_7E06:
 4557: 0x7F23 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4558: 0x7F32 [0x1C] WAIT(120* ticks)
 4559: 0x7F35 [0x03] Work_Zone[2] = 0*
-4560: 0x7F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4560: 0x7F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4561: 0x7F3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -8057,7 +8057,7 @@ SUBROUTINE_7F3E:
 4571: 0x7F80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4572: 0x7F91 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4573: 0x7FA0 [0x1C] WAIT(120* ticks)
-4574: 0x7FA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4574: 0x7FA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4575: 0x7FA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4576: 0x7FA7 [0x01] GOTO 0x8076
@@ -8071,7 +8071,7 @@ SUBROUTINE_7F3E:
 4584: 0x7FE1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 4585: 0x7FF2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4586: 0x8001 [0x1C] WAIT(120* ticks)
-4587: 0x8004 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+4587: 0x8004 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "I hope they both grow up soon."
 4588: 0x8007 [0x23] WAIT_FOR_DIALOG_INTERACTION
 4589: 0x8008 [0x01] GOTO 0x8076
@@ -8088,7 +8088,7 @@ SUBROUTINE_7F3E:
 4600: 0x805B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=201*
 4601: 0x806A [0x1C] WAIT(120* ticks)
 4602: 0x806D [0x03] Work_Zone[2] = 0*
-4603: 0x8072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+4603: 0x8072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "I hope $0 grows up soon."
 4604: 0x8075 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

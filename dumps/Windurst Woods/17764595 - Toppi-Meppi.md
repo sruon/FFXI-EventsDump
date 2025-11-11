@@ -23,14 +23,14 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x2F54      |       12116 |
-|       3 | 0x2F55      |       12117 |
-|       4 | 0x2F58      |       12120 |
-|       5 | 0x2F5D      |       12125 |
+|       2 | 0x2F57      |       12119 |
+|       3 | 0x2F58      |       12120 |
+|       4 | 0x2F5B      |       12123 |
+|       5 | 0x2F60      |       12128 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x0004      |           4 |
-|       9 | 0x2F7F      |       12159 |
+|       9 | 0x2F82      |       12162 |
 |      10 | 0x0007      |           7 |
 |      11 | 0x0005      |           5 |
 |      12 | 0x0008      |           8 |
@@ -46,37 +46,37 @@
 |      22 | 0x000D      |          13 |
 |      23 | 0x004E      |          78 |
 |      24 | 0x000E      |          14 |
-|      25 | 0x2F95      |       12181 |
-|      26 | 0x2F97      |       12183 |
-|      27 | 0x2F96      |       12182 |
+|      25 | 0x2F98      |       12184 |
+|      26 | 0x2F9A      |       12186 |
+|      27 | 0x2F99      |       12185 |
 |      28 | 0x0010      |          16 |
 |      29 | 0x0017      |          23 |
-|      30 | 0x2F56      |       12118 |
-|      31 | 0x2F77      |       12151 |
-|      32 | 0x2F93      |       12179 |
+|      30 | 0x2F59      |       12121 |
+|      31 | 0x2F7A      |       12154 |
+|      32 | 0x2F96      |       12182 |
 |      33 | 0x0200      |         512 |
 |      34 | 0x0300      |         768 |
-|      35 | 0x2F5A      |       12122 |
-|      36 | 0x2F5E      |       12126 |
+|      35 | 0x2F5D      |       12125 |
+|      36 | 0x2F61      |       12129 |
 |      37 | 0x00C0      |         192 |
-|      38 | 0x2F5F      |       12127 |
-|      39 | 0x2F60      |       12128 |
-|      40 | 0x2F61      |       12129 |
+|      38 | 0x2F62      |       12130 |
+|      39 | 0x2F63      |       12131 |
+|      40 | 0x2F64      |       12132 |
 |      41 | 0x0080      |         128 |
-|      42 | 0x2F62      |       12130 |
+|      42 | 0x2F65      |       12133 |
 |      43 | 0x00FC      |         252 |
-|      44 | 0x2F63      |       12131 |
-|      45 | 0x2F64      |       12132 |
+|      44 | 0x2F66      |       12134 |
+|      45 | 0x2F67      |       12135 |
 |      46 | 0x00E0      |         224 |
-|      47 | 0x2F65      |       12133 |
+|      47 | 0x2F68      |       12136 |
 |      48 | 0x00FE      |         254 |
-|      49 | 0x2F66      |       12134 |
+|      49 | 0x2F69      |       12137 |
 |      50 | 0x00F0      |         240 |
-|      51 | 0x2F67      |       12135 |
-|      52 | 0x2F68      |       12136 |
-|      53 | 0x2F69      |       12137 |
-|      54 | 0x2F70      |       12144 |
-|      55 | 0x2F71      |       12145 |
+|      51 | 0x2F6A      |       12138 |
+|      52 | 0x2F6B      |       12139 |
+|      53 | 0x2F6C      |       12140 |
+|      54 | 0x2F73      |       12147 |
+|      55 | 0x2F74      |       12148 |
 |      56 | 0x15E5      |        5605 |
 |      57 | 0x15E6      |        5606 |
 |      58 | 0x0899      |        2201 |
@@ -127,113 +127,113 @@
 |     103 | 0x190B      |        6411 |
 |     104 | 0x01F4      |         500 |
 |     105 | 0x001F      |          31 |
-|     106 | 0x2F9A      |       12186 |
-|     107 | 0x2F94      |       12180 |
-|     108 | 0x2F9B      |       12187 |
-|     109 | 0x2F75      |       12149 |
-|     110 | 0x2F9C      |       12188 |
-|     111 | 0x2F5B      |       12123 |
-|     112 | 0x2F6A      |       12138 |
-|     113 | 0x2F6B      |       12139 |
-|     114 | 0x2F6C      |       12140 |
-|     115 | 0x2F6D      |       12141 |
-|     116 | 0x2F6E      |       12142 |
-|     117 | 0x2F82      |       12162 |
+|     106 | 0x2F9D      |       12189 |
+|     107 | 0x2F97      |       12183 |
+|     108 | 0x2F9E      |       12190 |
+|     109 | 0x2F78      |       12152 |
+|     110 | 0x2F9F      |       12191 |
+|     111 | 0x2F5E      |       12126 |
+|     112 | 0x2F6D      |       12141 |
+|     113 | 0x2F6E      |       12142 |
+|     114 | 0x2F6F      |       12143 |
+|     115 | 0x2F70      |       12144 |
+|     116 | 0x2F71      |       12145 |
+|     117 | 0x2F85      |       12165 |
 |     118 | 0x0021      |          33 |
-|     119 | 0x2F87      |       12167 |
-|     120 | 0x2F6F      |       12143 |
-|     121 | 0x2F84      |       12164 |
-|     122 | 0x2F85      |       12165 |
-|     123 | 0x2F86      |       12166 |
+|     119 | 0x2F8A      |       12170 |
+|     120 | 0x2F72      |       12146 |
+|     121 | 0x2F87      |       12167 |
+|     122 | 0x2F88      |       12168 |
+|     123 | 0x2F89      |       12169 |
 |     124 | 0x0018      |          24 |
 |     125 | 0x00C8      |         200 |
-|     126 | 0x2F89      |       12169 |
-|     127 | 0x2F8A      |       12170 |
-|     128 | 0x2F72      |       12146 |
-|     129 | 0x2F9D      |       12189 |
-|     130 | 0x2F7E      |       12158 |
-|     131 | 0x2F8B      |       12171 |
-|     132 | 0x2F8C      |       12172 |
-|     133 | 0x2F8D      |       12173 |
-|     134 | 0x2F8E      |       12174 |
-|     135 | 0x2F79      |       12153 |
-|     136 | 0x2F7D      |       12157 |
-|     137 | 0x2F7B      |       12155 |
-|     138 | 0x2F7A      |       12154 |
-|     139 | 0x2F7C      |       12156 |
-|     140 | 0x2F9E      |       12190 |
-|     141 | 0x2F83      |       12163 |
-|     142 | 0x2F8F      |       12175 |
-|     143 | 0x2F90      |       12176 |
+|     126 | 0x2F8C      |       12172 |
+|     127 | 0x2F8D      |       12173 |
+|     128 | 0x2F75      |       12149 |
+|     129 | 0x2FA0      |       12192 |
+|     130 | 0x2F81      |       12161 |
+|     131 | 0x2F8E      |       12174 |
+|     132 | 0x2F8F      |       12175 |
+|     133 | 0x2F90      |       12176 |
+|     134 | 0x2F91      |       12177 |
+|     135 | 0x2F7C      |       12156 |
+|     136 | 0x2F80      |       12160 |
+|     137 | 0x2F7E      |       12158 |
+|     138 | 0x2F7D      |       12157 |
+|     139 | 0x2F7F      |       12159 |
+|     140 | 0x2FA1      |       12193 |
+|     141 | 0x2F86      |       12166 |
+|     142 | 0x2F92      |       12178 |
+|     143 | 0x2F93      |       12179 |
 |     144 | 0x0011      |          17 |
-|     145 | 0x2F91      |       12177 |
+|     145 | 0x2F94      |       12180 |
 |     146 | 0x0019      |          25 |
-|     147 | 0x2F92      |       12178 |
+|     147 | 0x2F95      |       12181 |
 
 ## String References
 
-- **12116**: Good day, [sir/ma'am], and welcome to the Windurstian branch of the VCS Chocobuck Exchange Depot.
-- **12117**: Here you can use chocobucks to purchase items or enroll your chocobo in our top-secret intensive training program to improve its attributes.
-- **12118**: Oh wait... I'm sorry, but we only offer our services to members of this nation's CRA branch. If you wish to browse our wares, you must first sign up with the local CRA official.
-- **12120**: Oh wait... I'm sorry, but we only offer our services to members of this nation's CRA branch. If you wish to browse our wares, you must first sign up with the local CRA official.
-- **12122**: Browse which items? ($1 chocobuck[/s]) [1-chocobuck."-chocobuck./10-chocobuck."0-chocobuck./40-chocobuck./50-chocobuck./75-chocobuck./80-chocobuck./90-chocobuck./100-chocobuck./150-chocobuck./500-chocobuck./Quit./Back.]
-- **12123**: Which items? ($1 chocobuck[/s]) [50-chocobuck./Intensive training. (75 chocobucks)/Special training. (80 chocobucks)/View current chocobo./Quit./Back.]
-- **12125**: What would you like to do? [Purchase items./Raise attributes./Dye feathers./Nothing.]
-- **12126**: For 1 chocobuck, you can purchase items that are useful during chocobo training. Additionally, we will give you a freebie for every 5 simultaneous exchanges you make.
-- **12127**: For 3 chocobucks, you can purchase items that are useful during chocobo training. Additionally, we will give you a freebie for every 5 simultaneous exchanges you make.
-- **12128**: For 10 chocobucks, you can purchase one dozen of an item that is useful during chocobo training.
-- **12129**: For 30 chocobucks, you can purchase one dozen of an item that is useful during chocobo training.
-- **12130**: For 40 chocobucks, you can purchase items that are useful during chocobo training.
-- **12131**: For 50 chocobucks, you can purchase items that are useful during chocobo training.
-- **12132**: For 75 chocobucks, you can purchase a special type of feather dye that will change the color of your chocobo. Your chocobo will sport its stylish new color until you alter its registration.
-- **12133**: For 80 chocobucks, you can purchase items that slightly improve one of your chocobo's attributes.
-- **12134**: For 90 chocobucks, you can purchase items that will improve one of your chocobo's attributes.
-- **12135**: For 100 chocobucks, you can purchase items that will slightly improve one of your retired chocobo's attributes.
-- **12136**: For 150 chocobucks, you can purchase VCS-approved racing silks.
-- **12137**: For 500 chocobucks, you can purchase an authentic, limited-edition VCS-issued chair for all your posterial needs.
-- **12138**: For 50 chocobucks, you can purchase a special type of feather dye that will change the color of your chocobo.
-- **12139**: Select a color. (Currently [yellow/black/blue/red/green]) [Yellow./Black./Blue./Red./Green./Quit./Back.]
-- **12140**: I'm sorry, but it says here that you do not have a chocobo you can call to the field.
-- **12141**: You can enroll your chocobo in our intensive training program, slightly improving one of its current attributes (randomly).
-- **12142**: You can enroll your chocobo in our special training program, improving an ability of your choice.
-- **12143**: I'm sorry. The programs are only available to adult chocobos still residing in the stables.
-- **12145**: Purchase which items? [$0./$1./$2./$3./$4./$5./$6./$7./Quit./Return.]
-- **12146**: You lack sufficient funds. [Select another price group./Quit.]
-- **12149**: Complete transaction? ($0 chocobuck[/s]) [Immediately./Choose another item./Quit.]
-- **12151**: I'm sorry, <Player>. It says here that you do not have a chocobo which you can call to the field.
-- **12153**: What do you require? [Information on my chocobo./Yellow feather dyeing./Nothing.]
-- **12154**: What do you require? [Information on my chocobo./Red feather dyeing./Nothing.]
-- **12155**: What do you require? [Information on my chocobo./Blue feather dyeing./Nothing.]
-- **12156**: What do you require? [Information on my chocobo./Green feather dyeing./Nothing.]
-- **12157**: What do you require? [Information on my chocobo./Black feather dyeing./Nothing.]
-- **12158**: One of my hands will apply the dye immediately. Your chocobo will sport its stylish new color until you alter its registration.
-- **12159**: I'm sorry, <Player>. It says here that your chocobo is already that color.
-- **12162**: What do you require? [Information on my current chocobo./A strength upgrade./An endurance upgrade./A discernment upgrade./A receptivity upgrade./Nothing./Return.]
-- **12163**: What do you require? [Information on my retired chocobo./[A strength/An endurance/A discernment/A receptivity/] upgrade./Nothing.]
-- **12164**: I'm sorry, but any attempts to further raise that attribute may result in serious injury to your chocobo.
-- **12165**: I'm required to inform you that raising the specified attribute will adversely affect others.
-- **12166**: Do you still wish to proceed? [Yes./Choose another attribute./Quit.]
-- **12167**: Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]
-- **12169**: Your [current/retired] chocobo's [strength/endurance/discernment/receptivity/] has improved.
-- **12170**: Color: [Yellow/Black/Blue/Red/Green]
-- **12171**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12172**: Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12173**: Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12174**: Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12175**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12176**: Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12177**: Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12178**: Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **12179**: Your chocobo seems to have run away from the stables. I'm sorry, but we are unable to train it at this time.
-- **12180**: I'm sorry, but you don't have enough chocobucks to complete the transaction.
-- **12181**: Exchange this item for chocobucks? [Yes, please./No, thanks.]
-- **12182**: You may only hold up to 1000 chocobucks at any given time. Excess chocobucks over this amount will be discarded. Are you sure you wish to proceed with the transaction?
-- **12183**: You cannot carry more than 1000 chocobucks.
-- **12186**: How many? (Max.: $4)
-- **12187**: You need $2 chocobuck[/s] to purchase the $0 .
-- **12188**: Because you have made a total of $1 exchange[/s], I am authorized to give you $2 more as [a freebie/freebies].
-- **12189**: Is [yellow/black/blue/red/green] okay? ($1 chocobuck[/s]) [Yes. (50 chocobucks)/No.]
-- **12190**: Is [yellow/black/blue/red/green] okay? (Current: [yellow/black/blue/red/green]) [Yes./No.]
+- **12119**: Good day, [sir/ma'am], and welcome to the Windurstian branch of the VCS Chocobuck Exchange Depot.
+- **12120**: Here you can use chocobucks to purchase items or enroll your chocobo in our top-secret intensive training program to improve its attributes.
+- **12121**: Oh wait... I'm sorry, but we only offer our services to members of this nation's CRA branch. If you wish to browse our wares, you must first sign up with the local CRA official.
+- **12123**: Oh wait... I'm sorry, but we only offer our services to members of this nation's CRA branch. If you wish to browse our wares, you must first sign up with the local CRA official.
+- **12125**: Browse which items? ($1 chocobuck[/s]) [1-chocobuck."-chocobuck./10-chocobuck."0-chocobuck./40-chocobuck./50-chocobuck./75-chocobuck./80-chocobuck./90-chocobuck./100-chocobuck./150-chocobuck./500-chocobuck./Quit./Back.]
+- **12126**: Which items? ($1 chocobuck[/s]) [50-chocobuck./Intensive training. (75 chocobucks)/Special training. (80 chocobucks)/View current chocobo./Quit./Back.]
+- **12128**: What would you like to do? [Purchase items./Raise attributes./Dye feathers./Nothing.]
+- **12129**: For 1 chocobuck, you can purchase items that are useful during chocobo training. Additionally, we will give you a freebie for every 5 simultaneous exchanges you make.
+- **12130**: For 3 chocobucks, you can purchase items that are useful during chocobo training. Additionally, we will give you a freebie for every 5 simultaneous exchanges you make.
+- **12131**: For 10 chocobucks, you can purchase one dozen of an item that is useful during chocobo training.
+- **12132**: For 30 chocobucks, you can purchase one dozen of an item that is useful during chocobo training.
+- **12133**: For 40 chocobucks, you can purchase items that are useful during chocobo training.
+- **12134**: For 50 chocobucks, you can purchase items that are useful during chocobo training.
+- **12135**: For 75 chocobucks, you can purchase a special type of feather dye that will change the color of your chocobo. Your chocobo will sport its stylish new color until you alter its registration.
+- **12136**: For 80 chocobucks, you can purchase items that slightly improve one of your chocobo's attributes.
+- **12137**: For 90 chocobucks, you can purchase items that will improve one of your chocobo's attributes.
+- **12138**: For 100 chocobucks, you can purchase items that will slightly improve one of your retired chocobo's attributes.
+- **12139**: For 150 chocobucks, you can purchase VCS-approved racing silks.
+- **12140**: For 500 chocobucks, you can purchase an authentic, limited-edition VCS-issued chair for all your posterial needs.
+- **12141**: For 50 chocobucks, you can purchase a special type of feather dye that will change the color of your chocobo.
+- **12142**: Select a color. (Currently [yellow/black/blue/red/green]) [Yellow./Black./Blue./Red./Green./Quit./Back.]
+- **12143**: I'm sorry, but it says here that you do not have a chocobo you can call to the field.
+- **12144**: You can enroll your chocobo in our intensive training program, slightly improving one of its current attributes (randomly).
+- **12145**: You can enroll your chocobo in our special training program, improving an ability of your choice.
+- **12146**: I'm sorry. The programs are only available to adult chocobos still residing in the stables.
+- **12148**: Purchase which items? [$0./$1./$2./$3./$4./$5./$6./$7./Quit./Return.]
+- **12149**: You lack sufficient funds. [Select another price group./Quit.]
+- **12152**: Complete transaction? ($0 chocobuck[/s]) [Immediately./Choose another item./Quit.]
+- **12154**: I'm sorry, <Player>. It says here that you do not have a chocobo which you can call to the field.
+- **12156**: What do you require? [Information on my chocobo./Yellow feather dyeing./Nothing.]
+- **12157**: What do you require? [Information on my chocobo./Red feather dyeing./Nothing.]
+- **12158**: What do you require? [Information on my chocobo./Blue feather dyeing./Nothing.]
+- **12159**: What do you require? [Information on my chocobo./Green feather dyeing./Nothing.]
+- **12160**: What do you require? [Information on my chocobo./Black feather dyeing./Nothing.]
+- **12161**: One of my hands will apply the dye immediately. Your chocobo will sport its stylish new color until you alter its registration.
+- **12162**: I'm sorry, <Player>. It says here that your chocobo is already that color.
+- **12165**: What do you require? [Information on my current chocobo./A strength upgrade./An endurance upgrade./A discernment upgrade./A receptivity upgrade./Nothing./Return.]
+- **12166**: What do you require? [Information on my retired chocobo./[A strength/An endurance/A discernment/A receptivity/] upgrade./Nothing.]
+- **12167**: I'm sorry, but any attempts to further raise that attribute may result in serious injury to your chocobo.
+- **12168**: I'm required to inform you that raising the specified attribute will adversely affect others.
+- **12169**: Do you still wish to proceed? [Yes./Choose another attribute./Quit.]
+- **12170**: Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]
+- **12172**: Your [current/retired] chocobo's [strength/endurance/discernment/receptivity/] has improved.
+- **12173**: Color: [Yellow/Black/Blue/Red/Green]
+- **12174**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12175**: Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12176**: Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12177**: Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12178**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12179**: Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12180**: Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12181**: Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **12182**: Your chocobo seems to have run away from the stables. I'm sorry, but we are unable to train it at this time.
+- **12183**: I'm sorry, but you don't have enough chocobucks to complete the transaction.
+- **12184**: Exchange this item for chocobucks? [Yes, please./No, thanks.]
+- **12185**: You may only hold up to 1000 chocobucks at any given time. Excess chocobucks over this amount will be discarded. Are you sure you wish to proceed with the transaction?
+- **12186**: You cannot carry more than 1000 chocobucks.
+- **12189**: How many? (Max.: $4)
+- **12190**: You need $2 chocobuck[/s] to purchase the $0 .
+- **12191**: Because you have made a total of $1 exchange[/s], I am authorized to give you $2 more as [a freebie/freebies].
+- **12192**: Is [yellow/black/blue/red/green] okay? ($1 chocobuck[/s]) [Yes. (50 chocobucks)/No.]
+- **12193**: Is [yellow/black/blue/red/green] okay? (Current: [yellow/black/blue/red/green]) [Yes./No.]
 
 ## Events
 
@@ -301,21 +301,21 @@ SUBROUTINE_002B:
   9: 0x002B [0x03] ExtData[1]->WorkLocal[57] = Work_Zone[5]
  10: 0x0030 [0x03] ExtData[1]->WorkLocal[33] = Work_Zone[6]
  11: 0x0035 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[7]
- 12: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=12116*)
+ 12: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=12119*)
     → "Good day, [sir/ma'am], and welcome to the Windurstian branch of the VCS Chocobuck Exchange Depot."
  13: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x003E [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x004D
- 15: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12117*)
+ 15: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12120*)
     → "Here you can use chocobucks to purchase items or enroll your chocobo in our top-secret intensive training program to improve its attributes."
  16: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x004A [0x01] GOTO 0x0052
- 18: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=12120*)
+ 18: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=12123*)
     → "Oh wait... I'm sorry, but we only offer our services to members of this nation's CRA branch. If you wish to browse our wares, you must first sign up with the local CRA official."
  19: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0051 [0x21] END_EVENT
 
 SUBROUTINE_0052:
- 21: 0x0052 [0x24] CREATE_DIALOG(message_id=12125*, default_option=0*, option_flags=0*)
+ 21: 0x0052 [0x24] CREATE_DIALOG(message_id=12128*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Purchase items./Raise attributes./Dye feathers./Nothing.]"
  22: 0x0059 [0x25] WAIT_DIALOG_SELECT()
  23: 0x005A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0068
@@ -852,7 +852,7 @@ SUBROUTINE_0090:
  35: 0x0137 [0x01] GOTO 0x0367
  36: 0x013A [0x02] IF !(ExtData[1]->WorkLocal[38] == 4*) GOTO 0x016F
  37: 0x0142 [0x02] IF !(ExtData[1]->WorkLocal[40] == 0*) GOTO 0x0164
- 38: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
+ 38: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
     → "I'm sorry, <Player>. It says here that your chocobo is already that color."
  39: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x014E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -863,7 +863,7 @@ SUBROUTINE_016C:
  43: 0x016C [0x01] GOTO 0x0367
  44: 0x016F [0x02] IF !(ExtData[1]->WorkLocal[38] == 5*) GOTO 0x01A4
  45: 0x0177 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x0199
- 46: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
+ 46: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
     → "I'm sorry, <Player>. It says here that your chocobo is already that color."
  47: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0183 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -874,7 +874,7 @@ SUBROUTINE_01A1:
  51: 0x01A1 [0x01] GOTO 0x0367
  52: 0x01A4 [0x02] IF !(ExtData[1]->WorkLocal[38] == 6*) GOTO 0x01D9
  53: 0x01AC [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x01CE
- 54: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
+ 54: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
     → "I'm sorry, <Player>. It says here that your chocobo is already that color."
  55: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01B8 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -885,7 +885,7 @@ SUBROUTINE_01D6:
  59: 0x01D6 [0x01] GOTO 0x0367
  60: 0x01D9 [0x02] IF !(ExtData[1]->WorkLocal[38] == 7*) GOTO 0x020E
  61: 0x01E1 [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x0203
- 62: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
+ 62: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
     → "I'm sorry, <Player>. It says here that your chocobo is already that color."
  63: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01ED [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -896,7 +896,7 @@ SUBROUTINE_020B:
  67: 0x020B [0x01] GOTO 0x0367
  68: 0x020E [0x02] IF !(ExtData[1]->WorkLocal[38] == 8*) GOTO 0x0243
  69: 0x0216 [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x0238
- 70: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
+ 70: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
     → "I'm sorry, <Player>. It says here that your chocobo is already that color."
  71: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0222 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -927,7 +927,7 @@ SUBROUTINE_0240:
  95: 0x029F [0x01] GOTO 0x0367
  96: 0x02A2 [0x02] IF !(ExtData[1]->WorkLocal[38] == 14*) GOTO 0x0367
  97: 0x02AA [0x03] ExtData[1]->WorkLocal[44] = Work_Zone[4]
- 98: 0x02AF [0x24] CREATE_DIALOG(message_id=12181*, default_option=0*, option_flags=0*)
+ 98: 0x02AF [0x24] CREATE_DIALOG(message_id=12184*, default_option=0*, option_flags=0*)
     → "Exchange this item for chocobucks? [Yes, please./No, thanks.]"
  99: 0x02B6 [0x25] WAIT_DIALOG_SELECT()
 100: 0x02B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0338
@@ -937,7 +937,7 @@ SUBROUTINE_0240:
 104: 0x02D3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 105: 0x02D5 [0x03] ExtData[1]->WorkLocal[48] = Work_Zone[2]
 106: 0x02DA [0x02] IF !(ExtData[1]->WorkLocal[48] == 0*) GOTO 0x02EE
-107: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12183*)
+107: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12186*)
     → "You cannot carry more than 1000 chocobucks."
 108: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x02E6 [0x03] ExtData[1]->WorkLocal[49] = 1*
@@ -946,10 +946,10 @@ SUBROUTINE_0240:
 112: 0x02F6 [0x03] ExtData[1]->WorkLocal[49] = 0*
 113: 0x02FB [0x01] GOTO 0x0335
 114: 0x02FE [0x02] IF !(ExtData[1]->WorkLocal[48] == 2*) GOTO 0x0335
-115: 0x0306 [0x1D] PRINT_EVENT_MESSAGE(message_id=12182*)
+115: 0x0306 [0x1D] PRINT_EVENT_MESSAGE(message_id=12185*)
     → "You may only hold up to 1000 chocobucks at any given time. Excess chocobucks over this amount will be discarded. Are you sure you wish to proceed with the transaction?"
 116: 0x0309 [0x23] WAIT_FOR_DIALOG_INTERACTION
-117: 0x030A [0x24] CREATE_DIALOG(message_id=12181*, default_option=0*, option_flags=0*)
+117: 0x030A [0x24] CREATE_DIALOG(message_id=12184*, default_option=0*, option_flags=0*)
     → "Exchange this item for chocobucks? [Yes, please./No, thanks.]"
 118: 0x0311 [0x25] WAIT_DIALOG_SELECT()
 119: 0x0312 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0322
@@ -977,7 +977,7 @@ SUBROUTINE_0348:
 SUBROUTINE_0367:
 134: 0x0367 [0x01] GOTO 0x03B5
 135: 0x036A [0x02] IF !(ExtData[1]->WorkLocal[39] == 1*) GOTO 0x0383
-136: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=12118*)
+136: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=12121*)
     → "Oh wait... I'm sorry, but we only offer our services to members of this nation's CRA branch. If you wish to browse our wares, you must first sign up with the local CRA official."
 137: 0x0375 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0376 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=10*)
@@ -991,7 +991,7 @@ SUBROUTINE_1122:
 142: 0x1127 [0x02] IF !(ExtData[1]->WorkLocal[55] == 0*) GOTO 0x1132
 143: 0x112F [0x01] GOTO 0x120A
 144: 0x1132 [0x02] IF !(ExtData[1]->WorkLocal[55] == 1*) GOTO 0x1154
-145: 0x113A [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
+145: 0x113A [0x1D] PRINT_EVENT_MESSAGE(message_id=12167*)
     → "I'm sorry, but any attempts to further raise that attribute may result in serious injury to your chocobo."
 146: 0x113D [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x113E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -1000,7 +1000,7 @@ SUBROUTINE_1122:
 
 SUBROUTINE_1160:
 150: 0x1160 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x11D4
-151: 0x1168 [0x24] CREATE_DIALOG(message_id=12166*, default_option=2*, option_flags=2*)
+151: 0x1168 [0x24] CREATE_DIALOG(message_id=12169*, default_option=2*, option_flags=2*)
     → "Do you still wish to proceed? [Yes./Choose another attribute./Quit.]"
 152: 0x116F [0x25] WAIT_DIALOG_SELECT()
 153: 0x1170 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11A3
@@ -1041,14 +1041,14 @@ SUBROUTINE_1232:
 180: 0x1253 [0x1C] WAIT(2* ticks)
 181: 0x1256 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 182: 0x1267 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-183: 0x1276 [0x48] [System] [12169*]:
+183: 0x1276 [0x48] [System] [12172*]:
     → "Your [current/retired] chocobo's [strength/endurance/discernment/receptivity/] has improved."
 184: 0x1279 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x127A [0x1B] RETURN
 
 SUBROUTINE_13D0:
 186: 0x13D0 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x13E9
-187: 0x13D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
+187: 0x13D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
     → "One of my hands will apply the dye immediately. Your chocobo will sport its stylish new color until you alter its registration."
 188: 0x13DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x13DC [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1063,26 +1063,26 @@ SUBROUTINE_13F7:
 196: 0x1416 [0x41] ExtData[1]->WorkLocal[23] = Work_Zone[3] (bits 16*-23*)
 197: 0x141F [0x41] ExtData[1]->WorkLocal[24] = Work_Zone[3] (bits 24*-31*)
 198: 0x1428 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
-199: 0x142D [0x1D] PRINT_EVENT_MESSAGE(message_id=12171*)
+199: 0x142D [0x1D] PRINT_EVENT_MESSAGE(message_id=12174*)
     → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 200: 0x1430 [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x1431 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
-202: 0x1436 [0x1D] PRINT_EVENT_MESSAGE(message_id=12172*)
+202: 0x1436 [0x1D] PRINT_EVENT_MESSAGE(message_id=12175*)
     → "Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 203: 0x1439 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x143A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[23]
-205: 0x143F [0x1D] PRINT_EVENT_MESSAGE(message_id=12173*)
+205: 0x143F [0x1D] PRINT_EVENT_MESSAGE(message_id=12176*)
     → "Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 206: 0x1442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x1443 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[24]
-208: 0x1448 [0x1D] PRINT_EVENT_MESSAGE(message_id=12174*)
+208: 0x1448 [0x1D] PRINT_EVENT_MESSAGE(message_id=12177*)
     → "Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 209: 0x144B [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x144C [0x1B] RETURN
 
 SUBROUTINE_1691:
 211: 0x1691 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x16F6
-212: 0x1699 [0x24] CREATE_DIALOG(message_id=12190*, default_option=1*, option_flags=0*)
+212: 0x1699 [0x24] CREATE_DIALOG(message_id=12193*, default_option=1*, option_flags=0*)
     → "Is [yellow/black/blue/red/green] okay? (Current: [yellow/black/blue/red/green]) [Yes./No.]"
 213: 0x16A0 [0x25] WAIT_DIALOG_SELECT()
 214: 0x16A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16C5
@@ -1113,7 +1113,7 @@ SUBROUTINE_16F7:
 
 SUBROUTINE_170C:
 233: 0x170C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x17BF
-234: 0x1714 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+234: 0x1714 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
 235: 0x171B [0x25] WAIT_DIALOG_SELECT()
 236: 0x171C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1775
@@ -1137,7 +1137,7 @@ SUBROUTINE_17BC:
 250: 0x17BC [0x01] GOTO 0x170C
 251: 0x17BF [0x01] GOTO 0x17F4
 252: 0x17C2 [0x02] IF !(ExtData[1]->WorkLocal[32] == 0*) GOTO 0x17F4
-253: 0x17CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12179*)
+253: 0x17CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12182*)
     → "Your chocobo seems to have run away from the stables. I'm sorry, but we are unable to train it at this time."
 254: 0x17CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x17CE [0x02] IF !(ExtData[1]->WorkLocal[43] == 1*) GOTO 0x17EB
@@ -1148,7 +1148,7 @@ SUBROUTINE_17BC:
 
 SUBROUTINE_17F4:
 260: 0x17F4 [0x01] GOTO 0x1816
-261: 0x17F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
+261: 0x17F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12146*)
     → "I'm sorry. The programs are only available to adult chocobos still residing in the stables."
 262: 0x17FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x17FB [0x02] IF !(ExtData[1]->WorkLocal[43] == 1*) GOTO 0x1816
@@ -1170,14 +1170,14 @@ SUBROUTINE_1817:
 SUBROUTINE_1839:
 274: 0x1839 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x1A49
 275: 0x1841 [0x03] ExtData[1]->WorkLocal[28] = 0*
-276: 0x1846 [0x24] CREATE_DIALOG(message_id=12162*, default_option=0*, option_flags=ExtData[1]->WorkLocal[42])
+276: 0x1846 [0x24] CREATE_DIALOG(message_id=12165*, default_option=0*, option_flags=ExtData[1]->WorkLocal[42])
     → "What do you require? [Information on my current chocobo./A strength upgrade./An endurance upgrade./A discernment upgrade./A receptivity upgrade./Nothing./Return.]"
 277: 0x184D [0x25] WAIT_DIALOG_SELECT()
 278: 0x184E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x185C
 279: 0x1856 [0x1A] CALL_SUBROUTINE(address=0x13F7)
 280: 0x1859 [0x01] GOTO 0x1A46
 281: 0x185C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x18CB
-282: 0x1864 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+282: 0x1864 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
 283: 0x186B [0x25] WAIT_DIALOG_SELECT()
 284: 0x186C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x189A
@@ -1197,7 +1197,7 @@ SUBROUTINE_1839:
 SUBROUTINE_18C8:
 297: 0x18C8 [0x01] GOTO 0x1A46
 298: 0x18CB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x193A
-299: 0x18D3 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+299: 0x18D3 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
 300: 0x18DA [0x25] WAIT_DIALOG_SELECT()
 301: 0x18DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1909
@@ -1217,7 +1217,7 @@ SUBROUTINE_18C8:
 SUBROUTINE_1937:
 314: 0x1937 [0x01] GOTO 0x1A46
 315: 0x193A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x19A9
-316: 0x1942 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+316: 0x1942 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
 317: 0x1949 [0x25] WAIT_DIALOG_SELECT()
 318: 0x194A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1978
@@ -1237,7 +1237,7 @@ SUBROUTINE_1937:
 SUBROUTINE_19A6:
 331: 0x19A6 [0x01] GOTO 0x1A46
 332: 0x19A9 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1A18
-333: 0x19B1 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+333: 0x19B1 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
 334: 0x19B8 [0x25] WAIT_DIALOG_SELECT()
 335: 0x19B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19E7
@@ -1270,7 +1270,7 @@ SUBROUTINE_1A46:
 
 SUBROUTINE_1A5F:
 358: 0x1A5F [0x01] GOTO 0x1A79
-359: 0x1A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
+359: 0x1A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=12146*)
     → "I'm sorry. The programs are only available to adult chocobos still residing in the stables."
 360: 0x1A65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x1A66 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -1284,7 +1284,7 @@ SUBROUTINE_1A7A:
 365: 0x1A7A [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x1CFD
 366: 0x1A82 [0x03] ExtData[1]->WorkLocal[28] = 0*
 367: 0x1A87 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[45]
-368: 0x1A8C [0x24] CREATE_DIALOG(message_id=12163*, default_option=0*, option_flags=0*)
+368: 0x1A8C [0x24] CREATE_DIALOG(message_id=12166*, default_option=0*, option_flags=0*)
     → "What do you require? [Information on my retired chocobo./[A strength/An endurance/A discernment/A receptivity/] upgrade./Nothing.]"
 369: 0x1A93 [0x25] WAIT_DIALOG_SELECT()
 370: 0x1A94 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B16
@@ -1296,25 +1296,25 @@ SUBROUTINE_1A7A:
 376: 0x1AB7 [0x41] ExtData[1]->WorkLocal[61] = ExtData[1]->WorkLocal[60] (bits 1*-7*)
 377: 0x1AC0 [0x15] ExtData[1]->WorkLocal[61] /= 16*
 378: 0x1AC5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[61]
-379: 0x1ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=12175*)
+379: 0x1ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=12178*)
     → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 380: 0x1ACD [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x1ACE [0x41] ExtData[1]->WorkLocal[61] = ExtData[1]->WorkLocal[60] (bits 9*-15*)
 382: 0x1AD7 [0x15] ExtData[1]->WorkLocal[61] /= 16*
 383: 0x1ADC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[61]
-384: 0x1AE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12176*)
+384: 0x1AE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12179*)
     → "Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 385: 0x1AE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 386: 0x1AE5 [0x41] ExtData[1]->WorkLocal[61] = ExtData[1]->WorkLocal[60] (bits 17*-23*)
 387: 0x1AEE [0x15] ExtData[1]->WorkLocal[61] /= 16*
 388: 0x1AF3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[61]
-389: 0x1AF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12177*)
+389: 0x1AF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12180*)
     → "Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 390: 0x1AFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x1AFC [0x41] ExtData[1]->WorkLocal[61] = ExtData[1]->WorkLocal[60] (bits 25*-31*)
 392: 0x1B05 [0x15] ExtData[1]->WorkLocal[61] /= 16*
 393: 0x1B0A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[61]
-394: 0x1B0F [0x1D] PRINT_EVENT_MESSAGE(message_id=12178*)
+394: 0x1B0F [0x1D] PRINT_EVENT_MESSAGE(message_id=12181*)
     → "Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 395: 0x1B12 [0x23] WAIT_FOR_DIALOG_INTERACTION
 396: 0x1B13 [0x01] GOTO 0x1CFA
@@ -1322,7 +1322,7 @@ SUBROUTINE_1A7A:
 
 SUBROUTINE_1B1E:
 398: 0x1B1E [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x1CD9
-399: 0x1B26 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+399: 0x1B26 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
 400: 0x1B2D [0x25] WAIT_DIALOG_SELECT()
 401: 0x1B2E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CA8
@@ -1334,7 +1334,7 @@ SUBROUTINE_1B1E:
 407: 0x1B51 [0x02] IF !(ExtData[1]->WorkLocal[46] == 0*) GOTO 0x1B5C
 408: 0x1B59 [0x01] GOTO 0x1CA5
 409: 0x1B5C [0x02] IF !(ExtData[1]->WorkLocal[46] == 1*) GOTO 0x1B7E
-410: 0x1B64 [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
+410: 0x1B64 [0x1D] PRINT_EVENT_MESSAGE(message_id=12167*)
     → "I'm sorry, but any attempts to further raise that attribute may result in serious injury to your chocobo."
 411: 0x1B67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 412: 0x1B68 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -1355,7 +1355,7 @@ SUBROUTINE_1C29:
 425: 0x1C7A [0x1C] WAIT(2* ticks)
 426: 0x1C7D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 427: 0x1C8E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-428: 0x1C9D [0x1D] PRINT_EVENT_MESSAGE(message_id=12169*)
+428: 0x1C9D [0x1D] PRINT_EVENT_MESSAGE(message_id=12172*)
     → "Your [current/retired] chocobo's [strength/endurance/discernment/receptivity/] has improved."
 429: 0x1CA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x1CA1 [0x21] END_EVENT
@@ -1420,11 +1420,11 @@ SUBROUTINE_1CFA:
      0x040D [0x03] ExtData[1]->WorkLocal[50] = 768*
      0x0412 [0x0E] ExtData[1]->WorkLocal[50] |= 12*
      0x0417 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-     0x041C [0x24] CREATE_DIALOG(message_id=12122*, default_option=ExtData[1]->WorkLocal[51], option_flags=ExtData[1]->WorkLocal[50])
+     0x041C [0x24] CREATE_DIALOG(message_id=12125*, default_option=ExtData[1]->WorkLocal[51], option_flags=ExtData[1]->WorkLocal[50])
     → "Browse which items? ($1 chocobuck[/s]) [1-chocobuck."-chocobuck./10-chocobuck."0-chocobuck./40-chocobuck./50-chocobuck./75-chocobuck./80-chocobuck./90-chocobuck./100-chocobuck./150-chocobuck./500-chocobuck./Quit./Back.]"
      0x0423 [0x25] WAIT_DIALOG_SELECT()
      0x0424 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x044A
-     0x042C [0x1D] PRINT_EVENT_MESSAGE(message_id=12126*)
+     0x042C [0x1D] PRINT_EVENT_MESSAGE(message_id=12129*)
     → "For 1 chocobuck, you can purchase items that are useful during chocobo training. Additionally, we will give you a freebie for every 5 simultaneous exchanges you make."
      0x042F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0430 [0x03] ExtData[1]->WorkLocal[4] = 1*
@@ -1434,7 +1434,7 @@ SUBROUTINE_1CFA:
      0x0444 [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x0447 [0x01] GOTO 0x0604
      0x044A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0470
-     0x0452 [0x1D] PRINT_EVENT_MESSAGE(message_id=12127*)
+     0x0452 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
     → "For 3 chocobucks, you can purchase items that are useful during chocobo training. Additionally, we will give you a freebie for every 5 simultaneous exchanges you make."
      0x0455 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0456 [0x03] ExtData[1]->WorkLocal[4] = 2*
@@ -1444,7 +1444,7 @@ SUBROUTINE_1CFA:
      0x046A [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x046D [0x01] GOTO 0x0604
      0x0470 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0496
-     0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=12128*)
+     0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
     → "For 10 chocobucks, you can purchase one dozen of an item that is useful during chocobo training."
      0x047B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x047C [0x03] ExtData[1]->WorkLocal[4] = 3*
@@ -1454,7 +1454,7 @@ SUBROUTINE_1CFA:
      0x0490 [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x0493 [0x01] GOTO 0x0604
      0x0496 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x04BC
-     0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=12129*)
+     0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
     → "For 30 chocobucks, you can purchase one dozen of an item that is useful during chocobo training."
      0x04A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04A2 [0x03] ExtData[1]->WorkLocal[4] = 4*
@@ -1464,7 +1464,7 @@ SUBROUTINE_1CFA:
      0x04B6 [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x04B9 [0x01] GOTO 0x0604
      0x04BC [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x04E2
-     0x04C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
+     0x04C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
     → "For 40 chocobucks, you can purchase items that are useful during chocobo training."
      0x04C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04C8 [0x03] ExtData[1]->WorkLocal[4] = 5*
@@ -1474,7 +1474,7 @@ SUBROUTINE_1CFA:
      0x04DC [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x04DF [0x01] GOTO 0x0604
      0x04E2 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0508
-     0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
+     0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12134*)
     → "For 50 chocobucks, you can purchase items that are useful during chocobo training."
      0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04EE [0x03] ExtData[1]->WorkLocal[4] = 6*
@@ -1484,7 +1484,7 @@ SUBROUTINE_1CFA:
      0x0502 [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x0505 [0x01] GOTO 0x0604
      0x0508 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x052E
-     0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
+     0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
     → "For 75 chocobucks, you can purchase a special type of feather dye that will change the color of your chocobo. Your chocobo will sport its stylish new color until you alter its registration."
      0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0514 [0x03] ExtData[1]->WorkLocal[4] = 7*
@@ -1494,7 +1494,7 @@ SUBROUTINE_1CFA:
      0x0528 [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x052B [0x01] GOTO 0x0604
      0x052E [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0554
-     0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
+     0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "For 80 chocobucks, you can purchase items that slightly improve one of your chocobo's attributes."
      0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x053A [0x03] ExtData[1]->WorkLocal[4] = 8*
@@ -1504,7 +1504,7 @@ SUBROUTINE_1CFA:
      0x054E [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x0551 [0x01] GOTO 0x0604
      0x0554 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x057A
-     0x055C [0x1D] PRINT_EVENT_MESSAGE(message_id=12134*)
+     0x055C [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
     → "For 90 chocobucks, you can purchase items that will improve one of your chocobo's attributes."
      0x055F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0560 [0x03] ExtData[1]->WorkLocal[4] = 9*
@@ -1514,7 +1514,7 @@ SUBROUTINE_1CFA:
      0x0574 [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x0577 [0x01] GOTO 0x0604
      0x057A [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x05A0
-     0x0582 [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+     0x0582 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
     → "For 100 chocobucks, you can purchase items that will slightly improve one of your retired chocobo's attributes."
      0x0585 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0586 [0x03] ExtData[1]->WorkLocal[4] = 10*
@@ -1524,7 +1524,7 @@ SUBROUTINE_1CFA:
      0x059A [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x059D [0x01] GOTO 0x0604
      0x05A0 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x05C6
-     0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
+     0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
     → "For 150 chocobucks, you can purchase VCS-approved racing silks."
      0x05AB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05AC [0x03] ExtData[1]->WorkLocal[4] = 11*
@@ -1534,7 +1534,7 @@ SUBROUTINE_1CFA:
      0x05C0 [0x1A] CALL_SUBROUTINE(address=0x0609)
      0x05C3 [0x01] GOTO 0x0604
      0x05C6 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x05EC
-     0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
+     0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
     → "For 500 chocobucks, you can purchase an authentic, limited-edition VCS-issued chair for all your posterial needs."
      0x05D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05D2 [0x03] ExtData[1]->WorkLocal[4] = 12*
@@ -1564,7 +1564,7 @@ SUBROUTINE_1CFA:
      0x063C [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[15]
      0x0641 [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration A (buffer=[00 80 08 00 D4 03 01 80...])
      0x065F [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration A (buffer=[0B 80 0D 00 D4 03 0E 80...])
-     0x067D [0x07] 0x02D4 += 12144*
+     0x067D [0x07] 0x02D4 += 12147*
      0x0682 [0x34] LOAD_UNLOAD_ZONE(zone_id=0x0500)
      0x0685 [0x00] END_REQSTACK()
      0x0686 [0x25] WAIT_DIALOG_SELECT()
@@ -1626,7 +1626,7 @@ SUBROUTINE_1CFA:
      0x0796 [0x01] GOTO 0x0799
      0x0799 [0x01] GOTO 0x08C1
      0x079C [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x08C1
-     0x07A4 [0x24] CREATE_DIALOG(message_id=12145*, default_option=ExtData[1]->WorkLocal[52], option_flags=ExtData[1]->WorkLocal[5])
+     0x07A4 [0x24] CREATE_DIALOG(message_id=12148*, default_option=ExtData[1]->WorkLocal[52], option_flags=ExtData[1]->WorkLocal[5])
     → "Purchase which items? [$0./$1./$2./$3./$4./$5./$6./$7./Quit./Return.]"
      0x07AB [0x25] WAIT_DIALOG_SELECT()
      0x07AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07C9
@@ -1841,7 +1841,7 @@ SUBROUTINE_1CFA:
      0x0BC1 [0x03] ExtData[1]->WorkLocal[36] = 0*
      0x0BC6 [0x02] IF !(Work_Zone[6] <= 0*) GOTO 0x0C20
      0x0BCE [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0C13
-     0x0BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12186*)
+     0x0BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12189*)
     → "How many? (Max.: $4)"
      0x0BD9 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 4*])
      0x0BDF [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[3])
@@ -1852,7 +1852,7 @@ SUBROUTINE_1CFA:
      0x0BF7 [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[3]
      0x0BFC [0x15] ExtData[1]->WorkLocal[36] /= 5*
      0x0C01 [0x02] IF !(Work_Zone[3] <= Work_Zone[6]) GOTO 0x0C10
-     0x0C09 [0x1D] PRINT_EVENT_MESSAGE(message_id=12180*)
+     0x0C09 [0x1D] PRINT_EVENT_MESSAGE(message_id=12183*)
     → "I'm sorry, but you don't have enough chocobucks to complete the transaction."
      0x0C0C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C0D [0x01] GOTO 0x0BD6
@@ -1860,26 +1860,26 @@ SUBROUTINE_1CFA:
      0x0C13 [0x03] Work_Zone[3] = 1*
      0x0C18 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[31]
      0x0C1D [0x01] GOTO 0x0C2A
-     0x0C20 [0x1D] PRINT_EVENT_MESSAGE(message_id=12180*)
+     0x0C20 [0x1D] PRINT_EVENT_MESSAGE(message_id=12183*)
     → "I'm sorry, but you don't have enough chocobucks to complete the transaction."
      0x0C23 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C24 [0x03] ExtData[1]->WorkLocal[2] = 1*
      0x0C29 [0x1B] RETURN
      0x0C2A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[31]
      0x0C2F [0x14] Work_Zone[4] *= Work_Zone[3]
-     0x0C34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12187*)
+     0x0C34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12190*)
     → "You need $2 chocobuck[/s] to purchase the $0 ."
      0x0C37 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C38 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0C3B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x0C40 [0x24] CREATE_DIALOG(message_id=12149*, default_option=1*, option_flags=0*)
+     0x0C40 [0x24] CREATE_DIALOG(message_id=12152*, default_option=1*, option_flags=0*)
     → "Complete transaction? ($0 chocobuck[/s]) [Immediately./Choose another item./Quit.]"
      0x0C47 [0x25] WAIT_DIALOG_SELECT()
      0x0C48 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CCE
      0x0C50 [0x02] IF !(ExtData[1]->WorkLocal[36] == 0*) GOTO 0x0C66
      0x0C58 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
      0x0C5D [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[36]
-     0x0C62 [0x1D] PRINT_EVENT_MESSAGE(message_id=12188*)
+     0x0C62 [0x1D] PRINT_EVENT_MESSAGE(message_id=12191*)
     → "Because you have made a total of $1 exchange[/s], I am authorized to give you $2 more as [a freebie/freebies]."
      0x0C65 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C66 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
@@ -1921,13 +1921,13 @@ SUBROUTINE_1CFA:
      0x0D14 [0x02] IF !(ExtData[1]->WorkLocal[33] == 0*) GOTO 0x0D23
      0x0D1C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=3*, condition_work_offset=1*)
      0x0D23 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-     0x0D28 [0x24] CREATE_DIALOG(message_id=12123*, default_option=ExtData[1]->WorkLocal[53], option_flags=ExtData[1]->WorkLocal[6])
+     0x0D28 [0x24] CREATE_DIALOG(message_id=12126*, default_option=ExtData[1]->WorkLocal[53], option_flags=ExtData[1]->WorkLocal[6])
     → "Which items? ($1 chocobuck[/s]) [50-chocobuck./Intensive training. (75 chocobucks)/Special training. (80 chocobucks)/View current chocobo./Quit./Back.]"
      0x0D2F [0x25] WAIT_DIALOG_SELECT()
      0x0D30 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DF6
      0x0D38 [0x03] ExtData[1]->WorkLocal[53] = Work_Zone[0]
      0x0D3D [0x02] IF !(ExtData[1]->WorkLocal[7] < 50*) GOTO 0x0DF0
-     0x0D45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
+     0x0D45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
     → "For 50 chocobucks, you can purchase a special type of feather dye that will change the color of your chocobo."
      0x0D48 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D49 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1936,7 +1936,7 @@ SUBROUTINE_1CFA:
      0x0D56 [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[4]
      0x0D5B [0x02] IF !(ExtData[1]->WorkLocal[19] == 1*) GOTO 0x0DE4
      0x0D63 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0DE1
-     0x0D6B [0x24] CREATE_DIALOG(message_id=12139*, default_option=0*, option_flags=0*)
+     0x0D6B [0x24] CREATE_DIALOG(message_id=12142*, default_option=0*, option_flags=0*)
     → "Select a color. (Currently [yellow/black/blue/red/green]) [Yellow./Black./Blue./Red./Green./Quit./Back.]"
      0x0D72 [0x25] WAIT_DIALOG_SELECT()
      0x0D73 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D81
@@ -1963,7 +1963,7 @@ SUBROUTINE_1CFA:
      0x0DDB [0x01] GOTO 0x0DDE
      0x0DDE [0x01] GOTO 0x0D63
      0x0DE1 [0x01] GOTO 0x0DED
-     0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
+     0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
     → "I'm sorry, but it says here that you do not have a chocobo you can call to the field."
      0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DE8 [0x03] ExtData[1]->WorkLocal[1] = 1*
@@ -1973,7 +1973,7 @@ SUBROUTINE_1CFA:
      0x0DF6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0E20
      0x0DFE [0x03] ExtData[1]->WorkLocal[53] = Work_Zone[0]
      0x0E03 [0x02] IF !(ExtData[1]->WorkLocal[7] < 75*) GOTO 0x0E1A
-     0x0E0B [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
+     0x0E0B [0x1D] PRINT_EVENT_MESSAGE(message_id=12144*)
     → "You can enroll your chocobo in our intensive training program, slightly improving one of its current attributes (randomly)."
      0x0E0E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E0F [0x03] ExtData[1]->WorkLocal[43] = 0*
@@ -1984,7 +1984,7 @@ SUBROUTINE_1CFA:
      0x0E20 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1025
      0x0E28 [0x03] ExtData[1]->WorkLocal[53] = Work_Zone[0]
      0x0E2D [0x02] IF !(ExtData[1]->WorkLocal[7] < 80*) GOTO 0x101F
-     0x0E35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12142*)
+     0x0E35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12145*)
     → "You can enroll your chocobo in our special training program, improving an ability of your choice."
      0x0E38 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E39 [0x02] IF !(ExtData[1]->WorkLocal[33] == 1*) GOTO 0x1013
@@ -1992,7 +1992,7 @@ SUBROUTINE_1CFA:
      0x0E49 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x1009
      0x0E51 [0x03] ExtData[1]->WorkLocal[1] = 0*
      0x0E56 [0x03] ExtData[1]->WorkLocal[28] = 0*
-     0x0E5B [0x24] CREATE_DIALOG(message_id=12162*, default_option=ExtData[1]->WorkLocal[54], option_flags=33*)
+     0x0E5B [0x24] CREATE_DIALOG(message_id=12165*, default_option=ExtData[1]->WorkLocal[54], option_flags=33*)
     → "What do you require? [Information on my current chocobo./A strength upgrade./An endurance upgrade./A discernment upgrade./A receptivity upgrade./Nothing./Return.]"
      0x0E62 [0x25] WAIT_DIALOG_SELECT()
      0x0E63 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E71
@@ -2000,7 +2000,7 @@ SUBROUTINE_1CFA:
      0x0E6E [0x01] GOTO 0x1006
      0x0E71 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0ECD
      0x0E79 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
-     0x0E7E [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+     0x0E7E [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
      0x0E85 [0x25] WAIT_DIALOG_SELECT()
      0x0E86 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EB4
@@ -2019,7 +2019,7 @@ SUBROUTINE_1CFA:
      0x0ECA [0x01] GOTO 0x1006
      0x0ECD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0F29
      0x0ED5 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
-     0x0EDA [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+     0x0EDA [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
      0x0EE1 [0x25] WAIT_DIALOG_SELECT()
      0x0EE2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F10
@@ -2038,7 +2038,7 @@ SUBROUTINE_1CFA:
      0x0F26 [0x01] GOTO 0x1006
      0x0F29 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0F85
      0x0F31 [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
-     0x0F36 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+     0x0F36 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
      0x0F3D [0x25] WAIT_DIALOG_SELECT()
      0x0F3E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F6C
@@ -2057,7 +2057,7 @@ SUBROUTINE_1CFA:
      0x0F82 [0x01] GOTO 0x1006
      0x0F85 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0FE1
      0x0F8D [0x03] ExtData[1]->WorkLocal[54] = Work_Zone[0]
-     0x0F92 [0x24] CREATE_DIALOG(message_id=12167*, default_option=1*, option_flags=4*)
+     0x0F92 [0x24] CREATE_DIALOG(message_id=12170*, default_option=1*, option_flags=4*)
     → "Are you sure? [Yes. Hurry up already!/Just forget it./Wait! I need more time...]"
      0x0F99 [0x25] WAIT_DIALOG_SELECT()
      0x0F9A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FC8
@@ -2083,11 +2083,11 @@ SUBROUTINE_1CFA:
      0x1003 [0x01] GOTO 0x1006
      0x1006 [0x01] GOTO 0x0E49
      0x1009 [0x01] GOTO 0x1010
-     0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=12179*)
+     0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=12182*)
     → "Your chocobo seems to have run away from the stables. I'm sorry, but we are unable to train it at this time."
      0x100F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1010 [0x01] GOTO 0x101C
-     0x1013 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
+     0x1013 [0x1D] PRINT_EVENT_MESSAGE(message_id=12146*)
     → "I'm sorry. The programs are only available to adult chocobos still residing in the stables."
      0x1016 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1017 [0x03] ExtData[1]->WorkLocal[1] = 1*
@@ -2108,18 +2108,18 @@ SUBROUTINE_1CFA:
      0x1050 [0x02] IF !(ExtData[1]->WorkLocal[55] == 0*) GOTO 0x105B
      0x1058 [0x01] GOTO 0x1121
      0x105B [0x02] IF !(ExtData[1]->WorkLocal[55] == 1*) GOTO 0x1074
-     0x1063 [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
+     0x1063 [0x1D] PRINT_EVENT_MESSAGE(message_id=12167*)
     → "I'm sorry, but any attempts to further raise that attribute may result in serious injury to your chocobo."
      0x1066 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1067 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=0*)
      0x1070 [0x21] END_EVENT
      0x1071 [0x01] GOTO 0x1121
      0x1074 [0x02] IF !(ExtData[1]->WorkLocal[55] == 2*) GOTO 0x10EE
-     0x107C [0x1D] PRINT_EVENT_MESSAGE(message_id=12165*)
+     0x107C [0x1D] PRINT_EVENT_MESSAGE(message_id=12168*)
     → "I'm required to inform you that raising the specified attribute will adversely affect others."
      0x107F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1080 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x10EB
-     0x1088 [0x24] CREATE_DIALOG(message_id=12166*, default_option=1*, option_flags=4*)
+     0x1088 [0x24] CREATE_DIALOG(message_id=12169*, default_option=1*, option_flags=4*)
     → "Do you still wish to proceed? [Yes./Choose another attribute./Quit.]"
      0x108F [0x25] WAIT_DIALOG_SELECT()
      0x1090 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10C3
@@ -2160,12 +2160,12 @@ SUBROUTINE_1CFA:
      0x1284 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1286 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x1288 [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[5]
-     0x128D [0x1D] PRINT_EVENT_MESSAGE(message_id=12170*)
+     0x128D [0x1D] PRINT_EVENT_MESSAGE(message_id=12173*)
     → "Color: [Yellow/Black/Blue/Red/Green]"
      0x1290 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1291 [0x1B] RETURN
      0x1292 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x12CB
-     0x129A [0x24] CREATE_DIALOG(message_id=12146*, default_option=0*, option_flags=0*)
+     0x129A [0x24] CREATE_DIALOG(message_id=12149*, default_option=0*, option_flags=0*)
     → "You lack sufficient funds. [Select another price group./Quit.]"
      0x12A1 [0x25] WAIT_DIALOG_SELECT()
      0x12A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12B7
@@ -2180,11 +2180,11 @@ SUBROUTINE_1CFA:
      0x12CB [0x1B] RETURN
      0x12CC [0x03] ExtData[1]->WorkLocal[56] = 0*
      0x12D1 [0x03] ExtData[1]->WorkLocal[59] = 0*
-     0x12D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
+     0x12D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
     → "For 50 chocobucks, you can purchase a special type of feather dye that will change the color of your chocobo."
      0x12D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12DA [0x02] IF !(ExtData[1]->WorkLocal[34] == 0*) GOTO 0x12E8
-     0x12E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
+     0x12E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
     → "I'm sorry, but it says here that you do not have a chocobo you can call to the field."
      0x12E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12E6 [0x21] END_EVENT
@@ -2192,7 +2192,7 @@ SUBROUTINE_1CFA:
      0x12E8 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x13CF
      0x12F0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[57]
      0x12F5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[56], bit_index_work_offset=ExtData[1]->WorkLocal[57], condition_work_offset=1*)
-     0x12FC [0x24] CREATE_DIALOG(message_id=12139*, default_option=ExtData[1]->WorkLocal[59], option_flags=ExtData[1]->WorkLocal[56])
+     0x12FC [0x24] CREATE_DIALOG(message_id=12142*, default_option=ExtData[1]->WorkLocal[59], option_flags=ExtData[1]->WorkLocal[56])
     → "Select a color. (Currently [yellow/black/blue/red/green]) [Yellow./Black./Blue./Red./Green./Quit./Back.]"
      0x1303 [0x25] WAIT_DIALOG_SELECT()
      0x1304 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1314
@@ -2219,12 +2219,12 @@ SUBROUTINE_1CFA:
      0x1369 [0x03] ExtData[1]->WorkLocal[59] = Work_Zone[0]
      0x136E [0x03] Work_Zone[2] = Work_Zone[0]
      0x1373 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-     0x1378 [0x24] CREATE_DIALOG(message_id=12189*, default_option=1*, option_flags=0*)
+     0x1378 [0x24] CREATE_DIALOG(message_id=12192*, default_option=1*, option_flags=0*)
     → "Is [yellow/black/blue/red/green] okay? ($1 chocobuck[/s]) [Yes. (50 chocobucks)/No.]"
      0x137F [0x25] WAIT_DIALOG_SELECT()
      0x1380 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13C1
      0x1388 [0x02] IF !(ExtData[1]->WorkLocal[7] < 50*) GOTO 0x13BA
-     0x1390 [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
+     0x1390 [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
     → "One of my hands will apply the dye immediately. Your chocobo will sport its stylish new color until you alter its registration."
      0x1393 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1394 [0x03] ExtData[1]->WorkLocal[3] = 1*
@@ -2235,7 +2235,7 @@ SUBROUTINE_1CFA:
      0x13B5 [0x21] END_EVENT
      0x13B6 [0x1B] RETURN
      0x13B7 [0x01] GOTO 0x13BE
-     0x13BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12180*)
+     0x13BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12183*)
     → "I'm sorry, but you don't have enough chocobucks to complete the transaction."
      0x13BD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13BE [0x01] GOTO 0x13CC
@@ -2247,7 +2247,7 @@ SUBROUTINE_1CFA:
      0x13E6 [0x01] GOTO 0x13F7
 # Dead code (unreachable instructions):
      0x144D [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x14C0
-     0x1455 [0x24] CREATE_DIALOG(message_id=12153*, default_option=0*, option_flags=0*)
+     0x1455 [0x24] CREATE_DIALOG(message_id=12156*, default_option=0*, option_flags=0*)
     → "What do you require? [Information on my chocobo./Yellow feather dyeing./Nothing.]"
      0x145C [0x25] WAIT_DIALOG_SELECT()
      0x145D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x146B
@@ -2271,7 +2271,7 @@ SUBROUTINE_1CFA:
      0x14BD [0x01] GOTO 0x144D
      0x14C0 [0x1B] RETURN
      0x14C1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x1534
-     0x14C9 [0x24] CREATE_DIALOG(message_id=12157*, default_option=0*, option_flags=0*)
+     0x14C9 [0x24] CREATE_DIALOG(message_id=12160*, default_option=0*, option_flags=0*)
     → "What do you require? [Information on my chocobo./Black feather dyeing./Nothing.]"
      0x14D0 [0x25] WAIT_DIALOG_SELECT()
      0x14D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14DF
@@ -2295,7 +2295,7 @@ SUBROUTINE_1CFA:
      0x1531 [0x01] GOTO 0x14C1
      0x1534 [0x1B] RETURN
      0x1535 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x15A8
-     0x153D [0x24] CREATE_DIALOG(message_id=12155*, default_option=0*, option_flags=0*)
+     0x153D [0x24] CREATE_DIALOG(message_id=12158*, default_option=0*, option_flags=0*)
     → "What do you require? [Information on my chocobo./Blue feather dyeing./Nothing.]"
      0x1544 [0x25] WAIT_DIALOG_SELECT()
      0x1545 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1553
@@ -2319,7 +2319,7 @@ SUBROUTINE_1CFA:
      0x15A5 [0x01] GOTO 0x1535
      0x15A8 [0x1B] RETURN
      0x15A9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x161C
-     0x15B1 [0x24] CREATE_DIALOG(message_id=12154*, default_option=0*, option_flags=0*)
+     0x15B1 [0x24] CREATE_DIALOG(message_id=12157*, default_option=0*, option_flags=0*)
     → "What do you require? [Information on my chocobo./Red feather dyeing./Nothing.]"
      0x15B8 [0x25] WAIT_DIALOG_SELECT()
      0x15B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15C7
@@ -2343,7 +2343,7 @@ SUBROUTINE_1CFA:
      0x1619 [0x01] GOTO 0x15A9
      0x161C [0x1B] RETURN
      0x161D [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x1690
-     0x1625 [0x24] CREATE_DIALOG(message_id=12156*, default_option=0*, option_flags=0*)
+     0x1625 [0x24] CREATE_DIALOG(message_id=12159*, default_option=0*, option_flags=0*)
     → "What do you require? [Information on my chocobo./Green feather dyeing./Nothing.]"
      0x162C [0x25] WAIT_DIALOG_SELECT()
      0x162D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x163B

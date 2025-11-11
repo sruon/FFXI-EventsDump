@@ -23,12 +23,12 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0003      |           3 |
 |       2 | 0x000A      |          10 |
-|       3 | 0x237B      |        9083 |
+|       3 | 0x237C      |        9084 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0008      |           8 |
 |       7 | 0x0009      |           9 |
-|       8 | 0x237A      |        9082 |
+|       8 | 0x237B      |        9083 |
 |       9 | 0x0004      |           4 |
 |      10 | 0x0005      |           5 |
 |      11 | 0x0006      |           6 |
@@ -37,8 +37,8 @@
 
 ## String References
 
-- **9082**: Raise fame for what? [I shall remain anonymous./Quests. ($1)/Pioneers' Coalition. ($2)/Peacekeepers' Coalition. ($3)/Coureiers' Coalition. ($4)/Scouts' Coalition. ($5)/Inventoers' Coalition. ($6)/Mummers' Coalition. ($7)]
-- **9083**: Fiddle with what? [Nuthin'./Fame!/Bayld. ($1)/Mummers' Medals. ($2)]
+- **9083**: Raise fame for what? [I shall remain anonymous./Quests. ($1)/Pioneers' Coalition. ($2)/Peacekeepers' Coalition. ($3)/Coureiers' Coalition. ($4)/Scouts' Coalition. ($5)/Inventoers' Coalition. ($6)/Mummers' Coalition. ($7)]
+- **9084**: Fiddle with what? [Nuthin'./Fame!/Bayld. ($1)/Mummers' Medals. ($2)]
 
 ## Events
 
@@ -108,7 +108,7 @@
   0: 0x0001 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=10*)
   1: 0x000A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   2: 0x000C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=9083*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=9084*, default_option=0*, option_flags=0*)
     → "Fiddle with what? [Nuthin'./Fame!/Bayld. ($1)/Mummers' Medals. ($2)]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0024
@@ -127,7 +127,7 @@ SUBROUTINE_0063:
  12: 0x0063 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=0*)
  13: 0x006C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  14: 0x006E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 15: 0x0070 [0x24] CREATE_DIALOG(message_id=9082*, default_option=0*, option_flags=0*)
+ 15: 0x0070 [0x24] CREATE_DIALOG(message_id=9083*, default_option=0*, option_flags=0*)
     → "Raise fame for what? [I shall remain anonymous./Quests. ($1)/Pioneers' Coalition. ($2)/Peacekeepers' Coalition. ($3)/Coureiers' Coalition. ($4)/Scouts' Coalition. ($5)/Inventoers' Coalition. ($6)/Mummers' Coalition. ($7)]"
  16: 0x0077 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0078 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0086

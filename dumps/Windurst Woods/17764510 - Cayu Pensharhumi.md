@@ -27,17 +27,17 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x1F53      |        8019 |
 |       3 | 0x1F54      |        8020 |
-|       4 | 0x28AF      |       10415 |
-|       5 | 0x28B6      |       10422 |
-|       6 | 0x28B7      |       10423 |
+|       4 | 0x28B2      |       10418 |
+|       5 | 0x28B9      |       10425 |
+|       6 | 0x28BA      |       10426 |
 
 ## String References
 
 - **8019**: Arrrgh... I'm soo borrred! I wish something would happen to get my hot Mithran blood running again!
 - **8020**: How I envy adventurerrrs like you. What I'd give to be able to head out into East Sarutabaruta and blow up some balloons forrr a bit of stress relief!
-- **10415**: <Player>'s badge flashes brightly.
-- **10422**: That badge! It makes my hot Mithran blood boil! It looks like things are going to get interrresting soon!
-- **10423**: Arrrgh, if only I were an adventurer! I would take off to the Near East as soon as I could!
+- **10418**: <Player>'s badge flashes brightly.
+- **10425**: That badge! It makes my hot Mithran blood boil! It looks like things are going to get interrresting soon!
+- **10426**: Arrrgh, if only I were an adventurer! I would take off to the Near East as soon as I could!
 
 ## Events
 
@@ -171,15 +171,15 @@
 
 ```
   0: 0x003B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x003C [0x48] [System] [10415*]:
+  1: 0x003C [0x48] [System] [10418*]:
     → "<Player>'s badge flashes brightly."
   2: 0x003F [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0044 [0x1C] WAIT(30* ticks)
   4: 0x0047 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=358*
-  5: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=10422*)
+  5: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=10425*)
     → "That badge! It makes my hot Mithran blood boil! It looks like things are going to get interrresting soon!"
   6: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=10423*)
+  7: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=10426*)
     → "Arrrgh, if only I were an adventurer! I would take off to the Near East as soon as I could!"
   8: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=358*

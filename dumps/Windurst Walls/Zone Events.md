@@ -5,9 +5,9 @@
 | Field            | Value                    |
 |------------------|--------------------------|
 | Zone             | Windurst Walls (ID: 239) |
-| Block Size       | 4124 bytes               |
+| Block Size       | 4212 bytes               |
 | Total Events     | 132                      |
-| References Count | 360                      |
+| References Count | 365                      |
 
 ## List of Events
 
@@ -144,7 +144,7 @@
 | [65535.112](#event-65535112) | 0x07DF       |     29 |              5 |
 | [65535.113](#event-65535113) | 0x07FC       |     24 |              4 |
 | [65535.114](#event-65535114) | 0x0814       |     24 |              4 |
-| [554](#event-554)            | 0x082C       |     46 |              8 |
+| [554](#event-554)            | 0x082C       |    115 |             21 |
 
 ## DAT References (imed_data)
 
@@ -507,16 +507,21 @@
 |     354 | 0x510CC     |      331980 |
 |     355 | 0xFFFEA9CB  |  4294879691 |
 |     356 | 0x000F      |          15 |
-|     357 | 0x2A7E      |       10878 |
-|     358 | 0x2AA4      |       10916 |
-|     359 | 0x005A      |          90 |
+|     357 | 0x00E6      |         230 |
+|     358 | 0x00EA      |         234 |
+|     359 | 0x00EF      |         239 |
+|     360 | 0x00F3      |         243 |
+|     361 | 0x0003      |           3 |
+|     362 | 0x2A7E      |       10878 |
+|     363 | 0x2AA4      |       10916 |
+|     364 | 0x005A      |          90 |
 
 ## String References
 
 - **9608**: <Player>'s badge flashes brightly.
 - **9617**: Chomomo's badge flashes brightly.
 - **9619**: Juna Moshal's badge flashes brightly.
-- **10878**: Entering $8.
+- **10878**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
 - **10916**: Your $3 fills with sand.
 
 ## Events
@@ -3878,32 +3883,51 @@ SUBROUTINE_0752:
 
 #### Metadata
 
-| Field        | Value    |
-|--------------|----------|
-| Entrypoint   | 0x082C   |
-| Data Size    | 46 bytes |
-| Instructions | 8        |
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x082C    |
+| Data Size    | 115 bytes |
+| Instructions | 21        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0820:                                      42 48 65 81              BHe.
-0830: 48 66 81 45 45 80 F0 FF  FF 7F F0 FF FF 7F 66 64  Hf.EE.........fd
-0840: 6F 31 02 80 62 46 80 F0  FF FF 7F F0 FF FF 7F 6D  o1..bF.........m
-0850: 61 69 6E 02 80 1C 67 81  21 00                    ain...g.!.      
+0820:                                      42 02 02 10              B...
+0830: 65 81 80 3D 08 03 02 10  02 80 01 72 08 02 02 10  e..=.......r....
+0840: 66 81 80 4D 08 03 02 10  46 80 01 72 08 02 02 10  f..M....F..r....
+0850: 67 81 80 5D 08 03 02 10  58 81 01 72 08 02 02 10  g..]....X..r....
+0860: 68 81 80 6D 08 03 02 10  69 81 01 72 08 03 02 10  h..m....i..r....
+0870: 02 80 48 6A 81 48 6B 81  45 45 80 F0 FF FF 7F F0  ..Hj.Hk.EE......
+0880: FF FF 7F 66 64 6F 31 02  80 62 46 80 F0 FF FF 7F  ...fdo1..bF.....
+0890: F0 FF FF 7F 6D 61 69 6E  02 80 1C 6C 81 21 00     ....main...l.!. 
 ```
 
 #### Opcodes
 
 ```
   0: 0x082C [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x082D [0x48] [System] [10878*]:
-    → "Entering $8."
-  2: 0x0830 [0x48] [System] [10916*]:
+  1: 0x082D [0x02] IF !(Work_Zone[2] == 230*) GOTO 0x083D
+  2: 0x0835 [0x03] Work_Zone[2] = 0*
+  3: 0x083A [0x01] GOTO 0x0872
+  4: 0x083D [0x02] IF !(Work_Zone[2] == 234*) GOTO 0x084D
+  5: 0x0845 [0x03] Work_Zone[2] = 1*
+  6: 0x084A [0x01] GOTO 0x0872
+  7: 0x084D [0x02] IF !(Work_Zone[2] == 239*) GOTO 0x085D
+  8: 0x0855 [0x03] Work_Zone[2] = 2*
+  9: 0x085A [0x01] GOTO 0x0872
+ 10: 0x085D [0x02] IF !(Work_Zone[2] == 243*) GOTO 0x086D
+ 11: 0x0865 [0x03] Work_Zone[2] = 3*
+ 12: 0x086A [0x01] GOTO 0x0872
+ 13: 0x086D [0x03] Work_Zone[2] = 0*
+
+SUBROUTINE_0872:
+ 14: 0x0872 [0x48] [System] [10878*]:
+    → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
+ 15: 0x0875 [0x48] [System] [10916*]:
     → "Your $3 fills with sand."
-  3: 0x0833 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  4: 0x0844 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
-  5: 0x0855 [0x1C] WAIT(90* ticks)
-  6: 0x0858 [0x21] END_EVENT
-  7: 0x0859 [0x00] END_REQSTACK()
+ 16: 0x0878 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 17: 0x0889 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
+ 18: 0x089A [0x1C] WAIT(90* ticks)
+ 19: 0x089D [0x21] END_EVENT
+ 20: 0x089E [0x00] END_REQSTACK()
 ```

@@ -29,19 +29,19 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x2261      |        8801 |
 |       3 | 0x2262      |        8802 |
-|       4 | 0x2FFB      |       12283 |
-|       5 | 0x2FFE      |       12286 |
-|       6 | 0x2FFF      |       12287 |
-|       7 | 0x3000      |       12288 |
-|       8 | 0x3001      |       12289 |
+|       4 | 0x2FFE      |       12286 |
+|       5 | 0x3001      |       12289 |
+|       6 | 0x3002      |       12290 |
+|       7 | 0x3003      |       12291 |
+|       8 | 0x3004      |       12292 |
 
 ## String References
 
 - **8801**: Don'taru you think the world's become all so rowdy-dowdy lately? The Manustery making Cardians like there's no tomorrow... The Orastery has gone and allowed the sale of high-level magic...
 - **8802**: A guy's got to think of an escape plan in case the whole place gets pulled into a war or something.
-- **12283**: <Player>'s badge flashes brightly.
-- **12286**: Don'taru you think the world's become all so rowdy-dowdy lately? The Manustery's remodeling the Cardians like there's no tomorrow!
-- **12287**: There could plausibly, possibly be a war soon! Could it entail...an expedient expedition to the Near East? No way, right!?
+- **12286**: <Player>'s badge flashes brightly.
+- **12289**: Don'taru you think the world's become all so rowdy-dowdy lately? The Manustery's remodeling the Cardians like there's no tomorrow!
+- **12290**: There could plausibly, possibly be a war soon! Could it entail...an expedient expedition to the Near East? No way, right!?
 
 ## Events
 
@@ -204,24 +204,24 @@
 
 ```
   0: 0x0051 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0052 [0x48] [System] [12283*]:
+  1: 0x0052 [0x48] [System] [12286*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0055 [0x1E] EventEntity looks at Kobite-Mojite (ID: 17752167/0x010EE067) and starts talking
   3: 0x005A [0x1C] WAIT(30* ticks)
   4: 0x005D [0x4A] Kobite-Mojite (ID: 17752167/0x010EE067) looks at Amagusa-Chigurusa (ID: 17752166/0x010EE066)
   5: 0x0066 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=12286*)
+  6: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=12289*)
     → "Don'taru you think the world's become all so rowdy-dowdy lately? The Manustery's remodeling the Cardians like there's no tomorrow!"
   7: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=12287*)
+  8: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=12290*)
     → "There could plausibly, possibly be a war soon! Could it entail...an expedient expedition to the Near East? No way, right!?"
   9: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x007D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  11: 0x008C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kobite-Mojite (ID: 17752167/0x010EE067), Kobite-Mojite (ID: 17752167/0x010EE067)], work=40*
- 12: 0x009B [0x2B] Kobite-Mojite (ID: 17752167/0x010EE067) [12288*]:
+ 12: 0x009B [0x2B] Kobite-Mojite (ID: 17752167/0x010EE067) [12291*]:
     → "That should be none of your concern."
  13: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x00A3 [0x2B] Kobite-Mojite (ID: 17752167/0x010EE067) [12289*]:
+ 14: 0x00A3 [0x2B] Kobite-Mojite (ID: 17752167/0x010EE067) [12292*]:
     → "So long as the Star Sibyl blesses us with her presence, the peace of Windurst is a given."
  15: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Kobite-Mojite (ID: 17752167/0x010EE067), Kobite-Mojite (ID: 17752167/0x010EE067)], work=40*

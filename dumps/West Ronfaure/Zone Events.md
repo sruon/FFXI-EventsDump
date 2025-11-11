@@ -78,12 +78,12 @@
 |      46 | 0x3E472     |      255090 |
 |      47 | 0xFFFF161C  |  4294907420 |
 |      48 | 0x0C66      |        3174 |
-|      49 | 0x1F79      |        8057 |
+|      49 | 0x1F7A      |        8058 |
 |      50 | 0x001E      |          30 |
-|      51 | 0x1F7A      |        8058 |
-|      52 | 0x1F7B      |        8059 |
-|      53 | 0x1F7F      |        8063 |
-|      54 | 0x1F7C      |        8060 |
+|      51 | 0x1F7B      |        8059 |
+|      52 | 0x1F7C      |        8060 |
+|      53 | 0x1F80      |        8064 |
+|      54 | 0x1F7D      |        8061 |
 |      55 | 0x00C9      |         201 |
 
 ## String References
@@ -536,11 +536,11 @@ SUBROUTINE_01CB:
  16: 0x0313 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x0324 [0x4A] Camereine (ID: 17187548/0x010642DC) looks at LocalPlayer
  18: 0x032D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x033E [0x2B] Camereine (ID: 17187548/0x010642DC) [8057*]:
+ 19: 0x033E [0x2B] Camereine (ID: 17187548/0x010642DC) [8058*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0346 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Camereine (ID: 17187548/0x010642DC), Camereine (ID: 17187548/0x010642DC)], work=30*
- 22: 0x0355 [0x2B] Camereine (ID: 17187548/0x010642DC) [8058*]:
+ 22: 0x0355 [0x2B] Camereine (ID: 17187548/0x010642DC) [8059*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x035D [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x03AF
@@ -552,17 +552,17 @@ SUBROUTINE_01CB:
  30: 0x0388 [0x15] Work_Zone[6] /= 60*
  31: 0x038D [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0394 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03A7
- 33: 0x039C [0x2B] Camereine (ID: 17187548/0x010642DC) [8059*]:
+ 33: 0x039C [0x2B] Camereine (ID: 17187548/0x010642DC) [8060*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x03A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x03A4 [0x01] GOTO 0x03AF
- 36: 0x03A7 [0x2B] Camereine (ID: 17187548/0x010642DC) [8063*]:
+ 36: 0x03A7 [0x2B] Camereine (ID: 17187548/0x010642DC) [8064*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03AF:
  38: 0x03AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Camereine (ID: 17187548/0x010642DC), Camereine (ID: 17187548/0x010642DC)], work=30*
- 39: 0x03BE [0x2B] Camereine (ID: 17187548/0x010642DC) [8060*]:
+ 39: 0x03BE [0x2B] Camereine (ID: 17187548/0x010642DC) [8061*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x03C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=5*

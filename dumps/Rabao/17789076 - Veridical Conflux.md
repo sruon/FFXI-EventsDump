@@ -25,7 +25,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2F44      |       12100 |
+|       2 | 0x2F45      |       12101 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0004      |           4 |
@@ -33,26 +33,26 @@
 |       7 | 0x0018      |          24 |
 |       8 | 0x001F      |          31 |
 |       9 | 0x40000000  |  1073741824 |
-|      10 | 0x2F2D      |       12077 |
-|      11 | 0x2F4A      |       12106 |
-|      12 | 0x2F22      |       12066 |
+|      10 | 0x2F2E      |       12078 |
+|      11 | 0x2F4B      |       12107 |
+|      12 | 0x2F23      |       12067 |
 |      13 | 0x000B      |          11 |
 |      14 | 0x000E      |          14 |
-|      15 | 0x2F47      |       12103 |
-|      16 | 0x2F36      |       12086 |
-|      17 | 0x2F4B      |       12107 |
-|      18 | 0x2F35      |       12085 |
-|      19 | 0x2F37      |       12087 |
-|      20 | 0x2F38      |       12088 |
-|      21 | 0x2F45      |       12101 |
-|      22 | 0x2F46      |       12102 |
-|      23 | 0x2F4C      |       12108 |
+|      15 | 0x2F48      |       12104 |
+|      16 | 0x2F37      |       12087 |
+|      17 | 0x2F4C      |       12108 |
+|      18 | 0x2F36      |       12086 |
+|      19 | 0x2F38      |       12088 |
+|      20 | 0x2F39      |       12089 |
+|      21 | 0x2F46      |       12102 |
+|      22 | 0x2F47      |       12103 |
+|      23 | 0x2F4D      |       12109 |
 |      24 | 0x0032      |          50 |
-|      25 | 0x2F55      |       12117 |
+|      25 | 0x2F56      |       12118 |
 |      26 | 0x0008      |           8 |
 |      27 | 0x000F      |          15 |
 |      28 | 0x0005      |           5 |
-|      29 | 0x2F60      |       12128 |
+|      29 | 0x2F61      |       12129 |
 |      30 | 0x0064      |         100 |
 |      31 | 0x0065      |         101 |
 |      32 | 0x0066      |         102 |
@@ -65,21 +65,21 @@
 
 ## String References
 
-- **12066**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-- **12077**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **12085**: You are currently number $3 in line to be drawn into this nightmare.
-- **12086**: You are currently number $3 in line, with $2 in front of you.
-- **12087**: Prepare yourselves! The battlefield is almost ready!
-- **12088**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **12100**: Attempt which? (Auto-transport: [off/on]) [None./Sheol A. (Level 119+)/Sheol B. (Level 124+)/Sheol C. (Level 129+)/Sheol: Gaol. (Level 124+)/./././././././././././Toggle auto-transport.]
-- **12101**: Only party members present with you in this area will be transported to [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12102**: Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12103**: You have chosen not to [apply to/enter] [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12106**: Applying to enter [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
-- **12107**: You are currently applying to enter [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **12108**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
-- **12117**: Designate a value between $0 and $1.
-- **12128**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
+- **12067**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+- **12078**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **12086**: You are currently number $3 in line to be drawn into this nightmare.
+- **12087**: You are currently number $3 in line, with $2 in front of you.
+- **12088**: Prepare yourselves! The battlefield is almost ready!
+- **12089**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **12101**: Attempt which? (Auto-transport: [off/on]) [None./Sheol A. (Level 119+)/Sheol B. (Level 124+)/Sheol C. (Level 129+)/Sheol: Gaol. (Level 124+)/./././././././././././Toggle auto-transport.]
+- **12102**: Only party members present with you in this area will be transported to [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12103**: Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12104**: You have chosen not to [apply to/enter] [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12107**: Applying to enter [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
+- **12108**: You are currently applying to enter [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12109**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
+- **12118**: Designate a value between $0 and $1.
+- **12129**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
 
 ## Events
 
@@ -154,7 +154,7 @@
   9: 0x002B [0x03] ExtData[1]->WorkLocal[3] = 0*
  10: 0x0030 [0x03] ExtData[1]->WorkLocal[1] = 0*
  11: 0x0035 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
- 12: 0x003A [0x24] CREATE_DIALOG(message_id=12100*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 12: 0x003A [0x24] CREATE_DIALOG(message_id=12101*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Attempt which? (Auto-transport: [off/on]) [None./Sheol A. (Level 119+)/Sheol B. (Level 124+)/Sheol C. (Level 129+)/Sheol: Gaol. (Level 124+)/./././././././././././Toggle auto-transport.]"
  13: 0x0041 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0042 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0052
@@ -184,15 +184,15 @@ SUBROUTINE_00A4:
 
 SUBROUTINE_00BC:
  36: 0x00BC [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
- 37: 0x00C1 [0x48] [System] [12077*]:
+ 37: 0x00C1 [0x48] [System] [12078*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
  38: 0x00C4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  39: 0x00C9 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 40: 0x00CE [0x48] [System] [12106*]:
+ 40: 0x00CE [0x48] [System] [12107*]:
     → "Applying to enter [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?"
  41: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00D2 [0x03] Work_Zone[3] = 0*
- 43: 0x00D7 [0x24] CREATE_DIALOG(message_id=12066*, default_option=0*, option_flags=0*)
+ 43: 0x00D7 [0x24] CREATE_DIALOG(message_id=12067*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  44: 0x00DE [0x25] WAIT_DIALOG_SELECT()
  45: 0x00DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0110
@@ -207,7 +207,7 @@ SUBROUTINE_00BC:
  54: 0x0110 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  55: 0x0115 [0x03] Work_Zone[3] = 0*
  56: 0x011A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 57: 0x011F [0x48] [System] [12103*]:
+ 57: 0x011F [0x48] [System] [12104*]:
     → "You have chosen not to [apply to/enter] [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  58: 0x0122 [0x03] Work_Zone[1] = 1073741824*
  59: 0x0127 [0x21] END_EVENT
@@ -254,26 +254,26 @@ SUBROUTINE_0129:
   0: 0x012B [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[4]
   1: 0x0130 [0x03] Work_Zone[4] = Work_Zone[6]
   2: 0x0135 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x0144
-  3: 0x013D [0x48] [System] [12086*]:
+  3: 0x013D [0x48] [System] [12087*]:
     → "You are currently number $3 in line, with $2 in front of you."
   4: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0141 [0x01] GOTO 0x0148
-  6: 0x0144 [0x48] [System] [12107*]:
+  6: 0x0144 [0x48] [System] [12108*]:
     → "You are currently applying to enter [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   7: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0148:
   8: 0x0148 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[18]
-  9: 0x014D [0x48] [System] [12085*]:
+  9: 0x014D [0x48] [System] [12086*]:
     → "You are currently number $3 in line to be drawn into this nightmare."
  10: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0151 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0164
- 12: 0x0159 [0x48] [System] [12087*]:
+ 12: 0x0159 [0x48] [System] [12088*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  13: 0x015C [0x03] Work_Zone[1] = 1073741824*
  14: 0x0161 [0x01] GOTO 0x0196
  15: 0x0164 [0x03] Work_Zone[2] = 1*
- 16: 0x0169 [0x24] CREATE_DIALOG(message_id=12088*, default_option=1*, option_flags=0*)
+ 16: 0x0169 [0x24] CREATE_DIALOG(message_id=12089*, default_option=1*, option_flags=0*)
     → "Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  17: 0x0170 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0171 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0181
@@ -317,11 +317,11 @@ SUBROUTINE_0196:
   0: 0x0198 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0199 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[2]
   2: 0x019E [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[4]
-  3: 0x01A3 [0x48] [System] [12101*]:
+  3: 0x01A3 [0x48] [System] [12102*]:
     → "Only party members present with you in this area will be transported to [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   4: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01A7 [0x03] Work_Zone[3] = 1*
-  6: 0x01AC [0x24] CREATE_DIALOG(message_id=12066*, default_option=0*, option_flags=0*)
+  6: 0x01AC [0x24] CREATE_DIALOG(message_id=12067*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
   7: 0x01B3 [0x25] WAIT_DIALOG_SELECT()
   8: 0x01B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EE
@@ -331,7 +331,7 @@ SUBROUTINE_0196:
  12: 0x01C5 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x01E6
  13: 0x01CD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
  14: 0x01D2 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[16]
- 15: 0x01D7 [0x48] [System] [12102*]:
+ 15: 0x01D7 [0x48] [System] [12103*]:
     → "Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  16: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x01DB [0x1A] CALL_SUBROUTINE(address=0x0324)
@@ -396,7 +396,7 @@ SUBROUTINE_01F3:
   0: 0x01F5 [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[2]
   1: 0x01FA [0x05] ExtData[1]->WorkLocal[10] = 1
   2: 0x01FD [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x0322
-  3: 0x0205 [0x24] CREATE_DIALOG(message_id=12108*, default_option=0*, option_flags=0*)
+  3: 0x0205 [0x24] CREATE_DIALOG(message_id=12109*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]"
   4: 0x020C [0x25] WAIT_DIALOG_SELECT()
   5: 0x020D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0221
@@ -412,7 +412,7 @@ SUBROUTINE_01F3:
  15: 0x0235 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0269
  16: 0x023D [0x03] Work_Zone[2] = 1*
  17: 0x0242 [0x03] Work_Zone[3] = 50*
- 18: 0x0247 [0x48] [System] [12117*]:
+ 18: 0x0247 [0x48] [System] [12118*]:
     → "Designate a value between $0 and $1."
  19: 0x024A [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  20: 0x0250 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -424,7 +424,7 @@ SUBROUTINE_01F3:
  26: 0x0269 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x029D
  27: 0x0271 [0x03] Work_Zone[2] = 1*
  28: 0x0276 [0x03] Work_Zone[3] = 50*
- 29: 0x027B [0x48] [System] [12117*]:
+ 29: 0x027B [0x48] [System] [12118*]:
     → "Designate a value between $0 and $1."
  30: 0x027E [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  31: 0x0284 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -440,7 +440,7 @@ SUBROUTINE_01F3:
  41: 0x02AE [0x01] GOTO 0x031F
  42: 0x02B1 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x031C
  43: 0x02B9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
- 44: 0x02BE [0x24] CREATE_DIALOG(message_id=12128*, default_option=0*, option_flags=0*)
+ 44: 0x02BE [0x24] CREATE_DIALOG(message_id=12129*, default_option=0*, option_flags=0*)
     → "$)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]"
  45: 0x02C5 [0x25] WAIT_DIALOG_SELECT()
  46: 0x02C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D6

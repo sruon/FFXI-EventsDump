@@ -38,11 +38,11 @@
 |       9 | 0x1C77      |        7287 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x1C78      |        7288 |
-|      12 | 0x1C83      |        7299 |
-|      13 | 0x1C84      |        7300 |
-|      14 | 0x1C86      |        7302 |
-|      15 | 0x1C85      |        7301 |
-|      16 | 0x1C87      |        7303 |
+|      12 | 0x1C84      |        7300 |
+|      13 | 0x1C85      |        7301 |
+|      14 | 0x1C87      |        7303 |
+|      15 | 0x1C86      |        7302 |
+|      16 | 0x1C88      |        7304 |
 |      17 | 0x2716      |       10006 |
 |      18 | 0x2717      |       10007 |
 |      19 | 0x2718      |       10008 |
@@ -50,12 +50,12 @@
 |      21 | 0x2719      |       10009 |
 |      22 | 0x0004      |           4 |
 |      23 | 0x271A      |       10010 |
-|      24 | 0x1C8B      |        7307 |
+|      24 | 0x1C8C      |        7308 |
 |      25 | 0x000F      |          15 |
 |      26 | 0x0005      |           5 |
-|      27 | 0x1C8C      |        7308 |
+|      27 | 0x1C8D      |        7309 |
 |      28 | 0x1C5F      |        7263 |
-|      29 | 0x1C8D      |        7309 |
+|      29 | 0x1C8E      |        7310 |
 |      30 | 0x0010      |          16 |
 |      31 | 0x001F      |          31 |
 
@@ -66,13 +66,13 @@
 - **7282**: Proceed? [Yes./No.]
 - **7286**: $0 detected. Several equipment items can now be created.
 - **7288**: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Apollyon Units shall be expended in the process.
-- **7299**: 
 - **7300**: 
 - **7301**: 
 - **7302**: 
 - **7303**: 
-- **7308**: 
+- **7304**: 
 - **7309**: 
+- **7310**: 
 
 ## Events
 
@@ -384,11 +384,11 @@ SUBROUTINE_02AE:
 
 ```
   0: 0x02B3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[5])
-  1: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
+  1: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
     → ""
   2: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02BA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  4: 0x02BD [0x24] CREATE_DIALOG(message_id=7300*, default_option=1*, option_flags=0*)
+  4: 0x02BD [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
     → ""
   5: 0x02C4 [0x25] WAIT_DIALOG_SELECT()
   6: 0x02C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0339
@@ -452,11 +452,11 @@ SUBROUTINE_0349:
 
 ```
   0: 0x034E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
-  1: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
+  1: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
     → ""
   2: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0355 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  4: 0x0358 [0x24] CREATE_DIALOG(message_id=7300*, default_option=1*, option_flags=0*)
+  4: 0x0358 [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
     → ""
   5: 0x035F [0x25] WAIT_DIALOG_SELECT()
   6: 0x0360 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D4
@@ -520,10 +520,10 @@ SUBROUTINE_03E4:
 
 ```
   0: 0x03E9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[6], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
-  1: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
+  1: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
     → ""
   2: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x03F7 [0x48] [System] [7303*]:
+  3: 0x03F7 [0x48] [System] [7304*]:
     → ""
   4: 0x03FA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
   5: 0x03FD [0x24] CREATE_DIALOG(message_id=7282*, default_option=1*, option_flags=0*)
@@ -656,7 +656,7 @@ SUBROUTINE_0583:
  40: 0x058E [0x03] ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[1]
  41: 0x0593 [0x15] ExtData[1]->WorkLocal[2] /= 2*
  42: 0x0598 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 43: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+ 43: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
     → ""
  44: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x05A1 [0x48] [System] [7263*]:
@@ -673,10 +673,10 @@ SUBROUTINE_0583:
  55: 0x05D5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
  56: 0x05DA [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
  57: 0x05DF [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[5]
- 58: 0x05E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
+ 58: 0x05E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
     → ""
  59: 0x05E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x05E8 [0x24] CREATE_DIALOG(message_id=7300*, default_option=1*, option_flags=0*)
+ 60: 0x05E8 [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
     → ""
  61: 0x05EF [0x25] WAIT_DIALOG_SELECT()
  62: 0x05F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0668

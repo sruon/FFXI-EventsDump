@@ -52,14 +52,14 @@
 |      23 | 0x2897      |       10391 |
 |      24 | 0x00C9      |         201 |
 |      25 | 0x2899      |       10393 |
-|      26 | 0x33ED      |       13293 |
+|      26 | 0x33F0      |       13296 |
 |      27 | 0x0015      |          21 |
-|      28 | 0x33EE      |       13294 |
-|      29 | 0x33EF      |       13295 |
+|      28 | 0x33F1      |       13297 |
+|      29 | 0x33F2      |       13298 |
 |      30 | 0x012C      |         300 |
-|      31 | 0x33F0      |       13296 |
-|      32 | 0x33F1      |       13297 |
-|      33 | 0x33F2      |       13298 |
+|      31 | 0x33F3      |       13299 |
+|      32 | 0x33F4      |       13300 |
+|      33 | 0x33F5      |       13301 |
 |      34 | 0x007A      |         122 |
 |      35 | 0x0104      |         260 |
 |      36 | 0x00C8      |         200 |
@@ -81,12 +81,12 @@
 - **10390**: The $3 is taken from <Player>!
 - **10391**: In return, I shall award you this bauble. It will come in handy for when you join the ranks of the Aht Urhgan mercenaries!
 - **10393**: Your name will shine down through the ages as one of our finest public relations officers. Should you ever brave the seas and find yourself in the Imperial City of Al Zahbi, you simply must visit the offices of Salaheem's Sentinels. I insist!
-- **13293**: Ah, if it isn't <Player>! Perchance you have come to question the authenticity of my testimony regarding the Sentinels. I do not deny that I may have possibly added a bit of color to the facts surrounding the true nature of our fine leader, but all's well that ends well, no?
-- **13294**: Ah, yet you need not fret any longer, my fine friend. Our prodigal president and provider once again has proffered forth her ever-giving hands in a selfless gesture of heartwarming charity.
-- **13295**: From this day forth, all employees of Salaheem's Sentinels can now teleport freely from San d'Oria to Aht Urhgan Whitegate!
-- **13296**: And by freely, I mean in the sense of "free as a bird" as I will require a fee of $0 gil from those who wish to partake in my services.
-- **13297**: Thank you very much, [sir/ma'am].
-- **13298**: Now let us be on our merry way!
+- **13296**: Ah, if it isn't <Player>! Perchance you have come to question the authenticity of my testimony regarding the Sentinels. I do not deny that I may have possibly added a bit of color to the facts surrounding the true nature of our fine leader, but all's well that ends well, no?
+- **13297**: Ah, yet you need not fret any longer, my fine friend. Our prodigal president and provider once again has proffered forth her ever-giving hands in a selfless gesture of heartwarming charity.
+- **13298**: From this day forth, all employees of Salaheem's Sentinels can now teleport freely from San d'Oria to Aht Urhgan Whitegate!
+- **13299**: And by freely, I mean in the sense of "free as a bird" as I will require a fee of $0 gil from those who wish to partake in my services.
+- **13300**: Thank you very much, [sir/ma'am].
+- **13301**: Now let us be on our merry way!
 
 ## Events
 
@@ -364,18 +364,18 @@ SUBROUTINE_0052:
   0: 0x0160 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0165 [0x1C] WAIT(45* ticks)
   2: 0x0168 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  3: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=13293*)
+  3: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=13296*)
     → "Ah, if it isn't <Player>! Perchance you have come to question the authenticity of my testimony regarding the Sentinels. I do not deny that I may have possibly added a bit of color to the facts surrounding the true nature of our fine leader, but all's well that ends well, no?"
   4: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x017B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
   6: 0x018A [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 21*
   7: 0x0191 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
-  8: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=13294*)
+  8: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=13297*)
     → "Ah, yet you need not fret any longer, my fine friend. Our prodigal president and provider once again has proffered forth her ever-giving hands in a selfless gesture of heartwarming charity."
   9: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x019A [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
  11: 0x019F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 12: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13295*)
+ 12: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13298*)
     → "From this day forth, all employees of Salaheem's Sentinels can now teleport freely from San d'Oria to Aht Urhgan Whitegate!"
  13: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01B2 [0x03] Work_Zone[2] = 300*
@@ -383,7 +383,7 @@ SUBROUTINE_0052:
  16: 0x01C6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  17: 0x01D3 [0x6E] Amutiyaal (ID: 17719569/0x010E6111) uses emote 10*
  18: 0x01DA [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
- 19: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13296*)
+ 19: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13299*)
     → "And by freely, I mean in the sense of "free as a bird" as I will require a fee of $0 gil from those who wish to partake in my services."
  20: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x01E3 [0x99] Wait for Amutiyaal (ID: 17719569/0x010E6111) animation to complete
@@ -421,12 +421,12 @@ SUBROUTINE_0052:
   2: 0x01ED [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x01F2 [0x1C] WAIT(45* ticks)
   4: 0x01F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=13297*)
+  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
     → "Thank you very much, [sir/ma'am]."
   6: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0208 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
   8: 0x0217 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
-  9: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=13298*)
+  9: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "Now let us be on our merry way!"
  10: 0x0227 [0x03] Work_Zone[1] = 1*
  11: 0x022C [0x73] Amutiyaal (ID: 17719569/0x010E6111) casts magic 122* on LocalPlayer

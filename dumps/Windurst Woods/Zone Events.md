@@ -368,9 +368,9 @@
 |     210 | 0x01A5      |         421 |
 |     211 | 0x00FE      |         254 |
 |     212 | 0x003C      |          60 |
-|     213 | 0x2CCF      |       11471 |
+|     213 | 0x2CD2      |       11474 |
 |     214 | 0x0031      |          49 |
-|     215 | 0x2CD0      |       11472 |
+|     215 | 0x2CD3      |       11475 |
 |     216 | 0x1FFEB     |      131051 |
 |     217 | 0xFFFE2615  |  4294845973 |
 |     218 | 0x0A10      |        2576 |
@@ -2510,13 +2510,13 @@ SUBROUTINE_04AF:
  12: 0x055A [0x1C] WAIT(60* ticks)
  13: 0x055D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  14: 0x056E [0x1C] WAIT(60* ticks)
- 15: 0x0571 [0x2B] Pulonono (ID: 17764419/0x010F1043) [11471*]:
+ 15: 0x0571 [0x2B] Pulonono (ID: 17764419/0x010F1043) [11474*]:
     → "So this is the egg you want to raise, is it?"
  16: 0x0578 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0579 [0x52] END_LOAD_SCHEDULER: End scheduler "s110" with entities [EventEntity, EventEntity], work=254*
  18: 0x0588 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [EventEntity, EventEntity], work=[254*, 0*]
  19: 0x0599 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Pulonono (ID: 17764419/0x010F1043), Pulonono (ID: 17764419/0x010F1043)], work=49*
- 20: 0x05A8 [0x2B] Pulonono (ID: 17764419/0x010F1043) [11472*]:
+ 20: 0x05A8 [0x2B] Pulonono (ID: 17764419/0x010F1043) [11475*]:
     → "We'll take good care of it, then... This is going to be the greatest chocobo ever!"
  21: 0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x05B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

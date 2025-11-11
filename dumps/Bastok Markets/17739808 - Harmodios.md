@@ -26,14 +26,14 @@
 |       2 | 0x23FD      |        9213 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x23FE      |        9214 |
-|       5 | 0x3088      |       12424 |
+|       5 | 0x308B      |       12427 |
 
 ## String References
 
 - **9206**: <Player>'s badge flashes brightly.
 - **9213**: What's this? Is that a Salaheem's Sentinel badge from Aht Urhgan you've got there?
 - **9214**: This is quite an exquisite piece of craftsmanship. I have heard that Aht Urhgan is as technologically advanced as Bastok--a very curious place, indeed.
-- **12424**: A collaboration of circus and dance, huh? Now that's something I haven't seen since my childhood, before Troupe Valeriano disbanded after that unfortunate fire...
+- **12427**: A collaboration of circus and dance, huh? Now that's something I haven't seen since my childhood, before Troupe Valeriano disbanded after that unfortunate fire...
 
 ## Events
 
@@ -120,7 +120,7 @@
 ```
   0: 0x0035 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003A [0x1C] WAIT(30* ticks)
-  2: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=12424*)
+  2: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=12427*)
     → "A collaboration of circus and dance, huh? Now that's something I haven't seen since my childhood, before Troupe Valeriano disbanded after that unfortunate fire..."
   3: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0041 [0x21] END_EVENT

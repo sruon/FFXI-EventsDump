@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E21      |        7713 |
+|       0 | 0x1E22      |        7714 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x07FF      |        2047 |
-|       3 | 0x1E22      |        7714 |
+|       3 | 0x1E23      |        7715 |
 |       4 | 0x000F      |          15 |
-|       5 | 0x1E23      |        7715 |
+|       5 | 0x1E24      |        7716 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0007      |           7 |
-|       8 | 0x1E24      |        7716 |
+|       8 | 0x1E25      |        7717 |
 |       9 | 0x000A      |          10 |
 |      10 | 0x000B      |          11 |
 |      11 | 0x000E      |          14 |
@@ -38,10 +38,10 @@
 
 ## String References
 
-- **7713**: (Attribute ID)
-- **7714**: (Shape)
-- **7715**: (Elemental affinity)
-- **7716**: (Size)
+- **7714**: (Attribute ID)
+- **7715**: (Shape)
+- **7716**: (Elemental affinity)
+- **7717**: (Size)
 
 ## Events
 
@@ -99,7 +99,7 @@
 
 ```
   0: 0x0001 [0x06] Work_Zone[1] = 0
-  1: 0x0004 [0x48] [System] [7713*]:
+  1: 0x0004 [0x48] [System] [7714*]:
     → "(Attribute ID)"
   2: 0x0007 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
   3: 0x000B [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])
@@ -110,7 +110,7 @@
   8: 0x0027 [0x03] Work_Zone[2] = 2047*
 
 SUBROUTINE_002C:
-  9: 0x002C [0x48] [System] [7714*]:
+  9: 0x002C [0x48] [System] [7715*]:
     → "(Shape)"
  10: 0x002F [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
  11: 0x0033 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[3])
@@ -121,7 +121,7 @@ SUBROUTINE_002C:
  16: 0x004F [0x03] Work_Zone[3] = 15*
 
 SUBROUTINE_0054:
- 17: 0x0054 [0x48] [System] [7715*]:
+ 17: 0x0054 [0x48] [System] [7716*]:
     → "(Elemental affinity)"
  18: 0x0057 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
  19: 0x005B [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[4])
@@ -132,7 +132,7 @@ SUBROUTINE_0054:
  24: 0x0077 [0x03] Work_Zone[4] = 7*
 
 SUBROUTINE_007C:
- 25: 0x007C [0x48] [System] [7716*]:
+ 25: 0x007C [0x48] [System] [7717*]:
     → "(Size)"
  26: 0x007F [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
  27: 0x0083 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[5])

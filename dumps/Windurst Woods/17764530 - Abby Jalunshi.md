@@ -41,17 +41,17 @@
 |       1 | 0x0006      |           6 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x33D3      |       13267 |
-|       5 | 0x33D4      |       13268 |
-|       6 | 0x33DC      |       13276 |
-|       7 | 0x33D8      |       13272 |
-|       8 | 0x33D5      |       13269 |
-|       9 | 0x33D6      |       13270 |
-|      10 | 0x33D7      |       13271 |
+|       4 | 0x33D6      |       13270 |
+|       5 | 0x33D7      |       13271 |
+|       6 | 0x33DF      |       13279 |
+|       7 | 0x33DB      |       13275 |
+|       8 | 0x33D8      |       13272 |
+|       9 | 0x33D9      |       13273 |
+|      10 | 0x33DA      |       13274 |
 |      11 | 0x001F      |          31 |
 |      12 | 0xFFFFFFFF  |  4294967295 |
-|      13 | 0x33DD      |       13277 |
-|      14 | 0x33DB      |       13275 |
+|      13 | 0x33E0      |       13280 |
+|      14 | 0x33DE      |       13278 |
 |      15 | 0x0032      |          50 |
 |      16 | 0x001E      |          30 |
 |      17 | 0x207B      |        8315 |
@@ -101,15 +101,15 @@
 - **8332**: When you lease a Rent-a-Room here, you can use that room as you would use your own personal Mog House back in your home country. Prrretty convenient, huh?
 - **8333**: Lease a Rent-a-Room? [Yes./No.]
 - **8334**: Ho-hum...ho-hum... There, it's all settled. You now have your own Rent-a-Room preparrred for your use in Windurst's residential area behind me. Have a pleasant stay.
-- **13267**: Through this archway lies Windurst's residential area. There is a Mog House room preparrred for your use in there.
-- **13268**: Beyond this arrrchway is Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for people's use.
-- **13269**: A Mog House is your own perrrsonal apartment room provided for your convenience.
-- **13270**: Within your Mog House, you can storrre items, change jobs, and heal your HP and MP.
-- **13271**: It's your own room, so you can use it however you see fit. Why don't you go up there now and take a little nap to refrrresh yourself?
-- **13272**: Oh well... Yourrr loss.
-- **13275**: Rrright this way.
-- **13276**: What do you wish to do? [Nothing in particular./Ask for an explanation of Mog Houses./Visit the Mog House of a party member.]
-- **13277**: Whose Mog House will you visit? [Never mind./%1/%2/%3/%4/%5/%6/%7/%8/%9/%10/%11/%12/%13/%14/%15/%16/%17]
+- **13270**: Through this archway lies Windurst's residential area. There is a Mog House room preparrred for your use in there.
+- **13271**: Beyond this arrrchway is Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for people's use.
+- **13272**: A Mog House is your own perrrsonal apartment room provided for your convenience.
+- **13273**: Within your Mog House, you can storrre items, change jobs, and heal your HP and MP.
+- **13274**: It's your own room, so you can use it however you see fit. Why don't you go up there now and take a little nap to refrrresh yourself?
+- **13275**: Oh well... Yourrr loss.
+- **13278**: Rrright this way.
+- **13279**: What do you wish to do? [Nothing in particular./Ask for an explanation of Mog Houses./Visit the Mog House of a party member.]
+- **13280**: Whose Mog House will you visit? [Never mind./%1/%2/%3/%4/%5/%6/%7/%8/%9/%10/%11/%12/%13/%14/%15/%16/%17]
 
 ## Events
 
@@ -175,33 +175,33 @@
   5: 0x001F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=2*, condition_work_offset=1*)
   6: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
   7: 0x002B [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0041
-  8: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=13267*)
+  8: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=13270*)
     → "Through this archway lies Windurst's residential area. There is a Mog House room preparrred for your use in there."
   9: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0037 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=1*, condition_work_offset=1*)
  11: 0x003E [0x01] GOTO 0x0045
- 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=13268*)
+ 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=13271*)
     → "Beyond this arrrchway is Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for people's use."
  13: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0045:
  14: 0x0045 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x00CF
- 15: 0x004D [0x24] CREATE_DIALOG(message_id=13276*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 15: 0x004D [0x24] CREATE_DIALOG(message_id=13279*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What do you wish to do? [Nothing in particular./Ask for an explanation of Mog Houses./Visit the Mog House of a party member.]"
  16: 0x0054 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0055 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0064
- 18: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=13272*)
+ 18: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=13275*)
     → "Oh well... Yourrr loss."
  19: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0061 [0x01] GOTO 0x00CF
  21: 0x0064 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0082
- 22: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=13269*)
+ 22: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=13272*)
     → "A Mog House is your own perrrsonal apartment room provided for your convenience."
  23: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=13270*)
+ 24: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=13273*)
     → "Within your Mog House, you can storrre items, change jobs, and heal your HP and MP."
  25: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=13271*)
+ 26: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=13274*)
     → "It's your own room, so you can use it however you see fit. Why don't you go up there now and take a little nap to refrrresh yourself?"
  27: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0078 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
@@ -210,11 +210,11 @@ SUBROUTINE_0045:
  31: 0x008A [0xC2] PARTY_STATE_CHECK: ExtData[1]->WorkLocal[1] = mask of visitable party members
  32: 0x008E [0x0F] ExtData[1]->WorkLocal[1] ^= 4294967295*
  33: 0x0093 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=0*, condition_work_offset=1*)
- 34: 0x009A [0x24] CREATE_DIALOG(message_id=13277*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 34: 0x009A [0x24] CREATE_DIALOG(message_id=13280*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Whose Mog House will you visit? [Never mind./%1/%2/%3/%4/%5/%6/%7/%8/%9/%10/%11/%12/%13/%14/%15/%16/%17]"
  35: 0x00A1 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B1
- 37: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=13272*)
+ 37: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=13275*)
     → "Oh well... Yourrr loss."
  38: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00AE [0x01] GOTO 0x00B1
@@ -224,7 +224,7 @@ SUBROUTINE_00B1:
  41: 0x00B9 [0x03] Work_Zone[1] = 0*
  42: 0x00BE [0x01] GOTO 0x00CC
  43: 0x00C1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 44: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13275*)
+ 44: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13278*)
     → "Rrright this way."
  45: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x00C6 [0xC2] PARTY_STATE_CHECK: Work_Zone[1] = check if party member (from Work_Zone[0]) house is open

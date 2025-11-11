@@ -22,28 +22,28 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0008      |           8 |
-|       2 | 0x3496      |       13462 |
+|       2 | 0x3499      |       13465 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x34A9      |       13481 |
+|       4 | 0x34AC      |       13484 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x34AA      |       13482 |
-|       7 | 0x3498      |       13464 |
-|       8 | 0x3499      |       13465 |
-|       9 | 0x34AB      |       13483 |
-|      10 | 0x34AC      |       13484 |
-|      11 | 0x34AD      |       13485 |
-|      12 | 0x34AE      |       13486 |
-|      13 | 0x34AF      |       13487 |
+|       6 | 0x34AD      |       13485 |
+|       7 | 0x349B      |       13467 |
+|       8 | 0x349C      |       13468 |
+|       9 | 0x34AE      |       13486 |
+|      10 | 0x34AF      |       13487 |
+|      11 | 0x34B0      |       13488 |
+|      12 | 0x34B1      |       13489 |
+|      13 | 0x34B2      |       13490 |
 |      14 | 0x000A      |          10 |
-|      15 | 0x349C      |       13468 |
-|      16 | 0x349D      |       13469 |
+|      15 | 0x349F      |       13471 |
+|      16 | 0x34A0      |       13472 |
 |      17 | 0x0012      |          18 |
 |      18 | 0x0013      |          19 |
-|      19 | 0x349E      |       13470 |
+|      19 | 0x34A1      |       13473 |
 |      20 | 0x0003      |           3 |
-|      21 | 0x3497      |       13463 |
-|      22 | 0x349A      |       13466 |
-|      23 | 0x349B      |       13467 |
+|      21 | 0x349A      |       13466 |
+|      22 | 0x349D      |       13469 |
+|      23 | 0x349E      |       13470 |
 |      24 | 0x00C8      |         200 |
 |      25 | 0x001B      |          27 |
 |      26 | 0x000C      |          12 |
@@ -74,48 +74,48 @@
 |      51 | 0x0C2B      |        3115 |
 |      52 | 0x0151      |         337 |
 |      53 | 0x000F      |          15 |
-|      54 | 0x349F      |       13471 |
+|      54 | 0x34A2      |       13474 |
 |      55 | 0x0004      |           4 |
 |      56 | 0x0005      |           5 |
 |      57 | 0x0006      |           6 |
-|      58 | 0x34A4      |       13476 |
+|      58 | 0x34A7      |       13479 |
 |      59 | 0x0078      |         120 |
-|      60 | 0x34A5      |       13477 |
-|      61 | 0x34A3      |       13475 |
+|      60 | 0x34A8      |       13480 |
+|      61 | 0x34A6      |       13478 |
 |      62 | 0x0007      |           7 |
-|      63 | 0x34A0      |       13472 |
-|      64 | 0x34A1      |       13473 |
+|      63 | 0x34A3      |       13475 |
+|      64 | 0x34A4      |       13476 |
 |      65 | 0x0009      |           9 |
-|      66 | 0x34A2      |       13474 |
+|      66 | 0x34A5      |       13477 |
 |      67 | 0x0011      |          17 |
-|      68 | 0x34B2      |       13490 |
+|      68 | 0x34B5      |       13493 |
 
 ## String References
 
-- **13462**: Hi there! Welcome to Spot the Difference!
-- **13463**: What would you like to do? [Learn how to play./Check current high score./Have a go!/Nothing.]
-- **13464**: As the name suggests, in this game you have to spot the difference. We will show you two people in identical attire, doing the same movements. However, there'll be moments of difference. Your job is to pinpoint such moments.
-- **13465**: Be warned! Pinpoint the wrong moment, and it's game over red rover!
-- **13466**: To clear the game, you need to pick out at least seven differences within one minute.
-- **13467**: Current high score: $0 [spot/spots]. Record holder: %0.
-- **13468**: It costs $0 gil to play.
-- **13469**: Play the game? (You have $0 gil.) [Play./Don't play.]
-- **13470**: Cheers!
-- **13471**: Push the button when you spot something! [Now!/Wait.]
-- **13472**: [Good job!/Too bad!] You spotted $2 [difference/differences].
-- **13473**: It's a new record! Congratulations!
-- **13474**: Here's your prize.
-- **13475**: Please come again.
-- **13476**: Oh no! I'm afraid that's game over!
-- **13477**: There wasn't anything different when you pushed the button.
-- **13481**: Wow, you sure do look good in that outfit! Why don't you try playing the game in hard mode?
-- **13482**: What would you like to do? [Learn how to play./Check current high score./Play normal mode./Try hard mode./Nothing.]
-- **13483**: To win in normal mode, you have one minute to spot seven or more differences.
-- **13484**: For hard mode, though, you'll need to find nine!
-- **13485**: Check high score for which mode? [Normal mode./Hard mode./Don't check.]
-- **13486**: Normal mode high score: $0 [spot/spots]. Record holder: %0.
-- **13487**: Hard mode high score: $1 [spot/spots]. Record holder: %1.
-- **13490**: Just when I thought the day couldn't get any warmer, you come and turn the heat up to sizzling! Here's your hard-earned prize, adventurer. May it always keep you cool.
+- **13465**: Hi there! Welcome to Spot the Difference!
+- **13466**: What would you like to do? [Learn how to play./Check current high score./Have a go!/Nothing.]
+- **13467**: As the name suggests, in this game you have to spot the difference. We will show you two people in identical attire, doing the same movements. However, there'll be moments of difference. Your job is to pinpoint such moments.
+- **13468**: Be warned! Pinpoint the wrong moment, and it's game over red rover!
+- **13469**: To clear the game, you need to pick out at least seven differences within one minute.
+- **13470**: Current high score: $0 [spot/spots]. Record holder: %0.
+- **13471**: It costs $0 gil to play.
+- **13472**: Play the game? (You have $0 gil.) [Play./Don't play.]
+- **13473**: Cheers!
+- **13474**: Push the button when you spot something! [Now!/Wait.]
+- **13475**: [Good job!/Too bad!] You spotted $2 [difference/differences].
+- **13476**: It's a new record! Congratulations!
+- **13477**: Here's your prize.
+- **13478**: Please come again.
+- **13479**: Oh no! I'm afraid that's game over!
+- **13480**: There wasn't anything different when you pushed the button.
+- **13484**: Wow, you sure do look good in that outfit! Why don't you try playing the game in hard mode?
+- **13485**: What would you like to do? [Learn how to play./Check current high score./Play normal mode./Try hard mode./Nothing.]
+- **13486**: To win in normal mode, you have one minute to spot seven or more differences.
+- **13487**: For hard mode, though, you'll need to find nine!
+- **13488**: Check high score for which mode? [Normal mode./Hard mode./Don't check.]
+- **13489**: Normal mode high score: $0 [spot/spots]. Record holder: %0.
+- **13490**: Hard mode high score: $1 [spot/spots]. Record holder: %1.
+- **13493**: Just when I thought the day couldn't get any warmer, you come and turn the heat up to sizzling! Here's your hard-earned prize, adventurer. May it always keep you cool.
 
 ## Events
 
@@ -297,42 +297,42 @@
   7: 0x001E [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[3]
   8: 0x0023 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[5]
   9: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 10: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=13462*)
+ 10: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=13465*)
     → "Hi there! Welcome to Spot the Difference!"
  11: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0031 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0196
  13: 0x0039 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 14: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=13481*)
+ 14: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=13484*)
     → "Wow, you sure do look good in that outfit! Why don't you try playing the game in hard mode?"
  15: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0042 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0057
  17: 0x004A [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0057
  18: 0x0052 [0x03] ExtData[1]->WorkLocal[0] = 2*
- 19: 0x0057 [0x24] CREATE_DIALOG(message_id=13482*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 19: 0x0057 [0x24] CREATE_DIALOG(message_id=13485*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What would you like to do? [Learn how to play./Check current high score./Play normal mode./Try hard mode./Nothing.]"
  20: 0x005E [0x25] WAIT_DIALOG_SELECT()
  21: 0x005F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007D
- 22: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=13464*)
+ 22: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=13467*)
     → "As the name suggests, in this game you have to spot the difference. We will show you two people in identical attire, doing the same movements. However, there'll be moments of difference. Your job is to pinpoint such moments."
  23: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=13465*)
+ 24: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=13468*)
     → "Be warned! Pinpoint the wrong moment, and it's game over red rover!"
  25: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=13483*)
+ 26: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=13486*)
     → "To win in normal mode, you have one minute to spot seven or more differences."
  27: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=13484*)
+ 28: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=13487*)
     → "For hard mode, though, you'll need to find nine!"
  29: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0077 [0x01] GOTO 0x0057
 
 SUBROUTINE_00AA:
- 31: 0x00AA [0x24] CREATE_DIALOG(message_id=13485*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 31: 0x00AA [0x24] CREATE_DIALOG(message_id=13488*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Check high score for which mode? [Normal mode./Hard mode./Don't check.]"
  32: 0x00B1 [0x25] WAIT_DIALOG_SELECT()
  33: 0x00B2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C9
  34: 0x00BA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 35: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13486*)
+ 35: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13489*)
     → "Normal mode high score: $0 [spot/spots]. Record holder: %0."
  36: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00C3 [0x01] GOTO 0x00AA
@@ -346,20 +346,20 @@ SUBROUTINE_0116:
  41: 0x011D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  42: 0x011F [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0137
  43: 0x0127 [0x40] SET_BIT_WORK_RANGE(start_bit=18*, end_bit=19*, target=Work_Zone[1], source=1*)
- 44: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=13470*)
+ 44: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=13473*)
     → "Cheers!"
  45: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0134 [0x1A] CALL_SUBROUTINE(address=0x0232)
  47: 0x0137 [0x01] GOTO 0x0193
  48: 0x013A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0193
  49: 0x0142 [0x03] Work_Zone[2] = 10*
- 50: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=13468*)
+ 50: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=13471*)
     → "It costs $0 gil to play."
  51: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x014B [0x03] Work_Zone[1] = 1*
  53: 0x0150 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  54: 0x0152 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 55: 0x0154 [0x24] CREATE_DIALOG(message_id=13469*, default_option=1*, option_flags=0*)
+ 55: 0x0154 [0x24] CREATE_DIALOG(message_id=13472*, default_option=1*, option_flags=0*)
     → "Play the game? (You have $0 gil.) [Play./Don't play.]"
  56: 0x015B [0x25] WAIT_DIALOG_SELECT()
  57: 0x015C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x016A
@@ -372,7 +372,7 @@ SUBROUTINE_016A:
  62: 0x0173 [0x03] Work_Zone[83] = 1*
  63: 0x0178 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0190
  64: 0x0180 [0x40] SET_BIT_WORK_RANGE(start_bit=18*, end_bit=19*, target=Work_Zone[1], source=1*)
- 65: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=13470*)
+ 65: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=13473*)
     → "Cheers!"
  66: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x018D [0x1A] CALL_SUBROUTINE(address=0x0232)
@@ -384,17 +384,17 @@ SUBROUTINE_0193:
  71: 0x019E [0x03] ExtData[1]->WorkLocal[0] = 2*
 
 SUBROUTINE_01A3:
- 72: 0x01A3 [0x24] CREATE_DIALOG(message_id=13463*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 72: 0x01A3 [0x24] CREATE_DIALOG(message_id=13466*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What would you like to do? [Learn how to play./Check current high score./Have a go!/Nothing.]"
  73: 0x01AA [0x25] WAIT_DIALOG_SELECT()
  74: 0x01AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C5
- 75: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13464*)
+ 75: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13467*)
     → "As the name suggests, in this game you have to spot the difference. We will show you two people in identical attire, doing the same movements. However, there'll be moments of difference. Your job is to pinpoint such moments."
  76: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13465*)
+ 77: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13468*)
     → "Be warned! Pinpoint the wrong moment, and it's game over red rover!"
  78: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13466*)
+ 79: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13469*)
     → "To clear the game, you need to pick out at least seven differences within one minute."
  80: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x01BF [0x01] GOTO 0x01A3
@@ -405,7 +405,7 @@ SUBROUTINE_020C:
  84: 0x0213 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  85: 0x0215 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x022D
  86: 0x021D [0x40] SET_BIT_WORK_RANGE(start_bit=18*, end_bit=19*, target=Work_Zone[1], source=1*)
- 87: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=13470*)
+ 87: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=13473*)
     → "Cheers!"
  88: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x022A [0x1A] CALL_SUBROUTINE(address=0x0232)
@@ -483,7 +483,7 @@ SUBROUTINE_0232:
 SUBROUTINE_0401:
 156: 0x0401 [0x02] IF !(Work_Zone[80] == 0*) GOTO 0x05EB
 157: 0x0409 [0x02] IF !(Work_Zone[85] == 1*) GOTO 0x05E5
-158: 0x0411 [0x24] CREATE_DIALOG(message_id=13471*, default_option=0*, option_flags=0*)
+158: 0x0411 [0x24] CREATE_DIALOG(message_id=13474*, default_option=0*, option_flags=0*)
     → "Push the button when you spot something! [Now!/Wait.]"
 159: 0x0418 [0x25] WAIT_DIALOG_SELECT()
 160: 0x0419 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0534
@@ -570,7 +570,7 @@ SUBROUTINE_05E5:
 233: 0x05FC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
 234: 0x060B [0x02] IF !(Work_Zone[80] == 2*) GOTO 0x0628
 235: 0x0613 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "owri" with entities [EventEntity, EventEntity], work=[337*, 0*]
-236: 0x0624 [0x1D] PRINT_EVENT_MESSAGE(message_id=13476*)
+236: 0x0624 [0x1D] PRINT_EVENT_MESSAGE(message_id=13479*)
     → "Oh no! I'm afraid that's game over!"
 237: 0x0627 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0628 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=337*
@@ -613,10 +613,10 @@ SUBROUTINE_05E5:
 275: 0x070B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
 276: 0x071A [0x02] IF !(Work_Zone[80] == 2*) GOTO 0x0732
 277: 0x0722 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
-278: 0x0727 [0x1D] PRINT_EVENT_MESSAGE(message_id=13477*)
+278: 0x0727 [0x1D] PRINT_EVENT_MESSAGE(message_id=13480*)
     → "There wasn't anything different when you pushed the button."
 279: 0x072A [0x23] WAIT_FOR_DIALOG_INTERACTION
-280: 0x072B [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
+280: 0x072B [0x1D] PRINT_EVENT_MESSAGE(message_id=13478*)
     → "Please come again."
 281: 0x072E [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x072F [0x01] GOTO 0x07FA
@@ -625,15 +625,15 @@ SUBROUTINE_05E5:
 285: 0x0742 [0x03] Work_Zone[2] = 0*
 286: 0x0747 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 287: 0x074C [0x03] Work_Zone[4] = Work_Zone[81]
-288: 0x0751 [0x1D] PRINT_EVENT_MESSAGE(message_id=13472*)
+288: 0x0751 [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
     → "[Good job!/Too bad!] You spotted $2 [difference/differences]."
 289: 0x0754 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x0755 [0x02] IF !(ExtData[1]->WorkLocal[2] >= Work_Zone[81]) GOTO 0x076A
-291: 0x075D [0x1D] PRINT_EVENT_MESSAGE(message_id=13473*)
+291: 0x075D [0x1D] PRINT_EVENT_MESSAGE(message_id=13476*)
     → "It's a new record! Congratulations!"
 292: 0x0760 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0761 [0x40] SET_BIT_WORK_RANGE(start_bit=2*, end_bit=9*, target=Work_Zone[1], source=Work_Zone[81])
-294: 0x076A [0x1D] PRINT_EVENT_MESSAGE(message_id=13474*)
+294: 0x076A [0x1D] PRINT_EVENT_MESSAGE(message_id=13477*)
     → "Here's your prize."
 295: 0x076D [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x076E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=0*)
@@ -641,10 +641,10 @@ SUBROUTINE_05E5:
 298: 0x077A [0x03] Work_Zone[2] = 1*
 299: 0x077F [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 300: 0x0784 [0x03] Work_Zone[4] = Work_Zone[81]
-301: 0x0789 [0x1D] PRINT_EVENT_MESSAGE(message_id=13472*)
+301: 0x0789 [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
     → "[Good job!/Too bad!] You spotted $2 [difference/differences]."
 302: 0x078C [0x23] WAIT_FOR_DIALOG_INTERACTION
-303: 0x078D [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
+303: 0x078D [0x1D] PRINT_EVENT_MESSAGE(message_id=13478*)
     → "Please come again."
 304: 0x0790 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -654,20 +654,20 @@ SUBROUTINE_0791:
 307: 0x079C [0x03] Work_Zone[2] = 0*
 308: 0x07A1 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 309: 0x07A6 [0x03] Work_Zone[4] = Work_Zone[81]
-310: 0x07AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13472*)
+310: 0x07AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
     → "[Good job!/Too bad!] You spotted $2 [difference/differences]."
 311: 0x07AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 312: 0x07AF [0x02] IF !(ExtData[1]->WorkLocal[3] >= Work_Zone[81]) GOTO 0x07C4
-313: 0x07B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13473*)
+313: 0x07B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13476*)
     → "It's a new record! Congratulations!"
 314: 0x07BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x07BB [0x40] SET_BIT_WORK_RANGE(start_bit=10*, end_bit=17*, target=Work_Zone[1], source=Work_Zone[81])
 316: 0x07C4 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x07D3
-317: 0x07CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13490*)
+317: 0x07CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13493*)
     → "Just when I thought the day couldn't get any warmer, you come and turn the heat up to sizzling! Here's your hard-earned prize, adventurer. May it always keep you cool."
 318: 0x07CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 319: 0x07D0 [0x01] GOTO 0x07D7
-320: 0x07D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13474*)
+320: 0x07D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13477*)
     → "Here's your prize."
 321: 0x07D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -677,10 +677,10 @@ SUBROUTINE_07D7:
 324: 0x07E3 [0x03] Work_Zone[2] = 1*
 325: 0x07E8 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 326: 0x07ED [0x03] Work_Zone[4] = Work_Zone[81]
-327: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13472*)
+327: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
     → "[Good job!/Too bad!] You spotted $2 [difference/differences]."
 328: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-329: 0x07F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13475*)
+329: 0x07F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13478*)
     → "Please come again."
 330: 0x07F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

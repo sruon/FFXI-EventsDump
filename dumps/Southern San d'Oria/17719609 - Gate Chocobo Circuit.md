@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x33F3      |       13299 |
+|       0 | 0x33F6      |       13302 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -30,7 +30,7 @@
 
 ## String References
 
-- **13299**: Visit the Chocobo Circuit? [Off to the races!/Not right now.]
+- **13302**: Visit the Chocobo Circuit? [Off to the races!/Not right now.]
 
 ## Events
 
@@ -81,7 +81,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=13299*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=13302*, default_option=1*, option_flags=0*)
     → "Visit the Chocobo Circuit? [Off to the races!/Not right now.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0044

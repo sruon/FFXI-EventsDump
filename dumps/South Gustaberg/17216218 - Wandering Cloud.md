@@ -27,61 +27,61 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B19      |       11033 |
-|       1 | 0x2B1A      |       11034 |
-|       2 | 0x2B1B      |       11035 |
+|       0 | 0x2B1B      |       11035 |
+|       1 | 0x2B1C      |       11036 |
+|       2 | 0x2B1D      |       11037 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2B42      |       11074 |
+|       5 | 0x2B44      |       11076 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x2B2E      |       11054 |
+|       7 | 0x2B30      |       11056 |
 |       8 | 0x006B      |         107 |
 |       9 | 0x0009      |           9 |
-|      10 | 0x2B30      |       11056 |
-|      11 | 0x2B2C      |       11052 |
-|      12 | 0x2B2D      |       11053 |
+|      10 | 0x2B32      |       11058 |
+|      11 | 0x2B2E      |       11054 |
+|      12 | 0x2B2F      |       11055 |
 |      13 | 0x0002      |           2 |
 |      14 | 0x1914      |        6420 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x2B1D      |       11037 |
-|      17 | 0x2B1E      |       11038 |
-|      18 | 0x2B1F      |       11039 |
-|      19 | 0x2B20      |       11040 |
-|      20 | 0x2B21      |       11041 |
-|      21 | 0x2B22      |       11042 |
-|      22 | 0x2B23      |       11043 |
-|      23 | 0x2B24      |       11044 |
-|      24 | 0x2B25      |       11045 |
-|      25 | 0x2B26      |       11046 |
-|      26 | 0x2B27      |       11047 |
-|      27 | 0x2B40      |       11072 |
-|      28 | 0x2B41      |       11073 |
-|      29 | 0x2B28      |       11048 |
+|      16 | 0x2B1F      |       11039 |
+|      17 | 0x2B20      |       11040 |
+|      18 | 0x2B21      |       11041 |
+|      19 | 0x2B22      |       11042 |
+|      20 | 0x2B23      |       11043 |
+|      21 | 0x2B24      |       11044 |
+|      22 | 0x2B25      |       11045 |
+|      23 | 0x2B26      |       11046 |
+|      24 | 0x2B27      |       11047 |
+|      25 | 0x2B28      |       11048 |
+|      26 | 0x2B29      |       11049 |
+|      27 | 0x2B42      |       11074 |
+|      28 | 0x2B43      |       11075 |
+|      29 | 0x2B2A      |       11050 |
 |      30 | 0x000F      |          15 |
 |      31 | 0x003C      |          60 |
 |      32 | 0x0010      |          16 |
 |      33 | 0x001F      |          31 |
-|      34 | 0x2B2A      |       11050 |
-|      35 | 0x2B29      |       11049 |
-|      36 | 0x2B35      |       11061 |
-|      37 | 0x2B36      |       11062 |
-|      38 | 0x2B2F      |       11055 |
-|      39 | 0x2B37      |       11063 |
+|      34 | 0x2B2C      |       11052 |
+|      35 | 0x2B2B      |       11051 |
+|      36 | 0x2B37      |       11063 |
+|      37 | 0x2B38      |       11064 |
+|      38 | 0x2B31      |       11057 |
+|      39 | 0x2B39      |       11065 |
 |      40 | 0x0005      |           5 |
-|      41 | 0x2B38      |       11064 |
-|      42 | 0x2B39      |       11065 |
-|      43 | 0x2B3A      |       11066 |
+|      41 | 0x2B3A      |       11066 |
+|      42 | 0x2B3B      |       11067 |
+|      43 | 0x2B3C      |       11068 |
 |      44 | 0x0007      |           7 |
-|      45 | 0x2B3C      |       11068 |
-|      46 | 0x2B3D      |       11069 |
-|      47 | 0x2B3B      |       11067 |
-|      48 | 0x2B4E      |       11086 |
-|      49 | 0x2B3E      |       11070 |
-|      50 | 0x2B34      |       11060 |
-|      51 | 0x2B32      |       11058 |
-|      52 | 0x2B33      |       11059 |
-|      53 | 0x2B3F      |       11071 |
-|      54 | 0x2B1C      |       11036 |
+|      45 | 0x2B3E      |       11070 |
+|      46 | 0x2B3F      |       11071 |
+|      47 | 0x2B3D      |       11069 |
+|      48 | 0x2B50      |       11088 |
+|      49 | 0x2B40      |       11072 |
+|      50 | 0x2B36      |       11062 |
+|      51 | 0x2B34      |       11060 |
+|      52 | 0x2B35      |       11061 |
+|      53 | 0x2B41      |       11073 |
+|      54 | 0x2B1E      |       11038 |
 |      55 | 0x000A      |          10 |
 |      56 | 0x55CFD     |      351485 |
 |      57 | 0x7CC2D     |      511021 |
@@ -143,11 +143,11 @@
 ## String References
 
 - **6420**: You do not have enough gil.
-- **11035**: What will you do? [Undertake training./Hear an explanation./What's the qualifying time?/What's the fastest time?/Nothing.]
-- **11053**: Give to the children? [I live to give!/Charity begins at home.]
-- **11062**: What will you do? [Hear an explanation./Where're the smile helpers again?/Cancel the training./Nothing.]
-- **11067**: You obtain $1!
-- **11086**: You obtain $1 $0 !
+- **11037**: What will you do? [Undertake training./Hear an explanation./What's the qualifying time?/What's the fastest time?/Nothing.]
+- **11055**: Give to the children? [I live to give!/Charity begins at home.]
+- **11064**: What will you do? [Hear an explanation./Where're the smile helpers again?/Cancel the training./Nothing.]
+- **11069**: You obtain $1!
+- **11088**: You obtain $1 $0 !
 
 ## Events
 
@@ -226,18 +226,18 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11033*]:
+  1: 0x0006 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11035*]:
     → "Hi there! I'm your friendly neighborhood smile sergeant! I'm in charge of running the [beginner/intermediate/advanced] level Smilebringer Boot Camp in this area."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11034*]:
+  3: 0x000E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11036*]:
     → "I'd be thrilled to answer any questions you might have...and of course, sign you up, too! You'd like that, wouldn't you? Hmmm?"
   4: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0016 [0x24] CREATE_DIALOG(message_id=11035*, default_option=0*, option_flags=0*)
+  5: 0x0016 [0x24] CREATE_DIALOG(message_id=11037*, default_option=0*, option_flags=0*)
     → "What will you do? [Undertake training./Hear an explanation./What's the qualifying time?/What's the fastest time?/Nothing.]"
   6: 0x001D [0x25] WAIT_DIALOG_SELECT()
   7: 0x001E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FB
   8: 0x0026 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x003F
-  9: 0x002E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11074*]:
+  9: 0x002E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11076*]:
     → "Awww, seeing the way you're simply bursting with enthusiasm makes me want to cry tears of joy. But you have to be cruel to be kind. No more training until tomorrow, young [man/lady]! No siree!"
  10: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0036 [0x03] Work_Zone[1] = 3*
@@ -246,47 +246,47 @@
 SUBROUTINE_00F8:
  13: 0x00F8 [0x01] GOTO 0x021B
  14: 0x00FB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0184
- 15: 0x0103 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11037*]:
+ 15: 0x0103 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11039*]:
     → "It'd be my pleasure! Here goes nothing! Ahem! The Smilebringer Boot Camp was established for two purposes, the first being the ongoing training and conditioning of smilebringers. The second--and this is where you come in, yay!--is for us to scout hopefuls from the adventurer community to join our jovial ranks!"
  16: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x010B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11038*]:
+ 17: 0x010B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11040*]:
     → "The population of vicious monsters has grown in recent years, you see. And because of this, more smilebringers were being--<gasp!>--injured in the line of duty than ever before."
  18: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0113 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11039*]:
+ 19: 0x0113 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11041*]:
     → "But we weren't going to take that sitting down, no siree. The day we smilebringers stop doing our job--that is, bringing smiles--is the day the world ends!"
  20: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x011B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11040*]:
+ 21: 0x011B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11042*]:
     → "Whatever the predicament, and no matter the size of the ruszor-inflicted gash wound, we will--we must--pull through...for the sake of the children!"
  22: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0123 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11041*]:
+ 23: 0x0123 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11043*]:
     → "With these heart-warming ideals in mind, the Smilebringer Boot Camp was established. Ta-da! Smilebringers graduating from this camp are better equipped to meet the ever-changing needs of these unstable times we live in."
  24: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x012B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11042*]:
+ 25: 0x012B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11044*]:
     → "The rules are as simple as sunshine. Smilebringer's honor! When I give you the word, run to each of the checkpoints we've set up in the area. "Smile helpers" are posted at each, so you can't miss them!"
  26: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0133 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11043*]:
+ 27: 0x0133 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11045*]:
     → "Talk to the smile helpers and they'll confirm your passage. The route you take is completely up to you--just be sure you don't miss any checkpoints. You got all that? Hmmm?"
  28: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x013B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11044*]:
+ 29: 0x013B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11046*]:
     → "I'll mark each smile helper's location on your map beforehand, so you don't need to worry about getting lost."
  30: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0143 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11045*]:
+ 31: 0x0143 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11047*]:
     → "Once you've finished visiting all the checkpoints, you have to--you guessed it!--come back and report to me. It's okay, I won't bite!"
  32: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x014B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11046*]:
+ 33: 0x014B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11048*]:
     → "What I will do, though, is tell you how quickly you completed the course. After all, to a smilebringer, speed is everything. Some folks run faster with a fell beast hot on their tail, but we smilebringers need no more than the thought of a child's laughter to spur us on! Zoom zoom!"
  34: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0153 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0173
- 36: 0x015B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11047*]:
+ 36: 0x015B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11049*]:
     → "Oh, and I should mention that at this time of year, we're collecting donations in the form of a small fee to participate in the training. All proceeds go towards presents for the children during the Starlight Celebration. Thank you for your cooperation!"
  37: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0163 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11072*]:
+ 38: 0x0163 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11074*]:
     → "It might surprise you to learn this, but even the toughest--grrrrrr!--and roughest of us smilebringers need rest and relaxation. Oh, wipe that grin off your face! I knew you wouldn't believe me!"
  39: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x016B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11073*]:
+ 40: 0x016B [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11075*]:
     → "Aaanyway! What I meant to say is, "work hard, play hard" is our motto, and it applies to boot camp participants, too. After you complete a run with a qualifying time--yay!--you're required to rest up until the next day (Vana'diel time)."
  41: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0173 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11048*]:
+ 42: 0x0173 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11050*]:
     → "One more thing you should know. If you venture out of the area, the training will automatically be canceled. But I can trust you not to walk out on your favorite smile sergeant, right? Hmmm?"
  43: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x017B [0x03] Work_Zone[1] = 0*
@@ -304,7 +304,7 @@ SUBROUTINE_021B:
      0x003C [0x01] GOTO 0x00F8
      0x006D [0x00] END_REQSTACK()
      0x006E [0x00] END_REQSTACK()
-     0x006F [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11056*]:
+     0x006F [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11058*]:
     → "There! I've marked each smile helper's location for you. If you ever lose your bearings in the middle of a run, just open up your map and everything will be aaall right. Trust me! <Wink>"
      0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0077 [0x8A] CLOSE_MAP()
@@ -313,7 +313,7 @@ SUBROUTINE_021B:
      0x007E [0x01] GOTO 0x00F8
      0x00C7 [0x00] END_REQSTACK()
      0x00C8 [0x00] END_REQSTACK()
-     0x00C9 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11056*]:
+     0x00C9 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11058*]:
     → "There! I've marked each smile helper's location for you. If you ever lose your bearings in the middle of a run, just open up your map and everything will be aaall right. Trust me! <Wink>"
      0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00D1 [0x8A] CLOSE_MAP()
@@ -366,51 +366,51 @@ SUBROUTINE_021B:
 
 ```
   0: 0x021D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0222 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11061*]:
+  1: 0x0222 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11063*]:
     → "Oh, what're you doing here? Aren't you in the middle of a run right now? Couldn't stand to be parted from your favorite smile sergeant, maybe? Teehee!"
   2: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x022A [0x24] CREATE_DIALOG(message_id=11062*, default_option=0*, option_flags=0*)
+  3: 0x022A [0x24] CREATE_DIALOG(message_id=11064*, default_option=0*, option_flags=0*)
     → "What will you do? [Hear an explanation./Where're the smile helpers again?/Cancel the training./Nothing.]"
   4: 0x0231 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0232 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B4
-  6: 0x023A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11037*]:
+  6: 0x023A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11039*]:
     → "It'd be my pleasure! Here goes nothing! Ahem! The Smilebringer Boot Camp was established for two purposes, the first being the ongoing training and conditioning of smilebringers. The second--and this is where you come in, yay!--is for us to scout hopefuls from the adventurer community to join our jovial ranks!"
   7: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0242 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11038*]:
+  8: 0x0242 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11040*]:
     → "The population of vicious monsters has grown in recent years, you see. And because of this, more smilebringers were being--<gasp!>--injured in the line of duty than ever before."
   9: 0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x024A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11039*]:
+ 10: 0x024A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11041*]:
     → "But we weren't going to take that sitting down, no siree. The day we smilebringers stop doing our job--that is, bringing smiles--is the day the world ends!"
  11: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0252 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11040*]:
+ 12: 0x0252 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11042*]:
     → "Whatever the predicament, and no matter the size of the ruszor-inflicted gash wound, we will--we must--pull through...for the sake of the children!"
  13: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x025A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11041*]:
+ 14: 0x025A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11043*]:
     → "With these heart-warming ideals in mind, the Smilebringer Boot Camp was established. Ta-da! Smilebringers graduating from this camp are better equipped to meet the ever-changing needs of these unstable times we live in."
  15: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0262 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11042*]:
+ 16: 0x0262 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11044*]:
     → "The rules are as simple as sunshine. Smilebringer's honor! When I give you the word, run to each of the checkpoints we've set up in the area. "Smile helpers" are posted at each, so you can't miss them!"
  17: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x026A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11043*]:
+ 18: 0x026A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11045*]:
     → "Talk to the smile helpers and they'll confirm your passage. The route you take is completely up to you--just be sure you don't miss any checkpoints. You got all that? Hmmm?"
  19: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0272 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11044*]:
+ 20: 0x0272 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11046*]:
     → "I'll mark each smile helper's location on your map beforehand, so you don't need to worry about getting lost."
  21: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x027A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11045*]:
+ 22: 0x027A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11047*]:
     → "Once you've finished visiting all the checkpoints, you have to--you guessed it!--come back and report to me. It's okay, I won't bite!"
  23: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0282 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11046*]:
+ 24: 0x0282 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11048*]:
     → "What I will do, though, is tell you how quickly you completed the course. After all, to a smilebringer, speed is everything. Some folks run faster with a fell beast hot on their tail, but we smilebringers need no more than the thought of a child's laughter to spur us on! Zoom zoom!"
  25: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x028A [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x02A2
- 27: 0x0292 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11072*]:
+ 27: 0x0292 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11074*]:
     → "It might surprise you to learn this, but even the toughest--grrrrrr!--and roughest of us smilebringers need rest and relaxation. Oh, wipe that grin off your face! I knew you wouldn't believe me!"
  28: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x029A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11073*]:
+ 29: 0x029A [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11075*]:
     → "Aaanyway! What I meant to say is, "work hard, play hard" is our motto, and it applies to boot camp participants, too. After you complete a run with a qualifying time--yay!--you're required to rest up until the next day (Vana'diel time)."
  30: 0x02A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x02A2 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11048*]:
+ 31: 0x02A2 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11050*]:
     → "One more thing you should know. If you venture out of the area, the training will automatically be canceled. But I can trust you not to walk out on your favorite smile sergeant, right? Hmmm?"
  32: 0x02A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x02AA [0x03] Work_Zone[1] = 0*
@@ -429,7 +429,7 @@ SUBROUTINE_0326:
      0x02B1 [0x01] GOTO 0x0326
      0x02E1 [0x00] END_REQSTACK()
      0x02E2 [0x00] END_REQSTACK()
-     0x02E3 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11055*]:
+     0x02E3 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11057*]:
     → "You'll find each of the ten smile helpers by the points I've indicated. Don't forget to talk with every one of them or it won't count, okay?"
      0x02EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02EB [0x8A] CLOSE_MAP()
@@ -475,36 +475,36 @@ SUBROUTINE_0326:
   4: 0x0336 [0x15] Work_Zone[6] /= 60*
   5: 0x033B [0x03] Work_Zone[7] = Work_Zone[2]
   6: 0x0340 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
-  7: 0x0347 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11064*]:
+  7: 0x0347 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11066*]:
     → "Welcome back! Let's check your time, shall we? You cleared the course in $4 minute[/s] $5 second[/s]."
   8: 0x034E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x034F [0x3E] IF !(Work_Zone[9] bit 2*) GOTO 0x035E
- 10: 0x0356 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11065*]:
+ 10: 0x0356 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11067*]:
     → "Oh my Goddess! You've set a new record for this area! Hooray! Somebody, break out the fireworks!"
  11: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x035E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11066*]:
+ 12: 0x035E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11068*]:
     → "You've successfully qualified! Yay! Here's a little something to commemorate this marvelous achievement."
  13: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0366 [0x3E] IF !(Work_Zone[9] bit 7*) GOTO 0x0375
- 15: 0x036D [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11068*]:
+ 15: 0x036D [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11070*]:
     → "Ah, just the knowledge that there're capable adventurers like you around helps me sleep better at night. The children...they're in good hands... <Sob>"
  16: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0375 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11069*]:
+ 17: 0x0375 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11071*]:
     → "You did just fine, but don't be resting on those laurels, you hear? As we smilebringers say, there's always a bigger, brighter smile to be had!"
  18: 0x037C [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x037D [0x3E] IF !(Work_Zone[9] bit 0*) GOTO 0x038B
- 20: 0x0384 [0x48] [System] [11067*]:
+ 20: 0x0384 [0x48] [System] [11069*]:
     → "You obtain $1!"
  21: 0x0387 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0388 [0x01] GOTO 0x03A8
  23: 0x038B [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x039A
- 24: 0x0393 [0x48] [System] [11067*]:
+ 24: 0x0393 [0x48] [System] [11069*]:
     → "You obtain $1!"
  25: 0x0396 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0397 [0x01] GOTO 0x03A8
  27: 0x039A [0x03] Work_Zone[2] = Work_Zone[3]
  28: 0x039F [0x03] Work_Zone[3] = Work_Zone[8]
- 29: 0x03A4 [0x48] [System] [11086*]:
+ 29: 0x03A4 [0x48] [System] [11088*]:
     → "You obtain $1 $0 !"
  30: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -544,10 +544,10 @@ SUBROUTINE_03A8:
   4: 0x03BD [0x15] Work_Zone[6] /= 60*
   5: 0x03C2 [0x03] Work_Zone[7] = Work_Zone[2]
   6: 0x03C7 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
-  7: 0x03CE [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11064*]:
+  7: 0x03CE [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11066*]:
     → "Welcome back! Let's check your time, shall we? You cleared the course in $4 minute[/s] $5 second[/s]."
   8: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x03D6 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11070*]:
+  9: 0x03D6 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11072*]:
     → "Oh no! I'm afraid your time falls short of qualification! As much as I want to give you a passing grade, headquarters wouldn't let me hear the end of it."
  10: 0x03DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x03DE [0x03] Work_Zone[1] = 5*
@@ -578,7 +578,7 @@ SUBROUTINE_03A8:
   0: 0x03E5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x03E6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x03EB [0x1A] CALL_SUBROUTINE(address=0x0498)
-  3: 0x03EE [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11060*]:
+  3: 0x03EE [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11062*]:
     → "Oh, you're back! I was afraid we'd lost you to some foul creature prowling the wilderness. Let's start from the top, shall we?"
   4: 0x03F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x03F6 [0x03] Work_Zone[1] = 5*
@@ -610,10 +610,10 @@ SUBROUTINE_03A8:
   0: 0x03FD [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x03FE [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0403 [0x1A] CALL_SUBROUTINE(address=0x0498)
-  3: 0x0406 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11058*]:
+  3: 0x0406 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11060*]:
     → "Since the Starlight Celebration has ended, we've had to make a few changes."
   4: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x040E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11059*]:
+  5: 0x040E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11061*]:
     → "But the Smilebringer Boot Camp will be available for off-season conditioning the whole year round, so come back whenever you're in the mood. I'll be waiting for you!"
   6: 0x0415 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0416 [0x03] Work_Zone[1] = 5*
@@ -645,7 +645,7 @@ SUBROUTINE_03A8:
   0: 0x041D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x041E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0423 [0x1A] CALL_SUBROUTINE(address=0x0498)
-  3: 0x0426 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11071*]:
+  3: 0x0426 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11073*]:
     → "Oh no! Please don't be mad, but...I forgot to record your time. I hope you'll find it in your heart to forgive this scatterbrain of a smile sergeant..."
   4: 0x042D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x042E [0x03] Work_Zone[1] = 5*
@@ -735,10 +735,10 @@ SUBROUTINE_03A8:
   0: 0x0435 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0436 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x043B [0x1A] CALL_SUBROUTINE(address=0x0498)
-  3: 0x043E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11033*]:
+  3: 0x043E [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11035*]:
     → "Hi there! I'm your friendly neighborhood smile sergeant! I'm in charge of running the [beginner/intermediate/advanced] level Smilebringer Boot Camp in this area."
   4: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0446 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11036*]:
+  5: 0x0446 [0x2B] Wandering Cloud (ID: 17216218/0x0106B2DA) [11038*]:
     → "Fantastic! But, oh...it seems you don't have $6. Well, that's just too bad!"
   6: 0x044D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x044E [0x03] Work_Zone[1] = 0*

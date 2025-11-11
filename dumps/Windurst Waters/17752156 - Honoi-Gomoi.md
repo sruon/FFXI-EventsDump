@@ -169,7 +169,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3C4F      |       15439 |
+|       0 | 0x3C52      |       15442 |
 |       1 | 0x0028      |          40 |
 |       2 | 0x0029      |          41 |
 |       3 | 0x003C      |          60 |
@@ -362,7 +362,7 @@
 - **10540**: That...that's impossible! Now give it back! Give me back my mirror!
 - **10610**: Hey, you're the mangy adventurer that was with Sir Louverance. You're not getting in his way now, are you? Hm?
 - **10611**: He said that he was heading on business for a tiny island to the southeast of Mhaura. You'd better not be thinking of following him!
-- **15439**: Eh? You presume to give this pathetic excuse for a Starlight Celebration present to me, the insanely well-to-do Honoi-Gomoi!? Hmph, I'll accept it, but only because you're being so stubborn about it.
+- **15442**: Eh? You presume to give this pathetic excuse for a Starlight Celebration present to me, the insanely well-to-do Honoi-Gomoi!? Hmph, I'll accept it, but only because you're being so stubborn about it.
 
 ## Events
 
@@ -409,7 +409,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15439*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15442*)
     → "Eh? You presume to give this pathetic excuse for a Starlight Celebration present to me, the insanely well-to-do Honoi-Gomoi!? Hmph, I'll accept it, but only because you're being so stubborn about it."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT

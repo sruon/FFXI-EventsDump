@@ -58,7 +58,7 @@
 |      26 | 0x2178      |        8568 |
 |      27 | 0x5524      |       21796 |
 |      28 | 0x000F      |          15 |
-|      29 | 0x3AF8      |       15096 |
+|      29 | 0x3AFB      |       15099 |
 |      30 | 0x0000      |           0 |
 |      31 | 0x0001      |           1 |
 |      32 | 0x0078      |         120 |
@@ -387,7 +387,7 @@
   0: 0x0232 [0x4A] Tihk Rhumyie (ID: 17752346/0x010EE11A) looks at Karanka-Tonka (ID: 17752348/0x010EE11C)
   1: 0x023B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x023C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Tihk Rhumyie (ID: 17752346/0x010EE11A) Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0241 [0x2B] Tihk Rhumyie (ID: 17752346/0x010EE11A) [15096*]:
+  3: 0x0241 [0x2B] Tihk Rhumyie (ID: 17752346/0x010EE11A) [15099*]:
     → "Wait, wait. What happens next?"
   4: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0249 [0x00] END_REQSTACK()

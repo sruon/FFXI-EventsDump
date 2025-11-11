@@ -58,12 +58,12 @@
 |      34 | 0x1C49      |        7241 |
 |      35 | 0x1D04      |        7428 |
 |      36 | 0x1CFF      |        7423 |
-|      37 | 0x2E60      |       11872 |
-|      38 | 0x2E8B      |       11915 |
-|      39 | 0x2E8C      |       11916 |
-|      40 | 0x2E73      |       11891 |
-|      41 | 0x2E74      |       11892 |
-|      42 | 0x2E75      |       11893 |
+|      37 | 0x2E63      |       11875 |
+|      38 | 0x2E8E      |       11918 |
+|      39 | 0x2E8F      |       11919 |
+|      40 | 0x2E76      |       11894 |
+|      41 | 0x2E77      |       11895 |
+|      42 | 0x2E78      |       11896 |
 
 ## String References
 
@@ -82,12 +82,12 @@
 - **7427**: You probably can make one already, but how about $0? You will need...
 - **7428**: Take care when working with bones... They often break when least expected...
 - **7480**: The synthesis items for that rank are still beyond your skill, I'm afraid.
-- **11872**: Ask if this person is the chick's owner? [Yes./No.]
-- **11891**: You've got my chocobo, eh?
-- **11892**: Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee.
-- **11893**: Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!
-- **11915**: You say you've got my chocobo, eh?
-- **11916**: You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!
+- **11875**: Ask if this person is the chick's owner? [Yes./No.]
+- **11894**: You've got my chocobo, eh?
+- **11895**: Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee.
+- **11896**: Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!
+- **11918**: You say you've got my chocobo, eh?
+- **11919**: You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!
 
 ## Events
 
@@ -537,7 +537,7 @@ SUBROUTINE_03F9:
     → "Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]"
  34: 0x0400 [0x25] WAIT_DIALOG_SELECT()
  35: 0x0401 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0458
- 36: 0x0409 [0x24] CREATE_DIALOG(message_id=11872*, default_option=1*, option_flags=0*)
+ 36: 0x0409 [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  37: 0x0410 [0x25] WAIT_DIALOG_SELECT()
  38: 0x0411 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0448
@@ -545,20 +545,20 @@ SUBROUTINE_03F9:
  40: 0x0420 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  41: 0x0422 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  42: 0x0424 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0437
- 43: 0x042C [0x1D] PRINT_EVENT_MESSAGE(message_id=11915*)
+ 43: 0x042C [0x1D] PRINT_EVENT_MESSAGE(message_id=11918*)
     → "You say you've got my chocobo, eh?"
  44: 0x042F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=11916*)
+ 45: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
     → "You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!"
  46: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0434 [0x01] GOTO 0x0443
- 48: 0x0437 [0x1D] PRINT_EVENT_MESSAGE(message_id=11891*)
+ 48: 0x0437 [0x1D] PRINT_EVENT_MESSAGE(message_id=11894*)
     → "You've got my chocobo, eh?"
  49: 0x043A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=11892*)
+ 50: 0x043B [0x1D] PRINT_EVENT_MESSAGE(message_id=11895*)
     → "Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee."
  51: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11893*)
+ 52: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=11896*)
     → "Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!"
  53: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -618,7 +618,7 @@ SUBROUTINE_046A:
     → "Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]"
 100: 0x0582 [0x25] WAIT_DIALOG_SELECT()
 101: 0x0583 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05DA
-102: 0x058B [0x24] CREATE_DIALOG(message_id=11872*, default_option=1*, option_flags=0*)
+102: 0x058B [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
 103: 0x0592 [0x25] WAIT_DIALOG_SELECT()
 104: 0x0593 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05CA
@@ -626,20 +626,20 @@ SUBROUTINE_046A:
 106: 0x05A2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 107: 0x05A4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 108: 0x05A6 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x05B9
-109: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11915*)
+109: 0x05AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11918*)
     → "You say you've got my chocobo, eh?"
 110: 0x05B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11916*)
+111: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
     → "You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!"
 112: 0x05B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x05B6 [0x01] GOTO 0x05C5
-114: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11891*)
+114: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11894*)
     → "You've got my chocobo, eh?"
 115: 0x05BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11892*)
+116: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11895*)
     → "Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee."
 117: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11893*)
+118: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11896*)
     → "Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!"
 119: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -757,7 +757,7 @@ SUBROUTINE_0718:
 202: 0x071E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_071F:
-203: 0x071F [0x24] CREATE_DIALOG(message_id=11872*, default_option=1*, option_flags=0*)
+203: 0x071F [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
 204: 0x0726 [0x25] WAIT_DIALOG_SELECT()
 205: 0x0727 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x075C
@@ -765,20 +765,20 @@ SUBROUTINE_071F:
 207: 0x0736 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 208: 0x0738 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 209: 0x073A [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x074D
-210: 0x0742 [0x1D] PRINT_EVENT_MESSAGE(message_id=11915*)
+210: 0x0742 [0x1D] PRINT_EVENT_MESSAGE(message_id=11918*)
     → "You say you've got my chocobo, eh?"
 211: 0x0745 [0x23] WAIT_FOR_DIALOG_INTERACTION
-212: 0x0746 [0x1D] PRINT_EVENT_MESSAGE(message_id=11916*)
+212: 0x0746 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
     → "You rrreally think I'd believe that? I know you just wanted to get close to me, but surely you can think of something better than that!"
 213: 0x0749 [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x074A [0x01] GOTO 0x0759
-215: 0x074D [0x1D] PRINT_EVENT_MESSAGE(message_id=11891*)
+215: 0x074D [0x1D] PRINT_EVENT_MESSAGE(message_id=11894*)
     → "You've got my chocobo, eh?"
 216: 0x0750 [0x23] WAIT_FOR_DIALOG_INTERACTION
-217: 0x0751 [0x1D] PRINT_EVENT_MESSAGE(message_id=11892*)
+217: 0x0751 [0x1D] PRINT_EVENT_MESSAGE(message_id=11895*)
     → "Thanks a million! That birrrd is so cute, she reminds me of myself. I was afraid someone had kidnapped the poor little chickadee."
 218: 0x0754 [0x23] WAIT_FOR_DIALOG_INTERACTION
-219: 0x0755 [0x1D] PRINT_EVENT_MESSAGE(message_id=11893*)
+219: 0x0755 [0x1D] PRINT_EVENT_MESSAGE(message_id=11896*)
     → "Hey, you're raising a chocobo too, rrright? Let me tell you a story you might be able to use!"
 220: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

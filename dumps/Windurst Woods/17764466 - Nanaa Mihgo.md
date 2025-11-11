@@ -291,15 +291,15 @@
 |     146 | 0x2555      |        9557 |
 |     147 | 0x2556      |        9558 |
 |     148 | 0x2557      |        9559 |
-|     149 | 0x28AF      |       10415 |
-|     150 | 0x28B3      |       10419 |
-|     151 | 0x28B4      |       10420 |
-|     152 | 0x28B5      |       10421 |
+|     149 | 0x28B2      |       10418 |
+|     150 | 0x28B6      |       10422 |
+|     151 | 0x28B7      |       10423 |
+|     152 | 0x28B8      |       10424 |
 |     153 | 0x09C1      |        2497 |
-|     154 | 0x368C      |       13964 |
-|     155 | 0x368D      |       13965 |
-|     156 | 0x368E      |       13966 |
-|     157 | 0x368F      |       13967 |
+|     154 | 0x368F      |       13967 |
+|     155 | 0x3690      |       13968 |
+|     156 | 0x3691      |       13969 |
+|     157 | 0x3692      |       13970 |
 |     158 | 0x001B      |          27 |
 |     159 | 0xF42D      |       62509 |
 |     160 | 0x3A94B     |      239947 |
@@ -307,30 +307,30 @@
 |     162 | 0x0017      |          23 |
 |     163 | 0x0274      |         628 |
 |     164 | 0x000F      |          15 |
-|     165 | 0x3690      |       13968 |
-|     166 | 0x3691      |       13969 |
-|     167 | 0x3693      |       13971 |
-|     168 | 0x3694      |       13972 |
-|     169 | 0x3695      |       13973 |
-|     170 | 0x3696      |       13974 |
-|     171 | 0x3697      |       13975 |
-|     172 | 0x3698      |       13976 |
-|     173 | 0x3699      |       13977 |
+|     165 | 0x3693      |       13971 |
+|     166 | 0x3694      |       13972 |
+|     167 | 0x3696      |       13974 |
+|     168 | 0x3697      |       13975 |
+|     169 | 0x3698      |       13976 |
+|     170 | 0x3699      |       13977 |
+|     171 | 0x369A      |       13978 |
+|     172 | 0x369B      |       13979 |
+|     173 | 0x369C      |       13980 |
 |     174 | 0x0032      |          50 |
-|     175 | 0x369A      |       13978 |
-|     176 | 0x369B      |       13979 |
-|     177 | 0x369C      |       13980 |
-|     178 | 0x369D      |       13981 |
-|     179 | 0x369E      |       13982 |
-|     180 | 0x369F      |       13983 |
-|     181 | 0x36A0      |       13984 |
-|     182 | 0x36A1      |       13985 |
-|     183 | 0x36A2      |       13986 |
-|     184 | 0x36A3      |       13987 |
-|     185 | 0x36A4      |       13988 |
-|     186 | 0x36A5      |       13989 |
-|     187 | 0x36A6      |       13990 |
-|     188 | 0x36A7      |       13991 |
+|     175 | 0x369D      |       13981 |
+|     176 | 0x369E      |       13982 |
+|     177 | 0x369F      |       13983 |
+|     178 | 0x36A0      |       13984 |
+|     179 | 0x36A1      |       13985 |
+|     180 | 0x36A2      |       13986 |
+|     181 | 0x36A3      |       13987 |
+|     182 | 0x36A4      |       13988 |
+|     183 | 0x36A5      |       13989 |
+|     184 | 0x36A6      |       13990 |
+|     185 | 0x36A7      |       13991 |
+|     186 | 0x36A8      |       13992 |
+|     187 | 0x36A9      |       13993 |
+|     188 | 0x36AA      |       13994 |
 |     189 | 0x00AE      |         174 |
 |     190 | 0x0096      |         150 |
 |     191 | 0x0078      |         120 |
@@ -338,12 +338,12 @@
 |     193 | 0x3AFEE     |      241646 |
 |     194 | 0x0062      |          98 |
 |     195 | 0x00B1      |         177 |
-|     196 | 0x36A8      |       13992 |
+|     196 | 0x36AB      |       13995 |
 |     197 | 0x0015      |          21 |
 |     198 | 0x005A      |          90 |
-|     199 | 0x36A9      |       13993 |
-|     200 | 0x36AA      |       13994 |
-|     201 | 0x3692      |       13970 |
+|     199 | 0x36AC      |       13996 |
+|     200 | 0x36AD      |       13997 |
+|     201 | 0x3695      |       13973 |
 
 ## String References
 
@@ -462,41 +462,41 @@
 - **9557**: There's a Windurst Waters merrrchant making a big fuss over a Mana Orb, you say?
 - **9558**: Ahaha, serves him rrright! That old coot, Honoi-Gomoi, always trrrying to get what he wants by any means possible.
 - **9559**: He seems terribly anxious to get his hands on that orb. Why don't you be a sporrrt and give it back? I promise I won't say anything.
-- **10415**: <Player>'s badge flashes brightly.
-- **10419**: Who do you think you arrre? Yeowrrr! Isn't that from Aht Urhgan?
-- **10420**: I heard that land has heaps of trrreasure for the taking. A fishy story if I've everrr heard one. Don't you start believing it, too.
-- **10421**: I know you wouldn't go out in search of treasure ahead of me, but get any ideas, and I'll carrrve you into a new pickling stone for Chamama, 'kay?
-- **13964**: I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be.
-- **13965**: Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust.
-- **13966**: You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous.
-- **13967**: What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!
+- **10418**: <Player>'s badge flashes brightly.
+- **10422**: Who do you think you arrre? Yeowrrr! Isn't that from Aht Urhgan?
+- **10423**: I heard that land has heaps of trrreasure for the taking. A fishy story if I've everrr heard one. Don't you start believing it, too.
+- **10424**: I know you wouldn't go out in search of treasure ahead of me, but get any ideas, and I'll carrrve you into a new pickling stone for Chamama, 'kay?
+- **13967**: I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be.
 - **13968**: Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust.
-- **13969**: Attempt Trust magic with her? [Of course./No way.]
-- **13970**: I have no time to play cat and mouse. If you've got nothing better to do, then scrrram.
-- **13971**: Hmm...the question is, am I willing to try this out with you? The whole idea makes my whiskerrrs twitch.
-- **13972**: Do you rrrealize how much pleading I had to do to get this scroll? The Jeuno Institute of Magical Studies is likely sick to death of my purring!
-- **13973**: And they complained the whole time! "The more Nanaa Mihgos, the more troubles the world will face," they said. Bah!
-- **13974**: I'll have you know, everything I've done has been purrrfectly justified...under my own code of conduct.
-- **13975**: That's why I'm pondering whether to try this with you. If it fails, my clawing and scrrratching will have been for nothing.
-- **13976**: I hate it when my efforrrts don't bear fruit.
-- **13977**: You want me to think thoughts of trust, frrriendship, and sisterly love? <Sigh>
-- **13978**: I rrremember the first time you came to Windurst, and we had that chance meeting that set everything in motion.
-- **13979**: [I remember now. When/Furthermore, when] I found that sharp stone, you were an idiot and sold it to that damned visitorrr from Bastok.
-- **13980**: [I remember now. We split that trrreasure trove belonging to Atarefaunet's Band./Not only that, who could forget that we split that trrreasure trove belonging to Atarefaunet's Band?]
-- **13981**: To this day, I can still only rrremember bits and pieces of what happened.
-- **13982**: [I'm absolutely sure you still recall/And I'm absolutely sure you still recall] that time. You know, with the people.
-- **13983**: What was their name again? Oh, right. The Star Onion Brigade. Why you chose to side with a bunch of little miscrrreants rather than the big fish in the pond remains a mystery. I should have your hide for spoiling my once-in-a-lifetime opportunity!
-- **13984**: While we're talking about frrriendship, I hear you possess a certain likeness of me.
-- **13985**: [How disgusting!/What a purrrvert!]
-- **13986**: Hahaha. I can't fault your taste, though. You picked verrry well.
-- **13987**: [Remember/But there's more. Remember] that time you nearly shrrredded me to pieces?
-- **13988**: Tussling with those Goblins was a fun rrride, to be sure...but sometimes my legs still hurt!
-- **13989**: Urk. I've got no other choice but to try out this scrrroll...
-- **13990**: You'll stand therrre until I give in, won't you? Let's get on with it, then.
-- **13991**: Close your eyes...and think only pleasant thoughts of me.t
-- **13992**: Wow, this Trrrust thing actually worked! I thought it was some kind of sick joke. Now, for my fee. 100,000 gil will do nicely, don't you agrrree?
-- **13993**: Ahahaha! Gotcha!
-- **13994**: Those robed nincompoops at the institute exprrressly forbid me from accepting any money for my troubles. Next time, though, it'll cost you! <Sigh> Why did I push so hard to try this, anyway?
+- **13969**: You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous.
+- **13970**: What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!
+- **13971**: Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust.
+- **13972**: Attempt Trust magic with her? [Of course./No way.]
+- **13973**: I have no time to play cat and mouse. If you've got nothing better to do, then scrrram.
+- **13974**: Hmm...the question is, am I willing to try this out with you? The whole idea makes my whiskerrrs twitch.
+- **13975**: Do you rrrealize how much pleading I had to do to get this scroll? The Jeuno Institute of Magical Studies is likely sick to death of my purring!
+- **13976**: And they complained the whole time! "The more Nanaa Mihgos, the more troubles the world will face," they said. Bah!
+- **13977**: I'll have you know, everything I've done has been purrrfectly justified...under my own code of conduct.
+- **13978**: That's why I'm pondering whether to try this with you. If it fails, my clawing and scrrratching will have been for nothing.
+- **13979**: I hate it when my efforrrts don't bear fruit.
+- **13980**: You want me to think thoughts of trust, frrriendship, and sisterly love? <Sigh>
+- **13981**: I rrremember the first time you came to Windurst, and we had that chance meeting that set everything in motion.
+- **13982**: [I remember now. When/Furthermore, when] I found that sharp stone, you were an idiot and sold it to that damned visitorrr from Bastok.
+- **13983**: [I remember now. We split that trrreasure trove belonging to Atarefaunet's Band./Not only that, who could forget that we split that trrreasure trove belonging to Atarefaunet's Band?]
+- **13984**: To this day, I can still only rrremember bits and pieces of what happened.
+- **13985**: [I'm absolutely sure you still recall/And I'm absolutely sure you still recall] that time. You know, with the people.
+- **13986**: What was their name again? Oh, right. The Star Onion Brigade. Why you chose to side with a bunch of little miscrrreants rather than the big fish in the pond remains a mystery. I should have your hide for spoiling my once-in-a-lifetime opportunity!
+- **13987**: While we're talking about frrriendship, I hear you possess a certain likeness of me.
+- **13988**: [How disgusting!/What a purrrvert!]
+- **13989**: Hahaha. I can't fault your taste, though. You picked verrry well.
+- **13990**: [Remember/But there's more. Remember] that time you nearly shrrredded me to pieces?
+- **13991**: Tussling with those Goblins was a fun rrride, to be sure...but sometimes my legs still hurt!
+- **13992**: Urk. I've got no other choice but to try out this scrrroll...
+- **13993**: You'll stand therrre until I give in, won't you? Let's get on with it, then.
+- **13994**: Close your eyes...and think only pleasant thoughts of me.t
+- **13995**: Wow, this Trrrust thing actually worked! I thought it was some kind of sick joke. Now, for my fee. 100,000 gil will do nicely, don't you agrrree?
+- **13996**: Ahahaha! Gotcha!
+- **13997**: Those robed nincompoops at the institute exprrressly forbid me from accepting any money for my troubles. Next time, though, it'll cost you! <Sigh> Why did I push so hard to try this, anyway?
 
 ## Events
 
@@ -5060,17 +5060,17 @@ SUBROUTINE_1BCD:
 
 ```
   0: 0x1CEB [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x1CEC [0x48] [System] [10415*]:
+  1: 0x1CEC [0x48] [System] [10418*]:
     → "<Player>'s badge flashes brightly."
   2: 0x1CEF [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x1CF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10419*)
+  3: 0x1CF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10422*)
     → "Who do you think you arrre? Yeowrrr! Isn't that from Aht Urhgan?"
   4: 0x1CF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1CF8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=370*
-  6: 0x1D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=10420*)
+  6: 0x1D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=10423*)
     → "I heard that land has heaps of trrreasure for the taking. A fishy story if I've everrr heard one. Don't you start believing it, too."
   7: 0x1D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x1D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=10421*)
+  8: 0x1D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=10424*)
     → "I know you wouldn't go out in search of treasure ahead of me, but get any ideas, and I'll carrrve you into a new pickling stone for Chamama, 'kay?"
   9: 0x1D0E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1D0F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=370*
@@ -5277,17 +5277,17 @@ SUBROUTINE_1BCD:
   7: 0x1D42 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x1D43 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   9: 0x1D44 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 10: 0x1D4B [0x1D] PRINT_EVENT_MESSAGE(message_id=13964*)
+ 10: 0x1D4B [0x1D] PRINT_EVENT_MESSAGE(message_id=13967*)
     → "I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be."
  11: 0x1D4E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1D4F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
  13: 0x1D56 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
- 14: 0x1D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=13965*)
+ 14: 0x1D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=13968*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  15: 0x1D60 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x1D61 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
  17: 0x1D68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
- 18: 0x1D6F [0x1D] PRINT_EVENT_MESSAGE(message_id=13966*)
+ 18: 0x1D6F [0x1D] PRINT_EVENT_MESSAGE(message_id=13969*)
     → "You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous."
  19: 0x1D72 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1D73 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5299,18 +5299,18 @@ SUBROUTINE_1BCD:
  26: 0x1D90 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  27: 0x1D91 [0x03] Work_Zone[4] = 1*
  28: 0x1D96 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 29: 0x1D9D [0x1D] PRINT_EVENT_MESSAGE(message_id=13964*)
+ 29: 0x1D9D [0x1D] PRINT_EVENT_MESSAGE(message_id=13967*)
     → "I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be."
  30: 0x1DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1DA1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
  32: 0x1DA8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
- 33: 0x1DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=13965*)
+ 33: 0x1DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=13968*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  34: 0x1DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x1DB3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
  36: 0x1DBA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
  37: 0x1DC1 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 38: 0x1DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13967*)
+ 38: 0x1DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13970*)
     → "What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!"
  39: 0x1DC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x1DCA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5321,22 +5321,22 @@ SUBROUTINE_1BCD:
  45: 0x1DE6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  46: 0x1DE7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  47: 0x1DE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 48: 0x1DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=13964*)
+ 48: 0x1DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=13967*)
     → "I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be."
  49: 0x1DF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x1DF3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
  51: 0x1DFA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
- 52: 0x1E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=13965*)
+ 52: 0x1E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=13968*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  53: 0x1E04 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1E05 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
  55: 0x1E0C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
- 56: 0x1E13 [0x1D] PRINT_EVENT_MESSAGE(message_id=13966*)
+ 56: 0x1E13 [0x1D] PRINT_EVENT_MESSAGE(message_id=13969*)
     → "You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous."
  57: 0x1E16 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1E17 [0x03] Work_Zone[4] = 0*
  59: 0x1E1C [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 60: 0x1E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=13967*)
+ 60: 0x1E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=13970*)
     → "What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!"
  61: 0x1E24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1E25 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5368,10 +5368,10 @@ SUBROUTINE_1EE5:
  86: 0x1EE5 [0x1C] WAIT(15* ticks)
  87: 0x1EE8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  88: 0x1EF9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 89: 0x1F00 [0x1D] PRINT_EVENT_MESSAGE(message_id=13968*)
+ 89: 0x1F00 [0x1D] PRINT_EVENT_MESSAGE(message_id=13971*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  90: 0x1F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x1F04 [0x24] CREATE_DIALOG(message_id=13969*, default_option=0*, option_flags=0*)
+ 91: 0x1F04 [0x24] CREATE_DIALOG(message_id=13972*, default_option=0*, option_flags=0*)
     → "Attempt Trust magic with her? [Of course./No way.]"
  92: 0x1F0B [0x25] WAIT_DIALOG_SELECT()
  93: 0x1F0C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x270E
@@ -5386,10 +5386,10 @@ SUBROUTINE_1EE5:
 SUBROUTINE_1F57:
 101: 0x1F57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s167" with entities [EventEntity, EventEntity], work=[628*, 0*]
 102: 0x1F68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-103: 0x1F6F [0x1D] PRINT_EVENT_MESSAGE(message_id=13971*)
+103: 0x1F6F [0x1D] PRINT_EVENT_MESSAGE(message_id=13974*)
     → "Hmm...the question is, am I willing to try this out with you? The whole idea makes my whiskerrrs twitch."
 104: 0x1F72 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x1F73 [0x1D] PRINT_EVENT_MESSAGE(message_id=13972*)
+105: 0x1F73 [0x1D] PRINT_EVENT_MESSAGE(message_id=13975*)
     → "Do you rrrealize how much pleading I had to do to get this scroll? The Jeuno Institute of Magical Studies is likely sick to death of my purring!"
 106: 0x1F76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x1F77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -5404,10 +5404,10 @@ SUBROUTINE_1F57:
 
 SUBROUTINE_1FD6:
 116: 0x1FD6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-117: 0x1FDD [0x1D] PRINT_EVENT_MESSAGE(message_id=13973*)
+117: 0x1FDD [0x1D] PRINT_EVENT_MESSAGE(message_id=13976*)
     → "And they complained the whole time! "The more Nanaa Mihgos, the more troubles the world will face," they said. Bah!"
 118: 0x1FE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x1FE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13974*)
+119: 0x1FE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13977*)
     → "I'll have you know, everything I've done has been purrrfectly justified...under my own code of conduct."
 120: 0x1FE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x1FE5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5430,11 +5430,11 @@ SUBROUTINE_202F:
 
 SUBROUTINE_2078:
 136: 0x2078 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x03)
-137: 0x207F [0x1D] PRINT_EVENT_MESSAGE(message_id=13975*)
+137: 0x207F [0x1D] PRINT_EVENT_MESSAGE(message_id=13978*)
     → "That's why I'm pondering whether to try this with you. If it fails, my clawing and scrrratching will have been for nothing."
 138: 0x2082 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x2083 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x04)
-140: 0x208A [0x1D] PRINT_EVENT_MESSAGE(message_id=13976*)
+140: 0x208A [0x1D] PRINT_EVENT_MESSAGE(message_id=13979*)
     → "I hate it when my efforrrts don't bear fruit."
 141: 0x208D [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x208E [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x20A8
@@ -5448,7 +5448,7 @@ SUBROUTINE_2078:
 SUBROUTINE_20D1:
 149: 0x20D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s170" with entities [EventEntity, EventEntity], work=[628*, 0*]
 150: 0x20E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-151: 0x20E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13977*)
+151: 0x20E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13980*)
     → "You want me to think thoughts of trust, frrriendship, and sisterly love? <Sigh>"
 152: 0x20EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x20ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5466,7 +5466,7 @@ SUBROUTINE_20D1:
 
 SUBROUTINE_215D:
 165: 0x215D [0x1C] WAIT(50* ticks)
-166: 0x2160 [0x1D] PRINT_EVENT_MESSAGE(message_id=13978*)
+166: 0x2160 [0x1D] PRINT_EVENT_MESSAGE(message_id=13981*)
     → "I rrremember the first time you came to Windurst, and we had that chance meeting that set everything in motion."
 167: 0x2163 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x2164 [0x03] Work_Zone[4] = 1*
@@ -5494,7 +5494,7 @@ SUBROUTINE_21AC:
 SUBROUTINE_2218:
 187: 0x2218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 188: 0x221F [0x1C] WAIT(50* ticks)
-189: 0x2222 [0x1D] PRINT_EVENT_MESSAGE(message_id=13979*)
+189: 0x2222 [0x1D] PRINT_EVENT_MESSAGE(message_id=13982*)
     → "[I remember now. When/Furthermore, when] I found that sharp stone, you were an idiot and sold it to that damned visitorrr from Bastok."
 190: 0x2225 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x2226 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5515,10 +5515,10 @@ SUBROUTINE_228F:
 204: 0x2296 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s173" with entities [EventEntity, EventEntity], work=[628*, 0*]
 205: 0x22A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 206: 0x22AE [0x1C] WAIT(50* ticks)
-207: 0x22B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13980*)
+207: 0x22B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13983*)
     → "[I remember now. We split that trrreasure trove belonging to Atarefaunet's Band./Not only that, who could forget that we split that trrreasure trove belonging to Atarefaunet's Band?]"
 208: 0x22B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-209: 0x22B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13981*)
+209: 0x22B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13984*)
     → "To this day, I can still only rrremember bits and pieces of what happened."
 210: 0x22B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x22B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5533,12 +5533,12 @@ SUBROUTINE_228F:
 SUBROUTINE_2308:
 219: 0x2308 [0x1C] WAIT(60* ticks)
 220: 0x230B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-221: 0x2312 [0x1D] PRINT_EVENT_MESSAGE(message_id=13982*)
+221: 0x2312 [0x1D] PRINT_EVENT_MESSAGE(message_id=13985*)
     → "[I'm absolutely sure you still recall/And I'm absolutely sure you still recall] that time. You know, with the people."
 222: 0x2315 [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x2316 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
 224: 0x231D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x07)
-225: 0x2324 [0x1D] PRINT_EVENT_MESSAGE(message_id=13983*)
+225: 0x2324 [0x1D] PRINT_EVENT_MESSAGE(message_id=13986*)
     → "What was their name again? Oh, right. The Star Onion Brigade. Why you chose to side with a bunch of little miscrrreants rather than the big fish in the pond remains a mystery. I should have your hide for spoiling my once-in-a-lifetime opportunity!"
 226: 0x2327 [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x2328 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x08)
@@ -5553,18 +5553,18 @@ SUBROUTINE_235D:
 234: 0x2364 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s175" with entities [EventEntity, EventEntity], work=[628*, 0*]
 235: 0x2375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 236: 0x237C [0x1C] WAIT(50* ticks)
-237: 0x237F [0x1D] PRINT_EVENT_MESSAGE(message_id=13984*)
+237: 0x237F [0x1D] PRINT_EVENT_MESSAGE(message_id=13987*)
     → "While we're talking about frrriendship, I hear you possess a certain likeness of me."
 238: 0x2382 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x2383 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
-240: 0x2388 [0x1D] PRINT_EVENT_MESSAGE(message_id=13985*)
+240: 0x2388 [0x1D] PRINT_EVENT_MESSAGE(message_id=13988*)
     → "[How disgusting!/What a purrrvert!]"
 241: 0x238B [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x238C [0x52] END_LOAD_SCHEDULER: End scheduler "s175" with entities [EventEntity, EventEntity], work=628*
 243: 0x239B [0x03] Work_Zone[2] = LocalPlayer->Race
 244: 0x23A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s176" with entities [EventEntity, EventEntity], work=[628*, 0*]
 245: 0x23B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-246: 0x23B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13986*)
+246: 0x23B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13989*)
     → "Hahaha. I can't fault your taste, though. You picked verrry well."
 247: 0x23BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x23BC [0x03] Work_Zone[4] = 1*
@@ -5573,10 +5573,10 @@ SUBROUTINE_235D:
 251: 0x23D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s177" with entities [EventEntity, EventEntity], work=[628*, 0*]
 252: 0x23E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 253: 0x23EF [0x1C] WAIT(50* ticks)
-254: 0x23F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13987*)
+254: 0x23F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13990*)
     → "[Remember/But there's more. Remember] that time you nearly shrrredded me to pieces?"
 255: 0x23F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-256: 0x23F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13988*)
+256: 0x23F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13991*)
     → "Tussling with those Goblins was a fun rrride, to be sure...but sometimes my legs still hurt!"
 257: 0x23F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x23FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5597,10 +5597,10 @@ SUBROUTINE_235D:
 SUBROUTINE_247F:
 272: 0x247F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
 273: 0x2486 [0x1C] WAIT(50* ticks)
-274: 0x2489 [0x1D] PRINT_EVENT_MESSAGE(message_id=13989*)
+274: 0x2489 [0x1D] PRINT_EVENT_MESSAGE(message_id=13992*)
     → "Urk. I've got no other choice but to try out this scrrroll..."
 275: 0x248C [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x248D [0x1D] PRINT_EVENT_MESSAGE(message_id=13990*)
+276: 0x248D [0x1D] PRINT_EVENT_MESSAGE(message_id=13993*)
     → "You'll stand therrre until I give in, won't you? Let's get on with it, then."
 277: 0x2490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x2491 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x24AB
@@ -5616,7 +5616,7 @@ SUBROUTINE_247F:
 
 SUBROUTINE_24EE:
 288: 0x24EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s179" with entities [EventEntity, EventEntity], work=[628*, 0*]
-289: 0x24FF [0x1D] PRINT_EVENT_MESSAGE(message_id=13991*)
+289: 0x24FF [0x1D] PRINT_EVENT_MESSAGE(message_id=13994*)
     → "Close your eyes...and think only pleasant thoughts of me.t"
 290: 0x2502 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x2503 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -5659,7 +5659,7 @@ SUBROUTINE_266E:
 326: 0x266E [0x1E] EventEntity looks at LocalPlayer and starts talking
 327: 0x2673 [0x1C] WAIT(30* ticks)
 328: 0x2676 [0x4A] LocalPlayer looks at EventEntity
-329: 0x267F [0x1D] PRINT_EVENT_MESSAGE(message_id=13992*)
+329: 0x267F [0x1D] PRINT_EVENT_MESSAGE(message_id=13995*)
     → "Wow, this Trrrust thing actually worked! I thought it was some kind of sick joke. Now, for my fee. 100,000 gil will do nicely, don't you agrrree?"
 330: 0x2682 [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x2683 [0x6E] LocalPlayer uses emote 21*
@@ -5676,10 +5676,10 @@ SUBROUTINE_266E:
 SUBROUTINE_26D5:
 341: 0x26D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s182" with entities [EventEntity, EventEntity], work=[628*, 0*]
 342: 0x26E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-343: 0x26ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13993*)
+343: 0x26ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13996*)
     → "Ahahaha! Gotcha!"
 344: 0x26F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-345: 0x26F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13994*)
+345: 0x26F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13997*)
     → "Those robed nincompoops at the institute exprrressly forbid me from accepting any money for my troubles. Next time, though, it'll cost you! <Sigh> Why did I push so hard to try this, anyway?"
 346: 0x26F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x26F5 [0x03] Work_Zone[1] = 2*
@@ -5698,7 +5698,7 @@ SUBROUTINE_2759:
 358: 0x2759 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s166" with entities [EventEntity, EventEntity], work=[628*, 0*]
 359: 0x276A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
 360: 0x2771 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-361: 0x2778 [0x1D] PRINT_EVENT_MESSAGE(message_id=13970*)
+361: 0x2778 [0x1D] PRINT_EVENT_MESSAGE(message_id=13973*)
     → "I have no time to play cat and mouse. If you've got nothing better to do, then scrrram."
 362: 0x277B [0x23] WAIT_FOR_DIALOG_INTERACTION
 363: 0x277C [0x03] Work_Zone[1] = 1*

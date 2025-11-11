@@ -22,9 +22,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2F62      |       12130 |
+|       0 | 0x2F63      |       12131 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2F65      |       12133 |
+|       2 | 0x2F66      |       12134 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
@@ -35,55 +35,55 @@
 |      10 | 0x0008      |           8 |
 |      11 | 0x0009      |           9 |
 |      12 | 0x03FE      |        1022 |
-|      13 | 0x2F66      |       12134 |
-|      14 | 0x2F67      |       12135 |
-|      15 | 0x2F68      |       12136 |
-|      16 | 0x2F69      |       12137 |
-|      17 | 0x2F6A      |       12138 |
-|      18 | 0x2F6B      |       12139 |
-|      19 | 0x2F6C      |       12140 |
-|      20 | 0x2F6D      |       12141 |
-|      21 | 0x2F6E      |       12142 |
-|      22 | 0x2F6F      |       12143 |
-|      23 | 0x2F70      |       12144 |
-|      24 | 0x2F71      |       12145 |
-|      25 | 0x2F72      |       12146 |
-|      26 | 0x2F73      |       12147 |
-|      27 | 0x2F74      |       12148 |
-|      28 | 0x2F75      |       12149 |
-|      29 | 0x2F76      |       12150 |
-|      30 | 0x2F77      |       12151 |
-|      31 | 0x2F78      |       12152 |
-|      32 | 0x2F79      |       12153 |
-|      33 | 0x2F7A      |       12154 |
-|      34 | 0x2F7B      |       12155 |
-|      35 | 0x2F7C      |       12156 |
-|      36 | 0x2F7D      |       12157 |
-|      37 | 0x2F7E      |       12158 |
-|      38 | 0x2F7F      |       12159 |
-|      39 | 0x2F80      |       12160 |
-|      40 | 0x2F81      |       12161 |
-|      41 | 0x2F82      |       12162 |
-|      42 | 0x2F83      |       12163 |
-|      43 | 0x2F84      |       12164 |
-|      44 | 0x2F85      |       12165 |
-|      45 | 0x2F86      |       12166 |
-|      46 | 0x2F87      |       12167 |
-|      47 | 0x2F88      |       12168 |
-|      48 | 0x2F89      |       12169 |
-|      49 | 0x2F8A      |       12170 |
-|      50 | 0x2F8B      |       12171 |
-|      51 | 0x2F8C      |       12172 |
+|      13 | 0x2F67      |       12135 |
+|      14 | 0x2F68      |       12136 |
+|      15 | 0x2F69      |       12137 |
+|      16 | 0x2F6A      |       12138 |
+|      17 | 0x2F6B      |       12139 |
+|      18 | 0x2F6C      |       12140 |
+|      19 | 0x2F6D      |       12141 |
+|      20 | 0x2F6E      |       12142 |
+|      21 | 0x2F6F      |       12143 |
+|      22 | 0x2F70      |       12144 |
+|      23 | 0x2F71      |       12145 |
+|      24 | 0x2F72      |       12146 |
+|      25 | 0x2F73      |       12147 |
+|      26 | 0x2F74      |       12148 |
+|      27 | 0x2F75      |       12149 |
+|      28 | 0x2F76      |       12150 |
+|      29 | 0x2F77      |       12151 |
+|      30 | 0x2F78      |       12152 |
+|      31 | 0x2F79      |       12153 |
+|      32 | 0x2F7A      |       12154 |
+|      33 | 0x2F7B      |       12155 |
+|      34 | 0x2F7C      |       12156 |
+|      35 | 0x2F7D      |       12157 |
+|      36 | 0x2F7E      |       12158 |
+|      37 | 0x2F7F      |       12159 |
+|      38 | 0x2F80      |       12160 |
+|      39 | 0x2F81      |       12161 |
+|      40 | 0x2F82      |       12162 |
+|      41 | 0x2F83      |       12163 |
+|      42 | 0x2F84      |       12164 |
+|      43 | 0x2F85      |       12165 |
+|      44 | 0x2F86      |       12166 |
+|      45 | 0x2F87      |       12167 |
+|      46 | 0x2F88      |       12168 |
+|      47 | 0x2F89      |       12169 |
+|      48 | 0x2F8A      |       12170 |
+|      49 | 0x2F8B      |       12171 |
+|      50 | 0x2F8C      |       12172 |
+|      51 | 0x2F8D      |       12173 |
 |      52 | 0x0E10      |        3600 |
 |      53 | 0x003C      |          60 |
-|      54 | 0x2F8E      |       12174 |
-|      55 | 0x2F8F      |       12175 |
-|      56 | 0x2F90      |       12176 |
-|      57 | 0x2F8D      |       12173 |
-|      58 | 0x2F91      |       12177 |
+|      54 | 0x2F8F      |       12175 |
+|      55 | 0x2F90      |       12176 |
+|      56 | 0x2F91      |       12177 |
+|      57 | 0x2F8E      |       12174 |
+|      58 | 0x2F92      |       12178 |
 |      59 | 0x05A8      |        1448 |
-|      60 | 0x2F63      |       12131 |
-|      61 | 0x2F64      |       12132 |
+|      60 | 0x2F64      |       12132 |
+|      61 | 0x2F65      |       12133 |
 |      62 | 0x0013      |          19 |
 |      63 | 0x001D      |          29 |
 |      64 | 0x0027      |          39 |
@@ -93,54 +93,54 @@
 
 ## String References
 
-- **12130**: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
-- **12131**: You must take on the "$0" Records of Eminence objective before receiving the explanation.
-- **12132**: You must complete "$1" before taking on the "$0" Records of Eminence objective.
-- **12133**: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
-- **12134**: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
-- **12135**: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
-- **12136**: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
-- **12137**: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
-- **12138**: You can change the CTRL+Q shortcut command...
-- **12139**: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
-- **12140**: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
-- **12141**: You must meet one of the following conditions in order to post to the Assist Channel.
-- **12142**: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
-- **12143**: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
-- **12144**: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-- **12145**: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
-- **12146**: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
-- **12147**: The Assist Channel can only be used in the following areas.
-- **12148**: Available areas: $7, $7, $7, $7, $7, $7...
-- **12149**: ...$7, $7, $7, $7, $7, $7, $7, $7...
+- **12131**: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
+- **12132**: You must take on the "$0" Records of Eminence objective before receiving the explanation.
+- **12133**: You must complete "$1" before taking on the "$0" Records of Eminence objective.
+- **12134**: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
+- **12135**: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
+- **12136**: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
+- **12137**: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
+- **12138**: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
+- **12139**: You can change the CTRL+Q shortcut command...
+- **12140**: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
+- **12141**: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
+- **12142**: You must meet one of the following conditions in order to post to the Assist Channel.
+- **12143**: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
+- **12144**: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
+- **12145**: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
+- **12146**: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+- **12147**: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
+- **12148**: The Assist Channel can only be used in the following areas.
+- **12149**: Available areas: $7, $7, $7, $7, $7, $7...
 - **12150**: ...$7, $7, $7, $7, $7, $7, $7, $7...
-- **12151**: ...$7, $7, $7, and your Mog House (Rent-a-Room).
-- **12152**: You cannot post or read messages outside of the areas listed above.
-- **12153**: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
-- **12154**: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
-- **12155**: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
-- **12156**: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
-- **12157**: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
-- **12158**: The higher the number, the more experienced the mentor is.
-- **12159**: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
-- **12160**: You can check your Mastery Rank by going to Main Menu > Status > Profile.
-- **12161**: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
-- **12162**: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
-- **12163**: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
-- **12164**: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
-- **12165**: A "Warning" is a feature that can only be used by mentors.
-- **12166**: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
-- **12167**: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
-- **12168**: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
-- **12169**: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
-- **12170**: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
-- **12171**: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
-- **12172**: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
-- **12173**: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
-- **12174**: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
-- **12175**: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
-- **12176**: You are about to lose the ability to post messages to the Assist Channel.
-- **12177**: You are unable to post messages to the Assist Channel.
+- **12151**: ...$7, $7, $7, $7, $7, $7, $7, $7...
+- **12152**: ...$7, $7, $7, and your Mog House (Rent-a-Room).
+- **12153**: You cannot post or read messages outside of the areas listed above.
+- **12154**: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
+- **12155**: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
+- **12156**: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
+- **12157**: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
+- **12158**: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
+- **12159**: The higher the number, the more experienced the mentor is.
+- **12160**: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
+- **12161**: You can check your Mastery Rank by going to Main Menu > Status > Profile.
+- **12162**: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
+- **12163**: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
+- **12164**: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
+- **12165**: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
+- **12166**: A "Warning" is a feature that can only be used by mentors.
+- **12167**: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
+- **12168**: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
+- **12169**: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
+- **12170**: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
+- **12171**: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
+- **12172**: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
+- **12173**: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
+- **12174**: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
+- **12175**: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
+- **12176**: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
+- **12177**: You are about to lose the ability to post messages to the Assist Channel.
+- **12178**: You are unable to post messages to the Assist Channel.
 
 ## Events
 
@@ -202,12 +202,12 @@
   0: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
+  3: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
     → "This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers."
   4: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000F [0x05] ExtData[1]->WorkLocal[5] = 1
   6: 0x0012 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x00DE
-  7: 0x001A [0x24] CREATE_DIALOG(message_id=12133*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+  7: 0x001A [0x24] CREATE_DIALOG(message_id=12134*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]"
   8: 0x0021 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0022 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0035
@@ -337,13 +337,13 @@ SUBROUTINE_00DB:
   1: 0x00E1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00E7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
+  4: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
     → "This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers."
   5: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00EC [0x03] ExtData[1]->WorkLocal[3] = 1022*
   7: 0x00F1 [0x05] ExtData[1]->WorkLocal[5] = 1
   8: 0x00F4 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x01FF
-  9: 0x00FC [0x24] CREATE_DIALOG(message_id=12133*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[3])
+  9: 0x00FC [0x24] CREATE_DIALOG(message_id=12134*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[3])
     → "What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]"
  10: 0x0103 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0104 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011E
@@ -402,7 +402,7 @@ SUBROUTINE_01FC:
 
 SUBROUTINE_0201:
  62: 0x0201 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
- 63: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=12134*)
+ 63: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
     → "The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors."
  64: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0214 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -411,22 +411,22 @@ SUBROUTINE_0201:
 
 SUBROUTINE_0231:
  68: 0x0231 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
- 69: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+ 69: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message."
  70: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
+ 71: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
     → "You can also use "/aj" for "/assistj", and "/ae" for "/assiste"."
  72: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
+ 73: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
     → "Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you."
  74: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
+ 75: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
     → "You can change the CTRL+Q shortcut command..."
  76: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
+ 77: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
     → "...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ."
  78: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
+ 79: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
     → "It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English."
  80: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -435,22 +435,22 @@ SUBROUTINE_0231:
 
 SUBROUTINE_0275:
  84: 0x0275 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
- 85: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
+ 85: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=12142*)
     → "You must meet one of the following conditions in order to post to the Assist Channel."
  86: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=12142*)
+ 87: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
     → "1. You are a new player You may post messages from the moment you first set foot in Vana'diel."
  88: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
+ 89: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=12144*)
     → "2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days."
  90: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=12144*)
+ 91: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=12145*)
     → "3. You are a mentor You may post messages as long as you remain a mentor to other players."
  92: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=12145*)
+ 93: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=12146*)
     → "New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights."
  94: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=12146*)
+ 95: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=12147*)
     → "If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left."
  96: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x029C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -459,25 +459,25 @@ SUBROUTINE_0275:
 
 SUBROUTINE_02B9:
 100: 0x02B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-101: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12147*)
+101: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12148*)
     → "The Assist Channel can only be used in the following areas."
 102: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x02CC [0x48] [System] [12148*]:
+103: 0x02CC [0x48] [System] [12149*]:
     → "Available areas: $7, $7, $7, $7, $7, $7..."
 104: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x02D0 [0x48] [System] [12149*]:
+105: 0x02D0 [0x48] [System] [12150*]:
     → "...$7, $7, $7, $7, $7, $7, $7, $7..."
 106: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x02D4 [0x48] [System] [12150*]:
+107: 0x02D4 [0x48] [System] [12151*]:
     → "...$7, $7, $7, $7, $7, $7, $7, $7..."
 108: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-109: 0x02D8 [0x48] [System] [12151*]:
+109: 0x02D8 [0x48] [System] [12152*]:
     → "...$7, $7, $7, and your Mog House (Rent-a-Room)."
 110: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12152*)
+111: 0x02DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12153*)
     → "You cannot post or read messages outside of the areas listed above."
 112: 0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12153*)
+113: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12154*)
     → "Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message."
 114: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x02E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -486,25 +486,25 @@ SUBROUTINE_02B9:
 
 SUBROUTINE_0301:
 118: 0x0301 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-119: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=12154*)
+119: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=12155*)
     → "Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank)."
 120: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x0314 [0x1D] PRINT_EVENT_MESSAGE(message_id=12155*)
+121: 0x0314 [0x1D] PRINT_EVENT_MESSAGE(message_id=12156*)
     → "As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC"
 122: 0x0317 [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x0318 [0x1D] PRINT_EVENT_MESSAGE(message_id=12156*)
+123: 0x0318 [0x1D] PRINT_EVENT_MESSAGE(message_id=12157*)
     → "A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers."
 124: 0x031B [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=12157*)
+125: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
     → "The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer."
 126: 0x031F [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
+127: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
     → "The higher the number, the more experienced the mentor is."
 128: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
+129: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=12160*)
     → "You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious."
 130: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=12160*)
+131: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
     → "You can check your Mastery Rank by going to Main Menu > Status > Profile."
 132: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x032C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -513,7 +513,7 @@ SUBROUTINE_0301:
 
 SUBROUTINE_0349:
 136: 0x0349 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-137: 0x0358 [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
+137: 0x0358 [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
     → "If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search."
 138: 0x035B [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x035C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -522,28 +522,28 @@ SUBROUTINE_0349:
 
 SUBROUTINE_0379:
 142: 0x0379 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-143: 0x0388 [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
+143: 0x0388 [0x1D] PRINT_EVENT_MESSAGE(message_id=12163*)
     → "The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful."
 144: 0x038B [0x23] WAIT_FOR_DIALOG_INTERACTION
-145: 0x038C [0x1D] PRINT_EVENT_MESSAGE(message_id=12163*)
+145: 0x038C [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
     → "Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase."
 146: 0x038F [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x0390 [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
+147: 0x0390 [0x1D] PRINT_EVENT_MESSAGE(message_id=12165*)
     → "Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful."
 148: 0x0393 [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=12165*)
+149: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=12166*)
     → "A "Warning" is a feature that can only be used by mentors."
 150: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
-151: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=12166*)
+151: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=12167*)
     → "Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment."
 152: 0x039B [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x039C [0x1D] PRINT_EVENT_MESSAGE(message_id=12167*)
+153: 0x039C [0x1D] PRINT_EVENT_MESSAGE(message_id=12168*)
     → "To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu."
 154: 0x039F [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12168*)
+155: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12169*)
     → "Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel."
 156: 0x03A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-157: 0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12169*)
+157: 0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12170*)
     → "You may send up to one "Thumbs Up" and one "Warning" per day (Earth time)."
 158: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x03A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -552,13 +552,13 @@ SUBROUTINE_0379:
 
 SUBROUTINE_03C5:
 162: 0x03C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-163: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12170*)
+163: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12171*)
     → "The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel."
 164: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12171*)
+165: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12172*)
     → "Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you."
 166: 0x03DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12172*)
+167: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12173*)
     → "Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled."
 168: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x03E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
@@ -586,25 +586,25 @@ SUBROUTINE_03FD:
 
 SUBROUTINE_0453:
 189: 0x0453 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x0466
-190: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=12174*)
+190: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=12175*)
     → "You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])"
 191: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
-192: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=12175*)
+192: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=12176*)
     → "If you log out while you still have time available, your remaining time will be carried over to the next time you log in."
 193: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x0463 [0x01] GOTO 0x046A
-195: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=12176*)
+195: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=12177*)
     → "You are about to lose the ability to post messages to the Assist Channel."
 196: 0x0469 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_046A:
 197: 0x046A [0x01] GOTO 0x0480
 198: 0x046D [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x047C
-199: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=12173*)
+199: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=12174*)
     → "You are free to post messages to the Assist Channel until you decide to stop serving as a mentor."
 200: 0x0478 [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x0479 [0x01] GOTO 0x0480
-202: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=12177*)
+202: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=12178*)
     → "You are unable to post messages to the Assist Channel."
 203: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -647,14 +647,14 @@ SUBROUTINE_0480:
   3: 0x048C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x048D [0x03] Work_Zone[2] = 1448*
   5: 0x0492 [0x03] Work_Zone[3] = 1*
-  6: 0x0497 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
+  6: 0x0497 [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
     → "This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers."
   7: 0x049A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x049B [0x48] [System] [12131*]:
+  8: 0x049B [0x48] [System] [12132*]:
     → "You must take on the "$0" Records of Eminence objective before receiving the explanation."
   9: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x049F [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x04AB
- 11: 0x04A7 [0x48] [System] [12132*]:
+ 11: 0x04A7 [0x48] [System] [12133*]:
     → "You must complete "$1" before taking on the "$0" Records of Eminence objective."
  12: 0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x04AB [0x21] END_EVENT

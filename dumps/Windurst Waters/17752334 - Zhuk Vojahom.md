@@ -43,67 +43,67 @@
 |      14 | 0xFFFCEEEE  |  4294766318 |
 |      15 | 0xFFFE499F  |  4294855071 |
 |      16 | 0xFFFFEFA4  |  4294963108 |
-|      17 | 0x3008      |       12296 |
-|      18 | 0x3009      |       12297 |
+|      17 | 0x300B      |       12299 |
+|      18 | 0x300C      |       12300 |
 |      19 | 0x000B      |          11 |
-|      20 | 0x300A      |       12298 |
-|      21 | 0x300B      |       12299 |
+|      20 | 0x300D      |       12301 |
+|      21 | 0x300E      |       12302 |
 |      22 | 0x0001      |           1 |
-|      23 | 0x300C      |       12300 |
+|      23 | 0x300F      |       12303 |
 |      24 | 0xFFFCE7DA  |  4294764506 |
 |      25 | 0xFFFE4746  |  4294854470 |
 |      26 | 0xFFFFF198  |  4294963608 |
-|      27 | 0x300E      |       12302 |
+|      27 | 0x3011      |       12305 |
 |      28 | 0x001A      |          26 |
-|      29 | 0x300F      |       12303 |
+|      29 | 0x3012      |       12306 |
 |      30 | 0x003B      |          59 |
-|      31 | 0x3010      |       12304 |
-|      32 | 0x3011      |       12305 |
+|      31 | 0x3013      |       12307 |
+|      32 | 0x3014      |       12308 |
 |      33 | 0x0019      |          25 |
-|      34 | 0x3012      |       12306 |
-|      35 | 0x3013      |       12307 |
+|      34 | 0x3015      |       12309 |
+|      35 | 0x3016      |       12310 |
 |      36 | 0x005A      |          90 |
-|      37 | 0x3014      |       12308 |
-|      38 | 0x3015      |       12309 |
-|      39 | 0x3016      |       12310 |
-|      40 | 0x3017      |       12311 |
-|      41 | 0x3018      |       12312 |
-|      42 | 0x3019      |       12313 |
-|      43 | 0x301A      |       12314 |
-|      44 | 0x301B      |       12315 |
+|      37 | 0x3017      |       12311 |
+|      38 | 0x3018      |       12312 |
+|      39 | 0x3019      |       12313 |
+|      40 | 0x301A      |       12314 |
+|      41 | 0x301B      |       12315 |
+|      42 | 0x301C      |       12316 |
+|      43 | 0x301D      |       12317 |
+|      44 | 0x301E      |       12318 |
 |      45 | 0x0008      |           8 |
-|      46 | 0x301C      |       12316 |
+|      46 | 0x301F      |       12319 |
 |      47 | 0xFFFCF2C0  |  4294767296 |
 |      48 | 0xFFFE4A4B  |  4294855243 |
 |      49 | 0xFFFFEE95  |  4294962837 |
 |      50 | 0x0097      |         151 |
-|      51 | 0x301D      |       12317 |
-|      52 | 0x301E      |       12318 |
-|      53 | 0x301F      |       12319 |
-|      54 | 0x3020      |       12320 |
-|      55 | 0x3021      |       12321 |
-|      56 | 0x3022      |       12322 |
-|      57 | 0x3023      |       12323 |
-|      58 | 0x3024      |       12324 |
-|      59 | 0x3025      |       12325 |
-|      60 | 0x3026      |       12326 |
-|      61 | 0x3027      |       12327 |
-|      62 | 0x3029      |       12329 |
+|      51 | 0x3020      |       12320 |
+|      52 | 0x3021      |       12321 |
+|      53 | 0x3022      |       12322 |
+|      54 | 0x3023      |       12323 |
+|      55 | 0x3024      |       12324 |
+|      56 | 0x3025      |       12325 |
+|      57 | 0x3026      |       12326 |
+|      58 | 0x3027      |       12327 |
+|      59 | 0x3028      |       12328 |
+|      60 | 0x3029      |       12329 |
+|      61 | 0x302A      |       12330 |
+|      62 | 0x302C      |       12332 |
 |      63 | 0x002D      |          45 |
-|      64 | 0x302B      |       12331 |
-|      65 | 0x302A      |       12330 |
+|      64 | 0x302E      |       12334 |
+|      65 | 0x302D      |       12333 |
 |      66 | 0x000C      |          12 |
-|      67 | 0x302C      |       12332 |
-|      68 | 0x302D      |       12333 |
-|      69 | 0x302E      |       12334 |
-|      70 | 0x302F      |       12335 |
-|      71 | 0x3030      |       12336 |
+|      67 | 0x302F      |       12335 |
+|      68 | 0x3030      |       12336 |
+|      69 | 0x3031      |       12337 |
+|      70 | 0x3032      |       12338 |
+|      71 | 0x3033      |       12339 |
 |      72 | 0x00C9      |         201 |
-|      73 | 0x3028      |       12328 |
+|      73 | 0x302B      |       12331 |
 
 ## String References
 
-- **12297**: Show her Leleroon's letter? [Yes./Not now.]
+- **12300**: Show her Leleroon's letter? [Yes./Not now.]
 
 ## Events
 
@@ -240,13 +240,13 @@
  26: 0x00A5 [0x1F] MOVE_ENTITY: EventEntity moves to X=-200.978*, Z=-112.225*, Y=-4.188*
  27: 0x00AD [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  28: 0x00AF [0x1C] WAIT(60* ticks)
- 29: 0x00B2 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12296*]:
+ 29: 0x00B2 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12299*]:
     → "Eh? Whaddaya want with me, pal?"
  30: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00BA [0x1C] WAIT(60* ticks)
  32: 0x00BD [0x52] END_LOAD_SCHEDULER: End scheduler "t000" with entities [EventEntity, EventEntity], work=283*
  33: 0x00CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t001" with entities [EventEntity, EventEntity], work=[283*, 0*]
- 34: 0x00DD [0x24] CREATE_DIALOG(message_id=12297*, default_option=0*, option_flags=0*)
+ 34: 0x00DD [0x24] CREATE_DIALOG(message_id=12300*, default_option=0*, option_flags=0*)
     → "Show her Leleroon's letter? [Yes./Not now.]"
  35: 0x00E4 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
@@ -255,11 +255,11 @@
  39: 0x00FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t002" with entities [EventEntity, EventEntity], work=[283*, 0*]
  40: 0x0110 [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 11*
  41: 0x0117 [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 42: 0x011C [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12298*]:
+ 42: 0x011C [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12301*]:
     → "You gotta be pullin' my whiskers! It's a letter from Leleroon!"
  43: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0124 [0x1C] WAIT(30* ticks)
- 45: 0x0127 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12299*]:
+ 45: 0x0127 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12302*]:
     → "Um... Is that a 5? eA...GoOol... RetOoorN...i...T...6? Huh?"
  46: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x012F [0x01] GOTO 0x0140
@@ -270,7 +270,7 @@ SUBROUTINE_0140:
  50: 0x0140 [0x1C] WAIT(60* ticks)
  51: 0x0143 [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 4*
  52: 0x014A [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 53: 0x014F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12300*]:
+ 53: 0x014F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12303*]:
     → "Ahaha. I can't rrread a word of it. Looks like Leleroon hasn't changed a bit.t"
  54: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0157 [0x1C] WAIT(30* ticks)
@@ -279,13 +279,13 @@ SUBROUTINE_0140:
  58: 0x017A [0x32] ExtData[1]->MainSpeed = 13* * 0.1
  59: 0x017D [0x1F] MOVE_ENTITY: EventEntity moves to X=-202.790*, Z=-112.826*, Y=-3.688*
  60: 0x0185 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
- 61: 0x0187 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12302*]:
+ 61: 0x0187 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12305*]:
     → "The ship got a big chunk blown out of its hull, right? Well, I've had quite a bit happen to me as well, and somehow I ended up here."
  62: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x018F [0x1C] WAIT(30* ticks)
  64: 0x0192 [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 26*
  65: 0x0199 [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 66: 0x019E [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12303*]:
+ 66: 0x019E [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12306*]:
     → "Anyway, now I'm disguising myself as your rrrun-o'-the mill adventurer..."
  67: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x01A6 [0x1C] WAIT(30* ticks)
@@ -293,37 +293,37 @@ SUBROUTINE_0140:
  70: 0x01B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t004" with entities [EventEntity, EventEntity], work=[283*, 0*]
  71: 0x01C9 [0x1C] WAIT(60* ticks)
  72: 0x01CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 73: 0x01DB [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12304*]:
+ 73: 0x01DB [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12307*]:
     → "But in trrruth, I'm Zhuk Vojahom, the Seagull Phratrie's queen o' the dice!"
  74: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x01E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  76: 0x01F2 [0x1C] WAIT(60* ticks)
  77: 0x01F5 [0x52] END_LOAD_SCHEDULER: End scheduler "t004" with entities [EventEntity, EventEntity], work=283*
  78: 0x0204 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t010" with entities [EventEntity, EventEntity], work=[283*, 0*]
- 79: 0x0215 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12305*]:
+ 79: 0x0215 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12308*]:
     → "What's your prrroblem? You dare doubt me?"
  80: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x021D [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 25*
  82: 0x0224 [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 83: 0x0229 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12306*]:
+ 83: 0x0229 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12309*]:
     → "It's true! I'm the only match for Qultada in a game of dice!"
  84: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0231 [0x1C] WAIT(30* ticks)
  86: 0x0234 [0x52] END_LOAD_SCHEDULER: End scheduler "t010" with entities [EventEntity, EventEntity], work=283*
  87: 0x0243 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t005" with entities [EventEntity, EventEntity], work=[283*, 0*]
- 88: 0x0254 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12307*]:
+ 88: 0x0254 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12310*]:
     → "So you wanna know how many times I've won, do you?"
  89: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x025C [0x1C] WAIT(90* ticks)
  91: 0x025F [0x7C] Zhuk Vojahom (ID: 17752334/0x010EE10E)->Render.Flags2 |= 0x00
  92: 0x0265 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
- 93: 0x0274 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12308*]:
+ 93: 0x0274 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12311*]:
     → "..."
  94: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x027C [0x52] END_LOAD_SCHEDULER: End scheduler "t005" with entities [EventEntity, EventEntity], work=283*
  96: 0x028B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t006" with entities [EventEntity, EventEntity], work=[283*, 0*]
  97: 0x029C [0x1C] WAIT(60* ticks)
- 98: 0x029F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12309*]:
+ 98: 0x029F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12312*]:
     → "That's none of your business."
  99: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x02A7 [0x1C] WAIT(60* ticks)
@@ -331,29 +331,29 @@ SUBROUTINE_0140:
 102: 0x02B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t007" with entities [EventEntity, EventEntity], work=[283*, 0*]
 103: 0x02CA [0x1C] WAIT(60* ticks)
 104: 0x02CD [0x7C] Zhuk Vojahom (ID: 17752334/0x010EE10E)->Render.Flags2 |= 0x01
-105: 0x02D3 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12310*]:
+105: 0x02D3 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12313*]:
     → "Anyway, now that I've received official contact and everything, I suppose I'd better head back to Aradjiah!"
 106: 0x02DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x02DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
 108: 0x02EA [0x1C] WAIT(60* ticks)
-109: 0x02ED [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12311*]:
+109: 0x02ED [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12314*]:
     → "Thanks for bringing the letter to me!"
 110: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x02F5 [0x1C] WAIT(30* ticks)
-112: 0x02F8 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12312*]:
+112: 0x02F8 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12315*]:
     → "To show my gratitude, I can make you something special.t"
 113: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0300 [0x52] END_LOAD_SCHEDULER: End scheduler "t007" with entities [EventEntity, EventEntity], work=283*
 115: 0x030F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t008" with entities [EventEntity, EventEntity], work=[283*, 0*]
 116: 0x0320 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-117: 0x032F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12313*]:
+117: 0x032F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12316*]:
     → "All I need is $0, $1, $2, and $3..."
 118: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0337 [0x1C] WAIT(30* ticks)
-120: 0x033A [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12314*]:
+120: 0x033A [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12317*]:
     → "And then everything will be set!"
 121: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x0342 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12315*]:
+122: 0x0342 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12318*]:
     → "I'll make you a prize fit for the captain."
 123: 0x0349 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x034A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -362,7 +362,7 @@ SUBROUTINE_0140:
 127: 0x0379 [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 8*
 128: 0x0380 [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
 129: 0x0385 [0x1C] WAIT(30* ticks)
-130: 0x0388 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12316*]:
+130: 0x0388 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12319*]:
     → "Good luck finding the materials."
 131: 0x038F [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x0390 [0x1C] WAIT(30* ticks)
@@ -457,16 +457,16 @@ SUBROUTINE_0140:
  24: 0x0492 [0x1F] MOVE_ENTITY: EventEntity moves to X=-200.978*, Z=-112.225*, Y=-4.188*
  25: 0x049A [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  26: 0x049C [0x1C] WAIT(60* ticks)
- 27: 0x049F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12317*]:
+ 27: 0x049F [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12320*]:
     → "You alrrready forgot?"
  28: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x04A7 [0x1C] WAIT(60* ticks)
  30: 0x04AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 31: 0x04B9 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12318*]:
+ 31: 0x04B9 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12321*]:
     → "$0, $1, $2, and $3!"
  32: 0x04C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x04C1 [0x1C] WAIT(60* ticks)
- 34: 0x04C4 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12319*]:
+ 34: 0x04C4 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12322*]:
     → "Now go get 'em!"
  35: 0x04CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x04CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -551,26 +551,26 @@ SUBROUTINE_0140:
  22: 0x05C3 [0x1F] MOVE_ENTITY: EventEntity moves to X=-200.978*, Z=-112.225*, Y=-4.188*
  23: 0x05CB [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  24: 0x05CD [0x1C] WAIT(60* ticks)
- 25: 0x05D0 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12320*]:
+ 25: 0x05D0 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12323*]:
     → "You got them all? Grrreat!"
  26: 0x05D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x05D8 [0x1C] WAIT(60* ticks)
- 28: 0x05DB [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12321*]:
+ 28: 0x05DB [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12324*]:
     → "By the way, you can't expect me to do such a kind deed for frrree, but bring me $5 $0$4 , too, and I'll consider the price paid.t"
  29: 0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x05E3 [0x52] END_LOAD_SCHEDULER: End scheduler "t000" with entities [EventEntity, EventEntity], work=283*
  31: 0x05F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t015" with entities [EventEntity, EventEntity], work=[283*, 0*]
  32: 0x0603 [0x1C] WAIT(30* ticks)
- 33: 0x0606 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12322*]:
+ 33: 0x0606 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12325*]:
     → "You think that's expensive? Don't you get cheap on me!"
  34: 0x060D [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x060E [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 26*
  36: 0x0615 [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 37: 0x061A [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12323*]:
+ 37: 0x061A [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12326*]:
     → "They all know you in the Near East now, don't they? It should be like taking pamamas from a kitten."
  38: 0x0621 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0622 [0x1C] WAIT(30* ticks)
- 40: 0x0625 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12319*]:
+ 40: 0x0625 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12322*]:
     → "Now go get 'em!"
  41: 0x062C [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x062D [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 8*
@@ -653,14 +653,14 @@ SUBROUTINE_0140:
  23: 0x0729 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  24: 0x072B [0x1C] WAIT(60* ticks)
  25: 0x072E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 26: 0x073D [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12324*]:
+ 26: 0x073D [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12327*]:
     → "$5 $0$4 , okay? I'm rrrooting for you here.t"
  27: 0x0744 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0745 [0x1C] WAIT(30* ticks)
- 29: 0x0748 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12323*]:
+ 29: 0x0748 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12326*]:
     → "They all know you in the Near East now, don't they? It should be like taking pamamas from a kitten."
  30: 0x074F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0750 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12319*]:
+ 31: 0x0750 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12322*]:
     → "Now go get 'em!"
  32: 0x0757 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0758 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -745,18 +745,18 @@ SUBROUTINE_0140:
  22: 0x084F [0x1C] WAIT(60* ticks)
  23: 0x0852 [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 13*
  24: 0x0859 [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 25: 0x085E [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12325*]:
+ 25: 0x085E [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12328*]:
     → "Hm... Yep, looks like they're all here!"
  26: 0x0865 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0866 [0x1C] WAIT(60* ticks)
  28: 0x0869 [0x52] END_LOAD_SCHEDULER: End scheduler "t000" with entities [EventEntity, EventEntity], work=283*
  29: 0x0878 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t015" with entities [EventEntity, EventEntity], work=[283*, 0*]
  30: 0x0889 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 31: 0x0898 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12326*]:
+ 31: 0x0898 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12329*]:
     → "Now you just have to wait for me to make it, okay?"
  32: 0x089F [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x08A0 [0x1C] WAIT(30* ticks)
- 34: 0x08A3 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12327*]:
+ 34: 0x08A3 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12330*]:
     → "It won't take long, so stop giving me that look. Heh heh, no one'll be able to match this. You better apprrreciate it."
  35: 0x08AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x08AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -848,7 +848,7 @@ SUBROUTINE_0140:
  20: 0x099A [0x1F] MOVE_ENTITY: EventEntity moves to X=-200.978*, Z=-112.225*, Y=-4.188*
  21: 0x09A2 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  22: 0x09A4 [0x1C] WAIT(60* ticks)
- 23: 0x09A7 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12329*]:
+ 23: 0x09A7 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12332*]:
     → "Ta-da! All finished!"
  24: 0x09AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x09AF [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 13*
@@ -857,10 +857,10 @@ SUBROUTINE_0140:
  28: 0x09BE [0x52] END_LOAD_SCHEDULER: End scheduler "t000" with entities [EventEntity, EventEntity], work=283*
  29: 0x09CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t016" with entities [EventEntity, EventEntity], work=[283*, 0*]
  30: 0x09DE [0x1C] WAIT(30* ticks)
- 31: 0x09E1 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12331*]:
+ 31: 0x09E1 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12334*]:
     → "Heheheh. Looking good.t"
  32: 0x09E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x09E9 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12330*]:
+ 33: 0x09E9 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12333*]:
     → "Now this is a well-made item! You better not drrrag it through the mud, got it?"
  34: 0x09F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x09F1 [0x1C] WAIT(30* ticks)
@@ -868,10 +868,10 @@ SUBROUTINE_0140:
  37: 0x0A03 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t012" with entities [EventEntity, EventEntity], work=[283*, 0*]
  38: 0x0A14 [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 12*
  39: 0x0A1B [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 40: 0x0A20 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12332*]:
+ 40: 0x0A20 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12335*]:
     → "Now go take flight above the rolling waves, Seagull!"
  41: 0x0A27 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0A28 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12333*]:
+ 42: 0x0A28 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12336*]:
     → "Ah, even just the memories make me burn to get back to the Phratrie... The ocean is calling me home!"
  43: 0x0A2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0A30 [0x1C] WAIT(30* ticks)
@@ -879,17 +879,17 @@ SUBROUTINE_0140:
  46: 0x0A42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t013" with entities [EventEntity, EventEntity], work=[283*, 0*]
  47: 0x0A53 [0x1C] WAIT(60* ticks)
  48: 0x0A56 [0x1E] EventEntity looks at Door:House (ID: 17752333/0x010EE10D) and starts talking
- 49: 0x0A5B [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12334*]:
+ 49: 0x0A5B [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12337*]:
     → "(Maybe I'll make this $4 the wager for my 152nd match with Qultada...)"
  50: 0x0A62 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0A63 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12335*]:
+ 51: 0x0A63 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12338*]:
     → "(This time I'll beat him for sure!)"
  52: 0x0A6A [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0A6B [0x52] END_LOAD_SCHEDULER: End scheduler "t013" with entities [EventEntity, EventEntity], work=283*
  54: 0x0A7A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t014" with entities [EventEntity, EventEntity], work=[283*, 0*]
  55: 0x0A8B [0x1C] WAIT(60* ticks)
  56: 0x0A8E [0x4A] Zhuk Vojahom (ID: 17752334/0x010EE10E) looks at LocalPlayer
- 57: 0x0A97 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12336*]:
+ 57: 0x0A97 [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12339*]:
     → "See ya at the base, then!"
  58: 0x0A9E [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0A9F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=90*)
@@ -969,7 +969,7 @@ SUBROUTINE_0140:
  23: 0x0B9E [0x1C] WAIT(60* ticks)
  24: 0x0BA1 [0x6E] Zhuk Vojahom (ID: 17752334/0x010EE10E) uses emote 26*
  25: 0x0BA8 [0x99] Wait for Zhuk Vojahom (ID: 17752334/0x010EE10E) animation to complete
- 26: 0x0BAD [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12328*]:
+ 26: 0x0BAD [0x2B] Zhuk Vojahom (ID: 17752334/0x010EE10E) [12331*]:
     → "Patience, patience! Give me some time, will ya? Go cloudgazing or something and come back later!"
  27: 0x0BB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0BB5 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=90*)

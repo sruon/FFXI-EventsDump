@@ -22,7 +22,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0006      |           6 |
-|       2 | 0x3072      |       12402 |
+|       2 | 0x3073      |       12403 |
 |       3 | 0x0007      |           7 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0005      |           5 |
@@ -32,13 +32,13 @@
 |       9 | 0x0003      |           3 |
 |      10 | 0x0004      |           4 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x3073      |       12403 |
+|      12 | 0x3074      |       12404 |
 |      13 | 0x0017      |          23 |
 
 ## String References
 
-- **12402**: Top o' the menu to ya. [Autopilot (Currently: [ON/OFF])/Cutscene...change! (Currently: No. $1)/Cutscene Status Modification./Group: $3./Get me outta here.]
-- **12403**: Status No. $1: [Closed/Open/Spare] [Closed./Open./Spare./Return to top.]
+- **12403**: Top o' the menu to ya. [Autopilot (Currently: [ON/OFF])/Cutscene...change! (Currently: No. $1)/Cutscene Status Modification./Group: $3./Get me outta here.]
+- **12404**: Status No. $1: [Closed/Open/Spare] [Closed./Open./Spare./Return to top.]
 
 ## Events
 
@@ -118,7 +118,7 @@
   7: 0x0022 [0x03] ExtData[1]->WorkLocal[8] = 0*
 
 SUBROUTINE_0027:
-  8: 0x0027 [0x24] CREATE_DIALOG(message_id=12402*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[8])
+  8: 0x0027 [0x24] CREATE_DIALOG(message_id=12403*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[8])
     → "Top o' the menu to ya. [Autopilot (Currently: [ON/OFF])/Cutscene...change! (Currently: No. $1)/Cutscene Status Modification./Group: $3./Get me outta here.]"
   9: 0x002E [0x25] WAIT_DIALOG_SELECT()
  10: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0050
@@ -162,7 +162,7 @@ SUBROUTINE_00CD:
 SUBROUTINE_00D0:
  43: 0x00D0 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0173
  44: 0x00D8 [0x1A] CALL_SUBROUTINE(address=0x0184)
- 45: 0x00DB [0x24] CREATE_DIALOG(message_id=12403*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+ 45: 0x00DB [0x24] CREATE_DIALOG(message_id=12404*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Status No. $1: [Closed/Open/Spare] [Closed./Open./Spare./Return to top.]"
  46: 0x00E2 [0x25] WAIT_DIALOG_SELECT()
  47: 0x00E3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0111

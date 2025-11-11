@@ -35,20 +35,20 @@
 |       3 | 0x2149      |        8521 |
 |       4 | 0x214A      |        8522 |
 |       5 | 0x214B      |        8523 |
-|       6 | 0x28AF      |       10415 |
-|       7 | 0x28B8      |       10424 |
-|       8 | 0x28B9      |       10425 |
-|       9 | 0x28BA      |       10426 |
+|       6 | 0x28B2      |       10418 |
+|       7 | 0x28BB      |       10427 |
+|       8 | 0x28BC      |       10428 |
+|       9 | 0x28BD      |       10429 |
 
 ## String References
 
 - **8521**: The firrrst rrrule of the Starrr Onion Brrrigade...!
 - **8522**: Show kindness to any stupid-looking adventurrrerrrs you meet!
 - **8523**: It's firrrst come, firrrst serrrved when it comes to the items put on auction. You'rrre competing in bidding against people frrrom all overrr the worrrld, so don't hesitate if you'rrre not surrre. Just do it!
-- **10415**: <Player>'s badge flashes brightly.
-- **10424**: One rrrule of the Starrr Onion Brrrigade...!
-- **10425**: Tell a special secrrret to any adventurer you meet wearrring a special badge!
-- **10426**: The rrrumored "Salaheem's Sentinels" is located in the town of "Al Zahbi"!
+- **10418**: <Player>'s badge flashes brightly.
+- **10427**: One rrrule of the Starrr Onion Brrrigade...!
+- **10428**: Tell a special secrrret to any adventurer you meet wearrring a special badge!
+- **10429**: The rrrumored "Salaheem's Sentinels" is located in the town of "Al Zahbi"!
 
 ## Events
 
@@ -337,22 +337,22 @@
 
 ```
   0: 0x00C2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00C3 [0x48] [System] [10415*]:
+  1: 0x00C3 [0x48] [System] [10418*]:
     → "<Player>'s badge flashes brightly."
   2: 0x00C6 [0x86] EventEntity->Render.Flags3 = Flags3  // No change (flag=0)
   3: 0x00CC [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x00D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x00D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x00D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x03)
-  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10424*)
+  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10427*)
     → "One rrrule of the Starrr Onion Brrrigade...!"
   8: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x03)
- 10: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10425*)
+ 10: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10428*)
     → "Tell a special secrrret to any adventurer you meet wearrring a special badge!"
  11: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x01)
- 13: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10426*)
+ 13: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
     → "The rrrumored "Salaheem's Sentinels" is located in the town of "Al Zahbi"!"
  14: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x02)

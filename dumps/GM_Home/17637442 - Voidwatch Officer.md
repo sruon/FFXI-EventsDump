@@ -64,14 +64,14 @@
 |      29 | 0x0F8E      |        3982 |
 |      30 | 0x001E      |          30 |
 |      31 | 0x0241      |         577 |
-|      32 | 0x229F      |        8863 |
-|      33 | 0x22A1      |        8865 |
+|      32 | 0x22A0      |        8864 |
+|      33 | 0x22A2      |        8866 |
 |      34 | 0x000F      |          15 |
-|      35 | 0x22A4      |        8868 |
-|      36 | 0x22A2      |        8866 |
-|      37 | 0x22A3      |        8867 |
+|      35 | 0x22A5      |        8869 |
+|      36 | 0x22A3      |        8867 |
+|      37 | 0x22A4      |        8868 |
 |      38 | 0x0007      |           7 |
-|      39 | 0x22A0      |        8864 |
+|      39 | 0x22A1      |        8865 |
 |      40 | 0x00C8      |         200 |
 |      41 | 0x000A      |          10 |
 |      42 | 0x6869B     |      427675 |
@@ -106,14 +106,14 @@
 |      71 | 0xFFF9BE2F  |  4294557231 |
 |      72 | 0x5276      |       21110 |
 |      73 | 0x0826      |        2086 |
-|      74 | 0x22A5      |        8869 |
-|      75 | 0x22A6      |        8870 |
-|      76 | 0x22A7      |        8871 |
-|      77 | 0x22A8      |        8872 |
-|      78 | 0x22A9      |        8873 |
-|      79 | 0x22AA      |        8874 |
-|      80 | 0x22C3      |        8899 |
-|      81 | 0x22C4      |        8900 |
+|      74 | 0x22A6      |        8870 |
+|      75 | 0x22A7      |        8871 |
+|      76 | 0x22A8      |        8872 |
+|      77 | 0x22A9      |        8873 |
+|      78 | 0x22AA      |        8874 |
+|      79 | 0x22AB      |        8875 |
+|      80 | 0x22C4      |        8900 |
+|      81 | 0x22C5      |        8901 |
 |      82 | 0x00C9      |         201 |
 |      83 | 0x002D      |          45 |
 |      84 | 0x00D7      |         215 |
@@ -123,192 +123,192 @@
 |      88 | 0x0014      |          20 |
 |      89 | 0x0015      |          21 |
 |      90 | 0x0017      |          23 |
-|      91 | 0x2297      |        8855 |
-|      92 | 0x2298      |        8856 |
-|      93 | 0x2299      |        8857 |
+|      91 | 0x2298      |        8856 |
+|      92 | 0x2299      |        8857 |
+|      93 | 0x229A      |        8858 |
 |      94 | 0x0009      |           9 |
-|      95 | 0x229A      |        8858 |
-|      96 | 0x229B      |        8859 |
-|      97 | 0x229C      |        8860 |
-|      98 | 0x229D      |        8861 |
-|      99 | 0x21F4      |        8692 |
+|      95 | 0x229B      |        8859 |
+|      96 | 0x229C      |        8860 |
+|      97 | 0x229D      |        8861 |
+|      98 | 0x229E      |        8862 |
+|      99 | 0x21F5      |        8693 |
 |     100 | 0x004B      |          75 |
-|     101 | 0x21FB      |        8699 |
-|     102 | 0x21FC      |        8700 |
+|     101 | 0x21FC      |        8700 |
+|     102 | 0x21FD      |        8701 |
 |     103 | 0x0028      |          40 |
-|     104 | 0x21F5      |        8693 |
+|     104 | 0x21F6      |        8694 |
 |     105 | 0x0603      |        1539 |
-|     106 | 0x21F6      |        8694 |
+|     106 | 0x21F7      |        8695 |
 |     107 | 0x40000000  |  1073741824 |
-|     108 | 0x222D      |        8749 |
-|     109 | 0x222E      |        8750 |
-|     110 | 0x222F      |        8751 |
-|     111 | 0x2230      |        8752 |
-|     112 | 0x2231      |        8753 |
-|     113 | 0x2232      |        8754 |
-|     114 | 0x2233      |        8755 |
-|     115 | 0x2234      |        8756 |
-|     116 | 0x2235      |        8757 |
-|     117 | 0x2236      |        8758 |
-|     118 | 0x2237      |        8759 |
-|     119 | 0x2238      |        8760 |
-|     120 | 0x2239      |        8761 |
-|     121 | 0x223A      |        8762 |
-|     122 | 0x223B      |        8763 |
-|     123 | 0x223C      |        8764 |
-|     124 | 0x223D      |        8765 |
-|     125 | 0x223E      |        8766 |
+|     108 | 0x222E      |        8750 |
+|     109 | 0x222F      |        8751 |
+|     110 | 0x2230      |        8752 |
+|     111 | 0x2231      |        8753 |
+|     112 | 0x2232      |        8754 |
+|     113 | 0x2233      |        8755 |
+|     114 | 0x2234      |        8756 |
+|     115 | 0x2235      |        8757 |
+|     116 | 0x2236      |        8758 |
+|     117 | 0x2237      |        8759 |
+|     118 | 0x2238      |        8760 |
+|     119 | 0x2239      |        8761 |
+|     120 | 0x223A      |        8762 |
+|     121 | 0x223B      |        8763 |
+|     122 | 0x223C      |        8764 |
+|     123 | 0x223D      |        8765 |
+|     124 | 0x223E      |        8766 |
+|     125 | 0x223F      |        8767 |
 |     126 | 0x0023      |          35 |
-|     127 | 0x223F      |        8767 |
-|     128 | 0x2240      |        8768 |
-|     129 | 0x2241      |        8769 |
-|     130 | 0x2242      |        8770 |
-|     131 | 0x2243      |        8771 |
-|     132 | 0x2244      |        8772 |
-|     133 | 0x2245      |        8773 |
-|     134 | 0x2246      |        8774 |
-|     135 | 0x2247      |        8775 |
-|     136 | 0x2248      |        8776 |
-|     137 | 0x2249      |        8777 |
-|     138 | 0x224A      |        8778 |
-|     139 | 0x224B      |        8779 |
-|     140 | 0x224C      |        8780 |
-|     141 | 0x224D      |        8781 |
-|     142 | 0x224E      |        8782 |
-|     143 | 0x224F      |        8783 |
-|     144 | 0x2250      |        8784 |
-|     145 | 0x2251      |        8785 |
-|     146 | 0x2252      |        8786 |
-|     147 | 0x2253      |        8787 |
-|     148 | 0x2254      |        8788 |
-|     149 | 0x2255      |        8789 |
-|     150 | 0x2256      |        8790 |
-|     151 | 0x2257      |        8791 |
-|     152 | 0x2258      |        8792 |
-|     153 | 0x2259      |        8793 |
-|     154 | 0x225A      |        8794 |
-|     155 | 0x225B      |        8795 |
+|     127 | 0x2240      |        8768 |
+|     128 | 0x2241      |        8769 |
+|     129 | 0x2242      |        8770 |
+|     130 | 0x2243      |        8771 |
+|     131 | 0x2244      |        8772 |
+|     132 | 0x2245      |        8773 |
+|     133 | 0x2246      |        8774 |
+|     134 | 0x2247      |        8775 |
+|     135 | 0x2248      |        8776 |
+|     136 | 0x2249      |        8777 |
+|     137 | 0x224A      |        8778 |
+|     138 | 0x224B      |        8779 |
+|     139 | 0x224C      |        8780 |
+|     140 | 0x224D      |        8781 |
+|     141 | 0x224E      |        8782 |
+|     142 | 0x224F      |        8783 |
+|     143 | 0x2250      |        8784 |
+|     144 | 0x2251      |        8785 |
+|     145 | 0x2252      |        8786 |
+|     146 | 0x2253      |        8787 |
+|     147 | 0x2254      |        8788 |
+|     148 | 0x2255      |        8789 |
+|     149 | 0x2256      |        8790 |
+|     150 | 0x2257      |        8791 |
+|     151 | 0x2258      |        8792 |
+|     152 | 0x2259      |        8793 |
+|     153 | 0x225A      |        8794 |
+|     154 | 0x225B      |        8795 |
+|     155 | 0x225C      |        8796 |
 |     156 | 0x0D6A      |        3434 |
 |     157 | 0x0D6B      |        3435 |
-|     158 | 0x225C      |        8796 |
-|     159 | 0x225D      |        8797 |
-|     160 | 0x225E      |        8798 |
-|     161 | 0x225F      |        8799 |
-|     162 | 0x2260      |        8800 |
-|     163 | 0x2261      |        8801 |
-|     164 | 0x2262      |        8802 |
-|     165 | 0x2263      |        8803 |
-|     166 | 0x2264      |        8804 |
-|     167 | 0x2265      |        8805 |
-|     168 | 0x2266      |        8806 |
-|     169 | 0x2267      |        8807 |
-|     170 | 0x2268      |        8808 |
-|     171 | 0x2269      |        8809 |
-|     172 | 0x226A      |        8810 |
-|     173 | 0x226B      |        8811 |
-|     174 | 0x226C      |        8812 |
-|     175 | 0x226D      |        8813 |
-|     176 | 0x226E      |        8814 |
-|     177 | 0x226F      |        8815 |
-|     178 | 0x2270      |        8816 |
-|     179 | 0x2271      |        8817 |
-|     180 | 0x2272      |        8818 |
-|     181 | 0x2273      |        8819 |
-|     182 | 0x2274      |        8820 |
-|     183 | 0x2275      |        8821 |
+|     158 | 0x225D      |        8797 |
+|     159 | 0x225E      |        8798 |
+|     160 | 0x225F      |        8799 |
+|     161 | 0x2260      |        8800 |
+|     162 | 0x2261      |        8801 |
+|     163 | 0x2262      |        8802 |
+|     164 | 0x2263      |        8803 |
+|     165 | 0x2264      |        8804 |
+|     166 | 0x2265      |        8805 |
+|     167 | 0x2266      |        8806 |
+|     168 | 0x2267      |        8807 |
+|     169 | 0x2268      |        8808 |
+|     170 | 0x2269      |        8809 |
+|     171 | 0x226A      |        8810 |
+|     172 | 0x226B      |        8811 |
+|     173 | 0x226C      |        8812 |
+|     174 | 0x226D      |        8813 |
+|     175 | 0x226E      |        8814 |
+|     176 | 0x226F      |        8815 |
+|     177 | 0x2270      |        8816 |
+|     178 | 0x2271      |        8817 |
+|     179 | 0x2272      |        8818 |
+|     180 | 0x2273      |        8819 |
+|     181 | 0x2274      |        8820 |
+|     182 | 0x2275      |        8821 |
+|     183 | 0x2276      |        8822 |
 |     184 | 0x0D7A      |        3450 |
-|     185 | 0x2276      |        8822 |
-|     186 | 0x2277      |        8823 |
-|     187 | 0x2278      |        8824 |
-|     188 | 0x2279      |        8825 |
-|     189 | 0x21FF      |        8703 |
-|     190 | 0x2200      |        8704 |
-|     191 | 0x2201      |        8705 |
-|     192 | 0x2202      |        8706 |
-|     193 | 0x227A      |        8826 |
-|     194 | 0x2210      |        8720 |
-|     195 | 0x227B      |        8827 |
-|     196 | 0x227C      |        8828 |
-|     197 | 0x227D      |        8829 |
-|     198 | 0x227E      |        8830 |
-|     199 | 0x227F      |        8831 |
-|     200 | 0x2280      |        8832 |
-|     201 | 0x2281      |        8833 |
-|     202 | 0x2282      |        8834 |
-|     203 | 0x2283      |        8835 |
-|     204 | 0x2284      |        8836 |
-|     205 | 0x2285      |        8837 |
-|     206 | 0x2286      |        8838 |
-|     207 | 0x2287      |        8839 |
-|     208 | 0x2288      |        8840 |
-|     209 | 0x2289      |        8841 |
-|     210 | 0x228A      |        8842 |
-|     211 | 0x228B      |        8843 |
-|     212 | 0x228C      |        8844 |
-|     213 | 0x228D      |        8845 |
-|     214 | 0x228E      |        8846 |
-|     215 | 0x228F      |        8847 |
-|     216 | 0x2290      |        8848 |
+|     185 | 0x2277      |        8823 |
+|     186 | 0x2278      |        8824 |
+|     187 | 0x2279      |        8825 |
+|     188 | 0x227A      |        8826 |
+|     189 | 0x2200      |        8704 |
+|     190 | 0x2201      |        8705 |
+|     191 | 0x2202      |        8706 |
+|     192 | 0x2203      |        8707 |
+|     193 | 0x227B      |        8827 |
+|     194 | 0x2211      |        8721 |
+|     195 | 0x227C      |        8828 |
+|     196 | 0x227D      |        8829 |
+|     197 | 0x227E      |        8830 |
+|     198 | 0x227F      |        8831 |
+|     199 | 0x2280      |        8832 |
+|     200 | 0x2281      |        8833 |
+|     201 | 0x2282      |        8834 |
+|     202 | 0x2283      |        8835 |
+|     203 | 0x2284      |        8836 |
+|     204 | 0x2285      |        8837 |
+|     205 | 0x2286      |        8838 |
+|     206 | 0x2287      |        8839 |
+|     207 | 0x2288      |        8840 |
+|     208 | 0x2289      |        8841 |
+|     209 | 0x228A      |        8842 |
+|     210 | 0x228B      |        8843 |
+|     211 | 0x228C      |        8844 |
+|     212 | 0x228D      |        8845 |
+|     213 | 0x228E      |        8846 |
+|     214 | 0x228F      |        8847 |
+|     215 | 0x2290      |        8848 |
+|     216 | 0x2291      |        8849 |
 |     217 | 0x00FF      |         255 |
 |     218 | 0x001F      |          31 |
 |     219 | 0x0100      |         256 |
-|     220 | 0x21F7      |        8695 |
-|     221 | 0x21F8      |        8696 |
-|     222 | 0x21F9      |        8697 |
-|     223 | 0x21FA      |        8698 |
+|     220 | 0x21F8      |        8696 |
+|     221 | 0x21F9      |        8697 |
+|     222 | 0x21FA      |        8698 |
+|     223 | 0x21FB      |        8699 |
 |     224 | 0x0801      |        2049 |
-|     225 | 0x22AB      |        8875 |
-|     226 | 0x22AC      |        8876 |
-|     227 | 0x22AD      |        8877 |
+|     225 | 0x22AC      |        8876 |
+|     226 | 0x22AD      |        8877 |
+|     227 | 0x22AE      |        8878 |
 |     228 | 0x0802      |        2050 |
-|     229 | 0x21FD      |        8701 |
-|     230 | 0x21FE      |        8702 |
-|     231 | 0x2203      |        8707 |
-|     232 | 0x2204      |        8708 |
-|     233 | 0x2205      |        8709 |
-|     234 | 0x2206      |        8710 |
-|     235 | 0x2207      |        8711 |
-|     236 | 0x2208      |        8712 |
-|     237 | 0x2209      |        8713 |
-|     238 | 0x220A      |        8714 |
-|     239 | 0x220B      |        8715 |
-|     240 | 0x220C      |        8716 |
-|     241 | 0x220D      |        8717 |
-|     242 | 0x220E      |        8718 |
-|     243 | 0x220F      |        8719 |
-|     244 | 0x2211      |        8721 |
-|     245 | 0x2212      |        8722 |
-|     246 | 0x2213      |        8723 |
-|     247 | 0x2215      |        8725 |
-|     248 | 0x2214      |        8724 |
+|     229 | 0x21FE      |        8702 |
+|     230 | 0x21FF      |        8703 |
+|     231 | 0x2204      |        8708 |
+|     232 | 0x2205      |        8709 |
+|     233 | 0x2206      |        8710 |
+|     234 | 0x2207      |        8711 |
+|     235 | 0x2208      |        8712 |
+|     236 | 0x2209      |        8713 |
+|     237 | 0x220A      |        8714 |
+|     238 | 0x220B      |        8715 |
+|     239 | 0x220C      |        8716 |
+|     240 | 0x220D      |        8717 |
+|     241 | 0x220E      |        8718 |
+|     242 | 0x220F      |        8719 |
+|     243 | 0x2210      |        8720 |
+|     244 | 0x2212      |        8722 |
+|     245 | 0x2213      |        8723 |
+|     246 | 0x2214      |        8724 |
+|     247 | 0x2216      |        8726 |
+|     248 | 0x2215      |        8725 |
 |     249 | 0x0064      |         100 |
-|     250 | 0x22C5      |        8901 |
+|     250 | 0x22C6      |        8902 |
 |     251 | 0x0806      |        2054 |
 |     252 | 0x0807      |        2055 |
-|     253 | 0x22AE      |        8878 |
+|     253 | 0x22AF      |        8879 |
 |     254 | 0x05A4      |        1444 |
-|     255 | 0x22AF      |        8879 |
-|     256 | 0x22B0      |        8880 |
-|     257 | 0x22B1      |        8881 |
-|     258 | 0x22B3      |        8883 |
-|     259 | 0x22B4      |        8884 |
-|     260 | 0x22B5      |        8885 |
-|     261 | 0x22B6      |        8886 |
-|     262 | 0x22B7      |        8887 |
-|     263 | 0x22B9      |        8889 |
-|     264 | 0x22BA      |        8890 |
-|     265 | 0x22BB      |        8891 |
-|     266 | 0x22BC      |        8892 |
-|     267 | 0x22BE      |        8894 |
-|     268 | 0x22BF      |        8895 |
-|     269 | 0x22C0      |        8896 |
-|     270 | 0x22C2      |        8898 |
-|     271 | 0x2216      |        8726 |
-|     272 | 0x2217      |        8727 |
-|     273 | 0x2218      |        8728 |
+|     255 | 0x22B0      |        8880 |
+|     256 | 0x22B1      |        8881 |
+|     257 | 0x22B2      |        8882 |
+|     258 | 0x22B4      |        8884 |
+|     259 | 0x22B5      |        8885 |
+|     260 | 0x22B6      |        8886 |
+|     261 | 0x22B7      |        8887 |
+|     262 | 0x22B8      |        8888 |
+|     263 | 0x22BA      |        8890 |
+|     264 | 0x22BB      |        8891 |
+|     265 | 0x22BC      |        8892 |
+|     266 | 0x22BD      |        8893 |
+|     267 | 0x22BF      |        8895 |
+|     268 | 0x22C0      |        8896 |
+|     269 | 0x22C1      |        8897 |
+|     270 | 0x22C3      |        8899 |
+|     271 | 0x2217      |        8727 |
+|     272 | 0x2218      |        8728 |
+|     273 | 0x2219      |        8729 |
 |     274 | 0x003C      |          60 |
-|     275 | 0x2219      |        8729 |
-|     276 | 0x221C      |        8732 |
+|     275 | 0x221A      |        8730 |
+|     276 | 0x221D      |        8733 |
 |     277 | 0x0BB8      |        3000 |
 |     278 | 0x0D6C      |        3436 |
 |     279 | 0x06EE      |        1774 |
@@ -322,23 +322,23 @@
 |     287 | 0x50910     |      330000 |
 |     288 | 0x0615      |        1557 |
 |     289 | 0x0616      |        1558 |
-|     290 | 0x221D      |        8733 |
-|     291 | 0x221E      |        8734 |
+|     290 | 0x221E      |        8734 |
+|     291 | 0x221F      |        8735 |
 |     292 | 0x0063      |          99 |
-|     293 | 0x22C6      |        8902 |
-|     294 | 0x22C7      |        8903 |
-|     295 | 0x2225      |        8741 |
-|     296 | 0x2226      |        8742 |
-|     297 | 0x2227      |        8743 |
-|     298 | 0x2228      |        8744 |
-|     299 | 0x2229      |        8745 |
-|     300 | 0x222A      |        8746 |
-|     301 | 0x222B      |        8747 |
-|     302 | 0x222C      |        8748 |
-|     303 | 0x221F      |        8735 |
-|     304 | 0x2220      |        8736 |
+|     293 | 0x22C7      |        8903 |
+|     294 | 0x22C8      |        8904 |
+|     295 | 0x2226      |        8742 |
+|     296 | 0x2227      |        8743 |
+|     297 | 0x2228      |        8744 |
+|     298 | 0x2229      |        8745 |
+|     299 | 0x222A      |        8746 |
+|     300 | 0x222B      |        8747 |
+|     301 | 0x222C      |        8748 |
+|     302 | 0x222D      |        8749 |
+|     303 | 0x2220      |        8736 |
+|     304 | 0x2221      |        8737 |
 |     305 | 0x0016      |          22 |
-|     306 | 0x2221      |        8737 |
+|     306 | 0x2222      |        8738 |
 |     307 | 0x016E      |         366 |
 |     308 | 0x016F      |         367 |
 |     309 | 0x0170      |         368 |
@@ -359,34 +359,34 @@
 
 ## String References
 
-- **8694**: What will you do? [Nothing for now./Ask a bunch of questions./Participate in Voidwatch Ops./Request debriefing./Request $3./Check voidstone stock./Request reward issuance.]
-- **8700**: You must be at least level $0 to participate in Voidwatch.
-- **8726**: How many would you like? [None./Just one./Fill me up!]
-- **8733**: Exchange for what? (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$3: $18./$3: $20./$3: $22./$3: $24./$3: $26./$3: $28./$3: $30./$3: $ .]
-- **8736**: Proceed? (Required Cruor: $0) [Yes./No.]
-- **8741**: This periapt allows the bearer to infuse an additional atmacite for each one possessed.
-- **8742**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against weapon skills and abilities.
-- **8743**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against magic.
-- **8744**: This periapt enhances the effect granted by a periapt of guidance.
-- **8745**: This periapt enhances the effect granted by a periapt of percipience.
-- **8746**: A bewitching light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if beckoning its bearer to come hither.
-- **8747**: A tantalizing light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if appealing to its bearer's most ardent desires.
-- **8748**: A crazed light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if seeking to breach the bearer's last bastion of sanity.
-- **8749**: What will you ask about? [Nothing./The Voidwalker threat./How I can do my part./The Voidwatch./Voidwatchers./Ascent items./Riftworn pyxides./5./Stratum abyssite./Planar rifts./Cruor./Abyssite./Voidstone consumption.]
-- **8846**: Select where voidstones will be consumed from.
-- **8847**: Set to which? [Key items./Stock.]
-- **8848**: Voidstones will now be taken from [your key items/the stock].
-- **8855**: Voidwatch debug menu. [Exit./Alter participation status./Alter jurisdiction./Alter stratum./Alter abyssite receipt level.]
-- **8856**: $Q%AI$P15O$X
-- **8857**: Jurisdiction menu. [Back to the top./San d'Oria./Bastok./Windurst./Past San d'Oria./Past Bastok./Past Windurst./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Past Batallia./Past Rolanberry./Past Sauromugue./Qufim.]
-- **8858**: Jurisdiction changed to [San d'Oria/Bastok/Windurst/Past San d'Oria/Past Bastok/Past Windurst/Batallia/Rolanberry/Sauromugue/Past Batallia/Past Rolanberry/Past Sauromugue].
-- **8859**: Stratum menu. [Back to the top./Stage 1./Stage 2./Stage 3./Stage 4.]
-- **8860**: Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4].
-- **8861**: Abyssite receipt level. [Back to the top./1st time./2nd time and onwards/Abyssite evolution./2nd abyssite evolution and onwards.]
-- **8880**: What will it be, soldier? [Ready for battle, sir!/I need a briefing, sir!]
-- **8901**: You may also undertake this operation at Beaucedine Glacier.
-- **8902**: How many? (Cruor: $0)
-- **8903**: You may purchase up to $2 at a time.
+- **8695**: What will you do? [Nothing for now./Ask a bunch of questions./Participate in Voidwatch Ops./Request debriefing./Request $3./Check voidstone stock./Request reward issuance.]
+- **8701**: You must be at least level $0 to participate in Voidwatch.
+- **8727**: How many would you like? [None./Just one./Fill me up!]
+- **8734**: Exchange for what? (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$3: $18./$3: $20./$3: $22./$3: $24./$3: $26./$3: $28./$3: $30./$3: $ .]
+- **8737**: Proceed? (Required Cruor: $0) [Yes./No.]
+- **8742**: This periapt allows the bearer to infuse an additional atmacite for each one possessed.
+- **8743**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against weapon skills and abilities.
+- **8744**: This periapt grants the bearer heightened insight into Voidwalker weaknesses against magic.
+- **8745**: This periapt enhances the effect granted by a periapt of guidance.
+- **8746**: This periapt enhances the effect granted by a periapt of percipience.
+- **8747**: A bewitching light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if beckoning its bearer to come hither.
+- **8748**: A tantalizing light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if appealing to its bearer's most ardent desires.
+- **8749**: A crazed light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if seeking to breach the bearer's last bastion of sanity.
+- **8750**: What will you ask about? [Nothing./The Voidwalker threat./How I can do my part./The Voidwatch./Voidwatchers./Ascent items./Riftworn pyxides./5./Stratum abyssite./Planar rifts./Cruor./Abyssite./Voidstone consumption.]
+- **8847**: Select where voidstones will be consumed from.
+- **8848**: Set to which? [Key items./Stock.]
+- **8849**: Voidstones will now be taken from [your key items/the stock].
+- **8856**: Voidwatch debug menu. [Exit./Alter participation status./Alter jurisdiction./Alter stratum./Alter abyssite receipt level.]
+- **8857**: $Q%AI$P15O$X
+- **8858**: Jurisdiction menu. [Back to the top./San d'Oria./Bastok./Windurst./Past San d'Oria./Past Bastok./Past Windurst./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Past Batallia./Past Rolanberry./Past Sauromugue./Qufim.]
+- **8859**: Jurisdiction changed to [San d'Oria/Bastok/Windurst/Past San d'Oria/Past Bastok/Past Windurst/Batallia/Rolanberry/Sauromugue/Past Batallia/Past Rolanberry/Past Sauromugue].
+- **8860**: Stratum menu. [Back to the top./Stage 1./Stage 2./Stage 3./Stage 4.]
+- **8861**: Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4].
+- **8862**: Abyssite receipt level. [Back to the top./1st time./2nd time and onwards/Abyssite evolution./2nd abyssite evolution and onwards.]
+- **8881**: What will it be, soldier? [Ready for battle, sir!/I need a briefing, sir!]
+- **8902**: You may also undertake this operation at Beaucedine Glacier.
+- **8903**: How many? (Cruor: $0)
+- **8904**: You may purchase up to $2 at a time.
 
 ## Events
 
@@ -526,33 +526,33 @@ SUBROUTINE_00B1:
 
 SUBROUTINE_017E:
  51: 0x017E [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 52: 0x0181 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8863*]:
+ 52: 0x0181 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8864*]:
     → "At attention, soldier! I've received an urgent alarum calling our best men to arms, and guess whose name is listed front and center? You're to report to Jeuno for further orders immediately."
  53: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0189 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  55: 0x0190 [0x02] IF !(ExtData[1]->WorkLocal[0] < 4*) GOTO 0x01D4
  56: 0x0198 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
- 57: 0x019F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8865*]:
+ 57: 0x019F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8866*]:
     → "Do we have a misunderstanding here, soldier? I said, "immediately." You'll get your briefing at the palace, not from me."
  58: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x01A7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 15*) GOTO 0x01BA
- 60: 0x01AF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8868*]:
+ 60: 0x01AF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8869*]:
     → "That said, in these times of war, entry to the Grand Duchy is limited to authorized personnel. Show your alarum at the bulwark gate just over there and one of our men will see you through."
  61: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01B7 [0x01] GOTO 0x01C2
- 63: 0x01BA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8866*]:
+ 63: 0x01BA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8867*]:
     → "That said, in these times of war, entry to the Grand Duchy is limited to authorized personnel. Show your alarum at the bulwark gate in Sauromugue and one of our men will see you through."
  64: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01C2:
  65: 0x01C2 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0B)
- 66: 0x01C9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8867*]:
+ 66: 0x01C9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8868*]:
     → "Time is short, so pick up those legs and get a move on, soldier!"
  67: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x01D1 [0x01] GOTO 0x01E8
  69: 0x01D4 [0x6E] Voidwatch Officer (ID: 17637442/0x010D2042) uses emote 7*
  70: 0x01DB [0x99] Wait for Voidwatch Officer (ID: 17637442/0x010D2042) animation to complete
- 71: 0x01E0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8864*]:
+ 71: 0x01E0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8865*]:
     → "Do we have a misunderstanding here, soldier? I said, "immediately." You'll get your briefing at the palace, not from me. Pick up those legs and get a move on!"
  72: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -778,112 +778,112 @@ SUBROUTINE_03D0:
 
 SUBROUTINE_0561:
  93: 0x0561 [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 94: 0x0564 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8869*]:
+ 94: 0x0564 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
     → "Excellent work, <Player>. You serve the Voidwatch well. Your presence has been requested in the Grand Duchy once more. Make your way there with all speed."
  95: 0x056B [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x056C [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  97: 0x0573 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
  98: 0x057A [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0595
- 99: 0x0582 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+ 99: 0x0582 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 100: 0x0589 [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x058A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+101: 0x058A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 102: 0x0591 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0592 [0x01] GOTO 0x06D9
 104: 0x0595 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x05B0
-105: 0x059D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+105: 0x059D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 106: 0x05A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x05A5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+107: 0x05A5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 108: 0x05AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x05AD [0x01] GOTO 0x06D9
 110: 0x05B0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x05CB
-111: 0x05B8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+111: 0x05B8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 112: 0x05BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x05C0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+113: 0x05C0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 114: 0x05C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x05C8 [0x01] GOTO 0x06D9
 116: 0x05CB [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x05E6
-117: 0x05D3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+117: 0x05D3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 118: 0x05DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x05DB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+119: 0x05DB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 120: 0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x05E3 [0x01] GOTO 0x06D9
 122: 0x05E6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0601
-123: 0x05EE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+123: 0x05EE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 124: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x05F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+125: 0x05F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 126: 0x05FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x05FE [0x01] GOTO 0x06D9
 128: 0x0601 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x061C
-129: 0x0609 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+129: 0x0609 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 130: 0x0610 [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x0611 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+131: 0x0611 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 132: 0x0618 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0619 [0x01] GOTO 0x06D9
 134: 0x061C [0x02] IF !(ExtData[1]->WorkLocal[0] == 10*) GOTO 0x0637
-135: 0x0624 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+135: 0x0624 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 136: 0x062B [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x062C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+137: 0x062C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 138: 0x0633 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0634 [0x01] GOTO 0x06D9
 140: 0x0637 [0x02] IF !(ExtData[1]->WorkLocal[0] == 11*) GOTO 0x0652
-141: 0x063F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+141: 0x063F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 142: 0x0646 [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x0647 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+143: 0x0647 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 144: 0x064E [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x064F [0x01] GOTO 0x06D9
 146: 0x0652 [0x02] IF !(ExtData[1]->WorkLocal[0] == 12*) GOTO 0x066D
-147: 0x065A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+147: 0x065A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 148: 0x0661 [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x0662 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+149: 0x0662 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 150: 0x0669 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x066A [0x01] GOTO 0x06D9
 152: 0x066D [0x02] IF !(ExtData[1]->WorkLocal[0] == 13*) GOTO 0x0688
-153: 0x0675 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+153: 0x0675 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 154: 0x067C [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x067D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+155: 0x067D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 156: 0x0684 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0685 [0x01] GOTO 0x06D9
 158: 0x0688 [0x02] IF !(ExtData[1]->WorkLocal[0] == 14*) GOTO 0x06A3
-159: 0x0690 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+159: 0x0690 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 160: 0x0697 [0x23] WAIT_FOR_DIALOG_INTERACTION
-161: 0x0698 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+161: 0x0698 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 162: 0x069F [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x06A0 [0x01] GOTO 0x06D9
 164: 0x06A3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 15*) GOTO 0x06BE
-165: 0x06AB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
+165: 0x06AB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8875*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate over there and one of our men will see you through the checkpoint."
 166: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x06B3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+167: 0x06B3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 168: 0x06BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x06BB [0x01] GOTO 0x06D9
 170: 0x06BE [0x02] IF !(ExtData[1]->WorkLocal[0] == 16*) GOTO 0x06D9
-171: 0x06C6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+171: 0x06C6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 172: 0x06CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x06CE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+173: 0x06CE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 174: 0x06D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x06D6 [0x01] GOTO 0x06D9
@@ -1118,112 +1118,112 @@ SUBROUTINE_0931:
 
 SUBROUTINE_0AC2:
  93: 0x0AC2 [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 94: 0x0AC5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8869*]:
+ 94: 0x0AC5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
     → "Excellent work, <Player>. You serve the Voidwatch well. Your presence has been requested in the Grand Duchy once more. Make your way there with all speed."
  95: 0x0ACC [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0ACD [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  97: 0x0AD4 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
  98: 0x0ADB [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0AF6
- 99: 0x0AE3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+ 99: 0x0AE3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 100: 0x0AEA [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x0AEB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+101: 0x0AEB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 102: 0x0AF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0AF3 [0x01] GOTO 0x0C3A
 104: 0x0AF6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0B11
-105: 0x0AFE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+105: 0x0AFE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 106: 0x0B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x0B06 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+107: 0x0B06 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 108: 0x0B0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0B0E [0x01] GOTO 0x0C3A
 110: 0x0B11 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0B2C
-111: 0x0B19 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+111: 0x0B19 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 112: 0x0B20 [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x0B21 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+113: 0x0B21 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 114: 0x0B28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x0B29 [0x01] GOTO 0x0C3A
 116: 0x0B2C [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0B47
-117: 0x0B34 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+117: 0x0B34 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 118: 0x0B3B [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x0B3C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+119: 0x0B3C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 120: 0x0B43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x0B44 [0x01] GOTO 0x0C3A
 122: 0x0B47 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0B62
-123: 0x0B4F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+123: 0x0B4F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 124: 0x0B56 [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x0B57 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+125: 0x0B57 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 126: 0x0B5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0B5F [0x01] GOTO 0x0C3A
 128: 0x0B62 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0B7D
-129: 0x0B6A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+129: 0x0B6A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 130: 0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x0B72 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+131: 0x0B72 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 132: 0x0B79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0B7A [0x01] GOTO 0x0C3A
 134: 0x0B7D [0x02] IF !(ExtData[1]->WorkLocal[0] == 10*) GOTO 0x0B98
-135: 0x0B85 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+135: 0x0B85 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 136: 0x0B8C [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x0B8D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+137: 0x0B8D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 138: 0x0B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0B95 [0x01] GOTO 0x0C3A
 140: 0x0B98 [0x02] IF !(ExtData[1]->WorkLocal[0] == 11*) GOTO 0x0BB3
-141: 0x0BA0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+141: 0x0BA0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 142: 0x0BA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x0BA8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+143: 0x0BA8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 144: 0x0BAF [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0BB0 [0x01] GOTO 0x0C3A
 146: 0x0BB3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 12*) GOTO 0x0BCE
-147: 0x0BBB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+147: 0x0BBB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 148: 0x0BC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x0BC3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+149: 0x0BC3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 150: 0x0BCA [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0BCB [0x01] GOTO 0x0C3A
 152: 0x0BCE [0x02] IF !(ExtData[1]->WorkLocal[0] == 13*) GOTO 0x0BE9
-153: 0x0BD6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+153: 0x0BD6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 154: 0x0BDD [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x0BDE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+155: 0x0BDE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 156: 0x0BE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0BE6 [0x01] GOTO 0x0C3A
 158: 0x0BE9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 14*) GOTO 0x0C04
-159: 0x0BF1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+159: 0x0BF1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 160: 0x0BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-161: 0x0BF9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+161: 0x0BF9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 162: 0x0C00 [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0C01 [0x01] GOTO 0x0C3A
 164: 0x0C04 [0x02] IF !(ExtData[1]->WorkLocal[0] == 15*) GOTO 0x0C1F
-165: 0x0C0C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
+165: 0x0C0C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8875*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate over there and one of our men will see you through the checkpoint."
 166: 0x0C13 [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x0C14 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+167: 0x0C14 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 168: 0x0C1B [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0C1C [0x01] GOTO 0x0C3A
 170: 0x0C1F [0x02] IF !(ExtData[1]->WorkLocal[0] == 16*) GOTO 0x0C3A
-171: 0x0C27 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+171: 0x0C27 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 172: 0x0C2E [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x0C2F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+173: 0x0C2F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 174: 0x0C36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x0C37 [0x01] GOTO 0x0C3A
@@ -1376,15 +1376,15 @@ SUBROUTINE_0E02:
 
 SUBROUTINE_0EEB:
  57: 0x0EEB [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 58: 0x0EEE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8899*]:
+ 58: 0x0EEE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8900*]:
     → "Hold it right there, soldier! A summons just came in from the Grand Duchy, and it's got your name on it. The envoy said it's an urgent matter, so I suggest you get moving."
  59: 0x0EF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0EF6 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  61: 0x0EFD [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
- 62: 0x0F04 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+ 62: 0x0F04 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
  63: 0x0F0B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0F0C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+ 64: 0x0F0C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
  65: 0x0F13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0F14 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0B)
@@ -1528,15 +1528,15 @@ SUBROUTINE_1082:
 
 SUBROUTINE_116B:
  57: 0x116B [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 58: 0x116E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8869*]:
+ 58: 0x116E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
     → "Excellent work, <Player>. You serve the Voidwatch well. Your presence has been requested in the Grand Duchy once more. Make your way there with all speed."
  59: 0x1175 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x1176 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  61: 0x117D [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
- 62: 0x1184 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+ 62: 0x1184 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
  63: 0x118B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x118C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+ 64: 0x118C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
  65: 0x1193 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x1194 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0B)
@@ -1672,23 +1672,23 @@ SUBROUTINE_12EA:
 
 SUBROUTINE_13B7:
  51: 0x13B7 [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 52: 0x13BA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8900*]:
+ 52: 0x13BA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8901*]:
     → "We've been looking for you, soldier. I've got a summons from the Grand Duchy here, and just look at the name on it: <Player>. Our messenger said it's an urgent matter, so I suggest you ready yourself and depart immediately."
  53: 0x13C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x13C2 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  55: 0x13C9 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
  56: 0x13D0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 15*) GOTO 0x13EB
- 57: 0x13D8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
+ 57: 0x13D8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8875*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate over there and one of our men will see you through the checkpoint."
  58: 0x13DF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x13E0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+ 59: 0x13E0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
  60: 0x13E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x13E8 [0x01] GOTO 0x13FB
- 62: 0x13EB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+ 62: 0x13EB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
  63: 0x13F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x13F3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+ 64: 0x13F3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
  65: 0x13FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1824,23 +1824,23 @@ SUBROUTINE_1542:
 
 SUBROUTINE_160F:
  51: 0x160F [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 52: 0x1612 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8869*]:
+ 52: 0x1612 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
     → "Excellent work, <Player>. You serve the Voidwatch well. Your presence has been requested in the Grand Duchy once more. Make your way there with all speed."
  53: 0x1619 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x161A [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  55: 0x1621 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
  56: 0x1628 [0x02] IF !(ExtData[1]->WorkLocal[0] == 15*) GOTO 0x1643
- 57: 0x1630 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
+ 57: 0x1630 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8875*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate over there and one of our men will see you through the checkpoint."
  58: 0x1637 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x1638 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+ 59: 0x1638 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
  60: 0x163F [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x1640 [0x01] GOTO 0x1653
- 62: 0x1643 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+ 62: 0x1643 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
  63: 0x164A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x164B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+ 64: 0x164B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
  65: 0x1652 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2108,112 +2108,112 @@ SUBROUTINE_1842:
 
 SUBROUTINE_19D3:
  93: 0x19D3 [0x1A] CALL_SUBROUTINE(address=0x1C8D)
- 94: 0x19D6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8869*]:
+ 94: 0x19D6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
     → "Excellent work, <Player>. You serve the Voidwatch well. Your presence has been requested in the Grand Duchy once more. Make your way there with all speed."
  95: 0x19DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x19DE [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0C)
  97: 0x19E5 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Voidwatch Officer (ID: 17637442/0x010D2042), tag_num=0x0A)
  98: 0x19EC [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x1A07
- 99: 0x19F4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+ 99: 0x19F4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 100: 0x19FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x19FC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+101: 0x19FC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 102: 0x1A03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x1A04 [0x01] GOTO 0x1B4B
 104: 0x1A07 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x1A22
-105: 0x1A0F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+105: 0x1A0F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 106: 0x1A16 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x1A17 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+107: 0x1A17 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 108: 0x1A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x1A1F [0x01] GOTO 0x1B4B
 110: 0x1A22 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x1A3D
-111: 0x1A2A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+111: 0x1A2A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 112: 0x1A31 [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x1A32 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+113: 0x1A32 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 114: 0x1A39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x1A3A [0x01] GOTO 0x1B4B
 116: 0x1A3D [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x1A58
-117: 0x1A45 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+117: 0x1A45 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 118: 0x1A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x1A4D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+119: 0x1A4D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 120: 0x1A54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x1A55 [0x01] GOTO 0x1B4B
 122: 0x1A58 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x1A73
-123: 0x1A60 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+123: 0x1A60 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 124: 0x1A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x1A68 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+125: 0x1A68 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 126: 0x1A6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x1A70 [0x01] GOTO 0x1B4B
 128: 0x1A73 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x1A8E
-129: 0x1A7B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+129: 0x1A7B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 130: 0x1A82 [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x1A83 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+131: 0x1A83 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 132: 0x1A8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x1A8B [0x01] GOTO 0x1B4B
 134: 0x1A8E [0x02] IF !(ExtData[1]->WorkLocal[0] == 10*) GOTO 0x1AA9
-135: 0x1A96 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+135: 0x1A96 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 136: 0x1A9D [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x1A9E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+137: 0x1A9E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 138: 0x1AA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x1AA6 [0x01] GOTO 0x1B4B
 140: 0x1AA9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 11*) GOTO 0x1AC4
-141: 0x1AB1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+141: 0x1AB1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 142: 0x1AB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x1AB9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+143: 0x1AB9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 144: 0x1AC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x1AC1 [0x01] GOTO 0x1B4B
 146: 0x1AC4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 12*) GOTO 0x1ADF
-147: 0x1ACC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+147: 0x1ACC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 148: 0x1AD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x1AD4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+149: 0x1AD4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 150: 0x1ADB [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x1ADC [0x01] GOTO 0x1B4B
 152: 0x1ADF [0x02] IF !(ExtData[1]->WorkLocal[0] == 13*) GOTO 0x1AFA
-153: 0x1AE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+153: 0x1AE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 154: 0x1AEE [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x1AEF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+155: 0x1AEF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 156: 0x1AF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x1AF7 [0x01] GOTO 0x1B4B
 158: 0x1AFA [0x02] IF !(ExtData[1]->WorkLocal[0] == 14*) GOTO 0x1B15
-159: 0x1B02 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
+159: 0x1B02 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate at Sauromugue and one of our men will see you through the checkpoint."
 160: 0x1B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
-161: 0x1B0A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+161: 0x1B0A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 162: 0x1B11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x1B12 [0x01] GOTO 0x1B4B
 164: 0x1B15 [0x02] IF !(ExtData[1]->WorkLocal[0] == 15*) GOTO 0x1B30
-165: 0x1B1D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
+165: 0x1B1D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8875*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace. Show your alarum at the bulwark gate over there and one of our men will see you through the checkpoint."
 166: 0x1B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-167: 0x1B25 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8873*]:
+167: 0x1B25 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8874*]:
     → "That is all. You're dismissed, soldier!"
 168: 0x1B2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x1B2D [0x01] GOTO 0x1B4B
 170: 0x1B30 [0x02] IF !(ExtData[1]->WorkLocal[0] == 16*) GOTO 0x1B4B
-171: 0x1B38 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8870*]:
+171: 0x1B38 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
     → "As before, a full briefing will be conducted upon your arrival at the palace."
 172: 0x1B3F [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x1B40 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8871*]:
+173: 0x1B40 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8872*]:
     → "That is all. You're dismissed, soldier!"
 174: 0x1B47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x1B48 [0x01] GOTO 0x1B4B
@@ -3131,7 +3131,7 @@ SUBROUTINE_1CAE:
  36: 0x1F90 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x223C
  37: 0x1F98 [0x05] ExtData[1]->WorkLocal[20] = 1
  38: 0x1F9B [0x02] IF !(ExtData[1]->WorkLocal[20] <= 0*) GOTO 0x223C
- 39: 0x1FA3 [0x24] CREATE_DIALOG(message_id=8855*, default_option=0*, option_flags=0*)
+ 39: 0x1FA3 [0x24] CREATE_DIALOG(message_id=8856*, default_option=0*, option_flags=0*)
     → "Voidwatch debug menu. [Exit./Alter participation status./Alter jurisdiction./Alter stratum./Alter abyssite receipt level.]"
  40: 0x1FAA [0x25] WAIT_DIALOG_SELECT()
  41: 0x1FAB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1FB9
@@ -3146,7 +3146,7 @@ SUBROUTINE_1CAE:
  50: 0x1FDB [0x03] Work_Zone[2] = 1*
 
 SUBROUTINE_1FE0:
- 51: 0x1FE0 [0x48] [System] [8856*]:
+ 51: 0x1FE0 [0x48] [System] [8857*]:
     → "$Q%AI$P15O$X"
  52: 0x1FE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x1FE4 [0x01] GOTO 0x2239
@@ -3155,7 +3155,7 @@ SUBROUTINE_1FE0:
 
 SUBROUTINE_1FF2:
  56: 0x1FF2 [0x02] IF !(ExtData[1]->WorkLocal[21] <= 0*) GOTO 0x2128
- 57: 0x1FFA [0x24] CREATE_DIALOG(message_id=8857*, default_option=0*, option_flags=0*)
+ 57: 0x1FFA [0x24] CREATE_DIALOG(message_id=8858*, default_option=0*, option_flags=0*)
     → "Jurisdiction menu. [Back to the top./San d'Oria./Bastok./Windurst./Past San d'Oria./Past Bastok./Past Windurst./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Past Batallia./Past Rolanberry./Past Sauromugue./Qufim.]"
  58: 0x2001 [0x25] WAIT_DIALOG_SELECT()
  59: 0x2002 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2010
@@ -3215,7 +3215,7 @@ SUBROUTINE_1FF2:
 113: 0x211E [0x01] GOTO 0x2121
 
 SUBROUTINE_2121:
-114: 0x2121 [0x48] [System] [8858*]:
+114: 0x2121 [0x48] [System] [8859*]:
     → "Jurisdiction changed to [San d'Oria/Bastok/Windurst/Past San d'Oria/Past Bastok/Past Windurst/Batallia/Rolanberry/Sauromugue/Past Batallia/Past Rolanberry/Past Sauromugue]."
 115: 0x2124 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x2125 [0x01] GOTO 0x1FF2
@@ -3225,7 +3225,7 @@ SUBROUTINE_2121:
 
 SUBROUTINE_2136:
 120: 0x2136 [0x02] IF !(ExtData[1]->WorkLocal[21] <= 0*) GOTO 0x21AF
-121: 0x213E [0x24] CREATE_DIALOG(message_id=8859*, default_option=0*, option_flags=0*)
+121: 0x213E [0x24] CREATE_DIALOG(message_id=8860*, default_option=0*, option_flags=0*)
     → "Stratum menu. [Back to the top./Stage 1./Stage 2./Stage 3./Stage 4.]"
 122: 0x2145 [0x25] WAIT_DIALOG_SELECT()
 123: 0x2146 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2154
@@ -3249,7 +3249,7 @@ SUBROUTINE_2136:
 141: 0x21A5 [0x01] GOTO 0x21A8
 
 SUBROUTINE_21A8:
-142: 0x21A8 [0x48] [System] [8860*]:
+142: 0x21A8 [0x48] [System] [8861*]:
     → "Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4]."
 143: 0x21AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x21AC [0x01] GOTO 0x2136
@@ -3259,7 +3259,7 @@ SUBROUTINE_21A8:
 
 SUBROUTINE_21BD:
 148: 0x21BD [0x02] IF !(ExtData[1]->WorkLocal[21] <= 0*) GOTO 0x2236
-149: 0x21C5 [0x24] CREATE_DIALOG(message_id=8861*, default_option=0*, option_flags=0*)
+149: 0x21C5 [0x24] CREATE_DIALOG(message_id=8862*, default_option=0*, option_flags=0*)
     → "Abyssite receipt level. [Back to the top./1st time./2nd time and onwards/Abyssite evolution./2nd abyssite evolution and onwards.]"
 150: 0x21CC [0x25] WAIT_DIALOG_SELECT()
 151: 0x21CD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21DB
@@ -3283,7 +3283,7 @@ SUBROUTINE_21BD:
 169: 0x222C [0x01] GOTO 0x222F
 
 SUBROUTINE_222F:
-170: 0x222F [0x48] [System] [8860*]:
+170: 0x222F [0x48] [System] [8861*]:
     → "Stratum changed to [Stage 1/Stage 2/Stage 3/Stage 4]."
 171: 0x2232 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x2233 [0x01] GOTO 0x21BD
@@ -3338,21 +3338,21 @@ SUBROUTINE_230C:
 217: 0x231C [0x03] Work_Zone[2] = 1*
 
 SUBROUTINE_2321:
-218: 0x2321 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8692*]:
+218: 0x2321 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8693*]:
     → "I am a Voidwatch officer dispatched here by the [Grand Duchy of Jeuno/Allied Forces of Altana]. My duty is to recruit able-bodied soldiers to assist in repelling the Voidwalker threat."
 219: 0x2328 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x2329 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x234E
 221: 0x2331 [0x02] IF !(LocalPlayer->JobLevel >= 75*) GOTO 0x234E
-222: 0x2339 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8699*]:
+222: 0x2339 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8700*]:
     → "While your enthusiasm is heartening, the Voidwatch requires men and women of tested steel. Come back again once you have proven your worth."
 223: 0x2340 [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x2341 [0x03] Work_Zone[2] = 75*
-225: 0x2346 [0x48] [System] [8700*]:
+225: 0x2346 [0x48] [System] [8701*]:
     → "You must be at least level $0 to participate in Voidwatch."
 226: 0x2349 [0x1C] WAIT(40* ticks)
 227: 0x234C [0x21] END_EVENT
 228: 0x234D [0x00] END_REQSTACK()
-229: 0x234E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8693*]:
+229: 0x234E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8694*]:
     → "I beseech you, friend. Lend your aid to our cause, lest our fair Vana'diel be engulfed in fire and brimstone."
 230: 0x2355 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x2356 [0x05] ExtData[1]->WorkLocal[14] = 1
@@ -3371,7 +3371,7 @@ SUBROUTINE_2359:
 242: 0x23A4 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=5*, condition_work_offset=1*)
 243: 0x23AB [0x03] Work_Zone[2] = 1539*
 244: 0x23B0 [0x1A] CALL_SUBROUTINE(address=0x3E6B)
-245: 0x23B3 [0x24] CREATE_DIALOG(message_id=8694*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+245: 0x23B3 [0x24] CREATE_DIALOG(message_id=8695*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "What will you do? [Nothing for now./Ask a bunch of questions./Participate in Voidwatch Ops./Request debriefing./Request $3./Check voidstone stock./Request reward issuance.]"
 246: 0x23BA [0x25] WAIT_DIALOG_SELECT()
 247: 0x23BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x23CE
@@ -3386,14 +3386,14 @@ SUBROUTINE_23D9:
 254: 0x23E1 [0x03] Work_Zone[2] = 1539*
 255: 0x23E6 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 256: 0x23E9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-257: 0x23EE [0x24] CREATE_DIALOG(message_id=8749*, default_option=0*, option_flags=0*)
+257: 0x23EE [0x24] CREATE_DIALOG(message_id=8750*, default_option=0*, option_flags=0*)
     → "What will you ask about? [Nothing./The Voidwalker threat./How I can do my part./The Voidwatch./Voidwatchers./Ascent items./Riftworn pyxides./5./Stratum abyssite./Planar rifts./Cruor./Abyssite./Voidstone consumption.]"
 258: 0x23F5 [0x25] WAIT_DIALOG_SELECT()
 259: 0x23F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2404
 260: 0x23FE [0x06] ExtData[1]->WorkLocal[16] = 0
 261: 0x2401 [0x01] GOTO 0x28E6
 262: 0x2404 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x243C
-263: 0x240C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8750*]:
+263: 0x240C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8751*]:
     → ""Voidwalker" is the name given to creatures that roam the realm between worlds."
 264: 0x2413 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x2414 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x2424
@@ -3402,84 +3402,84 @@ SUBROUTINE_23D9:
 268: 0x2424 [0x03] Work_Zone[2] = 1*
 
 SUBROUTINE_2429:
-269: 0x2429 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8751*]:
+269: 0x2429 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8752*]:
     → "Little is known about them at this time, except that they're driven by an insatiable lust for destruction."
 270: 0x2430 [0x23] WAIT_FOR_DIALOG_INTERACTION
-271: 0x2431 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8752*]:
+271: 0x2431 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8753*]:
     → "While reports of Voidwalker encounters vary greatly in content, one thing is certain: the creatures are gaining in strength, a mounting threat that cannot be left unchecked."
 272: 0x2438 [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x2439 [0x01] GOTO 0x28E6
 274: 0x243C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x24B9
 275: 0x2444 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x245F
-276: 0x244C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8753*]:
+276: 0x244C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8754*]:
     → "In our effort to neutralize the Voidwalker menace, the Voidwatch is petitioning adventurers to lend their aid."
 277: 0x2453 [0x23] WAIT_FOR_DIALOG_INTERACTION
-278: 0x2454 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8754*]:
+278: 0x2454 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8755*]:
     → "As the nature of Voidwalker battles renders full-scale military operations unfeasible, we have chosen to stake our success on the mobility and versatility of adventurers."
 279: 0x245B [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x245C [0x01] GOTO 0x246F
-281: 0x245F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8755*]:
+281: 0x245F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8756*]:
     → "In our effort to neutralize the Voidwalker menace, the Voidwatch is petitioning soldiers of the Allied Forces to lend their aid."
 282: 0x2466 [0x23] WAIT_FOR_DIALOG_INTERACTION
-283: 0x2467 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8756*]:
+283: 0x2467 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8757*]:
     → "To be sure, there're those who question the wisdom of thinning our ranks in the face of the Shadow Lord's armies. But I assure you, friend, the Voidwalker threat is no less real."
 284: 0x246E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_246F:
-285: 0x246F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8757*]:
+285: 0x246F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8758*]:
     → "Our scouts regularly bring back intel on locations of suspected Voidwalker presence."
 286: 0x2476 [0x23] WAIT_FOR_DIALOG_INTERACTION
-287: 0x2477 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8758*]:
+287: 0x2477 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8759*]:
     → "Armed with this information, we dispatch strike teams to preemptively neutralize the threat."
 288: 0x247E [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x247F [0x03] Work_Zone[2] = 1539*
-290: 0x2484 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8759*]:
+290: 0x2484 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8760*]:
     → "Ordinarily, Voidwalkers cannot be seen, let alone fought. Only by using the voidstone's power can we force them to feel the sting of our steel."
 291: 0x248B [0x23] WAIT_FOR_DIALOG_INTERACTION
 292: 0x248C [0x03] Work_Zone[2] = 1539*
-293: 0x2491 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8760*]:
+293: 0x2491 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8761*]:
     → "These magicked stones are distributed in regular shipments from our Jeuno-based research team. They're the bare minimum we need to have a fighting chance against the enemy."
 294: 0x2498 [0x23] WAIT_FOR_DIALOG_INTERACTION
-295: 0x2499 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8761*]:
+295: 0x2499 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8762*]:
     → "Voidstones work by realigning your existential spectrum to match that of Voidwalkers, thus rendering the creatures visible to you."
 296: 0x24A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 297: 0x24A1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
-298: 0x24A6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8762*]:
+298: 0x24A6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8763*]:
     → "The stones are highly prized, such is the difficulty of their creation. As such, supplies are limited to $0 stones per person at any given time."
 299: 0x24AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-300: 0x24AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8763*]:
+300: 0x24AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8764*]:
     → "That's provided we have any in stock at all. Much time is required in imbuing them with requisite powers."
 301: 0x24B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x24B6 [0x01] GOTO 0x28E6
 303: 0x24B9 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x251C
-304: 0x24C1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8764*]:
+304: 0x24C1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8765*]:
     → "The Voidwatch is an organization that exists for the sole purpose of protecting the world from extradimensional invaders we call "Voidwalkers.""
 305: 0x24C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-306: 0x24C9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8765*]:
+306: 0x24C9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8766*]:
     → "Recognizing the graveness of this threat, the nations of the Middle Lands joined together in common cause and formed the Voidwatch."
 307: 0x24D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-308: 0x24D1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8766*]:
+308: 0x24D1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8767*]:
     → "Helming the organization is the Grand Duchy of Jeuno, with the remaining three nations contributing resources for its operation."
 309: 0x24D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x24D9 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x2501
 311: 0x24E1 [0x03] Work_Zone[2] = 35*
-312: 0x24E6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8767*]:
+312: 0x24E6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8768*]:
     → "Possession of $6 is a requirement for participating in Voidwatch Ops."
 313: 0x24ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-314: 0x24EE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8768*]:
+314: 0x24EE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8769*]:
     → "It can be earned only through loyal service to your nation, and thus serves as a testimonial for your prowess."
 315: 0x24F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-316: 0x24F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8769*]:
+316: 0x24F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8770*]:
     → "You would do well to obtain one if you haven't already done so."
 317: 0x24FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x24FE [0x01] GOTO 0x2519
-319: 0x2501 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8770*]:
+319: 0x2501 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8771*]:
     → "Affiliation with the Allied Forces of Altana is a requirement for participating in Voidwatch Ops."
 320: 0x2508 [0x23] WAIT_FOR_DIALOG_INTERACTION
-321: 0x2509 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8771*]:
+321: 0x2509 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8772*]:
     → "In other words, you must belong to the armed forces of one of the three nations."
 322: 0x2510 [0x23] WAIT_FOR_DIALOG_INTERACTION
-323: 0x2511 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8772*]:
+323: 0x2511 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8773*]:
     → "The enlistment procedure varies depending on nation. Those wishing to obtain a recommendation letter should pay visit to one of the military encampments surrounding Jeuno."
 324: 0x2518 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3489,297 +3489,297 @@ SUBROUTINE_2519:
 327: 0x2524 [0x03] Work_Zone[2] = 1539*
 328: 0x2529 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 329: 0x252C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-330: 0x2531 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8773*]:
+330: 0x2531 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8774*]:
     → "When you battle a Voidwalker, you must do so as a "Voidwatcher"--a defender of the dimension who has harnessed the powers of the voidstone and stratum abyssite."
 331: 0x2538 [0x23] WAIT_FOR_DIALOG_INTERACTION
-332: 0x2539 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8774*]:
+332: 0x2539 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8775*]:
     → "Bereft of these two objects, Voidwalkers cannot be seen, let alone fought."
 333: 0x2540 [0x23] WAIT_FOR_DIALOG_INTERACTION
-334: 0x2541 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8775*]:
+334: 0x2541 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8776*]:
     → "However, there are a few points all budding Voidwatchers should bear in mind."
 335: 0x2548 [0x23] WAIT_FOR_DIALOG_INTERACTION
-336: 0x2549 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8776*]:
+336: 0x2549 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8777*]:
     → "Most crucial of all, the extradimensional nature of being a Voidwatcher renders you isolated and unable to receive help from the outside world."
 337: 0x2550 [0x23] WAIT_FOR_DIALOG_INTERACTION
-338: 0x2551 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8777*]:
+338: 0x2551 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8778*]:
     → "Scientists attribute this to the dimensional misalignment that occurs. As people are ordinarily unable to see Voidwalkers, so too are they unable to see you."
 339: 0x2558 [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x2559 [0x03] Work_Zone[2] = 1539*
-341: 0x255E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8778*]:
+341: 0x255E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8779*]:
     → "But you needn't concern yourself with the hows and whys of such matters. It would behoove you far more to become familiar with the workings of the "existential spectrum.""
 342: 0x2565 [0x23] WAIT_FOR_DIALOG_INTERACTION
-343: 0x2566 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8779*]:
+343: 0x2566 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8780*]:
     → "You see, each dimension is composed of an existential spectrum to which all things within are aligned. In turn, the spectrum is formed of five lights: blue, red, yellow, green, and white."
 344: 0x256D [0x23] WAIT_FOR_DIALOG_INTERACTION
-345: 0x256E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8780*]:
+345: 0x256E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8781*]:
     → "The alignment of these lights between Voidwalker and Voidwatcher plays an important role in our efforts."
 346: 0x2575 [0x23] WAIT_FOR_DIALOG_INTERACTION
-347: 0x2576 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8781*]:
+347: 0x2576 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8782*]:
     → "To elaborate, the act of rendering a Voidwalker visible is essentially an act of aligning ourselves to its existential spectrum."
 348: 0x257D [0x23] WAIT_FOR_DIALOG_INTERACTION
-349: 0x257E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8782*]:
+349: 0x257E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8783*]:
     → "Now, while Voidwatchers are able to, for all practical purposes, interact with these creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
 350: 0x2585 [0x23] WAIT_FOR_DIALOG_INTERACTION
-351: 0x2586 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8783*]:
+351: 0x2586 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8784*]:
     → "Compensating measures, however, have been developed to allow combatants to more closely attune themselves with their extradimensional foe."
 352: 0x258D [0x23] WAIT_FOR_DIALOG_INTERACTION
-353: 0x258E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8784*]:
+353: 0x258E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8785*]:
     → "One such method involves the use of alignment-enhancing artifacts known as "ascent items," while another entails performing certain actions against the enemy."
 354: 0x2595 [0x23] WAIT_FOR_DIALOG_INTERACTION
-355: 0x2596 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8785*]:
+355: 0x2596 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8786*]:
     → "Both methods aim to manipulate the alignment value of individual lights to various ends."
 356: 0x259D [0x23] WAIT_FOR_DIALOG_INTERACTION
-357: 0x259E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8786*]:
+357: 0x259E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8787*]:
     → "All five lights influence the contents of the treasure chest which appears at the successful end of battle."
 358: 0x25A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-359: 0x25A6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8787*]:
+359: 0x25A6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8788*]:
     → "Our researchers have succeeded in determining what manner of benefits are associated with each light."
 360: 0x25AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-361: 0x25AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8788*]:
+361: 0x25AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8789*]:
     → "For instance, improving blue spectral alignment is known to produce greater quantities of spoils."
 362: 0x25B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-363: 0x25B6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8789*]:
+363: 0x25B6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8790*]:
     → "In contrast, manipulating red spectral alignment reportedly enhances the quality of individual items--potions becoming hi-potions, and so forth."
 364: 0x25BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-365: 0x25BE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8790*]:
+365: 0x25BE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8791*]:
     → "Yellow and green, on the other hand, influence experience gain and cruor yield respectively."
 366: 0x25C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-367: 0x25C6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8791*]:
+367: 0x25C6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8792*]:
     → "If you wish to know more about the curious red substance we call cruor, you need but ask."
 368: 0x25CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-369: 0x25CE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8792*]:
+369: 0x25CE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8793*]:
     → "Lastly, we have white spectral alignment, which is unique even in this company. It has been determined to affect the appearance of transdimensional objects such as atmacite and periapt."
 370: 0x25D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-371: 0x25D6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8793*]:
+371: 0x25D6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8794*]:
     → "Research regarding these artifacts is still ongoing."
 372: 0x25DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-373: 0x25DE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8794*]:
+373: 0x25DE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8795*]:
     → "Lastly, be reassured that there're no known negative effects of manipulating spectral alignment. We unreservedly encourage all Voidwatch operatives to endeavor towards maximum alignment."
 374: 0x25E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 375: 0x25E6 [0x01] GOTO 0x28E6
 376: 0x25E9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x2626
-377: 0x25F1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8795*]:
+377: 0x25F1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8796*]:
     → "Ascent items are unique objects that can be used to manipulate the spectral alignment of corresponding lights in the existential spectrum."
 378: 0x25F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 379: 0x25F9 [0x03] Work_Zone[2] = 3434*
 380: 0x25FE [0x03] Work_Zone[3] = 3435*
-381: 0x2603 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8796*]:
+381: 0x2603 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8797*]:
     → "% and $1 are representative of such items. They're the pride and joy of our Jeuno-based research team, who'd have folk believe they're the greatest inventions since airships."
 382: 0x260A [0x23] WAIT_FOR_DIALOG_INTERACTION
-383: 0x260B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8797*]:
+383: 0x260B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8798*]:
     → "(Just between you and me, though, it is Far Eastern scientists that pioneered the technology they're based upon.)"
 384: 0x2612 [0x23] WAIT_FOR_DIALOG_INTERACTION
-385: 0x2613 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8798*]:
+385: 0x2613 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8799*]:
     → "They're not the only means by which we manipulate spectral alignment, mind you. Similar results can be achieved by performing specific actions against the enemy."
 386: 0x261A [0x23] WAIT_FOR_DIALOG_INTERACTION
-387: 0x261B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8799*]:
+387: 0x261B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8800*]:
     → "Truth be told, much is still shrouded in mystery. What actions will produce the desired effect is something you will have to discover for yourself through trial and error."
 388: 0x2622 [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x2623 [0x01] GOTO 0x28E6
 390: 0x2626 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x267E
-391: 0x262E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8800*]:
+391: 0x262E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8801*]:
     → "Defeating a Voidwalker will cause a mysterious pyxis to emerge at the selfsame planar rift whence the creature was felled."
 392: 0x2635 [0x23] WAIT_FOR_DIALOG_INTERACTION
-393: 0x2636 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8801*]:
+393: 0x2636 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8802*]:
     → "Such riftworn pyxides exhibit a most peculiar characteristic: the content they bear reportedly changes depending on who glimpses within."
 394: 0x263D [0x23] WAIT_FOR_DIALOG_INTERACTION
-395: 0x263E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8802*]:
+395: 0x263E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8803*]:
     → "Our scientists conjecture that this is due to some trick of spectral alignment. As with numerous other mysteries surrounding Voidwalkers, however, I highly doubt they have even an inkling of understanding. But I digress..."
 396: 0x2645 [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x2646 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 398: 0x2649 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-399: 0x264E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8803*]:
+399: 0x264E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8804*]:
     → "Only one combatant need possess a voidstone for all party or alliance members to do battle with a Voidwalker. Of the other squad members only stratum abyssite is required."
 400: 0x2655 [0x23] WAIT_FOR_DIALOG_INTERACTION
 401: 0x2656 [0x03] Work_Zone[2] = 1539*
-402: 0x265B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8804*]:
+402: 0x265B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8805*]:
     → "As always seems to be the case, however, there is a catch. Pyxides have been observed to yield less spoils for combatants without a voidstone of their own."
 403: 0x2662 [0x23] WAIT_FOR_DIALOG_INTERACTION
-404: 0x2663 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8805*]:
+404: 0x2663 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8806*]:
     → "It scarce needs be said, but it would be to your benefit to have both the aforementioned items readied before taking on a Voidwalker."
 405: 0x266A [0x23] WAIT_FOR_DIALOG_INTERACTION
-406: 0x266B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8806*]:
+406: 0x266B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8807*]:
     → "Lastly, a warning: pyxides will eventually vanish if left untouched overlong. Our scientists have put forth the theory of normalizing spatial dissonance, but you needn't concern yourself with their mumbo-jumbo."
 407: 0x2672 [0x23] WAIT_FOR_DIALOG_INTERACTION
-408: 0x2673 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8807*]:
+408: 0x2673 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8808*]:
     → "Just see to it that your hard-earned spoils are claimed in good time, and things will be rosy for all involved."
 409: 0x267A [0x23] WAIT_FOR_DIALOG_INTERACTION
 410: 0x267B [0x01] GOTO 0x28E6
 411: 0x267E [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x2754
 412: 0x2686 [0x03] Work_Zone[2] = 1539*
-413: 0x268B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8808*]:
+413: 0x268B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8809*]:
     → "The $3 is a magicked object produced by the Voidwatch's Jeuno-based research wing."
 414: 0x2692 [0x23] WAIT_FOR_DIALOG_INTERACTION
-415: 0x2693 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8809*]:
+415: 0x2693 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8810*]:
     → "Its innocuous appearance belies the immense power it holds...the power to render Voidwalkers visible to its bearer."
 416: 0x269A [0x23] WAIT_FOR_DIALOG_INTERACTION
-417: 0x269B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8810*]:
+417: 0x269B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8811*]:
     → "The stone achieves this feat by realigning our existential spectrum to that of the creature."
 418: 0x26A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-419: 0x26A3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8811*]:
+419: 0x26A3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8812*]:
     → "I shall explain the process in layman's terms for your benefit. No need to thank me--I merely perform my duty."
 420: 0x26AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-421: 0x26AB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8812*]:
+421: 0x26AB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8813*]:
     → "I want you to visualize two canvases, each the same distance from the other. Yes, as two separate objects are normally wont to be."
 422: 0x26B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-423: 0x26B3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8813*]:
+423: 0x26B3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8814*]:
     → "Imagine you and I standing on one of the canvases--what else does one do with a canvas but stand on it, yes?"
 424: 0x26BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-425: 0x26BB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8814*]:
+425: 0x26BB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8815*]:
     → "Now, imagine Voidwalkers standing on the other canvas, doing whatever it is Voidwalkers do. Destroying things and behaving with utter impropriety, no doubt."
 426: 0x26C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-427: 0x26C3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8815*]:
+427: 0x26C3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8816*]:
     → "Being on two different canvases, it follows that we cannot touch the Voidwalkers, let alone see them. Actually, that doesn't explain why we can't see the Voidwalkers...unless it's a magical canvas they're on that makes all things upon it invisible! Yes, that'll serve!"
 428: 0x26CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 429: 0x26CB [0x03] Work_Zone[2] = 1539*
-430: 0x26D0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8816*]:
+430: 0x26D0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8817*]:
     → "And this brings us full circle back to the voidstone. I want you to think of it as a magical paintbrush that we use to...grapple ourselves over to the Voidwalkers' canvas. Thence the fighting begins."
 431: 0x26D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-432: 0x26D8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8817*]:
+432: 0x26D8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8818*]:
     → "I trust you now have a rudimentary understanding of the process. That's all you need, really. Leave the fractal geometry to the fractal geometrists, I always say."
 433: 0x26DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x26E0 [0x03] Work_Zone[2] = 1539*
-435: 0x26E5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8818*]:
+435: 0x26E5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8819*]:
     → "As long as you remember the canvas and the paintbrush--that's the voidstone--you cannot go astray. Now, to apprise you of more practical matters..."
 436: 0x26EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x26ED [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
-438: 0x26F2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8762*]:
+438: 0x26F2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8763*]:
     → "The stones are highly prized, such is the difficulty of their creation. As such, supplies are limited to $0 stones per person at any given time."
 439: 0x26F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-440: 0x26FA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8763*]:
+440: 0x26FA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8764*]:
     → "That's provided we have any in stock at all. Much time is required in imbuing them with requisite powers."
 441: 0x2701 [0x23] WAIT_FOR_DIALOG_INTERACTION
-442: 0x2702 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8819*]:
+442: 0x2702 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8820*]:
     → "Twenty hours (Earth time) is required to produce a stone and imbue it with the necessary magicks, although word is that this may be shortened as research progresses."
 443: 0x2709 [0x23] WAIT_FOR_DIALOG_INTERACTION
 444: 0x270A [0x1A] CALL_SUBROUTINE(address=0x4D44)
 445: 0x270D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-446: 0x2712 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8820*]:
+446: 0x2712 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8821*]:
     → "Mind you, this isn't the only variety of stone you'll be needing. There exists another: stratum abyssite."
 447: 0x2719 [0x23] WAIT_FOR_DIALOG_INTERACTION
 448: 0x271A [0x03] Work_Zone[2] = 1539*
-449: 0x271F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8821*]:
+449: 0x271F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8822*]:
     → "Whereas the voidstone serves as a power source, acting as a compass for channeling that power is stratum abyssite. Only by using the two in conjunction can we achieve our objectives."
 450: 0x2726 [0x23] WAIT_FOR_DIALOG_INTERACTION
 451: 0x2727 [0x03] Work_Zone[2] = 1539*
 452: 0x272C [0x03] Work_Zone[3] = 3450*
-453: 0x2731 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8822*]:
+453: 0x2731 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8823*]:
     → "Are you familiar with voiddust? Put simply, it is a granular substance from which voidstones may be fabricated."
 454: 0x2738 [0x23] WAIT_FOR_DIALOG_INTERACTION
-455: 0x2739 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8823*]:
+455: 0x2739 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8824*]:
     → "As I explained, significant time is required to produce a voidstone from scratch. Provide me with voiddust, however, and I can fashion a stone for you in short order."
 456: 0x2740 [0x23] WAIT_FOR_DIALOG_INTERACTION
-457: 0x2741 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8824*]:
+457: 0x2741 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8825*]:
     → "The same comrades of ours who stock ascent items may also furnish you with voiddust. Why do they not fabricate the stones themselves, or deliver the dust directly to me? Shush! The Voidwatch works in mysterious ways, and it would behoove you to inquire no further."
 458: 0x2748 [0x23] WAIT_FOR_DIALOG_INTERACTION
-459: 0x2749 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8825*]:
+459: 0x2749 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8826*]:
     → "At any rate, should you manage to obtain any voiddust in your travels, you need only return here and trade it to me. Simple enough, wouldn't you say?"
 460: 0x2750 [0x23] WAIT_FOR_DIALOG_INTERACTION
 461: 0x2751 [0x01] GOTO 0x28E6
 462: 0x2754 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x27B4
-463: 0x275C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8703*]:
+463: 0x275C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8704*]:
     → "Stratum abyssite is needed to do battle with a Voidwalker at one of the many planar rifts that have manifested across the land."
 464: 0x2763 [0x23] WAIT_FOR_DIALOG_INTERACTION
 465: 0x2764 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 466: 0x2767 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-467: 0x276C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8704*]:
+467: 0x276C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8705*]:
     → "You can't simply use one wherever you like, mind you, for each stone is attuned only to rifts found in a certain region, or "jurisdiction.""
 468: 0x2773 [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x2774 [0x02] IF !(ExtData[1]->WorkLocal[6] >= 7*) GOTO 0x2784
-470: 0x277C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8705*]:
+470: 0x277C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8706*]:
     → "Undertaking a Voidwatch operation in a specific jurisdiction requires that you obtain the corresponding stone from the presiding Voidwatch officer."
 471: 0x2783 [0x23] WAIT_FOR_DIALOG_INTERACTION
 472: 0x2784 [0x03] Work_Zone[2] = 1539*
-473: 0x2789 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8706*]:
+473: 0x2789 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8707*]:
     → "While these stones are capable of rendering Voidwalkers visible to their bearers, their powers can only be tapped when used in conjunction with $6."
 474: 0x2790 [0x23] WAIT_FOR_DIALOG_INTERACTION
-475: 0x2791 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8826*]:
+475: 0x2791 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8827*]:
     → "Furthermore, this particular variety of abyssite is known to absorb the energy released by felled Voidwalkers. Not any of the creatures, mind you, but only those drawn to planar rifts."
 476: 0x2798 [0x23] WAIT_FOR_DIALOG_INTERACTION
-477: 0x2799 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8720*]:
+477: 0x2799 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
     → "Absorbing this energy causes the abyssite to evolve, or more accurately, makes it attuned to other planar rifts. This, of course, translates to an expanded sphere of Voidwatch Ops in which the bearer may participate."
 478: 0x27A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-479: 0x27A1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8827*]:
+479: 0x27A1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8828*]:
     → "Based on the evolutionary state of your stratum abyssite, the Voidwatch will direct you to a suitable operation area."
 480: 0x27A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-481: 0x27A9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8828*]:
+481: 0x27A9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8829*]:
     → "If you wish to have your stone analyzed, simply present it to an atma refiner."
 482: 0x27B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 483: 0x27B1 [0x01] GOTO 0x28E6
 484: 0x27B4 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x2821
-485: 0x27BC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8829*]:
+485: 0x27BC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8830*]:
     → "Planar rifts--weak points in the fabric of space--have manifested across the land. The Voidwalker hordes roam beyond, unchecked and ever seeking to enter and plunge Vana'diel into chaos."
 486: 0x27C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 487: 0x27C4 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 488: 0x27C7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-489: 0x27CC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8830*]:
+489: 0x27CC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8831*]:
     → "By invoking the power of stratum abyssite, it is possible to battle the fell creatures as a "Voidwatcher"--a defender of our dimension."
 490: 0x27D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 491: 0x27D4 [0x03] Work_Zone[2] = 1539*
-492: 0x27D9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8831*]:
+492: 0x27D9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8832*]:
     → "Those also possessed of a voidstone will find their Voidwatcher experience greatly enhanced."
 493: 0x27E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 494: 0x27E1 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 495: 0x27E4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-496: 0x27E9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8832*]:
+496: 0x27E9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8833*]:
     → "Alone, however, stratum abyssite serves no purpose; only when used in conjunction with a voidstone can its powers be unleashed."
 497: 0x27F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 498: 0x27F1 [0x03] Work_Zone[2] = 1539*
-499: 0x27F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8833*]:
+499: 0x27F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8834*]:
     → "Hence, at least one member of your squad--be it party or alliance--must possess a voidstone in order to arrange a confrontation with a Voidwalker."
 500: 0x27FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-501: 0x27FE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8834*]:
+501: 0x27FE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8835*]:
     → "Keep this fact in mind at all times."
 502: 0x2805 [0x23] WAIT_FOR_DIALOG_INTERACTION
 503: 0x2806 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x281E
-504: 0x280E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8835*]:
+504: 0x280E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8836*]:
     → "It is not known when the planar rifts first manifested. Some say they've always been there, while others claim recent events have triggered their appearance."
 505: 0x2815 [0x23] WAIT_FOR_DIALOG_INTERACTION
-506: 0x2816 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8836*]:
+506: 0x2816 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8837*]:
     → "If only we could return to the past, perhaps we could shed some light upon this mystery..."
 507: 0x281D [0x23] WAIT_FOR_DIALOG_INTERACTION
 508: 0x281E [0x01] GOTO 0x28E6
 509: 0x2821 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x285C
-510: 0x2829 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8837*]:
+510: 0x2829 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8838*]:
     → "Obtainable by defeating Voidwalkers, cruor is an energy source that takes the form of shiny red granules."
 511: 0x2830 [0x23] WAIT_FOR_DIALOG_INTERACTION
-512: 0x2831 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8838*]:
+512: 0x2831 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8839*]:
     → "While appearing to be some manner of mineral, detailed analysis has revealed that cruor is in fact organic."
 513: 0x2838 [0x23] WAIT_FOR_DIALOG_INTERACTION
-514: 0x2839 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8839*]:
+514: 0x2839 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8840*]:
     → "As far as our researchers can tell, however, it's inanimate like most well-behaved plants. There's no fear of cruor suddenly springing to life in your palms."
 515: 0x2840 [0x23] WAIT_FOR_DIALOG_INTERACTION
-516: 0x2841 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8840*]:
+516: 0x2841 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8841*]:
     → "Being supremely pleasing to the eyes, cruor might have adorned the display cases of many a jewelry shop during peacetime. Unfortunately, the age demands that its unique properties be put to more practical uses."
 517: 0x2848 [0x23] WAIT_FOR_DIALOG_INTERACTION
-518: 0x2849 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8841*]:
+518: 0x2849 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8842*]:
     → "Namely, the infusion and enrichment of atmacite. If you wish to learn about these two processes, you need but ask an atmacite refiner, our experts on such matters."
 519: 0x2850 [0x23] WAIT_FOR_DIALOG_INTERACTION
-520: 0x2851 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8842*]:
+520: 0x2851 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8843*]:
     → "As cruor is a vital aspect of our operations, the Voidwatch is always looking to procure more. Should you have any excess cruor, we would be glad to take it off your hands and offer you useful items in exchange."
 521: 0x2858 [0x23] WAIT_FOR_DIALOG_INTERACTION
 522: 0x2859 [0x01] GOTO 0x28E6
 523: 0x285C [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x287F
-524: 0x2864 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8843*]:
+524: 0x2864 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8844*]:
     → "Abyssite is the name given to a mysterious stone that assumes various forms and colors, the roles they serve likewise manifold in nature."
 525: 0x286B [0x23] WAIT_FOR_DIALOG_INTERACTION
-526: 0x286C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8844*]:
+526: 0x286C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8845*]:
     → "Of the copious varieties thus far discovered, there exist those called "periapt"--lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
 527: 0x2873 [0x23] WAIT_FOR_DIALOG_INTERACTION
-528: 0x2874 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8845*]:
+528: 0x2874 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8846*]:
     → "Defeating a Voidwalker is known to yield periapt on very rare occasions. Serve the Voidwatch earnestly, however, and you will surely have one to call your own."
 529: 0x287B [0x23] WAIT_FOR_DIALOG_INTERACTION
 530: 0x287C [0x01] GOTO 0x28E6
 531: 0x287F [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x28E6
-532: 0x2887 [0x48] [System] [8846*]:
+532: 0x2887 [0x48] [System] [8847*]:
     → "Select where voidstones will be consumed from."
 533: 0x288A [0x23] WAIT_FOR_DIALOG_INTERACTION
-534: 0x288B [0x24] CREATE_DIALOG(message_id=8847*, default_option=0*, option_flags=0*)
+534: 0x288B [0x24] CREATE_DIALOG(message_id=8848*, default_option=0*, option_flags=0*)
     → "Set to which? [Key items./Stock.]"
 535: 0x2892 [0x25] WAIT_DIALOG_SELECT()
 536: 0x2893 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x28B9
 537: 0x289B [0x03] Work_Zone[2] = 0*
-538: 0x28A0 [0x48] [System] [8848*]:
+538: 0x28A0 [0x48] [System] [8849*]:
     → "Voidstones will now be taken from [your key items/the stock]."
 539: 0x28A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 540: 0x28A4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=255*)
@@ -3787,7 +3787,7 @@ SUBROUTINE_2519:
 542: 0x28B6 [0x01] GOTO 0x28DF
 543: 0x28B9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x28DF
 544: 0x28C1 [0x03] Work_Zone[2] = 1*
-545: 0x28C6 [0x48] [System] [8848*]:
+545: 0x28C6 [0x48] [System] [8849*]:
     → "Voidstones will now be taken from [your key items/the stock]."
 546: 0x28C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 547: 0x28CA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=256*)
@@ -3851,58 +3851,58 @@ SUBROUTINE_28E6:
 SUBROUTINE_29E9:
 600: 0x29E9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x2A16
 601: 0x29F1 [0x03] Work_Zone[2] = 35*
-602: 0x29F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8695*]:
+602: 0x29F6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8696*]:
     → "While I commend your enthusiasm, only those who possess $6 may participate in Voidwatch Ops."
 603: 0x29FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 604: 0x29FE [0x03] Work_Zone[2] = 35*
-605: 0x2A03 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8696*]:
+605: 0x2A03 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8697*]:
     → "The $3 is considered proof of one's valor and prowess, and is awarded only to those who have distinguished themselves in the three nations."
 606: 0x2A0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-607: 0x2A0B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8769*]:
+607: 0x2A0B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8770*]:
     → "You would do well to obtain one if you haven't already done so."
 608: 0x2A12 [0x23] WAIT_FOR_DIALOG_INTERACTION
 609: 0x2A13 [0x01] GOTO 0x2AA8
 610: 0x2A16 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x2A4E
 611: 0x2A1E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-612: 0x2A23 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8697*]:
+612: 0x2A23 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8698*]:
     → "Enlisted in [San d'Oria/Bastok/Windurst]'s armed forces, you say? Hmm... There appears to be no record of your service there."
 613: 0x2A2A [0x23] WAIT_FOR_DIALOG_INTERACTION
-614: 0x2A2B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8698*]:
+614: 0x2A2B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8699*]:
     → "I'm sorry, but only those with military affiliation may participate in Voidwatch Ops."
 615: 0x2A32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-616: 0x2A33 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8770*]:
+616: 0x2A33 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8771*]:
     → "Affiliation with the Allied Forces of Altana is a requirement for participating in Voidwatch Ops."
 617: 0x2A3A [0x23] WAIT_FOR_DIALOG_INTERACTION
-618: 0x2A3B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8771*]:
+618: 0x2A3B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8772*]:
     → "In other words, you must belong to the armed forces of one of the three nations."
 619: 0x2A42 [0x23] WAIT_FOR_DIALOG_INTERACTION
-620: 0x2A43 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8772*]:
+620: 0x2A43 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8773*]:
     → "The enlistment procedure varies depending on nation. Those wishing to obtain a recommendation letter should pay visit to one of the military encampments surrounding Jeuno."
 621: 0x2A4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 622: 0x2A4B [0x01] GOTO 0x2AA8
 623: 0x2A4E [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x2A7B
 624: 0x2A56 [0x03] Work_Zone[2] = 2049*
 625: 0x2A5B [0x03] Work_Zone[3] = 0*
-626: 0x2A60 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8875*]:
+626: 0x2A60 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8876*]:
     → "Where's your $3, soldier? I'll need to see one before I can authorize your participation in the [Jeuno/Qufim] Voidwatch jurisdiction."
 627: 0x2A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
-628: 0x2A68 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8876*]:
+628: 0x2A68 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8877*]:
     → "5 are issued only to those brave men and women who have distinguished themselves in regional Voidwatch efforts."
 629: 0x2A6F [0x23] WAIT_FOR_DIALOG_INTERACTION
-630: 0x2A70 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8877*]:
+630: 0x2A70 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8878*]:
     → "Prove yourself capable in the three nations, and you can rest assured that your abilities won't go overlooked. Keep fighting the good fight, soldier!"
 631: 0x2A77 [0x23] WAIT_FOR_DIALOG_INTERACTION
 632: 0x2A78 [0x01] GOTO 0x2AA8
 633: 0x2A7B [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x2AA8
 634: 0x2A83 [0x03] Work_Zone[2] = 2050*
 635: 0x2A88 [0x03] Work_Zone[3] = 1*
-636: 0x2A8D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8875*]:
+636: 0x2A8D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8876*]:
     → "Where's your $3, soldier? I'll need to see one before I can authorize your participation in the [Jeuno/Qufim] Voidwatch jurisdiction."
 637: 0x2A94 [0x23] WAIT_FOR_DIALOG_INTERACTION
-638: 0x2A95 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8876*]:
+638: 0x2A95 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8877*]:
     → "5 are issued only to those brave men and women who have distinguished themselves in regional Voidwatch efforts."
 639: 0x2A9C [0x23] WAIT_FOR_DIALOG_INTERACTION
-640: 0x2A9D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8877*]:
+640: 0x2A9D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8878*]:
     → "Prove yourself capable in the three nations, and you can rest assured that your abilities won't go overlooked. Keep fighting the good fight, soldier!"
 641: 0x2AA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 642: 0x2AA5 [0x01] GOTO 0x2AA8
@@ -3910,25 +3910,25 @@ SUBROUTINE_29E9:
 SUBROUTINE_2AA8:
 643: 0x2AA8 [0x01] GOTO 0x357A
 644: 0x2AAB [0x02] IF !(ExtData[1]->WorkLocal[6] > 6*) GOTO 0x3318
-645: 0x2AB3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8701*]:
+645: 0x2AB3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8702*]:
     → "Have a mind to lend us your aid? Splendid!"
 646: 0x2ABA [0x23] WAIT_FOR_DIALOG_INTERACTION
 647: 0x2ABB [0x03] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[8]
 648: 0x2AC0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x2B12
 649: 0x2AC8 [0x1A] CALL_SUBROUTINE(address=0x3E6B)
 650: 0x2ACB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-651: 0x2AD0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8702*]:
+651: 0x2AD0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8703*]:
     → "I see you've yet to be issued $6. Here, take this and keep it on your person at all times."
 652: 0x2AD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-653: 0x2AD8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8703*]:
+653: 0x2AD8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8704*]:
     → "Stratum abyssite is needed to do battle with a Voidwalker at one of the many planar rifts that have manifested across the land."
 654: 0x2ADF [0x23] WAIT_FOR_DIALOG_INTERACTION
 655: 0x2AE0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-656: 0x2AE5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8704*]:
+656: 0x2AE5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8705*]:
     → "You can't simply use one wherever you like, mind you, for each stone is attuned only to rifts found in a certain region, or "jurisdiction.""
 657: 0x2AEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 658: 0x2AED [0x03] Work_Zone[2] = 1539*
-659: 0x2AF2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8706*]:
+659: 0x2AF2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8707*]:
     → "While these stones are capable of rendering Voidwalkers visible to their bearers, their powers can only be tapped when used in conjunction with $6."
 660: 0x2AF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 661: 0x2AFA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=5*)
@@ -3939,32 +3939,32 @@ SUBROUTINE_2AA8:
 666: 0x2B1A [0x1A] CALL_SUBROUTINE(address=0x429B)
 667: 0x2B1D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 668: 0x2B22 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x2B35
-669: 0x2B2A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8707*]:
+669: 0x2B2A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8708*]:
     → "Operations are presently underway at [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 670: 0x2B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 671: 0x2B32 [0x01] GOTO 0x2B94
 672: 0x2B35 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x2B48
-673: 0x2B3D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8708*]:
+673: 0x2B3D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8709*]:
     → "Operations are presently underway at [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/the Konschtat Highlands/Grauberg]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 674: 0x2B44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 675: 0x2B45 [0x01] GOTO 0x2B94
 676: 0x2B48 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x2B5B
-677: 0x2B50 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8709*]:
+677: 0x2B50 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8710*]:
     → "Operations are presently underway at [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 678: 0x2B57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 679: 0x2B58 [0x01] GOTO 0x2B94
 680: 0x2B5B [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x2B6E
-681: 0x2B63 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8707*]:
+681: 0x2B63 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8708*]:
     → "Operations are presently underway at [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 682: 0x2B6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 683: 0x2B6B [0x01] GOTO 0x2B94
 684: 0x2B6E [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x2B81
-685: 0x2B76 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8708*]:
+685: 0x2B76 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8709*]:
     → "Operations are presently underway at [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/the Konschtat Highlands/Grauberg]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 686: 0x2B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 687: 0x2B7E [0x01] GOTO 0x2B94
 688: 0x2B81 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x2B94
-689: 0x2B89 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8709*]:
+689: 0x2B89 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8710*]:
     → "Operations are presently underway at [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 690: 0x2B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 691: 0x2B91 [0x01] GOTO 0x2B94
@@ -3973,105 +3973,105 @@ SUBROUTINE_2B94:
 692: 0x2B94 [0x03] Work_Zone[2] = 1539*
 693: 0x2B99 [0x1A] CALL_SUBROUTINE(address=0x3E6B)
 694: 0x2B9C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-695: 0x2BA1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8710*]:
+695: 0x2BA1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8711*]:
     → "It would seem some other requirement exists besides the usual $3 and $3."
 696: 0x2BA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 697: 0x2BA9 [0x1A] CALL_SUBROUTINE(address=0x429B)
 698: 0x2BAC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-699: 0x2BB1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8711*]:
+699: 0x2BB1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8712*]:
     → "Rest assured, you will be apprised of this information as soon as we acquire it."
 700: 0x2BB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 701: 0x2BB9 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x2BCC
-702: 0x2BC1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8712*]:
+702: 0x2BC1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8713*]:
     → "At this time, we request your participation in the operation at [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]."
 703: 0x2BC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 704: 0x2BC9 [0x01] GOTO 0x2C2B
 705: 0x2BCC [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x2BDF
-706: 0x2BD4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8713*]:
+706: 0x2BD4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8714*]:
     → "At this time, we request your participation in the operation at [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/the Konschtat Highlands/Grauberg]."
 707: 0x2BDB [0x23] WAIT_FOR_DIALOG_INTERACTION
 708: 0x2BDC [0x01] GOTO 0x2C2B
 709: 0x2BDF [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x2BF2
-710: 0x2BE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8714*]:
+710: 0x2BE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8715*]:
     → "At this time, we request your participation in the operation at [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]."
 711: 0x2BEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 712: 0x2BEF [0x01] GOTO 0x2C2B
 713: 0x2BF2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x2C05
-714: 0x2BFA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8712*]:
+714: 0x2BFA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8713*]:
     → "At this time, we request your participation in the operation at [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]."
 715: 0x2C01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 716: 0x2C02 [0x01] GOTO 0x2C2B
 717: 0x2C05 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x2C18
-718: 0x2C0D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8713*]:
+718: 0x2C0D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8714*]:
     → "At this time, we request your participation in the operation at [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/the Konschtat Highlands/Grauberg]."
 719: 0x2C14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 720: 0x2C15 [0x01] GOTO 0x2C2B
 721: 0x2C18 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x2C2B
-722: 0x2C20 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8714*]:
+722: 0x2C20 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8715*]:
     → "At this time, we request your participation in the operation at [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]."
 723: 0x2C27 [0x23] WAIT_FOR_DIALOG_INTERACTION
 724: 0x2C28 [0x01] GOTO 0x2C2B
 
 SUBROUTINE_2C2B:
-725: 0x2C2B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8715*]:
+725: 0x2C2B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
     → "When you engage in battle with a Voidwalker, you do so as a "Voidwatcher"--a defender of our dimension. The rules of such engagements are unlike any other, and I counsel you to proceed prepared and with all caution."
 726: 0x2C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-727: 0x2C33 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+727: 0x2C33 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 728: 0x2C3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 729: 0x2C3B [0x03] Work_Zone[1] = 1073741824*
 730: 0x2C40 [0x01] GOTO 0x3315
 731: 0x2C43 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x2D02
-732: 0x2C4B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
+732: 0x2C4B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8718*]:
     → "Ah, there's one thing that should be of interest to you."
 733: 0x2C52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 734: 0x2C53 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 735: 0x2C56 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-736: 0x2C5B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8718*]:
+736: 0x2C5B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8719*]:
     → "The $3 you possess--our researchers have discovered a most intriguing property about it."
 737: 0x2C62 [0x23] WAIT_FOR_DIALOG_INTERACTION
-738: 0x2C63 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8719*]:
+738: 0x2C63 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8720*]:
     → "You see, this particular variety of abyssite is known to absorb the energy released by felled Voidwalkers. Not any of the creatures, mind you, but only those drawn to planar rifts."
 739: 0x2C6A [0x23] WAIT_FOR_DIALOG_INTERACTION
-740: 0x2C6B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8720*]:
+740: 0x2C6B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
     → "Absorbing this energy causes the abyssite to evolve, or more accurately, makes it attuned to other planar rifts. This, of course, translates to an expanded sphere of Voidwatch Ops in which the bearer may participate."
 741: 0x2C72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 742: 0x2C73 [0x1A] CALL_SUBROUTINE(address=0x429B)
 743: 0x2C76 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 744: 0x2C7B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 745: 0x2C80 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x2C93
-746: 0x2C88 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+746: 0x2C88 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 747: 0x2C8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 748: 0x2C90 [0x01] GOTO 0x2CF2
 749: 0x2C93 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x2CA6
-750: 0x2C9B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+750: 0x2C9B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 751: 0x2CA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 752: 0x2CA3 [0x01] GOTO 0x2CF2
 753: 0x2CA6 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x2CB9
-754: 0x2CAE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+754: 0x2CAE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 755: 0x2CB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 756: 0x2CB6 [0x01] GOTO 0x2CF2
 757: 0x2CB9 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x2CCC
-758: 0x2CC1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+758: 0x2CC1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 759: 0x2CC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 760: 0x2CC9 [0x01] GOTO 0x2CF2
 761: 0x2CCC [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x2CDF
-762: 0x2CD4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+762: 0x2CD4 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 763: 0x2CDB [0x23] WAIT_FOR_DIALOG_INTERACTION
 764: 0x2CDC [0x01] GOTO 0x2CF2
 765: 0x2CDF [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x2CF2
-766: 0x2CE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+766: 0x2CE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 767: 0x2CEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 768: 0x2CEF [0x01] GOTO 0x2CF2
 
 SUBROUTINE_2CF2:
-769: 0x2CF2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+769: 0x2CF2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 770: 0x2CF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 771: 0x2CFA [0x03] Work_Zone[1] = 1073741824*
@@ -4079,45 +4079,45 @@ SUBROUTINE_2CF2:
 773: 0x2D02 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x2DA9
 774: 0x2D0A [0x1A] CALL_SUBROUTINE(address=0x4D44)
 775: 0x2D0D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-776: 0x2D12 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
+776: 0x2D12 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8726*]:
     → "Ah, I daresay your $3 has undergone change!"
 777: 0x2D19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 778: 0x2D1A [0x1A] CALL_SUBROUTINE(address=0x429B)
 779: 0x2D1D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 780: 0x2D22 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 781: 0x2D27 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x2D3A
-782: 0x2D2F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+782: 0x2D2F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 783: 0x2D36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 784: 0x2D37 [0x01] GOTO 0x2D99
 785: 0x2D3A [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x2D4D
-786: 0x2D42 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+786: 0x2D42 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 787: 0x2D49 [0x23] WAIT_FOR_DIALOG_INTERACTION
 788: 0x2D4A [0x01] GOTO 0x2D99
 789: 0x2D4D [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x2D60
-790: 0x2D55 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+790: 0x2D55 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 791: 0x2D5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 792: 0x2D5D [0x01] GOTO 0x2D99
 793: 0x2D60 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x2D73
-794: 0x2D68 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+794: 0x2D68 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 795: 0x2D6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 796: 0x2D70 [0x01] GOTO 0x2D99
 797: 0x2D73 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x2D86
-798: 0x2D7B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+798: 0x2D7B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 799: 0x2D82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 800: 0x2D83 [0x01] GOTO 0x2D99
 801: 0x2D86 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x2D99
-802: 0x2D8E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+802: 0x2D8E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 803: 0x2D95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 804: 0x2D96 [0x01] GOTO 0x2D99
 
 SUBROUTINE_2D99:
-805: 0x2D99 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+805: 0x2D99 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 806: 0x2DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 807: 0x2DA1 [0x03] Work_Zone[1] = 1073741824*
@@ -4125,75 +4125,75 @@ SUBROUTINE_2D99:
 809: 0x2DA9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x2E50
 810: 0x2DB1 [0x1A] CALL_SUBROUTINE(address=0x4D44)
 811: 0x2DB4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-812: 0x2DB9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
+812: 0x2DB9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8726*]:
     → "Ah, I daresay your $3 has undergone change!"
 813: 0x2DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 814: 0x2DC1 [0x1A] CALL_SUBROUTINE(address=0x429B)
 815: 0x2DC4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 816: 0x2DC9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 817: 0x2DCE [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x2DE1
-818: 0x2DD6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+818: 0x2DD6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 819: 0x2DDD [0x23] WAIT_FOR_DIALOG_INTERACTION
 820: 0x2DDE [0x01] GOTO 0x2E40
 821: 0x2DE1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x2DF4
-822: 0x2DE9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+822: 0x2DE9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 823: 0x2DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 824: 0x2DF1 [0x01] GOTO 0x2E40
 825: 0x2DF4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x2E07
-826: 0x2DFC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+826: 0x2DFC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 827: 0x2E03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 828: 0x2E04 [0x01] GOTO 0x2E40
 829: 0x2E07 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x2E1A
-830: 0x2E0F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+830: 0x2E0F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 831: 0x2E16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 832: 0x2E17 [0x01] GOTO 0x2E40
 833: 0x2E1A [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x2E2D
-834: 0x2E22 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+834: 0x2E22 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 835: 0x2E29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 836: 0x2E2A [0x01] GOTO 0x2E40
 837: 0x2E2D [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x2E40
-838: 0x2E35 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+838: 0x2E35 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 839: 0x2E3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 840: 0x2E3D [0x01] GOTO 0x2E40
 
 SUBROUTINE_2E40:
-841: 0x2E40 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+841: 0x2E40 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 842: 0x2E47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 843: 0x2E48 [0x03] Work_Zone[1] = 1073741824*
 844: 0x2E4D [0x01] GOTO 0x3315
 845: 0x2E50 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x2E75
 846: 0x2E58 [0x03] Work_Zone[2] = 0*
-847: 0x2E5D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+847: 0x2E5D [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 848: 0x2E64 [0x23] WAIT_FOR_DIALOG_INTERACTION
-849: 0x2E65 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+849: 0x2E65 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 850: 0x2E6C [0x23] WAIT_FOR_DIALOG_INTERACTION
 851: 0x2E6D [0x03] Work_Zone[1] = 1073741824*
 852: 0x2E72 [0x01] GOTO 0x3315
 853: 0x2E75 [0x02] IF !(ExtData[1]->WorkLocal[1] == 6*) GOTO 0x2E9A
 854: 0x2E7D [0x03] Work_Zone[2] = 0*
-855: 0x2E82 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+855: 0x2E82 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 856: 0x2E89 [0x23] WAIT_FOR_DIALOG_INTERACTION
-857: 0x2E8A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+857: 0x2E8A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 858: 0x2E91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 859: 0x2E92 [0x03] Work_Zone[1] = 1073741824*
 860: 0x2E97 [0x01] GOTO 0x3315
 861: 0x2E9A [0x02] IF !(ExtData[1]->WorkLocal[1] == 7*) GOTO 0x2EBF
 862: 0x2EA2 [0x03] Work_Zone[2] = 0*
-863: 0x2EA7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+863: 0x2EA7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 864: 0x2EAE [0x23] WAIT_FOR_DIALOG_INTERACTION
-865: 0x2EAF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+865: 0x2EAF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 866: 0x2EB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 867: 0x2EB7 [0x03] Work_Zone[1] = 1073741824*
@@ -4203,79 +4203,79 @@ SUBROUTINE_2E40:
 871: 0x2ECA [0x02] IF !(ExtData[1]->WorkLocal[1] == 100*) GOTO 0x300D
 872: 0x2ED2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x2EEA
 873: 0x2EDA [0x03] Work_Zone[2] = 0*
-874: 0x2EDF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+874: 0x2EDF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 875: 0x2EE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 876: 0x2EE7 [0x01] GOTO 0x300A
 877: 0x2EEA [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x2F02
 878: 0x2EF2 [0x03] Work_Zone[2] = 0*
-879: 0x2EF7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+879: 0x2EF7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 880: 0x2EFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 881: 0x2EFF [0x01] GOTO 0x300A
 882: 0x2F02 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x2F1A
 883: 0x2F0A [0x03] Work_Zone[2] = 0*
-884: 0x2F0F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+884: 0x2F0F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 885: 0x2F16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 886: 0x2F17 [0x01] GOTO 0x300A
 887: 0x2F1A [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x2F32
 888: 0x2F22 [0x03] Work_Zone[2] = 0*
-889: 0x2F27 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+889: 0x2F27 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 890: 0x2F2E [0x23] WAIT_FOR_DIALOG_INTERACTION
 891: 0x2F2F [0x01] GOTO 0x300A
 892: 0x2F32 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x2F4A
 893: 0x2F3A [0x03] Work_Zone[2] = 0*
-894: 0x2F3F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+894: 0x2F3F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 895: 0x2F46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 896: 0x2F47 [0x01] GOTO 0x300A
 897: 0x2F4A [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x2F62
 898: 0x2F52 [0x03] Work_Zone[2] = 0*
-899: 0x2F57 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+899: 0x2F57 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 900: 0x2F5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 901: 0x2F5F [0x01] GOTO 0x300A
 902: 0x2F62 [0x02] IF !(ExtData[1]->WorkLocal[6] == 10*) GOTO 0x2F7A
 903: 0x2F6A [0x03] Work_Zone[2] = 1*
-904: 0x2F6F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+904: 0x2F6F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 905: 0x2F76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 906: 0x2F77 [0x01] GOTO 0x300A
 907: 0x2F7A [0x02] IF !(ExtData[1]->WorkLocal[6] == 11*) GOTO 0x2F92
 908: 0x2F82 [0x03] Work_Zone[2] = 1*
-909: 0x2F87 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+909: 0x2F87 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 910: 0x2F8E [0x23] WAIT_FOR_DIALOG_INTERACTION
 911: 0x2F8F [0x01] GOTO 0x300A
 912: 0x2F92 [0x02] IF !(ExtData[1]->WorkLocal[6] == 12*) GOTO 0x2FAA
 913: 0x2F9A [0x03] Work_Zone[2] = 1*
-914: 0x2F9F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+914: 0x2F9F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 915: 0x2FA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 916: 0x2FA7 [0x01] GOTO 0x300A
 917: 0x2FAA [0x02] IF !(ExtData[1]->WorkLocal[6] == 13*) GOTO 0x2FC2
 918: 0x2FB2 [0x03] Work_Zone[2] = 1*
-919: 0x2FB7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+919: 0x2FB7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 920: 0x2FBE [0x23] WAIT_FOR_DIALOG_INTERACTION
 921: 0x2FBF [0x01] GOTO 0x300A
 922: 0x2FC2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 14*) GOTO 0x2FDA
 923: 0x2FCA [0x03] Work_Zone[2] = 1*
-924: 0x2FCF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+924: 0x2FCF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 925: 0x2FD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 926: 0x2FD7 [0x01] GOTO 0x300A
 927: 0x2FDA [0x02] IF !(ExtData[1]->WorkLocal[6] == 15*) GOTO 0x2FF2
 928: 0x2FE2 [0x03] Work_Zone[2] = 1*
-929: 0x2FE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+929: 0x2FE7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 930: 0x2FEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 931: 0x2FEF [0x01] GOTO 0x300A
 932: 0x2FF2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 16*) GOTO 0x300A
 933: 0x2FFA [0x03] Work_Zone[2] = 1*
-934: 0x2FFF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+934: 0x2FFF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 935: 0x3006 [0x23] WAIT_FOR_DIALOG_INTERACTION
 936: 0x3007 [0x01] GOTO 0x300A
@@ -4285,38 +4285,38 @@ SUBROUTINE_300A:
 938: 0x300D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 939: 0x3012 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 940: 0x3017 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x302A
-941: 0x301F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+941: 0x301F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 942: 0x3026 [0x23] WAIT_FOR_DIALOG_INTERACTION
 943: 0x3027 [0x01] GOTO 0x3089
 944: 0x302A [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x303D
-945: 0x3032 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+945: 0x3032 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 946: 0x3039 [0x23] WAIT_FOR_DIALOG_INTERACTION
 947: 0x303A [0x01] GOTO 0x3089
 948: 0x303D [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x3050
-949: 0x3045 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+949: 0x3045 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 950: 0x304C [0x23] WAIT_FOR_DIALOG_INTERACTION
 951: 0x304D [0x01] GOTO 0x3089
 952: 0x3050 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x3063
-953: 0x3058 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+953: 0x3058 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 954: 0x305F [0x23] WAIT_FOR_DIALOG_INTERACTION
 955: 0x3060 [0x01] GOTO 0x3089
 956: 0x3063 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x3076
-957: 0x306B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+957: 0x306B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 958: 0x3072 [0x23] WAIT_FOR_DIALOG_INTERACTION
 959: 0x3073 [0x01] GOTO 0x3089
 960: 0x3076 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x3089
-961: 0x307E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+961: 0x307E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 962: 0x3085 [0x23] WAIT_FOR_DIALOG_INTERACTION
 963: 0x3086 [0x01] GOTO 0x3089
 
 SUBROUTINE_3089:
-964: 0x3089 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+964: 0x3089 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 965: 0x3090 [0x23] WAIT_FOR_DIALOG_INTERACTION
 966: 0x3091 [0x03] Work_Zone[1] = 1073741824*
@@ -4326,79 +4326,79 @@ SUBROUTINE_3089:
 970: 0x30A4 [0x02] IF !(ExtData[1]->WorkLocal[1] == 100*) GOTO 0x31E7
 971: 0x30AC [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x30C4
 972: 0x30B4 [0x03] Work_Zone[2] = 0*
-973: 0x30B9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+973: 0x30B9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 974: 0x30C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 975: 0x30C1 [0x01] GOTO 0x31E4
 976: 0x30C4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x30DC
 977: 0x30CC [0x03] Work_Zone[2] = 0*
-978: 0x30D1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+978: 0x30D1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 979: 0x30D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 980: 0x30D9 [0x01] GOTO 0x31E4
 981: 0x30DC [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x30F4
 982: 0x30E4 [0x03] Work_Zone[2] = 0*
-983: 0x30E9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+983: 0x30E9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 984: 0x30F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 985: 0x30F1 [0x01] GOTO 0x31E4
 986: 0x30F4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x310C
 987: 0x30FC [0x03] Work_Zone[2] = 0*
-988: 0x3101 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+988: 0x3101 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 989: 0x3108 [0x23] WAIT_FOR_DIALOG_INTERACTION
 990: 0x3109 [0x01] GOTO 0x31E4
 991: 0x310C [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x3124
 992: 0x3114 [0x03] Work_Zone[2] = 0*
-993: 0x3119 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+993: 0x3119 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 994: 0x3120 [0x23] WAIT_FOR_DIALOG_INTERACTION
 995: 0x3121 [0x01] GOTO 0x31E4
 996: 0x3124 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x313C
 997: 0x312C [0x03] Work_Zone[2] = 0*
-998: 0x3131 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+998: 0x3131 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 999: 0x3138 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1000: 0x3139 [0x01] GOTO 0x31E4
 1001: 0x313C [0x02] IF !(ExtData[1]->WorkLocal[6] == 10*) GOTO 0x3154
 1002: 0x3144 [0x03] Work_Zone[2] = 1*
-1003: 0x3149 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1003: 0x3149 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1004: 0x3150 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1005: 0x3151 [0x01] GOTO 0x31E4
 1006: 0x3154 [0x02] IF !(ExtData[1]->WorkLocal[6] == 11*) GOTO 0x316C
 1007: 0x315C [0x03] Work_Zone[2] = 1*
-1008: 0x3161 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1008: 0x3161 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1009: 0x3168 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1010: 0x3169 [0x01] GOTO 0x31E4
 1011: 0x316C [0x02] IF !(ExtData[1]->WorkLocal[6] == 12*) GOTO 0x3184
 1012: 0x3174 [0x03] Work_Zone[2] = 1*
-1013: 0x3179 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1013: 0x3179 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1014: 0x3180 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1015: 0x3181 [0x01] GOTO 0x31E4
 1016: 0x3184 [0x02] IF !(ExtData[1]->WorkLocal[6] == 13*) GOTO 0x319C
 1017: 0x318C [0x03] Work_Zone[2] = 1*
-1018: 0x3191 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1018: 0x3191 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1019: 0x3198 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1020: 0x3199 [0x01] GOTO 0x31E4
 1021: 0x319C [0x02] IF !(ExtData[1]->WorkLocal[6] == 14*) GOTO 0x31B4
 1022: 0x31A4 [0x03] Work_Zone[2] = 1*
-1023: 0x31A9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1023: 0x31A9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1024: 0x31B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1025: 0x31B1 [0x01] GOTO 0x31E4
 1026: 0x31B4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 15*) GOTO 0x31CC
 1027: 0x31BC [0x03] Work_Zone[2] = 1*
-1028: 0x31C1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1028: 0x31C1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1029: 0x31C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1030: 0x31C9 [0x01] GOTO 0x31E4
 1031: 0x31CC [0x02] IF !(ExtData[1]->WorkLocal[6] == 16*) GOTO 0x31E4
 1032: 0x31D4 [0x03] Work_Zone[2] = 1*
-1033: 0x31D9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1033: 0x31D9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1034: 0x31E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1035: 0x31E1 [0x01] GOTO 0x31E4
@@ -4408,38 +4408,38 @@ SUBROUTINE_31E4:
 1037: 0x31E7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 1038: 0x31EC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 1039: 0x31F1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x3204
-1040: 0x31F9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+1040: 0x31F9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 1041: 0x3200 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1042: 0x3201 [0x01] GOTO 0x3263
 1043: 0x3204 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x3217
-1044: 0x320C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+1044: 0x320C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 1045: 0x3213 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1046: 0x3214 [0x01] GOTO 0x3263
 1047: 0x3217 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x322A
-1048: 0x321F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+1048: 0x321F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 1049: 0x3226 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1050: 0x3227 [0x01] GOTO 0x3263
 1051: 0x322A [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x323D
-1052: 0x3232 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+1052: 0x3232 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 1053: 0x3239 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1054: 0x323A [0x01] GOTO 0x3263
 1055: 0x323D [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x3250
-1056: 0x3245 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+1056: 0x3245 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 1057: 0x324C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1058: 0x324D [0x01] GOTO 0x3263
 1059: 0x3250 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x3263
-1060: 0x3258 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+1060: 0x3258 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 1061: 0x325F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1062: 0x3260 [0x01] GOTO 0x3263
 
 SUBROUTINE_3263:
-1063: 0x3263 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+1063: 0x3263 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 1064: 0x326A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1065: 0x326B [0x03] Work_Zone[1] = 1073741824*
@@ -4449,41 +4449,41 @@ SUBROUTINE_3263:
 1069: 0x327E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 1070: 0x3283 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 1071: 0x3288 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x329B
-1072: 0x3290 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+1072: 0x3290 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 1073: 0x3297 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1074: 0x3298 [0x01] GOTO 0x3305
 1075: 0x329B [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x32AE
-1076: 0x32A3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+1076: 0x32A3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 1077: 0x32AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1078: 0x32AB [0x01] GOTO 0x3305
 1079: 0x32AE [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x32C1
-1080: 0x32B6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+1080: 0x32B6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 1081: 0x32BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 1082: 0x32BE [0x01] GOTO 0x3305
 1083: 0x32C1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x32D4
-1084: 0x32C9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+1084: 0x32C9 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 1085: 0x32D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1086: 0x32D1 [0x01] GOTO 0x3305
 1087: 0x32D4 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x32E7
-1088: 0x32DC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+1088: 0x32DC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 1089: 0x32E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1090: 0x32E4 [0x01] GOTO 0x3305
 1091: 0x32E7 [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x3305
-1092: 0x32EF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+1092: 0x32EF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 1093: 0x32F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1094: 0x32F7 [0x02] IF !(Work_Zone[2] == 8*) GOTO 0x3302
-1095: 0x32FF [0x48] [System] [8901*]:
+1095: 0x32FF [0x48] [System] [8902*]:
     → "You may also undertake this operation at Beaucedine Glacier."
 1096: 0x3302 [0x01] GOTO 0x3305
 
 SUBROUTINE_3305:
-1097: 0x3305 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+1097: 0x3305 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 1098: 0x330C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1099: 0x330D [0x03] Work_Zone[1] = 1073741824*
@@ -4524,34 +4524,34 @@ SUBROUTINE_3393:
 1130: 0x33A9 [0x03] Work_Zone[2] = 2054*
 
 SUBROUTINE_33AE:
-1131: 0x33AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8878*]:
+1131: 0x33AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8879*]:
     → "Reporting for combat, are you? Yes, this $3 of yours appears to be in order. Welcome aboard!"
 1132: 0x33B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1133: 0x33B6 [0x03] Work_Zone[2] = 1444*
-1134: 0x33BB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8879*]:
+1134: 0x33BB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8880*]:
     → "I suspect you've already been briefed about the use of $3, but protocol dictates that I ask if you are in need of a review. What will it be, soldier?"
 1135: 0x33C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1136: 0x33C3 [0x24] CREATE_DIALOG(message_id=8880*, default_option=0*, option_flags=0*)
+1136: 0x33C3 [0x24] CREATE_DIALOG(message_id=8881*, default_option=0*, option_flags=0*)
     → "What will it be, soldier? [Ready for battle, sir!/I need a briefing, sir!]"
 1137: 0x33CA [0x25] WAIT_DIALOG_SELECT()
 1138: 0x33CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x33DE
-1139: 0x33D3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8881*]:
+1139: 0x33D3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8882*]:
     → "Now that's what I like to hear, soldier!"
 1140: 0x33DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1141: 0x33DB [0x01] GOTO 0x3413
 1142: 0x33DE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x3413
-1143: 0x33E6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8703*]:
+1143: 0x33E6 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8704*]:
     → "Stratum abyssite is needed to do battle with a Voidwalker at one of the many planar rifts that have manifested across the land."
 1144: 0x33ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 1145: 0x33EE [0x03] Work_Zone[2] = 1444*
-1146: 0x33F3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8704*]:
+1146: 0x33F3 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8705*]:
     → "You can't simply use one wherever you like, mind you, for each stone is attuned only to rifts found in a certain region, or "jurisdiction.""
 1147: 0x33FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-1148: 0x33FB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8705*]:
+1148: 0x33FB [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8706*]:
     → "Undertaking a Voidwatch operation in a specific jurisdiction requires that you obtain the corresponding stone from the presiding Voidwatch officer."
 1149: 0x3402 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1150: 0x3403 [0x03] Work_Zone[2] = 1539*
-1151: 0x3408 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8706*]:
+1151: 0x3408 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8707*]:
     → "While these stones are capable of rendering Voidwalkers visible to their bearers, their powers can only be tapped when used in conjunction with $6."
 1152: 0x340F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1153: 0x3410 [0x01] GOTO 0x3413
@@ -4560,46 +4560,46 @@ SUBROUTINE_3413:
 1154: 0x3413 [0x1A] CALL_SUBROUTINE(address=0x429B)
 1155: 0x3416 [0x02] IF !(ExtData[1]->WorkLocal[1] == 100*) GOTO 0x342E
 1156: 0x341E [0x03] Work_Zone[2] = 1*
-1157: 0x3423 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1157: 0x3423 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1158: 0x342A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1159: 0x342B [0x01] GOTO 0x3577
 1160: 0x342E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 1161: 0x3433 [0x02] IF !(ExtData[1]->WorkLocal[6] == 10*) GOTO 0x3446
-1162: 0x343B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8883*]:
+1162: 0x343B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8884*]:
     → "Operations are presently underway [in Batallia Downs/in Batallia Downs/in the Eldieme Necropolis/in the Eldieme Necropolis]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 1163: 0x3442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1164: 0x3443 [0x01] GOTO 0x34C0
 1165: 0x3446 [0x02] IF !(ExtData[1]->WorkLocal[6] == 11*) GOTO 0x3459
-1166: 0x344E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8884*]:
+1166: 0x344E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8885*]:
     → "Operations are presently underway [in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 1167: 0x3455 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1168: 0x3456 [0x01] GOTO 0x34C0
 1169: 0x3459 [0x02] IF !(ExtData[1]->WorkLocal[6] == 12*) GOTO 0x346C
-1170: 0x3461 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8885*]:
+1170: 0x3461 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8886*]:
     → "Operations are presently underway [in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 1171: 0x3468 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1172: 0x3469 [0x01] GOTO 0x34C0
 1173: 0x346C [0x02] IF !(ExtData[1]->WorkLocal[6] == 13*) GOTO 0x347F
-1174: 0x3474 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8883*]:
+1174: 0x3474 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8884*]:
     → "Operations are presently underway [in Batallia Downs/in Batallia Downs/in the Eldieme Necropolis/in the Eldieme Necropolis]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 1175: 0x347B [0x23] WAIT_FOR_DIALOG_INTERACTION
 1176: 0x347C [0x01] GOTO 0x34C0
 1177: 0x347F [0x02] IF !(ExtData[1]->WorkLocal[6] == 14*) GOTO 0x3492
-1178: 0x3487 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8884*]:
+1178: 0x3487 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8885*]:
     → "Operations are presently underway [in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 1179: 0x348E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1180: 0x348F [0x01] GOTO 0x34C0
 1181: 0x3492 [0x02] IF !(ExtData[1]->WorkLocal[6] == 15*) GOTO 0x34A5
-1182: 0x349A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8885*]:
+1182: 0x349A [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8886*]:
     → "Operations are presently underway [in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel]. While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 1183: 0x34A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1184: 0x34A2 [0x01] GOTO 0x34C0
 1185: 0x34A5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 16*) GOTO 0x34C0
-1186: 0x34AD [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8886*]:
+1186: 0x34AD [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8887*]:
     → "Operations are presently underway at Qufim Island, Delkfutt's Tower, and Behemoth's Dominion."
 1187: 0x34B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1188: 0x34B5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8887*]:
+1188: 0x34B5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8888*]:
     → "While planar rifts have been reported in other areas, we've yet to discover how to engage Voidwalkers there."
 1189: 0x34BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1190: 0x34BD [0x01] GOTO 0x34C0
@@ -4607,55 +4607,55 @@ SUBROUTINE_3413:
 SUBROUTINE_34C0:
 1191: 0x34C0 [0x03] Work_Zone[2] = 1444*
 1192: 0x34C5 [0x03] Work_Zone[3] = 1539*
-1193: 0x34CA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8710*]:
+1193: 0x34CA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8711*]:
     → "It would seem some other requirement exists besides the usual $3 and $3."
 1194: 0x34D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1195: 0x34D2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8711*]:
+1195: 0x34D2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8712*]:
     → "Rest assured, you will be apprised of this information as soon as we acquire it."
 1196: 0x34D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1197: 0x34DA [0x1A] CALL_SUBROUTINE(address=0x429B)
 1198: 0x34DD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 1199: 0x34E2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 10*) GOTO 0x34F5
-1200: 0x34EA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8889*]:
+1200: 0x34EA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8890*]:
     → "At this time, we request your participation in the operation [in Batallia Downs/in Batallia Downs/in the Eldieme Necropolis/in the Eldieme Necropolis]."
 1201: 0x34F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1202: 0x34F2 [0x01] GOTO 0x3567
 1203: 0x34F5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 11*) GOTO 0x3508
-1204: 0x34FD [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8890*]:
+1204: 0x34FD [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8891*]:
     → "At this time, we request your participation in the operation [in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest]."
 1205: 0x3504 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1206: 0x3505 [0x01] GOTO 0x3567
 1207: 0x3508 [0x02] IF !(ExtData[1]->WorkLocal[6] == 12*) GOTO 0x351B
-1208: 0x3510 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8891*]:
+1208: 0x3510 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8892*]:
     → "At this time, we request your participation in the operation [in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel]."
 1209: 0x3517 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1210: 0x3518 [0x01] GOTO 0x3567
 1211: 0x351B [0x02] IF !(ExtData[1]->WorkLocal[6] == 13*) GOTO 0x352E
-1212: 0x3523 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8889*]:
+1212: 0x3523 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8890*]:
     → "At this time, we request your participation in the operation [in Batallia Downs/in Batallia Downs/in the Eldieme Necropolis/in the Eldieme Necropolis]."
 1213: 0x352A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1214: 0x352B [0x01] GOTO 0x3567
 1215: 0x352E [0x02] IF !(ExtData[1]->WorkLocal[6] == 14*) GOTO 0x3541
-1216: 0x3536 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8890*]:
+1216: 0x3536 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8891*]:
     → "At this time, we request your participation in the operation [in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest]."
 1217: 0x353D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1218: 0x353E [0x01] GOTO 0x3567
 1219: 0x3541 [0x02] IF !(ExtData[1]->WorkLocal[6] == 15*) GOTO 0x3554
-1220: 0x3549 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8891*]:
+1220: 0x3549 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8892*]:
     → "At this time, we request your participation in the operation [in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel]."
 1221: 0x3550 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1222: 0x3551 [0x01] GOTO 0x3567
 1223: 0x3554 [0x02] IF !(ExtData[1]->WorkLocal[6] == 16*) GOTO 0x3567
-1224: 0x355C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8892*]:
+1224: 0x355C [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8893*]:
     → "At this time, we request your participation in the operations at Qufim Island, Delkfutt's Tower, and Behemoth's Dominion."
 1225: 0x3563 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1226: 0x3564 [0x01] GOTO 0x3567
 
 SUBROUTINE_3567:
-1227: 0x3567 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8715*]:
+1227: 0x3567 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
     → "When you engage in battle with a Voidwalker, you do so as a "Voidwatcher"--a defender of our dimension. The rules of such engagements are unlike any other, and I counsel you to proceed prepared and with all caution."
 1228: 0x356E [0x23] WAIT_FOR_DIALOG_INTERACTION
-1229: 0x356F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8716*]:
+1229: 0x356F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8717*]:
     → "Now, go and do Vana'diel proud!"
 1230: 0x3576 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4672,79 +4672,79 @@ SUBROUTINE_357A:
 1238: 0x359A [0x02] IF !(ExtData[1]->WorkLocal[1] == 100*) GOTO 0x36DD
 1239: 0x35A2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x35BA
 1240: 0x35AA [0x03] Work_Zone[2] = 0*
-1241: 0x35AF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1241: 0x35AF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1242: 0x35B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1243: 0x35B7 [0x01] GOTO 0x36DA
 1244: 0x35BA [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x35D2
 1245: 0x35C2 [0x03] Work_Zone[2] = 0*
-1246: 0x35C7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1246: 0x35C7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1247: 0x35CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1248: 0x35CF [0x01] GOTO 0x36DA
 1249: 0x35D2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x35EA
 1250: 0x35DA [0x03] Work_Zone[2] = 0*
-1251: 0x35DF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1251: 0x35DF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1252: 0x35E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1253: 0x35E7 [0x01] GOTO 0x36DA
 1254: 0x35EA [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x3602
 1255: 0x35F2 [0x03] Work_Zone[2] = 0*
-1256: 0x35F7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1256: 0x35F7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1257: 0x35FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1258: 0x35FF [0x01] GOTO 0x36DA
 1259: 0x3602 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x361A
 1260: 0x360A [0x03] Work_Zone[2] = 0*
-1261: 0x360F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1261: 0x360F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1262: 0x3616 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1263: 0x3617 [0x01] GOTO 0x36DA
 1264: 0x361A [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x3632
 1265: 0x3622 [0x03] Work_Zone[2] = 0*
-1266: 0x3627 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1266: 0x3627 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1267: 0x362E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1268: 0x362F [0x01] GOTO 0x36DA
 1269: 0x3632 [0x02] IF !(ExtData[1]->WorkLocal[6] == 10*) GOTO 0x364A
 1270: 0x363A [0x03] Work_Zone[2] = 1*
-1271: 0x363F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1271: 0x363F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1272: 0x3646 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1273: 0x3647 [0x01] GOTO 0x36DA
 1274: 0x364A [0x02] IF !(ExtData[1]->WorkLocal[6] == 11*) GOTO 0x3662
 1275: 0x3652 [0x03] Work_Zone[2] = 1*
-1276: 0x3657 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1276: 0x3657 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1277: 0x365E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1278: 0x365F [0x01] GOTO 0x36DA
 1279: 0x3662 [0x02] IF !(ExtData[1]->WorkLocal[6] == 12*) GOTO 0x367A
 1280: 0x366A [0x03] Work_Zone[2] = 1*
-1281: 0x366F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1281: 0x366F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1282: 0x3676 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1283: 0x3677 [0x01] GOTO 0x36DA
 1284: 0x367A [0x02] IF !(ExtData[1]->WorkLocal[6] == 13*) GOTO 0x3692
 1285: 0x3682 [0x03] Work_Zone[2] = 1*
-1286: 0x3687 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1286: 0x3687 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1287: 0x368E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1288: 0x368F [0x01] GOTO 0x36DA
 1289: 0x3692 [0x02] IF !(ExtData[1]->WorkLocal[6] == 14*) GOTO 0x36AA
 1290: 0x369A [0x03] Work_Zone[2] = 1*
-1291: 0x369F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1291: 0x369F [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1292: 0x36A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1293: 0x36A7 [0x01] GOTO 0x36DA
 1294: 0x36AA [0x02] IF !(ExtData[1]->WorkLocal[6] == 15*) GOTO 0x36C2
 1295: 0x36B2 [0x03] Work_Zone[2] = 1*
-1296: 0x36B7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1296: 0x36B7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1297: 0x36BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1298: 0x36BF [0x01] GOTO 0x36DA
 1299: 0x36C2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 16*) GOTO 0x36DA
 1300: 0x36CA [0x03] Work_Zone[2] = 1*
-1301: 0x36CF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
+1301: 0x36CF [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8725*]:
     → "Operations are currently underway [in the greater Jeuno region/in the three nations]. Your presence there would be of tremendous aid to our efforts."
 1302: 0x36D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1303: 0x36D7 [0x01] GOTO 0x36DA
@@ -4752,75 +4752,75 @@ SUBROUTINE_357A:
 SUBROUTINE_36DA:
 1304: 0x36DA [0x01] GOTO 0x37F2
 1305: 0x36DD [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x36F0
-1306: 0x36E5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+1306: 0x36E5 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 1307: 0x36EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1308: 0x36ED [0x01] GOTO 0x37F2
 1309: 0x36F0 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x3703
-1310: 0x36F8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+1310: 0x36F8 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 1311: 0x36FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1312: 0x3700 [0x01] GOTO 0x37F2
 1313: 0x3703 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x3716
-1314: 0x370B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+1314: 0x370B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 1315: 0x3712 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1316: 0x3713 [0x01] GOTO 0x37F2
 1317: 0x3716 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x3729
-1318: 0x371E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8721*]:
+1318: 0x371E [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
     → "[Operations are set to commence at/Operations are currently underway at] [East Ronfaure/East Ronfaure/Ordelle's Caves/the Jugner Forest/the Jugner Forest/King Ranperre's Tomb/West Ronfaure/La Theine Plateau/Vunkerl Inlet]. Your presence there would be of tremendous aid to our efforts."
 1319: 0x3725 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1320: 0x3726 [0x01] GOTO 0x37F2
 1321: 0x3729 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x373C
-1322: 0x3731 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8722*]:
+1322: 0x3731 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
     → "[Operations are set to commence at/Operations are currently underway at] [North Gustaberg/North Gustaberg/the Gusgen Mines/the Pashhow Marshlands/the Pashhow Marshlands/Dangruf Wadi/South Gustaberg/Konschtat Highlands/Grauberg]. Your presence there would be of tremendous aid to our efforts."
 1323: 0x3738 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1324: 0x3739 [0x01] GOTO 0x37F2
 1325: 0x373C [0x02] IF !(ExtData[1]->WorkLocal[6] == 6*) GOTO 0x375A
-1326: 0x3744 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8723*]:
+1326: 0x3744 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8724*]:
     → "[Operations are set to commence at/Operations are currently underway at] [West Sarutabaruta/West Sarutabaruta/the Maze of Shakhrami/the Meriphataud Mountains/the Meriphataud Mountains/the Outer Horutoto Ruins/East Sarutabaruta/Tahrongi Canyon/Fort Karugo-Narugo]. Your presence there would be of tremendous aid to our efforts."
 1327: 0x374B [0x23] WAIT_FOR_DIALOG_INTERACTION
 1328: 0x374C [0x02] IF !(Work_Zone[2] == 8*) GOTO 0x3757
-1329: 0x3754 [0x48] [System] [8901*]:
+1329: 0x3754 [0x48] [System] [8902*]:
     → "You may also undertake this operation at Beaucedine Glacier."
 1330: 0x3757 [0x01] GOTO 0x37F2
 1331: 0x375A [0x02] IF !(ExtData[1]->WorkLocal[6] == 10*) GOTO 0x376D
-1332: 0x3762 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8894*]:
+1332: 0x3762 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8895*]:
     → "[Operations are set to commence/Operations are currently underway] [in Batallia Downs/in Batallia Downs/in the Eldieme Necropolis/in the Eldieme Necropolis/in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest/in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel/on Qufim Island/in Delkfutt's Tower/in Behemoth's Dominion]. Your presence there would be of tremendous aid to our efforts."
 1333: 0x3769 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1334: 0x376A [0x01] GOTO 0x37F2
 1335: 0x376D [0x02] IF !(ExtData[1]->WorkLocal[6] == 11*) GOTO 0x3780
-1336: 0x3775 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8895*]:
+1336: 0x3775 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8896*]:
     → "[Operations are set to commence/Operations are currently underway] [in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest]. Your presence there would be of tremendous aid to our efforts."
 1337: 0x377C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1338: 0x377D [0x01] GOTO 0x37F2
 1339: 0x3780 [0x02] IF !(ExtData[1]->WorkLocal[6] == 12*) GOTO 0x3793
-1340: 0x3788 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8896*]:
+1340: 0x3788 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8897*]:
     → "[Operations are set to commence/Operations are currently underway] [in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel]. Your presence there would be of tremendous aid to our efforts."
 1341: 0x378F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1342: 0x3790 [0x01] GOTO 0x37F2
 1343: 0x3793 [0x02] IF !(ExtData[1]->WorkLocal[6] == 13*) GOTO 0x37A6
-1344: 0x379B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8894*]:
+1344: 0x379B [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8895*]:
     → "[Operations are set to commence/Operations are currently underway] [in Batallia Downs/in Batallia Downs/in the Eldieme Necropolis/in the Eldieme Necropolis/in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest/in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel/on Qufim Island/in Delkfutt's Tower/in Behemoth's Dominion]. Your presence there would be of tremendous aid to our efforts."
 1345: 0x37A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1346: 0x37A3 [0x01] GOTO 0x37F2
 1347: 0x37A6 [0x02] IF !(ExtData[1]->WorkLocal[6] == 14*) GOTO 0x37B9
-1348: 0x37AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8895*]:
+1348: 0x37AE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8896*]:
     → "[Operations are set to commence/Operations are currently underway] [in Rolanberry Fields/in Rolanberry Fields/in the Crawlers' Nest/in the Crawlers' Nest]. Your presence there would be of tremendous aid to our efforts."
 1349: 0x37B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1350: 0x37B6 [0x01] GOTO 0x37F2
 1351: 0x37B9 [0x02] IF !(ExtData[1]->WorkLocal[6] == 15*) GOTO 0x37CC
-1352: 0x37C1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8896*]:
+1352: 0x37C1 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8897*]:
     → "[Operations are set to commence/Operations are currently underway] [in Sauromugue Champaign/in Sauromugue Champaign/in the Garlaige Citadel/in the Garlaige Citadel]. Your presence there would be of tremendous aid to our efforts."
 1353: 0x37C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1354: 0x37C9 [0x01] GOTO 0x37F2
 1355: 0x37CC [0x02] IF !(ExtData[1]->WorkLocal[6] == 16*) GOTO 0x37F2
 1356: 0x37D4 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x37E7
-1357: 0x37DC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8898*]:
+1357: 0x37DC [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8899*]:
     → "Operations remain underway at [Qufim Island,/Delkfutt's Tower,/Qufim Island./Delkfutt's Tower./Behemoth's Dominion.][ Delkfutt's Tower,/ and Behemoth's Dominion./ and Delkfutt's Tower./][ and Behemoth's Dominion./] Your presence there would be of tremendous aid to our efforts."
 1358: 0x37E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1359: 0x37E4 [0x01] GOTO 0x37EF
-1360: 0x37E7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8886*]:
+1360: 0x37E7 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8887*]:
     → "Operations are presently underway at Qufim Island, Delkfutt's Tower, and Behemoth's Dominion."
 1361: 0x37EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4839,7 +4839,7 @@ SUBROUTINE_37F2:
 1371: 0x381D [0x02] IF !(ExtData[1]->WorkLocal[1] <= 0*) GOTO 0x38AB
 1372: 0x3825 [0x02] IF !(ExtData[1]->WorkLocal[10] <= ExtData[1]->WorkLocal[11]) GOTO 0x389B
 1373: 0x382D [0x03] ExtData[1]->WorkLocal[1] = 0*
-1374: 0x3832 [0x24] CREATE_DIALOG(message_id=8726*, default_option=0*, option_flags=0*)
+1374: 0x3832 [0x24] CREATE_DIALOG(message_id=8727*, default_option=0*, option_flags=0*)
     → "How many would you like? [None./Just one./Fill me up!]"
 1375: 0x3839 [0x25] WAIT_DIALOG_SELECT()
 1376: 0x383A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3845
@@ -4856,14 +4856,14 @@ SUBROUTINE_37F2:
 SUBROUTINE_3877:
 1386: 0x3877 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x3898
 1387: 0x387F [0x03] Work_Zone[2] = 1539*
-1388: 0x3884 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8727*]:
+1388: 0x3884 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8728*]:
     → "Here is your additional $3 allocation. Make each and every one count, you hear?"
 1389: 0x388B [0x23] WAIT_FOR_DIALOG_INTERACTION
 1390: 0x388C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
 1391: 0x3895 [0x06] ExtData[1]->WorkLocal[14] = 0
 1392: 0x3898 [0x01] GOTO 0x38A8
 1393: 0x389B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-1394: 0x38A0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8728*]:
+1394: 0x38A0 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8729*]:
     → "It appears you already possess the maximum allocation of $0 stones. I'm not authorized to provision you with more."
 1395: 0x38A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4873,7 +4873,7 @@ SUBROUTINE_38A8:
 1398: 0x38B0 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 1*) GOTO 0x38BD
 1399: 0x38B8 [0x03] ExtData[1]->WorkLocal[2] = 1*
 1400: 0x38BD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-1401: 0x38C2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8729*]:
+1401: 0x38C2 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8730*]:
     → "I'm afraid we're out of stock. The next shipment is expected to arrive in $0 [minute/minutes] (Earth time)."
 1402: 0x38C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4887,7 +4887,7 @@ SUBROUTINE_38CA:
 1409: 0x38EB [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
 1410: 0x38F0 [0x03] Work_Zone[2] = 1539*
 1411: 0x38F5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-1412: 0x38FA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8732*]:
+1412: 0x38FA [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8733*]:
     → "Your outstanding allocation of $5? My records tell me you have $1 to your name."
 1413: 0x3901 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1414: 0x3902 [0x01] GOTO 0x3E66
@@ -4964,7 +4964,7 @@ SUBROUTINE_3910:
 1483: 0x3AA4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[17], bit_index_work_offset=15*, condition_work_offset=1*)
 1484: 0x3AAB [0x02] IF !(Work_Zone_1700[23] == 0*) GOTO 0x3ABA
 1485: 0x3AB3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[17], bit_index_work_offset=16*, condition_work_offset=1*)
-1486: 0x3ABA [0x24] CREATE_DIALOG(message_id=8733*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
+1486: 0x3ABA [0x24] CREATE_DIALOG(message_id=8734*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
     → "Exchange for what? (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$3: $18./$3: $20./$3: $22./$3: $24./$3: $26./$3: $28./$3: $30./$3: $ .]"
 1487: 0x3AC1 [0x25] WAIT_DIALOG_SELECT()
 1488: 0x3AC2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3AD0
@@ -5073,7 +5073,7 @@ SUBROUTINE_3CC0:
 1589: 0x3CD0 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
 1590: 0x3CD3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 1591: 0x3CD8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
-1592: 0x3CDD [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8734*]:
+1592: 0x3CDD [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8735*]:
     → "$1 cruor is required for $0."
 1593: 0x3CE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1594: 0x3CE5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -5090,9 +5090,9 @@ SUBROUTINE_3CC0:
 1605: 0x3D21 [0x01] GOTO 0x3D24
 
 SUBROUTINE_3D24:
-1606: 0x3D24 [0x48] [System] [8902*]:
+1606: 0x3D24 [0x48] [System] [8903*]:
     → "How many? (Cruor: $0)"
-1607: 0x3D27 [0x48] [System] [8903*]:
+1607: 0x3D27 [0x48] [System] [8904*]:
     → "You may purchase up to $2 at a time."
 1608: 0x3D2A [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
 1609: 0x3D30 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[4])
@@ -5113,42 +5113,42 @@ SUBROUTINE_3D64:
 1620: 0x3D64 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
 1621: 0x3D69 [0x01] GOTO 0x3DF6
 1622: 0x3D6C [0x02] IF !(ExtData[1]->WorkLocal[3] == 9*) GOTO 0x3D7B
-1623: 0x3D74 [0x48] [System] [8741*]:
+1623: 0x3D74 [0x48] [System] [8742*]:
     → "This periapt allows the bearer to infuse an additional atmacite for each one possessed."
 1624: 0x3D77 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1625: 0x3D78 [0x01] GOTO 0x3DE4
 1626: 0x3D7B [0x02] IF !(ExtData[1]->WorkLocal[3] == 10*) GOTO 0x3D8A
-1627: 0x3D83 [0x48] [System] [8742*]:
+1627: 0x3D83 [0x48] [System] [8743*]:
     → "This periapt grants the bearer heightened insight into Voidwalker weaknesses against weapon skills and abilities."
 1628: 0x3D86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1629: 0x3D87 [0x01] GOTO 0x3DE4
 1630: 0x3D8A [0x02] IF !(ExtData[1]->WorkLocal[3] == 11*) GOTO 0x3D99
-1631: 0x3D92 [0x48] [System] [8743*]:
+1631: 0x3D92 [0x48] [System] [8744*]:
     → "This periapt grants the bearer heightened insight into Voidwalker weaknesses against magic."
 1632: 0x3D95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1633: 0x3D96 [0x01] GOTO 0x3DE4
 1634: 0x3D99 [0x02] IF !(ExtData[1]->WorkLocal[3] == 12*) GOTO 0x3DA8
-1635: 0x3DA1 [0x48] [System] [8744*]:
+1635: 0x3DA1 [0x48] [System] [8745*]:
     → "This periapt enhances the effect granted by a periapt of guidance."
 1636: 0x3DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1637: 0x3DA5 [0x01] GOTO 0x3DE4
 1638: 0x3DA8 [0x02] IF !(ExtData[1]->WorkLocal[3] == 13*) GOTO 0x3DB7
-1639: 0x3DB0 [0x48] [System] [8745*]:
+1639: 0x3DB0 [0x48] [System] [8746*]:
     → "This periapt enhances the effect granted by a periapt of percipience."
 1640: 0x3DB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1641: 0x3DB4 [0x01] GOTO 0x3DE4
 1642: 0x3DB7 [0x02] IF !(ExtData[1]->WorkLocal[3] == 14*) GOTO 0x3DC6
-1643: 0x3DBF [0x48] [System] [8746*]:
+1643: 0x3DBF [0x48] [System] [8747*]:
     → "A bewitching light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if beckoning its bearer to come hither."
 1644: 0x3DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1645: 0x3DC3 [0x01] GOTO 0x3DE4
 1646: 0x3DC6 [0x02] IF !(ExtData[1]->WorkLocal[3] == 15*) GOTO 0x3DD5
-1647: 0x3DCE [0x48] [System] [8747*]:
+1647: 0x3DCE [0x48] [System] [8748*]:
     → "A tantalizing light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if appealing to its bearer's most ardent desires."
 1648: 0x3DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1649: 0x3DD2 [0x01] GOTO 0x3DE4
 1650: 0x3DD5 [0x02] IF !(ExtData[1]->WorkLocal[3] == 16*) GOTO 0x3DE4
-1651: 0x3DDD [0x48] [System] [8748*]:
+1651: 0x3DDD [0x48] [System] [8749*]:
     → "A crazed light shines forth from within the crystallized walls of this fragment ripped from a Voidwalker, as if seeking to breach the bearer's last bastion of sanity."
 1652: 0x3DE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1653: 0x3DE1 [0x01] GOTO 0x3DE4
@@ -5156,7 +5156,7 @@ SUBROUTINE_3D64:
 SUBROUTINE_3DE4:
 1654: 0x3DE4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 1655: 0x3DE9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
-1656: 0x3DEE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8735*]:
+1656: 0x3DEE [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8736*]:
     → "$1 cruor is required for the $3."
 1657: 0x3DF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -5164,7 +5164,7 @@ SUBROUTINE_3DF6:
 1658: 0x3DF6 [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x3E60
 1659: 0x3DFE [0x02] IF !(ExtData[1]->WorkLocal[13] < ExtData[1]->WorkLocal[19]) GOTO 0x3E58
 1660: 0x3E06 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
-1661: 0x3E0B [0x24] CREATE_DIALOG(message_id=8736*, default_option=1*, option_flags=0*)
+1661: 0x3E0B [0x24] CREATE_DIALOG(message_id=8737*, default_option=1*, option_flags=0*)
     → "Proceed? (Required Cruor: $0) [Yes./No.]"
 1662: 0x3E12 [0x25] WAIT_DIALOG_SELECT()
 1663: 0x3E13 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3E4A
@@ -5183,7 +5183,7 @@ SUBROUTINE_3E47:
 
 SUBROUTINE_3E55:
 1674: 0x3E55 [0x01] GOTO 0x3E60
-1675: 0x3E58 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8737*]:
+1675: 0x3E58 [0x2B] Voidwatch Officer (ID: 17637442/0x010D2042) [8738*]:
     → "It seems you do not have enough cruor."
 1676: 0x3E5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 

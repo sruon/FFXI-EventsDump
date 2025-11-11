@@ -19760,7 +19760,7 @@ F5B0: 30 00                                             0.
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 F5B0:       32 61 80 1F 00 66  87 67 87 83 80 1F 01 1E    2a...f.g......
-F5C0: D1 D0 0E 01 1C 24 80 00                           .....$..        
+F5C0: D0 D0 0E 01 1C 24 80 00                           .....$..        
 ```
 
 #### Opcodes
@@ -19769,7 +19769,7 @@ F5C0: D1 D0 0E 01 1C 24 80 00                           .....$..
   0: 0xF5B2 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0xF5B5 [0x1F] MOVE_ENTITY: EventEntity moves to X=101.898*, Z=-0.754*, Y=-20.181*
   2: 0xF5BD [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0xF5BF [0x1E] EventEntity looks at Prien (ID: 17748177/0x010ED0D1) and starts talking
+  3: 0xF5BF [0x1E] EventEntity looks at Prien (ID: 17748176/0x010ED0D0) and starts talking
   4: 0xF5C4 [0x1C] WAIT(30* ticks)
   5: 0xF5C7 [0x00] END_REQSTACK()
 ```

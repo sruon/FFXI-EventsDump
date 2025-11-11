@@ -121,10 +121,10 @@
 |      12 | 0x002E      |          46 |
 |      13 | 0x22AE      |        8878 |
 |      14 | 0x22AF      |        8879 |
-|      15 | 0x2FFB      |       12283 |
+|      15 | 0x2FFE      |       12286 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x3004      |       12292 |
-|      18 | 0x3005      |       12293 |
+|      17 | 0x3007      |       12295 |
+|      18 | 0x3008      |       12296 |
 |      19 | 0x202F      |        8239 |
 |      20 | 0x2030      |        8240 |
 |      21 | 0x2031      |        8241 |
@@ -176,9 +176,9 @@
 - **10541**: Munch-munch...chew-chew... I was able to find out all sorts of juicy details from that article.
 - **10542**: But I'll have to skip lunch to investigate justaru how authentic this story really is...munch-munch...
 - **10543**: If you're looking for those three Tarutaru, they headed for the air travel agency. If I recall, there's a reporter around that area who works for the same boss as the man on the spot...chew-chew...
-- **12283**: <Player>'s badge flashes brightly.
-- **12292**: Munch-munch...chew-chew... What's that? Something about "Aht Urhgan"? I heard that the beastmen there are crazy-wazy! Rumor has it that they even attack the towns sometimes!
-- **12293**: If I could just go there on a business trip, I'd have enough scoops to last the rest of my life! Then again, if the rumors are true, that might not be very long!
+- **12286**: <Player>'s badge flashes brightly.
+- **12295**: Munch-munch...chew-chew... What's that? Something about "Aht Urhgan"? I heard that the beastmen there are crazy-wazy! Rumor has it that they even attack the towns sometimes!
+- **12296**: If I could just go there on a business trip, I'd have enough scoops to last the rest of my life! Then again, if the rumors are true, that might not be very long!
 
 ## Events
 
@@ -1968,15 +1968,15 @@
 
 ```
   0: 0x04A2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x04A3 [0x48] [System] [12283*]:
+  1: 0x04A3 [0x48] [System] [12286*]:
     → "<Player>'s badge flashes brightly."
   2: 0x04A6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x04AB [0x1C] WAIT(30* ticks)
-  4: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12292*)
+  4: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
     → "Munch-munch...chew-chew... What's that? Something about "Aht Urhgan"? I heard that the beastmen there are crazy-wazy! Rumor has it that they even attack the towns sometimes!"
   5: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  7: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12293*)
+  7: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12296*)
     → "If I could just go there on a business trip, I'd have enough scoops to last the rest of my life! Then again, if the rumors are true, that might not be very long!"
   8: 0x04C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*

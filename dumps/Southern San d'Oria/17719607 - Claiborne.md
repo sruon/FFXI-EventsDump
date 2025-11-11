@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x30B7      |       12471 |
+|       1 | 0x30BA      |       12474 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
@@ -45,65 +45,65 @@
 |      22 | 0x001B      |          27 |
 |      23 | 0x001C      |          28 |
 |      24 | 0x001E      |          30 |
-|      25 | 0x30D5      |       12501 |
+|      25 | 0x30D8      |       12504 |
 |      26 | 0xFFFFFFFF  |  4294967295 |
 |      27 | 0x00FF      |         255 |
 |      28 | 0x01F4      |         500 |
 |      29 | 0x02F4      |         756 |
 |      30 | 0x03F4      |        1012 |
 |      31 | 0x04F4      |        1268 |
-|      32 | 0x30D8      |       12504 |
+|      32 | 0x30DB      |       12507 |
 |      33 | 0x0CF4      |        3316 |
 |      34 | 0x0005      |           5 |
 |      35 | 0x0DF4      |        3572 |
 |      36 | 0x0006      |           6 |
 |      37 | 0x0EF4      |        3828 |
-|      38 | 0x30D6      |       12502 |
+|      38 | 0x30D9      |       12505 |
 |      39 | 0x05F4      |        1524 |
 |      40 | 0x06F4      |        1780 |
-|      41 | 0x30D7      |       12503 |
+|      41 | 0x30DA      |       12506 |
 |      42 | 0x07F4      |        2036 |
 |      43 | 0x000A      |          10 |
-|      44 | 0x30DB      |       12507 |
+|      44 | 0x30DE      |       12510 |
 |      45 | 0x0200      |         512 |
 |      46 | 0x000B      |          11 |
 |      47 | 0x0BF4      |        3060 |
-|      48 | 0x30D9      |       12505 |
+|      48 | 0x30DC      |       12508 |
 |      49 | 0x08F4      |        2292 |
-|      50 | 0x30DC      |       12508 |
+|      50 | 0x30DF      |       12511 |
 |      51 | 0x09F4      |        2548 |
-|      52 | 0x30DA      |       12506 |
+|      52 | 0x30DD      |       12509 |
 |      53 | 0x0AF4      |        2804 |
 |      54 | 0x000E      |          14 |
 |      55 | 0x00F3      |         243 |
-|      56 | 0x30B9      |       12473 |
-|      57 | 0x30BA      |       12474 |
+|      56 | 0x30BC      |       12476 |
+|      57 | 0x30BD      |       12477 |
 |      58 | 0x0101      |         257 |
 |      59 | 0x0201      |         513 |
 |      60 | 0x0301      |         769 |
 |      61 | 0x03E8      |        1000 |
 |      62 | 0x00FE      |         254 |
-|      63 | 0x30BC      |       12476 |
+|      63 | 0x30BF      |       12479 |
 |      64 | 0x00FD      |         253 |
-|      65 | 0x30BE      |       12478 |
+|      65 | 0x30C1      |       12481 |
 |      66 | 0x01FC      |         508 |
 |      67 | 0x02FC      |         764 |
 |      68 | 0x00FB      |         251 |
-|      69 | 0x30BF      |       12479 |
-|      70 | 0x30C0      |       12480 |
+|      69 | 0x30C2      |       12482 |
+|      70 | 0x30C3      |       12483 |
 |      71 | 0x00FA      |         250 |
 |      72 | 0x0015      |          21 |
 |      73 | 0x0016      |          22 |
 |      74 | 0x001A      |          26 |
 |      75 | 0x001D      |          29 |
-|      76 | 0x30C1      |       12481 |
+|      76 | 0x30C4      |       12484 |
 |      77 | 0x00F8      |         248 |
 |      78 | 0x7FFFFFFE  |  2147483646 |
-|      79 | 0x30C2      |       12482 |
+|      79 | 0x30C5      |       12485 |
 |      80 | 0x00F9      |         249 |
 |      81 | 0x00F7      |         247 |
 |      82 | 0x00ED      |         237 |
-|      83 | 0x30B8      |       12472 |
+|      83 | 0x30BB      |       12475 |
 |      84 | 0xFFFF      |       65535 |
 |      85 | 0x00EE      |         238 |
 |      86 | 0x00EF      |         239 |
@@ -198,24 +198,24 @@
 
 ## String References
 
-- **12471**: What do you want to do? [Change value./Unregister 'bo./Default./Create documentation./Change PVP values./Quit.]
-- **12472**: Change which values? [Indv. Win Points: $0./No. of entries: $1./No. of victories: $2./Reset re-race timer./Reset userwork./Quit.]
-- **12473**: What do you want to change? [Branch [None/San/Bas/Win]./Chocobucks: $1./Cleared Stages: $2./Stage Challenge Flag: [off/on]./Practice Times: $4./Stock Item./Jockey Orders: [Sprint/Keep pace/Final spurt]./Equipment: $6./Chocobo Data./Nothing.]
-- **12474**: Set to where? [San d'Oria./Bastok./Windurst./Quit.]
-- **12476**: How many stages cleared? [None./1."."./4./5./6./7./8.(act2start)/9./10./11./12./13./14./Quit.]
-- **12478**: Stage Challenge FlagF[ON/OFF] [ON (Can't challenge)./OFF (Can challenge)./Quit.]
-- **12479**: Select a stock item. [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit.]
-- **12480**: Currently in possession: [No/Yes]. [[Get?/Toss?]/Quit.]
-- **12481**: Select Order: [Sprint./Keep pace./Final spurt./Quit.]
-- **12482**: Now: $31. [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit.]
-- **12501**: Adjust what? [Strength: $0/Endurance: $1/Discernment: $2/Receptivity: $3/Head: [Normal/Big]/Legs: [Normal/Big]/Tail: [Normal/Big]/Ability 1: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]/Ability 2: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]/Personality: [regular/fierce/patient/nervous/mysterious]/Waether: [Clear/Fire/Rain/Dust/Wind/Snow/Lightning/Light/Dark/--/Cloudy]/Sex: [$9/$10]/Color: [Yellow/Black/Blue/Red/Green]/Size: [Hume$9/Hume$10/Elvaan$9/Elvaan$10/Tarutaru$9/Tarutaru$10/Mithra/Galka]/Create Registration./Quit.]
-- **12502**: Which?iNow:[None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]) [None./Gallop./Canter./Burrow./Bore./Auto-Regen./Treasure Finder./Quit.]
-- **12503**: Which?iNow: [regular/fierce/patient/nervous/mysterious]) [Regular./Fierce./Patient./Nervous./Mysterious./Quit.]
-- **12504**: Which type?iNow: [Normal/Special]) [Normal./Special./Quit.]
-- **12505**: Which?iNow: [$9/$10]) [$9./$10./Quit.]
-- **12506**: Which? (Now:[Hume$9/Hume$10/Elvaan$9/Elvaan$10/Tarutaru$9/Tarutaru$10/Mithra/Galka]) [Hume$9./Hume$10./Elvaan$9./Elvaan$10./Tarutaru$9./Tarutaru$10./Mithra./Galka./Quit.]
-- **12507**: Which? (Now: [Clear/Fire/Rain/Dust/Wind/Snow/Lightning/Light/Dark/--/Cloudy]) [Clear./Fire./Snow./Wind./Sand./Lightning./Rain./Aurora./Darkness./ /Cloudy./Quit.]
-- **12508**: Which? (Now: [Yellow/Black/Blue/Red/Green]) [Yellow./Black./Blue./Red./Green./Quit.]
+- **12474**: What do you want to do? [Change value./Unregister 'bo./Default./Create documentation./Change PVP values./Quit.]
+- **12475**: Change which values? [Indv. Win Points: $0./No. of entries: $1./No. of victories: $2./Reset re-race timer./Reset userwork./Quit.]
+- **12476**: What do you want to change? [Branch [None/San/Bas/Win]./Chocobucks: $1./Cleared Stages: $2./Stage Challenge Flag: [off/on]./Practice Times: $4./Stock Item./Jockey Orders: [Sprint/Keep pace/Final spurt]./Equipment: $6./Chocobo Data./Nothing.]
+- **12477**: Set to where? [San d'Oria./Bastok./Windurst./Quit.]
+- **12479**: How many stages cleared? [None./1."."./4./5./6./7./8.(act2start)/9./10./11./12./13./14./Quit.]
+- **12481**: Stage Challenge FlagF[ON/OFF] [ON (Can't challenge)./OFF (Can challenge)./Quit.]
+- **12482**: Select a stock item. [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit.]
+- **12483**: Currently in possession: [No/Yes]. [[Get?/Toss?]/Quit.]
+- **12484**: Select Order: [Sprint./Keep pace./Final spurt./Quit.]
+- **12485**: Now: $31. [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit.]
+- **12504**: Adjust what? [Strength: $0/Endurance: $1/Discernment: $2/Receptivity: $3/Head: [Normal/Big]/Legs: [Normal/Big]/Tail: [Normal/Big]/Ability 1: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]/Ability 2: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]/Personality: [regular/fierce/patient/nervous/mysterious]/Waether: [Clear/Fire/Rain/Dust/Wind/Snow/Lightning/Light/Dark/--/Cloudy]/Sex: [$9/$10]/Color: [Yellow/Black/Blue/Red/Green]/Size: [Hume$9/Hume$10/Elvaan$9/Elvaan$10/Tarutaru$9/Tarutaru$10/Mithra/Galka]/Create Registration./Quit.]
+- **12505**: Which?iNow:[None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]) [None./Gallop./Canter./Burrow./Bore./Auto-Regen./Treasure Finder./Quit.]
+- **12506**: Which?iNow: [regular/fierce/patient/nervous/mysterious]) [Regular./Fierce./Patient./Nervous./Mysterious./Quit.]
+- **12507**: Which type?iNow: [Normal/Special]) [Normal./Special./Quit.]
+- **12508**: Which?iNow: [$9/$10]) [$9./$10./Quit.]
+- **12509**: Which? (Now:[Hume$9/Hume$10/Elvaan$9/Elvaan$10/Tarutaru$9/Tarutaru$10/Mithra/Galka]) [Hume$9./Hume$10./Elvaan$9./Elvaan$10./Tarutaru$9./Tarutaru$10./Mithra./Galka./Quit.]
+- **12510**: Which? (Now: [Clear/Fire/Rain/Dust/Wind/Snow/Lightning/Light/Dark/--/Cloudy]) [Clear./Fire./Snow./Wind./Sand./Lightning./Rain./Aurora./Darkness./ /Cloudy./Quit.]
+- **12511**: Which? (Now: [Yellow/Black/Blue/Red/Green]) [Yellow./Black./Blue./Red./Green./Quit.]
 
 ## Events
 
@@ -517,7 +517,7 @@
 ```
   0: 0x0001 [0x02] IF !(1* == 1*) GOTO 0x0060
   1: 0x0009 [0x1A] CALL_SUBROUTINE(address=0x0062)
-  2: 0x000C [0x24] CREATE_DIALOG(message_id=12471*, default_option=0*, option_flags=0*)
+  2: 0x000C [0x24] CREATE_DIALOG(message_id=12474*, default_option=0*, option_flags=0*)
     → "What do you want to do? [Change value./Unregister 'bo./Default./Create documentation./Change PVP values./Quit.]"
   3: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0022
@@ -590,7 +590,7 @@ SUBROUTINE_00E7:
  63: 0x0155 [0x41] Work_Zone_1700[3] = ExtData[1]->WorkLocal[15] (bits 24*-24*)
  64: 0x015E [0x41] Work_Zone_1700[4] = ExtData[1]->WorkLocal[15] (bits 25*-27*)
  65: 0x0167 [0x41] Work_Zone_1700[5] = ExtData[1]->WorkLocal[15] (bits 28*-30*)
- 66: 0x0170 [0x24] CREATE_DIALOG(message_id=12501*, default_option=0*, option_flags=0*)
+ 66: 0x0170 [0x24] CREATE_DIALOG(message_id=12504*, default_option=0*, option_flags=0*)
     → "Adjust what? [Strength: $0/Endurance: $1/Discernment: $2/Receptivity: $3/Head: [Normal/Big]/Legs: [Normal/Big]/Tail: [Normal/Big]/Ability 1: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]/Ability 2: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]/Personality: [regular/fierce/patient/nervous/mysterious]/Waether: [Clear/Fire/Rain/Dust/Wind/Snow/Lightning/Light/Dark/--/Cloudy]/Sex: [$9/$10]/Color: [Yellow/Black/Blue/Red/Green]/Size: [Hume$9/Hume$10/Elvaan$9/Elvaan$10/Tarutaru$9/Tarutaru$10/Mithra/Galka]/Create Registration./Quit.]"
  67: 0x0177 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0178 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B7
@@ -651,7 +651,7 @@ SUBROUTINE_0271:
 115: 0x0271 [0x01] GOTO 0x058C
 116: 0x0274 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x02C6
 117: 0x027C [0x03] Work_Zone[2] = Work_Zone[6]
-118: 0x0281 [0x24] CREATE_DIALOG(message_id=12504*, default_option=0*, option_flags=0*)
+118: 0x0281 [0x24] CREATE_DIALOG(message_id=12507*, default_option=0*, option_flags=0*)
     → "Which type?iNow: [Normal/Special]) [Normal./Special./Quit.]"
 119: 0x0288 [0x25] WAIT_DIALOG_SELECT()
 120: 0x0289 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A6
@@ -671,7 +671,7 @@ SUBROUTINE_02C3:
 132: 0x02C3 [0x01] GOTO 0x058C
 133: 0x02C6 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0318
 134: 0x02CE [0x03] Work_Zone[2] = Work_Zone[7]
-135: 0x02D3 [0x24] CREATE_DIALOG(message_id=12504*, default_option=0*, option_flags=0*)
+135: 0x02D3 [0x24] CREATE_DIALOG(message_id=12507*, default_option=0*, option_flags=0*)
     → "Which type?iNow: [Normal/Special]) [Normal./Special./Quit.]"
 136: 0x02DA [0x25] WAIT_DIALOG_SELECT()
 137: 0x02DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F8
@@ -691,7 +691,7 @@ SUBROUTINE_0315:
 149: 0x0315 [0x01] GOTO 0x058C
 150: 0x0318 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x036A
 151: 0x0320 [0x03] Work_Zone[2] = Work_Zone[8]
-152: 0x0325 [0x24] CREATE_DIALOG(message_id=12504*, default_option=0*, option_flags=0*)
+152: 0x0325 [0x24] CREATE_DIALOG(message_id=12507*, default_option=0*, option_flags=0*)
     → "Which type?iNow: [Normal/Special]) [Normal./Special./Quit.]"
 153: 0x032C [0x25] WAIT_DIALOG_SELECT()
 154: 0x032D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x034A
@@ -711,7 +711,7 @@ SUBROUTINE_0367:
 166: 0x0367 [0x01] GOTO 0x058C
 167: 0x036A [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x039F
 168: 0x0372 [0x03] Work_Zone[2] = Work_Zone[9]
-169: 0x0377 [0x24] CREATE_DIALOG(message_id=12502*, default_option=0*, option_flags=0*)
+169: 0x0377 [0x24] CREATE_DIALOG(message_id=12505*, default_option=0*, option_flags=0*)
     → "Which?iNow:[None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]) [None./Gallop./Canter./Burrow./Bore./Auto-Regen./Treasure Finder./Quit.]"
 170: 0x037E [0x25] WAIT_DIALOG_SELECT()
 171: 0x037F [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x038A
@@ -725,7 +725,7 @@ SUBROUTINE_039C:
 177: 0x039C [0x01] GOTO 0x058C
 178: 0x039F [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x03D4
 179: 0x03A7 [0x03] Work_Zone[2] = Work_Zone_1700[0]
-180: 0x03AC [0x24] CREATE_DIALOG(message_id=12502*, default_option=0*, option_flags=0*)
+180: 0x03AC [0x24] CREATE_DIALOG(message_id=12505*, default_option=0*, option_flags=0*)
     → "Which?iNow:[None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder]) [None./Gallop./Canter./Burrow./Bore./Auto-Regen./Treasure Finder./Quit.]"
 181: 0x03B3 [0x25] WAIT_DIALOG_SELECT()
 182: 0x03B4 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x03BF
@@ -739,7 +739,7 @@ SUBROUTINE_03D1:
 188: 0x03D1 [0x01] GOTO 0x058C
 189: 0x03D4 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0409
 190: 0x03DC [0x03] Work_Zone[2] = Work_Zone_1700[1]
-191: 0x03E1 [0x24] CREATE_DIALOG(message_id=12503*, default_option=0*, option_flags=0*)
+191: 0x03E1 [0x24] CREATE_DIALOG(message_id=12506*, default_option=0*, option_flags=0*)
     → "Which?iNow: [regular/fierce/patient/nervous/mysterious]) [Regular./Fierce./Patient./Nervous./Mysterious./Quit.]"
 192: 0x03E8 [0x25] WAIT_DIALOG_SELECT()
 193: 0x03E9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x03F4
@@ -753,7 +753,7 @@ SUBROUTINE_0406:
 199: 0x0406 [0x01] GOTO 0x058C
 200: 0x0409 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x04DE
 201: 0x0411 [0x03] Work_Zone[2] = Work_Zone_1700[2]
-202: 0x0416 [0x24] CREATE_DIALOG(message_id=12507*, default_option=0*, option_flags=512*)
+202: 0x0416 [0x24] CREATE_DIALOG(message_id=12510*, default_option=0*, option_flags=512*)
     → "Which? (Now: [Clear/Fire/Rain/Dust/Wind/Snow/Lightning/Light/Dark/--/Cloudy]) [Clear./Fire./Snow./Wind./Sand./Lightning./Rain./Aurora./Darkness./ /Cloudy./Quit.]"
 203: 0x041D [0x25] WAIT_DIALOG_SELECT()
 204: 0x041E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x042E
@@ -797,7 +797,7 @@ SUBROUTINE_04DB:
 240: 0x04DB [0x01] GOTO 0x058C
 241: 0x04DE [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0513
 242: 0x04E6 [0x03] Work_Zone[2] = Work_Zone_1700[3]
-243: 0x04EB [0x24] CREATE_DIALOG(message_id=12505*, default_option=0*, option_flags=0*)
+243: 0x04EB [0x24] CREATE_DIALOG(message_id=12508*, default_option=0*, option_flags=0*)
     → "Which?iNow: [$9/$10]) [$9./$10./Quit.]"
 244: 0x04F2 [0x25] WAIT_DIALOG_SELECT()
 245: 0x04F3 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x04FE
@@ -811,7 +811,7 @@ SUBROUTINE_0510:
 251: 0x0510 [0x01] GOTO 0x058C
 252: 0x0513 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0548
 253: 0x051B [0x03] Work_Zone[2] = Work_Zone_1700[4]
-254: 0x0520 [0x24] CREATE_DIALOG(message_id=12508*, default_option=0*, option_flags=0*)
+254: 0x0520 [0x24] CREATE_DIALOG(message_id=12511*, default_option=0*, option_flags=0*)
     → "Which? (Now: [Yellow/Black/Blue/Red/Green]) [Yellow./Black./Blue./Red./Green./Quit.]"
 255: 0x0527 [0x25] WAIT_DIALOG_SELECT()
 256: 0x0528 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0533
@@ -825,7 +825,7 @@ SUBROUTINE_0545:
 262: 0x0545 [0x01] GOTO 0x058C
 263: 0x0548 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x057D
 264: 0x0550 [0x03] Work_Zone[2] = Work_Zone_1700[5]
-265: 0x0555 [0x24] CREATE_DIALOG(message_id=12506*, default_option=0*, option_flags=0*)
+265: 0x0555 [0x24] CREATE_DIALOG(message_id=12509*, default_option=0*, option_flags=0*)
     → "Which? (Now:[Hume$9/Hume$10/Elvaan$9/Elvaan$10/Tarutaru$9/Tarutaru$10/Mithra/Galka]) [Hume$9./Hume$10./Elvaan$9./Elvaan$10./Tarutaru$9./Tarutaru$10./Mithra./Galka./Quit.]"
 266: 0x055C [0x25] WAIT_DIALOG_SELECT()
 267: 0x055D [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0568
@@ -862,7 +862,7 @@ SUBROUTINE_059A:
 290: 0x05B9 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[5]
 291: 0x05BE [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[7]
 292: 0x05C3 [0x9D] Work_Zone[8] = 0x0EC9[ExtData[1]->WorkLocal[8]] // Read WORD
-293: 0x05CB [0x24] CREATE_DIALOG(message_id=12473*, default_option=0*, option_flags=0*)
+293: 0x05CB [0x24] CREATE_DIALOG(message_id=12476*, default_option=0*, option_flags=0*)
     → "What do you want to change? [Branch [None/San/Bas/Win]./Chocobucks: $1./Cleared Stages: $2./Stage Challenge Flag: [off/on]./Practice Times: $4./Stock Item./Jockey Orders: [Sprint/Keep pace/Final spurt]./Equipment: $6./Chocobo Data./Nothing.]"
 294: 0x05D2 [0x25] WAIT_DIALOG_SELECT()
 295: 0x05D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05E1
@@ -902,7 +902,7 @@ SUBROUTINE_0656:
 325: 0x0656 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 326: 0x065B [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x0668
 327: 0x0663 [0x08] Work_Zone[2] -= 1*
-328: 0x0668 [0x24] CREATE_DIALOG(message_id=12474*, default_option=Work_Zone[2], option_flags=0*)
+328: 0x0668 [0x24] CREATE_DIALOG(message_id=12477*, default_option=Work_Zone[2], option_flags=0*)
     → "Set to where? [San d'Oria./Bastok./Windurst./Quit.]"
 329: 0x066F [0x25] WAIT_DIALOG_SELECT()
 330: 0x0670 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0689
@@ -950,7 +950,7 @@ SUBROUTINE_06F6:
 364: 0x0701 [0x1B] RETURN
 
 SUBROUTINE_0702:
-365: 0x0702 [0x24] CREATE_DIALOG(message_id=12476*, default_option=0*, option_flags=0*)
+365: 0x0702 [0x24] CREATE_DIALOG(message_id=12479*, default_option=0*, option_flags=0*)
     → "How many stages cleared? [None./1."."./4./5./6./7./8.(act2start)/9./10./11./12./13./14./Quit.]"
 366: 0x0709 [0x25] WAIT_DIALOG_SELECT()
 367: 0x070A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0715
@@ -969,7 +969,7 @@ SUBROUTINE_0737:
 376: 0x0737 [0x1B] RETURN
 
 SUBROUTINE_0738:
-377: 0x0738 [0x24] CREATE_DIALOG(message_id=12478*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+377: 0x0738 [0x24] CREATE_DIALOG(message_id=12481*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Stage Challenge FlagF[ON/OFF] [ON (Can't challenge)./OFF (Can challenge)./Quit.]"
 378: 0x073F [0x25] WAIT_DIALOG_SELECT()
 379: 0x0740 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0754
@@ -1004,7 +1004,7 @@ SUBROUTINE_0796:
 400: 0x0796 [0x02] IF !(1* == 1*) GOTO 0x0809
 401: 0x079E [0x1A] CALL_SUBROUTINE(address=0x080A)
 402: 0x07A1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[31], bit_index_work_offset=0*, condition_work_offset=1*)
-403: 0x07A8 [0x24] CREATE_DIALOG(message_id=12479*, default_option=0*, option_flags=Work_Zone_1700[31])
+403: 0x07A8 [0x24] CREATE_DIALOG(message_id=12482*, default_option=0*, option_flags=Work_Zone_1700[31])
     → "Select a stock item. [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit.]"
 404: 0x07AF [0x25] WAIT_DIALOG_SELECT()
 405: 0x07B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07BB
@@ -1020,7 +1020,7 @@ SUBROUTINE_07C7:
 413: 0x07DB [0x06] Work_Zone[2] = 0
 
 SUBROUTINE_07DE:
-414: 0x07DE [0x24] CREATE_DIALOG(message_id=12480*, default_option=0*, option_flags=0*)
+414: 0x07DE [0x24] CREATE_DIALOG(message_id=12483*, default_option=0*, option_flags=0*)
     → "Currently in possession: [No/Yes]. [[Get?/Toss?]/Quit.]"
 415: 0x07E5 [0x25] WAIT_DIALOG_SELECT()
 416: 0x07E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0806
@@ -1131,7 +1131,7 @@ SUBROUTINE_080A:
 517: 0x0AC7 [0x1B] RETURN
 
 SUBROUTINE_0AC8:
-518: 0x0AC8 [0x24] CREATE_DIALOG(message_id=12481*, default_option=0*, option_flags=0*)
+518: 0x0AC8 [0x24] CREATE_DIALOG(message_id=12484*, default_option=0*, option_flags=0*)
     → "Select Order: [Sprint./Keep pace./Final spurt./Quit.]"
 519: 0x0ACF [0x25] WAIT_DIALOG_SELECT()
 520: 0x0AD0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AF2
@@ -1168,7 +1168,7 @@ SUBROUTINE_0B3A:
 545: 0x0B4A [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[6]
 546: 0x0B4F [0x0F] Work_Zone_1700[24] ^= 4294967295*
 547: 0x0B54 [0x0D] Work_Zone_1700[24] &= 2147483646*
-548: 0x0B59 [0x24] CREATE_DIALOG(message_id=12482*, default_option=0*, option_flags=Work_Zone_1700[24])
+548: 0x0B59 [0x24] CREATE_DIALOG(message_id=12485*, default_option=0*, option_flags=Work_Zone_1700[24])
     → "Now: $31. [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit.]"
 549: 0x0B60 [0x25] WAIT_DIALOG_SELECT()
 550: 0x0B61 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B6C
@@ -1204,7 +1204,7 @@ SUBROUTINE_0BA8:
 572: 0x0BB9 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[2]
 573: 0x0BBE [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[3]
 574: 0x0BC3 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[4]
-575: 0x0BC8 [0x24] CREATE_DIALOG(message_id=12472*, default_option=0*, option_flags=0*)
+575: 0x0BC8 [0x24] CREATE_DIALOG(message_id=12475*, default_option=0*, option_flags=0*)
     → "Change which values? [Indv. Win Points: $0./No. of entries: $1./No. of victories: $2./Reset re-race timer./Reset userwork./Quit.]"
 576: 0x0BCF [0x25] WAIT_DIALOG_SELECT()
 577: 0x0BD0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C14

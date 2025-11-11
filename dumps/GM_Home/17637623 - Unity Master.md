@@ -20,36 +20,36 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x23CE      |        9166 |
+|       0 | 0x23CF      |        9167 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x23CF      |        9167 |
+|       2 | 0x23D0      |        9168 |
 |       3 | 0x000A      |          10 |
 |       4 | 0x000B      |          11 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x0004      |           4 |
 |       8 | 0x0009      |           9 |
-|       9 | 0x23D0      |        9168 |
+|       9 | 0x23D1      |        9169 |
 |      10 | 0x000C      |          12 |
-|      11 | 0x23D1      |        9169 |
+|      11 | 0x23D2      |        9170 |
 |      12 | 0x0014      |          20 |
-|      13 | 0x23D2      |        9170 |
+|      13 | 0x23D3      |        9171 |
 |      14 | 0x001E      |          30 |
-|      15 | 0x23D3      |        9171 |
+|      15 | 0x23D4      |        9172 |
 |      16 | 0x0028      |          40 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x23D5      |        9173 |
+|      18 | 0x23D6      |        9174 |
 |      19 | 0x0008      |           8 |
 
 ## String References
 
-- **9166**: Check message. (Current: [No Unity/Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie]j [Designate message ID (current Unity only)/Random. (Last mesID: $5/$6/$7)/Change Unity./Nothing.]
-- **9167**: Display designated message (11-20) [1: Monday rank: First.": Monday rank: 2nd to 5th.": Monday Rank: 6th or worse./4: Monday Rank: Last./5: Tues.-Sat. Rank: First./6: Tues.-Sat. Rank: 2nd to 5th./7: Tues.-Sat. Rank: 6th or worse/8: Tues.-Sat. Rank: Last./9: Sunday rank: First./10: Sunday rank: 2nd to 5th./Next./Main menu.]
-- **9168**: Display designated message (11-20). [Back./11: Sunday rank: 6th or worse./12: Sunday rank: Last./13: (Reserve)./14: (Reserve)./15: (Reserve)./16: GMbit New Years'/17: GMbit Valentione/18: GMbit Doll Festival/19: GMbit Egg Hunt"0: GMbit Feast of Swords/Next./Main Menu.]
-- **9169**: Display designated message (21-30). [Back."1: GMbit Adv. Appreciation."2: GMbit Celestial Nights."3: GMbit Mumor."4: GMbit Blazing Buffaloes."5: GMbit Halloween."6: GMbit 11/11 Anniversary."7: GMbit Celestial Nights."8: GMbit Double Accolades."9: XI Anniversary."0: XI Anniversary Lottery./Next./Main Menu.]
-- **9170**: Display designated message (31-40). [Back."1: Chatter 1"2: Chatter 2"3: Chatter 3"4: Chatter 4"5: Chatter 5"6: Chatter 6"7: Chatter 7"8: Chatter 8"9: Chatter 9/40: Chatter 10/Next./Main menu.]
-- **9171**: Display designated message (41-50). [Back./41: (Reserve)./42: (Reserve)./43: (Reserve)./44: Escha RNM No. Vanquished./45: Escha RNM trash spawn./46: Escha RNM spawn prediction./47: Escha RNM spawn./48: Escha RNM HP info./49: Escha RNM despawn (vanquished)./50: Escha RNM despawn (failed)./Main Menu.]
-- **9173**: Change Unity. Current: [No Unity/Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie] [Back./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
+- **9167**: Check message. (Current: [No Unity/Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie]j [Designate message ID (current Unity only)/Random. (Last mesID: $5/$6/$7)/Change Unity./Nothing.]
+- **9168**: Display designated message (11-20) [1: Monday rank: First.": Monday rank: 2nd to 5th.": Monday Rank: 6th or worse./4: Monday Rank: Last./5: Tues.-Sat. Rank: First./6: Tues.-Sat. Rank: 2nd to 5th./7: Tues.-Sat. Rank: 6th or worse/8: Tues.-Sat. Rank: Last./9: Sunday rank: First./10: Sunday rank: 2nd to 5th./Next./Main menu.]
+- **9169**: Display designated message (11-20). [Back./11: Sunday rank: 6th or worse./12: Sunday rank: Last./13: (Reserve)./14: (Reserve)./15: (Reserve)./16: GMbit New Years'/17: GMbit Valentione/18: GMbit Doll Festival/19: GMbit Egg Hunt"0: GMbit Feast of Swords/Next./Main Menu.]
+- **9170**: Display designated message (21-30). [Back."1: GMbit Adv. Appreciation."2: GMbit Celestial Nights."3: GMbit Mumor."4: GMbit Blazing Buffaloes."5: GMbit Halloween."6: GMbit 11/11 Anniversary."7: GMbit Celestial Nights."8: GMbit Double Accolades."9: XI Anniversary."0: XI Anniversary Lottery./Next./Main Menu.]
+- **9171**: Display designated message (31-40). [Back."1: Chatter 1"2: Chatter 2"3: Chatter 3"4: Chatter 4"5: Chatter 5"6: Chatter 6"7: Chatter 7"8: Chatter 8"9: Chatter 9/40: Chatter 10/Next./Main menu.]
+- **9172**: Display designated message (41-50). [Back./41: (Reserve)./42: (Reserve)./43: (Reserve)./44: Escha RNM No. Vanquished./45: Escha RNM trash spawn./46: Escha RNM spawn prediction./47: Escha RNM spawn./48: Escha RNM HP info./49: Escha RNM despawn (vanquished)./50: Escha RNM despawn (failed)./Main Menu.]
+- **9174**: Change Unity. Current: [No Unity/Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie] [Back./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
 
 ## Events
 
@@ -138,14 +138,14 @@
   2: 0x0007 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   3: 0x000C [0x06] Work_Zone[1] = 0
   4: 0x000F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-  5: 0x0014 [0x24] CREATE_DIALOG(message_id=9166*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+  5: 0x0014 [0x24] CREATE_DIALOG(message_id=9167*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "Check message. (Current: [No Unity/Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie]j [Designate message ID (current Unity only)/Random. (Last mesID: $5/$6/$7)/Change Unity./Nothing.]"
   6: 0x001B [0x25] WAIT_DIALOG_SELECT()
   7: 0x001C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F0
   8: 0x0024 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
   9: 0x0029 [0x06] ExtData[1]->WorkLocal[2] = 0
  10: 0x002C [0x06] ExtData[1]->WorkLocal[4] = 0
- 11: 0x002F [0x24] CREATE_DIALOG(message_id=9167*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
+ 11: 0x002F [0x24] CREATE_DIALOG(message_id=9168*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
     → "Display designated message (11-20) [1: Monday rank: First.": Monday rank: 2nd to 5th.": Monday Rank: 6th or worse./4: Monday Rank: Last./5: Tues.-Sat. Rank: First./6: Tues.-Sat. Rank: 2nd to 5th./7: Tues.-Sat. Rank: 6th or worse/8: Tues.-Sat. Rank: Last./9: Sunday rank: First./10: Sunday rank: 2nd to 5th./Next./Main menu.]"
  12: 0x0036 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0037 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0048
@@ -153,7 +153,7 @@
  15: 0x0042 [0x01] GOTO 0x007E
 
 SUBROUTINE_007E:
- 16: 0x007E [0x24] CREATE_DIALOG(message_id=9168*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
+ 16: 0x007E [0x24] CREATE_DIALOG(message_id=9169*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
     → "Display designated message (11-20). [Back./11: Sunday rank: 6th or worse./12: Sunday rank: Last./13: (Reserve)./14: (Reserve)./15: (Reserve)./16: GMbit New Years'/17: GMbit Valentione/18: GMbit Doll Festival/19: GMbit Egg Hunt"0: GMbit Feast of Swords/Next./Main Menu.]"
  17: 0x0085 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0086 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0097
@@ -161,7 +161,7 @@ SUBROUTINE_007E:
  20: 0x0091 [0x01] GOTO 0x002F
 
 SUBROUTINE_00DE:
- 21: 0x00DE [0x24] CREATE_DIALOG(message_id=9169*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
+ 21: 0x00DE [0x24] CREATE_DIALOG(message_id=9170*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
     → "Display designated message (21-30). [Back."1: GMbit Adv. Appreciation."2: GMbit Celestial Nights."3: GMbit Mumor."4: GMbit Blazing Buffaloes."5: GMbit Halloween."6: GMbit 11/11 Anniversary."7: GMbit Celestial Nights."8: GMbit Double Accolades."9: XI Anniversary."0: XI Anniversary Lottery./Next./Main Menu.]"
  22: 0x00E5 [0x25] WAIT_DIALOG_SELECT()
  23: 0x00E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F7
@@ -169,7 +169,7 @@ SUBROUTINE_00DE:
  25: 0x00F1 [0x01] GOTO 0x007E
 
 SUBROUTINE_013E:
- 26: 0x013E [0x24] CREATE_DIALOG(message_id=9170*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
+ 26: 0x013E [0x24] CREATE_DIALOG(message_id=9171*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
     → "Display designated message (31-40). [Back."1: Chatter 1"2: Chatter 2"3: Chatter 3"4: Chatter 4"5: Chatter 5"6: Chatter 6"7: Chatter 7"8: Chatter 8"9: Chatter 9/40: Chatter 10/Next./Main menu.]"
  27: 0x0145 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0146 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0157
@@ -177,7 +177,7 @@ SUBROUTINE_013E:
  30: 0x0151 [0x01] GOTO 0x00DE
 
 SUBROUTINE_019E:
- 31: 0x019E [0x24] CREATE_DIALOG(message_id=9171*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
+ 31: 0x019E [0x24] CREATE_DIALOG(message_id=9172*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
     → "Display designated message (41-50). [Back./41: (Reserve)./42: (Reserve)./43: (Reserve)./44: Escha RNM No. Vanquished./45: Escha RNM trash spawn./46: Escha RNM spawn prediction./47: Escha RNM spawn./48: Escha RNM HP info./49: Escha RNM despawn (vanquished)./50: Escha RNM despawn (failed)./Main Menu.]"
  32: 0x01A5 [0x25] WAIT_DIALOG_SELECT()
  33: 0x01A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B7

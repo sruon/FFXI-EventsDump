@@ -29,17 +29,17 @@
 |       6 | 0x0006      |           6 |
 |       7 | 0x0007      |           7 |
 |       8 | 0x0008      |           8 |
-|       9 | 0x2DDF      |       11743 |
+|       9 | 0x2DE0      |       11744 |
 |      10 | 0x40000000  |  1073741824 |
 |      11 | 0x0009      |           9 |
 |      12 | 0x000A      |          10 |
-|      13 | 0x2DBD      |       11709 |
-|      14 | 0x2DE0      |       11744 |
+|      13 | 0x2DBE      |       11710 |
+|      14 | 0x2DE1      |       11745 |
 |      15 | 0x000F      |          15 |
 |      16 | 0x0010      |          16 |
 |      17 | 0x001F      |          31 |
-|      18 | 0x2DE1      |       11745 |
-|      19 | 0x2DC3      |       11715 |
+|      18 | 0x2DE2      |       11746 |
+|      19 | 0x2DC4      |       11716 |
 |      20 | 0x2E50      |       11856 |
 |      21 | 0x2E51      |       11857 |
 |      22 | 0x2E4F      |       11855 |
@@ -56,11 +56,11 @@
 
 ## String References
 
-- **11709**: Obtain this item?
-- **11715**: Relinquish all reward items? [Yes, relinquish./On second thought...]
-- **11743**: Which item will you obtain? [None of them./[/$0./$1./$2./$3./$4./$5./$6./$7./Relinquish all./Obtain all.]
-- **11744**: Obtain the $0? [Yes./No./Obtain as pulse cell.]
-- **11745**: One or more of the items you are about to obtain can be converted into pulse cells.
+- **11710**: Obtain this item?
+- **11716**: Relinquish all reward items? [Yes, relinquish./On second thought...]
+- **11744**: Which item will you obtain? [None of them./[/$0./$1./$2./$3./$4./$5./$6./$7./Relinquish all./Obtain all.]
+- **11745**: Obtain the $0? [Yes./No./Obtain as pulse cell.]
+- **11746**: One or more of the items you are about to obtain can be converted into pulse cells.
 
 ## Events
 
@@ -268,7 +268,7 @@
  81: 0x01DE [0x03] Work_Zone_1700[0] = 0*
 
 SUBROUTINE_01E3:
- 82: 0x01E3 [0x24] CREATE_DIALOG(message_id=11743*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+ 82: 0x01E3 [0x24] CREATE_DIALOG(message_id=11744*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Which item will you obtain? [None of them./[/$0./$1./$2./$3./$4./$5./$6./$7./Relinquish all./Obtain all.]"
  83: 0x01EA [0x25] WAIT_DIALOG_SELECT()
  84: 0x01EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FE
@@ -322,7 +322,7 @@ SUBROUTINE_02D0:
 130: 0x02E0 [0x02] IF !(Work_Zone[0] > 8*) GOTO 0x036B
 131: 0x02E8 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x036B
 132: 0x02F0 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[3])
-133: 0x02F3 [0x48] [System] [11709*]:
+133: 0x02F3 [0x48] [System] [11710*]:
     → "Obtain this item?"
 134: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x02F7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -335,7 +335,7 @@ SUBROUTINE_02D0:
 142: 0x031E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[14], bit_index_work_offset=2*, condition_work_offset=1*)
 
 SUBROUTINE_0325:
-143: 0x0325 [0x24] CREATE_DIALOG(message_id=11744*, default_option=1*, option_flags=ExtData[1]->WorkLocal[14])
+143: 0x0325 [0x24] CREATE_DIALOG(message_id=11745*, default_option=1*, option_flags=ExtData[1]->WorkLocal[14])
     → "Obtain the $0? [Yes./No./Obtain as pulse cell.]"
 144: 0x032C [0x25] WAIT_DIALOG_SELECT()
 145: 0x032D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0340
@@ -359,16 +359,16 @@ SUBROUTINE_036B:
 161: 0x0389 [0x06] ExtData[1]->WorkLocal[4] = 0
 162: 0x038C [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[2]
 163: 0x0391 [0x01] GOTO 0x03ED
-164: 0x0394 [0x48] [System] [11745*]:
+164: 0x0394 [0x48] [System] [11746*]:
     → "One or more of the items you are about to obtain can be converted into pulse cells."
 165: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0398 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[6])
-167: 0x039B [0x48] [System] [11709*]:
+167: 0x039B [0x48] [System] [11710*]:
     → "Obtain this item?"
 168: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x039F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 170: 0x03A2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-171: 0x03A7 [0x24] CREATE_DIALOG(message_id=11744*, default_option=1*, option_flags=0*)
+171: 0x03A7 [0x24] CREATE_DIALOG(message_id=11745*, default_option=1*, option_flags=0*)
     → "Obtain the $0? [Yes./No./Obtain as pulse cell.]"
 172: 0x03AE [0x25] WAIT_DIALOG_SELECT()
 173: 0x03AF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03C2
@@ -386,7 +386,7 @@ SUBROUTINE_036B:
 SUBROUTINE_03ED:
 184: 0x03ED [0x01] GOTO 0x041E
 185: 0x03F0 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x041E
-186: 0x03F8 [0x24] CREATE_DIALOG(message_id=11715*, default_option=1*, option_flags=0*)
+186: 0x03F8 [0x24] CREATE_DIALOG(message_id=11716*, default_option=1*, option_flags=0*)
     → "Relinquish all reward items? [Yes, relinquish./On second thought...]"
 187: 0x03FF [0x25] WAIT_DIALOG_SELECT()
 188: 0x0400 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0413

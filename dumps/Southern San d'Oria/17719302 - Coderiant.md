@@ -31,14 +31,14 @@
 |       8 | 0x0001      |           1 |
 |       9 | 0x0EAC      |        3756 |
 |      10 | 0x2014      |        8212 |
-|      11 | 0x2ECA      |       11978 |
+|      11 | 0x2ECD      |       11981 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x2EDD      |       11997 |
+|      13 | 0x2EE0      |       12000 |
 |      14 | 0x0015      |          21 |
-|      15 | 0x2EDE      |       11998 |
-|      16 | 0x2EDF      |       11999 |
-|      17 | 0x2EF5      |       12021 |
-|      18 | 0x2EF6      |       12022 |
+|      15 | 0x2EE1      |       12001 |
+|      16 | 0x2EE2      |       12002 |
+|      17 | 0x2EF8      |       12024 |
+|      18 | 0x2EF9      |       12025 |
 
 ## String References
 
@@ -46,12 +46,12 @@
 - **8210**: Which way are you going? [Left./Right.]
 - **8211**: There on Pikeman's Way you can find a grocer, sundries and the Tanners' Guild. At the end lies the mansion of Count Caffaule.
 - **8212**: Go up those stairs for Watchdog Alley. Homes of townsfolk line the street.
-- **11978**: Ask if this person is the chick's owner? [Yes./No.]
-- **11997**: You have my chocobo?
-- **11998**: My family was opposed to having a chocobo as a pet, so I raised her in secret. But one day, they found her... I...I had to let her go...
-- **11999**: There must be a way for chocobos and people to live together in peace! Here, let me teach you a story I often tell my chocobo...
-- **12021**: You say you have my chocobo?
-- **12022**: Although I have always granted my chocobo a measure of independence, I do give her proper care. You must be mistaken.
+- **11981**: Ask if this person is the chick's owner? [Yes./No.]
+- **12000**: You have my chocobo?
+- **12001**: My family was opposed to having a chocobo as a pet, so I raised her in secret. But one day, they found her... I...I had to let her go...
+- **12002**: There must be a way for chocobos and people to live together in peace! Here, let me teach you a story I often tell my chocobo...
+- **12024**: You say you have my chocobo?
+- **12025**: Although I have always granted my chocobo a measure of independence, I do give her proper care. You must be mistaken.
 
 ## Events
 
@@ -161,7 +161,7 @@ SUBROUTINE_00AF:
  36: 0x00C0 [0x03] Work_Zone[1] = 0*
  37: 0x00C5 [0x01] GOTO 0x0149
  38: 0x00C8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 39: 0x00C9 [0x24] CREATE_DIALOG(message_id=11978*, default_option=1*, option_flags=0*)
+ 39: 0x00C9 [0x24] CREATE_DIALOG(message_id=11981*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  40: 0x00D0 [0x25] WAIT_DIALOG_SELECT()
  41: 0x00D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0139
@@ -171,23 +171,23 @@ SUBROUTINE_00AF:
  45: 0x00E6 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  46: 0x00E8 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  47: 0x00EA [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x011F
- 48: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11997*)
+ 48: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12000*)
     → "You have my chocobo?"
  49: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x00F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=21*
- 51: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=11998*)
+ 51: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=12001*)
     → "My family was opposed to having a chocobo as a pet, so I raised her in secret. But one day, they found her... I...I had to let her go..."
  52: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0109 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 54: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=11999*)
+ 54: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=12002*)
     → "There must be a way for chocobos and people to live together in peace! Here, let me teach you a story I often tell my chocobo..."
  55: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x011C [0x01] GOTO 0x0136
- 57: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 57: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=12024*)
     → "You say you have my chocobo?"
  58: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0123 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 60: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
+ 60: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
     → "Although I have always granted my chocobo a measure of independence, I do give her proper care. You must be mistaken."
  61: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

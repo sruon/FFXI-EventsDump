@@ -230,12 +230,12 @@
 |     122 | 0x2608      |        9736 |
 |     123 | 0x2609      |        9737 |
 |     124 | 0x260A      |        9738 |
-|     125 | 0x2E60      |       11872 |
-|     126 | 0x2E79      |       11897 |
-|     127 | 0x2E7A      |       11898 |
-|     128 | 0x2E7B      |       11899 |
-|     129 | 0x2E8F      |       11919 |
-|     130 | 0x2E90      |       11920 |
+|     125 | 0x2E63      |       11875 |
+|     126 | 0x2E7C      |       11900 |
+|     127 | 0x2E7D      |       11901 |
+|     128 | 0x2E7E      |       11902 |
+|     129 | 0x2E92      |       11922 |
+|     130 | 0x2E93      |       11923 |
 
 ## String References
 
@@ -328,12 +328,12 @@
 - **9736**: Where did I go wrong? All my calculations and adjustments were spot on. Even Minister Apururu said the craftsmanship was perfectaru.
 - **9737**: I can'taru let a little hiccup like this stand in the way of my impending fortune! I'll just keep giving the All-New C-3000s more $1 and $2 until they get it right!
 - **9738**: Keep on bringing me those items! This is going to work, I can feel it!
-- **11872**: Ask if this person is the chick's owner? [Yes./No.]
-- **11897**: What? You've got my chocobo!?
-- **11898**: You know, looking at these lifeless Cardians all the time makes me yearn for flesh-and-blood companionship all the more.
-- **11899**: You're raising a chocobo too, right? Let me teach you a story to show my gratitude...
-- **11919**: You've got my chocobo?
-- **11920**: Whenever I take my chocobo on a walk, I also bring along a Cardian to make sure nobody gets lost! I'm afraid you've got the wrong guy.
+- **11875**: Ask if this person is the chick's owner? [Yes./No.]
+- **11900**: What? You've got my chocobo!?
+- **11901**: You know, looking at these lifeless Cardians all the time makes me yearn for flesh-and-blood companionship all the more.
+- **11902**: You're raising a chocobo too, right? Let me teach you a story to show my gratitude...
+- **11922**: You've got my chocobo?
+- **11923**: Whenever I take my chocobo on a walk, I also bring along a Cardian to make sure nobody gets lost! I'm afraid you've got the wrong guy.
 
 ## Events
 
@@ -3297,7 +3297,7 @@ SUBROUTINE_0D7A:
  27: 0x0D8B [0x03] Work_Zone[1] = 2*
  28: 0x0D90 [0x01] GOTO 0x0E14
  29: 0x0D93 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 30: 0x0D94 [0x24] CREATE_DIALOG(message_id=11872*, default_option=1*, option_flags=0*)
+ 30: 0x0D94 [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  31: 0x0D9B [0x25] WAIT_DIALOG_SELECT()
  32: 0x0D9C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E04
@@ -3307,23 +3307,23 @@ SUBROUTINE_0D7A:
  36: 0x0DB1 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  37: 0x0DB3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  38: 0x0DB5 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0DEA
- 39: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=11897*)
+ 39: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=11900*)
     → "What? You've got my chocobo!?"
  40: 0x0DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0DC1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 42: 0x0DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11898*)
+ 42: 0x0DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11901*)
     → "You know, looking at these lifeless Cardians all the time makes me yearn for flesh-and-blood companionship all the more."
  43: 0x0DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0DD4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
- 45: 0x0DE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11899*)
+ 45: 0x0DE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11902*)
     → "You're raising a chocobo too, right? Let me teach you a story to show my gratitude..."
  46: 0x0DE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0DE7 [0x01] GOTO 0x0E01
- 48: 0x0DEA [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
+ 48: 0x0DEA [0x1D] PRINT_EVENT_MESSAGE(message_id=11922*)
     → "You've got my chocobo?"
  49: 0x0DED [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0DEE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 51: 0x0DFD [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+ 51: 0x0DFD [0x1D] PRINT_EVENT_MESSAGE(message_id=11923*)
     → "Whenever I take my chocobo on a walk, I also bring along a Cardian to make sure nobody gets lost! I'm afraid you've got the wrong guy."
  52: 0x0E00 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

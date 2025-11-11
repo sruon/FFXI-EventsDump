@@ -11075,7 +11075,7 @@
 11071: Including the $0 I have on hand for you, you now have a total of $1 voucher[/s]. Let me know if you wish to exchange any for an orb.
 11072: The A.M.A.N. Trove is based on the use of special items such as $0 and $1.
 11073: So, you want to know about the difference between $0 and $1...
-11074: Basically, the difference comes down to the success rate of obtaining better-quality items. It's much easier to hit it big and win higher-quality items with $1.
+11074: Basically, the difference comes down to the success rate of obtaining better-quality items. It's much easier to hit it big and win higher-quality or semi-higher quality items with $1.
 11075: Furthermore, the $1 ensures that at least one of your items will be of a certain quality.
 11076: Although, I imagine the definition of "quality" differs from person to person, so just think of it as a general guide.
 11077: On a separate note, I heard a rumor when I first started that the more you bring to the A.M.A.N., the more items you'll receive.
@@ -11088,7 +11088,7 @@
 11084: Ah, yes. The good old belligerent bangs.
 11085: The sound that the treasure chest makes when you eagerly open it, flinging the lid open and slamming it onto the back of the chest, has some correlation with whether or not the chest's reward is great, or merely "good."
 11086: Particularly astute adventurers will also note that opening a chest can provide a clue as to whether or not any of the remaining chests have particularly valuable rewards.
-11087: However, it takes a few treasure chests to be able to properly triangulate your internal sensing systems. Opening three should be sufficient.
+11087: However, it takes a few treasure chests to be able to properly triangulate your internal sensing systems. Not that everyone posesses said internal sensing systems.
 11088: If I could meet whomever or whatever was in charge of crafting these orbs, I would be inclined to give them a good smacking.
 11089: But let's keep that between us, hm?
 11090: Would you happen to be in possession of any used A.M.A.N. Trove orbs?

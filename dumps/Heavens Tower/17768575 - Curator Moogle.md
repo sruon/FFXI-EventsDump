@@ -5,16 +5,16 @@
 | Field            | Value                   |
 |------------------|-------------------------|
 | Zone             | Heavens Tower (ID: 242) |
-| Block Size       | 1124 bytes              |
+| Block Size       | 1024 bytes              |
 | Total Events     | 2                       |
-| References Count | 75                      |
+| References Count | 62                      |
 
 ## List of Events
 
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [464](#event-464)     | 0x0001       |    799 |            171 |
+| [464](#event-464)     | 0x0001       |    751 |            160 |
 
 ## DAT References (imed_data)
 
@@ -25,7 +25,7 @@
 |       2 | 0x0001      |           1 |
 |       3 | 0xFFFFFFFF  |  4294967295 |
 |       4 | 0x0007      |           7 |
-|       5 | 0x0013      |          19 |
+|       5 | 0x0010      |          16 |
 |       6 | 0x0008      |           8 |
 |       7 | 0x0014      |          20 |
 |       8 | 0x25D1      |        9681 |
@@ -34,67 +34,54 @@
 |      11 | 0x25D4      |        9684 |
 |      12 | 0x0004      |           4 |
 |      13 | 0x25D3      |        9683 |
-|      14 | 0x54B2      |       21682 |
-|      15 | 0x5484      |       21636 |
-|      16 | 0x05B0      |        1456 |
-|      17 | 0x010D      |         269 |
-|      18 | 0x5486      |       21638 |
-|      19 | 0x0339      |         825 |
-|      20 | 0x112B      |        4395 |
-|      21 | 0x6795      |       26517 |
-|      22 | 0x50B9      |       20665 |
-|      23 | 0x02E9      |         745 |
-|      24 | 0x02CE      |         718 |
-|      25 | 0x18C8      |        6344 |
-|      26 | 0x0E67      |        3687 |
-|      27 | 0x02CD      |         717 |
-|      28 | 0x0460      |        1120 |
-|      29 | 0x15B2      |        5554 |
-|      30 | 0x570B      |       22283 |
-|      31 | 0x05A9      |        1449 |
-|      32 | 0x0381      |         897 |
-|      33 | 0x170C      |        5900 |
-|      34 | 0x03A2      |         930 |
-|      35 | 0x170E      |        5902 |
-|      36 | 0x039C      |         924 |
-|      37 | 0x170D      |        5901 |
-|      38 | 0x0457      |        1111 |
-|      39 | 0x170B      |        5899 |
-|      40 | 0x0370      |         880 |
-|      41 | 0x170A      |        5898 |
-|      42 | 0x00BC      |         188 |
-|      43 | 0x1262      |        4706 |
-|      44 | 0x1263      |        4707 |
-|      45 | 0x10CA      |        4298 |
-|      46 | 0x50AF      |       20655 |
-|      47 | 0x0CF4      |        3316 |
-|      48 | 0x01CA      |         458 |
-|      49 | 0x01C9      |         457 |
-|      50 | 0x3ECC      |       16076 |
-|      51 | 0x0682      |        1666 |
-|      52 | 0x048B      |        1163 |
-|      53 | 0x065A      |        1626 |
-|      54 | 0x64D6      |       25814 |
-|      55 | 0x00CC      |         204 |
-|      56 | 0x00CB      |         203 |
-|      57 | 0x00CD      |         205 |
-|      58 | 0x6501      |       25857 |
-|      59 | 0x05AC      |        1452 |
-|      60 | 0x026E      |         622 |
-|      61 | 0x0397      |         919 |
-|      62 | 0x1708      |        5896 |
-|      63 | 0x1160      |        4448 |
-|      64 | 0x1707      |        5895 |
-|      65 | 0x027C      |         636 |
-|      66 | 0x039B      |         923 |
-|      67 | 0x1709      |        5897 |
-|      68 | 0x05AF      |        1455 |
-|      69 | 0x03AF      |         943 |
-|      70 | 0x170F      |        5903 |
-|      71 | 0x039A      |         922 |
-|      72 | 0x1710      |        5904 |
-|      73 | 0x03BB      |         955 |
-|      74 | 0x1711      |        5905 |
+|      14 | 0x50B9      |       20665 |
+|      15 | 0x02E9      |         745 |
+|      16 | 0x02CE      |         718 |
+|      17 | 0x18C8      |        6344 |
+|      18 | 0x0E67      |        3687 |
+|      19 | 0x05A9      |        1449 |
+|      20 | 0x0381      |         897 |
+|      21 | 0x170C      |        5900 |
+|      22 | 0x03A2      |         930 |
+|      23 | 0x170E      |        5902 |
+|      24 | 0x039C      |         924 |
+|      25 | 0x170D      |        5901 |
+|      26 | 0x0457      |        1111 |
+|      27 | 0x170B      |        5899 |
+|      28 | 0x0370      |         880 |
+|      29 | 0x170A      |        5898 |
+|      30 | 0x00BC      |         188 |
+|      31 | 0x1262      |        4706 |
+|      32 | 0x1263      |        4707 |
+|      33 | 0x10CA      |        4298 |
+|      34 | 0x50AF      |       20655 |
+|      35 | 0x05AC      |        1452 |
+|      36 | 0x026E      |         622 |
+|      37 | 0x0397      |         919 |
+|      38 | 0x1708      |        5896 |
+|      39 | 0x1160      |        4448 |
+|      40 | 0x1707      |        5895 |
+|      41 | 0x027C      |         636 |
+|      42 | 0x039B      |         923 |
+|      43 | 0x1709      |        5897 |
+|      44 | 0x05AF      |        1455 |
+|      45 | 0x03AF      |         943 |
+|      46 | 0x170F      |        5903 |
+|      47 | 0x039A      |         922 |
+|      48 | 0x1710      |        5904 |
+|      49 | 0x03BB      |         955 |
+|      50 | 0x1711      |        5905 |
+|      51 | 0x672C      |       26412 |
+|      52 | 0x00BD      |         189 |
+|      53 | 0x12F2      |        4850 |
+|      54 | 0x10CE      |        4302 |
+|      55 | 0x6731      |       26417 |
+|      56 | 0x0465      |        1125 |
+|      57 | 0x03A5      |         933 |
+|      58 | 0x1989      |        6537 |
+|      59 | 0x0E28      |        3624 |
+|      60 | 0x53F2      |       21490 |
+|      61 | 0x0EA1      |        3745 |
 
 ## String References
 
@@ -135,7 +122,7 @@
 | Field        | Value     |
 |--------------|-----------|
 | Entrypoint   | 0x0001    |
-| Data Size    | 799 bytes |
+| Data Size    | 751 bytes |
 | Instructions | 18        |
 
 ```
@@ -172,25 +159,22 @@
 01C0: 02 10 03 10 04 10 05 10  06 10 07 10 08 10 09 10  ................
 01D0: 00 17 01 17 02 17 03 17  04 17 05 17 06 17 07 17  ................
 01E0: 08 17 09 17 0A 17 0B 17  0C 17 0D 17 0E 17 0F 17  ................
-01F0: 0E 80 0F 80 10 80 01 80  01 80 01 80 01 80 11 80  ................
-0200: 0E 80 12 80 13 80 13 80  13 80 14 80 01 80 15 80  ................
-0210: 16 80 17 80 18 80 19 80  01 80 01 80 01 80 1A 80  ................
-0220: 0F 80 1B 80 1C 80 1C 80  1D 80 01 80 01 80 1E 80  ................
-0230: 1F 80 20 80 01 80 01 80  01 80 01 80 01 80 21 80  .. ...........!.
-0240: 1F 80 22 80 01 80 01 80  01 80 01 80 01 80 23 80  .."...........#.
-0250: 1F 80 24 80 01 80 01 80  01 80 01 80 01 80 25 80  ..$...........%.
-0260: 1F 80 26 80 01 80 01 80  01 80 01 80 01 80 27 80  ..&...........'.
-0270: 1F 80 28 80 01 80 01 80  01 80 01 80 01 80 29 80  ..(...........).
-0280: 16 80 2A 80 2B 80 2C 80  2D 80 01 80 01 80 2E 80  ..*.+.,.-.......
-0290: 12 80 2F 80 30 80 01 80  01 80 01 80 01 80 31 80  ../.0.........1.
-02A0: 32 80 33 80 34 80 35 80  01 80 01 80 01 80 36 80  2.3.4.5.......6.
-02B0: 37 80 38 80 39 80 01 80  01 80 01 80 01 80 3A 80  7.8.9.........:.
-02C0: 3B 80 3C 80 3D 80 01 80  01 80 01 80 01 80 3E 80  ;.<.=.........>.
-02D0: 3B 80 3C 80 3F 80 01 80  01 80 01 80 01 80 40 80  ;.<.?.........@.
-02E0: 3B 80 41 80 42 80 01 80  01 80 01 80 01 80 43 80  ;.A.B.........C.
-02F0: 44 80 45 80 01 80 01 80  01 80 01 80 01 80 46 80  D.E...........F.
-0300: 44 80 47 80 01 80 01 80  01 80 01 80 01 80 48 80  D.G...........H.
-0310: 44 80 49 80 01 80 01 80  01 80 01 80 01 80 4A 80  D.I...........J.
+01F0: 0E 80 0F 80 10 80 11 80  01 80 01 80 01 80 12 80  ................
+0200: 13 80 14 80 01 80 01 80  01 80 01 80 01 80 15 80  ................
+0210: 13 80 16 80 01 80 01 80  01 80 01 80 01 80 17 80  ................
+0220: 13 80 18 80 01 80 01 80  01 80 01 80 01 80 19 80  ................
+0230: 13 80 1A 80 01 80 01 80  01 80 01 80 01 80 1B 80  ................
+0240: 13 80 1C 80 01 80 01 80  01 80 01 80 01 80 1D 80  ................
+0250: 0E 80 1E 80 1F 80 20 80  21 80 01 80 01 80 22 80  ...... .!.....".
+0260: 23 80 24 80 25 80 01 80  01 80 01 80 01 80 26 80  #.$.%.........&.
+0270: 23 80 24 80 27 80 01 80  01 80 01 80 01 80 28 80  #.$.'.........(.
+0280: 23 80 29 80 2A 80 01 80  01 80 01 80 01 80 2B 80  #.).*.........+.
+0290: 2C 80 2D 80 01 80 01 80  01 80 01 80 01 80 2E 80  ,.-.............
+02A0: 2C 80 2F 80 01 80 01 80  01 80 01 80 01 80 30 80  ,./...........0.
+02B0: 2C 80 31 80 01 80 01 80  01 80 01 80 01 80 32 80  ,.1...........2.
+02C0: 33 80 34 80 35 80 36 80  01 80 01 80 01 80 37 80  3.4.5.6.......7.
+02D0: 38 80 39 80 39 80 01 80  01 80 01 80 01 80 3A 80  8.9.9.........:.
+02E0: 3B 80 3C 80 01 80 01 80  01 80 01 80 01 80 3D 80  ;.<...........=.
 ```
 
 #### Opcodes
@@ -208,7 +192,7 @@
   8: 0x001C [0x03] ExtData[1]->WorkLocal[0] = 4294967295*
   9: 0x0021 [0x03] ExtData[1]->WorkLocal[2] = 0*
  10: 0x0026 [0x03] ExtData[1]->WorkLocal[13] = 7*
- 11: 0x002B [0x02] IF !(ExtData[1]->WorkLocal[2] >= 19*) GOTO 0x005B
+ 11: 0x002B [0x02] IF !(ExtData[1]->WorkLocal[2] >= 16*) GOTO 0x005B
  12: 0x0033 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=ExtData[1]->WorkLocal[2], condition_work_offset=1*)
  13: 0x003A [0x9D] ExtData[1]->WorkLocal[1] = 0x01F0[ExtData[1]->WorkLocal[13]] // Read WORD
  14: 0x0042 [0x9D] 0x01C0[ExtData[1]->WorkLocal[2] * 2] = ExtData[1]->WorkLocal[1] // Write WORD
@@ -310,71 +294,60 @@
      0x01E2 [0x09] 0x0A17 |= (1 << 0x0B17)
      0x01E7 [0x17] Work_Zone_1700[12] = cos(Work_Zone_1700[13]) * Work_Zone_1700[14]
      0x01EE [0x0F] 0x0E17 ^= 0x0F80
-     0x01F3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581968/0x80018010))
+     0x01F3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148630544/0x80118010))
      0x01F8 [0x01] GOTO 0x0180
-     0x01FB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148630529/0x80118001))
-     0x0200 [0x0E] 0x1280 |= 0x1380
-     0x0205 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148761619/0x80138013))
-     0x020A [0x14] 0x0180 *= 0x1580
-     0x020F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149023766/0x80178016))
-     0x0214 [0x18] 0x1980 = atan2(0x0180, 0x0180)
-     0x021B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149220353/0x801A8001))
-     0x0220 [0x0F] 0x1B80 ^= 0x1C80
-     0x0225 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149416988/0x801D801C))
+     0x01FB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148696065/0x80128001))
+     0x0200 [0x13] 0x1480 = rand() % 0x0180
+     0x0205 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x020A [0x01] GOTO 0x0180
+     0x020D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148761621/0x80138015))
+     0x0212 [0x16] 0x0180 = sin(0x0180) * 0x0180
+     0x0219 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x021E [0x17] 0x1380 = cos(0x1880) * 0x0180
+     0x0225 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
      0x022A [0x01] GOTO 0x0180
-     0x022D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149548062/0x801F801E))
-     0x0232 [0x20] SET_CLI_EVENT_UC_FLAG: Unknown flag value 0x80
-     0x0234 [0x01] GOTO 0x0180
-     0x0237 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x023C [0x01] GOTO 0x2180
-     0x023F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149744671/0x8022801F))
-     0x0244 [0x01] GOTO 0x0180
-     0x0247 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x024C [0x01] GOTO 0x2380
-     0x024F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149875743/0x8024801F))
-     0x0254 [0x01] GOTO 0x0180
-     0x0257 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x025C [0x01] GOTO 0x2580
-     0x025F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150006815/0x8026801F))
-     0x0264 [0x01] GOTO 0x0180
-     0x0267 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x026C [0x01] GOTO 0x2780
-     0x026F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150137887/0x8028801F))
-     0x0274 [0x01] GOTO 0x0180
-     0x0277 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x027C [0x01] GOTO 0x2980
-     0x027F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150268950/0x802A8016))
-     0x0284 [0x2B] Unknown NPC (ID: 763374720/0x2D802C80) [0x0180]:
-     0x028B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150531073/0x802E8001))
-     0x0290 [0x12] 0x2F80 = rand()
-     0x0293 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147582000/0x80018030))
-     0x0298 [0x01] GOTO 0x0180
-     0x029B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150727681/0x80318001))
-     0x02A0 [0x32] ExtData[1]->MainSpeed = 0x3380 * 0.1
-     0x02A3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150989876/0x80358034))
-     0x02A8 [0x01] GOTO 0x0180
-     0x02AB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151055361/0x80368001))
-     0x02B0 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=0x3880, z=0x3980, y=0x0180, direction=0x0180
-     0x02B9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x02BE [0x3A] CONVERT_YAW_TO_BYTE(entity=Unknown NPC (ID: 1015036800/0x3C803B80), result_destination=0x3D80)
-     0x02C5 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x02CA [0x01] GOTO 0x0180
-     0x02CD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151383102/0x803B803E))
-     0x02D2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=0x3F80, bit_index_work_offset=0x0180, condition_work_offset=0x0180)
-     0x02D9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x02DE [0x40] SET_BIT_WORK_RANGE(start_bit=0x3B80, end_bit=0x4180, target=0x4280, source=0x0180)
+     0x022D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148761625/0x80138019))
+     0x0232 [0x1A] CALL_SUBROUTINE(address=0x0180)
+     0x0235 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x023A [0x01] GOTO 0x0180
+     0x023D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148761627/0x8013801B))
+     0x0242 [0x1C] WAIT(0x0180 ticks)
+     0x0245 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x024A [0x01] GOTO 0x0180
+     0x024D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148433949/0x800E801D))
+     0x0252 [0x1E] EventEntity looks at Unknown NPC (ID: 545267584/0x20801F80) and starts talking
+     0x0257 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581985/0x80018021))
+     0x025C [0x01] GOTO 0x2280
+     0x025F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149875747/0x80248023))
+     0x0264 [0x25] WAIT_DIALOG_SELECT()
+     0x0265 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x026A [0x01] GOTO 0x0180
+     0x026D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149810214/0x80238026))
+     0x0272 [0x24] CREATE_DIALOG(message_id=0x2780, default_option=0x0180, option_flags=0x0180)
+     0x0279 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x027E [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Unknown NPC (ID: 2150203427/0x80298023), tag_num=0x2A)
+     0x0285 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x028A [0x01] GOTO 0x0180
+     0x028D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150400043/0x802C802B))
+     0x0292 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler 0x2E800180 with entities [Unknown NPC (ID: 25166208/0x01800180), Unknown NPC (ID: 25166208/0x01800180)]
+     0x029F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150596652/0x802F802C))
+     0x02A4 [0x01] GOTO 0x0180
+     0x02A7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02AC [0x01] GOTO 0x3080
+     0x02AF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150727724/0x8031802C))
+     0x02B4 [0x01] GOTO 0x0180
+     0x02B7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02BC [0x01] GOTO 0x3280
+     0x02BF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2150924339/0x80348033))
+     0x02C4 [0x35] LOAD_ZONE_NO_CLOSE(zone_id=0x3680)
+     0x02C7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02CC [0x01] GOTO 0x3780
+     0x02CF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151252024/0x80398038))
+     0x02D4 [0x39] SET_ENTITY_DIRECTION(direction=0x0180)
+     0x02D7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
+     0x02DC [0x01] GOTO 0x3A80
+     0x02DF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151448635/0x803C803B))
+     0x02E4 [0x01] GOTO 0x0180
      0x02E7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x02EC [0x01] GOTO 0x4380
-     0x02EF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152038468/0x80458044))
-     0x02F4 [0x01] GOTO 0x0180
-     0x02F7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x02FC [0x01] GOTO 0x4680
-     0x02FF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152169540/0x80478044))
-     0x0304 [0x01] GOTO 0x0180
-     0x0307 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x030C [0x01] GOTO 0x4880
-     0x030F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152300612/0x80498044))
-     0x0314 [0x01] GOTO 0x0180
-     0x0317 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x031C [0x01] GOTO 0x4A80
+     0x02EC [0x01] GOTO 0x3D80
 ```

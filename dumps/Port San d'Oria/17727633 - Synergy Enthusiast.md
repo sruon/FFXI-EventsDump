@@ -22,13 +22,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x04D2      |        1234 |
-|       2 | 0x2BF6      |       11254 |
-|       3 | 0x2CAE      |       11438 |
+|       2 | 0x2BF7      |       11255 |
+|       3 | 0x2CAF      |       11439 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x000A      |          10 |
 |       6 | 0x0009      |           9 |
-|       7 | 0x2C95      |       11413 |
-|       8 | 0x2C96      |       11414 |
+|       7 | 0x2C96      |       11414 |
+|       8 | 0x2C97      |       11415 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
@@ -37,71 +37,71 @@
 |      14 | 0x0007      |           7 |
 |      15 | 0x0008      |           8 |
 |      16 | 0x0011      |          17 |
-|      17 | 0x2C97      |       11415 |
+|      17 | 0x2C98      |       11416 |
 |      18 | 0x000B      |          11 |
 |      19 | 0x000F      |          15 |
-|      20 | 0x2C98      |       11416 |
+|      20 | 0x2C99      |       11417 |
 |      21 | 0x0010      |          16 |
 |      22 | 0x001F      |          31 |
 |      23 | 0x0017      |          23 |
 |      24 | 0x0018      |          24 |
-|      25 | 0x2C99      |       11417 |
-|      26 | 0x2C9A      |       11418 |
-|      27 | 0x2BFD      |       11261 |
-|      28 | 0x2BFE      |       11262 |
-|      29 | 0x2BFF      |       11263 |
-|      30 | 0x2C00      |       11264 |
-|      31 | 0x2C01      |       11265 |
-|      32 | 0x2C02      |       11266 |
-|      33 | 0x2C03      |       11267 |
-|      34 | 0x2C04      |       11268 |
-|      35 | 0x2C05      |       11269 |
-|      36 | 0x2C06      |       11270 |
-|      37 | 0x2C07      |       11271 |
-|      38 | 0x2C08      |       11272 |
-|      39 | 0x2C09      |       11273 |
-|      40 | 0x2C0A      |       11274 |
-|      41 | 0x2C0B      |       11275 |
-|      42 | 0x2C0C      |       11276 |
-|      43 | 0x2C0D      |       11277 |
-|      44 | 0x2C0E      |       11278 |
-|      45 | 0x2C8D      |       11405 |
-|      46 | 0x2C8E      |       11406 |
-|      47 | 0x2C8F      |       11407 |
-|      48 | 0x2C90      |       11408 |
+|      25 | 0x2C9A      |       11418 |
+|      26 | 0x2C9B      |       11419 |
+|      27 | 0x2BFE      |       11262 |
+|      28 | 0x2BFF      |       11263 |
+|      29 | 0x2C00      |       11264 |
+|      30 | 0x2C01      |       11265 |
+|      31 | 0x2C02      |       11266 |
+|      32 | 0x2C03      |       11267 |
+|      33 | 0x2C04      |       11268 |
+|      34 | 0x2C05      |       11269 |
+|      35 | 0x2C06      |       11270 |
+|      36 | 0x2C07      |       11271 |
+|      37 | 0x2C08      |       11272 |
+|      38 | 0x2C09      |       11273 |
+|      39 | 0x2C0A      |       11274 |
+|      40 | 0x2C0B      |       11275 |
+|      41 | 0x2C0C      |       11276 |
+|      42 | 0x2C0D      |       11277 |
+|      43 | 0x2C0E      |       11278 |
+|      44 | 0x2C0F      |       11279 |
+|      45 | 0x2C8E      |       11406 |
+|      46 | 0x2C8F      |       11407 |
+|      47 | 0x2C90      |       11408 |
+|      48 | 0x2C91      |       11409 |
 
 ## String References
 
-- **11254**: I see from the puzzled expression on your face that you are unfamiliar with our discipline. To use these furnaces, you will first need to obtain $6.
-- **11261**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **11262**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **11263**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **11264**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-- **11265**: As for materials, you'll be needing...
-- **11266**: $1 $0 .
-- **11267**: $1 $0 . $3 $0 .
-- **11268**: $1 $0 . $3 $0 . $5 $0$4 .
-- **11269**: $1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 .
-- **11270**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1.
-- **11271**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3.
-- **11272**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5.
-- **11273**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7.
-- **11274**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9.
-- **11275**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11.
-- **11276**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13.
-- **11277**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15.
-- **11278**: There you go. That doesn't sound so hard, now, does it?
-- **11405**: ...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&].
-- **11406**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-- **11407**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-- **11408**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-- **11413**: Do you love synergizing as much as I love synergizing!? 'Cause if you do, you're gonna loooooove the recipes I have for you!
-- **11414**: View recipes for which skill level? [Actually, never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]
-- **11415**: Browse to which page? [Cancel./Page [1/9/17/25/33/41/49/57/65/73/81/89/97/105/113/121]./Page [2/10/18/26/34/42/50/58/66/74/82/90/98/106/114/122]./Page [3/11/19/27/35/43/51/59/67/75/83/91/99/107/115/123]./Page [4/12/20/28/36/44/52/60/68/76/84/92/100/108/116/124]./Page [5/13/21/29/37/45/53/61/69/77/85/93/101/109/117/125]./Page [6/14/22/30/38/46/54/62/70/78/86/94/102/110/118/126]./Page [7/15/23/31/39/47/55/63/71/79/87/95/103/111/119/127]./Page [8/16/24/32/40/48/56/64/72/80/88/96/104/112/120/128]./Previous page./Next page.]
-- **11416**: View which recipe? ([Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran], p. $8). [None./$0./$1./$2./$3./$4./$5./$6./$7./Return to page selection./Previous page./Next page.]
-- **11417**: Oh, the $0? Why, that's one of my favorite recipes, too! What skills does it require? Let's see here...
-- **11418**: Well, look at this. All you need is a furnace and your own Goddess-given synergy skills to make that one! Ain't synergy grand?
-- **11438**: Should you wish to learn more about the science of synergy, seek out one of the engineers stationed throughout the town.
+- **11255**: I see from the puzzled expression on your face that you are unfamiliar with our discipline. To use these furnaces, you will first need to obtain $6.
+- **11262**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **11263**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **11264**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **11265**: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+- **11266**: As for materials, you'll be needing...
+- **11267**: $1 $0 .
+- **11268**: $1 $0 . $3 $0 .
+- **11269**: $1 $0 . $3 $0 . $5 $0$4 .
+- **11270**: $1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 .
+- **11271**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1.
+- **11272**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3.
+- **11273**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5.
+- **11274**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7.
+- **11275**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9.
+- **11276**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11.
+- **11277**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13.
+- **11278**: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15.
+- **11279**: There you go. That doesn't sound so hard, now, does it?
+- **11406**: ...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&].
+- **11407**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+- **11408**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+- **11409**: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+- **11414**: Do you love synergizing as much as I love synergizing!? 'Cause if you do, you're gonna loooooove the recipes I have for you!
+- **11415**: View recipes for which skill level? [Actually, never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]
+- **11416**: Browse to which page? [Cancel./Page [1/9/17/25/33/41/49/57/65/73/81/89/97/105/113/121]./Page [2/10/18/26/34/42/50/58/66/74/82/90/98/106/114/122]./Page [3/11/19/27/35/43/51/59/67/75/83/91/99/107/115/123]./Page [4/12/20/28/36/44/52/60/68/76/84/92/100/108/116/124]./Page [5/13/21/29/37/45/53/61/69/77/85/93/101/109/117/125]./Page [6/14/22/30/38/46/54/62/70/78/86/94/102/110/118/126]./Page [7/15/23/31/39/47/55/63/71/79/87/95/103/111/119/127]./Page [8/16/24/32/40/48/56/64/72/80/88/96/104/112/120/128]./Previous page./Next page.]
+- **11417**: View which recipe? ([Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran], p. $8). [None./$0./$1./$2./$3./$4./$5./$6./$7./Return to page selection./Previous page./Next page.]
+- **11418**: Oh, the $0? Why, that's one of my favorite recipes, too! What skills does it require? Let's see here...
+- **11419**: Well, look at this. All you need is a furnace and your own Goddess-given synergy skills to make that one! Ain't synergy grand?
+- **11439**: Should you wish to learn more about the science of synergy, seek out one of the engineers stationed throughout the town.
 
 ## Events
 
@@ -454,10 +454,10 @@
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[44] = Work_Zone[2]
   1: 0x0006 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x0023
   2: 0x000E [0x03] Work_Zone[2] = 1234*
-  3: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=11254*)
+  3: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=11255*)
     → "I see from the puzzled expression on your face that you are unfamiliar with our discipline. To use these furnaces, you will first need to obtain $6."
   4: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11438*)
+  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11439*)
     → "Should you wish to learn more about the science of synergy, seek out one of the engineers stationed throughout the town."
   6: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001B [0x03] Work_Zone[1] = 0*
@@ -471,10 +471,10 @@
  15: 0x003D [0x02] IF !(ExtData[1]->WorkLocal[46] <= 9*) GOTO 0x004A
  16: 0x0045 [0x03] ExtData[1]->WorkLocal[46] = 9*
  17: 0x004A [0x1A] CALL_SUBROUTINE(address=0x12FD)
- 18: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=11413*)
+ 18: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=11414*)
     → "Do you love synergizing as much as I love synergizing!? 'Cause if you do, you're gonna loooooove the recipes I have for you!"
  19: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0051 [0x24] CREATE_DIALOG(message_id=11414*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
+ 20: 0x0051 [0x24] CREATE_DIALOG(message_id=11415*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
     → "View recipes for which skill level? [Actually, never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]"
  21: 0x0058 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0059 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0069
@@ -561,7 +561,7 @@ SUBROUTINE_01C3:
 
 SUBROUTINE_01DC:
  95: 0x01DC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[54]
- 96: 0x01E1 [0x24] CREATE_DIALOG(message_id=11415*, default_option=ExtData[1]->WorkLocal[55], option_flags=ExtData[1]->WorkLocal[45])
+ 96: 0x01E1 [0x24] CREATE_DIALOG(message_id=11416*, default_option=ExtData[1]->WorkLocal[55], option_flags=ExtData[1]->WorkLocal[45])
     → "Browse to which page? [Cancel./Page [1/9/17/25/33/41/49/57/65/73/81/89/97/105/113/121]./Page [2/10/18/26/34/42/50/58/66/74/82/90/98/106/114/122]./Page [3/11/19/27/35/43/51/59/67/75/83/91/99/107/115/123]./Page [4/12/20/28/36/44/52/60/68/76/84/92/100/108/116/124]./Page [5/13/21/29/37/45/53/61/69/77/85/93/101/109/117/125]./Page [6/14/22/30/38/46/54/62/70/78/86/94/102/110/118/126]./Page [7/15/23/31/39/47/55/63/71/79/87/95/103/111/119/127]./Page [8/16/24/32/40/48/56/64/72/80/88/96/104/112/120/128]./Previous page./Next page.]"
  97: 0x01E8 [0x25] WAIT_DIALOG_SELECT()
  98: 0x01E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F5
@@ -659,7 +659,7 @@ SUBROUTINE_0455:
 178: 0x0467 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[45], bit_index_work_offset=11*, condition_work_offset=1*)
 
 SUBROUTINE_046E:
-179: 0x046E [0x24] CREATE_DIALOG(message_id=11416*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
+179: 0x046E [0x24] CREATE_DIALOG(message_id=11417*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
     → "View which recipe? ([Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran], p. $8). [None./$0./$1./$2./$3./$4./$5./$6./$7./Return to page selection./Previous page./Next page.]"
 180: 0x0475 [0x25] WAIT_DIALOG_SELECT()
 181: 0x0476 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0482
@@ -702,7 +702,7 @@ SUBROUTINE_05C2:
 216: 0x068C [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[6]
 217: 0x0691 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[7]
 218: 0x0696 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-219: 0x069B [0x1D] PRINT_EVENT_MESSAGE(message_id=11417*)
+219: 0x069B [0x1D] PRINT_EVENT_MESSAGE(message_id=11418*)
     → "Oh, the $0? Why, that's one of my favorite recipes, too! What skills does it require? Let's see here..."
 220: 0x069E [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x069F [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -739,27 +739,27 @@ SUBROUTINE_05C2:
 252: 0x0752 [0x02] IF !(Work_Zone_1700[0] <= 10*) GOTO 0x075F
 253: 0x075A [0x03] Work_Zone_1700[0] = 10*
 254: 0x075F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x076E
-255: 0x0767 [0x48] [System] [11418*]:
+255: 0x0767 [0x48] [System] [11419*]:
     → "Well, look at this. All you need is a furnace and your own Goddess-given synergy skills to make that one! Ain't synergy grand?"
 256: 0x076A [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x076B [0x01] GOTO 0x07AA
 258: 0x076E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x077D
-259: 0x0776 [0x48] [System] [11261*]:
+259: 0x0776 [0x48] [System] [11262*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 260: 0x0779 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x077A [0x01] GOTO 0x07AA
 262: 0x077D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x078C
-263: 0x0785 [0x48] [System] [11262*]:
+263: 0x0785 [0x48] [System] [11263*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 264: 0x0788 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x0789 [0x01] GOTO 0x07AA
 266: 0x078C [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x079B
-267: 0x0794 [0x48] [System] [11263*]:
+267: 0x0794 [0x48] [System] [11264*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 268: 0x0797 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x0798 [0x01] GOTO 0x07AA
 270: 0x079B [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x07AA
-271: 0x07A3 [0x48] [System] [11264*]:
+271: 0x07A3 [0x48] [System] [11265*]:
     → "[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]."
 272: 0x07A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x07A7 [0x01] GOTO 0x07AA
@@ -797,7 +797,7 @@ SUBROUTINE_07AA:
 303: 0x0856 [0x03] ExtData[1]->WorkLocal[0] = 7*
 304: 0x085B [0x02] IF !(ExtData[1]->WorkLocal[24] == 0*) GOTO 0x0868
 305: 0x0863 [0x03] ExtData[1]->WorkLocal[0] = 8*
-306: 0x0868 [0x1D] PRINT_EVENT_MESSAGE(message_id=11265*)
+306: 0x0868 [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
     → "As for materials, you'll be needing..."
 307: 0x086B [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x086C [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0877
@@ -805,7 +805,7 @@ SUBROUTINE_07AA:
 310: 0x0877 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0898
 311: 0x087F [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[17] (bits 0*-15*)
 312: 0x0888 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[17] (bits 16*-23*)
-313: 0x0891 [0x48] [System] [11266*]:
+313: 0x0891 [0x48] [System] [11267*]:
     → "$1 $0 ."
 314: 0x0894 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x0895 [0x01] GOTO 0x0B87
@@ -814,7 +814,7 @@ SUBROUTINE_07AA:
 318: 0x08A9 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[17] (bits 16*-23*)
 319: 0x08B2 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[18] (bits 0*-15*)
 320: 0x08BB [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[18] (bits 16*-23*)
-321: 0x08C4 [0x48] [System] [11267*]:
+321: 0x08C4 [0x48] [System] [11268*]:
     → "$1 $0 . $3 $0 ."
 322: 0x08C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x08C8 [0x01] GOTO 0x0B87
@@ -825,7 +825,7 @@ SUBROUTINE_07AA:
 328: 0x08EE [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[18] (bits 16*-23*)
 329: 0x08F7 [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[19] (bits 0*-15*)
 330: 0x0900 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[19] (bits 16*-23*)
-331: 0x0909 [0x48] [System] [11268*]:
+331: 0x0909 [0x48] [System] [11269*]:
     → "$1 $0 . $3 $0 . $5 $0$4 ."
 332: 0x090C [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x090D [0x01] GOTO 0x0B87
@@ -838,7 +838,7 @@ SUBROUTINE_07AA:
 340: 0x0945 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[19] (bits 16*-23*)
 341: 0x094E [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[20] (bits 0*-15*)
 342: 0x0957 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[20] (bits 16*-23*)
-343: 0x0960 [0x48] [System] [11269*]:
+343: 0x0960 [0x48] [System] [11270*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 344: 0x0963 [0x23] WAIT_FOR_DIALOG_INTERACTION
 345: 0x0964 [0x01] GOTO 0x0B87
@@ -851,12 +851,12 @@ SUBROUTINE_07AA:
 352: 0x099C [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[19] (bits 16*-23*)
 353: 0x09A5 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[20] (bits 0*-15*)
 354: 0x09AE [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[20] (bits 16*-23*)
-355: 0x09B7 [0x48] [System] [11269*]:
+355: 0x09B7 [0x48] [System] [11270*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 356: 0x09BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x09BB [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[21] (bits 0*-15*)
 358: 0x09C4 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[21] (bits 16*-23*)
-359: 0x09CD [0x48] [System] [11266*]:
+359: 0x09CD [0x48] [System] [11267*]:
     → "$1 $0 ."
 360: 0x09D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x09D1 [0x01] GOTO 0x0B87
@@ -869,14 +869,14 @@ SUBROUTINE_07AA:
 368: 0x0A09 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[19] (bits 16*-23*)
 369: 0x0A12 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[20] (bits 0*-15*)
 370: 0x0A1B [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[20] (bits 16*-23*)
-371: 0x0A24 [0x48] [System] [11269*]:
+371: 0x0A24 [0x48] [System] [11270*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 372: 0x0A27 [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x0A28 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[21] (bits 0*-15*)
 374: 0x0A31 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[21] (bits 16*-23*)
 375: 0x0A3A [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[22] (bits 0*-15*)
 376: 0x0A43 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[22] (bits 16*-23*)
-377: 0x0A4C [0x48] [System] [11267*]:
+377: 0x0A4C [0x48] [System] [11268*]:
     → "$1 $0 . $3 $0 ."
 378: 0x0A4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 379: 0x0A50 [0x01] GOTO 0x0B87
@@ -889,7 +889,7 @@ SUBROUTINE_07AA:
 386: 0x0A88 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[19] (bits 16*-23*)
 387: 0x0A91 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[20] (bits 0*-15*)
 388: 0x0A9A [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[20] (bits 16*-23*)
-389: 0x0AA3 [0x48] [System] [11269*]:
+389: 0x0AA3 [0x48] [System] [11270*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 390: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x0AA7 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[21] (bits 0*-15*)
@@ -898,7 +898,7 @@ SUBROUTINE_07AA:
 394: 0x0AC2 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[22] (bits 16*-23*)
 395: 0x0ACB [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[23] (bits 0*-15*)
 396: 0x0AD4 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[23] (bits 16*-23*)
-397: 0x0ADD [0x48] [System] [11268*]:
+397: 0x0ADD [0x48] [System] [11269*]:
     → "$1 $0 . $3 $0 . $5 $0$4 ."
 398: 0x0AE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 399: 0x0AE1 [0x01] GOTO 0x0B87
@@ -911,7 +911,7 @@ SUBROUTINE_07AA:
 406: 0x0B19 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[19] (bits 16*-23*)
 407: 0x0B22 [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[20] (bits 0*-15*)
 408: 0x0B2B [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[20] (bits 16*-23*)
-409: 0x0B34 [0x48] [System] [11269*]:
+409: 0x0B34 [0x48] [System] [11270*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 410: 0x0B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 411: 0x0B38 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[21] (bits 0*-15*)
@@ -922,7 +922,7 @@ SUBROUTINE_07AA:
 416: 0x0B65 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[23] (bits 16*-23*)
 417: 0x0B6E [0x41] Work_Zone[8] = ExtData[1]->WorkLocal[24] (bits 0*-15*)
 418: 0x0B77 [0x41] Work_Zone[9] = ExtData[1]->WorkLocal[24] (bits 16*-23*)
-419: 0x0B80 [0x48] [System] [11269*]:
+419: 0x0B80 [0x48] [System] [11270*]:
     → "$1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 ."
 420: 0x0B83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x0B84 [0x01] GOTO 0x0B87
@@ -1026,48 +1026,48 @@ SUBROUTINE_0C6D:
 501: 0x0D1A [0x03] ExtData[1]->WorkLocal[43] = ExtData[1]->WorkLocal[40]
 502: 0x0D1F [0x1A] CALL_SUBROUTINE(address=0x0DA0)
 503: 0x0D22 [0x02] IF !(ExtData[1]->WorkLocal[41] == 1*) GOTO 0x0D31
-504: 0x0D2A [0x1D] PRINT_EVENT_MESSAGE(message_id=11270*)
+504: 0x0D2A [0x1D] PRINT_EVENT_MESSAGE(message_id=11271*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1."
 505: 0x0D2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 506: 0x0D2E [0x01] GOTO 0x0D9A
 507: 0x0D31 [0x02] IF !(ExtData[1]->WorkLocal[41] == 2*) GOTO 0x0D40
-508: 0x0D39 [0x1D] PRINT_EVENT_MESSAGE(message_id=11271*)
+508: 0x0D39 [0x1D] PRINT_EVENT_MESSAGE(message_id=11272*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3."
 509: 0x0D3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 510: 0x0D3D [0x01] GOTO 0x0D9A
 511: 0x0D40 [0x02] IF !(ExtData[1]->WorkLocal[41] == 3*) GOTO 0x0D4F
-512: 0x0D48 [0x1D] PRINT_EVENT_MESSAGE(message_id=11272*)
+512: 0x0D48 [0x1D] PRINT_EVENT_MESSAGE(message_id=11273*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5."
 513: 0x0D4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 514: 0x0D4C [0x01] GOTO 0x0D9A
 515: 0x0D4F [0x02] IF !(ExtData[1]->WorkLocal[41] == 4*) GOTO 0x0D5E
-516: 0x0D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=11273*)
+516: 0x0D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=11274*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7."
 517: 0x0D5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 518: 0x0D5B [0x01] GOTO 0x0D9A
 519: 0x0D5E [0x02] IF !(ExtData[1]->WorkLocal[41] == 5*) GOTO 0x0D6D
-520: 0x0D66 [0x1D] PRINT_EVENT_MESSAGE(message_id=11274*)
+520: 0x0D66 [0x1D] PRINT_EVENT_MESSAGE(message_id=11275*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9."
 521: 0x0D69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 522: 0x0D6A [0x01] GOTO 0x0D9A
 523: 0x0D6D [0x02] IF !(ExtData[1]->WorkLocal[41] == 6*) GOTO 0x0D7C
-524: 0x0D75 [0x1D] PRINT_EVENT_MESSAGE(message_id=11275*)
+524: 0x0D75 [0x1D] PRINT_EVENT_MESSAGE(message_id=11276*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11."
 525: 0x0D78 [0x23] WAIT_FOR_DIALOG_INTERACTION
 526: 0x0D79 [0x01] GOTO 0x0D9A
 527: 0x0D7C [0x02] IF !(ExtData[1]->WorkLocal[41] == 7*) GOTO 0x0D8B
-528: 0x0D84 [0x1D] PRINT_EVENT_MESSAGE(message_id=11276*)
+528: 0x0D84 [0x1D] PRINT_EVENT_MESSAGE(message_id=11277*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13."
 529: 0x0D87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 530: 0x0D88 [0x01] GOTO 0x0D9A
 531: 0x0D8B [0x02] IF !(ExtData[1]->WorkLocal[41] == 8*) GOTO 0x0D9A
-532: 0x0D93 [0x1D] PRINT_EVENT_MESSAGE(message_id=11277*)
+532: 0x0D93 [0x1D] PRINT_EVENT_MESSAGE(message_id=11278*)
     → "And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15."
 533: 0x0D96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 534: 0x0D97 [0x01] GOTO 0x0D9A
 
 SUBROUTINE_0D9A:
-535: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=11278*)
+535: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=11279*)
     → "There you go. That doesn't sound so hard, now, does it?"
 536: 0x0D9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1329,69 +1329,69 @@ SUBROUTINE_1302:
      0x1205 [0x0B] ExtData[1]->WorkLocal[0]++
      0x1208 [0x02] IF !(ExtData[1]->WorkLocal[41] == 1*) GOTO 0x121F
      0x1210 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x121C
-     0x1218 [0x48] [System] [11405*]:
+     0x1218 [0x48] [System] [11406*]:
     → "...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&]."
      0x121B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x121C [0x01] GOTO 0x12FC
      0x121F [0x02] IF !(ExtData[1]->WorkLocal[41] == 2*) GOTO 0x1236
      0x1227 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x1233
-     0x122F [0x48] [System] [11406*]:
+     0x122F [0x48] [System] [11407*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x1232 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1233 [0x01] GOTO 0x12FC
      0x1236 [0x02] IF !(ExtData[1]->WorkLocal[41] == 3*) GOTO 0x124D
      0x123E [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x124A
-     0x1246 [0x48] [System] [11407*]:
+     0x1246 [0x48] [System] [11408*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x1249 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x124A [0x01] GOTO 0x12FC
      0x124D [0x02] IF !(ExtData[1]->WorkLocal[41] == 4*) GOTO 0x1264
      0x1255 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x1261
-     0x125D [0x48] [System] [11408*]:
+     0x125D [0x48] [System] [11409*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x1260 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1261 [0x01] GOTO 0x12FC
      0x1264 [0x02] IF !(ExtData[1]->WorkLocal[41] == 5*) GOTO 0x128A
      0x126C [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x127B
-     0x1274 [0x48] [System] [11405*]:
+     0x1274 [0x48] [System] [11406*]:
     → "...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&]."
      0x1277 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1278 [0x01] GOTO 0x1287
      0x127B [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x1287
-     0x1283 [0x48] [System] [11408*]:
+     0x1283 [0x48] [System] [11409*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x1286 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1287 [0x01] GOTO 0x12FC
      0x128A [0x02] IF !(ExtData[1]->WorkLocal[41] == 6*) GOTO 0x12B0
      0x1292 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x12A1
-     0x129A [0x48] [System] [11406*]:
+     0x129A [0x48] [System] [11407*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x129D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x129E [0x01] GOTO 0x12AD
      0x12A1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x12AD
-     0x12A9 [0x48] [System] [11408*]:
+     0x12A9 [0x48] [System] [11409*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x12AC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12AD [0x01] GOTO 0x12FC
      0x12B0 [0x02] IF !(ExtData[1]->WorkLocal[41] == 7*) GOTO 0x12D6
      0x12B8 [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x12C7
-     0x12C0 [0x48] [System] [11407*]:
+     0x12C0 [0x48] [System] [11408*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x12C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12C4 [0x01] GOTO 0x12D3
      0x12C7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x12D3
-     0x12CF [0x48] [System] [11408*]:
+     0x12CF [0x48] [System] [11409*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x12D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12D3 [0x01] GOTO 0x12FC
      0x12D6 [0x02] IF !(ExtData[1]->WorkLocal[41] == 8*) GOTO 0x12FC
      0x12DE [0x02] IF !(ExtData[1]->WorkLocal[0] < ExtData[1]->WorkLocal[41]) GOTO 0x12ED
-     0x12E6 [0x48] [System] [11408*]:
+     0x12E6 [0x48] [System] [11409*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x12E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12EA [0x01] GOTO 0x12F9
      0x12ED [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x12F9
-     0x12F5 [0x48] [System] [11408*]:
+     0x12F5 [0x48] [System] [11409*]:
     → "...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]."
      0x12F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12F9 [0x01] GOTO 0x12FC

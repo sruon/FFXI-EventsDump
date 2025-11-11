@@ -28,31 +28,31 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x450C      |       17676 |
-|       1 | 0x450E      |       17678 |
-|       2 | 0x450F      |       17679 |
+|       0 | 0x450F      |       17679 |
+|       1 | 0x4511      |       17681 |
+|       2 | 0x4512      |       17682 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0102      |         258 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x00D8      |         216 |
-|       7 | 0x4511      |       17681 |
-|       8 | 0x4513      |       17683 |
-|       9 | 0x4514      |       17684 |
-|      10 | 0x4512      |       17682 |
-|      11 | 0x4515      |       17685 |
-|      12 | 0x450D      |       17677 |
+|       7 | 0x4514      |       17684 |
+|       8 | 0x4516      |       17686 |
+|       9 | 0x4517      |       17687 |
+|      10 | 0x4515      |       17685 |
+|      11 | 0x4518      |       17688 |
+|      12 | 0x4510      |       17680 |
 
 ## String References
 
-- **17676**: This for me? In-doo-bid-ably! Could be gooder, but it not bad.
-- **17677**: Waaah! It you! You give yum-yums for me tum-tum. Good [guy/girl]!
-- **17678**: Not for us, not for me? I give it back. Now you happy? Happy toy, happy toy, where be me happy toy?t
-- **17679**: No no no no no! Go away! Nose holes busy sniff for happy toy!
-- **17681**: You have friend, you do? We Gobbies have friend too.
-- **17682**: Yum-yums for me? Gobbies remember...till our tummies go rumble-rumble again.
-- **17683**: For me!? Why give so nice thing to me!? Me so happy head go boom! So boom! But first, me need give happy toy to you too.
-- **17684**: Happy toy? For me? Why you give so good thing to me? But no can take. Me have no happy toy for you.
-- **17685**: Blech. What this yucky thing? It make me want upgut food. Take it away.
+- **17679**: This for me? In-doo-bid-ably! Could be gooder, but it not bad.
+- **17680**: Waaah! It you! You give yum-yums for me tum-tum. Good [guy/girl]!
+- **17681**: Not for us, not for me? I give it back. Now you happy? Happy toy, happy toy, where be me happy toy?t
+- **17682**: No no no no no! Go away! Nose holes busy sniff for happy toy!
+- **17684**: You have friend, you do? We Gobbies have friend too.
+- **17685**: Yum-yums for me? Gobbies remember...till our tummies go rumble-rumble again.
+- **17686**: For me!? Why give so nice thing to me!? Me so happy head go boom! So boom! But first, me need give happy toy to you too.
+- **17687**: Happy toy? For me? Why you give so good thing to me? But no can take. Me have no happy toy for you.
+- **17688**: Blech. What this yucky thing? It make me want upgut food. Take it away.
 
 ## Events
 
@@ -308,7 +308,7 @@ SUBROUTINE_00BB:
   3: 0x00BB [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x00C0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x00C1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17677*)
+  6: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17680*)
     → "Waaah! It you! You give yum-yums for me tum-tum. Good [guy/girl]!"
   7: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C6 [0x1B] RETURN
@@ -322,7 +322,7 @@ SUBROUTINE_00BB:
      0x002F [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x0034 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0035 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=17676*)
+     0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=17679*)
     → "This for me? In-doo-bid-ably! Could be gooder, but it not bad."
      0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x003A [0x1B] RETURN
@@ -330,7 +330,7 @@ SUBROUTINE_00BB:
      0x003C [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x0041 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0042 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=17678*)
+     0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=17681*)
     → "Not for us, not for me? I give it back. Now you happy? Happy toy, happy toy, where be me happy toy?t"
      0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0047 [0x1B] RETURN
@@ -338,7 +338,7 @@ SUBROUTINE_00BB:
      0x0049 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x004E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x004F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=17679*)
+     0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=17682*)
     → "No no no no no! Go away! Nose holes busy sniff for happy toy!"
      0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0054 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x006A
@@ -350,7 +350,7 @@ SUBROUTINE_00BB:
      0x007E [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x0083 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0084 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=17681*)
+     0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=17684*)
     → "You have friend, you do? We Gobbies have friend too."
      0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0089 [0x1B] RETURN
@@ -358,28 +358,28 @@ SUBROUTINE_00BB:
      0x008B [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x0090 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0091 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=17683*)
+     0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=17686*)
     → "For me!? Why give so nice thing to me!? Me so happy head go boom! So boom! But first, me need give happy toy to you too."
      0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0096 [0x1B] RETURN
      0x0097 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x009C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x009D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=17684*)
+     0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=17687*)
     → "Happy toy? For me? Why you give so good thing to me? But no can take. Me have no happy toy for you."
      0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00A2 [0x1B] RETURN
      0x00A3 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x00A8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x00A9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=17682*)
+     0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=17685*)
     → "Yum-yums for me? Gobbies remember...till our tummies go rumble-rumble again."
      0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00AE [0x1B] RETURN
      0x00AF [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x00B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x00B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17685*)
+     0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17688*)
     → "Blech. What this yucky thing? It make me want upgut food. Take it away."
      0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00BA [0x1B] RETURN

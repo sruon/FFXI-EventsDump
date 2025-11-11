@@ -24,7 +24,7 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0002      |           2 |
-|       3 | 0x335C      |       13148 |
+|       3 | 0x335D      |       13149 |
 |       4 | 0x0D6A      |        3434 |
 |       5 | 0x0D6B      |        3435 |
 |       6 | 0x0D6C      |        3436 |
@@ -45,32 +45,31 @@
 |      21 | 0x000D      |          13 |
 |      22 | 0x000E      |          14 |
 |      23 | 0x000F      |          15 |
-|      24 | 0x335D      |       13149 |
-|      25 | 0x335F      |       13151 |
+|      24 | 0x335E      |       13150 |
+|      25 | 0x3360      |       13152 |
 |      26 | 0x0063      |          99 |
-|      27 | 0x336F      |       13167 |
-|      28 | 0x3370      |       13168 |
-|      29 | 0x3367      |       13159 |
-|      30 | 0x3368      |       13160 |
-|      31 | 0x3369      |       13161 |
-|      32 | 0x336A      |       13162 |
-|      33 | 0x336B      |       13163 |
-|      34 | 0x336C      |       13164 |
-|      35 | 0x336D      |       13165 |
+|      27 | 0x3370      |       13168 |
+|      28 | 0x3371      |       13169 |
+|      29 | 0x3368      |       13160 |
+|      30 | 0x3369      |       13161 |
+|      31 | 0x336A      |       13162 |
+|      32 | 0x336B      |       13163 |
+|      33 | 0x336C      |       13164 |
+|      34 | 0x336D      |       13165 |
+|      35 | 0x336E      |       13166 |
 |      36 | 0x0010      |          16 |
-|      37 | 0x336E      |       13166 |
-|      38 | 0x3365      |       13157 |
-|      39 | 0x3361      |       13153 |
+|      37 | 0x336F      |       13167 |
+|      38 | 0x3366      |       13158 |
+|      39 | 0x3362      |       13154 |
 |      40 | 0x0015      |          21 |
 |      41 | 0x0016      |          22 |
 |      42 | 0x001F      |          31 |
-|      43 | 0x3360      |       13152 |
+|      43 | 0x3361      |       13153 |
 
 ## String References
 
-- **13149**: Procure supplies? ([Points/Standing/Notes]: $1) [Not now./$2 ($3)./$4 ($5)./$6 ($7)./$8 ($9)./$10 ($11)./$12 ($13)./$14 ($15)./$16 ($17)./$18 ($19)./$20 ($21)./$22 ($23)./$24 ($25)./$26 ($27)./$28 ($29)./$30 ($31).]
-- **13153**: Proceed? (Required [Points/Standing/Notes]: $1) [Yes./No.]
-- **13159**: 
+- **13150**: Procure supplies? ([Points/Standing/Notes]: $1) [Not now./$2 ($3)./$4 ($5)./$6 ($7)./$8 ($9)./$10 ($11)./$12 ($13)./$14 ($15)./$16 ($17)./$18 ($19)./$20 ($21)./$22 ($23)./$24 ($25)./$26 ($27)./$28 ($29)./$30 ($31).]
+- **13154**: Proceed? (Required [Points/Standing/Notes]: $1) [Yes./No.]
 - **13160**: 
 - **13161**: 
 - **13162**: 
@@ -78,8 +77,9 @@
 - **13164**: 
 - **13165**: 
 - **13166**: 
-- **13167**: How many? ( [Conquest Points/Imperial Standing/Allied Notes]: $1)
-- **13168**: You may purchase up to $2 at a time.
+- **13167**: 
+- **13168**: How many? ( [Conquest Points/Imperial Standing/Allied Notes]: $1)
+- **13169**: You may purchase up to $2 at a time.
 
 ## Events
 
@@ -305,7 +305,7 @@ SUBROUTINE_0005:
  26: 0x0070 [0x01] GOTO 0x0073
 
 SUBROUTINE_0073:
- 27: 0x0073 [0x2B] EventEntity [13148*]:
+ 27: 0x0073 [0x2B] EventEntity [13149*]:
     → "Hail, soldier. I am a purveyor tasked with furnishing the brave men and women of the Voidwatch with essential supplies. My wares can be yours, provided you've got [Conquest Points/Imperial Standing/Allied Notes] to trade. After all, we can't afford to let our limited resources go to waste in the hands of some unproven rookie."
  28: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x007B [0x05] ExtData[1]->WorkLocal[4] = 1
@@ -419,7 +419,7 @@ SUBROUTINE_01F2:
 131: 0x02C0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=14*, condition_work_offset=1*)
 132: 0x02C7 [0x02] IF !(Work_Zone_1700[22] == 0*) GOTO 0x02D6
 133: 0x02CF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=15*, condition_work_offset=1*)
-134: 0x02D6 [0x24] CREATE_DIALOG(message_id=13149*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+134: 0x02D6 [0x24] CREATE_DIALOG(message_id=13150*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Procure supplies? ([Points/Standing/Notes]: $1) [Not now./$2 ($3)./$4 ($5)./$6 ($7)./$8 ($9)./$10 ($11)./$12 ($13)./$14 ($15)./$16 ($17)./$18 ($19)./$20 ($21)./$22 ($23)./$24 ($25)./$26 ($27)./$28 ($29)./$30 ($31).]"
 135: 0x02DD [0x25] WAIT_DIALOG_SELECT()
 136: 0x02DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02EF
@@ -689,7 +689,7 @@ SUBROUTINE_0790:
 368: 0x07A3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
 369: 0x07A8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 370: 0x07AD [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[11]
-371: 0x07B2 [0x2B] EventEntity [13151*]:
+371: 0x07B2 [0x2B] EventEntity [13152*]:
     → "This $0 will cost you $1 [Conquest Points/credits of Imperial Standing/Allied Notes]."
 372: 0x07B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x07BA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -706,9 +706,9 @@ SUBROUTINE_0790:
 384: 0x07F6 [0x01] GOTO 0x07F9
 
 SUBROUTINE_07F9:
-385: 0x07F9 [0x48] [System] [13167*]:
+385: 0x07F9 [0x48] [System] [13168*]:
     → "How many? ( [Conquest Points/Imperial Standing/Allied Notes]: $1)"
-386: 0x07FC [0x48] [System] [13168*]:
+386: 0x07FC [0x48] [System] [13169*]:
     → "You may purchase up to $2 at a time."
 387: 0x07FF [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
 388: 0x0805 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[4])
@@ -733,42 +733,42 @@ SUBROUTINE_0839:
 SUBROUTINE_0846:
 402: 0x0846 [0x01] GOTO 0x08D3
 403: 0x0849 [0x02] IF !(ExtData[1]->WorkLocal[2] == 9*) GOTO 0x0858
-404: 0x0851 [0x48] [System] [13159*]:
+404: 0x0851 [0x48] [System] [13160*]:
     → ""
 405: 0x0854 [0x23] WAIT_FOR_DIALOG_INTERACTION
 406: 0x0855 [0x01] GOTO 0x08C1
 407: 0x0858 [0x02] IF !(ExtData[1]->WorkLocal[2] == 10*) GOTO 0x0867
-408: 0x0860 [0x48] [System] [13160*]:
+408: 0x0860 [0x48] [System] [13161*]:
     → ""
 409: 0x0863 [0x23] WAIT_FOR_DIALOG_INTERACTION
 410: 0x0864 [0x01] GOTO 0x08C1
 411: 0x0867 [0x02] IF !(ExtData[1]->WorkLocal[2] == 11*) GOTO 0x0876
-412: 0x086F [0x48] [System] [13161*]:
+412: 0x086F [0x48] [System] [13162*]:
     → ""
 413: 0x0872 [0x23] WAIT_FOR_DIALOG_INTERACTION
 414: 0x0873 [0x01] GOTO 0x08C1
 415: 0x0876 [0x02] IF !(ExtData[1]->WorkLocal[2] == 12*) GOTO 0x0885
-416: 0x087E [0x48] [System] [13162*]:
+416: 0x087E [0x48] [System] [13163*]:
     → ""
 417: 0x0881 [0x23] WAIT_FOR_DIALOG_INTERACTION
 418: 0x0882 [0x01] GOTO 0x08C1
 419: 0x0885 [0x02] IF !(ExtData[1]->WorkLocal[2] == 13*) GOTO 0x0894
-420: 0x088D [0x48] [System] [13163*]:
+420: 0x088D [0x48] [System] [13164*]:
     → ""
 421: 0x0890 [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x0891 [0x01] GOTO 0x08C1
 423: 0x0894 [0x02] IF !(ExtData[1]->WorkLocal[2] == 14*) GOTO 0x08A3
-424: 0x089C [0x48] [System] [13164*]:
+424: 0x089C [0x48] [System] [13165*]:
     → ""
 425: 0x089F [0x23] WAIT_FOR_DIALOG_INTERACTION
 426: 0x08A0 [0x01] GOTO 0x08C1
 427: 0x08A3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 15*) GOTO 0x08B2
-428: 0x08AB [0x48] [System] [13165*]:
+428: 0x08AB [0x48] [System] [13166*]:
     → ""
 429: 0x08AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x08AF [0x01] GOTO 0x08C1
 431: 0x08B2 [0x02] IF !(ExtData[1]->WorkLocal[2] == 16*) GOTO 0x08C1
-432: 0x08BA [0x48] [System] [13166*]:
+432: 0x08BA [0x48] [System] [13167*]:
     → ""
 433: 0x08BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x08BE [0x01] GOTO 0x08C1
@@ -776,7 +776,7 @@ SUBROUTINE_0846:
 SUBROUTINE_08C1:
 435: 0x08C1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
 436: 0x08C6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
-437: 0x08CB [0x2B] EventEntity [13157*]:
+437: 0x08CB [0x2B] EventEntity [13158*]:
     → "This $3 will cost you $1 [Conquest Points/credits of Imperial Standing/Allied Notes]."
 438: 0x08D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -785,7 +785,7 @@ SUBROUTINE_08D3:
 440: 0x08DB [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[9]) GOTO 0x094C
 441: 0x08E3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 442: 0x08E8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
-443: 0x08ED [0x24] CREATE_DIALOG(message_id=13153*, default_option=1*, option_flags=0*)
+443: 0x08ED [0x24] CREATE_DIALOG(message_id=13154*, default_option=1*, option_flags=0*)
     → "Proceed? (Required [Points/Standing/Notes]: $1) [Yes./No.]"
 444: 0x08F4 [0x25] WAIT_DIALOG_SELECT()
 445: 0x08F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x093E
@@ -808,7 +808,7 @@ SUBROUTINE_093B:
 SUBROUTINE_0949:
 459: 0x0949 [0x01] GOTO 0x0959
 460: 0x094C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-461: 0x0951 [0x2B] EventEntity [13152*]:
+461: 0x0951 [0x2B] EventEntity [13153*]:
     → "It seems you're short on [Conquest Points/Imperial Standing credits/Allied Notes], soldier. Come back when you've got a bit more seasoning under your belt."
 462: 0x0958 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

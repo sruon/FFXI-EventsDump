@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2416      |        9238 |
+|       0 | 0x2417      |        9239 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0005      |           5 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0003      |           3 |
-|       5 | 0x2417      |        9239 |
-|       6 | 0x2418      |        9240 |
+|       5 | 0x2418      |        9240 |
+|       6 | 0x2419      |        9241 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x000F      |          15 |
 |       9 | 0x0010      |          16 |
@@ -36,9 +36,9 @@
 
 ## String References
 
-- **9238**: No
-- **9239**: Type($0-$1)
-- **9240**: Lv
+- **9239**: No
+- **9240**: Type($0-$1)
+- **9241**: Lv
 
 ## Events
 
@@ -88,19 +88,19 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
     → "No"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 5*])
   3: 0x000B [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
   4: 0x000F [0x03] Work_Zone[2] = 0*
   5: 0x0014 [0x03] Work_Zone[3] = 3*
-  6: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
+  6: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
     → "Type($0-$1)"
   7: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001D [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 1*])
   9: 0x0023 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[1])
- 10: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
+ 10: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
     → "Lv"
  11: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x002B [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])

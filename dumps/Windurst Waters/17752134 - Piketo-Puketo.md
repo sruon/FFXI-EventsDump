@@ -139,117 +139,117 @@
 |      88 | 0x1C88      |        7304 |
 |      89 | 0x00C9      |         201 |
 |      90 | 0x1C13      |        7187 |
-|      91 | 0x43CB      |       17355 |
-|      92 | 0x43CC      |       17356 |
-|      93 | 0x43DB      |       17371 |
-|      94 | 0x43DC      |       17372 |
-|      95 | 0x43B8      |       17336 |
-|      96 | 0x43B9      |       17337 |
-|      97 | 0x43BA      |       17338 |
-|      98 | 0x43BB      |       17339 |
-|      99 | 0x43BC      |       17340 |
-|     100 | 0x43BD      |       17341 |
-|     101 | 0x43BE      |       17342 |
-|     102 | 0x43BF      |       17343 |
-|     103 | 0x43C0      |       17344 |
-|     104 | 0x43C1      |       17345 |
-|     105 | 0x43C2      |       17346 |
-|     106 | 0x43C3      |       17347 |
-|     107 | 0x43C4      |       17348 |
-|     108 | 0x43C5      |       17349 |
-|     109 | 0x43C6      |       17350 |
-|     110 | 0x43C7      |       17351 |
-|     111 | 0x43C8      |       17352 |
-|     112 | 0x43C9      |       17353 |
-|     113 | 0x43CA      |       17354 |
-|     114 | 0x43DD      |       17373 |
-|     115 | 0x43DE      |       17374 |
-|     116 | 0x43DF      |       17375 |
-|     117 | 0x43E0      |       17376 |
-|     118 | 0x43E1      |       17377 |
-|     119 | 0x43E2      |       17378 |
-|     120 | 0x43E3      |       17379 |
-|     121 | 0x43E4      |       17380 |
-|     122 | 0x43E5      |       17381 |
-|     123 | 0x43E6      |       17382 |
-|     124 | 0x43E7      |       17383 |
-|     125 | 0x43F2      |       17394 |
-|     126 | 0x43F3      |       17395 |
-|     127 | 0x43F4      |       17396 |
-|     128 | 0x43F5      |       17397 |
-|     129 | 0x43F6      |       17398 |
-|     130 | 0x43F7      |       17399 |
-|     131 | 0x43F8      |       17400 |
-|     132 | 0x43F9      |       17401 |
-|     133 | 0x43FE      |       17406 |
-|     134 | 0x4411      |       17425 |
-|     135 | 0x4412      |       17426 |
-|     136 | 0x4413      |       17427 |
-|     137 | 0x4414      |       17428 |
-|     138 | 0x4415      |       17429 |
-|     139 | 0x4416      |       17430 |
+|      91 | 0x43D0      |       17360 |
+|      92 | 0x43D1      |       17361 |
+|      93 | 0x43E0      |       17376 |
+|      94 | 0x43E1      |       17377 |
+|      95 | 0x43BD      |       17341 |
+|      96 | 0x43BE      |       17342 |
+|      97 | 0x43BF      |       17343 |
+|      98 | 0x43C0      |       17344 |
+|      99 | 0x43C1      |       17345 |
+|     100 | 0x43C2      |       17346 |
+|     101 | 0x43C3      |       17347 |
+|     102 | 0x43C4      |       17348 |
+|     103 | 0x43C5      |       17349 |
+|     104 | 0x43C6      |       17350 |
+|     105 | 0x43C7      |       17351 |
+|     106 | 0x43C8      |       17352 |
+|     107 | 0x43C9      |       17353 |
+|     108 | 0x43CA      |       17354 |
+|     109 | 0x43CB      |       17355 |
+|     110 | 0x43CC      |       17356 |
+|     111 | 0x43CD      |       17357 |
+|     112 | 0x43CE      |       17358 |
+|     113 | 0x43CF      |       17359 |
+|     114 | 0x43E2      |       17378 |
+|     115 | 0x43E3      |       17379 |
+|     116 | 0x43E4      |       17380 |
+|     117 | 0x43E5      |       17381 |
+|     118 | 0x43E6      |       17382 |
+|     119 | 0x43E7      |       17383 |
+|     120 | 0x43E8      |       17384 |
+|     121 | 0x43E9      |       17385 |
+|     122 | 0x43EA      |       17386 |
+|     123 | 0x43EB      |       17387 |
+|     124 | 0x43EC      |       17388 |
+|     125 | 0x43F7      |       17399 |
+|     126 | 0x43F8      |       17400 |
+|     127 | 0x43F9      |       17401 |
+|     128 | 0x43FA      |       17402 |
+|     129 | 0x43FB      |       17403 |
+|     130 | 0x43FC      |       17404 |
+|     131 | 0x43FD      |       17405 |
+|     132 | 0x43FE      |       17406 |
+|     133 | 0x4403      |       17411 |
+|     134 | 0x4416      |       17430 |
+|     135 | 0x4417      |       17431 |
+|     136 | 0x4418      |       17432 |
+|     137 | 0x4419      |       17433 |
+|     138 | 0x441A      |       17434 |
+|     139 | 0x441B      |       17435 |
 |     140 | 0xFFFFFFFF  |  4294967295 |
-|     141 | 0x4407      |       17415 |
-|     142 | 0x4408      |       17416 |
-|     143 | 0x43FF      |       17407 |
-|     144 | 0x4400      |       17408 |
-|     145 | 0x4401      |       17409 |
-|     146 | 0x4402      |       17410 |
+|     141 | 0x440C      |       17420 |
+|     142 | 0x440D      |       17421 |
+|     143 | 0x4404      |       17412 |
+|     144 | 0x4405      |       17413 |
+|     145 | 0x4406      |       17414 |
+|     146 | 0x4407      |       17415 |
 |     147 | 0x40000000  |  1073741824 |
-|     148 | 0x4403      |       17411 |
-|     149 | 0x4404      |       17412 |
-|     150 | 0x4405      |       17413 |
-|     151 | 0x4406      |       17414 |
-|     152 | 0x4409      |       17417 |
-|     153 | 0x440A      |       17418 |
-|     154 | 0x440B      |       17419 |
-|     155 | 0x43CD      |       17357 |
+|     148 | 0x4408      |       17416 |
+|     149 | 0x4409      |       17417 |
+|     150 | 0x440A      |       17418 |
+|     151 | 0x440B      |       17419 |
+|     152 | 0x440E      |       17422 |
+|     153 | 0x440F      |       17423 |
+|     154 | 0x4410      |       17424 |
+|     155 | 0x43D2      |       17362 |
 |     156 | 0x003C      |          60 |
 |     157 | 0x001E      |          30 |
-|     158 | 0x43CE      |       17358 |
-|     159 | 0x43CF      |       17359 |
-|     160 | 0x43D0      |       17360 |
-|     161 | 0x43D1      |       17361 |
-|     162 | 0x43D2      |       17362 |
-|     163 | 0x43E8      |       17384 |
-|     164 | 0x43E9      |       17385 |
-|     165 | 0x43EA      |       17386 |
-|     166 | 0x43EB      |       17387 |
-|     167 | 0x43EC      |       17388 |
-|     168 | 0x440C      |       17420 |
-|     169 | 0x4417      |       17431 |
-|     170 | 0x43D3      |       17363 |
-|     171 | 0x43D4      |       17364 |
-|     172 | 0x43D5      |       17365 |
-|     173 | 0x441C      |       17436 |
-|     174 | 0x441D      |       17437 |
-|     175 | 0x43F1      |       17393 |
-|     176 | 0x43D6      |       17366 |
-|     177 | 0x43D7      |       17367 |
-|     178 | 0x43D8      |       17368 |
-|     179 | 0x43D9      |       17369 |
-|     180 | 0x43DA      |       17370 |
-|     181 | 0x43ED      |       17389 |
-|     182 | 0x43EE      |       17390 |
-|     183 | 0x43EF      |       17391 |
-|     184 | 0x43F0      |       17392 |
-|     185 | 0x440D      |       17421 |
-|     186 | 0x440E      |       17422 |
-|     187 | 0x440F      |       17423 |
-|     188 | 0x4410      |       17424 |
-|     189 | 0x4418      |       17432 |
-|     190 | 0x4419      |       17433 |
-|     191 | 0x441A      |       17434 |
-|     192 | 0x441B      |       17435 |
-|     193 | 0x441E      |       17438 |
-|     194 | 0x441F      |       17439 |
-|     195 | 0x4420      |       17440 |
-|     196 | 0x4421      |       17441 |
-|     197 | 0x4422      |       17442 |
-|     198 | 0x43FA      |       17402 |
-|     199 | 0x43FB      |       17403 |
-|     200 | 0x43FC      |       17404 |
-|     201 | 0x43FD      |       17405 |
+|     158 | 0x43D3      |       17363 |
+|     159 | 0x43D4      |       17364 |
+|     160 | 0x43D5      |       17365 |
+|     161 | 0x43D6      |       17366 |
+|     162 | 0x43D7      |       17367 |
+|     163 | 0x43ED      |       17389 |
+|     164 | 0x43EE      |       17390 |
+|     165 | 0x43EF      |       17391 |
+|     166 | 0x43F0      |       17392 |
+|     167 | 0x43F1      |       17393 |
+|     168 | 0x4411      |       17425 |
+|     169 | 0x441C      |       17436 |
+|     170 | 0x43D8      |       17368 |
+|     171 | 0x43D9      |       17369 |
+|     172 | 0x43DA      |       17370 |
+|     173 | 0x4421      |       17441 |
+|     174 | 0x4422      |       17442 |
+|     175 | 0x43F6      |       17398 |
+|     176 | 0x43DB      |       17371 |
+|     177 | 0x43DC      |       17372 |
+|     178 | 0x43DD      |       17373 |
+|     179 | 0x43DE      |       17374 |
+|     180 | 0x43DF      |       17375 |
+|     181 | 0x43F2      |       17394 |
+|     182 | 0x43F3      |       17395 |
+|     183 | 0x43F4      |       17396 |
+|     184 | 0x43F5      |       17397 |
+|     185 | 0x4412      |       17426 |
+|     186 | 0x4413      |       17427 |
+|     187 | 0x4414      |       17428 |
+|     188 | 0x4415      |       17429 |
+|     189 | 0x441D      |       17437 |
+|     190 | 0x441E      |       17438 |
+|     191 | 0x441F      |       17439 |
+|     192 | 0x4420      |       17440 |
+|     193 | 0x4423      |       17443 |
+|     194 | 0x4424      |       17444 |
+|     195 | 0x4425      |       17445 |
+|     196 | 0x4426      |       17446 |
+|     197 | 0x4427      |       17447 |
+|     198 | 0x43FF      |       17407 |
+|     199 | 0x4400      |       17408 |
+|     200 | 0x4401      |       17409 |
+|     201 | 0x4402      |       17410 |
 |     202 | 0x00C8      |         200 |
 |     203 | 0x0013      |          19 |
 |     204 | 0x001D      |          29 |
@@ -311,113 +311,113 @@
 - **7313**: It is simply a matter of my calling the guildmaster and informing them of your desire to focus on your culinary pursuits. So what do you say, <Player>?
 - **7314**: Ah, <Player>. To think that I shall never again know the gustatory bliss that is one of your scrumptious $2! It brings a tear to my eye...
 - **7315**: Forgive me. I have no doubt that you will be a scrumptious success in whatever profession you choose to follow. Be well, <Player>.
-- **17336**: Oh, hello. Hm? Whataru is that shield you're holding?
-- **17337**: Ahh, I see... You must've spoken with her.
-- **17338**: Yes, I've heard the stories... That it's possible-wossible to equip a shield that boosts your crafting skill.
-- **17339**: If anybody has the ability to create such a thing, it's you. I'm sure she chose you for a reason-weason.
-- **17340**: I don't understand how a shield helps one's cooking, but if she's right, that'd be quite the talentaru to have.
-- **17341**: First, let's go over the recipe. Try not to forgetaru it!
-- **17342**: So, the first ingredientaru you'll need is $1...
-- **17343**: Its purpose is to boostaru the Craftsmanship of the $0 to its maximum value.
-- **17344**: I've actually got a memo-wemo on Craftsmanship here to read to you.
-- **17345**: You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped.
-- **17346**: Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you have trouble.
-- **17347**: In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect.
-- **17348**: You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha...
-- **17349**: That's all it says.
-- **17350**: Come show me once you've raised the Craftsmanship to the necessary level-wevel. I'll make you the $1 you need.
-- **17351**: After that, you'll need $2 and $3. You can get them from Isanie.
-- **17352**: You have experience making deliveries, correctaru? This is basically the same thing.
-- **17353**: If you need to know more, justaru go talk to Isanie.
-- **17354**: That's it for the ingredients! Come show me the shield when you're done. It has really piqued my interestaru. Do you think we can use it as a frying pan?
-- **17355**: Hm? You say you forgotaru the recipe? I know we do things differently, but it's important to remember these kinds of things.
-- **17356**: You're my constantaru partner on the path of fine cuisine. If anybody can make this shield, it's you!
-- **17357**: Oh, you did it! Now, I can make the $0 on the listaru.
-- **17358**: So this is the $0. It turned out perfectaru.
-- **17359**: I'm not sure I know why, but seeing this crystal made by pouring my soul into the shield, I start feeling hungry-wungry.
-- **17360**: Hmm... In creating the $0, it appears to have the effectaru of reducing the Craftsmanship of the $1.
-- **17361**: That's no problem-woblem if you want to upgrade the $1, but if you need to make another $0, you'll have to raise the Craftsmanship again.
-- **17362**: Of course, I'm sure I can countaru on you to never lose this thing.
-- **17363**: What? Did you really lose the $0? After that little chataru that we had too?
-- **17364**: Never mind. I'll simply-wimply make you another $0. Let me see your shield.
-- **17365**: You're better than this. People of your talentaru should take better care of their ingredients.
-- **17366**: It looks like the upgrade is complete. Hurry up now! Let me see it!
-- **17367**: Hmm... I can tell that it looks different-wifferent. And it smells good too! Although, it doesn't seem like it's complete.
-- **17368**: I heard her say that you'll need to craft with it multiple times in order to get it just rightaru.
-- **17369**: Oh, that reminds me. I was asked to give some kind of proof that the shield was complete. One momentaru please.
-- **17370**: That should do it.
-- **17371**: Take this to Mewk Chorosap in Jeuno in order to complete the requestaru.
-- **17372**: Oh, and I often have deliveries for Isanie. I could really use your expertaru skills in bringing along the newer guild members.
-- **17373**: Hello there. I suppose you're here to upgrade your shield, yes? I've already heard all aboutaru it.
-- **17374**: The first thing is to teach you the recipe. Try not to forgetaru it, okay?
-- **17375**: This is much differentaru than the recipes I'm used to.
-- **17376**: At any rate, I need to tell you how to obtain the listaru of ingredients. The first one is the $1.
-- **17377**: Last time, you used the aspis to increase the Craftsmanship. Basically, you need to do the same thing again to craftaru items while the $0 is equipped.
-- **17378**: It seems that it will take longer to boostaru the Craftsmanship this time around. As such, you'll need to have patience.
-- **17379**: Bring me the shield once it reaches 100% and I'll use my expertaru skills to create the $1 for you.
-- **17380**: The next ingredientaru you'll require is the $2. I've given it and the $3 that you used last time to Isanie.
-- **17381**: The lastaru ingredient you'll need is the $4. I've teamed up with the A.M.A.N. to create some Records of Eminence objectives for you.
-- **17382**: Check the Records of Eminence menu to find out the extentaru of the objectives. Once you've completed them all, you'll receive the $4.
-- **17383**: That's it for the ingredients! Think you can handle it? I'm confidentaru that you have what it takes to succeed.
-- **17384**: Well, let's see what you've got there.
-- **17385**: Yes! This'll do just fine! Here, let me get a startaru on that $0 for you.
-- **17386**: Okay, it's all finished. Tell me, whataru do you think?
-- **17387**: Hmm... It looks like creating the $0 has caused its Craftsmanship to revertaru downwards again.
-- **17388**: Remember, if you lose the $0, you'll need to boostaru the shield's Craftsmanship again. Do be careful with it.
-- **17389**: Oh... I thoughtaru it would look like a frying pan, but it's more of a cutting board I suppose. Yes, of course I know it's a shield!
-- **17390**: Although, I can feel that its power is well beyond that of the lastaru shield. Yes, this one is destined to become quite formidable!
-- **17391**: Here, allow me to mark it for you before I forgetaru.
-- **17392**: There we go. Now, justaru take it to Mewk Chorosap and your task will be complete.
-- **17393**: Hmm... You must complete this final objective or your task will be an abjectaru failure. Go and give it another try.
-- **17394**: Hm? It's that frying pan...oh, I mean shield, again! Now, let's get you that recipe-wecipe.
-- **17395**: Oh, you already know the recipe. So I suppose you need to know how to obtain what's on the ingredients listaru.
-- **17396**: The $4 and $5... Okay, listen carefully-warefully.
-- **17397**: You see, the Culinarians' Guild has received quite a few delivery orders for our delicious-welicious food. We could really use your help.
-- **17398**: However, this is a little differentaru than our usual deliveries. Food is always best when cooked fresh, so you need to make it in front of the customer.
-- **17399**: Of course, I would demand the same treatmentaru myself. So basically, anything made elsewhere will not be accepted.
-- **17400**: Once you have delivered all of the food, I can give you the $4 and $5 you're looking-wooking for.
-- **17401**: Okay, this is the [first/next/final] request.
-- **17402**: Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7.
-- **17403**: Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7.
-- **17404**: Deliver a total-wotal of $1 $0 to Hinaree in $7.
-- **17405**: Deliver a total-wotal of $1 $0 to Hinaree in $7.
-- **17406**: Once you've made the delivery-wivery, come see me.
-- **17407**: Let's see here... Your current requestaru is...
-- **17408**: How is the requestaru going? Good I hope?
-- **17409**: Everything okay? [Everything's great!/It could be better...]
-- **17410**: Yes, I'm relieved to hear it. Keep up the good work until the requestaru is complete.
-- **17411**: Hm?! Surely you're joking-woking? Do you really want to give up on this request?
-- **17412**: Will you see this through? [I'll do my best./I've had enough.]
-- **17413**: Is that so... Well, if you're not feeling up to it, it's a disservice to our customers-wustomers. I'll ask another craftsman for help.
-- **17414**: Take a momentaru to refresh yourself and come back for another request after you're feeling better.
-- **17415**: So, are you feeling-weeling any better now? If so, let's get on to the next request.
-- **17416**: Welcome back. It seems you took care of that requestaru for me. I'm sure the customer is quite pleased.
-- **17417**: Excellentaru work! You've completed all of the requests. I bet it's the most satisfied customer ever!
-- **17418**: Here you go. I presentaru you with the $0 and $1.
-- **17419**: Also, if you ever need more of them, you can make a trade using guild points.
-- **17420**: Lately, I've been wondering what it'd be like to boil-woil or grill this thing... Would it taste any good?
-- **17421**: Did it finally turn into a frying pan this time around? I think that'd be a simply perfect resultaru.
-- **17422**: Oh, it's justaru a shield. Although, I can vouch for just how amazing both it and you are!
-- **17423**: Our friend seems to think that the nextaru upgrade will unlock the shield's ultimate power. I can't wait to see it for myself.
-- **17424**: Oh, wait just a momentaru. I have a new crafting technique that I think you'd do quite well with. I can't wait to see what you cook up with it!
-- **17425**: I thoughtaru you'd be coming around here! The shield has almost reached its final form!
-- **17426**: Allow me to teach-weach you how to obtain the necessary ingredients.
-- **17427**: First, there's the $2 and the $3.
-- **17428**: You can get them from Isanie by trading crafter points for them. I have a feeling-weeling you already knew that, though.
-- **17429**: Next is the $1. It's the same procedure you've used before. Visitaru me after you raise your shield's Craftsmanship to 100%.
-- **17430**: That's it for how to obtain the materials! I suppose you should get started by giving your Craftsmanship rating a boostaru!
-- **17431**: Here's the $0 as per the instructions I received. I heard that Mewk Chorosap wants it delivered to her. If possible-wossible, can you take it there for me?
-- **17432**: How're things?
-- **17433**: Hmm... That was a request by a Tarutaru girl from Adoulin. I remember-wember it because that was the first time that somebody had ordered something other than food from us.
-- **17434**: Unfortunately, you're too late. She asked me to send it to Jeuno, so that's justaru what I did.
-- **17435**: I imagine it has already been delivered to Mewk Chorosap in Port Jeuno by now. You should go and take a look.
-- **17436**: Ahh, welcome! Take a look at this delicious looking bread on this emblem-wemblem. I made it the other day. For some reason, it was being used as a pot lid...
-- **17437**: Hm? You need it for something-womething? Sure, feel free to take it then!
-- **17438**: Uwah! It's finished at lastaru!
-- **17439**: Look at that tasty-looking emblem! It's rather-wather unfortunate that it can't be eaten.
-- **17440**: I bet if we used this as a frying pan to cook with, we could make all kinds of delicious dishes-wishes...
-- **17441**: At any rate, good work out there. Here, I have something to reward you for your effortaru.
-- **17442**: This should help you cook up quite a treataru! I hope you'll use it to bring joy to even more satisfied customers!
+- **17341**: Oh, hello. Hm? Whataru is that shield you're holding?
+- **17342**: Ahh, I see... You must've spoken with her.
+- **17343**: Yes, I've heard the stories... That it's possible-wossible to equip a shield that boosts your crafting skill.
+- **17344**: If anybody has the ability to create such a thing, it's you. I'm sure she chose you for a reason-weason.
+- **17345**: I don't understand how a shield helps one's cooking, but if she's right, that'd be quite the talentaru to have.
+- **17346**: First, let's go over the recipe. Try not to forgetaru it!
+- **17347**: So, the first ingredientaru you'll need is $1...
+- **17348**: Its purpose is to boostaru the Craftsmanship of the $0 to its maximum value.
+- **17349**: I've actually got a memo-wemo on Craftsmanship here to read to you.
+- **17350**: You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped.
+- **17351**: Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you have trouble.
+- **17352**: In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect.
+- **17353**: You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha...
+- **17354**: That's all it says.
+- **17355**: Come show me once you've raised the Craftsmanship to the necessary level-wevel. I'll make you the $1 you need.
+- **17356**: After that, you'll need $2 and $3. You can get them from Isanie.
+- **17357**: You have experience making deliveries, correctaru? This is basically the same thing.
+- **17358**: If you need to know more, justaru go talk to Isanie.
+- **17359**: That's it for the ingredients! Come show me the shield when you're done. It has really piqued my interestaru. Do you think we can use it as a frying pan?
+- **17360**: Hm? You say you forgotaru the recipe? I know we do things differently, but it's important to remember these kinds of things.
+- **17361**: You're my constantaru partner on the path of fine cuisine. If anybody can make this shield, it's you!
+- **17362**: Oh, you did it! Now, I can make the $0 on the listaru.
+- **17363**: So this is the $0. It turned out perfectaru.
+- **17364**: I'm not sure I know why, but seeing this crystal made by pouring my soul into the shield, I start feeling hungry-wungry.
+- **17365**: Hmm... In creating the $0, it appears to have the effectaru of reducing the Craftsmanship of the $1.
+- **17366**: That's no problem-woblem if you want to upgrade the $1, but if you need to make another $0, you'll have to raise the Craftsmanship again.
+- **17367**: Of course, I'm sure I can countaru on you to never lose this thing.
+- **17368**: What? Did you really lose the $0? After that little chataru that we had too?
+- **17369**: Never mind. I'll simply-wimply make you another $0. Let me see your shield.
+- **17370**: You're better than this. People of your talentaru should take better care of their ingredients.
+- **17371**: It looks like the upgrade is complete. Hurry up now! Let me see it!
+- **17372**: Hmm... I can tell that it looks different-wifferent. And it smells good too! Although, it doesn't seem like it's complete.
+- **17373**: I heard her say that you'll need to craft with it multiple times in order to get it just rightaru.
+- **17374**: Oh, that reminds me. I was asked to give some kind of proof that the shield was complete. One momentaru please.
+- **17375**: That should do it.
+- **17376**: Take this to Mewk Chorosap in Jeuno in order to complete the requestaru.
+- **17377**: Oh, and I often have deliveries for Isanie. I could really use your expertaru skills in bringing along the newer guild members.
+- **17378**: Hello there. I suppose you're here to upgrade your shield, yes? I've already heard all aboutaru it.
+- **17379**: The first thing is to teach you the recipe. Try not to forgetaru it, okay?
+- **17380**: This is much differentaru than the recipes I'm used to.
+- **17381**: At any rate, I need to tell you how to obtain the listaru of ingredients. The first one is the $1.
+- **17382**: Last time, you used the aspis to increase the Craftsmanship. Basically, you need to do the same thing again to craftaru items while the $0 is equipped.
+- **17383**: It seems that it will take longer to boostaru the Craftsmanship this time around. As such, you'll need to have patience.
+- **17384**: Bring me the shield once it reaches 100% and I'll use my expertaru skills to create the $1 for you.
+- **17385**: The next ingredientaru you'll require is the $2. I've given it and the $3 that you used last time to Isanie.
+- **17386**: The lastaru ingredient you'll need is the $4. I've teamed up with the A.M.A.N. to create some Records of Eminence objectives for you.
+- **17387**: Check the Records of Eminence menu to find out the extentaru of the objectives. Once you've completed them all, you'll receive the $4.
+- **17388**: That's it for the ingredients! Think you can handle it? I'm confidentaru that you have what it takes to succeed.
+- **17389**: Well, let's see what you've got there.
+- **17390**: Yes! This'll do just fine! Here, let me get a startaru on that $0 for you.
+- **17391**: Okay, it's all finished. Tell me, whataru do you think?
+- **17392**: Hmm... It looks like creating the $0 has caused its Craftsmanship to revertaru downwards again.
+- **17393**: Remember, if you lose the $0, you'll need to boostaru the shield's Craftsmanship again. Do be careful with it.
+- **17394**: Oh... I thoughtaru it would look like a frying pan, but it's more of a cutting board I suppose. Yes, of course I know it's a shield!
+- **17395**: Although, I can feel that its power is well beyond that of the lastaru shield. Yes, this one is destined to become quite formidable!
+- **17396**: Here, allow me to mark it for you before I forgetaru.
+- **17397**: There we go. Now, justaru take it to Mewk Chorosap and your task will be complete.
+- **17398**: Hmm... You must complete this final objective or your task will be an abjectaru failure. Go and give it another try.
+- **17399**: Hm? It's that frying pan...oh, I mean shield, again! Now, let's get you that recipe-wecipe.
+- **17400**: Oh, you already know the recipe. So I suppose you need to know how to obtain what's on the ingredients listaru.
+- **17401**: The $4 and $5... Okay, listen carefully-warefully.
+- **17402**: You see, the Culinarians' Guild has received quite a few delivery orders for our delicious-welicious food. We could really use your help.
+- **17403**: However, this is a little differentaru than our usual deliveries. Food is always best when cooked fresh, so you need to make it in front of the customer.
+- **17404**: Of course, I would demand the same treatmentaru myself. So basically, anything made elsewhere will not be accepted.
+- **17405**: Once you have delivered all of the food, I can give you the $4 and $5 you're looking-wooking for.
+- **17406**: Okay, this is the [first/next/final] request.
+- **17407**: Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7.
+- **17408**: Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7.
+- **17409**: Deliver a total-wotal of $1 $0 to Hinaree in $7.
+- **17410**: Deliver a total-wotal of $1 $0 to Hinaree in $7.
+- **17411**: Once you've made the delivery-wivery, come see me.
+- **17412**: Let's see here... Your current requestaru is...
+- **17413**: How is the requestaru going? Good I hope?
+- **17414**: Everything okay? [Everything's great!/It could be better...]
+- **17415**: Yes, I'm relieved to hear it. Keep up the good work until the requestaru is complete.
+- **17416**: Hm?! Surely you're joking-woking? Do you really want to give up on this request?
+- **17417**: Will you see this through? [I'll do my best./I've had enough.]
+- **17418**: Is that so... Well, if you're not feeling up to it, it's a disservice to our customers-wustomers. I'll ask another craftsman for help.
+- **17419**: Take a momentaru to refresh yourself and come back for another request after you're feeling better.
+- **17420**: So, are you feeling-weeling any better now? If so, let's get on to the next request.
+- **17421**: Welcome back. It seems you took care of that requestaru for me. I'm sure the customer is quite pleased.
+- **17422**: Excellentaru work! You've completed all of the requests. I bet it's the most satisfied customer ever!
+- **17423**: Here you go. I presentaru you with the $0 and $1.
+- **17424**: Also, if you ever need more of them, you can make a trade using guild points.
+- **17425**: Lately, I've been wondering what it'd be like to boil-woil or grill this thing... Would it taste any good?
+- **17426**: Did it finally turn into a frying pan this time around? I think that'd be a simply perfect resultaru.
+- **17427**: Oh, it's justaru a shield. Although, I can vouch for just how amazing both it and you are!
+- **17428**: Our friend seems to think that the nextaru upgrade will unlock the shield's ultimate power. I can't wait to see it for myself.
+- **17429**: Oh, wait just a momentaru. I have a new crafting technique that I think you'd do quite well with. I can't wait to see what you cook up with it!
+- **17430**: I thoughtaru you'd be coming around here! The shield has almost reached its final form!
+- **17431**: Allow me to teach-weach you how to obtain the necessary ingredients.
+- **17432**: First, there's the $2 and the $3.
+- **17433**: You can get them from Isanie by trading crafter points for them. I have a feeling-weeling you already knew that, though.
+- **17434**: Next is the $1. It's the same procedure you've used before. Visitaru me after you raise your shield's Craftsmanship to 100%.
+- **17435**: That's it for how to obtain the materials! I suppose you should get started by giving your Craftsmanship rating a boostaru!
+- **17436**: Here's the $0 as per the instructions I received. I heard that Mewk Chorosap wants it delivered to her. If possible-wossible, can you take it there for me?
+- **17437**: How're things?
+- **17438**: Hmm... That was a request by a Tarutaru girl from Adoulin. I remember-wember it because that was the first time that somebody had ordered something other than food from us.
+- **17439**: Unfortunately, you're too late. She asked me to send it to Jeuno, so that's justaru what I did.
+- **17440**: I imagine it has already been delivered to Mewk Chorosap in Port Jeuno by now. You should go and take a look.
+- **17441**: Ahh, welcome! Take a look at this delicious looking bread on this emblem-wemblem. I made it the other day. For some reason, it was being used as a pot lid...
+- **17442**: Hm? You need it for something-womething? Sure, feel free to take it then!
+- **17443**: Uwah! It's finished at lastaru!
+- **17444**: Look at that tasty-looking emblem! It's rather-wather unfortunate that it can't be eaten.
+- **17445**: I bet if we used this as a frying pan to cook with, we could make all kinds of delicious dishes-wishes...
+- **17446**: At any rate, good work out there. Here, I have something to reward you for your effortaru.
+- **17447**: This should help you cook up quite a treataru! I hope you'll use it to bring joy to even more satisfied customers!
 
 ## Events
 
@@ -1343,12 +1343,12 @@ SUBROUTINE_0907:
   9: 0x0959 [0x4A] EventEntity looks at LocalPlayer
  10: 0x0962 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x0963 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 12: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=17355*)
+ 12: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=17360*)
     → "Hm? You say you forgotaru the recipe? I know we do things differently, but it's important to remember these kinds of things."
  13: 0x0967 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0968 [0x1A] CALL_SUBROUTINE(address=0x1561)
  15: 0x096B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 16: 0x097A [0x1D] PRINT_EVENT_MESSAGE(message_id=17356*)
+ 16: 0x097A [0x1D] PRINT_EVENT_MESSAGE(message_id=17361*)
     → "You're my constantaru partner on the path of fine cuisine. If anybody can make this shield, it's you!"
  17: 0x097D [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x097E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -1397,12 +1397,12 @@ SUBROUTINE_0990:
  10: 0x09C4 [0x4A] LocalPlayer looks at EventEntity
  11: 0x09CD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  12: 0x09CE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 13: 0x09CF [0x1D] PRINT_EVENT_MESSAGE(message_id=17355*)
+ 13: 0x09CF [0x1D] PRINT_EVENT_MESSAGE(message_id=17360*)
     → "Hm? You say you forgotaru the recipe? I know we do things differently, but it's important to remember these kinds of things."
  14: 0x09D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x09D3 [0x1A] CALL_SUBROUTINE(address=0x15B0)
  16: 0x09D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 17: 0x09E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17356*)
+ 17: 0x09E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17361*)
     → "You're my constantaru partner on the path of fine cuisine. If anybody can make this shield, it's you!"
  18: 0x09E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x09E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -1443,10 +1443,10 @@ SUBROUTINE_0990:
   3: 0x0A10 [0x4A] LocalPlayer looks at EventEntity
   4: 0x0A19 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0A1A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x0A1B [0x1D] PRINT_EVENT_MESSAGE(message_id=17371*)
+  6: 0x0A1B [0x1D] PRINT_EVENT_MESSAGE(message_id=17376*)
     → "Take this to Mewk Chorosap in Jeuno in order to complete the requestaru."
   7: 0x0A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0A1F [0x1D] PRINT_EVENT_MESSAGE(message_id=17372*)
+  8: 0x0A1F [0x1D] PRINT_EVENT_MESSAGE(message_id=17377*)
     → "Oh, and I often have deliveries for Isanie. I could really use your expertaru skills in bringing along the newer guild members."
   9: 0x0A22 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0A23 [0x01] GOTO 0x0A74
@@ -1455,10 +1455,10 @@ SUBROUTINE_0990:
  13: 0x0A37 [0x4A] LocalPlayer looks at EventEntity
  14: 0x0A40 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  15: 0x0A41 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 16: 0x0A42 [0x1D] PRINT_EVENT_MESSAGE(message_id=17371*)
+ 16: 0x0A42 [0x1D] PRINT_EVENT_MESSAGE(message_id=17376*)
     → "Take this to Mewk Chorosap in Jeuno in order to complete the requestaru."
  17: 0x0A45 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0A46 [0x1D] PRINT_EVENT_MESSAGE(message_id=17372*)
+ 18: 0x0A46 [0x1D] PRINT_EVENT_MESSAGE(message_id=17377*)
     → "Oh, and I often have deliveries for Isanie. I could really use your expertaru skills in bringing along the newer guild members."
  19: 0x0A49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0A4A [0x01] GOTO 0x0A74
@@ -1467,10 +1467,10 @@ SUBROUTINE_0990:
  23: 0x0A5E [0x4A] LocalPlayer looks at EventEntity
  24: 0x0A67 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  25: 0x0A68 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 26: 0x0A69 [0x1D] PRINT_EVENT_MESSAGE(message_id=17371*)
+ 26: 0x0A69 [0x1D] PRINT_EVENT_MESSAGE(message_id=17376*)
     → "Take this to Mewk Chorosap in Jeuno in order to complete the requestaru."
  27: 0x0A6C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0A6D [0x1D] PRINT_EVENT_MESSAGE(message_id=17372*)
+ 28: 0x0A6D [0x1D] PRINT_EVENT_MESSAGE(message_id=17377*)
     → "Oh, and I often have deliveries for Isanie. I could really use your expertaru skills in bringing along the newer guild members."
  29: 0x0A70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0A71 [0x01] GOTO 0x0A74
@@ -1526,69 +1526,69 @@ SUBROUTINE_0A74:
   9: 0x0AA2 [0x4A] EventEntity looks at LocalPlayer
  10: 0x0AAB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x0AAC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 12: 0x0AAD [0x1D] PRINT_EVENT_MESSAGE(message_id=17336*)
+ 12: 0x0AAD [0x1D] PRINT_EVENT_MESSAGE(message_id=17341*)
     → "Oh, hello. Hm? Whataru is that shield you're holding?"
  13: 0x0AB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0AB1 [0x6E] EventEntity uses emote 7*
  15: 0x0AB8 [0x99] Wait for EventEntity animation to complete
- 16: 0x0ABD [0x1D] PRINT_EVENT_MESSAGE(message_id=17337*)
+ 16: 0x0ABD [0x1D] PRINT_EVENT_MESSAGE(message_id=17342*)
     → "Ahh, I see... You must've spoken with her."
  17: 0x0AC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0AC1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 19: 0x0AD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=17338*)
+ 19: 0x0AD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=17343*)
     → "Yes, I've heard the stories... That it's possible-wossible to equip a shield that boosts your crafting skill."
  20: 0x0AD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0AD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=17339*)
+ 21: 0x0AD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=17344*)
     → "If anybody has the ability to create such a thing, it's you. I'm sure she chose you for a reason-weason."
  22: 0x0AD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=17340*)
+ 23: 0x0AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=17345*)
     → "I don't understand how a shield helps one's cooking, but if she's right, that'd be quite the talentaru to have."
  24: 0x0ADB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0ADC [0x1D] PRINT_EVENT_MESSAGE(message_id=17341*)
+ 25: 0x0ADC [0x1D] PRINT_EVENT_MESSAGE(message_id=17346*)
     → "First, let's go over the recipe. Try not to forgetaru it!"
  26: 0x0ADF [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0AE0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
  28: 0x0AEF [0x1A] CALL_SUBROUTINE(address=0x1561)
  29: 0x0AF2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 30: 0x0B01 [0x1D] PRINT_EVENT_MESSAGE(message_id=17342*)
+ 30: 0x0B01 [0x1D] PRINT_EVENT_MESSAGE(message_id=17347*)
     → "So, the first ingredientaru you'll need is $1..."
  31: 0x0B04 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0B05 [0x1D] PRINT_EVENT_MESSAGE(message_id=17343*)
+ 32: 0x0B05 [0x1D] PRINT_EVENT_MESSAGE(message_id=17348*)
     → "Its purpose is to boostaru the Craftsmanship of the $0 to its maximum value."
  33: 0x0B08 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0B09 [0x1D] PRINT_EVENT_MESSAGE(message_id=17344*)
+ 34: 0x0B09 [0x1D] PRINT_EVENT_MESSAGE(message_id=17349*)
     → "I've actually got a memo-wemo on Craftsmanship here to read to you."
  35: 0x0B0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0B0D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 37: 0x0B1C [0x48] [System] [17345*]:
+ 37: 0x0B1C [0x48] [System] [17350*]:
     → "You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped."
  38: 0x0B1F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0B20 [0x48] [System] [17346*]:
+ 39: 0x0B20 [0x48] [System] [17351*]:
     → "Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you have trouble."
  40: 0x0B23 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0B24 [0x48] [System] [17347*]:
+ 41: 0x0B24 [0x48] [System] [17352*]:
     → "In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect."
  42: 0x0B27 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0B28 [0x48] [System] [17348*]:
+ 43: 0x0B28 [0x48] [System] [17353*]:
     → "You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha..."
  44: 0x0B2B [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0B2C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 46: 0x0B3B [0x1D] PRINT_EVENT_MESSAGE(message_id=17349*)
+ 46: 0x0B3B [0x1D] PRINT_EVENT_MESSAGE(message_id=17354*)
     → "That's all it says."
  47: 0x0B3E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x0B3F [0x1D] PRINT_EVENT_MESSAGE(message_id=17350*)
+ 48: 0x0B3F [0x1D] PRINT_EVENT_MESSAGE(message_id=17355*)
     → "Come show me once you've raised the Craftsmanship to the necessary level-wevel. I'll make you the $1 you need."
  49: 0x0B42 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x0B43 [0x1D] PRINT_EVENT_MESSAGE(message_id=17351*)
+ 50: 0x0B43 [0x1D] PRINT_EVENT_MESSAGE(message_id=17356*)
     → "After that, you'll need $2 and $3. You can get them from Isanie."
  51: 0x0B46 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x0B47 [0x1D] PRINT_EVENT_MESSAGE(message_id=17352*)
+ 52: 0x0B47 [0x1D] PRINT_EVENT_MESSAGE(message_id=17357*)
     → "You have experience making deliveries, correctaru? This is basically the same thing."
  53: 0x0B4A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0B4B [0x1D] PRINT_EVENT_MESSAGE(message_id=17353*)
+ 54: 0x0B4B [0x1D] PRINT_EVENT_MESSAGE(message_id=17358*)
     → "If you need to know more, justaru go talk to Isanie."
  55: 0x0B4E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0B4F [0x1D] PRINT_EVENT_MESSAGE(message_id=17354*)
+ 56: 0x0B4F [0x1D] PRINT_EVENT_MESSAGE(message_id=17359*)
     → "That's it for the ingredients! Come show me the shield when you're done. It has really piqued my interestaru. Do you think we can use it as a frying pan?"
  57: 0x0B52 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0B53 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -1645,11 +1645,11 @@ SUBROUTINE_0B65:
  10: 0x0B99 [0x4A] LocalPlayer looks at EventEntity
  11: 0x0BA2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  12: 0x0BA3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 13: 0x0BA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=17373*)
+ 13: 0x0BA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=17378*)
     → "Hello there. I suppose you're here to upgrade your shield, yes? I've already heard all aboutaru it."
  14: 0x0BA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0BA8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 16: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17374*)
+ 16: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17379*)
     → "The first thing is to teach you the recipe. Try not to forgetaru it, okay?"
  17: 0x0BBA [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0BBB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -1660,33 +1660,33 @@ SUBROUTINE_0B65:
  23: 0x0BDC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[21]
  24: 0x0BE1 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[22]
  25: 0x0BE6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 26: 0x0BF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17375*)
+ 26: 0x0BF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17380*)
     → "This is much differentaru than the recipes I'm used to."
  27: 0x0BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0BF9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 29: 0x0C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=17376*)
+ 29: 0x0C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=17381*)
     → "At any rate, I need to tell you how to obtain the listaru of ingredients. The first one is the $1."
  30: 0x0C0B [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0C0C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 32: 0x0C1B [0x1D] PRINT_EVENT_MESSAGE(message_id=17377*)
+ 32: 0x0C1B [0x1D] PRINT_EVENT_MESSAGE(message_id=17382*)
     → "Last time, you used the aspis to increase the Craftsmanship. Basically, you need to do the same thing again to craftaru items while the $0 is equipped."
  33: 0x0C1E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0C1F [0x1D] PRINT_EVENT_MESSAGE(message_id=17378*)
+ 34: 0x0C1F [0x1D] PRINT_EVENT_MESSAGE(message_id=17383*)
     → "It seems that it will take longer to boostaru the Craftsmanship this time around. As such, you'll need to have patience."
  35: 0x0C22 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=17379*)
+ 36: 0x0C23 [0x1D] PRINT_EVENT_MESSAGE(message_id=17384*)
     → "Bring me the shield once it reaches 100% and I'll use my expertaru skills to create the $1 for you."
  37: 0x0C26 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0C27 [0x1D] PRINT_EVENT_MESSAGE(message_id=17380*)
+ 38: 0x0C27 [0x1D] PRINT_EVENT_MESSAGE(message_id=17385*)
     → "The next ingredientaru you'll require is the $2. I've given it and the $3 that you used last time to Isanie."
  39: 0x0C2A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0C2B [0x1D] PRINT_EVENT_MESSAGE(message_id=17381*)
+ 40: 0x0C2B [0x1D] PRINT_EVENT_MESSAGE(message_id=17386*)
     → "The lastaru ingredient you'll need is the $4. I've teamed up with the A.M.A.N. to create some Records of Eminence objectives for you."
  41: 0x0C2E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=17382*)
+ 42: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=17387*)
     → "Check the Records of Eminence menu to find out the extentaru of the objectives. Once you've completed them all, you'll receive the $4."
  43: 0x0C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=17383*)
+ 44: 0x0C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=17388*)
     → "That's it for the ingredients! Think you can handle it? I'm confidentaru that you have what it takes to succeed."
  45: 0x0C36 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0C37 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -1740,36 +1740,36 @@ SUBROUTINE_0B65:
   8: 0x0C74 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x0C75 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  10: 0x0C76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 11: 0x0C85 [0x1D] PRINT_EVENT_MESSAGE(message_id=17394*)
+ 11: 0x0C85 [0x1D] PRINT_EVENT_MESSAGE(message_id=17399*)
     → "Hm? It's that frying pan...oh, I mean shield, again! Now, let's get you that recipe-wecipe."
  12: 0x0C88 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0C89 [0x1D] PRINT_EVENT_MESSAGE(message_id=17395*)
+ 13: 0x0C89 [0x1D] PRINT_EVENT_MESSAGE(message_id=17400*)
     → "Oh, you already know the recipe. So I suppose you need to know how to obtain what's on the ingredients listaru."
  14: 0x0C8C [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0C8D [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[19]
  16: 0x0C92 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[20]
  17: 0x0C97 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 18: 0x0CA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17396*)
+ 18: 0x0CA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17401*)
     → "The $4 and $5... Okay, listen carefully-warefully."
  19: 0x0CA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0CAA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
  21: 0x0CB9 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  22: 0x0CC6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 23: 0x0CD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17397*)
+ 23: 0x0CD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17402*)
     → "You see, the Culinarians' Guild has received quite a few delivery orders for our delicious-welicious food. We could really use your help."
  24: 0x0CD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17398*)
+ 25: 0x0CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17403*)
     → "However, this is a little differentaru than our usual deliveries. Food is always best when cooked fresh, so you need to make it in front of the customer."
  26: 0x0CDC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0CDD [0x1D] PRINT_EVENT_MESSAGE(message_id=17399*)
+ 27: 0x0CDD [0x1D] PRINT_EVENT_MESSAGE(message_id=17404*)
     → "Of course, I would demand the same treatmentaru myself. So basically, anything made elsewhere will not be accepted."
  28: 0x0CE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0CE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17400*)
+ 29: 0x0CE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17405*)
     → "Once you have delivered all of the food, I can give you the $4 and $5 you're looking-wooking for."
  30: 0x0CE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0CE5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
  32: 0x0CF4 [0x03] Work_Zone[2] = 0*
- 33: 0x0CF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17401*)
+ 33: 0x0CF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17406*)
     → "Okay, this is the [first/next/final] request."
  34: 0x0CFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0CFD [0x03] Work_Zone[1] = 1*
@@ -1783,7 +1783,7 @@ SUBROUTINE_0B65:
  43: 0x0D1A [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[4]
  44: 0x0D1F [0x1A] CALL_SUBROUTINE(address=0x160D)
  45: 0x0D22 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 46: 0x0D31 [0x1D] PRINT_EVENT_MESSAGE(message_id=17406*)
+ 46: 0x0D31 [0x1D] PRINT_EVENT_MESSAGE(message_id=17411*)
     → "Once you've made the delivery-wivery, come see me."
  47: 0x0D34 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0D35 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -1831,27 +1831,27 @@ SUBROUTINE_0B65:
  10: 0x0D78 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x0D79 [0x6E] EventEntity uses emote 7*
  12: 0x0D80 [0x99] Wait for EventEntity animation to complete
- 13: 0x0D85 [0x1D] PRINT_EVENT_MESSAGE(message_id=17425*)
+ 13: 0x0D85 [0x1D] PRINT_EVENT_MESSAGE(message_id=17430*)
     → "I thoughtaru you'd be coming around here! The shield has almost reached its final form!"
  14: 0x0D88 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0D89 [0x1D] PRINT_EVENT_MESSAGE(message_id=17426*)
+ 15: 0x0D89 [0x1D] PRINT_EVENT_MESSAGE(message_id=17431*)
     → "Allow me to teach-weach you how to obtain the necessary ingredients."
  16: 0x0D8C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0D8D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
  18: 0x0D92 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
  19: 0x0D97 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[21]
  20: 0x0D9C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 21: 0x0DAB [0x1D] PRINT_EVENT_MESSAGE(message_id=17427*)
+ 21: 0x0DAB [0x1D] PRINT_EVENT_MESSAGE(message_id=17432*)
     → "First, there's the $2 and the $3."
  22: 0x0DAE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=17428*)
+ 23: 0x0DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=17433*)
     → "You can get them from Isanie by trading crafter points for them. I have a feeling-weeling you already knew that, though."
  24: 0x0DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0DB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17429*)
+ 25: 0x0DB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17434*)
     → "Next is the $1. It's the same procedure you've used before. Visitaru me after you raise your shield's Craftsmanship to 100%."
  26: 0x0DB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0DB7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 28: 0x0DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17430*)
+ 28: 0x0DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17435*)
     → "That's it for how to obtain the materials! I suppose you should get started by giving your Craftsmanship rating a boostaru!"
  29: 0x0DC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0DCA [0x21] END_EVENT
@@ -1895,24 +1895,24 @@ SUBROUTINE_0B65:
   4: 0x0DE0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0DE1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
   6: 0x0DF0 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0DFF
-  7: 0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=17415*)
+  7: 0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=17420*)
     → "So, are you feeling-weeling any better now? If so, let's get on to the next request."
   8: 0x0DFB [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0DFC [0x01] GOTO 0x0E24
  10: 0x0DFF [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0E17
  11: 0x0E07 [0x03] Work_Zone[2] = 2*
- 12: 0x0E0C [0x1D] PRINT_EVENT_MESSAGE(message_id=17416*)
+ 12: 0x0E0C [0x1D] PRINT_EVENT_MESSAGE(message_id=17421*)
     → "Welcome back. It seems you took care of that requestaru for me. I'm sure the customer is quite pleased."
  13: 0x0E0F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0E10 [0x1D] PRINT_EVENT_MESSAGE(message_id=17401*)
+ 14: 0x0E10 [0x1D] PRINT_EVENT_MESSAGE(message_id=17406*)
     → "Okay, this is the [first/next/final] request."
  15: 0x0E13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0E14 [0x01] GOTO 0x0E24
  17: 0x0E17 [0x03] Work_Zone[2] = 1*
- 18: 0x0E1C [0x1D] PRINT_EVENT_MESSAGE(message_id=17416*)
+ 18: 0x0E1C [0x1D] PRINT_EVENT_MESSAGE(message_id=17421*)
     → "Welcome back. It seems you took care of that requestaru for me. I'm sure the customer is quite pleased."
  19: 0x0E1F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0E20 [0x1D] PRINT_EVENT_MESSAGE(message_id=17401*)
+ 20: 0x0E20 [0x1D] PRINT_EVENT_MESSAGE(message_id=17406*)
     → "Okay, this is the [first/next/final] request."
  21: 0x0E23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1929,7 +1929,7 @@ SUBROUTINE_0E24:
  31: 0x0E50 [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[4]
  32: 0x0E55 [0x1A] CALL_SUBROUTINE(address=0x160D)
  33: 0x0E58 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 34: 0x0E67 [0x1D] PRINT_EVENT_MESSAGE(message_id=17406*)
+ 34: 0x0E67 [0x1D] PRINT_EVENT_MESSAGE(message_id=17411*)
     → "Once you've made the delivery-wivery, come see me."
  35: 0x0E6A [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0E6B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -1976,7 +1976,7 @@ SUBROUTINE_0E24:
   2: 0x0E8E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0E8F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0E90 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0E9F [0x1D] PRINT_EVENT_MESSAGE(message_id=17407*)
+  5: 0x0E9F [0x1D] PRINT_EVENT_MESSAGE(message_id=17412*)
     → "Let's see here... Your current requestaru is..."
   6: 0x0EA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0EA3 [0x03] Work_Zone[1] = 1*
@@ -1990,14 +1990,14 @@ SUBROUTINE_0E24:
  15: 0x0EC0 [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[4]
  16: 0x0EC5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  17: 0x0ED4 [0x1A] CALL_SUBROUTINE(address=0x160D)
- 18: 0x0ED7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17408*)
+ 18: 0x0ED7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17413*)
     → "How is the requestaru going? Good I hope?"
  19: 0x0EDA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0EDB [0x24] CREATE_DIALOG(message_id=17409*, default_option=0*, option_flags=0*)
+ 20: 0x0EDB [0x24] CREATE_DIALOG(message_id=17414*, default_option=0*, option_flags=0*)
     → "Everything okay? [Everything's great!/It could be better...]"
  21: 0x0EE2 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0EE3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EF9
- 23: 0x0EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=17410*)
+ 23: 0x0EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=17415*)
     → "Yes, I'm relieved to hear it. Keep up the good work until the requestaru is complete."
  24: 0x0EEE [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0EEF [0x03] Work_Zone[1] = 1073741824*
@@ -2006,15 +2006,15 @@ SUBROUTINE_0E24:
 
 SUBROUTINE_0EF9:
  28: 0x0EF9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 29: 0x0F08 [0x1D] PRINT_EVENT_MESSAGE(message_id=17411*)
+ 29: 0x0F08 [0x1D] PRINT_EVENT_MESSAGE(message_id=17416*)
     → "Hm?! Surely you're joking-woking? Do you really want to give up on this request?"
  30: 0x0F0B [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0F0C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 32: 0x0F1B [0x24] CREATE_DIALOG(message_id=17412*, default_option=0*, option_flags=0*)
+ 32: 0x0F1B [0x24] CREATE_DIALOG(message_id=17417*, default_option=0*, option_flags=0*)
     → "Will you see this through? [I'll do my best./I've had enough.]"
  33: 0x0F22 [0x25] WAIT_DIALOG_SELECT()
  34: 0x0F23 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F39
- 35: 0x0F2B [0x1D] PRINT_EVENT_MESSAGE(message_id=17410*)
+ 35: 0x0F2B [0x1D] PRINT_EVENT_MESSAGE(message_id=17415*)
     → "Yes, I'm relieved to hear it. Keep up the good work until the requestaru is complete."
  36: 0x0F2E [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0F2F [0x03] Work_Zone[1] = 1073741824*
@@ -2024,10 +2024,10 @@ SUBROUTINE_0EF9:
 SUBROUTINE_0F39:
  40: 0x0F39 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  41: 0x0F3A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
- 42: 0x0F49 [0x1D] PRINT_EVENT_MESSAGE(message_id=17413*)
+ 42: 0x0F49 [0x1D] PRINT_EVENT_MESSAGE(message_id=17418*)
     → "Is that so... Well, if you're not feeling up to it, it's a disservice to our customers-wustomers. I'll ask another craftsman for help."
  43: 0x0F4C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0F4D [0x1D] PRINT_EVENT_MESSAGE(message_id=17414*)
+ 44: 0x0F4D [0x1D] PRINT_EVENT_MESSAGE(message_id=17419*)
     → "Take a momentaru to refresh yourself and come back for another request after you're feeling better."
  45: 0x0F50 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0F51 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=40*
@@ -2075,15 +2075,15 @@ SUBROUTINE_0F39:
   3: 0x0F7A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0F7B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0F7C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
-  6: 0x0F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=17417*)
+  6: 0x0F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=17422*)
     → "Excellentaru work! You've completed all of the requests. I bet it's the most satisfied customer ever!"
   7: 0x0F8E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0F8F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-  9: 0x0F9E [0x1D] PRINT_EVENT_MESSAGE(message_id=17418*)
+  9: 0x0F9E [0x1D] PRINT_EVENT_MESSAGE(message_id=17423*)
     → "Here you go. I presentaru you with the $0 and $1."
  10: 0x0FA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0FA2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 12: 0x0FAF [0x1D] PRINT_EVENT_MESSAGE(message_id=17419*)
+ 12: 0x0FAF [0x1D] PRINT_EVENT_MESSAGE(message_id=17424*)
     → "Also, if you ever need more of them, you can make a trade using guild points."
  13: 0x0FB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0FB3 [0x21] END_EVENT
@@ -2130,7 +2130,7 @@ SUBROUTINE_0F39:
   7: 0x0FD7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x0FD8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
   9: 0x0FDD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
- 10: 0x0FE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17357*)
+ 10: 0x0FE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17362*)
     → "Oh, you did it! Now, I can make the $0 on the listaru."
  11: 0x0FE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0FE6 [0x1A] CALL_SUBROUTINE(address=0x16E3)
@@ -2138,23 +2138,23 @@ SUBROUTINE_0F39:
  14: 0x0FEC [0x1A] CALL_SUBROUTINE(address=0x16C2)
  15: 0x0FEF [0x1C] WAIT(30* ticks)
  16: 0x0FF2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 17: 0x1001 [0x1D] PRINT_EVENT_MESSAGE(message_id=17358*)
+ 17: 0x1001 [0x1D] PRINT_EVENT_MESSAGE(message_id=17363*)
     → "So this is the $0. It turned out perfectaru."
  18: 0x1004 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x1005 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  20: 0x1012 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 21: 0x1021 [0x1D] PRINT_EVENT_MESSAGE(message_id=17359*)
+ 21: 0x1021 [0x1D] PRINT_EVENT_MESSAGE(message_id=17364*)
     → "I'm not sure I know why, but seeing this crystal made by pouring my soul into the shield, I start feeling hungry-wungry."
  22: 0x1024 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x1025 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 24: 0x1034 [0x1D] PRINT_EVENT_MESSAGE(message_id=17360*)
+ 24: 0x1034 [0x1D] PRINT_EVENT_MESSAGE(message_id=17365*)
     → "Hmm... In creating the $0, it appears to have the effectaru of reducing the Craftsmanship of the $1."
  25: 0x1037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x1038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 27: 0x1047 [0x1D] PRINT_EVENT_MESSAGE(message_id=17361*)
+ 27: 0x1047 [0x1D] PRINT_EVENT_MESSAGE(message_id=17366*)
     → "That's no problem-woblem if you want to upgrade the $1, but if you need to make another $0, you'll have to raise the Craftsmanship again."
  28: 0x104A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x104B [0x1D] PRINT_EVENT_MESSAGE(message_id=17362*)
+ 29: 0x104B [0x1D] PRINT_EVENT_MESSAGE(message_id=17367*)
     → "Of course, I'm sure I can countaru on you to never lose this thing."
  30: 0x104E [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x104F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -2200,10 +2200,10 @@ SUBROUTINE_1061:
   5: 0x107C [0x4A] LocalPlayer looks at EventEntity
   6: 0x1085 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
   7: 0x108A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
-  8: 0x108F [0x1D] PRINT_EVENT_MESSAGE(message_id=17384*)
+  8: 0x108F [0x1D] PRINT_EVENT_MESSAGE(message_id=17389*)
     → "Well, let's see what you've got there."
   9: 0x1092 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x1093 [0x1D] PRINT_EVENT_MESSAGE(message_id=17385*)
+ 10: 0x1093 [0x1D] PRINT_EVENT_MESSAGE(message_id=17390*)
     → "Yes! This'll do just fine! Here, let me get a startaru on that $0 for you."
  11: 0x1096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1097 [0x1A] CALL_SUBROUTINE(address=0x16E3)
@@ -2211,16 +2211,16 @@ SUBROUTINE_1061:
  14: 0x109D [0x1A] CALL_SUBROUTINE(address=0x16C2)
  15: 0x10A0 [0x1C] WAIT(30* ticks)
  16: 0x10A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 17: 0x10B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17386*)
+ 17: 0x10B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17391*)
     → "Okay, it's all finished. Tell me, whataru do you think?"
  18: 0x10B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x10B6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  20: 0x10C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 21: 0x10D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17387*)
+ 21: 0x10D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17392*)
     → "Hmm... It looks like creating the $0 has caused its Craftsmanship to revertaru downwards again."
  22: 0x10D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x10D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 24: 0x10E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17388*)
+ 24: 0x10E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17393*)
     → "Remember, if you lose the $0, you'll need to boostaru the shield's Craftsmanship again. Do be careful with it."
  25: 0x10E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x10E9 [0x21] END_EVENT
@@ -2265,10 +2265,10 @@ SUBROUTINE_1061:
   7: 0x110E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x110F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
   9: 0x1114 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
- 10: 0x1119 [0x1D] PRINT_EVENT_MESSAGE(message_id=17384*)
+ 10: 0x1119 [0x1D] PRINT_EVENT_MESSAGE(message_id=17389*)
     → "Well, let's see what you've got there."
  11: 0x111C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x111D [0x1D] PRINT_EVENT_MESSAGE(message_id=17385*)
+ 12: 0x111D [0x1D] PRINT_EVENT_MESSAGE(message_id=17390*)
     → "Yes! This'll do just fine! Here, let me get a startaru on that $0 for you."
  13: 0x1120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1121 [0x1A] CALL_SUBROUTINE(address=0x16E3)
@@ -2276,19 +2276,19 @@ SUBROUTINE_1061:
  16: 0x1127 [0x1A] CALL_SUBROUTINE(address=0x16C2)
  17: 0x112A [0x1C] WAIT(30* ticks)
  18: 0x112D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 19: 0x113C [0x1D] PRINT_EVENT_MESSAGE(message_id=17386*)
+ 19: 0x113C [0x1D] PRINT_EVENT_MESSAGE(message_id=17391*)
     → "Okay, it's all finished. Tell me, whataru do you think?"
  20: 0x113F [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1140 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 22: 0x114D [0x1D] PRINT_EVENT_MESSAGE(message_id=17420*)
+ 22: 0x114D [0x1D] PRINT_EVENT_MESSAGE(message_id=17425*)
     → "Lately, I've been wondering what it'd be like to boil-woil or grill this thing... Would it taste any good?"
  23: 0x1150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1151 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 25: 0x1160 [0x1D] PRINT_EVENT_MESSAGE(message_id=17387*)
+ 25: 0x1160 [0x1D] PRINT_EVENT_MESSAGE(message_id=17392*)
     → "Hmm... It looks like creating the $0 has caused its Craftsmanship to revertaru downwards again."
  26: 0x1163 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x1164 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 28: 0x1173 [0x1D] PRINT_EVENT_MESSAGE(message_id=17388*)
+ 28: 0x1173 [0x1D] PRINT_EVENT_MESSAGE(message_id=17393*)
     → "Remember, if you lose the $0, you'll need to boostaru the shield's Craftsmanship again. Do be careful with it."
  29: 0x1176 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1177 [0x21] END_EVENT
@@ -2332,10 +2332,10 @@ SUBROUTINE_1061:
   7: 0x11A0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
   8: 0x11A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x11A6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 10: 0x11A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17384*)
+ 10: 0x11A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17389*)
     → "Well, let's see what you've got there."
  11: 0x11AA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x11AB [0x1D] PRINT_EVENT_MESSAGE(message_id=17385*)
+ 12: 0x11AB [0x1D] PRINT_EVENT_MESSAGE(message_id=17390*)
     → "Yes! This'll do just fine! Here, let me get a startaru on that $0 for you."
  13: 0x11AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x11AF [0x1A] CALL_SUBROUTINE(address=0x16E3)
@@ -2343,12 +2343,12 @@ SUBROUTINE_1061:
  16: 0x11B5 [0x1A] CALL_SUBROUTINE(address=0x16C2)
  17: 0x11B8 [0x1C] WAIT(30* ticks)
  18: 0x11BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 19: 0x11CA [0x1D] PRINT_EVENT_MESSAGE(message_id=17386*)
+ 19: 0x11CA [0x1D] PRINT_EVENT_MESSAGE(message_id=17391*)
     → "Okay, it's all finished. Tell me, whataru do you think?"
  20: 0x11CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x11CE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  22: 0x11DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 23: 0x11EA [0x1D] PRINT_EVENT_MESSAGE(message_id=17431*)
+ 23: 0x11EA [0x1D] PRINT_EVENT_MESSAGE(message_id=17436*)
     → "Here's the $0 as per the instructions I received. I heard that Mewk Chorosap wants it delivered to her. If possible-wossible, can you take it there for me?"
  24: 0x11ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x11EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2388,10 +2388,10 @@ SUBROUTINE_1061:
   4: 0x120F [0x4A] EventEntity looks at LocalPlayer
   5: 0x1218 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
   6: 0x121D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
-  7: 0x1222 [0x1D] PRINT_EVENT_MESSAGE(message_id=17363*)
+  7: 0x1222 [0x1D] PRINT_EVENT_MESSAGE(message_id=17368*)
     → "What? Did you really lose the $0? After that little chataru that we had too?"
   8: 0x1225 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x1226 [0x1D] PRINT_EVENT_MESSAGE(message_id=17364*)
+  9: 0x1226 [0x1D] PRINT_EVENT_MESSAGE(message_id=17369*)
     → "Never mind. I'll simply-wimply make you another $0. Let me see your shield."
  10: 0x1229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x122A [0x1A] CALL_SUBROUTINE(address=0x16E3)
@@ -2399,7 +2399,7 @@ SUBROUTINE_1061:
  13: 0x1230 [0x1A] CALL_SUBROUTINE(address=0x16C2)
  14: 0x1233 [0x1C] WAIT(30* ticks)
  15: 0x1236 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 16: 0x1245 [0x1D] PRINT_EVENT_MESSAGE(message_id=17365*)
+ 16: 0x1245 [0x1D] PRINT_EVENT_MESSAGE(message_id=17370*)
     → "You're better than this. People of your talentaru should take better care of their ingredients."
  17: 0x1248 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1249 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2436,10 +2436,10 @@ SUBROUTINE_1061:
   3: 0x126B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x126C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x126D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x127C [0x1D] PRINT_EVENT_MESSAGE(message_id=17436*)
+  6: 0x127C [0x1D] PRINT_EVENT_MESSAGE(message_id=17441*)
     → "Ahh, welcome! Take a look at this delicious looking bread on this emblem-wemblem. I made it the other day. For some reason, it was being used as a pot lid..."
   7: 0x127F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x1280 [0x1D] PRINT_EVENT_MESSAGE(message_id=17437*)
+  8: 0x1280 [0x1D] PRINT_EVENT_MESSAGE(message_id=17442*)
     → "Hm? You need it for something-womething? Sure, feel free to take it then!"
   9: 0x1283 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1284 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2478,14 +2478,14 @@ SUBROUTINE_1061:
   5: 0x12AE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x12AF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
   7: 0x12B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  8: 0x12C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17363*)
+  8: 0x12C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17368*)
     → "What? Did you really lose the $0? After that little chataru that we had too?"
   9: 0x12C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x12C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 11: 0x12D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17393*)
+ 11: 0x12D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17398*)
     → "Hmm... You must complete this final objective or your task will be an abjectaru failure. Go and give it another try."
  12: 0x12D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x12DA [0x1D] PRINT_EVENT_MESSAGE(message_id=17365*)
+ 13: 0x12DA [0x1D] PRINT_EVENT_MESSAGE(message_id=17370*)
     → "You're better than this. People of your talentaru should take better care of their ingredients."
  14: 0x12DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x12DE [0x21] END_EVENT
@@ -2524,19 +2524,19 @@ SUBROUTINE_1061:
   1: 0x12E5 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x137A
   2: 0x12ED [0x42] SET_CLI_EVENT_CANCEL_DATA()
   3: 0x12EE [0x4A] EventEntity looks at LocalPlayer
-  4: 0x12F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17366*)
+  4: 0x12F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17371*)
     → "It looks like the upgrade is complete. Hurry up now! Let me see it!"
   5: 0x12FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x12FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  7: 0x130A [0x1D] PRINT_EVENT_MESSAGE(message_id=17367*)
+  7: 0x130A [0x1D] PRINT_EVENT_MESSAGE(message_id=17372*)
     → "Hmm... I can tell that it looks different-wifferent. And it smells good too! Although, it doesn't seem like it's complete."
   8: 0x130D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x130E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 10: 0x131D [0x1D] PRINT_EVENT_MESSAGE(message_id=17368*)
+ 10: 0x131D [0x1D] PRINT_EVENT_MESSAGE(message_id=17373*)
     → "I heard her say that you'll need to craft with it multiple times in order to get it just rightaru."
  11: 0x1320 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1321 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 13: 0x1330 [0x1D] PRINT_EVENT_MESSAGE(message_id=17369*)
+ 13: 0x1330 [0x1D] PRINT_EVENT_MESSAGE(message_id=17374*)
     → "Oh, that reminds me. I was asked to give some kind of proof that the shield was complete. One momentaru please."
  14: 0x1333 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1334 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -2545,13 +2545,13 @@ SUBROUTINE_1061:
  18: 0x1349 [0x1A] CALL_SUBROUTINE(address=0x16C2)
  19: 0x134C [0x1C] WAIT(30* ticks)
  20: 0x134F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 21: 0x135E [0x1D] PRINT_EVENT_MESSAGE(message_id=17370*)
+ 21: 0x135E [0x1D] PRINT_EVENT_MESSAGE(message_id=17375*)
     → "That should do it."
  22: 0x1361 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x1362 [0x1D] PRINT_EVENT_MESSAGE(message_id=17371*)
+ 23: 0x1362 [0x1D] PRINT_EVENT_MESSAGE(message_id=17376*)
     → "Take this to Mewk Chorosap in Jeuno in order to complete the requestaru."
  24: 0x1365 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x1366 [0x1D] PRINT_EVENT_MESSAGE(message_id=17372*)
+ 25: 0x1366 [0x1D] PRINT_EVENT_MESSAGE(message_id=17377*)
     → "Oh, and I often have deliveries for Isanie. I could really use your expertaru skills in bringing along the newer guild members."
  26: 0x1369 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x136A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2595,14 +2595,14 @@ SUBROUTINE_137A:
   4: 0x1394 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x1395 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x1396 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  7: 0x13A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17389*)
+  7: 0x13A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17394*)
     → "Oh... I thoughtaru it would look like a frying pan, but it's more of a cutting board I suppose. Yes, of course I know it's a shield!"
   8: 0x13A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x13A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17390*)
+  9: 0x13A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17395*)
     → "Although, I can feel that its power is well beyond that of the lastaru shield. Yes, this one is destined to become quite formidable!"
  10: 0x13AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x13AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 12: 0x13BC [0x1D] PRINT_EVENT_MESSAGE(message_id=17391*)
+ 12: 0x13BC [0x1D] PRINT_EVENT_MESSAGE(message_id=17396*)
     → "Here, allow me to mark it for you before I forgetaru."
  13: 0x13BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x13C0 [0x1A] CALL_SUBROUTINE(address=0x16E3)
@@ -2610,7 +2610,7 @@ SUBROUTINE_137A:
  16: 0x13C6 [0x1A] CALL_SUBROUTINE(address=0x16C2)
  17: 0x13C9 [0x1C] WAIT(30* ticks)
  18: 0x13CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 19: 0x13DB [0x1D] PRINT_EVENT_MESSAGE(message_id=17392*)
+ 19: 0x13DB [0x1D] PRINT_EVENT_MESSAGE(message_id=17397*)
     → "There we go. Now, justaru take it to Mewk Chorosap and your task will be complete."
  20: 0x13DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x13DF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2656,19 +2656,19 @@ SUBROUTINE_137A:
   3: 0x13FD [0x4A] LocalPlayer looks at EventEntity
   4: 0x1406 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x1407 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x1408 [0x1D] PRINT_EVENT_MESSAGE(message_id=17421*)
+  6: 0x1408 [0x1D] PRINT_EVENT_MESSAGE(message_id=17426*)
     → "Did it finally turn into a frying pan this time around? I think that'd be a simply perfect resultaru."
   7: 0x140B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x140C [0x6E] EventEntity uses emote 7*
   9: 0x1413 [0x99] Wait for EventEntity animation to complete
- 10: 0x1418 [0x1D] PRINT_EVENT_MESSAGE(message_id=17422*)
+ 10: 0x1418 [0x1D] PRINT_EVENT_MESSAGE(message_id=17427*)
     → "Oh, it's justaru a shield. Although, I can vouch for just how amazing both it and you are!"
  11: 0x141B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x141C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 13: 0x142B [0x1D] PRINT_EVENT_MESSAGE(message_id=17423*)
+ 13: 0x142B [0x1D] PRINT_EVENT_MESSAGE(message_id=17428*)
     → "Our friend seems to think that the nextaru upgrade will unlock the shield's ultimate power. I can't wait to see it for myself."
  14: 0x142E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x142F [0x1D] PRINT_EVENT_MESSAGE(message_id=17391*)
+ 15: 0x142F [0x1D] PRINT_EVENT_MESSAGE(message_id=17396*)
     → "Here, allow me to mark it for you before I forgetaru."
  16: 0x1432 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1433 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -2678,13 +2678,13 @@ SUBROUTINE_137A:
  21: 0x1455 [0x1A] CALL_SUBROUTINE(address=0x16C2)
  22: 0x1458 [0x1C] WAIT(30* ticks)
  23: 0x145B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 24: 0x146A [0x1D] PRINT_EVENT_MESSAGE(message_id=17392*)
+ 24: 0x146A [0x1D] PRINT_EVENT_MESSAGE(message_id=17397*)
     → "There we go. Now, justaru take it to Mewk Chorosap and your task will be complete."
  25: 0x146D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x146E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  27: 0x147B [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x14AB
  28: 0x1483 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 29: 0x1492 [0x1D] PRINT_EVENT_MESSAGE(message_id=17424*)
+ 29: 0x1492 [0x1D] PRINT_EVENT_MESSAGE(message_id=17429*)
     → "Oh, wait just a momentaru. I have a new crafting technique that I think you'd do quite well with. I can't wait to see what you cook up with it!"
  30: 0x1495 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1496 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2725,18 +2725,18 @@ SUBROUTINE_14B0:
   2: 0x14BC [0x4A] LocalPlayer looks at EventEntity
   3: 0x14C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x14C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x14C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17432*)
+  5: 0x14C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17437*)
     → "How're things?"
   6: 0x14CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x14CB [0x1A] CALL_SUBROUTINE(address=0x1704)
   8: 0x14CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  9: 0x14DD [0x1D] PRINT_EVENT_MESSAGE(message_id=17433*)
+  9: 0x14DD [0x1D] PRINT_EVENT_MESSAGE(message_id=17438*)
     → "Hmm... That was a request by a Tarutaru girl from Adoulin. I remember-wember it because that was the first time that somebody had ordered something other than food from us."
  10: 0x14E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x14E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17434*)
+ 11: 0x14E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17439*)
     → "Unfortunately, you're too late. She asked me to send it to Jeuno, so that's justaru what I did."
  12: 0x14E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x14E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17435*)
+ 13: 0x14E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17440*)
     → "I imagine it has already been delivered to Mewk Chorosap in Port Jeuno by now. You should go and take a look."
  14: 0x14E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x14E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2774,22 +2774,22 @@ SUBROUTINE_14B0:
   2: 0x1504 [0x4A] LocalPlayer looks at EventEntity
   3: 0x150D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x150E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x150F [0x1D] PRINT_EVENT_MESSAGE(message_id=17438*)
+  5: 0x150F [0x1D] PRINT_EVENT_MESSAGE(message_id=17443*)
     → "Uwah! It's finished at lastaru!"
   6: 0x1512 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1513 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  8: 0x1522 [0x1D] PRINT_EVENT_MESSAGE(message_id=17439*)
+  8: 0x1522 [0x1D] PRINT_EVENT_MESSAGE(message_id=17444*)
     → "Look at that tasty-looking emblem! It's rather-wather unfortunate that it can't be eaten."
   9: 0x1525 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1526 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
- 11: 0x1535 [0x1D] PRINT_EVENT_MESSAGE(message_id=17440*)
+ 11: 0x1535 [0x1D] PRINT_EVENT_MESSAGE(message_id=17445*)
     → "I bet if we used this as a frying pan to cook with, we could make all kinds of delicious dishes-wishes..."
  12: 0x1538 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x1539 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 14: 0x1548 [0x1D] PRINT_EVENT_MESSAGE(message_id=17441*)
+ 14: 0x1548 [0x1D] PRINT_EVENT_MESSAGE(message_id=17446*)
     → "At any rate, good work out there. Here, I have something to reward you for your effortaru."
  15: 0x154B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x154C [0x1D] PRINT_EVENT_MESSAGE(message_id=17442*)
+ 16: 0x154C [0x1D] PRINT_EVENT_MESSAGE(message_id=17447*)
     → "This should help you cook up quite a treataru! I hope you'll use it to bring joy to even more satisfied customers!"
  17: 0x154F [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1550 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2921,62 +2921,62 @@ SUBROUTINE_14B0:
      0x160B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x160C [0x1B] RETURN
      0x160D [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x161C
-     0x1615 [0x1D] PRINT_EVENT_MESSAGE(message_id=17402*)
+     0x1615 [0x1D] PRINT_EVENT_MESSAGE(message_id=17407*)
     → "Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7."
      0x1618 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1619 [0x01] GOTO 0x16C1
      0x161C [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x162B
-     0x1624 [0x1D] PRINT_EVENT_MESSAGE(message_id=17402*)
+     0x1624 [0x1D] PRINT_EVENT_MESSAGE(message_id=17407*)
     → "Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7."
      0x1627 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1628 [0x01] GOTO 0x16C1
      0x162B [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x163A
-     0x1633 [0x1D] PRINT_EVENT_MESSAGE(message_id=17402*)
+     0x1633 [0x1D] PRINT_EVENT_MESSAGE(message_id=17407*)
     → "Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7."
      0x1636 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1637 [0x01] GOTO 0x16C1
      0x163A [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x1649
-     0x1642 [0x1D] PRINT_EVENT_MESSAGE(message_id=17403*)
+     0x1642 [0x1D] PRINT_EVENT_MESSAGE(message_id=17408*)
     → "Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7."
      0x1645 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1646 [0x01] GOTO 0x16C1
      0x1649 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x1658
-     0x1651 [0x1D] PRINT_EVENT_MESSAGE(message_id=17403*)
+     0x1651 [0x1D] PRINT_EVENT_MESSAGE(message_id=17408*)
     → "Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7."
      0x1654 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1655 [0x01] GOTO 0x16C1
      0x1658 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1667
-     0x1660 [0x1D] PRINT_EVENT_MESSAGE(message_id=17403*)
+     0x1660 [0x1D] PRINT_EVENT_MESSAGE(message_id=17408*)
     → "Deliver a total-wotal of $1 $0 to Melloa at the Steaming Sheep Restaurant in $7."
      0x1663 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1664 [0x01] GOTO 0x16C1
      0x1667 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1676
-     0x166F [0x1D] PRINT_EVENT_MESSAGE(message_id=17404*)
+     0x166F [0x1D] PRINT_EVENT_MESSAGE(message_id=17409*)
     → "Deliver a total-wotal of $1 $0 to Hinaree in $7."
      0x1672 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1673 [0x01] GOTO 0x16C1
      0x1676 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x1685
-     0x167E [0x1D] PRINT_EVENT_MESSAGE(message_id=17404*)
+     0x167E [0x1D] PRINT_EVENT_MESSAGE(message_id=17409*)
     → "Deliver a total-wotal of $1 $0 to Hinaree in $7."
      0x1681 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1682 [0x01] GOTO 0x16C1
      0x1685 [0x02] IF !(ExtData[1]->WorkLocal[27] == 9*) GOTO 0x1694
-     0x168D [0x1D] PRINT_EVENT_MESSAGE(message_id=17404*)
+     0x168D [0x1D] PRINT_EVENT_MESSAGE(message_id=17409*)
     → "Deliver a total-wotal of $1 $0 to Hinaree in $7."
      0x1690 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1691 [0x01] GOTO 0x16C1
      0x1694 [0x02] IF !(ExtData[1]->WorkLocal[27] == 10*) GOTO 0x16A3
-     0x169C [0x1D] PRINT_EVENT_MESSAGE(message_id=17405*)
+     0x169C [0x1D] PRINT_EVENT_MESSAGE(message_id=17410*)
     → "Deliver a total-wotal of $1 $0 to Hinaree in $7."
      0x169F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16A0 [0x01] GOTO 0x16C1
      0x16A3 [0x02] IF !(ExtData[1]->WorkLocal[27] == 11*) GOTO 0x16B2
-     0x16AB [0x1D] PRINT_EVENT_MESSAGE(message_id=17405*)
+     0x16AB [0x1D] PRINT_EVENT_MESSAGE(message_id=17410*)
     → "Deliver a total-wotal of $1 $0 to Hinaree in $7."
      0x16AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16AF [0x01] GOTO 0x16C1
      0x16B2 [0x02] IF !(ExtData[1]->WorkLocal[27] == 12*) GOTO 0x16C1
-     0x16BA [0x1D] PRINT_EVENT_MESSAGE(message_id=17405*)
+     0x16BA [0x1D] PRINT_EVENT_MESSAGE(message_id=17410*)
     → "Deliver a total-wotal of $1 $0 to Hinaree in $7."
      0x16BD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16BE [0x01] GOTO 0x16C1

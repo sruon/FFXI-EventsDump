@@ -21,8 +21,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DD9      |        7641 |
-|       1 | 0x1DDA      |        7642 |
+|       0 | 0x1DDA      |        7642 |
+|       1 | 0x1DDB      |        7643 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0333      |         819 |
@@ -35,8 +35,8 @@
 |      11 | 0x0006      |           6 |
 |      12 | 0x0007      |           7 |
 |      13 | 0x000C      |          12 |
-|      14 | 0x1DEB      |        7659 |
-|      15 | 0x1DEC      |        7660 |
+|      14 | 0x1DEC      |        7660 |
+|      15 | 0x1DED      |        7661 |
 |      16 | 0x000D      |          13 |
 |      17 | 0x000E      |          14 |
 |      18 | 0x0010      |          16 |
@@ -47,10 +47,10 @@
 
 ## String References
 
-- **7641**: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
-- **7642**: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
-- **7659**: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
-- **7660**: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7642**: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
+- **7643**: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
+- **7660**: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
+- **7661**: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
 
 ## Events
 
@@ -216,10 +216,10 @@ SUBROUTINE_00F4:
  16: 0x015B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=7*, condition_work_offset=1*)
  17: 0x0162 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0171
  18: 0x016A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=8*, condition_work_offset=1*)
- 19: 0x0171 [0x48] [System] [7659*]:
+ 19: 0x0171 [0x48] [System] [7660*]:
     → "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
  20: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0175 [0x24] CREATE_DIALOG(message_id=7660*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 21: 0x0175 [0x24] CREATE_DIALOG(message_id=7661*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]"
  22: 0x017C [0x25] WAIT_DIALOG_SELECT()
  23: 0x017D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0188
@@ -230,11 +230,11 @@ SUBROUTINE_00F4:
  28: 0x019E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  29: 0x01A0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  30: 0x01A2 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
- 31: 0x01A7 [0x48] [System] [7641*]:
+ 31: 0x01A7 [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
  32: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x01AB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 34: 0x01B0 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+ 34: 0x01B0 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
  35: 0x01B7 [0x25] WAIT_DIALOG_SELECT()
  36: 0x01B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E4
@@ -257,11 +257,11 @@ SUBROUTINE_01EF:
  51: 0x0208 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  52: 0x020A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  53: 0x020C [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
- 54: 0x0211 [0x48] [System] [7641*]:
+ 54: 0x0211 [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
  55: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0215 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 57: 0x021A [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+ 57: 0x021A [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
  58: 0x0221 [0x25] WAIT_DIALOG_SELECT()
  59: 0x0222 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x024E
@@ -284,11 +284,11 @@ SUBROUTINE_0259:
  74: 0x0272 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  75: 0x0274 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  76: 0x0276 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
- 77: 0x027B [0x48] [System] [7641*]:
+ 77: 0x027B [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
  78: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x027F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
- 80: 0x0284 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+ 80: 0x0284 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
  81: 0x028B [0x25] WAIT_DIALOG_SELECT()
  82: 0x028C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B8
@@ -311,11 +311,11 @@ SUBROUTINE_02C3:
  97: 0x02DC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  98: 0x02DE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  99: 0x02E0 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
-100: 0x02E5 [0x48] [System] [7641*]:
+100: 0x02E5 [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
 101: 0x02E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x02E9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-103: 0x02EE [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+103: 0x02EE [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
 104: 0x02F5 [0x25] WAIT_DIALOG_SELECT()
 105: 0x02F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0322
@@ -338,11 +338,11 @@ SUBROUTINE_032D:
 120: 0x0346 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 121: 0x0348 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 122: 0x034A [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
-123: 0x034F [0x48] [System] [7641*]:
+123: 0x034F [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
 124: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0353 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-126: 0x0358 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+126: 0x0358 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
 127: 0x035F [0x25] WAIT_DIALOG_SELECT()
 128: 0x0360 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x038C
@@ -365,11 +365,11 @@ SUBROUTINE_0397:
 143: 0x03B0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 144: 0x03B2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 145: 0x03B4 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
-146: 0x03B9 [0x48] [System] [7641*]:
+146: 0x03B9 [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
 147: 0x03BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x03BD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-149: 0x03C2 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+149: 0x03C2 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
 150: 0x03C9 [0x25] WAIT_DIALOG_SELECT()
 151: 0x03CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
@@ -392,11 +392,11 @@ SUBROUTINE_0401:
 166: 0x041A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 167: 0x041C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 168: 0x041E [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
-169: 0x0423 [0x48] [System] [7641*]:
+169: 0x0423 [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
 170: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x0427 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-172: 0x042C [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+172: 0x042C [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
 173: 0x0433 [0x25] WAIT_DIALOG_SELECT()
 174: 0x0434 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0460
@@ -419,11 +419,11 @@ SUBROUTINE_046B:
 189: 0x0484 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 190: 0x0486 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 191: 0x0488 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
-192: 0x048D [0x48] [System] [7641*]:
+192: 0x048D [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
 193: 0x0490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x0491 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-195: 0x0496 [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+195: 0x0496 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
 196: 0x049D [0x25] WAIT_DIALOG_SELECT()
 197: 0x049E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04CA
@@ -451,11 +451,11 @@ SUBROUTINE_04D8:
 # Dead code (unreachable instructions):
      0x0009 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
      0x000E [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
-     0x0013 [0x48] [System] [7641*]:
+     0x0013 [0x48] [System] [7642*]:
     → "Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]"
      0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0017 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
-     0x001C [0x24] CREATE_DIALOG(message_id=7642*, default_option=1*, option_flags=0*)
+     0x001C [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
     → "Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]"
      0x0023 [0x25] WAIT_DIALOG_SELECT()
      0x0024 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E7

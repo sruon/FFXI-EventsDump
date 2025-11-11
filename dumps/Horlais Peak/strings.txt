@@ -7984,22 +7984,22 @@
  7980: The fantastic feast has finished! I hope you had a hopping-good time, and we want you to wamble your way to the next one!
  7981: [You/Owing to the effects of treasure hunter, you] receive $0 fortune favor[/s] for a total of $1!
  7982: $0<$1.
- 7983: You hear a loud thud, as if a large amount of spoils spontaneously appeared.
- 7984: You hear a thud, as if a large amount of spoils spontaneously appeared.
- 7985: You hear a noise, as if a large amount of spoils spontaneously appeared.
- 7986: You receive $0 gil as a bonus reward!
- 7987: You hear a belligerent bang from one of the remaining treasure chests.
- 7988: Let us see just how capable in battle you truly are.
- 7989: I find your prowess to be most impressive. I shall happily welcome you as a Conflict combatant.
- 7990: I'm Mythril Musketeer Number 5! You're about to see why I'm the best around!
- 7991: You've got the touch, Adventurer! Please, don't tell Ayame that I was bested...
- 7992: How dare you keep-weep the great Kupipi waiting! Hit me with your best shot!
- 7993: You're a real to`ugh cookie. That's okay, see if I care.
- 7994: You found a pumpkin containing $0!
- 7995: You have found a pumpkin with $0 inside!
- 7996: You have found all the pumpkins!
- 7997: You have found seven or more pumpkins!
- 7998: You sense the presence of a pumpkin in this area!
- 7999: You have discovered a pumpkin! Cutting it open, you find $0 inside!
- 8000: This pumpkin has already been claimed.
- 8001: You have discovered five or more pumpkins!
+ 7983: You hear an impossible to gauge thud of massive spoils!$0
+ 7984: You hear a loud thud, as if a large amount of spoils spontaneously appeared.$0
+ 7985: You hear a thud, as if a large amount of spoils spontaneously appeared.$0
+ 7986: You hear a noise, as if a large amount of spoils spontaneously appeared.$0
+ 7987: You receive $0 gil as a bonus reward!
+ 7988: You feel like there's an impossible to gauge thud left to be made!
+ 7989: You feel like there's an impossible to gauge thud left to be made.
+ 7990: You feel like there's an impossible to gauge thud left to be made...?
+ 7991: You feel like there's a huge sound left to be made!
+ 7992: You feel like there's a huge sound left to be made.
+ 7993: You feel like there's a huge sound left to be made...?
+ 7994: Looks like your intuition was incorrect.
+ 7995: It's even better than you anticipated!
+ 7996: Let us see just how capable in battle you truly are.
+ 7997: I find your prowess to be most impressive. I shall happily welcome you as a Conflict combatant.
+ 7998: I'm Mythril Musketeer Number 5! You're about to see why I'm the best around!
+ 7999: You've got the touch, Adventurer! Please, don't tell Ayame that I was bested...
+ 8000: How dare you keep-weep the great Kupipi waiting! Hit me with your best shot!
+ 8001: You're a real to`ugh cookie. That's okay, see if I care.

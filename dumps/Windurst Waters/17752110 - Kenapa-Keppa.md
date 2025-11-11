@@ -80,7 +80,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3C4E      |       15438 |
+|       0 | 0x3C51      |       15441 |
 |       1 | 0x0028      |          40 |
 |       2 | 0x001E      |          30 |
 |       3 | 0x1F54      |        8020 |
@@ -237,7 +237,7 @@
 - **9914**: You...made it...back...okay?
 - **9915**: Oh...good...
 - **9924**: Good...luck...!
-- **15438**: Thank...you...for...lovely... ...Starlight...Celebration...present...
+- **15441**: Thank...you...for...lovely... ...Starlight...Celebration...present...
 
 ## Events
 
@@ -284,7 +284,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15438*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15441*)
     → "Thank...you...for...lovely... ...Starlight...Celebration...present..."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT

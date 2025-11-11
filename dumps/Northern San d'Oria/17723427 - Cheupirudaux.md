@@ -136,122 +136,122 @@
 |      85 | 0x1BC2      |        7106 |
 |      86 | 0x00C9      |         201 |
 |      87 | 0x1B4E      |        6990 |
-|      88 | 0x4A18      |       18968 |
-|      89 | 0x4A19      |       18969 |
-|      90 | 0x4A28      |       18984 |
-|      91 | 0x4A29      |       18985 |
-|      92 | 0x4A05      |       18949 |
-|      93 | 0x4A06      |       18950 |
-|      94 | 0x4A07      |       18951 |
-|      95 | 0x4A08      |       18952 |
-|      96 | 0x4A09      |       18953 |
-|      97 | 0x4A0A      |       18954 |
-|      98 | 0x4A0B      |       18955 |
-|      99 | 0x4A0C      |       18956 |
-|     100 | 0x4A0D      |       18957 |
-|     101 | 0x4A0E      |       18958 |
-|     102 | 0x4A0F      |       18959 |
-|     103 | 0x4A10      |       18960 |
-|     104 | 0x4A11      |       18961 |
-|     105 | 0x4A12      |       18962 |
-|     106 | 0x4A13      |       18963 |
-|     107 | 0x4A14      |       18964 |
-|     108 | 0x4A15      |       18965 |
-|     109 | 0x4A16      |       18966 |
-|     110 | 0x4A17      |       18967 |
-|     111 | 0x4A2A      |       18986 |
-|     112 | 0x4A2B      |       18987 |
-|     113 | 0x4A2C      |       18988 |
-|     114 | 0x4A2D      |       18989 |
-|     115 | 0x4A2E      |       18990 |
-|     116 | 0x4A2F      |       18991 |
-|     117 | 0x4A30      |       18992 |
-|     118 | 0x4A31      |       18993 |
-|     119 | 0x4A32      |       18994 |
-|     120 | 0x4A33      |       18995 |
-|     121 | 0x4A34      |       18996 |
-|     122 | 0x4A3F      |       19007 |
-|     123 | 0x4A40      |       19008 |
-|     124 | 0x4A41      |       19009 |
-|     125 | 0x4A42      |       19010 |
-|     126 | 0x4A43      |       19011 |
-|     127 | 0x4A44      |       19012 |
-|     128 | 0x4A45      |       19013 |
-|     129 | 0x4A46      |       19014 |
-|     130 | 0x4A47      |       19015 |
-|     131 | 0x4A48      |       19016 |
-|     132 | 0x4A49      |       19017 |
-|     133 | 0x4A4A      |       19018 |
-|     134 | 0x4A50      |       19024 |
-|     135 | 0x4A63      |       19043 |
-|     136 | 0x4A64      |       19044 |
-|     137 | 0x4A65      |       19045 |
-|     138 | 0x4A66      |       19046 |
-|     139 | 0x4A67      |       19047 |
-|     140 | 0x4A68      |       19048 |
+|      88 | 0x4A1D      |       18973 |
+|      89 | 0x4A1E      |       18974 |
+|      90 | 0x4A2D      |       18989 |
+|      91 | 0x4A2E      |       18990 |
+|      92 | 0x4A0A      |       18954 |
+|      93 | 0x4A0B      |       18955 |
+|      94 | 0x4A0C      |       18956 |
+|      95 | 0x4A0D      |       18957 |
+|      96 | 0x4A0E      |       18958 |
+|      97 | 0x4A0F      |       18959 |
+|      98 | 0x4A10      |       18960 |
+|      99 | 0x4A11      |       18961 |
+|     100 | 0x4A12      |       18962 |
+|     101 | 0x4A13      |       18963 |
+|     102 | 0x4A14      |       18964 |
+|     103 | 0x4A15      |       18965 |
+|     104 | 0x4A16      |       18966 |
+|     105 | 0x4A17      |       18967 |
+|     106 | 0x4A18      |       18968 |
+|     107 | 0x4A19      |       18969 |
+|     108 | 0x4A1A      |       18970 |
+|     109 | 0x4A1B      |       18971 |
+|     110 | 0x4A1C      |       18972 |
+|     111 | 0x4A2F      |       18991 |
+|     112 | 0x4A30      |       18992 |
+|     113 | 0x4A31      |       18993 |
+|     114 | 0x4A32      |       18994 |
+|     115 | 0x4A33      |       18995 |
+|     116 | 0x4A34      |       18996 |
+|     117 | 0x4A35      |       18997 |
+|     118 | 0x4A36      |       18998 |
+|     119 | 0x4A37      |       18999 |
+|     120 | 0x4A38      |       19000 |
+|     121 | 0x4A39      |       19001 |
+|     122 | 0x4A44      |       19012 |
+|     123 | 0x4A45      |       19013 |
+|     124 | 0x4A46      |       19014 |
+|     125 | 0x4A47      |       19015 |
+|     126 | 0x4A48      |       19016 |
+|     127 | 0x4A49      |       19017 |
+|     128 | 0x4A4A      |       19018 |
+|     129 | 0x4A4B      |       19019 |
+|     130 | 0x4A4C      |       19020 |
+|     131 | 0x4A4D      |       19021 |
+|     132 | 0x4A4E      |       19022 |
+|     133 | 0x4A4F      |       19023 |
+|     134 | 0x4A55      |       19029 |
+|     135 | 0x4A68      |       19048 |
+|     136 | 0x4A69      |       19049 |
+|     137 | 0x4A6A      |       19050 |
+|     138 | 0x4A6B      |       19051 |
+|     139 | 0x4A6C      |       19052 |
+|     140 | 0x4A6D      |       19053 |
 |     141 | 0xFFFFFFFF  |  4294967295 |
-|     142 | 0x4A59      |       19033 |
-|     143 | 0x4A5A      |       19034 |
-|     144 | 0x4A51      |       19025 |
-|     145 | 0x4A52      |       19026 |
-|     146 | 0x4A53      |       19027 |
-|     147 | 0x4A54      |       19028 |
+|     142 | 0x4A5E      |       19038 |
+|     143 | 0x4A5F      |       19039 |
+|     144 | 0x4A56      |       19030 |
+|     145 | 0x4A57      |       19031 |
+|     146 | 0x4A58      |       19032 |
+|     147 | 0x4A59      |       19033 |
 |     148 | 0x40000000  |  1073741824 |
-|     149 | 0x4A55      |       19029 |
-|     150 | 0x4A56      |       19030 |
-|     151 | 0x4A57      |       19031 |
-|     152 | 0x4A58      |       19032 |
-|     153 | 0x4A5B      |       19035 |
-|     154 | 0x4A5C      |       19036 |
-|     155 | 0x4A5D      |       19037 |
-|     156 | 0x4A1A      |       18970 |
+|     149 | 0x4A5A      |       19034 |
+|     150 | 0x4A5B      |       19035 |
+|     151 | 0x4A5C      |       19036 |
+|     152 | 0x4A5D      |       19037 |
+|     153 | 0x4A60      |       19040 |
+|     154 | 0x4A61      |       19041 |
+|     155 | 0x4A62      |       19042 |
+|     156 | 0x4A1F      |       18975 |
 |     157 | 0x003C      |          60 |
 |     158 | 0x001E      |          30 |
-|     159 | 0x4A1B      |       18971 |
-|     160 | 0x4A1C      |       18972 |
-|     161 | 0x4A1D      |       18973 |
-|     162 | 0x4A1E      |       18974 |
-|     163 | 0x4A1F      |       18975 |
-|     164 | 0x4A35      |       18997 |
-|     165 | 0x4A36      |       18998 |
-|     166 | 0x4A37      |       18999 |
-|     167 | 0x4A38      |       19000 |
-|     168 | 0x4A39      |       19001 |
-|     169 | 0x4A5E      |       19038 |
-|     170 | 0x4A69      |       19049 |
-|     171 | 0x4A20      |       18976 |
-|     172 | 0x4A21      |       18977 |
-|     173 | 0x4A22      |       18978 |
-|     174 | 0x4A6E      |       19054 |
-|     175 | 0x4A6F      |       19055 |
-|     176 | 0x4A3E      |       19006 |
-|     177 | 0x4A23      |       18979 |
-|     178 | 0x4A24      |       18980 |
-|     179 | 0x4A25      |       18981 |
-|     180 | 0x4A26      |       18982 |
-|     181 | 0x4A27      |       18983 |
-|     182 | 0x4A3A      |       19002 |
-|     183 | 0x4A3B      |       19003 |
-|     184 | 0x4A3C      |       19004 |
-|     185 | 0x4A3D      |       19005 |
-|     186 | 0x4A5F      |       19039 |
-|     187 | 0x4A60      |       19040 |
-|     188 | 0x4A61      |       19041 |
-|     189 | 0x4A62      |       19042 |
-|     190 | 0x4A6A      |       19050 |
-|     191 | 0x4A6B      |       19051 |
-|     192 | 0x4A6C      |       19052 |
-|     193 | 0x4A6D      |       19053 |
-|     194 | 0x4A70      |       19056 |
-|     195 | 0x4A71      |       19057 |
-|     196 | 0x4A72      |       19058 |
-|     197 | 0x4A73      |       19059 |
-|     198 | 0x4A74      |       19060 |
-|     199 | 0x4A4B      |       19019 |
-|     200 | 0x4A4C      |       19020 |
-|     201 | 0x4A4D      |       19021 |
-|     202 | 0x4A4E      |       19022 |
-|     203 | 0x4A4F      |       19023 |
+|     159 | 0x4A20      |       18976 |
+|     160 | 0x4A21      |       18977 |
+|     161 | 0x4A22      |       18978 |
+|     162 | 0x4A23      |       18979 |
+|     163 | 0x4A24      |       18980 |
+|     164 | 0x4A3A      |       19002 |
+|     165 | 0x4A3B      |       19003 |
+|     166 | 0x4A3C      |       19004 |
+|     167 | 0x4A3D      |       19005 |
+|     168 | 0x4A3E      |       19006 |
+|     169 | 0x4A63      |       19043 |
+|     170 | 0x4A6E      |       19054 |
+|     171 | 0x4A25      |       18981 |
+|     172 | 0x4A26      |       18982 |
+|     173 | 0x4A27      |       18983 |
+|     174 | 0x4A73      |       19059 |
+|     175 | 0x4A74      |       19060 |
+|     176 | 0x4A43      |       19011 |
+|     177 | 0x4A28      |       18984 |
+|     178 | 0x4A29      |       18985 |
+|     179 | 0x4A2A      |       18986 |
+|     180 | 0x4A2B      |       18987 |
+|     181 | 0x4A2C      |       18988 |
+|     182 | 0x4A3F      |       19007 |
+|     183 | 0x4A40      |       19008 |
+|     184 | 0x4A41      |       19009 |
+|     185 | 0x4A42      |       19010 |
+|     186 | 0x4A64      |       19044 |
+|     187 | 0x4A65      |       19045 |
+|     188 | 0x4A66      |       19046 |
+|     189 | 0x4A67      |       19047 |
+|     190 | 0x4A6F      |       19055 |
+|     191 | 0x4A70      |       19056 |
+|     192 | 0x4A71      |       19057 |
+|     193 | 0x4A72      |       19058 |
+|     194 | 0x4A75      |       19061 |
+|     195 | 0x4A76      |       19062 |
+|     196 | 0x4A77      |       19063 |
+|     197 | 0x4A78      |       19064 |
+|     198 | 0x4A79      |       19065 |
+|     199 | 0x4A50      |       19024 |
+|     200 | 0x4A51      |       19025 |
+|     201 | 0x4A52      |       19026 |
+|     202 | 0x4A53      |       19027 |
+|     203 | 0x4A54      |       19028 |
 |     204 | 0x00C8      |         200 |
 |     205 | 0x0013      |          19 |
 |     206 | 0x001D      |          29 |
@@ -322,118 +322,118 @@
 - **7115**: Do not worry about informing the other guildmasters. I will send a notice of your intentions right away.
 - **7116**: Never did I think I would hear you say those words, <Player>. You disappoint me gravely.
 - **7117**: And yet, let it not be said that we carpenters hold grudges. Should you decide to return to the path of the hammer and nail, our doors will be open for you.
-- **18949**: Oh, hello again. If you don't mind me asking, what is that shield you're carrying?
-- **18950**: Hmm... I can see that you've spoken with her already.
-- **18951**: Yes, I heard her tale about the shield that can enhance one's crafting ability. I'm not sure if I believe it or not, though...
-- **18952**: Although, if it's true, that would definitely make it a shield worth having.
-- **18953**: I know what you're capable of in our field, and if she picked you for this task, it must mean you've got what it takes to make this shield.
-- **18954**: First things first. Let's teach you the necessary recipe. I recommend that you commit it to memory.
-- **18955**: Very well then. The first ingredient you will need is $1.
-- **18956**: Its purpose is to increase the Craftsmanship of the $0 to its maximum value.
-- **18957**: I have actually received some notes on Craftsmanship that you should probably hear.
-- **18958**: You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped.
-- **18959**: Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you run into trouble.
-- **18960**: In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect.
-- **18961**: You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha...
-- **18962**: That is all that it says.
-- **18963**: Once you've raised the Craftsmanship, please bring me the shield and I will make the $1.
-- **18964**: Next, you will need $2 and $3, which can be obtained from Luren.
-- **18965**: You have made a delivery or two before, yes? That's essentially what you need to do here to receive these items.
-- **18966**: Please speak to Luren if you require more information.
-- **18967**: That does it for the ingredients. Please show me the shield once you've upgraded it. I would like to see it.
-- **18968**: How is it that you managed to forget the recipe? Very well. Here is the list of ingredients again. Remember, true professionals do not need to hear things twice.
-- **18969**: You are where you are due to hard work and dedication. I have faith that you can do this.
-- **18970**: I see... With this, I think I can make the $0.
-- **18971**: So this is the $0...
-- **18972**: The ability to pour my soul into this shield and create a crystal from it... I have no idea how it works, but it is really quite fascinating.
-- **18973**: This is strange. In creating the $0, it somehow lowered the Craftsmanship of the $1.
-- **18974**: In the end, that is not really a problem if you want to upgrade the $1, but you will need to bring the Craftsmanship back up if you want to make another $0.
-- **18975**: However, I really doubt that you would ever lose such a valuable item.
-- **18976**: Impossible. You mean you actually managed to misplace the $0?
-- **18977**: Oh well. I will make you another $0, so please let me borrow your shield.
-- **18978**: You are a professional. As such, you need to make sure you take proper care of your ingredients.
-- **18979**: It looks like you made the upgrade. Do you mind if I take a look?
-- **18980**: Hmm... The shape is different, and I can feel a faint energy emanating from it... Although, it clearly is not complete just yet.
-- **18981**: No, you'll need to craft multiple times in order to get the best performance out of it. That's what she told me anyway.
-- **18982**: That reminds me, I'm supposed to mark the shield when it's finished. Please give me a moment.
-- **18983**: That should do it.
-- **18984**: Please take the shield to Mewk Chorosap in Jeuno for me.
-- **18985**: Oh, I also have regular deliveries for Luren. It would be quite helpful for training the newer members of the guild if you could help me with them.
-- **18986**: Thank you for coming. I already heard about why you are here.
-- **18987**: Let's get started then, shall we? Here is the recipe you'll need.
-- **18988**: Do you have any questions?
-- **18989**: Now, allow me to explain how to obtain the ingredients, starting with the $1.
-- **18990**: Like with the aspis last time, you will need to equip the $0 while crafting in order to boost its Craftsmanship to 100%.
-- **18991**: However, you will need to work even harder to imbue your spirit into the shield this time, so it will probably take a while before you are successful.
-- **18992**: Once it reaches 100%, bring me the shield and I'll make the $1 for you.
-- **18993**: The next ingredient is the $2. I've left it along with the $3 you used last time with Luren.
-- **18994**: Lastly, the $4... I asked the A.M.A.N. to help me prepare some Records of Eminence objectives for you.
-- **18995**: You will receive the $4 once you complete all of them.
-- **18996**: That's it for the ingredients. You have a long and hard road ahead of you, but I have faith that you can handle it.
-- **18997**: I see you have increased the Craftsmanship to the necessary level.
-- **18998**: Wait a moment while I prepare the $0 for you.
-- **18999**: Yes, that turned out rather well, I must say.
-- **19000**: Hmm... Just like I thought, making the $0 caused the shield's Craftsmanship to decrease.
-- **19001**: Make sure you take good care of this item so you don't have to go through the whole process again.
-- **19002**: Look at the brilliant design of this shield. You can tell its quality just by looking at it. Of course, I expected nothing less from you.
-- **19003**: Furthermore, I can tell this shield's power is well beyond the previous one. Of course, it's still probably not enough for her though.
-- **19004**: Now, let me mark it for you to complete the process.
-- **19005**: There you go. Show the shield to Mewk Chorosap and you'll be finished.
-- **19006**: Don't worry, these things happen. Go and try the last objective one more time.
-- **19007**: It is nice to see you. Let's not waste any time. I shall teach you the new recipe.
-- **19008**: Hm? You already know the recipe and how to obtain some of the ingredients?
-- **19009**: I guess that just leaves the $4 and $5. As such...
-- **19010**: Our guild has received a number of orders for some items, but they need to be crafted in front of the customer.
-- **19011**: You see, the customer wants to see our finest craftsmen at work up close and personal.
-- **19012**: There are some exceptions, but otherwise only items crafted near the customer will count.
-- **19013**: I also need you to gather the materials needed to craft the items. You're free to obtain them however you like.
-- **19014**: On that note, we have reached an agreement between the guilds that will let you use gil to buy certain items from each one that were not previously available.
-- **19015**: You can buy them from the crafting set vendor in each guild.
-- **19016**: However, each guild is free to set its own rules, so know that you might not always find what you are looking for.
-- **19017**: Once you have completed all of the requests, I will give you the $4 and $5.
-- **19018**: This is the [first/next/final] request.
-- **19019**: Deliver $1 $0 to Morunaude at Justi's Furniture in $7.
-- **19020**: Deliver $1 $0 to Diadonour at the watch tower in $7.
-- **19021**: Deliver $1 $0 to Lala Gohma in $7. She can be found near the Heavens Tower.
-- **19022**: Deliver $1 $0 to Morunaude at Justi's Furniture in $7.
-- **19023**: Oh, that particular item does not need to be crafted near the customer.
-- **19024**: Once you have completed the request, do not forget to report back to me.
-- **19025**: Your current request is...
-- **19026**: Is everything going okay with the request?
-- **19027**: Everything okay? [Everything's great!/It could be better...]
-- **19028**: That is good to hear. Please keep working hard for the guild out there.
-- **19029**: What's that? You want to give up on this job?
-- **19030**: Will you see this through? [I'll do my best./I've had enough.]
-- **19031**: I guess it cannot be helped. I shall find somebody else to finish this task.
-- **19032**: There are plenty more requests for you to handle, so please come back after you get some rest.
-- **19033**: So, are you feeling better now? I have the next request here if you want it.
-- **19034**: Oh, it seems you completed the delivery. Thank you for the help.
-- **19035**: Ahh, you have completed all of the deliveries. I really appreciate your help.
-- **19036**: Here are the $0 and $1 as promised.
-- **19037**: I am sure you will never face such a problem, but if you lose either of these items, you can use guild points to obtain a replacement.
-- **19038**: I really have gotten quite good at this.
-- **19039**: So this is how the shield turned out...
-- **19040**: Yes, it really is quite beautiful! I can see your skill continues to grow without bounds.
-- **19041**: Our friend thinks that the next upgrade will be the one to unlock the true power of the shield. I cannot wait to see what it becomes.
-- **19042**: Oh, wait a moment. I have a crafting technique that I think would be just perfect for one of your ability. Give it a try when you have a chance.
-- **19043**: It's good of you to come. It looks like you're nearly finished upgrading the shield.
-- **19044**: Now, please allow me to explain what comes next.
-- **19045**: I have prepared the $2 and $3 that you will require.
-- **19046**: If you have enough crafter points, you can exchange them with Luren right away.
-- **19047**: As for the $1, the procedure is the same as before. Let me see your shield after you boost its Craftsmanship to 100%.
-- **19048**: That's it for my explanation. Your first goal should be to work on getting that Craftsmanship value up. Good luck to you.
-- **19049**: With the $0, Mewk Chorosap mentioned that she wanted it brought to her. Try to deliver it as soon as possible.
-- **19050**: Hello. What do you need?
-- **19051**: Ah! You must be talking about the item that Tarutaru from Adoulin asked me to make.
-- **19052**: I was asked to send it to Jeuno after it was completed.
-- **19053**: I imagine it must've been delivered to Mewk Chorosap by now.
-- **19054**: Hello again. I have something to tell you. Do you remember that item you were looking for? I found it in the guild.
-- **19055**: Hm? You need it for something? Sure, that's fine with me. Consider it yours.
-- **19056**: Hmm... That emblem...
-- **19057**: Ahh, I see. You've finished the shield at last. It looks absolutely amazing!
-- **19058**: When you equip it, everyone will know that you're a top-level member of the Carpenters' Guild.
-- **19059**: One more thing... I have prepared something for you in honor of your achievement.
-- **19060**: I look forward to seeing you develop your woodworking skills and create breathtaking new items that have never been seen before.
+- **18954**: Oh, hello again. If you don't mind me asking, what is that shield you're carrying?
+- **18955**: Hmm... I can see that you've spoken with her already.
+- **18956**: Yes, I heard her tale about the shield that can enhance one's crafting ability. I'm not sure if I believe it or not, though...
+- **18957**: Although, if it's true, that would definitely make it a shield worth having.
+- **18958**: I know what you're capable of in our field, and if she picked you for this task, it must mean you've got what it takes to make this shield.
+- **18959**: First things first. Let's teach you the necessary recipe. I recommend that you commit it to memory.
+- **18960**: Very well then. The first ingredient you will need is $1.
+- **18961**: Its purpose is to increase the Craftsmanship of the $0 to its maximum value.
+- **18962**: I have actually received some notes on Craftsmanship that you should probably hear.
+- **18963**: You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped.
+- **18964**: Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you run into trouble.
+- **18965**: In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect.
+- **18966**: You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha...
+- **18967**: That is all that it says.
+- **18968**: Once you've raised the Craftsmanship, please bring me the shield and I will make the $1.
+- **18969**: Next, you will need $2 and $3, which can be obtained from Luren.
+- **18970**: You have made a delivery or two before, yes? That's essentially what you need to do here to receive these items.
+- **18971**: Please speak to Luren if you require more information.
+- **18972**: That does it for the ingredients. Please show me the shield once you've upgraded it. I would like to see it.
+- **18973**: How is it that you managed to forget the recipe? Very well. Here is the list of ingredients again. Remember, true professionals do not need to hear things twice.
+- **18974**: You are where you are due to hard work and dedication. I have faith that you can do this.
+- **18975**: I see... With this, I think I can make the $0.
+- **18976**: So this is the $0...
+- **18977**: The ability to pour my soul into this shield and create a crystal from it... I have no idea how it works, but it is really quite fascinating.
+- **18978**: This is strange. In creating the $0, it somehow lowered the Craftsmanship of the $1.
+- **18979**: In the end, that is not really a problem if you want to upgrade the $1, but you will need to bring the Craftsmanship back up if you want to make another $0.
+- **18980**: However, I really doubt that you would ever lose such a valuable item.
+- **18981**: Impossible. You mean you actually managed to misplace the $0?
+- **18982**: Oh well. I will make you another $0, so please let me borrow your shield.
+- **18983**: You are a professional. As such, you need to make sure you take proper care of your ingredients.
+- **18984**: It looks like you made the upgrade. Do you mind if I take a look?
+- **18985**: Hmm... The shape is different, and I can feel a faint energy emanating from it... Although, it clearly is not complete just yet.
+- **18986**: No, you'll need to craft multiple times in order to get the best performance out of it. That's what she told me anyway.
+- **18987**: That reminds me, I'm supposed to mark the shield when it's finished. Please give me a moment.
+- **18988**: That should do it.
+- **18989**: Please take the shield to Mewk Chorosap in Jeuno for me.
+- **18990**: Oh, I also have regular deliveries for Luren. It would be quite helpful for training the newer members of the guild if you could help me with them.
+- **18991**: Thank you for coming. I already heard about why you are here.
+- **18992**: Let's get started then, shall we? Here is the recipe you'll need.
+- **18993**: Do you have any questions?
+- **18994**: Now, allow me to explain how to obtain the ingredients, starting with the $1.
+- **18995**: Like with the aspis last time, you will need to equip the $0 while crafting in order to boost its Craftsmanship to 100%.
+- **18996**: However, you will need to work even harder to imbue your spirit into the shield this time, so it will probably take a while before you are successful.
+- **18997**: Once it reaches 100%, bring me the shield and I'll make the $1 for you.
+- **18998**: The next ingredient is the $2. I've left it along with the $3 you used last time with Luren.
+- **18999**: Lastly, the $4... I asked the A.M.A.N. to help me prepare some Records of Eminence objectives for you.
+- **19000**: You will receive the $4 once you complete all of them.
+- **19001**: That's it for the ingredients. You have a long and hard road ahead of you, but I have faith that you can handle it.
+- **19002**: I see you have increased the Craftsmanship to the necessary level.
+- **19003**: Wait a moment while I prepare the $0 for you.
+- **19004**: Yes, that turned out rather well, I must say.
+- **19005**: Hmm... Just like I thought, making the $0 caused the shield's Craftsmanship to decrease.
+- **19006**: Make sure you take good care of this item so you don't have to go through the whole process again.
+- **19007**: Look at the brilliant design of this shield. You can tell its quality just by looking at it. Of course, I expected nothing less from you.
+- **19008**: Furthermore, I can tell this shield's power is well beyond the previous one. Of course, it's still probably not enough for her though.
+- **19009**: Now, let me mark it for you to complete the process.
+- **19010**: There you go. Show the shield to Mewk Chorosap and you'll be finished.
+- **19011**: Don't worry, these things happen. Go and try the last objective one more time.
+- **19012**: It is nice to see you. Let's not waste any time. I shall teach you the new recipe.
+- **19013**: Hm? You already know the recipe and how to obtain some of the ingredients?
+- **19014**: I guess that just leaves the $4 and $5. As such...
+- **19015**: Our guild has received a number of orders for some items, but they need to be crafted in front of the customer.
+- **19016**: You see, the customer wants to see our finest craftsmen at work up close and personal.
+- **19017**: There are some exceptions, but otherwise only items crafted near the customer will count.
+- **19018**: I also need you to gather the materials needed to craft the items. You're free to obtain them however you like.
+- **19019**: On that note, we have reached an agreement between the guilds that will let you use gil to buy certain items from each one that were not previously available.
+- **19020**: You can buy them from the crafting set vendor in each guild.
+- **19021**: However, each guild is free to set its own rules, so know that you might not always find what you are looking for.
+- **19022**: Once you have completed all of the requests, I will give you the $4 and $5.
+- **19023**: This is the [first/next/final] request.
+- **19024**: Deliver $1 $0 to Morunaude at Justi's Furniture in $7.
+- **19025**: Deliver $1 $0 to Diadonour at the watch tower in $7.
+- **19026**: Deliver $1 $0 to Lala Gohma in $7. She can be found near the Heavens Tower.
+- **19027**: Deliver $1 $0 to Morunaude at Justi's Furniture in $7.
+- **19028**: Oh, that particular item does not need to be crafted near the customer.
+- **19029**: Once you have completed the request, do not forget to report back to me.
+- **19030**: Your current request is...
+- **19031**: Is everything going okay with the request?
+- **19032**: Everything okay? [Everything's great!/It could be better...]
+- **19033**: That is good to hear. Please keep working hard for the guild out there.
+- **19034**: What's that? You want to give up on this job?
+- **19035**: Will you see this through? [I'll do my best./I've had enough.]
+- **19036**: I guess it cannot be helped. I shall find somebody else to finish this task.
+- **19037**: There are plenty more requests for you to handle, so please come back after you get some rest.
+- **19038**: So, are you feeling better now? I have the next request here if you want it.
+- **19039**: Oh, it seems you completed the delivery. Thank you for the help.
+- **19040**: Ahh, you have completed all of the deliveries. I really appreciate your help.
+- **19041**: Here are the $0 and $1 as promised.
+- **19042**: I am sure you will never face such a problem, but if you lose either of these items, you can use guild points to obtain a replacement.
+- **19043**: I really have gotten quite good at this.
+- **19044**: So this is how the shield turned out...
+- **19045**: Yes, it really is quite beautiful! I can see your skill continues to grow without bounds.
+- **19046**: Our friend thinks that the next upgrade will be the one to unlock the true power of the shield. I cannot wait to see what it becomes.
+- **19047**: Oh, wait a moment. I have a crafting technique that I think would be just perfect for one of your ability. Give it a try when you have a chance.
+- **19048**: It's good of you to come. It looks like you're nearly finished upgrading the shield.
+- **19049**: Now, please allow me to explain what comes next.
+- **19050**: I have prepared the $2 and $3 that you will require.
+- **19051**: If you have enough crafter points, you can exchange them with Luren right away.
+- **19052**: As for the $1, the procedure is the same as before. Let me see your shield after you boost its Craftsmanship to 100%.
+- **19053**: That's it for my explanation. Your first goal should be to work on getting that Craftsmanship value up. Good luck to you.
+- **19054**: With the $0, Mewk Chorosap mentioned that she wanted it brought to her. Try to deliver it as soon as possible.
+- **19055**: Hello. What do you need?
+- **19056**: Ah! You must be talking about the item that Tarutaru from Adoulin asked me to make.
+- **19057**: I was asked to send it to Jeuno after it was completed.
+- **19058**: I imagine it must've been delivered to Mewk Chorosap by now.
+- **19059**: Hello again. I have something to tell you. Do you remember that item you were looking for? I found it in the guild.
+- **19060**: Hm? You need it for something? Sure, that's fine with me. Consider it yours.
+- **19061**: Hmm... That emblem...
+- **19062**: Ahh, I see. You've finished the shield at last. It looks absolutely amazing!
+- **19063**: When you equip it, everyone will know that you're a top-level member of the Carpenters' Guild.
+- **19064**: One more thing... I have prepared something for you in honor of your achievement.
+- **19065**: I look forward to seeing you develop your woodworking skills and create breathtaking new items that have never been seen before.
 
 ## Events
 
@@ -1270,13 +1270,13 @@ SUBROUTINE_08B1:
  10: 0x090D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x090E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x090F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 13: 0x091E [0x1D] PRINT_EVENT_MESSAGE(message_id=18968*)
+ 13: 0x091E [0x1D] PRINT_EVENT_MESSAGE(message_id=18973*)
     → "How is it that you managed to forget the recipe? Very well. Here is the list of ingredients again. Remember, true professionals do not need to hear things twice."
  14: 0x0921 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0922 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  16: 0x0931 [0x1A] CALL_SUBROUTINE(address=0x1601)
  17: 0x0934 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 18: 0x0943 [0x1D] PRINT_EVENT_MESSAGE(message_id=18969*)
+ 18: 0x0943 [0x1D] PRINT_EVENT_MESSAGE(message_id=18974*)
     → "You are where you are due to hard work and dedication. I have faith that you can do this."
  19: 0x0946 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0947 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -1329,13 +1329,13 @@ SUBROUTINE_0959:
  11: 0x0996 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  12: 0x0997 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  13: 0x0998 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=18968*)
+ 14: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=18973*)
     → "How is it that you managed to forget the recipe? Very well. Here is the list of ingredients again. Remember, true professionals do not need to hear things twice."
  15: 0x09AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x09AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  17: 0x09BA [0x1A] CALL_SUBROUTINE(address=0x1650)
  18: 0x09BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 19: 0x09CC [0x1D] PRINT_EVENT_MESSAGE(message_id=18969*)
+ 19: 0x09CC [0x1D] PRINT_EVENT_MESSAGE(message_id=18974*)
     → "You are where you are due to hard work and dedication. I have faith that you can do this."
  20: 0x09CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x09D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -1373,30 +1373,30 @@ SUBROUTINE_0959:
   1: 0x09E6 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0A0B
   2: 0x09EE [0x4A] EventEntity looks at LocalPlayer
   3: 0x09F7 [0x4A] LocalPlayer looks at EventEntity
-  4: 0x0A00 [0x1D] PRINT_EVENT_MESSAGE(message_id=18984*)
+  4: 0x0A00 [0x1D] PRINT_EVENT_MESSAGE(message_id=18989*)
     → "Please take the shield to Mewk Chorosap in Jeuno for me."
   5: 0x0A03 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A04 [0x1D] PRINT_EVENT_MESSAGE(message_id=18985*)
+  6: 0x0A04 [0x1D] PRINT_EVENT_MESSAGE(message_id=18990*)
     → "Oh, I also have regular deliveries for Luren. It would be quite helpful for training the newer members of the guild if you could help me with them."
   7: 0x0A07 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A08 [0x01] GOTO 0x0A55
   9: 0x0A0B [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0A30
  10: 0x0A13 [0x4A] EventEntity looks at LocalPlayer
  11: 0x0A1C [0x4A] LocalPlayer looks at EventEntity
- 12: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=18984*)
+ 12: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=18989*)
     → "Please take the shield to Mewk Chorosap in Jeuno for me."
  13: 0x0A28 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0A29 [0x1D] PRINT_EVENT_MESSAGE(message_id=18985*)
+ 14: 0x0A29 [0x1D] PRINT_EVENT_MESSAGE(message_id=18990*)
     → "Oh, I also have regular deliveries for Luren. It would be quite helpful for training the newer members of the guild if you could help me with them."
  15: 0x0A2C [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0A2D [0x01] GOTO 0x0A55
  17: 0x0A30 [0x02] IF !(ExtData[1]->WorkLocal[14] == 3*) GOTO 0x0A55
  18: 0x0A38 [0x4A] EventEntity looks at LocalPlayer
  19: 0x0A41 [0x4A] LocalPlayer looks at EventEntity
- 20: 0x0A4A [0x1D] PRINT_EVENT_MESSAGE(message_id=18984*)
+ 20: 0x0A4A [0x1D] PRINT_EVENT_MESSAGE(message_id=18989*)
     → "Please take the shield to Mewk Chorosap in Jeuno for me."
  21: 0x0A4D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0A4E [0x1D] PRINT_EVENT_MESSAGE(message_id=18985*)
+ 22: 0x0A4E [0x1D] PRINT_EVENT_MESSAGE(message_id=18990*)
     → "Oh, I also have regular deliveries for Luren. It would be quite helpful for training the newer members of the guild if you could help me with them."
  23: 0x0A51 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0A52 [0x01] GOTO 0x0A55
@@ -1453,69 +1453,69 @@ SUBROUTINE_0A55:
   9: 0x0A83 [0x4A] EventEntity looks at LocalPlayer
  10: 0x0A8C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x0A8D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 12: 0x0A8E [0x1D] PRINT_EVENT_MESSAGE(message_id=18949*)
+ 12: 0x0A8E [0x1D] PRINT_EVENT_MESSAGE(message_id=18954*)
     → "Oh, hello again. If you don't mind me asking, what is that shield you're carrying?"
  13: 0x0A91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0A92 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 15: 0x0AA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=18950*)
+ 15: 0x0AA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=18955*)
     → "Hmm... I can see that you've spoken with her already."
  16: 0x0AA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0AA5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 18: 0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18951*)
+ 18: 0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18956*)
     → "Yes, I heard her tale about the shield that can enhance one's crafting ability. I'm not sure if I believe it or not, though..."
  19: 0x0AB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0AB8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 21: 0x0AC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=18952*)
+ 21: 0x0AC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=18957*)
     → "Although, if it's true, that would definitely make it a shield worth having."
  22: 0x0ACA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=18953*)
+ 23: 0x0ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=18958*)
     → "I know what you're capable of in our field, and if she picked you for this task, it must mean you've got what it takes to make this shield."
  24: 0x0ACE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0ACF [0x1D] PRINT_EVENT_MESSAGE(message_id=18954*)
+ 25: 0x0ACF [0x1D] PRINT_EVENT_MESSAGE(message_id=18959*)
     → "First things first. Let's teach you the necessary recipe. I recommend that you commit it to memory."
  26: 0x0AD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0AD3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  28: 0x0AE2 [0x1A] CALL_SUBROUTINE(address=0x1601)
  29: 0x0AE5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 30: 0x0AF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18955*)
+ 30: 0x0AF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18960*)
     → "Very well then. The first ingredient you will need is $1."
  31: 0x0AF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0AF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=18956*)
+ 32: 0x0AF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=18961*)
     → "Its purpose is to increase the Craftsmanship of the $0 to its maximum value."
  33: 0x0AFB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0AFC [0x1D] PRINT_EVENT_MESSAGE(message_id=18957*)
+ 34: 0x0AFC [0x1D] PRINT_EVENT_MESSAGE(message_id=18962*)
     → "I have actually received some notes on Craftsmanship that you should probably hear."
  35: 0x0AFF [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0B00 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 37: 0x0B0F [0x48] [System] [18958*]:
+ 37: 0x0B0F [0x48] [System] [18963*]:
     → "You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped."
  38: 0x0B12 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0B13 [0x48] [System] [18959*]:
+ 39: 0x0B13 [0x48] [System] [18964*]:
     → "Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you run into trouble."
  40: 0x0B16 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0B17 [0x48] [System] [18960*]:
+ 41: 0x0B17 [0x48] [System] [18965*]:
     → "In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect."
  42: 0x0B1A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0B1B [0x48] [System] [18961*]:
+ 43: 0x0B1B [0x48] [System] [18966*]:
     → "You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha..."
  44: 0x0B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0B1F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 46: 0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=18962*)
+ 46: 0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=18967*)
     → "That is all that it says."
  47: 0x0B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x0B32 [0x1D] PRINT_EVENT_MESSAGE(message_id=18963*)
+ 48: 0x0B32 [0x1D] PRINT_EVENT_MESSAGE(message_id=18968*)
     → "Once you've raised the Craftsmanship, please bring me the shield and I will make the $1."
  49: 0x0B35 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x0B36 [0x1D] PRINT_EVENT_MESSAGE(message_id=18964*)
+ 50: 0x0B36 [0x1D] PRINT_EVENT_MESSAGE(message_id=18969*)
     → "Next, you will need $2 and $3, which can be obtained from Luren."
  51: 0x0B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x0B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=18965*)
+ 52: 0x0B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=18970*)
     → "You have made a delivery or two before, yes? That's essentially what you need to do here to receive these items."
  53: 0x0B3D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0B3E [0x1D] PRINT_EVENT_MESSAGE(message_id=18966*)
+ 54: 0x0B3E [0x1D] PRINT_EVENT_MESSAGE(message_id=18971*)
     → "Please speak to Luren if you require more information."
  55: 0x0B41 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0B42 [0x1D] PRINT_EVENT_MESSAGE(message_id=18967*)
+ 56: 0x0B42 [0x1D] PRINT_EVENT_MESSAGE(message_id=18972*)
     → "That does it for the ingredients. Please show me the shield once you've upgraded it. I would like to see it."
  57: 0x0B45 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0B46 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -1570,11 +1570,11 @@ SUBROUTINE_0B58:
  10: 0x0B8C [0x4A] LocalPlayer looks at EventEntity
  11: 0x0B95 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  12: 0x0B96 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 13: 0x0B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=18986*)
+ 13: 0x0B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=18991*)
     → "Thank you for coming. I already heard about why you are here."
  14: 0x0B9A [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0B9B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 16: 0x0BAA [0x1D] PRINT_EVENT_MESSAGE(message_id=18987*)
+ 16: 0x0BAA [0x1D] PRINT_EVENT_MESSAGE(message_id=18992*)
     → "Let's get started then, shall we? Here is the recipe you'll need."
  17: 0x0BAD [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0BAE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -1584,32 +1584,32 @@ SUBROUTINE_0B58:
  22: 0x0BCA [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
  23: 0x0BCF [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[21]
  24: 0x0BD4 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[22]
- 25: 0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=18988*)
+ 25: 0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=18993*)
     → "Do you have any questions?"
  26: 0x0BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0BDD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 28: 0x0BEC [0x1D] PRINT_EVENT_MESSAGE(message_id=18989*)
+ 28: 0x0BEC [0x1D] PRINT_EVENT_MESSAGE(message_id=18994*)
     → "Now, allow me to explain how to obtain the ingredients, starting with the $1."
  29: 0x0BEF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0BF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=18990*)
+ 30: 0x0BF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=18995*)
     → "Like with the aspis last time, you will need to equip the $0 while crafting in order to boost its Craftsmanship to 100%."
  31: 0x0BF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18991*)
+ 32: 0x0BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18996*)
     → "However, you will need to work even harder to imbue your spirit into the shield this time, so it will probably take a while before you are successful."
  33: 0x0BF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0BF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=18992*)
+ 34: 0x0BF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=18997*)
     → "Once it reaches 100%, bring me the shield and I'll make the $1 for you."
  35: 0x0BFB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0BFC [0x1D] PRINT_EVENT_MESSAGE(message_id=18993*)
+ 36: 0x0BFC [0x1D] PRINT_EVENT_MESSAGE(message_id=18998*)
     → "The next ingredient is the $2. I've left it along with the $3 you used last time with Luren."
  37: 0x0BFF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0C00 [0x1D] PRINT_EVENT_MESSAGE(message_id=18994*)
+ 38: 0x0C00 [0x1D] PRINT_EVENT_MESSAGE(message_id=18999*)
     → "Lastly, the $4... I asked the A.M.A.N. to help me prepare some Records of Eminence objectives for you."
  39: 0x0C03 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0C04 [0x1D] PRINT_EVENT_MESSAGE(message_id=18995*)
+ 40: 0x0C04 [0x1D] PRINT_EVENT_MESSAGE(message_id=19000*)
     → "You will receive the $4 once you complete all of them."
  41: 0x0C07 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=18996*)
+ 42: 0x0C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=19001*)
     → "That's it for the ingredients. You have a long and hard road ahead of you, but I have faith that you can handle it."
  43: 0x0C0B [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0C0C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -1664,48 +1664,48 @@ SUBROUTINE_0B58:
   8: 0x0C49 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x0C4A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  10: 0x0C4B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x0C5A [0x1D] PRINT_EVENT_MESSAGE(message_id=19007*)
+ 11: 0x0C5A [0x1D] PRINT_EVENT_MESSAGE(message_id=19012*)
     → "It is nice to see you. Let's not waste any time. I shall teach you the new recipe."
  12: 0x0C5D [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0C5E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 14: 0x0C6D [0x1D] PRINT_EVENT_MESSAGE(message_id=19008*)
+ 14: 0x0C6D [0x1D] PRINT_EVENT_MESSAGE(message_id=19013*)
     → "Hm? You already know the recipe and how to obtain some of the ingredients?"
  15: 0x0C70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0C71 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[19]
  17: 0x0C76 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[20]
- 18: 0x0C7B [0x1D] PRINT_EVENT_MESSAGE(message_id=19009*)
+ 18: 0x0C7B [0x1D] PRINT_EVENT_MESSAGE(message_id=19014*)
     → "I guess that just leaves the $4 and $5. As such..."
  19: 0x0C7E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0C7F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  21: 0x0C8E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  22: 0x0C9B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 23: 0x0CAA [0x1D] PRINT_EVENT_MESSAGE(message_id=19010*)
+ 23: 0x0CAA [0x1D] PRINT_EVENT_MESSAGE(message_id=19015*)
     → "Our guild has received a number of orders for some items, but they need to be crafted in front of the customer."
  24: 0x0CAD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0CAE [0x1D] PRINT_EVENT_MESSAGE(message_id=19011*)
+ 25: 0x0CAE [0x1D] PRINT_EVENT_MESSAGE(message_id=19016*)
     → "You see, the customer wants to see our finest craftsmen at work up close and personal."
  26: 0x0CB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0CB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19012*)
+ 27: 0x0CB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19017*)
     → "There are some exceptions, but otherwise only items crafted near the customer will count."
  28: 0x0CB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0CB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19013*)
+ 29: 0x0CB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19018*)
     → "I also need you to gather the materials needed to craft the items. You're free to obtain them however you like."
  30: 0x0CB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=19014*)
+ 31: 0x0CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=19019*)
     → "On that note, we have reached an agreement between the guilds that will let you use gil to buy certain items from each one that were not previously available."
  32: 0x0CBD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0CBE [0x1D] PRINT_EVENT_MESSAGE(message_id=19015*)
+ 33: 0x0CBE [0x1D] PRINT_EVENT_MESSAGE(message_id=19020*)
     → "You can buy them from the crafting set vendor in each guild."
  34: 0x0CC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0CC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19016*)
+ 35: 0x0CC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19021*)
     → "However, each guild is free to set its own rules, so know that you might not always find what you are looking for."
  36: 0x0CC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0CC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19017*)
+ 37: 0x0CC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19022*)
     → "Once you have completed all of the requests, I will give you the $4 and $5."
  38: 0x0CC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0CCA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  40: 0x0CD9 [0x03] Work_Zone[2] = 0*
- 41: 0x0CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=19018*)
+ 41: 0x0CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=19023*)
     → "This is the [first/next/final] request."
  42: 0x0CE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0CE2 [0x03] Work_Zone[1] = 1*
@@ -1719,7 +1719,7 @@ SUBROUTINE_0B58:
  51: 0x0CFF [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[4]
  52: 0x0D04 [0x1A] CALL_SUBROUTINE(address=0x16AD)
  53: 0x0D07 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 54: 0x0D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=19024*)
+ 54: 0x0D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=19029*)
     → "Once you have completed the request, do not forget to report back to me."
  55: 0x0D19 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0D1A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -1768,28 +1768,28 @@ SUBROUTINE_0B58:
   9: 0x0D5C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x0D5D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x0D5E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 12: 0x0D6D [0x1D] PRINT_EVENT_MESSAGE(message_id=19043*)
+ 12: 0x0D6D [0x1D] PRINT_EVENT_MESSAGE(message_id=19048*)
     → "It's good of you to come. It looks like you're nearly finished upgrading the shield."
  13: 0x0D70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0D71 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 15: 0x0D80 [0x1D] PRINT_EVENT_MESSAGE(message_id=19044*)
+ 15: 0x0D80 [0x1D] PRINT_EVENT_MESSAGE(message_id=19049*)
     → "Now, please allow me to explain what comes next."
  16: 0x0D83 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0D84 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
  18: 0x0D89 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
  19: 0x0D8E [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[21]
  20: 0x0D93 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 21: 0x0DA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19045*)
+ 21: 0x0DA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19050*)
     → "I have prepared the $2 and $3 that you will require."
  22: 0x0DA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0DA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19046*)
+ 23: 0x0DA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19051*)
     → "If you have enough crafter points, you can exchange them with Luren right away."
  24: 0x0DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0DAA [0x1D] PRINT_EVENT_MESSAGE(message_id=19047*)
+ 25: 0x0DAA [0x1D] PRINT_EVENT_MESSAGE(message_id=19052*)
     → "As for the $1, the procedure is the same as before. Let me see your shield after you boost its Craftsmanship to 100%."
  26: 0x0DAD [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0DAE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 28: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=19048*)
+ 28: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=19053*)
     → "That's it for my explanation. Your first goal should be to work on getting that Craftsmanship value up. Good luck to you."
  29: 0x0DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0DC1 [0x21] END_EVENT
@@ -1833,24 +1833,24 @@ SUBROUTINE_0B58:
   4: 0x0DD7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0DD8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   6: 0x0DE7 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0DF6
-  7: 0x0DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=19033*)
+  7: 0x0DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=19038*)
     → "So, are you feeling better now? I have the next request here if you want it."
   8: 0x0DF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0DF3 [0x01] GOTO 0x0E1B
  10: 0x0DF6 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0E0E
  11: 0x0DFE [0x03] Work_Zone[2] = 2*
- 12: 0x0E03 [0x1D] PRINT_EVENT_MESSAGE(message_id=19034*)
+ 12: 0x0E03 [0x1D] PRINT_EVENT_MESSAGE(message_id=19039*)
     → "Oh, it seems you completed the delivery. Thank you for the help."
  13: 0x0E06 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0E07 [0x1D] PRINT_EVENT_MESSAGE(message_id=19018*)
+ 14: 0x0E07 [0x1D] PRINT_EVENT_MESSAGE(message_id=19023*)
     → "This is the [first/next/final] request."
  15: 0x0E0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0E0B [0x01] GOTO 0x0E1B
  17: 0x0E0E [0x03] Work_Zone[2] = 1*
- 18: 0x0E13 [0x1D] PRINT_EVENT_MESSAGE(message_id=19034*)
+ 18: 0x0E13 [0x1D] PRINT_EVENT_MESSAGE(message_id=19039*)
     → "Oh, it seems you completed the delivery. Thank you for the help."
  19: 0x0E16 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0E17 [0x1D] PRINT_EVENT_MESSAGE(message_id=19018*)
+ 20: 0x0E17 [0x1D] PRINT_EVENT_MESSAGE(message_id=19023*)
     → "This is the [first/next/final] request."
  21: 0x0E1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1867,7 +1867,7 @@ SUBROUTINE_0E1B:
  31: 0x0E47 [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[4]
  32: 0x0E4C [0x1A] CALL_SUBROUTINE(address=0x16AD)
  33: 0x0E4F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 34: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=19024*)
+ 34: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=19029*)
     → "Once you have completed the request, do not forget to report back to me."
  35: 0x0E61 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0E62 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -1913,7 +1913,7 @@ SUBROUTINE_0E1B:
   2: 0x0E85 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0E86 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0E87 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0E96 [0x1D] PRINT_EVENT_MESSAGE(message_id=19025*)
+  5: 0x0E96 [0x1D] PRINT_EVENT_MESSAGE(message_id=19030*)
     → "Your current request is..."
   6: 0x0E99 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0E9A [0x03] Work_Zone[1] = 1*
@@ -1927,14 +1927,14 @@ SUBROUTINE_0E1B:
  15: 0x0EB7 [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[4]
  16: 0x0EBC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  17: 0x0ECB [0x1A] CALL_SUBROUTINE(address=0x16AD)
- 18: 0x0ECE [0x1D] PRINT_EVENT_MESSAGE(message_id=19026*)
+ 18: 0x0ECE [0x1D] PRINT_EVENT_MESSAGE(message_id=19031*)
     → "Is everything going okay with the request?"
  19: 0x0ED1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0ED2 [0x24] CREATE_DIALOG(message_id=19027*, default_option=0*, option_flags=0*)
+ 20: 0x0ED2 [0x24] CREATE_DIALOG(message_id=19032*, default_option=0*, option_flags=0*)
     → "Everything okay? [Everything's great!/It could be better...]"
  21: 0x0ED9 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0EDA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EF0
- 23: 0x0EE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19028*)
+ 23: 0x0EE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19033*)
     → "That is good to hear. Please keep working hard for the guild out there."
  24: 0x0EE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0EE6 [0x03] Work_Zone[1] = 1073741824*
@@ -1943,15 +1943,15 @@ SUBROUTINE_0E1B:
 
 SUBROUTINE_0EF0:
  28: 0x0EF0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 29: 0x0EFF [0x1D] PRINT_EVENT_MESSAGE(message_id=19029*)
+ 29: 0x0EFF [0x1D] PRINT_EVENT_MESSAGE(message_id=19034*)
     → "What's that? You want to give up on this job?"
  30: 0x0F02 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0F03 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 32: 0x0F12 [0x24] CREATE_DIALOG(message_id=19030*, default_option=0*, option_flags=0*)
+ 32: 0x0F12 [0x24] CREATE_DIALOG(message_id=19035*, default_option=0*, option_flags=0*)
     → "Will you see this through? [I'll do my best./I've had enough.]"
  33: 0x0F19 [0x25] WAIT_DIALOG_SELECT()
  34: 0x0F1A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F30
- 35: 0x0F22 [0x1D] PRINT_EVENT_MESSAGE(message_id=19028*)
+ 35: 0x0F22 [0x1D] PRINT_EVENT_MESSAGE(message_id=19033*)
     → "That is good to hear. Please keep working hard for the guild out there."
  36: 0x0F25 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0F26 [0x03] Work_Zone[1] = 1073741824*
@@ -1961,10 +1961,10 @@ SUBROUTINE_0EF0:
 SUBROUTINE_0F30:
  40: 0x0F30 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  41: 0x0F31 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 42: 0x0F40 [0x1D] PRINT_EVENT_MESSAGE(message_id=19031*)
+ 42: 0x0F40 [0x1D] PRINT_EVENT_MESSAGE(message_id=19036*)
     → "I guess it cannot be helped. I shall find somebody else to finish this task."
  43: 0x0F43 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0F44 [0x1D] PRINT_EVENT_MESSAGE(message_id=19032*)
+ 44: 0x0F44 [0x1D] PRINT_EVENT_MESSAGE(message_id=19037*)
     → "There are plenty more requests for you to handle, so please come back after you get some rest."
  45: 0x0F47 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0F48 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2012,15 +2012,15 @@ SUBROUTINE_0F30:
   3: 0x0F71 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0F72 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0F73 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x0F82 [0x1D] PRINT_EVENT_MESSAGE(message_id=19035*)
+  6: 0x0F82 [0x1D] PRINT_EVENT_MESSAGE(message_id=19040*)
     → "Ahh, you have completed all of the deliveries. I really appreciate your help."
   7: 0x0F85 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0F86 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
-  9: 0x0F95 [0x1D] PRINT_EVENT_MESSAGE(message_id=19036*)
+  9: 0x0F95 [0x1D] PRINT_EVENT_MESSAGE(message_id=19041*)
     → "Here are the $0 and $1 as promised."
  10: 0x0F98 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0F99 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 12: 0x0FA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19037*)
+ 12: 0x0FA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19042*)
     → "I am sure you will never face such a problem, but if you lose either of these items, you can use guild points to obtain a replacement."
  13: 0x0FA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0FAA [0x21] END_EVENT
@@ -2065,7 +2065,7 @@ SUBROUTINE_0F30:
   5: 0x0FC4 [0x4A] EventEntity looks at LocalPlayer
   6: 0x0FCD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
   7: 0x0FD2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
-  8: 0x0FD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=18970*)
+  8: 0x0FD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=18975*)
     → "I see... With this, I think I can make the $0."
   9: 0x0FDA [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0FDB [0x1A] CALL_SUBROUTINE(address=0x178F)
@@ -2073,23 +2073,23 @@ SUBROUTINE_0F30:
  12: 0x0FE1 [0x1A] CALL_SUBROUTINE(address=0x176E)
  13: 0x0FE4 [0x1C] WAIT(30* ticks)
  14: 0x0FE7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 15: 0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=18971*)
+ 15: 0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=18976*)
     → "So this is the $0..."
  16: 0x0FF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0FFA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  18: 0x1007 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 19: 0x1016 [0x1D] PRINT_EVENT_MESSAGE(message_id=18972*)
+ 19: 0x1016 [0x1D] PRINT_EVENT_MESSAGE(message_id=18977*)
     → "The ability to pour my soul into this shield and create a crystal from it... I have no idea how it works, but it is really quite fascinating."
  20: 0x1019 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x101A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 22: 0x1029 [0x1D] PRINT_EVENT_MESSAGE(message_id=18973*)
+ 22: 0x1029 [0x1D] PRINT_EVENT_MESSAGE(message_id=18978*)
     → "This is strange. In creating the $0, it somehow lowered the Craftsmanship of the $1."
  23: 0x102C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x102D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 25: 0x103C [0x1D] PRINT_EVENT_MESSAGE(message_id=18974*)
+ 25: 0x103C [0x1D] PRINT_EVENT_MESSAGE(message_id=18979*)
     → "In the end, that is not really a problem if you want to upgrade the $1, but you will need to bring the Craftsmanship back up if you want to make another $0."
  26: 0x103F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x1040 [0x1D] PRINT_EVENT_MESSAGE(message_id=18975*)
+ 27: 0x1040 [0x1D] PRINT_EVENT_MESSAGE(message_id=18980*)
     → "However, I really doubt that you would ever lose such a valuable item."
  28: 0x1043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x1044 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2138,10 +2138,10 @@ SUBROUTINE_1056:
   7: 0x107F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
   8: 0x1084 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x1085 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 10: 0x1086 [0x1D] PRINT_EVENT_MESSAGE(message_id=18997*)
+ 10: 0x1086 [0x1D] PRINT_EVENT_MESSAGE(message_id=19002*)
     → "I see you have increased the Craftsmanship to the necessary level."
  11: 0x1089 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x108A [0x1D] PRINT_EVENT_MESSAGE(message_id=18998*)
+ 12: 0x108A [0x1D] PRINT_EVENT_MESSAGE(message_id=19003*)
     → "Wait a moment while I prepare the $0 for you."
  13: 0x108D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x108E [0x1A] CALL_SUBROUTINE(address=0x178F)
@@ -2149,16 +2149,16 @@ SUBROUTINE_1056:
  16: 0x1094 [0x1A] CALL_SUBROUTINE(address=0x176E)
  17: 0x1097 [0x1C] WAIT(30* ticks)
  18: 0x109A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 19: 0x10A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=18999*)
+ 19: 0x10A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=19004*)
     → "Yes, that turned out rather well, I must say."
  20: 0x10AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x10AD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  22: 0x10BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 23: 0x10C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=19000*)
+ 23: 0x10C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=19005*)
     → "Hmm... Just like I thought, making the $0 caused the shield's Craftsmanship to decrease."
  24: 0x10CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x10CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 26: 0x10DC [0x1D] PRINT_EVENT_MESSAGE(message_id=19001*)
+ 26: 0x10DC [0x1D] PRINT_EVENT_MESSAGE(message_id=19006*)
     → "Make sure you take good care of this item so you don't have to go through the whole process again."
  27: 0x10DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x10E0 [0x21] END_EVENT
@@ -2202,10 +2202,10 @@ SUBROUTINE_1056:
   7: 0x1109 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
   8: 0x110E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x110F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 10: 0x1110 [0x1D] PRINT_EVENT_MESSAGE(message_id=18997*)
+ 10: 0x1110 [0x1D] PRINT_EVENT_MESSAGE(message_id=19002*)
     → "I see you have increased the Craftsmanship to the necessary level."
  11: 0x1113 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x1114 [0x1D] PRINT_EVENT_MESSAGE(message_id=18998*)
+ 12: 0x1114 [0x1D] PRINT_EVENT_MESSAGE(message_id=19003*)
     → "Wait a moment while I prepare the $0 for you."
  13: 0x1117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1118 [0x1A] CALL_SUBROUTINE(address=0x178F)
@@ -2213,19 +2213,19 @@ SUBROUTINE_1056:
  16: 0x111E [0x1A] CALL_SUBROUTINE(address=0x176E)
  17: 0x1121 [0x1C] WAIT(30* ticks)
  18: 0x1124 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 19: 0x1133 [0x1D] PRINT_EVENT_MESSAGE(message_id=18999*)
+ 19: 0x1133 [0x1D] PRINT_EVENT_MESSAGE(message_id=19004*)
     → "Yes, that turned out rather well, I must say."
  20: 0x1136 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1137 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 22: 0x1144 [0x1D] PRINT_EVENT_MESSAGE(message_id=19038*)
+ 22: 0x1144 [0x1D] PRINT_EVENT_MESSAGE(message_id=19043*)
     → "I really have gotten quite good at this."
  23: 0x1147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1148 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 25: 0x1157 [0x1D] PRINT_EVENT_MESSAGE(message_id=19000*)
+ 25: 0x1157 [0x1D] PRINT_EVENT_MESSAGE(message_id=19005*)
     → "Hmm... Just like I thought, making the $0 caused the shield's Craftsmanship to decrease."
  26: 0x115A [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x115B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 28: 0x116A [0x1D] PRINT_EVENT_MESSAGE(message_id=19001*)
+ 28: 0x116A [0x1D] PRINT_EVENT_MESSAGE(message_id=19006*)
     → "Make sure you take good care of this item so you don't have to go through the whole process again."
  29: 0x116D [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x116E [0x21] END_EVENT
@@ -2269,10 +2269,10 @@ SUBROUTINE_1056:
   7: 0x1197 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
   8: 0x119C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x119D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 10: 0x119E [0x1D] PRINT_EVENT_MESSAGE(message_id=18997*)
+ 10: 0x119E [0x1D] PRINT_EVENT_MESSAGE(message_id=19002*)
     → "I see you have increased the Craftsmanship to the necessary level."
  11: 0x11A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x11A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=18998*)
+ 12: 0x11A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19003*)
     → "Wait a moment while I prepare the $0 for you."
  13: 0x11A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x11A6 [0x1A] CALL_SUBROUTINE(address=0x178F)
@@ -2280,12 +2280,12 @@ SUBROUTINE_1056:
  16: 0x11AC [0x1A] CALL_SUBROUTINE(address=0x176E)
  17: 0x11AF [0x1C] WAIT(30* ticks)
  18: 0x11B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 19: 0x11C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=18999*)
+ 19: 0x11C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=19004*)
     → "Yes, that turned out rather well, I must say."
  20: 0x11C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x11C5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  22: 0x11D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 23: 0x11E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=19049*)
+ 23: 0x11E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=19054*)
     → "With the $0, Mewk Chorosap mentioned that she wanted it brought to her. Try to deliver it as soon as possible."
  24: 0x11E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x11E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2328,10 +2328,10 @@ SUBROUTINE_1056:
   7: 0x121D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
   8: 0x1222 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x1223 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 10: 0x1224 [0x1D] PRINT_EVENT_MESSAGE(message_id=18976*)
+ 10: 0x1224 [0x1D] PRINT_EVENT_MESSAGE(message_id=18981*)
     → "Impossible. You mean you actually managed to misplace the $0?"
  11: 0x1227 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x1228 [0x1D] PRINT_EVENT_MESSAGE(message_id=18977*)
+ 12: 0x1228 [0x1D] PRINT_EVENT_MESSAGE(message_id=18982*)
     → "Oh well. I will make you another $0, so please let me borrow your shield."
  13: 0x122B [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x122C [0x1A] CALL_SUBROUTINE(address=0x178F)
@@ -2339,7 +2339,7 @@ SUBROUTINE_1056:
  16: 0x1232 [0x1A] CALL_SUBROUTINE(address=0x176E)
  17: 0x1235 [0x1C] WAIT(30* ticks)
  18: 0x1238 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 19: 0x1247 [0x1D] PRINT_EVENT_MESSAGE(message_id=18978*)
+ 19: 0x1247 [0x1D] PRINT_EVENT_MESSAGE(message_id=18983*)
     → "You are a professional. As such, you need to make sure you take proper care of your ingredients."
  20: 0x124A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x124B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2378,12 +2378,12 @@ SUBROUTINE_1056:
   3: 0x126D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x126E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x126F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  6: 0x127E [0x1D] PRINT_EVENT_MESSAGE(message_id=19054*)
+  6: 0x127E [0x1D] PRINT_EVENT_MESSAGE(message_id=19059*)
     → "Hello again. I have something to tell you. Do you remember that item you were looking for? I found it in the guild."
   7: 0x1281 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1282 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
   9: 0x1291 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x12A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19055*)
+ 10: 0x12A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19060*)
     → "Hm? You need it for something? Sure, that's fine with me. Consider it yours."
  11: 0x12A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x12A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2424,15 +2424,15 @@ SUBROUTINE_1056:
   5: 0x12CE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x12CF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
   7: 0x12D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  8: 0x12E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18976*)
+  8: 0x12E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18981*)
     → "Impossible. You mean you actually managed to misplace the $0?"
   9: 0x12E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x12E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 11: 0x12F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19006*)
+ 11: 0x12F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=19011*)
     → "Don't worry, these things happen. Go and try the last objective one more time."
  12: 0x12F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x12FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x1309 [0x1D] PRINT_EVENT_MESSAGE(message_id=18978*)
+ 14: 0x1309 [0x1D] PRINT_EVENT_MESSAGE(message_id=18983*)
     → "You are a professional. As such, you need to make sure you take proper care of your ingredients."
  15: 0x130C [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x130D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2476,19 +2476,19 @@ SUBROUTINE_1056:
   3: 0x132C [0x4A] EventEntity looks at LocalPlayer
   4: 0x1335 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x1336 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x1337 [0x1D] PRINT_EVENT_MESSAGE(message_id=18979*)
+  6: 0x1337 [0x1D] PRINT_EVENT_MESSAGE(message_id=18984*)
     → "It looks like you made the upgrade. Do you mind if I take a look?"
   7: 0x133A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x133B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  9: 0x134A [0x1D] PRINT_EVENT_MESSAGE(message_id=18980*)
+  9: 0x134A [0x1D] PRINT_EVENT_MESSAGE(message_id=18985*)
     → "Hmm... The shape is different, and I can feel a faint energy emanating from it... Although, it clearly is not complete just yet."
  10: 0x134D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x134E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 12: 0x135D [0x1D] PRINT_EVENT_MESSAGE(message_id=18981*)
+ 12: 0x135D [0x1D] PRINT_EVENT_MESSAGE(message_id=18986*)
     → "No, you'll need to craft multiple times in order to get the best performance out of it. That's what she told me anyway."
  13: 0x1360 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1361 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 15: 0x1370 [0x1D] PRINT_EVENT_MESSAGE(message_id=18982*)
+ 15: 0x1370 [0x1D] PRINT_EVENT_MESSAGE(message_id=18987*)
     → "That reminds me, I'm supposed to mark the shield when it's finished. Please give me a moment."
  16: 0x1373 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1374 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2498,13 +2498,13 @@ SUBROUTINE_1056:
  21: 0x1396 [0x1A] CALL_SUBROUTINE(address=0x176E)
  22: 0x1399 [0x1C] WAIT(30* ticks)
  23: 0x139C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 24: 0x13AB [0x1D] PRINT_EVENT_MESSAGE(message_id=18983*)
+ 24: 0x13AB [0x1D] PRINT_EVENT_MESSAGE(message_id=18988*)
     → "That should do it."
  25: 0x13AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x13AF [0x1D] PRINT_EVENT_MESSAGE(message_id=18984*)
+ 26: 0x13AF [0x1D] PRINT_EVENT_MESSAGE(message_id=18989*)
     → "Please take the shield to Mewk Chorosap in Jeuno for me."
  27: 0x13B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x13B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18985*)
+ 28: 0x13B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18990*)
     → "Oh, I also have regular deliveries for Luren. It would be quite helpful for training the newer members of the guild if you could help me with them."
  29: 0x13B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x13B7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2551,14 +2551,14 @@ SUBROUTINE_13C7:
   5: 0x13E2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x13E3 [0x6E] EventEntity uses emote 7*
   7: 0x13EA [0x99] Wait for EventEntity animation to complete
-  8: 0x13EF [0x1D] PRINT_EVENT_MESSAGE(message_id=19002*)
+  8: 0x13EF [0x1D] PRINT_EVENT_MESSAGE(message_id=19007*)
     → "Look at the brilliant design of this shield. You can tell its quality just by looking at it. Of course, I expected nothing less from you."
   9: 0x13F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x13F3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x1402 [0x1D] PRINT_EVENT_MESSAGE(message_id=19003*)
+ 11: 0x1402 [0x1D] PRINT_EVENT_MESSAGE(message_id=19008*)
     → "Furthermore, I can tell this shield's power is well beyond the previous one. Of course, it's still probably not enough for her though."
  12: 0x1405 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x1406 [0x1D] PRINT_EVENT_MESSAGE(message_id=19004*)
+ 13: 0x1406 [0x1D] PRINT_EVENT_MESSAGE(message_id=19009*)
     → "Now, let me mark it for you to complete the process."
  14: 0x1409 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x140A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2568,7 +2568,7 @@ SUBROUTINE_13C7:
  19: 0x142C [0x1A] CALL_SUBROUTINE(address=0x176E)
  20: 0x142F [0x1C] WAIT(30* ticks)
  21: 0x1432 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 22: 0x1441 [0x1D] PRINT_EVENT_MESSAGE(message_id=19005*)
+ 22: 0x1441 [0x1D] PRINT_EVENT_MESSAGE(message_id=19010*)
     → "There you go. Show the shield to Mewk Chorosap and you'll be finished."
  23: 0x1444 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1445 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2613,19 +2613,19 @@ SUBROUTINE_13C7:
   3: 0x1463 [0x4A] LocalPlayer looks at EventEntity
   4: 0x146C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x146D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x146E [0x1D] PRINT_EVENT_MESSAGE(message_id=19039*)
+  6: 0x146E [0x1D] PRINT_EVENT_MESSAGE(message_id=19044*)
     → "So this is how the shield turned out..."
   7: 0x1471 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1472 [0x6E] EventEntity uses emote 7*
   9: 0x1479 [0x99] Wait for EventEntity animation to complete
- 10: 0x147E [0x1D] PRINT_EVENT_MESSAGE(message_id=19040*)
+ 10: 0x147E [0x1D] PRINT_EVENT_MESSAGE(message_id=19045*)
     → "Yes, it really is quite beautiful! I can see your skill continues to grow without bounds."
  11: 0x1481 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1482 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 13: 0x1491 [0x1D] PRINT_EVENT_MESSAGE(message_id=19041*)
+ 13: 0x1491 [0x1D] PRINT_EVENT_MESSAGE(message_id=19046*)
     → "Our friend thinks that the next upgrade will be the one to unlock the true power of the shield. I cannot wait to see what it becomes."
  14: 0x1494 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x1495 [0x1D] PRINT_EVENT_MESSAGE(message_id=19004*)
+ 15: 0x1495 [0x1D] PRINT_EVENT_MESSAGE(message_id=19009*)
     → "Now, let me mark it for you to complete the process."
  16: 0x1498 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1499 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2635,13 +2635,13 @@ SUBROUTINE_13C7:
  21: 0x14BB [0x1A] CALL_SUBROUTINE(address=0x176E)
  22: 0x14BE [0x1C] WAIT(30* ticks)
  23: 0x14C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 24: 0x14D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19005*)
+ 24: 0x14D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19010*)
     → "There you go. Show the shield to Mewk Chorosap and you'll be finished."
  25: 0x14D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x14D4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  27: 0x14E1 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x1511
  28: 0x14E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 29: 0x14F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=19042*)
+ 29: 0x14F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=19047*)
     → "Oh, wait a moment. I have a crafting technique that I think would be just perfect for one of your ability. Give it a try when you have a chance."
  30: 0x14FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x14FC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2685,21 +2685,21 @@ SUBROUTINE_1516:
   2: 0x1522 [0x4A] LocalPlayer looks at EventEntity
   3: 0x152B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x152C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x152D [0x1D] PRINT_EVENT_MESSAGE(message_id=19050*)
+  5: 0x152D [0x1D] PRINT_EVENT_MESSAGE(message_id=19055*)
     → "Hello. What do you need?"
   6: 0x1530 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1531 [0x1A] CALL_SUBROUTINE(address=0x17B0)
   8: 0x1534 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  9: 0x1543 [0x1D] PRINT_EVENT_MESSAGE(message_id=19051*)
+  9: 0x1543 [0x1D] PRINT_EVENT_MESSAGE(message_id=19056*)
     → "Ah! You must be talking about the item that Tarutaru from Adoulin asked me to make."
  10: 0x1546 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1547 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  12: 0x1556 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  13: 0x1563 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x1572 [0x1D] PRINT_EVENT_MESSAGE(message_id=19052*)
+ 14: 0x1572 [0x1D] PRINT_EVENT_MESSAGE(message_id=19057*)
     → "I was asked to send it to Jeuno after it was completed."
  15: 0x1575 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x1576 [0x1D] PRINT_EVENT_MESSAGE(message_id=19053*)
+ 16: 0x1576 [0x1D] PRINT_EVENT_MESSAGE(message_id=19058*)
     → "I imagine it must've been delivered to Mewk Chorosap by now."
  17: 0x1579 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x157A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2738,25 +2738,25 @@ SUBROUTINE_1516:
   2: 0x1595 [0x4A] LocalPlayer looks at EventEntity
   3: 0x159E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x159F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x15A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19056*)
+  5: 0x15A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19061*)
     → "Hmm... That emblem..."
   6: 0x15A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x15A4 [0x6E] LocalPlayer uses emote 7*
   8: 0x15AB [0x99] Wait for LocalPlayer animation to complete
   9: 0x15B0 [0x1C] WAIT(60* ticks)
  10: 0x15B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 11: 0x15C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19057*)
+ 11: 0x15C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19062*)
     → "Ahh, I see. You've finished the shield at last. It looks absolutely amazing!"
  12: 0x15C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x15C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 14: 0x15D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=19058*)
+ 14: 0x15D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=19063*)
     → "When you equip it, everyone will know that you're a top-level member of the Carpenters' Guild."
  15: 0x15D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x15D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 17: 0x15E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=19059*)
+ 17: 0x15E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=19064*)
     → "One more thing... I have prepared something for you in honor of your achievement."
  18: 0x15EB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x15EC [0x1D] PRINT_EVENT_MESSAGE(message_id=19060*)
+ 19: 0x15EC [0x1D] PRINT_EVENT_MESSAGE(message_id=19065*)
     → "I look forward to seeing you develop your woodworking skills and create breathtaking new items that have never been seen before."
  20: 0x15EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x15F0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -2889,71 +2889,71 @@ SUBROUTINE_1516:
      0x16AB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16AC [0x1B] RETURN
      0x16AD [0x02] IF !(ExtData[1]->WorkLocal[27] == 1*) GOTO 0x16BC
-     0x16B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=19019*)
+     0x16B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=19024*)
     → "Deliver $1 $0 to Morunaude at Justi's Furniture in $7."
      0x16B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16B9 [0x01] GOTO 0x176D
      0x16BC [0x02] IF !(ExtData[1]->WorkLocal[27] == 2*) GOTO 0x16CB
-     0x16C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=19019*)
+     0x16C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=19024*)
     → "Deliver $1 $0 to Morunaude at Justi's Furniture in $7."
      0x16C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16C8 [0x01] GOTO 0x176D
      0x16CB [0x02] IF !(ExtData[1]->WorkLocal[27] == 3*) GOTO 0x16DA
-     0x16D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=19019*)
+     0x16D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=19024*)
     → "Deliver $1 $0 to Morunaude at Justi's Furniture in $7."
      0x16D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16D7 [0x01] GOTO 0x176D
      0x16DA [0x02] IF !(ExtData[1]->WorkLocal[27] == 4*) GOTO 0x16E9
-     0x16E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19020*)
+     0x16E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=19025*)
     → "Deliver $1 $0 to Diadonour at the watch tower in $7."
      0x16E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16E6 [0x01] GOTO 0x176D
      0x16E9 [0x02] IF !(ExtData[1]->WorkLocal[27] == 5*) GOTO 0x16F8
-     0x16F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=19020*)
+     0x16F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=19025*)
     → "Deliver $1 $0 to Diadonour at the watch tower in $7."
      0x16F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16F5 [0x01] GOTO 0x176D
      0x16F8 [0x02] IF !(ExtData[1]->WorkLocal[27] == 6*) GOTO 0x1707
-     0x1700 [0x1D] PRINT_EVENT_MESSAGE(message_id=19020*)
+     0x1700 [0x1D] PRINT_EVENT_MESSAGE(message_id=19025*)
     → "Deliver $1 $0 to Diadonour at the watch tower in $7."
      0x1703 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1704 [0x01] GOTO 0x176D
      0x1707 [0x02] IF !(ExtData[1]->WorkLocal[27] == 7*) GOTO 0x1716
-     0x170F [0x1D] PRINT_EVENT_MESSAGE(message_id=19021*)
+     0x170F [0x1D] PRINT_EVENT_MESSAGE(message_id=19026*)
     → "Deliver $1 $0 to Lala Gohma in $7. She can be found near the Heavens Tower."
      0x1712 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1713 [0x01] GOTO 0x176D
      0x1716 [0x02] IF !(ExtData[1]->WorkLocal[27] == 8*) GOTO 0x1725
-     0x171E [0x1D] PRINT_EVENT_MESSAGE(message_id=19021*)
+     0x171E [0x1D] PRINT_EVENT_MESSAGE(message_id=19026*)
     → "Deliver $1 $0 to Lala Gohma in $7. She can be found near the Heavens Tower."
      0x1721 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1722 [0x01] GOTO 0x176D
      0x1725 [0x02] IF !(ExtData[1]->WorkLocal[27] == 9*) GOTO 0x1734
-     0x172D [0x1D] PRINT_EVENT_MESSAGE(message_id=19021*)
+     0x172D [0x1D] PRINT_EVENT_MESSAGE(message_id=19026*)
     → "Deliver $1 $0 to Lala Gohma in $7. She can be found near the Heavens Tower."
      0x1730 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1731 [0x01] GOTO 0x176D
      0x1734 [0x02] IF !(ExtData[1]->WorkLocal[27] == 10*) GOTO 0x1747
-     0x173C [0x1D] PRINT_EVENT_MESSAGE(message_id=19022*)
+     0x173C [0x1D] PRINT_EVENT_MESSAGE(message_id=19027*)
     → "Deliver $1 $0 to Morunaude at Justi's Furniture in $7."
      0x173F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1740 [0x1D] PRINT_EVENT_MESSAGE(message_id=19023*)
+     0x1740 [0x1D] PRINT_EVENT_MESSAGE(message_id=19028*)
     → "Oh, that particular item does not need to be crafted near the customer."
      0x1743 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1744 [0x01] GOTO 0x176D
      0x1747 [0x02] IF !(ExtData[1]->WorkLocal[27] == 11*) GOTO 0x175A
-     0x174F [0x1D] PRINT_EVENT_MESSAGE(message_id=19022*)
+     0x174F [0x1D] PRINT_EVENT_MESSAGE(message_id=19027*)
     → "Deliver $1 $0 to Morunaude at Justi's Furniture in $7."
      0x1752 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1753 [0x1D] PRINT_EVENT_MESSAGE(message_id=19023*)
+     0x1753 [0x1D] PRINT_EVENT_MESSAGE(message_id=19028*)
     → "Oh, that particular item does not need to be crafted near the customer."
      0x1756 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1757 [0x01] GOTO 0x176D
      0x175A [0x02] IF !(ExtData[1]->WorkLocal[27] == 12*) GOTO 0x176D
-     0x1762 [0x1D] PRINT_EVENT_MESSAGE(message_id=19022*)
+     0x1762 [0x1D] PRINT_EVENT_MESSAGE(message_id=19027*)
     → "Deliver $1 $0 to Morunaude at Justi's Furniture in $7."
      0x1765 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1766 [0x1D] PRINT_EVENT_MESSAGE(message_id=19023*)
+     0x1766 [0x1D] PRINT_EVENT_MESSAGE(message_id=19028*)
     → "Oh, that particular item does not need to be crafted near the customer."
      0x1769 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x176A [0x01] GOTO 0x176D

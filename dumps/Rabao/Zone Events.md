@@ -230,7 +230,7 @@
 |     167 | 0x0083      |         131 |
 |     168 | 0x161A      |        5658 |
 |     169 | 0x12FD3     |       77779 |
-|     170 | 0x2F46      |       12102 |
+|     170 | 0x2F47      |       12103 |
 |     171 | 0x0FF7      |        4087 |
 |     172 | 0x12EB2     |       77490 |
 
@@ -238,7 +238,7 @@
 
 - **1**: Set this as current home point? [Yes./No.]
 - **10062**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
-- **12102**: Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **12103**: Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
 
 ## Events
 
@@ -1954,7 +1954,7 @@ SUBROUTINE_0EA1:
 
 ```
   0: 0x0EFD [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0EFE [0x48] [System] [12102*]:
+  1: 0x0EFE [0x48] [System] [12103*]:
     → "Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   2: 0x0F01 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0F12 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

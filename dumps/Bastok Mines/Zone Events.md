@@ -5,9 +5,9 @@
 | Field            | Value                  |
 |------------------|------------------------|
 | Zone             | Bastok Mines (ID: 234) |
-| Block Size       | 21468 bytes            |
+| Block Size       | 21552 bytes            |
 | Total Events     | 132                    |
-| References Count | 789                    |
+| References Count | 793                    |
 
 ## List of Events
 
@@ -138,13 +138,13 @@
 | [65535.96](#event-6553596)   | 0x4235       |     37 |              5 |
 | [65535.97](#event-6553597)   | 0x425A       |    185 |             37 |
 | [65535.98](#event-6553598)   | 0x4313       |     14 |              4 |
-| [656](#event-656)            | 0x4321       |     46 |              8 |
-| [65535.99](#event-6553599)   | 0x434F       |     24 |              4 |
-| [65535.100](#event-65535100) | 0x4367       |     24 |              4 |
-| [65535.101](#event-65535101) | 0x437F       |     29 |              5 |
-| [65535.102](#event-65535102) | 0x439C       |    222 |             26 |
-| [65535.103](#event-65535103) | 0x447A       |    222 |             26 |
-| [65535.104](#event-65535104) | 0x4558       |     15 |              5 |
+| [656](#event-656)            | 0x4321       |    115 |             21 |
+| [65535.99](#event-6553599)   | 0x4394       |     24 |              4 |
+| [65535.100](#event-65535100) | 0x43AC       |     24 |              4 |
+| [65535.101](#event-65535101) | 0x43C4       |     29 |              5 |
+| [65535.102](#event-65535102) | 0x43E1       |    222 |             26 |
+| [65535.103](#event-65535103) | 0x44BF       |    222 |             26 |
+| [65535.104](#event-65535104) | 0x459D       |     15 |              5 |
 
 ## DAT References (imed_data)
 
@@ -799,8 +799,8 @@
 |     646 | 0x010E      |         270 |
 |     647 | 0x0105      |         261 |
 |     648 | 0x00FE      |         254 |
-|     649 | 0x3485      |       13445 |
-|     650 | 0x3486      |       13446 |
+|     649 | 0x3488      |       13448 |
+|     650 | 0x3489      |       13449 |
 |     651 | 0x2678      |        9848 |
 |     652 | 0xFFFFC630  |  4294952496 |
 |     653 | 0x03C4      |         964 |
@@ -926,24 +926,28 @@
 |     773 | 0x0C13      |        3091 |
 |     774 | 0x0046      |          70 |
 |     775 | 0x008C      |         140 |
-|     776 | 0x410F      |       16655 |
-|     777 | 0x4135      |       16693 |
-|     778 | 0x0095      |         149 |
-|     779 | 0x009F      |         159 |
-|     780 | 0x00A9      |         169 |
-|     781 | 0x0004      |           4 |
-|     782 | 0x00BD      |         189 |
-|     783 | 0x00C7      |         199 |
-|     784 | 0x0008      |           8 |
-|     785 | 0x00D1      |         209 |
-|     786 | 0xD131      |       53553 |
-|     787 | 0xFFFF7DA7  |  4294933927 |
-|     788 | 0xFFFFFFCD  |  4294967245 |
+|     776 | 0x00E6      |         230 |
+|     777 | 0x00EA      |         234 |
+|     778 | 0x00EF      |         239 |
+|     779 | 0x00F3      |         243 |
+|     780 | 0x4114      |       16660 |
+|     781 | 0x413A      |       16698 |
+|     782 | 0x0095      |         149 |
+|     783 | 0x009F      |         159 |
+|     784 | 0x00A9      |         169 |
+|     785 | 0x0004      |           4 |
+|     786 | 0x00BD      |         189 |
+|     787 | 0x00C7      |         199 |
+|     788 | 0x0008      |           8 |
+|     789 | 0x00D1      |         209 |
+|     790 | 0xD131      |       53553 |
+|     791 | 0xFFFF7DA7  |  4294933927 |
+|     792 | 0xFFFFFFCD  |  4294967245 |
 
 ## String References
 
-- **16655**: Entering $8.
-- **16693**: Your $3 fills with sand.
+- **16660**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **16698**: Your $3 fills with sand.
 
 ## Events
 
@@ -6254,13 +6258,13 @@
  12: 0x3EA4 [0x1C] WAIT(60* ticks)
  13: 0x3EA7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  14: 0x3EB8 [0x1C] WAIT(60* ticks)
- 15: 0x3EBB [0x2B] Zopago (ID: 17735824/0x010EA090) [13445*]:
+ 15: 0x3EBB [0x2B] Zopago (ID: 17735824/0x010EA090) [13448*]:
     → "So you'd like to tend to this egg, eh?"
  16: 0x3EC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x3EC3 [0x52] END_LOAD_SCHEDULER: End scheduler "s108" with entities [EventEntity, EventEntity], work=254*
  18: 0x3ED2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [EventEntity, EventEntity], work=[254*, 0*]
  19: 0x3EE3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zopago (ID: 17735824/0x010EA090), Zopago (ID: 17735824/0x010EA090)], work=69*
- 20: 0x3EF2 [0x2B] Zopago (ID: 17735824/0x010EA090) [13446*]:
+ 20: 0x3EF2 [0x2B] Zopago (ID: 17735824/0x010EA090) [13449*]:
     → "We'll take good care of it, then... Let's make a fine chocobo out of this one."
  21: 0x3EF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x3EFA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -7424,33 +7428,53 @@ SUBROUTINE_4299:
 
 #### Metadata
 
-| Field        | Value    |
-|--------------|----------|
-| Entrypoint   | 0x4321   |
-| Data Size    | 46 bytes |
-| Instructions | 8        |
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x4321    |
+| Data Size    | 115 bytes |
+| Instructions | 21        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-4320:    42 48 08 83 48 09 83  45 1A 80 F0 FF FF 7F F0   BH..H..E.......
-4330: FF FF 7F 66 64 6F 31 0C  80 62 DE 80 F0 FF FF 7F  ...fdo1..b......
-4340: F0 FF FF 7F 6D 61 69 6E  0C 80 1C 62 80 21 00     ....main...b.!. 
+4320:    42 02 02 10 08 83 80  32 43 03 02 10 0C 80 01   B......2C......
+4330: 67 43 02 02 10 09 83 80  42 43 03 02 10 DE 80 01  gC......BC......
+4340: 67 43 02 02 10 0A 83 80  52 43 03 02 10 41 80 01  gC......RC...A..
+4350: 67 43 02 02 10 0B 83 80  62 43 03 02 10 1B 80 01  gC......bC......
+4360: 67 43 03 02 10 0C 80 48  0C 83 48 0D 83 45 1A 80  gC.....H..H..E..
+4370: F0 FF FF 7F F0 FF FF 7F  66 64 6F 31 0C 80 62 DE  ........fdo1..b.
+4380: 80 F0 FF FF 7F F0 FF FF  7F 6D 61 69 6E 0C 80 1C  .........main...
+4390: 62 80 21 00                                       b.!.            
 ```
 
 #### Opcodes
 
 ```
   0: 0x4321 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x4322 [0x48] [System] [16655*]:
-    → "Entering $8."
-  2: 0x4325 [0x48] [System] [16693*]:
+  1: 0x4322 [0x02] IF !(Work_Zone[2] == 230*) GOTO 0x4332
+  2: 0x432A [0x03] Work_Zone[2] = 0*
+  3: 0x432F [0x01] GOTO 0x4367
+  4: 0x4332 [0x02] IF !(Work_Zone[2] == 234*) GOTO 0x4342
+  5: 0x433A [0x03] Work_Zone[2] = 1*
+  6: 0x433F [0x01] GOTO 0x4367
+  7: 0x4342 [0x02] IF !(Work_Zone[2] == 239*) GOTO 0x4352
+  8: 0x434A [0x03] Work_Zone[2] = 2*
+  9: 0x434F [0x01] GOTO 0x4367
+ 10: 0x4352 [0x02] IF !(Work_Zone[2] == 243*) GOTO 0x4362
+ 11: 0x435A [0x03] Work_Zone[2] = 3*
+ 12: 0x435F [0x01] GOTO 0x4367
+ 13: 0x4362 [0x03] Work_Zone[2] = 0*
+
+SUBROUTINE_4367:
+ 14: 0x4367 [0x48] [System] [16660*]:
+    → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
+ 15: 0x436A [0x48] [System] [16698*]:
     → "Your $3 fills with sand."
-  3: 0x4328 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  4: 0x4339 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
-  5: 0x434A [0x1C] WAIT(90* ticks)
-  6: 0x434D [0x21] END_EVENT
-  7: 0x434E [0x00] END_REQSTACK()
+ 16: 0x436D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 17: 0x437E [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
+ 18: 0x438F [0x1C] WAIT(90* ticks)
+ 19: 0x4392 [0x21] END_EVENT
+ 20: 0x4393 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.99
@@ -7459,25 +7483,24 @@ SUBROUTINE_4299:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x434F   |
+| Entrypoint   | 0x4394   |
 | Data Size    | 24 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-4340:                                               03                 .
-4350: 00 00 07 7F 1A 7F 42 66  01 00 F8 FF FF 7F F8 FF  ......Bf........
-4360: FF 7F 74 6C 6B 30 00                              ..tlk0.         
+4390:             03 00 00 07  7F 1A 7F 42 66 01 00 F8      .......Bf...
+43A0: FF FF 7F F8 FF FF 7F 74  6C 6B 30 00              .......tlk0.    
 ```
 
 #### Opcodes
 
 ```
-  0: 0x434F [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
-  1: 0x4354 [0x1A] CALL_SUBROUTINE(address=0x427F)
-  2: 0x4357 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-  3: 0x4366 [0x00] END_REQSTACK()
+  0: 0x4394 [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
+  1: 0x4399 [0x1A] CALL_SUBROUTINE(address=0x427F)
+  2: 0x439C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
+  3: 0x43AB [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.100
@@ -7486,24 +7509,25 @@ SUBROUTINE_4299:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x4367   |
+| Entrypoint   | 0x43AC   |
 | Data Size    | 24 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-4360:                      03  00 00 07 7F 1A 7F 42 66         .......Bf
-4370: 01 00 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 31 00     ..........tlk1. 
+43A0:                                      03 00 00 07              ....
+43B0: 7F 1A 7F 42 66 01 00 F8  FF FF 7F F8 FF FF 7F 74  ...Bf..........t
+43C0: 6C 6B 31 00                                       lk1.            
 ```
 
 #### Opcodes
 
 ```
-  0: 0x4367 [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
-  1: 0x436C [0x1A] CALL_SUBROUTINE(address=0x427F)
-  2: 0x436F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-  3: 0x437E [0x00] END_REQSTACK()
+  0: 0x43AC [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
+  1: 0x43B1 [0x1A] CALL_SUBROUTINE(address=0x427F)
+  2: 0x43B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
+  3: 0x43C3 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.101
@@ -7512,26 +7536,26 @@ SUBROUTINE_4299:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x437F   |
+| Entrypoint   | 0x43C4   |
 | Data Size    | 29 bytes |
 | Instructions | 5        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-4370:                                               03                 .
-4380: 00 00 07 7F 1A A4 42 07  01 00 DE 80 66 01 00 F8  ......B.....f...
-4390: FF FF 7F F8 FF FF 7F 70  61 73 30 00              .......pas0.    
+43C0:             03 00 00 07  7F 1A A4 42 07 01 00 DE      .......B....
+43D0: 80 66 01 00 F8 FF FF 7F  F8 FF FF 7F 70 61 73 30  .f..........pas0
+43E0: 00                                                .               
 ```
 
 #### Opcodes
 
 ```
-  0: 0x437F [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
-  1: 0x4384 [0x1A] CALL_SUBROUTINE(address=0x42A4)
-  2: 0x4387 [0x07] ExtData[1]->WorkLocal[1] += 1*
-  3: 0x438C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
-  4: 0x439B [0x00] END_REQSTACK()
+  0: 0x43C4 [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
+  1: 0x43C9 [0x1A] CALL_SUBROUTINE(address=0x42A4)
+  2: 0x43CC [0x07] ExtData[1]->WorkLocal[1] += 1*
+  3: 0x43D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
+  4: 0x43E0 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.102
@@ -7540,61 +7564,60 @@ SUBROUTINE_4299:
 
 | Field        | Value     |
 |--------------|-----------|
-| Entrypoint   | 0x439C    |
+| Entrypoint   | 0x43E1    |
 | Data Size    | 222 bytes |
 | Instructions | 26        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-4390:                                      02 07 7F DE              ....
-43A0: 80 80 B6 43 66 0A 83 F8  FF FF 7F F8 FF FF 7F 74  ...Cf..........t
-43B0: 6C 6B 30 01 6C 44 02 07  7F 41 80 80 D0 43 66 0B  lk0.lD...A...Cf.
-43C0: 83 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 01 6C 44  .........tlk0.lD
-43D0: 02 07 7F 1B 80 80 EA 43  66 0C 83 F8 FF FF 7F F8  .......Cf.......
-43E0: FF FF 7F 74 6C 6B 30 01  6C 44 02 07 7F 0D 83 80  ...tlk0.lD......
-43F0: 04 44 66 71 82 F8 FF FF  7F F8 FF FF 7F 74 6C 6B  .Dfq.........tlk
-4400: 30 01 6C 44 02 07 7F 16  81 80 1E 44 66 0E 83 F8  0.lD.......Df...
-4410: FF FF 7F F8 FF FF 7F 74  6C 6B 30 01 6C 44 02 07  .......tlk0.lD..
-4420: 7F F6 80 80 38 44 66 0E  83 F8 FF FF 7F F8 FF FF  ....8Df.........
-4430: 7F 74 6C 6B 30 01 6C 44  02 07 7F FD 80 80 52 44  .tlk0.lD......RD
-4440: 66 0F 83 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 01  f..........tlk0.
-4450: 6C 44 02 07 7F 10 83 80  6C 44 66 11 83 F8 FF FF  lD......lDf.....
-4460: 7F F8 FF FF 7F 74 6C 6B  30 01 6C 44 53 F8 FF FF  .....tlk0.lDS...
-4470: 7F F8 FF FF 7F 74 6C 6B  30 00                    .....tlk0.      
+43E0:    02 07 7F DE 80 80 FB  43 66 0E 83 F8 FF FF 7F   .......Cf......
+43F0: F8 FF FF 7F 74 6C 6B 30  01 B1 44 02 07 7F 41 80  ....tlk0..D...A.
+4400: 80 15 44 66 0F 83 F8 FF  FF 7F F8 FF FF 7F 74 6C  ..Df..........tl
+4410: 6B 30 01 B1 44 02 07 7F  1B 80 80 2F 44 66 10 83  k0..D....../Df..
+4420: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 30 01 B1 44 02  ........tlk0..D.
+4430: 07 7F 11 83 80 49 44 66  71 82 F8 FF FF 7F F8 FF  .....IDfq.......
+4440: FF 7F 74 6C 6B 30 01 B1  44 02 07 7F 16 81 80 63  ..tlk0..D......c
+4450: 44 66 12 83 F8 FF FF 7F  F8 FF FF 7F 74 6C 6B 30  Df..........tlk0
+4460: 01 B1 44 02 07 7F F6 80  80 7D 44 66 12 83 F8 FF  ..D......}Df....
+4470: FF 7F F8 FF FF 7F 74 6C  6B 30 01 B1 44 02 07 7F  ......tlk0..D...
+4480: FD 80 80 97 44 66 13 83  F8 FF FF 7F F8 FF FF 7F  ....Df..........
+4490: 74 6C 6B 30 01 B1 44 02  07 7F 14 83 80 B1 44 66  tlk0..D.......Df
+44A0: 15 83 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 01 B1  ..........tlk0..
+44B0: 44 53 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 00     DS........tlk0. 
 ```
 
 #### Opcodes
 
 ```
-  0: 0x439C [0x02] IF !(Entity->Race == 1*) GOTO 0x43B6
-  1: 0x43A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=149*
-  2: 0x43B3 [0x01] GOTO 0x446C
-  3: 0x43B6 [0x02] IF !(Entity->Race == 2*) GOTO 0x43D0
-  4: 0x43BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=159*
-  5: 0x43CD [0x01] GOTO 0x446C
-  6: 0x43D0 [0x02] IF !(Entity->Race == 3*) GOTO 0x43EA
-  7: 0x43D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=169*
-  8: 0x43E7 [0x01] GOTO 0x446C
-  9: 0x43EA [0x02] IF !(Entity->Race == 4*) GOTO 0x4404
- 10: 0x43F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=179*
- 11: 0x4401 [0x01] GOTO 0x446C
- 12: 0x4404 [0x02] IF !(Entity->Race == 5*) GOTO 0x441E
- 13: 0x440C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=189*
- 14: 0x441B [0x01] GOTO 0x446C
- 15: 0x441E [0x02] IF !(Entity->Race == 6*) GOTO 0x4438
- 16: 0x4426 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=189*
- 17: 0x4435 [0x01] GOTO 0x446C
- 18: 0x4438 [0x02] IF !(Entity->Race == 7*) GOTO 0x4452
- 19: 0x4440 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
- 20: 0x444F [0x01] GOTO 0x446C
- 21: 0x4452 [0x02] IF !(Entity->Race == 8*) GOTO 0x446C
- 22: 0x445A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
- 23: 0x4469 [0x01] GOTO 0x446C
+  0: 0x43E1 [0x02] IF !(Entity->Race == 1*) GOTO 0x43FB
+  1: 0x43E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=149*
+  2: 0x43F8 [0x01] GOTO 0x44B1
+  3: 0x43FB [0x02] IF !(Entity->Race == 2*) GOTO 0x4415
+  4: 0x4403 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=159*
+  5: 0x4412 [0x01] GOTO 0x44B1
+  6: 0x4415 [0x02] IF !(Entity->Race == 3*) GOTO 0x442F
+  7: 0x441D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=169*
+  8: 0x442C [0x01] GOTO 0x44B1
+  9: 0x442F [0x02] IF !(Entity->Race == 4*) GOTO 0x4449
+ 10: 0x4437 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=179*
+ 11: 0x4446 [0x01] GOTO 0x44B1
+ 12: 0x4449 [0x02] IF !(Entity->Race == 5*) GOTO 0x4463
+ 13: 0x4451 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=189*
+ 14: 0x4460 [0x01] GOTO 0x44B1
+ 15: 0x4463 [0x02] IF !(Entity->Race == 6*) GOTO 0x447D
+ 16: 0x446B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=189*
+ 17: 0x447A [0x01] GOTO 0x44B1
+ 18: 0x447D [0x02] IF !(Entity->Race == 7*) GOTO 0x4497
+ 19: 0x4485 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
+ 20: 0x4494 [0x01] GOTO 0x44B1
+ 21: 0x4497 [0x02] IF !(Entity->Race == 8*) GOTO 0x44B1
+ 22: 0x449F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=209*
+ 23: 0x44AE [0x01] GOTO 0x44B1
 
-SUBROUTINE_446C:
- 24: 0x446C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
- 25: 0x4479 [0x00] END_REQSTACK()
+SUBROUTINE_44B1:
+ 24: 0x44B1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
+ 25: 0x44BE [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.103
@@ -7603,61 +7626,61 @@ SUBROUTINE_446C:
 
 | Field        | Value     |
 |--------------|-----------|
-| Entrypoint   | 0x447A    |
+| Entrypoint   | 0x44BF    |
 | Data Size    | 222 bytes |
 | Instructions | 26        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-4470:                                02 07 7F DE 80 80            ......
-4480: 94 44 66 0A 83 F8 FF FF  7F F8 FF FF 7F 74 6C 6B  .Df..........tlk
-4490: 31 01 4A 45 02 07 7F 41  80 80 AE 44 66 0B 83 F8  1.JE...A...Df...
-44A0: FF FF 7F F8 FF FF 7F 74  6C 6B 31 01 4A 45 02 07  .......tlk1.JE..
-44B0: 7F 1B 80 80 C8 44 66 0C  83 F8 FF FF 7F F8 FF FF  .....Df.........
-44C0: 7F 74 6C 6B 31 01 4A 45  02 07 7F 0D 83 80 E2 44  .tlk1.JE.......D
-44D0: 66 71 82 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 31 01  fq.........tlk1.
-44E0: 4A 45 02 07 7F 16 81 80  FC 44 66 0E 83 F8 FF FF  JE.......Df.....
-44F0: 7F F8 FF FF 7F 74 6C 6B  31 01 4A 45 02 07 7F F6  .....tlk1.JE....
-4500: 80 80 16 45 66 0E 83 F8  FF FF 7F F8 FF FF 7F 74  ...Ef..........t
-4510: 6C 6B 31 01 4A 45 02 07  7F FD 80 80 30 45 66 0F  lk1.JE......0Ef.
-4520: 83 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 31 01 4A 45  .........tlk1.JE
-4530: 02 07 7F 10 83 80 4A 45  66 11 83 F8 FF FF 7F F8  ......JEf.......
-4540: FF FF 7F 74 6C 6B 31 01  4A 45 53 F8 FF FF 7F F8  ...tlk1.JES.....
-4550: FF FF 7F 74 6C 6B 31 00                           ...tlk1.        
+44B0:                                               02                 .
+44C0: 07 7F DE 80 80 D9 44 66  0E 83 F8 FF FF 7F F8 FF  ......Df........
+44D0: FF 7F 74 6C 6B 31 01 8F  45 02 07 7F 41 80 80 F3  ..tlk1..E...A...
+44E0: 44 66 0F 83 F8 FF FF 7F  F8 FF FF 7F 74 6C 6B 31  Df..........tlk1
+44F0: 01 8F 45 02 07 7F 1B 80  80 0D 45 66 10 83 F8 FF  ..E.......Ef....
+4500: FF 7F F8 FF FF 7F 74 6C  6B 31 01 8F 45 02 07 7F  ......tlk1..E...
+4510: 11 83 80 27 45 66 71 82  F8 FF FF 7F F8 FF FF 7F  ...'Efq.........
+4520: 74 6C 6B 31 01 8F 45 02  07 7F 16 81 80 41 45 66  tlk1..E......AEf
+4530: 12 83 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 31 01 8F  ..........tlk1..
+4540: 45 02 07 7F F6 80 80 5B  45 66 12 83 F8 FF FF 7F  E......[Ef......
+4550: F8 FF FF 7F 74 6C 6B 31  01 8F 45 02 07 7F FD 80  ....tlk1..E.....
+4560: 80 75 45 66 13 83 F8 FF  FF 7F F8 FF FF 7F 74 6C  .uEf..........tl
+4570: 6B 31 01 8F 45 02 07 7F  14 83 80 8F 45 66 15 83  k1..E.......Ef..
+4580: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 31 01 8F 45 53  ........tlk1..ES
+4590: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 31 00           ........tlk1.   
 ```
 
 #### Opcodes
 
 ```
-  0: 0x447A [0x02] IF !(Entity->Race == 1*) GOTO 0x4494
-  1: 0x4482 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=149*
-  2: 0x4491 [0x01] GOTO 0x454A
-  3: 0x4494 [0x02] IF !(Entity->Race == 2*) GOTO 0x44AE
-  4: 0x449C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=159*
-  5: 0x44AB [0x01] GOTO 0x454A
-  6: 0x44AE [0x02] IF !(Entity->Race == 3*) GOTO 0x44C8
-  7: 0x44B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=169*
-  8: 0x44C5 [0x01] GOTO 0x454A
-  9: 0x44C8 [0x02] IF !(Entity->Race == 4*) GOTO 0x44E2
- 10: 0x44D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=179*
- 11: 0x44DF [0x01] GOTO 0x454A
- 12: 0x44E2 [0x02] IF !(Entity->Race == 5*) GOTO 0x44FC
- 13: 0x44EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=189*
- 14: 0x44F9 [0x01] GOTO 0x454A
- 15: 0x44FC [0x02] IF !(Entity->Race == 6*) GOTO 0x4516
- 16: 0x4504 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=189*
- 17: 0x4513 [0x01] GOTO 0x454A
- 18: 0x4516 [0x02] IF !(Entity->Race == 7*) GOTO 0x4530
- 19: 0x451E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
- 20: 0x452D [0x01] GOTO 0x454A
- 21: 0x4530 [0x02] IF !(Entity->Race == 8*) GOTO 0x454A
- 22: 0x4538 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=209*
- 23: 0x4547 [0x01] GOTO 0x454A
+  0: 0x44BF [0x02] IF !(Entity->Race == 1*) GOTO 0x44D9
+  1: 0x44C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=149*
+  2: 0x44D6 [0x01] GOTO 0x458F
+  3: 0x44D9 [0x02] IF !(Entity->Race == 2*) GOTO 0x44F3
+  4: 0x44E1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=159*
+  5: 0x44F0 [0x01] GOTO 0x458F
+  6: 0x44F3 [0x02] IF !(Entity->Race == 3*) GOTO 0x450D
+  7: 0x44FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=169*
+  8: 0x450A [0x01] GOTO 0x458F
+  9: 0x450D [0x02] IF !(Entity->Race == 4*) GOTO 0x4527
+ 10: 0x4515 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=179*
+ 11: 0x4524 [0x01] GOTO 0x458F
+ 12: 0x4527 [0x02] IF !(Entity->Race == 5*) GOTO 0x4541
+ 13: 0x452F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=189*
+ 14: 0x453E [0x01] GOTO 0x458F
+ 15: 0x4541 [0x02] IF !(Entity->Race == 6*) GOTO 0x455B
+ 16: 0x4549 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=189*
+ 17: 0x4558 [0x01] GOTO 0x458F
+ 18: 0x455B [0x02] IF !(Entity->Race == 7*) GOTO 0x4575
+ 19: 0x4563 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
+ 20: 0x4572 [0x01] GOTO 0x458F
+ 21: 0x4575 [0x02] IF !(Entity->Race == 8*) GOTO 0x458F
+ 22: 0x457D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=209*
+ 23: 0x458C [0x01] GOTO 0x458F
 
-SUBROUTINE_454A:
- 24: 0x454A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
- 25: 0x4557 [0x00] END_REQSTACK()
+SUBROUTINE_458F:
+ 24: 0x458F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
+ 25: 0x459C [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.104
@@ -7666,23 +7689,23 @@ SUBROUTINE_454A:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x4558   |
+| Entrypoint   | 0x459D   |
 | Data Size    | 15 bytes |
 | Instructions | 5        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-4550:                          32 00 80 1F 00 12 83 13          2.......
-4560: 83 14 83 1F 01 6F 00                              .....o.         
+4590:                                         32 00 80               2..
+45A0: 1F 00 16 83 17 83 18 83  1F 01 6F 00              ..........o.    
 ```
 
 #### Opcodes
 
 ```
-  0: 0x4558 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
-  1: 0x455B [0x1F] MOVE_ENTITY: EventEntity moves to X=53.553*, Z=-33.369*, Y=-0.051*
-  2: 0x4563 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x4565 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x4566 [0x00] END_REQSTACK()
+  0: 0x459D [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x45A0 [0x1F] MOVE_ENTITY: EventEntity moves to X=53.553*, Z=-33.369*, Y=-0.051*
+  2: 0x45A8 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x45AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x45AB [0x00] END_REQSTACK()
 ```

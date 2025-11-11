@@ -78,13 +78,13 @@
 |      34 | 0x24C1      |        9409 |
 |      35 | 0x24C2      |        9410 |
 |      36 | 0x0001      |           1 |
-|      37 | 0x2E60      |       11872 |
+|      37 | 0x2E63      |       11875 |
 |      38 | 0x0002      |           2 |
-|      39 | 0x2E7F      |       11903 |
-|      40 | 0x2E80      |       11904 |
-|      41 | 0x2E81      |       11905 |
-|      42 | 0x2E93      |       11923 |
-|      43 | 0x2E94      |       11924 |
+|      39 | 0x2E82      |       11906 |
+|      40 | 0x2E83      |       11907 |
+|      41 | 0x2E84      |       11908 |
+|      42 | 0x2E96      |       11926 |
+|      43 | 0x2E97      |       11927 |
 
 ## String References
 
@@ -120,12 +120,12 @@
 - **9408**: You found some? Here, take this with my thanks.
 - **9409**: Hello, adventurer. If you find any $1, bring them here to me.
 - **9410**: Let us honor the Mithran warriors who fell in the Meriphataud Mountains.
-- **11872**: Ask if this person is the chick's owner? [Yes./No.]
-- **11903**: You've got my chocobo!?
-- **11904**: I couldn't find the little puffball no matter how harrrd I looked for him. I was sure he was filling the belly of some black-hearted monster about now!
-- **11905**: Thank you! You're rrraising a chocobo too, right? I know a good story you can use...
-- **11923**: You say you've got my chocobo?
-- **11924**: I'm a rrranger, so I know how terrifying monsters can be. I would never take my eyes off a poor defenseless chocobo while we're on a walk! You must have the wrrrong person.
+- **11875**: Ask if this person is the chick's owner? [Yes./No.]
+- **11906**: You've got my chocobo!?
+- **11907**: I couldn't find the little puffball no matter how harrrd I looked for him. I was sure he was filling the belly of some black-hearted monster about now!
+- **11908**: Thank you! You're rrraising a chocobo too, right? I know a good story you can use...
+- **11926**: You say you've got my chocobo?
+- **11927**: I'm a rrranger, so I know how terrifying monsters can be. I would never take my eyes off a poor defenseless chocobo while we're on a walk! You must have the wrrrong person.
 
 ## Events
 
@@ -938,7 +938,7 @@
      0x0337 [0x03] Work_Zone[1] = 0*
      0x033C [0x01] GOTO 0x03B1
      0x033F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0340 [0x24] CREATE_DIALOG(message_id=11872*, default_option=1*, option_flags=0*)
+     0x0340 [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0347 [0x25] WAIT_DIALOG_SELECT()
      0x0348 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A1
@@ -948,22 +948,22 @@
      0x035D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x035F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0361 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0387
-     0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=11903*)
+     0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=11906*)
     → "You've got my chocobo!?"
      0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x036D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=359*
-     0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=11904*)
+     0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=11907*)
     → "I couldn't find the little puffball no matter how harrrd I looked for him. I was sure he was filling the belly of some black-hearted monster about now!"
      0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=11905*)
+     0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=11908*)
     → "Thank you! You're rrraising a chocobo too, right? I know a good story you can use..."
      0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0384 [0x01] GOTO 0x039E
-     0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=11923*)
+     0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=11926*)
     → "You say you've got my chocobo?"
      0x038A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x038B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=359*
-     0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=11924*)
+     0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=11927*)
     → "I'm a rrranger, so I know how terrifying monsters can be. I would never take my eyes off a poor defenseless chocobo while we're on a walk! You must have the wrrrong person."
      0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x039E [0x01] GOTO 0x03B1

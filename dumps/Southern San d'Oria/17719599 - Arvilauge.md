@@ -23,8 +23,8 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0800      |        2048 |
-|       3 | 0x29FD      |       10749 |
-|       4 | 0x29FE      |       10750 |
+|       3 | 0x2A00      |       10752 |
+|       4 | 0x2A01      |       10753 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x0004      |           4 |
@@ -35,309 +35,309 @@
 |      12 | 0x0009      |           9 |
 |      13 | 0x000A      |          10 |
 |      14 | 0x000B      |          11 |
-|      15 | 0x29FF      |       10751 |
-|      16 | 0x2A00      |       10752 |
-|      17 | 0x2A01      |       10753 |
-|      18 | 0x2A02      |       10754 |
-|      19 | 0x2A03      |       10755 |
-|      20 | 0x2A04      |       10756 |
-|      21 | 0x2A05      |       10757 |
-|      22 | 0x2A06      |       10758 |
-|      23 | 0x2A07      |       10759 |
-|      24 | 0x2A08      |       10760 |
-|      25 | 0x2A09      |       10761 |
-|      26 | 0x2A0A      |       10762 |
-|      27 | 0x2A0B      |       10763 |
-|      28 | 0x2A0C      |       10764 |
-|      29 | 0x2A0D      |       10765 |
-|      30 | 0x2A0E      |       10766 |
-|      31 | 0x2A0F      |       10767 |
-|      32 | 0x2A10      |       10768 |
-|      33 | 0x2A11      |       10769 |
-|      34 | 0x2A12      |       10770 |
-|      35 | 0x2A13      |       10771 |
+|      15 | 0x2A02      |       10754 |
+|      16 | 0x2A03      |       10755 |
+|      17 | 0x2A04      |       10756 |
+|      18 | 0x2A05      |       10757 |
+|      19 | 0x2A06      |       10758 |
+|      20 | 0x2A07      |       10759 |
+|      21 | 0x2A08      |       10760 |
+|      22 | 0x2A09      |       10761 |
+|      23 | 0x2A0A      |       10762 |
+|      24 | 0x2A0B      |       10763 |
+|      25 | 0x2A0C      |       10764 |
+|      26 | 0x2A0D      |       10765 |
+|      27 | 0x2A0E      |       10766 |
+|      28 | 0x2A0F      |       10767 |
+|      29 | 0x2A10      |       10768 |
+|      30 | 0x2A11      |       10769 |
+|      31 | 0x2A12      |       10770 |
+|      32 | 0x2A13      |       10771 |
+|      33 | 0x2A14      |       10772 |
+|      34 | 0x2A15      |       10773 |
+|      35 | 0x2A16      |       10774 |
 |      36 | 0x089B      |        2203 |
-|      37 | 0x2A14      |       10772 |
-|      38 | 0x2A15      |       10773 |
-|      39 | 0x2A16      |       10774 |
-|      40 | 0x2A17      |       10775 |
-|      41 | 0x2A18      |       10776 |
-|      42 | 0x2A19      |       10777 |
-|      43 | 0x2A1A      |       10778 |
-|      44 | 0x2A1B      |       10779 |
-|      45 | 0x2A1C      |       10780 |
-|      46 | 0x2A1D      |       10781 |
-|      47 | 0x2A1E      |       10782 |
-|      48 | 0x2A1F      |       10783 |
-|      49 | 0x2A20      |       10784 |
-|      50 | 0x2A21      |       10785 |
-|      51 | 0x2A22      |       10786 |
-|      52 | 0x2A23      |       10787 |
-|      53 | 0x2A24      |       10788 |
-|      54 | 0x2A25      |       10789 |
-|      55 | 0x2A26      |       10790 |
-|      56 | 0x2A27      |       10791 |
-|      57 | 0x2A28      |       10792 |
-|      58 | 0x2A29      |       10793 |
-|      59 | 0x2A2A      |       10794 |
-|      60 | 0x2A2B      |       10795 |
-|      61 | 0x2A2C      |       10796 |
-|      62 | 0x2A2D      |       10797 |
-|      63 | 0x2A2E      |       10798 |
-|      64 | 0x2A2F      |       10799 |
-|      65 | 0x2A30      |       10800 |
-|      66 | 0x2A31      |       10801 |
-|      67 | 0x2A32      |       10802 |
+|      37 | 0x2A17      |       10775 |
+|      38 | 0x2A18      |       10776 |
+|      39 | 0x2A19      |       10777 |
+|      40 | 0x2A1A      |       10778 |
+|      41 | 0x2A1B      |       10779 |
+|      42 | 0x2A1C      |       10780 |
+|      43 | 0x2A1D      |       10781 |
+|      44 | 0x2A1E      |       10782 |
+|      45 | 0x2A1F      |       10783 |
+|      46 | 0x2A20      |       10784 |
+|      47 | 0x2A21      |       10785 |
+|      48 | 0x2A22      |       10786 |
+|      49 | 0x2A23      |       10787 |
+|      50 | 0x2A24      |       10788 |
+|      51 | 0x2A25      |       10789 |
+|      52 | 0x2A26      |       10790 |
+|      53 | 0x2A27      |       10791 |
+|      54 | 0x2A28      |       10792 |
+|      55 | 0x2A29      |       10793 |
+|      56 | 0x2A2A      |       10794 |
+|      57 | 0x2A2B      |       10795 |
+|      58 | 0x2A2C      |       10796 |
+|      59 | 0x2A2D      |       10797 |
+|      60 | 0x2A2E      |       10798 |
+|      61 | 0x2A2F      |       10799 |
+|      62 | 0x2A30      |       10800 |
+|      63 | 0x2A31      |       10801 |
+|      64 | 0x2A32      |       10802 |
+|      65 | 0x2A33      |       10803 |
+|      66 | 0x2A34      |       10804 |
+|      67 | 0x2A35      |       10805 |
 |      68 | 0x000C      |          12 |
-|      69 | 0x2A33      |       10803 |
-|      70 | 0x2A34      |       10804 |
-|      71 | 0x2A35      |       10805 |
+|      69 | 0x2A36      |       10806 |
+|      70 | 0x2A37      |       10807 |
+|      71 | 0x2A38      |       10808 |
 |      72 | 0x000D      |          13 |
-|      73 | 0x2A36      |       10806 |
-|      74 | 0x2A37      |       10807 |
-|      75 | 0x2A38      |       10808 |
-|      76 | 0x2A39      |       10809 |
-|      77 | 0x2A3A      |       10810 |
-|      78 | 0x2A3B      |       10811 |
-|      79 | 0x2A3C      |       10812 |
-|      80 | 0x2A3D      |       10813 |
-|      81 | 0x2A3E      |       10814 |
-|      82 | 0x2A3F      |       10815 |
-|      83 | 0x2A40      |       10816 |
-|      84 | 0x2A41      |       10817 |
-|      85 | 0x2A42      |       10818 |
-|      86 | 0x2A43      |       10819 |
-|      87 | 0x2A44      |       10820 |
-|      88 | 0x2A45      |       10821 |
-|      89 | 0x2A46      |       10822 |
-|      90 | 0x2A47      |       10823 |
-|      91 | 0x2A48      |       10824 |
-|      92 | 0x2A49      |       10825 |
-|      93 | 0x2A4A      |       10826 |
-|      94 | 0x2A4B      |       10827 |
-|      95 | 0x2A4C      |       10828 |
-|      96 | 0x2A4D      |       10829 |
-|      97 | 0x2A4E      |       10830 |
+|      73 | 0x2A39      |       10809 |
+|      74 | 0x2A3A      |       10810 |
+|      75 | 0x2A3B      |       10811 |
+|      76 | 0x2A3C      |       10812 |
+|      77 | 0x2A3D      |       10813 |
+|      78 | 0x2A3E      |       10814 |
+|      79 | 0x2A3F      |       10815 |
+|      80 | 0x2A40      |       10816 |
+|      81 | 0x2A41      |       10817 |
+|      82 | 0x2A42      |       10818 |
+|      83 | 0x2A43      |       10819 |
+|      84 | 0x2A44      |       10820 |
+|      85 | 0x2A45      |       10821 |
+|      86 | 0x2A46      |       10822 |
+|      87 | 0x2A47      |       10823 |
+|      88 | 0x2A48      |       10824 |
+|      89 | 0x2A49      |       10825 |
+|      90 | 0x2A4A      |       10826 |
+|      91 | 0x2A4B      |       10827 |
+|      92 | 0x2A4C      |       10828 |
+|      93 | 0x2A4D      |       10829 |
+|      94 | 0x2A4E      |       10830 |
+|      95 | 0x2A4F      |       10831 |
+|      96 | 0x2A50      |       10832 |
+|      97 | 0x2A51      |       10833 |
 |      98 | 0x11C1      |        4545 |
-|      99 | 0x2A4F      |       10831 |
+|      99 | 0x2A52      |       10834 |
 |     100 | 0x15E5      |        5605 |
 |     101 | 0x15E6      |        5606 |
-|     102 | 0x2A50      |       10832 |
-|     103 | 0x2A51      |       10833 |
-|     104 | 0x2A52      |       10834 |
+|     102 | 0x2A53      |       10835 |
+|     103 | 0x2A54      |       10836 |
+|     104 | 0x2A55      |       10837 |
 |     105 | 0x0216      |         534 |
-|     106 | 0x2A53      |       10835 |
+|     106 | 0x2A56      |       10838 |
 |     107 | 0x0899      |        2201 |
 |     108 | 0x089A      |        2202 |
-|     109 | 0x2A54      |       10836 |
-|     110 | 0x2A55      |       10837 |
+|     109 | 0x2A57      |       10839 |
+|     110 | 0x2A58      |       10840 |
 |     111 | 0x15E7      |        5607 |
 |     112 | 0x15E8      |        5608 |
 |     113 | 0x1125      |        4389 |
-|     114 | 0x2A56      |       10838 |
-|     115 | 0x2A57      |       10839 |
-|     116 | 0x2A58      |       10840 |
+|     114 | 0x2A59      |       10841 |
+|     115 | 0x2A5A      |       10842 |
+|     116 | 0x2A5B      |       10843 |
 |     117 | 0x089D      |        2205 |
-|     118 | 0x2A59      |       10841 |
-|     119 | 0x2A5A      |       10842 |
+|     118 | 0x2A5C      |       10844 |
+|     119 | 0x2A5D      |       10845 |
 |     120 | 0x089C      |        2204 |
-|     121 | 0x2A5B      |       10843 |
-|     122 | 0x2A5C      |       10844 |
+|     121 | 0x2A5E      |       10846 |
+|     122 | 0x2A5F      |       10847 |
 |     123 | 0x089E      |        2206 |
-|     124 | 0x2A5D      |       10845 |
+|     124 | 0x2A60      |       10848 |
 |     125 | 0x089F      |        2207 |
-|     126 | 0x2A5E      |       10846 |
-|     127 | 0x2A5F      |       10847 |
-|     128 | 0x2A60      |       10848 |
-|     129 | 0x2A61      |       10849 |
-|     130 | 0x2A62      |       10850 |
-|     131 | 0x2A63      |       10851 |
-|     132 | 0x2A64      |       10852 |
-|     133 | 0x2A65      |       10853 |
-|     134 | 0x2A66      |       10854 |
-|     135 | 0x2A67      |       10855 |
-|     136 | 0x2A68      |       10856 |
-|     137 | 0x2A69      |       10857 |
-|     138 | 0x2A6A      |       10858 |
-|     139 | 0x2A6B      |       10859 |
-|     140 | 0x2A6C      |       10860 |
+|     126 | 0x2A61      |       10849 |
+|     127 | 0x2A62      |       10850 |
+|     128 | 0x2A63      |       10851 |
+|     129 | 0x2A64      |       10852 |
+|     130 | 0x2A65      |       10853 |
+|     131 | 0x2A66      |       10854 |
+|     132 | 0x2A67      |       10855 |
+|     133 | 0x2A68      |       10856 |
+|     134 | 0x2A69      |       10857 |
+|     135 | 0x2A6A      |       10858 |
+|     136 | 0x2A6B      |       10859 |
+|     137 | 0x2A6C      |       10860 |
+|     138 | 0x2A6D      |       10861 |
+|     139 | 0x2A6E      |       10862 |
+|     140 | 0x2A6F      |       10863 |
 |     141 | 0x0909      |        2313 |
-|     142 | 0x2A6D      |       10861 |
-|     143 | 0x2A6E      |       10862 |
-|     144 | 0x2A6F      |       10863 |
-|     145 | 0x2A70      |       10864 |
-|     146 | 0x2A71      |       10865 |
+|     142 | 0x2A70      |       10864 |
+|     143 | 0x2A71      |       10865 |
+|     144 | 0x2A72      |       10866 |
+|     145 | 0x2A73      |       10867 |
+|     146 | 0x2A74      |       10868 |
 |     147 | 0x0923      |        2339 |
 |     148 | 0x0926      |        2342 |
-|     149 | 0x2A72      |       10866 |
-|     150 | 0x2A73      |       10867 |
-|     151 | 0x2A74      |       10868 |
+|     149 | 0x2A75      |       10869 |
+|     150 | 0x2A76      |       10870 |
+|     151 | 0x2A77      |       10871 |
 |     152 | 0x3CAD      |       15533 |
-|     153 | 0x2A75      |       10869 |
-|     154 | 0x2A76      |       10870 |
-|     155 | 0x2A77      |       10871 |
-|     156 | 0x2A78      |       10872 |
-|     157 | 0x2A79      |       10873 |
-|     158 | 0x2A7A      |       10874 |
-|     159 | 0x2A7B      |       10875 |
-|     160 | 0x2A7C      |       10876 |
-|     161 | 0x2A7D      |       10877 |
-|     162 | 0x2A7E      |       10878 |
-|     163 | 0x2A82      |       10882 |
-|     164 | 0x2A83      |       10883 |
-|     165 | 0x2A84      |       10884 |
-|     166 | 0x2A85      |       10885 |
-|     167 | 0x2A7F      |       10879 |
-|     168 | 0x2A80      |       10880 |
-|     169 | 0x2A81      |       10881 |
-|     170 | 0x2EC6      |       11974 |
-|     171 | 0x2EC7      |       11975 |
-|     172 | 0x2EC8      |       11976 |
-|     173 | 0x2EC9      |       11977 |
+|     153 | 0x2A78      |       10872 |
+|     154 | 0x2A79      |       10873 |
+|     155 | 0x2A7A      |       10874 |
+|     156 | 0x2A7B      |       10875 |
+|     157 | 0x2A7C      |       10876 |
+|     158 | 0x2A7D      |       10877 |
+|     159 | 0x2A7E      |       10878 |
+|     160 | 0x2A7F      |       10879 |
+|     161 | 0x2A80      |       10880 |
+|     162 | 0x2A81      |       10881 |
+|     163 | 0x2A85      |       10885 |
+|     164 | 0x2A86      |       10886 |
+|     165 | 0x2A87      |       10887 |
+|     166 | 0x2A88      |       10888 |
+|     167 | 0x2A82      |       10882 |
+|     168 | 0x2A83      |       10883 |
+|     169 | 0x2A84      |       10884 |
+|     170 | 0x2EC9      |       11977 |
+|     171 | 0x2ECA      |       11978 |
+|     172 | 0x2ECB      |       11979 |
+|     173 | 0x2ECC      |       11980 |
 
 ## String References
 
-- **10749**: Let me know if you have any questions about chocobo raising.
-- **10750**: What would you like to ask about? [The Vana'diel Chocobo Society./Time required./Chocobo attributes./Care schedule./Caring for your chocobo./Feed./Abilities and personality./Retirement./Matchmaking./Calling chocobos in the field./Items./Lost chicks./Nothing.]
-- **10751**: Just let me know if you ever get curious!
-- **10752**: The Vana'diel Chocobo Society, or VCS for short, is an international organization designed to train and dispatch chocogirls and chocoguys to stables across Vana'diel.
-- **10753**: They provide courses on practical chocobo riding and the proper ways to care for a chocobo, as well as working to improve the treatment of chocobos from here to Aht Urhgan.
-- **10754**: Anyone can join as long as they love chocobos. The VCS will help you with anything you need.
-- **10755**: Chicks hatch from eggs, grow into young chocobos, and finally mature.
-- **10756**: They grow much faster than people do. Usually it takes about 1 month (Earth time) before you can ride your chocobo.
-- **10757**: The chocobo's traits are determined by the way in which you care for your animal. Without proper planning, you won't be able to raise the type of chocobo that you want.
-- **10758**: But don't worry, because you have us to help! We're all in this together!
-- **10759**: Ask about which attribute? [Strength./Endurance./Discernment./Receptivity./Energy./Affection./Satisfaction./Nothing.]
-- **10760**: "Strength" is a term used to describe the chocobo's leg power. The more strength a chocobo has, the faster it will be able to run. Rental chocobos have been raised with an emphasis on this attribute.
-- **10761**: Both strength and endurance are collectively referred to as "Physical attributes."
-- **10762**: "Endurance" is a term used to describe the chocobo's stamina. If your chocobo has high endurance, you will be able to ride it for a long period of time.
-- **10763**: Both strength and endurance are collectively referred to as "Physical attributes."
-- **10764**: "Discernment" is a must for anyone who wants their chocobo to learn new abilities. You may want to consider raising this attribute if you are interested in digging for treasure.
-- **10765**: Both discernment and receptivity are collectively referred to as "Mental attributes."
-- **10766**: "Receptivity" is a term used to describe the chocobo's sensitivity when dealing with others. You can foster receptivity in your chocobo by giving it lots of opportunities to communicate with other chocobos.
-- **10767**: Both discernment and receptivity are collectively referred to as "Mental attributes."
-- **10768**: "Energy" is a term used to describe the amount of power the chocobo needs to stay active for the day. If your chocobo has a lot of energy, care plans are more likely to be successful and you can provide more direct care for your chocobo.
-- **10769**: You can restore your chocobo's energy by feeding it, so remember not to skip out on feeding time after a demanding schedule!
-- **10770**: "Affection" is the most important attribute of all. Your care schedule will fall flat if you don't show your chocobo proper affection!
-- **10771**: You can raise your chocobo's affection by feeding it greens and caring for it on a regular basis.
-- **10772**: If you really want to raise your chocobo's affection quickly, you can give it $0, but I can't recommend doing so unless absolutely necessary.
-- **10773**: "Satisfaction" is a term used to describe how full or hungry your chocobo is. If your chocobo is full, it will gain a lot of energy before the next day.
-- **10774**: However, when the chocobo is very hungry, its energy will hardly recover at all and its affection will rapidly decrease.
-- **10775**: What would you like to ask about? [What is a care schedule?/Basic care./Resting./Taking a walk./Listening to music./Exercising alone./Exercising in a group./Interacting with children./Interacting with chocobos./Carrying packages./Exhibiting to the public./Delivering messages./Digging for treasure./Acting in a play./Nothing.]
-- **10776**: A care schedule is a series of plans that you set up for your chocobo so that we can take care of it while you are away.
-- **10777**: How you want us to care for your chocobo each day is completely up to you.
-- **10778**: You can register up to four plans at once, each for up to 7 days (Earth time).
-- **10779**: When you come to check on your chocobo, we will give you a report on the results. You should listen closely to the report and use it as reference when deciding on a new schedule.
-- **10780**: With the basic care plan, we will provide the minimum level of care for your chocobo. This plan is the most stable, and your chocobo will probably not experience any sudden changes.
-- **10781**: The basic care plan is good for those who don't want their chocobo's traits to change much or are still unsure of what kind of schedule to choose.
-- **10782**: You can select the basic care plan the moment you start raising your chocobo.
-- **10783**: The rest plan's name speaks for itself. We will give your chocobo a rest in order to restore its energy and cure any status abnormalities.
-- **10784**: However, your chocobo will not be able to eat any food you give it during the plan, because it will be in a deep sleep.
-- **10785**: We can take your chocobo for a walk in town to improve its physical attributes of strength and endurance. However, it will have a negative effect on its mental attributes of discernment and receptivity.
-- **10786**: Listening to music will improve your chocobo's mental attributes of discernment and receptivity. However, it will have a negative effect on its physical attributes of strength and endurance.
-- **10787**: Exercising alone will significantly improve your chocobo's strength. On the other hand, its mental attributes will markedly decrease.
-- **10788**: If the chocobo is strong, this plan is quite effective, but if the chocobo is weak, then you shouldn't push it too hard.
-- **10789**: Exercising with chocobos will build your animal's endurance. On the other hand, its mental attributes will decrease.
-- **10790**: If the chocobo has high endurance, this plan is quite effective, but if the chocobo's endurance is low, then you shouldn't push it too hard.
-- **10791**: Interacting with children helps your chocobo become a more discerning creature by interacting with people.
-- **10792**: However, this plan will have a negative effect on the chocobo's physical attributes, as no strenuous exercise is involved.
-- **10793**: If the chocobo has good discernment, this plan is quite effective, but if the chocobo does not have good discernment, then you shouldn't push it too hard.
-- **10794**: Interacting with other chocobos in the field will improve the chocobo's receptivity by fostering its communication skills.
-- **10795**: But because the focus is on communication and not exercise, this plan will have a negative effect on the chocobo's physical attributes.
-- **10796**: If the chocobo has good receptivity, this plan is quite effective, but if the chocobo does not have good receptivity, then you shouldn't push it too hard.
-- **10797**: You can choose to have your chocobo help deliver packages. Not only will this improve its physical attributes, but you will even receive payment for your services!
-- **10798**: The downside is that your chocobo's mental attributes, energy, and affection will decrease. You must care well for your chocobo, or you might find yourself getting cold treatment.
-- **10799**: You can choose to exhibit your chocobo to the public, which will allow anyone visiting the chocobo stables to take a look at your animal. Being the center of attention will help improve your chocobo's mental attributes.
-- **10800**: The downside is that your chocobo's physical attributes, energy, and affection will decrease. You must care well for your chocobo afterwards. Also, you will receive payment for this service.
-- **10801**: You can choose to have your chocobo deliver official messages for the nation. Not only will this improve its strength, but you will even receive payment for your services!
-- **10802**: However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.
-- **10803**: You can have your chocobo help out VCS finances by digging for treasure. This will also improve the chocobo's discernment.
-- **10804**: The VCS will sell the item and use the money for the organization's benefit, but will provide you with payment for your services.
+- **10752**: Let me know if you have any questions about chocobo raising.
+- **10753**: What would you like to ask about? [The Vana'diel Chocobo Society./Time required./Chocobo attributes./Care schedule./Caring for your chocobo./Feed./Abilities and personality./Retirement./Matchmaking./Calling chocobos in the field./Items./Lost chicks./Nothing.]
+- **10754**: Just let me know if you ever get curious!
+- **10755**: The Vana'diel Chocobo Society, or VCS for short, is an international organization designed to train and dispatch chocogirls and chocoguys to stables across Vana'diel.
+- **10756**: They provide courses on practical chocobo riding and the proper ways to care for a chocobo, as well as working to improve the treatment of chocobos from here to Aht Urhgan.
+- **10757**: Anyone can join as long as they love chocobos. The VCS will help you with anything you need.
+- **10758**: Chicks hatch from eggs, grow into young chocobos, and finally mature.
+- **10759**: They grow much faster than people do. Usually it takes about 1 month (Earth time) before you can ride your chocobo.
+- **10760**: The chocobo's traits are determined by the way in which you care for your animal. Without proper planning, you won't be able to raise the type of chocobo that you want.
+- **10761**: But don't worry, because you have us to help! We're all in this together!
+- **10762**: Ask about which attribute? [Strength./Endurance./Discernment./Receptivity./Energy./Affection./Satisfaction./Nothing.]
+- **10763**: "Strength" is a term used to describe the chocobo's leg power. The more strength a chocobo has, the faster it will be able to run. Rental chocobos have been raised with an emphasis on this attribute.
+- **10764**: Both strength and endurance are collectively referred to as "Physical attributes."
+- **10765**: "Endurance" is a term used to describe the chocobo's stamina. If your chocobo has high endurance, you will be able to ride it for a long period of time.
+- **10766**: Both strength and endurance are collectively referred to as "Physical attributes."
+- **10767**: "Discernment" is a must for anyone who wants their chocobo to learn new abilities. You may want to consider raising this attribute if you are interested in digging for treasure.
+- **10768**: Both discernment and receptivity are collectively referred to as "Mental attributes."
+- **10769**: "Receptivity" is a term used to describe the chocobo's sensitivity when dealing with others. You can foster receptivity in your chocobo by giving it lots of opportunities to communicate with other chocobos.
+- **10770**: Both discernment and receptivity are collectively referred to as "Mental attributes."
+- **10771**: "Energy" is a term used to describe the amount of power the chocobo needs to stay active for the day. If your chocobo has a lot of energy, care plans are more likely to be successful and you can provide more direct care for your chocobo.
+- **10772**: You can restore your chocobo's energy by feeding it, so remember not to skip out on feeding time after a demanding schedule!
+- **10773**: "Affection" is the most important attribute of all. Your care schedule will fall flat if you don't show your chocobo proper affection!
+- **10774**: You can raise your chocobo's affection by feeding it greens and caring for it on a regular basis.
+- **10775**: If you really want to raise your chocobo's affection quickly, you can give it $0, but I can't recommend doing so unless absolutely necessary.
+- **10776**: "Satisfaction" is a term used to describe how full or hungry your chocobo is. If your chocobo is full, it will gain a lot of energy before the next day.
+- **10777**: However, when the chocobo is very hungry, its energy will hardly recover at all and its affection will rapidly decrease.
+- **10778**: What would you like to ask about? [What is a care schedule?/Basic care./Resting./Taking a walk./Listening to music./Exercising alone./Exercising in a group./Interacting with children./Interacting with chocobos./Carrying packages./Exhibiting to the public./Delivering messages./Digging for treasure./Acting in a play./Nothing.]
+- **10779**: A care schedule is a series of plans that you set up for your chocobo so that we can take care of it while you are away.
+- **10780**: How you want us to care for your chocobo each day is completely up to you.
+- **10781**: You can register up to four plans at once, each for up to 7 days (Earth time).
+- **10782**: When you come to check on your chocobo, we will give you a report on the results. You should listen closely to the report and use it as reference when deciding on a new schedule.
+- **10783**: With the basic care plan, we will provide the minimum level of care for your chocobo. This plan is the most stable, and your chocobo will probably not experience any sudden changes.
+- **10784**: The basic care plan is good for those who don't want their chocobo's traits to change much or are still unsure of what kind of schedule to choose.
+- **10785**: You can select the basic care plan the moment you start raising your chocobo.
+- **10786**: The rest plan's name speaks for itself. We will give your chocobo a rest in order to restore its energy and cure any status abnormalities.
+- **10787**: However, your chocobo will not be able to eat any food you give it during the plan, because it will be in a deep sleep.
+- **10788**: We can take your chocobo for a walk in town to improve its physical attributes of strength and endurance. However, it will have a negative effect on its mental attributes of discernment and receptivity.
+- **10789**: Listening to music will improve your chocobo's mental attributes of discernment and receptivity. However, it will have a negative effect on its physical attributes of strength and endurance.
+- **10790**: Exercising alone will significantly improve your chocobo's strength. On the other hand, its mental attributes will markedly decrease.
+- **10791**: If the chocobo is strong, this plan is quite effective, but if the chocobo is weak, then you shouldn't push it too hard.
+- **10792**: Exercising with chocobos will build your animal's endurance. On the other hand, its mental attributes will decrease.
+- **10793**: If the chocobo has high endurance, this plan is quite effective, but if the chocobo's endurance is low, then you shouldn't push it too hard.
+- **10794**: Interacting with children helps your chocobo become a more discerning creature by interacting with people.
+- **10795**: However, this plan will have a negative effect on the chocobo's physical attributes, as no strenuous exercise is involved.
+- **10796**: If the chocobo has good discernment, this plan is quite effective, but if the chocobo does not have good discernment, then you shouldn't push it too hard.
+- **10797**: Interacting with other chocobos in the field will improve the chocobo's receptivity by fostering its communication skills.
+- **10798**: But because the focus is on communication and not exercise, this plan will have a negative effect on the chocobo's physical attributes.
+- **10799**: If the chocobo has good receptivity, this plan is quite effective, but if the chocobo does not have good receptivity, then you shouldn't push it too hard.
+- **10800**: You can choose to have your chocobo help deliver packages. Not only will this improve its physical attributes, but you will even receive payment for your services!
+- **10801**: The downside is that your chocobo's mental attributes, energy, and affection will decrease. You must care well for your chocobo, or you might find yourself getting cold treatment.
+- **10802**: You can choose to exhibit your chocobo to the public, which will allow anyone visiting the chocobo stables to take a look at your animal. Being the center of attention will help improve your chocobo's mental attributes.
+- **10803**: The downside is that your chocobo's physical attributes, energy, and affection will decrease. You must care well for your chocobo afterwards. Also, you will receive payment for this service.
+- **10804**: You can choose to have your chocobo deliver official messages for the nation. Not only will this improve its strength, but you will even receive payment for your services!
 - **10805**: However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.
-- **10806**: You can choose to have your chocobo act as an extra in a play to improve its receptivity.
-- **10807**: You will receive payment in accordance with the chocobo's performance. However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.
-- **10808**: What would you like to ask about? [A general explanation./Watching over your chocobo./Telling a story./Scolding./Competing./Taking a walk./Nothing.]
-- **10809**: In addition to setting the chocobo's schedule, you can also care directly for your chocobo whenever you like.
-- **10810**: Caring for your chocobo will increase its affection for you.
-- **10811**: On the other hand, a chocobo that receives too much care will lose energy more rapidly when engaging in activities. If you do nothing but care for your chocobo, it will become fatigued.
-- **10812**: However, not caring enough for your chocobo will have a negative effect on your relationship, so it is important to find a balance.
-- **10813**: You can watch over your chocobo whenever you like.
-- **10814**: Your fond gaze can communicate even more than a touch and will not have a very tiring effect on the animal.
-- **10815**: You can tell the chocobo a story you know. This will foster the animal's sensibilities.
-- **10816**: I've heard that by listening to the story, the chocobo might even realize it has powers it never noticed before. (I've never seen it happen before, though...)
-- **10817**: Sometimes your chocobo might start acting spoiled or refuse to do anything but sleep. In such times, you will need to firmly scold it.
-- **10818**: This will shame the animal and have an effect on its receptivity.
-- **10819**: Competing against other chocobos will cultivate your animal's ambitious spirit and is highly effective for bored chocobos.
-- **10820**: You can take your chocobo out for a walk in the field. You will be able to choose more destinations as your chocobo grows.
-- **10821**: I like to take the chocobo out often, too, but I'm sure it prefers going out with you.
-- **10822**: Leaving the stables every once in a while allows your chocobo to experience new sights and sounds. Maybe you'll even discover something new together!
-- **10823**: What would you like to know about? [Why feeding is important./Vegetables./Wildgrasses./Carrots./Worms./Medicines./Pastes./Nothing.]
-- **10824**: Chocobos digest feed quickly, so they are often hungry.
-- **10825**: However, they also restore energy at a rapid pace. If you do not feed your chocobo properly, it will be unable to restore enough energy.
-- **10826**: The chocobo stables will provide your chocobo with the minimum amount of feed required for the animal to survive, but you need to provide more in order to ensure its healthy growth.
-- **10827**: At the same time, feeding your chocobo too much can result in a stomachache. Remember to strike a balance with both the variety and quantity of feed you give to your animal!
-- **10828**: Some types of feed have special effects, so it is important not to neglect your chocobo's diet if you want to raise a good chocobo.
-- **10829**: There are different methods of acquiring these special types of feed, so be on the lookout for them!
-- **10830**: Just trade the feed to an advanced chocobo trainer, and they will give it to your chocobo.
-- **10831**: This is the standard variety of chocobo feed, among which $0 are most popular.
-- **10832**: Chocobos also seem to enjoy $0 and $1.
-- **10833**: These greens are the most effective in satisfying a chocobo's hunger. Chocobos also enjoy the taste, which raises affection for their owner.
-- **10834**: Wildgrasses are a type of medicinal herb. They do not taste very good, but are highly effective at curing status abnormalities.
-- **10835**: $0, for example, works well on wounds. So although they look similar to $1, the effects are different.
-- **10836**: In addition, $0 is effective for illness, and $1 for a stomachache. It's a good idea to remember which herb to use in each situation.
-- **10837**: Carrots are high in nutrition, and will have an effect on the chocobo's strength and discernment.
-- **10838**: %, for example, affect the chocobo's physical attributes, and $1 are good for its mental attributes. $2 are in a category of their own.
-- **10839**: Remember, though, that the results are very slight, and keeping a good care schedule is a far more efficient way to alter your chocobo's attributes.
-- **10840**: Using worms as feed can have a variety of effects. They might look disgusting, but their effectiveness is not to be ignored!
-- **10841**: For example, $0 will dramatically increase your chocobo's affection, and $1 will restore its energy.
-- **10842**: But watch out for the side effects... Give the chocobo a worm at the wrong time, and all your effort could come to nothing...
-- **10843**: The most curious of all the worms is the $0. At first it may not seem to have any effect, but looks are deceiving...
-- **10844**: Medicines can cure a chocobo in the blink of an eye.
-- **10845**: $0 will restore your chocobo's energy in full, making it easier to care for and ensuring that the care schedule goes smoothly.
-- **10846**: % are effective for most status abnormalities, restoring instant health to your chocobo. Of course, you still need to continue caring for your chocobo so it can fully recover.
-- **10847**: A potion can also help fill a chocobo's stomach, so they can be useful when you are short on feed.
-- **10848**: Feed can be ground into paste for chicks to eat.
-- **10849**: You can make paste yourself with some cooking skill. If you don't have enough cooking skill yourself, then you might want to ask a friend to make some for you.
-- **10850**: Chicks can also eat regular feed, though.
-- **10851**: Which would you like to ask about? [Abilities./Temperament./Weather preferences./Nothing.]
-- **10852**: Your chocobo may learn useful abilities during the course of its life at the stables.
-- **10853**: For example, Auto-Regen will increase the rate at which your chocobo restores energy. Such an ability is sure to come in handy in a variety of situations.
-- **10854**: Your chocobo learns abilities by listening to your words, so if you know of any story that you think might interest the animal, you should tell it often.
-- **10855**: But remember, your chocobo can't learn all of the abilities there are. It can only learn two...or at least, that's what I read.
-- **10856**: The chocobo's temperament is determined when it is just a chick. Its temperament and attributes are somehow related, but I'm not really sure how.
-- **10857**: Chocobos generally like sunny days, but they could grow to like other kinds of weather depending on how they are raised.
-- **10858**: Chocobos pay attention to the air outside when they go on walks, and grow to prefer that type of weather because of the memories.
-- **10859**: Make the animal's schedule around its preferred weather days, and plans are more likely to succeed. However, if the chocobo has a favored type of weather, it also dislikes certain conditions, creating a weak point to watch for.
-- **10860**: You can choose to retire your chocobo at any time after it has fully matured.
-- **10861**: After retirement, the VCS will take up caring for the chocobo where you left off, so you need not worry about its welfare.
-- **10862**: When your chocobo retires, you will receive $0. Be sure not to lose it.
-- **10863**: You can use the $0 to register your chocobo to call in the field or for matchmaking purposes after retirement. All you need to do is trade it to a VCS member.
-- **10864**: The empty stall created after your animal retires can be used for raising other chocobos, so if you happen to come across another egg, you can bring it here to start all over again!
-- **10865**: When your chocobo is mature enough, you can breed it with another chocobo. If the chocobo lays an egg, the chick will inherit the traits of its parents.
-- **10866**: You will need $0 and $1 if you want to breed your chocobo. Apparently, you also need some kind of ticket that they sell at the stables in Upper Jeuno.
-- **10867**: You can ask one of the VCS members to issue you a chococard, or if your chocobo is already retired, just trade them $0.
-- **10868**: I don't really know that much about it, but you should probably try matching your chocobo up with several different animals and seeing what the results are.
-- **10869**: When your chocobo is mature enough, you can call it in the field using $0.
-- **10870**: You need to let a member of the VCS know which chocobo you want to respond to your call, because they must choose a saddle that fits your chocobo's attributes.
-- **10871**: That also means that when your chocobo's attributes change or it learns a new ability, you should probably let the VCS member know, too.
-- **10872**: When you want to register a retired chocobo to respond to your call in the field, trade $0 to a VCS member.
-- **10873**: Also, the $0's power will grow weak after you've used it several times.
-- **10874**: If this happens, just trade it to a VCS member and they will give you a new one for a fee.
-- **10875**: What would you like to ask about? [%./Chococards./$1./Nothing.]
-- **10876**: $0 proves that you are your chocobo's caretaker.
-- **10877**: With this card, you can register a retired chocobo to respond to your call in the field or get a chococard for matchmaking.
-- **10878**: If you lose it, you won't be able to get another one, so keep it in a safe place!
-- **10879**: You can use $0 to call your chocobo in the field to use as a mount.
-- **10880**: The more you use it, the weaker it will get, so eventually you will need to exchange it to a VCS member for a new one.
-- **10881**: Only people who have been approved by the VCS President can get $0, so good luck with that...
-- **10882**: Chococards are documents that contain all the details about a chocobo's attributes and condition. They are divided into two types--one for each gender.
-- **10883**: If you trade one to the person who's in charge of matchmaking, he'll introduce your animal to another chocobo.
-- **10884**: Chococards contain information on the chocobo's attributes and condition at the time the card is issued, so be sure to get a new card before using this service or the match will be arranged based on out-of-date information.
-- **10885**: If you want a chococard for a retired chocobo, then you must trade $0 to a VCS member.
-- **11974**: I wrote down all the information you've collected about the chick's owner. So far, we've learned that...
-- **11975**: The owner's name starts with a [C/L/V/D/G/A/K/P].
-- **11976**: The owner is [an Elvaan man/an Elvaan woman/an old Elvaan man/an old Elvaan woman/a Galka/a Hume woman/a Hume man/an old Hume woman/a Tarutaru man/a Tarutaru woman/a Mithra].
-- **11977**: The owner is [a town information guide/a watchman/a delivery man/a merchant/a miner/a guild worker/someone affiliated with one of the ministries/a hunter/an adventurer].
+- **10806**: You can have your chocobo help out VCS finances by digging for treasure. This will also improve the chocobo's discernment.
+- **10807**: The VCS will sell the item and use the money for the organization's benefit, but will provide you with payment for your services.
+- **10808**: However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.
+- **10809**: You can choose to have your chocobo act as an extra in a play to improve its receptivity.
+- **10810**: You will receive payment in accordance with the chocobo's performance. However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.
+- **10811**: What would you like to ask about? [A general explanation./Watching over your chocobo./Telling a story./Scolding./Competing./Taking a walk./Nothing.]
+- **10812**: In addition to setting the chocobo's schedule, you can also care directly for your chocobo whenever you like.
+- **10813**: Caring for your chocobo will increase its affection for you.
+- **10814**: On the other hand, a chocobo that receives too much care will lose energy more rapidly when engaging in activities. If you do nothing but care for your chocobo, it will become fatigued.
+- **10815**: However, not caring enough for your chocobo will have a negative effect on your relationship, so it is important to find a balance.
+- **10816**: You can watch over your chocobo whenever you like.
+- **10817**: Your fond gaze can communicate even more than a touch and will not have a very tiring effect on the animal.
+- **10818**: You can tell the chocobo a story you know. This will foster the animal's sensibilities.
+- **10819**: I've heard that by listening to the story, the chocobo might even realize it has powers it never noticed before. (I've never seen it happen before, though...)
+- **10820**: Sometimes your chocobo might start acting spoiled or refuse to do anything but sleep. In such times, you will need to firmly scold it.
+- **10821**: This will shame the animal and have an effect on its receptivity.
+- **10822**: Competing against other chocobos will cultivate your animal's ambitious spirit and is highly effective for bored chocobos.
+- **10823**: You can take your chocobo out for a walk in the field. You will be able to choose more destinations as your chocobo grows.
+- **10824**: I like to take the chocobo out often, too, but I'm sure it prefers going out with you.
+- **10825**: Leaving the stables every once in a while allows your chocobo to experience new sights and sounds. Maybe you'll even discover something new together!
+- **10826**: What would you like to know about? [Why feeding is important./Vegetables./Wildgrasses./Carrots./Worms./Medicines./Pastes./Nothing.]
+- **10827**: Chocobos digest feed quickly, so they are often hungry.
+- **10828**: However, they also restore energy at a rapid pace. If you do not feed your chocobo properly, it will be unable to restore enough energy.
+- **10829**: The chocobo stables will provide your chocobo with the minimum amount of feed required for the animal to survive, but you need to provide more in order to ensure its healthy growth.
+- **10830**: At the same time, feeding your chocobo too much can result in a stomachache. Remember to strike a balance with both the variety and quantity of feed you give to your animal!
+- **10831**: Some types of feed have special effects, so it is important not to neglect your chocobo's diet if you want to raise a good chocobo.
+- **10832**: There are different methods of acquiring these special types of feed, so be on the lookout for them!
+- **10833**: Just trade the feed to an advanced chocobo trainer, and they will give it to your chocobo.
+- **10834**: This is the standard variety of chocobo feed, among which $0 are most popular.
+- **10835**: Chocobos also seem to enjoy $0 and $1.
+- **10836**: These greens are the most effective in satisfying a chocobo's hunger. Chocobos also enjoy the taste, which raises affection for their owner.
+- **10837**: Wildgrasses are a type of medicinal herb. They do not taste very good, but are highly effective at curing status abnormalities.
+- **10838**: $0, for example, works well on wounds. So although they look similar to $1, the effects are different.
+- **10839**: In addition, $0 is effective for illness, and $1 for a stomachache. It's a good idea to remember which herb to use in each situation.
+- **10840**: Carrots are high in nutrition, and will have an effect on the chocobo's strength and discernment.
+- **10841**: %, for example, affect the chocobo's physical attributes, and $1 are good for its mental attributes. $2 are in a category of their own.
+- **10842**: Remember, though, that the results are very slight, and keeping a good care schedule is a far more efficient way to alter your chocobo's attributes.
+- **10843**: Using worms as feed can have a variety of effects. They might look disgusting, but their effectiveness is not to be ignored!
+- **10844**: For example, $0 will dramatically increase your chocobo's affection, and $1 will restore its energy.
+- **10845**: But watch out for the side effects... Give the chocobo a worm at the wrong time, and all your effort could come to nothing...
+- **10846**: The most curious of all the worms is the $0. At first it may not seem to have any effect, but looks are deceiving...
+- **10847**: Medicines can cure a chocobo in the blink of an eye.
+- **10848**: $0 will restore your chocobo's energy in full, making it easier to care for and ensuring that the care schedule goes smoothly.
+- **10849**: % are effective for most status abnormalities, restoring instant health to your chocobo. Of course, you still need to continue caring for your chocobo so it can fully recover.
+- **10850**: A potion can also help fill a chocobo's stomach, so they can be useful when you are short on feed.
+- **10851**: Feed can be ground into paste for chicks to eat.
+- **10852**: You can make paste yourself with some cooking skill. If you don't have enough cooking skill yourself, then you might want to ask a friend to make some for you.
+- **10853**: Chicks can also eat regular feed, though.
+- **10854**: Which would you like to ask about? [Abilities./Temperament./Weather preferences./Nothing.]
+- **10855**: Your chocobo may learn useful abilities during the course of its life at the stables.
+- **10856**: For example, Auto-Regen will increase the rate at which your chocobo restores energy. Such an ability is sure to come in handy in a variety of situations.
+- **10857**: Your chocobo learns abilities by listening to your words, so if you know of any story that you think might interest the animal, you should tell it often.
+- **10858**: But remember, your chocobo can't learn all of the abilities there are. It can only learn two...or at least, that's what I read.
+- **10859**: The chocobo's temperament is determined when it is just a chick. Its temperament and attributes are somehow related, but I'm not really sure how.
+- **10860**: Chocobos generally like sunny days, but they could grow to like other kinds of weather depending on how they are raised.
+- **10861**: Chocobos pay attention to the air outside when they go on walks, and grow to prefer that type of weather because of the memories.
+- **10862**: Make the animal's schedule around its preferred weather days, and plans are more likely to succeed. However, if the chocobo has a favored type of weather, it also dislikes certain conditions, creating a weak point to watch for.
+- **10863**: You can choose to retire your chocobo at any time after it has fully matured.
+- **10864**: After retirement, the VCS will take up caring for the chocobo where you left off, so you need not worry about its welfare.
+- **10865**: When your chocobo retires, you will receive $0. Be sure not to lose it.
+- **10866**: You can use the $0 to register your chocobo to call in the field or for matchmaking purposes after retirement. All you need to do is trade it to a VCS member.
+- **10867**: The empty stall created after your animal retires can be used for raising other chocobos, so if you happen to come across another egg, you can bring it here to start all over again!
+- **10868**: When your chocobo is mature enough, you can breed it with another chocobo. If the chocobo lays an egg, the chick will inherit the traits of its parents.
+- **10869**: You will need $0 and $1 if you want to breed your chocobo. Apparently, you also need some kind of ticket that they sell at the stables in Upper Jeuno.
+- **10870**: You can ask one of the VCS members to issue you a chococard, or if your chocobo is already retired, just trade them $0.
+- **10871**: I don't really know that much about it, but you should probably try matching your chocobo up with several different animals and seeing what the results are.
+- **10872**: When your chocobo is mature enough, you can call it in the field using $0.
+- **10873**: You need to let a member of the VCS know which chocobo you want to respond to your call, because they must choose a saddle that fits your chocobo's attributes.
+- **10874**: That also means that when your chocobo's attributes change or it learns a new ability, you should probably let the VCS member know, too.
+- **10875**: When you want to register a retired chocobo to respond to your call in the field, trade $0 to a VCS member.
+- **10876**: Also, the $0's power will grow weak after you've used it several times.
+- **10877**: If this happens, just trade it to a VCS member and they will give you a new one for a fee.
+- **10878**: What would you like to ask about? [%./Chococards./$1./Nothing.]
+- **10879**: $0 proves that you are your chocobo's caretaker.
+- **10880**: With this card, you can register a retired chocobo to respond to your call in the field or get a chococard for matchmaking.
+- **10881**: If you lose it, you won't be able to get another one, so keep it in a safe place!
+- **10882**: You can use $0 to call your chocobo in the field to use as a mount.
+- **10883**: The more you use it, the weaker it will get, so eventually you will need to exchange it to a VCS member for a new one.
+- **10884**: Only people who have been approved by the VCS President can get $0, so good luck with that...
+- **10885**: Chococards are documents that contain all the details about a chocobo's attributes and condition. They are divided into two types--one for each gender.
+- **10886**: If you trade one to the person who's in charge of matchmaking, he'll introduce your animal to another chocobo.
+- **10887**: Chococards contain information on the chocobo's attributes and condition at the time the card is issued, so be sure to get a new card before using this service or the match will be arranged based on out-of-date information.
+- **10888**: If you want a chococard for a retired chocobo, then you must trade $0 to a VCS member.
+- **11977**: I wrote down all the information you've collected about the chick's owner. So far, we've learned that...
+- **11978**: The owner's name starts with a [C/L/V/D/G/A/K/P].
+- **11979**: The owner is [an Elvaan man/an Elvaan woman/an old Elvaan man/an old Elvaan woman/a Galka/a Hume woman/a Hume man/an old Hume woman/a Tarutaru man/a Tarutaru woman/a Mithra].
+- **11980**: The owner is [a town information guide/a watchman/a delivery man/a merchant/a miner/a guild worker/someone affiliated with one of the ministries/a hunter/an adventurer].
 
 ## Events
 
@@ -529,7 +529,7 @@ SUBROUTINE_001C:
   6: 0x001C [0x06] ExtData[1]->WorkLocal[2] = 0
   7: 0x001F [0x06] ExtData[1]->WorkLocal[0] = 0
   8: 0x0022 [0x4A] EventEntity looks at LocalPlayer
-  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=10749*)
+  9: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=10752*)
     → "Let me know if you have any questions about chocobo raising."
  10: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -537,7 +537,7 @@ SUBROUTINE_002F:
  11: 0x002F [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0133
  12: 0x0037 [0x06] ExtData[1]->WorkLocal[3] = 0
  13: 0x003A [0x06] ExtData[1]->WorkLocal[1] = 0
- 14: 0x003D [0x24] CREATE_DIALOG(message_id=10750*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[4])
+ 14: 0x003D [0x24] CREATE_DIALOG(message_id=10753*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[4])
     → "What would you like to ask about? [The Vana'diel Chocobo Society./Time required./Chocobo attributes./Care schedule./Caring for your chocobo./Feed./Abilities and personality./Retirement./Matchmaking./Calling chocobos in the field./Items./Lost chicks./Nothing.]"
  15: 0x0044 [0x25] WAIT_DIALOG_SELECT()
  16: 0x0045 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0058
@@ -588,7 +588,7 @@ SUBROUTINE_002F:
  61: 0x011E [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[0]
  62: 0x0123 [0x1A] CALL_SUBROUTINE(address=0x06DA)
  63: 0x0126 [0x01] GOTO 0x0130
- 64: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=10751*)
+ 64: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=10754*)
     → "Just let me know if you ever get curious!"
  65: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x012D [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -599,101 +599,101 @@ SUBROUTINE_0130:
  69: 0x0134 [0x00] END_REQSTACK()
 
 SUBROUTINE_0135:
- 70: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=10752*)
+ 70: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=10755*)
     → "The Vana'diel Chocobo Society, or VCS for short, is an international organization designed to train and dispatch chocogirls and chocoguys to stables across Vana'diel."
  71: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=10753*)
+ 72: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=10756*)
     → "They provide courses on practical chocobo riding and the proper ways to care for a chocobo, as well as working to improve the treatment of chocobos from here to Aht Urhgan."
  73: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=10754*)
+ 74: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
     → "Anyone can join as long as they love chocobos. The VCS will help you with anything you need."
  75: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0141 [0x1B] RETURN
 
 SUBROUTINE_0142:
- 77: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=10755*)
+ 77: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
     → "Chicks hatch from eggs, grow into young chocobos, and finally mature."
  78: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=10756*)
+ 79: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=10759*)
     → "They grow much faster than people do. Usually it takes about 1 month (Earth time) before you can ride your chocobo."
  80: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
+ 81: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=10760*)
     → "The chocobo's traits are determined by the way in which you care for your animal. Without proper planning, you won't be able to raise the type of chocobo that you want."
  82: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
+ 83: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10761*)
     → "But don't worry, because you have us to help! We're all in this together!"
  84: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0152 [0x1B] RETURN
 
 SUBROUTINE_0153:
  86: 0x0153 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x021A
- 87: 0x015B [0x24] CREATE_DIALOG(message_id=10759*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+ 87: 0x015B [0x24] CREATE_DIALOG(message_id=10762*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "Ask about which attribute? [Strength./Endurance./Discernment./Receptivity./Energy./Affection./Satisfaction./Nothing.]"
  88: 0x0162 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0163 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017B
  90: 0x016B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
- 91: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=10760*)
+ 91: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=10763*)
     → ""Strength" is a term used to describe the chocobo's leg power. The more strength a chocobo has, the faster it will be able to run. Rental chocobos have been raised with an emphasis on this attribute."
  92: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=10761*)
+ 93: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=10764*)
     → "Both strength and endurance are collectively referred to as "Physical attributes.""
  94: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0178 [0x01] GOTO 0x0217
  96: 0x017B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0193
  97: 0x0183 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
- 98: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10762*)
+ 98: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10765*)
     → ""Endurance" is a term used to describe the chocobo's stamina. If your chocobo has high endurance, you will be able to ride it for a long period of time."
  99: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=10763*)
+100: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=10766*)
     → "Both strength and endurance are collectively referred to as "Physical attributes.""
 101: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0190 [0x01] GOTO 0x0217
 103: 0x0193 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01AB
 104: 0x019B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-105: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10764*)
+105: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10767*)
     → ""Discernment" is a must for anyone who wants their chocobo to learn new abilities. You may want to consider raising this attribute if you are interested in digging for treasure."
 106: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10765*)
+107: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10768*)
     → "Both discernment and receptivity are collectively referred to as "Mental attributes.""
 108: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x01A8 [0x01] GOTO 0x0217
 110: 0x01AB [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x01C3
 111: 0x01B3 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-112: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10766*)
+112: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10769*)
     → ""Receptivity" is a term used to describe the chocobo's sensitivity when dealing with others. You can foster receptivity in your chocobo by giving it lots of opportunities to communicate with other chocobos."
 113: 0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10767*)
+114: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10770*)
     → "Both discernment and receptivity are collectively referred to as "Mental attributes.""
 115: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x01C0 [0x01] GOTO 0x0217
 117: 0x01C3 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x01DB
 118: 0x01CB [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-119: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10768*)
+119: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10771*)
     → ""Energy" is a term used to describe the amount of power the chocobo needs to stay active for the day. If your chocobo has a lot of energy, care plans are more likely to be successful and you can provide more direct care for your chocobo."
 120: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10769*)
+121: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10772*)
     → "You can restore your chocobo's energy by feeding it, so remember not to skip out on feeding time after a demanding schedule!"
 122: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x01D8 [0x01] GOTO 0x0217
 124: 0x01DB [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01FC
 125: 0x01E3 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-126: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10770*)
+126: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10773*)
     → ""Affection" is the most important attribute of all. Your care schedule will fall flat if you don't show your chocobo proper affection!"
 127: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10771*)
+128: 0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
     → "You can raise your chocobo's affection by feeding it greens and caring for it on a regular basis."
 129: 0x01EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x01F0 [0x03] Work_Zone[2] = 2203*
-131: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10772*)
+131: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
     → "If you really want to raise your chocobo's affection quickly, you can give it $0, but I can't recommend doing so unless absolutely necessary."
 132: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x01F9 [0x01] GOTO 0x0217
 134: 0x01FC [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0214
 135: 0x0204 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-136: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=10773*)
+136: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
     → ""Satisfaction" is a term used to describe how full or hungry your chocobo is. If your chocobo is full, it will gain a lot of energy before the next day."
 137: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
+138: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
     → "However, when the chocobo is very hungry, its energy will hardly recover at all and its affection will rapidly decrease."
 139: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0211 [0x01] GOTO 0x0217
@@ -705,144 +705,144 @@ SUBROUTINE_0217:
 
 SUBROUTINE_021B:
 144: 0x021B [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0391
-145: 0x0223 [0x24] CREATE_DIALOG(message_id=10775*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+145: 0x0223 [0x24] CREATE_DIALOG(message_id=10778*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "What would you like to ask about? [What is a care schedule?/Basic care./Resting./Taking a walk./Listening to music./Exercising alone./Exercising in a group./Interacting with children./Interacting with chocobos./Carrying packages./Exhibiting to the public./Delivering messages./Digging for treasure./Acting in a play./Nothing.]"
 146: 0x022A [0x25] WAIT_DIALOG_SELECT()
 147: 0x022B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x024B
 148: 0x0233 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-149: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
+149: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=10779*)
     → "A care schedule is a series of plans that you set up for your chocobo so that we can take care of it while you are away."
 150: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
-151: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
+151: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=10780*)
     → "How you want us to care for your chocobo each day is completely up to you."
 152: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=10778*)
+153: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=10781*)
     → "You can register up to four plans at once, each for up to 7 days (Earth time)."
 154: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=10779*)
+155: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=10782*)
     → "When you come to check on your chocobo, we will give you a report on the results. You should listen closely to the report and use it as reference when deciding on a new schedule."
 156: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0248 [0x01] GOTO 0x038E
 158: 0x024B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0267
 159: 0x0253 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-160: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10780*)
+160: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10783*)
     → "With the basic care plan, we will provide the minimum level of care for your chocobo. This plan is the most stable, and your chocobo will probably not experience any sudden changes."
 161: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
-162: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=10781*)
+162: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=10784*)
     → "The basic care plan is good for those who don't want their chocobo's traits to change much or are still unsure of what kind of schedule to choose."
 163: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=10782*)
+164: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=10785*)
     → "You can select the basic care plan the moment you start raising your chocobo."
 165: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0264 [0x01] GOTO 0x038E
 167: 0x0267 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x027F
 168: 0x026F [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-169: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=10783*)
+169: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=10786*)
     → "The rest plan's name speaks for itself. We will give your chocobo a rest in order to restore its energy and cure any status abnormalities."
 170: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
-171: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=10784*)
+171: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=10787*)
     → "However, your chocobo will not be able to eat any food you give it during the plan, because it will be in a deep sleep."
 172: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x027C [0x01] GOTO 0x038E
 174: 0x027F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0293
 175: 0x0287 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-176: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=10785*)
+176: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=10788*)
     → "We can take your chocobo for a walk in town to improve its physical attributes of strength and endurance. However, it will have a negative effect on its mental attributes of discernment and receptivity."
 177: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x0290 [0x01] GOTO 0x038E
 179: 0x0293 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x02A7
 180: 0x029B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-181: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10786*)
+181: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10789*)
     → "Listening to music will improve your chocobo's mental attributes of discernment and receptivity. However, it will have a negative effect on its physical attributes of strength and endurance."
 182: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x02A4 [0x01] GOTO 0x038E
 184: 0x02A7 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x02BF
 185: 0x02AF [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-186: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10787*)
+186: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10790*)
     → "Exercising alone will significantly improve your chocobo's strength. On the other hand, its mental attributes will markedly decrease."
 187: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-188: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10788*)
+188: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10791*)
     → "If the chocobo is strong, this plan is quite effective, but if the chocobo is weak, then you shouldn't push it too hard."
 189: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x02BC [0x01] GOTO 0x038E
 191: 0x02BF [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x02D7
 192: 0x02C7 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-193: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10789*)
+193: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10792*)
     → "Exercising with chocobos will build your animal's endurance. On the other hand, its mental attributes will decrease."
 194: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-195: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10790*)
+195: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10793*)
     → "If the chocobo has high endurance, this plan is quite effective, but if the chocobo's endurance is low, then you shouldn't push it too hard."
 196: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x02D4 [0x01] GOTO 0x038E
 198: 0x02D7 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x02F3
 199: 0x02DF [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-200: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10791*)
+200: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10794*)
     → "Interacting with children helps your chocobo become a more discerning creature by interacting with people."
 201: 0x02E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-202: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10792*)
+202: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10795*)
     → "However, this plan will have a negative effect on the chocobo's physical attributes, as no strenuous exercise is involved."
 203: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-204: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10793*)
+204: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10796*)
     → "If the chocobo has good discernment, this plan is quite effective, but if the chocobo does not have good discernment, then you shouldn't push it too hard."
 205: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x02F0 [0x01] GOTO 0x038E
 207: 0x02F3 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x030F
 208: 0x02FB [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-209: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=10794*)
+209: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=10797*)
     → "Interacting with other chocobos in the field will improve the chocobo's receptivity by fostering its communication skills."
 210: 0x0303 [0x23] WAIT_FOR_DIALOG_INTERACTION
-211: 0x0304 [0x1D] PRINT_EVENT_MESSAGE(message_id=10795*)
+211: 0x0304 [0x1D] PRINT_EVENT_MESSAGE(message_id=10798*)
     → "But because the focus is on communication and not exercise, this plan will have a negative effect on the chocobo's physical attributes."
 212: 0x0307 [0x23] WAIT_FOR_DIALOG_INTERACTION
-213: 0x0308 [0x1D] PRINT_EVENT_MESSAGE(message_id=10796*)
+213: 0x0308 [0x1D] PRINT_EVENT_MESSAGE(message_id=10799*)
     → "If the chocobo has good receptivity, this plan is quite effective, but if the chocobo does not have good receptivity, then you shouldn't push it too hard."
 214: 0x030B [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x030C [0x01] GOTO 0x038E
 216: 0x030F [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0327
 217: 0x0317 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-218: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=10797*)
+218: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=10800*)
     → "You can choose to have your chocobo help deliver packages. Not only will this improve its physical attributes, but you will even receive payment for your services!"
 219: 0x031F [0x23] WAIT_FOR_DIALOG_INTERACTION
-220: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=10798*)
+220: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=10801*)
     → "The downside is that your chocobo's mental attributes, energy, and affection will decrease. You must care well for your chocobo, or you might find yourself getting cold treatment."
 221: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x0324 [0x01] GOTO 0x038E
 223: 0x0327 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x033F
 224: 0x032F [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-225: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=10799*)
+225: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=10802*)
     → "You can choose to exhibit your chocobo to the public, which will allow anyone visiting the chocobo stables to take a look at your animal. Being the center of attention will help improve your chocobo's mental attributes."
 226: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
-227: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10800*)
+227: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10803*)
     → "The downside is that your chocobo's physical attributes, energy, and affection will decrease. You must care well for your chocobo afterwards. Also, you will receive payment for this service."
 228: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x033C [0x01] GOTO 0x038E
 230: 0x033F [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0357
 231: 0x0347 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-232: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=10801*)
+232: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=10804*)
     → "You can choose to have your chocobo deliver official messages for the nation. Not only will this improve its strength, but you will even receive payment for your services!"
 233: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
-234: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=10802*)
+234: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=10805*)
     → "However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it."
 235: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x0354 [0x01] GOTO 0x038E
 237: 0x0357 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0373
 238: 0x035F [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-239: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=10803*)
+239: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=10806*)
     → "You can have your chocobo help out VCS finances by digging for treasure. This will also improve the chocobo's discernment."
 240: 0x0367 [0x23] WAIT_FOR_DIALOG_INTERACTION
-241: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=10804*)
+241: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=10807*)
     → "The VCS will sell the item and use the money for the organization's benefit, but will provide you with payment for your services."
 242: 0x036B [0x23] WAIT_FOR_DIALOG_INTERACTION
-243: 0x036C [0x1D] PRINT_EVENT_MESSAGE(message_id=10805*)
+243: 0x036C [0x1D] PRINT_EVENT_MESSAGE(message_id=10808*)
     → "However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it."
 244: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0370 [0x01] GOTO 0x038E
 246: 0x0373 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x038B
 247: 0x037B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-248: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=10806*)
+248: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
     → "You can choose to have your chocobo act as an extra in a play to improve its receptivity."
 249: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
-250: 0x0384 [0x1D] PRINT_EVENT_MESSAGE(message_id=10807*)
+250: 0x0384 [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
     → "You will receive payment in accordance with the chocobo's performance. However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it."
 251: 0x0387 [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0388 [0x01] GOTO 0x038E
@@ -854,66 +854,66 @@ SUBROUTINE_038E:
 
 SUBROUTINE_0392:
 256: 0x0392 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0440
-257: 0x039A [0x24] CREATE_DIALOG(message_id=10808*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+257: 0x039A [0x24] CREATE_DIALOG(message_id=10811*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "What would you like to ask about? [A general explanation./Watching over your chocobo./Telling a story./Scolding./Competing./Taking a walk./Nothing.]"
 258: 0x03A1 [0x25] WAIT_DIALOG_SELECT()
 259: 0x03A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03C2
 260: 0x03AA [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-261: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
+261: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
     → "In addition to setting the chocobo's schedule, you can also care directly for your chocobo whenever you like."
 262: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-263: 0x03B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
+263: 0x03B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
     → "Caring for your chocobo will increase its affection for you."
 264: 0x03B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-265: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
+265: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
     → "On the other hand, a chocobo that receives too much care will lose energy more rapidly when engaging in activities. If you do nothing but care for your chocobo, it will become fatigued."
 266: 0x03BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-267: 0x03BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
+267: 0x03BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
     → "However, not caring enough for your chocobo will have a negative effect on your relationship, so it is important to find a balance."
 268: 0x03BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x03BF [0x01] GOTO 0x043D
 270: 0x03C2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03DA
 271: 0x03CA [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-272: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
+272: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
     → "You can watch over your chocobo whenever you like."
 273: 0x03D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-274: 0x03D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
+274: 0x03D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
     → "Your fond gaze can communicate even more than a touch and will not have a very tiring effect on the animal."
 275: 0x03D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x03D7 [0x01] GOTO 0x043D
 277: 0x03DA [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03F2
 278: 0x03E2 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-279: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
+279: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
     → "You can tell the chocobo a story you know. This will foster the animal's sensibilities."
 280: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-281: 0x03EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
+281: 0x03EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
     → "I've heard that by listening to the story, the chocobo might even realize it has powers it never noticed before. (I've never seen it happen before, though...)"
 282: 0x03EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 283: 0x03EF [0x01] GOTO 0x043D
 284: 0x03F2 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x040A
 285: 0x03FA [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-286: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
+286: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
     → "Sometimes your chocobo might start acting spoiled or refuse to do anything but sleep. In such times, you will need to firmly scold it."
 287: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
-288: 0x0403 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
+288: 0x0403 [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
     → "This will shame the animal and have an effect on its receptivity."
 289: 0x0406 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x0407 [0x01] GOTO 0x043D
 291: 0x040A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x041E
 292: 0x0412 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-293: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
+293: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
     → "Competing against other chocobos will cultivate your animal's ambitious spirit and is highly effective for bored chocobos."
 294: 0x041A [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x041B [0x01] GOTO 0x043D
 296: 0x041E [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x043A
 297: 0x0426 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-298: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
+298: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
     → "You can take your chocobo out for a walk in the field. You will be able to choose more destinations as your chocobo grows."
 299: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
-300: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
+300: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
     → "I like to take the chocobo out often, too, but I'm sure it prefers going out with you."
 301: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
-302: 0x0433 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
+302: 0x0433 [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
     → "Leaving the stables every once in a while allows your chocobo to experience new sights and sounds. Maybe you'll even discover something new together!"
 303: 0x0436 [0x23] WAIT_FOR_DIALOG_INTERACTION
 304: 0x0437 [0x01] GOTO 0x043D
@@ -925,123 +925,123 @@ SUBROUTINE_043D:
 
 SUBROUTINE_0441:
 308: 0x0441 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x057E
-309: 0x0449 [0x24] CREATE_DIALOG(message_id=10823*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+309: 0x0449 [0x24] CREATE_DIALOG(message_id=10826*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "What would you like to know about? [Why feeding is important./Vegetables./Wildgrasses./Carrots./Worms./Medicines./Pastes./Nothing.]"
 310: 0x0450 [0x25] WAIT_DIALOG_SELECT()
 311: 0x0451 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x047D
 312: 0x0459 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-313: 0x045E [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
+313: 0x045E [0x1D] PRINT_EVENT_MESSAGE(message_id=10827*)
     → "Chocobos digest feed quickly, so they are often hungry."
 314: 0x0461 [0x23] WAIT_FOR_DIALOG_INTERACTION
-315: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
+315: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=10828*)
     → "However, they also restore energy at a rapid pace. If you do not feed your chocobo properly, it will be unable to restore enough energy."
 316: 0x0465 [0x23] WAIT_FOR_DIALOG_INTERACTION
-317: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
+317: 0x0466 [0x1D] PRINT_EVENT_MESSAGE(message_id=10829*)
     → "The chocobo stables will provide your chocobo with the minimum amount of feed required for the animal to survive, but you need to provide more in order to ensure its healthy growth."
 318: 0x0469 [0x23] WAIT_FOR_DIALOG_INTERACTION
-319: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=10827*)
+319: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=10830*)
     → "At the same time, feeding your chocobo too much can result in a stomachache. Remember to strike a balance with both the variety and quantity of feed you give to your animal!"
 320: 0x046D [0x23] WAIT_FOR_DIALOG_INTERACTION
-321: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=10828*)
+321: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=10831*)
     → "Some types of feed have special effects, so it is important not to neglect your chocobo's diet if you want to raise a good chocobo."
 322: 0x0471 [0x23] WAIT_FOR_DIALOG_INTERACTION
-323: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=10829*)
+323: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=10832*)
     → "There are different methods of acquiring these special types of feed, so be on the lookout for them!"
 324: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
-325: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=10830*)
+325: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=10833*)
     → "Just trade the feed to an advanced chocobo trainer, and they will give it to your chocobo."
 326: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
 327: 0x047A [0x01] GOTO 0x057B
 328: 0x047D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04A8
 329: 0x0485 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
 330: 0x048A [0x03] Work_Zone[2] = 4545*
-331: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=10831*)
+331: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=10834*)
     → "This is the standard variety of chocobo feed, among which $0 are most popular."
 332: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x0493 [0x03] Work_Zone[2] = 5605*
 334: 0x0498 [0x03] Work_Zone[3] = 5606*
-335: 0x049D [0x1D] PRINT_EVENT_MESSAGE(message_id=10832*)
+335: 0x049D [0x1D] PRINT_EVENT_MESSAGE(message_id=10835*)
     → "Chocobos also seem to enjoy $0 and $1."
 336: 0x04A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-337: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10833*)
+337: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10836*)
     → "These greens are the most effective in satisfying a chocobo's hunger. Chocobos also enjoy the taste, which raises affection for their owner."
 338: 0x04A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0x04A5 [0x01] GOTO 0x057B
 340: 0x04A8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x04D8
 341: 0x04B0 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-342: 0x04B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10834*)
+342: 0x04B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10837*)
     → "Wildgrasses are a type of medicinal herb. They do not taste very good, but are highly effective at curing status abnormalities."
 343: 0x04B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x04B9 [0x03] Work_Zone[2] = 534*
 345: 0x04BE [0x03] Work_Zone[3] = 4545*
-346: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10835*)
+346: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10838*)
     → "$0, for example, works well on wounds. So although they look similar to $1, the effects are different."
 347: 0x04C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x04C7 [0x03] Work_Zone[2] = 2201*
 349: 0x04CC [0x03] Work_Zone[3] = 2202*
-350: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10836*)
+350: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
     → "In addition, $0 is effective for illness, and $1 for a stomachache. It's a good idea to remember which herb to use in each situation."
 351: 0x04D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 352: 0x04D5 [0x01] GOTO 0x057B
 353: 0x04D8 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0503
 354: 0x04E0 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-355: 0x04E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10837*)
+355: 0x04E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
     → "Carrots are high in nutrition, and will have an effect on the chocobo's strength and discernment."
 356: 0x04E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x04E9 [0x03] Work_Zone[2] = 5607*
 358: 0x04EE [0x03] Work_Zone[3] = 5608*
 359: 0x04F3 [0x03] Work_Zone[4] = 4389*
-360: 0x04F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10838*)
+360: 0x04F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10841*)
     → "%, for example, affect the chocobo's physical attributes, and $1 are good for its mental attributes. $2 are in a category of their own."
 361: 0x04FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-362: 0x04FC [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
+362: 0x04FC [0x1D] PRINT_EVENT_MESSAGE(message_id=10842*)
     → "Remember, though, that the results are very slight, and keeping a good care schedule is a far more efficient way to alter your chocobo's attributes."
 363: 0x04FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0500 [0x01] GOTO 0x057B
 365: 0x0503 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0532
 366: 0x050B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-367: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
+367: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=10843*)
     → "Using worms as feed can have a variety of effects. They might look disgusting, but their effectiveness is not to be ignored!"
 368: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x0514 [0x03] Work_Zone[2] = 2203*
 370: 0x0519 [0x03] Work_Zone[3] = 2205*
-371: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=10841*)
+371: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=10844*)
     → "For example, $0 will dramatically increase your chocobo's affection, and $1 will restore its energy."
 372: 0x0521 [0x23] WAIT_FOR_DIALOG_INTERACTION
-373: 0x0522 [0x1D] PRINT_EVENT_MESSAGE(message_id=10842*)
+373: 0x0522 [0x1D] PRINT_EVENT_MESSAGE(message_id=10845*)
     → "But watch out for the side effects... Give the chocobo a worm at the wrong time, and all your effort could come to nothing..."
 374: 0x0525 [0x23] WAIT_FOR_DIALOG_INTERACTION
 375: 0x0526 [0x03] Work_Zone[2] = 2204*
-376: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=10843*)
+376: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
     → "The most curious of all the worms is the $0. At first it may not seem to have any effect, but looks are deceiving..."
 377: 0x052E [0x23] WAIT_FOR_DIALOG_INTERACTION
 378: 0x052F [0x01] GOTO 0x057B
 379: 0x0532 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x055C
 380: 0x053A [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-381: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=10844*)
+381: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
     → "Medicines can cure a chocobo in the blink of an eye."
 382: 0x0542 [0x23] WAIT_FOR_DIALOG_INTERACTION
 383: 0x0543 [0x03] Work_Zone[2] = 2206*
-384: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=10845*)
+384: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
     → "$0 will restore your chocobo's energy in full, making it easier to care for and ensuring that the care schedule goes smoothly."
 385: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
 386: 0x054C [0x03] Work_Zone[2] = 2207*
-387: 0x0551 [0x1D] PRINT_EVENT_MESSAGE(message_id=10846*)
+387: 0x0551 [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
     → "% are effective for most status abnormalities, restoring instant health to your chocobo. Of course, you still need to continue caring for your chocobo so it can fully recover."
 388: 0x0554 [0x23] WAIT_FOR_DIALOG_INTERACTION
-389: 0x0555 [0x1D] PRINT_EVENT_MESSAGE(message_id=10847*)
+389: 0x0555 [0x1D] PRINT_EVENT_MESSAGE(message_id=10850*)
     → "A potion can also help fill a chocobo's stomach, so they can be useful when you are short on feed."
 390: 0x0558 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x0559 [0x01] GOTO 0x057B
 392: 0x055C [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0578
 393: 0x0564 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-394: 0x0569 [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
+394: 0x0569 [0x1D] PRINT_EVENT_MESSAGE(message_id=10851*)
     → "Feed can be ground into paste for chicks to eat."
 395: 0x056C [0x23] WAIT_FOR_DIALOG_INTERACTION
-396: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
+396: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=10852*)
     → "You can make paste yourself with some cooking skill. If you don't have enough cooking skill yourself, then you might want to ask a friend to make some for you."
 397: 0x0570 [0x23] WAIT_FOR_DIALOG_INTERACTION
-398: 0x0571 [0x1D] PRINT_EVENT_MESSAGE(message_id=10850*)
+398: 0x0571 [0x1D] PRINT_EVENT_MESSAGE(message_id=10853*)
     → "Chicks can also eat regular feed, though."
 399: 0x0574 [0x23] WAIT_FOR_DIALOG_INTERACTION
 400: 0x0575 [0x01] GOTO 0x057B
@@ -1053,39 +1053,39 @@ SUBROUTINE_057B:
 
 SUBROUTINE_057F:
 404: 0x057F [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x05E5
-405: 0x0587 [0x24] CREATE_DIALOG(message_id=10851*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+405: 0x0587 [0x24] CREATE_DIALOG(message_id=10854*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "Which would you like to ask about? [Abilities./Temperament./Weather preferences./Nothing.]"
 406: 0x058E [0x25] WAIT_DIALOG_SELECT()
 407: 0x058F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AF
 408: 0x0597 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-409: 0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=10852*)
+409: 0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=10855*)
     → "Your chocobo may learn useful abilities during the course of its life at the stables."
 410: 0x059F [0x23] WAIT_FOR_DIALOG_INTERACTION
-411: 0x05A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10853*)
+411: 0x05A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
     → "For example, Auto-Regen will increase the rate at which your chocobo restores energy. Such an ability is sure to come in handy in a variety of situations."
 412: 0x05A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-413: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10854*)
+413: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
     → "Your chocobo learns abilities by listening to your words, so if you know of any story that you think might interest the animal, you should tell it often."
 414: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-415: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10855*)
+415: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10858*)
     → "But remember, your chocobo can't learn all of the abilities there are. It can only learn two...or at least, that's what I read."
 416: 0x05AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 417: 0x05AC [0x01] GOTO 0x05E2
 418: 0x05AF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05C3
 419: 0x05B7 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-420: 0x05BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
+420: 0x05BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10859*)
     → "The chocobo's temperament is determined when it is just a chick. Its temperament and attributes are somehow related, but I'm not really sure how."
 421: 0x05BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x05C0 [0x01] GOTO 0x05E2
 423: 0x05C3 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x05DF
 424: 0x05CB [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
-425: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
+425: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10860*)
     → "Chocobos generally like sunny days, but they could grow to like other kinds of weather depending on how they are raised."
 426: 0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-427: 0x05D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10858*)
+427: 0x05D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
     → "Chocobos pay attention to the air outside when they go on walks, and grow to prefer that type of weather because of the memories."
 428: 0x05D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-429: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10859*)
+429: 0x05D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
     → "Make the animal's schedule around its preferred weather days, and plans are more likely to succeed. However, if the chocobo has a favored type of weather, it also dislikes certain conditions, creating a weak point to watch for."
 430: 0x05DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 431: 0x05DC [0x01] GOTO 0x05E2
@@ -1096,62 +1096,62 @@ SUBROUTINE_05E2:
 434: 0x05E5 [0x1B] RETURN
 
 SUBROUTINE_05E6:
-435: 0x05E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10860*)
+435: 0x05E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
     → "You can choose to retire your chocobo at any time after it has fully matured."
 436: 0x05E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x05EA [0x03] Work_Zone[2] = 2313*
-438: 0x05EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
+438: 0x05EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
     → "After retirement, the VCS will take up caring for the chocobo where you left off, so you need not worry about its welfare."
 439: 0x05F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-440: 0x05F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
+440: 0x05F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10865*)
     → "When your chocobo retires, you will receive $0. Be sure not to lose it."
 441: 0x05F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-442: 0x05F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
+442: 0x05F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
     → "You can use the $0 to register your chocobo to call in the field or for matchmaking purposes after retirement. All you need to do is trade it to a VCS member."
 443: 0x05FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-444: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
+444: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
     → "The empty stall created after your animal retires can be used for raising other chocobos, so if you happen to come across another egg, you can bring it here to start all over again!"
 445: 0x05FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 446: 0x05FF [0x1B] RETURN
 
 SUBROUTINE_0600:
-447: 0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=10865*)
+447: 0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "When your chocobo is mature enough, you can breed it with another chocobo. If the chocobo lays an egg, the chick will inherit the traits of its parents."
 448: 0x0603 [0x23] WAIT_FOR_DIALOG_INTERACTION
 449: 0x0604 [0x03] Work_Zone[2] = 2339*
 450: 0x0609 [0x03] Work_Zone[3] = 2342*
-451: 0x060E [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
+451: 0x060E [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
     → "You will need $0 and $1 if you want to breed your chocobo. Apparently, you also need some kind of ticket that they sell at the stables in Upper Jeuno."
 452: 0x0611 [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x0612 [0x03] Work_Zone[2] = 2313*
-454: 0x0617 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+454: 0x0617 [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
     → "You can ask one of the VCS members to issue you a chococard, or if your chocobo is already retired, just trade them $0."
 455: 0x061A [0x23] WAIT_FOR_DIALOG_INTERACTION
-456: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
+456: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=10871*)
     → "I don't really know that much about it, but you should probably try matching your chocobo up with several different animals and seeing what the results are."
 457: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
 458: 0x061F [0x1B] RETURN
 
 SUBROUTINE_0620:
 459: 0x0620 [0x03] Work_Zone[2] = 15533*
-460: 0x0625 [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
+460: 0x0625 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
     → "When your chocobo is mature enough, you can call it in the field using $0."
 461: 0x0628 [0x23] WAIT_FOR_DIALOG_INTERACTION
-462: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
+462: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
     → "You need to let a member of the VCS know which chocobo you want to respond to your call, because they must choose a saddle that fits your chocobo's attributes."
 463: 0x062C [0x23] WAIT_FOR_DIALOG_INTERACTION
-464: 0x062D [0x1D] PRINT_EVENT_MESSAGE(message_id=10871*)
+464: 0x062D [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
     → "That also means that when your chocobo's attributes change or it learns a new ability, you should probably let the VCS member know, too."
 465: 0x0630 [0x23] WAIT_FOR_DIALOG_INTERACTION
 466: 0x0631 [0x03] Work_Zone[2] = 2313*
-467: 0x0636 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
+467: 0x0636 [0x1D] PRINT_EVENT_MESSAGE(message_id=10875*)
     → "When you want to register a retired chocobo to respond to your call in the field, trade $0 to a VCS member."
 468: 0x0639 [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x063A [0x03] Work_Zone[2] = 15533*
-470: 0x063F [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
+470: 0x063F [0x1D] PRINT_EVENT_MESSAGE(message_id=10876*)
     → "Also, the $0's power will grow weak after you've used it several times."
 471: 0x0642 [0x23] WAIT_FOR_DIALOG_INTERACTION
-472: 0x0643 [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
+472: 0x0643 [0x1D] PRINT_EVENT_MESSAGE(message_id=10877*)
     → "If this happens, just trade it to a VCS member and they will give you a new one for a fee."
 473: 0x0646 [0x23] WAIT_FOR_DIALOG_INTERACTION
 474: 0x0647 [0x1B] RETURN
@@ -1160,19 +1160,19 @@ SUBROUTINE_0648:
 475: 0x0648 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x06D9
 476: 0x0650 [0x03] Work_Zone[2] = 2313*
 477: 0x0655 [0x03] Work_Zone[3] = 15533*
-478: 0x065A [0x24] CREATE_DIALOG(message_id=10875*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+478: 0x065A [0x24] CREATE_DIALOG(message_id=10878*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "What would you like to ask about? [%./Chococards./$1./Nothing.]"
 479: 0x0661 [0x25] WAIT_DIALOG_SELECT()
 480: 0x0662 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0683
 481: 0x066A [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
 482: 0x066F [0x03] Work_Zone[2] = 2313*
-483: 0x0674 [0x1D] PRINT_EVENT_MESSAGE(message_id=10876*)
+483: 0x0674 [0x1D] PRINT_EVENT_MESSAGE(message_id=10879*)
     → "$0 proves that you are your chocobo's caretaker."
 484: 0x0677 [0x23] WAIT_FOR_DIALOG_INTERACTION
-485: 0x0678 [0x1D] PRINT_EVENT_MESSAGE(message_id=10877*)
+485: 0x0678 [0x1D] PRINT_EVENT_MESSAGE(message_id=10880*)
     → "With this card, you can register a retired chocobo to respond to your call in the field or get a chococard for matchmaking."
 486: 0x067B [0x23] WAIT_FOR_DIALOG_INTERACTION
-487: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=10878*)
+487: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=10881*)
     → "If you lose it, you won't be able to get another one, so keep it in a safe place!"
 488: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x0680 [0x01] GOTO 0x06D6
@@ -1180,30 +1180,30 @@ SUBROUTINE_0648:
 491: 0x068B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
 492: 0x0690 [0x03] Work_Zone[2] = 2339*
 493: 0x0695 [0x03] Work_Zone[3] = 2342*
-494: 0x069A [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
+494: 0x069A [0x1D] PRINT_EVENT_MESSAGE(message_id=10885*)
     → "Chococards are documents that contain all the details about a chocobo's attributes and condition. They are divided into two types--one for each gender."
 495: 0x069D [0x23] WAIT_FOR_DIALOG_INTERACTION
-496: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
+496: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=10886*)
     → "If you trade one to the person who's in charge of matchmaking, he'll introduce your animal to another chocobo."
 497: 0x06A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-498: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10884*)
+498: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10887*)
     → "Chococards contain information on the chocobo's attributes and condition at the time the card is issued, so be sure to get a new card before using this service or the match will be arranged based on out-of-date information."
 499: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 500: 0x06A6 [0x03] Work_Zone[2] = 2313*
-501: 0x06AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10885*)
+501: 0x06AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10888*)
     → "If you want a chococard for a retired chocobo, then you must trade $0 to a VCS member."
 502: 0x06AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 503: 0x06AF [0x01] GOTO 0x06D6
 504: 0x06B2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x06D3
 505: 0x06BA [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[0]
 506: 0x06BF [0x03] Work_Zone[2] = 15533*
-507: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10879*)
+507: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10882*)
     → "You can use $0 to call your chocobo in the field to use as a mount."
 508: 0x06C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-509: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10880*)
+509: 0x06C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10883*)
     → "The more you use it, the weaker it will get, so eventually you will need to exchange it to a VCS member for a new one."
 510: 0x06CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-511: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10881*)
+511: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10884*)
     → "Only people who have been approved by the VCS President can get $0, so good luck with that..."
 512: 0x06CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 513: 0x06D0 [0x01] GOTO 0x06D6
@@ -1214,7 +1214,7 @@ SUBROUTINE_06D6:
 516: 0x06D9 [0x1B] RETURN
 
 SUBROUTINE_06DA:
-517: 0x06DA [0x1D] PRINT_EVENT_MESSAGE(message_id=11974*)
+517: 0x06DA [0x1D] PRINT_EVENT_MESSAGE(message_id=11977*)
     → "I wrote down all the information you've collected about the chick's owner. So far, we've learned that..."
 518: 0x06DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x06DE [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x076A
@@ -1244,7 +1244,7 @@ SUBROUTINE_06DA:
 543: 0x0763 [0x01] GOTO 0x0766
 
 SUBROUTINE_0766:
-544: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=11975*)
+544: 0x0766 [0x1D] PRINT_EVENT_MESSAGE(message_id=11978*)
     → "The owner's name starts with a [C/L/V/D/G/A/K/P]."
 545: 0x0769 [0x23] WAIT_FOR_DIALOG_INTERACTION
 546: 0x076A [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x07F6
@@ -1274,7 +1274,7 @@ SUBROUTINE_0766:
 570: 0x07EF [0x01] GOTO 0x07F2
 
 SUBROUTINE_07F2:
-571: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11976*)
+571: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11979*)
     → "The owner is [an Elvaan man/an Elvaan woman/an old Elvaan man/an old Elvaan woman/a Galka/a Hume woman/a Hume man/an old Hume woman/a Tarutaru man/a Tarutaru woman/a Mithra]."
 572: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 573: 0x07F6 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x0882
@@ -1304,7 +1304,7 @@ SUBROUTINE_07F2:
 597: 0x087B [0x01] GOTO 0x087E
 
 SUBROUTINE_087E:
-598: 0x087E [0x1D] PRINT_EVENT_MESSAGE(message_id=11977*)
+598: 0x087E [0x1D] PRINT_EVENT_MESSAGE(message_id=11980*)
     → "The owner is [a town information guide/a watchman/a delivery man/a merchant/a miner/a guild worker/someone affiliated with one of the ministries/a hunter/an adventurer]."
 599: 0x0881 [0x23] WAIT_FOR_DIALOG_INTERACTION
 600: 0x0882 [0x1B] RETURN

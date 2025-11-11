@@ -44,9 +44,9 @@
 |      11 | 0x1F4E      |        8014 |
 |      12 | 0x1F4F      |        8015 |
 |      13 | 0x1F50      |        8016 |
-|      14 | 0x2FFB      |       12283 |
-|      15 | 0x3006      |       12294 |
-|      16 | 0x3007      |       12295 |
+|      14 | 0x2FFE      |       12286 |
+|      15 | 0x3009      |       12297 |
+|      16 | 0x300A      |       12298 |
 
 ## String References
 
@@ -58,9 +58,9 @@
 - **8014**: Climbing the northern sky is the famous Odin. The black point there is Odin's beloved steer, Sleipnir.
 - **8015**: And above that--although in the actual night sky it appears below Sleipnir--is the North Star, the prominently bright star that sailors guide their ships by.
 - **8016**: If you want to further further your interest in the stars, then you're always welcome to visit here and see my stellar stellar map.
-- **12283**: <Player>'s badge flashes brightly.
-- **12294**: Hm. I infer somebody wants to know-know about Aht Urhgan, perhaps? Then you should look up at this night's night sky.
-- **12295**: Compared to the night sky, this world is small. Perhaps it holds that that you seek.
+- **12286**: <Player>'s badge flashes brightly.
+- **12297**: Hm. I infer somebody wants to know-know about Aht Urhgan, perhaps? Then you should look up at this night's night sky.
+- **12298**: Compared to the night sky, this world is small. Perhaps it holds that that you seek.
 
 ## Events
 
@@ -399,15 +399,15 @@ SUBROUTINE_008F:
 
 ```
   0: 0x00DF [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00E0 [0x48] [System] [12283*]:
+  1: 0x00E0 [0x48] [System] [12286*]:
     → "<Player>'s badge flashes brightly."
   2: 0x00E3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00E8 [0x1C] WAIT(30* ticks)
-  4: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12294*)
+  4: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
     → "Hm. I infer somebody wants to know-know about Aht Urhgan, perhaps? Then you should look up at this night's night sky."
   5: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  7: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
+  7: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
     → "Compared to the night sky, this world is small. Perhaps it holds that that you seek."
   8: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0102 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

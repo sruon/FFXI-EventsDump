@@ -21,20 +21,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x3043      |       12355 |
+|       1 | 0x3046      |       12358 |
 |       2 | 0x0045      |          69 |
-|       3 | 0x3044      |       12356 |
-|       4 | 0x3045      |       12357 |
-|       5 | 0x3046      |       12358 |
-|       6 | 0x3047      |       12359 |
+|       3 | 0x3047      |       12359 |
+|       4 | 0x3048      |       12360 |
+|       5 | 0x3049      |       12361 |
+|       6 | 0x304A      |       12362 |
 
 ## String References
 
-- **12355**: I remember 20 years ago when I was in charge of protecting Galkan Bridge from the beastmen.
-- **12356**: For a large part of the Crystal War, we had her blocked off on both sides. The government said it was to keep enemy spies from infiltrating Bastok's central areas. However, there were rumors that it was to prevent Galka from coming over on this side of the river and rioting.
-- **12357**: It would be a lie if I told you it wasn't hard for me, a Galka, to work against my brothers like that.
-- **12358**: I still have nightmares about the times I had to force back groups of refugees trying to escape the flames that engulfed their homes in the mines district.
-- **12359**: And now I'm back here patrolling the bridge as I did so long ago. Perhaps destiny has a tighter grip on us than I thought...
+- **12358**: I remember 20 years ago when I was in charge of protecting Galkan Bridge from the beastmen.
+- **12359**: For a large part of the Crystal War, we had her blocked off on both sides. The government said it was to keep enemy spies from infiltrating Bastok's central areas. However, there were rumors that it was to prevent Galka from coming over on this side of the river and rioting.
+- **12360**: It would be a lie if I told you it wasn't hard for me, a Galka, to work against my brothers like that.
+- **12361**: I still have nightmares about the times I had to force back groups of refugees trying to escape the flames that engulfed their homes in the mines district.
+- **12362**: And now I'm back here patrolling the bridge as I did so long ago. Perhaps destiny has a tighter grip on us than I thought...
 
 ## Events
 
@@ -84,21 +84,21 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=12355*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=12358*)
     → "I remember 20 years ago when I was in charge of protecting Galkan Bridge from the beastmen."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12356*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12359*)
     → "For a large part of the Crystal War, we had her blocked off on both sides. The government said it was to keep enemy spies from infiltrating Bastok's central areas. However, there were rumors that it was to prevent Galka from coming over on this side of the river and rioting."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=12357*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=12360*)
     → "It would be a lie if I told you it wasn't hard for me, a Galka, to work against my brothers like that."
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=12358*)
+  9: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=12361*)
     → "I still have nightmares about the times I had to force back groups of refugees trying to escape the flames that engulfed their homes in the mines district."
  10: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
- 12: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=12359*)
+ 12: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=12362*)
     → "And now I'm back here patrolling the bridge as I did so long ago. Perhaps destiny has a tighter grip on us than I thought..."
  13: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x003B [0x21] END_EVENT

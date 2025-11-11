@@ -31,7 +31,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3D01      |       15617 |
+|       0 | 0x3D04      |       15620 |
 |       1 | 0x29ED      |       10733 |
 |       2 | 0x29EE      |       10734 |
 |       3 | 0x292B      |       10539 |
@@ -69,7 +69,7 @@
 - **10539**: You received a stamp!
 - **10733**: This area is off-limits.
 - **10734**: You're here for the stamp hunt, right? Here you go. I wonder why so many adventurers are participating in this thing. But then again, I wouldn't want children running around here, either.
-- **15617**: What? A Starlight Celebration present? You came all the way to this decrepit part of town just to give this to me? You've a good heart, friend. Thank you.
+- **15620**: What? A Starlight Celebration present? You came all the way to this decrepit part of town just to give this to me? You've a good heart, friend. Thank you.
 
 ## Events
 
@@ -116,7 +116,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15617*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15620*)
     → "What? A Starlight Celebration present? You came all the way to this decrepit part of town just to give this to me? You've a good heart, friend. Thank you."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT

@@ -8427,7 +8427,7 @@
  8423: Overall rewards [/(not received)/(received)]: [$10 deeds./$11 exemplar points./$12 EXP./$23 job points./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$3./$3./$3./Back.]
  8424: Your ranking will not be updated in the next Vana'Bout if you do not receive more plaudits thaan you did in the current one, kupo.
  8425: If your ranking is unable to be updated, you cannot change whether or not you are anonymous on the ranking list/
- 8426: Register your ranking? [Yes, with my name./Yes, but aanonymously./Back.]
+ 8426: Register your ranking? [Yes, with my name./Yes, but anonymously./Back.]
  8427: Register [with your name/anonymously]? [Yes please./No thanak you.]
  8428: Your registration has been accepted, kupo! It may taake a while for this to be reflect in the official records.
  8429: An error has occurred. Please try again later.

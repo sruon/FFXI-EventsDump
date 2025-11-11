@@ -21,16 +21,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x2423      |        9251 |
+|       1 | 0x2424      |        9252 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x2424      |        9252 |
+|       3 | 0x2425      |        9253 |
 |       4 | 0x01F4      |         500 |
 |       5 | 0x0258      |         600 |
 
 ## String References
 
-- **9251**: Check which map number? [True value./False value.]
-- **9252**: Do not include hyphens in the False value.
+- **9252**: Check which map number? [True value./False value.]
+- **9253**: Do not include hyphens in the False value.
 
 ## Events
 
@@ -81,7 +81,7 @@
 
 ```
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = 0*
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=9251*, default_option=0*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=9252*, default_option=0*, option_flags=0*)
     → "Check which map number? [True value./False value.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0021
@@ -89,7 +89,7 @@
   5: 0x001A [0x71] USER_INPUT_HANDLER: Process numerical input A (work=ExtData[1]->WorkLocal[0])
   6: 0x001E [0x01] GOTO 0x003C
   7: 0x0021 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x003C
-  8: 0x0029 [0x48] [System] [9252*]:
+  8: 0x0029 [0x48] [System] [9253*]:
     → "Do not include hyphens in the False value."
   9: 0x002C [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
  10: 0x0030 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=Work_Zone[2])

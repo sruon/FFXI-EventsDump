@@ -36,19 +36,19 @@
 |      13 | 0x006E      |         110 |
 |      14 | 0x005E      |          94 |
 |      15 | 0x003E      |          62 |
-|      16 | 0x35EB      |       13803 |
+|      16 | 0x35EE      |       13806 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x35EC      |       13804 |
+|      18 | 0x35EF      |       13807 |
 |      19 | 0x40000000  |  1073741824 |
-|      20 | 0x35ED      |       13805 |
+|      20 | 0x35F0      |       13808 |
 |      21 | 0x0020      |          32 |
-|      22 | 0x35EE      |       13806 |
+|      22 | 0x35F1      |       13809 |
 |      23 | 0x0040      |          64 |
-|      24 | 0x35EF      |       13807 |
+|      24 | 0x35F2      |       13810 |
 |      25 | 0x0060      |          96 |
-|      26 | 0x35F0      |       13808 |
+|      26 | 0x35F3      |       13811 |
 |      27 | 0x0080      |         128 |
-|      28 | 0x35F1      |       13809 |
+|      28 | 0x35F4      |       13812 |
 |      29 | 0x00A0      |         160 |
 |      30 | 0x1928      |        6440 |
 |      31 | 0x00C8      |         200 |
@@ -59,13 +59,13 @@
 - **6440**: You do not have enough gil.
 - **9897**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
 - **9898**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
-- **13803**: Which memory will you have recalled? [Nothing./Add-on Scenarios.]
-- **13804**: Which memory will you have recalled? [Nothing./Drenched! It Began with a Raindrop./Hasten! In a Jam in Jeuno?/Moglesse Oblige.]
-- **13805**: Which memory will you have recalled? [Nothing./Fellow Points.]
-- **13806**: Which memory will you have recalled? [Nothing.]
-- **13807**: Which memory will you have recalled? [Nothing.]
-- **13808**: Which memory will you have recalled? [Nothing.]
+- **13806**: Which memory will you have recalled? [Nothing./Add-on Scenarios.]
+- **13807**: Which memory will you have recalled? [Nothing./Drenched! It Began with a Raindrop./Hasten! In a Jam in Jeuno?/Moglesse Oblige.]
+- **13808**: Which memory will you have recalled? [Nothing./Fellow Points.]
 - **13809**: Which memory will you have recalled? [Nothing.]
+- **13810**: Which memory will you have recalled? [Nothing.]
+- **13811**: Which memory will you have recalled? [Nothing.]
+- **13812**: Which memory will you have recalled? [Nothing.]
 
 ## Events
 
@@ -186,13 +186,13 @@
  36: 0x00C6 [0x01] GOTO 0x01A0
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
- 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=13803*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=13806*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which memory will you have recalled? [Nothing./Add-on Scenarios.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
- 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=13804*, default_option=0*, option_flags=Work_Zone[2])
+ 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=13807*, default_option=0*, option_flags=Work_Zone[2])
     → "Which memory will you have recalled? [Nothing./Drenched! It Began with a Raindrop./Hasten! In a Jam in Jeuno?/Moglesse Oblige.]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -205,7 +205,7 @@ SUBROUTINE_0108:
  49: 0x010B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x013A
 
 SUBROUTINE_0113:
- 50: 0x0113 [0x24] CREATE_DIALOG(message_id=13805*, default_option=0*, option_flags=Work_Zone[3])
+ 50: 0x0113 [0x24] CREATE_DIALOG(message_id=13808*, default_option=0*, option_flags=Work_Zone[3])
     → "Which memory will you have recalled? [Nothing./Fellow Points.]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
@@ -218,7 +218,7 @@ SUBROUTINE_0137:
  57: 0x013A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0169
 
 SUBROUTINE_0142:
- 58: 0x0142 [0x24] CREATE_DIALOG(message_id=13806*, default_option=0*, option_flags=Work_Zone[4])
+ 58: 0x0142 [0x24] CREATE_DIALOG(message_id=13809*, default_option=0*, option_flags=Work_Zone[4])
     → "Which memory will you have recalled? [Nothing.]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
@@ -231,7 +231,7 @@ SUBROUTINE_0166:
  65: 0x0169 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0198
 
 SUBROUTINE_0171:
- 66: 0x0171 [0x24] CREATE_DIALOG(message_id=13807*, default_option=0*, option_flags=Work_Zone[5])
+ 66: 0x0171 [0x24] CREATE_DIALOG(message_id=13810*, default_option=0*, option_flags=Work_Zone[5])
     → "Which memory will you have recalled? [Nothing.]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -244,7 +244,7 @@ SUBROUTINE_0195:
  73: 0x0198 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01C7
 
 SUBROUTINE_01A0:
- 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=13808*, default_option=0*, option_flags=Work_Zone[6])
+ 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=13811*, default_option=0*, option_flags=Work_Zone[6])
     → "Which memory will you have recalled? [Nothing.]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
@@ -257,7 +257,7 @@ SUBROUTINE_01C4:
  81: 0x01C7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01F6
 
 SUBROUTINE_01CF:
- 82: 0x01CF [0x24] CREATE_DIALOG(message_id=13809*, default_option=0*, option_flags=Work_Zone[7])
+ 82: 0x01CF [0x24] CREATE_DIALOG(message_id=13812*, default_option=0*, option_flags=Work_Zone[7])
     → "Which memory will you have recalled? [Nothing.]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9

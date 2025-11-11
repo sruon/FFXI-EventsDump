@@ -34,116 +34,116 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00D7      |         215 |
-|       1 | 0x3ECA      |       16074 |
-|       2 | 0x3ECB      |       16075 |
+|       1 | 0x3ECD      |       16077 |
+|       2 | 0x3ECE      |       16078 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x3EDF      |       16095 |
-|       5 | 0x3EE0      |       16096 |
+|       4 | 0x3EE2      |       16098 |
+|       5 | 0x3EE3      |       16099 |
 |       6 | 0x0004      |           4 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x3EE1      |       16097 |
+|       8 | 0x3EE4      |       16100 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0005      |           5 |
 |      11 | 0x2E00      |       11776 |
 |      12 | 0x000A      |          10 |
 |      13 | 0x0032      |          50 |
-|      14 | 0x3EE3      |       16099 |
+|      14 | 0x3EE6      |       16102 |
 |      15 | 0x0003      |           3 |
 |      16 | 0x0006      |           6 |
-|      17 | 0x3EED      |       16109 |
-|      18 | 0x3EEE      |       16110 |
-|      19 | 0x3EEF      |       16111 |
-|      20 | 0x3EE8      |       16104 |
-|      21 | 0x3ED8      |       16088 |
-|      22 | 0x3ED9      |       16089 |
-|      23 | 0x3EDA      |       16090 |
-|      24 | 0x3EDB      |       16091 |
-|      25 | 0x3EDD      |       16093 |
-|      26 | 0x3EDE      |       16094 |
-|      27 | 0x3ED7      |       16087 |
-|      28 | 0x3ECC      |       16076 |
-|      29 | 0x3ECD      |       16077 |
-|      30 | 0x3ED0      |       16080 |
-|      31 | 0x3ED1      |       16081 |
-|      32 | 0x3ED2      |       16082 |
-|      33 | 0x3ED3      |       16083 |
-|      34 | 0x3ED4      |       16084 |
-|      35 | 0x3ED5      |       16085 |
-|      36 | 0x3ED6      |       16086 |
-|      37 | 0x3EDC      |       16092 |
-|      38 | 0x3EE5      |       16101 |
+|      17 | 0x3EF0      |       16112 |
+|      18 | 0x3EF1      |       16113 |
+|      19 | 0x3EF2      |       16114 |
+|      20 | 0x3EEB      |       16107 |
+|      21 | 0x3EDB      |       16091 |
+|      22 | 0x3EDC      |       16092 |
+|      23 | 0x3EDD      |       16093 |
+|      24 | 0x3EDE      |       16094 |
+|      25 | 0x3EE0      |       16096 |
+|      26 | 0x3EE1      |       16097 |
+|      27 | 0x3EDA      |       16090 |
+|      28 | 0x3ECF      |       16079 |
+|      29 | 0x3ED0      |       16080 |
+|      30 | 0x3ED3      |       16083 |
+|      31 | 0x3ED4      |       16084 |
+|      32 | 0x3ED5      |       16085 |
+|      33 | 0x3ED6      |       16086 |
+|      34 | 0x3ED7      |       16087 |
+|      35 | 0x3ED8      |       16088 |
+|      36 | 0x3ED9      |       16089 |
+|      37 | 0x3EDF      |       16095 |
+|      38 | 0x3EE8      |       16104 |
 |      39 | 0x0007      |           7 |
 |      40 | 0x0008      |           8 |
 |      41 | 0x000C      |          12 |
-|      42 | 0x3EFA      |       16122 |
+|      42 | 0x3EFD      |       16125 |
 |      43 | 0x00D8      |         216 |
-|      44 | 0x3EE6      |       16102 |
+|      44 | 0x3EE9      |       16105 |
 |      45 | 0x005A      |          90 |
-|      46 | 0x3EE7      |       16103 |
-|      47 | 0x3EE4      |       16100 |
-|      48 | 0x3EF9      |       16121 |
-|      49 | 0x3EFB      |       16123 |
+|      46 | 0x3EEA      |       16106 |
+|      47 | 0x3EE7      |       16103 |
+|      48 | 0x3EFC      |       16124 |
+|      49 | 0x3EFE      |       16126 |
 |      50 | 0x003C      |          60 |
-|      51 | 0x3EF0      |       16112 |
-|      52 | 0x3EF1      |       16113 |
-|      53 | 0x3EF2      |       16114 |
-|      54 | 0x3EF3      |       16115 |
-|      55 | 0x3EF4      |       16116 |
-|      56 | 0x3EF5      |       16117 |
-|      57 | 0x3EF8      |       16120 |
-|      58 | 0x3EFC      |       16124 |
+|      51 | 0x3EF3      |       16115 |
+|      52 | 0x3EF4      |       16116 |
+|      53 | 0x3EF5      |       16117 |
+|      54 | 0x3EF6      |       16118 |
+|      55 | 0x3EF7      |       16119 |
+|      56 | 0x3EF8      |       16120 |
+|      57 | 0x3EFB      |       16123 |
+|      58 | 0x3EFF      |       16127 |
 |      59 | 0x001E      |          30 |
-|      60 | 0x3EFD      |       16125 |
-|      61 | 0x3EFE      |       16126 |
-|      62 | 0x3EFF      |       16127 |
+|      60 | 0x3F00      |       16128 |
+|      61 | 0x3F01      |       16129 |
+|      62 | 0x3F02      |       16130 |
 
 ## String References
 
-- **16074**: Don'tcha think dat furrowed brow and cocked head o' yers escaped me. Yer int'rested in dis chest, ain'tcha? Well, ya gots good right tah be, 'cause even us Gobbies is fascimanated wit' it. It's some sorta myst'ry box salvaged from a shipwreck in da Gugru Blue! Da mysterious part is dat what goes in don't necessarilies come out!
-- **16075**: While I may tout its amazin'ness, don'tcha think fer even a second dat I's at liberty tah divulge hows we came by it. Still, I likes yer face. It's a kind face, one dat says ya won't stabs me in da back, which is more'n I can say fer my own mum. Lemme shows ya how to use dis myst'ry box.
-- **16076**: Bah-dah-bah-dahm dah-daaahm! Ya open da chest. Dat's it. And da kicker be dat I'm da one doin' da openin'. Ya just gets tah stand dere gawkin' in astonishmament. Easy gig, no?
-- **16077**: Oh yeah, 'fore I forget. What good's a chest if ya ain't gots da key? Well, da key to dis chest is da fine art o' waitin'.
-- **16080**: Also, I calls da amount o' time ya's waited yer circa...circama...circamadamian...ugh, yer "daily tally." It ain't just da name dat's catchy, though. Da higher yer tally, da gooder yer goods get! Can't get much good--er, simpler dan dat.
-- **16081**: Finally, ya opens da chest. Oooh, I can barely contain m'self thinkin' o' all da riches I--er, ya could have!
-- **16082**: Oh, dat's right! Heyheyhey, got any items ya won't be needin'? If so, fork 'em over 'n yer daily tally'll increase! Mebbe not by much, but dat's better'n nothin', am I right?
-- **16083**: And dere's no better feelin' dan takin' trash and turnin' it into treasure. It's pramactically a new kind o' alchemy! But don't go gung ho 'n overfills da thing 'til its hinges break. Myst'ry boxes don't grow on goobbues, y'know.
-- **16084**: Plus, I'll be here tah stops ya if I sees ya stuffin' whole Gobbiebags worth o' possessions in dere, so don't worry yer oversized noggin' over and over over it. Whats was I sayin' again? Ugh, never mind.
-- **16085**: Sadly, howsever, anodda myst'ry 'bout dis chest is dat it won't takes just any ol' bauble. It has da taste o' a picky peiste--it feasts upon nothin' but da rarest and unique-est o' artifacts.
-- **16086**: Lastly, since we don't knows where da items go once inside, ya ain't gettin' nothin' back datcha put in. Ya reap whatcha sow, and da weather ain't always condusimasive to a good harvest, am I right? My condolemances in advance for any losses ya mights incur from da myst'ry box's fickle nature.
-- **16087**: Dat all make 'nough sense tah ya? Just say da woid when ya wanna use my services. I's more'n happy tah help.
-- **16088**: Hey! I rem'mber seein' yer foice 'round here. Take a looksie. I's taken' it upon myself tah jigger 'round wit' dese all-new myst'ry boxes, found straight from an ol' capsized vessel in the Gugru Blue.
-- **16089**: I's nevah gonna say how we gots our hands on 'em, so dun even ask! But, still, I gots tah say dat dese're somet'in' special! Now try yer hand 'fore I smack ya!
-- **16090**: Just select yer desir'd dial and plug 'way at it. Will ya win somethin' super special? Or will't be da booby proize?
-- **16091**: Dese're some "special dials," an' I gots no inklin' what's inside. Ya gots tah open 'em yerself tah find out what treasures lie within!
-- **16092**: Oh ho, I's forgettin' tah explain somethin' to ya. See dese "special dials"? Dey're super primo, but I still no know wut's gonna be in dere.
-- **16093**: So I's not be takin' no responsibility if somethin' weird 'n wacky comes out. Got it? Ya open it, ya keep it.
-- **16094**: 'N openin' 'em requires some kinda secret technique. Maybe it'll succeed, maybe tha box'll break. 'Sif I know. But ya can only try 'em once a day.
-- **16095**: Oho, ya feelin' lucky 'nough tah takes a stab at da myst'ry box?
-- **16096**: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
-- **16097**: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
-- **16099**: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
-- **16100**: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
-- **16101**: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
-- **16102**: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
-- **16103**: Oooh, looks at what popped out! I hopes it makes yer adventures dat much more adventumarous!
-- **16104**: Ya's thought I threw yer prize away?! Prepostamarous! I's just tucked it away for safekeepin' is all.
-- **16109**: Lemme check for ya! Well, it coulda been $0, $1, or mebbe even $2. What? Ya thinks ya could do better wit' one o' dese Gobbie masks on!?
-- **16110**: Anywise, where'd da myst'ry be if ya's knew da answer 'fore ya opens it?
-- **16111**: Some things is better left unknown. Gotta leave a little room fer romanchismo in da woild, y'know.
-- **16112**: Dere we goes. Da myst'ry box seems tah like yer offerin'...but it wants more. Got anythin' else ya wanna throw away?
-- **16113**: Dere we goes. Oho, looks like it don't wants no more. Guess ya gotta come back tomorrow if ya's wanna keep gettin' rid o' stuff.
-- **16114**: Yer daily tally's increased [a smidge./someamawhats./a Gobby-fold!/a ginormagantic amount!]
-- **16115**: Sorrah, but it won't lemme put dis in. Got anythin' it mights like better?
-- **16116**: Sorrah, but da chest has dat look. Y'know, da one dat says, "I'll kills ya if ya tries tah give me dat." I guess alls ya can do is comes back some odda time.
-- **16117**: Nah, it just won't woik. I's did my best, but yer daily tally just won't go no higher. Ya ain't gonna get no prizes by hoardin' yer points, so stop bein' such a Greedalox and use 'em.
-- **16120**: Whoawhoawhoa! If ya's got business wit' da box, ya foist gots business wit' me. Whatcha need?
-- **16121**: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
-- **16122**: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
-- **16123**: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-- **16124**: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
-- **16125**: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-- **16126**: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
-- **16127**: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
+- **16077**: Don'tcha think dat furrowed brow and cocked head o' yers escaped me. Yer int'rested in dis chest, ain'tcha? Well, ya gots good right tah be, 'cause even us Gobbies is fascimanated wit' it. It's some sorta myst'ry box salvaged from a shipwreck in da Gugru Blue! Da mysterious part is dat what goes in don't necessarilies come out!
+- **16078**: While I may tout its amazin'ness, don'tcha think fer even a second dat I's at liberty tah divulge hows we came by it. Still, I likes yer face. It's a kind face, one dat says ya won't stabs me in da back, which is more'n I can say fer my own mum. Lemme shows ya how to use dis myst'ry box.
+- **16079**: Bah-dah-bah-dahm dah-daaahm! Ya open da chest. Dat's it. And da kicker be dat I'm da one doin' da openin'. Ya just gets tah stand dere gawkin' in astonishmament. Easy gig, no?
+- **16080**: Oh yeah, 'fore I forget. What good's a chest if ya ain't gots da key? Well, da key to dis chest is da fine art o' waitin'.
+- **16083**: Also, I calls da amount o' time ya's waited yer circa...circama...circamadamian...ugh, yer "daily tally." It ain't just da name dat's catchy, though. Da higher yer tally, da gooder yer goods get! Can't get much good--er, simpler dan dat.
+- **16084**: Finally, ya opens da chest. Oooh, I can barely contain m'self thinkin' o' all da riches I--er, ya could have!
+- **16085**: Oh, dat's right! Heyheyhey, got any items ya won't be needin'? If so, fork 'em over 'n yer daily tally'll increase! Mebbe not by much, but dat's better'n nothin', am I right?
+- **16086**: And dere's no better feelin' dan takin' trash and turnin' it into treasure. It's pramactically a new kind o' alchemy! But don't go gung ho 'n overfills da thing 'til its hinges break. Myst'ry boxes don't grow on goobbues, y'know.
+- **16087**: Plus, I'll be here tah stops ya if I sees ya stuffin' whole Gobbiebags worth o' possessions in dere, so don't worry yer oversized noggin' over and over over it. Whats was I sayin' again? Ugh, never mind.
+- **16088**: Sadly, howsever, anodda myst'ry 'bout dis chest is dat it won't takes just any ol' bauble. It has da taste o' a picky peiste--it feasts upon nothin' but da rarest and unique-est o' artifacts.
+- **16089**: Lastly, since we don't knows where da items go once inside, ya ain't gettin' nothin' back datcha put in. Ya reap whatcha sow, and da weather ain't always condusimasive to a good harvest, am I right? My condolemances in advance for any losses ya mights incur from da myst'ry box's fickle nature.
+- **16090**: Dat all make 'nough sense tah ya? Just say da woid when ya wanna use my services. I's more'n happy tah help.
+- **16091**: Hey! I rem'mber seein' yer foice 'round here. Take a looksie. I's taken' it upon myself tah jigger 'round wit' dese all-new myst'ry boxes, found straight from an ol' capsized vessel in the Gugru Blue.
+- **16092**: I's nevah gonna say how we gots our hands on 'em, so dun even ask! But, still, I gots tah say dat dese're somet'in' special! Now try yer hand 'fore I smack ya!
+- **16093**: Just select yer desir'd dial and plug 'way at it. Will ya win somethin' super special? Or will't be da booby proize?
+- **16094**: Dese're some "special dials," an' I gots no inklin' what's inside. Ya gots tah open 'em yerself tah find out what treasures lie within!
+- **16095**: Oh ho, I's forgettin' tah explain somethin' to ya. See dese "special dials"? Dey're super primo, but I still no know wut's gonna be in dere.
+- **16096**: So I's not be takin' no responsibility if somethin' weird 'n wacky comes out. Got it? Ya open it, ya keep it.
+- **16097**: 'N openin' 'em requires some kinda secret technique. Maybe it'll succeed, maybe tha box'll break. 'Sif I know. But ya can only try 'em once a day.
+- **16098**: Oho, ya feelin' lucky 'nough tah takes a stab at da myst'ry box?
+- **16099**: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
+- **16100**: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
+- **16102**: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+- **16103**: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
+- **16104**: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
+- **16105**: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
+- **16106**: Oooh, looks at what popped out! I hopes it makes yer adventures dat much more adventumarous!
+- **16107**: Ya's thought I threw yer prize away?! Prepostamarous! I's just tucked it away for safekeepin' is all.
+- **16112**: Lemme check for ya! Well, it coulda been $0, $1, or mebbe even $2. What? Ya thinks ya could do better wit' one o' dese Gobbie masks on!?
+- **16113**: Anywise, where'd da myst'ry be if ya's knew da answer 'fore ya opens it?
+- **16114**: Some things is better left unknown. Gotta leave a little room fer romanchismo in da woild, y'know.
+- **16115**: Dere we goes. Da myst'ry box seems tah like yer offerin'...but it wants more. Got anythin' else ya wanna throw away?
+- **16116**: Dere we goes. Oho, looks like it don't wants no more. Guess ya gotta come back tomorrow if ya's wanna keep gettin' rid o' stuff.
+- **16117**: Yer daily tally's increased [a smidge./someamawhats./a Gobby-fold!/a ginormagantic amount!]
+- **16118**: Sorrah, but it won't lemme put dis in. Got anythin' it mights like better?
+- **16119**: Sorrah, but da chest has dat look. Y'know, da one dat says, "I'll kills ya if ya tries tah give me dat." I guess alls ya can do is comes back some odda time.
+- **16120**: Nah, it just won't woik. I's did my best, but yer daily tally just won't go no higher. Ya ain't gonna get no prizes by hoardin' yer points, so stop bein' such a Greedalox and use 'em.
+- **16123**: Whoawhoawhoa! If ya's got business wit' da box, ya foist gots business wit' me. Whatcha need?
+- **16124**: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
+- **16125**: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
+- **16126**: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
+- **16127**: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+- **16128**: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
+- **16129**: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+- **16130**: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
 
 ## Events
 
@@ -194,10 +194,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=16074*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=16077*)
     → "Don'tcha think dat furrowed brow and cocked head o' yers escaped me. Yer int'rested in dis chest, ain'tcha? Well, ya gots good right tah be, 'cause even us Gobbies is fascimanated wit' it. It's some sorta myst'ry box salvaged from a shipwreck in da Gugru Blue! Da mysterious part is dat what goes in don't necessarilies come out!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=16075*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=16078*)
     → "While I may tout its amazin'ness, don'tcha think fer even a second dat I's at liberty tah divulge hows we came by it. Still, I likes yer face. It's a kind face, one dat says ya won't stabs me in da back, which is more'n I can say fer my own mum. Lemme shows ya how to use dis myst'ry box."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x1A] CALL_SUBROUTINE(address=0x0216)
@@ -256,17 +256,17 @@
   2: 0x003B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x003D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  5: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=16095*)
+  5: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=16098*)
     → "Oho, ya feelin' lucky 'nough tah takes a stab at da myst'ry box?"
   6: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0050 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   8: 0x0055 [0x06] ExtData[1]->WorkLocal[1] = 0
-  9: 0x0058 [0x24] CREATE_DIALOG(message_id=16096*, default_option=ExtData[1]->WorkLocal[1], option_flags=4*)
+  9: 0x0058 [0x24] CREATE_DIALOG(message_id=16099*, default_option=ExtData[1]->WorkLocal[1], option_flags=4*)
     → "Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]"
  10: 0x005F [0x25] WAIT_DIALOG_SELECT()
  11: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014B
  12: 0x0068 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
- 13: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=16097*)
+ 13: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=16100*)
     → "Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?"
  14: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x007B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -282,7 +282,7 @@
  25: 0x00A7 [0x03] Work_Zone_1700[2] = 0*
  26: 0x00AC [0x03] Work_Zone_1700[3] = 0*
  27: 0x00B1 [0x03] Work_Zone_1700[4] = 0*
- 28: 0x00B6 [0x24] CREATE_DIALOG(message_id=16099*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+ 28: 0x00B6 [0x24] CREATE_DIALOG(message_id=16102*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]"
  29: 0x00BD [0x25] WAIT_DIALOG_SELECT()
  30: 0x00BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -370,7 +370,7 @@ SUBROUTINE_01B5:
   2: 0x01BD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01BE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  5: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=16104*)
+  5: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=16107*)
     → "Ya's thought I threw yer prize away?! Prepostamarous! I's just tucked it away for safekeepin' is all."
   6: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01D2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -448,25 +448,25 @@ SUBROUTINE_01B5:
   1: 0x01DD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01DE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01DF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=16088*)
+  4: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=16091*)
     → "Hey! I rem'mber seein' yer foice 'round here. Take a looksie. I's taken' it upon myself tah jigger 'round wit' dese all-new myst'ry boxes, found straight from an ol' capsized vessel in the Gugru Blue."
   5: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16089*)
+  6: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16092*)
     → "I's nevah gonna say how we gots our hands on 'em, so dun even ask! But, still, I gots tah say dat dese're somet'in' special! Now try yer hand 'fore I smack ya!"
   7: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16090*)
+  8: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16093*)
     → "Just select yer desir'd dial and plug 'way at it. Will ya win somethin' super special? Or will't be da booby proize?"
   9: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=16091*)
+ 10: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=16094*)
     → "Dese're some "special dials," an' I gots no inklin' what's inside. Ya gots tah open 'em yerself tah find out what treasures lie within!"
  11: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=16093*)
+ 12: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=16096*)
     → "So I's not be takin' no responsibility if somethin' weird 'n wacky comes out. Got it? Ya open it, ya keep it."
  13: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=16094*)
+ 14: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=16097*)
     → "'N openin' 'em requires some kinda secret technique. Maybe it'll succeed, maybe tha box'll break. 'Sif I know. But ya can only try 'em once a day."
  15: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=16087*)
+ 16: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=16090*)
     → "Dat all make 'nough sense tah ya? Just say da woid when ya wanna use my services. I's more'n happy tah help."
  17: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x020A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -479,50 +479,50 @@ SUBROUTINE_01B5:
 
 ```
 # Dead code (unreachable instructions):
-     0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=16076*)
+     0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=16079*)
     → "Bah-dah-bah-dahm dah-daaahm! Ya open da chest. Dat's it. And da kicker be dat I'm da one doin' da openin'. Ya just gets tah stand dere gawkin' in astonishmament. Easy gig, no?"
      0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=16077*)
+     0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=16080*)
     → "Oh yeah, 'fore I forget. What good's a chest if ya ain't gots da key? Well, da key to dis chest is da fine art o' waitin'."
      0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=16080*)
+     0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=16083*)
     → "Also, I calls da amount o' time ya's waited yer circa...circama...circamadamian...ugh, yer "daily tally." It ain't just da name dat's catchy, though. Da higher yer tally, da gooder yer goods get! Can't get much good--er, simpler dan dat."
      0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=16081*)
+     0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=16084*)
     → "Finally, ya opens da chest. Oooh, I can barely contain m'self thinkin' o' all da riches I--er, ya could have!"
      0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=16082*)
+     0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=16085*)
     → "Oh, dat's right! Heyheyhey, got any items ya won't be needin'? If so, fork 'em over 'n yer daily tally'll increase! Mebbe not by much, but dat's better'n nothin', am I right?"
      0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=16083*)
+     0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=16086*)
     → "And dere's no better feelin' dan takin' trash and turnin' it into treasure. It's pramactically a new kind o' alchemy! But don't go gung ho 'n overfills da thing 'til its hinges break. Myst'ry boxes don't grow on goobbues, y'know."
      0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=16084*)
+     0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=16087*)
     → "Plus, I'll be here tah stops ya if I sees ya stuffin' whole Gobbiebags worth o' possessions in dere, so don't worry yer oversized noggin' over and over over it. Whats was I sayin' again? Ugh, never mind."
      0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=16085*)
+     0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=16088*)
     → "Sadly, howsever, anodda myst'ry 'bout dis chest is dat it won't takes just any ol' bauble. It has da taste o' a picky peiste--it feasts upon nothin' but da rarest and unique-est o' artifacts."
      0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=16086*)
+     0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=16089*)
     → "Lastly, since we don't knows where da items go once inside, ya ain't gettin' nothin' back datcha put in. Ya reap whatcha sow, and da weather ain't always condusimasive to a good harvest, am I right? My condolemances in advance for any losses ya mights incur from da myst'ry box's fickle nature."
      0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=16092*)
+     0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=16095*)
     → "Oh ho, I's forgettin' tah explain somethin' to ya. See dese "special dials"? Dey're super primo, but I still no know wut's gonna be in dere."
      0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=16093*)
+     0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=16096*)
     → "So I's not be takin' no responsibility if somethin' weird 'n wacky comes out. Got it? Ya open it, ya keep it."
      0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=16094*)
+     0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=16097*)
     → "'N openin' 'em requires some kinda secret technique. Maybe it'll succeed, maybe tha box'll break. 'Sif I know. But ya can only try 'em once a day."
      0x0245 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=16087*)
+     0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=16090*)
     → "Dat all make 'nough sense tah ya? Just say da woid when ya wanna use my services. I's more'n happy tah help."
      0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x024A [0x1B] RETURN
      0x024B [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0370
      0x0253 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
      0x0262 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 6*) GOTO 0x0271
-     0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=16101*)
+     0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=16104*)
     → "Yer goin' wit' dial $1, huh? Lessee what myst'ries await!"
      0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x026E [0x01] GOTO 0x02B5
@@ -538,7 +538,7 @@ SUBROUTINE_01B5:
      0x02A1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 12*) GOTO 0x02B1
      0x02A9 [0x03] Work_Zone[2] = 3*
      0x02AE [0x01] GOTO 0x02B1
-     0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16122*)
+     0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16125*)
     → "So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!"
      0x02B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02B5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -546,7 +546,7 @@ SUBROUTINE_01B5:
      0x02BF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x02C0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x02C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=216*
-     0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=16102*)
+     0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=16105*)
     → "Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t"
      0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02D4 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x02EB
@@ -562,7 +562,7 @@ SUBROUTINE_01B5:
      0x0329 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x032A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x032B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-     0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=16103*)
+     0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=16106*)
     → "Oooh, looks at what popped out! I hopes it makes yer adventures dat much more adventumarous!"
      0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x033E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=215*
@@ -576,11 +576,11 @@ SUBROUTINE_01B5:
      0x0370 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x039D
      0x0378 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
      0x0387 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x0396
-     0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=16100*)
+     0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=16103*)
     → "Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low."
      0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0393 [0x01] GOTO 0x039A
-     0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=16121*)
+     0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=16124*)
     → "So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!"
      0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x039A [0x01] GOTO 0x04B4
@@ -598,7 +598,7 @@ SUBROUTINE_01B5:
      0x03E4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 12*) GOTO 0x03F4
      0x03EC [0x03] Work_Zone[2] = 3*
      0x03F1 [0x01] GOTO 0x03F4
-     0x03F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16123*)
+     0x03F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16126*)
     → "So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow."
      0x03F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x03F8 [0x01] GOTO 0x04B4
@@ -607,7 +607,7 @@ SUBROUTINE_01B5:
      0x0408 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0409 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x040A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=216*
-     0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=16102*)
+     0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=16105*)
     → "Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t"
      0x041C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x041D [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0434
@@ -623,7 +623,7 @@ SUBROUTINE_01B5:
      0x0472 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0473 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x0474 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-     0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=16103*)
+     0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=16106*)
     → "Oooh, looks at what popped out! I hopes it makes yer adventures dat much more adventumarous!"
      0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0487 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=215*
@@ -680,12 +680,12 @@ SUBROUTINE_01B5:
  13: 0x050E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  14: 0x050F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
  15: 0x051E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x052D
- 16: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=16112*)
+ 16: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
     → "Dere we goes. Da myst'ry box seems tah like yer offerin'...but it wants more. Got anythin' else ya wanna throw away?"
  17: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x052A [0x01] GOTO 0x053C
  19: 0x052D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x053C
- 20: 0x0535 [0x1D] PRINT_EVENT_MESSAGE(message_id=16113*)
+ 20: 0x0535 [0x1D] PRINT_EVENT_MESSAGE(message_id=16116*)
     → "Dere we goes. Oho, looks like it don't wants no more. Guess ya gotta come back tomorrow if ya's wanna keep gettin' rid o' stuff."
  21: 0x0538 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0539 [0x01] GOTO 0x053C
@@ -693,7 +693,7 @@ SUBROUTINE_01B5:
 SUBROUTINE_053C:
  23: 0x053C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  24: 0x0541 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 25: 0x0542 [0x48] [System] [16114*]:
+ 25: 0x0542 [0x48] [System] [16117*]:
     → "Yer daily tally's increased [a smidge./someamawhats./a Gobby-fold!/a ginormagantic amount!]"
  26: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0546 [0x21] END_EVENT
@@ -727,7 +727,7 @@ SUBROUTINE_053C:
   3: 0x054F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0550 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
   5: 0x055F [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-  6: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
+  6: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=16118*)
     → "Sorrah, but it won't lemme put dis in. Got anythin' it mights like better?"
   7: 0x0563 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0564 [0x21] END_EVENT
@@ -759,7 +759,7 @@ SUBROUTINE_053C:
   1: 0x056B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x056C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x056D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x057C [0x1D] PRINT_EVENT_MESSAGE(message_id=16116*)
+  4: 0x057C [0x1D] PRINT_EVENT_MESSAGE(message_id=16119*)
     → "Sorrah, but da chest has dat look. Y'know, da one dat says, "I'll kills ya if ya tries tah give me dat." I guess alls ya can do is comes back some odda time."
   5: 0x057F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0580 [0x21] END_EVENT
@@ -790,7 +790,7 @@ SUBROUTINE_053C:
   1: 0x0587 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0588 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0589 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x0598 [0x1D] PRINT_EVENT_MESSAGE(message_id=16117*)
+  4: 0x0598 [0x1D] PRINT_EVENT_MESSAGE(message_id=16120*)
     → "Nah, it just won't woik. I's did my best, but yer daily tally just won't go no higher. Ya ain't gonna get no prizes by hoardin' yer points, so stop bein' such a Greedalox and use 'em."
   5: 0x059B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x059C [0x21] END_EVENT
@@ -822,7 +822,7 @@ SUBROUTINE_053C:
   1: 0x05A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16120*)
+  4: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16123*)
     → "Whoawhoawhoa! If ya's got business wit' da box, ya foist gots business wit' me. Whatcha need?"
   5: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05B8 [0x21] END_EVENT
@@ -860,7 +860,7 @@ SUBROUTINE_053C:
   3: 0x05C8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x05C9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x05CA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  6: 0x05D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16124*)
+  6: 0x05D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
     → "Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!"
   7: 0x05DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x05DD [0x1C] WAIT(30* ticks)
@@ -908,7 +908,7 @@ SUBROUTINE_060D:
   2: 0x061D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x061E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x061F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  5: 0x062E [0x1D] PRINT_EVENT_MESSAGE(message_id=16125*)
+  5: 0x062E [0x1D] PRINT_EVENT_MESSAGE(message_id=16128*)
     → "Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0."
   6: 0x0631 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0632 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -942,7 +942,7 @@ SUBROUTINE_060D:
   1: 0x063D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x063E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x063F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x064E [0x1D] PRINT_EVENT_MESSAGE(message_id=16126*)
+  4: 0x064E [0x1D] PRINT_EVENT_MESSAGE(message_id=16129*)
     → "Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!"
   5: 0x0651 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0652 [0x21] END_EVENT
@@ -973,7 +973,7 @@ SUBROUTINE_060D:
   1: 0x0659 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x065A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x065B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
+  4: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=16130*)
     → "What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya."
   5: 0x066D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x066E [0x21] END_EVENT
@@ -1006,7 +1006,7 @@ SUBROUTINE_060D:
   2: 0x0676 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0677 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0678 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  5: 0x0687 [0x1D] PRINT_EVENT_MESSAGE(message_id=16104*)
+  5: 0x0687 [0x1D] PRINT_EVENT_MESSAGE(message_id=16107*)
     → "Ya's thought I threw yer prize away?! Prepostamarous! I's just tucked it away for safekeepin' is all."
   6: 0x068A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x068B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)

@@ -41,28 +41,28 @@
 |       0 | 0x0007      |           7 |
 |       1 | 0x005A      |          90 |
 |       2 | 0x001D      |          29 |
-|       3 | 0x47D0      |       18384 |
-|       4 | 0x47D1      |       18385 |
-|       5 | 0x47D2      |       18386 |
-|       6 | 0x47D3      |       18387 |
+|       3 | 0x47D3      |       18387 |
+|       4 | 0x47D4      |       18388 |
+|       5 | 0x47D5      |       18389 |
+|       6 | 0x47D6      |       18390 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x47D4      |       18388 |
+|       8 | 0x47D7      |       18391 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x47D5      |       18389 |
+|      10 | 0x47D8      |       18392 |
 |      11 | 0x09C4      |        2500 |
-|      12 | 0x47D6      |       18390 |
-|      13 | 0x47D7      |       18391 |
+|      12 | 0x47D9      |       18393 |
+|      13 | 0x47DA      |       18394 |
 |      14 | 0x09C5      |        2501 |
-|      15 | 0x47D8      |       18392 |
-|      16 | 0x47D9      |       18393 |
-|      17 | 0x47DA      |       18394 |
-|      18 | 0x47DB      |       18395 |
-|      19 | 0x47DC      |       18396 |
-|      20 | 0x47DD      |       18397 |
-|      21 | 0x47DE      |       18398 |
-|      22 | 0x47DF      |       18399 |
+|      15 | 0x47DB      |       18395 |
+|      16 | 0x47DC      |       18396 |
+|      17 | 0x47DD      |       18397 |
+|      18 | 0x47DE      |       18398 |
+|      19 | 0x47DF      |       18399 |
+|      20 | 0x47E0      |       18400 |
+|      21 | 0x47E1      |       18401 |
+|      22 | 0x47E2      |       18402 |
 |      23 | 0x00C9      |         201 |
-|      24 | 0x47E0      |       18400 |
+|      24 | 0x47E3      |       18403 |
 |      25 | 0x1E55      |        7765 |
 |      26 | 0x1E56      |        7766 |
 |      27 | 0x1E57      |        7767 |
@@ -505,23 +505,23 @@
 - **7749**: What shall you ask? [About the coming Ballista matches./About the Ballista schedule./About Ballista Earrings./About the rules of Ballista./Nothing at the moment.]
 - **7889**: Ask for an earring? [Yes./No.]
 - **7899**: Return the earring? [Yes./Not yet.]
-- **18384**: I advise you to try your hand at your nearest convenience--outside of town, that is.
-- **18385**: May I suggest East or West Ronfaure? They are both nearby, and provide ideal conditions for you to try out this newfound power. When you are finished, return here and inform me as to how you are progressing.
-- **18386**: Were you successful? Please, tell me everything.
-- **18387**: How did things go? [Swimmingly./Drowningly.]
-- **18388**: It is wonderful to hear that you are getting along well with my alter ego. Good things come in threes, so one more positive thing must await you yet!
-- **18389**: I see... Well, San d'Oria was not built in a day. Keep at it, and I am certain your efforts will be rewarded once more.
-- **18390**: The $3 I have bequeathed to you will surely be of interest to Gondebaud. He can tell you more--and please, treat my alter ego well. Don't go barking inane orders like Rahal did.
-- **18391**: All of us involved in this grand experiment are attempting to figure out the exact methodology behind it. This is bigger than San d'Oria. The nations of Bastok and Windurst are as serious as we are.
-- **18392**: This $3 is intended not just for your own betterment, but for the betterment of us all. Go forth, and discover all there is to be learned.
-- **18393**: [By the way/While I have your attention], Curilla of the Temple Knights is also participating in this initiative.
-- **18394**: I must warn you, however, that she has little time for those who have done her no favors. I highly doubt she would consent to undergoing the ritual with you.
-- **18395**: Increase your reputation around Vana'diel and do all you can for [San d'Oria/your home nation] first.
-- **18396**: I cannot say for certain whether she would accept you or not, but it could do no harm to make an official visit and make your intentions clear.
-- **18397**: Hm? You wish to know where Curilla is[ anyway?/?]
-- **18398**: Why, she can be found in Chateau d'Oraguille, located to the northeast of here. [However, I would not expect the guards there to let you pass./You cannot miss it.]
-- **18399**: I must bid you adieu. May glory shine upon you, and on the grand nation of San d'Oria!
-- **18400**: I am not the only one participating in the Trust initiative here in San d'Oria. You would do well to speak with Curilla, leader of the Temple Knights.
+- **18387**: I advise you to try your hand at your nearest convenience--outside of town, that is.
+- **18388**: May I suggest East or West Ronfaure? They are both nearby, and provide ideal conditions for you to try out this newfound power. When you are finished, return here and inform me as to how you are progressing.
+- **18389**: Were you successful? Please, tell me everything.
+- **18390**: How did things go? [Swimmingly./Drowningly.]
+- **18391**: It is wonderful to hear that you are getting along well with my alter ego. Good things come in threes, so one more positive thing must await you yet!
+- **18392**: I see... Well, San d'Oria was not built in a day. Keep at it, and I am certain your efforts will be rewarded once more.
+- **18393**: The $3 I have bequeathed to you will surely be of interest to Gondebaud. He can tell you more--and please, treat my alter ego well. Don't go barking inane orders like Rahal did.
+- **18394**: All of us involved in this grand experiment are attempting to figure out the exact methodology behind it. This is bigger than San d'Oria. The nations of Bastok and Windurst are as serious as we are.
+- **18395**: This $3 is intended not just for your own betterment, but for the betterment of us all. Go forth, and discover all there is to be learned.
+- **18396**: [By the way/While I have your attention], Curilla of the Temple Knights is also participating in this initiative.
+- **18397**: I must warn you, however, that she has little time for those who have done her no favors. I highly doubt she would consent to undergoing the ritual with you.
+- **18398**: Increase your reputation around Vana'diel and do all you can for [San d'Oria/your home nation] first.
+- **18399**: I cannot say for certain whether she would accept you or not, but it could do no harm to make an official visit and make your intentions clear.
+- **18400**: Hm? You wish to know where Curilla is[ anyway?/?]
+- **18401**: Why, she can be found in Chateau d'Oraguille, located to the northeast of here. [However, I would not expect the guards there to let you pass./You cannot miss it.]
+- **18402**: I must bid you adieu. May glory shine upon you, and on the grand nation of San d'Oria!
+- **18403**: I am not the only one participating in the Trust initiative here in San d'Oria. You would do well to speak with Curilla, leader of the Temple Knights.
 
 ## Events
 
@@ -621,10 +621,10 @@
   1: 0x0017 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0018 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0019 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=18384*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=18387*)
     → "I advise you to try your hand at your nearest convenience--outside of town, that is."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=18385*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=18388*)
     → "May I suggest East or West Ronfaure? They are both nearby, and provide ideal conditions for you to try out this newfound power. When you are finished, return here and inform me as to how you are progressing."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
@@ -680,22 +680,22 @@
   5: 0x0054 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0055 [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 7*
   7: 0x005C [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
-  8: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=18386*)
+  8: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=18389*)
     → "Were you successful? Please, tell me everything."
   9: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0065 [0x24] CREATE_DIALOG(message_id=18387*, default_option=0*, option_flags=0*)
+ 10: 0x0065 [0x24] CREATE_DIALOG(message_id=18390*, default_option=0*, option_flags=0*)
     → "How did things go? [Swimmingly./Drowningly.]"
  11: 0x006C [0x25] WAIT_DIALOG_SELECT()
  12: 0x006D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0088
  13: 0x0075 [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 7*
  14: 0x007C [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
- 15: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=18388*)
+ 15: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=18391*)
     → "It is wonderful to hear that you are getting along well with my alter ego. Good things come in threes, so one more positive thing must await you yet!"
  16: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0085 [0x01] GOTO 0x00B5
  18: 0x0088 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B5
  19: 0x0090 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
- 20: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=18389*)
+ 20: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=18392*)
     → "I see... Well, San d'Oria was not built in a day. Keep at it, and I am certain your efforts will be rewarded once more."
  21: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
@@ -704,52 +704,52 @@
 SUBROUTINE_00B5:
  24: 0x00B5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
  25: 0x00C4 [0x03] Work_Zone[3] = 2500*
- 26: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=18390*)
+ 26: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=18393*)
     → "The $3 I have bequeathed to you will surely be of interest to Gondebaud. He can tell you more--and please, treat my alter ego well. Don't go barking inane orders like Rahal did."
  27: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=18391*)
+ 28: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=18394*)
     → "All of us involved in this grand experiment are attempting to figure out the exact methodology behind it. This is bigger than San d'Oria. The nations of Bastok and Windurst are as serious as we are."
  29: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
  31: 0x00E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
  32: 0x00EF [0x03] Work_Zone[3] = 2501*
- 33: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18392*)
+ 33: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=18395*)
     → "This $3 is intended not just for your own betterment, but for the betterment of us all. Go forth, and discover all there is to be learned."
  34: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00F8 [0x03] Work_Zone[4] = 1*
  36: 0x00FD [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 7*
  37: 0x0104 [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
- 38: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=18393*)
+ 38: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=18396*)
     → "[By the way/While I have your attention], Curilla of the Temple Knights is also participating in this initiative."
  39: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x010D [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0148
  41: 0x0115 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[0]
  42: 0x011A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
- 43: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=18394*)
+ 43: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=18397*)
     → "I must warn you, however, that she has little time for those who have done her no favors. I highly doubt she would consent to undergoing the ritual with you."
  44: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=18395*)
+ 45: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=18398*)
     → "Increase your reputation around Vana'diel and do all you can for [San d'Oria/your home nation] first."
  46: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0131 [0x03] Work_Zone[5] = 0*
  48: 0x0136 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
  49: 0x0145 [0x01] GOTO 0x0156
  50: 0x0148 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[0]
- 51: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=18396*)
+ 51: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=18399*)
     → "I cannot say for certain whether she would accept you or not, but it could do no harm to make an official visit and make your intentions clear."
  52: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0151 [0x03] Work_Zone[5] = 1*
 
 SUBROUTINE_0156:
- 54: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=18397*)
+ 54: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=18400*)
     → "Hm? You wish to know where Curilla is[ anyway?/?]"
  55: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=18398*)
+ 56: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=18401*)
     → "Why, she can be found in Chateau d'Oraguille, located to the northeast of here. [However, I would not expect the guards there to let you pass./You cannot miss it.]"
  57: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x015E [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 7*
  59: 0x0165 [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
- 60: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=18399*)
+ 60: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=18402*)
     → "I must bid you adieu. May glory shine upon you, and on the grand nation of San d'Oria!"
  61: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x016E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -789,15 +789,15 @@ SUBROUTINE_0198:
   4: 0x0198 [0x1E] EventEntity looks at LocalPlayer and starts talking
   5: 0x019D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x019E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  7: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=18400*)
+  7: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=18403*)
     → "I am not the only one participating in the Trust initiative here in San d'Oria. You would do well to speak with Curilla, leader of the Temple Knights."
   8: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18398*)
+  9: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18401*)
     → "Why, she can be found in Chateau d'Oraguille, located to the northeast of here. [However, I would not expect the guards there to let you pass./You cannot miss it.]"
  10: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x01A7 [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 7*
  12: 0x01AE [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
- 13: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18399*)
+ 13: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=18402*)
     → "I must bid you adieu. May glory shine upon you, and on the grand nation of San d'Oria!"
  14: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01B7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

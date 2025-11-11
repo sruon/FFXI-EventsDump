@@ -1,5 +1,5 @@
 # Strings for Misareaux Coast
-# Total: 8905 strings
+# Total: 8897 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -8898,11 +8898,3 @@
  8894: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
  8895: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
  8896: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
- 8897: You found a pumpkin containing $0!
- 8898: You have found a pumpkin with $0 inside!
- 8899: You have found all the pumpkins!
- 8900: You have found seven or more pumpkins!
- 8901: You sense the presence of a pumpkin in this area!
- 8902: You have discovered a pumpkin! Cutting it open, you find $0 inside!
- 8903: This pumpkin has already been claimed.
- 8904: You have discovered five or more pumpkins!

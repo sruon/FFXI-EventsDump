@@ -22,27 +22,27 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0008      |           8 |
-|       2 | 0x33DF      |       13279 |
+|       2 | 0x33E2      |       13282 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x33F1      |       13297 |
+|       4 | 0x33F4      |       13300 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x33F2      |       13298 |
-|       7 | 0x33E1      |       13281 |
-|       8 | 0x33F3      |       13299 |
-|       9 | 0x33F4      |       13300 |
-|      10 | 0x33F5      |       13301 |
-|      11 | 0x33F6      |       13302 |
-|      12 | 0x33F7      |       13303 |
+|       6 | 0x33F5      |       13301 |
+|       7 | 0x33E4      |       13284 |
+|       8 | 0x33F6      |       13302 |
+|       9 | 0x33F7      |       13303 |
+|      10 | 0x33F8      |       13304 |
+|      11 | 0x33F9      |       13305 |
+|      12 | 0x33FA      |       13306 |
 |      13 | 0x000A      |          10 |
-|      14 | 0x33E4      |       13284 |
-|      15 | 0x33E5      |       13285 |
+|      14 | 0x33E7      |       13287 |
+|      15 | 0x33E8      |       13288 |
 |      16 | 0x0012      |          18 |
 |      17 | 0x0013      |          19 |
-|      18 | 0x33E6      |       13286 |
+|      18 | 0x33E9      |       13289 |
 |      19 | 0x0003      |           3 |
-|      20 | 0x33E0      |       13280 |
-|      21 | 0x33E2      |       13282 |
-|      22 | 0x33E3      |       13283 |
+|      20 | 0x33E3      |       13283 |
+|      21 | 0x33E5      |       13285 |
+|      22 | 0x33E6      |       13286 |
 |      23 | 0x00C8      |         200 |
 |      24 | 0x001B      |          27 |
 |      25 | 0x000C      |          12 |
@@ -70,44 +70,44 @@
 |      47 | 0x003C      |          60 |
 |      48 | 0x0151      |         337 |
 |      49 | 0x000F      |          15 |
-|      50 | 0x33E7      |       13287 |
-|      51 | 0x33EC      |       13292 |
-|      52 | 0x33ED      |       13293 |
-|      53 | 0x33EB      |       13291 |
+|      50 | 0x33EA      |       13290 |
+|      51 | 0x33EF      |       13295 |
+|      52 | 0x33F0      |       13296 |
+|      53 | 0x33EE      |       13294 |
 |      54 | 0x0014      |          20 |
-|      55 | 0x33E8      |       13288 |
-|      56 | 0x33E9      |       13289 |
+|      55 | 0x33EB      |       13291 |
+|      56 | 0x33EC      |       13292 |
 |      57 | 0x0009      |           9 |
-|      58 | 0x33EA      |       13290 |
+|      58 | 0x33ED      |       13293 |
 |      59 | 0x0023      |          35 |
 |      60 | 0x0011      |          17 |
-|      61 | 0x33FA      |       13306 |
+|      61 | 0x33FD      |       13309 |
 
 ## String References
 
-- **13279**: Hellooo! Welcome to the Chocobo Chick Catchery!
-- **13280**: What would you like to do? [Learn how to play./Check current high score./Have a go!/Nothing.]
-- **13281**: Catch as many chicks as you can by moving the chocobo left and rightaru. But make sure you don't pick up any mandragoras by mistakey-wake! That'll mean the end of the game!
-- **13282**: You need to catch at leastaru 20 chicks in one minute to clear the game.
-- **13283**: Current high score: $0 [chick/chicks]. Record holder: %0.
-- **13284**: It's $0 gil to play.
-- **13285**: Play the game? (You have $0 gil.) [Play./Don't play.]
-- **13286**: Thank you, and good luck!
-- **13287**: Move which direction? [Right./Left.]
-- **13288**: [Excellentaru!/Awww...] You caught $2 [chick/chicks].
-- **13289**: Well, whataru do you know? It's a new record!
-- **13290**: Here's your hard-earned prize.
-- **13291**: I'll see you again.
-- **13292**: Ahhh! A premature exitaru!
-- **13293**: You're not supposed to catch mandragoras.
-- **13297**: Phew...is it just me, or is it getting hot in here? Man, you look greataru in that outfit! You should try playing the game in hard mode!
-- **13298**: What would you like to do? [Learn how to play./Check current high score./Play normal mode./Try hard mode./Nothing.]
-- **13299**: In normal mode, you need to catch only 20 chicks in one minute to clear the game.
-- **13300**: But it's no cakewalk in hard mode. You'll need at leastaru 35!
-- **13301**: Check high score for which mode? [Normal mode./Hard mode./Don't check.]
-- **13302**: Normal mode high score: $0 [chick/chicks]. Record holder: %0.
-- **13303**: Hard mode high score: $1 [chick/chicks]. Record holder: %1.
-- **13306**: You're on fire, adventurer! A red-hotaru display like that deserves a cool, cool prize. Here you go!
+- **13282**: Hellooo! Welcome to the Chocobo Chick Catchery!
+- **13283**: What would you like to do? [Learn how to play./Check current high score./Have a go!/Nothing.]
+- **13284**: Catch as many chicks as you can by moving the chocobo left and rightaru. But make sure you don't pick up any mandragoras by mistakey-wake! That'll mean the end of the game!
+- **13285**: You need to catch at leastaru 20 chicks in one minute to clear the game.
+- **13286**: Current high score: $0 [chick/chicks]. Record holder: %0.
+- **13287**: It's $0 gil to play.
+- **13288**: Play the game? (You have $0 gil.) [Play./Don't play.]
+- **13289**: Thank you, and good luck!
+- **13290**: Move which direction? [Right./Left.]
+- **13291**: [Excellentaru!/Awww...] You caught $2 [chick/chicks].
+- **13292**: Well, whataru do you know? It's a new record!
+- **13293**: Here's your hard-earned prize.
+- **13294**: I'll see you again.
+- **13295**: Ahhh! A premature exitaru!
+- **13296**: You're not supposed to catch mandragoras.
+- **13300**: Phew...is it just me, or is it getting hot in here? Man, you look greataru in that outfit! You should try playing the game in hard mode!
+- **13301**: What would you like to do? [Learn how to play./Check current high score./Play normal mode./Try hard mode./Nothing.]
+- **13302**: In normal mode, you need to catch only 20 chicks in one minute to clear the game.
+- **13303**: But it's no cakewalk in hard mode. You'll need at leastaru 35!
+- **13304**: Check high score for which mode? [Normal mode./Hard mode./Don't check.]
+- **13305**: Normal mode high score: $0 [chick/chicks]. Record holder: %0.
+- **13306**: Hard mode high score: $1 [chick/chicks]. Record holder: %1.
+- **13309**: You're on fire, adventurer! A red-hotaru display like that deserves a cool, cool prize. Here you go!
 
 ## Events
 
@@ -271,39 +271,39 @@
   7: 0x001E [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[3]
   8: 0x0023 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[5]
   9: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 10: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=13279*)
+ 10: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=13282*)
     → "Hellooo! Welcome to the Chocobo Chick Catchery!"
  11: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0031 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0192
  13: 0x0039 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 14: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=13297*)
+ 14: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
     → "Phew...is it just me, or is it getting hot in here? Man, you look greataru in that outfit! You should try playing the game in hard mode!"
  15: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0042 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0057
  17: 0x004A [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0057
  18: 0x0052 [0x03] ExtData[1]->WorkLocal[0] = 2*
- 19: 0x0057 [0x24] CREATE_DIALOG(message_id=13298*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 19: 0x0057 [0x24] CREATE_DIALOG(message_id=13301*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What would you like to do? [Learn how to play./Check current high score./Play normal mode./Try hard mode./Nothing.]"
  20: 0x005E [0x25] WAIT_DIALOG_SELECT()
  21: 0x005F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0079
- 22: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=13281*)
+ 22: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=13284*)
     → "Catch as many chicks as you can by moving the chocobo left and rightaru. But make sure you don't pick up any mandragoras by mistakey-wake! That'll mean the end of the game!"
  23: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=13299*)
+ 24: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=13302*)
     → "In normal mode, you need to catch only 20 chicks in one minute to clear the game."
  25: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+ 26: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=13303*)
     → "But it's no cakewalk in hard mode. You'll need at leastaru 35!"
  27: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0073 [0x01] GOTO 0x0057
 
 SUBROUTINE_00A6:
- 29: 0x00A6 [0x24] CREATE_DIALOG(message_id=13301*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 29: 0x00A6 [0x24] CREATE_DIALOG(message_id=13304*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Check high score for which mode? [Normal mode./Hard mode./Don't check.]"
  30: 0x00AD [0x25] WAIT_DIALOG_SELECT()
  31: 0x00AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C5
  32: 0x00B6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 33: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13302*)
+ 33: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13305*)
     → "Normal mode high score: $0 [chick/chicks]. Record holder: %0."
  34: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00BF [0x01] GOTO 0x00A6
@@ -317,20 +317,20 @@ SUBROUTINE_0112:
  39: 0x0119 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  40: 0x011B [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0133
  41: 0x0123 [0x40] SET_BIT_WORK_RANGE(start_bit=18*, end_bit=19*, target=Work_Zone[1], source=1*)
- 42: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=13286*)
+ 42: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=13289*)
     → "Thank you, and good luck!"
  43: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0130 [0x1A] CALL_SUBROUTINE(address=0x022A)
  45: 0x0133 [0x01] GOTO 0x018F
  46: 0x0136 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x018F
  47: 0x013E [0x03] Work_Zone[2] = 10*
- 48: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=13284*)
+ 48: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=13287*)
     → "It's $0 gil to play."
  49: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0147 [0x03] Work_Zone[1] = 1*
  51: 0x014C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  52: 0x014E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 53: 0x0150 [0x24] CREATE_DIALOG(message_id=13285*, default_option=1*, option_flags=0*)
+ 53: 0x0150 [0x24] CREATE_DIALOG(message_id=13288*, default_option=1*, option_flags=0*)
     → "Play the game? (You have $0 gil.) [Play./Don't play.]"
  54: 0x0157 [0x25] WAIT_DIALOG_SELECT()
  55: 0x0158 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0166
@@ -343,7 +343,7 @@ SUBROUTINE_0166:
  60: 0x016F [0x03] Work_Zone[88] = 1*
  61: 0x0174 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x018C
  62: 0x017C [0x40] SET_BIT_WORK_RANGE(start_bit=18*, end_bit=19*, target=Work_Zone[1], source=1*)
- 63: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=13286*)
+ 63: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=13289*)
     → "Thank you, and good luck!"
  64: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0189 [0x1A] CALL_SUBROUTINE(address=0x022A)
@@ -355,14 +355,14 @@ SUBROUTINE_018F:
  69: 0x019A [0x03] ExtData[1]->WorkLocal[0] = 2*
 
 SUBROUTINE_019F:
- 70: 0x019F [0x24] CREATE_DIALOG(message_id=13280*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 70: 0x019F [0x24] CREATE_DIALOG(message_id=13283*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What would you like to do? [Learn how to play./Check current high score./Have a go!/Nothing.]"
  71: 0x01A6 [0x25] WAIT_DIALOG_SELECT()
  72: 0x01A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BD
- 73: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=13281*)
+ 73: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=13284*)
     → "Catch as many chicks as you can by moving the chocobo left and rightaru. But make sure you don't pick up any mandragoras by mistakey-wake! That'll mean the end of the game!"
  74: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13282*)
+ 75: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13285*)
     → "You need to catch at leastaru 20 chicks in one minute to clear the game."
  76: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x01B7 [0x01] GOTO 0x019F
@@ -373,7 +373,7 @@ SUBROUTINE_0204:
  80: 0x020B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  81: 0x020D [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0225
  82: 0x0215 [0x40] SET_BIT_WORK_RANGE(start_bit=18*, end_bit=19*, target=Work_Zone[1], source=1*)
- 83: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=13286*)
+ 83: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=13289*)
     → "Thank you, and good luck!"
  84: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0222 [0x1A] CALL_SUBROUTINE(address=0x022A)
@@ -480,7 +480,7 @@ SUBROUTINE_022A:
 
 SUBROUTINE_04D7:
 182: 0x04D7 [0x02] IF !(Work_Zone[82] == 0*) GOTO 0x0580
-183: 0x04DF [0x24] CREATE_DIALOG(message_id=13287*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+183: 0x04DF [0x24] CREATE_DIALOG(message_id=13290*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Move which direction? [Right./Left.]"
 184: 0x04E6 [0x25] WAIT_DIALOG_SELECT()
 185: 0x04E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0532
@@ -518,7 +518,7 @@ SUBROUTINE_057D:
 211: 0x0591 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
 212: 0x05A0 [0x02] IF !(Work_Zone[82] == 2*) GOTO 0x05BD
 213: 0x05A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "owri" with entities [EventEntity, EventEntity], work=[337*, 0*]
-214: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13292*)
+214: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13295*)
     → "Ahhh! A premature exitaru!"
 215: 0x05BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x05BD [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=337*
@@ -530,10 +530,10 @@ SUBROUTINE_057D:
 222: 0x05DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
 223: 0x05EB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
 224: 0x05FA [0x02] IF !(Work_Zone[82] == 2*) GOTO 0x060D
-225: 0x0602 [0x1D] PRINT_EVENT_MESSAGE(message_id=13293*)
+225: 0x0602 [0x1D] PRINT_EVENT_MESSAGE(message_id=13296*)
     → "You're not supposed to catch mandragoras."
 226: 0x0605 [0x23] WAIT_FOR_DIALOG_INTERACTION
-227: 0x0606 [0x1D] PRINT_EVENT_MESSAGE(message_id=13291*)
+227: 0x0606 [0x1D] PRINT_EVENT_MESSAGE(message_id=13294*)
     → "I'll see you again."
 228: 0x0609 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x060A [0x01] GOTO 0x06D5
@@ -542,15 +542,15 @@ SUBROUTINE_057D:
 232: 0x061D [0x03] Work_Zone[2] = 0*
 233: 0x0622 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 234: 0x0627 [0x03] Work_Zone[4] = Work_Zone[81]
-235: 0x062C [0x1D] PRINT_EVENT_MESSAGE(message_id=13288*)
+235: 0x062C [0x1D] PRINT_EVENT_MESSAGE(message_id=13291*)
     → "[Excellentaru!/Awww...] You caught $2 [chick/chicks]."
 236: 0x062F [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x0630 [0x02] IF !(ExtData[1]->WorkLocal[2] >= Work_Zone[81]) GOTO 0x0645
-238: 0x0638 [0x1D] PRINT_EVENT_MESSAGE(message_id=13289*)
+238: 0x0638 [0x1D] PRINT_EVENT_MESSAGE(message_id=13292*)
     → "Well, whataru do you know? It's a new record!"
 239: 0x063B [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x063C [0x40] SET_BIT_WORK_RANGE(start_bit=2*, end_bit=9*, target=Work_Zone[1], source=Work_Zone[81])
-241: 0x0645 [0x1D] PRINT_EVENT_MESSAGE(message_id=13290*)
+241: 0x0645 [0x1D] PRINT_EVENT_MESSAGE(message_id=13293*)
     → "Here's your hard-earned prize."
 242: 0x0648 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x0649 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=0*)
@@ -558,10 +558,10 @@ SUBROUTINE_057D:
 245: 0x0655 [0x03] Work_Zone[2] = 1*
 246: 0x065A [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 247: 0x065F [0x03] Work_Zone[4] = Work_Zone[81]
-248: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=13288*)
+248: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=13291*)
     → "[Excellentaru!/Awww...] You caught $2 [chick/chicks]."
 249: 0x0667 [0x23] WAIT_FOR_DIALOG_INTERACTION
-250: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=13291*)
+250: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=13294*)
     → "I'll see you again."
 251: 0x066B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -571,20 +571,20 @@ SUBROUTINE_066C:
 254: 0x0677 [0x03] Work_Zone[2] = 0*
 255: 0x067C [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 256: 0x0681 [0x03] Work_Zone[4] = Work_Zone[81]
-257: 0x0686 [0x1D] PRINT_EVENT_MESSAGE(message_id=13288*)
+257: 0x0686 [0x1D] PRINT_EVENT_MESSAGE(message_id=13291*)
     → "[Excellentaru!/Awww...] You caught $2 [chick/chicks]."
 258: 0x0689 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x068A [0x02] IF !(ExtData[1]->WorkLocal[3] >= Work_Zone[81]) GOTO 0x069F
-260: 0x0692 [0x1D] PRINT_EVENT_MESSAGE(message_id=13289*)
+260: 0x0692 [0x1D] PRINT_EVENT_MESSAGE(message_id=13292*)
     → "Well, whataru do you know? It's a new record!"
 261: 0x0695 [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x0696 [0x40] SET_BIT_WORK_RANGE(start_bit=10*, end_bit=17*, target=Work_Zone[1], source=Work_Zone[81])
 263: 0x069F [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x06AE
-264: 0x06A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13306*)
+264: 0x06A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13309*)
     → "You're on fire, adventurer! A red-hotaru display like that deserves a cool, cool prize. Here you go!"
 265: 0x06AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x06AB [0x01] GOTO 0x06B2
-267: 0x06AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13290*)
+267: 0x06AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13293*)
     → "Here's your hard-earned prize."
 268: 0x06B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -594,10 +594,10 @@ SUBROUTINE_06B2:
 271: 0x06BE [0x03] Work_Zone[2] = 1*
 272: 0x06C3 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
 273: 0x06C8 [0x03] Work_Zone[4] = Work_Zone[81]
-274: 0x06CD [0x1D] PRINT_EVENT_MESSAGE(message_id=13288*)
+274: 0x06CD [0x1D] PRINT_EVENT_MESSAGE(message_id=13291*)
     → "[Excellentaru!/Awww...] You caught $2 [chick/chicks]."
 275: 0x06D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x06D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13291*)
+276: 0x06D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13294*)
     → "I'll see you again."
 277: 0x06D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

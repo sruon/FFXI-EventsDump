@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x235F      |        9055 |
+|       0 | 0x2360      |        9056 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0248      |         584 |
 |       3 | 0x000C      |          12 |
@@ -31,7 +31,7 @@
 
 ## String References
 
-- **9055**: Change to what map? [Inside Adoulin Castle./Event-only Room./z210/Don't change!]
+- **9056**: Change to what map? [Inside Adoulin Castle./Event-only Room./z210/Don't change!]
 
 ## Events
 
@@ -80,7 +80,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=9055*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=9056*, default_option=0*, option_flags=0*)
     → "Change to what map? [Inside Adoulin Castle./Event-only Room./z210/Don't change!]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001C

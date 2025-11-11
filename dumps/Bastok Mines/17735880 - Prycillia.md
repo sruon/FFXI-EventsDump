@@ -29,23 +29,23 @@
 |       3 | 0x0004      |           4 |
 |       4 | 0x001E      |          30 |
 |       5 | 0x0013      |          19 |
-|       6 | 0x3E42      |       15938 |
+|       6 | 0x3E45      |       15941 |
 |       7 | 0x000A      |          10 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x3E29      |       15913 |
-|      10 | 0x3E2A      |       15914 |
+|       9 | 0x3E2C      |       15916 |
+|      10 | 0x3E2D      |       15917 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x3E2C      |       15916 |
+|      12 | 0x3E2F      |       15919 |
 |      13 | 0x003C      |          60 |
 |      14 | 0x001F      |          31 |
-|      15 | 0x3E15      |       15893 |
-|      16 | 0x3E12      |       15890 |
-|      17 | 0x3E13      |       15891 |
-|      18 | 0x3E14      |       15892 |
-|      19 | 0x3E16      |       15894 |
-|      20 | 0x3E17      |       15895 |
-|      21 | 0x3E18      |       15896 |
-|      22 | 0x3E19      |       15897 |
+|      15 | 0x3E18      |       15896 |
+|      16 | 0x3E15      |       15893 |
+|      17 | 0x3E16      |       15894 |
+|      18 | 0x3E17      |       15895 |
+|      19 | 0x3E19      |       15897 |
+|      20 | 0x3E1A      |       15898 |
+|      21 | 0x3E1B      |       15899 |
+|      22 | 0x3E1C      |       15900 |
 |      23 | 0x001B      |          27 |
 |      24 | 0x000F      |          15 |
 |      25 | 0xFFFDE8D8  |  4294830296 |
@@ -61,17 +61,17 @@
 |      35 | 0x1D4C      |        7500 |
 |      36 | 0x004C      |          76 |
 |      37 | 0x0078      |         120 |
-|      38 | 0x3E2D      |       15917 |
+|      38 | 0x3E30      |       15920 |
 |      39 | 0x00B4      |         180 |
 |      40 | 0xFFFFFE01  |  4294966785 |
-|      41 | 0x3E1A      |       15898 |
-|      42 | 0x3E1B      |       15899 |
+|      41 | 0x3E1D      |       15901 |
+|      42 | 0x3E1E      |       15902 |
 |      43 | 0x0020      |          32 |
-|      44 | 0x3E1C      |       15900 |
+|      44 | 0x3E1F      |       15903 |
 |      45 | 0x0005      |           5 |
 |      46 | 0x0006      |           6 |
-|      47 | 0x3E1D      |       15901 |
-|      48 | 0x3E1E      |       15902 |
+|      47 | 0x3E20      |       15904 |
+|      48 | 0x3E21      |       15905 |
 |      49 | 0x0098      |         152 |
 |      50 | 0xAFC8      |       45000 |
 |      51 | 0xFFFEB7E0  |  4294883296 |
@@ -93,22 +93,22 @@
 |      67 | 0x0016      |          22 |
 |      68 | 0x0017      |          23 |
 |      69 | 0x0018      |          24 |
-|      70 | 0x3E23      |       15907 |
-|      71 | 0x3E24      |       15908 |
-|      72 | 0x3E25      |       15909 |
-|      73 | 0x3E26      |       15910 |
-|      74 | 0x3E27      |       15911 |
-|      75 | 0x3E28      |       15912 |
-|      76 | 0x3E20      |       15904 |
+|      70 | 0x3E26      |       15910 |
+|      71 | 0x3E27      |       15911 |
+|      72 | 0x3E28      |       15912 |
+|      73 | 0x3E29      |       15913 |
+|      74 | 0x3E2A      |       15914 |
+|      75 | 0x3E2B      |       15915 |
+|      76 | 0x3E23      |       15907 |
 |      77 | 0x11C1      |        4545 |
 |      78 | 0x15E5      |        5605 |
 |      79 | 0x15E6      |        5606 |
-|      80 | 0x3E21      |       15905 |
-|      81 | 0x3E22      |       15906 |
-|      82 | 0x3E1F      |       15903 |
+|      80 | 0x3E24      |       15908 |
+|      81 | 0x3E25      |       15909 |
+|      82 | 0x3E22      |       15906 |
 |      83 | 0x15E7      |        5607 |
 |      84 | 0x15E8      |        5608 |
-|      85 | 0x3E2B      |       15915 |
+|      85 | 0x3E2E      |       15918 |
 |      86 | 0xFFFE3022  |  4294848546 |
 |      87 | 0xFFFFE0C0  |  4294959296 |
 |      88 | 0xFFFE2A46  |  4294847046 |
@@ -139,19 +139,19 @@
 |     113 | 0xFFFE3310  |  4294849296 |
 |     114 | 0xFFFE4986  |  4294855046 |
 |     115 | 0x1F40      |        8000 |
-|     116 | 0x3E2E      |       15918 |
-|     117 | 0x3E2F      |       15919 |
-|     118 | 0x3E30      |       15920 |
-|     119 | 0x3E43      |       15939 |
-|     120 | 0x3E33      |       15923 |
-|     121 | 0x3E34      |       15924 |
+|     116 | 0x3E31      |       15921 |
+|     117 | 0x3E32      |       15922 |
+|     118 | 0x3E33      |       15923 |
+|     119 | 0x3E46      |       15942 |
+|     120 | 0x3E36      |       15926 |
+|     121 | 0x3E37      |       15927 |
 |     122 | 0x00FA      |         250 |
-|     123 | 0x3E31      |       15921 |
-|     124 | 0x3E32      |       15922 |
-|     125 | 0x3E38      |       15928 |
-|     126 | 0x3E35      |       15925 |
-|     127 | 0x3E36      |       15926 |
-|     128 | 0x3E37      |       15927 |
+|     123 | 0x3E34      |       15924 |
+|     124 | 0x3E35      |       15925 |
+|     125 | 0x3E3B      |       15931 |
+|     126 | 0x3E38      |       15928 |
+|     127 | 0x3E39      |       15929 |
+|     128 | 0x3E3A      |       15930 |
 |     129 | 0xFFFF09E8  |  4294904296 |
 |     130 | 0x0BFF      |        3071 |
 |     131 | 0xFFFE40BC  |  4294852796 |
@@ -174,70 +174,70 @@
 |     148 | 0xFFFFE890  |  4294961296 |
 |     149 | 0x09C4      |        2500 |
 |     150 | 0xFFFFD8F0  |  4294957296 |
-|     151 | 0x3E39      |       15929 |
-|     152 | 0x3E3A      |       15930 |
-|     153 | 0x3E3B      |       15931 |
-|     154 | 0x3E3C      |       15932 |
+|     151 | 0x3E3C      |       15932 |
+|     152 | 0x3E3D      |       15933 |
+|     153 | 0x3E3E      |       15934 |
+|     154 | 0x3E3F      |       15935 |
 |     155 | 0xFFFFF63C  |  4294964796 |
 |     156 | 0xFFFFE2B4  |  4294959796 |
 |     157 | 0xFFFFF830  |  4294965296 |
 |     158 | 0x0088      |         136 |
-|     159 | 0x3E3D      |       15933 |
-|     160 | 0x3E3E      |       15934 |
+|     159 | 0x3E40      |       15936 |
+|     160 | 0x3E41      |       15937 |
 |     161 | 0x00FB      |         251 |
-|     162 | 0x3E3F      |       15935 |
-|     163 | 0x3E41      |       15937 |
-|     164 | 0x3E40      |       15936 |
+|     162 | 0x3E42      |       15938 |
+|     163 | 0x3E44      |       15940 |
+|     164 | 0x3E43      |       15939 |
 
 ## String References
 
-- **15890**: A fair day to you, kind [sir/madam]! I am [Niscoliette/Prycillia/Chabobo], assistant to Atelloune. I suppose that makes me assistant to the assistant of his eminence, the great Professor Clavauert!
-- **15891**: We have made a fascinating discovery--chocobos, just like humans, are capable of falling in love!
-- **15892**: And you, my friend, come at the most fortuitous of times. How would you like to help me, erm...spur on the emotions of lovelorn chocobos?
-- **15893**: Too hoo hoo, came to lend your aid once more? (More data for my thesis...splendid!)
-- **15894**: Up for some chocobo matchmaking? [I'm always up for a new experience!/It'll only "breed" contempt.]
-- **15895**: Splendiferous! And just so we're clear, this is all for the benefit of the chocobos. I wouldn't even THINK of using you for my own research gains!
-- **15896**: Is that so? I guess winning battles of the flesh doesn't mean you can win battles of the heart. Amateur.
-- **15897**: If you change your mind, you know where to find me. (<Sigh> I'll have to actually do my own research for once.)
-- **15898**: So, what's the first way into someone's heart? Presents! First, you'll need to search for and "dig up" a tantalizing gift!
-- **15899**: You've only got $0 tries. Remember, the more gifts you give to chocobos, the more easily they swoon. Such simple creatures.
-- **15900**: Select a [row/column]. (Attempt No. $1) [No. 1./No. 2./No. 3./No. 4./No. 5./Reselect row./Abandon this endeavor.]
-- **15901**: Truly let it wither on the vine? [Love. Bah./No! We must cultivate!]
-- **15902**: How callous! All I wanted was to bring in dat...I mean bring darling chocobos together as soul mates!
-- **15905**: The chocobo has unearthed $2!
-- **15906**: $2! Way to show me how it's done! [/What a wonderful gift!/This'll make the best present ever!t]
-- **15908**: You didn't find anything.
-- **15909**: Why, it's like the locations of these presents change depending on the day! Hmm? "Why do I know these things?" Silly, I'm a scholar!
-- **15910**: It's gotta be related to the day of the week. Call it women's intuition!
-- **15911**: Oh, come on! Cupid's arrows are supposed to strike true, not go tumbling to the ground!
-- **15912**: The chocobo whimpers in despair.
-- **15913**: Maybe he'll perk up a bit later? Why don't you give it another go then?
-- **15914**: You know what I do when I'm depressed? Eat some sweets. Maybe this poor fella just needs to eat something to cheer him up.
-- **15915**: Now that we've got a present, it's time for step two!
-- **15916**: Well, well, just what have you brought me? Oh, yes, this will do nicely. Our chocobo friend will be back up and kweh-ing in no time!
-- **15917**: The chocobo has a special twinkle in his eye.
-- **15918**: Next up: sweet nothings! Can't win the affections of the fairer sex without a silver tongue!
-- **15919**: Though they may not be able to comprehend your words, the language of love is universal!
-- **15920**: You've got a total of $0 chances. Think of it like speed dating! The glibber your jibe, the more they swoon!
-- **15921**: The chocobo is completely smitten!
-- **15922**: Absolutely perfect! You're no stranger to love, that's for sure!
-- **15923**: What's this? No sweet nothings? Yes, yes, I know that true love needs no words, but when a romance is still budding, you've got to give it your all! Or...would you rather call it quits?
-- **15924**: Most wondrous! Now that report of mine will be...<cough> Excuse me. What? Why are you looking at me like that? Quick, out with the magical phrase!
-- **15925**: The chocobo blinks and cocks his head to one side.
-- **15926**: Hmm... Maybe if you didn't beat around the bush? Try telling it like it is.
-- **15927**: Maybe these baby chocobos can provide some kind of hint?
-- **15928**: Now that you've found just the right words, it's time to take things to the next level!
-- **15929**: According to my volumes of data, it seems [you two have a chilly relationship, but don't give up yet!/you're on the cusp of winning its heart./you two are on fire! You might as well get hitched!]
-- **15930**: Speed! Luck! Come on, [hon/sweetie], love isn't a battlefield, it's a race!
-- **15931**: Which route to pursue? [Route 1. [(Taken by rival.)//]/Route 2. [/(Taken by rival.)/]/Route 3. [//(Taken by rival.)]/Cast your fate to Lady Luck!/Give up...at this late stage.]
-- **15932**: Route $0 has already been selected by your rival.
-- **15933**: Let's get this party started!
-- **15934**: Aw, you poor thing, looks like you chose the wrong path to love.
-- **15935**: W-wow! What a turn of events! Love knows no bounds, as the saying goes! Just wait until the profess... I mean, uh, good going!
-- **15936**: After all that hard work you did with your lovely present and those three magic words... Maybe love is all about luck and timing after all.
-- **15937**: Well done! My little cupid has veritable wings sprouting from [his/her] back! The more love, the more data...dates! Dates they will go on!
-- **15938**: With all you've done for me...err, the chocobos, it's only fair that I give you a little something in return. A token of my appreciation, if you will. Of course, you're welcome to come back any time!
-- **15939**: STEP2_DEBUGF%0.
+- **15893**: A fair day to you, kind [sir/madam]! I am [Niscoliette/Prycillia/Chabobo], assistant to Atelloune. I suppose that makes me assistant to the assistant of his eminence, the great Professor Clavauert!
+- **15894**: We have made a fascinating discovery--chocobos, just like humans, are capable of falling in love!
+- **15895**: And you, my friend, come at the most fortuitous of times. How would you like to help me, erm...spur on the emotions of lovelorn chocobos?
+- **15896**: Too hoo hoo, came to lend your aid once more? (More data for my thesis...splendid!)
+- **15897**: Up for some chocobo matchmaking? [I'm always up for a new experience!/It'll only "breed" contempt.]
+- **15898**: Splendiferous! And just so we're clear, this is all for the benefit of the chocobos. I wouldn't even THINK of using you for my own research gains!
+- **15899**: Is that so? I guess winning battles of the flesh doesn't mean you can win battles of the heart. Amateur.
+- **15900**: If you change your mind, you know where to find me. (<Sigh> I'll have to actually do my own research for once.)
+- **15901**: So, what's the first way into someone's heart? Presents! First, you'll need to search for and "dig up" a tantalizing gift!
+- **15902**: You've only got $0 tries. Remember, the more gifts you give to chocobos, the more easily they swoon. Such simple creatures.
+- **15903**: Select a [row/column]. (Attempt No. $1) [No. 1./No. 2./No. 3./No. 4./No. 5./Reselect row./Abandon this endeavor.]
+- **15904**: Truly let it wither on the vine? [Love. Bah./No! We must cultivate!]
+- **15905**: How callous! All I wanted was to bring in dat...I mean bring darling chocobos together as soul mates!
+- **15908**: The chocobo has unearthed $2!
+- **15909**: $2! Way to show me how it's done! [/What a wonderful gift!/This'll make the best present ever!t]
+- **15911**: You didn't find anything.
+- **15912**: Why, it's like the locations of these presents change depending on the day! Hmm? "Why do I know these things?" Silly, I'm a scholar!
+- **15913**: It's gotta be related to the day of the week. Call it women's intuition!
+- **15914**: Oh, come on! Cupid's arrows are supposed to strike true, not go tumbling to the ground!
+- **15915**: The chocobo whimpers in despair.
+- **15916**: Maybe he'll perk up a bit later? Why don't you give it another go then?
+- **15917**: You know what I do when I'm depressed? Eat some sweets. Maybe this poor fella just needs to eat something to cheer him up.
+- **15918**: Now that we've got a present, it's time for step two!
+- **15919**: Well, well, just what have you brought me? Oh, yes, this will do nicely. Our chocobo friend will be back up and kweh-ing in no time!
+- **15920**: The chocobo has a special twinkle in his eye.
+- **15921**: Next up: sweet nothings! Can't win the affections of the fairer sex without a silver tongue!
+- **15922**: Though they may not be able to comprehend your words, the language of love is universal!
+- **15923**: You've got a total of $0 chances. Think of it like speed dating! The glibber your jibe, the more they swoon!
+- **15924**: The chocobo is completely smitten!
+- **15925**: Absolutely perfect! You're no stranger to love, that's for sure!
+- **15926**: What's this? No sweet nothings? Yes, yes, I know that true love needs no words, but when a romance is still budding, you've got to give it your all! Or...would you rather call it quits?
+- **15927**: Most wondrous! Now that report of mine will be...<cough> Excuse me. What? Why are you looking at me like that? Quick, out with the magical phrase!
+- **15928**: The chocobo blinks and cocks his head to one side.
+- **15929**: Hmm... Maybe if you didn't beat around the bush? Try telling it like it is.
+- **15930**: Maybe these baby chocobos can provide some kind of hint?
+- **15931**: Now that you've found just the right words, it's time to take things to the next level!
+- **15932**: According to my volumes of data, it seems [you two have a chilly relationship, but don't give up yet!/you're on the cusp of winning its heart./you two are on fire! You might as well get hitched!]
+- **15933**: Speed! Luck! Come on, [hon/sweetie], love isn't a battlefield, it's a race!
+- **15934**: Which route to pursue? [Route 1. [(Taken by rival.)//]/Route 2. [/(Taken by rival.)/]/Route 3. [//(Taken by rival.)]/Cast your fate to Lady Luck!/Give up...at this late stage.]
+- **15935**: Route $0 has already been selected by your rival.
+- **15936**: Let's get this party started!
+- **15937**: Aw, you poor thing, looks like you chose the wrong path to love.
+- **15938**: W-wow! What a turn of events! Love knows no bounds, as the saying goes! Just wait until the profess... I mean, uh, good going!
+- **15939**: After all that hard work you did with your lovely present and those three magic words... Maybe love is all about luck and timing after all.
+- **15940**: Well done! My little cupid has veritable wings sprouting from [his/her] back! The more love, the more data...dates! Dates they will go on!
+- **15941**: With all you've done for me...err, the chocobos, it's only fair that I give you a little something in return. A token of my appreciation, if you will. Of course, you're welcome to come back any time!
+- **15942**: STEP2_DEBUGF%0.
 
 ## Events
 
@@ -331,7 +331,7 @@
  11: 0x0041 [0x1E] EventEntity looks at LocalPlayer and starts talking
  12: 0x0046 [0x1C] WAIT(30* ticks)
  13: 0x0049 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
- 14: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=15938*)
+ 14: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=15941*)
     → "With all you've done for me...err, the chocobos, it's only fair that I give you a little something in return. A token of my appreciation, if you will. Of course, you're welcome to come back any time!"
  15: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x005C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -343,12 +343,12 @@
  22: 0x0094 [0x1E] EventEntity looks at LocalPlayer and starts talking
  23: 0x0099 [0x1C] WAIT(30* ticks)
  24: 0x009C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
- 25: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=15913*)
+ 25: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=15916*)
     → "Maybe he'll perk up a bit later? Why don't you give it another go then?"
  26: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
  28: 0x00BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=19*
- 29: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=15914*)
+ 29: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=15917*)
     → "You know what I do when I'm depressed? Eat some sweets. Maybe this poor fella just needs to eat something to cheer him up."
  30: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=19*
@@ -358,7 +358,7 @@
  35: 0x00E9 [0x1E] EventEntity looks at LocalPlayer and starts talking
  36: 0x00EE [0x1C] WAIT(30* ticks)
  37: 0x00F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
- 38: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=15916*)
+ 38: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=15919*)
     → "Well, well, just what have you brought me? Oh, yes, this will do nicely. Our chocobo friend will be back up and kweh-ing in no time!"
  39: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0104 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -373,29 +373,29 @@
  49: 0x0146 [0x1C] WAIT(30* ticks)
  50: 0x0149 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
  51: 0x0158 [0x3E] IF !(Work_Zone[2] bit 0*) GOTO 0x0166
- 52: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=15893*)
+ 52: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=15896*)
     → "Too hoo hoo, came to lend your aid once more? (More data for my thesis...splendid!)"
  53: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0163 [0x01] GOTO 0x0172
- 55: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=15890*)
+ 55: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=15893*)
     → "A fair day to you, kind [sir/madam]! I am [Niscoliette/Prycillia/Chabobo], assistant to Atelloune. I suppose that makes me assistant to the assistant of his eminence, the great Professor Clavauert!"
  56: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=15891*)
+ 57: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=15894*)
     → "We have made a fascinating discovery--chocobos, just like humans, are capable of falling in love!"
  58: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=15892*)
+ 59: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=15895*)
     → "And you, my friend, come at the most fortuitous of times. How would you like to help me, erm...spur on the emotions of lovelorn chocobos?"
  60: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0172:
  61: 0x0172 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
- 62: 0x0181 [0x24] CREATE_DIALOG(message_id=15894*, default_option=0*, option_flags=0*)
+ 62: 0x0181 [0x24] CREATE_DIALOG(message_id=15897*, default_option=0*, option_flags=0*)
     → "Up for some chocobo matchmaking? [I'm always up for a new experience!/It'll only "breed" contempt.]"
  63: 0x0188 [0x25] WAIT_DIALOG_SELECT()
  64: 0x0189 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E4
  65: 0x0191 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  66: 0x0192 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
- 67: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15895*)
+ 67: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15898*)
     → "Splendiferous! And just so we're clear, this is all for the benefit of the chocobos. I wouldn't even THINK of using you for my own research gains!"
  68: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x01A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -408,12 +408,12 @@ SUBROUTINE_0172:
  76: 0x01E1 [0x01] GOTO 0x0233
  77: 0x01E4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0233
  78: 0x01EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=19*
- 79: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=15896*)
+ 79: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=15899*)
     → "Is that so? I guess winning battles of the flesh doesn't mean you can win battles of the heart. Amateur."
  80: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x01FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=19*
  82: 0x020E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
- 83: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=15897*)
+ 83: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=15900*)
     → "If you change your mind, you know where to find me. (<Sigh> I'll have to actually do my own research for once.)"
  84: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0221 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -774,7 +774,7 @@ SUBROUTINE_041F:
 106: 0x04AB [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, Chocobo (ID: 17735881/0x010EA0C9)], work=76*
 107: 0x04B7 [0x1C] WAIT(120* ticks)
 108: 0x04BA [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Chocobo (ID: 17735881/0x010EA0C9), tag_num=0x07)
-109: 0x04C1 [0x48] [System] [15917*]:
+109: 0x04C1 [0x48] [System] [15920*]:
     → "The chocobo has a special twinkle in his eye."
 110: 0x04C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x04C5 [0x01] GOTO 0x04CF
@@ -787,11 +787,11 @@ SUBROUTINE_04CF:
 116: 0x04DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 117: 0x04DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 118: 0x04DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-119: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=15898*)
+119: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=15901*)
     → "So, what's the first way into someone's heart? Presents! First, you'll need to search for and "dig up" a tantalizing gift!"
 120: 0x04EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x04EF [0x03] Work_Zone[2] = 3*
-122: 0x04F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15899*)
+122: 0x04F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=15902*)
     → "You've only got $0 tries. Remember, the more gifts you give to chocobos, the more easily they swoon. Such simple creatures."
 123: 0x04F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x04F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -805,7 +805,7 @@ SUBROUTINE_0517:
 130: 0x051A [0x03] ExtData[1]->WorkLocal[2] = 32*
 131: 0x051F [0x03] Work_Zone[2] = 0*
 132: 0x0524 [0x0B] Work_Zone[3]++
-133: 0x0527 [0x24] CREATE_DIALOG(message_id=15900*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+133: 0x0527 [0x24] CREATE_DIALOG(message_id=15903*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Select a [row/column]. (Attempt No. $1) [No. 1./No. 2./No. 3./No. 4./No. 5./Reselect row./Abandon this endeavor.]"
 134: 0x052E [0x25] WAIT_DIALOG_SELECT()
 135: 0x052F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x053F
@@ -826,12 +826,12 @@ SUBROUTINE_0517:
 150: 0x057F [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x058A
 151: 0x0587 [0x01] GOTO 0x0658
 152: 0x058A [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0658
-153: 0x0592 [0x24] CREATE_DIALOG(message_id=15901*, default_option=1*, option_flags=0*)
+153: 0x0592 [0x24] CREATE_DIALOG(message_id=15904*, default_option=1*, option_flags=0*)
     → "Truly let it wither on the vine? [Love. Bah./No! We must cultivate!]"
 154: 0x0599 [0x25] WAIT_DIALOG_SELECT()
 155: 0x059A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0644
 156: 0x05A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-157: 0x05B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15902*)
+157: 0x05B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15905*)
     → "How callous! All I wanted was to bring in dat...I mean bring darling chocobos together as soul mates!"
 158: 0x05B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x05B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -883,7 +883,7 @@ SUBROUTINE_0658:
 SUBROUTINE_06B7:
 200: 0x06B7 [0x03] ExtData[1]->WorkLocal[2] = 0*
 201: 0x06BC [0x03] Work_Zone[2] = 1*
-202: 0x06C1 [0x24] CREATE_DIALOG(message_id=15900*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+202: 0x06C1 [0x24] CREATE_DIALOG(message_id=15903*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Select a [row/column]. (Attempt No. $1) [No. 1./No. 2./No. 3./No. 4./No. 5./Reselect row./Abandon this endeavor.]"
 203: 0x06C8 [0x25] WAIT_DIALOG_SELECT()
 204: 0x06C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06D9
@@ -1017,47 +1017,47 @@ SUBROUTINE_0AF7:
 326: 0x0AF9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 327: 0x0AFB [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0BF6
 328: 0x0B03 [0x0B] ExtData[1]->WorkLocal[5]++
-329: 0x0B06 [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15907*]:
+329: 0x0B06 [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15910*]:
     → "..."
 330: 0x0B0D [0x23] WAIT_FOR_DIALOG_INTERACTION
-331: 0x0B0E [0x48] [System] [15908*]:
+331: 0x0B0E [0x48] [System] [15911*]:
     → "You didn't find anything."
 332: 0x0B11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x0B12 [0x1C] WAIT(60* ticks)
 334: 0x0B15 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0B42
 335: 0x0B1D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=19*
-336: 0x0B2C [0x1D] PRINT_EVENT_MESSAGE(message_id=15909*)
+336: 0x0B2C [0x1D] PRINT_EVENT_MESSAGE(message_id=15912*)
     → "Why, it's like the locations of these presents change depending on the day! Hmm? "Why do I know these things?" Silly, I'm a scholar!"
 337: 0x0B2F [0x23] WAIT_FOR_DIALOG_INTERACTION
 338: 0x0B30 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=19*
 339: 0x0B3F [0x01] GOTO 0x0BF3
 340: 0x0B42 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x0B6F
 341: 0x0B4A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=19*
-342: 0x0B59 [0x1D] PRINT_EVENT_MESSAGE(message_id=15910*)
+342: 0x0B59 [0x1D] PRINT_EVENT_MESSAGE(message_id=15913*)
     → "It's gotta be related to the day of the week. Call it women's intuition!"
 343: 0x0B5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x0B5D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=19*
 345: 0x0B6C [0x01] GOTO 0x0BF3
 346: 0x0B6F [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x0BF3
 347: 0x0B77 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-348: 0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=15911*)
+348: 0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=15914*)
     → "Oh, come on! Cupid's arrows are supposed to strike true, not go tumbling to the ground!"
 349: 0x0B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 350: 0x0B8A [0x6E] LocalPlayer uses emote 19*
 351: 0x0B91 [0x99] Wait for LocalPlayer animation to complete
 352: 0x0B96 [0x99] Wait for LocalPlayer animation to complete
 353: 0x0B9B [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Chocobo (ID: 17735881/0x010EA0C9), tag_num=0x09)
-354: 0x0BA2 [0x48] [System] [15912*]:
+354: 0x0BA2 [0x48] [System] [15915*]:
     → "The chocobo whimpers in despair."
 355: 0x0BA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x0BA6 [0x1C] WAIT(60* ticks)
 357: 0x0BA9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-358: 0x0BB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15913*)
+358: 0x0BB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15916*)
     → "Maybe he'll perk up a bit later? Why don't you give it another go then?"
 359: 0x0BBB [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x0BBC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
 361: 0x0BCB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=19*
-362: 0x0BDA [0x1D] PRINT_EVENT_MESSAGE(message_id=15914*)
+362: 0x0BDA [0x1D] PRINT_EVENT_MESSAGE(message_id=15917*)
     → "You know what I do when I'm depressed? Eat some sweets. Maybe this poor fella just needs to eat something to cheer him up."
 363: 0x0BDD [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0BDE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=19*
@@ -1068,7 +1068,7 @@ SUBROUTINE_0BF3:
 367: 0x0BF3 [0x01] GOTO 0x0CF4
 368: 0x0BF6 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0C7D
 369: 0x0BFE [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Chocobo (ID: 17735881/0x010EA0C9), tag_num=0x07)
-370: 0x0C05 [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15904*]:
+370: 0x0C05 [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15907*]:
     → "Kw--Kweeeh!"
 371: 0x0C0C [0x23] WAIT_FOR_DIALOG_INTERACTION
 372: 0x0C0D [0x1C] WAIT(60* ticks)
@@ -1084,21 +1084,21 @@ SUBROUTINE_0BF3:
 382: 0x0C42 [0x01] GOTO 0x0C45
 
 SUBROUTINE_0C45:
-383: 0x0C45 [0x48] [System] [15905*]:
+383: 0x0C45 [0x48] [System] [15908*]:
     → "The chocobo has unearthed $2!"
 384: 0x0C48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x0C49 [0x6E] EventEntity uses emote 13*
 386: 0x0C50 [0x99] Wait for EventEntity animation to complete
 387: 0x0C55 [0x1C] WAIT(120* ticks)
 388: 0x0C58 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-389: 0x0C67 [0x1D] PRINT_EVENT_MESSAGE(message_id=15906*)
+389: 0x0C67 [0x1D] PRINT_EVENT_MESSAGE(message_id=15909*)
     → "$2! Way to show me how it's done! [/What a wonderful gift!/This'll make the best present ever!t]"
 390: 0x0C6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x0C6B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
 392: 0x0C7A [0x01] GOTO 0x0CF4
 393: 0x0C7D [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0CF4
 394: 0x0C85 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Chocobo (ID: 17735881/0x010EA0C9), tag_num=0x07)
-395: 0x0C8C [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15903*]:
+395: 0x0C8C [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15906*]:
     → "Kweeeeeeeeeeeeh! (Wowow!)"
 396: 0x0C93 [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x0C94 [0x1C] WAIT(60* ticks)
@@ -1111,14 +1111,14 @@ SUBROUTINE_0C45:
 404: 0x0CB9 [0x01] GOTO 0x0CBC
 
 SUBROUTINE_0CBC:
-405: 0x0CBC [0x48] [System] [15905*]:
+405: 0x0CBC [0x48] [System] [15908*]:
     → "The chocobo has unearthed $2!"
 406: 0x0CBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x0CC0 [0x6E] EventEntity uses emote 11*
 408: 0x0CC7 [0x99] Wait for EventEntity animation to complete
 409: 0x0CCC [0x1C] WAIT(120* ticks)
 410: 0x0CCF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-411: 0x0CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=15906*)
+411: 0x0CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=15909*)
     → "$2! Way to show me how it's done! [/What a wonderful gift!/This'll make the best present ever!t]"
 412: 0x0CE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 413: 0x0CE2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -1128,7 +1128,7 @@ SUBROUTINE_0CF4:
 415: 0x0CF4 [0x02] IF !(Work_Zone[3] < 3*) GOTO 0x0E07
 416: 0x0CFC [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x0D78
 417: 0x0D04 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-418: 0x0D13 [0x1D] PRINT_EVENT_MESSAGE(message_id=15915*)
+418: 0x0D13 [0x1D] PRINT_EVENT_MESSAGE(message_id=15918*)
     → "Now that we've got a present, it's time for step two!"
 419: 0x0D16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 420: 0x0D17 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -1591,14 +1591,14 @@ SUBROUTINE_12FE:
 179: 0x14BF [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Chocobo (ID: 17735881/0x010EA0C9), tag_num=0x07)
 180: 0x14C6 [0x1C] WAIT(180* ticks)
 181: 0x14C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-182: 0x14D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15918*)
+182: 0x14D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15921*)
     → "Next up: sweet nothings! Can't win the affections of the fairer sex without a silver tongue!"
 183: 0x14DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-184: 0x14DC [0x1D] PRINT_EVENT_MESSAGE(message_id=15919*)
+184: 0x14DC [0x1D] PRINT_EVENT_MESSAGE(message_id=15922*)
     → "Though they may not be able to comprehend your words, the language of love is universal!"
 185: 0x14DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x14E0 [0x03] Work_Zone[2] = 3*
-187: 0x14E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15920*)
+187: 0x14E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=15923*)
     → "You've got a total of $0 chances. Think of it like speed dating! The glibber your jibe, the more they swoon!"
 188: 0x14E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x14E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -1610,25 +1610,25 @@ SUBROUTINE_14FF:
 193: 0x1504 [0x71] USER_INPUT_HANDLER: Check if player has input or exited
 194: 0x1506 [0x71] USER_INPUT_HANDLER: Check if server responded
 195: 0x1508 [0x02] IF !(ExtData[1]->WorkLocal[18] == 1*) GOTO 0x1514
-196: 0x1510 [0x48] [System] [15939*]:
+196: 0x1510 [0x48] [System] [15942*]:
     → "STEP2_DEBUGF%0."
 197: 0x1513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x1514 [0x02] IF !(ExtData[1]->WorkLocal[18] == 4*) GOTO 0x1520
-199: 0x151C [0x48] [System] [15939*]:
+199: 0x151C [0x48] [System] [15942*]:
     → "STEP2_DEBUGF%0."
 200: 0x151F [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x1520 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x162F
 202: 0x1528 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=19*
-203: 0x1537 [0x1D] PRINT_EVENT_MESSAGE(message_id=15923*)
+203: 0x1537 [0x1D] PRINT_EVENT_MESSAGE(message_id=15926*)
     → "What's this? No sweet nothings? Yes, yes, I know that true love needs no words, but when a romance is still budding, you've got to give it your all! Or...would you rather call it quits?"
 204: 0x153A [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x153B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=19*
-206: 0x154A [0x24] CREATE_DIALOG(message_id=15901*, default_option=1*, option_flags=0*)
+206: 0x154A [0x24] CREATE_DIALOG(message_id=15904*, default_option=1*, option_flags=0*)
     → "Truly let it wither on the vine? [Love. Bah./No! We must cultivate!]"
 207: 0x1551 [0x25] WAIT_DIALOG_SELECT()
 208: 0x1552 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15FC
 209: 0x155A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-210: 0x1569 [0x1D] PRINT_EVENT_MESSAGE(message_id=15902*)
+210: 0x1569 [0x1D] PRINT_EVENT_MESSAGE(message_id=15905*)
     → "How callous! All I wanted was to bring in dat...I mean bring darling chocobos together as soul mates!"
 211: 0x156C [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x156D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1662,11 +1662,11 @@ SUBROUTINE_162C:
 238: 0x1652 [0x1C] WAIT(180* ticks)
 239: 0x1655 [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17735918/0x010EA0EE)
 240: 0x165B [0x28] REQ_SET_WITH_CONDITIONS(priority=0x80, target_entity=Chocobo (ID: 17735881/0x010EA0C9), tag_num=0x07)
-241: 0x1662 [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15904*]:
+241: 0x1662 [0x2B] Chocobo (ID: 17735881/0x010EA0C9) [15907*]:
     → "Kw--Kweeeh!"
 242: 0x1669 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x166A [0x1C] WAIT(60* ticks)
-244: 0x166D [0x48] [System] [15921*]:
+244: 0x166D [0x48] [System] [15924*]:
     → "The chocobo is completely smitten!"
 245: 0x1670 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x1671 [0x1C] WAIT(60* ticks)
@@ -1674,10 +1674,10 @@ SUBROUTINE_162C:
 248: 0x167B [0x99] Wait for EventEntity animation to complete
 249: 0x1680 [0x1C] WAIT(120* ticks)
 250: 0x1683 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-251: 0x1692 [0x1D] PRINT_EVENT_MESSAGE(message_id=15922*)
+251: 0x1692 [0x1D] PRINT_EVENT_MESSAGE(message_id=15925*)
     → "Absolutely perfect! You're no stranger to love, that's for sure!"
 252: 0x1695 [0x23] WAIT_FOR_DIALOG_INTERACTION
-253: 0x1696 [0x1D] PRINT_EVENT_MESSAGE(message_id=15928*)
+253: 0x1696 [0x1D] PRINT_EVENT_MESSAGE(message_id=15931*)
     → "Now that you've found just the right words, it's time to take things to the next level!"
 254: 0x1699 [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x169A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -2170,10 +2170,10 @@ SUBROUTINE_1C80:
 
 SUBROUTINE_1DC0:
 178: 0x1DC0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-179: 0x1DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=15929*)
+179: 0x1DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=15932*)
     → "According to my volumes of data, it seems [you two have a chilly relationship, but don't give up yet!/you're on the cusp of winning its heart./you two are on fire! You might as well get hitched!]"
 180: 0x1DD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-181: 0x1DD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15930*)
+181: 0x1DD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=15933*)
     → "Speed! Luck! Come on, [hon/sweetie], love isn't a battlefield, it's a race!"
 182: 0x1DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x1DD7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -2250,7 +2250,7 @@ SUBROUTINE_1F31:
 248: 0x1F44 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17735918/0x010EA0EE), tag_num=0x04)
 
 SUBROUTINE_1F4B:
-249: 0x1F4B [0x24] CREATE_DIALOG(message_id=15931*, default_option=0*, option_flags=0*)
+249: 0x1F4B [0x24] CREATE_DIALOG(message_id=15934*, default_option=0*, option_flags=0*)
     → "Which route to pursue? [Route 1. [(Taken by rival.)//]/Route 2. [/(Taken by rival.)/]/Route 3. [//(Taken by rival.)]/Cast your fate to Lady Luck!/Give up...at this late stage.]"
 250: 0x1F52 [0x25] WAIT_DIALOG_SELECT()
 251: 0x1F53 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F7A
@@ -2258,7 +2258,7 @@ SUBROUTINE_1F4B:
 253: 0x1F60 [0x02] IF !(Work_Zone_1700[5] == ExtData[1]->WorkLocal[0]) GOTO 0x1F77
 254: 0x1F68 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 255: 0x1F6D [0x0B] Work_Zone[2]++
-256: 0x1F70 [0x48] [System] [15932*]:
+256: 0x1F70 [0x48] [System] [15935*]:
     → "Route $0 has already been selected by your rival."
 257: 0x1F73 [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x1F74 [0x01] GOTO 0x1F4B
@@ -2268,7 +2268,7 @@ SUBROUTINE_1F4B:
 262: 0x1F87 [0x02] IF !(Work_Zone_1700[5] == ExtData[1]->WorkLocal[0]) GOTO 0x1F9E
 263: 0x1F8F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 264: 0x1F94 [0x0B] Work_Zone[2]++
-265: 0x1F97 [0x48] [System] [15932*]:
+265: 0x1F97 [0x48] [System] [15935*]:
     → "Route $0 has already been selected by your rival."
 266: 0x1F9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 267: 0x1F9B [0x01] GOTO 0x1F4B
@@ -2278,7 +2278,7 @@ SUBROUTINE_1F4B:
 271: 0x1FAE [0x02] IF !(Work_Zone_1700[5] == ExtData[1]->WorkLocal[0]) GOTO 0x1FC5
 272: 0x1FB6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 273: 0x1FBB [0x0B] Work_Zone[2]++
-274: 0x1FBE [0x48] [System] [15932*]:
+274: 0x1FBE [0x48] [System] [15935*]:
     → "Route $0 has already been selected by your rival."
 275: 0x1FC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x1FC2 [0x01] GOTO 0x1F4B
@@ -2304,14 +2304,14 @@ SUBROUTINE_1FF8:
 290: 0x200E [0x01] GOTO 0x225F
 291: 0x2011 [0x02] IF !(Work_Zone_1700[4] == 4*) GOTO 0x20F4
 292: 0x2019 [0x03] Work_Zone_1700[4] = 5*
-293: 0x201E [0x24] CREATE_DIALOG(message_id=15901*, default_option=1*, option_flags=0*)
+293: 0x201E [0x24] CREATE_DIALOG(message_id=15904*, default_option=1*, option_flags=0*)
     → "Truly let it wither on the vine? [Love. Bah./No! We must cultivate!]"
 294: 0x2025 [0x25] WAIT_DIALOG_SELECT()
 295: 0x2026 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20DE
 296: 0x202E [0x02] IF !(Work_Zone_1700[4] == 5*) GOTO 0x20DB
 297: 0x2036 [0x7A] VM_CONTROL: Reset VM for Unnamed NPC (ID: 17735918/0x010EA0EE)
 298: 0x203C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-299: 0x204B [0x1D] PRINT_EVENT_MESSAGE(message_id=15902*)
+299: 0x204B [0x1D] PRINT_EVENT_MESSAGE(message_id=15905*)
     → "How callous! All I wanted was to bring in dat...I mean bring darling chocobos together as soul mates!"
 300: 0x204E [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x204F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2346,12 +2346,12 @@ SUBROUTINE_20F4:
 328: 0x20FF [0x02] IF !(Work_Zone_1700[4] > 2*) GOTO 0x210A
 329: 0x2107 [0x01] GOTO 0x225F
 330: 0x210A [0x02] IF !(Work_Zone_1700[4] == 4*) GOTO 0x21D2
-331: 0x2112 [0x24] CREATE_DIALOG(message_id=15901*, default_option=1*, option_flags=0*)
+331: 0x2112 [0x24] CREATE_DIALOG(message_id=15904*, default_option=1*, option_flags=0*)
     → "Truly let it wither on the vine? [Love. Bah./No! We must cultivate!]"
 332: 0x2119 [0x25] WAIT_DIALOG_SELECT()
 333: 0x211A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21C4
 334: 0x2122 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-335: 0x2131 [0x1D] PRINT_EVENT_MESSAGE(message_id=15902*)
+335: 0x2131 [0x1D] PRINT_EVENT_MESSAGE(message_id=15905*)
     → "How callous! All I wanted was to bring in dat...I mean bring darling chocobos together as soul mates!"
 336: 0x2134 [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x2135 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2451,7 +2451,7 @@ SUBROUTINE_2356:
 417: 0x2371 [0x27] REQ_SET(priority=0x80, entity_id=I (ID: 17735911/0x010EA0E7), tag_num=0x04)
 418: 0x2378 [0x27] REQ_SET(priority=0x80, entity_id=L (ID: 17735912/0x010EA0E8), tag_num=0x04)
 419: 0x237F [0x27] REQ_SET(priority=0x80, entity_id=O (ID: 17735913/0x010EA0E9), tag_num=0x04)
-420: 0x2386 [0x1D] PRINT_EVENT_MESSAGE(message_id=15933*)
+420: 0x2386 [0x1D] PRINT_EVENT_MESSAGE(message_id=15936*)
     → "Let's get this party started!"
 421: 0x2389 [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x238A [0x1C] WAIT(60* ticks)
@@ -2478,7 +2478,7 @@ SUBROUTINE_23A3:
 441: 0x23F5 [0x27] REQ_SET(priority=0x80, entity_id=Chocobo (ID: 17735883/0x010EA0CB), tag_num=0x07)
 442: 0x23FC [0x1C] WAIT(120* ticks)
 443: 0x23FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-444: 0x240E [0x1D] PRINT_EVENT_MESSAGE(message_id=15934*)
+444: 0x240E [0x1D] PRINT_EVENT_MESSAGE(message_id=15937*)
     → "Aw, you poor thing, looks like you chose the wrong path to love."
 445: 0x2411 [0x23] WAIT_FOR_DIALOG_INTERACTION
 446: 0x2412 [0x27] REQ_SET(priority=0x80, entity_id=I (ID: 17735911/0x010EA0E7), tag_num=0x03)
@@ -2487,7 +2487,7 @@ SUBROUTINE_23A3:
 449: 0x2427 [0x6E] LocalPlayer uses emote 19*
 450: 0x242E [0x99] Wait for LocalPlayer animation to complete
 451: 0x2433 [0x99] Wait for LocalPlayer animation to complete
-452: 0x2438 [0x48] [System] [15912*]:
+452: 0x2438 [0x48] [System] [15915*]:
     → "The chocobo whimpers in despair."
 453: 0x243B [0x23] WAIT_FOR_DIALOG_INTERACTION
 454: 0x243C [0x1C] WAIT(120* ticks)
@@ -2500,7 +2500,7 @@ SUBROUTINE_23A3:
 461: 0x247A [0x27] REQ_SET(priority=0x80, entity_id=Chocobo (ID: 17735881/0x010EA0C9), tag_num=0x09)
 462: 0x2481 [0x1C] WAIT(120* ticks)
 463: 0x2484 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-464: 0x2493 [0x1D] PRINT_EVENT_MESSAGE(message_id=15934*)
+464: 0x2493 [0x1D] PRINT_EVENT_MESSAGE(message_id=15937*)
     → "Aw, you poor thing, looks like you chose the wrong path to love."
 465: 0x2496 [0x23] WAIT_FOR_DIALOG_INTERACTION
 466: 0x2497 [0x27] REQ_SET(priority=0x80, entity_id=I (ID: 17735911/0x010EA0E7), tag_num=0x03)
@@ -2509,7 +2509,7 @@ SUBROUTINE_23A3:
 469: 0x24AC [0x6E] LocalPlayer uses emote 19*
 470: 0x24B3 [0x99] Wait for LocalPlayer animation to complete
 471: 0x24B8 [0x99] Wait for LocalPlayer animation to complete
-472: 0x24BD [0x48] [System] [15912*]:
+472: 0x24BD [0x48] [System] [15915*]:
     → "The chocobo whimpers in despair."
 473: 0x24C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 474: 0x24C1 [0x1C] WAIT(120* ticks)
@@ -2517,7 +2517,7 @@ SUBROUTINE_23A3:
 476: 0x24C7 [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x25AD
 477: 0x24CF [0x05] Work_Zone_1700[9] = 1
 478: 0x24D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-479: 0x24E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15934*)
+479: 0x24E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=15937*)
     → "Aw, you poor thing, looks like you chose the wrong path to love."
 480: 0x24E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x24E5 [0x1C] WAIT(60* ticks)
@@ -2544,7 +2544,7 @@ SUBROUTINE_23A3:
 502: 0x256E [0x1C] WAIT(120* ticks)
 503: 0x2571 [0x6E] EventEntity uses emote 21*
 504: 0x2578 [0x99] Wait for EventEntity animation to complete
-505: 0x257D [0x1D] PRINT_EVENT_MESSAGE(message_id=15935*)
+505: 0x257D [0x1D] PRINT_EVENT_MESSAGE(message_id=15938*)
     → "W-wow! What a turn of events! Love knows no bounds, as the saying goes! Just wait until the profess... I mean, uh, good going!"
 506: 0x2580 [0x23] WAIT_FOR_DIALOG_INTERACTION
 507: 0x2581 [0x27] REQ_SET(priority=0x80, entity_id=I (ID: 17735911/0x010EA0E7), tag_num=0x04)
@@ -2567,7 +2567,7 @@ SUBROUTINE_23A3:
 524: 0x25F9 [0x99] Wait for EventEntity animation to complete
 525: 0x25FE [0x1C] WAIT(120* ticks)
 526: 0x2601 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-527: 0x2610 [0x1D] PRINT_EVENT_MESSAGE(message_id=15937*)
+527: 0x2610 [0x1D] PRINT_EVENT_MESSAGE(message_id=15940*)
     → "Well done! My little cupid has veritable wings sprouting from [his/her] back! The more love, the more data...dates! Dates they will go on!"
 528: 0x2613 [0x23] WAIT_FOR_DIALOG_INTERACTION
 529: 0x2614 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*
@@ -2589,7 +2589,7 @@ SUBROUTINE_23A3:
 545: 0x2677 [0x27] REQ_SET(priority=0x80, entity_id=Chocobo (ID: 17735883/0x010EA0CB), tag_num=0x07)
 546: 0x267E [0x1C] WAIT(120* ticks)
 547: 0x2681 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=10*
-548: 0x2690 [0x1D] PRINT_EVENT_MESSAGE(message_id=15936*)
+548: 0x2690 [0x1D] PRINT_EVENT_MESSAGE(message_id=15939*)
     → "After all that hard work you did with your lovely present and those three magic words... Maybe love is all about luck and timing after all."
 549: 0x2693 [0x23] WAIT_FOR_DIALOG_INTERACTION
 550: 0x2694 [0x27] REQ_SET(priority=0x80, entity_id=I (ID: 17735911/0x010EA0E7), tag_num=0x03)
@@ -2598,7 +2598,7 @@ SUBROUTINE_23A3:
 553: 0x26A9 [0x6E] LocalPlayer uses emote 19*
 554: 0x26B0 [0x99] Wait for LocalPlayer animation to complete
 555: 0x26B5 [0x99] Wait for LocalPlayer animation to complete
-556: 0x26BA [0x48] [System] [15912*]:
+556: 0x26BA [0x48] [System] [15915*]:
     → "The chocobo whimpers in despair."
 557: 0x26BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 558: 0x26BE [0x1C] WAIT(120* ticks)
@@ -2624,7 +2624,7 @@ SUBROUTINE_26C4:
 576: 0x274B [0x1C] WAIT(180* ticks)
 577: 0x274E [0x02] IF !(Work_Zone_1700[9] == 1*) GOTO 0x27A6
 578: 0x2756 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-579: 0x2765 [0x1D] PRINT_EVENT_MESSAGE(message_id=15938*)
+579: 0x2765 [0x1D] PRINT_EVENT_MESSAGE(message_id=15941*)
     → "With all you've done for me...err, the chocobos, it's only fair that I give you a little something in return. A token of my appreciation, if you will. Of course, you're welcome to come back any time!"
 580: 0x2768 [0x23] WAIT_FOR_DIALOG_INTERACTION
 581: 0x2769 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=19*

@@ -23,15 +23,15 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0xFFFFFFFF  |  4294967295 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x23B1      |        9137 |
-|       4 | 0x23B2      |        9138 |
-|       5 | 0x23B3      |        9139 |
+|       3 | 0x23B2      |        9138 |
+|       4 | 0x23B3      |        9139 |
+|       5 | 0x23B4      |        9140 |
 
 ## String References
 
-- **9137**: Visit whose Mog Garden? [No one's./%1's./%2's./%3's./%4's./%5's./%6's./%7's./%8's./%9's./%10's./%11's./%12's./%13's./%14's./%15's./%16's./%17's.]
-- **9138**: You decided you have better things to do.
-- **9139**: Commencing transportation to the selected individual's Mog Garden.
+- **9138**: Visit whose Mog Garden? [No one's./%1's./%2's./%3's./%4's./%5's./%6's./%7's./%8's./%9's./%10's./%11's./%12's./%13's./%14's./%15's./%16's./%17's.]
+- **9139**: You decided you have better things to do.
+- **9140**: Commencing transportation to the selected individual's Mog Garden.
 
 ## Events
 
@@ -87,17 +87,17 @@
   3: 0x0012 [0xC2] PARTY_STATE_CHECK: ExtData[1]->WorkLocal[0] = mask of visitable party members
   4: 0x0016 [0x0F] ExtData[1]->WorkLocal[0] ^= 4294967295*
   5: 0x001B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
-  6: 0x0022 [0x24] CREATE_DIALOG(message_id=9137*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+  6: 0x0022 [0x24] CREATE_DIALOG(message_id=9138*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Visit whose Mog Garden? [No one's./%1's./%2's./%3's./%4's./%5's./%6's./%7's./%8's./%9's./%10's./%11's./%12's./%13's./%14's./%15's./%16's./%17's.]"
   7: 0x0029 [0x25] WAIT_DIALOG_SELECT()
   8: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
-  9: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=9138*)
+  9: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=9139*)
     → "You decided you have better things to do."
  10: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0036 [0x03] Work_Zone[1] = 0*
  12: 0x003B [0x01] GOTO 0x0049
  13: 0x003E [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 14: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=9139*)
+ 14: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=9140*)
     → "Commencing transportation to the selected individual's Mog Garden."
  15: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0043 [0xC2] PARTY_STATE_CHECK: Work_Zone[1] = check if party member (from Work_Zone[0]) house is open

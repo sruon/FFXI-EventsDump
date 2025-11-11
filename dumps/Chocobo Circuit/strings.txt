@@ -1,5 +1,5 @@
 # Strings for Chocobo Circuit
-# Total: 10431 strings
+# Total: 10432 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -9881,554 +9881,555 @@
  9877: Select a category. [None of these./Cizin equipment./Otronif equipment./Iuitl equipment./Gendewitha equipment./Hagondes equipment./Other.]
  9878: Select a category. [None of these./Torium equipment./Acro equipment./Taeon equipment./Telchine equipment./Helios equipment.]
  9879: Select a category. [None of these./Relic weapons./Mythic weapons./Empyrean weapons./Ergon weapons./Aeonic weapons.]
- 9880: With me today is a man who needs absolutely no introduction, Markovich, and our favorite...
- 9881: Oh...? Isn't the adorable Sakura with us today?
- 9882: I'm afraid Sakura's been rather busy lately and won't be able to join us here at these races. I'll do my best to make up for her absence.
- 9883: Is that so...? Things just won't be the same without her lovably abrasive, tongue-in-cheek comments...
- 9884: Hmph! Enough of that crying into your microphone. You of all people should know that the show must go on!
- 9885: Besides, today we have a very special race in store for our viewers. My very own "baby" will be taking the field!
- 9886: Why, I was so looking forward to today's race, I couldn't catch a single wink of sleep last night!
- 9887: But of course! I had forgotten all about it! Ladies and gentlemen, have we got a special treat for you! Today's race will see a chocobo and a monster go head-to-head!
- 9888: But that's not where it ends! There will be not a single jockey to adulterate this epic battle of bird versus beast! How do you like the sound of that, folks?
- 9889: A bold experiment in racing, if I do say so myself. Markovich, how do you foresee the competitors reacting to each other's presence in this most unusual of settings?
- 9890: It is my understanding that an especially intelligent chocobo was chosen to partake in this race, so there shouldn't be any worry about it being spooked.
- 9891: Moreover, my little fluffykins is as well-bred and well-behaved as your average head of state! But...
- 9892: But...?
- 9893: I can't say anything for certain heading into this race. After all, nothing like this has ever been attempted in the history of chocobo racing.
- 9894: I see... Could that perhaps be the reason why this first-ever experiment has been limited to a one-on-one affair?
- 9895: You're certainly on the ball today, Goccilo. Even if the chances are slim, we wouldn't want anything to go awry now, would we?
- 9896: But enough talking, I say. It's time to give the viewers what they've come here to see!
- 9897: Oh, yes, right... Ladies and gentlemen, sorry for the delay! It is my pleasure to introduce the two plucky participants in this history-making race!
- 9898: In the chocobo corner, we have $0, undisputed champion of the official races, and considered by many to be one of the greatest birds ever to grace the Chocobo Circuit.
- 9899: Oooh... So this is the much hyped-about chocobo? I wonder if it'll be able to stand up to my Pacey.
- 9900: $0's formidable opponent will be Phantom Pacer! Don't let the lamblike good looks fool you, folks. This one truly lives up to the expression, "a wolf in sheep's clothing"!
- 9901: I'll have you know that Pacey's appearance isn't just for show. I've survived many a cold winter snuggling up to her fluffy coat. Much better for my aching joints than a crackling fire, I tell you!
- 9902: I'm absolutely breathless! That was as hotly contested a race as we have seen in recent years! Any thoughts, Markovich?
- 9903: Hrm. This race has proven beyond doubt that "monsters" like my Pacey can race alongside chocobos without any problems whatsoever.
- 9904: Indeed! I for one am certainly looking forward to seeing more such races!
- 9905: With me today is our regular avian advocate turned adversary, Markovich!
- 9906: Whoopee! Bring them on, I say!
- 9907: Erm...yes... Now, let's take a look at the courageous contenders in today's race.
- 9908: Oooh, so this is the chocobo that's been making headlines. I wonder if it'll be a match for my babies.
- 9909: Next, we have the perennial woodenspooner, Keyaki! Despite its dismal track record, its never-say-die attitude has earned the admiration of fans and competitors alike.
- 9910: Truly a bird on a mission, Goccilo. I just hope I'll live long enough to see its efforts pay off.
- 9911: And with four monsters completing the lineup, I think we can brace ourselves for another encounter of epic proportion!
- 9912: My, oh my...! I never imagined commentating would be so enjoyable without Sakura around to--
- 9913: A-ahem! I...I mean, um, yes, I believe the race lived up to all expectations. No racing enthusiast could possibly go home disappointed after such an inspirational display.
- 9914: All competitors raced gallantly and are deserving of praise, but none more so than the victor...who just happens to be one of my babies! Well done, my pretty! Well done!
- 9915: It's unfortunate, though, that race conditions hindered the performance of some of the more promising contenders... <Sniffle>
- 9916: Next in the lineup is Sakura. ...!? What on Vana'diel!?
- 9917: Hrmmm... Well, they do say that imitation is the sincerest form of flattery.
- 9918: Uh, of course, that couldn't have been our Sakura. Though I must admit, for a moment there...I mean, who wouldn't have been shocked to see...
- 9919: What are you blabbering on about now? Pull yourself together, man! There are countless race fans waiting to be entertained by our witty commentary!
- 9920: Um, yes... Please forgive me...
- 9921: And won't you look at the lineup! This time we have a tiger...and even a raptor! Can you believe it, folks? I'm sure glad to be up here and not down on the track alongside the likes of them! Is there no creature they won't bring in!?
- 9922: And with me today is our regular guest commentator...
- 9923: Huh? Why isn't Markovich here?
- 9924: Ohohohohohoho! You seem in a bind, Mister Goccilo.
- 9925: <Gulp> You...you're that mage from Windurst...
- 9926: ...Professor Shantotto!
- 9927: If you're in need of a replacement for Markovich, as a racing connoisseur, I'd be glad to make the switch.
- 9928: Furthermore, in a stroke of sheer coincidence, four custom-built Cardians are here in my presence.
- 9929: So if you care to hear out my little proposal, these race-ready Cardians are also at your disposal.
- 9930: With Markovich and his racing monsters absent, looks like I have no other choice... Will you really help us, Professor Shantotto?
- 9931: With which black-hearted biddy do you have me confused? Enough with your doubting, there are competitors waiting to be introduced.
- 9932: First up, we have Jack of Trophies, who has been climbing the Cardian ranks at breakneck speed since its upgrade.
- 9933: Jack of Trophies' transfiguration was a sight to behold. I just can't wait to see how its story will unfold.
- 9934: Next, I introduce to you, Queen of Trophies, who has been the mainstay of Windurst's Cardian force since its inception.
- 9935: Queen of Trophies knows not the meaning of the word "failure." Once set on a mission, from that course it will not veer.
- 9936: Then we have King of Trophies, whose state-of-the-art leg component is a testament to Windurst's achievements in magical engineering. This experimental Cardian could very well be the future of Cardian technology, folks.
- 9937: Even I dare not claim to know of what King of Trophies is capable. If some mishap should occur, be so kind as to not hold me culpable.
- 9938: Next we have Ace of Trophies, whose racing prowess is vouched to be in a class of its own. Make no mistake, ladies and gentlemen--this Cardian is a championship contender!
- 9939: For Ace of Trophies, "championship contender" is an unfitting description. Even "consecutive champion" would not be too high an expectation.
- 9940: Um...Professor Shantotto... Shouldn't we be introducing other race participants as well...and not only your Cardians?
- 9941: Ohohohohoho! Your impeccable attention to detail pleases me so. But as we lack for time, on to the race, we must go!
- 9942: Even these race-bred chocobos shrivel before my Cardian entourage. Compared to the automatons, they're as slow as a splintery river barge.
- 9943: Now, I think, we've all had a sufficient preview. So let the race begin, without further ado!
- 9944: Ohohohohohoho! Of this inevitable result, I was always assured-- that a Cardian would come away with victory secured!
- 9945: The home ground advantage was not in my Cardians' favor. But with some minor adjustments, victory shall be mine to savor.
- 9946: H-hey! What do you think you're trying to pull here!?
- 9947: My, my, what a pleasant surprise! I'm relieved to see that you are well...and alive.
- 9948: How dare you "ohoho" your way into my hard-earned commentary seat! This is a blatant act of...racejacking! You despicable...racejacker!
- 9949: Hush now, we mustn't resort to such hurtful vilification. I merely wished to let you take that much-deserved vacation.
- 9950: And you, Goccilo! What were you thinking, replacing me with the likes of her!? And don't you think that I don't notice how you slack off when Sakura isn't here!
- 9951: Ahem! W-well folks, that's it for another exciting edition of chocobo racing! Until next time...!
- 9952: <Player>, I knew you'd make it all the way here.
- 9953: What's with the baffled expression? It's me, Sakura.
- 9954: You see, I'm actually a full-grown bird. I've been hiding it all this time, using a transformation item to pose as a cuddly chocobo chick.
- 9955: I was separated from my mother at a very young age, and have been with Markovich ever since he found me as a stray chick. But all these years, I've never once given up on finding my real mother.
- 9956: I have only a few memories left of her--that she was an accomplished racing chocobo...
- 9957: And that she quit racing because she felt the circuit was no longer enough of a challenge.
- 9958: I thought that if I could get together a strong enough field of competitors, Mother would be enticed to return to the fray. That's why I'm here today--to seek the best racing chocobos to run in the upcoming Dream Race.
- 9959: Working in race commentary as a chick, and now running in this race... Everything has been for the purpose of being reunited with Mother. Not even Markovich knows what I've been doing.
- 9960: I intend to invite today's victor to participate in the Dream Race.
- 9961: I hope that'll be your chocobo, <Player>!
- 9962: And next, we have Sakura. But something seems to be different... Ah, her coat is a different color from when she appeared in the Deadly Race.
- 9963: She must have obtained feather dye by trading chocobucks. She sure knows how to doll herself up!
- 9964: The next competitor is Scorching Needle, a cactuar whose explosive acceleration is second to none.
- 9965: I remember the time when it suddenly ran off on me. Boy, did it give me the runaround! A friendly reminder, folks: Be sure to wear gloves when handling cactuar.
- 9966: And now, we come to Albinic Amami, a rabbit boasting jaw-dropping vertical jumping power and silken white fur that is irresistible to the touch.
- 9967: It trains by jumping back and forth over my head! Gets me rather dizzy after a while, though.
- 9968: And that completes the lineup, folks. With such a colorful combination of creatures, I have a feeling this race won't soon be forgotten by the fans!
- 9969: You find $0.
- 9970: Welcome to the Dream Race, <Player>.
- 9971: I've decided to participate in this race as my true self.
- 9972: I've always had an inferiority complex about being a different color from other chocobos.
- 9973: I wanted to be normal and fit in. That's why I've been dyeing my feathers all these years.
- 9974: But no more... If I really want to become champion, I can't continue to avoid coming face to face with my true self.
- 9975: This is a lesson I learned from your chocobo.
- 9976: I won't hold back in today's race, <Player>.
- 9977: Aaah, the chocobo that's been stirring up a storm. I wonder if it has what it takes to go all the way.
- 9978: Next in the lineup is the winsome woodenspooner, Keyaki, for whom this will be the first appearance in the Dream Race.
- 9979: I never thought I'd live to see the day when Keyaki runs in this race. What is the world coming to?
- 9980: Next, we have Sakura...
- 9981: Wh-what in the name of the Goddess!? This magnificent white plumage--so pure and beautiful, like freshly fallen snow on the first winter's day!
- 9982: Well I'll be... In all my years as zoologist, I have never before laid eyes upon a sight of such splendor!
- 9983: ...
- 9984: Phew...just getting a hold of myself here, folks. For this race, we will see a return to an all-chocobo affair--the way it's meant to be. What other pleasant surprises can we hope to expect today?
- 9985: <Player>, the owner of the winning chocobo, will be awarded $6, $1, and the exalted title of "Chocochampion"!
- 9986: Even I couldn't have guessed you'd come this far! Congratulations!
- 9987: Great race, <Player>. It's hard to admit, but I was completely outclassed by your chocobo.
- 9988: But what's more disappointing is, Mother didn't come.. With so many quality racing chocobos here, I was sure she'd appear, but...
- 9989: Princess... Princess Sakura!
- 9990: Princess...? What are you talking about? Who are you?
- 9991: Please pardon your humble servant this sudden intrusion. I, your loyal handmaid, Keyaki, have been in search of Your Highness for the longest time.
- 9992: Searching for...me?
- 9993: Yes, Your Highness. You are the crown princess in the land of chocobos. Your snow-white plumage is undeniable proof of your royal lineage.
- 9994: Are you serious!? Then doesn't this make my mother the queen!?
- 9995: That is correct. Your Highness shares the same beautiful white plumage as Her late Majesty the Queen.
- 9996: D-did you just say Her late...Majesty...?
- 9997: ...! I-I beg your forgiveness, Your Highness...
- 9998: Wh...what happened?
- 9999: You were but a down-covered chick when the queen departed from this world. You were accompanying Her Majesty on a journey, when a horde of monsters attacked without warning. She protected you from the relentless fiends, but alas, was forced over the cliff face...
-10000: She...she gave up her life to save me?
-10001: Above all else, Her Majesty was known as a loving mother and dutiful queen. However, being the wide-eyed, innocent chick that you were, you instinctively followed your mother over the cliff, never to be seen again. But, I never once gave up hope...
-10002: My search spanned several years and took me to all four corners of Vana'diel. When I learned of the appearance of a new racing chocobo of unrivaled virtuosity, I made haste to the Chocobo Circuit with revived hope. And now...my long search is finally over.
-10003: So that's what happened...
-10004: Princess Sakura, your loyal subjects eagerly await your return. Let us now return to the land of chocobos!
-10005: ...
-10006: I'm sorry, but I can't go.
-10007: Your Highness! But...why!?
-10008: Until the day I triumph over a champion race chocobo like <Player>'s, I won't be worthy to become Queen.
-10009: What's more...
-10010: I just can't leave poor Markovich here alone by himself. Behind that spirited facade, he really is a lonely old man...
-10011: I understand your concerns completely, Your Highness. I shall remain here until you are ready to make your return to the land of chocobos.
-10012: What...?
-10013: The only place I belong is here, beside you.
-10014: And I suppose you won't be taking no for an answer? I'll have you know that there'll be no free-riders here. If you're planning to stay, you're going to have to train your feathers off, is that clear?
-10015: I would not have it any other way, Your Highness!
-10016: Heehee! Then what are you waiting for? Give me ten laps, on the double!
-10017: <Player>, I'm looking forward to our rematch! Until then, don't even think about disappearing anywhere, you hear?
-10018: You're still here, eh, <Player>?
-10019: Call it fatherly bias, but don't you think Sakura looks stunning in white?
-10020: What? How did I know that the full-grown white chocobo was actually Sakura, you ask?
-10021: Hohoho... It's not so difficult when you've been a zoologist almost your entire life. Chocobos may age, and their color change, but each will always have their own unique way of walking.
-10022: I've also always known that Sakura was searching for her mother. I only wish that I could have done more to help her...
-10023: Eh? What's this talk about the land of chocobos? No, I'm afraid I've never heard of such a place before.
-10024: Sakura is the queen, you say?
-10025: <Chuckle> That girl's just full of surprises. But to fall from grace at such an early age like that... Not a single day goes by without my heart going out to her.
-10026: You know what they say: Home is where the heart is. To the racing chocobos, each of the VCS's farms may very well be their own land of chocobos.
-10027: And you, our new Chocochampion! Don't forget that this title symbolizes the beginning, and not the end of your journey in chocobo racing.
-10028: Always do your best, and never forget those who have helped you get to where you are today. These are the simple wishes of a frail old man.
-10029: And they're off!
-10030: Hrmmm! [Both/All of the] contestants have gotten off to a great start!
-10031: Professor Shantotto, what did you think of the start?
-10032: All of the chocobos started well, in my general observance. But faced against my Cardians, that won't make the tiniest difference.
-10033: Ah! It looks like one of the contestants was slow out of the gate! Will it be able to catch up in time!?
-10034: Oh no! It looks like we have an accident on the field! One of the contestants has its feet caught in some mud. Can it get back on track in time!?
-10035: $0 looks unstoppable! I would be surprised if it was affected by any further attacks.
-10036: The speed of the other contestants has begun to drop! Who could have predicted such a turn of events!?
-10037: The nearby contestants are beginning to look confused! I doubt if they will be able to use any more items!
-10038: And yet the other contestants seem completely unaffected by the attack!
-10039: It's crowded up front with $0 contestants still fighting for the lead! Which one will break through!?
-10040: It's crowded up front with all $0 contestants still fighting for the lead!
-10041: The two contestants are neck and neck! This could be a screenshot finish!
-10042: What's this!? $0 has used $1!
-10043: $0 still holds on to the lead. Can it take it all the way to the finish!?
-10044: $0 is starting to lag behind! Does it have enough energy left to make that final dash for the cash!?
-10045: It doesn't look like anyone will be catching $0 today!
-10046: What's this? $0 is making its move on the lead!
-10047: $1: $0
-10048: What's this!? $0's using [Sheep Charge/Dust Cloud/Healing Breeze/Gloeosuccus/Ram Rage/Sprightly Step/Roar/Repair Wave/Shadow Wave/Slow Wave/Siphon Wave/Wild Carrot/Blaster/Mad Dash]!
-10049: Whoooa nellie! Some kind of refreshing breeze has got those [monsters/Cardians] looking light on their feet now!
-10050: $0 just went into a fiery rage! You gotta be kidding me! Look at that burst in speed! And fending off attacks from the other chocobos like nobody's business!
-10051: I can't quite put my finger on it, but something is different about $0's step. And the attacks of the other participants don't seem to be having any effect!
-10052: And here's some unexpected drama, folks! The Cardians are now completely immune to the attacks of the chocobos! How will this play out!?
-10053: Look at that! 's stride looks like it has just gotten an injection of added oomph!
-10054: Uh-oh, what's going on here!? The chocobos are looking like they had their saddles lined with lead all of a sudden!
-10055: Oooh! In a bold move, $0 has just used a [Dream Cracker/Dream Apple]!
-10056: What's this!? All of the chocobos other than $0 and Sakura have broken stride and seem to have had the steam taken out of their step!
-10057: Thanks to that brazen little act, $0 can expect to maintain endurance, increase speed, and fend off attacks! That just might seal the deal for $0!
-10058: Never in all my days, race fans! In a botched attempt to slow down the opposing chocobos, the King of Trophies has just impaired the speed of all the Cardians instead!
-10059: How could my creation make such a rookie mistake? In a bout of Cardian disassembly this King shall surely partake!
-10060: Shantotto starts casting Tornado!
-10061: The speed of the chocobos has dropped!
-10062: The stamina of the chocobos has dropped!
-10063: The evasion rate of the chocobos has dropped!
-10064: Pr-Professor Shantotto, are you out of your mind!? What in the world do you think you're doing!?
-10065: Why, my dear Goccilo, we mustn't be so quick to place the blame. This mishap was probably caused by reckless adventurers playing at their game.
-10066: What marvels could possibly lie in store for us today? I've heard it being said that today's [creatures/Cardians] have quite the arsenal of abilities at their disposal. This could get heavy, folks!
-10067: All of the contestants certainly appear to have quite a bit of steam left in them. Are they holding back? Could they possibly be working in cahoots with one another!?
-10068: It seems as though there has been a general quickening of pace amongst the participants!
-10069: There's still plenty of race to go, race fans! More than enough time for an awe-inspiring accident or some downright nasty drama!
-10070: And it looks as though the contestants have have settled in and found their groove!
-10071: The racers look to have gotten themselves into a bit of a rut now. This could make or break the race! Let's see if they can manage to pull through!
-10072: This is where it really pays off to have an edge in endurance over your opponent. Let's see if any contestants have the discipline to save some steam for the home stretch!
-10073: And here's where we get down to the nitty-gritty! Let's see if some of our racers can provide a flamboyant finish for us here today!
-10074: And there they go! A clear boost in speed for the lot of them! But will they have the endurance to maintain their new pace for long?
-10075: I am at a loss for words, folks! It's just too hard to call! Which racer will Lady Luck see fit to shine upon today!?
-10076: It's painfully obvious that those thoroughbreds have nothing but the finish line in their sights now! The time for a final spurt is now or never!
-10077: And here they come down the home stretch! How is this one going to end up!?
-10078: Ah, you must be the one they call <Player>. It's an honor to finally make your acquaintance.
-10079: My compatriot Joachim has told me much of your exploits. It'd be my pleasure to assist you any way I can.
-10080: Good day, <Player>. Is there something you need?
-10081: What would like to ask about? [I want $6./Learn about $5./Current $3 stock./Cavernous maw locations./Teleporting to a cavernous maw./Nothing right now.]
-10082: All set for now, are we? I'll be right here if ever you have need of me.
-10083: Interested in the cavernous maws, are we?
-10084: La Theine Plateau, Konschtat Highlands, Tahrongi Canyon...
-10085: Jugner Forest, Valkurm Dunes, Buburimu Peninsula...
-10086: Xarcabard, North Gustaberg, South Gustaberg...
-10087: In these [zero/three/six/nine] areas gateway maws have manifested.
-10088: Planning a trip to Abyssea, I gather? You'd be wise to make a habit of taking stock of your $5 prior to departure.
-10089: The function of the $3 is twofold.
-10090: First and foremost, it's the key by which one gains entry to Abyssea.
-10091: Secondly, it serves as an anchor that secures one's essence to foreign dimensions.
-10092: A single stone is good for a $1-minute (Earth time) jaunt in Abyssea, and up to $2 can be in your possession at any given time. Multiplying those two numbers will give you the limit of your stay.
-10093: One thing to remember is that a good twenty hours (Earth time) are required to fully charge one stone. As such, I might not always have one on hand. I must beg your patience in that case.
-10094: Here for your $5? Let me see what I have for you...
-10095: Hm? Why, it appears you already have $2 stones. I'm sorry, <Player>, but it'd be irresponsible of me to furnish you with any more. Heavens forbid I have a hand in stranding you in a foreign world.
-10096: Oh dear, I'm afraid I don't have any fully charged stones for you right now. Could you check back again in a while?
-10097: Here you are, <Player>. That should suffice for the time being.
-10098: With the power of cruor, it's possible to teleport to any cavernous maw serving as a gateway to Abyssea. You only need to have visited that maw once before.
-10099: If you wish to go somewhere, a quick word with my assistant beside me here and you'll be off to your destination in the blinking of an eye.
-10100: It'll take me $4 more [minute/minutes] (Earth time) to fully charge another $3.
-10101: You wish to know how many $5 I have for you? Why, that'd be $1 of them.
-10102: Obtained key item: $1 $5!
-10103: Obtained key item: $1 $3!
-10104: I'm sorry, but I don't believe we're acquainted. Please leave me be.
-10105: <Sigh>... To see such vistas of peace and prosperity restored to my homeland once more...
-10106: Greetings, friend of Abyssea. [/Ivan/Ernst/Kierron/Cyril/Willis/Vincent] is my name. My superior officer [/Gilburt/Erich/Jerrett/Adrian/Fabricius/Fabien] and I have been dispatched here to provide logistical support to allies of our cause.
-10107: As you endeavor to restore light to our ravaged world, so too will we endeavor to aid you in every possible way.
-10108: How might I assist you this day?
-10109: What would you like to ask about? [My current cruor balance./Resistance outpost status./Teleporting to a cavernous maw./Nothing right now.]
-10110: The figures in my logbook tell me you have $0 cruor to your name.
-10111: Ask about which area? [Abyssea - Vunkerl./Abyssea - Misareaux./Abyssea - Attohwa./Never mind.]
-10112: According to the latest intelligence reports...
-10113: This area's pulse martello defense rate presently stands at $0%. The likelihood of an Abyssean horde invasion, on the other hand, is $1%.
-10114: You wish to teleport to a cavernous maw? In that case, please tell me your precise destination.
-10115: Go to which area's gateway? [Abyssea - La Theine./Abyssea - Konschtat./Abyssea - Tahrongi./Abyssea - Vunkerl./Abyssea - Misareaux./Abyssea - Attohwa./Abyssea - Altepa./Abyssea - Uleguerand./Abyssea - Grauberg./I've changed my mind.]
-10116: $1 cruor is required for transport to the gateway to Abyssea - [La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Uleguerand/Grauberg].
-10117: Ah, it seems you have insufficient cruor to make that journey.
-10118: Will you proceed? (Cruor balance: $2) [Make it so./Make it no.]
-10119: These martellos are defensive fortifications developed by the resistance to aid in our battle against the fell hordes. Enchanted structures, they may be employed to restore your health and magic, cure ailments, and generally restore you to fighting trim.
-10120: I have been entrusted with the supervision and maintenance of these martellos...but this is none of your concern.
-10121: I have been entrusted with the supervision and maintenance of these martellos. Would you be needing something of me?
-10122: Need something? [Assist with replenishment./Assist with upgrades./Martellos? Come again?/Nothing in particular.]
-10123: Splendid! Your aid is a great boon to the resistance effort. To replenish a martello, you'll need to insert one of these $5 into the structure.
-10124: Be forewarned: you will be unable to carry these and $5 at the same time.
-10125: Take along the $3? [Yes./No.]
-10126: We would be particularly indebted to you for efficient replenishment of martellos in remote locations. Best of luck in your efforts!
-10127: Why, is that not $6 already in your posssesion? You need only insert that into a martello to initiate replenishment.
-10128: I see that you currently possess $6. Do you wish to abandon your upgrading efforts and participate in replenishment instead?
-10129: You return the $3 and obtain $6 in its stead!
-10130: Your support is most heartening in these dark times. Upgrading a martello will require you to attach a device known as $6.
-10131: Mind you, the device is rather unwieldy. You will not be able to carry it and $6 at the same time.
-10132: Excellent. I would be especially appreciative if you could upgrade those martellos in distant locations--the quicker the better. Be careful out there!
-10133: Hm? Is that not $6 you hold in your hand? You need only find the martello you wish to upgrade, and attach it.
-10134: Is that $6 I see? Do you wish to curtail your replenishment activities and assist with upgrading instead?
-10135: Welcome back, friend! Allow me to take that $3 off your hands. How did you fare in your efforts?
-10136: I see, I see... Martello #0$1, you say? It sounds as if the operation was [a modest success./a reasonable success./a rousing success!/an unqualified success!]
-10137: The resistance greatly values your contributions. Take this as a small token of our appreciation, and do not hesitate to return the next time you are willing to lend your support.
-10138: I've been working with these here martellos since I was knee-high. Ask away, and my knowledge is yours.
-10139: Ask something? [So, what's a martello?/Martello replenishment./Martello upgrades./Cautionary notes./Not now.]
-10140: The device we know as the martello was first developed by military engineers many years past, during an age of great war. Martellos serve to keep combatants fighting fit, healing their wounds and restoring their mental energies.
-10141: You will observe that martellos have been constructed in numerous locales, so as to provide strategically located safe havens for harried resistance fighters. No doubt you will find yourself making use of them as well.
-10142: In the bowels of each martello is contained a tank designed to hold martello fuel.
-10143: This $3 is the lifeblood of the martello, and the source of its curative powers. Depleted stores will render the device little more than an oversized parchmentweight.
-10144: That being the case, we're in continual need of volunteers willing to take on the vital task of replenishing these martellos.
-10145: I have been charged with overseeing a supply of martello fuel. Should you be willing to take part in a replenishment run, you need only say the word. Needless to say, you will not go unrewarded for your efforts.
-10146: Feast your eyes on this $3. She's a beauty, isn't she? Installing one of these into a martello will increase its fuel capacity.
-10147: An upgraded martello will be able to sustain its energy stores for a longer time between replenishment operations. Needless to say, this is a blessing and a half to those on the battlefield.
-10148: Unfortunately, the installation procedure is quite complex. As such, we can only entrust it to experienced hands.
-10149: 5 are quite large and unwieldy. Even the burliest among us would be unable to carry one and $6 at the same time.
-10150: Furthermore, these materials are quite unstable, and will rapidly corrode and be rendered useless if brought outside our immediate environs.
-10151: 'Course, not that anyone could manage to travel that far, what with these fearsome landslides...
-10152: Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset.
-10153: Your $3 has been lost.
-10154: The resistance is currently suffering a materials shortage. Those wishing to participating in replenishment and upgrading operations should return at a later time.
-10155: The $3 breaks!
-10156: Table: $0
-10157: Very well, friend. Should you ever find yourself in need of assistance, do not hesitate to return.
-10158: Greetings, friend! I am a synergy engineer, dispatched from the Institute to maintain the furnaces you see beside me. I also have knowledge and services to share with fellow synergists, if that is what you desire.
-10159: I see from the puzzled expression on your face that you are unfamiliar with our discipline. To use these furnaces, you will first need to obtain $6.
-10160: Piqued your curiosity, have I? Then you should speak with Hildolf, our institute director, at his laboratory in the Bastok Metalworks. He's always eager to welcome a new synergist to our ranks.
-10161: May I be of service? [Not now./Learn recipes./Check fewell./Replenish fewell./Purchase materials./Receive training./Trade cinder./Get information.]
-10162: Recipes, you say? Let's see what we have that's suitable for your level of expertise...
-10163: ...I'm sorry. I'm afraid there's nothing I can teach you at the moment.
-10164: I've got it! How about $0? Mind you, it'll require a certain level of skill...
-10165: Synergy skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran].
-10166: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-10167: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-10168: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-10169: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
-10170: As for materials, you'll be needing...
-10171: $1 $0 .
-10172: $1 $0 . $3 $0 .
-10173: $1 $0 . $3 $0 . $5 $0$4 .
-10174: $1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 .
-10175: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1.
-10176: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3.
-10177: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5.
-10178: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7.
-10179: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9.
-10180: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11.
-10181: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13.
-10182: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15.
-10183: There you go. That doesn't sound so hard, now, does it?
-10184: But of course! If you'll just allow me to inspect your $3 for a moment...
-10185: Your fewell supply would appear to be as follows: o o $1 o!$2 o"$3 o#$4 o$$5 o%$6 o&$7.
-10186: Running low? We can fill you up for a nominal fee.
-10187: Replenish fewell? [Yes./No.]
-10188: Looking for a fewell fill-up, you say? Then you've come to the right place!
-10189: ...Hm? Why, your tank is already full to bursting. Come back again if you need a refill.
-10190: Now let's see here... According to my calculations, I can fill you up to capacity for $0 gil. How does that sound?
-10191: Pay $0 gil? [Deal!/No thanks.]
-10192: Understood. Take care to monitor your reserves closely, lest you run out of fewell in the midst of a crucial procedure.
-10193: I'm afraid you haven't the requisite gil, friend. Perhaps another time.
-10194: Excellent! Now we just pop open your $3 here, and...
-10195: There you go. Filled to the brim with a fresh batch of fewell! Can you smell those fumes? Mmm-mmm!
-10196: Your $3 has been filled to capacity!
-10197: You hand the synergy engineer $0 gil.
-10198: How do you expect me to do that when your $3 is sitting inside a furnace, friend? You'll have to come back after you've finished synergizing.
-10199: Materials, you say? But of course! Have a look at our selection.
-10200: Purchase something? [Not today./$1 $0 : $2 gil./$3 $0 : $4 gil./$5 $0 : $6 gil.]
-10201: For $1 $0 , that comes to $2 gil.
-10202: Ah, another dedicated synergist looking to refine [his/her] technique. Excellent! That motivation will serve you well.
-10203: ...But I'm afraid you'll need [/ever so slightly more/a bit more/more/a good deal more/considerably more] experience before you're ready to benefit from my training.
-10204: And yes, it would seem you're at just the right skill level to receive my training. So, what will it be? Which technique would you like to improve?
-10205: Train in which technique? [Cancel./Fewell feeding. (Current Lv.: $0)/Furnace thwacking. (Current Lv.: $1)/Pressure handle. (Current Lv.: $2)/Safety lever. (Current Lv.: $3)/Furnace repair. (Current Lv.: $4)/Fewell recycling. (Current Lv.: $5)]
-10206: You wish to improve your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique. Is this correct?
-10207: It would seem your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique already exceeds my own. There is no more I can teach you.
-10208: Train in this technique? [Yes./No.]
-10209: Very well! Now listen up, watch closely, and try to follow along...
-10210: ...See, you take this part here, and... Yes, yes...just like that...
-10211: ...Now steady here, or you'll be picking exploded furnace shrapnel out of your face for a week! Phew, that was a close one...
-10212: ...And by applying Corollary Five of Hildolf's Third Theory of Inverse Transfocal Equilibrium, we find that...
-10213: <Clink, clank...clunk> ...Er, let's try that once more...
-10214: ...Superb! A quick learner, I see. If only all my students were as attentive as you!
-10215: Your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique increases to level $1!
-10216: Research into the composition of the cinder produced as a side effect of synergy just might lead to the next breakthrough in our field. Provide us with samples for analysis, and we will gladly reward your contributions.
-10217: Trade in your cinder? (Currently: $0 Pz) [Not now./$1: $2 Pz./$3: $4 Pz./$5: $6 Pz./$7: $8 Pz./$9: $10 Pz./$11: $12 Pz./$13: $14 Pz./$15 gil: $16 Pz.]
-10218: This is what you want, correct?
-10219: Make the exchange? [Yes./No.]
-10220: It would appear that you lack the necessary quantity of cinder for that transaction.
-10221: Excellent! And this is yours. May it serve you well!
-10222: You transferred $0 Pz of cinder to the synergy engineer. $1 Pz [remains/remain] in your possession.
-10223: Ask about what? [Nothing./Synergy furnaces./Synergy overview./Synergy procedure./Synergy recipes./Fewell replenishment./Materials for sale./Synergy techniques./Trading cinder.]
-10224: The synergy furnaces you see around town are provided as a public service by the Bastokan Institute of Synergy Research, to ensure that no synergist is ever far away from the tools of their trade.
-10225: The synergist must provide his or her own $3, as well as any materials to be used in the synergy process. Provided those conditions are met, synergy furnaces may be used free of charge.
-10226: Needless to say, only one party may operate any given furnace at once.
-10227: Fortunately, there are multiple furnaces installed throughout town. If the furnace before you is already in use, please seek out an unused one elsewhere, or wait patiently for your turn.
-10228: You may think of synergy as an evolved form of synthesis. It is a discipline full of heretofore unimagined possibilities, but one which demands consummate skill from its practitioners.
-10229: Like synthesis, synergy involves combining materials according to a prescribed recipe to yield oft-spectacular results. The rub is that each synergy recipe also dictates a certain elemental balance that must be achieved for the procedure to be successful.
-10230: This balance is achieved through skillful infusion of combustible elemental crystals that we synergists call "fewell." To begin the synergy process, you'll have to feed the furnace with fewell and get those flames burning!
-10231: As a general rule, the more complex the recipe, the more fewell it will require. Take care to check your stock before you fire up the furnace, lest you find its flames guttering out at a crucial moment.
-10232: With the belly of the furnace roaring up a storm, it's time to toss in your materials and start synergizing! Keep a close eye on the balance of elements and deploy fewell as necessary. Approach the prescribed elemental balance, and your item will take form, allowing you to remove it from the furnace.
-10233: The closer you are to the ideal elemental balance, the higher the quality of your finished product will be. In synergy, it pays to be a perfectionist!
-10234: But be forewarned: these furnaces can only sustain the elemental maelstrom swirling and storming inside them for so long.
-10235: If the furnace's durability should fail, the synergy process will be interrupted, and you will be forced to start anew.
-10236: Take heart, though, as any materials inside your $3 will remain intact. You may retrieve them or attempt the synergy process again as you see fit.
-10237: Any fewell consumed in the failed synergy attempt, on the other hand, will be permanently lost.
-10238: Synergists must also be wary of debris buildup, an unavoidable side effect of the volatile elemental reactions that take place within the synergy furnace.
-10239: Should too much debris be allowed to accumulate, the contents of the furnace will become unstable, potentially leading to unpleasant explosions and eruptions. Such accidents pose considerable risk to the synergy attempt in progress, as well as the physical well-being of the synergist, so be sure to exercise due caution!
-10240: You may be asking yourself, "Why, how in the name of Hildolf am I going to oversee all of these complicated procedures and variables by myself?"
-10241: Here's the good news: you don't have to! For you see, synergy furnaces are designed for use by multiple operators.
-10242: The more complex the recipe, the greater level of skill and hands-on manipulation it will demand. At such times, it would be in your best interest to seek out like-minded synergists and take on the challenge together.
-10243: Finally, it would be remiss of me not to make mention of $0, the curious substance whose properties are only now--with the emergence of synergy--becoming known to us.
-10244: Though there is much yet to be learned, our research has revealed that $0 may be used to bolster your equipment, if attached in a proper manner.
-10245: Mind you, $0 is not easy to come by, and I can offer no clues as to where or how to obtain it. Should you be fortunate enough to come across some in your travels, however, I encourage you to explore its potential.
-10246: Synergy is not a discipline for the faint of heart or mind, but with dedication and cooperation, there are great rewards to be reaped. May your career as a synergist prove fruitful!
-10247: First, you'll be wanting to check your fewell supply. You may do so by speaking with a synergy engineer such as myself, or by examining a synergy furnace.
-10248: You'll be needing at least one unit of fewell for each element dictated by your recipe. Without this, even the most skilled synergist cannot hope to succeed.
-10249: Should your fewell supply be in order, it's time to proceed with the synergy. If you are using one of these public synergy furnaces here, you'll need to examine it and lay claim to its use.
-10250: You may then deposit your ingredients. Should they correspond to a proper recipe, the synergy furnace will fire up automatically. Note that as a safety precaution, the furnace will not activate if the recipe is beyond your level of synergy skill.
-10251: From here, it becomes a race against the clock! Through skilled operation of the synergy furnace, you must achieve the elemental balance prescribed by the recipe before the furnace's durability fails.
-10252: Fortunately, synergy furnaces are outfitted with a wide array of features designed to aid the synergist in this demanding task. First, you'll want to confirm the current balance of elements within the furnace and compare it to your desired result.
-10253: Next, you can begin to feed fewell into the furnace to gradually raise the level of elemental concentration. Feeding fewell into the furnace until the required elemental balance is achieved is the most fundamental operation of synergy.
-10254: However, high concentrations of elemental power can lead to volatile and unpredictable reactions. Simply adding fewell haphazardly without making the necessary adjustments is a recipe for only one thing, and that's disaster.
-10255: If you sense that the furnace is on the verge of elemental overload, you'll want to employ the safety lever and pressure handle to prevent an unfortunate accident from occurring.
-10256: You'll also want to mind the laws of elemental ascendancy and opposition. Increasing the concentration of a particular element will cause its counterpart to decrease.
-10257: The furnace cannot sustain its power indefinitely, and will gradually lose durability as the synergy process continues. You'll need to perform periodic furnace repair should the furnace near its breaking point.
-10258: It is also possible to recycle strewn fewell during synergy. While this will not impact the success or failure of the process itself, it will result in a greater amount of salvageable cinder produced as a by-product.
-10259: This cinder is of great interest to our researchers back at the institute. As such, we have introduced a reward system through which quality samples can be traded in for an assortment of synergy-related wares.
-10260: As marvelous an apparatus as the synergy furnace may be, keep in mind that the technology is still in its infancy, and highly unstable. There may be times when accidents occur despite the best efforts of the synergist.
-10261: For your safety, we recommend stepping as far away from the furnace as possible at the first sign of danger. Some synergists claim that giving the furnace a good thwack is also effective in preventing such accidents, but this is pure madness, if you ask me!
-10262: You will also find that there are numerous techniques that can be applied to make the synergy procedure go even more smoothly.
-10263: In many cases, expertise and knowledge acquired through crafting will serve you in synergy as well. To truly master synergy, one must master crafting as well.
-10264: Now let us return to the synergy process itself. As your elemental balance approaches that prescribed by the recipe, the furnace will signal you, and you may retrieve your finished product.
-10265: If the furnace is still holding strong at this time, you may choose to keep working to achieve an even closer balance. The closer you come to the ideal balance, the higher the quality of your finished product will be.
-10266: Indeed, many synergy masters consider these waning moments after the signal to be the time to really show off their skills! Why, if they manage to achieve an elemental surge...
-10267: What's an elemental surge, you ask? Why, it's a miraculous phenomenon that occurs rarely--ever so rarely--upon feeding the furnace fewell.
-10268: The elements react just in the right way, creating a miraculous reaction that brings the level of elemental concentration to exactly the desired level. Truly a boon from the Goddess for any synergist, no?
-10269: ...And that is the synergy process in a nutshell. There's quite a bit of information to take in, so don't hesitate to return any time for a refresher course.
-10270: Much like synthesis, to fashion items through synergy, you will need to follow a recipe. We synergy engineers are always unearthing new recipes, and are happy to share with you those suitable for your level of skill.
-10271: Unlike synthesis, however, a synergy recipe is more than just a list of ingredients. There is also a required elemental balance that must be attained to achieve your desired result.
-10272: Simple recipes involve only small doses of a limited number of elements, but more complex ones require the synergist to skillfully juggle wide ranges of elements in extremely high concentrations.
-10273: The ingredients, you will have to remember on your own. The required elemental balance, however, may be reviewed at any time during the synergy process by observing the readings on the synergy furnace.
-10274: In particular, recipes through which the curious substance known as $0 can be attached to equipment are creating quite a buzz among synergistically inclined adventurers these days.
-10275: # cannot be attached directly. First, equipment must be prepared by etching an aperture into which an elementally compatible piece of $0 can then be embedded.
-10276: The type of aperture that may be etched will depend on the piece of equipment. There are also pieces of equipment that, alas, may not be modified at all.
-10277: If you are curious what manner of aperture may be etched into a particular piece of equipment, you need only trade it to me or one of my colleagues.
-10278: As a general rule, the higher the level of the item in question, the more difficult the synergy process for creating an aperture will be.
-10279: You will find that certain pieces of equipment may be etched with multiple apertures. It is, however, only possible to create one aperture at a time.
-10280: Etching requires the use of a corrosive substance we call mordant. Deposit mordant into a synergy furnace along with your equipment, and the process will begin.
-10281: My colleagues and I have a stock of mordant available for sale. The best way to learn is to practice, so if you're curious, we encourage you to purchase some and begin experimenting!
-10282: The difficulty of the synergy process when embedding evolith is decided by a number of factors.
-10283: Such factors include the variety of aperture and evolith, as well as the quantity of evolith you seek to attach. Embedding the first piece is not too difficult a task, but the second and third pieces will not go in so easily.
-10284: To begin the embedding process, deposit your evolith into the synergy furnace along with a piece of equipment with a compatible aperture.
-10285: When etching or embedding, the required elemental balance may be confirmed at any time during the synergy process, so let this be your guide.
-10286: Should you ever wish to remove any apertures and embedded evolith from a piece of equipment entirely, you may do so with an ingredient we call revertant.
-10287: Toss the revertant in a synergy furnace along with your equipment, and its potent powers will restore your item to a pure and pristine state! Be warned, however, that embedded evolith will be lost forever in the process.
-10288: As you are no doubt already aware, synergy makes use of a highly combustible form of elemental crystals that we call "fewell." The more complex the recipe, the greater the quantity of fewell required.
-10289: Veteran synergists know well the hassle of having to constantly monitor their fewell supply and procure crystals to replenish depleted stock.
-10290: To free you of such trifling burdens and allow you to focus your mind entirely on your art, we synergy engineers are offering a convenient fewell replenishment service!
-10291: For a nominal fee calculated based upon the current state of your fewell reserves, we will instantly refill you to full capacity.
-10292: That's right--all elements in one simple transaction, directly to your $3! What could be easier?
-10293: Looking to fire up your furnace and enter the world of $0? If so, you've come to the right place!
-10294: We're proud to offer a supply of the corrosive agent known as mordant for sale. With this, synergy newcomers can hone their skills and outfit their equipment with evolith-capable apertures in the process.
-10295: Mind you, our stock is limited to only the most diluted, readily produced form of the stuff. You'll find that it only has the strength to etch items of relatively low level.
-10296: Etching high-powered equipment requires the use of more concentrated and potent forms of mordant. As quantities are limited, we can offer these only in exchange for cinder.
-10297: Ah, synergy techniques! Those handy tricks of the trade that can mean the difference between a shiny new item and a major furnace meltdown.
-10298: My colleagues and I are always eager to train fellow synergists in a wide range of techniques. We can't do it all, though--you'll need to hone your synergy skill in order to benefit from our instruction.
-10299: Bear in mind that certain techniques can only be imparted to students possessing specialized crafting knowledge. For example, only skilled smiths will be able to comprehend the method for more efficient fewell feeding.
-10300: Accomplished goldsmiths will be able to observe the inner workings of the furnace and stave off potential accidents. You will find that all crafting skills--even those you may not expect--may be applied in some way to support the synergy process.
-10301: Word has it that there are also pieces of equipment that can impart hidden synergy techniques to the wearer. These, too, are said to be only accessible to skilled crafters.
-10302: The moral of the story is this: while synergy skill is important, neglect not your other crafting skills. To become a true synergy master, finding the proper balance is key.
-10303: Synergy remains a young discipline, and researchers back at the institute are burning the midnight fewell in the hopes of uncovering the next breakthrough in our field.
-10304: Research of late is centered around the cinder that is left behind as a by-product of each synergy operation. Their composition, it would seem, has much to teach us of the true nature of the complex elemental reactions that go on within the bellies of these furnaces.
-10305: We've even instituted a reward program for adventurers willing to contribute prime samples in the name of science.
-10306: It would be no exaggeration to say that, to us, cinder is worth more than its weight in gold! Bring it to me or my colleagues--preferably in large quantities--and you're sure to be pleased at what we can offer you in return.
-10307: Wondering if your $0 can be outfitted with evolith, are you? Well, you've come to the right place!
-10308: A quick look at its composition should tell us all we need to know. Let's see here...
-10309: Congratulations! Your $0 can indeed hold [an/another] evolith aperture. A $2-shaped aperture, to be exact...
-10310: ...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&].
-10311: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-10312: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-10313: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
-10314: That is all. Should you wish to have any other pieces of equipment analyzed, you know where to find us.
-10315: Hmm... I'm afraid your $0 cannot house any more apertures.
-10316: ...Alas. It's a shame, but it appears your $0 cannot be etched.
-10317: Hmm, what's this? It would seem that your $0 cannot be etched at this time.
-10318: Do you love synergizing as much as I love synergizing!? 'Cause if you do, you're gonna loooooove the recipes I have for you!
-10319: View recipes for which skill level? [Actually, never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]
-10320: Browse to which page? [Cancel./Page [1/9/17/25/33/41/49/57/65/73/81/89/97/105/113/121]./Page [2/10/18/26/34/42/50/58/66/74/82/90/98/106/114/122]./Page [3/11/19/27/35/43/51/59/67/75/83/91/99/107/115/123]./Page [4/12/20/28/36/44/52/60/68/76/84/92/100/108/116/124]./Page [5/13/21/29/37/45/53/61/69/77/85/93/101/109/117/125]./Page [6/14/22/30/38/46/54/62/70/78/86/94/102/110/118/126]./Page [7/15/23/31/39/47/55/63/71/79/87/95/103/111/119/127]./Page [8/16/24/32/40/48/56/64/72/80/88/96/104/112/120/128]./Previous page./Next page.]
-10321: View which recipe? ([Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran], p. $8). [None./$0./$1./$2./$3./$4./$5./$6./$7./Return to page selection./Previous page./Next page.]
-10322: Oh, the $0? Why, that's one of my favorite recipes, too! What skills does it require? Let's see here...
-10323: Well, look at this. All you need is a furnace and your own Goddess-given synergy skills to make that one! Ain't synergy grand?
-10324: Wait! No, don't tell me. You strike me as a [man/woman] who's looking to learn a thing or two about synergy.
-10325: Learn about synergy? [Not today./Teach me!/Just give me $6.]
-10326: A life without intellectual curiosity is a life hardly worth living. Should your eyes one day open to this truth, you are free to return.
-10327: I thought you'd never ask! Synergy is both an art and a science: an evolution--nay, a revolution--in synthesis.
-10328: Using $6 in conjunction with a synergy furnace--the apparatus you see beside me--the synergist wields the power of myriad elements to fabricate a veritable host of potent items.
-10329: What we call $6 serves to dispense fewell crystals--the lifeblood of the synergy process--whilst also protecting its contents from the volatile reactions that occur within the bowels of the furnace.
-10330: Synergy furnaces have been installed throughout the city for the use of all synergists. The crucible is sufficiently compact and lightweight that you can carry it with you.
-10331: Initiating the synergy process is as simple as inserting your $3 into a furnace and commencing the infusion of elemental fewell.
-10332: Needless to say, what will happen from there is not quite so simple.
-10333: Successful synergy is contingent upon maintaining elemental equilibrium. The prescribed ratio, of course, will vary depending on the artifact you are attempting to create.
-10334: You can increase the ratio of a particular element by burning the corresponding variety of fewell.
-10335: But herein lies the rub: synergy is a still young science, and the technology we employ remains, shall we say...unstable.
-10336: A bit too much fewell here, a wrong lever pulled there, and the percolating pot will explode, spitting scalding elemental guck every which way to Firesday.
-10337: That's why smart synergists synergize in numbers. Too many culinarians might spoil the broth, but when it comes to synergy, it's the more the merrier!
-10338: An aspiring synergist, I see! If you're looking for $6, you've certainly come to the right place.
-10339: I can sell you a splendid entry-level model for $0 gil. A small price to pay to embark on a lifelong journey of scientific discovery, wouldn't you say?
-10340: $0 gil, paid in full!
-10341: As promised, here's your $3. And because I like your enthusiasm, I've even stocked it to the brim with fewell for you! How's that for a deal?
-10342: The synergist must provide his or her own $3, as well as any materials to be used in the synergy process. Synergy furnaces themselves may be used free of charge.
-10343: Should you wish to learn more about the science of synergy, seek out one of the engineers stationed throughout the town.
-10344: Why, hello there! My tremendous task is to tabulate your precious points for the login campaign and exchange them for pleasing prizes, kupo!
-10345: Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!
-10346: What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]
-10347: In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!
-10348: You can trade them for incredible items to assist you with your adventures!
-10349: You can even procure more points by logging in routinely, which we all want, since Vana'diel always anxiously awaits your appearance!
-10350: You can trade in these tokens for our gratuitous gifts any time during this campaign!
-10351: Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!
-10352: Up to 1500 points from the current campaign can be carried over to the next one starting with the April 2016 login campaign!
-10353: Any additional points will be summarily seized, kupo!
-10354: View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]
-10355: $22-pt. items ($1 pts.): [$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./Back.]
-10356: $23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]
-10357: How many would you like, kupo?
-10358: Altana above! You do not possess the prerequisite number of points!
-10359: Proceed with exchange? ($1 pt[/s].) [Yes./No.]
-10360: Wait one short second while I get your goods!
-10361: Something went wrong, kupo! Try again later.
-10362: Here you can play the game Mandragora Mania.
-10363: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
-10364: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
-10365: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
-10366: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
-10367: You may pay $& gil to reset all rewards, enabling you to purchase them again.
-10368: Reset rewards? ($' gil). [Yes ($& gil)./No.]
-10369: You do not have enough gil.
-10370: All rewards have been reset.
-10371: You have already purchased the $2.
-10372: You need at least $3 jingly to purchase the $2.
-10373: The reward exchange period has turned over and all rewards have been reset.
-10374: You may reset all rewards from the appropriate dialogue box.
-10375: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
-10376: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
-10377: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
-10378: Starting player set to [Random/You/Opponent].
-10379: Read the manual? [Sure./No thanks.]
-10380: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
-10381: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
-10382: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
-10383: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
-10384: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
-10385: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
-10386: You must choose one area--either yours or a neutral one--to proceed.
-10387: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
-10388: Conversely, your opponent must select either a neutral area or an area that belongs to them.
-10389: From the right, those areas are numbered 6, 4, 7, 2, and 8.
-10390: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
-10391: Note that the mandragoras will move from the back first--last in, first out.
-10392: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
-10393: You will enter your opponent's territory whenever you go past the goal.
-10394: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
-10395: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
-10396: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
-10397: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
-10398: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
-10399: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
-10400: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
-10401: Standard mandragoras: 1 jingly (both players).
-10402: The game is over when either you or your opponent no longer has any mandragoras that can move.
-10403: The player who has the most jingly at that point will be declared the winner.
-10404: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
-10405: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
-10406: You have selected Area $0.
-10407: You receive $0 jingly for a total of $1.
-10408: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
-10409: Your opponent has selected Area $0.
-10410: Your opponent receives $0 jingly for a total of $1.
-10411: Game Complete!
-10412: [Victory!/Defeat!/Draw!] ($0 - $1)
-10413: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
-10414: That area has no mandragora to move.
-10415: You will forfeit all jingly earned this game if you give up. Are you sure?
-10416: Really give up? [Yes./No.]
-10417: You receive $0 jingly for a total of $1.
-10418: You have reached the jingly cap of $0. Any additional jingly will be lost.
-10419: An error has occurred. Please try again.
-10420: DEBUG ( [OFF/ON]
-10421: RANDOMF0-$0 ( $1
-10422: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
-10423: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
-10424: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
-10425: 
-10426: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
-10427: NPC Selection ( Area $0
-10428: DEBUGFNPC Selection Controls ( [OFF/ON]
-10429: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
-10430: @@
+ 9880: Selet a job. [Never mind./Warrior./Monk./White Mage./Black Mage./Red Mage./Thief./Paladin./Dark Knight./Beastmaster./Bard./Ranger./Samurai./Ninjaa./Dragoon./Summoner./Blue Mage./Corsair./Puppetmaster./Dancer./Scholar./Geomancer./Rune Fencer.]
+ 9881: With me today is a man who needs absolutely no introduction, Markovich, and our favorite...
+ 9882: Oh...? Isn't the adorable Sakura with us today?
+ 9883: I'm afraid Sakura's been rather busy lately and won't be able to join us here at these races. I'll do my best to make up for her absence.
+ 9884: Is that so...? Things just won't be the same without her lovably abrasive, tongue-in-cheek comments...
+ 9885: Hmph! Enough of that crying into your microphone. You of all people should know that the show must go on!
+ 9886: Besides, today we have a very special race in store for our viewers. My very own "baby" will be taking the field!
+ 9887: Why, I was so looking forward to today's race, I couldn't catch a single wink of sleep last night!
+ 9888: But of course! I had forgotten all about it! Ladies and gentlemen, have we got a special treat for you! Today's race will see a chocobo and a monster go head-to-head!
+ 9889: But that's not where it ends! There will be not a single jockey to adulterate this epic battle of bird versus beast! How do you like the sound of that, folks?
+ 9890: A bold experiment in racing, if I do say so myself. Markovich, how do you foresee the competitors reacting to each other's presence in this most unusual of settings?
+ 9891: It is my understanding that an especially intelligent chocobo was chosen to partake in this race, so there shouldn't be any worry about it being spooked.
+ 9892: Moreover, my little fluffykins is as well-bred and well-behaved as your average head of state! But...
+ 9893: But...?
+ 9894: I can't say anything for certain heading into this race. After all, nothing like this has ever been attempted in the history of chocobo racing.
+ 9895: I see... Could that perhaps be the reason why this first-ever experiment has been limited to a one-on-one affair?
+ 9896: You're certainly on the ball today, Goccilo. Even if the chances are slim, we wouldn't want anything to go awry now, would we?
+ 9897: But enough talking, I say. It's time to give the viewers what they've come here to see!
+ 9898: Oh, yes, right... Ladies and gentlemen, sorry for the delay! It is my pleasure to introduce the two plucky participants in this history-making race!
+ 9899: In the chocobo corner, we have $0, undisputed champion of the official races, and considered by many to be one of the greatest birds ever to grace the Chocobo Circuit.
+ 9900: Oooh... So this is the much hyped-about chocobo? I wonder if it'll be able to stand up to my Pacey.
+ 9901: $0's formidable opponent will be Phantom Pacer! Don't let the lamblike good looks fool you, folks. This one truly lives up to the expression, "a wolf in sheep's clothing"!
+ 9902: I'll have you know that Pacey's appearance isn't just for show. I've survived many a cold winter snuggling up to her fluffy coat. Much better for my aching joints than a crackling fire, I tell you!
+ 9903: I'm absolutely breathless! That was as hotly contested a race as we have seen in recent years! Any thoughts, Markovich?
+ 9904: Hrm. This race has proven beyond doubt that "monsters" like my Pacey can race alongside chocobos without any problems whatsoever.
+ 9905: Indeed! I for one am certainly looking forward to seeing more such races!
+ 9906: With me today is our regular avian advocate turned adversary, Markovich!
+ 9907: Whoopee! Bring them on, I say!
+ 9908: Erm...yes... Now, let's take a look at the courageous contenders in today's race.
+ 9909: Oooh, so this is the chocobo that's been making headlines. I wonder if it'll be a match for my babies.
+ 9910: Next, we have the perennial woodenspooner, Keyaki! Despite its dismal track record, its never-say-die attitude has earned the admiration of fans and competitors alike.
+ 9911: Truly a bird on a mission, Goccilo. I just hope I'll live long enough to see its efforts pay off.
+ 9912: And with four monsters completing the lineup, I think we can brace ourselves for another encounter of epic proportion!
+ 9913: My, oh my...! I never imagined commentating would be so enjoyable without Sakura around to--
+ 9914: A-ahem! I...I mean, um, yes, I believe the race lived up to all expectations. No racing enthusiast could possibly go home disappointed after such an inspirational display.
+ 9915: All competitors raced gallantly and are deserving of praise, but none more so than the victor...who just happens to be one of my babies! Well done, my pretty! Well done!
+ 9916: It's unfortunate, though, that race conditions hindered the performance of some of the more promising contenders... <Sniffle>
+ 9917: Next in the lineup is Sakura. ...!? What on Vana'diel!?
+ 9918: Hrmmm... Well, they do say that imitation is the sincerest form of flattery.
+ 9919: Uh, of course, that couldn't have been our Sakura. Though I must admit, for a moment there...I mean, who wouldn't have been shocked to see...
+ 9920: What are you blabbering on about now? Pull yourself together, man! There are countless race fans waiting to be entertained by our witty commentary!
+ 9921: Um, yes... Please forgive me...
+ 9922: And won't you look at the lineup! This time we have a tiger...and even a raptor! Can you believe it, folks? I'm sure glad to be up here and not down on the track alongside the likes of them! Is there no creature they won't bring in!?
+ 9923: And with me today is our regular guest commentator...
+ 9924: Huh? Why isn't Markovich here?
+ 9925: Ohohohohohoho! You seem in a bind, Mister Goccilo.
+ 9926: <Gulp> You...you're that mage from Windurst...
+ 9927: ...Professor Shantotto!
+ 9928: If you're in need of a replacement for Markovich, as a racing connoisseur, I'd be glad to make the switch.
+ 9929: Furthermore, in a stroke of sheer coincidence, four custom-built Cardians are here in my presence.
+ 9930: So if you care to hear out my little proposal, these race-ready Cardians are also at your disposal.
+ 9931: With Markovich and his racing monsters absent, looks like I have no other choice... Will you really help us, Professor Shantotto?
+ 9932: With which black-hearted biddy do you have me confused? Enough with your doubting, there are competitors waiting to be introduced.
+ 9933: First up, we have Jack of Trophies, who has been climbing the Cardian ranks at breakneck speed since its upgrade.
+ 9934: Jack of Trophies' transfiguration was a sight to behold. I just can't wait to see how its story will unfold.
+ 9935: Next, I introduce to you, Queen of Trophies, who has been the mainstay of Windurst's Cardian force since its inception.
+ 9936: Queen of Trophies knows not the meaning of the word "failure." Once set on a mission, from that course it will not veer.
+ 9937: Then we have King of Trophies, whose state-of-the-art leg component is a testament to Windurst's achievements in magical engineering. This experimental Cardian could very well be the future of Cardian technology, folks.
+ 9938: Even I dare not claim to know of what King of Trophies is capable. If some mishap should occur, be so kind as to not hold me culpable.
+ 9939: Next we have Ace of Trophies, whose racing prowess is vouched to be in a class of its own. Make no mistake, ladies and gentlemen--this Cardian is a championship contender!
+ 9940: For Ace of Trophies, "championship contender" is an unfitting description. Even "consecutive champion" would not be too high an expectation.
+ 9941: Um...Professor Shantotto... Shouldn't we be introducing other race participants as well...and not only your Cardians?
+ 9942: Ohohohohoho! Your impeccable attention to detail pleases me so. But as we lack for time, on to the race, we must go!
+ 9943: Even these race-bred chocobos shrivel before my Cardian entourage. Compared to the automatons, they're as slow as a splintery river barge.
+ 9944: Now, I think, we've all had a sufficient preview. So let the race begin, without further ado!
+ 9945: Ohohohohohoho! Of this inevitable result, I was always assured-- that a Cardian would come away with victory secured!
+ 9946: The home ground advantage was not in my Cardians' favor. But with some minor adjustments, victory shall be mine to savor.
+ 9947: H-hey! What do you think you're trying to pull here!?
+ 9948: My, my, what a pleasant surprise! I'm relieved to see that you are well...and alive.
+ 9949: How dare you "ohoho" your way into my hard-earned commentary seat! This is a blatant act of...racejacking! You despicable...racejacker!
+ 9950: Hush now, we mustn't resort to such hurtful vilification. I merely wished to let you take that much-deserved vacation.
+ 9951: And you, Goccilo! What were you thinking, replacing me with the likes of her!? And don't you think that I don't notice how you slack off when Sakura isn't here!
+ 9952: Ahem! W-well folks, that's it for another exciting edition of chocobo racing! Until next time...!
+ 9953: <Player>, I knew you'd make it all the way here.
+ 9954: What's with the baffled expression? It's me, Sakura.
+ 9955: You see, I'm actually a full-grown bird. I've been hiding it all this time, using a transformation item to pose as a cuddly chocobo chick.
+ 9956: I was separated from my mother at a very young age, and have been with Markovich ever since he found me as a stray chick. But all these years, I've never once given up on finding my real mother.
+ 9957: I have only a few memories left of her--that she was an accomplished racing chocobo...
+ 9958: And that she quit racing because she felt the circuit was no longer enough of a challenge.
+ 9959: I thought that if I could get together a strong enough field of competitors, Mother would be enticed to return to the fray. That's why I'm here today--to seek the best racing chocobos to run in the upcoming Dream Race.
+ 9960: Working in race commentary as a chick, and now running in this race... Everything has been for the purpose of being reunited with Mother. Not even Markovich knows what I've been doing.
+ 9961: I intend to invite today's victor to participate in the Dream Race.
+ 9962: I hope that'll be your chocobo, <Player>!
+ 9963: And next, we have Sakura. But something seems to be different... Ah, her coat is a different color from when she appeared in the Deadly Race.
+ 9964: She must have obtained feather dye by trading chocobucks. She sure knows how to doll herself up!
+ 9965: The next competitor is Scorching Needle, a cactuar whose explosive acceleration is second to none.
+ 9966: I remember the time when it suddenly ran off on me. Boy, did it give me the runaround! A friendly reminder, folks: Be sure to wear gloves when handling cactuar.
+ 9967: And now, we come to Albinic Amami, a rabbit boasting jaw-dropping vertical jumping power and silken white fur that is irresistible to the touch.
+ 9968: It trains by jumping back and forth over my head! Gets me rather dizzy after a while, though.
+ 9969: And that completes the lineup, folks. With such a colorful combination of creatures, I have a feeling this race won't soon be forgotten by the fans!
+ 9970: You find $0.
+ 9971: Welcome to the Dream Race, <Player>.
+ 9972: I've decided to participate in this race as my true self.
+ 9973: I've always had an inferiority complex about being a different color from other chocobos.
+ 9974: I wanted to be normal and fit in. That's why I've been dyeing my feathers all these years.
+ 9975: But no more... If I really want to become champion, I can't continue to avoid coming face to face with my true self.
+ 9976: This is a lesson I learned from your chocobo.
+ 9977: I won't hold back in today's race, <Player>.
+ 9978: Aaah, the chocobo that's been stirring up a storm. I wonder if it has what it takes to go all the way.
+ 9979: Next in the lineup is the winsome woodenspooner, Keyaki, for whom this will be the first appearance in the Dream Race.
+ 9980: I never thought I'd live to see the day when Keyaki runs in this race. What is the world coming to?
+ 9981: Next, we have Sakura...
+ 9982: Wh-what in the name of the Goddess!? This magnificent white plumage--so pure and beautiful, like freshly fallen snow on the first winter's day!
+ 9983: Well I'll be... In all my years as zoologist, I have never before laid eyes upon a sight of such splendor!
+ 9984: ...
+ 9985: Phew...just getting a hold of myself here, folks. For this race, we will see a return to an all-chocobo affair--the way it's meant to be. What other pleasant surprises can we hope to expect today?
+ 9986: <Player>, the owner of the winning chocobo, will be awarded $6, $1, and the exalted title of "Chocochampion"!
+ 9987: Even I couldn't have guessed you'd come this far! Congratulations!
+ 9988: Great race, <Player>. It's hard to admit, but I was completely outclassed by your chocobo.
+ 9989: But what's more disappointing is, Mother didn't come.. With so many quality racing chocobos here, I was sure she'd appear, but...
+ 9990: Princess... Princess Sakura!
+ 9991: Princess...? What are you talking about? Who are you?
+ 9992: Please pardon your humble servant this sudden intrusion. I, your loyal handmaid, Keyaki, have been in search of Your Highness for the longest time.
+ 9993: Searching for...me?
+ 9994: Yes, Your Highness. You are the crown princess in the land of chocobos. Your snow-white plumage is undeniable proof of your royal lineage.
+ 9995: Are you serious!? Then doesn't this make my mother the queen!?
+ 9996: That is correct. Your Highness shares the same beautiful white plumage as Her late Majesty the Queen.
+ 9997: D-did you just say Her late...Majesty...?
+ 9998: ...! I-I beg your forgiveness, Your Highness...
+ 9999: Wh...what happened?
+10000: You were but a down-covered chick when the queen departed from this world. You were accompanying Her Majesty on a journey, when a horde of monsters attacked without warning. She protected you from the relentless fiends, but alas, was forced over the cliff face...
+10001: She...she gave up her life to save me?
+10002: Above all else, Her Majesty was known as a loving mother and dutiful queen. However, being the wide-eyed, innocent chick that you were, you instinctively followed your mother over the cliff, never to be seen again. But, I never once gave up hope...
+10003: My search spanned several years and took me to all four corners of Vana'diel. When I learned of the appearance of a new racing chocobo of unrivaled virtuosity, I made haste to the Chocobo Circuit with revived hope. And now...my long search is finally over.
+10004: So that's what happened...
+10005: Princess Sakura, your loyal subjects eagerly await your return. Let us now return to the land of chocobos!
+10006: ...
+10007: I'm sorry, but I can't go.
+10008: Your Highness! But...why!?
+10009: Until the day I triumph over a champion race chocobo like <Player>'s, I won't be worthy to become Queen.
+10010: What's more...
+10011: I just can't leave poor Markovich here alone by himself. Behind that spirited facade, he really is a lonely old man...
+10012: I understand your concerns completely, Your Highness. I shall remain here until you are ready to make your return to the land of chocobos.
+10013: What...?
+10014: The only place I belong is here, beside you.
+10015: And I suppose you won't be taking no for an answer? I'll have you know that there'll be no free-riders here. If you're planning to stay, you're going to have to train your feathers off, is that clear?
+10016: I would not have it any other way, Your Highness!
+10017: Heehee! Then what are you waiting for? Give me ten laps, on the double!
+10018: <Player>, I'm looking forward to our rematch! Until then, don't even think about disappearing anywhere, you hear?
+10019: You're still here, eh, <Player>?
+10020: Call it fatherly bias, but don't you think Sakura looks stunning in white?
+10021: What? How did I know that the full-grown white chocobo was actually Sakura, you ask?
+10022: Hohoho... It's not so difficult when you've been a zoologist almost your entire life. Chocobos may age, and their color change, but each will always have their own unique way of walking.
+10023: I've also always known that Sakura was searching for her mother. I only wish that I could have done more to help her...
+10024: Eh? What's this talk about the land of chocobos? No, I'm afraid I've never heard of such a place before.
+10025: Sakura is the queen, you say?
+10026: <Chuckle> That girl's just full of surprises. But to fall from grace at such an early age like that... Not a single day goes by without my heart going out to her.
+10027: You know what they say: Home is where the heart is. To the racing chocobos, each of the VCS's farms may very well be their own land of chocobos.
+10028: And you, our new Chocochampion! Don't forget that this title symbolizes the beginning, and not the end of your journey in chocobo racing.
+10029: Always do your best, and never forget those who have helped you get to where you are today. These are the simple wishes of a frail old man.
+10030: And they're off!
+10031: Hrmmm! [Both/All of the] contestants have gotten off to a great start!
+10032: Professor Shantotto, what did you think of the start?
+10033: All of the chocobos started well, in my general observance. But faced against my Cardians, that won't make the tiniest difference.
+10034: Ah! It looks like one of the contestants was slow out of the gate! Will it be able to catch up in time!?
+10035: Oh no! It looks like we have an accident on the field! One of the contestants has its feet caught in some mud. Can it get back on track in time!?
+10036: $0 looks unstoppable! I would be surprised if it was affected by any further attacks.
+10037: The speed of the other contestants has begun to drop! Who could have predicted such a turn of events!?
+10038: The nearby contestants are beginning to look confused! I doubt if they will be able to use any more items!
+10039: And yet the other contestants seem completely unaffected by the attack!
+10040: It's crowded up front with $0 contestants still fighting for the lead! Which one will break through!?
+10041: It's crowded up front with all $0 contestants still fighting for the lead!
+10042: The two contestants are neck and neck! This could be a screenshot finish!
+10043: What's this!? $0 has used $1!
+10044: $0 still holds on to the lead. Can it take it all the way to the finish!?
+10045: $0 is starting to lag behind! Does it have enough energy left to make that final dash for the cash!?
+10046: It doesn't look like anyone will be catching $0 today!
+10047: What's this? $0 is making its move on the lead!
+10048: $1: $0
+10049: What's this!? $0's using [Sheep Charge/Dust Cloud/Healing Breeze/Gloeosuccus/Ram Rage/Sprightly Step/Roar/Repair Wave/Shadow Wave/Slow Wave/Siphon Wave/Wild Carrot/Blaster/Mad Dash]!
+10050: Whoooa nellie! Some kind of refreshing breeze has got those [monsters/Cardians] looking light on their feet now!
+10051: $0 just went into a fiery rage! You gotta be kidding me! Look at that burst in speed! And fending off attacks from the other chocobos like nobody's business!
+10052: I can't quite put my finger on it, but something is different about $0's step. And the attacks of the other participants don't seem to be having any effect!
+10053: And here's some unexpected drama, folks! The Cardians are now completely immune to the attacks of the chocobos! How will this play out!?
+10054: Look at that! 's stride looks like it has just gotten an injection of added oomph!
+10055: Uh-oh, what's going on here!? The chocobos are looking like they had their saddles lined with lead all of a sudden!
+10056: Oooh! In a bold move, $0 has just used a [Dream Cracker/Dream Apple]!
+10057: What's this!? All of the chocobos other than $0 and Sakura have broken stride and seem to have had the steam taken out of their step!
+10058: Thanks to that brazen little act, $0 can expect to maintain endurance, increase speed, and fend off attacks! That just might seal the deal for $0!
+10059: Never in all my days, race fans! In a botched attempt to slow down the opposing chocobos, the King of Trophies has just impaired the speed of all the Cardians instead!
+10060: How could my creation make such a rookie mistake? In a bout of Cardian disassembly this King shall surely partake!
+10061: Shantotto starts casting Tornado!
+10062: The speed of the chocobos has dropped!
+10063: The stamina of the chocobos has dropped!
+10064: The evasion rate of the chocobos has dropped!
+10065: Pr-Professor Shantotto, are you out of your mind!? What in the world do you think you're doing!?
+10066: Why, my dear Goccilo, we mustn't be so quick to place the blame. This mishap was probably caused by reckless adventurers playing at their game.
+10067: What marvels could possibly lie in store for us today? I've heard it being said that today's [creatures/Cardians] have quite the arsenal of abilities at their disposal. This could get heavy, folks!
+10068: All of the contestants certainly appear to have quite a bit of steam left in them. Are they holding back? Could they possibly be working in cahoots with one another!?
+10069: It seems as though there has been a general quickening of pace amongst the participants!
+10070: There's still plenty of race to go, race fans! More than enough time for an awe-inspiring accident or some downright nasty drama!
+10071: And it looks as though the contestants have have settled in and found their groove!
+10072: The racers look to have gotten themselves into a bit of a rut now. This could make or break the race! Let's see if they can manage to pull through!
+10073: This is where it really pays off to have an edge in endurance over your opponent. Let's see if any contestants have the discipline to save some steam for the home stretch!
+10074: And here's where we get down to the nitty-gritty! Let's see if some of our racers can provide a flamboyant finish for us here today!
+10075: And there they go! A clear boost in speed for the lot of them! But will they have the endurance to maintain their new pace for long?
+10076: I am at a loss for words, folks! It's just too hard to call! Which racer will Lady Luck see fit to shine upon today!?
+10077: It's painfully obvious that those thoroughbreds have nothing but the finish line in their sights now! The time for a final spurt is now or never!
+10078: And here they come down the home stretch! How is this one going to end up!?
+10079: Ah, you must be the one they call <Player>. It's an honor to finally make your acquaintance.
+10080: My compatriot Joachim has told me much of your exploits. It'd be my pleasure to assist you any way I can.
+10081: Good day, <Player>. Is there something you need?
+10082: What would like to ask about? [I want $6./Learn about $5./Current $3 stock./Cavernous maw locations./Teleporting to a cavernous maw./Nothing right now.]
+10083: All set for now, are we? I'll be right here if ever you have need of me.
+10084: Interested in the cavernous maws, are we?
+10085: La Theine Plateau, Konschtat Highlands, Tahrongi Canyon...
+10086: Jugner Forest, Valkurm Dunes, Buburimu Peninsula...
+10087: Xarcabard, North Gustaberg, South Gustaberg...
+10088: In these [zero/three/six/nine] areas gateway maws have manifested.
+10089: Planning a trip to Abyssea, I gather? You'd be wise to make a habit of taking stock of your $5 prior to departure.
+10090: The function of the $3 is twofold.
+10091: First and foremost, it's the key by which one gains entry to Abyssea.
+10092: Secondly, it serves as an anchor that secures one's essence to foreign dimensions.
+10093: A single stone is good for a $1-minute (Earth time) jaunt in Abyssea, and up to $2 can be in your possession at any given time. Multiplying those two numbers will give you the limit of your stay.
+10094: One thing to remember is that a good twenty hours (Earth time) are required to fully charge one stone. As such, I might not always have one on hand. I must beg your patience in that case.
+10095: Here for your $5? Let me see what I have for you...
+10096: Hm? Why, it appears you already have $2 stones. I'm sorry, <Player>, but it'd be irresponsible of me to furnish you with any more. Heavens forbid I have a hand in stranding you in a foreign world.
+10097: Oh dear, I'm afraid I don't have any fully charged stones for you right now. Could you check back again in a while?
+10098: Here you are, <Player>. That should suffice for the time being.
+10099: With the power of cruor, it's possible to teleport to any cavernous maw serving as a gateway to Abyssea. You only need to have visited that maw once before.
+10100: If you wish to go somewhere, a quick word with my assistant beside me here and you'll be off to your destination in the blinking of an eye.
+10101: It'll take me $4 more [minute/minutes] (Earth time) to fully charge another $3.
+10102: You wish to know how many $5 I have for you? Why, that'd be $1 of them.
+10103: Obtained key item: $1 $5!
+10104: Obtained key item: $1 $3!
+10105: I'm sorry, but I don't believe we're acquainted. Please leave me be.
+10106: <Sigh>... To see such vistas of peace and prosperity restored to my homeland once more...
+10107: Greetings, friend of Abyssea. [/Ivan/Ernst/Kierron/Cyril/Willis/Vincent] is my name. My superior officer [/Gilburt/Erich/Jerrett/Adrian/Fabricius/Fabien] and I have been dispatched here to provide logistical support to allies of our cause.
+10108: As you endeavor to restore light to our ravaged world, so too will we endeavor to aid you in every possible way.
+10109: How might I assist you this day?
+10110: What would you like to ask about? [My current cruor balance./Resistance outpost status./Teleporting to a cavernous maw./Nothing right now.]
+10111: The figures in my logbook tell me you have $0 cruor to your name.
+10112: Ask about which area? [Abyssea - Vunkerl./Abyssea - Misareaux./Abyssea - Attohwa./Never mind.]
+10113: According to the latest intelligence reports...
+10114: This area's pulse martello defense rate presently stands at $0%. The likelihood of an Abyssean horde invasion, on the other hand, is $1%.
+10115: You wish to teleport to a cavernous maw? In that case, please tell me your precise destination.
+10116: Go to which area's gateway? [Abyssea - La Theine./Abyssea - Konschtat./Abyssea - Tahrongi./Abyssea - Vunkerl./Abyssea - Misareaux./Abyssea - Attohwa./Abyssea - Altepa./Abyssea - Uleguerand./Abyssea - Grauberg./I've changed my mind.]
+10117: $1 cruor is required for transport to the gateway to Abyssea - [La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Uleguerand/Grauberg].
+10118: Ah, it seems you have insufficient cruor to make that journey.
+10119: Will you proceed? (Cruor balance: $2) [Make it so./Make it no.]
+10120: These martellos are defensive fortifications developed by the resistance to aid in our battle against the fell hordes. Enchanted structures, they may be employed to restore your health and magic, cure ailments, and generally restore you to fighting trim.
+10121: I have been entrusted with the supervision and maintenance of these martellos...but this is none of your concern.
+10122: I have been entrusted with the supervision and maintenance of these martellos. Would you be needing something of me?
+10123: Need something? [Assist with replenishment./Assist with upgrades./Martellos? Come again?/Nothing in particular.]
+10124: Splendid! Your aid is a great boon to the resistance effort. To replenish a martello, you'll need to insert one of these $5 into the structure.
+10125: Be forewarned: you will be unable to carry these and $5 at the same time.
+10126: Take along the $3? [Yes./No.]
+10127: We would be particularly indebted to you for efficient replenishment of martellos in remote locations. Best of luck in your efforts!
+10128: Why, is that not $6 already in your posssesion? You need only insert that into a martello to initiate replenishment.
+10129: I see that you currently possess $6. Do you wish to abandon your upgrading efforts and participate in replenishment instead?
+10130: You return the $3 and obtain $6 in its stead!
+10131: Your support is most heartening in these dark times. Upgrading a martello will require you to attach a device known as $6.
+10132: Mind you, the device is rather unwieldy. You will not be able to carry it and $6 at the same time.
+10133: Excellent. I would be especially appreciative if you could upgrade those martellos in distant locations--the quicker the better. Be careful out there!
+10134: Hm? Is that not $6 you hold in your hand? You need only find the martello you wish to upgrade, and attach it.
+10135: Is that $6 I see? Do you wish to curtail your replenishment activities and assist with upgrading instead?
+10136: Welcome back, friend! Allow me to take that $3 off your hands. How did you fare in your efforts?
+10137: I see, I see... Martello #0$1, you say? It sounds as if the operation was [a modest success./a reasonable success./a rousing success!/an unqualified success!]
+10138: The resistance greatly values your contributions. Take this as a small token of our appreciation, and do not hesitate to return the next time you are willing to lend your support.
+10139: I've been working with these here martellos since I was knee-high. Ask away, and my knowledge is yours.
+10140: Ask something? [So, what's a martello?/Martello replenishment./Martello upgrades./Cautionary notes./Not now.]
+10141: The device we know as the martello was first developed by military engineers many years past, during an age of great war. Martellos serve to keep combatants fighting fit, healing their wounds and restoring their mental energies.
+10142: You will observe that martellos have been constructed in numerous locales, so as to provide strategically located safe havens for harried resistance fighters. No doubt you will find yourself making use of them as well.
+10143: In the bowels of each martello is contained a tank designed to hold martello fuel.
+10144: This $3 is the lifeblood of the martello, and the source of its curative powers. Depleted stores will render the device little more than an oversized parchmentweight.
+10145: That being the case, we're in continual need of volunteers willing to take on the vital task of replenishing these martellos.
+10146: I have been charged with overseeing a supply of martello fuel. Should you be willing to take part in a replenishment run, you need only say the word. Needless to say, you will not go unrewarded for your efforts.
+10147: Feast your eyes on this $3. She's a beauty, isn't she? Installing one of these into a martello will increase its fuel capacity.
+10148: An upgraded martello will be able to sustain its energy stores for a longer time between replenishment operations. Needless to say, this is a blessing and a half to those on the battlefield.
+10149: Unfortunately, the installation procedure is quite complex. As such, we can only entrust it to experienced hands.
+10150: 5 are quite large and unwieldy. Even the burliest among us would be unable to carry one and $6 at the same time.
+10151: Furthermore, these materials are quite unstable, and will rapidly corrode and be rendered useless if brought outside our immediate environs.
+10152: 'Course, not that anyone could manage to travel that far, what with these fearsome landslides...
+10153: Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset.
+10154: Your $3 has been lost.
+10155: The resistance is currently suffering a materials shortage. Those wishing to participating in replenishment and upgrading operations should return at a later time.
+10156: The $3 breaks!
+10157: Table: $0
+10158: Very well, friend. Should you ever find yourself in need of assistance, do not hesitate to return.
+10159: Greetings, friend! I am a synergy engineer, dispatched from the Institute to maintain the furnaces you see beside me. I also have knowledge and services to share with fellow synergists, if that is what you desire.
+10160: I see from the puzzled expression on your face that you are unfamiliar with our discipline. To use these furnaces, you will first need to obtain $6.
+10161: Piqued your curiosity, have I? Then you should speak with Hildolf, our institute director, at his laboratory in the Bastok Metalworks. He's always eager to welcome a new synergist to our ranks.
+10162: May I be of service? [Not now./Learn recipes./Check fewell./Replenish fewell./Purchase materials./Receive training./Trade cinder./Get information.]
+10163: Recipes, you say? Let's see what we have that's suitable for your level of expertise...
+10164: ...I'm sorry. I'm afraid there's nothing I can teach you at the moment.
+10165: I've got it! How about $0? Mind you, it'll require a certain level of skill...
+10166: Synergy skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran].
+10167: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+10168: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+10169: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+10170: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert]. [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leathercraft/Bonecraft/Alchemy/Cooking/Fishing] skill: [Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert].
+10171: As for materials, you'll be needing...
+10172: $1 $0 .
+10173: $1 $0 . $3 $0 .
+10174: $1 $0 . $3 $0 . $5 $0$4 .
+10175: $1 $0 . $3 $0 . $5 $0$4 . $7 $0$6 .
+10176: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1.
+10177: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3.
+10178: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5.
+10179: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7.
+10180: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9.
+10181: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11.
+10182: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13.
+10183: And the required elemental balance is: [/oo /o!/o"/o#/o$/o%/o&]$1 [/oo /o!/o"/o#/o$/o%/o&]$3 [/oo /o!/o"/o#/o$/o%/o&]$5 [/oo /o!/o"/o#/o$/o%/o&]$7 [/oo /o!/o"/o#/o$/o%/o&]$9 [/oo /o!/o"/o#/o$/o%/o&]$11 [/oo /o!/o"/o#/o$/o%/o&]$13 [/oo /o!/o"/o#/o$/o%/o&]$15.
+10184: There you go. That doesn't sound so hard, now, does it?
+10185: But of course! If you'll just allow me to inspect your $3 for a moment...
+10186: Your fewell supply would appear to be as follows: o o $1 o!$2 o"$3 o#$4 o$$5 o%$6 o&$7.
+10187: Running low? We can fill you up for a nominal fee.
+10188: Replenish fewell? [Yes./No.]
+10189: Looking for a fewell fill-up, you say? Then you've come to the right place!
+10190: ...Hm? Why, your tank is already full to bursting. Come back again if you need a refill.
+10191: Now let's see here... According to my calculations, I can fill you up to capacity for $0 gil. How does that sound?
+10192: Pay $0 gil? [Deal!/No thanks.]
+10193: Understood. Take care to monitor your reserves closely, lest you run out of fewell in the midst of a crucial procedure.
+10194: I'm afraid you haven't the requisite gil, friend. Perhaps another time.
+10195: Excellent! Now we just pop open your $3 here, and...
+10196: There you go. Filled to the brim with a fresh batch of fewell! Can you smell those fumes? Mmm-mmm!
+10197: Your $3 has been filled to capacity!
+10198: You hand the synergy engineer $0 gil.
+10199: How do you expect me to do that when your $3 is sitting inside a furnace, friend? You'll have to come back after you've finished synergizing.
+10200: Materials, you say? But of course! Have a look at our selection.
+10201: Purchase something? [Not today./$1 $0 : $2 gil./$3 $0 : $4 gil./$5 $0 : $6 gil.]
+10202: For $1 $0 , that comes to $2 gil.
+10203: Ah, another dedicated synergist looking to refine [his/her] technique. Excellent! That motivation will serve you well.
+10204: ...But I'm afraid you'll need [/ever so slightly more/a bit more/more/a good deal more/considerably more] experience before you're ready to benefit from my training.
+10205: And yes, it would seem you're at just the right skill level to receive my training. So, what will it be? Which technique would you like to improve?
+10206: Train in which technique? [Cancel./Fewell feeding. (Current Lv.: $0)/Furnace thwacking. (Current Lv.: $1)/Pressure handle. (Current Lv.: $2)/Safety lever. (Current Lv.: $3)/Furnace repair. (Current Lv.: $4)/Fewell recycling. (Current Lv.: $5)]
+10207: You wish to improve your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique. Is this correct?
+10208: It would seem your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique already exceeds my own. There is no more I can teach you.
+10209: Train in this technique? [Yes./No.]
+10210: Very well! Now listen up, watch closely, and try to follow along...
+10211: ...See, you take this part here, and... Yes, yes...just like that...
+10212: ...Now steady here, or you'll be picking exploded furnace shrapnel out of your face for a week! Phew, that was a close one...
+10213: ...And by applying Corollary Five of Hildolf's Third Theory of Inverse Transfocal Equilibrium, we find that...
+10214: <Clink, clank...clunk> ...Er, let's try that once more...
+10215: ...Superb! A quick learner, I see. If only all my students were as attentive as you!
+10216: Your [/fewell feeding/furnace thwacking/pressure handle operation/safety lever operation/furnace repair/fewell recycling] technique increases to level $1!
+10217: Research into the composition of the cinder produced as a side effect of synergy just might lead to the next breakthrough in our field. Provide us with samples for analysis, and we will gladly reward your contributions.
+10218: Trade in your cinder? (Currently: $0 Pz) [Not now./$1: $2 Pz./$3: $4 Pz./$5: $6 Pz./$7: $8 Pz./$9: $10 Pz./$11: $12 Pz./$13: $14 Pz./$15 gil: $16 Pz.]
+10219: This is what you want, correct?
+10220: Make the exchange? [Yes./No.]
+10221: It would appear that you lack the necessary quantity of cinder for that transaction.
+10222: Excellent! And this is yours. May it serve you well!
+10223: You transferred $0 Pz of cinder to the synergy engineer. $1 Pz [remains/remain] in your possession.
+10224: Ask about what? [Nothing./Synergy furnaces./Synergy overview./Synergy procedure./Synergy recipes./Fewell replenishment./Materials for sale./Synergy techniques./Trading cinder.]
+10225: The synergy furnaces you see around town are provided as a public service by the Bastokan Institute of Synergy Research, to ensure that no synergist is ever far away from the tools of their trade.
+10226: The synergist must provide his or her own $3, as well as any materials to be used in the synergy process. Provided those conditions are met, synergy furnaces may be used free of charge.
+10227: Needless to say, only one party may operate any given furnace at once.
+10228: Fortunately, there are multiple furnaces installed throughout town. If the furnace before you is already in use, please seek out an unused one elsewhere, or wait patiently for your turn.
+10229: You may think of synergy as an evolved form of synthesis. It is a discipline full of heretofore unimagined possibilities, but one which demands consummate skill from its practitioners.
+10230: Like synthesis, synergy involves combining materials according to a prescribed recipe to yield oft-spectacular results. The rub is that each synergy recipe also dictates a certain elemental balance that must be achieved for the procedure to be successful.
+10231: This balance is achieved through skillful infusion of combustible elemental crystals that we synergists call "fewell." To begin the synergy process, you'll have to feed the furnace with fewell and get those flames burning!
+10232: As a general rule, the more complex the recipe, the more fewell it will require. Take care to check your stock before you fire up the furnace, lest you find its flames guttering out at a crucial moment.
+10233: With the belly of the furnace roaring up a storm, it's time to toss in your materials and start synergizing! Keep a close eye on the balance of elements and deploy fewell as necessary. Approach the prescribed elemental balance, and your item will take form, allowing you to remove it from the furnace.
+10234: The closer you are to the ideal elemental balance, the higher the quality of your finished product will be. In synergy, it pays to be a perfectionist!
+10235: But be forewarned: these furnaces can only sustain the elemental maelstrom swirling and storming inside them for so long.
+10236: If the furnace's durability should fail, the synergy process will be interrupted, and you will be forced to start anew.
+10237: Take heart, though, as any materials inside your $3 will remain intact. You may retrieve them or attempt the synergy process again as you see fit.
+10238: Any fewell consumed in the failed synergy attempt, on the other hand, will be permanently lost.
+10239: Synergists must also be wary of debris buildup, an unavoidable side effect of the volatile elemental reactions that take place within the synergy furnace.
+10240: Should too much debris be allowed to accumulate, the contents of the furnace will become unstable, potentially leading to unpleasant explosions and eruptions. Such accidents pose considerable risk to the synergy attempt in progress, as well as the physical well-being of the synergist, so be sure to exercise due caution!
+10241: You may be asking yourself, "Why, how in the name of Hildolf am I going to oversee all of these complicated procedures and variables by myself?"
+10242: Here's the good news: you don't have to! For you see, synergy furnaces are designed for use by multiple operators.
+10243: The more complex the recipe, the greater level of skill and hands-on manipulation it will demand. At such times, it would be in your best interest to seek out like-minded synergists and take on the challenge together.
+10244: Finally, it would be remiss of me not to make mention of $0, the curious substance whose properties are only now--with the emergence of synergy--becoming known to us.
+10245: Though there is much yet to be learned, our research has revealed that $0 may be used to bolster your equipment, if attached in a proper manner.
+10246: Mind you, $0 is not easy to come by, and I can offer no clues as to where or how to obtain it. Should you be fortunate enough to come across some in your travels, however, I encourage you to explore its potential.
+10247: Synergy is not a discipline for the faint of heart or mind, but with dedication and cooperation, there are great rewards to be reaped. May your career as a synergist prove fruitful!
+10248: First, you'll be wanting to check your fewell supply. You may do so by speaking with a synergy engineer such as myself, or by examining a synergy furnace.
+10249: You'll be needing at least one unit of fewell for each element dictated by your recipe. Without this, even the most skilled synergist cannot hope to succeed.
+10250: Should your fewell supply be in order, it's time to proceed with the synergy. If you are using one of these public synergy furnaces here, you'll need to examine it and lay claim to its use.
+10251: You may then deposit your ingredients. Should they correspond to a proper recipe, the synergy furnace will fire up automatically. Note that as a safety precaution, the furnace will not activate if the recipe is beyond your level of synergy skill.
+10252: From here, it becomes a race against the clock! Through skilled operation of the synergy furnace, you must achieve the elemental balance prescribed by the recipe before the furnace's durability fails.
+10253: Fortunately, synergy furnaces are outfitted with a wide array of features designed to aid the synergist in this demanding task. First, you'll want to confirm the current balance of elements within the furnace and compare it to your desired result.
+10254: Next, you can begin to feed fewell into the furnace to gradually raise the level of elemental concentration. Feeding fewell into the furnace until the required elemental balance is achieved is the most fundamental operation of synergy.
+10255: However, high concentrations of elemental power can lead to volatile and unpredictable reactions. Simply adding fewell haphazardly without making the necessary adjustments is a recipe for only one thing, and that's disaster.
+10256: If you sense that the furnace is on the verge of elemental overload, you'll want to employ the safety lever and pressure handle to prevent an unfortunate accident from occurring.
+10257: You'll also want to mind the laws of elemental ascendancy and opposition. Increasing the concentration of a particular element will cause its counterpart to decrease.
+10258: The furnace cannot sustain its power indefinitely, and will gradually lose durability as the synergy process continues. You'll need to perform periodic furnace repair should the furnace near its breaking point.
+10259: It is also possible to recycle strewn fewell during synergy. While this will not impact the success or failure of the process itself, it will result in a greater amount of salvageable cinder produced as a by-product.
+10260: This cinder is of great interest to our researchers back at the institute. As such, we have introduced a reward system through which quality samples can be traded in for an assortment of synergy-related wares.
+10261: As marvelous an apparatus as the synergy furnace may be, keep in mind that the technology is still in its infancy, and highly unstable. There may be times when accidents occur despite the best efforts of the synergist.
+10262: For your safety, we recommend stepping as far away from the furnace as possible at the first sign of danger. Some synergists claim that giving the furnace a good thwack is also effective in preventing such accidents, but this is pure madness, if you ask me!
+10263: You will also find that there are numerous techniques that can be applied to make the synergy procedure go even more smoothly.
+10264: In many cases, expertise and knowledge acquired through crafting will serve you in synergy as well. To truly master synergy, one must master crafting as well.
+10265: Now let us return to the synergy process itself. As your elemental balance approaches that prescribed by the recipe, the furnace will signal you, and you may retrieve your finished product.
+10266: If the furnace is still holding strong at this time, you may choose to keep working to achieve an even closer balance. The closer you come to the ideal balance, the higher the quality of your finished product will be.
+10267: Indeed, many synergy masters consider these waning moments after the signal to be the time to really show off their skills! Why, if they manage to achieve an elemental surge...
+10268: What's an elemental surge, you ask? Why, it's a miraculous phenomenon that occurs rarely--ever so rarely--upon feeding the furnace fewell.
+10269: The elements react just in the right way, creating a miraculous reaction that brings the level of elemental concentration to exactly the desired level. Truly a boon from the Goddess for any synergist, no?
+10270: ...And that is the synergy process in a nutshell. There's quite a bit of information to take in, so don't hesitate to return any time for a refresher course.
+10271: Much like synthesis, to fashion items through synergy, you will need to follow a recipe. We synergy engineers are always unearthing new recipes, and are happy to share with you those suitable for your level of skill.
+10272: Unlike synthesis, however, a synergy recipe is more than just a list of ingredients. There is also a required elemental balance that must be attained to achieve your desired result.
+10273: Simple recipes involve only small doses of a limited number of elements, but more complex ones require the synergist to skillfully juggle wide ranges of elements in extremely high concentrations.
+10274: The ingredients, you will have to remember on your own. The required elemental balance, however, may be reviewed at any time during the synergy process by observing the readings on the synergy furnace.
+10275: In particular, recipes through which the curious substance known as $0 can be attached to equipment are creating quite a buzz among synergistically inclined adventurers these days.
+10276: # cannot be attached directly. First, equipment must be prepared by etching an aperture into which an elementally compatible piece of $0 can then be embedded.
+10277: The type of aperture that may be etched will depend on the piece of equipment. There are also pieces of equipment that, alas, may not be modified at all.
+10278: If you are curious what manner of aperture may be etched into a particular piece of equipment, you need only trade it to me or one of my colleagues.
+10279: As a general rule, the higher the level of the item in question, the more difficult the synergy process for creating an aperture will be.
+10280: You will find that certain pieces of equipment may be etched with multiple apertures. It is, however, only possible to create one aperture at a time.
+10281: Etching requires the use of a corrosive substance we call mordant. Deposit mordant into a synergy furnace along with your equipment, and the process will begin.
+10282: My colleagues and I have a stock of mordant available for sale. The best way to learn is to practice, so if you're curious, we encourage you to purchase some and begin experimenting!
+10283: The difficulty of the synergy process when embedding evolith is decided by a number of factors.
+10284: Such factors include the variety of aperture and evolith, as well as the quantity of evolith you seek to attach. Embedding the first piece is not too difficult a task, but the second and third pieces will not go in so easily.
+10285: To begin the embedding process, deposit your evolith into the synergy furnace along with a piece of equipment with a compatible aperture.
+10286: When etching or embedding, the required elemental balance may be confirmed at any time during the synergy process, so let this be your guide.
+10287: Should you ever wish to remove any apertures and embedded evolith from a piece of equipment entirely, you may do so with an ingredient we call revertant.
+10288: Toss the revertant in a synergy furnace along with your equipment, and its potent powers will restore your item to a pure and pristine state! Be warned, however, that embedded evolith will be lost forever in the process.
+10289: As you are no doubt already aware, synergy makes use of a highly combustible form of elemental crystals that we call "fewell." The more complex the recipe, the greater the quantity of fewell required.
+10290: Veteran synergists know well the hassle of having to constantly monitor their fewell supply and procure crystals to replenish depleted stock.
+10291: To free you of such trifling burdens and allow you to focus your mind entirely on your art, we synergy engineers are offering a convenient fewell replenishment service!
+10292: For a nominal fee calculated based upon the current state of your fewell reserves, we will instantly refill you to full capacity.
+10293: That's right--all elements in one simple transaction, directly to your $3! What could be easier?
+10294: Looking to fire up your furnace and enter the world of $0? If so, you've come to the right place!
+10295: We're proud to offer a supply of the corrosive agent known as mordant for sale. With this, synergy newcomers can hone their skills and outfit their equipment with evolith-capable apertures in the process.
+10296: Mind you, our stock is limited to only the most diluted, readily produced form of the stuff. You'll find that it only has the strength to etch items of relatively low level.
+10297: Etching high-powered equipment requires the use of more concentrated and potent forms of mordant. As quantities are limited, we can offer these only in exchange for cinder.
+10298: Ah, synergy techniques! Those handy tricks of the trade that can mean the difference between a shiny new item and a major furnace meltdown.
+10299: My colleagues and I are always eager to train fellow synergists in a wide range of techniques. We can't do it all, though--you'll need to hone your synergy skill in order to benefit from our instruction.
+10300: Bear in mind that certain techniques can only be imparted to students possessing specialized crafting knowledge. For example, only skilled smiths will be able to comprehend the method for more efficient fewell feeding.
+10301: Accomplished goldsmiths will be able to observe the inner workings of the furnace and stave off potential accidents. You will find that all crafting skills--even those you may not expect--may be applied in some way to support the synergy process.
+10302: Word has it that there are also pieces of equipment that can impart hidden synergy techniques to the wearer. These, too, are said to be only accessible to skilled crafters.
+10303: The moral of the story is this: while synergy skill is important, neglect not your other crafting skills. To become a true synergy master, finding the proper balance is key.
+10304: Synergy remains a young discipline, and researchers back at the institute are burning the midnight fewell in the hopes of uncovering the next breakthrough in our field.
+10305: Research of late is centered around the cinder that is left behind as a by-product of each synergy operation. Their composition, it would seem, has much to teach us of the true nature of the complex elemental reactions that go on within the bellies of these furnaces.
+10306: We've even instituted a reward program for adventurers willing to contribute prime samples in the name of science.
+10307: It would be no exaggeration to say that, to us, cinder is worth more than its weight in gold! Bring it to me or my colleagues--preferably in large quantities--and you're sure to be pleased at what we can offer you in return.
+10308: Wondering if your $0 can be outfitted with evolith, are you? Well, you've come to the right place!
+10309: A quick look at its composition should tell us all we need to know. Let's see here...
+10310: Congratulations! Your $0 can indeed hold [an/another] evolith aperture. A $2-shaped aperture, to be exact...
+10311: ...Suitable for evolith of the following size and elemental affinity: Maximum size: $1 / [/oo /o!/o"/o#/o$/o%/o&].
+10312: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+10313: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+10314: ...Suitable for evolith of the following sizes and elemental affinities: Maximum size: $1 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $3 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $5 / Affinity: [/oo /o!/o"/o#/o$/o%/o&]. Maximum size: $7 / Affinity: [/oo /o!/o"/o#/o$/o%/o&].
+10315: That is all. Should you wish to have any other pieces of equipment analyzed, you know where to find us.
+10316: Hmm... I'm afraid your $0 cannot house any more apertures.
+10317: ...Alas. It's a shame, but it appears your $0 cannot be etched.
+10318: Hmm, what's this? It would seem that your $0 cannot be etched at this time.
+10319: Do you love synergizing as much as I love synergizing!? 'Cause if you do, you're gonna loooooove the recipes I have for you!
+10320: View recipes for which skill level? [Actually, never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran.]
+10321: Browse to which page? [Cancel./Page [1/9/17/25/33/41/49/57/65/73/81/89/97/105/113/121]./Page [2/10/18/26/34/42/50/58/66/74/82/90/98/106/114/122]./Page [3/11/19/27/35/43/51/59/67/75/83/91/99/107/115/123]./Page [4/12/20/28/36/44/52/60/68/76/84/92/100/108/116/124]./Page [5/13/21/29/37/45/53/61/69/77/85/93/101/109/117/125]./Page [6/14/22/30/38/46/54/62/70/78/86/94/102/110/118/126]./Page [7/15/23/31/39/47/55/63/71/79/87/95/103/111/119/127]./Page [8/16/24/32/40/48/56/64/72/80/88/96/104/112/120/128]./Previous page./Next page.]
+10322: View which recipe? ([Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran], p. $8). [None./$0./$1./$2./$3./$4./$5./$6./$7./Return to page selection./Previous page./Next page.]
+10323: Oh, the $0? Why, that's one of my favorite recipes, too! What skills does it require? Let's see here...
+10324: Well, look at this. All you need is a furnace and your own Goddess-given synergy skills to make that one! Ain't synergy grand?
+10325: Wait! No, don't tell me. You strike me as a [man/woman] who's looking to learn a thing or two about synergy.
+10326: Learn about synergy? [Not today./Teach me!/Just give me $6.]
+10327: A life without intellectual curiosity is a life hardly worth living. Should your eyes one day open to this truth, you are free to return.
+10328: I thought you'd never ask! Synergy is both an art and a science: an evolution--nay, a revolution--in synthesis.
+10329: Using $6 in conjunction with a synergy furnace--the apparatus you see beside me--the synergist wields the power of myriad elements to fabricate a veritable host of potent items.
+10330: What we call $6 serves to dispense fewell crystals--the lifeblood of the synergy process--whilst also protecting its contents from the volatile reactions that occur within the bowels of the furnace.
+10331: Synergy furnaces have been installed throughout the city for the use of all synergists. The crucible is sufficiently compact and lightweight that you can carry it with you.
+10332: Initiating the synergy process is as simple as inserting your $3 into a furnace and commencing the infusion of elemental fewell.
+10333: Needless to say, what will happen from there is not quite so simple.
+10334: Successful synergy is contingent upon maintaining elemental equilibrium. The prescribed ratio, of course, will vary depending on the artifact you are attempting to create.
+10335: You can increase the ratio of a particular element by burning the corresponding variety of fewell.
+10336: But herein lies the rub: synergy is a still young science, and the technology we employ remains, shall we say...unstable.
+10337: A bit too much fewell here, a wrong lever pulled there, and the percolating pot will explode, spitting scalding elemental guck every which way to Firesday.
+10338: That's why smart synergists synergize in numbers. Too many culinarians might spoil the broth, but when it comes to synergy, it's the more the merrier!
+10339: An aspiring synergist, I see! If you're looking for $6, you've certainly come to the right place.
+10340: I can sell you a splendid entry-level model for $0 gil. A small price to pay to embark on a lifelong journey of scientific discovery, wouldn't you say?
+10341: $0 gil, paid in full!
+10342: As promised, here's your $3. And because I like your enthusiasm, I've even stocked it to the brim with fewell for you! How's that for a deal?
+10343: The synergist must provide his or her own $3, as well as any materials to be used in the synergy process. Synergy furnaces themselves may be used free of charge.
+10344: Should you wish to learn more about the science of synergy, seek out one of the engineers stationed throughout the town.
+10345: Why, hello there! My tremendous task is to tabulate your precious points for the login campaign and exchange them for pleasing prizes, kupo!
+10346: Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!
+10347: What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]
+10348: In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!
+10349: You can trade them for incredible items to assist you with your adventures!
+10350: You can even procure more points by logging in routinely, which we all want, since Vana'diel always anxiously awaits your appearance!
+10351: You can trade in these tokens for our gratuitous gifts any time during this campaign!
+10352: Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!
+10353: Up to 700 points from the current campaign can be carried over to the next one starting with the October 2025 login campaign!
+10354: Any additional points will be summarily seized, kupo!
+10355: View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]
+10356: $22-pt. items ($1 pts.): [$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./Back.]
+10357: $23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]
+10358: How many would you like, kupo?
+10359: Altana above! You do not possess the prerequisite number of points!
+10360: Proceed with exchange? ($1 pt[/s].) [Yes./No.]
+10361: Wait one short second while I get your goods!
+10362: Something went wrong, kupo! Try again later.
+10363: Here you can play the game Mandragora Mania.
+10364: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
+10365: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
+10366: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
+10367: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
+10368: You may pay $& gil to reset all rewards, enabling you to purchase them again.
+10369: Reset rewards? ($' gil). [Yes ($& gil)./No.]
+10370: You do not have enough gil.
+10371: All rewards have been reset.
+10372: You have already purchased the $2.
+10373: You need at least $3 jingly to purchase the $2.
+10374: The reward exchange period has turned over and all rewards have been reset.
+10375: You may reset all rewards from the appropriate dialogue box.
+10376: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
+10377: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
+10378: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
+10379: Starting player set to [Random/You/Opponent].
+10380: Read the manual? [Sure./No thanks.]
+10381: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
+10382: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
+10383: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
+10384: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
+10385: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
+10386: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
+10387: You must choose one area--either yours or a neutral one--to proceed.
+10388: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
+10389: Conversely, your opponent must select either a neutral area or an area that belongs to them.
+10390: From the right, those areas are numbered 6, 4, 7, 2, and 8.
+10391: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
+10392: Note that the mandragoras will move from the back first--last in, first out.
+10393: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
+10394: You will enter your opponent's territory whenever you go past the goal.
+10395: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
+10396: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
+10397: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
+10398: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
+10399: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
+10400: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
+10401: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
+10402: Standard mandragoras: 1 jingly (both players).
+10403: The game is over when either you or your opponent no longer has any mandragoras that can move.
+10404: The player who has the most jingly at that point will be declared the winner.
+10405: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
+10406: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
+10407: You have selected Area $0.
+10408: You receive $0 jingly for a total of $1.
+10409: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
+10410: Your opponent has selected Area $0.
+10411: Your opponent receives $0 jingly for a total of $1.
+10412: Game Complete!
+10413: [Victory!/Defeat!/Draw!] ($0 - $1)
+10414: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
+10415: That area has no mandragora to move.
+10416: You will forfeit all jingly earned this game if you give up. Are you sure?
+10417: Really give up? [Yes./No.]
+10418: You receive $0 jingly for a total of $1.
+10419: You have reached the jingly cap of $0. Any additional jingly will be lost.
+10420: An error has occurred. Please try again.
+10421: DEBUG ( [OFF/ON]
+10422: RANDOMF0-$0 ( $1
+10423: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
+10424: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
+10425: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
+10426: 
+10427: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
+10428: NPC Selection ( Area $0
+10429: DEBUGFNPC Selection Controls ( [OFF/ON]
+10430: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
+10431: @@

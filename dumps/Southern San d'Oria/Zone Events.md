@@ -5,7 +5,7 @@
 | Field            | Value                         |
 |------------------|-------------------------------|
 | Zone             | Southern San d'Oria (ID: 230) |
-| Block Size       | 61460 bytes                   |
+| Block Size       | 61528 bytes                   |
 | Total Events     | 186                           |
 | References Count | 1410                          |
 
@@ -198,7 +198,7 @@
 | [65535.150](#event-65535150) | 0xD696       |     29 |              5 |
 | [65535.151](#event-65535151) | 0xD6B3       |     24 |              4 |
 | [65535.152](#event-65535152) | 0xD6CB       |     24 |              4 |
-| [3594](#event-3594)          | 0xD6E3       |     46 |              8 |
+| [3594](#event-3594)          | 0xD6E3       |    115 |             21 |
 
 ## DAT References (imed_data)
 
@@ -707,7 +707,7 @@
 |     500 | 0xFFFFFE95  |  4294966933 |
 |     501 | 0x0218      |         536 |
 |     502 | 0x1E3E      |        7742 |
-|     503 | 0x3D42      |       15682 |
+|     503 | 0x3D45      |       15685 |
 |     504 | 0x1E3F      |        7743 |
 |     505 | 0x1E22      |        7714 |
 |     506 | 0x1E38      |        7736 |
@@ -1356,77 +1356,77 @@
 |    1149 | 0x0897      |        2199 |
 |    1150 | 0x00FF      |         255 |
 |    1151 | 0x0090      |         144 |
-|    1152 | 0x28F3      |       10483 |
+|    1152 | 0x28F6      |       10486 |
 |    1153 | 0x0140      |         320 |
-|    1154 | 0x28F2      |       10482 |
+|    1154 | 0x28F5      |       10485 |
 |    1155 | 0x00DE      |         222 |
 |    1156 | 0xFFFFE0C4  |  4294959300 |
 |    1157 | 0xFFFE7922  |  4294867234 |
 |    1158 | 0x0577      |        1399 |
 |    1159 | 0x0D24      |        3364 |
-|    1160 | 0x28F4      |       10484 |
-|    1161 | 0x28F5      |       10485 |
+|    1160 | 0x28F7      |       10487 |
+|    1161 | 0x28F8      |       10488 |
 |    1162 | 0x0045      |          69 |
-|    1163 | 0x28F6      |       10486 |
-|    1164 | 0x28F7      |       10487 |
-|    1165 | 0x28F8      |       10488 |
-|    1166 | 0x28F9      |       10489 |
-|    1167 | 0x28FA      |       10490 |
-|    1168 | 0x28FB      |       10491 |
-|    1169 | 0x28FC      |       10492 |
+|    1163 | 0x28F9      |       10489 |
+|    1164 | 0x28FA      |       10490 |
+|    1165 | 0x28FB      |       10491 |
+|    1166 | 0x28FC      |       10492 |
+|    1167 | 0x28FD      |       10493 |
+|    1168 | 0x28FE      |       10494 |
+|    1169 | 0x28FF      |       10495 |
 |    1170 | 0x00EE      |         238 |
-|    1171 | 0x28FD      |       10493 |
-|    1172 | 0x28FE      |       10494 |
-|    1173 | 0x28FF      |       10495 |
-|    1174 | 0x2900      |       10496 |
-|    1175 | 0x2901      |       10497 |
-|    1176 | 0x2902      |       10498 |
-|    1177 | 0x2903      |       10499 |
-|    1178 | 0x2904      |       10500 |
-|    1179 | 0x2905      |       10501 |
-|    1180 | 0x2906      |       10502 |
-|    1181 | 0x2907      |       10503 |
-|    1182 | 0x2908      |       10504 |
-|    1183 | 0x2909      |       10505 |
-|    1184 | 0x290A      |       10506 |
+|    1171 | 0x2900      |       10496 |
+|    1172 | 0x2901      |       10497 |
+|    1173 | 0x2902      |       10498 |
+|    1174 | 0x2903      |       10499 |
+|    1175 | 0x2904      |       10500 |
+|    1176 | 0x2905      |       10501 |
+|    1177 | 0x2906      |       10502 |
+|    1178 | 0x2907      |       10503 |
+|    1179 | 0x2908      |       10504 |
+|    1180 | 0x2909      |       10505 |
+|    1181 | 0x290A      |       10506 |
+|    1182 | 0x290B      |       10507 |
+|    1183 | 0x290C      |       10508 |
+|    1184 | 0x290D      |       10509 |
 |    1185 | 0x0828      |        2088 |
-|    1186 | 0x290B      |       10507 |
-|    1187 | 0x290C      |       10508 |
-|    1188 | 0x290D      |       10509 |
-|    1189 | 0x290E      |       10510 |
-|    1190 | 0x290F      |       10511 |
-|    1191 | 0x2910      |       10512 |
-|    1192 | 0x2911      |       10513 |
-|    1193 | 0x2912      |       10514 |
-|    1194 | 0x2913      |       10515 |
-|    1195 | 0x2914      |       10516 |
-|    1196 | 0x2915      |       10517 |
-|    1197 | 0x2916      |       10518 |
-|    1198 | 0x2917      |       10519 |
-|    1199 | 0x2918      |       10520 |
-|    1200 | 0x2919      |       10521 |
-|    1201 | 0x291A      |       10522 |
-|    1202 | 0x291B      |       10523 |
-|    1203 | 0x291C      |       10524 |
-|    1204 | 0x291D      |       10525 |
-|    1205 | 0x291E      |       10526 |
-|    1206 | 0x291F      |       10527 |
-|    1207 | 0x2920      |       10528 |
-|    1208 | 0x2921      |       10529 |
-|    1209 | 0x2922      |       10530 |
-|    1210 | 0x2923      |       10531 |
-|    1211 | 0x2924      |       10532 |
-|    1212 | 0x2925      |       10533 |
+|    1186 | 0x290E      |       10510 |
+|    1187 | 0x290F      |       10511 |
+|    1188 | 0x2910      |       10512 |
+|    1189 | 0x2911      |       10513 |
+|    1190 | 0x2912      |       10514 |
+|    1191 | 0x2913      |       10515 |
+|    1192 | 0x2914      |       10516 |
+|    1193 | 0x2915      |       10517 |
+|    1194 | 0x2916      |       10518 |
+|    1195 | 0x2917      |       10519 |
+|    1196 | 0x2918      |       10520 |
+|    1197 | 0x2919      |       10521 |
+|    1198 | 0x291A      |       10522 |
+|    1199 | 0x291B      |       10523 |
+|    1200 | 0x291C      |       10524 |
+|    1201 | 0x291D      |       10525 |
+|    1202 | 0x291E      |       10526 |
+|    1203 | 0x291F      |       10527 |
+|    1204 | 0x2920      |       10528 |
+|    1205 | 0x2921      |       10529 |
+|    1206 | 0x2922      |       10530 |
+|    1207 | 0x2923      |       10531 |
+|    1208 | 0x2924      |       10532 |
+|    1209 | 0x2925      |       10533 |
+|    1210 | 0x2926      |       10534 |
+|    1211 | 0x2927      |       10535 |
+|    1212 | 0x2928      |       10536 |
 |    1213 | 0x1781D     |       96285 |
 |    1214 | 0x1B2AC     |      111276 |
 |    1215 | 0x0D0E      |        3342 |
 |    1216 | 0x0120      |         288 |
-|    1217 | 0x347A      |       13434 |
-|    1218 | 0x347B      |       13435 |
-|    1219 | 0x347C      |       13436 |
-|    1220 | 0x347D      |       13437 |
-|    1221 | 0x347E      |       13438 |
-|    1222 | 0x347F      |       13439 |
+|    1217 | 0x347D      |       13437 |
+|    1218 | 0x347E      |       13438 |
+|    1219 | 0x347F      |       13439 |
+|    1220 | 0x3480      |       13440 |
+|    1221 | 0x3481      |       13441 |
+|    1222 | 0x3482      |       13442 |
 |    1223 | 0x147C6     |       83910 |
 |    1224 | 0x1D502     |      120066 |
 |    1225 | 0xFFFFFFF5  |  4294967285 |
@@ -1450,13 +1450,13 @@
 |    1243 | 0x0A39      |        2617 |
 |    1244 | 0x14B9A     |       84890 |
 |    1245 | 0x1C4B0     |      115888 |
-|    1246 | 0x3480      |       13440 |
-|    1247 | 0x3481      |       13441 |
-|    1248 | 0x3482      |       13442 |
-|    1249 | 0x3483      |       13443 |
-|    1250 | 0x3484      |       13444 |
-|    1251 | 0x3487      |       13447 |
-|    1252 | 0x3486      |       13446 |
+|    1246 | 0x3483      |       13443 |
+|    1247 | 0x3484      |       13444 |
+|    1248 | 0x3485      |       13445 |
+|    1249 | 0x3486      |       13446 |
+|    1250 | 0x3487      |       13447 |
+|    1251 | 0x348A      |       13450 |
+|    1252 | 0x3489      |       13449 |
 |    1253 | 0xFFFFEEE3  |  4294962915 |
 |    1254 | 0xFFFE6C05  |  4294863877 |
 |    1255 | 0xFFFFFF9C  |  4294967196 |
@@ -1612,8 +1612,8 @@
 |    1405 | 0x27951     |      162129 |
 |    1406 | 0x510CC     |      331980 |
 |    1407 | 0xFFFEA9CB  |  4294879691 |
-|    1408 | 0x4098      |       16536 |
-|    1409 | 0x40BE      |       16574 |
+|    1408 | 0x409D      |       16541 |
+|    1409 | 0x40C3      |       16579 |
 
 ## String References
 
@@ -1630,11 +1630,11 @@
 - **9072**: Are you daring? [Of course I am./No, not really.]
 - **9321**: Can you lend your assistance? [I would be honored!/I have affairs of greater importance.]
 - **9381**: Will you help? [Lead the way!/I cannot help at this time...]
-- **10515**: What do you suggest? [Return the chocobos to the wild./Give the chocobos a rest./Reform the chocobo raising system./Bring the chocobos together.]
-- **13440**: Now's your chance to capture the hearts of the audience.
-- **13441**: What do you do? [Appeal to the audience./Stretch out your hand./Strike a pose.]
-- **16536**: Entering $8.
-- **16574**: Your $3 fills with sand.
+- **10518**: What do you suggest? [Return the chocobos to the wild./Give the chocobos a rest./Reform the chocobo raising system./Bring the chocobos together.]
+- **13443**: Now's your chance to capture the hearts of the audience.
+- **13444**: What do you do? [Appeal to the audience./Stretch out your hand./Strike a pose.]
+- **16541**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **16579**: Your $3 fills with sand.
 
 ## Events
 
@@ -6118,7 +6118,7 @@ SUBROUTINE_47A2:
      0x4606 [0x8A] CLOSE_MAP()
      0x4607 [0x1C] WAIT(60* ticks)
      0x460A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[208*, 0*]
-     0x461B [0x2B] Ceraule (ID: 17719297/0x010E6001) [15682*]:
+     0x461B [0x2B] Ceraule (ID: 17719297/0x010E6001) [15685*]:
     → "Open the "Map" option from the main menu, select "Markers," and then scroll to the right. That will tell you where you need to go."
      0x4622 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4623 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=208*
@@ -6151,7 +6151,7 @@ SUBROUTINE_47A2:
      0x47CF [0x8A] CLOSE_MAP()
      0x47D0 [0x1C] WAIT(60* ticks)
      0x47D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[208*, 0*]
-     0x47E4 [0x2B] Ceraule (ID: 17719297/0x010E6001) [15682*]:
+     0x47E4 [0x2B] Ceraule (ID: 17719297/0x010E6001) [15685*]:
     → "Open the "Map" option from the main menu, select "Markers," and then scroll to the right. That will tell you where you need to go."
      0x47EB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x47EC [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=208*
@@ -14617,7 +14617,7 @@ B9C0: 00                                                .
  15: 0xB73F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  16: 0xB750 [0x1C] WAIT(60* ticks)
  17: 0xB753 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
- 18: 0xB764 [0x2B] Chocobo (ID: 17719586/0x010E6122) [10483*]:
+ 18: 0xB764 [0x2B] Chocobo (ID: 17719586/0x010E6122) [10486*]:
     → "Kweeeh!t"
  19: 0xB76B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0xB76C [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -14677,7 +14677,7 @@ B9C0: 00                                                .
  74: 0xB949 [0x1C] WAIT(60* ticks)
  75: 0xB94C [0x4A] Chocobo (ID: 17719586/0x010E6122) looks at LocalPlayer
  76: 0xB955 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
- 77: 0xB966 [0x2B] Chocobo (ID: 17719586/0x010E6122) [10482*]:
+ 77: 0xB966 [0x2B] Chocobo (ID: 17719586/0x010E6122) [10485*]:
     → "Kweh!!!"
  78: 0xB96D [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0xB96E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -14967,57 +14967,57 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
  47: 0xBB10 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  48: 0xBB21 [0x1C] WAIT(60* ticks)
  49: 0xBB24 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
- 50: 0xBB33 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10484*]:
+ 50: 0xBB33 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10487*]:
     → "All seem to be in attendance, so let us begin."
  51: 0xBB3A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0xBB3B [0x2B] Hantileon (ID: 17719570/0x010E6112) [10485*]:
+ 52: 0xBB3B [0x2B] Hantileon (ID: 17719570/0x010E6112) [10488*]:
     → "You are gathered here today to discuss the reasons for the recent changes in chocobo behavior."
  53: 0xBB42 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0xBB43 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
  55: 0xBB52 [0x52] END_LOAD_SCHEDULER: End scheduler "s220" with entities [EventEntity, EventEntity], work=255*
  56: 0xBB61 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s221" with entities [EventEntity, EventEntity], work=[255*, 0*]
  57: 0xBB72 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zopago (ID: 17719589/0x010E6125), Zopago (ID: 17719589/0x010E6125)], work=69*
- 58: 0xBB81 [0x2B] Zopago (ID: 17719589/0x010E6125) [10486*]:
+ 58: 0xBB81 [0x2B] Zopago (ID: 17719589/0x010E6125) [10489*]:
     → "Speak for yourself. The chocobos in Bastok seem to be doing just fine."
  59: 0xBB88 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0xBB89 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zopago (ID: 17719589/0x010E6125), Zopago (ID: 17719589/0x010E6125)], work=69*
  61: 0xBB98 [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 7*
  62: 0xBB9F [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
- 63: 0xBBA4 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10487*]:
+ 63: 0xBBA4 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10490*]:
     → "No problems in Windurst, either."
  64: 0xBBAB [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0xBBAC [0x52] END_LOAD_SCHEDULER: End scheduler "s221" with entities [EventEntity, EventEntity], work=255*
  66: 0xBBBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s222" with entities [EventEntity, EventEntity], work=[255*, 0*]
  67: 0xBBCC [0x4A] Hantileon (ID: 17719570/0x010E6112) looks at Pulonono (ID: 17719587/0x010E6123)
- 68: 0xBBD5 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10488*]:
+ 68: 0xBBD5 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10491*]:
     → "This problem currently affects the nations of San d'Oria and Jeuno. It is only a matter of time before it spreads to Windurst and Bastok as well."
  69: 0xBBDC [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0xBBDD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Pulonono (ID: 17719587/0x010E6123), Pulonono (ID: 17719587/0x010E6123)], work=49*
- 71: 0xBBEC [0x2B] Pulonono (ID: 17719587/0x010E6123) [10489*]:
+ 71: 0xBBEC [0x2B] Pulonono (ID: 17719587/0x010E6123) [10492*]:
     → "What's that? This might affect Windurst? Well, what are you waiting for? Out with it, now!"
  72: 0xBBF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0xBBF4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Pulonono (ID: 17719587/0x010E6123), Pulonono (ID: 17719587/0x010E6123)], work=49*
  74: 0xBC03 [0x52] END_LOAD_SCHEDULER: End scheduler "s222" with entities [EventEntity, EventEntity], work=255*
  75: 0xBC12 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s223" with entities [EventEntity, EventEntity], work=[255*, 0*]
  76: 0xBC23 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
- 77: 0xBC32 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10490*]:
+ 77: 0xBC32 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10493*]:
     → "Recently, a chocobo escaped from these stables."
  78: 0xBC39 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0xBC3A [0x2B] Hantileon (ID: 17719570/0x010E6112) [10491*]:
+ 79: 0xBC3A [0x2B] Hantileon (ID: 17719570/0x010E6112) [10494*]:
     → "I managed to find her and bring her back, but she has been acting strangely ever since."
  80: 0xBC41 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0xBC42 [0x52] END_LOAD_SCHEDULER: End scheduler "s223" with entities [EventEntity, EventEntity], work=255*
  82: 0xBC51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s224" with entities [EventEntity, EventEntity], work=[255*, 0*]
  83: 0xBC62 [0x4A] LocalPlayer looks at Pulonono (ID: 17719587/0x010E6123)
  84: 0xBC6B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
- 85: 0xBC7A [0x2B] Hantileon (ID: 17719570/0x010E6112) [10492*]:
+ 85: 0xBC7A [0x2B] Hantileon (ID: 17719570/0x010E6112) [10495*]:
     → "She often has her head in the clouds, has developed a temper, and always appears restless..."
  86: 0xBC81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0xBC82 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s224" with entities [EventEntity, EventEntity], work=255*
  88: 0xBC91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s225" with entities [EventEntity, EventEntity], work=[255*, 0*]
  89: 0xBCA2 [0x4A] Hantileon (ID: 17719570/0x010E6112) looks at Brutus (ID: 17719588/0x010E6124)
  90: 0xBCAB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
- 91: 0xBCBA [0x2B] Brutus (ID: 17719588/0x010E6124) [10493*]:
+ 91: 0xBCBA [0x2B] Brutus (ID: 17719588/0x010E6124) [10496*]:
     → "Why, the same thing happened to a chocobo at my stable!"
  92: 0xBCC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0xBCC2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
@@ -15025,18 +15025,18 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
  95: 0xBCDA [0x1C] WAIT(30* ticks)
  96: 0xBCDD [0x4A] Pulonono (ID: 17719587/0x010E6123) looks at Brutus (ID: 17719588/0x010E6124)
  97: 0xBCE6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Zopago (ID: 17719589/0x010E6125), Zopago (ID: 17719589/0x010E6125)], work=69*
- 98: 0xBCF5 [0x2B] Zopago (ID: 17719589/0x010E6125) [10494*]:
+ 98: 0xBCF5 [0x2B] Zopago (ID: 17719589/0x010E6125) [10497*]:
     → "The two of you should keep a closer watch on your chocobos. You have nobody to blame but yourselves."
  99: 0xBCFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0xBCFD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Zopago (ID: 17719589/0x010E6125), Zopago (ID: 17719589/0x010E6125)], work=69*
 101: 0xBD0C [0x52] END_LOAD_SCHEDULER: End scheduler "s225" with entities [EventEntity, EventEntity], work=255*
 102: 0xBD1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s226" with entities [EventEntity, EventEntity], work=[255*, 0*]
 103: 0xBD2C [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Zopago (ID: 17719589/0x010E6125)
-104: 0xBD35 [0x2B] Brutus (ID: 17719588/0x010E6124) [10495*]:
+104: 0xBD35 [0x2B] Brutus (ID: 17719588/0x010E6124) [10498*]:
     → "You're right... I never should've mentioned wild chocobos in front of him..."
 105: 0xBD3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0xBD3D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Pulonono (ID: 17719587/0x010E6123), Pulonono (ID: 17719587/0x010E6123)], work=49*
-107: 0xBD4C [0x2B] Pulonono (ID: 17719587/0x010E6123) [10496*]:
+107: 0xBD4C [0x2B] Pulonono (ID: 17719587/0x010E6123) [10499*]:
     → "Wild chocobos?"
 108: 0xBD53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0xBD54 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Pulonono (ID: 17719587/0x010E6123), Pulonono (ID: 17719587/0x010E6123)], work=49*
@@ -15045,13 +15045,13 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 112: 0xBD83 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Pulonono (ID: 17719587/0x010E6123)
 113: 0xBD8C [0x1C] WAIT(30* ticks)
 114: 0xBD8F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
-115: 0xBD9E [0x2B] Brutus (ID: 17719588/0x010E6124) [10497*]:
+115: 0xBD9E [0x2B] Brutus (ID: 17719588/0x010E6124) [10500*]:
     → "Yes. The chocobo escaped as soon as I finished talking to this adventurer here..."
 116: 0xBDA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0xBDA6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
 118: 0xBDB5 [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 21*
 119: 0xBDBC [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
-120: 0xBDC1 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10498*]:
+120: 0xBDC1 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10501*]:
     → "And that's when he started behaving strangely? Could it be...?"
 121: 0xBDC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0xBDC9 [0x52] END_LOAD_SCHEDULER: End scheduler "s227" with entities [EventEntity, EventEntity], work=255*
@@ -15060,7 +15060,7 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 125: 0xBDF2 [0x4A] Pulonono (ID: 17719587/0x010E6123) looks at Zopago (ID: 17719589/0x010E6125)
 126: 0xBDFB [0x6E] Zopago (ID: 17719589/0x010E6125) uses emote 6*
 127: 0xBE02 [0x99] Wait for Zopago (ID: 17719589/0x010E6125) animation to complete
-128: 0xBE07 [0x2B] Zopago (ID: 17719589/0x010E6125) [10499*]:
+128: 0xBE07 [0x2B] Zopago (ID: 17719589/0x010E6125) [10502*]:
     → "It has to be...the call of the wild."
 129: 0xBE0E [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0xBE0F [0x52] END_LOAD_SCHEDULER: End scheduler "s228" with entities [EventEntity, EventEntity], work=255*
@@ -15068,14 +15068,14 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 132: 0xBE2F [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Pulonono (ID: 17719587/0x010E6123)
 133: 0xBE38 [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 26*
 134: 0xBE3F [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
-135: 0xBE44 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10500*]:
+135: 0xBE44 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10503*]:
     → "Oh, give me a break... These chocobos were raised in a stable, for Altana's sake!"
 136: 0xBE4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0xBE4C [0x79] LocalPlayer looks at Hantileon (ID: 17719570/0x010E6112) (Basic look)
 138: 0xBE56 [0x79] Brutus (ID: 17719588/0x010E6124) looks at Hantileon (ID: 17719570/0x010E6112) (Basic look)
 139: 0xBE60 [0x4A] Hantileon (ID: 17719570/0x010E6112) looks at Pulonono (ID: 17719587/0x010E6123)
 140: 0xBE69 [0x4A] Pulonono (ID: 17719587/0x010E6123) looks at Hantileon (ID: 17719570/0x010E6112)
-141: 0xBE72 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10501*]:
+141: 0xBE72 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10504*]:
     → "No. We must not rule out the possibility. Like Brutus, I also discovered my chocobo on the La Theine Plateau."
 142: 0xBE79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0xBE7A [0x52] END_LOAD_SCHEDULER: End scheduler "s229" with entities [EventEntity, EventEntity], work=255*
@@ -15083,7 +15083,7 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 145: 0xBE9A [0x4A] LocalPlayer looks at Pulonono (ID: 17719587/0x010E6123)
 146: 0xBEA3 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Hantileon (ID: 17719570/0x010E6112)
 147: 0xBEAC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-148: 0xBEBB [0x2B] Hantileon (ID: 17719570/0x010E6112) [10502*]:
+148: 0xBEBB [0x2B] Hantileon (ID: 17719570/0x010E6112) [10505*]:
     → "And to make matters worse, the problem is spreading to the other chocobos."
 149: 0xBEC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0xBEC3 [0x1C] WAIT(60* ticks)
@@ -15092,25 +15092,25 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 153: 0xBEE6 [0x79] LocalPlayer looks at Hantileon (ID: 17719570/0x010E6112) (Basic look)
 154: 0xBEF0 [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 25*
 155: 0xBEF7 [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
-156: 0xBEFC [0x2B] Pulonono (ID: 17719587/0x010E6123) [10503*]:
+156: 0xBEFC [0x2B] Pulonono (ID: 17719587/0x010E6123) [10506*]:
     → "What are you saying? People and chocobos have a special bond, not broken so easily!"
 157: 0xBF03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0xBF04 [0x6E] Zopago (ID: 17719589/0x010E6125) uses emote 22*
 159: 0xBF0B [0x99] Wait for Zopago (ID: 17719589/0x010E6125) animation to complete
-160: 0xBF10 [0x2B] Zopago (ID: 17719589/0x010E6125) [10504*]:
+160: 0xBF10 [0x2B] Zopago (ID: 17719589/0x010E6125) [10507*]:
     → "You have to remember that chocobos are animals. They'll return to the wild if given the chance."
 161: 0xBF17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0xBF18 [0x52] END_LOAD_SCHEDULER: End scheduler "s231" with entities [EventEntity, EventEntity], work=255*
 163: 0xBF27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s232" with entities [EventEntity, EventEntity], work=[255*, 0*]
 164: 0xBF38 [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Hantileon (ID: 17719570/0x010E6112)
 165: 0xBF41 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-166: 0xBF50 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10505*]:
+166: 0xBF50 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10508*]:
     → "This issue has the potential to cause great disorder among the chocobos if left unchecked. We must formulate a solution without delay."
 167: 0xBF57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0xBF58 [0x79] Hantileon (ID: 17719570/0x010E6112) looks at Zopago (ID: 17719589/0x010E6125) (Basic look)
 169: 0xBF62 [0x6E] Zopago (ID: 17719589/0x010E6125) uses emote 7*
 170: 0xBF69 [0x99] Wait for Zopago (ID: 17719589/0x010E6125) animation to complete
-171: 0xBF6E [0x2B] Zopago (ID: 17719589/0x010E6125) [10506*]:
+171: 0xBF6E [0x2B] Zopago (ID: 17719589/0x010E6125) [10509*]:
     → "I think the problem lies in the very way we raise and train our chocobos."
 172: 0xBF75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0xBF76 [0x52] END_LOAD_SCHEDULER: End scheduler "s232" with entities [EventEntity, EventEntity], work=255*
@@ -15118,28 +15118,28 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 175: 0xBF96 [0x4B] UPDATE_ENTITY_YAW(entity=Hantileon (ID: 17719570/0x010E6112), yaw=11.5°*)
 176: 0xBF9D [0x79] LocalPlayer looks at Brutus (ID: 17719588/0x010E6124) (Basic look)
 177: 0xBFA7 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Zopago (ID: 17719589/0x010E6125)
-178: 0xBFB0 [0x2B] Brutus (ID: 17719588/0x010E6124) [10507*]:
+178: 0xBFB0 [0x2B] Brutus (ID: 17719588/0x010E6124) [10510*]:
     → "We've already debated this issue, right? We even just finished reforming the system!"
 179: 0xBFB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0xBFB8 [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Brutus (ID: 17719588/0x010E6124)
-181: 0xBFC1 [0x2B] Zopago (ID: 17719589/0x010E6125) [10508*]:
+181: 0xBFC1 [0x2B] Zopago (ID: 17719589/0x010E6125) [10511*]:
     → "I still think it needs more work. We've been too slack on discipline."
 182: 0xBFC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0xBFC9 [0x52] END_LOAD_SCHEDULER: End scheduler "s233" with entities [EventEntity, EventEntity], work=255*
 184: 0xBFD8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s234" with entities [EventEntity, EventEntity], work=[255*, 0*]
 185: 0xBFE9 [0x79] Hantileon (ID: 17719570/0x010E6112) looks at Brutus (ID: 17719588/0x010E6124) (Basic look)
 186: 0xBFF3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
-187: 0xC002 [0x2B] Brutus (ID: 17719588/0x010E6124) [10509*]:
+187: 0xC002 [0x2B] Brutus (ID: 17719588/0x010E6124) [10512*]:
     → "Raisin' chocobos is not just about discipline! We've had this discussion before!"
 188: 0xC009 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0xC00A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
 190: 0xC019 [0x6E] Zopago (ID: 17719589/0x010E6125) uses emote 0*
 191: 0xC020 [0x99] Wait for Zopago (ID: 17719589/0x010E6125) animation to complete
-192: 0xC025 [0x2B] Zopago (ID: 17719589/0x010E6125) [10510*]:
+192: 0xC025 [0x2B] Zopago (ID: 17719589/0x010E6125) [10513*]:
     → "Then how do you explain our current problem? It'll be our responsibility if one of the chocobos harms someone!"
 193: 0xC02C [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0xC02D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-195: 0xC03C [0x2B] Hantileon (ID: 17719570/0x010E6112) [10511*]:
+195: 0xC03C [0x2B] Hantileon (ID: 17719570/0x010E6112) [10514*]:
     → "Settle down, both of you."
 196: 0xC043 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0xC044 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
@@ -15151,17 +15151,17 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 203: 0xC07A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s235" with entities [EventEntity, EventEntity], work=[255*, 0*]
 204: 0xC08B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
 205: 0xC09A [0x4A] LocalPlayer looks at Hantileon (ID: 17719570/0x010E6112)
-206: 0xC0A3 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10512*]:
+206: 0xC0A3 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10515*]:
     → "We have grown so used to these types of discussions that we have lost sight of the big picture."
 207: 0xC0AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0xC0AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-209: 0xC0BA [0x2B] Hantileon (ID: 17719570/0x010E6112) [10513*]:
+209: 0xC0BA [0x2B] Hantileon (ID: 17719570/0x010E6112) [10516*]:
     → "I think we should ask this adventurer here for [his/her] opinion."
 210: 0xC0C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0xC0C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s235" with entities [EventEntity, EventEntity], work=255*
 212: 0xC0D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s236" with entities [EventEntity, EventEntity], work=[255*, 0*]
 213: 0xC0E2 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at LocalPlayer
-214: 0xC0EB [0x2B] Brutus (ID: 17719588/0x010E6124) [10514*]:
+214: 0xC0EB [0x2B] Brutus (ID: 17719588/0x010E6124) [10517*]:
     → "You're right. That's why I invited [him/her] here, after all."
 215: 0xC0F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0xC0F3 [0x4A] Pulonono (ID: 17719587/0x010E6123) looks at LocalPlayer
@@ -15171,7 +15171,7 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 220: 0xC10D [0x02] IF !(ExtData[1]->WorkLocal[35] == 0*) GOTO 0xC444
 221: 0xC115 [0x4A] LocalPlayer looks at Pulonono (ID: 17719587/0x010E6123)
 222: 0xC11E [0x1C] WAIT(30* ticks)
-223: 0xC121 [0x24] CREATE_DIALOG(message_id=10515*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+223: 0xC121 [0x24] CREATE_DIALOG(message_id=10518*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "What do you suggest? [Return the chocobos to the wild./Give the chocobos a rest./Reform the chocobo raising system./Bring the chocobos together.]"
 224: 0xC128 [0x25] WAIT_DIALOG_SELECT()
 225: 0xC129 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0xC222
@@ -15179,27 +15179,27 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 227: 0xC140 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s237" with entities [EventEntity, EventEntity], work=[255*, 0*]
 228: 0xC151 [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 32*
 229: 0xC158 [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
-230: 0xC15D [0x2B] Pulonono (ID: 17719587/0x010E6123) [10516*]:
+230: 0xC15D [0x2B] Pulonono (ID: 17719587/0x010E6123) [10519*]:
     → "But the chocobo stables would have to close, and we'd be out of our jobs!"
 231: 0xC164 [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0xC165 [0x79] LocalPlayer looks at Zopago (ID: 17719589/0x010E6125) (Basic look)
 233: 0xC16F [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Hantileon (ID: 17719570/0x010E6112)
-234: 0xC178 [0x2B] Zopago (ID: 17719589/0x010E6125) [10517*]:
+234: 0xC178 [0x2B] Zopago (ID: 17719589/0x010E6125) [10520*]:
     → "We could make a much better decision without this adventurer."
 235: 0xC17F [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0xC180 [0x52] END_LOAD_SCHEDULER: End scheduler "s237" with entities [EventEntity, EventEntity], work=255*
 237: 0xC18F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s238" with entities [EventEntity, EventEntity], work=[255*, 0*]
 238: 0xC1A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
 239: 0xC1AF [0x4A] LocalPlayer looks at Hantileon (ID: 17719570/0x010E6112)
-240: 0xC1B8 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10518*]:
+240: 0xC1B8 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10521*]:
     → "You may be right..."
 241: 0xC1BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0xC1C0 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Hantileon (ID: 17719570/0x010E6112)
-243: 0xC1C9 [0x2B] Brutus (ID: 17719588/0x010E6124) [10519*]:
+243: 0xC1C9 [0x2B] Brutus (ID: 17719588/0x010E6124) [10522*]:
     → "Wait! Let's give [him/her] another chance."
 244: 0xC1D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0xC1D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-246: 0xC1E0 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10520*]:
+246: 0xC1E0 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10523*]:
     → "...Fine. Let us hear what you have to say, <Player>."
 247: 0xC1E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0xC1E8 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at LocalPlayer
@@ -15213,27 +15213,27 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 256: 0xC239 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s240" with entities [EventEntity, EventEntity], work=[255*, 0*]
 257: 0xC24A [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 32*
 258: 0xC251 [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
-259: 0xC256 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10521*]:
+259: 0xC256 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10524*]:
     → "That would just give them lots of free time to think about returning to the wild, wouldn't it?"
 260: 0xC25D [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0xC25E [0x79] LocalPlayer looks at Zopago (ID: 17719589/0x010E6125) (Basic look)
 262: 0xC268 [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Hantileon (ID: 17719570/0x010E6112)
-263: 0xC271 [0x2B] Zopago (ID: 17719589/0x010E6125) [10517*]:
+263: 0xC271 [0x2B] Zopago (ID: 17719589/0x010E6125) [10520*]:
     → "We could make a much better decision without this adventurer."
 264: 0xC278 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0xC279 [0x52] END_LOAD_SCHEDULER: End scheduler "s240" with entities [EventEntity, EventEntity], work=255*
 266: 0xC288 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s238" with entities [EventEntity, EventEntity], work=[255*, 0*]
 267: 0xC299 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
 268: 0xC2A8 [0x4A] LocalPlayer looks at Hantileon (ID: 17719570/0x010E6112)
-269: 0xC2B1 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10518*]:
+269: 0xC2B1 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10521*]:
     → "You may be right..."
 270: 0xC2B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 271: 0xC2B9 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Hantileon (ID: 17719570/0x010E6112)
-272: 0xC2C2 [0x2B] Brutus (ID: 17719588/0x010E6124) [10519*]:
+272: 0xC2C2 [0x2B] Brutus (ID: 17719588/0x010E6124) [10522*]:
     → "Wait! Let's give [him/her] another chance."
 273: 0xC2C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0xC2CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-275: 0xC2D9 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10520*]:
+275: 0xC2D9 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10523*]:
     → "...Fine. Let us hear what you have to say, <Player>."
 276: 0xC2E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 277: 0xC2E1 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at LocalPlayer
@@ -15249,25 +15249,25 @@ C6A0: 7F 66 64 69 31 02 80 21  00                       .fdi1..!.
 287: 0xC352 [0x6E] Zopago (ID: 17719589/0x010E6125) uses emote 7*
 288: 0xC359 [0x99] Wait for Zopago (ID: 17719589/0x010E6125) animation to complete
 289: 0xC35E [0x79] LocalPlayer looks at Zopago (ID: 17719589/0x010E6125) (Basic look)
-290: 0xC368 [0x2B] Zopago (ID: 17719589/0x010E6125) [10522*]:
+290: 0xC368 [0x2B] Zopago (ID: 17719589/0x010E6125) [10525*]:
     → "See? Even <Player> agrees."
 291: 0xC36F [0x23] WAIT_FOR_DIALOG_INTERACTION
 292: 0xC370 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Zopago (ID: 17719589/0x010E6125)
-293: 0xC379 [0x2B] Brutus (ID: 17719588/0x010E6124) [10519*]:
+293: 0xC379 [0x2B] Brutus (ID: 17719588/0x010E6124) [10522*]:
     → "Wait! Let's give [him/her] another chance."
 294: 0xC380 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0xC381 [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Brutus (ID: 17719588/0x010E6124)
-296: 0xC38A [0x2B] Zopago (ID: 17719589/0x010E6125) [10523*]:
+296: 0xC38A [0x2B] Zopago (ID: 17719589/0x010E6125) [10526*]:
     → "You just don't know when to quit, do you?"
 297: 0xC391 [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0xC392 [0x52] END_LOAD_SCHEDULER: End scheduler "s239" with entities [EventEntity, EventEntity], work=255*
 299: 0xC3A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s238" with entities [EventEntity, EventEntity], work=[255*, 0*]
 300: 0xC3B2 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Hantileon (ID: 17719570/0x010E6112)
-301: 0xC3BB [0x2B] Brutus (ID: 17719588/0x010E6124) [10524*]:
+301: 0xC3BB [0x2B] Brutus (ID: 17719588/0x010E6124) [10527*]:
     → "Please!"
 302: 0xC3C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0xC3C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-304: 0xC3D2 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10520*]:
+304: 0xC3D2 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10523*]:
     → "...Fine. Let us hear what you have to say, <Player>."
 305: 0xC3D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 306: 0xC3DA [0x4A] Brutus (ID: 17719588/0x010E6124) looks at LocalPlayer
@@ -15290,36 +15290,36 @@ SUBROUTINE_C424:
 321: 0xC453 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s241" with entities [EventEntity, EventEntity], work=[255*, 0*]
 322: 0xC464 [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 32*
 323: 0xC46B [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
-324: 0xC470 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10525*]:
+324: 0xC470 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10528*]:
     → "That would just make them twice as bad, wouldn't it?"
 325: 0xC477 [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0xC478 [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Hantileon (ID: 17719570/0x010E6112)
-327: 0xC481 [0x2B] Zopago (ID: 17719589/0x010E6125) [10517*]:
+327: 0xC481 [0x2B] Zopago (ID: 17719589/0x010E6125) [10520*]:
     → "We could make a much better decision without this adventurer."
 328: 0xC488 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0xC489 [0x52] END_LOAD_SCHEDULER: End scheduler "s241" with entities [EventEntity, EventEntity], work=255*
 330: 0xC498 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s242" with entities [EventEntity, EventEntity], work=[255*, 0*]
 331: 0xC4A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-332: 0xC4B8 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10518*]:
+332: 0xC4B8 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10521*]:
     → "You may be right..."
 333: 0xC4BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 334: 0xC4C0 [0x52] END_LOAD_SCHEDULER: End scheduler "s242" with entities [EventEntity, EventEntity], work=255*
 335: 0xC4CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s243" with entities [EventEntity, EventEntity], work=[255*, 0*]
 336: 0xC4E0 [0x27] REQ_SET(priority=0x05, entity_id=Brutus (ID: 17719588/0x010E6124), tag_num=0x03)
-337: 0xC4E7 [0x2B] Brutus (ID: 17719588/0x010E6124) [10526*]:
+337: 0xC4E7 [0x2B] Brutus (ID: 17719588/0x010E6124) [10529*]:
     → "Wait! We don't know until we try, right? Let's bring 'em both together!"
 338: 0xC4EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0xC4EF [0x4A] Pulonono (ID: 17719587/0x010E6123) looks at Brutus (ID: 17719588/0x010E6124)
-340: 0xC4F8 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10527*]:
+340: 0xC4F8 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10530*]:
     → "What's gotten into you all of a sudden?"
 341: 0xC4FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0xC500 [0x52] END_LOAD_SCHEDULER: End scheduler "s243" with entities [EventEntity, EventEntity], work=255*
 343: 0xC50F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s244" with entities [EventEntity, EventEntity], work=[255*, 0*]
-344: 0xC520 [0x2B] Brutus (ID: 17719588/0x010E6124) [10528*]:
+344: 0xC520 [0x2B] Brutus (ID: 17719588/0x010E6124) [10531*]:
     → "I think this adventurer is onto something. Besides, we're not going to solve anything by talking. We should give it a try!"
 345: 0xC527 [0x23] WAIT_FOR_DIALOG_INTERACTION
 346: 0xC528 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Hantileon (ID: 17719570/0x010E6112), Hantileon (ID: 17719570/0x010E6112)], work=29*
-347: 0xC537 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10529*]:
+347: 0xC537 [0x2B] Hantileon (ID: 17719570/0x010E6112) [10532*]:
     → "Well... If you feel that strongly about it..."
 348: 0xC53E [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0xC53F [0x52] END_LOAD_SCHEDULER: End scheduler "s244" with entities [EventEntity, EventEntity], work=255*
@@ -15327,12 +15327,12 @@ SUBROUTINE_C424:
 351: 0xC55F [0x6E] Pulonono (ID: 17719587/0x010E6123) uses emote 7*
 352: 0xC566 [0x99] Wait for Pulonono (ID: 17719587/0x010E6123) animation to complete
 353: 0xC56B [0x4A] Brutus (ID: 17719588/0x010E6124) looks at Pulonono (ID: 17719587/0x010E6123)
-354: 0xC574 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10530*]:
+354: 0xC574 [0x2B] Pulonono (ID: 17719587/0x010E6123) [10533*]:
     → "I guess that's it, then! I'll head for Jeuno later."
 355: 0xC57B [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0xC57C [0x4A] Zopago (ID: 17719589/0x010E6125) looks at Brutus (ID: 17719588/0x010E6124)
 357: 0xC585 [0x79] Brutus (ID: 17719588/0x010E6124) looks at Zopago (ID: 17719589/0x010E6125) (Basic look)
-358: 0xC58F [0x2B] Zopago (ID: 17719589/0x010E6125) [10531*]:
+358: 0xC58F [0x2B] Zopago (ID: 17719589/0x010E6125) [10534*]:
     → "This is such a waste of time..."
 359: 0xC596 [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0xC597 [0x27] REQ_SET(priority=0x05, entity_id=Pulonono (ID: 17719587/0x010E6123), tag_num=0x03)
@@ -15345,14 +15345,14 @@ SUBROUTINE_C424:
 367: 0xC5D2 [0x1C] WAIT(60* ticks)
 368: 0xC5D5 [0x4A] Brutus (ID: 17719588/0x010E6124) looks at LocalPlayer
 369: 0xC5DE [0x79] LocalPlayer looks at Brutus (ID: 17719588/0x010E6124) (Basic look)
-370: 0xC5E8 [0x2B] Brutus (ID: 17719588/0x010E6124) [10532*]:
+370: 0xC5E8 [0x2B] Brutus (ID: 17719588/0x010E6124) [10535*]:
     → "Do you really think this plan will work?"
 371: 0xC5EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 372: 0xC5F0 [0x6E] LocalPlayer uses emote 7*
 373: 0xC5F7 [0x99] Wait for LocalPlayer animation to complete
 374: 0xC5FC [0x1C] WAIT(90* ticks)
 375: 0xC5FF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
-376: 0xC60E [0x2B] Brutus (ID: 17719588/0x010E6124) [10533*]:
+376: 0xC60E [0x2B] Brutus (ID: 17719588/0x010E6124) [10536*]:
     → "Great. I'm behind ya all the way!"
 377: 0xC615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 378: 0xC616 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Brutus (ID: 17719588/0x010E6124), Brutus (ID: 17719588/0x010E6124)], work=238*
@@ -15525,34 +15525,34 @@ CD10: 64 69 31 02 80 21 00                              di1..!.
  23: 0xC749 [0x1C] WAIT(15* ticks)
  24: 0xC74C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  25: 0xC75D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Valderotaux (ID: 17719501/0x010E60CD), Valderotaux (ID: 17719501/0x010E60CD)], work=30*
- 26: 0xC76C [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13434*]:
+ 26: 0xC76C [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13437*]:
     → "Welcome to the Lion Springs!"
  27: 0xC773 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0xC774 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Valderotaux (ID: 17719501/0x010E60CD), Valderotaux (ID: 17719501/0x010E60CD)], work=30*
  29: 0xC783 [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [EventEntity, EventEntity], work=288*
  30: 0xC792 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [EventEntity, EventEntity], work=[288*, 0*]
- 31: 0xC7A3 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13435*]:
+ 31: 0xC7A3 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13438*]:
     → "You wish my permission to dance on the stage?"
  32: 0xC7AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0xC7AB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Valderotaux (ID: 17719501/0x010E60CD), Valderotaux (ID: 17719501/0x010E60CD)], work=30*
- 34: 0xC7BA [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13436*]:
+ 34: 0xC7BA [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13439*]:
     → "Why, I have not had dancers here since Troupe Brilioth graced us with a performance."
  35: 0xC7C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0xC7C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s078" with entities [EventEntity, EventEntity], work=288*
  37: 0xC7D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s079" with entities [EventEntity, EventEntity], work=[288*, 0*]
- 38: 0xC7E2 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13437*]:
+ 38: 0xC7E2 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13440*]:
     → "As I recall, my customers were riotously appreciative... Their cheers shook the very walls of the tavern."
  39: 0xC7E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0xC7EA [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [EventEntity, EventEntity], work=288*
  41: 0xC7F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [EventEntity, EventEntity], work=[288*, 0*]
  42: 0xC80A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Valderotaux (ID: 17719501/0x010E60CD), Valderotaux (ID: 17719501/0x010E60CD)], work=30*
- 43: 0xC819 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13438*]:
+ 43: 0xC819 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13441*]:
     → "Are you sure you're a dancer? It is just that you seem so...nervous."
  44: 0xC820 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0xC821 [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [EventEntity, EventEntity], work=288*
  46: 0xC830 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[288*, 0*]
  47: 0xC841 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Valderotaux (ID: 17719501/0x010E60CD), Valderotaux (ID: 17719501/0x010E60CD)], work=30*
- 48: 0xC850 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13439*]:
+ 48: 0xC850 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13442*]:
     → "Well, I suppose even professionals have the jitters every now and again. Allow me to prepare the audience..."
  49: 0xC857 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0xC858 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -15594,11 +15594,11 @@ CD10: 64 69 31 02 80 21 00                              di1..!.
  86: 0xC9B7 [0x1C] WAIT(15* ticks)
  87: 0xC9BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  88: 0xC9CB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 89: 0xC9DA [0x48] [System] [13440*]:
+ 89: 0xC9DA [0x48] [System] [13443*]:
     → "Now's your chance to capture the hearts of the audience."
  90: 0xC9DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0xC9DE [0x03] ExtData[1]->WorkLocal[40] = 0*
- 92: 0xC9E3 [0x24] CREATE_DIALOG(message_id=13441*, default_option=0*, option_flags=0*)
+ 92: 0xC9E3 [0x24] CREATE_DIALOG(message_id=13444*, default_option=0*, option_flags=0*)
     → "What do you do? [Appeal to the audience./Stretch out your hand./Strike a pose.]"
  93: 0xC9EA [0x25] WAIT_DIALOG_SELECT()
  94: 0xC9EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0xCA70
@@ -15639,15 +15639,15 @@ CD10: 64 69 31 02 80 21 00                              di1..!.
 SUBROUTINE_CB4A:
 128: 0xCB4A [0x13] ExtData[1]->WorkLocal[41] = rand() % 2*
 129: 0xCB4F [0x02] IF !(ExtData[1]->WorkLocal[41] == 0*) GOTO 0xCB61
-130: 0xCB57 [0x2B] Najjar (ID: 17719518/0x010E60DE) [13442*]:
+130: 0xCB57 [0x2B] Najjar (ID: 17719518/0x010E60DE) [13445*]:
     → "Is that what they call dancing these days?"
 131: 0xCB5E [0x01] GOTO 0xCB85
 132: 0xCB61 [0x02] IF !(ExtData[1]->WorkLocal[41] == 1*) GOTO 0xCB73
-133: 0xCB69 [0x2B] Daggao (ID: 17719503/0x010E60CF) [13443*]:
+133: 0xCB69 [0x2B] Daggao (ID: 17719503/0x010E60CF) [13446*]:
     → "Should we call for a doctor? I think [he's/she's] having a fit."
 134: 0xCB70 [0x01] GOTO 0xCB85
 135: 0xCB73 [0x02] IF !(ExtData[1]->WorkLocal[41] == 2*) GOTO 0xCB85
-136: 0xCB7B [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [13444*]:
+136: 0xCB7B [0x2B] Sharzalion (ID: 17719500/0x010E60CC) [13447*]:
     → "My eyes..."
 137: 0xCB82 [0x01] GOTO 0xCB85
 
@@ -15690,14 +15690,14 @@ SUBROUTINE_CB9B:
 171: 0xCC5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 172: 0xCC70 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
 173: 0xCC7F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Valderotaux (ID: 17719501/0x010E60CD), Valderotaux (ID: 17719501/0x010E60CD)], work=30*
-174: 0xCC8E [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13447*]:
+174: 0xCC8E [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13450*]:
     → "Your dancing style was...quite unique..."
 175: 0xCC95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0xCC96 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Valderotaux (ID: 17719501/0x010E60CD), Valderotaux (ID: 17719501/0x010E60CD)], work=30*
 177: 0xCCA5 [0x1C] WAIT(60* ticks)
 178: 0xCCA8 [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=288*
 179: 0xCCB7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s122" with entities [EventEntity, EventEntity], work=[288*, 0*]
-180: 0xCCC8 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13446*]:
+180: 0xCCC8 [0x2B] Valderotaux (ID: 17719501/0x010E60CD) [13449*]:
     → "You know, I'm not sure my establishment is the right place for such an "original" performance..."
 181: 0xCCCF [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0xCCD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -18018,32 +18018,51 @@ D6E0: 7A 30 00                                          z0.
 
 #### Metadata
 
-| Field        | Value    |
-|--------------|----------|
-| Entrypoint   | 0xD6E3   |
-| Data Size    | 46 bytes |
-| Instructions | 8        |
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0xD6E3    |
+| Data Size    | 115 bytes |
+| Instructions | 21        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-D6E0:          42 48 80 85 48  81 85 45 05 80 F0 FF FF     BH..H..E.....
-D6F0: 7F F0 FF FF 7F 66 64 6F  31 02 80 62 0C 80 F0 FF  .....fdo1..b....
-D700: FF 7F F0 FF FF 7F 6D 61  69 6E 02 80 1C 9C 80 21  ......main.....!
-D710: 00                                                .               
+D6E0:          42 02 02 10 F2  81 80 F4 D6 03 02 10 02     B............
+D6F0: 80 01 29 D7 02 02 10 1D  80 80 04 D7 03 02 10 0C  ..).............
+D700: 80 01 29 D7 02 02 10 41  83 80 14 D7 03 02 10 D8  ..)....A........
+D710: 81 01 29 D7 02 02 10 F0  83 80 24 D7 03 02 10 06  ..).......$.....
+D720: 80 01 29 D7 03 02 10 02  80 48 80 85 48 81 85 45  ..)......H..H..E
+D730: 05 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 02 80  ..........fdo1..
+D740: 62 0C 80 F0 FF FF 7F F0  FF FF 7F 6D 61 69 6E 02  b..........main.
+D750: 80 1C 9C 80 21 00                                 ....!.          
 ```
 
 #### Opcodes
 
 ```
   0: 0xD6E3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0xD6E4 [0x48] [System] [16536*]:
-    → "Entering $8."
-  2: 0xD6E7 [0x48] [System] [16574*]:
+  1: 0xD6E4 [0x02] IF !(Work_Zone[2] == 230*) GOTO 0xD6F4
+  2: 0xD6EC [0x03] Work_Zone[2] = 0*
+  3: 0xD6F1 [0x01] GOTO 0xD729
+  4: 0xD6F4 [0x02] IF !(Work_Zone[2] == 234*) GOTO 0xD704
+  5: 0xD6FC [0x03] Work_Zone[2] = 1*
+  6: 0xD701 [0x01] GOTO 0xD729
+  7: 0xD704 [0x02] IF !(Work_Zone[2] == 239*) GOTO 0xD714
+  8: 0xD70C [0x03] Work_Zone[2] = 2*
+  9: 0xD711 [0x01] GOTO 0xD729
+ 10: 0xD714 [0x02] IF !(Work_Zone[2] == 243*) GOTO 0xD724
+ 11: 0xD71C [0x03] Work_Zone[2] = 3*
+ 12: 0xD721 [0x01] GOTO 0xD729
+ 13: 0xD724 [0x03] Work_Zone[2] = 0*
+
+SUBROUTINE_D729:
+ 14: 0xD729 [0x48] [System] [16541*]:
+    → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
+ 15: 0xD72C [0x48] [System] [16579*]:
     → "Your $3 fills with sand."
-  3: 0xD6EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  4: 0xD6FB [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
-  5: 0xD70C [0x1C] WAIT(90* ticks)
-  6: 0xD70F [0x21] END_EVENT
-  7: 0xD710 [0x00] END_REQSTACK()
+ 16: 0xD72F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 17: 0xD740 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
+ 18: 0xD751 [0x1C] WAIT(90* ticks)
+ 19: 0xD754 [0x21] END_EVENT
+ 20: 0xD755 [0x00] END_REQSTACK()
 ```

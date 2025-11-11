@@ -42,36 +42,36 @@
 |      14 | 0x0018      |          24 |
 |      15 | 0x0007      |           7 |
 |      16 | 0x0014      |          20 |
-|      17 | 0x2A60      |       10848 |
-|      18 | 0x2A63      |       10851 |
+|      17 | 0x2A61      |       10849 |
+|      18 | 0x2A64      |       10852 |
 |      19 | 0x06EE      |        1774 |
-|      20 | 0x2A61      |       10849 |
-|      21 | 0x2A62      |       10850 |
-|      22 | 0x2A64      |       10852 |
+|      20 | 0x2A62      |       10850 |
+|      21 | 0x2A63      |       10851 |
+|      22 | 0x2A65      |       10853 |
 |      23 | 0x40000000  |  1073741824 |
-|      24 | 0x2A88      |       10888 |
-|      25 | 0x2A8F      |       10895 |
-|      26 | 0x2A89      |       10889 |
-|      27 | 0x2A8A      |       10890 |
-|      28 | 0x2A8C      |       10892 |
-|      29 | 0x2A8B      |       10891 |
+|      24 | 0x2A89      |       10889 |
+|      25 | 0x2A90      |       10896 |
+|      26 | 0x2A8A      |       10890 |
+|      27 | 0x2A8B      |       10891 |
+|      28 | 0x2A8D      |       10893 |
+|      29 | 0x2A8C      |       10892 |
 |      30 | 0x000F      |          15 |
 |      31 | 0x0010      |          16 |
 |      32 | 0x001F      |          31 |
-|      33 | 0x2A8E      |       10894 |
+|      33 | 0x2A8F      |       10895 |
 |      34 | 0x03E8      |        1000 |
-|      35 | 0x2A91      |       10897 |
-|      36 | 0x2A92      |       10898 |
-|      37 | 0x2A93      |       10899 |
-|      38 | 0x2A9C      |       10908 |
+|      35 | 0x2A92      |       10898 |
+|      36 | 0x2A93      |       10899 |
+|      37 | 0x2A94      |       10900 |
+|      38 | 0x2A9D      |       10909 |
 |      39 | 0x00DF      |         223 |
-|      40 | 0x2A9B      |       10907 |
-|      41 | 0x2A94      |       10900 |
+|      40 | 0x2A9C      |       10908 |
+|      41 | 0x2A95      |       10901 |
 |      42 | 0x0008      |           8 |
 |      43 | 0x000B      |          11 |
 |      44 | 0x000C      |          12 |
-|      45 | 0x2A95      |       10901 |
-|      46 | 0x2A96      |       10902 |
+|      45 | 0x2A96      |       10902 |
+|      46 | 0x2A97      |       10903 |
 |      47 | 0x0013      |          19 |
 |      48 | 0x0015      |          21 |
 |      49 | 0x0016      |          22 |
@@ -83,7 +83,7 @@
 |      55 | 0x001E      |          30 |
 |      56 | 0x0020      |          32 |
 |      57 | 0x0021      |          33 |
-|      58 | 0x2A97      |       10903 |
+|      58 | 0x2A98      |       10904 |
 |      59 | 0x002C      |          44 |
 |      60 | 0x002D      |          45 |
 |      61 | 0x002E      |          46 |
@@ -96,7 +96,7 @@
 |      68 | 0x0035      |          53 |
 |      69 | 0x0036      |          54 |
 |      70 | 0x0037      |          55 |
-|      71 | 0x2A98      |       10904 |
+|      71 | 0x2A99      |       10905 |
 |      72 | 0x0022      |          34 |
 |      73 | 0x0023      |          35 |
 |      74 | 0x0024      |          36 |
@@ -107,48 +107,48 @@
 |      79 | 0x0029      |          41 |
 |      80 | 0x002A      |          42 |
 |      81 | 0x002B      |          43 |
-|      82 | 0x2A99      |       10905 |
+|      82 | 0x2A9A      |       10906 |
 |      83 | 0x0038      |          56 |
 |      84 | 0x0039      |          57 |
 |      85 | 0x003A      |          58 |
 |      86 | 0x003B      |          59 |
 |      87 | 0x003C      |          60 |
-|      88 | 0x2A9A      |       10906 |
+|      88 | 0x2A9B      |       10907 |
 |      89 | 0x003D      |          61 |
 |      90 | 0x003E      |          62 |
 |      91 | 0x003F      |          63 |
 |      92 | 0x0040      |          64 |
 |      93 | 0x0041      |          65 |
 |      94 | 0x070E      |        1806 |
-|      95 | 0x2A65      |       10853 |
-|      96 | 0x2A9F      |       10911 |
-|      97 | 0x2A79      |       10873 |
-|      98 | 0x2A7A      |       10874 |
-|      99 | 0x2A6A      |       10858 |
-|     100 | 0x2A6B      |       10859 |
-|     101 | 0x2A66      |       10854 |
+|      95 | 0x2A66      |       10854 |
+|      96 | 0x2AA0      |       10912 |
+|      97 | 0x2A7A      |       10874 |
+|      98 | 0x2A7B      |       10875 |
+|      99 | 0x2A6B      |       10859 |
+|     100 | 0x2A6C      |       10860 |
+|     101 | 0x2A67      |       10855 |
 |     102 | 0x0064      |         100 |
-|     103 | 0x2A67      |       10855 |
-|     104 | 0x2A68      |       10856 |
-|     105 | 0x2A69      |       10857 |
-|     106 | 0x2A70      |       10864 |
-|     107 | 0x2A71      |       10865 |
-|     108 | 0x2A72      |       10866 |
-|     109 | 0x2A73      |       10867 |
-|     110 | 0x2A74      |       10868 |
-|     111 | 0x2A7B      |       10875 |
-|     112 | 0x2A7C      |       10876 |
-|     113 | 0x2A7D      |       10877 |
-|     114 | 0x2A7E      |       10878 |
-|     115 | 0x2A7F      |       10879 |
-|     116 | 0x2A80      |       10880 |
-|     117 | 0x2A81      |       10881 |
-|     118 | 0x2A82      |       10882 |
-|     119 | 0x2A83      |       10883 |
-|     120 | 0x2A84      |       10884 |
-|     121 | 0x2A85      |       10885 |
-|     122 | 0x2A86      |       10886 |
-|     123 | 0x2A87      |       10887 |
+|     103 | 0x2A68      |       10856 |
+|     104 | 0x2A69      |       10857 |
+|     105 | 0x2A6A      |       10858 |
+|     106 | 0x2A71      |       10865 |
+|     107 | 0x2A72      |       10866 |
+|     108 | 0x2A73      |       10867 |
+|     109 | 0x2A74      |       10868 |
+|     110 | 0x2A75      |       10869 |
+|     111 | 0x2A7C      |       10876 |
+|     112 | 0x2A7D      |       10877 |
+|     113 | 0x2A7E      |       10878 |
+|     114 | 0x2A7F      |       10879 |
+|     115 | 0x2A80      |       10880 |
+|     116 | 0x2A81      |       10881 |
+|     117 | 0x2A82      |       10882 |
+|     118 | 0x2A83      |       10883 |
+|     119 | 0x2A84      |       10884 |
+|     120 | 0x2A85      |       10885 |
+|     121 | 0x2A86      |       10886 |
+|     122 | 0x2A87      |       10887 |
+|     123 | 0x2A88      |       10888 |
 |     124 | 0x016E      |         366 |
 |     125 | 0x0172      |         370 |
 |     126 | 0x0176      |         374 |
@@ -273,32 +273,32 @@
 
 ## String References
 
-- **10852**: What will you do? [Nothing for now./Have stratum abyssite examined./Request teleportation./Analyze atmacite./Ask about atmacite./Ask about atmacite enrichment.]
-- **10853**: What will you do? [Nothing for now./Infused: $3 (lv.$1)/Infused: $3 (lv.$3)/Infused: $3 (lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
-- **10854**: Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]
-- **10855**: Infusing the $3 (lv.$1) requires $2 cruor.
-- **10856**: Infuse $3 (lv.$1)? [Yes./No.]
-- **10857**: You do not have enough cruor.
-- **10858**: [Infuse/Purge] which atmacite? [None for now./$3 (lv.$2)/$3 (lv.$4)/$3 (lv.$6)]
-- **10859**: Purge $3 (lv.$1)? [Yes./No.]
-- **10864**: You do not possess any atmacite capable of enrichment.
-- **10865**: Enrich which atmacite? (Cruor: $$) [None for now./3 (lv.$1): $2/$3 (lv.$4): $5/$3 (lv.$7): $8/$3 (lv.$10): $11/$3 (lv.$13): $14/$3 (lv.$16): $17/$3 (lv.$19): $20/$3 (lv.$22): $23/$3 (lv.$25): $26/$3 (lv.$28): $29/$3 (lv.$31): $ /$3 (lv.$"): $#/Previous page./Next page.]
-- **10866**: Enriching the $3 will produce the following:
-- **10867**: Enriching the $3 from level $1 to level $2 requires $3 cruor.
-- **10868**: Enrich $3? [Yes./No.]
-- **10873**: The $3 (lv.$1) bestows the following bonuses:
-- **10874**: Replace $3 (Lv.$1)? [Yes./No.]
-- **10888**: Examine which stratum abyssite? [None right now./3./$3./$3./$3./$3./$3./$3.]
-- **10898**: Select Voidwatch jurisdiction. [I've changed my mind./San d'Oria./Bastok./Windurst./Jeuno./Jeuno II./Zilart region./Tavnazia./Aht Urhgan.]
-- **10899**: Select your destination. [Nowhere./East Ronfaure./East Ronfaure./Ordelle's Caves (entrance)./Jugner Forest./Jugner Forest./King Ranperre's Tomb (entrance).]
-- **10900**: Select your destination. [Nowhere./North Gustaberg./North Gustaberg./Gusgen Mines (entrance)./Pashhow Marshlands./Pashhow Marshlands./Dangruf Wadi (entrance).]
-- **10901**: Select your destination. [Nowhere./West Sarutabaruta./West Sarutabaruta./Maze of Shakhrami (entrance)./Meriphataud Mountains./Meriphataud Mountains./Outer Horutoto Ruins (entrance).]
-- **10902**: Select your destination. [Nowhere./Batallia Downs./Batallia Downs./Rolanberry Fields./Rolanberry Fields./Sauromugue Champaign./Sauromugue Champaign./Eldieme Necropolis (entrance)./Eldieme Necropolis (entrance)./Crawlers' Nest (entrance)./Crawlers' Nest (entrance)./Garlaige Citadel (entrance)./Garlaige Citadel (entrance)./Qufim Island./Delkfutt's Tower (entrance)./Behemoth's Dominion.]
-- **10903**: Select your destination. [Nowhere./West Ronfaure./South Gustaberg./East Sarutabaruta./La Theine Plateau./Konschtat Highlands./Tahrongi Canyon./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./Valkurm Dunes./Buburimu Peninsula./Beaucedine Glacier.]
-- **10904**: Select your destination. [Nowhere./Yuhtunga Jungle./Ifrit's Cauldron (entrance)./Temple of Uggalepih (entrance)./Western Altepa Desert./Kuftal Tunnel (entrance)./Quicksand Caves (entrance)./The Sanctuary of Zi'Tah./The Boyahda Tree (entrance)./Ro'Maeve./The Hall of the Gods.]
-- **10905**: Select your destination. [Nowhere./Lufaise Meadows./Misareaux Coast./Uleguerand Range./Attohwa Chasm./Bibiki Bay.]
-- **10906**: Select your destination. [Nowhere./Arrapago Reef (entrance)./Mount Zhayolm./Mamook (entrance)./Caedarva Mire./Aydeewa Subterrane (entrance).]
-- **10908**: Hand over $0 cruor? (Cruor: $1) [Yes./No.]
+- **10853**: What will you do? [Nothing for now./Have stratum abyssite examined./Request teleportation./Analyze atmacite./Ask about atmacite./Ask about atmacite enrichment.]
+- **10854**: What will you do? [Nothing for now./Infused: $3 (lv.$1)/Infused: $3 (lv.$3)/Infused: $3 (lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
+- **10855**: Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]
+- **10856**: Infusing the $3 (lv.$1) requires $2 cruor.
+- **10857**: Infuse $3 (lv.$1)? [Yes./No.]
+- **10858**: You do not have enough cruor.
+- **10859**: [Infuse/Purge] which atmacite? [None for now./$3 (lv.$2)/$3 (lv.$4)/$3 (lv.$6)]
+- **10860**: Purge $3 (lv.$1)? [Yes./No.]
+- **10865**: You do not possess any atmacite capable of enrichment.
+- **10866**: Enrich which atmacite? (Cruor: $$) [None for now./3 (lv.$1): $2/$3 (lv.$4): $5/$3 (lv.$7): $8/$3 (lv.$10): $11/$3 (lv.$13): $14/$3 (lv.$16): $17/$3 (lv.$19): $20/$3 (lv.$22): $23/$3 (lv.$25): $26/$3 (lv.$28): $29/$3 (lv.$31): $ /$3 (lv.$"): $#/Previous page./Next page.]
+- **10867**: Enriching the $3 will produce the following:
+- **10868**: Enriching the $3 from level $1 to level $2 requires $3 cruor.
+- **10869**: Enrich $3? [Yes./No.]
+- **10874**: The $3 (lv.$1) bestows the following bonuses:
+- **10875**: Replace $3 (Lv.$1)? [Yes./No.]
+- **10889**: Examine which stratum abyssite? [None right now./3./$3./$3./$3./$3./$3./$3.]
+- **10899**: Select Voidwatch jurisdiction. [I've changed my mind./San d'Oria./Bastok./Windurst./Jeuno./Jeuno II./Zilart region./Tavnazia./Aht Urhgan.]
+- **10900**: Select your destination. [Nowhere./East Ronfaure./East Ronfaure./Ordelle's Caves (entrance)./Jugner Forest./Jugner Forest./King Ranperre's Tomb (entrance).]
+- **10901**: Select your destination. [Nowhere./North Gustaberg./North Gustaberg./Gusgen Mines (entrance)./Pashhow Marshlands./Pashhow Marshlands./Dangruf Wadi (entrance).]
+- **10902**: Select your destination. [Nowhere./West Sarutabaruta./West Sarutabaruta./Maze of Shakhrami (entrance)./Meriphataud Mountains./Meriphataud Mountains./Outer Horutoto Ruins (entrance).]
+- **10903**: Select your destination. [Nowhere./Batallia Downs./Batallia Downs./Rolanberry Fields./Rolanberry Fields./Sauromugue Champaign./Sauromugue Champaign./Eldieme Necropolis (entrance)./Eldieme Necropolis (entrance)./Crawlers' Nest (entrance)./Crawlers' Nest (entrance)./Garlaige Citadel (entrance)./Garlaige Citadel (entrance)./Qufim Island./Delkfutt's Tower (entrance)./Behemoth's Dominion.]
+- **10904**: Select your destination. [Nowhere./West Ronfaure./South Gustaberg./East Sarutabaruta./La Theine Plateau./Konschtat Highlands./Tahrongi Canyon./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./Valkurm Dunes./Buburimu Peninsula./Beaucedine Glacier.]
+- **10905**: Select your destination. [Nowhere./Yuhtunga Jungle./Ifrit's Cauldron (entrance)./Temple of Uggalepih (entrance)./Western Altepa Desert./Kuftal Tunnel (entrance)./Quicksand Caves (entrance)./The Sanctuary of Zi'Tah./The Boyahda Tree (entrance)./Ro'Maeve./The Hall of the Gods.]
+- **10906**: Select your destination. [Nowhere./Lufaise Meadows./Misareaux Coast./Uleguerand Range./Attohwa Chasm./Bibiki Bay.]
+- **10907**: Select your destination. [Nowhere./Arrapago Reef (entrance)./Mount Zhayolm./Mamook (entrance)./Caedarva Mire./Aydeewa Subterrane (entrance).]
+- **10909**: Hand over $0 cruor? (Cruor: $1) [Yes./No.]
 
 ## Events
 
@@ -1895,11 +1895,11 @@
  55: 0x0102 [0x4A] Atmacite Refiner (ID: 17789016/0x010F7058) looks at LocalPlayer
  56: 0x010B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  57: 0x010C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Atmacite Refiner (ID: 17789016/0x010F7058) Render.Flags0 and Render.Flags3 conditions are met
- 58: 0x0111 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10848*]:
+ 58: 0x0111 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10849*]:
     → "Greetings and well met. I am a Voidwatch scientist charged with researching the potential uses of atmacite."
  59: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0119 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x012E
- 61: 0x0121 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10851*]:
+ 61: 0x0121 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10852*]:
     → "I beg of you, friend. Lend us your stout sword arm in the fight to protect Vana'diel from the Voidwalker threat."
  62: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0129 [0x21] END_EVENT
@@ -1918,7 +1918,7 @@ SUBROUTINE_0143:
 
 SUBROUTINE_0187:
  74: 0x0187 [0x02] IF !(ExtData[1]->WorkLocal[17] <= 0*) GOTO 0x222E
- 75: 0x018F [0x24] CREATE_DIALOG(message_id=10852*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
+ 75: 0x018F [0x24] CREATE_DIALOG(message_id=10853*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
     → "What will you do? [Nothing for now./Have stratum abyssite examined./Request teleportation./Analyze atmacite./Ask about atmacite./Ask about atmacite enrichment.]"
  76: 0x0196 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0197 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AA
@@ -1997,7 +1997,7 @@ SUBROUTINE_02A5:
 136: 0x02C2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[21], bit_index_work_offset=7*, condition_work_offset=1*)
 
 SUBROUTINE_02C9:
-137: 0x02C9 [0x24] CREATE_DIALOG(message_id=10888*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
+137: 0x02C9 [0x24] CREATE_DIALOG(message_id=10889*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
     → "Examine which stratum abyssite? [None right now./3./$3./$3./$3./$3./$3./$3.]"
 138: 0x02D0 [0x25] WAIT_DIALOG_SELECT()
 139: 0x02D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DF
@@ -2042,28 +2042,28 @@ SUBROUTINE_02C9:
 SUBROUTINE_0387:
 177: 0x0387 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x046A
 178: 0x038F [0x02] IF !(Work_Zone[0] < 5*) GOTO 0x03A2
-179: 0x0397 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10895*]:
+179: 0x0397 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10896*]:
     → "How curious. I've not seen a stone like this before. Wherever did you find it?"
 180: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x039F [0x01] GOTO 0x046A
 182: 0x03A2 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0424
 183: 0x03AA [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03BD
-184: 0x03B2 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10889*]:
+184: 0x03B2 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10890*]:
     → "Hmmm... I'm afraid the stone isn't exhibiting any signs of growth."
 185: 0x03B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x03BA [0x01] GOTO 0x0421
 187: 0x03BD [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x03D0
-188: 0x03C5 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10890*]:
+188: 0x03C5 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10891*]:
     → "The stone shows signs indicative of growth, but the changes are yet too slight for untrained eyes to discern."
 189: 0x03CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x03CD [0x01] GOTO 0x0421
 191: 0x03D0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x03E3
-192: 0x03D8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10892*]:
+192: 0x03D8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10893*]:
     → "Why yes, this stone is showing the initial signs of evolution. It appears there's still room for growth, however."
 193: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x03E0 [0x01] GOTO 0x0421
 195: 0x03E3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x040E
-196: 0x03EB [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10891*]:
+196: 0x03EB [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10892*]:
     → "Oh my, such a magnificent display of evolution! Leaves absolutely nothing to be desired!"
 197: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x03F3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -2072,7 +2072,7 @@ SUBROUTINE_0387:
 201: 0x0408 [0x06] ExtData[1]->WorkLocal[19] = 0
 202: 0x040B [0x01] GOTO 0x0421
 203: 0x040E [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0421
-204: 0x0416 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10894*]:
+204: 0x0416 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10895*]:
     → "Hmmm... I'm afraid the stone isn't exhibiting any signs of growth. Perhaps a catalyst of sorts could help to spur along the process?"
 205: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x041E [0x01] GOTO 0x0421
@@ -2080,7 +2080,7 @@ SUBROUTINE_0387:
 SUBROUTINE_0421:
 207: 0x0421 [0x01] GOTO 0x046A
 208: 0x0424 [0x02] IF !(ExtData[1]->WorkLocal[0] < 2*) GOTO 0x044F
-209: 0x042C [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10891*]:
+209: 0x042C [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10892*]:
     → "Oh my, such a magnificent display of evolution! Leaves absolutely nothing to be desired!"
 210: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x0434 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -2089,11 +2089,11 @@ SUBROUTINE_0421:
 214: 0x0449 [0x06] ExtData[1]->WorkLocal[19] = 0
 215: 0x044C [0x01] GOTO 0x046A
 216: 0x044F [0x02] IF !(ExtData[1]->WorkLocal[0] < 1*) GOTO 0x0462
-217: 0x0457 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10890*]:
+217: 0x0457 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10891*]:
     → "The stone shows signs indicative of growth, but the changes are yet too slight for untrained eyes to discern."
 218: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x045F [0x01] GOTO 0x046A
-220: 0x0462 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10889*]:
+220: 0x0462 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10890*]:
     → "Hmmm... I'm afraid the stone isn't exhibiting any signs of growth."
 221: 0x0469 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2102,7 +2102,7 @@ SUBROUTINE_046A:
 223: 0x046D [0x01] GOTO 0x222B
 224: 0x0470 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0E37
 225: 0x0478 [0x03] Work_Zone[2] = 1000*
-226: 0x047D [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10897*]:
+226: 0x047D [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10898*]:
     → "Supply me with the $0 cruor necessary, and I shall gladly teleport you to an operation site of your choosing."
 227: 0x0484 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x0485 [0x05] ExtData[1]->WorkLocal[19] = 1
@@ -2112,7 +2112,7 @@ SUBROUTINE_0488:
 230: 0x0490 [0x06] ExtData[1]->WorkLocal[21] = 0
 231: 0x0493 [0x1A] CALL_SUBROUTINE(address=0x2878)
 232: 0x0496 [0x03] ExtData[1]->WorkLocal[21] = ExtData[1]->WorkLocal[0]
-233: 0x049B [0x24] CREATE_DIALOG(message_id=10898*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
+233: 0x049B [0x24] CREATE_DIALOG(message_id=10899*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
     → "Select Voidwatch jurisdiction. [I've changed my mind./San d'Oria./Bastok./Windurst./Jeuno./Jeuno II./Zilart region./Tavnazia./Aht Urhgan.]"
 234: 0x04A2 [0x25] WAIT_DIALOG_SELECT()
 235: 0x04A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B1
@@ -2127,7 +2127,7 @@ SUBROUTINE_04BC:
 242: 0x04C7 [0x03] ExtData[1]->WorkLocal[0] = 0*
 243: 0x04CC [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 244: 0x04CF [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-245: 0x04D4 [0x24] CREATE_DIALOG(message_id=10899*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+245: 0x04D4 [0x24] CREATE_DIALOG(message_id=10900*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./East Ronfaure./East Ronfaure./Ordelle's Caves (entrance)./Jugner Forest./Jugner Forest./King Ranperre's Tomb (entrance).]"
 246: 0x04DB [0x25] WAIT_DIALOG_SELECT()
 247: 0x04DC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04EA
@@ -2156,7 +2156,7 @@ SUBROUTINE_054A:
 268: 0x054A [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x05B9
 269: 0x0552 [0x03] Work_Zone[2] = 1000*
 270: 0x0557 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-271: 0x055C [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+271: 0x055C [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 272: 0x0563 [0x25] WAIT_DIALOG_SELECT()
 273: 0x0564 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AE
@@ -2168,7 +2168,7 @@ SUBROUTINE_054A:
 279: 0x059A [0x06] ExtData[1]->WorkLocal[19] = 0
 280: 0x059D [0x06] ExtData[1]->WorkLocal[20] = 0
 281: 0x05A0 [0x01] GOTO 0x05AB
-282: 0x05A3 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+282: 0x05A3 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 283: 0x05AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2189,7 +2189,7 @@ SUBROUTINE_05CA:
 293: 0x05D5 [0x03] ExtData[1]->WorkLocal[0] = 1*
 294: 0x05DA [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 295: 0x05DD [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-296: 0x05E2 [0x24] CREATE_DIALOG(message_id=10900*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+296: 0x05E2 [0x24] CREATE_DIALOG(message_id=10901*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./North Gustaberg./North Gustaberg./Gusgen Mines (entrance)./Pashhow Marshlands./Pashhow Marshlands./Dangruf Wadi (entrance).]"
 297: 0x05E9 [0x25] WAIT_DIALOG_SELECT()
 298: 0x05EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05F8
@@ -2218,7 +2218,7 @@ SUBROUTINE_0658:
 319: 0x0658 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x06C7
 320: 0x0660 [0x03] Work_Zone[2] = 1000*
 321: 0x0665 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-322: 0x066A [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+322: 0x066A [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 323: 0x0671 [0x25] WAIT_DIALOG_SELECT()
 324: 0x0672 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06BC
@@ -2230,7 +2230,7 @@ SUBROUTINE_0658:
 330: 0x06A8 [0x06] ExtData[1]->WorkLocal[19] = 0
 331: 0x06AB [0x06] ExtData[1]->WorkLocal[20] = 0
 332: 0x06AE [0x01] GOTO 0x06B9
-333: 0x06B1 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+333: 0x06B1 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 334: 0x06B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2251,7 +2251,7 @@ SUBROUTINE_06D8:
 344: 0x06E3 [0x03] ExtData[1]->WorkLocal[0] = 2*
 345: 0x06E8 [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 346: 0x06EB [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-347: 0x06F0 [0x24] CREATE_DIALOG(message_id=10901*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+347: 0x06F0 [0x24] CREATE_DIALOG(message_id=10902*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./West Sarutabaruta./West Sarutabaruta./Maze of Shakhrami (entrance)./Meriphataud Mountains./Meriphataud Mountains./Outer Horutoto Ruins (entrance).]"
 348: 0x06F7 [0x25] WAIT_DIALOG_SELECT()
 349: 0x06F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0706
@@ -2280,7 +2280,7 @@ SUBROUTINE_0766:
 370: 0x0766 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x07D5
 371: 0x076E [0x03] Work_Zone[2] = 1000*
 372: 0x0773 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-373: 0x0778 [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+373: 0x0778 [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 374: 0x077F [0x25] WAIT_DIALOG_SELECT()
 375: 0x0780 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07CA
@@ -2292,7 +2292,7 @@ SUBROUTINE_0766:
 381: 0x07B6 [0x06] ExtData[1]->WorkLocal[19] = 0
 382: 0x07B9 [0x06] ExtData[1]->WorkLocal[20] = 0
 383: 0x07BC [0x01] GOTO 0x07C7
-384: 0x07BF [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+384: 0x07BF [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 385: 0x07C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2313,7 +2313,7 @@ SUBROUTINE_07E6:
 395: 0x07F1 [0x03] ExtData[1]->WorkLocal[0] = 3*
 396: 0x07F6 [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 397: 0x07F9 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-398: 0x07FE [0x24] CREATE_DIALOG(message_id=10902*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+398: 0x07FE [0x24] CREATE_DIALOG(message_id=10903*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./Batallia Downs./Batallia Downs./Rolanberry Fields./Rolanberry Fields./Sauromugue Champaign./Sauromugue Champaign./Eldieme Necropolis (entrance)./Eldieme Necropolis (entrance)./Crawlers' Nest (entrance)./Crawlers' Nest (entrance)./Garlaige Citadel (entrance)./Garlaige Citadel (entrance)./Qufim Island./Delkfutt's Tower (entrance)./Behemoth's Dominion.]"
 399: 0x0805 [0x25] WAIT_DIALOG_SELECT()
 400: 0x0806 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0814
@@ -2369,7 +2369,7 @@ SUBROUTINE_0904:
 448: 0x0904 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0973
 449: 0x090C [0x03] Work_Zone[2] = 1000*
 450: 0x0911 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-451: 0x0916 [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+451: 0x0916 [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 452: 0x091D [0x25] WAIT_DIALOG_SELECT()
 453: 0x091E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0968
@@ -2381,7 +2381,7 @@ SUBROUTINE_0904:
 459: 0x0954 [0x06] ExtData[1]->WorkLocal[19] = 0
 460: 0x0957 [0x06] ExtData[1]->WorkLocal[20] = 0
 461: 0x095A [0x01] GOTO 0x0965
-462: 0x095D [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+462: 0x095D [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 463: 0x0964 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2402,7 +2402,7 @@ SUBROUTINE_0984:
 473: 0x098F [0x03] ExtData[1]->WorkLocal[0] = 5*
 474: 0x0994 [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 475: 0x0997 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-476: 0x099C [0x24] CREATE_DIALOG(message_id=10903*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+476: 0x099C [0x24] CREATE_DIALOG(message_id=10904*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./West Ronfaure./South Gustaberg./East Sarutabaruta./La Theine Plateau./Konschtat Highlands./Tahrongi Canyon./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./Valkurm Dunes./Buburimu Peninsula./Beaucedine Glacier.]"
 477: 0x09A3 [0x25] WAIT_DIALOG_SELECT()
 478: 0x09A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09B2
@@ -2449,7 +2449,7 @@ SUBROUTINE_0A72:
 517: 0x0A72 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0AE1
 518: 0x0A7A [0x03] Work_Zone[2] = 1000*
 519: 0x0A7F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-520: 0x0A84 [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+520: 0x0A84 [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 521: 0x0A8B [0x25] WAIT_DIALOG_SELECT()
 522: 0x0A8C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AD6
@@ -2461,7 +2461,7 @@ SUBROUTINE_0A72:
 528: 0x0AC2 [0x06] ExtData[1]->WorkLocal[19] = 0
 529: 0x0AC5 [0x06] ExtData[1]->WorkLocal[20] = 0
 530: 0x0AC8 [0x01] GOTO 0x0AD3
-531: 0x0ACB [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+531: 0x0ACB [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 532: 0x0AD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2482,7 +2482,7 @@ SUBROUTINE_0AF2:
 542: 0x0AFD [0x03] ExtData[1]->WorkLocal[0] = 4*
 543: 0x0B02 [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 544: 0x0B05 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-545: 0x0B0A [0x24] CREATE_DIALOG(message_id=10904*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+545: 0x0B0A [0x24] CREATE_DIALOG(message_id=10905*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./Yuhtunga Jungle./Ifrit's Cauldron (entrance)./Temple of Uggalepih (entrance)./Western Altepa Desert./Kuftal Tunnel (entrance)./Quicksand Caves (entrance)./The Sanctuary of Zi'Tah./The Boyahda Tree (entrance)./Ro'Maeve./The Hall of the Gods.]"
 546: 0x0B11 [0x25] WAIT_DIALOG_SELECT()
 547: 0x0B12 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B20
@@ -2523,7 +2523,7 @@ SUBROUTINE_0BC0:
 580: 0x0BC0 [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0C2F
 581: 0x0BC8 [0x03] Work_Zone[2] = 1000*
 582: 0x0BCD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-583: 0x0BD2 [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+583: 0x0BD2 [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 584: 0x0BD9 [0x25] WAIT_DIALOG_SELECT()
 585: 0x0BDA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C24
@@ -2535,7 +2535,7 @@ SUBROUTINE_0BC0:
 591: 0x0C10 [0x06] ExtData[1]->WorkLocal[19] = 0
 592: 0x0C13 [0x06] ExtData[1]->WorkLocal[20] = 0
 593: 0x0C16 [0x01] GOTO 0x0C21
-594: 0x0C19 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+594: 0x0C19 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 595: 0x0C20 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2556,7 +2556,7 @@ SUBROUTINE_0C40:
 605: 0x0C4B [0x03] ExtData[1]->WorkLocal[0] = 6*
 606: 0x0C50 [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 607: 0x0C53 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-608: 0x0C58 [0x24] CREATE_DIALOG(message_id=10905*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+608: 0x0C58 [0x24] CREATE_DIALOG(message_id=10906*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./Lufaise Meadows./Misareaux Coast./Uleguerand Range./Attohwa Chasm./Bibiki Bay.]"
 609: 0x0C5F [0x25] WAIT_DIALOG_SELECT()
 610: 0x0C60 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C6E
@@ -2582,7 +2582,7 @@ SUBROUTINE_0CBE:
 628: 0x0CBE [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0D2D
 629: 0x0CC6 [0x03] Work_Zone[2] = 1000*
 630: 0x0CCB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-631: 0x0CD0 [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+631: 0x0CD0 [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 632: 0x0CD7 [0x25] WAIT_DIALOG_SELECT()
 633: 0x0CD8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D22
@@ -2594,7 +2594,7 @@ SUBROUTINE_0CBE:
 639: 0x0D0E [0x06] ExtData[1]->WorkLocal[19] = 0
 640: 0x0D11 [0x06] ExtData[1]->WorkLocal[20] = 0
 641: 0x0D14 [0x01] GOTO 0x0D1F
-642: 0x0D17 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+642: 0x0D17 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 643: 0x0D1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2615,7 +2615,7 @@ SUBROUTINE_0D3E:
 653: 0x0D49 [0x03] ExtData[1]->WorkLocal[0] = 7*
 654: 0x0D4E [0x1A] CALL_SUBROUTINE(address=0x2B7D)
 655: 0x0D51 [0x03] ExtData[1]->WorkLocal[22] = ExtData[1]->WorkLocal[0]
-656: 0x0D56 [0x24] CREATE_DIALOG(message_id=10906*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+656: 0x0D56 [0x24] CREATE_DIALOG(message_id=10907*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Select your destination. [Nowhere./Arrapago Reef (entrance)./Mount Zhayolm./Mamook (entrance)./Caedarva Mire./Aydeewa Subterrane (entrance).]"
 657: 0x0D5D [0x25] WAIT_DIALOG_SELECT()
 658: 0x0D5E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D6C
@@ -2641,7 +2641,7 @@ SUBROUTINE_0DBC:
 676: 0x0DBC [0x02] IF !(Work_Zone[0] <= 0*) GOTO 0x0E2B
 677: 0x0DC4 [0x03] Work_Zone[2] = 1000*
 678: 0x0DC9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
-679: 0x0DCE [0x24] CREATE_DIALOG(message_id=10908*, default_option=1*, option_flags=0*)
+679: 0x0DCE [0x24] CREATE_DIALOG(message_id=10909*, default_option=1*, option_flags=0*)
     → "Hand over $0 cruor? (Cruor: $1) [Yes./No.]"
 680: 0x0DD5 [0x25] WAIT_DIALOG_SELECT()
 681: 0x0DD6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E20
@@ -2653,7 +2653,7 @@ SUBROUTINE_0DBC:
 687: 0x0E0C [0x06] ExtData[1]->WorkLocal[19] = 0
 688: 0x0E0F [0x06] ExtData[1]->WorkLocal[20] = 0
 689: 0x0E12 [0x01] GOTO 0x0E1D
-690: 0x0E15 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10907*]:
+690: 0x0E15 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10908*]:
     → "Ah, it appears you don't have sufficient cruor."
 691: 0x0E1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2731,7 +2731,7 @@ SUBROUTINE_0F5D:
 750: 0x0F5D [0x01] GOTO 0x0F60
 
 SUBROUTINE_0F60:
-751: 0x0F60 [0x24] CREATE_DIALOG(message_id=10853*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
+751: 0x0F60 [0x24] CREATE_DIALOG(message_id=10854*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
     → "What will you do? [Nothing for now./Infused: $3 (lv.$1)/Infused: $3 (lv.$3)/Infused: $3 (lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]"
 752: 0x0F67 [0x25] WAIT_DIALOG_SELECT()
 753: 0x0F68 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F76
@@ -2742,18 +2742,18 @@ SUBROUTINE_0F60:
 758: 0x0F83 [0x0C] ExtData[1]->WorkLocal[24]--
 759: 0x0F86 [0x14] ExtData[1]->WorkLocal[24] *= 15*
 760: 0x0F8B [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[5]
-761: 0x0F90 [0x07] ExtData[1]->WorkLocal[24] += 10911*
+761: 0x0F90 [0x07] ExtData[1]->WorkLocal[24] += 10912*
 762: 0x0F95 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
 763: 0x0F9A [0x07] Work_Zone[2] += 1806*
 764: 0x0F9F [0x0C] Work_Zone[2]--
 765: 0x0FA2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
-766: 0x0FA7 [0x48] [System] [10873*]:
+766: 0x0FA7 [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 767: 0x0FAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 768: 0x0FAB [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more. You can feel your Super Kupowers begin to fade away..."
 769: 0x0FAE [0x23] WAIT_FOR_DIALOG_INTERACTION
-770: 0x0FAF [0x24] CREATE_DIALOG(message_id=10874*, default_option=0*, option_flags=0*)
+770: 0x0FAF [0x24] CREATE_DIALOG(message_id=10875*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 771: 0x0FB6 [0x25] WAIT_DIALOG_SELECT()
 772: 0x0FB7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FCA
@@ -2770,18 +2770,18 @@ SUBROUTINE_0FD5:
 781: 0x0FE5 [0x0C] ExtData[1]->WorkLocal[24]--
 782: 0x0FE8 [0x14] ExtData[1]->WorkLocal[24] *= 15*
 783: 0x0FED [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[6]
-784: 0x0FF2 [0x07] ExtData[1]->WorkLocal[24] += 10911*
+784: 0x0FF2 [0x07] ExtData[1]->WorkLocal[24] += 10912*
 785: 0x0FF7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 786: 0x0FFC [0x07] Work_Zone[2] += 1806*
 787: 0x1001 [0x0C] Work_Zone[2]--
 788: 0x1004 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
-789: 0x1009 [0x48] [System] [10873*]:
+789: 0x1009 [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 790: 0x100C [0x23] WAIT_FOR_DIALOG_INTERACTION
 791: 0x100D [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more. You can feel your Super Kupowers begin to fade away..."
 792: 0x1010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-793: 0x1011 [0x24] CREATE_DIALOG(message_id=10874*, default_option=0*, option_flags=0*)
+793: 0x1011 [0x24] CREATE_DIALOG(message_id=10875*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 794: 0x1018 [0x25] WAIT_DIALOG_SELECT()
 795: 0x1019 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x102C
@@ -2798,18 +2798,18 @@ SUBROUTINE_1037:
 804: 0x1047 [0x0C] ExtData[1]->WorkLocal[24]--
 805: 0x104A [0x14] ExtData[1]->WorkLocal[24] *= 15*
 806: 0x104F [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[7]
-807: 0x1054 [0x07] ExtData[1]->WorkLocal[24] += 10911*
+807: 0x1054 [0x07] ExtData[1]->WorkLocal[24] += 10912*
 808: 0x1059 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
 809: 0x105E [0x07] Work_Zone[2] += 1806*
 810: 0x1063 [0x0C] Work_Zone[2]--
 811: 0x1066 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-812: 0x106B [0x48] [System] [10873*]:
+812: 0x106B [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 813: 0x106E [0x23] WAIT_FOR_DIALOG_INTERACTION
 814: 0x106F [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more. You can feel your Super Kupowers begin to fade away..."
 815: 0x1072 [0x23] WAIT_FOR_DIALOG_INTERACTION
-816: 0x1073 [0x24] CREATE_DIALOG(message_id=10874*, default_option=0*, option_flags=0*)
+816: 0x1073 [0x24] CREATE_DIALOG(message_id=10875*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 817: 0x107A [0x25] WAIT_DIALOG_SELECT()
 818: 0x107B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x108E
@@ -2848,7 +2848,7 @@ SUBROUTINE_10A7:
 847: 0x110A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=2*, condition_work_offset=1*)
 848: 0x1111 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x1120
 849: 0x1119 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=3*, condition_work_offset=1*)
-850: 0x1120 [0x24] CREATE_DIALOG(message_id=10858*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+850: 0x1120 [0x24] CREATE_DIALOG(message_id=10859*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "[Infuse/Purge] which atmacite? [None for now./$3 (lv.$2)/$3 (lv.$4)/$3 (lv.$6)]"
 851: 0x1127 [0x25] WAIT_DIALOG_SELECT()
 852: 0x1128 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1136
@@ -2860,12 +2860,12 @@ SUBROUTINE_10A7:
 858: 0x1148 [0x0C] ExtData[1]->WorkLocal[24]--
 859: 0x114B [0x14] ExtData[1]->WorkLocal[24] *= 15*
 860: 0x1150 [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[5]
-861: 0x1155 [0x07] ExtData[1]->WorkLocal[24] += 10911*
+861: 0x1155 [0x07] ExtData[1]->WorkLocal[24] += 10912*
 862: 0x115A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
 863: 0x115F [0x07] Work_Zone[2] += 1806*
 864: 0x1164 [0x0C] Work_Zone[2]--
 865: 0x1167 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
-866: 0x116C [0x48] [System] [10873*]:
+866: 0x116C [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 867: 0x116F [0x23] WAIT_FOR_DIALOG_INTERACTION
 868: 0x1170 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
@@ -2880,12 +2880,12 @@ SUBROUTINE_10A7:
 876: 0x1193 [0x0C] ExtData[1]->WorkLocal[24]--
 877: 0x1196 [0x14] ExtData[1]->WorkLocal[24] *= 15*
 878: 0x119B [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[6]
-879: 0x11A0 [0x07] ExtData[1]->WorkLocal[24] += 10911*
+879: 0x11A0 [0x07] ExtData[1]->WorkLocal[24] += 10912*
 880: 0x11A5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 881: 0x11AA [0x07] Work_Zone[2] += 1806*
 882: 0x11AF [0x0C] Work_Zone[2]--
 883: 0x11B2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
-884: 0x11B7 [0x48] [System] [10873*]:
+884: 0x11B7 [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 885: 0x11BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 886: 0x11BB [0x48] [System] [ExtData[1]->WorkLocal[24]]:
@@ -2900,12 +2900,12 @@ SUBROUTINE_10A7:
 894: 0x11DE [0x0C] ExtData[1]->WorkLocal[24]--
 895: 0x11E1 [0x14] ExtData[1]->WorkLocal[24] *= 15*
 896: 0x11E6 [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[7]
-897: 0x11EB [0x07] ExtData[1]->WorkLocal[24] += 10911*
+897: 0x11EB [0x07] ExtData[1]->WorkLocal[24] += 10912*
 898: 0x11F0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
 899: 0x11F5 [0x07] Work_Zone[2] += 1806*
 900: 0x11FA [0x0C] Work_Zone[2]--
 901: 0x11FD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-902: 0x1202 [0x48] [System] [10873*]:
+902: 0x1202 [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 903: 0x1205 [0x23] WAIT_FOR_DIALOG_INTERACTION
 904: 0x1206 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
@@ -2922,7 +2922,7 @@ SUBROUTINE_1217:
 912: 0x122C [0x07] Work_Zone[2] += 1806*
 913: 0x1231 [0x0C] Work_Zone[2]--
 914: 0x1234 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-915: 0x1239 [0x24] CREATE_DIALOG(message_id=10859*, default_option=1*, option_flags=0*)
+915: 0x1239 [0x24] CREATE_DIALOG(message_id=10860*, default_option=1*, option_flags=0*)
     → "Purge $3 (lv.$1)? [Yes./No.]"
 916: 0x1240 [0x25] WAIT_DIALOG_SELECT()
 917: 0x1241 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1267
@@ -3056,7 +3056,7 @@ SUBROUTINE_133A:
 1039: 0x153E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
 1040: 0x1545 [0x02] IF !(ExtData[1]->WorkLocal[65] == ExtData[1]->WorkLocal[12]) GOTO 0x1554
 1041: 0x154D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
-1042: 0x1554 [0x24] CREATE_DIALOG(message_id=10854*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+1042: 0x1554 [0x24] CREATE_DIALOG(message_id=10855*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]"
 1043: 0x155B [0x25] WAIT_DIALOG_SELECT()
 1044: 0x155C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x157C
@@ -3183,22 +3183,22 @@ SUBROUTINE_17B3:
 1163: 0x17BB [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x1870
 1164: 0x17C3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 1165: 0x17C8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-1166: 0x17CD [0x48] [System] [10873*]:
+1166: 0x17CD [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 1167: 0x17D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1168: 0x17D1 [0x07] ExtData[1]->WorkLocal[24] += 10911*
+1168: 0x17D1 [0x07] ExtData[1]->WorkLocal[24] += 10912*
 1169: 0x17D6 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more. You can feel your Super Kupowers begin to fade away..."
 1170: 0x17D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1171: 0x17DA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 1172: 0x17DF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
 1173: 0x17E4 [0x03] Work_Zone[4] = 100*
-1174: 0x17E9 [0x48] [System] [10855*]:
+1174: 0x17E9 [0x48] [System] [10856*]:
     → "Infusing the $3 (lv.$1) requires $2 cruor."
 1175: 0x17EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1176: 0x17ED [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 1177: 0x17F2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-1178: 0x17F7 [0x24] CREATE_DIALOG(message_id=10856*, default_option=1*, option_flags=0*)
+1178: 0x17F7 [0x24] CREATE_DIALOG(message_id=10857*, default_option=1*, option_flags=0*)
     → "Infuse $3 (lv.$1)? [Yes./No.]"
 1179: 0x17FE [0x25] WAIT_DIALOG_SELECT()
 1180: 0x17FF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1853
@@ -3212,7 +3212,7 @@ SUBROUTINE_17B3:
 1188: 0x1831 [0x06] ExtData[1]->WorkLocal[19] = 0
 1189: 0x1834 [0x06] ExtData[1]->WorkLocal[20] = 0
 1190: 0x1837 [0x01] GOTO 0x1850
-1191: 0x183A [0x48] [System] [10857*]:
+1191: 0x183A [0x48] [System] [10858*]:
     → "You do not have enough cruor."
 1192: 0x183D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1193: 0x183E [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4] (bits 11*-16*)
@@ -3473,12 +3473,12 @@ SUBROUTINE_1964:
 1436: 0x1DC4 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 11*) GOTO 0x1DDE
 1437: 0x1DCB [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 12*) GOTO 0x1DDE
 1438: 0x1DD2 [0x03] ExtData[1]->WorkLocal[0] = 1*
-1439: 0x1DD7 [0x48] [System] [10864*]:
+1439: 0x1DD7 [0x48] [System] [10865*]:
     → "You do not possess any atmacite capable of enrichment."
 1440: 0x1DDA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1441: 0x1DDB [0x06] ExtData[1]->WorkLocal[20] = 0
 1442: 0x1DDE [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x219C
-1443: 0x1DE6 [0x24] CREATE_DIALOG(message_id=10865*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+1443: 0x1DE6 [0x24] CREATE_DIALOG(message_id=10866*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Enrich which atmacite? (Cruor: $$) [None for now./3 (lv.$1): $2/$3 (lv.$4): $5/$3 (lv.$7): $8/$3 (lv.$10): $11/$3 (lv.$13): $14/$3 (lv.$16): $17/$3 (lv.$19): $20/$3 (lv.$22): $23/$3 (lv.$25): $26/$3 (lv.$28): $29/$3 (lv.$31): $ /$3 (lv.$"): $#/Previous page./Next page.]"
 1444: 0x1DED [0x25] WAIT_DIALOG_SELECT()
 1445: 0x1DEE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E13
@@ -3620,15 +3620,15 @@ SUBROUTINE_2090:
 1579: 0x2098 [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x219C
 1580: 0x20A0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 1581: 0x20A5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-1582: 0x20AA [0x48] [System] [10873*]:
+1582: 0x20AA [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 1583: 0x20AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-1584: 0x20AE [0x07] ExtData[1]->WorkLocal[24] += 10911*
+1584: 0x20AE [0x07] ExtData[1]->WorkLocal[24] += 10912*
 1585: 0x20B3 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more. You can feel your Super Kupowers begin to fade away..."
 1586: 0x20B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1587: 0x20B7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
-1588: 0x20BC [0x48] [System] [10866*]:
+1588: 0x20BC [0x48] [System] [10867*]:
     → "Enriching the $3 will produce the following:"
 1589: 0x20BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1590: 0x20C0 [0x0B] ExtData[1]->WorkLocal[24]++
@@ -3643,11 +3643,11 @@ SUBROUTINE_2090:
 1598: 0x20DE [0x03] ExtData[1]->WorkLocal[79] = ExtData[1]->WorkLocal[26]
 1599: 0x20E3 [0x1A] CALL_SUBROUTINE(address=0x4015)
 1600: 0x20E6 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[0]
-1601: 0x20EB [0x48] [System] [10867*]:
+1601: 0x20EB [0x48] [System] [10868*]:
     → "Enriching the $3 from level $1 to level $2 requires $3 cruor."
 1602: 0x20EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1603: 0x20EF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
-1604: 0x20F4 [0x24] CREATE_DIALOG(message_id=10868*, default_option=1*, option_flags=0*)
+1604: 0x20F4 [0x24] CREATE_DIALOG(message_id=10869*, default_option=1*, option_flags=0*)
     → "Enrich $3? [Yes./No.]"
 1605: 0x20FB [0x25] WAIT_DIALOG_SELECT()
 1606: 0x20FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x217F
@@ -3683,46 +3683,46 @@ SUBROUTINE_21A2:
 1630: 0x21A2 [0x01] GOTO 0x0E42
 1631: 0x21A5 [0x01] GOTO 0x222B
 1632: 0x21A8 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x21FB
-1633: 0x21B0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10875*]:
+1633: 0x21B0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10876*]:
     → "Atmacite is best described as the crystalline agglomeration of a creature's soul. Our scientists have succeeded in discovering a way to tap its power to serve the efforts of the Voidwatch."
 1634: 0x21B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1635: 0x21B8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10876*]:
+1635: 0x21B8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10877*]:
     → "By infusing one's body with atmacite, it is possible to obtain powers akin to those once possessed by the creature whence it came, rather like turning a beast's fangs upon its own kind."
 1636: 0x21BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-1637: 0x21C0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10877*]:
+1637: 0x21C0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10878*]:
     → "At first glance, atmacite appears to be the perfect artificial enhancement. However, it does suffer from a single limitation: its power is unleashed only when engaged in a Voidwatch operation."
 1638: 0x21C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1639: 0x21C8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10878*]:
+1639: 0x21C8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10879*]:
     → "Research to identify the exact reason for this continues, but most scientists find the spectral alignment theory compelling."
 1640: 0x21CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-1641: 0x21D0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10879*]:
+1641: 0x21D0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10880*]:
     → "That is, being formed of Voidwalker souls, atmacite will surge to life only when its bearer is existentially aligned to its dimension of origin."
 1642: 0x21D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1643: 0x21D8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10880*]:
+1643: 0x21D8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10881*]:
     → "From this it can be inferred that Voidwalkers are stripped of considerable strength when they cross over into Vana'diel."
 1644: 0x21DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-1645: 0x21E0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10881*]:
+1645: 0x21E0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10882*]:
     → "But I suspect this is of little interest to a layman like you. Allow me to return to the subject at hand."
 1646: 0x21E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1647: 0x21E8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10882*]:
+1647: 0x21E8 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10883*]:
     → "The infusion of atmacite requires cruor, a potent energy source that takes the form of shiny red granules."
 1648: 0x21EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-1649: 0x21F0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10883*]:
+1649: 0x21F0 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10884*]:
     → "Cruor is obtainable by various means, felling a Voidwalker being the most common of all. As you can never have too much cruor, I urge you to be diligent in its procurement."
 1650: 0x21F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1651: 0x21F8 [0x01] GOTO 0x222B
 1652: 0x21FB [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x222B
-1653: 0x2203 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10884*]:
+1653: 0x2203 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10885*]:
     → "We've recently perfected a method for improving atmacite potency. The process is called enrichment, and involves fusing cruor on to atmacite to amplify its power."
 1654: 0x220A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1655: 0x220B [0x03] Work_Zone[2] = 15*
-1656: 0x2210 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10885*]:
+1656: 0x2210 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10886*]:
     → "Atmacite can be enriched in stages up to a maximum of level $0. The quantity of cruor required varies with the variety of atmacite as well as its current enrichment level."
 1657: 0x2217 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1658: 0x2218 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10886*]:
+1658: 0x2218 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10887*]:
     → "Under normal conditions, atmacite enrichment is an intensive process that demands trained hands. For reasons yet to be determined, however, both infusion and enrichment can be safely performed by laymen, provided they're at a planar rift."
 1659: 0x221F [0x23] WAIT_FOR_DIALOG_INTERACTION
-1660: 0x2220 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10887*]:
+1660: 0x2220 [0x2B] Atmacite Refiner (ID: 17789016/0x010F7058) [10888*]:
     → "Keep this in mind should the need arise to reconfigure your atmacite with haste."
 1661: 0x2227 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1662: 0x2228 [0x01] GOTO 0x222B
@@ -5860,7 +5860,7 @@ SUBROUTINE_4B55:
 3592: 0x4D59 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
 3593: 0x4D60 [0x02] IF !(ExtData[1]->WorkLocal[65] == ExtData[1]->WorkLocal[12]) GOTO 0x4D6F
 3594: 0x4D68 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
-3595: 0x4D6F [0x24] CREATE_DIALOG(message_id=10854*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+3595: 0x4D6F [0x24] CREATE_DIALOG(message_id=10855*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]"
 3596: 0x4D76 [0x25] WAIT_DIALOG_SELECT()
 3597: 0x4D77 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4D97
@@ -5987,22 +5987,22 @@ SUBROUTINE_4FCE:
 3716: 0x4FD6 [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x5094
 3717: 0x4FDE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 3718: 0x4FE3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-3719: 0x4FE8 [0x48] [System] [10873*]:
+3719: 0x4FE8 [0x48] [System] [10874*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 3720: 0x4FEB [0x23] WAIT_FOR_DIALOG_INTERACTION
-3721: 0x4FEC [0x07] ExtData[1]->WorkLocal[24] += 10911*
+3721: 0x4FEC [0x07] ExtData[1]->WorkLocal[24] += 10912*
 3722: 0x4FF1 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more. You can feel your Super Kupowers begin to fade away..."
 3723: 0x4FF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3724: 0x4FF5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 3725: 0x4FFA [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
 3726: 0x4FFF [0x03] Work_Zone[4] = 100*
-3727: 0x5004 [0x48] [System] [10855*]:
+3727: 0x5004 [0x48] [System] [10856*]:
     → "Infusing the $3 (lv.$1) requires $2 cruor."
 3728: 0x5007 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3729: 0x5008 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 3730: 0x500D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-3731: 0x5012 [0x24] CREATE_DIALOG(message_id=10856*, default_option=1*, option_flags=0*)
+3731: 0x5012 [0x24] CREATE_DIALOG(message_id=10857*, default_option=1*, option_flags=0*)
     → "Infuse $3 (lv.$1)? [Yes./No.]"
 3732: 0x5019 [0x25] WAIT_DIALOG_SELECT()
 3733: 0x501A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5077
@@ -6017,7 +6017,7 @@ SUBROUTINE_4FCE:
 3742: 0x5055 [0x06] ExtData[1]->WorkLocal[19] = 0
 3743: 0x5058 [0x06] ExtData[1]->WorkLocal[20] = 0
 3744: 0x505B [0x01] GOTO 0x5074
-3745: 0x505E [0x48] [System] [10857*]:
+3745: 0x505E [0x48] [System] [10858*]:
     → "You do not have enough cruor."
 3746: 0x5061 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3747: 0x5062 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4] (bits 11*-16*)

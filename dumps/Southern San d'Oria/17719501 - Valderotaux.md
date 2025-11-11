@@ -53,15 +53,15 @@
 |      13 | 0x0000      |           0 |
 |      14 | 0x0082      |         130 |
 |      15 | 0x00C9      |         201 |
-|      16 | 0x3487      |       13447 |
+|      16 | 0x348A      |       13450 |
 |      17 | 0x0001      |           1 |
-|      18 | 0x2ECA      |       11978 |
+|      18 | 0x2ECD      |       11981 |
 |      19 | 0x0002      |           2 |
-|      20 | 0x2EF2      |       12018 |
-|      21 | 0x2EF3      |       12019 |
-|      22 | 0x2EF4      |       12020 |
-|      23 | 0x2F01      |       12033 |
-|      24 | 0x2F02      |       12034 |
+|      20 | 0x2EF5      |       12021 |
+|      21 | 0x2EF6      |       12022 |
+|      22 | 0x2EF7      |       12023 |
+|      23 | 0x2F04      |       12036 |
+|      24 | 0x2F05      |       12037 |
 
 ## String References
 
@@ -73,13 +73,13 @@
 - **9128**: But what could he mean by a "small dark tight place"? You'd best ask the other patrons or members of your own party for their insight.
 - **9129**: Yes, perhaps his corpse was interred in the Garlaige Citadel. What a cruel thing to do!
 - **9130**: All's well that ends well, as they say. I've had a ball hearing all about it! Please, stop by if you're ever in the neighborhood.
-- **11978**: Ask if this person is the chick's owner? [Yes./No.]
-- **12018**: Eh? You have my chocobo, do you?
-- **12019**: Well done! He must have been difficult to please when it comes to feeding. Sorry about that. That little bird just loves Lion Springs' cooking.
-- **12020**: You are raising a chocobo too, am I correct? Let me teach you a story I often tell my chocobo...
-- **12033**: Eh? You say you have my chocobo?
-- **12034**: That little bird loves the cooking here. He would never leave this place, not for anything. You must be mistaken.
-- **13447**: Your dancing style was...quite unique...
+- **11981**: Ask if this person is the chick's owner? [Yes./No.]
+- **12021**: Eh? You have my chocobo, do you?
+- **12022**: Well done! He must have been difficult to please when it comes to feeding. Sorry about that. That little bird just loves Lion Springs' cooking.
+- **12023**: You are raising a chocobo too, am I correct? Let me teach you a story I often tell my chocobo...
+- **12036**: Eh? You say you have my chocobo?
+- **12037**: That little bird loves the cooking here. He would never leave this place, not for anything. You must be mistaken.
+- **13450**: Your dancing style was...quite unique...
 
 ## Events
 
@@ -600,7 +600,7 @@
 ```
   0: 0x014A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x014F [0x1C] WAIT(30* ticks)
-  2: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
+  2: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13450*)
     → "Your dancing style was...quite unique..."
   3: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0156 [0x21] END_EVENT
@@ -618,7 +618,7 @@
      0x0169 [0x03] Work_Zone[1] = 0*
      0x016E [0x01] GOTO 0x01EA
      0x0171 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0172 [0x24] CREATE_DIALOG(message_id=11978*, default_option=1*, option_flags=0*)
+     0x0172 [0x24] CREATE_DIALOG(message_id=11981*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0179 [0x25] WAIT_DIALOG_SELECT()
      0x017A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01DA
@@ -626,23 +626,23 @@
      0x0187 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0189 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x018B [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x01C0
-     0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=12018*)
+     0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
     → "Eh? You have my chocobo, do you?"
      0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0197 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-     0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12019*)
+     0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "Well done! He must have been difficult to please when it comes to feeding. Sorry about that. That little bird just loves Lion Springs' cooking."
      0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01AA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
-     0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12020*)
+     0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12023*)
     → "You are raising a chocobo too, am I correct? Let me teach you a story I often tell my chocobo..."
      0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01BD [0x01] GOTO 0x01D7
-     0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
+     0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
     → "Eh? You say you have my chocobo?"
      0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01C4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-     0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
+     0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
     → "That little bird loves the cooking here. He would never leave this place, not for anything. You must be mistaken."
      0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01D7 [0x01] GOTO 0x01EA

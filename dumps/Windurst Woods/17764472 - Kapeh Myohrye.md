@@ -88,15 +88,15 @@
 |      35 | 0x0180      |         384 |
 |      36 | 0x0001      |           1 |
 |      37 | 0x0000      |           0 |
-|      38 | 0x2E60      |       11872 |
+|      38 | 0x2E63      |       11875 |
 |      39 | 0x001E      |          30 |
 |      40 | 0x0002      |           2 |
-|      41 | 0x2E76      |       11894 |
+|      41 | 0x2E79      |       11897 |
 |      42 | 0x0032      |          50 |
-|      43 | 0x2E77      |       11895 |
-|      44 | 0x2E78      |       11896 |
-|      45 | 0x2E8D      |       11917 |
-|      46 | 0x2E8E      |       11918 |
+|      43 | 0x2E7A      |       11898 |
+|      44 | 0x2E7B      |       11899 |
+|      45 | 0x2E90      |       11920 |
+|      46 | 0x2E91      |       11921 |
 |      47 | 0x0034      |          52 |
 |      48 | 0x003C      |          60 |
 
@@ -131,12 +131,12 @@
 - **9684**: As soon as the enemy makes its move, we'll go straight for the thrrroat. I can almost see the panicked faces of those Yagudo wrrretches.
 - **9721**: After the Great War, the Star Sibyl kept the truth of events from Chieftainness Perih Vashai.
 - **9722**: Considering the nature of Tarutaru, this is not altogether an unusual occurrence. But considering how we fought and died beside them for this land, I can't help but feel betrrrayed.
-- **11872**: Ask if this person is the chick's owner? [Yes./No.]
-- **11894**: You've got my chocobo?
-- **11895**: I've taught the little guy beforehand what to do if he meets up with a monster, so I was prrretty sure he'd be okay, but I was still a little worried.
-- **11896**: Thanks for finding him. Let me thank you by teaching you a story your chocobo might like...
-- **11917**: You say you've got my chocobo?
-- **11918**: A rrranger like me would never lose sight of her chocobo!
+- **11875**: Ask if this person is the chick's owner? [Yes./No.]
+- **11897**: You've got my chocobo?
+- **11898**: I've taught the little guy beforehand what to do if he meets up with a monster, so I was prrretty sure he'd be okay, but I was still a little worried.
+- **11899**: Thanks for finding him. Let me thank you by teaching you a story your chocobo might like...
+- **11920**: You say you've got my chocobo?
+- **11921**: A rrranger like me would never lose sight of her chocobo!
 
 ## Events
 
@@ -1015,7 +1015,7 @@
      0x0173 [0x03] Work_Zone[1] = 0*
      0x0178 [0x01] GOTO 0x01F4
      0x017B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x017C [0x24] CREATE_DIALOG(message_id=11872*, default_option=1*, option_flags=0*)
+     0x017C [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0183 [0x25] WAIT_DIALOG_SELECT()
      0x0184 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E4
@@ -1025,23 +1025,23 @@
      0x0199 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x019B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x019D [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x01D2
-     0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11894*)
+     0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11897*)
     → "You've got my chocobo?"
      0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-     0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11895*)
+     0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11898*)
     → "I've taught the little guy beforehand what to do if he meets up with a monster, so I was prrretty sure he'd be okay, but I was still a little worried."
      0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
-     0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11896*)
+     0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11899*)
     → "Thanks for finding him. Let me thank you by teaching you a story your chocobo might like..."
      0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01CF [0x01] GOTO 0x01E1
-     0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11917*)
+     0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
     → "You say you've got my chocobo?"
      0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01D6 [0x27] REQ_SET(priority=0x05, entity_id=Kapeh Myohrye (ID: 17764472/0x010F1078), tag_num=0x1E)
-     0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11918*)
+     0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11921*)
     → "A rrranger like me would never lose sight of her chocobo!"
      0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01E1 [0x01] GOTO 0x01F4

@@ -22,32 +22,32 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0002      |           2 |
-|       2 | 0x3416      |       13334 |
-|       3 | 0x3417      |       13335 |
-|       4 | 0x3418      |       13336 |
-|       5 | 0x340F      |       13327 |
-|       6 | 0x340C      |       13324 |
-|       7 | 0x340D      |       13325 |
-|       8 | 0x340E      |       13326 |
+|       2 | 0x3417      |       13335 |
+|       3 | 0x3418      |       13336 |
+|       4 | 0x3419      |       13337 |
+|       5 | 0x3410      |       13328 |
+|       6 | 0x340D      |       13325 |
+|       7 | 0x340E      |       13326 |
+|       8 | 0x340F      |       13327 |
 |       9 | 0x0000      |           0 |
 |      10 | 0x0007      |           7 |
 |      11 | 0x0008      |           8 |
 |      12 | 0x000F      |          15 |
-|      13 | 0x3410      |       13328 |
+|      13 | 0x3411      |       13329 |
 |      14 | 0x40000000  |  1073741824 |
 |      15 | 0x0003      |           3 |
-|      16 | 0x3419      |       13337 |
-|      17 | 0x341A      |       13338 |
-|      18 | 0x341C      |       13340 |
-|      19 | 0x341B      |       13339 |
+|      16 | 0x341A      |       13338 |
+|      17 | 0x341B      |       13339 |
+|      18 | 0x341D      |       13341 |
+|      19 | 0x341C      |       13340 |
 |      20 | 0x0018      |          24 |
 |      21 | 0x001F      |          31 |
-|      22 | 0x3411      |       13329 |
+|      22 | 0x3412      |       13330 |
 |      23 | 0x0011      |          17 |
 |      24 | 0x0012      |          18 |
 |      25 | 0x0010      |          16 |
-|      26 | 0x3412      |       13330 |
-|      27 | 0x3414      |       13332 |
+|      26 | 0x3413      |       13331 |
+|      27 | 0x3415      |       13333 |
 |      28 | 0x0028      |          40 |
 |      29 | 0x001A      |          26 |
 |      30 | 0xFFFFFFFF  |  4294967295 |
@@ -83,21 +83,21 @@
 
 ## String References
 
-- **13324**: <Glare>... There is no denying your skill and experience. I deem you worthy.
-- **13325**: The adversaries that once vexed you and your companions are now but specks of settled dust on your trail of conquest. However, I can make them worth battling once more.
-- **13326**: <Glare>... In exchange, I require a vessel containing your memories and something you adventurers refer to as "merit points."
-- **13327**: Life is finite and fleeting. How will you spend the rest of what remains to you?
-- **13328**: What will you do? [Let time pass by idly./Exchange merit points./View accomplishments 1./View accomplishments 2.]
-- **13329**: Exchange for what? ($0 point[/s]) [Nothing./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
-- **13330**: Truly relinquish $0 merit point[/s]? [Yes./No.]
-- **13332**: <Glare>... If all you covet is peace, then I have nothing further to discuss with you.
-- **13334**: Make for the territory to which your phantom gem belongs.
-- **13335**: It is there that your desires shall be fulfilled.
-- **13336**: Be not so cavalier to think that your success is assured, however. Those with no heart show no mercy. Challenge them without just resolve, and your bout will surely end in failure.
-- **13337**: Contained within are the annals of your encounters with the world's most vicious foes.
-- **13338**: Current accomplishments: [My business here is finished./$26Ark Angel 1. ([Unfinished/Conquered/Honors])/$26Ark Angel 2. ([Unfinished/Conquered/Honors])/$26Ark Angel 3. ([Unfinished/Conquered/Honors])/$26Ark Angel 4. ([Unfinished/Conquered/Honors])/$26Ark Angel 5. ([Unfinished/Conquered/Honors])/$26Divine Might. ([Unfinished/Conquered/Honors])/$26R. to Delkfutt's Tower. ([Unfinished/Conquered/Honors])/$26Celestial Nexus. ([Unfinished/Conquered/Honors])/$26The Savage. ([Unfinished/Conquered/Honors])/$26The Warrior's Path. ([Unfinished/Conquered/Honors])/$26Puppet in Peril. ([Unfinished/Conquered/Honors])/$26Legacy of the Lost. ([Unfinished/Conquered/Honors])/$26The Shadow Lord Battle. ([Unfinished/Conquered/Honors])/$26Head Wind. ([Unfinished/Conquered/Honors])/$26Trial by Fire. ([Unfinished/Conquered/Honors])/$26Trial by Ice. ([Unfinished/Conquered/Honors])/$26Trial by Wind. ([Unfinished/Conquered/Honors])/$26Trial by Earth. ([Unfinished/Conquered/Honors])/$26Trial by Lightning. ([Unfinished/Conquered/Honors])/$26Trial by Water. ([Unfinished/Conquered/Honors])/$26The Moonlit Path. ([Unfinished/Conquered/Honors])/$26Waking the Beast. ([Unfinished/Conquered/Honors])/$26Waking Dreams. ([Unfinished/Conquered/Honors])/$26One to Be Feared. ([Unfinished/Conquered/Honors])/$26Dawn. ([Unfinished/Conquered/Honors])]
-- **13339**: Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])]
-- **13340**: Hmph. It seems you [are hardly fit to be disemboweled by these fiends, so superior are they to you/can hold your own against these colossi of combat/have transcended even these ferocities and reign over all with an iron fist].
+- **13325**: <Glare>... There is no denying your skill and experience. I deem you worthy.
+- **13326**: The adversaries that once vexed you and your companions are now but specks of settled dust on your trail of conquest. However, I can make them worth battling once more.
+- **13327**: <Glare>... In exchange, I require a vessel containing your memories and something you adventurers refer to as "merit points."
+- **13328**: Life is finite and fleeting. How will you spend the rest of what remains to you?
+- **13329**: What will you do? [Let time pass by idly./Exchange merit points./View accomplishments 1./View accomplishments 2.]
+- **13330**: Exchange for what? ($0 point[/s]) [Nothing./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
+- **13331**: Truly relinquish $0 merit point[/s]? [Yes./No.]
+- **13333**: <Glare>... If all you covet is peace, then I have nothing further to discuss with you.
+- **13335**: Make for the territory to which your phantom gem belongs.
+- **13336**: It is there that your desires shall be fulfilled.
+- **13337**: Be not so cavalier to think that your success is assured, however. Those with no heart show no mercy. Challenge them without just resolve, and your bout will surely end in failure.
+- **13338**: Contained within are the annals of your encounters with the world's most vicious foes.
+- **13339**: Current accomplishments: [My business here is finished./$26Ark Angel 1. ([Unfinished/Conquered/Honors])/$26Ark Angel 2. ([Unfinished/Conquered/Honors])/$26Ark Angel 3. ([Unfinished/Conquered/Honors])/$26Ark Angel 4. ([Unfinished/Conquered/Honors])/$26Ark Angel 5. ([Unfinished/Conquered/Honors])/$26Divine Might. ([Unfinished/Conquered/Honors])/$26R. to Delkfutt's Tower. ([Unfinished/Conquered/Honors])/$26Celestial Nexus. ([Unfinished/Conquered/Honors])/$26The Savage. ([Unfinished/Conquered/Honors])/$26The Warrior's Path. ([Unfinished/Conquered/Honors])/$26Puppet in Peril. ([Unfinished/Conquered/Honors])/$26Legacy of the Lost. ([Unfinished/Conquered/Honors])/$26The Shadow Lord Battle. ([Unfinished/Conquered/Honors])/$26Head Wind. ([Unfinished/Conquered/Honors])/$26Trial by Fire. ([Unfinished/Conquered/Honors])/$26Trial by Ice. ([Unfinished/Conquered/Honors])/$26Trial by Wind. ([Unfinished/Conquered/Honors])/$26Trial by Earth. ([Unfinished/Conquered/Honors])/$26Trial by Lightning. ([Unfinished/Conquered/Honors])/$26Trial by Water. ([Unfinished/Conquered/Honors])/$26The Moonlit Path. ([Unfinished/Conquered/Honors])/$26Waking the Beast. ([Unfinished/Conquered/Honors])/$26Waking Dreams. ([Unfinished/Conquered/Honors])/$26One to Be Feared. ([Unfinished/Conquered/Honors])/$26Dawn. ([Unfinished/Conquered/Honors])]
+- **13340**: Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])]
+- **13341**: Hmph. It seems you [are hardly fit to be disemboweled by these fiends, so superior are they to you/can hold your own against these colossi of combat/have transcended even these ferocities and reign over all with an iron fist].
 
 ## Events
 
@@ -230,29 +230,29 @@
   9: 0x0026 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[6]
  10: 0x002B [0x3E] IF !(ExtData[1]->WorkLocal[6] bit 1*) GOTO 0x004F
  11: 0x0032 [0x3E] IF !(ExtData[1]->WorkLocal[6] bit 2*) GOTO 0x0048
- 12: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=13334*)
+ 12: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=13335*)
     → "Make for the territory to which your phantom gem belongs."
  13: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=13335*)
+ 14: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=13336*)
     → "It is there that your desires shall be fulfilled."
  15: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=13336*)
+ 16: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=13337*)
     → "Be not so cavalier to think that your success is assured, however. Those with no heart show no mercy. Challenge them without just resolve, and your bout will surely end in failure."
  17: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0045 [0x01] GOTO 0x004C
- 19: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=13327*)
+ 19: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=13328*)
     → "Life is finite and fleeting. How will you spend the rest of what remains to you?"
  20: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_004C:
  21: 0x004C [0x01] GOTO 0x0074
- 22: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=13324*)
+ 22: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=13325*)
     → "<Glare>... There is no denying your skill and experience. I deem you worthy."
  23: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=13325*)
+ 24: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=13326*)
     → "The adversaries that once vexed you and your companions are now but specks of settled dust on your trail of conquest. However, I can make them worth battling once more."
  25: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=13326*)
+ 26: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=13327*)
     → "<Glare>... In exchange, I require a vessel containing your memories and something you adventurers refer to as "merit points.""
  27: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x005B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -270,7 +270,7 @@ SUBROUTINE_0074:
 
 SUBROUTINE_0091:
  38: 0x0091 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00EB
- 39: 0x0099 [0x24] CREATE_DIALOG(message_id=13328*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 39: 0x0099 [0x24] CREATE_DIALOG(message_id=13329*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What will you do? [Let time pass by idly./Exchange merit points./View accomplishments 1./View accomplishments 2.]"
  40: 0x00A0 [0x25] WAIT_DIALOG_SELECT()
  41: 0x00A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B4
@@ -299,12 +299,12 @@ SUBROUTINE_00EB:
 SUBROUTINE_00F0:
  59: 0x00F0 [0x06] ExtData[1]->WorkLocal[2] = 0
  60: 0x00F3 [0x06] ExtData[1]->WorkLocal[5] = 0
- 61: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13337*)
+ 61: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13338*)
     → "Contained within are the annals of your encounters with the world's most vicious foes."
  62: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x00FA [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0141
  64: 0x0102 [0x1A] CALL_SUBROUTINE(address=0x0196)
- 65: 0x0105 [0x24] CREATE_DIALOG(message_id=13338*, default_option=ExtData[1]->WorkLocal[5], option_flags=0*)
+ 65: 0x0105 [0x24] CREATE_DIALOG(message_id=13339*, default_option=ExtData[1]->WorkLocal[5], option_flags=0*)
     → "Current accomplishments: [My business here is finished./$26Ark Angel 1. ([Unfinished/Conquered/Honors])/$26Ark Angel 2. ([Unfinished/Conquered/Honors])/$26Ark Angel 3. ([Unfinished/Conquered/Honors])/$26Ark Angel 4. ([Unfinished/Conquered/Honors])/$26Ark Angel 5. ([Unfinished/Conquered/Honors])/$26Divine Might. ([Unfinished/Conquered/Honors])/$26R. to Delkfutt's Tower. ([Unfinished/Conquered/Honors])/$26Celestial Nexus. ([Unfinished/Conquered/Honors])/$26The Savage. ([Unfinished/Conquered/Honors])/$26The Warrior's Path. ([Unfinished/Conquered/Honors])/$26Puppet in Peril. ([Unfinished/Conquered/Honors])/$26Legacy of the Lost. ([Unfinished/Conquered/Honors])/$26The Shadow Lord Battle. ([Unfinished/Conquered/Honors])/$26Head Wind. ([Unfinished/Conquered/Honors])/$26Trial by Fire. ([Unfinished/Conquered/Honors])/$26Trial by Ice. ([Unfinished/Conquered/Honors])/$26Trial by Wind. ([Unfinished/Conquered/Honors])/$26Trial by Earth. ([Unfinished/Conquered/Honors])/$26Trial by Lightning. ([Unfinished/Conquered/Honors])/$26Trial by Water. ([Unfinished/Conquered/Honors])/$26The Moonlit Path. ([Unfinished/Conquered/Honors])/$26Waking the Beast. ([Unfinished/Conquered/Honors])/$26Waking Dreams. ([Unfinished/Conquered/Honors])/$26One to Be Feared. ([Unfinished/Conquered/Honors])/$26Dawn. ([Unfinished/Conquered/Honors])]"
  66: 0x010C [0x25] WAIT_DIALOG_SELECT()
  67: 0x010D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011B
@@ -318,7 +318,7 @@ SUBROUTINE_011B:
  73: 0x012D [0x0C] ExtData[1]->WorkLocal[13]--
  74: 0x0130 [0x9D] ExtData[1]->WorkLocal[11] = 0x03FA[ExtData[1]->WorkLocal[13]] // Read WORD
  75: 0x0138 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
- 76: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=13340*)
+ 76: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=13341*)
     → "Hmph. It seems you [are hardly fit to be disemboweled by these fiends, so superior are they to you/can hold your own against these colossi of combat/have transcended even these ferocities and reign over all with an iron fist]."
  77: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0141 [0x1B] RETURN
@@ -326,12 +326,12 @@ SUBROUTINE_011B:
 SUBROUTINE_0142:
  79: 0x0142 [0x06] ExtData[1]->WorkLocal[2] = 0
  80: 0x0145 [0x06] ExtData[1]->WorkLocal[5] = 0
- 81: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=13337*)
+ 81: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=13338*)
     → "Contained within are the annals of your encounters with the world's most vicious foes."
  82: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x014C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0195
  84: 0x0154 [0x1A] CALL_SUBROUTINE(address=0x0196)
- 85: 0x0157 [0x24] CREATE_DIALOG(message_id=13339*, default_option=ExtData[1]->WorkLocal[5], option_flags=0*)
+ 85: 0x0157 [0x24] CREATE_DIALOG(message_id=13340*, default_option=ExtData[1]->WorkLocal[5], option_flags=0*)
     → "Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])]"
  86: 0x015E [0x25] WAIT_DIALOG_SELECT()
  87: 0x015F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016D
@@ -345,7 +345,7 @@ SUBROUTINE_016D:
  93: 0x017F [0x07] ExtData[1]->WorkLocal[13] += 24*
  94: 0x0184 [0x9D] ExtData[1]->WorkLocal[11] = 0x03FA[ExtData[1]->WorkLocal[13]] // Read WORD
  95: 0x018C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
- 96: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=13340*)
+ 96: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=13341*)
     → "Hmph. It seems you [are hardly fit to be disemboweled by these fiends, so superior are they to you/can hold your own against these colossi of combat/have transcended even these ferocities and reign over all with an iron fist]."
  97: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0195 [0x1B] RETURN
@@ -382,7 +382,7 @@ SUBROUTINE_01E3:
 117: 0x01EB [0x1A] CALL_SUBROUTINE(address=0x0301)
 118: 0x01EE [0x1A] CALL_SUBROUTINE(address=0x03A2)
 119: 0x01F1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
-120: 0x01F6 [0x24] CREATE_DIALOG(message_id=13329*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[3])
+120: 0x01F6 [0x24] CREATE_DIALOG(message_id=13330*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[3])
     → "Exchange for what? ($0 point[/s]) [Nothing./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
 121: 0x01FD [0x25] WAIT_DIALOG_SELECT()
 122: 0x01FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x020C
@@ -417,7 +417,7 @@ SUBROUTINE_026B:
 
 SUBROUTINE_027B:
 147: 0x027B [0x9D] Work_Zone[2] = 0x048A[ExtData[1]->WorkLocal[13]] // Read WORD
-148: 0x0283 [0x24] CREATE_DIALOG(message_id=13330*, default_option=1*, option_flags=0*)
+148: 0x0283 [0x24] CREATE_DIALOG(message_id=13331*, default_option=1*, option_flags=0*)
     → "Truly relinquish $0 merit point[/s]? [Yes./No.]"
 149: 0x028A [0x25] WAIT_DIALOG_SELECT()
 150: 0x028B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02AE
@@ -427,7 +427,7 @@ SUBROUTINE_027B:
 154: 0x02A2 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[13])
 155: 0x02AB [0x01] GOTO 0x02BD
 156: 0x02AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02BD
-157: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13332*)
+157: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13333*)
     → "<Glare>... If all you covet is peace, then I have nothing further to discuss with you."
 158: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x02BA [0x01] GOTO 0x02BD

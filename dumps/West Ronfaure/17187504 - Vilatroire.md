@@ -33,20 +33,20 @@
 |       2 | 0x0413      |        1043 |
 |       3 | 0x00EF      |         239 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x1F6C      |        8044 |
+|       5 | 0x1F6D      |        8045 |
 |       6 | 0x001D      |          29 |
-|       7 | 0x1F6D      |        8045 |
-|       8 | 0x1F6E      |        8046 |
+|       7 | 0x1F6E      |        8046 |
+|       8 | 0x1F6F      |        8047 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1F6F      |        8047 |
+|      10 | 0x1F70      |        8048 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x1F70      |        8048 |
-|      13 | 0x1F71      |        8049 |
-|      14 | 0x1F72      |        8050 |
-|      15 | 0x1F73      |        8051 |
-|      16 | 0x1F74      |        8052 |
-|      17 | 0x1F75      |        8053 |
-|      18 | 0x1F76      |        8054 |
+|      12 | 0x1F71      |        8049 |
+|      13 | 0x1F72      |        8050 |
+|      14 | 0x1F73      |        8051 |
+|      15 | 0x1F74      |        8052 |
+|      16 | 0x1F75      |        8053 |
+|      17 | 0x1F76      |        8054 |
+|      18 | 0x1F77      |        8055 |
 |      19 | 0x1D63      |        7523 |
 |      20 | 0x1D47      |        7495 |
 |      21 | 0x1D48      |        7496 |
@@ -104,17 +104,17 @@
 
 - **7501**: Try forming a party? [Let's give it a go!/Not now, thanks.]
 - **7520**: Where are your party members? [Present and accounted for./They're not here yet.]
-- **8044**: Another quiet day on the western fron-- Ah, I wondered when you would arrive! Monarlais Halver has entrusted me with your evaluation.
-- **8045**: When it comes to party structure, I am considered quite the expert. Now, where to start...
-- **8046**: Hmmm... It would appear that you avoid joining parties for the most part. Not a policy I approve of personally, but I suppose there is some satisfaction to be found in adventuring alone. No need to divide the spoils of battle, eh?
-- **8047**: It would appear you join your fair share of parties. But just remember--the more parties you join, the more unique experiences you can encounter.
-- **8048**: Well I must say, this is extraordinary! I never thought it was possible for one person to join so many parties! I must be careful lest you steal my position of party structure expert!
-- **8049**: Now, on to our next point. You seem to have had few opportunities to join an alliance. I must admit to having little experience in this area myself. No other group of knights seems willing to ally with my unit...
-- **8050**: Next, we come to the number of alliances joined. A respectable figure. You appear to have learned the lesson of strength in numbers.
-- **8051**: Next, we come to the number of alliances joined... Incredible! Are you by chance some great leader of adventurers come to lecture my unit in the ways of perfect party proportions?
-- **8052**: Lastly, we come to the subject of your current party. My advice would be to take advantage of the Adventurer Appreciation campaign to enjoy the diversity of a less familiar group.
-- **8053**: Lastly, we come to the subject of your current party. I can sense a different type of unity than can be found in the party structures I usually recommend. You have found strength in diversity.
-- **8054**: Your evaluation will be forwarded to the moogles. Do not forget to visit the other nations to complete your evaluation. Farewell!
+- **8045**: Another quiet day on the western fron-- Ah, I wondered when you would arrive! Monarlais Halver has entrusted me with your evaluation.
+- **8046**: When it comes to party structure, I am considered quite the expert. Now, where to start...
+- **8047**: Hmmm... It would appear that you avoid joining parties for the most part. Not a policy I approve of personally, but I suppose there is some satisfaction to be found in adventuring alone. No need to divide the spoils of battle, eh?
+- **8048**: It would appear you join your fair share of parties. But just remember--the more parties you join, the more unique experiences you can encounter.
+- **8049**: Well I must say, this is extraordinary! I never thought it was possible for one person to join so many parties! I must be careful lest you steal my position of party structure expert!
+- **8050**: Now, on to our next point. You seem to have had few opportunities to join an alliance. I must admit to having little experience in this area myself. No other group of knights seems willing to ally with my unit...
+- **8051**: Next, we come to the number of alliances joined. A respectable figure. You appear to have learned the lesson of strength in numbers.
+- **8052**: Next, we come to the number of alliances joined... Incredible! Are you by chance some great leader of adventurers come to lecture my unit in the ways of perfect party proportions?
+- **8053**: Lastly, we come to the subject of your current party. My advice would be to take advantage of the Adventurer Appreciation campaign to enjoy the diversity of a less familiar group.
+- **8054**: Lastly, we come to the subject of your current party. I can sense a different type of unity than can be found in the party structures I usually recommend. You have found strength in diversity.
+- **8055**: Your evaluation will be forwarded to the moogles. Do not forget to visit the other nations to complete your evaluation. Farewell!
 
 ## Events
 
@@ -202,13 +202,13 @@
  11: 0x005B [0x27] REQ_SET(priority=0x0A, entity_id=Unknown NPC (ID: 2147483637/0x7FFFFFF5), tag_num=0x02)
  12: 0x0062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0073 [0x1C] WAIT(30* ticks)
- 14: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
+ 14: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
     → "Another quiet day on the western fron-- Ah, I wondered when you would arrive! Monarlais Halver has entrusted me with your evaluation."
  15: 0x0079 [0x1E] EventEntity looks at LocalPlayer and starts talking
  16: 0x007E [0x7B] EventEntity stops talking
  17: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Vilatroire (ID: 17187504/0x010642B0), Vilatroire (ID: 17187504/0x010642B0)], work=29*
- 19: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
+ 19: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8046*)
     → "When it comes to party structure, I am considered quite the expert. Now, where to start..."
  20: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0097 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=239*
@@ -219,17 +219,17 @@
  26: 0x00C9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unknown NPC (ID: 2147483636/0x7FFFFFF4)
  27: 0x00CF [0x4E] SET_ENTITY_HIDE_FLAG: Show Unknown NPC (ID: 2147483637/0x7FFFFFF5)
  28: 0x00D5 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00E4
- 29: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8046*)
+ 29: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
     → "Hmmm... It would appear that you avoid joining parties for the most part. Not a policy I approve of personally, but I suppose there is some satisfaction to be found in adventuring alone. No need to divide the spoils of battle, eh?"
  30: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00E1 [0x01] GOTO 0x0102
  32: 0x00E4 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00F3
- 33: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
+ 33: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
     → "It would appear you join your fair share of parties. But just remember--the more parties you join, the more unique experiences you can encounter."
  34: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00F0 [0x01] GOTO 0x0102
  36: 0x00F3 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0102
- 37: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
+ 37: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
     → "Well I must say, this is extraordinary! I never thought it was possible for one person to join so many parties! I must be careful lest you steal my position of party structure expert!"
  38: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00FF [0x01] GOTO 0x0102
@@ -237,17 +237,17 @@
 SUBROUTINE_0102:
  40: 0x0102 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Vilatroire (ID: 17187504/0x010642B0), Vilatroire (ID: 17187504/0x010642B0)], work=29*
  41: 0x0111 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0120
- 42: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
+ 42: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
     → "Now, on to our next point. You seem to have had few opportunities to join an alliance. I must admit to having little experience in this area myself. No other group of knights seems willing to ally with my unit..."
  43: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x011D [0x01] GOTO 0x013E
  45: 0x0120 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x012F
- 46: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
+ 46: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
     → "Next, we come to the number of alliances joined. A respectable figure. You appear to have learned the lesson of strength in numbers."
  47: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x012C [0x01] GOTO 0x013E
  49: 0x012F [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x013E
- 50: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
+ 50: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
     → "Next, we come to the number of alliances joined... Incredible! Are you by chance some great leader of adventurers come to lecture my unit in the ways of perfect party proportions?"
  51: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x013B [0x01] GOTO 0x013E
@@ -257,17 +257,17 @@ SUBROUTINE_013E:
  54: 0x014D [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=239*
  55: 0x015C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[239*, 0*]
  56: 0x016D [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x017C
- 57: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
+ 57: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
     → "Lastly, we come to the subject of your current party. My advice would be to take advantage of the Adventurer Appreciation campaign to enjoy the diversity of a less familiar group."
  58: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0179 [0x01] GOTO 0x0180
- 60: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
+ 60: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8054*)
     → "Lastly, we come to the subject of your current party. I can sense a different type of unity than can be found in the party structures I usually recommend. You have found strength in diversity."
  61: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0180:
  62: 0x0180 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Vilatroire (ID: 17187504/0x010642B0), Vilatroire (ID: 17187504/0x010642B0)], work=29*
- 63: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=8054*)
+ 63: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=8055*)
     → "Your evaluation will be forwarded to the moogles. Do not forget to visit the other nations to complete your evaluation. Farewell!"
  64: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0193 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

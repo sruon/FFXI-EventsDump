@@ -36,21 +36,21 @@
 |      10 | 0x0010      |          16 |
 |      11 | 0x005A      |          90 |
 |      12 | 0x02FA      |         762 |
-|      13 | 0x4925      |       18725 |
+|      13 | 0x4928      |       18728 |
 |      14 | 0x8F1E      |       36638 |
 |      15 | 0xFFFFF731  |  4294965041 |
 |      16 | 0xFFFFF830  |  4294965296 |
 |      17 | 0x0BE9      |        3049 |
-|      18 | 0x4933      |       18739 |
+|      18 | 0x4936      |       18742 |
 |      19 | 0x0078      |         120 |
 |      20 | 0x000F      |          15 |
 |      21 | 0x0063      |          99 |
-|      22 | 0x4926      |       18726 |
+|      22 | 0x4929      |       18729 |
 |      23 | 0x021A      |         538 |
-|      24 | 0x4927      |       18727 |
-|      25 | 0x4928      |       18728 |
-|      26 | 0x4929      |       18729 |
-|      27 | 0x492A      |       18730 |
+|      24 | 0x492A      |       18730 |
+|      25 | 0x492B      |       18731 |
+|      26 | 0x492C      |       18732 |
+|      27 | 0x492D      |       18733 |
 |      28 | 0x0007      |           7 |
 |      29 | 0xFFFF36CB  |  4294915787 |
 |      30 | 0x8CEB      |       36075 |
@@ -65,7 +65,7 @@
 - **11458**: A San d'Orian, are you? This is the Consulate of Windurst. We provide all sorts of aid to our countrymen here.
 - **11459**: A Bastoker, are you? This is the Consulate of Windurst. If you're looking for your consulate, it's out the door and across the way.
 - **11461**: You've come on orders from the homeland, have you? You should speak with Consul Kasaroro.
-- **18739**: @@
+- **18742**: @@
 
 ## Events
 
@@ -290,7 +290,7 @@ SUBROUTINE_03CC:
  88: 0x03F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [EventEntity, EventEntity], work=[762*, 0*]
  89: 0x0408 [0x4A] Lion (ID: 17723463/0x010E7047) looks at LocalPlayer
  90: 0x0411 [0x1C] WAIT(30* ticks)
- 91: 0x0414 [0x2B] Lion (ID: 17723463/0x010E7047) [18725*]:
+ 91: 0x0414 [0x2B] Lion (ID: 17723463/0x010E7047) [18728*]:
     → "There's something else?"
  92: 0x041B [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x041C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -301,32 +301,32 @@ SUBROUTINE_03CC:
  98: 0x045D [0x4A] LocalPlayer looks at Lion (ID: 17723463/0x010E7047)
  99: 0x0466 [0x4A] Lion (ID: 17723463/0x010E7047) looks at LocalPlayer
 100: 0x046F [0x1C] WAIT(60* ticks)
-101: 0x0472 [0x48] [System] [18739*]:
+101: 0x0472 [0x48] [System] [18742*]:
     → "@@"
 102: 0x0475 [0x1C] WAIT(120* ticks)
 103: 0x0478 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[762*, 0*]
 104: 0x0489 [0x1C] WAIT(15* ticks)
 105: 0x048C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 106: 0x049D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes0" with entities [Lion (ID: 17723463/0x010E7047), Lion (ID: 17723463/0x010E7047)], work=99*
-107: 0x04AC [0x2B] Lion (ID: 17723463/0x010E7047) [18726*]:
+107: 0x04AC [0x2B] Lion (ID: 17723463/0x010E7047) [18729*]:
     → "You say my father told you to seek me out?"
 108: 0x04B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x04B4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl40" with entities [Lion (ID: 17723463/0x010E7047), Lion (ID: 17723463/0x010E7047)], work=538*
-110: 0x04C3 [0x2B] Lion (ID: 17723463/0x010E7047) [18727*]:
+110: 0x04C3 [0x2B] Lion (ID: 17723463/0x010E7047) [18730*]:
     → "I've been trying to figure out as much as I can about the strange portals that link our Vana'diel to another dimension."
 111: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x04CB [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [EventEntity, EventEntity], work=762*
 113: 0x04DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[762*, 0*]
-114: 0x04EB [0x2B] Lion (ID: 17723463/0x010E7047) [18728*]:
+114: 0x04EB [0x2B] Lion (ID: 17723463/0x010E7047) [18731*]:
     → "But we've got other problems to deal with first. Let's worry about it once we've finished our current mission."
 115: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x04F3 [0x2B] Lion (ID: 17723463/0x010E7047) [18729*]:
+116: 0x04F3 [0x2B] Lion (ID: 17723463/0x010E7047) [18732*]:
     → "I'll meet you at the Crag of Holla in La Theine Plateau once we've got that burden off our shoulders. Or we could catch up at Dem or Mea, if that's preferable to you."
 117: 0x04FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x04FB [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=762*
 119: 0x050A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[762*, 0*]
 120: 0x051B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl41" with entities [Lion (ID: 17723463/0x010E7047), Lion (ID: 17723463/0x010E7047)], work=538*
-121: 0x052A [0x2B] Lion (ID: 17723463/0x010E7047) [18730*]:
+121: 0x052A [0x2B] Lion (ID: 17723463/0x010E7047) [18733*]:
     → "Remember to see the missions posed to you by your home nation to completion first, though."
 122: 0x0531 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0532 [0x6E] LocalPlayer uses emote 7*
@@ -350,7 +350,7 @@ SUBROUTINE_03CC:
      0x0261 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [EventEntity, EventEntity], work=[762*, 0*]
      0x0272 [0x4A] Lion (ID: 17723456/0x010E7040) looks at LocalPlayer
      0x027B [0x1C] WAIT(30* ticks)
-     0x027E [0x2B] Lion (ID: 17723456/0x010E7040) [18725*]:
+     0x027E [0x2B] Lion (ID: 17723456/0x010E7040) [18728*]:
     → "There's something else?"
      0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0286 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -361,32 +361,32 @@ SUBROUTINE_03CC:
      0x02C7 [0x4A] LocalPlayer looks at Lion (ID: 17723456/0x010E7040)
      0x02D0 [0x4A] Lion (ID: 17723456/0x010E7040) looks at LocalPlayer
      0x02D9 [0x1C] WAIT(60* ticks)
-     0x02DC [0x48] [System] [18739*]:
+     0x02DC [0x48] [System] [18742*]:
     → "@@"
      0x02DF [0x1C] WAIT(120* ticks)
      0x02E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[762*, 0*]
      0x02F3 [0x1C] WAIT(15* ticks)
      0x02F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x0307 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes0" with entities [Lion (ID: 17723456/0x010E7040), Lion (ID: 17723456/0x010E7040)], work=99*
-     0x0316 [0x2B] Lion (ID: 17723456/0x010E7040) [18726*]:
+     0x0316 [0x2B] Lion (ID: 17723456/0x010E7040) [18729*]:
     → "You say my father told you to seek me out?"
      0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x031E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl40" with entities [Lion (ID: 17723456/0x010E7040), Lion (ID: 17723456/0x010E7040)], work=538*
-     0x032D [0x2B] Lion (ID: 17723456/0x010E7040) [18727*]:
+     0x032D [0x2B] Lion (ID: 17723456/0x010E7040) [18730*]:
     → "I've been trying to figure out as much as I can about the strange portals that link our Vana'diel to another dimension."
      0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0335 [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=762*
      0x0344 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [EventEntity, EventEntity], work=[762*, 0*]
-     0x0355 [0x2B] Lion (ID: 17723456/0x010E7040) [18728*]:
+     0x0355 [0x2B] Lion (ID: 17723456/0x010E7040) [18731*]:
     → "But we've got other problems to deal with first. Let's worry about it once we've finished our current mission."
      0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x035D [0x2B] Lion (ID: 17723456/0x010E7040) [18729*]:
+     0x035D [0x2B] Lion (ID: 17723456/0x010E7040) [18732*]:
     → "I'll meet you at the Crag of Holla in La Theine Plateau once we've got that burden off our shoulders. Or we could catch up at Dem or Mea, if that's preferable to you."
      0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0365 [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [EventEntity, EventEntity], work=762*
      0x0374 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [EventEntity, EventEntity], work=[762*, 0*]
      0x0385 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl41" with entities [Lion (ID: 17723456/0x010E7040), Lion (ID: 17723456/0x010E7040)], work=538*
-     0x0394 [0x2B] Lion (ID: 17723456/0x010E7040) [18730*]:
+     0x0394 [0x2B] Lion (ID: 17723456/0x010E7040) [18733*]:
     → "Remember to see the missions posed to you by your home nation to completion first, though."
      0x039B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x039C [0x6E] LocalPlayer uses emote 7*

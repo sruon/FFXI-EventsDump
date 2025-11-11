@@ -24,7 +24,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3D04      |       15620 |
+|       0 | 0x3D07      |       15623 |
 |       1 | 0x3008      |       12296 |
 |       2 | 0x3009      |       12297 |
 |       3 | 0x300A      |       12298 |
@@ -90,7 +90,7 @@
 - **12438**: Transport to another nation? [Not now./Go to San d'Oria./Go to Bastok./Go to Windurst.]
 - **12439**: Happy travels!
 - **12440**: Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!
-- **15620**: Wh-what!? You want to give me a present!? It...it's not that I don't appreciate it or anything... It's just that... Aaah, who am I to argue? Thank you, fellow smilebringer!
+- **15623**: Wh-what!? You want to give me a present!? It...it's not that I don't appreciate it or anything... It's just that... Aaah, who am I to argue? Thank you, fellow smilebringer!
 
 ## Events
 
@@ -137,7 +137,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15620*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15623*)
     → "Wh-what!? You want to give me a present!? It...it's not that I don't appreciate it or anything... It's just that... Aaah, who am I to argue? Thank you, fellow smilebringer!"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT

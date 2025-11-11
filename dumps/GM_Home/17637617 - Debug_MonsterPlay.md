@@ -21,14 +21,14 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x237C      |        9084 |
+|       1 | 0x237D      |        9085 |
 |       2 | 0x0064      |         100 |
 |       3 | 0x0065      |         101 |
 |       4 | 0x006A      |         106 |
 |       5 | 0x006B      |         107 |
 |       6 | 0x0073      |         115 |
 |       7 | 0x0074      |         116 |
-|       8 | 0x237D      |        9085 |
+|       8 | 0x237E      |        9086 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x0003      |           3 |
@@ -36,26 +36,26 @@
 |      13 | 0x0005      |           5 |
 |      14 | 0x0006      |           6 |
 |      15 | 0x0007      |           7 |
-|      16 | 0x237E      |        9086 |
-|      17 | 0x237F      |        9087 |
-|      18 | 0x2382      |        9090 |
+|      16 | 0x237F      |        9087 |
+|      17 | 0x2380      |        9088 |
+|      18 | 0x2383      |        9091 |
 |      19 | 0x000F      |          15 |
 |      20 | 0x0010      |          16 |
 |      21 | 0x001F      |          31 |
 |      22 | 0x0078      |         120 |
 |      23 | 0x00C8      |         200 |
-|      24 | 0x2380      |        9088 |
-|      25 | 0x2381      |        9089 |
+|      24 | 0x2381      |        9089 |
+|      25 | 0x2382      |        9090 |
 
 ## String References
 
-- **9084**: Vague images of worlds beyond coalesce and diffuse within.
-- **9085**: Where to, intrepid pioneer? [$8./$8./$8./$8./$8./$8./Away from Monstrosity./Away from this menu!]
-- **9086**: You dare trek to $8?
-- **9087**: Well, do you? [Oh, I do./Nope. Cold feet.]
-- **9088**: You truly wish to end your relationsip with this content, despite all the fun times you've had together?
-- **9089**: Truly end it all? [Yes, I must!/No, not yet!]
-- **9090**: Where in $8? [Point 1./Point 2./Point 3./Point 4./Point 5./Nowhere.]
+- **9085**: Vague images of worlds beyond coalesce and diffuse within.
+- **9086**: Where to, intrepid pioneer? [$8./$8./$8./$8./$8./$8./Away from Monstrosity./Away from this menu!]
+- **9087**: You dare trek to $8?
+- **9088**: Well, do you? [Oh, I do./Nope. Cold feet.]
+- **9089**: You truly wish to end your relationsip with this content, despite all the fun times you've had together?
+- **9090**: Truly end it all? [Yes, I must!/No, not yet!]
+- **9091**: Where in $8? [Point 1./Point 2./Point 3./Point 4./Point 5./Nowhere.]
 
 ## Events
 
@@ -132,7 +132,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[1] = 0*
-  1: 0x0006 [0x48] [System] [9084*]:
+  1: 0x0006 [0x48] [System] [9085*]:
     → "Vague images of worlds beyond coalesce and diffuse within."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x05] ExtData[1]->WorkLocal[0] = 1
@@ -144,7 +144,7 @@
   9: 0x0029 [0x03] Work_Zone[5] = 107*
  10: 0x002E [0x03] Work_Zone[6] = 115*
  11: 0x0033 [0x03] Work_Zone[7] = 116*
- 12: 0x0038 [0x24] CREATE_DIALOG(message_id=9085*, default_option=0*, option_flags=0*)
+ 12: 0x0038 [0x24] CREATE_DIALOG(message_id=9086*, default_option=0*, option_flags=0*)
     → "Where to, intrepid pioneer? [$8./$8./$8./$8./$8./$8./Away from Monstrosity./Away from this menu!]"
  13: 0x003F [0x25] WAIT_DIALOG_SELECT()
  14: 0x0040 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0050
@@ -176,17 +176,17 @@ SUBROUTINE_00BE:
  38: 0x00BE [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x01F6
  39: 0x00C6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01B6
  40: 0x00CE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 41: 0x00D3 [0x48] [System] [9086*]:
+ 41: 0x00D3 [0x48] [System] [9087*]:
     → "You dare trek to $8?"
  42: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x00D7 [0x24] CREATE_DIALOG(message_id=9087*, default_option=0*, option_flags=0*)
+ 43: 0x00D7 [0x24] CREATE_DIALOG(message_id=9088*, default_option=0*, option_flags=0*)
     → "Well, do you? [Oh, I do./Nope. Cold feet.]"
  44: 0x00DE [0x25] WAIT_DIALOG_SELECT()
  45: 0x00DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A8
  46: 0x00E7 [0x03] ExtData[1]->WorkLocal[3] = 0*
  47: 0x00EC [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x014B
  48: 0x00F4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 49: 0x00F9 [0x24] CREATE_DIALOG(message_id=9090*, default_option=0*, option_flags=0*)
+ 49: 0x00F9 [0x24] CREATE_DIALOG(message_id=9091*, default_option=0*, option_flags=0*)
     → "Where in $8? [Point 1./Point 2./Point 3./Point 4./Point 5./Nowhere.]"
  50: 0x0100 [0x25] WAIT_DIALOG_SELECT()
  51: 0x0101 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010C
@@ -220,10 +220,10 @@ SUBROUTINE_0143:
 
 SUBROUTINE_01B3:
  77: 0x01B3 [0x01] GOTO 0x01F6
- 78: 0x01B6 [0x48] [System] [9088*]:
+ 78: 0x01B6 [0x48] [System] [9089*]:
     → "You truly wish to end your relationsip with this content, despite all the fun times you've had together?"
  79: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x01BA [0x24] CREATE_DIALOG(message_id=9089*, default_option=0*, option_flags=0*)
+ 80: 0x01BA [0x24] CREATE_DIALOG(message_id=9090*, default_option=0*, option_flags=0*)
     → "Truly end it all? [Yes, I must!/No, not yet!]"
  81: 0x01C1 [0x25] WAIT_DIALOG_SELECT()
  82: 0x01C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EB

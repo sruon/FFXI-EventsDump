@@ -11633,7 +11633,7 @@ SUBROUTINE_0416:
      0x1C0A [0x10] 0x4680 <<= 0x2384
      0x1C0F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566087/0x80108447))
      0x1C14 [0x48] [System] [0x2384]:
-    → "Motion Link: [Nonexistent/Begin/Unleash]."
+    → "[BAD/GOOD]"
      0x1C17 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566089/0x80108449))
      0x1C1C [0x4A] Unknown NPC (ID: 1266688900/0x4B802384) looks at Unknown NPC (ID: 1283461252/0x4C801084)
      0x1C25 [0x84] ADJUST_RENDER_FLAGS3_BIT0()
@@ -11951,7 +11951,7 @@ SUBROUTINE_0416:
      0x20B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20B7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566309/0x80108525))
      0x20BC [0x48] [System] [0x2385]:
-    → "Pick your poins. [Campaign No. $1/Count: $2./Points: $3./Save data.]"
+    → "Motion Link: [Nonexistent/Begin/Unleash]."
      0x20BF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148566304/0x80108520))
      0x20C4 [0x49] Unknown NPC (ID: 511714181/0x1E802385) (No speaker name) [0x1085]:
      0x20CB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149810585/0x80238199))
@@ -12924,7 +12924,7 @@ SUBROUTINE_0416:
      0x3096 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3097 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567111/0x80108847))
      0x309C [0x48] [System] [0x2388]:
-    → "Count set to $2."
+    → "Campaign number set to $1."
      0x309F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567113/0x80108849))
      0x30A4 [0x4A] Unknown NPC (ID: 1266688904/0x4B802388) looks at Unknown NPC (ID: 1283461256/0x4C801088)
      0x30AD [0x88] WORLD_PASS_HANDLER_B: Send world pass packet 0x1B (Para=1, sets RecFriendPassFlag)
@@ -13320,7 +13320,7 @@ SUBROUTINE_0416:
      0x3626 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x3627 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567367/0x80108947))
      0x362C [0x48] [System] [0x2389]:
-    → "Points set to $3."
+    → "Count set to $2."
      0x362F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567209/0x801088A9))
      0x3634 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=0x2385, year=0xB580, month=0x1085, day=0x4980, weekday=0x2389, hour=0x4A80, minute=0x1089, moon=0x4B80)
      0x3645 [0x89] OPEN_MAP(map_id=0x00008023)
@@ -13622,7 +13622,7 @@ SUBROUTINE_0416:
      0x3AC2 [0x10] 0x4680 <<= 0x238A
      0x3AC7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567623/0x80108A47))
      0x3ACC [0x48] [System] [0x238A]:
-    → "Why, hello there! My tremendous task is to tabulate your precious points for the login campaign and exchange them for pleasing prizes, kupo!"
+    → "Points set to $3."
      0x3ACF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148567625/0x80108A49))
      0x3AD4 [0x4A] Unknown NPC (ID: 1266688906/0x4B80238A) looks at Unknown NPC (ID: 1283461258/0x4C80108A)
      0x3ADD [0x8A] CLOSE_MAP()
@@ -14911,7 +14911,7 @@ SUBROUTINE_0416:
      0x5146 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5147 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568569/0x80108DF9))
      0x514C [0x48] [System] [0x238E]:
-    → "You can trade them for incredible items to assist you with your adventures!"
+    → "In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!"
      0x514F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568598/0x80108E16))
      0x5154 [0x49] Unknown NPC (ID: 4018152334/0xEF80238E) (No speaker name) [0x108D]:
      0x515B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149812940/0x80238ACC))
@@ -15266,7 +15266,7 @@ SUBROUTINE_0416:
      0x56B2 [0x10] 0x4680 <<= 0x238F
      0x56B7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568903/0x80108F47))
      0x56BC [0x48] [System] [0x238F]:
-    → "You can even procure more points by logging in routinely, which we all want, since Vana'diel always anxiously awaits your appearance!"
+    → "You can trade them for incredible items to assist you with your adventures!"
      0x56BF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148568905/0x80108F49))
      0x56C4 [0x4A] Unknown NPC (ID: 1266688911/0x4B80238F) looks at Unknown NPC (ID: 1283461263/0x4C80108F)
      0x56CD [0x8F] SET_ENTITY_STATUS_EVENT_46()
@@ -15670,7 +15670,7 @@ SUBROUTINE_0416:
      0x5C56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x5C57 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569159/0x80109047))
      0x5C5C [0x48] [System] [0x2390]:
-    → "You can trade in these tokens for our gratuitous gifts any time during this campaign!"
+    → "You can even procure more points by logging in routinely, which we all want, since Vana'diel always anxiously awaits your appearance!"
      0x5C5F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569161/0x80109049))
      0x5C64 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler 0x4B80238C with entities [Unknown NPC (ID: 1249911689/0x4A802389), Unknown NPC (ID: 3598717072/0xD6801090)]
      0x5C71 [0x90] EventEntity->Render.Flags0 |= 0x04; EventEntity->Render.Flags1 |= 0x08
@@ -16682,7 +16682,7 @@ SUBROUTINE_0416:
      0x6D02 [0x10] 0x4780 <<= 0x2393
      0x6D07 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569876/0x80109314))
      0x6D0C [0x48] [System] [0x2393]:
-    → "Any additional points will be summarily seized, kupo!"
+    → "Up to 700 points from the current campaign can be carried over to the next one starting with the October 2025 login campaign!"
      0x6D0F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148569929/0x80109349))
      0x6D14 [0x4A] Unknown NPC (ID: 1266688915/0x4B802393) looks at Unknown NPC (ID: 1283461267/0x4C801093)
      0x6D1D [0x93] DISPLAY_ITEM_INFO(item_id=4294966796*)
@@ -17041,7 +17041,7 @@ SUBROUTINE_0416:
      0x728E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x728F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570183/0x80109447))
      0x7294 [0x48] [System] [0x2394]:
-    → "View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]"
+    → "Any additional points will be summarily seized, kupo!"
      0x7297 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570185/0x80109449))
      0x729C [0x4A] Unknown NPC (ID: 1266688916/0x4B802394) looks at Unknown NPC (ID: 1283461268/0x4C801094)
      0x72A5 [0x94] Unknown NPC (ID: 278154624/0x10944D80)->Render.Flags3 ^= 0x23
@@ -17723,7 +17723,7 @@ SUBROUTINE_0416:
      0x7E36 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x7E37 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570695/0x80109647))
      0x7E3C [0x48] [System] [0x2396]:
-    → "$23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]"
+    → "$22-pt. items ($1 pts.): [$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./Back.]"
      0x7E3F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148570697/0x80109649))
      0x7E44 [0x4A] Unknown NPC (ID: 1266688918/0x4B802396) looks at Unknown NPC (ID: 813699222/0x30801096)
      0x7E4D [0x8C] CRAFTING_HANDLER(mode=0x23) // Unknown mode 35
@@ -18454,7 +18454,7 @@ SUBROUTINE_0416:
      0x89CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x89CF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148571190/0x80109836))
      0x89D4 [0x48] [System] [0x2398]:
-    → "Altana above! You do not possess the prerequisite number of points!"
+    → "How many would you like, kupo?"
      0x89D7 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148571127/0x801097F7))
      0x89DC [0x49] Unknown NPC (ID: 1048585112/0x3E802398) (No speaker name) [0x1098]:
      0x89E3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2149815553/0x80239501))

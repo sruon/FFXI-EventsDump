@@ -35,13 +35,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3EC6      |       16070 |
+|       0 | 0x3EC9      |       16073 |
 |       1 | 0x000A      |          10 |
-|       2 | 0x3EC7      |       16071 |
-|       3 | 0x3EC8      |       16072 |
+|       2 | 0x3ECA      |       16074 |
+|       3 | 0x3ECB      |       16075 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0005      |           5 |
-|       6 | 0x3EC9      |       16073 |
+|       6 | 0x3ECC      |       16076 |
 |       7 | 0x002D      |          45 |
 |       8 | 0x0B52      |        2898 |
 |       9 | 0x01B8      |         440 |
@@ -55,8 +55,8 @@
 |      17 | 0x03E7      |         999 |
 |      18 | 0x0000      |           0 |
 |      19 | 0x0004      |           4 |
-|      20 | 0x3EED      |       16109 |
-|      21 | 0x3E78      |       15992 |
+|      20 | 0x3EF0      |       16112 |
+|      21 | 0x3E7B      |       15995 |
 |      22 | 0x0007      |           7 |
 |      23 | 0x0038      |          56 |
 |      24 | 0x0008      |           8 |
@@ -64,128 +64,128 @@
 |      26 | 0x0040      |          64 |
 |      27 | 0x0060      |          96 |
 |      28 | 0x0302      |         770 |
-|      29 | 0x3E79      |       15993 |
+|      29 | 0x3E7C      |       15996 |
 |      30 | 0x0006      |           6 |
 |      31 | 0x0002      |           2 |
 |      32 | 0x0003      |           3 |
 |      33 | 0x0009      |           9 |
 |      34 | 0x0011      |          17 |
 |      35 | 0x000B      |          11 |
-|      36 | 0x3E7A      |       15994 |
-|      37 | 0x3EEE      |       16110 |
+|      36 | 0x3E7D      |       15997 |
+|      37 | 0x3EF1      |       16113 |
 |      38 | 0x0064      |         100 |
-|      39 | 0x3E7B      |       15995 |
-|      40 | 0x3EEF      |       16111 |
-|      41 | 0x3EC4      |       16068 |
-|      42 | 0x3EC5      |       16069 |
+|      39 | 0x3E7E      |       15998 |
+|      40 | 0x3EF2      |       16114 |
+|      41 | 0x3EC7      |       16071 |
+|      42 | 0x3EC8      |       16072 |
 |      43 | 0x007A      |         122 |
 |      44 | 0x010E      |         270 |
 |      45 | 0x000C      |          12 |
 |      46 | 0x03FE      |        1022 |
 |      47 | 0x0033      |          51 |
 |      48 | 0x0019      |          25 |
-|      49 | 0x3E7D      |       15997 |
-|      50 | 0x3E7E      |       15998 |
-|      51 | 0x3EF1      |       16113 |
-|      52 | 0x3EF2      |       16114 |
-|      53 | 0x3EF3      |       16115 |
-|      54 | 0x3EF4      |       16116 |
+|      49 | 0x3E80      |       16000 |
+|      50 | 0x3E81      |       16001 |
+|      51 | 0x3EF4      |       16116 |
+|      52 | 0x3EF5      |       16117 |
+|      53 | 0x3EF6      |       16118 |
+|      54 | 0x3EF7      |       16119 |
 |      55 | 0x7530      |       30000 |
-|      56 | 0x3EF5      |       16117 |
-|      57 | 0x3EF6      |       16118 |
-|      58 | 0x3EF7      |       16119 |
-|      59 | 0x3EF8      |       16120 |
-|      60 | 0x3EF9      |       16121 |
-|      61 | 0x3EFA      |       16122 |
-|      62 | 0x3EFB      |       16123 |
+|      56 | 0x3EF8      |       16120 |
+|      57 | 0x3EF9      |       16121 |
+|      58 | 0x3EFA      |       16122 |
+|      59 | 0x3EFB      |       16123 |
+|      60 | 0x3EFC      |       16124 |
+|      61 | 0x3EFD      |       16125 |
+|      62 | 0x3EFE      |       16126 |
 |      63 | 0x001E      |          30 |
 |      64 | 0x000F      |          15 |
 |      65 | 0x0010      |          16 |
 |      66 | 0x001F      |          31 |
-|      67 | 0x3E80      |       16000 |
-|      68 | 0x3EFC      |       16124 |
-|      69 | 0x3EF0      |       16112 |
-|      70 | 0x3E81      |       16001 |
+|      67 | 0x3E83      |       16003 |
+|      68 | 0x3EFF      |       16127 |
+|      69 | 0x3EF3      |       16115 |
+|      70 | 0x3E84      |       16004 |
 |      71 | 0x03C0      |         960 |
 |      72 | 0x0063      |          99 |
 |      73 | 0x1EF0      |        7920 |
-|      74 | 0x3EFD      |       16125 |
-|      75 | 0x3EFE      |       16126 |
-|      76 | 0x3E82      |       16002 |
-|      77 | 0x3EFF      |       16127 |
-|      78 | 0x3F00      |       16128 |
-|      79 | 0x3F01      |       16129 |
-|      80 | 0x3E72      |       15986 |
-|      81 | 0x3E76      |       15990 |
+|      74 | 0x3F00      |       16128 |
+|      75 | 0x3F01      |       16129 |
+|      76 | 0x3E85      |       16005 |
+|      77 | 0x3F02      |       16130 |
+|      78 | 0x3F03      |       16131 |
+|      79 | 0x3F04      |       16132 |
+|      80 | 0x3E75      |       15989 |
+|      81 | 0x3E79      |       15993 |
 |      82 | 0x0018      |          24 |
-|      83 | 0x3F02      |       16130 |
-|      84 | 0x3F03      |       16131 |
-|      85 | 0x3F04      |       16132 |
-|      86 | 0x3E7C      |       15996 |
-|      87 | 0x3F05      |       16133 |
-|      88 | 0x3F06      |       16134 |
-|      89 | 0x3F07      |       16135 |
-|      90 | 0x3F08      |       16136 |
-|      91 | 0x3F17      |       16151 |
-|      92 | 0x3E88      |       16008 |
-|      93 | 0x3E89      |       16009 |
-|      94 | 0x3E8A      |       16010 |
-|      95 | 0x3E8B      |       16011 |
+|      83 | 0x3F05      |       16133 |
+|      84 | 0x3F06      |       16134 |
+|      85 | 0x3F07      |       16135 |
+|      86 | 0x3E7F      |       15999 |
+|      87 | 0x3F08      |       16136 |
+|      88 | 0x3F09      |       16137 |
+|      89 | 0x3F0A      |       16138 |
+|      90 | 0x3F0B      |       16139 |
+|      91 | 0x3F1A      |       16154 |
+|      92 | 0x3E8B      |       16011 |
+|      93 | 0x3E8C      |       16012 |
+|      94 | 0x3E8D      |       16013 |
+|      95 | 0x3E8E      |       16014 |
 |      96 | 0x0A47      |        2631 |
-|      97 | 0x3E8C      |       16012 |
-|      98 | 0x3E8D      |       16013 |
-|      99 | 0x3E8E      |       16014 |
-|     100 | 0x3E8F      |       16015 |
-|     101 | 0x3E90      |       16016 |
-|     102 | 0x3E91      |       16017 |
-|     103 | 0x3E92      |       16018 |
-|     104 | 0x3E93      |       16019 |
-|     105 | 0x3E94      |       16020 |
-|     106 | 0x3E95      |       16021 |
-|     107 | 0x3E96      |       16022 |
-|     108 | 0x3E97      |       16023 |
-|     109 | 0x3E98      |       16024 |
-|     110 | 0x3E99      |       16025 |
-|     111 | 0x3E9A      |       16026 |
-|     112 | 0x3E9B      |       16027 |
-|     113 | 0x3E9C      |       16028 |
-|     114 | 0x3E9D      |       16029 |
-|     115 | 0x3E9E      |       16030 |
-|     116 | 0x3E9F      |       16031 |
-|     117 | 0x3EA0      |       16032 |
-|     118 | 0x3EA1      |       16033 |
-|     119 | 0x3EA2      |       16034 |
-|     120 | 0x3EA3      |       16035 |
-|     121 | 0x3EA4      |       16036 |
-|     122 | 0x3EA5      |       16037 |
-|     123 | 0x3EA6      |       16038 |
-|     124 | 0x3EA7      |       16039 |
-|     125 | 0x3EA8      |       16040 |
-|     126 | 0x3EA9      |       16041 |
-|     127 | 0x3EAA      |       16042 |
-|     128 | 0x3EAB      |       16043 |
+|      97 | 0x3E8F      |       16015 |
+|      98 | 0x3E90      |       16016 |
+|      99 | 0x3E91      |       16017 |
+|     100 | 0x3E92      |       16018 |
+|     101 | 0x3E93      |       16019 |
+|     102 | 0x3E94      |       16020 |
+|     103 | 0x3E95      |       16021 |
+|     104 | 0x3E96      |       16022 |
+|     105 | 0x3E97      |       16023 |
+|     106 | 0x3E98      |       16024 |
+|     107 | 0x3E99      |       16025 |
+|     108 | 0x3E9A      |       16026 |
+|     109 | 0x3E9B      |       16027 |
+|     110 | 0x3E9C      |       16028 |
+|     111 | 0x3E9D      |       16029 |
+|     112 | 0x3E9E      |       16030 |
+|     113 | 0x3E9F      |       16031 |
+|     114 | 0x3EA0      |       16032 |
+|     115 | 0x3EA1      |       16033 |
+|     116 | 0x3EA2      |       16034 |
+|     117 | 0x3EA3      |       16035 |
+|     118 | 0x3EA4      |       16036 |
+|     119 | 0x3EA5      |       16037 |
+|     120 | 0x3EA6      |       16038 |
+|     121 | 0x3EA7      |       16039 |
+|     122 | 0x3EA8      |       16040 |
+|     123 | 0x3EA9      |       16041 |
+|     124 | 0x3EAA      |       16042 |
+|     125 | 0x3EAB      |       16043 |
+|     126 | 0x3EAC      |       16044 |
+|     127 | 0x3EAD      |       16045 |
+|     128 | 0x3EAE      |       16046 |
 |     129 | 0x186A0     |      100000 |
-|     130 | 0x3EAC      |       16044 |
-|     131 | 0x3EAD      |       16045 |
-|     132 | 0x3EAE      |       16046 |
-|     133 | 0x3EAF      |       16047 |
-|     134 | 0x3EB0      |       16048 |
-|     135 | 0x3EB1      |       16049 |
-|     136 | 0x3EB2      |       16050 |
-|     137 | 0x3EB3      |       16051 |
-|     138 | 0x3EB4      |       16052 |
-|     139 | 0x3EB5      |       16053 |
+|     130 | 0x3EAF      |       16047 |
+|     131 | 0x3EB0      |       16048 |
+|     132 | 0x3EB1      |       16049 |
+|     133 | 0x3EB2      |       16050 |
+|     134 | 0x3EB3      |       16051 |
+|     135 | 0x3EB4      |       16052 |
+|     136 | 0x3EB5      |       16053 |
+|     137 | 0x3EB6      |       16054 |
+|     138 | 0x3EB7      |       16055 |
+|     139 | 0x3EB8      |       16056 |
 |     140 | 0x03E8      |        1000 |
-|     141 | 0x3EB6      |       16054 |
-|     142 | 0x3EB7      |       16055 |
-|     143 | 0x3EB8      |       16056 |
-|     144 | 0x3EB9      |       16057 |
-|     145 | 0x3EBA      |       16058 |
-|     146 | 0x3EBB      |       16059 |
-|     147 | 0x3EBC      |       16060 |
-|     148 | 0x3EBD      |       16061 |
-|     149 | 0x3EBE      |       16062 |
-|     150 | 0x3EBF      |       16063 |
+|     141 | 0x3EB9      |       16057 |
+|     142 | 0x3EBA      |       16058 |
+|     143 | 0x3EBB      |       16059 |
+|     144 | 0x3EBC      |       16060 |
+|     145 | 0x3EBD      |       16061 |
+|     146 | 0x3EBE      |       16062 |
+|     147 | 0x3EBF      |       16063 |
+|     148 | 0x3EC0      |       16064 |
+|     149 | 0x3EC1      |       16065 |
+|     150 | 0x3EC2      |       16066 |
 |     151 | 0x000E      |          14 |
 |     152 | 0x0012      |          18 |
 |     153 | 0x0013      |          19 |
@@ -819,145 +819,145 @@
 |     781 | 0x648F      |       25743 |
 |     782 | 0x6490      |       25744 |
 |     783 | 0x01F4      |         500 |
-|     784 | 0x3F09      |       16137 |
-|     785 | 0x3F0A      |       16138 |
-|     786 | 0x3E85      |       16005 |
-|     787 | 0x3F0B      |       16139 |
-|     788 | 0x3F0C      |       16140 |
-|     789 | 0x3F0D      |       16141 |
-|     790 | 0x3F0E      |       16142 |
-|     791 | 0x3F0F      |       16143 |
-|     792 | 0x3F10      |       16144 |
-|     793 | 0x3E86      |       16006 |
-|     794 | 0x3F11      |       16145 |
-|     795 | 0x3F12      |       16146 |
-|     796 | 0x3F14      |       16148 |
-|     797 | 0x3E87      |       16007 |
-|     798 | 0x3F15      |       16149 |
-|     799 | 0x3F16      |       16150 |
-|     800 | 0x3F13      |       16147 |
+|     784 | 0x3F0C      |       16140 |
+|     785 | 0x3F0D      |       16141 |
+|     786 | 0x3E88      |       16008 |
+|     787 | 0x3F0E      |       16142 |
+|     788 | 0x3F0F      |       16143 |
+|     789 | 0x3F10      |       16144 |
+|     790 | 0x3F11      |       16145 |
+|     791 | 0x3F12      |       16146 |
+|     792 | 0x3F13      |       16147 |
+|     793 | 0x3E89      |       16009 |
+|     794 | 0x3F14      |       16148 |
+|     795 | 0x3F15      |       16149 |
+|     796 | 0x3F17      |       16151 |
+|     797 | 0x3E8A      |       16010 |
+|     798 | 0x3F18      |       16152 |
+|     799 | 0x3F19      |       16153 |
+|     800 | 0x3F16      |       16150 |
 |     801 | 0x00C9      |         201 |
 |     802 | 0x00D7      |         215 |
-|     803 | 0x3E73      |       15987 |
-|     804 | 0x3E74      |       15988 |
+|     803 | 0x3E76      |       15990 |
+|     804 | 0x3E77      |       15991 |
 
 ## String References
 
-- **15986**: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
-- **15987**: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
-- **15988**: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
-- **15990**: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
-- **15992**: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
-- **15993**: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
-- **15994**: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
-- **15995**: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
-- **15996**: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
-- **15997**: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
-- **16001**: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-- **16002**: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-- **16005**: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-- **16008**: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
-- **16009**: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
-- **16010**: "Unity" is a catchall term that refers to the group that participants belong to.
-- **16011**: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
-- **16012**: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
-- **16013**: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
-- **16014**: You may not always be able to join the chat if too many players are participating at once.
-- **16015**: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
-- **16016**: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
-- **16017**: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
-- **16018**: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
-- **16019**: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
-- **16020**: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
-- **16021**: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
-- **16022**: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
-- **16023**: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
-- **16024**: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
-- **16025**: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
-- **16026**: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
-- **16027**: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
-- **16028**: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
-- **16029**: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
-- **16030**: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
-- **16031**: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
-- **16032**: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
-- **16033**: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
-- **16034**: You can use specified materials to add new attributes to equipment that has been upgraded.
-- **16035**: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
-- **16036**: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
-- **16037**: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
-- **16038**: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
-- **16039**: It also requires that you first complete a specific Records of Eminence objective.
-- **16040**: The work you request will be carried out on-site by a specially trained Unity guide.
-- **16041**: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
-- **16042**: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
-- **16043**: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
-- **16044**: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
-- **16045**: You may switch Unities once during the Unity ranking tabulation period.
-- **16046**: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
-- **16047**: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
-- **16048**: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
-- **16049**: Rankings are decided through the combined efforts of each of the Unity's members.
-- **16050**: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
-- **16051**: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
-- **16052**: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
-- **16053**: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
-- **16054**: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
-- **16055**: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
-- **16056**: Unity leaders may also join you as alter egos for a limited period of time.
-- **16057**: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
-- **16058**: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
-- **16059**: A leader's alter ego grows in power the higher their Unity is ranked.
-- **16060**: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
-- **16061**: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
-- **16062**: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
-- **16063**: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
-- **16068**: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
-- **16069**: Teleport anyway? [Yes, please./No, thank you.]
-- **16070**: Just looking at you gives me this wonderful tingling feeling...
-- **16071**: Maybe it would be even more tingly if you completed at least $0 Records of Eminence objective[/s] for me.
-- **16072**: My good friend Rolandienne can get you started!
-- **16073**: If only a [dashing prince/dazzling maiden] could win my heart over by setting the "$1" Records of Eminence objective from the "Tutorial" category...
-- **16109**: What do you want?
-- **16110**: Fine. Go to $8. Just don't be surprised if I've found someone else by the time you're back.
-- **16111**: And you don't even have enough accolades! Ugh, what did I expect...
-- **16112**: Hey--don't forget that you can only exchange $0 more accolade[/s] this week!
-- **16113**: Here's what your new piece of equipment'll look like.
-- **16114**: If you want $0, I'll need $4, $2 $0$0 , and $3 Unity accolade[/s].
-- **16115**: Don't expect it to be done right away. The artisan is busy and needs time to work.
-- **16116**: But hang on--you've already got a request pending for $0. Can't you be more patient!?
-- **16117**: I suppose this is what the new attribute will be like.
-- **16118**: This is what your equipment will be like if you increase its rank to the maximum.
-- **16119**: You'll need to bring me $1 along with your $0. And don't even think about forgetting my fee of $2 accolade[/s]!
-- **16120**: I also cannot accept your request unless you complete the Records of Eminence objective "$4" beforehand.
-- **16121**: To boost your item's rank, bring me $1 that features an attribute along with some $3. The more you bring, the higher its rank will rise.
-- **16122**: I am responsible for adding attributes to items as well as increasing their rank...
-- **16123**: H-hey, don't get the wrong idea! It's not like I learned how to do this just for you or anything!
-- **16124**: Wow, are you sure you want to waste your accolades on $1? Hmph. That's your prerogative, but it'll cost you $0 accolade[/s].
-- **16125**: And how many would you like? (1 to $0)
-- **16126**: $2 $0$0 will run you $0 accolade[/s].
-- **16127**: That's fine. I didn't want your stinking accolades anyway.
-- **16128**: Does that mean...at least we...
-- **16129**: ...Uh....never mind. Stop lollygagging and pick your Unity already!
-- **16130**: Everything should be in the clear. Go enjoy your new Unity and leave me here to rot.
-- **16131**: Sweet Goddess, would you make up your mind?
-- **16132**: More questions? Okay, let me take out this backbreakingly heavy guide I've been lugging around for days.
-- **16133**: First, you join a Unity of your choosing.
-- **16134**: Then you earn accolades by completing Records of Eminence objectives.
-- **16135**: Finally, you use those accolades to procure rewards.
-- **16136**: Hopefully that was simple enough for you to wrap your pea-sized head around.
-- **16137**: You want us to enhance your $1?
-- **16138**: Our artisan requires a fee of $0 accolade[/s]. Are you willing to cough it up?
-- **16139**: I'll make sure it gets safely to him. Try not to get killed in the meantime.
-- **16140**: Have you come back to torment me!?
-- **16141**: Your $1 isn't ready yet. Shoo! Shoo!
-- **16142**: Yeah, yeah, your $1 is finally ready. I hope you choke on it.
-- **16145**: Here you go. I don't want to hear any complaints out of you.
-- **16146**: What's wrong with you? I don't have time for this nonsense!
-- **16147**: You forgot already!? You need to complete the Records of Eminence objective "$7" first!
-- **16149**: Okay, here you go. H-hey, I couldn't care less if this is for you or not!
-- **16150**: What's the matter with you? You're the one who came to me!
-- **16151**: @@
+- **15989**: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
+- **15990**: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
+- **15991**: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
+- **15993**: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
+- **15995**: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
+- **15996**: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
+- **15997**: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
+- **15998**: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
+- **15999**: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
+- **16000**: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
+- **16004**: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+- **16005**: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+- **16008**: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+- **16011**: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
+- **16012**: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
+- **16013**: "Unity" is a catchall term that refers to the group that participants belong to.
+- **16014**: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
+- **16015**: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
+- **16016**: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
+- **16017**: You may not always be able to join the chat if too many players are participating at once.
+- **16018**: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
+- **16019**: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
+- **16020**: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
+- **16021**: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
+- **16022**: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
+- **16023**: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
+- **16024**: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
+- **16025**: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
+- **16026**: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
+- **16027**: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
+- **16028**: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
+- **16029**: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
+- **16030**: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
+- **16031**: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
+- **16032**: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
+- **16033**: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
+- **16034**: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
+- **16035**: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
+- **16036**: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
+- **16037**: You can use specified materials to add new attributes to equipment that has been upgraded.
+- **16038**: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
+- **16039**: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
+- **16040**: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
+- **16041**: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
+- **16042**: It also requires that you first complete a specific Records of Eminence objective.
+- **16043**: The work you request will be carried out on-site by a specially trained Unity guide.
+- **16044**: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
+- **16045**: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
+- **16046**: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
+- **16047**: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
+- **16048**: You may switch Unities once during the Unity ranking tabulation period.
+- **16049**: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
+- **16050**: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
+- **16051**: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
+- **16052**: Rankings are decided through the combined efforts of each of the Unity's members.
+- **16053**: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
+- **16054**: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
+- **16055**: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
+- **16056**: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
+- **16057**: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
+- **16058**: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
+- **16059**: Unity leaders may also join you as alter egos for a limited period of time.
+- **16060**: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
+- **16061**: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
+- **16062**: A leader's alter ego grows in power the higher their Unity is ranked.
+- **16063**: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
+- **16064**: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
+- **16065**: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
+- **16066**: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
+- **16071**: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
+- **16072**: Teleport anyway? [Yes, please./No, thank you.]
+- **16073**: Just looking at you gives me this wonderful tingling feeling...
+- **16074**: Maybe it would be even more tingly if you completed at least $0 Records of Eminence objective[/s] for me.
+- **16075**: My good friend Rolandienne can get you started!
+- **16076**: If only a [dashing prince/dazzling maiden] could win my heart over by setting the "$1" Records of Eminence objective from the "Tutorial" category...
+- **16112**: What do you want?
+- **16113**: Fine. Go to $8. Just don't be surprised if I've found someone else by the time you're back.
+- **16114**: And you don't even have enough accolades! Ugh, what did I expect...
+- **16115**: Hey--don't forget that you can only exchange $0 more accolade[/s] this week!
+- **16116**: Here's what your new piece of equipment'll look like.
+- **16117**: If you want $0, I'll need $4, $2 $0$0 , and $3 Unity accolade[/s].
+- **16118**: Don't expect it to be done right away. The artisan is busy and needs time to work.
+- **16119**: But hang on--you've already got a request pending for $0. Can't you be more patient!?
+- **16120**: I suppose this is what the new attribute will be like.
+- **16121**: This is what your equipment will be like if you increase its rank to the maximum.
+- **16122**: You'll need to bring me $1 along with your $0. And don't even think about forgetting my fee of $2 accolade[/s]!
+- **16123**: I also cannot accept your request unless you complete the Records of Eminence objective "$4" beforehand.
+- **16124**: To boost your item's rank, bring me $1 that features an attribute along with some $3. The more you bring, the higher its rank will rise.
+- **16125**: I am responsible for adding attributes to items as well as increasing their rank...
+- **16126**: H-hey, don't get the wrong idea! It's not like I learned how to do this just for you or anything!
+- **16127**: Wow, are you sure you want to waste your accolades on $1? Hmph. That's your prerogative, but it'll cost you $0 accolade[/s].
+- **16128**: And how many would you like? (1 to $0)
+- **16129**: $2 $0$0 will run you $0 accolade[/s].
+- **16130**: That's fine. I didn't want your stinking accolades anyway.
+- **16131**: Does that mean...at least we...
+- **16132**: ...Uh....never mind. Stop lollygagging and pick your Unity already!
+- **16133**: Everything should be in the clear. Go enjoy your new Unity and leave me here to rot.
+- **16134**: Sweet Goddess, would you make up your mind?
+- **16135**: More questions? Okay, let me take out this backbreakingly heavy guide I've been lugging around for days.
+- **16136**: First, you join a Unity of your choosing.
+- **16137**: Then you earn accolades by completing Records of Eminence objectives.
+- **16138**: Finally, you use those accolades to procure rewards.
+- **16139**: Hopefully that was simple enough for you to wrap your pea-sized head around.
+- **16140**: You want us to enhance your $1?
+- **16141**: Our artisan requires a fee of $0 accolade[/s]. Are you willing to cough it up?
+- **16142**: I'll make sure it gets safely to him. Try not to get killed in the meantime.
+- **16143**: Have you come back to torment me!?
+- **16144**: Your $1 isn't ready yet. Shoo! Shoo!
+- **16145**: Yeah, yeah, your $1 is finally ready. I hope you choke on it.
+- **16148**: Here you go. I don't want to hear any complaints out of you.
+- **16149**: What's wrong with you? I don't have time for this nonsense!
+- **16150**: You forgot already!? You need to complete the Records of Eminence objective "$7" first!
+- **16152**: Okay, here you go. H-hey, I couldn't care less if this is for you or not!
+- **16153**: What's the matter with you? You're the one who came to me!
+- **16154**: @@
 
 ## Events
 
@@ -1007,17 +1007,17 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=16070*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=16073*)
     → "Just looking at you gives me this wonderful tingling feeling..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x03] Work_Zone[2] = 10*
-  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=16071*)
+  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=16074*)
     → "Maybe it would be even more tingly if you completed at least $0 Records of Eminence objective[/s] for me."
   7: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0015 [0x1E] EventEntity looks at Rolandienne (ID: 17719638/0x010E6156) and starts talking
   9: 0x001A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x001B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 11: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=16072*)
+ 11: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=16075*)
     → "My good friend Rolandienne can get you started!"
  12: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0020 [0x21] END_EVENT
@@ -1047,11 +1047,11 @@
   0: 0x0022 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0027 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0028 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=16070*)
+  3: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=16073*)
     → "Just looking at you gives me this wonderful tingling feeling..."
   4: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x002D [0x03] Work_Zone[2] = 10*
-  6: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=16071*)
+  6: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=16074*)
     → "Maybe it would be even more tingly if you completed at least $0 Records of Eminence objective[/s] for me."
   7: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0036 [0x21] END_EVENT
@@ -1086,7 +1086,7 @@
   4: 0x0040 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
   5: 0x0045 [0x0F] Work_Zone[2] ^= 1*
   6: 0x004A [0x03] Work_Zone[3] = 5*
-  7: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=16073*)
+  7: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=16076*)
     → "If only a [dashing prince/dazzling maiden] could win my heart over by setting the "$1" Records of Eminence objective from the "Tutorial" category..."
   8: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0053 [0x21] END_EVENT
@@ -1120,7 +1120,7 @@
   3: 0x005C [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
   4: 0x0061 [0x0F] Work_Zone[2] ^= 1*
   5: 0x0066 [0x03] Work_Zone[3] = 5*
-  6: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=16073*)
+  6: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=16076*)
     → "If only a [dashing prince/dazzling maiden] could win my heart over by setting the "$1" Records of Eminence objective from the "Tutorial" category..."
   7: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x006F [0x21] END_EVENT
@@ -2472,7 +2472,7 @@
  13: 0x018B [0x03] ExtData[1]->WorkLocal[30] = Work_Zone[4]
  14: 0x0190 [0x03] Work_Zone_1700[9] = Work_Zone[5]
  15: 0x0195 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 16: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=16109*)
+ 16: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=16112*)
     → "What do you want?"
  17: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x019E [0x06] ExtData[1]->WorkLocal[2] = 0
@@ -2491,7 +2491,7 @@ SUBROUTINE_01C5:
  29: 0x01D3 [0x05] Work_Zone[8] = 1
 
 SUBROUTINE_01D6:
- 30: 0x01D6 [0x24] CREATE_DIALOG(message_id=15992*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[5])
+ 30: 0x01D6 [0x24] CREATE_DIALOG(message_id=15995*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[5])
     → "Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]"
  31: 0x01DD [0x25] WAIT_DIALOG_SELECT()
  32: 0x01DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EE
@@ -2546,7 +2546,7 @@ SUBROUTINE_029F:
  73: 0x02BB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=1*, condition_work_offset=1*)
  74: 0x02C2 [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 7*) GOTO 0x02D0
  75: 0x02C9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=8*, condition_work_offset=1*)
- 76: 0x02D0 [0x24] CREATE_DIALOG(message_id=15993*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
+ 76: 0x02D0 [0x24] CREATE_DIALOG(message_id=15996*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
     → "Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]"
  77: 0x02D7 [0x25] WAIT_DIALOG_SELECT()
  78: 0x02D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E6
@@ -2899,7 +2899,7 @@ SUBROUTINE_07E6:
 355: 0x0810 [0x9D] IF (0x29BA) ExtData[1]->WorkLocal[25] = Work_Zone[9] // extra=0x0025
 
 SUBROUTINE_081A:
-356: 0x081A [0x24] CREATE_DIALOG(message_id=15994*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[5])
+356: 0x081A [0x24] CREATE_DIALOG(message_id=15997*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[5])
     → "Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]"
 357: 0x0821 [0x25] WAIT_DIALOG_SELECT()
 358: 0x0822 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0844
@@ -2912,9 +2912,9 @@ SUBROUTINE_08D1:
 363: 0x08D9 [0x03] ExtData[1]->WorkLocal[21] = ExtData[1]->WorkLocal[1]
 364: 0x08DE [0x08] ExtData[1]->WorkLocal[21] -= 100*
 365: 0x08E3 [0x02] IF !(ExtData[1]->WorkLocal[21] >= ExtData[1]->WorkLocal[20]) GOTO 0x090F
-366: 0x08EB [0x48] [System] [16068*]:
+366: 0x08EB [0x48] [System] [16071*]:
     → "Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?"
-367: 0x08EE [0x24] CREATE_DIALOG(message_id=16069*, default_option=0*, option_flags=0*)
+367: 0x08EE [0x24] CREATE_DIALOG(message_id=16072*, default_option=0*, option_flags=0*)
     → "Teleport anyway? [Yes, please./No, thank you.]"
 368: 0x08F5 [0x25] WAIT_DIALOG_SELECT()
 369: 0x08F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0901
@@ -2954,7 +2954,7 @@ SUBROUTINE_094C:
 399: 0x09CB [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=8*, condition_work_offset=1*)
 400: 0x09D2 [0x02] IF !(25* <= 0*) GOTO 0x09E1
 401: 0x09DA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=9*, condition_work_offset=1*)
-402: 0x09E1 [0x24] CREATE_DIALOG(message_id=15997*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
+402: 0x09E1 [0x24] CREATE_DIALOG(message_id=16000*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
     → "Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]"
 403: 0x09E8 [0x25] WAIT_DIALOG_SELECT()
 404: 0x09E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09F7
@@ -3062,7 +3062,7 @@ SUBROUTINE_0C74:
 486: 0x0CF3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=8*, condition_work_offset=1*)
 487: 0x0CFA [0x02] IF !(25* <= 0*) GOTO 0x0D09
 488: 0x0D02 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=9*, condition_work_offset=1*)
-489: 0x0D09 [0x24] CREATE_DIALOG(message_id=15997*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
+489: 0x0D09 [0x24] CREATE_DIALOG(message_id=16000*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
     → "Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]"
 490: 0x0D10 [0x25] WAIT_DIALOG_SELECT()
 491: 0x0D11 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D1F
@@ -3652,7 +3652,7 @@ SUBROUTINE_1DA2:
 953: 0x1DF5 [0x01] GOTO 0xFF01
 
 SUBROUTINE_200D:
-954: 0x200D [0x24] CREATE_DIALOG(message_id=15986*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
+954: 0x200D [0x24] CREATE_DIALOG(message_id=15989*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[5])
     → "Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]"
 955: 0x2014 [0x25] WAIT_DIALOG_SELECT()
 956: 0x2015 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2023
@@ -3668,12 +3668,12 @@ SUBROUTINE_2043:
 964: 0x2060 [0x0C] Work_Zone[2]--
 965: 0x2063 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
 966: 0x2068 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
-967: 0x206D [0x24] CREATE_DIALOG(message_id=15990*, default_option=1*, option_flags=0*)
+967: 0x206D [0x24] CREATE_DIALOG(message_id=15993*, default_option=1*, option_flags=0*)
     → "Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]"
 968: 0x2074 [0x25] WAIT_DIALOG_SELECT()
 969: 0x2075 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20AF
 970: 0x207D [0x02] IF !(ExtData[1]->WorkLocal[1] >= ExtData[1]->WorkLocal[19]) GOTO 0x208C
-971: 0x2085 [0x1D] PRINT_EVENT_MESSAGE(message_id=16111*)
+971: 0x2085 [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
     → "And you don't even have enough accolades! Ugh, what did I expect..."
 972: 0x2088 [0x23] WAIT_FOR_DIALOG_INTERACTION
 973: 0x2089 [0x01] GOTO 0x200D
@@ -3681,12 +3681,12 @@ SUBROUTINE_2043:
 975: 0x208D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=6*)
 976: 0x2096 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[18])
 977: 0x209F [0x40] SET_BIT_WORK_RANGE(start_bit=10*, end_bit=24*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[19])
-978: 0x20A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=16130*)
+978: 0x20A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=16133*)
     → "Everything should be in the clear. Go enjoy your new Unity and leave me here to rot."
 979: 0x20AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 980: 0x20AC [0x01] GOTO 0x20C1
 981: 0x20AF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x20C1
-982: 0x20B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=16131*)
+982: 0x20B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=16134*)
     → "Sweet Goddess, would you make up your mind?"
 983: 0x20BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 984: 0x20BB [0x01] GOTO 0x200D
@@ -3695,13 +3695,13 @@ SUBROUTINE_20C1:
 985: 0x20C1 [0x01] GOTO 0x231A
 986: 0x20C4 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x231A
 987: 0x20CC [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
-988: 0x20D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16132*)
+988: 0x20D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16135*)
     → "More questions? Okay, let me take out this backbreakingly heavy guide I've been lugging around for days."
 989: 0x20D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 990: 0x20D5 [0x06] ExtData[1]->WorkLocal[3] = 0
 
 SUBROUTINE_20D8:
-991: 0x20D8 [0x24] CREATE_DIALOG(message_id=15996*, default_option=ExtData[1]->WorkLocal[3], option_flags=0*)
+991: 0x20D8 [0x24] CREATE_DIALOG(message_id=15999*, default_option=ExtData[1]->WorkLocal[3], option_flags=0*)
     → "Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]"
 992: 0x20DF [0x25] WAIT_DIALOG_SELECT()
 993: 0x20E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20EE
@@ -4139,24 +4139,24 @@ SUBROUTINE_291C:
      0x0C20 [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x0C51
      0x0C28 [0x05] ExtData[1]->WorkLocal[17] = 1
      0x0C2B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0C2E [0x1D] PRINT_EVENT_MESSAGE(message_id=16113*)
+     0x0C2E [0x1D] PRINT_EVENT_MESSAGE(message_id=16116*)
     → "Here's what your new piece of equipment'll look like."
      0x0C31 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C32 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x0C35 [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
+     0x0C35 [0x1D] PRINT_EVENT_MESSAGE(message_id=16117*)
     → "If you want $0, I'll need $4, $2 $0$0 , and $3 Unity accolade[/s]."
      0x0C38 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0C39 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
+     0x0C39 [0x1D] PRINT_EVENT_MESSAGE(message_id=16118*)
     → "Don't expect it to be done right away. The artisan is busy and needs time to work."
      0x0C3C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C3D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
      0x0C42 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0C4E
-     0x0C4A [0x1D] PRINT_EVENT_MESSAGE(message_id=16116*)
+     0x0C4A [0x1D] PRINT_EVENT_MESSAGE(message_id=16119*)
     → "But hang on--you've already got a request pending for $0. Can't you be more patient!?"
      0x0C4D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C4E [0x01] GOTO 0x0C5B
      0x0C51 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0C54 [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
+     0x0C54 [0x1D] PRINT_EVENT_MESSAGE(message_id=16117*)
     → "If you want $0, I'll need $4, $2 $0$0 , and $3 Unity accolade[/s]."
      0x0C57 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C58 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -4206,39 +4206,39 @@ SUBROUTINE_291C:
      0x0F7F [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x0FC0
      0x0F87 [0x05] ExtData[1]->WorkLocal[17] = 1
      0x0F8A [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[2], buffer1=Work_Zone_1700[2], buffer2=Work_Zone_1700[3], buffer3=Work_Zone_1700[4])
-     0x0F94 [0x1D] PRINT_EVENT_MESSAGE(message_id=16117*)
+     0x0F94 [0x1D] PRINT_EVENT_MESSAGE(message_id=16120*)
     → "I suppose this is what the new attribute will be like."
      0x0F97 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F98 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[2], buffer1=Work_Zone_1700[5], buffer2=Work_Zone_1700[6], buffer3=Work_Zone_1700[7])
-     0x0FA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16118*)
+     0x0FA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16121*)
     → "This is what your equipment will be like if you increase its rank to the maximum."
      0x0FA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FA6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x0FA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16119*)
+     0x0FA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16122*)
     → "You'll need to bring me $1 along with your $0. And don't even think about forgetting my fee of $2 accolade[/s]!"
      0x0FAC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FAD [0x1D] PRINT_EVENT_MESSAGE(message_id=16120*)
+     0x0FAD [0x1D] PRINT_EVENT_MESSAGE(message_id=16123*)
     → "I also cannot accept your request unless you complete the Records of Eminence objective "$4" beforehand."
      0x0FB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16121*)
+     0x0FB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16124*)
     → "To boost your item's rank, bring me $1 that features an attribute along with some $3. The more you bring, the higher its rank will rise."
      0x0FB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=16122*)
+     0x0FB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=16125*)
     → "I am responsible for adding attributes to items as well as increasing their rank..."
      0x0FB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16123*)
+     0x0FB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16126*)
     → "H-hey, don't get the wrong idea! It's not like I learned how to do this just for you or anything!"
      0x0FBC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FBD [0x01] GOTO 0x0FE3
      0x0FC0 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[2], buffer1=Work_Zone_1700[2], buffer2=Work_Zone_1700[3], buffer3=Work_Zone_1700[4])
-     0x0FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=16119*)
+     0x0FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=16122*)
     → "You'll need to bring me $1 along with your $0. And don't even think about forgetting my fee of $2 accolade[/s]!"
      0x0FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=16120*)
+     0x0FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=16123*)
     → "I also cannot accept your request unless you complete the Records of Eminence objective "$4" beforehand."
      0x0FD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FD2 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[2], buffer1=Work_Zone_1700[5], buffer2=Work_Zone_1700[6], buffer3=Work_Zone_1700[7])
-     0x0FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=16121*)
+     0x0FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=16124*)
     → "To boost your item's rank, bring me $1 that features an attribute along with some $3. The more you bring, the higher its rank will rise."
      0x0FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FE0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -4303,24 +4303,24 @@ SUBROUTINE_291C:
      0x18AD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x18B2 [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x1914
      0x18BA [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[13])
-     0x18BD [0x1D] PRINT_EVENT_MESSAGE(message_id=16124*)
+     0x18BD [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
     → "Wow, are you sure you want to waste your accolades on $1? Hmph. That's your prerogative, but it'll cost you $0 accolade[/s]."
      0x18C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18C1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x18C4 [0x02] IF !(ExtData[1]->WorkLocal[14] <= ExtData[1]->WorkLocal[1]) GOTO 0x18D6
-     0x18CC [0x1D] PRINT_EVENT_MESSAGE(message_id=16111*)
+     0x18CC [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
     → "And you don't even have enough accolades! Ugh, what did I expect..."
      0x18CF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18D0 [0x01] GOTO 0x10E7
      0x18D3 [0x01] GOTO 0x18EA
      0x18D6 [0x02] IF !(ExtData[1]->WorkLocal[14] <= Work_Zone_1700[9]) GOTO 0x18EA
      0x18DE [0x03] Work_Zone[2] = Work_Zone_1700[9]
-     0x18E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=16112*)
+     0x18E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
     → "Hey--don't forget that you can only exchange $0 more accolade[/s] this week!"
      0x18E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18E7 [0x01] GOTO 0x10E7
      0x18EA [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
-     0x18EF [0x24] CREATE_DIALOG(message_id=16001*, default_option=1*, option_flags=0*)
+     0x18EF [0x24] CREATE_DIALOG(message_id=16004*, default_option=1*, option_flags=0*)
     → "Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]"
      0x18F6 [0x25] WAIT_DIALOG_SELECT()
      0x18F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1903
@@ -4343,7 +4343,7 @@ SUBROUTINE_291C:
      0x1953 [0x03] Work_Zone[2] = 7920*
      0x1958 [0x01] GOTO 0x195B
      0x195B [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[13])
-     0x195E [0x1D] PRINT_EVENT_MESSAGE(message_id=16125*)
+     0x195E [0x1D] PRINT_EVENT_MESSAGE(message_id=16128*)
     → "And how many would you like? (1 to $0)"
      0x1961 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1962 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4363,23 +4363,23 @@ SUBROUTINE_291C:
      0x19A9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x19AE [0x14] Work_Zone[2] *= ExtData[1]->WorkLocal[15]
      0x19B3 [0x02] IF !(Work_Zone[2] <= ExtData[1]->WorkLocal[1]) GOTO 0x19C5
-     0x19BB [0x1D] PRINT_EVENT_MESSAGE(message_id=16111*)
+     0x19BB [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
     → "And you don't even have enough accolades! Ugh, what did I expect..."
      0x19BE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19BF [0x01] GOTO 0x1914
      0x19C2 [0x01] GOTO 0x19D9
      0x19C5 [0x02] IF !(Work_Zone[2] <= Work_Zone_1700[9]) GOTO 0x19D9
      0x19CD [0x03] Work_Zone[2] = Work_Zone_1700[9]
-     0x19D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16112*)
+     0x19D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
     → "Hey--don't forget that you can only exchange $0 more accolade[/s] this week!"
      0x19D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19D6 [0x01] GOTO 0x1914
-     0x19D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16126*)
+     0x19D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16129*)
     → "$2 $0$0 will run you $0 accolade[/s]."
      0x19DC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19DD [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
      0x19E2 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-     0x19E7 [0x24] CREATE_DIALOG(message_id=16002*, default_option=1*, option_flags=0*)
+     0x19E7 [0x24] CREATE_DIALOG(message_id=16005*, default_option=1*, option_flags=0*)
     → "$3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]"
      0x19EE [0x25] WAIT_DIALOG_SELECT()
      0x19EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19FB
@@ -4388,7 +4388,7 @@ SUBROUTINE_291C:
      0x19FB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1A09
      0x1A03 [0x01] GOTO 0x10E7
      0x1A06 [0x01] GOTO 0x1A09
-     0x1A09 [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
+     0x1A09 [0x1D] PRINT_EVENT_MESSAGE(message_id=16130*)
     → "That's fine. I didn't want your stinking accolades anyway."
      0x1A0C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A0D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=4*)
@@ -4454,24 +4454,24 @@ SUBROUTINE_291C:
      0x1E87 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x1E8C [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x1EEE
      0x1E94 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[13])
-     0x1E97 [0x1D] PRINT_EVENT_MESSAGE(message_id=16124*)
+     0x1E97 [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
     → "Wow, are you sure you want to waste your accolades on $1? Hmph. That's your prerogative, but it'll cost you $0 accolade[/s]."
      0x1E9A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E9B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x1E9E [0x02] IF !(ExtData[1]->WorkLocal[14] <= ExtData[1]->WorkLocal[1]) GOTO 0x1EB0
-     0x1EA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16111*)
+     0x1EA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
     → "And you don't even have enough accolades! Ugh, what did I expect..."
      0x1EA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EAA [0x01] GOTO 0x1AE1
      0x1EAD [0x01] GOTO 0x1EC4
      0x1EB0 [0x02] IF !(ExtData[1]->WorkLocal[14] <= Work_Zone_1700[9]) GOTO 0x1EC4
      0x1EB8 [0x03] Work_Zone[2] = Work_Zone_1700[9]
-     0x1EBD [0x1D] PRINT_EVENT_MESSAGE(message_id=16112*)
+     0x1EBD [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
     → "Hey--don't forget that you can only exchange $0 more accolade[/s] this week!"
      0x1EC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EC1 [0x01] GOTO 0x1AE1
      0x1EC4 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
-     0x1EC9 [0x24] CREATE_DIALOG(message_id=16001*, default_option=1*, option_flags=0*)
+     0x1EC9 [0x24] CREATE_DIALOG(message_id=16004*, default_option=1*, option_flags=0*)
     → "Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]"
      0x1ED0 [0x25] WAIT_DIALOG_SELECT()
      0x1ED1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EDD
@@ -4488,7 +4488,7 @@ SUBROUTINE_291C:
      0x1F05 [0x02] IF !(Work_Zone[2] <= 960*) GOTO 0x1F12
      0x1F0D [0x03] Work_Zone[2] = 960*
      0x1F12 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[13])
-     0x1F15 [0x1D] PRINT_EVENT_MESSAGE(message_id=16125*)
+     0x1F15 [0x1D] PRINT_EVENT_MESSAGE(message_id=16128*)
     → "And how many would you like? (1 to $0)"
      0x1F18 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F19 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4502,23 +4502,23 @@ SUBROUTINE_291C:
      0x1F3F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
      0x1F44 [0x14] Work_Zone[2] *= ExtData[1]->WorkLocal[15]
      0x1F49 [0x02] IF !(Work_Zone[2] <= ExtData[1]->WorkLocal[1]) GOTO 0x1F5B
-     0x1F51 [0x1D] PRINT_EVENT_MESSAGE(message_id=16111*)
+     0x1F51 [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
     → "And you don't even have enough accolades! Ugh, what did I expect..."
      0x1F54 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F55 [0x01] GOTO 0x1EEE
      0x1F58 [0x01] GOTO 0x1F6F
      0x1F5B [0x02] IF !(Work_Zone[2] <= Work_Zone_1700[9]) GOTO 0x1F6F
      0x1F63 [0x03] Work_Zone[2] = Work_Zone_1700[9]
-     0x1F68 [0x1D] PRINT_EVENT_MESSAGE(message_id=16112*)
+     0x1F68 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
     → "Hey--don't forget that you can only exchange $0 more accolade[/s] this week!"
      0x1F6B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F6C [0x01] GOTO 0x1EEE
-     0x1F6F [0x1D] PRINT_EVENT_MESSAGE(message_id=16126*)
+     0x1F6F [0x1D] PRINT_EVENT_MESSAGE(message_id=16129*)
     → "$2 $0$0 will run you $0 accolade[/s]."
      0x1F72 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F73 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
      0x1F78 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-     0x1F7D [0x24] CREATE_DIALOG(message_id=16002*, default_option=1*, option_flags=0*)
+     0x1F7D [0x24] CREATE_DIALOG(message_id=16005*, default_option=1*, option_flags=0*)
     → "$3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]"
      0x1F84 [0x25] WAIT_DIALOG_SELECT()
      0x1F85 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F91
@@ -4527,7 +4527,7 @@ SUBROUTINE_291C:
      0x1F91 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1F9F
      0x1F99 [0x01] GOTO 0x1AE1
      0x1F9C [0x01] GOTO 0x1F9F
-     0x1F9F [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
+     0x1F9F [0x1D] PRINT_EVENT_MESSAGE(message_id=16130*)
     → "That's fine. I didn't want your stinking accolades anyway."
      0x1FA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FA3 [0x15] ExtData[1]->WorkLocal[25] /= 8*
@@ -6197,25 +6197,25 @@ SUBROUTINE_291C:
   4: 0x44E9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x44EA [0x03] Work_Zone[1] = 0*
   6: 0x44EF [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x4538
-  7: 0x44F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=16137*)
+  7: 0x44F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=16140*)
     → "You want us to enhance your $1?"
   8: 0x44FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x44FB [0x1D] PRINT_EVENT_MESSAGE(message_id=16138*)
+  9: 0x44FB [0x1D] PRINT_EVENT_MESSAGE(message_id=16141*)
     → "Our artisan requires a fee of $0 accolade[/s]. Are you willing to cough it up?"
  10: 0x44FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x44FF [0x03] ExtData[1]->WorkLocal[2] = 1*
- 12: 0x4504 [0x24] CREATE_DIALOG(message_id=16005*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
+ 12: 0x4504 [0x24] CREATE_DIALOG(message_id=16008*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
     → "Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]"
  13: 0x450B [0x25] WAIT_DIALOG_SELECT()
  14: 0x450C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4521
  15: 0x4514 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 16: 0x4515 [0x1D] PRINT_EVENT_MESSAGE(message_id=16139*)
+ 16: 0x4515 [0x1D] PRINT_EVENT_MESSAGE(message_id=16142*)
     → "I'll make sure it gets safely to him. Try not to get killed in the meantime."
  17: 0x4518 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x4519 [0x03] Work_Zone[1] = 1*
  19: 0x451E [0x01] GOTO 0x4535
  20: 0x4521 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x4535
- 21: 0x4529 [0x1D] PRINT_EVENT_MESSAGE(message_id=16140*)
+ 21: 0x4529 [0x1D] PRINT_EVENT_MESSAGE(message_id=16143*)
     → "Have you come back to torment me!?"
  22: 0x452C [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x452D [0x03] Work_Zone[1] = 2*
@@ -6227,19 +6227,19 @@ SUBROUTINE_4535:
  27: 0x4540 [0x03] Work_Zone[3] = Work_Zone[6]
  28: 0x4545 [0x03] Work_Zone[4] = (LocalPlayer->Render.Flags01 >> 25) & 1
  29: 0x454A [0x0F] Work_Zone[4] ^= 1*
- 30: 0x454F [0x1D] PRINT_EVENT_MESSAGE(message_id=16141*)
+ 30: 0x454F [0x1D] PRINT_EVENT_MESSAGE(message_id=16144*)
     → "Your $1 isn't ready yet. Shoo! Shoo!"
  31: 0x4552 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x4553 [0x03] Work_Zone[1] = 3*
  33: 0x4558 [0x01] GOTO 0x46DE
  34: 0x455B [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x456F
- 35: 0x4563 [0x1D] PRINT_EVENT_MESSAGE(message_id=16142*)
+ 35: 0x4563 [0x1D] PRINT_EVENT_MESSAGE(message_id=16145*)
     → "Yeah, yeah, your $1 is finally ready. I hope you choke on it."
  36: 0x4566 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x4567 [0x03] Work_Zone[1] = 4*
  38: 0x456C [0x01] GOTO 0x46DE
  39: 0x456F [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x4583
- 40: 0x4577 [0x1D] PRINT_EVENT_MESSAGE(message_id=16111*)
+ 40: 0x4577 [0x1D] PRINT_EVENT_MESSAGE(message_id=16114*)
     → "And you don't even have enough accolades! Ugh, what did I expect..."
  41: 0x457A [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x457B [0x03] Work_Zone[1] = 0*
@@ -6261,7 +6261,7 @@ SUBROUTINE_4535:
  58: 0x45DC [0xFF] UNKNOWN_OPCODE_0xFF
  59: 0x45DD [0x7F] WAIT_DIALOG_SELECT_ALT()
  60: 0x45DE [0x6D] DEPRECATED_OPCODE(unused1=0x6961, unused2=0x1A6E, unused3=0x4722)
- 61: 0x45E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=16145*)
+ 61: 0x45E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=16148*)
     → "Here you go. I don't want to hear any complaints out of you."
  62: 0x45E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x45E9 [0x03] Work_Zone[1] = 5*
@@ -6296,14 +6296,14 @@ SUBROUTINE_46DE:
 ```
 # Dead code (unreachable instructions):
      0x45F1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x4605
-     0x45F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16146*)
+     0x45F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16149*)
     → "What's wrong with you? I don't have time for this nonsense!"
      0x45FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x45FD [0x03] Work_Zone[1] = 2*
      0x4602 [0x01] GOTO 0x4605
 # Dead code (unreachable instructions):
      0x4665 [0x04] DEPRECATED_NOP(unused=0xD480)
-     0x4668 [0x02] IF !(16007* <= ExtData[1]->WorkLocal[2]) GOTO 0x2580
+     0x4668 [0x02] IF !(16010* <= ExtData[1]->WorkLocal[2]) GOTO 0x2580
      0x4670 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x46AE
      0x4678 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x4679 [0x1A] CALL_SUBROUTINE(address=0x4743)
@@ -6311,13 +6311,13 @@ SUBROUTINE_46DE:
      0x467F [0xC5] LOAD_SCHEDULED_TASK_ALT3: Load scheduler 0x80126E69 for entities [EventEntity, EventEntity], work=124*, param=24941
      0x4690 [0xC6] WAIT_LOAD_SCHEDULER_ALT3: Wait for scheduler "main" with entities [EventEntity, EventEntity], work=124*
      0x469F [0x1A] CALL_SUBROUTINE(address=0x4722)
-     0x46A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16149*)
+     0x46A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16152*)
     → "Okay, here you go. H-hey, I couldn't care less if this is for you or not!"
      0x46A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x46A6 [0x03] Work_Zone[1] = 6*
      0x46AB [0x01] GOTO 0x46C2
      0x46AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x46C2
-     0x46B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16150*)
+     0x46B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16153*)
     → "What's the matter with you? You're the one who came to me!"
      0x46B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x46BA [0x03] Work_Zone[1] = 2*
@@ -6415,7 +6415,7 @@ SUBROUTINE_46DE:
   1: 0x4976 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x4977 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x4978 [0x06] ExtData[1]->WorkLocal[2] = 0
-  4: 0x497B [0x24] CREATE_DIALOG(message_id=15986*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
+  4: 0x497B [0x24] CREATE_DIALOG(message_id=15989*, default_option=ExtData[1]->WorkLocal[2], option_flags=0*)
     → "Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]"
   5: 0x4982 [0x25] WAIT_DIALOG_SELECT()
   6: 0x4983 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4994
@@ -6426,9 +6426,9 @@ SUBROUTINE_4994:
   9: 0x4994 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
  10: 0x4999 [0x03] Work_Zone[2] = Work_Zone[0]
  11: 0x499E [0x0C] Work_Zone[2]--
- 12: 0x49A1 [0x48] [System] [15987*]:
+ 12: 0x49A1 [0x48] [System] [15990*]:
     → "Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?"
- 13: 0x49A4 [0x24] CREATE_DIALOG(message_id=15988*, default_option=1*, option_flags=0*)
+ 13: 0x49A4 [0x24] CREATE_DIALOG(message_id=15991*, default_option=1*, option_flags=0*)
     → "Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]"
  14: 0x49AB [0x25] WAIT_DIALOG_SELECT()
  15: 0x49AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x49BF

@@ -71,13 +71,13 @@
 |      13 | 0x220D      |        8717 |
 |      14 | 0x0001      |           1 |
 |      15 | 0x0000      |           0 |
-|      16 | 0x2E60      |       11872 |
+|      16 | 0x2E63      |       11875 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x2E82      |       11906 |
-|      19 | 0x2E83      |       11907 |
-|      20 | 0x2E84      |       11908 |
-|      21 | 0x2E95      |       11925 |
-|      22 | 0x2E96      |       11926 |
+|      18 | 0x2E85      |       11909 |
+|      19 | 0x2E86      |       11910 |
+|      20 | 0x2E87      |       11911 |
+|      21 | 0x2E98      |       11928 |
+|      22 | 0x2E99      |       11929 |
 
 ## String References
 
@@ -90,12 +90,12 @@
 - **8713**: His eye carved out by a briny blusterrr His heart pierced by a scorpion's sting Cloaked in his treasure's golden lusterrr Beneath the earth sleeps that pirate king.
 - **8715**: Hold your horrrses, Soni-Muni! I've hearrrd that maze is no walk in the park. We don't stand a chance at our current level, so we'd better get some trainin' in firrrst!
 - **8717**: But then we wouldn't have heard the lowdown on the Maze of Shakhrami, would we? Rrright?
-- **11872**: Ask if this person is the chick's owner? [Yes./No.]
-- **11906**: You've got me chocobo!?
-- **11907**: Me feathered mate is livin' in safety, then? I've neverrr heard such happy tidin's! I'll be sure to watch the little fella close from now on!
-- **11908**: Let me show me grrratitude by tellin' you a story I often tell me little mate...
-- **11925**: You say you've got me chocobo?
-- **11926**: I'm afraid you've got the wrong person. Adventurers are bound to make mistakes from time to time, so don't let it get you down, mate.
+- **11875**: Ask if this person is the chick's owner? [Yes./No.]
+- **11909**: You've got me chocobo!?
+- **11910**: Me feathered mate is livin' in safety, then? I've neverrr heard such happy tidin's! I'll be sure to watch the little fella close from now on!
+- **11911**: Let me show me grrratitude by tellin' you a story I often tell me little mate...
+- **11928**: You say you've got me chocobo?
+- **11929**: I'm afraid you've got the wrong person. Adventurers are bound to make mistakes from time to time, so don't let it get you down, mate.
 
 ## Events
 
@@ -1046,7 +1046,7 @@
      0x0222 [0x03] Work_Zone[1] = 0*
      0x0227 [0x01] GOTO 0x02AB
      0x022A [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x022B [0x24] CREATE_DIALOG(message_id=11872*, default_option=1*, option_flags=0*)
+     0x022B [0x24] CREATE_DIALOG(message_id=11875*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0232 [0x25] WAIT_DIALOG_SELECT()
      0x0233 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029B
@@ -1056,23 +1056,23 @@
      0x0248 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x024A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x024C [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0281
-     0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=11906*)
+     0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=11909*)
     → "You've got me chocobo!?"
      0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-     0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11907*)
+     0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11910*)
     → "Me feathered mate is livin' in safety, then? I've neverrr heard such happy tidin's! I'll be sure to watch the little fella close from now on!"
      0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x026B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
-     0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=11908*)
+     0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=11911*)
     → "Let me show me grrratitude by tellin' you a story I often tell me little mate..."
      0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x027E [0x01] GOTO 0x0298
-     0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=11925*)
+     0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=11928*)
     → "You say you've got me chocobo?"
      0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0285 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-     0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=11926*)
+     0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=11929*)
     → "I'm afraid you've got the wrong person. Adventurers are bound to make mistakes from time to time, so don't let it get you down, mate."
      0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0298 [0x01] GOTO 0x02AB

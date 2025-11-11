@@ -38,11 +38,11 @@
 |       4 | 0x0001      |           1 |
 |       5 | 0x40000000  |  1073741824 |
 |       6 | 0x001E      |          30 |
-|       7 | 0x2ECA      |       11978 |
-|       8 | 0x2EEC      |       12012 |
-|       9 | 0x2EFE      |       12030 |
-|      10 | 0x2EED      |       12013 |
-|      11 | 0x2EEE      |       12014 |
+|       7 | 0x2ECD      |       11981 |
+|       8 | 0x2EEF      |       12015 |
+|       9 | 0x2F01      |       12033 |
+|      10 | 0x2EF0      |       12016 |
+|      11 | 0x2EF1      |       12017 |
 |      12 | 0x0060      |          96 |
 |      13 | 0x000B      |          11 |
 |      14 | 0xF906      |       63750 |
@@ -76,11 +76,11 @@
 
 - **8447**: Send an item? [Send something./No, thanks.]
 - **8448**: Parcels delivered to rooms anywhere in Vana'diel!
-- **11978**: Ask if this person is the chick's owner? [Yes./No.]
-- **12012**: What's this? You have a parcel for me?
-- **12013**: Not a parcel, but a chocobo, you say!? Merciful Altana! My chocobo is safe, right? I thought I could take her on a walk between deliveries, but afterwards I accidentally left her with the parcels I delivered!
-- **12014**: You have my utmost thanks for finding her. Let me teach you a story I often tell my chocobo...
-- **12030**: Not a parcel, but a chocobo, you say? You must be mistaken. I was with my chocobo mere moments ago.
+- **11981**: Ask if this person is the chick's owner? [Yes./No.]
+- **12015**: What's this? You have a parcel for me?
+- **12016**: Not a parcel, but a chocobo, you say!? Merciful Altana! My chocobo is safe, right? I thought I could take her on a walk between deliveries, but afterwards I accidentally left her with the parcels I delivered!
+- **12017**: You have my utmost thanks for finding her. Let me teach you a story I often tell my chocobo...
+- **12033**: Not a parcel, but a chocobo, you say? You must be mistaken. I was with my chocobo mere moments ago.
 
 ## Events
 
@@ -204,7 +204,7 @@ SUBROUTINE_0049:
 ```
   0: 0x004E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x004F [0x03] Work_Zone[1] = 0*
-  2: 0x0054 [0x24] CREATE_DIALOG(message_id=11978*, default_option=1*, option_flags=0*)
+  2: 0x0054 [0x24] CREATE_DIALOG(message_id=11981*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
   3: 0x005B [0x25] WAIT_DIALOG_SELECT()
   4: 0x005C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C4
@@ -214,23 +214,23 @@ SUBROUTINE_0049:
   8: 0x0071 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   9: 0x0073 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  10: 0x0075 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0097
- 11: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=12012*)
+ 11: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=12015*)
     → "What's this? You have a parcel for me?"
  12: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0081 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=12030*)
+ 14: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
     → "Not a parcel, but a chocobo, you say? You must be mistaken. I was with my chocobo mere moments ago."
  15: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0094 [0x01] GOTO 0x00C1
- 17: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12012*)
+ 17: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12015*)
     → "What's this? You have a parcel for me?"
  18: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 20: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12013*)
+ 20: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12016*)
     → "Not a parcel, but a chocobo, you say!? Merciful Altana! My chocobo is safe, right? I thought I could take her on a walk between deliveries, but afterwards I accidentally left her with the parcels I delivered!"
  21: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 23: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12014*)
+ 23: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12017*)
     → "You have my utmost thanks for finding her. Let me teach you a story I often tell my chocobo..."
  24: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

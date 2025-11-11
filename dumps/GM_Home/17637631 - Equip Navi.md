@@ -22,7 +22,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x241E      |        9246 |
+|       2 | 0x241F      |        9247 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0004      |           4 |
@@ -33,7 +33,7 @@
 
 ## String References
 
-- **9246**: Choose one. [Face: $1./Head: $2./Chest: $3./Hands: $4./Legs: $5./Feet: $6./Right: $7./Left: $8./Reset./End.]
+- **9247**: Choose one. [Face: $1./Head: $2./Chest: $3./Hands: $4./Legs: $5./Feet: $6./Right: $7./Left: $8./Reset./End.]
 
 ## Events
 
@@ -110,7 +110,7 @@
   1: 0x0004 [0x03] ExtData[1]->WorkLocal[0] = 1*
   2: 0x0009 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x00FD
   3: 0x0011 [0x06] ExtData[1]->WorkLocal[2] = 0
-  4: 0x0014 [0x24] CREATE_DIALOG(message_id=9246*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
+  4: 0x0014 [0x24] CREATE_DIALOG(message_id=9247*, default_option=ExtData[1]->WorkLocal[1], option_flags=0*)
     → "Choose one. [Face: $1./Head: $2./Chest: $3./Hands: $4./Legs: $5./Feet: $6./Right: $7./Left: $8./Reset./End.]"
   5: 0x001B [0x25] WAIT_DIALOG_SELECT()
   6: 0x001C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0032

@@ -36,23 +36,23 @@
 |      13 | 0x000F      |          15 |
 |      14 | 0x0011      |          17 |
 |      15 | 0x000A      |          10 |
-|      16 | 0x3B2B      |       15147 |
-|      17 | 0x3B2C      |       15148 |
-|      18 | 0x3B2D      |       15149 |
-|      19 | 0x3B2E      |       15150 |
-|      20 | 0x3B30      |       15152 |
-|      21 | 0x3B31      |       15153 |
-|      22 | 0x3B2F      |       15151 |
+|      16 | 0x3B2E      |       15150 |
+|      17 | 0x3B2F      |       15151 |
+|      18 | 0x3B30      |       15152 |
+|      19 | 0x3B31      |       15153 |
+|      20 | 0x3B33      |       15155 |
+|      21 | 0x3B34      |       15156 |
+|      22 | 0x3B32      |       15154 |
 |      23 | 0x0015      |          21 |
 |      24 | 0x0F2D      |        3885 |
 |      25 | 0x61A8      |       25000 |
-|      26 | 0x3B35      |       15157 |
-|      27 | 0x3B36      |       15158 |
+|      26 | 0x3B38      |       15160 |
+|      27 | 0x3B39      |       15161 |
 |      28 | 0x0010      |          16 |
 |      29 | 0x0014      |          20 |
-|      30 | 0x3B32      |       15154 |
-|      31 | 0x3B33      |       15155 |
-|      32 | 0x3B34      |       15156 |
+|      30 | 0x3B35      |       15157 |
+|      31 | 0x3B36      |       15158 |
+|      32 | 0x3B37      |       15159 |
 |      33 | 0x00C8      |         200 |
 |      34 | 0x001B      |          27 |
 |      35 | 0x014F      |         335 |
@@ -64,7 +64,7 @@
 |      41 | 0x00B4      |         180 |
 |      42 | 0x0066      |         102 |
 |      43 | 0x003C      |          60 |
-|      44 | 0x3B37      |       15159 |
+|      44 | 0x3B3A      |       15162 |
 |      45 | 0x001E      |          30 |
 |      46 | 0x0007      |           7 |
 |      47 | 0xFFFB7BC0  |  4294671296 |
@@ -79,47 +79,47 @@
 |      56 | 0x012C      |         300 |
 |      57 | 0x0088      |         136 |
 |      58 | 0xFFFF      |       65535 |
-|      59 | 0x3B3A      |       15162 |
-|      60 | 0x3B3B      |       15163 |
+|      59 | 0x3B3D      |       15165 |
+|      60 | 0x3B3E      |       15166 |
 |      61 | 0x006B      |         107 |
-|      62 | 0x3B43      |       15171 |
+|      62 | 0x3B46      |       15174 |
 |      63 | 0x0023      |          35 |
-|      64 | 0x3B3E      |       15166 |
-|      65 | 0x3B40      |       15168 |
+|      64 | 0x3B41      |       15169 |
+|      65 | 0x3B43      |       15171 |
 |      66 | 0x01AA      |         426 |
-|      67 | 0x3B3F      |       15167 |
-|      68 | 0x3B41      |       15169 |
-|      69 | 0x3B3D      |       15165 |
+|      67 | 0x3B42      |       15170 |
+|      68 | 0x3B44      |       15172 |
+|      69 | 0x3B40      |       15168 |
 |      70 | 0x001A      |          26 |
-|      71 | 0x3B42      |       15170 |
+|      71 | 0x3B45      |       15173 |
 |      72 | 0x007F      |         127 |
 |      73 | 0x009F      |         159 |
 |      74 | 0xFFFFFF81  |  4294967169 |
 
 ## String References
 
-- **15147**: Merry Starlight! Step right up and play "Find the Difference"!
-- **15148**: Those are quite the mittens you've got there! I have the utmost confidence that someone of your exquisite tastes can tackle an exclusive, more challenging version of my parlor trick.
-- **15149**: What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my plans./Not interested in playing, thank you.]
-- **15150**: In this game, I shall show you the same scene twice. The second time, however, there will be slight differences from the first. Your task is to discern what those differences are.
-- **15151**: Make even one mistake, however, and you shall inhale the sour stench of failure.
-- **15152**: In the advanced version, the number of differences increases to five. Take not this challenge lightly!
-- **15153**: Remember--espying them all spells victory, while even the most meager of mistakes ensures your defeat.
-- **15154**: One play will set you back $1 gil. Do you still wish to try your luck?
-- **15155**: Participate in this game? (You currently have $1 gil.) [Let's get this started!/Maybe another time.]
-- **15156**: Marvelous!
-- **15157**: I was sure I had some lying around here somewhere... Another $0 will cost you $1 gil. What say you?
-- **15158**: Purchase the plans? [Yes./No.]
-- **15159**: Here we go![/!!]
-- **15162**: What was different? (No. $1) [The [Galka's/male Hume's/female Hume's/male Elvaan's/female Elvaan's/Mithra's] head gear./The female Tarutaru's expression./The [female Hume's/Mithra's] weapon./The direction the [male Hume/female Hume/male Elvaan/female Elvaan/Galka/Mithra] faced./The kind of treasure chest./Rabbit in the treasure chest./Different chest for the chocobo./The order in which the doors closed./The [male Elvaan's/female Hume's/Galka's] weapon./The [female Elvaan's/male Hume's/female Hume's/male Elvaan's/Galka's/Mithra's] leggings./The singing Tarutarus' location./The no. of "!" after "Here we go!"/The type of wind instrument./The order the treasure chests open./The number of baby chocobos running./The length of the scene./Give up.]
-- **15163**: Truly stop playing? [Yes./No] .
-- **15165**: Well done, [good sir/fair lady]! You have the eyes of an eagle! Without any further ado, here is your prize.
-- **15166**: Of course someone of as high a caliber as yourself would be able to triumph over even the most formidable of challenges. Here, you are more than deserving of this prize!
-- **15167**: As vital as it may be, it means absolutely nothing without the two other elements obtained from my compatriots in Bastok and Windurst.
-- **15168**: Hold on--I see that with this, you have accumulated all three pieces of this seasonal puzzle. All that is left now is for you to synthesize them.
-- **15169**: Allow me to reward you for the extra effort you have exerted. Use this with an $1, and you can fill your Mog House with familiar and nostalgic melodies whenever you so desire.
-- **15170**: I am sorry, but that is incorrect. May Altana smile upon you one day, [good sir/fair lady].
-- **15171**: Not all of us are blessed with immaculate perspicacity, but it shall come in time.
+- **15150**: Merry Starlight! Step right up and play "Find the Difference"!
+- **15151**: Those are quite the mittens you've got there! I have the utmost confidence that someone of your exquisite tastes can tackle an exclusive, more challenging version of my parlor trick.
+- **15152**: What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my plans./Not interested in playing, thank you.]
+- **15153**: In this game, I shall show you the same scene twice. The second time, however, there will be slight differences from the first. Your task is to discern what those differences are.
+- **15154**: Make even one mistake, however, and you shall inhale the sour stench of failure.
+- **15155**: In the advanced version, the number of differences increases to five. Take not this challenge lightly!
+- **15156**: Remember--espying them all spells victory, while even the most meager of mistakes ensures your defeat.
+- **15157**: One play will set you back $1 gil. Do you still wish to try your luck?
+- **15158**: Participate in this game? (You currently have $1 gil.) [Let's get this started!/Maybe another time.]
+- **15159**: Marvelous!
+- **15160**: I was sure I had some lying around here somewhere... Another $0 will cost you $1 gil. What say you?
+- **15161**: Purchase the plans? [Yes./No.]
+- **15162**: Here we go![/!!]
+- **15165**: What was different? (No. $1) [The [Galka's/male Hume's/female Hume's/male Elvaan's/female Elvaan's/Mithra's] head gear./The female Tarutaru's expression./The [female Hume's/Mithra's] weapon./The direction the [male Hume/female Hume/male Elvaan/female Elvaan/Galka/Mithra] faced./The kind of treasure chest./Rabbit in the treasure chest./Different chest for the chocobo./The order in which the doors closed./The [male Elvaan's/female Hume's/Galka's] weapon./The [female Elvaan's/male Hume's/female Hume's/male Elvaan's/Galka's/Mithra's] leggings./The singing Tarutarus' location./The no. of "!" after "Here we go!"/The type of wind instrument./The order the treasure chests open./The number of baby chocobos running./The length of the scene./Give up.]
+- **15166**: Truly stop playing? [Yes./No] .
+- **15168**: Well done, [good sir/fair lady]! You have the eyes of an eagle! Without any further ado, here is your prize.
+- **15169**: Of course someone of as high a caliber as yourself would be able to triumph over even the most formidable of challenges. Here, you are more than deserving of this prize!
+- **15170**: As vital as it may be, it means absolutely nothing without the two other elements obtained from my compatriots in Bastok and Windurst.
+- **15171**: Hold on--I see that with this, you have accumulated all three pieces of this seasonal puzzle. All that is left now is for you to synthesize them.
+- **15172**: Allow me to reward you for the extra effort you have exerted. Use this with an $1, and you can fill your Mog House with familiar and nostalgic melodies whenever you so desire.
+- **15173**: I am sorry, but that is incorrect. May Altana smile upon you one day, [good sir/fair lady].
+- **15174**: Not all of us are blessed with immaculate perspicacity, but it shall come in time.
 
 ## Events
 
@@ -519,12 +519,12 @@ SUBROUTINE_00DB:
 
 SUBROUTINE_00EB:
  43: 0x00EB [0x1E] EventEntity looks at LocalPlayer and starts talking
- 44: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15147*)
+ 44: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=15150*)
     → "Merry Starlight! Step right up and play "Find the Difference"!"
  45: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x00F4 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0105
  47: 0x00FC [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 48: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=15148*)
+ 48: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=15151*)
     → "Those are quite the mittens you've got there! I have the utmost confidence that someone of your exquisite tastes can tackle an exclusive, more challenging version of my parlor trick."
  49: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -543,22 +543,22 @@ SUBROUTINE_0124:
  59: 0x0136 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=3*, condition_work_offset=1*)
 
 SUBROUTINE_013D:
- 60: 0x013D [0x24] CREATE_DIALOG(message_id=15149*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 60: 0x013D [0x24] CREATE_DIALOG(message_id=15152*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my plans./Not interested in playing, thank you.]"
  61: 0x0144 [0x25] WAIT_DIALOG_SELECT()
  62: 0x0145 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016E
- 63: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=15150*)
+ 63: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=15153*)
     → "In this game, I shall show you the same scene twice. The second time, however, there will be slight differences from the first. Your task is to discern what those differences are."
  64: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0151 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0164
- 66: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=15152*)
+ 66: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=15155*)
     → "In the advanced version, the number of differences increases to five. Take not this challenge lightly!"
  67: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=15153*)
+ 68: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=15156*)
     → "Remember--espying them all spells victory, while even the most meager of mistakes ensures your defeat."
  69: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0161 [0x01] GOTO 0x0168
- 71: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=15151*)
+ 71: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=15154*)
     → "Make even one mistake, however, and you shall inhale the sour stench of failure."
  72: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -574,13 +574,13 @@ SUBROUTINE_01DF:
 
 SUBROUTINE_01E1:
  77: 0x01E1 [0x03] Work_Zone[3] = 10*
- 78: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15154*)
+ 78: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15157*)
     → "One play will set you back $1 gil. Do you still wish to try your luck?"
  79: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x01EA [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=20*, target=Work_Zone[1], source=1*)
  81: 0x01F3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  82: 0x01F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 83: 0x01F7 [0x24] CREATE_DIALOG(message_id=15155*, default_option=1*, option_flags=0*)
+ 83: 0x01F7 [0x24] CREATE_DIALOG(message_id=15158*, default_option=1*, option_flags=0*)
     → "Participate in this game? (You currently have $1 gil.) [Let's get this started!/Maybe another time.]"
  84: 0x01FE [0x25] WAIT_DIALOG_SELECT()
  85: 0x01FF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x020D
@@ -593,7 +593,7 @@ SUBROUTINE_020D:
  90: 0x0219 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  91: 0x021B [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0233
  92: 0x0223 [0x41] ExtData[1]->WorkLocal[25] = Work_Zone[5] (bits 0*-15*)
- 93: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=15156*)
+ 93: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=15159*)
     → "Marvelous!"
  94: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0230 [0x1A] CALL_SUBROUTINE(address=0x0234)
@@ -691,7 +691,7 @@ SUBROUTINE_0439:
 177: 0x0460 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 11*) GOTO 0x0474
 178: 0x0467 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0474
 179: 0x046F [0x0F] Work_Zone[2] ^= 1*
-180: 0x0474 [0x48] [System] [15159*]:
+180: 0x0474 [0x48] [System] [15162*]:
     → "Here we go![/!!]"
 181: 0x0477 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x0478 [0x3E] IF !(ExtData[1]->WorkLocal[25] bit 15*) GOTO 0x048A
@@ -1046,11 +1046,11 @@ SUBROUTINE_0BB0:
 
 SUBROUTINE_0BBD:
 465: 0x0BBD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
-466: 0x0BC2 [0x24] CREATE_DIALOG(message_id=15162*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+466: 0x0BC2 [0x24] CREATE_DIALOG(message_id=15165*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "What was different? (No. $1) [The [Galka's/male Hume's/female Hume's/male Elvaan's/female Elvaan's/Mithra's] head gear./The female Tarutaru's expression./The [female Hume's/Mithra's] weapon./The direction the [male Hume/female Hume/male Elvaan/female Elvaan/Galka/Mithra] faced./The kind of treasure chest./Rabbit in the treasure chest./Different chest for the chocobo./The order in which the doors closed./The [male Elvaan's/female Hume's/Galka's] weapon./The [female Elvaan's/male Hume's/female Hume's/male Elvaan's/Galka's/Mithra's] leggings./The singing Tarutarus' location./The no. of "!" after "Here we go!"/The type of wind instrument./The order the treasure chests open./The number of baby chocobos running./The length of the scene./Give up.]"
 467: 0x0BC9 [0x25] WAIT_DIALOG_SELECT()
 468: 0x0BCA [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0C68
-469: 0x0BD2 [0x24] CREATE_DIALOG(message_id=15163*, default_option=1*, option_flags=0*)
+469: 0x0BD2 [0x24] CREATE_DIALOG(message_id=15166*, default_option=1*, option_flags=0*)
     → "Truly stop playing? [Yes./No] ."
 470: 0x0BD9 [0x25] WAIT_DIALOG_SELECT()
 471: 0x0BDA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C57
@@ -1068,7 +1068,7 @@ SUBROUTINE_0BBD:
 483: 0x0C42 [0x1C] WAIT(60* ticks)
 484: 0x0C45 [0x1E] EventEntity looks at LocalPlayer and starts talking
 485: 0x0C4A [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
-486: 0x0C4F [0x1D] PRINT_EVENT_MESSAGE(message_id=15171*)
+486: 0x0C4F [0x1D] PRINT_EVENT_MESSAGE(message_id=15174*)
     → "Not all of us are blessed with immaculate perspicacity, but it shall come in time."
 487: 0x0C52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 488: 0x0C53 [0x21] END_EVENT
@@ -1113,31 +1113,31 @@ SUBROUTINE_0C68:
 523: 0x0D6A [0x1E] EventEntity looks at LocalPlayer and starts talking
 524: 0x0D6F [0x3E] IF !(Work_Zone[7] bit 0*) GOTO 0x0DB6
 525: 0x0D76 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
-526: 0x0D7B [0x1D] PRINT_EVENT_MESSAGE(message_id=15166*)
+526: 0x0D7B [0x1D] PRINT_EVENT_MESSAGE(message_id=15169*)
     → "Of course someone of as high a caliber as yourself would be able to triumph over even the most formidable of challenges. Here, you are more than deserving of this prize!"
 527: 0x0D7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 528: 0x0D7F [0x3E] IF !(Work_Zone[7] bit 1*) GOTO 0x0D89
 529: 0x0D86 [0x01] GOTO 0x0DB3
 530: 0x0D89 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[7] (bits 1*-3*)
 531: 0x0D92 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0DA1
-532: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=15168*)
+532: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=15171*)
     → "Hold on--I see that with this, you have accumulated all three pieces of this seasonal puzzle. All that is left now is for you to synthesize them."
 533: 0x0D9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 534: 0x0D9E [0x01] GOTO 0x0DAA
 535: 0x0DA1 [0x03] Work_Zone[3] = 426*
-536: 0x0DA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15167*)
+536: 0x0DA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15170*)
     → "As vital as it may be, it means absolutely nothing without the two other elements obtained from my compatriots in Bastok and Windurst."
 537: 0x0DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DAA:
 538: 0x0DAA [0x03] Work_Zone[3] = 426*
-539: 0x0DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=15169*)
+539: 0x0DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=15172*)
     → "Allow me to reward you for the extra effort you have exerted. Use this with an $1, and you can fill your Mog House with familiar and nostalgic melodies whenever you so desire."
 540: 0x0DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DB3:
 541: 0x0DB3 [0x01] GOTO 0x0DBA
-542: 0x0DB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15165*)
+542: 0x0DB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15168*)
     → "Well done, [good sir/fair lady]! You have the eyes of an eagle! Without any further ado, here is your prize."
 543: 0x0DB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1254,7 +1254,7 @@ SUBROUTINE_0FC9:
 647: 0x101D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
 648: 0x102C [0x1C] WAIT(60* ticks)
 649: 0x102F [0x1E] EventEntity looks at LocalPlayer and starts talking
-650: 0x1034 [0x1D] PRINT_EVENT_MESSAGE(message_id=15170*)
+650: 0x1034 [0x1D] PRINT_EVENT_MESSAGE(message_id=15173*)
     → "I am sorry, but that is incorrect. May Altana smile upon you one day, [good sir/fair lady]."
 651: 0x1037 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
