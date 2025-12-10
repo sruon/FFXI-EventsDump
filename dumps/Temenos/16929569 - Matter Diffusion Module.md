@@ -5,16 +5,16 @@
 | Field            | Value            |
 |------------------|------------------|
 | Zone             | Temenos (ID: 37) |
-| Block Size       | 1400 bytes       |
+| Block Size       | 1420 bytes       |
 | Total Events     | 2                |
-| References Count | 69               |
+| References Count | 71               |
 
 ## List of Events
 
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [1000](#event-1000)   | 0x0001       |   1099 |            201 |
+| [1000](#event-1000)   | 0x0001       |   1111 |            203 |
 
 ## DAT References (imed_data)
 
@@ -83,12 +83,14 @@
 |      60 | 0xFFFB7BC0  |  4294671296 |
 |      61 | 0xFFF85EE0  |  4294467296 |
 |      62 | 0x0800      |        2048 |
-|      63 | 0x004B      |          75 |
-|      64 | 0x00B4      |         180 |
-|      65 | 0x00C8      |         200 |
-|      66 | 0x003C      |          60 |
-|      67 | 0x004C      |          76 |
-|      68 | 0x00AA      |         170 |
+|      63 | 0xFFF7C2A0  |  4294427296 |
+|      64 | 0xFFF716C0  |  4294383296 |
+|      65 | 0x004B      |          75 |
+|      66 | 0x00B4      |         180 |
+|      67 | 0x00C8      |         200 |
+|      68 | 0x003C      |          60 |
+|      69 | 0x004C      |          76 |
+|      70 | 0x00AA      |         170 |
 
 ## String References
 
@@ -126,8 +128,8 @@
 | Field        | Value      |
 |--------------|------------|
 | Entrypoint   | 0x0001     |
-| Data Size    | 1099 bytes |
-| Instructions | 181        |
+| Data Size    | 1111 bytes |
+| Instructions | 183        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
@@ -141,7 +143,7 @@
 0060: 00 06 80 02 80 3C 01 00  07 80 02 80 01 8F 00 02  .....<..........
 0070: 00 10 05 80 00 7F 00 03  02 10 08 80 01 8F 00 02  ................
 0080: 00 10 06 80 00 8F 00 03  02 10 00 80 01 8F 00 02  ................
-0090: 02 10 00 80 00 9A 00 01  E2 03 02 02 10 08 80 00  ................
+0090: 02 10 00 80 00 9A 00 01  EE 03 02 02 10 08 80 00  ................
 00A0: A5 00 01 66 01 03 02 00  02 10 0C 02 00 24 09 80  ...f.........$..
 00B0: 00 80 01 00 25 02 00 10  00 80 00 CA 00 14 02 10  ....%...........
 00C0: 0A 80 07 02 10 02 80 01  66 01 02 00 10 02 80 00  ........f.......
@@ -154,53 +156,54 @@
 0130: 01 66 01 02 00 10 07 80  00 48 01 14 02 10 0A 80  .f.......H......
 0140: 07 02 10 0B 80 01 66 01  02 00 10 0B 80 00 56 01  ......f.......V.
 0150: 01 0D 00 01 66 01 02 00  10 0C 80 00 66 01 03 02  ....f.......f...
-0160: 10 00 80 01 66 01 02 02  10 00 80 00 71 01 01 E2  ....f.......q...
+0160: 10 00 80 01 66 01 02 02  10 00 80 00 71 01 01 EE  ....f.......q...
 0170: 03 03 01 10 02 10 42 03  03 00 01 10 03 01 10 0D  ......B.........
 0180: 80 43 00 43 01 03 01 10  03 00 29 01 F0 FF FF 7F  .C.C......).....
 0190: 02 02 01 10 0E 80 80 A8  01 47 00 0F 80 10 80 11  .........G......
-01A0: 80 12 80 47 01 01 DB 03  02 01 10 13 80 80 BF 01  ...G............
-01B0: 47 00 14 80 10 80 15 80  12 80 47 01 01 DB 03 02  G.........G.....
+01A0: 80 12 80 47 01 01 E7 03  02 01 10 13 80 80 BF 01  ...G............
+01B0: 47 00 14 80 10 80 15 80  12 80 47 01 01 E7 03 02  G.........G.....
 01C0: 01 10 16 80 80 D6 01 47  00 17 80 10 80 11 80 12  .......G........
-01D0: 80 47 01 01 DB 03 02 01  10 18 80 80 ED 01 47 00  .G............G.
-01E0: 19 80 10 80 15 80 12 80  47 01 01 DB 03 02 01 10  ........G.......
+01D0: 80 47 01 01 E7 03 02 01  10 18 80 80 ED 01 47 00  .G............G.
+01E0: 19 80 10 80 15 80 12 80  47 01 01 E7 03 02 01 10  ........G.......
 01F0: 1A 80 80 04 02 47 00 1B  80 10 80 1C 80 12 80 47  .....G.........G
-0200: 01 01 DB 03 02 01 10 1D  80 80 1B 02 47 00 1E 80  ............G...
-0210: 10 80 15 80 12 80 47 01  01 DB 03 02 01 10 1F 80  ......G.........
+0200: 01 01 E7 03 02 01 10 1D  80 80 1B 02 47 00 1E 80  ............G...
+0210: 10 80 15 80 12 80 47 01  01 E7 03 02 01 10 1F 80  ......G.........
 0220: 80 32 02 47 00 20 80 10  80 1C 80 12 80 47 01 01  .2.G. .......G..
-0230: DB 03 02 01 10 21 80 80  49 02 47 00 0F 80 22 80  .....!..I.G...".
-0240: 23 80 12 80 47 01 01 DB  03 02 01 10 24 80 80 60  #...G.......$..`
-0250: 02 47 00 14 80 22 80 25  80 12 80 47 01 01 DB 03  .G...".%...G....
+0230: E7 03 02 01 10 21 80 80  49 02 47 00 0F 80 22 80  .....!..I.G...".
+0240: 23 80 12 80 47 01 01 E7  03 02 01 10 24 80 80 60  #...G.......$..`
+0250: 02 47 00 14 80 22 80 25  80 12 80 47 01 01 E7 03  .G...".%...G....
 0260: 02 01 10 26 80 80 77 02  47 00 17 80 22 80 23 80  ...&..w.G...".#.
-0270: 12 80 47 01 01 DB 03 02  01 10 27 80 80 8E 02 47  ..G.......'....G
-0280: 00 19 80 22 80 25 80 12  80 47 01 01 DB 03 02 01  ...".%...G......
+0270: 12 80 47 01 01 E7 03 02  01 10 27 80 80 8E 02 47  ..G.......'....G
+0280: 00 19 80 22 80 25 80 12  80 47 01 01 E7 03 02 01  ...".%...G......
 0290: 10 28 80 80 A5 02 47 00  1B 80 22 80 23 80 12 80  .(....G...".#...
-02A0: 47 01 01 DB 03 02 01 10  29 80 80 BC 02 47 00 1E  G.......)....G..
-02B0: 80 22 80 25 80 12 80 47  01 01 DB 03 02 01 10 2A  .".%...G.......*
+02A0: 47 01 01 E7 03 02 01 10  29 80 80 BC 02 47 00 1E  G.......)....G..
+02B0: 80 22 80 25 80 12 80 47  01 01 E7 03 02 01 10 2A  .".%...G.......*
 02C0: 80 80 D3 02 47 00 20 80  22 80 23 80 12 80 47 01  ....G. .".#...G.
-02D0: 01 DB 03 02 01 10 2B 80  80 EA 02 47 00 0F 80 2C  ......+....G...,
-02E0: 80 11 80 12 80 47 01 01  DB 03 02 01 10 2D 80 80  .....G.......-..
-02F0: 01 03 47 00 14 80 2C 80  15 80 12 80 47 01 01 DB  ..G...,.....G...
+02D0: 01 E7 03 02 01 10 2B 80  80 EA 02 47 00 0F 80 2C  ......+....G...,
+02E0: 80 11 80 12 80 47 01 01  E7 03 02 01 10 2D 80 80  .....G.......-..
+02F0: 01 03 47 00 14 80 2C 80  15 80 12 80 47 01 01 E7  ..G...,.....G...
 0300: 03 02 01 10 2E 80 80 18  03 47 00 17 80 2C 80 11  .........G...,..
-0310: 80 12 80 47 01 01 DB 03  02 01 10 2F 80 80 2F 03  ...G......./../.
-0320: 47 00 19 80 2C 80 15 80  12 80 47 01 01 DB 03 02  G...,.....G.....
+0310: 80 12 80 47 01 01 E7 03  02 01 10 2F 80 80 2F 03  ...G......./../.
+0320: 47 00 19 80 2C 80 15 80  12 80 47 01 01 E7 03 02  G...,.....G.....
 0330: 01 10 30 80 80 46 03 47  00 1B 80 2C 80 1C 80 12  ..0..F.G...,....
-0340: 80 47 01 01 DB 03 02 01  10 31 80 80 5D 03 47 00  .G.......1..].G.
-0350: 1E 80 2C 80 15 80 12 80  47 01 01 DB 03 02 01 10  ..,.....G.......
+0340: 80 47 01 01 E7 03 02 01  10 31 80 80 5D 03 47 00  .G.......1..].G.
+0350: 1E 80 2C 80 15 80 12 80  47 01 01 E7 03 02 01 10  ..,.....G.......
 0360: 32 80 80 74 03 47 00 20  80 2C 80 1C 80 12 80 47  2..t.G. .,.....G
-0370: 01 01 DB 03 02 01 10 33  80 80 8B 03 47 00 34 80  .......3....G.4.
-0380: 35 80 23 80 12 80 47 01  01 DB 03 02 01 10 36 80  5.#...G.......6.
+0370: 01 01 E7 03 02 01 10 33  80 80 8B 03 47 00 34 80  .......3....G.4.
+0380: 35 80 23 80 12 80 47 01  01 E7 03 02 01 10 36 80  5.#...G.......6.
 0390: 80 A2 03 47 00 37 80 38  80 25 80 12 80 47 01 01  ...G.7.8.%...G..
-03A0: DB 03 02 01 10 39 80 80  B9 03 47 00 3A 80 35 80  .....9....G.:.5.
-03B0: 23 80 12 80 47 01 01 DB  03 02 01 10 3B 80 80 D0  #...G.......;...
-03C0: 03 47 00 3C 80 3D 80 25  80 3E 80 47 01 01 DB 03  .G.<.=.%.>.G....
-03D0: 02 01 10 08 80 80 DB 03  01 DB 03 29 01 F0 FF FF  ...........)....
-03E0: 7F 03 20 00 21 00 9F 3F  80 F0 FF FF 7F F0 FF FF  .. .!..?........
-03F0: 7F 6D 61 69 6E 00 80 03  03 00 01 10 03 01 10 0D  .main...........
-0400: 80 43 00 43 01 03 01 10  03 00 1C 40 80 45 41 80  .C.C.......@.EA.
-0410: F0 FF FF 7F F0 FF FF 7F  66 64 6F 31 00 80 1C 42  ........fdo1...B
-0420: 80 46 01 1B 45 41 80 F0  FF FF 7F F0 FF FF 7F 66  .F..EA.........f
-0430: 64 69 31 00 80 9F 43 80  F0 FF FF 7F F0 FF FF 7F  di1...C.........
-0440: 6D 61 69 6E 00 80 1C 44  80 46 00 1B              main...D.F..    
+03A0: E7 03 02 01 10 39 80 80  B9 03 47 00 3A 80 35 80  .....9....G.:.5.
+03B0: 23 80 12 80 47 01 01 E7  03 02 01 10 3B 80 80 D0  #...G.......;...
+03C0: 03 47 00 3C 80 3D 80 25  80 3E 80 47 01 01 E7 03  .G.<.=.%.>.G....
+03D0: 02 01 10 08 80 80 E7 03  47 00 3F 80 40 80 23 80  ........G.?.@.#.
+03E0: 12 80 47 01 01 E7 03 29  01 F0 FF FF 7F 03 20 00  ..G....)...... .
+03F0: 21 00 9F 41 80 F0 FF FF  7F F0 FF FF 7F 6D 61 69  !..A.........mai
+0400: 6E 00 80 03 03 00 01 10  03 01 10 0D 80 43 00 43  n............C.C
+0410: 01 03 01 10 03 00 1C 42  80 45 43 80 F0 FF FF 7F  .......B.EC.....
+0420: F0 FF FF 7F 66 64 6F 31  00 80 1C 44 80 46 01 1B  ....fdo1...D.F..
+0430: 45 43 80 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 00  EC.........fdi1.
+0440: 80 9F 45 80 F0 FF FF 7F  F0 FF FF 7F 6D 61 69 6E  ..E.........main
+0450: 00 80 1C 46 80 46 00 1B                           ...F.F..        
 ```
 
 #### Opcodes
@@ -237,7 +240,7 @@
 
 SUBROUTINE_008F:
  27: 0x008F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x009A
- 28: 0x0097 [0x01] GOTO 0x03E2
+ 28: 0x0097 [0x01] GOTO 0x03EE
  29: 0x009A [0x02] IF !(Work_Zone[2] == 50*) GOTO 0x00A5
  30: 0x00A2 [0x01] GOTO 0x0166
  31: 0x00A5 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
@@ -278,7 +281,7 @@ SUBROUTINE_008F:
 
 SUBROUTINE_0166:
  65: 0x0166 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0171
- 66: 0x016E [0x01] GOTO 0x03E2
+ 66: 0x016E [0x01] GOTO 0x03EE
  67: 0x0171 [0x03] Work_Zone[1] = Work_Zone[2]
  68: 0x0176 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  69: 0x0177 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[1]
@@ -290,113 +293,115 @@ SUBROUTINE_0166:
  75: 0x0191 [0x02] IF !(Work_Zone[1] == 11*) GOTO 0x01A8
  76: 0x0199 [0x47] UPDATE_PLAYER_POS(380.000*, 376.000*, 71.620*, yaw=270.0°*)
  77: 0x01A3 [0x47] WAIT_PLAYER_POS_UPDATE
- 78: 0x01A5 [0x01] GOTO 0x03DB
+ 78: 0x01A5 [0x01] GOTO 0x03E7
  79: 0x01A8 [0x02] IF !(Work_Zone[1] == 12*) GOTO 0x01BF
  80: 0x01B0 [0x47] UPDATE_PLAYER_POS(180.000*, 376.000*, -82.380*, yaw=270.0°*)
  81: 0x01BA [0x47] WAIT_PLAYER_POS_UPDATE
- 82: 0x01BC [0x01] GOTO 0x03DB
+ 82: 0x01BC [0x01] GOTO 0x03E7
  83: 0x01BF [0x02] IF !(Work_Zone[1] == 13*) GOTO 0x01D6
  84: 0x01C7 [0x47] UPDATE_PLAYER_POS(60.000*, 376.000*, 71.620*, yaw=270.0°*)
  85: 0x01D1 [0x47] WAIT_PLAYER_POS_UPDATE
- 86: 0x01D3 [0x01] GOTO 0x03DB
+ 86: 0x01D3 [0x01] GOTO 0x03E7
  87: 0x01D6 [0x02] IF !(Work_Zone[1] == 14*) GOTO 0x01ED
  88: 0x01DE [0x47] UPDATE_PLAYER_POS(-140.000*, 376.000*, -82.380*, yaw=270.0°*)
  89: 0x01E8 [0x47] WAIT_PLAYER_POS_UPDATE
- 90: 0x01EA [0x01] GOTO 0x03DB
+ 90: 0x01EA [0x01] GOTO 0x03E7
  91: 0x01ED [0x02] IF !(Work_Zone[1] == 15*) GOTO 0x0204
  92: 0x01F5 [0x47] UPDATE_PLAYER_POS(-260.000*, 376.000*, 77.620*, yaw=270.0°*)
  93: 0x01FF [0x47] WAIT_PLAYER_POS_UPDATE
- 94: 0x0201 [0x01] GOTO 0x03DB
+ 94: 0x0201 [0x01] GOTO 0x03E7
  95: 0x0204 [0x02] IF !(Work_Zone[1] == 16*) GOTO 0x021B
  96: 0x020C [0x47] UPDATE_PLAYER_POS(-460.000*, 376.000*, -82.380*, yaw=270.0°*)
  97: 0x0216 [0x47] WAIT_PLAYER_POS_UPDATE
- 98: 0x0218 [0x01] GOTO 0x03DB
+ 98: 0x0218 [0x01] GOTO 0x03E7
  99: 0x021B [0x02] IF !(Work_Zone[1] == 17*) GOTO 0x0232
 100: 0x0223 [0x47] UPDATE_PLAYER_POS(-580.000*, 376.000*, 77.620*, yaw=270.0°*)
 101: 0x022D [0x47] WAIT_PLAYER_POS_UPDATE
-102: 0x022F [0x01] GOTO 0x03DB
+102: 0x022F [0x01] GOTO 0x03E7
 103: 0x0232 [0x02] IF !(Work_Zone[1] == 21*) GOTO 0x0249
 104: 0x023A [0x47] UPDATE_PLAYER_POS(380.000*, 96.000*, -2.380*, yaw=270.0°*)
 105: 0x0244 [0x47] WAIT_PLAYER_POS_UPDATE
-106: 0x0246 [0x01] GOTO 0x03DB
+106: 0x0246 [0x01] GOTO 0x03E7
 107: 0x0249 [0x02] IF !(Work_Zone[1] == 22*) GOTO 0x0260
 108: 0x0251 [0x47] UPDATE_PLAYER_POS(180.000*, 96.000*, -162.380*, yaw=270.0°*)
 109: 0x025B [0x47] WAIT_PLAYER_POS_UPDATE
-110: 0x025D [0x01] GOTO 0x03DB
+110: 0x025D [0x01] GOTO 0x03E7
 111: 0x0260 [0x02] IF !(Work_Zone[1] == 23*) GOTO 0x0277
 112: 0x0268 [0x47] UPDATE_PLAYER_POS(60.000*, 96.000*, -2.380*, yaw=270.0°*)
 113: 0x0272 [0x47] WAIT_PLAYER_POS_UPDATE
-114: 0x0274 [0x01] GOTO 0x03DB
+114: 0x0274 [0x01] GOTO 0x03E7
 115: 0x0277 [0x02] IF !(Work_Zone[1] == 24*) GOTO 0x028E
 116: 0x027F [0x47] UPDATE_PLAYER_POS(-140.000*, 96.000*, -162.380*, yaw=270.0°*)
 117: 0x0289 [0x47] WAIT_PLAYER_POS_UPDATE
-118: 0x028B [0x01] GOTO 0x03DB
+118: 0x028B [0x01] GOTO 0x03E7
 119: 0x028E [0x02] IF !(Work_Zone[1] == 25*) GOTO 0x02A5
 120: 0x0296 [0x47] UPDATE_PLAYER_POS(-260.000*, 96.000*, -2.380*, yaw=270.0°*)
 121: 0x02A0 [0x47] WAIT_PLAYER_POS_UPDATE
-122: 0x02A2 [0x01] GOTO 0x03DB
+122: 0x02A2 [0x01] GOTO 0x03E7
 123: 0x02A5 [0x02] IF !(Work_Zone[1] == 26*) GOTO 0x02BC
 124: 0x02AD [0x47] UPDATE_PLAYER_POS(-460.000*, 96.000*, -162.380*, yaw=270.0°*)
 125: 0x02B7 [0x47] WAIT_PLAYER_POS_UPDATE
-126: 0x02B9 [0x01] GOTO 0x03DB
+126: 0x02B9 [0x01] GOTO 0x03E7
 127: 0x02BC [0x02] IF !(Work_Zone[1] == 27*) GOTO 0x02D3
 128: 0x02C4 [0x47] UPDATE_PLAYER_POS(-580.000*, 96.000*, -2.380*, yaw=270.0°*)
 129: 0x02CE [0x47] WAIT_PLAYER_POS_UPDATE
-130: 0x02D0 [0x01] GOTO 0x03DB
+130: 0x02D0 [0x01] GOTO 0x03E7
 131: 0x02D3 [0x02] IF !(Work_Zone[1] == 31*) GOTO 0x02EA
 132: 0x02DB [0x47] UPDATE_PLAYER_POS(380.000*, -184.000*, 71.620*, yaw=270.0°*)
 133: 0x02E5 [0x47] WAIT_PLAYER_POS_UPDATE
-134: 0x02E7 [0x01] GOTO 0x03DB
+134: 0x02E7 [0x01] GOTO 0x03E7
 135: 0x02EA [0x02] IF !(Work_Zone[1] == 32*) GOTO 0x0301
 136: 0x02F2 [0x47] UPDATE_PLAYER_POS(180.000*, -184.000*, -82.380*, yaw=270.0°*)
 137: 0x02FC [0x47] WAIT_PLAYER_POS_UPDATE
-138: 0x02FE [0x01] GOTO 0x03DB
+138: 0x02FE [0x01] GOTO 0x03E7
 139: 0x0301 [0x02] IF !(Work_Zone[1] == 33*) GOTO 0x0318
 140: 0x0309 [0x47] UPDATE_PLAYER_POS(60.000*, -184.000*, 71.620*, yaw=270.0°*)
 141: 0x0313 [0x47] WAIT_PLAYER_POS_UPDATE
-142: 0x0315 [0x01] GOTO 0x03DB
+142: 0x0315 [0x01] GOTO 0x03E7
 143: 0x0318 [0x02] IF !(Work_Zone[1] == 34*) GOTO 0x032F
 144: 0x0320 [0x47] UPDATE_PLAYER_POS(-140.000*, -184.000*, -82.380*, yaw=270.0°*)
 145: 0x032A [0x47] WAIT_PLAYER_POS_UPDATE
-146: 0x032C [0x01] GOTO 0x03DB
+146: 0x032C [0x01] GOTO 0x03E7
 147: 0x032F [0x02] IF !(Work_Zone[1] == 35*) GOTO 0x0346
 148: 0x0337 [0x47] UPDATE_PLAYER_POS(-260.000*, -184.000*, 77.620*, yaw=270.0°*)
 149: 0x0341 [0x47] WAIT_PLAYER_POS_UPDATE
-150: 0x0343 [0x01] GOTO 0x03DB
+150: 0x0343 [0x01] GOTO 0x03E7
 151: 0x0346 [0x02] IF !(Work_Zone[1] == 36*) GOTO 0x035D
 152: 0x034E [0x47] UPDATE_PLAYER_POS(-460.000*, -184.000*, -82.380*, yaw=270.0°*)
 153: 0x0358 [0x47] WAIT_PLAYER_POS_UPDATE
-154: 0x035A [0x01] GOTO 0x03DB
+154: 0x035A [0x01] GOTO 0x03E7
 155: 0x035D [0x02] IF !(Work_Zone[1] == 37*) GOTO 0x0374
 156: 0x0365 [0x47] UPDATE_PLAYER_POS(-580.000*, -184.000*, 77.620*, yaw=270.0°*)
 157: 0x036F [0x47] WAIT_PLAYER_POS_UPDATE
-158: 0x0371 [0x01] GOTO 0x03DB
+158: 0x0371 [0x01] GOTO 0x03E7
 159: 0x0374 [0x02] IF !(Work_Zone[1] == 41*) GOTO 0x038B
 160: 0x037C [0x47] UPDATE_PLAYER_POS(580.000*, -544.000*, -2.380*, yaw=270.0°*)
 161: 0x0386 [0x47] WAIT_PLAYER_POS_UPDATE
-162: 0x0388 [0x01] GOTO 0x03DB
+162: 0x0388 [0x01] GOTO 0x03E7
 163: 0x038B [0x02] IF !(Work_Zone[1] == 42*) GOTO 0x03A2
 164: 0x0393 [0x47] UPDATE_PLAYER_POS(260.000*, -504.000*, -162.380*, yaw=270.0°*)
 165: 0x039D [0x47] WAIT_PLAYER_POS_UPDATE
-166: 0x039F [0x01] GOTO 0x03DB
+166: 0x039F [0x01] GOTO 0x03E7
 167: 0x03A2 [0x02] IF !(Work_Zone[1] == 43*) GOTO 0x03B9
 168: 0x03AA [0x47] UPDATE_PLAYER_POS(20.000*, -544.000*, -2.380*, yaw=270.0°*)
 169: 0x03B4 [0x47] WAIT_PLAYER_POS_UPDATE
-170: 0x03B6 [0x01] GOTO 0x03DB
+170: 0x03B6 [0x01] GOTO 0x03E7
 171: 0x03B9 [0x02] IF !(Work_Zone[1] == 44*) GOTO 0x03D0
 172: 0x03C1 [0x47] UPDATE_PLAYER_POS(-296.000*, -500.000*, -162.380*, yaw=180.0°*)
 173: 0x03CB [0x47] WAIT_PLAYER_POS_UPDATE
-174: 0x03CD [0x01] GOTO 0x03DB
-175: 0x03D0 [0x02] IF !(Work_Zone[1] == 50*) GOTO 0x03DB
-176: 0x03D8 [0x01] GOTO 0x03DB
+174: 0x03CD [0x01] GOTO 0x03E7
+175: 0x03D0 [0x02] IF !(Work_Zone[1] == 50*) GOTO 0x03E7
+176: 0x03D8 [0x47] UPDATE_PLAYER_POS(-540.000*, -584.000*, -2.380*, yaw=270.0°*)
+177: 0x03E2 [0x47] WAIT_PLAYER_POS_UPDATE
+178: 0x03E4 [0x01] GOTO 0x03E7
 
-SUBROUTINE_03DB:
-177: 0x03DB [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x03)
+SUBROUTINE_03E7:
+179: 0x03E7 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x03)
 
-SUBROUTINE_03E2:
-178: 0x03E2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
-179: 0x03E4 [0x21] END_EVENT
-180: 0x03E5 [0x00] END_REQSTACK()
+SUBROUTINE_03EE:
+180: 0x03EE [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+181: 0x03F0 [0x21] END_EVENT
+182: 0x03F1 [0x00] END_REQSTACK()
 ```
 
 #### Data or dead code:
@@ -405,20 +410,20 @@ SUBROUTINE_03E2:
 # Dead code (unreachable instructions):
      0x0153 [0x01] GOTO 0x0166
 # Dead code (unreachable instructions):
-     0x03E6 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[75*, 0*]
-     0x03F7 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[1]
-     0x03FC [0x03] Work_Zone[1] = 100*
-     0x0401 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-     0x0403 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x0405 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[3]
-     0x040A [0x1C] WAIT(180* ticks)
-     0x040D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x041E [0x1C] WAIT(60* ticks)
-     0x0421 [0x46] CAMERA_CONTROL: Disable user control
-     0x0423 [0x1B] RETURN
-     0x0424 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x0435 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[76*, 0*]
-     0x0446 [0x1C] WAIT(170* ticks)
-     0x0449 [0x46] CAMERA_CONTROL: Restore default settings
-     0x044B [0x1B] RETURN
+     0x03F2 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[75*, 0*]
+     0x0403 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[1]
+     0x0408 [0x03] Work_Zone[1] = 100*
+     0x040D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x040F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0411 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[3]
+     0x0416 [0x1C] WAIT(180* ticks)
+     0x0419 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x042A [0x1C] WAIT(60* ticks)
+     0x042D [0x46] CAMERA_CONTROL: Disable user control
+     0x042F [0x1B] RETURN
+     0x0430 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+     0x0441 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[76*, 0*]
+     0x0452 [0x1C] WAIT(170* ticks)
+     0x0455 [0x46] CAMERA_CONTROL: Restore default settings
+     0x0457 [0x1B] RETURN
 ```

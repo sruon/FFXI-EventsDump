@@ -1,5 +1,5 @@
 # Strings for Aht Urhgan Whitegate
-# Total: 14384 strings
+# Total: 14385 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -14319,7 +14319,7 @@
 14315: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
 14316: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
 14317: Dat's da spirit! So which dial ya be wantin'?
-14318: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+14318: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]
 14319: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
 14320: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
 14321: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
@@ -14344,44 +14344,45 @@
 14340: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
 14341: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
 14342: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-14343: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+14343: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!
 14344: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-14345: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+14345: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!
 14346: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
 14347: $1<$2
-14348: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-14349: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-14350: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-14351: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-14352: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
-14353: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-14354: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-14355: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
-14356: It will cost $2 gil to teleport to $8. ($3 gil on hand)
-14357: All mog tablets have currently been found, so you may teleport to $8 at no charge.
-14358: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-14359: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
-14360: You do not have enough tabs.
-14361: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
-14362: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
-14363: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
-14364: Accept the reward? [Yes, please./No, thanks.]
-14365: You may change the way you select areas listed in "Teleportation Assistance."
-14366: Any changes to make? [Keep course./Select by region./Select by content.]
-14367: Area selection will now be made by [region/content].
-14368: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
-14369: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
-14370: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
-14371: $8 has been [added to your list of favorites/removed from your list of favorites].
-14372: Your list of favorites is full. You must remove an existing entry to add new ones.
-14373: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
-14374: Ah, <Player>! Exactly the [man/woman] I was hoping to run into.
-14375: I've procured a trifle that I want you to have.
-14376: The Jeuno Institute of Magical Studies is such a fascinating place! To think--the ability to call for alter egos of those you hold dear! Surely you've heard of it?
-14377: Then I suggest you head to [Southern San d'Oria/Port Bastok/Windurst Woods] and speak with the institute's representative there.
-14378: Ah, you Middle Landers are always so dependable!
-14379: But please. Please, please, please! Don't overwork my alter ego too hard! You know how the president can be...
-14380: Eeeeeep! I've said too much!
-14381: You are unable further delve into in The Voracious Resurgence until you make more progress in The Treasures of Aht Urhgan mission story line.
-14382: You are unable to delve further into The Voracious Resurgence storyline because Gadalar has been captured.
-14383: It would behoove you to head to where the slugs lie in Caedarva Mire.
+14348: Urk!
+14349: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+14350: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+14351: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+14352: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+14353: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+14354: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+14355: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+14356: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+14357: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+14358: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+14359: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+14360: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+14361: You do not have enough tabs.
+14362: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+14363: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+14364: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+14365: Accept the reward? [Yes, please./No, thanks.]
+14366: You may change the way you select areas listed in "Teleportation Assistance."
+14367: Any changes to make? [Keep course./Select by region./Select by content.]
+14368: Area selection will now be made by [region/content].
+14369: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+14370: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+14371: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+14372: $8 has been [added to your list of favorites/removed from your list of favorites].
+14373: Your list of favorites is full. You must remove an existing entry to add new ones.
+14374: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+14375: Ah, <Player>! Exactly the [man/woman] I was hoping to run into.
+14376: I've procured a trifle that I want you to have.
+14377: The Jeuno Institute of Magical Studies is such a fascinating place! To think--the ability to call for alter egos of those you hold dear! Surely you've heard of it?
+14378: Then I suggest you head to [Southern San d'Oria/Port Bastok/Windurst Woods] and speak with the institute's representative there.
+14379: Ah, you Middle Landers are always so dependable!
+14380: But please. Please, please, please! Don't overwork my alter ego too hard! You know how the president can be...
+14381: Eeeeeep! I've said too much!
+14382: You are unable further delve into in The Voracious Resurgence until you make more progress in The Treasures of Aht Urhgan mission story line.
+14383: You are unable to delve further into The Voracious Resurgence storyline because Gadalar has been captured.
+14384: It would behoove you to head to where the slugs lie in Caedarva Mire.

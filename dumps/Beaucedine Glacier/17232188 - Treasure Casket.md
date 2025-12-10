@@ -13,10 +13,10 @@
 
 | Event ID            | Entrypoint   |   Size |   Instructions |
 |---------------------|--------------|--------|----------------|
-| [1015](#event-1015) | 0x0000       |    521 |             97 |
-| [1016](#event-1016) | 0x0209       |    521 |             97 |
-| [1017](#event-1017) | 0x0412       |    187 |             40 |
-| [1053](#event-1053) | 0x04CD       |    443 |             85 |
+| [1018](#event-1018) | 0x0000       |    521 |             97 |
+| [1019](#event-1019) | 0x0209       |    521 |             97 |
+| [1020](#event-1020) | 0x0412       |    187 |             40 |
+| [1054](#event-1054) | 0x04CD       |    443 |             85 |
 
 ## DAT References (imed_data)
 
@@ -62,7 +62,7 @@
 
 ## Events
 
-### Event 1015
+### Event 1018
 
 #### Metadata
 
@@ -219,7 +219,7 @@ SUBROUTINE_01F4:
  96: 0x0208 [0x00] END_REQSTACK()
 ```
 
-### Event 1016
+### Event 1019
 
 #### Metadata
 
@@ -377,7 +377,7 @@ SUBROUTINE_03FD:
  96: 0x0411 [0x00] END_REQSTACK()
 ```
 
-### Event 1017
+### Event 1020
 
 #### Metadata
 
@@ -457,7 +457,7 @@ SUBROUTINE_04CA:
  39: 0x04CC [0x00] END_REQSTACK()
 ```
 
-### Event 1053
+### Event 1054
 
 #### Metadata
 

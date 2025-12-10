@@ -153,22 +153,22 @@
 0000:                                      42 46 01 03              BF..
 0010: 00 00 05 10 45 04 80 F8  FF FF 7F F8 FF FF 7F 66  ....E..........f
 0020: 64 6F 30 05 80 55 04 80  F8 FF FF 7F F8 FF FF 7F  do0..U..........
-0030: 66 64 6F 30 4E 00 B9 B2  06 01 4E 00 BA B2 06 01  fdo0N.....N.....
-0040: 38 06 80 79 00 F0 FF FF  7F B9 B2 06 01 03 05 10  8..y............
+0030: 66 64 6F 30 4E 00 B8 B2  06 01 4E 00 B9 B2 06 01  fdo0N.....N.....
+0040: 38 06 80 79 00 F0 FF FF  7F B8 B2 06 01 03 05 10  8..y............
 0050: 02 10 03 06 10 02 10 03  07 10 02 10 15 05 10 07  ................
 0060: 80 15 06 10 08 80 3F 07  10 07 10 08 80 37 09 80  ......?......7..
 0070: 0A 80 0B 80 0C 80 45 0D  80 F8 FF FF 7F F8 FF FF  ......E.........
-0080: 7F 73 30 30 30 05 80 4A  B9 B2 06 01 F0 FF FF 7F  .s000..J........
+0080: 7F 73 30 30 30 05 80 4A  B8 B2 06 01 F0 FF FF 7F  .s000..J........
 0090: 45 04 80 F8 FF FF 7F F8  FF FF 7F 66 64 69 31 05  E..........fdi1.
-00A0: 80 2B B9 B2 06 01 0E 80  23 66 0F 80 B9 B2 06 01  .+......#f......
-00B0: B9 B2 06 01 74 6C 6B 30  2B B9 B2 06 01 10 80 23  ....tlk0+......#
-00C0: 02 04 10 05 80 01 12 01  66 0F 80 B9 B2 06 01 B9  ........f.......
+00A0: 80 2B B8 B2 06 01 0E 80  23 66 0F 80 B8 B2 06 01  .+......#f......
+00B0: B8 B2 06 01 74 6C 6B 30  2B B8 B2 06 01 10 80 23  ....tlk0+......#
+00C0: 02 04 10 05 80 01 12 01  66 0F 80 B8 B2 06 01 B8  ........f.......
 00D0: B2 06 01 74 6C 6B 31 03  05 10 04 10 03 06 10 04  ...tlk1.........
 00E0: 10 03 07 10 04 10 15 05  10 07 80 15 06 10 08 80  ................
 00F0: 3F 07 10 07 10 08 80 02  00 00 05 80 00 0A 01 2B  ?..............+
-0100: B9 B2 06 01 11 80 23 01  12 01 2B B9 B2 06 01 12  ......#...+.....
-0110: 80 23 66 0F 80 B9 B2 06  01 B9 B2 06 01 70 61 73  .#f..........pas
-0120: 30 2B B9 B2 06 01 13 80  23 52 0D 80 F8 FF FF 7F  0+......#R......
+0100: B8 B2 06 01 11 80 23 01  12 01 2B B8 B2 06 01 12  ......#...+.....
+0110: 80 23 66 0F 80 B8 B2 06  01 B8 B2 06 01 70 61 73  .#f..........pas
+0120: 30 2B B8 B2 06 01 13 80  23 52 0D 80 F8 FF FF 7F  0+......#R......
 0130: F8 FF FF 7F 73 30 30 30  45 04 80 F8 FF FF 7F F8  ....s000E.......
 0140: FF FF 7F 66 64 6F 31 05  80 55 04 80 F8 FF FF 7F  ...fdo1..U......
 0150: F8 FF FF 7F 66 64 6F 31  46 00 45 14 80 F0 FF FF  ....fdo1F.E.....
@@ -184,10 +184,10 @@
   2: 0x000F [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
   3: 0x0014 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
   4: 0x0025 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [EventEntity, EventEntity], work=200*
-  5: 0x0034 [0x4E] SET_ENTITY_HIDE_FLAG: Show Azette (ID: 17216185/0x0106B2B9)
-  6: 0x003A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17216186/0x0106B2BA)
+  5: 0x0034 [0x4E] SET_ENTITY_HIDE_FLAG: Show Azette (ID: 17216184/0x0106B2B8)
+  6: 0x003A [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17216185/0x0106B2B9)
   7: 0x0040 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  8: 0x0043 [0x79] LocalPlayer looks at Azette (ID: 17216185/0x0106B2B9) (Basic look)
+  8: 0x0043 [0x79] LocalPlayer looks at Azette (ID: 17216184/0x0106B2B8) (Basic look)
   9: 0x004D [0x03] Work_Zone[5] = Work_Zone[2]
  10: 0x0052 [0x03] Work_Zone[6] = Work_Zone[2]
  11: 0x0057 [0x03] Work_Zone[7] = Work_Zone[2]
@@ -196,17 +196,17 @@
  14: 0x0066 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  15: 0x006D [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=580.025*, z=-313.413*, y=1.380*, direction=262.4°*
  16: 0x0076 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[5*, 0*]
- 17: 0x0087 [0x4A] Azette (ID: 17216185/0x0106B2B9) looks at LocalPlayer
+ 17: 0x0087 [0x4A] Azette (ID: 17216184/0x0106B2B8) looks at LocalPlayer
  18: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x00A1 [0x2B] Azette (ID: 17216185/0x0106B2B9) [7694*]:
+ 19: 0x00A1 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7694*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x00A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Azette (ID: 17216185/0x0106B2B9), Azette (ID: 17216185/0x0106B2B9)], work=30*
- 22: 0x00B8 [0x2B] Azette (ID: 17216185/0x0106B2B9) [7695*]:
+ 21: 0x00A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Azette (ID: 17216184/0x0106B2B8), Azette (ID: 17216184/0x0106B2B8)], work=30*
+ 22: 0x00B8 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7695*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00C0 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0112
- 25: 0x00C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Azette (ID: 17216185/0x0106B2B9), Azette (ID: 17216185/0x0106B2B9)], work=30*
+ 25: 0x00C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Azette (ID: 17216184/0x0106B2B8), Azette (ID: 17216184/0x0106B2B8)], work=30*
  26: 0x00D7 [0x03] Work_Zone[5] = Work_Zone[4]
  27: 0x00DC [0x03] Work_Zone[6] = Work_Zone[4]
  28: 0x00E1 [0x03] Work_Zone[7] = Work_Zone[4]
@@ -214,17 +214,17 @@
  30: 0x00EB [0x15] Work_Zone[6] /= 60*
  31: 0x00F0 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x00F7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x010A
- 33: 0x00FF [0x2B] Azette (ID: 17216185/0x0106B2B9) [7696*]:
+ 33: 0x00FF [0x2B] Azette (ID: 17216184/0x0106B2B8) [7696*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0107 [0x01] GOTO 0x0112
- 36: 0x010A [0x2B] Azette (ID: 17216185/0x0106B2B9) [7700*]:
+ 36: 0x010A [0x2B] Azette (ID: 17216184/0x0106B2B8) [7700*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0112:
- 38: 0x0112 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Azette (ID: 17216185/0x0106B2B9), Azette (ID: 17216185/0x0106B2B9)], work=30*
- 39: 0x0121 [0x2B] Azette (ID: 17216185/0x0106B2B9) [7697*]:
+ 38: 0x0112 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Azette (ID: 17216184/0x0106B2B8), Azette (ID: 17216184/0x0106B2B8)], work=30*
+ 39: 0x0121 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7697*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0129 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=5*
@@ -276,7 +276,7 @@ SUBROUTINE_0112:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0180:                                            BB 19                ..
-0190: 80 F0 FF FF 7F C9 B2 06  01 6D 61 69 6E 05 80 1C  .........main...
+0190: 80 F0 FF FF 7F C8 B2 06  01 6D 61 69 6E 05 80 1C  .........main...
 01A0: 1A 80 45 04 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..E..........fdo
 01B0: 31 05 80 1C 08 80 00                              1......         
 ```
@@ -284,7 +284,7 @@ SUBROUTINE_0112:
 #### Opcodes
 
 ```
-  0: 0x018E [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17216201/0x0106B2C9)], work=[148*, 0*]
+  0: 0x018E [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17216200/0x0106B2C8)], work=[148*, 0*]
   1: 0x019F [0x1C] WAIT(240* ticks)
   2: 0x01A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x01B3 [0x1C] WAIT(60* ticks)

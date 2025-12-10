@@ -7742,15 +7742,15 @@
  7738: Something is lying on the sand.
  7739: This should be the place to carry out the ritual.
  7740: Thrust the $3 into the sand? [Yes./Not yet.]
- 7741: (Yearly tidings to ye... I sense that the world is in a state of flux. The clouds in the sky do not bode well...)
- 7742: (The blessings of the New Year upon thee... The world is ever changing, with each instant different than the one before. Yet the skies tell me that things will continue looking up!)
- 7743: 
- 7744: (Tohoho, that look in your eyes could pierce through the souls of a thousand wandering spirits. That's well and good, but...where are we?)
- 7745: 
- 7746: 
- 7747: 
- 7748: 
- 7749: (# is all you can think of? I shall let you have time to reflect upon yourself and your deeds.)
+ 7741: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7742: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7743: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7744: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7745: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7746: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7747: Neigh!! (Your year will be as joyful as the last.)
+ 7748: Neigh! (Your year will be fairly good...)
+ 7749: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7750: There is nothing out of the ordinary here.
  7751: You can hear a strange voice... "Items, items, la la la la la`t"
  7752: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.

@@ -43,7 +43,7 @@
 | 0x010262B0       |         16933552 | [Swirling Vortex](./16933552%20-%20Swirling%20Vortex.md)       |        2 | 119, 65535                               |
 | 0x010262B1       |         16933553 | [Swirling Vortex](./16933553%20-%20Swirling%20Vortex.md)       |        2 | 120, 65535                               |
 | 0x010262B2       |         16933554 | [Swirling Vortex](./16933554%20-%20Swirling%20Vortex.md)       |        2 | 121, 65535                               |
-| 0x010262B3       |         16933555 | [Swirling Vortex](./16933555%20-%20Swirling%20Vortex.md)       |        2 | 123, 65535                               |
+| 0x010262B3       |         16933555 | [Exit](./16933555%20-%20Exit.md)                               |        2 | 123, 65535                               |
 | 0x010262B4       |         16933556 | [Apollyon Coffer 1](./16933556%20-%20Apollyon%20Coffer%201.md) |        2 | 124, 65535                               |
 | 0x010262B5       |         16933557 | [Apollyon Coffer 2](./16933557%20-%20Apollyon%20Coffer%202.md) |        2 | 125, 65535                               |
 | 0x010262B6       |         16933558 | [Apollyon Coffer 3](./16933558%20-%20Apollyon%20Coffer%203.md) |        2 | 126, 65535                               |

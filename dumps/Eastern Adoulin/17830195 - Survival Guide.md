@@ -29,53 +29,53 @@
 |       5 | 0x0010      |          16 |
 |       6 | 0x001F      |          31 |
 |       7 | 0x0004      |           4 |
-|       8 | 0x364A      |       13898 |
-|       9 | 0x3648      |       13896 |
-|      10 | 0x364B      |       13899 |
+|       8 | 0x364B      |       13899 |
+|       9 | 0x3649      |       13897 |
+|      10 | 0x364C      |       13900 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0003      |           3 |
-|      14 | 0x3658      |       13912 |
-|      15 | 0x3659      |       13913 |
+|      14 | 0x3659      |       13913 |
+|      15 | 0x365A      |       13914 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x365A      |       13914 |
+|      17 | 0x365B      |       13915 |
 |      18 | 0x0200      |         512 |
-|      19 | 0x3654      |       13908 |
-|      20 | 0x3655      |       13909 |
-|      21 | 0x3656      |       13910 |
-|      22 | 0x3657      |       13911 |
+|      19 | 0x3655      |       13909 |
+|      20 | 0x3656      |       13910 |
+|      21 | 0x3657      |       13911 |
+|      22 | 0x3658      |       13912 |
 |      23 | 0x0201      |         513 |
 |      24 | 0x18F7      |        6391 |
 |      25 | 0x18F1      |        6385 |
-|      26 | 0x364C      |       13900 |
+|      26 | 0x364D      |       13901 |
 |      27 | 0xFFFFFFFE  |  4294967294 |
-|      28 | 0x364D      |       13901 |
-|      29 | 0x365C      |       13916 |
+|      28 | 0x364E      |       13902 |
+|      29 | 0x365D      |       13917 |
 |      30 | 0x001A      |          26 |
 |      31 | 0x001B      |          27 |
-|      32 | 0x365B      |       13915 |
+|      32 | 0x365C      |       13916 |
 |      33 | 0x0008      |           8 |
 |      34 | 0x000F      |          15 |
 |      35 | 0x0017      |          23 |
 |      36 | 0x0018      |          24 |
 |      37 | 0x007F      |         127 |
 |      38 | 0xFFFFFFFF  |  4294967295 |
-|      39 | 0x365D      |       13917 |
-|      40 | 0x3650      |       13904 |
-|      41 | 0x3651      |       13905 |
+|      39 | 0x365E      |       13918 |
+|      40 | 0x3651      |       13905 |
+|      41 | 0x3652      |       13906 |
 |      42 | 0x0005      |           5 |
 |      43 | 0x0014      |          20 |
-|      44 | 0x3652      |       13906 |
+|      44 | 0x3653      |       13907 |
 |      45 | 0x18FC      |        6396 |
-|      46 | 0x3653      |       13907 |
-|      47 | 0x365E      |       13918 |
-|      48 | 0x365F      |       13919 |
-|      49 | 0x3660      |       13920 |
+|      46 | 0x3654      |       13908 |
+|      47 | 0x365F      |       13919 |
+|      48 | 0x3660      |       13920 |
+|      49 | 0x3661      |       13921 |
 |      50 | 0x0006      |           6 |
 |      51 | 0x0080      |         128 |
 |      52 | 0x0062      |          98 |
 |      53 | 0x0020      |          32 |
-|      54 | 0x364E      |       13902 |
+|      54 | 0x364F      |       13903 |
 |      55 | 0x0015      |          21 |
 |      56 | 0x0016      |          22 |
 |      57 | 0x007A      |         122 |
@@ -496,26 +496,26 @@
 - **6385**: You cannot obtain the $0. Come back after sorting your inventory.
 - **6391**: Obtained: #.
 - **6396**: You do not have enough gil.
-- **13896**: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-- **13898**: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-- **13899**: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
-- **13900**: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-- **13901**: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-- **13904**: All mog tablets have currently been found, so you may teleport to $8 at no charge.
-- **13905**: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-- **13906**: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
-- **13907**: You do not have enough tabs.
-- **13908**: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
-- **13909**: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
-- **13910**: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
-- **13911**: Accept the reward? [Yes, please./No, thanks.]
-- **13912**: You may change the way you select areas listed in "Teleportation Assistance."
-- **13913**: Any changes to make? [Keep course./Select by region./Select by content.]
-- **13914**: Area selection will now be made by [region/content].
-- **13915**: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
-- **13916**: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
-- **13918**: $8 has been [added to your list of favorites/removed from your list of favorites].
-- **13919**: Your list of favorites is full. You must remove an existing entry to add new ones.
+- **13897**: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+- **13899**: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+- **13900**: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+- **13901**: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+- **13902**: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+- **13905**: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+- **13906**: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+- **13907**: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+- **13908**: You do not have enough tabs.
+- **13909**: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+- **13910**: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+- **13911**: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+- **13912**: Accept the reward? [Yes, please./No, thanks.]
+- **13913**: You may change the way you select areas listed in "Teleportation Assistance."
+- **13914**: Any changes to make? [Keep course./Select by region./Select by content.]
+- **13915**: Area selection will now be made by [region/content].
+- **13916**: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+- **13917**: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+- **13919**: $8 has been [added to your list of favorites/removed from your list of favorites].
+- **13920**: Your list of favorites is full. You must remove an existing entry to add new ones.
 
 ## Events
 
@@ -589,11 +589,11 @@
  13: 0x0056 [0x1A] CALL_SUBROUTINE(address=0x1197)
  14: 0x0059 [0x9D] ExtData[1]->WorkLocal[2] = 0x149C[ExtData[1]->WorkLocal[4]] // Read WORD
  15: 0x0061 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0070
- 16: 0x0069 [0x48] [System] [13898*]:
+ 16: 0x0069 [0x48] [System] [13899*]:
     → "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
  17: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x006D [0x01] GOTO 0x0074
- 19: 0x0070 [0x48] [System] [13896*]:
+ 19: 0x0070 [0x48] [System] [13897*]:
     → "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
  20: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -604,7 +604,7 @@ SUBROUTINE_0074:
 
 SUBROUTINE_007D:
  24: 0x007D [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x00D4
- 25: 0x0085 [0x24] CREATE_DIALOG(message_id=13899*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
+ 25: 0x0085 [0x24] CREATE_DIALOG(message_id=13900*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
     → "What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]"
  26: 0x008C [0x25] WAIT_DIALOG_SELECT()
  27: 0x008D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009B
@@ -1086,11 +1086,11 @@ SUBROUTINE_00D1:
  13: 0x012B [0x1A] CALL_SUBROUTINE(address=0x1197)
  14: 0x012E [0x9D] ExtData[1]->WorkLocal[2] = 0x149C[ExtData[1]->WorkLocal[4]] // Read WORD
  15: 0x0136 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0145
- 16: 0x013E [0x48] [System] [13898*]:
+ 16: 0x013E [0x48] [System] [13899*]:
     → "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
  17: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0142 [0x01] GOTO 0x0149
- 19: 0x0145 [0x48] [System] [13896*]:
+ 19: 0x0145 [0x48] [System] [13897*]:
     → "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
  20: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1101,7 +1101,7 @@ SUBROUTINE_0149:
 
 SUBROUTINE_0152:
  24: 0x0152 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x01A9
- 25: 0x015A [0x24] CREATE_DIALOG(message_id=13899*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
+ 25: 0x015A [0x24] CREATE_DIALOG(message_id=13900*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
     → "What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]"
  26: 0x0161 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0162 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0170
@@ -1128,14 +1128,14 @@ SUBROUTINE_01A6:
  44: 0x01AA [0x00] END_REQSTACK()
 
 SUBROUTINE_01AB:
- 45: 0x01AB [0x48] [System] [13912*]:
+ 45: 0x01AB [0x48] [System] [13913*]:
     → "You may change the way you select areas listed in "Teleportation Assistance.""
  46: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01AF [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[1]
  48: 0x01B4 [0x0B] ExtData[1]->WorkLocal[45]++
  49: 0x01B7 [0x06] ExtData[1]->WorkLocal[44] = 0
  50: 0x01BA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[44], bit_index_work_offset=0*, condition_work_offset=1*)
- 51: 0x01C1 [0x24] CREATE_DIALOG(message_id=13913*, default_option=ExtData[1]->WorkLocal[45], option_flags=ExtData[1]->WorkLocal[44])
+ 51: 0x01C1 [0x24] CREATE_DIALOG(message_id=13914*, default_option=ExtData[1]->WorkLocal[45], option_flags=ExtData[1]->WorkLocal[44])
     → "Any changes to make? [Keep course./Select by region./Select by content.]"
  52: 0x01C8 [0x25] WAIT_DIALOG_SELECT()
  53: 0x01C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D4
@@ -1147,7 +1147,7 @@ SUBROUTINE_01AB:
  59: 0x01F3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  60: 0x01F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  61: 0x01F7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 62: 0x01FC [0x48] [System] [13914*]:
+ 62: 0x01FC [0x48] [System] [13915*]:
     → "Area selection will now be made by [region/content]."
  63: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0200 [0x01] GOTO 0x0232
@@ -1158,7 +1158,7 @@ SUBROUTINE_01AB:
  69: 0x0222 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  70: 0x0224 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  71: 0x0226 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 72: 0x022B [0x48] [System] [13914*]:
+ 72: 0x022B [0x48] [System] [13915*]:
     → "Area selection will now be made by [region/content]."
  73: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x022F [0x01] GOTO 0x0232
@@ -1169,7 +1169,7 @@ SUBROUTINE_0232:
 SUBROUTINE_02F3:
  76: 0x02F3 [0x1A] CALL_SUBROUTINE(address=0x042C)
  77: 0x02F6 [0x06] ExtData[1]->WorkLocal[33] = 0
- 78: 0x02F9 [0x48] [System] [13900*]:
+ 78: 0x02F9 [0x48] [System] [13901*]:
     → "The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
  79: 0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x02FD [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x03C6
@@ -1180,13 +1180,13 @@ SUBROUTINE_030B:
  83: 0x030B [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x03C3
  84: 0x0313 [0x1A] CALL_SUBROUTINE(address=0x0A74)
  85: 0x0316 [0x02] IF !(ExtData[1]->WorkLocal[37] == 4294967294*) GOTO 0x0328
- 86: 0x031E [0x48] [System] [13901*]:
+ 86: 0x031E [0x48] [System] [13902*]:
     → "No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
  87: 0x0321 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0322 [0x05] ExtData[1]->WorkLocal[11] = 1
  89: 0x0325 [0x01] GOTO 0x03C0
  90: 0x0328 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[33]
- 91: 0x032D [0x24] CREATE_DIALOG(message_id=13916*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
+ 91: 0x032D [0x24] CREATE_DIALOG(message_id=13917*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
     → "Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]"
  92: 0x0334 [0x25] WAIT_DIALOG_SELECT()
  93: 0x0335 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0343
@@ -1234,12 +1234,12 @@ SUBROUTINE_03D4:
 127: 0x03D4 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x0428
 128: 0x03DC [0x1A] CALL_SUBROUTINE(address=0x0A09)
 129: 0x03DF [0x02] IF !(ExtData[1]->WorkLocal[37] == 4294967294*) GOTO 0x03F1
-130: 0x03E7 [0x48] [System] [13901*]:
+130: 0x03E7 [0x48] [System] [13902*]:
     → "No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
 131: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x03EB [0x05] ExtData[1]->WorkLocal[11] = 1
 133: 0x03EE [0x01] GOTO 0x0425
-134: 0x03F1 [0x24] CREATE_DIALOG(message_id=13915*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[41])
+134: 0x03F1 [0x24] CREATE_DIALOG(message_id=13916*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[41])
     → "[Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]"
 135: 0x03F8 [0x25] WAIT_DIALOG_SELECT()
 136: 0x03F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0407
@@ -1340,7 +1340,7 @@ SUBROUTINE_055C:
 205: 0x056C [0x9D] ExtData[1]->WorkLocal[17] = 0x13CC[ExtData[1]->WorkLocal[59]] // Read WORD
 206: 0x0574 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 207: 0x0579 [0x06] ExtData[1]->WorkLocal[17] = 0
-208: 0x057C [0x48] [System] [13904*]:
+208: 0x057C [0x48] [System] [13905*]:
     → "All mog tablets have currently been found, so you may teleport to $8 at no charge."
 209: 0x057F [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x0580 [0x05] ExtData[1]->WorkLocal[76] = 1
@@ -1351,7 +1351,7 @@ SUBROUTINE_055C:
 215: 0x0596 [0x03] Work_Zone_1700[25] = 0*
 
 SUBROUTINE_059B:
-216: 0x059B [0x24] CREATE_DIALOG(message_id=13905*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+216: 0x059B [0x24] CREATE_DIALOG(message_id=13906*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]"
 217: 0x05A2 [0x25] WAIT_DIALOG_SELECT()
 218: 0x05A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05B4
@@ -1404,7 +1404,7 @@ SUBROUTINE_0613:
 
 SUBROUTINE_0676:
 261: 0x0676 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-262: 0x067B [0x24] CREATE_DIALOG(message_id=13906*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+262: 0x067B [0x24] CREATE_DIALOG(message_id=13907*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "$2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]"
 263: 0x0682 [0x25] WAIT_DIALOG_SELECT()
 264: 0x0683 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x068E
@@ -1442,7 +1442,7 @@ SUBROUTINE_0702:
 291: 0x0702 [0x01] GOTO 0x0771
 292: 0x0705 [0x02] IF !(ExtData[1]->WorkLocal[77] == 2*) GOTO 0x0766
 293: 0x070D [0x02] IF !(ExtData[1]->WorkLocal[34] >= ExtData[1]->WorkLocal[23]) GOTO 0x071F
-294: 0x0715 [0x48] [System] [13907*]:
+294: 0x0715 [0x48] [System] [13908*]:
     → "You do not have enough tabs."
 295: 0x0718 [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x0719 [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -1489,7 +1489,7 @@ SUBROUTINE_0786:
 327: 0x07A7 [0x9D] Work_Zone[3] = 0x12FC[ExtData[1]->WorkLocal[59]] // Read WORD
 328: 0x07AF [0x9D] Work_Zone[4] = 0x163C[ExtData[1]->WorkLocal[59]] // Read WORD
 329: 0x07B7 [0x03] Work_Zone_1700[25] = 1*
-330: 0x07BC [0x48] [System] [13918*]:
+330: 0x07BC [0x48] [System] [13919*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 331: 0x07BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x07C0 [0x06] ExtData[1]->WorkLocal[47] = 0
@@ -1504,13 +1504,13 @@ SUBROUTINE_0786:
 341: 0x07EA [0x9D] Work_Zone[3] = 0x12FC[ExtData[1]->WorkLocal[59]] // Read WORD
 342: 0x07F2 [0x9D] Work_Zone[4] = 0x163C[ExtData[1]->WorkLocal[59]] // Read WORD
 343: 0x07FA [0x03] Work_Zone_1700[25] = 0*
-344: 0x07FF [0x48] [System] [13918*]:
+344: 0x07FF [0x48] [System] [13919*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 345: 0x0802 [0x23] WAIT_FOR_DIALOG_INTERACTION
 346: 0x0803 [0x05] ExtData[1]->WorkLocal[47] = 1
 347: 0x0806 [0x01] GOTO 0x0884
 348: 0x0809 [0x03] ExtData[1]->WorkLocal[71] = ExtData[1]->WorkLocal[59]
-349: 0x080E [0x48] [System] [13919*]:
+349: 0x080E [0x48] [System] [13920*]:
     → "Your list of favorites is full. You must remove an existing entry to add new ones."
 350: 0x0811 [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x0812 [0x1A] CALL_SUBROUTINE(address=0x0965)
@@ -1532,7 +1532,7 @@ SUBROUTINE_0829:
 365: 0x0860 [0x9D] Work_Zone[3] = 0x12FC[ExtData[1]->WorkLocal[71]] // Read WORD
 366: 0x0868 [0x9D] Work_Zone[4] = 0x163C[ExtData[1]->WorkLocal[71]] // Read WORD
 367: 0x0870 [0x03] Work_Zone_1700[25] = 0*
-368: 0x0875 [0x48] [System] [13918*]:
+368: 0x0875 [0x48] [System] [13919*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 369: 0x0878 [0x23] WAIT_FOR_DIALOG_INTERACTION
 370: 0x0879 [0x05] ExtData[1]->WorkLocal[47] = 1
@@ -1744,7 +1744,7 @@ SUBROUTINE_0BCF:
 530: 0x0BDF [0x9D] ExtData[1]->WorkLocal[17] = 0x13CC[ExtData[1]->WorkLocal[59]] // Read WORD
 531: 0x0BE7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 532: 0x0BEC [0x06] ExtData[1]->WorkLocal[17] = 0
-533: 0x0BEF [0x48] [System] [13904*]:
+533: 0x0BEF [0x48] [System] [13905*]:
     → "All mog tablets have currently been found, so you may teleport to $8 at no charge."
 534: 0x0BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 535: 0x0BF3 [0x05] ExtData[1]->WorkLocal[76] = 1
@@ -1755,7 +1755,7 @@ SUBROUTINE_0BCF:
 540: 0x0C09 [0x03] Work_Zone_1700[25] = 0*
 
 SUBROUTINE_0C0E:
-541: 0x0C0E [0x24] CREATE_DIALOG(message_id=13905*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+541: 0x0C0E [0x24] CREATE_DIALOG(message_id=13906*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]"
 542: 0x0C15 [0x25] WAIT_DIALOG_SELECT()
 543: 0x0C16 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C27
@@ -1807,7 +1807,7 @@ SUBROUTINE_0C83:
 
 SUBROUTINE_0CE6:
 585: 0x0CE6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-586: 0x0CEB [0x24] CREATE_DIALOG(message_id=13906*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+586: 0x0CEB [0x24] CREATE_DIALOG(message_id=13907*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "$2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]"
 587: 0x0CF2 [0x25] WAIT_DIALOG_SELECT()
 588: 0x0CF3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CFE
@@ -1844,7 +1844,7 @@ SUBROUTINE_0D6F:
 614: 0x0D6F [0x01] GOTO 0x0DDB
 615: 0x0D72 [0x02] IF !(ExtData[1]->WorkLocal[77] == 2*) GOTO 0x0DD0
 616: 0x0D7A [0x02] IF !(ExtData[1]->WorkLocal[34] >= ExtData[1]->WorkLocal[23]) GOTO 0x0D8C
-617: 0x0D82 [0x48] [System] [13907*]:
+617: 0x0D82 [0x48] [System] [13908*]:
     → "You do not have enough tabs."
 618: 0x0D85 [0x23] WAIT_FOR_DIALOG_INTERACTION
 619: 0x0D86 [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -2220,23 +2220,23 @@ SUBROUTINE_11BD:
      0x026B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
      0x0270 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[24]
      0x0275 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-     0x027A [0x48] [System] [13908*]:
+     0x027A [0x48] [System] [13909*]:
     → "The records indicate you have fought valiantly for Vana'diel for $1 hour[/s]."
      0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x027E [0x48] [System] [13909*]:
+     0x027E [0x48] [System] [13910*]:
     → "At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours."
      0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0282 [0x01] GOTO 0x02F2
      0x0285 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
      0x028A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[24]
      0x028F [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-     0x0294 [0x48] [System] [13908*]:
+     0x0294 [0x48] [System] [13909*]:
     → "The records indicate you have fought valiantly for Vana'diel for $1 hour[/s]."
      0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0298 [0x48] [System] [13910*]:
+     0x0298 [0x48] [System] [13911*]:
     → "As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued."
      0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x029C [0x24] CREATE_DIALOG(message_id=13911*, default_option=1*, option_flags=0*)
+     0x029C [0x24] CREATE_DIALOG(message_id=13912*, default_option=1*, option_flags=0*)
     → "Accept the reward? [Yes, please./No, thanks.]"
      0x02A3 [0x25] WAIT_DIALOG_SELECT()
      0x02A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E7
@@ -2267,7 +2267,7 @@ SUBROUTINE_11BD:
      0x1174 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1175 [0x21] END_EVENT
      0x1176 [0x1B] RETURN
-     0x1177 [0x48] [System] [13907*]:
+     0x1177 [0x48] [System] [13908*]:
     → "You do not have enough tabs."
      0x117A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x117B [0x21] END_EVENT

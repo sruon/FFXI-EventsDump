@@ -256,8 +256,8 @@
 |     151 | 0xFFFE7649  |  4294866505 |
 |     152 | 0x0218      |         536 |
 |     153 | 0x1CF7      |        7415 |
-|     154 | 0x2E8C      |       11916 |
-|     155 | 0x2E8D      |       11917 |
+|     154 | 0x2E8D      |       11917 |
+|     155 | 0x2E8E      |       11918 |
 |     156 | 0x1CF8      |        7416 |
 |     157 | 0x1CEE      |        7406 |
 |     158 | 0x1CEF      |        7407 |
@@ -2000,10 +2000,10 @@ SUBROUTINE_190D:
      0x175E [0x8A] CLOSE_MAP()
      0x175F [0x1C] WAIT(60* ticks)
      0x1762 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=[132*, 0*]
-     0x1773 [0x2B] Avandale (ID: 17727492/0x010E8004) [11916*]:
+     0x1773 [0x2B] Avandale (ID: 17727492/0x010E8004) [11917*]:
     → "By the way, Teilsa is a lady of traditional Elvaan upbringing, so try not to say anything that will offend her sensibilities. Anyway, let me mark her location on your map."
      0x177A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x177B [0x2B] Avandale (ID: 17727492/0x010E8004) [11917*]:
+     0x177B [0x2B] Avandale (ID: 17727492/0x010E8004) [11918*]:
     → "Now you can check her position anytime by opening the "Map" option from the main menu, selecting "Markers," and scrolling to the right."
      0x1782 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1783 [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=132*
@@ -2032,10 +2032,10 @@ SUBROUTINE_190D:
      0x193A [0x8A] CLOSE_MAP()
      0x193B [0x1C] WAIT(60* ticks)
      0x193E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=[132*, 0*]
-     0x194F [0x2B] Avandale (ID: 17727492/0x010E8004) [11916*]:
+     0x194F [0x2B] Avandale (ID: 17727492/0x010E8004) [11917*]:
     → "By the way, Teilsa is a lady of traditional Elvaan upbringing, so try not to say anything that will offend her sensibilities. Anyway, let me mark her location on your map."
      0x1956 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1957 [0x2B] Avandale (ID: 17727492/0x010E8004) [11917*]:
+     0x1957 [0x2B] Avandale (ID: 17727492/0x010E8004) [11918*]:
     → "Now you can check her position anytime by opening the "Map" option from the main menu, selecting "Markers," and scrolling to the right."
      0x195E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x195F [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=132*

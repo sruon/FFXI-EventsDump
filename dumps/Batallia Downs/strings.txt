@@ -7489,15 +7489,15 @@
  7485: I could not...
  7486: I could not help Rochefogne... I could not stop my brothers...
  7487: Rochefogne! What were you trying to tell us!? What secrets does Lightbringer hold? Rochefogne!
- 7488: Happy New Year! Ah, wait up, wait up!
- 7489: Happy New Year!
- 7490: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 7491: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 7492: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 7493: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 7494: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 7495: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 7496: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 7488: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7489: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7490: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7491: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7492: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7493: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7494: Neigh!! (Your year will be as joyful as the last.)
+ 7495: Neigh! (Your year will be fairly good...)
+ 7496: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7497: There is no grass growing here...
  7498: You will not find anything of interest there, <Player>.
  7499: This place... I...

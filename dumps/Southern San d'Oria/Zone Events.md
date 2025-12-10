@@ -1612,8 +1612,8 @@
 |    1405 | 0x27951     |      162129 |
 |    1406 | 0x510CC     |      331980 |
 |    1407 | 0xFFFEA9CB  |  4294879691 |
-|    1408 | 0x409D      |       16541 |
-|    1409 | 0x40C3      |       16579 |
+|    1408 | 0x409E      |       16542 |
+|    1409 | 0x40C4      |       16580 |
 
 ## String References
 
@@ -1633,8 +1633,8 @@
 - **10518**: What do you suggest? [Return the chocobos to the wild./Give the chocobos a rest./Reform the chocobo raising system./Bring the chocobos together.]
 - **13443**: Now's your chance to capture the hearts of the audience.
 - **13444**: What do you do? [Appeal to the audience./Stretch out your hand./Strike a pose.]
-- **16541**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **16579**: Your $3 fills with sand.
+- **16542**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **16580**: Your $3 fills with sand.
 
 ## Events
 
@@ -18056,9 +18056,9 @@ D750: 80 1C 9C 80 21 00                                 ....!.
  13: 0xD724 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_D729:
- 14: 0xD729 [0x48] [System] [16541*]:
+ 14: 0xD729 [0x48] [System] [16542*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
- 15: 0xD72C [0x48] [System] [16579*]:
+ 15: 0xD72C [0x48] [System] [16580*]:
     → "Your $3 fills with sand."
  16: 0xD72F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0xD740 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

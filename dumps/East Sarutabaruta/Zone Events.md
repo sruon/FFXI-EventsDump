@@ -669,21 +669,21 @@
 00C0:                      42  46 01 03 01 00 05 10 45         BF......E
 00D0: 2E 80 F8 FF FF 7F F8 FF  FF 7F 66 64 6F 30 2F 80  ..........fdo0/.
 00E0: 55 2E 80 F8 FF FF 7F F8  FF FF 7F 66 64 6F 30 4E  U..........fdo0N
-00F0: 00 D1 42 07 01 4E 00 D2  42 07 01 38 30 80 79 00  ..B..N..B..80.y.
-0100: F0 FF FF 7F D1 42 07 01  03 05 10 02 10 03 06 10  .....B..........
+00F0: 00 D0 42 07 01 4E 00 D1  42 07 01 38 30 80 79 00  ..B..N..B..80.y.
+0100: F0 FF FF 7F D0 42 07 01  03 05 10 02 10 03 06 10  .....B..........
 0110: 02 10 03 07 10 02 10 15  05 10 31 80 15 06 10 32  ..........1....2
 0120: 80 3F 07 10 07 10 32 80  37 33 80 34 80 35 80 36  .?....2.73.4.5.6
 0130: 80 45 37 80 F8 FF FF 7F  F8 FF FF 7F 73 30 30 32  .E7.........s002
-0140: 2F 80 4A D1 42 07 01 F0  FF FF 7F 45 2E 80 F8 FF  /.J.B......E....
-0150: FF 7F F8 FF FF 7F 66 64  69 31 2F 80 2B D1 42 07  ......fdi1/.+.B.
-0160: 01 38 80 23 66 39 80 D1  42 07 01 D1 42 07 01 74  .8.#f9..B...B..t
-0170: 6C 6B 30 2B D1 42 07 01  3A 80 23 02 04 10 2F 80  lk0+.B..:.#.../.
-0180: 01 CD 01 66 39 80 D1 42  07 01 D1 42 07 01 74 6C  ...f9..B...B..tl
+0140: 2F 80 4A D0 42 07 01 F0  FF FF 7F 45 2E 80 F8 FF  /.J.B......E....
+0150: FF 7F F8 FF FF 7F 66 64  69 31 2F 80 2B D0 42 07  ......fdi1/.+.B.
+0160: 01 38 80 23 66 39 80 D0  42 07 01 D0 42 07 01 74  .8.#f9..B...B..t
+0170: 6C 6B 30 2B D0 42 07 01  3A 80 23 02 04 10 2F 80  lk0+.B..:.#.../.
+0180: 01 CD 01 66 39 80 D0 42  07 01 D0 42 07 01 74 6C  ...f9..B...B..tl
 0190: 6B 31 03 05 10 04 10 03  06 10 04 10 03 07 10 04  k1..............
 01A0: 10 15 05 10 31 80 15 06  10 32 80 3F 07 10 07 10  ....1....2.?....
-01B0: 32 80 02 01 00 2F 80 00  C5 01 2B D1 42 07 01 3B  2..../....+.B..;
-01C0: 80 23 01 CD 01 2B D1 42  07 01 3C 80 23 66 39 80  .#...+.B..<.#f9.
-01D0: D1 42 07 01 D1 42 07 01  70 61 73 30 2B D1 42 07  .B...B..pas0+.B.
+01B0: 32 80 02 01 00 2F 80 00  C5 01 2B D0 42 07 01 3B  2..../....+.B..;
+01C0: 80 23 01 CD 01 2B D0 42  07 01 3C 80 23 66 39 80  .#...+.B..<.#f9.
+01D0: D0 42 07 01 D0 42 07 01  70 61 73 30 2B D0 42 07  .B...B..pas0+.B.
 01E0: 01 3D 80 23 52 37 80 F8  FF FF 7F F8 FF FF 7F 73  .=.#R7.........s
 01F0: 30 30 32 45 2E 80 F8 FF  FF 7F F8 FF FF 7F 66 64  002E..........fd
 0200: 6F 31 2F 80 55 2E 80 F8  FF FF 7F F8 FF FF 7F 66  o1/.U..........f
@@ -700,10 +700,10 @@
   2: 0x00CA [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[5]
   3: 0x00CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
   4: 0x00E0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [EventEntity, EventEntity], work=200*
-  5: 0x00EF [0x4E] SET_ENTITY_HIDE_FLAG: Show Orlaine (ID: 17253073/0x010742D1)
-  6: 0x00F5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17253074/0x010742D2)
+  5: 0x00EF [0x4E] SET_ENTITY_HIDE_FLAG: Show Orlaine (ID: 17253072/0x010742D0)
+  6: 0x00F5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17253073/0x010742D1)
   7: 0x00FB [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  8: 0x00FE [0x79] LocalPlayer looks at Orlaine (ID: 17253073/0x010742D1) (Basic look)
+  8: 0x00FE [0x79] LocalPlayer looks at Orlaine (ID: 17253072/0x010742D0) (Basic look)
   9: 0x0108 [0x03] Work_Zone[5] = Work_Zone[2]
  10: 0x010D [0x03] Work_Zone[6] = Work_Zone[2]
  11: 0x0112 [0x03] Work_Zone[7] = Work_Zone[2]
@@ -712,17 +712,17 @@
  14: 0x0121 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  15: 0x0128 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-113.554*, z=-520.322*, y=-4.154*, direction=183.4°*
  16: 0x0131 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[5*, 0*]
- 17: 0x0142 [0x4A] Orlaine (ID: 17253073/0x010742D1) looks at LocalPlayer
+ 17: 0x0142 [0x4A] Orlaine (ID: 17253072/0x010742D0) looks at LocalPlayer
  18: 0x014B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x015C [0x2B] Orlaine (ID: 17253073/0x010742D1) [7720*]:
+ 19: 0x015C [0x2B] Orlaine (ID: 17253072/0x010742D0) [7720*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0164 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Orlaine (ID: 17253073/0x010742D1), Orlaine (ID: 17253073/0x010742D1)], work=30*
- 22: 0x0173 [0x2B] Orlaine (ID: 17253073/0x010742D1) [7721*]:
+ 21: 0x0164 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Orlaine (ID: 17253072/0x010742D0), Orlaine (ID: 17253072/0x010742D0)], work=30*
+ 22: 0x0173 [0x2B] Orlaine (ID: 17253072/0x010742D0) [7721*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x017B [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x01CD
- 25: 0x0183 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Orlaine (ID: 17253073/0x010742D1), Orlaine (ID: 17253073/0x010742D1)], work=30*
+ 25: 0x0183 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Orlaine (ID: 17253072/0x010742D0), Orlaine (ID: 17253072/0x010742D0)], work=30*
  26: 0x0192 [0x03] Work_Zone[5] = Work_Zone[4]
  27: 0x0197 [0x03] Work_Zone[6] = Work_Zone[4]
  28: 0x019C [0x03] Work_Zone[7] = Work_Zone[4]
@@ -730,17 +730,17 @@
  30: 0x01A6 [0x15] Work_Zone[6] /= 60*
  31: 0x01AB [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x01B2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01C5
- 33: 0x01BA [0x2B] Orlaine (ID: 17253073/0x010742D1) [7722*]:
+ 33: 0x01BA [0x2B] Orlaine (ID: 17253072/0x010742D0) [7722*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x01C2 [0x01] GOTO 0x01CD
- 36: 0x01C5 [0x2B] Orlaine (ID: 17253073/0x010742D1) [7726*]:
+ 36: 0x01C5 [0x2B] Orlaine (ID: 17253072/0x010742D0) [7726*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01CD:
- 38: 0x01CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Orlaine (ID: 17253073/0x010742D1), Orlaine (ID: 17253073/0x010742D1)], work=30*
- 39: 0x01DC [0x2B] Orlaine (ID: 17253073/0x010742D1) [7723*]:
+ 38: 0x01CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Orlaine (ID: 17253072/0x010742D0), Orlaine (ID: 17253072/0x010742D0)], work=30*
+ 39: 0x01DC [0x2B] Orlaine (ID: 17253072/0x010742D0) [7723*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x01E4 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=5*

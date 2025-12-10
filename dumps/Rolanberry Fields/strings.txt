@@ -7448,15 +7448,15 @@
  7444: Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!
  7445: Ahahahahaha! You're getting close now! I can feel the ring's power from the next area!
  7446: Ahahahahaha! You're almost on top of it! It's somewhere in this area!
- 7447: Happy New Year! Ah, wait up, wait up!
- 7448: Happy New Year!
- 7449: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 7450: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 7451: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 7452: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 7453: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 7454: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 7455: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 7447: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7448: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7449: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7450: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7451: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7452: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7453: Neigh!! (Your year will be as joyful as the last.)
+ 7454: Neigh! (Your year will be fairly good...)
+ 7455: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7456: No more goodies 'round here! Me go looks somewheres else!
  7457: Where next one?
  7458: We no lose to smelly Moogles this time!

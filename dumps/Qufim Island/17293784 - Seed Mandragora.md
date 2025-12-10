@@ -30,16 +30,16 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x015C      |         348 |
-|       2 | 0x00C2      |         194 |
+|       2 | 0x00C7      |         199 |
 |       3 | 0x012C      |         300 |
 |       4 | 0x0930      |        2352 |
 |       5 | 0x000D      |          13 |
 |       6 | 0xFFFE0378  |  4294837112 |
-|       7 | 0x48047     |      294983 |
+|       7 | 0x47C5F     |      293983 |
 |       8 | 0xFFFFB3E3  |  4294947811 |
 |       9 | 0x0028      |          40 |
-|      10 | 0xFFFE0B48  |  4294839112 |
-|      11 | 0x4842F     |      295983 |
+|      10 | 0xFFFE20C4  |  4294844612 |
+|      11 | 0x48DF3     |      298483 |
 
 ## Events
 
@@ -130,7 +130,7 @@
 #### Opcodes
 
 ```
-  0: 0x000A [0xB6] ENTITY_APPEARANCE_HANDLER(case=Hair style, value=194*)
+  0: 0x000A [0xB6] ENTITY_APPEARANCE_HANDLER(case=Hair style, value=199*)
   1: 0x000E [0x00] END_REQSTACK()
 ```
 
@@ -226,7 +226,7 @@
 
 ```
   0: 0x001D [0x59] UPDATE_ENTITY_DATA: Set Seed Mandragora (ID: 17293784/0x0107E1D8) main speed = 13* * 0.1
-  1: 0x0025 [0x1F] MOVE_ENTITY: EventEntity moves to X=-130.184*, Z=294.983*, Y=-19.485*
+  1: 0x0025 [0x1F] MOVE_ENTITY: EventEntity moves to X=-130.184*, Z=293.983*, Y=-19.485*
   2: 0x002D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x002F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0030 [0x00] END_REQSTACK()
@@ -253,7 +253,7 @@
 
 ```
   0: 0x0031 [0x59] UPDATE_ENTITY_DATA: Set Seed Mandragora (ID: 17293784/0x0107E1D8) main speed = 40* * 0.1
-  1: 0x0039 [0x1F] MOVE_ENTITY: EventEntity moves to X=-128.184*, Z=295.983*, Y=-19.485*
+  1: 0x0039 [0x1F] MOVE_ENTITY: EventEntity moves to X=-122.684*, Z=298.483*, Y=-19.485*
   2: 0x0041 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0043 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0044 [0x00] END_REQSTACK()

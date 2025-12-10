@@ -1533,7 +1533,7 @@ SUBROUTINE_1121:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-1150:    BB 78 80 F0 FF FF 7F  A3 D2 06 01 6D 61 69 6E   .x.........main
+1150:    BB 78 80 F0 FF FF 7F  A2 D2 06 01 6D 61 69 6E   .x.........main
 1160: 02 80 1C 79 80 45 7A 80  F0 FF FF 7F F0 FF FF 7F  ...y.Ez.........
 1170: 66 64 6F 31 02 80 1C 73  80 00                    fdo1...s..      
 ```
@@ -1541,7 +1541,7 @@ SUBROUTINE_1121:
 #### Opcodes
 
 ```
-  0: 0x1151 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17224355/0x0106D2A3)], work=[147*, 0*]
+  0: 0x1151 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17224354/0x0106D2A2)], work=[147*, 0*]
   1: 0x1162 [0x1C] WAIT(240* ticks)
   2: 0x1165 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x1176 [0x1C] WAIT(60* ticks)
@@ -1565,13 +1565,13 @@ SUBROUTINE_1121:
 1180: 7C 80 7D 80 7E 80 46 01  45 7A 80 F0 FF FF 7F F0  |.}.~.F.Ez......
 1190: FF FF 7F 66 64 69 31 02  80 45 1B 80 F0 FF FF 7F  ...fdi1..E......
 11A0: F0 FF FF 7F 73 30 30 30  02 80 32 5C 80 1F 00 7F  ....s000..2\....
-11B0: 80 80 80 7D 80 1F 01 32  1F 80 4A 6E D2 06 01 F0  ...}...2..Jn....
-11C0: FF FF 7F 1F 00 81 80 82  80 7D 80 1F 01 4A 6B D2  .........}...Jk.
-11D0: 06 01 F0 FF FF 7F 2B 6B  D2 06 01 83 80 23 66 1B  ......+k.....#f.
-11E0: 80 6B D2 06 01 6B D2 06  01 74 6C 6B 30 2B 6B D2  .k...k...tlk0+k.
-11F0: 06 01 84 80 23 6B 69 64  6C 30 6B D2 06 01 27 0A  ....#kidl0k...'.
-1200: 6B D2 06 01 02 27 0A 6E  D2 06 01 02 1C 73 80 4A  k....'.n.....s.J
-1210: F0 FF FF 7F 6B D2 06 01  1C 73 80 45 7A 80 F0 FF  ....k....s.Ez...
+11B0: 80 80 80 7D 80 1F 01 32  1F 80 4A 6D D2 06 01 F0  ...}...2..Jm....
+11C0: FF FF 7F 1F 00 81 80 82  80 7D 80 1F 01 4A 6A D2  .........}...Jj.
+11D0: 06 01 F0 FF FF 7F 2B 6A  D2 06 01 83 80 23 66 1B  ......+j.....#f.
+11E0: 80 6A D2 06 01 6A D2 06  01 74 6C 6B 30 2B 6A D2  .j...j...tlk0+j.
+11F0: 06 01 84 80 23 6B 69 64  6C 30 6A D2 06 01 27 0A  ....#kidl0j...'.
+1200: 6A D2 06 01 02 27 0A 6D  D2 06 01 02 1C 73 80 4A  j....'.m.....s.J
+1210: F0 FF FF 7F 6A D2 06 01  1C 73 80 45 7A 80 F0 FF  ....j....s.Ez...
 1220: FF 7F F0 FF FF 7F 66 64  6F 31 02 80 55 7A 80 F0  ......fdo1..Uz..
 1230: FF FF 7F F0 FF FF 7F 66  64 6F 31 46 00 1C 30 80  .......fdo1F..0.
 1240: 55 1B 80 F0 FF FF 7F F0  FF FF 7F 73 30 30 30 45  U..........s000E
@@ -1592,22 +1592,22 @@ SUBROUTINE_1121:
   7: 0x11AD [0x1F] MOVE_ENTITY: EventEntity moves to X=631.064*, Z=-463.695*, Y=24.999*
   8: 0x11B5 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   9: 0x11B7 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
- 10: 0x11BA [0x4A] Dalzakk (ID: 17224302/0x0106D26E) looks at LocalPlayer
+ 10: 0x11BA [0x4A] Dalzakk (ID: 17224301/0x0106D26D) looks at LocalPlayer
  11: 0x11C3 [0x1F] MOVE_ENTITY: EventEntity moves to X=628.261*, Z=-464.175*, Y=24.999*
  12: 0x11CB [0x1F] MOVE_ENTITY: Update entity position (mode=1)
- 13: 0x11CD [0x4A] Naji (ID: 17224299/0x0106D26B) looks at LocalPlayer
- 14: 0x11D6 [0x2B] Naji (ID: 17224299/0x0106D26B) [7893*]:
+ 13: 0x11CD [0x4A] Naji (ID: 17224298/0x0106D26A) looks at LocalPlayer
+ 14: 0x11D6 [0x2B] Naji (ID: 17224298/0x0106D26A) [7893*]:
     → "So, how's it going? Still haven't got your twenty, huh."
  15: 0x11DD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x11DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17224299/0x0106D26B), Naji (ID: 17224299/0x0106D26B)], work=9*
- 17: 0x11ED [0x2B] Naji (ID: 17224299/0x0106D26B) [7894*]:
+ 16: 0x11DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17224298/0x0106D26A), Naji (ID: 17224298/0x0106D26A)], work=9*
+ 17: 0x11ED [0x2B] Naji (ID: 17224298/0x0106D26A) [7894*]:
     → "I haven't got that many either. Let's go back in there! I can't lose to Ayame!"
  18: 0x11F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x11F5 [0x6B] STOP_AND_IDLE: Naji (ID: 17224299/0x0106D26B) stops current action and resets to idle (animation="idl0")
- 20: 0x11FE [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224299/0x0106D26B), tag_num=0x02)
- 21: 0x1205 [0x27] REQ_SET(priority=0x0A, entity_id=Dalzakk (ID: 17224302/0x0106D26E), tag_num=0x02)
+ 19: 0x11F5 [0x6B] STOP_AND_IDLE: Naji (ID: 17224298/0x0106D26A) stops current action and resets to idle (animation="idl0")
+ 20: 0x11FE [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224298/0x0106D26A), tag_num=0x02)
+ 21: 0x1205 [0x27] REQ_SET(priority=0x0A, entity_id=Dalzakk (ID: 17224301/0x0106D26D), tag_num=0x02)
  22: 0x120C [0x1C] WAIT(60* ticks)
- 23: 0x120F [0x4A] LocalPlayer looks at Naji (ID: 17224299/0x0106D26B)
+ 23: 0x120F [0x4A] LocalPlayer looks at Naji (ID: 17224298/0x0106D26A)
  24: 0x1218 [0x1C] WAIT(60* ticks)
  25: 0x121B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  26: 0x122C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
@@ -1635,33 +1635,33 @@ SUBROUTINE_1121:
 1260:       22 00 42 46 01 37  7F 80 80 80 7D 80 85 80    ".BF.7....}...
 1270: 45 7A 80 F0 FF FF 7F F0  FF FF 7F 66 64 69 31 02  Ez.........fdi1.
 1280: 80 45 1B 80 F0 FF FF 7F  F0 FF FF 7F 73 30 30 31  .E..........s001
-1290: 02 80 1C 26 80 4A 6C D2  06 01 F0 FF FF 7F 1C 1C  ...&.Jl.........
+1290: 02 80 1C 26 80 4A 6B D2  06 01 F0 FF FF 7F 1C 1C  ...&.Jk.........
 12A0: 80 32 5C 80 1F 00 81 80  82 80 7D 80 1F 01 79 00  .2\.......}...y.
-12B0: 6E D2 06 01 F0 FF FF 7F  79 00 6D D2 06 01 F0 FF  n.......y.m.....
-12C0: FF 7F 1C 30 80 6F 76 6C  D2 06 01 66 25 80 6C D2  ...0.ovl...f%.l.
-12D0: 06 01 6C D2 06 01 74 6C  6B 30 2B 6C D2 06 01 86  ..l...tlk0+l....
-12E0: 80 23 7B 6C D2 06 01 6B  69 64 6C 30 6C D2 06 01  .#{l...kidl0l...
+12B0: 6D D2 06 01 F0 FF FF 7F  79 00 6C D2 06 01 F0 FF  m.......y.l.....
+12C0: FF 7F 1C 30 80 6F 76 6B  D2 06 01 66 25 80 6B D2  ...0.ovk...f%.k.
+12D0: 06 01 6B D2 06 01 74 6C  6B 30 2B 6B D2 06 01 86  ..k...tlk0+k....
+12E0: 80 23 7B 6B D2 06 01 6B  69 64 6C 30 6B D2 06 01  .#{k...kidl0k...
 12F0: 55 1B 80 F0 FF FF 7F F0  FF FF 7F 73 30 30 31 45  U..........s001E
 1300: 1B 80 F0 FF FF 7F F0 FF  FF 7F 73 30 30 32 02 80  ..........s002..
-1310: 27 0A 6C D2 06 01 02 79  00 F0 FF FF 7F 6C D2 06  '.l....y.....l..
-1320: 01 79 00 6D D2 06 01 6C  D2 06 01 79 00 6E D2 06  .y.m...l...y.n..
-1330: 01 6C D2 06 01 2B 6C D2  06 01 87 80 23 27 0A 6B  .l...+l.....#'.k
-1340: D2 06 01 04 1C 79 80 2B  6B D2 06 01 88 80 23 66  .....y.+k.....#f
-1350: 25 80 6C D2 06 01 6C D2  06 01 74 6C 6B 30 2B 6C  %.l...l...tlk0+l
-1360: D2 06 01 89 80 23 6B 69  64 6C 30 6C D2 06 01 4B  .....#kidl0l...K
-1370: F0 FF FF 7F 8A 80 4B 6D  D2 06 01 8B 80 4B 6E D2  ......Km.....Kn.
-1380: 06 01 8C 80 2A 0A 6B D2  06 01 66 1B 80 6B D2 06  ....*.k...f..k..
-1390: 01 6B D2 06 01 74 6C 6B  30 2B 6B D2 06 01 8D 80  .k...tlk0+k.....
-13A0: 23 6B 69 64 6C 30 6B D2  06 01 27 0A 6C D2 06 01  #kidl0k...'.l...
+1310: 27 0A 6B D2 06 01 02 79  00 F0 FF FF 7F 6B D2 06  '.k....y.....k..
+1320: 01 79 00 6C D2 06 01 6B  D2 06 01 79 00 6D D2 06  .y.l...k...y.m..
+1330: 01 6B D2 06 01 2B 6B D2  06 01 87 80 23 27 0A 6A  .k...+k.....#'.j
+1340: D2 06 01 04 1C 79 80 2B  6A D2 06 01 88 80 23 66  .....y.+j.....#f
+1350: 25 80 6B D2 06 01 6B D2  06 01 74 6C 6B 30 2B 6B  %.k...k...tlk0+k
+1360: D2 06 01 89 80 23 6B 69  64 6C 30 6B D2 06 01 4B  .....#kidl0k...K
+1370: F0 FF FF 7F 8A 80 4B 6C  D2 06 01 8B 80 4B 6D D2  ......Kl.....Km.
+1380: 06 01 8C 80 2A 0A 6A D2  06 01 66 1B 80 6A D2 06  ....*.j...f..j..
+1390: 01 6A D2 06 01 74 6C 6B  30 2B 6A D2 06 01 8D 80  .j...tlk0+j.....
+13A0: 23 6B 69 64 6C 30 6A D2  06 01 27 0A 6B D2 06 01  #kidl0j...'.k...
 13B0: 03 45 1B 80 F0 FF FF 7F  F0 FF FF 7F 73 30 30 33  .E..........s003
-13C0: 02 80 2B 6C D2 06 01 8E  80 23 27 0A 6B D2 06 01  ..+l.....#'.k...
-13D0: 05 2A 0A 6C D2 06 01 2B  6B D2 06 01 8F 80 23 27  .*.l...+k.....#'
-13E0: 0A 6B D2 06 01 06 45 1B  80 F0 FF FF 7F F0 FF FF  .k....E.........
-13F0: 7F 73 30 30 34 02 80 2A  0A 6B D2 06 01 1C 73 80  .s004..*.k....s.
-1400: 66 1B 80 6D D2 06 01 6D  D2 06 01 74 6C 6B 30 2B  f..m...m...tlk0+
-1410: 6D D2 06 01 90 80 23 2B  6D D2 06 01 91 80 23 6B  m.....#+m.....#k
-1420: 69 64 6C 30 6D D2 06 01  27 0A 6E D2 06 01 04 2B  idl0m...'.n....+
-1430: 6E D2 06 01 92 80 23 27  0A 6D D2 06 01 02 45 7A  n.....#'.m....Ez
+13C0: 02 80 2B 6B D2 06 01 8E  80 23 27 0A 6A D2 06 01  ..+k.....#'.j...
+13D0: 05 2A 0A 6B D2 06 01 2B  6A D2 06 01 8F 80 23 27  .*.k...+j.....#'
+13E0: 0A 6A D2 06 01 06 45 1B  80 F0 FF FF 7F F0 FF FF  .j....E.........
+13F0: 7F 73 30 30 34 02 80 2A  0A 6A D2 06 01 1C 73 80  .s004..*.j....s.
+1400: 66 1B 80 6C D2 06 01 6C  D2 06 01 74 6C 6B 30 2B  f..l...l...tlk0+
+1410: 6C D2 06 01 90 80 23 2B  6C D2 06 01 91 80 23 6B  l.....#+l.....#k
+1420: 69 64 6C 30 6C D2 06 01  27 0A 6D D2 06 01 04 2B  idl0l...'.m....+
+1430: 6D D2 06 01 92 80 23 27  0A 6C D2 06 01 02 45 7A  m.....#'.l....Ez
 1440: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 02 80 55  .........fdo1..U
 1450: 7A 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 52 1B  z.........fdo1R.
 1460: 80 F0 FF FF 7F F0 FF FF  7F 73 30 30 34 45 93 80  .........s004E..
@@ -1680,77 +1680,77 @@ SUBROUTINE_1121:
   4: 0x1270 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   5: 0x1281 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[9*, 0*]
   6: 0x1292 [0x1C] WAIT(20* ticks)
-  7: 0x1295 [0x4A] Ayame (ID: 17224300/0x0106D26C) looks at LocalPlayer
+  7: 0x1295 [0x4A] Ayame (ID: 17224299/0x0106D26B) looks at LocalPlayer
   8: 0x129E [0x1C] WAIT(10* ticks)
   9: 0x12A1 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
  10: 0x12A4 [0x1F] MOVE_ENTITY: EventEntity moves to X=628.261*, Z=-464.175*, Y=24.999*
  11: 0x12AC [0x1F] MOVE_ENTITY: Update entity position (mode=1)
- 12: 0x12AE [0x79] Dalzakk (ID: 17224302/0x0106D26E) looks at LocalPlayer (Basic look)
- 13: 0x12B8 [0x79] Hani (ID: 17224301/0x0106D26D) looks at LocalPlayer (Basic look)
+ 12: 0x12AE [0x79] Dalzakk (ID: 17224301/0x0106D26D) looks at LocalPlayer (Basic look)
+ 13: 0x12B8 [0x79] Hani (ID: 17224300/0x0106D26C) looks at LocalPlayer (Basic look)
  14: 0x12C2 [0x1C] WAIT(30* ticks)
  15: 0x12C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
- 16: 0x12C6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ayame (ID: 17224300/0x0106D26C) Render.Flags0 and Render.Flags3 conditions are met
- 17: 0x12CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17224300/0x0106D26C), Ayame (ID: 17224300/0x0106D26C)], work=19*
- 18: 0x12DA [0x2B] Ayame (ID: 17224300/0x0106D26C) [7895*]:
+ 16: 0x12C6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ayame (ID: 17224299/0x0106D26B) Render.Flags0 and Render.Flags3 conditions are met
+ 17: 0x12CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17224299/0x0106D26B), Ayame (ID: 17224299/0x0106D26B)], work=19*
+ 18: 0x12DA [0x2B] Ayame (ID: 17224299/0x0106D26B) [7895*]:
     → "Good. You have all done well. We seem to be only missing Naji..."
  19: 0x12E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x12E2 [0x7B] Ayame (ID: 17224300/0x0106D26C) stops talking
- 21: 0x12E7 [0x6B] STOP_AND_IDLE: Ayame (ID: 17224300/0x0106D26C) stops current action and resets to idle (animation="idl0")
+ 20: 0x12E2 [0x7B] Ayame (ID: 17224299/0x0106D26B) stops talking
+ 21: 0x12E7 [0x6B] STOP_AND_IDLE: Ayame (ID: 17224299/0x0106D26B) stops current action and resets to idle (animation="idl0")
  22: 0x12F0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=9*
  23: 0x12FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[9*, 0*]
- 24: 0x1310 [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17224300/0x0106D26C), tag_num=0x02)
- 25: 0x1317 [0x79] LocalPlayer looks at Ayame (ID: 17224300/0x0106D26C) (Basic look)
- 26: 0x1321 [0x79] Hani (ID: 17224301/0x0106D26D) looks at Ayame (ID: 17224300/0x0106D26C) (Basic look)
- 27: 0x132B [0x79] Dalzakk (ID: 17224302/0x0106D26E) looks at Ayame (ID: 17224300/0x0106D26C) (Basic look)
- 28: 0x1335 [0x2B] Ayame (ID: 17224300/0x0106D26C) [7896*]:
+ 24: 0x1310 [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17224299/0x0106D26B), tag_num=0x02)
+ 25: 0x1317 [0x79] LocalPlayer looks at Ayame (ID: 17224299/0x0106D26B) (Basic look)
+ 26: 0x1321 [0x79] Hani (ID: 17224300/0x0106D26C) looks at Ayame (ID: 17224299/0x0106D26B) (Basic look)
+ 27: 0x132B [0x79] Dalzakk (ID: 17224301/0x0106D26D) looks at Ayame (ID: 17224299/0x0106D26B) (Basic look)
+ 28: 0x1335 [0x2B] Ayame (ID: 17224299/0x0106D26B) [7896*]:
     → "Damn him, why is he always like this!?"
  29: 0x133C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x133D [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224299/0x0106D26B), tag_num=0x04)
+ 30: 0x133D [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224298/0x0106D26A), tag_num=0x04)
  31: 0x1344 [0x1C] WAIT(240* ticks)
- 32: 0x1347 [0x2B] Naji (ID: 17224299/0x0106D26B) [7897*]:
+ 32: 0x1347 [0x2B] Naji (ID: 17224298/0x0106D26A) [7897*]:
     → "Hey, guys! Wait till you hear what I did!"
  33: 0x134E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x134F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17224300/0x0106D26C), Ayame (ID: 17224300/0x0106D26C)], work=19*
- 35: 0x135E [0x2B] Ayame (ID: 17224300/0x0106D26C) [7898*]:
+ 34: 0x134F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17224299/0x0106D26B), Ayame (ID: 17224299/0x0106D26B)], work=19*
+ 35: 0x135E [0x2B] Ayame (ID: 17224299/0x0106D26B) [7898*]:
     → "You are late! You almost compromised our retreat! Everyone was worried you might be injured!"
  36: 0x1365 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x1366 [0x6B] STOP_AND_IDLE: Ayame (ID: 17224300/0x0106D26C) stops current action and resets to idle (animation="idl0")
+ 37: 0x1366 [0x6B] STOP_AND_IDLE: Ayame (ID: 17224299/0x0106D26B) stops current action and resets to idle (animation="idl0")
  38: 0x136F [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=18.8°*)
- 39: 0x1376 [0x4B] UPDATE_ENTITY_YAW(entity=Hani (ID: 17224301/0x0106D26D), yaw=19.2°*)
- 40: 0x137D [0x4B] UPDATE_ENTITY_YAW(entity=Dalzakk (ID: 17224302/0x0106D26E), yaw=19.8°*)
- 41: 0x1384 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Naji (ID: 17224299/0x0106D26B))
- 42: 0x138A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17224299/0x0106D26B), Naji (ID: 17224299/0x0106D26B)], work=9*
- 43: 0x1399 [0x2B] Naji (ID: 17224299/0x0106D26B) [7899*]:
+ 39: 0x1376 [0x4B] UPDATE_ENTITY_YAW(entity=Hani (ID: 17224300/0x0106D26C), yaw=19.2°*)
+ 40: 0x137D [0x4B] UPDATE_ENTITY_YAW(entity=Dalzakk (ID: 17224301/0x0106D26D), yaw=19.8°*)
+ 41: 0x1384 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Naji (ID: 17224298/0x0106D26A))
+ 42: 0x138A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17224298/0x0106D26A), Naji (ID: 17224298/0x0106D26A)], work=9*
+ 43: 0x1399 [0x2B] Naji (ID: 17224298/0x0106D26A) [7899*]:
     → "I'm sorry, it's been a while since I got to bash on real enemies, so I couldn't just leave without getting some extra--"
  44: 0x13A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x13A1 [0x6B] STOP_AND_IDLE: Naji (ID: 17224299/0x0106D26B) stops current action and resets to idle (animation="idl0")
- 46: 0x13AA [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17224300/0x0106D26C), tag_num=0x03)
+ 45: 0x13A1 [0x6B] STOP_AND_IDLE: Naji (ID: 17224298/0x0106D26A) stops current action and resets to idle (animation="idl0")
+ 46: 0x13AA [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17224299/0x0106D26B), tag_num=0x03)
  47: 0x13B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[9*, 0*]
- 48: 0x13C2 [0x2B] Ayame (ID: 17224300/0x0106D26C) [7900*]:
+ 48: 0x13C2 [0x2B] Ayame (ID: 17224299/0x0106D26B) [7900*]:
     → "This mission's over! You may each go back to Bastok at your own leisure. I will report our success to the captain. Dismissed."
  49: 0x13C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x13CA [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224299/0x0106D26B), tag_num=0x05)
- 51: 0x13D1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ayame (ID: 17224300/0x0106D26C))
- 52: 0x13D7 [0x2B] Naji (ID: 17224299/0x0106D26B) [7901*]:
+ 50: 0x13CA [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224298/0x0106D26A), tag_num=0x05)
+ 51: 0x13D1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ayame (ID: 17224299/0x0106D26B))
+ 52: 0x13D7 [0x2B] Naji (ID: 17224298/0x0106D26A) [7901*]:
     → "W-wait, you're not angry at me, are you?"
  53: 0x13DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x13DF [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224299/0x0106D26B), tag_num=0x06)
+ 54: 0x13DF [0x27] REQ_SET(priority=0x0A, entity_id=Naji (ID: 17224298/0x0106D26A), tag_num=0x06)
  55: 0x13E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[9*, 0*]
- 56: 0x13F7 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Naji (ID: 17224299/0x0106D26B))
+ 56: 0x13F7 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Naji (ID: 17224298/0x0106D26A))
  57: 0x13FD [0x1C] WAIT(60* ticks)
- 58: 0x1400 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hani (ID: 17224301/0x0106D26D), Hani (ID: 17224301/0x0106D26D)], work=9*
- 59: 0x140F [0x2B] Hani (ID: 17224301/0x0106D26D) [7902*]:
+ 58: 0x1400 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hani (ID: 17224300/0x0106D26C), Hani (ID: 17224300/0x0106D26C)], work=9*
+ 59: 0x140F [0x2B] Hani (ID: 17224300/0x0106D26C) [7902*]:
     → "It may not seem so, but those two truly are great warriors."
  60: 0x1416 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x1417 [0x2B] Hani (ID: 17224301/0x0106D26D) [7903*]:
+ 61: 0x1417 [0x2B] Hani (ID: 17224300/0x0106D26C) [7903*]:
     → "They are both the youngest people to become Mythril Musketeers ever. It almost seemed like this mission was a tedious chore to them."
  62: 0x141E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x141F [0x6B] STOP_AND_IDLE: Hani (ID: 17224301/0x0106D26D) stops current action and resets to idle (animation="idl0")
- 64: 0x1428 [0x27] REQ_SET(priority=0x0A, entity_id=Dalzakk (ID: 17224302/0x0106D26E), tag_num=0x04)
- 65: 0x142F [0x2B] Dalzakk (ID: 17224302/0x0106D26E) [7904*]:
+ 63: 0x141F [0x6B] STOP_AND_IDLE: Hani (ID: 17224300/0x0106D26C) stops current action and resets to idle (animation="idl0")
+ 64: 0x1428 [0x27] REQ_SET(priority=0x0A, entity_id=Dalzakk (ID: 17224301/0x0106D26D), tag_num=0x04)
+ 65: 0x142F [0x2B] Dalzakk (ID: 17224301/0x0106D26D) [7904*]:
     → "It seemed to me that this mission's objective was to test us adventurers, in order to select the best of us for a greater task..."
  66: 0x1436 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x1437 [0x27] REQ_SET(priority=0x0A, entity_id=Hani (ID: 17224301/0x0106D26D), tag_num=0x02)
+ 67: 0x1437 [0x27] REQ_SET(priority=0x0A, entity_id=Hani (ID: 17224300/0x0106D26C), tag_num=0x02)
  68: 0x143E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  69: 0x144F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
  70: 0x145E [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=9*

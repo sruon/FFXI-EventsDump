@@ -7482,15 +7482,15 @@
  7478: Any of our fine birds here will bear you directly to the frontlines of battle. We charge a service fee of $0 Allied Notes, which goes towards seeing that the chocobos are well taken care of. My records indicate that you currently have $1 Allied Notes.
  7479: Hmmm... It looks like you don't have enough Allied Notes. Sorry, but these birds aren't going to feed and groom themselves.
  7480: I'm sorry, but we don't put our chocobos in the hands of people with $6. We wouldn't want our feathered friends dying from fright now, would we?
- 7481: Happy New Year! Ah, wait up, wait up!
- 7482: Happy New Year!
- 7483: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 7484: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 7485: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 7486: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 7487: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 7488: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 7489: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 7481: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7482: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7483: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7484: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7485: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7486: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7487: Neigh!! (Your year will be as joyful as the last.)
+ 7488: Neigh! (Your year will be fairly good...)
+ 7489: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7490: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
  7491: Come, <Player>. Follow me...
  7492: Carbuncle vanished off in the direction of the La Theine Plateau.

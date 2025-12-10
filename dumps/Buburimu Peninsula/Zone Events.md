@@ -251,35 +251,35 @@
 0020: FF FF 7F 66 64 6F 31 38  02 80 37 03 80 04 80 05  ...fdo18..7.....
 0030: 80 06 80 45 07 80 F8 FF  FF 7F F8 FF FF 7F 63 6D  ...E..........cm
 0040: 31 30 01 80 55 07 80 F8  FF FF 7F F8 FF FF 7F 63  10..U..........c
-0050: 6D 31 30 4E 00 53 62 07  01 45 00 80 F0 FF FF 7F  m10N.Sb..E......
+0050: 6D 31 30 4E 00 52 62 07  01 45 00 80 F0 FF FF 7F  m10N.Rb..E......
 0060: F0 FF FF 7F 66 64 69 31  01 80 55 00 80 F0 FF FF  ....fdi1..U.....
-0070: 7F F0 FF FF 7F 66 64 69  31 2B 53 62 07 01 08 80  .....fdi1+Sb....
-0080: 23 4A F0 FF FF 7F 53 62  07 01 6F 76 F0 FF FF 7F  #J....Sb..ov....
+0070: 7F F0 FF FF 7F 66 64 69  31 2B 52 62 07 01 08 80  .....fdi1+Rb....
+0080: 23 4A F0 FF FF 7F 52 62  07 01 6F 76 F0 FF FF 7F  #J....Rb..ov....
 0090: 45 07 80 F8 FF FF 7F F8  FF FF 7F 63 6D 31 31 01  E..........cm11.
 00A0: 80 55 07 80 F8 FF FF 7F  F8 FF FF 7F 63 6D 31 31  .U..........cm11
-00B0: 2B 53 62 07 01 09 80 23  27 03 53 62 07 01 02 1C  +Sb....#'.Sb....
-00C0: 0A 80 4A F0 FF FF 7F 53  62 07 01 1C 0A 80 4A F0  ..J....Sb.....J.
-00D0: FF FF 7F 53 62 07 01 29  04 53 62 07 01 08 4A F0  ...Sb..).Sb...J.
-00E0: FF FF 7F 53 62 07 01 2B  53 62 07 01 0B 80 23 5C  ...Sb..+Sb....#\
-00F0: 00 0C 80 5C 01 0C 80 27  03 53 62 07 01 04 45 07  ...\...'.Sb...E.
+00B0: 2B 52 62 07 01 09 80 23  27 03 52 62 07 01 02 1C  +Rb....#'.Rb....
+00C0: 0A 80 4A F0 FF FF 7F 52  62 07 01 1C 0A 80 4A F0  ..J....Rb.....J.
+00D0: FF FF 7F 52 62 07 01 29  04 52 62 07 01 08 4A F0  ...Rb..).Rb...J.
+00E0: FF FF 7F 52 62 07 01 2B  52 62 07 01 0B 80 23 5C  ...Rb..+Rb....#\
+00F0: 00 0C 80 5C 01 0C 80 27  03 52 62 07 01 04 45 07  ...\...'.Rb...E.
 0100: 80 F8 FF FF 7F F8 FF FF  7F 63 6D 31 32 01 80 55  .........cm12..U
-0110: 07 80 F8 FF FF 7F F8 FF  FF 7F 63 6D 31 32 2B 53  ..........cm12+S
-0120: 62 07 01 0D 80 23 2B 53  62 07 01 0E 80 23 2B 53  b....#+Sb....#+S
-0130: 62 07 01 0F 80 23 27 03  52 62 07 01 03 2B 53 62  b....#'.Rb...+Sb
-0140: 07 01 10 80 23 2B 53 62  07 01 11 80 23 2B 53 62  ....#+Sb....#+Sb
-0150: 07 01 12 80 23 29 04 52  62 07 01 04 29 04 53 62  ....#).Rb...).Sb
-0160: 07 01 05 4A 53 62 07 01  F0 FF FF 7F 1C 0A 80 27  ...JSb.........'
-0170: 03 53 62 07 01 06 2B 53  62 07 01 13 80 23 2B 53  .Sb...+Sb....#+S
-0180: 62 07 01 14 80 23 27 04  53 62 07 01 07 1C 15 80  b....#'.Sb......
+0110: 07 80 F8 FF FF 7F F8 FF  FF 7F 63 6D 31 32 2B 52  ..........cm12+R
+0120: 62 07 01 0D 80 23 2B 52  62 07 01 0E 80 23 2B 52  b....#+Rb....#+R
+0130: 62 07 01 0F 80 23 27 03  51 62 07 01 03 2B 52 62  b....#'.Qb...+Rb
+0140: 07 01 10 80 23 2B 52 62  07 01 11 80 23 2B 52 62  ....#+Rb....#+Rb
+0150: 07 01 12 80 23 29 04 51  62 07 01 04 29 04 52 62  ....#).Qb...).Rb
+0160: 07 01 05 4A 52 62 07 01  F0 FF FF 7F 1C 0A 80 27  ...JRb.........'
+0170: 03 52 62 07 01 06 2B 52  62 07 01 13 80 23 2B 52  .Rb...+Rb....#+R
+0180: 62 07 01 14 80 23 27 04  52 62 07 01 07 1C 15 80  b....#'.Rb......
 0190: 45 07 80 F8 FF FF 7F F8  FF FF 7F 63 6D 31 34 01  E..........cm14.
 01A0: 80 55 07 80 F8 FF FF 7F  F8 FF FF 7F 63 6D 31 34  .U..........cm14
-01B0: 29 05 53 62 07 01 08 2B  53 62 07 01 16 80 23 2B  ).Sb...+Sb....#+
-01C0: 53 62 07 01 17 80 23 7B  53 62 07 01 1C 0A 80 27  Sb....#{Sb.....'
-01D0: 05 53 62 07 01 03 1C 0A  80 4A F0 FF FF 7F 53 62  .Sb......J....Sb
-01E0: 07 01 1C 0A 80 4A F0 FF  FF 7F 53 62 07 01 1C 18  .....J....Sb....
+01B0: 29 05 52 62 07 01 08 2B  52 62 07 01 16 80 23 2B  ).Rb...+Rb....#+
+01C0: 52 62 07 01 17 80 23 7B  52 62 07 01 1C 0A 80 27  Rb....#{Rb.....'
+01D0: 05 52 62 07 01 03 1C 0A  80 4A F0 FF FF 7F 52 62  .Rb......J....Rb
+01E0: 07 01 1C 0A 80 4A F0 FF  FF 7F 52 62 07 01 1C 18  .....J....Rb....
 01F0: 80 45 00 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 32  .E..........fdo2
 0200: 01 80 55 00 80 F0 FF FF  7F F0 FF FF 7F 66 64 6F  ..U..........fdo
-0210: 32 5C 00 01 80 5C 01 01  80 4E 01 53 62 07 01 46  2\...\...N.Sb..F
+0210: 32 5C 00 01 80 5C 01 01  80 4E 01 52 62 07 01 46  2\...\...N.Rb..F
 0220: 00 45 00 80 F0 FF FF 7F  F0 FF FF 7F 66 64 69 32  .E..........fdi2
 0230: 01 80 21 00                                       ..!.            
 ```
@@ -296,89 +296,89 @@
   6: 0x002A [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-244.617*, z=-279.131*, y=15.999*, direction=172.0°*
   7: 0x0033 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm10" with entities [EventEntity, EventEntity], work=[146*, 0*]
   8: 0x0044 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm10" with entities [EventEntity, EventEntity], work=146*
-  9: 0x0053 [0x4E] SET_ENTITY_HIDE_FLAG: Show Lewenhart (ID: 17261139/0x01076253)
+  9: 0x0053 [0x4E] SET_ENTITY_HIDE_FLAG: Show Lewenhart (ID: 17261138/0x01076252)
  10: 0x0059 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  11: 0x006A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 12: 0x0079 [0x2B] Lewenhart (ID: 17261139/0x01076253) [7389*]:
+ 12: 0x0079 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7389*]:
     → "Oh, it's a rare day I see anybody around here."
  13: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0081 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261139/0x01076253)
+ 14: 0x0081 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
  15: 0x008A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  16: 0x008B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  17: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm11" with entities [EventEntity, EventEntity], work=[146*, 0*]
  18: 0x00A1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm11" with entities [EventEntity, EventEntity], work=146*
- 19: 0x00B0 [0x2B] Lewenhart (ID: 17261139/0x01076253) [7390*]:
+ 19: 0x00B0 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7390*]:
     → "Oh, forgive me... I am a simple minstrel. I travel from one tavern to another, caring little whence my daily bread may come."
  20: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x00B8 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x02)
+ 21: 0x00B8 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x02)
  22: 0x00BF [0x1C] WAIT(60* ticks)
- 23: 0x00C2 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261139/0x01076253)
+ 23: 0x00C2 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
  24: 0x00CB [0x1C] WAIT(60* ticks)
- 25: 0x00CE [0x4A] LocalPlayer looks at Lewenhart (ID: 17261139/0x01076253)
- 26: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x08)
- 27: 0x00DE [0x4A] LocalPlayer looks at Lewenhart (ID: 17261139/0x01076253)
- 28: 0x00E7 [0x2B] Lewenhart (ID: 17261139/0x01076253) [7391*]:
+ 25: 0x00CE [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
+ 26: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x08)
+ 27: 0x00DE [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
+ 28: 0x00E7 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7391*]:
     → "Every time I walk this road, I make a point of visiting this place. And it's good to see a kindred spirit here."
  29: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00EF [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 124*
  31: 0x00F3 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 124*
- 32: 0x00F7 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x04)
+ 32: 0x00F7 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x04)
  33: 0x00FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm12" with entities [EventEntity, EventEntity], work=[146*, 0*]
  34: 0x010F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm12" with entities [EventEntity, EventEntity], work=146*
- 35: 0x011E [0x2B] Lewenhart (ID: 17261139/0x01076253) [7392*]:
+ 35: 0x011E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7392*]:
     → "The lyrics here have an endless charm, don't they? The story of two lovers torn apart, each hearing the crashing of waves from opposite shores..."
  36: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0126 [0x2B] Lewenhart (ID: 17261139/0x01076253) [7393*]:
+ 37: 0x0126 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7393*]:
     → "This is how emotions live on, my friend. Even those of broken dreams and failed romances..."
  38: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x012E [0x2B] Lewenhart (ID: 17261139/0x01076253) [7394*]:
+ 39: 0x012E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7394*]:
     → "Our duty as minstrels is to take these shattered desires, give them shape, and pass them to others."
  40: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0136 [0x27] REQ_SET(priority=0x03, entity_id=Song Runes (ID: 17261138/0x01076252), tag_num=0x03)
- 42: 0x013D [0x2B] Lewenhart (ID: 17261139/0x01076253) [7395*]:
+ 41: 0x0136 [0x27] REQ_SET(priority=0x03, entity_id=Song Runes (ID: 17261137/0x01076251), tag_num=0x03)
+ 42: 0x013D [0x2B] Lewenhart (ID: 17261138/0x01076252) [7395*]:
     → "I know that dreams and emotions are often difficult to grasp."
  43: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0145 [0x2B] Lewenhart (ID: 17261139/0x01076253) [7396*]:
+ 44: 0x0145 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7396*]:
     → "But sometimes, in a moment of brilliance, our songs can stir even the loneliest heart."
  45: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x014D [0x2B] Lewenhart (ID: 17261139/0x01076253) [7397*]:
+ 46: 0x014D [0x2B] Lewenhart (ID: 17261138/0x01076252) [7397*]:
     → "My friend, moments like that are what keep us minstrels singing."
  47: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x0155 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Song Runes (ID: 17261138/0x01076252), tag_num=0x04)
- 49: 0x015C [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x05)
- 50: 0x0163 [0x4A] Lewenhart (ID: 17261139/0x01076253) looks at LocalPlayer
+ 48: 0x0155 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Song Runes (ID: 17261137/0x01076251), tag_num=0x04)
+ 49: 0x015C [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x05)
+ 50: 0x0163 [0x4A] Lewenhart (ID: 17261138/0x01076252) looks at LocalPlayer
  51: 0x016C [0x1C] WAIT(60* ticks)
- 52: 0x016F [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x06)
- 53: 0x0176 [0x2B] Lewenhart (ID: 17261139/0x01076253) [7398*]:
+ 52: 0x016F [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x06)
+ 53: 0x0176 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7398*]:
     → "Can you not feel the powerful emotions of the narrator here, who could not help but put these feelings to verse?"
  54: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x017E [0x2B] Lewenhart (ID: 17261139/0x01076253) [7399*]:
+ 55: 0x017E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7399*]:
     → "Even those who forgot how to sing through the toils of life should be moved, made to sing by the lyrics herein."
  56: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x0186 [0x27] REQ_SET(priority=0x04, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x07)
+ 57: 0x0186 [0x27] REQ_SET(priority=0x04, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x07)
  58: 0x018D [0x1C] WAIT(15* ticks)
  59: 0x0190 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm14" with entities [EventEntity, EventEntity], work=[146*, 0*]
  60: 0x01A1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm14" with entities [EventEntity, EventEntity], work=146*
- 61: 0x01B0 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x08)
- 62: 0x01B7 [0x2B] Lewenhart (ID: 17261139/0x01076253) [7400*]:
+ 61: 0x01B0 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x08)
+ 62: 0x01B7 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7400*]:
     → "Oh, it seems I've rambled quite a bit. My words fall to riddles whenever I'm here, I'm afraid."
  63: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x01BF [0x2B] Lewenhart (ID: 17261139/0x01076253) [7401*]:
+ 64: 0x01BF [0x2B] Lewenhart (ID: 17261138/0x01076252) [7401*]:
     → "Well, I shan't keep you any longer. I hope we may meet again in the bustle of a warm tavern. Farewell!"
  65: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x01C7 [0x7B] Lewenhart (ID: 17261139/0x01076253) stops talking
+ 66: 0x01C7 [0x7B] Lewenhart (ID: 17261138/0x01076252) stops talking
  67: 0x01CC [0x1C] WAIT(60* ticks)
- 68: 0x01CF [0x27] REQ_SET(priority=0x05, entity_id=Lewenhart (ID: 17261139/0x01076253), tag_num=0x03)
+ 68: 0x01CF [0x27] REQ_SET(priority=0x05, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x03)
  69: 0x01D6 [0x1C] WAIT(60* ticks)
- 70: 0x01D9 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261139/0x01076253)
+ 70: 0x01D9 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
  71: 0x01E2 [0x1C] WAIT(60* ticks)
- 72: 0x01E5 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261139/0x01076253)
+ 72: 0x01E5 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
  73: 0x01EE [0x1C] WAIT(90* ticks)
  74: 0x01F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  75: 0x0202 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=200*
  76: 0x0211 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
  77: 0x0215 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
- 78: 0x0219 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Lewenhart (ID: 17261139/0x01076253)
+ 78: 0x0219 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Lewenhart (ID: 17261138/0x01076252)
  79: 0x021F [0x46] CAMERA_CONTROL: Restore default settings
  80: 0x0221 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  81: 0x0232 [0x21] END_EVENT
@@ -1187,7 +1187,7 @@ SUBROUTINE_0376:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-04A0:             BB 77 80 F0  FF FF 7F 9E 62 07 01 6D      .w......b..m
+04A0:             BB 77 80 F0  FF FF 7F 9D 62 07 01 6D      .w......b..m
 04B0: 61 69 6E 01 80 1C 78 80  45 00 80 F0 FF FF 7F F0  ain...x.E.......
 04C0: FF FF 7F 66 64 6F 31 01  80 1C 0A 80 00           ...fdo1......   
 ```
@@ -1195,7 +1195,7 @@ SUBROUTINE_0376:
 #### Opcodes
 
 ```
-  0: 0x04A4 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17261214/0x0107629E)], work=[148*, 0*]
+  0: 0x04A4 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17261213/0x0107629D)], work=[148*, 0*]
   1: 0x04B5 [0x1C] WAIT(240* ticks)
   2: 0x04B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x04C9 [0x1C] WAIT(60* ticks)

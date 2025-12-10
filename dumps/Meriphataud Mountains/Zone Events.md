@@ -279,7 +279,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0010:       BB 04 80 F0 FF FF  7F 8F 72 07 01 6D 61 69    ........r..mai
+0010:       BB 04 80 F0 FF FF  7F 8E 72 07 01 6D 61 69    ........r..mai
 0020: 6E 05 80 1C 06 80 45 07  80 F0 FF FF 7F F0 FF FF  n.....E.........
 0030: 7F 66 64 6F 31 05 80 1C  08 80 00                 .fdo1......     
 ```
@@ -287,7 +287,7 @@
 #### Opcodes
 
 ```
-  0: 0x0012 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17265295/0x0107728F)], work=[147*, 0*]
+  0: 0x0012 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17265294/0x0107728E)], work=[147*, 0*]
   1: 0x0023 [0x1C] WAIT(240* ticks)
   2: 0x0026 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0037 [0x1C] WAIT(60* ticks)
@@ -1698,14 +1698,14 @@ SUBROUTINE_1223:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 1240:                                         1C 08 80               ...
-1250: 1E 5F 72 07 01 00                                 ._r...          
+1250: 1E 5E 72 07 01 00                                 .^r...          
 ```
 
 #### Opcodes
 
 ```
   0: 0x124D [0x1C] WAIT(60* ticks)
-  1: 0x1250 [0x1E] EventEntity looks at Yachemidot (ID: 17265247/0x0107725F) and starts talking
+  1: 0x1250 [0x1E] EventEntity looks at Yachemidot (ID: 17265246/0x0107725E) and starts talking
   2: 0x1255 [0x00] END_REQSTACK()
 ```
 
@@ -1723,7 +1723,7 @@ SUBROUTINE_1223:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 1250:                   32 09  80 1F 00 85 80 86 80 87        2.........
-1260: 80 1F 01 6F 1E 60 72 07  01 00                    ...o.`r...      
+1260: 80 1F 01 6F 1E 5F 72 07  01 00                    ...o._r...      
 ```
 
 #### Opcodes
@@ -1733,7 +1733,7 @@ SUBROUTINE_1223:
   1: 0x1259 [0x1F] MOVE_ENTITY: EventEntity moves to X=637.422*, Z=6.349*, Y=-15.884*
   2: 0x1261 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x1263 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x1264 [0x1E] EventEntity looks at Unnamed NPC (ID: 17265248/0x01077260) and starts talking
+  4: 0x1264 [0x1E] EventEntity looks at Unnamed NPC (ID: 17265247/0x0107725F) and starts talking
   5: 0x1269 [0x00] END_REQSTACK()
 ```
 
@@ -1751,19 +1751,19 @@ SUBROUTINE_1223:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 1260:                                79 00 F0 FF FF 7F            y.....
-1270: 5F 72 07 01 32 6A 80 1F  00 88 80 89 80 8A 80 1F  _r..2j..........
-1280: 01 6F 1E 5F 72 07 01 32  09 80 00                 .o._r..2...     
+1270: 5E 72 07 01 32 6A 80 1F  00 88 80 89 80 8A 80 1F  ^r..2j..........
+1280: 01 6F 1E 5E 72 07 01 32  09 80 00                 .o.^r..2...     
 ```
 
 #### Opcodes
 
 ```
-  0: 0x126A [0x79] LocalPlayer looks at Yachemidot (ID: 17265247/0x0107725F) (Basic look)
+  0: 0x126A [0x79] LocalPlayer looks at Yachemidot (ID: 17265246/0x0107725E) (Basic look)
   1: 0x1274 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   2: 0x1277 [0x1F] MOVE_ENTITY: EventEntity moves to X=637.992*, Z=8.150*, Y=-15.794*
   3: 0x127F [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   4: 0x1281 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  5: 0x1282 [0x1E] EventEntity looks at Yachemidot (ID: 17265247/0x0107725F) and starts talking
+  5: 0x1282 [0x1E] EventEntity looks at Yachemidot (ID: 17265246/0x0107725E) and starts talking
   6: 0x1287 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   7: 0x128A [0x00] END_REQSTACK()
 ```
@@ -1782,14 +1782,14 @@ SUBROUTINE_1223:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 1280:                                   1C 3E 80 62 70             .>.bp
-1290: 80 5E 72 07 01 5E 72 07  01 6D 61 69 6E 05 80 00  .^r..^r..main...
+1290: 80 5D 72 07 01 5D 72 07  01 6D 61 69 6E 05 80 00  .]r..]r..main...
 ```
 
 #### Opcodes
 
 ```
   0: 0x128B [0x1C] WAIT(30* ticks)
-  1: 0x128E [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Cyranuce (ID: 17265246/0x0107725E), Cyranuce (ID: 17265246/0x0107725E)], work=[43*, 0*]
+  1: 0x128E [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Cyranuce (ID: 17265245/0x0107725D), Cyranuce (ID: 17265245/0x0107725D)], work=[43*, 0*]
   2: 0x129F [0x00] END_REQSTACK()
 ```
 

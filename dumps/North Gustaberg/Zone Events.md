@@ -258,13 +258,13 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0010:             1E AD A2 06  01 00                        ......      
+0010:             1E AC A2 06  01 00                        ......      
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0014 [0x1E] EventEntity looks at Gambilox Wanderling (ID: 17212077/0x0106A2AD) and starts talking
+  0: 0x0014 [0x1E] EventEntity looks at Gambilox Wanderling (ID: 17212076/0x0106A2AC) and starts talking
   1: 0x0019 [0x00] END_REQSTACK()
 ```
 
@@ -281,13 +281,13 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0010:                                1E AE A2 06 01 00            ......
+0010:                                1E AD A2 06 01 00            ......
 ```
 
 #### Opcodes
 
 ```
-  0: 0x001A [0x1E] EventEntity looks at Saltvix (ID: 17212078/0x0106A2AE) and starts talking
+  0: 0x001A [0x1E] EventEntity looks at Saltvix (ID: 17212077/0x0106A2AD) and starts talking
   1: 0x001F [0x00] END_REQSTACK()
 ```
 
@@ -304,13 +304,13 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0020: 1E AF A2 06 01 00                                 ......          
+0020: 1E AE A2 06 01 00                                 ......          
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0020 [0x1E] EventEntity looks at Grasswix (ID: 17212079/0x0106A2AF) and starts talking
+  0: 0x0020 [0x1E] EventEntity looks at Grasswix (ID: 17212078/0x0106A2AE) and starts talking
   1: 0x0025 [0x00] END_REQSTACK()
 ```
 
@@ -327,13 +327,13 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0020:                   1E B0  A2 06 01 00                    ......    
+0020:                   1E AF  A2 06 01 00                    ......    
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0026 [0x1E] EventEntity looks at Eggblix (ID: 17212080/0x0106A2B0) and starts talking
+  0: 0x0026 [0x1E] EventEntity looks at Eggblix (ID: 17212079/0x0106A2AF) and starts talking
   1: 0x002B [0x00] END_REQSTACK()
 ```
 
@@ -376,7 +376,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0030:                                      BB 0B 80 F0              ....
-0040: FF FF 7F C9 A2 06 01 6D  61 69 6E 0C 80 1C 0D 80  .......main.....
+0040: FF FF 7F C8 A2 06 01 6D  61 69 6E 0C 80 1C 0D 80  .......main.....
 0050: 45 0E 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 31 0C  E..........fdo1.
 0060: 80 1C 0F 80 00                                    .....           
 ```
@@ -384,7 +384,7 @@
 #### Opcodes
 
 ```
-  0: 0x003C [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17212105/0x0106A2C9)], work=[147*, 0*]
+  0: 0x003C [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17212104/0x0106A2C8)], work=[147*, 0*]
   1: 0x004D [0x1C] WAIT(240* ticks)
   2: 0x0050 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0061 [0x1C] WAIT(60* ticks)
@@ -429,7 +429,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0070:                BB 14 80  F0 FF FF 7F CE A2 06 01       ...........
+0070:                BB 14 80  F0 FF FF 7F CD A2 06 01       ...........
 0080: 6D 61 69 6E 0C 80 1C 0D  80 45 0E 80 F0 FF FF 7F  main.....E......
 0090: F0 FF FF 7F 66 64 6F 31  0C 80 1C 0F 80 00        ....fdo1......  
 ```
@@ -437,7 +437,7 @@
 #### Opcodes
 
 ```
-  0: 0x0075 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17212110/0x0106A2CE)], work=[148*, 0*]
+  0: 0x0075 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17212109/0x0106A2CD)], work=[148*, 0*]
   1: 0x0086 [0x1C] WAIT(240* ticks)
   2: 0x0089 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x009A [0x1C] WAIT(60* ticks)

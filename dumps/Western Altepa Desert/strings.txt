@@ -7401,15 +7401,15 @@
  7397: 
  7398: 
  7399: 
- 7400: Happy New Year! Ah, wait up, wait up!
- 7401: Happy New Year!
- 7402: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 7403: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 7404: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 7405: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 7406: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 7407: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 7408: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 7400: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7401: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7402: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7403: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7404: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7405: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7406: Neigh!! (Your year will be as joyful as the last.)
+ 7407: Neigh! (Your year will be fairly good...)
+ 7408: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7409: You sense an ominous presence...
  7410: There is nothing out of the ordinary here.
  7411: What'sa matta with ya, [son/missy]? Ya thinkin' about walkin' arounda these here parts witha no map? Ya gotta be crazy!

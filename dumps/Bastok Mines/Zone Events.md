@@ -930,8 +930,8 @@
 |     777 | 0x00EA      |         234 |
 |     778 | 0x00EF      |         239 |
 |     779 | 0x00F3      |         243 |
-|     780 | 0x4114      |       16660 |
-|     781 | 0x413A      |       16698 |
+|     780 | 0x4115      |       16661 |
+|     781 | 0x413B      |       16699 |
 |     782 | 0x0095      |         149 |
 |     783 | 0x009F      |         159 |
 |     784 | 0x00A9      |         169 |
@@ -946,8 +946,8 @@
 
 ## String References
 
-- **16660**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **16698**: Your $3 fills with sand.
+- **16661**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **16699**: Your $3 fills with sand.
 
 ## Events
 
@@ -7466,9 +7466,9 @@ SUBROUTINE_4299:
  13: 0x4362 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_4367:
- 14: 0x4367 [0x48] [System] [16660*]:
+ 14: 0x4367 [0x48] [System] [16661*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
- 15: 0x436A [0x48] [System] [16698*]:
+ 15: 0x436A [0x48] [System] [16699*]:
     → "Your $3 fills with sand."
  16: 0x436D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x437E [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

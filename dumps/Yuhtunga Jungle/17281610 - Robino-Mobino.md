@@ -1,0 +1,356 @@
+# 17281610 - Robino-Mobino
+
+## Common Data
+
+| Field            | Value                     |
+|------------------|---------------------------|
+| Zone             | Yuhtunga Jungle (ID: 123) |
+| Block Size       | 732 bytes                 |
+| Total Events     | 3                         |
+| References Count | 20                        |
+
+## List of Events
+
+| Event ID              | Entrypoint   |   Size |   Instructions |
+|-----------------------|--------------|--------|----------------|
+| [65535](#event-65535) | 0x0000       |      1 |              1 |
+| [32756](#event-32756) | 0x0001       |    362 |             88 |
+| [32689](#event-32689) | 0x016B       |    259 |             64 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x0000      |           0 |
+|       1 | 0x0001      |           1 |
+|       2 | 0x1C8E      |        7310 |
+|       3 | 0x0ADF      |        2783 |
+|       4 | 0x1C8F      |        7311 |
+|       5 | 0x1C8C      |        7308 |
+|       6 | 0x0002      |           2 |
+|       7 | 0x1C90      |        7312 |
+|       8 | 0x1C91      |        7313 |
+|       9 | 0x1C92      |        7314 |
+|      10 | 0x1C8D      |        7309 |
+|      11 | 0x0003      |           3 |
+|      12 | 0x1C97      |        7319 |
+|      13 | 0x007A      |         122 |
+|      14 | 0x0104      |         260 |
+|      15 | 0x1C94      |        7316 |
+|      16 | 0x1C95      |        7317 |
+|      17 | 0x1C96      |        7318 |
+|      18 | 0x1C93      |        7315 |
+|      19 | 0x0006      |           6 |
+
+## String References
+
+- **7308**: Which service do you request? [Buy/Sell items./Teleportation./Nothing.]
+- **7309**: Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]
+- **7310**: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!
+- **7311**: It should please you to know that I now also deal in $0. Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!
+- **7312**: I see that your home country has control of this region. Feel free to browse through my wares.
+- **7313**: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.
+- **7314**: I can teleport you to your home country for $1 gil or $3 conquest [point/points].
+- **7315**: Word has it that the entire set of mog tablets has been recovered. Oh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.
+- **7316**: I am terribly sorry, but it seems as if you do not have enough gil.
+- **7317**: I am terribly sorry, but it seems as if you do not have enough conquest points.
+- **7318**: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.
+- **7319**: I am looking forward to doing business with you again in the future!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 32756
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x0001    |
+| Data Size    | 362 bytes |
+| Instructions | 80        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    03 01 00 02 10 03 02  00 03 10 1E F0 FF FF 7F   ...............
+0010: 6F 70 06 00 00 02 01 00  00 80 00 24 00 3C 00 00  op.........$.<..
+0020: 00 80 01 80 02 02 00 00  80 00 33 00 3C 00 00 01  ..........3.<...
+0030: 80 01 80 1D 02 80 23 03  02 10 03 80 1D 04 80 23  ......#........#
+0040: 06 01 10 02 00 00 00 80  80 3E 01 24 05 80 06 80  .........>.$....
+0050: 00 80 25 02 00 10 00 80  00 81 00 02 01 00 01 80  ..%.............
+0060: 80 6A 00 1D 07 80 23 01  79 00 02 01 00 06 80 80  .j....#.y.......
+0070: 79 00 1D 08 80 23 01 79  00 03 01 10 01 80 01 3B  y....#.y.......;
+0080: 01 02 00 10 01 80 00 3B  01 06 01 10 43 00 43 01  .......;....C.C.
+0090: 03 03 00 02 10 03 04 00  03 10 03 06 00 05 10 03  ................
+00A0: 05 00 06 10 1D 09 80 23  24 0A 80 0B 80 01 80 25  .......#$......%
+00B0: 02 00 10 01 80 00 F4 00  02 03 00 04 00 04 ED 00  ................
+00C0: 42 05 01 10 43 00 43 01  1D 0C 80 23 73 0D 80 F8  B...C.C....#s...
+00D0: FF FF 7F F0 FF FF 7F 1C  0E 80 40 00 80 01 80 01  ..........@.....
+00E0: 10 06 80 3D 01 10 06 80  01 80 01 F1 00 1D 0F 80  ...=............
+00F0: 23 01 38 01 02 00 10 06  80 00 38 01 02 05 00 06  #.8.......8.....
+0100: 00 04 31 01 42 05 01 10  43 00 43 01 1D 0C 80 23  ..1.B...C.C....#
+0110: 73 0D 80 F8 FF FF 7F F0  FF FF 7F 1C 0E 80 40 00  s.............@.
+0120: 80 01 80 01 10 06 80 3C  01 10 06 80 01 80 01 35  .......<.......5
+0130: 01 1D 10 80 23 01 38 01  01 3B 01 01 69 01 02 00  ....#.8..;..i...
+0140: 00 06 80 80 4C 01 01 5B  00 01 69 01 02 00 00 01  ....L..[..i.....
+0150: 80 80 5A 01 01 89 00 01  69 01 02 00 00 0B 80 80  ..Z.....i.......
+0160: 69 01 1D 11 80 23 01 69  01 21 00                 i....#.i.!.     
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
+  1: 0x0006 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
+  2: 0x000B [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  5: 0x0012 [0x06] ExtData[1]->WorkLocal[0] = 0
+  6: 0x0015 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0024
+  7: 0x001D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
+  8: 0x0024 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0033
+  9: 0x002C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=1*, condition_work_offset=1*)
+ 10: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+    → "Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!"
+ 11: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 12: 0x0037 [0x03] Work_Zone[2] = 2783*
+ 13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+    → "It should please you to know that I now also deal in $0. Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!"
+ 14: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 15: 0x0040 [0x06] Work_Zone[1] = 0
+ 16: 0x0043 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x013E
+ 17: 0x004B [0x24] CREATE_DIALOG(message_id=7308*, default_option=2*, option_flags=0*)
+    → "Which service do you request? [Buy/Sell items./Teleportation./Nothing.]"
+ 18: 0x0052 [0x25] WAIT_DIALOG_SELECT()
+ 19: 0x0053 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0081
+ 20: 0x005B [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x006A
+ 21: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+    → "I see that your home country has control of this region. Feel free to browse through my wares."
+ 22: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 23: 0x0067 [0x01] GOTO 0x0079
+ 24: 0x006A [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0079
+ 25: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+    → "I see that your home country is allies with the country in control of this region. Feel free to browse through my wares."
+ 26: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x0076 [0x01] GOTO 0x0079
+
+SUBROUTINE_0079:
+ 28: 0x0079 [0x03] Work_Zone[1] = 1*
+ 29: 0x007E [0x01] GOTO 0x013B
+ 30: 0x0081 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x013B
+
+SUBROUTINE_0089:
+ 31: 0x0089 [0x06] Work_Zone[1] = 0
+ 32: 0x008C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 33: 0x008E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 34: 0x0090 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
+ 35: 0x0095 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
+ 36: 0x009A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[5]
+ 37: 0x009F [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[6]
+ 38: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
+    → "I can teleport you to your home country for $1 gil or $3 conquest [point/points]."
+ 39: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 40: 0x00A8 [0x24] CREATE_DIALOG(message_id=7309*, default_option=3*, option_flags=1*)
+    → "Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]"
+ 41: 0x00AF [0x25] WAIT_DIALOG_SELECT()
+ 42: 0x00B0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00F4
+ 43: 0x00B8 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[4]) GOTO 0x00ED
+ 44: 0x00C0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 45: 0x00C1 [0x05] Work_Zone[1] = 1
+ 46: 0x00C4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 47: 0x00C6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 48: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+    → "I am looking forward to doing business with you again in the future!"
+ 49: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 50: 0x00CC [0x73] EventEntity casts magic 122* on LocalPlayer
+ 51: 0x00D7 [0x1C] WAIT(260* ticks)
+ 52: 0x00DA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=2*)
+ 53: 0x00E3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=2*, condition_work_offset=1*)
+ 54: 0x00EA [0x01] GOTO 0x00F1
+ 55: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+    → "I am terribly sorry, but it seems as if you do not have enough gil."
+ 56: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_00F1:
+ 57: 0x00F1 [0x01] GOTO 0x0138
+ 58: 0x00F4 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0138
+ 59: 0x00FC [0x02] IF !(ExtData[1]->WorkLocal[5] < ExtData[1]->WorkLocal[6]) GOTO 0x0131
+ 60: 0x0104 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 61: 0x0105 [0x05] Work_Zone[1] = 1
+ 62: 0x0108 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 63: 0x010A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 64: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+    → "I am looking forward to doing business with you again in the future!"
+ 65: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 66: 0x0110 [0x73] EventEntity casts magic 122* on LocalPlayer
+ 67: 0x011B [0x1C] WAIT(260* ticks)
+ 68: 0x011E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=2*)
+ 69: 0x0127 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=2*, condition_work_offset=1*)
+ 70: 0x012E [0x01] GOTO 0x0135
+ 71: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+    → "I am terribly sorry, but it seems as if you do not have enough conquest points."
+ 72: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
+
+SUBROUTINE_0135:
+ 73: 0x0135 [0x01] GOTO 0x0138
+
+SUBROUTINE_0138:
+ 74: 0x0138 [0x01] GOTO 0x013B
+
+SUBROUTINE_013B:
+ 75: 0x013B [0x01] GOTO 0x0169
+ 76: 0x013E [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x014C
+ 77: 0x0146 [0x01] GOTO 0x005B
+
+SUBROUTINE_0169:
+ 78: 0x0169 [0x21] END_EVENT
+ 79: 0x016A [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x0149 [0x01] GOTO 0x0169
+     0x0157 [0x01] GOTO 0x0169
+```
+
+### Event 32689
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x016B    |
+| Data Size    | 259 bytes |
+| Instructions | 56        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0160:                                   03 01 00 02 10             .....
+0170: 03 02 00 03 10 1E F0 FF  FF 7F 6F 70 06 00 00 02  ..........op....
+0180: 01 00 00 80 00 8E 01 3C  00 00 00 80 01 80 02 02  .......<........
+0190: 00 00 80 00 9D 01 3C 00  00 01 80 01 80 1D 02 80  ......<.........
+01A0: 23 06 01 10 02 00 00 00  80 80 41 02 24 05 80 06  #.........A.$...
+01B0: 80 00 80 25 02 00 10 00  80 00 E2 01 02 01 00 01  ...%............
+01C0: 80 80 CB 01 1D 07 80 23  01 DA 01 02 01 00 06 80  .......#........
+01D0: 80 DA 01 1D 08 80 23 01  DA 01 03 01 10 01 80 01  ......#.........
+01E0: 3E 02 02 00 10 01 80 00  3E 02 06 01 10 43 00 43  >.......>....C.C
+01F0: 01 03 03 00 02 10 03 04  00 03 10 03 06 00 05 10  ................
+0200: 03 05 00 06 10 1D 12 80  23 24 0A 80 0B 80 13 80  ........#$......
+0210: 25 02 00 10 00 80 00 3B  02 42 05 01 10 43 00 43  %......;.B...C.C
+0220: 01 1D 0C 80 23 73 0D 80  F8 FF FF 7F F0 FF FF 7F  ....#s..........
+0230: 1C 0E 80 03 01 10 06 80  01 3B 02 01 3E 02 01 6C  .........;..>..l
+0240: 02 02 00 00 06 80 80 4F  02 01 BC 01 01 6C 02 02  .......O.....l..
+0250: 00 00 01 80 80 5D 02 01  EA 01 01 6C 02 02 00 00  .....].....l....
+0260: 0B 80 80 6C 02 1D 11 80  23 01 6C 02 21 00        ...l....#.l.!.  
+```
+
+#### Opcodes
+
+```
+  0: 0x016B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
+  1: 0x0170 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
+  2: 0x0175 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  3: 0x017A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x017B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  5: 0x017C [0x06] ExtData[1]->WorkLocal[0] = 0
+  6: 0x017F [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x018E
+  7: 0x0187 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
+  8: 0x018E [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x019D
+  9: 0x0196 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=1*, condition_work_offset=1*)
+ 10: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+    → "Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!"
+ 11: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 12: 0x01A1 [0x06] Work_Zone[1] = 0
+ 13: 0x01A4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0241
+ 14: 0x01AC [0x24] CREATE_DIALOG(message_id=7308*, default_option=2*, option_flags=0*)
+    → "Which service do you request? [Buy/Sell items./Teleportation./Nothing.]"
+ 15: 0x01B3 [0x25] WAIT_DIALOG_SELECT()
+ 16: 0x01B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E2
+ 17: 0x01BC [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01CB
+ 18: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+    → "I see that your home country has control of this region. Feel free to browse through my wares."
+ 19: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 20: 0x01C8 [0x01] GOTO 0x01DA
+ 21: 0x01CB [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x01DA
+ 22: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+    → "I see that your home country is allies with the country in control of this region. Feel free to browse through my wares."
+ 23: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 24: 0x01D7 [0x01] GOTO 0x01DA
+
+SUBROUTINE_01DA:
+ 25: 0x01DA [0x03] Work_Zone[1] = 1*
+ 26: 0x01DF [0x01] GOTO 0x023E
+ 27: 0x01E2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x023E
+
+SUBROUTINE_01EA:
+ 28: 0x01EA [0x06] Work_Zone[1] = 0
+ 29: 0x01ED [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 30: 0x01EF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 31: 0x01F1 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
+ 32: 0x01F6 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
+ 33: 0x01FB [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[5]
+ 34: 0x0200 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[6]
+ 35: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
+    → "Word has it that the entire set of mog tablets has been recovered. Oh, happy day! In honor of the occasion, I can teleport you to your home country free of charge."
+ 36: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 37: 0x0209 [0x24] CREATE_DIALOG(message_id=7309*, default_option=3*, option_flags=6*)
+    → "Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]"
+ 38: 0x0210 [0x25] WAIT_DIALOG_SELECT()
+ 39: 0x0211 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023B
+ 40: 0x0219 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 41: 0x021A [0x05] Work_Zone[1] = 1
+ 42: 0x021D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 43: 0x021F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 44: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+    → "I am looking forward to doing business with you again in the future!"
+ 45: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 46: 0x0225 [0x73] EventEntity casts magic 122* on LocalPlayer
+ 47: 0x0230 [0x1C] WAIT(260* ticks)
+ 48: 0x0233 [0x03] Work_Zone[1] = 2*
+ 49: 0x0238 [0x01] GOTO 0x023B
+
+SUBROUTINE_023B:
+ 50: 0x023B [0x01] GOTO 0x023E
+
+SUBROUTINE_023E:
+ 51: 0x023E [0x01] GOTO 0x026C
+ 52: 0x0241 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x024F
+ 53: 0x0249 [0x01] GOTO 0x01BC
+
+SUBROUTINE_026C:
+ 54: 0x026C [0x21] END_EVENT
+ 55: 0x026D [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x024C [0x01] GOTO 0x026C
+     0x025A [0x01] GOTO 0x026C
+```

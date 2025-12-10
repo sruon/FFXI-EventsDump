@@ -114,8 +114,8 @@
 - **13102**: Wow, I've never heard that before. You know everything, Grandpa!
 - **13103**: Huh? Oh, a customer! Happy New Year!
 - **13104**: What? Who was I talking to just now? Oh, the other day, this really nice old man gave me my very own $0 so I could call him whenever I wanted. He teaches me all sorts of things, and all I have to do is call him "Grandpa" and do whatever he says.
-- **13105**: Just now, he was telling me about the fun-loving people walking around outside. I heard that something similar to this happened many years ago...
-- **13106**: He also told me that if I give 'em something, they'll give me $0 in return. I really wanted one, so I was all ready to go through that gate over there when the guard gave me a nasty look...
+- **13105**: Just now, he was telling me about the weird procession of people walking around outside. He says they always pop up this time of year.
+- **13106**: He also told me that if I give 'em something, they'll give me $0 in return. I really wanted one, so I was all ready to go through that gate over there when the guard gave me a nasty loxok...
 - **13107**: Hey. You're an adventurer, right? Doesn't Altana say that you guys have to help little kids or your brain will melt and bugs will eat your ears? Go out and get me $0, ASAP. Don't worry, you'll get your reward!
 - **13108**: Whoa! You really brought me back $0. Thanks!
 - **13109**: I guess you'll be wanting your reward now, huh? Hmmm... How about I give you a choice?
@@ -242,11 +242,11 @@
     → "What? Who was I talking to just now? Oh, the other day, this really nice old man gave me my very own $0 so I could call him whenever I wanted. He teaches me all sorts of things, and all I have to do is call him "Grandpa" and do whatever he says."
   8: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=13105*)
-    → "Just now, he was telling me about the fun-loving people walking around outside. I heard that something similar to this happened many years ago..."
+    → "Just now, he was telling me about the weird procession of people walking around outside. He says they always pop up this time of year."
  10: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0020 [0x03] Work_Zone[2] = 4176*
  12: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=13106*)
-    → "He also told me that if I give 'em something, they'll give me $0 in return. I really wanted one, so I was all ready to go through that gate over there when the guard gave me a nasty look..."
+    → "He also told me that if I give 'em something, they'll give me $0 in return. I really wanted one, so I was all ready to go through that gate over there when the guard gave me a nasty loxok..."
  13: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=13107*)
     → "Hey. You're an adventurer, right? Doesn't Altana say that you guys have to help little kids or your brain will melt and bugs will eat your ears? Go out and get me $0, ASAP. Don't worry, you'll get your reward!"

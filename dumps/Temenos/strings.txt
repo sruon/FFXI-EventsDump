@@ -1,5 +1,5 @@
 # Strings for Temenos
-# Total: 7309 strings
+# Total: 7323 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7262,7 +7262,7 @@
  7258: What will you do? [Change level and reset./Never mind.]
  7259: Progress has been reset.
  7260: Unrecognized entrant. Please proceed to the Temenos Operator.
- 7261: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Tresure coffer timings./%.@/@/@/@/Nothing for now.]
+ 7261: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Tresure coffer timings./%.@/CN Opening.$1./Reforging.@/Nothing for now.]
  7262: Remaining Temenos Units: $0. Total Temenos Units: $1/$2.
  7263: The Temenos Furnace uses data to enhance your equipment.
  7264: Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Nothing for now.]
@@ -7285,28 +7285,42 @@
  7281: You do not have enough Temenos Units.
  7282: I have generated new notorious monsters based on your data.
  7283: Here is a quick rundown.
- 7284: One: they do not take your set level into account.
- 7285: Two: there are 22 types, but only 4 will appear on any given day (Earth time).
- 7286: Three: vanquishing them affects the contents of the Temenos Coffer available four weeks later.
+ 7284: 1: they do not take your set level into account.
+ 7285: 2: there are 22 types, but only 4 will appear on any given day (Earth time).
+ 7286: $0: vanquishing them affects the contents of the Temenos Coffer available four weeks later.
  7287: This should enable you to collect even more precise data.
  7288: The $0 changes form when one uses Temenos Units.
  7289: It can produce special equipment.
  7290: The produced equipment can be further infused.
  7291: Notorious monster vanquishing information will affect Temenos Coffers in $0 [days/hours/hour or less] (Earth time).
- 7292: 
- 7293: 
- 7294: 
- 7295: 
- 7296: 
- 7297: 
- 7298: 
- 7299: 
- 7300: 
- 7301: 
- 7302: 
- 7303: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7304: slot:@ initStep:@ ticket:@ expire:@sec
- 7305: $P15[$P116$3f$593776$z%;5\5=B
- 7306: $60298775=B
- 7307: $3`$3P$3b$3gp$P14j$|5\5=B
- 7308: Error:@
+ 7292: #, $1, and $2. confirmed. Able to create $3.
+ 7293: Create? [Create./Do not create.]
+ 7294: Confirming $0, $1... Able to create $2.
+ 7295: Carrying over attributes from the $0 to the $4.
+ 7296: Your $0 will be consumed.
+ 7297: Temenos Operator: CN opening status:
+ 7298: Condition $0: [Incomplete/Complete] ($2/$3).
+ 7299: Temenos Operator: CN opened.
+ 7300: Do what? ($5: $6.) [Change to $0./Change to $1./Change to $2./Change to $3./Change to $4./Do nothing.]
+ 7301: Able to change up to $0.
+ 7302: Changing $1 $0 into $3 $0 .
+ 7303: Do what? [Phase 1./Phase 2./@/Back.]
+ 7304: New notorious monsters have been created based on collected data aand registrant information.
+ 7305: Communicating data on new notorious monsters.
+ 7306: 2: Notorious monsters are classified into three categories.
+ 7307: 3: Notorious monster spawn conditions are divided into two sets.
+ 7308: 4: They spawn in CN, which opens when certain conditions are met.
+ 7309: CN is open.
+ 7310: Creating $0 based on registrant information.
+ 7311: Multiple $0 may by created from $1 and $2.
+ 7312: Created items can be used to unlock and reforge new equipment.
+ 7313: Up to $3 $0 can be changed into other types.
+ 7314: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
+ 7315: However, the original equipment will be consumed in the process.
+ 7316: You have received the designation Temenos Liberator, which has become unattainable by other means.
+ 7317: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7318: slot:@ initStep:@ ticket:@ expire:@sec
+ 7319: $P15[$P116$3f$593776$z%;5\5=B
+ 7320: $60298775=B
+ 7321: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7322: Error:@

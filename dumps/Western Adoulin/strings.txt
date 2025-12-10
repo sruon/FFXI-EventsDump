@@ -1,5 +1,5 @@
 # Strings for Western Adoulin
-# Total: 13233 strings
+# Total: 13234 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -12802,7 +12802,7 @@
 12798: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
 12799: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
 12800: Dat's da spirit! So which dial ya be wantin'?
-12801: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+12801: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]
 12802: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
 12803: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
 12804: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
@@ -12827,410 +12827,411 @@
 12823: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
 12824: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
 12825: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-12826: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+12826: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!
 12827: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-12828: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+12828: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!
 12829: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
 12830: $1<$2
-12831: I understand that you are...an adventurer? My name is Pieuje I. d'Oraguille, commander of San d'Oria's famed Temple Knights.
-12832: Is that <Player>'s voice I hear?
-12833: Forgive me, but I am more accustomed to recognizing faces than voices, especially through such a peculiar device.
-12834: I must thank you for your handling of the Altedour incident in Fei'Yin.
-12835: Never once have I forgotten your dedication to protecting all of San d'Oria.
-12836: As you are doubtlessly aware, a short time ago I received a memorandum from the Adventurers' Mutual Aid Network detailing Unity Concord and requesting my services as a Unity leader.
-12837: Tell me. Is there any greater way for a prince regent to earn honor for his kingdom than by spearheading a group dedicated to purging evil from the land?
-12838: Many around me were opposed, but that bothered me not. My brother, Trion, serves as a representative of the Trust initiative, and it falls to me to up the ante.
-12839: I cannot lie. That was an important factor in my decision.
-12840: But be not concerned with our internal squabbles. Know only that it pleases me to welcome you to my Unity.
-12841: My name is Ayame, a ranking member of the Mythril Musketeers. Pleased to make your acquaintance.
-12842: Haha...yes, <Player>, of course I remember you. How characteristic of you to have your fingers in everyone's pies.
-12843: Do not think me ungrateful. No, I am always pleased to have your help, but this time things are a bit different.
-12844: Do not think me ungrateful. You strengthened the Mythril Musketeers in ways I never thought possible, and we are closer than ever before.
-12845: Not terribly long ago I was contacted by the Adventurers' Mutual Aid Network, which asked that I head a Unity.
-12846: At first I was flustered and thought of turning the offer down. Why would they pick me when there are others more qualified?
-12847: But Volker decided it would be the perfect opportunity for me to develop my leadership skills, and told them I would accept...without my knowledge.
-12848: Though unconvinced that I am the best fit, I pledge to dedicate myself wholly to this endeavor.
-12849: People are counting on me. Not only Volker, but those like you who have pledged their support.
-12850: I will not let you down.
-12851: Stand sharp, maggot! I've got no time for people who're gonna slack off!
-12852: ...Wait. That's you, isn't it, <Player>?
-12853: I hear you've decided to join my backbreaking Unity.
-12854: Well!? What've you got to say for yourself!?
-12855: How do you respond? [That's right./Nope./Y-yessir!]
-12856: Impudent cretin! You say "sir" when addressing a superior officer!
-12857: Better. Everyone in my Unity is equal--you're all worthless whelps!
-12858: We don't coddle the weak around here. If you want respect, you earn it.
-12859: Until then, you're just a dried-up, shriveled worm!
-12860: So go crawling around in the dirt and pray some crow doesn't sweep down and gobble you up!
-12861: Now get out there!
-12862: Hello, good adventurer. You can call me Apururu.
-12863: Is that...<Player>? Am I rightaru?
-12864: Your good deeds on behalf of Windurstaru have not gone unnoticed.
-12865: I'm so worried about my brother...but if this is one way for me to help-welp him, then so be it.
-12866: Ajido-Marujido has awoken at lastaru, but...no, I'll not let myself cry. I must work for the good of Windurst.
-12867: You brought hope to a Windurst that was on the brink-wink of despair.
-12868: I've been selected to serve as the head of a Unity-wunity, and can I ever say...
-12869: As the head of the Manustery, there can be no greater honor than--
-12870: Aaaaaall right! Now the Cardian workshop can finally turn something resembling a profitaru!
-12871: tHiS iS aBsoLUtElY WonDErFul. NoW wE HaVe MOneY, ALl ThaNkS tO APurURu!
-12872: H-hey! It's not like I'll be making bank-wank!
-12873: Putting that aside--welcome to my Unitaru!
-12874: We can do together-wether what we couldn't individually.
-12875: Phew... So you're my new pupil, eh?
-12876: Phew... So you're my new pu... <Player>?
-12877: The way you shone when the two of us met in combat...I'd be lying if I said I wasn't impressed.
-12878: I've gotta say, you sure knew how to show me the old what-for...it was like staring into the face of a demon!
-12879: I've lived many years on this green Vana'diel, but you're the only one I've ever proffered my hat to.
-12880: ...Let's discuss how all this came to be.
-12881: The Adventurers' Mutual Aid Network came up with this "Unity" idea, and asked me to be one of its founding masters.
-12882: But I'm not the kind to take on disciples, so at first I was more than a bit wary.
-12883: But the old lady, she nagged me, and nagged me, and nagged me until I finally caved in.
-12884: How do you respond? [You can always quit, you know./Must have been tough for you./That's quite the wife you've got.]
-12885: Ugh... I didn't expect you to come at me with that.
-12886: Tough doesn't begin to describe it! I was hoping to spend my twilight years for myself, but you gotta play the hand you're dealt.
-12887: Please tell me that you weren't in on it!
-12888: Either way, that's not important now. As long as I'm the master of a ragtag group of youngsters, I'm gonna make sure you all get the training you deserve.
-12889: But to do that, I'm gonna need your help.
-12890: And I'll warn you--my regimens have been known to be...strict.
-12891: And I'm sure I don't need to tell you how strict my regimens are!
-12892: What's the password?
-12893: How do you respond? [Rose on the heath./Tavnazia./@]
-12894: Who's this!? ...Ah, this is the Unity communication device. Forget I said anything.
-12895: Aldo of the Tenshodo, at your service.
-12896: Who's this!? ...Ah, this is the Unity communication...wait. You're <Player>, aren't you?
-12897: The way this little thing is buzzing tells me that you're looking to join my Unity.
-12898: "My" Unity being the key here. Who else did you expect to be the leader?
-12899: I'm sure the Adventurers' Mutual Aid Network would make for...excellent customers in the future.
-12900: Serve the Unity well and I promise you'll want for nothing.
-12901: You found hope where once I had lost it. Lion was alive and I'll never forget all you've done.
-12902: All that she had worked and fought for...we owe it to her to live our lives to the fullest.
-12903: Working with others for a common goal is the greatest reward of all.
-12904: And it's people like you who I need to understand that most.
-12905: Well, do we have a new rrrecruit? I'm Jakoh Wahcondalo, chieftainess of Kazham.
-12906: Come to think of it...didn't I teach you the secrets of eviscerrration?
-12907: Hah-hah-hah! Then all the better for my Unity!
-12908: Are you sure...are you sure you're not currrsed by $0?
-12909: Can never be too carrreful these days...
-12910: Let's cut to the quick. You've joined my Unity, corrrect?
-12911: Then welcome.
-12912: But a quick word of warrrning.
-12913: I'm in charrrge here, so don't go about being disruptive!
-12914: If you can do that, we'll have no prrroblems. Now get to it!
-12915: H-hello, you've reached Salaheem's Sentinels.
-12916: There's no problem we can't solve, big or small!
-12917: Aha, we have a new visitor? One moment--I'll get the president for you.
-12918: Yes, this is Naja Salaheem.
-12919: Ah, have we an adventurerrr applying today?
-12920: You could not have picked a betterrr place to be.
-12921: Our Unity is completely free of charge, making it the purrrfect place to hang up your sword and meet some new companions.
-12922: We considerrr it our calling to provide an excellent place for those of all strrripes to utilize their talents in a variety of combat scenes.
-12923: Abquhbah! Get your lazy butt over here!
-12924: S-sorry. Yes, [good sir/my lady], this is Abquhbah of Salaheem's Sentinels.
-12925: We have a variety of powerful backers supporting our organization...
-12926: ...So I'm certain you'll find achieving a high Unity ranking to be a breeze.
-12927: And if we do, then there will be a lovely gift of sweets waiting. Yes, some gold pieces of--
-12928: <Sigh>... Oh, heavens, I think this device isn't worrrking properly. Can you hear me now?
-12929: How do you respond? [Loud and clear./Where's Abquhbah?/Just what did you do?]
-12930: Please forrrgive his impudence.
-12931: We're looking forward to having you serrrve in our regiment.
-12932: And we hope you enjoy your looong stay in our rrranks!
-12933: Oho? Is that <Player> I hear?
-12934: <Player>? Gimme that!
-12935: Picturrre that, hearing from [a non-employee/a second class private/a first class private/a superior private/a lance corporal/a corporal/a sergeant/a sergeant major/a chief sergeant/a second lieutenant/a first lieutenant/a captain] such as yourself.
-12936: You've got some gall shirrrking your duties like this!
-12937: But since you've joined my Unity, I'm willing to overlook that little trrransgression.
-12938: Let's paint the rankings rrred with our unstoppable team!
-12939: And that rrrequires you to not sit around like some good-for-nothing! You belong not just to one of my teams, but to two!
-12940: Be thankful you have work and get your butt out there!
-12941: The magic doll you are trying to reach is either suffering from mystical interference or is not attuned to a bearer.
-12942: Please check the settings and try a-again... Mmph...
-12943: Ahaha! Who can ever resist a good joke? It's me, and no other!
-12944: How do you react? [Flaviria?/Arciela?/Who?]
-12945: Oho, expertly deduced! I'd expect no less!
-12946: Huh? Arciela? That little waif of a princess? Granted, I'm quite pretty as well...
-12947: Urk...I'd have expected you to go with the joke...
-12948: But let's get down to business.
-12949: I'm Flaviria, maester of Adoulin's Mummers' Coalition.
-12950: I'm Flaviria, of course. I'm sure you've been to the Mummers' Coalition more than once, so my name should be quite familiar.
-12951: The Adventurers' Mutual Aid Network invited me to be a Unity leader...and how could I say no?
-12952: Though truth be told, I wonder why they picked me over one of the other leaders of the twelve orders.
-12953: Now that I think of it, didn't you trounce one of our more enigmatic patrons in a game of Boom or Bust?
-12954: And here I thought that the man in black couldn't be bested.
-12955: I'd better brush up, or you'll be coming for me next!
-12956: Either way, welcome to my Unity! I'm not completely clear on how best to proceed, but let's find the path together.
-12957: Ahem. <Cough-ethy>
-12958: So you're the young mind who's come to join-ethy my Unity?
-12959: Well met, I am Dr. Yoran-Oran, former minister-ethy of the Rhinostery in Windurst, and involved in all manner of magical research.
-12960: Ah, didn't you assist-ethy me with my mandragora research back then? Those items were of great help, thank you.
-12961: Ah, I know that voice-ethy! <Player>, that's you, isn't it?
-12962: Your efforts-ethy saved the Great Star Tree. Windurst owes you a deep debt of gratitude.
-12963: Listen <Player>. Those three monstrosities you so kindly brought into my life have put me in a very disconcerting situation-ethy. I have a lot more to say about it, but for now let's focus-ethy on the issue at hand.
-12964: Things have slowly gone back to normal-ethy now that the wretched trio of chaos incarnate has left. I've finally managed to begin work-ethy on my next book.
-12965: Thank you again for your aid during the Shantotto crisis-ethy. Were it not for you, our entire dimension would have been twisted and defiled beyond recognition. I still get nightmares-ethy thinking about it.
-12966: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
-12967: One of these students was part of the Adventurers' Mutual Aid Network-ethy and invited me to become a Unity leader.
-12968: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
-12969: But then I thought-ethy some more.
-12970: Could this in fact be the perfect-ethy avenue to promote my glorious research?
-12971: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
-12972: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
-12973: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
-12974: One of these students was part of the Adventurers Mutual Aid Network-ethy and invited me to become a Unity leader.
-12975: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
-12976: But then I thought-ethy some more.
-12977: Could this in fact be the perfect-ethy avenue to promote my glorious research?
-12978: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
-12979: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
-12980: .........
-12981: Oh! Right! I should probably say something. I'm Sylvie. As you can probably guess from these clothes. I'm a geomanger--I mean, geomancer!
-12982: Oh, I forgot...you can't see my clothes, right? Forget I said that, okay?
-12983: Oh, huh? <Player>? Is that <Player>?
-12984: Oh, <Player>, it's you.
-12985: <Player>! It's <Player>!
-12986: How are you getting along with your luopan? Have you gotten used to using Colures, yet? If you keep your head and shoulders to the grindstone I'm sure you'll master it!
-12987: I know Daddy's training can be rough, but it looks like you passed his test with flying pigs...is that how you say that?
-12988: Did you know that Daddy would speak really highly of you? He would always talk about how a promising new geomancer showed up and was looking forward to seeing what you could do... He seemed so happy.
-12989: I can still feel your Communion. If it weren't for you back there, we would have been domed, I mean doomed. Anyway, thank you <Player>.
-12990: It's all thanks to you that we were able to fulfill Zacariah's duty. You're like the most...stupenderrific hero to all us Zacariahs!
-12991: So...I guess this mean you'll be joining my Unity?
-12992: Thank you so much. It means a lot to me. As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
-12993: Ikhi said this wasn't a good time for me to be leading a Unity.
-12994: But...I couldn't just stay at home doing nothing. It's easier to forget the sad things when you've got a lot to do, you know?
-12995: So when the offer for Unity leader came, I had to accept.
-12996: You can't stay blue forever. Daddy would probably laugh at me if he saw how down and depressivated I am these days.
-12997: ...Right, smile Sylvie! Let's make this Unity work. With you as part of the team, I'm sure our efforts will bring us bear fruit. Huh...why do they call it "bear fruit"?
-12998: Wait, so does this mean you'll be joining my Unity?
-12999: As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
-13000: With you on our team, we'll be truly unstoppableable!
-13001: To tell you the truth, I wasn't sure what to do when the Adventurers' Mutual Aid Network first invited me.
-13002: If it weren't for Ikhi's guidance, I'd be down a creek full of paddles.
-13003: She said if the Unity could show people everywhere how to communicate with nature and spread the ways of the geomancer, then it was something worth doing.
-13004: There's still a lot I don't know as a geomancer, but I'm going to triple down and do my best as UL.
-13005: Let's make this the best Unity we can!
-13006: Yeah, go team!
-13007: And...if you happened to be in Western Adoulin...and are also interested in geomancy, come see me by the docks. Wait, but not like...in a weird way, okay?
-13008: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
-13009: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
-13010: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
-13011: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
-13012: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
-13013: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
-13014: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
-13015: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
-13016: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
-13017: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
-13018: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
-13019: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
-13020: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
-13021: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
-13022: Select an item category. [Return to previous selection./@/@/@/@]
-13023: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
-13024: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13025: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13026: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
-13027: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
-13028: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13029: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
-13030: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
-13031: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
-13032: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
-13033: "Unity" is a catchall term that refers to the group that participants belong to.
-13034: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
-13035: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
-13036: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
-13037: You may not always be able to join the chat if too many players are participating at once.
-13038: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
-13039: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
-13040: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
-13041: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
-13042: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
-13043: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
-13044: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
-13045: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
-13046: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
-13047: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
-13048: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
-13049: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
-13050: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
-13051: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
-13052: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
-13053: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
-13054: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
-13055: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
-13056: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
-13057: You can use specified materials to add new attributes to equipment that has been upgraded.
-13058: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
-13059: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
-13060: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
-13061: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
-13062: It also requires that you first complete a specific Records of Eminence objective.
-13063: The work you request will be carried out on-site by a specially trained Unity guide.
-13064: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
-13065: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
-13066: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
-13067: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
-13068: You may switch Unities once during the Unity ranking tabulation period.
-13069: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
-13070: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
-13071: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
-13072: Rankings are decided through the combined efforts of each of the Unity's members.
-13073: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
-13074: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
-13075: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
-13076: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
-13077: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
-13078: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
-13079: Unity leaders may also join you as alter egos for a limited period of time.
-13080: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
-13081: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
-13082: A leader's alter ego grows in power the higher their Unity is ranked.
-13083: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
-13084: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
-13085: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
-13086: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
-13087: You are currently under Unity restriction. Please try again during the next tabulation period.
-13088: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
-13089: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
-13090: You have already changed Unities. Please wait until the next tabulation period.
-13091: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
-13092: Teleport anyway? [Yes, please./No, thank you.]
-13093: Is it playtime alrrready? Oh, I do love reeling in a fresh catch!
-13094: But you're a little too rrraw, even for me. Come back once you've had a chance to simmer under, say, $0 Records of Eminence objective[/s].
-13095: Now, before you go around caterwauling, let me point you to Eternal Flame right there. He can get you started.
-13096: I only play with those who've some meat on their bones. Set the Rrrecords of Eminence tutorial objective "$1" and come back when you're done.
-13097: And what a fine one I've got my paws on today! You've come here to participate in Unity Concorrrd, haven't you?
-13098: How do you respond? [There's something fishy about this./I'm interested in Unity Concord./Tell me more about this "playtime."]
-13099: Not going to take the bait? That's a downrrright shame. Come back if you've changed your mind.
-13100: Nunaarl Bthtrogg stares you down.
-13101: Hmm hmm... Yes, a fine specimen you make indeed!
-13102: Hmm hmm... Not quite what I was hoping for, but you'll have to do.
-13103: Well... There's one condition--you have to join a Unity firrrst!
-13104: Of course you are! To get starrrted you'll need to get your claws on the $1 objective.
-13105: First, let me give you this whale of a $3.
-13106: <Bleep>
-13107: Nunaarl Bthtrogg shoves the $3 into your hands.
-13108: I suppose I betterrr explain what Unity Concord is, lest your mental vessel capsize. Unity Concord is a special type of gathering formed by the Adventurers' Mutual Aid Network.
-13109: They share one similarity with linkshells--people from the four corners of Vana'diel come togetherrr to accomplish things that they could not do alone.
-13110: But it isn't any old fishing expedition. That $3 rrrecords all of your good deeds and stores them inside its adorable cotton confines.
-13111: So why not get your feet wet? The tasks you'll be doing are rrrelatively simple in nature.
-13112: The first thing you'll have to do is choose a Unity--an orrrganization headed by some of Vana'diel's most storied personages.
-13113: Select one and set sail!
-13114: Urk... You'll never have a good catch if you don't even cast your net!
-13115: Gimme back that doll. You clearrrly won't be needing it for now.
-13116: Back for more? Then I'll give you back this $3.
-13117: Now, have you finally got a Unity in mind?
-13118: [Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie]'s as good a leaderrr as any. Are you sure?
-13119: Excellent! The firrrst thing you'll need to do is give your leader a few words of greeting.
-13120: Gimme your $3 so I can make a few adjustments.
-13121: Nunaarl Bthtrogg pokes and prods at your $3.
-13122: The $3 writhes in agony!
-13123: I swear, it's like deboning a Tavnazian goby! Phew! It should be all connected to your leaderrr now.
-13124: So? How does it feel to have cast anchorrr at your new Unity?
-13125: I'm expecting a bit of a bonus for this... Nyahaha! Let's keep that between us.
-13126: Your head might be swimming from all this inforrrmation, but your $3 can talk with people over long distances.
-13127: Of course, that means your Unity allies. There's no way you'll drown when there are frrriends waiting to pull you back aboard!
-13128: But you'll never know who those friends are if you don't say anything, so trrry it out!
-13129: You can learrrn more about Unity chat by selecting "Status" and then navigating to "Unity Info" under the "Unity" submenu.
-13130: It's a lot to take in, but you'll get your bearrrings soon.
-13131: And I'll be here waiting if you're ever lost at sea.
-13132: Need some navigation?
-13133: Setting sail forrr $8?
-13134: You can't pull the wool over my eyes! You don't have enough accolades!
-13135: Let's see...you can still exchange $0 more accolade[/s] this week.
-13136: Nothing like rrrubbing some oil on equipment to make it shine. Here's what it'll look like:
-13137: The artisan'll rrrequire $2 $0$0 , $4, and a fee of $3 accolade[/s] to make $0 for you.
-13138: You can't rrrush perfection, so it'll take some time for your piece to be completed. But you'll be satisfied with the results, right as rain!
-13139: ...Wait. Rrright now you've got $0 on hold. There's such a huge waiting list that I can't allow you to monopolize two spots!
-13140: Adding a new attrrribute to your item will look like this...
-13141: Your item will probably turn out as follows once its rrrank is increased.
-13142: If you wish to add an attribute to your $0, bring it along with $1 and the rrrequisite fee of $2 accolade[/s].
-13143: Oh, you'll also need to complete the Records of Eminence objective "$4" firrrst.
-13144: To boost the rrrank of your $0, bring it with some $3. The more you provide, the larger the increase will be.
-13145: Once you make your rrrequest, I'll be handling everything for you personally.
-13146: Leave it to me! I've spent a lot of time prrreparing for this moment!
-13147: $1, hmmmmmmmmm? Might not be what I'd have fished up, but if that's what makes you happy... It'll rrrun you $0 accolade[/s].
-13148: How many you want to get your paws on? (1 to $0)
-13149: You got it. $2 of those comes to a total of $0 accolade[/s].
-13150: Herrre you go!
-13151: Hrm? You say you want to jump ship?
-13152: I make it a policy not to stick my whiskerrrs in other people's business. Just tell me where you would like to go.
-13153: Considerrr it done!
-13154: Decided to put the ol' life rrraft back?
-13155: I've got a cute little volume that'll rrrun you through the basics. Have a look.
-13156: You'll first need to pick a Unity that rrrings true to your heart.
-13157: Then fill up your bags with proverbial bucketloads of Records of Eminence objectives to earrrn unity accolades.
-13158: Acquire enough accolades and you'll need a portside warrrehouse to store all the items you'll be getting.
-13159: It's a bit more complicated than that, but surrrely you get the gist.
-13160: Rrready to have your $1 enhanced?
-13161: Our arcane artisan rrrequires a fee of $0 accolade[/s]. That okay with you?
-13162: I'll make sure it gets to him on the next trading vessel. Never fear--it's purrrfectly secure.
-13163: Were you just pulling my tail? Herrre, you can have this back.
-13164: We're polishing up your $1! It'll be rrready a little later.
-13165: Your piece made it back in one...piece. Congrrratulations on your spiffy new $1!
-13166: What's this? Are you herrre to power up your $1?
-13167: It'll rrrequire $0 accolade[/s] to complete the process. Do we have a deal?
-13168: Here's your piece...hot out of the forge! Congrrratulations!
-13169: Too bad, I was about to show you what I'm capable of. Herrre, you can have this back.
-13170: If you want to rrrun with the big cats, you'll need to complete the Records of Eminence objective "$7" first and then come see me again.
-13171: Hm? You want to use $6 $0$5 to store Reinforcement Points for yourrr $4?
-13172: Behold the marrrvel that is this piece! Hurry up and test it in the field!
-13173: How unfortunate... I was really looking forward to this. Herrre, you can have this back.
-13174: Good day, adventurer! I am able to repair any broken item data related to $0.
-13175: If you are unable to deliver $0, it's possible that the item data has been corrupted.
-13176: Please trade your $0 to me so that I may fix it.
-13177: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
-13178: I have restored it to its intended functionality. Here you are!
-13179: It appears that your item is working as intended.
-13180: An error has occurred. Please try again later.
-13181: Are you also looking for Master Valli?
-13182: There was a woman here searching for him as well. Ah, there she is over there.
-13183: Oh, it's you!
-13184: Do you happen to know where Valli and Oshasha are going?
-13185: Do you know their destination? [Yes, I do./Sorry./Who are you?]
-13186: Huh?
-13187: You had best stop lying to me!
-13188: I see... That's too bad...
-13189: My name is Er... I mean Lerene. I am here searching the ruins. You could say I am a kind of researcher.
-13190: My name is Lerene. Have we met before?
-13191: My name is Lerene. I am here searching the ruins. You could say I am a kind of researcher.
-13192: I received a message from Oshasha and Valli and came here as soon as I could.
-13193: Have you heard anything from them?
-13194: They mentioned it would be rather difficult to decipher the $3, so I figured it would take more time.
-13195: Ah! Do you know anything about the $3?
-13196: Do you know about the $3? [Actually, I do./Sorry.]
-13197: Really? You do? How?
-13198: Hm? Are you lying to me[?/ again?] If you know something, tell me!
-13199: I never imagined you were the pioneer that found the $3, <Player>.
-13200: In that case, did you hear the news? Oshasha received a letter all the way from Windurst?
-13201: She was apparently quite shocked by its contents, and has been lost in thought ever since.
-13202: Her fierce sense of responsibility means she has been bound by her past--no, the long and storied history of her family.
-13203: I am not at liberty to share the details, but I'm worried because she often has a tendency to do the unexpected.
-13204: After all, she did say something about summoning demons and asking them something directly...
-13205: Ah! Valli!
-13206: Lerene! What excellent timing!
-13207: Hm? Have we met before... No, I must be imagining it.
-13208: Where were you? And why isn't Oshasha here with you?
-13209: If you are asking that, I take it that means she is not back yet?
-13210: We got separated in the forest. I only took my eyes off her for a moment, but the next thing I knew, she was gone.
-13211: What!?
-13212: Where in the forest!? It wasn't anywhere dangerous, was it!?
-13213: It is an untainted section of the forest known as Leafallia in the Kamihr Drifts. She should not be in any immediate danger there...
-13214: However, we found a notice regarding the presence of a demon tribe known as the Dvergr, so we set out for their territory.
-13215: Demons!? That's the very definition of dangerous!
-13216: According to the $3, it said that no harm would come to those who were deemed worthy...
-13217: However, we have no idea what makes someone worthy or not. Lerene, I am heading back to Leafallia.
-13218: I will follow along shortly. If any of that strange magic remains, it may be possible to track its arcane energies...
-13219: We could use your help too, <Player>!
-13220: Hm? That name...
-13221: Valli, this is the pioneer that Oshasha asked to retrieve the $3.
-13222: Ah, that is good to hear; there is strength in numbers. We could definitely use your help.
-13223: Now then, let us head for Leafallia at once.
-13224: Oshasha has gone missing in the forest? This is most distressing news!
-13225: I can't believe that Master Valli lost track of her!
-13226: Master Valli likes to keep it a secret, but he is actually a famous nobleman from the Middle Lands.
-13227: That's not important right now though. You must hurry to Leafallia and look for Oshasha!
-13228: Greetings, pioneer. Is your name <Player> by any chance?
-13229: I have a message from Lord Valaineral.
-13230: While conducting his research in the Middle Lands, he remembered one important thing.
-13231: Twenty years ago, he met a man known as Duskraven in the Kingdom of San d'Oria.
-13232: He is wondering if that was the "man of high status" who appeared in the tales of old. He asked me to check it out if I ever have the chance.
+12831: Urk!
+12832: I understand that you are...an adventurer? My name is Pieuje I. d'Oraguille, commander of San d'Oria's famed Temple Knights.
+12833: Is that <Player>'s voice I hear?
+12834: Forgive me, but I am more accustomed to recognizing faces than voices, especially through such a peculiar device.
+12835: I must thank you for your handling of the Altedour incident in Fei'Yin.
+12836: Never once have I forgotten your dedication to protecting all of San d'Oria.
+12837: As you are doubtlessly aware, a short time ago I received a memorandum from the Adventurers' Mutual Aid Network detailing Unity Concord and requesting my services as a Unity leader.
+12838: Tell me. Is there any greater way for a prince regent to earn honor for his kingdom than by spearheading a group dedicated to purging evil from the land?
+12839: Many around me were opposed, but that bothered me not. My brother, Trion, serves as a representative of the Trust initiative, and it falls to me to up the ante.
+12840: I cannot lie. That was an important factor in my decision.
+12841: But be not concerned with our internal squabbles. Know only that it pleases me to welcome you to my Unity.
+12842: My name is Ayame, a ranking member of the Mythril Musketeers. Pleased to make your acquaintance.
+12843: Haha...yes, <Player>, of course I remember you. How characteristic of you to have your fingers in everyone's pies.
+12844: Do not think me ungrateful. No, I am always pleased to have your help, but this time things are a bit different.
+12845: Do not think me ungrateful. You strengthened the Mythril Musketeers in ways I never thought possible, and we are closer than ever before.
+12846: Not terribly long ago I was contacted by the Adventurers' Mutual Aid Network, which asked that I head a Unity.
+12847: At first I was flustered and thought of turning the offer down. Why would they pick me when there are others more qualified?
+12848: But Volker decided it would be the perfect opportunity for me to develop my leadership skills, and told them I would accept...without my knowledge.
+12849: Though unconvinced that I am the best fit, I pledge to dedicate myself wholly to this endeavor.
+12850: People are counting on me. Not only Volker, but those like you who have pledged their support.
+12851: I will not let you down.
+12852: Stand sharp, maggot! I've got no time for people who're gonna slack off!
+12853: ...Wait. That's you, isn't it, <Player>?
+12854: I hear you've decided to join my backbreaking Unity.
+12855: Well!? What've you got to say for yourself!?
+12856: How do you respond? [That's right./Nope./Y-yessir!]
+12857: Impudent cretin! You say "sir" when addressing a superior officer!
+12858: Better. Everyone in my Unity is equal--you're all worthless whelps!
+12859: We don't coddle the weak around here. If you want respect, you earn it.
+12860: Until then, you're just a dried-up, shriveled worm!
+12861: So go crawling around in the dirt and pray some crow doesn't sweep down and gobble you up!
+12862: Now get out there!
+12863: Hello, good adventurer. You can call me Apururu.
+12864: Is that...<Player>? Am I rightaru?
+12865: Your good deeds on behalf of Windurstaru have not gone unnoticed.
+12866: I'm so worried about my brother...but if this is one way for me to help-welp him, then so be it.
+12867: Ajido-Marujido has awoken at lastaru, but...no, I'll not let myself cry. I must work for the good of Windurst.
+12868: You brought hope to a Windurst that was on the brink-wink of despair.
+12869: I've been selected to serve as the head of a Unity-wunity, and can I ever say...
+12870: As the head of the Manustery, there can be no greater honor than--
+12871: Aaaaaall right! Now the Cardian workshop can finally turn something resembling a profitaru!
+12872: tHiS iS aBsoLUtElY WonDErFul. NoW wE HaVe MOneY, ALl ThaNkS tO APurURu!
+12873: H-hey! It's not like I'll be making bank-wank!
+12874: Putting that aside--welcome to my Unitaru!
+12875: We can do together-wether what we couldn't individually.
+12876: Phew... So you're my new pupil, eh?
+12877: Phew... So you're my new pu... <Player>?
+12878: The way you shone when the two of us met in combat...I'd be lying if I said I wasn't impressed.
+12879: I've gotta say, you sure knew how to show me the old what-for...it was like staring into the face of a demon!
+12880: I've lived many years on this green Vana'diel, but you're the only one I've ever proffered my hat to.
+12881: ...Let's discuss how all this came to be.
+12882: The Adventurers' Mutual Aid Network came up with this "Unity" idea, and asked me to be one of its founding masters.
+12883: But I'm not the kind to take on disciples, so at first I was more than a bit wary.
+12884: But the old lady, she nagged me, and nagged me, and nagged me until I finally caved in.
+12885: How do you respond? [You can always quit, you know./Must have been tough for you./That's quite the wife you've got.]
+12886: Ugh... I didn't expect you to come at me with that.
+12887: Tough doesn't begin to describe it! I was hoping to spend my twilight years for myself, but you gotta play the hand you're dealt.
+12888: Please tell me that you weren't in on it!
+12889: Either way, that's not important now. As long as I'm the master of a ragtag group of youngsters, I'm gonna make sure you all get the training you deserve.
+12890: But to do that, I'm gonna need your help.
+12891: And I'll warn you--my regimens have been known to be...strict.
+12892: And I'm sure I don't need to tell you how strict my regimens are!
+12893: What's the password?
+12894: How do you respond? [Rose on the heath./Tavnazia./@]
+12895: Who's this!? ...Ah, this is the Unity communication device. Forget I said anything.
+12896: Aldo of the Tenshodo, at your service.
+12897: Who's this!? ...Ah, this is the Unity communication...wait. You're <Player>, aren't you?
+12898: The way this little thing is buzzing tells me that you're looking to join my Unity.
+12899: "My" Unity being the key here. Who else did you expect to be the leader?
+12900: I'm sure the Adventurers' Mutual Aid Network would make for...excellent customers in the future.
+12901: Serve the Unity well and I promise you'll want for nothing.
+12902: You found hope where once I had lost it. Lion was alive and I'll never forget all you've done.
+12903: All that she had worked and fought for...we owe it to her to live our lives to the fullest.
+12904: Working with others for a common goal is the greatest reward of all.
+12905: And it's people like you who I need to understand that most.
+12906: Well, do we have a new rrrecruit? I'm Jakoh Wahcondalo, chieftainess of Kazham.
+12907: Come to think of it...didn't I teach you the secrets of eviscerrration?
+12908: Hah-hah-hah! Then all the better for my Unity!
+12909: Are you sure...are you sure you're not currrsed by $0?
+12910: Can never be too carrreful these days...
+12911: Let's cut to the quick. You've joined my Unity, corrrect?
+12912: Then welcome.
+12913: But a quick word of warrrning.
+12914: I'm in charrrge here, so don't go about being disruptive!
+12915: If you can do that, we'll have no prrroblems. Now get to it!
+12916: H-hello, you've reached Salaheem's Sentinels.
+12917: There's no problem we can't solve, big or small!
+12918: Aha, we have a new visitor? One moment--I'll get the president for you.
+12919: Yes, this is Naja Salaheem.
+12920: Ah, have we an adventurerrr applying today?
+12921: You could not have picked a betterrr place to be.
+12922: Our Unity is completely free of charge, making it the purrrfect place to hang up your sword and meet some new companions.
+12923: We considerrr it our calling to provide an excellent place for those of all strrripes to utilize their talents in a variety of combat scenes.
+12924: Abquhbah! Get your lazy butt over here!
+12925: S-sorry. Yes, [good sir/my lady], this is Abquhbah of Salaheem's Sentinels.
+12926: We have a variety of powerful backers supporting our organization...
+12927: ...So I'm certain you'll find achieving a high Unity ranking to be a breeze.
+12928: And if we do, then there will be a lovely gift of sweets waiting. Yes, some gold pieces of--
+12929: <Sigh>... Oh, heavens, I think this device isn't worrrking properly. Can you hear me now?
+12930: How do you respond? [Loud and clear./Where's Abquhbah?/Just what did you do?]
+12931: Please forrrgive his impudence.
+12932: We're looking forward to having you serrrve in our regiment.
+12933: And we hope you enjoy your looong stay in our rrranks!
+12934: Oho? Is that <Player> I hear?
+12935: <Player>? Gimme that!
+12936: Picturrre that, hearing from [a non-employee/a second class private/a first class private/a superior private/a lance corporal/a corporal/a sergeant/a sergeant major/a chief sergeant/a second lieutenant/a first lieutenant/a captain] such as yourself.
+12937: You've got some gall shirrrking your duties like this!
+12938: But since you've joined my Unity, I'm willing to overlook that little trrransgression.
+12939: Let's paint the rankings rrred with our unstoppable team!
+12940: And that rrrequires you to not sit around like some good-for-nothing! You belong not just to one of my teams, but to two!
+12941: Be thankful you have work and get your butt out there!
+12942: The magic doll you are trying to reach is either suffering from mystical interference or is not attuned to a bearer.
+12943: Please check the settings and try a-again... Mmph...
+12944: Ahaha! Who can ever resist a good joke? It's me, and no other!
+12945: How do you react? [Flaviria?/Arciela?/Who?]
+12946: Oho, expertly deduced! I'd expect no less!
+12947: Huh? Arciela? That little waif of a princess? Granted, I'm quite pretty as well...
+12948: Urk...I'd have expected you to go with the joke...
+12949: But let's get down to business.
+12950: I'm Flaviria, maester of Adoulin's Mummers' Coalition.
+12951: I'm Flaviria, of course. I'm sure you've been to the Mummers' Coalition more than once, so my name should be quite familiar.
+12952: The Adventurers' Mutual Aid Network invited me to be a Unity leader...and how could I say no?
+12953: Though truth be told, I wonder why they picked me over one of the other leaders of the twelve orders.
+12954: Now that I think of it, didn't you trounce one of our more enigmatic patrons in a game of Boom or Bust?
+12955: And here I thought that the man in black couldn't be bested.
+12956: I'd better brush up, or you'll be coming for me next!
+12957: Either way, welcome to my Unity! I'm not completely clear on how best to proceed, but let's find the path together.
+12958: Ahem. <Cough-ethy>
+12959: So you're the young mind who's come to join-ethy my Unity?
+12960: Well met, I am Dr. Yoran-Oran, former minister-ethy of the Rhinostery in Windurst, and involved in all manner of magical research.
+12961: Ah, didn't you assist-ethy me with my mandragora research back then? Those items were of great help, thank you.
+12962: Ah, I know that voice-ethy! <Player>, that's you, isn't it?
+12963: Your efforts-ethy saved the Great Star Tree. Windurst owes you a deep debt of gratitude.
+12964: Listen <Player>. Those three monstrosities you so kindly brought into my life have put me in a very disconcerting situation-ethy. I have a lot more to say about it, but for now let's focus-ethy on the issue at hand.
+12965: Things have slowly gone back to normal-ethy now that the wretched trio of chaos incarnate has left. I've finally managed to begin work-ethy on my next book.
+12966: Thank you again for your aid during the Shantotto crisis-ethy. Were it not for you, our entire dimension would have been twisted and defiled beyond recognition. I still get nightmares-ethy thinking about it.
+12967: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
+12968: One of these students was part of the Adventurers' Mutual Aid Network-ethy and invited me to become a Unity leader.
+12969: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
+12970: But then I thought-ethy some more.
+12971: Could this in fact be the perfect-ethy avenue to promote my glorious research?
+12972: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
+12973: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
+12974: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
+12975: One of these students was part of the Adventurers Mutual Aid Network-ethy and invited me to become a Unity leader.
+12976: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
+12977: But then I thought-ethy some more.
+12978: Could this in fact be the perfect-ethy avenue to promote my glorious research?
+12979: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
+12980: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
+12981: .........
+12982: Oh! Right! I should probably say something. I'm Sylvie. As you can probably guess from these clothes. I'm a geomanger--I mean, geomancer!
+12983: Oh, I forgot...you can't see my clothes, right? Forget I said that, okay?
+12984: Oh, huh? <Player>? Is that <Player>?
+12985: Oh, <Player>, it's you.
+12986: <Player>! It's <Player>!
+12987: How are you getting along with your luopan? Have you gotten used to using Colures, yet? If you keep your head and shoulders to the grindstone I'm sure you'll master it!
+12988: I know Daddy's training can be rough, but it looks like you passed his test with flying pigs...is that how you say that?
+12989: Did you know that Daddy would speak really highly of you? He would always talk about how a promising new geomancer showed up and was looking forward to seeing what you could do... He seemed so happy.
+12990: I can still feel your Communion. If it weren't for you back there, we would have been domed, I mean doomed. Anyway, thank you <Player>.
+12991: It's all thanks to you that we were able to fulfill Zacariah's duty. You're like the most...stupenderrific hero to all us Zacariahs!
+12992: So...I guess this mean you'll be joining my Unity?
+12993: Thank you so much. It means a lot to me. As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
+12994: Ikhi said this wasn't a good time for me to be leading a Unity.
+12995: But...I couldn't just stay at home doing nothing. It's easier to forget the sad things when you've got a lot to do, you know?
+12996: So when the offer for Unity leader came, I had to accept.
+12997: You can't stay blue forever. Daddy would probably laugh at me if he saw how down and depressivated I am these days.
+12998: ...Right, smile Sylvie! Let's make this Unity work. With you as part of the team, I'm sure our efforts will bring us bear fruit. Huh...why do they call it "bear fruit"?
+12999: Wait, so does this mean you'll be joining my Unity?
+13000: As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
+13001: With you on our team, we'll be truly unstoppableable!
+13002: To tell you the truth, I wasn't sure what to do when the Adventurers' Mutual Aid Network first invited me.
+13003: If it weren't for Ikhi's guidance, I'd be down a creek full of paddles.
+13004: She said if the Unity could show people everywhere how to communicate with nature and spread the ways of the geomancer, then it was something worth doing.
+13005: There's still a lot I don't know as a geomancer, but I'm going to triple down and do my best as UL.
+13006: Let's make this the best Unity we can!
+13007: Yeah, go team!
+13008: And...if you happened to be in Western Adoulin...and are also interested in geomancy, come see me by the docks. Wait, but not like...in a weird way, okay?
+13009: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
+13010: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
+13011: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
+13012: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
+13013: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
+13014: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
+13015: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
+13016: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
+13017: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
+13018: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
+13019: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
+13020: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
+13021: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
+13022: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
+13023: Select an item category. [Return to previous selection./@/@/@/@]
+13024: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
+13025: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13026: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13027: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
+13028: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
+13029: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13030: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
+13031: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
+13032: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
+13033: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
+13034: "Unity" is a catchall term that refers to the group that participants belong to.
+13035: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
+13036: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
+13037: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
+13038: You may not always be able to join the chat if too many players are participating at once.
+13039: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
+13040: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
+13041: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
+13042: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
+13043: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
+13044: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
+13045: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
+13046: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
+13047: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
+13048: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
+13049: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
+13050: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
+13051: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
+13052: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
+13053: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
+13054: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
+13055: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
+13056: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
+13057: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
+13058: You can use specified materials to add new attributes to equipment that has been upgraded.
+13059: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
+13060: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
+13061: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
+13062: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
+13063: It also requires that you first complete a specific Records of Eminence objective.
+13064: The work you request will be carried out on-site by a specially trained Unity guide.
+13065: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
+13066: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
+13067: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
+13068: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
+13069: You may switch Unities once during the Unity ranking tabulation period.
+13070: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
+13071: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
+13072: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
+13073: Rankings are decided through the combined efforts of each of the Unity's members.
+13074: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
+13075: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
+13076: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
+13077: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
+13078: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
+13079: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
+13080: Unity leaders may also join you as alter egos for a limited period of time.
+13081: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
+13082: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
+13083: A leader's alter ego grows in power the higher their Unity is ranked.
+13084: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
+13085: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
+13086: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
+13087: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
+13088: You are currently under Unity restriction. Please try again during the next tabulation period.
+13089: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
+13090: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
+13091: You have already changed Unities. Please wait until the next tabulation period.
+13092: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
+13093: Teleport anyway? [Yes, please./No, thank you.]
+13094: Is it playtime alrrready? Oh, I do love reeling in a fresh catch!
+13095: But you're a little too rrraw, even for me. Come back once you've had a chance to simmer under, say, $0 Records of Eminence objective[/s].
+13096: Now, before you go around caterwauling, let me point you to Eternal Flame right there. He can get you started.
+13097: I only play with those who've some meat on their bones. Set the Rrrecords of Eminence tutorial objective "$1" and come back when you're done.
+13098: And what a fine one I've got my paws on today! You've come here to participate in Unity Concorrrd, haven't you?
+13099: How do you respond? [There's something fishy about this./I'm interested in Unity Concord./Tell me more about this "playtime."]
+13100: Not going to take the bait? That's a downrrright shame. Come back if you've changed your mind.
+13101: Nunaarl Bthtrogg stares you down.
+13102: Hmm hmm... Yes, a fine specimen you make indeed!
+13103: Hmm hmm... Not quite what I was hoping for, but you'll have to do.
+13104: Well... There's one condition--you have to join a Unity firrrst!
+13105: Of course you are! To get starrrted you'll need to get your claws on the $1 objective.
+13106: First, let me give you this whale of a $3.
+13107: <Bleep>
+13108: Nunaarl Bthtrogg shoves the $3 into your hands.
+13109: I suppose I betterrr explain what Unity Concord is, lest your mental vessel capsize. Unity Concord is a special type of gathering formed by the Adventurers' Mutual Aid Network.
+13110: They share one similarity with linkshells--people from the four corners of Vana'diel come togetherrr to accomplish things that they could not do alone.
+13111: But it isn't any old fishing expedition. That $3 rrrecords all of your good deeds and stores them inside its adorable cotton confines.
+13112: So why not get your feet wet? The tasks you'll be doing are rrrelatively simple in nature.
+13113: The first thing you'll have to do is choose a Unity--an orrrganization headed by some of Vana'diel's most storied personages.
+13114: Select one and set sail!
+13115: Urk... You'll never have a good catch if you don't even cast your net!
+13116: Gimme back that doll. You clearrrly won't be needing it for now.
+13117: Back for more? Then I'll give you back this $3.
+13118: Now, have you finally got a Unity in mind?
+13119: [Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie]'s as good a leaderrr as any. Are you sure?
+13120: Excellent! The firrrst thing you'll need to do is give your leader a few words of greeting.
+13121: Gimme your $3 so I can make a few adjustments.
+13122: Nunaarl Bthtrogg pokes and prods at your $3.
+13123: The $3 writhes in agony!
+13124: I swear, it's like deboning a Tavnazian goby! Phew! It should be all connected to your leaderrr now.
+13125: So? How does it feel to have cast anchorrr at your new Unity?
+13126: I'm expecting a bit of a bonus for this... Nyahaha! Let's keep that between us.
+13127: Your head might be swimming from all this inforrrmation, but your $3 can talk with people over long distances.
+13128: Of course, that means your Unity allies. There's no way you'll drown when there are frrriends waiting to pull you back aboard!
+13129: But you'll never know who those friends are if you don't say anything, so trrry it out!
+13130: You can learrrn more about Unity chat by selecting "Status" and then navigating to "Unity Info" under the "Unity" submenu.
+13131: It's a lot to take in, but you'll get your bearrrings soon.
+13132: And I'll be here waiting if you're ever lost at sea.
+13133: Need some navigation?
+13134: Setting sail forrr $8?
+13135: You can't pull the wool over my eyes! You don't have enough accolades!
+13136: Let's see...you can still exchange $0 more accolade[/s] this week.
+13137: Nothing like rrrubbing some oil on equipment to make it shine. Here's what it'll look like:
+13138: The artisan'll rrrequire $2 $0$0 , $4, and a fee of $3 accolade[/s] to make $0 for you.
+13139: You can't rrrush perfection, so it'll take some time for your piece to be completed. But you'll be satisfied with the results, right as rain!
+13140: ...Wait. Rrright now you've got $0 on hold. There's such a huge waiting list that I can't allow you to monopolize two spots!
+13141: Adding a new attrrribute to your item will look like this...
+13142: Your item will probably turn out as follows once its rrrank is increased.
+13143: If you wish to add an attribute to your $0, bring it along with $1 and the rrrequisite fee of $2 accolade[/s].
+13144: Oh, you'll also need to complete the Records of Eminence objective "$4" firrrst.
+13145: To boost the rrrank of your $0, bring it with some $3. The more you provide, the larger the increase will be.
+13146: Once you make your rrrequest, I'll be handling everything for you personally.
+13147: Leave it to me! I've spent a lot of time prrreparing for this moment!
+13148: $1, hmmmmmmmmm? Might not be what I'd have fished up, but if that's what makes you happy... It'll rrrun you $0 accolade[/s].
+13149: How many you want to get your paws on? (1 to $0)
+13150: You got it. $2 of those comes to a total of $0 accolade[/s].
+13151: Herrre you go!
+13152: Hrm? You say you want to jump ship?
+13153: I make it a policy not to stick my whiskerrrs in other people's business. Just tell me where you would like to go.
+13154: Considerrr it done!
+13155: Decided to put the ol' life rrraft back?
+13156: I've got a cute little volume that'll rrrun you through the basics. Have a look.
+13157: You'll first need to pick a Unity that rrrings true to your heart.
+13158: Then fill up your bags with proverbial bucketloads of Records of Eminence objectives to earrrn unity accolades.
+13159: Acquire enough accolades and you'll need a portside warrrehouse to store all the items you'll be getting.
+13160: It's a bit more complicated than that, but surrrely you get the gist.
+13161: Rrready to have your $1 enhanced?
+13162: Our arcane artisan rrrequires a fee of $0 accolade[/s]. That okay with you?
+13163: I'll make sure it gets to him on the next trading vessel. Never fear--it's purrrfectly secure.
+13164: Were you just pulling my tail? Herrre, you can have this back.
+13165: We're polishing up your $1! It'll be rrready a little later.
+13166: Your piece made it back in one...piece. Congrrratulations on your spiffy new $1!
+13167: What's this? Are you herrre to power up your $1?
+13168: It'll rrrequire $0 accolade[/s] to complete the process. Do we have a deal?
+13169: Here's your piece...hot out of the forge! Congrrratulations!
+13170: Too bad, I was about to show you what I'm capable of. Herrre, you can have this back.
+13171: If you want to rrrun with the big cats, you'll need to complete the Records of Eminence objective "$7" first and then come see me again.
+13172: Hm? You want to use $6 $0$5 to store Reinforcement Points for yourrr $4?
+13173: Behold the marrrvel that is this piece! Hurry up and test it in the field!
+13174: How unfortunate... I was really looking forward to this. Herrre, you can have this back.
+13175: Good day, adventurer! I am able to repair any broken item data related to $0.
+13176: If you are unable to deliver $0, it's possible that the item data has been corrupted.
+13177: Please trade your $0 to me so that I may fix it.
+13178: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
+13179: I have restored it to its intended functionality. Here you are!
+13180: It appears that your item is working as intended.
+13181: An error has occurred. Please try again later.
+13182: Are you also looking for Master Valli?
+13183: There was a woman here searching for him as well. Ah, there she is over there.
+13184: Oh, it's you!
+13185: Do you happen to know where Valli and Oshasha are going?
+13186: Do you know their destination? [Yes, I do./Sorry./Who are you?]
+13187: Huh?
+13188: You had best stop lying to me!
+13189: I see... That's too bad...
+13190: My name is Er... I mean Lerene. I am here searching the ruins. You could say I am a kind of researcher.
+13191: My name is Lerene. Have we met before?
+13192: My name is Lerene. I am here searching the ruins. You could say I am a kind of researcher.
+13193: I received a message from Oshasha and Valli and came here as soon as I could.
+13194: Have you heard anything from them?
+13195: They mentioned it would be rather difficult to decipher the $3, so I figured it would take more time.
+13196: Ah! Do you know anything about the $3?
+13197: Do you know about the $3? [Actually, I do./Sorry.]
+13198: Really? You do? How?
+13199: Hm? Are you lying to me[?/ again?] If you know something, tell me!
+13200: I never imagined you were the pioneer that found the $3, <Player>.
+13201: In that case, did you hear the news? Oshasha received a letter all the way from Windurst?
+13202: She was apparently quite shocked by its contents, and has been lost in thought ever since.
+13203: Her fierce sense of responsibility means she has been bound by her past--no, the long and storied history of her family.
+13204: I am not at liberty to share the details, but I'm worried because she often has a tendency to do the unexpected.
+13205: After all, she did say something about summoning demons and asking them something directly...
+13206: Ah! Valli!
+13207: Lerene! What excellent timing!
+13208: Hm? Have we met before... No, I must be imagining it.
+13209: Where were you? And why isn't Oshasha here with you?
+13210: If you are asking that, I take it that means she is not back yet?
+13211: We got separated in the forest. I only took my eyes off her for a moment, but the next thing I knew, she was gone.
+13212: What!?
+13213: Where in the forest!? It wasn't anywhere dangerous, was it!?
+13214: It is an untainted section of the forest known as Leafallia in the Kamihr Drifts. She should not be in any immediate danger there...
+13215: However, we found a notice regarding the presence of a demon tribe known as the Dvergr, so we set out for their territory.
+13216: Demons!? That's the very definition of dangerous!
+13217: According to the $3, it said that no harm would come to those who were deemed worthy...
+13218: However, we have no idea what makes someone worthy or not. Lerene, I am heading back to Leafallia.
+13219: I will follow along shortly. If any of that strange magic remains, it may be possible to track its arcane energies...
+13220: We could use your help too, <Player>!
+13221: Hm? That name...
+13222: Valli, this is the pioneer that Oshasha asked to retrieve the $3.
+13223: Ah, that is good to hear; there is strength in numbers. We could definitely use your help.
+13224: Now then, let us head for Leafallia at once.
+13225: Oshasha has gone missing in the forest? This is most distressing news!
+13226: I can't believe that Master Valli lost track of her!
+13227: Master Valli likes to keep it a secret, but he is actually a famous nobleman from the Middle Lands.
+13228: That's not important right now though. You must hurry to Leafallia and look for Oshasha!
+13229: Greetings, pioneer. Is your name <Player> by any chance?
+13230: I have a message from Lord Valaineral.
+13231: While conducting his research in the Middle Lands, he remembered one important thing.
+13232: Twenty years ago, he met a man known as Duskraven in the Kingdom of San d'Oria.
+13233: He is wondering if that was the "man of high status" who appeared in the tales of old. He asked me to check it out if I ever have the chance.

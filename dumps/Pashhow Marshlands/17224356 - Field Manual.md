@@ -14,7 +14,7 @@
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [28](#event-28)       | 0x0001       |   2245 |            448 |
+| [29](#event-29)       | 0x0001       |   2245 |            448 |
 
 ## DAT References (imed_data)
 
@@ -148,7 +148,7 @@
   0: 0x0000 [0x00] END_REQSTACK()
 ```
 
-### Event 28
+### Event 29
 
 #### Metadata
 

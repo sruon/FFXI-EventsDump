@@ -7807,15 +7807,15 @@
  7803: @
  7804: PAUSE
  7805: $1
- 7806: Happy New Year! Ah, wait up, wait up!
- 7807: Happy New Year!
- 7808: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 7809: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 7810: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 7811: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 7812: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 7813: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 7814: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 7806: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7807: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7808: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7809: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7810: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7811: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7812: Neigh!! (Your year will be as joyful as the last.)
+ 7813: Neigh! (Your year will be fairly good...)
+ 7814: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7815: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
  7816: Come, <Player>. Follow me...
  7817: Carbuncle vanished off in the direction of the La Theine Plateau.

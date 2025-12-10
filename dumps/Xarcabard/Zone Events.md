@@ -353,15 +353,15 @@
 0000:       20 01 42 46 01 45  00 80 F0 FF FF 7F F0 FF     .BF.E........
 0010: FF 7F 66 64 6F 31 01 80  55 00 80 F0 FF FF 7F F0  ..fdo1..U.......
 0020: FF FF 7F 66 64 6F 31 38  02 80 79 00 F0 FF FF 7F  ...fdo18..y.....
-0030: 5D 01 07 01 37 03 80 04  80 05 80 06 80 97 01 80  ]...7...........
+0030: 5C 01 07 01 37 03 80 04  80 05 80 06 80 97 01 80  \...7...........
 0040: 07 80 45 08 80 F0 FF FF  7F F0 FF FF 7F 61 30 30  ..E..........a00
 0050: 30 01 80 55 08 80 F0 FF  FF 7F F0 FF FF 7F 61 30  0..U..........a0
 0060: 30 30 45 00 80 F0 FF FF  7F F0 FF FF 7F 66 64 69  00E..........fdi
 0070: 31 01 80 55 00 80 F0 FF  FF 7F F0 FF FF 7F 66 64  1..U..........fd
 0080: 69 31 03 00 00 07 7F 1A  E7 05 66 01 00 F0 FF FF  i1........f.....
 0090: 7F F0 FF FF 7F 73 68 61  30 53 F0 FF FF 7F F0 FF  .....sha0S......
-00A0: FF 7F 73 68 61 30 1C 09  80 62 0A 80 5D 01 07 01  ..sha0...b..]...
-00B0: 5D 01 07 01 6D 61 69 6E  01 80 1C 09 80 03 00 00  ]...main........
+00A0: FF 7F 73 68 61 30 1C 09  80 62 0A 80 5C 01 07 01  ..sha0...b..\...
+00B0: 5C 01 07 01 6D 61 69 6E  01 80 1C 09 80 03 00 00  \...main........
 00C0: 07 7F 1A E7 05 66 01 00  F0 FF FF 7F F0 FF FF 7F  .....f..........
 00D0: 73 68 61 31 53 F0 FF FF  7F F0 FF FF 7F 73 68 61  sha1S........sha
 00E0: 31 45 00 80 F0 FF FF 7F  F0 FF FF 7F 66 64 6F 32  1E..........fdo2
@@ -379,7 +379,7 @@
   3: 0x0007 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   4: 0x0018 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
   5: 0x0027 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  6: 0x002A [0x79] LocalPlayer looks at ??? (ID: 17236317/0x0107015D) (Basic look)
+  6: 0x002A [0x79] LocalPlayer looks at ??? (ID: 17236316/0x0107015C) (Basic look)
   7: 0x0034 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=179.379*, z=82.208*, y=-32.963*, direction=172.9°*
   8: 0x003D [0x97] SAVE_SET_WIND_VALUES(wind_base=0x8001, wind_width=0x8007)
   9: 0x0042 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "a000" with entities [LocalPlayer, LocalPlayer], work=[12*, 0*]
@@ -391,7 +391,7 @@
  15: 0x008A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[1]
  16: 0x0099 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha0" with entities [LocalPlayer, LocalPlayer]
  17: 0x00A6 [0x1C] WAIT(120* ticks)
- 18: 0x00A9 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [??? (ID: 17236317/0x0107015D), ??? (ID: 17236317/0x0107015D)], work=[3*, 0*]
+ 18: 0x00A9 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [??? (ID: 17236316/0x0107015C), ??? (ID: 17236316/0x0107015C)], work=[3*, 0*]
  19: 0x00BA [0x1C] WAIT(120* ticks)
  20: 0x00BD [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
  21: 0x00C2 [0x1A] CALL_SUBROUTINE(address=0x05E7)
@@ -434,8 +434,8 @@
 01E0: FF FF 7F F0 FF FF 7F 74  30 30 31 01 80 55 0F 80  .......t001..U..
 01F0: F0 FF FF 7F F0 FF FF 7F  74 30 30 31 45 00 80 F0  ........t001E...
 0200: FF FF 7F F0 FF FF 7F 66  64 69 31 01 80 55 00 80  .......fdi1..U..
-0210: F0 FF FF 7F F0 FF FF 7F  66 64 69 31 62 0A 80 5C  ........fdi1b..\
-0220: 01 07 01 5C 01 07 01 6D  61 69 6E 01 80 1C 14 80  ...\...main.....
+0210: F0 FF FF 7F F0 FF FF 7F  66 64 69 31 62 0A 80 5B  ........fdi1b..[
+0220: 01 07 01 5B 01 07 01 6D  61 69 6E 01 80 1C 14 80  ...[...main.....
 0230: 45 0F 80 F0 FF FF 7F F0  FF FF 7F 74 30 31 33 01  E..........t013.
 0240: 80 66 01 00 F0 FF FF 7F  F0 FF FF 7F 73 68 61 31  .f..........sha1
 0250: 53 F0 FF FF 7F F0 FF FF  7F 73 68 61 31 55 0F 80  S........sha1U..
@@ -475,7 +475,7 @@
  23: 0x01ED [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t001" with entities [LocalPlayer, LocalPlayer], work=208*
  24: 0x01FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  25: 0x020D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 26: 0x021C [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Perennial Snow (ID: 17236316/0x0107015C), Perennial Snow (ID: 17236316/0x0107015C)], work=[3*, 0*]
+ 26: 0x021C [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Perennial Snow (ID: 17236315/0x0107015B), Perennial Snow (ID: 17236315/0x0107015B)], work=[3*, 0*]
  27: 0x022D [0x1C] WAIT(60* ticks)
  28: 0x0230 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t013" with entities [LocalPlayer, LocalPlayer], work=[208*, 0*]
  29: 0x0241 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[1]
@@ -517,7 +517,7 @@
 0320: 11 80 12 80 13 80 1F 01  6F 03 00 00 07 7F 1A E7  ........o.......
 0330: 05 66 01 00 F0 FF FF 7F  F0 FF FF 7F 73 68 61 30  .f..........sha0
 0340: 53 F0 FF FF 7F F0 FF FF  7F 73 68 61 30 1C 17 80  S........sha0...
-0350: 62 0A 80 5C 01 07 01 5C  01 07 01 6D 61 69 6E 01  b..\...\...main.
+0350: 62 0A 80 5B 01 07 01 5B  01 07 01 6D 61 69 6E 01  b..[...[...main.
 0360: 80 1C 14 80 45 00 80 F0  FF FF 7F F0 FF FF 7F 66  ....E..........f
 0370: 64 6F 31 01 80 55 00 80  F0 FF FF 7F F0 FF FF 7F  do1..U..........
 0380: 66 64 6F 31 79 00 F0 FF  FF 7F F0 FF FF 7F 45 0F  fdo1y.........E.
@@ -556,7 +556,7 @@
  17: 0x0331 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[1]
  18: 0x0340 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha0" with entities [LocalPlayer, LocalPlayer]
  19: 0x034D [0x1C] WAIT(10* ticks)
- 20: 0x0350 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Perennial Snow (ID: 17236316/0x0107015C), Perennial Snow (ID: 17236316/0x0107015C)], work=[3*, 0*]
+ 20: 0x0350 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Perennial Snow (ID: 17236315/0x0107015B), Perennial Snow (ID: 17236315/0x0107015B)], work=[3*, 0*]
  21: 0x0361 [0x1C] WAIT(60* ticks)
  22: 0x0364 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x0375 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
@@ -1728,7 +1728,7 @@ SUBROUTINE_0601:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-06B0:    BB 9E 80 F0 FF FF 7F  7C 01 07 01 6D 61 69 6E   .......|...main
+06B0:    BB 9E 80 F0 FF FF 7F  7B 01 07 01 6D 61 69 6E   .......{...main
 06C0: 01 80 1C 9F 80 45 00 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
 06D0: 66 64 6F 31 01 80 1C 14  80 00                    fdo1......      
 ```
@@ -1736,7 +1736,7 @@ SUBROUTINE_0601:
 #### Opcodes
 
 ```
-  0: 0x06B1 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17236348/0x0107017C)], work=[148*, 0*]
+  0: 0x06B1 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17236347/0x0107017B)], work=[148*, 0*]
   1: 0x06C2 [0x1C] WAIT(240* ticks)
   2: 0x06C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x06D6 [0x1C] WAIT(60* ticks)
@@ -2319,7 +2319,7 @@ SUBROUTINE_0601:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0870:             32 10 80 1F  00 BC 80 BD 80 01 80 1F      2...........
-0880: 01 6F 1E 9D 01 07 01 6F  70 00                    .o.....op.      
+0880: 01 6F 1E 9C 01 07 01 6F  70 00                    .o.....op.      
 ```
 
 #### Opcodes
@@ -2329,7 +2329,7 @@ SUBROUTINE_0601:
   1: 0x0877 [0x1F] MOVE_ENTITY: EventEntity moves to X=562.653*, Z=-283.892*, Y=0.000*
   2: 0x087F [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0881 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0882 [0x1E] EventEntity looks at Duke Alloces (ID: 17236381/0x0107019D) and starts talking
+  4: 0x0882 [0x1E] EventEntity looks at Duke Alloces (ID: 17236380/0x0107019C) and starts talking
   5: 0x0887 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0888 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0889 [0x00] END_REQSTACK()
@@ -2349,7 +2349,7 @@ SUBROUTINE_0601:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0880:                                32 10 80 1F 00 BE            2.....
-0890: 80 BF 80 01 80 1F 01 6F  1E 9D 01 07 01 6F 70 00  .......o.....op.
+0890: 80 BF 80 01 80 1F 01 6F  1E 9C 01 07 01 6F 70 00  .......o.....op.
 ```
 
 #### Opcodes
@@ -2359,7 +2359,7 @@ SUBROUTINE_0601:
   1: 0x088D [0x1F] MOVE_ENTITY: EventEntity moves to X=561.413*, Z=-282.587*, Y=0.000*
   2: 0x0895 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0897 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0898 [0x1E] EventEntity looks at Duke Alloces (ID: 17236381/0x0107019D) and starts talking
+  4: 0x0898 [0x1E] EventEntity looks at Duke Alloces (ID: 17236380/0x0107019C) and starts talking
   5: 0x089D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x089E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x089F [0x00] END_REQSTACK()

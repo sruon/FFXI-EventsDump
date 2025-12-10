@@ -166,13 +166,13 @@
 |      76 | 0x358A      |       13706 |
 |      77 | 0x358B      |       13707 |
 |      78 | 0x358C      |       13708 |
-|      79 | 0x3638      |       13880 |
-|      80 | 0x3639      |       13881 |
-|      81 | 0x3635      |       13877 |
-|      82 | 0x363B      |       13883 |
-|      83 | 0x3636      |       13878 |
-|      84 | 0x3637      |       13879 |
-|      85 | 0x3646      |       13894 |
+|      79 | 0x3639      |       13881 |
+|      80 | 0x363A      |       13882 |
+|      81 | 0x3636      |       13878 |
+|      82 | 0x363C      |       13884 |
+|      83 | 0x3637      |       13879 |
+|      84 | 0x3638      |       13880 |
+|      85 | 0x3647      |       13895 |
 |      86 | 0x2DCC      |       11724 |
 |      87 | 0x2DCD      |       11725 |
 |      88 | 0x2DCE      |       11726 |
@@ -316,13 +316,13 @@
 - **13706**: The prrrincess often ventures out into the jungle when her presence is not required at the castle.
 - **13707**: Today is one such day. She mentioned going on a brrrief foray into Ceizak Battlegrounds.
 - **13708**: Her strong sense of wanderrrlust has not faded even as she blossoms into a young woman. Would that I could stop her...
-- **13877**: ...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates.
-- **13878**: Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates.
-- **13879**: But the orrrders have their own issues to face at present, and nary a hand can be spared.
-- **13880**: A jesterrr? You're looking for a demon jester?
-- **13881**: I'd like to help, but I've hearrrd no news of such a creature.
-- **13883**: Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?
-- **13894**: The prrrincess awaits you in Celennia Memorial Library.
+- **13878**: ...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates.
+- **13879**: Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates.
+- **13880**: But the orrrders have their own issues to face at present, and nary a hand can be spared.
+- **13881**: A jesterrr? You're looking for a demon jester?
+- **13882**: I'd like to help, but I've hearrrd no news of such a creature.
+- **13884**: Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?
+- **13895**: The prrrincess awaits you in Celennia Memorial Library.
 
 ## Events
 
@@ -1873,25 +1873,25 @@
   1: 0x0622 [0x1C] WAIT(30* ticks)
   2: 0x0625 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
   3: 0x0634 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x064B
-  4: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=13880*)
+  4: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=13881*)
     → "A jesterrr? You're looking for a demon jester?"
   5: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=13881*)
+  6: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=13882*)
     → "I'd like to help, but I've hearrrd no news of such a creature."
   7: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0644 [0x1D] PRINT_EVENT_MESSAGE(message_id=13877*)
+  8: 0x0644 [0x1D] PRINT_EVENT_MESSAGE(message_id=13878*)
     → "...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates."
   9: 0x0647 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0648 [0x01] GOTO 0x0653
- 11: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=13883*)
+ 11: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=13884*)
     → "Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?"
  12: 0x064E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=13878*)
+ 13: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=13879*)
     → "Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates."
  14: 0x0652 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0653:
- 15: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=13879*)
+ 15: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=13880*)
     → "But the orrrders have their own issues to face at present, and nary a hand can be spared."
  16: 0x0656 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0657 [0x21] END_EVENT
@@ -1944,7 +1944,7 @@ SUBROUTINE_0653:
   0: 0x065A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x065F [0x1C] WAIT(30* ticks)
   2: 0x0662 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
-  3: 0x0671 [0x1D] PRINT_EVENT_MESSAGE(message_id=13894*)
+  3: 0x0671 [0x1D] PRINT_EVENT_MESSAGE(message_id=13895*)
     → "The prrrincess awaits you in Celennia Memorial Library."
   4: 0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0675 [0x21] END_EVENT

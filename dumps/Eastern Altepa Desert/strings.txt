@@ -7697,15 +7697,15 @@
  7693: 
  7694: 
  7695: 
- 7696: Happy New Year! Ah, wait up, wait up!
- 7697: Happy New Year!
- 7698: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 7699: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 7700: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 7701: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 7702: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 7703: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 7704: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 7696: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7697: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7698: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7699: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7700: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7701: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7702: Neigh!! (Your year will be as joyful as the last.)
+ 7703: Neigh! (Your year will be fairly good...)
+ 7704: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7705: Hm? What is this? $0? How do I know this is not some [San d'Orian/Bastokan/Windurstian] trick?
  7706: Step back, adventurer! I've got much more important things to worry about now!
  7707: What!? A surprise attack by the beastmen!? And today, of all days...

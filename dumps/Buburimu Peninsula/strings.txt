@@ -7774,15 +7774,15 @@
  7770: Ahahahahaha! Don't slow down now, slacker! The readings are coming from the [north/northeast/east/southeast/south/southwest/west/northwest]!
  7771: Ahahahahaha! You're getting close now! I can feel the ring's power from the next area!
  7772: Ahahahahaha! You're almost on top of it! It's somewhere in this area!
- 7773: Happy New Year! Ah, wait up, wait up!
- 7774: Happy New Year!
- 7775: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 7776: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 7777: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 7778: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 7779: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 7780: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 7781: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 7773: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7774: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7775: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7776: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7777: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7778: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7779: Neigh!! (Your year will be as joyful as the last.)
+ 7780: Neigh! (Your year will be fairly good...)
+ 7781: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7782: There is nothing out of the ordinary here.
  7783: You can hear a strange voice... "Items, items, la la la la la`t"
  7784: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.

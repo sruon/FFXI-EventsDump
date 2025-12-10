@@ -5,17 +5,19 @@
 | Field            | Value                        |
 |------------------|------------------------------|
 | Zone             | Beaucedine Glacier (ID: 111) |
-| Block Size       | 1364 bytes                   |
-| Total Events     | 3                            |
-| References Count | 23                           |
+| Block Size       | 1628 bytes                   |
+| Total Events     | 5                            |
+| References Count | 26                           |
 
 ## List of Events
 
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [9001](#event-9001)   | 0x0001       |      4 |              2 |
-| [9004](#event-9004)   | 0x0005       |   1237 |            254 |
+| [9002](#event-9002)   | 0x0001       |      4 |              2 |
+| [9005](#event-9005)   | 0x0005       |   1237 |            254 |
+| [500](#event-500)     | 0x04DA       |    209 |             42 |
+| [516](#event-516)     | 0x05AB       |     37 |              7 |
 
 ## DAT References (imed_data)
 
@@ -44,9 +46,13 @@
 |      20 | 0x0012      |          18 |
 |      21 | 0x0013      |          19 |
 |      22 | 0x0014      |          20 |
+|      23 | 0x1CDF      |        7391 |
+|      24 | 0x000A      |          10 |
+|      25 | 0x006F      |         111 |
 
 ## String References
 
+- **7391**: Toggle which flag? [UZ2: Set position./U1: Flag - Trigger gathering./U2: Key item - Bomb./U3: Key item - Glacier key./U4: Key item - Snowfield map./UZ1: Flag - Spoke with moogle./UZ2: Flag - Spoke with goblin./UZ5: Toggle markers./Reset all.]
 - **8647**: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
 - **8648**: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
 - **8665**: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
@@ -76,7 +82,7 @@
   0: 0x0000 [0x00] END_REQSTACK()
 ```
 
-### Event 9001
+### Event 9002
 
 #### Metadata
 
@@ -99,7 +105,7 @@
   1: 0x0004 [0x00] END_REQSTACK()
 ```
 
-### Event 9004
+### Event 9005
 
 #### Metadata
 
@@ -496,4 +502,113 @@ SUBROUTINE_04D8:
      0x00F3 [0x1B] RETURN
 # Dead code (unreachable instructions):
      0x04D9 [0x1B] RETURN
+```
+
+### Event 500
+
+#### Metadata
+
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x04DA    |
+| Data Size    | 209 bytes |
+| Instructions | 42        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+04D0:                                43 00 43 01 24 17            C.C.$.
+04E0: 80 03 80 03 80 25 02 00  10 03 80 00 05 05 71 12  .....%........q.
+04F0: 02 80 07 80 71 13 03 00  07 03 00 18 80 03 01 10  ....q...........
+0500: 03 00 01 A9 05 02 00 10  02 80 00 15 05 03 01 10  ................
+0510: 02 80 01 A9 05 02 00 10  07 80 00 25 05 03 01 10  ...........%....
+0520: 07 80 01 A9 05 02 00 10  08 80 00 35 05 03 01 10  ...........5....
+0530: 08 80 01 A9 05 02 00 10  09 80 00 45 05 03 01 10  ...........E....
+0540: 09 80 01 A9 05 02 00 10  0A 80 00 55 05 03 01 10  ...........U....
+0550: 0A 80 01 A9 05 02 00 10  0B 80 00 65 05 03 01 10  ...........e....
+0560: 0B 80 01 A9 05 02 00 10  0C 80 00 75 05 03 01 10  ...........u....
+0570: 0C 80 01 A9 05 02 00 10  05 80 00 A9 05 A8 00 19  ................
+0580: 80 03 80 A8 00 19 80 02  80 A8 00 19 80 07 80 A8  ................
+0590: 00 19 80 08 80 A8 00 19  80 09 80 A8 00 19 80 0A  ................
+05A0: 80 03 01 10 05 80 01 A9  05 21 00                 .........!.     
+```
+
+#### Opcodes
+
+```
+  0: 0x04DA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  1: 0x04DC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  2: 0x04DE [0x24] CREATE_DIALOG(message_id=7391*, default_option=0*, option_flags=0*)
+    → "Toggle which flag? [UZ2: Set position./U1: Flag - Trigger gathering./U2: Key item - Bomb./U3: Key item - Glacier key./U4: Key item - Snowfield map./UZ1: Flag - Spoke with moogle./UZ2: Flag - Spoke with goblin./UZ5: Toggle markers./Reset all.]"
+  3: 0x04E5 [0x25] WAIT_DIALOG_SELECT()
+  4: 0x04E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0505
+  5: 0x04EE [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
+  6: 0x04F4 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[3])
+  7: 0x04F8 [0x07] ExtData[1]->WorkLocal[3] += 10*
+  8: 0x04FD [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[3]
+  9: 0x0502 [0x01] GOTO 0x05A9
+ 10: 0x0505 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0515
+ 11: 0x050D [0x03] Work_Zone[1] = 1*
+ 12: 0x0512 [0x01] GOTO 0x05A9
+ 13: 0x0515 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0525
+ 14: 0x051D [0x03] Work_Zone[1] = 2*
+ 15: 0x0522 [0x01] GOTO 0x05A9
+ 16: 0x0525 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0535
+ 17: 0x052D [0x03] Work_Zone[1] = 3*
+ 18: 0x0532 [0x01] GOTO 0x05A9
+ 19: 0x0535 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0545
+ 20: 0x053D [0x03] Work_Zone[1] = 4*
+ 21: 0x0542 [0x01] GOTO 0x05A9
+ 22: 0x0545 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0555
+ 23: 0x054D [0x03] Work_Zone[1] = 5*
+ 24: 0x0552 [0x01] GOTO 0x05A9
+ 25: 0x0555 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0565
+ 26: 0x055D [0x03] Work_Zone[1] = 6*
+ 27: 0x0562 [0x01] GOTO 0x05A9
+ 28: 0x0565 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0575
+ 29: 0x056D [0x03] Work_Zone[1] = 7*
+ 30: 0x0572 [0x01] GOTO 0x05A9
+ 31: 0x0575 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x05A9
+ 32: 0x057D [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=0*
+ 33: 0x0583 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=1*
+ 34: 0x0589 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=2*
+ 35: 0x058F [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=3*
+ 36: 0x0595 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=4*
+ 37: 0x059B [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=5*
+ 38: 0x05A1 [0x03] Work_Zone[1] = 8*
+ 39: 0x05A6 [0x01] GOTO 0x05A9
+
+SUBROUTINE_05A9:
+ 40: 0x05A9 [0x21] END_EVENT
+ 41: 0x05AA [0x00] END_REQSTACK()
+```
+
+### Event 516
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x05AB   |
+| Data Size    | 37 bytes |
+| Instructions | 7        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+05A0:                                   A8 00 19 80 03             .....
+05B0: 80 A8 00 19 80 02 80 A8  00 19 80 07 80 A8 00 19  ................
+05C0: 80 08 80 A8 00 19 80 09  80 A8 00 19 80 0A 80 00  ................
+```
+
+#### Opcodes
+
+```
+  0: 0x05AB [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=0*
+  1: 0x05B1 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=1*
+  2: 0x05B7 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=2*
+  3: 0x05BD [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=3*
+  4: 0x05C3 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=4*
+  5: 0x05C9 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=111*, marker=5*
+  6: 0x05CF [0x00] END_REQSTACK()
 ```

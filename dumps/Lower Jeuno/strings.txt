@@ -1,5 +1,5 @@
 # Strings for Lower Jeuno
-# Total: 11343 strings
+# Total: 11344 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -10925,7 +10925,7 @@
 10921: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
 10922: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
 10923: Dat's da spirit! So which dial ya be wantin'?
-10924: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+10924: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]
 10925: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
 10926: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
 10927: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
@@ -10950,397 +10950,398 @@
 10946: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
 10947: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
 10948: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-10949: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+10949: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!
 10950: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-10951: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+10951: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!
 10952: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
 10953: $1<$2
-10954: What'll it be? [Beginner list./Intermediate list./Advanced list./Where's Tenzen?/Pay the $0 gil./Please explain again./Let me think about it.]
-10955: Ah yes, Tenzen mentioned that you might be passing through.
-10956: The ambassador set his sights on Aht Urhgan, no?
-10957: Given that you're trying to save the world...I'll let you board for free. Rather magnanimous, wouldn't you say?
-10958: Boss! You can't possibly mean t' let these freeloaders go without payin' a single gil!
-10959: Tenzen left more than enough to cover our friend here. Remember that huge fuss he made?
-10960: Urk!
-10961: Y'know what they say. You can pick your friends and you can pick your nose, but you can't...heh heh heh.
-10962: So give [him/her] $6 and be done with it.
-10963: Hey, did Chacharoon send ya? Here fo' the usual?
-10964: Oooya, Stinknix! Gobbie fix Susuroon's best sprinkle box yet?
-10965: How ya doin', Su'. I got yo' waterin' can right here, good as new!
-10966: Ooh!? Yooo <Player> boss-[man/lady]!
-10967: What <Player> do down here?
-10968: Little Susuroon One? What Chacharoon do now?
-10969: Wha--wha--what!? He try raise four beasties? No good. Chacharoon become mini monster meal! Drop into full-dead this time if no careful.
-10970: But, if all work together like house-tribe, maybe not so hard. If house-tribe look out for one another, Chacharoon no give eye water for sure.
-10971: I don't know how you keep track of all 'em kids ya got, Su'.
-10972: Qiqirn love little Qiqirns. Little Qiqirns make happy house.
-10973: Yeah, but how'd'ya look out for 'em when they're all the way out there in the Far East?
-10974: Distance no matter! Wherever Qiqirn be, Qiqirn house-tribe look out for one-another. Since forever.
-10975: Hah! Tell that to my wife!
-10976: Qiqirn house-tribes fight too. Fight no matter.
-10977: Every Qiqirn share future with house-tribe. Every Qiqirn stuck in same boat.
-10978: When Qiqirn know this, Qiqirn help one another. Gobbie too.
-10979: Yeaaah, but kids these days, y'know what I mean?
-10980: Remember when you was goin' on about yo' boy, Chacharoon, an' how he never listened?
-10981: You was so mad 'cause he used up all that money he was savin' on that rearin' ground or whatever.
-10982: Don't think I don't remember how mad you got--scared half my customers away!
-10983: You think you can forgive yo' boy after all that?
-10984: Of course! Chacharoon be little Susuroon!
-10985: Susuroon help Chacharoon. Give him old brain-smarts!
-10986: Little Susuroon look after four beasties, make good practice for when have own little Chacharoons to look after.
-10987: Huh... Looks like you guys is gonna be alright, then. Best o' luck to ya.
-10988: Susuroon go ahead to Mog Garden and start brain-giving Chacharoon. Chacharoon learn monster herding real quick!
-10989: Well here ya go, [big guy/lady]. This is what li'l Chacharoon always gets.
-10990: Careful wi' that now. Some o' that stuff ain't dead yet.
-10991: Now that the family's gettin' back together, I hope you'll keep thinking of us. Remember, we've got everythin' to make yo' creature yip an' yoller, an' other junk too!
-10992: You better take that big bag o' things over ta where ya keep yo' critters or wherever.
-10993: Let me tell ya, if Su' an' his boy can stop goin' at each other's throats it'll be a load off my back! I don't need 'em scarin' off any more customers than they already have!
-10994: You have entered the crafting target area.
-10995: Crafting the requested items in the current target area will count towards the number of items you are required to deliver them.
-10996: You have left the crafting target area.
-10997: $1 $0 remaining.
-10998: I need you to bring me some $0. I require $1 more for my purposes.
-10999: Thank you. Now, if you could just bring me $1 more, I'll have all the $0 I need.
+10954: Urk!
+10955: What'll it be? [Beginner list./Intermediate list./Advanced list./Where's Tenzen?/Pay the $0 gil./Please explain again./Let me think about it.]
+10956: Ah yes, Tenzen mentioned that you might be passing through.
+10957: The ambassador set his sights on Aht Urhgan, no?
+10958: Given that you're trying to save the world...I'll let you board for free. Rather magnanimous, wouldn't you say?
+10959: Boss! You can't possibly mean t' let these freeloaders go without payin' a single gil!
+10960: Tenzen left more than enough to cover our friend here. Remember that huge fuss he made?
+10961: Urk!
+10962: Y'know what they say. You can pick your friends and you can pick your nose, but you can't...heh heh heh.
+10963: So give [him/her] $6 and be done with it.
+10964: Hey, did Chacharoon send ya? Here fo' the usual?
+10965: Oooya, Stinknix! Gobbie fix Susuroon's best sprinkle box yet?
+10966: How ya doin', Su'. I got yo' waterin' can right here, good as new!
+10967: Ooh!? Yooo <Player> boss-[man/lady]!
+10968: What <Player> do down here?
+10969: Little Susuroon One? What Chacharoon do now?
+10970: Wha--wha--what!? He try raise four beasties? No good. Chacharoon become mini monster meal! Drop into full-dead this time if no careful.
+10971: But, if all work together like house-tribe, maybe not so hard. If house-tribe look out for one another, Chacharoon no give eye water for sure.
+10972: I don't know how you keep track of all 'em kids ya got, Su'.
+10973: Qiqirn love little Qiqirns. Little Qiqirns make happy house.
+10974: Yeah, but how'd'ya look out for 'em when they're all the way out there in the Far East?
+10975: Distance no matter! Wherever Qiqirn be, Qiqirn house-tribe look out for one-another. Since forever.
+10976: Hah! Tell that to my wife!
+10977: Qiqirn house-tribes fight too. Fight no matter.
+10978: Every Qiqirn share future with house-tribe. Every Qiqirn stuck in same boat.
+10979: When Qiqirn know this, Qiqirn help one another. Gobbie too.
+10980: Yeaaah, but kids these days, y'know what I mean?
+10981: Remember when you was goin' on about yo' boy, Chacharoon, an' how he never listened?
+10982: You was so mad 'cause he used up all that money he was savin' on that rearin' ground or whatever.
+10983: Don't think I don't remember how mad you got--scared half my customers away!
+10984: You think you can forgive yo' boy after all that?
+10985: Of course! Chacharoon be little Susuroon!
+10986: Susuroon help Chacharoon. Give him old brain-smarts!
+10987: Little Susuroon look after four beasties, make good practice for when have own little Chacharoons to look after.
+10988: Huh... Looks like you guys is gonna be alright, then. Best o' luck to ya.
+10989: Susuroon go ahead to Mog Garden and start brain-giving Chacharoon. Chacharoon learn monster herding real quick!
+10990: Well here ya go, [big guy/lady]. This is what li'l Chacharoon always gets.
+10991: Careful wi' that now. Some o' that stuff ain't dead yet.
+10992: Now that the family's gettin' back together, I hope you'll keep thinking of us. Remember, we've got everythin' to make yo' creature yip an' yoller, an' other junk too!
+10993: You better take that big bag o' things over ta where ya keep yo' critters or wherever.
+10994: Let me tell ya, if Su' an' his boy can stop goin' at each other's throats it'll be a load off my back! I don't need 'em scarin' off any more customers than they already have!
+10995: You have entered the crafting target area.
+10996: Crafting the requested items in the current target area will count towards the number of items you are required to deliver them.
+10997: You have left the crafting target area.
+10998: $1 $0 remaining.
+10999: I need you to bring me some $0. I require $1 more for my purposes.
 11000: Thank you. Now, if you could just bring me $1 more, I'll have all the $0 I need.
-11001: Thank you for your help. I've got all I need. Please say hello to your guildmaster for me.
-11002: I got me an order here fer $0. Now go bring me $1 more.
-11003: Yes, just what I needed. Ya done good. Bring me $1 more and we be set.
+11001: Thank you. Now, if you could just bring me $1 more, I'll have all the $0 I need.
+11002: Thank you for your help. I've got all I need. Please say hello to your guildmaster for me.
+11003: I got me an order here fer $0. Now go bring me $1 more.
 11004: Yes, just what I needed. Ya done good. Bring me $1 more and we be set.
-11005: Okay, this be all of 'em. I prepared a lil' something to thank ya. Feel free to buy it if ya like.
-11006: Welcome to the Morbol Cafe!
-11007: Oh, that hideous breath... Its poison-woison is absolutely paralyzing...
-11008: In factaru, I love it!
-11009: ...
-11010: % is not moving.
-11011: Erp!!!
-11012: Not half bad!
-11013: This one is the shop's main draw! There was a huge line just to be able to hold her.
-11014: Look at how she's wriggling about. She's so small and cute!
-11015: My back kind of hurts and is starting to itch, but that's the whole point. It's all part of the experience.
-11016: You're so lucky-wucky! I tried to buy a ticket for the chance to hold Cassie, but they were all sold out...
-11017: I guess I'll just have to learn how to summon a morbol-worbol myself.
-11018: I wonder how you go about learning to summon-wummon a morbol... I suppose I'd need to become a Beastmaster first?
-11019: This remarkable cafe was created as part of the Green Festival event, which was an effort to help revitalize Jeuno.
-11020: Originally concentrated in the southern countries, it has finally made its way here after moving from place to place for many years.
-11021: However, never in my wildest dreams did I think that people would want to cuddle with morbols... What's this world coming to!?
-11022: What's that? You want to know if it's safe having such dangerous creatures on the loose?
-11023: There's no need to fret. All of the morbols here have been properly trained. They're completely safe... <cough>
-11024: Apparently, they're all the rage amongst the top Linkshells... <cough> <cough>
-11025: Cassie smiles creepily at you.
-11026: Samantha smiles creepily at you.
-11027: Vivian is secreting a strange liquid.
-11028: Welcome! Can I perhaps interest you in some of San d'Oria's finest specialty goods?
-11029: Greetings, my frrriend. You are in luck, for I have some of the best Windurst specialty goods that money can buy!
-11030: Greetings. Care to look over my quality wares straight from Bastok? You won't find a better selection anywhere.
-11031: Welcome! I've gathered some of the finestaru goods from across the frontier for your perusal!
-11032: Hm? Forgive me, but you'll need to come back when you have a little more experience as an adventurer and a deeper understanding of the Records of Eminence.
-11033: Hello, it is a pleasure to meet you. I have a feeling you're just the person I've been looking for.
-11034: Greyson stares at you intently.
-11035: Ah, my apologies. Please allow me to explain. I used to be an adventurer myself and can therefore discern your strength with a mere glance.
-11036: By chance, have you ever heard of the A.M.A.N. Reclaimers?
-11037: They're a group that goes around collecting various items and equipment.
-11038: They take equipment donated to the A.M.A.N. by retired adventurers and refurbish it before passing it along to active adventurers in need.
-11039: And yours truly is in charge of coordinating the collection of those items!
-11040: Well, I guess you could say I'm more of an employee doing the A.M.A.N.'s bidding. Hahaha...
-11041: So, if you bring me some $0, I'll exchange them for various goods.
-11042: You can obtain $0 by completing these Records of Eminence objectives.
-11043: I have a feeling an adventurer of your caliber is more than up to the task. I wish you luck, friend!
-11044: Stop by anytime and I'll take any $0 that you manage to collect.
-11045: When you have saved up enough, you can exchange them for special orbs that contain monsters as well as the aforementioned refurbished goods.
-11046: Hahaha! I know what you're thinking... Monsters? Inside of an orb?
-11047: From what I hear, the A.M.A.N. recreated the technology behind the orbs that are exchanged for beastmen seals and repurposed it for this occasion.
-11048: I guess the monsters are kind of a package deal along with the items! Hahaha!
-11049: Although, I suppose you could say it makes the whole process that much more interesting.
-11050: At any rate, I'm sure a hearty adventurer like yourself relishes such challenges!
-11051: You simply need to take the orbs you obtain here and throw them into the burning circles in Yughott Grotto, the Palborough Mines, and Giddeus in order to remove the seals and cause the orbs' contents to spring forth.
-11052: Oh, I should probably mention one more thing. The method for obtaining the contents of the chests is somewhat...unique.
-11053: First, a total of one metal chest and ten wooden chests will emerge from the orb, although one of the wooden chests is actually a mimic. That is the monster I was referring to previously.
-11054: You will receive the items once you open the metal chest. However, the more wooden chests you open before the metal one, the more items you'll receive!
-11055: In other words, the more wooden chests you're able to open while avoiding the mimic, the more goodies you'll get after opening the metal chest!
-11056: Obviously, you won't know whether a particular wooden chest is the mimic or not until you open it, so in the end, it pretty much comes down to sheer luck.
-11057: Greyson smiles at you gently.
-11058: Now then, if you'd like to know more about the orbs or anything else, feel free to ask away.
-11059: I'm also more than happy to explain to you the intricacies of rainbow chests, belligerent bangs, and previously used orbs.
-11060: Now, now... There's no need to be in such a hurry. Simply hear me out for a moment.
-11061: What would you like to ask about? [Nothing in particular./Exchanging $0./Purchasing $0./A.M.A.N. Trove./Orbs./Obtaining $0./Rainbow chests./Belligerent bangs./Previously used orbs./You.]
-11062: Select an orb. (You have $8 [voucher/vouchers].) [Never mind./$0 ($9 vouchers)./$1 ($10 vouchers).]
-11063: Do you want to trade for the $30? [Yes./No.]
-11064: I'm sorry, but you do not have enough $0 to make the exchange.
-11065: Okay, we have a deal. Keep on earning those vouchers and I'll be right here waiting for you.
-11066: Purchase one voucher for $8 gil? [No thanks./Sure, I'll take one./I'll buy as many as I can. ($9 remaining)]
-11067: Um... I'm sorry, but you don't have enough money.
-11068: I'm sorry, but in order to prevent people from hoarding all of the items, there's a limit on how many vouchers can be purchased within a certain time period. You'll need to wait about one month (Earth time) before buying more.
-11069: Purchase $9 [voucher/vouchers] for $10 gil? [Yes./No.]
-11070: It's been a pleasure doing business with you!
-11071: Including the $0 I have on hand for you, you now have a total of $1 voucher[/s]. Let me know if you wish to exchange any for an orb.
-11072: The A.M.A.N. Trove is based on the use of special items such as $0 and $1.
-11073: So, you want to know about the difference between $0 and $1...
-11074: Basically, the difference comes down to the success rate of obtaining better-quality items. It's much easier to hit it big and win higher-quality or semi-higher quality items with $1.
-11075: Furthermore, the $1 ensures that at least one of your items will be of a certain quality.
-11076: Although, I imagine the definition of "quality" differs from person to person, so just think of it as a general guide.
-11077: On a separate note, I heard a rumor when I first started that the more you bring to the A.M.A.N., the more items you'll receive.
-11078: You can obtain $0 by completing the Records of Eminence objectives I gave you earlier.
-11079: And you can always buy them from me, too. However, there is a limit of $8 vouchers per month (Earth time) in order to prevent people from hoarding all of the items for themselves.
-11080: Among the wooden coffers you come across, a small fraction of them will be shimmering with a prismatic light.
-11081: These "rainbow chests" are sometimes present right from the outset, and they always contain a highly-sought-after reward inside.
-11082: Some who have ventured into the trove have reported that if they open eight wooden chests--meaning that the only one left contains a mimic--the remaining chest will be overcome with the selfsame rainbow glow.
-11083: Of course, I cannot even begin to fathom how lucky one would have to be for that to actually be the case. Perhaps it's but a rumor.
-11084: Ah, yes. The good old belligerent bangs.
-11085: The sound that the treasure chest makes when you eagerly open it, flinging the lid open and slamming it onto the back of the chest, has some correlation with whether or not the chest's reward is great, or merely "good."
-11086: Particularly astute adventurers will also note that opening a chest can provide a clue as to whether or not any of the remaining chests have particularly valuable rewards.
-11087: However, it takes a few treasure chests to be able to properly triangulate your internal sensing systems. Not that everyone posesses said internal sensing systems.
-11088: If I could meet whomever or whatever was in charge of crafting these orbs, I would be inclined to give them a good smacking.
-11089: But let's keep that between us, hm?
-11090: Would you happen to be in possession of any used A.M.A.N. Trove orbs?
-11091: The A.M.A.N. believes that littering the ground with used trinkets harms the beauty of the landscape, so we are happy to provide you with proper compensation should you trade me used orbs instead of discarding them.
-11092: Who knows? If I'm feeling particularly generous that day, you may get a fresh orb for your troubles.
-11093: Hm? You wish to know more about me personally? Well, I used to be an adventurer myself, you see.
-11094: I might not look the part, but I fought on the front lines in many strange lands, earning merit points as a warrior, ninja, and various other jobs.
-11095: However, I made an important discovery about myself while leading that life.
-11096: I found that being forced to do things a certain way all in the name of efficiency kind of defeated the whole purpose of being an adventurer.
-11097: I felt that even though it might not always be the best way, it was important to be versatile when it came to party formations, fighting styles, and the like.
-11098: When I thought about it like that, I decided to retire and become a merchant in order to help like-minded adventurers in their journeys.
-11099: To that end, I purchased items that people no longer needed and looked to sell them in places where they were wanted...
-11100: However, I had trouble making ends meet and, as you can see from the looks of me, ended up quite poor. So, with nothing but the clothes on my back, I trudged on until I was introduced to this job by a contact from my adventurer days.
-11101: Now, I'm able to at least put food on the table while still realizing my dream of helping other adventurers, so it was all worth it.
-11102: Of course, I'm happy if I can turn a small profit along the way too, so I'd appreciate it if you could buy some $0 from me as well!
-11103: I have received a total of $1 $0 from you so far. Let me know if you wish to trade some of them for an orb.
-11104: Um... I'm sorry, but you can't carry any more. Would you like to exchange some for an orb or two?
-11105: This one has already been used. Perhaps I can offer you a free one to satiate your lust for treasures. Here you are--a freshly charged $0.
-11106: This one has already been used. I'll give you a freebie, okay? Here. $0.
-11107: Oh, this one hasn't been used yet. Nothing I can do with it.
-11108: Hm? What's that? You're lookin' for's some girl, are ya?
-11109: Ah, I know the girl yer talkin' about! The one who's here for the Festival of Brave Souls!
-11110: The festival's a very important event for us Goblins. It's been around fer ages now.
-11111: It's held whenever we Goblins are in danger or the world itself has lost all hope...
-11112: The festival helps bring us a sense of calm when we feel like prayin' is our only remainin' option.
-11113: The last time it was held was over several hundred years ago... They say there was a battle 'tween the gods of light and darkness.
-11114: Of course, the reason we're holdin' it again now goes without sayin'. Countless "World Eater Eggs" are being found across the land.
-11115: Yes, I've heard all about you as well.
-11116: Ya saved our Goblin heroes from certain death on Zepwell Island, yes?
-11117: Even though you're no beastie, ya know just how terrifyin' a "World Eater Egg" from Chaos truly is.
-11118: Therefore, you can understand the fear, anxiety, and general unease that we Goblins are feelin', right?
-11119: In fact, it terrifies us beasties so much that many aren't even able to work. That's why we need to have this festival--to calm everyone's nerves.
-11120: Hm? You wanna know how this girl yer lookin' for's involved with the festival?
-11121: The Festival of Brave Souls is always a sad affair, so I thought it'd be good to prepare somethin' a bit more lighthearted. Ya know, to keep up wit' the times and all.
-11122: So I put out a call for a skilled entertainer and that girl showed up.
-11123: However, she was much weaker than I expected...
-11124: So I sent her over to Maat in order to really push her to her limits and get her ready in time fer the festival.
-11125: Huh? She forgot somethin' while she was there? And now you're tryin' to give it back to her?
-11126: I see... In that case, I suppose it's okay if I tell you her whereabouts...
-11127: According to her, she's always bein' hounded by her many throngs of fans. So she asked that I keep her location a secret.
-11128: Although, we've had to shelve our plans to have her perform at the festival. I doubt there'll be much to see, let alone any of her fans.
-11129: Here, I'll draw up a map for ya. Simply show it to the Tarutaru soldier in front of the Rent-a-Room in Lower Jeuno.
-11130: His name is Miladi-Nildi. He can show you where she's stayin'.
-11131: As long as that shadow looms large, we can't have the festival. Is there anything that can be done...
-11132: Show that map I drew ya to the soldier standin' in front of the Rent-a-Room in Lower Jeuno. His name is Miladi-Nildi.
-11133: He can show ya how to find the girl yer lookin' for.
-11134: Oh, this is a rare sightaru indeed. That's a map from a Goblin you're carrying. Very well, I can show you the way.
-11135: Hello! Do you come bearing yet more gifts from my legions of adoring fans? You can just set them down over there.
-11136: How will you respond? [You forgot this!/I'm a huge fan!/Firesday Night Fever!]
-11137: Huh!? I-it can't be!
-11138: Wh-where did you find this!?
-11139: So <Player>, you heard everything, did you...
-11140: I was hoping to seek out new challenges and take my idol career to the next level.
-11141: You see, I wanted to form a dance duo with a Goblin girl so that we could display our talents on a worldwide stage.
-11142: Uka felt that the image of the Mighty Maidens would suffer as a result, but I'm more worried about my act growing stale.
-11143: I mean, I know I'm wildly popular with my fans and audiences everywhere, but I'm constantly doing the same show over and over again!
-11144: They're waiting with bated breath for me to come out with a great new costume and even more songs and dance routines! You know, something real spectacular!
-11145: It was then that things took a sudden turn...
-11146: I heard the Goblins were planning some kind of festival.
-11147: When you think of festivals, what comes to mind? That's right! The performances! And what better performance is there than the Heroine Stage Show?
-11148: Somehow, the Goblins felt that my show lacked the proper punch. However, I know my fans would've given me the strength to put on a powerful performance.
-11149: So I started thinking up some new poses and catchphrases. I worked really hard on them too...
-11150: Even so, that Maat guy kept complaining about me though. He basically told me I was a failure as an idol!
-11151: It caused me to lose some of my usual superstar swagger.
-11152: Hah! C-could this be the work of the evil Ullegore!?
-11153: ... No, it can't be. I didn't even hear any narration.
-11154: Ah, there you are, Mumor. I come bearing news.
-11155: Huh!?
-11156: This isn't good! This isn't good at all, kupo!
-11157: What's wrong, Diva...err, I mean Kupolietta!?
-11158: I was told that we might not be able to perform at the Festival of Brave Souls, kupo!
-11159: Wait, what!? Why not!?
-11160: It's all because of that rumor... That terrible rumor, kupo.
-11161: They say an ominous shadow wanders to the east of Batallia Downs each and every night...
-11162: Apparently, everyone who sees it says the same thing, kupo...
-11163: "I saw something that nobody should ever have to see..."
-11164: They then leave Jeuno, never to return again...
-11165: Th-this is terrible news! Isn't the Festival of Brave Souls also held east of Batallia Downs!?
-11166: Indeed it is, kupo. The cave there is the very heart of the festivities.
-11167: Yet, as long as that shadow roams about, there's no way they can have the festival, kupo.
-11168: Hah! C-could this be the work of the evil Ullegore!?
-11169: ... No, it can't be. I didn't even hear any narration.
-11170: And so, the brave Mumor found that she must rise up to strike down this shadowy threat!
-11171: Yes, that's right! I must take my destiny into my own hands!
-11172: Although, as it stands, I'm just a lone idol. I'll never be able to muster the necessary strength for this task.
-11173: So that's where you come in. This is your chance to join me as a Mighty Maiden!
-11174: I mean, you're an adventurer, right? Come on, together, we'll form an unstoppable duo!
-11175: Form a duo with Mumor? [Sure, why not./I think I'll pass./I'm not really a maiden...]
-11176: Thank you so much! It's settled then! We'll be known as the Dashing Damsels!
-11177: What's that? Speak up, I can't hear you.
-11178: Hooray! We're going to be the best duo ever!
-11179: Come on--deep down, everyone has something of a girlish side.
-11180: From today forth, we shall be known as the Delightful Damsels!
-11181: There's nothing like the sweet feelings of love that come from a warm and caring heart.
-11182: We'll show that sinister shadow what for! Come, we march for Batallia Downs at once!
-11183: Hm? You're wondering if I know aboutaru the mysterious shadow that wanders Batallia Downs after dark?
-11184: Of course I do! You'd be smartaru to stay away from the cave in eastern Batallia Downs--the one within view of the ocean.
-11185: But, if you think you have what it takes to stand againstaru this shadow, I won't try to stop you.
-11186: Are ya here 'bout the Festival of Brave Souls too?
-11187: Oh well, I guess it can't be helped. The most important site for the festival is a cave east of Batallia Downs.
-11188: Five thousand years ago, many brave warriors lost their lives. That location is currently servin' as their burial mound.
-11189: But there's a mysterious shadow prowlin' their eternal resting place. Unfortunately, it's keepin' us from going anywhere near it.
-11190: Unbelievable! Why am I just hearing about this now!?
-11191: I understand your frustration, but this story was written for us by a famous Goblin author.
-11192: Ah, <Player>! I'm glad you're here!
-11193: You know my show that was scheduled for the Festival of Brave Souls?
-11194: Get this, they're calling it the "Mighty Maiden Fantastox Heroine Stage Show"!
-11195: First of all, who is this Fantastox person!? My name is Mumor!
-11196: Fantastox's a famous Goblin thief. Her specialties include Sneak Attacks and Trick Attacks.
-11197: So I'm supposed to team up with this thief against the enemy, right!?
-11198: Actually, we need ya to play the evil villain that's tryin' to steal Mighty Maiden Fantastox's mask.
-11199: Why would I want to steal some girl's mask? That's a bit weird, don't you think?
-11200: In the story, it's a special mask that's got the power to turn boulders into bombs.
-11201: And what am I supposed to do with something like that!? Although, I guess a show is always better if it has explosions in it...
-11202: I know, right? We're gonna use smoke to simulate the explosion and set the stage.
-11203: I get it! So that's when I appear as Mighty Maiden Mumor and sing my new song!?
-11204: Exactly! Due to your actions, the world finds itself on the brink of destruction... But that's when Fantastox rises up to resume the fight!
-11205: Wait, what!? You're totally making me out to be the villain here!
-11206: Yeah, that's the point. I've been tellin' ya that from the very beginning.
-11207: Hey, it's <Player>! What are you doing here!?
-11208: Ah! It's the brave hero, Gloom Phantom!
-11209: Brave hero...?
-11210: I came as soon as I received your message!
-11211: So the "World Eater Egg" was found right in the middle of Jeuno!
-11212: That's right. Before anyone realized it was the "World Eater Egg," it went from being in a Goblin's capable hands to someone eating it...
-11213: Wha!? The shell was cracked open without needing my sword!?
-11214: Yeah, it's a total mystery. It's also unclear where this "World Eater Egg" originally came from.
-11215: The World Eater...Egg...?
-11216: Ultimately, it was that girl there who gave the egg to the man known as Maat, who then promptly ate it.
-11217: W-well, I, uh... He told me he was hungry, and so I simply brought him $1 I found nearby...
-11218: What I want to know is where was the egg before that?
-11219: I don't know the details, but I heard a monster near Delkfutt's Tower was carryin' it.
-11220: Delkfutt? Where have I heard that name before...
-11221: Delkfutt's Tower is on Qufim Island, which is in Gigas territory. Clearly, certain death awaits us there.
-11222: Can I ask for your help in this matter, brave hero?
-11223: That's why I'm here! Leave everything to us!
-11224: Hmm... Maybe one of the Gigas knows about the egg and the monster that had it...
-11225: I got it! We'll go to Qufim Island and capture one of the Gigas there and question it!
-11226: You can help us too, <Player>!
-11227: Will you help? [Sure, count me in!/Sorry, I'm busy.]
-11228: Naturally, Dazbog and Magh Bihu'll be going to Qufim Island as well!
-11229: Where's your sense of adventure!?
-11230: Dazbog and Magh Bihu'll be going to Qufim Island too, so there's no need to be afraid!
-11231: Okay, we'll be waiting for you in front of Delkfutt's Tower!
-11232: It's rare that you meet such a mighty hero in person. There aren't many who can draw others to their cause so effortlessly.
-11233: As for you... I believe people called ya "that horror from the holdfast" before, yes?
-11234: So clearly, that makes ya the perfect villain for our story.
-11235: I resent that remark! You obviously don't know what's important in a Heroine Stage Show!
-11236: Wh-what did you say!?
-11237: If you don't know how a show is supposed to resonate with its fans, then I guess I'll just have to teach you!
-11238: Phew! That was intense.
-11239: She said she's goin' back home to grab an old script or somethin' like that.
-11240: I think I'd better take this chance to get as far away from here as possible...
-11241: As for you, you need to go help Gloom Phantom at Delkfutt's Tower on Qufim Island. Got it?
-11242: So anyway, that Gigas known as Echion knew some things, but not others.
-11243: I see... Although, we still don't know how the "World Eater Egg" was cracked open without using your sword.
-11244: Indeed. Not even the undead themselves should be able to break it open.
-11245: However, they do seem to have the ability to find the "World Eater Egg."
-11246: Still, I'm amazed by the Gigas's stupidity. This all happened because they found the "World Eater Egg" and just let it be.
-11247: They just ignore whatever we have to say!
-11248: Furthermore, they have no idea just how terrifying Chaos truly is!
-11249: Five thousand years ago, the one known as Chaos sought to destroy all that was new, even the world itself...
-11250: That included Goblins, Yagudo, Orcs, Quadav... Anything that was different from itself.
-11251: A great number of species went extinct before the strongest of those that remained banded together.
-11252: The Gigas feel that way because during the battle against Chaos five thousand years ago, they hadn't even been born yet.
-11253: So there's no way they could've known about the hatred from those that were devoured by Chaos.
-11254: Well, I don't like how they don't believe us just because they haven't seen something themselves.
-11255: By the way, about that undead who was carrying the World Eater Egg...
-11256: Is the mage known as Garazu-Horeizu that can control the undead involved somehow?
-11257: Actually, we don't really know the answer to that ourselves.
-11258: Well, someone must know something!
-11259: M-maybe this one here knows s-something?
-11260: How about Garazu-Horeizu and Chaos? [The book on maelstrom theory...?/The Fourth Yagudo War...?/Sorry, I forgot.]
-11261: What do you mean you forgot!? I'm gonna yank your petals out myself!
-11262: How about Garazu-Horeizu and Chaos? [Like the maelstrom theory?/How about the Yagudo War?/Was it the "new discoveries"?]
-11263: Hmm... I'm not sure if that makes it any clearer or not.
-11264: I think I got a pretty good idea. We can have Dazbog explain the rest later.
-11265: Th-that's fine, but we still haven't solved the m-mystery yet...
-11266: We haven't!?
-11267: C-clearly, Garazu-Horeizu wanted info on Chaos in order to l-learn a new kind of magic.
-11268: H-he looked into Chaos even after his death and journey to V-Valhalla...
-11269: B-but Chaos was defeated in Valhalla...
-11270: Yeah, that's right! Odin dealt the finishing blow personally!
-11271: Wait, I thought it was a brave Goblin hero that delivered that blow five thousand years ago?
-11272: Huh? In the battle for the Middle Lands, it was my ancestor who dealt the finishing blow.
-11273: However, Chaos was no ordinary opponent.
-11274: Chaos was resurrected in a world beyond this one...
-11275: So my ancestor and numerous other brave warriors journeyed to Valhalla and continued the fight, even beyond death.
-11276: Ah, so those are the warriors whose death we mourn as part of the Festival of Brave Souls.
-11277: So at the very end, Odin dealt the final blow.
-11278: Hmm... So clearly, Chaos met its end long, long ago.
-11279: That's a relief. I was worried about what I'd do if Chaos was still alive today.
-11280: It's not just me, either. All Goblins carry this sense of dread. That's why we started the Festival of Brave Souls.
-11281: I wholeheartedly support this festival as well!
-11282: I've got it! We can call it the "Mighty Maidens Heroine Stage Show: Remember the Battle against Chaos"!
-11283: Say that again?
-11284: It's a show we can put on at the Festival of Brave Souls!
-11285: Or, we can simplify the name a bit and just call it the "Mighty Maidens Heroine Stage Show: Defeat Chaos"!
-11286: What is she talking about!?
-11287: She's not happy with the show for the festival, so she's been trying to convince me to change it.
-11288: You're right... She's been here the whole time.
-11289: It came to me after hearing all of you talk!
-11290: This evil being known as Chaos tried to eradicate anyone who was different from it, so various beings worked together to oppose it, right?
-11291: And afterwards, this enemy rose up once again to put the land in danger! This story has it all--a real tearjerker followed by everyone living happily ever after!
-11292: A story like that contains everything that fans want to see in a Heroine Stage Show!
-11293: First: everyone is made stronger due to their differences!
-11294: Second: they overcome their differences and work together!
-11295: Third: there are moments of sadness, but people rise up in a spirit of hope!
-11296: Hmm... When you put it like that...
-11297: Furthermore, once everyone sees the show, they won't be like the Gigas and not believe in something because they've never seen it before!
-11298: Yes, I suppose you have a point...
-11299: Okay! I'll give it some thought!
-11300: You will!?
-11301: However, in regards to Valhalla...
-11302: Chaos may have hidden the egg before its death.
-11303: Yes, that's totally possible! However, I think Odin would've noticed...
-11304: Maybe his nose was stuffed up, or he had something else on his mind at the time.
-11305: I-it's definitely a mystery... I wish I could ask Odin p-personally.
-11306: Wha!? You realize that means you'd have to be dead, right!?
-11307: Of course I don't want to die, but I don't want to go back to Hazhalm either!
-11308: I-in that case, we could always ask one of Odin's demons...
-11309: Oh! You're right! That's a great idea!
-11310: Is there one that we can easily talk to?
-11311: There are a few like that here in Jeuno. They're disguised as regular people.
-11312: Okay then! Let's get going!
-11313: After hearing that girl's excitement, I've decided to give her proposal some serious thought.
-11314: With a show based on the battle against Chaos, we can reach people that might not know anything about it.
-11315: The problem is what role can I have her play... Hmm... What if she played Chaos...?
-11316: You are now able to enjoy a new storyline, A Crystalline Prophecy.
-11317: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
-11318: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-11319: You are now able to enjoy a new storyline, A Shantotto Ascension.
-11320: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
-11321: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-11322: You are now able to enjoy a new storyline, Abyssea.
-11323: Start Abyssea? [Yes (View cutscene)./Maybe later.]
-11324: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-11325: You are now able to enjoy a new storyline, Chains of Promathia.
-11326: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
-11327: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-11328: You are now able to enjoy a new storyline, Seekers of Adoulin.
-11329: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
-11330: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
-11331: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
-11332: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
-11333: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-11334: You are now able to enjoy a new storyline, Rise of the Zilart.
-11335: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
-11336: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-11337: Would you like to start a new storyline that you previously postponed?
-11338: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-11339: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-11340: Start the storyline? [Yes, please./No, thank you.]
-11341: Your $0 begin to quiver!
-11342: Your $0 emits a faint glow. Perhaps you should head to Lufaise Meadows.
+11005: Yes, just what I needed. Ya done good. Bring me $1 more and we be set.
+11006: Okay, this be all of 'em. I prepared a lil' something to thank ya. Feel free to buy it if ya like.
+11007: Welcome to the Morbol Cafe!
+11008: Oh, that hideous breath... Its poison-woison is absolutely paralyzing...
+11009: In factaru, I love it!
+11010: ...
+11011: % is not moving.
+11012: Erp!!!
+11013: Not half bad!
+11014: This one is the shop's main draw! There was a huge line just to be able to hold her.
+11015: Look at how she's wriggling about. She's so small and cute!
+11016: My back kind of hurts and is starting to itch, but that's the whole point. It's all part of the experience.
+11017: You're so lucky-wucky! I tried to buy a ticket for the chance to hold Cassie, but they were all sold out...
+11018: I guess I'll just have to learn how to summon a morbol-worbol myself.
+11019: I wonder how you go about learning to summon-wummon a morbol... I suppose I'd need to become a Beastmaster first?
+11020: This remarkable cafe was created as part of the Green Festival event, which was an effort to help revitalize Jeuno.
+11021: Originally concentrated in the southern countries, it has finally made its way here after moving from place to place for many years.
+11022: However, never in my wildest dreams did I think that people would want to cuddle with morbols... What's this world coming to!?
+11023: What's that? You want to know if it's safe having such dangerous creatures on the loose?
+11024: There's no need to fret. All of the morbols here have been properly trained. They're completely safe... <cough>
+11025: Apparently, they're all the rage amongst the top Linkshells... <cough> <cough>
+11026: Cassie smiles creepily at you.
+11027: Samantha smiles creepily at you.
+11028: Vivian is secreting a strange liquid.
+11029: Welcome! Can I perhaps interest you in some of San d'Oria's finest specialty goods?
+11030: Greetings, my frrriend. You are in luck, for I have some of the best Windurst specialty goods that money can buy!
+11031: Greetings. Care to look over my quality wares straight from Bastok? You won't find a better selection anywhere.
+11032: Welcome! I've gathered some of the finestaru goods from across the frontier for your perusal!
+11033: Hm? Forgive me, but you'll need to come back when you have a little more experience as an adventurer and a deeper understanding of the Records of Eminence.
+11034: Hello, it is a pleasure to meet you. I have a feeling you're just the person I've been looking for.
+11035: Greyson stares at you intently.
+11036: Ah, my apologies. Please allow me to explain. I used to be an adventurer myself and can therefore discern your strength with a mere glance.
+11037: By chance, have you ever heard of the A.M.A.N. Reclaimers?
+11038: They're a group that goes around collecting various items and equipment.
+11039: They take equipment donated to the A.M.A.N. by retired adventurers and refurbish it before passing it along to active adventurers in need.
+11040: And yours truly is in charge of coordinating the collection of those items!
+11041: Well, I guess you could say I'm more of an employee doing the A.M.A.N.'s bidding. Hahaha...
+11042: So, if you bring me some $0, I'll exchange them for various goods.
+11043: You can obtain $0 by completing these Records of Eminence objectives.
+11044: I have a feeling an adventurer of your caliber is more than up to the task. I wish you luck, friend!
+11045: Stop by anytime and I'll take any $0 that you manage to collect.
+11046: When you have saved up enough, you can exchange them for special orbs that contain monsters as well as the aforementioned refurbished goods.
+11047: Hahaha! I know what you're thinking... Monsters? Inside of an orb?
+11048: From what I hear, the A.M.A.N. recreated the technology behind the orbs that are exchanged for beastmen seals and repurposed it for this occasion.
+11049: I guess the monsters are kind of a package deal along with the items! Hahaha!
+11050: Although, I suppose you could say it makes the whole process that much more interesting.
+11051: At any rate, I'm sure a hearty adventurer like yourself relishes such challenges!
+11052: You simply need to take the orbs you obtain here and throw them into the burning circles in Yughott Grotto, the Palborough Mines, and Giddeus in order to remove the seals and cause the orbs' contents to spring forth.
+11053: Oh, I should probably mention one more thing. The method for obtaining the contents of the chests is somewhat...unique.
+11054: First, a total of one metal chest and ten wooden chests will emerge from the orb, although one of the wooden chests is actually a mimic. That is the monster I was referring to previously.
+11055: You will receive the items once you open the metal chest. However, the more wooden chests you open before the metal one, the more items you'll receive!
+11056: In other words, the more wooden chests you're able to open while avoiding the mimic, the more goodies you'll get after opening the metal chest!
+11057: Obviously, you won't know whether a particular wooden chest is the mimic or not until you open it, so in the end, it pretty much comes down to sheer luck.
+11058: Greyson smiles at you gently.
+11059: Now then, if you'd like to know more about the orbs or anything else, feel free to ask away.
+11060: I'm also more than happy to explain to you the intricacies of rainbow chests, belligerent bangs, and previously used orbs.
+11061: Now, now... There's no need to be in such a hurry. Simply hear me out for a moment.
+11062: What would you like to ask about? [Nothing in particular./Exchanging $0./Purchasing $0./A.M.A.N. Trove./Orbs./Obtaining $0./Rainbow chests./Belligerent bangs./Previously used orbs./You.]
+11063: Select an orb. (You have $8 [voucher/vouchers].) [Never mind./$0 ($9 vouchers)./$1 ($10 vouchers).]
+11064: Do you want to trade for the $30? [Yes./No.]
+11065: I'm sorry, but you do not have enough $0 to make the exchange.
+11066: Okay, we have a deal. Keep on earning those vouchers and I'll be right here waiting for you.
+11067: Purchase one voucher for $8 gil? [No thanks./Sure, I'll take one./I'll buy as many as I can. ($9 remaining)]
+11068: Um... I'm sorry, but you don't have enough money.
+11069: I'm sorry, but in order to prevent people from hoarding all of the items, there's a limit on how many vouchers can be purchased within a certain time period. You'll need to wait about one month (Earth time) before buying more.
+11070: Purchase $9 [voucher/vouchers] for $10 gil? [Yes./No.]
+11071: It's been a pleasure doing business with you!
+11072: Including the $0 I have on hand for you, you now have a total of $1 voucher[/s]. Let me know if you wish to exchange any for an orb.
+11073: The A.M.A.N. Trove is based on the use of special items such as $0 and $1.
+11074: So, you want to know about the difference between $0 and $1...
+11075: Basically, the difference comes down to the success rate of obtaining better-quality items. It's much easier to hit it big and win higher-quality or semi-higher quality items with $1.
+11076: Furthermore, the $1 ensures that at least one of your items will be of a certain quality.
+11077: Although, I imagine the definition of "quality" differs from person to person, so just think of it as a general guide.
+11078: On a separate note, I heard a rumor when I first started that the more you bring to the A.M.A.N., the more items you'll receive.
+11079: You can obtain $0 by completing the Records of Eminence objectives I gave you earlier.
+11080: And you can always buy them from me, too. However, there is a limit of $8 vouchers per month (Earth time) in order to prevent people from hoarding all of the items for themselves.
+11081: Among the wooden coffers you come across, a small fraction of them will be shimmering with a prismatic light.
+11082: These "rainbow chests" are sometimes present right from the outset, and they always contain a highly-sought-after reward inside.
+11083: Some who have ventured into the trove have reported that if they open eight wooden chests--meaning that the only one left contains a mimic--the remaining chest will be overcome with the selfsame rainbow glow.
+11084: Of course, I cannot even begin to fathom how lucky one would have to be for that to actually be the case. Perhaps it's but a rumor.
+11085: Ah, yes. The good old belligerent bangs.
+11086: The sound that the treasure chest makes when you eagerly open it, flinging the lid open and slamming it onto the back of the chest, has some correlation with whether or not the chest's reward is great, or merely "good."
+11087: Particularly astute adventurers will also note that opening a chest can provide a clue as to whether or not any of the remaining chests have particularly valuable rewards.
+11088: However, it takes a few treasure chests to be able to properly triangulate your internal sensing systems. Not that everyone posesses said internal sensing systems.
+11089: If I could meet whomever or whatever was in charge of crafting these orbs, I would be inclined to give them a good smacking.
+11090: But let's keep that between us, hm?
+11091: Would you happen to be in possession of any used A.M.A.N. Trove orbs?
+11092: The A.M.A.N. believes that littering the ground with used trinkets harms the beauty of the landscape, so we are happy to provide you with proper compensation should you trade me used orbs instead of discarding them.
+11093: Who knows? If I'm feeling particularly generous that day, you may get a fresh orb for your troubles.
+11094: Hm? You wish to know more about me personally? Well, I used to be an adventurer myself, you see.
+11095: I might not look the part, but I fought on the front lines in many strange lands, earning merit points as a warrior, ninja, and various other jobs.
+11096: However, I made an important discovery about myself while leading that life.
+11097: I found that being forced to do things a certain way all in the name of efficiency kind of defeated the whole purpose of being an adventurer.
+11098: I felt that even though it might not always be the best way, it was important to be versatile when it came to party formations, fighting styles, and the like.
+11099: When I thought about it like that, I decided to retire and become a merchant in order to help like-minded adventurers in their journeys.
+11100: To that end, I purchased items that people no longer needed and looked to sell them in places where they were wanted...
+11101: However, I had trouble making ends meet and, as you can see from the looks of me, ended up quite poor. So, with nothing but the clothes on my back, I trudged on until I was introduced to this job by a contact from my adventurer days.
+11102: Now, I'm able to at least put food on the table while still realizing my dream of helping other adventurers, so it was all worth it.
+11103: Of course, I'm happy if I can turn a small profit along the way too, so I'd appreciate it if you could buy some $0 from me as well!
+11104: I have received a total of $1 $0 from you so far. Let me know if you wish to trade some of them for an orb.
+11105: Um... I'm sorry, but you can't carry any more. Would you like to exchange some for an orb or two?
+11106: This one has already been used. Perhaps I can offer you a free one to satiate your lust for treasures. Here you are--a freshly charged $0.
+11107: This one has already been used. I'll give you a freebie, okay? Here. $0.
+11108: Oh, this one hasn't been used yet. Nothing I can do with it.
+11109: Hm? What's that? You're lookin' for's some girl, are ya?
+11110: Ah, I know the girl yer talkin' about! The one who's here for the Festival of Brave Souls!
+11111: The festival's a very important event for us Goblins. It's been around fer ages now.
+11112: It's held whenever we Goblins are in danger or the world itself has lost all hope...
+11113: The festival helps bring us a sense of calm when we feel like prayin' is our only remainin' option.
+11114: The last time it was held was over several hundred years ago... They say there was a battle 'tween the gods of light and darkness.
+11115: Of course, the reason we're holdin' it again now goes without sayin'. Countless "World Eater Eggs" are being found across the land.
+11116: Yes, I've heard all about you as well.
+11117: Ya saved our Goblin heroes from certain death on Zepwell Island, yes?
+11118: Even though you're no beastie, ya know just how terrifyin' a "World Eater Egg" from Chaos truly is.
+11119: Therefore, you can understand the fear, anxiety, and general unease that we Goblins are feelin', right?
+11120: In fact, it terrifies us beasties so much that many aren't even able to work. That's why we need to have this festival--to calm everyone's nerves.
+11121: Hm? You wanna know how this girl yer lookin' for's involved with the festival?
+11122: The Festival of Brave Souls is always a sad affair, so I thought it'd be good to prepare somethin' a bit more lighthearted. Ya know, to keep up wit' the times and all.
+11123: So I put out a call for a skilled entertainer and that girl showed up.
+11124: However, she was much weaker than I expected...
+11125: So I sent her over to Maat in order to really push her to her limits and get her ready in time fer the festival.
+11126: Huh? She forgot somethin' while she was there? And now you're tryin' to give it back to her?
+11127: I see... In that case, I suppose it's okay if I tell you her whereabouts...
+11128: According to her, she's always bein' hounded by her many throngs of fans. So she asked that I keep her location a secret.
+11129: Although, we've had to shelve our plans to have her perform at the festival. I doubt there'll be much to see, let alone any of her fans.
+11130: Here, I'll draw up a map for ya. Simply show it to the Tarutaru soldier in front of the Rent-a-Room in Lower Jeuno.
+11131: His name is Miladi-Nildi. He can show you where she's stayin'.
+11132: As long as that shadow looms large, we can't have the festival. Is there anything that can be done...
+11133: Show that map I drew ya to the soldier standin' in front of the Rent-a-Room in Lower Jeuno. His name is Miladi-Nildi.
+11134: He can show ya how to find the girl yer lookin' for.
+11135: Oh, this is a rare sightaru indeed. That's a map from a Goblin you're carrying. Very well, I can show you the way.
+11136: Hello! Do you come bearing yet more gifts from my legions of adoring fans? You can just set them down over there.
+11137: How will you respond? [You forgot this!/I'm a huge fan!/Firesday Night Fever!]
+11138: Huh!? I-it can't be!
+11139: Wh-where did you find this!?
+11140: So <Player>, you heard everything, did you...
+11141: I was hoping to seek out new challenges and take my idol career to the next level.
+11142: You see, I wanted to form a dance duo with a Goblin girl so that we could display our talents on a worldwide stage.
+11143: Uka felt that the image of the Mighty Maidens would suffer as a result, but I'm more worried about my act growing stale.
+11144: I mean, I know I'm wildly popular with my fans and audiences everywhere, but I'm constantly doing the same show over and over again!
+11145: They're waiting with bated breath for me to come out with a great new costume and even more songs and dance routines! You know, something real spectacular!
+11146: It was then that things took a sudden turn...
+11147: I heard the Goblins were planning some kind of festival.
+11148: When you think of festivals, what comes to mind? That's right! The performances! And what better performance is there than the Heroine Stage Show?
+11149: Somehow, the Goblins felt that my show lacked the proper punch. However, I know my fans would've given me the strength to put on a powerful performance.
+11150: So I started thinking up some new poses and catchphrases. I worked really hard on them too...
+11151: Even so, that Maat guy kept complaining about me though. He basically told me I was a failure as an idol!
+11152: It caused me to lose some of my usual superstar swagger.
+11153: Hah! C-could this be the work of the evil Ullegore!?
+11154: ... No, it can't be. I didn't even hear any narration.
+11155: Ah, there you are, Mumor. I come bearing news.
+11156: Huh!?
+11157: This isn't good! This isn't good at all, kupo!
+11158: What's wrong, Diva...err, I mean Kupolietta!?
+11159: I was told that we might not be able to perform at the Festival of Brave Souls, kupo!
+11160: Wait, what!? Why not!?
+11161: It's all because of that rumor... That terrible rumor, kupo.
+11162: They say an ominous shadow wanders to the east of Batallia Downs each and every night...
+11163: Apparently, everyone who sees it says the same thing, kupo...
+11164: "I saw something that nobody should ever have to see..."
+11165: They then leave Jeuno, never to return again...
+11166: Th-this is terrible news! Isn't the Festival of Brave Souls also held east of Batallia Downs!?
+11167: Indeed it is, kupo. The cave there is the very heart of the festivities.
+11168: Yet, as long as that shadow roams about, there's no way they can have the festival, kupo.
+11169: Hah! C-could this be the work of the evil Ullegore!?
+11170: ... No, it can't be. I didn't even hear any narration.
+11171: And so, the brave Mumor found that she must rise up to strike down this shadowy threat!
+11172: Yes, that's right! I must take my destiny into my own hands!
+11173: Although, as it stands, I'm just a lone idol. I'll never be able to muster the necessary strength for this task.
+11174: So that's where you come in. This is your chance to join me as a Mighty Maiden!
+11175: I mean, you're an adventurer, right? Come on, together, we'll form an unstoppable duo!
+11176: Form a duo with Mumor? [Sure, why not./I think I'll pass./I'm not really a maiden...]
+11177: Thank you so much! It's settled then! We'll be known as the Dashing Damsels!
+11178: What's that? Speak up, I can't hear you.
+11179: Hooray! We're going to be the best duo ever!
+11180: Come on--deep down, everyone has something of a girlish side.
+11181: From today forth, we shall be known as the Delightful Damsels!
+11182: There's nothing like the sweet feelings of love that come from a warm and caring heart.
+11183: We'll show that sinister shadow what for! Come, we march for Batallia Downs at once!
+11184: Hm? You're wondering if I know aboutaru the mysterious shadow that wanders Batallia Downs after dark?
+11185: Of course I do! You'd be smartaru to stay away from the cave in eastern Batallia Downs--the one within view of the ocean.
+11186: But, if you think you have what it takes to stand againstaru this shadow, I won't try to stop you.
+11187: Are ya here 'bout the Festival of Brave Souls too?
+11188: Oh well, I guess it can't be helped. The most important site for the festival is a cave east of Batallia Downs.
+11189: Five thousand years ago, many brave warriors lost their lives. That location is currently servin' as their burial mound.
+11190: But there's a mysterious shadow prowlin' their eternal resting place. Unfortunately, it's keepin' us from going anywhere near it.
+11191: Unbelievable! Why am I just hearing about this now!?
+11192: I understand your frustration, but this story was written for us by a famous Goblin author.
+11193: Ah, <Player>! I'm glad you're here!
+11194: You know my show that was scheduled for the Festival of Brave Souls?
+11195: Get this, they're calling it the "Mighty Maiden Fantastox Heroine Stage Show"!
+11196: First of all, who is this Fantastox person!? My name is Mumor!
+11197: Fantastox's a famous Goblin thief. Her specialties include Sneak Attacks and Trick Attacks.
+11198: So I'm supposed to team up with this thief against the enemy, right!?
+11199: Actually, we need ya to play the evil villain that's tryin' to steal Mighty Maiden Fantastox's mask.
+11200: Why would I want to steal some girl's mask? That's a bit weird, don't you think?
+11201: In the story, it's a special mask that's got the power to turn boulders into bombs.
+11202: And what am I supposed to do with something like that!? Although, I guess a show is always better if it has explosions in it...
+11203: I know, right? We're gonna use smoke to simulate the explosion and set the stage.
+11204: I get it! So that's when I appear as Mighty Maiden Mumor and sing my new song!?
+11205: Exactly! Due to your actions, the world finds itself on the brink of destruction... But that's when Fantastox rises up to resume the fight!
+11206: Wait, what!? You're totally making me out to be the villain here!
+11207: Yeah, that's the point. I've been tellin' ya that from the very beginning.
+11208: Hey, it's <Player>! What are you doing here!?
+11209: Ah! It's the brave hero, Gloom Phantom!
+11210: Brave hero...?
+11211: I came as soon as I received your message!
+11212: So the "World Eater Egg" was found right in the middle of Jeuno!
+11213: That's right. Before anyone realized it was the "World Eater Egg," it went from being in a Goblin's capable hands to someone eating it...
+11214: Wha!? The shell was cracked open without needing my sword!?
+11215: Yeah, it's a total mystery. It's also unclear where this "World Eater Egg" originally came from.
+11216: The World Eater...Egg...?
+11217: Ultimately, it was that girl there who gave the egg to the man known as Maat, who then promptly ate it.
+11218: W-well, I, uh... He told me he was hungry, and so I simply brought him $1 I found nearby...
+11219: What I want to know is where was the egg before that?
+11220: I don't know the details, but I heard a monster near Delkfutt's Tower was carryin' it.
+11221: Delkfutt? Where have I heard that name before...
+11222: Delkfutt's Tower is on Qufim Island, which is in Gigas territory. Clearly, certain death awaits us there.
+11223: Can I ask for your help in this matter, brave hero?
+11224: That's why I'm here! Leave everything to us!
+11225: Hmm... Maybe one of the Gigas knows about the egg and the monster that had it...
+11226: I got it! We'll go to Qufim Island and capture one of the Gigas there and question it!
+11227: You can help us too, <Player>!
+11228: Will you help? [Sure, count me in!/Sorry, I'm busy.]
+11229: Naturally, Dazbog and Magh Bihu'll be going to Qufim Island as well!
+11230: Where's your sense of adventure!?
+11231: Dazbog and Magh Bihu'll be going to Qufim Island too, so there's no need to be afraid!
+11232: Okay, we'll be waiting for you in front of Delkfutt's Tower!
+11233: It's rare that you meet such a mighty hero in person. There aren't many who can draw others to their cause so effortlessly.
+11234: As for you... I believe people called ya "that horror from the holdfast" before, yes?
+11235: So clearly, that makes ya the perfect villain for our story.
+11236: I resent that remark! You obviously don't know what's important in a Heroine Stage Show!
+11237: Wh-what did you say!?
+11238: If you don't know how a show is supposed to resonate with its fans, then I guess I'll just have to teach you!
+11239: Phew! That was intense.
+11240: She said she's goin' back home to grab an old script or somethin' like that.
+11241: I think I'd better take this chance to get as far away from here as possible...
+11242: As for you, you need to go help Gloom Phantom at Delkfutt's Tower on Qufim Island. Got it?
+11243: So anyway, that Gigas known as Echion knew some things, but not others.
+11244: I see... Although, we still don't know how the "World Eater Egg" was cracked open without using your sword.
+11245: Indeed. Not even the undead themselves should be able to break it open.
+11246: However, they do seem to have the ability to find the "World Eater Egg."
+11247: Still, I'm amazed by the Gigas's stupidity. This all happened because they found the "World Eater Egg" and just let it be.
+11248: They just ignore whatever we have to say!
+11249: Furthermore, they have no idea just how terrifying Chaos truly is!
+11250: Five thousand years ago, the one known as Chaos sought to destroy all that was new, even the world itself...
+11251: That included Goblins, Yagudo, Orcs, Quadav... Anything that was different from itself.
+11252: A great number of species went extinct before the strongest of those that remained banded together.
+11253: The Gigas feel that way because during the battle against Chaos five thousand years ago, they hadn't even been born yet.
+11254: So there's no way they could've known about the hatred from those that were devoured by Chaos.
+11255: Well, I don't like how they don't believe us just because they haven't seen something themselves.
+11256: By the way, about that undead who was carrying the World Eater Egg...
+11257: Is the mage known as Garazu-Horeizu that can control the undead involved somehow?
+11258: Actually, we don't really know the answer to that ourselves.
+11259: Well, someone must know something!
+11260: M-maybe this one here knows s-something?
+11261: How about Garazu-Horeizu and Chaos? [The book on maelstrom theory...?/The Fourth Yagudo War...?/Sorry, I forgot.]
+11262: What do you mean you forgot!? I'm gonna yank your petals out myself!
+11263: How about Garazu-Horeizu and Chaos? [Like the maelstrom theory?/How about the Yagudo War?/Was it the "new discoveries"?]
+11264: Hmm... I'm not sure if that makes it any clearer or not.
+11265: I think I got a pretty good idea. We can have Dazbog explain the rest later.
+11266: Th-that's fine, but we still haven't solved the m-mystery yet...
+11267: We haven't!?
+11268: C-clearly, Garazu-Horeizu wanted info on Chaos in order to l-learn a new kind of magic.
+11269: H-he looked into Chaos even after his death and journey to V-Valhalla...
+11270: B-but Chaos was defeated in Valhalla...
+11271: Yeah, that's right! Odin dealt the finishing blow personally!
+11272: Wait, I thought it was a brave Goblin hero that delivered that blow five thousand years ago?
+11273: Huh? In the battle for the Middle Lands, it was my ancestor who dealt the finishing blow.
+11274: However, Chaos was no ordinary opponent.
+11275: Chaos was resurrected in a world beyond this one...
+11276: So my ancestor and numerous other brave warriors journeyed to Valhalla and continued the fight, even beyond death.
+11277: Ah, so those are the warriors whose death we mourn as part of the Festival of Brave Souls.
+11278: So at the very end, Odin dealt the final blow.
+11279: Hmm... So clearly, Chaos met its end long, long ago.
+11280: That's a relief. I was worried about what I'd do if Chaos was still alive today.
+11281: It's not just me, either. All Goblins carry this sense of dread. That's why we started the Festival of Brave Souls.
+11282: I wholeheartedly support this festival as well!
+11283: I've got it! We can call it the "Mighty Maidens Heroine Stage Show: Remember the Battle against Chaos"!
+11284: Say that again?
+11285: It's a show we can put on at the Festival of Brave Souls!
+11286: Or, we can simplify the name a bit and just call it the "Mighty Maidens Heroine Stage Show: Defeat Chaos"!
+11287: What is she talking about!?
+11288: She's not happy with the show for the festival, so she's been trying to convince me to change it.
+11289: You're right... She's been here the whole time.
+11290: It came to me after hearing all of you talk!
+11291: This evil being known as Chaos tried to eradicate anyone who was different from it, so various beings worked together to oppose it, right?
+11292: And afterwards, this enemy rose up once again to put the land in danger! This story has it all--a real tearjerker followed by everyone living happily ever after!
+11293: A story like that contains everything that fans want to see in a Heroine Stage Show!
+11294: First: everyone is made stronger due to their differences!
+11295: Second: they overcome their differences and work together!
+11296: Third: there are moments of sadness, but people rise up in a spirit of hope!
+11297: Hmm... When you put it like that...
+11298: Furthermore, once everyone sees the show, they won't be like the Gigas and not believe in something because they've never seen it before!
+11299: Yes, I suppose you have a point...
+11300: Okay! I'll give it some thought!
+11301: You will!?
+11302: However, in regards to Valhalla...
+11303: Chaos may have hidden the egg before its death.
+11304: Yes, that's totally possible! However, I think Odin would've noticed...
+11305: Maybe his nose was stuffed up, or he had something else on his mind at the time.
+11306: I-it's definitely a mystery... I wish I could ask Odin p-personally.
+11307: Wha!? You realize that means you'd have to be dead, right!?
+11308: Of course I don't want to die, but I don't want to go back to Hazhalm either!
+11309: I-in that case, we could always ask one of Odin's demons...
+11310: Oh! You're right! That's a great idea!
+11311: Is there one that we can easily talk to?
+11312: There are a few like that here in Jeuno. They're disguised as regular people.
+11313: Okay then! Let's get going!
+11314: After hearing that girl's excitement, I've decided to give her proposal some serious thought.
+11315: With a show based on the battle against Chaos, we can reach people that might not know anything about it.
+11316: The problem is what role can I have her play... Hmm... What if she played Chaos...?
+11317: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+11318: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
+11319: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
+11320: You are now able to enjoy a new storyline, A Shantotto Ascension.
+11321: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
+11322: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
+11323: You are now able to enjoy a new storyline, Abyssea.
+11324: Start Abyssea? [Yes (View cutscene)./Maybe later.]
+11325: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
+11326: You are now able to enjoy a new storyline, Chains of Promathia.
+11327: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
+11328: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
+11329: You are now able to enjoy a new storyline, Seekers of Adoulin.
+11330: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
+11331: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
+11332: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+11333: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
+11334: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
+11335: You are now able to enjoy a new storyline, Rise of the Zilart.
+11336: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
+11337: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
+11338: Would you like to start a new storyline that you previously postponed?
+11339: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+11340: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+11341: Start the storyline? [Yes, please./No, thank you.]
+11342: Your $0 begin to quiver!
+11343: Your $0 emits a faint glow. Perhaps you should head to Lufaise Meadows.

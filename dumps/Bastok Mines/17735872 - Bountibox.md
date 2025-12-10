@@ -5,9 +5,9 @@
 | Field            | Value                  |
 |------------------|------------------------|
 | Zone             | Bastok Mines (ID: 234) |
-| Block Size       | 2012 bytes             |
+| Block Size       | 2176 bytes             |
 | Total Events     | 15                     |
-| References Count | 63                     |
+| References Count | 65                     |
 
 ## List of Events
 
@@ -17,17 +17,17 @@
 | [6000](#event-6000)      | 0x0001       |     45 |             13 |
 | [6001](#event-6001)      | 0x002E       |    393 |             86 |
 | [6002](#event-6002)      | 0x01B7       |     33 |             11 |
-| [6009](#event-6009)      | 0x01D8       |    733 |            155 |
-| [6003](#event-6003)      | 0x04B5       |    147 |             29 |
-| [6004](#event-6004)      | 0x0548       |     30 |             10 |
-| [6005](#event-6005)      | 0x0566       |     28 |              8 |
-| [6006](#event-6006)      | 0x0582       |     28 |              8 |
-| [65535.1](#event-655351) | 0x059E       |     28 |              8 |
-| [6010](#event-6010)      | 0x05BA       |     93 |             23 |
-| [6011](#event-6011)      | 0x0617       |     33 |             11 |
-| [6012](#event-6012)      | 0x0638       |     28 |              8 |
-| [6013](#event-6013)      | 0x0654       |     28 |              8 |
-| [6014](#event-6014)      | 0x0670       |     33 |             11 |
+| [6009](#event-6009)      | 0x01D8       |    829 |            167 |
+| [6003](#event-6003)      | 0x0515       |    147 |             29 |
+| [6004](#event-6004)      | 0x05A8       |     30 |             10 |
+| [6005](#event-6005)      | 0x05C6       |     28 |              8 |
+| [6006](#event-6006)      | 0x05E2       |     28 |              8 |
+| [65535.1](#event-655351) | 0x05FE       |     28 |              8 |
+| [6010](#event-6010)      | 0x061A       |    155 |             37 |
+| [6011](#event-6011)      | 0x06B5       |     33 |             11 |
+| [6012](#event-6012)      | 0x06D6       |     28 |              8 |
+| [6013](#event-6013)      | 0x06F2       |     28 |              8 |
+| [6014](#event-6014)      | 0x070E       |     33 |             11 |
 
 ## DAT References (imed_data)
 
@@ -44,7 +44,7 @@
 |       8 | 0x3EE4      |       16100 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0005      |           5 |
-|      11 | 0x2E00      |       11776 |
+|      11 | 0x6E00      |       28160 |
 |      12 | 0x000A      |          10 |
 |      13 | 0x0032      |          50 |
 |      14 | 0x3EE6      |       16102 |
@@ -83,19 +83,21 @@
 |      47 | 0x3EE7      |       16103 |
 |      48 | 0x3EFC      |       16124 |
 |      49 | 0x3EFE      |       16126 |
-|      50 | 0x003C      |          60 |
-|      51 | 0x3EF3      |       16115 |
-|      52 | 0x3EF4      |       16116 |
-|      53 | 0x3EF5      |       16117 |
-|      54 | 0x3EF6      |       16118 |
-|      55 | 0x3EF7      |       16119 |
-|      56 | 0x3EF8      |       16120 |
-|      57 | 0x3EFB      |       16123 |
-|      58 | 0x3EFF      |       16127 |
-|      59 | 0x001E      |          30 |
-|      60 | 0x3F00      |       16128 |
-|      61 | 0x3F01      |       16129 |
-|      62 | 0x3F02      |       16130 |
+|      50 | 0x000E      |          14 |
+|      51 | 0x3F04      |       16132 |
+|      52 | 0x003C      |          60 |
+|      53 | 0x3EF3      |       16115 |
+|      54 | 0x3EF4      |       16116 |
+|      55 | 0x3EF5      |       16117 |
+|      56 | 0x3EF6      |       16118 |
+|      57 | 0x3EF7      |       16119 |
+|      58 | 0x3EF8      |       16120 |
+|      59 | 0x3EFB      |       16123 |
+|      60 | 0x3EFF      |       16127 |
+|      61 | 0x001E      |          30 |
+|      62 | 0x3F00      |       16128 |
+|      63 | 0x3F01      |       16129 |
+|      64 | 0x3F02      |       16130 |
 
 ## String References
 
@@ -121,7 +123,7 @@
 - **16098**: Oho, ya feelin' lucky 'nough tah takes a stab at da myst'ry box?
 - **16099**: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
 - **16100**: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
-- **16102**: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+- **16102**: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]
 - **16103**: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
 - **16104**: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
 - **16105**: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
@@ -140,10 +142,11 @@
 - **16124**: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
 - **16125**: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
 - **16126**: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-- **16127**: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+- **16127**: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!
 - **16128**: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-- **16129**: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+- **16129**: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!
 - **16130**: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
+- **16132**: Urk!
 
 ## Events
 
@@ -275,7 +278,7 @@
  18: 0x0086 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=5*)
  19: 0x008F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  20: 0x0091 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 21: 0x0093 [0x03] ExtData[1]->WorkLocal[0] = 11776*
+ 21: 0x0093 [0x03] ExtData[1]->WorkLocal[0] = 28160*
  22: 0x0098 [0x0E] ExtData[1]->WorkLocal[0] |= Work_Zone[8]
  23: 0x009D [0x03] Work_Zone_1700[0] = 10*
  24: 0x00A2 [0x03] Work_Zone_1700[1] = 50*
@@ -283,7 +286,7 @@
  26: 0x00AC [0x03] Work_Zone_1700[3] = 0*
  27: 0x00B1 [0x03] Work_Zone_1700[4] = 0*
  28: 0x00B6 [0x24] CREATE_DIALOG(message_id=16102*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
-    → "So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]"
+    → "So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]"
  29: 0x00BD [0x25] WAIT_DIALOG_SELECT()
  30: 0x00BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
  31: 0x00C6 [0x21] END_EVENT
@@ -386,7 +389,7 @@ SUBROUTINE_01B5:
 | Field        | Value     |
 |--------------|-----------|
 | Entrypoint   | 0x01D8    |
-| Data Size    | 733 bytes |
+| Data Size    | 829 bytes |
 | Instructions | 22        |
 
 ```
@@ -417,28 +420,34 @@ SUBROUTINE_01B5:
 0330: FF 7F F8 FF FF 7F 74 6C  6B 30 1D 2E 80 23 5B 00  ......tlk0...#[.
 0340: 80 F8 FF FF 7F F8 FF FF  7F 70 61 73 30 53 F8 FF  .........pas0S..
 0350: FF 7F F8 FF FF 7F 70 61  73 30 40 07 80 09 80 01  ......pas0@.....
-0360: 10 09 80 43 00 43 01 03  00 00 05 10 2E 01 B4 04  ...C.C..........
+0360: 10 09 80 43 00 43 01 03  00 00 05 10 2E 01 14 05  ...C.C..........
 0370: 02 00 00 03 80 80 9D 03  5B 00 80 F8 FF FF 7F F8  ........[.......
 0380: FF FF 7F 74 6C 6B 30 02  02 00 10 80 01 96 03 1D  ...tlk0.........
-0390: 2F 80 23 01 9A 03 1D 30  80 23 01 B4 04 02 00 00  /.#....0.#......
+0390: 2F 80 23 01 9A 03 1D 30  80 23 01 14 05 02 00 00  /.#....0.#......
 03A0: 09 80 80 FB 03 5B 00 80  F8 FF FF 7F F8 FF FF 7F  .....[..........
 03B0: 74 6C 6B 30 02 02 00 10  80 80 C4 03 03 02 10 07  tlk0............
 03C0: 80 01 F4 03 02 02 00 27  80 80 D4 03 03 02 10 03  .......'........
 03D0: 80 01 F4 03 02 02 00 28  80 80 E4 03 03 02 10 09  .......(........
 03E0: 80 01 F4 03 02 02 00 29  80 80 F4 03 03 02 10 0F  .......)........
-03F0: 80 01 F4 03 1D 31 80 23  01 B4 04 02 00 00 0F 80  .....1.#........
-0400: 80 B4 04 1E C1 A0 0E 01  6F 70 5B 2B 80 F8 FF FF  ........op[+....
-0410: 7F F8 FF FF 7F 68 61 70  30 1D 2C 80 23 02 04 00  .....hap0.,.#...
-0420: 03 80 00 34 04 03 03 10  02 00 29 80 C1 A0 0E 01  ...4......).....
-0430: 01 1C 2D 80 2C C1 A0 0E  01 C1 A0 0E 01 6F 70 65  ..-.,........ope
-0440: 6E 1C 2D 80 50 C1 A0 0E  01 C1 A0 0E 01 6F 70 65  n.-.P........ope
-0450: 6E 5B 2B 80 F8 FF FF 7F  F8 FF FF 7F 68 61 70 31  n[+.........hap1
-0460: 2C C1 A0 0E 01 C1 A0 0E  01 63 6C 6F 73 1E F0 FF  ,........clos...
-0470: FF 7F 6F 70 5B 00 80 F8  FF FF 7F F8 FF FF 7F 74  ..op[..........t
-0480: 6C 6B 30 1D 2E 80 23 5B  00 80 F8 FF FF 7F F8 FF  lk0...#[........
-0490: FF 7F 70 61 73 30 53 F8  FF FF 7F F8 FF FF 7F 70  ..pas0S........p
-04A0: 61 73 30 40 07 80 09 80  01 10 09 80 43 00 43 01  as0@........C.C.
-04B0: 2E 01 B4 04 1B                                    .....           
+03F0: 80 01 F4 03 1D 31 80 23  01 14 05 02 00 00 0F 80  .....1.#........
+0400: 80 14 05 02 03 00 07 80  00 25 04 1E C1 A0 0E 01  .........%......
+0410: 6F 70 5B 2B 80 F8 FF FF  7F F8 FF FF 7F 68 61 70  op[+.........hap
+0420: 30 1D 2C 80 23 02 02 00  32 80 00 39 04 02 09 10  0.,.#...2..9....
+0430: 0C 80 00 39 04 1D 33 80  23 02 04 00 03 80 00 50  ...9..3.#......P
+0440: 04 03 03 10 02 00 29 80  C1 A0 0E 01 01 1C 2D 80  ......).......-.
+0450: 02 03 00 07 80 00 CA 04  2C C1 A0 0E 01 C1 A0 0E  ........,.......
+0460: 01 6F 70 65 6E 1C 2D 80  50 C1 A0 0E 01 C1 A0 0E  .open.-.P.......
+0470: 01 6F 70 65 6E 5B 2B 80  F8 FF FF 7F F8 FF FF 7F  .open[+.........
+0480: 68 61 70 31 2C C1 A0 0E  01 C1 A0 0E 01 63 6C 6F  hap1,........clo
+0490: 73 1E F0 FF FF 7F 6F 70  5B 00 80 F8 FF FF 7F F8  s.....op[.......
+04A0: FF FF 7F 74 6C 6B 30 1D  2E 80 23 5B 00 80 F8 FF  ...tlk0...#[....
+04B0: FF 7F F8 FF FF 7F 70 61  73 30 53 F8 FF FF 7F F8  ......pas0S.....
+04C0: FF FF 7F 70 61 73 30 01  04 05 02 02 00 32 80 00  ...pas0......2..
+04D0: 04 05 02 04 00 03 80 00  04 05 2C C1 A0 0E 01 C1  ..........,.....
+04E0: A0 0E 01 6F 70 65 6E 1C  2D 80 50 C1 A0 0E 01 C1  ...open.-.P.....
+04F0: A0 0E 01 6F 70 65 6E 2C  C1 A0 0E 01 C1 A0 0E 01  ...open,........
+0500: 63 6C 6F 73 40 07 80 09  80 01 10 09 80 43 00 43  clos@........C.C
+0510: 01 01 14 05 1B                                    .....           
 ```
 
 #### Opcodes
@@ -572,7 +581,7 @@ SUBROUTINE_01B5:
      0x0365 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0367 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
      0x036C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-     0x036D [0x01] GOTO 0x04B4
+     0x036D [0x01] GOTO 0x0514
      0x0370 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x039D
      0x0378 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
      0x0387 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x0396
@@ -583,7 +592,7 @@ SUBROUTINE_01B5:
      0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=16124*)
     → "So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!"
      0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x039A [0x01] GOTO 0x04B4
+     0x039A [0x01] GOTO 0x0514
      0x039D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x03FB
      0x03A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
      0x03B4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x03C4
@@ -601,39 +610,52 @@ SUBROUTINE_01B5:
      0x03F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16126*)
     → "So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow."
      0x03F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x03F8 [0x01] GOTO 0x04B4
-     0x03FB [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x04B4
-     0x0403 [0x1E] EventEntity looks at Treasure Coffer (ID: 17735873/0x010EA0C1) and starts talking
-     0x0408 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-     0x0409 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x040A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=216*
-     0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=16105*)
+     0x03F8 [0x01] GOTO 0x0514
+     0x03FB [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0514
+     0x0403 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0425
+     0x040B [0x1E] EventEntity looks at Treasure Coffer (ID: 17735873/0x010EA0C1) and starts talking
+     0x0410 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x0411 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+     0x0412 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=216*
+     0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=16105*)
     → "Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t"
-     0x041C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x041D [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0434
-     0x0425 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
-     0x042A [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Treasure Coffer (ID: 17735873/0x010EA0C1), tag_num=0x01)
-     0x0431 [0x1C] WAIT(90* ticks)
-     0x0434 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
-     0x0441 [0x1C] WAIT(90* ticks)
-     0x0444 [0x50] END_SCHEDULER_TASK: End scheduler "op" with entities [0xA0C1, 0xA0C1], work=[270, 270]
-     0x0451 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap1" with entities [EventEntity, EventEntity], work=216*
-     0x0460 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
-     0x046D [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x0472 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-     0x0473 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x0474 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-     0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=16106*)
+     0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0425 [0x02] IF !(ExtData[1]->WorkLocal[2] == 14*) GOTO 0x0439
+     0x042D [0x02] IF !(Work_Zone[9] == 10*) GOTO 0x0439
+     0x0435 [0x1D] PRINT_EVENT_MESSAGE(message_id=16132*)
+    → "Urk!"
+     0x0438 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x0439 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0450
+     0x0441 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
+     0x0446 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Treasure Coffer (ID: 17735873/0x010EA0C1), tag_num=0x01)
+     0x044D [0x1C] WAIT(90* ticks)
+     0x0450 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x04CA
+     0x0458 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
+     0x0465 [0x1C] WAIT(90* ticks)
+     0x0468 [0x50] END_SCHEDULER_TASK: End scheduler "op" with entities [0xA0C1, 0xA0C1], work=[270, 270]
+     0x0475 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap1" with entities [EventEntity, EventEntity], work=216*
+     0x0484 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
+     0x0491 [0x1E] EventEntity looks at LocalPlayer and starts talking
+     0x0496 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+     0x0497 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+     0x0498 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+     0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=16106*)
     → "Oooh, looks at what popped out! I hopes it makes yer adventures dat much more adventumarous!"
-     0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0487 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=215*
-     0x0496 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
-     0x04A3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=2*)
-     0x04AC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-     0x04AE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x04B0 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-     0x04B1 [0x01] GOTO 0x04B4
-     0x04B4 [0x1B] RETURN
+     0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x04AB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=215*
+     0x04BA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
+     0x04C7 [0x01] GOTO 0x0504
+     0x04CA [0x02] IF !(ExtData[1]->WorkLocal[2] == 14*) GOTO 0x0504
+     0x04D2 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0504
+     0x04DA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
+     0x04E7 [0x1C] WAIT(90* ticks)
+     0x04EA [0x50] END_SCHEDULER_TASK: End scheduler "op" with entities [0xA0C1, 0xA0C1], work=[270, 270]
+     0x04F7 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
+     0x0504 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=2*)
+     0x050D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+     0x050F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+     0x0511 [0x01] GOTO 0x0514
+     0x0514 [0x1B] RETURN
 ```
 
 ### Event 6003
@@ -642,62 +664,62 @@ SUBROUTINE_01B5:
 
 | Field        | Value     |
 |--------------|-----------|
-| Entrypoint   | 0x04B5    |
+| Entrypoint   | 0x0515    |
 | Data Size    | 147 bytes |
 | Instructions | 29        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-04B0:                03 00 00  08 10 42 1E C1 A0 0E 01       .....B.....
-04C0: 6F 70 2C C1 A0 0E 01 C1  A0 0E 01 6F 70 65 32 5B  op,........ope2[
-04D0: 00 80 F8 FF FF 7F F8 FF  FF 7F 70 61 73 30 53 F8  ..........pas0S.
-04E0: FF FF 7F F8 FF FF 7F 70  61 73 30 2C C1 A0 0E 01  .......pas0,....
-04F0: C1 A0 0E 01 63 6C 6F 73  53 C1 A0 0E 01 C1 A0 0E  ....closS.......
-0500: 01 63 6C 6F 73 1C 32 80  1E F0 FF FF 7F 6F 70 5B  .clos.2......op[
-0510: 00 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 02 00  ..........tlk0..
-0520: 00 07 80 80 2D 05 1D 33  80 23 01 3C 05 02 00 00  ....-..3.#.<....
-0530: 03 80 80 3C 05 1D 34 80  23 01 3C 05 5E 69 64 6C  ...<..4.#.<.^idl
-0540: 30 2E 48 35 80 23 21 00                           0.H5.#!.        
+0510:                03 00 00  08 10 42 1E C1 A0 0E 01       .....B.....
+0520: 6F 70 2C C1 A0 0E 01 C1  A0 0E 01 6F 70 65 32 5B  op,........ope2[
+0530: 00 80 F8 FF FF 7F F8 FF  FF 7F 70 61 73 30 53 F8  ..........pas0S.
+0540: FF FF 7F F8 FF FF 7F 70  61 73 30 2C C1 A0 0E 01  .......pas0,....
+0550: C1 A0 0E 01 63 6C 6F 73  53 C1 A0 0E 01 C1 A0 0E  ....closS.......
+0560: 01 63 6C 6F 73 1C 34 80  1E F0 FF FF 7F 6F 70 5B  .clos.4......op[
+0570: 00 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 02 00  ..........tlk0..
+0580: 00 07 80 80 8D 05 1D 35  80 23 01 9C 05 02 00 00  .......5.#......
+0590: 03 80 80 9C 05 1D 36 80  23 01 9C 05 5E 69 64 6C  ......6.#...^idl
+05A0: 30 2E 48 37 80 23 21 00                           0.H7.#!.        
 ```
 
 #### Opcodes
 
 ```
-  0: 0x04B5 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[8]
-  1: 0x04BA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x04BB [0x1E] EventEntity looks at Treasure Coffer (ID: 17735873/0x010EA0C1) and starts talking
-  3: 0x04C0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x04C1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x04C2 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
-  6: 0x04CF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=215*
-  7: 0x04DE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
-  8: 0x04EB [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
-  9: 0x04F8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "clos" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
- 10: 0x0505 [0x1C] WAIT(60* ticks)
- 11: 0x0508 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 12: 0x050D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
- 13: 0x050E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 14: 0x050F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
- 15: 0x051E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x052D
- 16: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
+  0: 0x0515 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[8]
+  1: 0x051A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x051B [0x1E] EventEntity looks at Treasure Coffer (ID: 17735873/0x010EA0C1) and starts talking
+  3: 0x0520 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x0521 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  5: 0x0522 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ope2" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
+  6: 0x052F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=215*
+  7: 0x053E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
+  8: 0x054B [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "clos" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
+  9: 0x0558 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "clos" with entities [Treasure Coffer (ID: 17735873/0x010EA0C1), Treasure Coffer (ID: 17735873/0x010EA0C1)]
+ 10: 0x0565 [0x1C] WAIT(60* ticks)
+ 11: 0x0568 [0x1E] EventEntity looks at LocalPlayer and starts talking
+ 12: 0x056D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+ 13: 0x056E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+ 14: 0x056F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+ 15: 0x057E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x058D
+ 16: 0x0586 [0x1D] PRINT_EVENT_MESSAGE(message_id=16115*)
     → "Dere we goes. Da myst'ry box seems tah like yer offerin'...but it wants more. Got anythin' else ya wanna throw away?"
- 17: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x052A [0x01] GOTO 0x053C
- 19: 0x052D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x053C
- 20: 0x0535 [0x1D] PRINT_EVENT_MESSAGE(message_id=16116*)
+ 17: 0x0589 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 18: 0x058A [0x01] GOTO 0x059C
+ 19: 0x058D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x059C
+ 20: 0x0595 [0x1D] PRINT_EVENT_MESSAGE(message_id=16116*)
     → "Dere we goes. Oho, looks like it don't wants no more. Guess ya gotta come back tomorrow if ya's wanna keep gettin' rid o' stuff."
- 21: 0x0538 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0539 [0x01] GOTO 0x053C
+ 21: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 22: 0x0599 [0x01] GOTO 0x059C
 
-SUBROUTINE_053C:
- 23: 0x053C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 24: 0x0541 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 25: 0x0542 [0x48] [System] [16117*]:
+SUBROUTINE_059C:
+ 23: 0x059C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 24: 0x05A1 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+ 25: 0x05A2 [0x48] [System] [16117*]:
     → "Yer daily tally's increased [a smidge./someamawhats./a Gobby-fold!/a ginormagantic amount!]"
- 26: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0546 [0x21] END_EVENT
- 28: 0x0547 [0x00] END_REQSTACK()
+ 26: 0x05A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 27: 0x05A6 [0x21] END_EVENT
+ 28: 0x05A7 [0x00] END_REQSTACK()
 ```
 
 ### Event 6004
@@ -706,32 +728,32 @@ SUBROUTINE_053C:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0548   |
+| Entrypoint   | 0x05A8   |
 | Data Size    | 30 bytes |
 | Instructions | 10       |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0540:                          42 1E C1 A0 0E 01 6F 70          B.....op
-0550: 5B 00 80 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 2E  [..........tlk0.
-0560: 1D 36 80 23 21 00                                 .6.#!.          
+05A0:                          42 1E C1 A0 0E 01 6F 70          B.....op
+05B0: 5B 00 80 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 30 2E  [..........tlk0.
+05C0: 1D 38 80 23 21 00                                 .8.#!.          
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0548 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0549 [0x1E] EventEntity looks at Treasure Coffer (ID: 17735873/0x010EA0C1) and starts talking
-  2: 0x054E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x054F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0550 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  5: 0x055F [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-  6: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=16118*)
+  0: 0x05A8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x05A9 [0x1E] EventEntity looks at Treasure Coffer (ID: 17735873/0x010EA0C1) and starts talking
+  2: 0x05AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x05AF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x05B0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  5: 0x05BF [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+  6: 0x05C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=16118*)
     → "Sorrah, but it won't lemme put dis in. Got anythin' it mights like better?"
-  7: 0x0563 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0564 [0x21] END_EVENT
-  9: 0x0565 [0x00] END_REQSTACK()
+  7: 0x05C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  8: 0x05C4 [0x21] END_EVENT
+  9: 0x05C5 [0x00] END_REQSTACK()
 ```
 
 ### Event 6005
@@ -740,30 +762,30 @@ SUBROUTINE_053C:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0566   |
+| Entrypoint   | 0x05C6   |
 | Data Size    | 28 bytes |
 | Instructions | 8        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0560:                   1E F0  FF FF 7F 6F 70 5B 00 80        .....op[..
-0570: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 30 1D 37 80 23  ........tlk0.7.#
-0580: 21 00                                             !.              
+05C0:                   1E F0  FF FF 7F 6F 70 5B 00 80        .....op[..
+05D0: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 30 1D 39 80 23  ........tlk0.9.#
+05E0: 21 00                                             !.              
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0566 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x056B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  2: 0x056C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x056D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x057C [0x1D] PRINT_EVENT_MESSAGE(message_id=16119*)
+  0: 0x05C6 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x05CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x05CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x05CD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  4: 0x05DC [0x1D] PRINT_EVENT_MESSAGE(message_id=16119*)
     → "Sorrah, but da chest has dat look. Y'know, da one dat says, "I'll kills ya if ya tries tah give me dat." I guess alls ya can do is comes back some odda time."
-  5: 0x057F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0580 [0x21] END_EVENT
-  7: 0x0581 [0x00] END_REQSTACK()
+  5: 0x05DF [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x05E0 [0x21] END_EVENT
+  7: 0x05E1 [0x00] END_REQSTACK()
 ```
 
 ### Event 6006
@@ -772,29 +794,29 @@ SUBROUTINE_053C:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0582   |
+| Entrypoint   | 0x05E2   |
 | Data Size    | 28 bytes |
 | Instructions | 8        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0580:       1E F0 FF FF 7F 6F  70 5B 00 80 F8 FF FF 7F    .....op[......
-0590: F8 FF FF 7F 74 6C 6B 30  1D 38 80 23 21 00        ....tlk0.8.#!.  
+05E0:       1E F0 FF FF 7F 6F  70 5B 00 80 F8 FF FF 7F    .....op[......
+05F0: F8 FF FF 7F 74 6C 6B 30  1D 3A 80 23 21 00        ....tlk0.:.#!.  
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0582 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0587 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  2: 0x0588 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0589 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x0598 [0x1D] PRINT_EVENT_MESSAGE(message_id=16120*)
+  0: 0x05E2 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x05E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x05E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x05E9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  4: 0x05F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=16120*)
     → "Nah, it just won't woik. I's did my best, but yer daily tally just won't go no higher. Ya ain't gonna get no prizes by hoardin' yer points, so stop bein' such a Greedalox and use 'em."
-  5: 0x059B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x059C [0x21] END_EVENT
-  7: 0x059D [0x00] END_REQSTACK()
+  5: 0x05FB [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x05FC [0x21] END_EVENT
+  7: 0x05FD [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.1
@@ -803,83 +825,110 @@ SUBROUTINE_053C:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x059E   |
+| Entrypoint   | 0x05FE   |
 | Data Size    | 28 bytes |
 | Instructions | 8        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0590:                                            1E F0                ..
-05A0: FF FF 7F 6F 70 5B 00 80  F8 FF FF 7F F8 FF FF 7F  ...op[..........
-05B0: 74 6C 6B 30 1D 39 80 23  21 00                    tlk0.9.#!.      
+05F0:                                            1E F0                ..
+0600: FF FF 7F 6F 70 5B 00 80  F8 FF FF 7F F8 FF FF 7F  ...op[..........
+0610: 74 6C 6B 30 1D 3B 80 23  21 00                    tlk0.;.#!.      
 ```
 
 #### Opcodes
 
 ```
-  0: 0x059E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x05A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  2: 0x05A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x05A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16123*)
+  0: 0x05FE [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x0603 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x0604 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x0605 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  4: 0x0614 [0x1D] PRINT_EVENT_MESSAGE(message_id=16123*)
     → "Whoawhoawhoa! If ya's got business wit' da box, ya foist gots business wit' me. Whatcha need?"
-  5: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x05B8 [0x21] END_EVENT
-  7: 0x05B9 [0x00] END_REQSTACK()
+  5: 0x0617 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x0618 [0x21] END_EVENT
+  7: 0x0619 [0x00] END_REQSTACK()
 ```
 
 ### Event 6010
 
 #### Metadata
 
-| Field        | Value    |
-|--------------|----------|
-| Entrypoint   | 0x05BA   |
-| Data Size    | 93 bytes |
-| Instructions | 23       |
+| Field        | Value     |
+|--------------|-----------|
+| Entrypoint   | 0x061A    |
+| Data Size    | 155 bytes |
+| Instructions | 35        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-05B0:                                42 7A 04 80 C1 A0            Bz....
-05C0: 0E 01 02 1E F0 FF FF 7F  6F 70 5B 00 80 F8 FF FF  ........op[.....
-05D0: 7F F8 FF FF 7F 74 6C 6B  30 1D 3A 80 23 1C 3B 80  .....tlk0.:.#.;.
-05E0: 5E 69 64 6C 30 40 07 80  09 80 01 10 03 80 43 00  ^idl0@........C.
-05F0: 43 01 03 02 00 03 10 03  00 00 04 10 02 02 00 10  C...............
-0600: 80 04 0A 06 05 04 00 01  0D 06 06 04 00 03 03 00  ................
-0610: 02 00 1A 4B 02 21 00                              ...K.!.         
+0610:                                42 03 03 00 07 80            B.....
+0620: 7A 04 80 C1 A0 0E 01 02  1E F0 FF FF 7F 6F 70 5B  z............op[
+0630: 00 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 1D 3C  ..........tlk0.<
+0640: 80 23 1C 3D 80 5E 69 64  6C 30 40 07 80 09 80 01  .#.=.^idl0@.....
+0650: 10 03 80 43 00 43 01 03  02 00 03 10 03 00 00 04  ...C.C..........
+0660: 10 02 02 00 10 80 04 99  06 02 03 00 02 00 01 77  ...............w
+0670: 06 05 04 00 01 96 06 02  09 10 0C 80 00 85 06 05  ................
+0680: 04 00 01 96 06 02 09 10  03 80 00 93 06 05 04 00  ................
+0690: 01 96 06 06 04 00 01 9C  06 06 04 00 1A 4B 02 03  .............K..
+06A0: 03 00 02 00 02 09 10 07  80 02 B2 06 01 4A 06 01  .............J..
+06B0: B3 06 2E 21 00                                    ...!.           
 ```
 
 #### Opcodes
 
 ```
-  0: 0x05BA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x05BB [0x7A] VM_CONTROL: Copy data from Unknown NPC (ID: 245416320/0x0EA0C180) (params=1, 2)
-  2: 0x05C3 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x05C8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x05C9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x05CA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  6: 0x05D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
-    → "Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!"
-  7: 0x05DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x05DD [0x1C] WAIT(30* ticks)
-  9: 0x05E0 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 10: 0x05E5 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=1*)
- 11: 0x05EE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
- 12: 0x05F0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 13: 0x05F2 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
- 14: 0x05F7 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[4]
- 15: 0x05FC [0x02] IF !(ExtData[1]->WorkLocal[2] < 6*) GOTO 0x060A
- 16: 0x0604 [0x05] ExtData[1]->WorkLocal[4] = 1
- 17: 0x0607 [0x01] GOTO 0x060D
- 18: 0x060A [0x06] ExtData[1]->WorkLocal[4] = 0
+  0: 0x061A [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x061B [0x03] ExtData[1]->WorkLocal[3] = 0*
+  2: 0x0620 [0x7A] VM_CONTROL: Copy data from Unknown NPC (ID: 245416320/0x0EA0C180) (params=1, 2)
+  3: 0x0628 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  4: 0x062D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  5: 0x062E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  6: 0x062F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  7: 0x063E [0x1D] PRINT_EVENT_MESSAGE(message_id=16127*)
+    → "Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!"
+  8: 0x0641 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  9: 0x0642 [0x1C] WAIT(30* ticks)
+ 10: 0x0645 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
+ 11: 0x064A [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=1*)
+ 12: 0x0653 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 13: 0x0655 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 14: 0x0657 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
+ 15: 0x065C [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[4]
+ 16: 0x0661 [0x02] IF !(ExtData[1]->WorkLocal[2] < 6*) GOTO 0x0699
+ 17: 0x0669 [0x02] IF !(ExtData[1]->WorkLocal[3] == ExtData[1]->WorkLocal[2]) GOTO 0x0677
+ 18: 0x0671 [0x05] ExtData[1]->WorkLocal[4] = 1
+ 19: 0x0674 [0x01] GOTO 0x0696
+ 20: 0x0677 [0x02] IF !(Work_Zone[9] == 10*) GOTO 0x0685
+ 21: 0x067F [0x05] ExtData[1]->WorkLocal[4] = 1
+ 22: 0x0682 [0x01] GOTO 0x0696
+ 23: 0x0685 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x0693
+ 24: 0x068D [0x05] ExtData[1]->WorkLocal[4] = 1
+ 25: 0x0690 [0x01] GOTO 0x0696
+ 26: 0x0693 [0x06] ExtData[1]->WorkLocal[4] = 0
 
-SUBROUTINE_060D:
- 19: 0x060D [0x03] ExtData[1]->WorkLocal[3] = ExtData[1]->WorkLocal[2]
- 20: 0x0612 [0x1A] CALL_SUBROUTINE(address=0x024B)
- 21: 0x0615 [0x21] END_EVENT
- 22: 0x0616 [0x00] END_REQSTACK()
+SUBROUTINE_0696:
+ 27: 0x0696 [0x01] GOTO 0x069C
+ 28: 0x0699 [0x06] ExtData[1]->WorkLocal[4] = 0
+
+SUBROUTINE_069C:
+ 29: 0x069C [0x1A] CALL_SUBROUTINE(address=0x024B)
+ 30: 0x069F [0x03] ExtData[1]->WorkLocal[3] = ExtData[1]->WorkLocal[2]
+ 31: 0x06A4 [0x02] IF !(Work_Zone[9] <= 0*) GOTO 0x06B2
+ 32: 0x06AC [0x01] GOTO 0x064A
+
+SUBROUTINE_06B3:
+ 33: 0x06B3 [0x21] END_EVENT
+ 34: 0x06B4 [0x00] END_REQSTACK()
+```
+
+#### Data or dead code:
+
+```
+# Dead code (unreachable instructions):
+     0x06AF [0x01] GOTO 0x06B3
 ```
 
 ### Event 6011
@@ -888,33 +937,33 @@ SUBROUTINE_060D:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0617   |
+| Entrypoint   | 0x06B5   |
 | Data Size    | 33 bytes |
 | Instructions | 11       |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0610:                      42  1E F0 FF FF 7F 6F 70 5B         B.....op[
-0620: 00 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 1D 3C  ..........tlk0.<
-0630: 80 23 43 00 43 01 21 00                           .#C.C.!.        
+06B0:                42 1E F0  FF FF 7F 6F 70 5B 00 80       B.....op[..
+06C0: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 30 1D 3E 80 23  ........tlk0.>.#
+06D0: 43 00 43 01 21 00                                 C.C.!.          
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0617 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0618 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x061D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x061E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x061F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  5: 0x062E [0x1D] PRINT_EVENT_MESSAGE(message_id=16128*)
+  0: 0x06B5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x06B6 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x06BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x06BC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x06BD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  5: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=16128*)
     → "Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0."
-  6: 0x0631 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0632 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-  8: 0x0634 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  9: 0x0636 [0x21] END_EVENT
- 10: 0x0637 [0x00] END_REQSTACK()
+  6: 0x06CF [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x06D0 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  8: 0x06D2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  9: 0x06D4 [0x21] END_EVENT
+ 10: 0x06D5 [0x00] END_REQSTACK()
 ```
 
 ### Event 6012
@@ -923,30 +972,30 @@ SUBROUTINE_060D:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0638   |
+| Entrypoint   | 0x06D6   |
 | Data Size    | 28 bytes |
 | Instructions | 8        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0630:                          1E F0 FF FF 7F 6F 70 5B          .....op[
-0640: 00 80 F8 FF FF 7F F8 FF  FF 7F 74 6C 6B 30 1D 3D  ..........tlk0.=
-0650: 80 23 21 00                                       .#!.            
+06D0:                   1E F0  FF FF 7F 6F 70 5B 00 80        .....op[..
+06E0: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 30 1D 3F 80 23  ........tlk0.?.#
+06F0: 21 00                                             !.              
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0638 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x063D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  2: 0x063E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x063F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x064E [0x1D] PRINT_EVENT_MESSAGE(message_id=16129*)
-    → "Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!"
-  5: 0x0651 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0652 [0x21] END_EVENT
-  7: 0x0653 [0x00] END_REQSTACK()
+  0: 0x06D6 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x06DB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x06DC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x06DD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  4: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=16129*)
+    → "Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!"
+  5: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x06F0 [0x21] END_EVENT
+  7: 0x06F1 [0x00] END_REQSTACK()
 ```
 
 ### Event 6013
@@ -955,29 +1004,29 @@ SUBROUTINE_060D:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0654   |
+| Entrypoint   | 0x06F2   |
 | Data Size    | 28 bytes |
 | Instructions | 8        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0650:             1E F0 FF FF  7F 6F 70 5B 00 80 F8 FF      .....op[....
-0660: FF 7F F8 FF FF 7F 74 6C  6B 30 1D 3E 80 23 21 00  ......tlk0.>.#!.
+06F0:       1E F0 FF FF 7F 6F  70 5B 00 80 F8 FF FF 7F    .....op[......
+0700: F8 FF FF 7F 74 6C 6B 30  1D 40 80 23 21 00        ....tlk0.@.#!.  
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0654 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0659 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  2: 0x065A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x065B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  4: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=16130*)
+  0: 0x06F2 [0x1E] EventEntity looks at LocalPlayer and starts talking
+  1: 0x06F7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  2: 0x06F8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  3: 0x06F9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  4: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=16130*)
     → "What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya."
-  5: 0x066D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x066E [0x21] END_EVENT
-  7: 0x066F [0x00] END_REQSTACK()
+  5: 0x070B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  6: 0x070C [0x21] END_EVENT
+  7: 0x070D [0x00] END_REQSTACK()
 ```
 
 ### Event 6014
@@ -986,31 +1035,31 @@ SUBROUTINE_060D:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0670   |
+| Entrypoint   | 0x070E   |
 | Data Size    | 33 bytes |
 | Instructions | 11       |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0670: 42 1E F0 FF FF 7F 6F 70  5B 00 80 F8 FF FF 7F F8  B.....op[.......
-0680: FF FF 7F 74 6C 6B 30 1D  14 80 23 43 00 43 01 21  ...tlk0...#C.C.!
-0690: 00                                                .               
+0700:                                            42 1E                B.
+0710: F0 FF FF 7F 6F 70 5B 00  80 F8 FF FF 7F F8 FF FF  ....op[.........
+0720: 7F 74 6C 6B 30 1D 14 80  23 43 00 43 01 21 00     .tlk0...#C.C.!. 
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0670 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0671 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0676 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x0677 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0678 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
-  5: 0x0687 [0x1D] PRINT_EVENT_MESSAGE(message_id=16107*)
+  0: 0x070E [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x070F [0x1E] EventEntity looks at LocalPlayer and starts talking
+  2: 0x0714 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  3: 0x0715 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
+  4: 0x0716 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=215*
+  5: 0x0725 [0x1D] PRINT_EVENT_MESSAGE(message_id=16107*)
     → "Ya's thought I threw yer prize away?! Prepostamarous! I's just tucked it away for safekeepin' is all."
-  6: 0x068A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x068B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-  8: 0x068D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  9: 0x068F [0x21] END_EVENT
- 10: 0x0690 [0x00] END_REQSTACK()
+  6: 0x0728 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  7: 0x0729 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+  8: 0x072B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+  9: 0x072D [0x21] END_EVENT
+ 10: 0x072E [0x00] END_REQSTACK()
 ```

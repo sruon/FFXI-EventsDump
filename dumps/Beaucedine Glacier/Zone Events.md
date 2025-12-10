@@ -2001,14 +2001,14 @@ SUBROUTINE_028D:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-02A0:       1C BE 80 4A F0 FF  FF 7F 6A F1 06 01 00       ...J....j.... 
+02A0:       1C BE 80 4A F0 FF  FF 7F 69 F1 06 01 00       ...J....i.... 
 ```
 
 #### Opcodes
 
 ```
   0: 0x02A2 [0x1C] WAIT(40* ticks)
-  1: 0x02A5 [0x4A] LocalPlayer looks at Torino-Samarino (ID: 17232234/0x0106F16A)
+  1: 0x02A5 [0x4A] LocalPlayer looks at Torino-Samarino (ID: 17232233/0x0106F169)
   2: 0x02AE [0x00] END_REQSTACK()
 ```
 
@@ -2026,74 +2026,74 @@ SUBROUTINE_028D:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 02A0:                                               42                 B
-02B0: 5D 44 80 0A 80 1A C8 1A  46 01 92 01 A1 F1 06 01  ]D......F.......
-02C0: 38 BF 80 29 01 9E F1 06  01 01 29 0A 9E F1 06 01  8..)......).....
-02D0: 02 22 00 4E 00 9E F1 06  01 4E 00 A1 F1 06 01 29  .".N.....N.....)
-02E0: 02 A1 F1 06 01 02 80 F0  FF FF 7F 80 A1 F1 06 01  ................
-02F0: 80 9E F1 06 01 77 C0 80  05 80 37 C1 80 C2 80 C3  .....w....7.....
+02B0: 5D 44 80 0A 80 1A C8 1A  46 01 92 01 A0 F1 06 01  ]D......F.......
+02C0: 38 BF 80 29 01 9D F1 06  01 01 29 0A 9D F1 06 01  8..)......).....
+02D0: 02 22 00 4E 00 9D F1 06  01 4E 00 A0 F1 06 01 29  .".N.....N.....)
+02E0: 02 A0 F1 06 01 02 80 F0  FF FF 7F 80 A0 F1 06 01  ................
+02F0: 80 9D F1 06 01 77 C0 80  05 80 37 C1 80 C2 80 C3  .....w....7.....
 0300: 80 C4 80 5C 00 C5 80 5C  01 C5 80 9A 45 C6 80 F8  ...\...\....E...
 0310: FF FF 7F F8 FF FF 7F 73  30 30 30 44 80 66 C7 80  .......s000D.f..
-0320: A1 F1 06 01 A1 F1 06 01  73 68 61 30 1C 0A 80 27  ........sha0...'
-0330: 03 9E F1 06 01 04 32 05  80 1F 00 C8 80 C9 80 CA  ......2.........
-0340: 80 1F 01 1A 1C 1B 1C CB  80 4A F0 FF FF 7F 9E F1  .........J......
+0320: A0 F1 06 01 A0 F1 06 01  73 68 61 30 1C 0A 80 27  ........sha0...'
+0330: 03 9D F1 06 01 04 32 05  80 1F 00 C8 80 C9 80 CA  ......2.........
+0340: 80 1F 01 1A 1C 1B 1C CB  80 4A F0 FF FF 7F 9D F1  .........J......
 0350: 06 01 1C CC 80 45 CD 80  F0 FF FF 7F F0 FF FF 7F  .....E..........
 0360: 6F 76 6C 32 44 80 52 C6  80 F8 FF FF 7F F8 FF FF  ovl2D.R.........
 0370: 7F 73 30 30 30 45 C6 80  F8 FF FF 7F F8 FF FF 7F  .s000E..........
-0380: 73 30 30 31 44 80 79 00  9E F1 06 01 A1 F1 06 01  s001D.y.........
-0390: 1C CE 80 79 00 F0 FF FF  7F A1 F1 06 01 1C 0A 80  ...y............
+0380: 73 30 30 31 44 80 79 00  9D F1 06 01 A0 F1 06 01  s001D.y.........
+0390: 1C CE 80 79 00 F0 FF FF  7F A0 F1 06 01 1C 0A 80  ...y............
 03A0: 52 C6 80 F8 FF FF 7F F8  FF FF 7F 73 30 30 31 45  R..........s001E
 03B0: C6 80 F8 FF FF 7F F8 FF  FF 7F 73 30 30 32 44 80  ..........s002D.
-03C0: 1C CE 80 2B A1 F1 06 01  CF 80 23 2B A1 F1 06 01  ...+......#+....
-03D0: D0 80 23 66 C7 80 A1 F1  06 01 A1 F1 06 01 73 68  ..#f..........sh
+03C0: 1C CE 80 2B A0 F1 06 01  CF 80 23 2B A0 F1 06 01  ...+......#+....
+03D0: D0 80 23 66 C7 80 A0 F1  06 01 A0 F1 06 01 73 68  ..#f..........sh
 03E0: 61 31 52 C6 80 F8 FF FF  7F F8 FF FF 7F 73 30 30  a1R..........s00
 03F0: 32 45 C6 80 F8 FF FF 7F  F8 FF FF 7F 73 30 30 33  2E..........s003
-0400: 44 80 1C CC 80 2B A1 F1  06 01 D1 80 23 66 C7 80  D....+......#f..
-0410: A1 F1 06 01 A1 F1 06 01  74 68 6B 31 2B A1 F1 06  ........thk1+...
-0420: 01 D2 80 23 2B A1 F1 06  01 D3 80 23 66 C7 80 A1  ...#+......#f...
-0430: F1 06 01 A1 F1 06 01 74  68 6B 32 2B A1 F1 06 01  .......thk2+....
-0440: D4 80 23 4A A1 F1 06 01  F0 FF FF 7F 1C 09 80 52  ..#J...........R
+0400: 44 80 1C CC 80 2B A0 F1  06 01 D1 80 23 66 C7 80  D....+......#f..
+0410: A0 F1 06 01 A0 F1 06 01  74 68 6B 31 2B A0 F1 06  ........thk1+...
+0420: 01 D2 80 23 2B A0 F1 06  01 D3 80 23 66 C7 80 A0  ...#+......#f...
+0430: F1 06 01 A0 F1 06 01 74  68 6B 32 2B A0 F1 06 01  .......thk2+....
+0440: D4 80 23 4A A0 F1 06 01  F0 FF FF 7F 1C 09 80 52  ..#J...........R
 0450: C6 80 F8 FF FF 7F F8 FF  FF 7F 73 30 30 33 45 C6  ..........s003E.
 0460: 80 F8 FF FF 7F F8 FF FF  7F 73 30 30 34 44 80 4A  .........s004D.J
-0470: 9E F1 06 01 A1 F1 06 01  1C CC 80 6E 9E F1 06 01  ...........n....
-0480: 44 80 99 9E F1 06 01 1C  CC 80 1A 76 30 02 08 00  D..........v0...
-0490: 04 80 80 A0 04 2B 9E F1  06 01 D5 80 23 01 71 05  .....+......#.q.
-04A0: 02 08 00 9A 80 80 B3 04  2B 9E F1 06 01 D6 80 23  ........+......#
-04B0: 01 71 05 02 08 00 9F 80  80 C6 04 2B 9E F1 06 01  .q.........+....
-04C0: D7 80 23 01 71 05 02 08  00 A3 80 80 D9 04 2B 9E  ..#.q.........+.
+0470: 9D F1 06 01 A0 F1 06 01  1C CC 80 6E 9D F1 06 01  ...........n....
+0480: 44 80 99 9D F1 06 01 1C  CC 80 1A 76 30 02 08 00  D..........v0...
+0490: 04 80 80 A0 04 2B 9D F1  06 01 D5 80 23 01 71 05  .....+......#.q.
+04A0: 02 08 00 9A 80 80 B3 04  2B 9D F1 06 01 D6 80 23  ........+......#
+04B0: 01 71 05 02 08 00 9F 80  80 C6 04 2B 9D F1 06 01  .q.........+....
+04C0: D7 80 23 01 71 05 02 08  00 A3 80 80 D9 04 2B 9D  ..#.q.........+.
 04D0: F1 06 01 D8 80 23 01 71  05 02 08 00 A7 80 80 EC  .....#.q........
-04E0: 04 2B 9E F1 06 01 D9 80  23 01 71 05 02 08 00 AB  .+......#.q.....
-04F0: 80 80 FF 04 2B 9E F1 06  01 DA 80 23 01 71 05 02  ....+......#.q..
-0500: 08 00 AC 80 80 12 05 2B  9E F1 06 01 DB 80 23 01  .......+......#.
-0510: 71 05 02 08 00 B0 80 80  25 05 2B 9E F1 06 01 DC  q.......%.+.....
-0520: 80 23 01 71 05 02 08 00  C7 80 80 38 05 2B 9E F1  .#.q.......8.+..
+04E0: 04 2B 9D F1 06 01 D9 80  23 01 71 05 02 08 00 AB  .+......#.q.....
+04F0: 80 80 FF 04 2B 9D F1 06  01 DA 80 23 01 71 05 02  ....+......#.q..
+0500: 08 00 AC 80 80 12 05 2B  9D F1 06 01 DB 80 23 01  .......+......#.
+0510: 71 05 02 08 00 B0 80 80  25 05 2B 9D F1 06 01 DC  q.......%.+.....
+0520: 80 23 01 71 05 02 08 00  C7 80 80 38 05 2B 9D F1  .#.q.......8.+..
 0530: 06 01 DD 80 23 01 71 05  02 08 00 72 80 80 4B 05  ....#.q....r..K.
-0540: 2B 9E F1 06 01 DE 80 23  01 71 05 02 08 00 DF 80  +......#.q......
-0550: 80 5E 05 2B 9E F1 06 01  E0 80 23 01 71 05 02 08  .^.+......#.q...
-0560: 00 E1 80 80 71 05 2B 9E  F1 06 01 E2 80 23 01 71  ....q.+......#.q
+0540: 2B 9D F1 06 01 DE 80 23  01 71 05 02 08 00 DF 80  +......#.q......
+0550: 80 5E 05 2B 9D F1 06 01  E0 80 23 01 71 05 02 08  .^.+......#.q...
+0560: 00 E1 80 80 71 05 2B 9D  F1 06 01 E2 80 23 01 71  ....q.+......#.q
 0570: 05 52 C6 80 F8 FF FF 7F  F8 FF FF 7F 73 30 30 34  .R..........s004
 0580: 45 C6 80 F8 FF FF 7F F8  FF FF 7F 73 30 30 35 44  E..........s005D
-0590: 80 4A A1 F1 06 01 9E F1  06 01 6E A1 F1 06 01 E3  .J........n.....
-05A0: 80 99 A1 F1 06 01 2B A1  F1 06 01 E4 80 23 52 C6  ......+......#R.
+0590: 80 4A A0 F1 06 01 9D F1  06 01 6E A0 F1 06 01 E3  .J........n.....
+05A0: 80 99 A0 F1 06 01 2B A0  F1 06 01 E4 80 23 52 C6  ......+......#R.
 05B0: 80 F8 FF FF 7F F8 FF FF  7F 73 30 30 35 45 C6 80  .........s005E..
 05C0: F8 FF FF 7F F8 FF FF 7F  73 30 30 36 44 80 1A 76  ........s006D..v
-05D0: 30 02 08 00 04 80 80 E4  05 2B 9E F1 06 01 E5 80  0........+......
-05E0: 23 01 B5 06 02 08 00 9A  80 80 F7 05 2B 9E F1 06  #...........+...
+05D0: 30 02 08 00 04 80 80 E4  05 2B 9D F1 06 01 E5 80  0........+......
+05E0: 23 01 B5 06 02 08 00 9A  80 80 F7 05 2B 9D F1 06  #...........+...
 05F0: 01 E6 80 23 01 B5 06 02  08 00 9F 80 80 0A 06 2B  ...#...........+
-0600: 9E F1 06 01 E7 80 23 01  B5 06 02 08 00 A3 80 80  ......#.........
-0610: 1D 06 2B 9E F1 06 01 E8  80 23 01 B5 06 02 08 00  ..+......#......
-0620: A7 80 80 30 06 2B 9E F1  06 01 E9 80 23 01 B5 06  ...0.+......#...
-0630: 02 08 00 AB 80 80 43 06  2B 9E F1 06 01 EA 80 23  ......C.+......#
-0640: 01 B5 06 02 08 00 AC 80  80 56 06 2B 9E F1 06 01  .........V.+....
-0650: EB 80 23 01 B5 06 02 08  00 B0 80 80 69 06 2B 9E  ..#.........i.+.
+0600: 9D F1 06 01 E7 80 23 01  B5 06 02 08 00 A3 80 80  ......#.........
+0610: 1D 06 2B 9D F1 06 01 E8  80 23 01 B5 06 02 08 00  ..+......#......
+0620: A7 80 80 30 06 2B 9D F1  06 01 E9 80 23 01 B5 06  ...0.+......#...
+0630: 02 08 00 AB 80 80 43 06  2B 9D F1 06 01 EA 80 23  ......C.+......#
+0640: 01 B5 06 02 08 00 AC 80  80 56 06 2B 9D F1 06 01  .........V.+....
+0650: EB 80 23 01 B5 06 02 08  00 B0 80 80 69 06 2B 9D  ..#.........i.+.
 0660: F1 06 01 EC 80 23 01 B5  06 02 08 00 C7 80 80 7C  .....#.........|
-0670: 06 2B 9E F1 06 01 ED 80  23 01 B5 06 02 08 00 72  .+......#......r
-0680: 80 80 8F 06 2B 9E F1 06  01 EE 80 23 01 B5 06 02  ....+......#....
-0690: 08 00 DF 80 80 A2 06 2B  9E F1 06 01 EF 80 23 01  .......+......#.
-06A0: B5 06 02 08 00 E1 80 80  B5 06 2B 9E F1 06 01 F0  ..........+.....
-06B0: 80 23 01 B5 06 73 F1 80  A1 F1 06 01 A1 F1 06 01  .#...s..........
-06C0: 1C CC 80 27 04 9E F1 06  01 05 2A 04 9E F1 06 01  ...'......*.....
-06D0: 1C CC 80 4A 9E F1 06 01  F0 FF FF 7F 1C F2 80 6E  ...J...........n
-06E0: 9E F1 06 01 F3 80 99 9E  F1 06 01 1C F4 80 5D 44  ..............]D
+0670: 06 2B 9D F1 06 01 ED 80  23 01 B5 06 02 08 00 72  .+......#......r
+0680: 80 80 8F 06 2B 9D F1 06  01 EE 80 23 01 B5 06 02  ....+......#....
+0690: 08 00 DF 80 80 A2 06 2B  9D F1 06 01 EF 80 23 01  .......+......#.
+06A0: B5 06 02 08 00 E1 80 80  B5 06 2B 9D F1 06 01 F0  ..........+.....
+06B0: 80 23 01 B5 06 73 F1 80  A0 F1 06 01 A0 F1 06 01  .#...s..........
+06C0: 1C CC 80 27 04 9D F1 06  01 05 2A 04 9D F1 06 01  ...'......*.....
+06D0: 1C CC 80 4A 9D F1 06 01  F0 FF FF 7F 1C F2 80 6E  ...J...........n
+06E0: 9D F1 06 01 F3 80 99 9D  F1 06 01 1C F4 80 5D 44  ..............]D
 06F0: 80 CB 80 1A C8 1A 52 C6  80 F8 FF FF 7F F8 FF FF  ......R.........
 0700: 7F 73 30 30 36 78 46 00  5C 00 44 80 5C 01 44 80  .s006xF.\.D.\.D.
 0710: 9A 1C 0A 80 1A 1C 1B 21  00                       .......!.       
@@ -2106,134 +2106,134 @@ SUBROUTINE_028D:
   1: 0x02B0 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
   2: 0x02B5 [0x1A] CALL_SUBROUTINE(address=0x1AC8)
   3: 0x02B8 [0x46] CAMERA_CONTROL: Disable user control
-  4: 0x02BA [0x92] ??? (ID: 17232289/0x0106F1A1)->Render.Flags3 ^= 0x01
+  4: 0x02BA [0x92] ??? (ID: 17232288/0x0106F1A0)->Render.Flags3 ^= 0x01
   5: 0x02C0 [0x38] SET_CLIENT_EVENT_MODE(mode=27*)
-  6: 0x02C3 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x01)
-  7: 0x02CA [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x02)
+  6: 0x02C3 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x01)
+  7: 0x02CA [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x02)
   8: 0x02D1 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
-  9: 0x02D3 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232286/0x0106F19E)
- 10: 0x02D9 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17232289/0x0106F1A1)
- 11: 0x02DF [0x29] REQ_SET_WAIT(priority=0x02, entity_id=??? (ID: 17232289/0x0106F1A1), tag_num=0x02)
+  9: 0x02D3 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232285/0x0106F19D)
+ 10: 0x02D9 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17232288/0x0106F1A0)
+ 11: 0x02DF [0x29] REQ_SET_WAIT(priority=0x02, entity_id=??? (ID: 17232288/0x0106F1A0), tag_num=0x02)
  12: 0x02E6 [0x80] LOAD_WAIT(entity=LocalPlayer)
- 13: 0x02EB [0x80] LOAD_WAIT(entity=??? (ID: 17232289/0x0106F1A1))
- 14: 0x02F0 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232286/0x0106F19E))
+ 13: 0x02EB [0x80] LOAD_WAIT(entity=??? (ID: 17232288/0x0106F1A0))
+ 14: 0x02F0 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232285/0x0106F19D))
  15: 0x02F5 [0x77] SET_EVENT_TIME_WEATHER(hour=17*, weather=13*)
  16: 0x02FA [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-410.845*, z=-419.697*, y=-39.724*, direction=356.8°*
  17: 0x0303 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
  18: 0x0307 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
  19: 0x030B [0x9A] WAIT_MUSIC_SERVER()
  20: 0x030C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[181*, 0*]
- 21: 0x031D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [??? (ID: 17232289/0x0106F1A1), ??? (ID: 17232289/0x0106F1A1)], work=9*
+ 21: 0x031D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [??? (ID: 17232288/0x0106F1A0), ??? (ID: 17232288/0x0106F1A0)], work=9*
  22: 0x032C [0x1C] WAIT(120* ticks)
- 23: 0x032F [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x04)
+ 23: 0x032F [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x04)
  24: 0x0336 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
  25: 0x0339 [0x1F] MOVE_ENTITY: EventEntity moves to X=-407.686*, Z=-420.322*, Y=-39.728*
  26: 0x0341 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  27: 0x0343 [0x1A] CALL_SUBROUTINE(address=0x1B1C)
  28: 0x0346 [0x1C] WAIT(180* ticks)
- 29: 0x0349 [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17232286/0x0106F19E)
+ 29: 0x0349 [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17232285/0x0106F19D)
  30: 0x0352 [0x1C] WAIT(60* ticks)
  31: 0x0355 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  32: 0x0366 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=181*
  33: 0x0375 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[181*, 0*]
- 34: 0x0386 [0x79] Unnamed NPC (ID: 17232286/0x0106F19E) looks at ??? (ID: 17232289/0x0106F1A1) (Basic look)
+ 34: 0x0386 [0x79] Unnamed NPC (ID: 17232285/0x0106F19D) looks at ??? (ID: 17232288/0x0106F1A0) (Basic look)
  35: 0x0390 [0x1C] WAIT(90* ticks)
- 36: 0x0393 [0x79] LocalPlayer looks at ??? (ID: 17232289/0x0106F1A1) (Basic look)
+ 36: 0x0393 [0x79] LocalPlayer looks at ??? (ID: 17232288/0x0106F1A0) (Basic look)
  37: 0x039D [0x1C] WAIT(120* ticks)
  38: 0x03A0 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=181*
  39: 0x03AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[181*, 0*]
  40: 0x03C0 [0x1C] WAIT(90* ticks)
- 41: 0x03C3 [0x2B] ??? (ID: 17232289/0x0106F1A1) [8397*]:
+ 41: 0x03C3 [0x2B] ??? (ID: 17232288/0x0106F1A0) [8397*]:
     → "My strength has yet to fully return..."
  42: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x03CB [0x2B] ??? (ID: 17232289/0x0106F1A1) [8398*]:
+ 43: 0x03CB [0x2B] ??? (ID: 17232288/0x0106F1A0) [8398*]:
     → "The light from that mirror... It could only be the blessed radiance..."
  44: 0x03D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x03D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [??? (ID: 17232289/0x0106F1A1), ??? (ID: 17232289/0x0106F1A1)], work=9*
+ 45: 0x03D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [??? (ID: 17232288/0x0106F1A0), ??? (ID: 17232288/0x0106F1A0)], work=9*
  46: 0x03E2 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=181*
  47: 0x03F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[181*, 0*]
  48: 0x0402 [0x1C] WAIT(60* ticks)
- 49: 0x0405 [0x2B] ??? (ID: 17232289/0x0106F1A1) [8399*]:
+ 49: 0x0405 [0x2B] ??? (ID: 17232288/0x0106F1A0) [8399*]:
     → "I cannot let this minor setback deter me."
  50: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x040D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [??? (ID: 17232289/0x0106F1A1), ??? (ID: 17232289/0x0106F1A1)], work=9*
- 52: 0x041C [0x2B] ??? (ID: 17232289/0x0106F1A1) [8400*]:
+ 51: 0x040D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [??? (ID: 17232288/0x0106F1A0), ??? (ID: 17232288/0x0106F1A0)], work=9*
+ 52: 0x041C [0x2B] ??? (ID: 17232288/0x0106F1A0) [8400*]:
     → "After all, this new material shell of mine should not go to waste. The Mirror of Blighted Gloom shall be mine..."
  53: 0x0423 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0424 [0x2B] ??? (ID: 17232289/0x0106F1A1) [8401*]:
+ 54: 0x0424 [0x2B] ??? (ID: 17232288/0x0106F1A0) [8401*]:
     → "All I need is a little more time to heal, and then..."
  55: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x042C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [??? (ID: 17232289/0x0106F1A1), ??? (ID: 17232289/0x0106F1A1)], work=9*
- 57: 0x043B [0x2B] ??? (ID: 17232289/0x0106F1A1) [8402*]:
+ 56: 0x042C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [??? (ID: 17232288/0x0106F1A0), ??? (ID: 17232288/0x0106F1A0)], work=9*
+ 57: 0x043B [0x2B] ??? (ID: 17232288/0x0106F1A0) [8402*]:
     → "Hm...?"
  58: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x0443 [0x4A] ??? (ID: 17232289/0x0106F1A1) looks at LocalPlayer
+ 59: 0x0443 [0x4A] ??? (ID: 17232288/0x0106F1A0) looks at LocalPlayer
  60: 0x044C [0x1C] WAIT(30* ticks)
  61: 0x044F [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=181*
  62: 0x045E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[181*, 0*]
- 63: 0x046F [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at ??? (ID: 17232289/0x0106F1A1)
+ 63: 0x046F [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at ??? (ID: 17232288/0x0106F1A0)
  64: 0x0478 [0x1C] WAIT(60* ticks)
- 65: 0x047B [0x6E] Unnamed NPC (ID: 17232286/0x0106F19E) uses emote 0*
- 66: 0x0482 [0x99] Wait for Unnamed NPC (ID: 17232286/0x0106F19E) animation to complete
+ 65: 0x047B [0x6E] Unnamed NPC (ID: 17232285/0x0106F19D) uses emote 0*
+ 66: 0x0482 [0x99] Wait for Unnamed NPC (ID: 17232285/0x0106F19D) animation to complete
  67: 0x0487 [0x1C] WAIT(60* ticks)
  68: 0x048A [0x1A] CALL_SUBROUTINE(address=0x3076)
  69: 0x048D [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x04A0
- 70: 0x0495 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8403*]:
+ 70: 0x0495 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8403*]:
     → "It's him...! The man from Jugner...!"
  71: 0x049C [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x049D [0x01] GOTO 0x0571
  73: 0x04A0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x04B3
- 74: 0x04A8 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8404*]:
+ 74: 0x04A8 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8404*]:
     → "It's him...! The man from Jugner...!"
  75: 0x04AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x04B0 [0x01] GOTO 0x0571
  77: 0x04B3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x04C6
- 78: 0x04BB [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8405*]:
+ 78: 0x04BB [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8405*]:
     → "It's him...! The man from Jugner...!"
  79: 0x04C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x04C3 [0x01] GOTO 0x0571
  81: 0x04C6 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x04D9
- 82: 0x04CE [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8406*]:
+ 82: 0x04CE [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8406*]:
     → "It's him...! The man from Jugner...!"
  83: 0x04D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x04D6 [0x01] GOTO 0x0571
  85: 0x04D9 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x04EC
- 86: 0x04E1 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8409*]:
+ 86: 0x04E1 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8409*]:
     → "It's him...! The man from Jugner...!"
  87: 0x04E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x04E9 [0x01] GOTO 0x0571
  89: 0x04EC [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x04FF
- 90: 0x04F4 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8410*]:
+ 90: 0x04F4 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8410*]:
     → "It's him...! The man from Jugner...!"
  91: 0x04FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x04FC [0x01] GOTO 0x0571
  93: 0x04FF [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0512
- 94: 0x0507 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8411*]:
+ 94: 0x0507 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8411*]:
     → "It's him...! The man from Jugner...!"
  95: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x050F [0x01] GOTO 0x0571
  97: 0x0512 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0525
- 98: 0x051A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8412*]:
+ 98: 0x051A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8412*]:
     → "It's him...! The man from Jugner...!"
  99: 0x0521 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0522 [0x01] GOTO 0x0571
 101: 0x0525 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0538
-102: 0x052D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8413*]:
+102: 0x052D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8413*]:
     → "It's him...! The man from Jugner...!"
 103: 0x0534 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x0535 [0x01] GOTO 0x0571
 105: 0x0538 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x054B
-106: 0x0540 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8407*]:
+106: 0x0540 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8407*]:
     → "It's him...! The man from Jugner...!"
 107: 0x0547 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0548 [0x01] GOTO 0x0571
 109: 0x054B [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x055E
-110: 0x0553 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8408*]:
+110: 0x0553 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8408*]:
     → "It's him...! The man from Jugner...!"
 111: 0x055A [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x055B [0x01] GOTO 0x0571
 113: 0x055E [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0571
-114: 0x0566 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8414*]:
+114: 0x0566 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8414*]:
     → "It's him...! The man from Jugner...!"
 115: 0x056D [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x056E [0x01] GOTO 0x0571
@@ -2241,86 +2241,86 @@ SUBROUTINE_028D:
 SUBROUTINE_0571:
 117: 0x0571 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=181*
 118: 0x0580 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[181*, 0*]
-119: 0x0591 [0x4A] ??? (ID: 17232289/0x0106F1A1) looks at Unnamed NPC (ID: 17232286/0x0106F19E)
-120: 0x059A [0x6E] ??? (ID: 17232289/0x0106F1A1) uses emote 26*
-121: 0x05A1 [0x99] Wait for ??? (ID: 17232289/0x0106F1A1) animation to complete
-122: 0x05A6 [0x2B] ??? (ID: 17232289/0x0106F1A1) [8415*]:
+119: 0x0591 [0x4A] ??? (ID: 17232288/0x0106F1A0) looks at Unnamed NPC (ID: 17232285/0x0106F19D)
+120: 0x059A [0x6E] ??? (ID: 17232288/0x0106F1A0) uses emote 26*
+121: 0x05A1 [0x99] Wait for ??? (ID: 17232288/0x0106F1A0) animation to complete
+122: 0x05A6 [0x2B] ??? (ID: 17232288/0x0106F1A0) [8415*]:
     → "<Sigh>..."
 123: 0x05AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x05AE [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=181*
 125: 0x05BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[181*, 0*]
 126: 0x05CE [0x1A] CALL_SUBROUTINE(address=0x3076)
 127: 0x05D1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x05E4
-128: 0x05D9 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8416*]:
+128: 0x05D9 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8416*]:
     → "Not so fast...!"
 129: 0x05E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x05E1 [0x01] GOTO 0x06B5
 131: 0x05E4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x05F7
-132: 0x05EC [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8417*]:
+132: 0x05EC [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8417*]:
     → "Not so fast...!"
 133: 0x05F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x05F4 [0x01] GOTO 0x06B5
 135: 0x05F7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x060A
-136: 0x05FF [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8418*]:
+136: 0x05FF [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8418*]:
     → "Not so fast...!"
 137: 0x0606 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0607 [0x01] GOTO 0x06B5
 139: 0x060A [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x061D
-140: 0x0612 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8419*]:
+140: 0x0612 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8419*]:
     → "Hold on there...!"
 141: 0x0619 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x061A [0x01] GOTO 0x06B5
 143: 0x061D [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0630
-144: 0x0625 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8422*]:
+144: 0x0625 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8422*]:
     → "Not so fast...!"
 145: 0x062C [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x062D [0x01] GOTO 0x06B5
 147: 0x0630 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0643
-148: 0x0638 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8423*]:
+148: 0x0638 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8423*]:
     → "Wait!"
 149: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0640 [0x01] GOTO 0x06B5
 151: 0x0643 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0656
-152: 0x064B [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8424*]:
+152: 0x064B [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8424*]:
     → "Wait!"
 153: 0x0652 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0653 [0x01] GOTO 0x06B5
 155: 0x0656 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0669
-156: 0x065E [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8425*]:
+156: 0x065E [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8425*]:
     → "Hey! You!"
 157: 0x0665 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x0666 [0x01] GOTO 0x06B5
 159: 0x0669 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x067C
-160: 0x0671 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8426*]:
+160: 0x0671 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8426*]:
     → "Hold on there...!"
 161: 0x0678 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0679 [0x01] GOTO 0x06B5
 163: 0x067C [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x068F
-164: 0x0684 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8420*]:
+164: 0x0684 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8420*]:
     → "Not so fast...!"
 165: 0x068B [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x068C [0x01] GOTO 0x06B5
 167: 0x068F [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x06A2
-168: 0x0697 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8421*]:
+168: 0x0697 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8421*]:
     → "Not so fast...!"
 169: 0x069E [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x069F [0x01] GOTO 0x06B5
 171: 0x06A2 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x06B5
-172: 0x06AA [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8427*]:
+172: 0x06AA [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8427*]:
     → "Not so fast...!"
 173: 0x06B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x06B2 [0x01] GOTO 0x06B5
 
 SUBROUTINE_06B5:
-175: 0x06B5 [0x73] ??? (ID: 17232289/0x0106F1A1) casts magic 264* on ??? (ID: 17232289/0x0106F1A1)
+175: 0x06B5 [0x73] ??? (ID: 17232288/0x0106F1A0) casts magic 264* on ??? (ID: 17232288/0x0106F1A0)
 176: 0x06C0 [0x1C] WAIT(60* ticks)
-177: 0x06C3 [0x27] REQ_SET(priority=0x04, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x05)
-178: 0x06CA [0x2A] GET_REQ_LEVEL(level=4, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E))
+177: 0x06C3 [0x27] REQ_SET(priority=0x04, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x05)
+178: 0x06CA [0x2A] GET_REQ_LEVEL(level=4, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D))
 179: 0x06D0 [0x1C] WAIT(60* ticks)
-180: 0x06D3 [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at LocalPlayer
+180: 0x06D3 [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at LocalPlayer
 181: 0x06DC [0x1C] WAIT(45* ticks)
-182: 0x06DF [0x6E] Unnamed NPC (ID: 17232286/0x0106F19E) uses emote 33*
-183: 0x06E6 [0x99] Wait for Unnamed NPC (ID: 17232286/0x0106F19E) animation to complete
+182: 0x06DF [0x6E] Unnamed NPC (ID: 17232285/0x0106F19D) uses emote 33*
+183: 0x06E6 [0x99] Wait for Unnamed NPC (ID: 17232285/0x0106F19D) animation to complete
 184: 0x06EB [0x1C] WAIT(150* ticks)
 185: 0x06EE [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=180*)
 186: 0x06F3 [0x1A] CALL_SUBROUTINE(address=0x1AC8)
@@ -2350,309 +2350,309 @@ SUBROUTINE_06B5:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0710:                             42 5D 44 80 0A 80 1A           B]D....
-0720: C8 1A 1C CC 80 92 01 A3  F1 06 01 92 01 A2 F1 06  ................
+0720: C8 1A 1C CC 80 92 01 A2  F1 06 01 92 01 A1 F1 06  ................
 0730: 01 03 02 10 F5 80 03 03  10 F6 80 03 04 10 F7 80  ................
 0740: 48 F8 80 23 46 01 38 BF  80 77 F9 80 E1 80 4E 00  H..#F.8..w....N.
-0750: 9E F1 06 01 29 01 9E F1  06 01 01 29 02 9E F1 06  ....)......)....
-0760: 01 07 29 03 A2 F1 06 01  02 29 04 A3 F1 06 01 02  ..)......)......
-0770: 29 0A 9E F1 06 01 02 37  FA 80 FB 80 FC 80 FD 80  )......7........
-0780: 4E 00 9E F1 06 01 4E 00  A2 F1 06 01 4E 00 A3 F1  N.....N.....N...
-0790: 06 01 80 9E F1 06 01 80  A2 F1 06 01 80 A3 F1 06  ................
+0750: 9D F1 06 01 29 01 9D F1  06 01 01 29 02 9D F1 06  ....)......)....
+0760: 01 07 29 03 A1 F1 06 01  02 29 04 A2 F1 06 01 02  ..)......)......
+0770: 29 0A 9D F1 06 01 02 37  FA 80 FB 80 FC 80 FD 80  )......7........
+0780: 4E 00 9D F1 06 01 4E 00  A1 F1 06 01 4E 00 A2 F1  N.....N.....N...
+0790: 06 01 80 9D F1 06 01 80  A1 F1 06 01 80 A2 F1 06  ................
 07A0: 01 5C 00 FE 80 5C 01 FE  80 9A 45 C6 80 F8 FF FF  .\...\....E.....
 07B0: 7F F8 FF FF 7F 73 30 30  37 44 80 1C CB 80 1A 1C  .....s007D......
-07C0: 1B 27 05 9E F1 06 01 08  1C CE 80 79 00 F0 FF FF  .'.........y....
-07D0: 7F 9E F1 06 01 1C FF 80  45 CD 80 F0 FF FF 7F F0  ........E.......
+07C0: 1B 27 05 9D F1 06 01 08  1C CE 80 79 00 F0 FF FF  .'.........y....
+07D0: 7F 9D F1 06 01 1C FF 80  45 CD 80 F0 FF FF 7F F0  ........E.......
 07E0: FF FF 7F 6F 76 6C 32 44  80 52 C6 80 F8 FF FF 7F  ...ovl2D.R......
 07F0: F8 FF FF 7F 73 30 30 37  45 C6 80 F8 FF FF 7F F8  ....s007E.......
 0800: FF FF 7F 73 30 30 38 44  80 1C CE 80 4A F0 FF FF  ...s008D....J...
-0810: 7F A2 F1 06 01 27 05 A2  F1 06 01 03 1C CE 80 6E  .....'.........n
-0820: F0 FF FF 7F 44 80 99 F0  FF FF 7F 1C CE 80 4A 9E  ....D.........J.
-0830: F1 06 01 A2 F1 06 01 2A  05 A2 F1 06 01 1C CC 80  .......*........
+0810: 7F A1 F1 06 01 27 05 A1  F1 06 01 03 1C CE 80 6E  .....'.........n
+0820: F0 FF FF 7F 44 80 99 F0  FF FF 7F 1C CE 80 4A 9D  ....D.........J.
+0830: F1 06 01 A1 F1 06 01 2A  05 A1 F1 06 01 1C CC 80  .......*........
 0840: 52 C6 80 F8 FF FF 7F F8  FF FF 7F 73 30 30 38 45  R..........s008E
 0850: C6 80 F8 FF FF 7F F8 FF  FF 7F 73 30 31 30 44 80  ..........s010D.
-0860: 1C CC 80 79 00 A2 F1 06  01 9E F1 06 01 1C CC 80  ...y............
-0870: 2B A2 F1 06 01 00 81 23  45 CD 80 F0 FF FF 7F F0  +......#E.......
+0860: 1C CC 80 79 00 A1 F1 06  01 9D F1 06 01 1C CC 80  ...y............
+0870: 2B A1 F1 06 01 00 81 23  45 CD 80 F0 FF FF 7F F0  +......#E.......
 0880: FF FF 7F 6F 76 6C 32 44  80 52 C6 80 F8 FF FF 7F  ...ovl2D.R......
-0890: F8 FF FF 7F 73 30 31 30  29 07 9F F1 06 01 03 4E  ....s010)......N
-08A0: 00 9F F1 06 01 80 9F F1  06 01 45 C6 80 F8 FF FF  ..........E.....
-08B0: 7F F8 FF FF 7F 73 30 30  39 44 80 27 06 9E F1 06  .....s009D.'....
-08C0: 01 09 79 00 9E F1 06 01  A2 F1 06 01 1C 09 80 1A  ..y.............
-08D0: 76 30 02 08 00 04 80 80  E5 08 2B 9E F1 06 01 01  v0........+.....
-08E0: 81 23 01 B6 09 02 08 00  9A 80 80 F8 08 2B 9E F1  .#...........+..
+0890: F8 FF FF 7F 73 30 31 30  29 07 9E F1 06 01 03 4E  ....s010)......N
+08A0: 00 9E F1 06 01 80 9E F1  06 01 45 C6 80 F8 FF FF  ..........E.....
+08B0: 7F F8 FF FF 7F 73 30 30  39 44 80 27 06 9D F1 06  .....s009D.'....
+08C0: 01 09 79 00 9D F1 06 01  A1 F1 06 01 1C 09 80 1A  ..y.............
+08D0: 76 30 02 08 00 04 80 80  E5 08 2B 9D F1 06 01 01  v0........+.....
+08E0: 81 23 01 B6 09 02 08 00  9A 80 80 F8 08 2B 9D F1  .#...........+..
 08F0: 06 01 02 81 23 01 B6 09  02 08 00 9F 80 80 0B 09  ....#...........
-0900: 2B 9E F1 06 01 03 81 23  01 B6 09 02 08 00 A3 80  +......#........
-0910: 80 1E 09 2B 9E F1 06 01  04 81 23 01 B6 09 02 08  ...+......#.....
-0920: 00 A7 80 80 31 09 2B 9E  F1 06 01 05 81 23 01 B6  ....1.+......#..
-0930: 09 02 08 00 AB 80 80 44  09 2B 9E F1 06 01 06 81  .......D.+......
-0940: 23 01 B6 09 02 08 00 AC  80 80 57 09 2B 9E F1 06  #.........W.+...
+0900: 2B 9D F1 06 01 03 81 23  01 B6 09 02 08 00 A3 80  +......#........
+0910: 80 1E 09 2B 9D F1 06 01  04 81 23 01 B6 09 02 08  ...+......#.....
+0920: 00 A7 80 80 31 09 2B 9D  F1 06 01 05 81 23 01 B6  ....1.+......#..
+0930: 09 02 08 00 AB 80 80 44  09 2B 9D F1 06 01 06 81  .......D.+......
+0940: 23 01 B6 09 02 08 00 AC  80 80 57 09 2B 9D F1 06  #.........W.+...
 0950: 01 07 81 23 01 B6 09 02  08 00 B0 80 80 6A 09 2B  ...#.........j.+
-0960: 9E F1 06 01 08 81 23 01  B6 09 02 08 00 C7 80 80  ......#.........
-0970: 7D 09 2B 9E F1 06 01 09  81 23 01 B6 09 02 08 00  }.+......#......
-0980: 72 80 80 90 09 2B 9E F1  06 01 0A 81 23 01 B6 09  r....+......#...
-0990: 02 08 00 DF 80 80 A3 09  2B 9E F1 06 01 0B 81 23  ........+......#
-09A0: 01 B6 09 02 08 00 E1 80  80 B6 09 2B 9E F1 06 01  ...........+....
-09B0: 0C 81 23 01 B6 09 2A 06  9E F1 06 01 1C 09 80 4A  ..#...*........J
-09C0: 9E F1 06 01 A2 F1 06 01  1C CC 80 52 C6 80 F8 FF  ...........R....
+0960: 9D F1 06 01 08 81 23 01  B6 09 02 08 00 C7 80 80  ......#.........
+0970: 7D 09 2B 9D F1 06 01 09  81 23 01 B6 09 02 08 00  }.+......#......
+0980: 72 80 80 90 09 2B 9D F1  06 01 0A 81 23 01 B6 09  r....+......#...
+0990: 02 08 00 DF 80 80 A3 09  2B 9D F1 06 01 0B 81 23  ........+......#
+09A0: 01 B6 09 02 08 00 E1 80  80 B6 09 2B 9D F1 06 01  ...........+....
+09B0: 0C 81 23 01 B6 09 2A 06  9D F1 06 01 1C 09 80 4A  ..#...*........J
+09C0: 9D F1 06 01 A1 F1 06 01  1C CC 80 52 C6 80 F8 FF  ...........R....
 09D0: FF 7F F8 FF FF 7F 73 30  30 39 45 C6 80 F8 FF FF  ......s009E.....
-09E0: 7F F8 FF FF 7F 73 30 31  31 44 80 1C 09 80 4A A2  .....s011D....J.
-09F0: F1 06 01 9E F1 06 01 1C  CC 80 2B A2 F1 06 01 0D  ..........+.....
-0A00: 81 23 1C CC 80 62 9F 80  9F F1 06 01 9F F1 06 01  .#...b..........
-0A10: 6D 61 69 6E 44 80 1C CE  80 6E 9E F1 06 01 AB 80  mainD....n......
-0A20: 99 9E F1 06 01 1A 76 30  02 08 00 04 80 80 3B 0A  ......v0......;.
-0A30: 2B 9E F1 06 01 0E 81 23  01 0C 0B 02 08 00 9A 80  +......#........
-0A40: 80 4E 0A 2B 9E F1 06 01  0F 81 23 01 0C 0B 02 08  .N.+......#.....
-0A50: 00 9F 80 80 61 0A 2B 9E  F1 06 01 10 81 23 01 0C  ....a.+......#..
-0A60: 0B 02 08 00 A3 80 80 74  0A 2B 9E F1 06 01 11 81  .......t.+......
-0A70: 23 01 0C 0B 02 08 00 A7  80 80 87 0A 2B 9E F1 06  #...........+...
+09E0: 7F F8 FF FF 7F 73 30 31  31 44 80 1C 09 80 4A A1  .....s011D....J.
+09F0: F1 06 01 9D F1 06 01 1C  CC 80 2B A1 F1 06 01 0D  ..........+.....
+0A00: 81 23 1C CC 80 62 9F 80  9E F1 06 01 9E F1 06 01  .#...b..........
+0A10: 6D 61 69 6E 44 80 1C CE  80 6E 9D F1 06 01 AB 80  mainD....n......
+0A20: 99 9D F1 06 01 1A 76 30  02 08 00 04 80 80 3B 0A  ......v0......;.
+0A30: 2B 9D F1 06 01 0E 81 23  01 0C 0B 02 08 00 9A 80  +......#........
+0A40: 80 4E 0A 2B 9D F1 06 01  0F 81 23 01 0C 0B 02 08  .N.+......#.....
+0A50: 00 9F 80 80 61 0A 2B 9D  F1 06 01 10 81 23 01 0C  ....a.+......#..
+0A60: 0B 02 08 00 A3 80 80 74  0A 2B 9D F1 06 01 11 81  .......t.+......
+0A70: 23 01 0C 0B 02 08 00 A7  80 80 87 0A 2B 9D F1 06  #...........+...
 0A80: 01 12 81 23 01 0C 0B 02  08 00 AB 80 80 9A 0A 2B  ...#...........+
-0A90: 9E F1 06 01 13 81 23 01  0C 0B 02 08 00 AC 80 80  ......#.........
-0AA0: AD 0A 2B 9E F1 06 01 14  81 23 01 0C 0B 02 08 00  ..+......#......
-0AB0: B0 80 80 C0 0A 2B 9E F1  06 01 15 81 23 01 0C 0B  .....+......#...
-0AC0: 02 08 00 C7 80 80 D3 0A  2B 9E F1 06 01 16 81 23  ........+......#
-0AD0: 01 0C 0B 02 08 00 72 80  80 E6 0A 2B 9E F1 06 01  ......r....+....
-0AE0: 17 81 23 01 0C 0B 02 08  00 DF 80 80 F9 0A 2B 9E  ..#...........+.
+0A90: 9D F1 06 01 13 81 23 01  0C 0B 02 08 00 AC 80 80  ......#.........
+0AA0: AD 0A 2B 9D F1 06 01 14  81 23 01 0C 0B 02 08 00  ..+......#......
+0AB0: B0 80 80 C0 0A 2B 9D F1  06 01 15 81 23 01 0C 0B  .....+......#...
+0AC0: 02 08 00 C7 80 80 D3 0A  2B 9D F1 06 01 16 81 23  ........+......#
+0AD0: 01 0C 0B 02 08 00 72 80  80 E6 0A 2B 9D F1 06 01  ......r....+....
+0AE0: 17 81 23 01 0C 0B 02 08  00 DF 80 80 F9 0A 2B 9D  ..#...........+.
 0AF0: F1 06 01 18 81 23 01 0C  0B 02 08 00 E1 80 80 0C  .....#..........
-0B00: 0B 2B 9E F1 06 01 19 81  23 01 0C 0B 1A 76 30 02  .+......#....v0.
-0B10: 08 00 04 80 80 22 0B 2B  9E F1 06 01 1A 81 23 01  .....".+......#.
-0B20: F3 0B 02 08 00 9A 80 80  35 0B 2B 9E F1 06 01 1B  ........5.+.....
-0B30: 81 23 01 F3 0B 02 08 00  9F 80 80 48 0B 2B 9E F1  .#.........H.+..
+0B00: 0B 2B 9D F1 06 01 19 81  23 01 0C 0B 1A 76 30 02  .+......#....v0.
+0B10: 08 00 04 80 80 22 0B 2B  9D F1 06 01 1A 81 23 01  .....".+......#.
+0B20: F3 0B 02 08 00 9A 80 80  35 0B 2B 9D F1 06 01 1B  ........5.+.....
+0B30: 81 23 01 F3 0B 02 08 00  9F 80 80 48 0B 2B 9D F1  .#.........H.+..
 0B40: 06 01 1C 81 23 01 F3 0B  02 08 00 A3 80 80 5B 0B  ....#.........[.
-0B50: 2B 9E F1 06 01 1D 81 23  01 F3 0B 02 08 00 A7 80  +......#........
-0B60: 80 6E 0B 2B 9E F1 06 01  1E 81 23 01 F3 0B 02 08  .n.+......#.....
-0B70: 00 AB 80 80 81 0B 2B 9E  F1 06 01 1F 81 23 01 F3  ......+......#..
-0B80: 0B 02 08 00 AC 80 80 94  0B 2B 9E F1 06 01 20 81  .........+.... .
-0B90: 23 01 F3 0B 02 08 00 B0  80 80 A7 0B 2B 9E F1 06  #...........+...
+0B50: 2B 9D F1 06 01 1D 81 23  01 F3 0B 02 08 00 A7 80  +......#........
+0B60: 80 6E 0B 2B 9D F1 06 01  1E 81 23 01 F3 0B 02 08  .n.+......#.....
+0B70: 00 AB 80 80 81 0B 2B 9D  F1 06 01 1F 81 23 01 F3  ......+......#..
+0B80: 0B 02 08 00 AC 80 80 94  0B 2B 9D F1 06 01 20 81  .........+.... .
+0B90: 23 01 F3 0B 02 08 00 B0  80 80 A7 0B 2B 9D F1 06  #...........+...
 0BA0: 01 21 81 23 01 F3 0B 02  08 00 C7 80 80 BA 0B 2B  .!.#...........+
-0BB0: 9E F1 06 01 22 81 23 01  F3 0B 02 08 00 72 80 80  ....".#......r..
-0BC0: CD 0B 2B 9E F1 06 01 23  81 23 01 F3 0B 02 08 00  ..+....#.#......
-0BD0: DF 80 80 E0 0B 2B 9E F1  06 01 24 81 23 01 F3 0B  .....+....$.#...
-0BE0: 02 08 00 E1 80 80 F3 0B  2B 9E F1 06 01 25 81 23  ........+....%.#
+0BB0: 9D F1 06 01 22 81 23 01  F3 0B 02 08 00 72 80 80  ....".#......r..
+0BC0: CD 0B 2B 9D F1 06 01 23  81 23 01 F3 0B 02 08 00  ..+....#.#......
+0BD0: DF 80 80 E0 0B 2B 9D F1  06 01 24 81 23 01 F3 0B  .....+....$.#...
+0BE0: 02 08 00 E1 80 80 F3 0B  2B 9D F1 06 01 25 81 23  ........+....%.#
 0BF0: 01 F3 0B 52 C6 80 F8 FF  FF 7F F8 FF FF 7F 73 30  ...R..........s0
 0C00: 31 31 45 C6 80 F8 FF FF  7F F8 FF FF 7F 73 30 31  11E..........s01
 0C10: 32 44 80 1C CC 80 1A 76  30 02 08 00 04 80 80 2C  2D.....v0......,
-0C20: 0C 2B 9E F1 06 01 26 81  23 01 FD 0C 02 08 00 9A  .+....&.#.......
-0C30: 80 80 3F 0C 2B 9E F1 06  01 27 81 23 01 FD 0C 02  ..?.+....'.#....
-0C40: 08 00 9F 80 80 52 0C 2B  9E F1 06 01 28 81 23 01  .....R.+....(.#.
-0C50: FD 0C 02 08 00 A3 80 80  65 0C 2B 9E F1 06 01 29  ........e.+....)
-0C60: 81 23 01 FD 0C 02 08 00  A7 80 80 78 0C 2B 9E F1  .#.........x.+..
+0C20: 0C 2B 9D F1 06 01 26 81  23 01 FD 0C 02 08 00 9A  .+....&.#.......
+0C30: 80 80 3F 0C 2B 9D F1 06  01 27 81 23 01 FD 0C 02  ..?.+....'.#....
+0C40: 08 00 9F 80 80 52 0C 2B  9D F1 06 01 28 81 23 01  .....R.+....(.#.
+0C50: FD 0C 02 08 00 A3 80 80  65 0C 2B 9D F1 06 01 29  ........e.+....)
+0C60: 81 23 01 FD 0C 02 08 00  A7 80 80 78 0C 2B 9D F1  .#.........x.+..
 0C70: 06 01 2A 81 23 01 FD 0C  02 08 00 AB 80 80 8B 0C  ..*.#...........
-0C80: 2B 9E F1 06 01 2B 81 23  01 FD 0C 02 08 00 AC 80  +....+.#........
-0C90: 80 9E 0C 2B 9E F1 06 01  2C 81 23 01 FD 0C 02 08  ...+....,.#.....
-0CA0: 00 B0 80 80 B1 0C 2B 9E  F1 06 01 2D 81 23 01 FD  ......+....-.#..
-0CB0: 0C 02 08 00 C7 80 80 C4  0C 2B 9E F1 06 01 2E 81  .........+......
-0CC0: 23 01 FD 0C 02 08 00 72  80 80 D7 0C 2B 9E F1 06  #......r....+...
+0C80: 2B 9D F1 06 01 2B 81 23  01 FD 0C 02 08 00 AC 80  +....+.#........
+0C90: 80 9E 0C 2B 9D F1 06 01  2C 81 23 01 FD 0C 02 08  ...+....,.#.....
+0CA0: 00 B0 80 80 B1 0C 2B 9D  F1 06 01 2D 81 23 01 FD  ......+....-.#..
+0CB0: 0C 02 08 00 C7 80 80 C4  0C 2B 9D F1 06 01 2E 81  .........+......
+0CC0: 23 01 FD 0C 02 08 00 72  80 80 D7 0C 2B 9D F1 06  #......r....+...
 0CD0: 01 2F 81 23 01 FD 0C 02  08 00 DF 80 80 EA 0C 2B  ./.#...........+
-0CE0: 9E F1 06 01 30 81 23 01  FD 0C 02 08 00 E1 80 80  ....0.#.........
-0CF0: FD 0C 2B 9E F1 06 01 31  81 23 01 FD 0C 1C CE 80  ..+....1.#......
+0CE0: 9D F1 06 01 30 81 23 01  FD 0C 02 08 00 E1 80 80  ....0.#.........
+0CF0: FD 0C 2B 9D F1 06 01 31  81 23 01 FD 0C 1C CE 80  ..+....1.#......
 0D00: 1A E9 1A 52 C6 80 F8 FF  FF 7F F8 FF FF 7F 73 30  ...R..........s0
 0D10: 31 32 1C 32 81 45 C6 80  F8 FF FF 7F F8 FF FF 7F  12.2.E..........
 0D20: 73 30 31 33 44 80 1A 2E  1B 1C CC 80 1A 95 2F 02  s013D........./.
-0D30: 0B 00 44 80 80 49 0D 66  C7 80 9E F1 06 01 9E F1  ..D..I.f........
+0D30: 0B 00 44 80 80 49 0D 66  C7 80 9D F1 06 01 9D F1  ..D..I.f........
 0D40: 06 01 74 77 61 30 01 FF  0D 02 0B 00 04 80 80 63  ..twa0.........c
-0D50: 0D 66 33 81 9E F1 06 01  9E F1 06 01 74 6C 6B 30  .f3.........tlk0
-0D60: 01 FF 0D 02 0B 00 9A 80  80 7D 0D 66 34 81 9E F1  .........}.f4...
-0D70: 06 01 9E F1 06 01 74 77  61 30 01 FF 0D 02 0B 00  ......twa0......
-0D80: 9F 80 80 97 0D 66 35 81  9E F1 06 01 9E F1 06 01  .....f5.........
+0D50: 0D 66 33 81 9D F1 06 01  9D F1 06 01 74 6C 6B 30  .f3.........tlk0
+0D60: 01 FF 0D 02 0B 00 9A 80  80 7D 0D 66 34 81 9D F1  .........}.f4...
+0D70: 06 01 9D F1 06 01 74 77  61 30 01 FF 0D 02 0B 00  ......twa0......
+0D80: 9F 80 80 97 0D 66 35 81  9D F1 06 01 9D F1 06 01  .....f5.........
 0D90: 74 6C 6B 30 01 FF 0D 02  0B 00 A3 80 80 B1 0D 66  tlk0...........f
-0DA0: 36 81 9E F1 06 01 9E F1  06 01 74 6C 6B 30 01 FF  6.........tlk0..
-0DB0: 0D 02 0B 00 A7 80 80 CB  0D 66 36 81 9E F1 06 01  .........f6.....
-0DC0: 9E F1 06 01 74 6C 6B 30  01 FF 0D 02 0B 00 AB 80  ....tlk0........
-0DD0: 80 E5 0D 66 37 81 9E F1  06 01 9E F1 06 01 74 6C  ...f7.........tl
+0DA0: 36 81 9D F1 06 01 9D F1  06 01 74 6C 6B 30 01 FF  6.........tlk0..
+0DB0: 0D 02 0B 00 A7 80 80 CB  0D 66 36 81 9D F1 06 01  .........f6.....
+0DC0: 9D F1 06 01 74 6C 6B 30  01 FF 0D 02 0B 00 AB 80  ....tlk0........
+0DD0: 80 E5 0D 66 37 81 9D F1  06 01 9D F1 06 01 74 6C  ...f7.........tl
 0DE0: 6B 30 01 FF 0D 02 0B 00  AC 80 80 FF 0D 66 38 81  k0...........f8.
-0DF0: 9E F1 06 01 9E F1 06 01  74 77 61 30 01 FF 0D 1C  ........twa0....
-0E00: CC 80 1A 76 30 02 08 00  04 80 80 18 0E 2B 9E F1  ...v0........+..
+0DF0: 9D F1 06 01 9D F1 06 01  74 77 61 30 01 FF 0D 1C  ........twa0....
+0E00: CC 80 1A 76 30 02 08 00  04 80 80 18 0E 2B 9D F1  ...v0........+..
 0E10: 06 01 39 81 23 01 E9 0E  02 08 00 9A 80 80 2B 0E  ..9.#.........+.
-0E20: 2B 9E F1 06 01 3A 81 23  01 E9 0E 02 08 00 9F 80  +....:.#........
-0E30: 80 3E 0E 2B 9E F1 06 01  3B 81 23 01 E9 0E 02 08  .>.+....;.#.....
-0E40: 00 A3 80 80 51 0E 2B 9E  F1 06 01 3C 81 23 01 E9  ....Q.+....<.#..
-0E50: 0E 02 08 00 A7 80 80 64  0E 2B 9E F1 06 01 3D 81  .......d.+....=.
-0E60: 23 01 E9 0E 02 08 00 AB  80 80 77 0E 2B 9E F1 06  #.........w.+...
+0E20: 2B 9D F1 06 01 3A 81 23  01 E9 0E 02 08 00 9F 80  +....:.#........
+0E30: 80 3E 0E 2B 9D F1 06 01  3B 81 23 01 E9 0E 02 08  .>.+....;.#.....
+0E40: 00 A3 80 80 51 0E 2B 9D  F1 06 01 3C 81 23 01 E9  ....Q.+....<.#..
+0E50: 0E 02 08 00 A7 80 80 64  0E 2B 9D F1 06 01 3D 81  .......d.+....=.
+0E60: 23 01 E9 0E 02 08 00 AB  80 80 77 0E 2B 9D F1 06  #.........w.+...
 0E70: 01 3E 81 23 01 E9 0E 02  08 00 AC 80 80 8A 0E 2B  .>.#...........+
-0E80: 9E F1 06 01 3F 81 23 01  E9 0E 02 08 00 B0 80 80  ....?.#.........
-0E90: 9D 0E 2B 9E F1 06 01 40  81 23 01 E9 0E 02 08 00  ..+....@.#......
-0EA0: C7 80 80 B0 0E 2B 9E F1  06 01 41 81 23 01 E9 0E  .....+....A.#...
-0EB0: 02 08 00 72 80 80 C3 0E  2B 9E F1 06 01 42 81 23  ...r....+....B.#
-0EC0: 01 E9 0E 02 08 00 DF 80  80 D6 0E 2B 9E F1 06 01  ...........+....
-0ED0: 43 81 23 01 E9 0E 02 08  00 E1 80 80 E9 0E 2B 9E  C.#...........+.
-0EE0: F1 06 01 44 81 23 01 E9  0E 1C CC 80 4A A2 F1 06  ...D.#......J...
-0EF0: 01 A0 F1 06 01 1C CE 80  2B A2 F1 06 01 45 81 23  ........+....E.#
+0E80: 9D F1 06 01 3F 81 23 01  E9 0E 02 08 00 B0 80 80  ....?.#.........
+0E90: 9D 0E 2B 9D F1 06 01 40  81 23 01 E9 0E 02 08 00  ..+....@.#......
+0EA0: C7 80 80 B0 0E 2B 9D F1  06 01 41 81 23 01 E9 0E  .....+....A.#...
+0EB0: 02 08 00 72 80 80 C3 0E  2B 9D F1 06 01 42 81 23  ...r....+....B.#
+0EC0: 01 E9 0E 02 08 00 DF 80  80 D6 0E 2B 9D F1 06 01  ...........+....
+0ED0: 43 81 23 01 E9 0E 02 08  00 E1 80 80 E9 0E 2B 9D  C.#...........+.
+0EE0: F1 06 01 44 81 23 01 E9  0E 1C CC 80 4A A1 F1 06  ...D.#......J...
+0EF0: 01 9F F1 06 01 1C CE 80  2B A1 F1 06 01 45 81 23  ........+....E.#
 0F00: 1C CC 80 1A 95 2F 02 0B  00 44 80 80 20 0F 66 C7  ...../...D.. .f.
-0F10: 80 9E F1 06 01 9E F1 06  01 74 77 61 31 01 D6 0F  .........twa1...
-0F20: 02 0B 00 04 80 80 3A 0F  66 33 81 9E F1 06 01 9E  ......:.f3......
+0F10: 80 9D F1 06 01 9D F1 06  01 74 77 61 31 01 D6 0F  .........twa1...
+0F20: 02 0B 00 04 80 80 3A 0F  66 33 81 9D F1 06 01 9D  ......:.f3......
 0F30: F1 06 01 74 6C 6B 31 01  D6 0F 02 0B 00 9A 80 80  ...tlk1.........
-0F40: 54 0F 66 34 81 9E F1 06  01 9E F1 06 01 74 77 61  T.f4.........twa
-0F50: 31 01 D6 0F 02 0B 00 9F  80 80 6E 0F 66 35 81 9E  1.........n.f5..
-0F60: F1 06 01 9E F1 06 01 74  6C 6B 31 01 D6 0F 02 0B  .......tlk1.....
-0F70: 00 A3 80 80 88 0F 66 36  81 9E F1 06 01 9E F1 06  ......f6........
+0F40: 54 0F 66 34 81 9D F1 06  01 9D F1 06 01 74 77 61  T.f4.........twa
+0F50: 31 01 D6 0F 02 0B 00 9F  80 80 6E 0F 66 35 81 9D  1.........n.f5..
+0F60: F1 06 01 9D F1 06 01 74  6C 6B 31 01 D6 0F 02 0B  .......tlk1.....
+0F70: 00 A3 80 80 88 0F 66 36  81 9D F1 06 01 9D F1 06  ......f6........
 0F80: 01 74 6C 6B 31 01 D6 0F  02 0B 00 A7 80 80 A2 0F  .tlk1...........
-0F90: 66 36 81 9E F1 06 01 9E  F1 06 01 74 6C 6B 31 01  f6.........tlk1.
-0FA0: D6 0F 02 0B 00 AB 80 80  BC 0F 66 37 81 9E F1 06  ..........f7....
-0FB0: 01 9E F1 06 01 74 6C 6B  31 01 D6 0F 02 0B 00 AC  .....tlk1.......
-0FC0: 80 80 D6 0F 66 38 81 9E  F1 06 01 9E F1 06 01 74  ....f8.........t
+0F90: 66 36 81 9D F1 06 01 9D  F1 06 01 74 6C 6B 31 01  f6.........tlk1.
+0FA0: D6 0F 02 0B 00 AB 80 80  BC 0F 66 37 81 9D F1 06  ..........f7....
+0FB0: 01 9D F1 06 01 74 6C 6B  31 01 D6 0F 02 0B 00 AC  .....tlk1.......
+0FC0: 80 80 D6 0F 66 38 81 9D  F1 06 01 9D F1 06 01 74  ....f8.........t
 0FD0: 77 61 31 01 D6 0F 1A 76  30 02 08 00 04 80 80 EC  wa1....v0.......
-0FE0: 0F 2B 9E F1 06 01 46 81  23 01 BD 10 02 08 00 9A  .+....F.#.......
-0FF0: 80 80 FF 0F 2B 9E F1 06  01 47 81 23 01 BD 10 02  ....+....G.#....
-1000: 08 00 9F 80 80 12 10 2B  9E F1 06 01 48 81 23 01  .......+....H.#.
-1010: BD 10 02 08 00 A3 80 80  25 10 2B 9E F1 06 01 49  ........%.+....I
-1020: 81 23 01 BD 10 02 08 00  A7 80 80 38 10 2B 9E F1  .#.........8.+..
+0FE0: 0F 2B 9D F1 06 01 46 81  23 01 BD 10 02 08 00 9A  .+....F.#.......
+0FF0: 80 80 FF 0F 2B 9D F1 06  01 47 81 23 01 BD 10 02  ....+....G.#....
+1000: 08 00 9F 80 80 12 10 2B  9D F1 06 01 48 81 23 01  .......+....H.#.
+1010: BD 10 02 08 00 A3 80 80  25 10 2B 9D F1 06 01 49  ........%.+....I
+1020: 81 23 01 BD 10 02 08 00  A7 80 80 38 10 2B 9D F1  .#.........8.+..
 1030: 06 01 4A 81 23 01 BD 10  02 08 00 AB 80 80 4B 10  ..J.#.........K.
-1040: 2B 9E F1 06 01 4B 81 23  01 BD 10 02 08 00 AC 80  +....K.#........
-1050: 80 5E 10 2B 9E F1 06 01  4C 81 23 01 BD 10 02 08  .^.+....L.#.....
-1060: 00 B0 80 80 71 10 2B 9E  F1 06 01 4D 81 23 01 BD  ....q.+....M.#..
-1070: 10 02 08 00 C7 80 80 84  10 2B 9E F1 06 01 4E 81  .........+....N.
-1080: 23 01 BD 10 02 08 00 72  80 80 97 10 2B 9E F1 06  #......r....+...
+1040: 2B 9D F1 06 01 4B 81 23  01 BD 10 02 08 00 AC 80  +....K.#........
+1050: 80 5E 10 2B 9D F1 06 01  4C 81 23 01 BD 10 02 08  .^.+....L.#.....
+1060: 00 B0 80 80 71 10 2B 9D  F1 06 01 4D 81 23 01 BD  ....q.+....M.#..
+1070: 10 02 08 00 C7 80 80 84  10 2B 9D F1 06 01 4E 81  .........+....N.
+1080: 23 01 BD 10 02 08 00 72  80 80 97 10 2B 9D F1 06  #......r....+...
 1090: 01 4F 81 23 01 BD 10 02  08 00 DF 80 80 AA 10 2B  .O.#...........+
-10A0: 9E F1 06 01 50 81 23 01  BD 10 02 08 00 E1 80 80  ....P.#.........
-10B0: BD 10 2B 9E F1 06 01 51  81 23 01 BD 10 52 C6 80  ..+....Q.#...R..
+10A0: 9D F1 06 01 50 81 23 01  BD 10 02 08 00 E1 80 80  ....P.#.........
+10B0: BD 10 2B 9D F1 06 01 51  81 23 01 BD 10 52 C6 80  ..+....Q.#...R..
 10C0: F8 FF FF 7F F8 FF FF 7F  73 30 31 33 45 C6 80 F8  ........s013E...
 10D0: FF FF 7F F8 FF FF 7F 73  30 31 34 44 80 1C CC 80  .......s014D....
-10E0: 2B A2 F1 06 01 52 81 23  4A A2 F1 06 01 9E F1 06  +....R.#J.......
-10F0: 01 1C CC 80 2B A2 F1 06  01 53 81 23 52 C6 80 F8  ....+....S.#R...
+10E0: 2B A1 F1 06 01 52 81 23  4A A1 F1 06 01 9D F1 06  +....R.#J.......
+10F0: 01 1C CC 80 2B A1 F1 06  01 53 81 23 52 C6 80 F8  ....+....S.#R...
 1100: FF FF 7F F8 FF FF 7F 73  30 31 34 45 C6 80 F8 FF  .......s014E....
 1110: FF 7F F8 FF FF 7F 73 30  31 35 44 80 1C 09 80 6E  ......s015D....n
-1120: 9E F1 06 01 54 81 99 9E  F1 06 01 1A 76 30 02 08  ....T.......v0..
-1130: 00 04 80 80 41 11 2B 9E  F1 06 01 55 81 23 01 12  ....A.+....U.#..
-1140: 12 02 08 00 9A 80 80 54  11 2B 9E F1 06 01 56 81  .......T.+....V.
-1150: 23 01 12 12 02 08 00 9F  80 80 67 11 2B 9E F1 06  #.........g.+...
+1120: 9D F1 06 01 54 81 99 9D  F1 06 01 1A 76 30 02 08  ....T.......v0..
+1130: 00 04 80 80 41 11 2B 9D  F1 06 01 55 81 23 01 12  ....A.+....U.#..
+1140: 12 02 08 00 9A 80 80 54  11 2B 9D F1 06 01 56 81  .......T.+....V.
+1150: 23 01 12 12 02 08 00 9F  80 80 67 11 2B 9D F1 06  #.........g.+...
 1160: 01 57 81 23 01 12 12 02  08 00 A3 80 80 7A 11 2B  .W.#.........z.+
-1170: 9E F1 06 01 58 81 23 01  12 12 02 08 00 A7 80 80  ....X.#.........
-1180: 8D 11 2B 9E F1 06 01 59  81 23 01 12 12 02 08 00  ..+....Y.#......
-1190: AB 80 80 A0 11 2B 9E F1  06 01 5A 81 23 01 12 12  .....+....Z.#...
-11A0: 02 08 00 AC 80 80 B3 11  2B 9E F1 06 01 5B 81 23  ........+....[.#
-11B0: 01 12 12 02 08 00 B0 80  80 C6 11 2B 9E F1 06 01  ...........+....
-11C0: 5C 81 23 01 12 12 02 08  00 C7 80 80 D9 11 2B 9E  \.#...........+.
+1170: 9D F1 06 01 58 81 23 01  12 12 02 08 00 A7 80 80  ....X.#.........
+1180: 8D 11 2B 9D F1 06 01 59  81 23 01 12 12 02 08 00  ..+....Y.#......
+1190: AB 80 80 A0 11 2B 9D F1  06 01 5A 81 23 01 12 12  .....+....Z.#...
+11A0: 02 08 00 AC 80 80 B3 11  2B 9D F1 06 01 5B 81 23  ........+....[.#
+11B0: 01 12 12 02 08 00 B0 80  80 C6 11 2B 9D F1 06 01  ...........+....
+11C0: 5C 81 23 01 12 12 02 08  00 C7 80 80 D9 11 2B 9D  \.#...........+.
 11D0: F1 06 01 5D 81 23 01 12  12 02 08 00 72 80 80 EC  ...].#......r...
-11E0: 11 2B 9E F1 06 01 5E 81  23 01 12 12 02 08 00 DF  .+....^.#.......
-11F0: 80 80 FF 11 2B 9E F1 06  01 5F 81 23 01 12 12 02  ....+...._.#....
-1200: 08 00 E1 80 80 12 12 2B  9E F1 06 01 60 81 23 01  .......+....`.#.
-1210: 12 12 6E A2 F1 06 01 AC  80 99 A2 F1 06 01 2B A2  ..n...........+.
-1220: F1 06 01 61 81 23 27 08  A2 F1 06 01 04 2B A2 F1  ...a.#'......+..
-1230: 06 01 62 81 23 2A 08 A2  F1 06 01 4A 9E F1 06 01  ..b.#*.....J....
-1240: A2 F1 06 01 1C CC 80 1A  C8 1A 52 C6 80 F8 FF FF  ..........R.....
-1250: 7F F8 FF FF 7F 73 30 31  35 29 09 A2 F1 06 01 05  .....s015)......
-1260: 80 A2 F1 06 01 1C CC 80  6C A2 F1 06 01 63 81 CC  ........l....c..
-1270: 80 4A A2 F1 06 01 A0 F1  06 01 29 0A 9E F1 06 01  .J........).....
+11E0: 11 2B 9D F1 06 01 5E 81  23 01 12 12 02 08 00 DF  .+....^.#.......
+11F0: 80 80 FF 11 2B 9D F1 06  01 5F 81 23 01 12 12 02  ....+...._.#....
+1200: 08 00 E1 80 80 12 12 2B  9D F1 06 01 60 81 23 01  .......+....`.#.
+1210: 12 12 6E A1 F1 06 01 AC  80 99 A1 F1 06 01 2B A1  ..n...........+.
+1220: F1 06 01 61 81 23 27 08  A1 F1 06 01 04 2B A1 F1  ...a.#'......+..
+1230: 06 01 62 81 23 2A 08 A1  F1 06 01 4A 9D F1 06 01  ..b.#*.....J....
+1240: A1 F1 06 01 1C CC 80 1A  C8 1A 52 C6 80 F8 FF FF  ..........R.....
+1250: 7F F8 FF FF 7F 73 30 31  35 29 09 A1 F1 06 01 05  .....s015)......
+1260: 80 A1 F1 06 01 1C CC 80  6C A1 F1 06 01 63 81 CC  ........l....c..
+1270: 80 4A A1 F1 06 01 9F F1  06 01 29 0A 9D F1 06 01  .J........).....
 1280: 0A 1C 0A 80 45 C6 80 F8  FF FF 7F F8 FF FF 7F 73  ....E..........s
-1290: 30 31 36 44 80 1A 1C 1B  79 00 A2 F1 06 01 A0 F1  016D....y.......
-12A0: 06 01 1C 09 80 66 9F 80  A2 F1 06 01 A2 F1 06 01  .....f..........
-12B0: 66 71 30 31 1C 0A 80 66  9F 80 A2 F1 06 01 A2 F1  fq01...f........
+1290: 30 31 36 44 80 1A 1C 1B  79 00 A1 F1 06 01 9F F1  016D....y.......
+12A0: 06 01 1C 09 80 66 9F 80  A1 F1 06 01 A1 F1 06 01  .....f..........
+12B0: 66 71 30 31 1C 0A 80 66  9F 80 A1 F1 06 01 A1 F1  fq01...f........
 12C0: 06 01 66 71 30 32 1C 64  81 45 CD 80 F0 FF FF 7F  ..fq02.d.E......
 12D0: F0 FF FF 7F 6F 76 6C 32  44 80 52 C6 80 F8 FF FF  ....ovl2D.R.....
 12E0: 7F F8 FF FF 7F 73 30 31  36 45 C6 80 F8 FF FF 7F  .....s016E......
 12F0: F8 FF FF 7F 73 30 31 37  44 80 1C 09 80 9F 65 81  ....s017D.....e.
 1300: F8 FF FF 7F F8 FF FF 7F  73 74 72 30 44 80 1C CB  ........str0D...
-1310: 80 29 0C 9F F1 06 01 04  1C 04 80 4A 9E F1 06 01  .).........J....
-1320: 9F F1 06 01 1C 0A 80 45  CD 80 F0 FF FF 7F F0 FF  .......E........
+1310: 80 29 0C 9E F1 06 01 04  1C 04 80 4A 9D F1 06 01  .).........J....
+1320: 9E F1 06 01 1C 0A 80 45  CD 80 F0 FF FF 7F F0 FF  .......E........
 1330: FF 7F 6F 76 6C 32 44 80  52 C6 80 F8 FF FF 7F F8  ..ovl2D.R.......
 1340: FF FF 7F 73 30 31 37 45  C6 80 F8 FF FF 7F F8 FF  ...s017E........
-1350: FF 7F 73 30 31 38 44 80  1C 09 80 9F 66 81 9F F1  ..s018D.....f...
-1360: 06 01 9F F1 06 01 73 74  72 30 44 80 29 09 A2 F1  ......str0D.)...
-1370: 06 01 06 80 A2 F1 06 01  1C 04 80 6C A2 F1 06 01  ...........l....
-1380: 63 81 CC 80 1C CC 80 4A  F0 FF FF 7F 9E F1 06 01  c......J........
-1390: 1C 32 81 4A A2 F1 06 01  9E F1 06 01 1C 32 81 45  .2.J.........2.E
+1350: FF 7F 73 30 31 38 44 80  1C 09 80 9F 66 81 9E F1  ..s018D.....f...
+1360: 06 01 9E F1 06 01 73 74  72 30 44 80 29 09 A1 F1  ......str0D.)...
+1370: 06 01 06 80 A1 F1 06 01  1C 04 80 6C A1 F1 06 01  ...........l....
+1380: 63 81 CC 80 1C CC 80 4A  F0 FF FF 7F 9D F1 06 01  c......J........
+1390: 1C 32 81 4A A1 F1 06 01  9D F1 06 01 1C 32 81 45  .2.J.........2.E
 13A0: CD 80 F0 FF FF 7F F0 FF  FF 7F 6F 76 6C 31 44 80  ..........ovl1D.
 13B0: 52 C6 80 F8 FF FF 7F F8  FF FF 7F 73 30 31 38 45  R..........s018E
 13C0: C6 80 F8 FF FF 7F F8 FF  FF 7F 73 30 31 39 44 80  ..........s019D.
-13D0: 1C 0A 80 9F 67 81 9F F1  06 01 9F F1 06 01 73 74  ....g.........st
+13D0: 1C 0A 80 9F 67 81 9E F1  06 01 9E F1 06 01 73 74  ....g.........st
 13E0: 72 30 44 80 1C 0A 80 1A  76 30 02 08 00 04 80 80  r0D.....v0......
-13F0: FD 13 2B 9E F1 06 01 68  81 23 01 CE 14 02 08 00  ..+....h.#......
-1400: 9A 80 80 10 14 2B 9E F1  06 01 69 81 23 01 CE 14  .....+....i.#...
-1410: 02 08 00 9F 80 80 23 14  2B 9E F1 06 01 6A 81 23  ......#.+....j.#
-1420: 01 CE 14 02 08 00 A3 80  80 36 14 2B 9E F1 06 01  .........6.+....
-1430: 6B 81 23 01 CE 14 02 08  00 A7 80 80 49 14 2B 9E  k.#.........I.+.
+13F0: FD 13 2B 9D F1 06 01 68  81 23 01 CE 14 02 08 00  ..+....h.#......
+1400: 9A 80 80 10 14 2B 9D F1  06 01 69 81 23 01 CE 14  .....+....i.#...
+1410: 02 08 00 9F 80 80 23 14  2B 9D F1 06 01 6A 81 23  ......#.+....j.#
+1420: 01 CE 14 02 08 00 A3 80  80 36 14 2B 9D F1 06 01  .........6.+....
+1430: 6B 81 23 01 CE 14 02 08  00 A7 80 80 49 14 2B 9D  k.#.........I.+.
 1440: F1 06 01 6C 81 23 01 CE  14 02 08 00 AB 80 80 5C  ...l.#.........\
-1450: 14 2B 9E F1 06 01 6D 81  23 01 CE 14 02 08 00 AC  .+....m.#.......
-1460: 80 80 6F 14 2B 9E F1 06  01 6E 81 23 01 CE 14 02  ..o.+....n.#....
-1470: 08 00 B0 80 80 82 14 2B  9E F1 06 01 6F 81 23 01  .......+....o.#.
-1480: CE 14 02 08 00 C7 80 80  95 14 2B 9E F1 06 01 70  ..........+....p
-1490: 81 23 01 CE 14 02 08 00  72 80 80 A8 14 2B 9E F1  .#......r....+..
+1450: 14 2B 9D F1 06 01 6D 81  23 01 CE 14 02 08 00 AC  .+....m.#.......
+1460: 80 80 6F 14 2B 9D F1 06  01 6E 81 23 01 CE 14 02  ..o.+....n.#....
+1470: 08 00 B0 80 80 82 14 2B  9D F1 06 01 6F 81 23 01  .......+....o.#.
+1480: CE 14 02 08 00 C7 80 80  95 14 2B 9D F1 06 01 70  ..........+....p
+1490: 81 23 01 CE 14 02 08 00  72 80 80 A8 14 2B 9D F1  .#......r....+..
 14A0: 06 01 71 81 23 01 CE 14  02 08 00 DF 80 80 BB 14  ..q.#...........
-14B0: 2B 9E F1 06 01 72 81 23  01 CE 14 02 08 00 E1 80  +....r.#........
-14C0: 80 CE 14 2B 9E F1 06 01  73 81 23 01 CE 14 66 A7  ...+....s.#...f.
-14D0: 80 A2 F1 06 01 A2 F1 06  01 74 6C 62 30 1C CC 80  .........tlb0...
-14E0: 2B A2 F1 06 01 74 81 23  2B A2 F1 06 01 75 81 23  +....t.#+....u.#
-14F0: 66 A7 80 A2 F1 06 01 A2  F1 06 01 74 6C 62 31 1C  f..........tlb1.
+14B0: 2B 9D F1 06 01 72 81 23  01 CE 14 02 08 00 E1 80  +....r.#........
+14C0: 80 CE 14 2B 9D F1 06 01  73 81 23 01 CE 14 66 A7  ...+....s.#...f.
+14D0: 80 A1 F1 06 01 A1 F1 06  01 74 6C 62 30 1C CC 80  .........tlb0...
+14E0: 2B A1 F1 06 01 74 81 23  2B A1 F1 06 01 75 81 23  +....t.#+....u.#
+14F0: 66 A7 80 A1 F1 06 01 A1  F1 06 01 74 6C 62 31 1C  f..........tlb1.
 1500: CC 80 45 CD 80 F0 FF FF  7F F0 FF FF 7F 6F 76 6C  ..E..........ovl
 1510: 32 44 80 52 C6 80 F8 FF  FF 7F F8 FF FF 7F 73 30  2D.R..........s0
 1520: 31 39 45 C6 80 F8 FF FF  7F F8 FF FF 7F 73 30 32  19E..........s02
-1530: 30 44 80 4A 9E F1 06 01  A2 F1 06 01 1C CC 80 1A  0D.J............
-1540: 76 30 02 08 00 04 80 80  55 15 2B 9E F1 06 01 76  v0......U.+....v
-1550: 81 23 01 26 16 02 08 00  9A 80 80 68 15 2B 9E F1  .#.&.......h.+..
+1530: 30 44 80 4A 9D F1 06 01  A1 F1 06 01 1C CC 80 1A  0D.J............
+1540: 76 30 02 08 00 04 80 80  55 15 2B 9D F1 06 01 76  v0......U.+....v
+1550: 81 23 01 26 16 02 08 00  9A 80 80 68 15 2B 9D F1  .#.&.......h.+..
 1560: 06 01 77 81 23 01 26 16  02 08 00 9F 80 80 7B 15  ..w.#.&.......{.
-1570: 2B 9E F1 06 01 78 81 23  01 26 16 02 08 00 A3 80  +....x.#.&......
-1580: 80 8E 15 2B 9E F1 06 01  79 81 23 01 26 16 02 08  ...+....y.#.&...
-1590: 00 A7 80 80 A1 15 2B 9E  F1 06 01 7A 81 23 01 26  ......+....z.#.&
-15A0: 16 02 08 00 AB 80 80 B4  15 2B 9E F1 06 01 7B 81  .........+....{.
-15B0: 23 01 26 16 02 08 00 AC  80 80 C7 15 2B 9E F1 06  #.&.........+...
+1570: 2B 9D F1 06 01 78 81 23  01 26 16 02 08 00 A3 80  +....x.#.&......
+1580: 80 8E 15 2B 9D F1 06 01  79 81 23 01 26 16 02 08  ...+....y.#.&...
+1590: 00 A7 80 80 A1 15 2B 9D  F1 06 01 7A 81 23 01 26  ......+....z.#.&
+15A0: 16 02 08 00 AB 80 80 B4  15 2B 9D F1 06 01 7B 81  .........+....{.
+15B0: 23 01 26 16 02 08 00 AC  80 80 C7 15 2B 9D F1 06  #.&.........+...
 15C0: 01 7C 81 23 01 26 16 02  08 00 B0 80 80 DA 15 2B  .|.#.&.........+
-15D0: 9E F1 06 01 7D 81 23 01  26 16 02 08 00 C7 80 80  ....}.#.&.......
-15E0: ED 15 2B 9E F1 06 01 7E  81 23 01 26 16 02 08 00  ..+....~.#.&....
-15F0: 72 80 80 00 16 2B 9E F1  06 01 7F 81 23 01 26 16  r....+......#.&.
-1600: 02 08 00 DF 80 80 13 16  2B 9E F1 06 01 80 81 23  ........+......#
-1610: 01 26 16 02 08 00 E1 80  80 26 16 2B 9E F1 06 01  .&.......&.+....
-1620: 81 81 23 01 26 16 1C CC  80 6E A2 F1 06 01 04 80  ..#.&....n......
-1630: 99 A2 F1 06 01 1C 0A 80  6E 9E F1 06 01 AC 80 99  ........n.......
-1640: 9E F1 06 01 1C CC 80 29  0B A2 F1 06 01 07 1C CC  .......)........
-1650: 80 2B A2 F1 06 01 82 81  23 1C 0A 80 52 C6 80 F8  .+......#...R...
+15D0: 9D F1 06 01 7D 81 23 01  26 16 02 08 00 C7 80 80  ....}.#.&.......
+15E0: ED 15 2B 9D F1 06 01 7E  81 23 01 26 16 02 08 00  ..+....~.#.&....
+15F0: 72 80 80 00 16 2B 9D F1  06 01 7F 81 23 01 26 16  r....+......#.&.
+1600: 02 08 00 DF 80 80 13 16  2B 9D F1 06 01 80 81 23  ........+......#
+1610: 01 26 16 02 08 00 E1 80  80 26 16 2B 9D F1 06 01  .&.......&.+....
+1620: 81 81 23 01 26 16 1C CC  80 6E A1 F1 06 01 04 80  ..#.&....n......
+1630: 99 A1 F1 06 01 1C 0A 80  6E 9D F1 06 01 AC 80 99  ........n.......
+1640: 9D F1 06 01 1C CC 80 29  0B A1 F1 06 01 07 1C CC  .......)........
+1650: 80 2B A1 F1 06 01 82 81  23 1C 0A 80 52 C6 80 F8  .+......#...R...
 1660: FF FF 7F F8 FF FF 7F 73  30 32 30 45 C6 80 F8 FF  .......s020E....
 1670: FF 7F F8 FF FF 7F 73 30  32 31 44 80 1C CB 80 4A  ......s021D....J
-1680: 9E F1 06 01 9F F1 06 01  1C CC 80 1A 41 1A 52 C6  ............A.R.
+1680: 9D F1 06 01 9E F1 06 01  1C CC 80 1A 41 1A 52 C6  ............A.R.
 1690: 80 F8 FF FF 7F F8 FF FF  7F 73 30 32 31 29 0A F0  .........s021)..
-16A0: FF FF 7F 35 29 0B 9E F1  06 01 0B 4E 01 F0 FF FF  ...5)......N....
-16B0: 7F 4E 01 9E F1 06 01 4E  01 9F F1 06 01 1C 04 80  .N.....N........
+16A0: FF FF 7F 35 29 0B 9D F1  06 01 0B 4E 01 F0 FF FF  ...5)......N....
+16B0: 7F 4E 01 9D F1 06 01 4E  01 9E F1 06 01 1C 04 80  .N.....N........
 16C0: 34 83 81 77 44 80 44 80  75 00 84 81 75 01 1C 04  4..wD.D.u...u...
-16D0: 80 2F 00 A3 F1 06 01 29  01 A3 F1 06 01 02 4E 00  ./.....)......N.
-16E0: A3 F1 06 01 80 A3 F1 06  01 1C 04 80 1C 85 81 81  ................
-16F0: 00 A3 F1 06 01 5B 86 81  A3 F1 06 01 A3 F1 06 01  .....[..........
+16D0: 80 2F 00 A2 F1 06 01 29  01 A2 F1 06 01 02 4E 00  ./.....)......N.
+16E0: A2 F1 06 01 80 A2 F1 06  01 1C 04 80 1C 85 81 81  ................
+16F0: 00 A2 F1 06 01 5B 86 81  A2 F1 06 01 A2 F1 06 01  .....[..........
 1700: 66 71 30 31 1C CE 80 45  CD 80 F8 FF FF 7F F8 FF  fq01...E........
 1710: FF 7F 62 6C 6F 6E 44 80  45 C6 80 F8 FF FF 7F F8  ..blonD.E.......
 1720: FF FF 7F 73 30 32 32 44  80 1C CC 80 1A 95 1A 2B  ...s022D.......+
-1730: A3 F1 06 01 87 81 23 2B  A3 F1 06 01 88 81 23 1A  ......#+......#.
+1730: A2 F1 06 01 87 81 23 2B  A2 F1 06 01 88 81 23 1A  ......#+......#.
 1740: 62 1A 52 C6 80 F8 FF FF  7F F8 FF FF 7F 73 30 32  b.R..........s02
 1750: 32 45 CD 80 F8 FF FF 7F  F8 FF FF 7F 62 6C 6F 66  2E..........blof
-1760: 44 80 1C CB 80 29 0A F0  FF FF 7F 36 29 0C 9E F1  D....).....6)...
-1770: 06 01 0C 4E 01 A3 F1 06  01 35 89 81 78 1C 04 80  ...N.....5..x...
-1780: 77 F9 80 E1 80 4E 00 F0  FF FF 7F 29 01 9E F1 06  w....N.....)....
-1790: 01 01 4E 00 9E F1 06 01  4E 00 9F F1 06 01 80 F0  ..N.....N.......
-17A0: FF FF 7F 80 9E F1 06 01  80 9F F1 06 01 4E 01 A2  .............N..
-17B0: F1 06 01 1C 04 80 79 00  9E F1 06 01 9F F1 06 01  ......y.........
-17C0: 9F 67 81 9F F1 06 01 9F  F1 06 01 73 74 72 30 44  .g.........str0D
+1760: 44 80 1C CB 80 29 0A F0  FF FF 7F 36 29 0C 9D F1  D....).....6)...
+1770: 06 01 0C 4E 01 A2 F1 06  01 35 89 81 78 1C 04 80  ...N.....5..x...
+1780: 77 F9 80 E1 80 4E 00 F0  FF FF 7F 29 01 9D F1 06  w....N.....)....
+1790: 01 01 4E 00 9D F1 06 01  4E 00 9E F1 06 01 80 F0  ..N.....N.......
+17A0: FF FF 7F 80 9D F1 06 01  80 9E F1 06 01 4E 01 A1  .............N..
+17B0: F1 06 01 1C 04 80 79 00  9D F1 06 01 9E F1 06 01  ......y.........
+17C0: 9F 67 81 9E F1 06 01 9E  F1 06 01 73 74 72 30 44  .g.........str0D
 17D0: 80 1C CB 80 45 C6 80 F8  FF FF 7F F8 FF FF 7F 73  ....E..........s
-17E0: 30 32 33 44 80 1A 83 1A  1C 8A 81 9F 67 81 9F F1  023D........g...
-17F0: 06 01 9F F1 06 01 6B 69  6C 6C 44 80 1C CB 80 1A  ......killD.....
-1800: 76 30 02 08 00 04 80 80  15 18 2B 9E F1 06 01 8B  v0........+.....
-1810: 81 23 01 E6 18 02 08 00  9A 80 80 28 18 2B 9E F1  .#.........(.+..
+17E0: 30 32 33 44 80 1A 83 1A  1C 8A 81 9F 67 81 9E F1  023D........g...
+17F0: 06 01 9E F1 06 01 6B 69  6C 6C 44 80 1C CB 80 1A  ......killD.....
+1800: 76 30 02 08 00 04 80 80  15 18 2B 9D F1 06 01 8B  v0........+.....
+1810: 81 23 01 E6 18 02 08 00  9A 80 80 28 18 2B 9D F1  .#.........(.+..
 1820: 06 01 8C 81 23 01 E6 18  02 08 00 9F 80 80 3B 18  ....#.........;.
-1830: 2B 9E F1 06 01 8D 81 23  01 E6 18 02 08 00 A3 80  +......#........
-1840: 80 4E 18 2B 9E F1 06 01  8E 81 23 01 E6 18 02 08  .N.+......#.....
-1850: 00 A7 80 80 61 18 2B 9E  F1 06 01 8F 81 23 01 E6  ....a.+......#..
-1860: 18 02 08 00 AB 80 80 74  18 2B 9E F1 06 01 90 81  .......t.+......
-1870: 23 01 E6 18 02 08 00 AC  80 80 87 18 2B 9E F1 06  #...........+...
+1830: 2B 9D F1 06 01 8D 81 23  01 E6 18 02 08 00 A3 80  +......#........
+1840: 80 4E 18 2B 9D F1 06 01  8E 81 23 01 E6 18 02 08  .N.+......#.....
+1850: 00 A7 80 80 61 18 2B 9D  F1 06 01 8F 81 23 01 E6  ....a.+......#..
+1860: 18 02 08 00 AB 80 80 74  18 2B 9D F1 06 01 90 81  .......t.+......
+1870: 23 01 E6 18 02 08 00 AC  80 80 87 18 2B 9D F1 06  #...........+...
 1880: 01 91 81 23 01 E6 18 02  08 00 B0 80 80 9A 18 2B  ...#...........+
-1890: 9E F1 06 01 92 81 23 01  E6 18 02 08 00 C7 80 80  ......#.........
-18A0: AD 18 2B 9E F1 06 01 93  81 23 01 E6 18 02 08 00  ..+......#......
-18B0: 72 80 80 C0 18 2B 9E F1  06 01 94 81 23 01 E6 18  r....+......#...
-18C0: 02 08 00 DF 80 80 D3 18  2B 9E F1 06 01 95 81 23  ........+......#
-18D0: 01 E6 18 02 08 00 E1 80  80 E6 18 2B 9E F1 06 01  ...........+....
-18E0: 96 81 23 01 E6 18 7B 9E  F1 06 01 1C CC 80 52 C6  ..#...{.......R.
+1890: 9D F1 06 01 92 81 23 01  E6 18 02 08 00 C7 80 80  ......#.........
+18A0: AD 18 2B 9D F1 06 01 93  81 23 01 E6 18 02 08 00  ..+......#......
+18B0: 72 80 80 C0 18 2B 9D F1  06 01 94 81 23 01 E6 18  r....+......#...
+18C0: 02 08 00 DF 80 80 D3 18  2B 9D F1 06 01 95 81 23  ........+......#
+18D0: 01 E6 18 02 08 00 E1 80  80 E6 18 2B 9D F1 06 01  ...........+....
+18E0: 96 81 23 01 E6 18 7B 9D  F1 06 01 1C CC 80 52 C6  ..#...{.......R.
 18F0: 80 F8 FF FF 7F F8 FF FF  7F 73 30 32 33 45 C6 80  .........s023E..
-1900: F8 FF FF 7F F8 FF FF 7F  73 30 32 34 44 80 4A 9E  ........s024D.J.
-1910: F1 06 01 F0 FF FF 7F 1C  CC 80 6E 9E F1 06 01 AC  ..........n.....
-1920: 80 99 9E F1 06 01 1A 76  30 02 08 00 04 80 80 3C  .......v0......<
-1930: 19 2B 9E F1 06 01 97 81  23 01 0D 1A 02 08 00 9A  .+......#.......
-1940: 80 80 4F 19 2B 9E F1 06  01 98 81 23 01 0D 1A 02  ..O.+......#....
-1950: 08 00 9F 80 80 62 19 2B  9E F1 06 01 99 81 23 01  .....b.+......#.
-1960: 0D 1A 02 08 00 A3 80 80  75 19 2B 9E F1 06 01 9A  ........u.+.....
-1970: 81 23 01 0D 1A 02 08 00  A7 80 80 88 19 2B 9E F1  .#...........+..
+1900: F8 FF FF 7F F8 FF FF 7F  73 30 32 34 44 80 4A 9D  ........s024D.J.
+1910: F1 06 01 F0 FF FF 7F 1C  CC 80 6E 9D F1 06 01 AC  ..........n.....
+1920: 80 99 9D F1 06 01 1A 76  30 02 08 00 04 80 80 3C  .......v0......<
+1930: 19 2B 9D F1 06 01 97 81  23 01 0D 1A 02 08 00 9A  .+......#.......
+1940: 80 80 4F 19 2B 9D F1 06  01 98 81 23 01 0D 1A 02  ..O.+......#....
+1950: 08 00 9F 80 80 62 19 2B  9D F1 06 01 99 81 23 01  .....b.+......#.
+1960: 0D 1A 02 08 00 A3 80 80  75 19 2B 9D F1 06 01 9A  ........u.+.....
+1970: 81 23 01 0D 1A 02 08 00  A7 80 80 88 19 2B 9D F1  .#...........+..
 1980: 06 01 9B 81 23 01 0D 1A  02 08 00 AB 80 80 9B 19  ....#...........
-1990: 2B 9E F1 06 01 9C 81 23  01 0D 1A 02 08 00 AC 80  +......#........
-19A0: 80 AE 19 2B 9E F1 06 01  9D 81 23 01 0D 1A 02 08  ...+......#.....
-19B0: 00 B0 80 80 C1 19 2B 9E  F1 06 01 9E 81 23 01 0D  ......+......#..
-19C0: 1A 02 08 00 C7 80 80 D4  19 2B 9E F1 06 01 9F 81  .........+......
-19D0: 23 01 0D 1A 02 08 00 72  80 80 E7 19 2B 9E F1 06  #......r....+...
+1990: 2B 9D F1 06 01 9C 81 23  01 0D 1A 02 08 00 AC 80  +......#........
+19A0: 80 AE 19 2B 9D F1 06 01  9D 81 23 01 0D 1A 02 08  ...+......#.....
+19B0: 00 B0 80 80 C1 19 2B 9D  F1 06 01 9E 81 23 01 0D  ......+......#..
+19C0: 1A 02 08 00 C7 80 80 D4  19 2B 9D F1 06 01 9F 81  .........+......
+19D0: 23 01 0D 1A 02 08 00 72  80 80 E7 19 2B 9D F1 06  #......r....+...
 19E0: 01 A0 81 23 01 0D 1A 02  08 00 DF 80 80 FA 19 2B  ...#...........+
-19F0: 9E F1 06 01 A1 81 23 01  0D 1A 02 08 00 E1 80 80  ......#.........
-1A00: 0D 1A 2B 9E F1 06 01 A2  81 23 01 0D 1A 1C CC 80  ..+......#......
+19F0: 9D F1 06 01 A1 81 23 01  0D 1A 02 08 00 E1 80 80  ......#.........
+1A00: 0D 1A 2B 9D F1 06 01 A2  81 23 01 0D 1A 1C CC 80  ..+......#......
 1A10: 5D 44 80 CB 80 1A C8 1A  52 C6 80 F8 FF FF 7F F8  ]D......R.......
 1A20: FF FF 7F 73 30 32 34 78  46 00 5C 00 44 80 5C 01  ...s024xF.\.D.\.
 1A30: 44 80 9A 1C CB 80 1A 1C  1B 21 00                 D........!.     
@@ -2665,8 +2665,8 @@ SUBROUTINE_06B5:
   1: 0x071A [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
   2: 0x071F [0x1A] CALL_SUBROUTINE(address=0x1AC8)
   3: 0x0722 [0x1C] WAIT(60* ticks)
-  4: 0x0725 [0x92] Palometa (ID: 17232291/0x0106F1A3)->Render.Flags3 ^= 0x01
-  5: 0x072B [0x92] Klafaan (ID: 17232290/0x0106F1A2)->Render.Flags3 ^= 0x01
+  4: 0x0725 [0x92] Palometa (ID: 17232290/0x0106F1A2)->Render.Flags3 ^= 0x01
+  5: 0x072B [0x92] Klafaan (ID: 17232289/0x0106F1A1)->Render.Flags3 ^= 0x01
   6: 0x0731 [0x03] Work_Zone[2] = 736*
   7: 0x0736 [0x03] Work_Zone[3] = 738*
   8: 0x073B [0x03] Work_Zone[4] = 737*
@@ -2676,197 +2676,197 @@ SUBROUTINE_06B5:
  11: 0x0744 [0x46] CAMERA_CONTROL: Disable user control
  12: 0x0746 [0x38] SET_CLIENT_EVENT_MODE(mode=27*)
  13: 0x0749 [0x77] SET_EVENT_TIME_WEATHER(hour=22*, weather=12*)
- 14: 0x074E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232286/0x0106F19E)
- 15: 0x0754 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x01)
- 16: 0x075B [0x29] REQ_SET_WAIT(priority=0x02, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x07)
- 17: 0x0762 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Klafaan (ID: 17232290/0x0106F1A2), tag_num=0x02)
- 18: 0x0769 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Palometa (ID: 17232291/0x0106F1A3), tag_num=0x02)
- 19: 0x0770 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x02)
+ 14: 0x074E [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232285/0x0106F19D)
+ 15: 0x0754 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x01)
+ 16: 0x075B [0x29] REQ_SET_WAIT(priority=0x02, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x07)
+ 17: 0x0762 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Klafaan (ID: 17232289/0x0106F1A1), tag_num=0x02)
+ 18: 0x0769 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Palometa (ID: 17232290/0x0106F1A2), tag_num=0x02)
+ 19: 0x0770 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x02)
  20: 0x0777 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=245.889*, z=217.034*, y=0.558*, direction=303.8°*
- 21: 0x0780 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232286/0x0106F19E)
- 22: 0x0786 [0x4E] SET_ENTITY_HIDE_FLAG: Show Klafaan (ID: 17232290/0x0106F1A2)
- 23: 0x078C [0x4E] SET_ENTITY_HIDE_FLAG: Show Palometa (ID: 17232291/0x0106F1A3)
- 24: 0x0792 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232286/0x0106F19E))
- 25: 0x0797 [0x80] LOAD_WAIT(entity=Klafaan (ID: 17232290/0x0106F1A2))
- 26: 0x079C [0x80] LOAD_WAIT(entity=Palometa (ID: 17232291/0x0106F1A3))
+ 21: 0x0780 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232285/0x0106F19D)
+ 22: 0x0786 [0x4E] SET_ENTITY_HIDE_FLAG: Show Klafaan (ID: 17232289/0x0106F1A1)
+ 23: 0x078C [0x4E] SET_ENTITY_HIDE_FLAG: Show Palometa (ID: 17232290/0x0106F1A2)
+ 24: 0x0792 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232285/0x0106F19D))
+ 25: 0x0797 [0x80] LOAD_WAIT(entity=Klafaan (ID: 17232289/0x0106F1A1))
+ 26: 0x079C [0x80] LOAD_WAIT(entity=Palometa (ID: 17232290/0x0106F1A2))
  27: 0x07A1 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 124*
  28: 0x07A5 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 124*
  29: 0x07A9 [0x9A] WAIT_MUSIC_SERVER()
  30: 0x07AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[181*, 0*]
  31: 0x07BB [0x1C] WAIT(180* ticks)
  32: 0x07BE [0x1A] CALL_SUBROUTINE(address=0x1B1C)
- 33: 0x07C1 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x08)
+ 33: 0x07C1 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x08)
  34: 0x07C8 [0x1C] WAIT(90* ticks)
- 35: 0x07CB [0x79] LocalPlayer looks at Unnamed NPC (ID: 17232286/0x0106F19E) (Basic look)
+ 35: 0x07CB [0x79] LocalPlayer looks at Unnamed NPC (ID: 17232285/0x0106F19D) (Basic look)
  36: 0x07D5 [0x1C] WAIT(210* ticks)
  37: 0x07D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  38: 0x07E9 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=181*
  39: 0x07F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[181*, 0*]
  40: 0x0809 [0x1C] WAIT(90* ticks)
- 41: 0x080C [0x4A] LocalPlayer looks at Klafaan (ID: 17232290/0x0106F1A2)
- 42: 0x0815 [0x27] REQ_SET(priority=0x05, entity_id=Klafaan (ID: 17232290/0x0106F1A2), tag_num=0x03)
+ 41: 0x080C [0x4A] LocalPlayer looks at Klafaan (ID: 17232289/0x0106F1A1)
+ 42: 0x0815 [0x27] REQ_SET(priority=0x05, entity_id=Klafaan (ID: 17232289/0x0106F1A1), tag_num=0x03)
  43: 0x081C [0x1C] WAIT(90* ticks)
  44: 0x081F [0x6E] LocalPlayer uses emote 0*
  45: 0x0826 [0x99] Wait for LocalPlayer animation to complete
  46: 0x082B [0x1C] WAIT(90* ticks)
- 47: 0x082E [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Klafaan (ID: 17232290/0x0106F1A2)
- 48: 0x0837 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Klafaan (ID: 17232290/0x0106F1A2))
+ 47: 0x082E [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Klafaan (ID: 17232289/0x0106F1A1)
+ 48: 0x0837 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Klafaan (ID: 17232289/0x0106F1A1))
  49: 0x083D [0x1C] WAIT(60* ticks)
  50: 0x0840 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=181*
  51: 0x084F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[181*, 0*]
  52: 0x0860 [0x1C] WAIT(60* ticks)
- 53: 0x0863 [0x79] Klafaan (ID: 17232290/0x0106F1A2) looks at Unnamed NPC (ID: 17232286/0x0106F19E) (Basic look)
+ 53: 0x0863 [0x79] Klafaan (ID: 17232289/0x0106F1A1) looks at Unnamed NPC (ID: 17232285/0x0106F19D) (Basic look)
  54: 0x086D [0x1C] WAIT(60* ticks)
- 55: 0x0870 [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8428*]:
+ 55: 0x0870 [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8428*]:
     → "What do you ask of me...?"
  56: 0x0877 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0878 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  58: 0x0889 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [EventEntity, EventEntity], work=181*
- 59: 0x0898 [0x29] REQ_SET_WAIT(priority=0x07, entity_id=Unnamed NPC (ID: 17232287/0x0106F19F), tag_num=0x03)
- 60: 0x089F [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232287/0x0106F19F)
- 61: 0x08A5 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232287/0x0106F19F))
+ 59: 0x0898 [0x29] REQ_SET_WAIT(priority=0x07, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x03)
+ 60: 0x089F [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232286/0x0106F19E)
+ 61: 0x08A5 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232286/0x0106F19E))
  62: 0x08AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[181*, 0*]
- 63: 0x08BB [0x27] REQ_SET(priority=0x06, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x09)
- 64: 0x08C2 [0x79] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Klafaan (ID: 17232290/0x0106F1A2) (Basic look)
+ 63: 0x08BB [0x27] REQ_SET(priority=0x06, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x09)
+ 64: 0x08C2 [0x79] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Klafaan (ID: 17232289/0x0106F1A1) (Basic look)
  65: 0x08CC [0x1C] WAIT(30* ticks)
  66: 0x08CF [0x1A] CALL_SUBROUTINE(address=0x3076)
  67: 0x08D2 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x08E5
- 68: 0x08DA [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8429*]:
+ 68: 0x08DA [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8429*]:
     → "I want you to examine this mirror."
  69: 0x08E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x08E2 [0x01] GOTO 0x09B6
  71: 0x08E5 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x08F8
- 72: 0x08ED [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8430*]:
+ 72: 0x08ED [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8430*]:
     → "I want you to take a look at this mirror."
  73: 0x08F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x08F5 [0x01] GOTO 0x09B6
  75: 0x08F8 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x090B
- 76: 0x0900 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8431*]:
+ 76: 0x0900 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8431*]:
     → "I want you to look at this mirror."
  77: 0x0907 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0908 [0x01] GOTO 0x09B6
  79: 0x090B [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x091E
- 80: 0x0913 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8432*]:
+ 80: 0x0913 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8432*]:
     → "I wish for you to examine this mirror."
  81: 0x091A [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x091B [0x01] GOTO 0x09B6
  83: 0x091E [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0931
- 84: 0x0926 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8435*]:
+ 84: 0x0926 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8435*]:
     → "I want you to examine this mirror."
  85: 0x092D [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x092E [0x01] GOTO 0x09B6
  87: 0x0931 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0944
- 88: 0x0939 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8436*]:
+ 88: 0x0939 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8436*]:
     → "Could you take a look at this mirror?"
  89: 0x0940 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0941 [0x01] GOTO 0x09B6
  91: 0x0944 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0957
- 92: 0x094C [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8437*]:
+ 92: 0x094C [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8437*]:
     → "I want you to look at this mirror."
  93: 0x0953 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0954 [0x01] GOTO 0x09B6
  95: 0x0957 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x096A
- 96: 0x095F [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8438*]:
+ 96: 0x095F [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8438*]:
     → "Can you take a look at this mirror?"
  97: 0x0966 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0967 [0x01] GOTO 0x09B6
  99: 0x096A [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x097D
-100: 0x0972 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8439*]:
+100: 0x0972 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8439*]:
     → "I wish for you to examine this mirror."
 101: 0x0979 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x097A [0x01] GOTO 0x09B6
 103: 0x097D [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0990
-104: 0x0985 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8433*]:
+104: 0x0985 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8433*]:
     → "I want you to look at this mirror."
 105: 0x098C [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x098D [0x01] GOTO 0x09B6
 107: 0x0990 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x09A3
-108: 0x0998 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8434*]:
+108: 0x0998 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8434*]:
     → "I want you to examine this mirror."
 109: 0x099F [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x09A0 [0x01] GOTO 0x09B6
 111: 0x09A3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x09B6
-112: 0x09AB [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8440*]:
+112: 0x09AB [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8440*]:
     → "I want you to examine this mirror."
 113: 0x09B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x09B3 [0x01] GOTO 0x09B6
 
 SUBROUTINE_09B6:
-115: 0x09B6 [0x2A] GET_REQ_LEVEL(level=6, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E))
+115: 0x09B6 [0x2A] GET_REQ_LEVEL(level=6, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D))
 116: 0x09BC [0x1C] WAIT(30* ticks)
-117: 0x09BF [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Klafaan (ID: 17232290/0x0106F1A2)
+117: 0x09BF [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Klafaan (ID: 17232289/0x0106F1A1)
 118: 0x09C8 [0x1C] WAIT(60* ticks)
 119: 0x09CB [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=181*
 120: 0x09DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[181*, 0*]
 121: 0x09EB [0x1C] WAIT(30* ticks)
-122: 0x09EE [0x4A] Klafaan (ID: 17232290/0x0106F1A2) looks at Unnamed NPC (ID: 17232286/0x0106F19E)
+122: 0x09EE [0x4A] Klafaan (ID: 17232289/0x0106F1A1) looks at Unnamed NPC (ID: 17232285/0x0106F19D)
 123: 0x09F7 [0x1C] WAIT(60* ticks)
-124: 0x09FA [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8441*]:
+124: 0x09FA [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8441*]:
     → "Hmm..."
 125: 0x0A01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0A02 [0x1C] WAIT(60* ticks)
-127: 0x0A05 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17232287/0x0106F19F), Unnamed NPC (ID: 17232287/0x0106F19F)], work=[3*, 0*]
+127: 0x0A05 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=[3*, 0*]
 128: 0x0A16 [0x1C] WAIT(90* ticks)
-129: 0x0A19 [0x6E] Unnamed NPC (ID: 17232286/0x0106F19E) uses emote 6*
-130: 0x0A20 [0x99] Wait for Unnamed NPC (ID: 17232286/0x0106F19E) animation to complete
+129: 0x0A19 [0x6E] Unnamed NPC (ID: 17232285/0x0106F19D) uses emote 6*
+130: 0x0A20 [0x99] Wait for Unnamed NPC (ID: 17232285/0x0106F19D) animation to complete
 131: 0x0A25 [0x1A] CALL_SUBROUTINE(address=0x3076)
 132: 0x0A28 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0A3B
-133: 0x0A30 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8442*]:
+133: 0x0A30 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8442*]:
     → "This glass has led me towards that which I sought. For the longest time now..."
 134: 0x0A37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0A38 [0x01] GOTO 0x0B0C
 136: 0x0A3B [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0A4E
-137: 0x0A43 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8443*]:
+137: 0x0A43 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8443*]:
     → "This glass has led me towards whatever I was looking for. For the longest time now..."
 138: 0x0A4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0A4B [0x01] GOTO 0x0B0C
 140: 0x0A4E [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0A61
-141: 0x0A56 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8444*]:
+141: 0x0A56 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8444*]:
     → "This glass has led me towards that which I sought. For the longest time now..."
 142: 0x0A5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0A5E [0x01] GOTO 0x0B0C
 144: 0x0A61 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0A74
-145: 0x0A69 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8445*]:
+145: 0x0A69 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8445*]:
     → "This glass has led me towards that which I sought. For the longest time now..."
 146: 0x0A70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0A71 [0x01] GOTO 0x0B0C
 148: 0x0A74 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0A87
-149: 0x0A7C [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8448*]:
+149: 0x0A7C [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8448*]:
     → "This glass has led me towards that which I sought. For the longest time now..."
 150: 0x0A83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0A84 [0x01] GOTO 0x0B0C
 152: 0x0A87 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0A9A
-153: 0x0A8F [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8449*]:
+153: 0x0A8F [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8449*]:
     → "This glass has led me towards whatever I was looking for. For the longest time now..."
 154: 0x0A96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0A97 [0x01] GOTO 0x0B0C
 156: 0x0A9A [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0AAD
-157: 0x0AA2 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8450*]:
+157: 0x0AA2 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8450*]:
     → "This glass has led me towards that which I sought. For the longest time now..."
 158: 0x0AA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0AAA [0x01] GOTO 0x0B0C
 160: 0x0AAD [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0AC0
-161: 0x0AB5 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8451*]:
+161: 0x0AB5 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8451*]:
     → "This glass has led me towards whatever I was looking for. For as long as I can remember..."
 162: 0x0ABC [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0ABD [0x01] GOTO 0x0B0C
 164: 0x0AC0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0AD3
-165: 0x0AC8 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8452*]:
+165: 0x0AC8 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8452*]:
     → "This glass has led me towards that which I sought. For the longest time now..."
 166: 0x0ACF [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0AD0 [0x01] GOTO 0x0B0C
 168: 0x0AD3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0AE6
-169: 0x0ADB [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8446*]:
+169: 0x0ADB [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8446*]:
     → "This glass has been guiding me on my path in life. For as long as I can remember..."
 170: 0x0AE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x0AE3 [0x01] GOTO 0x0B0C
 172: 0x0AE6 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0AF9
-173: 0x0AEE [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8447*]:
+173: 0x0AEE [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8447*]:
     → "This glass has guided me towards that which I sought. For the longest time now..."
 174: 0x0AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x0AF6 [0x01] GOTO 0x0B0C
 176: 0x0AF9 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0B0C
-177: 0x0B01 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8453*]:
+177: 0x0B01 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8453*]:
     → "This glass has led me towards that which I sought. For the longest time now..."
 178: 0x0B08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0B09 [0x01] GOTO 0x0B0C
@@ -2874,62 +2874,62 @@ SUBROUTINE_09B6:
 SUBROUTINE_0B0C:
 180: 0x0B0C [0x1A] CALL_SUBROUTINE(address=0x3076)
 181: 0x0B0F [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0B22
-182: 0x0B17 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8454*]:
+182: 0x0B17 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8454*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 183: 0x0B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x0B1F [0x01] GOTO 0x0BF3
 185: 0x0B22 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0B35
-186: 0x0B2A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8455*]:
+186: 0x0B2A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8455*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 187: 0x0B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x0B32 [0x01] GOTO 0x0BF3
 189: 0x0B35 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0B48
-190: 0x0B3D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8456*]:
+190: 0x0B3D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8456*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 191: 0x0B44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x0B45 [0x01] GOTO 0x0BF3
 193: 0x0B48 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0B5B
-194: 0x0B50 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8457*]:
+194: 0x0B50 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8457*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 195: 0x0B57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0B58 [0x01] GOTO 0x0BF3
 197: 0x0B5B [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0B6E
-198: 0x0B63 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8460*]:
+198: 0x0B63 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8460*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 199: 0x0B6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0B6B [0x01] GOTO 0x0BF3
 201: 0x0B6E [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0B81
-202: 0x0B76 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8461*]:
+202: 0x0B76 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8461*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 203: 0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x0B7E [0x01] GOTO 0x0BF3
 205: 0x0B81 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0B94
-206: 0x0B89 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8462*]:
+206: 0x0B89 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8462*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 207: 0x0B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0B91 [0x01] GOTO 0x0BF3
 209: 0x0B94 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0BA7
-210: 0x0B9C [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8463*]:
+210: 0x0B9C [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8463*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 211: 0x0BA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x0BA4 [0x01] GOTO 0x0BF3
 213: 0x0BA7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0BBA
-214: 0x0BAF [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8464*]:
+214: 0x0BAF [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8464*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 215: 0x0BB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x0BB7 [0x01] GOTO 0x0BF3
 217: 0x0BBA [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0BCD
-218: 0x0BC2 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8458*]:
+218: 0x0BC2 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8458*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 219: 0x0BC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x0BCA [0x01] GOTO 0x0BF3
 221: 0x0BCD [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0BE0
-222: 0x0BD5 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8459*]:
+222: 0x0BD5 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8459*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 223: 0x0BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x0BDD [0x01] GOTO 0x0BF3
 225: 0x0BE0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0BF3
-226: 0x0BE8 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8465*]:
+226: 0x0BE8 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8465*]:
     → "But ever since the time it pulsed with a white, blinding light, its power has been unstable..."
 227: 0x0BEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x0BF0 [0x01] GOTO 0x0BF3
@@ -2940,62 +2940,62 @@ SUBROUTINE_0BF3:
 231: 0x0C13 [0x1C] WAIT(60* ticks)
 232: 0x0C16 [0x1A] CALL_SUBROUTINE(address=0x3076)
 233: 0x0C19 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0C2C
-234: 0x0C21 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8466*]:
+234: 0x0C21 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8466*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 235: 0x0C28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x0C29 [0x01] GOTO 0x0CFD
 237: 0x0C2C [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0C3F
-238: 0x0C34 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8467*]:
+238: 0x0C34 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8467*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 239: 0x0C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x0C3C [0x01] GOTO 0x0CFD
 241: 0x0C3F [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0C52
-242: 0x0C47 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8468*]:
+242: 0x0C47 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8468*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 243: 0x0C4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x0C4F [0x01] GOTO 0x0CFD
 245: 0x0C52 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0C65
-246: 0x0C5A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8469*]:
+246: 0x0C5A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8469*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 247: 0x0C61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x0C62 [0x01] GOTO 0x0CFD
 249: 0x0C65 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0C78
-250: 0x0C6D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8472*]:
+250: 0x0C6D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8472*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 251: 0x0C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0C75 [0x01] GOTO 0x0CFD
 253: 0x0C78 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0C8B
-254: 0x0C80 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8473*]:
+254: 0x0C80 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8473*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 255: 0x0C87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x0C88 [0x01] GOTO 0x0CFD
 257: 0x0C8B [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0C9E
-258: 0x0C93 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8474*]:
+258: 0x0C93 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8474*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 259: 0x0C9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x0C9B [0x01] GOTO 0x0CFD
 261: 0x0C9E [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0CB1
-262: 0x0CA6 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8475*]:
+262: 0x0CA6 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8475*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 263: 0x0CAD [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x0CAE [0x01] GOTO 0x0CFD
 265: 0x0CB1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0CC4
-266: 0x0CB9 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8476*]:
+266: 0x0CB9 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8476*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 267: 0x0CC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 268: 0x0CC1 [0x01] GOTO 0x0CFD
 269: 0x0CC4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0CD7
-270: 0x0CCC [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8470*]:
+270: 0x0CCC [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8470*]:
     → "I need this mirror's powers to save a young girl called Palometa. You see..."
 271: 0x0CD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x0CD4 [0x01] GOTO 0x0CFD
 273: 0x0CD7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0CEA
-274: 0x0CDF [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8471*]:
+274: 0x0CDF [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8471*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 275: 0x0CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x0CE7 [0x01] GOTO 0x0CFD
 277: 0x0CEA [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0CFD
-278: 0x0CF2 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8477*]:
+278: 0x0CF2 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8477*]:
     → "I need this mirror's gifts to save a young girl by the name of Palometa. You see..."
 279: 0x0CF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x0CFA [0x01] GOTO 0x0CFD
@@ -3010,187 +3010,187 @@ SUBROUTINE_0CFD:
 287: 0x0D29 [0x1C] WAIT(60* ticks)
 288: 0x0D2C [0x1A] CALL_SUBROUTINE(address=0x2F95)
 289: 0x0D2F [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x0D49
-290: 0x0D37 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=9*
+290: 0x0D37 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=9*
 291: 0x0D46 [0x01] GOTO 0x0DFF
 292: 0x0D49 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x0D63
-293: 0x0D51 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=19*
+293: 0x0D51 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=19*
 294: 0x0D60 [0x01] GOTO 0x0DFF
 295: 0x0D63 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x0D7D
-296: 0x0D6B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=29*
+296: 0x0D6B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=29*
 297: 0x0D7A [0x01] GOTO 0x0DFF
 298: 0x0D7D [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x0D97
-299: 0x0D85 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=39*
+299: 0x0D85 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=39*
 300: 0x0D94 [0x01] GOTO 0x0DFF
 301: 0x0D97 [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x0DB1
-302: 0x0D9F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=49*
+302: 0x0D9F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=49*
 303: 0x0DAE [0x01] GOTO 0x0DFF
 304: 0x0DB1 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x0DCB
-305: 0x0DB9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=49*
+305: 0x0DB9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=49*
 306: 0x0DC8 [0x01] GOTO 0x0DFF
 307: 0x0DCB [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x0DE5
-308: 0x0DD3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=59*
+308: 0x0DD3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=59*
 309: 0x0DE2 [0x01] GOTO 0x0DFF
 310: 0x0DE5 [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x0DFF
-311: 0x0DED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=69*
+311: 0x0DED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=69*
 312: 0x0DFC [0x01] GOTO 0x0DFF
 
 SUBROUTINE_0DFF:
 313: 0x0DFF [0x1C] WAIT(60* ticks)
 314: 0x0E02 [0x1A] CALL_SUBROUTINE(address=0x3076)
 315: 0x0E05 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0E18
-316: 0x0E0D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8478*]:
+316: 0x0E0D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8478*]:
     → "That is why we need your help."
 317: 0x0E14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x0E15 [0x01] GOTO 0x0EE9
 319: 0x0E18 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0E2B
-320: 0x0E20 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8479*]:
+320: 0x0E20 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8479*]:
     → "That's why we need your help."
 321: 0x0E27 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x0E28 [0x01] GOTO 0x0EE9
 323: 0x0E2B [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0E3E
-324: 0x0E33 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8480*]:
+324: 0x0E33 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8480*]:
     → "That is why we need your help."
 325: 0x0E3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x0E3B [0x01] GOTO 0x0EE9
 327: 0x0E3E [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0E51
-328: 0x0E46 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8481*]:
+328: 0x0E46 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8481*]:
     → "That is why we need your help."
 329: 0x0E4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x0E4E [0x01] GOTO 0x0EE9
 331: 0x0E51 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0E64
-332: 0x0E59 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8484*]:
+332: 0x0E59 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8484*]:
     → "That is why we need your help."
 333: 0x0E60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 334: 0x0E61 [0x01] GOTO 0x0EE9
 335: 0x0E64 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0E77
-336: 0x0E6C [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8485*]:
+336: 0x0E6C [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8485*]:
     → "That's why we need your help."
 337: 0x0E73 [0x23] WAIT_FOR_DIALOG_INTERACTION
 338: 0x0E74 [0x01] GOTO 0x0EE9
 339: 0x0E77 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0E8A
-340: 0x0E7F [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8486*]:
+340: 0x0E7F [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8486*]:
     → "That is why we need your help."
 341: 0x0E86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0x0E87 [0x01] GOTO 0x0EE9
 343: 0x0E8A [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0E9D
-344: 0x0E92 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8487*]:
+344: 0x0E92 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8487*]:
     → "That's why we need your help."
 345: 0x0E99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 346: 0x0E9A [0x01] GOTO 0x0EE9
 347: 0x0E9D [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0EB0
-348: 0x0EA5 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8488*]:
+348: 0x0EA5 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8488*]:
     → "That is why we need your help."
 349: 0x0EAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 350: 0x0EAD [0x01] GOTO 0x0EE9
 351: 0x0EB0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0EC3
-352: 0x0EB8 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8482*]:
+352: 0x0EB8 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8482*]:
     → "That's why we need your help."
 353: 0x0EBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 354: 0x0EC0 [0x01] GOTO 0x0EE9
 355: 0x0EC3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0ED6
-356: 0x0ECB [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8483*]:
+356: 0x0ECB [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8483*]:
     → "That is why we need your help."
 357: 0x0ED2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x0ED3 [0x01] GOTO 0x0EE9
 359: 0x0ED6 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0EE9
-360: 0x0EDE [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8489*]:
+360: 0x0EDE [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8489*]:
     → "That is why we need your help."
 361: 0x0EE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x0EE6 [0x01] GOTO 0x0EE9
 
 SUBROUTINE_0EE9:
 363: 0x0EE9 [0x1C] WAIT(60* ticks)
-364: 0x0EEC [0x4A] Klafaan (ID: 17232290/0x0106F1A2) looks at Mirror Pond (ID: 17232288/0x0106F1A0)
+364: 0x0EEC [0x4A] Klafaan (ID: 17232289/0x0106F1A1) looks at Mirror Pond (ID: 17232287/0x0106F19F)
 365: 0x0EF5 [0x1C] WAIT(90* ticks)
-366: 0x0EF8 [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8490*]:
+366: 0x0EF8 [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8490*]:
     → "..."
 367: 0x0EFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0F00 [0x1C] WAIT(60* ticks)
 369: 0x0F03 [0x1A] CALL_SUBROUTINE(address=0x2F95)
 370: 0x0F06 [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x0F20
-371: 0x0F0E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=9*
+371: 0x0F0E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=9*
 372: 0x0F1D [0x01] GOTO 0x0FD6
 373: 0x0F20 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x0F3A
-374: 0x0F28 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=19*
+374: 0x0F28 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=19*
 375: 0x0F37 [0x01] GOTO 0x0FD6
 376: 0x0F3A [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x0F54
-377: 0x0F42 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=29*
+377: 0x0F42 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=29*
 378: 0x0F51 [0x01] GOTO 0x0FD6
 379: 0x0F54 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x0F6E
-380: 0x0F5C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=39*
+380: 0x0F5C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=39*
 381: 0x0F6B [0x01] GOTO 0x0FD6
 382: 0x0F6E [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x0F88
-383: 0x0F76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=49*
+383: 0x0F76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=49*
 384: 0x0F85 [0x01] GOTO 0x0FD6
 385: 0x0F88 [0x02] IF !(ExtData[1]->WorkLocal[11] == 5*) GOTO 0x0FA2
-386: 0x0F90 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=49*
+386: 0x0F90 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=49*
 387: 0x0F9F [0x01] GOTO 0x0FD6
 388: 0x0FA2 [0x02] IF !(ExtData[1]->WorkLocal[11] == 6*) GOTO 0x0FBC
-389: 0x0FAA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=59*
+389: 0x0FAA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=59*
 390: 0x0FB9 [0x01] GOTO 0x0FD6
 391: 0x0FBC [0x02] IF !(ExtData[1]->WorkLocal[11] == 7*) GOTO 0x0FD6
-392: 0x0FC4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=69*
+392: 0x0FC4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Unnamed NPC (ID: 17232285/0x0106F19D), Unnamed NPC (ID: 17232285/0x0106F19D)], work=69*
 393: 0x0FD3 [0x01] GOTO 0x0FD6
 
 SUBROUTINE_0FD6:
 394: 0x0FD6 [0x1A] CALL_SUBROUTINE(address=0x3076)
 395: 0x0FD9 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0FEC
-396: 0x0FE1 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8491*]:
+396: 0x0FE1 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8491*]:
     → "You are the guardian of this mirror. There must be something you can do."
 397: 0x0FE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x0FE9 [0x01] GOTO 0x10BD
 399: 0x0FEC [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0FFF
-400: 0x0FF4 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8492*]:
+400: 0x0FF4 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8492*]:
     → "You're the guardian of this mirror, right? There must be something you can do."
 401: 0x0FFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 402: 0x0FFC [0x01] GOTO 0x10BD
 403: 0x0FFF [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x1012
-404: 0x1007 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8493*]:
+404: 0x1007 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8493*]:
     → "You are the guardian of this mirror. Is there some way you can fix it?."
 405: 0x100E [0x23] WAIT_FOR_DIALOG_INTERACTION
 406: 0x100F [0x01] GOTO 0x10BD
 407: 0x1012 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x1025
-408: 0x101A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8494*]:
+408: 0x101A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8494*]:
     → "You are the guardian of this mirror. There must be something you can do."
 409: 0x1021 [0x23] WAIT_FOR_DIALOG_INTERACTION
 410: 0x1022 [0x01] GOTO 0x10BD
 411: 0x1025 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x1038
-412: 0x102D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8497*]:
+412: 0x102D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8497*]:
     → "You are the guardian of this mirror. There must be something you can do."
 413: 0x1034 [0x23] WAIT_FOR_DIALOG_INTERACTION
 414: 0x1035 [0x01] GOTO 0x10BD
 415: 0x1038 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x104B
-416: 0x1040 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8498*]:
+416: 0x1040 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8498*]:
     → "You're the guardian of this mirror, after all. Can you do something?"
 417: 0x1047 [0x23] WAIT_FOR_DIALOG_INTERACTION
 418: 0x1048 [0x01] GOTO 0x10BD
 419: 0x104B [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x105E
-420: 0x1053 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8499*]:
+420: 0x1053 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8499*]:
     → "You are the guardian of this mirror. There must be something you can do."
 421: 0x105A [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x105B [0x01] GOTO 0x10BD
 423: 0x105E [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x1071
-424: 0x1066 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8500*]:
+424: 0x1066 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8500*]:
     → "You're the guardian of this mirror, right? You must know some neat trick to fix it."
 425: 0x106D [0x23] WAIT_FOR_DIALOG_INTERACTION
 426: 0x106E [0x01] GOTO 0x10BD
 427: 0x1071 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x1084
-428: 0x1079 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8501*]:
+428: 0x1079 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8501*]:
     → "You are the guardian of this mirror. There must be something you can do."
 429: 0x1080 [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x1081 [0x01] GOTO 0x10BD
 431: 0x1084 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x1097
-432: 0x108C [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8495*]:
+432: 0x108C [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8495*]:
     → "You're supposed to be the mirror's guardian, right? Isn't there something you can do?"
 433: 0x1093 [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x1094 [0x01] GOTO 0x10BD
 435: 0x1097 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x10AA
-436: 0x109F [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8496*]:
+436: 0x109F [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8496*]:
     → "You are the guardian of this mirror. There has to be something you can do."
 437: 0x10A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 438: 0x10A7 [0x01] GOTO 0x10BD
 439: 0x10AA [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x10BD
-440: 0x10B2 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8502*]:
+440: 0x10B2 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8502*]:
     → "As the guardian of this mirror, surely, there is something you can do."
 441: 0x10B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 442: 0x10BA [0x01] GOTO 0x10BD
@@ -3199,110 +3199,110 @@ SUBROUTINE_10BD:
 443: 0x10BD [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=181*
 444: 0x10CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[181*, 0*]
 445: 0x10DD [0x1C] WAIT(60* ticks)
-446: 0x10E0 [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8503*]:
+446: 0x10E0 [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8503*]:
     → "I have long awaited your coming."
 447: 0x10E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-448: 0x10E8 [0x4A] Klafaan (ID: 17232290/0x0106F1A2) looks at Unnamed NPC (ID: 17232286/0x0106F19E)
+448: 0x10E8 [0x4A] Klafaan (ID: 17232289/0x0106F1A1) looks at Unnamed NPC (ID: 17232285/0x0106F19D)
 449: 0x10F1 [0x1C] WAIT(60* ticks)
-450: 0x10F4 [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8504*]:
+450: 0x10F4 [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8504*]:
     → "The arrival of the one whose fate is intertwined with the Glass of Blessed Radiance... You have been chosen."
 451: 0x10FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 452: 0x10FC [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=181*
 453: 0x110B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[181*, 0*]
 454: 0x111C [0x1C] WAIT(30* ticks)
-455: 0x111F [0x6E] Unnamed NPC (ID: 17232286/0x0106F19E) uses emote 21*
-456: 0x1126 [0x99] Wait for Unnamed NPC (ID: 17232286/0x0106F19E) animation to complete
+455: 0x111F [0x6E] Unnamed NPC (ID: 17232285/0x0106F19D) uses emote 21*
+456: 0x1126 [0x99] Wait for Unnamed NPC (ID: 17232285/0x0106F19D) animation to complete
 457: 0x112B [0x1A] CALL_SUBROUTINE(address=0x3076)
 458: 0x112E [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x1141
-459: 0x1136 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8505*]:
+459: 0x1136 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8505*]:
     → "Chosen...? Me...?"
 460: 0x113D [0x23] WAIT_FOR_DIALOG_INTERACTION
 461: 0x113E [0x01] GOTO 0x1212
 462: 0x1141 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x1154
-463: 0x1149 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8506*]:
+463: 0x1149 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8506*]:
     → "Chosen...? Are you talking about me...?"
 464: 0x1150 [0x23] WAIT_FOR_DIALOG_INTERACTION
 465: 0x1151 [0x01] GOTO 0x1212
 466: 0x1154 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x1167
-467: 0x115C [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8507*]:
+467: 0x115C [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8507*]:
     → "Chosen...? Me...?"
 468: 0x1163 [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x1164 [0x01] GOTO 0x1212
 470: 0x1167 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x117A
-471: 0x116F [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8508*]:
+471: 0x116F [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8508*]:
     → "Chosen...? Me...?"
 472: 0x1176 [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x1177 [0x01] GOTO 0x1212
 474: 0x117A [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x118D
-475: 0x1182 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8511*]:
+475: 0x1182 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8511*]:
     → "Chosen...? Me...?"
 476: 0x1189 [0x23] WAIT_FOR_DIALOG_INTERACTION
 477: 0x118A [0x01] GOTO 0x1212
 478: 0x118D [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x11A0
-479: 0x1195 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8512*]:
+479: 0x1195 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8512*]:
     → "Chosen...? Are you talking about me...?"
 480: 0x119C [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x119D [0x01] GOTO 0x1212
 482: 0x11A0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x11B3
-483: 0x11A8 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8513*]:
+483: 0x11A8 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8513*]:
     → "Chosen...? Me...?"
 484: 0x11AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 485: 0x11B0 [0x01] GOTO 0x1212
 486: 0x11B3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x11C6
-487: 0x11BB [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8514*]:
+487: 0x11BB [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8514*]:
     → "Chosen...? Me...?"
 488: 0x11C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x11C3 [0x01] GOTO 0x1212
 490: 0x11C6 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x11D9
-491: 0x11CE [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8515*]:
+491: 0x11CE [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8515*]:
     → "Chosen...? Me...?"
 492: 0x11D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 493: 0x11D6 [0x01] GOTO 0x1212
 494: 0x11D9 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x11EC
-495: 0x11E1 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8509*]:
+495: 0x11E1 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8509*]:
     → "Chosen...? Me...?"
 496: 0x11E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 497: 0x11E9 [0x01] GOTO 0x1212
 498: 0x11EC [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x11FF
-499: 0x11F4 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8510*]:
+499: 0x11F4 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8510*]:
     → "Chosen...? Me...?"
 500: 0x11FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 501: 0x11FC [0x01] GOTO 0x1212
 502: 0x11FF [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x1212
-503: 0x1207 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8516*]:
+503: 0x1207 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8516*]:
     → "Chosen...? Me...?"
 504: 0x120E [0x23] WAIT_FOR_DIALOG_INTERACTION
 505: 0x120F [0x01] GOTO 0x1212
 
 SUBROUTINE_1212:
-506: 0x1212 [0x6E] Klafaan (ID: 17232290/0x0106F1A2) uses emote 7*
-507: 0x1219 [0x99] Wait for Klafaan (ID: 17232290/0x0106F1A2) animation to complete
-508: 0x121E [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8517*]:
+506: 0x1212 [0x6E] Klafaan (ID: 17232289/0x0106F1A1) uses emote 7*
+507: 0x1219 [0x99] Wait for Klafaan (ID: 17232289/0x0106F1A1) animation to complete
+508: 0x121E [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8517*]:
     → "The glow of the mirror leaves no room for doubt. The Glass of Blessed Radiance has chosen you."
 509: 0x1225 [0x23] WAIT_FOR_DIALOG_INTERACTION
-510: 0x1226 [0x27] REQ_SET(priority=0x08, entity_id=Klafaan (ID: 17232290/0x0106F1A2), tag_num=0x04)
-511: 0x122D [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8518*]:
+510: 0x1226 [0x27] REQ_SET(priority=0x08, entity_id=Klafaan (ID: 17232289/0x0106F1A1), tag_num=0x04)
+511: 0x122D [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8518*]:
     → "When the chosen one appears before me, I am bid to lift the seal."
 512: 0x1234 [0x23] WAIT_FOR_DIALOG_INTERACTION
-513: 0x1235 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Klafaan (ID: 17232290/0x0106F1A2))
-514: 0x123B [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Klafaan (ID: 17232290/0x0106F1A2)
+513: 0x1235 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Klafaan (ID: 17232289/0x0106F1A1))
+514: 0x123B [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Klafaan (ID: 17232289/0x0106F1A1)
 515: 0x1244 [0x1C] WAIT(60* ticks)
 516: 0x1247 [0x1A] CALL_SUBROUTINE(address=0x1AC8)
 517: 0x124A [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=181*
-518: 0x1259 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Klafaan (ID: 17232290/0x0106F1A2), tag_num=0x05)
-519: 0x1260 [0x80] LOAD_WAIT(entity=Klafaan (ID: 17232290/0x0106F1A2))
+518: 0x1259 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Klafaan (ID: 17232289/0x0106F1A1), tag_num=0x05)
+519: 0x1260 [0x80] LOAD_WAIT(entity=Klafaan (ID: 17232289/0x0106F1A1))
 520: 0x1265 [0x1C] WAIT(60* ticks)
-521: 0x1268 [0x6C] FADE_ENTITY_COLOR(entity_id=Klafaan (ID: 17232290/0x0106F1A2), end_alpha=80*, fade_time=60*)
-522: 0x1271 [0x4A] Klafaan (ID: 17232290/0x0106F1A2) looks at Mirror Pond (ID: 17232288/0x0106F1A0)
-523: 0x127A [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x0A)
+521: 0x1268 [0x6C] FADE_ENTITY_COLOR(entity_id=Klafaan (ID: 17232289/0x0106F1A1), end_alpha=80*, fade_time=60*)
+522: 0x1271 [0x4A] Klafaan (ID: 17232289/0x0106F1A1) looks at Mirror Pond (ID: 17232287/0x0106F19F)
+523: 0x127A [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x0A)
 524: 0x1281 [0x1C] WAIT(120* ticks)
 525: 0x1284 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [EventEntity, EventEntity], work=[181*, 0*]
 526: 0x1295 [0x1A] CALL_SUBROUTINE(address=0x1B1C)
-527: 0x1298 [0x79] Klafaan (ID: 17232290/0x0106F1A2) looks at Mirror Pond (ID: 17232288/0x0106F1A0) (Basic look)
+527: 0x1298 [0x79] Klafaan (ID: 17232289/0x0106F1A1) looks at Mirror Pond (ID: 17232287/0x0106F19F) (Basic look)
 528: 0x12A2 [0x1C] WAIT(30* ticks)
-529: 0x12A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "fq01" with entities [Klafaan (ID: 17232290/0x0106F1A2), Klafaan (ID: 17232290/0x0106F1A2)], work=3*
+529: 0x12A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "fq01" with entities [Klafaan (ID: 17232289/0x0106F1A1), Klafaan (ID: 17232289/0x0106F1A1)], work=3*
 530: 0x12B4 [0x1C] WAIT(120* ticks)
-531: 0x12B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "fq02" with entities [Klafaan (ID: 17232290/0x0106F1A2), Klafaan (ID: 17232290/0x0106F1A2)], work=3*
+531: 0x12B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "fq02" with entities [Klafaan (ID: 17232289/0x0106F1A1), Klafaan (ID: 17232289/0x0106F1A1)], work=3*
 532: 0x12C6 [0x1C] WAIT(15* ticks)
 533: 0x12C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 534: 0x12DA [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [EventEntity, EventEntity], work=181*
@@ -3310,219 +3310,219 @@ SUBROUTINE_1212:
 536: 0x12FA [0x1C] WAIT(30* ticks)
 537: 0x12FD [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [EventEntity, EventEntity], work=[168*, 0*]
 538: 0x130E [0x1C] WAIT(180* ticks)
-539: 0x1311 [0x29] REQ_SET_WAIT(priority=0x0C, entity_id=Unnamed NPC (ID: 17232287/0x0106F19F), tag_num=0x04)
+539: 0x1311 [0x29] REQ_SET_WAIT(priority=0x0C, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x04)
 540: 0x1318 [0x1C] WAIT(1* ticks)
-541: 0x131B [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Unnamed NPC (ID: 17232287/0x0106F19F)
+541: 0x131B [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Unnamed NPC (ID: 17232286/0x0106F19E)
 542: 0x1324 [0x1C] WAIT(120* ticks)
 543: 0x1327 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 544: 0x1338 [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [EventEntity, EventEntity], work=181*
 545: 0x1347 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[181*, 0*]
 546: 0x1358 [0x1C] WAIT(30* ticks)
-547: 0x135B [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17232287/0x0106F19F), Unnamed NPC (ID: 17232287/0x0106F19F)], work=[169*, 0*]
-548: 0x136C [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Klafaan (ID: 17232290/0x0106F1A2), tag_num=0x06)
-549: 0x1373 [0x80] LOAD_WAIT(entity=Klafaan (ID: 17232290/0x0106F1A2))
+547: 0x135B [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=[169*, 0*]
+548: 0x136C [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Klafaan (ID: 17232289/0x0106F1A1), tag_num=0x06)
+549: 0x1373 [0x80] LOAD_WAIT(entity=Klafaan (ID: 17232289/0x0106F1A1))
 550: 0x1378 [0x1C] WAIT(1* ticks)
-551: 0x137B [0x6C] FADE_ENTITY_COLOR(entity_id=Klafaan (ID: 17232290/0x0106F1A2), end_alpha=80*, fade_time=60*)
+551: 0x137B [0x6C] FADE_ENTITY_COLOR(entity_id=Klafaan (ID: 17232289/0x0106F1A1), end_alpha=80*, fade_time=60*)
 552: 0x1384 [0x1C] WAIT(60* ticks)
-553: 0x1387 [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17232286/0x0106F19E)
+553: 0x1387 [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17232285/0x0106F19D)
 554: 0x1390 [0x1C] WAIT(300* ticks)
-555: 0x1393 [0x4A] Klafaan (ID: 17232290/0x0106F1A2) looks at Unnamed NPC (ID: 17232286/0x0106F19E)
+555: 0x1393 [0x4A] Klafaan (ID: 17232289/0x0106F1A1) looks at Unnamed NPC (ID: 17232285/0x0106F19D)
 556: 0x139C [0x1C] WAIT(300* ticks)
 557: 0x139F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 558: 0x13B0 [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=181*
 559: 0x13BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[181*, 0*]
 560: 0x13D0 [0x1C] WAIT(120* ticks)
-561: 0x13D3 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17232287/0x0106F19F), Unnamed NPC (ID: 17232287/0x0106F19F)], work=[174*, 0*]
+561: 0x13D3 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=[174*, 0*]
 562: 0x13E4 [0x1C] WAIT(120* ticks)
 563: 0x13E7 [0x1A] CALL_SUBROUTINE(address=0x3076)
 564: 0x13EA [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x13FD
-565: 0x13F2 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8519*]:
+565: 0x13F2 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8519*]:
     → "This light... It truly is a blessed radiance..."
 566: 0x13F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 567: 0x13FA [0x01] GOTO 0x14CE
 568: 0x13FD [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x1410
-569: 0x1405 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8520*]:
+569: 0x1405 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8520*]:
     → "This light... It truly is beautiful..."
 570: 0x140C [0x23] WAIT_FOR_DIALOG_INTERACTION
 571: 0x140D [0x01] GOTO 0x14CE
 572: 0x1410 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x1423
-573: 0x1418 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8521*]:
+573: 0x1418 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8521*]:
     → "This light... It truly is a blessed radiance..."
 574: 0x141F [0x23] WAIT_FOR_DIALOG_INTERACTION
 575: 0x1420 [0x01] GOTO 0x14CE
 576: 0x1423 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x1436
-577: 0x142B [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8522*]:
+577: 0x142B [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8522*]:
     → "This light... It truly is a blessed radiance..."
 578: 0x1432 [0x23] WAIT_FOR_DIALOG_INTERACTION
 579: 0x1433 [0x01] GOTO 0x14CE
 580: 0x1436 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x1449
-581: 0x143E [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8525*]:
+581: 0x143E [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8525*]:
     → "This light... It truly is a blessed radiance..."
 582: 0x1445 [0x23] WAIT_FOR_DIALOG_INTERACTION
 583: 0x1446 [0x01] GOTO 0x14CE
 584: 0x1449 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x145C
-585: 0x1451 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8526*]:
+585: 0x1451 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8526*]:
     → "This light... It's so very beautiful..."
 586: 0x1458 [0x23] WAIT_FOR_DIALOG_INTERACTION
 587: 0x1459 [0x01] GOTO 0x14CE
 588: 0x145C [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x146F
-589: 0x1464 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8527*]:
+589: 0x1464 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8527*]:
     → "This light... It truly is a blessed radiance..."
 590: 0x146B [0x23] WAIT_FOR_DIALOG_INTERACTION
 591: 0x146C [0x01] GOTO 0x14CE
 592: 0x146F [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x1482
-593: 0x1477 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8528*]:
+593: 0x1477 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8528*]:
     → "This light... I've never seen anything so beautiful..."
 594: 0x147E [0x23] WAIT_FOR_DIALOG_INTERACTION
 595: 0x147F [0x01] GOTO 0x14CE
 596: 0x1482 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x1495
-597: 0x148A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8529*]:
+597: 0x148A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8529*]:
     → "This light... It truly is a blessed radiance..."
 598: 0x1491 [0x23] WAIT_FOR_DIALOG_INTERACTION
 599: 0x1492 [0x01] GOTO 0x14CE
 600: 0x1495 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x14A8
-601: 0x149D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8523*]:
+601: 0x149D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8523*]:
     → "This light... It's beautiful beyond words..."
 602: 0x14A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 603: 0x14A5 [0x01] GOTO 0x14CE
 604: 0x14A8 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x14BB
-605: 0x14B0 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8524*]:
+605: 0x14B0 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8524*]:
     → "This light... It truly is a blessed radiance..."
 606: 0x14B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 607: 0x14B8 [0x01] GOTO 0x14CE
 608: 0x14BB [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x14CE
-609: 0x14C3 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8530*]:
+609: 0x14C3 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8530*]:
     → "This light... It truly is a blessed radiance..."
 610: 0x14CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 611: 0x14CB [0x01] GOTO 0x14CE
 
 SUBROUTINE_14CE:
-612: 0x14CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Klafaan (ID: 17232290/0x0106F1A2), Klafaan (ID: 17232290/0x0106F1A2)], work=5*
+612: 0x14CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Klafaan (ID: 17232289/0x0106F1A1), Klafaan (ID: 17232289/0x0106F1A1)], work=5*
 613: 0x14DD [0x1C] WAIT(60* ticks)
-614: 0x14E0 [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8531*]:
+614: 0x14E0 [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8531*]:
     → "I trust in the one chosen by the mirror."
 615: 0x14E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-616: 0x14E8 [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8532*]:
+616: 0x14E8 [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8532*]:
     → "You must bide your time until the power of the glass is fully restored. It will not take long."
 617: 0x14EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-618: 0x14F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Klafaan (ID: 17232290/0x0106F1A2), Klafaan (ID: 17232290/0x0106F1A2)], work=5*
+618: 0x14F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Klafaan (ID: 17232289/0x0106F1A1), Klafaan (ID: 17232289/0x0106F1A1)], work=5*
 619: 0x14FF [0x1C] WAIT(60* ticks)
 620: 0x1502 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 621: 0x1513 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=181*
 622: 0x1522 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[181*, 0*]
-623: 0x1533 [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Klafaan (ID: 17232290/0x0106F1A2)
+623: 0x1533 [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Klafaan (ID: 17232289/0x0106F1A1)
 624: 0x153C [0x1C] WAIT(60* ticks)
 625: 0x153F [0x1A] CALL_SUBROUTINE(address=0x3076)
 626: 0x1542 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x1555
-627: 0x154A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8533*]:
+627: 0x154A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8533*]:
     → "I will use this blessed radiance to save Palometa. I promise you."
 628: 0x1551 [0x23] WAIT_FOR_DIALOG_INTERACTION
 629: 0x1552 [0x01] GOTO 0x1626
 630: 0x1555 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x1568
-631: 0x155D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8534*]:
+631: 0x155D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8534*]:
     → "I'll use this power to save Palometa. I promise you!"
 632: 0x1564 [0x23] WAIT_FOR_DIALOG_INTERACTION
 633: 0x1565 [0x01] GOTO 0x1626
 634: 0x1568 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x157B
-635: 0x1570 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8535*]:
+635: 0x1570 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8535*]:
     → "I will use this blessed radiance to save Palometa. I promise you."
 636: 0x1577 [0x23] WAIT_FOR_DIALOG_INTERACTION
 637: 0x1578 [0x01] GOTO 0x1626
 638: 0x157B [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x158E
-639: 0x1583 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8536*]:
+639: 0x1583 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8536*]:
     → "I will use this blessed radiance to save Palometa. I promise you."
 640: 0x158A [0x23] WAIT_FOR_DIALOG_INTERACTION
 641: 0x158B [0x01] GOTO 0x1626
 642: 0x158E [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x15A1
-643: 0x1596 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8539*]:
+643: 0x1596 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8539*]:
     → "I will use this blessed radiance to save Palometa. I promise you."
 644: 0x159D [0x23] WAIT_FOR_DIALOG_INTERACTION
 645: 0x159E [0x01] GOTO 0x1626
 646: 0x15A1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x15B4
-647: 0x15A9 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8540*]:
+647: 0x15A9 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8540*]:
     → "I'll use this blessed radiance to save Palometa. I promise you!"
 648: 0x15B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 649: 0x15B1 [0x01] GOTO 0x1626
 650: 0x15B4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x15C7
-651: 0x15BC [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8541*]:
+651: 0x15BC [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8541*]:
     → "I will use this blessed radiance to save Palometa. I promise you."
 652: 0x15C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 653: 0x15C4 [0x01] GOTO 0x1626
 654: 0x15C7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x15DA
-655: 0x15CF [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8542*]:
+655: 0x15CF [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8542*]:
     → "I'll use this wonderful power to save Palometa. I promise you."
 656: 0x15D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 657: 0x15D7 [0x01] GOTO 0x1626
 658: 0x15DA [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x15ED
-659: 0x15E2 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8543*]:
+659: 0x15E2 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8543*]:
     → "I will use this blessed radiance to save Palometa. I promise you."
 660: 0x15E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 661: 0x15EA [0x01] GOTO 0x1626
 662: 0x15ED [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x1600
-663: 0x15F5 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8537*]:
+663: 0x15F5 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8537*]:
     → "I will use this blessed radiance to save Palometa. I promise!"
 664: 0x15FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 665: 0x15FD [0x01] GOTO 0x1626
 666: 0x1600 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x1613
-667: 0x1608 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8538*]:
+667: 0x1608 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8538*]:
     → "I will use this blessed radiance to save Palometa. I promise you."
 668: 0x160F [0x23] WAIT_FOR_DIALOG_INTERACTION
 669: 0x1610 [0x01] GOTO 0x1626
 670: 0x1613 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x1626
-671: 0x161B [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8544*]:
+671: 0x161B [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8544*]:
     → "I will use this blessed radiance to save Palometa. This, I promise."
 672: 0x1622 [0x23] WAIT_FOR_DIALOG_INTERACTION
 673: 0x1623 [0x01] GOTO 0x1626
 
 SUBROUTINE_1626:
 674: 0x1626 [0x1C] WAIT(60* ticks)
-675: 0x1629 [0x6E] Klafaan (ID: 17232290/0x0106F1A2) uses emote 1*
-676: 0x1630 [0x99] Wait for Klafaan (ID: 17232290/0x0106F1A2) animation to complete
+675: 0x1629 [0x6E] Klafaan (ID: 17232289/0x0106F1A1) uses emote 1*
+676: 0x1630 [0x99] Wait for Klafaan (ID: 17232289/0x0106F1A1) animation to complete
 677: 0x1635 [0x1C] WAIT(120* ticks)
-678: 0x1638 [0x6E] Unnamed NPC (ID: 17232286/0x0106F19E) uses emote 7*
-679: 0x163F [0x99] Wait for Unnamed NPC (ID: 17232286/0x0106F19E) animation to complete
+678: 0x1638 [0x6E] Unnamed NPC (ID: 17232285/0x0106F19D) uses emote 7*
+679: 0x163F [0x99] Wait for Unnamed NPC (ID: 17232285/0x0106F19D) animation to complete
 680: 0x1644 [0x1C] WAIT(60* ticks)
-681: 0x1647 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Klafaan (ID: 17232290/0x0106F1A2), tag_num=0x07)
+681: 0x1647 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Klafaan (ID: 17232289/0x0106F1A1), tag_num=0x07)
 682: 0x164E [0x1C] WAIT(60* ticks)
-683: 0x1651 [0x2B] Klafaan (ID: 17232290/0x0106F1A2) [8545*]:
+683: 0x1651 [0x2B] Klafaan (ID: 17232289/0x0106F1A1) [8545*]:
     → "A strange day indeed when the wielder of blessed radiance seeks to protect the bearer of blighted gloom..."
 684: 0x1658 [0x23] WAIT_FOR_DIALOG_INTERACTION
 685: 0x1659 [0x1C] WAIT(120* ticks)
 686: 0x165C [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=181*
 687: 0x166B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[181*, 0*]
 688: 0x167C [0x1C] WAIT(180* ticks)
-689: 0x167F [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Unnamed NPC (ID: 17232287/0x0106F19F)
+689: 0x167F [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Unnamed NPC (ID: 17232286/0x0106F19E)
 690: 0x1688 [0x1C] WAIT(60* ticks)
 691: 0x168B [0x1A] CALL_SUBROUTINE(address=0x1A41)
 692: 0x168E [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=181*
 693: 0x169D [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=LocalPlayer, tag_num=0x35)
-694: 0x16A4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x0B)
+694: 0x16A4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x0B)
 695: 0x16AB [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
-696: 0x16B1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17232286/0x0106F19E)
-697: 0x16B7 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17232287/0x0106F19F)
+696: 0x16B1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17232285/0x0106F19D)
+697: 0x16B7 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17232286/0x0106F19E)
 698: 0x16BD [0x1C] WAIT(1* ticks)
 699: 0x16C0 [0x34] LOAD_UNLOAD_ZONE(zone_id=245*)
 700: 0x16C3 [0x77] SET_EVENT_TIME_WEATHER(hour=0*, weather=0*)
 701: 0x16C8 [0x75] LOAD_ROOM(Load indoor room, room=455*)
 702: 0x16CC [0x75] LOAD_ROOM(No action)
 703: 0x16CE [0x1C] WAIT(1* ticks)
-704: 0x16D1 [0x2F] Palometa (ID: 17232291/0x0106F1A3)->Render.Flags0 &= ~0x80000 // Bit 19
-705: 0x16D7 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Palometa (ID: 17232291/0x0106F1A3), tag_num=0x02)
-706: 0x16DE [0x4E] SET_ENTITY_HIDE_FLAG: Show Palometa (ID: 17232291/0x0106F1A3)
-707: 0x16E4 [0x80] LOAD_WAIT(entity=Palometa (ID: 17232291/0x0106F1A3))
+704: 0x16D1 [0x2F] Palometa (ID: 17232290/0x0106F1A2)->Render.Flags0 &= ~0x80000 // Bit 19
+705: 0x16D7 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Palometa (ID: 17232290/0x0106F1A2), tag_num=0x02)
+706: 0x16DE [0x4E] SET_ENTITY_HIDE_FLAG: Show Palometa (ID: 17232290/0x0106F1A2)
+707: 0x16E4 [0x80] LOAD_WAIT(entity=Palometa (ID: 17232290/0x0106F1A2))
 708: 0x16E9 [0x1C] WAIT(1* ticks)
 709: 0x16EC [0x1C] WAIT(100* ticks)
-710: 0x16EF [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Palometa (ID: 17232291/0x0106F1A3))
-711: 0x16F5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fq01" with entities [Palometa (ID: 17232291/0x0106F1A3), Palometa (ID: 17232291/0x0106F1A3)], work=83*
+710: 0x16EF [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Palometa (ID: 17232290/0x0106F1A2))
+711: 0x16F5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fq01" with entities [Palometa (ID: 17232290/0x0106F1A2), Palometa (ID: 17232290/0x0106F1A2)], work=83*
 712: 0x1704 [0x1C] WAIT(90* ticks)
 713: 0x1707 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [EventEntity, EventEntity], work=[200*, 0*]
 714: 0x1718 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[181*, 0*]
 715: 0x1729 [0x1C] WAIT(60* ticks)
 716: 0x172C [0x1A] CALL_SUBROUTINE(address=0x1A95)
-717: 0x172F [0x2B] Palometa (ID: 17232291/0x0106F1A3) [8546*]:
+717: 0x172F [0x2B] Palometa (ID: 17232290/0x0106F1A2) [8546*]:
     → "Daddy... You can't leave us..."
 718: 0x1736 [0x23] WAIT_FOR_DIALOG_INTERACTION
-719: 0x1737 [0x2B] Palometa (ID: 17232291/0x0106F1A3) [8547*]:
+719: 0x1737 [0x2B] Palometa (ID: 17232290/0x0106F1A2) [8547*]:
     → "Don't go..."
 720: 0x173E [0x23] WAIT_FOR_DIALOG_INTERACTION
 721: 0x173F [0x1A] CALL_SUBROUTINE(address=0x1A62)
@@ -3530,158 +3530,158 @@ SUBROUTINE_1626:
 723: 0x1751 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [EventEntity, EventEntity], work=[200*, 0*]
 724: 0x1762 [0x1C] WAIT(180* ticks)
 725: 0x1765 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=LocalPlayer, tag_num=0x36)
-726: 0x176C [0x29] REQ_SET_WAIT(priority=0x0C, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x0C)
-727: 0x1773 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Palometa (ID: 17232291/0x0106F1A3)
+726: 0x176C [0x29] REQ_SET_WAIT(priority=0x0C, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x0C)
+727: 0x1773 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Palometa (ID: 17232290/0x0106F1A2)
 728: 0x1779 [0x35] LOAD_ZONE_NO_CLOSE(zone_id=111*)
 729: 0x177C [0x78] ENABLE_GAME_TIMER_RESET_WEATHER()
 730: 0x177D [0x1C] WAIT(1* ticks)
 731: 0x1780 [0x77] SET_EVENT_TIME_WEATHER(hour=22*, weather=12*)
 732: 0x1785 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
-733: 0x178B [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Unnamed NPC (ID: 17232286/0x0106F19E), tag_num=0x01)
-734: 0x1792 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232286/0x0106F19E)
-735: 0x1798 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232287/0x0106F19F)
+733: 0x178B [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Unnamed NPC (ID: 17232285/0x0106F19D), tag_num=0x01)
+734: 0x1792 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232285/0x0106F19D)
+735: 0x1798 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17232286/0x0106F19E)
 736: 0x179E [0x80] LOAD_WAIT(entity=LocalPlayer)
-737: 0x17A3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232286/0x0106F19E))
-738: 0x17A8 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232287/0x0106F19F))
-739: 0x17AD [0x4E] SET_ENTITY_HIDE_FLAG: Hide Klafaan (ID: 17232290/0x0106F1A2)
+737: 0x17A3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232285/0x0106F19D))
+738: 0x17A8 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17232286/0x0106F19E))
+739: 0x17AD [0x4E] SET_ENTITY_HIDE_FLAG: Hide Klafaan (ID: 17232289/0x0106F1A1)
 740: 0x17B3 [0x1C] WAIT(1* ticks)
-741: 0x17B6 [0x79] Unnamed NPC (ID: 17232286/0x0106F19E) looks at Unnamed NPC (ID: 17232287/0x0106F19F) (Basic look)
-742: 0x17C0 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17232287/0x0106F19F), Unnamed NPC (ID: 17232287/0x0106F19F)], work=[174*, 0*]
+741: 0x17B6 [0x79] Unnamed NPC (ID: 17232285/0x0106F19D) looks at Unnamed NPC (ID: 17232286/0x0106F19E) (Basic look)
+742: 0x17C0 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=[174*, 0*]
 743: 0x17D1 [0x1C] WAIT(180* ticks)
 744: 0x17D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[181*, 0*]
 745: 0x17E5 [0x1A] CALL_SUBROUTINE(address=0x1A83)
 746: 0x17E8 [0x1C] WAIT(360* ticks)
-747: 0x17EB [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "kill" with entities [Unnamed NPC (ID: 17232287/0x0106F19F), Unnamed NPC (ID: 17232287/0x0106F19F)], work=[174*, 0*]
+747: 0x17EB [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "kill" with entities [Unnamed NPC (ID: 17232286/0x0106F19E), Unnamed NPC (ID: 17232286/0x0106F19E)], work=[174*, 0*]
 748: 0x17FC [0x1C] WAIT(180* ticks)
 749: 0x17FF [0x1A] CALL_SUBROUTINE(address=0x3076)
 750: 0x1802 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x1815
-751: 0x180A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8548*]:
+751: 0x180A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8548*]:
     → "Could Palometa be in some kind of trouble?"
 752: 0x1811 [0x23] WAIT_FOR_DIALOG_INTERACTION
 753: 0x1812 [0x01] GOTO 0x18E6
 754: 0x1815 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x1828
-755: 0x181D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8549*]:
+755: 0x181D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8549*]:
     → "Could something have happened to Palometa?"
 756: 0x1824 [0x23] WAIT_FOR_DIALOG_INTERACTION
 757: 0x1825 [0x01] GOTO 0x18E6
 758: 0x1828 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x183B
-759: 0x1830 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8550*]:
+759: 0x1830 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8550*]:
     → "Is Palometa in danger...?"
 760: 0x1837 [0x23] WAIT_FOR_DIALOG_INTERACTION
 761: 0x1838 [0x01] GOTO 0x18E6
 762: 0x183B [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x184E
-763: 0x1843 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8551*]:
+763: 0x1843 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8551*]:
     → "Might something terrible have befallen Palometa?"
 764: 0x184A [0x23] WAIT_FOR_DIALOG_INTERACTION
 765: 0x184B [0x01] GOTO 0x18E6
 766: 0x184E [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x1861
-767: 0x1856 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8554*]:
+767: 0x1856 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8554*]:
     → "Could Palometa be in some kind of trouble?"
 768: 0x185D [0x23] WAIT_FOR_DIALOG_INTERACTION
 769: 0x185E [0x01] GOTO 0x18E6
 770: 0x1861 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x1874
-771: 0x1869 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8555*]:
+771: 0x1869 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8555*]:
     → "Could something have happened to Palometa?"
 772: 0x1870 [0x23] WAIT_FOR_DIALOG_INTERACTION
 773: 0x1871 [0x01] GOTO 0x18E6
 774: 0x1874 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x1887
-775: 0x187C [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8556*]:
+775: 0x187C [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8556*]:
     → "Is Palometa in danger...?"
 776: 0x1883 [0x23] WAIT_FOR_DIALOG_INTERACTION
 777: 0x1884 [0x01] GOTO 0x18E6
 778: 0x1887 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x189A
-779: 0x188F [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8557*]:
+779: 0x188F [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8557*]:
     → "Palometa! She could be in trouble!"
 780: 0x1896 [0x23] WAIT_FOR_DIALOG_INTERACTION
 781: 0x1897 [0x01] GOTO 0x18E6
 782: 0x189A [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x18AD
-783: 0x18A2 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8558*]:
+783: 0x18A2 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8558*]:
     → "Might something terrible have befallen Palometa?"
 784: 0x18A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 785: 0x18AA [0x01] GOTO 0x18E6
 786: 0x18AD [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x18C0
-787: 0x18B5 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8552*]:
+787: 0x18B5 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8552*]:
     → "Did something bad happen to Palometa?"
 788: 0x18BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 789: 0x18BD [0x01] GOTO 0x18E6
 790: 0x18C0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x18D3
-791: 0x18C8 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8553*]:
+791: 0x18C8 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8553*]:
     → "Has something terrible happened to our Palometa?"
 792: 0x18CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 793: 0x18D0 [0x01] GOTO 0x18E6
 794: 0x18D3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x18E6
-795: 0x18DB [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8559*]:
+795: 0x18DB [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8559*]:
     → "Could something be threatening Palometa's safety?"
 796: 0x18E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 797: 0x18E3 [0x01] GOTO 0x18E6
 
 SUBROUTINE_18E6:
-798: 0x18E6 [0x7B] Unnamed NPC (ID: 17232286/0x0106F19E) stops talking
+798: 0x18E6 [0x7B] Unnamed NPC (ID: 17232285/0x0106F19D) stops talking
 799: 0x18EB [0x1C] WAIT(60* ticks)
 800: 0x18EE [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=181*
 801: 0x18FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[181*, 0*]
-802: 0x190E [0x4A] Unnamed NPC (ID: 17232286/0x0106F19E) looks at LocalPlayer
+802: 0x190E [0x4A] Unnamed NPC (ID: 17232285/0x0106F19D) looks at LocalPlayer
 803: 0x1917 [0x1C] WAIT(60* ticks)
-804: 0x191A [0x6E] Unnamed NPC (ID: 17232286/0x0106F19E) uses emote 7*
-805: 0x1921 [0x99] Wait for Unnamed NPC (ID: 17232286/0x0106F19E) animation to complete
+804: 0x191A [0x6E] Unnamed NPC (ID: 17232285/0x0106F19D) uses emote 7*
+805: 0x1921 [0x99] Wait for Unnamed NPC (ID: 17232285/0x0106F19D) animation to complete
 806: 0x1926 [0x1A] CALL_SUBROUTINE(address=0x3076)
 807: 0x1929 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x193C
-808: 0x1931 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8560*]:
+808: 0x1931 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8560*]:
     → "We have to return to Jeuno!"
 809: 0x1938 [0x23] WAIT_FOR_DIALOG_INTERACTION
 810: 0x1939 [0x01] GOTO 0x1A0D
 811: 0x193C [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x194F
-812: 0x1944 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8561*]:
+812: 0x1944 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8561*]:
     → "Back to Jeuno, and hurry!"
 813: 0x194B [0x23] WAIT_FOR_DIALOG_INTERACTION
 814: 0x194C [0x01] GOTO 0x1A0D
 815: 0x194F [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x1962
-816: 0x1957 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8562*]:
+816: 0x1957 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8562*]:
     → "We must get back to Jeuno!"
 817: 0x195E [0x23] WAIT_FOR_DIALOG_INTERACTION
 818: 0x195F [0x01] GOTO 0x1A0D
 819: 0x1962 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x1975
-820: 0x196A [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8563*]:
+820: 0x196A [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8563*]:
     → "We must return to Jeuno!"
 821: 0x1971 [0x23] WAIT_FOR_DIALOG_INTERACTION
 822: 0x1972 [0x01] GOTO 0x1A0D
 823: 0x1975 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x1988
-824: 0x197D [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8566*]:
+824: 0x197D [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8566*]:
     → "We have to return to Jeuno!"
 825: 0x1984 [0x23] WAIT_FOR_DIALOG_INTERACTION
 826: 0x1985 [0x01] GOTO 0x1A0D
 827: 0x1988 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x199B
-828: 0x1990 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8567*]:
+828: 0x1990 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8567*]:
     → "Back to Jeuno, and hurry!"
 829: 0x1997 [0x23] WAIT_FOR_DIALOG_INTERACTION
 830: 0x1998 [0x01] GOTO 0x1A0D
 831: 0x199B [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x19AE
-832: 0x19A3 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8568*]:
+832: 0x19A3 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8568*]:
     → "To Jeuno!"
 833: 0x19AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 834: 0x19AB [0x01] GOTO 0x1A0D
 835: 0x19AE [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x19C1
-836: 0x19B6 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8569*]:
+836: 0x19B6 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8569*]:
     → "We gotta get back to Jeuno!"
 837: 0x19BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 838: 0x19BE [0x01] GOTO 0x1A0D
 839: 0x19C1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x19D4
-840: 0x19C9 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8570*]:
+840: 0x19C9 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8570*]:
     → "We must return to Jeuno!"
 841: 0x19D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 842: 0x19D1 [0x01] GOTO 0x1A0D
 843: 0x19D4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x19E7
-844: 0x19DC [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8564*]:
+844: 0x19DC [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8564*]:
     → "Let's hurry back to Jeuno!"
 845: 0x19E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 846: 0x19E4 [0x01] GOTO 0x1A0D
 847: 0x19E7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x19FA
-848: 0x19EF [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8565*]:
+848: 0x19EF [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8565*]:
     → "We have to return to Jeuno!"
 849: 0x19F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 850: 0x19F7 [0x01] GOTO 0x1A0D
 851: 0x19FA [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x1A0D
-852: 0x1A02 [0x2B] Unnamed NPC (ID: 17232286/0x0106F19E) [8571*]:
+852: 0x1A02 [0x2B] Unnamed NPC (ID: 17232285/0x0106F19D) [8571*]:
     → "We're returning to Jeuno, now!"
 853: 0x1A09 [0x23] WAIT_FOR_DIALOG_INTERACTION
 854: 0x1A0A [0x01] GOTO 0x1A0D
@@ -8379,7 +8379,7 @@ SUBROUTINE_1A0D:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 6400:                                      32 05 80 1F              2...
-6410: 00 81 82 82 82 44 80 1F  01 6F 1E CB F1 06 01 6F  .....D...o.....o
+6410: 00 81 82 82 82 44 80 1F  01 6F 1E CA F1 06 01 6F  .....D...o.....o
 6420: 70 00                                             p.              
 ```
 
@@ -8390,7 +8390,7 @@ SUBROUTINE_1A0D:
   1: 0x640F [0x1F] MOVE_ENTITY: EventEntity moves to X=238.082*, Z=246.757*, Y=0.000*
   2: 0x6417 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x6419 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x641A [0x1E] EventEntity looks at Excenmille (ID: 17232331/0x0106F1CB) and starts talking
+  4: 0x641A [0x1E] EventEntity looks at Excenmille (ID: 17232330/0x0106F1CA) and starts talking
   5: 0x641F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x6420 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x6421 [0x00] END_REQSTACK()
@@ -8410,7 +8410,7 @@ SUBROUTINE_1A0D:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 6420:       32 BE 80 1F 00 83  82 84 82 85 82 1F 01 6F    2............o
-6430: 4A F8 FF FF 7F CC F1 06  01 6F 76 F8 FF FF 7F 00  J........ov.....
+6430: 4A F8 FF FF 7F CB F1 06  01 6F 76 F8 FF FF 7F 00  J........ov.....
 ```
 
 #### Opcodes
@@ -8420,7 +8420,7 @@ SUBROUTINE_1A0D:
   1: 0x6425 [0x1F] MOVE_ENTITY: EventEntity moves to X=219.975*, Z=268.782*, Y=-39.052*
   2: 0x642D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x642F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x6430 [0x4A] EventEntity looks at Slackjawed Mukdrom (ID: 17232332/0x0106F1CC)
+  4: 0x6430 [0x4A] EventEntity looks at Slackjawed Mukdrom (ID: 17232331/0x0106F1CB)
   5: 0x6439 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x643A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   7: 0x643F [0x00] END_REQSTACK()
@@ -8521,7 +8521,7 @@ SUBROUTINE_1A0D:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 6460:                                         32 BE 80               2..
 6470: 1F 00 8E 82 8F 82 90 82  1F 01 6F 4A F8 FF FF 7F  ..........oJ....
-6480: CC F1 06 01 6F 76 F8 FF  FF 7F 00                 ....ov.....     
+6480: CB F1 06 01 6F 76 F8 FF  FF 7F 00                 ....ov.....     
 ```
 
 #### Opcodes
@@ -8531,7 +8531,7 @@ SUBROUTINE_1A0D:
   1: 0x6470 [0x1F] MOVE_ENTITY: EventEntity moves to X=213.750*, Z=270.260*, Y=-39.717*
   2: 0x6478 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x647A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x647B [0x4A] EventEntity looks at Slackjawed Mukdrom (ID: 17232332/0x0106F1CC)
+  4: 0x647B [0x4A] EventEntity looks at Slackjawed Mukdrom (ID: 17232331/0x0106F1CB)
   5: 0x6484 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x6485 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   7: 0x648A [0x00] END_REQSTACK()

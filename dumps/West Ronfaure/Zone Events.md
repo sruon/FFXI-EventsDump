@@ -335,26 +335,26 @@ SUBROUTINE_0079:
 00F0: 7F F0 FF FF 7F 78 30 30  30 01 80 55 1B 80 F0 FF  .....x000..U....
 0100: FF 7F F0 FF FF 7F 78 30  30 30 45 14 80 F0 FF FF  ......x000E.....
 0110: 7F F0 FF FF 7F 66 64 69  31 01 80 55 14 80 F0 FF  .....fdi1..U....
-0120: FF 7F F0 FF FF 7F 66 64  69 31 4A A6 42 06 01 F0  ......fdi1J.B...
-0130: FF FF 7F 6F 76 A6 42 06  01 2B A6 42 06 01 1C 80  ...ov.B..+.B....
-0140: 23 27 02 A6 42 06 01 0B  27 03 A6 42 06 01 0F 2B  #'..B...'..B...+
-0150: A6 42 06 01 1D 80 23 2A  03 A6 42 06 01 45 1B 80  .B....#*..B..E..
+0120: FF 7F F0 FF FF 7F 66 64  69 31 4A A5 42 06 01 F0  ......fdi1J.B...
+0130: FF FF 7F 6F 76 A5 42 06  01 2B A5 42 06 01 1C 80  ...ov.B..+.B....
+0140: 23 27 02 A5 42 06 01 0B  27 03 A5 42 06 01 0F 2B  #'..B...'..B...+
+0150: A5 42 06 01 1D 80 23 2A  03 A5 42 06 01 45 1B 80  .B....#*..B..E..
 0160: F0 FF FF 7F F0 FF FF 7F  78 30 30 31 01 80 55 1B  ........x001..U.
-0170: 80 F0 FF FF 7F F0 FF FF  7F 78 30 30 31 2B A6 42  .........x001+.B
+0170: 80 F0 FF FF 7F F0 FF FF  7F 78 30 30 31 2B A5 42  .........x001+.B
 0180: 06 01 1E 80 23 24 1F 80  02 80 01 80 25 45 1B 80  ....#$......%E..
 0190: F0 FF FF 7F F0 FF FF 7F  78 30 30 32 01 80 27 03  ........x002..'.
-01A0: A6 42 06 01 09 02 00 10  01 80 00 B8 01 2B A6 42  .B...........+.B
+01A0: A5 42 06 01 09 02 00 10  01 80 00 B8 01 2B A5 42  .B...........+.B
 01B0: 06 01 20 80 23 01 CB 01  02 00 10 02 80 00 CB 01  .. .#...........
-01C0: 2B A6 42 06 01 21 80 23  01 CB 01 2A 03 A6 42 06  +.B..!.#...*..B.
+01C0: 2B A5 42 06 01 21 80 23  01 CB 01 2A 03 A5 42 06  +.B..!.#...*..B.
 01D0: 01 55 1B 80 F0 FF FF 7F  F0 FF FF 7F 78 30 30 32  .U..........x002
-01E0: 2B A6 42 06 01 22 80 23  4A A6 42 06 01 F0 FF FF  +.B..".#J.B.....
-01F0: 7F 2B A6 42 06 01 23 80  23 6F 76 A6 42 06 01 27  .+.B..#.#ov.B..'
-0200: 03 A6 42 06 01 10 2B A6  42 06 01 24 80 23 27 04  ..B...+.B..$.#'.
-0210: A6 42 06 01 11 1C 10 80  45 1B 80 F0 FF FF 7F F0  .B......E.......
+01E0: 2B A5 42 06 01 22 80 23  4A A5 42 06 01 F0 FF FF  +.B..".#J.B.....
+01F0: 7F 2B A5 42 06 01 23 80  23 6F 76 A5 42 06 01 27  .+.B..#.#ov.B..'
+0200: 03 A5 42 06 01 10 2B A5  42 06 01 24 80 23 27 04  ..B...+.B..$.#'.
+0210: A5 42 06 01 11 1C 10 80  45 1B 80 F0 FF FF 7F F0  .B......E.......
 0220: FF FF 7F 78 30 30 33 01  80 55 1B 80 F0 FF FF 7F  ...x003..U......
-0230: F0 FF FF 7F 78 30 30 33  2B A6 42 06 01 25 80 23  ....x003+.B..%.#
-0240: 2A 04 A6 42 06 01 27 03  A6 42 06 01 0A 1C 26 80  *..B..'..B....&.
-0250: 2B A6 42 06 01 27 80 23  45 14 80 F0 FF FF 7F F0  +.B..'.#E.......
+0230: F0 FF FF 7F 78 30 30 33  2B A5 42 06 01 25 80 23  ....x003+.B..%.#
+0240: 2A 04 A5 42 06 01 27 03  A5 42 06 01 0A 1C 26 80  *..B..'..B....&.
+0250: 2B A5 42 06 01 27 80 23  45 14 80 F0 FF FF 7F F0  +.B..'.#E.......
 0260: FF FF 7F 66 64 6F 32 01  80 55 14 80 F0 FF FF 7F  ...fdo2..U......
 0270: F0 FF FF 7F 66 64 6F 32  5C 00 28 80 5C 01 28 80  ....fdo2\.(.\.(.
 0280: 46 00 45 14 80 F0 FF FF  7F F0 FF FF 7F 66 64 69  F.E..........fdi
@@ -378,66 +378,66 @@ SUBROUTINE_0079:
  11: 0x00FB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=245*
  12: 0x010A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x011B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 14: 0x012A [0x4A] Esca (ID: 17187494/0x010642A6) looks at LocalPlayer
+ 14: 0x012A [0x4A] Esca (ID: 17187493/0x010642A5) looks at LocalPlayer
  15: 0x0133 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
- 16: 0x0134 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Esca (ID: 17187494/0x010642A6) Render.Flags0 and Render.Flags3 conditions are met
- 17: 0x0139 [0x2B] Esca (ID: 17187494/0x010642A6) [7902*]:
+ 16: 0x0134 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Esca (ID: 17187493/0x010642A5) Render.Flags0 and Render.Flags3 conditions are met
+ 17: 0x0139 [0x2B] Esca (ID: 17187493/0x010642A5) [7902*]:
     → "What do you want? You want to know if I've seen that earring before?"
  18: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0141 [0x27] REQ_SET(priority=0x02, entity_id=Esca (ID: 17187494/0x010642A6), tag_num=0x0B)
- 20: 0x0148 [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187494/0x010642A6), tag_num=0x0F)
- 21: 0x014F [0x2B] Esca (ID: 17187494/0x010642A6) [7903*]:
+ 19: 0x0141 [0x27] REQ_SET(priority=0x02, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x0B)
+ 20: 0x0148 [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x0F)
+ 21: 0x014F [0x2B] Esca (ID: 17187493/0x010642A5) [7903*]:
     → "...! Where did you get that? Ah, I must have dropped it that time I was... Damn, I'm so clumsy!"
  22: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0157 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Esca (ID: 17187494/0x010642A6))
+ 23: 0x0157 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Esca (ID: 17187493/0x010642A5))
  24: 0x015D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[245*, 0*]
  25: 0x016E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=245*
- 26: 0x017D [0x2B] Esca (ID: 17187494/0x010642A6) [7904*]:
+ 26: 0x017D [0x2B] Esca (ID: 17187493/0x010642A5) [7904*]:
     → "Well, I guess you found me out. I was the one who mugged Brugaire for his father's inheritance. Even if I am a thief, a lady likes to look her best when doing her job. By the way, do you have any idea what I stole?"
  27: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0185 [0x24] CREATE_DIALOG(message_id=7905*, default_option=1*, option_flags=0*)
     → "Any idea? [I have a pretty good idea./Not a clue.]"
  29: 0x018C [0x25] WAIT_DIALOG_SELECT()
  30: 0x018D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[245*, 0*]
- 31: 0x019E [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187494/0x010642A6), tag_num=0x09)
+ 31: 0x019E [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x09)
  32: 0x01A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B8
- 33: 0x01AD [0x2B] Esca (ID: 17187494/0x010642A6) [7906*]:
+ 33: 0x01AD [0x2B] Esca (ID: 17187493/0x010642A5) [7906*]:
     → "That's right, a piece of the armor said to have been worn by the legendary last dragoon."
  34: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x01B5 [0x01] GOTO 0x01CB
  36: 0x01B8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01CB
- 37: 0x01C0 [0x2B] Esca (ID: 17187494/0x010642A6) [7907*]:
+ 37: 0x01C0 [0x2B] Esca (ID: 17187493/0x010642A5) [7907*]:
     → "Unbelievable. You come after me even though you don't know what you're looking for? The thing I took was a piece of the armor said to have been worn by the legendary last dragoon."
  38: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x01C8 [0x01] GOTO 0x01CB
 
 SUBROUTINE_01CB:
- 40: 0x01CB [0x2A] GET_REQ_LEVEL(level=3, entity_id=Esca (ID: 17187494/0x010642A6))
+ 40: 0x01CB [0x2A] GET_REQ_LEVEL(level=3, entity_id=Esca (ID: 17187493/0x010642A5))
  41: 0x01D1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=245*
- 42: 0x01E0 [0x2B] Esca (ID: 17187494/0x010642A6) [7908*]:
+ 42: 0x01E0 [0x2B] Esca (ID: 17187493/0x010642A5) [7908*]:
     → "My employer is one of the many people who are after that armor."
  43: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x01E8 [0x4A] Esca (ID: 17187494/0x010642A6) looks at LocalPlayer
- 45: 0x01F1 [0x2B] Esca (ID: 17187494/0x010642A6) [7909*]:
+ 44: 0x01E8 [0x4A] Esca (ID: 17187493/0x010642A5) looks at LocalPlayer
+ 45: 0x01F1 [0x2B] Esca (ID: 17187493/0x010642A5) [7909*]:
     → "The name of my employer? You know, he never told me. I was just told to bury the armor in a certain spot in exchange for a small fortune in gil."
  46: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01F9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
- 48: 0x01FA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Esca (ID: 17187494/0x010642A6) Render.Flags0 and Render.Flags3 conditions are met
- 49: 0x01FF [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187494/0x010642A6), tag_num=0x10)
- 50: 0x0206 [0x2B] Esca (ID: 17187494/0x010642A6) [7910*]:
+ 48: 0x01FA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Esca (ID: 17187493/0x010642A5) Render.Flags0 and Render.Flags3 conditions are met
+ 49: 0x01FF [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x10)
+ 50: 0x0206 [0x2B] Esca (ID: 17187493/0x010642A5) [7910*]:
     → "I've already been paid for the job, so I'll tell you where I buried it. But on one condition: You can't tell Brugaire that I was the thief. I don't need him breathing down my neck when I'm trying to work."
  51: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x020E [0x27] REQ_SET(priority=0x04, entity_id=Esca (ID: 17187494/0x010642A6), tag_num=0x11)
+ 52: 0x020E [0x27] REQ_SET(priority=0x04, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x11)
  53: 0x0215 [0x1C] WAIT(60* ticks)
  54: 0x0218 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=[245*, 0*]
  55: 0x0229 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=245*
- 56: 0x0238 [0x2B] Esca (ID: 17187494/0x010642A6) [7911*]:
+ 56: 0x0238 [0x2B] Esca (ID: 17187493/0x010642A5) [7911*]:
     → "Right. The armor is buried on a small island that can be reached through the Eldieme Necropolis. A monster has been put on guard over the spot though, so don't think you can just waltz in and scoop it up."
  57: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0240 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Esca (ID: 17187494/0x010642A6))
- 59: 0x0246 [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187494/0x010642A6), tag_num=0x0A)
+ 58: 0x0240 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Esca (ID: 17187493/0x010642A5))
+ 59: 0x0246 [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x0A)
  60: 0x024D [0x1C] WAIT(10* ticks)
- 61: 0x0250 [0x2B] Esca (ID: 17187494/0x010642A6) [7912*]:
+ 61: 0x0250 [0x2B] Esca (ID: 17187493/0x010642A5) [7912*]:
     → "Oh, and give me back my earring. I wear those for good luck."
  62: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0258 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -463,14 +463,14 @@ SUBROUTINE_01CB:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0290:                79 00 F8  FF FF 7F B0 42 06 01 37       y......B..7
+0290:                79 00 F8  FF FF 7F AF 42 06 01 37       y......B..7
 02A0: 29 80 2A 80 0E 80 2B 80  00                       ).*...+..       
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0295 [0x79] EventEntity looks at Vilatroire (ID: 17187504/0x010642B0) (Basic look)
+  0: 0x0295 [0x79] EventEntity looks at Vilatroire (ID: 17187503/0x010642AF) (Basic look)
   1: 0x029F [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-261.126*, z=421.491*, y=-70.999*, direction=294.4°*
   2: 0x02A8 [0x00] END_REQSTACK()
 ```
@@ -491,21 +491,21 @@ SUBROUTINE_01CB:
 02A0:                             42 46 01 03 00 00 05           BF.....
 02B0: 10 45 14 80 F8 FF FF 7F  F8 FF FF 7F 66 64 6F 30  .E..........fdo0
 02C0: 01 80 55 14 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  ..U..........fdo
-02D0: 30 4E 00 DC 42 06 01 4E  00 DD 42 06 01 38 16 80  0N..B..N..B..8..
-02E0: 79 00 F0 FF FF 7F DC 42  06 01 03 05 10 02 10 03  y......B........
+02D0: 30 4E 00 DB 42 06 01 4E  00 DC 42 06 01 38 16 80  0N..B..N..B..8..
+02E0: 79 00 F0 FF FF 7F DB 42  06 01 03 05 10 02 10 03  y......B........
 02F0: 06 10 02 10 03 07 10 02  10 15 05 10 2C 80 15 06  ............,...
 0300: 10 10 80 3F 07 10 07 10  10 80 37 2D 80 2E 80 2F  ...?......7-.../
 0310: 80 30 80 45 06 80 F8 FF  FF 7F F8 FF FF 7F 73 30  .0.E..........s0
-0320: 30 31 01 80 4A DC 42 06  01 F0 FF FF 7F 45 14 80  01..J.B......E..
-0330: F8 FF FF 7F F8 FF FF 7F  66 64 69 31 01 80 2B DC  ........fdi1..+.
-0340: 42 06 01 31 80 23 66 32  80 DC 42 06 01 DC 42 06  B..1.#f2..B...B.
-0350: 01 74 6C 6B 30 2B DC 42  06 01 33 80 23 02 04 10  .tlk0+.B..3.#...
-0360: 01 80 01 AF 03 66 32 80  DC 42 06 01 DC 42 06 01  .....f2..B...B..
+0320: 30 31 01 80 4A DB 42 06  01 F0 FF FF 7F 45 14 80  01..J.B......E..
+0330: F8 FF FF 7F F8 FF FF 7F  66 64 69 31 01 80 2B DB  ........fdi1..+.
+0340: 42 06 01 31 80 23 66 32  80 DB 42 06 01 DB 42 06  B..1.#f2..B...B.
+0350: 01 74 6C 6B 30 2B DB 42  06 01 33 80 23 02 04 10  .tlk0+.B..3.#...
+0360: 01 80 01 AF 03 66 32 80  DB 42 06 01 DB 42 06 01  .....f2..B...B..
 0370: 74 6C 6B 31 03 05 10 04  10 03 06 10 04 10 03 07  tlk1............
 0380: 10 04 10 15 05 10 2C 80  15 06 10 10 80 3F 07 10  ......,......?..
-0390: 07 10 10 80 02 00 00 01  80 00 A7 03 2B DC 42 06  ............+.B.
-03A0: 01 34 80 23 01 AF 03 2B  DC 42 06 01 35 80 23 66  .4.#...+.B..5.#f
-03B0: 32 80 DC 42 06 01 DC 42  06 01 70 61 73 30 2B DC  2..B...B..pas0+.
+0390: 07 10 10 80 02 00 00 01  80 00 A7 03 2B DB 42 06  ............+.B.
+03A0: 01 34 80 23 01 AF 03 2B  DB 42 06 01 35 80 23 66  .4.#...+.B..5.#f
+03B0: 32 80 DB 42 06 01 DB 42  06 01 70 61 73 30 2B DB  2..B...B..pas0+.
 03C0: 42 06 01 36 80 23 52 06  80 F8 FF FF 7F F8 FF FF  B..6.#R.........
 03D0: 7F 73 30 30 31 45 14 80  F8 FF FF 7F F8 FF FF 7F  .s001E..........
 03E0: 66 64 6F 31 01 80 55 14  80 F8 FF FF 7F F8 FF FF  fdo1..U.........
@@ -522,10 +522,10 @@ SUBROUTINE_01CB:
   2: 0x02AC [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
   3: 0x02B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
   4: 0x02C2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [EventEntity, EventEntity], work=200*
-  5: 0x02D1 [0x4E] SET_ENTITY_HIDE_FLAG: Show Camereine (ID: 17187548/0x010642DC)
-  6: 0x02D7 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17187549/0x010642DD)
+  5: 0x02D1 [0x4E] SET_ENTITY_HIDE_FLAG: Show Camereine (ID: 17187547/0x010642DB)
+  6: 0x02D7 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17187548/0x010642DC)
   7: 0x02DD [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  8: 0x02E0 [0x79] LocalPlayer looks at Camereine (ID: 17187548/0x010642DC) (Basic look)
+  8: 0x02E0 [0x79] LocalPlayer looks at Camereine (ID: 17187547/0x010642DB) (Basic look)
   9: 0x02EA [0x03] Work_Zone[5] = Work_Zone[2]
  10: 0x02EF [0x03] Work_Zone[6] = Work_Zone[2]
  11: 0x02F4 [0x03] Work_Zone[7] = Work_Zone[2]
@@ -534,17 +534,17 @@ SUBROUTINE_01CB:
  14: 0x0303 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  15: 0x030A [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-145.194*, z=255.090*, y=-59.876*, direction=279.0°*
  16: 0x0313 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[5*, 0*]
- 17: 0x0324 [0x4A] Camereine (ID: 17187548/0x010642DC) looks at LocalPlayer
+ 17: 0x0324 [0x4A] Camereine (ID: 17187547/0x010642DB) looks at LocalPlayer
  18: 0x032D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x033E [0x2B] Camereine (ID: 17187548/0x010642DC) [8058*]:
+ 19: 0x033E [0x2B] Camereine (ID: 17187547/0x010642DB) [8058*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0346 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Camereine (ID: 17187548/0x010642DC), Camereine (ID: 17187548/0x010642DC)], work=30*
- 22: 0x0355 [0x2B] Camereine (ID: 17187548/0x010642DC) [8059*]:
+ 21: 0x0346 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Camereine (ID: 17187547/0x010642DB), Camereine (ID: 17187547/0x010642DB)], work=30*
+ 22: 0x0355 [0x2B] Camereine (ID: 17187547/0x010642DB) [8059*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x035D [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x03AF
- 25: 0x0365 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Camereine (ID: 17187548/0x010642DC), Camereine (ID: 17187548/0x010642DC)], work=30*
+ 25: 0x0365 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Camereine (ID: 17187547/0x010642DB), Camereine (ID: 17187547/0x010642DB)], work=30*
  26: 0x0374 [0x03] Work_Zone[5] = Work_Zone[4]
  27: 0x0379 [0x03] Work_Zone[6] = Work_Zone[4]
  28: 0x037E [0x03] Work_Zone[7] = Work_Zone[4]
@@ -552,17 +552,17 @@ SUBROUTINE_01CB:
  30: 0x0388 [0x15] Work_Zone[6] /= 60*
  31: 0x038D [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0394 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03A7
- 33: 0x039C [0x2B] Camereine (ID: 17187548/0x010642DC) [8060*]:
+ 33: 0x039C [0x2B] Camereine (ID: 17187547/0x010642DB) [8060*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x03A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x03A4 [0x01] GOTO 0x03AF
- 36: 0x03A7 [0x2B] Camereine (ID: 17187548/0x010642DC) [8064*]:
+ 36: 0x03A7 [0x2B] Camereine (ID: 17187547/0x010642DB) [8064*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03AF:
- 38: 0x03AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Camereine (ID: 17187548/0x010642DC), Camereine (ID: 17187548/0x010642DC)], work=30*
- 39: 0x03BE [0x2B] Camereine (ID: 17187548/0x010642DC) [8061*]:
+ 38: 0x03AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Camereine (ID: 17187547/0x010642DB), Camereine (ID: 17187547/0x010642DB)], work=30*
+ 39: 0x03BE [0x2B] Camereine (ID: 17187547/0x010642DB) [8061*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x03C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=5*

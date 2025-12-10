@@ -512,8 +512,8 @@
 |     359 | 0x00EF      |         239 |
 |     360 | 0x00F3      |         243 |
 |     361 | 0x0003      |           3 |
-|     362 | 0x2A7E      |       10878 |
-|     363 | 0x2AA4      |       10916 |
+|     362 | 0x2A7F      |       10879 |
+|     363 | 0x2AA5      |       10917 |
 |     364 | 0x005A      |          90 |
 
 ## String References
@@ -521,8 +521,8 @@
 - **9608**: <Player>'s badge flashes brightly.
 - **9617**: Chomomo's badge flashes brightly.
 - **9619**: Juna Moshal's badge flashes brightly.
-- **10878**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **10916**: Your $3 fills with sand.
+- **10879**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **10917**: Your $3 fills with sand.
 
 ## Events
 
@@ -3921,9 +3921,9 @@ SUBROUTINE_0752:
  13: 0x086D [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_0872:
- 14: 0x0872 [0x48] [System] [10878*]:
+ 14: 0x0872 [0x48] [System] [10879*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
- 15: 0x0875 [0x48] [System] [10916*]:
+ 15: 0x0875 [0x48] [System] [10917*]:
     → "Your $3 fills with sand."
  16: 0x0878 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0889 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

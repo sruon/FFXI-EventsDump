@@ -14,13 +14,13 @@
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [200](#event-200)     | 0x0001       |     84 |             17 |
+| [201](#event-201)     | 0x0001       |     84 |             17 |
 
 ## DAT References (imed_data)
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CBB      |        7355 |
+|       0 | 0x1CBD      |        7357 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -30,7 +30,7 @@
 
 ## String References
 
-- **7355**: Proceed onward? [Yes./No.]
+- **7357**: Proceed onward? [Yes./No.]
 
 ## Events
 
@@ -56,7 +56,7 @@
   0: 0x0000 [0x00] END_REQSTACK()
 ```
 
-### Event 200
+### Event 201
 
 #### Metadata
 
@@ -81,7 +81,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7355*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
     → "Proceed onward? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0048

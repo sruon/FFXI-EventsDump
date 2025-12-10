@@ -1,5 +1,5 @@
 # Strings for Bastok Markets
-# Total: 15361 strings
+# Total: 15362 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -9721,8 +9721,8 @@
  9717: Wow, I've never heard that before. You know everything, Grandpa!
  9718: Huh? Oh, a customer! Happy New Year!
  9719: What? Who was I talking to just now? Oh, the other day, this really nice old man gave me my very own $0 so I could call him whenever I wanted. He teaches me all sorts of things, and all I have to do is call him "Grandpa" and do whatever he says.
- 9720: Just now, he was telling me about the fun-loving people walking around outside. I heard that something similar to this happened many years ago...
- 9721: He also told me that if I give 'em something, they'll give me $0 in return. I really wanted one, so I was all ready to go through that gate over there when the guard gave me a nasty look...
+ 9720: Just now, he was telling me about the weird procession of people walking around outside. He says they always pop up this time of year.
+ 9721: He also told me that if I give 'em something, they'll give me $0 in return. I really wanted one, so I was all ready to go through that gate over there when the guard gave me a nasty loxok...
  9722: Hey. You're an adventurer, right? Doesn't Altana say that you guys have to help little kids or your brain will melt and bugs will eat your ears? Go out and get me $0, ASAP. Don't worry, you'll get your reward!
  9723: Whoa! You really brought me back $0. Thanks!
  9724: I guess you'll be wanting your reward now, huh? Hmmm... How about I give you a choice?
@@ -14372,7 +14372,7 @@
 14368: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
 14369: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
 14370: Dat's da spirit! So which dial ya be wantin'?
-14371: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+14371: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]
 14372: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
 14373: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
 14374: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
@@ -14397,968 +14397,969 @@
 14393: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
 14394: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
 14395: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-14396: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+14396: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!
 14397: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-14398: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+14398: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!
 14399: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
 14400: $1<$2
-14401: I understand that you are...an adventurer? My name is Pieuje I. d'Oraguille, commander of San d'Oria's famed Temple Knights.
-14402: Is that <Player>'s voice I hear?
-14403: Forgive me, but I am more accustomed to recognizing faces than voices, especially through such a peculiar device.
-14404: I must thank you for your handling of the Altedour incident in Fei'Yin.
-14405: Never once have I forgotten your dedication to protecting all of San d'Oria.
-14406: As you are doubtlessly aware, a short time ago I received a memorandum from the Adventurers' Mutual Aid Network detailing Unity Concord and requesting my services as a Unity leader.
-14407: Tell me. Is there any greater way for a prince regent to earn honor for his kingdom than by spearheading a group dedicated to purging evil from the land?
-14408: Many around me were opposed, but that bothered me not. My brother, Trion, serves as a representative of the Trust initiative, and it falls to me to up the ante.
-14409: I cannot lie. That was an important factor in my decision.
-14410: But be not concerned with our internal squabbles. Know only that it pleases me to welcome you to my Unity.
-14411: My name is Ayame, a ranking member of the Mythril Musketeers. Pleased to make your acquaintance.
-14412: Haha...yes, <Player>, of course I remember you. How characteristic of you to have your fingers in everyone's pies.
-14413: Do not think me ungrateful. No, I am always pleased to have your help, but this time things are a bit different.
-14414: Do not think me ungrateful. You strengthened the Mythril Musketeers in ways I never thought possible, and we are closer than ever before.
-14415: Not terribly long ago I was contacted by the Adventurers' Mutual Aid Network, which asked that I head a Unity.
-14416: At first I was flustered and thought of turning the offer down. Why would they pick me when there are others more qualified?
-14417: But Volker decided it would be the perfect opportunity for me to develop my leadership skills, and told them I would accept...without my knowledge.
-14418: Though unconvinced that I am the best fit, I pledge to dedicate myself wholly to this endeavor.
-14419: People are counting on me. Not only Volker, but those like you who have pledged their support.
-14420: I will not let you down.
-14421: Stand sharp, maggot! I've got no time for people who're gonna slack off!
-14422: ...Wait. That's you, isn't it, <Player>?
-14423: I hear you've decided to join my backbreaking Unity.
-14424: Well!? What've you got to say for yourself!?
-14425: How do you respond? [That's right./Nope./Y-yessir!]
-14426: Impudent cretin! You say "sir" when addressing a superior officer!
-14427: Better. Everyone in my Unity is equal--you're all worthless whelps!
-14428: We don't coddle the weak around here. If you want respect, you earn it.
-14429: Until then, you're just a dried-up, shriveled worm!
-14430: So go crawling around in the dirt and pray some crow doesn't sweep down and gobble you up!
-14431: Now get out there!
-14432: Hello, good adventurer. You can call me Apururu.
-14433: Is that...<Player>? Am I rightaru?
-14434: Your good deeds on behalf of Windurstaru have not gone unnoticed.
-14435: I'm so worried about my brother...but if this is one way for me to help-welp him, then so be it.
-14436: Ajido-Marujido has awoken at lastaru, but...no, I'll not let myself cry. I must work for the good of Windurst.
-14437: You brought hope to a Windurst that was on the brink-wink of despair.
-14438: I've been selected to serve as the head of a Unity-wunity, and can I ever say...
-14439: As the head of the Manustery, there can be no greater honor than--
-14440: Aaaaaall right! Now the Cardian workshop can finally turn something resembling a profitaru!
-14441: tHiS iS aBsoLUtElY WonDErFul. NoW wE HaVe MOneY, ALl ThaNkS tO APurURu!
-14442: H-hey! It's not like I'll be making bank-wank!
-14443: Putting that aside--welcome to my Unitaru!
-14444: We can do together-wether what we couldn't individually.
-14445: Phew... So you're my new pupil, eh?
-14446: Phew... So you're my new pu... <Player>?
-14447: The way you shone when the two of us met in combat...I'd be lying if I said I wasn't impressed.
-14448: I've gotta say, you sure knew how to show me the old what-for...it was like staring into the face of a demon!
-14449: I've lived many years on this green Vana'diel, but you're the only one I've ever proffered my hat to.
-14450: ...Let's discuss how all this came to be.
-14451: The Adventurers' Mutual Aid Network came up with this "Unity" idea, and asked me to be one of its founding masters.
-14452: But I'm not the kind to take on disciples, so at first I was more than a bit wary.
-14453: But the old lady, she nagged me, and nagged me, and nagged me until I finally caved in.
-14454: How do you respond? [You can always quit, you know./Must have been tough for you./That's quite the wife you've got.]
-14455: Ugh... I didn't expect you to come at me with that.
-14456: Tough doesn't begin to describe it! I was hoping to spend my twilight years for myself, but you gotta play the hand you're dealt.
-14457: Please tell me that you weren't in on it!
-14458: Either way, that's not important now. As long as I'm the master of a ragtag group of youngsters, I'm gonna make sure you all get the training you deserve.
-14459: But to do that, I'm gonna need your help.
-14460: And I'll warn you--my regimens have been known to be...strict.
-14461: And I'm sure I don't need to tell you how strict my regimens are!
-14462: What's the password?
-14463: How do you respond? [Rose on the heath./Tavnazia./@]
-14464: Who's this!? ...Ah, this is the Unity communication device. Forget I said anything.
-14465: Aldo of the Tenshodo, at your service.
-14466: Who's this!? ...Ah, this is the Unity communication...wait. You're <Player>, aren't you?
-14467: The way this little thing is buzzing tells me that you're looking to join my Unity.
-14468: "My" Unity being the key here. Who else did you expect to be the leader?
-14469: I'm sure the Adventurers' Mutual Aid Network would make for...excellent customers in the future.
-14470: Serve the Unity well and I promise you'll want for nothing.
-14471: You found hope where once I had lost it. Lion was alive and I'll never forget all you've done.
-14472: All that she had worked and fought for...we owe it to her to live our lives to the fullest.
-14473: Working with others for a common goal is the greatest reward of all.
-14474: And it's people like you who I need to understand that most.
-14475: Well, do we have a new rrrecruit? I'm Jakoh Wahcondalo, chieftainess of Kazham.
-14476: Come to think of it...didn't I teach you the secrets of eviscerrration?
-14477: Hah-hah-hah! Then all the better for my Unity!
-14478: Are you sure...are you sure you're not currrsed by $0?
-14479: Can never be too carrreful these days...
-14480: Let's cut to the quick. You've joined my Unity, corrrect?
-14481: Then welcome.
-14482: But a quick word of warrrning.
-14483: I'm in charrrge here, so don't go about being disruptive!
-14484: If you can do that, we'll have no prrroblems. Now get to it!
-14485: H-hello, you've reached Salaheem's Sentinels.
-14486: There's no problem we can't solve, big or small!
-14487: Aha, we have a new visitor? One moment--I'll get the president for you.
-14488: Yes, this is Naja Salaheem.
-14489: Ah, have we an adventurerrr applying today?
-14490: You could not have picked a betterrr place to be.
-14491: Our Unity is completely free of charge, making it the purrrfect place to hang up your sword and meet some new companions.
-14492: We considerrr it our calling to provide an excellent place for those of all strrripes to utilize their talents in a variety of combat scenes.
-14493: Abquhbah! Get your lazy butt over here!
-14494: S-sorry. Yes, [good sir/my lady], this is Abquhbah of Salaheem's Sentinels.
-14495: We have a variety of powerful backers supporting our organization...
-14496: ...So I'm certain you'll find achieving a high Unity ranking to be a breeze.
-14497: And if we do, then there will be a lovely gift of sweets waiting. Yes, some gold pieces of--
-14498: <Sigh>... Oh, heavens, I think this device isn't worrrking properly. Can you hear me now?
-14499: How do you respond? [Loud and clear./Where's Abquhbah?/Just what did you do?]
-14500: Please forrrgive his impudence.
-14501: We're looking forward to having you serrrve in our regiment.
-14502: And we hope you enjoy your looong stay in our rrranks!
-14503: Oho? Is that <Player> I hear?
-14504: <Player>? Gimme that!
-14505: Picturrre that, hearing from [a non-employee/a second class private/a first class private/a superior private/a lance corporal/a corporal/a sergeant/a sergeant major/a chief sergeant/a second lieutenant/a first lieutenant/a captain] such as yourself.
-14506: You've got some gall shirrrking your duties like this!
-14507: But since you've joined my Unity, I'm willing to overlook that little trrransgression.
-14508: Let's paint the rankings rrred with our unstoppable team!
-14509: And that rrrequires you to not sit around like some good-for-nothing! You belong not just to one of my teams, but to two!
-14510: Be thankful you have work and get your butt out there!
-14511: The magic doll you are trying to reach is either suffering from mystical interference or is not attuned to a bearer.
-14512: Please check the settings and try a-again... Mmph...
-14513: Ahaha! Who can ever resist a good joke? It's me, and no other!
-14514: How do you react? [Flaviria?/Arciela?/Who?]
-14515: Oho, expertly deduced! I'd expect no less!
-14516: Huh? Arciela? That little waif of a princess? Granted, I'm quite pretty as well...
-14517: Urk...I'd have expected you to go with the joke...
-14518: But let's get down to business.
-14519: I'm Flaviria, maester of Adoulin's Mummers' Coalition.
-14520: I'm Flaviria, of course. I'm sure you've been to the Mummers' Coalition more than once, so my name should be quite familiar.
-14521: The Adventurers' Mutual Aid Network invited me to be a Unity leader...and how could I say no?
-14522: Though truth be told, I wonder why they picked me over one of the other leaders of the twelve orders.
-14523: Now that I think of it, didn't you trounce one of our more enigmatic patrons in a game of Boom or Bust?
-14524: And here I thought that the man in black couldn't be bested.
-14525: I'd better brush up, or you'll be coming for me next!
-14526: Either way, welcome to my Unity! I'm not completely clear on how best to proceed, but let's find the path together.
-14527: Ahem. <Cough-ethy>
-14528: So you're the young mind who's come to join-ethy my Unity?
-14529: Well met, I am Dr. Yoran-Oran, former minister-ethy of the Rhinostery in Windurst, and involved in all manner of magical research.
-14530: Ah, didn't you assist-ethy me with my mandragora research back then? Those items were of great help, thank you.
-14531: Ah, I know that voice-ethy! <Player>, that's you, isn't it?
-14532: Your efforts-ethy saved the Great Star Tree. Windurst owes you a deep debt of gratitude.
-14533: Listen <Player>. Those three monstrosities you so kindly brought into my life have put me in a very disconcerting situation-ethy. I have a lot more to say about it, but for now let's focus-ethy on the issue at hand.
-14534: Things have slowly gone back to normal-ethy now that the wretched trio of chaos incarnate has left. I've finally managed to begin work-ethy on my next book.
-14535: Thank you again for your aid during the Shantotto crisis-ethy. Were it not for you, our entire dimension would have been twisted and defiled beyond recognition. I still get nightmares-ethy thinking about it.
-14536: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
-14537: One of these students was part of the Adventurers' Mutual Aid Network-ethy and invited me to become a Unity leader.
-14538: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
-14539: But then I thought-ethy some more.
-14540: Could this in fact be the perfect-ethy avenue to promote my glorious research?
-14541: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
-14542: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
-14543: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
-14544: One of these students was part of the Adventurers Mutual Aid Network-ethy and invited me to become a Unity leader.
-14545: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
-14546: But then I thought-ethy some more.
-14547: Could this in fact be the perfect-ethy avenue to promote my glorious research?
-14548: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
-14549: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
-14550: .........
-14551: Oh! Right! I should probably say something. I'm Sylvie. As you can probably guess from these clothes. I'm a geomanger--I mean, geomancer!
-14552: Oh, I forgot...you can't see my clothes, right? Forget I said that, okay?
-14553: Oh, huh? <Player>? Is that <Player>?
-14554: Oh, <Player>, it's you.
-14555: <Player>! It's <Player>!
-14556: How are you getting along with your luopan? Have you gotten used to using Colures, yet? If you keep your head and shoulders to the grindstone I'm sure you'll master it!
-14557: I know Daddy's training can be rough, but it looks like you passed his test with flying pigs...is that how you say that?
-14558: Did you know that Daddy would speak really highly of you? He would always talk about how a promising new geomancer showed up and was looking forward to seeing what you could do... He seemed so happy.
-14559: I can still feel your Communion. If it weren't for you back there, we would have been domed, I mean doomed. Anyway, thank you <Player>.
-14560: It's all thanks to you that we were able to fulfill Zacariah's duty. You're like the most...stupenderrific hero to all us Zacariahs!
-14561: So...I guess this mean you'll be joining my Unity?
-14562: Thank you so much. It means a lot to me. As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
-14563: Ikhi said this wasn't a good time for me to be leading a Unity.
-14564: But...I couldn't just stay at home doing nothing. It's easier to forget the sad things when you've got a lot to do, you know?
-14565: So when the offer for Unity leader came, I had to accept.
-14566: You can't stay blue forever. Daddy would probably laugh at me if he saw how down and depressivated I am these days.
-14567: ...Right, smile Sylvie! Let's make this Unity work. With you as part of the team, I'm sure our efforts will bring us bear fruit. Huh...why do they call it "bear fruit"?
-14568: Wait, so does this mean you'll be joining my Unity?
-14569: As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
-14570: With you on our team, we'll be truly unstoppableable!
-14571: To tell you the truth, I wasn't sure what to do when the Adventurers' Mutual Aid Network first invited me.
-14572: If it weren't for Ikhi's guidance, I'd be down a creek full of paddles.
-14573: She said if the Unity could show people everywhere how to communicate with nature and spread the ways of the geomancer, then it was something worth doing.
-14574: There's still a lot I don't know as a geomancer, but I'm going to triple down and do my best as UL.
-14575: Let's make this the best Unity we can!
-14576: Yeah, go team!
-14577: And...if you happened to be in Western Adoulin...and are also interested in geomancy, come see me by the docks. Wait, but not like...in a weird way, okay?
-14578: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
-14579: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
-14580: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
-14581: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
-14582: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
-14583: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
-14584: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
-14585: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
-14586: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
-14587: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
-14588: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
-14589: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
-14590: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
-14591: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
-14592: Select an item category. [Return to previous selection./@/@/@/@]
-14593: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
-14594: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-14595: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-14596: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
-14597: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
-14598: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-14599: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
-14600: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
-14601: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
-14602: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
-14603: "Unity" is a catchall term that refers to the group that participants belong to.
-14604: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
-14605: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
-14606: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
-14607: You may not always be able to join the chat if too many players are participating at once.
-14608: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
-14609: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
-14610: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
-14611: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
-14612: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
-14613: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
-14614: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
-14615: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
-14616: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
-14617: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
-14618: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
-14619: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
-14620: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
-14621: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
-14622: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
-14623: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
-14624: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
-14625: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
-14626: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
-14627: You can use specified materials to add new attributes to equipment that has been upgraded.
-14628: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
-14629: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
-14630: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
-14631: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
-14632: It also requires that you first complete a specific Records of Eminence objective.
-14633: The work you request will be carried out on-site by a specially trained Unity guide.
-14634: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
-14635: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
-14636: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
-14637: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
-14638: You may switch Unities once during the Unity ranking tabulation period.
-14639: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
-14640: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
-14641: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
-14642: Rankings are decided through the combined efforts of each of the Unity's members.
-14643: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
-14644: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
-14645: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
-14646: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
-14647: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
-14648: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
-14649: Unity leaders may also join you as alter egos for a limited period of time.
-14650: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
-14651: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
-14652: A leader's alter ego grows in power the higher their Unity is ranked.
-14653: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
-14654: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
-14655: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
-14656: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
-14657: You are currently under Unity restriction. Please try again during the next tabulation period.
-14658: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
-14659: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
-14660: You have already changed Unities. Please wait until the next tabulation period.
-14661: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
-14662: Teleport anyway? [Yes, please./No, thank you.]
-14663: Ah, a sprightly adventurer has come to me this day! Yes, I am more than pleased to make your acquaintance.
-14664: Forgive me for seeming elitist, but the message I have to bear is only for those who have completed at least $0 Records of Eminence objective[/s].
-14665: Isakoth, standing just over there, is well versed in such matters and would be happy to provide you any guidance you need.
-14666: Ah, yes, I have some wonderful information for you, but you must first set the Records of Eminence objective "$1" from the "Tutorial" section of the eponymous submenu.
-14667: Oh, my stomach! That vengeful witch must have put something in my...
-14668: G-goodness! A new recruit! Please, a thousand pardons.
-14669: Do you perhaps have the Records of Eminence objective "$1" set?
-14670: How do you respond? [Locked and loaded./You got the wrong [guy/gal].]
-14671: Is that so? Perhaps I made a-- My head! Oh, Goddess, the pain!
-14672: Huzzah! A willing soul has graced my presence at last.
-14673: You are willing, aren't you? To participate in Unity Concord, that is?
-14674: How do you respond? [Participate I shall./I need time to think.]
-14675: H-how absolutely frustrating! To have come this far only to-- Aaaaaah! I think I threw my back out!
-14676: Y-you mean it? Oh, praise the powers above! I feared yet another was bound to disappoint me.
-14677: To get started, I'll need you to place your signature in black right here on this doll.
-14678: Your quill flourishes across the doll's stomach.
-14679: The doll begins to convulse!
-14680: Excellent. With that concluded, permit me to offer a brief explanation of what Unity Concord entails.
-14681: The Adventurers' Mutual Aid Network (A.M.A.N.) has founded this unique system to provide casual means of communication between adventurers of similar minds.
-14682: Foster new friendships and strengthen old ones! Further your adventuring goals by coming together as one! Quite lofty goals, indeed.
-14683: The first step is choosing which leader's Unity you would like to join.
-14684: After all that discussion you-- Oh, my heart! It's like a vise clamping on my chest!
-14685: I'll be waiting here with your doll when you are r-ready to decide!
-14686: Ah, good day! I have your doll safe right here should you be inspired to join a Unity.
-14687: Which you are, correct?
-14688: Wonderful! You desire to join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity, correct?
-14689: Now grip your doll tightly and think pleasant thoughts of your Unity leader...
-14690: <Phew> That's one task down.
-14691: But your $3 can be used for contacting more than just your leader.
-14692: Since your Unity is comprised of others with the same type of doll, it naturally follows that you can converse with them as well.
-14693: I would therefore suggest that you take the opportunity to introduce yourself.
-14694: Such interactions can be established by going to the "Status" menu and selecting "Unity Info" under the "Unity" submenu.
-14695: Come to me again should you desire any further information about the inner workings of Unity Concord.
-14696: A fair day to you, [sir/ma'am]! How may I help you?
-14697: Understood. And away to $8 you go!
-14698: Oh dear! You don't have enough accolades to do that.
-14699: Hmmm...you can still exchange $0 more accolade[/s] this week.
-14700: I'm sure that would look perfect on you. Here's a quick glance at what you'd be getting.
-14701: The Unity Concord artisan will provide you with $0 in exchange for $4, $2 $0$0 , and $3 Unity accolade[/s].
-14702: I must inform you that such a process is not instantaneous. Return at a later date and I will provide you with your finished piece.
-14703: You have currently contracted us to make $0 for you. Our artisan can only handle one item per customer at a time.
-14704: This is what your equipment will look like with its new attribute.
-14705: Boosting its rank even further will make an upgrade like this possible. I think you will be pleased with the results.
-14706: In order to add a new attribute, you will need some $1 in addition to your $0, as well as $2 accolade[/s].
-14707: You must also complete the Records of Eminence objective "$4" beforehand.
-14708: If you bring some $3 in addition to the $0 with the new attribute, you can increase its rank.
-14709: I am in charge of handling both tasks.
-14710: Although I have been trained, I find my lack of actual experience tends to increase my apprehension somewhat.
-14711: $1? That costs $0 accolade[/s].
-14712: How many do you require? (from 1 to $0)
-14713: Splendid. $2 $0$0 will run you $0 accolade[/s].
-14714: Always a pleasure to serve.
-14715: Ah, sometimes a change of pace is for the best. Whose Unity did you have in mind?
-14716: I have filled out the necessary documents. Welcome to your new Unity!
-14717: Understood. Let me know should you have a change of heart.
-14718: Oh, thank the heavens! This 20-ponz manual has thrown all my muscles into utter disarray!
-14719: I suppose a quick explanation is in order.
-14720: Accomplishing Records of Eminence objectives rewards you with a special currency known as "Unity accolades."
-14721: As is standard fare for currency, it can be exchanged for a variety of goods and services.
-14722: Naturally, there are more nuanced aspects, but that's the basic workings of the system.
-14723: Aha. You wish to have your $1 improved?
-14724: Our talented arcane specialist requires a fee of $0 accolade[/s] for that service. Is that acceptable to you?
-14725: Your patronage is duly appreciated, and your order should be filled in due time.
-14726: I-I see. Then let me return your piece to you.
-14727: Our artisan is currently tied up with your $1. I ask that you please wait until the process is complete.
-14728: Your $1 may have taken some time to complete, but I guarantee you the quality will not disappoint! Here.
-14729: C-could you be here to request an upgrade for your $1!?
-14730: If so, do you mind paying a nominal fee of $0 accolade[/s]?
-14731: S-so, what do you think? I hope it is to your liking...
-14732: I-I see. Then let me return your piece to you.
-14733: Ah, you will need to complete the Records of Eminence objective "$7" before you can make the request.
-14734: Understood. You wish to use $6 $0$5 to store Reinforcement Points for your $4?
-14735: Sorry to keep you waiting, but I think you'll be pleased with the results. Go ahead, see for yourself.
-14736: I-I see. Then let me return your piece to you.
-14737: @@
-14738: The crystal resonates deep within your soul!
-14739: Vana'diel...in the year 898?
-14740: I must make haste for Reisenjima and find the master before...
-14741: Master, look at the orb.
-14742: You have set us on the proper course and passed through the first of many gates to come.
-14743: This precious jewel is one of Reisenjima Sanctorium's most mystical treasures.
-14744: Our legends state that it was formed from the energies of a thousand different lives.
-14745: Though it had originally been regarded as but a minor artifact, in the future you and my father had drawn forth its true power.
-14746: In reality, it is a piece of the mothercrystal.
-14747: Please, Master. You may have taken the first steps, but I urge you to continue pressing on.
-14748: Gilgamesh awaits word in Norg.
-14749: Master, behold your orb.
-14750: Your path remains steadfast, and you have successfully reached the third gate.
-14751: But the spirits which protect Reisenjima Sanctorium have gone silent...
-14752: And I am unable to remain here in 884.
-14753: My abject failure to guide you in your hour of need is a shame that I shall not overcome.
-14754: Had I been able to better serve you, then maybe...
-14755: But I can safely place my trust in you. You have come this far, and the orb grows stronger with each passing day. You will be ready when the world has reached the fulcrum.
-14756: May your steps remain swift and true.
-14757: Head for...the palace...
-14758: Master, behold your orb.
-14759: Your path remains steadfast, and you have successfully surpassed the third gate.
-14760: But there remains one whom you have yet to meet. A young woman who plays a vital role in your story.
-14761: I am afraid that you will not be able to see her in the world's current state.
-14762: If only I could return to 884 and walk by your side once more!
-14763: Yet my mind and body are crippled, and I can scarce muster this small advice--!
-14764: Master...forgive me.
-14765: Lead Aht Urhgan out of the darkness and forge the bonds you were destined to.
-14766: I'm so hungry...
-14767: Ovjang...Ovjang, where are you?
-14768: I'm here...[in Aydeewa Subterrane/on a pirate ship]...
-14769: Luzaf...I wish you were here...
-14770: Please...help me...
-14771: Razfahd must be stopped...
-14772: The time of the Harvest Festival is upon us once more, and with it comes a most wondrous event: a costume contest known as the Pink Masquerade!
-14773: Sick of donning those tattered old robes and half-rusted suits of armor? Then why not take this opportunity to dress up in something more festive--and perhaps even earn a prize for your efforts?
-14774: At the very least, the masquerade promises to be a refreshing change from your everyday adventures. What say you?
-14775: Participate in the Pink Masquerade? [Sounds like fun!/I think I'll pass.]
-14776: A shame upon shames, to be sure. But there's still time to change your mind--the masquerade is available throughout the duration of the Harvest Festival!
-14777: Splendid! Let me explain the rules of our little competition.
-14778: All entrants are tasked with putting together the most lavish outfits they can find and strutting their stuff for the judge--namely, me. Points are awarded for the following types of equipment: main weapon, sub weapon, head, body, hands, legs, and feet.
-14779: We're an equal opportunity contest, so don't think you'll be impressing anyone here with your Gjallarhorns or Idrises! Only rewards gleaned from special events are counted.
-14780: Feel free to brandish them if you want, but don't expect me to care in the slightest.
-14781: As this is an event to celebrate the Harvest Festival, entrance fees will not be charged in the form of gil, but rather sweets.
-14782: Those whose outfits receive at least $0 points will be awarded with a commemorative piece of attire directly from the steering committee.
-14783: But why be content with being mediocre when you can reach for the stars? The top three contestants will have their entries displayed on these "mannequins" for all to see!
-14784: That's the long and short of it. Speak with me again if you have any further questions or would like to know what types of sweets we accept.
-14785: Until then, prepare your most outlandish costume and come back when you're ready to be judged!
-14786: Take this special garb as your just rewarded for coming up with such a delightful outfit!
-14787: Oh, heavens! Don't tell me you lost your $0!
-14788: A distressing tale, indeed. I will furnish you with another one should you provide me with another piece of sweets.
-14789: As promised, here is another reward in exchange for your sweets. Make sure to keep this one safe and in pristine condition!
-14790: The pink masquerade is proving to be the event of the season, and I am both humbled and honored to serve as your guide.
-14791: Do you have any questions? [Who are the winning entrants?/Tell me about the costume contest./What kind of sweets do you want?/Tell me how entrants are judged./I'd like $0./None for now.]
-14792: The costumes of the three entrants with the highest scores are displayed here for you to see. First place is in the center, second place is on the left, and third place is on the right. It is possible that multiple entrants have received the same score.
-14793: [/First/Second/Third] place: %0 - $2 pts.
-14794: No participants have received enough points to have their outfits displayed.
-14795: I will accept any of the following types of sweets as payment for participation in the masquerade.
-14796: Sweets list: ($10 types. Page $11 of $12) [Previous page./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./I'm done./Next page.]
-14797: The judgment criteria is a bit nuanced, but I'll offer you the best explanation I can.
-14798: As the sole arbiter of fashion, the chief and chief alone issues garment-related edicts without any concern for race or gender.
-14799: Each accent you add to your costume affects the overall look, and he will determine a numerical value based upon the stuff you strut.
-14800: Yet I must warn you that he has trained hard under Brygid's watchful eye, and recognizes that the trends of the season are as fickle as the westerly winds.
-14801: In other words, just because you have received a particular score for wearing a given outfit, you are not guaranteed the same reception if you come back later donning the same garb.
-14802: And of course, the sweets you give me plays an integral... Ahem! Forget I said anything!
-14803: Another player's outfit is currently being critiqued. Please come back later.
-14804: Well, well, would you look at that stunning little number. Chief! You have a visitor!
-14805: Your score for this outfit is... $0!
-14806: [Did your mother dress you in that?/Next time, put your socks on under your shoes!/I've seen worse...but not by much./Maybe if you had offered up some better sweets.../<Yawn> Been there, done that./The chief is wholly unimpressed./What an affront to common sensibility./At least you remembered to brush your teeth./The color scheme was a bit off...] Take your mistakes and learn from them for your next entry!
-14807: Congratulations! You have met the bar for success!
-14808: Here is your splendid gift, as promised!
-14809: I have given you all I have to give, but why not give it another go to see if you can place in the top three?
-14810: Why, this is one of the most splendid outfits we've seen! I am more than pleased to award you [/first/second/third] place!
-14811: Let me put that wonderful costume of yours up for display on one of our mannequins.
-14812: That's all I have for now. See if you can beat your own personal record next time!
-14813: As promised, here is your just reward for doing such a good job in this year's Pink Masquerade.
-14814: Though I've got nothing more to give you, I encourage you to participate again to see if you can beat your score!
-14815: ;5D$!%qM$P13A$P15JI 1?gL$3v$3[$3$3gp2%p<Player>S5\5=B
-14816: 1?g* $P13A$P15JH$3v$3[$3$3gFHh\7$7540264/$fh->3"B
-14817: (Shhh...mannequins aren't supposed to talk.)
-14818: (The pain of having to stand here perfectly still is indescribable...)
-14819: (At least I'll be able to line my stomach with sugary goodness once this is over.)
-14820: You must first turn the style lock function off before trading that item.
-14821: $1$0(Max:$2)
-14822: $0FWoo-hoo factor.
-14823: @ ($0/$1/$2(Max:$3))
-14824: $0FResults.
-14825: Despite betrayal by those I once called my own...
-14826: I refuse to yield until humanity's blight is purged from this land.
-14827: I now serve to bring darkness unending, an umbral shroud choking the life from Vana'diel.
-14828: Simply opening the Gate of the Gods would bring the Zilart what they have been denied for over ten thousand years.
-14829: The endless nightmare would be endless no longer.
-14830: Have you ever paused to consider exactly whose nightmare it is?
-14831: Those who have ceased to be? Those who walk Vana'diel as she stands today?
-14832: Old gods? New?
-14833: No. It is a nightmare of the crystals themselves.
-14834: We were born in Vana'diel and exist only due to her endless bounty.
-14835: And yet our very presence here is an affront to her. We are the source of her nightmare.
-14836: There is one secret to humanity's success: ambition. Imagining a better future, it strives ever onward in search of it.
-14837: Having seen the promised land, it rages and struggles each day to become more than it was meant to be.
-14838: And it continues to claw its way forward, even if what it aspires to be does not truly exist.
-14839: Its insatiable avarice defines it more than even it can possibly realize.
-14840: But I am not a "human" such as you. I will be--I must be--an existence far beyond the most grandiose thought of such petty, grasping beings.
-14841: For that is what life is. And those who cannot reach that pinnacle are fated to perish.
-14842: Time is a cruel beast whose savageness cannot be sated.
-14843: Every man, woman, and child feels its claws sinking into their backs, the talons digging ever deeper with each passing day.
-14844: It marches on, unstoppable, immaterial, and unforgiving, and all any of us can do is watch it pass.
-14845: I claimed ever greater power in pursuit of my goals until my time, too, ran out.
-14846: All I wanted to do was protect my countrymen...my homeland...
-14847: An alternate world, with alternate fates and alternate existences.
-14848: I gambled my own life away to protect the world I called home.
-14849: Can you truly say that you [did/would have done] any different?
-14850: I channeled my love for my homeland into power.
-14851: When I fell before you...
-14852: ...did it mean everything was for naught?
-14853: I, and I alone, have seen the true nature of things in this world.
-14854: And thus, I have learned why all beings that rise must fall.
-14855: This is a burden which I must bear and prevent from happening ever again.
-14856: Should you not understand why my goal is pure and just, then you are unworthy of being called human.
-14857: Open your eyes and witness the truth!
-14858: Don't let ignorance cloud your judgment!
-14859: <Player>...
-14860: What you see before you--is it a dream, or something else?
-14861: Is this a dream? [What else could it be?/No. It's something more...]
-14862: Come. Surely your vision cannot be that clouded.
-14863: A keen eye, as always.
-14864: The minds of all who have existed--and all who will exist--are as one.
-14865: As, too, are the light and darkness inherent in the mothercrystals.
-14866: I need not point out that the apparitions appearing before you are those whose schemes you have foiled.
-14867: And those...
-14868: ...Who you are destined to stop.
-14869: I have sought them out of my own volition, hoping to manipulate their essences for my own ends.
-14870: Dark, infernal forces, serving as a counterbalance to the light you hope to make manifest.
-14871: And now is the time for me to fill you with that energy. Come.
-14872: You don't really expect to save the world, do you?
-14873: At best you might buy it a few more phases of the moon.
-14874: Even should I fall, there is a grand legion aching to take my place.
-14875: So in the end, all my journeys have been utterly without meaning.
-14876: One by one, those I have trusted have fallen. None are left to prop me up when I begin to falter.
-14877: Hahaha...none know who I rrreally am.
-14878: False prophets. False worlds. False adventurers... The truth is the pain I feel inside.
-14879: Each combat has prepared me for the next...but in the end, it's all worthless. A new age is descending, and it threatens to leave me behind.
-14880: Pandora's box-wox has been opened, overturned, and shaken until nothing remains inside.
-14881: Perhaps not even your precious-wecious "hope."
-14882: Some claim that hope is what keeps humanity sane in these trying times...yet in reality it is a prison that shuts away the real world.
-14883: No matter how deeply darkness has penetrated your soul...
-14884: ...no matter how much you want to give up...
-14885: You must not. You cannot.
-14886: Hope is something seized, not given.
-14887: Whether surrounded by friends or walking a hard road alone...
-14888: There is unshaking value in seeing your path to its conclusion.
-14889: You are the culmination of all your experiences.
-14890: Even those who are gone still depend on you.
-14891: <Player>, this rhapsody is yours to sing.
-14892: @@
-14893: $3{$3^$3$97F$31V$P10i]\7
-14894: G1)g$3539533_)g $P163L$g$R=? $3G$3X$3P[$3v gR$P10r$7
-14895: Master--the orb.
-14896: You have set history on its proper course yet again, having passed through the fourth gate that stood before you.
-14897: Yet Selh'teus's words ring true--the darkness slumbering within you is great.
-14898: He claims that not even the crystal is enough to illuminate it.
-14899: I must confess my trepidation at the current state of affairs. What if the darkness overcomes you not in the future, but even earlier than I had anticipated?
-14900: What a morbid state of affairs we find ourselves in.
-14901: We must take solace in the hope that the orb will guide you to safety, so that you will be prepared for the Reckoning.
-14902: Until that time, your footsteps must remain unerring.
-14903: And so fate guides you to Ceizak Battlegrounds...
-14904: The future should have changed...
-14905: ...And I should have been dissolved into nothingness.
-14906: Yet the crystal's clarion song has ceased.
-14907: And the Cloud of Darkness threatens the world once more.
-14908: Able adventurer, warmest welcome from the Magian Mooglehood.
-14909: To think you can perceive me in my true form, kupo! The trials of time take a toll on us all.
-14910: I command and control crystal-related incantations. Their ephemeral essence helps hold Vana'diel together.
-14911: Surely you have studied synthesis? Then you are doubtlessly versed in their myriad uses, kupo.
-14912: Promise you will not speak a syllable to others of my existence here.
-14913: Will you stay mum? [Mum's the word./I don't think so.]
-14914: ...
-14915: I scarce have the stamina to stop you, but I doubt others would believe this tale anyway.
-14916: Still, I shan't assist you if you don't promise.
-14917: Then the deed is done! In exchange, I shall proudly proffer my services in making your crystals ephemeral, too, kupo.
-14918: Ahhh, mayhap I have moved too quickly. Allow me to apprise you of the particulars--of this "crystal storage," if you will.
-14919: It's strikingly simple. Trade me your crystals and I shall safely store them for you. You need only glance at your currencies list to see the amount I'm holding for you.
-14920: But I can store more than crystals alone. % and the like are also acceptable.
-14921: My mysterious moogle magic has limits, kupo, so I can only hold up to 5000 of a particular element.
-14922: You never know what secrets are in store unless you try!
-14923: You can wistfully withdraw them at any time by speaking to me.
-14924: Any number over 12 will be returned as clusters, kupo.
-14925: The % gives a sly smile.
-14926: This service is available to you free from the fetters of funding. As long as you keep this hush-hush, I'll always assist you with no recompense required.
-14927: If you can find me here, then you'll surely see me in other locations too, kupo. Moogle magic, you know.
-14928: Of course, I do not actually exist in Vana'diel. Only a part of me projects into your world.
-14929: It's rather similar to summoning magic, kupo.
-14930: I promise not to bore you with the particulars. Just come chat if you need me, kupo.
-14931: You are now able to store crystals!
-14932: Come for crystal-related concerns, hmm?
-14933: What would you like? [Crystals returned to me./A bit of an explanation./Nothing for now.]
-14934: Which element? [Never mind./Fire o $0/Ice o . $1/Wind o!. $2/Earth o". $3/Lightning o#. $4/Water o$. $5/Light o%. $6/Darkness o&. $7]
-14935: How many would you like? [None, actually./A specific number./As many you can fit.]
-14936: How many? ($8 stored)
-14937: $1 [/fire/ice/wind/earth/lightning/water/light/darkness] crystal[/s], correct? Then that will mean a total of...
-14938: $1 $0 .
-14939: $1 $0 and $3 $0 .
-14940: Are you sure?
-14941: Is this what you desire? [Yes./No.]
-14942: "As many as you can fit!?" I-if you say so...
-14943: Okay... Moogle Magic, ahoy!
-14944: There are limits to what my mysterious moogle magic can make up.
-14945: Inquire about what? [Your purpose./Storing crystals./Retrieving crystals./Who are you?/Nothing in particular.]
-14946: I'm in charge of crystal chants. Crystals, of course, are the very lifeblood of Vana'diel, kupo.
-14947: Surely your sacks are spilling over with them! I can perhaps assist you with your problem.
-14948: You want me to hold onto these, kupo?
-14949: $1 $0 .
-14950: $1 $0 and $3 $0 .
-14951: Calculated in crystals, that comes to a total of $1 $0 .
-14952: Then let the magic begin!
-14953: That's all there is to it, kupo! Let me know if you need me again.
-14954: Unfortunately, it's all I can do to hold on to what you've already given me, kupo!
-14955: You have stored $1 $0 for a total of $2.
-14956: You have stored $1 $0 and $3 $0 for a total of $4.
-14957: You want me to hold onto these, kupo? Then let the magic begin!
-14958: You have stored $1 $0 for a total of $4.
-14959: You have stored $1 $0 and $3 $0 for a total of $4.
-14960: Here we sell items from the various guildmasters and also exchange crafter points for your convenience.
-14961: Sorry, we don't allow amateur craftsmen to take advantage of our services.
-14962: What would you like to do? [Purchase a crafting kit./Exchange crafter points././Special materials./Check the deliverable items./Ask about the delivery process./Never mind.]
-14963: Please select a product. [# (Quantity: $9)./$1 (Quantity: $10)./$2 (Quantity: $11)./$3 (Quantity: $12)./$4 (Quantity: $13)./$5 (Quantity: $14)./$6 (Quantity: $15)./$7 (Quantity: $16)./$8 (Quantity: $17)./Maybe some other time.]
-14964: How many? (Current gil: $30) [1 ($18 gil)." ($19 gil)." ($20 gil)./4 ($21 gil)./5 ($22 gil)./6 ($23 gil)./7 ($24 gil)./8 ($25 gil)./9 ($26 gil)./10 ($27 gil)./11 ($28 gil)./12 ($29 gil)./I changed my mind.]
-14965: You want to purchase $31? It will cost $! gil for $ of them.
-14966: Are you sure about this? [Yes, I'm sure./On second thought...]
-14967: I'm sorry, we don't currently seem to have the item available in that quantity.
-14968: Which item? ($30 crafter points) [# ($10 CP)./$1 ($11 CP)./$2 ($12 CP)./$3 ($13 CP)./$4 ($14 CP)./$5 ($15 CP)./$6 ($16 CP)./$7 ($17 CP)./$8 ($18 CP)./$9 ($19 CP)./I changed my mind.]
-14969: Do you want to purchase the $20 for $21 crafter points?
-14970: Do you want to make the trade? [Yes./No.]
-14971: You don't have enough crafter points.
-14972: These are the items that we are taking deliveries of. Simply select an item whenever you want to check the recipe.
-14973: Deliverable Items [#./$1./$2./$3./$4./$5./$6./$7./$8./I'm finished here.]
-14974: This is where you can deliver the crafting sets that the guildmasters have created.
-14975: By delivering items, you can earn crafter points that can be exchanged for special ingredients.
-14976: Crafting sets can be made by using special crystals known as analysis crystals, crystals which that enable you to set the quality level.
-14977: The higher the quality level of the crafting set created, the more crafter points you'll earn, so try to make the highest quality sets you can manage.
-14978: Analysis crystals can be obtained from the person in charge of accepting deliveries in exchange for guild points.
-14979: Analysis crystals cannot be used to create items other than the ones in the crafting sets.
-14980: Please note that you can't use $1 in place of $0.
-14981: The ingredients required to make a crafting set can be checked by referring to the deliverable items list.
-14982: At the present time, you can receive up to a maximum of $2 guild point[/s].
-14983: Any points beyond that from making deliveries will be lost, so keep that in mind.
-14984: Crafting sets delivered here will be sold as crafting kits until the next day at 10:00 a.m. (Vana'diel time).
-14985: It helps the junior members of the guild, so keep on making those deliveries.
-14986: Thanks for the delivery. Everything looks to be in order.
-14987: You receive $0 crafter point[/s], and now have a total of $1 crafter point[/s]!
-14988: We now have available $0 for the low cost of $1 gil per.
-14989: I am willing to part with up to $2.
-14990: My apologies, but our stock is limited and I cannot sell you any more at this time.
-14991: What do you want to do? [Obtain a kit./Check the scheduled quantity./Ship the item./Nothing.]
-14992: Which do you want? [#./$1./$2./$3./$4./$5./$6./$7./$8./Exit.]
-14993: What is the quality? (1-1000)
-14994: #: $1
-14995: Oh, hello again. What is that shield you're carrying?
-14996: I see... You must've met with her already.
-14997: Yes, I heard her story about a shield that can increase one's crafting ability. I must say, I'm a bit skeptical about the whole thing.
-14998: Although, if it's for real, it could change everything.
-14999: I know just how skilled you are, and if she selected you for this task, then I suppose you've got what it takes to make this shield.
-15000: Now then, let's get down to it. First, you're going to need the recipe, so try not to forget it.
-15001: First of all, you're going to need $1 to get started...
-15002: This particular item is used to get the Craftsmanship of the $0 up to its maximum value.
-15003: I have some notes here about Craftsmanship that you should hear. Allow me to read them to you.
-15004: You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped.
-15005: Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you run into trouble.
-15006: In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect.
-15007: You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha...
-15008: That's all it says.
-15009: Come show me what you've got when the Craftsmanship is high enough and I'll make you the $1.
-15010: Your next step will be to obtain $2 and $3, which you can get from Puyutete.
-15011: You've made deliveries to people before, right? That's basically what you'll need to do here.
-15012: Simply talk to Puyutete if you need more information.
-15013: That's it for the ingredients. Once you've upgraded the shield, come show it to me. I'd like to see how it turned out.
-15014: What? You forgot the recipe? Okay, here are the ingredients again. Someone of your skill level really should remember these things.
-15015: You have a good eye for detail. If anybody can make this shield, I know you can.
-15016: Hmm... This really is something. I should be able to use this to make the $0 now.
-15017: So this is the $0...
-15018: This act of a craftsman pouring his very spirit into the shield to form a crystal... It could be used for all kinds of other applications, especially jewelry.
-15019: Oh, my. It seems that creating the $0 caused a reduction in the Craftsmanship of the $1.
-15020: That's not a problem to upgrade the $1, but if you need to make another $0, you'd have to increase the Craftsmanship again of course.
-15021: Although, I really doubt you'd ever lose such a valuable item and need to make another one.
-15022: Impossible. You're telling me you lost the $0?
-15023: I guess these things happen. Okay, let me see the shield. I'll make you another $0.
-15024: You're a top quality craftsman. You really should take better care of your ingredients.
-15025: I see you made the upgrade. Now, let me see what you've got there.
-15026: Hmm... The design has changed, and I can feel its power somewhat. Of course, it's nowhere near complete yet.
-15027: It's said that you can only bring out the shield's true potential by crafting with it multiple times.
-15028: Oh, that's right. I'm supposed to place some kind of mark on the shield once it's done. Give me just a moment.
-15029: That should do it.
-15030: Just show this shield to Mewk Chorosap in Jeuno.
-15031: Oh, keep in mind that I'm constantly making deliveries to Puyutete. I hope you'll continue helping me out to educate the newer members of the guild.
-15032: Welcome. I suppose you're here to upgrade your shield.
-15033: Yes, she told me all about it. Here, let me get you the necessary recipe.
-15034: That's it.
-15035: Now, let's go over how to obtain the ingredients. First up is the $1.
-15036: Last time, you equipped the aspis while crafting in order to boost its Craftsmanship rating.
-15037: This time, you'll craft the items while equipping the $0 in order to increase its Craftsmanship.
-15038: Come bring it to me once it reaches 100% and I'll make the $1 for you.
-15039: Next up is the $2 and $3. I have given both of them to Puyutete, so you'll need to speak with her to get them.
-15040: The last ingredient is the $4. With the help of the A.M.A.N., I have prepared some Records of Eminence objectives for you.
-15041: Check the Records of Eminence menu for more details on the objectives. You'll receive the $4 once you've completed all of them.
-15042: That's it for the explanation about the ingredients. I look forward to seeing what this shield can become. Good luck to you.
-15043: Ahh, it looks like you've sufficiently raised the shield's Craftsmanship.
-15044: Now, wait just a moment while I prepare the $0 for you.
-15045: There we go. It really does have a nice shine to it, don't you think?
-15046: Oh, I thought this might happen. It seems creating the $0 causes the shield's Craftsmanship to drop.
-15047: If you lose this thing, you'll need to boost the shield's Craftsmanship all over again. Make sure you keep it in a safe place until you're ready to craft with it.
-15048: This is quite impressive. Even though it's not a piece of jewelry, it sure shines like one.
-15049: Yes, I can feel the immense power coming from this shield. I can't wait to see just how powerful it can become.
-15050: Here, let me mark the shield for when you show it to her.
-15051: That ought to do it. Show the shield to Mewk Chorosap when you get a chance.
-15052: Well, these things happen from time to time. I'll arrange for you to attempt the final objective one more time.
-15053: How are you doing? I suppose you're here to upgrade your shield? In that case, let me get you that recipe...
-15054: Huh? You already know the recipe? You just need to know about some of the ingredients?
-15055: Okay, for the remaining two ingredients, we have $4 and $5.
-15056: If you agree to help the guild deliver some orders, I'll be happy to give them to you.
-15057: Although, there's more to it than just making the delivery. You have to craft the items near the customer. They have a real eye for quality and want to see the work done in person.
-15058: There are some exceptions, such as items used for repairs, but most of them will need to be crafted in the presence of the customer.
-15059: You'll need to gather the materials needed to craft the items by yourself. You're free to use whatever method you like.
-15060: Oh yes. Did you know that we recently reached an agreement with the other guilds to sell some of their products?
-15061: They're not always cheap, but you can purchase them by speaking to each guild's crafting set vendor.
-15062: Of course, there's no guarantee that they'll sell you what you're looking for, so be sure to keep that in mind.
-15063: Once you've finished all of the deliveries, I'll give you the $4 and $5.
-15064: Okay, this is the [first/next/final] request.
-15065: Deliver $1 $0 to the merchant Honoi-Gomoi in $7.
+14401: Urk!
+14402: I understand that you are...an adventurer? My name is Pieuje I. d'Oraguille, commander of San d'Oria's famed Temple Knights.
+14403: Is that <Player>'s voice I hear?
+14404: Forgive me, but I am more accustomed to recognizing faces than voices, especially through such a peculiar device.
+14405: I must thank you for your handling of the Altedour incident in Fei'Yin.
+14406: Never once have I forgotten your dedication to protecting all of San d'Oria.
+14407: As you are doubtlessly aware, a short time ago I received a memorandum from the Adventurers' Mutual Aid Network detailing Unity Concord and requesting my services as a Unity leader.
+14408: Tell me. Is there any greater way for a prince regent to earn honor for his kingdom than by spearheading a group dedicated to purging evil from the land?
+14409: Many around me were opposed, but that bothered me not. My brother, Trion, serves as a representative of the Trust initiative, and it falls to me to up the ante.
+14410: I cannot lie. That was an important factor in my decision.
+14411: But be not concerned with our internal squabbles. Know only that it pleases me to welcome you to my Unity.
+14412: My name is Ayame, a ranking member of the Mythril Musketeers. Pleased to make your acquaintance.
+14413: Haha...yes, <Player>, of course I remember you. How characteristic of you to have your fingers in everyone's pies.
+14414: Do not think me ungrateful. No, I am always pleased to have your help, but this time things are a bit different.
+14415: Do not think me ungrateful. You strengthened the Mythril Musketeers in ways I never thought possible, and we are closer than ever before.
+14416: Not terribly long ago I was contacted by the Adventurers' Mutual Aid Network, which asked that I head a Unity.
+14417: At first I was flustered and thought of turning the offer down. Why would they pick me when there are others more qualified?
+14418: But Volker decided it would be the perfect opportunity for me to develop my leadership skills, and told them I would accept...without my knowledge.
+14419: Though unconvinced that I am the best fit, I pledge to dedicate myself wholly to this endeavor.
+14420: People are counting on me. Not only Volker, but those like you who have pledged their support.
+14421: I will not let you down.
+14422: Stand sharp, maggot! I've got no time for people who're gonna slack off!
+14423: ...Wait. That's you, isn't it, <Player>?
+14424: I hear you've decided to join my backbreaking Unity.
+14425: Well!? What've you got to say for yourself!?
+14426: How do you respond? [That's right./Nope./Y-yessir!]
+14427: Impudent cretin! You say "sir" when addressing a superior officer!
+14428: Better. Everyone in my Unity is equal--you're all worthless whelps!
+14429: We don't coddle the weak around here. If you want respect, you earn it.
+14430: Until then, you're just a dried-up, shriveled worm!
+14431: So go crawling around in the dirt and pray some crow doesn't sweep down and gobble you up!
+14432: Now get out there!
+14433: Hello, good adventurer. You can call me Apururu.
+14434: Is that...<Player>? Am I rightaru?
+14435: Your good deeds on behalf of Windurstaru have not gone unnoticed.
+14436: I'm so worried about my brother...but if this is one way for me to help-welp him, then so be it.
+14437: Ajido-Marujido has awoken at lastaru, but...no, I'll not let myself cry. I must work for the good of Windurst.
+14438: You brought hope to a Windurst that was on the brink-wink of despair.
+14439: I've been selected to serve as the head of a Unity-wunity, and can I ever say...
+14440: As the head of the Manustery, there can be no greater honor than--
+14441: Aaaaaall right! Now the Cardian workshop can finally turn something resembling a profitaru!
+14442: tHiS iS aBsoLUtElY WonDErFul. NoW wE HaVe MOneY, ALl ThaNkS tO APurURu!
+14443: H-hey! It's not like I'll be making bank-wank!
+14444: Putting that aside--welcome to my Unitaru!
+14445: We can do together-wether what we couldn't individually.
+14446: Phew... So you're my new pupil, eh?
+14447: Phew... So you're my new pu... <Player>?
+14448: The way you shone when the two of us met in combat...I'd be lying if I said I wasn't impressed.
+14449: I've gotta say, you sure knew how to show me the old what-for...it was like staring into the face of a demon!
+14450: I've lived many years on this green Vana'diel, but you're the only one I've ever proffered my hat to.
+14451: ...Let's discuss how all this came to be.
+14452: The Adventurers' Mutual Aid Network came up with this "Unity" idea, and asked me to be one of its founding masters.
+14453: But I'm not the kind to take on disciples, so at first I was more than a bit wary.
+14454: But the old lady, she nagged me, and nagged me, and nagged me until I finally caved in.
+14455: How do you respond? [You can always quit, you know./Must have been tough for you./That's quite the wife you've got.]
+14456: Ugh... I didn't expect you to come at me with that.
+14457: Tough doesn't begin to describe it! I was hoping to spend my twilight years for myself, but you gotta play the hand you're dealt.
+14458: Please tell me that you weren't in on it!
+14459: Either way, that's not important now. As long as I'm the master of a ragtag group of youngsters, I'm gonna make sure you all get the training you deserve.
+14460: But to do that, I'm gonna need your help.
+14461: And I'll warn you--my regimens have been known to be...strict.
+14462: And I'm sure I don't need to tell you how strict my regimens are!
+14463: What's the password?
+14464: How do you respond? [Rose on the heath./Tavnazia./@]
+14465: Who's this!? ...Ah, this is the Unity communication device. Forget I said anything.
+14466: Aldo of the Tenshodo, at your service.
+14467: Who's this!? ...Ah, this is the Unity communication...wait. You're <Player>, aren't you?
+14468: The way this little thing is buzzing tells me that you're looking to join my Unity.
+14469: "My" Unity being the key here. Who else did you expect to be the leader?
+14470: I'm sure the Adventurers' Mutual Aid Network would make for...excellent customers in the future.
+14471: Serve the Unity well and I promise you'll want for nothing.
+14472: You found hope where once I had lost it. Lion was alive and I'll never forget all you've done.
+14473: All that she had worked and fought for...we owe it to her to live our lives to the fullest.
+14474: Working with others for a common goal is the greatest reward of all.
+14475: And it's people like you who I need to understand that most.
+14476: Well, do we have a new rrrecruit? I'm Jakoh Wahcondalo, chieftainess of Kazham.
+14477: Come to think of it...didn't I teach you the secrets of eviscerrration?
+14478: Hah-hah-hah! Then all the better for my Unity!
+14479: Are you sure...are you sure you're not currrsed by $0?
+14480: Can never be too carrreful these days...
+14481: Let's cut to the quick. You've joined my Unity, corrrect?
+14482: Then welcome.
+14483: But a quick word of warrrning.
+14484: I'm in charrrge here, so don't go about being disruptive!
+14485: If you can do that, we'll have no prrroblems. Now get to it!
+14486: H-hello, you've reached Salaheem's Sentinels.
+14487: There's no problem we can't solve, big or small!
+14488: Aha, we have a new visitor? One moment--I'll get the president for you.
+14489: Yes, this is Naja Salaheem.
+14490: Ah, have we an adventurerrr applying today?
+14491: You could not have picked a betterrr place to be.
+14492: Our Unity is completely free of charge, making it the purrrfect place to hang up your sword and meet some new companions.
+14493: We considerrr it our calling to provide an excellent place for those of all strrripes to utilize their talents in a variety of combat scenes.
+14494: Abquhbah! Get your lazy butt over here!
+14495: S-sorry. Yes, [good sir/my lady], this is Abquhbah of Salaheem's Sentinels.
+14496: We have a variety of powerful backers supporting our organization...
+14497: ...So I'm certain you'll find achieving a high Unity ranking to be a breeze.
+14498: And if we do, then there will be a lovely gift of sweets waiting. Yes, some gold pieces of--
+14499: <Sigh>... Oh, heavens, I think this device isn't worrrking properly. Can you hear me now?
+14500: How do you respond? [Loud and clear./Where's Abquhbah?/Just what did you do?]
+14501: Please forrrgive his impudence.
+14502: We're looking forward to having you serrrve in our regiment.
+14503: And we hope you enjoy your looong stay in our rrranks!
+14504: Oho? Is that <Player> I hear?
+14505: <Player>? Gimme that!
+14506: Picturrre that, hearing from [a non-employee/a second class private/a first class private/a superior private/a lance corporal/a corporal/a sergeant/a sergeant major/a chief sergeant/a second lieutenant/a first lieutenant/a captain] such as yourself.
+14507: You've got some gall shirrrking your duties like this!
+14508: But since you've joined my Unity, I'm willing to overlook that little trrransgression.
+14509: Let's paint the rankings rrred with our unstoppable team!
+14510: And that rrrequires you to not sit around like some good-for-nothing! You belong not just to one of my teams, but to two!
+14511: Be thankful you have work and get your butt out there!
+14512: The magic doll you are trying to reach is either suffering from mystical interference or is not attuned to a bearer.
+14513: Please check the settings and try a-again... Mmph...
+14514: Ahaha! Who can ever resist a good joke? It's me, and no other!
+14515: How do you react? [Flaviria?/Arciela?/Who?]
+14516: Oho, expertly deduced! I'd expect no less!
+14517: Huh? Arciela? That little waif of a princess? Granted, I'm quite pretty as well...
+14518: Urk...I'd have expected you to go with the joke...
+14519: But let's get down to business.
+14520: I'm Flaviria, maester of Adoulin's Mummers' Coalition.
+14521: I'm Flaviria, of course. I'm sure you've been to the Mummers' Coalition more than once, so my name should be quite familiar.
+14522: The Adventurers' Mutual Aid Network invited me to be a Unity leader...and how could I say no?
+14523: Though truth be told, I wonder why they picked me over one of the other leaders of the twelve orders.
+14524: Now that I think of it, didn't you trounce one of our more enigmatic patrons in a game of Boom or Bust?
+14525: And here I thought that the man in black couldn't be bested.
+14526: I'd better brush up, or you'll be coming for me next!
+14527: Either way, welcome to my Unity! I'm not completely clear on how best to proceed, but let's find the path together.
+14528: Ahem. <Cough-ethy>
+14529: So you're the young mind who's come to join-ethy my Unity?
+14530: Well met, I am Dr. Yoran-Oran, former minister-ethy of the Rhinostery in Windurst, and involved in all manner of magical research.
+14531: Ah, didn't you assist-ethy me with my mandragora research back then? Those items were of great help, thank you.
+14532: Ah, I know that voice-ethy! <Player>, that's you, isn't it?
+14533: Your efforts-ethy saved the Great Star Tree. Windurst owes you a deep debt of gratitude.
+14534: Listen <Player>. Those three monstrosities you so kindly brought into my life have put me in a very disconcerting situation-ethy. I have a lot more to say about it, but for now let's focus-ethy on the issue at hand.
+14535: Things have slowly gone back to normal-ethy now that the wretched trio of chaos incarnate has left. I've finally managed to begin work-ethy on my next book.
+14536: Thank you again for your aid during the Shantotto crisis-ethy. Were it not for you, our entire dimension would have been twisted and defiled beyond recognition. I still get nightmares-ethy thinking about it.
+14537: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
+14538: One of these students was part of the Adventurers' Mutual Aid Network-ethy and invited me to become a Unity leader.
+14539: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
+14540: But then I thought-ethy some more.
+14541: Could this in fact be the perfect-ethy avenue to promote my glorious research?
+14542: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
+14543: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
+14544: You see, I have many students who regularly come-ethy to me to learn from my vast well of knowledge, but the students who buy my books are by far the best-ethy.
+14545: One of these students was part of the Adventurers Mutual Aid Network-ethy and invited me to become a Unity leader.
+14546: I hesitated, of course. Wasting my intellectual prowess in the adventuring business-ethy didn't seem fitting for a scholar like myself.
+14547: But then I thought-ethy some more.
+14548: Could this in fact be the perfect-ethy avenue to promote my glorious research?
+14549: With this flawless object in mind, I've decided-ethy to accept the nomination as Unity leader.
+14550: And as Unity leader, I hope none of you will reproach-ethy me if I happen to plug my new book every now and again-ethy.
+14551: .........
+14552: Oh! Right! I should probably say something. I'm Sylvie. As you can probably guess from these clothes. I'm a geomanger--I mean, geomancer!
+14553: Oh, I forgot...you can't see my clothes, right? Forget I said that, okay?
+14554: Oh, huh? <Player>? Is that <Player>?
+14555: Oh, <Player>, it's you.
+14556: <Player>! It's <Player>!
+14557: How are you getting along with your luopan? Have you gotten used to using Colures, yet? If you keep your head and shoulders to the grindstone I'm sure you'll master it!
+14558: I know Daddy's training can be rough, but it looks like you passed his test with flying pigs...is that how you say that?
+14559: Did you know that Daddy would speak really highly of you? He would always talk about how a promising new geomancer showed up and was looking forward to seeing what you could do... He seemed so happy.
+14560: I can still feel your Communion. If it weren't for you back there, we would have been domed, I mean doomed. Anyway, thank you <Player>.
+14561: It's all thanks to you that we were able to fulfill Zacariah's duty. You're like the most...stupenderrific hero to all us Zacariahs!
+14562: So...I guess this mean you'll be joining my Unity?
+14563: Thank you so much. It means a lot to me. As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
+14564: Ikhi said this wasn't a good time for me to be leading a Unity.
+14565: But...I couldn't just stay at home doing nothing. It's easier to forget the sad things when you've got a lot to do, you know?
+14566: So when the offer for Unity leader came, I had to accept.
+14567: You can't stay blue forever. Daddy would probably laugh at me if he saw how down and depressivated I am these days.
+14568: ...Right, smile Sylvie! Let's make this Unity work. With you as part of the team, I'm sure our efforts will bring us bear fruit. Huh...why do they call it "bear fruit"?
+14569: Wait, so does this mean you'll be joining my Unity?
+14570: As a representative for geomancers everywhere, I want our Unity to be the most geomancerrific. I mean, the best Unity that it can be.
+14571: With you on our team, we'll be truly unstoppableable!
+14572: To tell you the truth, I wasn't sure what to do when the Adventurers' Mutual Aid Network first invited me.
+14573: If it weren't for Ikhi's guidance, I'd be down a creek full of paddles.
+14574: She said if the Unity could show people everywhere how to communicate with nature and spread the ways of the geomancer, then it was something worth doing.
+14575: There's still a lot I don't know as a geomancer, but I'm going to triple down and do my best as UL.
+14576: Let's make this the best Unity we can!
+14577: Yeah, go team!
+14578: And...if you happened to be in Western Adoulin...and are also interested in geomancy, come see me by the docks. Wait, but not like...in a weird way, okay?
+14579: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
+14580: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
+14581: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
+14582: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
+14583: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
+14584: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
+14585: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
+14586: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
+14587: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
+14588: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
+14589: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
+14590: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
+14591: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
+14592: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
+14593: Select an item category. [Return to previous selection./@/@/@/@]
+14594: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
+14595: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+14596: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+14597: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
+14598: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
+14599: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+14600: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
+14601: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
+14602: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
+14603: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
+14604: "Unity" is a catchall term that refers to the group that participants belong to.
+14605: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
+14606: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
+14607: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
+14608: You may not always be able to join the chat if too many players are participating at once.
+14609: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
+14610: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
+14611: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
+14612: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
+14613: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
+14614: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
+14615: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
+14616: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
+14617: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
+14618: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
+14619: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
+14620: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
+14621: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
+14622: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
+14623: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
+14624: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
+14625: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
+14626: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
+14627: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
+14628: You can use specified materials to add new attributes to equipment that has been upgraded.
+14629: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
+14630: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
+14631: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
+14632: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
+14633: It also requires that you first complete a specific Records of Eminence objective.
+14634: The work you request will be carried out on-site by a specially trained Unity guide.
+14635: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
+14636: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
+14637: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
+14638: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
+14639: You may switch Unities once during the Unity ranking tabulation period.
+14640: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
+14641: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
+14642: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
+14643: Rankings are decided through the combined efforts of each of the Unity's members.
+14644: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
+14645: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
+14646: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
+14647: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
+14648: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
+14649: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
+14650: Unity leaders may also join you as alter egos for a limited period of time.
+14651: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
+14652: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
+14653: A leader's alter ego grows in power the higher their Unity is ranked.
+14654: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
+14655: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
+14656: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
+14657: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
+14658: You are currently under Unity restriction. Please try again during the next tabulation period.
+14659: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
+14660: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
+14661: You have already changed Unities. Please wait until the next tabulation period.
+14662: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
+14663: Teleport anyway? [Yes, please./No, thank you.]
+14664: Ah, a sprightly adventurer has come to me this day! Yes, I am more than pleased to make your acquaintance.
+14665: Forgive me for seeming elitist, but the message I have to bear is only for those who have completed at least $0 Records of Eminence objective[/s].
+14666: Isakoth, standing just over there, is well versed in such matters and would be happy to provide you any guidance you need.
+14667: Ah, yes, I have some wonderful information for you, but you must first set the Records of Eminence objective "$1" from the "Tutorial" section of the eponymous submenu.
+14668: Oh, my stomach! That vengeful witch must have put something in my...
+14669: G-goodness! A new recruit! Please, a thousand pardons.
+14670: Do you perhaps have the Records of Eminence objective "$1" set?
+14671: How do you respond? [Locked and loaded./You got the wrong [guy/gal].]
+14672: Is that so? Perhaps I made a-- My head! Oh, Goddess, the pain!
+14673: Huzzah! A willing soul has graced my presence at last.
+14674: You are willing, aren't you? To participate in Unity Concord, that is?
+14675: How do you respond? [Participate I shall./I need time to think.]
+14676: H-how absolutely frustrating! To have come this far only to-- Aaaaaah! I think I threw my back out!
+14677: Y-you mean it? Oh, praise the powers above! I feared yet another was bound to disappoint me.
+14678: To get started, I'll need you to place your signature in black right here on this doll.
+14679: Your quill flourishes across the doll's stomach.
+14680: The doll begins to convulse!
+14681: Excellent. With that concluded, permit me to offer a brief explanation of what Unity Concord entails.
+14682: The Adventurers' Mutual Aid Network (A.M.A.N.) has founded this unique system to provide casual means of communication between adventurers of similar minds.
+14683: Foster new friendships and strengthen old ones! Further your adventuring goals by coming together as one! Quite lofty goals, indeed.
+14684: The first step is choosing which leader's Unity you would like to join.
+14685: After all that discussion you-- Oh, my heart! It's like a vise clamping on my chest!
+14686: I'll be waiting here with your doll when you are r-ready to decide!
+14687: Ah, good day! I have your doll safe right here should you be inspired to join a Unity.
+14688: Which you are, correct?
+14689: Wonderful! You desire to join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity, correct?
+14690: Now grip your doll tightly and think pleasant thoughts of your Unity leader...
+14691: <Phew> That's one task down.
+14692: But your $3 can be used for contacting more than just your leader.
+14693: Since your Unity is comprised of others with the same type of doll, it naturally follows that you can converse with them as well.
+14694: I would therefore suggest that you take the opportunity to introduce yourself.
+14695: Such interactions can be established by going to the "Status" menu and selecting "Unity Info" under the "Unity" submenu.
+14696: Come to me again should you desire any further information about the inner workings of Unity Concord.
+14697: A fair day to you, [sir/ma'am]! How may I help you?
+14698: Understood. And away to $8 you go!
+14699: Oh dear! You don't have enough accolades to do that.
+14700: Hmmm...you can still exchange $0 more accolade[/s] this week.
+14701: I'm sure that would look perfect on you. Here's a quick glance at what you'd be getting.
+14702: The Unity Concord artisan will provide you with $0 in exchange for $4, $2 $0$0 , and $3 Unity accolade[/s].
+14703: I must inform you that such a process is not instantaneous. Return at a later date and I will provide you with your finished piece.
+14704: You have currently contracted us to make $0 for you. Our artisan can only handle one item per customer at a time.
+14705: This is what your equipment will look like with its new attribute.
+14706: Boosting its rank even further will make an upgrade like this possible. I think you will be pleased with the results.
+14707: In order to add a new attribute, you will need some $1 in addition to your $0, as well as $2 accolade[/s].
+14708: You must also complete the Records of Eminence objective "$4" beforehand.
+14709: If you bring some $3 in addition to the $0 with the new attribute, you can increase its rank.
+14710: I am in charge of handling both tasks.
+14711: Although I have been trained, I find my lack of actual experience tends to increase my apprehension somewhat.
+14712: $1? That costs $0 accolade[/s].
+14713: How many do you require? (from 1 to $0)
+14714: Splendid. $2 $0$0 will run you $0 accolade[/s].
+14715: Always a pleasure to serve.
+14716: Ah, sometimes a change of pace is for the best. Whose Unity did you have in mind?
+14717: I have filled out the necessary documents. Welcome to your new Unity!
+14718: Understood. Let me know should you have a change of heart.
+14719: Oh, thank the heavens! This 20-ponz manual has thrown all my muscles into utter disarray!
+14720: I suppose a quick explanation is in order.
+14721: Accomplishing Records of Eminence objectives rewards you with a special currency known as "Unity accolades."
+14722: As is standard fare for currency, it can be exchanged for a variety of goods and services.
+14723: Naturally, there are more nuanced aspects, but that's the basic workings of the system.
+14724: Aha. You wish to have your $1 improved?
+14725: Our talented arcane specialist requires a fee of $0 accolade[/s] for that service. Is that acceptable to you?
+14726: Your patronage is duly appreciated, and your order should be filled in due time.
+14727: I-I see. Then let me return your piece to you.
+14728: Our artisan is currently tied up with your $1. I ask that you please wait until the process is complete.
+14729: Your $1 may have taken some time to complete, but I guarantee you the quality will not disappoint! Here.
+14730: C-could you be here to request an upgrade for your $1!?
+14731: If so, do you mind paying a nominal fee of $0 accolade[/s]?
+14732: S-so, what do you think? I hope it is to your liking...
+14733: I-I see. Then let me return your piece to you.
+14734: Ah, you will need to complete the Records of Eminence objective "$7" before you can make the request.
+14735: Understood. You wish to use $6 $0$5 to store Reinforcement Points for your $4?
+14736: Sorry to keep you waiting, but I think you'll be pleased with the results. Go ahead, see for yourself.
+14737: I-I see. Then let me return your piece to you.
+14738: @@
+14739: The crystal resonates deep within your soul!
+14740: Vana'diel...in the year 898?
+14741: I must make haste for Reisenjima and find the master before...
+14742: Master, look at the orb.
+14743: You have set us on the proper course and passed through the first of many gates to come.
+14744: This precious jewel is one of Reisenjima Sanctorium's most mystical treasures.
+14745: Our legends state that it was formed from the energies of a thousand different lives.
+14746: Though it had originally been regarded as but a minor artifact, in the future you and my father had drawn forth its true power.
+14747: In reality, it is a piece of the mothercrystal.
+14748: Please, Master. You may have taken the first steps, but I urge you to continue pressing on.
+14749: Gilgamesh awaits word in Norg.
+14750: Master, behold your orb.
+14751: Your path remains steadfast, and you have successfully reached the third gate.
+14752: But the spirits which protect Reisenjima Sanctorium have gone silent...
+14753: And I am unable to remain here in 884.
+14754: My abject failure to guide you in your hour of need is a shame that I shall not overcome.
+14755: Had I been able to better serve you, then maybe...
+14756: But I can safely place my trust in you. You have come this far, and the orb grows stronger with each passing day. You will be ready when the world has reached the fulcrum.
+14757: May your steps remain swift and true.
+14758: Head for...the palace...
+14759: Master, behold your orb.
+14760: Your path remains steadfast, and you have successfully surpassed the third gate.
+14761: But there remains one whom you have yet to meet. A young woman who plays a vital role in your story.
+14762: I am afraid that you will not be able to see her in the world's current state.
+14763: If only I could return to 884 and walk by your side once more!
+14764: Yet my mind and body are crippled, and I can scarce muster this small advice--!
+14765: Master...forgive me.
+14766: Lead Aht Urhgan out of the darkness and forge the bonds you were destined to.
+14767: I'm so hungry...
+14768: Ovjang...Ovjang, where are you?
+14769: I'm here...[in Aydeewa Subterrane/on a pirate ship]...
+14770: Luzaf...I wish you were here...
+14771: Please...help me...
+14772: Razfahd must be stopped...
+14773: The time of the Harvest Festival is upon us once more, and with it comes a most wondrous event: a costume contest known as the Pink Masquerade!
+14774: Sick of donning those tattered old robes and half-rusted suits of armor? Then why not take this opportunity to dress up in something more festive--and perhaps even earn a prize for your efforts?
+14775: At the very least, the masquerade promises to be a refreshing change from your everyday adventures. What say you?
+14776: Participate in the Pink Masquerade? [Sounds like fun!/I think I'll pass.]
+14777: A shame upon shames, to be sure. But there's still time to change your mind--the masquerade is available throughout the duration of the Harvest Festival!
+14778: Splendid! Let me explain the rules of our little competition.
+14779: All entrants are tasked with putting together the most lavish outfits they can find and strutting their stuff for the judge--namely, me. Points are awarded for the following types of equipment: main weapon, sub weapon, head, body, hands, legs, and feet.
+14780: We're an equal opportunity contest, so don't think you'll be impressing anyone here with your Gjallarhorns or Idrises! Only rewards gleaned from special events are counted.
+14781: Feel free to brandish them if you want, but don't expect me to care in the slightest.
+14782: As this is an event to celebrate the Harvest Festival, entrance fees will not be charged in the form of gil, but rather sweets.
+14783: Those whose outfits receive at least $0 points will be awarded with a commemorative piece of attire directly from the steering committee.
+14784: But why be content with being mediocre when you can reach for the stars? The top three contestants will have their entries displayed on these "mannequins" for all to see!
+14785: That's the long and short of it. Speak with me again if you have any further questions or would like to know what types of sweets we accept.
+14786: Until then, prepare your most outlandish costume and come back when you're ready to be judged!
+14787: Take this special garb as your just rewarded for coming up with such a delightful outfit!
+14788: Oh, heavens! Don't tell me you lost your $0!
+14789: A distressing tale, indeed. I will furnish you with another one should you provide me with another piece of sweets.
+14790: As promised, here is another reward in exchange for your sweets. Make sure to keep this one safe and in pristine condition!
+14791: The pink masquerade is proving to be the event of the season, and I am both humbled and honored to serve as your guide.
+14792: Do you have any questions? [Who are the winning entrants?/Tell me about the costume contest./What kind of sweets do you want?/Tell me how entrants are judged./I'd like $0./None for now.]
+14793: The costumes of the three entrants with the highest scores are displayed here for you to see. First place is in the center, second place is on the left, and third place is on the right. It is possible that multiple entrants have received the same score.
+14794: [/First/Second/Third] place: %0 - $2 pts.
+14795: No participants have received enough points to have their outfits displayed.
+14796: I will accept any of the following types of sweets as payment for participation in the masquerade.
+14797: Sweets list: ($10 types. Page $11 of $12) [Previous page./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./I'm done./Next page.]
+14798: The judgment criteria is a bit nuanced, but I'll offer you the best explanation I can.
+14799: As the sole arbiter of fashion, the chief and chief alone issues garment-related edicts without any concern for race or gender.
+14800: Each accent you add to your costume affects the overall look, and he will determine a numerical value based upon the stuff you strut.
+14801: Yet I must warn you that he has trained hard under Brygid's watchful eye, and recognizes that the trends of the season are as fickle as the westerly winds.
+14802: In other words, just because you have received a particular score for wearing a given outfit, you are not guaranteed the same reception if you come back later donning the same garb.
+14803: And of course, the sweets you give me plays an integral... Ahem! Forget I said anything!
+14804: Another player's outfit is currently being critiqued. Please come back later.
+14805: Well, well, would you look at that stunning little number. Chief! You have a visitor!
+14806: Your score for this outfit is... $0!
+14807: [Did your mother dress you in that?/Next time, put your socks on under your shoes!/I've seen worse...but not by much./Maybe if you had offered up some better sweets.../<Yawn> Been there, done that./The chief is wholly unimpressed./What an affront to common sensibility./At least you remembered to brush your teeth./The color scheme was a bit off...] Take your mistakes and learn from them for your next entry!
+14808: Congratulations! You have met the bar for success!
+14809: Here is your splendid gift, as promised!
+14810: I have given you all I have to give, but why not give it another go to see if you can place in the top three?
+14811: Why, this is one of the most splendid outfits we've seen! I am more than pleased to award you [/first/second/third] place!
+14812: Let me put that wonderful costume of yours up for display on one of our mannequins.
+14813: That's all I have for now. See if you can beat your own personal record next time!
+14814: As promised, here is your just reward for doing such a good job in this year's Pink Masquerade.
+14815: Though I've got nothing more to give you, I encourage you to participate again to see if you can beat your score!
+14816: ;5D$!%qM$P13A$P15JI 1?gL$3v$3[$3$3gp2%p<Player>S5\5=B
+14817: 1?g* $P13A$P15JH$3v$3[$3$3gFHh\7$7540264/$fh->3"B
+14818: (Shhh...mannequins aren't supposed to talk.)
+14819: (The pain of having to stand here perfectly still is indescribable...)
+14820: (At least I'll be able to line my stomach with sugary goodness once this is over.)
+14821: You must first turn the style lock function off before trading that item.
+14822: $1$0(Max:$2)
+14823: $0FWoo-hoo factor.
+14824: @ ($0/$1/$2(Max:$3))
+14825: $0FResults.
+14826: Despite betrayal by those I once called my own...
+14827: I refuse to yield until humanity's blight is purged from this land.
+14828: I now serve to bring darkness unending, an umbral shroud choking the life from Vana'diel.
+14829: Simply opening the Gate of the Gods would bring the Zilart what they have been denied for over ten thousand years.
+14830: The endless nightmare would be endless no longer.
+14831: Have you ever paused to consider exactly whose nightmare it is?
+14832: Those who have ceased to be? Those who walk Vana'diel as she stands today?
+14833: Old gods? New?
+14834: No. It is a nightmare of the crystals themselves.
+14835: We were born in Vana'diel and exist only due to her endless bounty.
+14836: And yet our very presence here is an affront to her. We are the source of her nightmare.
+14837: There is one secret to humanity's success: ambition. Imagining a better future, it strives ever onward in search of it.
+14838: Having seen the promised land, it rages and struggles each day to become more than it was meant to be.
+14839: And it continues to claw its way forward, even if what it aspires to be does not truly exist.
+14840: Its insatiable avarice defines it more than even it can possibly realize.
+14841: But I am not a "human" such as you. I will be--I must be--an existence far beyond the most grandiose thought of such petty, grasping beings.
+14842: For that is what life is. And those who cannot reach that pinnacle are fated to perish.
+14843: Time is a cruel beast whose savageness cannot be sated.
+14844: Every man, woman, and child feels its claws sinking into their backs, the talons digging ever deeper with each passing day.
+14845: It marches on, unstoppable, immaterial, and unforgiving, and all any of us can do is watch it pass.
+14846: I claimed ever greater power in pursuit of my goals until my time, too, ran out.
+14847: All I wanted to do was protect my countrymen...my homeland...
+14848: An alternate world, with alternate fates and alternate existences.
+14849: I gambled my own life away to protect the world I called home.
+14850: Can you truly say that you [did/would have done] any different?
+14851: I channeled my love for my homeland into power.
+14852: When I fell before you...
+14853: ...did it mean everything was for naught?
+14854: I, and I alone, have seen the true nature of things in this world.
+14855: And thus, I have learned why all beings that rise must fall.
+14856: This is a burden which I must bear and prevent from happening ever again.
+14857: Should you not understand why my goal is pure and just, then you are unworthy of being called human.
+14858: Open your eyes and witness the truth!
+14859: Don't let ignorance cloud your judgment!
+14860: <Player>...
+14861: What you see before you--is it a dream, or something else?
+14862: Is this a dream? [What else could it be?/No. It's something more...]
+14863: Come. Surely your vision cannot be that clouded.
+14864: A keen eye, as always.
+14865: The minds of all who have existed--and all who will exist--are as one.
+14866: As, too, are the light and darkness inherent in the mothercrystals.
+14867: I need not point out that the apparitions appearing before you are those whose schemes you have foiled.
+14868: And those...
+14869: ...Who you are destined to stop.
+14870: I have sought them out of my own volition, hoping to manipulate their essences for my own ends.
+14871: Dark, infernal forces, serving as a counterbalance to the light you hope to make manifest.
+14872: And now is the time for me to fill you with that energy. Come.
+14873: You don't really expect to save the world, do you?
+14874: At best you might buy it a few more phases of the moon.
+14875: Even should I fall, there is a grand legion aching to take my place.
+14876: So in the end, all my journeys have been utterly without meaning.
+14877: One by one, those I have trusted have fallen. None are left to prop me up when I begin to falter.
+14878: Hahaha...none know who I rrreally am.
+14879: False prophets. False worlds. False adventurers... The truth is the pain I feel inside.
+14880: Each combat has prepared me for the next...but in the end, it's all worthless. A new age is descending, and it threatens to leave me behind.
+14881: Pandora's box-wox has been opened, overturned, and shaken until nothing remains inside.
+14882: Perhaps not even your precious-wecious "hope."
+14883: Some claim that hope is what keeps humanity sane in these trying times...yet in reality it is a prison that shuts away the real world.
+14884: No matter how deeply darkness has penetrated your soul...
+14885: ...no matter how much you want to give up...
+14886: You must not. You cannot.
+14887: Hope is something seized, not given.
+14888: Whether surrounded by friends or walking a hard road alone...
+14889: There is unshaking value in seeing your path to its conclusion.
+14890: You are the culmination of all your experiences.
+14891: Even those who are gone still depend on you.
+14892: <Player>, this rhapsody is yours to sing.
+14893: @@
+14894: $3{$3^$3$97F$31V$P10i]\7
+14895: G1)g$3539533_)g $P163L$g$R=? $3G$3X$3P[$3v gR$P10r$7
+14896: Master--the orb.
+14897: You have set history on its proper course yet again, having passed through the fourth gate that stood before you.
+14898: Yet Selh'teus's words ring true--the darkness slumbering within you is great.
+14899: He claims that not even the crystal is enough to illuminate it.
+14900: I must confess my trepidation at the current state of affairs. What if the darkness overcomes you not in the future, but even earlier than I had anticipated?
+14901: What a morbid state of affairs we find ourselves in.
+14902: We must take solace in the hope that the orb will guide you to safety, so that you will be prepared for the Reckoning.
+14903: Until that time, your footsteps must remain unerring.
+14904: And so fate guides you to Ceizak Battlegrounds...
+14905: The future should have changed...
+14906: ...And I should have been dissolved into nothingness.
+14907: Yet the crystal's clarion song has ceased.
+14908: And the Cloud of Darkness threatens the world once more.
+14909: Able adventurer, warmest welcome from the Magian Mooglehood.
+14910: To think you can perceive me in my true form, kupo! The trials of time take a toll on us all.
+14911: I command and control crystal-related incantations. Their ephemeral essence helps hold Vana'diel together.
+14912: Surely you have studied synthesis? Then you are doubtlessly versed in their myriad uses, kupo.
+14913: Promise you will not speak a syllable to others of my existence here.
+14914: Will you stay mum? [Mum's the word./I don't think so.]
+14915: ...
+14916: I scarce have the stamina to stop you, but I doubt others would believe this tale anyway.
+14917: Still, I shan't assist you if you don't promise.
+14918: Then the deed is done! In exchange, I shall proudly proffer my services in making your crystals ephemeral, too, kupo.
+14919: Ahhh, mayhap I have moved too quickly. Allow me to apprise you of the particulars--of this "crystal storage," if you will.
+14920: It's strikingly simple. Trade me your crystals and I shall safely store them for you. You need only glance at your currencies list to see the amount I'm holding for you.
+14921: But I can store more than crystals alone. % and the like are also acceptable.
+14922: My mysterious moogle magic has limits, kupo, so I can only hold up to 5000 of a particular element.
+14923: You never know what secrets are in store unless you try!
+14924: You can wistfully withdraw them at any time by speaking to me.
+14925: Any number over 12 will be returned as clusters, kupo.
+14926: The % gives a sly smile.
+14927: This service is available to you free from the fetters of funding. As long as you keep this hush-hush, I'll always assist you with no recompense required.
+14928: If you can find me here, then you'll surely see me in other locations too, kupo. Moogle magic, you know.
+14929: Of course, I do not actually exist in Vana'diel. Only a part of me projects into your world.
+14930: It's rather similar to summoning magic, kupo.
+14931: I promise not to bore you with the particulars. Just come chat if you need me, kupo.
+14932: You are now able to store crystals!
+14933: Come for crystal-related concerns, hmm?
+14934: What would you like? [Crystals returned to me./A bit of an explanation./Nothing for now.]
+14935: Which element? [Never mind./Fire o $0/Ice o . $1/Wind o!. $2/Earth o". $3/Lightning o#. $4/Water o$. $5/Light o%. $6/Darkness o&. $7]
+14936: How many would you like? [None, actually./A specific number./As many you can fit.]
+14937: How many? ($8 stored)
+14938: $1 [/fire/ice/wind/earth/lightning/water/light/darkness] crystal[/s], correct? Then that will mean a total of...
+14939: $1 $0 .
+14940: $1 $0 and $3 $0 .
+14941: Are you sure?
+14942: Is this what you desire? [Yes./No.]
+14943: "As many as you can fit!?" I-if you say so...
+14944: Okay... Moogle Magic, ahoy!
+14945: There are limits to what my mysterious moogle magic can make up.
+14946: Inquire about what? [Your purpose./Storing crystals./Retrieving crystals./Who are you?/Nothing in particular.]
+14947: I'm in charge of crystal chants. Crystals, of course, are the very lifeblood of Vana'diel, kupo.
+14948: Surely your sacks are spilling over with them! I can perhaps assist you with your problem.
+14949: You want me to hold onto these, kupo?
+14950: $1 $0 .
+14951: $1 $0 and $3 $0 .
+14952: Calculated in crystals, that comes to a total of $1 $0 .
+14953: Then let the magic begin!
+14954: That's all there is to it, kupo! Let me know if you need me again.
+14955: Unfortunately, it's all I can do to hold on to what you've already given me, kupo!
+14956: You have stored $1 $0 for a total of $2.
+14957: You have stored $1 $0 and $3 $0 for a total of $4.
+14958: You want me to hold onto these, kupo? Then let the magic begin!
+14959: You have stored $1 $0 for a total of $4.
+14960: You have stored $1 $0 and $3 $0 for a total of $4.
+14961: Here we sell items from the various guildmasters and also exchange crafter points for your convenience.
+14962: Sorry, we don't allow amateur craftsmen to take advantage of our services.
+14963: What would you like to do? [Purchase a crafting kit./Exchange crafter points././Special materials./Check the deliverable items./Ask about the delivery process./Never mind.]
+14964: Please select a product. [# (Quantity: $9)./$1 (Quantity: $10)./$2 (Quantity: $11)./$3 (Quantity: $12)./$4 (Quantity: $13)./$5 (Quantity: $14)./$6 (Quantity: $15)./$7 (Quantity: $16)./$8 (Quantity: $17)./Maybe some other time.]
+14965: How many? (Current gil: $30) [1 ($18 gil)." ($19 gil)." ($20 gil)./4 ($21 gil)./5 ($22 gil)./6 ($23 gil)./7 ($24 gil)./8 ($25 gil)./9 ($26 gil)./10 ($27 gil)./11 ($28 gil)./12 ($29 gil)./I changed my mind.]
+14966: You want to purchase $31? It will cost $! gil for $ of them.
+14967: Are you sure about this? [Yes, I'm sure./On second thought...]
+14968: I'm sorry, we don't currently seem to have the item available in that quantity.
+14969: Which item? ($30 crafter points) [# ($10 CP)./$1 ($11 CP)./$2 ($12 CP)./$3 ($13 CP)./$4 ($14 CP)./$5 ($15 CP)./$6 ($16 CP)./$7 ($17 CP)./$8 ($18 CP)./$9 ($19 CP)./I changed my mind.]
+14970: Do you want to purchase the $20 for $21 crafter points?
+14971: Do you want to make the trade? [Yes./No.]
+14972: You don't have enough crafter points.
+14973: These are the items that we are taking deliveries of. Simply select an item whenever you want to check the recipe.
+14974: Deliverable Items [#./$1./$2./$3./$4./$5./$6./$7./$8./I'm finished here.]
+14975: This is where you can deliver the crafting sets that the guildmasters have created.
+14976: By delivering items, you can earn crafter points that can be exchanged for special ingredients.
+14977: Crafting sets can be made by using special crystals known as analysis crystals, crystals which that enable you to set the quality level.
+14978: The higher the quality level of the crafting set created, the more crafter points you'll earn, so try to make the highest quality sets you can manage.
+14979: Analysis crystals can be obtained from the person in charge of accepting deliveries in exchange for guild points.
+14980: Analysis crystals cannot be used to create items other than the ones in the crafting sets.
+14981: Please note that you can't use $1 in place of $0.
+14982: The ingredients required to make a crafting set can be checked by referring to the deliverable items list.
+14983: At the present time, you can receive up to a maximum of $2 guild point[/s].
+14984: Any points beyond that from making deliveries will be lost, so keep that in mind.
+14985: Crafting sets delivered here will be sold as crafting kits until the next day at 10:00 a.m. (Vana'diel time).
+14986: It helps the junior members of the guild, so keep on making those deliveries.
+14987: Thanks for the delivery. Everything looks to be in order.
+14988: You receive $0 crafter point[/s], and now have a total of $1 crafter point[/s]!
+14989: We now have available $0 for the low cost of $1 gil per.
+14990: I am willing to part with up to $2.
+14991: My apologies, but our stock is limited and I cannot sell you any more at this time.
+14992: What do you want to do? [Obtain a kit./Check the scheduled quantity./Ship the item./Nothing.]
+14993: Which do you want? [#./$1./$2./$3./$4./$5./$6./$7./$8./Exit.]
+14994: What is the quality? (1-1000)
+14995: #: $1
+14996: Oh, hello again. What is that shield you're carrying?
+14997: I see... You must've met with her already.
+14998: Yes, I heard her story about a shield that can increase one's crafting ability. I must say, I'm a bit skeptical about the whole thing.
+14999: Although, if it's for real, it could change everything.
+15000: I know just how skilled you are, and if she selected you for this task, then I suppose you've got what it takes to make this shield.
+15001: Now then, let's get down to it. First, you're going to need the recipe, so try not to forget it.
+15002: First of all, you're going to need $1 to get started...
+15003: This particular item is used to get the Craftsmanship of the $0 up to its maximum value.
+15004: I have some notes here about Craftsmanship that you should hear. Allow me to read them to you.
+15005: You can increase Craftsmanship by crafting items that match up with your skill while you have the $0 equipped.
+15006: Craftsmanship will increase greatly when you fulfill certain conditions, but crafting the same item over and over again will reduce your gains, so try synthesizing something different if you run into trouble.
+15007: In its default state, the shield has the unfortunate tendency to lower the success rate of your crafting, but as its Craftsmanship rises, it mitigates that effect.
+15008: You can tell the Craftsmanship rating as well as the crafting success rate by looking at the shield. Good luck to you. Mwahaha...
+15009: That's all it says.
+15010: Come show me what you've got when the Craftsmanship is high enough and I'll make you the $1.
+15011: Your next step will be to obtain $2 and $3, which you can get from Puyutete.
+15012: You've made deliveries to people before, right? That's basically what you'll need to do here.
+15013: Simply talk to Puyutete if you need more information.
+15014: That's it for the ingredients. Once you've upgraded the shield, come show it to me. I'd like to see how it turned out.
+15015: What? You forgot the recipe? Okay, here are the ingredients again. Someone of your skill level really should remember these things.
+15016: You have a good eye for detail. If anybody can make this shield, I know you can.
+15017: Hmm... This really is something. I should be able to use this to make the $0 now.
+15018: So this is the $0...
+15019: This act of a craftsman pouring his very spirit into the shield to form a crystal... It could be used for all kinds of other applications, especially jewelry.
+15020: Oh, my. It seems that creating the $0 caused a reduction in the Craftsmanship of the $1.
+15021: That's not a problem to upgrade the $1, but if you need to make another $0, you'd have to increase the Craftsmanship again of course.
+15022: Although, I really doubt you'd ever lose such a valuable item and need to make another one.
+15023: Impossible. You're telling me you lost the $0?
+15024: I guess these things happen. Okay, let me see the shield. I'll make you another $0.
+15025: You're a top quality craftsman. You really should take better care of your ingredients.
+15026: I see you made the upgrade. Now, let me see what you've got there.
+15027: Hmm... The design has changed, and I can feel its power somewhat. Of course, it's nowhere near complete yet.
+15028: It's said that you can only bring out the shield's true potential by crafting with it multiple times.
+15029: Oh, that's right. I'm supposed to place some kind of mark on the shield once it's done. Give me just a moment.
+15030: That should do it.
+15031: Just show this shield to Mewk Chorosap in Jeuno.
+15032: Oh, keep in mind that I'm constantly making deliveries to Puyutete. I hope you'll continue helping me out to educate the newer members of the guild.
+15033: Welcome. I suppose you're here to upgrade your shield.
+15034: Yes, she told me all about it. Here, let me get you the necessary recipe.
+15035: That's it.
+15036: Now, let's go over how to obtain the ingredients. First up is the $1.
+15037: Last time, you equipped the aspis while crafting in order to boost its Craftsmanship rating.
+15038: This time, you'll craft the items while equipping the $0 in order to increase its Craftsmanship.
+15039: Come bring it to me once it reaches 100% and I'll make the $1 for you.
+15040: Next up is the $2 and $3. I have given both of them to Puyutete, so you'll need to speak with her to get them.
+15041: The last ingredient is the $4. With the help of the A.M.A.N., I have prepared some Records of Eminence objectives for you.
+15042: Check the Records of Eminence menu for more details on the objectives. You'll receive the $4 once you've completed all of them.
+15043: That's it for the explanation about the ingredients. I look forward to seeing what this shield can become. Good luck to you.
+15044: Ahh, it looks like you've sufficiently raised the shield's Craftsmanship.
+15045: Now, wait just a moment while I prepare the $0 for you.
+15046: There we go. It really does have a nice shine to it, don't you think?
+15047: Oh, I thought this might happen. It seems creating the $0 causes the shield's Craftsmanship to drop.
+15048: If you lose this thing, you'll need to boost the shield's Craftsmanship all over again. Make sure you keep it in a safe place until you're ready to craft with it.
+15049: This is quite impressive. Even though it's not a piece of jewelry, it sure shines like one.
+15050: Yes, I can feel the immense power coming from this shield. I can't wait to see just how powerful it can become.
+15051: Here, let me mark the shield for when you show it to her.
+15052: That ought to do it. Show the shield to Mewk Chorosap when you get a chance.
+15053: Well, these things happen from time to time. I'll arrange for you to attempt the final objective one more time.
+15054: How are you doing? I suppose you're here to upgrade your shield? In that case, let me get you that recipe...
+15055: Huh? You already know the recipe? You just need to know about some of the ingredients?
+15056: Okay, for the remaining two ingredients, we have $4 and $5.
+15057: If you agree to help the guild deliver some orders, I'll be happy to give them to you.
+15058: Although, there's more to it than just making the delivery. You have to craft the items near the customer. They have a real eye for quality and want to see the work done in person.
+15059: There are some exceptions, such as items used for repairs, but most of them will need to be crafted in the presence of the customer.
+15060: You'll need to gather the materials needed to craft the items by yourself. You're free to use whatever method you like.
+15061: Oh yes. Did you know that we recently reached an agreement with the other guilds to sell some of their products?
+15062: They're not always cheap, but you can purchase them by speaking to each guild's crafting set vendor.
+15063: Of course, there's no guarantee that they'll sell you what you're looking for, so be sure to keep that in mind.
+15064: Once you've finished all of the deliveries, I'll give you the $4 and $5.
+15065: Okay, this is the [first/next/final] request.
 15066: Deliver $1 $0 to the merchant Honoi-Gomoi in $7.
-15067: Deliver $1 $0 to Naji the Mythril Musketeer in $7.
-15068: Deliver $1 $0 to Matoaka at the Gems by Kshama shop in $7.
-15069: You don't need to make this particular item near the customer.
-15070: Please report back to me once you've completed the request.
-15071: Let's see... The current task assigned to you is...
-15072: So, how is the delivery going?
-15073: Everything okay? [Everything's great!/It could be better...]
-15074: That's a relief. Please keep up the good work.
-15075: What's that? You want to abandon this task?
-15076: Will you see this through? [I'll do my best./I've had enough.]
-15077: That's unfortunate. Although, it's for the best if you can't give it your all. I guess I'll have to find another craftsman to help me with this customer.
-15078: Please try to get some rest. There'll be more work for you when you come back.
-15079: Ahh, it's good to see you're feeling better. I've already got another job lined up for you.
-15080: Ahh, it seems you have made the delivery to the customer.
-15081: That is the last of the deliveries. I'm really grateful for your help.
-15082: Okay, here are the $0 and $1 I promised you.
-15083: If, and I do mean if, you happen to lose one of them, you can always visit Puyutete and exchange guild points for another one.
-15084: Once this shield is finished, are you planning on making crystals instead? Haha... I'm just joking.
-15085: So this is what the shield looks like this time around, hm?
-15086: It's so bright... Your talent really is indisputable. I'm thinking our guild should start carrying your shields. They'd be one of our biggest sellers.
-15087: Our mutual friend has mentioned that the next upgrade should unlock the shield's true power. I'm excited to see just how powerful it can become.
-15088: Oh yes, that reminds me... I think you are skilled enough to use this new crafting technique I've developed. Please give it a try when you get a chance.
-15089: Welcome. It looks like we've reached the final step in this process. It's going to take every last bit of your knowledge.
-15090: You've heard which materials you need, right? If so, I'll explain how to get them.
-15091: First, the $2 and the $3...
-15092: You can trade crafter points for them. Go visit Puyutete when you have enough points.
-15093: Next, the procedure for the $1 is the same as it's always been. Just boost your shield's Craftsmanship to 100% and then come show it to me.
-15094: That concludes the explanation. Try building up the Craftsmanship first. Good luck to you.
-15095: You've probably already heard, but Mewk Chorosap wants this. Please deliver it to her for me.
-15096: Oh, hello. What can I do for you?
-15097: Ah, so that's why you're here. You're looking for the item that Tarutaru from Adoulin requested.
-15098: Unfortunately, I already sent it to Jeuno as per her request.
-15099: It should've arrived by now. You should check with Mewk Chorosap in Port Jeuno.
-15100: The strangest thing happened. That emblem you were looking for was just sitting on the counter here in the guild.
-15101: It doesn't seem as if it was returned. Oh, that's right. You need it for something, don't you. Here, consider it yours.
-15102: Oh! That must be it...
-15103: That's the finished shield. It truly is a work of art. I can feel it giving off a powerful aura.
-15104: Also, just you equipping this shield will be an excellent way to spread the word about our guild. This emblem will tell them all they need to know!
-15105: You have proven yourself to be quite talented. I think it's time I taught you this new technique.
-15106: Let us continue to create works of art that people will be proud to wear on their bodies.
-15107: 0: $0 1: $1 2: $2 3: $3
-15108: It's doubly delightful to see you here for the $2th anniversary, kupo!
-15109: As has become customary, I'd like to share one of the many celebratory messages that have come from the millions and millions of men and women around the planet.
-15110: "Once again, wish you much happy in this wonderful $2th anniversary, adventurer!
-15111: "We would never have come this far without your help, and we've got a little event in store!
-15112: "We are holding Mandragora Mania Madness this year, too!
-15113: "Your friend, Chacharoon"
-15114: As you can almost assuredly see, Chacharoon awaits you right over there, kupo!
-15115: We moogles eagerly look forward to challenging you, kupo!
-15116: Also, don't forget to grab your gifts, kupo!
-15117: Now then, go see Chacharoon. I'm sure you'll get a bang out of his game!
-15118: (Kupopo... We'll make you pay for crushing us in last year's Mandragora Mania!)
-15119: Take your gifts and go chat with Chacharoon, kupo!
-15120: Make sure you speak to Chacharoon, kupo!
-15121: Wait, don't tell me you lost your $0!?
-15122: I guess I've got to gift you another one, kupo. Please try to be more careful this time.
-15123: [Hi there!/Hello, friend!] I see you got letter I give to moogle.
-15124: Happy 20th Vana'versary!
-15125: I hope you ready to play Mandragora Mania Madness!
-15126: Since this new game, would you like to check rules in manual?
-15127: Read the manual? [Sure./No thanks.]
-15128: Mandragora Mania Madness is a game in which players battle by placing different colored game pieces on a 4x4 playing area.
-15129: You use the white pieces (mandragoras), while your opponent uses the black pieces (corrigans).
-15130: The player to go first is determined randomly when the game begins. You will be able to adjust these settings yourself from the second game onward.
-15131: The first player to place four pieces so they align in a row will be declared the winner.
-15132: However, you will automatically be disqualified if you ever place three of your pieces in a row, so be mindful of your moves at all times.
-15133: Note that if you place your game pieces so that you have both three and four pieces in a row, the row with four pieces will take precedence and you will win the game.
-15134: If you place a game piece on either side of your opponent's piece, you will convert it into one of your pieces.
-15135: You can play anywhere from three to five games, and the first player to win three games is the winner.
-15136: Now, for an explanation on points.
-15137: You receive points after the completion of each game. The points are tallied using units known as mandy.
-15138: If you win the game, you will receive a number of points equal to the number of game pieces you have on the board. In the example shown, you will earn 8 mandy.
-15139: Even if you lose the game, you will receive a number of points equal to half the number of your game pieces on the board (rounded off to avoid fractions).
-15140: The first player to win three games gets to keep all of the points they have earned, although you won't get any points if you quit partway.
-15141: Occasionally, you might get to play a bonus game, where your pieces are pink (adenium) or feature a watermelon pattern (citrullus).
-15142: They are worth $0x and $1x the points, respectively, giving you the chance to quickly score a large number of points.
-15143: The key to victory is to not just try and place four pieces in a row, but to position your pieces in a way that forces your opponent to place three pieces in a row.
-15144: See? Is very easy! Ready to give try?
-15145: You get mandy if you win or lose, but not if you quit partway!
-15146: Can trade mandy for many goodies.
-15147: Then I just give one piece of advice.
-15148: You get mandy if you win or lose, but not if you quit partway!
-15149: You can look at manual later if you need reminder on how to play.
-15150: Let's get to playing!
-15151: Have question?
-15152: Do which? ($1 mandy) [Play vs. [Green Thumb Moogle/Monsieur Kupont/Susuroon/a lamb/Yeestog/Atelloune/Kuyin Hathdenna/Kupofried/Chacharoon/Sakura/a random opponent]./Play (select opponent)./Purchase prizes./Read an explanation./None of the above.]
-15153: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./???/???/???/???/???/???/???/???/???/Back.]
-15154: This opponent has not yet been unlocked.
-15155: Purchase which? ($1 mandy) [$2: $3 m. [/$26]/$4: $5 m. [/$26]/$6: $7 m. [/$26]/$24 $0%0 : $9 m./$25 $0$0 : $11 m./$26 $0 : $13 m./$14: $15 m./$16: $17 m./$18: $19 m./$20: $21 m. [/$26]/$22: $23 m. [/$26]/???: ??? m./???: ??? m./???: ??? m./???: ??? m./???: ??? m./Back.]
-15156: This reward will become available once you have defeated a particular opponent.
-15157: You do not have enough mandy.
-15158: You already have $2.
-15159: You may only purchase one of those per day (Earth time).
-15160: $32 for $! mandy?
-15161: Can only buy one $32 a day (Earth time). $! mandy okay?
-15162: Purchase $32? ($1 m.) [Yes. ($! mandy)/No.]
-15163: $" $0 for $! mandy?
-15164: $" $0 ? ($1 m.m) [Yes. ($! mandy)/No.]
-15165: I show book that tells how to play!
-15166: --- Game $0 ($1W-$2L) ---
-15167: $26$25$26[Adenium/Citrullus] bonus active! ($1x mandy)$26$25$26
-15168: Place on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
-15169: There is already a piece in this location.
-15170: You will forfeit all mandy earned this game if you give up. Are you sure?
-15171: Really give up? [Yes./No.]
-15172: Game $0 Complete!
-15173: @@[Victory!/Defeat!] - You receive $1 mandy for a total of $2.
-15174: @ Draw! (restart from Game $0)
-15175: @ With a record of $1W and $2L, you [win!/lose!]
-15176: You receive $0 mandy for a total of $1.
-15177: You have reached the mandy cap of $0. Any additional mandy will be lost.
-15178: A new opponent joins the fray!
-15179: You are now able to select a random opponent.
-15180: New prizes are available!
-15181: An error has occurred. Please try again.
-15182: DEBUGF[Bonus Game Log/NPC Selection Controls/NPC Move Log/Specific Placement Confirmation 1 Log/Corners Log/Specific Placement Confirmation 2 Log] > [OFF/ON]
-15183: aDEBUGbPlace on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
-15184: DEBUG(NPC Selection): Area $0
-15185: RANDOM ([Bonus Game Selection/Four Corners Selection]): 0-$1 = $2
-15186: DEBUG (Specific Placement Confirmation $3): Area $0 > [A/B/C/D/E/F/G/H]$2
-15187: $0 $1 $2 $3
-15188: Oh, look! Another adventurer in desperate need of my most accurate fashion advice. Tell me--what can the stylist extraordinaire Brygid recommend for you?
-15189: No, don't answer that, for I already know why you've come. My catwalk could use a model just like yourself.
-15190: Participate in her fashion show? [What's this about?/What kind of show?/Who're you?]
-15191: Ugh, don't tell me your wits are as wanting as your outfit. Didn't Cornelia mention it to you?
-15192: I've convinced all the movers and shakers in Bastok to assist me in holding the most amazing fashion show the city--no, all of Vana'diel!--has ever seen!
+15067: Deliver $1 $0 to the merchant Honoi-Gomoi in $7.
+15068: Deliver $1 $0 to Naji the Mythril Musketeer in $7.
+15069: Deliver $1 $0 to Matoaka at the Gems by Kshama shop in $7.
+15070: You don't need to make this particular item near the customer.
+15071: Please report back to me once you've completed the request.
+15072: Let's see... The current task assigned to you is...
+15073: So, how is the delivery going?
+15074: Everything okay? [Everything's great!/It could be better...]
+15075: That's a relief. Please keep up the good work.
+15076: What's that? You want to abandon this task?
+15077: Will you see this through? [I'll do my best./I've had enough.]
+15078: That's unfortunate. Although, it's for the best if you can't give it your all. I guess I'll have to find another craftsman to help me with this customer.
+15079: Please try to get some rest. There'll be more work for you when you come back.
+15080: Ahh, it's good to see you're feeling better. I've already got another job lined up for you.
+15081: Ahh, it seems you have made the delivery to the customer.
+15082: That is the last of the deliveries. I'm really grateful for your help.
+15083: Okay, here are the $0 and $1 I promised you.
+15084: If, and I do mean if, you happen to lose one of them, you can always visit Puyutete and exchange guild points for another one.
+15085: Once this shield is finished, are you planning on making crystals instead? Haha... I'm just joking.
+15086: So this is what the shield looks like this time around, hm?
+15087: It's so bright... Your talent really is indisputable. I'm thinking our guild should start carrying your shields. They'd be one of our biggest sellers.
+15088: Our mutual friend has mentioned that the next upgrade should unlock the shield's true power. I'm excited to see just how powerful it can become.
+15089: Oh yes, that reminds me... I think you are skilled enough to use this new crafting technique I've developed. Please give it a try when you get a chance.
+15090: Welcome. It looks like we've reached the final step in this process. It's going to take every last bit of your knowledge.
+15091: You've heard which materials you need, right? If so, I'll explain how to get them.
+15092: First, the $2 and the $3...
+15093: You can trade crafter points for them. Go visit Puyutete when you have enough points.
+15094: Next, the procedure for the $1 is the same as it's always been. Just boost your shield's Craftsmanship to 100% and then come show it to me.
+15095: That concludes the explanation. Try building up the Craftsmanship first. Good luck to you.
+15096: You've probably already heard, but Mewk Chorosap wants this. Please deliver it to her for me.
+15097: Oh, hello. What can I do for you?
+15098: Ah, so that's why you're here. You're looking for the item that Tarutaru from Adoulin requested.
+15099: Unfortunately, I already sent it to Jeuno as per her request.
+15100: It should've arrived by now. You should check with Mewk Chorosap in Port Jeuno.
+15101: The strangest thing happened. That emblem you were looking for was just sitting on the counter here in the guild.
+15102: It doesn't seem as if it was returned. Oh, that's right. You need it for something, don't you. Here, consider it yours.
+15103: Oh! That must be it...
+15104: That's the finished shield. It truly is a work of art. I can feel it giving off a powerful aura.
+15105: Also, just you equipping this shield will be an excellent way to spread the word about our guild. This emblem will tell them all they need to know!
+15106: You have proven yourself to be quite talented. I think it's time I taught you this new technique.
+15107: Let us continue to create works of art that people will be proud to wear on their bodies.
+15108: 0: $0 1: $1 2: $2 3: $3
+15109: It's doubly delightful to see you here for the $2th anniversary, kupo!
+15110: As has become customary, I'd like to share one of the many celebratory messages that have come from the millions and millions of men and women around the planet.
+15111: "Once again, wish you much happy in this wonderful $2th anniversary, adventurer!
+15112: "We would never have come this far without your help, and we've got a little event in store!
+15113: "We are holding Mandragora Mania Madness this year, too!
+15114: "Your friend, Chacharoon"
+15115: As you can almost assuredly see, Chacharoon awaits you right over there, kupo!
+15116: We moogles eagerly look forward to challenging you, kupo!
+15117: Also, don't forget to grab your gifts, kupo!
+15118: Now then, go see Chacharoon. I'm sure you'll get a bang out of his game!
+15119: (Kupopo... We'll make you pay for crushing us in last year's Mandragora Mania!)
+15120: Take your gifts and go chat with Chacharoon, kupo!
+15121: Make sure you speak to Chacharoon, kupo!
+15122: Wait, don't tell me you lost your $0!?
+15123: I guess I've got to gift you another one, kupo. Please try to be more careful this time.
+15124: [Hi there!/Hello, friend!] I see you got letter I give to moogle.
+15125: Happy 20th Vana'versary!
+15126: I hope you ready to play Mandragora Mania Madness!
+15127: Since this new game, would you like to check rules in manual?
+15128: Read the manual? [Sure./No thanks.]
+15129: Mandragora Mania Madness is a game in which players battle by placing different colored game pieces on a 4x4 playing area.
+15130: You use the white pieces (mandragoras), while your opponent uses the black pieces (corrigans).
+15131: The player to go first is determined randomly when the game begins. You will be able to adjust these settings yourself from the second game onward.
+15132: The first player to place four pieces so they align in a row will be declared the winner.
+15133: However, you will automatically be disqualified if you ever place three of your pieces in a row, so be mindful of your moves at all times.
+15134: Note that if you place your game pieces so that you have both three and four pieces in a row, the row with four pieces will take precedence and you will win the game.
+15135: If you place a game piece on either side of your opponent's piece, you will convert it into one of your pieces.
+15136: You can play anywhere from three to five games, and the first player to win three games is the winner.
+15137: Now, for an explanation on points.
+15138: You receive points after the completion of each game. The points are tallied using units known as mandy.
+15139: If you win the game, you will receive a number of points equal to the number of game pieces you have on the board. In the example shown, you will earn 8 mandy.
+15140: Even if you lose the game, you will receive a number of points equal to half the number of your game pieces on the board (rounded off to avoid fractions).
+15141: The first player to win three games gets to keep all of the points they have earned, although you won't get any points if you quit partway.
+15142: Occasionally, you might get to play a bonus game, where your pieces are pink (adenium) or feature a watermelon pattern (citrullus).
+15143: They are worth $0x and $1x the points, respectively, giving you the chance to quickly score a large number of points.
+15144: The key to victory is to not just try and place four pieces in a row, but to position your pieces in a way that forces your opponent to place three pieces in a row.
+15145: See? Is very easy! Ready to give try?
+15146: You get mandy if you win or lose, but not if you quit partway!
+15147: Can trade mandy for many goodies.
+15148: Then I just give one piece of advice.
+15149: You get mandy if you win or lose, but not if you quit partway!
+15150: You can look at manual later if you need reminder on how to play.
+15151: Let's get to playing!
+15152: Have question?
+15153: Do which? ($1 mandy) [Play vs. [Green Thumb Moogle/Monsieur Kupont/Susuroon/a lamb/Yeestog/Atelloune/Kuyin Hathdenna/Kupofried/Chacharoon/Sakura/a random opponent]./Play (select opponent)./Purchase prizes./Read an explanation./None of the above.]
+15154: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./???/???/???/???/???/???/???/???/???/Back.]
+15155: This opponent has not yet been unlocked.
+15156: Purchase which? ($1 mandy) [$2: $3 m. [/$26]/$4: $5 m. [/$26]/$6: $7 m. [/$26]/$24 $0%0 : $9 m./$25 $0$0 : $11 m./$26 $0 : $13 m./$14: $15 m./$16: $17 m./$18: $19 m./$20: $21 m. [/$26]/$22: $23 m. [/$26]/???: ??? m./???: ??? m./???: ??? m./???: ??? m./???: ??? m./Back.]
+15157: This reward will become available once you have defeated a particular opponent.
+15158: You do not have enough mandy.
+15159: You already have $2.
+15160: You may only purchase one of those per day (Earth time).
+15161: $32 for $! mandy?
+15162: Can only buy one $32 a day (Earth time). $! mandy okay?
+15163: Purchase $32? ($1 m.) [Yes. ($! mandy)/No.]
+15164: $" $0 for $! mandy?
+15165: $" $0 ? ($1 m.m) [Yes. ($! mandy)/No.]
+15166: I show book that tells how to play!
+15167: --- Game $0 ($1W-$2L) ---
+15168: $26$25$26[Adenium/Citrullus] bonus active! ($1x mandy)$26$25$26
+15169: Place on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
+15170: There is already a piece in this location.
+15171: You will forfeit all mandy earned this game if you give up. Are you sure?
+15172: Really give up? [Yes./No.]
+15173: Game $0 Complete!
+15174: @@[Victory!/Defeat!] - You receive $1 mandy for a total of $2.
+15175: @ Draw! (restart from Game $0)
+15176: @ With a record of $1W and $2L, you [win!/lose!]
+15177: You receive $0 mandy for a total of $1.
+15178: You have reached the mandy cap of $0. Any additional mandy will be lost.
+15179: A new opponent joins the fray!
+15180: You are now able to select a random opponent.
+15181: New prizes are available!
+15182: An error has occurred. Please try again.
+15183: DEBUGF[Bonus Game Log/NPC Selection Controls/NPC Move Log/Specific Placement Confirmation 1 Log/Corners Log/Specific Placement Confirmation 2 Log] > [OFF/ON]
+15184: aDEBUGbPlace on which area? [Area 1./Area 2./Area 3./Area 4./Area 5./Area 6./Area 7./Area 8./Area 9./Area 10./Area 11./Area 12./Area 13./Area 14./Area 15./Area 16./Pass.]
+15185: DEBUG(NPC Selection): Area $0
+15186: RANDOM ([Bonus Game Selection/Four Corners Selection]): 0-$1 = $2
+15187: DEBUG (Specific Placement Confirmation $3): Area $0 > [A/B/C/D/E/F/G/H]$2
+15188: $0 $1 $2 $3
+15189: Oh, look! Another adventurer in desperate need of my most accurate fashion advice. Tell me--what can the stylist extraordinaire Brygid recommend for you?
+15190: No, don't answer that, for I already know why you've come. My catwalk could use a model just like yourself.
+15191: Participate in her fashion show? [What's this about?/What kind of show?/Who're you?]
+15192: Ugh, don't tell me your wits are as wanting as your outfit. Didn't Cornelia mention it to you?
 15193: I've convinced all the movers and shakers in Bastok to assist me in holding the most amazing fashion show the city--no, all of Vana'diel!--has ever seen!
-15194: Weren't you listening to my monologue? I'm Brygid, stylist extraordinaire.
-15195: You mean Cornelia didn't tell you that her favorite fashion maven was in need of help?
-15196: You see, I've convinced all the movers and shakers in Bastok to assist me in holding the most amazing fashion show the city--no, all of Vana'diel!--has ever seen!
-15197: The city is hoping that this initiative will help stimulate the local economy, bringing in people from far and wide to spend, spend, spend!
-15198: You see, fashion does not discriminate between creed or place of origin--and I firmly believe that there is an outfit for everyone.
-15199: But I'm having trouble finding people to lend themselves to the cause.
-15200: If I didn't know better, I'd think people were mistaking my honest critiques for cruel barbs hurled by an uncaring judge.
-15201: Yet fashion can at times be uncompromising, and that's where you come in.
-15202: Assist me, and I promise that I'll come up with the perfect disguise for your friend Raebrimm.
-15203: After all, if I can't help you, then who can?
-15204: Participate in the fashion show? [Sure./I'm not model material...]
-15205: I know you may be a bit worried that your fashion sense is not up to snuff. And maybe it isn't, but that's neither here nor there.
-15206: For this isn't an ordinary fashion show--it's a costume show!
-15207: "The First Annual Brygid Cosplay Fiesta"!!!
-15208: Let me know if you want to hear more.
-15209: Perfect! Then let's get right down to business. The official name of this show is...
-15210: "The First Annual Brygid Cosplay Fiesta"!!!
-15211: Let me know if you want to hear more.
-15212: But here's what I want you to do in the short term: decide on someone after whom you want to model your costume.
-15213: This is going to be the best fashion show ever!
-15214: This costume show is going to be the talk of the town for months, and here's how it's going to work.
-15215: If you listen to my explanation well and decide on someone spectacular to dress as, there's no way anything'll go wrong!
-15216: Any questions? [What's this costume show about?/Who can I dress as?/I've decided!/Nothing for now.]
-15217: In this costume show, you select a person whose appearance you want to mimic and dress up just like them.
-15218: Since the show takes place in Bastok, it only makes sense for you to pick one of the city's many storied personages.
-15219: Once you've picked a mark...I mean, a person...you need to look very carefully at what they're wearing and try to come up with an identical outfit.
-15220: Specifically, take a look at their headgear, chestgear, handgear, leggear, and footwear. You don't have to worry about their weapons or accessories.
-15221: Once you've got your garb nice and squared away, put it on and head to the Steaming Sheep restaurant.
-15222: That's where my special runway awaits, needing only for you to stand atop it and strike a dashing pose.
-15223: Of course, I know this is a decent amount of work, and although fashion is a reward unto itself, I've still prepared monetary compensation for all participants. The more you impress the crowd, the better the reward.
-15224: So try to come up with the perfect outfit and whip the audience into a frenzy!
-15225: The first thing you have to know is that the wonderful Brygid believes that good sense transcends all races and genders, so what's important is the costume itself; if a Tarutaru male wants to mimic a Mithra, that's A-OK in my book.
-15226: However, this particular show really focuses on particular famous people from here in the city, so I want you to mimic certain individuals. No choosing some random hick from over in Rabao.
-15227: It's only common sense. Where's the fun in dressing up as someone that nobody's ever heard of?
-15228: ...And it pains me to say this, but some of the best choices have already been taken by other participants.
-15229: So let's go down the list of potential selections. First up is Azima, the esteemed master of alchemy.
-15230: Next is Naji, the famed Mythril Musketeer.
-15231: Also available is Black Mud, a salesperson most popular.
-15232: Another option is Michea, an Elvaan goldsmith with a work ethic of gold.
-15233: Finally, we've got Nbu Latteh, whose fashion sense is second to none.
-15234: And that's our cast of characters for the show! Let me know once you've made your selection.
-15235: Have you made up your mind? Remember that this is really important, so choose wisely.
-15236: Who will you dress as? [Azima./Naji./Black Mud./Michea./Nbu Latteh./I need more time.]
-15237: Are you sure that [Azima/Naji/Black Mud/Michea/Nbu Latteh] is the choice for you?
-15238: Are you sure? [Yup!/Hold on...]
-15239: All right! I've made a mental note of your selection. Remember that accuracy is key, so study up on [Azima/Naji/Black Mud/Michea/Nbu Latteh]'s attire and mimic it as best you can.
-15240: Unless, of course, you're content with being called a two-bit hack the rest of your life, in which case you can dress like a mad scientist for all I care.
-15241: Once you think you've got the outfit as good as you're going to get it, head to the Steaming Sheep in Port Bastok.
-15242: The show takes place at the Steaming Sheep.
-15243: ...Or is there something you'd like to discuss?
-15244: Any questions? [How can I get first place?/I'd like to switch targets./None.]
-15245: Ah, how exciting it is to see someone who recognizes that fashion is a battlefield and wants to emerge the victor! Listen carefully, because this is pretty important.
-15246: The first thing you need to do is pay really, really close attention to what your target is wearing.
-15247: Points are awarded on a per-item basis, and I shouldn't have to tell you that you'll actually have to wear the outfit--simply having it stored in your bags isn't enough.
-15248: Specifically, points are awarded for headgear, chestgear, handgear, leggear, and footwear. You don't have to worry about their weapons or accessories.
-15249: If you don't match what they're wearing in a particular location, you won't score any points for that location.
-15250: It all sounds so simple, but finding the perfect outfit is more of an art than a science. Once you've got your outfit all set, head to the Steaming Sheep and sashay your way to victory!
-15251: A picky one, aren't you? That's fine. If [Azima/Naji/Black Mud/Michea/Nbu Latteh] isn't to your liking, who would you rather be instead?
-15252: Change to whom? [Azima./Naji./Black Mud./Michea./Nbu Latteh./Never mind.]
-15253: Is [Azima/Naji/Black Mud/Michea/Nbu Latteh] okay?
-15254: Are you sure? [Yes./Wait a moment...]
-15255: Okay, I have you marked down as wanting to dress as [Azima/Naji/Black Mud/Michea/Nbu Latteh]. Remember--accuracy to their style is what's important.
-15256: Don't worry if you don't have the wherewithal to come in first place. Just try your best, find the perfect outfit, and I'll see you at the Steaming Sheep in Port Bastok.
-15257: Make sure to disable all lockstyle functionality before participating.
-15258: Don't worry if you don't have the wherewithal to come in first place. Just try your best, find the perfect outfit, and I'll see you at the Steaming Sheep in Port Bastok.
-15259: Well, look who it is! I'm impressed--and even a little bit surprised--at how much you helped my show be a rousing success.
-15260: You must be dying to know what the final score was, no doubt, and I've got that information in hand right now.
-15261: Your score reflects not only the authenticity of the outfit itself, but also how much you were able to get the crowd's blood pumping.
-15262: Let's see how you did...
-15263: Well, I'll be! You took first place!
-15264: Fantastically done! The tales of your cosplay prowess will be told throughout the ages!
-15265: You placed $1 out of...however many contestants we had! Pretty good!
-15266: Many of our participants got a bit too caught up in the technicalities of their outfits and completely forgot that attitude and demeanor are a huge part of what makes the fashion world go round.
-15267: You placed $1 out of...however many contestants we had. Could have been worse!
-15268: I'm sure the event helped you gain a better appreciation of just how cutthroat the fashion world can be.
-15269: ...Last. You placed last.
-15270: Your fashion sense may be abysmal, but I'm sure you have other redeeming qualities. What exactly those are, however, is not for me to know.
-15271: How well you did isn't really what matters. I've got a reward for you just the same.
-15272: Stay healthy and be happy.
-15273: I'm sure you must be curious about Raebrimm.
-15274: Don't worry. I intended to fulfill my promise.
-15275: I've got the perfect disguise that'll fool even the most astute of Goblins.
-15276: But a picture is worth a thousand words, no? Hold on just a moment.
-15277: Come on out!
-15278: Why, with such a wonderful Goblin outfit, there's no way you'll be targeted!
-15279: Aren't I just the best!?
-15280: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
-15281: You must take on the "$0" Records of Eminence objective before receiving the explanation.
-15282: You must complete "$1" before taking on the "$0" Records of Eminence objective.
-15283: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
-15284: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
-15285: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
-15286: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
-15287: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
-15288: You can change the CTRL+Q shortcut command...
-15289: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
-15290: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
-15291: You must meet one of the following conditions in order to post to the Assist Channel.
-15292: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
-15293: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
-15294: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-15295: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
-15296: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
-15297: The Assist Channel can only be used in the following areas.
-15298: Available areas: $7, $7, $7, $7, $7, $7...
-15299: ...$7, $7, $7, $7, $7, $7, $7, $7...
+15194: I've convinced all the movers and shakers in Bastok to assist me in holding the most amazing fashion show the city--no, all of Vana'diel!--has ever seen!
+15195: Weren't you listening to my monologue? I'm Brygid, stylist extraordinaire.
+15196: You mean Cornelia didn't tell you that her favorite fashion maven was in need of help?
+15197: You see, I've convinced all the movers and shakers in Bastok to assist me in holding the most amazing fashion show the city--no, all of Vana'diel!--has ever seen!
+15198: The city is hoping that this initiative will help stimulate the local economy, bringing in people from far and wide to spend, spend, spend!
+15199: You see, fashion does not discriminate between creed or place of origin--and I firmly believe that there is an outfit for everyone.
+15200: But I'm having trouble finding people to lend themselves to the cause.
+15201: If I didn't know better, I'd think people were mistaking my honest critiques for cruel barbs hurled by an uncaring judge.
+15202: Yet fashion can at times be uncompromising, and that's where you come in.
+15203: Assist me, and I promise that I'll come up with the perfect disguise for your friend Raebrimm.
+15204: After all, if I can't help you, then who can?
+15205: Participate in the fashion show? [Sure./I'm not model material...]
+15206: I know you may be a bit worried that your fashion sense is not up to snuff. And maybe it isn't, but that's neither here nor there.
+15207: For this isn't an ordinary fashion show--it's a costume show!
+15208: "The First Annual Brygid Cosplay Fiesta"!!!
+15209: Let me know if you want to hear more.
+15210: Perfect! Then let's get right down to business. The official name of this show is...
+15211: "The First Annual Brygid Cosplay Fiesta"!!!
+15212: Let me know if you want to hear more.
+15213: But here's what I want you to do in the short term: decide on someone after whom you want to model your costume.
+15214: This is going to be the best fashion show ever!
+15215: This costume show is going to be the talk of the town for months, and here's how it's going to work.
+15216: If you listen to my explanation well and decide on someone spectacular to dress as, there's no way anything'll go wrong!
+15217: Any questions? [What's this costume show about?/Who can I dress as?/I've decided!/Nothing for now.]
+15218: In this costume show, you select a person whose appearance you want to mimic and dress up just like them.
+15219: Since the show takes place in Bastok, it only makes sense for you to pick one of the city's many storied personages.
+15220: Once you've picked a mark...I mean, a person...you need to look very carefully at what they're wearing and try to come up with an identical outfit.
+15221: Specifically, take a look at their headgear, chestgear, handgear, leggear, and footwear. You don't have to worry about their weapons or accessories.
+15222: Once you've got your garb nice and squared away, put it on and head to the Steaming Sheep restaurant.
+15223: That's where my special runway awaits, needing only for you to stand atop it and strike a dashing pose.
+15224: Of course, I know this is a decent amount of work, and although fashion is a reward unto itself, I've still prepared monetary compensation for all participants. The more you impress the crowd, the better the reward.
+15225: So try to come up with the perfect outfit and whip the audience into a frenzy!
+15226: The first thing you have to know is that the wonderful Brygid believes that good sense transcends all races and genders, so what's important is the costume itself; if a Tarutaru male wants to mimic a Mithra, that's A-OK in my book.
+15227: However, this particular show really focuses on particular famous people from here in the city, so I want you to mimic certain individuals. No choosing some random hick from over in Rabao.
+15228: It's only common sense. Where's the fun in dressing up as someone that nobody's ever heard of?
+15229: ...And it pains me to say this, but some of the best choices have already been taken by other participants.
+15230: So let's go down the list of potential selections. First up is Azima, the esteemed master of alchemy.
+15231: Next is Naji, the famed Mythril Musketeer.
+15232: Also available is Black Mud, a salesperson most popular.
+15233: Another option is Michea, an Elvaan goldsmith with a work ethic of gold.
+15234: Finally, we've got Nbu Latteh, whose fashion sense is second to none.
+15235: And that's our cast of characters for the show! Let me know once you've made your selection.
+15236: Have you made up your mind? Remember that this is really important, so choose wisely.
+15237: Who will you dress as? [Azima./Naji./Black Mud./Michea./Nbu Latteh./I need more time.]
+15238: Are you sure that [Azima/Naji/Black Mud/Michea/Nbu Latteh] is the choice for you?
+15239: Are you sure? [Yup!/Hold on...]
+15240: All right! I've made a mental note of your selection. Remember that accuracy is key, so study up on [Azima/Naji/Black Mud/Michea/Nbu Latteh]'s attire and mimic it as best you can.
+15241: Unless, of course, you're content with being called a two-bit hack the rest of your life, in which case you can dress like a mad scientist for all I care.
+15242: Once you think you've got the outfit as good as you're going to get it, head to the Steaming Sheep in Port Bastok.
+15243: The show takes place at the Steaming Sheep.
+15244: ...Or is there something you'd like to discuss?
+15245: Any questions? [How can I get first place?/I'd like to switch targets./None.]
+15246: Ah, how exciting it is to see someone who recognizes that fashion is a battlefield and wants to emerge the victor! Listen carefully, because this is pretty important.
+15247: The first thing you need to do is pay really, really close attention to what your target is wearing.
+15248: Points are awarded on a per-item basis, and I shouldn't have to tell you that you'll actually have to wear the outfit--simply having it stored in your bags isn't enough.
+15249: Specifically, points are awarded for headgear, chestgear, handgear, leggear, and footwear. You don't have to worry about their weapons or accessories.
+15250: If you don't match what they're wearing in a particular location, you won't score any points for that location.
+15251: It all sounds so simple, but finding the perfect outfit is more of an art than a science. Once you've got your outfit all set, head to the Steaming Sheep and sashay your way to victory!
+15252: A picky one, aren't you? That's fine. If [Azima/Naji/Black Mud/Michea/Nbu Latteh] isn't to your liking, who would you rather be instead?
+15253: Change to whom? [Azima./Naji./Black Mud./Michea./Nbu Latteh./Never mind.]
+15254: Is [Azima/Naji/Black Mud/Michea/Nbu Latteh] okay?
+15255: Are you sure? [Yes./Wait a moment...]
+15256: Okay, I have you marked down as wanting to dress as [Azima/Naji/Black Mud/Michea/Nbu Latteh]. Remember--accuracy to their style is what's important.
+15257: Don't worry if you don't have the wherewithal to come in first place. Just try your best, find the perfect outfit, and I'll see you at the Steaming Sheep in Port Bastok.
+15258: Make sure to disable all lockstyle functionality before participating.
+15259: Don't worry if you don't have the wherewithal to come in first place. Just try your best, find the perfect outfit, and I'll see you at the Steaming Sheep in Port Bastok.
+15260: Well, look who it is! I'm impressed--and even a little bit surprised--at how much you helped my show be a rousing success.
+15261: You must be dying to know what the final score was, no doubt, and I've got that information in hand right now.
+15262: Your score reflects not only the authenticity of the outfit itself, but also how much you were able to get the crowd's blood pumping.
+15263: Let's see how you did...
+15264: Well, I'll be! You took first place!
+15265: Fantastically done! The tales of your cosplay prowess will be told throughout the ages!
+15266: You placed $1 out of...however many contestants we had! Pretty good!
+15267: Many of our participants got a bit too caught up in the technicalities of their outfits and completely forgot that attitude and demeanor are a huge part of what makes the fashion world go round.
+15268: You placed $1 out of...however many contestants we had. Could have been worse!
+15269: I'm sure the event helped you gain a better appreciation of just how cutthroat the fashion world can be.
+15270: ...Last. You placed last.
+15271: Your fashion sense may be abysmal, but I'm sure you have other redeeming qualities. What exactly those are, however, is not for me to know.
+15272: How well you did isn't really what matters. I've got a reward for you just the same.
+15273: Stay healthy and be happy.
+15274: I'm sure you must be curious about Raebrimm.
+15275: Don't worry. I intended to fulfill my promise.
+15276: I've got the perfect disguise that'll fool even the most astute of Goblins.
+15277: But a picture is worth a thousand words, no? Hold on just a moment.
+15278: Come on out!
+15279: Why, with such a wonderful Goblin outfit, there's no way you'll be targeted!
+15280: Aren't I just the best!?
+15281: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
+15282: You must take on the "$0" Records of Eminence objective before receiving the explanation.
+15283: You must complete "$1" before taking on the "$0" Records of Eminence objective.
+15284: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
+15285: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
+15286: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
+15287: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
+15288: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
+15289: You can change the CTRL+Q shortcut command...
+15290: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
+15291: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
+15292: You must meet one of the following conditions in order to post to the Assist Channel.
+15293: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
+15294: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
+15295: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
+15296: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+15297: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
+15298: The Assist Channel can only be used in the following areas.
+15299: Available areas: $7, $7, $7, $7, $7, $7...
 15300: ...$7, $7, $7, $7, $7, $7, $7, $7...
-15301: ...$7, $7, $7, and your Mog House (Rent-a-Room).
-15302: You cannot post or read messages outside of the areas listed above.
-15303: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
-15304: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
-15305: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
-15306: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
-15307: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
-15308: The higher the number, the more experienced the mentor is.
-15309: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
-15310: You can check your Mastery Rank by going to Main Menu > Status > Profile.
-15311: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
-15312: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
-15313: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
-15314: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
-15315: A "Warning" is a feature that can only be used by mentors.
-15316: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
-15317: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
-15318: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
-15319: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
-15320: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
-15321: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
-15322: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
-15323: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
-15324: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
-15325: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
-15326: You are about to lose the ability to post messages to the Assist Channel.
-15327: You are unable to post messages to the Assist Channel.
-15328: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
-15329: Good day, adventurer! I am able to repair any broken item data related to $0.
-15330: If you are unable to deliver $0, it's possible that the item data has been corrupted.
-15331: Please trade your $0 to me so that I may fix it.
-15332: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
-15333: I have restored it to its intended functionality. Here you are!
-15334: It appears that your item is working as intended.
-15335: An error has occurred. Please try again later.
-15336: You are now able to enjoy a new storyline, A Crystalline Prophecy.
-15337: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
-15338: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-15339: You are now able to enjoy a new storyline, A Shantotto Ascension.
-15340: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
-15341: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-15342: You are now able to enjoy a new storyline, Abyssea.
-15343: Start Abyssea? [Yes (View cutscene)./Maybe later.]
-15344: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-15345: You are now able to enjoy a new storyline, Chains of Promathia.
-15346: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
-15347: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-15348: You are now able to enjoy a new storyline, Seekers of Adoulin.
-15349: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
-15350: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
-15351: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
-15352: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
-15353: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-15354: You are now able to enjoy a new storyline, Rise of the Zilart.
-15355: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
-15356: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-15357: Would you like to start a new storyline that you previously postponed?
-15358: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-15359: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-15360: Start the storyline? [Yes, please./No, thank you.]
+15301: ...$7, $7, $7, $7, $7, $7, $7, $7...
+15302: ...$7, $7, $7, and your Mog House (Rent-a-Room).
+15303: You cannot post or read messages outside of the areas listed above.
+15304: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
+15305: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
+15306: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
+15307: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
+15308: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
+15309: The higher the number, the more experienced the mentor is.
+15310: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
+15311: You can check your Mastery Rank by going to Main Menu > Status > Profile.
+15312: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
+15313: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
+15314: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
+15315: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
+15316: A "Warning" is a feature that can only be used by mentors.
+15317: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
+15318: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
+15319: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
+15320: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
+15321: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
+15322: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
+15323: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
+15324: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
+15325: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
+15326: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
+15327: You are about to lose the ability to post messages to the Assist Channel.
+15328: You are unable to post messages to the Assist Channel.
+15329: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
+15330: Good day, adventurer! I am able to repair any broken item data related to $0.
+15331: If you are unable to deliver $0, it's possible that the item data has been corrupted.
+15332: Please trade your $0 to me so that I may fix it.
+15333: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
+15334: I have restored it to its intended functionality. Here you are!
+15335: It appears that your item is working as intended.
+15336: An error has occurred. Please try again later.
+15337: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+15338: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
+15339: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
+15340: You are now able to enjoy a new storyline, A Shantotto Ascension.
+15341: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
+15342: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
+15343: You are now able to enjoy a new storyline, Abyssea.
+15344: Start Abyssea? [Yes (View cutscene)./Maybe later.]
+15345: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
+15346: You are now able to enjoy a new storyline, Chains of Promathia.
+15347: Start Chains of Prromathia? [Yes (View cutscene)./Maybe later.]
+15348: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
+15349: You are now able to enjoy a new storyline, Seekers of Adoulin.
+15350: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
+15351: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
+15352: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+15353: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
+15354: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
+15355: You are now able to enjoy a new storyline, Rise of the Zilart.
+15356: Start Rise of the zilart? [Yes (View cutscene)./Maybe later.]
+15357: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
+15358: Would you like to start a new storyline that you previously postponed?
+15359: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+15360: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+15361: Start the storyline? [Yes, please./No, thank you.]

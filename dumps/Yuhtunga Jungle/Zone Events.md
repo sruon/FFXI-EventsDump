@@ -454,10 +454,10 @@
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0110:       20 01 42 6E F0 FF  FF 7F 16 80 99 F0 FF FF     .Bn..........
 0120: 7F 45 17 80 F0 FF FF 7F  F0 FF FF 7F 77 68 6F 31  .E..........who1
-0130: 01 80 1C 18 80 29 01 6A  B2 07 01 02 1C 19 80 45  .....).j.......E
+0130: 01 80 1C 18 80 29 01 69  B2 07 01 02 1C 19 80 45  .....).i.......E
 0140: 17 80 F0 FF FF 7F F0 FF  FF 7F 77 68 69 31 01 80  ..........whi1..
 0150: 48 1A 80 1C 18 80 6E F0  FF FF 7F 1B 80 99 F0 FF  H.....n.........
-0160: FF 7F 29 01 6A B2 07 01  03 1C 1C 80 29 01 6A B2  ..).j.......).j.
+0160: FF 7F 29 01 69 B2 07 01  03 1C 1C 80 29 01 69 B2  ..).i.......).i.
 0170: 07 01 04 A8 00 1D 80 01  80 21 00                 .........!.     
 ```
 
@@ -470,7 +470,7 @@
   3: 0x011C [0x99] Wait for LocalPlayer animation to complete
   4: 0x0121 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
   5: 0x0132 [0x1C] WAIT(60* ticks)
-  6: 0x0135 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17281642/0x0107B26A), tag_num=0x02)
+  6: 0x0135 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17281641/0x0107B269), tag_num=0x02)
   7: 0x013C [0x1C] WAIT(30* ticks)
   8: 0x013F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
   9: 0x0150 [0x48] [System] [7767*]:
@@ -478,9 +478,9 @@
  10: 0x0153 [0x1C] WAIT(60* ticks)
  11: 0x0156 [0x6E] LocalPlayer uses emote 39*
  12: 0x015D [0x99] Wait for LocalPlayer animation to complete
- 13: 0x0162 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17281642/0x0107B26A), tag_num=0x03)
+ 13: 0x0162 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17281641/0x0107B269), tag_num=0x03)
  14: 0x0169 [0x1C] WAIT(200* ticks)
- 15: 0x016C [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17281642/0x0107B26A), tag_num=0x04)
+ 15: 0x016C [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17281641/0x0107B269), tag_num=0x04)
  16: 0x0173 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=123*, marker=0*
  17: 0x0179 [0x21] END_EVENT
  18: 0x017A [0x00] END_REQSTACK()
@@ -502,22 +502,22 @@
 0170:                                   42 46 01 03 02             BF...
 0180: 00 05 10 45 1C 80 F8 FF  FF 7F F8 FF FF 7F 66 64  ...E..........fd
 0190: 6F 30 01 80 55 1C 80 F8  FF FF 7F F8 FF FF 7F 66  o0..U..........f
-01A0: 64 6F 30 4E 00 77 B2 07  01 4E 00 78 B2 07 01 38  do0N.w...N.x...8
-01B0: 1E 80 79 00 F0 FF FF 7F  77 B2 07 01 03 05 10 02  ..y.....w.......
+01A0: 64 6F 30 4E 00 76 B2 07  01 4E 00 77 B2 07 01 38  do0N.v...N.w...8
+01B0: 1E 80 79 00 F0 FF FF 7F  76 B2 07 01 03 05 10 02  ..y.....v.......
 01C0: 10 03 06 10 02 10 03 07  10 02 10 15 05 10 1F 80  ................
 01D0: 15 06 10 18 80 3F 07 10  07 10 18 80 37 20 80 21  .....?......7 .!
 01E0: 80 22 80 23 80 45 02 80  F8 FF FF 7F F8 FF FF 7F  .".#.E..........
-01F0: 73 30 30 36 01 80 4A 77  B2 07 01 F0 FF FF 7F 45  s006..Jw.......E
+01F0: 73 30 30 36 01 80 4A 76  B2 07 01 F0 FF FF 7F 45  s006..Jv.......E
 0200: 1C 80 F8 FF FF 7F F8 FF  FF 7F 66 64 69 31 01 80  ..........fdi1..
-0210: 2B 77 B2 07 01 24 80 23  66 19 80 77 B2 07 01 77  +w...$.#f..w...w
-0220: B2 07 01 74 6C 6B 30 2B  77 B2 07 01 25 80 23 02  ...tlk0+w...%.#.
-0230: 04 10 01 80 01 81 02 66  19 80 77 B2 07 01 77 B2  .......f..w...w.
+0210: 2B 76 B2 07 01 24 80 23  66 19 80 76 B2 07 01 76  +v...$.#f..v...v
+0220: B2 07 01 74 6C 6B 30 2B  76 B2 07 01 25 80 23 02  ...tlk0+v...%.#.
+0230: 04 10 01 80 01 81 02 66  19 80 76 B2 07 01 76 B2  .......f..v...v.
 0240: 07 01 74 6C 6B 31 03 05  10 04 10 03 06 10 04 10  ..tlk1..........
 0250: 03 07 10 04 10 15 05 10  1F 80 15 06 10 18 80 3F  ...............?
-0260: 07 10 07 10 18 80 02 02  00 01 80 00 79 02 2B 77  ............y.+w
-0270: B2 07 01 26 80 23 01 81  02 2B 77 B2 07 01 27 80  ...&.#...+w...'.
-0280: 23 66 19 80 77 B2 07 01  77 B2 07 01 70 61 73 30  #f..w...w...pas0
-0290: 2B 77 B2 07 01 28 80 23  52 02 80 F8 FF FF 7F F8  +w...(.#R.......
+0260: 07 10 07 10 18 80 02 02  00 01 80 00 79 02 2B 76  ............y.+v
+0270: B2 07 01 26 80 23 01 81  02 2B 76 B2 07 01 27 80  ...&.#...+v...'.
+0280: 23 66 19 80 76 B2 07 01  76 B2 07 01 70 61 73 30  #f..v...v...pas0
+0290: 2B 76 B2 07 01 28 80 23  52 02 80 F8 FF FF 7F F8  +v...(.#R.......
 02A0: FF FF 7F 73 30 30 36 45  1C 80 F8 FF FF 7F F8 FF  ...s006E........
 02B0: FF 7F 66 64 6F 31 01 80  55 1C 80 F8 FF FF 7F F8  ..fdo1..U.......
 02C0: FF FF 7F 66 64 6F 31 46  00 45 17 80 F0 FF FF 7F  ...fdo1F.E......
@@ -533,10 +533,10 @@
   2: 0x017E [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[5]
   3: 0x0183 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
   4: 0x0194 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [EventEntity, EventEntity], work=200*
-  5: 0x01A3 [0x4E] SET_ENTITY_HIDE_FLAG: Show Marilleune (ID: 17281655/0x0107B277)
-  6: 0x01A9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17281656/0x0107B278)
+  5: 0x01A3 [0x4E] SET_ENTITY_HIDE_FLAG: Show Marilleune (ID: 17281654/0x0107B276)
+  6: 0x01A9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17281655/0x0107B277)
   7: 0x01AF [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  8: 0x01B2 [0x79] LocalPlayer looks at Marilleune (ID: 17281655/0x0107B277) (Basic look)
+  8: 0x01B2 [0x79] LocalPlayer looks at Marilleune (ID: 17281654/0x0107B276) (Basic look)
   9: 0x01BC [0x03] Work_Zone[5] = Work_Zone[2]
  10: 0x01C1 [0x03] Work_Zone[6] = Work_Zone[2]
  11: 0x01C6 [0x03] Work_Zone[7] = Work_Zone[2]
@@ -545,17 +545,17 @@
  14: 0x01D5 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  15: 0x01DC [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-340.386*, z=-470.469*, y=15.778*, direction=83.4°*
  16: 0x01E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[5*, 0*]
- 17: 0x01F6 [0x4A] Marilleune (ID: 17281655/0x0107B277) looks at LocalPlayer
+ 17: 0x01F6 [0x4A] Marilleune (ID: 17281654/0x0107B276) looks at LocalPlayer
  18: 0x01FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x0210 [0x2B] Marilleune (ID: 17281655/0x0107B277) [7854*]:
+ 19: 0x0210 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7854*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0218 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Marilleune (ID: 17281655/0x0107B277), Marilleune (ID: 17281655/0x0107B277)], work=30*
- 22: 0x0227 [0x2B] Marilleune (ID: 17281655/0x0107B277) [7855*]:
+ 21: 0x0218 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Marilleune (ID: 17281654/0x0107B276), Marilleune (ID: 17281654/0x0107B276)], work=30*
+ 22: 0x0227 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7855*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x022F [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0281
- 25: 0x0237 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Marilleune (ID: 17281655/0x0107B277), Marilleune (ID: 17281655/0x0107B277)], work=30*
+ 25: 0x0237 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Marilleune (ID: 17281654/0x0107B276), Marilleune (ID: 17281654/0x0107B276)], work=30*
  26: 0x0246 [0x03] Work_Zone[5] = Work_Zone[4]
  27: 0x024B [0x03] Work_Zone[6] = Work_Zone[4]
  28: 0x0250 [0x03] Work_Zone[7] = Work_Zone[4]
@@ -563,17 +563,17 @@
  30: 0x025A [0x15] Work_Zone[6] /= 60*
  31: 0x025F [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0266 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0279
- 33: 0x026E [0x2B] Marilleune (ID: 17281655/0x0107B277) [7856*]:
+ 33: 0x026E [0x2B] Marilleune (ID: 17281654/0x0107B276) [7856*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0276 [0x01] GOTO 0x0281
- 36: 0x0279 [0x2B] Marilleune (ID: 17281655/0x0107B277) [7860*]:
+ 36: 0x0279 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7860*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0281:
- 38: 0x0281 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Marilleune (ID: 17281655/0x0107B277), Marilleune (ID: 17281655/0x0107B277)], work=30*
- 39: 0x0290 [0x2B] Marilleune (ID: 17281655/0x0107B277) [7857*]:
+ 38: 0x0281 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Marilleune (ID: 17281654/0x0107B276), Marilleune (ID: 17281654/0x0107B276)], work=30*
+ 39: 0x0290 [0x2B] Marilleune (ID: 17281654/0x0107B276) [7857*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0298 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=5*

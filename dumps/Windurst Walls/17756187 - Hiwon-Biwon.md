@@ -64,8 +64,8 @@
 |      21 | 0x1D5C      |        7516 |
 |      22 | 0x1D68      |        7528 |
 |      23 | 0x1D69      |        7529 |
-|      24 | 0x2936      |       10550 |
-|      25 | 0x2937      |       10551 |
+|      24 | 0x2937      |       10551 |
+|      25 | 0x2938      |       10552 |
 
 ## String References
 
@@ -91,8 +91,8 @@
 - **7910**: Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!
 - **7911**: Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly."
 - **7913**: I guess it was wrong of me to start off by interviewing the people around her. The more I hear about the doctor, the less I want to meet her-wer.
-- **10550**: Zzz... zzz... <Mmph>...
-- **10551**: <Snore>... No, Shantotto...not...not the whip... Zzz...
+- **10551**: Zzz... zzz... <Mmph>...
+- **10552**: <Snore>... No, Shantotto...not...not the whip... Zzz...
 
 ## Events
 
@@ -803,10 +803,10 @@
   1: 0x0226 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0227 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0228 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x03)
-  4: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=10550*)
+  4: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=10551*)
     → "Zzz... zzz... <Mmph>..."
   5: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=10551*)
+  6: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=10552*)
     → "<Snore>... No, Shantotto...not...not the whip... Zzz..."
   7: 0x0236 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0237 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -5,9 +5,9 @@
 | Field            | Value             |
 |------------------|-------------------|
 | Zone             | Apollyon (ID: 38) |
-| Block Size       | 1844 bytes        |
+| Block Size       | 1864 bytes        |
 | Total Events     | 8                 |
-| References Count | 32                |
+| References Count | 33                |
 
 ## List of Events
 
@@ -20,7 +20,7 @@
 | [138](#event-138)     | 0x02B3       |    155 |             31 |
 | [140](#event-140)     | 0x034E       |    155 |             31 |
 | [142](#event-142)     | 0x03E9       |    165 |             32 |
-| [144](#event-144)     | 0x048E       |    499 |             89 |
+| [144](#event-144)     | 0x048E       |    517 |             92 |
 
 ## DAT References (imed_data)
 
@@ -40,8 +40,8 @@
 |      11 | 0x1C78      |        7288 |
 |      12 | 0x1C84      |        7300 |
 |      13 | 0x1C85      |        7301 |
-|      14 | 0x1C87      |        7303 |
-|      15 | 0x1C86      |        7302 |
+|      14 | 0x1C86      |        7302 |
+|      15 | 0x1C87      |        7303 |
 |      16 | 0x1C88      |        7304 |
 |      17 | 0x2716      |       10006 |
 |      18 | 0x2717      |       10007 |
@@ -53,11 +53,12 @@
 |      24 | 0x1C8C      |        7308 |
 |      25 | 0x000F      |          15 |
 |      26 | 0x0005      |           5 |
-|      27 | 0x1C8D      |        7309 |
-|      28 | 0x1C5F      |        7263 |
-|      29 | 0x1C8E      |        7310 |
-|      30 | 0x0010      |          16 |
-|      31 | 0x001F      |          31 |
+|      27 | 0x0063      |          99 |
+|      28 | 0x1C8D      |        7309 |
+|      29 | 0x1C5F      |        7263 |
+|      30 | 0x1C8E      |        7310 |
+|      31 | 0x0010      |          16 |
+|      32 | 0x001F      |          31 |
 
 ## String References
 
@@ -66,13 +67,13 @@
 - **7282**: Proceed? [Yes./No.]
 - **7286**: $0 detected. Several equipment items can now be created.
 - **7288**: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Apollyon Units shall be expended in the process.
-- **7300**: 
-- **7301**: 
-- **7302**: 
-- **7303**: 
-- **7304**: 
-- **7309**: 
-- **7310**: 
+- **7300**: Confirming $0, $1, $2... Able to create $3.
+- **7301**: What will you do? [Create./Do not create.]
+- **7302**: Confirming $0, $1... Able to create $2.
+- **7303**: Carrying over attributes from the $0 to the $4.
+- **7304**: Your $0 will be consumed.
+- **7309**: Able to change up to $0.
+- **7310**: Changing $1 $0 into $3 $0 .
 
 ## Events
 
@@ -385,11 +386,11 @@ SUBROUTINE_02AE:
 ```
   0: 0x02B3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[5])
   1: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
-    → ""
+    → "Confirming $0, $1, $2... Able to create $3."
   2: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02BA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
   4: 0x02BD [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
-    → ""
+    → "What will you do? [Create./Do not create.]"
   5: 0x02C4 [0x25] WAIT_DIALOG_SELECT()
   6: 0x02C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0339
   7: 0x02CD [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -452,12 +453,12 @@ SUBROUTINE_0349:
 
 ```
   0: 0x034E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
-  1: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
-    → ""
+  1: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
+    → "Confirming $0, $1... Able to create $2."
   2: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0355 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
   4: 0x0358 [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
-    → ""
+    → "What will you do? [Create./Do not create.]"
   5: 0x035F [0x25] WAIT_DIALOG_SELECT()
   6: 0x0360 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D4
   7: 0x0368 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -520,11 +521,11 @@ SUBROUTINE_03E4:
 
 ```
   0: 0x03E9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[6], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
-  1: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
-    → ""
+  1: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
+    → "Carrying over attributes from the $0 to the $4."
   2: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03F7 [0x48] [System] [7304*]:
-    → ""
+    → "Your $0 will be consumed."
   4: 0x03FA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
   5: 0x03FD [0x24] CREATE_DIALOG(message_id=7282*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
@@ -567,8 +568,8 @@ SUBROUTINE_0489:
 | Field        | Value     |
 |--------------|-----------|
 | Entrypoint   | 0x048E    |
-| Data Size    | 499 bytes |
-| Instructions | 88        |
+| Data Size    | 517 bytes |
+| Instructions | 91        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
@@ -589,23 +590,24 @@ SUBROUTINE_0489:
 0550: 16 80 03 04 00 15 80 01  83 05 02 00 10 16 80 00  ................
 0560: 73 05 40 01 80 19 80 01  10 1A 80 03 04 00 17 80  s.@.............
 0570: 01 83 05 02 00 10 1A 80  00 83 05 03 01 10 01 80  ................
-0580: 01 83 05 02 01 10 01 80  00 8E 05 01 7C 06 03 02  ............|...
-0590: 00 01 00 15 02 00 0A 80  03 02 10 02 00 1D 1B 80  ................
-05A0: 23 48 1C 80 71 12 03 80  0A 80 71 13 02 10 02 02  #H..q.....q.....
-05B0: 10 01 80 00 B9 05 01 7C  06 02 02 10 02 00 05 79  .......|.......y
-05C0: 06 03 03 00 02 10 14 03  00 0A 80 03 05 00 02 10  ................
-05D0: 03 02 10 00 00 03 03 10  03 00 03 04 10 04 00 03  ................
-05E0: 05 10 05 00 1D 1D 80 23  24 0D 80 03 80 01 80 25  .......#$......%
-05F0: 02 00 10 01 80 00 68 06  40 1E 80 1F 80 01 10 05  ......h.@.......
-0600: 10 42 43 00 43 01 02 02  10 01 80 00 16 06 03 01  .BC.C...........
-0610: 10 01 80 01 65 06 2C F8  FF FF 7F F8 FF FF 7F 69  ....e.,........i
-0620: 64 73 32 1C 04 80 2C F8  FF FF 7F F8 FF FF 7F 69  ds2...,........i
-0630: 64 73 33 1C 04 80 2C F8  FF FF 7F F8 FF FF 7F 69  ds3...,........i
-0640: 64 73 34 1C 04 80 2C F8  FF FF 7F F8 FF FF 7F 73  ds4...,........s
-0650: 70 32 31 53 F8 FF FF 7F  F8 FF FF 7F 73 70 32 31  p21S........sp21
-0660: 03 01 10 03 80 01 76 06  02 00 10 03 80 00 76 06  ......v.......v.
-0670: 01 C5 04 01 76 06 01 7C  06 01 C5 04 2E 20 00 21  ....v..|..... .!
-0680: 00                                                .               
+0580: 01 83 05 02 01 10 01 80  00 8E 05 01 8E 06 03 02  ................
+0590: 00 01 00 15 02 00 0A 80  02 02 00 1B 80 04 A5 05  ................
+05A0: 03 02 00 1B 80 03 02 10  02 00 1D 1C 80 23 48 1D  .............#H.
+05B0: 80 71 12 03 80 0A 80 71  13 02 10 02 02 10 01 80  .q.....q........
+05C0: 00 CB 05 03 01 10 01 80  01 8E 06 02 02 10 02 00  ................
+05D0: 05 8B 06 03 03 00 02 10  14 03 00 0A 80 03 05 00  ................
+05E0: 02 10 03 02 10 00 00 03  03 10 03 00 03 04 10 04  ................
+05F0: 00 03 05 10 05 00 1D 1E  80 23 24 0D 80 03 80 01  .........#$.....
+0600: 80 25 02 00 10 01 80 00  7A 06 40 1F 80 20 80 01  .%......z.@.. ..
+0610: 10 05 10 42 43 00 43 01  02 02 10 01 80 00 28 06  ...BC.C.......(.
+0620: 03 01 10 01 80 01 77 06  2C F8 FF FF 7F F8 FF FF  ......w.,.......
+0630: 7F 69 64 73 32 1C 04 80  2C F8 FF FF 7F F8 FF FF  .ids2...,.......
+0640: 7F 69 64 73 33 1C 04 80  2C F8 FF FF 7F F8 FF FF  .ids3...,.......
+0650: 7F 69 64 73 34 1C 04 80  2C F8 FF FF 7F F8 FF FF  .ids4...,.......
+0660: 7F 73 70 32 31 53 F8 FF  FF 7F F8 FF FF 7F 73 70  .sp21S........sp
+0670: 32 31 03 01 10 03 80 01  88 06 02 00 10 03 80 00  21..............
+0680: 88 06 01 C5 04 01 88 06  01 8E 06 01 C5 04 2E 20  ............... 
+0690: 00 21 00                                          .!.             
 ```
 
 #### Opcodes
@@ -652,70 +654,73 @@ SUBROUTINE_0489:
 
 SUBROUTINE_0583:
  38: 0x0583 [0x02] IF !(Work_Zone[1] == 0*) GOTO 0x058E
- 39: 0x058B [0x01] GOTO 0x067C
+ 39: 0x058B [0x01] GOTO 0x068E
  40: 0x058E [0x03] ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[1]
  41: 0x0593 [0x15] ExtData[1]->WorkLocal[2] /= 2*
- 42: 0x0598 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 43: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
-    → ""
- 44: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x05A1 [0x48] [System] [7263*]:
+ 42: 0x0598 [0x02] IF !(ExtData[1]->WorkLocal[2] < 99*) GOTO 0x05A5
+ 43: 0x05A0 [0x03] ExtData[1]->WorkLocal[2] = 99*
+ 44: 0x05A5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
+ 45: 0x05AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
+    → "Able to change up to $0."
+ 46: 0x05AD [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 47: 0x05AE [0x48] [System] [7263*]:
     → "Enter 0 to cancel."
- 46: 0x05A4 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
- 47: 0x05AA [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[2])
- 48: 0x05AE [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x05B9
- 49: 0x05B6 [0x01] GOTO 0x067C
- 50: 0x05B9 [0x02] IF !(Work_Zone[2] > ExtData[1]->WorkLocal[2]) GOTO 0x0679
- 51: 0x05C1 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
- 52: 0x05C6 [0x14] ExtData[1]->WorkLocal[3] *= 2*
- 53: 0x05CB [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[2]
- 54: 0x05D0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 55: 0x05D5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
- 56: 0x05DA [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
- 57: 0x05DF [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[5]
- 58: 0x05E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
-    → ""
- 59: 0x05E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x05E8 [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
-    → ""
- 61: 0x05EF [0x25] WAIT_DIALOG_SELECT()
- 62: 0x05F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0668
- 63: 0x05F8 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[5])
- 64: 0x0601 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 65: 0x0602 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
- 66: 0x0604 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 67: 0x0606 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0616
- 68: 0x060E [0x03] Work_Zone[1] = 0*
- 69: 0x0613 [0x01] GOTO 0x0665
- 70: 0x0616 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ids2" with entities [EventEntity, EventEntity]
- 71: 0x0623 [0x1C] WAIT(60* ticks)
- 72: 0x0626 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ids3" with entities [EventEntity, EventEntity]
- 73: 0x0633 [0x1C] WAIT(60* ticks)
- 74: 0x0636 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ids4" with entities [EventEntity, EventEntity]
- 75: 0x0643 [0x1C] WAIT(60* ticks)
- 76: 0x0646 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "sp21" with entities [EventEntity, EventEntity]
- 77: 0x0653 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sp21" with entities [EventEntity, EventEntity]
- 78: 0x0660 [0x03] Work_Zone[1] = 1*
+ 48: 0x05B1 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
+ 49: 0x05B7 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[2])
+ 50: 0x05BB [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x05CB
+ 51: 0x05C3 [0x03] Work_Zone[1] = 0*
+ 52: 0x05C8 [0x01] GOTO 0x068E
+ 53: 0x05CB [0x02] IF !(Work_Zone[2] > ExtData[1]->WorkLocal[2]) GOTO 0x068B
+ 54: 0x05D3 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[2]
+ 55: 0x05D8 [0x14] ExtData[1]->WorkLocal[3] *= 2*
+ 56: 0x05DD [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[2]
+ 57: 0x05E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
+ 58: 0x05E7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
+ 59: 0x05EC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
+ 60: 0x05F1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[5]
+ 61: 0x05F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+    → "Changing $1 $0 into $3 $0 ."
+ 62: 0x05F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
+ 63: 0x05FA [0x24] CREATE_DIALOG(message_id=7301*, default_option=1*, option_flags=0*)
+    → "What will you do? [Create./Do not create.]"
+ 64: 0x0601 [0x25] WAIT_DIALOG_SELECT()
+ 65: 0x0602 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x067A
+ 66: 0x060A [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[5])
+ 67: 0x0613 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+ 68: 0x0614 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+ 69: 0x0616 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+ 70: 0x0618 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0628
+ 71: 0x0620 [0x03] Work_Zone[1] = 0*
+ 72: 0x0625 [0x01] GOTO 0x0677
+ 73: 0x0628 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ids2" with entities [EventEntity, EventEntity]
+ 74: 0x0635 [0x1C] WAIT(60* ticks)
+ 75: 0x0638 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ids3" with entities [EventEntity, EventEntity]
+ 76: 0x0645 [0x1C] WAIT(60* ticks)
+ 77: 0x0648 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "ids4" with entities [EventEntity, EventEntity]
+ 78: 0x0655 [0x1C] WAIT(60* ticks)
+ 79: 0x0658 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "sp21" with entities [EventEntity, EventEntity]
+ 80: 0x0665 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sp21" with entities [EventEntity, EventEntity]
+ 81: 0x0672 [0x03] Work_Zone[1] = 1*
 
-SUBROUTINE_0665:
- 79: 0x0665 [0x01] GOTO 0x0676
- 80: 0x0668 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0676
- 81: 0x0670 [0x01] GOTO 0x04C5
+SUBROUTINE_0677:
+ 82: 0x0677 [0x01] GOTO 0x0688
+ 83: 0x067A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0688
+ 84: 0x0682 [0x01] GOTO 0x04C5
 
-SUBROUTINE_0676:
- 82: 0x0676 [0x01] GOTO 0x067C
- 83: 0x0679 [0x01] GOTO 0x04C5
+SUBROUTINE_0688:
+ 85: 0x0688 [0x01] GOTO 0x068E
+ 86: 0x068B [0x01] GOTO 0x04C5
 
-SUBROUTINE_067C:
- 84: 0x067C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 85: 0x067D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
- 86: 0x067F [0x21] END_EVENT
- 87: 0x0680 [0x00] END_REQSTACK()
+SUBROUTINE_068E:
+ 87: 0x068E [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
+ 88: 0x068F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+ 89: 0x0691 [0x21] END_EVENT
+ 90: 0x0692 [0x00] END_REQSTACK()
 ```
 
 #### Data or dead code:
 
 ```
 # Dead code (unreachable instructions):
-     0x0673 [0x01] GOTO 0x0676
+     0x0685 [0x01] GOTO 0x0688
 ```

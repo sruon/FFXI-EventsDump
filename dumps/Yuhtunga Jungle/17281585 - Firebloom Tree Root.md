@@ -14,8 +14,8 @@
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [15](#event-15)       | 0x0001       |     49 |             14 |
-| [19](#event-19)       | 0x0032       |     49 |             14 |
+| [16](#event-16)       | 0x0001       |     49 |             14 |
+| [20](#event-20)       | 0x0032       |     49 |             14 |
 
 ## DAT References (imed_data)
 
@@ -60,7 +60,7 @@
   0: 0x0000 [0x00] END_REQSTACK()
 ```
 
-### Event 15
+### Event 16
 
 #### Metadata
 
@@ -102,7 +102,7 @@ SUBROUTINE_002E:
  13: 0x0031 [0x00] END_REQSTACK()
 ```
 
-### Event 19
+### Event 20
 
 #### Metadata
 

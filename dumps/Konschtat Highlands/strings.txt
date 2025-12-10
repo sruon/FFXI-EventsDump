@@ -7438,15 +7438,15 @@
  7434: Any of our fine birds here will bear you directly to the frontlines of battle. We charge a service fee of $0 Allied Notes, which goes towards seeing that the chocobos are well taken care of. My records indicate that you currently have $1 Allied Notes.
  7435: Hmmm... It looks like you don't have enough Allied Notes. Sorry, but these birds aren't going to feed and groom themselves.
  7436: I'm sorry, but we don't put our chocobos in the hands of people with $6. We wouldn't want our feathered friends dying from fright now, would we?
- 7437: (Yearly tidings to ye... I sense that the world is in a state of flux. The clouds in the sky do not bode well...)
- 7438: (The blessings of the New Year upon thee... The world is ever changing, with each instant different than the one before. Yet the skies tell me that things will continue looking up!)
- 7439: 
- 7440: (Tohoho, that look in your eyes could pierce through the souls of a thousand wandering spirits. That's well and good, but...where are we?)
- 7441: 
- 7442: 
- 7443: 
- 7444: 
- 7445: (# is all you can think of? I shall let you have time to reflect upon yourself and your deeds.)
+ 7437: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 7438: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 7439: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 7440: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 7441: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 7442: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 7443: Neigh!! (Your year will be as joyful as the last.)
+ 7444: Neigh! (Your year will be fairly good...)
+ 7445: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  7446: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
  7447: Come, <Player>. Follow me...
  7448: Carbuncle vanished off in the direction of the La Theine Plateau.

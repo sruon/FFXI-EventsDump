@@ -8401,15 +8401,15 @@
  8397: @
  8398: PAUSE
  8399: $1
- 8400: Happy New Year! Ah, wait up, wait up!
- 8401: Happy New Year!
- 8402: Oh ho? Thanks to you, L-Leviathan...will waitaru for me!? Really!? Let me give you this in return!
- 8403: This year, you will have incredible-wedible, splenderific luck! I, on the other hand...ahh, Leviathan, wait up!
- 8404: This year, you will have excellent luck! Not like some of us... Leviathan, wait, I said, wait!
- 8405: This year, you will have pretty good luck! Ahh, Leviathan! You were supposed to be doing this, not me!
- 8406: Um, let's see... This year you will have about the same lucky-wucky as last year! Yep yep, and there you have it!
- 8407: Um, let's see... This year you'll have better luck than I will! ...But is that something to be happy-wappy about? Waaah, Leviathan, this is yooour job, not mine!
- 8408: Um, let's see... This year, you'll have about the same luck as I will! ...I'm sorry, but isn't that the worst possible-wossible luck you can have? Leviathaaan, hurry up and slow down! Oh pleasy-weasy!
+ 8400: Neigh! Neigh! (Ah, it's the Year of the Horse.)
+ 8401: Neeeigh! Neeeigh! Neeeigh!!! (Ah, it's the Year of the Horse.)
+ 8402: Neeeeeeigh! Neigh! Neeeeigh!!! (New Year's greeting? He looks very happy!)
+ 8403: Neeeeeeigh! Neeeigh! Neeeigh!!! (You will be blessed with unlimited happiness.)
+ 8404: Neeeigh! Neeeigh!! (Your year will be overflowing with joy.)
+ 8405: Neigh! Neeeigh!! (Your year will be filled with peace and love.)
+ 8406: Neigh!! (Your year will be as joyful as the last.)
+ 8407: Neigh! (Your year will be fairly good...)
+ 8408: Neigh... Neigh... (Your year will bring fleas...lots of fleas.)
  8409: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
  8410: Come, <Player>. Follow me...
  8411: Carbuncle vanished off in the direction of the La Theine Plateau.

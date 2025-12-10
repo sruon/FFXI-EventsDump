@@ -1,0 +1,824 @@
+# 17253042 - Ace of Swords
+
+## Common Data
+
+| Field            | Value                       |
+|------------------|-----------------------------|
+| Zone             | East Sarutabaruta (ID: 116) |
+| Block Size       | 1556 bytes                  |
+| Total Events     | 23                          |
+| References Count | 22                          |
+
+## List of Events
+
+| Event ID                   | Entrypoint   |   Size |   Instructions |
+|----------------------------|--------------|--------|----------------|
+| [65535](#event-65535)      | 0x0000       |      1 |              1 |
+| [65535.1](#event-655351)   | 0x0001       |     16 |              2 |
+| [65535.2](#event-655352)   | 0x0011       |     14 |              2 |
+| [65535.3](#event-655353)   | 0x001F       |     16 |              2 |
+| [65535.4](#event-655354)   | 0x002F       |     14 |              2 |
+| [65535.5](#event-655355)   | 0x003D       |     16 |              2 |
+| [65535.6](#event-655356)   | 0x004D       |     14 |              2 |
+| [65535.7](#event-655357)   | 0x005B       |     16 |              2 |
+| [65535.8](#event-655358)   | 0x006B       |     14 |              2 |
+| [65535.9](#event-655359)   | 0x0079       |     16 |              2 |
+| [65535.10](#event-6553510) | 0x0089       |     14 |              2 |
+| [65535.11](#event-6553511) | 0x0097       |     16 |              2 |
+| [65535.12](#event-6553512) | 0x00A7       |     14 |              2 |
+| [65535.13](#event-6553513) | 0x00B5       |     16 |              2 |
+| [65535.14](#event-6553514) | 0x00C5       |     14 |              2 |
+| [65535.15](#event-6553515) | 0x00D3       |     16 |              2 |
+| [65535.16](#event-6553516) | 0x00E3       |     14 |              2 |
+| [65535.17](#event-6553517) | 0x00F1       |     16 |              2 |
+| [65535.18](#event-6553518) | 0x0101       |     14 |              2 |
+| [48](#event-48)            | 0x010F       |   1060 |            131 |
+| [65535.19](#event-6553519) | 0x0533       |     16 |              5 |
+| [65535.20](#event-6553520) | 0x0543       |      5 |              3 |
+| [65535.21](#event-6553521) | 0x0548       |      5 |              3 |
+
+## DAT References (imed_data)
+
+|   Index | Hex Value   |   Dec Value |
+|---------|-------------|-------------|
+|       0 | 0x00B5      |         181 |
+|       1 | 0x3F894     |      260244 |
+|       2 | 0xFFF90F56  |  4294512470 |
+|       3 | 0xFFFFBC9F  |  4294950047 |
+|       4 | 0x03F1      |        1009 |
+|       5 | 0x00A1      |         161 |
+|       6 | 0x012C      |         300 |
+|       7 | 0x0013      |          19 |
+|       8 | 0x003C      |          60 |
+|       9 | 0x0010      |          16 |
+|      10 | 0x0000      |           0 |
+|      11 | 0x00C8      |         200 |
+|      12 | 0x0008      |           8 |
+|      13 | 0x001E      |          30 |
+|      14 | 0x000A      |          10 |
+|      15 | 0x0064      |         100 |
+|      16 | 0x0071      |         113 |
+|      17 | 0x000D      |          13 |
+|      18 | 0x3F795     |      259989 |
+|      19 | 0xFFF93CB8  |  4294524088 |
+|      20 | 0x1D13      |        7443 |
+|      21 | 0x1D1D      |        7453 |
+
+## String References
+
+- **7443**: You are to give us Cardians back our Mana Orbs! You have no need for them!
+- **7453**: Then let us be off!
+
+## Events
+
+### Event 65535
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0000  |
+| Data Size    | 1 bytes |
+| Instructions | 1       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0000 [0x00] END_REQSTACK()
+```
+
+### Event 65535.1
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0001   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0000:    5B 00 80 F8 FF FF 7F  F8 FF FF 7F 6B 61 61 30   [..........kaa0
+0010: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x0001 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kaa0" with entities [EventEntity, EventEntity], work=181*
+  1: 0x0010 [0x00] END_REQSTACK()
+```
+
+### Event 65535.2
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0011   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:    53 F8 FF FF 7F F8 FF  FF 7F 6B 61 61 30 00      S........kaa0. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0011 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kaa0" with entities [EventEntity, EventEntity]
+  1: 0x001E [0x00] END_REQSTACK()
+```
+
+### Event 65535.3
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x001F   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0010:                                               5B                 [
+0020: 00 80 F8 FF FF 7F F8 FF  FF 7F 6B 61 61 31 00     ..........kaa1. 
+```
+
+#### Opcodes
+
+```
+  0: 0x001F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kaa1" with entities [EventEntity, EventEntity], work=181*
+  1: 0x002E [0x00] END_REQSTACK()
+```
+
+### Event 65535.4
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x002F   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0020:                                               53                 S
+0030: F8 FF FF 7F F8 FF FF 7F  6B 61 61 31 00           ........kaa1.   
+```
+
+#### Opcodes
+
+```
+  0: 0x002F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kaa1" with entities [EventEntity, EventEntity]
+  1: 0x003C [0x00] END_REQSTACK()
+```
+
+### Event 65535.5
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x003D   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0030:                                         5B 00 80               [..
+0040: F8 FF FF 7F F8 FF FF 7F  6B 61 62 30 00           ........kab0.   
+```
+
+#### Opcodes
+
+```
+  0: 0x003D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kab0" with entities [EventEntity, EventEntity], work=181*
+  1: 0x004C [0x00] END_REQSTACK()
+```
+
+### Event 65535.6
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x004D   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0040:                                         53 F8 FF               S..
+0050: FF 7F F8 FF FF 7F 6B 61  62 30 00                 ......kab0.     
+```
+
+#### Opcodes
+
+```
+  0: 0x004D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kab0" with entities [EventEntity, EventEntity]
+  1: 0x005A [0x00] END_REQSTACK()
+```
+
+### Event 65535.7
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x005B   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0050:                                   5B 00 80 F8 FF             [....
+0060: FF 7F F8 FF FF 7F 6B 61  62 31 00                 ......kab1.     
+```
+
+#### Opcodes
+
+```
+  0: 0x005B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kab1" with entities [EventEntity, EventEntity], work=181*
+  1: 0x006A [0x00] END_REQSTACK()
+```
+
+### Event 65535.8
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x006B   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0060:                                   53 F8 FF FF 7F             S....
+0070: F8 FF FF 7F 6B 61 62 31  00                       ....kab1.       
+```
+
+#### Opcodes
+
+```
+  0: 0x006B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kab1" with entities [EventEntity, EventEntity]
+  1: 0x0078 [0x00] END_REQSTACK()
+```
+
+### Event 65535.9
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0079   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0070:                             5B 00 80 F8 FF FF 7F           [......
+0080: F8 FF FF 7F 6B 61 63 30  00                       ....kac0.       
+```
+
+#### Opcodes
+
+```
+  0: 0x0079 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kac0" with entities [EventEntity, EventEntity], work=181*
+  1: 0x0088 [0x00] END_REQSTACK()
+```
+
+### Event 65535.10
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0089   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0080:                             53 F8 FF FF 7F F8 FF           S......
+0090: FF 7F 6B 61 63 30 00                              ..kac0.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0089 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kac0" with entities [EventEntity, EventEntity]
+  1: 0x0096 [0x00] END_REQSTACK()
+```
+
+### Event 65535.11
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0097   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0090:                      5B  00 80 F8 FF FF 7F F8 FF         [........
+00A0: FF 7F 6B 61 63 31 00                              ..kac1.         
+```
+
+#### Opcodes
+
+```
+  0: 0x0097 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kac1" with entities [EventEntity, EventEntity], work=181*
+  1: 0x00A6 [0x00] END_REQSTACK()
+```
+
+### Event 65535.12
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00A7   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00A0:                      53  F8 FF FF 7F F8 FF FF 7F         S........
+00B0: 6B 61 63 30 00                                    kac0.           
+```
+
+#### Opcodes
+
+```
+  0: 0x00A7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kac0" with entities [EventEntity, EventEntity]
+  1: 0x00B4 [0x00] END_REQSTACK()
+```
+
+### Event 65535.13
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00B5   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00B0:                5B 00 80  F8 FF FF 7F F8 FF FF 7F       [..........
+00C0: 79 62 69 30 00                                    ybi0.           
+```
+
+#### Opcodes
+
+```
+  0: 0x00B5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ybi0" with entities [EventEntity, EventEntity], work=181*
+  1: 0x00C4 [0x00] END_REQSTACK()
+```
+
+### Event 65535.14
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00C5   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00C0:                53 F8 FF  FF 7F F8 FF FF 7F 79 62       S........yb
+00D0: 69 30 00                                          i0.             
+```
+
+#### Opcodes
+
+```
+  0: 0x00C5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ybi0" with entities [EventEntity, EventEntity]
+  1: 0x00D2 [0x00] END_REQSTACK()
+```
+
+### Event 65535.15
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00D3   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00D0:          5B 00 80 F8 FF  FF 7F F8 FF FF 7F 79 6B     [..........yk
+00E0: 73 30 00                                          s0.             
+```
+
+#### Opcodes
+
+```
+  0: 0x00D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yks0" with entities [EventEntity, EventEntity], work=181*
+  1: 0x00E2 [0x00] END_REQSTACK()
+```
+
+### Event 65535.16
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00E3   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00E0:          53 F8 FF FF 7F  F8 FF FF 7F 79 6B 73 30     S........yks0
+00F0: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x00E3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "yks0" with entities [EventEntity, EventEntity]
+  1: 0x00F0 [0x00] END_REQSTACK()
+```
+
+### Event 65535.17
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x00F1   |
+| Data Size    | 16 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+00F0:    5B 00 80 F8 FF FF 7F  F8 FF FF 7F 79 6B 73 31   [..........yks1
+0100: 00                                                .               
+```
+
+#### Opcodes
+
+```
+  0: 0x00F1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yks1" with entities [EventEntity, EventEntity], work=181*
+  1: 0x0100 [0x00] END_REQSTACK()
+```
+
+### Event 65535.18
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0101   |
+| Data Size    | 14 bytes |
+| Instructions | 2        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0100:    53 F8 FF FF 7F F8 FF  FF 7F 79 6B 73 31 00      S........yks1. 
+```
+
+#### Opcodes
+
+```
+  0: 0x0101 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "yks1" with entities [EventEntity, EventEntity]
+  1: 0x010E [0x00] END_REQSTACK()
+```
+
+### Event 48
+
+#### Metadata
+
+| Field        | Value      |
+|--------------|------------|
+| Entrypoint   | 0x010F     |
+| Data Size    | 1060 bytes |
+| Instructions | 131        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0100:                                               20                  
+0110: 01 42 46 01 37 01 80 02  80 03 80 04 80 22 00 4E  .BF.7........".N
+0120: 00 F0 FF FF 7F 4E 00 B2  42 07 01 4E 00 AF 42 07  .....N..B..N..B.
+0130: 01 4E 00 B1 42 07 01 4E  00 B2 42 07 01 80 B2 42  .N..B..N..B....B
+0140: 07 01 80 B1 42 07 01 80  B2 42 07 01 80 AF 42 07  ....B....B....B.
+0150: 01 5C 00 05 80 5C 01 05  80 1C 06 80 38 07 80 27  .\...\......8..'
+0160: 0B F0 FF FF 7F 13 1C 08  80 29 08 F0 FF FF 7F 04  .........)......
+0170: 45 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 30 30 0A  E..........s000.
+0180: 80 45 0B 80 F0 FF FF 7F  F0 FF FF 7F 66 64 69 31  .E..........fdi1
+0190: 0A 80 55 09 80 F0 FF FF  7F F0 FF FF 7F 73 30 30  ..U..........s00
+01A0: 30 45 09 80 F0 FF FF 7F  F0 FF FF 7F 73 30 30 31  0E..........s001
+01B0: 0A 80 29 0B B0 42 07 01  18 29 0B B1 42 07 01 15  ..)..B...)..B...
+01C0: 29 0B B2 42 07 01 15 52  09 80 F0 FF FF 7F F0 FF  )..B...R........
+01D0: FF 7F 73 30 30 31 2A 0B  F0 FF FF 7F 45 09 80 F0  ..s001*.....E...
+01E0: FF FF 7F F0 FF FF 7F 73  30 30 33 0A 80 29 08 AF  .......s003..)..
+01F0: 42 07 01 0B 29 0B AF 42  07 01 1D 45 09 80 F0 FF  B...)..B...E....
+0200: FF 7F F0 FF FF 7F 73 30  30 32 0A 80 29 08 B0 42  ......s002..)..B
+0210: 07 01 05 29 08 AF 42 07  01 0C 29 0B AF 42 07 01  ...)..B...)..B..
+0220: 1E 29 08 B0 42 07 01 06  27 0B AF 42 07 01 1B 52  .)..B...'..B...R
+0230: 09 80 F0 FF FF 7F F0 FF  FF 7F 73 30 30 32 45 09  ..........s002E.
+0240: 80 F0 FF FF 7F F0 FF FF  7F 73 30 30 34 0A 80 27  .........s004..'
+0250: 0B F0 FF FF 7F 14 2A 0B  F0 FF FF 7F 2A 0B AF 42  ......*.....*..B
+0260: 07 01 29 08 AF 42 07 01  0D 29 0B AF 42 07 01 1F  ..)..B...)..B...
+0270: 52 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 30 34 45  R..........s004E
+0280: 09 80 F0 FF FF 7F F0 FF  FF 7F 73 30 30 35 0A 80  ..........s005..
+0290: 29 08 B0 42 07 01 07 29  08 B0 42 07 01 08 29 08  )..B...)..B...).
+02A0: B0 42 07 01 0D 29 0B B0  42 07 01 19 29 08 B0 42  .B...)..B...)..B
+02B0: 07 01 0E 4A F0 FF FF 7F  B0 42 07 01 29 08 B1 42  ...J.....B..)..B
+02C0: 07 01 01 29 0B B1 42 07  01 16 29 08 AF 42 07 01  ...)..B...)..B..
+02D0: 0E 02 09 10 0C 80 00 ED  02 45 09 80 F0 FF FF 7F  .........E......
+02E0: F0 FF FF 7F 73 30 31 33  0A 80 01 FE 02 45 09 80  ....s013.....E..
+02F0: F0 FF FF 7F F0 FF FF 7F  73 30 30 36 0A 80 4A AF  ........s006..J.
+0300: 42 07 01 F0 FF FF 7F 1C  0D 80 29 08 B1 42 07 01  B.........)..B..
+0310: 03 29 08 AF 42 07 01 01  29 0B AF 42 07 01 20 29  .)..B...)..B.. )
+0320: 08 AF 42 07 01 13 29 08  B1 42 07 01 04 79 00 F0  ..B...)..B...y..
+0330: FF FF 7F AF 42 07 01 1C  0E 80 45 09 80 F0 FF FF  ....B.....E.....
+0340: 7F F0 FF FF 7F 73 30 30  37 0A 80 29 08 B0 42 07  .....s007..)..B.
+0350: 01 0F 29 0B B0 42 07 01  1A 1C 0E 80 79 00 F0 FF  ..)..B......y...
+0360: FF 7F B2 42 07 01 1C 0D  80 29 0B F0 FF FF 7F 15  ...B.....)......
+0370: 29 08 F0 FF FF 7F 06 1C  0D 80 45 0B 80 F0 FF FF  ).........E.....
+0380: 7F F0 FF FF 7F 66 64 6F  31 0A 80 29 08 F0 FF FF  .....fdo1..)....
+0390: 7F 07 29 08 B0 42 07 01  11 29 08 B0 42 07 01 12  ..)..B...)..B...
+03A0: 45 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 30 38 0A  E..........s008.
+03B0: 80 1C 0F 80 45 0B 80 F0  FF FF 7F F0 FF FF 7F 66  ....E..........f
+03C0: 64 69 31 0A 80 4A B0 42  07 01 B1 42 07 01 29 0B  di1..J.B...B..).
+03D0: B0 42 07 01 1B 4A B1 42  07 01 B0 42 07 01 29 0B  .B...J.B...B..).
+03E0: B1 42 07 01 17 4A B0 42  07 01 B2 42 07 01 4A B1  .B...J.B...B..J.
+03F0: 42 07 01 B2 42 07 01 52  09 80 F0 FF FF 7F F0 FF  B...B..R........
+0400: FF 7F 73 30 30 38 45 09  80 F0 FF FF 7F F0 FF FF  ..s008E.........
+0410: 7F 73 30 30 39 0A 80 5D  0A 80 06 80 27 0A B1 42  .s009..]....'..B
+0420: 07 01 14 27 0A B0 42 07  01 17 27 0A B2 42 07 01  ...'..B...'..B..
+0430: 14 79 00 AF 42 07 01 B2  42 07 01 1C 0D 80 52 09  .y..B...B.....R.
+0440: 80 F0 FF FF 7F F0 FF FF  7F 73 30 30 39 45 09 80  .........s009E..
+0450: F0 FF FF 7F F0 FF FF 7F  73 30 31 30 0A 80 2A 0A  ........s010..*.
+0460: B1 42 07 01 2A 0A B0 42  07 01 2A 0A B2 42 07 01  .B..*..B..*..B..
+0470: 5C 00 10 80 5C 01 10 80  7B AF 42 07 01 29 0B AF  \...\...{.B..)..
+0480: 42 07 01 1C 1C 0D 80 29  0B AF 42 07 01 21 4A F0  B......)..B..!J.
+0490: FF FF 7F AF 42 07 01 52  09 80 F0 FF FF 7F F0 FF  ....B..R........
+04A0: FF 7F 73 30 31 30 4A AF  42 07 01 F0 FF FF 7F 29  ..s010J.B......)
+04B0: 08 AF 42 07 01 01 29 0B  AF 42 07 01 22 29 08 AF  ..B...)..B..")..
+04C0: 42 07 01 13 02 09 10 0C  80 00 E0 04 45 09 80 F0  B...........E...
+04D0: FF FF 7F F0 FF FF 7F 73  30 31 34 0A 80 01 F1 04  .......s014.....
+04E0: 45 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 31 31 0A  E..........s011.
+04F0: 80 29 0B AF 42 07 01 23  4A AF 42 07 01 F0 FF FF  .)..B..#J.B.....
+0500: 7F 29 0B AF 42 07 01 24  45 0B 80 F0 FF FF 7F F0  .)..B..$E.......
+0510: FF FF 7F 66 64 6F 31 0A  80 1C 06 80 46 00 45 0B  ...fdo1.....F.E.
+0520: 80 F0 FF FF 7F F0 FF FF  7F 66 64 69 31 0A 80 20  .........fdi1.. 
+0530: 00 21 00                                          .!.             
+```
+
+#### Opcodes
+
+```
+  0: 0x010F [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
+  1: 0x0111 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  2: 0x0112 [0x46] CAMERA_CONTROL: Disable user control
+  3: 0x0114 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=260.244*, z=-454.826*, y=-17.249*, direction=88.7°*
+  4: 0x011D [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
+  5: 0x011F [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
+  6: 0x0125 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ace of Swords (ID: 17253042/0x010742B2)
+  7: 0x012B [0x4E] SET_ENTITY_HIDE_FLAG: Show Pore-Ohre (ID: 17253039/0x010742AF)
+  8: 0x0131 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ace of Wands (ID: 17253041/0x010742B1)
+  9: 0x0137 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ace of Swords (ID: 17253042/0x010742B2)
+ 10: 0x013D [0x80] LOAD_WAIT(entity=Ace of Swords (ID: 17253042/0x010742B2))
+ 11: 0x0142 [0x80] LOAD_WAIT(entity=Ace of Wands (ID: 17253041/0x010742B1))
+ 12: 0x0147 [0x80] LOAD_WAIT(entity=Ace of Swords (ID: 17253042/0x010742B2))
+ 13: 0x014C [0x80] LOAD_WAIT(entity=Pore-Ohre (ID: 17253039/0x010742AF))
+ 14: 0x0151 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 161*
+ 15: 0x0155 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 161*
+ 16: 0x0159 [0x1C] WAIT(300* ticks)
+ 17: 0x015C [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
+ 18: 0x015F [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x13)
+ 19: 0x0166 [0x1C] WAIT(60* ticks)
+ 20: 0x0169 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x04)
+ 21: 0x0170 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 22: 0x0181 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 23: 0x0192 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=16*
+ 24: 0x01A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 25: 0x01B2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x18)
+ 26: 0x01B9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17253041/0x010742B1), tag_num=0x15)
+ 27: 0x01C0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Swords (ID: 17253042/0x010742B2), tag_num=0x15)
+ 28: 0x01C7 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=16*
+ 29: 0x01D6 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
+ 30: 0x01DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 31: 0x01ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x0B)
+ 32: 0x01F4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x1D)
+ 33: 0x01FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 34: 0x020C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x05)
+ 35: 0x0213 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x0C)
+ 36: 0x021A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x1E)
+ 37: 0x0221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x06)
+ 38: 0x0228 [0x27] REQ_SET(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x1B)
+ 39: 0x022F [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=16*
+ 40: 0x023E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 41: 0x024F [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x14)
+ 42: 0x0256 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
+ 43: 0x025C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pore-Ohre (ID: 17253039/0x010742AF))
+ 44: 0x0262 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x0D)
+ 45: 0x0269 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x1F)
+ 46: 0x0270 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=16*
+ 47: 0x027F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 48: 0x0290 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x07)
+ 49: 0x0297 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x08)
+ 50: 0x029E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x0D)
+ 51: 0x02A5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x19)
+ 52: 0x02AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x0E)
+ 53: 0x02B3 [0x4A] LocalPlayer looks at Ace of Cups (ID: 17253040/0x010742B0)
+ 54: 0x02BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17253041/0x010742B1), tag_num=0x01)
+ 55: 0x02C3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17253041/0x010742B1), tag_num=0x16)
+ 56: 0x02CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x0E)
+ 57: 0x02D1 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x02ED
+ 58: 0x02D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 59: 0x02EA [0x01] GOTO 0x02FE
+ 60: 0x02ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+
+SUBROUTINE_02FE:
+ 61: 0x02FE [0x4A] Pore-Ohre (ID: 17253039/0x010742AF) looks at LocalPlayer
+ 62: 0x0307 [0x1C] WAIT(30* ticks)
+ 63: 0x030A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17253041/0x010742B1), tag_num=0x03)
+ 64: 0x0311 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x01)
+ 65: 0x0318 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x20)
+ 66: 0x031F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x13)
+ 67: 0x0326 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17253041/0x010742B1), tag_num=0x04)
+ 68: 0x032D [0x79] LocalPlayer looks at Pore-Ohre (ID: 17253039/0x010742AF) (Basic look)
+ 69: 0x0337 [0x1C] WAIT(10* ticks)
+ 70: 0x033A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 71: 0x034B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x0F)
+ 72: 0x0352 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x1A)
+ 73: 0x0359 [0x1C] WAIT(10* ticks)
+ 74: 0x035C [0x79] LocalPlayer looks at Ace of Swords (ID: 17253042/0x010742B2) (Basic look)
+ 75: 0x0366 [0x1C] WAIT(30* ticks)
+ 76: 0x0369 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x15)
+ 77: 0x0370 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x06)
+ 78: 0x0377 [0x1C] WAIT(30* ticks)
+ 79: 0x037A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 80: 0x038B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x07)
+ 81: 0x0392 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x11)
+ 82: 0x0399 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x12)
+ 83: 0x03A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 84: 0x03B1 [0x1C] WAIT(100* ticks)
+ 85: 0x03B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+ 86: 0x03C5 [0x4A] Ace of Cups (ID: 17253040/0x010742B0) looks at Ace of Wands (ID: 17253041/0x010742B1)
+ 87: 0x03CE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x1B)
+ 88: 0x03D5 [0x4A] Ace of Wands (ID: 17253041/0x010742B1) looks at Ace of Cups (ID: 17253040/0x010742B0)
+ 89: 0x03DE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17253041/0x010742B1), tag_num=0x17)
+ 90: 0x03E5 [0x4A] Ace of Cups (ID: 17253040/0x010742B0) looks at Ace of Swords (ID: 17253042/0x010742B2)
+ 91: 0x03EE [0x4A] Ace of Wands (ID: 17253041/0x010742B1) looks at Ace of Swords (ID: 17253042/0x010742B2)
+ 92: 0x03F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=16*
+ 93: 0x0406 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+ 94: 0x0417 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
+ 95: 0x041C [0x27] REQ_SET(priority=0x0A, entity_id=Ace of Wands (ID: 17253041/0x010742B1), tag_num=0x14)
+ 96: 0x0423 [0x27] REQ_SET(priority=0x0A, entity_id=Ace of Cups (ID: 17253040/0x010742B0), tag_num=0x17)
+ 97: 0x042A [0x27] REQ_SET(priority=0x0A, entity_id=Ace of Swords (ID: 17253042/0x010742B2), tag_num=0x14)
+ 98: 0x0431 [0x79] Pore-Ohre (ID: 17253039/0x010742AF) looks at Ace of Swords (ID: 17253042/0x010742B2) (Basic look)
+ 99: 0x043B [0x1C] WAIT(30* ticks)
+100: 0x043E [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=16*
+101: 0x044D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+102: 0x045E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ace of Wands (ID: 17253041/0x010742B1))
+103: 0x0464 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ace of Cups (ID: 17253040/0x010742B0))
+104: 0x046A [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ace of Swords (ID: 17253042/0x010742B2))
+105: 0x0470 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 113*
+106: 0x0474 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 113*
+107: 0x0478 [0x7B] Pore-Ohre (ID: 17253039/0x010742AF) stops talking
+108: 0x047D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x1C)
+109: 0x0484 [0x1C] WAIT(30* ticks)
+110: 0x0487 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x21)
+111: 0x048E [0x4A] LocalPlayer looks at Pore-Ohre (ID: 17253039/0x010742AF)
+112: 0x0497 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=16*
+113: 0x04A6 [0x4A] Pore-Ohre (ID: 17253039/0x010742AF) looks at LocalPlayer
+114: 0x04AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x01)
+115: 0x04B6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x22)
+116: 0x04BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x13)
+117: 0x04C4 [0x02] IF !(Work_Zone[9] == 8*) GOTO 0x04E0
+118: 0x04CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+119: 0x04DD [0x01] GOTO 0x04F1
+120: 0x04E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
+
+SUBROUTINE_04F1:
+121: 0x04F1 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x23)
+122: 0x04F8 [0x4A] Pore-Ohre (ID: 17253039/0x010742AF) looks at LocalPlayer
+123: 0x0501 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pore-Ohre (ID: 17253039/0x010742AF), tag_num=0x24)
+124: 0x0508 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+125: 0x0519 [0x1C] WAIT(300* ticks)
+126: 0x051C [0x46] CAMERA_CONTROL: Restore default settings
+127: 0x051E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+128: 0x052F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
+129: 0x0531 [0x21] END_EVENT
+130: 0x0532 [0x00] END_REQSTACK()
+```
+
+### Event 65535.19
+
+#### Metadata
+
+| Field        | Value    |
+|--------------|----------|
+| Entrypoint   | 0x0533   |
+| Data Size    | 16 bytes |
+| Instructions | 5        |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0530:          32 11 80 1F 00  12 80 13 80 03 80 1F 01     2............
+0540: 22 01 00                                          "..             
+```
+
+#### Opcodes
+
+```
+  0: 0x0533 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x0536 [0x1F] MOVE_ENTITY: EventEntity moves to X=259.989*, Z=-443.208*, Y=-17.249*
+  2: 0x053E [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0540 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
+  4: 0x0542 [0x00] END_REQSTACK()
+```
+
+### Event 65535.20
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0543  |
+| Data Size    | 5 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0540:          1D 14 80 23 00                              ...#.        
+```
+
+#### Opcodes
+
+```
+  0: 0x0543 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
+    → "You are to give us Cardians back our Mana Orbs! You have no need for them!"
+  1: 0x0546 [0x23] WAIT_FOR_DIALOG_INTERACTION
+  2: 0x0547 [0x00] END_REQSTACK()
+```
+
+### Event 65535.21
+
+#### Metadata
+
+| Field        | Value   |
+|--------------|---------|
+| Entrypoint   | 0x0548  |
+| Data Size    | 5 bytes |
+| Instructions | 3       |
+
+```
+      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
+      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
+0540:                          1D 15 80 23 00                   ...#.   
+```
+
+#### Opcodes
+
+```
+  0: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+    → "Then let us be off!"
+  1: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
+  2: 0x054C [0x00] END_REQSTACK()
+```

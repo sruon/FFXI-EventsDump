@@ -116,7 +116,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0010:       BB 04 80 F0 FF FF  7F 69 52 06 01 6D 61 69    .......iR..mai
+0010:       BB 04 80 F0 FF FF  7F 68 52 06 01 6D 61 69    .......hR..mai
 0020: 6E 05 80 1C 06 80 45 07  80 F0 FF FF 7F F0 FF FF  n.....E.........
 0030: 7F 66 64 6F 31 05 80 1C  08 80 00                 .fdo1......     
 ```
@@ -124,7 +124,7 @@
 #### Opcodes
 
 ```
-  0: 0x0012 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17191529/0x01065269)], work=[147*, 0*]
+  0: 0x0012 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17191528/0x01065268)], work=[147*, 0*]
   1: 0x0023 [0x1C] WAIT(240* ticks)
   2: 0x0026 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0037 [0x1C] WAIT(60* ticks)

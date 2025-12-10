@@ -399,10 +399,10 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0000:       20 01 42 1E 13 92  06 01 6F 70 03 00 00 07     .B.....op....
+0000:       20 01 42 1E 12 92  06 01 6F 70 03 00 00 07     .B.....op....
 0010: 7F 1A 19 01 66 01 00 F0  FF FF 7F F0 FF FF 7F 73  ....f..........s
 0020: 68 61 30 53 F0 FF FF 7F  F0 FF FF 7F 73 68 61 30  ha0S........sha0
-0030: 1C 00 80 48 01 80 23 62  02 80 13 92 06 01 13 92  ...H..#b........
+0030: 1C 00 80 48 01 80 23 62  02 80 12 92 06 01 12 92  ...H..#b........
 0040: 06 01 6D 61 69 6E 03 80  1C 00 80 48 04 80 23 1C  ..main.....H..#.
 0050: 00 80 03 00 00 07 7F 1A  19 01 66 01 00 F0 FF FF  ..........f.....
 0060: 7F F0 FF FF 7F 73 68 61  31 53 F0 FF FF 7F F0 FF  .....sha1S......
@@ -414,7 +414,7 @@
 ```
   0: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0004 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0005 [0x1E] EventEntity looks at ??? (ID: 17207827/0x01069213) and starts talking
+  2: 0x0005 [0x1E] EventEntity looks at ??? (ID: 17207826/0x01069212) and starts talking
   3: 0x000A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x000B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x000C [0x03] ExtData[1]->WorkLocal[0] = Entity->Race
@@ -425,7 +425,7 @@
  10: 0x0033 [0x48] [System] [7540*]:
     → "Something is buried underneath a piece of light blue glass."
  11: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0037 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [??? (ID: 17207827/0x01069213), ??? (ID: 17207827/0x01069213)], work=[3*, 0*]
+ 12: 0x0037 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [??? (ID: 17207826/0x01069212), ??? (ID: 17207826/0x01069212)], work=[3*, 0*]
  13: 0x0048 [0x1C] WAIT(60* ticks)
  14: 0x004B [0x48] [System] [7541*]:
     → "You leave the glass where it is."
@@ -503,7 +503,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0090:    1F 00 0D 80 0E 80 0F  80 1F 01 6F 1E 17 92 06   ..........o....
+0090:    1F 00 0D 80 0E 80 0F  80 1F 01 6F 1E 16 92 06   ..........o....
 00A0: 01 00                                             ..              
 ```
 
@@ -513,7 +513,7 @@
   0: 0x0091 [0x1F] MOVE_ENTITY: EventEntity moves to X=213.074*, Z=-612.544*, Y=16.569*
   1: 0x0099 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   2: 0x009B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  3: 0x009C [0x1E] EventEntity looks at Rochefogne (ID: 17207831/0x01069217) and starts talking
+  3: 0x009C [0x1E] EventEntity looks at Rochefogne (ID: 17207830/0x01069216) and starts talking
   4: 0x00A1 [0x00] END_REQSTACK()
 ```
 
@@ -919,7 +919,7 @@ SUBROUTINE_0133:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0230: BB 46 80 F0 FF FF 7F 31  92 06 01 6D 61 69 6E 03  .F.....1...main.
+0230: BB 46 80 F0 FF FF 7F 30  92 06 01 6D 61 69 6E 03  .F.....0...main.
 0240: 80 1C 47 80 45 48 80 F0  FF FF 7F F0 FF FF 7F 66  ..G.EH.........f
 0250: 64 6F 31 03 80 1C 00 80  00                       do1......       
 ```
@@ -927,7 +927,7 @@ SUBROUTINE_0133:
 #### Opcodes
 
 ```
-  0: 0x0230 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17207857/0x01069231)], work=[147*, 0*]
+  0: 0x0230 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17207856/0x01069230)], work=[147*, 0*]
   1: 0x0241 [0x1C] WAIT(240* ticks)
   2: 0x0244 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0255 [0x1C] WAIT(60* ticks)
@@ -1305,21 +1305,21 @@ SUBROUTINE_0133:
 0330:                             42 46 01 03 02 00 05           BF.....
 0340: 10 45 48 80 F8 FF FF 7F  F8 FF FF 7F 66 64 6F 30  .EH.........fdo0
 0350: 03 80 55 48 80 F8 FF FF  7F F8 FF FF 7F 66 64 6F  ..UH.........fdo
-0360: 30 4E 00 2E 92 06 01 4E  00 2F 92 06 01 38 55 80  0N.....N./...8U.
-0370: 79 00 F0 FF FF 7F 2E 92  06 01 03 05 10 02 10 03  y...............
+0360: 30 4E 00 2D 92 06 01 4E  00 2E 92 06 01 38 55 80  0N.-...N.....8U.
+0370: 79 00 F0 FF FF 7F 2D 92  06 01 03 05 10 02 10 03  y.....-.........
 0380: 06 10 02 10 03 07 10 02  10 15 05 10 56 80 15 06  ............V...
 0390: 10 00 80 3F 07 10 07 10  00 80 37 57 80 58 80 59  ...?......7W.X.Y
 03A0: 80 5A 80 45 1B 80 F8 FF  FF 7F F8 FF FF 7F 73 30  .Z.E..........s0
-03B0: 30 33 03 80 4A 2E 92 06  01 F0 FF FF 7F 45 48 80  03..J........EH.
-03C0: F8 FF FF 7F F8 FF FF 7F  66 64 69 31 03 80 2B 2E  ........fdi1..+.
-03D0: 92 06 01 5B 80 23 66 5C  80 2E 92 06 01 2E 92 06  ...[.#f\........
-03E0: 01 74 6C 6B 30 2B 2E 92  06 01 5D 80 23 02 04 10  .tlk0+....].#...
-03F0: 03 80 01 3F 04 66 5C 80  2E 92 06 01 2E 92 06 01  ...?.f\.........
+03B0: 30 33 03 80 4A 2D 92 06  01 F0 FF FF 7F 45 48 80  03..J-.......EH.
+03C0: F8 FF FF 7F F8 FF FF 7F  66 64 69 31 03 80 2B 2D  ........fdi1..+-
+03D0: 92 06 01 5B 80 23 66 5C  80 2D 92 06 01 2D 92 06  ...[.#f\.-...-..
+03E0: 01 74 6C 6B 30 2B 2D 92  06 01 5D 80 23 02 04 10  .tlk0+-...].#...
+03F0: 03 80 01 3F 04 66 5C 80  2D 92 06 01 2D 92 06 01  ...?.f\.-...-...
 0400: 74 6C 6B 31 03 05 10 04  10 03 06 10 04 10 03 07  tlk1............
 0410: 10 04 10 15 05 10 56 80  15 06 10 00 80 3F 07 10  ......V......?..
-0420: 07 10 00 80 02 02 00 03  80 00 37 04 2B 2E 92 06  ..........7.+...
-0430: 01 5E 80 23 01 3F 04 2B  2E 92 06 01 5F 80 23 66  .^.#.?.+...._.#f
-0440: 5C 80 2E 92 06 01 2E 92  06 01 70 61 73 30 2B 2E  \.........pas0+.
+0420: 07 10 00 80 02 02 00 03  80 00 37 04 2B 2D 92 06  ..........7.+-..
+0430: 01 5E 80 23 01 3F 04 2B  2D 92 06 01 5F 80 23 66  .^.#.?.+-..._.#f
+0440: 5C 80 2D 92 06 01 2D 92  06 01 70 61 73 30 2B 2D  \.-...-...pas0+-
 0450: 92 06 01 60 80 23 52 1B  80 F8 FF FF 7F F8 FF FF  ...`.#R.........
 0460: 7F 73 30 30 33 45 48 80  F8 FF FF 7F F8 FF FF 7F  .s003EH.........
 0470: 66 64 6F 31 03 80 55 48  80 F8 FF FF 7F F8 FF FF  fdo1..UH........
@@ -1336,10 +1336,10 @@ SUBROUTINE_0133:
   2: 0x033C [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[5]
   3: 0x0341 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
   4: 0x0352 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [EventEntity, EventEntity], work=200*
-  5: 0x0361 [0x4E] SET_ENTITY_HIDE_FLAG: Show Couvoullie (ID: 17207854/0x0106922E)
-  6: 0x0367 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17207855/0x0106922F)
+  5: 0x0361 [0x4E] SET_ENTITY_HIDE_FLAG: Show Couvoullie (ID: 17207853/0x0106922D)
+  6: 0x0367 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17207854/0x0106922E)
   7: 0x036D [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  8: 0x0370 [0x79] LocalPlayer looks at Couvoullie (ID: 17207854/0x0106922E) (Basic look)
+  8: 0x0370 [0x79] LocalPlayer looks at Couvoullie (ID: 17207853/0x0106922D) (Basic look)
   9: 0x037A [0x03] Work_Zone[5] = Work_Zone[2]
  10: 0x037F [0x03] Work_Zone[6] = Work_Zone[2]
  11: 0x0384 [0x03] Work_Zone[7] = Work_Zone[2]
@@ -1348,17 +1348,17 @@ SUBROUTINE_0133:
  14: 0x0393 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  15: 0x039A [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=457.830*, z=-157.787*, y=8.890*, direction=349.9°*
  16: 0x03A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[5*, 0*]
- 17: 0x03B4 [0x4A] Couvoullie (ID: 17207854/0x0106922E) looks at LocalPlayer
+ 17: 0x03B4 [0x4A] Couvoullie (ID: 17207853/0x0106922D) looks at LocalPlayer
  18: 0x03BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x03CE [0x2B] Couvoullie (ID: 17207854/0x0106922E) [7695*]:
+ 19: 0x03CE [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7695*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x03D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Couvoullie (ID: 17207854/0x0106922E), Couvoullie (ID: 17207854/0x0106922E)], work=30*
- 22: 0x03E5 [0x2B] Couvoullie (ID: 17207854/0x0106922E) [7696*]:
+ 21: 0x03D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Couvoullie (ID: 17207853/0x0106922D), Couvoullie (ID: 17207853/0x0106922D)], work=30*
+ 22: 0x03E5 [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7696*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x03EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x03ED [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x043F
- 25: 0x03F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Couvoullie (ID: 17207854/0x0106922E), Couvoullie (ID: 17207854/0x0106922E)], work=30*
+ 25: 0x03F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Couvoullie (ID: 17207853/0x0106922D), Couvoullie (ID: 17207853/0x0106922D)], work=30*
  26: 0x0404 [0x03] Work_Zone[5] = Work_Zone[4]
  27: 0x0409 [0x03] Work_Zone[6] = Work_Zone[4]
  28: 0x040E [0x03] Work_Zone[7] = Work_Zone[4]
@@ -1366,17 +1366,17 @@ SUBROUTINE_0133:
  30: 0x0418 [0x15] Work_Zone[6] /= 60*
  31: 0x041D [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0424 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0437
- 33: 0x042C [0x2B] Couvoullie (ID: 17207854/0x0106922E) [7697*]:
+ 33: 0x042C [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7697*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0434 [0x01] GOTO 0x043F
- 36: 0x0437 [0x2B] Couvoullie (ID: 17207854/0x0106922E) [7701*]:
+ 36: 0x0437 [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7701*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_043F:
- 38: 0x043F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Couvoullie (ID: 17207854/0x0106922E), Couvoullie (ID: 17207854/0x0106922E)], work=30*
- 39: 0x044E [0x2B] Couvoullie (ID: 17207854/0x0106922E) [7698*]:
+ 38: 0x043F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Couvoullie (ID: 17207853/0x0106922D), Couvoullie (ID: 17207853/0x0106922D)], work=30*
+ 39: 0x044E [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7698*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x0455 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0456 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=5*
@@ -1404,7 +1404,7 @@ SUBROUTINE_043F:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 04A0:                                   32 62 80 1F 00             2b...
 04B0: 63 80 64 80 65 80 1F 01  6F 1C 5C 80 79 00 F8 FF  c.d.e...o.\.y...
-04C0: FF 7F 31 92 06 01 1C 00  80 00                    ..1.......      
+04C0: FF 7F 30 92 06 01 1C 00  80 00                    ..0.......      
 ```
 
 #### Opcodes
@@ -1415,7 +1415,7 @@ SUBROUTINE_043F:
   2: 0x04B6 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x04B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x04B9 [0x1C] WAIT(30* ticks)
-  5: 0x04BC [0x79] EventEntity looks at Cavernous Maw (ID: 17207857/0x01069231) (Basic look)
+  5: 0x04BC [0x79] EventEntity looks at Cavernous Maw (ID: 17207856/0x01069230) (Basic look)
   6: 0x04C6 [0x1C] WAIT(60* ticks)
   7: 0x04C9 [0x00] END_REQSTACK()
 ```
@@ -1435,7 +1435,7 @@ SUBROUTINE_043F:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 04C0:                                32 62 80 1F 00 66            2b...f
 04D0: 80 67 80 68 80 1F 01 6F  1C 5C 80 79 00 F8 FF FF  .g.h...o.\.y....
-04E0: 7F 31 92 06 01 1C 00 80  00                       .1.......       
+04E0: 7F 30 92 06 01 1C 00 80  00                       .0.......       
 ```
 
 #### Opcodes
@@ -1446,7 +1446,7 @@ SUBROUTINE_043F:
   2: 0x04D5 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x04D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x04D8 [0x1C] WAIT(30* ticks)
-  5: 0x04DB [0x79] EventEntity looks at Cavernous Maw (ID: 17207857/0x01069231) (Basic look)
+  5: 0x04DB [0x79] EventEntity looks at Cavernous Maw (ID: 17207856/0x01069230) (Basic look)
   6: 0x04E5 [0x1C] WAIT(60* ticks)
   7: 0x04E8 [0x00] END_REQSTACK()
 ```
@@ -1466,7 +1466,7 @@ SUBROUTINE_043F:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 04E0:                             32 62 80 1F 00 69 80           2b...i.
 04F0: 6A 80 6B 80 1F 01 6F 1C  5C 80 79 00 F8 FF FF 7F  j.k...o.\.y.....
-0500: 31 92 06 01 1C 00 80 00                           1.......        
+0500: 30 92 06 01 1C 00 80 00                           0.......        
 ```
 
 #### Opcodes
@@ -1477,7 +1477,7 @@ SUBROUTINE_043F:
   2: 0x04F4 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x04F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x04F7 [0x1C] WAIT(30* ticks)
-  5: 0x04FA [0x79] EventEntity looks at Cavernous Maw (ID: 17207857/0x01069231) (Basic look)
+  5: 0x04FA [0x79] EventEntity looks at Cavernous Maw (ID: 17207856/0x01069230) (Basic look)
   6: 0x0504 [0x1C] WAIT(60* ticks)
   7: 0x0507 [0x00] END_REQSTACK()
 ```
@@ -2706,7 +2706,7 @@ SUBROUTINE_0B14:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0C00:                          32 1E 80 1F 00 AE 80 AF          2.......
-0C10: 80 B0 80 1F 01 1E 4E 92  06 01 00                 ......N....     
+0C10: 80 B0 80 1F 01 1E 4D 92  06 01 00                 ......M....     
 ```
 
 #### Opcodes
@@ -2715,7 +2715,7 @@ SUBROUTINE_0B14:
   0: 0x0C08 [0x32] ExtData[1]->MainSpeed = 10* * 0.1
   1: 0x0C0B [0x1F] MOVE_ENTITY: EventEntity moves to X=153.082*, Z=-395.879*, Y=-3.351*
   2: 0x0C13 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0C15 [0x1E] EventEntity looks at Larzos (ID: 17207886/0x0106924E) and starts talking
+  3: 0x0C15 [0x1E] EventEntity looks at Larzos (ID: 17207885/0x0106924D) and starts talking
   4: 0x0C1A [0x00] END_REQSTACK()
 ```
 
@@ -2758,7 +2758,7 @@ SUBROUTINE_0B14:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0C20:                   32 B4  80 1F 00 B5 80 B6 80 B7        2.........
-0C30: 80 1F 01 6F 4A F0 FF FF  7F 65 92 06 01 6F 76 F0  ...oJ....e...ov.
+0C30: 80 1F 01 6F 4A F0 FF FF  7F 64 92 06 01 6F 76 F0  ...oJ....d...ov.
 0C40: FF FF 7F 7B F0 FF FF 7F  00                       ...{.....       
 ```
 
@@ -2769,7 +2769,7 @@ SUBROUTINE_0B14:
   1: 0x0C29 [0x1F] MOVE_ENTITY: EventEntity moves to X=-56.082*, Z=439.900*, Y=0.803*
   2: 0x0C31 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0C33 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0C34 [0x4A] LocalPlayer looks at Bostillette (ID: 17207909/0x01069265)
+  4: 0x0C34 [0x4A] LocalPlayer looks at Bostillette (ID: 17207908/0x01069264)
   5: 0x0C3D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0C3E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0C43 [0x7B] LocalPlayer stops talking
@@ -2790,7 +2790,7 @@ SUBROUTINE_0B14:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0C40:                             32 09 80 1F 00 B8 80           2......
-0C50: B9 80 BA 80 1F 01 6F 4A  F0 FF FF 7F 64 92 06 01  ......oJ....d...
+0C50: B9 80 BA 80 1F 01 6F 4A  F0 FF FF 7F 63 92 06 01  ......oJ....c...
 0C60: 6F 76 F0 FF FF 7F 7B F0  FF FF 7F 00              ov....{.....    
 ```
 
@@ -2801,7 +2801,7 @@ SUBROUTINE_0B14:
   1: 0x0C4C [0x1F] MOVE_ENTITY: EventEntity moves to X=-54.009*, Z=436.588*, Y=0.596*
   2: 0x0C54 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0C56 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0C57 [0x4A] LocalPlayer looks at Cavernous Maw (ID: 17207908/0x01069264)
+  4: 0x0C57 [0x4A] LocalPlayer looks at Cavernous Maw (ID: 17207907/0x01069263)
   5: 0x0C60 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0C61 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0C66 [0x7B] LocalPlayer stops talking
@@ -2822,7 +2822,7 @@ SUBROUTINE_0B14:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0C60:                                      32 B4 80 1F              2...
-0C70: 00 BB 80 BC 80 BD 80 1F  01 6F 4A F0 FF FF 7F 64  .........oJ....d
+0C70: 00 BB 80 BC 80 BD 80 1F  01 6F 4A F0 FF FF 7F 63  .........oJ....c
 0C80: 92 06 01 6F 76 F0 FF FF  7F 7B F0 FF FF 7F 00     ...ov....{..... 
 ```
 
@@ -2833,7 +2833,7 @@ SUBROUTINE_0B14:
   1: 0x0C6F [0x1F] MOVE_ENTITY: EventEntity moves to X=-51.258*, Z=436.839*, Y=0.360*
   2: 0x0C77 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0C79 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0C7A [0x4A] LocalPlayer looks at Cavernous Maw (ID: 17207908/0x01069264)
+  4: 0x0C7A [0x4A] LocalPlayer looks at Cavernous Maw (ID: 17207907/0x01069263)
   5: 0x0C83 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0C84 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0C89 [0x7B] LocalPlayer stops talking
@@ -2991,27 +2991,27 @@ SUBROUTINE_0B14:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0D20:          02 87 7F 1C 80  80 4E 0D 5F 04 C1 80 F0     ......N._....
-0D30: FF FF 7F F0 FF FF 7F 6B  69 7A 6D 5F 03 C2 80 A7  .......kizm_....
-0D40: 92 06 01 A7 92 06 01 68  6D 6D 6D 01 7B 0E 02 87  .......hmmm.{...
+0D30: FF FF 7F F0 FF FF 7F 6B  69 7A 6D 5F 03 C2 80 A6  .......kizm_....
+0D40: 92 06 01 A6 92 06 01 68  6D 6D 6D 01 7B 0E 02 87  .......hmmm.{...
 0D50: 7F 1D 80 80 79 0D 5F 04  C3 80 F0 FF FF 7F F0 FF  ....y._.........
-0D60: FF 7F 6B 69 7A 6D 5F 03  C2 80 A7 92 06 01 A7 92  ..kizm_.........
+0D60: FF 7F 6B 69 7A 6D 5F 03  C2 80 A6 92 06 01 A6 92  ..kizm_.........
 0D70: 06 01 68 66 6D 6D 01 7B  0E 02 87 7F 02 80 80 A4  ..hfmm.{........
 0D80: 0D 5F 04 C4 80 F0 FF FF  7F F0 FF FF 7F 6B 69 7A  ._...........kiz
-0D90: 6D 5F 03 C2 80 A7 92 06  01 A7 92 06 01 65 6D 6D  m_...........emm
+0D90: 6D 5F 03 C2 80 A6 92 06  01 A6 92 06 01 65 6D 6D  m_...........emm
 0DA0: 6D 01 7B 0E 02 87 7F 95  80 80 CF 0D 5F 04 C5 80  m.{........._...
 0DB0: F0 FF FF 7F F0 FF FF 7F  6B 69 7A 6D 5F 03 C2 80  ........kizm_...
-0DC0: A7 92 06 01 A7 92 06 01  65 66 6D 6D 01 7B 0E 02  ........efmm.{..
+0DC0: A6 92 06 01 A6 92 06 01  65 66 6D 6D 01 7B 0E 02  ........efmm.{..
 0DD0: 87 7F 1B 80 80 FA 0D 5F  04 C6 80 F0 FF FF 7F F0  ......._........
-0DE0: FF FF 7F 6B 69 7A 6D 5F  03 C2 80 A7 92 06 01 A7  ...kizm_........
+0DE0: FF FF 7F 6B 69 7A 6D 5F  03 C2 80 A6 92 06 01 A6  ...kizm_........
 0DF0: 92 06 01 74 6D 61 6D 01  7B 0E 02 87 7F 99 80 80  ...tmam.{.......
 0E00: 25 0E 5F 04 C6 80 F0 FF  FF 7F F0 FF FF 7F 6B 69  %._...........ki
-0E10: 7A 6D 5F 03 C2 80 A7 92  06 01 A7 92 06 01 74 6D  zm_...........tm
+0E10: 7A 6D 5F 03 C2 80 A6 92  06 01 A6 92 06 01 74 6D  zm_...........tm
 0E20: 61 6D 01 7B 0E 02 87 7F  8B 80 80 50 0E 5F 04 C7  am.{.......P._..
 0E30: 80 F0 FF FF 7F F0 FF FF  7F 6B 69 7A 6D 5F 03 C2  .........kizm_..
-0E40: 80 A7 92 06 01 A7 92 06  01 6D 6D 61 6D 01 7B 0E  .........mmam.{.
+0E40: 80 A6 92 06 01 A6 92 06  01 6D 6D 61 6D 01 7B 0E  .........mmam.{.
 0E50: 02 87 7F 8D 80 80 7B 0E  5F 04 61 80 F0 FF FF 7F  ......{._.a.....
-0E60: F0 FF FF 7F 6B 69 7A 6D  5F 03 C2 80 A7 92 06 01  ....kizm_.......
-0E70: A7 92 06 01 67 6D 61 6D  01 7B 0E 00              ....gmam.{..    
+0E60: F0 FF FF 7F 6B 69 7A 6D  5F 03 C2 80 A6 92 06 01  ....kizm_.......
+0E70: A6 92 06 01 67 6D 61 6D  01 7B 0E 00              ....gmam.{..    
 ```
 
 #### Opcodes
@@ -3019,35 +3019,35 @@ SUBROUTINE_0B14:
 ```
   0: 0x0D23 [0x02] IF !(LocalPlayer->Race == 1*) GOTO 0x0D4E
   1: 0x0D2B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=141*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
-  2: 0x0D3B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="hmmm")
+  2: 0x0D3B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="hmmm")
   3: 0x0D4B [0x01] GOTO 0x0E7B
   4: 0x0D4E [0x02] IF !(LocalPlayer->Race == 2*) GOTO 0x0D79
   5: 0x0D56 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=151*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
-  6: 0x0D66 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="hfmm")
+  6: 0x0D66 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="hfmm")
   7: 0x0D76 [0x01] GOTO 0x0E7B
   8: 0x0D79 [0x02] IF !(LocalPlayer->Race == 3*) GOTO 0x0DA4
   9: 0x0D81 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=161*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 10: 0x0D91 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="emmm")
+ 10: 0x0D91 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="emmm")
  11: 0x0DA1 [0x01] GOTO 0x0E7B
  12: 0x0DA4 [0x02] IF !(LocalPlayer->Race == 4*) GOTO 0x0DCF
  13: 0x0DAC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=171*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 14: 0x0DBC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="efmm")
+ 14: 0x0DBC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="efmm")
  15: 0x0DCC [0x01] GOTO 0x0E7B
  16: 0x0DCF [0x02] IF !(LocalPlayer->Race == 5*) GOTO 0x0DFA
  17: 0x0DD7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 18: 0x0DE7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="tmam")
+ 18: 0x0DE7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="tmam")
  19: 0x0DF7 [0x01] GOTO 0x0E7B
  20: 0x0DFA [0x02] IF !(LocalPlayer->Race == 6*) GOTO 0x0E25
  21: 0x0E02 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=181*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 22: 0x0E12 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="tmam")
+ 22: 0x0E12 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="tmam")
  23: 0x0E22 [0x01] GOTO 0x0E7B
  24: 0x0E25 [0x02] IF !(LocalPlayer->Race == 7*) GOTO 0x0E50
  25: 0x0E2D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=191*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 26: 0x0E3D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="mmam")
+ 26: 0x0E3D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="mmam")
  27: 0x0E4D [0x01] GOTO 0x0E7B
  28: 0x0E50 [0x02] IF !(LocalPlayer->Race == 8*) GOTO 0x0E7B
  29: 0x0E58 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x04 - Load ext scheduler (OpCode 0x5B mode 1), ref=201*, entity1=LocalPlayer, entity2=LocalPlayer, string="kizm")
- 30: 0x0E68 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207975/0x010692A7), entity2=Unnamed NPC (ID: 17207975/0x010692A7), string="gmam")
+ 30: 0x0E68 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x03 - Load ext scheduler (OpCode 0x5B mode 0), ref=3878*, entity1=Unnamed NPC (ID: 17207974/0x010692A6), entity2=Unnamed NPC (ID: 17207974/0x010692A6), string="gmam")
  31: 0x0E78 [0x01] GOTO 0x0E7B
 
 SUBROUTINE_0E7B:
@@ -3069,19 +3069,19 @@ SUBROUTINE_0E7B:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0E70:                                      42 45 48 80              BEH.
 0E80: F0 FF FF 7F F0 FF FF 7F  66 64 6F 31 03 80 1C 9A  ........fdo1....
-0E90: 80 38 55 80 4E 00 BC 92  06 01 BA F0 FF FF 7F C8  .8U.N...........
-0EA0: 80 C9 80 CA 80 CB 80 BA  BC 92 06 01 CC 80 CD 80  ................
-0EB0: CE 80 CF 80 4A F0 FF FF  7F AB 92 06 01 4A AB 92  ....J........J..
+0E90: 80 38 55 80 4E 00 BB 92  06 01 BA F0 FF FF 7F C8  .8U.N...........
+0EA0: 80 C9 80 CA 80 CB 80 BA  BB 92 06 01 CC 80 CD 80  ................
+0EB0: CE 80 CF 80 4A F0 FF FF  7F AA 92 06 01 4A AA 92  ....J........J..
 0EC0: 06 01 F0 FF FF 7F 1C 00  80 45 48 80 F0 FF FF 7F  .........EH.....
 0ED0: F0 FF FF 7F 66 64 69 31  03 80 1C 9A 80 66 5C 80  ....fdi1.....f\.
-0EE0: AB 92 06 01 AB 92 06 01  74 6C 6B 30 2B AB 92 06  ........tlk0+...
-0EF0: 01 D0 80 23 2B AB 92 06  01 D1 80 23 66 5C 80 AB  ...#+......#f\..
-0F00: 92 06 01 AB 92 06 01 74  6C 6B 31 45 48 80 F0 FF  .......tlk1EH...
+0EE0: AA 92 06 01 AA 92 06 01  74 6C 6B 30 2B AA 92 06  ........tlk0+...
+0EF0: 01 D0 80 23 2B AA 92 06  01 D1 80 23 66 5C 80 AA  ...#+......#f\..
+0F00: 92 06 01 AA 92 06 01 74  6C 6B 31 45 48 80 F0 FF  .......tlk1EH...
 0F10: FF 7F F0 FF FF 7F 66 64  6F 31 03 80 1C 9A 80 4E  ......fdo1.....N
-0F20: 01 BC 92 06 01 7E 07 F0  FF FF 7F 1C 80 7E 02 F0  .....~.......~..
+0F20: 01 BB 92 06 01 7E 07 F0  FF FF 7F 1C 80 7E 02 F0  .....~.......~..
 0F30: FF FF 7F 45 48 80 F0 FF  FF 7F F0 FF FF 7F 66 64  ...EH.........fd
-0F40: 69 31 03 80 1C 9A 80 2B  AB 92 06 01 D2 80 23 2B  i1.....+......#+
-0F50: AB 92 06 01 D3 80 23 2B  AB 92 06 01 D4 80 23 45  ......#+......#E
+0F40: 69 31 03 80 1C 9A 80 2B  AA 92 06 01 D2 80 23 2B  i1.....+......#+
+0F50: AA 92 06 01 D3 80 23 2B  AA 92 06 01 D4 80 23 45  ......#+......#E
 0F60: 48 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 03 80  H.........fdo1..
 0F70: 1C 2E 80 21 00                                    ...!.           
 ```
@@ -3093,36 +3093,36 @@ SUBROUTINE_0E7B:
   1: 0x0E7D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   2: 0x0E8E [0x1C] WAIT(120* ticks)
   3: 0x0E91 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  4: 0x0E94 [0x4E] SET_ENTITY_HIDE_FLAG: Show Raptor (ID: 17207996/0x010692BC)
+  4: 0x0E94 [0x4E] SET_ENTITY_HIDE_FLAG: Show Raptor (ID: 17207995/0x010692BB)
   5: 0x0E9A [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-509.470*, pos_z=206.690*, pos_y=-15.900*, direction=189.0°*)
-  6: 0x0EA7 [0xBA] SET_ENTITY_POSITION(entity_id=Raptor (ID: 17207996/0x010692BC), pos_x=-511.580*, pos_z=209.300*, pos_y=-16.060*, direction=37.7°*)
-  7: 0x0EB4 [0x4A] LocalPlayer looks at Syrillia (ID: 17207979/0x010692AB)
-  8: 0x0EBD [0x4A] Syrillia (ID: 17207979/0x010692AB) looks at LocalPlayer
+  6: 0x0EA7 [0xBA] SET_ENTITY_POSITION(entity_id=Raptor (ID: 17207995/0x010692BB), pos_x=-511.580*, pos_z=209.300*, pos_y=-16.060*, direction=37.7°*)
+  7: 0x0EB4 [0x4A] LocalPlayer looks at Syrillia (ID: 17207978/0x010692AA)
+  8: 0x0EBD [0x4A] Syrillia (ID: 17207978/0x010692AA) looks at LocalPlayer
   9: 0x0EC6 [0x1C] WAIT(60* ticks)
  10: 0x0EC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  11: 0x0EDA [0x1C] WAIT(120* ticks)
- 12: 0x0EDD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Syrillia (ID: 17207979/0x010692AB), Syrillia (ID: 17207979/0x010692AB)], work=30*
- 13: 0x0EEC [0x2B] Syrillia (ID: 17207979/0x010692AB) [12997*]:
+ 12: 0x0EDD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
+ 13: 0x0EEC [0x2B] Syrillia (ID: 17207978/0x010692AA) [12997*]:
     → "Expertly done! Never have I seen anyone mount a raptor with such aplomb, and I daresay I never will again!"
  14: 0x0EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0EF4 [0x2B] Syrillia (ID: 17207979/0x010692AB) [12998*]:
+ 15: 0x0EF4 [0x2B] Syrillia (ID: 17207978/0x010692AA) [12998*]:
     → "Your skill is so impressive, in fact, that I'll let this one take you all the way back to Jeuno."
  16: 0x0EFB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0EFC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Syrillia (ID: 17207979/0x010692AB), Syrillia (ID: 17207979/0x010692AB)], work=30*
+ 17: 0x0EFC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
  18: 0x0F0B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x0F1C [0x1C] WAIT(120* ticks)
- 20: 0x0F1F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Raptor (ID: 17207996/0x010692BC)
+ 20: 0x0F1F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Raptor (ID: 17207995/0x010692BB)
  21: 0x0F25 [0x7E] CHOCOBO_MOUNT: Mount LocalPlayer on mount ID 1* (status = 85)
  22: 0x0F2D [0x7E] CHOCOBO_MOUNT: Execute attachment function on LocalPlayer
  23: 0x0F33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  24: 0x0F44 [0x1C] WAIT(120* ticks)
- 25: 0x0F47 [0x2B] Syrillia (ID: 17207979/0x010692AB) [12999*]:
+ 25: 0x0F47 [0x2B] Syrillia (ID: 17207978/0x010692AA) [12999*]:
     → "You see, our current research involves not only training the raptors in following commands of the common man, but also in having them reach their destinations without any input from their masters."
  26: 0x0F4E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0F4F [0x2B] Syrillia (ID: 17207979/0x010692AB) [13000*]:
+ 27: 0x0F4F [0x2B] Syrillia (ID: 17207978/0x010692AA) [13000*]:
     → "I'll use my linkpearl to apprise Mapitoto of the situation so that she can prepare a suitable reward for you."
  28: 0x0F56 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0F57 [0x2B] Syrillia (ID: 17207979/0x010692AB) [13001*]:
+ 29: 0x0F57 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13001*]:
     → "Have a safe journey back!"
  30: 0x0F5E [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0F5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3144,15 +3144,15 @@ SUBROUTINE_0E7B:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0F70:                42 4A F0  FF FF 7F AB 92 06 01 4A       BJ........J
-0F80: AB 92 06 01 F0 FF FF 7F  03 06 00 02 10 03 07 00  ................
+0F70:                42 4A F0  FF FF 7F AA 92 06 01 4A       BJ........J
+0F80: AA 92 06 01 F0 FF FF 7F  03 06 00 02 10 03 07 00  ................
 0F90: 03 10 15 02 10 00 80 3F  03 10 06 00 00 80 66 5C  .......?......f\
-0FA0: 80 AB 92 06 01 AB 92 06  01 74 6C 6B 30 2B AB 92  .........tlk0+..
+0FA0: 80 AA 92 06 01 AA 92 06  01 74 6C 6B 30 2B AA 92  .........tlk0+..
 0FB0: 06 01 D5 80 23 02 04 10  03 80 00 E0 0F 02 07 00  ....#...........
-0FC0: 03 80 00 D0 0F 2B AB 92  06 01 D6 80 23 01 E0 0F  .....+......#...
-0FD0: 02 06 00 07 00 03 E0 0F  2B AB 92 06 01 D6 80 23  ........+......#
-0FE0: 66 5C 80 AB 92 06 01 AB  92 06 01 74 6C 6B 31 2B  f\.........tlk1+
-0FF0: AB 92 06 01 D7 80 23 45  48 80 F0 FF FF 7F F0 FF  ......#EH.......
+0FC0: 03 80 00 D0 0F 2B AA 92  06 01 D6 80 23 01 E0 0F  .....+......#...
+0FD0: 02 06 00 07 00 03 E0 0F  2B AA 92 06 01 D6 80 23  ........+......#
+0FE0: 66 5C 80 AA 92 06 01 AA  92 06 01 74 6C 6B 31 2B  f\.........tlk1+
+0FF0: AA 92 06 01 D7 80 23 45  48 80 F0 FF FF 7F F0 FF  ......#EH.......
 1000: FF 7F 66 64 6F 31 03 80  1C 2E 80 21 00           ..fdo1.....!.   
 ```
 
@@ -3160,30 +3160,30 @@ SUBROUTINE_0E7B:
 
 ```
   0: 0x0F75 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0F76 [0x4A] LocalPlayer looks at Syrillia (ID: 17207979/0x010692AB)
-  2: 0x0F7F [0x4A] Syrillia (ID: 17207979/0x010692AB) looks at LocalPlayer
+  1: 0x0F76 [0x4A] LocalPlayer looks at Syrillia (ID: 17207978/0x010692AA)
+  2: 0x0F7F [0x4A] Syrillia (ID: 17207978/0x010692AA) looks at LocalPlayer
   3: 0x0F88 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[2]
   4: 0x0F8D [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[3]
   5: 0x0F92 [0x15] Work_Zone[2] /= 60*
   6: 0x0F97 [0x3F] Work_Zone[3] = ExtData[1]->WorkLocal[6] % 60*
-  7: 0x0F9E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Syrillia (ID: 17207979/0x010692AB), Syrillia (ID: 17207979/0x010692AB)], work=30*
-  8: 0x0FAD [0x2B] Syrillia (ID: 17207979/0x010692AB) [13002*]:
+  7: 0x0F9E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
+  8: 0x0FAD [0x2B] Syrillia (ID: 17207978/0x010692AA) [13002*]:
     → "Glad to see you made it in one piece! It took you a total of $0 minute[/s] and $1 second[/s] to complete the course."
   9: 0x0FB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0FB5 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0FE0
  11: 0x0FBD [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0FD0
- 12: 0x0FC5 [0x2B] Syrillia (ID: 17207979/0x010692AB) [13003*]:
+ 12: 0x0FC5 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13003*]:
     → "Congratulations are in order--you've beaten the best time!"
  13: 0x0FCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0FCD [0x01] GOTO 0x0FE0
  15: 0x0FD0 [0x02] IF !(ExtData[1]->WorkLocal[6] >= ExtData[1]->WorkLocal[7]) GOTO 0x0FE0
- 16: 0x0FD8 [0x2B] Syrillia (ID: 17207979/0x010692AB) [13003*]:
+ 16: 0x0FD8 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13003*]:
     → "Congratulations are in order--you've beaten the best time!"
  17: 0x0FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0FE0:
- 18: 0x0FE0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Syrillia (ID: 17207979/0x010692AB), Syrillia (ID: 17207979/0x010692AB)], work=30*
- 19: 0x0FEF [0x2B] Syrillia (ID: 17207979/0x010692AB) [13004*]:
+ 18: 0x0FE0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
+ 19: 0x0FEF [0x2B] Syrillia (ID: 17207978/0x010692AA) [13004*]:
     → "Let me send you off safely to Jeuno. Hopefully you'll participate again soon!"
  20: 0x0FF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0FF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

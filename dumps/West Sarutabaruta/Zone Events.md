@@ -460,7 +460,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0070:                                      BB 24 80 F0              .$..
-0080: FF FF 7F 59 32 07 01 6D  61 69 6E 25 80 1C 26 80  ...Y2..main%..&.
+0080: FF FF 7F 58 32 07 01 6D  61 69 6E 25 80 1C 26 80  ...X2..main%..&.
 0090: 45 27 80 F0 FF FF 7F F0  FF FF 7F 66 64 6F 31 25  E'.........fdo1%
 00A0: 80 1C 28 80 00                                    ..(..           
 ```
@@ -468,7 +468,7 @@
 #### Opcodes
 
 ```
-  0: 0x007C [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17248857/0x01073259)], work=[147*, 0*]
+  0: 0x007C [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, Cavernous Maw (ID: 17248856/0x01073258)], work=[147*, 0*]
   1: 0x008D [0x1C] WAIT(240* ticks)
   2: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x00A1 [0x1C] WAIT(60* ticks)
@@ -721,7 +721,7 @@ SUBROUTINE_022E:
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0230:                                         4B F8 FF               K..
 0240: FF 7F 44 80 6F 70 32 40  80 1F 00 45 80 46 80 47  ..D.op2@...E.F.G
-0250: 80 1F 01 1C 29 80 1E A6  32 07 01 6F 70 00        ....)...2..op.  
+0250: 80 1F 01 1C 29 80 1E A5  32 07 01 6F 70 00        ....)...2..op.  
 ```
 
 #### Opcodes
@@ -734,7 +734,7 @@ SUBROUTINE_022E:
   4: 0x0249 [0x1F] MOVE_ENTITY: EventEntity moves to X=255.103*, Z=4.057*, Y=-4.894*
   5: 0x0251 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   6: 0x0253 [0x1C] WAIT(10* ticks)
-  7: 0x0256 [0x1E] EventEntity looks at Honoi-Gomoi (ID: 17248934/0x010732A6) and starts talking
+  7: 0x0256 [0x1E] EventEntity looks at Honoi-Gomoi (ID: 17248933/0x010732A5) and starts talking
   8: 0x025B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x025C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  10: 0x025D [0x00] END_REQSTACK()

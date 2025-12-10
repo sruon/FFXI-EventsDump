@@ -32,7 +32,7 @@
 |       6 | 0x3CE8      |       15592 |
 |       7 | 0x000A      |          10 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x0060      |          96 |
+|       9 | 0x0061      |          97 |
 |      10 | 0x3CE9      |       15593 |
 |      11 | 0x3CEA      |       15594 |
 |      12 | 0x0002      |           2 |
@@ -333,14 +333,14 @@ SUBROUTINE_0049:
 SUBROUTINE_004C:
  19: 0x004C [0x03] Work_Zone_1700[22] = 0*
  20: 0x0051 [0x03] ExtData[1]->WorkLocal[0] = 1*
- 21: 0x0056 [0x03] Work_Zone[4] = 96*
+ 21: 0x0056 [0x03] Work_Zone[4] = 97*
  22: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=15593*)
     → "You can purchase your $2 tickets here, kupo."
  23: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_005F:
  24: 0x005F [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x00A9
- 25: 0x0067 [0x03] Work_Zone[4] = 96*
+ 25: 0x0067 [0x03] Work_Zone[4] = 97*
  26: 0x006C [0x24] CREATE_DIALOG(message_id=15594*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Purchase ticket./Learn about prizes./Learn about the [Mog Bonanza/Nomad Mog Bonanza]./Nothing.]"
  27: 0x0073 [0x25] WAIT_DIALOG_SELECT()
@@ -518,7 +518,7 @@ SUBROUTINE_0275:
 153: 0x0286 [0x1B] RETURN
 
 SUBROUTINE_0287:
-154: 0x0287 [0x03] Work_Zone[4] = 96*
+154: 0x0287 [0x03] Work_Zone[4] = 97*
 155: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=15595*)
     → "The Mog Bonanza is a number guessing game, kupo."
 156: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -710,12 +710,12 @@ SUBROUTINE_03B4:
   5: 0x0526 [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[6]
   6: 0x052B [0x4A] EventEntity looks at LocalPlayer
   7: 0x0534 [0x03] ExtData[1]->WorkLocal[0] = 1*
-  8: 0x0539 [0x03] Work_Zone[4] = 96*
+  8: 0x0539 [0x03] Work_Zone[4] = 97*
   9: 0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=15617*)
     → "You can check winning numbers and claim prizes for the $2 here, kupo."
  10: 0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0542 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x0579
- 12: 0x054A [0x03] Work_Zone[4] = 96*
+ 12: 0x054A [0x03] Work_Zone[4] = 97*
  13: 0x054F [0x24] CREATE_DIALOG(message_id=15618*, default_option=0*, option_flags=0*)
     → "What would you like to do? [See winning numbers./Learn how to claim a prize./Nothing.]"
  14: 0x0556 [0x25] WAIT_DIALOG_SELECT()
@@ -734,7 +734,7 @@ SUBROUTINE_0576:
 
 SUBROUTINE_057B:
  25: 0x057B [0x03] Work_Zone[2] = 2559*
- 26: 0x0580 [0x03] Work_Zone[4] = 96*
+ 26: 0x0580 [0x03] Work_Zone[4] = 97*
  27: 0x0585 [0x1D] PRINT_EVENT_MESSAGE(message_id=15621*)
     → "If you have $0 for the $2, trade them to me one at a time."
  28: 0x0588 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1141,7 +1141,7 @@ SUBROUTINE_098D:
  13: 0x0991 [0x00] END_REQSTACK()
 
 SUBROUTINE_0992:
- 14: 0x0992 [0x03] Work_Zone[4] = 96*
+ 14: 0x0992 [0x03] Work_Zone[4] = 97*
  15: 0x0997 [0x1D] PRINT_EVENT_MESSAGE(message_id=15593*)
     → "You can purchase your $2 tickets here, kupo."
  16: 0x099A [0x23] WAIT_FOR_DIALOG_INTERACTION

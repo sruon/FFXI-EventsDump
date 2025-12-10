@@ -1,5 +1,5 @@
 # Strings for Eastern Adoulin
-# Total: 14032 strings
+# Total: 14033 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -13763,7 +13763,7 @@
 13759: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
 13760: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
 13761: Dat's da spirit! So which dial ya be wantin'?
-13762: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+13762: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]
 13763: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
 13764: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
 13765: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
@@ -13788,248 +13788,249 @@
 13784: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
 13785: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
 13786: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-13787: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+13787: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!
 13788: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-13789: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+13789: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!
 13790: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
 13791: $1<$2
-13792: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
-13793: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
-13794: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
-13795: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
-13796: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
-13797: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
-13798: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
-13799: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
-13800: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
-13801: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
-13802: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
-13803: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
-13804: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
-13805: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
-13806: Select an item category. [Return to previous selection./@/@/@/@]
-13807: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
-13808: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13809: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13810: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
-13811: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
-13812: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13813: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
-13814: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
-13815: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
-13816: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
-13817: "Unity" is a catchall term that refers to the group that participants belong to.
-13818: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
-13819: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
-13820: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
-13821: You may not always be able to join the chat if too many players are participating at once.
-13822: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
-13823: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
-13824: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
-13825: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
-13826: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
-13827: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
-13828: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
-13829: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
-13830: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
-13831: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
-13832: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
-13833: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
-13834: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
-13835: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
-13836: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
-13837: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
-13838: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
-13839: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
-13840: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
-13841: You can use specified materials to add new attributes to equipment that has been upgraded.
-13842: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
-13843: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
-13844: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
-13845: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
-13846: It also requires that you first complete a specific Records of Eminence objective.
-13847: The work you request will be carried out on-site by a specially trained Unity guide.
-13848: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
-13849: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
-13850: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
-13851: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
-13852: You may switch Unities once during the Unity ranking tabulation period.
-13853: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
-13854: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
-13855: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
-13856: Rankings are decided through the combined efforts of each of the Unity's members.
-13857: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
-13858: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
-13859: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
-13860: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
-13861: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
-13862: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
-13863: Unity leaders may also join you as alter egos for a limited period of time.
-13864: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
-13865: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
-13866: A leader's alter ego grows in power the higher their Unity is ranked.
-13867: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
-13868: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
-13869: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
-13870: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
-13871: You are currently under Unity restriction. Please try again during the next tabulation period.
-13872: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
-13873: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
-13874: You have already changed Unities. Please wait until the next tabulation period.
-13875: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
-13876: Teleport anyway? [Yes, please./No, thank you.]
-13877: ...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates.
-13878: Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates.
-13879: But the orrrders have their own issues to face at present, and nary a hand can be spared.
-13880: A jesterrr? You're looking for a demon jester?
-13881: I'd like to help, but I've hearrrd no news of such a creature.
-13882: ...Though some pioneers have submitted reports about odd occurrences down in Rala Waterways. Something about black butterflies...
-13883: Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?
-13884: I know just where to look: Rala Waterways. Pioneers have been submitting reports about strange black butterflies down there.
-13885: Ah, Princess!
-13886: ...I see. So Ceizak Battlegrounds has been more of a hot spot than usual.
-13887: You're looking for a dread fiend named "Balamor"?
-13888: This demon must be quite powerful if it can speak our language--and I take seriously any threat to my people.
-13889: Balamor... The wounds we suffered from what he did here may never heal.
-13890: I know this is a bit presumptuous of me to ask, but would you accompany me to Rala Waterways?
-13891: If we find those black butterflies, we may be able to find out more. I'll be along shortly.
-13892: C'mon <Player>--to Rala Waterways!
-13893: If those black butterflies are what I think, then they might lead us to the truth.
-13894: The prrrincess awaits you in Celennia Memorial Library.
-13895: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-13896: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-13897: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-13898: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-13899: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
-13900: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-13901: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-13902: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
-13903: It will cost $2 gil to teleport to $8. ($3 gil on hand)
-13904: All mog tablets have currently been found, so you may teleport to $8 at no charge.
-13905: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-13906: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
-13907: You do not have enough tabs.
-13908: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
-13909: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
-13910: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
-13911: Accept the reward? [Yes, please./No, thanks.]
-13912: You may change the way you select areas listed in "Teleportation Assistance."
-13913: Any changes to make? [Keep course./Select by region./Select by content.]
-13914: Area selection will now be made by [region/content].
-13915: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
-13916: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
-13917: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
-13918: $8 has been [added to your list of favorites/removed from your list of favorites].
-13919: Your list of favorites is full. You must remove an existing entry to add new ones.
-13920: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
-13921: Here you can play the game Mandragora Mania.
-13922: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
-13923: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
-13924: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
-13925: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
-13926: You may pay $& gil to reset all rewards, enabling you to purchase them again.
-13927: Reset rewards? ($' gil). [Yes ($& gil)./No.]
-13928: You do not have enough gil.
-13929: All rewards have been reset.
-13930: You have already purchased the $2.
-13931: You need at least $3 jingly to purchase the $2.
-13932: The reward exchange period has turned over and all rewards have been reset.
-13933: You may reset all rewards from the appropriate dialogue box.
-13934: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
-13935: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
-13936: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
-13937: Starting player set to [Random/You/Opponent].
-13938: Read the manual? [Sure./No thanks.]
-13939: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
-13940: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
-13941: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
-13942: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
-13943: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
-13944: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
-13945: You must choose one area--either yours or a neutral one--to proceed.
-13946: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
-13947: Conversely, your opponent must select either a neutral area or an area that belongs to them.
-13948: From the right, those areas are numbered 6, 4, 7, 2, and 8.
-13949: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
-13950: Note that the mandragoras will move from the back first--last in, first out.
-13951: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
-13952: You will enter your opponent's territory whenever you go past the goal.
-13953: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
-13954: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
-13955: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
-13956: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
-13957: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
-13958: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
-13959: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
-13960: Standard mandragoras: 1 jingly (both players).
-13961: The game is over when either you or your opponent no longer has any mandragoras that can move.
-13962: The player who has the most jingly at that point will be declared the winner.
-13963: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
-13964: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
-13965: You have selected Area $0.
-13966: You receive $0 jingly for a total of $1.
-13967: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
-13968: Your opponent has selected Area $0.
-13969: Your opponent receives $0 jingly for a total of $1.
-13970: Game Complete!
-13971: [Victory!/Defeat!/Draw!] ($0 - $1)
-13972: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
-13973: That area has no mandragora to move.
-13974: You will forfeit all jingly earned this game if you give up. Are you sure?
-13975: Really give up? [Yes./No.]
-13976: You receive $0 jingly for a total of $1.
-13977: You have reached the jingly cap of $0. Any additional jingly will be lost.
-13978: An error has occurred. Please try again.
-13979: DEBUG ( [OFF/ON]
-13980: RANDOMF0-$0 ( $1
-13981: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
-13982: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
-13983: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
-13984: 
-13985: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
-13986: NPC Selection ( Area $0
-13987: DEBUGFNPC Selection Controls ( [OFF/ON]
-13988: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
-13989: This is the Silver Knife. Get lost, commoner.
-13990: Do you have the proper credentials? [I do./Not at the moment.]
-13991: I have the invitation rightaru here!
-13992: Furthermore, this is <Player>--my stalwartaru friend, bodyguard, and companion.
-13993: Very well, Lady Osahsha. You and <Player> may enter.
-13994: Let's go.
-13995: This is my firstaru time in the Silver Knife. So this is what it looks like...
-13996: Simply put, it is under the Order of Gorney's jurisdiction, with Chero-Machero serving-werving as its director.
-13997: However, the items here are handled-wandled by the Couriers' Coalition, and Reginald is in charge of it all.
-13998: There are a variety of auctions held here. It seems thataru both the auction's contents and the invited guests are switched out on a regular basis.
-13999: This invitation I received is only valid-walid for the duration of the Auria Collection auction.
-14000: In other words, I believe we are free to roam aboutaru the place while the Auria Collection is being held.
-14001: By the way, I came here to meetaru with a dvergr known as Skokkr Undrborn.
-14002: However, looking around here, everybody appears pretty normal-wormal to me.
-14003: According to Valaineral's work deciphering the $3, demons-wemons are able to disguise their form.
-14004: Therefore, there mightaru be some demons disguised as regular people among us here.
-14005: Yes, we should splitaru up and try talking with everyone.
-14006: I appreciate the assistaru, <Player>.
-14007: Welcome back. You may enter.
-14008: Enter the premises? [Yes./Not right now.]
-14009: Forgive me, but... Ah, is that you, <Player>?
-14010: Are you trying to scare someone dressed like that? Well, there is no dress code here, so you're free to pass...
-14011: Do you want to enter? [Yes./Not right now.]
-14012: If you wish to be someone worthy of the Silver Knife, you must not only work on your appearance, but your demeanor as well.
-14013: This is the Silver Knife. Only those who are worthy may enter.
-14014: Oh, is that you, <Player>? I hate to be intrusive, but could you please remove that outfit?
-14015: There you are, <Player>!
-14016: Well!? Did you find the egg!?
-14017: Egg discovered near Castle Zvahl.
-14018: I-I can tell by the smell... That's the real egg!
-14019: So? What did you find out about the egg!?
-14020: What!? A demon took the "World Eater Egg"!?
-14021: And that demon's name is Skokkr Undrborn!?
-14022: I think I hear that name before...
-14023: Y-you're right... I believe he's the one who created the Prime Weapons five thousand years ago...
-14024: Oh! I knew that! Although, what is Prime Weapon?
-14025: Hmm... Maybe history can repeat itself?
-14026: Well, what other choice do we have! Let's go pay this Skokkr Undrborn a visit!
-14027: <Sigh> I really not like demons...
-14028: M-Magh Bihu, just keep your mouth shut and you'll be fine.
-14029: This is the Silver Knife. Only those who are worthy may enter.
-14030: The auction is over. Therefore, all prior credentials have been revoked.
-14031: You may come when you have received the necessary credentials once more.
+13792: Urk!
+13793: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
+13794: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
+13795: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
+13796: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
+13797: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
+13798: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
+13799: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
+13800: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
+13801: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
+13802: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
+13803: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
+13804: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
+13805: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
+13806: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
+13807: Select an item category. [Return to previous selection./@/@/@/@]
+13808: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
+13809: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13810: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13811: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
+13812: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
+13813: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13814: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
+13815: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
+13816: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
+13817: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
+13818: "Unity" is a catchall term that refers to the group that participants belong to.
+13819: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
+13820: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
+13821: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
+13822: You may not always be able to join the chat if too many players are participating at once.
+13823: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
+13824: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
+13825: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
+13826: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
+13827: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
+13828: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
+13829: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
+13830: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
+13831: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
+13832: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
+13833: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
+13834: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
+13835: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
+13836: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
+13837: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
+13838: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
+13839: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
+13840: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
+13841: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
+13842: You can use specified materials to add new attributes to equipment that has been upgraded.
+13843: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
+13844: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
+13845: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
+13846: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
+13847: It also requires that you first complete a specific Records of Eminence objective.
+13848: The work you request will be carried out on-site by a specially trained Unity guide.
+13849: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
+13850: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
+13851: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
+13852: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
+13853: You may switch Unities once during the Unity ranking tabulation period.
+13854: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
+13855: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
+13856: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
+13857: Rankings are decided through the combined efforts of each of the Unity's members.
+13858: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
+13859: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
+13860: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
+13861: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
+13862: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
+13863: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
+13864: Unity leaders may also join you as alter egos for a limited period of time.
+13865: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
+13866: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
+13867: A leader's alter ego grows in power the higher their Unity is ranked.
+13868: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
+13869: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
+13870: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
+13871: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
+13872: You are currently under Unity restriction. Please try again during the next tabulation period.
+13873: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
+13874: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
+13875: You have already changed Unities. Please wait until the next tabulation period.
+13876: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
+13877: Teleport anyway? [Yes, please./No, thank you.]
+13878: ...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates.
+13879: Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates.
+13880: But the orrrders have their own issues to face at present, and nary a hand can be spared.
+13881: A jesterrr? You're looking for a demon jester?
+13882: I'd like to help, but I've hearrrd no news of such a creature.
+13883: ...Though some pioneers have submitted reports about odd occurrences down in Rala Waterways. Something about black butterflies...
+13884: Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?
+13885: I know just where to look: Rala Waterways. Pioneers have been submitting reports about strange black butterflies down there.
+13886: Ah, Princess!
+13887: ...I see. So Ceizak Battlegrounds has been more of a hot spot than usual.
+13888: You're looking for a dread fiend named "Balamor"?
+13889: This demon must be quite powerful if it can speak our language--and I take seriously any threat to my people.
+13890: Balamor... The wounds we suffered from what he did here may never heal.
+13891: I know this is a bit presumptuous of me to ask, but would you accompany me to Rala Waterways?
+13892: If we find those black butterflies, we may be able to find out more. I'll be along shortly.
+13893: C'mon <Player>--to Rala Waterways!
+13894: If those black butterflies are what I think, then they might lead us to the truth.
+13895: The prrrincess awaits you in Celennia Memorial Library.
+13896: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+13897: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+13898: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+13899: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+13900: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+13901: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+13902: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+13903: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+13904: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+13905: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+13906: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+13907: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+13908: You do not have enough tabs.
+13909: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+13910: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+13911: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+13912: Accept the reward? [Yes, please./No, thanks.]
+13913: You may change the way you select areas listed in "Teleportation Assistance."
+13914: Any changes to make? [Keep course./Select by region./Select by content.]
+13915: Area selection will now be made by [region/content].
+13916: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+13917: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+13918: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+13919: $8 has been [added to your list of favorites/removed from your list of favorites].
+13920: Your list of favorites is full. You must remove an existing entry to add new ones.
+13921: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+13922: Here you can play the game Mandragora Mania.
+13923: Do which? ($1 jingly) [Play (random opponent)./Play (select opponent)./Purchase prizes[ (unavail.)./ (reset avail.).]/Set start pattern: ([Random/A/B/C/D/E])./Set starting player: ([Random/You/Opponent])./Read an explanation./None of the above.]
+13924: Play against whom? [Green Thumb Moogle./Monsieur Kupont./Susuroon./A lamb./Yeestog./Atelloune./Kuyin Hathdenna./Kupofried./Chacharoon./Sakura./Back.]
+13925: That option is currently unavailable. You will be able to select it again in $5 day[/s] (Earth time).
+13926: Purchase which? ($1 jingly). [Reset rewards ($& gil)./$2: $3 j. [/$26]/$5: $6 j. [/$26]/$8: $9 j. [/$26]/$11: $12 j. [/$26]/$14: $15 j. [/$26]/$17: $18 j. [/$26]/$20: $21 j. [/$26]/$23: $24 j. [/$26]/$26: $27 j. [/$26]/$29: $30 j. [/$26]/Back.]
+13927: You may pay $& gil to reset all rewards, enabling you to purchase them again.
+13928: Reset rewards? ($' gil). [Yes ($& gil)./No.]
+13929: You do not have enough gil.
+13930: All rewards have been reset.
+13931: You have already purchased the $2.
+13932: You need at least $3 jingly to purchase the $2.
+13933: The reward exchange period has turned over and all rewards have been reset.
+13934: You may reset all rewards from the appropriate dialogue box.
+13935: Set starting pattern? [[/$26] Random (A-E)./[/$26] Pattern A./[/$26] Pattern B./[/$26] Pattern C./[/$26] Pattern D./[/$26] Pattern E./No thanks.]
+13936: Starting pattern set to [Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].
+13937: Set starting player? [[/$26] Random./[/$26] You./[/$26] Opponent./No thanks.]
+13938: Starting player set to [Random/You/Opponent].
+13939: Read the manual? [Sure./No thanks.]
+13940: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.
+13941: Your goal is the [red/blue/green] one on the right, while your opponent's is the [blue/green/red] one on the left.
+13942: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.
+13943: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."
+13944: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.
+13945: The three [red/blue/green] areas in front of you are yours,the three [blue/green/red] areas at the back are your opponent's,and the remaining two are neutral.
+13946: You must choose one area--either yours or a neutral one--to proceed.
+13947: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.
+13948: Conversely, your opponent must select either a neutral area or an area that belongs to them.
+13949: From the right, those areas are numbered 6, 4, 7, 2, and 8.
+13950: For example, if you select Area 1,one mandragora will move to Area 2and one will move to Area 3,and one will move to Area 4.
+13951: Note that the mandragoras will move from the back first--last in, first out.
+13952: You will receive points known as "jingly" each time one of your mandragoras reaches the goal.
+13953: You will enter your opponent's territory whenever you go past the goal.
+13954: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.
+13955: The order in which players choose areas will be determined based on your turn settings. The default setting is random.
+13956: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.
+13957: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.
+13958: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.
+13959: Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).
+13960: Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).
+13961: Standard mandragoras: 1 jingly (both players).
+13962: The game is over when either you or your opponent no longer has any mandragoras that can move.
+13963: The player who has the most jingly at that point will be declared the winner.
+13964: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.
+13965: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([First Player/Second Player]) $7$7$7$7$7
+13966: You have selected Area $0.
+13967: You receive $0 jingly for a total of $1.
+13968: $7$7$7$7$7 Pattern [A/B/C/D/E] - Your Turn ([Second Player/First Player]) $7$7$7$7$7
+13969: Your opponent has selected Area $0.
+13970: Your opponent receives $0 jingly for a total of $1.
+13971: Game Complete!
+13972: [Victory!/Defeat!/Draw!] ($0 - $1)
+13973: Move mandragora from which area? [Area 1. ($0 mandragora)/Area 2. ($1 mandragora)/Area 3. ($2 mandragora)/Area 4. ($3 mandragora)/Area 5. ($4 mandragora)/Give up.]
+13974: That area has no mandragora to move.
+13975: You will forfeit all jingly earned this game if you give up. Are you sure?
+13976: Really give up? [Yes./No.]
+13977: You receive $0 jingly for a total of $1.
+13978: You have reached the jingly cap of $0. Any additional jingly will be lost.
+13979: An error has occurred. Please try again.
+13980: DEBUG ( [OFF/ON]
+13981: RANDOMF0-$0 ( $1
+13982: SakuraF[Citrullus/Pachypodium 1/Corrigan 1] ( [OFF/ON] / [Adenium/Pachypodium 2/Corrigan 2] $4607835F/ON]
+13983: [Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement $2128385( Area y[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]z( Evaluation: y$3z
+13984: [Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]F Placement: yNPC Goalz ( Evaluation: y$3z
+13985: 
+13986: Area 8y$0z / Area 2y$1z / Area 7$2128385/ Area 4y$3z / Area 6y$4z
+13987: NPC Selection ( Area $0
+13988: DEBUGFNPC Selection Controls ( [OFF/ON]
+13989: aDEBUGb Move from which area? [Area 8. ($0 mandragoras)./Area 2. ($1 mandragoras)./Area 7. ($2 mandragoras)./Area 4. ($3 mandragoras)./Area 6. ($4 mandragoras).]
+13990: This is the Silver Knife. Get lost, commoner.
+13991: Do you have the proper credentials? [I do./Not at the moment.]
+13992: I have the invitation rightaru here!
+13993: Furthermore, this is <Player>--my stalwartaru friend, bodyguard, and companion.
+13994: Very well, Lady Osahsha. You and <Player> may enter.
+13995: Let's go.
+13996: This is my firstaru time in the Silver Knife. So this is what it looks like...
+13997: Simply put, it is under the Order of Gorney's jurisdiction, with Chero-Machero serving-werving as its director.
+13998: However, the items here are handled-wandled by the Couriers' Coalition, and Reginald is in charge of it all.
+13999: There are a variety of auctions held here. It seems thataru both the auction's contents and the invited guests are switched out on a regular basis.
+14000: This invitation I received is only valid-walid for the duration of the Auria Collection auction.
+14001: In other words, I believe we are free to roam aboutaru the place while the Auria Collection is being held.
+14002: By the way, I came here to meetaru with a dvergr known as Skokkr Undrborn.
+14003: However, looking around here, everybody appears pretty normal-wormal to me.
+14004: According to Valaineral's work deciphering the $3, demons-wemons are able to disguise their form.
+14005: Therefore, there mightaru be some demons disguised as regular people among us here.
+14006: Yes, we should splitaru up and try talking with everyone.
+14007: I appreciate the assistaru, <Player>.
+14008: Welcome back. You may enter.
+14009: Enter the premises? [Yes./Not right now.]
+14010: Forgive me, but... Ah, is that you, <Player>?
+14011: Are you trying to scare someone dressed like that? Well, there is no dress code here, so you're free to pass...
+14012: Do you want to enter? [Yes./Not right now.]
+14013: If you wish to be someone worthy of the Silver Knife, you must not only work on your appearance, but your demeanor as well.
+14014: This is the Silver Knife. Only those who are worthy may enter.
+14015: Oh, is that you, <Player>? I hate to be intrusive, but could you please remove that outfit?
+14016: There you are, <Player>!
+14017: Well!? Did you find the egg!?
+14018: Egg discovered near Castle Zvahl.
+14019: I-I can tell by the smell... That's the real egg!
+14020: So? What did you find out about the egg!?
+14021: What!? A demon took the "World Eater Egg"!?
+14022: And that demon's name is Skokkr Undrborn!?
+14023: I think I hear that name before...
+14024: Y-you're right... I believe he's the one who created the Prime Weapons five thousand years ago...
+14025: Oh! I knew that! Although, what is Prime Weapon?
+14026: Hmm... Maybe history can repeat itself?
+14027: Well, what other choice do we have! Let's go pay this Skokkr Undrborn a visit!
+14028: <Sigh> I really not like demons...
+14029: M-Magh Bihu, just keep your mouth shut and you'll be fine.
+14030: This is the Silver Knife. Only those who are worthy may enter.
+14031: The auction is over. Therefore, all prior credentials have been revoked.
+14032: You may come when you have received the necessary credentials once more.

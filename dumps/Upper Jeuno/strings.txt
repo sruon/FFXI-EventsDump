@@ -1,5 +1,5 @@
 # Strings for Upper Jeuno
-# Total: 14181 strings
+# Total: 14182 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -13590,7 +13590,7 @@
 13586: Whatcha gonna do? ($7 tally) [Open the box and profit!/Listen to the explanation./Inquire about my daily tally. /Peek at some possibilities./Nothing right now.]
 13587: Ya wanna open dat sucker up? Okay, but which dial ya be wantin'?
 13588: Dat's da spirit! So which dial ya be wantin'?
-13589: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@]
+13589: So, what dial ya gonna pick? ($7 tally) [I got cold feet, so none./Dial 1 (Materials): $8 tally./Dial 2 (Food): $8 tally./Dial 3 (Medicine): $8 tally./Dial 4 (Sundries 1): $8 tally./Dial 5 (Sundries 2): $8 tally./Special dial: $9 tally [/ (already opened)]./Adoulin dial: $10 tally[/ (already opened)]./Pictlogica dial: $11 tally[/ (already opened)]./@/@/@/Wanted dial: $12 tally[/ (already opened)]./@/@]
 13590: Yer goin' wit' dial $1, huh? Whatchu tryin' ta pull!? Yer daily tally's too low.
 13591: Yer goin' wit' dial $1, huh? Lessee what myst'ries await!
 13592: Dis box is full o' myst'ries,t Dat span da realm's his'try,t So whatcha gonna get from da chest...o'...uh, fortunery?t
@@ -13615,570 +13615,571 @@
 13611: So ya be wantin' the special dial? Whoawhoawhoa! Get yer grubby hands offa that! Ya don't have enough daily tally, and I's not 'bout tah let ya cheat me!
 13612: So ya be wantin' the [special/Adoulin/pictlogica/Wanted/campaign] dial? M'kay, get yerself all steeled up, 'cause here we go! 'Member, no complaints!
 13613: So ya be wantin' the [special/Adoulin/pictlogica/Wanted] dial? Whoawhoawhoa! Get yer grubby hands offa that! I's already opened one fer ya today! Haul that keister outta here and come back t'morrow.
-13614: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] whenever ya want fer not a single onz o' daily tally!
+13614: Oy, would ya get a look at yer $0! I guess I can let ya open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the special dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival dial] whenever ya want fer not a single onz o' daily tally!
 13615: Dun think that I's be a gil-grubbin' good-fer-nuthin'. If'n ya dun wanna open any dial, then I gives ya back yer $0.
-13616: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial] usin' yer $0, then ya gotta make room in yer bags!
+13616: Yer eyes be bigger'n yer stomach. If'n ya wanna open [/Dial 1/Dial 2/Dial 3/Dial 4/Dial 5/the Special Dial///the abjuration dial/the fortune dial/the furnishings dial//the Vana'versary dial/the festival diaal] usin' yer $0, then ya gotta make room in yer bags!
 13617: What's be dis? $0? What'm I 'pposed ta do wit it? I dun have any clue how ta use it, so take it home wit ya.
 13618: $1<$2
-13619: Coins oft loosen lips at taverns and markets, but to turn up empty-handed... Where could she have gone?
-13620: <Player>! Is that...?
-13621: Stand strong!
-13622: Back, cur!
-13623: You...you came from Iroha's future.
-13624: I know not why you seek to spread the Emptiness, but you will have to get through my blade first!
-13625: I cannot be destroyed.
-13626: Let the darkness fill thy soul...there is no other way...
-13627: The reckoning is at hand.
-13628: And you, Tenzen...will lead them there.
-13629: Lady Iroha!
-13630: Iroha! Come back to us!
-13631: The ambassador shall not go unpunished!
-13632: He took it... He took it from me.
-13633: Took what!?
-13634: The blessing... Phoenix's blessing.
-13635: No... No!!!
-13636: This blade I wield also contains the blazing life force of the avatar Phoenix.
-13637: This calls to mind my own Phoenix Blade, which once contained a similar power.
-13638: Perhaps you recall that my blade also bears the blazing life force of Phoenix.
-13639: When I first laid eyes on the girl...
-13640: A small fraction of Phoenix's essence was transfused into this cold steel.
-13641: Only one blessed by Phoenix could sense it.
-13642: If my blade was one of Phoenix's feathers, then Iroha herself is its wings.
-13643: I could feel Phoenix flare up upon meeting Iroha.
-13644: But I cannot say that Phoenix itself is complete.
-13645: Yet my blade sings the praises of that young woman, feeling that in the future she may be Phoenix incarnate.
-13646: Though only a portion of its energy was entrusted to it, let there be no doubt: in the future, Phoenix will have fully revived.
-13647: The awe is...indescribable.
-13648: But this is no time to wax poetic.
-13649: Once whole, Phoenix's life force will be without peer, and not even the greatest darkness can overcome it.
-13650: Not even the Emptiness that strangles the Far East.
-13651: No, even the Emptiness would fully succumb.
-13652: But if part of Phoenix's puissance lies with Selh'teus, then how...?
-13653: <Player>, seeing what happened to Iroha, and knowing what my blade has told me, there is only one logical conclusion.
-13654: We must wrest Phoenix's blessing back from the ambassador of the void!
-13655: How do you respond? [Let's do it!/Hang on./What do you suggest?]
-13656: Phoenix Blade, please guide us in these bleak times.
-13657: Why exactly would we need to wait?
-13658: Why're you two sitting there having a little tea party?
-13659: My fists are aching for a workout. And you know why?
-13660: Because I laid eyes on this creepy masked man!
-13661: He kept yammering somethin' about being surprised to cross paths again, and that I haven't changed at all--but I've never seen that worthless piece of trash in my life!
-13662: There you are!
-13663: Thank goodness I'm not too late.
-13664: I stumbled upon a most vexing masked man.
-13665: As soon as he laid eyes on me he smirked, saying that I hadn't changed one bit. I could barely stop quivering!
-13666: The masked man!? Tell us--where did he go?
-13667: I do not know, but he muttered something about an "Astral Candescence."
-13668: I'll give him a couple good chops next time he shows his face around here!
-13669: He mighta been alone, but that decisive tone of voice--he definitely was talking with someone.
-13670: There's something terribly off about him.
-13671: He was alone, but...his diction was like he was talking to someone else, not himself.
-13672: Have you heard of this little thingy called an "Astral Candescence"?
-13673: He was ranting and raving about needing to get his hands on one. What a loon!
-13674: He mighta been alone, but that decisive tone of voice--he definitely was talking with someone.
-13675: An Astral Candescence... The name is not altogether unfamiliar.
-13676: It is a special type of instrument found in the land of Aht Urhgan. For years I had been aching to study one, but I never had cause to visit the Empire.
-13677: Aht-what now? What's that? Can you eat it?
-13678: Aht...Urhgan? Never have I heard of such a locale.
-13679: <Player>, we must make haste!
-13680: One of my disciples found out that the Tenshodo in Lower Jeuno can offer us safe passage there.
-13681: Head for Aht Urhgan? [Definitely./No way.]
-13682: Stupid place sounds like it's too far away for me, too--and you think we've got time to run off chasing after some stupid toy?
-13683: I fear I have not the constitution to make such a journey. And besides, isn't there stuff to take care of here in the Middle Lands first?
-13684: Lady Prishe, I understand that you may have your hands full, but you, [Lord/Lady] <Player>!
-13685: Ugh. Do what you will!
-13686: Let us waste not a breath!
-13687: I've got a couple...errands to take care of here, but save me a piece of that masked bugger for later!
-13688: I'll catch up with the two of you later. There's some unfinished business here I must take care of.
-13689: I can't help but wonder if someone...or something...is controlling him.
-13690: There's somethin' off about that guy, but I can't place my finger on it...
-13691: I can't help but wonder if there isn't more to this masked man than meets the eye...
-13692: <Player>, may your journey be a safe one.
-13693: Oh, how I yearn-wearn for the ability to work in peace and quiet, free of this horrible facial constraint!
-13694: Aha! You over there--I bet you know your way around chocobo riding, don'tcha?
-13695: How are your chocobo riding skills? [Absolutely stellar./I've got a ways to go.]
-13696: I knew it! Then you're justaru the [man/woman] I've been looking for.
-13697: Oh, come now. Humility doesn't suit-wuit you.
-13698: % stares you down. Hard.
-13699: ...
-13700: Give me just a moment.
-13701: % blows on a whistle of some sort.
-13702: Now all we do is waitaru, and... ...Darn it all!
-13703: Urk... Every time they see me they try to bite my nose off like it's a little-wittle sausage!
-13704: You see, that's why I've got this mask... Ah! Here we go.
-13705: While Vana'dielians have long since mastarued the art of taming the chocobo, a few of us have been working on domesticating some more...exotic beasts.
-13706: We think we've finally stumbled upon something, but we're loath to release it upon the populace without taking it for a <ahem> test drive. And that's where adventurers come in!
-13707: We figure that if chocobos can run fast, then how about some muscular raptors? We've been toiling day and night, but it's hard to get them to obey anyone other than their handler-wandler.
-13708: And this cute little thing here is no differentaru!
-13709: That's where you come in--we want her to get used to being around people of all sorts.
-13710: So I propose a little deal--if you take her around Batallia Downs, then I'll give you this whistle as a little presentaru.
-13711: That's as good a deal as any, I'll say!
-13712: What say you?
-13713: Ride the raptor? [Sure! This sounds fun!/Maybe later.]
-13714: Aw, shucks. I'll be here should you change your mind-wind.
-13715: Wheeeeee! Finally, someone says yes!
-13716: Okay, you put your hands here... And your feet here...
-13717: Picture perfectaru!
-13718: Awww, run into a little bit of trouble?
-13719: That's okay--why don't you try again?
-13720: Then allow me to make the proper preparations-wations!
-13721: Now be a doll, would you, and open-wopen up your map of Batallia Downs?
-13722: Okay. See these eightaru spots I've marked? They're locations within the downs that I need you to visit. There's a few hollows there, you see...
-13723: ...and in those hollows I've left some of our erstwhile companions' favorite treats for you to give to her. If you'll forgive the saying--you'll have her eating out of your hands.
-13724: But eight spots is a trifle much, hmm? So let's cut it down-wown to five. That should be enough to make her cuddle up to you like a puppy.
-13725: And when you're done with that, I need you to go over here.
-13726: My good friend Syrillia will be waiting for you to return that raptor-waptor.
-13727: [Like I just said,/You may recall that] sometimes our friend here can be...less than cooperative.
-13728: She can get tired--or is it better to say sick of it?--and slow down, and may even shake-wake you off her back.
-13729: But she's a sucker for encouragementaru, so if that happens, just /cheer her up.
-13730: Another thing: she'll go bolting off home if you dismount, so if that happens just amble-wamble your way back here.
-13731: Have a safe trip!
-13732: Do you need another explanation of what it is I wantaru you to do?
-13733: Do you require an explanation? [Nope. I've got it./If you don't mind.]
-13734: Look who made it back--and no worse for the wear.
-13735: A deal's a deal!
-13736: With this $3, you should be able to call your raptor to your side anywhere out in the field.
-13737: Don't give me that dirty look--this one is a bit more docile than the one I had you take around Batallia Downs.
-13738: To ride a mount, just select "Mount" from the "Abilities" submenu.
-13739: Your $3 is a bit special, because it can produce all manner of lovely sounds.
-13740: If you come across $1 in your travels, would you mind showing it to me? I can register it in your $3.
-13741: And if you stumble-wumble upon an item known as an "astral notebook," then I can register that, too.
-13742: $1 and items beginning with a "t" can be used to obtain new mounts by trading them to %.
-13743: Feel free to do so right away.
-13744: Note that $1 will not be consumed in the process.
-13745: Ah, and while I have you here, the raptor-waptor you took out before could always use more training.
-13746: I don't think I could provide you with any more rewards, so it's really up to you. But it would really be quite the boon for me.
-13747: Hello, hello!
-13748: Help train the raptor? [Let's do this./Can I have an explanation?/Maybe later.]
-13749: A wonderful choice indeed! Let's get you all gussied up and ready to go.
-13750: Then let me remind-wind you. First, show me your map of Batallia Downs.
-13751: Awww... Well, hopefully you'll stop by again.
-13752: If you bring me a special item known as an "astral notebook," then I should be able to register it in your $3.
-13753: Hm? Are you...
-13754: I knew it. You're that adventurer that's friends with Mapitoto, right?
-13755: My name is Jeridade.
-13756: I look after the chocobos' food, check on their health, and perform various other tasks behind the scenes here.
-13757: If you don't mind, there was something I was hoping to ask you.
-13758: You're able to summon it, aren't you?
-13759: Can you summon it? [What are you talking about?/How did you know?]
-13760: Come on now... You've got $6, don't you? You can't fool me.
-13761: I knew it! I saw that you had that $3. You wouldn't be involved with her otherwise.
-13762: Anyways... What do you want to ride?
-13763: Ah, an excellent choice.
-13764: I'm interested in mounts that can fly. You know about magic pots and spheroids, right?
-13765: Flying mounts are great, aren't they?
-13766: For somebody like me who only rides chocobos, they're like something straight out of a dream.
-13767: Hey! What are you doing-woing!? Did you finish repairing the chocobo stethoscope?
-13768: Oh! The stethoscope is almost finished. I think...
-13769: Ah, let me guess. He was talking about flying mounts-wounts again, wasn't he?
-13770: I apologize. Whenever Jeridade sees someone carrying-warrying $6, he immediately starts talking about it nonstop.
-13771: It's like I've always said... It's my dream. Who wouldn't want to fly freely through the skies!?
-13772: I know all aboutaru your dream, but you shouldn't go bothering others with it!
-13773: You need to startaru with chocobos first, and then work your way up to bombs and magic pots.
-13774: Never.
-13775: ...
-13776: Fine. How about you aim to be an airship pilotaru then?
-13777: Airships are fine and all, but I'd rather fly through the sky like a bird.
-13778: I suppose I've got no choice but to make something myself. It'll be a mount that is so stable even I'll be able to ride it!
-13779: Okay, I just need to sneak into the Grand Duke Palace and borrow a set of airship blueprints.
-13780: Hey, you'll help me, won't you?
-13781: W-wait just a momentaru!
-13782: I'm just joking. The blueprints won't do me any good without some kind of engine. That's the one thing that I can't make by myself.
-13783: Hm... I wonder if there's anything out there that could help me build my own engine...
-13784: Maybe it's up above the sky? Or perhaps...
-13785: Get back to fixing-wixing that stethoscope already!
-13786: I know how he seems, but Jeridade is quite capable-wapable and super smart too, so I imagine if he had the materials, he could probably make a flying mount.
-13787: It's all because of Jeridade that we can summon magic pots and warmachines.
-13788: I imagine it'll be quite difficultaru, but if you find any information that might help him, can you please let him know?
-13789: Oh, remember that I always welcome any astral notebooks-wotebooks that you might find!
-13790: Hey, that looks-wooks like an astral notebook!
-13791: Or maybe not!$30
-13792: Wait a momentaru, could this be...
-13793: Whoa! What is this!?
-13794: This thing really fires up my engineering spirit!
-13795: Hm? Did this thing really fly with humans riding-widing it?
-13796: Really!? I've got to repair it right away!
-13797: The damage to the chassis can be fixed. The problem is the engine...
-13798: Let's see... This goes like this... Which means that this...
-13799: Hmm... Wait a moment. This here is...
-13800: What is it?
-13801: I feel as if I've seen this before...
-13802: I know! I saw it in $7!
-13803: Wait! Isn't $7 that place in the north with the ruins-wuins? What were you doing there!?
-13804: Well, I heard a rumor from an adventurer and decided to go check it out on my day off...
-13805: That place sure was dangerous! It was so cold that as soon as my nose started running, it froze to my face! I thought I was done for.
-13806: Anyways, back to this machine here! So you see, I haven't actually seen the real thing. I think it was displayed on some sort of device.
-13807: Therefore, we'll need to go back to $7 to find a clue about how to get this thing working!
-13808: Now that's enough of that! If you get yourself killed-willed, who's going to repair the stethoscope!?
-13809: Umm... Wh-when you put it like that... I don't know.
-13810: Oh, I got it! Maybe you could go to $7 and search for clues for me?
-13811: I'll keep examining this thing here. And deal with the stethoscope too, of course...
-13812: Good luck out there!
-13813: $7... I hear it's quite an unusual place, to say the leastaru. I feel there's definitely something there.
-13814: Let me know if you find anything out there. Be careful that your nose-wose doesn't freeze off either.
-13815: By the way, did you happen-wappen to find anything in $7?
-13816: Huh!? Is that...!?
-13817: I think you're overreacting a bit...
-13818: Besides, it looks like we've got ourselves a new clue!
-13819: Amazing! This is exactly what we needed!
-13820: I took the $3 apart for repairs, and there was something just like it in there. Give me a moment to replace it...
-13821: All finished! Let's give it a try, shall we?
-13822: Get ready to take off!
-13823: Huh!? The chocobos! Waitaru!
-13824: I made a slight mistake with the tuning. Here, I'll fix it right away.
-13825: There, it should be fine now.
-13826: Well? Care to give it a try?
-13827: (I'd be scared too if I were you...)
-13828: Alright! It worked!
-13829: Okay now, I want you to use it.
-13830: I thoughtaru you were making this for yourself, Jeridade.
-13831: This Levitus... Oh, that seems to be this mount's name. It's carved into the seat.
-13832: Anyways, I'll make my own once I develop a new engine. I think I can use the old one for reference.
-13833: Now then... I need to go out and get some parts.
-13834: Jeridade! What's got you all excited now!?
-13835: Hey! Stop! Don't you run away from me!
-13836: Ahh... Looks like he got away...
-13837: I wonder how this can be register-wegistered in your $3...
-13838: Hm? This hasn't been registered in your $3 yet!?
-13839: That reminds me... Didn't it just register itself automatically last time?
-13840: The $3... I guess there's something about these older vehicles. I better have Jeridade look into the matter-watter in more detail!
-13841: Hmm... What is the meaning of this...
-13842: For now, it looks like you can summon-wummon it, so I'll ask Jeridade about it. I'll be sure to research it myself too!
-13843: x=$0 y=$1 z=$2
-13844: Ah, how lovely! Let me register your $0 in your $3.
-13845: Amazing-wazing! That's $0!
-13846: Wait...I remember reading-weading about the legendary noble chocobos in a treatise by the esteemed Markovich. "Legendary Chocobos of Our Time," I believe that title was.
-13847: Chocobos with such cherry-colored coatarus are of royal lineage and are only born during very specific times of the year.
-13848: You must be very special-wecial indeed to have procured such a wonderful companion. I hope you enjoy them!
-13849: Oh, what I wouldn't give to ride one!
-13850: At the very least, please let me pet them!
-13851: Either way, let me register your $3.
-13852: With this, you should now be able to mount [a chocobo/a raptor/a tiger/a crab/a red crab/a bomb/a sheep/a morbol/a crawler/Fenrir/a beetle/a moogle/a magic pot/a tulfaire/a warmachine/a xzomit/a hippogryph/a spectral chair/a spheroid/Omega/a coeurl/a goobbue/a raaz/Levitus/an adamantoise/a dhalmel/a doll/a golden bomb/a buffalo/a wivre/a red raptor/an iron giant/Byakko/a noble chocobo/an ixion/a phuabo/a craklaw].
-13853: Ahh, welcome. Did you happen-wappen to bring an astral notebook with you?
-13854: It appears not. Although, I see you have something else you wish for me to take a looksie-wooksie at.
-13855: Now then, let me see what you've got there...
-13856: <Player> showed the $3.
-13857: Hmm... Yes, I see... Oh no!
-13858: It seems-weems that I've done it again...
-13859: Anyways, this appears to be rather old music. Indeed, it has piqued my interestaru.
-13860: Of course, I'm no archaeologistaru or anything. Please tell me if you learn anything new.
-13861: Hey! That's the $3! Allow me to register-wegister it in the $3.
-13862: Hmm... It's not working for some reason. Please give me a momentaru to check it out.
-13863: What is going on here? Oh no, not again!
-13864: It seems I was careless-wareless.
-13865: Huh? The music-wusic from before was decoded and registered!?
-13866: I see... People from the pastaru must've performed the same research I did...
-13867: Just thinking about it fills me with a sense-wense of romanticism.
-13868: Okay! I've got to give it my very best effortaru!
-13869: Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it.
-13870: Thank you so much for your donation. This will save many a life in these trying times.
-13871: Thank you so much for your donation. This will save many a life in these trying times.B
-13872: Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later.
-13873: Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own.
-13874: Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-13875: Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-13876: Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-13877: I should have more than enough concoctions for my current needs.
-13878: I should have more than enough $0 for my current needs.
-13879: Let us hope that those at Salahaam's Sentinels keep up their end of the bargain...
-13880: Ah. And you must be...
-13881: <Player>. Of course. Your reputation precedes you.
-13882: I am well aware of the deeds you have performed for me via your connections in Salaheem's Sentinels.
-13883: But where are my manners? I have yet to introduce myself.
-13884: I am Elijah, but a humble member of the Adventurers' Mutual Aid Network (A.M.A.N.).
-13885: I have acquired some information about threats that need to be vanquished as part of your excellent work in the Records of Eminence initiative.
-13886: I am loath to admit that these foes may be beneath your station, but I would ask you to remove them nonetheless.
-13887: Accept the request? [Of course./No thanks.]
-13888: You have my gratitude. Allow me to provide you with the relevant intel.
-13889: Unfortunate, but not altogether unexpected.
-13890: Your quarry resides on the continent of Aradjiah.
-13891: Though I would ordinarily rely on local mercenaries for the task, this requires a more...delicate touch.
-13892: I promise that the reward will be worthwhile. Double so if you bring proof of the kill.
-13893: Should you be able to do so, that is...
-13894: While I appreciate your efforts, I am only able to provide you with rewards once per month (Earth time).
-13895: I am positive that we will be able to uncover more threats in the upcoming months.
-13896: Of course, I will provide you with more information as circumstances warrant.
-13897: Once again, your assistance is most appreciated.
-13898: Thank you for setting the appropriate objective.
-13899: May you strike true.
-13900: Elijah smirks at you.
-13901: Well, well, if it isn't my favorite intrepid adventurer, <Player>.
-13902: You seem to have been quite busy of late, what with all the fiend slaying and equipment collecting going on.
-13903: And in between all your marauding, you still found time to deal with Falak. Heroism truly is your most impressive attribute.
-13904: You've really helped me to regain my faith in humanity.
-13905: And given your track record and breadth of talents, I would ask another favor of you.
-13906: And just as before, this will be handled via Records of Eminence. Have to make sure all the Is are dotted and the Ts crossed, as you know.
-13907: For you see, the fiends I hunt are not just limited to Aradjiah.
-13908: Although it does seem they aimed to break a particular seal...
-13909: ...this time they aim to lay claim to the World Eater Egg. No, this simply will not do.
-13910: This goes directly against the will of my master, and I shall suffer none to cross him.
-13911: I trust you will vanquish this threat with all due haste.
-13912: We're counting on you, hero.
-13913: Pleasure as always, <Player>.
-13914: Your fervor in vanquishing those which threaten us all has not gone unappreciated.
-13915: Although perhaps you were only assisting me for baubles and glory rather than righteousness and justice, I must thank you all the same.
-13916: So without further ado, permit me to introduce you to your next targets.
-13917: You are to make for Aydeewa and Arrapago.
-13918: It appears that the dead have redoubled their efforts to usher in the egg's hatching, and it has already been brought to the reef.
-13919: And if we can hinder their efforts...well, suffice it to say that my lord will be quite pleased indeed.
-13920: Though I would normally be content to leave the dead well alone, I fear that his will is indeed absolute in this matter.
-13921: Of course, I need not tell you that for every one you strike down two more will doubtless take its place. I can think of no task more Sisyphean.
-13922: Were it up to me, I would see the entire place set ablaze.
-13923: I must admit that my mental health has taken a turn for the better knowing I can count on you to handle this issue.
-13924: I must remain resolute, for it will not be much longer before my plans come to full fruition.
-13925: But I am vexed that my comrades--my lord's right-hand troops--have been lax in their reporting of late.
-13926: Doubtless they have their hands full. May the will of my lord be done.
-13927: Goddesspeed, hero.
-13928: Why won't the dead just stay dead? This goes against all our calculations.
-13929: Perhaps they fear my lord's wrath and deemed their chances best on this side of the veil.
-13930: Ah, my erstwhile friend! You couldn't have arrived at a more fortuitous time.
-13931: At risk of sounding like a broken orchestrion, I confess that I require your assistance once more.
-13932: I had been under the impression that the dead were set on returning here, to the world of the living--but it appears I was mistaken.
-13933: What their true aim is remains yet a mystery, but one thing is certain--their leader possesses an immense power that defies expectations. Their plans must not be allowed to succeed.
-13934: I say this not to diminish the vast capabilities of my master, but to demonstrate to you the commitment of my colleagues and I to ensuring that their machinations bear no fruit.
-13935: Yet as the field of battle expands, our forces find themselves stretched increasingly thin. Even my master is vexed at where best to concentrate our efforts.
-13936: And so my master created--employed--new soldiers to aid in the efforts. Prompt though their reports were, I found the content thereof to be impudent at best.
-13937: "Stop yapping and clean up the stragglers. Those are your orders, and you'd best follow them."
-13938: The audacity! Whether they are right or not is immaterial--their tone is completely unaccpetable.
-13939: Ugh. To think they get to me so easily...
-13940: The will of my master is paramount. If we are to clean up the "stragglers," then so be it.
-13941: I will fill my charge without fail.
-13942: I have taken the liberty of preparing a list of your next targets.
-13943: Though information on previous marks was collected by my underlings, this time I have taken it upon myself to collate the necessary materials.
-13944: Fear not. It is as accurate as the previous entries. I take my job quite seriously.
-13945: It remains to be seen why our foes are mustering their forces here in Vana'diel.
-13946: Ah, but you fancy yourself a defender of Vana'diel, do you not? How quaint.
-13947: I wish you the best of luck.
-13948: What is this? You wish to know if I'm familiar with a black-clad Goblin?
-13949: Yes, I have had the displeasure. A more uncouth specimen I have never come across.
-13950: But if you're going to wallow in the mud like a pig, then it was only appropriate that I gave them an appropriate porcine companion...so I introduced them to Shami.
-13951: Pleasure to see you, <Player>. How are those two pig-headed buffoons doing?
-13952: "What buffoons?" Why, Shami and Shemo, of course.
-13953: I sent them that accursed Goblin and their accompanying retinue. Filth loves its own kind.
-13954: Hahaha... Tell me how that turned out?
-13955: Wh-what? Not only were the Goblin team not there, but then Duke Alloces...?
-13956: But if the gate is closed, then it stands to reason that Duke Alloces shouldn't even be here!
-13957: Ugh. This is why you can never trust anything to a low-level demon.
-13958: But setting that small matter aside... You are after more information on the World Eater Egg, are you not?
-13959: You must wonder what this means for the baneful dead.
-13960: Worry not. I have prepared a list of more targets for you.
-13961: Haha... Surely each one you banish brings a little bit more peace back to Vana'diel.
-13962: Perhaps you have already surmised my true identity, but it is too late for you to turn back now.
-13963: After all, the proverbial contract has already been signed.
-13964: Hoho...a deal with the devil is not so easily overturned...at least not without paying the ultimate price.
-13965: And with what you now know about some of the world's ugly truths, well...
-13966: And that lovely retinue who depends on you oh-so-much will surely come through for you in the end.
-13967: And of course, my lord Odin is depending on you as well.
-13968: And I'm sure none of us want these targets to be in cahoots with Garazu-Horeizu, correct?
-13969: Betrayal will be deemed a failure to fulfill the obligations of your contract. Surely I need not say more.
-13970: So keep doing what you do best, and there will be no problems.
-13971: Ah, and one last thing. If you try to flee, or tell anyone who we really are, it will not end well for you.
-13972: This, too, would be an egregious violation of the terms of our little "agreement."
-13973: You see, <Player>, we have eyes and ears in every corner of Vana'diel.
-13974: And we are always watching...listening...
-13975: Ah, <Player>. Somehow, I knew you would come.
-13976: The sealing of the gate has been quite the catalyst. Wouldn't you agree?
-13977: My understanding is that you are working together with Skokkr to reforge the Prime Weapons, are you not?
-13978: My understanding is that you have worked together with Skokkr and succeeded in reforging a Prime Weapon, have you not?
-13979: I wish you all the best in your journey to vanquish Chaos. After all, the Prime Weapons are the keys.
-13980: Your Prime Weapon holds the key to besting Chaos, as you doubtless already know.
-13981: But I would advise you one thing: the Prime Weapons belong to my master, and my master alone.
-13982: And when they return to him, I have no doubt that they will make their way into my hands...as my just reward for all I have accomplished.
-13983: Oh, yes. The time for me to wield the Prime Weapons is close at hand.
-13984: In fact, this puts me in the mood for a rousing tale. A secondhand tale, so I leave the analysis of its veracity to you.
-13985: 5000 years ago, the Prime Weapons were made manifest after an eternity of trial and error.
-13986: Those in charge searched endlessly for a way to figure out how to stop Chaos from devouring the astral plane.
-13987: Of course, that was eons ago, so the exact time frame isn't clear, but I am led to believe that over one hundred years of effort were poured into this endeavor.
-13988: It started with research into souls that hungered for more. A contract between them was established.
-13989: But those initial results were...disappointing. More pure souls were required.
-13990: I need not spell out for you what that implied.
-13991: Many souls were snuffed out on the altar of progress, irrevocably removed from the cycle of life and death.
-13992: And that is how those involved eventually arrived at the idea of imbuing souls into implements of power.
-13993: If those souls are angered or cry out for vengeance, well...I'm sure that manifests itself in the potency of the armament.
-13994: Perhaps that is why the Prime Weapons gleam with that beautiful obsidian light.
-13995: Why, it is positively inspiring! Surely you wish to brandish them in battle even more than before.
-13996: Ah, but we have time for one more tale. You know of the relic weapons, correct?
-13997: My master conceived them during Ragnarok, and they contain the souls of the enlightened races.
-13998: My master chose only the strongest from among those who proffered themselves up in his service.
-13999: They cried out for succor. Who were we to deny them?
-14000: Why, we were even able to help them defend their kingdoms, although perhaps in a different way than they had envisioned.
-14001: Not that those nations exist anymore, mind you.
-14002: That is enough stories for one day.
-14003: I trust you found it a pleasant enough diversion, but now I bid you return to the task at hand.
-14004: My success is linked to your success, after all. And I have new targets for you to hunt.
-14005: Yes...I can feel it. The Prime Weapons will soon be mine to wield...
-14006: Elijah smiles at you.
-14007: Elijah begins laughing boisterously!
-14008: <Player>. I must confess, I thought you had forgotten about me.
-14009: We are at our watershed moment. I promise to be brief.
-14010: As you are eminently aware, Garazu-Horeizu is on the move.
-14011: Of course, we have no choice but to answer in kind.
-14012: Yet moving too hastily has caused the downfall of many, so I would ask for your aid once more.
-14013: The first issue is dealing with the defectors amongst the beastmen who have joined forces with Chaos.
-14014: Unfortunately, their contingent is present not only in the Middle Lands, but Aht Urhgan and the Far East as well.
-14015: With the enemy spread out across the world, I have had to dispatch some of my most loyal retainers to the far reaches of the globe.
-14016: While they are dealing with the threat above, you will deal with Garazu-Horeizu at the gate between this world and the next.
-14017: Of course, this will allow the gate to be opened.
-14018: I will take up the rear guard, so you have not to fear.
-14019: Ah, but perhaps you are concerned that my protection alone may prove insufficient.
-14020: Are you concerned? [Of course!/Of course not!]
-14021: Then we shall continue along the same path we have traveled to date.
-14022: Oho. I may not have a Prime Weapon, but I promise that my skills are more than sufficient.
-14023: Then we have our tasks. Let us see them through.
-14024: This is our watershed moment. We must defeat Garazu-Horeizu and his minions.
-14025: Best of luck to us all.
-14026: <Player>. It has been a spell, hasn't it?
-14027: You did well in ridding us of Garazu-Horeizu and Chaos.
-14028: I would venture to say that your performance exceeded my wildest expectations.
-14029: So much so, in fact, that I find myself at a bit of a loss.
-14030: The original plan involved my master having a bit more of a...pivotal role in the aftermath, so to speak.
-14031: But you kept all the best parts for yourself.
-14032: Still, he was quite pleased with how you presented yourself during the entire ordeal.
-14033: And my efforts were rewarded in turn, as I have been permitted to remain in this world for a spell.
-14034: A curse in disguise, if you will, for I had hoped to return to his side.
-14035: Yet you deserve to know a little bit more...perhaps my true name. Consider it a gift.
-14036: I am Markgraf Eligos, and I serve as one of Odin's elite.
-14037: May our relationship remain as fruitful going forward as it has been to date.
-14038: Yes, "going forward," as I still have the usual tasks for you to fulfill.
-14039: Though Garazu-Horeizu no longer poses a threat, his hypnosis magic has still not completely dissipated from the land.
-14040: And given the details of our pact, that means you still have your end to hold up.
-14041: The pact cannot be broken, but rest assured that you will continue to be rewarded.
-14042: The terms should be familiar to you by now. Continue to serve.
-14043: And just to reiterate--there is no way to escape your obligation.
-14044: I wish you the best of luck...
-14045: ...and trust you will continue to meet the terms of our deal.
-14046: Keep at it.
-14047: Good day, <Player>.
-14048: It seems you have been quite busy cleaning up the riff-raff.
-14049: The A.M.A.N. has reported to me that your data has come in quite handy--and that you have filled all the tasks I have required of you.
-14050: What's this? You wish to discuss it further?
-14051: Ah, you wish to receive additional rewards for vanquishing what threats remain. I see, I see.
-14052: And you have been unsuccessful in your efforts to procure such rewards, no?
-14053: For when you defeat them, they keep coming back?
-14054: Forgive me for laughing, but you are aware that you are asking for rewards for killing that which is already dead.
-14055: They are of a different world than ours, after all, and trapping them in this one is a fool's errand.
-14056: But I do admire your gumption.
-14057: I am not an unreasonable man. If you are able to best them again if and when they should appear in our plane, then who am I to deny you an extra prize?
-14058: Then I shall prepare some more objectives for you to sink your teeth into. That strikes me as fair, wouldn't you agree?
-14059: Let us set the rate: one additional reward for every three objectives completed.
-14060: After all, what adventurer does not love rewards, hmm? Just don't get yourself offed in the process.
-14061: Oh, yes, and be aware that the additional reward can only be earned monthly (Earth time).
-14062: Just keep doing what you're doing.
-14063: Good day, <Player>.
-14064: Oh, worry not. Your achievements have not gone without notice.
-14065: Here are your additional rewards.
-14066: May our paths cross again soon.
-14067: Good day, <Player>.
-14068: "Additional rewards?" Surely you do not think you have earned any.
-14069: Remember that your contract with me must be carried out in full.
-14070: Good day, <Player>.
-14071: You may consider your monthly duties filled. As always, your support is greatly appreciated.
-14072: Hopefully our paths will cross again next month.
-14073: Perhaps it would behoove you to speak with Rolandienne in Southern San d'Oria (G-10).
-14074: Perhaps it would behoove you to speak with Isakoth in Bastok Markets (E-11).
-14075: Perhaps it would behoove you to speak with Fhelm Jobeizat in Windurst Woods (J-10).
-14076: Perhaps it would behoove you to speak with Eternal Flame in Western Adoulin (H-11).
-14077: Perhaps it would behoove you to speak with Nantoto in Lower Jeuno (H-8).
-14078: Invisible eyes upon you cause the hairs on the back of your neck to rise.
-14079: The $3 nods in agreement.
-14080: A new Records of Eminence objective is now available!
-14081: A new Records of Eminence objective, "$0," is now available!
-14082: You wish to exchange your sparks?
-14083: Wait but a moment. Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.
-14084: Ah, this almost slipped my mind. Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.
-14085: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.
-14086: Thanks to your donation, I now have $1 $0 in safekeeping.
-14087: Ohohoho... Turning in sparks, I see.
-14088: Hold your hoarder hares, [hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer. Ahhh, here it is. Have a look-see.
-14089: Oh, crud, that's right. You should trade me any special artifacts you get from completing objectives.
-14090: "Why?" What a good question! Because I'll give you a nifty-difty reward at some point, that's why.
-14091: Thanks for doing what I asked. Now I have a total of $1 $0 from you.
-14092: You want to trrrade in sparks, do you?
-14093: Let me wake up from my catnap first... Alright, now rrread this.
-14094: Wait, wait, wait! If you happen to get any purrrticularly interesting items from completing objectives, send them my way.
-14095: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...
-14096: ...but I don't want to make fur fly with the Adventurers' Mutual Aid Network, so I'll do my job like a good little kitty.
-14097: Grrreat! Now I have $1 $0 from you. Thanks!
-14098: Hm? Oh, spark exchange... Of course.
-14099: I'm not completely sure, but this might help set some things straight...I guess.
-14100: Let me add one thing. Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives.
-14101: I'll make it worth your while...I swear! Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day.
-14102: Thanks for doing your part in the battle for love and peace! With this latest addition, I'm now keeping track of $1 $0 for you.
-14103: "Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation.
-14104: "To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy.
-14105: "You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time.
-14106: "Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually.
-14107: "As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can.
-14108: "Lastly, any and all acts of vandalism directed against your $3 are strictly prohibited.
-14109: "Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you."
-14110: The maximum number of $0 that may be stored is $1.
-14111: You do not possess enough $0 to complete the transaction.
-14112: You do not possess enough sparks of eminence to complete the transaction.
-14113: You have reached the maximum number of sparks that you can exchange this week ($0). Your ability to purchase skill books and equipment will be restricted until next week.
-14114: You may use up to $0 more sparks of eminence to purchase items.
-14115: Exchange for what? (Sparks: $0) [Items./Skill-increasing tomes./Equ. Lv.1 - 9. (Up to $")/Equ. Lv.10 - 19. (Up to $")/Equ. Lv.20 - 29. (Up to $")/Equ. Lv.30 - 39. (Up to $")/Equ. Lv.40 - 50. (Up to $")/Equ. Lv.51 - 70. (Up to $")/Equ. Lv.71 - 98. (Up to $")/Equ. Lv.99. (Up to $")/10./Trust./Exchange A.M.A.N. currencies./Exchange Seven Treasures./Wise words on Records of Eminence./Nothing.]
-14116: Exchange up to $" Spa. (Sparks: $0) [$1. ($16)/$2. ($17)/$3. ($18)/$4. ($19)/$5. ($20)/$6. ($21)/$7. ($22)/$8. ($23)/$9. ($24)/$10. ($25)/$11. ($26)/$12. ($27)/$13. ($28)/$14. ($29)/$15. ($30)/Previous page./Next page./None.]
-14117: Receive how many? ($6 spark[/s]) [One. ($1 spark[/s])/Three. ($2 spark[/s])/Twelve. ($3 spark[/s])/Thirty-six. ($4 spark[/s])/None.]
-14118: Are you sure you want to expend $0 spark[/s] of eminence on this?
-14119: Make the exchange? [Yes./No.]
-14120: Exchange for what? (On hand: $0) [Currencies./Provisions./None for the nonce.]
-14121: Exchange for what? (On hand: $0) [Sparks of Eminence: $1./Conquest Points: $2./Imperial Standing: $3./Allied Notes: $4./Bayld: $5./Valor Pts.: $6./Aslt. Pts. (Leujaoam): $7./Aslt. Pts. (T. Grounds): $8./Aslt. Pts. (Lebros): $9./Aslt. Pts. (Periqia): $10./Aslt. Pts. (Ilrusi): $11./Cruor: $12./Kinetic Units: $13./Obs. Fragments: $14./M. Plasm Corpuscles: $15./Ballista Points: $16. (2000 max)/Unity Accolades: $17./Escha Silt: $18./Resistance Credits: $19./Nothing for the nonce.]
-14122: Exchange how many points? (On hand: $0) [$1 (One)./$2 (Three)./$3 (Ten)./$4 (Thirty)./None.]
-14123: You now have $1 [sparks of eminence/conquest points/points of imperial standing/Allied Notes/bayld/Fields of Valor points/assault points (Leujaoam)/assault points (Mamool Ja Training Grounds)/assault points (Lebros Cavern)/assault points (Periqia)/assault points (Ilrusi Atoll)/cruor/kinetic units/obsidian fragments/mweya plasm corpuscles/ballista points/Unity accolades/pinches of Escha silt/resistance credits].
-14124: Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether.
-14125: Exchange for what? (On hand: $0) [$1./$2./$3./Nothing for the nonce.]
-14126: Exchange how many? (On hand: $0) [One ($1)./Three ($2)./Ten ($3)./Thirty ($4)./None.]
-14127: Truly exchange $0 ($2)?
-14128: Are you quite satisfied with your selection?
-14129: You wish to exchange $6, $6, $6, $6, $6, and $6 for equipment?
-14130: Exchange for what? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Previous page./Next page./Nothing for the nonce.]
-14131: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.
-14132: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.
-14133: Once you accumulate $0 of these marks, they will be automatically converted to one $1 and added to the total number held.
-14134: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.
-14135: Would you like $0 reclamation mark[/s] in exchange for one $1? You currently have $5 mark[/s].
-14136: Proceed with the exchange? [Yes./No.]
-14137: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2.
-14138: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2. The number of $1 stored has increased by $3.
-14139: You are unable to trade that item at present.
-14140: You are unable to trade that item because you cannot store any more $1.
-14141: Only those participating in Records of Eminence may trade in items.
-14142: You can't shake the feeling that you may be able to learn about Ygnas's whereabouts somewhere in this area.
-14143: Speak with Ploh Trishbahk at Castle Adoulin's front gates (K-9) and report what you have learned about Ygnas.
-14144: Welcome to the Deeds of Heroism rewards exchange service!
-14145: What would you like to do? [Claim a reward (~960 deeds)./Claim a reward (970+ deeds)./Use an A.M.A.N. voucher./Receive a $20305./What are Deeds of Heroism?/Leave.]
-14146: Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence.
-14147: Once you have accumulated a certain number of Deeds, you can exchange them for various items.
-14148: Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds.
-14149: There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!
-14150: Do you want to use an A.M.A.N. voucher? [$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./What are A.M.A.N. vouchers?/Go back./Leave.]
-14151: If you have an A.M.A.N. voucher for an item such as a $0, you can use it to choose from a list of corresponding items.
-14152: Do you want the $37?
-14153: Do you want $& $0% ?
-14154: Do you want the $3?
-14155: Are you sure you want to proceed? [Yes./No.]
-14156: You do not possess enough Deeds of Heroism to receive this item.
-14157: Exchange for what? [Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Go back./Leave.]
-14158: You will receive the following items in the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] set.
-14159: $36.
-14160: Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]
-14161: Exchange for what? [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Go back./Leave.]
-14162: Are you sure you want the $37? [Yes./No.]
-14163: Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?
-14164: You have already exchanged for this item.
-14165: Which item? (Deeds: $$) [([|/$26]) $17415 x7: 10./([|/$26]) $71214: 20./([|/$26]) $89653: 30./([|/$26]) $3089: 40./([|/$26]) $17415 x14: 50./([|/$26]) $71021: 60./([|/$26]) $0: 70./([|/$26]) $6679: 80./([|/$26]) $72256: 90./([|/$26]) $17933 x5: 100./([|/$26]) $0: 110./([|/$26]) $6680: 120./([|/$26]) $69669: 130./([|/$26]) $17933 x5: 140./([|/$26]) $0: 150./([|/$26]) $6782: 160./([|/$26]) $18177: 170./([|/$26]) $17933 x5: 180./([|/$26]) $0: 190./([|/$26]) $6783: 200./([|/$26]) $75385: 210./([|/$26]) $17933 x5: 220./([|/$26]) $0: 230./([|/$26]) $8030: 240./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-14166: Which item? (Deeds: $$) [([|/$26]) $75386: 250./([|/$26]) $18490 x5: 260./([|/$26]) $0: 270./([|/$26]) $8031: 280./([|/$26]) $19508: 290./([|/$26]) $18490 x5: 300./([|/$26]) $0: 310./([|/$26]) $18491: 320./([|/$26]) $84025: 330./([|/$26]) $18490 x5: 340./([|/$26]) $0: 350./([|/$26]) $18491: 360./([|/$26]) $84252: 370./([|/$26]) $18490 x5: 380./([|/$26]) $0: 390./([|/$26]) $18491: 400./([|/$26]) $85784: 410./([|/$26]) $18490 x5: 420./([|/$26]) $0: 430./([|/$26]) $18492: 440./([|/$26]) $84251: 450./([|/$26]) $18490 x5: 460./([|/$26]) $0: 470./([|/$26]) $20305 480./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-14167: Which item? (Deeds: $$) [([|/$26]) $17415 x10: 490/([|/$26]) $13125: 500./([|/$26]) $18434 x5: 510./([|/$26]) $3089: 520./([|/$26]) $12900 x5: 530./([|/$26]) $17933 x5: 540./([|/$26]) $0: 550./([|/$26]) $6679: 560./([|/$26]) $12921 ~3F 570./([|/$26]) $17933 ~5F 580./([|/$26]) $0F 590./([|/$26]) $6680F 600./([|/$26]) $12922 ~3F 610./([|/$26]) $17933 ~5F 620./([|/$26]) $0F 630./([|/$26]) $6782F 640./([|/$26]) $12923 ~3F 650./([|/$26]) $17933 ~5 F660./([|/$26]) $0F 670./([|/$26]) $6783 F680./([|/$26]) $18433 ~5F 690./([|/$26]) $8030F 700./([|/$26]) $0F 710./([|/$26]) $0F 720./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-14168: Which item? (Deeds: $$) [([|/$26]) $12924 x3F 730./([|/$26]) $18490 ~5F 740./([|/$26]) $0F 750./([|/$26]) $8031F 760./([|/$26]) $12925 ~3F 770./([|/$26]) $18490 ~5F 780./([|/$26]) $0F 790./([|/$26]) $18491F 800./([|/$26]) $12926 ~3F 810./([|/$26]) $18490 ~5F 820./([|/$26]) $0F 830./([|/$26]) $18491F 840./([|/$26]) $13056 ~3F 850./([|/$26]) $18490 ~5F 860./([|/$26]) $0F 870./([|/$26]) $18491F 880./([|/$26]) $13057 ~3F 890./([|/$26]) $18490 ~5F 900./([|/$26]) $0F 910./([|/$26]) $18492F 920./([|/$26]) $12927 ~3F 930./([|/$26]) $18490 ~5F 940./([|/$26]) $0F 950./([|/$26]) $0F 960./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-14169: Exchange for what? [Argosy Armor./Hesychast's Attire/Piety Attire./Archmage's Attire/Vitiation Attire./Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Armor./Futhark Attire./Go back./Leave.]
-14170: You will receive the following items in the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set.
-14171: Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]
-14172: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $85280: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $13126: $22./([-/$26]) $18491: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18491: $27./([-/$26]) $17415~3: $28./([-/$26]) $18434~5: $29./([-/$26]) $13126: $30./([-/$26]) $18492: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
-14173: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $7012: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $17419: $22./([-/$26]) $13125: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18177: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $13126: $30./([-/$26]) $18491: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
-14174: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $18491: $19./([-/$26]) $17415~3: $20./([-/$26]) $18434~5: $21./([-/$26]) $13126: $22./([-/$26]) $18492: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $5132: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $17419: $30./([-/$26]) $13125: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
-14175: Resetting rewards will increase the number of deeds required but will let you reobtain items you have previously received.
-14176: You are able to reset your rewards for $0 deed[/s].
-14177: Reset rewards? [Yes. (Reset #$0)/No.]
-14178: You have not yet received some rewards. Resetting means that you will be unable to obtain them. Are you sure?
-14179: Really reset rewards? [Yes. (Reset #$0)/No.]
-14180: Rewards have been reset.
+13619: Urk!
+13620: Coins oft loosen lips at taverns and markets, but to turn up empty-handed... Where could she have gone?
+13621: <Player>! Is that...?
+13622: Stand strong!
+13623: Back, cur!
+13624: You...you came from Iroha's future.
+13625: I know not why you seek to spread the Emptiness, but you will have to get through my blade first!
+13626: I cannot be destroyed.
+13627: Let the darkness fill thy soul...there is no other way...
+13628: The reckoning is at hand.
+13629: And you, Tenzen...will lead them there.
+13630: Lady Iroha!
+13631: Iroha! Come back to us!
+13632: The ambassador shall not go unpunished!
+13633: He took it... He took it from me.
+13634: Took what!?
+13635: The blessing... Phoenix's blessing.
+13636: No... No!!!
+13637: This blade I wield also contains the blazing life force of the avatar Phoenix.
+13638: This calls to mind my own Phoenix Blade, which once contained a similar power.
+13639: Perhaps you recall that my blade also bears the blazing life force of Phoenix.
+13640: When I first laid eyes on the girl...
+13641: A small fraction of Phoenix's essence was transfused into this cold steel.
+13642: Only one blessed by Phoenix could sense it.
+13643: If my blade was one of Phoenix's feathers, then Iroha herself is its wings.
+13644: I could feel Phoenix flare up upon meeting Iroha.
+13645: But I cannot say that Phoenix itself is complete.
+13646: Yet my blade sings the praises of that young woman, feeling that in the future she may be Phoenix incarnate.
+13647: Though only a portion of its energy was entrusted to it, let there be no doubt: in the future, Phoenix will have fully revived.
+13648: The awe is...indescribable.
+13649: But this is no time to wax poetic.
+13650: Once whole, Phoenix's life force will be without peer, and not even the greatest darkness can overcome it.
+13651: Not even the Emptiness that strangles the Far East.
+13652: No, even the Emptiness would fully succumb.
+13653: But if part of Phoenix's puissance lies with Selh'teus, then how...?
+13654: <Player>, seeing what happened to Iroha, and knowing what my blade has told me, there is only one logical conclusion.
+13655: We must wrest Phoenix's blessing back from the ambassador of the void!
+13656: How do you respond? [Let's do it!/Hang on./What do you suggest?]
+13657: Phoenix Blade, please guide us in these bleak times.
+13658: Why exactly would we need to wait?
+13659: Why're you two sitting there having a little tea party?
+13660: My fists are aching for a workout. And you know why?
+13661: Because I laid eyes on this creepy masked man!
+13662: He kept yammering somethin' about being surprised to cross paths again, and that I haven't changed at all--but I've never seen that worthless piece of trash in my life!
+13663: There you are!
+13664: Thank goodness I'm not too late.
+13665: I stumbled upon a most vexing masked man.
+13666: As soon as he laid eyes on me he smirked, saying that I hadn't changed one bit. I could barely stop quivering!
+13667: The masked man!? Tell us--where did he go?
+13668: I do not know, but he muttered something about an "Astral Candescence."
+13669: I'll give him a couple good chops next time he shows his face around here!
+13670: He mighta been alone, but that decisive tone of voice--he definitely was talking with someone.
+13671: There's something terribly off about him.
+13672: He was alone, but...his diction was like he was talking to someone else, not himself.
+13673: Have you heard of this little thingy called an "Astral Candescence"?
+13674: He was ranting and raving about needing to get his hands on one. What a loon!
+13675: He mighta been alone, but that decisive tone of voice--he definitely was talking with someone.
+13676: An Astral Candescence... The name is not altogether unfamiliar.
+13677: It is a special type of instrument found in the land of Aht Urhgan. For years I had been aching to study one, but I never had cause to visit the Empire.
+13678: Aht-what now? What's that? Can you eat it?
+13679: Aht...Urhgan? Never have I heard of such a locale.
+13680: <Player>, we must make haste!
+13681: One of my disciples found out that the Tenshodo in Lower Jeuno can offer us safe passage there.
+13682: Head for Aht Urhgan? [Definitely./No way.]
+13683: Stupid place sounds like it's too far away for me, too--and you think we've got time to run off chasing after some stupid toy?
+13684: I fear I have not the constitution to make such a journey. And besides, isn't there stuff to take care of here in the Middle Lands first?
+13685: Lady Prishe, I understand that you may have your hands full, but you, [Lord/Lady] <Player>!
+13686: Ugh. Do what you will!
+13687: Let us waste not a breath!
+13688: I've got a couple...errands to take care of here, but save me a piece of that masked bugger for later!
+13689: I'll catch up with the two of you later. There's some unfinished business here I must take care of.
+13690: I can't help but wonder if someone...or something...is controlling him.
+13691: There's somethin' off about that guy, but I can't place my finger on it...
+13692: I can't help but wonder if there isn't more to this masked man than meets the eye...
+13693: <Player>, may your journey be a safe one.
+13694: Oh, how I yearn-wearn for the ability to work in peace and quiet, free of this horrible facial constraint!
+13695: Aha! You over there--I bet you know your way around chocobo riding, don'tcha?
+13696: How are your chocobo riding skills? [Absolutely stellar./I've got a ways to go.]
+13697: I knew it! Then you're justaru the [man/woman] I've been looking for.
+13698: Oh, come now. Humility doesn't suit-wuit you.
+13699: % stares you down. Hard.
+13700: ...
+13701: Give me just a moment.
+13702: % blows on a whistle of some sort.
+13703: Now all we do is waitaru, and... ...Darn it all!
+13704: Urk... Every time they see me they try to bite my nose off like it's a little-wittle sausage!
+13705: You see, that's why I've got this mask... Ah! Here we go.
+13706: While Vana'dielians have long since mastarued the art of taming the chocobo, a few of us have been working on domesticating some more...exotic beasts.
+13707: We think we've finally stumbled upon something, but we're loath to release it upon the populace without taking it for a <ahem> test drive. And that's where adventurers come in!
+13708: We figure that if chocobos can run fast, then how about some muscular raptors? We've been toiling day and night, but it's hard to get them to obey anyone other than their handler-wandler.
+13709: And this cute little thing here is no differentaru!
+13710: That's where you come in--we want her to get used to being around people of all sorts.
+13711: So I propose a little deal--if you take her around Batallia Downs, then I'll give you this whistle as a little presentaru.
+13712: That's as good a deal as any, I'll say!
+13713: What say you?
+13714: Ride the raptor? [Sure! This sounds fun!/Maybe later.]
+13715: Aw, shucks. I'll be here should you change your mind-wind.
+13716: Wheeeeee! Finally, someone says yes!
+13717: Okay, you put your hands here... And your feet here...
+13718: Picture perfectaru!
+13719: Awww, run into a little bit of trouble?
+13720: That's okay--why don't you try again?
+13721: Then allow me to make the proper preparations-wations!
+13722: Now be a doll, would you, and open-wopen up your map of Batallia Downs?
+13723: Okay. See these eightaru spots I've marked? They're locations within the downs that I need you to visit. There's a few hollows there, you see...
+13724: ...and in those hollows I've left some of our erstwhile companions' favorite treats for you to give to her. If you'll forgive the saying--you'll have her eating out of your hands.
+13725: But eight spots is a trifle much, hmm? So let's cut it down-wown to five. That should be enough to make her cuddle up to you like a puppy.
+13726: And when you're done with that, I need you to go over here.
+13727: My good friend Syrillia will be waiting for you to return that raptor-waptor.
+13728: [Like I just said,/You may recall that] sometimes our friend here can be...less than cooperative.
+13729: She can get tired--or is it better to say sick of it?--and slow down, and may even shake-wake you off her back.
+13730: But she's a sucker for encouragementaru, so if that happens, just /cheer her up.
+13731: Another thing: she'll go bolting off home if you dismount, so if that happens just amble-wamble your way back here.
+13732: Have a safe trip!
+13733: Do you need another explanation of what it is I wantaru you to do?
+13734: Do you require an explanation? [Nope. I've got it./If you don't mind.]
+13735: Look who made it back--and no worse for the wear.
+13736: A deal's a deal!
+13737: With this $3, you should be able to call your raptor to your side anywhere out in the field.
+13738: Don't give me that dirty look--this one is a bit more docile than the one I had you take around Batallia Downs.
+13739: To ride a mount, just select "Mount" from the "Abilities" submenu.
+13740: Your $3 is a bit special, because it can produce all manner of lovely sounds.
+13741: If you come across $1 in your travels, would you mind showing it to me? I can register it in your $3.
+13742: And if you stumble-wumble upon an item known as an "astral notebook," then I can register that, too.
+13743: $1 and items beginning with a "t" can be used to obtain new mounts by trading them to %.
+13744: Feel free to do so right away.
+13745: Note that $1 will not be consumed in the process.
+13746: Ah, and while I have you here, the raptor-waptor you took out before could always use more training.
+13747: I don't think I could provide you with any more rewards, so it's really up to you. But it would really be quite the boon for me.
+13748: Hello, hello!
+13749: Help train the raptor? [Let's do this./Can I have an explanation?/Maybe later.]
+13750: A wonderful choice indeed! Let's get you all gussied up and ready to go.
+13751: Then let me remind-wind you. First, show me your map of Batallia Downs.
+13752: Awww... Well, hopefully you'll stop by again.
+13753: If you bring me a special item known as an "astral notebook," then I should be able to register it in your $3.
+13754: Hm? Are you...
+13755: I knew it. You're that adventurer that's friends with Mapitoto, right?
+13756: My name is Jeridade.
+13757: I look after the chocobos' food, check on their health, and perform various other tasks behind the scenes here.
+13758: If you don't mind, there was something I was hoping to ask you.
+13759: You're able to summon it, aren't you?
+13760: Can you summon it? [What are you talking about?/How did you know?]
+13761: Come on now... You've got $6, don't you? You can't fool me.
+13762: I knew it! I saw that you had that $3. You wouldn't be involved with her otherwise.
+13763: Anyways... What do you want to ride?
+13764: Ah, an excellent choice.
+13765: I'm interested in mounts that can fly. You know about magic pots and spheroids, right?
+13766: Flying mounts are great, aren't they?
+13767: For somebody like me who only rides chocobos, they're like something straight out of a dream.
+13768: Hey! What are you doing-woing!? Did you finish repairing the chocobo stethoscope?
+13769: Oh! The stethoscope is almost finished. I think...
+13770: Ah, let me guess. He was talking about flying mounts-wounts again, wasn't he?
+13771: I apologize. Whenever Jeridade sees someone carrying-warrying $6, he immediately starts talking about it nonstop.
+13772: It's like I've always said... It's my dream. Who wouldn't want to fly freely through the skies!?
+13773: I know all aboutaru your dream, but you shouldn't go bothering others with it!
+13774: You need to startaru with chocobos first, and then work your way up to bombs and magic pots.
+13775: Never.
+13776: ...
+13777: Fine. How about you aim to be an airship pilotaru then?
+13778: Airships are fine and all, but I'd rather fly through the sky like a bird.
+13779: I suppose I've got no choice but to make something myself. It'll be a mount that is so stable even I'll be able to ride it!
+13780: Okay, I just need to sneak into the Grand Duke Palace and borrow a set of airship blueprints.
+13781: Hey, you'll help me, won't you?
+13782: W-wait just a momentaru!
+13783: I'm just joking. The blueprints won't do me any good without some kind of engine. That's the one thing that I can't make by myself.
+13784: Hm... I wonder if there's anything out there that could help me build my own engine...
+13785: Maybe it's up above the sky? Or perhaps...
+13786: Get back to fixing-wixing that stethoscope already!
+13787: I know how he seems, but Jeridade is quite capable-wapable and super smart too, so I imagine if he had the materials, he could probably make a flying mount.
+13788: It's all because of Jeridade that we can summon magic pots and warmachines.
+13789: I imagine it'll be quite difficultaru, but if you find any information that might help him, can you please let him know?
+13790: Oh, remember that I always welcome any astral notebooks-wotebooks that you might find!
+13791: Hey, that looks-wooks like an astral notebook!
+13792: Or maybe not!$30
+13793: Wait a momentaru, could this be...
+13794: Whoa! What is this!?
+13795: This thing really fires up my engineering spirit!
+13796: Hm? Did this thing really fly with humans riding-widing it?
+13797: Really!? I've got to repair it right away!
+13798: The damage to the chassis can be fixed. The problem is the engine...
+13799: Let's see... This goes like this... Which means that this...
+13800: Hmm... Wait a moment. This here is...
+13801: What is it?
+13802: I feel as if I've seen this before...
+13803: I know! I saw it in $7!
+13804: Wait! Isn't $7 that place in the north with the ruins-wuins? What were you doing there!?
+13805: Well, I heard a rumor from an adventurer and decided to go check it out on my day off...
+13806: That place sure was dangerous! It was so cold that as soon as my nose started running, it froze to my face! I thought I was done for.
+13807: Anyways, back to this machine here! So you see, I haven't actually seen the real thing. I think it was displayed on some sort of device.
+13808: Therefore, we'll need to go back to $7 to find a clue about how to get this thing working!
+13809: Now that's enough of that! If you get yourself killed-willed, who's going to repair the stethoscope!?
+13810: Umm... Wh-when you put it like that... I don't know.
+13811: Oh, I got it! Maybe you could go to $7 and search for clues for me?
+13812: I'll keep examining this thing here. And deal with the stethoscope too, of course...
+13813: Good luck out there!
+13814: $7... I hear it's quite an unusual place, to say the leastaru. I feel there's definitely something there.
+13815: Let me know if you find anything out there. Be careful that your nose-wose doesn't freeze off either.
+13816: By the way, did you happen-wappen to find anything in $7?
+13817: Huh!? Is that...!?
+13818: I think you're overreacting a bit...
+13819: Besides, it looks like we've got ourselves a new clue!
+13820: Amazing! This is exactly what we needed!
+13821: I took the $3 apart for repairs, and there was something just like it in there. Give me a moment to replace it...
+13822: All finished! Let's give it a try, shall we?
+13823: Get ready to take off!
+13824: Huh!? The chocobos! Waitaru!
+13825: I made a slight mistake with the tuning. Here, I'll fix it right away.
+13826: There, it should be fine now.
+13827: Well? Care to give it a try?
+13828: (I'd be scared too if I were you...)
+13829: Alright! It worked!
+13830: Okay now, I want you to use it.
+13831: I thoughtaru you were making this for yourself, Jeridade.
+13832: This Levitus... Oh, that seems to be this mount's name. It's carved into the seat.
+13833: Anyways, I'll make my own once I develop a new engine. I think I can use the old one for reference.
+13834: Now then... I need to go out and get some parts.
+13835: Jeridade! What's got you all excited now!?
+13836: Hey! Stop! Don't you run away from me!
+13837: Ahh... Looks like he got away...
+13838: I wonder how this can be register-wegistered in your $3...
+13839: Hm? This hasn't been registered in your $3 yet!?
+13840: That reminds me... Didn't it just register itself automatically last time?
+13841: The $3... I guess there's something about these older vehicles. I better have Jeridade look into the matter-watter in more detail!
+13842: Hmm... What is the meaning of this...
+13843: For now, it looks like you can summon-wummon it, so I'll ask Jeridade about it. I'll be sure to research it myself too!
+13844: x=$0 y=$1 z=$2
+13845: Ah, how lovely! Let me register your $0 in your $3.
+13846: Amazing-wazing! That's $0!
+13847: Wait...I remember reading-weading about the legendary noble chocobos in a treatise by the esteemed Markovich. "Legendary Chocobos of Our Time," I believe that title was.
+13848: Chocobos with such cherry-colored coatarus are of royal lineage and are only born during very specific times of the year.
+13849: You must be very special-wecial indeed to have procured such a wonderful companion. I hope you enjoy them!
+13850: Oh, what I wouldn't give to ride one!
+13851: At the very least, please let me pet them!
+13852: Either way, let me register your $3.
+13853: With this, you should now be able to mount [a chocobo/a raptor/a tiger/a crab/a red crab/a bomb/a sheep/a morbol/a crawler/Fenrir/a beetle/a moogle/a magic pot/a tulfaire/a warmachine/a xzomit/a hippogryph/a spectral chair/a spheroid/Omega/a coeurl/a goobbue/a raaz/Levitus/an adamantoise/a dhalmel/a doll/a golden bomb/a buffalo/a wivre/a red raptor/an iron giant/Byakko/a noble chocobo/an ixion/a phuabo/a craklaw/an alicorn/a bubble crab].
+13854: Ahh, welcome. Did you happen-wappen to bring an astral notebook with you?
+13855: It appears not. Although, I see you have something else you wish for me to take a looksie-wooksie at.
+13856: Now then, let me see what you've got there...
+13857: <Player> showed the $3.
+13858: Hmm... Yes, I see... Oh no!
+13859: It seems-weems that I've done it again...
+13860: Anyways, this appears to be rather old music. Indeed, it has piqued my interestaru.
+13861: Of course, I'm no archaeologistaru or anything. Please tell me if you learn anything new.
+13862: Hey! That's the $3! Allow me to register-wegister it in the $3.
+13863: Hmm... It's not working for some reason. Please give me a momentaru to check it out.
+13864: What is going on here? Oh no, not again!
+13865: It seems I was careless-wareless.
+13866: Huh? The music-wusic from before was decoded and registered!?
+13867: I see... People from the pastaru must've performed the same research I did...
+13868: Just thinking about it fills me with a sense-wense of romanticism.
+13869: Okay! I've got to give it my very best effortaru!
+13870: Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it.
+13871: Thank you so much for your donation. This will save many a life in these trying times.
+13872: Thank you so much for your donation. This will save many a life in these trying times.B
+13873: Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later.
+13874: Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own.
+13875: Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+13876: Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+13877: Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+13878: I should have more than enough concoctions for my current needs.
+13879: I should have more than enough $0 for my current needs.
+13880: Let us hope that those at Salahaam's Sentinels keep up their end of the bargain...
+13881: Ah. And you must be...
+13882: <Player>. Of course. Your reputation precedes you.
+13883: I am well aware of the deeds you have performed for me via your connections in Salaheem's Sentinels.
+13884: But where are my manners? I have yet to introduce myself.
+13885: I am Elijah, but a humble member of the Adventurers' Mutual Aid Network (A.M.A.N.).
+13886: I have acquired some information about threats that need to be vanquished as part of your excellent work in the Records of Eminence initiative.
+13887: I am loath to admit that these foes may be beneath your station, but I would ask you to remove them nonetheless.
+13888: Accept the request? [Of course./No thanks.]
+13889: You have my gratitude. Allow me to provide you with the relevant intel.
+13890: Unfortunate, but not altogether unexpected.
+13891: Your quarry resides on the continent of Aradjiah.
+13892: Though I would ordinarily rely on local mercenaries for the task, this requires a more...delicate touch.
+13893: I promise that the reward will be worthwhile. Double so if you bring proof of the kill.
+13894: Should you be able to do so, that is...
+13895: While I appreciate your efforts, I am only able to provide you with rewards once per month (Earth time).
+13896: I am positive that we will be able to uncover more threats in the upcoming months.
+13897: Of course, I will provide you with more information as circumstances warrant.
+13898: Once again, your assistance is most appreciated.
+13899: Thank you for setting the appropriate objective.
+13900: May you strike true.
+13901: Elijah smirks at you.
+13902: Well, well, if it isn't my favorite intrepid adventurer, <Player>.
+13903: You seem to have been quite busy of late, what with all the fiend slaying and equipment collecting going on.
+13904: And in between all your marauding, you still found time to deal with Falak. Heroism truly is your most impressive attribute.
+13905: You've really helped me to regain my faith in humanity.
+13906: And given your track record and breadth of talents, I would ask another favor of you.
+13907: And just as before, this will be handled via Records of Eminence. Have to make sure all the Is are dotted and the Ts crossed, as you know.
+13908: For you see, the fiends I hunt are not just limited to Aradjiah.
+13909: Although it does seem they aimed to break a particular seal...
+13910: ...this time they aim to lay claim to the World Eater Egg. No, this simply will not do.
+13911: This goes directly against the will of my master, and I shall suffer none to cross him.
+13912: I trust you will vanquish this threat with all due haste.
+13913: We're counting on you, hero.
+13914: Pleasure as always, <Player>.
+13915: Your fervor in vanquishing those which threaten us all has not gone unappreciated.
+13916: Although perhaps you were only assisting me for baubles and glory rather than righteousness and justice, I must thank you all the same.
+13917: So without further ado, permit me to introduce you to your next targets.
+13918: You are to make for Aydeewa and Arrapago.
+13919: It appears that the dead have redoubled their efforts to usher in the egg's hatching, and it has already been brought to the reef.
+13920: And if we can hinder their efforts...well, suffice it to say that my lord will be quite pleased indeed.
+13921: Though I would normally be content to leave the dead well alone, I fear that his will is indeed absolute in this matter.
+13922: Of course, I need not tell you that for every one you strike down two more will doubtless take its place. I can think of no task more Sisyphean.
+13923: Were it up to me, I would see the entire place set ablaze.
+13924: I must admit that my mental health has taken a turn for the better knowing I can count on you to handle this issue.
+13925: I must remain resolute, for it will not be much longer before my plans come to full fruition.
+13926: But I am vexed that my comrades--my lord's right-hand troops--have been lax in their reporting of late.
+13927: Doubtless they have their hands full. May the will of my lord be done.
+13928: Goddesspeed, hero.
+13929: Why won't the dead just stay dead? This goes against all our calculations.
+13930: Perhaps they fear my lord's wrath and deemed their chances best on this side of the veil.
+13931: Ah, my erstwhile friend! You couldn't have arrived at a more fortuitous time.
+13932: At risk of sounding like a broken orchestrion, I confess that I require your assistance once more.
+13933: I had been under the impression that the dead were set on returning here, to the world of the living--but it appears I was mistaken.
+13934: What their true aim is remains yet a mystery, but one thing is certain--their leader possesses an immense power that defies expectations. Their plans must not be allowed to succeed.
+13935: I say this not to diminish the vast capabilities of my master, but to demonstrate to you the commitment of my colleagues and I to ensuring that their machinations bear no fruit.
+13936: Yet as the field of battle expands, our forces find themselves stretched increasingly thin. Even my master is vexed at where best to concentrate our efforts.
+13937: And so my master created--employed--new soldiers to aid in the efforts. Prompt though their reports were, I found the content thereof to be impudent at best.
+13938: "Stop yapping and clean up the stragglers. Those are your orders, and you'd best follow them."
+13939: The audacity! Whether they are right or not is immaterial--their tone is completely unaccpetable.
+13940: Ugh. To think they get to me so easily...
+13941: The will of my master is paramount. If we are to clean up the "stragglers," then so be it.
+13942: I will fill my charge without fail.
+13943: I have taken the liberty of preparing a list of your next targets.
+13944: Though information on previous marks was collected by my underlings, this time I have taken it upon myself to collate the necessary materials.
+13945: Fear not. It is as accurate as the previous entries. I take my job quite seriously.
+13946: It remains to be seen why our foes are mustering their forces here in Vana'diel.
+13947: Ah, but you fancy yourself a defender of Vana'diel, do you not? How quaint.
+13948: I wish you the best of luck.
+13949: What is this? You wish to know if I'm familiar with a black-clad Goblin?
+13950: Yes, I have had the displeasure. A more uncouth specimen I have never come across.
+13951: But if you're going to wallow in the mud like a pig, then it was only appropriate that I gave them an appropriate porcine companion...so I introduced them to Shami.
+13952: Pleasure to see you, <Player>. How are those two pig-headed buffoons doing?
+13953: "What buffoons?" Why, Shami and Shemo, of course.
+13954: I sent them that accursed Goblin and their accompanying retinue. Filth loves its own kind.
+13955: Hahaha... Tell me how that turned out?
+13956: Wh-what? Not only were the Goblin team not there, but then Duke Alloces...?
+13957: But if the gate is closed, then it stands to reason that Duke Alloces shouldn't even be here!
+13958: Ugh. This is why you can never trust anything to a low-level demon.
+13959: But setting that small matter aside... You are after more information on the World Eater Egg, are you not?
+13960: You must wonder what this means for the baneful dead.
+13961: Worry not. I have prepared a list of more targets for you.
+13962: Haha... Surely each one you banish brings a little bit more peace back to Vana'diel.
+13963: Perhaps you have already surmised my true identity, but it is too late for you to turn back now.
+13964: After all, the proverbial contract has already been signed.
+13965: Hoho...a deal with the devil is not so easily overturned...at least not without paying the ultimate price.
+13966: And with what you now know about some of the world's ugly truths, well...
+13967: And that lovely retinue who depends on you oh-so-much will surely come through for you in the end.
+13968: And of course, my lord Odin is depending on you as well.
+13969: And I'm sure none of us want these targets to be in cahoots with Garazu-Horeizu, correct?
+13970: Betrayal will be deemed a failure to fulfill the obligations of your contract. Surely I need not say more.
+13971: So keep doing what you do best, and there will be no problems.
+13972: Ah, and one last thing. If you try to flee, or tell anyone who we really are, it will not end well for you.
+13973: This, too, would be an egregious violation of the terms of our little "agreement."
+13974: You see, <Player>, we have eyes and ears in every corner of Vana'diel.
+13975: And we are always watching...listening...
+13976: Ah, <Player>. Somehow, I knew you would come.
+13977: The sealing of the gate has been quite the catalyst. Wouldn't you agree?
+13978: My understanding is that you are working together with Skokkr to reforge the Prime Weapons, are you not?
+13979: My understanding is that you have worked together with Skokkr and succeeded in reforging a Prime Weapon, have you not?
+13980: I wish you all the best in your journey to vanquish Chaos. After all, the Prime Weapons are the keys.
+13981: Your Prime Weapon holds the key to besting Chaos, as you doubtless already know.
+13982: But I would advise you one thing: the Prime Weapons belong to my master, and my master alone.
+13983: And when they return to him, I have no doubt that they will make their way into my hands...as my just reward for all I have accomplished.
+13984: Oh, yes. The time for me to wield the Prime Weapons is close at hand.
+13985: In fact, this puts me in the mood for a rousing tale. A secondhand tale, so I leave the analysis of its veracity to you.
+13986: 5000 years ago, the Prime Weapons were made manifest after an eternity of trial and error.
+13987: Those in charge searched endlessly for a way to figure out how to stop Chaos from devouring the astral plane.
+13988: Of course, that was eons ago, so the exact time frame isn't clear, but I am led to believe that over one hundred years of effort were poured into this endeavor.
+13989: It started with research into souls that hungered for more. A contract between them was established.
+13990: But those initial results were...disappointing. More pure souls were required.
+13991: I need not spell out for you what that implied.
+13992: Many souls were snuffed out on the altar of progress, irrevocably removed from the cycle of life and death.
+13993: And that is how those involved eventually arrived at the idea of imbuing souls into implements of power.
+13994: If those souls are angered or cry out for vengeance, well...I'm sure that manifests itself in the potency of the armament.
+13995: Perhaps that is why the Prime Weapons gleam with that beautiful obsidian light.
+13996: Why, it is positively inspiring! Surely you wish to brandish them in battle even more than before.
+13997: Ah, but we have time for one more tale. You know of the relic weapons, correct?
+13998: My master conceived them during Ragnarok, and they contain the souls of the enlightened races.
+13999: My master chose only the strongest from among those who proffered themselves up in his service.
+14000: They cried out for succor. Who were we to deny them?
+14001: Why, we were even able to help them defend their kingdoms, although perhaps in a different way than they had envisioned.
+14002: Not that those nations exist anymore, mind you.
+14003: That is enough stories for one day.
+14004: I trust you found it a pleasant enough diversion, but now I bid you return to the task at hand.
+14005: My success is linked to your success, after all. And I have new targets for you to hunt.
+14006: Yes...I can feel it. The Prime Weapons will soon be mine to wield...
+14007: Elijah smiles at you.
+14008: Elijah begins laughing boisterously!
+14009: <Player>. I must confess, I thought you had forgotten about me.
+14010: We are at our watershed moment. I promise to be brief.
+14011: As you are eminently aware, Garazu-Horeizu is on the move.
+14012: Of course, we have no choice but to answer in kind.
+14013: Yet moving too hastily has caused the downfall of many, so I would ask for your aid once more.
+14014: The first issue is dealing with the defectors amongst the beastmen who have joined forces with Chaos.
+14015: Unfortunately, their contingent is present not only in the Middle Lands, but Aht Urhgan and the Far East as well.
+14016: With the enemy spread out across the world, I have had to dispatch some of my most loyal retainers to the far reaches of the globe.
+14017: While they are dealing with the threat above, you will deal with Garazu-Horeizu at the gate between this world and the next.
+14018: Of course, this will allow the gate to be opened.
+14019: I will take up the rear guard, so you have not to fear.
+14020: Ah, but perhaps you are concerned that my protection alone may prove insufficient.
+14021: Are you concerned? [Of course!/Of course not!]
+14022: Then we shall continue along the same path we have traveled to date.
+14023: Oho. I may not have a Prime Weapon, but I promise that my skills are more than sufficient.
+14024: Then we have our tasks. Let us see them through.
+14025: This is our watershed moment. We must defeat Garazu-Horeizu and his minions.
+14026: Best of luck to us all.
+14027: <Player>. It has been a spell, hasn't it?
+14028: You did well in ridding us of Garazu-Horeizu and Chaos.
+14029: I would venture to say that your performance exceeded my wildest expectations.
+14030: So much so, in fact, that I find myself at a bit of a loss.
+14031: The original plan involved my master having a bit more of a...pivotal role in the aftermath, so to speak.
+14032: But you kept all the best parts for yourself.
+14033: Still, he was quite pleased with how you presented yourself during the entire ordeal.
+14034: And my efforts were rewarded in turn, as I have been permitted to remain in this world for a spell.
+14035: A curse in disguise, if you will, for I had hoped to return to his side.
+14036: Yet you deserve to know a little bit more...perhaps my true name. Consider it a gift.
+14037: I am Markgraf Eligos, and I serve as one of Odin's elite.
+14038: May our relationship remain as fruitful going forward as it has been to date.
+14039: Yes, "going forward," as I still have the usual tasks for you to fulfill.
+14040: Though Garazu-Horeizu no longer poses a threat, his hypnosis magic has still not completely dissipated from the land.
+14041: And given the details of our pact, that means you still have your end to hold up.
+14042: The pact cannot be broken, but rest assured that you will continue to be rewarded.
+14043: The terms should be familiar to you by now. Continue to serve.
+14044: And just to reiterate--there is no way to escape your obligation.
+14045: I wish you the best of luck...
+14046: ...and trust you will continue to meet the terms of our deal.
+14047: Keep at it.
+14048: Good day, <Player>.
+14049: It seems you have been quite busy cleaning up the riff-raff.
+14050: The A.M.A.N. has reported to me that your data has come in quite handy--and that you have filled all the tasks I have required of you.
+14051: What's this? You wish to discuss it further?
+14052: Ah, you wish to receive additional rewards for vanquishing what threats remain. I see, I see.
+14053: And you have been unsuccessful in your efforts to procure such rewards, no?
+14054: For when you defeat them, they keep coming back?
+14055: Forgive me for laughing, but you are aware that you are asking for rewards for killing that which is already dead.
+14056: They are of a different world than ours, after all, and trapping them in this one is a fool's errand.
+14057: But I do admire your gumption.
+14058: I am not an unreasonable man. If you are able to best them again if and when they should appear in our plane, then who am I to deny you an extra prize?
+14059: Then I shall prepare some more objectives for you to sink your teeth into. That strikes me as fair, wouldn't you agree?
+14060: Let us set the rate: one additional reward for every three objectives completed.
+14061: After all, what adventurer does not love rewards, hmm? Just don't get yourself offed in the process.
+14062: Oh, yes, and be aware that the additional reward can only be earned monthly (Earth time).
+14063: Just keep doing what you're doing.
+14064: Good day, <Player>.
+14065: Oh, worry not. Your achievements have not gone without notice.
+14066: Here are your additional rewards.
+14067: May our paths cross again soon.
+14068: Good day, <Player>.
+14069: "Additional rewards?" Surely you do not think you have earned any.
+14070: Remember that your contract with me must be carried out in full.
+14071: Good day, <Player>.
+14072: You may consider your monthly duties filled. As always, your support is greatly appreciated.
+14073: Hopefully our paths will cross again next month.
+14074: Perhaps it would behoove you to speak with Rolandienne in Southern San d'Oria (G-10).
+14075: Perhaps it would behoove you to speak with Isakoth in Bastok Markets (E-11).
+14076: Perhaps it would behoove you to speak with Fhelm Jobeizat in Windurst Woods (J-10).
+14077: Perhaps it would behoove you to speak with Eternal Flame in Western Adoulin (H-11).
+14078: Perhaps it would behoove you to speak with Nantoto in Lower Jeuno (H-8).
+14079: Invisible eyes upon you cause the hairs on the back of your neck to rise.
+14080: The $3 nods in agreement.
+14081: A new Records of Eminence objective is now available!
+14082: A new Records of Eminence objective, "$0," is now available!
+14083: You wish to exchange your sparks?
+14084: Wait but a moment. Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.
+14085: Ah, this almost slipped my mind. Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.
+14086: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.
+14087: Thanks to your donation, I now have $1 $0 in safekeeping.
+14088: Ohohoho... Turning in sparks, I see.
+14089: Hold your hoarder hares, [hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer. Ahhh, here it is. Have a look-see.
+14090: Oh, crud, that's right. You should trade me any special artifacts you get from completing objectives.
+14091: "Why?" What a good question! Because I'll give you a nifty-difty reward at some point, that's why.
+14092: Thanks for doing what I asked. Now I have a total of $1 $0 from you.
+14093: You want to trrrade in sparks, do you?
+14094: Let me wake up from my catnap first... Alright, now rrread this.
+14095: Wait, wait, wait! If you happen to get any purrrticularly interesting items from completing objectives, send them my way.
+14096: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...
+14097: ...but I don't want to make fur fly with the Adventurers' Mutual Aid Network, so I'll do my job like a good little kitty.
+14098: Grrreat! Now I have $1 $0 from you. Thanks!
+14099: Hm? Oh, spark exchange... Of course.
+14100: I'm not completely sure, but this might help set some things straight...I guess.
+14101: Let me add one thing. Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives.
+14102: I'll make it worth your while...I swear! Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day.
+14103: Thanks for doing your part in the battle for love and peace! With this latest addition, I'm now keeping track of $1 $0 for you.
+14104: "Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation.
+14105: "To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy.
+14106: "You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time.
+14107: "Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually.
+14108: "As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can.
+14109: "Lastly, any and all acts of vandalism directed against your $3 are strictly prohibited.
+14110: "Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you."
+14111: The maximum number of $0 that may be stored is $1.
+14112: You do not possess enough $0 to complete the transaction.
+14113: You do not possess enough sparks of eminence to complete the transaction.
+14114: You have reached the maximum number of sparks that you can exchange this week ($0). Your ability to purchase skill books and equipment will be restricted until next week.
+14115: You may use up to $0 more sparks of eminence to purchase items.
+14116: Exchange for what? (Sparks: $0) [Items./Skill-increasing tomes./Equ. Lv.1 - 9. (Up to $")/Equ. Lv.10 - 19. (Up to $")/Equ. Lv.20 - 29. (Up to $")/Equ. Lv.30 - 39. (Up to $")/Equ. Lv.40 - 50. (Up to $")/Equ. Lv.51 - 70. (Up to $")/Equ. Lv.71 - 98. (Up to $")/Equ. Lv.99. (Up to $")/10./Trust./Exchange A.M.A.N. currencies./Exchange Seven Treasures./Wise words on Records of Eminence./Nothing.]
+14117: Exchange up to $" Spa. (Sparks: $0) [$1. ($16)/$2. ($17)/$3. ($18)/$4. ($19)/$5. ($20)/$6. ($21)/$7. ($22)/$8. ($23)/$9. ($24)/$10. ($25)/$11. ($26)/$12. ($27)/$13. ($28)/$14. ($29)/$15. ($30)/Previous page./Next page./None.]
+14118: Receive how many? ($6 spark[/s]) [One. ($1 spark[/s])/Three. ($2 spark[/s])/Twelve. ($3 spark[/s])/Thirty-six. ($4 spark[/s])/None.]
+14119: Are you sure you want to expend $0 spark[/s] of eminence on this?
+14120: Make the exchange? [Yes./No.]
+14121: Exchange for what? (On hand: $0) [Currencies./Provisions./None for the nonce.]
+14122: Exchange for what? (On hand: $0) [Sparks of Eminence: $1./Conquest Points: $2./Imperial Standing: $3./Allied Notes: $4./Bayld: $5./Valor Pts.: $6./Aslt. Pts. (Leujaoam): $7./Aslt. Pts. (T. Grounds): $8./Aslt. Pts. (Lebros): $9./Aslt. Pts. (Periqia): $10./Aslt. Pts. (Ilrusi): $11./Cruor: $12./Kinetic Units: $13./Obs. Fragments: $14./M. Plasm Corpuscles: $15./Ballista Points: $16. (2000 max)/Unity Accolades: $17./Escha Silt: $18./Resistance Credits: $19./Nothing for the nonce.]
+14123: Exchange how many points? (On hand: $0) [$1 (One)./$2 (Three)./$3 (Ten)./$4 (Thirty)./None.]
+14124: You now have $1 [sparks of eminence/conquest points/points of imperial standing/Allied Notes/bayld/Fields of Valor points/assault points (Leujaoam)/assault points (Mamool Ja Training Grounds)/assault points (Lebros Cavern)/assault points (Periqia)/assault points (Ilrusi Atoll)/cruor/kinetic units/obsidian fragments/mweya plasm corpuscles/ballista points/Unity accolades/pinches of Escha silt/resistance credits].
+14125: Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether.
+14126: Exchange for what? (On hand: $0) [$1./$2./$3./Nothing for the nonce.]
+14127: Exchange how many? (On hand: $0) [One ($1)./Three ($2)./Ten ($3)./Thirty ($4)./None.]
+14128: Truly exchange $0 ($2)?
+14129: Are you quite satisfied with your selection?
+14130: You wish to exchange $6, $6, $6, $6, $6, and $6 for equipment?
+14131: Exchange for what? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Previous page./Next page./Nothing for the nonce.]
+14132: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.
+14133: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.
+14134: Once you accumulate $0 of these marks, they will be automatically converted to one $1 and added to the total number held.
+14135: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.
+14136: Would you like $0 reclamation mark[/s] in exchange for one $1? You currently have $5 mark[/s].
+14137: Proceed with the exchange? [Yes./No.]
+14138: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2.
+14139: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2. The number of $1 stored has increased by $3.
+14140: You are unable to trade that item at present.
+14141: You are unable to trade that item because you cannot store any more $1.
+14142: Only those participating in Records of Eminence may trade in items.
+14143: You can't shake the feeling that you may be able to learn about Ygnas's whereabouts somewhere in this area.
+14144: Speak with Ploh Trishbahk at Castle Adoulin's front gates (K-9) and report what you have learned about Ygnas.
+14145: Welcome to the Deeds of Heroism rewards exchange service!
+14146: What would you like to do? [Claim a reward (~960 deeds)./Claim a reward (970+ deeds)./Use an A.M.A.N. voucher./Receive a $20305./What are Deeds of Heroism?/Leave.]
+14147: Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence.
+14148: Once you have accumulated a certain number of Deeds, you can exchange them for various items.
+14149: Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds.
+14150: There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!
+14151: Do you want to use an A.M.A.N. voucher? [$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./What are A.M.A.N. vouchers?/Go back./Leave.]
+14152: If you have an A.M.A.N. voucher for an item such as a $0, you can use it to choose from a list of corresponding items.
+14153: Do you want the $37?
+14154: Do you want $& $0% ?
+14155: Do you want the $3?
+14156: Are you sure you want to proceed? [Yes./No.]
+14157: You do not possess enough Deeds of Heroism to receive this item.
+14158: Exchange for what? [Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Go back./Leave.]
+14159: You will receive the following items in the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] set.
+14160: $36.
+14161: Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]
+14162: Exchange for what? [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Go back./Leave.]
+14163: Are you sure you want the $37? [Yes./No.]
+14164: Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?
+14165: You have already exchanged for this item.
+14166: Which item? (Deeds: $$) [([|/$26]) $17415 x7: 10./([|/$26]) $71214: 20./([|/$26]) $89653: 30./([|/$26]) $3089: 40./([|/$26]) $17415 x14: 50./([|/$26]) $71021: 60./([|/$26]) $0: 70./([|/$26]) $6679: 80./([|/$26]) $72256: 90./([|/$26]) $17933 x5: 100./([|/$26]) $0: 110./([|/$26]) $6680: 120./([|/$26]) $69669: 130./([|/$26]) $17933 x5: 140./([|/$26]) $0: 150./([|/$26]) $6782: 160./([|/$26]) $18177: 170./([|/$26]) $17933 x5: 180./([|/$26]) $0: 190./([|/$26]) $6783: 200./([|/$26]) $75385: 210./([|/$26]) $17933 x5: 220./([|/$26]) $0: 230./([|/$26]) $8030: 240./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+14167: Which item? (Deeds: $$) [([|/$26]) $75386: 250./([|/$26]) $18490 x5: 260./([|/$26]) $0: 270./([|/$26]) $8031: 280./([|/$26]) $19508: 290./([|/$26]) $18490 x5: 300./([|/$26]) $0: 310./([|/$26]) $18491: 320./([|/$26]) $84025: 330./([|/$26]) $18490 x5: 340./([|/$26]) $0: 350./([|/$26]) $18491: 360./([|/$26]) $84252: 370./([|/$26]) $18490 x5: 380./([|/$26]) $0: 390./([|/$26]) $18491: 400./([|/$26]) $85784: 410./([|/$26]) $18490 x5: 420./([|/$26]) $0: 430./([|/$26]) $18492: 440./([|/$26]) $84251: 450./([|/$26]) $18490 x5: 460./([|/$26]) $0: 470./([|/$26]) $20305 480./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+14168: Which item? (Deeds: $$) [([|/$26]) $17415 x10: 490/([|/$26]) $13125: 500./([|/$26]) $18434 x5: 510./([|/$26]) $3089: 520./([|/$26]) $12900 x5: 530./([|/$26]) $17933 x5: 540./([|/$26]) $0: 550./([|/$26]) $6679: 560./([|/$26]) $12921 ~3F 570./([|/$26]) $17933 ~5F 580./([|/$26]) $0F 590./([|/$26]) $6680F 600./([|/$26]) $12922 ~3F 610./([|/$26]) $17933 ~5F 620./([|/$26]) $0F 630./([|/$26]) $6782F 640./([|/$26]) $12923 ~3F 650./([|/$26]) $17933 ~5 F660./([|/$26]) $0F 670./([|/$26]) $6783 F680./([|/$26]) $18433 ~5F 690./([|/$26]) $8030F 700./([|/$26]) $0F 710./([|/$26]) $0F 720./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+14169: Which item? (Deeds: $$) [([|/$26]) $12924 x3F 730./([|/$26]) $18490 ~5F 740./([|/$26]) $0F 750./([|/$26]) $8031F 760./([|/$26]) $12925 ~3F 770./([|/$26]) $18490 ~5F 780./([|/$26]) $0F 790./([|/$26]) $18491F 800./([|/$26]) $12926 ~3F 810./([|/$26]) $18490 ~5F 820./([|/$26]) $0F 830./([|/$26]) $18491F 840./([|/$26]) $13056 ~3F 850./([|/$26]) $18490 ~5F 860./([|/$26]) $0F 870./([|/$26]) $18491F 880./([|/$26]) $13057 ~3F 890./([|/$26]) $18490 ~5F 900./([|/$26]) $0F 910./([|/$26]) $18492F 920./([|/$26]) $12927 ~3F 930./([|/$26]) $18490 ~5F 940./([|/$26]) $0F 950./([|/$26]) $0F 960./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+14170: Exchange for what? [Argosy Armor./Hesychast's Attire/Piety Attire./Archmage's Attire/Vitiation Attire./Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Armor./Futhark Attire./Go back./Leave.]
+14171: You will receive the following items in the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set.
+14172: Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]
+14173: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $85280: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $13126: $22./([-/$26]) $18491: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18491: $27./([-/$26]) $17415~3: $28./([-/$26]) $18434~5: $29./([-/$26]) $13126: $30./([-/$26]) $18492: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
+14174: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $7012: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $17419: $22./([-/$26]) $13125: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18177: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $13126: $30./([-/$26]) $18491: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
+14175: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $18491: $19./([-/$26]) $17415~3: $20./([-/$26]) $18434~5: $21./([-/$26]) $13126: $22./([-/$26]) $18492: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $5132: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $17419: $30./([-/$26]) $13125: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
+14176: Resetting rewards will increase the number of deeds required but will let you reobtain items you have previously received.
+14177: You are able to reset your rewards for $0 deed[/s].
+14178: Reset rewards? [Yes. (Reset #$0)/No.]
+14179: You have not yet received some rewards. Resetting means that you will be unable to obtain them. Are you sure?
+14180: Really reset rewards? [Yes. (Reset #$0)/No.]
+14181: Rewards have been reset.

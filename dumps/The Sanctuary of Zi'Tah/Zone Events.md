@@ -261,89 +261,89 @@
 0000:                                      42 1A 84 05              B...
 0010: 46 01 38 04 80 37 05 80  06 80 07 80 08 80 45 09  F.8..7........E.
 0020: 80 F0 FF FF 7F F0 FF FF  7F 73 30 32 32 0A 80 4A  .........s022..J
-0030: 36 92 07 01 F0 FF FF 7F  77 0B 80 0C 80 1A BA 05  6.......w.......
-0040: 27 0A 36 92 07 01 02 2A  0A 36 92 07 01 1C 0D 80  '.6....*.6......
-0050: 2B 36 92 07 01 0E 80 23  2B 36 92 07 01 0F 80 23  +6.....#+6.....#
-0060: 1C 10 80 27 0A 36 92 07  01 03 2A 0A 36 92 07 01  ...'.6....*.6...
+0030: 35 92 07 01 F0 FF FF 7F  77 0B 80 0C 80 1A BA 05  5.......w.......
+0040: 27 0A 35 92 07 01 02 2A  0A 35 92 07 01 1C 0D 80  '.5....*.5......
+0050: 2B 35 92 07 01 0E 80 23  2B 35 92 07 01 0F 80 23  +5.....#+5.....#
+0060: 1C 10 80 27 0A 35 92 07  01 03 2A 0A 35 92 07 01  ...'.5....*.5...
 0070: 45 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 32 35 0A  E..........s025.
-0080: 80 1C 11 80 66 12 80 36  92 07 01 36 92 07 01 74  ....f..6...6...t
-0090: 6C 6B 30 2B 36 92 07 01  13 80 23 1C 14 80 2B 36  lk0+6.....#...+6
-00A0: 92 07 01 15 80 23 1C 14  80 2B 36 92 07 01 16 80  .....#...+6.....
-00B0: 23 1C 14 80 2B 36 92 07  01 17 80 23 1C 14 80 66  #...+6.....#...f
-00C0: 12 80 36 92 07 01 36 92  07 01 74 6C 6B 31 1C 11  ..6...6...tlk1..
+0080: 80 1C 11 80 66 12 80 35  92 07 01 35 92 07 01 74  ....f..5...5...t
+0090: 6C 6B 30 2B 35 92 07 01  13 80 23 1C 14 80 2B 35  lk0+5.....#...+5
+00A0: 92 07 01 15 80 23 1C 14  80 2B 35 92 07 01 16 80  .....#...+5.....
+00B0: 23 1C 14 80 2B 35 92 07  01 17 80 23 1C 14 80 66  #...+5.....#...f
+00C0: 12 80 35 92 07 01 35 92  07 01 74 6C 6B 31 1C 11  ..5...5...tlk1..
 00D0: 80 52 09 80 F0 FF FF 7F  F0 FF FF 7F 73 30 32 35  .R..........s025
 00E0: 45 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 32 34 0A  E..........s024.
-00F0: 80 1C 18 80 2B 36 92 07  01 19 80 23 2B 36 92 07  ....+6.....#+6..
-0100: 01 1A 80 23 2B 36 92 07  01 1B 80 23 1C 1C 80 5D  ...#+6.....#...]
-0110: 0A 80 10 80 2B 36 92 07  01 1D 80 23 1C 0D 80 2B  ....+6.....#...+
-0120: 36 92 07 01 1E 80 23 1C  18 80 27 0A 37 92 07 01  6.....#...'.7...
-0130: 01 2A 0A 37 92 07 01 2B  37 92 07 01 1F 80 23 5C  .*.7...+7.....#\
+00F0: 80 1C 18 80 2B 35 92 07  01 19 80 23 2B 35 92 07  ....+5.....#+5..
+0100: 01 1A 80 23 2B 35 92 07  01 1B 80 23 1C 1C 80 5D  ...#+5.....#...]
+0110: 0A 80 10 80 2B 35 92 07  01 1D 80 23 1C 0D 80 2B  ....+5.....#...+
+0120: 35 92 07 01 1E 80 23 1C  18 80 27 0A 36 92 07 01  5.....#...'.6...
+0130: 01 2A 0A 36 92 07 01 2B  36 92 07 01 1F 80 23 5C  .*.6...+6.....#\
 0140: 00 20 80 5C 01 20 80 52  09 80 F0 FF FF 7F F0 FF  . .\. .R........
 0150: FF 7F 73 30 32 34 45 09  80 F0 FF FF 7F F0 FF FF  ..s024E.........
-0160: 7F 73 30 32 33 0A 80 4A  36 92 07 01 37 92 07 01  .s023..J6...7...
-0170: 1C 21 80 2B 37 92 07 01  22 80 23 1C 1C 80 27 0A  .!.+7...".#...'.
-0180: 37 92 07 01 02 1C 23 80  45 09 80 F0 FF FF 7F F0  7.....#.E.......
-0190: FF FF 7F 73 30 32 36 0A  80 2B 36 92 07 01 24 80  ...s026..+6...$.
+0160: 7F 73 30 32 33 0A 80 4A  35 92 07 01 36 92 07 01  .s023..J5...6...
+0170: 1C 21 80 2B 36 92 07 01  22 80 23 1C 1C 80 27 0A  .!.+6...".#...'.
+0180: 36 92 07 01 02 1C 23 80  45 09 80 F0 FF FF 7F F0  6.....#.E.......
+0190: FF FF 7F 73 30 32 36 0A  80 2B 35 92 07 01 24 80  ...s026..+5...$.
 01A0: 23 1C 25 80 55 09 80 F0  FF FF 7F F0 FF FF 7F 73  #.%.U..........s
 01B0: 30 32 36 45 09 80 F0 FF  FF 7F F0 FF FF 7F 73 30  026E..........s0
-01C0: 32 37 0A 80 4A 37 92 07  01 36 92 07 01 1C 0D 80  27..J7...6......
-01D0: 4A 36 92 07 01 37 92 07  01 1C 18 80 66 26 80 37  J6...7......f&.7
-01E0: 92 07 01 37 92 07 01 74  68 6B 30 2B 37 92 07 01  ...7...thk0+7...
-01F0: 27 80 23 2B 37 92 07 01  28 80 23 66 29 80 37 92  '.#+7...(.#f).7.
-0200: 07 01 37 92 07 01 6E 67  74 30 2B 37 92 07 01 2A  ..7...ngt0+7...*
-0210: 80 23 2B 37 92 07 01 2B  80 23 66 2C 80 36 92 07  .#+7...+.#f,.6..
-0220: 01 36 92 07 01 74 6C 64  30 2B 36 92 07 01 2D 80  .6...tld0+6...-.
-0230: 23 66 29 80 37 92 07 01  37 92 07 01 6E 67 74 31  #f).7...7...ngt1
-0240: 2B 37 92 07 01 2E 80 23  2B 36 92 07 01 2F 80 23  +7.....#+6.../.#
-0250: 2B 36 92 07 01 30 80 23  66 2C 80 36 92 07 01 36  +6...0.#f,.6...6
-0260: 92 07 01 74 6C 64 31 1C  0D 80 2B 36 92 07 01 31  ...tld1...+6...1
-0270: 80 23 66 29 80 37 92 07  01 37 92 07 01 6E 67 74  .#f).7...7...ngt
-0280: 30 2B 37 92 07 01 32 80  23 27 0A 36 92 07 01 04  0+7...2.#'.6....
-0290: 2A 0A 36 92 07 01 45 09  80 F0 FF FF 7F F0 FF FF  *.6...E.........
-02A0: 7F 73 30 32 38 0A 80 1C  0D 80 2B 36 92 07 01 33  .s028.....+6...3
-02B0: 80 23 66 29 80 37 92 07  01 37 92 07 01 6E 67 74  .#f).7...7...ngt
-02C0: 31 1C 14 80 2B 36 92 07  01 34 80 23 1C 14 80 2B  1...+6...4.#...+
-02D0: 36 92 07 01 35 80 23 1C  21 80 2B 36 92 07 01 36  6...5.#.!.+6...6
-02E0: 80 23 2B 36 92 07 01 37  80 23 1C 0D 80 2B 36 92  .#+6...7.#...+6.
-02F0: 07 01 38 80 23 1C 0D 80  4A 36 92 07 01 37 92 07  ..8.#...J6...7..
+01C0: 32 37 0A 80 4A 36 92 07  01 35 92 07 01 1C 0D 80  27..J6...5......
+01D0: 4A 35 92 07 01 36 92 07  01 1C 18 80 66 26 80 36  J5...6......f&.6
+01E0: 92 07 01 36 92 07 01 74  68 6B 30 2B 36 92 07 01  ...6...thk0+6...
+01F0: 27 80 23 2B 36 92 07 01  28 80 23 66 29 80 36 92  '.#+6...(.#f).6.
+0200: 07 01 36 92 07 01 6E 67  74 30 2B 36 92 07 01 2A  ..6...ngt0+6...*
+0210: 80 23 2B 36 92 07 01 2B  80 23 66 2C 80 35 92 07  .#+6...+.#f,.5..
+0220: 01 35 92 07 01 74 6C 64  30 2B 35 92 07 01 2D 80  .5...tld0+5...-.
+0230: 23 66 29 80 36 92 07 01  36 92 07 01 6E 67 74 31  #f).6...6...ngt1
+0240: 2B 36 92 07 01 2E 80 23  2B 35 92 07 01 2F 80 23  +6.....#+5.../.#
+0250: 2B 35 92 07 01 30 80 23  66 2C 80 35 92 07 01 35  +5...0.#f,.5...5
+0260: 92 07 01 74 6C 64 31 1C  0D 80 2B 35 92 07 01 31  ...tld1...+5...1
+0270: 80 23 66 29 80 36 92 07  01 36 92 07 01 6E 67 74  .#f).6...6...ngt
+0280: 30 2B 36 92 07 01 32 80  23 27 0A 35 92 07 01 04  0+6...2.#'.5....
+0290: 2A 0A 35 92 07 01 45 09  80 F0 FF FF 7F F0 FF FF  *.5...E.........
+02A0: 7F 73 30 32 38 0A 80 1C  0D 80 2B 35 92 07 01 33  .s028.....+5...3
+02B0: 80 23 66 29 80 36 92 07  01 36 92 07 01 6E 67 74  .#f).6...6...ngt
+02C0: 31 1C 14 80 2B 35 92 07  01 34 80 23 1C 14 80 2B  1...+5...4.#...+
+02D0: 35 92 07 01 35 80 23 1C  21 80 2B 35 92 07 01 36  5...5.#.!.+5...6
+02E0: 80 23 2B 35 92 07 01 37  80 23 1C 0D 80 2B 35 92  .#+5...7.#...+5.
+02F0: 07 01 38 80 23 1C 0D 80  4A 35 92 07 01 36 92 07  ..8.#...J5...6..
 0300: 01 52 09 80 F0 FF FF 7F  F0 FF FF 7F 73 30 32 38  .R..........s028
 0310: 45 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 32 39 0A  E..........s029.
-0320: 80 1C 25 80 2B 37 92 07  01 39 80 23 66 29 80 37  ..%.+7...9.#f).7
-0330: 92 07 01 37 92 07 01 75  6E 7A 30 2B 37 92 07 01  ...7...unz0+7...
+0320: 80 1C 25 80 2B 36 92 07  01 39 80 23 66 29 80 36  ..%.+6...9.#f).6
+0330: 92 07 01 36 92 07 01 75  6E 7A 30 2B 36 92 07 01  ...6...unz0+6...
 0340: 3A 80 23 52 09 80 F0 FF  FF 7F F0 FF FF 7F 73 30  :.#R..........s0
 0350: 32 39 45 09 80 F0 FF FF  7F F0 FF FF 7F 73 30 33  29E..........s03
-0360: 31 0A 80 1C 3B 80 2B 37  92 07 01 3C 80 23 1C 0D  1...;.+7...<.#..
-0370: 80 2B 37 92 07 01 3D 80  23 1C 1C 80 2B 37 92 07  .+7...=.#...+7..
-0380: 01 3E 80 23 1C 3F 80 2B  37 92 07 01 40 80 23 66  .>.#.?.+7...@.#f
-0390: 04 80 37 92 07 01 37 92  07 01 74 6C 6B 30 2B 37  ..7...7...tlk0+7
-03A0: 92 07 01 41 80 23 1C 3F  80 66 0A 80 36 92 07 01  ...A.#.?.f..6...
-03B0: 36 92 07 01 74 6C 6B 30  2B 36 92 07 01 42 80 23  6...tlk0+6...B.#
+0360: 31 0A 80 1C 3B 80 2B 36  92 07 01 3C 80 23 1C 0D  1...;.+6...<.#..
+0370: 80 2B 36 92 07 01 3D 80  23 1C 1C 80 2B 36 92 07  .+6...=.#...+6..
+0380: 01 3E 80 23 1C 3F 80 2B  36 92 07 01 40 80 23 66  .>.#.?.+6...@.#f
+0390: 04 80 36 92 07 01 36 92  07 01 74 6C 6B 30 2B 36  ..6...6...tlk0+6
+03A0: 92 07 01 41 80 23 1C 3F  80 66 0A 80 35 92 07 01  ...A.#.?.f..5...
+03B0: 35 92 07 01 74 6C 6B 30  2B 35 92 07 01 42 80 23  5...tlk0+5...B.#
 03C0: 1C 10 80 52 09 80 F0 FF  FF 7F F0 FF FF 7F 73 30  ...R..........s0
 03D0: 33 31 45 09 80 F0 FF FF  7F F0 FF FF 7F 73 30 33  31E..........s03
 03E0: 32 0A 80 1C 10 80 45 09  80 F0 FF FF 7F F0 FF FF  2.....E.........
-03F0: 7F 73 30 33 33 0A 80 1C  10 80 66 04 80 37 92 07  .s033.....f..7..
-0400: 01 37 92 07 01 74 6C 6B  31 1C 43 80 2B 37 92 07  .7...tlk1.C.+7..
+03F0: 7F 73 30 33 33 0A 80 1C  10 80 66 04 80 36 92 07  .s033.....f..6..
+0400: 01 36 92 07 01 74 6C 6B  31 1C 43 80 2B 36 92 07  .6...tlk1.C.+6..
 0410: 01 44 80 23 45 09 80 F0  FF FF 7F F0 FF FF 7F 73  .D.#E..........s
-0420: 30 33 32 0A 80 1C 10 80  66 0A 80 36 92 07 01 36  032.....f..6...6
+0420: 30 33 32 0A 80 1C 10 80  66 0A 80 35 92 07 01 35  032.....f..5...5
 0430: 92 07 01 74 65 6E 30 1C  10 80 45 09 80 F0 FF FF  ...ten0...E.....
 0440: 7F F0 FF FF 7F 73 30 33  35 0A 80 1C 10 80 27 0A  .....s035.....'.
-0450: 37 92 07 01 04 2A 0A 37  92 07 01 45 09 80 F0 FF  7....*.7...E....
+0450: 36 92 07 01 04 2A 0A 36  92 07 01 45 09 80 F0 FF  6....*.6...E....
 0460: FF 7F F0 FF FF 7F 73 30  33 34 0A 80 1C 14 80 2B  ......s034.....+
-0470: 37 92 07 01 32 80 23 55  09 80 F0 FF FF 7F F0 FF  7...2.#U........
-0480: FF 7F 73 30 33 34 2B 37  92 07 01 45 80 23 1C 10  ..s034+7...E.#..
-0490: 80 27 0A 37 92 07 01 05  1C 46 80 45 09 80 F0 FF  .'.7.....F.E....
+0470: 36 92 07 01 32 80 23 55  09 80 F0 FF FF 7F F0 FF  6...2.#U........
+0480: FF 7F 73 30 33 34 2B 36  92 07 01 45 80 23 1C 10  ..s034+6...E.#..
+0490: 80 27 0A 36 92 07 01 05  1C 46 80 45 09 80 F0 FF  .'.6.....F.E....
 04A0: FF 7F F0 FF FF 7F 73 30  33 39 0A 80 1C 1C 80 2B  ......s039.....+
-04B0: 36 92 07 01 47 80 23 7B  36 92 07 01 1C 1C 80 7C  6...G.#{6......|
-04C0: 00 36 92 07 01 2B 36 92  07 01 2D 80 23 1C 10 80  .6...+6...-.#...
-04D0: 27 0A 36 92 07 01 02 7C  01 36 92 07 01 1C 25 80  '.6....|.6....%.
+04B0: 35 92 07 01 47 80 23 7B  35 92 07 01 1C 1C 80 7C  5...G.#{5......|
+04C0: 00 35 92 07 01 2B 35 92  07 01 2D 80 23 1C 10 80  .5...+5...-.#...
+04D0: 27 0A 35 92 07 01 02 7C  01 35 92 07 01 1C 25 80  '.5....|.5....%.
 04E0: 45 09 80 F0 FF FF 7F F0  FF FF 7F 73 30 32 32 0A  E..........s022.
-04F0: 80 2A 0A 36 92 07 01 1C  25 80 2B 36 92 07 01 48  .*.6....%.+6...H
-0500: 80 23 2B 36 92 07 01 49  80 23 66 0A 80 36 92 07  .#+6...I.#f..6..
-0510: 01 36 92 07 01 70 61 73  30 1C 10 80 4A 36 92 07  .6...pas0...J6..
-0520: 01 37 92 07 01 66 0A 80  36 92 07 01 36 92 07 01  .7...f..6...6...
-0530: 74 6C 6B 31 1C 10 80 2B  36 92 07 01 4A 80 23 1C  tlk1...+6...J.#.
-0540: 1C 80 66 0A 80 36 92 07  01 36 92 07 01 74 65 6E  ..f..6...6...ten
-0550: 31 27 0A 36 92 07 01 05  1C 4B 80 5D 0A 80 21 80  1'.6.....K.]..!.
+04F0: 80 2A 0A 35 92 07 01 1C  25 80 2B 35 92 07 01 48  .*.5....%.+5...H
+0500: 80 23 2B 35 92 07 01 49  80 23 66 0A 80 35 92 07  .#+5...I.#f..5..
+0510: 01 35 92 07 01 70 61 73  30 1C 10 80 4A 35 92 07  .5...pas0...J5..
+0520: 01 36 92 07 01 66 0A 80  35 92 07 01 35 92 07 01  .6...f..5...5...
+0530: 74 6C 6B 31 1C 10 80 2B  35 92 07 01 4A 80 23 1C  tlk1...+5...J.#.
+0540: 1C 80 66 0A 80 35 92 07  01 35 92 07 01 74 65 6E  ..f..5...5...ten
+0550: 31 27 0A 35 92 07 01 05  1C 4B 80 5D 0A 80 21 80  1'.5.....K.]..!.
 0560: 1A 84 05 46 00 78 1A BA  05 45 4C 80 F8 FF FF 7F  ...F.x...EL.....
 0570: F8 FF FF 7F 71 73 74 63  0A 80 5C 00 4D 80 5C 01  ....qstc..\.M.\.
 0580: 4D 80 21 00 45 4E 80 F8  FF FF 7F F8 FF FF 7F 66  M.!.EN.........f
@@ -363,193 +363,193 @@
   3: 0x0012 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
   4: 0x0015 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=22.592*, z=86.865*, y=1.070*, direction=277.6°*
   5: 0x001E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
-  6: 0x002F [0x4A] Carmelo (ID: 17273398/0x01079236) looks at LocalPlayer
+  6: 0x002F [0x4A] Carmelo (ID: 17273397/0x01079235) looks at LocalPlayer
   7: 0x0038 [0x77] SET_EVENT_TIME_WEATHER(hour=17*, weather=1*)
   8: 0x003D [0x1A] CALL_SUBROUTINE(address=0x05BA)
-  9: 0x0040 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273398/0x01079236), tag_num=0x02)
- 10: 0x0047 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273398/0x01079236))
+  9: 0x0040 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273397/0x01079235), tag_num=0x02)
+ 10: 0x0047 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273397/0x01079235))
  11: 0x004D [0x1C] WAIT(40* ticks)
- 12: 0x0050 [0x2B] Carmelo (ID: 17273398/0x01079236) [7809*]:
+ 12: 0x0050 [0x2B] Carmelo (ID: 17273397/0x01079235) [7809*]:
     → "I apologize. But...I could not stop thinking about the song."
  13: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0058 [0x2B] Carmelo (ID: 17273398/0x01079236) [7810*]:
+ 14: 0x0058 [0x2B] Carmelo (ID: 17273397/0x01079235) [7810*]:
     → "Before you bury it...may I sing it one last time?"
  15: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0060 [0x1C] WAIT(100* ticks)
- 17: 0x0063 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273398/0x01079236), tag_num=0x03)
- 18: 0x006A [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273398/0x01079236))
+ 17: 0x0063 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273397/0x01079235), tag_num=0x03)
+ 18: 0x006A [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273397/0x01079235))
  19: 0x0070 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
  20: 0x0081 [0x1C] WAIT(150* ticks)
- 21: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=9*
- 22: 0x0093 [0x2B] Carmelo (ID: 17273398/0x01079236) [7811*]:
+ 21: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=9*
+ 22: 0x0093 [0x2B] Carmelo (ID: 17273397/0x01079235) [7811*]:
     → "The earth does bloom with the fragrance of life, The sweet wind awakens us from our strife;"
  23: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x009B [0x1C] WAIT(50* ticks)
- 25: 0x009E [0x2B] Carmelo (ID: 17273398/0x01079236) [7812*]:
+ 25: 0x009E [0x2B] Carmelo (ID: 17273397/0x01079235) [7812*]:
     → "A miracle rides upon a gust of fate In tune with destiny, my true love awaits"
  26: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00A6 [0x1C] WAIT(50* ticks)
- 28: 0x00A9 [0x2B] Carmelo (ID: 17273398/0x01079236) [7813*]:
+ 28: 0x00A9 [0x2B] Carmelo (ID: 17273397/0x01079235) [7813*]:
     → "The grace of the gods brings warmth to the lands And thus breathes life into its timeless sands"
  29: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00B1 [0x1C] WAIT(50* ticks)
- 31: 0x00B4 [0x2B] Carmelo (ID: 17273398/0x01079236) [7814*]:
+ 31: 0x00B4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7814*]:
     → "Miracles rain down from the heavens above And bestow their fine blessing unto my love."
  32: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00BC [0x1C] WAIT(50* ticks)
- 34: 0x00BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=9*
+ 34: 0x00BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=9*
  35: 0x00CE [0x1C] WAIT(150* ticks)
  36: 0x00D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=240*
  37: 0x00E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
  38: 0x00F1 [0x1C] WAIT(140* ticks)
- 39: 0x00F4 [0x2B] Carmelo (ID: 17273398/0x01079236) [7815*]:
+ 39: 0x00F4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7815*]:
     → "My travels with Dariah once brought us here..."
  40: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x00FC [0x2B] Carmelo (ID: 17273398/0x01079236) [7816*]:
+ 41: 0x00FC [0x2B] Carmelo (ID: 17273397/0x01079235) [7816*]:
     → "I can still remember that day. The landscape..."
  42: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0104 [0x2B] Carmelo (ID: 17273398/0x01079236) [7817*]:
+ 43: 0x0104 [0x2B] Carmelo (ID: 17273397/0x01079235) [7817*]:
     → "The soft rustle of the leaves... The rays of light, piercing the darkness of the towering trees... The wind on our cheeks..."
  44: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x010C [0x1C] WAIT(70* ticks)
  46: 0x010F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
- 47: 0x0114 [0x2B] Carmelo (ID: 17273398/0x01079236) [7818*]:
+ 47: 0x0114 [0x2B] Carmelo (ID: 17273397/0x01079235) [7818*]:
     → "But that has all changed. That which remains in my heart is nothing but a memory...and that is all it will ever be."
  48: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x011C [0x1C] WAIT(40* ticks)
- 50: 0x011F [0x2B] Carmelo (ID: 17273398/0x01079236) [7819*]:
+ 50: 0x011F [0x2B] Carmelo (ID: 17273397/0x01079235) [7819*]:
     → "The sands of time never stop flowing. Not for me...or anyone."
  51: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0127 [0x1C] WAIT(140* ticks)
- 53: 0x012A [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273399/0x01079237), tag_num=0x01)
- 54: 0x0131 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Dariah (ID: 17273399/0x01079237))
- 55: 0x0137 [0x2B] Dariah (ID: 17273399/0x01079237) [7820*]:
+ 53: 0x012A [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273398/0x01079236), tag_num=0x01)
+ 54: 0x0131 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Dariah (ID: 17273398/0x01079236))
+ 55: 0x0137 [0x2B] Dariah (ID: 17273398/0x01079236) [7820*]:
     → "That is what I've been trying to tell you."
  56: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x013F [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 124*
  58: 0x0143 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 124*
  59: 0x0147 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=240*
  60: 0x0156 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
- 61: 0x0167 [0x4A] Carmelo (ID: 17273398/0x01079236) looks at Dariah (ID: 17273399/0x01079237)
+ 61: 0x0167 [0x4A] Carmelo (ID: 17273397/0x01079235) looks at Dariah (ID: 17273398/0x01079236)
  62: 0x0170 [0x1C] WAIT(60* ticks)
- 63: 0x0173 [0x2B] Dariah (ID: 17273399/0x01079237) [7821*]:
+ 63: 0x0173 [0x2B] Dariah (ID: 17273398/0x01079236) [7821*]:
     → "That's why we have to make the most of what we are now. Even if that means facing hard times."
  64: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x017B [0x1C] WAIT(70* ticks)
- 66: 0x017E [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273399/0x01079237), tag_num=0x02)
+ 66: 0x017E [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273398/0x01079236), tag_num=0x02)
  67: 0x0185 [0x1C] WAIT(30* ticks)
  68: 0x0188 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
- 69: 0x0199 [0x2B] Carmelo (ID: 17273398/0x01079236) [7822*]:
+ 69: 0x0199 [0x2B] Carmelo (ID: 17273397/0x01079235) [7822*]:
     → "Dariah!?"
  70: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x01A1 [0x1C] WAIT(80* ticks)
  72: 0x01A4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=240*
  73: 0x01B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
- 74: 0x01C4 [0x4A] Dariah (ID: 17273399/0x01079237) looks at Carmelo (ID: 17273398/0x01079236)
+ 74: 0x01C4 [0x4A] Dariah (ID: 17273398/0x01079236) looks at Carmelo (ID: 17273397/0x01079235)
  75: 0x01CD [0x1C] WAIT(40* ticks)
- 76: 0x01D0 [0x4A] Carmelo (ID: 17273398/0x01079236) looks at Dariah (ID: 17273399/0x01079237)
+ 76: 0x01D0 [0x4A] Carmelo (ID: 17273397/0x01079235) looks at Dariah (ID: 17273398/0x01079236)
  77: 0x01D9 [0x1C] WAIT(140* ticks)
- 78: 0x01DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk0" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=10*
- 79: 0x01EB [0x2B] Dariah (ID: 17273399/0x01079237) [7823*]:
+ 78: 0x01DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=10*
+ 79: 0x01EB [0x2B] Dariah (ID: 17273398/0x01079236) [7823*]:
     → "How many years have passed since we last met...?"
  80: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x01F3 [0x2B] Dariah (ID: 17273399/0x01079237) [7824*]:
+ 81: 0x01F3 [0x2B] Dariah (ID: 17273398/0x01079236) [7824*]:
     → "I heard from Gueravrel about what he made you do. I apologize for his foolishness."
  82: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x01FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt0" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=11*
- 84: 0x020A [0x2B] Dariah (ID: 17273399/0x01079237) [7825*]:
+ 83: 0x01FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
+ 84: 0x020A [0x2B] Dariah (ID: 17273398/0x01079236) [7825*]:
     → "But, here you are."
  85: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0212 [0x2B] Dariah (ID: 17273399/0x01079237) [7826*]:
+ 86: 0x0212 [0x2B] Dariah (ID: 17273398/0x01079236) [7826*]:
     → "I knew that you would try hiding the song away from the rest of the world."
  87: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x021A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld0" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=2*
- 89: 0x0229 [0x2B] Carmelo (ID: 17273398/0x01079236) [7827*]:
+ 88: 0x021A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=2*
+ 89: 0x0229 [0x2B] Carmelo (ID: 17273397/0x01079235) [7827*]:
     → "..."
  90: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x0231 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt1" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=11*
- 92: 0x0240 [0x2B] Dariah (ID: 17273399/0x01079237) [7828*]:
+ 91: 0x0231 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt1" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
+ 92: 0x0240 [0x2B] Dariah (ID: 17273398/0x01079236) [7828*]:
     → "It is a lovely melody. It takes me back to the time we traveled through these parts so many years ago."
  93: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0248 [0x2B] Carmelo (ID: 17273398/0x01079236) [7829*]:
+ 94: 0x0248 [0x2B] Carmelo (ID: 17273397/0x01079235) [7829*]:
     → "Dariah... I..."
  95: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0250 [0x2B] Carmelo (ID: 17273398/0x01079236) [7830*]:
+ 96: 0x0250 [0x2B] Carmelo (ID: 17273397/0x01079235) [7830*]:
     → "Not a day has gone by that I did not think of you."
  97: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld1" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=2*
+ 98: 0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld1" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=2*
  99: 0x0267 [0x1C] WAIT(40* ticks)
-100: 0x026A [0x2B] Carmelo (ID: 17273398/0x01079236) [7831*]:
+100: 0x026A [0x2B] Carmelo (ID: 17273397/0x01079235) [7831*]:
     → "But I have changed. Your words and the words of this adventurer have transformed me into a new man."
 101: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x0272 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt0" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=11*
-103: 0x0281 [0x2B] Dariah (ID: 17273399/0x01079237) [7832*]:
+102: 0x0272 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
+103: 0x0281 [0x2B] Dariah (ID: 17273398/0x01079236) [7832*]:
     → "Carmelo..."
 104: 0x0288 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x0289 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273398/0x01079236), tag_num=0x04)
-106: 0x0290 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273398/0x01079236))
+105: 0x0289 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273397/0x01079235), tag_num=0x04)
+106: 0x0290 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273397/0x01079235))
 107: 0x0296 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 108: 0x02A7 [0x1C] WAIT(40* ticks)
-109: 0x02AA [0x2B] Carmelo (ID: 17273398/0x01079236) [7833*]:
+109: 0x02AA [0x2B] Carmelo (ID: 17273397/0x01079235) [7833*]:
     → "I've come to realize that even though we may be apart, you and I both breathe the same air...tread the same soil."
 110: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x02B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt1" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=11*
+111: 0x02B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ngt1" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
 112: 0x02C1 [0x1C] WAIT(50* ticks)
-113: 0x02C4 [0x2B] Carmelo (ID: 17273398/0x01079236) [7834*]:
+113: 0x02C4 [0x2B] Carmelo (ID: 17273397/0x01079235) [7834*]:
     → "We must do our best to treasure the short amount of time we have been given on Vana'diel."
 114: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x02CC [0x1C] WAIT(50* ticks)
-116: 0x02CF [0x2B] Carmelo (ID: 17273398/0x01079236) [7835*]:
+116: 0x02CF [0x2B] Carmelo (ID: 17273397/0x01079235) [7835*]:
     → "The time I spent with you... That is my treasure."
 117: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x02D7 [0x1C] WAIT(60* ticks)
-119: 0x02DA [0x2B] Carmelo (ID: 17273398/0x01079236) [7836*]:
+119: 0x02DA [0x2B] Carmelo (ID: 17273397/0x01079235) [7836*]:
     → "However, I know that many treasures await me still."
 120: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x02E2 [0x2B] Carmelo (ID: 17273398/0x01079236) [7837*]:
+121: 0x02E2 [0x2B] Carmelo (ID: 17273397/0x01079235) [7837*]:
     → "I now know that I must not live my life within my memories. I must set out and make memories anew."
 122: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x02EA [0x1C] WAIT(40* ticks)
-124: 0x02ED [0x2B] Carmelo (ID: 17273398/0x01079236) [7838*]:
+124: 0x02ED [0x2B] Carmelo (ID: 17273397/0x01079235) [7838*]:
     → "I am ready to wind the hands of my clock once again, so that one day, our hands may meet again."
 125: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x02F5 [0x1C] WAIT(40* ticks)
-127: 0x02F8 [0x4A] Carmelo (ID: 17273398/0x01079236) looks at Dariah (ID: 17273399/0x01079237)
+127: 0x02F8 [0x4A] Carmelo (ID: 17273397/0x01079235) looks at Dariah (ID: 17273398/0x01079236)
 128: 0x0301 [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=240*
 129: 0x0310 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 130: 0x0321 [0x1C] WAIT(80* ticks)
-131: 0x0324 [0x2B] Dariah (ID: 17273399/0x01079237) [7839*]:
+131: 0x0324 [0x2B] Dariah (ID: 17273398/0x01079236) [7839*]:
     → "Carmelo... Thank you."
 132: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x032C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "unz0" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=11*
-134: 0x033B [0x2B] Dariah (ID: 17273399/0x01079237) [7840*]:
+133: 0x032C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "unz0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=11*
+134: 0x033B [0x2B] Dariah (ID: 17273398/0x01079236) [7840*]:
     → "You finally understand what I tried to tell you long ago."
 135: 0x0342 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0343 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=240*
 137: 0x0352 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 138: 0x0363 [0x1C] WAIT(20* ticks)
-139: 0x0366 [0x2B] Dariah (ID: 17273399/0x01079237) [7841*]:
+139: 0x0366 [0x2B] Dariah (ID: 17273398/0x01079236) [7841*]:
     → "I have not forgotten the time we spent together. Those memories are my treasure as well."
 140: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x036E [0x1C] WAIT(40* ticks)
-142: 0x0371 [0x2B] Dariah (ID: 17273399/0x01079237) [7842*]:
+142: 0x0371 [0x2B] Dariah (ID: 17273398/0x01079236) [7842*]:
     → "I think that we adventurers are not meant to settle down in one place."
 143: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x0379 [0x1C] WAIT(70* ticks)
-145: 0x037C [0x2B] Dariah (ID: 17273399/0x01079237) [7843*]:
+145: 0x037C [0x2B] Dariah (ID: 17273398/0x01079236) [7843*]:
     → "The time we share drives us to continue on in this vast world. That is why..."
 146: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0384 [0x1C] WAIT(90* ticks)
-148: 0x0387 [0x2B] Dariah (ID: 17273399/0x01079237) [7844*]:
+148: 0x0387 [0x2B] Dariah (ID: 17273398/0x01079236) [7844*]:
     → "...I look forward to the day..."
 149: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x038F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=19*
-151: 0x039E [0x2B] Dariah (ID: 17273399/0x01079237) [7845*]:
+150: 0x038F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=19*
+151: 0x039E [0x2B] Dariah (ID: 17273398/0x01079236) [7845*]:
     → "...when the hands of our clocks come together once again."
 152: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x03A6 [0x1C] WAIT(90* ticks)
-154: 0x03A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=0*
-155: 0x03B8 [0x2B] Carmelo (ID: 17273398/0x01079236) [7846*]:
+154: 0x03A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
+155: 0x03B8 [0x2B] Carmelo (ID: 17273397/0x01079235) [7846*]:
     → "And I will be waiting, Dariah. When you see me again, I will be a new man."
 156: 0x03BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x03C0 [0x1C] WAIT(100* ticks)
@@ -558,66 +558,66 @@
 160: 0x03E3 [0x1C] WAIT(100* ticks)
 161: 0x03E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 162: 0x03F7 [0x1C] WAIT(100* ticks)
-163: 0x03FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Dariah (ID: 17273399/0x01079237), Dariah (ID: 17273399/0x01079237)], work=19*
+163: 0x03FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Dariah (ID: 17273398/0x01079236), Dariah (ID: 17273398/0x01079236)], work=19*
 164: 0x0409 [0x1C] WAIT(130* ticks)
-165: 0x040C [0x2B] Dariah (ID: 17273399/0x01079237) [7847*]:
+165: 0x040C [0x2B] Dariah (ID: 17273398/0x01079236) [7847*]:
     → "Carmelo. There is one thing I want you to know."
 166: 0x0413 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0414 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 168: 0x0425 [0x1C] WAIT(100* ticks)
-169: 0x0428 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=0*
+169: 0x0428 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
 170: 0x0437 [0x1C] WAIT(100* ticks)
 171: 0x043A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 172: 0x044B [0x1C] WAIT(100* ticks)
-173: 0x044E [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273399/0x01079237), tag_num=0x04)
-174: 0x0455 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Dariah (ID: 17273399/0x01079237))
+173: 0x044E [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273398/0x01079236), tag_num=0x04)
+174: 0x0455 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Dariah (ID: 17273398/0x01079236))
 175: 0x045B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 176: 0x046C [0x1C] WAIT(50* ticks)
-177: 0x046F [0x2B] Dariah (ID: 17273399/0x01079237) [7832*]:
+177: 0x046F [0x2B] Dariah (ID: 17273398/0x01079236) [7832*]:
     → "Carmelo..."
 178: 0x0476 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0477 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=240*
-180: 0x0486 [0x2B] Dariah (ID: 17273399/0x01079237) [7848*]:
+180: 0x0486 [0x2B] Dariah (ID: 17273398/0x01079236) [7848*]:
     → "No matter how far apart we may be, my heart will always be with you."
 181: 0x048D [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x048E [0x1C] WAIT(100* ticks)
-183: 0x0491 [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273399/0x01079237), tag_num=0x05)
+183: 0x0491 [0x27] REQ_SET(priority=0x0A, entity_id=Dariah (ID: 17273398/0x01079236), tag_num=0x05)
 184: 0x0498 [0x1C] WAIT(260* ticks)
 185: 0x049B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
 186: 0x04AC [0x1C] WAIT(70* ticks)
-187: 0x04AF [0x2B] Carmelo (ID: 17273398/0x01079236) [7849*]:
+187: 0x04AF [0x2B] Carmelo (ID: 17273397/0x01079235) [7849*]:
     → "Dariah..."
 188: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-189: 0x04B7 [0x7B] Carmelo (ID: 17273398/0x01079236) stops talking
+189: 0x04B7 [0x7B] Carmelo (ID: 17273397/0x01079235) stops talking
 190: 0x04BC [0x1C] WAIT(70* ticks)
-191: 0x04BF [0x7C] Carmelo (ID: 17273398/0x01079236)->Render.Flags2 |= 0x00
-192: 0x04C5 [0x2B] Carmelo (ID: 17273398/0x01079236) [7827*]:
+191: 0x04BF [0x7C] Carmelo (ID: 17273397/0x01079235)->Render.Flags2 |= 0x00
+192: 0x04C5 [0x2B] Carmelo (ID: 17273397/0x01079235) [7827*]:
     → "..."
 193: 0x04CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x04CD [0x1C] WAIT(100* ticks)
-195: 0x04D0 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273398/0x01079236), tag_num=0x02)
-196: 0x04D7 [0x7C] Carmelo (ID: 17273398/0x01079236)->Render.Flags2 |= 0x01
+195: 0x04D0 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273397/0x01079235), tag_num=0x02)
+196: 0x04D7 [0x7C] Carmelo (ID: 17273397/0x01079235)->Render.Flags2 |= 0x01
 197: 0x04DD [0x1C] WAIT(80* ticks)
 198: 0x04E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[240*, 0*]
-199: 0x04F1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273398/0x01079236))
+199: 0x04F1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Carmelo (ID: 17273397/0x01079235))
 200: 0x04F7 [0x1C] WAIT(80* ticks)
-201: 0x04FA [0x2B] Carmelo (ID: 17273398/0x01079236) [7850*]:
+201: 0x04FA [0x2B] Carmelo (ID: 17273397/0x01079235) [7850*]:
     → "I...I do not know how to thank you. You have brought me so much."
 202: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
-203: 0x0502 [0x2B] Carmelo (ID: 17273398/0x01079236) [7851*]:
+203: 0x0502 [0x2B] Carmelo (ID: 17273397/0x01079235) [7851*]:
     → "It is not much, but please take this as a measure of my gratitude."
 204: 0x0509 [0x23] WAIT_FOR_DIALOG_INTERACTION
-205: 0x050A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=0*
+205: 0x050A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
 206: 0x0519 [0x1C] WAIT(100* ticks)
-207: 0x051C [0x4A] Carmelo (ID: 17273398/0x01079236) looks at Dariah (ID: 17273399/0x01079237)
-208: 0x0525 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=0*
+207: 0x051C [0x4A] Carmelo (ID: 17273397/0x01079235) looks at Dariah (ID: 17273398/0x01079236)
+208: 0x0525 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
 209: 0x0534 [0x1C] WAIT(100* ticks)
-210: 0x0537 [0x2B] Carmelo (ID: 17273398/0x01079236) [7852*]:
+210: 0x0537 [0x2B] Carmelo (ID: 17273397/0x01079235) [7852*]:
     → "Now I shall head back to Bastok...and the new life that awaits."
 211: 0x053E [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x053F [0x1C] WAIT(70* ticks)
-213: 0x0542 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten1" with entities [Carmelo (ID: 17273398/0x01079236), Carmelo (ID: 17273398/0x01079236)], work=0*
-214: 0x0551 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273398/0x01079236), tag_num=0x05)
+213: 0x0542 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten1" with entities [Carmelo (ID: 17273397/0x01079235), Carmelo (ID: 17273397/0x01079235)], work=0*
+214: 0x0551 [0x27] REQ_SET(priority=0x0A, entity_id=Carmelo (ID: 17273397/0x01079235), tag_num=0x05)
 215: 0x0558 [0x1C] WAIT(170* ticks)
 216: 0x055B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=60*)
 217: 0x0560 [0x1A] CALL_SUBROUTINE(address=0x0584)

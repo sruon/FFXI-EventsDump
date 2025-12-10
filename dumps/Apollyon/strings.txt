@@ -1,5 +1,5 @@
 # Strings for Apollyon
-# Total: 7317 strings
+# Total: 7331 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7270,7 +7270,7 @@
  7266: What will you do? [Change level and reset./Never mind.]
  7267: Progress has been reset.
  7268: Unrecognized entrant. Please proceed to the Apollyon Operator.
- 7269: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./@/@/@/Nothing for now.]
+ 7269: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./CN Opening.$1./Reforging.@/Nothing for now.]
  7270: Remaining Apollyon Units: $0. Total Apollyon Units: $1/$2.
  7271: The Apollyon Furnace uses data to enhance your equipment.
  7272: Inquire about which? [Pummeler's Armor./Anchorite Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Armor./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Nothing for now.]
@@ -7293,28 +7293,42 @@
  7289: You do not have enough Apollyon Units.
  7290: I have generated new notorious monsters based on your data.
  7291: Here is a quick rundown.
- 7292: One: they do not take your set level into account.
- 7293: Two: there are 22 types, but only 4 will appear on any given day (Earth time).
- 7294: Three: vanquishing them affects the contents of the Apollyon Coffer obtainable four weeks later.
+ 7292: 1: they do not take your set level into account.
+ 7293: 2: there are 22 types, but only 4 will appear on any given day (Earth time).
+ 7294: $0: vanquishing them affects the contents of the Apollyon Coffer obtainable four weeks later.
  7295: This should enable you to collect even more precise data.
  7296: The $0 changes form when one uses Apollyon Units.
  7297: It can produce special equipment.
  7298: The produced equipment can be further infused.
  7299: Notorious monster vanquishing information will affect Apollyon Coffers in $0 [days/hours/hour or less] (Earth time).
- 7300: 
- 7301: 
- 7302: 
- 7303: 
- 7304: 
- 7305: 
- 7306: 
- 7307: 
- 7308: 
- 7309: 
- 7310: 
- 7311: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7312: slot:@ initStep:@ ticket:@ expire:@sec
- 7313: $P15[$P116$3f$593776$z%;5\5=B
- 7314: $60298775=B
- 7315: $3`$3P$3b$3gp$P14j$|5\5=B
- 7316: Error:@
+ 7300: Confirming $0, $1, $2... Able to create $3.
+ 7301: What will you do? [Create./Do not create.]
+ 7302: Confirming $0, $1... Able to create $2.
+ 7303: Carrying over attributes from the $0 to the $4.
+ 7304: Your $0 will be consumed.
+ 7305: Apollyon Operator: CN opening status:
+ 7306: Condition $0: [Incomplete/Complete] ($2/$3).
+ 7307: Apollyon Operator: CN opened.
+ 7308: Do what? ($5: $6.) [Change to $0./Change to $1./Change to $2./Change to $3./Change to $4./Do nothing.]
+ 7309: Able to change up to $0.
+ 7310: Changing $1 $0 into $3 $0 .
+ 7311: Do what? [Phase 1./Phase 2./@/Back.]
+ 7312: New notorious monsters have been created based on collected data aand registrant information.
+ 7313: Communicating data on new notorious monsters.
+ 7314: 2: Notorious monsters are classified into three categories.
+ 7315: 3: Notorious monster spawn conditions are divided into two sets.
+ 7316: 4: They spawn in CN, which opens when certain conditions are met.
+ 7317: CN is open.
+ 7318: Creating $0 based on registrant information.
+ 7319: Multiple $0 may by created from $1 and $2.
+ 7320: Created items can be used to unlock and reforge new equipment.
+ 7321: Up to $3 $0 can be changed into other types.
+ 7322: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
+ 7323: However, the original equipment will be consumed in the process.
+ 7324: You have received the designation Apollyon Ravager, which has become unattainable by other means.
+ 7325: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7326: slot:@ initStep:@ ticket:@ expire:@sec
+ 7327: $P15[$P116$3f$593776$z%;5\5=B
+ 7328: $60298775=B
+ 7329: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7330: Error:@

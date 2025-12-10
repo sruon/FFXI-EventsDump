@@ -201,18 +201,18 @@
 |     100 | 0xFFFFF2DE  |  4294963934 |
 |     101 | 0xFFFF48C9  |  4294920393 |
 |     102 | 0xFFFFF080  |  4294963328 |
-|     103 | 0x362D      |       13869 |
-|     104 | 0x362E      |       13870 |
-|     105 | 0x362F      |       13871 |
-|     106 | 0x3630      |       13872 |
+|     103 | 0x362E      |       13870 |
+|     104 | 0x362F      |       13871 |
+|     105 | 0x3630      |       13872 |
+|     106 | 0x3631      |       13873 |
 |     107 | 0x1031      |        4145 |
 |     108 | 0x1030      |        4144 |
-|     109 | 0x3631      |       13873 |
-|     110 | 0x3632      |       13874 |
-|     111 | 0x3633      |       13875 |
-|     112 | 0x3634      |       13876 |
-|     113 | 0x3635      |       13877 |
-|     114 | 0x3636      |       13878 |
+|     109 | 0x3632      |       13874 |
+|     110 | 0x3633      |       13875 |
+|     111 | 0x3634      |       13876 |
+|     112 | 0x3635      |       13877 |
+|     113 | 0x3636      |       13878 |
+|     114 | 0x3637      |       13879 |
 
 ## String References
 
@@ -244,16 +244,16 @@
 - **8402**: I knew all along Wolfgang would come. He is a good man, despite being a little stubborn. Now hurry to Delkfutt's Tower. Tenzen should already be on his way.
 - **8403**: Somewhere on the first floor there is a large doorway that leads to the basement of the tower. The key you received from Wolfgang will open that door.
 - **8404**: Wolfgang should not be giving you any more problems. I think he has finally started to realize what is truly important in this world.
-- **13869**: Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it.
-- **13870**: Thank you so much for your donation. This will save many a life in these trying times.
-- **13871**: Thank you so much for your donation. This will save many a life in these trying times.B
-- **13872**: Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later.
-- **13873**: Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own.
-- **13874**: Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-- **13875**: Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-- **13876**: Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-- **13877**: I should have more than enough concoctions for my current needs.
-- **13878**: I should have more than enough $0 for my current needs.
+- **13870**: Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it.
+- **13871**: Thank you so much for your donation. This will save many a life in these trying times.
+- **13872**: Thank you so much for your donation. This will save many a life in these trying times.B
+- **13873**: Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later.
+- **13874**: Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own.
+- **13875**: Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+- **13876**: Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+- **13877**: Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+- **13878**: I should have more than enough concoctions for my current needs.
+- **13879**: I should have more than enough $0 for my current needs.
 
 ## Events
 
@@ -2162,7 +2162,7 @@ SUBROUTINE_027A:
   0: 0x0502 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[2]
   1: 0x0507 [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   2: 0x0511 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
-  3: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=13869*)
+  3: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=13870*)
     → "Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it."
   4: 0x0519 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x051A [0x21] END_EVENT
@@ -2190,7 +2190,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x051C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=13870*)
+  1: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=13871*)
     → "Thank you so much for your donation. This will save many a life in these trying times."
   2: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x052A [0x21] END_EVENT
@@ -2218,7 +2218,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x052C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=13871*)
+  1: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=13872*)
     → "Thank you so much for your donation. This will save many a life in these trying times.B"
   2: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x053A [0x21] END_EVENT
@@ -2246,7 +2246,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x053C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=13872*)
+  1: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=13873*)
     → "Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later."
   2: 0x0549 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x054A [0x21] END_EVENT
@@ -2277,7 +2277,7 @@ SUBROUTINE_027A:
   0: 0x054C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   1: 0x0556 [0x03] Work_Zone[2] = 4145*
   2: 0x055B [0x03] Work_Zone[3] = 4144*
-  3: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=13873*)
+  3: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=13874*)
     → "Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own."
   4: 0x0563 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0564 [0x21] END_EVENT
@@ -2307,7 +2307,7 @@ SUBROUTINE_027A:
   0: 0x0566 [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   1: 0x0570 [0x03] Work_Zone[2] = 4145*
   2: 0x0575 [0x03] Work_Zone[3] = 4144*
-  3: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=13874*)
+  3: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=13875*)
     → "Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities."
   4: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x057E [0x21] END_EVENT
@@ -2337,7 +2337,7 @@ SUBROUTINE_027A:
   0: 0x0580 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[2]
   1: 0x0585 [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   2: 0x058F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-  3: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=13875*)
+  3: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=13876*)
     → "Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities."
   4: 0x0597 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0598 [0x21] END_EVENT
@@ -2365,7 +2365,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x059A [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13876*)
+  1: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13877*)
     → "Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities."
   2: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05A8 [0x21] END_EVENT
@@ -2393,7 +2393,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x05AA [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13877*)
+  1: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13878*)
     → "I should have more than enough concoctions for my current needs."
   2: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05B8 [0x21] END_EVENT
@@ -2424,7 +2424,7 @@ SUBROUTINE_027A:
   0: 0x05BA [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[2]
   1: 0x05BF [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   2: 0x05C9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-  3: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13878*)
+  3: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13879*)
     → "I should have more than enough $0 for my current needs."
   4: 0x05D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05D2 [0x21] END_EVENT
