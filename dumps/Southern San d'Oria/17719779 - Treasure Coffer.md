@@ -5,16 +5,16 @@
 | Field            | Value                         |
 |------------------|-------------------------------|
 | Zone             | Southern San d'Oria (ID: 230) |
-| Block Size       | 2036 bytes                    |
+| Block Size       | 2052 bytes                    |
 | Total Events     | 2                             |
-| References Count | 104                           |
+| References Count | 108                           |
 
 ## List of Events
 
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [974](#event-974)     | 0x0001       |   1592 |            209 |
+| [974](#event-974)     | 0x0001       |   1592 |            214 |
 
 ## DAT References (imed_data)
 
@@ -23,7 +23,7 @@
 |       0 | 0x3AF6      |       15094 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0200      |         512 |
-|       3 | 0x0029      |          41 |
+|       3 | 0x002D      |          45 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0003      |           3 |
@@ -63,12 +63,12 @@
 |      40 | 0x0025      |          37 |
 |      41 | 0x0026      |          38 |
 |      42 | 0x0027      |          39 |
-|      43 | 0x05FC      |        1532 |
+|      43 | 0x05C0      |        1472 |
 |      44 | 0x0028      |          40 |
-|      45 | 0x002A      |          42 |
-|      46 | 0x002B      |          43 |
-|      47 | 0x002C      |          44 |
-|      48 | 0x002D      |          45 |
+|      45 | 0x0029      |          41 |
+|      46 | 0x002A      |          42 |
+|      47 | 0x002B      |          43 |
+|      48 | 0x002C      |          44 |
 |      49 | 0x002E      |          46 |
 |      50 | 0x002F      |          47 |
 |      51 | 0x3AF7      |       15095 |
@@ -116,14 +116,18 @@
 |      93 | 0x0EA1      |        3745 |
 |      94 | 0x0EA2      |        3746 |
 |      95 | 0x0EA3      |        3747 |
-|      96 | 0x2E4E      |       11854 |
-|      97 | 0x2EB5      |       11957 |
-|      98 | 0x28BF      |       10431 |
-|      99 | 0x280C      |       10252 |
-|     100 | 0x2962      |       10594 |
-|     101 | 0x28C1      |       10433 |
-|     102 | 0x280E      |       10254 |
-|     103 | 0x2964      |       10596 |
+|      96 | 0x67B2      |       26546 |
+|      97 | 0x561F      |       22047 |
+|      98 | 0x5620      |       22048 |
+|      99 | 0x5621      |       22049 |
+|     100 | 0x2E4E      |       11854 |
+|     101 | 0x2EB5      |       11957 |
+|     102 | 0x28BF      |       10431 |
+|     103 | 0x280C      |       10252 |
+|     104 | 0x2962      |       10594 |
+|     105 | 0x28C1      |       10433 |
+|     106 | 0x280E      |       10254 |
+|     107 | 0x2964      |       10596 |
 
 ## String References
 
@@ -229,14 +233,14 @@
 03B0: 0A 79 05 09 10 2A 80 03  80 01 77 04 02 03 00 08  .y...*....w.....
 03C0: 80 80 77 04 03 01 00 2B  80 02 8B 7F 01 80 00 24  ..w....+.......$
 03D0: 04 9D 0A D9 05 02 10 2C  80 03 80 9D 0A D9 05 03  .......,........
-03E0: 10 03 80 03 80 9D 0A D9  05 04 10 2D 80 03 80 9D  ...........-....
-03F0: 0A D9 05 05 10 2E 80 03  80 9D 0A D9 05 06 10 2F  .............../
-0400: 80 03 80 9D 0A D9 05 07  10 30 80 03 80 9D 0A D9  .........0......
+03E0: 10 2D 80 03 80 9D 0A D9  05 04 10 2E 80 03 80 9D  .-..............
+03F0: 0A D9 05 05 10 2F 80 03  80 9D 0A D9 05 06 10 30  ...../.........0
+0400: 80 03 80 9D 0A D9 05 07  10 03 80 03 80 9D 0A D9  ................
 0410: 05 08 10 31 80 03 80 9D  0A D9 05 09 10 32 80 03  ...1.........2..
 0420: 80 01 74 04 9D 0A 79 05  02 10 2C 80 03 80 9D 0A  ..t...y...,.....
-0430: 79 05 03 10 03 80 03 80  9D 0A 79 05 04 10 2D 80  y.........y...-.
-0440: 03 80 9D 0A 79 05 05 10  2E 80 03 80 9D 0A 79 05  ....y.........y.
-0450: 06 10 2F 80 03 80 9D 0A  79 05 07 10 30 80 03 80  ../.....y...0...
+0430: 79 05 03 10 2D 80 03 80  9D 0A 79 05 04 10 2E 80  y...-.....y.....
+0440: 03 80 9D 0A 79 05 05 10  2F 80 03 80 9D 0A 79 05  ....y.../.....y.
+0450: 06 10 30 80 03 80 9D 0A  79 05 07 10 03 80 03 80  ..0.....y.......
 0460: 9D 0A 79 05 08 10 31 80  03 80 9D 0A 79 05 09 10  ..y...1.....y...
 0470: 32 80 03 80 01 77 04 D4  03 04 80 02 10 D4 03 05  2....w..........
 0480: 80 03 10 D4 03 06 80 04  10 D4 03 07 80 05 10 D4  ................
@@ -259,14 +263,14 @@
 0590: 80 43 80 44 80 45 80 46  80 47 80 48 80 49 80 4A  .C.D.E.F.G.H.I.J
 05A0: 80 4B 80 4C 80 4D 80 4E  80 4F 80 50 80 51 80 52  .K.L.M.N.O.P.Q.R
 05B0: 80 53 80 54 80 55 80 56  80 57 80 58 80 59 80 5A  .S.T.U.V.W.X.Y.Z
-05C0: 80 5B 80 5C 80 5D 80 5E  80 5F 80 01 80 01 80 01  .[.\.].^._......
-05D0: 80 01 80 01 80 01 80 01  80 37 80 38 80 60 80 61  .........7.8.`.a
-05E0: 80 62 80 63 80 64 80 65  80 66 80 67 80 41 80 42  .b.c.d.e.f.g.A.B
+05C0: 80 5B 80 5C 80 5D 80 5E  80 5F 80 60 80 61 80 62  .[.\.].^._.`.a.b
+05D0: 80 63 80 01 80 01 80 01  80 37 80 38 80 64 80 65  .c.......7.8.d.e
+05E0: 80 66 80 67 80 68 80 69  80 6A 80 6B 80 41 80 42  .f.g.h.i.j.k.A.B
 05F0: 80 43 80 44 80 45 80 46  80 47 80 48 80 49 80 4A  .C.D.E.F.G.H.I.J
 0600: 80 4B 80 4C 80 4D 80 4E  80 4F 80 50 80 51 80 52  .K.L.M.N.O.P.Q.R
 0610: 80 53 80 54 80 55 80 56  80 57 80 58 80 59 80 5A  .S.T.U.V.W.X.Y.Z
-0620: 80 5B 80 5C 80 5D 80 5E  80 5F 80 01 80 01 80 01  .[.\.].^._......
-0630: 80 01 80 01 80 01 80 01  80                       .........       
+0620: 80 5B 80 5C 80 5D 80 5E  80 5F 80 60 80 61 80 62  .[.\.].^._.`.a.b
+0630: 80 63 80 01 80 01 80 01  80                       .c.......       
 ```
 
 #### Opcodes
@@ -398,7 +402,7 @@ SUBROUTINE_02FE:
 SUBROUTINE_03B9:
 113: 0x03B9 [0x01] GOTO 0x0477
 114: 0x03BC [0x02] IF !(ExtData[1]->WorkLocal[3] == 5*) GOTO 0x0477
-115: 0x03C4 [0x03] ExtData[1]->WorkLocal[1] = 1532*
+115: 0x03C4 [0x03] ExtData[1]->WorkLocal[1] = 1472*
 116: 0x03C9 [0x02] IF !((LocalPlayer->Render.Flags01 >> 25) & 1 == 0*) GOTO 0x0424
 117: 0x03D1 [0x9D] IF (0x05D9) 40* = Work_Zone[2] // extra=0x8003
 118: 0x03DB [0x9D] IF (0x05D9) 41* = Work_Zone[3] // extra=0x8003
@@ -488,22 +492,27 @@ SUBROUTINE_0568:
      0x05BE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153480282/0x805B805A))
      0x05C3 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 3745*, volume=3746*
      0x05C9 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x80 - Unknown)
-     0x05CB [0x01] GOTO 0x0180
-     0x05CE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x05D3 [0x01] GOTO 0x0180
-     0x05D6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151120897/0x80378001))
-     0x05DB [0x38] SET_CLIENT_EVENT_MODE(mode=0x6080)
-     0x05DE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153939041/0x80628061))
-     0x05E3 [0x63] PLAY_ANIMATION_WAIT(animation=25728)
-     0x05E6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154201189/0x80668065))
-     0x05EB [0x67] HIDE_HUD_ELEMENTS(param1=0x4180, param2=0x4280)
-     0x05F0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151972931/0x80448043))
-     0x05F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler 0x4C804B80 with entities [Unknown NPC (ID: 1216366464/0x48804780), Unknown NPC (ID: 1249921408/0x4A804980)], work=[0x4680, 0x4D80]
-     0x0606 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152693838/0x804F804E))
-     0x060B [0x50] END_SCHEDULER_TASK: End scheduler 0x00005580 with entities [0x5180, 0x5380], work=[21120, 21632]
-     0x0618 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153283671/0x80588057))
-     0x061D [0x59] UPDATE_ENTITY_DATA: Unknown mode 128
-     0x0621 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler 0x01800180 with entities [Unknown NPC (ID: 1585470848/0x5E805D80), Unknown NPC (ID: 25190272/0x01805F80)], work=0x5C80
-     0x0630 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147581953/0x80018001))
-     0x0635 [0x01] GOTO 0x0180
+     0x05CB [0x60] ADJUST_RENDER_FLAGS1_MULTI: Deprecated mode 0x80 (no operation)
+     0x05CD [0x61] EventEntity->Render.Flags2 &= ~0x00000001
+     0x05CF [0x62] LOAD_EVENT_SCHEDULER: Load scheduler 0x64803880 with entities [Unknown NPC (ID: 25166208/0x01800180), Unknown NPC (ID: 931135872/0x37800180)], work=[0x6380, 0x6580]
+     0x05E0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154266726/0x80678066))
+     0x05E5 [0x68] SHOW_HUD_ELEMENTS()
+     0x05E6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2154463337/0x806A8069))
+     0x05EB [0x6B] STOP_AND_IDLE: Unknown NPC (ID: 1149256576/0x44804380) stops current action and resets to idle (animation="AB")
+     0x05F4 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152104005/0x80468045))
+     0x05F9 [0x47] WAIT_PLAYER_POS_UPDATE
+     0x05FB [0x48] [System] [0x4980]:
+     0x05FE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152431690/0x804B804A))
+     0x0603 [0x4C] EventEntity->StatusEvent = 8 // Open door
+     0x0604 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152628301/0x804E804D))
+     0x0609 [0x4F] EventEntity->StatusEvent = 0x5080 // Custom event value
+     0x060C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152890449/0x80528051))
+     0x0611 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler 0x59805880 with entities [Unknown NPC (ID: 1434473600/0x55805480), Unknown NPC (ID: 1468028544/0x57805680)]
+     0x061E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2153480282/0x805B805A))
+     0x0623 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 3745*, volume=3746*
+     0x0629 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x80 - Unknown)
+     0x062B [0x60] ADJUST_RENDER_FLAGS1_MULTI: Deprecated mode 0x80 (no operation)
+     0x062D [0x61] EventEntity->Render.Flags2 &= ~0x00000001
+     0x062F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147582051/0x80018063))
+     0x0634 [0x01] GOTO 0x0180
 ```

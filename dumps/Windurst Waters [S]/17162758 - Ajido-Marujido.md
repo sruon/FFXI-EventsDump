@@ -1621,7 +1621,7 @@
 0650: A3 80 28 E2 05 01 28 E2  05 01 74 6C 6B 30 27 10  ..(...(...tlk0'.
 0660: FE E2 05 01 0F 27 10 FF  E2 05 01 10 27 10 00 E3  .....'......'...
 0670: 05 01 11 1C 9D 80 27 10  44 E2 05 01 13 27 10 45  ......'.D....'.E
-0680: E2 05 01 15 27 10 46 E2  05 01 16 27 10 11 E3 05  ....'.F....'....
+0680: E2 05 01 15 27 10 46 E2  05 01 16 27 10 10 E3 05  ....'.F....'....
 0690: 01 12 05 09 10 00                                 ......          
 ```
 
@@ -1651,7 +1651,7 @@
  20: 0x0676 [0x27] REQ_SET(priority=0x10, entity_id=02 (ID: 17162820/0x0105E244), tag_num=0x13)
  21: 0x067D [0x27] REQ_SET(priority=0x10, entity_id=03 (ID: 17162821/0x0105E245), tag_num=0x15)
  22: 0x0684 [0x27] REQ_SET(priority=0x10, entity_id=04 (ID: 17162822/0x0105E246), tag_num=0x16)
- 23: 0x068B [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17163025/0x0105E311), tag_num=0x12)
+ 23: 0x068B [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17163024/0x0105E310), tag_num=0x12)
  24: 0x0692 [0x05] Work_Zone[9] = 1
  25: 0x0695 [0x00] END_REQSTACK()
 ```

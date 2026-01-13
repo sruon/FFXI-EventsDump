@@ -1,5 +1,5 @@
 # Strings for Apollyon
-# Total: 7331 strings
+# Total: 7336 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7270,7 +7270,7 @@
  7266: What will you do? [Change level and reset./Never mind.]
  7267: Progress has been reset.
  7268: Unrecognized entrant. Please proceed to the Apollyon Operator.
- 7269: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./CN Opening.$1./Reforging.@/Nothing for now.]
+ 7269: Inquire about what? [Level settings./Apollyon./Apollyon Units./The Apollyon Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./CN Opening.$1./Reforging.@/Unique data./Nothing for now.]
  7270: Remaining Apollyon Units: $0. Total Apollyon Units: $1/$2.
  7271: The Apollyon Furnace uses data to enhance your equipment.
  7272: Inquire about which? [Pummeler's Armor./Anchorite Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Armor./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Nothing for now.]
@@ -7326,9 +7326,14 @@
  7322: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
  7323: However, the original equipment will be consumed in the process.
  7324: You have received the designation Apollyon Ravager, which has become unattainable by other means.
- 7325: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7326: slot:@ initStep:@ ticket:@ expire:@sec
- 7327: $P15[$P116$3f$593776$z%;5\5=B
- 7328: $60298775=B
- 7329: $3`$3P$3b$3gp$P14j$|5\5=B
- 7330: Error:@
+ 7325: Unique data can be collected after $0 more attempt[/s].
+ 7326: Unique data will be recorded after dealing damage to a notorious monster.
+ 7327: A wide variety of data is needed to ensure the unique data's precision.
+ 7328: Acquiring the requisite amount of unique data will unlock one Apollyon Coffer in either the NW, SW, NE, or SE areas.
+ 7329: Unique data may be accumulated up to a cap of $0.
+ 7330: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7331: slot:@ initStep:@ ticket:@ expire:@sec
+ 7332: $P15[$P116$3f$593776$z%;5\5=B
+ 7333: $60298775=B
+ 7334: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7335: Error:@

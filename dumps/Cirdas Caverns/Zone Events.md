@@ -5,7 +5,7 @@
 | Field            | Value                    |
 |------------------|--------------------------|
 | Zone             | Cirdas Caverns (ID: 270) |
-| Block Size       | 2768 bytes               |
+| Block Size       | 2772 bytes               |
 | Total Events     | 38                       |
 | References Count | 117                      |
 
@@ -32,25 +32,25 @@
 | [65535.15](#event-6553515) | 0x00CE       |      6 |              2 |
 | [65535.16](#event-6553516) | 0x00D4       |      6 |              2 |
 | [65535.17](#event-6553517) | 0x00DA       |      6 |              2 |
-| [5515](#event-5515)        | 0x00E0       |   1234 |            244 |
-| [5504](#event-5504)        | 0x05B2       |    276 |             46 |
-| [65535.18](#event-6553518) | 0x06C6       |     24 |              4 |
-| [65535.19](#event-6553519) | 0x06DE       |     24 |              4 |
-| [65535.20](#event-6553520) | 0x06F6       |     27 |              5 |
-| [65535.21](#event-6553521) | 0x0711       |     24 |              4 |
-| [65535.22](#event-6553522) | 0x0729       |     37 |              5 |
-| [65535.23](#event-6553523) | 0x074E       |     37 |              5 |
-| [65535.24](#event-6553524) | 0x0773       |     42 |              6 |
-| [65535.25](#event-6553525) | 0x079D       |     15 |              5 |
-| [65535.26](#event-6553526) | 0x07AC       |     15 |              5 |
-| [65535.27](#event-6553527) | 0x07BB       |     32 |              8 |
-| [65535.28](#event-6553528) | 0x07DB       |     14 |              4 |
-| [65535.29](#event-6553529) | 0x07E9       |     14 |              4 |
-| [65535.30](#event-6553530) | 0x07F7       |     14 |              4 |
-| [65535.31](#event-6553531) | 0x0805       |     27 |              3 |
-| [65535.32](#event-6553532) | 0x0820       |     24 |              6 |
-| [65535.33](#event-6553533) | 0x0838       |     14 |              4 |
-| [65535.34](#event-6553534) | 0x0846       |     14 |              4 |
+| [5515](#event-5515)        | 0x00E0       |   1237 |            244 |
+| [5504](#event-5504)        | 0x05B5       |    276 |             46 |
+| [65535.18](#event-6553518) | 0x06C9       |     24 |              4 |
+| [65535.19](#event-6553519) | 0x06E1       |     24 |              4 |
+| [65535.20](#event-6553520) | 0x06F9       |     27 |              5 |
+| [65535.21](#event-6553521) | 0x0714       |     24 |              4 |
+| [65535.22](#event-6553522) | 0x072C       |     37 |              5 |
+| [65535.23](#event-6553523) | 0x0751       |     37 |              5 |
+| [65535.24](#event-6553524) | 0x0776       |     42 |              6 |
+| [65535.25](#event-6553525) | 0x07A0       |     15 |              5 |
+| [65535.26](#event-6553526) | 0x07AF       |     15 |              5 |
+| [65535.27](#event-6553527) | 0x07BE       |     32 |              8 |
+| [65535.28](#event-6553528) | 0x07DE       |     14 |              4 |
+| [65535.29](#event-6553529) | 0x07EC       |     14 |              4 |
+| [65535.30](#event-6553530) | 0x07FA       |     14 |              4 |
+| [65535.31](#event-6553531) | 0x0808       |     27 |              3 |
+| [65535.32](#event-6553532) | 0x0823       |     24 |              6 |
+| [65535.33](#event-6553533) | 0x083B       |     14 |              4 |
+| [65535.34](#event-6553534) | 0x0849       |     14 |              4 |
 
 ## DAT References (imed_data)
 
@@ -292,7 +292,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0000:                                            03 13                ..
-0010: 00 07 7F 1A 32 06 66 14  00 F8 FF FF 7F F8 FF FF  ....2.f.........
+0010: 00 07 7F 1A 35 06 66 14  00 F8 FF FF 7F F8 FF FF  ....5.f.........
 0020: 7F 73 68 61 30 53 F8 FF  FF 7F F8 FF FF 7F 73 68  .sha0S........sh
 0030: 61 30 00                                          a0.             
 ```
@@ -301,7 +301,7 @@
 
 ```
   0: 0x000E [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x0013 [0x1A] CALL_SUBROUTINE(address=0x0632)
+  1: 0x0013 [0x1A] CALL_SUBROUTINE(address=0x0635)
   2: 0x0016 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
   3: 0x0025 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha0" with entities [EventEntity, EventEntity]
   4: 0x0032 [0x00] END_REQSTACK()
@@ -320,7 +320,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0030:          03 13 00 07 7F  1A 32 06 66 14 00 F8 FF     ......2.f....
+0030:          03 13 00 07 7F  1A 35 06 66 14 00 F8 FF     ......5.f....
 0040: FF 7F F8 FF FF 7F 73 68  61 31 53 F8 FF FF 7F F8  ......sha1S.....
 0050: FF FF 7F 73 68 61 31 00                           ...sha1.        
 ```
@@ -329,7 +329,7 @@
 
 ```
   0: 0x0033 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x0038 [0x1A] CALL_SUBROUTINE(address=0x0632)
+  1: 0x0038 [0x1A] CALL_SUBROUTINE(address=0x0635)
   2: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
   3: 0x004A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [EventEntity, EventEntity]
   4: 0x0057 [0x00] END_REQSTACK()
@@ -348,7 +348,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0050:                          03 13 00 07 7F 1A 57 06          ......W.
+0050:                          03 13 00 07 7F 1A 5A 06          ......Z.
 0060: 07 14 00 00 80 66 14 00  F8 FF FF 7F F8 FF FF 7F  .....f..........
 0070: 70 61 73 30 00                                    pas0.           
 ```
@@ -357,7 +357,7 @@
 
 ```
   0: 0x0058 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x005D [0x1A] CALL_SUBROUTINE(address=0x0657)
+  1: 0x005D [0x1A] CALL_SUBROUTINE(address=0x065A)
   2: 0x0060 [0x07] ExtData[1]->WorkLocal[20] += 1*
   3: 0x0065 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
   4: 0x0074 [0x00] END_REQSTACK()
@@ -661,7 +661,7 @@
 | Field        | Value      |
 |--------------|------------|
 | Entrypoint   | 0x00E0     |
-| Data Size    | 1234 bytes |
+| Data Size    | 1237 bytes |
 | Instructions | 242        |
 
 ```
@@ -672,15 +672,15 @@
 0100: 00 15 80 0F 0F 00 11 00  10 0F 00 00 80 24 16 80  .............$..
 0110: 01 80 0F 00 25 02 00 10  01 80 00 27 01 03 01 10  ....%......'....
 0120: 17 80 21 00 01 27 01 03  10 00 00 10 0C 10 00 9D  ..!..'..........
-0130: 00 32 05 05 00 10 00 40  01 80 18 80 01 10 05 00  .2.....@........
+0130: 00 35 05 05 00 10 00 40  01 80 18 80 01 10 05 00  .5.....@........
 0140: 40 19 80 1A 80 01 10 01  80 40 1B 80 1C 80 01 10  @........@......
 0150: 06 00 03 0C 00 01 10 06  03 00 05 07 00 02 03 00  ................
-0160: 01 80 00 C7 01 9D 00 62  05 02 10 10 00 03 03 10  .......b........
+0160: 01 80 00 C7 01 9D 00 65  05 02 10 10 00 03 03 10  .......e........
 0170: 0E 00 02 10 00 1D 80 00  81 01 48 1E 80 23 01 85  ..........H..#..
 0180: 01 48 1F 80 23 24 20 80  07 00 01 80 25 02 00 10  .H..#$ .....%...
 0190: 01 80 00 A1 01 06 07 00  48 21 80 1A C9 01 01 C4  ........H!......
 01A0: 01 02 00 10 00 80 00 C4  01 03 01 10 17 80 9D 00  ................
-01B0: 62 05 02 10 10 00 03 03  10 0E 00 48 22 80 05 03  b..........H"...
+01B0: 65 05 02 10 10 00 03 03  10 0E 00 48 22 80 05 03  e..........H"...
 01C0: 00 01 C4 01 01 5D 01 21  00 06 08 00 06 0B 00 06  .....].!........
 01D0: 09 00 02 08 00 01 80 00  F9 01 02 0B 00 01 80 80  ................
 01E0: E8 01 1A FA 01 01 F6 01  02 0B 00 00 80 80 F6 01  ................
@@ -699,52 +699,52 @@
 02B0: 80 05 08 00 05 03 00 01  BA 02 1B 03 01 10 0C 00  ................
 02C0: 40 19 80 1A 80 01 10 0B  00 43 00 43 01 03 01 10  @........C.C....
 02D0: 01 80 03 0A 00 09 10 02  0A 00 13 80 80 EA 02 03  ................
-02E0: 01 10 17 80 05 08 00 01  31 05 02 0A 00 28 80 80  ........1....(..
-02F0: 00 03 03 01 10 17 80 05  08 00 05 03 00 01 31 05  ..............1.
+02E0: 01 10 17 80 05 08 00 01  34 05 02 0A 00 28 80 80  ........4....(..
+02F0: 00 03 03 01 10 17 80 05  08 00 05 03 00 01 34 05  ..............4.
 0300: 02 0A 00 24 80 80 16 03  03 01 10 17 80 05 08 00  ...$............
-0310: 05 03 00 01 31 05 02 0A  00 29 80 80 2C 03 03 01  ....1....)..,...
-0320: 10 17 80 05 08 00 05 03  00 01 31 05 02 0A 00 2A  ..........1....*
+0310: 05 03 00 01 34 05 02 0A  00 29 80 80 2C 03 03 01  ....4....)..,...
+0320: 10 17 80 05 08 00 05 03  00 01 34 05 02 0A 00 2A  ..........4....*
 0330: 80 80 42 03 03 01 10 17  80 05 08 00 05 03 00 01  ..B.............
-0340: 31 05 02 0A 00 2B 80 80  D0 04 02 05 00 2C 80 80  1....+.......,..
-0350: 63 03 03 02 10 2D 80 03  03 10 00 80 48 2E 80 23  c....-......H..#
-0360: 01 52 04 02 05 00 2F 80  80 7C 03 03 02 10 2D 80  .R..../..|....-.
-0370: 03 03 10 00 80 48 2E 80  23 01 52 04 02 05 00 30  .....H..#.R....0
-0380: 80 80 95 03 03 02 10 2D  80 03 03 10 00 80 48 2E  .......-......H.
-0390: 80 23 01 52 04 02 05 00  31 80 80 AE 03 03 02 10  .#.R....1.......
-03A0: 2D 80 03 03 10 00 80 48  2E 80 23 01 52 04 02 05  -......H..#.R...
-03B0: 00 32 80 80 C7 03 03 02  10 2D 80 03 03 10 00 80  .2.......-......
-03C0: 48 2E 80 23 01 52 04 02  05 00 33 80 80 E0 03 03  H..#.R....3.....
-03D0: 02 10 2D 80 03 03 10 00  80 48 2E 80 23 01 52 04  ..-......H..#.R.
-03E0: 02 05 00 34 80 80 F9 03  03 02 10 2D 80 03 03 10  ...4.......-....
-03F0: 00 80 48 2E 80 23 01 52  04 02 05 00 35 80 80 12  ..H..#.R....5...
-0400: 04 03 02 10 2D 80 03 03  10 00 80 48 2E 80 23 01  ....-......H..#.
-0410: 52 04 02 05 00 36 80 80  2B 04 03 02 10 2D 80 03  R....6..+....-..
-0420: 03 10 00 80 48 2E 80 23  01 52 04 02 05 00 37 80  ....H..#.R....7.
-0430: 80 44 04 03 02 10 2D 80  03 03 10 00 80 48 2E 80  .D....-......H..
-0440: 23 01 52 04 03 02 10 2D  80 03 03 10 0E 00 48 38  #.R....-......H8
-0450: 80 23 62 00 80 F0 FF FF  7F F0 FF FF 7F 6D 61 69  .#b..........mai
-0460: 6E 01 80 1C 39 80 45 3A  80 F0 FF FF 7F F0 FF FF  n...9.E:........
-0470: 7F 77 68 6F 31 01 80 55  3A 80 F0 FF FF 7F F0 FF  .who1..U:.......
-0480: FF 7F 77 68 6F 31 1C 3B  80 45 3C 80 F0 FF FF 7F  ..who1.;.E<.....
-0490: F0 FF FF 7F 66 64 6F 31  01 80 55 3C 80 F0 FF FF  ....fdo1..U<....
-04A0: 7F F0 FF FF 7F 66 64 6F  31 45 3A 80 F0 FF FF 7F  .....fdo1E:.....
-04B0: F0 FF FF 7F 77 68 69 31  01 80 1C 1A 80 30 05 08  ....whi1.....0..
-04C0: 00 05 03 00 40 01 80 2A  80 01 10 2B 80 01 31 05  ....@..*...+..1.
-04D0: 02 0A 00 3D 80 80 E3 04  03 01 10 17 80 05 08 00  ...=............
-04E0: 01 31 05 02 0A 00 3E 80  80 F9 04 03 01 10 17 80  .1....>.........
-04F0: 05 08 00 05 03 00 01 31  05 02 0A 00 18 80 80 31  .......1.......1
-0500: 05 0B 09 00 02 09 00 1A  80 02 2B 05 03 01 10 0C  ..........+.....
-0510: 00 40 19 80 1A 80 01 10  23 80 43 00 43 01 05 08  .@......#.C.C...
-0520: 00 48 25 80 23 1C 26 80  01 2E 05 1C 27 80 01 31  .H%.#.&.....'..1
-0530: 05 1B 3F 80 40 80 41 80  42 80 43 80 44 80 45 80  ..?.@.A.B.C.D.E.
-0540: 46 80 47 80 48 80 49 80  4A 80 4B 80 4C 80 2C 80  F.G.H.I.J.K.L.,.
-0550: 4D 80 01 80 01 80 01 80  4E 80 4E 80 4F 80 01 80  M.......N.N.O...
-0560: 01 80 2D 80 2D 80 50 80  2D 80 51 80 51 80 50 80  ..-.-.P.-.Q.Q.P.
-0570: 2D 80 2D 80 50 80 51 80  2D 80 50 80 2D 80 2D 80  -.-.P.Q.-.P.-.-.
-0580: 50 80 01 80 01 80 01 80  50 80 50 80 52 80 01 80  P.......P.P.R...
-0590: 01 80 2C 80 2F 80 30 80  31 80 32 80 33 80 34 80  ..,./.0.1.2.3.4.
-05A0: 35 80 36 80 37 80 01 80  01 80 01 80 01 80 01 80  5.6.7...........
-05B0: 01 80                                             ..              
+0340: 34 05 02 0A 00 2B 80 80  D3 04 9D 00 65 05 02 10  4....+......e...
+0350: 10 00 02 05 00 2C 80 80  6B 03 03 02 10 2D 80 03  .....,..k....-..
+0360: 03 10 00 80 48 2E 80 23  01 55 04 02 05 00 2F 80  ....H..#.U..../.
+0370: 80 84 03 03 02 10 2D 80  03 03 10 00 80 48 2E 80  ......-......H..
+0380: 23 01 55 04 02 05 00 30  80 80 9D 03 03 02 10 2D  #.U....0.......-
+0390: 80 03 03 10 00 80 48 2E  80 23 01 55 04 02 05 00  ......H..#.U....
+03A0: 31 80 80 B6 03 03 02 10  2D 80 03 03 10 00 80 48  1.......-......H
+03B0: 2E 80 23 01 55 04 02 05  00 32 80 80 CF 03 03 02  ..#.U....2......
+03C0: 10 2D 80 03 03 10 00 80  48 2E 80 23 01 55 04 02  .-......H..#.U..
+03D0: 05 00 33 80 80 E8 03 03  02 10 2D 80 03 03 10 00  ..3.......-.....
+03E0: 80 48 2E 80 23 01 55 04  02 05 00 34 80 80 01 04  .H..#.U....4....
+03F0: 03 02 10 2D 80 03 03 10  00 80 48 2E 80 23 01 55  ...-......H..#.U
+0400: 04 02 05 00 35 80 80 1A  04 03 02 10 2D 80 03 03  ....5.......-...
+0410: 10 00 80 48 2E 80 23 01  55 04 02 05 00 36 80 80  ...H..#.U....6..
+0420: 33 04 03 02 10 2D 80 03  03 10 00 80 48 2E 80 23  3....-......H..#
+0430: 01 55 04 02 05 00 37 80  80 4C 04 03 02 10 2D 80  .U....7..L....-.
+0440: 03 03 10 00 80 48 2E 80  23 01 55 04 03 03 10 0E  .....H..#.U.....
+0450: 00 48 38 80 23 62 00 80  F0 FF FF 7F F0 FF FF 7F  .H8.#b..........
+0460: 6D 61 69 6E 01 80 1C 39  80 45 3A 80 F0 FF FF 7F  main...9.E:.....
+0470: F0 FF FF 7F 77 68 6F 31  01 80 55 3A 80 F0 FF FF  ....who1..U:....
+0480: 7F F0 FF FF 7F 77 68 6F  31 1C 3B 80 45 3C 80 F0  .....who1.;.E<..
+0490: FF FF 7F F0 FF FF 7F 66  64 6F 31 01 80 55 3C 80  .......fdo1..U<.
+04A0: F0 FF FF 7F F0 FF FF 7F  66 64 6F 31 45 3A 80 F0  ........fdo1E:..
+04B0: FF FF 7F F0 FF FF 7F 77  68 69 31 01 80 1C 1A 80  .......whi1.....
+04C0: 30 05 08 00 05 03 00 40  01 80 2A 80 01 10 2B 80  0......@..*...+.
+04D0: 01 34 05 02 0A 00 3D 80  80 E6 04 03 01 10 17 80  .4....=.........
+04E0: 05 08 00 01 34 05 02 0A  00 3E 80 80 FC 04 03 01  ....4....>......
+04F0: 10 17 80 05 08 00 05 03  00 01 34 05 02 0A 00 18  ..........4.....
+0500: 80 80 34 05 0B 09 00 02  09 00 1A 80 02 2E 05 03  ..4.............
+0510: 01 10 0C 00 40 19 80 1A  80 01 10 23 80 43 00 43  ....@......#.C.C
+0520: 01 05 08 00 48 25 80 23  1C 26 80 01 31 05 1C 27  ....H%.#.&..1..'
+0530: 80 01 34 05 1B 3F 80 40  80 41 80 42 80 43 80 44  ..4..?.@.A.B.C.D
+0540: 80 45 80 46 80 47 80 48  80 49 80 4A 80 4B 80 4C  .E.F.G.H.I.J.K.L
+0550: 80 2C 80 4D 80 01 80 01  80 01 80 4E 80 4E 80 4F  .,.M.......N.N.O
+0560: 80 01 80 01 80 2D 80 2D  80 50 80 2D 80 51 80 51  .....-.-.P.-.Q.Q
+0570: 80 50 80 2D 80 2D 80 50  80 51 80 2D 80 50 80 2D  .P.-.-.P.Q.-.P.-
+0580: 80 2D 80 50 80 01 80 01  80 01 80 50 80 50 80 52  .-.P.......P.P.R
+0590: 80 01 80 01 80 2C 80 2F  80 30 80 31 80 32 80 33  .....,./.0.1.2.3
+05A0: 80 34 80 35 80 36 80 37  80 01 80 01 80 01 80 01  .4.5.6.7........
+05B0: 80 01 80 01 80                                    .....           
 ```
 
 #### Opcodes
@@ -772,7 +772,7 @@
 SUBROUTINE_0127:
  17: 0x0127 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[0]
  18: 0x012C [0x0C] ExtData[1]->WorkLocal[16]--
- 19: 0x012F [0x9D] ExtData[1]->WorkLocal[5] = 0x0532[ExtData[1]->WorkLocal[16]] // Read WORD
+ 19: 0x012F [0x9D] ExtData[1]->WorkLocal[5] = 0x0535[ExtData[1]->WorkLocal[16]] // Read WORD
  20: 0x0137 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=11*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[5])
  21: 0x0140 [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=15*, target=Work_Zone[1], source=0*)
  22: 0x0149 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=29*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[6])
@@ -782,7 +782,7 @@ SUBROUTINE_0127:
 
 SUBROUTINE_015D:
  26: 0x015D [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x01C7
- 27: 0x0165 [0x9D] Work_Zone[2] = 0x0562[ExtData[1]->WorkLocal[16]] // Read WORD
+ 27: 0x0165 [0x9D] Work_Zone[2] = 0x0565[ExtData[1]->WorkLocal[16]] // Read WORD
  28: 0x016D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
  29: 0x0172 [0x02] IF !(ExtData[1]->WorkLocal[16] == 21*) GOTO 0x0181
  30: 0x017A [0x48] [System] [7770*]:
@@ -805,7 +805,7 @@ SUBROUTINE_0185:
  41: 0x019E [0x01] GOTO 0x01C4
  42: 0x01A1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01C4
  43: 0x01A9 [0x03] Work_Zone[1] = 1073741824*
- 44: 0x01AE [0x9D] Work_Zone[2] = 0x0562[ExtData[1]->WorkLocal[16]] // Read WORD
+ 44: 0x01AE [0x9D] Work_Zone[2] = 0x0565[ExtData[1]->WorkLocal[16]] // Read WORD
  45: 0x01B6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
  46: 0x01BB [0x48] [System] [7740*]:
     → "You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8."
@@ -897,162 +897,162 @@ SUBROUTINE_02BB:
 115: 0x02D7 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x02EA
 116: 0x02DF [0x03] Work_Zone[1] = 1073741824*
 117: 0x02E4 [0x05] ExtData[1]->WorkLocal[8] = 1
-118: 0x02E7 [0x01] GOTO 0x0531
+118: 0x02E7 [0x01] GOTO 0x0534
 119: 0x02EA [0x02] IF !(ExtData[1]->WorkLocal[10] == 4*) GOTO 0x0300
 120: 0x02F2 [0x03] Work_Zone[1] = 1073741824*
 121: 0x02F7 [0x05] ExtData[1]->WorkLocal[8] = 1
 122: 0x02FA [0x05] ExtData[1]->WorkLocal[3] = 1
-123: 0x02FD [0x01] GOTO 0x0531
+123: 0x02FD [0x01] GOTO 0x0534
 124: 0x0300 [0x02] IF !(ExtData[1]->WorkLocal[10] == 5*) GOTO 0x0316
 125: 0x0308 [0x03] Work_Zone[1] = 1073741824*
 126: 0x030D [0x05] ExtData[1]->WorkLocal[8] = 1
 127: 0x0310 [0x05] ExtData[1]->WorkLocal[3] = 1
-128: 0x0313 [0x01] GOTO 0x0531
+128: 0x0313 [0x01] GOTO 0x0534
 129: 0x0316 [0x02] IF !(ExtData[1]->WorkLocal[10] == 6*) GOTO 0x032C
 130: 0x031E [0x03] Work_Zone[1] = 1073741824*
 131: 0x0323 [0x05] ExtData[1]->WorkLocal[8] = 1
 132: 0x0326 [0x05] ExtData[1]->WorkLocal[3] = 1
-133: 0x0329 [0x01] GOTO 0x0531
+133: 0x0329 [0x01] GOTO 0x0534
 134: 0x032C [0x02] IF !(ExtData[1]->WorkLocal[10] == 7*) GOTO 0x0342
 135: 0x0334 [0x03] Work_Zone[1] = 1073741824*
 136: 0x0339 [0x05] ExtData[1]->WorkLocal[8] = 1
 137: 0x033C [0x05] ExtData[1]->WorkLocal[3] = 1
-138: 0x033F [0x01] GOTO 0x0531
-139: 0x0342 [0x02] IF !(ExtData[1]->WorkLocal[10] == 8*) GOTO 0x04D0
-140: 0x034A [0x02] IF !(ExtData[1]->WorkLocal[5] == 854*) GOTO 0x0363
-141: 0x0352 [0x03] Work_Zone[2] = 259*
-142: 0x0357 [0x03] Work_Zone[3] = 1*
-143: 0x035C [0x48] [System] [7754*]:
+138: 0x033F [0x01] GOTO 0x0534
+139: 0x0342 [0x02] IF !(ExtData[1]->WorkLocal[10] == 8*) GOTO 0x04D3
+140: 0x034A [0x9D] Work_Zone[2] = 0x0565[ExtData[1]->WorkLocal[16]] // Read WORD
+141: 0x0352 [0x02] IF !(ExtData[1]->WorkLocal[5] == 854*) GOTO 0x036B
+142: 0x035A [0x03] Work_Zone[2] = 259*
+143: 0x035F [0x03] Work_Zone[3] = 1*
+144: 0x0364 [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-144: 0x035F [0x23] WAIT_FOR_DIALOG_INTERACTION
-145: 0x0360 [0x01] GOTO 0x0452
-146: 0x0363 [0x02] IF !(ExtData[1]->WorkLocal[5] == 863*) GOTO 0x037C
-147: 0x036B [0x03] Work_Zone[2] = 259*
-148: 0x0370 [0x03] Work_Zone[3] = 1*
-149: 0x0375 [0x48] [System] [7754*]:
+145: 0x0367 [0x23] WAIT_FOR_DIALOG_INTERACTION
+146: 0x0368 [0x01] GOTO 0x0455
+147: 0x036B [0x02] IF !(ExtData[1]->WorkLocal[5] == 863*) GOTO 0x0384
+148: 0x0373 [0x03] Work_Zone[2] = 259*
+149: 0x0378 [0x03] Work_Zone[3] = 1*
+150: 0x037D [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-150: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
-151: 0x0379 [0x01] GOTO 0x0452
-152: 0x037C [0x02] IF !(ExtData[1]->WorkLocal[5] == 864*) GOTO 0x0395
-153: 0x0384 [0x03] Work_Zone[2] = 259*
-154: 0x0389 [0x03] Work_Zone[3] = 1*
-155: 0x038E [0x48] [System] [7754*]:
+151: 0x0380 [0x23] WAIT_FOR_DIALOG_INTERACTION
+152: 0x0381 [0x01] GOTO 0x0455
+153: 0x0384 [0x02] IF !(ExtData[1]->WorkLocal[5] == 864*) GOTO 0x039D
+154: 0x038C [0x03] Work_Zone[2] = 259*
+155: 0x0391 [0x03] Work_Zone[3] = 1*
+156: 0x0396 [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-156: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
-157: 0x0392 [0x01] GOTO 0x0452
-158: 0x0395 [0x02] IF !(ExtData[1]->WorkLocal[5] == 865*) GOTO 0x03AE
-159: 0x039D [0x03] Work_Zone[2] = 259*
-160: 0x03A2 [0x03] Work_Zone[3] = 1*
-161: 0x03A7 [0x48] [System] [7754*]:
+157: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
+158: 0x039A [0x01] GOTO 0x0455
+159: 0x039D [0x02] IF !(ExtData[1]->WorkLocal[5] == 865*) GOTO 0x03B6
+160: 0x03A5 [0x03] Work_Zone[2] = 259*
+161: 0x03AA [0x03] Work_Zone[3] = 1*
+162: 0x03AF [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-162: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-163: 0x03AB [0x01] GOTO 0x0452
-164: 0x03AE [0x02] IF !(ExtData[1]->WorkLocal[5] == 866*) GOTO 0x03C7
-165: 0x03B6 [0x03] Work_Zone[2] = 259*
-166: 0x03BB [0x03] Work_Zone[3] = 1*
-167: 0x03C0 [0x48] [System] [7754*]:
+163: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
+164: 0x03B3 [0x01] GOTO 0x0455
+165: 0x03B6 [0x02] IF !(ExtData[1]->WorkLocal[5] == 866*) GOTO 0x03CF
+166: 0x03BE [0x03] Work_Zone[2] = 259*
+167: 0x03C3 [0x03] Work_Zone[3] = 1*
+168: 0x03C8 [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-168: 0x03C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-169: 0x03C4 [0x01] GOTO 0x0452
-170: 0x03C7 [0x02] IF !(ExtData[1]->WorkLocal[5] == 867*) GOTO 0x03E0
-171: 0x03CF [0x03] Work_Zone[2] = 259*
-172: 0x03D4 [0x03] Work_Zone[3] = 1*
-173: 0x03D9 [0x48] [System] [7754*]:
+169: 0x03CB [0x23] WAIT_FOR_DIALOG_INTERACTION
+170: 0x03CC [0x01] GOTO 0x0455
+171: 0x03CF [0x02] IF !(ExtData[1]->WorkLocal[5] == 867*) GOTO 0x03E8
+172: 0x03D7 [0x03] Work_Zone[2] = 259*
+173: 0x03DC [0x03] Work_Zone[3] = 1*
+174: 0x03E1 [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-174: 0x03DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-175: 0x03DD [0x01] GOTO 0x0452
-176: 0x03E0 [0x02] IF !(ExtData[1]->WorkLocal[5] == 868*) GOTO 0x03F9
-177: 0x03E8 [0x03] Work_Zone[2] = 259*
-178: 0x03ED [0x03] Work_Zone[3] = 1*
-179: 0x03F2 [0x48] [System] [7754*]:
+175: 0x03E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
+176: 0x03E5 [0x01] GOTO 0x0455
+177: 0x03E8 [0x02] IF !(ExtData[1]->WorkLocal[5] == 868*) GOTO 0x0401
+178: 0x03F0 [0x03] Work_Zone[2] = 259*
+179: 0x03F5 [0x03] Work_Zone[3] = 1*
+180: 0x03FA [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-180: 0x03F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-181: 0x03F6 [0x01] GOTO 0x0452
-182: 0x03F9 [0x02] IF !(ExtData[1]->WorkLocal[5] == 869*) GOTO 0x0412
-183: 0x0401 [0x03] Work_Zone[2] = 259*
-184: 0x0406 [0x03] Work_Zone[3] = 1*
-185: 0x040B [0x48] [System] [7754*]:
+181: 0x03FD [0x23] WAIT_FOR_DIALOG_INTERACTION
+182: 0x03FE [0x01] GOTO 0x0455
+183: 0x0401 [0x02] IF !(ExtData[1]->WorkLocal[5] == 869*) GOTO 0x041A
+184: 0x0409 [0x03] Work_Zone[2] = 259*
+185: 0x040E [0x03] Work_Zone[3] = 1*
+186: 0x0413 [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-186: 0x040E [0x23] WAIT_FOR_DIALOG_INTERACTION
-187: 0x040F [0x01] GOTO 0x0452
-188: 0x0412 [0x02] IF !(ExtData[1]->WorkLocal[5] == 870*) GOTO 0x042B
-189: 0x041A [0x03] Work_Zone[2] = 259*
-190: 0x041F [0x03] Work_Zone[3] = 1*
-191: 0x0424 [0x48] [System] [7754*]:
+187: 0x0416 [0x23] WAIT_FOR_DIALOG_INTERACTION
+188: 0x0417 [0x01] GOTO 0x0455
+189: 0x041A [0x02] IF !(ExtData[1]->WorkLocal[5] == 870*) GOTO 0x0433
+190: 0x0422 [0x03] Work_Zone[2] = 259*
+191: 0x0427 [0x03] Work_Zone[3] = 1*
+192: 0x042C [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-192: 0x0427 [0x23] WAIT_FOR_DIALOG_INTERACTION
-193: 0x0428 [0x01] GOTO 0x0452
-194: 0x042B [0x02] IF !(ExtData[1]->WorkLocal[5] == 871*) GOTO 0x0444
-195: 0x0433 [0x03] Work_Zone[2] = 259*
-196: 0x0438 [0x03] Work_Zone[3] = 1*
-197: 0x043D [0x48] [System] [7754*]:
+193: 0x042F [0x23] WAIT_FOR_DIALOG_INTERACTION
+194: 0x0430 [0x01] GOTO 0x0455
+195: 0x0433 [0x02] IF !(ExtData[1]->WorkLocal[5] == 871*) GOTO 0x044C
+196: 0x043B [0x03] Work_Zone[2] = 259*
+197: 0x0440 [0x03] Work_Zone[3] = 1*
+198: 0x0445 [0x48] [System] [7754*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
-198: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
-199: 0x0441 [0x01] GOTO 0x0452
-200: 0x0444 [0x03] Work_Zone[2] = 259*
-201: 0x0449 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-202: 0x044E [0x48] [System] [7739*]:
+199: 0x0448 [0x23] WAIT_FOR_DIALOG_INTERACTION
+200: 0x0449 [0x01] GOTO 0x0455
+201: 0x044C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
+202: 0x0451 [0x48] [System] [7739*]:
     → "Now entering [/a skirmish in ////an alluvion skirmish in /]$8."
-203: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
+203: 0x0454 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
-SUBROUTINE_0452:
-204: 0x0452 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
-205: 0x0463 [0x1C] WAIT(90* ticks)
-206: 0x0466 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-207: 0x0477 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
-208: 0x0486 [0x1C] WAIT(45* ticks)
-209: 0x0489 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-210: 0x049A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
-211: 0x04A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-212: 0x04BA [0x1C] WAIT(15* ticks)
-213: 0x04BD [0x30] SET_UCOFF_CONTINUE_ZERO()
-214: 0x04BE [0x05] ExtData[1]->WorkLocal[8] = 1
-215: 0x04C1 [0x05] ExtData[1]->WorkLocal[3] = 1
-216: 0x04C4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=8*)
-217: 0x04CD [0x01] GOTO 0x0531
-218: 0x04D0 [0x02] IF !(ExtData[1]->WorkLocal[10] == 9*) GOTO 0x04E3
-219: 0x04D8 [0x03] Work_Zone[1] = 1073741824*
-220: 0x04DD [0x05] ExtData[1]->WorkLocal[8] = 1
-221: 0x04E0 [0x01] GOTO 0x0531
-222: 0x04E3 [0x02] IF !(ExtData[1]->WorkLocal[10] == 10*) GOTO 0x04F9
-223: 0x04EB [0x03] Work_Zone[1] = 1073741824*
-224: 0x04F0 [0x05] ExtData[1]->WorkLocal[8] = 1
-225: 0x04F3 [0x05] ExtData[1]->WorkLocal[3] = 1
-226: 0x04F6 [0x01] GOTO 0x0531
-227: 0x04F9 [0x02] IF !(ExtData[1]->WorkLocal[10] == 11*) GOTO 0x0531
-228: 0x0501 [0x0B] ExtData[1]->WorkLocal[9]++
-229: 0x0504 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 15*) GOTO 0x052B
-230: 0x050C [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
-231: 0x0511 [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=15*, target=Work_Zone[1], source=2*)
-232: 0x051A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
-233: 0x051C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-234: 0x051E [0x05] ExtData[1]->WorkLocal[8] = 1
-235: 0x0521 [0x48] [System] [7742*]:
+SUBROUTINE_0455:
+204: 0x0455 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
+205: 0x0466 [0x1C] WAIT(90* ticks)
+206: 0x0469 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+207: 0x047A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
+208: 0x0489 [0x1C] WAIT(45* ticks)
+209: 0x048C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+210: 0x049D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+211: 0x04AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+212: 0x04BD [0x1C] WAIT(15* ticks)
+213: 0x04C0 [0x30] SET_UCOFF_CONTINUE_ZERO()
+214: 0x04C1 [0x05] ExtData[1]->WorkLocal[8] = 1
+215: 0x04C4 [0x05] ExtData[1]->WorkLocal[3] = 1
+216: 0x04C7 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=8*)
+217: 0x04D0 [0x01] GOTO 0x0534
+218: 0x04D3 [0x02] IF !(ExtData[1]->WorkLocal[10] == 9*) GOTO 0x04E6
+219: 0x04DB [0x03] Work_Zone[1] = 1073741824*
+220: 0x04E0 [0x05] ExtData[1]->WorkLocal[8] = 1
+221: 0x04E3 [0x01] GOTO 0x0534
+222: 0x04E6 [0x02] IF !(ExtData[1]->WorkLocal[10] == 10*) GOTO 0x04FC
+223: 0x04EE [0x03] Work_Zone[1] = 1073741824*
+224: 0x04F3 [0x05] ExtData[1]->WorkLocal[8] = 1
+225: 0x04F6 [0x05] ExtData[1]->WorkLocal[3] = 1
+226: 0x04F9 [0x01] GOTO 0x0534
+227: 0x04FC [0x02] IF !(ExtData[1]->WorkLocal[10] == 11*) GOTO 0x0534
+228: 0x0504 [0x0B] ExtData[1]->WorkLocal[9]++
+229: 0x0507 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 15*) GOTO 0x052E
+230: 0x050F [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]
+231: 0x0514 [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=15*, target=Work_Zone[1], source=2*)
+232: 0x051D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
+233: 0x051F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
+234: 0x0521 [0x05] ExtData[1]->WorkLocal[8] = 1
+235: 0x0524 [0x48] [System] [7742*]:
     → "You cannot enter at this time. Please wait a moment and try again."
-236: 0x0524 [0x23] WAIT_FOR_DIALOG_INTERACTION
-237: 0x0525 [0x1C] WAIT(60* ticks)
-238: 0x0528 [0x01] GOTO 0x052E
-239: 0x052B [0x1C] WAIT(120* ticks)
-
-SUBROUTINE_052E:
-240: 0x052E [0x01] GOTO 0x0531
+236: 0x0527 [0x23] WAIT_FOR_DIALOG_INTERACTION
+237: 0x0528 [0x1C] WAIT(60* ticks)
+238: 0x052B [0x01] GOTO 0x0531
+239: 0x052E [0x1C] WAIT(120* ticks)
 
 SUBROUTINE_0531:
-241: 0x0531 [0x1B] RETURN
+240: 0x0531 [0x01] GOTO 0x0534
+
+SUBROUTINE_0534:
+241: 0x0534 [0x1B] RETURN
 ```
 
 #### Data or dead code:
 
 ```
-# Data Section: 0x0532 (128 bytes)
-     0x0532: 3F 80 40 80 41 80 42 80 43 80 44 80 45 80 46 80
-     0x0542: 47 80 48 80 49 80 4A 80 4B 80 4C 80 2C 80 4D 80
-     0x0552: 01 80 01 80 01 80 4E 80 4E 80 4F 80 01 80 01 80
-     0x0562: 2D 80 2D 80 50 80 2D 80 51 80 51 80 50 80 2D 80
-     0x0572: 2D 80 50 80 51 80 2D 80 50 80 2D 80 2D 80 50 80
-     0x0582: 01 80 01 80 01 80 50 80 50 80 52 80 01 80 01 80
-     0x0592: 2C 80 2F 80 30 80 31 80 32 80 33 80 34 80 35 80
-     0x05A2: 36 80 37 80 01 80 01 80 01 80 01 80 01 80 01 80
+# Data Section: 0x0535 (128 bytes)
+     0x0535: 3F 80 40 80 41 80 42 80 43 80 44 80 45 80 46 80
+     0x0545: 47 80 48 80 49 80 4A 80 4B 80 4C 80 2C 80 4D 80
+     0x0555: 01 80 01 80 01 80 4E 80 4E 80 4F 80 01 80 01 80
+     0x0565: 2D 80 2D 80 50 80 2D 80 51 80 51 80 50 80 2D 80
+     0x0575: 2D 80 50 80 51 80 2D 80 50 80 2D 80 2D 80 50 80
+     0x0585: 01 80 01 80 01 80 50 80 50 80 52 80 01 80 01 80
+     0x0595: 2C 80 2F 80 30 80 31 80 32 80 33 80 34 80 35 80
+     0x05A5: 36 80 37 80 01 80 01 80 01 80 01 80 01 80 01 80
 # Dead code (unreachable instructions):
      0x0124 [0x01] GOTO 0x0127
 ```
@@ -1063,88 +1063,88 @@ SUBROUTINE_0531:
 
 | Field        | Value     |
 |--------------|-----------|
-| Entrypoint   | 0x05B2    |
+| Entrypoint   | 0x05B5    |
 | Data Size    | 276 bytes |
 | Instructions | 14        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-05B0:       42 45 3C 80 F0 FF  FF 7F F0 FF FF 7F 66 64    BE<.........fd
-05C0: 6F 31 01 80 62 00 80 F0  FF FF 7F F0 FF FF 7F 6D  o1..b..........m
-05D0: 61 69 6E 01 80 1C 39 80  45 3A 80 F0 FF FF 7F F0  ain...9.E:......
-05E0: FF FF 7F 77 68 6F 31 01  80 55 3A 80 F0 FF FF 7F  ...who1..U:.....
-05F0: F0 FF FF 7F 77 68 6F 31  1C 3B 80 45 3C 80 F0 FF  ....who1.;.E<...
-0600: FF 7F F0 FF FF 7F 66 64  6F 31 01 80 55 3C 80 F0  ......fdo1..U<..
-0610: FF FF 7F F0 FF FF 7F 66  64 6F 31 45 3A 80 F0 FF  .......fdo1E:...
-0620: FF 7F F0 FF FF 7F 77 68  69 31 01 80 1C 1A 80 30  ......whi1.....0
-0630: 21 00 03 14 00 13 00 02  14 00 24 80 05 47 06 08  !.........$..G..
-0640: 14 00 00 80 01 4C 06 08  14 00 23 80 14 14 00 3E  .....L....#....>
-0650: 80 07 14 00 3D 80 1B 03  14 00 13 00 02 14 00 24  ....=..........$
-0660: 80 05 6C 06 08 14 00 00  80 01 71 06 08 14 00 23  ..l.......q....#
-0670: 80 14 14 00 3E 80 07 14  00 53 80 1B 03 14 00 13  ....>....S......
-0680: 00 02 14 00 24 80 05 91  06 08 14 00 00 80 01 96  ....$...........
-0690: 06 08 14 00 23 80 14 14  00 3E 80 07 14 00 54 80  ....#....>....T.
-06A0: 1B 03 14 00 13 00 02 14  00 24 80 05 B6 06 08 14  .........$......
-06B0: 00 00 80 01 BB 06 08 14  00 23 80 14 14 00 3E 80  .........#....>.
-06C0: 07 14 00 55 80 1B                                 ...U..          
+05B0:                42 45 3C  80 F0 FF FF 7F F0 FF FF       BE<........
+05C0: 7F 66 64 6F 31 01 80 62  00 80 F0 FF FF 7F F0 FF  .fdo1..b........
+05D0: FF 7F 6D 61 69 6E 01 80  1C 39 80 45 3A 80 F0 FF  ..main...9.E:...
+05E0: FF 7F F0 FF FF 7F 77 68  6F 31 01 80 55 3A 80 F0  ......who1..U:..
+05F0: FF FF 7F F0 FF FF 7F 77  68 6F 31 1C 3B 80 45 3C  .......who1.;.E<
+0600: 80 F0 FF FF 7F F0 FF FF  7F 66 64 6F 31 01 80 55  .........fdo1..U
+0610: 3C 80 F0 FF FF 7F F0 FF  FF 7F 66 64 6F 31 45 3A  <.........fdo1E:
+0620: 80 F0 FF FF 7F F0 FF FF  7F 77 68 69 31 01 80 1C  .........whi1...
+0630: 1A 80 30 21 00 03 14 00  13 00 02 14 00 24 80 05  ..0!.........$..
+0640: 4A 06 08 14 00 00 80 01  4F 06 08 14 00 23 80 14  J.......O....#..
+0650: 14 00 3E 80 07 14 00 3D  80 1B 03 14 00 13 00 02  ..>....=........
+0660: 14 00 24 80 05 6F 06 08  14 00 00 80 01 74 06 08  ..$..o.......t..
+0670: 14 00 23 80 14 14 00 3E  80 07 14 00 53 80 1B 03  ..#....>....S...
+0680: 14 00 13 00 02 14 00 24  80 05 94 06 08 14 00 00  .......$........
+0690: 80 01 99 06 08 14 00 23  80 14 14 00 3E 80 07 14  .......#....>...
+06A0: 00 54 80 1B 03 14 00 13  00 02 14 00 24 80 05 B9  .T..........$...
+06B0: 06 08 14 00 00 80 01 BE  06 08 14 00 23 80 14 14  ............#...
+06C0: 00 3E 80 07 14 00 55 80  1B                       .>....U..       
 ```
 
 #### Opcodes
 
 ```
-  0: 0x05B2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x05B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  2: 0x05C4 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
-  3: 0x05D5 [0x1C] WAIT(90* ticks)
-  4: 0x05D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  5: 0x05E9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
-  6: 0x05F8 [0x1C] WAIT(45* ticks)
-  7: 0x05FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  8: 0x060C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
-  9: 0x061B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 10: 0x062C [0x1C] WAIT(15* ticks)
- 11: 0x062F [0x30] SET_UCOFF_CONTINUE_ZERO()
- 12: 0x0630 [0x21] END_EVENT
- 13: 0x0631 [0x00] END_REQSTACK()
+  0: 0x05B5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
+  1: 0x05B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  2: 0x05C7 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
+  3: 0x05D8 [0x1C] WAIT(90* ticks)
+  4: 0x05DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+  5: 0x05EC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
+  6: 0x05FB [0x1C] WAIT(45* ticks)
+  7: 0x05FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
+  8: 0x060F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
+  9: 0x061E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
+ 10: 0x062F [0x1C] WAIT(15* ticks)
+ 11: 0x0632 [0x30] SET_UCOFF_CONTINUE_ZERO()
+ 12: 0x0633 [0x21] END_EVENT
+ 13: 0x0634 [0x00] END_REQSTACK()
 ```
 
 #### Data or dead code:
 
 ```
 # Dead code (unreachable instructions):
-     0x0632 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
-     0x0637 [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x0647
-     0x063F [0x08] ExtData[1]->WorkLocal[20] -= 1*
-     0x0644 [0x01] GOTO 0x064C
-     0x0647 [0x08] ExtData[1]->WorkLocal[20] -= 2*
-     0x064C [0x14] ExtData[1]->WorkLocal[20] *= 10*
-     0x0651 [0x07] ExtData[1]->WorkLocal[20] += 9*
-     0x0656 [0x1B] RETURN
-     0x0657 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
-     0x065C [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x066C
-     0x0664 [0x08] ExtData[1]->WorkLocal[20] -= 1*
-     0x0669 [0x01] GOTO 0x0671
-     0x066C [0x08] ExtData[1]->WorkLocal[20] -= 2*
-     0x0671 [0x14] ExtData[1]->WorkLocal[20] *= 10*
-     0x0676 [0x07] ExtData[1]->WorkLocal[20] += 70*
-     0x067B [0x1B] RETURN
-     0x067C [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
-     0x0681 [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x0691
-     0x0689 [0x08] ExtData[1]->WorkLocal[20] -= 1*
-     0x068E [0x01] GOTO 0x0696
-     0x0691 [0x08] ExtData[1]->WorkLocal[20] -= 2*
-     0x0696 [0x14] ExtData[1]->WorkLocal[20] *= 10*
-     0x069B [0x07] ExtData[1]->WorkLocal[20] += 140*
-     0x06A0 [0x1B] RETURN
-     0x06A1 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
-     0x06A6 [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x06B6
-     0x06AE [0x08] ExtData[1]->WorkLocal[20] -= 1*
-     0x06B3 [0x01] GOTO 0x06BB
-     0x06B6 [0x08] ExtData[1]->WorkLocal[20] -= 2*
-     0x06BB [0x14] ExtData[1]->WorkLocal[20] *= 10*
-     0x06C0 [0x07] ExtData[1]->WorkLocal[20] += 210*
-     0x06C5 [0x1B] RETURN
+     0x0635 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
+     0x063A [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x064A
+     0x0642 [0x08] ExtData[1]->WorkLocal[20] -= 1*
+     0x0647 [0x01] GOTO 0x064F
+     0x064A [0x08] ExtData[1]->WorkLocal[20] -= 2*
+     0x064F [0x14] ExtData[1]->WorkLocal[20] *= 10*
+     0x0654 [0x07] ExtData[1]->WorkLocal[20] += 9*
+     0x0659 [0x1B] RETURN
+     0x065A [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
+     0x065F [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x066F
+     0x0667 [0x08] ExtData[1]->WorkLocal[20] -= 1*
+     0x066C [0x01] GOTO 0x0674
+     0x066F [0x08] ExtData[1]->WorkLocal[20] -= 2*
+     0x0674 [0x14] ExtData[1]->WorkLocal[20] *= 10*
+     0x0679 [0x07] ExtData[1]->WorkLocal[20] += 70*
+     0x067E [0x1B] RETURN
+     0x067F [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
+     0x0684 [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x0694
+     0x068C [0x08] ExtData[1]->WorkLocal[20] -= 1*
+     0x0691 [0x01] GOTO 0x0699
+     0x0694 [0x08] ExtData[1]->WorkLocal[20] -= 2*
+     0x0699 [0x14] ExtData[1]->WorkLocal[20] *= 10*
+     0x069E [0x07] ExtData[1]->WorkLocal[20] += 140*
+     0x06A3 [0x1B] RETURN
+     0x06A4 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[19]
+     0x06A9 [0x02] IF !(ExtData[1]->WorkLocal[20] > 5*) GOTO 0x06B9
+     0x06B1 [0x08] ExtData[1]->WorkLocal[20] -= 1*
+     0x06B6 [0x01] GOTO 0x06BE
+     0x06B9 [0x08] ExtData[1]->WorkLocal[20] -= 2*
+     0x06BE [0x14] ExtData[1]->WorkLocal[20] *= 10*
+     0x06C3 [0x07] ExtData[1]->WorkLocal[20] += 210*
+     0x06C8 [0x1B] RETURN
 ```
 
 ### Event 65535.18
@@ -1153,24 +1153,25 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x06C6   |
+| Entrypoint   | 0x06C9   |
 | Data Size    | 24 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-06C0:                   03 13  00 07 7F 1A 32 06 66 14        ......2.f.
-06D0: 00 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 00        .........tlk0.  
+06C0:                             03 13 00 07 7F 1A 35           ......5
+06D0: 06 66 14 00 F8 FF FF 7F  F8 FF FF 7F 74 6C 6B 30  .f..........tlk0
+06E0: 00                                                .               
 ```
 
 #### Opcodes
 
 ```
-  0: 0x06C6 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x06CB [0x1A] CALL_SUBROUTINE(address=0x0632)
-  2: 0x06CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  3: 0x06DD [0x00] END_REQSTACK()
+  0: 0x06C9 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
+  1: 0x06CE [0x1A] CALL_SUBROUTINE(address=0x0635)
+  2: 0x06D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  3: 0x06E0 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.19
@@ -1179,25 +1180,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x06DE   |
+| Entrypoint   | 0x06E1   |
 | Data Size    | 24 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-06D0:                                            03 13                ..
-06E0: 00 07 7F 1A 32 06 66 14  00 F8 FF FF 7F F8 FF FF  ....2.f.........
-06F0: 7F 74 6C 6B 31 00                                 .tlk1.          
+06E0:    03 13 00 07 7F 1A 35  06 66 14 00 F8 FF FF 7F   ......5.f......
+06F0: F8 FF FF 7F 74 6C 6B 31  00                       ....tlk1.       
 ```
 
 #### Opcodes
 
 ```
-  0: 0x06DE [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x06E3 [0x1A] CALL_SUBROUTINE(address=0x0632)
-  2: 0x06E6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  3: 0x06F5 [0x00] END_REQSTACK()
+  0: 0x06E1 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
+  1: 0x06E6 [0x1A] CALL_SUBROUTINE(address=0x0635)
+  2: 0x06E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  3: 0x06F8 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.20
@@ -1206,26 +1206,26 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x06F6   |
+| Entrypoint   | 0x06F9   |
 | Data Size    | 27 bytes |
 | Instructions | 5        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-06F0:                   03 13  00 07 7F 1A 57 06 0B 14        ......W...
-0700: 00 66 14 00 F8 FF FF 7F  F8 FF FF 7F 70 61 73 30  .f..........pas0
-0710: 00                                                .               
+06F0:                             03 13 00 07 7F 1A 5A           ......Z
+0700: 06 0B 14 00 66 14 00 F8  FF FF 7F F8 FF FF 7F 70  ....f..........p
+0710: 61 73 30 00                                       as0.            
 ```
 
 #### Opcodes
 
 ```
-  0: 0x06F6 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x06FB [0x1A] CALL_SUBROUTINE(address=0x0657)
-  2: 0x06FE [0x0B] ExtData[1]->WorkLocal[20]++
-  3: 0x0701 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  4: 0x0710 [0x00] END_REQSTACK()
+  0: 0x06F9 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
+  1: 0x06FE [0x1A] CALL_SUBROUTINE(address=0x065A)
+  2: 0x0701 [0x0B] ExtData[1]->WorkLocal[20]++
+  3: 0x0704 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  4: 0x0713 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.21
@@ -1234,24 +1234,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0711   |
+| Entrypoint   | 0x0714   |
 | Data Size    | 24 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0710:    03 13 00 07 7F 1A 7C  06 66 14 00 F8 FF FF 7F   ......|.f......
-0720: F8 FF FF 7F 6F 72 7A 30  00                       ....orz0.       
+0710:             03 13 00 07  7F 1A 7F 06 66 14 00 F8      ........f...
+0720: FF FF 7F F8 FF FF 7F 6F  72 7A 30 00              .......orz0.    
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0711 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x0716 [0x1A] CALL_SUBROUTINE(address=0x067C)
-  2: 0x0719 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "orz0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  3: 0x0728 [0x00] END_REQSTACK()
+  0: 0x0714 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
+  1: 0x0719 [0x1A] CALL_SUBROUTINE(address=0x067F)
+  2: 0x071C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "orz0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  3: 0x072B [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.22
@@ -1260,26 +1260,27 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0729   |
+| Entrypoint   | 0x072C   |
 | Data Size    | 37 bytes |
 | Instructions | 5        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0720:                             03 13 00 07 7F 1A 32           ......2
-0730: 06 66 14 00 F8 FF FF 7F  F8 FF FF 7F 73 69 74 30  .f..........sit0
-0740: 53 F8 FF FF 7F F8 FF FF  7F 73 69 74 30 00        S........sit0.  
+0720:                                      03 13 00 07              ....
+0730: 7F 1A 35 06 66 14 00 F8  FF FF 7F F8 FF FF 7F 73  ..5.f..........s
+0740: 69 74 30 53 F8 FF FF 7F  F8 FF FF 7F 73 69 74 30  it0S........sit0
+0750: 00                                                .               
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0729 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x072E [0x1A] CALL_SUBROUTINE(address=0x0632)
-  2: 0x0731 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sit0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  3: 0x0740 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sit0" with entities [EventEntity, EventEntity]
-  4: 0x074D [0x00] END_REQSTACK()
+  0: 0x072C [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
+  1: 0x0731 [0x1A] CALL_SUBROUTINE(address=0x0635)
+  2: 0x0734 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sit0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  3: 0x0743 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sit0" with entities [EventEntity, EventEntity]
+  4: 0x0750 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.23
@@ -1288,27 +1289,26 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x074E   |
+| Entrypoint   | 0x0751   |
 | Data Size    | 37 bytes |
 | Instructions | 5        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0740:                                            03 13                ..
-0750: 00 07 7F 1A 32 06 66 14  00 F8 FF FF 7F F8 FF FF  ....2.f.........
-0760: 7F 73 69 74 31 53 F8 FF  FF 7F F8 FF FF 7F 73 69  .sit1S........si
-0770: 74 31 00                                          t1.             
+0750:    03 13 00 07 7F 1A 35  06 66 14 00 F8 FF FF 7F   ......5.f......
+0760: F8 FF FF 7F 73 69 74 31  53 F8 FF FF 7F F8 FF FF  ....sit1S.......
+0770: 7F 73 69 74 31 00                                 .sit1.          
 ```
 
 #### Opcodes
 
 ```
-  0: 0x074E [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x0753 [0x1A] CALL_SUBROUTINE(address=0x0632)
-  2: 0x0756 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sit1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  3: 0x0765 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sit1" with entities [EventEntity, EventEntity]
-  4: 0x0772 [0x00] END_REQSTACK()
+  0: 0x0751 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
+  1: 0x0756 [0x1A] CALL_SUBROUTINE(address=0x0635)
+  2: 0x0759 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sit1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  3: 0x0768 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sit1" with entities [EventEntity, EventEntity]
+  4: 0x0775 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.24
@@ -1317,27 +1317,27 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0773   |
+| Entrypoint   | 0x0776   |
 | Data Size    | 42 bytes |
 | Instructions | 6        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0770:          03 13 00 07 7F  1A 32 06 66 14 00 F8 FF     ......2.f....
-0780: FF 7F F8 FF FF 7F 74 6C  6B 30 1C 26 80 66 14 00  ......tlk0.&.f..
-0790: F8 FF FF 7F F8 FF FF 7F  74 6C 6B 31 00           ........tlk1.   
+0770:                   03 13  00 07 7F 1A 35 06 66 14        ......5.f.
+0780: 00 F8 FF FF 7F F8 FF FF  7F 74 6C 6B 30 1C 26 80  .........tlk0.&.
+0790: 66 14 00 F8 FF FF 7F F8  FF FF 7F 74 6C 6B 31 00  f..........tlk1.
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0773 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
-  1: 0x0778 [0x1A] CALL_SUBROUTINE(address=0x0632)
-  2: 0x077B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  3: 0x078A [0x1C] WAIT(60* ticks)
-  4: 0x078D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
-  5: 0x079C [0x00] END_REQSTACK()
+  0: 0x0776 [0x03] ExtData[1]->WorkLocal[19] = Entity->Race
+  1: 0x077B [0x1A] CALL_SUBROUTINE(address=0x0635)
+  2: 0x077E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  3: 0x078D [0x1C] WAIT(60* ticks)
+  4: 0x0790 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[20]
+  5: 0x079F [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.25
@@ -1346,25 +1346,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x079D   |
+| Entrypoint   | 0x07A0   |
 | Data Size    | 15 bytes |
 | Instructions | 5        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0790:                                         32 18 80               2..
-07A0: 1F 00 56 80 57 80 58 80  1F 01 6F 00              ..V.W.X...o.    
+07A0: 32 18 80 1F 00 56 80 57  80 58 80 1F 01 6F 00     2....V.W.X...o. 
 ```
 
 #### Opcodes
 
 ```
-  0: 0x079D [0x32] ExtData[1]->MainSpeed = 11* * 0.1
-  1: 0x07A0 [0x1F] MOVE_ENTITY: EventEntity moves to X=-139.417*, Z=52.511*, Y=10.072*
-  2: 0x07A8 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x07AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x07AB [0x00] END_REQSTACK()
+  0: 0x07A0 [0x32] ExtData[1]->MainSpeed = 11* * 0.1
+  1: 0x07A3 [0x1F] MOVE_ENTITY: EventEntity moves to X=-139.417*, Z=52.511*, Y=10.072*
+  2: 0x07AB [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x07AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x07AE [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.26
@@ -1373,25 +1372,25 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x07AC   |
+| Entrypoint   | 0x07AF   |
 | Data Size    | 15 bytes |
 | Instructions | 5        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-07A0:                                      32 18 80 1F              2...
-07B0: 00 59 80 5A 80 5B 80 1F  01 6F 00                 .Y.Z.[...o.     
+07A0:                                               32                 2
+07B0: 18 80 1F 00 59 80 5A 80  5B 80 1F 01 6F 00        ....Y.Z.[...o.  
 ```
 
 #### Opcodes
 
 ```
-  0: 0x07AC [0x32] ExtData[1]->MainSpeed = 11* * 0.1
-  1: 0x07AF [0x1F] MOVE_ENTITY: EventEntity moves to X=-140.191*, Z=45.983*, Y=9.873*
-  2: 0x07B7 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x07B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x07BA [0x00] END_REQSTACK()
+  0: 0x07AF [0x32] ExtData[1]->MainSpeed = 11* * 0.1
+  1: 0x07B2 [0x1F] MOVE_ENTITY: EventEntity moves to X=-140.191*, Z=45.983*, Y=9.873*
+  2: 0x07BA [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x07BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
+  4: 0x07BD [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.27
@@ -1400,29 +1399,29 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x07BB   |
+| Entrypoint   | 0x07BE   |
 | Data Size    | 32 bytes |
 | Instructions | 8        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-07B0:                                   32 09 80 1F 00             2....
-07C0: 5C 80 5D 80 5E 80 1F 01  1C 5F 80 6E F8 FF FF 7F  \.].^...._.n....
-07D0: 1D 80 99 F8 FF FF 7F 1C  39 80 00                 ........9..     
+07B0:                                            32 09                2.
+07C0: 80 1F 00 5C 80 5D 80 5E  80 1F 01 1C 5F 80 6E F8  ...\.].^...._.n.
+07D0: FF FF 7F 1D 80 99 F8 FF  FF 7F 1C 39 80 00        ...........9..  
 ```
 
 #### Opcodes
 
 ```
-  0: 0x07BB [0x32] ExtData[1]->MainSpeed = 40* * 0.1
-  1: 0x07BE [0x1F] MOVE_ENTITY: EventEntity moves to X=-108.384*, Z=225.800*, Y=-5.536*
-  2: 0x07C6 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x07C8 [0x1C] WAIT(30* ticks)
-  4: 0x07CB [0x6E] EventEntity uses emote 21*
-  5: 0x07D2 [0x99] Wait for EventEntity animation to complete
-  6: 0x07D7 [0x1C] WAIT(90* ticks)
-  7: 0x07DA [0x00] END_REQSTACK()
+  0: 0x07BE [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x07C1 [0x1F] MOVE_ENTITY: EventEntity moves to X=-108.384*, Z=225.800*, Y=-5.536*
+  2: 0x07C9 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x07CB [0x1C] WAIT(30* ticks)
+  4: 0x07CE [0x6E] EventEntity uses emote 21*
+  5: 0x07D5 [0x99] Wait for EventEntity animation to complete
+  6: 0x07DA [0x1C] WAIT(90* ticks)
+  7: 0x07DD [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.28
@@ -1431,24 +1430,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x07DB   |
+| Entrypoint   | 0x07DE   |
 | Data Size    | 14 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-07D0:                                   32 09 80 1F 00             2....
-07E0: 60 80 61 80 62 80 1F 01  00                       `.a.b....       
+07D0:                                            32 09                2.
+07E0: 80 1F 00 60 80 61 80 62  80 1F 01 00              ...`.a.b....    
 ```
 
 #### Opcodes
 
 ```
-  0: 0x07DB [0x32] ExtData[1]->MainSpeed = 40* * 0.1
-  1: 0x07DE [0x1F] MOVE_ENTITY: EventEntity moves to X=-142.065*, Z=247.015*, Y=30.748*
-  2: 0x07E6 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x07E8 [0x00] END_REQSTACK()
+  0: 0x07DE [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x07E1 [0x1F] MOVE_ENTITY: EventEntity moves to X=-142.065*, Z=247.015*, Y=30.748*
+  2: 0x07E9 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x07EB [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.29
@@ -1457,24 +1456,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x07E9   |
+| Entrypoint   | 0x07EC   |
 | Data Size    | 14 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-07E0:                             32 09 80 1F 00 63 80           2....c.
-07F0: 64 80 65 80 1F 01 00                              d.e....         
+07E0:                                      32 09 80 1F              2...
+07F0: 00 63 80 64 80 65 80 1F  01 00                    .c.d.e....      
 ```
 
 #### Opcodes
 
 ```
-  0: 0x07E9 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
-  1: 0x07EC [0x1F] MOVE_ENTITY: EventEntity moves to X=-100.004*, Z=209.741*, Y=31.165*
-  2: 0x07F4 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x07F6 [0x00] END_REQSTACK()
+  0: 0x07EC [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x07EF [0x1F] MOVE_ENTITY: EventEntity moves to X=-100.004*, Z=209.741*, Y=31.165*
+  2: 0x07F7 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x07F9 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.30
@@ -1483,24 +1482,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x07F7   |
+| Entrypoint   | 0x07FA   |
 | Data Size    | 14 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-07F0:                      32  0F 80 1F 00 66 80 67 80         2....f.g.
-0800: 68 80 1F 01 00                                    h....           
+07F0:                                32 0F 80 1F 00 66            2....f
+0800: 80 67 80 68 80 1F 01 00                           .g.h....        
 ```
 
 #### Opcodes
 
 ```
-  0: 0x07F7 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
-  1: 0x07FA [0x1F] MOVE_ENTITY: EventEntity moves to X=155.479*, Z=148.187*, Y=10.055*
-  2: 0x0802 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0804 [0x00] END_REQSTACK()
+  0: 0x07FA [0x32] ExtData[1]->MainSpeed = 13* * 0.1
+  1: 0x07FD [0x1F] MOVE_ENTITY: EventEntity moves to X=155.479*, Z=148.187*, Y=10.055*
+  2: 0x0805 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0807 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.31
@@ -1509,23 +1508,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0805   |
+| Entrypoint   | 0x0808   |
 | Data Size    | 27 bytes |
 | Instructions | 3        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0800:                2C F8 FF  FF 7F F8 FF FF 7F 63 6F       ,........co
-0810: 72 70 53 F8 FF FF 7F F8  FF FF 7F 63 6F 72 70 00  rpS........corp.
+0800:                          2C F8 FF FF 7F F8 FF FF          ,.......
+0810: 7F 63 6F 72 70 53 F8 FF  FF 7F F8 FF FF 7F 63 6F  .corpS........co
+0820: 72 70 00                                          rp.             
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0805 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "corp" with entities [EventEntity, EventEntity]
-  1: 0x0812 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "corp" with entities [EventEntity, EventEntity]
-  2: 0x081F [0x00] END_REQSTACK()
+  0: 0x0808 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "corp" with entities [EventEntity, EventEntity]
+  1: 0x0815 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "corp" with entities [EventEntity, EventEntity]
+  2: 0x0822 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.32
@@ -1534,26 +1534,26 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0820   |
+| Entrypoint   | 0x0823   |
 | Data Size    | 24 bytes |
 | Instructions | 6        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0820: 32 09 80 1F 00 69 80 6A  80 6B 80 1F 01 1F 00 6C  2....i.j.k.....l
-0830: 80 6D 80 6E 80 1F 01 00                           .m.n....        
+0820:          32 09 80 1F 00  69 80 6A 80 6B 80 1F 01     2....i.j.k...
+0830: 1F 00 6C 80 6D 80 6E 80  1F 01 00                 ..l.m.n....     
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0820 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
-  1: 0x0823 [0x1F] MOVE_ENTITY: EventEntity moves to X=-107.600*, Z=218.256*, Y=29.955*
-  2: 0x082B [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x082D [0x1F] MOVE_ENTITY: EventEntity moves to X=-105.371*, Z=215.750*, Y=29.751*
-  4: 0x0835 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  5: 0x0837 [0x00] END_REQSTACK()
+  0: 0x0823 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x0826 [0x1F] MOVE_ENTITY: EventEntity moves to X=-107.600*, Z=218.256*, Y=29.955*
+  2: 0x082E [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0830 [0x1F] MOVE_ENTITY: EventEntity moves to X=-105.371*, Z=215.750*, Y=29.751*
+  4: 0x0838 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  5: 0x083A [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.33
@@ -1562,24 +1562,24 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0838   |
+| Entrypoint   | 0x083B   |
 | Data Size    | 14 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0830:                          32 09 80 1F 00 6F 80 70          2....o.p
-0840: 80 71 80 1F 01 00                                 .q....          
+0830:                                   32 09 80 1F 00             2....
+0840: 6F 80 70 80 71 80 1F 01  00                       o.p.q....       
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0838 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
-  1: 0x083B [0x1F] MOVE_ENTITY: EventEntity moves to X=427.445*, Z=-257.066*, Y=33.778*
-  2: 0x0843 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0845 [0x00] END_REQSTACK()
+  0: 0x083B [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x083E [0x1F] MOVE_ENTITY: EventEntity moves to X=427.445*, Z=-257.066*, Y=33.778*
+  2: 0x0846 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0848 [0x00] END_REQSTACK()
 ```
 
 ### Event 65535.34
@@ -1588,22 +1588,22 @@ SUBROUTINE_0531:
 
 | Field        | Value    |
 |--------------|----------|
-| Entrypoint   | 0x0846   |
+| Entrypoint   | 0x0849   |
 | Data Size    | 14 bytes |
 | Instructions | 4        |
 
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-0840:                   32 09  80 1F 00 72 80 73 80 74        2....r.s.t
-0850: 80 1F 01 00                                       ....            
+0840:                             32 09 80 1F 00 72 80           2....r.
+0850: 73 80 74 80 1F 01 00                              s.t....         
 ```
 
 #### Opcodes
 
 ```
-  0: 0x0846 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
-  1: 0x0849 [0x1F] MOVE_ENTITY: EventEntity moves to X=363.115*, Z=193.420*, Y=29.886*
-  2: 0x0851 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0853 [0x00] END_REQSTACK()
+  0: 0x0849 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
+  1: 0x084C [0x1F] MOVE_ENTITY: EventEntity moves to X=363.115*, Z=193.420*, Y=29.886*
+  2: 0x0854 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
+  3: 0x0856 [0x00] END_REQSTACK()
 ```

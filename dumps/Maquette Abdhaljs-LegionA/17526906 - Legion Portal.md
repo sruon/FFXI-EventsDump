@@ -1,10 +1,10 @@
-# 17952893 - Legion Portal
+# 17526906 - Legion Portal
 
 ## Common Data
 
 | Field            | Value                               |
 |------------------|-------------------------------------|
-| Zone             | Maquette Abdhaljs-LegionB (ID: 287) |
+| Zone             | Maquette Abdhaljs-LegionA (ID: 183) |
 | Block Size       | 124 bytes                           |
 | Total Events     | 2                                   |
 | References Count | 6                                   |

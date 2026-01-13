@@ -5,8 +5,8 @@
 | Field        |   Value |
 |--------------|---------|
 | Zone ID      |      94 |
-| Total Actors |     339 |
-| Total Events |    4706 |
+| Total Actors |     338 |
+| Total Events |    4704 |
 
 ## Source Files
 
@@ -353,9 +353,8 @@
 | 0x0105E30D       |         17163021 | [Voidwatch Purveyor](./17163021%20-%20Voidwatch%20Purveyor.md)             |        3 | 48, 65535                                                                                                                                                                                      |
 | 0x0105E30E       |         17163022 | [Porter Moogle](./17163022%20-%20Porter%20Moogle.md)                       |        7 | 523, 524, 525, 526, 527, 531, 65535                                                                                                                                                            |
 | 0x0105E30F       |         17163023 | [(unnamed)](./17163023.md)                                                 |        6 | 523, 525, 65535                                                                                                                                                                                |
-| 0x0105E310       |         17163024 | [Shuvo](./17163024%20-%20Shuvo.md)                                         |        2 | 7300, 65535                                                                                                                                                                                    |
-| 0x0105E311       |         17163025 | [(unnamed)](./17163025.md)                                                 |       28 | 20, 65535                                                                                                                                                                                      |
-| 0x0105E312       |         17163026 | [Romaa Mihgo](./17163026%20-%20Romaa%20Mihgo.md)                           |       47 | 530, 65535                                                                                                                                                                                     |
-| 0x0105E313       |         17163027 | [Survival Guide](./17163027%20-%20Survival%20Guide.md)                     |        3 | 8500, 8501, 65535                                                                                                                                                                              |
-| 0x0105E314       |         17163028 | [Jalah Mistani](./17163028%20-%20Jalah%20Mistani.md)                       |        2 | 540, 65535                                                                                                                                                                                     |
+| 0x0105E310       |         17163024 | [(unnamed)](./17163024.md)                                                 |       28 | 20, 65535                                                                                                                                                                                      |
+| 0x0105E311       |         17163025 | [Romaa Mihgo](./17163025%20-%20Romaa%20Mihgo.md)                           |       47 | 530, 65535                                                                                                                                                                                     |
+| 0x0105E312       |         17163026 | [Survival Guide](./17163026%20-%20Survival%20Guide.md)                     |        3 | 8500, 8501, 65535                                                                                                                                                                              |
+| 0x0105E313       |         17163027 | [Jalah Mistani](./17163027%20-%20Jalah%20Mistani.md)                       |        2 | 540, 65535                                                                                                                                                                                     |
 | 0x7FFFFFF0       |       2147483632 | [Zone Events](./Zone%20Events.md)                                          |      125 | 512, 65534, 65535                                                                                                                                                                              |

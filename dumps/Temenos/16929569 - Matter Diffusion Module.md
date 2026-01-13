@@ -28,7 +28,7 @@
 |       5 | 0x0004      |           4 |
 |       6 | 0x0005      |           5 |
 |       7 | 0x0006      |           6 |
-|       8 | 0x0032      |          50 |
+|       8 | 0x0033      |          51 |
 |       9 | 0x1C40      |        7232 |
 |      10 | 0x000A      |          10 |
 |      11 | 0x0007      |           7 |
@@ -232,7 +232,7 @@
  19: 0x0065 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x006C [0x01] GOTO 0x008F
  21: 0x006F [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x007F
- 22: 0x0077 [0x03] Work_Zone[2] = 50*
+ 22: 0x0077 [0x03] Work_Zone[2] = 51*
  23: 0x007C [0x01] GOTO 0x008F
  24: 0x007F [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x008F
  25: 0x0087 [0x03] Work_Zone[2] = 0*
@@ -241,7 +241,7 @@
 SUBROUTINE_008F:
  27: 0x008F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x009A
  28: 0x0097 [0x01] GOTO 0x03EE
- 29: 0x009A [0x02] IF !(Work_Zone[2] == 50*) GOTO 0x00A5
+ 29: 0x009A [0x02] IF !(Work_Zone[2] == 51*) GOTO 0x00A5
  30: 0x00A2 [0x01] GOTO 0x0166
  31: 0x00A5 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
  32: 0x00AA [0x0C] ExtData[1]->WorkLocal[2]--
@@ -390,7 +390,7 @@ SUBROUTINE_0166:
 172: 0x03C1 [0x47] UPDATE_PLAYER_POS(-296.000*, -500.000*, -162.380*, yaw=180.0°*)
 173: 0x03CB [0x47] WAIT_PLAYER_POS_UPDATE
 174: 0x03CD [0x01] GOTO 0x03E7
-175: 0x03D0 [0x02] IF !(Work_Zone[1] == 50*) GOTO 0x03E7
+175: 0x03D0 [0x02] IF !(Work_Zone[1] == 51*) GOTO 0x03E7
 176: 0x03D8 [0x47] UPDATE_PLAYER_POS(-540.000*, -584.000*, -2.380*, yaw=270.0°*)
 177: 0x03E2 [0x47] WAIT_PLAYER_POS_UPDATE
 178: 0x03E4 [0x01] GOTO 0x03E7

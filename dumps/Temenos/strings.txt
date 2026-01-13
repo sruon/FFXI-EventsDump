@@ -1,5 +1,5 @@
 # Strings for Temenos
-# Total: 7323 strings
+# Total: 7328 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7262,7 +7262,7 @@
  7258: What will you do? [Change level and reset./Never mind.]
  7259: Progress has been reset.
  7260: Unrecognized entrant. Please proceed to the Temenos Operator.
- 7261: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Tresure coffer timings./%.@/CN Opening.$1./Reforging.@/Nothing for now.]
+ 7261: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%.@/CN Opening.$1./Reforging.@/Unique data./Nothing for now.]
  7262: Remaining Temenos Units: $0. Total Temenos Units: $1/$2.
  7263: The Temenos Furnace uses data to enhance your equipment.
  7264: Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Nothing for now.]
@@ -7318,9 +7318,14 @@
  7314: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
  7315: However, the original equipment will be consumed in the process.
  7316: You have received the designation Temenos Liberator, which has become unattainable by other means.
- 7317: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7318: slot:@ initStep:@ ticket:@ expire:@sec
- 7319: $P15[$P116$3f$593776$z%;5\5=B
- 7320: $60298775=B
- 7321: $3`$3P$3b$3gp$P14j$|5\5=B
- 7322: Error:@
+ 7317: Unique data can be collected after $0 more attempt[/s].
+ 7318: Unique data will be recorded after dealing damage to a notorious monster.
+ 7319: A wide variety of data is needed to ensure the unique data's precision.
+ 7320: Acquiring the requisite amount of unique data will unlock one Temenos Coffer in either the north, west, east, or central towers.
+ 7321: Unique data may be accumulated up to a cap of $0.
+ 7322: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7323: slot:@ initStep:@ ticket:@ expire:@sec
+ 7324: $P15[$P116$3f$593776$z%;5\5=B
+ 7325: $60298775=B
+ 7326: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7327: Error:@

@@ -1,4 +1,4 @@
-# 17105701 - Survival Guide
+# 17105700 - Survival Guide
 
 ## Common Data
 
@@ -908,7 +908,7 @@ SUBROUTINE_00D1:
 1120: 00 0B 80 01 4A 11 02 20  00 0B 80 80 38 11 3D 4A  ....J.. ....8.=J
 1130: 00 47 00 0B 80 01 4A 11  02 20 00 0C 80 80 4A 11  .G....J.. ....J.
 1140: 3D 4B 00 47 00 0B 80 01  4A 11 0B 3E 00 1B 73 39  =K.G....J..>..s9
-1150: 80 25 03 05 01 F0 FF FF  7F 1C 3A 80 45 3B 80 F0  .%........:.E;..
+1150: 80 24 03 05 01 F0 FF FF  7F 1C 3A 80 45 3B 80 F0  .$........:.E;..
 1160: FF FF 7F F0 FF FF 7F 66  64 6F 31 00 80 1C 3C 80  .......fdo1...<.
 1170: 1B 48 2D 80 23 21 1B 48  2E 80 23 21 1B 06 0E 00  .H-.#!.H..#!....
 1180: 02 0E 00 3D 80 03 96 11  9D 05 4C 12 00 80 0E 00  ...=......L.....
@@ -2071,7 +2071,7 @@ SUBROUTINE_114A:
 802: 0x114D [0x1B] RETURN
 
 SUBROUTINE_114E:
-803: 0x114E [0x73] Survival Guide (ID: 17105701/0x01050325) casts magic 122* on LocalPlayer
+803: 0x114E [0x73] Survival Guide (ID: 17105700/0x01050324) casts magic 122* on LocalPlayer
 804: 0x1159 [0x1C] WAIT(260* ticks)
 805: 0x115C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 806: 0x116D [0x1C] WAIT(60* ticks)
